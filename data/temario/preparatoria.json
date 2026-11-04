@@ -1,0 +1,1892 @@
+[
+ {
+  "id": "ems-001",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica conceptos básicos de lógica matemática en situaciones de su contexto para desarrollar esquemas de razonamiento estructurado.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 14
+ },
+ {
+  "id": "ems-002",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende el concepto de conteo a partir del análisis de los procesos sociales que llevaron a su desarrollo para aplicarlo en situaciones de interés.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 14
+ },
+ {
+  "id": "ems-003",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Analiza distintas situaciones cotidianas en donde intervenga el proceso de contar , para comprender la clasificación de los números y realizar operaciones básicas entre números naturales y enteros.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 14
+ },
+ {
+  "id": "ems-004",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende el concepto de unidad y la relación entre números fraccionarios y enteros, para realizar operaciones con fracciones y porcentajes.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 15
+ },
+ {
+  "id": "ems-005",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende los conceptos de potenciación y radicación para realizar operaciones con exponentes y radicales.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 15
+ },
+ {
+  "id": "ems-006",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende el concepto de medición a partir del análisis de los procesos sociales que llevaron a su desarrollo para aplicarlo en situaciones de interés.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 15
+ },
+ {
+  "id": "ems-007",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica los elementos de la aritmética para resolver cálculos combinados con números reales.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 15
+ },
+ {
+  "id": "ems-008",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Representa operaciones aritméticas utilizadas en situaciones de interés, mediante letras y símbolos, para comprender el lenguaje algebraico.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 16
+ },
+ {
+  "id": "ems-009",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende la clasificación de las expresiones algebraicas para construir e identificar monomios, binomios, trinomios y polinomios.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 16
+ },
+ {
+  "id": "ems-010",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica la aritmética y el manejo del álgebra para realizar operaciones con monomios y binomios, referentes a situaciones de interés, a partir del análisis de sus componentes.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 17
+ },
+ {
+  "id": "ems-011",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica la aritmética y el manejo del álgebra para realizar operaciones con trinomios y polinomios, referentes a situaciones de interés, a partir del análisis de sus componentes.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 17
+ },
+ {
+  "id": "ems-012",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica el álgebra en situaciones de interés para comprender su relevancia en otras áreas del conocimiento, fenómenos naturales o en distintas esferas de la vida humana.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 17
+ },
+ {
+  "id": "ems-013",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende el concepto de ecuación a partir de las igualdades matemáticas para encontrar el valor de una incógnita utilizando situaciones de interés.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 17
+ },
+ {
+  "id": "ems-014",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica la aritmética y el manejo del álgebra para encontrar el valor de una incógnita en ecuaciones lineales que refieran a situaciones de interés.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 18
+ },
+ {
+  "id": "ems-015",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica la aritmética y el manejo del álgebra para resolver ecuaciones lineales con dos incógnitas que refieran a situaciones de interés.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 18
+ },
+ {
+  "id": "ems-016",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica la aritmética y el manejo del álgebra para resolver ecuaciones cuadráticas que refieran a situaciones de interés.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 19
+ },
+ {
+  "id": "ems-017",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Expresa y resuelve diversas situaciones de interés a través de distintos tipos de ecuaciones para comprender su relevancia en otras áreas del conocimiento, fenómenos naturales o en distintas esferas de la vida humana.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 19
+ },
+ {
+  "id": "ems-018",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Revisa el teorema del triángulo de Napoleón, considerándolo como un problema-meta para aplicar resultados de la geometría euclidiana.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 19
+ },
+ {
+  "id": "ems-019",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica la aritmética, el manejo del álgebra y el método gráfico para resolver sistemas de ecuaciones lineales que refieran a situaciones de interés Método de igualación Método de sustitución Método de reducción Método gráfico Método por determinantes Fuente: Elaborado por la COSAC.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 19
+ },
+ {
+  "id": "ems-020",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende el concepto de recta y de punto para su representación y análisis algebraico.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 20
+ },
+ {
+  "id": "ems-021",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Analiza la relación entre los lados y los ángulos de un triángulo rectángulo para establecer razones trigonométricas.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 20
+ },
+ {
+  "id": "ems-022",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Grafica en el plano cartesiano polinomios de dos variables con coeficientes reales, con el fin de deducir la simetría y la extensión.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 21
+ },
+ {
+  "id": "ems-023",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Observa el comportamiento de dos variables en relación de proporcionalidad directa para deducir la ecuación de la recta.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 21
+ },
+ {
+  "id": "ems-024",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Analiza situaciones o fenómenos que involucren funciones cuadráticas en su modelado para deducir propiedades analíticas de la parábola.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 21
+ },
+ {
+  "id": "ems-025",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Estudia movimientos circulares y elípticos, así como coplanaridad, mediante la ecuación de la circunferencia, las leyes de Kepler y el pensamiento variacional, para comprenderlos.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 21
+ },
+ {
+  "id": "ems-026",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica conocimientos sobre ecuaciones con dos variables para realizar estimaciones sencillas y consolidar los aprendizajes Modelado y estimación Aplicación de las secciones cónicas: elipse, parábola, hipérbola y circunferencia Fuente: Elaborado por la COSAC.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 21
+ },
+ {
+  "id": "ems-027",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Comprende de manera intuitiva la variación promedio e instantánea mediante el estudio del origen y la evolución del cálculo diferencial, para aproximarse a sus fundamentos y a su aplicación en la explicación de situaciones y fenómenos de cambio.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 22
+ },
+ {
+  "id": "ems-028",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica funciones de variable real en la modelación de situaciones o fenómenos de cambio contextualizados, mediante el análisis de sus propiedades gráficas y la determinación de la ecuación de la recta tangente a una curva en un punto dado, para explicar la relación entre sus variables y el cambio instantáneo.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 22
+ },
+ {
+  "id": "ems-029",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Analiza el límite y la continuidad de funciones de variable real mediante procedimientos numéricos, algebraicos y gráficos, para modelar e interpretar fenómenos naturales y sociales.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 23
+ },
+ {
+  "id": "ems-030",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica métodos para derivar funciones lineales y polinomiales, comprendiendo intuitivamente su utilidad como herramienta de análisis en fenómenos de cambio de las ciencias naturales y sociales.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 23
+ },
+ {
+  "id": "ems-031",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Aplica conocimientos de la derivada para resolver problemas de optimización relacionados con situaciones de su entorno o de otras áreas del conocimiento.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 23
+ },
+ {
+  "id": "ems-032",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Obtiene datos pertinentes y confiables sobre fenómenos naturales y sociales mediante la selección de fuentes, su recolección y organización, y el empleo de técnicas básicas de muestreo aleatorio, para sustentar su análisis.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 24
+ },
+ {
+  "id": "ems-033",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Analiza datos reales mediante representaciones gráficas, medidas estadísticas y relaciones entre variables, para interpretar su variabilidad y sustentar conclusiones descriptivas, con apoyo de herramientas tecnológicas.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 25
+ },
+ {
+  "id": "ems-034",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Calcula probabilidades de eventos mediante representaciones del espacio muestral y técnicas básicas de conteo, para resolver situaciones de interés y fundamentar la toma de decisiones.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 25
+ },
+ {
+  "id": "ems-035",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Explica el comportamiento de fenómenos aleatorios mediante la distribución normal y el cálulo de probabilidades, con apoyo de herramientas tecnológicas, para sustentar conclusiones en situaciones contextualizadas.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 25
+ },
+ {
+  "id": "ems-036",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Matemático",
+  "materia": "Matemáticas",
+  "contenido": "Analiza el comportamiento de eventos deterministas y aleatorios mediante el reconocimiento de la incertidumbre y la variabilidad, la formulación de hipótesis de trabajo y el uso de simulaciones, para estimar la frecuencia y probabilidad de sus resultados.",
+  "fuente": "MCC_PENSAMIENTO_MATEMATICO",
+  "pagina": 25
+ },
+ {
+  "id": "ems-037",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende que los fenómenos de la naturaleza están interrelacionados, y pueden estudiarse en su conjunto o de forma especializada, para la generación de conocimiento o innovación tecnológica.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 14
+ },
+ {
+  "id": "ems-038",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende los conceptos de materia, cuerpo, masa y densidad, a partir de los objetos del entorno perceptible, para describirlos y analizarlos.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 14
+ },
+ {
+  "id": "ems-039",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Reconoce la ciencia como actividad creativa, social y colectiva que involucra el planteamiento de preguntas y la búsqueda de explicaciones sobre fenómenos naturales de su entorno, a través de la experimentación y el análisis.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 14
+ },
+ {
+  "id": "ems-040",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende el átomo y su composición eléctrica como la partícula microscópica que estructura la materia.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 15
+ },
+ {
+  "id": "ems-041",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza la formación de iones, moléculas y sustancias, a partir de la unión de dos o más átomos que tienden a la estabilidad energética, para explicar la formación de enlaces químicos.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 15
+ },
+ {
+  "id": "ems-042",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Construye explicaciones sobre la naturaleza energética y corpuscular de la materia, y explora aplicaciones tecnológicas relacionadas.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 15
+ },
+ {
+  "id": "ems-043",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Explica las propiedades físicas de los estados de agregación de la materia en función del movimiento, separación y fuerzas de atracción o repulsión de las partículas internas, y las vincula con los conceptos de energía cinética, potencial e interna.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 15
+ },
+ {
+  "id": "ems-044",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende los conceptos de sustancia, sustancia pura, elemento compuesto y mezcla, y los aplica para clasificar de forma práctica o analítica distintos tipos de materia y reconocer sus propiedades físicas y químicas.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 15
+ },
+ {
+  "id": "ems-045",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende, a partir del análisis de fenómenos naturales cotidianos, que la energía puede transformarse y transferirse sin destruirse.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 16
+ },
+ {
+  "id": "ems-046",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza el cambio de posición de un cuerpo al interactuar con otro, para comprender los conceptos de fuerza, movimiento y su relación con la energía mecánica.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 16
+ },
+ {
+  "id": "ems-047",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza el intercambio de calor entre cuerpos y con el entorno, para comprender su concepto, el de temperatura y su diferencia.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 16
+ },
+ {
+  "id": "ems-048",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza el vínculo entre trabajo mecánico y calor , para comprender el concepto de termodinámica.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 17
+ },
+ {
+  "id": "ems-049",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza la interacción entre la energía y la estructura de la materia para comprender las formas de propagación de calor .",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 17
+ },
+ {
+  "id": "ems-050",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza tanto la producción de calor que se genera por procesos mecánicos como las propiedades de un gas ideal, para comprender la primera ley de la termodinámica.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 17
+ },
+ {
+  "id": "ems-051",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza las aplicaciones de la primera ley de la termodinámica en situaciones de interés, para comprender el concepto de entropía, entalpía, así como la segunda y tercera leyes de la termodinámica.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 17
+ },
+ {
+  "id": "ems-052",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Construye explicaciones sobre fenómenos naturales en donde intervienen distintos tipos de energía, y explora aplicaciones tecnológicas relacionadas.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 17
+ },
+ {
+  "id": "ems-053",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Aplica el conocimiento sobre los estados de agregación y clasificación de la materia; propiedades de los cuerpos y temperatura para explicar las capas, composición e interacción de la hidrósfera y atmósfera.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 18
+ },
+ {
+  "id": "ems-054",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende a la Tierra como un sistema, a partir del análisis de los subsistemas que lo conforman y sus interacciones.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 18
+ },
+ {
+  "id": "ems-055",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza la estructura de una reacción química para comprender su importancia como proceso de transformación de la materia.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 19
+ },
+ {
+  "id": "ems-056",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende la importancia del oxígeno para la vida en la Tierra, a partir del análisis del proceso de oxigenación de la atmósfera primitiva y la intervención de los organismos fotosintéticos.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 19
+ },
+ {
+  "id": "ems-057",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende el proceso general de la fotosíntesis y su importancia para la transferencia de energía en la cadena trófica, así como para la captura del dióxido de carbono y la liberación de oxígeno.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 19
+ },
+ {
+  "id": "ems-058",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza la dinámica de los subsistemas terrestres y la actividad humana, para comprender el concepto de deterioro ambiental, sus escalas y manifestaciones.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 19
+ },
+ {
+  "id": "ems-059",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Construye explicaciones sobre innovaciones tecnológicas que utilizan el conocimiento de los subsistemas terrestres para reducir el deterioro ambiental.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 19
+ },
+ {
+  "id": "ems-060",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende las características de las reacciones químicas para clasificarlas e identificarlas en distintos fenómenos naturales de interés.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 20
+ },
+ {
+  "id": "ems-061",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Aplica el método de tanteo para el balanceo de ecuaciones, como una forma de verificación de la ley de conservación de la masa en las reacciones químicas.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 20
+ },
+ {
+  "id": "ems-062",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende el concepto de equilibrio químico y la dinámica de las reacciones reversibles e irreversibles, para identificarlas en fenómenos naturales cotidianos o de interés.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 20
+ },
+ {
+  "id": "ems-063",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza las propiedades físicas y químicas de sustancias ácidas y básicas de interés, así como su diferenciación de acuerdo con el potencial de Hidrógeno, para su identificación en la naturaleza o la vida cotidiana.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 21
+ },
+ {
+  "id": "ems-064",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende las reacciones químicas de óxido-reducción y combustión para identificar su ocurrencia en la naturaleza, la vida cotidiana, así como su importancia para los seres vivos y la industria.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 21
+ },
+ {
+  "id": "ems-065",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende la importancia de los compuestos orgánicos para el bienestar humano, así como su estructura, propiedades y nomenclatura para clasificarlos de forma analítica.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 21
+ },
+ {
+  "id": "ems-066",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende los procesos químicos involucrados en la respiración aerobia y anaerobia, para identificar su importancia para los seres vivos y el bienestar humano y desarrollos tecnológicos vinculados.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 21
+ },
+ {
+  "id": "ems-067",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza las características y funciones de las biomoléculas, para comprender la importancia de los compuestos orgánicos en los seres vivos.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 21
+ },
+ {
+  "id": "ems-068",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza la caída libre de los objetos y el movimiento rectilíneo uniforme de los cuerpos, en presencia y ausencia de la intervención de fuerzas, para construir explicaciones sobre la dinámica del movimiento uniforme y uniformemente acelerado, considerando las dos primeras leyes de Newton.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 22
+ },
+ {
+  "id": "ems-069",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Construye explicaciones sobre los fenómenos de acción y reacción en la interacción de los cuerpos, a partir de la comprensión de la tercera ley de Newton.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 22
+ },
+ {
+  "id": "ems-070",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Explica el comportamiento de fenómenos ondulatorios de interés, a partir de la comprensión de las propiedades físicas que los afectan.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 23
+ },
+ {
+  "id": "ems-071",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende el comportamiento de la luz para explicar fenómenos naturales de carácter óptico.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 23
+ },
+ {
+  "id": "ems-072",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza el comportamiento de fluidos para comprender sus propiedades físicas.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 23
+ },
+ {
+  "id": "ems-073",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende los fundamentos del magnetismo y la electricidad, así como su relación para construir explicaciones sobre fenómenos electromagnéticos y explorar aplicaciones tecnológicas vinculadas.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 23
+ },
+ {
+  "id": "ems-074",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Discute con carácter divulgativo temas de interés de la física moderna y contemporánea.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 23
+ },
+ {
+  "id": "ems-075",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Construye explicaciones sobre la caída libre de objetos con diferente masa y las órbitas de los cuerpos celestes, a partir de la comprensión de la ley de la gravitación universal y el movimiento planetario.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 23
+ },
+ {
+  "id": "ems-076",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza las interacciones entre materia y energía de la Tierra primitiva, así como la estructura de las biomoléculas para comprender la teoría quimiosintética del origen de la vida.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 24
+ },
+ {
+  "id": "ems-077",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza los procesos históricos que llevaron al descubrimiento de la célula y el desarrollo de la teoría celular como unidad fundamental de los organismos vivos.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 24
+ },
+ {
+  "id": "ems-078",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza las moléculas orgánicas y organelos celulares para comprender su estructura y función, y reconocer entre células procariotas, eucariotas y su relevancia en la naturaleza o el bienestar humano.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 24
+ },
+ {
+  "id": "ems-079",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza la estructura molecular y las funciones del ADN y el ARN, así como las características de los cromosomas, para comprender las bases moleculares de la herencia biológica y su utilidad como herramienta de análisis genético.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 25
+ },
+ {
+  "id": "ems-080",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Identifica las fases de la mitosis y la meiosis para comprender su importancia como mecanismos de reproducción celular , y reconocer los procesos fundamentales de la división celular , así como las situaciones de interés en donde está implicada.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 25
+ },
+ {
+  "id": "ems-081",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Analiza los mecanismos de herencia biológica e identifica sus manifestaciones en situaciones reales, para comprender la importancia de la genética.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 25
+ },
+ {
+  "id": "ems-082",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende el proceso de evolución por selección natural, para construir explicaciones sobre la diversidad biológica y las adaptaciones de especies de interés.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 25
+ },
+ {
+  "id": "ems-083",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Ciencias Naturales, Experimentales y Tecnología",
+  "materia": "Ciencias",
+  "contenido": "Comprende las características que identifican a los seres vivos, para construir explicaciones sobre fenómenos biológicos vinculados a los contenidos formativos, y analiza aplicaciones tecnológicas relacionadas.",
+  "fuente": "2025_MCC_CIENCIAS-NATURALES_BN",
+  "pagina": 25
+ },
+ {
+  "id": "ems-084",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Reflexiona sobre los vínculos entre la escritura y la lectura para dar sentido a la necesidad humana por comunicar información, ideas, pensamientos u opiniones.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 14
+ },
+ {
+  "id": "ems-085",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Investiga los gustos y las inclinaciones de las personas de su comunidad escolar respecto de la lectura y la escritura para conocer la diversidad de textos.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 15
+ },
+ {
+  "id": "ems-086",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Analiza en textos de su elección la información, ideas, pensamientos y opiniones, para comprender la importancia de transmitir con claridad las ideas en textos escritos.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 15
+ },
+ {
+  "id": "ems-087",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Identifica información de un texto que lee para resaltar los elementos significativos.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 15
+ },
+ {
+  "id": "ems-088",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Analiza la concordancia y el uso de conectores a partir de la lectura de un texto para destacar su importancia.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 15
+ },
+ {
+  "id": "ems-089",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Identifica las características de una exposición oral para conocer su desarrollo y ponerlo en práctica.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 15
+ },
+ {
+  "id": "ems-090",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Practica la lectura en voz alta de algunos textos para luego emitir opiniones al respecto.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 15
+ },
+ {
+  "id": "ems-091",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Reconoce los tipos de párrafos a partir de la exploración de diversos textos, para contrastar su estructura y diferenciar sus rasgos.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 15
+ },
+ {
+  "id": "ems-092",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Narra situaciones de su historia de vida para compartir cómo han dejado una huella en su persona.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 16
+ },
+ {
+  "id": "ems-093",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Escribe un texto descriptivo o narrativo de su autoría.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 16
+ },
+ {
+  "id": "ems-094",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Identifica características lingüísticas a partir de la lectura de narrativas populares.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 16
+ },
+ {
+  "id": "ems-095",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Distingue los temas y las ideas centrales y secundarias en las narrativas populares, para reconocer su papel en las distintas expresiones.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 17
+ },
+ {
+  "id": "ems-096",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Comprende, a partir de la exploración de diversos textos, la relevancia de personajes y escenarios en la narrativa popular , para desarrollar elementos que pueda integrar en sus propios escritos.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 17
+ },
+ {
+  "id": "ems-097",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Reescribe un texto para integrar los elementos lingüísticos y narrativos que considere pertinentes.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 17
+ },
+ {
+  "id": "ems-098",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Colabora en el análisis de textos para conocer , aprovechar o corregir los procedimientos narrativos.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 17
+ },
+ {
+  "id": "ems-099",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Integra prácticas de lectura, escritura y oralidad en proyectos creativos para presentar el texto elaborado.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 17
+ },
+ {
+  "id": "ems-100",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Reconoce, mediante la lectura, los diversos movimientos literarios para comprender sus particularidades.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 18
+ },
+ {
+  "id": "ems-101",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Analiza la información extraída de un texto para darle sentido desde sus conocimientos previos y toma postura frente a lo expuesto por quien lo escribió.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 18
+ },
+ {
+  "id": "ems-102",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Lee los géneros literarios para analizar su papel como forma de involucrar perspectivas de diversa índole.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 19
+ },
+ {
+  "id": "ems-103",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Identifica lecturas de subgéneros narrativos y sus elementos discursivos a partir de la lectura.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 19
+ },
+ {
+  "id": "ems-104",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Analiza fragmentos de poesía, a los que da lectura en voz alta, para valorar las figuras retóricas.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 19
+ },
+ {
+  "id": "ems-105",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Comprende las características de la reseña crítica para realizar una composición basada en uno de los movimientos literarios.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 19
+ },
+ {
+  "id": "ems-106",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Lengua y Comunicación",
+  "materia": "Lengua y Comunicación",
+  "contenido": "Realiza la exposición oral formal (en un coloquio, un simposio o en foros presenciales o virtuales) de una reseña, para explicar y compartir su análisis crítico.",
+  "fuente": "MCC_LENGUA_Y_COMUNICACION",
+  "pagina": 19
+ },
+ {
+  "id": "ems-107",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Comprende la conformación e importancia del concepto de Estado, para repensar la construcción de una ciudadanía crítica y reflexiva.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 14
+ },
+ {
+  "id": "ems-108",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Analiza el devenir del concepto de ciudadanía, para la conformación de un Estado democrático e incluyente.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 14
+ },
+ {
+  "id": "ems-109",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Comprende y contrasta las normas sociales para explicar su rol en la vida cotidiana.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 15
+ },
+ {
+  "id": "ems-110",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Discute y reconoce que la diversidad forma parte del espacio democrático.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 15
+ },
+ {
+  "id": "ems-111",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Identifica sus necesidades y satisfactores materiales, personales, familiares y los de su comunidad, para debatir sobre las formas en que se organiza la sociedad.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 16
+ },
+ {
+  "id": "ems-112",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Analiza las características y formas de organización social, para comparar y explicar las relaciones entre personas, grupos, comunidades e instituciones.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 16
+ },
+ {
+  "id": "ems-113",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Reconoce y problematiza las relaciones de poder para explicar su función dentro de la diversidad en el funcionamiento de la organización social.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 17
+ },
+ {
+  "id": "ems-114",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Relaciona los procesos y factores de producción, para explicar las formas de distribución desigual de los bienes en la sociedad.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 17
+ },
+ {
+  "id": "ems-115",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Analiza las políticas públicas para explicar las desigualdades, así como las contradicciones y omisiones en la satisfacción de las necesidades materiales y sociales de las personas.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 18
+ },
+ {
+  "id": "ems-116",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Problematiza el papel de los diferentes actores sociales para explicar , contrastar e interpretar dinámicas y sucesos recientes.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 19
+ },
+ {
+  "id": "ems-117",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Ciencias Sociales",
+  "materia": "Ciencias Sociales",
+  "contenido": "Reflexiona sobre las juventudes en las sociedades actuales, para reconocerse como un agente crítico y de transformación social.",
+  "fuente": "MCC_CIENCIAS_SOCIALES_2da",
+  "pagina": 19
+ },
+ {
+  "id": "ems-118",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Problematiza el pasado, presente y futuro a partir de procesos históricos, con el fin de comprender críticamente su continuidad y cambio.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 14
+ },
+ {
+  "id": "ems-119",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Establece conexiones entre fenómenos, acontecimientos y procesos de la realidad, con el fin de fortalecer la comprensión del devenir histórico.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 14
+ },
+ {
+  "id": "ems-120",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Plantea preguntas a partir de problemáticas actuales en diversos contextos, implementando los conceptos y categorías históricas para el análisis.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 15
+ },
+ {
+  "id": "ems-121",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Reconoce el valor de la diversidad de discursos para la construcción de explicaciones históricas.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 15
+ },
+ {
+  "id": "ems-122",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Construye hipótesis para cuestionar las interpretaciones del pasado y su impacto en la construcción de identidades.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 16
+ },
+ {
+  "id": "ems-123",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Desarrolla explicaciones históricas que guarden relación con sus preguntas para comprender los cambios y continuidades expresadas en los procesos históricos de la humanidad.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 16
+ },
+ {
+  "id": "ems-124",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Identifica la diversidad de fuentes históricas para construir explicaciones contextualizadas del pasado, reconociendo el carácter del conocimiento humano.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 18
+ },
+ {
+  "id": "ems-125",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Examina de manera crítica las evidencias y evalúa su validez, considerando los criterios de procedencia, intencionalidad y contexto, así como el uso ético de la información y los posicionamientos.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 19
+ },
+ {
+  "id": "ems-126",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Argumenta la validez de sus propias interpretaciones sobre acontecimientos, fenómenos y procesos históricos, mediante el diálogo, la contrastación con otras perspectivas y el uso fundamentado de fuentes.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 19
+ },
+ {
+  "id": "ems-127",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Conciencia Histórica",
+  "materia": "Historia",
+  "contenido": "Elabora argumentos e interpretaciones históricas con base en fuentes variadas y pertinentes, integrando el uso de información.",
+  "fuente": "MCC_CONCIENCIA_HISTORICA-",
+  "pagina": 19
+ },
+ {
+  "id": "ems-129",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Identifica el conjunto de elementos físicos que componen un dispositivo electrónico, así como el conjunto de programas, instrucciones y reglas que permiten que funcione, para analizar críticamente su evolución a lo largo del tiempo.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 12
+ },
+ {
+  "id": "ems-130",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Conoce los requerimientos, tipos de licenciamiento del software y hardware para acceder a servicios tecnológicos, al ciberespacio y a los servicios digitales (licencias de uso privativo y licencias libres).",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 12
+ },
+ {
+  "id": "ems-131",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Conoce los elementos del lenguaje algorítmico a través de medios digitales, para resolver situaciones, fenómenos o problemáticas presentes en las diferentes asignaturas.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 13
+ },
+ {
+  "id": "ems-132",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Utiliza herramientas de software libre y experimenta con alternativas a los programas de patente y del software como servicio.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 13
+ },
+ {
+  "id": "ems-133",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Identifica y aplica la normatividad que regula el uso del ciberespacio y servicios digitales para cuidar su seguridad digital y la de otros.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 13
+ },
+ {
+  "id": "ems-134",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Utiliza los recursos digitales a su alcance con fines personales, académicos y sociales para interactuar con seguridad y con consideración al medio ambiente.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 13
+ },
+ {
+  "id": "ems-135",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Reconoce las posibles formas de comprensión y resolución de problemas algorítmicos para desarrollar una estrategia frente a una situación, fenómeno o problemática, utilizando medios tecnológicos y digitales.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 13
+ },
+ {
+  "id": "ems-136",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Analiza de manera crítica el impacto que tienen el uso de las tecnologías digitales —y las políticas relacionadas con la disponibilidad y gestión de la información— en las personas y en las comunidades.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 13
+ },
+ {
+  "id": "ems-137",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Comprende el funcionamiento de las redes, la conectividad, las plataformas digitales y las herramientas de IA para comunicarse, colaborar , crear y compartir información de manera crítica, ética y responsable en distintos contextos.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 14
+ },
+ {
+  "id": "ems-138",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Analiza problemáticas comunitarias, sociales o ambientales a través de la obtención, análisis e interpretación de la información de manera crítica y colaborativa, contribuyendo a la comprensión de su entorno.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 15
+ },
+ {
+  "id": "ems-139",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Produce contenidos digitales para comunicar información de manera creativa, ética, accesible e incluyente, considerando las necesidades de distintas personas y contextos.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 15
+ },
+ {
+  "id": "ems-140",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Analiza críticamente el impacto personal y social de los algoritmos y los modelos de Inteligencia Artificial (IA) para identificar sesgos, reconocer la desinformación y tomar decisiones informadas en los entornos digitales.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 15
+ },
+ {
+  "id": "ems-141",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Cultura Digital",
+  "materia": "Cultura Digital",
+  "contenido": "Promueve prácticas para prevenir las violencias digitales, favorecer el bienestar digital y reconocer la importancia de la igualdad de oportunidades en el estudio de carreras tecnológico-digitales.",
+  "fuente": "MCC_CULTURA-DIGITAL_09",
+  "pagina": 15
+ },
+ {
+  "id": "ems-143",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Se presenta y presenta a otras personas en distintos contextos sociales y culturales (saluda y comparte información básica con respeto e inclusión).",
+  "fuente": "MCC_INGLES",
+  "pagina": 14
+ },
+ {
+  "id": "ems-144",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Sigue indicaciones y participa en interacciones básicas dentro del aula (pide permiso, aclara dudas y responde a instrucciones).",
+  "fuente": "MCC_INGLES",
+  "pagina": 14
+ },
+ {
+  "id": "ems-145",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Identifica y describe objetos y espacios cotidianos del hogar o la escuela (reconoce características como forma, color y tamaño).",
+  "fuente": "MCC_INGLES",
+  "pagina": 14
+ },
+ {
+  "id": "ems-146",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Solicita y proporciona información personal básica en contextos escolares y comunitarios (nombre, edad, nacionalidad, teléfono, dirección, correo).",
+  "fuente": "MCC_INGLES",
+  "pagina": 15
+ },
+ {
+  "id": "ems-147",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Hace preguntas sencillas para obtener información general (ubicación, horarios).",
+  "fuente": "MCC_INGLES",
+  "pagina": 15
+ },
+ {
+  "id": "ems-148",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Describe personas, vestimenta y clima en contextos cotidianos, respetando la diversidad (identificación y ubicación en el entorno).",
+  "fuente": "MCC_INGLES",
+  "pagina": 15
+ },
+ {
+  "id": "ems-149",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Expresa gustos y opiniones simples en situaciones cotidianas (habla sobre preferencias y razones de forma empática).",
+  "fuente": "MCC_INGLES",
+  "pagina": 15
+ },
+ {
+  "id": "ems-150",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Expresa pertenencia de forma clara y respetuosa (pregunta y responde sobre posesión con el genitivo y los pronombres posesivos).",
+  "fuente": "MCC_INGLES",
+  "pagina": 15
+ },
+ {
+  "id": "ems-151",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Describe rutinas diarias y actividades cotidianas en casa, la escuela o la comunidad (reconoce acciones frecuentes y las organiza en el tiempo).",
+  "fuente": "MCC_INGLES",
+  "pagina": 16
+ },
+ {
+  "id": "ems-152",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Habla sobre lo que hacen otras personas en su tiempo libre y cuándo lo hacen (relaciona actividades con momentos del día o la semana).",
+  "fuente": "MCC_INGLES",
+  "pagina": 16
+ },
+ {
+  "id": "ems-153",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Expresa habilidades y pide o da permiso en situaciones cotidianas (reconoce lo que se puede o no se puede hacer).",
+  "fuente": "MCC_INGLES",
+  "pagina": 16
+ },
+ {
+  "id": "ems-154",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Inglés| Imperativos (go straight, turn left) There is/are (revisión) Preposiciones de movimiento ( into, across, next to) Lugares en la ciudad Medios de transporte Indicaciones de ubicación Propósitos formativos Contenidos formativos Fuente: Elaborado por la COSAC.",
+  "fuente": "MCC_INGLES",
+  "pagina": 17
+ },
+ {
+  "id": "ems-155",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Describe personas, vestimenta y clima respetando la diversidad y el contexto cultural (usa el lenguaje para observar sin juzgar).",
+  "fuente": "MCC_INGLES",
+  "pagina": 17
+ },
+ {
+  "id": "ems-156",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Compara personas, lugares y objetos en contextos cercanos (usa adjetivos para expresar diferencias con respeto).",
+  "fuente": "MCC_INGLES",
+  "pagina": 17
+ },
+ {
+  "id": "ems-157",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Pregunta cómo llegar a un lugar y orienta a otras personas en su comunidad (da y sigue referencias para ubicarse).",
+  "fuente": "MCC_INGLES",
+  "pagina": 17
+ },
+ {
+  "id": "ems-158",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Participa en intercambios cotidianos sobre necesidades personales o comunitarias (expresa deseos, elige y muestra empatía).",
+  "fuente": "MCC_INGLES",
+  "pagina": 17
+ },
+ {
+  "id": "ems-159",
+  "nivel": "Preparatoria",
+  "etapa": "Segundo semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Consolida aprendizajes clave en contextos escolares y comunitarios (revisa estructuras y vocabulario mediante actividades guiadas e integradoras).",
+  "fuente": "MCC_INGLES",
+  "pagina": 17
+ },
+ {
+  "id": "ems-160",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Habla sobre rutinas pasadas y recientes en la vida cotidiana (describe lo que hizo en días recientes o durante la semana).",
+  "fuente": "MCC_INGLES",
+  "pagina": 18
+ },
+ {
+  "id": "ems-161",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Comparte experiencias personales recientes (cuenta qué ha hecho y con quién).",
+  "fuente": "MCC_INGLES",
+  "pagina": 18
+ },
+ {
+  "id": "ems-162",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Describe lugares conocidos y actividades que se pueden realizar ahí (da información y recomendaciones básicas).",
+  "fuente": "MCC_INGLES",
+  "pagina": 18
+ },
+ {
+  "id": "ems-163",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Habla sobre responsabilidades y normas en la casa, la escuela o la comunidad (expresa obligación y prohibición).",
+  "fuente": "MCC_INGLES",
+  "pagina": 19
+ },
+ {
+  "id": "ems-164",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Pide, da y entiende instrucciones más completas (orienta a otra persona para hacer algo o llegar a un lugar).",
+  "fuente": "MCC_INGLES",
+  "pagina": 19
+ },
+ {
+  "id": "ems-165",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Relata eventos cotidianos y su secuencia (cuenta algo que pasó usando conectores simples).",
+  "fuente": "MCC_INGLES",
+  "pagina": 19
+ },
+ {
+  "id": "ems-166",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Consolida lo aprendido mediante actividades significativas y producción guiada (aplica estructuras clave en tareas contextualizadas, orales y escritas).",
+  "fuente": "MCC_INGLES",
+  "pagina": 19
+ },
+ {
+  "id": "ems-167",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Habla sobre hábitos, frecuencia y preferencias en la vida cotidiana (compara lo que hacen, eligen o prefieren las personas en diferentes momentos o contextos).",
+  "fuente": "MCC_INGLES",
+  "pagina": 19
+ },
+ {
+  "id": "ems-168",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Describe experiencias pasadas con mayor detalle y conexión (narra lo que ocurrió, dónde y cómo).",
+  "fuente": "MCC_INGLES",
+  "pagina": 20
+ },
+ {
+  "id": "ems-169",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Expresa y justifica preferencias de forma respetuosa (compara elecciones personales en contextos cotidianos).",
+  "fuente": "MCC_INGLES",
+  "pagina": 20
+ },
+ {
+  "id": "ems-170",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Describe rutinas y hábitos con conciencia del contexto (explica lo que se hace y por qué, en la escuela, la casa o la comunidad).",
+  "fuente": "MCC_INGLES",
+  "pagina": 20
+ },
+ {
+  "id": "ems-171",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Solicita y da consejos de forma empática y contextualizada (relacionados con la salud, el estudio o la convivencia diaria).",
+  "fuente": "MCC_INGLES",
+  "pagina": 21
+ },
+ {
+  "id": "ems-172",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Habla sobre planes y propósitos personales o comunitarios (expresa lo que se piensa hacer y por qué es importante).",
+  "fuente": "MCC_INGLES",
+  "pagina": 21
+ },
+ {
+  "id": "ems-173",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Participa en conversaciones sociales breves con expresiones de cortesía (inicia, mantiene y cierra intercambios breves con respeto y empatía).",
+  "fuente": "MCC_INGLES",
+  "pagina": 21
+ },
+ {
+  "id": "ems-174",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Cuenta una anécdota o experiencia significativa (narra de forma clara y organizada lo que se vivió o aprendió).",
+  "fuente": "MCC_INGLES",
+  "pagina": 21
+ },
+ {
+  "id": "ems-175",
+  "nivel": "Preparatoria",
+  "etapa": "Cuarto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Consolida estrategias para comprender y expresar ideas de forma clara y estructurada (aplica lo aprendido en tareas orales y escritas con sentido y propósito).",
+  "fuente": "MCC_INGLES",
+  "pagina": 21
+ },
+ {
+  "id": "ems-176",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "My Field of Study and Motivation Analiza las características del campo de estudio, ocupación o interés del grupo mediante el intercambio de experiencias -personales o escolares- y la lectura de textos relacionados.",
+  "fuente": "MCC_INGLES",
+  "pagina": 23
+ },
+ {
+  "id": "ems-177",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Understanding Processes and Systems Formula cuestionamientos y elabora textos para informar o proponer procesos, conceptos y procedimientos básicos propios de su campo de estudio.",
+  "fuente": "MCC_INGLES",
+  "pagina": 23
+ },
+ {
+  "id": "ems-178",
+  "nivel": "Preparatoria",
+  "etapa": "Quinto semestre",
+  "campo": "Inglés",
+  "materia": "Inglés",
+  "contenido": "Youth as Agents of Change Argumenta opiniones, preferencias y preocupaciones sobre temas de su campo de estudio y de su comunidad, en interacciones orales semiestructuradas.",
+  "fuente": "MCC_INGLES",
+  "pagina": 23
+ },
+ {
+  "id": "ems-179",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Reconoce la posibilidad del pensamiento propio a partir de experiencias cotidianas, identificando la práctica filosófica como un modo de problematizar la realidad.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 15
+ },
+ {
+  "id": "ems-180",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Formula preguntas significativas sobre la vida a partir de un ejercicio filosófico que genere pensamiento crítico, creativo y cuidadoso con el fin de cuestionar lo que comúnmente se considera cierto y explorar diversas respuestas que enriquezcan la visión del mundo.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 15
+ },
+ {
+  "id": "ems-181",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Analiza la cotidianidad desde las normas, valores, creencias y visiones del mundo, para comprender el sentido de la vida desde distintas perspectivas filosóficas, cuestionando lo dado.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 15
+ },
+ {
+  "id": "ems-182",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Integra la formulación de preguntas para participar con mayor rigor en comunidades de diálogo centradas en problemas filosóficos contemporáneos.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 15
+ },
+ {
+  "id": "ems-183",
+  "nivel": "Preparatoria",
+  "etapa": "Primer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Formula preguntas filosóficas en torno al Conocimiento, Ciencia y grados de Verdad para reconocer su relevancia en la vida cotidiana, desarrollando una comprensión crítica sobre cómo se construye el conocimiento.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 15
+ },
+ {
+  "id": "ems-185",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Analiza las desigualdades de género desde una mirada filosófica, contrastando diversas perspectivas feministas, para promover la reflexión, el diálogo y la postura política frente a los problemas de género.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 17
+ },
+ {
+  "id": "ems-186",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Desarrolla la capacidad de cuestionar y reflexionar sobre los fundamentos del Ser , desplegando un pensamiento crítico acerca de las nociones de Existencia, Ser y Conocimiento, a partir del análisis filosófico-ontológico.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 17
+ },
+ {
+  "id": "ems-187",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Promueve la comprensión de los fundamentos éticos y su aplicación en la vida cotidiana, fomentando la reflexión crítica sobre dilemas morales y el papel de la Filosofía en la toma de decisiones.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 17
+ },
+ {
+  "id": "ems-188",
+  "nivel": "Preparatoria",
+  "etapa": "Tercer semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Desarrolla una conciencia crítica en torno a los desafíos éticos que plantean los avances de la ciencia y la tecnología en nuestro país.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 17
+ },
+ {
+  "id": "ems-190",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Integra saberes filosóficos y perspectivas humanistas para elaborar reflexiones argumentadas sobre problemas contemporáneos, considerando sus implicaciones éticas, sociales y culturales, reconociéndose como capaz de transformar la realidad a través de los ejercicios de pensamiento.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 19
+ },
+ {
+  "id": "ems-191",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Promueve una reflexión crítica sobre la cultura contemporánea y su influencia en la vida cotidiana, a partir del análisis del Arte y las categorías estéticas desde la perspectiva filosófica.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 19
+ },
+ {
+  "id": "ems-192",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Desarrolla una comprensión crítica sobre los problemas de Filosofía política, a través de un análisis argumentado, para cuestionar las situaciones de la realidad social contemporánea.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 19
+ },
+ {
+  "id": "ems-193",
+  "nivel": "Preparatoria",
+  "etapa": "Sexto semestre",
+  "campo": "Pensamiento Filosófico y Humanidades",
+  "materia": "Filosofía y Humanidades",
+  "contenido": "Fortalece con rigor su capacidad argumentativa al aplicar herramientas filosóficas para la construcción, análisis y evaluación de argumentos.",
+  "fuente": "MCC_PENSAMIENTO_FILOSOFICO-2",
+  "pagina": 19
+ }
+]

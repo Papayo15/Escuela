@@ -1,0 +1,623 @@
+[
+{
+"nodo_id": "f6-006",
+"titulo": "Fracciones y decimales: convertir de una forma a otra",
+"slug": "fracciones-a-decimales-secundaria",
+"palabras": [
+"periódico",
+"finito",
+"conversión"
+],
+"contenido": {
+"idea": "Una fracción es una división pendiente. $\\frac{3}{4}$ dice \"reparte 3 entre 4\"; al hacerla, sale el decimal. Y un decimal es una fracción disfrazada: 0.25 son 25 centésimos.",
+"pizarron": "**De fracción a decimal:** divide.\n\n$$\\frac{5}{8} = 0.625 \\qquad \\frac{1}{3} = 0.\\overline{3}$$\n\n**De decimal finito a fracción:**\n\n$$0.125 = \\frac{125}{1000} = \\frac{1}{8}$$\n\n**De decimal periódico a fracción:** si $x = 0.\\overline{6}$, entonces $10x = 6.\\overline{6}$. Al restar, $9x = 6$ y $x = \\frac{2}{3}$.",
+"truco": "**Cada decimal cuenta un cero abajo:** 2 decimales, denominador 100.",
+"practica": {
+"ejercicio": "Convierte $0.\\overline{27}$ a fracción.",
+"respuesta": "$100x - x = 27$, así que $x = \\frac{27}{99} = \\frac{3}{11}$."
+},
+"analogias": [
+{
+"titulo": "División pendiente",
+"texto": "$\\frac{7}{2}$ es como una cuenta sin pagar: al hacer la división, liquidas y aparece 3.5."
+},
+{
+"titulo": "Lectura en voz alta",
+"texto": "0.75 se lee \"setenta y cinco centésimos\": la lectura ya te dicta $\\frac{75}{100}$."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte $\\frac{7}{20}$ a decimal.",
+"respuesta": "0.35."
+},
+{
+"ejercicio": "Convierte 0.4 a fracción simplificada.",
+"respuesta": "$\\frac{2}{5}$."
+},
+{
+"ejercicio": "¿$\\frac{1}{7}$ es decimal finito o periódico?",
+"respuesta": "Periódico, porque 7 tiene factores distintos de 2 y 5."
+}
+]
+}
+},
+{
+"nodo_id": "f6-010",
+"titulo": "Números positivos y negativos",
+"slug": "numeros-positivos-negativos",
+"palabras": [
+"enteros",
+"recta numérica",
+"valor absoluto",
+"orden"
+],
+"contenido": {
+"idea": "Piensa en un elevador: los pisos sobre la calle son positivos, los sótanos negativos y la planta baja es cero. Estar en el sótano 3 es estar más abajo que el sótano 1, aunque 3 sea mayor que 1.",
+"pizarron": "Sobre la recta numérica, un número es mayor si está más a la derecha:\n\n$$-5 < -2 < 0 < 3$$\n\n**Valor absoluto:** distancia al cero.\n\n$$|-7| = 7 \\qquad |7| = 7$$\n\n**Opuesto:** el de $4$ es $-4$.",
+"truco": "**Entre negativos, gana el más cercano al cero.**",
+"practica": {
+"ejercicio": "Ordena de menor a mayor: $2, -6, 0, -1$.",
+"respuesta": "$-6, -1, 0, 2$."
+},
+"analogias": [
+{
+"titulo": "Termómetro",
+"texto": "$-10$ °C es más frío que $-2$ °C: cuanto más abajo del cero, menor."
+},
+{
+"titulo": "Deudas",
+"texto": "Deber 100 pesos es peor que deber 20: $-100 < -20$."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$|-12|$",
+"respuesta": "12."
+},
+{
+"ejercicio": "¿Cuál es mayor, $-3$ o $-8$?",
+"respuesta": "$-3$."
+},
+{
+"ejercicio": "El opuesto de $-9$",
+"respuesta": "9."
+}
+]
+}
+},
+{
+"nodo_id": "f6-014",
+"titulo": "Operaciones con números con signo",
+"slug": "operaciones-con-signo",
+"palabras": [
+"ley de los signos",
+"jerarquía",
+"potencias",
+"raíz cuadrada"
+],
+"contenido": {
+"idea": "Imagina que sumar es ganar y restar es perder. Si debes 5 y ganas 2, sigues debiendo 3. Y quitar una deuda es como ganar dinero: por eso restar un negativo suma.",
+"pizarron": "**Suma y resta:**\n\n$$-5 + 2 = -3 \\qquad 4 - (-3) = 7$$\n\n**Multiplicación y división:** signos iguales dan $+$; diferentes dan $-$.\n\n$$(-4)(-3) = 12 \\qquad (-12) \\div 3 = -4$$\n\n**Jerarquía:** paréntesis, potencias y raíces, multiplicaciones y divisiones, sumas y restas.",
+"truco": "**Iguales suman fuerzas, positivo; diferentes se pelean, negativo.**",
+"practica": {
+"ejercicio": "Resuelve $3 - 2 \\times (4 - 7)$.",
+"respuesta": "$3 - 2 \\times (-3) = 3 + 6 = 9$."
+},
+"analogias": [
+{
+"titulo": "Película en reversa",
+"texto": "Una persona camina hacia atrás en una película que corre al revés: se ve avanzar. Dos negativos dan positivo."
+},
+{
+"titulo": "Saldo de cuenta",
+"texto": "Si te perdonan una deuda de 50, tu saldo sube 50: eso es $-(-50)$."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$-8 - 5$",
+"respuesta": "$-13$."
+},
+{
+"ejercicio": "$(-2)^3$",
+"respuesta": "$-8$."
+},
+{
+"ejercicio": "$\\sqrt{81} - 3^2$",
+"respuesta": "0."
+}
+]
+}
+},
+{
+"nodo_id": "f6-018",
+"titulo": "Regularidades y patrones",
+"slug": "regularidades-y-patrones",
+"palabras": [
+"sucesiones",
+"término general",
+"regla"
+],
+"contenido": {
+"idea": "Si cada semana ahorras 20 pesos y empezaste con 50, puedes saber cuánto tendrás en la semana 100 sin contar una por una. Encontrar el patrón es encontrar la regla que produce cada número.",
+"pizarron": "**Sucesión:** 5, 8, 11, 14, ...\n\n1. Diferencia constante: 3.\n2. Compara con $3n$: 3, 6, 9, ...\n3. Falta sumar 2.\n\n$$a_n = 3n + 2$$\n\nComprobación: $a_4 = 14$. Si las segundas diferencias son constantes, la regla es cuadrática.",
+"truco": "**La diferencia es el número que va con la $n$.**",
+"practica": {
+"ejercicio": "Encuentra la regla de 7, 12, 17, 22, ...",
+"respuesta": "$a_n = 5n + 2$."
+},
+"analogias": [
+{
+"titulo": "Fichas de dominó",
+"texto": "Conociendo cómo cae una, sabes cómo sigue toda la fila."
+},
+{
+"titulo": "Escalera",
+"texto": "Cada escalón sube lo mismo: la diferencia es la altura y el primer término es dónde empiezas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Término 10 de $a_n = 2n + 1$",
+"respuesta": "21."
+},
+{
+"ejercicio": "¿Cuál sigue? 1, 4, 9, 16, ...",
+"respuesta": "25."
+},
+{
+"ejercicio": "Regla de 10, 8, 6, 4, ...",
+"respuesta": "$a_n = 12 - 2n$."
+}
+]
+}
+},
+{
+"nodo_id": "f6-022",
+"titulo": "Introducción al álgebra",
+"slug": "introduccion-algebra",
+"palabras": [
+"literales",
+"expresiones",
+"términos semejantes",
+"productos notables"
+],
+"contenido": {
+"idea": "Una letra es una caja cerrada con un número dentro. $x + 3$ dice: \"lo que haya en la caja, más 3\". El álgebra te deja razonar con la caja antes de abrirla.",
+"pizarron": "**Términos semejantes:** tienen la misma literal y exponente.\n\n$$3x + 2y + 5x = 8x + 2y$$\n\n**Distributiva:**\n\n$$2(x + 4) = 2x + 8$$\n\n**Producto notable:**\n\n$$(a + b)^2 = a^2 + 2ab + b^2$$",
+"truco": "**Peras con peras:** $3x + 5x$ se suman; $3x + 2y$ no.",
+"practica": {
+"ejercicio": "Simplifica $4(a - 2) + 3a$.",
+"respuesta": "$4a - 8 + 3a = 7a - 8$."
+},
+"analogias": [
+{
+"titulo": "Bolsas de canicas",
+"texto": "Tres bolsas iguales más dos bolsas iguales son cinco bolsas, aunque no sepas qué traen."
+},
+{
+"titulo": "Rectángulo cortado",
+"texto": "$(a+b)^2$ es un cuadrado de lado $a+b$: al cortarlo aparecen $a^2$, $b^2$ y dos rectángulos $ab$."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$7m - 2m + m$",
+"respuesta": "$6m$."
+},
+{
+"ejercicio": "$(x + 3)^2$",
+"respuesta": "$x^2 + 6x + 9$."
+},
+{
+"ejercicio": "Evalúa $2x^2$ con $x = 3$.",
+"respuesta": "18."
+}
+]
+}
+},
+{
+"nodo_id": "f6-026",
+"titulo": "Ecuaciones lineales y cuadráticas",
+"slug": "ecuaciones-lineales-cuadraticas",
+"palabras": [
+"despejar",
+"incógnita",
+"fórmula general",
+"sistemas"
+],
+"contenido": {
+"idea": "Una ecuación es una balanza en equilibrio. Si quitas lo mismo de ambos platos, sigue equilibrada. Resolver es ir quitando cosas hasta dejar la incógnita sola en un plato.",
+"pizarron": "**Lineal:**\n\n$$2x + 5 = 17 \\Rightarrow 2x = 12 \\Rightarrow x = 6$$\n\n**Cuadrática** $ax^2 + bx + c = 0$:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nEjemplo: $x^2 - 5x + 6 = 0$ tiene soluciones $x = 2$ y $x = 3$.",
+"truco": "**Comprueba siempre:** sustituye tu respuesta en la ecuación original.",
+"practica": {
+"ejercicio": "Resuelve $3x - 4 = 2x + 7$.",
+"respuesta": "$x = 11$. Comprobación: $29 = 29$."
+},
+"analogias": [
+{
+"titulo": "Regalo envuelto",
+"texto": "Para sacar un regalo, deshaces las capas en orden inverso: primero el moño, al final la caja."
+},
+{
+"titulo": "Área desconocida",
+"texto": "$x^2 - 5x + 6 = 0$ pregunta qué valores hacen cero la expresión; como $(x-2)(x-3) = 0$, sirven 2 y 3."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$5x = 45$",
+"respuesta": "$x = 9$."
+},
+{
+"ejercicio": "$x^2 = 49$",
+"respuesta": "$x = 7$ o $x = -7$."
+},
+{
+"ejercicio": "$x^2 + x - 12 = 0$",
+"respuesta": "$x = 3$ o $x = -4$."
+}
+]
+}
+},
+{
+"nodo_id": "f6-030",
+"titulo": "Funciones: lineales y cuadráticas",
+"slug": "funciones-lineales-cuadraticas",
+"palabras": [
+"pendiente",
+"ordenada al origen",
+"parábola",
+"gráfica",
+"relación"
+],
+"contenido": {
+"idea": "Una máquina de refrescos es una función: metes una moneda y sale un resultado definido. Una función recibe un número y entrega otro siguiendo una regla. Si la regla es pagar 8 pesos por kilómetro más 20 de banderazo, cada distancia tiene un solo precio.",
+"pizarron": "**Función lineal:** $y = mx + b$\n\n- $m$ es la pendiente: cuánto cambia $y$ por cada unidad de $x$.\n- $b$ es donde cruza el eje $y$.\n\nTaxi: $y = 8x + 20$. Con $x = 5$ km, $y = 60$ pesos.\n\n**Función cuadrática:** $y = ax^2 + bx + c$; su gráfica es una parábola.",
+"truco": "**$b$ es donde empiezas; $m$ es qué tan rápido subes.**",
+"practica": {
+"ejercicio": "Una alberca tiene 200 L y se llena a 30 L por minuto. Escribe la función y calcula el agua a los 10 minutos.",
+"respuesta": "$y = 30x + 200$. Con $x = 10$, $y = 500$ L."
+},
+"analogias": [
+{
+"titulo": "Plan de celular",
+"texto": "Pagas una renta fija más un costo por gigabyte extra. La renta es $b$ y el costo por gigabyte es $m$: la cuenta es una función lineal."
+},
+{
+"titulo": "Balón lanzado",
+"texto": "Un balón sube, se frena y baja dibujando una curva. Esa trayectoria se describe con una parábola, no con una recta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es la pendiente de $y = -2x + 7$?",
+"respuesta": "$-2$."
+},
+{
+"ejercicio": "Evalúa $y = x^2 - 1$ con $x = 3$.",
+"respuesta": "$y = 8$."
+},
+{
+"ejercicio": "¿Dónde cruza el eje $y$ la recta $y = 4x - 3$?",
+"respuesta": "En $(0, -3)$."
+}
+]
+}
+},
+{
+"nodo_id": "f6-033",
+"titulo": "Rectas y ángulos",
+"slug": "rectas-y-angulos-secundaria",
+"palabras": [
+"complementarios",
+"suplementarios",
+"opuestos por el vértice",
+"paralelas",
+"transversal"
+],
+"contenido": {
+"idea": "Cuando dos calles se cruzan forman cuatro esquinas, y las que quedan frente a frente tienen la misma abertura. Al girar media vuelta llegas a $180°$; con esa idea se deducen casi todos los ángulos.",
+"pizarron": "- **Complementarios:** suman $90°$.\n- **Suplementarios:** suman $180°$.\n- **Opuestos por el vértice:** son iguales.\n- **Paralelas cortadas por una transversal:** los alternos internos son iguales.\n\nLos ángulos internos de un triángulo suman $180°$.",
+"truco": "**C** de **C**orner (esquina, $90°$); **S** de **S**traight (recta, $180°$).",
+"practica": {
+"ejercicio": "Un triángulo tiene ángulos de $50°$ y $65°$. ¿Cuánto mide el tercero?",
+"respuesta": "$180° - 115° = 65°$."
+},
+"analogias": [
+{
+"titulo": "Rampa y piso",
+"texto": "Si inclinas una tabla sobre el piso, los dos ángulos del lado forman una línea recta: suman $180°$."
+},
+{
+"titulo": "Tijeras abiertas",
+"texto": "Al abrir tijeras, los ángulos de frente crecen igual: son opuestos por el vértice."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Complemento de $35°$",
+"respuesta": "$55°$."
+},
+{
+"ejercicio": "Suplemento de $120°$",
+"respuesta": "$60°$."
+},
+{
+"ejercicio": "Opuesto por el vértice de $72°$",
+"respuesta": "$72°$."
+}
+]
+}
+},
+{
+"nodo_id": "f6-037",
+"titulo": "Construcción de figuras, congruencia y semejanza",
+"slug": "construccion-figuras-congruencia-semejanza",
+"palabras": [
+"compás",
+"mediatriz",
+"bisectriz",
+"Tales",
+"Pitágoras",
+"semejanza"
+],
+"contenido": {
+"idea": "Una foto ampliada conserva la forma aunque cambie el tamaño: eso es semejanza. Dos copias idénticas de la misma llave son congruentes: misma forma y tamaño.",
+"pizarron": "- **Mediatriz:** perpendicular por el punto medio.\n- **Bisectriz:** divide un ángulo en dos iguales.\n- **Congruentes:** lados y ángulos iguales.\n- **Semejantes:** ángulos iguales y lados proporcionales.\n\n**Pitágoras** en triángulos rectángulos:\n\n$$a^2 + b^2 = c^2$$",
+"truco": "**Semejante = fotocopia con zoom. Congruente = fotocopia al 100 %.**",
+"practica": {
+"ejercicio": "Un triángulo rectángulo tiene catetos de 6 y 8 cm. ¿Cuánto mide la hipotenusa?",
+"respuesta": "$\\sqrt{36 + 64} = 10$ cm."
+},
+"analogias": [
+{
+"titulo": "Maqueta",
+"texto": "Una casa a escala 1:50 tiene todas sus medidas divididas entre 50, con los mismos ángulos."
+},
+{
+"titulo": "Atajo por el parque",
+"texto": "Cruzar en diagonal ahorra camino: Pitágoras calcula cuánto mide la diagonal."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Razón entre lados 4 y 12 de figuras semejantes",
+"respuesta": "$\\frac{1}{3}$."
+},
+{
+"ejercicio": "Hipotenusa 13 y un cateto 5: el otro",
+"respuesta": "12."
+},
+{
+"ejercicio": "¿Qué recta divide un ángulo en dos partes iguales?",
+"respuesta": "La bisectriz."
+}
+]
+}
+},
+{
+"nodo_id": "f6-041",
+"titulo": "Circunferencia, círculo y esfera",
+"slug": "circunferencia-circulo-esfera",
+"palabras": [
+"ángulo central",
+"sector",
+"volumen esfera",
+"tangente",
+"secante"
+],
+"contenido": {
+"idea": "Amarra una cuerda a una estaca y camina manteniéndola tensa: dibujas una circunferencia. Todos los puntos quedan a la misma distancia del centro. Una esfera es lo mismo, pero en tres dimensiones.",
+"pizarron": "$$C = 2\\pi r \\qquad A = \\pi r^2$$\n\n$$A_{\\text{sector}} = \\frac{\\theta}{360°} \\pi r^2$$\n\n$$A_{\\text{esfera}} = 4\\pi r^2 \\qquad V_{\\text{esfera}} = \\frac{4}{3}\\pi r^3$$\n\n**Tangente:** toca en un punto. **Secante:** corta en dos.",
+"truco": "El área lleva $r^2$ porque se mide en **cuadritos**; el volumen, $r^3$ porque se mide en **cubitos**.",
+"practica": {
+"ejercicio": "Calcula el área de un círculo de radio 5 cm.",
+"respuesta": "$A = 25\\pi \\approx 78.5\\text{ cm}^2$."
+},
+"analogias": [
+{
+"titulo": "Rebanada de pizza",
+"texto": "Un sector es una rebanada: de $90°$ es la cuarta parte de la pizza."
+},
+{
+"titulo": "Vuelta de la rueda",
+"texto": "Con cada vuelta, una rueda avanza su circunferencia: $2\\pi r$."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Circunferencia con $r = 3$ cm",
+"respuesta": "$6\\pi \\approx 18.8$ cm."
+},
+{
+"ejercicio": "Volumen de una esfera de radio 3 cm",
+"respuesta": "$36\\pi \\approx 113.1\\text{ cm}^3$."
+},
+{
+"ejercicio": "Área del sector de $90°$ con $r = 4$",
+"respuesta": "$4\\pi$."
+}
+]
+}
+},
+{
+"nodo_id": "f6-045",
+"titulo": "Medición y cálculo: área, volumen y trigonometría",
+"slug": "medicion-calculo-contextos",
+"palabras": [
+"volumen prisma",
+"razones trigonométricas",
+"seno",
+"coseno",
+"tangente"
+],
+"contenido": {
+"idea": "Si conoces el tamaño de tu sombra y el ángulo del Sol, puedes calcular la altura de un edificio sin subirte. Medir no siempre es usar una cinta: muchas veces se calcula con figuras conocidas.",
+"pizarron": "$$V_{\\text{prisma}} = A_b h \\qquad V_{\\text{pirámide}} = \\frac{A_b h}{3}$$\n\nEn un triángulo rectángulo:\n\n$$\\sin\\theta = \\frac{CO}{H} \\quad \\cos\\theta = \\frac{CA}{H} \\quad \\tan\\theta = \\frac{CO}{CA}$$",
+"truco": "**SOH-CAH-TOA:** Seno Opuesto Hipotenusa, Coseno Adyacente Hipotenusa, Tangente Opuesto Adyacente.",
+"practica": {
+"ejercicio": "Una escalera de 5 m forma $60°$ con el piso. ¿A qué altura llega?",
+"respuesta": "$5 \\sin 60° \\approx 4.33$ m."
+},
+"analogias": [
+{
+"titulo": "Tres conos, un cilindro",
+"texto": "Se necesitan tres pirámides llenas de agua para llenar un prisma de igual base y altura. De ahí el 3."
+},
+{
+"titulo": "Rampa",
+"texto": "La tangente es la pendiente: qué tanto subes por cada metro avanzado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Volumen de un prisma de base $12\\text{ cm}^2$ y altura 5 cm",
+"respuesta": "$60\\text{ cm}^3$."
+},
+{
+"ejercicio": "$\\tan 45°$",
+"respuesta": "1."
+},
+{
+"ejercicio": "Volumen de una pirámide de base $9$ y altura $10$",
+"respuesta": "30."
+}
+]
+}
+},
+{
+"nodo_id": "f6-049",
+"titulo": "Obtener y representar información",
+"slug": "obtencion-representacion-informacion",
+"palabras": [
+"muestra",
+"población",
+"histograma",
+"frecuencia relativa"
+],
+"contenido": {
+"idea": "Para saber si la sopa quedó bien no te la acabas: pruebas una cucharada. La población es la olla y la muestra es la cucharada. Si revuelves bien, la cucharada representa toda la sopa.",
+"pizarron": "1. Define población y muestra.\n2. Recoge datos.\n3. Calcula frecuencias.\n\n$$f_r = \\frac{\\text{frecuencia}}{\\text{total}}$$\n\n4. Elige gráfica: barras para categorías, histograma para intervalos, líneas para cambios en el tiempo.",
+"truco": "**Barras separadas para categorías; barras pegadas (histograma) para datos continuos.**",
+"practica": {
+"ejercicio": "De 40 alumnos, 10 llegan en bici. ¿Cuál es la frecuencia relativa?",
+"respuesta": "$\\frac{10}{40} = 0.25 = 25\\%$."
+},
+"analogias": [
+{
+"titulo": "Sopa sin revolver",
+"texto": "Si solo pruebas de arriba, no sabes cómo está el fondo: una muestra sesgada engaña."
+},
+{
+"titulo": "Fotografías o película",
+"texto": "Una gráfica de líneas es una película: muestra cambios. Una de barras es una foto: compara."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué gráfica usas para temperatura por día?",
+"respuesta": "Una gráfica de líneas."
+},
+{
+"ejercicio": "¿Encuestar solo a tus amigos da buena muestra?",
+"respuesta": "No, porque está sesgada."
+},
+{
+"ejercicio": "30 de 120 en porcentaje",
+"respuesta": "25 %."
+}
+]
+}
+},
+{
+"nodo_id": "f6-053",
+"titulo": "Medidas de tendencia central y dispersión",
+"slug": "tendencia-central-dispersion",
+"palabras": [
+"media",
+"mediana",
+"moda",
+"rango",
+"desviación media"
+],
+"contenido": {
+"idea": "Dos equipos pueden promediar la misma estatura: uno con todos parecidos y otro con gigantes y muy bajitos. La tendencia central dice dónde está el centro; la dispersión dice qué tan lejos se reparten los datos.",
+"pizarron": "Datos: 2, 4, 4, 6, 14.\n\n- **Media:** $30 \\div 5 = 6$\n- **Mediana:** dato central, 4\n- **Moda:** 4\n- **Rango:** $14 - 2 = 12$\n- **Desviación media:**\n\n$$DM = \\frac{\\sum|x_i - \\bar{x}|}{n} = \\frac{4+2+2+0+8}{5} = 3.2$$",
+"truco": "**La mediana no se asusta con extremos;** la media sí.",
+"practica": {
+"ejercicio": "Halla mediana y rango de 3, 9, 1, 7, 5.",
+"respuesta": "Ordenados 1, 3, 5, 7, 9: mediana 5 y rango 8."
+},
+"analogias": [
+{
+"titulo": "Sueldos y el jefe",
+"texto": "Si el jefe gana muchísimo, la media sube; la mediana sigue describiendo al empleado típico."
+},
+{
+"titulo": "Tiros al blanco",
+"texto": "Dos tiradores pueden centrar igual, pero uno agrupa sus tiros: su dispersión es menor."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Mediana de 2, 4, 6, 8",
+"respuesta": "5."
+},
+{
+"ejercicio": "Media de 10, 20, 30",
+"respuesta": "20."
+},
+{
+"ejercicio": "Rango de 15, 3, 9",
+"respuesta": "12."
+}
+]
+}
+},
+{
+"nodo_id": "f6-057",
+"titulo": "Azar y probabilidad",
+"slug": "azar-y-probabilidad-secundaria",
+"palabras": [
+"eventos mutuamente excluyentes",
+"independientes",
+"diagrama de árbol",
+"frecuencia"
+],
+"contenido": {
+"idea": "Lanzar una moneda no recuerda el resultado anterior. Si salieron 5 águilas seguidas, la siguiente sigue teniendo la misma probabilidad. El azar no compensa, solo se ve estable a la larga.",
+"pizarron": "$$P(A) = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\n- **Excluyentes:** $P(A \\text{ o } B) = P(A) + P(B)$\n- **Independientes:** $P(A \\text{ y } B) = P(A) \\cdot P(B)$\n\nDos monedas: $P(\\text{dos águilas}) = \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4}$.",
+"truco": "**\"O\" suma, \"Y\" multiplica.**",
+"practica": {
+"ejercicio": "Con un dado, ¿cuál es la probabilidad de sacar 1 o 2?",
+"respuesta": "$\\frac{1}{6} + \\frac{1}{6} = \\frac{1}{3}$."
+},
+"analogias": [
+{
+"titulo": "Puertas sucesivas",
+"texto": "Para pasar dos puertas al azar necesitas acertar ambas: cada puerta reduce tus opciones, por eso se multiplica."
+},
+{
+"titulo": "Boletos de rifa",
+"texto": "Si cualquiera de dos boletos gana, tienes dos oportunidades: se suman."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Dos dados: probabilidad de sumar 12",
+"respuesta": "$\\frac{1}{36}$."
+},
+{
+"ejercicio": "Una carta de 52: probabilidad de as",
+"respuesta": "$\\frac{4}{52} = \\frac{1}{13}$."
+},
+{
+"ejercicio": "Probabilidad de NO sacar 6 con un dado",
+"respuesta": "$\\frac{5}{6}$."
+}
+]
+}
+}
+]

@@ -1,0 +1,442 @@
+[
+{
+"nodo_id": "f5-047",
+"titulo": "Números decimales y fracciones equivalentes",
+"slug": "decimales-y-fracciones-equivalentes",
+"palabras": [
+"décimos",
+"centésimos",
+"equivalentes",
+"simplificar"
+],
+"contenido": {
+"idea": "Si partes un peso en 100 centavos, 50 centavos son la mitad del peso. Da igual decir 0.50 pesos o medio peso: es la misma cantidad con otro nombre. Los decimales y las fracciones son dos maneras de nombrar pedazos de un entero.",
+"pizarron": "Los decimales son fracciones con denominador 10, 100, 1000:\n\n$$0.7 = \\frac{7}{10} \\qquad 0.25 = \\frac{25}{100} = \\frac{1}{4}$$\n\n**Fracciones equivalentes:** multiplica o divide arriba y abajo por el mismo número.\n\n$$\\frac{2}{3} = \\frac{2 \\times 4}{3 \\times 4} = \\frac{8}{12}$$",
+"truco": "**Lo que hagas arriba, hazlo abajo.** Así cambian los números, pero no la cantidad.",
+"practica": {
+"ejercicio": "Escribe $\\frac{3}{4}$ como decimal.",
+"respuesta": "$\\frac{3}{4} = \\frac{75}{100} = 0.75$."
+},
+"analogias": [
+{
+"titulo": "Pizza recortada",
+"texto": "Si partes cada rebanada de una pizza en dos, tienes el doble de rebanadas y te sigue tocando lo mismo: 2 de 4 es igual que 1 de 2."
+},
+{
+"titulo": "Monedas",
+"texto": "Tres monedas de 25 centavos son 75 centavos: $\\frac{3}{4}$ de peso y también 0.75 pesos. Mismo dinero, dos formas de escribirlo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Simplifica $\\frac{12}{18}$.",
+"respuesta": "$\\frac{2}{3}$."
+},
+{
+"ejercicio": "¿Qué es mayor, 0.5 o 0.45?",
+"respuesta": "0.5, porque equivale a 0.50."
+},
+{
+"ejercicio": "Escribe 0.6 como fracción simplificada.",
+"respuesta": "$\\frac{3}{5}$."
+}
+]
+}
+},
+{
+"nodo_id": "f5-052",
+"titulo": "Suma y resta de fracciones y decimales",
+"slug": "suma-resta-fracciones-decimales",
+"palabras": [
+"denominador común",
+"punto decimal",
+"mínimo común múltiplo"
+],
+"contenido": {
+"idea": "No puedes sumar directamente 1 manzana y 1 naranja como si fueran iguales, pero sí 2 frutas. Con fracciones pasa algo parecido: medios y cuartos son pedazos de distinto tamaño. Primero los cortas al mismo tamaño y luego los juntas.",
+"pizarron": "**Fracciones con distinto denominador:**\n\n$$\\frac{1}{2} + \\frac{1}{4} = \\frac{2}{4} + \\frac{1}{4} = \\frac{3}{4}$$\n\n**Decimales:** alinea el punto.\n\n$$12.5 + 3.75 = 16.25$$\n\nSi hace falta, agrega ceros: $12.50 + 3.75$.",
+"truco": "**Fracciones: iguala abajo. Decimales: alinea el punto.**",
+"practica": {
+"ejercicio": "Resuelve $\\frac{2}{3} + \\frac{1}{6}$.",
+"respuesta": "$\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}$."
+},
+"analogias": [
+{
+"titulo": "Billetes del mismo tipo",
+"texto": "Para contar dinero en dólares y pesos juntos, primero conviertes a una sola moneda. El denominador común es esa moneda."
+},
+{
+"titulo": "Columnas de dinero",
+"texto": "Al sumar precios, pesos van con pesos y centavos con centavos. Alinear el punto hace exactamente eso."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$\\frac{3}{5} - \\frac{1}{5}$",
+"respuesta": "$\\frac{2}{5}$."
+},
+{
+"ejercicio": "$7.2 - 2.45$",
+"respuesta": "$4.75$."
+},
+{
+"ejercicio": "$\\frac{1}{3} + \\frac{1}{4}$",
+"respuesta": "$\\frac{7}{12}$."
+}
+]
+}
+},
+{
+"nodo_id": "f5-056",
+"titulo": "Multiplicar y dividir fracciones y decimales",
+"slug": "multiplicar-dividir-fracciones-decimales",
+"palabras": [
+"multiplicador natural",
+"cociente decimal",
+"fracción por número"
+],
+"contenido": {
+"idea": "Si cada niño come $\\frac{1}{4}$ de pizza y son 3 niños, juntan 3 pedazos de cuarto: $\\frac{3}{4}$. Multiplicar por un número es repetir la cantidad. Si en cambio repartes media pizza entre 2 personas, cada pedazo se hace más chico: dividir por un número reparte.",
+"pizarron": "**Fracción por natural:** multiplica el numerador.\n\n$$\\frac{2}{5} \\times 3 = \\frac{6}{5}$$\n\n**Decimal por natural:** multiplica normal y coloca el punto.\n\n$$1.25 \\times 4 = 5.00$$\n\n**Fracción entre natural:** multiplica el denominador.\n\n$$\\frac{1}{2} \\div 3 = \\frac{1}{6}$$",
+"truco": "Multiplicar sube el de **arriba**; dividir entre un natural sube el de **abajo**, y los pedazos se hacen más pequeños.",
+"practica": {
+"ejercicio": "Un listón de 3.6 m se corta en 4 partes iguales. ¿Cuánto mide cada parte?",
+"respuesta": "$3.6 \\div 4 = 0.9$ m."
+},
+"analogias": [
+{
+"titulo": "Tiras de papel",
+"texto": "Corta una tira en medios y parte cada medio en 3: quedan 6 pedazos iguales. Por eso $\\frac{1}{2} \\div 3 = \\frac{1}{6}$."
+},
+{
+"titulo": "Precio repetido",
+"texto": "Si un lápiz cuesta 1.25 pesos, cuatro lápices cuestan 4 veces eso: 5 pesos. Multiplicar decimales es lo mismo que pagar varias veces."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$\\frac{3}{8} \\times 2$",
+"respuesta": "$\\frac{6}{8} = \\frac{3}{4}$."
+},
+{
+"ejercicio": "$2.5 \\times 6$",
+"respuesta": "15."
+},
+{
+"ejercicio": "$7 \\div 8$ como decimal",
+"respuesta": "0.875."
+}
+]
+}
+},
+{
+"nodo_id": "f5-060",
+"titulo": "Proporcionalidad y porcentajes",
+"slug": "proporcionalidad-y-porcentajes",
+"palabras": [
+"valor unitario",
+"regla de tres",
+"por ciento",
+"razón"
+],
+"contenido": {
+"idea": "Si 2 tacos cuestan 30 pesos, 4 tacos cuestan 60: al doble de tacos, doble de precio. Eso es proporcionalidad. El porcentaje es la misma idea con un tamaño fijo: de cada 100, cuántos.",
+"pizarron": "**Valor unitario:** $30 \\div 2 = 15$ pesos por taco; 7 tacos cuestan $7 \\times 15 = 105$.\n\n**Porcentaje:** $n\\%$ significa $\\frac{n}{100}$.\n\n$$25\\% \\text{ de } 80 = \\frac{25}{100} \\times 80 = 20$$\n\nEquivalencias: $50\\% = \\frac{1}{2}$, $25\\% = \\frac{1}{4}$, $20\\% = \\frac{1}{5}$, $10\\% = \\frac{1}{10}$.",
+"truco": "Para el **10 %**, recorre el punto un lugar a la izquierda. Con eso armas casi todos los demás.",
+"practica": {
+"ejercicio": "Un tenis de 800 pesos tiene 25 % de descuento. ¿Cuánto pagas?",
+"respuesta": "Descuento: $800 \\div 4 = 200$. Pagas 600 pesos."
+},
+"analogias": [
+{
+"titulo": "Agua de limón",
+"texto": "Si tu receta lleva 2 limones por litro, para 3 litros usas 6. Si no respetas la razón, sabe distinta."
+},
+{
+"titulo": "Barra de 100 cuadritos",
+"texto": "Pinta 30 cuadritos de 100: eso es 30 %. Cualquier cantidad se imagina como esa barra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "15 % de 200",
+"respuesta": "30."
+},
+{
+"ejercicio": "Si 3 kg cuestan 90 pesos, ¿cuánto cuestan 5 kg?",
+"respuesta": "150 pesos."
+},
+{
+"ejercicio": "¿Qué porcentaje de 50 son 10?",
+"respuesta": "20 %."
+}
+]
+}
+},
+{
+"nodo_id": "f5-064",
+"titulo": "Desarrollos planos y volumen de prismas",
+"slug": "desarrollos-planos-cuerpos",
+"palabras": [
+"desarrollo plano",
+"cubo",
+"armar cuerpos",
+"caras"
+],
+"contenido": {
+"idea": "Una caja de pizza llega plana y la doblas para armarla. Ese cartón plano es el desarrollo del cuerpo: todas sus caras acostadas en la mesa. Saber qué figuras lo forman te dice si la caja cerrará.",
+"pizarron": "Para un cubo necesitas 6 cuadrados unidos. Hay 11 desarrollos planos distintos.\n\nPara un prisma: dos bases y un rectángulo por cada lado de la base. Para una pirámide: una base y un triángulo por cada lado.\n\nComprueba: cada arista debe unir dos bordes del mismo largo.",
+"truco": "**Cuenta caras antes de doblar.** Si falta una, el cuerpo no cierra.",
+"practica": {
+"ejercicio": "¿Cuántas figuras tiene el desarrollo de un prisma pentagonal?",
+"respuesta": "7 figuras: 2 pentágonos y 5 rectángulos."
+},
+"analogias": [
+{
+"titulo": "Pelar una naranja cúbica",
+"texto": "Imagina pelar un cuerpo con cuidado y extender la cáscara en la mesa. Esa cáscara plana es su desarrollo."
+},
+{
+"titulo": "Regalo",
+"texto": "Envolver un regalo es hacer lo contrario: pasas de papel plano a cubrir todas las caras."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué cuerpo se forma con 1 cuadrado y 4 triángulos?",
+"respuesta": "Pirámide cuadrangular."
+},
+{
+"ejercicio": "¿Cuántos cuadrados tiene el desarrollo de un cubo?",
+"respuesta": "6."
+},
+{
+"ejercicio": "¿Una fila de 6 cuadrados arma un cubo?",
+"respuesta": "No: al doblar, las caras se encimarían."
+}
+]
+}
+},
+{
+"nodo_id": "f5-067",
+"titulo": "Polígonos, círculos y simetría",
+"slug": "poligonos-circulos-simetria",
+"palabras": [
+"polígonos regulares",
+"radio",
+"diámetro",
+"simetría"
+],
+"contenido": {
+"idea": "Dobla una hoja con una mariposa dibujada: las alas coinciden. Esa línea de doblez es un eje de simetría. Las figuras regulares son las que tienen todos sus lados y ángulos iguales, y por eso tienen muchos dobleces posibles.",
+"pizarron": "- **Polígono regular:** lados y ángulos iguales.\n- **Circunferencia:** la línea curva; **círculo:** lo que queda adentro.\n- **Radio:** del centro a la orilla. **Diámetro:** cruza por el centro.\n\n$$d = 2r$$\n\nUn polígono regular de $n$ lados tiene $n$ ejes de simetría.",
+"truco": "**El diámetro es el doble** del radio: **d**iámetro, **d**oble.",
+"practica": {
+"ejercicio": "Un círculo tiene radio de 7 cm. ¿Cuánto mide su diámetro?",
+"respuesta": "14 cm."
+},
+"analogias": [
+{
+"titulo": "Rueda de bicicleta",
+"texto": "Cada rayo va del centro al borde: es un radio. Dos rayos opuestos forman un diámetro."
+},
+{
+"titulo": "Espejo",
+"texto": "Pon un espejo sobre el eje de simetría: la mitad reflejada completa la figura."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántos ejes de simetría tiene un cuadrado?",
+"respuesta": "4."
+},
+{
+"ejercicio": "¿Cómo se llama un polígono regular de 6 lados?",
+"respuesta": "Hexágono regular."
+},
+{
+"ejercicio": "Si el diámetro mide 30 cm, ¿cuánto mide el radio?",
+"respuesta": "15 cm."
+}
+]
+}
+},
+{
+"nodo_id": "f5-070",
+"titulo": "Ubicación en planos y coordenadas",
+"slug": "ubicacion-espacial-coordenadas",
+"palabras": [
+"plano cartesiano",
+"coordenadas",
+"mapas",
+"croquis"
+],
+"contenido": {
+"idea": "En el juego de hundir barcos dices \"B-4\" y todos saben qué casilla es. Dos datos bastan para ubicar un punto: uno para la columna y otro para la fila. Los mapas y el plano cartesiano funcionan así.",
+"pizarron": "Un punto en el plano se escribe $(x, y)$:\n\n1. $x$: avanza a la derecha.\n2. $y$: sube.\n\nEl punto $(3, 2)$ está 3 lugares a la derecha y 2 arriba del origen $(0, 0)$.",
+"truco": "**Primero caminas, luego subes:** $x$ antes que $y$.",
+"practica": {
+"ejercicio": "Desde $(0, 0)$, ¿dónde queda un punto 5 a la derecha y 1 arriba?",
+"respuesta": "En $(5, 1)$."
+},
+"analogias": [
+{
+"titulo": "Elevador del edificio",
+"texto": "Para visitar a alguien caminas por la calle y luego subes en el elevador: dirección y piso son dos coordenadas."
+},
+{
+"titulo": "Butacas de cine",
+"texto": "Tu boleto dice fila y asiento. Sin uno de los dos, no sabes dónde sentarte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Es lo mismo $(2, 4)$ que $(4, 2)$?",
+"respuesta": "No, son puntos distintos."
+},
+{
+"ejercicio": "¿Qué punto es el origen?",
+"respuesta": "$(0, 0)$."
+},
+{
+"ejercicio": "Sube 3 desde $(1, 1)$.",
+"respuesta": "$(1, 4)$."
+}
+]
+}
+},
+{
+"nodo_id": "f5-075",
+"titulo": "Perímetro, área y noción de volumen",
+"slug": "perimetro-area-volumen-primaria",
+"palabras": [
+"triángulo",
+"círculo",
+"pi",
+"volumen",
+"cubos"
+],
+"contenido": {
+"idea": "El perímetro es la cinta que rodea un regalo, el área es el papel que lo cubre y el volumen es cuánto cabe dentro. Tres preguntas distintas sobre el mismo objeto: orilla, superficie y espacio interior.",
+"pizarron": "$$A_{\\text{triángulo}} = \\frac{b \\times h}{2}$$\n\n$$C = \\pi \\times d \\qquad A_{\\text{círculo}} = \\pi r^2, \\quad \\pi \\approx 3.14$$\n\n**Volumen de un prisma rectangular:**\n\n$$V = l \\times a \\times h$$\n\nSe mide en unidades cúbicas, como $\\text{cm}^3$.",
+"truco": "**Cuenta las dimensiones:** orilla en $\\text{cm}$, área en $\\text{cm}^2$, volumen en $\\text{cm}^3$.",
+"practica": {
+"ejercicio": "Una caja mide 5 cm por 4 cm por 3 cm. ¿Cuál es su volumen?",
+"respuesta": "$5 \\times 4 \\times 3 = 60\\text{ cm}^3$."
+},
+"analogias": [
+{
+"titulo": "Rectángulo cortado",
+"texto": "Un triángulo es medio rectángulo: traza la diagonal de un rectángulo. Por eso su área se divide entre 2."
+},
+{
+"titulo": "Pisos de cubos",
+"texto": "Llena el piso de la caja con cubitos y luego apila pisos iguales: área de la base por altura."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Área de un triángulo con base 10 y altura 6",
+"respuesta": "30."
+},
+{
+"ejercicio": "Circunferencia con diámetro 10 cm",
+"respuesta": "31.4 cm aproximadamente."
+},
+{
+"ejercicio": "¿Cuántos $\\text{cm}^3$ tiene un cubo de 2 cm por lado?",
+"respuesta": "$8\\text{ cm}^3$."
+}
+]
+}
+},
+{
+"nodo_id": "f5-077",
+"titulo": "Media, moda y gráficas circulares",
+"slug": "media-moda-graficas-circulares",
+"palabras": [
+"promedio",
+"gráfica circular",
+"porcentaje",
+"datos"
+],
+"contenido": {
+"idea": "El promedio es repartir parejo. Si Ana tiene 2 dulces, Luis 4 y Eva 6, y juntan todo y lo reparten, cada quien queda con 4. Ese 4 es la media: lo que tocaría si todos tuvieran lo mismo.",
+"pizarron": "**Media:**\n\n$$\\bar{x} = \\frac{\\text{suma de datos}}{\\text{número de datos}} = \\frac{2 + 4 + 6}{3} = 4$$\n\n**Moda:** el dato más repetido.\n\n**Gráfica circular:** cada parte representa un porcentaje del total; todas suman 100 %.",
+"truco": "**Media = meter todo en un bote y repartir.**",
+"practica": {
+"ejercicio": "Calificaciones: 7, 8, 9, 10, 6. ¿Cuál es la media?",
+"respuesta": "$40 \\div 5 = 8$."
+},
+"analogias": [
+{
+"titulo": "Nivelar vasos",
+"texto": "Si vacías agua de vasos llenos a vasos menos llenos hasta igualarlos, la altura final es la media."
+},
+{
+"titulo": "Pastel de datos",
+"texto": "Una gráfica circular es un pastel: la rebanada más grande muestra la categoría más común."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Media de 5, 5 y 8",
+"respuesta": "6."
+},
+{
+"ejercicio": "Si la mitad de una gráfica circular es azul, ¿qué porcentaje es?",
+"respuesta": "50 %."
+},
+{
+"ejercicio": "Moda de 2, 4, 4, 9",
+"respuesta": "4."
+}
+]
+}
+},
+{
+"nodo_id": "f5-079",
+"titulo": "Nociones de probabilidad",
+"slug": "nociones-probabilidad-primaria",
+"palabras": [
+"azar",
+"seguro",
+"imposible",
+"experimento",
+"resultado"
+],
+"contenido": {
+"idea": "Si en una bolsa hay 9 canicas rojas y 1 azul, y sacas una sin ver, apostarías por roja. No es seguro, pero es más probable. La probabilidad mide qué tan fácil es que algo pase cuando interviene el azar.",
+"pizarron": "$$P = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\nCon un dado, la probabilidad de sacar 2 es $\\frac{1}{6}$.\n\nEscala: imposible $= 0$, seguro $= 1$; lo demás queda entre ambos.",
+"truco": "**Lo que quiero sobre todo lo que puede pasar.**",
+"practica": {
+"ejercicio": "En una bolsa hay 3 fichas verdes y 5 rojas. ¿Cuál es la probabilidad de sacar verde?",
+"respuesta": "$\\frac{3}{8}$."
+},
+"analogias": [
+{
+"titulo": "Rifa",
+"texto": "Si compras más boletos, tienes más posibilidades, aunque nadie te garantice ganar."
+},
+{
+"titulo": "Ruleta de colores",
+"texto": "Si el rojo ocupa la mitad de la ruleta, la flecha cae ahí más o menos la mitad de las veces."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Probabilidad de que salga águila en una moneda",
+"respuesta": "$\\frac{1}{2}$."
+},
+{
+"ejercicio": "¿Qué es sacar un 7 con un dado normal?",
+"respuesta": "Un evento imposible."
+},
+{
+"ejercicio": "Probabilidad de sacar un número par con un dado",
+"respuesta": "$\\frac{3}{6} = \\frac{1}{2}$."
+}
+]
+}
+}
+]

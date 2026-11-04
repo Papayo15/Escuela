@@ -1,0 +1,812 @@
+[
+ {
+  "id": "f4-001",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Narración de sucesos del pasado y del presente",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 24
+ },
+ {
+  "id": "f4-002",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Estructura y funcionamiento del cuerpo humano: sistemas locomotor y digestivo, así como prácticas para su cuidado, desde su contexto sociocultural",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 42
+ },
+ {
+  "id": "f4-003",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Representaciones cartográficas de la localidad y/o comunidad; su ubicación dentro de la entidad y del país, con relación al conocimiento, función y cuidados de los ecosistemas como sustento de la vida",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 56
+ },
+ {
+  "id": "f4-004",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 72
+ },
+ {
+  "id": "f4-005",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Descripción de personas, lugares, hechos y procesos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 24
+ },
+ {
+  "id": "f4-006",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Estructura y funcionamiento del cuerpo humano: sistema sexual; cambios en la pubertad e implicaciones socioculturales",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 42
+ },
+ {
+  "id": "f4-007",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Valoración de los ecosistemas: características del territorio como espacio de vida y las interacciones de la comunidad con los ecosistemas, para su preservación responsable y sustentable",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 56
+ },
+ {
+  "id": "f4-008",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Las familias como espacio de protección, cuidado, afecto y sustento para el desarrollo personal",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 72
+ },
+ {
+  "id": "f4-009",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Diálogo para la toma de acuerdos y el intercambio de puntos de vista",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 25
+ },
+ {
+  "id": "f4-010",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Alimentación saludable, con base en el Plato del Bien Comer, así como prácticas culturales y la toma de decisiones encaminadas a favorecer la salud y el medio ambiente y la economía familiar",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 43
+ },
+ {
+  "id": "f4-011",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Interculturalidad y sustentabilidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 57
+ },
+ {
+  "id": "f4-012",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Entendimiento mutuo en la escuela",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 72
+ },
+ {
+  "id": "f4-013",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos expositivos en los que se planteen",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 25
+ },
+ {
+  "id": "f4-014",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Interacciones entre plantas, animales y el entorno natural: nutrición y locomoción",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 44
+ },
+ {
+  "id": "f4-015",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Cuidado de los ecosistemas para su regeneración, preservación responsable y sustentable",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 58
+ },
+ {
+  "id": "f4-016",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "La escuela como espacio de convivencia, colaboración y aprendizaje",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 72
+ },
+ {
+  "id": "f4-017",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Búsqueda y manejo reflexivo de información",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 26
+ },
+ {
+  "id": "f4-018",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Relaciones entre los factores físicos y biológicos que conforman los ecosistemas y favorecen la preservación de la vida",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 45
+ },
+ {
+  "id": "f4-019",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Acciones de prevención ante peligros o amenazas de fenómenos naturales y acciones humanas y la importancia de actuar y participar en la escuela, barrio, pueblo, comunidad, entidad y país; promover la cultura de prevención, autoprotección, empatía y solidaridad con las personas afectadas y el entorno socioambiental",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 59
+ },
+ {
+  "id": "f4-020",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Formas de ser, pensar, actuar y relacionarse",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 73
+ },
+ {
+  "id": "f4-021",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos discontinuos para organizar actividades y ordenar información",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 26
+ },
+ {
+  "id": "f4-022",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Impacto de las actividades humanas en la naturaleza y en la salud",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 45
+ },
+ {
+  "id": "f4-023",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Caracterización y localización del territorio donde vive, la entidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 59
+ },
+ {
+  "id": "f4-024",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Construcción del proyecto de vida",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 73
+ },
+ {
+  "id": "f4-025",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de resúmenes",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 27
+ },
+ {
+  "id": "f4-026",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Propiedades de los materiales: masa y longitud; relación entre estados físicos y la temperatura",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 46
+ },
+ {
+  "id": "f4-027",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Composición sociocultural de la entidad federativa y de México, y su configuración a través de la historia como un país pluricultural, integrado por pueblos originarios, afromexicanos, migrantes y diversas comunidades con características y necesidades, quienes han luchado por el reconocimiento de la igualdad en dignidad y derechos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 60
+ },
+ {
+  "id": "f4-028",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Equidad de género en las familias, la escuela y la comunidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 73
+ },
+ {
+  "id": "f4-029",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos instructivos para realizar actividades escolares y participar en diversos juegos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 27
+ },
+ {
+  "id": "f4-030",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Formación de mezclas y sus propiedades",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 46
+ },
+ {
+  "id": "f4-031",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "La vida cotidiana antes de la primera invasión europea y en el México colonial: personas y grupos sociales que incidieron en la historia de la comunidad, entidad y el país, para reconocer sus aportes en lo social, cultural, político y económico",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 61
+ },
+ {
+  "id": "f4-032",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Educación Integral en Sexualidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 73
+ },
+ {
+  "id": "f4-033",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Exposición sobre temas diversos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 28
+ },
+ {
+  "id": "f4-034",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Efectos de la aplicación de fuerzas y del calor sobre los objetos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 46
+ },
+ {
+  "id": "f4-035",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Origen histórico de algunos símbolos (territorio, lugares sagrados, figuras y colores, banderas, escudos, himnos, entre otros), que identifican a las comunidades, pueblos, la entidad y a México como país, en tanto referentes que dan sentido de identidad y pertenencia",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 62
+ },
+ {
+  "id": "f4-036",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Efectos en la vida de las personas, derivados de cambios sociales, culturales y en la salud",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 73
+ },
+ {
+  "id": "f4-037",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comunicación a distancia con personas y propósitos diversos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 29
+ },
+ {
+  "id": "f4-038",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Sistema Tierra-Luna-Sol: interacciones, cambios y regularidades; diversas explicaciones acerca del movimiento de estos astros y su relación con algunos fenómenos naturales",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 47
+ },
+ {
+  "id": "f4-039",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "El derecho a la protección de la integridad propia y la de todas las personas, reconociendo situaciones de riesgo, como el maltrato, el abuso, bullying o la explotación de tipo sexual y la importancia de su prevención, al conocer las instancias para solicitar ayuda y/o denunciar",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 62
+ },
+ {
+  "id": "f4-040",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Reconocimiento de las necesidades y características propias y de las demás personas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 74
+ },
+ {
+  "id": "f4-041",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Análisis e intercambio de comentarios sobre empaques de productos y anuncios publicitarios",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 29
+ },
+ {
+  "id": "f4-042",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Estudio de los números",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 40
+ },
+ {
+  "id": "f4-043",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Experiencias de organización comunitaria del pasado y del presente, y las acciones de colaboración, reciprocidad, cuidado mutuo y trabajo por el bienestar de la escuela, barrio, comunidad, pueblo y colectivo social, para configurar ambientes seguros e igualitarios, con equidad y justicia",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 63
+ },
+ {
+  "id": "f4-044",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Sentido de pertenencia, identidad personal y social",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 74
+ },
+ {
+  "id": "f4-045",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Indagación, reelaboración y difusión de notas informativas con opiniones sobre hechos que afectan a la escuela y/o a la comunidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 30
+ },
+ {
+  "id": "f4-046",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Suma y resta, su relación como operaciones inversas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 49
+ },
+ {
+  "id": "f4-047",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Situaciones de discriminación en el aula, la escuela, la comunidad, la entidad y el país, sobre la diversidad de género, cultural, étnica, lingüística, social, así como sobre rasgos físicos, desarrollo cognitivo y barreras de aprendizaje, y participación en ámbitos de convivencia, para la promoción de ambientes igualitarios, de respeto a la dignidad humana y a los derechos de todas las personas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 63
+ },
+ {
+  "id": "f4-048",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Capacidades y habilidades motrices",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 74
+ },
+ {
+  "id": "f4-049",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Uso de textos formales para atender diversos asuntos personales o del bienestar común",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 30
+ },
+ {
+  "id": "f4-050",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Multiplicación y división, su relación como operaciones inversas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 50
+ },
+ {
+  "id": "f4-051",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Retos en el reconocimiento y ejercicio de los derechos humanos y la satisfacción de las necesidades básicas, físicas, sociales, de seguridad, emocionales y cognitivas de niñas, niños y adolescentes, así como situaciones injustas en el pasado y el presente, en las que no se respetan los derechos para satisfacer las necesidades básicas de todas las personas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 64
+ },
+ {
+  "id": "f4-052",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Posibilidades cognitivas, expresivas, motrices, creativas y de relación",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 74
+ },
+ {
+  "id": "f4-053",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Entrevistas con personas de la comunidad para conocer diversos temas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 30
+ },
+ {
+  "id": "f4-054",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Cuerpos geométricos y sus características",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 50
+ },
+ {
+  "id": "f4-055",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "La construcción colectiva de la paz",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 64
+ },
+ {
+  "id": "f4-056",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Estilos de vida activos y saludables",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 75
+ },
+ {
+  "id": "f4-057",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Indagación sobre la diversidad lingüística en su comunidad y el resto del país",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 31
+ },
+ {
+  "id": "f4-058",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Figuras geométricas y sus características",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 50
+ },
+ {
+  "id": "f4-059",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Formas y procedimientos mediante las que se eligen a las autoridades de gobierno, y los cambios que han tenido a través del tiempo, en función del bienestar colectivo",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 16
+ },
+ {
+  "id": "f4-060",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Uso de croquis y mapas para describir trayectos o localizar lugares",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 31
+ },
+ {
+  "id": "f4-061",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Medición de longitud, masa y capacidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 51
+ },
+ {
+  "id": "f4-062",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Democracia en la vida cotidiana: construcción, cumplimiento y aplicación justa de acuerdos, normas y leyes que contribuyen a la protección de los derechos de todas las personas individuales y colectivos, y a la convivencia conforme a los principios de igualdad, justicia y responsabilidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 65
+ },
+ {
+  "id": "f4-063",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Interacción motriz",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 75
+ },
+ {
+  "id": "f4-064",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Reconocimiento y reflexión sobre el uso de elementos de los lenguajes artísticos, en manifestaciones culturales y artísticas de la comunidad y del resto del mundo",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 32
+ },
+ {
+  "id": "f4-065",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Cálculo de perímetro y área",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 51
+ },
+ {
+  "id": "f4-066",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "La toma de decisiones ante situaciones cotidianas y de riesgos, con base en el cuidado de la dignidad de todas y todos, considerando posibles consecuencias de las acciones, para actuar con responsabilidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 66
+ },
+ {
+  "id": "f4-067",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Hábitos saludables para promover el bienestar en los seres vivos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 75
+ },
+ {
+  "id": "f4-068",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Creación de propuestas con intención artística para mejorar la escuela y el resto de la comunidad",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 32
+ },
+ {
+  "id": "f4-069",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Medición del tiempo",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 51
+ },
+ {
+  "id": "f4-070",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Desigualdades por diferencias de género: causas y consecuencias en la vida cotidiana pasada y presente, para proponer acciones en favor de la igualdad, basadas en el reconocimiento y el respeto de los derechos de todas las personas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 66
+ },
+ {
+  "id": "f4-071",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Higiene para una vida saludable",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 75
+ },
+ {
+  "id": "f4-072",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Lectura y creación de poemas, canciones y juegos de palabras para su disfrute",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 33
+ },
+ {
+  "id": "f4-073",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Organización e interpretación de datos",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 51
+ },
+ {
+  "id": "f4-074",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Situaciones de riesgo social en la comunidad y región donde vive",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 75
+ },
+ {
+  "id": "f4-075",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Experimentación con elementos visuales y sonoros en producciones colectivas artísticas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 34
+ },
+ {
+  "id": "f4-076",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Los afectos y su influencia en el bienestar",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 76
+ },
+ {
+  "id": "f4-077",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Reflexión y uso de los lenguajes artísticos, para recrear experiencias estéticas que tienen lugar en la vida cotidiana",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 34
+ },
+ {
+  "id": "f4-078",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Representación de hechos y experiencias significativas mediante el empleo de recursos textuales, visuales, corporales y sonoros",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 35
+ },
+ {
+  "id": "f4-079",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Identificación del uso de la fantasía y la realidad en diferentes manifestaciones culturales y artísticas",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 35
+ },
+ {
+  "id": "f4-080",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Lectura dramatizada y representación teatral",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 36
+ },
+ {
+  "id": "f4-081",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de cuentos para su disfrute",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 36
+ }
+]

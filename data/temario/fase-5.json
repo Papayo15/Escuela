@@ -1,0 +1,802 @@
+[
+ {
+  "id": "f5-001",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Narración de sucesos autobiográficos",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 22
+ },
+ {
+  "id": "f5-002",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Estructura y funcionamiento del cuerpo humano: sistemas circulatorio, respiratorio e inmunológico, y su relación con la salud ambiental, así como acciones para su cuidado",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 40
+ },
+ {
+  "id": "f5-003",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Valoración de la biodiversidad: en el territorio donde se ubica la localidad, entidad, México y el mundo, valores y acciones sustentables",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 59
+ },
+ {
+  "id": "f5-004",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Las familias como espacio para el desarrollo del sentido de pertenencia y autonomía, para una sana convivencia",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 83
+ },
+ {
+  "id": "f5-005",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos explicativos",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 22
+ },
+ {
+  "id": "f5-006",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Etapas del desarrollo humano: proceso de reproducción y prevención de infecciones de transmisión sexual (ITS) y embarazos en adolescentes, en el marco de la salud sexual y reproductiva",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 40
+ },
+ {
+  "id": "f5-007",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Valoración de la megadiversidad mexicana: megadiversidad en México, diversidad cultural, relaciones ser humano-naturaleza y representaciones distintas de las diferentes culturas o grupos sociales, sobre la biodiversidad y su manejo, acorde a sus contextos",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 60
+ },
+ {
+  "id": "f5-008",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Alternativas ante conflictos y problemas de la vida en la comunidad",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 83
+ },
+ {
+  "id": "f5-009",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Participación en debates sobre temas de interés común",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 23
+ },
+ {
+  "id": "f5-010",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Alimentación saludable: características de la dieta correcta, costumbres de la comunidad, riesgos del consumo de alimentos ultraprocesados, y acciones para mejorar la alimentación",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 41
+ },
+ {
+  "id": "f5-011",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Sustentabilidad de la biodiversidad y humanismo: rasgos de los estilos de vida y modelos de desarrollo dominantes y su impacto en la biodiversidad, implicaciones socioambientales de la preservación",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 60
+ },
+ {
+  "id": "f5-012",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "La escuela como ventana hacia el futuro",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 83
+ },
+ {
+  "id": "f5-013",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos argumentativos",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 23
+ },
+ {
+  "id": "f5-014",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Funciones vitales que caracterizan a plantas y animales como seres vivos, y su relación con el entorno natural, así como sus cambios a través del tiempo",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 42
+ },
+ {
+  "id": "f5-015",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Ética y biodiversidad: factores sociales que propician la convivencia armónica con el medio ambiente basada en el respeto, responsabilidad, justicia social y equidad con la naturaleza",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 61
+ },
+ {
+  "id": "f5-016",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "La comunidad, como espacio para el aprendizaje y el bienestar común",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 83
+ },
+ {
+  "id": "f5-017",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos informativos, para ampliar sus conocimientos sobre temas de interés tanto colectivo como individual",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 24
+ },
+ {
+  "id": "f5-018",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Factores que conforman la biodiversidad y el medio ambiente, la riqueza natural de México y su relevancia como parte del patrimonio biocultural de la humanidad, y la importancia de su conservación",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 43
+ },
+ {
+  "id": "f5-019",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Derechos humanos: a un ambiente sano y acceso al agua potable",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 62
+ },
+ {
+  "id": "f5-020",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Formas de ser, pensar, actuar y relacionarse",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 84
+ },
+ {
+  "id": "f5-021",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos discontinuos, para organizar y presentar información",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 24
+ },
+ {
+  "id": "f5-022",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Pérdida de biodiversidad, problemas medio ambientales en la comunidad,",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 44
+ },
+ {
+  "id": "f5-023",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "La responsabilidad compartida, el respeto y el consumo sustentable: acciones colectivas a favor de la protección, regeneración y preservación de la biodiversidad y el bienestar socioambiental",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 63
+ },
+ {
+  "id": "f5-024",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Construcción del proyecto de vida",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 84
+ },
+ {
+  "id": "f5-025",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Elaboración e intercambio de reseñas de diversos textos y/o audiovisuales",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 25
+ },
+ {
+  "id": "f5-026",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Costos y beneficios del consumo de agua, energía eléctrica y combustibles en la satisfacción de necesidades personales",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 44
+ },
+ {
+  "id": "f5-027",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Educación Integral en Sexualidad",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 84
+ },
+ {
+  "id": "f5-028",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comparación y producción de documentos que regulan la convivencia",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 25
+ },
+ {
+  "id": "f5-029",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Propiedades de los materiales: dureza, flexibilidad y permeabilidad y su aplicación en la satisfacción de necesidades; caracterización de los gases con base en sus propiedades",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 45
+ },
+ {
+  "id": "f5-030",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Construcción de la cultura de paz",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 65
+ },
+ {
+  "id": "f5-031",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Equidad de género",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 84
+ },
+ {
+  "id": "f5-032",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Exposición sobre temas relacionados con el cuidado de la salud",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 26
+ },
+ {
+  "id": "f5-033",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Cambios permanentes en los materiales y sus implicaciones en la vida diaria",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 46
+ },
+ {
+  "id": "f5-034",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "La democracia como forma de gobierno en México y su construcción a través de la historia",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 65
+ },
+ {
+  "id": "f5-035",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Capacidades, habilidades y destrezas motrices",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 84
+ },
+ {
+  "id": "f5-036",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Producción y envío de cartas personales",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 27
+ },
+ {
+  "id": "f5-037",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Efecto del magnetismo y de la fuerza de gravedad",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 46
+ },
+ {
+  "id": "f5-038",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Cultura democrática: principios éticos que subyacen en los acuerdos, normas y leyes democráticas, importancia de su cumplimiento y evaluación de su aplicación justa, equitativa e igualitaria en la vida cotidiana",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 66
+ },
+ {
+  "id": "f5-039",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Potencialidades cognitivas, expresivas, motrices, creativas y de relación",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 84
+ },
+ {
+  "id": "f5-040",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Interpretación y producción de anuncios publicitarios de productos o servicios ofrecidos en la comunidad",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 27
+ },
+ {
+  "id": "f5-041",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Transformaciones de la energía térmica y eléctrica, así como su aplicación tecnológica",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 47
+ },
+ {
+  "id": "f5-042",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Estilos de vida activos y saludables",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 85
+ },
+ {
+  "id": "f5-043",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Seguimiento crítico de noticias en diferentes medios de comunicación escrita",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 28
+ },
+ {
+  "id": "f5-044",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Sistema Solar y Universo: características de sus componentes, y aportaciones culturales, científicas y tecnológicas que han favorecido su conocimiento",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 48
+ },
+ {
+  "id": "f5-045",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Contribuciones al bienestar colectivo",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 67
+ },
+ {
+  "id": "f5-046",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comprensión y producción de textos para gestionar servicios públicos",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 29
+ },
+ {
+  "id": "f5-047",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Estudio de los números",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 49
+ },
+ {
+  "id": "f5-048",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "El derecho a la protección de la integridad física y mental, ante cualquier forma de maltrato, abuso o explotación de tipo sexual o laboral, así como, la identificación de personas e instituciones que pueden apoyar para el ejercicio de ese derecho",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 67
+ },
+ {
+  "id": "f5-049",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "La lucha por el reconocimiento de los derechos humanos: la protección de la dignidad de todas las personas y grupos sociales para vivir con gozo y armonía, sin importar las diferencias",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 68
+ },
+ {
+  "id": "f5-050",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Interacción motriz",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 85
+ },
+ {
+  "id": "f5-051",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Elaboración de un tríptico informativo sobre la prevención de algún problema colectivo",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 29
+ },
+ {
+  "id": "f5-052",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Suma y resta, su relación como operaciones inversas",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 49
+ },
+ {
+  "id": "f5-053",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Cumplimiento de los derechos humanos",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 68
+ },
+ {
+  "id": "f5-054",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 85
+ },
+ {
+  "id": "f5-055",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Reconocimiento de la diversidad lingüística de México",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 30
+ },
+ {
+  "id": "f5-056",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Multiplicación y división, su relación como operaciones inversas",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 50
+ },
+ {
+  "id": "f5-057",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Valores y prácticas de los pueblos originarios y afromexicanos: el respeto, la reciprocidad y el beneficio mutuo como valores fundamentales de la relación con la naturaleza y con otras personas",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 69
+ },
+ {
+  "id": "f5-058",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Sentido de comunidad y satisfacción de necesidades humanas",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 86
+ },
+ {
+  "id": "f5-059",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Interpretación y valoración de manifestaciones culturales y artísticas de México y del mundo",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 31
+ },
+ {
+  "id": "f5-060",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Relaciones de proporcionalidad",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 50
+ },
+ {
+  "id": "f5-061",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Pueblos y culturas de América y el mundo: el respeto a las costumbres, tradiciones y formas de vivir de diferentes culturas",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 69
+ },
+ {
+  "id": "f5-062",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Toma de decisiones y creatividad, ante problemas de la vida",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 86
+ },
+ {
+  "id": "f5-063",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Apropiación e intervención artística en el espacio comunitario",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 31
+ },
+ {
+  "id": "f5-064",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Cuerpos geométricos y sus características",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 50
+ },
+ {
+  "id": "f5-065",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Movimientos sociales en el México de los siglos XIX y XX: la Independencia y la Revolución Mexicana",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 70
+ },
+ {
+  "id": "f5-066",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Análisis de cuentos y poemas para su disfrute y comprensión",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 32
+ },
+ {
+  "id": "f5-067",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Figuras geométricas y sus características",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 51
+ },
+ {
+  "id": "f5-068",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "México independiente: la vida cotidiana, las intervenciones extranjeras durante el siglo XIX, causas y consecuencias de conflictos territoriales, la defensa de la soberanía nacional y la conformación del estado laico. (Quinto grado)",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 72
+ },
+ {
+  "id": "f5-069",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Combinación de elementos visuales, sonoros y corporales, en composiciones artísticas colectivas, para expresar rasgos de sus identidades personal y colectiva",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 32
+ },
+ {
+  "id": "f5-070",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Ubicación espacial",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 51
+ },
+ {
+  "id": "f5-071",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "México posrevolucionario (1917-1940)",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 74
+ },
+ {
+  "id": "f5-072",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Expresión, mediante el uso de los lenguajes artísticos, de experiencias estéticas que tienen lugar en la naturaleza",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 33
+ },
+ {
+  "id": "f5-073",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Migración y derechos humanos: migración interna y externa, causas y consecuencias sociales, económicas, culturales, políticas y ambientales",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 75
+ },
+ {
+  "id": "f5-074",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Creación y representación de narrativas a partir de acontecimientos relevantes de la comunidad, empleando recursos literarios, visuales, corporales y sonoros",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 33
+ },
+ {
+  "id": "f5-075",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Perímetro, área y noción de volumen",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 51
+ },
+ {
+  "id": "f5-076",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Combinación de la realidad y la ficción en elementos simbólicos de las manifestaciones culturales y artísticas, que dan identidad y sentido de pertenencia",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 34
+ },
+ {
+  "id": "f5-077",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Organización e interpretación de datos",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 38
+ },
+ {
+  "id": "f5-078",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Análisis y representación de guiones teatrales",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 34
+ },
+ {
+  "id": "f5-079",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Nociones de probabilidad",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 52
+ },
+ {
+  "id": "f5-080",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Lectura y análisis de mitos y leyendas, para su disfrute y valoración",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 35
+ }
+]

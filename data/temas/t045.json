@@ -1,0 +1,142 @@
+[
+{
+"nodo_id": "ems-139",
+"titulo": "Crear contenidos digitales éticos e incluyentes",
+"slug": "contenidos-digitales-eticos-preparatoria",
+"palabras": [
+"contenido digital",
+"accesibilidad",
+"inclusión",
+"derechos de autor",
+"infografía",
+"video",
+"creatividad"
+],
+"contenido": {
+"idea": "Hacer un contenido digital es como preparar una fiesta: piensas en quién viene, que todos puedan entrar, que haya comida para todos y que nadie se sienta excluido.",
+"pizarron": "Para producir un contenido digital (infografía, video, podcast, presentación) sigue estos pasos:\n\n1. **Define el propósito y al público**: qué quieres comunicar y a quién.\n2. **Reúne información confiable** y anota las fuentes.\n3. **Respeta la ética**: usa material propio o con licencia (por ejemplo Creative Commons), cita autores y no uses la imagen de otras personas sin permiso.\n4. **Hazlo accesible**: añade texto alternativo a las imágenes, subtítulos a los videos, buen contraste de color y letra legible.\n5. **Hazlo incluyente**: usa lenguaje respetuoso y ejemplos que representen a distintas personas, edades, capacidades y contextos.\n6. **Revisa y publica**, y pide opinión para mejorar.",
+"truco": "PACIA: Propósito, Acceso, Cita, Inclusión, Autoría.",
+"practica": {
+"ejercicio": "Vas a subir un video sobre cuidado del agua. Menciona dos acciones para hacerlo accesible y una para hacerlo ético.",
+"respuesta": "Accesible: agregar subtítulos y describir con voz lo que se ve en pantalla. Ético: citar las fuentes de los datos y usar música con licencia libre."
+},
+"analogias": [
+{
+"titulo": "La rampa en la entrada",
+"texto": "La accesibilidad es como poner una rampa junto a las escaleras: no cambia el edificio, pero permite que más personas entren."
+},
+{
+"titulo": "La receta con créditos",
+"texto": "Citar fuentes es como decir quién te dio la receta: reconoces el trabajo de otros y tu platillo gana confianza."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Para qué sirve el texto alternativo en una imagen?",
+"respuesta": "Para que una persona que usa lector de pantalla conozca lo que muestra la imagen."
+},
+{
+"ejercicio": "Quieres usar una foto que encontraste en internet. ¿Qué debes revisar antes?",
+"respuesta": "Su licencia o permiso de uso y el nombre de la autora o autor para citarlo."
+},
+{
+"ejercicio": "Reflexiona: ¿cómo sabrías si tu infografía es incluyente? Da dos criterios.",
+"respuesta": "Respuesta válida: lenguaje sin estereotipos y ejemplos de personas diversas; también que pueda leerse con buen contraste o tenga alternativas para quien no ve o no oye."
+}
+]
+}
+},
+{
+"nodo_id": "ems-140",
+"titulo": "Algoritmos, IA, sesgos y desinformación",
+"slug": "algoritmos-ia-sesgos-desinformacion-preparatoria",
+"palabras": [
+"inteligencia artificial",
+"algoritmo",
+"sesgo",
+"fake news",
+"burbuja de filtro",
+"verificar información"
+],
+"contenido": {
+"idea": "Un algoritmo es como un mesero que solo te recomienda lo que ya pediste antes: te acostumbras y dejas de conocer otros platillos.",
+"pizarron": "Un **algoritmo** es una serie de pasos para resolver una tarea. Las redes sociales los usan para decidir qué ves. Los modelos de **IA** aprenden patrones de grandes cantidades de datos.\n\n**Sesgo**: si los datos o quienes diseñan el sistema favorecen a ciertos grupos, los resultados también serán injustos o incompletos.\n\n**Impacto**: pueden crear burbujas de filtro (ves solo opiniones parecidas), difundir desinformación o influir en tus decisiones.\n\n**Cómo analizar críticamente**:\n1. Pregunta quién creó el contenido y con qué fin.\n2. Contrasta con al menos dos fuentes confiables.\n3. Revisa fecha y pruebas.\n4. Desconfía de lo que busca indignarte o que lo compartas de inmediato.\n5. Recuerda que la IA puede equivocarse o inventar datos: verifica.",
+"truco": "Antes de compartir: Fuente, Fecha, Contraste.",
+"practica": {
+"ejercicio": "Recibes un mensaje alarmante sin fuente que pide reenviarlo a todos. ¿Qué haces?",
+"respuesta": "No lo reenvías; buscas la noticia en medios o instituciones confiables, revisas la fecha y solo compartes si se confirma."
+},
+"analogias": [
+{
+"titulo": "El espejo que solo te halaga",
+"texto": "Una burbuja de filtro es como un espejo que solo muestra lo que te gusta: parece completo, pero te oculta otras partes de la realidad."
+},
+{
+"titulo": "El estudiante que aprende de un solo libro",
+"texto": "Una IA entrenada con datos incompletos es como quien estudia de un único libro con errores: repetirá esos errores con mucha seguridad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define sesgo en un sistema de IA.",
+"respuesta": "Es una tendencia injusta o incompleta en los resultados, causada por datos o diseño que favorecen a algunos grupos."
+},
+{
+"ejercicio": "Menciona dos señales de que una noticia puede ser falsa.",
+"respuesta": "Sin fuente o autor, sin fecha, titular exagerado, pide compartirse con urgencia, nadie más la reporta."
+},
+{
+"ejercicio": "Reflexiona: una IA te da un dato muy específico. ¿Cómo decides si confiar? Da dos criterios.",
+"respuesta": "Respuesta válida: contrastar el dato con fuentes confiables y comprobar que existan referencias reales; no usarlo para decisiones importantes sin verificarlo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-141",
+"titulo": "Prevenir violencias digitales y cuidar el bienestar",
+"slug": "violencias-digitales-bienestar-preparatoria",
+"palabras": [
+"ciberacoso",
+"bienestar digital",
+"violencia digital",
+"igualdad",
+"carreras tecnológicas",
+"privacidad",
+"desconexión"
+],
+"contenido": {
+"idea": "Internet es como una plaza enorme: si alguien te molesta o te sientes mal, puedes alejarte, avisar a un adulto de confianza y cuidar a quienes están cerca.",
+"pizarron": "**Violencias digitales**: agresiones por medios digitales, como ciberacoso, insultos, difusión de datos o imágenes sin permiso, suplantación de identidad y amenazas.\n\n**Prevención**:\n1. Cuida tu privacidad: contraseñas seguras y perfiles configurados.\n2. No compartas imágenes o datos de otras personas sin su consentimiento.\n3. Si hay agresión: no respondas con violencia, guarda capturas, bloquea, reporta en la plataforma y busca apoyo de familia, escuela o autoridades.\n4. Sé testigo activo: no difundas ni te burles; apoya a la persona afectada.\n\n**Bienestar digital**: usa la tecnología con equilibrio. Pon horarios, desactiva notificaciones, descansa la vista y duerme bien.\n\n**Igualdad**: mujeres y personas de cualquier origen o condición merecen las mismas oportunidades para estudiar carreras de tecnología y programación.",
+"truco": "Ante una agresión: Guarda, Bloquea, Reporta, Cuéntalo.",
+"practica": {
+"ejercicio": "Un compañero recibe burlas en un grupo de chat. Menciona dos acciones responsables que puedes hacer.",
+"respuesta": "No reenviar ni reírme de los mensajes, apoyar a mi compañero, guardar evidencia y reportar al grupo o a una persona adulta de confianza."
+},
+"analogias": [
+{
+"titulo": "El semáforo digital",
+"texto": "Antes de publicar, detente como en un alto: si puede lastimar o revelar datos de alguien, no avances."
+},
+{
+"titulo": "La batería del celular",
+"texto": "El bienestar digital es como cuidar la batería: si nunca descansas ni te recargas, tu energía se agota."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Da dos ejemplos de violencia digital.",
+"respuesta": "Ciberacoso e insultos en redes; difundir fotos o datos de alguien sin su permiso; suplantar la identidad de otra persona."
+},
+{
+"ejercicio": "¿Por qué conviene guardar capturas de pantalla ante una agresión?",
+"respuesta": "Sirven como evidencia para reportar y recibir apoyo."
+},
+{
+"ejercicio": "Reflexiona: ¿por qué es importante que haya igualdad de oportunidades en carreras tecnológicas? Da dos criterios.",
+"respuesta": "Respuesta válida: todas las personas tienen talento y derecho a elegir; la diversidad de perspectivas ayuda a crear tecnología más justa y útil para todos."
+}
+]
+}
+}
+]

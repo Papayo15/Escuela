@@ -1,0 +1,782 @@
+[
+ {
+  "id": "f3-001",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Escritura de nombres en la lengua materna",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 24
+ },
+ {
+  "id": "f3-002",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Cuerpo humano: estructura externa, acciones para su cuidado y sus cambios como parte del crecimiento",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 40
+ },
+ {
+  "id": "f3-003",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 54
+ },
+ {
+  "id": "f3-004",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "La comunidad como el espacio en el que se vive y se encuentra la escuela",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 67
+ },
+ {
+  "id": "f3-005",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Lectura compartida en voz alta",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 24
+ },
+ {
+  "id": "f3-006",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 40
+ },
+ {
+  "id": "f3-007",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 54
+ },
+ {
+  "id": "f3-008",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Actitudes y prácticas que prevalecen entre los hombres y las mujeres en las familias, la escuela y la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 67
+ },
+ {
+  "id": "f3-009",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Narración de actividades y eventos relevantes que tengan lugar en la familia, la escuela o el resto de la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 25
+ },
+ {
+  "id": "f3-010",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Características del entorno natural y sociocultural",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 41
+ },
+ {
+  "id": "f3-011",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 55
+ },
+ {
+  "id": "f3-012",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Escritura colectiva por medio del dictado",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 25
+ },
+ {
+  "id": "f3-013",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Impacto de las actividades humanas en el entorno natural, así como acciones y prácticas socioculturales para su cuidado",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 42
+ },
+ {
+  "id": "f3-014",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (“antes, durante y después”)",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 55
+ },
+ {
+  "id": "f3-015",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Historia personal y familiar",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 57
+ },
+ {
+  "id": "f3-016",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Descripción de objetos, lugares y seres vivos",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 26
+ },
+ {
+  "id": "f3-017",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Objetos del entorno: características, propiedades, estados físicos y usos en la vida cotidiana",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 42
+ },
+ {
+  "id": "f3-018",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Los seres humanos son diversos y valiosos, y tienen derechos humanos",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 56
+ },
+ {
+  "id": "f3-019",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Sentido de pertenencia a la familia y la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 67
+ },
+ {
+  "id": "f3-020",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Uso de convenciones de la escritura presentes en la cotidianeidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 26
+ },
+ {
+  "id": "f3-021",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Efectos de la aplicación de fuerzas: movimiento y deformación",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 43
+ },
+ {
+  "id": "f3-022",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Atención a las necesidades básicas, como parte del ejercicio de los derechos humanos",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 56
+ },
+ {
+  "id": "f3-023",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Formas de ser, pensar, actuar y relacionarse",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 68
+ },
+ {
+  "id": "f3-024",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Uso del dibujo y/o la escritura para recordar actividades y acuerdos escolares",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 27
+ },
+ {
+  "id": "f3-025",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Características del sonido y la luz",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 43
+ },
+ {
+  "id": "f3-026",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Situaciones de violencia, injusticia o discriminación, que afectan a integrantes de nuestras familias, la escuela o la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 56
+ },
+ {
+  "id": "f3-027",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Construcción del proyecto de vida",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 68
+ },
+ {
+  "id": "f3-028",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Registro y/o resumen de información consultada en fuentes orales, escritas, audiovisuales, táctiles o sonoras, para estudiar y/o exponer",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 27
+ },
+ {
+  "id": "f3-029",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Ciencias Naturales",
+  "contenido": "Cambios y regularidades de fenómenos naturales y actividades de las personas",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 44
+ },
+ {
+  "id": "f3-030",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Respeto a la dignidad e integridad: límites corporales y situaciones de riesgo para prevenir y denunciar situaciones de acoso, abuso y violencia de carácter sexual en la casa, la escuela, la comunidad y con el uso de internet y redes sociales",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 57
+ },
+ {
+  "id": "f3-031",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Educación Integral en Sexualidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 68
+ },
+ {
+  "id": "f3-032",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Empleo de textos con instrucciones para participar en juegos, usar o elaborar objetos, preparar alimentos u otros propósitos",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 27
+ },
+ {
+  "id": "f3-033",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Estudio de los números",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 45
+ },
+ {
+  "id": "f3-034",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Responsabilidad compartida en el cuidado de sí y el de nuestro entorno con la familia, la escuela, la comunidad, el uso de internet y redes sociales, para generar espacios de bienestar e inclusión, equidad e igualdad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 57
+ },
+ {
+  "id": "f3-035",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Capacidades y habilidades motrices",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 68
+ },
+ {
+  "id": "f3-036",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Producción e interpretación de avisos, carteles, anuncios publicitarios y letreros en la vida cotidiana",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 28
+ },
+ {
+  "id": "f3-037",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Construcción de la noción de suma y resta, y su relación como operaciones inversas",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 45
+ },
+ {
+  "id": "f3-038",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Historia personal y familiar, diversidad de familias y el derecho a pertenecer a una",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 57
+ },
+ {
+  "id": "f3-039",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Posibilidades cognitivas, expresivas, motrices, creativas y de relación",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 69
+ },
+ {
+  "id": "f3-040",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Elaboración y difusión de notas informativas en la escuela y el resto de la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 28
+ },
+ {
+  "id": "f3-041",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Construcción de la noción de multiplicación y división, y su relación como operaciones inversas",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 46
+ },
+ {
+  "id": "f3-042",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 58
+ },
+ {
+  "id": "f3-043",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Estilos de vida activos y saludables",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 69
+ },
+ {
+  "id": "f3-044",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Producción de textos dirigidos a autoridades y personas de la comunidad, en relación con necesidades, intereses o actividades escolares",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 28
+ },
+ {
+  "id": "f3-045",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Cuerpos geométricos y sus características",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 46
+ },
+ {
+  "id": "f3-046",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Democracia como forma de vida",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 58
+ },
+ {
+  "id": "f3-047",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Lectura, escritura y otros tipos de interacción mediante lenguajes que ocurren en el contexto familiar",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 29
+ },
+ {
+  "id": "f3-048",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Figuras geométricas y sus características",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 47
+ },
+ {
+  "id": "f3-049",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Funciones y responsabilidades de las autoridades, de la familia, la escuela y la comunidad para la organización de la convivencia, la resolución de conflictos y el cumplimiento de acuerdos y normas de manera participativa y pacífica",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 14
+ },
+ {
+  "id": "f3-050",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Interacción motriz",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 69
+ },
+ {
+  "id": "f3-051",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Comunicación a distancia con familiares u otras personas",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 29
+ },
+ {
+  "id": "f3-052",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Medición de longitud, masa y capacidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 47
+ },
+ {
+  "id": "f3-053",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Situaciones de la vida diaria en las que niñas y niños pueden o no tomar decisiones, y en las que se requiere ayuda, valorando los límites y riesgos del entorno",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 59
+ },
+ {
+  "id": "f3-054",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Acciones individuales que repercuten en la conservación y mejora de la salud",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 69
+ },
+ {
+  "id": "f3-055",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Conversaciones o entrevistas con personas de la comunidad y otros lugares",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 29
+ },
+ {
+  "id": "f3-056",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Medición del tiempo",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 47
+ },
+ {
+  "id": "f3-057",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "El derecho a la igualdad de género y vida sin violencia: estereotipos de género que pueden inducir a formas de violencia, desigualdad y discriminación",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 59
+ },
+ {
+  "id": "f3-058",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Sentido de comunidad y satisfacción de necesidades humanas",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 70
+ },
+ {
+  "id": "f3-059",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Reconocimiento de la diversidad lingüística y cultural en la familia, la escuela y el resto de la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 29
+ },
+ {
+  "id": "f3-060",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Saberes y Pensamiento Científico",
+  "materia": "Matemáticas",
+  "contenido": "Organización e interpretación de datos",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 48
+ },
+ {
+  "id": "f3-061",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Manifestaciones culturales y símbolos que identifican a los diversos pueblos indígenas, afrodescendientes y migrantes y a México como nación",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 59
+ },
+ {
+  "id": "f3-062",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Situaciones de riesgo social en las familias, escuela y comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 70
+ },
+ {
+  "id": "f3-063",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Exploración de testimonios escritos, fotográficos y audiovisuales del pasado familiar y comunitario",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 30
+ },
+ {
+  "id": "f3-064",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Historia de la vida cotidiana: cambios en el tiempo y el espacio ocurridos en la comunidad",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 60
+ },
+ {
+  "id": "f3-065",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Prácticas de prevención y respuesta ante desastres ambientales",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 70
+ },
+ {
+  "id": "f3-066",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Reflexión sobre los medios de comunicación",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 30
+ },
+ {
+  "id": "f3-067",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Ética, Naturaleza y Sociedades",
+  "materia": "Ética, Naturaleza y Sociedades",
+  "contenido": "Personas en situación de migración y sus derechos",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 60
+ },
+ {
+  "id": "f3-068",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Apoyos mutuos para favorecer los aprendizajes en el aula diversa",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 70
+ },
+ {
+  "id": "f3-069",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Uso de elementos de los lenguajes artísticos en la vida cotidiana",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 30
+ },
+ {
+  "id": "f3-070",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Aproximación a las tecnologías de la información y la comunicación",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 70
+ },
+ {
+  "id": "f3-071",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Uso de los lenguajes artísticos para expresar rasgos de las identidades personal y colectiva",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 31
+ },
+ {
+  "id": "f3-072",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "De lo Humano y lo Comunitario",
+  "materia": "De lo Humano y lo Comunitario",
+  "contenido": "Los afectos y su influencia en el bienestar",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 70
+ },
+ {
+  "id": "f3-073",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Intervención del entorno familiar y escolar para imaginar y realizar propuestas de mejora",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 31
+ },
+ {
+  "id": "f3-074",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Apreciación de canciones, rondas infantiles, arrullos y cuentos",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 32
+ },
+ {
+  "id": "f3-075",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Experimentación con elementos sonoros en composiciones literarias",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 32
+ },
+ {
+  "id": "f3-076",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Interacción con manifestaciones culturales y artísticas",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 20
+ },
+ {
+  "id": "f3-077",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Recreación de historias mediante el uso artístico de las palabras, del cuerpo, del espacio y del tiempo",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 33
+ },
+ {
+  "id": "f3-078",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Español",
+  "contenido": "Representación de distintas formas de ser y estar en el mundo a partir de la ficción",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 34
+ }
+]

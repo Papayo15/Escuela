@@ -1,0 +1,111 @@
+{
+  "nodos": 566,
+  "temas": 566,
+  "faltan": 0,
+  "avance": {
+    "Preparatoria | Ciencias": {
+      "nodos": 47,
+      "con_tema": 47
+    },
+    "Preparatoria | Ciencias Sociales": {
+      "nodos": 11,
+      "con_tema": 11
+    },
+    "Preparatoria | Cultura Digital": {
+      "nodos": 13,
+      "con_tema": 13
+    },
+    "Preparatoria | Filosofía y Humanidades": {
+      "nodos": 13,
+      "con_tema": 13
+    },
+    "Preparatoria | Historia": {
+      "nodos": 10,
+      "con_tema": 10
+    },
+    "Preparatoria | Inglés": {
+      "nodos": 36,
+      "con_tema": 36
+    },
+    "Preparatoria | Lengua y Comunicación": {
+      "nodos": 23,
+      "con_tema": 23
+    },
+    "Preparatoria | Matemáticas": {
+      "nodos": 36,
+      "con_tema": 36
+    },
+    "Primaria | Ciencias Naturales": {
+      "nodos": 30,
+      "con_tema": 30
+    },
+    "Primaria | De lo Humano y lo Comunitario": {
+      "nodos": 51,
+      "con_tema": 51
+    },
+    "Primaria | Español": {
+      "nodos": 75,
+      "con_tema": 75
+    },
+    "Primaria | Ética, Naturaleza y Sociedades": {
+      "nodos": 56,
+      "con_tema": 56
+    },
+    "Primaria | Matemáticas": {
+      "nodos": 27,
+      "con_tema": 27
+    },
+    "Secundaria | Artes": {
+      "nodos": 14,
+      "con_tema": 14
+    },
+    "Secundaria | Biología": {
+      "nodos": 9,
+      "con_tema": 9
+    },
+    "Secundaria | Educación Física": {
+      "nodos": 2,
+      "con_tema": 2
+    },
+    "Secundaria | Educación Socioemocional": {
+      "nodos": 5,
+      "con_tema": 5
+    },
+    "Secundaria | Español": {
+      "nodos": 14,
+      "con_tema": 14
+    },
+    "Secundaria | Física": {
+      "nodos": 8,
+      "con_tema": 8
+    },
+    "Secundaria | Formación Cívica y Ética": {
+      "nodos": 17,
+      "con_tema": 17
+    },
+    "Secundaria | Geografía": {
+      "nodos": 13,
+      "con_tema": 13
+    },
+    "Secundaria | Historia": {
+      "nodos": 10,
+      "con_tema": 10
+    },
+    "Secundaria | Inglés": {
+      "nodos": 12,
+      "con_tema": 12
+    },
+    "Secundaria | Matemáticas": {
+      "nodos": 14,
+      "con_tema": 14
+    },
+    "Secundaria | Química": {
+      "nodos": 13,
+      "con_tema": 13
+    },
+    "Secundaria | Tecnología": {
+      "nodos": 7,
+      "con_tema": 7
+    }
+  }
+}

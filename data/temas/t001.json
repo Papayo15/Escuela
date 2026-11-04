@@ -1,0 +1,443 @@
+[
+ {
+  "nodo_id": "ems-001",
+  "titulo": "Lógica matemática básica",
+  "slug": "logica-matematica-preparatoria",
+  "palabras": [
+   "proposiciones",
+   "conectivos",
+   "tablas de verdad",
+   "razonamiento"
+  ],
+  "contenido": {
+   "idea": "Piensa en un semáforo: cruzas si está en verde Y no viene ningún coche. La lógica pone reglas claras a esas decisiones para no equivocarte.",
+   "pizarron": "Una **proposición** es un enunciado que es verdadero (V) o falso (F). Se combinan con conectivos: negación $\\neg p$ (\"no p\"); conjunción $p \\land q$, verdadera solo si ambas lo son; disyunción $p \\lor q$, falsa solo si ambas son falsas; condicional $p \\to q$, falsa únicamente cuando p es V y q es F. Una tabla de verdad revisa todas las combinaciones de V y F.",
+   "truco": "Y exige las dos; O basta con una.",
+   "practica": {
+    "ejercicio": "Si p es V y q es F, ¿qué valor tienen $p \\land q$ y $p \\lor q$?",
+    "respuesta": "$p \\land q$ es F y $p \\lor q$ es V."
+   },
+   "analogias": [
+    {
+     "titulo": "La puerta con dos llaves",
+     "texto": "Para abrir, necesitas la llave A y la llave B (conjunción). Si basta una de dos puertas para salir, es disyunción."
+    },
+    {
+     "titulo": "La promesa",
+     "texto": "Si prometes \"si llueve, llevo paraguas\", solo rompes la promesa cuando llueve y no lo llevas."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "¿\"7 es mayor que 3\" es una proposición? ¿Y \"¿Qué hora es?\"?",
+     "respuesta": "La primera sí (es V); la segunda no, porque no es verdadera ni falsa."
+    },
+    {
+     "ejercicio": "Si p es F, ¿qué valor tiene $\\neg p$?",
+     "respuesta": "V."
+    },
+    {
+     "ejercicio": "Si p es F y q es V, ¿qué valor tiene $p \\to q$?",
+     "respuesta": "V, porque el condicional solo es falso con p verdadera y q falsa."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-002",
+  "titulo": "Principios de conteo",
+  "slug": "principios-de-conteo-preparatoria",
+  "palabras": [
+   "combinatoria",
+   "multiplicación",
+   "factorial",
+   "permutaciones"
+  ],
+  "contenido": {
+   "idea": "Para vestirte tienes 2 playeras y 3 gorras. Puedes probar cada playera con cada gorra: contar bien evita olvidar combinaciones.",
+   "pizarron": "Contar nació de necesidades sociales: repartir cosechas, comerciar, registrar el tiempo. Hoy usamos dos principios. **Multiplicativo**: si una tarea tiene $m$ formas y otra $n$ formas, juntas hay $m \\cdot n$. **Aditivo**: si son opciones excluyentes, se suman. Para ordenar $n$ objetos distintos hay $n! = n(n-1)\\cdots 1$ formas; por ejemplo, $4! = 24$.",
+   "truco": "Y se multiplica, O se suma.",
+   "practica": {
+    "ejercicio": "Un menú tiene 4 sopas y 2 guisados. ¿Cuántas comidas distintas (una sopa y un guisado) se arman?",
+    "respuesta": "$4 \\cdot 2 = 8$ comidas."
+   },
+   "analogias": [
+    {
+     "titulo": "Los helados",
+     "texto": "Con 3 sabores y 2 conos hay 3 por 2 = 6 helados distintos, como una tabla con filas y columnas."
+    },
+    {
+     "titulo": "La fila de la tienda",
+     "texto": "Si tres amigos se forman, el primero tiene 3 lugares, el siguiente 2 y el último 1: 6 formas."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Hay 5 camisas y 3 pantalones. ¿Cuántos atuendos hay?",
+     "respuesta": "$5 \\cdot 3 = 15$."
+    },
+    {
+     "ejercicio": "¿De cuántas formas se forman 3 personas en una fila?",
+     "respuesta": "$3! = 6$."
+    },
+    {
+     "ejercicio": "Con las letras A, B y C, ¿cuántos códigos de 2 letras distintas existen?",
+     "respuesta": "$3 \\cdot 2 = 6$."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-003",
+  "titulo": "Números naturales y enteros",
+  "slug": "numeros-naturales-y-enteros-preparatoria",
+  "palabras": [
+   "naturales",
+   "enteros",
+   "ley de signos",
+   "operaciones"
+  ],
+  "contenido": {
+   "idea": "Contar manzanas usa números naturales. Si debes manzanas a un amigo, necesitas números negativos para anotar la deuda.",
+   "pizarron": "Los **naturales** $\\mathbb{N}=\\{1,2,3,\\dots\\}$ sirven para contar. Los **enteros** $\\mathbb{Z}$ incluyen el cero y los negativos. En la recta numérica, sumar es avanzar y restar es retroceder. Ley de signos: en el producto y la división, signos iguales dan positivo y signos distintos dan negativo. Por ejemplo, $(-3)(-4)=12$ y $(-12)\\div 4=-3$. Al sumar signos distintos, se restan los valores y se conserva el signo del mayor. Paso a paso: primero decide el signo del resultado y luego opera con los valores absolutos. Si tienes duda, ubica los números en la recta numérica y cuenta los saltos. Recuerda que el cero no es positivo ni negativo y que todo natural también es entero.",
+   "truco": "Signos iguales, más; signos distintos, menos.",
+   "practica": {
+    "ejercicio": "Calcula $8-13$.",
+    "respuesta": "$-5$."
+   },
+   "analogias": [
+    {
+     "titulo": "El termómetro",
+     "texto": "Si hay 3 grados y bajan 5, quedas en -2: restar es bajar en la recta."
+    },
+    {
+     "titulo": "La cuenta bancaria",
+     "texto": "Un depósito suma y un retiro resta; deber dinero es un saldo negativo."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Calcula $-7+12$.",
+     "respuesta": "$5$."
+    },
+    {
+     "ejercicio": "Calcula $(-4)(-6)$.",
+     "respuesta": "$24$."
+    },
+    {
+     "ejercicio": "Calcula $-15\\div 3$.",
+     "respuesta": "$-5$."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-004",
+  "titulo": "Fracciones y porcentajes",
+  "slug": "fracciones-y-porcentajes-preparatoria",
+  "palabras": [
+   "fracciones",
+   "porcentaje",
+   "unidad",
+   "descuento"
+  ],
+  "contenido": {
+   "idea": "Una pizza entera es la unidad. Si la partes en 4 y comes 3 pedazos, comiste $\\frac{3}{4}$ de pizza.",
+   "pizarron": "Una fracción $\\frac{a}{b}$ indica $a$ partes de una unidad dividida en $b$. Para sumar, usa denominador común: $\\frac{3}{4}+\\frac{1}{6}=\\frac{9}{12}+\\frac{2}{12}=\\frac{11}{12}$. Para multiplicar, numerador por numerador y denominador por denominador. Un **porcentaje** es una fracción con denominador 100: $20\\% = \\frac{20}{100}$. Para hallar el 20% de 350, multiplica $350 \\cdot 0.20 = 70$. Para comparar fracciones, llévalas a un mismo denominador o conviértelas a decimales. Para convertir una fracción en porcentaje, divide y multiplica por 100: $\\\\frac{3}{4}=0.75=75\\\\%$. La unidad es el todo, así que $\\\\frac{4}{4}=1$ siempre representa la pizza completa.",
+   "truco": "Suma con igual denominador; multiplica directo.",
+   "practica": {
+    "ejercicio": "Calcula $\\frac{1}{2}+\\frac{1}{3}$.",
+    "respuesta": "$\\frac{3}{6}+\\frac{2}{6}=\\frac{5}{6}$."
+   },
+   "analogias": [
+    {
+     "titulo": "La tableta de chocolate",
+     "texto": "Un chocolate de 10 cuadros: 3 cuadros son $\\frac{3}{10}$, es decir, 30%."
+    },
+    {
+     "titulo": "La batería del celular",
+     "texto": "Una batería al 50% tiene la mitad de carga; el porcentaje es una fracción sobre 100."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Calcula el 15% de 200.",
+     "respuesta": "30."
+    },
+    {
+     "ejercicio": "Un par de zapatos de 480 pesos tiene 25% de descuento. ¿Cuánto pagas?",
+     "respuesta": "Descuento: 120; pagas 360 pesos."
+    },
+    {
+     "ejercicio": "Calcula $\\frac{2}{3}$ de 90.",
+     "respuesta": "60."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-005",
+  "titulo": "Potencias y radicales",
+  "slug": "potencias-y-radicales-preparatoria",
+  "palabras": [
+   "exponentes",
+   "raíz cuadrada",
+   "potenciación",
+   "radicación"
+  ],
+  "contenido": {
+   "idea": "Si cada día duplicas tus ahorros, 2 por 2 por 2 crece rápido. Esa multiplicación repetida se escribe con un exponente pequeño.",
+   "pizarron": "La **potencia** $a^n$ multiplica $a$ por sí mismo $n$ veces: $2^5=32$. Leyes: $a^m\\cdot a^n=a^{m+n}$, $\\frac{a^m}{a^n}=a^{m-n}$, $(a^m)^n=a^{mn}$ y $a^0=1$ (con $a\\neq0$). La **radicación** es la operación inversa: $\\sqrt{144}=12$ porque $12^2=144$. Para simplificar, busca factores cuadrados: $\\sqrt{50}=\\sqrt{25\\cdot2}=5\\sqrt{2}$. Cuidado con los signos: $(-2)^2=4$, pero $-2^2=-4$ porque el exponente solo afecta a lo que está pegado a él. Un exponente negativo indica inverso: $2^{-1}=\\\\frac{1}{2}$. Una raíz cuadrada de un número negativo no es un número real.",
+   "truco": "Misma base: los exponentes se suman al multiplicar.",
+   "practica": {
+    "ejercicio": "Calcula $3^2\\cdot3^4$.",
+    "respuesta": "$3^6=729$."
+   },
+   "analogias": [
+    {
+     "titulo": "El cuadrado de baldosas",
+     "texto": "Un piso de 5 por 5 baldosas tiene $5^2=25$; la raíz cuadrada de 25 te devuelve el lado, 5."
+    },
+    {
+     "titulo": "La bola de nieve",
+     "texto": "Si algo se duplica cada paso, tras 3 pasos es $2^3=8$ veces más grande."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Calcula $2^3\\cdot2^2$.",
+     "respuesta": "$2^5=32$."
+    },
+    {
+     "ejercicio": "Calcula $\\sqrt{81}$.",
+     "respuesta": "9."
+    },
+    {
+     "ejercicio": "Calcula $(3^2)^2$.",
+     "respuesta": "$3^4=81$."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-006",
+  "titulo": "Medición y unidades",
+  "slug": "medicion-y-unidades-preparatoria",
+  "palabras": [
+   "unidades",
+   "conversión",
+   "sistema métrico",
+   "magnitudes"
+  ],
+  "contenido": {
+   "idea": "Para saber qué tan largo es tu pupitre lo mides con tu mano. Pero tu mano y la de tu amigo son distintas, así que necesitamos una unidad común.",
+   "pizarron": "**Medir** es comparar una magnitud (longitud, masa, tiempo) con una unidad patrón. Las culturas crearon medidas como la vara o el codo, hasta que se acordó el Sistema Internacional (metro, kilogramo, segundo). Para convertir, multiplica por el factor de equivalencia: $1\\text{ km}=1000\\text{ m}$, así que $3.5\\text{ km}=3.5\\cdot1000=3500\\text{ m}$. Toda medición tiene unidad: escribe siempre la unidad con el número.",
+   "truco": "Unidad grande a chica: multiplica; chica a grande: divide.",
+   "practica": {
+    "ejercicio": "Convierte 450 cm a metros.",
+    "respuesta": "$450\\div100=4.5$ m."
+   },
+   "analogias": [
+    {
+     "titulo": "La receta",
+     "texto": "Una receta pide gramos y otra kilos; para combinarlas conviertes a la misma unidad."
+    },
+    {
+     "titulo": "El reloj",
+     "texto": "Las horas, minutos y segundos son unidades de tiempo; 1 hora equivale a 60 minutos."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Convierte 2.5 kg a gramos.",
+     "respuesta": "2500 g."
+    },
+    {
+     "ejercicio": "Convierte 2 h 15 min a minutos.",
+     "respuesta": "$120+15=135$ min."
+    },
+    {
+     "ejercicio": "Una cuerda mide 3 m. ¿Cuántos centímetros son?",
+     "respuesta": "300 cm."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-007",
+  "titulo": "Cálculos combinados",
+  "slug": "calculos-combinados-preparatoria",
+  "palabras": [
+   "jerarquía de operaciones",
+   "paréntesis",
+   "números reales",
+   "orden de operaciones"
+  ],
+  "contenido": {
+   "idea": "En la cocina no frías el huevo antes de romperlo. En matemáticas también hay un orden: algunos pasos van primero.",
+   "pizarron": "Para resolver operaciones combinadas con números reales sigue la jerarquía: 1) paréntesis, 2) potencias y raíces, 3) multiplicaciones y divisiones de izquierda a derecha, 4) sumas y restas de izquierda a derecha. Ejemplo: $2+3\\cdot(8-5)^2=2+3\\cdot3^2=2+3\\cdot9=2+27=29$. Cambiar los paréntesis cambia el resultado: $6+4\\cdot3=18$, pero $(6+4)\\cdot3=30$. Cuando hay varios paréntesis, resuelve primero los más internos. Si hay fracciones, trata el numerador y el denominador como si estuvieran entre paréntesis. Revisa tu resultado sustituyendo con calma cada paso y verifica que no cambiaste el orden por accidente.",
+   "truco": "Primero agrupa, luego potencia, luego por y entre, al final más y menos.",
+   "practica": {
+    "ejercicio": "Calcula $6+4\\cdot3$.",
+    "respuesta": "$6+12=18$."
+   },
+   "analogias": [
+    {
+     "titulo": "La mochila",
+     "texto": "Primero guardas los libros grandes (paréntesis) y al final los pequeños; el orden importa."
+    },
+    {
+     "titulo": "La receta de pastel",
+     "texto": "Se mezcla antes de hornear: cada paso depende del anterior."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Calcula $(6+4)\\cdot3$.",
+     "respuesta": "30."
+    },
+    {
+     "ejercicio": "Calcula $18\\div3+2^3$.",
+     "respuesta": "$6+8=14$."
+    },
+    {
+     "ejercicio": "Calcula $50\\div5\\cdot2$.",
+     "respuesta": "$10\\cdot2=20$."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-008",
+  "titulo": "Lenguaje algebraico",
+  "slug": "lenguaje-algebraico-preparatoria",
+  "palabras": [
+   "álgebra",
+   "variables",
+   "expresiones",
+   "letras y símbolos"
+  ],
+  "contenido": {
+   "idea": "Si un cuaderno cuesta lo mismo siempre pero no sabes cuánto, le pones una letra, como si fuera una cajita con un precio escondido.",
+   "pizarron": "El **lenguaje algebraico** usa letras (variables) para representar cantidades desconocidas o que cambian. Traducciones: \"el doble de un número\" es $2x$; \"un número más 5\" es $x+5$; \"la mitad de $n$\" es $\\frac{n}{2}$; \"3 cuadernos de $x$ pesos cada uno\" es $3x$. Para evaluar, sustituye la variable: si $x=4$, entonces $2x+5=2(4)+5=13$.",
+   "truco": "Una letra es un número que aún no conoces.",
+   "practica": {
+    "ejercicio": "Escribe en lenguaje algebraico: el triple de un número menos 2.",
+    "respuesta": "$3x-2$."
+   },
+   "analogias": [
+    {
+     "titulo": "La caja misteriosa",
+     "texto": "La letra es una caja con un número adentro; las operaciones se hacen igual que con cualquier número."
+    },
+    {
+     "titulo": "La fórmula del área",
+     "texto": "Con $A=bh$ calculas el área de cualquier rectángulo cambiando solo las medidas."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Evalúa $2x+5$ cuando $x=4$.",
+     "respuesta": "13."
+    },
+    {
+     "ejercicio": "Escribe: la mitad de un número más 7.",
+     "respuesta": "$\\frac{n}{2}+7$."
+    },
+    {
+     "ejercicio": "Si un boleto cuesta $b$ pesos, ¿cuánto cuestan 5 boletos?",
+     "respuesta": "$5b$ pesos."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-009",
+  "titulo": "Clasificación de expresiones algebraicas",
+  "slug": "expresiones-algebraicas-preparatoria",
+  "palabras": [
+   "monomio",
+   "binomio",
+   "trinomio",
+   "polinomio",
+   "grado"
+  ],
+  "contenido": {
+   "idea": "Un monomio es como una sola ficha; un binomio, dos fichas pegadas; un trinomio, tres. Contar las piezas separadas por más o menos te dice qué es.",
+   "pizarron": "Un **término** tiene coeficiente y parte literal, por ejemplo $-4x^3y^2$. Se separan con signos $+$ o $-$. Si hay un término es **monomio**; dos, **binomio**; tres, **trinomio**; más de uno en general, **polinomio**. El **grado** de un monomio es la suma de los exponentes de sus letras: $4x^3y^2$ tiene grado $3+2=5$. El grado de un polinomio es el mayor de sus términos: $x^2-3x+2$ tiene grado 2.",
+   "truco": "Cuenta los términos: uno, dos, tres.",
+   "practica": {
+    "ejercicio": "Clasifica $7a-2b$.",
+    "respuesta": "Binomio, porque tiene dos términos."
+   },
+   "analogias": [
+    {
+     "titulo": "El tren",
+     "texto": "Cada vagón es un término: uno solo es un monomio, dos vagones un binomio, tres un trinomio."
+    },
+    {
+     "titulo": "La lista del súper",
+     "texto": "Cada producto separado por una coma es un término de la lista."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Clasifica $5x^2$.",
+     "respuesta": "Monomio de grado 2."
+    },
+    {
+     "ejercicio": "Clasifica $x^2-3x+2$ y da su grado.",
+     "respuesta": "Trinomio de grado 2."
+    },
+    {
+     "ejercicio": "¿Cuál es el grado de $4x^3y^2$?",
+     "respuesta": "5."
+    }
+   ]
+  }
+ },
+ {
+  "nodo_id": "ems-010",
+  "titulo": "Operaciones con monomios y binomios",
+  "slug": "monomios-y-binomios-preparatoria",
+  "palabras": [
+   "suma de monomios",
+   "multiplicación",
+   "términos semejantes",
+   "producto de binomios"
+  ],
+  "contenido": {
+   "idea": "Puedes juntar 3 manzanas con 5 manzanas, pero no manzanas con peras. En álgebra solo se suman términos que tienen la misma letra y el mismo exponente.",
+   "pizarron": "Los **términos semejantes** tienen la misma parte literal y se suman sumando coeficientes: $3x+5x=8x$. Para multiplicar monomios, multiplica coeficientes y suma exponentes: $4x\\cdot3x^2=12x^3$. Para multiplicar por un binomio, distribuye: $2x(x+5)=2x^2+10x$. Entre binomios, cada término multiplica a cada término: $(x+2)(x+3)=x^2+3x+2x+6=x^2+5x+6$. Después de multiplicar, reduce términos semejantes: en $(x+2)(x+3)$ aparecen $3x$ y $2x$, que se juntan en $5x$. Revisa los signos con la ley de signos: $(-2)(x)=-2x$ y $(-2)(-3)=6$. Ordena el resultado de mayor a menor exponente.",
+   "truco": "Suma solo semejantes; al multiplicar, reparte a todos.",
+   "practica": {
+    "ejercicio": "Calcula $(x+1)(x+4)$.",
+    "respuesta": "$x^2+4x+x+4=x^2+5x+4$."
+   },
+   "analogias": [
+    {
+     "titulo": "Manzanas y peras",
+     "texto": "Sumas manzanas con manzanas; $x$ y $x^2$ son distintas, como frutas diferentes."
+    },
+    {
+     "titulo": "El reparto de dulces",
+     "texto": "Si das a cada niño de un grupo dos dulces, multiplicas a todos: eso hace la propiedad distributiva."
+    }
+   ],
+   "ejercicios": [
+    {
+     "ejercicio": "Calcula $7a-3a$.",
+     "respuesta": "$4a$."
+    },
+    {
+     "ejercicio": "Calcula $5x\\cdot(-2x)$.",
+     "respuesta": "$-10x^2$."
+    },
+    {
+     "ejercicio": "Calcula $3(x-4)$.",
+     "respuesta": "$3x-12$."
+    }
+   ]
+  }
+ }
+]
