@@ -1,0 +1,72 @@
+[
+{"nodo_id":"ems-002","titulo":"Factorial","slug":"factorial-prepa","palabras":["factorial","n!","conteo","producto descendente"],"contenido":{
+"idea":"¿De cuántas formas se forman 3 amigos en una fila? 3 para el primer lugar, 2 para el segundo y 1 para el último: $3 \\times 2 \\times 1 = 6$. Eso es el factorial.",
+"pizarron":"El **factorial** de $n$ es:\n\n$$n! = n \\times (n-1) \\times (n-2) \\times \\dots \\times 1$$\n\nEjemplos:\n\n- $4! = 24$\n- $5! = 120$\n- $6! = 720$\n- $0! = 1$ por definición.\n\nPropiedad útil:\n\n$$n! = n \\times (n - 1)!$$\n\nSimplificar:\n\n$$\\frac{8!}{6!} = \\frac{8 \\times 7 \\times 6!}{6!} = 56$$\n\nCrece muy rápido: $10! = 3\\,628\\,800$.",
+"truco":"Cuando dividas factoriales, cancela antes de calcular.",
+"practica":{"ejercicio":"Calcula $\\frac{7!}{5!}$.","respuesta":"$7 \\times 6 = 42$"},
+"analogias":[{"titulo":"La fila de amigos","texto":"Cada lugar se llena con los que quedan. Multiplicas las opciones de cada lugar."},{"titulo":"El orden de las canciones","texto":"Una lista de 10 canciones se puede ordenar de $10!$ formas."}],
+"ejercicios":[{"ejercicio":"Calcula $5!$.","respuesta":"120"},{"ejercicio":"Simplifica $\\frac{10!}{9!}$.","respuesta":"10"},{"ejercicio":"¿De cuántas formas se sientan 4 personas en fila?","respuesta":"24"}]}},
+{"nodo_id":"ems-002","titulo":"Permutaciones","slug":"permutaciones-prepa","palabras":["permutaciones","orden importa","nPr","conteo"],"contenido":{
+"idea":"Elegir presidente, secretario y tesorero no es igual que elegir un equipo: el cargo importa. Cuando el orden importa, usas permutaciones.",
+"pizarron":"Una **permutación** es una selección donde **importa el orden**.\n\n$$P(n, r) = \\frac{n!}{(n - r)!}$$\n\nEjemplo: de 5 personas, elegir 1.º, 2.º y 3.º lugar.\n\n$$P(5, 3) = \\frac{5!}{2!} = 60$$\n\nTambién: $5 \\times 4 \\times 3 = 60$.\n\nCon elementos repetidos, como la palabra PAPA:\n\n$$\\frac{4!}{2!\\,2!} = 6$$\n\nDecide: si cambiar el orden crea otro resultado, es permutación.",
+"truco":"Lugares distintos, orden importa: permutación.",
+"practica":{"ejercicio":"¿Cuántos podios (oro, plata y bronce) con 8 atletas?","respuesta":"$8 \\times 7 \\times 6 = 336$"},
+"analogias":[{"titulo":"La contraseña","texto":"1 2 3 no es 3 2 1. En una contraseña, el orden lo es todo."},{"titulo":"Las medallas","texto":"Oro para Ana y plata para Luis no es lo mismo que al revés."}],
+"ejercicios":[{"ejercicio":"Calcula $P(6, 2)$.","respuesta":"30"},{"ejercicio":"¿Cuántos ordenamientos tiene la palabra CASA?","respuesta":"$\\frac{4!}{2!} = 12$"},{"ejercicio":"¿Cuántas claves de 3 dígitos distintos hay usando 1 a 5?","respuesta":"60"}]}},
+{"nodo_id":"ems-002","titulo":"Combinaciones","slug":"combinaciones-prepa","palabras":["combinaciones","orden no importa","nCr","equipos"],"contenido":{
+"idea":"Una ensalada de lechuga y jitomate es igual a una de jitomate y lechuga. Cuando el orden no importa, usas combinaciones.",
+"pizarron":"Una **combinación** es una selección donde **no importa el orden**.\n\n$$C(n, r) = \\frac{n!}{r!(n - r)!}$$\n\nEjemplo: elegir 3 de 5 personas.\n\n$$C(5, 3) = \\frac{5!}{3!\\,2!} = \\frac{120}{12} = 10$$\n\nHay menos combinaciones que permutaciones, porque cada grupo se cuenta una sola vez.\n\nPropiedad: $C(n, r) = C(n, n - r)$.\n\nEjemplo: lotería con 6 números de 56: $C(56, 6) = 32\\,468\\,436$.",
+"truco":"Si es un equipo sin cargos, usa combinación.",
+"practica":{"ejercicio":"Calcula $C(6, 2)$.","respuesta":"15"},
+"analogias":[{"titulo":"La ensalada","texto":"Los ingredientes son los mismos sin importar en qué orden caigan."},{"titulo":"El equipo de trabajo","texto":"Un equipo de Ana, Luis y Eva es el mismo aunque se nombren en otro orden."}],
+"ejercicios":[{"ejercicio":"¿Cuántos equipos de 4 se forman con 7?","respuesta":"35"},{"ejercicio":"Calcula $C(10, 2)$.","respuesta":"45"},{"ejercicio":"¿Cuántos saludos hay entre 6 personas si todos se saludan una vez?","respuesta":"15"}]}},
+{"nodo_id":"ems-002","titulo":"Diagrama de árbol","slug":"diagrama-de-arbol-prepa","palabras":["diagrama de árbol","principio multiplicativo","espacio muestral"],"contenido":{
+"idea":"Elegir playera y pantalón es abrir caminos: de cada playera salen varias opciones. Un diagrama de árbol dibuja todos esos caminos.",
+"pizarron":"Un **diagrama de árbol** muestra todos los resultados de varios pasos.\n\nEjemplo: 2 monedas.\n\n```\nÁguila ─ Águila\n       └ Sol\nSol ──── Águila\n       └ Sol\n```\n\nResultados: AA, AS, SA, SS.\n\n**Principio multiplicativo**: multiplica las opciones de cada paso.\n\nEjemplo: 3 playeras, 2 pantalones y 2 pares de tenis:\n\n$$3 \\times 2 \\times 2 = 12 \\text{ combinaciones}$$\n\nEn probabilidad, cada rama lleva su probabilidad y se multiplican a lo largo del camino.\n\nEjemplo: 2 águilas: $\\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$.",
+"truco":"Rama por rama: se multiplica a lo largo y se suma a lo ancho.",
+"practica":{"ejercicio":"Menú con 4 sopas y 3 guisados. ¿Cuántas comidas hay?","respuesta":"12"},
+"analogias":[{"titulo":"Caminos en el bosque","texto":"Cada bifurcación abre nuevos senderos. Al final, cada hoja es un resultado."},{"titulo":"Vestirse en la mañana","texto":"Cada prenda se combina con las anteriores; por eso tienes más atuendos que prendas."}],
+"ejercicios":[{"ejercicio":"¿Cuántos resultados hay al lanzar 3 monedas?","respuesta":"8"},{"ejercicio":"Moneda y dado. ¿Cuántos resultados?","respuesta":"12"},{"ejercicio":"Probabilidad de 3 soles seguidos.","respuesta":"$\\frac{1}{8}$"}]}},
+{"nodo_id":"ems-005","titulo":"Exponentes negativos y fraccionarios","slug":"exponentes-negativos-y-fraccionarios-prepa","palabras":["exponente negativo","exponente fraccionario","raíces"],"contenido":{
+"idea":"Un exponente negativo manda al número al otro piso de la fracción. Un exponente fraccionario es una raíz disfrazada.",
+"pizarron":"**Negativos**:\n\n$$a^{-n} = \\frac{1}{a^n}$$\n\n- $2^{-3} = \\frac{1}{8}$\n- $\\left(\\frac{2}{3}\\right)^{-2} = \\left(\\frac{3}{2}\\right)^2 = \\frac{9}{4}$\n\n**Fraccionarios**:\n\n$$a^{\\frac{m}{n}} = \\sqrt[n]{a^m}$$\n\n- $9^{\\frac{1}{2}} = 3$\n- $8^{\\frac{2}{3}} = (\\sqrt[3]{8})^2 = 4$\n- $16^{-\\frac{1}{2}} = \\frac{1}{4}$\n\nAbajo del exponente va la raíz; arriba, la potencia.\n\nLas leyes de exponentes siguen funcionando: $x^{\\frac{1}{2}} \\cdot x^{\\frac{1}{3}} = x^{\\frac{5}{6}}$.",
+"truco":"Denominador es raíz; numerador es potencia.",
+"practica":{"ejercicio":"Calcula $27^{\\frac{2}{3}}$.","respuesta":"$3^2 = 9$"},
+"analogias":[{"titulo":"El elevador de la fracción","texto":"El signo menos sube o baja al número de piso en la fracción."},{"titulo":"Paso y medio","texto":"Si un exponente 1 es multiplicar una vez, un exponente $\\frac{1}{2}$ es dar medio paso: la raíz."}],
+"ejercicios":[{"ejercicio":"Calcula $5^{-2}$.","respuesta":"$\\frac{1}{25}$"},{"ejercicio":"Calcula $32^{\\frac{1}{5}}$.","respuesta":"2"},{"ejercicio":"Simplifica $x^{\\frac{3}{4}} \\cdot x^{\\frac{1}{4}}$.","respuesta":"$x$"}]}},
+{"nodo_id":"ems-005","titulo":"Simplificar radicales","slug":"simplificar-radicales-prepa","palabras":["radicales","simplificar raíz","factores cuadrados"],"contenido":{
+"idea":"Dentro de una raíz, los pares salen a la libertad. Si encuentras un cuadrado perfecto escondido, puede salir y la raíz queda más simple.",
+"pizarron":"Regla:\n\n$$\\sqrt{ab} = \\sqrt{a}\\sqrt{b}$$\n\nPasos con $\\sqrt{72}$:\n\n1. Busca el mayor cuadrado perfecto que divide: 36.\n2. $\\sqrt{72} = \\sqrt{36 \\times 2}$.\n3. $= 6\\sqrt{2}$.\n\nCon literales: $\\sqrt{x^5} = x^2\\sqrt{x}$.\n\nEjemplo:\n\n$$\\sqrt{50x^3} = 5x\\sqrt{2x}$$\n\nRaíz cúbica: buscan salir de 3 en 3.\n\n$$\\sqrt[3]{54} = \\sqrt[3]{27 \\times 2} = 3\\sqrt[3]{2}$$",
+"truco":"En raíz cuadrada, cada pareja saca a uno afuera.",
+"practica":{"ejercicio":"Simplifica $\\sqrt{48}$.","respuesta":"$4\\sqrt{3}$"},
+"analogias":[{"titulo":"La salida en parejas","texto":"En la raíz cuadrada, solo salen quienes tienen pareja: por cada dos iguales, sale uno."},{"titulo":"Sacar lo que estorba","texto":"Limpias la mochila dejando adentro solo lo que no puede salir."}],
+"ejercicios":[{"ejercicio":"Simplifica $\\sqrt{200}$.","respuesta":"$10\\sqrt{2}$"},{"ejercicio":"Simplifica $\\sqrt{18x^2}$.","respuesta":"$3x\\sqrt{2}$"},{"ejercicio":"Simplifica $\\sqrt[3]{16}$.","respuesta":"$2\\sqrt[3]{2}$"}]}},
+{"nodo_id":"ems-005","titulo":"Operaciones con radicales","slug":"operaciones-con-radicales-prepa","palabras":["sumar radicales","multiplicar radicales","radicales semejantes"],"contenido":{
+"idea":"Los radicales se suman como las frutas: solo los que son iguales. Pero multiplicar se puede entre todos.",
+"pizarron":"**Suma y resta**: solo con el mismo radical.\n\n$$3\\sqrt{2} + 5\\sqrt{2} = 8\\sqrt{2}$$\n\nSi no parecen iguales, simplifica:\n\n$$\\sqrt{12} + \\sqrt{27} = 2\\sqrt{3} + 3\\sqrt{3} = 5\\sqrt{3}$$\n\n**Multiplicación**:\n\n$$\\sqrt{3} \\times \\sqrt{12} = \\sqrt{36} = 6$$\n\n**División**:\n\n$$\\frac{\\sqrt{50}}{\\sqrt{2}} = \\sqrt{25} = 5$$\n\nError común: $\\sqrt{9 + 16}$ no es $\\sqrt{9} + \\sqrt{16}$. Da 5, no 7.",
+"truco":"Suma con iguales; multiplica con todos.",
+"practica":{"ejercicio":"Simplifica $\\sqrt{8} + \\sqrt{18}$.","respuesta":"$5\\sqrt{2}$"},
+"analogias":[{"titulo":"Fruta del mismo tipo","texto":"$\\sqrt{2}$ es como manzana: puedes sumar manzanas entre sí, no con peras."},{"titulo":"El mismo código","texto":"Dos paquetes con el mismo código se suman en inventario; con distinto código no."}],
+"ejercicios":[{"ejercicio":"Simplifica $7\\sqrt{5} - 2\\sqrt{5}$.","respuesta":"$5\\sqrt{5}$"},{"ejercicio":"Calcula $\\sqrt{6} \\times \\sqrt{6}$.","respuesta":"6"},{"ejercicio":"Simplifica $\\sqrt{75} - \\sqrt{12}$.","respuesta":"$3\\sqrt{3}$"}]}},
+{"nodo_id":"ems-005","titulo":"Racionalizar denominadores","slug":"racionalizar-denominadores-prepa","palabras":["racionalizar","conjugado","denominador irracional"],"contenido":{
+"idea":"Por costumbre no se deja una raíz en el piso de una fracción. Racionalizar es multiplicar por algo que vale 1 y quita esa raíz.",
+"pizarron":"**Una raíz abajo**: multiplica arriba y abajo por esa raíz.\n\n$$\\frac{3}{\\sqrt{2}} = \\frac{3\\sqrt{2}}{2}$$\n\n**Binomio abajo**: usa el **conjugado**.\n\n$$\\frac{5}{2 + \\sqrt{3}} \\times \\frac{2 - \\sqrt{3}}{2 - \\sqrt{3}}$$\n\nAbajo: $(2)^2 - (\\sqrt{3})^2 = 4 - 3 = 1$.\n\n$$= 5(2 - \\sqrt{3}) = 10 - 5\\sqrt{3}$$\n\nEl conjugado funciona porque $(a + b)(a - b) = a^2 - b^2$.",
+"truco":"Multiplica por el conjugado y la raíz se va.",
+"practica":{"ejercicio":"Racionaliza $\\frac{4}{\\sqrt{5}}$.","respuesta":"$\\frac{4\\sqrt{5}}{5}$"},
+"analogias":[{"titulo":"Multiplicar por uno","texto":"Es como cambiar de moneda: el valor no cambia, solo la presentación."},{"titulo":"Limpiar el piso","texto":"Quitas la raíz del piso, aunque subes un poco de trabajo al techo."}],
+"ejercicios":[{"ejercicio":"Racionaliza $\\frac{6}{\\sqrt{3}}$.","respuesta":"$2\\sqrt{3}$"},{"ejercicio":"Racionaliza $\\frac{1}{\\sqrt{2} - 1}$.","respuesta":"$\\sqrt{2} + 1$"},{"ejercicio":"¿Cuál es el conjugado de $3 - \\sqrt{7}$?","respuesta":"$3 + \\sqrt{7}$"}]}},
+{"nodo_id":"ems-005","titulo":"Logaritmos y sus propiedades","slug":"logaritmos-y-sus-propiedades-prepa","palabras":["logaritmo","base","log","propiedades","exponente"],"contenido":{
+"idea":"Un logaritmo es una pregunta: ¿a qué número debo elevar esta base para obtener aquello? $\\log_2 8$ pregunta cuántas veces multiplico 2 para llegar a 8.",
+"pizarron":"Definición:\n\n$$\\log_b a = x \\iff b^x = a$$\n\nEjemplos:\n\n- $\\log_2 8 = 3$\n- $\\log_{10} 1000 = 3$\n- $\\log_5 1 = 0$\n\nPropiedades:\n\n- $\\log(ab) = \\log a + \\log b$\n- $\\log\\frac{a}{b} = \\log a - \\log b$\n- $\\log a^n = n\\log a$\n\nCambio de base:\n\n$$\\log_b a = \\frac{\\log a}{\\log b}$$\n\n$\\ln$ es logaritmo natural, con base $e \\approx 2.718$.",
+"truco":"El logaritmo es un exponente.",
+"practica":{"ejercicio":"Calcula $\\log_3 81$.","respuesta":"4, porque $3^4 = 81$."},
+"analogias":[{"titulo":"La escala de sismos","texto":"Cada grado de Richter representa unas 10 veces más amplitud. Es una escala logarítmica."},{"titulo":"Contar ceros","texto":"$\\log_{10}$ de un número redondo es, básicamente, cuántos ceros tiene."}],
+"ejercicios":[{"ejercicio":"Calcula $\\log_2 32$.","respuesta":"5"},{"ejercicio":"Expande $\\log(x^2 y)$.","respuesta":"$2\\log x + \\log y$"},{"ejercicio":"Calcula $\\log_{10} 0.01$.","respuesta":"-2"}]}},
+{"nodo_id":"ems-005","titulo":"Ecuaciones exponenciales y logarítmicas","slug":"ecuaciones-exponenciales-y-logaritmicas-prepa","palabras":["ecuación exponencial","ecuación logarítmica","misma base"],"contenido":{
+"idea":"Cuando la incógnita está arriba, en el exponente, hay que bajarla. Los logaritmos son la escalera que la baja.",
+"pizarron":"**Exponencial con misma base**: iguala exponentes.\n\n$$2^{x+1} = 8 = 2^3 \\Rightarrow x + 1 = 3 \\Rightarrow x = 2$$\n\n**Sin misma base**: saca logaritmo.\n\n$$3^x = 20$$\n\n$$x = \\frac{\\log 20}{\\log 3} \\approx 2.73$$\n\n**Logarítmica**: convierte a exponencial.\n\n$$\\log_2 (x + 3) = 4 \\Rightarrow x + 3 = 16 \\Rightarrow x = 13$$\n\nCon propiedades:\n\n$$\\log x + \\log 2 = 1 \\Rightarrow \\log 2x = 1 \\Rightarrow 2x = 10 \\Rightarrow x = 5$$\n\nComprueba: dentro del logaritmo debe quedar un número positivo.",
+"truco":"Exponencial: iguala bases o saca log. Logarítmica: pásala a exponente.",
+"practica":{"ejercicio":"Resuelve $5^x = 125$.","respuesta":"$x = 3$"},
+"analogias":[{"titulo":"Bajar el exponente","texto":"El logaritmo trae lo que está en el techo al piso, donde se puede despejar."},{"titulo":"El interés compuesto","texto":"Para saber en cuántos años se duplica tu dinero, resuelves una ecuación exponencial."}],
+"ejercicios":[{"ejercicio":"Resuelve $4^x = 8$.","respuesta":"$x = \\frac{3}{2}$"},{"ejercicio":"Resuelve $\\log_3 x = 2$.","respuesta":"$x = 9$"},{"ejercicio":"Resuelve $2^x = 10$.","respuesta":"$x \\approx 3.32$"}]}}
+]

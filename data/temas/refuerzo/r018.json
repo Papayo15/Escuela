@@ -1,0 +1,72 @@
+[
+{"nodo_id":"f6-022","titulo":"Qué es una literal","slug":"que-es-una-literal-secundaria","palabras":["literal","variable","incógnita","álgebra","letra"],"contenido":{
+"idea":"Una literal es una caja cerrada con un número adentro. No sabes cuál es todavía, pero puedes hablar de la caja y hacer cuentas con ella.",
+"pizarron":"Una **literal** es una letra que representa un número.\n\n- Puede ser una **incógnita**, un valor que se busca: $x + 3 = 7$.\n- Puede ser una **variable**, un valor que cambia: $P = 4l$.\n\nPartes de un término como $5x^2$:\n\n- **Coeficiente**: 5.\n- **Literal**: $x$.\n- **Exponente**: 2.\n\nConvenciones:\n\n- $5x$ significa $5 \\times x$.\n- $x$ significa $1x$.\n- $-x$ significa $-1x$.\n- $xy$ significa $x \\times y$.\n\nEjemplo: si un cuaderno cuesta $c$ pesos, 3 cuadernos cuestan $3c$.",
+"truco":"Letra pegada a un número significa multiplicación.",
+"practica":{"ejercicio":"En $-7y^3$, ¿cuál es el coeficiente?","respuesta":"-7"},
+"analogias":[{"titulo":"La caja misteriosa","texto":"Sabes que hay canicas en la caja, pero no cuántas. Puedes decir dos cajas sin saber el número."},{"titulo":"Tu nombre en la lista","texto":"Una letra guarda el lugar de un valor, igual que un nombre guarda el lugar de una persona que aún no llega."}],
+"ejercicios":[{"ejercicio":"Una playera cuesta $p$ pesos. ¿Cuánto cuestan 4 playeras?","respuesta":"$4p$ pesos."},{"ejercicio":"¿Cuál es el coeficiente de $x$?","respuesta":"1"},{"ejercicio":"¿Qué significa $3ab$?","respuesta":"$3 \\times a \\times b$"}]}},
+{"nodo_id":"f6-022","titulo":"Términos semejantes","slug":"terminos-semejantes-secundaria","palabras":["términos semejantes","literal","exponente","clasificar"],"contenido":{
+"idea":"Manzanas con manzanas, peras con peras. En álgebra, solo se juntan los términos que son de la misma fruta: misma letra con mismo exponente.",
+"pizarron":"Dos términos son **semejantes** si tienen las **mismas literales con los mismos exponentes**.\n\nSemejantes:\n\n- $3x$ y $-7x$\n- $2x^2$ y $9x^2$\n- $4ab$ y $-ab$\n\nNo semejantes:\n\n- $3x$ y $3x^2$: distinto exponente.\n- $2x$ y $2y$: distinta literal.\n- $5x$ y $5$: uno no tiene literal.\n\nEl coeficiente no importa: puede ser cualquiera.\n\nEl orden de las letras no cambia nada: $ab$ y $ba$ son semejantes.\n\nLos números solos (constantes) son semejantes entre sí.",
+"truco":"Misma letra, mismo exponente: son de la misma familia.",
+"practica":{"ejercicio":"¿Son semejantes $6x^2y$ y $-x^2y$?","respuesta":"Sí, tienen las mismas literales y exponentes."},
+"analogias":[{"titulo":"La fruta del mercado","texto":"Si tienes 3 manzanas y 2 peras, no tienes 5 manzanperas. Se quedan separadas."},{"titulo":"Las monedas distintas","texto":"Tres monedas de 5 y dos de 10 no se suman como cinco de algo. Cada tipo se cuenta aparte."}],
+"ejercicios":[{"ejercicio":"¿Son semejantes $4x$ y $4y$?","respuesta":"No, tienen distinta literal."},{"ejercicio":"¿Son semejantes $2a^3$ y $-9a^3$?","respuesta":"Sí."},{"ejercicio":"Elige el semejante a $5m^2$: $5m$, $-m^2$, $5$.","respuesta":"$-m^2$"}]}},
+{"nodo_id":"f6-022","titulo":"Reducir términos semejantes","slug":"reducir-terminos-semejantes-secundaria","palabras":["reducción","simplificar expresiones","sumar términos","coeficientes"],"contenido":{
+"idea":"Reducir es ordenar la mochila: juntas lápices con lápices y libros con libros. Al final tienes menos montones y todo más claro.",
+"pizarron":"Para **reducir**:\n\n1. Identifica los términos semejantes.\n2. Suma o resta sus **coeficientes**.\n3. Conserva la literal igual.\n\nEjemplo:\n\n$$3x + 5y - x + 2y$$\n\n- $3x - x = 2x$\n- $5y + 2y = 7y$\n- Resultado: $2x + 7y$\n\nEjemplo:\n\n$$4a^2 + 3a - a^2 + 7 - 5a$$\n\n- $4a^2 - a^2 = 3a^2$\n- $3a - 5a = -2a$\n- Queda $3a^2 - 2a + 7$\n\nLos exponentes **no cambian** al sumar: $2x + 3x = 5x$, no $5x^2$.",
+"truco":"Solo cambian los números de adelante; la letra se queda igual.",
+"practica":{"ejercicio":"Reduce $7x + 2 - 3x + 8$.","respuesta":"$4x + 10$"},
+"analogias":[{"titulo":"Ordenar la mochila","texto":"Primero agrupas lo igual y después cuentas. Reducir es agrupar y contar."},{"titulo":"Sumar deudas y ahorros","texto":"Ganar 5 manzanas y perder 2 deja 3 manzanas. El tipo de fruta no cambia."}],
+"ejercicios":[{"ejercicio":"Reduce $6m - 9m$.","respuesta":"$-3m$"},{"ejercicio":"Reduce $2x^2 + 5x - x^2 + x$.","respuesta":"$x^2 + 6x$"},{"ejercicio":"Reduce $a + b + a - 3b$.","respuesta":"$2a - 2b$"}]}},
+{"nodo_id":"f6-022","titulo":"Valor numérico de una expresión","slug":"valor-numerico-de-una-expresion-secundaria","palabras":["sustituir","evaluar","valor numérico","reemplazar literal"],"contenido":{
+"idea":"Una expresión es una receta con ingredientes por definir. Cuando te dicen cuánto vale cada letra, solo sustituyes y cocinas el número.",
+"pizarron":"El **valor numérico** se obtiene al sustituir las literales por números.\n\nPasos:\n\n1. Escribe la expresión.\n2. Cambia cada letra por su valor, **entre paréntesis**.\n3. Resuelve con la jerarquía.\n\nEjemplo: $3x^2 - 2x + 1$ con $x = -2$.\n\n$$3(-2)^2 - 2(-2) + 1$$\n\n$$= 3(4) + 4 + 1 = 12 + 4 + 1 = 17$$\n\nLos paréntesis evitan errores con negativos.\n\nEjemplo de uso: área $A = \\frac{bh}{2}$ con $b = 6$ y $h = 5$ da $A = 15$.",
+"truco":"Letra sale, número entra con paréntesis.",
+"practica":{"ejercicio":"Evalúa $2x + 5$ con $x = 4$.","respuesta":"13"},
+"analogias":[{"titulo":"La plantilla","texto":"Una carta dice Hola, nombre. Al cambiar nombre por Ana, queda lista. La expresión se llena igual."},{"titulo":"El aparato con botones","texto":"Una calculadora con fórmula guardada solo pide el dato. Tú haces lo mismo al sustituir."}],
+"ejercicios":[{"ejercicio":"Evalúa $x^2 + 3$ con $x = 5$.","respuesta":"28"},{"ejercicio":"Evalúa $4a - 3b$ con $a = 2$ y $b = -1$.","respuesta":"11"},{"ejercicio":"Evalúa $-x^2$ con $x = 3$.","respuesta":"-9"}]}},
+{"nodo_id":"f6-022","titulo":"Eliminar paréntesis","slug":"eliminar-parentesis-secundaria","palabras":["quitar paréntesis","signo menos","expresiones algebraicas"],"contenido":{
+"idea":"Un signo menos frente al paréntesis es como un interruptor: cambia el estado de todo lo que hay adentro. Un signo más no cambia nada.",
+"pizarron":"Reglas:\n\n- Paréntesis con **+**: se quita sin cambiar signos.\n\n$$+(3x - 2) = 3x - 2$$\n\n- Paréntesis con **-**: se quita **cambiando todos los signos**.\n\n$$-(3x - 2) = -3x + 2$$\n\nEjemplo:\n\n$$5x - (2x - 7) + (x + 1)$$\n\n1. Quita paréntesis: $5x - 2x + 7 + x + 1$\n2. Reduce: $4x + 8$\n\nError común: cambiar solo el primer signo. El menos afecta a **todos** los términos.",
+"truco":"Menos afuera voltea todos los signos de adentro.",
+"practica":{"ejercicio":"Simplifica $8 - (x - 3)$.","respuesta":"$8 - x + 3 = 11 - x$"},
+"analogias":[{"titulo":"Devolver el pedido","texto":"Si cancelas un pedido con productos y un descuento, se cancela todo: lo que sumaba resta y lo que restaba suma."},{"titulo":"El interruptor","texto":"Un botón apaga todas las luces encendidas y prende las apagadas. Cambia cada foco, no solo el primero."}],
+"ejercicios":[{"ejercicio":"Simplifica $-(2a + 5b)$.","respuesta":"$-2a - 5b$"},{"ejercicio":"Simplifica $4x + (3 - x)$.","respuesta":"$3x + 3$"},{"ejercicio":"Simplifica $(y + 2) - (y - 2)$.","respuesta":"4"}]}},
+{"nodo_id":"f6-022","titulo":"Propiedad distributiva","slug":"propiedad-distributiva-secundaria","palabras":["distributiva","multiplicar paréntesis","factor común"],"contenido":{
+"idea":"Si un maestro saluda a un grupo de niñas y niños, saluda a cada quien. El número de afuera multiplica a todos los que están dentro.",
+"pizarron":"La **propiedad distributiva**:\n\n$$a(b + c) = ab + ac$$\n\nEjemplos:\n\n- $3(x + 4) = 3x + 12$\n- $-2(5y - 1) = -10y + 2$\n- $x(x + 7) = x^2 + 7x$\n\nCuidado con los signos: el factor con signo multiplica a cada término.\n\nCombinada:\n\n$$2(x + 3) - 4(x - 1) = 2x + 6 - 4x + 4 = -2x + 10$$\n\nSirve para cálculo mental:\n\n$$7 \\times 12 = 7(10 + 2) = 70 + 14 = 84$$",
+"truco":"El de afuera saluda a todos los de adentro.",
+"practica":{"ejercicio":"Desarrolla $4(2x - 3)$.","respuesta":"$8x - 12$"},
+"analogias":[{"titulo":"El reparto de regalos","texto":"Si le das 2 regalos a cada uno de los invitados, das 2 a Ana y 2 a Luis: se reparte a todos."},{"titulo":"La tienda","texto":"Para 3 combos de hamburguesa y refresco pagas 3 hamburguesas y 3 refrescos."}],
+"ejercicios":[{"ejercicio":"Desarrolla $5(a + 2b)$.","respuesta":"$5a + 10b$"},{"ejercicio":"Desarrolla $-3(x - 6)$.","respuesta":"$-3x + 18$"},{"ejercicio":"Calcula $8 \\times 25$ con distributiva.","respuesta":"$8(20 + 5) = 160 + 40 = 200$"}]}},
+{"nodo_id":"f6-022","titulo":"Multiplicar monomios","slug":"multiplicar-monomios-secundaria","palabras":["monomio","multiplicar expresiones","coeficientes","exponentes"],"contenido":{
+"idea":"Multiplicar monomios son dos trabajos: los números entre sí y las letras entre sí. Cada grupo se resuelve por su lado.",
+"pizarron":"Pasos:\n\n1. Multiplica los coeficientes, con su signo.\n2. Multiplica las literales: si la base es igual, **suma exponentes**.\n\nEjemplo:\n\n$$(3x^2)(4x^5) = 12x^7$$\n\nEjemplo con varias letras:\n\n$$(-2a^2b)(5ab^3) = -10a^3b^4$$\n\nRecuerda que $x$ es $x^1$:\n\n$$(6x)(2x) = 12x^2$$\n\nDiferencia con la suma:\n\n- $2x + 3x = 5x$\n- $(2x)(3x) = 6x^2$\n\n**División**: divide coeficientes y resta exponentes.\n\n$$\\frac{12x^5}{3x^2} = 4x^3$$",
+"truco":"Números se multiplican; exponentes se suman.",
+"practica":{"ejercicio":"Multiplica $(5y^3)(2y)$.","respuesta":"$10y^4$"},
+"analogias":[{"titulo":"Dos equipos","texto":"Los números juegan en un equipo y las letras en otro. Cada equipo hace su trabajo por separado."},{"titulo":"Área de un rectángulo","texto":"Un rectángulo de lados $2x$ y $3x$ tiene área $6x^2$: la letra se multiplica como una longitud por otra."}],
+"ejercicios":[{"ejercicio":"Multiplica $(-4x)(3x^2)$.","respuesta":"$-12x^3$"},{"ejercicio":"Multiplica $(2ab)(3a^2b^2)$.","respuesta":"$6a^3b^3$"},{"ejercicio":"Divide $\\frac{20m^6}{-5m^2}$.","respuesta":"$-4m^4$"}]}},
+{"nodo_id":"f6-022","titulo":"Traducir frases a lenguaje algebraico","slug":"traducir-frases-a-lenguaje-algebraico-secundaria","palabras":["lenguaje algebraico","traducción","el doble de","consecutivo","expresar"],"contenido":{
+"idea":"El álgebra es otro idioma. La frase el doble de un número aumentado en 3 se traduce como $2x + 3$, igual que traducir del español al inglés.",
+"pizarron":"Diccionario básico, con $x$ como el número:\n\n| Español | Álgebra |\n|---|---|\n| Un número | $x$ |\n| El doble | $2x$ |\n| El triple | $3x$ |\n| La mitad | $\\frac{x}{2}$ |\n| Aumentado en 5 | $x + 5$ |\n| Disminuido en 5 | $x - 5$ |\n| El cuadrado | $x^2$ |\n| Un número consecutivo | $x + 1$ |\n| Dos números que suman 20 | $x$ y $20 - x$ |\n\nCuidado con el orden:\n\n- *El doble de un número más 3*: $2x + 3$.\n- *El doble de la suma de un número y 3*: $2(x + 3)$.\n\n*5 menos que un número* es $x - 5$, no $5 - x$.",
+"truco":"La suma de, entre paréntesis; el doble del resultado, afuera.",
+"practica":{"ejercicio":"Traduce: el triple de un número disminuido en 4.","respuesta":"$3x - 4$"},
+"analogias":[{"titulo":"El traductor","texto":"Cada palabra del problema tiene su traducción. Si traduces por partes, la frase completa sale sola."},{"titulo":"Las señas del árbitro","texto":"Un árbitro resume una regla con una seña. El álgebra resume una frase larga con unos símbolos."}],
+"ejercicios":[{"ejercicio":"Traduce: la mitad de un número más 7.","respuesta":"$\\frac{x}{2} + 7$"},{"ejercicio":"Traduce: el cuadrado de la suma de $a$ y $b$.","respuesta":"$(a + b)^2$"},{"ejercicio":"Traduce: tres números consecutivos.","respuesta":"$x$, $x + 1$, $x + 2$"}]}},
+{"nodo_id":"f6-026","titulo":"Ecuaciones x + a = b","slug":"ecuaciones-x-a-b-secundaria","palabras":["ecuación","despejar","sumar y restar en ambos lados","balanza"],"contenido":{
+"idea":"Una ecuación es una balanza en equilibrio. Si quitas 3 kilos de un lado, debes quitar 3 del otro para que siga nivelada.",
+"pizarron":"Una **ecuación** es una igualdad con un valor desconocido. **Resolver** es encontrar ese valor.\n\nEjemplo: $x + 5 = 12$\n\n1. Queremos $x$ solo.\n2. Resta 5 en ambos lados:\n\n$$x + 5 - 5 = 12 - 5$$\n\n3. Resultado: $x = 7$.\n4. Comprueba: $7 + 5 = 12$. Correcto.\n\nCon resta: $x - 4 = 9$. Suma 4 en ambos lados: $x = 13$.\n\nAtajo común: *lo que está sumando pasa restando*. En realidad, estás aplicando la misma operación en ambos lados.",
+"truco":"Lo que haces en un lado, hazlo en el otro.",
+"practica":{"ejercicio":"Resuelve $x + 9 = 20$.","respuesta":"$x = 11$"},
+"analogias":[{"titulo":"La balanza","texto":"Si un lado tiene una caja y 5 canicas y el otro 12, quitando 5 de ambos sabes cuánto pesa la caja."},{"titulo":"Regresar sobre tus pasos","texto":"Si te sumaron 5, para volver al inicio restas 5. Despejar es deshacer lo que le hicieron a $x$."}],
+"ejercicios":[{"ejercicio":"Resuelve $x - 8 = 15$.","respuesta":"$x = 23$"},{"ejercicio":"Resuelve $x + 7 = 2$.","respuesta":"$x = -5$"},{"ejercicio":"Resuelve $30 = x + 12$.","respuesta":"$x = 18$"}]}},
+{"nodo_id":"f6-026","titulo":"Ecuaciones ax = b","slug":"ecuaciones-ax-b-secundaria","palabras":["ecuación","despejar","dividir ambos lados","coeficiente"],"contenido":{
+"idea":"Si 4 cuadernos cuestan 60 pesos en total, un cuaderno cuesta la cuarta parte. Dividir ambos lados encuentra el valor de uno.",
+"pizarron":"Si la incógnita está **multiplicada**, divide ambos lados.\n\nEjemplo: $4x = 60$\n\n$$\\frac{4x}{4} = \\frac{60}{4}$$\n\n$$x = 15$$\n\nComprueba: $4(15) = 60$.\n\nCon negativos: $-3x = 12$.\n\n$$x = \\frac{12}{-3} = -4$$\n\nSi la incógnita está **dividida**, multiplica:\n\n$$\\frac{x}{5} = 7 \\Rightarrow x = 35$$\n\nCon fracción como coeficiente:\n\n$$\\frac{2}{3}x = 8 \\Rightarrow x = 8 \\times \\frac{3}{2} = 12$$",
+"truco":"Si está multiplicando, divide; si está dividiendo, multiplica.",
+"practica":{"ejercicio":"Resuelve $7x = 56$.","respuesta":"$x = 8$"},
+"analogias":[{"titulo":"El precio de uno","texto":"Si cuatro paquetes iguales cuestan 60, repartes el total entre cuatro."},{"titulo":"Quitar el envoltorio","texto":"Cada operación es una envoltura alrededor de $x$. Abres con la operación contraria."}],
+"ejercicios":[{"ejercicio":"Resuelve $-6x = 42$.","respuesta":"$x = -7$"},{"ejercicio":"Resuelve $\\frac{x}{4} = 9$.","respuesta":"$x = 36$"},{"ejercicio":"Resuelve $\\frac{3}{5}x = 9$.","respuesta":"$x = 15$"}]}}
+]
