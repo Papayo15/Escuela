@@ -1,0 +1,37 @@
+[
+{"nodo_id":"ems-065","titulo":"Aldehídos y cetonas","slug":"aldehidos-y-cetonas-prepa","palabras":["aldehídos","cetonas","carbonilo","grupos funcionales"],"contenido":{
+"idea":"Aldehídos y cetonas comparten una misma pieza, un carbono con doble enlace a oxígeno. Lo que los distingue es en qué parte de la cadena se coloca.",
+"pizarron":"Ambos tienen el grupo **carbonilo**, $\\ce{C=O}$.\n\n**Aldehídos**: el carbonilo está al **final** de la cadena. Terminan en **-al**.\n\n- Metanal (formaldehído): $\\ce{HCHO}$.\n- Etanal: $\\ce{CH3CHO}$.\n\n**Cetonas**: el carbonilo está en **medio** de la cadena. Terminan en **-ona**.\n\n- Propanona (acetona): $\\ce{CH3COCH3}$.\n- Butanona: $\\ce{CH3COCH2CH3}$.\n\nLa acetona se usa como quitaesmalte.\n\nAl oxidarse, un alcohol primario forma un aldehído y uno secundario forma una cetona.",
+"truco":"Al final, aldehído en -al; en medio, cetona en -ona.",
+"practica":{"ejercicio":"¿A qué familia pertenece la propanona?","respuesta":"A las cetonas."},
+"analogias":[{"titulo":"El asiento del camión","texto":"El mismo pasajero cambia de grupo si se sienta en la orilla o en medio de la fila: su lugar define el nombre."},{"titulo":"El quitaesmalte","texto":"La acetona disuelve el esmalte de uñas, y su olor fuerte te deja reconocer una cetona muy común."}],
+"ejercicios":[{"ejercicio":"¿Dónde está el carbonilo en un aldehído?","respuesta":"Al final de la cadena."},{"ejercicio":"¿Qué terminación usan las cetonas?","respuesta":"-ona."},{"ejercicio":"¿Qué se forma al oxidar un alcohol secundario?","respuesta":"Una cetona."}]}},
+{"nodo_id":"ems-065","titulo":"Ácidos carboxílicos y ésteres","slug":"acidos-carboxilicos-y-esteres-prepa","palabras":["ácidos carboxílicos","ésteres","esterificación","COOH"],"contenido":{
+"idea":"El vinagre es un ácido carboxílico. Si un ácido así reacciona con un alcohol, se forman ésteres, responsables de muchos aromas a fruta.",
+"pizarron":"**Ácidos carboxílicos**: grupo $\\ce{-COOH}$. Terminan en **-oico**.\n\n- Ácido metanoico (fórmico): $\\ce{HCOOH}$.\n- Ácido etanoico (acético): $\\ce{CH3COOH}$.\n\nSon ácidos débiles.\n\n**Ésteres**: grupo $\\ce{-COO-}$. Se forman por **esterificación**:\n\n$$\\ce{ácido + alcohol <=> éster + H2O}$$\n\nEjemplo:\n\n$$\\ce{CH3COOH + C2H5OH <=> CH3COOC2H5 + H2O}$$\n\nSe obtiene acetato de etilo.\n\nLas grasas son ésteres de glicerol y ácidos grasos.",
+"truco":"Ácido más alcohol da éster y agua.",
+"practica":{"ejercicio":"¿Qué ácido contiene el vinagre?","respuesta":"El ácido acético."},
+"analogias":[{"titulo":"Picadura de hormiga","texto":"El ardor de muchas picaduras de hormiga se debe al ácido fórmico, el ácido carboxílico más sencillo."},{"titulo":"El aroma de la fruta","texto":"Muchos olores de plátano o piña en dulces vienen de ésteres fabricados en laboratorio."}],
+"ejercicios":[{"ejercicio":"¿Qué grupo tienen los ácidos carboxílicos?","respuesta":"$\\ce{-COOH}$"},{"ejercicio":"¿Qué se libera además del éster en la esterificación?","respuesta":"Agua."},{"ejercicio":"¿Son ácidos fuertes o débiles?","respuesta":"Débiles."}]}},
+{"nodo_id":"ems-065","titulo":"Aminas y amidas","slug":"aminas-y-amidas-prepa","palabras":["aminas","amidas","nitrógeno","proteínas","grupo amino"],"contenido":{
+"idea":"El nitrógeno entra a la química orgánica en aminas y amidas. Sin ellas no habría proteínas, las piezas que forman tu cuerpo.",
+"pizarron":"**Aminas**: derivan del amoniaco. Tienen el grupo $\\ce{-NH2}$ o nitrógeno unido a carbonos.\n\n- Metilamina: $\\ce{CH3NH2}$.\n- Anilina: $\\ce{C6H5NH2}$.\n\nSon bases débiles y suelen tener olor fuerte.\n\n**Amidas**: tienen carbonilo unido a nitrógeno, $\\ce{-CONH2}$.\n\n- Etanamida: $\\ce{CH3CONH2}$.\n- Urea: $\\ce{CO(NH2)2}$.\n\nEn las proteínas, los aminoácidos se unen con un **enlace peptídico**, que es una amida.\n\nEl nailon también tiene enlaces de amida.",
+"truco":"Amina: solo nitrógeno. Amida: nitrógeno junto a C=O.",
+"practica":{"ejercicio":"¿Qué elemento distingue a aminas y amidas?","respuesta":"El nitrógeno."},
+"analogias":[{"titulo":"Vagones de tren","texto":"Los aminoácidos se enganchan como vagones, y cada enganche es un enlace de amida."},{"titulo":"El amoniaco como base","texto":"Una amina es como amoniaco al que le cambiaron un hidrógeno por una cadena de carbono."}],
+"ejercicios":[{"ejercicio":"¿Qué tipo de enlace une aminoácidos?","respuesta":"El enlace peptídico, una amida."},{"ejercicio":"¿Las aminas son ácidas o básicas?","respuesta":"Básicas."},{"ejercicio":"¿Qué grupo tiene una amida?","respuesta":"$\\ce{-CONH2}$"}]}},
+{"nodo_id":"ems-065","titulo":"Isómeros","slug":"isomeros-prepa","palabras":["isómeros","isomería","misma fórmula","estructura"],"contenido":{
+"idea":"Con las mismas piezas de bloques puedes armar un coche o una casa. Los isómeros tienen los mismos átomos, pero acomodados de otro modo.",
+"pizarron":"**Isómeros**: misma fórmula molecular y distinta estructura.\n\n**De cadena**: cambia el esqueleto.\n\n- $\\ce{C4H10}$: butano y 2-metilpropano.\n\n**De posición**: cambia el lugar del grupo.\n\n- $\\ce{C3H8O}$: 1-propanol y 2-propanol.\n\n**De función**: cambia el grupo funcional.\n\n- $\\ce{C2H6O}$: etanol y dimetil éter.\n\n**Geométricos**: en dobles enlaces, *cis* y *trans*.\n\nSus propiedades pueden ser muy distintas: el etanol es líquido y el dimetil éter es gas a temperatura ambiente.",
+"truco":"Mismos átomos, distinto acomodo.",
+"practica":{"ejercicio":"¿Qué tienen igual dos isómeros?","respuesta":"La fórmula molecular."},
+"analogias":[{"titulo":"Letras revueltas","texto":"Roma y amor usan las mismas letras, pero significan algo distinto; así pasa con los átomos."},{"titulo":"Bloques de construcción","texto":"Las mismas piezas forman objetos diferentes según cómo las unas."}],
+"ejercicios":[{"ejercicio":"¿Son isómeros butano y 2-metilpropano?","respuesta":"Sí, ambos son $\\ce{C4H10}$."},{"ejercicio":"¿Qué isomería hay entre etanol y dimetil éter?","respuesta":"De función."},{"ejercicio":"¿Qué significa trans?","respuesta":"Grupos en lados opuestos del doble enlace."}]}},
+{"nodo_id":"ems-065","titulo":"Polímeros","slug":"polimeros-prepa","palabras":["polímeros","monómeros","plásticos","polietileno"],"contenido":{
+"idea":"Un collar largo se forma uniendo muchas cuentas iguales. Los plásticos, el ADN y el almidón son collares gigantes de moléculas.",
+"pizarron":"**Polímero**: molécula enorme formada por unidades repetidas llamadas **monómeros**.\n\nEjemplos sintéticos:\n\n| Polímero | Monómero | Uso |\n|---|---|---|\n| Polietileno | Eteno | Bolsas |\n| PVC | Cloruro de vinilo | Tubos |\n| Poliestireno | Estireno | Unicel |\n\nEjemplos naturales:\n\n- Almidón y celulosa: glucosa.\n- Proteínas: aminoácidos.\n- ADN: nucleótidos.\n\nTipos de reacción:\n\n- **Adición**: se unen sin perder átomos.\n- **Condensación**: se libera una molécula pequeña, como agua.\n\nMuchos plásticos tardan siglos en degradarse.",
+"truco":"Mono es uno; poli es muchos.",
+"practica":{"ejercicio":"¿Qué monómero forma el almidón?","respuesta":"La glucosa."},
+"analogias":[{"titulo":"El collar","texto":"Cada cuenta es un monómero y el collar completo es el polímero."},{"titulo":"Tren larguísimo","texto":"Muchos vagones iguales forman una cadena que se comporta distinto a un solo vagón."}],
+"ejercicios":[{"ejercicio":"¿Qué monómero forma el polietileno?","respuesta":"El eteno."},{"ejercicio":"¿Es natural el ADN?","respuesta":"Sí, es un polímero natural."},{"ejercicio":"¿Qué se libera en la condensación?","respuesta":"Una molécula pequeña, como agua."}]}}
+]
