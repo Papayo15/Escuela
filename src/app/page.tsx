@@ -2,9 +2,11 @@ import Link from "next/link";
 import { ChatEnVivo } from "@/components/ChatEnVivo";
 import { chatDisponible } from "@/lib/acceso";
 import { NIVELES, type Nivel } from "@/lib/pedagogical-prompt";
-import { buscarTemas, listarTemas, type TemaResumen } from "@/lib/temas";
+import { buscarTemas, listarMaterias, listarTemas, type TemaResumen } from "@/lib/temas";
 
-type Props = { searchParams: Promise<{ q?: string; nivel?: string; nuevo?: string }> };
+type Props = {
+  searchParams: Promise<{ q?: string; nivel?: string; materia?: string; nuevo?: string }>;
+};
 
 function Lista({ temas }: { temas: TemaResumen[] }) {
   return (
@@ -28,8 +30,12 @@ export default async function Inicio({ searchParams }: Props) {
   const resultados = q ? await buscarTemas(q, nivel) : [];
   const hayChat = chatDisponible();
   const generar = Boolean(hayChat && q && parametros.nuevo === "1");
-  const temas = q ? [] : await listarTemas(nivel);
-  const grupos = Map.groupBy(temas, (t) => t.materia);
+  const materia = parametros.materia?.slice(0, 100);
+  const enMateria = !q && nivel && materia ? materia : undefined;
+  const temas = enMateria ? await listarTemas(nivel!, enMateria) : [];
+  const etapas = Map.groupBy(temas, (t) => t.etapa);
+  const materias = q || enMateria ? [] : await listarMaterias(nivel);
+  const niveles = Map.groupBy(materias, (m) => m.nivel);
 
   return (
     <main className="pagina">
@@ -78,14 +84,36 @@ export default async function Inicio({ searchParams }: Props) {
         />
       )}
 
-      {!q &&
-        [...grupos].map(([materia, lista]) => (
-          <section key={materia}>
-            <h2>{materia}</h2>
-            <Lista temas={lista} />
-          </section>
-        ))}
-      {!q && temas.length === 0 && <p className="nota">La biblioteca está vacía por ahora.</p>}
+      {enMateria && (
+        <>
+          <p><Link className="enlace-fuerte" href={`/?${new URLSearchParams({ nivel: nivel! })}`}>← Materias de {nivel}</Link></p>
+          <h2>{enMateria} · {nivel}</h2>
+          {[...etapas].map(([etapa, lista]) => (
+            <section key={etapa}>
+              <h3>{etapa} <span className="cuenta">{lista.length}</span></h3>
+              <Lista temas={lista} />
+            </section>
+          ))}
+          {temas.length === 0 && <p className="nota">No hay temas en esta materia.</p>}
+        </>
+      )}
+
+      {[...niveles].map(([n, lista]) => (
+        <section key={n}>
+          <h2>{n}</h2>
+          <ul className="temas">
+            {lista.map((m) => (
+              <li key={m.materia}>
+                <Link href={`/?${new URLSearchParams({ nivel: n, materia: m.materia })}`}>
+                  <strong>{m.materia}</strong>
+                  <span>{m.total} temas</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+      {!q && !enMateria && materias.length === 0 && <p className="nota">La biblioteca está vacía por ahora.</p>}
     </main>
   );
 }

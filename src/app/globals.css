@@ -41,6 +41,7 @@ input, select, textarea {
 }
 .temas a:hover { border-color: var(--verde); }
 .temas span { display: block; color: var(--tenue); font-size: .9rem; }
+.cuenta { color: var(--tenue); font-weight: 400; }
 .nota { color: var(--tenue); }
 .enlace-fuerte { font-weight: 700; }
 .bloque { background: var(--tarjeta); border: 1px solid var(--borde); border-radius: 12px; padding: 4px 20px 16px; margin: 16px 0; }

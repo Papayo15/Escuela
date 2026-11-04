@@ -32,13 +32,27 @@ export async function buscarTemas(q: string, nivel?: string): Promise<TemaResume
   );
 }
 
-export async function listarTemas(nivel?: string): Promise<TemaResumen[]> {
+export type MateriaResumen = { nivel: string; materia: string; total: number };
+
+export async function listarMaterias(nivel?: string): Promise<MateriaResumen[]> {
+  const db = await bd();
+  return db.query<MateriaResumen>(
+    `select n.nivel, n.materia, count(*)::int as total
+     from temas t join nodos n on n.id = t.nodo_id
+     where t.estado = 'publicado' and ($1::text is null or n.nivel = $1)
+     group by n.nivel, n.materia
+     order by n.nivel, n.materia`,
+    [nivel ?? null],
+  );
+}
+
+export async function listarTemas(nivel: string, materia: string): Promise<TemaResumen[]> {
   const db = await bd();
   return db.query<TemaResumen>(
     `select ${COLUMNAS} from temas t join nodos n on n.id = t.nodo_id
-     where t.estado = 'publicado' and ($1::text is null or n.nivel = $1)
-     order by n.nivel, n.materia, n.etapa, t.titulo`,
-    [nivel ?? null],
+     where t.estado = 'publicado' and n.nivel = $1 and n.materia = $2
+     order by n.etapa, t.titulo`,
+    [nivel, materia],
   );
 }
 
