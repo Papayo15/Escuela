@@ -1,0 +1,72 @@
+[
+{"nodo_id":"f6-104","titulo":"Masa, volumen y densidad","slug":"masa-volumen-y-densidad-secundaria","palabras":["masa","volumen","densidad","flotar","g/mL"],"contenido":{
+"idea":"Un kilo de plumas y un kilo de plomo pesan igual, pero las plumas ocupan muchísimo más espacio. La densidad dice qué tan apretada está la materia.",
+"pizarron":"- **Masa**: cantidad de materia. Se mide en g o kg.\n- **Volumen**: espacio que ocupa. Se mide en mL o cm³.\n- **Densidad**: masa por unidad de volumen.\n\n$$d = \\frac{m}{V}$$\n\nEjemplo: 50 g que ocupan 25 mL.\n\n$$d = \\frac{50}{25} = 2 \\text{ g/mL}$$\n\nEl agua tiene densidad cercana a 1 g/mL.\n\n- Más densa que el agua: se hunde, como el hierro.\n- Menos densa: flota, como el aceite.\n\nLa densidad es una propiedad **intensiva**: no depende de cuánta sustancia tengas.",
+"truco":"Masa entre volumen: quien es más denso se va al fondo.",
+"practica":{"ejercicio":"Un objeto de 30 g ocupa 10 mL. ¿Cuál es su densidad?","respuesta":"3 g/mL"},
+"analogias":[{"titulo":"El camión lleno","texto":"Dos camiones iguales, uno con almohadas y otro con ladrillos, ocupan lo mismo, pero el de ladrillos es mucho más denso."},{"titulo":"El aceite en el agua","texto":"Al servir aceite en agua, sube porque es menos denso, sin importar cuánto eches."}],
+"ejercicios":[{"ejercicio":"Calcula la masa de 20 mL con $d = 1.5$ g/mL.","respuesta":"30 g"},{"ejercicio":"¿Un objeto de $d = 0.8$ g/mL flota en agua?","respuesta":"Sí."},{"ejercicio":"¿Cambia la densidad al partir un trozo de hierro?","respuesta":"No, solo cambian su masa y su volumen."}]}},
+{"nodo_id":"f6-104","titulo":"Unidades de medida en química","slug":"unidades-de-medida-en-quimica-secundaria","palabras":["unidades","Sistema Internacional","conversión","mililitro","kelvin"],"contenido":{
+"idea":"En un laboratorio todos deben medir igual, como en una receta que comparte el mundo entero. Por eso se usan unidades internacionales.",
+"pizarron":"Unidades frecuentes:\n\n| Magnitud | Unidad | Equivalencia |\n|---|---|---|\n| Masa | g, kg | 1 kg = 1000 g |\n| Volumen | L, mL | 1 L = 1000 mL |\n| Temperatura | °C, K | K = °C + 273 |\n| Cantidad | mol | - |\n\nEquivalencia útil: 1 mL = 1 cm³.\n\nEjemplo: 25 °C son 298 K.\n\nEjemplo: 0.5 L son 500 mL.\n\nPara convertir:\n\n- De unidad grande a chica: multiplica.\n- De chica a grande: divide.",
+"truco":"Kelvin es Celsius más 273.",
+"practica":{"ejercicio":"Convierte 2.5 kg a gramos.","respuesta":"2500 g"},
+"analogias":[{"titulo":"El idioma común","texto":"Si un científico en Japón y otro en México usan gramos, entienden el mismo dato sin confusión."},{"titulo":"La receta mundial","texto":"Si cada cocinero midiera a su manera, ninguna receta saldría igual en dos cocinas."}],
+"ejercicios":[{"ejercicio":"Convierte 100 °C a kelvin.","respuesta":"373 K"},{"ejercicio":"Convierte 750 mL a litros.","respuesta":"0.75 L"},{"ejercicio":"¿Cuántos cm³ son 40 mL?","respuesta":"40 cm³"}]}},
+{"nodo_id":"f6-106","titulo":"Filtración, decantación y evaporación","slug":"filtracion-decantacion-y-evaporacion-secundaria","palabras":["separación de mezclas","filtración","decantación","evaporación"],"contenido":{
+"idea":"Colar el café, esperar que el lodo se asiente en un vaso y secar agua salada al sol son métodos para separar mezclas que ya usas en casa.",
+"pizarron":"Estos métodos separan mezclas sin cambiar las sustancias.\n\n**Filtración**: sólido insoluble y líquido. Un filtro retiene el sólido.\n\n- Ejemplo: arena y agua.\n\n**Decantación**: líquidos inmiscibles, o sólido asentado. Se aprovecha la diferencia de densidad.\n\n- Ejemplo: agua y aceite con embudo de separación.\n\n**Evaporación**: sólido disuelto en líquido. El líquido se evapora y el sólido queda.\n\n- Ejemplo: sal en agua, en las salinas.\n\nElige el método según las propiedades de los componentes.",
+"truco":"Colar, esperar y secar.",
+"practica":{"ejercicio":"¿Qué método separa arena de agua?","respuesta":"Filtración."},
+"analogias":[{"titulo":"La coladera de la pasta","texto":"El agua pasa y la pasta queda: una filtración de cocina."},{"titulo":"Las salinas","texto":"En las salinas, el sol evapora el agua de mar y deja la sal en el suelo."}],
+"ejercicios":[{"ejercicio":"¿Qué método separa agua y aceite?","respuesta":"Decantación."},{"ejercicio":"¿Qué método recupera sal del agua de mar?","respuesta":"Evaporación."},{"ejercicio":"¿Estos métodos forman sustancias nuevas?","respuesta":"No, son métodos físicos."}]}},
+{"nodo_id":"f6-106","titulo":"Destilación y cromatografía","slug":"destilacion-y-cromatografia-secundaria","palabras":["destilación","cromatografía","punto de ebullición","tinta"],"contenido":{
+"idea":"Si dibujas con plumón en papel y lo mojas, los colores corren y se separan. Es una cromatografía casera.",
+"pizarron":"**Destilación**: separa líquidos con distinto **punto de ebullición**.\n\n1. Se calienta la mezcla.\n2. El líquido más volátil se evapora primero.\n3. El vapor se enfría y se condensa.\n\nEjemplo: separar alcohol y agua; el alcohol hierve cerca de 78 °C y el agua a 100 °C.\n\nTambién se obtiene agua destilada y se refina petróleo.\n\n**Cromatografía**: separa componentes según cuánto se desplazan sobre un material.\n\nEjemplo: pigmentos de una tinta sobre papel, usando un disolvente.\n\nCada componente avanza a distinta velocidad.",
+"truco":"Destilar es hervir y volver a enfriar.",
+"practica":{"ejercicio":"¿Qué propiedad aprovecha la destilación?","respuesta":"El punto de ebullición."},
+"analogias":[{"titulo":"La carrera de colores","texto":"Los pigmentos corren por el papel y cada uno llega hasta donde su velocidad le permite."},{"titulo":"La tapa de la olla","texto":"El vapor sube, choca con la tapa fría y escurre como agua: así funciona la condensación."}],
+"ejercicios":[{"ejercicio":"¿Qué método separa los colores de una tinta?","respuesta":"Cromatografía."},{"ejercicio":"¿Con qué se obtiene gasolina del petróleo?","respuesta":"Con destilación fraccionada."},{"ejercicio":"¿Qué líquido sale primero al destilar alcohol y agua?","respuesta":"El alcohol."}]}},
+{"nodo_id":"f6-108","titulo":"Porcentaje en masa","slug":"porcentaje-en-masa-secundaria","palabras":["concentración","porcentaje en masa","soluto","disolución"],"contenido":{
+"idea":"Un suero con mucha azúcar sabe más dulce que uno con poca. El porcentaje en masa dice cuánta sustancia hay por cada 100 g de mezcla.",
+"pizarron":"$$\\%\\text{ masa} = \\frac{\\text{masa de soluto}}{\\text{masa de disolución}} \\times 100$$\n\nLa **disolución** es soluto + disolvente.\n\nEjemplo: 20 g de sal en 180 g de agua.\n\n- Disolución: 200 g.\n\n$$\\frac{20}{200} \\times 100 = 10\\%$$\n\nEjemplo inverso: ¿cuánta sal hay en 500 g al 2 %?\n\n$$0.02 \\times 500 = 10 \\text{ g}$$\n\nError común: dividir entre el agua en lugar del total.",
+"truco":"Soluto entre el total, por cien.",
+"practica":{"ejercicio":"5 g de azúcar en 95 g de agua. ¿Cuál es el porcentaje?","respuesta":"5 %"},
+"analogias":[{"titulo":"El agua de limón","texto":"Dos cucharadas de azúcar en una jarra pequeña saben más dulces que en una grande."},{"titulo":"El suero oral","texto":"Un suero debe tener cierta proporción: si cambia, deja de servir."}],
+"ejercicios":[{"ejercicio":"15 g de sal en 135 g de agua.","respuesta":"10 %"},{"ejercicio":"¿Cuánto soluto hay en 200 g al 5 %?","respuesta":"10 g"},{"ejercicio":"40 g de soluto en 400 g de disolución.","respuesta":"10 %"}]}},
+{"nodo_id":"f6-108","titulo":"Porcentaje en volumen","slug":"porcentaje-en-volumen-secundaria","palabras":["concentración","porcentaje en volumen","alcohol","mL"],"contenido":{
+"idea":"Una botella de alcohol dice 70 %: de cada 100 mL, 70 son alcohol. Es la misma idea que la masa, pero con líquidos.",
+"pizarron":"$$\\%\\text{ volumen} = \\frac{\\text{volumen de soluto}}{\\text{volumen de disolución}} \\times 100$$\n\nEjemplo: 30 mL de alcohol en 150 mL de disolución.\n\n$$\\frac{30}{150} \\times 100 = 20\\%$$\n\nEjemplo inverso: ¿cuánto vinagre puro hay en 500 mL al 5 %?\n\n$$0.05 \\times 500 = 25 \\text{ mL}$$\n\nSe usa en alcohol, vinagre y limpiadores.\n\nEn etiquetas aparece como % v/v.",
+"truco":"Si la etiqueta dice 70 %, son 70 mL por cada 100.",
+"practica":{"ejercicio":"10 mL de ácido en 200 mL de disolución.","respuesta":"5 %"},
+"analogias":[{"titulo":"La etiqueta del alcohol","texto":"El 70 % de un antiséptico te dice cuánto alcohol hay en cada 100 mL de la botella."},{"titulo":"Pintura rebajada","texto":"Mezclar pintura con agua cambia su proporción y, con ella, su intensidad."}],
+"ejercicios":[{"ejercicio":"¿Cuánto alcohol hay en 250 mL al 40 %?","respuesta":"100 mL"},{"ejercicio":"50 mL en 1 L de disolución.","respuesta":"5 %"},{"ejercicio":"¿Qué significa 12 % v/v?","respuesta":"12 mL de soluto por cada 100 mL de disolución."}]}},
+{"nodo_id":"f6-108","titulo":"Partes por millón","slug":"partes-por-millon-secundaria","palabras":["ppm","contaminantes","concentración baja","miligramos por litro"],"contenido":{
+"idea":"Una gota en una alberca es casi nada, pero importa si es veneno. Las partes por millón miden cantidades muy pequeñas.",
+"pizarron":"**ppm** significa partes por millón.\n\n$$\\text{ppm} = \\frac{\\text{masa de soluto}}{\\text{masa de disolución}} \\times 1\\,000\\,000$$\n\nEn agua, una forma práctica:\n\n$$1 \\text{ ppm} \\approx 1 \\text{ mg/L}$$\n\nEjemplo: 3 mg de plomo en 2 L de agua.\n\n$$\\frac{3}{2} = 1.5 \\text{ ppm}$$\n\nSe usa para contaminantes y minerales en agua.\n\nUna concentración pequeña puede ser dañina según la sustancia.",
+"truco":"En agua, ppm es casi igual a mg por litro.",
+"practica":{"ejercicio":"10 mg de cloro en 5 L de agua.","respuesta":"2 ppm"},
+"analogias":[{"titulo":"Un segundo en doce días","texto":"Un millón de segundos son casi 12 días: una parte por millón es un segundo en ese tiempo."},{"titulo":"La sal en la alberca","texto":"Una cucharadita en una alberca enorme casi no se nota, pero se puede medir."}],
+"ejercicios":[{"ejercicio":"20 mg en 4 L de agua.","respuesta":"5 ppm"},{"ejercicio":"¿Cuántos mg hay en 3 L con 2 ppm?","respuesta":"6 mg"},{"ejercicio":"¿Para qué se usan las ppm?","respuesta":"Para medir concentraciones muy pequeñas."}]}},
+{"nodo_id":"f6-112","titulo":"Cambios de estado","slug":"cambios-de-estado-secundaria","palabras":["fusión","evaporación","condensación","sublimación","solidificación"],"contenido":{
+"idea":"Un hielo se derrite, el agua hierve y el vapor empaña un espejo. Es la misma sustancia, pero sus partículas se mueven más o menos.",
+"pizarron":"Nombres de los cambios:\n\n| De | A | Se llama |\n|---|---|---|\n| Sólido | Líquido | Fusión |\n| Líquido | Gas | Vaporización |\n| Gas | Líquido | Condensación |\n| Líquido | Sólido | Solidificación |\n| Sólido | Gas | Sublimación |\n| Gas | Sólido | Sublimación inversa |\n\nModelo de partículas: al calentar, las partículas se mueven más y se separan.\n\nEl agua pura funde a 0 °C y hierve a 100 °C a nivel del mar.\n\nEs un cambio **físico**: no aparecen sustancias nuevas.",
+"truco":"Si absorbe calor, las partículas se sueltan.",
+"practica":{"ejercicio":"¿Cómo se llama el paso de vapor a líquido?","respuesta":"Condensación."},
+"analogias":[{"titulo":"El baile","texto":"Con música lenta, las personas se mueven juntas; con música rápida se separan. Las partículas responden igual al calor."},{"titulo":"El hielo seco","texto":"El hielo seco pasa directamente de sólido a gas, sin dejar charco."}],
+"ejercicios":[{"ejercicio":"¿Qué cambio hace que un charco desaparezca?","respuesta":"Evaporación."},{"ejercicio":"¿Qué le ocurre al agua a 0 °C al perder calor?","respuesta":"Se solidifica."},{"ejercicio":"¿Es químico un cambio de estado?","respuesta":"No, es físico."}]}},
+{"nodo_id":"f6-114","titulo":"Protones, neutrones y electrones","slug":"protones-neutrones-y-electrones-secundaria","palabras":["átomo","protón","neutrón","electrón","carga"],"contenido":{
+"idea":"Un átomo es como un sistema solar diminuto: en el centro, un núcleo pesado; alrededor, electrones muy ligeros.",
+"pizarron":"Partículas del átomo:\n\n| Partícula | Carga | Lugar | Masa |\n|---|---|---|---|\n| Protón | + | Núcleo | Grande |\n| Neutrón | 0 | Núcleo | Grande |\n| Electrón | - | Alrededor | Muy pequeña |\n\nEn un átomo neutro:\n\n$$\\text{protones} = \\text{electrones}$$\n\nEjemplo: el carbono tiene 6 protones y 6 electrones.\n\nSi gana electrones se vuelve ion negativo; si pierde, positivo.\n\nCasi toda la masa está en el núcleo, aunque es muy pequeño.",
+"truco":"Protón positivo; neutrón neutro; electrón negativo.",
+"practica":{"ejercicio":"Un átomo neutro tiene 8 protones. ¿Cuántos electrones tiene?","respuesta":"8"},
+"analogias":[{"titulo":"El estadio y la canica","texto":"Si un átomo fuera un estadio, el núcleo sería una canica en el centro."},{"titulo":"El balance de cargas","texto":"Como en una balanza, las cargas positivas y negativas se compensan en un átomo neutro."}],
+"ejercicios":[{"ejercicio":"¿Dónde están los neutrones?","respuesta":"En el núcleo."},{"ejercicio":"¿Qué carga tiene el electrón?","respuesta":"Negativa."},{"ejercicio":"Átomo con 11 protones y 10 electrones. ¿Qué carga tiene?","respuesta":"+1"}]}},
+{"nodo_id":"f6-114","titulo":"Número atómico y masa atómica","slug":"numero-atomico-y-masa-atomica-secundaria","palabras":["número atómico","número de masa","Z","A","neutrones"],"contenido":{
+"idea":"El número atómico es como la CURP de un elemento: identifica quién es. Si cambian los protones, ya es otro elemento.",
+"pizarron":"- **Número atómico ($Z$)**: número de protones.\n- **Número de masa ($A$)**: protones + neutrones.\n\n$$\\text{neutrones} = A - Z$$\n\nEjemplo: sodio, $Z = 11$, $A = 23$.\n\n- Protones: 11.\n- Electrones (neutro): 11.\n- Neutrones: 12.\n\nEn la tabla periódica, el número entero es $Z$, y el número con decimales es la **masa atómica promedio**.\n\nPara $A$, se redondea: el cloro 35.45 no tiene un $A$ único, porque tiene varios isótopos.",
+"truco":"A menos Z da neutrones.",
+"practica":{"ejercicio":"$Z = 8$ y $A = 16$. ¿Cuántos neutrones?","respuesta":"8"},
+"analogias":[{"titulo":"La CURP","texto":"Dos personas distintas no comparten CURP, y dos elementos distintos no comparten $Z$."},{"titulo":"El peso de un equipo","texto":"Sumas jugadores de dos tipos: protones y neutrones."}],
+"ejercicios":[{"ejercicio":"Hierro: $Z = 26$, $A = 56$. ¿Neutrones?","respuesta":"30"},{"ejercicio":"Átomo con 6 protones y 8 neutrones. ¿Cuál es $A$?","respuesta":"14"},{"ejercicio":"¿Qué indica $Z$?","respuesta":"El número de protones."}]}}
+]
