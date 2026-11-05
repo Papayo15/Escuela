@@ -1,92 +1,460 @@
 [
-{"nodo_id":"f6-101","titulo":"Qué estudia la química en tercer grado","slug":"que-estudia-quimica-tercer-grado-secundaria","palabras":["química","materia","introducción","tercer grado","cambios"],"contenido":{
-"idea":"La química es como la cocina del mundo: todo lo que tocas está hecho de ingredientes, y la química estudia qué ingredientes hay y cómo se mezclan o se transforman.",
-"pizarron":"La química estudia la materia, sus propiedades y sus transformaciones.\n\n1. Materia es todo lo que tiene masa y ocupa un lugar en el espacio.\n2. Una propiedad es una característica que sirve para identificar una sustancia, como el color, la dureza o el punto de ebullición.\n3. Un cambio físico no forma sustancias nuevas (derretir hielo). Un cambio químico sí las forma (oxidar un clavo, quemar madera).\n4. En tercer grado revisarás: propiedades de la materia, mezclas y su separación, concentración, contaminantes, modelo corpuscular, tabla periódica, compuestos y energía en los alimentos.\n5. Para estudiar estos temas se usa el método científico: observar, preguntar, plantear una hipótesis, experimentar y concluir.",
-"truco":"Materia: todo lo que pesa y ocupa lugar.",
-"practica":{"ejercicio":"Indica si es cambio físico o químico: a) romper un vidrio, b) hornear un pan.","respuesta":"a) Físico, el vidrio sigue siendo vidrio. b) Químico, se forman sustancias nuevas con otro aspecto y sabor."},
-"analogias":[{"titulo":"Un juego de bloques","texto":"La materia es como las piezas de un juego de bloques: con las mismas piezas armas figuras distintas. La química estudia cómo se arman y se desarman."},{"titulo":"Un detective","texto":"El químico es como un detective: observa pistas (propiedades), prueba ideas con experimentos y llega a una conclusión con evidencia."}],
-"ejercicios":[{"ejercicio":"Menciona dos ejemplos de materia y uno que no lo sea.","respuesta":"Materia: agua y una piedra. No es materia: la luz o una idea, porque no tienen masa."},
-{"ejercicio":"¿Qué tipo de cambio es disolver sal en agua? Explica.","respuesta":"Físico: la sal sigue siendo sal y se recupera al evaporar el agua."},
-{"ejercicio":"Ordena los pasos: concluir, observar, experimentar, plantear una hipótesis.","respuesta":"Observar, plantear una hipótesis, experimentar, concluir."}]}},
-{"nodo_id":"f6-102","titulo":"Hitos de la ciencia y la tecnología","slug":"hitos-ciencia-tecnologia-quimica-secundaria","palabras":["historia de la química","hitos","descubrimientos","tecnología","necesidades humanas"],"contenido":{
-"idea":"Es como una escalera: cada científico sube un escalón con lo que descubrió, y gracias a eso hoy tenemos medicinas, plásticos o celulares.",
-"pizarron":"Un hito es un descubrimiento o invento que cambió la forma de entender o aprovechar la naturaleza. Cada uno respondió a una necesidad humana y tuvo consecuencias en el ambiente.\n\n- Fuego y metales: cocinar alimentos y fabricar herramientas de cobre y bronce. Consecuencia: deforestación y minería.\n- Alquimia: buscó transformar metales y dejó técnicas como la destilación.\n- Lavoisier (siglo XVIII): mostró que en una reacción la masa se conserva.\n- Tabla periódica de Mendeléyev (1869): ordenó los elementos.\n- Plásticos y fertilizantes sintéticos (siglo XX): más alimentos y objetos baratos, pero también residuos y contaminación.\n- México: Mario Molina recibió el Premio Nobel de Química en 1995 por explicar cómo ciertos gases dañan la capa de ozono.\n\nAl analizar un hito pregúntate: qué necesidad atendió, qué beneficio dio y qué daño pudo causar.",
-"truco":"Hito: necesidad, avance, consecuencia.",
-"practica":{"ejercicio":"¿Qué aportó Lavoisier?","respuesta":"Mostró que la masa se conserva en las reacciones químicas."},
-"analogias":[{"titulo":"Relevos","texto":"La ciencia es una carrera de relevos: cada investigador entrega a otro lo que aprendió y la meta avanza."},{"titulo":"Receta heredada","texto":"Es como una receta familiar que cada generación mejora, pero a veces un cambio trae efectos no esperados."}],
-"ejercicios":[{"ejercicio":"¿Qué necesidad humana atendieron los fertilizantes sintéticos?","respuesta":"Producir más alimentos para una población creciente."},
-{"ejercicio":"Menciona una consecuencia negativa de los plásticos.","respuesta":"Generan residuos que tardan mucho en degradarse y contaminan suelo y agua."},
-{"ejercicio":"¿Por qué es importante la aportación de Mario Molina?","respuesta":"Explicó cómo ciertos gases dañan la capa de ozono, lo que ayudó a reducir su uso."}]}},
-{"nodo_id":"f6-104","titulo":"Propiedades extensivas e intensivas","slug":"propiedades-extensivas-intensivas-secundaria","palabras":["propiedades de la materia","masa","volumen","densidad","punto de ebullición"],"contenido":{
-"idea":"Una barra de chocolate: si la partes, hay menos chocolate (cambia la cantidad), pero cada pedazo sigue sabiendo igual de dulce.",
-"pizarron":"Las propiedades extensivas dependen de la cantidad de materia. Ejemplos: masa, volumen, longitud.\n\nLas propiedades intensivas no dependen de la cantidad. Ejemplos: densidad, punto de fusión, punto de ebullición, color, solubilidad.\n\nPor eso las intensivas sirven para identificar sustancias: el agua pura hierve a 100 °C al nivel del mar, sea una gota o un litro.\n\nLa densidad relaciona dos propiedades extensivas:\n\n$$\\rho = \\frac{m}{V}$$\n\nEjemplo: 54 g de un metal ocupan 20 cm³. Entonces $\\rho = 54 / 20 = 2.7$ g/cm³, valor del aluminio.\n\nAplicaciones: elegir materiales ligeros para bicicletas, comprobar si un anillo es de oro o verificar la pureza de la leche.",
-"truco":"Extensiva: cambia si cortas. Intensiva: se queda igual.",
-"practica":{"ejercicio":"¿La masa es extensiva o intensiva?","respuesta":"Extensiva, porque aumenta o disminuye con la cantidad de materia."},
-"analogias":[{"titulo":"La huella digital","texto":"Las propiedades intensivas son como una huella digital: no importa el tamaño de la persona, la huella es la misma y sirve para identificarla."},{"titulo":"Un vaso de refresco","texto":"Si sirves medio vaso o uno lleno, cambia el volumen, pero la dulzura y el color son los mismos."}],
-"ejercicios":[{"ejercicio":"Clasifica: volumen, color, densidad, longitud.","respuesta":"Extensivas: volumen y longitud. Intensivas: color y densidad."},
-{"ejercicio":"Calcula la densidad de 120 g de una sustancia que ocupa 40 cm³.","respuesta":"120 / 40 = 3 g/cm³."},
-{"ejercicio":"¿Por qué el punto de ebullición ayuda a identificar una sustancia?","respuesta":"Porque no cambia con la cantidad y cada sustancia pura tiene el suyo."}]}},
-{"nodo_id":"f6-106","titulo":"Mezclas y métodos de separación","slug":"mezclas-homogeneas-heterogeneas-separacion-secundaria","palabras":["mezclas","homogénea","heterogénea","filtración","decantación","cromatografía","destilación"],"contenido":{
-"idea":"Una ensalada, donde ves cada ingrediente, y un agua de limón bien revuelta, donde ya no distingues nada. Separar es volver a sacar los ingredientes.",
-"pizarron":"Una mezcla une dos o más sustancias sin que se transformen; cada una conserva sus propiedades.\n\n- Homogénea: una sola fase visible (agua con sal, aire, latón).\n- Heterogénea: varias fases visibles (agua con aceite, granito, ensalada).\n\nMétodos de separación, según la propiedad que aprovechan:\n- Decantación: líquidos que no se mezclan o sólido que se asienta; usa la diferencia de densidad.\n- Filtración: sólido insoluble de un líquido; usa el tamaño de partícula.\n- Evaporación y cristalización: sólido disuelto; se elimina el líquido.\n- Extracción: se usa un disolvente que solo disuelve un componente.\n- Sublimación: el sólido pasa a gas sin ser líquido (yodo).\n- Cromatografía: separa colorantes por su distinta velocidad en un papel.\n\nEjemplo: para obtener sal de mar se deja evaporar el agua en salinas.",
-"truco":"Elige el método por la propiedad que los distingue.",
-"practica":{"ejercicio":"¿Cómo separas arena de agua?","respuesta":"Con filtración, porque la arena es un sólido insoluble."},
-"analogias":[{"titulo":"El colador de pasta","texto":"Filtrar es como colar la pasta: el agua pasa por los hoyitos y la pasta se queda."},{"titulo":"Carrera de colores","texto":"En la cromatografía los colores de una tinta corren por el papel como en una carrera: unos llegan más lejos."}],
-"ejercicios":[{"ejercicio":"Clasifica: agua con aceite, aire, jugo con pulpa.","respuesta":"Heterogéneas: agua con aceite y jugo con pulpa. Homogénea: aire."},
-{"ejercicio":"¿Qué método sirve para recuperar la sal disuelta en agua?","respuesta":"Evaporación o cristalización."},
-{"ejercicio":"¿Cómo separarías agua y aceite?","respuesta":"Con decantación, con un embudo de separación, porque tienen distinta densidad."}]}},
-{"nodo_id":"f6-108","titulo":"Concentración de sustancias en mezclas","slug":"concentracion-mezclas-cotidianas-secundaria","palabras":["concentración","porcentaje en masa","disolución","soluto","disolvente"],"contenido":{
-"idea":"Un agua de sabor: con una cucharada de polvo sabe suave y con cinco sabe muy fuerte. Es el mismo polvo, pero distinta concentración.",
-"pizarron":"La concentración indica cuánto soluto hay en una cantidad de disolución. El soluto es lo que se disuelve y el disolvente es lo que disuelve.\n\nPorcentaje en masa:\n\n$$\\% = \\frac{\\text{masa de soluto}}{\\text{masa de la disolución}} \\times 100$$\n\nEjemplo: 20 g de azúcar en 180 g de agua dan 200 g de disolución. Entonces $\\% = 20/200 \\times 100 = 10\\%$.\n\nTambién se usa el porcentaje en volumen, como el alcohol de una bebida, o las partes por millón (ppm) para cantidades muy pequeñas.\n\nImportancia: un suero oral, un cloro para desinfectar o un fertilizante deben tener la concentración indicada. Poco no funciona y demasiado puede dañar. Por eso hay que leer las etiquetas y medir con cuidado.",
-"truco":"Concentración: soluto entre total, por cien.",
-"practica":{"ejercicio":"Una disolución tiene 5 g de sal en 100 g de disolución. ¿Qué porcentaje es?","respuesta":"5/100 x 100 = 5 %."},
-"analogias":[{"titulo":"Café","texto":"Un café con una pizca de café soluble está aguado y uno con muchas cucharadas está cargado. La concentración dice qué tan cargado está."},{"titulo":"Un salón","texto":"Diez personas en un salón chico se sienten más apretadas que en una cancha. La cantidad es la misma, pero la concentración cambia."}],
-"ejercicios":[{"ejercicio":"Se disuelven 30 g de azúcar en 270 g de agua. ¿Cuál es el porcentaje en masa?","respuesta":"Disolución: 300 g. 30/300 x 100 = 10 %."},
-{"ejercicio":"¿Cuál es el soluto y cuál el disolvente en agua con sal?","respuesta":"Soluto: la sal. Disolvente: el agua."},
-{"ejercicio":"¿Por qué no se debe usar más cloro del indicado en la etiqueta?","respuesta":"Una concentración mayor puede irritar la piel, dañar superficies y liberar gases dañinos."}]}},
-{"nodo_id":"f6-110","titulo":"Contaminantes y su concentración en la comunidad","slug":"contaminantes-concentracion-ambiente-secundaria","palabras":["contaminación","contaminantes","ppm","agua","aire","suelo","degradación ambiental"],"contenido":{
-"idea":"Una gota de tinta en un vaso se nota poco, pero en una cucharada de agua la vuelve oscura. Con los contaminantes importa qué tanto hay.",
-"pizarron":"Un contaminante es una sustancia o energía que, en cierta cantidad, daña a los seres vivos o al ambiente.\n\nFuentes comunes:\n- Aire: humo de vehículos, quema de basura, polvo.\n- Agua: aguas residuales, detergentes, desechos de industrias.\n- Suelo: basura, plaguicidas, metales pesados.\n\nLa concentración se expresa en unidades como mg/L o partes por millón (ppm). Una sustancia puede ser inofensiva en poca cantidad y peligrosa al superar un límite. Las normas oficiales fijan esos límites para el agua potable y el aire.\n\nLa degradación ambiental ocurre cuando los contaminantes superan la capacidad de la naturaleza para limpiarse: mueren peces, se enferman las personas, el suelo pierde fertilidad.\n\nAcciones locales: separar residuos, reducir el uso de plásticos, no tirar aceite al drenaje y cuidar el agua.",
-"truco":"Lo que daña es la sustancia y la cantidad.",
-"practica":{"ejercicio":"¿Qué significa 5 ppm?","respuesta":"Hay 5 partes de contaminante por cada millón de partes de la mezcla."},
-"analogias":[{"titulo":"La sal en la sopa","texto":"Una pizca de sal mejora la sopa, pero un puñado la arruina. Igual, la cantidad define si algo contamina."},{"titulo":"El cuarto limpio","texto":"Una basurita en tu cuarto casi no se nota, pero cien lo vuelven un problema. Así crecen los contaminantes en el ambiente."}],
-"ejercicios":[{"ejercicio":"Menciona dos contaminantes del agua en una comunidad.","respuesta":"Aguas residuales y detergentes; también aceites o basura."},
-{"ejercicio":"¿Por qué las normas fijan límites de concentración?","respuesta":"Porque arriba de cierta cantidad la sustancia daña la salud o el ambiente."},
-{"ejercicio":"Propón una acción de tu comunidad para reducir la contaminación y explica su efecto.","respuesta":"Por ejemplo, separar residuos: se recicla más y llega menos basura a ríos y suelos."}]}},
-{"nodo_id":"f6-112","titulo":"Modelo corpuscular: sólidos, líquidos y gases","slug":"modelo-corpuscular-materia-secundaria","palabras":["modelo corpuscular","partículas","estados de la materia","elementos","compuestos","mezclas"],"contenido":{
-"idea":"Imagina la materia hecha de canicas diminutas: en un sólido están quietas y pegadas, en un líquido se resbalan y en un gas vuelan por todos lados.",
-"pizarron":"El modelo corpuscular dice que toda la materia está formada por partículas muy pequeñas en movimiento, con espacios entre ellas.\n\n- Sólido: partículas muy juntas y ordenadas que solo vibran. Forma y volumen fijos.\n- Líquido: partículas juntas pero que se deslizan. Volumen fijo, forma del recipiente.\n- Gas: partículas muy separadas que se mueven libremente. Ocupa todo el recipiente.\n\nAl calentar, las partículas se mueven más rápido y puede haber cambio de estado.\n\nRepresentación:\n- Elemento: un solo tipo de partícula (oxígeno).\n- Compuesto: partículas formadas por átomos distintos unidos, siempre en la misma proporción (agua, $\\ce{H2O}$).\n- Mezcla: partículas de varias sustancias, sin unirse.\n\nSe pueden caracterizar con actividades como medir el volumen de un gas comprimido en una jeringa sin aguja.",
-"truco":"Sólido quieto, líquido resbala, gas vuela.",
-"practica":{"ejercicio":"¿Por qué un gas se comprime más fácil que un líquido?","respuesta":"Porque sus partículas están muy separadas y hay mucho espacio entre ellas."},
-"analogias":[{"titulo":"Un estadio","texto":"Sólido: gente sentada en sus lugares. Líquido: gente caminando apretada. Gas: gente corriendo en una cancha vacía."},{"titulo":"Un baile","texto":"En un sólido las parejas bailan sin moverse de lugar; en un gas cada quien baila por toda la pista."}],
-"ejercicios":[{"ejercicio":"Un dibujo muestra partículas de dos tipos separadas entre sí. ¿Es elemento, compuesto o mezcla?","respuesta":"Mezcla, porque hay dos tipos de partículas sin unirse."},
-{"ejercicio":"¿Qué ocurre con las partículas del hielo al derretirse?","respuesta":"Se mueven más y se deslizan, y el sólido pasa a líquido."},
-{"ejercicio":"¿Por qué el aroma de un perfume se huele desde lejos?","respuesta":"Sus partículas en forma de gas se mueven y se esparcen por el aire."}]}},
-{"nodo_id":"f6-114","titulo":"Tabla periódica y sus propiedades periódicas","slug":"tabla-periodica-electronegatividad-radio-atomico-secundaria","palabras":["tabla periódica","electronegatividad","energía de ionización","radio atómico","grupos","periodos"],"contenido":{
-"idea":"La tabla periódica es como un directorio de un edificio: cada elemento tiene su piso y su departamento, y los vecinos de una misma columna se parecen.",
-"pizarron":"La tabla periódica ordena los elementos por número atómico creciente (cantidad de protones). Las filas se llaman periodos y las columnas grupos. Los elementos de un grupo tienen propiedades parecidas porque tienen igual número de electrones externos.\n\nClasificación: metales, no metales y metaloides.\n\nPropiedades periódicas:\n- Radio atómico: tamaño del átomo. Aumenta al bajar en un grupo y disminuye de izquierda a derecha en un periodo.\n- Energía de ionización: energía para quitarle un electrón al átomo. Aumenta hacia la derecha y hacia arriba.\n- Electronegatividad: fuerza con que un átomo atrae electrones en un enlace. Aumenta hacia la derecha y hacia arriba. El flúor es el más electronegativo.\n\nEjemplo: el sodio (Na) tiene mayor radio y menor energía de ionización que el cloro (Cl), por eso pierde un electrón con facilidad.",
-"truco":"Electronegatividad y energía: suben hacia arriba y a la derecha.",
-"practica":{"ejercicio":"¿Quién tiene mayor electronegatividad, el flúor o el litio?","respuesta":"El flúor, porque está más a la derecha en el mismo periodo."},
-"analogias":[{"titulo":"El tira y afloja","texto":"La electronegatividad es la fuerza con la que cada equipo jala la cuerda (los electrones). El flúor es el más fuerte."},{"titulo":"Pisos de un edificio","texto":"El radio atómico crece al bajar de periodo, como un edificio con más pisos es más grande."}],
-"ejercicios":[{"ejercicio":"¿Qué tienen en común los elementos de un mismo grupo?","respuesta":"El mismo número de electrones externos, por lo que sus propiedades se parecen."},
-{"ejercicio":"¿Qué átomo es más grande, el sodio o el potasio?","respuesta":"El potasio, porque está más abajo en el mismo grupo."},
-{"ejercicio":"¿Cómo cambia la energía de ionización de izquierda a derecha en un periodo?","respuesta":"Aumenta."}]}},
-{"nodo_id":"f6-117","titulo":"Compuestos iónicos y moleculares","slug":"compuestos-ionicos-moleculares-secundaria","palabras":["enlace iónico","enlace covalente","sal","azúcar","conductividad","punto de fusión"],"contenido":{
-"idea":"Los compuestos iónicos son como imanes que se pegan fuerte entre sí; los moleculares son como grupos de amigos que comparten una pelota.",
-"pizarron":"Compuestos iónicos: se forman cuando un metal cede electrones a un no metal. Quedan iones con carga opuesta que se atraen. Ejemplo: sal de mesa, $\\ce{NaCl}$.\n- Forman redes cristalinas ordenadas.\n- Sólidos con puntos de fusión altos.\n- Conducen electricidad disueltos en agua o fundidos.\n- Muchos se disuelven en agua.\n\nCompuestos moleculares: los átomos de no metales comparten electrones (enlace covalente) y forman moléculas. Ejemplos: agua, $\\ce{H2O}$, y azúcar.\n- Puntos de fusión y ebullición generalmente bajos.\n- No conducen electricidad.\n- Pueden ser sólidos, líquidos o gases.\n\nImportancia: la sal conserva alimentos y es necesaria para el cuerpo; el agua y el azúcar son esenciales en la vida; los plásticos son compuestos moleculares muy usados.",
-"truco":"Iónico: se dan electrones. Molecular: se comparten.",
-"practica":{"ejercicio":"¿El NaCl es iónico o molecular? Justifica.","respuesta":"Iónico, porque se une un metal (Na) con un no metal (Cl)."},
-"analogias":[{"titulo":"Intercambio de cromos","texto":"En el enlace iónico un amigo regala un cromo al otro y quedan unidos por la atracción; en el covalente ambos usan los cromos juntos."},{"titulo":"Un edificio de ladrillos","texto":"Un cristal iónico es como un muro de ladrillos muy firme: cuesta mucho romperlo, por eso funde a temperaturas altas."}],
-"ejercicios":[{"ejercicio":"¿Qué compuesto tiene mayor punto de fusión, la sal o el azúcar?","respuesta":"La sal, por ser iónica; el azúcar es molecular."},
-{"ejercicio":"¿Por qué el agua con sal conduce electricidad?","respuesta":"Porque los iones de la sal se mueven libres en el agua."},
-{"ejercicio":"Clasifica: $\\ce{CO2}$ y $\\ce{KCl}$.","respuesta":"El $\\ce{CO2}$ es molecular (dos no metales); el $\\ce{KCl}$ es iónico (metal y no metal)."}]}},
-{"nodo_id":"f6-118","titulo":"Alimentos como fuente de energía química","slug":"alimentos-energia-carbohidratos-proteinas-lipidos-secundaria","palabras":["carbohidratos","proteínas","lípidos","calorías","nutrición","energía"],"contenido":{
-"idea":"Los alimentos son como la gasolina del cuerpo: guardan energía en su interior y tu cuerpo la libera para moverte, pensar y crecer.",
-"pizarron":"Los alimentos contienen energía química almacenada en los enlaces de sus moléculas. Al digerirlos y usarlos en las células, esa energía se libera.\n\n- Carbohidratos: azúcares y almidones (tortilla, pan, fruta). Son la fuente principal y más rápida de energía. Aportan unas 4 kcal por gramo.\n- Lípidos: grasas y aceites (aguacate, nueces). Reserva de energía, protegen órganos y ayudan a absorber vitaminas. Aportan unas 9 kcal por gramo.\n- Proteínas: carne, huevo, frijol. Sirven sobre todo para construir y reparar tejidos; también dan unas 4 kcal por gramo.\n\nEjemplo: 20 g de carbohidratos aportan $20 \\times 4 = 80$ kcal.\n\nUna dieta correcta combina los tres grupos con agua, frutas y verduras, según la edad y la actividad. La energía que sobra se guarda como grasa.",
-"truco":"Carbohidrato rápido, lípido reserva, proteína construye.",
-"practica":{"ejercicio":"¿Cuántas kcal aportan 10 g de lípidos?","respuesta":"10 x 9 = 90 kcal."},
-"analogias":[{"titulo":"Leña, carbón y ladrillos","texto":"Los carbohidratos son como leña que arde rápido; los lípidos, como carbón que dura más; las proteínas, como ladrillos para construir y reparar."},{"titulo":"La batería del celular","texto":"Comer es cargar la batería del cuerpo: la energía se guarda y se gasta al hacer actividades."}],
-"ejercicios":[{"ejercicio":"¿Qué nutriente da energía más rápida?","respuesta":"Los carbohidratos."},
-{"ejercicio":"Calcula las kcal de 30 g de proteínas.","respuesta":"30 x 4 = 120 kcal."},
-{"ejercicio":"Clasifica el aguacate, el frijol y la tortilla según su nutriente principal.","respuesta":"Aguacate: lípidos. Frijol: proteínas. Tortilla: carbohidratos."}]}}
+  {
+    "nodo_id": "f6-101",
+    "titulo": "Qué estudia la química en tercer grado",
+    "slug": "que-estudia-quimica-tercer-grado-secundaria",
+    "palabras": [
+      "química",
+      "materia",
+      "introducción",
+      "tercer grado",
+      "cambios"
+    ],
+    "contenido": {
+      "idea": "La química es como la cocina del mundo: todo lo que tocas está hecho de ingredientes, y la química estudia qué ingredientes hay y cómo se mezclan o se transforman.",
+      "pizarron": "**Qué es:** la química estudia de qué están hechas las cosas y cómo se transforman.\n\n**Materia:** todo lo que tiene masa y ocupa lugar.\n\n**Propiedad:** algo que la distingue, como el color.\n\n**Cambio físico:** no sale nada nuevo. Derretir hielo.\n\n**Cambio químico:** sale algo nuevo. Quemar madera.\n\n**Para recordar:**\n- **¿Qué tipo de cambio es disolver sal en agua? Explica.** Físico: la sal sigue siendo sal y se recupera al evaporar el agua.\n\n**Para tu escuela:** di si es físico o químico: romper papel, oxidar un clavo y hervir agua.",
+      "truco": "Materia: todo lo que pesa y ocupa lugar.",
+      "practica": {
+        "ejercicio": "Indica si es cambio físico o químico: a) romper un vidrio, b) hornear un pan.",
+        "respuesta": "a) Físico, el vidrio sigue siendo vidrio. b) Químico, se forman sustancias nuevas con otro aspecto y sabor."
+      },
+      "analogias": [
+        {
+          "titulo": "Un juego de bloques",
+          "texto": "La materia es como las piezas de un juego de bloques: con las mismas piezas armas figuras distintas. La química estudia cómo se arman y se desarman."
+        },
+        {
+          "titulo": "Un detective",
+          "texto": "El químico es como un detective: observa pistas (propiedades), prueba ideas con experimentos y llega a una conclusión con evidencia."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona dos ejemplos de materia y uno que no lo sea.",
+          "respuesta": "Materia: agua y una piedra. No es materia: la luz o una idea, porque no tienen masa."
+        },
+        {
+          "ejercicio": "¿Qué tipo de cambio es disolver sal en agua? Explica.",
+          "respuesta": "Físico: la sal sigue siendo sal y se recupera al evaporar el agua."
+        },
+        {
+          "ejercicio": "Ordena los pasos: concluir, observar, experimentar, plantear una hipótesis.",
+          "respuesta": "Observar, plantear una hipótesis, experimentar, concluir."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-102",
+    "titulo": "Hitos de la ciencia y la tecnología",
+    "slug": "hitos-ciencia-tecnologia-quimica-secundaria",
+    "palabras": [
+      "historia de la química",
+      "hitos",
+      "descubrimientos",
+      "tecnología",
+      "necesidades humanas"
+    ],
+    "contenido": {
+      "idea": "Es como una escalera: cada científico sube un escalón con lo que descubrió, y gracias a eso hoy tenemos medicinas, plásticos o celulares.",
+      "pizarron": "**Qué es:** un hito es un descubrimiento que cambió cómo vivimos.\n\n**Ejemplos:**\n\n- **Fuego y metales:** cocinar y hacer herramientas.\n- **Lavoisier:** en una reacción, la masa se conserva.\n- **Mendeléyev (1869):** ordenó la tabla periódica.\n- **Plásticos y fertilizantes:** dieron más cosas y comida, pero también basura.\n- **Mario Molina:** Nobel 1995, por explicar el daño a la capa de ozono.\n\n**Para analizar uno:** ¿qué problema resolvió?, ¿qué ganamos?, ¿qué daño causó?\n\n**Para recordar:**\n- **¿Qué necesidad humana atendieron los fertilizantes sintéticos?** Producir más alimentos para una población creciente.\n- **¿Por qué es importante la aportación de Mario Molina?** Explicó cómo ciertos gases dañan la capa de ozono, lo que ayudó a reducir su uso.\n\n**Para tu escuela:** analiza el plástico con esas tres preguntas.",
+      "truco": "Hito: necesidad, avance, consecuencia.",
+      "practica": {
+        "ejercicio": "¿Qué aportó Lavoisier?",
+        "respuesta": "Mostró que la masa se conserva en las reacciones químicas."
+      },
+      "analogias": [
+        {
+          "titulo": "Relevos",
+          "texto": "La ciencia es una carrera de relevos: cada investigador entrega a otro lo que aprendió y la meta avanza."
+        },
+        {
+          "titulo": "Receta heredada",
+          "texto": "Es como una receta familiar que cada generación mejora, pero a veces un cambio trae efectos no esperados."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué necesidad humana atendieron los fertilizantes sintéticos?",
+          "respuesta": "Producir más alimentos para una población creciente."
+        },
+        {
+          "ejercicio": "Menciona una consecuencia negativa de los plásticos.",
+          "respuesta": "Generan residuos que tardan mucho en degradarse y contaminan suelo y agua."
+        },
+        {
+          "ejercicio": "¿Por qué es importante la aportación de Mario Molina?",
+          "respuesta": "Explicó cómo ciertos gases dañan la capa de ozono, lo que ayudó a reducir su uso."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-104",
+    "titulo": "Propiedades extensivas e intensivas",
+    "slug": "propiedades-extensivas-intensivas-secundaria",
+    "palabras": [
+      "propiedades de la materia",
+      "masa",
+      "volumen",
+      "densidad",
+      "punto de ebullición"
+    ],
+    "contenido": {
+      "idea": "Una barra de chocolate: si la partes, hay menos chocolate (cambia la cantidad), pero cada pedazo sigue sabiendo igual de dulce.",
+      "pizarron": "**La regla:** las propiedades extensivas cambian con la cantidad. Las intensivas no, y sirven para reconocer una sustancia.\n\n**Extensivas:** masa y volumen. Un vaso tiene más agua que una gota.\n\n**Intensivas:** densidad, color y punto de ebullición. Una gota y un litro de agua hierven igual.\n\n**Ejemplo:** 54 g de metal ocupan 20 cm³.\n\n$$\\frac{54}{20} = 2.7 \\text{ g/cm}^3$$\n\nEse valor es del aluminio.\n\n**Para tu escuela:** clasifica: peso de una mochila, color del cobre y volumen de un vaso.",
+      "truco": "Extensiva: cambia si cortas. Intensiva: se queda igual.",
+      "practica": {
+        "ejercicio": "¿La masa es extensiva o intensiva?",
+        "respuesta": "Extensiva, porque aumenta o disminuye con la cantidad de materia."
+      },
+      "analogias": [
+        {
+          "titulo": "La huella digital",
+          "texto": "Las propiedades intensivas son como una huella digital: no importa el tamaño de la persona, la huella es la misma y sirve para identificarla."
+        },
+        {
+          "titulo": "Un vaso de refresco",
+          "texto": "Si sirves medio vaso o uno lleno, cambia el volumen, pero la dulzura y el color son los mismos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Clasifica: volumen, color, densidad, longitud.",
+          "respuesta": "Extensivas: volumen y longitud. Intensivas: color y densidad."
+        },
+        {
+          "ejercicio": "Calcula la densidad de 120 g de una sustancia que ocupa 40 cm³.",
+          "respuesta": "120 / 40 = 3 g/cm³."
+        },
+        {
+          "ejercicio": "¿Por qué el punto de ebullición ayuda a identificar una sustancia?",
+          "respuesta": "Porque no cambia con la cantidad y cada sustancia pura tiene el suyo."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-106",
+    "titulo": "Mezclas y métodos de separación",
+    "slug": "mezclas-homogeneas-heterogeneas-separacion-secundaria",
+    "palabras": [
+      "mezclas",
+      "homogénea",
+      "heterogénea",
+      "filtración",
+      "decantación",
+      "cromatografía",
+      "destilación"
+    ],
+    "contenido": {
+      "idea": "Una ensalada, donde ves cada ingrediente, y un agua de limón bien revuelta, donde ya no distingues nada. Separar es volver a sacar los ingredientes.",
+      "pizarron": "**Qué es:** una mezcla junta sustancias sin transformarlas.\n\n**Homogénea:** se ve una sola. Agua con sal.\n\n**Heterogénea:** se ven varias. Agua con aceite.\n\n**Cómo separarlas:**\n\n- **Decantar:** dejar que se asiente.\n- **Filtrar:** pasar por un colador o papel.\n- **Evaporar:** dejar que se vaya el agua.\n- **Cromatografía:** separar colores en un papel.\n\n**Ejemplo:** la sal de mar se obtiene evaporando el agua.\n\n**Para tu escuela:** di cómo separarías arena de agua.",
+      "truco": "Elige el método por la propiedad que los distingue.",
+      "practica": {
+        "ejercicio": "¿Cómo separas arena de agua?",
+        "respuesta": "Con filtración, porque la arena es un sólido insoluble."
+      },
+      "analogias": [
+        {
+          "titulo": "El colador de pasta",
+          "texto": "Filtrar es como colar la pasta: el agua pasa por los hoyitos y la pasta se queda."
+        },
+        {
+          "titulo": "Carrera de colores",
+          "texto": "En la cromatografía los colores de una tinta corren por el papel como en una carrera: unos llegan más lejos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Clasifica: agua con aceite, aire, jugo con pulpa.",
+          "respuesta": "Heterogéneas: agua con aceite y jugo con pulpa. Homogénea: aire."
+        },
+        {
+          "ejercicio": "¿Qué método sirve para recuperar la sal disuelta en agua?",
+          "respuesta": "Evaporación o cristalización."
+        },
+        {
+          "ejercicio": "¿Cómo separarías agua y aceite?",
+          "respuesta": "Con decantación, con un embudo de separación, porque tienen distinta densidad."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-108",
+    "titulo": "Concentración de sustancias en mezclas",
+    "slug": "concentracion-mezclas-cotidianas-secundaria",
+    "palabras": [
+      "concentración",
+      "porcentaje en masa",
+      "disolución",
+      "soluto",
+      "disolvente"
+    ],
+    "contenido": {
+      "idea": "Un agua de sabor: con una cucharada de polvo sabe suave y con cinco sabe muy fuerte. Es el mismo polvo, pero distinta concentración.",
+      "pizarron": "**La regla:** el porcentaje en masa es masa del soluto entre masa total, por 100.\n\n**Soluto:** lo que se disuelve, como el azúcar.\n\n**Disolvente:** lo que disuelve, como el agua.\n\n**Ejemplo:** 20 g de azúcar en 180 g de agua.\n\nTotal: $20 + 180 = 200$ g.\n\n$$\\frac{20}{200} \\times 100 = 10\\%$$\n\nSi le pones más azúcar, está más concentrado.\n\nPoco cloro no limpia y mucho hace daño: por eso se leen las etiquetas.\n\n**Para recordar:**\n- **¿Por qué no se debe usar más cloro del indicado en la etiqueta?** Una concentración mayor puede irritar la piel, dañar superficies y liberar gases dañinos.\n\n**Para tu escuela:** calcula el porcentaje de 5 g de sal en 95 g de agua.",
+      "truco": "Concentración: soluto entre total, por cien.",
+      "practica": {
+        "ejercicio": "Una disolución tiene 5 g de sal en 100 g de disolución. ¿Qué porcentaje es?",
+        "respuesta": "5/100 x 100 = 5 %."
+      },
+      "analogias": [
+        {
+          "titulo": "Café",
+          "texto": "Un café con una pizca de café soluble está aguado y uno con muchas cucharadas está cargado. La concentración dice qué tan cargado está."
+        },
+        {
+          "titulo": "Un salón",
+          "texto": "Diez personas en un salón chico se sienten más apretadas que en una cancha. La cantidad es la misma, pero la concentración cambia."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Se disuelven 30 g de azúcar en 270 g de agua. ¿Cuál es el porcentaje en masa?",
+          "respuesta": "Disolución: 300 g. 30/300 x 100 = 10 %."
+        },
+        {
+          "ejercicio": "¿Cuál es el soluto y cuál el disolvente en agua con sal?",
+          "respuesta": "Soluto: la sal. Disolvente: el agua."
+        },
+        {
+          "ejercicio": "¿Por qué no se debe usar más cloro del indicado en la etiqueta?",
+          "respuesta": "Una concentración mayor puede irritar la piel, dañar superficies y liberar gases dañinos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-110",
+    "titulo": "Contaminantes y su concentración en la comunidad",
+    "slug": "contaminantes-concentracion-ambiente-secundaria",
+    "palabras": [
+      "contaminación",
+      "contaminantes",
+      "ppm",
+      "agua",
+      "aire",
+      "suelo",
+      "degradación ambiental"
+    ],
+    "contenido": {
+      "idea": "Una gota de tinta en un vaso se nota poco, pero en una cucharada de agua la vuelve oscura. Con los contaminantes importa qué tanto hay.",
+      "pizarron": "**Qué es:** un contaminante es algo que, en cierta cantidad, daña a los seres vivos o al ambiente.\n\n**En el aire:** humo y basura quemada.\n\n**En el agua:** drenaje y detergentes.\n\n**En el suelo:** basura y plaguicidas.\n\nLa cantidad importa, como con la sal: un poco está bien y mucho hace daño.\n\nSe mide en mg/L o ppm, y hay límites oficiales.\n\n**Qué hacer:** separar basura, usar menos plástico y no tirar aceite al drenaje.\n\n**Para recordar:**\n- **5 ppm:** Hay 5 partes de contaminante por cada millón de partes de la mezcla.\n\n**Para tu escuela:** busca tres contaminantes cerca de tu casa.",
+      "truco": "Lo que daña es la sustancia y la cantidad.",
+      "practica": {
+        "ejercicio": "¿Qué significa 5 ppm?",
+        "respuesta": "Hay 5 partes de contaminante por cada millón de partes de la mezcla."
+      },
+      "analogias": [
+        {
+          "titulo": "La sal en la sopa",
+          "texto": "Una pizca de sal mejora la sopa, pero un puñado la arruina. Igual, la cantidad define si algo contamina."
+        },
+        {
+          "titulo": "El cuarto limpio",
+          "texto": "Una basurita en tu cuarto casi no se nota, pero cien lo vuelven un problema. Así crecen los contaminantes en el ambiente."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona dos contaminantes del agua en una comunidad.",
+          "respuesta": "Aguas residuales y detergentes; también aceites o basura."
+        },
+        {
+          "ejercicio": "¿Por qué las normas fijan límites de concentración?",
+          "respuesta": "Porque arriba de cierta cantidad la sustancia daña la salud o el ambiente."
+        },
+        {
+          "ejercicio": "Propón una acción de tu comunidad para reducir la contaminación y explica su efecto.",
+          "respuesta": "Por ejemplo, separar residuos: se recicla más y llega menos basura a ríos y suelos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-112",
+    "titulo": "Modelo corpuscular: sólidos, líquidos y gases",
+    "slug": "modelo-corpuscular-materia-secundaria",
+    "palabras": [
+      "modelo corpuscular",
+      "partículas",
+      "estados de la materia",
+      "elementos",
+      "compuestos",
+      "mezclas"
+    ],
+    "contenido": {
+      "idea": "Imagina la materia hecha de canicas diminutas: en un sólido están quietas y pegadas, en un líquido se resbalan y en un gas vuelan por todos lados.",
+      "pizarron": "**La ley:** toda la materia está hecha de partículas muy pequeñas, en movimiento y con espacio entre ellas.\n\n**Sólido:** muy juntas. Solo vibran.\n\n**Líquido:** juntas, pero se deslizan.\n\n**Gas:** separadas y libres.\n\nSi calientas, se mueven más rápido.\n\n**Elemento:** un solo tipo de partícula.\n\n**Compuesto:** átomos distintos unidos, como $\\ce{H2O}$.\n\n**Mezcla:** partículas juntas, sin unirse.\n\n**Para tu escuela:** dibuja con puntos un sólido, un líquido y un gas.",
+      "truco": "Sólido quieto, líquido resbala, gas vuela.",
+      "practica": {
+        "ejercicio": "¿Por qué un gas se comprime más fácil que un líquido?",
+        "respuesta": "Porque sus partículas están muy separadas y hay mucho espacio entre ellas."
+      },
+      "analogias": [
+        {
+          "titulo": "Un estadio",
+          "texto": "Sólido: gente sentada en sus lugares. Líquido: gente caminando apretada. Gas: gente corriendo en una cancha vacía."
+        },
+        {
+          "titulo": "Un baile",
+          "texto": "En un sólido las parejas bailan sin moverse de lugar; en un gas cada quien baila por toda la pista."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Un dibujo muestra partículas de dos tipos separadas entre sí. ¿Es elemento, compuesto o mezcla?",
+          "respuesta": "Mezcla, porque hay dos tipos de partículas sin unirse."
+        },
+        {
+          "ejercicio": "¿Qué ocurre con las partículas del hielo al derretirse?",
+          "respuesta": "Se mueven más y se deslizan, y el sólido pasa a líquido."
+        },
+        {
+          "ejercicio": "¿Por qué el aroma de un perfume se huele desde lejos?",
+          "respuesta": "Sus partículas en forma de gas se mueven y se esparcen por el aire."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-114",
+    "titulo": "Tabla periódica y sus propiedades periódicas",
+    "slug": "tabla-periodica-electronegatividad-radio-atomico-secundaria",
+    "palabras": [
+      "tabla periódica",
+      "electronegatividad",
+      "energía de ionización",
+      "radio atómico",
+      "grupos",
+      "periodos"
+    ],
+    "contenido": {
+      "idea": "La tabla periódica es como un directorio de un edificio: cada elemento tiene su piso y su departamento, y los vecinos de una misma columna se parecen.",
+      "pizarron": "**La regla:** la tabla periódica ordena los elementos por su número de protones. Los de una misma columna se parecen.\n\n**Filas:** periodos. **Columnas:** grupos.\n\n**Lo que cambia:**\n\n- **Tamaño del átomo:** crece hacia abajo y hacia la izquierda.\n- **Energía para quitar un electrón:** crece hacia arriba y hacia la derecha.\n- **Electronegatividad:** qué tanto jala electrones. Crece hacia arriba y hacia la derecha.\n\n**Ejemplo:** el sodio es grande y suelta fácil un electrón. El cloro lo atrapa.\n\n**Para tu escuela:** localiza sodio y cloro en la tabla y di cuál es mayor.",
+      "truco": "Electronegatividad y energía: suben hacia arriba y a la derecha.",
+      "practica": {
+        "ejercicio": "¿Quién tiene mayor electronegatividad, el flúor o el litio?",
+        "respuesta": "El flúor, porque está más a la derecha en el mismo periodo."
+      },
+      "analogias": [
+        {
+          "titulo": "El tira y afloja",
+          "texto": "La electronegatividad es la fuerza con la que cada equipo jala la cuerda (los electrones). El flúor es el más fuerte."
+        },
+        {
+          "titulo": "Pisos de un edificio",
+          "texto": "El radio atómico crece al bajar de periodo, como un edificio con más pisos es más grande."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué tienen en común los elementos de un mismo grupo?",
+          "respuesta": "El mismo número de electrones externos, por lo que sus propiedades se parecen."
+        },
+        {
+          "ejercicio": "¿Qué átomo es más grande, el sodio o el potasio?",
+          "respuesta": "El potasio, porque está más abajo en el mismo grupo."
+        },
+        {
+          "ejercicio": "¿Cómo cambia la energía de ionización de izquierda a derecha en un periodo?",
+          "respuesta": "Aumenta."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-117",
+    "titulo": "Compuestos iónicos y moleculares",
+    "slug": "compuestos-ionicos-moleculares-secundaria",
+    "palabras": [
+      "enlace iónico",
+      "enlace covalente",
+      "sal",
+      "azúcar",
+      "conductividad",
+      "punto de fusión"
+    ],
+    "contenido": {
+      "idea": "Los compuestos iónicos son como imanes que se pegan fuerte entre sí; los moleculares son como grupos de amigos que comparten una pelota.",
+      "pizarron": "**Qué es:** en un compuesto iónico, un átomo le da electrones a otro y se atraen. En uno molecular, comparten electrones.\n\n**Iónicos:** como la sal, $\\ce{NaCl}$.\n\nSon sólidos, y aguantan mucho calor. Disueltos en agua conducen electricidad.\n\n**Moleculares:** como el agua, $\\ce{H2O}$, y el azúcar.\n\nSe funden fácil y no conducen electricidad.\n\nUno regala, el otro comparte.\n\n**Para recordar:**\n- **¿Por qué el agua con sal conduce electricidad?** Porque los iones de la sal se mueven libres en el agua.\n\n**Para tu escuela:** ¿por qué la sal se disuelve y conduce, y el azúcar no conduce?",
+      "truco": "Iónico: se dan electrones. Molecular: se comparten.",
+      "practica": {
+        "ejercicio": "¿El NaCl es iónico o molecular? Justifica.",
+        "respuesta": "Iónico, porque se une un metal (Na) con un no metal (Cl)."
+      },
+      "analogias": [
+        {
+          "titulo": "Intercambio de cromos",
+          "texto": "En el enlace iónico un amigo regala un cromo al otro y quedan unidos por la atracción; en el covalente ambos usan los cromos juntos."
+        },
+        {
+          "titulo": "Un edificio de ladrillos",
+          "texto": "Un cristal iónico es como un muro de ladrillos muy firme: cuesta mucho romperlo, por eso funde a temperaturas altas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué compuesto tiene mayor punto de fusión, la sal o el azúcar?",
+          "respuesta": "La sal, por ser iónica; el azúcar es molecular."
+        },
+        {
+          "ejercicio": "¿Por qué el agua con sal conduce electricidad?",
+          "respuesta": "Porque los iones de la sal se mueven libres en el agua."
+        },
+        {
+          "ejercicio": "Clasifica: $\\ce{CO2}$ y $\\ce{KCl}$.",
+          "respuesta": "El $\\ce{CO2}$ es molecular (dos no metales); el $\\ce{KCl}$ es iónico (metal y no metal)."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-118",
+    "titulo": "Alimentos como fuente de energía química",
+    "slug": "alimentos-energia-carbohidratos-proteinas-lipidos-secundaria",
+    "palabras": [
+      "carbohidratos",
+      "proteínas",
+      "lípidos",
+      "calorías",
+      "nutrición",
+      "energía"
+    ],
+    "contenido": {
+      "idea": "Los alimentos son como la gasolina del cuerpo: guardan energía en su interior y tu cuerpo la libera para moverte, pensar y crecer.",
+      "pizarron": "**Qué es:** los alimentos guardan energía que tu cuerpo libera y usa, como la gasolina de un coche.\n\n**Carbohidratos:** tortilla, pan, fruta. Energía rápida. 4 kcal por gramo.\n\n**Lípidos:** aceite, aguacate, nueces. Reserva de energía. 9 kcal por gramo.\n\n**Proteínas:** huevo, frijol, carne. Construyen el cuerpo. 4 kcal por gramo.\n\n**Ejemplo:** 20 g de carbohidratos.\n\n$$20 \\times 4 = 80 \\text{ kcal}$$\n\nLa energía que sobra se guarda como grasa.\n\n**Para tu escuela:** calcula las kcal de 10 g de aceite.",
+      "truco": "Carbohidrato rápido, lípido reserva, proteína construye.",
+      "practica": {
+        "ejercicio": "¿Cuántas kcal aportan 10 g de lípidos?",
+        "respuesta": "10 x 9 = 90 kcal."
+      },
+      "analogias": [
+        {
+          "titulo": "Leña, carbón y ladrillos",
+          "texto": "Los carbohidratos son como leña que arde rápido; los lípidos, como carbón que dura más; las proteínas, como ladrillos para construir y reparar."
+        },
+        {
+          "titulo": "La batería del celular",
+          "texto": "Comer es cargar la batería del cuerpo: la energía se guarda y se gasta al hacer actividades."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué nutriente da energía más rápida?",
+          "respuesta": "Los carbohidratos."
+        },
+        {
+          "ejercicio": "Calcula las kcal de 30 g de proteínas.",
+          "respuesta": "30 x 4 = 120 kcal."
+        },
+        {
+          "ejercicio": "Clasifica el aguacate, el frijol y la tortilla según su nutriente principal.",
+          "respuesta": "Aguacate: lípidos. Frijol: proteínas. Tortilla: carbohidratos."
+        }
+      ]
+    }
+  }
 ]

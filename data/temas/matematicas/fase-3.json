@@ -1,58 +1,367 @@
 [
-{"nodo_id":"f3-033","titulo":"Los números y el valor de cada cifra","slug":"numeros-y-valor-posicional","palabras":["unidades","decenas","centenas","valor posicional","contar"],"contenido":{
-"idea":"Imagina que juntas canicas. Cuando tienes 10 sueltas, las metes en una bolsita. Cuando tienes 10 bolsitas, las guardas en una caja. Así no tienes que contar una por una: ves cajas, bolsitas y canicas sueltas. Los números funcionan igual: cada lugar guarda grupos de 10 del lugar anterior.",
-"pizarron":"1. Las **unidades** son las canicas sueltas.\n2. Las **decenas** son las bolsitas de 10.\n3. Las **centenas** son las cajas de 100.\n\nEl número 243 significa:\n\n$$243 = 200 + 40 + 3$$\n\nEl 2 vale 200, el 4 vale 40 y el 3 vale 3. La misma cifra cambia de valor según su lugar.",
-"truco":"Lee de derecha a izquierda: **U, D, C**. Piensa en \"Una Docena de Canicas\" para recordar el orden.",
-"practica":{"ejercicio":"Descompón el número 507 en centenas, decenas y unidades.","respuesta":"5 centenas, 0 decenas y 7 unidades: $500 + 0 + 7 = 507$. El 0 dice que no hay bolsitas de 10."},
-"analogias":[{"titulo":"El edificio de los números","texto":"Piensa en un edificio de tres pisos. Quien vive en el primero vale lo que es, quien vive en el segundo vale 10 veces más y quien vive en el tercero vale 100 veces más. El mismo número sube de valor cuando se muda a un piso más alto."},{"titulo":"Monedas y billetes","texto":"Con monedas de 1 peso, de 10 pesos y billetes de 100 puedes pagar cualquier precio. Para pagar 243 pesos das 2 billetes de 100, 4 monedas de 10 y 3 monedas de 1."}],
-"ejercicios":[{"ejercicio":"¿Cuánto vale el 6 en el número 362?","respuesta":"Vale 60, porque está en el lugar de las decenas."},{"ejercicio":"Escribe el número que tiene 4 centenas, 1 decena y 9 unidades.","respuesta":"419."},{"ejercicio":"Ordena de menor a mayor: 305, 350, 53.","respuesta":"53, 305, 350."}]}},
-{"nodo_id":"f3-037","titulo":"Suma y resta como operaciones inversas","slug":"suma-y-resta-operaciones-inversas","palabras":["sumar","restar","agregar","quitar","comprobar"],"contenido":{
-"idea":"Sumar es poner dulces en un frasco y restar es sacarlos. Si metes 4 dulces y luego sacas esos mismos 4, el frasco queda como estaba. Por eso decimos que la resta deshace la suma y la suma deshace la resta, como subir y bajar los mismos escalones.",
-"pizarron":"Si sabes una suma, ya conoces dos restas:\n\n$$8 + 5 = 13$$\n$$13 - 5 = 8$$\n$$13 - 8 = 5$$\n\nPara comprobar una resta, suma el resultado con lo que quitaste:\n\n1. Haz $20 - 7 = 13$.\n2. Comprueba: $13 + 7 = 20$.\n3. Si vuelves al número inicial, está bien.",
-"truco":"**La resta se revisa sumando.** Si al sumar regresas al número del principio, tu resultado es correcto.",
-"practica":{"ejercicio":"Tenías 15 estampas y regalaste 6. ¿Cuántas te quedan? Comprueba con una suma.","respuesta":"$15 - 6 = 9$. Comprobación: $9 + 6 = 15$."},
-"analogias":[{"titulo":"Pasos en la recta","texto":"Párate en el 8 de una recta numérica y avanza 5 pasos: llegas al 13. Ahora retrocede 5 pasos: regresas al 8. Avanzar es sumar y retroceder la misma cantidad es restar."},{"titulo":"Ropa puesta y quitada","texto":"Ponerte un suéter y luego quitártelo te deja como al inicio. Una operación hace algo y la otra lo deshace, igual que sumar 5 y restar 5."}],
-"ejercicios":[{"ejercicio":"Escribe las dos restas que salen de $9 + 4 = 13$.","respuesta":"$13 - 4 = 9$ y $13 - 9 = 4$."},{"ejercicio":"¿Qué número falta? $\\square + 6 = 14$","respuesta":"8, porque $14 - 6 = 8$."},{"ejercicio":"En un autobús había 23 personas y bajaron 8. ¿Cuántas quedaron?","respuesta":"15, porque $23 - 8 = 15$ y $15 + 8 = 23$."}]}},
-{"nodo_id":"f3-041","titulo":"Multiplicación y división como operaciones inversas","slug":"multiplicacion-y-division-nocion","palabras":["multiplicar","dividir","repartir","grupos","tablas"],"contenido":{
-"idea":"Si haces 3 bolsitas con 4 galletas cada una, tienes 12 galletas: eso es multiplicar, juntar grupos iguales. Si tienes 12 galletas y las repartes entre 3 amigos, a cada quien le tocan 4: eso es dividir, partir en grupos iguales. Una junta y la otra reparte las mismas galletas.",
-"pizarron":"La multiplicación es una suma repetida:\n\n$$3 \\times 4 = 4 + 4 + 4 = 12$$\n\nLa división reparte en partes iguales:\n\n$$12 \\div 3 = 4$$\n\nSe comprueban entre sí: si $12 \\div 3 = 4$, entonces $4 \\times 3 = 12$.",
-"truco":"**División pregunta, multiplicación contesta.** Para resolver $15 \\div 3$, piensa: ¿qué número por 3 da 15?",
-"practica":{"ejercicio":"Reparte 18 lápices entre 6 niños por igual. ¿Cuántos recibe cada uno?","respuesta":"$18 \\div 6 = 3$, porque $3 \\times 6 = 18$. Cada niño recibe 3 lápices."},
-"analogias":[{"titulo":"Filas de sillas","texto":"Acomoda 4 filas con 5 sillas: hay $4 \\times 5 = 20$ sillas. Si te dicen que hay 20 sillas en 4 filas iguales, divides y sabes que cada fila tiene 5."},{"titulo":"Saltos de rana","texto":"Una rana da 3 saltos de 2 metros y avanza 6 metros. Si avanzó 6 metros con saltos de 2, cuentas cuántos saltos caben: 3. Multiplicar da la distancia y dividir descubre los saltos."}],
-"ejercicios":[{"ejercicio":"Hay 5 cajas con 2 pelotas cada una. ¿Cuántas pelotas hay?","respuesta":"$5 \\times 2 = 10$ pelotas."},{"ejercicio":"Completa: si $6 \\times 3 = 18$, entonces $18 \\div 3 = \\square$.","respuesta":"6."},{"ejercicio":"Con 20 flores quieres ramos de 5. ¿Cuántos ramos salen?","respuesta":"4 ramos, porque $4 \\times 5 = 20$."}]}},
-{"nodo_id":"f3-045","titulo":"Cuerpos geométricos y sus características","slug":"cuerpos-geometricos-primaria","palabras":["cubo","esfera","cilindro","cono","prisma","caras","vértices","aristas"],"contenido":{
-"idea":"Mira una caja de cereal, una pelota y una lata. Puedes tomarlos con las manos porque ocupan lugar: son cuerpos geométricos. La pelota rueda hacia todos lados, la lata rueda solo de lado y la caja se queda quieta. Su forma decide cómo se comportan.",
-"pizarron":"Partes de un cuerpo geométrico:\n\n- **Caras:** superficies, como los lados de una caja.\n- **Aristas:** líneas donde se juntan dos caras.\n- **Vértices:** puntas donde se unen las aristas.\n\nEl cubo tiene 6 caras, 12 aristas y 8 vértices. La esfera no tiene aristas ni vértices.",
-"truco":"Si **rueda**, tiene una parte curva. Si **no rueda** por ningún lado, solo tiene caras planas.",
-"practica":{"ejercicio":"¿Qué cuerpo se parece a un dado y cuántas caras tiene?","respuesta":"El cubo, que tiene 6 caras cuadradas."},
-"analogias":[{"titulo":"Sellos en la plastilina","texto":"Presiona un cubo sobre plastilina: deja un cuadrado. Presiona la base de una lata: deja un círculo. Cada cara plana deja una figura, así descubres qué caras tiene el cuerpo."},{"titulo":"Popotes y bolitas","texto":"Construye un cubo con popotes y bolitas de plastilina. Los popotes son las aristas y las bolitas son los vértices. Si cuentas las piezas, cuentas sus partes."}],
-"ejercicios":[{"ejercicio":"Nombra un objeto de casa con forma de cilindro.","respuesta":"Por ejemplo, una lata o un rollo de papel."},{"ejercicio":"¿Cuántos vértices tiene una caja de zapatos?","respuesta":"8 vértices."},{"ejercicio":"¿Un cono puede rodar? ¿Por qué?","respuesta":"Sí, porque tiene una parte curva; rueda dando vueltas alrededor de su punta."}]}},
-{"nodo_id":"f3-048","titulo":"Figuras geométricas y sus características","slug":"figuras-geometricas-primaria","palabras":["triángulo","cuadrado","rectángulo","círculo","lados"],"contenido":{
-"idea":"Si dibujas alrededor de la base de un vaso, queda un círculo en la hoja. Esa forma es plana: no la puedes agarrar, solo verla en el papel. Las figuras geométricas son formas planas, y las reconocemos contando sus lados y sus esquinas.",
-"pizarron":"Figuras principales:\n\n| Figura | Lados | Vértices |\n|---|---|---|\n| Triángulo | 3 | 3 |\n| Cuadrado | 4 iguales | 4 |\n| Rectángulo | 4, iguales de dos en dos | 4 |\n| Círculo | Línea curva | 0 |\n\nEn una figura con lados rectos, hay tantos vértices como lados.",
-"truco":"**Tri** significa tres, como en triciclo: el triángulo tiene 3 lados.",
-"practica":{"ejercicio":"Una figura tiene 4 lados iguales y 4 esquinas rectas. ¿Cuál es?","respuesta":"Un cuadrado."},
-"analogias":[{"titulo":"Sombras de objetos","texto":"Pon un objeto bajo una lámpara y mira su sombra en la mesa. La sombra es plana, como una figura, aunque el objeto tenga volumen."},{"titulo":"Corral con cuerda","texto":"Imagina que clavas estacas y las unes con cuerda. Con 3 estacas formas un triángulo y con 4 un cuadrilátero. Cada estaca es un vértice y cada tramo de cuerda es un lado."}],
-"ejercicios":[{"ejercicio":"¿Cuántos lados tienen juntos dos triángulos?","respuesta":"6 lados, porque $3 + 3 = 6$."},{"ejercicio":"¿Qué figura tiene una sola línea curva?","respuesta":"El círculo."},{"ejercicio":"Una puerta tiene forma de...","respuesta":"Rectángulo."}]}},
-{"nodo_id":"f3-052","titulo":"Medir longitud, masa y capacidad","slug":"medicion-longitud-masa-capacidad","palabras":["metro","centímetro","kilogramo","gramo","litro","medir"],"contenido":{
-"idea":"Medir es comparar. Para saber cuántos pasos mide tu cuarto, repites tu paso. Pero cada persona tiene pasos distintos, así que usamos medidas iguales para todos. Una regla compara qué tan largo es algo, una báscula qué tanto pesa y una jarra cuánto líquido cabe.",
-"pizarron":"| Qué medimos | Unidades | Instrumento |\n|---|---|---|\n| Longitud | metro (m), centímetro (cm) | regla, metro |\n| Masa | kilogramo (kg), gramo (g) | báscula |\n| Capacidad | litro (L), mililitro (mL) | jarra medidora |\n\nEquivalencias: $1\\text{ m} = 100\\text{ cm}$, $1\\text{ kg} = 1000\\text{ g}$ y $1\\text{ L} = 1000\\text{ mL}$.",
-"truco":"Pregúntate: ¿**largo**, **pesado** o **cuánto cabe**? La respuesta te dice si necesitas metros, kilos o litros.",
-"practica":{"ejercicio":"¿Qué unidad usarías para medir el agua de una cubeta?","respuesta":"Litros, porque se mide cuánto líquido cabe."},
-"analogias":[{"titulo":"La receta","texto":"Una receta pide 1 litro de leche y 1 kilo de harina. Si cada quien midiera a ojo, el pastel saldría distinto. Las unidades hacen que todos hablen de la misma cantidad."},{"titulo":"El mismo lápiz","texto":"Si todo el salón mide su mesa con lápices iguales, todos obtienen el mismo número. El metro funciona como ese lápiz, solo que igual en todo el mundo."}],
-"ejercicios":[{"ejercicio":"¿Cuántos centímetros hay en 2 metros?","respuesta":"200 cm, porque $2 \\times 100 = 200$."},{"ejercicio":"¿Con qué medirías la masa de una sandía?","respuesta":"Con una báscula, en kilogramos."},{"ejercicio":"¿Qué tiene más capacidad, una botella de 1 L o una de 500 mL?","respuesta":"La de 1 L, porque equivale a 1000 mL."}]}},
-{"nodo_id":"f3-056","titulo":"Medir el tiempo","slug":"medicion-del-tiempo-primaria","palabras":["reloj","horas","minutos","calendario","días","semanas"],"contenido":{
-"idea":"El tiempo no se ve, pero se nota. Lavarte las manos dura poco y dormir dura mucho. Para ponernos de acuerdo, cortamos el tiempo en pedazos iguales, como rebanadas de pastel: el año en meses, el día en horas y la hora en minutos.",
-"pizarron":"Equivalencias importantes:\n\n- 1 minuto = 60 segundos\n- 1 hora = 60 minutos\n- 1 día = 24 horas\n- 1 semana = 7 días\n\nEn el reloj de manecillas, la corta marca las horas y la larga los minutos. Si la corta apunta al 3 y la larga al 12, son las 3 en punto.",
-"truco":"**Manecilla corta, hora; manecilla larga, minutos.** La palabra más corta va con la aguja más corta.",
-"practica":{"ejercicio":"Una película empieza a las 4:00 y dura 2 horas. ¿A qué hora termina?","respuesta":"A las 6:00, porque $4 + 2 = 6$."},
-"analogias":[{"titulo":"La cinta de las horas","texto":"Imagina el día como una cinta con 24 cuadritos. Cada actividad ocupa unos cuantos: si duermes 9 horas, tapas 9 cuadritos. Mirar la cinta te ayuda a ver cuánto dura cada cosa."},{"titulo":"El reloj como pista","texto":"La manecilla larga da una vuelta completa a la pista en una hora. Cada vuelta suya hace avanzar un número a la manecilla corta."}],
-"ejercicios":[{"ejercicio":"¿Cuántos días tienen 2 semanas?","respuesta":"14 días, porque $2 \\times 7 = 14$."},{"ejercicio":"Si son las 9:00, ¿qué hora será en 30 minutos?","respuesta":"Las 9:30."},{"ejercicio":"¿Qué dura más: 1 hora o 50 minutos?","respuesta":"1 hora, porque son 60 minutos."}]}},
-{"nodo_id":"f3-060","titulo":"Organizar e interpretar datos","slug":"organizacion-de-datos-primaria","palabras":["tablas","gráficas","pictogramas","conteo","encuesta"],"contenido":{
-"idea":"Si tus compañeros gritan al mismo tiempo su fruta favorita, nadie entiende. Si los anotas por grupos, de pronto ves qué fruta gana. Organizar datos es acomodar un montón de respuestas para que la información se vea de un vistazo.",
-"pizarron":"1. **Pregunta:** ¿cuál es tu fruta favorita?\n2. **Registra** con marcas de conteo.\n3. **Haz una tabla:**\n\n| Fruta | Votos |\n|---|---|\n| Mango | 8 |\n| Plátano | 5 |\n| Manzana | 3 |\n\n4. **Interpreta:** ganó el mango y votaron $8 + 5 + 3 = 16$ personas.",
-"truco":"Marca de cuatro en cuatro y cruza la quinta: contar de 5 en 5 evita errores.",
-"practica":{"ejercicio":"Con la tabla de frutas, ¿cuántos votos más tuvo el mango que la manzana?","respuesta":"5 votos más, porque $8 - 3 = 5$."},
-"analogias":[{"titulo":"Ordenar el clóset","texto":"Si toda la ropa está revuelta, cuesta encontrar algo. Al separarla en playeras, pantalones y calcetines, ves cuánto tienes de cada cosa. Una tabla hace lo mismo con los datos."},{"titulo":"Torres de cubos","texto":"Haz una torre de cubos por cada fruta, un cubo por voto. La torre más alta muestra la favorita sin leer ningún número. Así funciona una gráfica de barras."}],
-"ejercicios":[{"ejercicio":"En una gráfica, perros tiene 7 votos y gatos 4. ¿Cuál animal ganó?","respuesta":"Los perros."},{"ejercicio":"¿Cuántos votos hubo en total con perros 7 y gatos 4?","respuesta":"11 votos."},{"ejercicio":"¿Qué marcas de conteo escribes para 6?","respuesta":"Un grupo de cinco cruzado y una marca suelta."}]}}
+{
+"nodo_id": "f3-033",
+"titulo": "Los números y el valor de cada cifra",
+"slug": "numeros-y-valor-posicional",
+"palabras": [
+"unidades",
+"decenas",
+"centenas",
+"valor posicional",
+"contar"
+],
+"contenido": {
+"idea": "Imagina que juntas canicas. Cuando tienes 10 sueltas, las metes en una bolsita. Cuando tienes 10 bolsitas, las guardas en una caja. Así no tienes que contar una por una: ves cajas, bolsitas y canicas sueltas. Los números funcionan igual: cada lugar guarda grupos de 10 del lugar anterior.",
+"pizarron": "**La regla:** el valor de una cifra depende del lugar que ocupa en el número.\n\n**Qué quiere decir:** la misma cifra vale distinto según dónde esté.\n\nUnidades: las canicas sueltas. Valen 1.\n\nDecenas: las bolsitas con 10 canicas.\n\nCentenas: las cajas con 100 canicas.\n\n**Ejemplo:** mira el número 243.\n\nEl 2 está en las centenas. Son 2 cajas: 200.\n\nEl 4 está en las decenas. Son 4 bolsitas: 40.\n\nEl 3 está en las unidades. Son 3 canicas: 3.\n\n$$243 = 200 + 40 + 3$$",
+"truco": "Lee de derecha a izquierda: **U, D, C**. Piensa en \"Una Docena de Canicas\" para recordar el orden.",
+"practica": {
+"ejercicio": "Descompón el número 507 en centenas, decenas y unidades.",
+"respuesta": "5 centenas, 0 decenas y 7 unidades: $500 + 0 + 7 = 507$. El 0 dice que no hay bolsitas de 10."
+},
+"analogias": [
+{
+"titulo": "El edificio de los números",
+"texto": "Piensa en un edificio de tres pisos. Quien vive en el primero vale lo que es, quien vive en el segundo vale 10 veces más y quien vive en el tercero vale 100 veces más. El mismo número sube de valor cuando se muda a un piso más alto."
+},
+{
+"titulo": "Monedas y billetes",
+"texto": "Con monedas de 1 peso, de 10 pesos y billetes de 100 puedes pagar cualquier precio. Para pagar 243 pesos das 2 billetes de 100, 4 monedas de 10 y 3 monedas de 1."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuánto vale el 6 en el número 362?",
+"respuesta": "Vale 60, porque está en el lugar de las decenas."
+},
+{
+"ejercicio": "Escribe el número que tiene 4 centenas, 1 decena y 9 unidades.",
+"respuesta": "419."
+},
+{
+"ejercicio": "Ordena de menor a mayor: 305, 350, 53.",
+"respuesta": "53, 305, 350."
+}
+]
+}
+},
+{
+"nodo_id": "f3-037",
+"titulo": "Suma y resta como operaciones inversas",
+"slug": "suma-y-resta-operaciones-inversas",
+"palabras": [
+"sumar",
+"restar",
+"agregar",
+"quitar",
+"comprobar"
+],
+"contenido": {
+"idea": "Sumar es poner dulces en un frasco y restar es sacarlos. Si metes 4 dulces y luego sacas esos mismos 4, el frasco queda como estaba. Por eso decimos que la resta deshace la suma y la suma deshace la resta, como subir y bajar los mismos escalones.",
+"pizarron": "**La regla:** la suma y la resta son operaciones inversas: una deshace lo que hizo la otra.\n\n**Qué quiere decir:** si pones 5 dulces en una bolsa y luego quitas esos 5, vuelves a lo que tenías.\n\n**Ejemplo:** si sabes una suma, ya conoces dos restas.\n\n$$8 + 5 = 13$$\n\n$$13 - 5 = 8$$\n\n$$13 - 8 = 5$$\n\n**Para comprobar una resta,** suma el resultado con lo que quitaste.\n\nHaces $20 - 7 = 13$.\n\nCompruebas: $13 + 7 = 20$.\n\nRegresaste al 20, así que está bien.",
+"truco": "**La resta se revisa sumando.** Si al sumar regresas al número del principio, tu resultado es correcto.",
+"practica": {
+"ejercicio": "Tenías 15 estampas y regalaste 6. ¿Cuántas te quedan? Comprueba con una suma.",
+"respuesta": "$15 - 6 = 9$. Comprobación: $9 + 6 = 15$."
+},
+"analogias": [
+{
+"titulo": "Pasos en la recta",
+"texto": "Párate en el 8 de una recta numérica y avanza 5 pasos: llegas al 13. Ahora retrocede 5 pasos: regresas al 8. Avanzar es sumar y retroceder la misma cantidad es restar."
+},
+{
+"titulo": "Ropa puesta y quitada",
+"texto": "Ponerte un suéter y luego quitártelo te deja como al inicio. Una operación hace algo y la otra lo deshace, igual que sumar 5 y restar 5."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe las dos restas que salen de $9 + 4 = 13$.",
+"respuesta": "$13 - 4 = 9$ y $13 - 9 = 4$."
+},
+{
+"ejercicio": "¿Qué número falta? $\\square + 6 = 14$",
+"respuesta": "8, porque $14 - 6 = 8$."
+},
+{
+"ejercicio": "En un autobús había 23 personas y bajaron 8. ¿Cuántas quedaron?",
+"respuesta": "15, porque $23 - 8 = 15$ y $15 + 8 = 23$."
+}
+]
+}
+},
+{
+"nodo_id": "f3-041",
+"titulo": "Multiplicación y división como operaciones inversas",
+"slug": "multiplicacion-y-division-nocion",
+"palabras": [
+"multiplicar",
+"dividir",
+"repartir",
+"grupos",
+"tablas"
+],
+"contenido": {
+"idea": "Si haces 3 bolsitas con 4 galletas cada una, tienes 12 galletas: eso es multiplicar, juntar grupos iguales. Si tienes 12 galletas y las repartes entre 3 amigos, a cada quien le tocan 4: eso es dividir, partir en grupos iguales. Una junta y la otra reparte las mismas galletas.",
+"pizarron": "**La regla:** multiplicar es sumar el mismo número varias veces, y dividir es repartir en partes iguales. Una deshace a la otra.\n\n**Multiplicar:** tienes 3 platos con 4 galletas cada uno.\n\n$$3 \\times 4 = 4 + 4 + 4 = 12$$\n\n**Dividir:** repartes esas 12 galletas entre 3 niños.\n\n$$12 \\div 3 = 4$$\n\nA cada niño le tocan 4.\n\n**Para comprobar:** multiplica lo que le tocó a cada uno por los niños.\n\n$$4 \\times 3 = 12$$\n\nVolviste a las 12 galletas.",
+"truco": "**División pregunta, multiplicación contesta.** Para resolver $15 \\div 3$, piensa: ¿qué número por 3 da 15?",
+"practica": {
+"ejercicio": "Reparte 18 lápices entre 6 niños por igual. ¿Cuántos recibe cada uno?",
+"respuesta": "$18 \\div 6 = 3$, porque $3 \\times 6 = 18$. Cada niño recibe 3 lápices."
+},
+"analogias": [
+{
+"titulo": "Filas de sillas",
+"texto": "Acomoda 4 filas con 5 sillas: hay $4 \\times 5 = 20$ sillas. Si te dicen que hay 20 sillas en 4 filas iguales, divides y sabes que cada fila tiene 5."
+},
+{
+"titulo": "Saltos de rana",
+"texto": "Una rana da 3 saltos de 2 metros y avanza 6 metros. Si avanzó 6 metros con saltos de 2, cuentas cuántos saltos caben: 3. Multiplicar da la distancia y dividir descubre los saltos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Hay 5 cajas con 2 pelotas cada una. ¿Cuántas pelotas hay?",
+"respuesta": "$5 \\times 2 = 10$ pelotas."
+},
+{
+"ejercicio": "Completa: si $6 \\times 3 = 18$, entonces $18 \\div 3 = \\square$.",
+"respuesta": "6."
+},
+{
+"ejercicio": "Con 20 flores quieres ramos de 5. ¿Cuántos ramos salen?",
+"respuesta": "4 ramos, porque $4 \\times 5 = 20$."
+}
+]
+}
+},
+{
+"nodo_id": "f3-045",
+"titulo": "Cuerpos geométricos y sus características",
+"slug": "cuerpos-geometricos-primaria",
+"palabras": [
+"cubo",
+"esfera",
+"cilindro",
+"cono",
+"prisma",
+"caras",
+"vértices",
+"aristas"
+],
+"contenido": {
+"idea": "Mira una caja de cereal, una pelota y una lata. Puedes tomarlos con las manos porque ocupan lugar: son cuerpos geométricos. La pelota rueda hacia todos lados, la lata rueda solo de lado y la caja se queda quieta. Su forma decide cómo se comportan.",
+"pizarron": "**Qué es:** un cuerpo geométrico es una figura con volumen, que puedes tomar con la mano, como una caja o una pelota.\n\nSus partes son:\n\n**Caras:** las superficies, como los lados de una caja.\n\n**Aristas:** las líneas donde se juntan dos caras.\n\n**Vértices:** las puntas donde se unen las aristas.\n\n**Ejemplo:** toma un dado, que tiene forma de cubo. Tiene 6 caras, 12 aristas y 8 vértices.\n\nUna pelota es una esfera: no tiene aristas ni vértices.",
+"truco": "Si **rueda**, tiene una parte curva. Si **no rueda** por ningún lado, solo tiene caras planas.",
+"practica": {
+"ejercicio": "¿Qué cuerpo se parece a un dado y cuántas caras tiene?",
+"respuesta": "El cubo, que tiene 6 caras cuadradas."
+},
+"analogias": [
+{
+"titulo": "Sellos en la plastilina",
+"texto": "Presiona un cubo sobre plastilina: deja un cuadrado. Presiona la base de una lata: deja un círculo. Cada cara plana deja una figura, así descubres qué caras tiene el cuerpo."
+},
+{
+"titulo": "Popotes y bolitas",
+"texto": "Construye un cubo con popotes y bolitas de plastilina. Los popotes son las aristas y las bolitas son los vértices. Si cuentas las piezas, cuentas sus partes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra un objeto de casa con forma de cilindro.",
+"respuesta": "Por ejemplo, una lata o un rollo de papel."
+},
+{
+"ejercicio": "¿Cuántos vértices tiene una caja de zapatos?",
+"respuesta": "8 vértices."
+},
+{
+"ejercicio": "¿Un cono puede rodar? ¿Por qué?",
+"respuesta": "Sí, porque tiene una parte curva; rueda dando vueltas alrededor de su punta."
+}
+]
+}
+},
+{
+"nodo_id": "f3-048",
+"titulo": "Figuras geométricas y sus características",
+"slug": "figuras-geometricas-primaria",
+"palabras": [
+"triángulo",
+"cuadrado",
+"rectángulo",
+"círculo",
+"lados"
+],
+"contenido": {
+"idea": "Si dibujas alrededor de la base de un vaso, queda un círculo en la hoja. Esa forma es plana: no la puedes agarrar, solo verla en el papel. Las figuras geométricas son formas planas, y las reconocemos contando sus lados y sus esquinas.",
+"pizarron": "**Qué es:** una figura geométrica es una forma plana, como las que dibujas en una hoja.\n\n**Lados** son las líneas que la cierran.\n\n**Vértices** son las esquinas.\n\n| Figura | Lados | Vértices |\n|---|---|---|\n| Triángulo | 3 | 3 |\n| Cuadrado | 4 iguales | 4 |\n| Rectángulo | 4, iguales de dos en dos | 4 |\n| Círculo | Línea curva | 0 |\n\n**Regla fácil:** si la figura tiene lados rectos, tiene tantas esquinas como lados.",
+"truco": "**Tri** significa tres, como en triciclo: el triángulo tiene 3 lados.",
+"practica": {
+"ejercicio": "Una figura tiene 4 lados iguales y 4 esquinas rectas. ¿Cuál es?",
+"respuesta": "Un cuadrado."
+},
+"analogias": [
+{
+"titulo": "Sombras de objetos",
+"texto": "Pon un objeto bajo una lámpara y mira su sombra en la mesa. La sombra es plana, como una figura, aunque el objeto tenga volumen."
+},
+{
+"titulo": "Corral con cuerda",
+"texto": "Imagina que clavas estacas y las unes con cuerda. Con 3 estacas formas un triángulo y con 4 un cuadrilátero. Cada estaca es un vértice y cada tramo de cuerda es un lado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántos lados tienen juntos dos triángulos?",
+"respuesta": "6 lados, porque $3 + 3 = 6$."
+},
+{
+"ejercicio": "¿Qué figura tiene una sola línea curva?",
+"respuesta": "El círculo."
+},
+{
+"ejercicio": "Una puerta tiene forma de...",
+"respuesta": "Rectángulo."
+}
+]
+}
+},
+{
+"nodo_id": "f3-052",
+"titulo": "Medir longitud, masa y capacidad",
+"slug": "medicion-longitud-masa-capacidad",
+"palabras": [
+"metro",
+"centímetro",
+"kilogramo",
+"gramo",
+"litro",
+"medir"
+],
+"contenido": {
+"idea": "Medir es comparar. Para saber cuántos pasos mide tu cuarto, repites tu paso. Pero cada persona tiene pasos distintos, así que usamos medidas iguales para todos. Una regla compara qué tan largo es algo, una báscula qué tanto pesa y una jarra cuánto líquido cabe.",
+"pizarron": "**Qué es:** medir es comparar algo con una unidad para saber cuánto es.\n\n**Longitud** es qué tan largo es algo. Se mide en metros (m) y centímetros (cm), con una regla.\n\n**Masa** es cuánta cosa tiene algo. Se mide en kilogramos (kg) y gramos (g), con una báscula.\n\n**Capacidad** es cuánto líquido cabe. Se mide en litros (L) y mililitros (mL), con una jarra medidora.\n\n**Equivalencias para recordar:**\n\n$1\\text{ m} = 100\\text{ cm}$\n\n$1\\text{ kg} = 1000\\text{ g}$\n\n$1\\text{ L} = 1000\\text{ mL}$",
+"truco": "Pregúntate: ¿**largo**, **pesado** o **cuánto cabe**? La respuesta te dice si necesitas metros, kilos o litros.",
+"practica": {
+"ejercicio": "¿Qué unidad usarías para medir el agua de una cubeta?",
+"respuesta": "Litros, porque se mide cuánto líquido cabe."
+},
+"analogias": [
+{
+"titulo": "La receta",
+"texto": "Una receta pide 1 litro de leche y 1 kilo de harina. Si cada quien midiera a ojo, el pastel saldría distinto. Las unidades hacen que todos hablen de la misma cantidad."
+},
+{
+"titulo": "El mismo lápiz",
+"texto": "Si todo el salón mide su mesa con lápices iguales, todos obtienen el mismo número. El metro funciona como ese lápiz, solo que igual en todo el mundo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántos centímetros hay en 2 metros?",
+"respuesta": "200 cm, porque $2 \\times 100 = 200$."
+},
+{
+"ejercicio": "¿Con qué medirías la masa de una sandía?",
+"respuesta": "Con una báscula, en kilogramos."
+},
+{
+"ejercicio": "¿Qué tiene más capacidad, una botella de 1 L o una de 500 mL?",
+"respuesta": "La de 1 L, porque equivale a 1000 mL."
+}
+]
+}
+},
+{
+"nodo_id": "f3-056",
+"titulo": "Medir el tiempo",
+"slug": "medicion-del-tiempo-primaria",
+"palabras": [
+"reloj",
+"horas",
+"minutos",
+"calendario",
+"días",
+"semanas"
+],
+"contenido": {
+"idea": "El tiempo no se ve, pero se nota. Lavarte las manos dura poco y dormir dura mucho. Para ponernos de acuerdo, cortamos el tiempo en pedazos iguales, como rebanadas de pastel: el año en meses, el día en horas y la hora en minutos.",
+"pizarron": "**Qué es:** medir el tiempo es saber cuánto dura algo. Se usa el reloj y el calendario.\n\n**Equivalencias:**\n\n- 1 minuto tiene 60 segundos.\n- 1 hora tiene 60 minutos.\n- 1 día tiene 24 horas.\n- 1 semana tiene 7 días.\n\n**Cómo leer un reloj de manecillas:**\n\nLa manecilla corta marca las horas.\n\nLa manecilla larga marca los minutos.\n\n**Ejemplo:** si la corta apunta al 3 y la larga al 12, son las 3 en punto.",
+"truco": "**Manecilla corta, hora; manecilla larga, minutos.** La palabra más corta va con la aguja más corta.",
+"practica": {
+"ejercicio": "Una película empieza a las 4:00 y dura 2 horas. ¿A qué hora termina?",
+"respuesta": "A las 6:00, porque $4 + 2 = 6$."
+},
+"analogias": [
+{
+"titulo": "La cinta de las horas",
+"texto": "Imagina el día como una cinta con 24 cuadritos. Cada actividad ocupa unos cuantos: si duermes 9 horas, tapas 9 cuadritos. Mirar la cinta te ayuda a ver cuánto dura cada cosa."
+},
+{
+"titulo": "El reloj como pista",
+"texto": "La manecilla larga da una vuelta completa a la pista en una hora. Cada vuelta suya hace avanzar un número a la manecilla corta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántos días tienen 2 semanas?",
+"respuesta": "14 días, porque $2 \\times 7 = 14$."
+},
+{
+"ejercicio": "Si son las 9:00, ¿qué hora será en 30 minutos?",
+"respuesta": "Las 9:30."
+},
+{
+"ejercicio": "¿Qué dura más: 1 hora o 50 minutos?",
+"respuesta": "1 hora, porque son 60 minutos."
+}
+]
+}
+},
+{
+"nodo_id": "f3-060",
+"titulo": "Organizar e interpretar datos",
+"slug": "organizacion-de-datos-primaria",
+"palabras": [
+"tablas",
+"gráficas",
+"pictogramas",
+"conteo",
+"encuesta"
+],
+"contenido": {
+"idea": "Si tus compañeros gritan al mismo tiempo su fruta favorita, nadie entiende. Si los anotas por grupos, de pronto ves qué fruta gana. Organizar datos es acomodar un montón de respuestas para que la información se vea de un vistazo.",
+"pizarron": "**Qué es:** organizar datos es acomodar la información en tablas para entenderla mejor.\n\n**Pasos:**\n\n1. Haz una pregunta: ¿cuál es tu fruta favorita?\n2. Anota una rayita por cada respuesta.\n3. Cuenta las rayitas y pásalas a una tabla.\n| Fruta | Votos |\n|---|---|\n| Mango | 8 |\n| Plátano | 5 |\n| Manzana | 3 |\n4. Lee la tabla: ganó el mango.\n\nPara saber cuántos votaron, suma: $8 + 5 + 3 = 16$.",
+"truco": "Marca de cuatro en cuatro y cruza la quinta: contar de 5 en 5 evita errores.",
+"practica": {
+"ejercicio": "Con la tabla de frutas, ¿cuántos votos más tuvo el mango que la manzana?",
+"respuesta": "5 votos más, porque $8 - 3 = 5$."
+},
+"analogias": [
+{
+"titulo": "Ordenar el clóset",
+"texto": "Si toda la ropa está revuelta, cuesta encontrar algo. Al separarla en playeras, pantalones y calcetines, ves cuánto tienes de cada cosa. Una tabla hace lo mismo con los datos."
+},
+{
+"titulo": "Torres de cubos",
+"texto": "Haz una torre de cubos por cada fruta, un cubo por voto. La torre más alta muestra la favorita sin leer ningún número. Así funciona una gráfica de barras."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "En una gráfica, perros tiene 7 votos y gatos 4. ¿Cuál animal ganó?",
+"respuesta": "Los perros."
+},
+{
+"ejercicio": "¿Cuántos votos hubo en total con perros 7 y gatos 4?",
+"respuesta": "11 votos."
+},
+{
+"ejercicio": "¿Qué marcas de conteo escribes para 6?",
+"respuesta": "Un grupo de cinco cruzado y una marca suelta."
+}
+]
+}
+}
 ]

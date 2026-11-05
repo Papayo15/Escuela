@@ -1,58 +1,363 @@
 [
-{"nodo_id":"f4-058","titulo":"Tipos de cuadriláteros","slug":"tipos-de-cuadrilateros-primaria","palabras":["cuadrado","rectángulo","rombo","romboide","trapecio","trapezoide"],"contenido":{
-"idea":"Los cuadriláteros son una familia de figuras de cuatro lados. Se parecen, pero cada integrante tiene una característica que lo distingue.",
-"pizarron":"Un **cuadrilátero** tiene 4 lados y 4 ángulos. Sus ángulos suman 360°.\n\n| Figura | Características |\n|---|---|\n| Cuadrado | 4 lados iguales y 4 ángulos rectos |\n| Rectángulo | Lados opuestos iguales y 4 ángulos rectos |\n| Rombo | 4 lados iguales, sin ángulos rectos |\n| Romboide | Lados opuestos iguales, sin ángulos rectos |\n| Trapecio | Solo un par de lados paralelos |\n| Trapezoide | Ningún lado paralelo |\n\n**Paralelogramos**: tienen dos pares de lados paralelos. Son cuadrado, rectángulo, rombo y romboide.\n\nTodo cuadrado es rectángulo, pero no todo rectángulo es cuadrado.",
-"truco":"Rombo es un cuadrado aplastado; romboide, un rectángulo aplastado.",
-"practica":{"ejercicio":"¿Qué figura tiene 4 lados iguales, pero sin ángulos rectos?","respuesta":"El rombo."},
-"analogias":[{"titulo":"La familia de cuatro patas","texto":"Perros, gatos y conejos tienen cuatro patas, pero son distintos. Todos los cuadriláteros tienen cuatro lados, pero cada uno tiene su forma."},{"titulo":"La caja aplastada","texto":"Si empujas la orilla de un marco cuadrado, se inclina y se vuelve rombo. Los lados miden igual, pero cambian los ángulos."}],
-"ejercicios":[{"ejercicio":"¿Cuántos pares de lados paralelos tiene un trapecio?","respuesta":"Un par."},{"ejercicio":"Tres ángulos de un cuadrilátero suman 270°. ¿Cuánto mide el cuarto?","respuesta":"360 - 270 = 90°."},{"ejercicio":"¿Es un cuadrado un paralelogramo?","respuesta":"Sí, porque tiene dos pares de lados paralelos."}]}},
-{"nodo_id":"f4-058","titulo":"Rectas paralelas y perpendiculares","slug":"rectas-paralelas-y-perpendiculares-primaria","palabras":["paralelas","perpendiculares","secantes","rectas","escuadra"],"contenido":{
-"idea":"Las vías del tren nunca se tocan: son paralelas. Las calles que forman una esquina en cruz son perpendiculares. Cada par de líneas se relaciona de una manera.",
-"pizarron":"Tipos de rectas:\n\n- **Paralelas**: siempre tienen la misma distancia y nunca se cruzan. Se escribe $a \\parallel b$.\n- **Secantes**: se cruzan en un punto.\n- **Perpendiculares**: secantes que forman 4 ángulos rectos. Se escribe $a \\perp b$.\n\nCon regla y escuadra:\n\n- Para una **paralela**, desliza la escuadra sobre la regla sin moverla y traza.\n- Para una **perpendicular**, apoya el lado recto de la escuadra en la línea y traza por el otro lado.\n\nEn un cuadrado, los lados opuestos son paralelos y los lados vecinos son perpendiculares.",
-"truco":"La doble l de paralela parece dos líneas que nunca se tocan.",
-"practica":{"ejercicio":"Dos calles se cruzan formando esquinas rectas. ¿Qué tipo de rectas son?","respuesta":"Perpendiculares."},
-"analogias":[{"titulo":"Los renglones del cuaderno","texto":"Los renglones son paralelos y el margen rojo los corta de forma perpendicular. Tu cuaderno tiene ambas."},{"titulo":"La carretera y el cruce","texto":"Dos carriles van lado a lado: son paralelos. Un puente que los cruza formando esquina recta es perpendicular."}],
-"ejercicios":[{"ejercicio":"¿Las rectas paralelas se cruzan?","respuesta":"No, nunca se cruzan."},{"ejercicio":"¿Qué ángulo forman dos rectas perpendiculares?","respuesta":"90°."},{"ejercicio":"En una letra H, ¿cómo son los dos palos laterales?","respuesta":"Paralelos."}]}},
-{"nodo_id":"f4-061","titulo":"Convertir metros, centímetros y kilómetros","slug":"convertir-metros-centimetros-y-kilometros-primaria","palabras":["conversión","kilómetro","metro","centímetro","milímetro","longitud"],"contenido":{
-"idea":"Un mismo camino se puede medir con pasos o con zancadas. Solo cambia el tamaño de la unidad: si la unidad es más chica, necesitas más.",
-"pizarron":"Equivalencias:\n\n- 1 km = 1 000 m\n- 1 m = 100 cm\n- 1 cm = 10 mm\n\nRegla:\n\n- De unidad **grande a chica**: **multiplica**.\n- De unidad **chica a grande**: **divide**.\n\nEjemplos:\n\n- 3 km a metros: 3 × 1 000 = 3 000 m.\n- 250 cm a metros: 250 ÷ 100 = 2.5 m.\n- 4 m a milímetros: 4 × 100 × 10 = 4 000 mm.\n- 1 500 m a km: 1 500 ÷ 1 000 = 1.5 km.\n\nAntes de responder pregunta: ¿debe salir un número mayor o menor? En unidades chicas salen números más grandes.",
-"truco":"Baja de unidad, multiplica. Sube de unidad, divide.",
-"practica":{"ejercicio":"¿Cuántos metros son 2.5 km?","respuesta":"2.5 × 1 000 = 2 500 m."},
-"analogias":[{"titulo":"Cambio de monedas","texto":"Un billete de 100 pesos son 100 monedas de 1. El valor no cambia; cambia cuántas piezas necesitas."},{"titulo":"La escalera de unidades","texto":"Imagina escalones: km, m, cm, mm. Al bajar multiplicas y al subir divides."}],
-"ejercicios":[{"ejercicio":"Convierte 7 m a cm.","respuesta":"700 cm"},{"ejercicio":"Convierte 3 200 m a km.","respuesta":"3.2 km"},{"ejercicio":"Un lápiz mide 18 cm. ¿Cuántos milímetros son?","respuesta":"180 mm"}]}},
-{"nodo_id":"f4-061","titulo":"Convertir kilogramos y gramos","slug":"convertir-kilogramos-y-gramos-primaria","palabras":["conversión","kilogramo","gramo","tonelada","masa"],"contenido":{
-"idea":"Una bolsa de un kilo tiene mil gramos dentro. Cambiar de unidad es decir lo mismo con otro tamaño de medida.",
-"pizarron":"Equivalencias:\n\n- 1 tonelada (t) = 1 000 kg\n- 1 kg = 1 000 g\n- 1 g = 1 000 mg\n\nRegla:\n\n- De kilos a gramos: **multiplica por 1 000**.\n- De gramos a kilos: **divide entre 1 000**.\n\nEjemplos:\n\n- 2.5 kg = 2 500 g\n- 750 g = 0.75 kg\n- 3 t = 3 000 kg\n- 1/4 kg = 250 g\n\nEjemplo de problema: compras 750 g de jamón y 500 g de queso. Total: 1 250 g = 1.25 kg.\n\nPara sumar pesos, primero convierte todo a la misma unidad.",
-"truco":"Kilo significa mil: kilogramo, mil gramos; kilómetro, mil metros.",
-"practica":{"ejercicio":"¿Cuántos gramos son 3.2 kg?","respuesta":"3 200 g"},
-"analogias":[{"titulo":"Los bultos de la bodega","texto":"Un costal de 50 kg son 50 000 gramos. Es la misma cantidad, solo que contada con una unidad más chica."},{"titulo":"El ingrediente de la receta","texto":"La receta pide 200 g de azúcar. Si la bolsa dice 1 kg, conviertes para saber cuántas veces alcanza."}],
-"ejercicios":[{"ejercicio":"Convierte 4 000 g a kg.","respuesta":"4 kg"},{"ejercicio":"Convierte 0.5 kg a g.","respuesta":"500 g"},{"ejercicio":"Un camión lleva 2.5 t. ¿Cuántos kilogramos son?","respuesta":"2 500 kg"}]}},
-{"nodo_id":"f4-061","titulo":"Convertir litros y mililitros","slug":"convertir-litros-y-mililitros-primaria","palabras":["conversión","litro","mililitro","capacidad","centímetro cúbico"],"contenido":{
-"idea":"Un litro de agua es igual que mil gotitas de medida. El agua no cambia, pero la contamos con una unidad más pequeña.",
-"pizarron":"Equivalencia clave:\n\n**1 L = 1 000 mL**\n\nRegla:\n\n- De litros a mililitros: **multiplica por 1 000**.\n- De mililitros a litros: **divide entre 1 000**.\n\nEjemplos:\n\n- 2 L = 2 000 mL\n- 1.5 L = 1 500 mL\n- 750 mL = 0.75 L\n- 1/2 L = 500 mL\n\n**Problema**: Una jarra de 2 L se sirve en vasos de 250 mL. ¿Cuántos vasos salen?\n\n- 2 L = 2 000 mL\n- 2 000 ÷ 250 = **8 vasos**.\n\nUn mililitro ocupa lo mismo que un centímetro cúbico: 1 mL = 1 cm³.",
-"truco":"Mili significa milésima: mil mililitros hacen un litro.",
-"practica":{"ejercicio":"¿Cuántos mililitros son 3.5 L?","respuesta":"3 500 mL"},
-"analogias":[{"titulo":"El jarabe","texto":"Un frasco de jarabe tiene mililitros marcados porque una dosis es poca. Medirlo en litros no sería práctico."},{"titulo":"La cubeta y el vaso","texto":"Con una cubeta llenas muchos vasos. Es la misma agua, pero contada en recipientes más chicos."}],
-"ejercicios":[{"ejercicio":"Convierte 6 000 mL a L.","respuesta":"6 L"},{"ejercicio":"Convierte 0.25 L a mL.","respuesta":"250 mL"},{"ejercicio":"Una botella de 1.5 L se reparte en vasos de 300 mL. ¿Cuántos vasos salen?","respuesta":"1 500 ÷ 300 = 5 vasos."}]}},
-{"nodo_id":"f4-065","titulo":"Perímetro del cuadrado y del rectángulo","slug":"perimetro-del-cuadrado-y-del-rectangulo-primaria","palabras":["perímetro","contorno","rectángulo","cuadrado","suma de lados"],"contenido":{
-"idea":"Si caminas alrededor de una cancha y regresas al mismo punto, recorriste su perímetro. El perímetro es la medida del borde, no de lo de adentro.",
-"pizarron":"El **perímetro** es la suma de todos los lados de una figura.\n\n**Cuadrado** de lado $l$:\n\n$$P = 4 \\times l$$\n\nEjemplo: lado de 6 cm. $P = 4 \\times 6 = 24$ cm.\n\n**Rectángulo** de base $b$ y altura $h$:\n\n$$P = 2b + 2h$$\n\nEjemplo: base 8 m y altura 3 m. $P = 2(8) + 2(3) = 16 + 6 = 22$ m.\n\nEl resultado va en unidades de longitud: cm, m.\n\nUsos: poner cerca, cinta o marco alrededor de algo.",
-"truco":"Perímetro es el paseo por la orilla.",
-"practica":{"ejercicio":"Calcula el perímetro de un rectángulo de 10 cm por 4 cm.","respuesta":"$2(10) + 2(4) = 28$ cm."},
-"analogias":[{"titulo":"El cerco del terreno","texto":"Para saber cuánta malla necesitas, mides la orilla del terreno. Esa medida es el perímetro."},{"titulo":"El marco de la foto","texto":"El marco rodea la foto. La longitud total de la madera del marco es el perímetro de la imagen."}],
-"ejercicios":[{"ejercicio":"Un cuadrado mide 9 m por lado. ¿Cuál es su perímetro?","respuesta":"36 m"},{"ejercicio":"Un terreno mide 20 m por 15 m. ¿Cuántos metros de cerca necesita?","respuesta":"70 m"},{"ejercicio":"El perímetro de un cuadrado es 32 cm. ¿Cuánto mide cada lado?","respuesta":"32 ÷ 4 = 8 cm."}]}},
-{"nodo_id":"f4-065","titulo":"Área del cuadrado y del rectángulo","slug":"area-del-cuadrado-y-del-rectangulo-primaria","palabras":["área","superficie","metros cuadrados","base por altura"],"contenido":{
-"idea":"Si quieres cubrir el piso con mosaicos cuadrados, el área te dice cuántos caben. El área mide lo de adentro, la superficie.",
-"pizarron":"El **área** es la medida de la superficie.\n\n**Rectángulo**:\n\n$$A = b \\times h$$\n\nEjemplo: 6 cm de base y 4 cm de altura.\n\n$$A = 6 \\times 4 = 24 \\text{ cm}^2$$\n\nCaben 24 cuadritos de 1 cm por lado: 4 filas de 6.\n\n**Cuadrado**:\n\n$$A = l \\times l = l^2$$\n\nEjemplo: lado de 5 m. $A = 25$ m².\n\nEl resultado siempre va en **unidades cuadradas**: cm², m².\n\nNo confundas: el perímetro es el borde, en cm; el área es lo de adentro, en cm².",
-"truco":"Área adentro, con cuadritos; perímetro afuera, con hilo.",
-"practica":{"ejercicio":"Un cuarto mide 5 m de largo y 3 m de ancho. ¿Cuál es su área?","respuesta":"$A = 5 \\times 3 = 15$ m²."},
-"analogias":[{"titulo":"Los mosaicos","texto":"Cuenta cuántos mosaicos tiene una fila y cuántas filas hay. Multiplicar da el total: eso es el área."},{"titulo":"El pasto del jardín","texto":"El jardinero cobra por la superficie cortada, no por la orilla. Necesita saber el área del jardín."}],
-"ejercicios":[{"ejercicio":"Área de un cuadrado de 7 cm de lado.","respuesta":"49 cm²"},{"ejercicio":"Un rectángulo tiene área de 40 m² y base 8 m. ¿Cuánto mide su altura?","respuesta":"40 ÷ 8 = 5 m."},{"ejercicio":"Una cancha mide 28 m por 15 m. ¿Cuál es su área?","respuesta":"420 m²"}]}},
-{"nodo_id":"f4-065","titulo":"Área del triángulo","slug":"area-del-triangulo-primaria","palabras":["área","triángulo","base","altura","mitad"],"contenido":{
-"idea":"Si cortas un rectángulo por la diagonal, salen dos triángulos iguales. Por eso el área del triángulo es la mitad de la de su rectángulo.",
-"pizarron":"Fórmula:\n\n$$A = \\frac{b \\times h}{2}$$\n\n- $b$ es la base.\n- $h$ es la altura: la distancia recta desde la base hasta el vértice opuesto. Forma un ángulo de 90° con la base.\n\nEjemplo: base 8 cm, altura 5 cm.\n\n$$A = \\frac{8 \\times 5}{2} = \\frac{40}{2} = 20 \\text{ cm}^2$$\n\nError común: usar un lado inclinado como altura. La altura siempre es perpendicular a la base.\n\nFunciona con cualquier triángulo; puede ser que la altura caiga fuera del triángulo.",
-"truco":"Base por altura entre dos: la mitad del rectángulo.",
-"practica":{"ejercicio":"Calcula el área de un triángulo con base 10 m y altura 6 m.","respuesta":"$A = \\frac{10 \\times 6}{2} = 30$ m²."},
-"analogias":[{"titulo":"El sándwich cortado","texto":"Cortas un sándwich cuadrado en diagonal y salen dos triángulos iguales. Cada uno es la mitad."},{"titulo":"La vela del barco","texto":"Para saber cuánta tela usa una vela triangular se calcula el área del rectángulo y se parte a la mitad."}],
-"ejercicios":[{"ejercicio":"Base 12 cm y altura 7 cm. ¿Cuál es el área?","respuesta":"42 cm²"},{"ejercicio":"Base 9 m y altura 4 m. ¿Cuál es el área?","respuesta":"18 m²"},{"ejercicio":"Un triángulo tiene área 30 cm² y base 10 cm. ¿Cuál es su altura?","respuesta":"$h = \\frac{2 \\times 30}{10} = 6$ cm."}]}}
+{
+"nodo_id": "f4-058",
+"titulo": "Tipos de cuadriláteros",
+"slug": "tipos-de-cuadrilateros-primaria",
+"palabras": [
+"cuadrado",
+"rectángulo",
+"rombo",
+"romboide",
+"trapecio",
+"trapezoide"
+],
+"contenido": {
+"idea": "Los cuadriláteros son una familia de figuras de cuatro lados. Se parecen, pero cada integrante tiene una característica que lo distingue.",
+"pizarron": "**Qué es:** un cuadrilátero es una figura de 4 lados, y sus tipos dependen de sus lados y ángulos.\n\nUn **cuadrilátero** tiene 4 lados y 4 ángulos. Sus ángulos suman 360°.\n\n| Figura | Características |\n|---|---|\n| Cuadrado | 4 lados iguales y 4 ángulos rectos |\n| Rectángulo | Lados opuestos iguales y 4 ángulos rectos |\n| Rombo | 4 lados iguales, sin ángulos rectos |\n| Romboide | Lados opuestos iguales, sin ángulos rectos |\n| Trapecio | Solo un par de lados paralelos |\n| Trapezoide | Ningún lado paralelo |\n\n**Paralelogramos**: tienen dos pares de lados paralelos. Son cuadrado, rectángulo, rombo y romboide.\n\nTodo cuadrado es rectángulo, pero no todo rectángulo es cuadrado.",
+"truco": "Rombo es un cuadrado aplastado; romboide, un rectángulo aplastado.",
+"practica": {
+"ejercicio": "¿Qué figura tiene 4 lados iguales, pero sin ángulos rectos?",
+"respuesta": "El rombo."
+},
+"analogias": [
+{
+"titulo": "La familia de cuatro patas",
+"texto": "Perros, gatos y conejos tienen cuatro patas, pero son distintos. Todos los cuadriláteros tienen cuatro lados, pero cada uno tiene su forma."
+},
+{
+"titulo": "La caja aplastada",
+"texto": "Si empujas la orilla de un marco cuadrado, se inclina y se vuelve rombo. Los lados miden igual, pero cambian los ángulos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántos pares de lados paralelos tiene un trapecio?",
+"respuesta": "Un par."
+},
+{
+"ejercicio": "Tres ángulos de un cuadrilátero suman 270°. ¿Cuánto mide el cuarto?",
+"respuesta": "360 - 270 = 90°."
+},
+{
+"ejercicio": "¿Es un cuadrado un paralelogramo?",
+"respuesta": "Sí, porque tiene dos pares de lados paralelos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-058",
+"titulo": "Rectas paralelas y perpendiculares",
+"slug": "rectas-paralelas-y-perpendiculares-primaria",
+"palabras": [
+"paralelas",
+"perpendiculares",
+"secantes",
+"rectas",
+"escuadra"
+],
+"contenido": {
+"idea": "Las vías del tren nunca se tocan: son paralelas. Las calles que forman una esquina en cruz son perpendiculares. Cada par de líneas se relaciona de una manera.",
+"pizarron": "**Qué es:** las rectas paralelas nunca se tocan. Las perpendiculares se cruzan formando ángulos rectos.\n\nTipos de rectas:\n\n- **Paralelas**: siempre tienen la misma distancia y nunca se cruzan. Se escribe $a \\parallel b$.\n- **Secantes**: se cruzan en un punto.\n- **Perpendiculares**: secantes que forman 4 ángulos rectos. Se escribe $a \\perp b$.\n\nCon regla y escuadra:\n\n- Para una **paralela**, desliza la escuadra sobre la regla sin moverla y traza.\n- Para una **perpendicular**, apoya el lado recto de la escuadra en la línea y traza por el otro lado.\n\nEn un cuadrado, los lados opuestos son paralelos y los lados vecinos son perpendiculares.",
+"truco": "La doble l de paralela parece dos líneas que nunca se tocan.",
+"practica": {
+"ejercicio": "Dos calles se cruzan formando esquinas rectas. ¿Qué tipo de rectas son?",
+"respuesta": "Perpendiculares."
+},
+"analogias": [
+{
+"titulo": "Los renglones del cuaderno",
+"texto": "Los renglones son paralelos y el margen rojo los corta de forma perpendicular. Tu cuaderno tiene ambas."
+},
+{
+"titulo": "La carretera y el cruce",
+"texto": "Dos carriles van lado a lado: son paralelos. Un puente que los cruza formando esquina recta es perpendicular."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Las rectas paralelas se cruzan?",
+"respuesta": "No, nunca se cruzan."
+},
+{
+"ejercicio": "¿Qué ángulo forman dos rectas perpendiculares?",
+"respuesta": "90°."
+},
+{
+"ejercicio": "En una letra H, ¿cómo son los dos palos laterales?",
+"respuesta": "Paralelos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-061",
+"titulo": "Convertir metros, centímetros y kilómetros",
+"slug": "convertir-metros-centimetros-y-kilometros-primaria",
+"palabras": [
+"conversión",
+"kilómetro",
+"metro",
+"centímetro",
+"milímetro",
+"longitud"
+],
+"contenido": {
+"idea": "Un mismo camino se puede medir con pasos o con zancadas. Solo cambia el tamaño de la unidad: si la unidad es más chica, necesitas más.",
+"pizarron": "**La regla:** 1 km son 1000 m y 1 m son 100 cm. De grande a chico multiplicas; de chico a grande divides.\n\nEquivalencias:\n\n- 1 km = 1 000 m\n- 1 m = 100 cm\n- 1 cm = 10 mm\n\nRegla:\n\n- De unidad **grande a chica**: **multiplica**.\n- De unidad **chica a grande**: **divide**.\n\nEjemplos:\n\n- 3 km a metros: 3 × 1 000 = 3 000 m.\n- 250 cm a metros: 250 ÷ 100 = 2.5 m.\n- 4 m a milímetros: 4 × 100 × 10 = 4 000 mm.\n- 1 500 m a km: 1 500 ÷ 1 000 = 1.5 km.\n\nAntes de responder pregunta: ¿debe salir un número mayor o menor? En unidades chicas salen números más grandes.",
+"truco": "Baja de unidad, multiplica. Sube de unidad, divide.",
+"practica": {
+"ejercicio": "¿Cuántos metros son 2.5 km?",
+"respuesta": "2.5 × 1 000 = 2 500 m."
+},
+"analogias": [
+{
+"titulo": "Cambio de monedas",
+"texto": "Un billete de 100 pesos son 100 monedas de 1. El valor no cambia; cambia cuántas piezas necesitas."
+},
+{
+"titulo": "La escalera de unidades",
+"texto": "Imagina escalones: km, m, cm, mm. Al bajar multiplicas y al subir divides."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 7 m a cm.",
+"respuesta": "700 cm"
+},
+{
+"ejercicio": "Convierte 3 200 m a km.",
+"respuesta": "3.2 km"
+},
+{
+"ejercicio": "Un lápiz mide 18 cm. ¿Cuántos milímetros son?",
+"respuesta": "180 mm"
+}
+]
+}
+},
+{
+"nodo_id": "f4-061",
+"titulo": "Convertir kilogramos y gramos",
+"slug": "convertir-kilogramos-y-gramos-primaria",
+"palabras": [
+"conversión",
+"kilogramo",
+"gramo",
+"tonelada",
+"masa"
+],
+"contenido": {
+"idea": "Una bolsa de un kilo tiene mil gramos dentro. Cambiar de unidad es decir lo mismo con otro tamaño de medida.",
+"pizarron": "**La regla:** 1 kg son 1000 g. De kilogramos a gramos multiplicas por 1000; de gramos a kilogramos divides entre 1000.\n\nEquivalencias:\n\n- 1 tonelada (t) = 1 000 kg\n- 1 kg = 1 000 g\n- 1 g = 1 000 mg\n\nRegla:\n\n- De kilos a gramos: **multiplica por 1 000**.\n- De gramos a kilos: **divide entre 1 000**.\n\nEjemplos:\n\n- 2.5 kg = 2 500 g\n- 750 g = 0.75 kg\n- 3 t = 3 000 kg\n- 1/4 kg = 250 g\n\nEjemplo de problema: compras 750 g de jamón y 500 g de queso. Total: 1 250 g = 1.25 kg.\n\nPara sumar pesos, primero convierte todo a la misma unidad.",
+"truco": "Kilo significa mil: kilogramo, mil gramos; kilómetro, mil metros.",
+"practica": {
+"ejercicio": "¿Cuántos gramos son 3.2 kg?",
+"respuesta": "3 200 g"
+},
+"analogias": [
+{
+"titulo": "Los bultos de la bodega",
+"texto": "Un costal de 50 kg son 50 000 gramos. Es la misma cantidad, solo que contada con una unidad más chica."
+},
+{
+"titulo": "El ingrediente de la receta",
+"texto": "La receta pide 200 g de azúcar. Si la bolsa dice 1 kg, conviertes para saber cuántas veces alcanza."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 4 000 g a kg.",
+"respuesta": "4 kg"
+},
+{
+"ejercicio": "Convierte 0.5 kg a g.",
+"respuesta": "500 g"
+},
+{
+"ejercicio": "Un camión lleva 2.5 t. ¿Cuántos kilogramos son?",
+"respuesta": "2 500 kg"
+}
+]
+}
+},
+{
+"nodo_id": "f4-061",
+"titulo": "Convertir litros y mililitros",
+"slug": "convertir-litros-y-mililitros-primaria",
+"palabras": [
+"conversión",
+"litro",
+"mililitro",
+"capacidad",
+"centímetro cúbico"
+],
+"contenido": {
+"idea": "Un litro de agua es igual que mil gotitas de medida. El agua no cambia, pero la contamos con una unidad más pequeña.",
+"pizarron": "**La regla:** 1 L son 1000 mL. De litros a mililitros multiplicas por 1000; de mililitros a litros divides entre 1000.\n\nEquivalencia clave:\n\n**1 L = 1 000 mL**\n\nRegla:\n\n- De litros a mililitros: **multiplica por 1 000**.\n- De mililitros a litros: **divide entre 1 000**.\n\nEjemplos:\n\n- 2 L = 2 000 mL\n- 1.5 L = 1 500 mL\n- 750 mL = 0.75 L\n- 1/2 L = 500 mL\n\n**Problema**: Una jarra de 2 L se sirve en vasos de 250 mL. ¿Cuántos vasos salen?\n\n- 2 L = 2 000 mL\n- 2 000 ÷ 250 = **8 vasos**.\n\nUn mililitro ocupa lo mismo que un centímetro cúbico: 1 mL = 1 cm³.",
+"truco": "Mili significa milésima: mil mililitros hacen un litro.",
+"practica": {
+"ejercicio": "¿Cuántos mililitros son 3.5 L?",
+"respuesta": "3 500 mL"
+},
+"analogias": [
+{
+"titulo": "El jarabe",
+"texto": "Un frasco de jarabe tiene mililitros marcados porque una dosis es poca. Medirlo en litros no sería práctico."
+},
+{
+"titulo": "La cubeta y el vaso",
+"texto": "Con una cubeta llenas muchos vasos. Es la misma agua, pero contada en recipientes más chicos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 6 000 mL a L.",
+"respuesta": "6 L"
+},
+{
+"ejercicio": "Convierte 0.25 L a mL.",
+"respuesta": "250 mL"
+},
+{
+"ejercicio": "Una botella de 1.5 L se reparte en vasos de 300 mL. ¿Cuántos vasos salen?",
+"respuesta": "1 500 ÷ 300 = 5 vasos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-065",
+"titulo": "Perímetro del cuadrado y del rectángulo",
+"slug": "perimetro-del-cuadrado-y-del-rectangulo-primaria",
+"palabras": [
+"perímetro",
+"contorno",
+"rectángulo",
+"cuadrado",
+"suma de lados"
+],
+"contenido": {
+"idea": "Si caminas alrededor de una cancha y regresas al mismo punto, recorriste su perímetro. El perímetro es la medida del borde, no de lo de adentro.",
+"pizarron": "**La regla:** el perímetro es la suma de todos los lados. Cuadrado: $P = 4l$. Rectángulo: $P = 2b + 2h$.\n\nEl **perímetro** es la suma de todos los lados de una figura.\n\n**Cuadrado** de lado $l$:\n\n$$P = 4 \\times l$$\n\nEjemplo: lado de 6 cm. $P = 4 \\times 6 = 24$ cm.\n\n**Rectángulo** de base $b$ y altura $h$:\n\n$$P = 2b + 2h$$\n\nEjemplo: base 8 m y altura 3 m. $P = 2(8) + 2(3) = 16 + 6 = 22$ m.\n\nEl resultado va en unidades de longitud: cm, m.\n\nUsos: poner cerca, cinta o marco alrededor de algo.",
+"truco": "Perímetro es el paseo por la orilla.",
+"practica": {
+"ejercicio": "Calcula el perímetro de un rectángulo de 10 cm por 4 cm.",
+"respuesta": "$2(10) + 2(4) = 28$ cm."
+},
+"analogias": [
+{
+"titulo": "El cerco del terreno",
+"texto": "Para saber cuánta malla necesitas, mides la orilla del terreno. Esa medida es el perímetro."
+},
+{
+"titulo": "El marco de la foto",
+"texto": "El marco rodea la foto. La longitud total de la madera del marco es el perímetro de la imagen."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un cuadrado mide 9 m por lado. ¿Cuál es su perímetro?",
+"respuesta": "36 m"
+},
+{
+"ejercicio": "Un terreno mide 20 m por 15 m. ¿Cuántos metros de cerca necesita?",
+"respuesta": "70 m"
+},
+{
+"ejercicio": "El perímetro de un cuadrado es 32 cm. ¿Cuánto mide cada lado?",
+"respuesta": "32 ÷ 4 = 8 cm."
+}
+]
+}
+},
+{
+"nodo_id": "f4-065",
+"titulo": "Área del cuadrado y del rectángulo",
+"slug": "area-del-cuadrado-y-del-rectangulo-primaria",
+"palabras": [
+"área",
+"superficie",
+"metros cuadrados",
+"base por altura"
+],
+"contenido": {
+"idea": "Si quieres cubrir el piso con mosaicos cuadrados, el área te dice cuántos caben. El área mide lo de adentro, la superficie.",
+"pizarron": "**La regla:** el área del cuadrado es $A = l \\times l$, y la del rectángulo es $A = b \\times h$.\n\nEl **área** es la medida de la superficie.\n\n**Rectángulo**:\n\n$$A = b \\times h$$\n\nEjemplo: 6 cm de base y 4 cm de altura.\n\n$$A = 6 \\times 4 = 24 \\text{ cm}^2$$\n\nCaben 24 cuadritos de 1 cm por lado: 4 filas de 6.\n\n**Cuadrado**:\n\n$$A = l \\times l = l^2$$\n\nEjemplo: lado de 5 m. $A = 25$ m².\n\nEl resultado siempre va en **unidades cuadradas**: cm², m².\n\nNo confundas: el perímetro es el borde, en cm; el área es lo de adentro, en cm².",
+"truco": "Área adentro, con cuadritos; perímetro afuera, con hilo.",
+"practica": {
+"ejercicio": "Un cuarto mide 5 m de largo y 3 m de ancho. ¿Cuál es su área?",
+"respuesta": "$A = 5 \\times 3 = 15$ m²."
+},
+"analogias": [
+{
+"titulo": "Los mosaicos",
+"texto": "Cuenta cuántos mosaicos tiene una fila y cuántas filas hay. Multiplicar da el total: eso es el área."
+},
+{
+"titulo": "El pasto del jardín",
+"texto": "El jardinero cobra por la superficie cortada, no por la orilla. Necesita saber el área del jardín."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Área de un cuadrado de 7 cm de lado.",
+"respuesta": "49 cm²"
+},
+{
+"ejercicio": "Un rectángulo tiene área de 40 m² y base 8 m. ¿Cuánto mide su altura?",
+"respuesta": "40 ÷ 8 = 5 m."
+},
+{
+"ejercicio": "Una cancha mide 28 m por 15 m. ¿Cuál es su área?",
+"respuesta": "420 m²"
+}
+]
+}
+},
+{
+"nodo_id": "f4-065",
+"titulo": "Área del triángulo",
+"slug": "area-del-triangulo-primaria",
+"palabras": [
+"área",
+"triángulo",
+"base",
+"altura",
+"mitad"
+],
+"contenido": {
+"idea": "Si cortas un rectángulo por la diagonal, salen dos triángulos iguales. Por eso el área del triángulo es la mitad de la de su rectángulo.",
+"pizarron": "**La regla:** el área del triángulo es base por altura entre dos: $A = \\frac{b \\times h}{2}$.\n\nFórmula:\n\n$$A = \\frac{b \\times h}{2}$$\n\n- $b$ es la base.\n- $h$ es la altura: la distancia recta desde la base hasta el vértice opuesto. Forma un ángulo de 90° con la base.\n\nEjemplo: base 8 cm, altura 5 cm.\n\n$$A = \\frac{8 \\times 5}{2} = \\frac{40}{2} = 20 \\text{ cm}^2$$\n\nError común: usar un lado inclinado como altura. La altura siempre es perpendicular a la base.\n\nFunciona con cualquier triángulo; puede ser que la altura caiga fuera del triángulo.",
+"truco": "Base por altura entre dos: la mitad del rectángulo.",
+"practica": {
+"ejercicio": "Calcula el área de un triángulo con base 10 m y altura 6 m.",
+"respuesta": "$A = \\frac{10 \\times 6}{2} = 30$ m²."
+},
+"analogias": [
+{
+"titulo": "El sándwich cortado",
+"texto": "Cortas un sándwich cuadrado en diagonal y salen dos triángulos iguales. Cada uno es la mitad."
+},
+{
+"titulo": "La vela del barco",
+"texto": "Para saber cuánta tela usa una vela triangular se calcula el área del rectángulo y se parte a la mitad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Base 12 cm y altura 7 cm. ¿Cuál es el área?",
+"respuesta": "42 cm²"
+},
+{
+"ejercicio": "Base 9 m y altura 4 m. ¿Cuál es el área?",
+"respuesta": "18 m²"
+},
+{
+"ejercicio": "Un triángulo tiene área 30 cm² y base 10 cm. ¿Cuál es su altura?",
+"respuesta": "$h = \\frac{2 \\times 30}{10} = 6$ cm."
+}
+]
+}
+}
 ]

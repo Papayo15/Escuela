@@ -1,65 +1,406 @@
 [
-{"nodo_id":"f4-042","titulo":"Números grandes y fracciones","slug":"numeros-grandes-y-fracciones","palabras":["millares","fracciones","numerador","denominador","comparar"],"contenido":{
-"idea":"Una pizza entera es un número entero. Si la cortas en 4 rebanadas iguales y tomas 3, tienes $\\frac{3}{4}$ de pizza. Y si juntas muchas pizzas, necesitas números grandes para contarlas. Unos números cuentan cosas completas y otros cuentan pedazos iguales.",
-"pizarron":"**Números grandes:** cada tres cifras formamos una clase.\n\n$$12\\,450 = 10\\,000 + 2\\,000 + 400 + 50$$\n\n**Fracciones:** $\\frac{a}{b}$ significa que el entero se parte en $b$ partes iguales y tomamos $a$.\n\n- $b$ es el **denominador**: en cuántas partes se divide.\n- $a$ es el **numerador**: cuántas partes se toman.\n\nCon el mismo denominador, compara numeradores: $\\frac{2}{5} < \\frac{4}{5}$.",
-"truco":"**N**umerador está arriba, como la **n**ata del café; **D**enominador está **d**ebajo.",
-"practica":{"ejercicio":"Un listón se corta en 8 partes iguales y usas 5. ¿Qué fracción usaste y qué fracción sobró?","respuesta":"Usaste $\\frac{5}{8}$ y sobraron $\\frac{3}{8}$, porque $\\frac{5}{8} + \\frac{3}{8} = 1$."},
-"analogias":[{"titulo":"Barra de chocolate","texto":"Una barra con 6 cuadritos iguales: si comes 2, comiste $\\frac{2}{6}$. El de abajo dice cuántos cuadritos tiene la barra; el de arriba, cuántos te comiste."},{"titulo":"Odómetro del coche","texto":"Un contador avanza como rueditas: cuando la de las unidades pasa de 9, la siguiente sube uno. Por eso los números crecen por lugares, aunque sean enormes."}],
-"ejercicios":[{"ejercicio":"Escribe con cifras: treinta mil doscientos cinco.","respuesta":"30 205."},{"ejercicio":"¿Qué es mayor, $\\frac{3}{7}$ o $\\frac{5}{7}$?","respuesta":"$\\frac{5}{7}$, porque tienen igual denominador y 5 es mayor que 3."},{"ejercicio":"¿Qué fracción de una docena son 3 huevos?","respuesta":"$\\frac{3}{12}$, que equivale a $\\frac{1}{4}$."}]}},
-{"nodo_id":"f4-046","titulo":"Suma y resta con números grandes y fracciones","slug":"suma-resta-numeros-grandes-fracciones","palabras":["llevar","pedir prestado","transformar","fracciones mismo denominador"],"contenido":{
-"idea":"Si en una alcancía tienes 12 monedas de 1 peso, las cambias por una de 10 y dos de 1: sigues con el mismo dinero, pero más ordenado. Eso es \"llevar\" en la suma. Pedir prestado en la resta es lo contrario: cambias una moneda de 10 por 10 de 1 para poder pagar.",
-"pizarron":"**Suma:** se acomoda por valor posicional.\n\n$$4\\,578 + 2\\,645 = 7\\,223$$\n\nDe derecha a izquierda: $8+5=13$ (dejas 3, llevas 1), $7+4+1=12$, $5+6+1=12$, $4+2+1=7$.\n\n**Resta con fracciones del mismo denominador:** se opera solo el numerador.\n\n$$\\frac{7}{9} - \\frac{2}{9} = \\frac{5}{9}$$",
-"truco":"En fracciones con igual denominador, **el de abajo no se mueve**: dice el tamaño del pedazo, y ese no cambia.",
-"practica":{"ejercicio":"Resuelve y comprueba: $6\\,003 - 1\\,478$.","respuesta":"$4\\,525$. Comprobación: $4\\,525 + 1\\,478 = 6\\,003$."},
-"analogias":[{"titulo":"Cambio en la tienda","texto":"Para pagar 7 pesos con una moneda de 10 sueltas el cambio. Al restar con ceros pasa igual: rompes una cifra grande en cifras pequeñas para poder quitar."},{"titulo":"Rebanadas iguales","texto":"Si tienes 2 rebanadas de pastel y te dan 3 más del mismo tamaño, tienes 5 rebanadas de ese tamaño. Por eso solo se suma el numerador."}],
-"ejercicios":[{"ejercicio":"$3\\,456 + 789$","respuesta":"$4\\,245$."},{"ejercicio":"$\\frac{3}{10} + \\frac{4}{10}$","respuesta":"$\\frac{7}{10}$."},{"ejercicio":"Un rollo tenía 1 200 m y se usaron 475 m. ¿Cuánto queda?","respuesta":"725 m."}]}},
-{"nodo_id":"f4-050","titulo":"Multiplicación y división con números de varias cifras","slug":"multiplicacion-division-varias-cifras","palabras":["multiplicador","cociente","residuo","algoritmo","dividendo"],"contenido":{
-"idea":"Para repartir 96 dulces entre 4 niños puedes dar 20 a cada uno y luego 4 más, en vez de uno por uno. Dividir es repartir en rondas grandes, y multiplicar varias cifras es partir el trabajo en pedazos fáciles y juntar los resultados.",
-"pizarron":"**Multiplicación por partes:**\n\n$$23 \\times 14 = 23 \\times 10 + 23 \\times 4 = 230 + 92 = 322$$\n\n**División con residuo:** $\\text{dividendo} = \\text{divisor} \\times \\text{cociente} + \\text{residuo}$\n\n$$47 \\div 6 = 7 \\text{ y sobran } 5, \\quad 6 \\times 7 + 5 = 47$$\n\nEl residuo siempre es menor que el divisor.",
-"truco":"Si el residuo es igual o mayor que el divisor, **aún te cabía otro reparto**: aumenta el cociente.",
-"practica":{"ejercicio":"Hay 130 alumnos y cada camión lleva 40. ¿Cuántos camiones se necesitan?","respuesta":"$130 \\div 40 = 3$ y sobran 10. Como nadie se queda, se necesitan 4 camiones."},
-"analogias":[{"titulo":"Rectángulo de cuadritos","texto":"$23 \\times 14$ es un rectángulo. Lo cortas en un pedazo de 23 por 10 y otro de 23 por 4, calculas cada uno y sumas las áreas."},{"titulo":"Dar por rondas","texto":"Repartir cartas de una en una tarda. Das 10 a cada quien, luego 5, luego las que queden. Cada ronda es una parte del cociente."}],
-"ejercicios":[{"ejercicio":"$125 \\times 8$","respuesta":"1 000."},{"ejercicio":"$84 \\div 7$","respuesta":"12."},{"ejercicio":"Identifica cociente y residuo de $29 \\div 4$.","respuesta":"Cociente 7 y residuo 1."}]}},
-{"nodo_id":"f4-054","titulo":"Prismas, pirámides y otros cuerpos","slug":"prismas-y-piramides","palabras":["prisma","pirámide","base","caras laterales","desarrollo plano"],"contenido":{
-"idea":"Si abres una caja de cartón y la aplanas, ves varias figuras pegadas. Dobladas otra vez forman un cuerpo. Los prismas son como edificios: la misma forma arriba y abajo. Las pirámides son como carpas: abajo una forma y las paredes terminan en una punta.",
-"pizarron":"- **Prisma:** dos bases iguales y paralelas; caras laterales rectangulares.\n- **Pirámide:** una base y caras laterales triangulares que se unen en un vértice.\n\nEl nombre viene de la base:\n\n| Cuerpo | Caras | Vértices | Aristas |\n|---|---|---|---|\n| Prisma triangular | 5 | 6 | 9 |\n| Pirámide cuadrangular | 5 | 5 | 8 |",
-"truco":"**Prisma = dos tapas; pirámide = una tapa y punta.** Mira la base y ya tienes el apellido.",
-"practica":{"ejercicio":"¿Cuántas caras tiene una pirámide de base hexagonal?","respuesta":"7 caras: 6 triángulos laterales y 1 base."},
-"analogias":[{"titulo":"Rebanar queso","texto":"Si cortas un prisma paralelo a su base, cada rebanada tiene la misma forma, como un queso rectangular. En una pirámide, las rebanadas se hacen más chicas al subir."},{"titulo":"Tienda de campaña","texto":"Una tienda clásica tiene base y palos que se juntan arriba, como pirámide. Una caja de pañuelos conserva la misma forma de abajo a arriba, como prisma."}],
-"ejercicios":[{"ejercicio":"¿Qué cuerpo tiene 2 bases cuadradas y 4 caras rectangulares?","respuesta":"Prisma cuadrangular."},{"ejercicio":"¿Cuántas aristas tiene una pirámide triangular?","respuesta":"6 aristas."},{"ejercicio":"¿Qué forma tienen las caras laterales de cualquier pirámide?","respuesta":"Triángulos."}]}},
-{"nodo_id":"f4-058","titulo":"Ángulos, triángulos y cuadriláteros","slug":"triangulos-cuadrilateros-angulos","palabras":["ángulo recto","agudo","obtuso","isósceles","equilátero","paralelas"],"contenido":{
-"idea":"Abre un libro poco a poco: entre las tapas se forma una abertura. Esa abertura es un ángulo. Una esquina de una hoja es un ángulo recto, y sirve como regla para decidir si otra abertura es más cerrada o más abierta.",
-"pizarron":"**Ángulos:** agudo (menos de $90°$), recto ($90°$), obtuso (más de $90°$).\n\n**Triángulos por sus lados:**\n\n- Equilátero: 3 lados iguales.\n- Isósceles: 2 lados iguales.\n- Escaleno: todos distintos.\n\n**Cuadriláteros:** cuadrado, rectángulo, rombo, romboide y trapecio.",
-"truco":"**Equi**látero tiene todo **igual**; **Isó**sceles solo dos iguales, como dos **isos** gemelos; **Escaleno** parece escalera: todos los escalones distintos.",
-"practica":{"ejercicio":"Un triángulo tiene lados de 5, 5 y 8 cm. ¿Cómo se llama?","respuesta":"Isósceles, porque tiene dos lados iguales."},
-"analogias":[{"titulo":"Tijeras","texto":"Las hojas de unas tijeras casi cerradas forman un ángulo agudo. Si las abres mucho, obtuso. El tamaño del ángulo es cuánto giraste, no qué tan largas son las hojas."},{"titulo":"Vías del tren","texto":"Las vías son paralelas: nunca se juntan. El cruce de dos calles en esquina forma rectas perpendiculares, con ángulos rectos."}],
-"ejercicios":[{"ejercicio":"Un ángulo mide $120°$. ¿De qué tipo es?","respuesta":"Obtuso."},{"ejercicio":"¿Qué cuadrilátero tiene solo un par de lados paralelos?","respuesta":"El trapecio."},{"ejercicio":"¿Cuánto mide cada ángulo de un cuadrado?","respuesta":"$90°$."}]}},
-{"nodo_id":"f4-061","titulo":"Conversiones de longitud, masa y capacidad","slug":"conversiones-longitud-masa-capacidad","palabras":["kilómetro","metro","miligramo","tonelada","convertir","medir"],"contenido":{
-"idea":"Una misma distancia se dice distinto según quién pregunte: \"un kilómetro\" o \"mil metros\". Es como pagar con un billete de 100 o con 10 monedas de 10: es lo mismo en distinto tamaño de unidad. Convertir es cambiar el billete sin cambiar la cantidad.",
-"pizarron":"Las unidades más usadas van de 1000 en 1000 o de 100 en 100:\n\n- $1\\text{ km} = 1000\\text{ m}$\n- $1\\text{ m} = 100\\text{ cm}$\n- $1\\text{ kg} = 1000\\text{ g}$\n- $1\\text{ L} = 1000\\text{ mL}$\n\nDe unidad grande a chica: **multiplica**. De chica a grande: **divide**.\n\n$$2.5\\text{ km} = 2.5 \\times 1000 = 2500\\text{ m}$$",
-"truco":"**Unidad más chica, número más grande.** Si bajas de tamaño, necesitas más piezas.",
-"practica":{"ejercicio":"Una bolsa pesa 750 g. ¿Cuántas bolsas se necesitan para tener 3 kg?","respuesta":"$3\\text{ kg} = 3000\\text{ g}$ y $3000 \\div 750 = 4$. Se necesitan 4 bolsas."},
-"analogias":[{"titulo":"Vasos y garrafón","texto":"Un garrafón llena muchos vasos. Si mides en vasos el número sale grande; en garrafones sale chico. El agua es la misma."},{"titulo":"Pasos y zancadas","texto":"Cruzar un patio son 60 pasos chicos o 30 zancadas. Cuanto más grande es tu medida, menos veces la repites."}],
-"ejercicios":[{"ejercicio":"Convierte 4 500 m a kilómetros.","respuesta":"4.5 km."},{"ejercicio":"Convierte 2 L a mililitros.","respuesta":"2 000 mL."},{"ejercicio":"¿Cuántos centímetros son 3.2 m?","respuesta":"320 cm."}]}},
-{"nodo_id":"f4-065","titulo":"Perímetro y área","slug":"perimetro-y-area","palabras":["contorno","superficie","rectángulo","centímetros cuadrados"],"contenido":{
-"idea":"Imagina un jardín. Para cercarlo necesitas saber cuánto mide la orilla: eso es el perímetro. Para cubrirlo con pasto necesitas saber cuánto mide lo de adentro: eso es el área. Cerca por fuera, pasto por dentro.",
-"pizarron":"En un rectángulo de base $b$ y altura $h$:\n\n$$P = 2b + 2h \\qquad A = b \\times h$$\n\nEjemplo con $b = 6$ m y $h = 4$ m:\n\n1. $P = 12 + 8 = 20$ m\n2. $A = 6 \\times 4 = 24\\text{ m}^2$\n\nEl perímetro se mide en metros y el área en metros cuadrados: cuadritos de 1 m por lado.",
-"truco":"**Perímetro = PERÍmetro de la PERIferia** (la orilla). **Área = Adentro.**",
-"practica":{"ejercicio":"Un cuadrado mide 5 cm por lado. Calcula su perímetro y su área.","respuesta":"$P = 4 \\times 5 = 20$ cm y $A = 5 \\times 5 = 25\\text{ cm}^2$."},
-"analogias":[{"titulo":"Hormiga y losetas","texto":"Una hormiga que camina por la orilla de un piso recorre el perímetro. Las losetas que cubren el piso miden el área."},{"titulo":"Marco y cuadro","texto":"El marco de una foto rodea la imagen: es como el perímetro. La imagen que queda adentro es el área."}],
-"ejercicios":[{"ejercicio":"Un rectángulo mide 8 m por 3 m. ¿Cuál es su área?","respuesta":"$24\\text{ m}^2$."},{"ejercicio":"¿Cuántos metros de malla rodean un terreno de 10 m por 7 m?","respuesta":"34 m."},{"ejercicio":"Un cuadrado tiene perímetro de 36 cm. ¿Cuánto mide su lado?","respuesta":"9 cm."}]}},
-{"nodo_id":"f4-069","titulo":"Duración de eventos y lectura del tiempo","slug":"duracion-eventos-tiempo","palabras":["horarios","24 horas","duración","calendario","minutos"],"contenido":{
-"idea":"Para saber cuánto dura una película haces como si caminaras sobre el reloj: desde la hora en que empieza hasta la hora en que termina, contando los pasos. Primero das pasos grandes hasta la hora en punto, y después los minutos que faltan.",
-"pizarron":"Una película empieza a las 16:40 y termina a las 18:25.\n\n1. De 16:40 a 17:00 hay 20 min.\n2. De 17:00 a 18:00 hay 60 min.\n3. De 18:00 a 18:25 hay 25 min.\n\n$$20 + 60 + 25 = 105 \\text{ min} = 1\\text{ h } 45 \\text{ min}$$\n\nEn formato de 24 horas, después de las 12:00 se suma 12: las 3 p. m. son las 15:00.",
-"truco":"**Salta a la hora en punto primero.** Sumar tiempo es fácil cuando llegas a un número redondo.",
-"practica":{"ejercicio":"Sales a las 7:35 y llegas a las 8:10. ¿Cuánto tardaste?","respuesta":"25 min hasta las 8:00 y 10 min más: 35 minutos."},
-"analogias":[{"titulo":"Escalones del reloj","texto":"Subir de 16:40 a 18:25 es como una escalera con descansos: llegas al descanso de las 17:00 y sigues desde ahí."},{"titulo":"Vuelta al mundo de la manecilla","texto":"Cada vuelta del minutero es una hora. Cuenta vueltas completas y luego el pedacito que sobra."}],
-"ejercicios":[{"ejercicio":"¿Qué hora es 8:00 p. m. en formato de 24 horas?","respuesta":"20:00."},{"ejercicio":"¿Cuántos minutos son 2 horas y media?","respuesta":"150 minutos."},{"ejercicio":"Un taller dura de 9:15 a 11:00. ¿Cuánto dura?","respuesta":"1 h 45 min."}]}},
-{"nodo_id":"f4-073","titulo":"Gráficas, tablas y moda","slug":"graficas-tablas-moda","palabras":["gráfica de barras","pictograma","moda","frecuencia"],"contenido":{
-"idea":"Una gráfica es una foto de muchos datos. En vez de leer 30 respuestas, miras las barras y sabes cuál ganó. La moda es exactamente eso: lo que más se repite, igual que la ropa que usa casi todo el mundo se llama \"de moda\".",
-"pizarron":"**Frecuencia:** cuántas veces aparece un dato.\n\nDatos: 3, 5, 3, 2, 3, 5.\n\n| Dato | Frecuencia |\n|---|---|\n| 2 | 1 |\n| 3 | 3 |\n| 5 | 2 |\n\nLa **moda** es 3, porque tiene la mayor frecuencia. En una gráfica de barras, la barra más alta muestra la moda.",
-"truco":"**Moda = lo que más se usa.** Busca el dato más repetido, no el más grande.",
-"practica":{"ejercicio":"Halla la moda de: 7, 8, 8, 9, 8, 7.","respuesta":"8, porque aparece 3 veces."},
-"analogias":[{"titulo":"Fila de votos","texto":"Si cada voto es una persona formada detrás de su opción, la fila más larga es la moda. La gráfica de barras son esas filas paradas."},{"titulo":"Refresco más vendido","texto":"Una tienda no necesita promediar sabores: le interesa cuál se vende más para pedir más de ese. Esa es la moda."}],
-"ejercicios":[{"ejercicio":"¿Puede la moda ser una palabra, como \"azul\"?","respuesta":"Sí: la moda funciona con datos que no son números."},{"ejercicio":"Datos: 1, 1, 2, 2, 3. ¿Cuál es la moda?","respuesta":"Hay dos modas: 1 y 2."},{"ejercicio":"En una gráfica, lunes 4, martes 7, miércoles 5. ¿Qué día tuvo más?","respuesta":"Martes."}]}}
+{
+"nodo_id": "f4-042",
+"titulo": "Números grandes y fracciones",
+"slug": "numeros-grandes-y-fracciones",
+"palabras": [
+"millares",
+"fracciones",
+"numerador",
+"denominador",
+"comparar"
+],
+"contenido": {
+"idea": "Una pizza entera es un número entero. Si la cortas en 4 rebanadas iguales y tomas 3, tienes $\\frac{3}{4}$ de pizza. Y si juntas muchas pizzas, necesitas números grandes para contarlas. Unos números cuentan cosas completas y otros cuentan pedazos iguales.",
+"pizarron": "**La regla:** los números grandes se leen por grupos de tres cifras. Una fracción $\\frac{a}{b}$ dice que partes algo en $b$ pedazos iguales y tomas $a$ de ellos.\n\n**Números grandes:** separa con un espacio cada tres cifras, de derecha a izquierda.\n\n$$12\\,450 = 10\\,000 + 2\\,000 + 400 + 50$$\n\n**Fracciones:** imagina una pizza.\n\nEl **denominador** es el número de abajo. Dice en cuántos pedazos la partes.\n\nEl **numerador** es el número de arriba. Dice cuántos pedazos tomas.\n\n$\\frac{3}{4}$ significa: la parto en 4 y tomo 3.\n\n**Para comparar** con el mismo denominador, gana el numerador mayor: $\\frac{2}{5} < \\frac{4}{5}$.",
+"truco": "**N**umerador está arriba, como la **n**ata del café; **D**enominador está **d**ebajo.",
+"practica": {
+"ejercicio": "Un listón se corta en 8 partes iguales y usas 5. ¿Qué fracción usaste y qué fracción sobró?",
+"respuesta": "Usaste $\\frac{5}{8}$ y sobraron $\\frac{3}{8}$, porque $\\frac{5}{8} + \\frac{3}{8} = 1$."
+},
+"analogias": [
+{
+"titulo": "Barra de chocolate",
+"texto": "Una barra con 6 cuadritos iguales: si comes 2, comiste $\\frac{2}{6}$. El de abajo dice cuántos cuadritos tiene la barra; el de arriba, cuántos te comiste."
+},
+{
+"titulo": "Odómetro del coche",
+"texto": "Un contador avanza como rueditas: cuando la de las unidades pasa de 9, la siguiente sube uno. Por eso los números crecen por lugares, aunque sean enormes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe con cifras: treinta mil doscientos cinco.",
+"respuesta": "30 205."
+},
+{
+"ejercicio": "¿Qué es mayor, $\\frac{3}{7}$ o $\\frac{5}{7}$?",
+"respuesta": "$\\frac{5}{7}$, porque tienen igual denominador y 5 es mayor que 3."
+},
+{
+"ejercicio": "¿Qué fracción de una docena son 3 huevos?",
+"respuesta": "$\\frac{3}{12}$, que equivale a $\\frac{1}{4}$."
+}
+]
+}
+},
+{
+"nodo_id": "f4-046",
+"titulo": "Suma y resta con números grandes y fracciones",
+"slug": "suma-resta-numeros-grandes-fracciones",
+"palabras": [
+"llevar",
+"pedir prestado",
+"transformar",
+"fracciones mismo denominador"
+],
+"contenido": {
+"idea": "Si en una alcancía tienes 12 monedas de 1 peso, las cambias por una de 10 y dos de 1: sigues con el mismo dinero, pero más ordenado. Eso es \"llevar\" en la suma. Pedir prestado en la resta es lo contrario: cambias una moneda de 10 por 10 de 1 para poder pagar.",
+"pizarron": "**La regla:** los números grandes se suman de derecha a izquierda, en columnas. Las fracciones con el mismo denominador se suman o restan solo por arriba.\n\n**Ejemplo con números grandes:** $4\\,578 + 2\\,645$.\n\nUnidades: $8 + 5 = 13$. Dejas 3 y llevas 1.\n\nDecenas: $7 + 4 + 1 = 12$. Dejas 2 y llevas 1.\n\nCentenas: $5 + 6 + 1 = 12$. Dejas 2 y llevas 1.\n\nMillares: $4 + 2 + 1 = 7$.\n\nResultado: $7\\,223$.\n\n**Ejemplo con fracciones:** tienes 7 de 9 pedazos y te comes 2.\n\n$$\\frac{7}{9} - \\frac{2}{9} = \\frac{5}{9}$$\n\nEl 9 no cambia, porque los pedazos siguen siendo del mismo tamaño.",
+"truco": "En fracciones con igual denominador, **el de abajo no se mueve**: dice el tamaño del pedazo, y ese no cambia.",
+"practica": {
+"ejercicio": "Resuelve y comprueba: $6\\,003 - 1\\,478$.",
+"respuesta": "$4\\,525$. Comprobación: $4\\,525 + 1\\,478 = 6\\,003$."
+},
+"analogias": [
+{
+"titulo": "Cambio en la tienda",
+"texto": "Para pagar 7 pesos con una moneda de 10 sueltas el cambio. Al restar con ceros pasa igual: rompes una cifra grande en cifras pequeñas para poder quitar."
+},
+{
+"titulo": "Rebanadas iguales",
+"texto": "Si tienes 2 rebanadas de pastel y te dan 3 más del mismo tamaño, tienes 5 rebanadas de ese tamaño. Por eso solo se suma el numerador."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$3\\,456 + 789$",
+"respuesta": "$4\\,245$."
+},
+{
+"ejercicio": "$\\frac{3}{10} + \\frac{4}{10}$",
+"respuesta": "$\\frac{7}{10}$."
+},
+{
+"ejercicio": "Un rollo tenía 1 200 m y se usaron 475 m. ¿Cuánto queda?",
+"respuesta": "725 m."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Multiplicación y división con números de varias cifras",
+"slug": "multiplicacion-division-varias-cifras",
+"palabras": [
+"multiplicador",
+"cociente",
+"residuo",
+"algoritmo",
+"dividendo"
+],
+"contenido": {
+"idea": "Para repartir 96 dulces entre 4 niños puedes dar 20 a cada uno y luego 4 más, en vez de uno por uno. Dividir es repartir en rondas grandes, y multiplicar varias cifras es partir el trabajo en pedazos fáciles y juntar los resultados.",
+"pizarron": "**La regla:** para multiplicar números grandes, los separas en partes fáciles. Al dividir, siempre debe cumplirse: dividendo = divisor × cociente + residuo.\n\n**Multiplicar por partes:** $23 \\times 14$.\n\nParte el 14 en 10 y 4.\n\n$23 \\times 10 = 230$\n\n$23 \\times 4 = 92$\n\n$230 + 92 = 322$\n\n**Dividir con residuo:** repartes 47 dulces entre 6 niños.\n\nA cada uno le tocan 7, y sobran 5.\n\nComprueba: $6 \\times 7 + 5 = 47$.\n\nLo que sobra se llama **residuo**, y siempre es menor que el divisor. Si no, todavía podrías repartir más.",
+"truco": "Si el residuo es igual o mayor que el divisor, **aún te cabía otro reparto**: aumenta el cociente.",
+"practica": {
+"ejercicio": "Hay 130 alumnos y cada camión lleva 40. ¿Cuántos camiones se necesitan?",
+"respuesta": "$130 \\div 40 = 3$ y sobran 10. Como nadie se queda, se necesitan 4 camiones."
+},
+"analogias": [
+{
+"titulo": "Rectángulo de cuadritos",
+"texto": "$23 \\times 14$ es un rectángulo. Lo cortas en un pedazo de 23 por 10 y otro de 23 por 4, calculas cada uno y sumas las áreas."
+},
+{
+"titulo": "Dar por rondas",
+"texto": "Repartir cartas de una en una tarda. Das 10 a cada quien, luego 5, luego las que queden. Cada ronda es una parte del cociente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$125 \\times 8$",
+"respuesta": "1 000."
+},
+{
+"ejercicio": "$84 \\div 7$",
+"respuesta": "12."
+},
+{
+"ejercicio": "Identifica cociente y residuo de $29 \\div 4$.",
+"respuesta": "Cociente 7 y residuo 1."
+}
+]
+}
+},
+{
+"nodo_id": "f4-054",
+"titulo": "Prismas, pirámides y otros cuerpos",
+"slug": "prismas-y-piramides",
+"palabras": [
+"prisma",
+"pirámide",
+"base",
+"caras laterales",
+"desarrollo plano"
+],
+"contenido": {
+"idea": "Si abres una caja de cartón y la aplanas, ves varias figuras pegadas. Dobladas otra vez forman un cuerpo. Los prismas son como edificios: la misma forma arriba y abajo. Las pirámides son como carpas: abajo una forma y las paredes terminan en una punta.",
+"pizarron": "**Qué es:** un prisma tiene dos bases iguales, una arriba y otra abajo, y caras laterales rectangulares. Una pirámide tiene una base y caras triangulares que se juntan en una punta.\n\n**Prisma:** como una caja de cereal.\n\n**Pirámide:** como las de Teotihuacán.\n\nEl nombre viene de la forma de la base.\n\nBase con 3 lados: triangular.\n\nBase con 4 lados: cuadrangular.\n\n| Cuerpo | Caras | Vértices | Aristas |\n|---|---|---|---|\n| Prisma triangular | 5 | 6 | 9 |\n| Pirámide cuadrangular | 5 | 5 | 8 |",
+"truco": "**Prisma = dos tapas; pirámide = una tapa y punta.** Mira la base y ya tienes el apellido.",
+"practica": {
+"ejercicio": "¿Cuántas caras tiene una pirámide de base hexagonal?",
+"respuesta": "7 caras: 6 triángulos laterales y 1 base."
+},
+"analogias": [
+{
+"titulo": "Rebanar queso",
+"texto": "Si cortas un prisma paralelo a su base, cada rebanada tiene la misma forma, como un queso rectangular. En una pirámide, las rebanadas se hacen más chicas al subir."
+},
+{
+"titulo": "Tienda de campaña",
+"texto": "Una tienda clásica tiene base y palos que se juntan arriba, como pirámide. Una caja de pañuelos conserva la misma forma de abajo a arriba, como prisma."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué cuerpo tiene 2 bases cuadradas y 4 caras rectangulares?",
+"respuesta": "Prisma cuadrangular."
+},
+{
+"ejercicio": "¿Cuántas aristas tiene una pirámide triangular?",
+"respuesta": "6 aristas."
+},
+{
+"ejercicio": "¿Qué forma tienen las caras laterales de cualquier pirámide?",
+"respuesta": "Triángulos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-058",
+"titulo": "Ángulos, triángulos y cuadriláteros",
+"slug": "triangulos-cuadrilateros-angulos",
+"palabras": [
+"ángulo recto",
+"agudo",
+"obtuso",
+"isósceles",
+"equilátero",
+"paralelas"
+],
+"contenido": {
+"idea": "Abre un libro poco a poco: entre las tapas se forma una abertura. Esa abertura es un ángulo. Una esquina de una hoja es un ángulo recto, y sirve como regla para decidir si otra abertura es más cerrada o más abierta.",
+"pizarron": "**Qué es:** un ángulo es la abertura entre dos líneas. Un triángulo tiene 3 lados. Un cuadrilátero tiene 4 lados.\n\n**Ángulos:** imagina una puerta que se abre.\n\n- **Agudo:** poco abierta, menos de $90°$.\n- **Recto:** como la esquina de una hoja, $90°$.\n- **Obtuso:** muy abierta, más de $90°$.\n\n**Triángulos según sus lados:**\n\n- **Equilátero:** 3 lados iguales.\n- **Isósceles:** 2 lados iguales.\n- **Escaleno:** todos distintos.\n\n**Cuadriláteros:** cuadrado, rectángulo, rombo, romboide y trapecio.",
+"truco": "**Equi**látero tiene todo **igual**; **Isó**sceles solo dos iguales, como dos **isos** gemelos; **Escaleno** parece escalera: todos los escalones distintos.",
+"practica": {
+"ejercicio": "Un triángulo tiene lados de 5, 5 y 8 cm. ¿Cómo se llama?",
+"respuesta": "Isósceles, porque tiene dos lados iguales."
+},
+"analogias": [
+{
+"titulo": "Tijeras",
+"texto": "Las hojas de unas tijeras casi cerradas forman un ángulo agudo. Si las abres mucho, obtuso. El tamaño del ángulo es cuánto giraste, no qué tan largas son las hojas."
+},
+{
+"titulo": "Vías del tren",
+"texto": "Las vías son paralelas: nunca se juntan. El cruce de dos calles en esquina forma rectas perpendiculares, con ángulos rectos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un ángulo mide $120°$. ¿De qué tipo es?",
+"respuesta": "Obtuso."
+},
+{
+"ejercicio": "¿Qué cuadrilátero tiene solo un par de lados paralelos?",
+"respuesta": "El trapecio."
+},
+{
+"ejercicio": "¿Cuánto mide cada ángulo de un cuadrado?",
+"respuesta": "$90°$."
+}
+]
+}
+},
+{
+"nodo_id": "f4-061",
+"titulo": "Conversiones de longitud, masa y capacidad",
+"slug": "conversiones-longitud-masa-capacidad",
+"palabras": [
+"kilómetro",
+"metro",
+"miligramo",
+"tonelada",
+"convertir",
+"medir"
+],
+"contenido": {
+"idea": "Una misma distancia se dice distinto según quién pregunte: \"un kilómetro\" o \"mil metros\". Es como pagar con un billete de 100 o con 10 monedas de 10: es lo mismo en distinto tamaño de unidad. Convertir es cambiar el billete sin cambiar la cantidad.",
+"pizarron": "**La regla:** de una unidad grande a una chica, se multiplica. De una chica a una grande, se divide.\n\n**Qué quiere decir:** una cosa medida con unidades pequeñas necesita más números. Por eso el número crece.\n\n**Equivalencias:**\n\n- $1\\text{ km} = 1000\\text{ m}$\n- $1\\text{ m} = 100\\text{ cm}$\n- $1\\text{ kg} = 1000\\text{ g}$\n- $1\\text{ L} = 1000\\text{ mL}$\n\n**Ejemplo:** pasa 2.5 km a metros. Vas de grande a chico, entonces multiplicas.\n\n$$2.5 \\times 1000 = 2500\\text{ m}$$\n\n**Ejemplo:** pasa 300 cm a metros. Vas de chico a grande, entonces divides.\n\n$$300 \\div 100 = 3\\text{ m}$$",
+"truco": "**Unidad más chica, número más grande.** Si bajas de tamaño, necesitas más piezas.",
+"practica": {
+"ejercicio": "Una bolsa pesa 750 g. ¿Cuántas bolsas se necesitan para tener 3 kg?",
+"respuesta": "$3\\text{ kg} = 3000\\text{ g}$ y $3000 \\div 750 = 4$. Se necesitan 4 bolsas."
+},
+"analogias": [
+{
+"titulo": "Vasos y garrafón",
+"texto": "Un garrafón llena muchos vasos. Si mides en vasos el número sale grande; en garrafones sale chico. El agua es la misma."
+},
+{
+"titulo": "Pasos y zancadas",
+"texto": "Cruzar un patio son 60 pasos chicos o 30 zancadas. Cuanto más grande es tu medida, menos veces la repites."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 4 500 m a kilómetros.",
+"respuesta": "4.5 km."
+},
+{
+"ejercicio": "Convierte 2 L a mililitros.",
+"respuesta": "2 000 mL."
+},
+{
+"ejercicio": "¿Cuántos centímetros son 3.2 m?",
+"respuesta": "320 cm."
+}
+]
+}
+},
+{
+"nodo_id": "f4-065",
+"titulo": "Perímetro y área",
+"slug": "perimetro-y-area",
+"palabras": [
+"contorno",
+"superficie",
+"rectángulo",
+"centímetros cuadrados"
+],
+"contenido": {
+"idea": "Imagina un jardín. Para cercarlo necesitas saber cuánto mide la orilla: eso es el perímetro. Para cubrirlo con pasto necesitas saber cuánto mide lo de adentro: eso es el área. Cerca por fuera, pasto por dentro.",
+"pizarron": "**La regla:** el perímetro es la suma de los lados: $P = 2b + 2h$ en un rectángulo. El área es lo que cubre por dentro: $A = b \\times h$.\n\n**Perímetro:** es la cerca alrededor de un jardín.\n\n**Área:** es el pasto que cubre el jardín.\n\n$b$ es la base, lo ancho.\n\n$h$ es la altura, lo alto.\n\n**Ejemplo:** un jardín de 6 m por 4 m.\n\nPerímetro: $P = 12 + 8 = 20$ m.\n\nÁrea: $A = 6 \\times 4 = 24\\text{ m}^2$.\n\nEl perímetro se mide en metros. El área se mide en metros cuadrados, que son cuadritos de 1 m por lado.",
+"truco": "**Perímetro = PERÍmetro de la PERIferia** (la orilla). **Área = Adentro.**",
+"practica": {
+"ejercicio": "Un cuadrado mide 5 cm por lado. Calcula su perímetro y su área.",
+"respuesta": "$P = 4 \\times 5 = 20$ cm y $A = 5 \\times 5 = 25\\text{ cm}^2$."
+},
+"analogias": [
+{
+"titulo": "Hormiga y losetas",
+"texto": "Una hormiga que camina por la orilla de un piso recorre el perímetro. Las losetas que cubren el piso miden el área."
+},
+{
+"titulo": "Marco y cuadro",
+"texto": "El marco de una foto rodea la imagen: es como el perímetro. La imagen que queda adentro es el área."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un rectángulo mide 8 m por 3 m. ¿Cuál es su área?",
+"respuesta": "$24\\text{ m}^2$."
+},
+{
+"ejercicio": "¿Cuántos metros de malla rodean un terreno de 10 m por 7 m?",
+"respuesta": "34 m."
+},
+{
+"ejercicio": "Un cuadrado tiene perímetro de 36 cm. ¿Cuánto mide su lado?",
+"respuesta": "9 cm."
+}
+]
+}
+},
+{
+"nodo_id": "f4-069",
+"titulo": "Duración de eventos y lectura del tiempo",
+"slug": "duracion-eventos-tiempo",
+"palabras": [
+"horarios",
+"24 horas",
+"duración",
+"calendario",
+"minutos"
+],
+"contenido": {
+"idea": "Para saber cuánto dura una película haces como si caminaras sobre el reloj: desde la hora en que empieza hasta la hora en que termina, contando los pasos. Primero das pasos grandes hasta la hora en punto, y después los minutos que faltan.",
+"pizarron": "**La regla:** para saber cuánto dura algo, cuenta por tramos hasta llegar a horas completas.\n\n**Ejemplo:** una película empieza a las 16:40 y termina a las 18:25.\n\nDe 16:40 a 17:00 hay 20 minutos.\n\nDe 17:00 a 18:00 hay 60 minutos.\n\nDe 18:00 a 18:25 hay 25 minutos.\n\nSuma todo: $20 + 60 + 25 = 105$ minutos.\n\nEso es 1 hora con 45 minutos.\n\n**Reloj de 24 horas:** después del mediodía se suma 12. Las 3 de la tarde son las 15:00.",
+"truco": "**Salta a la hora en punto primero.** Sumar tiempo es fácil cuando llegas a un número redondo.",
+"practica": {
+"ejercicio": "Sales a las 7:35 y llegas a las 8:10. ¿Cuánto tardaste?",
+"respuesta": "25 min hasta las 8:00 y 10 min más: 35 minutos."
+},
+"analogias": [
+{
+"titulo": "Escalones del reloj",
+"texto": "Subir de 16:40 a 18:25 es como una escalera con descansos: llegas al descanso de las 17:00 y sigues desde ahí."
+},
+{
+"titulo": "Vuelta al mundo de la manecilla",
+"texto": "Cada vuelta del minutero es una hora. Cuenta vueltas completas y luego el pedacito que sobra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué hora es 8:00 p. m. en formato de 24 horas?",
+"respuesta": "20:00."
+},
+{
+"ejercicio": "¿Cuántos minutos son 2 horas y media?",
+"respuesta": "150 minutos."
+},
+{
+"ejercicio": "Un taller dura de 9:15 a 11:00. ¿Cuánto dura?",
+"respuesta": "1 h 45 min."
+}
+]
+}
+},
+{
+"nodo_id": "f4-073",
+"titulo": "Gráficas, tablas y moda",
+"slug": "graficas-tablas-moda",
+"palabras": [
+"gráfica de barras",
+"pictograma",
+"moda",
+"frecuencia"
+],
+"contenido": {
+"idea": "Una gráfica es una foto de muchos datos. En vez de leer 30 respuestas, miras las barras y sabes cuál ganó. La moda es exactamente eso: lo que más se repite, igual que la ropa que usa casi todo el mundo se llama \"de moda\".",
+"pizarron": "**Qué es:** la frecuencia es cuántas veces aparece un dato. La moda es el dato que más se repite.\n\n**Ejemplo:** estos son los hermanos de seis niños: 3, 5, 3, 2, 3, 5.\n\nCuenta cuántas veces sale cada número.\n\n| Dato | Frecuencia |\n|---|---|\n| 2 | 1 |\n| 3 | 3 |\n| 5 | 2 |\n\nEl 3 sale más veces. La **moda** es 3.\n\nEn una gráfica de barras, cada barra es un dato. La barra más alta muestra la moda.",
+"truco": "**Moda = lo que más se usa.** Busca el dato más repetido, no el más grande.",
+"practica": {
+"ejercicio": "Halla la moda de: 7, 8, 8, 9, 8, 7.",
+"respuesta": "8, porque aparece 3 veces."
+},
+"analogias": [
+{
+"titulo": "Fila de votos",
+"texto": "Si cada voto es una persona formada detrás de su opción, la fila más larga es la moda. La gráfica de barras son esas filas paradas."
+},
+{
+"titulo": "Refresco más vendido",
+"texto": "Una tienda no necesita promediar sabores: le interesa cuál se vende más para pedir más de ese. Esa es la moda."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Puede la moda ser una palabra, como \"azul\"?",
+"respuesta": "Sí: la moda funciona con datos que no son números."
+},
+{
+"ejercicio": "Datos: 1, 1, 2, 2, 3. ¿Cuál es la moda?",
+"respuesta": "Hay dos modas: 1 y 2."
+},
+{
+"ejercicio": "En una gráfica, lunes 4, martes 7, miércoles 5. ¿Qué día tuvo más?",
+"respuesta": "Martes."
+}
+]
+}
+}
 ]

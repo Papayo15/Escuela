@@ -1,72 +1,461 @@
 [
-{"nodo_id":"f6-007","titulo":"El espacio geográfico como construcción social","slug":"espacio-geografico-construccion-social-secundaria","palabras":["espacio geográfico","sociedad","territorio","paisaje","componentes"],"contenido":{
-"idea":"Imagina el patio de tu escuela: al inicio es solo terreno, pero entre todos le ponen canchas, árboles y reglas, y cambia con lo que hacen los alumnos.",
-"pizarron":"El espacio geográfico es el lugar donde ocurre la vida humana y resulta de la relación entre la naturaleza y la sociedad.\n\n1. Componentes naturales: relieve, clima, agua, suelo, flora y fauna.\n2. Componentes sociales: población, costumbres, formas de gobierno.\n3. Componentes económicos: cultivos, fábricas, comercio, transportes.\n4. Componentes culturales y políticos: idiomas, tradiciones, fronteras.\n\nEs una construcción social porque las personas lo transforman con sus decisiones y, a su vez, el espacio influye en cómo viven. Por eso cambia con el tiempo.",
-"truco":"Espacio = naturaleza + sociedad + tiempo.",
-"practica":{"ejercicio":"Menciona dos componentes naturales y dos sociales de tu localidad.","respuesta":"Ejemplo: natural, clima y río; social, población y fiestas del lugar. Cualquier ejemplo correcto de tu localidad es válido."},
-"analogias":[{"titulo":"Una casa compartida","texto":"Una casa cambia según quienes viven en ella: muebles, reglas y decoración. El espacio geográfico también lo moldean quienes lo habitan."},{"titulo":"Un cuaderno que se escribe","texto":"Cada generación escribe en el mismo cuaderno: calles, cultivos, edificios. Se pueden leer las huellas de épocas anteriores."}],
-"ejercicios":[{"ejercicio":"¿Por qué decimos que el espacio geográfico es una construcción social?","respuesta":"Porque las personas lo transforman con sus actividades y decisiones, y al hacerlo cambia con el tiempo."},{"ejercicio":"Clasifica: carretera, montaña, mercado. ¿Cuáles son naturales y cuáles sociales?","respuesta":"Montaña es natural; carretera y mercado son sociales o económicos."},{"ejercicio":"Describe un cambio que la gente haya provocado en un lugar que conozcas.","respuesta":"Respuesta abierta: debe indicar el lugar, el cambio (por ejemplo, un río entubado) y quién lo causó."}]}},
-{"nodo_id":"f6-011","titulo":"Categorías de análisis espacial y representaciones","slug":"categorias-analisis-espacial-representaciones-secundaria","palabras":["localización","distribución","mapas","croquis","planos","imágenes satelitales"],"contenido":{
-"idea":"Para encontrar un juguete en tu cuarto preguntas dónde está, cuántos hay, si son distintos y si se mueven. Esas preguntas son categorías para analizar un lugar.",
-"pizarron":"Las categorías de análisis espacial son preguntas con las que estudiamos un lugar:\n\n1. Localización: ¿dónde está? Se indica con coordenadas (latitud y longitud) o con referencias.\n2. Distribución: ¿cómo se reparten los fenómenos en el espacio?\n3. Diversidad: ¿qué diferencias hay entre lugares?\n4. Temporalidad y cambio: ¿cómo era antes y cómo es ahora?\n5. Relación: ¿qué conexiones hay entre elementos naturales y sociales?\n\nEl espacio se representa con mapas, planos, croquis, globos terráqueos, fotografías aéreas e imágenes de satélite. Los mapas usan escala, simbología y coordenadas para leerse con precisión.",
-"truco":"Dónde, cómo se reparte, qué cambia, qué se relaciona.",
-"practica":{"ejercicio":"¿Qué categoría usas al preguntar por qué hay más población cerca de un río?","respuesta":"Relación (entre un elemento natural, el río, y uno social, la población); también implica distribución."},
-"analogias":[{"titulo":"Lentes de colores","texto":"Cada categoría es un lente distinto: con uno ves dónde están las cosas, con otro cómo cambian. El mismo lugar se ve diferente."},{"titulo":"Fotos de tu álbum","texto":"Un mapa, un croquis y una foto satelital muestran el mismo sitio, como distintas fotos de un mismo recuerdo."}],
-"ejercicios":[{"ejercicio":"¿Qué categoría responde a la pregunta ¿dónde está Oaxaca?","respuesta":"Localización."},{"ejercicio":"Compara una foto de tu calle de hace 20 años con una actual. ¿Qué categoría usas?","respuesta":"Temporalidad y cambio."},{"ejercicio":"Nombra tres formas de representar el espacio geográfico.","respuesta":"Por ejemplo: mapa, croquis, plano, globo terráqueo o imagen satelital."}]}},
-{"nodo_id":"f6-015","titulo":"Aguas continentales y oceánicas","slug":"aguas-continentales-oceanicas-secundaria","palabras":["hidrosfera","océanos","ríos","lagos","acuíferos","glaciares","corrientes"],"contenido":{
-"idea":"Piensa en una alberca enorme con tapas pequeñas: casi toda el agua del planeta está en el mar, y solo una pizca es la que podemos beber.",
-"pizarron":"La hidrosfera es el conjunto de aguas de la Tierra.\n\n1. Aguas oceánicas: océanos y mares. Son saladas y forman cerca del 97 % del agua del planeta.\n2. Aguas continentales: ríos, lagos, lagunas, aguas subterráneas (acuíferos) y glaciares. La mayoría son dulces.\n3. Dentro del agua dulce, gran parte está congelada en glaciares y casquetes polares; una parte pequeña es líquida y accesible.\n\nDinámica: el ciclo del agua (evaporación, condensación, precipitación y escurrimiento) la mueve entre océanos y continentes. En el mar también hay corrientes (cálidas y frías) y mareas que influyen en el clima. Las cuencas hidrográficas son territorios donde el agua escurre hacia un mismo río, lago o mar.",
-"truco":"Mucha agua salada, poca dulce y casi toda congelada.",
-"practica":{"ejercicio":"Ordena el recorrido: precipitación, evaporación, condensación.","respuesta":"Evaporación, condensación, precipitación."},
-"analogias":[{"titulo":"El tinaco del barrio","texto":"El agua dulce disponible es como el tinaco: se llena con lluvia y si se gasta más rápido de lo que entra, se acaba."},{"titulo":"Un sistema de tuberías","texto":"Ríos, acuíferos y mares son tuberías conectadas: lo que ocurre en una parte llega a otra."}],
-"ejercicios":[{"ejercicio":"¿Qué tipo de agua es la mayor parte de la hidrosfera?","respuesta":"Agua salada oceánica."},{"ejercicio":"Menciona tres aguas continentales.","respuesta":"Por ejemplo: ríos, lagos y acuíferos (también glaciares)."},{"ejercicio":"¿Qué es una cuenca hidrográfica?","respuesta":"Un territorio donde el agua escurre hacia un mismo río, lago o mar."}]}},
-{"nodo_id":"f6-019","titulo":"Placas tectónicas, relieve, sismos y volcanes","slug":"placas-tectonicas-relieve-sismos-vulcanismo-secundaria","palabras":["placas tectónicas","sismos","terremotos","volcanes","montañas","subducción"],"contenido":{
-"idea":"Imagina una cáscara de huevo cocido agrietada: los pedazos se empujan y se frotan. Así se mueven las placas de la Tierra, muy despacio.",
-"pizarron":"La litosfera está dividida en placas tectónicas que se desplazan lentamente sobre el manto.\n\n1. Convergentes: chocan. Una puede hundirse bajo otra (subducción) o formar cordilleras.\n2. Divergentes: se separan y sale magma, formando dorsales oceánicas.\n3. Transformantes: se deslizan de lado y generan fallas.\n\nEfectos: en los bordes se acumula tensión; al liberarse ocurre un sismo. El magma que asciende produce volcanes. El choque levanta montañas.\n\nEn México interactúan, entre otras, las placas de Norteamérica, Cocos, Pacífico, Rivera y Caribe. La placa de Cocos se hunde bajo la de Norteamérica, y por eso hay muchos sismos en la costa del Pacífico y volcanes en el Eje Neovolcánico.",
-"truco":"Chocan, se separan o se deslizan: sismos y volcanes.",
-"practica":{"ejercicio":"¿Qué tipo de movimiento ocurre cuando una placa se hunde bajo otra?","respuesta":"Convergente, llamado subducción."},
-"analogias":[{"titulo":"Mesas empujadas","texto":"Si empujas dos mesas con mantel, el mantel se arruga: así se forman las montañas."},{"titulo":"Olla de frijoles","texto":"Las burbujas que revientan en una olla caliente se parecen al magma que sale por un volcán."}],
-"ejercicios":[{"ejercicio":"¿Qué tipo de límite forma dorsales oceánicas?","respuesta":"Divergente (las placas se separan)."},{"ejercicio":"¿Por qué hay tantos sismos en la costa del Pacífico mexicano?","respuesta":"Porque la placa de Cocos se hunde bajo la de Norteamérica y acumula tensión."},{"ejercicio":"Menciona un efecto de que dos placas choquen.","respuesta":"Formación de montañas, sismos o volcanes."}]}},
-{"nodo_id":"f6-023","titulo":"Riesgos de desastre y vulnerabilidad","slug":"riesgos-desastre-vulnerabilidad-secundaria","palabras":["riesgo","peligro","vulnerabilidad","protección civil","prevención","desastre natural"],"contenido":{
-"idea":"Una tormenta es un peligro, pero si tu casa tiene techo firme y tu familia sabe qué hacer, el riesgo es menor. Lo que importa es qué tan preparados estamos.",
-"pizarron":"Un fenómeno natural (sismo, huracán, inundación, erupción) se vuelve desastre cuando afecta a una población que no está preparada.\n\n1. Peligro: probabilidad de que ocurra el fenómeno.\n2. Vulnerabilidad: condiciones que hacen a la población más fácil de dañar (casas frágiles, pobreza, falta de información o de servicios).\n3. Riesgo: resulta de combinar peligro y vulnerabilidad.\n\nEl mismo huracán daña más donde hay viviendas precarias o asentamientos en zonas de inundación. Por eso los desastres no son solo naturales: también dependen de decisiones sociales.\n\nPrevención: mapas de riesgo, reglamentos de construcción, alertas, simulacros y planes familiares de protección civil.",
-"truco":"Riesgo = peligro + vulnerabilidad.",
-"practica":{"ejercicio":"Dos pueblos reciben el mismo huracán; uno tiene casas firmes y refugios. ¿Cuál tiene menos riesgo y por qué?","respuesta":"El de casas firmes y refugios, porque tiene menor vulnerabilidad."},
-"analogias":[{"titulo":"Paraguas","texto":"La lluvia es el peligro; sin paraguas te mojas más. La preparación reduce el daño."},{"titulo":"Casa de paja y casa de ladrillo","texto":"El mismo viento sopla en las dos, pero no les hace lo mismo."}],
-"ejercicios":[{"ejercicio":"Diferencia peligro y vulnerabilidad.","respuesta":"Peligro es la posibilidad del fenómeno; vulnerabilidad es qué tan susceptible es la población al daño."},{"ejercicio":"Menciona dos medidas de prevención ante sismos.","respuesta":"Simulacros y construcciones con normas antisísmicas (o plan familiar, rutas de evacuación)."},{"ejercicio":"Reflexiona: ¿qué riesgo hay en tu localidad y cómo se podría reducir?","respuesta":"Respuesta abierta; debe identificar un peligro, una vulnerabilidad y al menos una acción preventiva."}]}},
-{"nodo_id":"f6-027","titulo":"Población: crecimiento, distribución, composición y migración","slug":"poblacion-crecimiento-distribucion-migracion-secundaria","palabras":["demografía","natalidad","mortalidad","migración","pirámide de población","densidad"],"contenido":{
-"idea":"En tu salón entran niños nuevos, otros se cambian de escuela y algunos se sientan juntos en un rincón. Con la población de un país pasa algo parecido.",
-"pizarron":"La demografía estudia la población.\n\n1. Crecimiento: depende de la natalidad, la mortalidad y la migración. Crecimiento natural = natalidad − mortalidad.\n2. Distribución: cómo se reparte en el territorio. La densidad es habitantes entre kilómetros cuadrados.\n3. Composición: edad y sexo, que se representan en una pirámide de población.\n4. Migración: desplazamiento de personas. Emigrar es salir de un lugar; inmigrar es llegar a otro. Hay migración interna (dentro del país) e internacional.\n\nLa población se concentra donde hay agua, empleo, servicios y clima favorable. Las ciudades crecen en parte por la migración del campo a la ciudad.\n\nEjemplo: con natalidad de 20 por cada mil y mortalidad de 6 por cada mil, el crecimiento natural es de 14 por cada mil.",
-"truco":"Nacen, mueren, llegan y se van.",
-"practica":{"ejercicio":"Natalidad de 18 por mil y mortalidad de 5 por mil. ¿Cuál es el crecimiento natural?","respuesta":"18 − 5 = 13 por cada mil habitantes."},
-"analogias":[{"titulo":"Una alberca","texto":"Entra agua con nacimientos y llegadas, sale con muertes y salidas. El nivel es la población."},{"titulo":"Estadio","texto":"Cuántos hay, dónde se sientan y de qué edades son: así describimos a una población."}],
-"ejercicios":[{"ejercicio":"Una zona de 200 km² tiene 10 000 habitantes. ¿Cuál es su densidad?","respuesta":"10 000 ÷ 200 = 50 habitantes por km²."},{"ejercicio":"¿Qué diferencia hay entre emigrar e inmigrar?","respuesta":"Emigrar es salir de un lugar; inmigrar es llegar a un lugar."},{"ejercicio":"Natalidad de 24 por mil y mortalidad de 9 por mil. ¿Crecimiento natural?","respuesta":"15 por cada mil."}]}},
-{"nodo_id":"f6-031","titulo":"Procesos productivos y sus consecuencias","slug":"procesos-productivos-consecuencias-secundaria","palabras":["actividades económicas","sector primario","sector secundario","sector terciario","contaminación","impacto ambiental"],"contenido":{
-"idea":"Para tener una playera, alguien siembra algodón, otro la fabrica y otro la vende. Cada paso usa recursos y deja huellas en el ambiente.",
-"pizarron":"Un proceso productivo transforma recursos en bienes y servicios. Se agrupa en sectores:\n\n1. Primario: obtiene recursos de la naturaleza (agricultura, ganadería, pesca, minería, silvicultura).\n2. Secundario: transforma materias primas (industria, construcción).\n3. Terciario: servicios (comercio, transporte, educación, turismo).\n\nConsecuencias ambientales: deforestación, erosión del suelo, contaminación de agua y aire, emisión de gases de efecto invernadero y residuos.\n\nConsecuencias sociales: empleo y desarrollo, pero también migración, condiciones laborales difíciles, conflictos por el agua o la tierra y riesgos para la salud.\n\nAnalizar un proceso significa ver sus beneficios y sus costos, y quién los recibe.",
-"truco":"Primario extrae, secundario transforma, terciario sirve.",
-"practica":{"ejercicio":"Clasifica: pesca de atún, fábrica de latas y supermercado.","respuesta":"Pesca, primario; fábrica de latas, secundario; supermercado, terciario."},
-"analogias":[{"titulo":"Hacer tortillas","texto":"Se cultiva el maíz, se muele y cocina, y se vende en la tortillería. Cada etapa es un sector distinto."},{"titulo":"Cuenta de la tienda","texto":"Producir deja ganancias, pero también gastos escondidos, como el aire o el agua contaminados."}],
-"ejercicios":[{"ejercicio":"¿A qué sector pertenece la minería?","respuesta":"Primario."},{"ejercicio":"Menciona una consecuencia ambiental y una social de una industria.","respuesta":"Ambiental: contaminación del agua; social: generación de empleos (o riesgos a la salud)."},{"ejercicio":"¿Por qué el turismo es del sector terciario?","respuesta":"Porque ofrece servicios y no produce bienes materiales ni los transforma."}]}},
-{"nodo_id":"f6-034","titulo":"Producción y consumo sustentables","slug":"produccion-consumo-sustentable-secundaria","palabras":["sustentabilidad","desarrollo sustentable","reciclaje","consumo responsable","energías renovables"],"contenido":{
-"idea":"Si te comes todos los dulces hoy, mañana no quedan. Cuidar los recursos es repartirlos para que alcancen también para los demás y para los que vienen.",
-"pizarron":"El desarrollo sustentable busca satisfacer las necesidades actuales sin comprometer las de las generaciones futuras. Combina tres aspectos: ambiental, económico y social.\n\nPrácticas sustentables:\n1. Producción: agricultura orgánica, uso eficiente del agua, energías renovables (solar, eólica), reducir residuos.\n2. Distribución: comprar productos locales y reducir el transporte largo.\n3. Consumo: comprar lo necesario, reutilizar, reparar y reciclar.\n\nLas 3 R son reducir, reutilizar y reciclar. También importa consumir productos con menor impacto y exigir condiciones justas de trabajo.\n\nEstas prácticas conservan recursos, reducen la contaminación y mejoran el bienestar de la población.",
-"truco":"Reduce, reutiliza, recicla y piensa en el mañana.",
-"practica":{"ejercicio":"Menciona tres acciones de consumo sustentable.","respuesta":"Por ejemplo: llevar bolsa reutilizable, reparar objetos, apagar luces, reciclar o comprar productos locales."},
-"analogias":[{"titulo":"Huerto familiar","texto":"Si cosechas sin volver a sembrar, el huerto se acaba. Sembrar de nuevo es producir de forma sustentable."},{"titulo":"Herencia","texto":"Es como cuidar una casa que dejarás a tus nietos: la usas, pero no la destruyes."}],
-"ejercicios":[{"ejercicio":"¿Qué significa desarrollo sustentable?","respuesta":"Cubrir necesidades de hoy sin comprometer las de generaciones futuras."},{"ejercicio":"Da un ejemplo de energía renovable.","respuesta":"Solar, eólica o hidráulica."},{"ejercicio":"Reflexiona: ¿qué hábito cambiarías en casa para cuidar el ambiente?","respuesta":"Respuesta abierta; debe ser concreto (por ejemplo, ahorrar agua) y explicar cómo ayuda."}]}},
-{"nodo_id":"f6-038","titulo":"Desigualdades socioeconómicas y calidad de vida","slug":"desigualdades-socioeconomicas-calidad-vida-secundaria","palabras":["desigualdad","pobreza","PIB per cápita","IDH","calidad de vida","marginación"],"contenido":{
-"idea":"Si en una fiesta unos niños se llevan casi todos los pasteles y otros solo migajas, hay desigualdad. No todos tienen las mismas oportunidades.",
-"pizarron":"La desigualdad socioeconómica es la distribución desigual de ingresos, servicios y oportunidades entre personas, regiones y países.\n\nSe estudia con indicadores:\n1. PIB per cápita: producción total entre el número de habitantes.\n2. Índice de Desarrollo Humano (IDH): combina salud, educación e ingreso.\n3. Pobreza y marginación: carencias de vivienda, agua, educación o salud.\n\nEn México hay contrastes entre regiones y entre zonas urbanas y rurales; en el mundo, entre países con altos y bajos ingresos.\n\nEfectos en la calidad de vida: diferencias en esperanza de vida, acceso a escuela, salud, alimentación y empleo, y mayor migración.\n\nEjemplo: un PIB de 600 000 millones de pesos entre 10 millones de habitantes da un PIB per cápita de 60 000 pesos.",
-"truco":"Ingreso, salud y educación miden el bienestar.",
-"practica":{"ejercicio":"Un lugar produce 90 000 millones de pesos y tiene 3 millones de habitantes. ¿PIB per cápita?","respuesta":"90 000 ÷ 3 = 30 000 pesos por habitante."},
-"analogias":[{"titulo":"Carrera con distinta salida","texto":"Si unos corredores salen adelante, la meta no es igual de fácil para todos."},{"titulo":"Reparto de agua","texto":"Si unas casas tienen llave y otras cargan cubetas, la vida diaria es muy distinta."}],
-"ejercicios":[{"ejercicio":"¿Qué tres aspectos combina el IDH?","respuesta":"Salud, educación e ingreso."},{"ejercicio":"PIB de 400 000 millones de pesos y 20 millones de habitantes. ¿PIB per cápita?","respuesta":"20 000 pesos por habitante."},{"ejercicio":"Menciona un efecto de la desigualdad en la calidad de vida.","respuesta":"Menor acceso a salud o educación, o diferencias en esperanza de vida."}]}},
-{"nodo_id":"f6-042","titulo":"Conflictos territoriales y sus implicaciones","slug":"conflictos-territoriales-implicaciones-secundaria","palabras":["conflicto territorial","fronteras","recursos naturales","soberanía","disputas","diálogo"],"contenido":{
-"idea":"Dos amigos pelean porque ambos quieren usar la misma parte del patio. Los países y comunidades también discuten por el control de un lugar.",
-"pizarron":"Un conflicto territorial es una disputa por el control, uso o propiedad de un territorio o de sus recursos.\n\nCausas frecuentes:\n1. Límites y fronteras poco claros.\n2. Recursos valiosos: agua, petróleo, tierras de cultivo, minerales.\n3. Razones históricas, políticas o culturales.\n4. Diferencias sobre cómo usar el suelo (por ejemplo, minería o conservación).\n\nHay conflictos entre países, y también dentro de ellos, entre comunidades, empresas y gobiernos, por ejemplo por el agua o la tierra.\n\nImplicaciones: ambientales (deterioro de ecosistemas), sociales (desplazamiento de personas, tensión) y económicas (pérdida de producción).\n\nSe atienden con diálogo, negociación, acuerdos y tribunales internacionales o nacionales.",
-"truco":"Territorio y recursos: se resuelve dialogando.",
-"practica":{"ejercicio":"Menciona dos causas de un conflicto territorial.","respuesta":"Por ejemplo: límites poco claros y disputa por recursos como el agua."},
-"analogias":[{"titulo":"Una bardita entre vecinos","texto":"Si no se sabe dónde termina cada terreno, surgen desacuerdos hasta que se acuerda la línea."},{"titulo":"Un pozo compartido","texto":"Si dos pueblos usan un solo pozo y el agua baja, pueden discutir; ponerse de acuerdo lo resuelve."}],
-"ejercicios":[{"ejercicio":"¿Qué es un conflicto territorial?","respuesta":"Una disputa por el control, uso o propiedad de un territorio o sus recursos."},{"ejercicio":"Menciona una implicación ambiental y una social de estos conflictos.","respuesta":"Ambiental: daño a ecosistemas; social: desplazamiento de personas."},{"ejercicio":"Reflexiona: ¿cómo podría resolverse pacíficamente una disputa por agua entre dos comunidades?","respuesta":"Respuesta abierta; debe proponer diálogo, acuerdos de reparto y participación de ambas partes."}]}}
+  {
+    "nodo_id": "f6-007",
+    "titulo": "El espacio geográfico como construcción social",
+    "slug": "espacio-geografico-construccion-social-secundaria",
+    "palabras": [
+      "espacio geográfico",
+      "sociedad",
+      "territorio",
+      "paisaje",
+      "componentes"
+    ],
+    "contenido": {
+      "idea": "Imagina el patio de tu escuela: al inicio es solo terreno, pero entre todos le ponen canchas, árboles y reglas, y cambia con lo que hacen los alumnos.",
+      "pizarron": "**Qué es:** el espacio geográfico es el lugar donde vivimos, formado por la naturaleza y por lo que hace la gente.\n\nUn cerro es natural. Si le ponen casas y calles, cambia.\n\n**Tiene:**\n\n- **Natural:** relieve, clima, agua.\n- **Social:** población y costumbres.\n- **Económico:** cultivos, fábricas y tiendas.\n- **Cultural y político:** lenguas y fronteras.\n\nLa gente cambia el lugar, y el lugar cambia a la gente.\n\n**Para recordar:**\n- **¿Por qué decimos que el espacio geográfico es una construcción social?** Porque las personas lo transforman con sus actividades y decisiones, y al hacerlo cambia con el tiempo.\n\n**Para tu escuela:** dibuja tu colonia y marca algo natural, social y económico.",
+      "truco": "Espacio = naturaleza + sociedad + tiempo.",
+      "practica": {
+        "ejercicio": "Menciona dos componentes naturales y dos sociales de tu localidad.",
+        "respuesta": "Ejemplo: natural, clima y río; social, población y fiestas del lugar. Cualquier ejemplo correcto de tu localidad es válido."
+      },
+      "analogias": [
+        {
+          "titulo": "Una casa compartida",
+          "texto": "Una casa cambia según quienes viven en ella: muebles, reglas y decoración. El espacio geográfico también lo moldean quienes lo habitan."
+        },
+        {
+          "titulo": "Un cuaderno que se escribe",
+          "texto": "Cada generación escribe en el mismo cuaderno: calles, cultivos, edificios. Se pueden leer las huellas de épocas anteriores."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Por qué decimos que el espacio geográfico es una construcción social?",
+          "respuesta": "Porque las personas lo transforman con sus actividades y decisiones, y al hacerlo cambia con el tiempo."
+        },
+        {
+          "ejercicio": "Clasifica: carretera, montaña, mercado. ¿Cuáles son naturales y cuáles sociales?",
+          "respuesta": "Montaña es natural; carretera y mercado son sociales o económicos."
+        },
+        {
+          "ejercicio": "Describe un cambio que la gente haya provocado en un lugar que conozcas.",
+          "respuesta": "Respuesta abierta: debe indicar el lugar, el cambio (por ejemplo, un río entubado) y quién lo causó."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-011",
+    "titulo": "Categorías de análisis espacial y representaciones",
+    "slug": "categorias-analisis-espacial-representaciones-secundaria",
+    "palabras": [
+      "localización",
+      "distribución",
+      "mapas",
+      "croquis",
+      "planos",
+      "imágenes satelitales"
+    ],
+    "contenido": {
+      "idea": "Para encontrar un juguete en tu cuarto preguntas dónde está, cuántos hay, si son distintos y si se mueven. Esas preguntas son categorías para analizar un lugar.",
+      "pizarron": "**Qué es:** son cinco preguntas para estudiar cualquier lugar.\n\n1. **Localización:** ¿dónde está?\n2. **Distribución:** ¿cómo se reparte?\n3. **Diversidad:** ¿qué diferencias hay?\n4. **Cambio:** ¿cómo era antes?\n5. **Relación:** ¿qué se conecta con qué?\n\n**Ejemplo con tu escuela:** está en tu colonia. Las tiendas se juntan cerca de la entrada. Antes había menos casas.\n\nLos lugares se representan con mapas, croquis, fotos aéreas e imágenes de satélite.\n\n**Para recordar:**\n- **¿Qué categoría usas al preguntar por qué hay más población cerca de un río?** Relación (entre un elemento natural, el río, y uno social, la población); también implica distribución.\n\n**Para tu escuela:** responde las cinco preguntas sobre tu colonia.",
+      "truco": "Dónde, cómo se reparte, qué cambia, qué se relaciona.",
+      "practica": {
+        "ejercicio": "¿Qué categoría usas al preguntar por qué hay más población cerca de un río?",
+        "respuesta": "Relación (entre un elemento natural, el río, y uno social, la población); también implica distribución."
+      },
+      "analogias": [
+        {
+          "titulo": "Lentes de colores",
+          "texto": "Cada categoría es un lente distinto: con uno ves dónde están las cosas, con otro cómo cambian. El mismo lugar se ve diferente."
+        },
+        {
+          "titulo": "Fotos de tu álbum",
+          "texto": "Un mapa, un croquis y una foto satelital muestran el mismo sitio, como distintas fotos de un mismo recuerdo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué categoría responde a la pregunta ¿dónde está Oaxaca?",
+          "respuesta": "Localización."
+        },
+        {
+          "ejercicio": "Compara una foto de tu calle de hace 20 años con una actual. ¿Qué categoría usas?",
+          "respuesta": "Temporalidad y cambio."
+        },
+        {
+          "ejercicio": "Nombra tres formas de representar el espacio geográfico.",
+          "respuesta": "Por ejemplo: mapa, croquis, plano, globo terráqueo o imagen satelital."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-015",
+    "titulo": "Aguas continentales y oceánicas",
+    "slug": "aguas-continentales-oceanicas-secundaria",
+    "palabras": [
+      "hidrosfera",
+      "océanos",
+      "ríos",
+      "lagos",
+      "acuíferos",
+      "glaciares",
+      "corrientes"
+    ],
+    "contenido": {
+      "idea": "Piensa en una alberca enorme con tapas pequeñas: casi toda el agua del planeta está en el mar, y solo una pizca es la que podemos beber.",
+      "pizarron": "**Qué es:** la hidrosfera es toda el agua de la Tierra. Las aguas oceánicas son mares y océanos. Las continentales son ríos, lagos y aguas bajo tierra.\n\n**Oceánicas:** saladas. Son cerca del 97 % del agua del planeta.\n\n**Continentales:** casi todas dulces.\n\nSi toda el agua cupiera en una jarra, el agua dulce para beber sería apenas unas gotas. Casi toda la dulce está congelada.\n\nEl ciclo del agua la mueve sin parar. Las corrientes del mar influyen en el clima.\n\n**Para recordar:**\n- **Cuenca hidrográfica:** Un territorio donde el agua escurre hacia un mismo río, lago o mar.\n\n**Para tu escuela:** di de dónde viene el agua de tu casa.",
+      "truco": "Mucha agua salada, poca dulce y casi toda congelada.",
+      "practica": {
+        "ejercicio": "Ordena el recorrido: precipitación, evaporación, condensación.",
+        "respuesta": "Evaporación, condensación, precipitación."
+      },
+      "analogias": [
+        {
+          "titulo": "El tinaco del barrio",
+          "texto": "El agua dulce disponible es como el tinaco: se llena con lluvia y si se gasta más rápido de lo que entra, se acaba."
+        },
+        {
+          "titulo": "Un sistema de tuberías",
+          "texto": "Ríos, acuíferos y mares son tuberías conectadas: lo que ocurre en una parte llega a otra."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué tipo de agua es la mayor parte de la hidrosfera?",
+          "respuesta": "Agua salada oceánica."
+        },
+        {
+          "ejercicio": "Menciona tres aguas continentales.",
+          "respuesta": "Por ejemplo: ríos, lagos y acuíferos (también glaciares)."
+        },
+        {
+          "ejercicio": "¿Qué es una cuenca hidrográfica?",
+          "respuesta": "Un territorio donde el agua escurre hacia un mismo río, lago o mar."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-019",
+    "titulo": "Placas tectónicas, relieve, sismos y volcanes",
+    "slug": "placas-tectonicas-relieve-sismos-vulcanismo-secundaria",
+    "palabras": [
+      "placas tectónicas",
+      "sismos",
+      "terremotos",
+      "volcanes",
+      "montañas",
+      "subducción"
+    ],
+    "contenido": {
+      "idea": "Imagina una cáscara de huevo cocido agrietada: los pedazos se empujan y se frotan. Así se mueven las placas de la Tierra, muy despacio.",
+      "pizarron": "**La ley:** la capa de afuera de la Tierra está partida en placas que se mueven muy lento. Eso forma montañas y causa sismos y volcanes.\n\nImagina un huevo cocido con la cáscara rota, y los pedazos moviéndose.\n\n**Cómo se mueven:**\n\n1. **Chocan:** se levantan montañas, o una se mete bajo la otra.\n2. **Se separan:** sale magma.\n3. **Se deslizan de lado:** se forman fallas.\n\n**Sismo:** se junta tensión y se suelta de golpe.\n\n**Volcán:** sube magma.\n\nEn México, la placa de Cocos se mete bajo la de Norteamérica. Por eso tiembla tanto en el Pacífico.\n\n**Para recordar:**\n- **¿Qué tipo de movimiento ocurre cuando una placa se hunde bajo otra?** Convergente, llamado subducción.\n\n**Para tu escuela:** empuja dos hojas una contra otra y mira cómo se levantan.",
+      "truco": "Chocan, se separan o se deslizan: sismos y volcanes.",
+      "practica": {
+        "ejercicio": "¿Qué tipo de movimiento ocurre cuando una placa se hunde bajo otra?",
+        "respuesta": "Convergente, llamado subducción."
+      },
+      "analogias": [
+        {
+          "titulo": "Mesas empujadas",
+          "texto": "Si empujas dos mesas con mantel, el mantel se arruga: así se forman las montañas."
+        },
+        {
+          "titulo": "Olla de frijoles",
+          "texto": "Las burbujas que revientan en una olla caliente se parecen al magma que sale por un volcán."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué tipo de límite forma dorsales oceánicas?",
+          "respuesta": "Divergente (las placas se separan)."
+        },
+        {
+          "ejercicio": "¿Por qué hay tantos sismos en la costa del Pacífico mexicano?",
+          "respuesta": "Porque la placa de Cocos se hunde bajo la de Norteamérica y acumula tensión."
+        },
+        {
+          "ejercicio": "Menciona un efecto de que dos placas choquen.",
+          "respuesta": "Formación de montañas, sismos o volcanes."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-023",
+    "titulo": "Riesgos de desastre y vulnerabilidad",
+    "slug": "riesgos-desastre-vulnerabilidad-secundaria",
+    "palabras": [
+      "riesgo",
+      "peligro",
+      "vulnerabilidad",
+      "protección civil",
+      "prevención",
+      "desastre natural"
+    ],
+    "contenido": {
+      "idea": "Una tormenta es un peligro, pero si tu casa tiene techo firme y tu familia sabe qué hacer, el riesgo es menor. Lo que importa es qué tan preparados estamos.",
+      "pizarron": "**La regla:** un fenómeno natural se vuelve desastre cuando afecta a gente que no está preparada. Riesgo es peligro más vulnerabilidad.\n\n**Peligro:** que pueda pasar, como un huracán.\n\n**Vulnerabilidad:** lo que nos hace más débiles, como casas frágiles.\n\nEl mismo huracán daña más donde hay casas débiles.\n\n**Cómo prevenir:** mapas de riesgo, buenas construcciones, alertas y simulacros.\n\n**Para recordar:**\n- **Diferencia peligro y vulnerabilidad.** Peligro es la posibilidad del fenómeno; vulnerabilidad es qué tan susceptible es la población al daño.\n\n**Para tu escuela:** haz el plan de tu familia para un sismo: a dónde salir y dónde reunirse.",
+      "truco": "Riesgo = peligro + vulnerabilidad.",
+      "practica": {
+        "ejercicio": "Dos pueblos reciben el mismo huracán; uno tiene casas firmes y refugios. ¿Cuál tiene menos riesgo y por qué?",
+        "respuesta": "El de casas firmes y refugios, porque tiene menor vulnerabilidad."
+      },
+      "analogias": [
+        {
+          "titulo": "Paraguas",
+          "texto": "La lluvia es el peligro; sin paraguas te mojas más. La preparación reduce el daño."
+        },
+        {
+          "titulo": "Casa de paja y casa de ladrillo",
+          "texto": "El mismo viento sopla en las dos, pero no les hace lo mismo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Diferencia peligro y vulnerabilidad.",
+          "respuesta": "Peligro es la posibilidad del fenómeno; vulnerabilidad es qué tan susceptible es la población al daño."
+        },
+        {
+          "ejercicio": "Menciona dos medidas de prevención ante sismos.",
+          "respuesta": "Simulacros y construcciones con normas antisísmicas (o plan familiar, rutas de evacuación)."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué riesgo hay en tu localidad y cómo se podría reducir?",
+          "respuesta": "Respuesta abierta; debe identificar un peligro, una vulnerabilidad y al menos una acción preventiva."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-027",
+    "titulo": "Población: crecimiento, distribución, composición y migración",
+    "slug": "poblacion-crecimiento-distribucion-migracion-secundaria",
+    "palabras": [
+      "demografía",
+      "natalidad",
+      "mortalidad",
+      "migración",
+      "pirámide de población",
+      "densidad"
+    ],
+    "contenido": {
+      "idea": "En tu salón entran niños nuevos, otros se cambian de escuela y algunos se sientan juntos en un rincón. Con la población de un país pasa algo parecido.",
+      "pizarron": "**Qué es:** la demografía estudia a la población: cuántos somos, dónde vivimos y cómo cambiamos.\n\n**Crecimiento natural:** nacimientos menos muertes.\n\nCon 20 nacimientos y 6 muertes por cada mil:\n\n$$20 - 6 = 14 \\text{ por cada mil}$$\n\n**Densidad:** habitantes entre kilómetros cuadrados.\n\n**Pirámide de población:** muestra edades y sexo.\n\n**Migración:** emigrar es salir; inmigrar es llegar.\n\nLa gente vive más donde hay agua y trabajo.\n\n**Para tu escuela:** pregunta en tu familia si alguien migró y por qué.",
+      "truco": "Nacen, mueren, llegan y se van.",
+      "practica": {
+        "ejercicio": "Natalidad de 18 por mil y mortalidad de 5 por mil. ¿Cuál es el crecimiento natural?",
+        "respuesta": "18 − 5 = 13 por cada mil habitantes."
+      },
+      "analogias": [
+        {
+          "titulo": "Una alberca",
+          "texto": "Entra agua con nacimientos y llegadas, sale con muertes y salidas. El nivel es la población."
+        },
+        {
+          "titulo": "Estadio",
+          "texto": "Cuántos hay, dónde se sientan y de qué edades son: así describimos a una población."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Una zona de 200 km² tiene 10 000 habitantes. ¿Cuál es su densidad?",
+          "respuesta": "10 000 ÷ 200 = 50 habitantes por km²."
+        },
+        {
+          "ejercicio": "¿Qué diferencia hay entre emigrar e inmigrar?",
+          "respuesta": "Emigrar es salir de un lugar; inmigrar es llegar a un lugar."
+        },
+        {
+          "ejercicio": "Natalidad de 24 por mil y mortalidad de 9 por mil. ¿Crecimiento natural?",
+          "respuesta": "15 por cada mil."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-031",
+    "titulo": "Procesos productivos y sus consecuencias",
+    "slug": "procesos-productivos-consecuencias-secundaria",
+    "palabras": [
+      "actividades económicas",
+      "sector primario",
+      "sector secundario",
+      "sector terciario",
+      "contaminación",
+      "impacto ambiental"
+    ],
+    "contenido": {
+      "idea": "Para tener una playera, alguien siembra algodón, otro la fabrica y otro la vende. Cada paso usa recursos y deja huellas en el ambiente.",
+      "pizarron": "**Qué es:** un proceso productivo transforma recursos en cosas o servicios.\n\n**Ejemplo, una tortilla:**\n\n**Primario:** se siembra maíz. Se saca de la naturaleza.\n\n**Secundario:** se muele y se hace tortilla. Se transforma.\n\n**Terciario:** se vende en la tienda. Es un servicio.\n\n**Lo bueno:** empleo y productos.\n\n**Lo malo:** tala, contaminación y conflictos por agua.\n\nHay que ver a quién beneficia y a quién perjudica.\n\n**Para tu escuela:** sigue el camino de una playera en los tres sectores.",
+      "truco": "Primario extrae, secundario transforma, terciario sirve.",
+      "practica": {
+        "ejercicio": "Clasifica: pesca de atún, fábrica de latas y supermercado.",
+        "respuesta": "Pesca, primario; fábrica de latas, secundario; supermercado, terciario."
+      },
+      "analogias": [
+        {
+          "titulo": "Hacer tortillas",
+          "texto": "Se cultiva el maíz, se muele y cocina, y se vende en la tortillería. Cada etapa es un sector distinto."
+        },
+        {
+          "titulo": "Cuenta de la tienda",
+          "texto": "Producir deja ganancias, pero también gastos escondidos, como el aire o el agua contaminados."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿A qué sector pertenece la minería?",
+          "respuesta": "Primario."
+        },
+        {
+          "ejercicio": "Menciona una consecuencia ambiental y una social de una industria.",
+          "respuesta": "Ambiental: contaminación del agua; social: generación de empleos (o riesgos a la salud)."
+        },
+        {
+          "ejercicio": "¿Por qué el turismo es del sector terciario?",
+          "respuesta": "Porque ofrece servicios y no produce bienes materiales ni los transforma."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-034",
+    "titulo": "Producción y consumo sustentables",
+    "slug": "produccion-consumo-sustentable-secundaria",
+    "palabras": [
+      "sustentabilidad",
+      "desarrollo sustentable",
+      "reciclaje",
+      "consumo responsable",
+      "energías renovables"
+    ],
+    "contenido": {
+      "idea": "Si te comes todos los dulces hoy, mañana no quedan. Cuidar los recursos es repartirlos para que alcancen también para los demás y para los que vienen.",
+      "pizarron": "**Qué es:** lo sustentable cubre lo que necesitamos hoy sin quitarle recursos a quienes vengan después.\n\nComo una alcancía: si gastas todo hoy, mañana no hay.\n\n**Al producir:** usar poca agua y energía solar o de viento.\n\n**Al mover productos:** comprar lo local.\n\n**Al consumir:** las 3 R.\n\n- **Reduce:** compra solo lo necesario.\n- **Reutiliza:** usa las cosas otra vez.\n- **Recicla:** separa la basura.\n\n**Para recordar:**\n- **Desarrollo sustentable:** Cubrir necesidades de hoy sin comprometer las de generaciones futuras.\n\n**Para tu escuela:** anota lo que tiras en un día y qué podrías reutilizar.",
+      "truco": "Reduce, reutiliza, recicla y piensa en el mañana.",
+      "practica": {
+        "ejercicio": "Menciona tres acciones de consumo sustentable.",
+        "respuesta": "Por ejemplo: llevar bolsa reutilizable, reparar objetos, apagar luces, reciclar o comprar productos locales."
+      },
+      "analogias": [
+        {
+          "titulo": "Huerto familiar",
+          "texto": "Si cosechas sin volver a sembrar, el huerto se acaba. Sembrar de nuevo es producir de forma sustentable."
+        },
+        {
+          "titulo": "Herencia",
+          "texto": "Es como cuidar una casa que dejarás a tus nietos: la usas, pero no la destruyes."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa desarrollo sustentable?",
+          "respuesta": "Cubrir necesidades de hoy sin comprometer las de generaciones futuras."
+        },
+        {
+          "ejercicio": "Da un ejemplo de energía renovable.",
+          "respuesta": "Solar, eólica o hidráulica."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué hábito cambiarías en casa para cuidar el ambiente?",
+          "respuesta": "Respuesta abierta; debe ser concreto (por ejemplo, ahorrar agua) y explicar cómo ayuda."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-038",
+    "titulo": "Desigualdades socioeconómicas y calidad de vida",
+    "slug": "desigualdades-socioeconomicas-calidad-vida-secundaria",
+    "palabras": [
+      "desigualdad",
+      "pobreza",
+      "PIB per cápita",
+      "IDH",
+      "calidad de vida",
+      "marginación"
+    ],
+    "contenido": {
+      "idea": "Si en una fiesta unos niños se llevan casi todos los pasteles y otros solo migajas, hay desigualdad. No todos tienen las mismas oportunidades.",
+      "pizarron": "**Qué es:** la desigualdad socioeconómica es que el dinero, los servicios y las oportunidades no estén repartidos parejo.\n\n**Cómo se mide:**\n\n- **PIB per cápita:** lo producido entre habitantes.\n- **IDH:** salud, educación e ingreso.\n- **Pobreza:** falta de agua, casa o escuela.\n\n**Ejemplo:** 600 000 millones de pesos entre 10 millones de personas.\n\n$$600\\,000 \\div 10 = 60\\,000 \\text{ pesos por persona}$$\n\nEs un promedio: algunos tienen mucho más y otros mucho menos.\n\n**Para tu escuela:** compara los servicios de una ciudad y de un pueblo.",
+      "truco": "Ingreso, salud y educación miden el bienestar.",
+      "practica": {
+        "ejercicio": "Un lugar produce 90 000 millones de pesos y tiene 3 millones de habitantes. ¿PIB per cápita?",
+        "respuesta": "90 000 ÷ 3 = 30 000 pesos por habitante."
+      },
+      "analogias": [
+        {
+          "titulo": "Carrera con distinta salida",
+          "texto": "Si unos corredores salen adelante, la meta no es igual de fácil para todos."
+        },
+        {
+          "titulo": "Reparto de agua",
+          "texto": "Si unas casas tienen llave y otras cargan cubetas, la vida diaria es muy distinta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué tres aspectos combina el IDH?",
+          "respuesta": "Salud, educación e ingreso."
+        },
+        {
+          "ejercicio": "PIB de 400 000 millones de pesos y 20 millones de habitantes. ¿PIB per cápita?",
+          "respuesta": "20 000 pesos por habitante."
+        },
+        {
+          "ejercicio": "Menciona un efecto de la desigualdad en la calidad de vida.",
+          "respuesta": "Menor acceso a salud o educación, o diferencias en esperanza de vida."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-042",
+    "titulo": "Conflictos territoriales y sus implicaciones",
+    "slug": "conflictos-territoriales-implicaciones-secundaria",
+    "palabras": [
+      "conflicto territorial",
+      "fronteras",
+      "recursos naturales",
+      "soberanía",
+      "disputas",
+      "diálogo"
+    ],
+    "contenido": {
+      "idea": "Dos amigos pelean porque ambos quieren usar la misma parte del patio. Los países y comunidades también discuten por el control de un lugar.",
+      "pizarron": "**Qué es:** un conflicto territorial es una pelea por una tierra o por lo que hay en ella.\n\nComo dos vecinos que discuten por dónde pasa la barda.\n\n**Por qué pasa:**\n\n- Fronteras poco claras.\n- Recursos valiosos: agua, petróleo o minerales.\n- Historia y política.\n\n**Qué causa:** gente que debe irse, daños a la naturaleza y pérdidas.\n\n**Cómo se resuelve:** con diálogo, acuerdos y tribunales.\n\n**Para tu escuela:** busca en las noticias un conflicto por agua y di quiénes participan.",
+      "truco": "Territorio y recursos: se resuelve dialogando.",
+      "practica": {
+        "ejercicio": "Menciona dos causas de un conflicto territorial.",
+        "respuesta": "Por ejemplo: límites poco claros y disputa por recursos como el agua."
+      },
+      "analogias": [
+        {
+          "titulo": "Una bardita entre vecinos",
+          "texto": "Si no se sabe dónde termina cada terreno, surgen desacuerdos hasta que se acuerda la línea."
+        },
+        {
+          "titulo": "Un pozo compartido",
+          "texto": "Si dos pueblos usan un solo pozo y el agua baja, pueden discutir; ponerse de acuerdo lo resuelve."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es un conflicto territorial?",
+          "respuesta": "Una disputa por el control, uso o propiedad de un territorio o sus recursos."
+        },
+        {
+          "ejercicio": "Menciona una implicación ambiental y una social de estos conflictos.",
+          "respuesta": "Ambiental: daño a ecosistemas; social: desplazamiento de personas."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿cómo podría resolverse pacíficamente una disputa por agua entre dos comunidades?",
+          "respuesta": "Respuesta abierta; debe proponer diálogo, acuerdos de reparto y participación de ambas partes."
+        }
+      ]
+    }
+  }
 ]

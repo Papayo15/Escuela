@@ -1,72 +1,464 @@
 [
-{"nodo_id":"f4-010","titulo":"Alimentación saludable y el Plato del Bien Comer","slug":"plato-del-bien-comer-primaria","palabras":["plato del bien comer","alimentación","nutrición","grupos de alimentos","dieta"],"contenido":{
-"idea":"Tu cuerpo es como un coche que necesita distintos tipos de combustible. Si solo le das dulces, se atora; si le das de todo un poco, corre bien todo el día.",
-"pizarron":"El Plato del Bien Comer agrupa los alimentos en tres grupos:\n\n1. **Verduras y frutas**: aportan vitaminas, minerales y fibra.\n2. **Cereales** (maíz, trigo, avena, arroz): dan energía.\n3. **Leguminosas y alimentos de origen animal** (frijol, lenteja, huevo, pollo, pescado): ayudan a construir y reparar el cuerpo.\n\nUna alimentación saludable es **completa** (incluye los tres grupos), **equilibrada**, **suficiente**, **variada**, **inocua** (limpia) y **adecuada** a tu edad y cultura. Conviene tomar agua simple y reducir azúcares, grasas y sal. Elegir alimentos de temporada y locales cuida el medio ambiente y ahorra dinero: una fruta de la región suele costar menos que un producto empacado.",
-"truco":"Tres grupos en cada comida: color, energía y fuerza.",
-"practica":{"ejercicio":"Arma un desayuno con un alimento de cada grupo del Plato del Bien Comer.","respuesta":"Ejemplo: plátano (verduras y frutas), tortilla o avena (cereales) y huevo o frijoles (leguminosas y origen animal). Cualquier combinación con un alimento de cada grupo es válida."},
-"analogias":[{"titulo":"El equipo de futbol","texto":"Un equipo necesita porteros, defensas y delanteros. Si solo hay delanteros, pierde. Igual, tu plato necesita los tres grupos para funcionar."},{"titulo":"La caja de herramientas","texto":"Con solo un martillo no arreglas todo. Cada grupo de alimentos es una herramienta distinta y tu cuerpo usa todas."}],
-"ejercicios":[{"ejercicio":"¿Cuáles son los tres grupos del Plato del Bien Comer?","respuesta":"Verduras y frutas; cereales; leguminosas y alimentos de origen animal."},{"ejercicio":"¿A qué grupo pertenece el frijol?","respuesta":"A las leguminosas y alimentos de origen animal."},{"ejercicio":"Explica por qué comer frutas de temporada ayuda a la economía familiar y al ambiente.","respuesta":"Suelen costar menos por abundar y necesitan menos transporte y conservación, lo que reduce la contaminación."}]}},
-{"nodo_id":"f4-014","titulo":"Plantas y animales: nutrición y locomoción","slug":"nutricion-locomocion-plantas-animales-primaria","palabras":["nutrición","locomoción","fotosíntesis","movimiento","seres vivos","herbívoros"],"contenido":{
-"idea":"Todos los seres vivos comen a su manera: tú buscas comida en la cocina, y la planta fabrica la suya con luz del sol. Y para llegar a la comida, algunos corren, otros nadan y otros vuelan.",
-"pizarron":"**Nutrición en plantas**: las plantas son autótrofas, fabrican su alimento mediante la fotosíntesis. Absorben agua y minerales por la raíz, toman dióxido de carbono del aire y usan la luz solar. Liberan oxígeno.\n\n**Nutrición en animales**: son heterótrofos, deben comer otros seres vivos. Pueden ser herbívoros (plantas), carnívoros (animales) u omnívoros (ambos).\n\n**Locomoción**: es el desplazamiento de un lugar a otro. Los animales caminan, saltan, nadan, vuelan o se arrastran, usando patas, aletas, alas o el cuerpo. La mayoría de las plantas no se desplazan, pero muchas semillas viajan con el viento, el agua o los animales.\n\n**Interacciones**: las abejas se alimentan del néctar y, al moverse de flor en flor, transportan polen y ayudan a la reproducción de las plantas.",
-"truco":"Planta fabrica, animal come; la planta se queda, el animal se mueve.",
-"practica":{"ejercicio":"Clasifica según su alimentación: vaca, león, oso, conejo.","respuesta":"Vaca y conejo: herbívoros. León: carnívoro. Oso: omnívoro."},
-"analogias":[{"titulo":"La cocina solar","texto":"La hoja funciona como una cocina que usa la luz del sol en lugar de estufa para preparar su comida."},{"titulo":"Los vehículos","texto":"Las alas, aletas y patas son como avión, lancha y bicicleta: cada animal usa el vehículo adecuado para su entorno."}],
-"ejercicios":[{"ejercicio":"¿Qué necesita una planta para realizar la fotosíntesis?","respuesta":"Luz solar, agua y dióxido de carbono."},{"ejercicio":"Menciona un animal que vuela, uno que nada y uno que camina.","respuesta":"Ejemplo: águila, pez y perro. Cualquier respuesta correcta es válida."},{"ejercicio":"¿Cómo ayudan las abejas a las plantas?","respuesta":"Al llevar polen de flor en flor permiten que las plantas se reproduzcan."}]}},
-{"nodo_id":"f4-018","titulo":"Factores físicos y biológicos de los ecosistemas","slug":"factores-ecosistemas-primaria","palabras":["ecosistema","factores bióticos","factores abióticos","cadena alimentaria","biodiversidad"],"contenido":{
-"idea":"Un ecosistema es como una casa grande donde todos viven juntos: están los muebles, el agua y la luz (cosas sin vida) y también la familia (seres vivos). Si quitas algo, toda la casa lo resiente.",
-"pizarron":"Un **ecosistema** es el conjunto de seres vivos y los elementos físicos del lugar donde viven, relacionados entre sí.\n\n**Factores físicos (abióticos)**: sin vida, como el agua, la luz solar, la temperatura, el suelo y el aire.\n\n**Factores biológicos (bióticos)**: los seres vivos: plantas, animales, hongos y microorganismos.\n\nSe relacionan así:\n- Las plantas necesitan luz, agua y suelo.\n- Los herbívoros comen plantas y los carnívoros comen herbívoros.\n- Los descomponedores (hongos y bacterias) transforman restos en nutrientes para el suelo.\n\nEsa secuencia de quién come a quién es una **cadena alimentaria**. Si falta un eslabón, el equilibrio cambia. Por eso se debe preservar la **biodiversidad**: mientras más variedad de especies, el ecosistema es más estable y favorece la vida. Ejemplos son el desierto, el bosque, la selva y el arrecife.",
-"truco":"Abiótico = sin vida; biótico = con vida.",
-"practica":{"ejercicio":"En un estanque, clasifica: pez, agua, lirio, luz solar, rana.","respuesta":"Bióticos: pez, lirio, rana. Abióticos: agua, luz solar."},
-"analogias":[{"titulo":"El rompecabezas","texto":"Cada pieza es un ser vivo o un factor físico. Si falta una, la imagen queda incompleta y el ecosistema se desequilibra."},{"titulo":"El tianguis","texto":"En un tianguis todos dependen de todos: unos producen, otros compran y otros reciclan. Así funciona un ecosistema."}],
-"ejercicios":[{"ejercicio":"Da dos ejemplos de factores abióticos.","respuesta":"Ejemplo: agua y temperatura (también luz, suelo, aire)."},{"ejercicio":"Ordena la cadena: águila, pasto, ratón.","respuesta":"Pasto, ratón, águila."},{"ejercicio":"¿Por qué es importante la biodiversidad?","respuesta":"Porque con más especies el ecosistema es más estable y resiste mejor los cambios."}]}},
-{"nodo_id":"f4-022","titulo":"Impacto de las actividades humanas en la naturaleza y la salud","slug":"impacto-actividades-humanas-primaria","palabras":["contaminación","deforestación","basura","cuidado ambiental","reciclaje","salud"],"contenido":{
-"idea":"Si en tu casa tiras basura al piso, pronto huele mal y te enfermas. La Tierra es una casa más grande: lo que ensuciamos regresa a nosotros.",
-"pizarron":"Las actividades humanas pueden **dañar la naturaleza**:\n\n- **Deforestación**: talar bosques destruye hogares de animales y reduce el oxígeno y la lluvia.\n- **Contaminación del agua**: tirar basura o desechos a ríos mata seres vivos y causa enfermedades estomacales.\n- **Contaminación del aire**: humo de vehículos y fábricas provoca problemas respiratorios.\n- **Exceso de basura**: atrae plagas y contamina el suelo.\n\nTodo esto afecta también nuestra salud.\n\n**Acciones de cuidado** (las 3R):\n1. **Reducir** lo que consumes.\n2. **Reutilizar** objetos.\n3. **Reciclar** materiales como papel, vidrio y plástico.\n\nTambién ayudan ahorrar agua y energía, separar la basura, plantar árboles y caminar o usar bicicleta cuando es posible. Pequeñas decisiones de muchas personas hacen una gran diferencia.",
-"truco":"Reducir, reutilizar, reciclar: las 3R.",
-"practica":{"ejercicio":"Escribe tres acciones que puedes hacer en casa para cuidar el agua.","respuesta":"Ejemplos: cerrar la llave al cepillarte, reparar fugas, reutilizar agua de lavado para el patio o los sanitarios."},
-"analogias":[{"titulo":"La alberca compartida","texto":"Si todos orinan o ensucian la alberca, nadie podrá nadar. Los ríos y el aire son espacios compartidos que debemos cuidar."},{"titulo":"El cuarto desordenado","texto":"Un cuarto sin recoger se llena de cosas que no encuentras. Así la basura sin separar llena el planeta."}],
-"ejercicios":[{"ejercicio":"Menciona una consecuencia de la deforestación.","respuesta":"Ejemplo: los animales pierden su hogar o disminuye la lluvia."},{"ejercicio":"¿Qué significan las 3R?","respuesta":"Reducir, reutilizar y reciclar."},{"ejercicio":"¿Cómo puede la contaminación del aire afectar tu salud?","respuesta":"Puede causar problemas respiratorios como tos, irritación y asma."}]}},
-{"nodo_id":"f4-026","titulo":"Masa, longitud y estados físicos con la temperatura","slug":"masa-longitud-estados-fisicos-primaria","palabras":["masa","longitud","estados de la materia","temperatura","sólido","líquido","gas","fusión"],"contenido":{
-"idea":"Un cubo de hielo en tu mano se vuelve agua porque tu mano está más caliente. El mismo material cambia de forma según el calor que recibe.",
-"pizarron":"**Propiedades de los materiales**:\n- **Masa**: cantidad de materia de un objeto. Se mide con balanza en gramos (g) y kilogramos (kg).\n- **Longitud**: distancia entre dos puntos. Se mide con regla o cinta en milímetros, centímetros y metros.\n\nEjemplo: $1\\ \\text{kg} = 1000\\ \\text{g}$ y $1\\ \\text{m} = 100\\ \\text{cm}$.\n\n**Estados físicos**: sólido (forma propia), líquido (toma la forma del recipiente) y gas (ocupa todo el espacio disponible).\n\n**Efecto de la temperatura**:\n- Al calentar un sólido se **funde** y pasa a líquido.\n- Al calentar un líquido se **evapora** y pasa a gas.\n- Al enfriar un gas se **condensa** y pasa a líquido.\n- Al enfriar un líquido se **solidifica** y pasa a sólido.\n\nEl agua se congela a $0\\ ^\\circ\\text{C}$ y hierve a $100\\ ^\\circ\\text{C}$ al nivel del mar.",
-"truco":"Calor: funde y evapora; frío: condensa y solidifica.",
-"practica":{"ejercicio":"¿Cuántos gramos hay en 3 kg?","respuesta":"3 × 1000 = 3000 g."},
-"analogias":[{"titulo":"La plastilina","texto":"Con calor la plastilina se ablanda y con frío se endurece. Igual, los materiales cambian de estado según la temperatura."},{"titulo":"El baile","texto":"En un sólido las partículas están apretadas como en un abrazo; en un líquido caminan juntas; en un gas corren separadas por toda la pista."}],
-"ejercicios":[{"ejercicio":"¿Qué instrumento mide la masa y cuál la longitud?","respuesta":"La balanza mide masa y la regla o cinta métrica mide longitud."},{"ejercicio":"¿Cómo se llama el paso de líquido a gas?","respuesta":"Evaporación."},{"ejercicio":"Convierte 250 cm a metros.","respuesta":"250 ÷ 100 = 2.5 m."}]}},
-{"nodo_id":"f4-030","titulo":"Mezclas y sus propiedades","slug":"mezclas-propiedades-primaria","palabras":["mezcla","homogénea","heterogénea","separación de mezclas","filtración","decantación"],"contenido":{
-"idea":"Cuando haces agua de limón con azúcar, ya no ves el azúcar, pero sigue ahí. Cuando mezclas cereal con leche, sí ves cada cosa. Ambas son mezclas.",
-"pizarron":"Una **mezcla** une dos o más sustancias sin que cambien su naturaleza. Cada una conserva sus propiedades.\n\n**Tipos**:\n- **Homogénea**: no distingues sus componentes a simple vista (agua con sal, agua de jamaica).\n- **Heterogénea**: sí distingues los componentes (ensalada, agua con arena, frijoles con arroz).\n\n**Métodos para separar mezclas**:\n- **Filtración**: con un colador o papel filtro separa un sólido de un líquido.\n- **Decantación**: se deja reposar y se vierte el líquido, dejando el sólido asentado.\n- **Evaporación**: se calienta el líquido y queda la sal.\n- **Imantación**: un imán separa objetos de hierro.\n- **Tamizado**: separa sólidos de distinto tamaño.\n\nLas propiedades de la mezcla dependen de cuánto pones de cada componente: más azúcar en el agua hace un sabor más dulce.",
-"truco":"Homogénea no se ve; heterogénea sí se ve.",
-"practica":{"ejercicio":"¿Cómo separarías arena de agua?","respuesta":"Por filtración con un colador o papel filtro, o por decantación dejando que la arena se asiente."},
-"analogias":[{"titulo":"La sopa","texto":"Una sopa de fideos es heterogénea porque ves cada ingrediente; un caldo claro con sal parece una sola cosa."},{"titulo":"La mochila","texto":"Los útiles en tu mochila están juntos pero cada uno sigue siendo el mismo; así los componentes de una mezcla conservan sus propiedades."}],
-"ejercicios":[{"ejercicio":"¿La ensalada es mezcla homogénea o heterogénea?","respuesta":"Heterogénea, porque se distinguen sus componentes."},{"ejercicio":"¿Cómo recuperar la sal del agua salada?","respuesta":"Por evaporación del agua."},{"ejercicio":"¿Con qué método separas clavos de hierro y arroz?","respuesta":"Con un imán (imantación)."}]}},
-{"nodo_id":"f4-034","titulo":"Efectos de las fuerzas y del calor sobre los objetos","slug":"fuerzas-calor-efectos-primaria","palabras":["fuerza","calor","deformación","movimiento","dilatación","temperatura"],"contenido":{
-"idea":"Si empujas un balón, rueda; si aprietas una esponja, cambia de forma. Y si dejas una paleta al sol, se derrite. Las fuerzas y el calor cambian las cosas.",
-"pizarron":"Una **fuerza** es un empuje o un jalón que una cosa ejerce sobre otra. Se puede ejercer por contacto (patear una pelota) o a distancia (un imán).\n\n**Efectos de las fuerzas**:\n- **Poner en movimiento** un objeto en reposo.\n- **Detenerlo** o cambiar su dirección.\n- **Deformarlo**: estirar un resorte o aplastar plastilina.\n\nEl **calor** es energía que pasa de un cuerpo más caliente a uno más frío.\n\n**Efectos del calor**:\n- Aumenta la temperatura del objeto.\n- Cambia el estado físico (el hielo se funde).\n- **Dilata** los objetos: la mayoría se expande al calentarse y se contrae al enfriarse.\n- Cambia materiales: el huevo se cuece y el pan se tuesta.\n\nPor eso entre los rieles de un tren se dejan pequeños espacios: así el metal puede dilatarse sin doblarse.",
-"truco":"Fuerza: mueve, frena o deforma; calor: calienta, derrite o dilata.",
-"practica":{"ejercicio":"Menciona un efecto de aplicar fuerza sobre una pelota de hule.","respuesta":"Puede ponerla en movimiento, cambiar su dirección o deformarla momentáneamente."},
-"analogias":[{"titulo":"El columpio","texto":"Un empujón al columpio lo mueve y otro lo frena. La fuerza cambia el movimiento."},{"titulo":"La mantequilla","texto":"Sobre un sartén caliente, la mantequilla se derrite. El calor cambia el estado de los materiales."}],
-"ejercicios":[{"ejercicio":"¿Qué es una fuerza?","respuesta":"Un empuje o un jalón que una cosa ejerce sobre otra."},{"ejercicio":"Da un ejemplo en que la fuerza deforma un objeto.","respuesta":"Ejemplo: apretar una esponja o estirar una liga."},{"ejercicio":"¿Por qué se dejan espacios entre los rieles del tren?","respuesta":"Porque el calor dilata el metal y necesita espacio para expandirse sin doblarse."}]}},
-{"nodo_id":"f4-038","titulo":"Sistema Tierra-Luna-Sol","slug":"tierra-luna-sol-primaria","palabras":["rotación","traslación","fases de la luna","eclipse","día y noche","estaciones"],"contenido":{
-"idea":"Imagina que giras con una linterna: la pared que alumbras tiene luz y la otra queda oscura. La Tierra gira frente al Sol y por eso hay día y noche.",
-"pizarron":"El **Sol** es una estrella que da luz y calor. La **Tierra** es un planeta que gira alrededor de él. La **Luna** es el satélite natural de la Tierra y gira a su alrededor.\n\n**Movimientos de la Tierra**:\n- **Rotación**: gira sobre su eje en cerca de 24 horas. Produce el día y la noche.\n- **Traslación**: da una vuelta al Sol en cerca de 365 días y 6 horas (un año). Con la inclinación del eje, produce las estaciones.\n\n**La Luna** tarda cerca de 29.5 días en completar el ciclo de sus fases: luna nueva, creciente, llena y menguante. No tiene luz propia, refleja la del Sol.\n\n**Eclipses**: ocurren cuando los tres astros se alinean. En el eclipse de Sol la Luna tapa al Sol; en el de Luna la sombra de la Tierra cubre a la Luna.\n\nDistintas culturas, como la mexica y la maya, explicaron estos movimientos con mitos y observaciones astronómicas.",
-"truco":"Rotación = día y noche; traslación = año y estaciones.",
-"practica":{"ejercicio":"¿Cuántos días de rotación hay en una traslación completa aproximadamente?","respuesta":"Cerca de 365 días, ya que cada rotación dura un día."},
-"analogias":[{"titulo":"El carrusel","texto":"Un niño gira sobre sí mismo (rotación) mientras el carrusel lo lleva en círculo (traslación)."},{"titulo":"El espejo","texto":"La Luna es como un espejo que refleja la luz del Sol; por eso la vemos brillar sin tener luz propia."}],
-"ejercicios":[{"ejercicio":"¿Qué movimiento de la Tierra causa el día y la noche?","respuesta":"La rotación."},{"ejercicio":"¿Cuánto dura aproximadamente la traslación terrestre?","respuesta":"365 días y 6 horas, es decir, un año."},{"ejercicio":"¿Qué ocurre en un eclipse de Sol?","respuesta":"La Luna se coloca entre el Sol y la Tierra y tapa la luz del Sol."}]}},
-{"nodo_id":"f5-002","titulo":"Sistemas circulatorio, respiratorio e inmunológico","slug":"sistemas-circulatorio-respiratorio-inmune-primaria","palabras":["corazón","pulmones","sangre","defensas","vacunas","cuerpo humano","salud ambiental"],"contenido":{
-"idea":"Tu cuerpo es una ciudad: la sangre son los camiones de reparto, los pulmones son la entrada del aire y las defensas son los policías que cuidan de los invasores.",
-"pizarron":"**Sistema respiratorio**: nariz, tráquea, bronquios y pulmones. Introduce oxígeno y expulsa dióxido de carbono en los alvéolos.\n\n**Sistema circulatorio**: corazón, vasos sanguíneos (arterias, venas y capilares) y sangre. El corazón bombea la sangre que lleva oxígeno y nutrientes a todo el cuerpo y recoge desechos.\n\n**Sistema inmunológico**: defiende al cuerpo de microbios con glóbulos blancos y anticuerpos. Las **vacunas** lo entrenan para reconocer enfermedades.\n\n**Relación con la salud ambiental**: el aire contaminado, el humo de cigarro y el agua sucia dañan los pulmones y bajan las defensas.\n\n**Cuidados**:\n- Lavarte las manos.\n- Hacer ejercicio.\n- Dormir y comer bien.\n- Aplicarte las vacunas.\n- Evitar el humo.\n- Mantener limpios los espacios donde vives.",
-"truco":"Pulmones toman aire, corazón reparte, defensas protegen.",
-"practica":{"ejercicio":"¿Qué gas entra al cuerpo al respirar y cuál sale?","respuesta":"Entra oxígeno y sale dióxido de carbono."},
-"analogias":[{"titulo":"El sistema de carreteras","texto":"Los vasos sanguíneos son carreteras y la sangre lleva paquetes de oxígeno y alimento a cada casa del cuerpo."},{"titulo":"El castillo","texto":"Las defensas son los guardias de un castillo: detectan intrusos y los eliminan para mantener la salud."}],
-"ejercicios":[{"ejercicio":"¿Qué órgano bombea la sangre?","respuesta":"El corazón."},{"ejercicio":"¿Para qué sirven las vacunas?","respuesta":"Preparan al sistema inmunológico para defenderse de ciertas enfermedades."},{"ejercicio":"Menciona dos acciones que cuidan tus pulmones.","respuesta":"Ejemplo: evitar el humo de cigarro y hacer ejercicio al aire libre."}]}},
-{"nodo_id":"f5-006","titulo":"Etapas del desarrollo humano y salud sexual y reproductiva","slug":"desarrollo-humano-salud-reproductiva-primaria","palabras":["pubertad","adolescencia","reproducción","ITS","embarazo adolescente","prevención","salud sexual"],"contenido":{
-"idea":"Igual que una semilla pasa por etapas hasta ser árbol, las personas crecemos por etapas. Cada una trae cambios, y conocerlos ayuda a cuidarte con confianza.",
-"pizarron":"**Etapas del desarrollo humano**: infancia, pubertad, adolescencia, adultez y vejez.\n\nLa **pubertad** es el inicio de los cambios del cuerpo (crecimiento, voz, vello, ciclo menstrual) que permiten la capacidad de reproducción. También cambian las emociones, y es normal que cada persona crezca a su ritmo.\n\n**Reproducción**: proceso por el que se forma un nuevo ser humano a partir de células reproductoras. Implica madurez física, emocional y económica.\n\n**Prevención**:\n- Las **infecciones de transmisión sexual (ITS)** son causadas por microbios que se contagian por contacto sexual. Pueden prevenirse con información, el método de barrera correcto y atención médica.\n- Un **embarazo en la adolescencia** puede afectar la salud y los planes de vida.\n\nLa **salud sexual y reproductiva** incluye informarte, respetar tu cuerpo y el de los demás, poner límites y pedir apoyo a personas adultas de confianza o al personal de salud.",
-"truco":"Informarte, cuidarte, respetar y pedir ayuda.",
-"practica":{"ejercicio":"Reflexiona: ¿a quién acudirías si tienes dudas sobre los cambios de tu cuerpo? Explica por qué.","respuesta":"Respuesta válida: una persona adulta de confianza (familiar, docente, personal de salud) porque puede dar información correcta y apoyo. Debe evitar fuentes poco confiables."},
-"analogias":[{"titulo":"El árbol","texto":"Un árbol pasa de semilla a brote y luego a árbol grande; cada etapa tiene cambios propios y todas son normales."},{"titulo":"El mapa","texto":"Conocer los cambios de tu cuerpo es como tener un mapa: sabes por dónde vas y puedes tomar mejores decisiones."}],
-"ejercicios":[{"ejercicio":"Menciona las etapas del desarrollo humano.","respuesta":"Infancia, pubertad, adolescencia, adultez y vejez."},{"ejercicio":"¿Qué significa ITS?","respuesta":"Infecciones de transmisión sexual."},{"ejercicio":"Escribe dos razones por las que es importante informarte sobre salud sexual.","respuesta":"Ejemplos: prevenir infecciones y embarazos no planeados, tomar decisiones responsables y respetar tu cuerpo y el de los demás."}]}}
+  {
+    "nodo_id": "f4-010",
+    "titulo": "Alimentación saludable y el Plato del Bien Comer",
+    "slug": "plato-del-bien-comer-primaria",
+    "palabras": [
+      "plato del bien comer",
+      "alimentación",
+      "nutrición",
+      "grupos de alimentos",
+      "dieta"
+    ],
+    "contenido": {
+      "idea": "Tu cuerpo es como un coche que necesita distintos tipos de combustible. Si solo le das dulces, se atora; si le das de todo un poco, corre bien todo el día.",
+      "pizarron": "**Qué es:** el Plato del Bien Comer muestra tres grupos de alimentos.\n\n1. **Verduras y frutas:** vitaminas.\n2. **Cereales:** energía.\n3. **Leguminosas y origen animal:** construyen tu cuerpo.\n\nCome de los tres en cada comida.\n\n**Ejemplo:** tortilla, frijoles y ensalada.\n\n**Para tu escuela:** clasifica tu desayuno en los tres grupos.",
+      "truco": "Tres grupos en cada comida: color, energía y fuerza.",
+      "practica": {
+        "ejercicio": "Arma un desayuno con un alimento de cada grupo del Plato del Bien Comer.",
+        "respuesta": "Ejemplo: plátano (verduras y frutas), tortilla o avena (cereales) y huevo o frijoles (leguminosas y origen animal). Cualquier combinación con un alimento de cada grupo es válida."
+      },
+      "analogias": [
+        {
+          "titulo": "El equipo de futbol",
+          "texto": "Un equipo necesita porteros, defensas y delanteros. Si solo hay delanteros, pierde. Igual, tu plato necesita los tres grupos para funcionar."
+        },
+        {
+          "titulo": "La caja de herramientas",
+          "texto": "Con solo un martillo no arreglas todo. Cada grupo de alimentos es una herramienta distinta y tu cuerpo usa todas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuáles son los tres grupos del Plato del Bien Comer?",
+          "respuesta": "Verduras y frutas; cereales; leguminosas y alimentos de origen animal."
+        },
+        {
+          "ejercicio": "¿A qué grupo pertenece el frijol?",
+          "respuesta": "A las leguminosas y alimentos de origen animal."
+        },
+        {
+          "ejercicio": "Explica por qué comer frutas de temporada ayuda a la economía familiar y al ambiente.",
+          "respuesta": "Suelen costar menos por abundar y necesitan menos transporte y conservación, lo que reduce la contaminación."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-014",
+    "titulo": "Plantas y animales: nutrición y locomoción",
+    "slug": "nutricion-locomocion-plantas-animales-primaria",
+    "palabras": [
+      "nutrición",
+      "locomoción",
+      "fotosíntesis",
+      "movimiento",
+      "seres vivos",
+      "herbívoros"
+    ],
+    "contenido": {
+      "idea": "Todos los seres vivos comen a su manera: tú buscas comida en la cocina, y la planta fabrica la suya con luz del sol. Y para llegar a la comida, algunos corren, otros nadan y otros vuelan.",
+      "pizarron": "**Qué es:** las plantas hacen su comida. Los animales la buscan y pueden moverse.\n\n**Plantas:** toman agua por las raíces y usan luz.\n\n**Animales:** herbívoros, carnívoros y omnívoros.\n\n**Locomoción:** caminar, saltar, nadar o volar.\n\nLas abejas comen néctar y llevan polen. Se ayudan.\n\n**Para recordar:**\n- **¿Qué necesita una planta para realizar la fotosíntesis?** Luz solar, agua y dióxido de carbono.\n\n**Para tu escuela:** elige tres animales y di cómo se mueven y qué comen.",
+      "truco": "Planta fabrica, animal come; la planta se queda, el animal se mueve.",
+      "practica": {
+        "ejercicio": "Clasifica según su alimentación: vaca, león, oso, conejo.",
+        "respuesta": "Vaca y conejo: herbívoros. León: carnívoro. Oso: omnívoro."
+      },
+      "analogias": [
+        {
+          "titulo": "La cocina solar",
+          "texto": "La hoja funciona como una cocina que usa la luz del sol en lugar de estufa para preparar su comida."
+        },
+        {
+          "titulo": "Los vehículos",
+          "texto": "Las alas, aletas y patas son como avión, lancha y bicicleta: cada animal usa el vehículo adecuado para su entorno."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué necesita una planta para realizar la fotosíntesis?",
+          "respuesta": "Luz solar, agua y dióxido de carbono."
+        },
+        {
+          "ejercicio": "Menciona un animal que vuela, uno que nada y uno que camina.",
+          "respuesta": "Ejemplo: águila, pez y perro. Cualquier respuesta correcta es válida."
+        },
+        {
+          "ejercicio": "¿Cómo ayudan las abejas a las plantas?",
+          "respuesta": "Al llevar polen de flor en flor permiten que las plantas se reproduzcan."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-018",
+    "titulo": "Factores físicos y biológicos de los ecosistemas",
+    "slug": "factores-ecosistemas-primaria",
+    "palabras": [
+      "ecosistema",
+      "factores bióticos",
+      "factores abióticos",
+      "cadena alimentaria",
+      "biodiversidad"
+    ],
+    "contenido": {
+      "idea": "Un ecosistema es como una casa grande donde todos viven juntos: están los muebles, el agua y la luz (cosas sin vida) y también la familia (seres vivos). Si quitas algo, toda la casa lo resiente.",
+      "pizarron": "**Qué es:** un ecosistema son seres vivos y lo que los rodea, conectados.\n\n**Factores físicos:** agua, luz, suelo y aire.\n\n**Factores biológicos:** plantas, animales y hongos.\n\n**Cadena alimentaria:** quién se come a quién.\n\nLa planta alimenta al conejo, y el conejo al coyote. Los hongos deshacen restos y alimentan el suelo.\n\nSi falta uno, todo cambia.\n\n**Para recordar:**\n- **¿Por qué es importante la biodiversidad?** Porque con más especies el ecosistema es más estable y resiste mejor los cambios.\n\n**Para tu escuela:** dibuja un ecosistema cerca de tu casa.",
+      "truco": "Abiótico = sin vida; biótico = con vida.",
+      "practica": {
+        "ejercicio": "En un estanque, clasifica: pez, agua, lirio, luz solar, rana.",
+        "respuesta": "Bióticos: pez, lirio, rana. Abióticos: agua, luz solar."
+      },
+      "analogias": [
+        {
+          "titulo": "El rompecabezas",
+          "texto": "Cada pieza es un ser vivo o un factor físico. Si falta una, la imagen queda incompleta y el ecosistema se desequilibra."
+        },
+        {
+          "titulo": "El tianguis",
+          "texto": "En un tianguis todos dependen de todos: unos producen, otros compran y otros reciclan. Así funciona un ecosistema."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Da dos ejemplos de factores abióticos.",
+          "respuesta": "Ejemplo: agua y temperatura (también luz, suelo, aire)."
+        },
+        {
+          "ejercicio": "Ordena la cadena: águila, pasto, ratón.",
+          "respuesta": "Pasto, ratón, águila."
+        },
+        {
+          "ejercicio": "¿Por qué es importante la biodiversidad?",
+          "respuesta": "Porque con más especies el ecosistema es más estable y resiste mejor los cambios."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-022",
+    "titulo": "Impacto de las actividades humanas en la naturaleza y la salud",
+    "slug": "impacto-actividades-humanas-primaria",
+    "palabras": [
+      "contaminación",
+      "deforestación",
+      "basura",
+      "cuidado ambiental",
+      "reciclaje",
+      "salud"
+    ],
+    "contenido": {
+      "idea": "Si en tu casa tiras basura al piso, pronto huele mal y te enfermas. La Tierra es una casa más grande: lo que ensuciamos regresa a nosotros.",
+      "pizarron": "**Qué es:** algunas cosas que hacemos dañan la naturaleza y también nuestra salud.\n\n**Tala:** los animales se quedan sin casa.\n\n**Agua sucia:** causa enfermedades.\n\n**Humo:** daña los pulmones.\n\n**Basura:** atrae plagas.\n\n**Las 3 R:** reduce, reutiliza y recicla.\n\n**Para tu escuela:** separa la basura de tu salón por un día.",
+      "truco": "Reducir, reutilizar, reciclar: las 3R.",
+      "practica": {
+        "ejercicio": "Escribe tres acciones que puedes hacer en casa para cuidar el agua.",
+        "respuesta": "Ejemplos: cerrar la llave al cepillarte, reparar fugas, reutilizar agua de lavado para el patio o los sanitarios."
+      },
+      "analogias": [
+        {
+          "titulo": "La alberca compartida",
+          "texto": "Si todos orinan o ensucian la alberca, nadie podrá nadar. Los ríos y el aire son espacios compartidos que debemos cuidar."
+        },
+        {
+          "titulo": "El cuarto desordenado",
+          "texto": "Un cuarto sin recoger se llena de cosas que no encuentras. Así la basura sin separar llena el planeta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona una consecuencia de la deforestación.",
+          "respuesta": "Ejemplo: los animales pierden su hogar o disminuye la lluvia."
+        },
+        {
+          "ejercicio": "¿Qué significan las 3R?",
+          "respuesta": "Reducir, reutilizar y reciclar."
+        },
+        {
+          "ejercicio": "¿Cómo puede la contaminación del aire afectar tu salud?",
+          "respuesta": "Puede causar problemas respiratorios como tos, irritación y asma."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-026",
+    "titulo": "Masa, longitud y estados físicos con la temperatura",
+    "slug": "masa-longitud-estados-fisicos-primaria",
+    "palabras": [
+      "masa",
+      "longitud",
+      "estados de la materia",
+      "temperatura",
+      "sólido",
+      "líquido",
+      "gas",
+      "fusión"
+    ],
+    "contenido": {
+      "idea": "Un cubo de hielo en tu mano se vuelve agua porque tu mano está más caliente. El mismo material cambia de forma según el calor que recibe.",
+      "pizarron": "**Qué es:** masa es cuánta materia hay. Longitud es cuánto mide. Los materiales pueden ser sólidos, líquidos o gases.\n\n$1$ kg son $1000$ g. $1$ m son $100$ cm.\n\n**Con calor:** el sólido se funde y el líquido se evapora.\n\n**Con frío:** el gas se condensa y el líquido se hace sólido.\n\nEl agua se congela a 0 °C y hierve a 100 °C.\n\n**Para recordar:**\n- **¿Qué instrumento mide la masa y cuál la longitud?** La balanza mide masa y la regla o cinta métrica mide longitud.\n\n**Para tu escuela:** mide tu mesa y escribe cuántos cm tiene.",
+      "truco": "Calor: funde y evapora; frío: condensa y solidifica.",
+      "practica": {
+        "ejercicio": "¿Cuántos gramos hay en 3 kg?",
+        "respuesta": "3 × 1000 = 3000 g."
+      },
+      "analogias": [
+        {
+          "titulo": "La plastilina",
+          "texto": "Con calor la plastilina se ablanda y con frío se endurece. Igual, los materiales cambian de estado según la temperatura."
+        },
+        {
+          "titulo": "El baile",
+          "texto": "En un sólido las partículas están apretadas como en un abrazo; en un líquido caminan juntas; en un gas corren separadas por toda la pista."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué instrumento mide la masa y cuál la longitud?",
+          "respuesta": "La balanza mide masa y la regla o cinta métrica mide longitud."
+        },
+        {
+          "ejercicio": "¿Cómo se llama el paso de líquido a gas?",
+          "respuesta": "Evaporación."
+        },
+        {
+          "ejercicio": "Convierte 250 cm a metros.",
+          "respuesta": "250 ÷ 100 = 2.5 m."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-030",
+    "titulo": "Mezclas y sus propiedades",
+    "slug": "mezclas-propiedades-primaria",
+    "palabras": [
+      "mezcla",
+      "homogénea",
+      "heterogénea",
+      "separación de mezclas",
+      "filtración",
+      "decantación"
+    ],
+    "contenido": {
+      "idea": "Cuando haces agua de limón con azúcar, ya no ves el azúcar, pero sigue ahí. Cuando mezclas cereal con leche, sí ves cada cosa. Ambas son mezclas.",
+      "pizarron": "**Qué es:** una mezcla junta cosas sin que cambien.\n\n**Homogénea:** no distingues las partes. Agua de jamaica.\n\n**Heterogénea:** sí las distingues. Ensalada.\n\n**Para separar:**\n\n- Filtrar con colador.\n- Dejar reposar.\n- Evaporar.\n- Usar un imán.\n\n**Para tu escuela:** di cómo separarías arena y clavos.",
+      "truco": "Homogénea no se ve; heterogénea sí se ve.",
+      "practica": {
+        "ejercicio": "¿Cómo separarías arena de agua?",
+        "respuesta": "Por filtración con un colador o papel filtro, o por decantación dejando que la arena se asiente."
+      },
+      "analogias": [
+        {
+          "titulo": "La sopa",
+          "texto": "Una sopa de fideos es heterogénea porque ves cada ingrediente; un caldo claro con sal parece una sola cosa."
+        },
+        {
+          "titulo": "La mochila",
+          "texto": "Los útiles en tu mochila están juntos pero cada uno sigue siendo el mismo; así los componentes de una mezcla conservan sus propiedades."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿La ensalada es mezcla homogénea o heterogénea?",
+          "respuesta": "Heterogénea, porque se distinguen sus componentes."
+        },
+        {
+          "ejercicio": "¿Cómo recuperar la sal del agua salada?",
+          "respuesta": "Por evaporación del agua."
+        },
+        {
+          "ejercicio": "¿Con qué método separas clavos de hierro y arroz?",
+          "respuesta": "Con un imán (imantación)."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-034",
+    "titulo": "Efectos de las fuerzas y del calor sobre los objetos",
+    "slug": "fuerzas-calor-efectos-primaria",
+    "palabras": [
+      "fuerza",
+      "calor",
+      "deformación",
+      "movimiento",
+      "dilatación",
+      "temperatura"
+    ],
+    "contenido": {
+      "idea": "Si empujas un balón, rueda; si aprietas una esponja, cambia de forma. Y si dejas una paleta al sol, se derrite. Las fuerzas y el calor cambian las cosas.",
+      "pizarron": "**Qué es:** una fuerza empuja o jala. El calor es energía que pasa de lo caliente a lo frío.\n\n**Fuerzas:** mueven, detienen o deforman. Patear una pelota.\n\n**Calor:** sube la temperatura, derrite y hace crecer las cosas un poquito.\n\nPor eso los rieles del tren tienen espacios.\n\n**Para recordar:**\n- **¿Por qué se dejan espacios entre los rieles del tren?** Porque el calor dilata el metal y necesita espacio para expandirse sin doblarse.\n\n**Para tu escuela:** da un ejemplo de fuerza y uno de calor en tu casa.",
+      "truco": "Fuerza: mueve, frena o deforma; calor: calienta, derrite o dilata.",
+      "practica": {
+        "ejercicio": "Menciona un efecto de aplicar fuerza sobre una pelota de hule.",
+        "respuesta": "Puede ponerla en movimiento, cambiar su dirección o deformarla momentáneamente."
+      },
+      "analogias": [
+        {
+          "titulo": "El columpio",
+          "texto": "Un empujón al columpio lo mueve y otro lo frena. La fuerza cambia el movimiento."
+        },
+        {
+          "titulo": "La mantequilla",
+          "texto": "Sobre un sartén caliente, la mantequilla se derrite. El calor cambia el estado de los materiales."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es una fuerza?",
+          "respuesta": "Un empuje o un jalón que una cosa ejerce sobre otra."
+        },
+        {
+          "ejercicio": "Da un ejemplo en que la fuerza deforma un objeto.",
+          "respuesta": "Ejemplo: apretar una esponja o estirar una liga."
+        },
+        {
+          "ejercicio": "¿Por qué se dejan espacios entre los rieles del tren?",
+          "respuesta": "Porque el calor dilata el metal y necesita espacio para expandirse sin doblarse."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-038",
+    "titulo": "Sistema Tierra-Luna-Sol",
+    "slug": "tierra-luna-sol-primaria",
+    "palabras": [
+      "rotación",
+      "traslación",
+      "fases de la luna",
+      "eclipse",
+      "día y noche",
+      "estaciones"
+    ],
+    "contenido": {
+      "idea": "Imagina que giras con una linterna: la pared que alumbras tiene luz y la otra queda oscura. La Tierra gira frente al Sol y por eso hay día y noche.",
+      "pizarron": "**La regla:** la Tierra gira sobre sí misma y alrededor del Sol, y la Luna gira alrededor de la Tierra.\n\n**Rotación:** da una vuelta en 24 horas. Causa el día y la noche.\n\n**Traslación:** da la vuelta al Sol en 365 días. Es un año.\n\n**Luna:** cambia de fase en unos 29 días y medio. Refleja luz del Sol.\n\n**Eclipse:** se alinean los tres.\n\n**Para recordar:**\n- **¿Qué ocurre en un eclipse de Sol?** La Luna se coloca entre el Sol y la Tierra y tapa la luz del Sol.\n\n**Para tu escuela:** usa una pelota y una lámpara para mostrar el día y la noche.",
+      "truco": "Rotación = día y noche; traslación = año y estaciones.",
+      "practica": {
+        "ejercicio": "¿Cuántos días de rotación hay en una traslación completa aproximadamente?",
+        "respuesta": "Cerca de 365 días, ya que cada rotación dura un día."
+      },
+      "analogias": [
+        {
+          "titulo": "El carrusel",
+          "texto": "Un niño gira sobre sí mismo (rotación) mientras el carrusel lo lleva en círculo (traslación)."
+        },
+        {
+          "titulo": "El espejo",
+          "texto": "La Luna es como un espejo que refleja la luz del Sol; por eso la vemos brillar sin tener luz propia."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué movimiento de la Tierra causa el día y la noche?",
+          "respuesta": "La rotación."
+        },
+        {
+          "ejercicio": "¿Cuánto dura aproximadamente la traslación terrestre?",
+          "respuesta": "365 días y 6 horas, es decir, un año."
+        },
+        {
+          "ejercicio": "¿Qué ocurre en un eclipse de Sol?",
+          "respuesta": "La Luna se coloca entre el Sol y la Tierra y tapa la luz del Sol."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f5-002",
+    "titulo": "Sistemas circulatorio, respiratorio e inmunológico",
+    "slug": "sistemas-circulatorio-respiratorio-inmune-primaria",
+    "palabras": [
+      "corazón",
+      "pulmones",
+      "sangre",
+      "defensas",
+      "vacunas",
+      "cuerpo humano",
+      "salud ambiental"
+    ],
+    "contenido": {
+      "idea": "Tu cuerpo es una ciudad: la sangre son los camiones de reparto, los pulmones son la entrada del aire y las defensas son los policías que cuidan de los invasores.",
+      "pizarron": "**Qué es:** son tres equipos de tu cuerpo. Uno toma aire, otro reparte y otro defiende.\n\n**Respiratorio:** nariz, tráquea y pulmones. Toma oxígeno.\n\n**Circulatorio:** corazón y sangre. Reparte el oxígeno.\n\n**Inmunológico:** glóbulos blancos. Defiende de microbios.\n\nEl humo y el agua sucia los dañan.\n\n**Cuídalos:** lávate las manos, haz ejercicio y ponte tus vacunas.\n\n**Para recordar:**\n- **¿Qué gas entra al cuerpo al respirar y cuál sale?** Entra oxígeno y sale dióxido de carbono.\n\n**Para tu escuela:** explica qué pasa con el aire que respiras.",
+      "truco": "Pulmones toman aire, corazón reparte, defensas protegen.",
+      "practica": {
+        "ejercicio": "¿Qué gas entra al cuerpo al respirar y cuál sale?",
+        "respuesta": "Entra oxígeno y sale dióxido de carbono."
+      },
+      "analogias": [
+        {
+          "titulo": "El sistema de carreteras",
+          "texto": "Los vasos sanguíneos son carreteras y la sangre lleva paquetes de oxígeno y alimento a cada casa del cuerpo."
+        },
+        {
+          "titulo": "El castillo",
+          "texto": "Las defensas son los guardias de un castillo: detectan intrusos y los eliminan para mantener la salud."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué órgano bombea la sangre?",
+          "respuesta": "El corazón."
+        },
+        {
+          "ejercicio": "¿Para qué sirven las vacunas?",
+          "respuesta": "Preparan al sistema inmunológico para defenderse de ciertas enfermedades."
+        },
+        {
+          "ejercicio": "Menciona dos acciones que cuidan tus pulmones.",
+          "respuesta": "Ejemplo: evitar el humo de cigarro y hacer ejercicio al aire libre."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f5-006",
+    "titulo": "Etapas del desarrollo humano y salud sexual y reproductiva",
+    "slug": "desarrollo-humano-salud-reproductiva-primaria",
+    "palabras": [
+      "pubertad",
+      "adolescencia",
+      "reproducción",
+      "ITS",
+      "embarazo adolescente",
+      "prevención",
+      "salud sexual"
+    ],
+    "contenido": {
+      "idea": "Igual que una semilla pasa por etapas hasta ser árbol, las personas crecemos por etapas. Cada una trae cambios, y conocerlos ayuda a cuidarte con confianza.",
+      "pizarron": "**Qué es:** las personas crecen por etapas: infancia, pubertad, adolescencia, adultez y vejez.\n\n**Pubertad:** el cuerpo empieza a cambiar. Crece, cambia la voz y sale vello.\n\n**Salud sexual:** es informarte, respetar tu cuerpo y el de otros, y pedir ayuda a un adulto de confianza.\n\nHay infecciones que se pasan por contacto sexual, y se pueden prevenir.\n\nUn embarazo adolescente puede afectar tu salud y tus planes.\n\n**Para tu escuela:** ordena las etapas de la vida en una línea.",
+      "truco": "Informarte, cuidarte, respetar y pedir ayuda.",
+      "practica": {
+        "ejercicio": "Reflexiona: ¿a quién acudirías si tienes dudas sobre los cambios de tu cuerpo? Explica por qué.",
+        "respuesta": "Respuesta válida: una persona adulta de confianza (familiar, docente, personal de salud) porque puede dar información correcta y apoyo. Debe evitar fuentes poco confiables."
+      },
+      "analogias": [
+        {
+          "titulo": "El árbol",
+          "texto": "Un árbol pasa de semilla a brote y luego a árbol grande; cada etapa tiene cambios propios y todas son normales."
+        },
+        {
+          "titulo": "El mapa",
+          "texto": "Conocer los cambios de tu cuerpo es como tener un mapa: sabes por dónde vas y puedes tomar mejores decisiones."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona las etapas del desarrollo humano.",
+          "respuesta": "Infancia, pubertad, adolescencia, adultez y vejez."
+        },
+        {
+          "ejercicio": "¿Qué significa ITS?",
+          "respuesta": "Infecciones de transmisión sexual."
+        },
+        {
+          "ejercicio": "Escribe dos razones por las que es importante informarte sobre salud sexual.",
+          "respuesta": "Ejemplos: prevenir infecciones y embarazos no planeados, tomar decisiones responsables y respetar tu cuerpo y el de los demás."
+        }
+      ]
+    }
+  }
 ]

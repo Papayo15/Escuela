@@ -1,100 +1,620 @@
 [
-{"nodo_id":"f6-117","titulo":"Nombres de óxidos","slug":"nombres-de-oxidos-secundaria","palabras":["óxidos","nomenclatura","óxido metálico","óxido no metálico","prefijos"],"contenido":{
-"idea":"Un óxido es lo que resulta cuando el oxígeno se une con otro elemento, como en la herrumbre del hierro. Su nombre dice quién es su pareja.",
-"pizarron":"**Óxidos metálicos** (metal + oxígeno):\n\n- $\\ce{Na2O}$: óxido de sodio.\n- $\\ce{MgO}$: óxido de magnesio.\n\nSi el metal tiene varias valencias, se usa número romano (sistema Stock):\n\n- $\\ce{FeO}$: óxido de hierro (II).\n- $\\ce{Fe2O3}$: óxido de hierro (III).\n\n**Óxidos no metálicos** (no metal + oxígeno): se usan prefijos.\n\n- $\\ce{CO}$: monóxido de carbono.\n- $\\ce{CO2}$: dióxido de carbono.\n- $\\ce{SO3}$: trióxido de azufre.\n\nPrefijos: mono, di, tri, tetra, penta.",
-"truco":"Metal lleva número romano; no metal lleva prefijo.",
-"practica":{"ejercicio":"Nombra $\\ce{CaO}$.","respuesta":"Óxido de calcio."},
-"analogias":[{"titulo":"El óxido del portón","texto":"El portón viejo se pone rojizo porque el hierro se une con el oxígeno."},{"titulo":"Apellidos dobles","texto":"El nombre combina dos partes para saber exactamente de quién se habla."}],
-"ejercicios":[{"ejercicio":"Nombra $\\ce{CuO}$.","respuesta":"Óxido de cobre (II)."},{"ejercicio":"Escribe la fórmula del dióxido de azufre.","respuesta":"$\\ce{SO2}$"},{"ejercicio":"Escribe la fórmula del óxido de aluminio.","respuesta":"$\\ce{Al2O3}$"}]}},
-{"nodo_id":"f6-117","titulo":"Nombres de ácidos","slug":"nombres-de-acidos-secundaria","palabras":["ácidos","hidrácidos","oxiácidos","nomenclatura"],"contenido":{
-"idea":"Hay dos familias de ácidos: los que no llevan oxígeno y los que sí. La terminación del nombre delata a qué familia pertenecen.",
-"pizarron":"**Hidrácidos** (H + no metal, sin oxígeno). Terminan en **-hídrico**.\n\n- $\\ce{HCl}$: ácido clorhídrico.\n- $\\ce{H2S}$: ácido sulfhídrico.\n\n**Oxiácidos** (H + no metal + O). Terminan en **-ico** u **-oso**.\n\n- $\\ce{H2SO4}$: ácido sulfúrico.\n- $\\ce{H2SO3}$: ácido sulfuroso.\n- $\\ce{HNO3}$: ácido nítrico.\n- $\\ce{HNO2}$: ácido nitroso.\n\nEl que tiene **más oxígeno** es **-ico**; el que tiene menos, **-oso**.",
-"truco":"Sin oxígeno, hídrico. Más oxígeno, ico. Menos, oso.",
-"practica":{"ejercicio":"Nombra $\\ce{HBr}$ en disolución.","respuesta":"Ácido bromhídrico."},
-"analogias":[{"titulo":"Los apellidos del grupo","texto":"La terminación funciona como un apellido que revela la familia de cada ácido."},{"titulo":"El ácido del estómago","texto":"Tu estómago produce ácido clorhídrico para ayudar a digerir la comida."}],
-"ejercicios":[{"ejercicio":"Nombra $\\ce{H3PO4}$.","respuesta":"Ácido fosfórico."},{"ejercicio":"Escribe la fórmula del ácido nítrico.","respuesta":"$\\ce{HNO3}$"},{"ejercicio":"¿Qué tiene más oxígeno: sulfúrico o sulfuroso?","respuesta":"Sulfúrico."}]}},
-{"nodo_id":"f6-117","titulo":"Nombres de hidróxidos","slug":"nombres-de-hidroxidos-secundaria","palabras":["hidróxidos","bases","OH","nomenclatura"],"contenido":{
-"idea":"Los hidróxidos son las bases: resbalosos como jabón. Se reconocen porque traen el grupo OH pegado a un metal.",
-"pizarron":"Un **hidróxido** es un metal unido a $\\ce{OH-}$.\n\nNombre: hidróxido de + metal.\n\n- $\\ce{NaOH}$: hidróxido de sodio (sosa).\n- $\\ce{KOH}$: hidróxido de potasio.\n- $\\ce{Ca(OH)2}$: hidróxido de calcio (cal apagada).\n- $\\ce{Fe(OH)3}$: hidróxido de hierro (III).\n\nEl número de OH es igual a la carga del metal:\n\n- $\\ce{Al^3+}$ con 3 OH: $\\ce{Al(OH)3}$.\n\nSe usan paréntesis si hay más de un OH.",
-"truco":"Tantos OH como carga tenga el metal.",
-"practica":{"ejercicio":"Escribe la fórmula del hidróxido de magnesio.","respuesta":"$\\ce{Mg(OH)2}$"},
-"analogias":[{"titulo":"El jabón","texto":"Muchos jabones se fabrican con hidróxidos y por eso se sienten resbalosos."},{"titulo":"El limpiador de drenaje","texto":"Tiene sosa, una base muy fuerte; por eso exige precaución al usarlo."}],
-"ejercicios":[{"ejercicio":"Nombra $\\ce{LiOH}$.","respuesta":"Hidróxido de litio."},{"ejercicio":"Nombra $\\ce{Cu(OH)2}$.","respuesta":"Hidróxido de cobre (II)."},{"ejercicio":"Escribe la fórmula del hidróxido de aluminio.","respuesta":"$\\ce{Al(OH)3}$"}]}},
-{"nodo_id":"f6-117","titulo":"Nombres de sales","slug":"nombres-de-sales-secundaria","palabras":["sales","cloruro","sulfato","nitrato","nomenclatura"],"contenido":{
-"idea":"Una sal se forma cuando un ácido cambia su hidrógeno por un metal. La sal de mesa es solo una de muchas.",
-"pizarron":"**Sales binarias** (terminan en **-uro**):\n\n- $\\ce{NaCl}$: cloruro de sodio.\n- $\\ce{KBr}$: bromuro de potasio.\n- $\\ce{CaF2}$: fluoruro de calcio.\n\n**Oxisales** (terminan en **-ato** o **-ito**):\n\n- $\\ce{Na2SO4}$: sulfato de sodio.\n- $\\ce{KNO3}$: nitrato de potasio.\n- $\\ce{CaCO3}$: carbonato de calcio.\n- $\\ce{NaNO2}$: nitrito de sodio.\n\nÁcido *-ico* forma *-ato*; ácido *-oso* forma *-ito*.\n\nLa fórmula debe quedar neutra: $\\ce{Ca^2+}$ y $\\ce{Cl-}$ forman $\\ce{CaCl2}$.",
-"truco":"Oso bonito y pico de pato: oso da ito; ico da ato.",
-"practica":{"ejercicio":"Nombra $\\ce{MgCl2}$.","respuesta":"Cloruro de magnesio."},
-"analogias":[{"titulo":"El cambio de jugador","texto":"Sale el hidrógeno del ácido y entra un metal: el equipo cambia de nombre."},{"titulo":"El gis","texto":"El gis tradicional y las conchas tienen carbonato de calcio, una sal muy común."}],
-"ejercicios":[{"ejercicio":"Nombra $\\ce{CuSO4}$.","respuesta":"Sulfato de cobre (II)."},{"ejercicio":"Fórmula del nitrato de sodio.","respuesta":"$\\ce{NaNO3}$"},{"ejercicio":"Fórmula del carbonato de sodio.","respuesta":"$\\ce{Na2CO3}$"}]}},
-{"nodo_id":"f6-120","titulo":"Leer una ecuación química","slug":"leer-una-ecuacion-quimica-secundaria","palabras":["ecuación química","reactivos","productos","flecha","estados"],"contenido":{
-"idea":"Una ecuación química es una receta abreviada. A la izquierda, lo que entra. A la derecha, lo que sale.",
-"pizarron":"$$\\ce{2H2 + O2 -> 2H2O}$$\n\nPartes:\n\n- **Reactivos**: a la izquierda.\n- **Productos**: a la derecha.\n- **Flecha**: produce.\n- **Coeficientes**: cantidad de moléculas.\n- **Subíndices**: átomos dentro de cada fórmula.\n\nSímbolos de estado:\n\n- (s) sólido\n- (l) líquido\n- (g) gas\n- (ac) disuelto en agua\n\nLectura: 2 moléculas de hidrógeno reaccionan con 1 de oxígeno y producen 2 de agua.\n\nCalor: un triángulo sobre la flecha.",
-"truco":"Lo de la izquierda entra; lo de la derecha sale.",
-"practica":{"ejercicio":"En $\\ce{CH4 + 2O2 -> CO2 + 2H2O}$, ¿cuáles son los productos?","respuesta":"$\\ce{CO2}$ y $\\ce{H2O}$."},
-"analogias":[{"titulo":"La receta","texto":"Dos tazas de harina y un huevo producen una masa: ingredientes a la izquierda y platillo a la derecha."},{"titulo":"El mapa de una reacción","texto":"La flecha indica la dirección del cambio, como en un mapa de ruta."}],
-"ejercicios":[{"ejercicio":"¿Qué significa (ac)?","respuesta":"Disuelto en agua."},{"ejercicio":"¿Qué significa el 3 en $\\ce{3O2}$?","respuesta":"Tres moléculas de oxígeno."},{"ejercicio":"¿Cuántos reactivos tiene $\\ce{Zn + 2HCl -> ZnCl2 + H2}$?","respuesta":"Dos."}]}},
-{"nodo_id":"f6-120","titulo":"Ley de conservación de la masa","slug":"ley-de-conservacion-de-la-masa-secundaria","palabras":["conservación de la masa","Lavoisier","reactivos y productos"],"contenido":{
-"idea":"Al desarmar un juguete de bloques y armar otro, los bloques siguen siendo los mismos. En una reacción, los átomos solo se reacomodan.",
-"pizarron":"**Ley de Lavoisier**: en una reacción química, la masa de reactivos es igual a la masa de productos.\n\n$$\\text{masa reactivos} = \\text{masa productos}$$\n\nEjemplo:\n\n$$\\ce{2H2 + O2 -> 2H2O}$$\n\n4 g + 32 g = 36 g.\n\nUn papel quemado parece perder masa, pero parte se fue como gases.\n\nEn un sistema cerrado, la masa total no cambia.\n\nPor eso las ecuaciones se **balancean**: mismo número de átomos en ambos lados.",
-"truco":"Nada se crea, nada se destruye: se reacomoda.",
-"practica":{"ejercicio":"Reaccionan 10 g de A con 6 g de B y sale C. ¿Cuánta masa de C hay?","respuesta":"16 g"},
-"analogias":[{"titulo":"Los bloques","texto":"Las piezas son las mismas, aunque armes un coche o una casa."},{"titulo":"La fogata","texto":"La leña parece desaparecer, pero se fue como humo, gases y cenizas."}],
-"ejercicios":[{"ejercicio":"Si reaccionan 12 g y se obtienen 20 g con otro reactivo, ¿cuánto era el otro?","respuesta":"8 g"},{"ejercicio":"¿Por qué baja la masa de un clavo con ácido en vaso abierto?","respuesta":"Porque se escapa gas."},{"ejercicio":"¿Quién enunció esta ley?","respuesta":"Antoine Lavoisier."}]}},
-{"nodo_id":"f6-120","titulo":"Balancear por tanteo paso a paso","slug":"balancear-por-tanteo-paso-a-paso-secundaria","palabras":["balanceo","tanteo","coeficientes","ecuación química"],"contenido":{
-"idea":"Balancear es como acomodar invitados: en ambos lados de la mesa debe haber el mismo número de cada persona. Solo cambias cuántas moléculas hay.",
-"pizarron":"Pasos para $\\ce{CH4 + O2 -> CO2 + H2O}$:\n\n1. Cuenta átomos en cada lado.\n2. Balancea primero metales, luego no metales, y al final H y O.\n3. C: 1 y 1. Listo.\n4. H: 4 y 2. Pon 2 en $\\ce{H2O}$.\n5. O: 2 y 4. Pon 2 en $\\ce{O2}$.\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\nSolo se cambian **coeficientes**, nunca subíndices.\n\nCheca al final: C 1, H 4, O 4 en ambos lados.",
-"truco":"Metales, no metales, hidrógeno y oxígeno al final.",
-"practica":{"ejercicio":"Balancea $\\ce{H2 + Cl2 -> HCl}$.","respuesta":"$\\ce{H2 + Cl2 -> 2HCl}$"},
-"analogias":[{"titulo":"La balanza de átomos","texto":"Cada lado debe pesar lo mismo, átomo por átomo."},{"titulo":"Los invitados","texto":"No puedes cambiar a los invitados (la fórmula), solo cuántos llegan."}],
-"ejercicios":[{"ejercicio":"Balancea $\\ce{Fe + O2 -> Fe2O3}$.","respuesta":"$\\ce{4Fe + 3O2 -> 2Fe2O3}$"},{"ejercicio":"Balancea $\\ce{N2 + H2 -> NH3}$.","respuesta":"$\\ce{N2 + 3H2 -> 2NH3}$"},{"ejercicio":"Balancea $\\ce{C3H8 + O2 -> CO2 + H2O}$.","respuesta":"$\\ce{C3H8 + 5O2 -> 3CO2 + 4H2O}$"}]}},
-{"nodo_id":"f6-120","titulo":"Reacción exotérmica y endotérmica","slug":"reaccion-exotermica-y-endotermica-secundaria","palabras":["exotérmica","endotérmica","calor","energía de reacción"],"contenido":{
-"idea":"Una fogata te calienta: suelta calor. Una compresa fría instantánea absorbe calor de tu golpe. Son dos tipos de reacciones.",
-"pizarron":"- **Exotérmica**: libera energía; el entorno se calienta.\n- **Endotérmica**: absorbe energía; el entorno se enfría.\n\nEjemplos exotérmicos:\n\n- Combustión de gas.\n- Respiración celular.\n- Neutralización.\n\nEjemplos endotérmicos:\n\n- Fotosíntesis.\n- Disolver nitrato de amonio.\n- Cocinar un huevo.\n\nGráfica de energía: en la exotérmica, los productos tienen menos energía que los reactivos.\n\nToda reacción necesita una **energía de activación** para arrancar.",
-"truco":"Exo sale; endo entra.",
-"practica":{"ejercicio":"¿Quemar gas es exotérmico o endotérmico?","respuesta":"Exotérmico."},
-"analogias":[{"titulo":"Salida y entrada","texto":"Exit significa salida y energía que sale; entrance se parece a endo, energía que entra."},{"titulo":"El cerillo","texto":"Un cerillo necesita un rozón para empezar: esa es la energía de activación."}],
-"ejercicios":[{"ejercicio":"¿La fotosíntesis es exotérmica o endotérmica?","respuesta":"Endotérmica."},{"ejercicio":"Una mezcla enfría el vaso. ¿Qué tipo de reacción es?","respuesta":"Endotérmica."},{"ejercicio":"¿Qué es la energía de activación?","respuesta":"La energía mínima para iniciar la reacción."}]}},
-{"nodo_id":"f6-120","titulo":"El mol y el número de Avogadro","slug":"el-mol-y-el-numero-de-avogadro-secundaria","palabras":["mol","Avogadro","6.02 por 10 a la 23","cantidad de sustancia"],"contenido":{
-"idea":"Una docena son 12 cosas. Un mol también es un número fijo, solo que enorme, porque los átomos son diminutos.",
-"pizarron":"Un **mol** es una cantidad:\n\n$$1 \\text{ mol} = 6.022 \\times 10^{23} \\text{ partículas}$$\n\nEse número se llama **número de Avogadro**.\n\nEjemplos:\n\n- 1 mol de Fe: $6.022 \\times 10^{23}$ átomos.\n- 2 mol de $\\ce{H2O}$: $1.204 \\times 10^{24}$ moléculas.\n\nConversión:\n\n$$\\text{partículas} = \\text{moles} \\times 6.022 \\times 10^{23}$$\n\nEjemplo: $3.011 \\times 10^{23}$ átomos son 0.5 mol.\n\nEl mol conecta lo microscópico con lo que se mide en báscula.",
-"truco":"Mol es una docena química gigante.",
-"practica":{"ejercicio":"¿Cuántos átomos hay en 3 mol de Cu?","respuesta":"$1.8066 \\times 10^{24}$"},
-"analogias":[{"titulo":"La docena","texto":"Pides una docena sin contar uno por uno. El mol hace lo mismo con átomos."},{"titulo":"Arena del mundo","texto":"Un mol de granos cubriría más que todos los desiertos: es un número inimaginable."}],
-"ejercicios":[{"ejercicio":"¿Cuántos moles son $1.2044 \\times 10^{24}$ átomos?","respuesta":"2 mol"},{"ejercicio":"¿Cuántas moléculas hay en 0.5 mol de $\\ce{O2}$?","respuesta":"$3.011 \\times 10^{23}$"},{"ejercicio":"¿Qué mide el mol?","respuesta":"La cantidad de sustancia."}]}},
-{"nodo_id":"f6-120","titulo":"Masa molar","slug":"masa-molar-secundaria","palabras":["masa molar","g/mol","moles","fórmula"],"contenido":{
-"idea":"Una docena de pelotas de ping-pong pesa menos que una docena de balones. Igualmente, un mol de cada sustancia pesa distinto: eso es su masa molar.",
-"pizarron":"La **masa molar** es la masa de 1 mol, en g/mol.\n\nSe suman las masas atómicas de la tabla.\n\nEjemplo: $\\ce{H2O}$.\n\n$$2(1) + 16 = 18 \\text{ g/mol}$$\n\nEjemplo: $\\ce{CO2}$.\n\n$$12 + 2(16) = 44 \\text{ g/mol}$$\n\nConversión:\n\n$$n = \\frac{m}{M}$$\n\nEjemplo: 36 g de agua.\n\n$$n = \\frac{36}{18} = 2 \\text{ mol}$$\n\nDatos: H 1, C 12, N 14, O 16, Na 23, Cl 35.5.",
-"truco":"Suma la tabla; gramos entre masa molar da moles.",
-"practica":{"ejercicio":"Calcula la masa molar del $\\ce{NaCl}$.","respuesta":"58.5 g/mol"},
-"analogias":[{"titulo":"Docena de frutas","texto":"Una docena de sandías pesa más que una de uvas. Son 12, pero pesan distinto."},{"titulo":"El contador por peso","texto":"En la tienda de tornillos los venden por peso, porque es más fácil que contarlos."}],
-"ejercicios":[{"ejercicio":"Masa molar del $\\ce{CH4}$.","respuesta":"16 g/mol"},{"ejercicio":"¿Cuántos moles son 88 g de $\\ce{CO2}$?","respuesta":"2 mol"},{"ejercicio":"¿Cuántos gramos son 0.5 mol de agua?","respuesta":"9 g"}]}},
-{"nodo_id":"f6-120","titulo":"Velocidad de reacción y catalizadores","slug":"velocidad-de-reaccion-y-catalizadores-secundaria","palabras":["velocidad de reacción","catalizador","temperatura","concentración"],"contenido":{
-"idea":"Una pastilla efervescente molida se disuelve más rápido que una entera. Muchas cosas pueden acelerar o frenar una reacción.",
-"pizarron":"La **velocidad de reacción** es qué tan rápido se forman los productos.\n\nFactores que la aumentan:\n\n- **Temperatura** alta: partículas más rápidas.\n- **Concentración** alta: más choques.\n- **Superficie** mayor: más contacto.\n- **Catalizador**: baja la energía de activación.\n\nUn **catalizador** acelera sin gastarse.\n\nEjemplos:\n\n- Enzimas en tu cuerpo.\n- Convertidor catalítico de coches.\n\nRefrigerar alimentos los conserva porque baja la velocidad de las reacciones.",
-"truco":"Más choques, más reacción.",
-"practica":{"ejercicio":"¿Por qué se mastica bien la comida?","respuesta":"Aumenta la superficie y ayuda a las enzimas."},
-"analogias":[{"titulo":"El túnel de la montaña","texto":"Un catalizador abre un túnel que evita subir hasta arriba de la montaña."},{"titulo":"La fiesta llena","texto":"Más gente en un cuarto hace que se encuentren más personas."}],
-"ejercicios":[{"ejercicio":"¿Se gasta un catalizador?","respuesta":"No."},{"ejercicio":"¿Qué baja un catalizador?","respuesta":"La energía de activación."},{"ejercicio":"¿Por qué la leche dura más en el refrigerador?","respuesta":"El frío reduce la velocidad de las reacciones."}]}},
-{"nodo_id":"f6-122","titulo":"Escala de pH","slug":"escala-de-ph-secundaria","palabras":["pH","ácido","base","neutro"],"contenido":{
-"idea":"El limón es ácido, el jabón es básico y el agua pura está en medio. El pH es la regla que los ordena.",
-"pizarron":"La **escala de pH** va de 0 a 14 a 25 °C.\n\n- **pH < 7**: ácido.\n- **pH = 7**: neutro.\n- **pH > 7**: básico.\n\nEjemplos aproximados:\n\n| Sustancia | pH |\n|---|---|\n| Jugo gástrico | 2 |\n| Limón | 2-3 |\n| Refresco | 3 |\n| Leche | 6.5 |\n| Agua pura | 7 |\n| Sangre | 7.4 |\n| Jabón | 9-10 |\n| Cloro doméstico | 12 |\n\nCada unidad es 10 veces más: pH 3 es 10 veces más ácido que pH 4.",
-"truco":"Menos de 7, ácido; más de 7, básico.",
-"practica":{"ejercicio":"Una sustancia tiene pH 9. ¿Qué es?","respuesta":"Básica."},
-"analogias":[{"titulo":"La recta del sabor","texto":"Lo muy agrio queda en un extremo y lo jabonoso en el otro. Con cuidado: nunca se prueba en el laboratorio."},{"titulo":"El termómetro de acidez","texto":"El pH mide acidez como el termómetro mide temperatura."}],
-"ejercicios":[{"ejercicio":"¿Qué pH tiene el agua pura?","respuesta":"7"},{"ejercicio":"¿Cuántas veces más ácido es pH 2 que pH 4?","respuesta":"100 veces."},{"ejercicio":"¿La sangre es ácida o básica?","respuesta":"Ligeramente básica."}]}},
-{"nodo_id":"f6-122","titulo":"Indicadores ácido-base","slug":"indicadores-acido-base-secundaria","palabras":["indicadores","tornasol","fenolftaleína","col morada"],"contenido":{
-"idea":"El jugo de col morada cambia de color según la sustancia. Es un detective casero que distingue ácidos de bases.",
-"pizarron":"Un **indicador** cambia de color según el pH.\n\n| Indicador | Ácido | Base |\n|---|---|---|\n| Tornasol | Rojo | Azul |\n| Fenolftaleína | Incoloro | Rosa |\n| Col morada | Rojizo | Verde o amarillo |\n\nEl **papel pH** o universal da un color por valor.\n\nExperimento: agrega agua de col morada a limón y a jabón; se verán colores distintos.\n\nSe usan en titulaciones para saber cuándo se neutralizó una mezcla.",
-"truco":"Tornasol azul en base; rojo en ácido.",
-"practica":{"ejercicio":"¿Qué color da el tornasol con limón?","respuesta":"Rojo."},
-"analogias":[{"titulo":"Una señal de semáforo","texto":"El color avisa en qué zona estás, sin hacer cuentas."},{"titulo":"Los cuadros de cambio","texto":"Como una prueba de agua de alberca, el color de la tira revela el pH."}],
-"ejercicios":[{"ejercicio":"¿Fenolftaleína en base?","respuesta":"Rosa."},{"ejercicio":"¿Sirve la col morada de indicador?","respuesta":"Sí."},{"ejercicio":"¿Qué mide el papel universal?","respuesta":"El pH aproximado."}]}},
-{"nodo_id":"f6-124","titulo":"Qué se oxida y qué se reduce","slug":"que-se-oxida-y-que-se-reduce-secundaria","palabras":["oxidación","reducción","redox","electrones"],"contenido":{
-"idea":"Una pasa electrones como quien entrega un paquete. Quien lo pierde se oxida y quien lo recibe se reduce: siempre van juntos.",
-"pizarron":"- **Oxidación**: pierde electrones; su número de oxidación sube.\n- **Reducción**: gana electrones; su número de oxidación baja.\n\nEjemplo:\n\n$$\\ce{Zn + Cu^2+ -> Zn^2+ + Cu}$$\n\n- Zn pasa de 0 a +2: se oxida.\n- $\\ce{Cu^2+}$ pasa de +2 a 0: se reduce.\n\n- **Agente reductor**: quien se oxida.\n- **Agente oxidante**: quien se reduce.\n\nEjemplos cotidianos: óxido del hierro, pilas y combustión.",
-"truco":"PERDIÓ se oxidó; GANÓ se redujo.",
-"practica":{"ejercicio":"En $\\ce{Mg -> Mg^2+ + 2e-}$, ¿qué pasa con el Mg?","respuesta":"Se oxida."},
-"analogias":[{"titulo":"El paquete","texto":"Un mensajero entrega y otro recibe. Sin uno no ocurre lo otro."},{"titulo":"La manzana oscura","texto":"Una manzana cortada se pone oscura porque reacciona con el oxígeno."}],
-"ejercicios":[{"ejercicio":"¿Quién es el agente oxidante en el ejemplo?","respuesta":"$\\ce{Cu^2+}$"},{"ejercicio":"Si el número de oxidación baja, ¿qué pasa?","respuesta":"Se reduce."},{"ejercicio":"¿Pueden darse por separado?","respuesta":"No, ocurren juntas."}]}}
+  {
+    "nodo_id": "f6-117",
+    "titulo": "Nombres de óxidos",
+    "slug": "nombres-de-oxidos-secundaria",
+    "palabras": [
+      "óxidos",
+      "nomenclatura",
+      "óxido metálico",
+      "óxido no metálico",
+      "prefijos"
+    ],
+    "contenido": {
+      "idea": "Un óxido es lo que resulta cuando el oxígeno se une con otro elemento, como en la herrumbre del hierro. Su nombre dice quién es su pareja.",
+      "pizarron": "**La regla:** un óxido es oxígeno unido a otro elemento, y se nombra *óxido de* más ese elemento.\n\n**Óxidos metálicos** (metal + oxígeno):\n\n- $\\ce{Na2O}$: óxido de sodio.\n- $\\ce{MgO}$: óxido de magnesio.\n\nSi el metal tiene varias valencias, se usa número romano (sistema Stock):\n\n- $\\ce{FeO}$: óxido de hierro (II).\n- $\\ce{Fe2O3}$: óxido de hierro (III).\n\n**Óxidos no metálicos** (no metal + oxígeno): se usan prefijos.\n\n- $\\ce{CO}$: monóxido de carbono.\n- $\\ce{CO2}$: dióxido de carbono.\n- $\\ce{SO3}$: trióxido de azufre.\n\nPrefijos: mono, di, tri, tetra, penta.",
+      "truco": "Metal lleva número romano; no metal lleva prefijo.",
+      "practica": {
+        "ejercicio": "Nombra $\\ce{CaO}$.",
+        "respuesta": "Óxido de calcio."
+      },
+      "analogias": [
+        {
+          "titulo": "El óxido del portón",
+          "texto": "El portón viejo se pone rojizo porque el hierro se une con el oxígeno."
+        },
+        {
+          "titulo": "Apellidos dobles",
+          "texto": "El nombre combina dos partes para saber exactamente de quién se habla."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Nombra $\\ce{CuO}$.",
+          "respuesta": "Óxido de cobre (II)."
+        },
+        {
+          "ejercicio": "Escribe la fórmula del dióxido de azufre.",
+          "respuesta": "$\\ce{SO2}$"
+        },
+        {
+          "ejercicio": "Escribe la fórmula del óxido de aluminio.",
+          "respuesta": "$\\ce{Al2O3}$"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-117",
+    "titulo": "Nombres de ácidos",
+    "slug": "nombres-de-acidos-secundaria",
+    "palabras": [
+      "ácidos",
+      "hidrácidos",
+      "oxiácidos",
+      "nomenclatura"
+    ],
+    "contenido": {
+      "idea": "Hay dos familias de ácidos: los que no llevan oxígeno y los que sí. La terminación del nombre delata a qué familia pertenecen.",
+      "pizarron": "**La regla:** los ácidos empiezan con hidrógeno, y su nombre lleva la palabra ácido.\n\n**Hidrácidos** (H + no metal, sin oxígeno). Terminan en **-hídrico**.\n\n- $\\ce{HCl}$: ácido clorhídrico.\n- $\\ce{H2S}$: ácido sulfhídrico.\n\n**Oxiácidos** (H + no metal + O). Terminan en **-ico** u **-oso**.\n\n- $\\ce{H2SO4}$: ácido sulfúrico.\n- $\\ce{H2SO3}$: ácido sulfuroso.\n- $\\ce{HNO3}$: ácido nítrico.\n- $\\ce{HNO2}$: ácido nitroso.\n\nEl que tiene **más oxígeno** es **-ico**; el que tiene menos, **-oso**.",
+      "truco": "Sin oxígeno, hídrico. Más oxígeno, ico. Menos, oso.",
+      "practica": {
+        "ejercicio": "Nombra $\\ce{HBr}$ en disolución.",
+        "respuesta": "Ácido bromhídrico."
+      },
+      "analogias": [
+        {
+          "titulo": "Los apellidos del grupo",
+          "texto": "La terminación funciona como un apellido que revela la familia de cada ácido."
+        },
+        {
+          "titulo": "El ácido del estómago",
+          "texto": "Tu estómago produce ácido clorhídrico para ayudar a digerir la comida."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Nombra $\\ce{H3PO4}$.",
+          "respuesta": "Ácido fosfórico."
+        },
+        {
+          "ejercicio": "Escribe la fórmula del ácido nítrico.",
+          "respuesta": "$\\ce{HNO3}$"
+        },
+        {
+          "ejercicio": "¿Qué tiene más oxígeno: sulfúrico o sulfuroso?",
+          "respuesta": "Sulfúrico."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-117",
+    "titulo": "Nombres de hidróxidos",
+    "slug": "nombres-de-hidroxidos-secundaria",
+    "palabras": [
+      "hidróxidos",
+      "bases",
+      "OH",
+      "nomenclatura"
+    ],
+    "contenido": {
+      "idea": "Los hidróxidos son las bases: resbalosos como jabón. Se reconocen porque traen el grupo OH pegado a un metal.",
+      "pizarron": "**La regla:** un hidróxido tiene el grupo $\\ce{OH}$, y se nombra *hidróxido de* más el metal.\n\nUn **hidróxido** es un metal unido a $\\ce{OH-}$.\n\nNombre: hidróxido de + metal.\n\n- $\\ce{NaOH}$: hidróxido de sodio (sosa).\n- $\\ce{KOH}$: hidróxido de potasio.\n- $\\ce{Ca(OH)2}$: hidróxido de calcio (cal apagada).\n- $\\ce{Fe(OH)3}$: hidróxido de hierro (III).\n\nEl número de OH es igual a la carga del metal:\n\n- $\\ce{Al^3+}$ con 3 OH: $\\ce{Al(OH)3}$.\n\nSe usan paréntesis si hay más de un OH.",
+      "truco": "Tantos OH como carga tenga el metal.",
+      "practica": {
+        "ejercicio": "Escribe la fórmula del hidróxido de magnesio.",
+        "respuesta": "$\\ce{Mg(OH)2}$"
+      },
+      "analogias": [
+        {
+          "titulo": "El jabón",
+          "texto": "Muchos jabones se fabrican con hidróxidos y por eso se sienten resbalosos."
+        },
+        {
+          "titulo": "El limpiador de drenaje",
+          "texto": "Tiene sosa, una base muy fuerte; por eso exige precaución al usarlo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Nombra $\\ce{LiOH}$.",
+          "respuesta": "Hidróxido de litio."
+        },
+        {
+          "ejercicio": "Nombra $\\ce{Cu(OH)2}$.",
+          "respuesta": "Hidróxido de cobre (II)."
+        },
+        {
+          "ejercicio": "Escribe la fórmula del hidróxido de aluminio.",
+          "respuesta": "$\\ce{Al(OH)3}$"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-117",
+    "titulo": "Nombres de sales",
+    "slug": "nombres-de-sales-secundaria",
+    "palabras": [
+      "sales",
+      "cloruro",
+      "sulfato",
+      "nitrato",
+      "nomenclatura"
+    ],
+    "contenido": {
+      "idea": "Una sal se forma cuando un ácido cambia su hidrógeno por un metal. La sal de mesa es solo una de muchas.",
+      "pizarron": "**La regla:** una sal une un metal con un no metal, y su nombre termina en -uro, -ato o -ito.\n\n**Sales binarias** (terminan en **-uro**):\n\n- $\\ce{NaCl}$: cloruro de sodio.\n- $\\ce{KBr}$: bromuro de potasio.\n- $\\ce{CaF2}$: fluoruro de calcio.\n\n**Oxisales** (terminan en **-ato** o **-ito**):\n\n- $\\ce{Na2SO4}$: sulfato de sodio.\n- $\\ce{KNO3}$: nitrato de potasio.\n- $\\ce{CaCO3}$: carbonato de calcio.\n- $\\ce{NaNO2}$: nitrito de sodio.\n\nÁcido *-ico* forma *-ato*; ácido *-oso* forma *-ito*.\n\nLa fórmula debe quedar neutra: $\\ce{Ca^2+}$ y $\\ce{Cl-}$ forman $\\ce{CaCl2}$.",
+      "truco": "Oso bonito y pico de pato: oso da ito; ico da ato.",
+      "practica": {
+        "ejercicio": "Nombra $\\ce{MgCl2}$.",
+        "respuesta": "Cloruro de magnesio."
+      },
+      "analogias": [
+        {
+          "titulo": "El cambio de jugador",
+          "texto": "Sale el hidrógeno del ácido y entra un metal: el equipo cambia de nombre."
+        },
+        {
+          "titulo": "El gis",
+          "texto": "El gis tradicional y las conchas tienen carbonato de calcio, una sal muy común."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Nombra $\\ce{CuSO4}$.",
+          "respuesta": "Sulfato de cobre (II)."
+        },
+        {
+          "ejercicio": "Fórmula del nitrato de sodio.",
+          "respuesta": "$\\ce{NaNO3}$"
+        },
+        {
+          "ejercicio": "Fórmula del carbonato de sodio.",
+          "respuesta": "$\\ce{Na2CO3}$"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-120",
+    "titulo": "Leer una ecuación química",
+    "slug": "leer-una-ecuacion-quimica-secundaria",
+    "palabras": [
+      "ecuación química",
+      "reactivos",
+      "productos",
+      "flecha",
+      "estados"
+    ],
+    "contenido": {
+      "idea": "Una ecuación química es una receta abreviada. A la izquierda, lo que entra. A la derecha, lo que sale.",
+      "pizarron": "**Qué es:** una ecuación química muestra los reactivos, una flecha y los productos.\n\n$$\\ce{2H2 + O2 -> 2H2O}$$\n\nPartes:\n\n- **Reactivos**: a la izquierda.\n- **Productos**: a la derecha.\n- **Flecha**: produce.\n- **Coeficientes**: cantidad de moléculas.\n- **Subíndices**: átomos dentro de cada fórmula.\n\nSímbolos de estado:\n\n- (s) sólido\n- (l) líquido\n- (g) gas\n- (ac) disuelto en agua\n\nLectura: 2 moléculas de hidrógeno reaccionan con 1 de oxígeno y producen 2 de agua.\n\nCalor: un triángulo sobre la flecha.",
+      "truco": "Lo de la izquierda entra; lo de la derecha sale.",
+      "practica": {
+        "ejercicio": "En $\\ce{CH4 + 2O2 -> CO2 + 2H2O}$, ¿cuáles son los productos?",
+        "respuesta": "$\\ce{CO2}$ y $\\ce{H2O}$."
+      },
+      "analogias": [
+        {
+          "titulo": "La receta",
+          "texto": "Dos tazas de harina y un huevo producen una masa: ingredientes a la izquierda y platillo a la derecha."
+        },
+        {
+          "titulo": "El mapa de una reacción",
+          "texto": "La flecha indica la dirección del cambio, como en un mapa de ruta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa (ac)?",
+          "respuesta": "Disuelto en agua."
+        },
+        {
+          "ejercicio": "¿Qué significa el 3 en $\\ce{3O2}$?",
+          "respuesta": "Tres moléculas de oxígeno."
+        },
+        {
+          "ejercicio": "¿Cuántos reactivos tiene $\\ce{Zn + 2HCl -> ZnCl2 + H2}$?",
+          "respuesta": "Dos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-120",
+    "titulo": "Ley de conservación de la masa",
+    "slug": "ley-de-conservacion-de-la-masa-secundaria",
+    "palabras": [
+      "conservación de la masa",
+      "Lavoisier",
+      "reactivos y productos"
+    ],
+    "contenido": {
+      "idea": "Al desarmar un juguete de bloques y armar otro, los bloques siguen siendo los mismos. En una reacción, los átomos solo se reacomodan.",
+      "pizarron": "**La ley:** en una reacción química, la masa total no cambia: lo que entra es lo que sale.\n\nSi desarmas un juguete de bloques y armas otro, tienes los mismos bloques.\n\n**Ejemplo:**\n\n$$\\ce{2H2 + O2 -> 2H2O}$$\n\n$4 \\text{ g} + 32 \\text{ g} = 36 \\text{ g}$.\n\nUn papel quemado parece perder masa, pero parte se fue como gas.\n\nPor eso se balancean las ecuaciones.\n\n**Para recordar:**\n- **¿Por qué baja la masa de un clavo con ácido en vaso abierto?** Porque se escapa gas.\n- **¿Quién enunció esta ley?** Antoine Lavoisier.\n\n**Para tu escuela:** si 10 g reaccionan con 5 g, ¿cuánto queda de producto?",
+      "truco": "Nada se crea, nada se destruye: se reacomoda.",
+      "practica": {
+        "ejercicio": "Reaccionan 10 g de A con 6 g de B y sale C. ¿Cuánta masa de C hay?",
+        "respuesta": "16 g"
+      },
+      "analogias": [
+        {
+          "titulo": "Los bloques",
+          "texto": "Las piezas son las mismas, aunque armes un coche o una casa."
+        },
+        {
+          "titulo": "La fogata",
+          "texto": "La leña parece desaparecer, pero se fue como humo, gases y cenizas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Si reaccionan 12 g y se obtienen 20 g con otro reactivo, ¿cuánto era el otro?",
+          "respuesta": "8 g"
+        },
+        {
+          "ejercicio": "¿Por qué baja la masa de un clavo con ácido en vaso abierto?",
+          "respuesta": "Porque se escapa gas."
+        },
+        {
+          "ejercicio": "¿Quién enunció esta ley?",
+          "respuesta": "Antoine Lavoisier."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-120",
+    "titulo": "Balancear por tanteo paso a paso",
+    "slug": "balancear-por-tanteo-paso-a-paso-secundaria",
+    "palabras": [
+      "balanceo",
+      "tanteo",
+      "coeficientes",
+      "ecuación química"
+    ],
+    "contenido": {
+      "idea": "Balancear es como acomodar invitados: en ambos lados de la mesa debe haber el mismo número de cada persona. Solo cambias cuántas moléculas hay.",
+      "pizarron": "**La regla:** balancear es igualar los átomos de cada lado, cambiando solo los números de adelante.\n\nPasos para $\\ce{CH4 + O2 -> CO2 + H2O}$:\n\n1. Cuenta átomos en cada lado.\n2. Balancea primero metales, luego no metales, y al final H y O.\n3. C: 1 y 1. Listo.\n4. H: 4 y 2. Pon 2 en $\\ce{H2O}$.\n5. O: 2 y 4. Pon 2 en $\\ce{O2}$.\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\nSolo se cambian **coeficientes**, nunca subíndices.\n\nCheca al final: C 1, H 4, O 4 en ambos lados.",
+      "truco": "Metales, no metales, hidrógeno y oxígeno al final.",
+      "practica": {
+        "ejercicio": "Balancea $\\ce{H2 + Cl2 -> HCl}$.",
+        "respuesta": "$\\ce{H2 + Cl2 -> 2HCl}$"
+      },
+      "analogias": [
+        {
+          "titulo": "La balanza de átomos",
+          "texto": "Cada lado debe pesar lo mismo, átomo por átomo."
+        },
+        {
+          "titulo": "Los invitados",
+          "texto": "No puedes cambiar a los invitados (la fórmula), solo cuántos llegan."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Balancea $\\ce{Fe + O2 -> Fe2O3}$.",
+          "respuesta": "$\\ce{4Fe + 3O2 -> 2Fe2O3}$"
+        },
+        {
+          "ejercicio": "Balancea $\\ce{N2 + H2 -> NH3}$.",
+          "respuesta": "$\\ce{N2 + 3H2 -> 2NH3}$"
+        },
+        {
+          "ejercicio": "Balancea $\\ce{C3H8 + O2 -> CO2 + H2O}$.",
+          "respuesta": "$\\ce{C3H8 + 5O2 -> 3CO2 + 4H2O}$"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-120",
+    "titulo": "Reacción exotérmica y endotérmica",
+    "slug": "reaccion-exotermica-y-endotermica-secundaria",
+    "palabras": [
+      "exotérmica",
+      "endotérmica",
+      "calor",
+      "energía de reacción"
+    ],
+    "contenido": {
+      "idea": "Una fogata te calienta: suelta calor. Una compresa fría instantánea absorbe calor de tu golpe. Son dos tipos de reacciones.",
+      "pizarron": "**Qué es:** una reacción exotérmica libera calor, y una endotérmica lo absorbe.\n\n- **Exotérmica**: libera energía; el entorno se calienta.\n- **Endotérmica**: absorbe energía; el entorno se enfría.\n\nEjemplos exotérmicos:\n\n- Combustión de gas.\n- Respiración celular.\n- Neutralización.\n\nEjemplos endotérmicos:\n\n- Fotosíntesis.\n- Disolver nitrato de amonio.\n- Cocinar un huevo.\n\nGráfica de energía: en la exotérmica, los productos tienen menos energía que los reactivos.\n\nToda reacción necesita una **energía de activación** para arrancar.\n\n**Para recordar:**\n- **Energía de activación:** La energía mínima para iniciar la reacción.",
+      "truco": "Exo sale; endo entra.",
+      "practica": {
+        "ejercicio": "¿Quemar gas es exotérmico o endotérmico?",
+        "respuesta": "Exotérmico."
+      },
+      "analogias": [
+        {
+          "titulo": "Salida y entrada",
+          "texto": "Exit significa salida y energía que sale; entrance se parece a endo, energía que entra."
+        },
+        {
+          "titulo": "El cerillo",
+          "texto": "Un cerillo necesita un rozón para empezar: esa es la energía de activación."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿La fotosíntesis es exotérmica o endotérmica?",
+          "respuesta": "Endotérmica."
+        },
+        {
+          "ejercicio": "Una mezcla enfría el vaso. ¿Qué tipo de reacción es?",
+          "respuesta": "Endotérmica."
+        },
+        {
+          "ejercicio": "¿Qué es la energía de activación?",
+          "respuesta": "La energía mínima para iniciar la reacción."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-120",
+    "titulo": "El mol y el número de Avogadro",
+    "slug": "el-mol-y-el-numero-de-avogadro-secundaria",
+    "palabras": [
+      "mol",
+      "Avogadro",
+      "6.02 por 10 a la 23",
+      "cantidad de sustancia"
+    ],
+    "contenido": {
+      "idea": "Una docena son 12 cosas. Un mol también es un número fijo, solo que enorme, porque los átomos son diminutos.",
+      "pizarron": "**Qué es:** un mol son $6.02 \\times 10^{23}$ partículas, como una docena muy grande.\n\nUn **mol** es una cantidad:\n\n$$1 \\text{ mol} = 6.022 \\times 10^{23} \\text{ partículas}$$\n\nEse número se llama **número de Avogadro**.\n\nEjemplos:\n\n- 1 mol de Fe: $6.022 \\times 10^{23}$ átomos.\n- 2 mol de $\\ce{H2O}$: $1.204 \\times 10^{24}$ moléculas.\n\nConversión:\n\n$$\\text{partículas} = \\text{moles} \\times 6.022 \\times 10^{23}$$\n\nEjemplo: $3.011 \\times 10^{23}$ átomos son 0.5 mol.\n\nEl mol conecta lo microscópico con lo que se mide en báscula.",
+      "truco": "Mol es una docena química gigante.",
+      "practica": {
+        "ejercicio": "¿Cuántos átomos hay en 3 mol de Cu?",
+        "respuesta": "$1.8066 \\times 10^{24}$"
+      },
+      "analogias": [
+        {
+          "titulo": "La docena",
+          "texto": "Pides una docena sin contar uno por uno. El mol hace lo mismo con átomos."
+        },
+        {
+          "titulo": "Arena del mundo",
+          "texto": "Un mol de granos cubriría más que todos los desiertos: es un número inimaginable."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántos moles son $1.2044 \\times 10^{24}$ átomos?",
+          "respuesta": "2 mol"
+        },
+        {
+          "ejercicio": "¿Cuántas moléculas hay en 0.5 mol de $\\ce{O2}$?",
+          "respuesta": "$3.011 \\times 10^{23}$"
+        },
+        {
+          "ejercicio": "¿Qué mide el mol?",
+          "respuesta": "La cantidad de sustancia."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-120",
+    "titulo": "Masa molar",
+    "slug": "masa-molar-secundaria",
+    "palabras": [
+      "masa molar",
+      "g/mol",
+      "moles",
+      "fórmula"
+    ],
+    "contenido": {
+      "idea": "Una docena de pelotas de ping-pong pesa menos que una docena de balones. Igualmente, un mol de cada sustancia pesa distinto: eso es su masa molar.",
+      "pizarron": "**La regla:** la masa molar es la suma de las masas atómicas de una fórmula, en g/mol.\n\nLa **masa molar** es la masa de 1 mol, en g/mol.\n\nSe suman las masas atómicas de la tabla.\n\nEjemplo: $\\ce{H2O}$.\n\n$$2(1) + 16 = 18 \\text{ g/mol}$$\n\nEjemplo: $\\ce{CO2}$.\n\n$$12 + 2(16) = 44 \\text{ g/mol}$$\n\nConversión:\n\n$$n = \\frac{m}{M}$$\n\nEjemplo: 36 g de agua.\n\n$$n = \\frac{36}{18} = 2 \\text{ mol}$$\n\nDatos: H 1, C 12, N 14, O 16, Na 23, Cl 35.5.",
+      "truco": "Suma la tabla; gramos entre masa molar da moles.",
+      "practica": {
+        "ejercicio": "Calcula la masa molar del $\\ce{NaCl}$.",
+        "respuesta": "58.5 g/mol"
+      },
+      "analogias": [
+        {
+          "titulo": "Docena de frutas",
+          "texto": "Una docena de sandías pesa más que una de uvas. Son 12, pero pesan distinto."
+        },
+        {
+          "titulo": "El contador por peso",
+          "texto": "En la tienda de tornillos los venden por peso, porque es más fácil que contarlos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Masa molar del $\\ce{CH4}$.",
+          "respuesta": "16 g/mol"
+        },
+        {
+          "ejercicio": "¿Cuántos moles son 88 g de $\\ce{CO2}$?",
+          "respuesta": "2 mol"
+        },
+        {
+          "ejercicio": "¿Cuántos gramos son 0.5 mol de agua?",
+          "respuesta": "9 g"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-120",
+    "titulo": "Velocidad de reacción y catalizadores",
+    "slug": "velocidad-de-reaccion-y-catalizadores-secundaria",
+    "palabras": [
+      "velocidad de reacción",
+      "catalizador",
+      "temperatura",
+      "concentración"
+    ],
+    "contenido": {
+      "idea": "Una pastilla efervescente molida se disuelve más rápido que una entera. Muchas cosas pueden acelerar o frenar una reacción.",
+      "pizarron": "**La regla:** una reacción va más rápido con más temperatura, concentración o catalizadores.\n\nLa **velocidad de reacción** es qué tan rápido se forman los productos.\n\nFactores que la aumentan:\n\n- **Temperatura** alta: partículas más rápidas.\n- **Concentración** alta: más choques.\n- **Superficie** mayor: más contacto.\n- **Catalizador**: baja la energía de activación.\n\nUn **catalizador** acelera sin gastarse.\n\nEjemplos:\n\n- Enzimas en tu cuerpo.\n- Convertidor catalítico de coches.\n\nRefrigerar alimentos los conserva porque baja la velocidad de las reacciones.",
+      "truco": "Más choques, más reacción.",
+      "practica": {
+        "ejercicio": "¿Por qué se mastica bien la comida?",
+        "respuesta": "Aumenta la superficie y ayuda a las enzimas."
+      },
+      "analogias": [
+        {
+          "titulo": "El túnel de la montaña",
+          "texto": "Un catalizador abre un túnel que evita subir hasta arriba de la montaña."
+        },
+        {
+          "titulo": "La fiesta llena",
+          "texto": "Más gente en un cuarto hace que se encuentren más personas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Se gasta un catalizador?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "¿Qué baja un catalizador?",
+          "respuesta": "La energía de activación."
+        },
+        {
+          "ejercicio": "¿Por qué la leche dura más en el refrigerador?",
+          "respuesta": "El frío reduce la velocidad de las reacciones."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-122",
+    "titulo": "Escala de pH",
+    "slug": "escala-de-ph-secundaria",
+    "palabras": [
+      "pH",
+      "ácido",
+      "base",
+      "neutro"
+    ],
+    "contenido": {
+      "idea": "El limón es ácido, el jabón es básico y el agua pura está en medio. El pH es la regla que los ordena.",
+      "pizarron": "**La regla:** la escala de pH va de 0 a 14: menos de 7 es ácido, 7 es neutro y más de 7 es básico.\n\nLa **escala de pH** va de 0 a 14 a 25 °C.\n\n- **pH < 7**: ácido.\n- **pH = 7**: neutro.\n- **pH > 7**: básico.\n\nEjemplos aproximados:\n\n| Sustancia | pH |\n|---|---|\n| Jugo gástrico | 2 |\n| Limón | 2-3 |\n| Refresco | 3 |\n| Leche | 6.5 |\n| Agua pura | 7 |\n| Sangre | 7.4 |\n| Jabón | 9-10 |\n| Cloro doméstico | 12 |\n\nCada unidad es 10 veces más: pH 3 es 10 veces más ácido que pH 4.",
+      "truco": "Menos de 7, ácido; más de 7, básico.",
+      "practica": {
+        "ejercicio": "Una sustancia tiene pH 9. ¿Qué es?",
+        "respuesta": "Básica."
+      },
+      "analogias": [
+        {
+          "titulo": "La recta del sabor",
+          "texto": "Lo muy agrio queda en un extremo y lo jabonoso en el otro. Con cuidado: nunca se prueba en el laboratorio."
+        },
+        {
+          "titulo": "El termómetro de acidez",
+          "texto": "El pH mide acidez como el termómetro mide temperatura."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué pH tiene el agua pura?",
+          "respuesta": "7"
+        },
+        {
+          "ejercicio": "¿Cuántas veces más ácido es pH 2 que pH 4?",
+          "respuesta": "100 veces."
+        },
+        {
+          "ejercicio": "¿La sangre es ácida o básica?",
+          "respuesta": "Ligeramente básica."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-122",
+    "titulo": "Indicadores ácido-base",
+    "slug": "indicadores-acido-base-secundaria",
+    "palabras": [
+      "indicadores",
+      "tornasol",
+      "fenolftaleína",
+      "col morada"
+    ],
+    "contenido": {
+      "idea": "El jugo de col morada cambia de color según la sustancia. Es un detective casero que distingue ácidos de bases.",
+      "pizarron": "**Qué es:** un indicador cambia de color según si una sustancia es ácida o básica.\n\nUn **indicador** cambia de color según el pH.\n\n| Indicador | Ácido | Base |\n|---|---|---|\n| Tornasol | Rojo | Azul |\n| Fenolftaleína | Incoloro | Rosa |\n| Col morada | Rojizo | Verde o amarillo |\n\nEl **papel pH** o universal da un color por valor.\n\nExperimento: agrega agua de col morada a limón y a jabón; se verán colores distintos.\n\nSe usan en titulaciones para saber cuándo se neutralizó una mezcla.",
+      "truco": "Tornasol azul en base; rojo en ácido.",
+      "practica": {
+        "ejercicio": "¿Qué color da el tornasol con limón?",
+        "respuesta": "Rojo."
+      },
+      "analogias": [
+        {
+          "titulo": "Una señal de semáforo",
+          "texto": "El color avisa en qué zona estás, sin hacer cuentas."
+        },
+        {
+          "titulo": "Los cuadros de cambio",
+          "texto": "Como una prueba de agua de alberca, el color de la tira revela el pH."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Fenolftaleína en base?",
+          "respuesta": "Rosa."
+        },
+        {
+          "ejercicio": "¿Sirve la col morada de indicador?",
+          "respuesta": "Sí."
+        },
+        {
+          "ejercicio": "¿Qué mide el papel universal?",
+          "respuesta": "El pH aproximado."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-124",
+    "titulo": "Qué se oxida y qué se reduce",
+    "slug": "que-se-oxida-y-que-se-reduce-secundaria",
+    "palabras": [
+      "oxidación",
+      "reducción",
+      "redox",
+      "electrones"
+    ],
+    "contenido": {
+      "idea": "Una pasa electrones como quien entrega un paquete. Quien lo pierde se oxida y quien lo recibe se reduce: siempre van juntos.",
+      "pizarron": "**La regla:** oxidarse es perder electrones, y reducirse es ganarlos.\n\n- **Oxidación**: pierde electrones; su número de oxidación sube.\n- **Reducción**: gana electrones; su número de oxidación baja.\n\nEjemplo:\n\n$$\\ce{Zn + Cu^2+ -> Zn^2+ + Cu}$$\n\n- Zn pasa de 0 a +2: se oxida.\n- $\\ce{Cu^2+}$ pasa de +2 a 0: se reduce.\n\n- **Agente reductor**: quien se oxida.\n- **Agente oxidante**: quien se reduce.\n\nEjemplos cotidianos: óxido del hierro, pilas y combustión.",
+      "truco": "PERDIÓ se oxidó; GANÓ se redujo.",
+      "practica": {
+        "ejercicio": "En $\\ce{Mg -> Mg^2+ + 2e-}$, ¿qué pasa con el Mg?",
+        "respuesta": "Se oxida."
+      },
+      "analogias": [
+        {
+          "titulo": "El paquete",
+          "texto": "Un mensajero entrega y otro recibe. Sin uno no ocurre lo otro."
+        },
+        {
+          "titulo": "La manzana oscura",
+          "texto": "Una manzana cortada se pone oscura porque reacciona con el oxígeno."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Quién es el agente oxidante en el ejemplo?",
+          "respuesta": "$\\ce{Cu^2+}$"
+        },
+        {
+          "ejercicio": "Si el número de oxidación baja, ¿qué pasa?",
+          "respuesta": "Se reduce."
+        },
+        {
+          "ejercicio": "¿Pueden darse por separado?",
+          "respuesta": "No, ocurren juntas."
+        }
+      ]
+    }
+  }
 ]

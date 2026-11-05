@@ -1,72 +1,450 @@
 [
-{"nodo_id":"f3-ing","titulo":"El abecedario en inglés","slug":"el-abecedario-en-ingles-primaria","palabras":["abecedario","alfabeto","ABC","letras en inglés","alphabet"],"contenido":{
-"idea":"Las letras en inglés son casi las mismas que ya conoces, pero cada una suena distinto. Es como si tus amigas se pusieran un apodo nuevo.",
-"pizarron":"El abecedario inglés tiene **26 letras**. No lleva la ñ.\n\nAsí suenan algunas:\n\n| Letra | Suena como |\n|---|---|\n| A | ei |\n| B | bi |\n| C | si |\n| E | i |\n| H | eich |\n| I | ai |\n| J | yei |\n| O | ou |\n| U | iu |\n| W | dabliu |\n| Y | uai |\n\nPara deletrear tu nombre dices cada letra. *Ana* se deletrea: ei, en, ei.\n\nPregunta útil: *How do you spell it?* (jau du yu spel it), que significa ¿cómo se deletrea?",
-"truco":"La E suena i y la I suena ai: están cambiadas.",
-"practica":{"ejercicio":"¿Cómo suena la letra A en inglés?","respuesta":"Suena ei."},
-"analogias":[{"titulo":"El apodo","texto":"Tu amigo Francisco sigue siendo él aunque le digan Pancho; la letra es la misma con otro sonido."},{"titulo":"La canción","texto":"Si cantas el abecedario con una melodía, tu memoria guarda los sonidos sin que hagas mucho esfuerzo."}],
-"ejercicios":[{"ejercicio":"¿Qué letra del español no existe en inglés?","respuesta":"La ñ."},{"ejercicio":"¿Cuántas letras tiene el abecedario inglés?","respuesta":"26."},{"ejercicio":"¿Cómo suena la letra W?","respuesta":"Dabliu."}]}},
-{"nodo_id":"f3-ing","titulo":"Hello y goodbye","slug":"hello-y-goodbye-primaria","palabras":["saludos en inglés","hello","goodbye","good morning","despedidas"],"contenido":{
-"idea":"Al entrar a casa de un amigo saludas y al irte te despides. En inglés usas palabras nuevas para esos mismos momentos de todos los días.",
-"pizarron":"**Saludos**:\n\n- *Hello* (jelou): hola.\n- *Hi* (jai): hola, entre amigos.\n- *Good morning* (gud mórning): buenos días.\n- *Good afternoon* (gud afternún): buenas tardes.\n- *Good evening* (gud ívning): buenas noches, al llegar.\n\n**Despedidas**:\n\n- *Goodbye* (gudbái): adiós.\n- *Bye* (bai): adiós, más corto.\n- *See you* (si yu): nos vemos.\n- *Good night* (gud nait): buenas noches, al irte o dormir.\n\nPara preguntar cómo está alguien:\n\n*How are you?* (jau ar yu): ¿cómo estás?\n\n*I am fine, thank you* (ai am fain, zenk yu): estoy bien, gracias.",
-"truco":"Night es para irte; evening es para llegar.",
-"practica":{"ejercicio":"Son las 8 de la mañana y llegas a la escuela. ¿Qué dices?","respuesta":"*Good morning.*"},
-"analogias":[{"titulo":"La puerta de la casa","texto":"Hello abre la puerta de la plática y goodbye la cierra con buenos modales."},{"titulo":"El reloj del saludo","texto":"Mira la hora: en la mañana morning, en la tarde afternoon y al oscurecer evening."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *How are you?*","respuesta":"¿Cómo estás?"},{"ejercicio":"¿Cómo dices adiós en inglés?","respuesta":"*Goodbye* o *bye*."},{"ejercicio":"¿Qué dices antes de dormir?","respuesta":"*Good night.*"}]}},
-{"nodo_id":"f3-ing","titulo":"Números del 1 al 20 en inglés","slug":"numeros-del-1-al-20-en-ingles-primaria","palabras":["números en inglés","one two three","contar en inglés","numbers"],"contenido":{
-"idea":"Contar tus dedos en inglés es como aprender una canción nueva. Después de veinte palabras ya puedes decir tu edad y contar tus cosas.",
-"pizarron":"| Número | Inglés | Suena |\n|---|---|---|\n| 1 | one | uan |\n| 2 | two | tu |\n| 3 | three | zri |\n| 4 | four | for |\n| 5 | five | faiv |\n| 6 | six | siks |\n| 7 | seven | séven |\n| 8 | eight | eit |\n| 9 | nine | nain |\n| 10 | ten | ten |\n| 11 | eleven | iléven |\n| 12 | twelve | tuelv |\n| 13 | thirteen | zertín |\n| 14 | fourteen | fortín |\n| 15 | fifteen | fiftín |\n| 16 | sixteen | sikstín |\n| 17 | seventeen | seventín |\n| 18 | eighteen | eitín |\n| 19 | nineteen | naintín |\n| 20 | twenty | tuénti |\n\nDel 13 al 19 todos terminan en **-teen**.\n\nPara decir tu edad: *I am eight* (ai am eit), tengo ocho años.",
-"truco":"Del 13 al 19, todos terminan en -teen.",
-"practica":{"ejercicio":"¿Cómo se dice 7 en inglés?","respuesta":"*Seven.*"},
-"analogias":[{"titulo":"Los escalones","texto":"Cada número es un escalón: si dices uno tras otro todos los días, subes sin tropezarte."},{"titulo":"La familia teen","texto":"Del trece al diecinueve son hermanos con el mismo apellido, y ese apellido es teen."}],
-"ejercicios":[{"ejercicio":"Escribe 12 en inglés.","respuesta":"*Twelve.*"},{"ejercicio":"¿Qué número es *fifteen*?","respuesta":"15."},{"ejercicio":"¿Cómo dices que tienes nueve años?","respuesta":"*I am nine.*"}]}},
-{"nodo_id":"f3-ing","titulo":"Colores en inglés","slug":"colores-en-ingles-primaria","palabras":["colores","colors","red","blue","yellow"],"contenido":{
-"idea":"Tu caja de colores sigue igual, solo cambian los nombres. Al ver un coche rojo podrás decir su color en otro idioma.",
-"pizarron":"| Color | Inglés | Suena |\n|---|---|---|\n| rojo | red | red |\n| azul | blue | blu |\n| amarillo | yellow | yélou |\n| verde | green | grin |\n| naranja | orange | óranch |\n| morado | purple | pérpol |\n| rosa | pink | pink |\n| café | brown | braun |\n| negro | black | blak |\n| blanco | white | uait |\n| gris | gray | grei |\n\nEn inglés el color va **antes** de la cosa:\n\n- *a red car*: un coche rojo.\n- *a blue ball*: una pelota azul.\n\nPregunta útil: *What color is it?* (uat cólor is it), ¿de qué color es?",
-"truco":"En inglés, primero el color y luego la cosa.",
-"practica":{"ejercicio":"¿Cómo dices «un perro negro»?","respuesta":"*A black dog.*"},
-"analogias":[{"titulo":"La etiqueta","texto":"En inglés la etiqueta del color se pega por delante de la cosa, no por detrás."},{"titulo":"El arcoíris","texto":"Nombra en voz alta cada color del arcoíris y tendrás un repaso en cualquier día de lluvia."}],
-"ejercicios":[{"ejercicio":"¿Qué color es *green*?","respuesta":"Verde."},{"ejercicio":"¿Cómo se dice amarillo?","respuesta":"*Yellow.*"},{"ejercicio":"Ordena: *ball / red / a*.","respuesta":"*A red ball.*"}]}},
-{"nodo_id":"f3-ing","titulo":"Mi familia en inglés","slug":"mi-familia-en-ingles-primaria","palabras":["familia","family","mother","father","hermanos"],"contenido":{
-"idea":"Una foto familiar es el mejor libro de inglés. Señala a cada persona, di quién es y tu vocabulario crece solito.",
-"pizarron":"| Español | Inglés | Suena |\n|---|---|---|\n| mamá | mother / mom | máder / mom |\n| papá | father / dad | fáder / dad |\n| hermana | sister | síster |\n| hermano | brother | bráder |\n| abuela | grandmother | grandmáder |\n| abuelo | grandfather | grandfáder |\n| tía | aunt | ant |\n| tío | uncle | ánkol |\n| prima o primo | cousin | cásin |\n\nPara presentar a alguien:\n\n*This is my mother* (dis is mai máder): ella es mi mamá.\n\n*Cousin* sirve para prima y para primo.\n\nPregunta útil: *Who is she?* (ju is shi), ¿quién es ella?",
-"truco":"Grand significa grande: los abuelos son los grandes.",
-"practica":{"ejercicio":"¿Cómo dices «él es mi hermano»?","respuesta":"*This is my brother.*"},
-"analogias":[{"titulo":"El árbol familiar","texto":"Cada rama lleva un nombre en inglés: abajo tú, arriba tus padres y hasta arriba tus abuelos."},{"titulo":"La foto en la sala","texto":"Cada vez que pases junto a la foto, nombra a una persona y tendrás una práctica rápida."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *sister*?","respuesta":"Hermana."},{"ejercicio":"¿Cómo se dice abuelo?","respuesta":"*Grandfather.*"},{"ejercicio":"¿Qué significa *uncle*?","respuesta":"Tío."}]}},
-{"nodo_id":"f3-ing","titulo":"Mi cuerpo en inglés","slug":"mi-cuerpo-en-ingles-primaria","palabras":["cuerpo","body","head","hands","partes del cuerpo"],"contenido":{
-"idea":"Juega a tocar tu cabeza, tus manos y tus pies. Cada parte que tocas se convierte en una palabra nueva en inglés.",
-"pizarron":"| Español | Inglés | Suena |\n|---|---|---|\n| cabeza | head | jed |\n| ojos | eyes | ais |\n| orejas | ears | irs |\n| nariz | nose | nous |\n| boca | mouth | maus |\n| pelo | hair | jer |\n| hombros | shoulders | shólders |\n| brazos | arms | arms |\n| manos | hands | jands |\n| piernas | legs | legs |\n| rodillas | knees | nis |\n| pies | feet | fit |\n\nCasi todos los plurales llevan **-s**: *hand*, *hands*.\n\nOjo: un pie es *foot* (fut) y dos pies son *feet* (fit).\n\nFrase útil: *I have two eyes* (ai jav tu ais), tengo dos ojos.",
-"truco":"Un foot, dos feet: el pie cambia al ser dos.",
-"practica":{"ejercicio":"¿Cómo se dice nariz?","respuesta":"*Nose.*"},
-"analogias":[{"titulo":"Simón dice","texto":"Si juegas a tocarte la parte que nombran, tu cuerpo aprende la palabra junto con tu cabeza."},{"titulo":"El mapa del cuerpo","texto":"Dibuja tu silueta y escribe cada palabra con una flecha, igual que un mapa con sus lugares."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *hands*?","respuesta":"Manos."},{"ejercicio":"¿Cómo se dice boca?","respuesta":"*Mouth.*"},{"ejercicio":"¿Cuál es el plural de *foot*?","respuesta":"*Feet.*"}]}},
-{"nodo_id":"f3-ing","titulo":"Animales en inglés","slug":"animales-en-ingles-primaria","palabras":["animales","animals","dog","cat","mascotas"],"contenido":{
-"idea":"Imagina que visitas un zoológico donde los letreros están en inglés. Con unas cuantas palabras ya sabrás qué animal hay en cada lugar.",
-"pizarron":"**En casa y la granja**:\n\n- *dog* (dog): perro.\n- *cat* (kat): gato.\n- *bird* (berd): pájaro.\n- *fish* (fish): pez.\n- *horse* (jors): caballo.\n- *cow* (kau): vaca.\n- *chicken* (chíken): pollo o gallina.\n\n**En la selva y el zoológico**:\n\n- *lion* (láion): león.\n- *elephant* (élefant): elefante.\n- *monkey* (mónki): mono.\n- *snake* (sneik): serpiente.\n\nPregunta útil: *What is it?* (uat is it), ¿qué es?\n\nRespuesta: *It is a dog* (it is a dog), es un perro.",
-"truco":"Pregunta what is it; responde it is a.",
-"practica":{"ejercicio":"¿Cómo se dice caballo?","respuesta":"*Horse.*"},
-"analogias":[{"titulo":"El letrero del zoológico","texto":"Cada jaula tiene su cartel, y tu memoria guarda el nombre junto al dibujo del animal."},{"titulo":"Tu mascota","texto":"Si le hablas a tu mascota con su nombre en inglés, la palabra se queda en la práctica diaria."}],
-"ejercicios":[{"ejercicio":"¿Qué animal es *monkey*?","respuesta":"Mono."},{"ejercicio":"¿Cómo dices «es un gato»?","respuesta":"*It is a cat.*"},{"ejercicio":"¿Qué significa *bird*?","respuesta":"Pájaro."}]}},
-{"nodo_id":"f3-ing","titulo":"Objetos del salón en inglés","slug":"objetos-del-salon-en-ingles-primaria","palabras":["salón","classroom","pencil","book","útiles escolares"],"contenido":{
-"idea":"Tu mochila está llena de palabras en inglés. Saca cada cosa, di su nombre y vuelve a guardarla como si fuera un juego.",
-"pizarron":"| Español | Inglés | Suena |\n|---|---|---|\n| lápiz | pencil | pénsil |\n| pluma | pen | pen |\n| libro | book | buk |\n| cuaderno | notebook | nóutbuk |\n| goma | eraser | iréiser |\n| regla | ruler | rúler |\n| mochila | backpack | bákpak |\n| silla | chair | cher |\n| mesa o banca | desk | desk |\n| pizarrón | board | bord |\n\nPara decir qué es: *It is a pencil*, es un lápiz.\n\nUsa **an** si la palabra empieza con sonido de vocal: *an eraser*, una goma.\n\nPara pedir algo: *Can I have a pen, please?* (kan ai jav a pen, plis), ¿me das una pluma, por favor?",
-"truco":"Antes de vocal, cambia la a por an.",
-"practica":{"ejercicio":"¿Cómo se dice libro?","respuesta":"*Book.*"},
-"analogias":[{"titulo":"La tienda escolar","texto":"Imagina que compras útiles en inglés: para llevarte cada cosa debes decir su nombre."},{"titulo":"Etiquetas pegadas","texto":"Pega una tarjeta en la silla y en la mesa: verás la palabra cada vez que te sientes."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *ruler*?","respuesta":"Regla."},{"ejercicio":"Completa: *It is ___ eraser.*","respuesta":"*an*"},{"ejercicio":"¿Cómo se dice mochila?","respuesta":"*Backpack.*"}]}},
-{"nodo_id":"f3-ing","titulo":"Instrucciones del salón en inglés","slug":"instrucciones-del-salon-en-ingles-primaria","palabras":["instrucciones","classroom commands","sit down","stand up","open your book"],"contenido":{
-"idea":"Tu maestra dice una frase y tú haces lo que pide. Si reconoces estas órdenes, entenderás la clase de inglés aunque no sepas todas las palabras.",
-"pizarron":"| Inglés | Suena | Significa |\n|---|---|---|\n| Stand up | stand ap | levántate |\n| Sit down | sit daun | siéntate |\n| Open your book | óupen yor buk | abre tu libro |\n| Close your book | clous yor buk | cierra tu libro |\n| Listen | lísen | escucha |\n| Look | luk | mira |\n| Repeat | ripít | repite |\n| Write | rait | escribe |\n| Read | rid | lee |\n\nFrases para pedir ayuda:\n\n- *I don't understand* (ai dont anderstánd): no entiendo.\n- *Can you repeat, please?* (kan yu ripít, plis): ¿puede repetir, por favor?\n- *May I go to the bathroom?* (mei ai gou tu de bázrum): ¿puedo ir al baño?",
-"truco":"Up es arriba, down es abajo: stand up, sit down.",
-"practica":{"ejercicio":"¿Qué haces si oyes *sit down*?","respuesta":"Te sientas."},
-"analogias":[{"titulo":"Control remoto","texto":"Cada orden es un botón: stand up te levanta y sit down te sienta en tu lugar."},{"titulo":"Ascensor","texto":"Up sube y down baja, como los botones de un elevador en un edificio."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *listen*?","respuesta":"Escucha."},{"ejercicio":"¿Cómo dices «no entiendo»?","respuesta":"*I don't understand.*"},{"ejercicio":"¿Qué significa *open your book*?","respuesta":"Abre tu libro."}]}},
-{"nodo_id":"f3-ing","titulo":"My name is: presentarme","slug":"my-name-is-presentarme-primaria","palabras":["presentarse","my name is","what is your name","I am"],"contenido":{
-"idea":"Cuando conoces a alguien le dices tu nombre y tu edad. Con tres frases cortas ya puedes hacer un amigo en inglés.",
-"pizarron":"**Decir tu nombre**:\n\n- *What is your name?* (uat is yor neim): ¿cómo te llamas?\n- *My name is Luis* (mai neim is Luis): me llamo Luis.\n\n**Decir tu edad**:\n\n- *How old are you?* (jau old ar yu): ¿cuántos años tienes?\n- *I am seven* (ai am séven): tengo siete años.\n\n**Decir de dónde eres**:\n\n- *Where are you from?* (uer ar yu from): ¿de dónde eres?\n- *I am from Mexico* (ai am from México): soy de México.\n\nAl terminar puedes decir *Nice to meet you* (nais tu mit yu), mucho gusto.\n\nEn inglés la edad usa **am**: se dice *I am seven*, no *I have seven*.",
-"truco":"Tu edad se dice con am, no con have.",
-"practica":{"ejercicio":"Di que tienes ocho años.","respuesta":"*I am eight.*"},
-"analogias":[{"titulo":"Tu credencial","texto":"Nombre, edad y lugar son tu credencial hablada; dila completa y ya te conocen."},{"titulo":"El juego de la pelota","texto":"Lanzas una pregunta como pelota, tu compañero responde y te la devuelve con otra."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *What is your name?*","respuesta":"¿Cómo te llamas?"},{"ejercicio":"Completa: *I ___ from Mexico.*","respuesta":"*am*"},{"ejercicio":"¿Qué dices al conocer a alguien?","respuesta":"*Nice to meet you.*"}]}}
+{
+"nodo_id": "f3-ing",
+"titulo": "El abecedario en inglés",
+"slug": "el-abecedario-en-ingles-primaria",
+"palabras": [
+"abecedario",
+"alfabeto",
+"ABC",
+"letras en inglés",
+"alphabet"
+],
+"contenido": {
+"idea": "Las letras en inglés son casi las mismas que ya conoces, pero cada una suena distinto. Es como si tus amigas se pusieran un apodo nuevo.",
+"pizarron": "**La regla:** el abecedario inglés tiene 26 letras, parecidas a las nuestras, pero cada una suena distinto.\n\nEl abecedario inglés tiene **26 letras**. No lleva la ñ.\n\nAsí suenan algunas:\n\n| Letra | Suena como |\n|---|---|\n| A | ei |\n| B | bi |\n| C | si |\n| E | i |\n| H | eich |\n| I | ai |\n| J | yei |\n| O | ou |\n| U | iu |\n| W | dabliu |\n| Y | uai |\n\nPara deletrear tu nombre dices cada letra. *Ana* se deletrea: ei, en, ei.\n\nPregunta útil: *How do you spell it?* (jau du yu spel it), que significa ¿cómo se deletrea?",
+"truco": "La E suena i y la I suena ai: están cambiadas.",
+"practica": {
+"ejercicio": "¿Cómo suena la letra A en inglés?",
+"respuesta": "Suena ei."
+},
+"analogias": [
+{
+"titulo": "El apodo",
+"texto": "Tu amigo Francisco sigue siendo él aunque le digan Pancho; la letra es la misma con otro sonido."
+},
+{
+"titulo": "La canción",
+"texto": "Si cantas el abecedario con una melodía, tu memoria guarda los sonidos sin que hagas mucho esfuerzo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué letra del español no existe en inglés?",
+"respuesta": "La ñ."
+},
+{
+"ejercicio": "¿Cuántas letras tiene el abecedario inglés?",
+"respuesta": "26."
+},
+{
+"ejercicio": "¿Cómo suena la letra W?",
+"respuesta": "Dabliu."
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Hello y goodbye",
+"slug": "hello-y-goodbye-primaria",
+"palabras": [
+"saludos en inglés",
+"hello",
+"goodbye",
+"good morning",
+"despedidas"
+],
+"contenido": {
+"idea": "Al entrar a casa de un amigo saludas y al irte te despides. En inglés usas palabras nuevas para esos mismos momentos de todos los días.",
+"pizarron": "**La regla:** *hello* sirve para saludar y *goodbye* para despedirte.\n\n**Saludos**:\n\n- *Hello* (jelou): hola.\n- *Hi* (jai): hola, entre amigos.\n- *Good morning* (gud mórning): buenos días.\n- *Good afternoon* (gud afternún): buenas tardes.\n- *Good evening* (gud ívning): buenas noches, al llegar.\n\n**Despedidas**:\n\n- *Goodbye* (gudbái): adiós.\n- *Bye* (bai): adiós, más corto.\n- *See you* (si yu): nos vemos.\n- *Good night* (gud nait): buenas noches, al irte o dormir.\n\nPara preguntar cómo está alguien:\n\n*How are you?* (jau ar yu): ¿cómo estás?\n\n*I am fine, thank you* (ai am fain, zenk yu): estoy bien, gracias.",
+"truco": "Night es para irte; evening es para llegar.",
+"practica": {
+"ejercicio": "Son las 8 de la mañana y llegas a la escuela. ¿Qué dices?",
+"respuesta": "*Good morning.*"
+},
+"analogias": [
+{
+"titulo": "La puerta de la casa",
+"texto": "Hello abre la puerta de la plática y goodbye la cierra con buenos modales."
+},
+{
+"titulo": "El reloj del saludo",
+"texto": "Mira la hora: en la mañana morning, en la tarde afternoon y al oscurecer evening."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *How are you?*",
+"respuesta": "¿Cómo estás?"
+},
+{
+"ejercicio": "¿Cómo dices adiós en inglés?",
+"respuesta": "*Goodbye* o *bye*."
+},
+{
+"ejercicio": "¿Qué dices antes de dormir?",
+"respuesta": "*Good night.*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Números del 1 al 20 en inglés",
+"slug": "numeros-del-1-al-20-en-ingles-primaria",
+"palabras": [
+"números en inglés",
+"one two three",
+"contar en inglés",
+"numbers"
+],
+"contenido": {
+"idea": "Contar tus dedos en inglés es como aprender una canción nueva. Después de veinte palabras ya puedes decir tu edad y contar tus cosas.",
+"pizarron": "**La regla:** del 13 al 19, los números terminan en *-teen*.\n\n| Número | Inglés | Suena |\n|---|---|---|\n| 1 | one | uan |\n| 2 | two | tu |\n| 3 | three | zri |\n| 4 | four | for |\n| 5 | five | faiv |\n| 6 | six | siks |\n| 7 | seven | séven |\n| 8 | eight | eit |\n| 9 | nine | nain |\n| 10 | ten | ten |\n| 11 | eleven | iléven |\n| 12 | twelve | tuelv |\n| 13 | thirteen | zertín |\n| 14 | fourteen | fortín |\n| 15 | fifteen | fiftín |\n| 16 | sixteen | sikstín |\n| 17 | seventeen | seventín |\n| 18 | eighteen | eitín |\n| 19 | nineteen | naintín |\n| 20 | twenty | tuénti |\n\nDel 13 al 19 todos terminan en **-teen**.\n\nPara decir tu edad: *I am eight* (ai am eit), tengo ocho años.",
+"truco": "Del 13 al 19, todos terminan en -teen.",
+"practica": {
+"ejercicio": "¿Cómo se dice 7 en inglés?",
+"respuesta": "*Seven.*"
+},
+"analogias": [
+{
+"titulo": "Los escalones",
+"texto": "Cada número es un escalón: si dices uno tras otro todos los días, subes sin tropezarte."
+},
+{
+"titulo": "La familia teen",
+"texto": "Del trece al diecinueve son hermanos con el mismo apellido, y ese apellido es teen."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe 12 en inglés.",
+"respuesta": "*Twelve.*"
+},
+{
+"ejercicio": "¿Qué número es *fifteen*?",
+"respuesta": "15."
+},
+{
+"ejercicio": "¿Cómo dices que tienes nueve años?",
+"respuesta": "*I am nine.*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Colores en inglés",
+"slug": "colores-en-ingles-primaria",
+"palabras": [
+"colores",
+"colors",
+"red",
+"blue",
+"yellow"
+],
+"contenido": {
+"idea": "Tu caja de colores sigue igual, solo cambian los nombres. Al ver un coche rojo podrás decir su color en otro idioma.",
+"pizarron": "**La regla:** en inglés, el color va antes de la cosa: *a red car*.\n\n| Color | Inglés | Suena |\n|---|---|---|\n| rojo | red | red |\n| azul | blue | blu |\n| amarillo | yellow | yélou |\n| verde | green | grin |\n| naranja | orange | óranch |\n| morado | purple | pérpol |\n| rosa | pink | pink |\n| café | brown | braun |\n| negro | black | blak |\n| blanco | white | uait |\n| gris | gray | grei |\n\nEn inglés el color va **antes** de la cosa:\n\n- *a red car*: un coche rojo.\n- *a blue ball*: una pelota azul.\n\nPregunta útil: *What color is it?* (uat cólor is it), ¿de qué color es?",
+"truco": "En inglés, primero el color y luego la cosa.",
+"practica": {
+"ejercicio": "¿Cómo dices «un perro negro»?",
+"respuesta": "*A black dog.*"
+},
+"analogias": [
+{
+"titulo": "La etiqueta",
+"texto": "En inglés la etiqueta del color se pega por delante de la cosa, no por detrás."
+},
+{
+"titulo": "El arcoíris",
+"texto": "Nombra en voz alta cada color del arcoíris y tendrás un repaso en cualquier día de lluvia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué color es *green*?",
+"respuesta": "Verde."
+},
+{
+"ejercicio": "¿Cómo se dice amarillo?",
+"respuesta": "*Yellow.*"
+},
+{
+"ejercicio": "Ordena: *ball / red / a*.",
+"respuesta": "*A red ball.*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Mi familia en inglés",
+"slug": "mi-familia-en-ingles-primaria",
+"palabras": [
+"familia",
+"family",
+"mother",
+"father",
+"hermanos"
+],
+"contenido": {
+"idea": "Una foto familiar es el mejor libro de inglés. Señala a cada persona, di quién es y tu vocabulario crece solito.",
+"pizarron": "**La regla:** para presentar a alguien se dice *This is my...*\n\n| Español | Inglés | Suena |\n|---|---|---|\n| mamá | mother / mom | máder / mom |\n| papá | father / dad | fáder / dad |\n| hermana | sister | síster |\n| hermano | brother | bráder |\n| abuela | grandmother | grandmáder |\n| abuelo | grandfather | grandfáder |\n| tía | aunt | ant |\n| tío | uncle | ánkol |\n| prima o primo | cousin | cásin |\n\nPara presentar a alguien:\n\n*This is my mother* (dis is mai máder): ella es mi mamá.\n\n*Cousin* sirve para prima y para primo.\n\nPregunta útil: *Who is she?* (ju is shi), ¿quién es ella?",
+"truco": "Grand significa grande: los abuelos son los grandes.",
+"practica": {
+"ejercicio": "¿Cómo dices «él es mi hermano»?",
+"respuesta": "*This is my brother.*"
+},
+"analogias": [
+{
+"titulo": "El árbol familiar",
+"texto": "Cada rama lleva un nombre en inglés: abajo tú, arriba tus padres y hasta arriba tus abuelos."
+},
+{
+"titulo": "La foto en la sala",
+"texto": "Cada vez que pases junto a la foto, nombra a una persona y tendrás una práctica rápida."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *sister*?",
+"respuesta": "Hermana."
+},
+{
+"ejercicio": "¿Cómo se dice abuelo?",
+"respuesta": "*Grandfather.*"
+},
+{
+"ejercicio": "¿Qué significa *uncle*?",
+"respuesta": "Tío."
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Mi cuerpo en inglés",
+"slug": "mi-cuerpo-en-ingles-primaria",
+"palabras": [
+"cuerpo",
+"body",
+"head",
+"hands",
+"partes del cuerpo"
+],
+"contenido": {
+"idea": "Juega a tocar tu cabeza, tus manos y tus pies. Cada parte que tocas se convierte en una palabra nueva en inglés.",
+"pizarron": "**La regla:** los plurales llevan *-s*, pero un pie es *foot* y dos pies son *feet*.\n\n| Español | Inglés | Suena |\n|---|---|---|\n| cabeza | head | jed |\n| ojos | eyes | ais |\n| orejas | ears | irs |\n| nariz | nose | nous |\n| boca | mouth | maus |\n| pelo | hair | jer |\n| hombros | shoulders | shólders |\n| brazos | arms | arms |\n| manos | hands | jands |\n| piernas | legs | legs |\n| rodillas | knees | nis |\n| pies | feet | fit |\n\nCasi todos los plurales llevan **-s**: *hand*, *hands*.\n\nOjo: un pie es *foot* (fut) y dos pies son *feet* (fit).\n\nFrase útil: *I have two eyes* (ai jav tu ais), tengo dos ojos.",
+"truco": "Un foot, dos feet: el pie cambia al ser dos.",
+"practica": {
+"ejercicio": "¿Cómo se dice nariz?",
+"respuesta": "*Nose.*"
+},
+"analogias": [
+{
+"titulo": "Simón dice",
+"texto": "Si juegas a tocarte la parte que nombran, tu cuerpo aprende la palabra junto con tu cabeza."
+},
+{
+"titulo": "El mapa del cuerpo",
+"texto": "Dibuja tu silueta y escribe cada palabra con una flecha, igual que un mapa con sus lugares."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *hands*?",
+"respuesta": "Manos."
+},
+{
+"ejercicio": "¿Cómo se dice boca?",
+"respuesta": "*Mouth.*"
+},
+{
+"ejercicio": "¿Cuál es el plural de *foot*?",
+"respuesta": "*Feet.*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Animales en inglés",
+"slug": "animales-en-ingles-primaria",
+"palabras": [
+"animales",
+"animals",
+"dog",
+"cat",
+"mascotas"
+],
+"contenido": {
+"idea": "Imagina que visitas un zoológico donde los letreros están en inglés. Con unas cuantas palabras ya sabrás qué animal hay en cada lugar.",
+"pizarron": "**La regla:** para decir qué es, se usa *It is a...*\n\n**En casa y la granja**:\n\n- *dog* (dog): perro.\n- *cat* (kat): gato.\n- *bird* (berd): pájaro.\n- *fish* (fish): pez.\n- *horse* (jors): caballo.\n- *cow* (kau): vaca.\n- *chicken* (chíken): pollo o gallina.\n\n**En la selva y el zoológico**:\n\n- *lion* (láion): león.\n- *elephant* (élefant): elefante.\n- *monkey* (mónki): mono.\n- *snake* (sneik): serpiente.\n\nPregunta útil: *What is it?* (uat is it), ¿qué es?\n\nRespuesta: *It is a dog* (it is a dog), es un perro.",
+"truco": "Pregunta what is it; responde it is a.",
+"practica": {
+"ejercicio": "¿Cómo se dice caballo?",
+"respuesta": "*Horse.*"
+},
+"analogias": [
+{
+"titulo": "El letrero del zoológico",
+"texto": "Cada jaula tiene su cartel, y tu memoria guarda el nombre junto al dibujo del animal."
+},
+{
+"titulo": "Tu mascota",
+"texto": "Si le hablas a tu mascota con su nombre en inglés, la palabra se queda en la práctica diaria."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué animal es *monkey*?",
+"respuesta": "Mono."
+},
+{
+"ejercicio": "¿Cómo dices «es un gato»?",
+"respuesta": "*It is a cat.*"
+},
+{
+"ejercicio": "¿Qué significa *bird*?",
+"respuesta": "Pájaro."
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Objetos del salón en inglés",
+"slug": "objetos-del-salon-en-ingles-primaria",
+"palabras": [
+"salón",
+"classroom",
+"pencil",
+"book",
+"útiles escolares"
+],
+"contenido": {
+"idea": "Tu mochila está llena de palabras en inglés. Saca cada cosa, di su nombre y vuelve a guardarla como si fuera un juego.",
+"pizarron": "**La regla:** usa *a* antes de consonante y *an* antes de sonido de vocal.\n\n| Español | Inglés | Suena |\n|---|---|---|\n| lápiz | pencil | pénsil |\n| pluma | pen | pen |\n| libro | book | buk |\n| cuaderno | notebook | nóutbuk |\n| goma | eraser | iréiser |\n| regla | ruler | rúler |\n| mochila | backpack | bákpak |\n| silla | chair | cher |\n| mesa o banca | desk | desk |\n| pizarrón | board | bord |\n\nPara decir qué es: *It is a pencil*, es un lápiz.\n\nUsa **an** si la palabra empieza con sonido de vocal: *an eraser*, una goma.\n\nPara pedir algo: *Can I have a pen, please?* (kan ai jav a pen, plis), ¿me das una pluma, por favor?",
+"truco": "Antes de vocal, cambia la a por an.",
+"practica": {
+"ejercicio": "¿Cómo se dice libro?",
+"respuesta": "*Book.*"
+},
+"analogias": [
+{
+"titulo": "La tienda escolar",
+"texto": "Imagina que compras útiles en inglés: para llevarte cada cosa debes decir su nombre."
+},
+{
+"titulo": "Etiquetas pegadas",
+"texto": "Pega una tarjeta en la silla y en la mesa: verás la palabra cada vez que te sientes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *ruler*?",
+"respuesta": "Regla."
+},
+{
+"ejercicio": "Completa: *It is ___ eraser.*",
+"respuesta": "*an*"
+},
+{
+"ejercicio": "¿Cómo se dice mochila?",
+"respuesta": "*Backpack.*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Instrucciones del salón en inglés",
+"slug": "instrucciones-del-salon-en-ingles-primaria",
+"palabras": [
+"instrucciones",
+"classroom commands",
+"sit down",
+"stand up",
+"open your book"
+],
+"contenido": {
+"idea": "Tu maestra dice una frase y tú haces lo que pide. Si reconoces estas órdenes, entenderás la clase de inglés aunque no sepas todas las palabras.",
+"pizarron": "**La regla:** las órdenes en inglés usan el verbo solo: *Sit down*.\n\n| Inglés | Suena | Significa |\n|---|---|---|\n| Stand up | stand ap | levántate |\n| Sit down | sit daun | siéntate |\n| Open your book | óupen yor buk | abre tu libro |\n| Close your book | clous yor buk | cierra tu libro |\n| Listen | lísen | escucha |\n| Look | luk | mira |\n| Repeat | ripít | repite |\n| Write | rait | escribe |\n| Read | rid | lee |\n\nFrases para pedir ayuda:\n\n- *I don't understand* (ai dont anderstánd): no entiendo.\n- *Can you repeat, please?* (kan yu ripít, plis): ¿puede repetir, por favor?\n- *May I go to the bathroom?* (mei ai gou tu de bázrum): ¿puedo ir al baño?",
+"truco": "Up es arriba, down es abajo: stand up, sit down.",
+"practica": {
+"ejercicio": "¿Qué haces si oyes *sit down*?",
+"respuesta": "Te sientas."
+},
+"analogias": [
+{
+"titulo": "Control remoto",
+"texto": "Cada orden es un botón: stand up te levanta y sit down te sienta en tu lugar."
+},
+{
+"titulo": "Ascensor",
+"texto": "Up sube y down baja, como los botones de un elevador en un edificio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *listen*?",
+"respuesta": "Escucha."
+},
+{
+"ejercicio": "¿Cómo dices «no entiendo»?",
+"respuesta": "*I don't understand.*"
+},
+{
+"ejercicio": "¿Qué significa *open your book*?",
+"respuesta": "Abre tu libro."
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "My name is: presentarme",
+"slug": "my-name-is-presentarme-primaria",
+"palabras": [
+"presentarse",
+"my name is",
+"what is your name",
+"I am"
+],
+"contenido": {
+"idea": "Cuando conoces a alguien le dices tu nombre y tu edad. Con tres frases cortas ya puedes hacer un amigo en inglés.",
+"pizarron": "**La regla:** tu nombre se dice con *My name is* y tu edad con *I am*.\n\n**Decir tu nombre**:\n\n- *What is your name?* (uat is yor neim): ¿cómo te llamas?\n- *My name is Luis* (mai neim is Luis): me llamo Luis.\n\n**Decir tu edad**:\n\n- *How old are you?* (jau old ar yu): ¿cuántos años tienes?\n- *I am seven* (ai am séven): tengo siete años.\n\n**Decir de dónde eres**:\n\n- *Where are you from?* (uer ar yu from): ¿de dónde eres?\n- *I am from Mexico* (ai am from México): soy de México.\n\nAl terminar puedes decir *Nice to meet you* (nais tu mit yu), mucho gusto.\n\nEn inglés la edad usa **am**: se dice *I am seven*, no *I have seven*.",
+"truco": "Tu edad se dice con am, no con have.",
+"practica": {
+"ejercicio": "Di que tienes ocho años.",
+"respuesta": "*I am eight.*"
+},
+"analogias": [
+{
+"titulo": "Tu credencial",
+"texto": "Nombre, edad y lugar son tu credencial hablada; dila completa y ya te conocen."
+},
+{
+"titulo": "El juego de la pelota",
+"texto": "Lanzas una pregunta como pelota, tu compañero responde y te la devuelve con otra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *What is your name?*",
+"respuesta": "¿Cómo te llamas?"
+},
+{
+"ejercicio": "Completa: *I ___ from Mexico.*",
+"respuesta": "*am*"
+},
+{
+"ejercicio": "¿Qué dices al conocer a alguien?",
+"respuesta": "*Nice to meet you.*"
+}
+]
+}
+}
 ]

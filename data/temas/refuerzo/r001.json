@@ -1,65 +1,409 @@
 [
-{"nodo_id":"f3-033","titulo":"Contar y escribir números hasta el 100","slug":"contar-y-escribir-numeros-hasta-el-100-primaria","palabras":["contar","números del 1 al 100","decenas","veintiuno","treinta","escribir números"],"contenido":{
-"idea":"Contar es como subir una escalera: cada escalón es un número más. Cada vez que subes 10 escalones llegas a un descanso: 10, 20, 30... así nunca te pierdes.",
-"pizarron":"Los números del 1 al 100 siguen un patrón:\n\n1. Del 0 al 9 solo cambia la cifra de la derecha.\n2. Al llegar al 9, sigue una nueva decena: 19, **20**.\n3. El número de la izquierda dice cuántas decenas hay: 30 son 3 decenas.\n\nCómo se escriben las decenas: diez, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien.\n\nPara escribir con letra:\n\n- Del 16 al 29 va todo junto: dieciséis, veintidós.\n- Del 31 en adelante se usa **y**: treinta y uno, cuarenta y cinco.\n\nEjemplo: 57 se lee cincuenta y siete: 5 decenas y 7 unidades.",
-"truco":"Después del 9 siempre cambia la decena: 29 → 30, 49 → 50.",
-"practica":{"ejercicio":"Escribe el número que sigue: 38, 39, ___","respuesta":"40. Después del 9 cambia la decena."},
-"analogias":[{"titulo":"Los huevos en cartón","texto":"Imagina cartones que guardan 10 huevos. Cuando uno se llena, empiezas otro. El número 34 significa 3 cartones llenos y 4 huevos sueltos."},{"titulo":"Las cuentas de un collar","texto":"Un collar tiene cuentas de colores y cada 10 cuentas cambia el color. Solo mirando los colores sabes cuántas decenas llevas, sin contar una por una."}],
-"ejercicios":[{"ejercicio":"Escribe con letra el número 72.","respuesta":"Setenta y dos."},{"ejercicio":"Escribe con número: cuarenta y seis.","respuesta":"46"},{"ejercicio":"Completa: 67, 68, ___, ___, 71.","respuesta":"69 y 70."}]}},
-{"nodo_id":"f3-033","titulo":"Contar y escribir números hasta el 1000","slug":"contar-y-escribir-numeros-hasta-el-1000-primaria","palabras":["centenas","ciento","doscientos","quinientos","mil","números hasta mil"],"contenido":{
-"idea":"Si 10 dulces forman una bolsita, 10 bolsitas forman una caja. Una caja tiene 100 dulces. Con 10 cajas llegas a 1000. Los números grandes son solo más cajas.",
-"pizarron":"Después del 99 viene el 100 y empiezan las **centenas**.\n\nCómo se escriben las centenas:\n\n- 100 cien, 200 doscientos, 300 trescientos, 400 cuatrocientos\n- 500 **quinientos**, 600 seiscientos, 700 **setecientos**, 800 ochocientos\n- 900 **novecientos**, 1000 mil\n\nLas tres marcadas son las que más se equivocan.\n\nPara leer un número de tres cifras, lee la centena y luego el resto:\n\n- 248: doscientos cuarenta y ocho.\n- 305: trescientos cinco. El 0 indica que no hay decenas.\n- 110: ciento diez. Se dice **ciento** cuando sigue algo; **cien** cuando es exacto.\n\nAl pasar de 299 sigue 300, y de 999 sigue 1000.",
-"truco":"Cien solo, ciento con compañía: cien, ciento uno, ciento dos.",
-"practica":{"ejercicio":"Escribe con letra el número 507.","respuesta":"Quinientos siete."},
-"analogias":[{"titulo":"Los edificios","texto":"Cada piso de un edificio tiene 100 departamentos numerados. El 305 está en el tercer piso, puerta 5. La primera cifra te dice el piso."},{"titulo":"Las monedas","texto":"Un billete de 100 pesos vale lo que diez monedas de 10. Con diez billetes de 100 juntas 1000 pesos: siempre se junta de diez en diez."}],
-"ejercicios":[{"ejercicio":"Escribe con número: setecientos cuarenta y uno.","respuesta":"741"},{"ejercicio":"¿Qué número sigue de 699?","respuesta":"700"},{"ejercicio":"Escribe con letra 910.","respuesta":"Novecientos diez."}]}},
-{"nodo_id":"f3-033","titulo":"Unidades, decenas y centenas","slug":"unidades-decenas-y-centenas-primaria","palabras":["valor posicional","unidades","decenas","centenas","descomponer","cifras"],"contenido":{
-"idea":"Las cifras son como jugadores con su lugar en la cancha. El mismo 3 vale distinto según dónde se pare: en un lugar vale 3, en otro 30 y en otro 300.",
-"pizarron":"Cada lugar de un número tiene un valor, de derecha a izquierda:\n\n1. **Unidades (U)**: valen 1.\n2. **Decenas (D)**: valen 10.\n3. **Centenas (C)**: valen 100.\n\nEjemplo con 365:\n\n| C | D | U |\n|---|---|---|\n| 3 | 6 | 5 |\n\n- 3 centenas = 300\n- 6 decenas = 60\n- 5 unidades = 5\n\nSe puede **descomponer**: 365 = 300 + 60 + 5.\n\nCambios: 10 unidades forman 1 decena y 10 decenas forman 1 centena.\n\nEl 0 guarda el lugar: en 407 hay 4 centenas, 0 decenas y 7 unidades.",
-"truco":"Lee de derecha a izquierda: U, D, C. Como la palabra al revés de CDU.",
-"practica":{"ejercicio":"En el número 482, ¿cuánto vale el 8?","respuesta":"Vale 80, porque está en el lugar de las decenas."},
-"analogias":[{"titulo":"Billetes y monedas","texto":"Las unidades son monedas de 1 peso, las decenas monedas de 10 y las centenas billetes de 100. Con 2 billetes, 3 monedas de 10 y 4 de 1 tienes 234 pesos."},{"titulo":"Las casas de la calle","texto":"Cada cifra vive en su casa: la casa U, la casa D y la casa C. Si la cifra se muda a la casa de la izquierda, vale diez veces más."}],
-"ejercicios":[{"ejercicio":"Descompón 259.","respuesta":"200 + 50 + 9"},{"ejercicio":"¿Qué número tiene 6 centenas, 0 decenas y 3 unidades?","respuesta":"603"},{"ejercicio":"¿Cuántas decenas hay en 2 centenas?","respuesta":"20 decenas, porque cada centena tiene 10 decenas."}]}},
-{"nodo_id":"f3-033","titulo":"Antecesor y sucesor","slug":"antecesor-y-sucesor-primaria","palabras":["número anterior","número siguiente","antes y después","vecinos"],"contenido":{
-"idea":"Los números hacen fila. El que está justo atrás de ti es tu antecesor y el que está justo adelante es tu sucesor. Cada número tiene sus dos vecinos.",
-"pizarron":"- **Antecesor**: el número que va justo antes. Se le **resta 1**.\n- **Sucesor**: el número que va justo después. Se le **suma 1**.\n\nEjemplo con 48:\n\n- Antecesor: 48 - 1 = 47\n- Sucesor: 48 + 1 = 49\n\nCuidado cuando hay ceros o nueves:\n\n- Sucesor de 39: 40\n- Antecesor de 70: 69\n- Sucesor de 199: 200\n- Antecesor de 300: 299\n\nEl 0 tiene sucesor, que es 1. Si contamos solo desde el 0, no tiene antecesor.",
-"truco":"Antes empieza con A de atrás: antecesor va atrás. Sucesor sigue.",
-"practica":{"ejercicio":"¿Cuál es el antecesor y el sucesor de 90?","respuesta":"Antecesor 89 y sucesor 91."},
-"analogias":[{"titulo":"Las páginas del libro","texto":"Si estás en la página 25, la anterior es la 24 y la siguiente es la 26. Dar vuelta atrás o adelante es encontrar antecesor y sucesor."},{"titulo":"La fila de las tortillas","texto":"En la fila, la persona que llegó justo antes que tú es tu antecesor y la que llegó justo después es tu sucesor."}],
-"ejercicios":[{"ejercicio":"¿Cuál es el sucesor de 299?","respuesta":"300"},{"ejercicio":"¿Cuál es el antecesor de 100?","respuesta":"99"},{"ejercicio":"Completa: ___, 510, ___","respuesta":"509 y 511."}]}},
-{"nodo_id":"f3-033","titulo":"Comparar números: mayor, menor e igual","slug":"comparar-numeros-mayor-menor-e-igual-primaria","palabras":["mayor que","menor que","signos","comparar","ordenar números"],"contenido":{
-"idea":"El signo de mayor y menor es como la boca de un cocodrilo hambriento: siempre se abre hacia el número más grande, porque quiere comer más.",
-"pizarron":"Los signos son:\n\n- **>** mayor que: 8 > 3\n- **<** menor que: 3 < 8\n- **=** igual a: 5 = 5\n\nPasos para comparar:\n\n1. Cuenta las cifras. Con más cifras, el número es mayor: 100 > 99.\n2. Si tienen las mismas cifras, compara de izquierda a derecha.\n3. La primera cifra diferente decide.\n\nEjemplo: 472 y 465.\n\n- Centenas: 4 y 4, iguales.\n- Decenas: 7 y 6. Como 7 es mayor, entonces 472 > 465.\n\nPara **ordenar** de menor a mayor, busca el más chico y sigue: 12, 30, 45, 101.",
-"truco":"La boca del cocodrilo siempre se abre hacia el número grande.",
-"practica":{"ejercicio":"Escribe el signo correcto: 356 ___ 365","respuesta":"356 < 365, porque en las decenas 5 es menor que 6."},
-"analogias":[{"titulo":"Las dos bolsas de canicas","texto":"Si una bolsa tiene 12 canicas y otra 8, la primera pesa más. Comparar números es ver cuál bolsa tiene más."},{"titulo":"Las torres de bloques","texto":"Cada número es una torre. Compara las torres parado enfrente: la más alta representa al número mayor."}],
-"ejercicios":[{"ejercicio":"Escribe el signo: 89 ___ 98","respuesta":"89 < 98"},{"ejercicio":"Ordena de menor a mayor: 204, 240, 42.","respuesta":"42, 204, 240."},{"ejercicio":"Escribe el signo: 100 ___ 99","respuesta":"100 > 99, porque tiene más cifras."}]}},
-{"nodo_id":"f3-033","titulo":"La recta numérica","slug":"la-recta-numerica-primaria","palabras":["recta","línea de números","saltos","ubicar números"],"contenido":{
-"idea":"La recta numérica es un camino con marcas, como una carretera con kilómetros. Cada número tiene su lugar y puedes caminar hacia adelante o hacia atrás.",
-"pizarron":"En la recta numérica:\n\n1. Los números van de **menor a mayor**, de izquierda a derecha.\n2. Las marcas están a la misma distancia.\n3. Cada salto tiene el mismo tamaño.\n\nEjemplo de saltos de 1:\n\n`0 — 1 — 2 — 3 — 4 — 5`\n\nSirve para sumar y restar:\n\n- **Sumar** es saltar a la derecha: 3 + 4, parto del 3 y doy 4 saltos, llego a 7.\n- **Restar** es saltar a la izquierda: 9 - 2, parto del 9 y doy 2 saltos, llego a 7.\n\nLa recta puede ir de 10 en 10: 0, 10, 20, 30. Primero fíjate de cuánto es cada salto.",
-"truco":"Sumar va a la derecha y restar regresa a la izquierda.",
-"practica":{"ejercicio":"En una recta con marcas de 5 en 5 ves 0, 5, 10, __, 20. ¿Qué número falta?","respuesta":"15. Cada salto vale 5."},
-"analogias":[{"titulo":"El juego de la oca","texto":"Avanzas casillas al sacar un número en el dado y a veces retrocedes. Moverte en el tablero es moverte en la recta."},{"titulo":"La regla de la escuela","texto":"Tu regla es una recta numérica. Los números están parejos y aumentan hacia un lado, igual que en el cuaderno."}],
-"ejercicios":[{"ejercicio":"Parte del 6 y da 5 saltos a la derecha. ¿A dónde llegas?","respuesta":"A 11, porque 6 + 5 = 11."},{"ejercicio":"Parte del 12 y da 4 saltos a la izquierda. ¿A dónde llegas?","respuesta":"A 8, porque 12 - 4 = 8."},{"ejercicio":"Una recta tiene 0, 20, 40, __, 80. ¿Qué número falta?","respuesta":"60. Cada salto vale 20."}]}},
-{"nodo_id":"f3-033","titulo":"Números pares e impares","slug":"numeros-pares-e-impares-primaria","palabras":["par","impar","parejas","terminan en","dividir entre 2"],"contenido":{
-"idea":"Imagina que tu grupo se forma de dos en dos para el recreo. Si todos tienen pareja, el número es par. Si alguien se queda solito, es impar.",
-"pizarron":"- **Par**: se puede repartir en dos partes iguales sin que sobre nada.\n- **Impar**: al repartir en dos, sobra 1.\n\nPara saberlo, solo mira la **última cifra**:\n\n- Pares terminan en 0, 2, 4, 6 u 8.\n- Impares terminan en 1, 3, 5, 7 o 9.\n\nEjemplos:\n\n- 34 termina en 4: par.\n- 57 termina en 7: impar.\n- 120 termina en 0: par.\n\nLos pares e impares se van alternando: 1 impar, 2 par, 3 impar, 4 par.",
-"truco":"Mira solo la última cifra: 0, 2, 4, 6, 8 siempre son pares.",
-"practica":{"ejercicio":"¿El número 136 es par o impar?","respuesta":"Par, porque termina en 6."},
-"analogias":[{"titulo":"Los calcetines","texto":"Los calcetines van de dos en dos. Con 8 calcetines haces 4 pares. Con 9, te sobra uno sin compañero: 9 es impar."},{"titulo":"Las banquetas de la calle","texto":"En muchas calles, un lado tiene las casas con número par y el otro las de número impar. Los números se van turnando."}],
-"ejercicios":[{"ejercicio":"Escribe los números pares entre 10 y 20.","respuesta":"12, 14, 16 y 18."},{"ejercicio":"¿Es 245 par o impar?","respuesta":"Impar, porque termina en 5."},{"ejercicio":"Hay 15 alumnos y se forman en parejas. ¿Sobra alguien?","respuesta":"Sí, sobra 1, porque 15 es impar: se forman 7 parejas."}]}},
-{"nodo_id":"f3-033","titulo":"Números ordinales","slug":"numeros-ordinales-primaria","palabras":["primero","segundo","tercero","lugar","orden","décimo"],"contenido":{
-"idea":"En una carrera no importa cuántos corren, sino en qué lugar llegas: primero, segundo, tercero. Esos números que dicen el lugar se llaman ordinales.",
-"pizarron":"Los números **ordinales** indican el **lugar** u orden de algo. Los números normales indican cantidad.\n\n| Número | Se escribe | Se lee |\n|---|---|---|\n| 1 | 1.º | primero |\n| 2 | 2.º | segundo |\n| 3 | 3.º | tercero |\n| 4 | 4.º | cuarto |\n| 5 | 5.º | quinto |\n| 6 | 6.º | sexto |\n| 7 | 7.º | séptimo |\n| 8 | 8.º | octavo |\n| 9 | 9.º | noveno |\n| 10 | 10.º | décimo |\n\nEn femenino se usa **a**: primera, segunda, 1.ª, 2.ª.\n\nEjemplo: «Vivo en el tercer piso» indica el lugar del piso, no cuántos pisos hay.",
-"truco":"Si responde ¿en qué lugar?, usa ordinal. Si responde ¿cuántos?, usa número normal.",
-"practica":{"ejercicio":"En una fila, Ana está después de 4 niñas. ¿En qué lugar está?","respuesta":"En el quinto lugar (5.º)."},
-"analogias":[{"titulo":"Los grados escolares","texto":"Se dice primero, segundo y tercero de primaria. Esos nombres son ordinales: indican el lugar de cada año en tu camino escolar."},{"titulo":"Las medallas","texto":"En las olimpiadas hay oro, plata y bronce para primero, segundo y tercero. La medalla depende del lugar de llegada, no de cuántos compitieron."}],
-"ejercicios":[{"ejercicio":"Escribe con letra 7.º","respuesta":"Séptimo."},{"ejercicio":"¿Qué lugar sigue después del noveno?","respuesta":"El décimo."},{"ejercicio":"Marzo es el tercer mes del año. ¿Cómo se escribe tercero con número ordinal?","respuesta":"3.º"}]}},
-{"nodo_id":"f3-033","titulo":"Contar de 2 en 2, de 5 en 5 y de 10 en 10","slug":"contar-de-2-en-2-de-5-en-5-y-de-10-en-10-primaria","palabras":["series","saltos","patrones","contar rápido","secuencias"],"contenido":{
-"idea":"Contar de uno en uno es caminar. Contar de 2 en 2, de 5 en 5 o de 10 en 10 es dar zancadas: llegas más rápido al mismo lugar.",
-"pizarron":"Una **serie** avanza siempre con el mismo salto.\n\n- **De 2 en 2**: 2, 4, 6, 8, 10, 12. Terminan en 2, 4, 6, 8 o 0.\n- **De 5 en 5**: 5, 10, 15, 20, 25. Terminan en 5 o 0.\n- **De 10 en 10**: 10, 20, 30, 40. Terminan en 0.\n\nPuedes empezar desde otro número: 3, 13, 23, 33 va de 10 en 10.\n\nCómo encontrar el salto:\n\n1. Toma dos números seguidos.\n2. Resta el menor al mayor.\n3. Comprueba con otra pareja.\n\nEjemplo: 15, 20, 25. Como 20 - 15 = 5, el salto es 5.\n\nTambién se puede contar hacia atrás: 50, 40, 30, 20.",
-"truco":"De 5 en 5 solo verás terminar en 5 y en 0.",
-"practica":{"ejercicio":"Completa la serie: 35, 40, 45, ___, ___","respuesta":"50 y 55. Va de 5 en 5."},
-"analogias":[{"titulo":"Las manos","texto":"Cada mano tiene 5 dedos. Si cuentas manos de tus compañeros, vas de 5 en 5: 5, 10, 15, 20."},{"titulo":"Los zapatos","texto":"Los zapatos vienen en pares. Para saber cuántos hay en la puerta, cuentas de 2 en 2: 2, 4, 6, 8."}],
-"ejercicios":[{"ejercicio":"Completa: 16, 18, 20, ___, ___","respuesta":"22 y 24."},{"ejercicio":"Completa hacia atrás: 90, 80, 70, ___","respuesta":"60"},{"ejercicio":"¿De cuánto es el salto en 7, 17, 27, 37?","respuesta":"De 10, porque 17 - 7 = 10."}]}}
+{
+"nodo_id": "f3-033",
+"titulo": "Contar y escribir números hasta el 100",
+"slug": "contar-y-escribir-numeros-hasta-el-100-primaria",
+"palabras": [
+"contar",
+"números del 1 al 100",
+"decenas",
+"veintiuno",
+"treinta",
+"escribir números"
+],
+"contenido": {
+"idea": "Contar es como subir una escalera: cada escalón es un número más. Cada vez que subes 10 escalones llegas a un descanso: 10, 20, 30... así nunca te pierdes.",
+"pizarron": "**La regla:** cada diez números empieza una nueva decena, y la cifra de la izquierda dice cuántas decenas hay.\n\nLos números del 1 al 100 siguen un patrón:\n\n1. Del 0 al 9 solo cambia la cifra de la derecha.\n2. Al llegar al 9, sigue una nueva decena: 19, **20**.\n3. El número de la izquierda dice cuántas decenas hay: 30 son 3 decenas.\n\nCómo se escriben las decenas: diez, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien.\n\nPara escribir con letra:\n\n- Del 16 al 29 va todo junto: dieciséis, veintidós.\n- Del 31 en adelante se usa **y**: treinta y uno, cuarenta y cinco.\n\nEjemplo: 57 se lee cincuenta y siete: 5 decenas y 7 unidades.",
+"truco": "Después del 9 siempre cambia la decena: 29 → 30, 49 → 50.",
+"practica": {
+"ejercicio": "Escribe el número que sigue: 38, 39, ___",
+"respuesta": "40. Después del 9 cambia la decena."
+},
+"analogias": [
+{
+"titulo": "Los huevos en cartón",
+"texto": "Imagina cartones que guardan 10 huevos. Cuando uno se llena, empiezas otro. El número 34 significa 3 cartones llenos y 4 huevos sueltos."
+},
+{
+"titulo": "Las cuentas de un collar",
+"texto": "Un collar tiene cuentas de colores y cada 10 cuentas cambia el color. Solo mirando los colores sabes cuántas decenas llevas, sin contar una por una."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe con letra el número 72.",
+"respuesta": "Setenta y dos."
+},
+{
+"ejercicio": "Escribe con número: cuarenta y seis.",
+"respuesta": "46"
+},
+{
+"ejercicio": "Completa: 67, 68, ___, ___, 71.",
+"respuesta": "69 y 70."
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "Contar y escribir números hasta el 1000",
+"slug": "contar-y-escribir-numeros-hasta-el-1000-primaria",
+"palabras": [
+"centenas",
+"ciento",
+"doscientos",
+"quinientos",
+"mil",
+"números hasta mil"
+],
+"contenido": {
+"idea": "Si 10 dulces forman una bolsita, 10 bolsitas forman una caja. Una caja tiene 100 dulces. Con 10 cajas llegas a 1000. Los números grandes son solo más cajas.",
+"pizarron": "**La regla:** diez decenas forman una centena, y los números de tres cifras se leen empezando por las centenas.\n\nDespués del 99 viene el 100 y empiezan las **centenas**.\n\nCómo se escriben las centenas:\n\n- 100 cien, 200 doscientos, 300 trescientos, 400 cuatrocientos\n- 500 **quinientos**, 600 seiscientos, 700 **setecientos**, 800 ochocientos\n- 900 **novecientos**, 1000 mil\n\nLas tres marcadas son las que más se equivocan.\n\nPara leer un número de tres cifras, lee la centena y luego el resto:\n\n- 248: doscientos cuarenta y ocho.\n- 305: trescientos cinco. El 0 indica que no hay decenas.\n- 110: ciento diez. Se dice **ciento** cuando sigue algo; **cien** cuando es exacto.\n\nAl pasar de 299 sigue 300, y de 999 sigue 1000.",
+"truco": "Cien solo, ciento con compañía: cien, ciento uno, ciento dos.",
+"practica": {
+"ejercicio": "Escribe con letra el número 507.",
+"respuesta": "Quinientos siete."
+},
+"analogias": [
+{
+"titulo": "Los edificios",
+"texto": "Cada piso de un edificio tiene 100 departamentos numerados. El 305 está en el tercer piso, puerta 5. La primera cifra te dice el piso."
+},
+{
+"titulo": "Las monedas",
+"texto": "Un billete de 100 pesos vale lo que diez monedas de 10. Con diez billetes de 100 juntas 1000 pesos: siempre se junta de diez en diez."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe con número: setecientos cuarenta y uno.",
+"respuesta": "741"
+},
+{
+"ejercicio": "¿Qué número sigue de 699?",
+"respuesta": "700"
+},
+{
+"ejercicio": "Escribe con letra 910.",
+"respuesta": "Novecientos diez."
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "Unidades, decenas y centenas",
+"slug": "unidades-decenas-y-centenas-primaria",
+"palabras": [
+"valor posicional",
+"unidades",
+"decenas",
+"centenas",
+"descomponer",
+"cifras"
+],
+"contenido": {
+"idea": "Las cifras son como jugadores con su lugar en la cancha. El mismo 3 vale distinto según dónde se pare: en un lugar vale 3, en otro 30 y en otro 300.",
+"pizarron": "**La regla:** diez unidades forman una decena y diez decenas forman una centena.\n\nCada lugar de un número tiene un valor, de derecha a izquierda:\n\n1. **Unidades (U)**: valen 1.\n2. **Decenas (D)**: valen 10.\n3. **Centenas (C)**: valen 100.\n\nEjemplo con 365:\n\n| C | D | U |\n|---|---|---|\n| 3 | 6 | 5 |\n\n- 3 centenas = 300\n- 6 decenas = 60\n- 5 unidades = 5\n\nSe puede **descomponer**: 365 = 300 + 60 + 5.\n\nCambios: 10 unidades forman 1 decena y 10 decenas forman 1 centena.\n\nEl 0 guarda el lugar: en 407 hay 4 centenas, 0 decenas y 7 unidades.",
+"truco": "Lee de derecha a izquierda: U, D, C. Como la palabra al revés de CDU.",
+"practica": {
+"ejercicio": "En el número 482, ¿cuánto vale el 8?",
+"respuesta": "Vale 80, porque está en el lugar de las decenas."
+},
+"analogias": [
+{
+"titulo": "Billetes y monedas",
+"texto": "Las unidades son monedas de 1 peso, las decenas monedas de 10 y las centenas billetes de 100. Con 2 billetes, 3 monedas de 10 y 4 de 1 tienes 234 pesos."
+},
+{
+"titulo": "Las casas de la calle",
+"texto": "Cada cifra vive en su casa: la casa U, la casa D y la casa C. Si la cifra se muda a la casa de la izquierda, vale diez veces más."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Descompón 259.",
+"respuesta": "200 + 50 + 9"
+},
+{
+"ejercicio": "¿Qué número tiene 6 centenas, 0 decenas y 3 unidades?",
+"respuesta": "603"
+},
+{
+"ejercicio": "¿Cuántas decenas hay en 2 centenas?",
+"respuesta": "20 decenas, porque cada centena tiene 10 decenas."
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "Antecesor y sucesor",
+"slug": "antecesor-y-sucesor-primaria",
+"palabras": [
+"número anterior",
+"número siguiente",
+"antes y después",
+"vecinos"
+],
+"contenido": {
+"idea": "Los números hacen fila. El que está justo atrás de ti es tu antecesor y el que está justo adelante es tu sucesor. Cada número tiene sus dos vecinos.",
+"pizarron": "**La regla:** el antecesor de un número se obtiene restando 1, y el sucesor sumando 1.\n\n- **Antecesor**: el número que va justo antes. Se le **resta 1**.\n- **Sucesor**: el número que va justo después. Se le **suma 1**.\n\nEjemplo con 48:\n\n- Antecesor: 48 - 1 = 47\n- Sucesor: 48 + 1 = 49\n\nCuidado cuando hay ceros o nueves:\n\n- Sucesor de 39: 40\n- Antecesor de 70: 69\n- Sucesor de 199: 200\n- Antecesor de 300: 299\n\nEl 0 tiene sucesor, que es 1. Si contamos solo desde el 0, no tiene antecesor.",
+"truco": "Antes empieza con A de atrás: antecesor va atrás. Sucesor sigue.",
+"practica": {
+"ejercicio": "¿Cuál es el antecesor y el sucesor de 90?",
+"respuesta": "Antecesor 89 y sucesor 91."
+},
+"analogias": [
+{
+"titulo": "Las páginas del libro",
+"texto": "Si estás en la página 25, la anterior es la 24 y la siguiente es la 26. Dar vuelta atrás o adelante es encontrar antecesor y sucesor."
+},
+{
+"titulo": "La fila de las tortillas",
+"texto": "En la fila, la persona que llegó justo antes que tú es tu antecesor y la que llegó justo después es tu sucesor."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es el sucesor de 299?",
+"respuesta": "300"
+},
+{
+"ejercicio": "¿Cuál es el antecesor de 100?",
+"respuesta": "99"
+},
+{
+"ejercicio": "Completa: ___, 510, ___",
+"respuesta": "509 y 511."
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "Comparar números: mayor, menor e igual",
+"slug": "comparar-numeros-mayor-menor-e-igual-primaria",
+"palabras": [
+"mayor que",
+"menor que",
+"signos",
+"comparar",
+"ordenar números"
+],
+"contenido": {
+"idea": "El signo de mayor y menor es como la boca de un cocodrilo hambriento: siempre se abre hacia el número más grande, porque quiere comer más.",
+"pizarron": "**La regla:** el número con más cifras es el mayor; si tienen las mismas, decide la primera cifra diferente, de izquierda a derecha.\n\nLos signos son:\n\n- **>** mayor que: 8 > 3\n- **<** menor que: 3 < 8\n- **=** igual a: 5 = 5\n\nPasos para comparar:\n\n1. Cuenta las cifras. Con más cifras, el número es mayor: 100 > 99.\n2. Si tienen las mismas cifras, compara de izquierda a derecha.\n3. La primera cifra diferente decide.\n\nEjemplo: 472 y 465.\n\n- Centenas: 4 y 4, iguales.\n- Decenas: 7 y 6. Como 7 es mayor, entonces 472 > 465.\n\nPara **ordenar** de menor a mayor, busca el más chico y sigue: 12, 30, 45, 101.",
+"truco": "La boca del cocodrilo siempre se abre hacia el número grande.",
+"practica": {
+"ejercicio": "Escribe el signo correcto: 356 ___ 365",
+"respuesta": "356 < 365, porque en las decenas 5 es menor que 6."
+},
+"analogias": [
+{
+"titulo": "Las dos bolsas de canicas",
+"texto": "Si una bolsa tiene 12 canicas y otra 8, la primera pesa más. Comparar números es ver cuál bolsa tiene más."
+},
+{
+"titulo": "Las torres de bloques",
+"texto": "Cada número es una torre. Compara las torres parado enfrente: la más alta representa al número mayor."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe el signo: 89 ___ 98",
+"respuesta": "89 < 98"
+},
+{
+"ejercicio": "Ordena de menor a mayor: 204, 240, 42.",
+"respuesta": "42, 204, 240."
+},
+{
+"ejercicio": "Escribe el signo: 100 ___ 99",
+"respuesta": "100 > 99, porque tiene más cifras."
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "La recta numérica",
+"slug": "la-recta-numerica-primaria",
+"palabras": [
+"recta",
+"línea de números",
+"saltos",
+"ubicar números"
+],
+"contenido": {
+"idea": "La recta numérica es un camino con marcas, como una carretera con kilómetros. Cada número tiene su lugar y puedes caminar hacia adelante o hacia atrás.",
+"pizarron": "**Qué es:** la recta numérica es una línea donde los números van de menor a mayor, de izquierda a derecha, con saltos iguales.\n\nEn la recta numérica:\n\n1. Los números van de **menor a mayor**, de izquierda a derecha.\n2. Las marcas están a la misma distancia.\n3. Cada salto tiene el mismo tamaño.\n\nEjemplo de saltos de 1:\n\n`0 — 1 — 2 — 3 — 4 — 5`\n\nSirve para sumar y restar:\n\n- **Sumar** es saltar a la derecha: 3 + 4, parto del 3 y doy 4 saltos, llego a 7.\n- **Restar** es saltar a la izquierda: 9 - 2, parto del 9 y doy 2 saltos, llego a 7.\n\nLa recta puede ir de 10 en 10: 0, 10, 20, 30. Primero fíjate de cuánto es cada salto.",
+"truco": "Sumar va a la derecha y restar regresa a la izquierda.",
+"practica": {
+"ejercicio": "En una recta con marcas de 5 en 5 ves 0, 5, 10, __, 20. ¿Qué número falta?",
+"respuesta": "15. Cada salto vale 5."
+},
+"analogias": [
+{
+"titulo": "El juego de la oca",
+"texto": "Avanzas casillas al sacar un número en el dado y a veces retrocedes. Moverte en el tablero es moverte en la recta."
+},
+{
+"titulo": "La regla de la escuela",
+"texto": "Tu regla es una recta numérica. Los números están parejos y aumentan hacia un lado, igual que en el cuaderno."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Parte del 6 y da 5 saltos a la derecha. ¿A dónde llegas?",
+"respuesta": "A 11, porque 6 + 5 = 11."
+},
+{
+"ejercicio": "Parte del 12 y da 4 saltos a la izquierda. ¿A dónde llegas?",
+"respuesta": "A 8, porque 12 - 4 = 8."
+},
+{
+"ejercicio": "Una recta tiene 0, 20, 40, __, 80. ¿Qué número falta?",
+"respuesta": "60. Cada salto vale 20."
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "Números pares e impares",
+"slug": "numeros-pares-e-impares-primaria",
+"palabras": [
+"par",
+"impar",
+"parejas",
+"terminan en",
+"dividir entre 2"
+],
+"contenido": {
+"idea": "Imagina que tu grupo se forma de dos en dos para el recreo. Si todos tienen pareja, el número es par. Si alguien se queda solito, es impar.",
+"pizarron": "**La regla:** un número es par si se reparte en dos partes iguales sin que sobre nada. Si sobra 1, es impar.\n\n- **Par**: se puede repartir en dos partes iguales sin que sobre nada.\n- **Impar**: al repartir en dos, sobra 1.\n\nPara saberlo, solo mira la **última cifra**:\n\n- Pares terminan en 0, 2, 4, 6 u 8.\n- Impares terminan en 1, 3, 5, 7 o 9.\n\nEjemplos:\n\n- 34 termina en 4: par.\n- 57 termina en 7: impar.\n- 120 termina en 0: par.\n\nLos pares e impares se van alternando: 1 impar, 2 par, 3 impar, 4 par.",
+"truco": "Mira solo la última cifra: 0, 2, 4, 6, 8 siempre son pares.",
+"practica": {
+"ejercicio": "¿El número 136 es par o impar?",
+"respuesta": "Par, porque termina en 6."
+},
+"analogias": [
+{
+"titulo": "Los calcetines",
+"texto": "Los calcetines van de dos en dos. Con 8 calcetines haces 4 pares. Con 9, te sobra uno sin compañero: 9 es impar."
+},
+{
+"titulo": "Las banquetas de la calle",
+"texto": "En muchas calles, un lado tiene las casas con número par y el otro las de número impar. Los números se van turnando."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe los números pares entre 10 y 20.",
+"respuesta": "12, 14, 16 y 18."
+},
+{
+"ejercicio": "¿Es 245 par o impar?",
+"respuesta": "Impar, porque termina en 5."
+},
+{
+"ejercicio": "Hay 15 alumnos y se forman en parejas. ¿Sobra alguien?",
+"respuesta": "Sí, sobra 1, porque 15 es impar: se forman 7 parejas."
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "Números ordinales",
+"slug": "numeros-ordinales-primaria",
+"palabras": [
+"primero",
+"segundo",
+"tercero",
+"lugar",
+"orden",
+"décimo"
+],
+"contenido": {
+"idea": "En una carrera no importa cuántos corren, sino en qué lugar llegas: primero, segundo, tercero. Esos números que dicen el lugar se llaman ordinales.",
+"pizarron": "**Qué es:** los números ordinales dicen el lugar que ocupa algo en una fila: primero, segundo, tercero.\n\nLos números **ordinales** indican el **lugar** u orden de algo. Los números normales indican cantidad.\n\n| Número | Se escribe | Se lee |\n|---|---|---|\n| 1 | 1.º | primero |\n| 2 | 2.º | segundo |\n| 3 | 3.º | tercero |\n| 4 | 4.º | cuarto |\n| 5 | 5.º | quinto |\n| 6 | 6.º | sexto |\n| 7 | 7.º | séptimo |\n| 8 | 8.º | octavo |\n| 9 | 9.º | noveno |\n| 10 | 10.º | décimo |\n\nEn femenino se usa **a**: primera, segunda, 1.ª, 2.ª.\n\nEjemplo: «Vivo en el tercer piso» indica el lugar del piso, no cuántos pisos hay.",
+"truco": "Si responde ¿en qué lugar?, usa ordinal. Si responde ¿cuántos?, usa número normal.",
+"practica": {
+"ejercicio": "En una fila, Ana está después de 4 niñas. ¿En qué lugar está?",
+"respuesta": "En el quinto lugar (5.º)."
+},
+"analogias": [
+{
+"titulo": "Los grados escolares",
+"texto": "Se dice primero, segundo y tercero de primaria. Esos nombres son ordinales: indican el lugar de cada año en tu camino escolar."
+},
+{
+"titulo": "Las medallas",
+"texto": "En las olimpiadas hay oro, plata y bronce para primero, segundo y tercero. La medalla depende del lugar de llegada, no de cuántos compitieron."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe con letra 7.º",
+"respuesta": "Séptimo."
+},
+{
+"ejercicio": "¿Qué lugar sigue después del noveno?",
+"respuesta": "El décimo."
+},
+{
+"ejercicio": "Marzo es el tercer mes del año. ¿Cómo se escribe tercero con número ordinal?",
+"respuesta": "3.º"
+}
+]
+}
+},
+{
+"nodo_id": "f3-033",
+"titulo": "Contar de 2 en 2, de 5 en 5 y de 10 en 10",
+"slug": "contar-de-2-en-2-de-5-en-5-y-de-10-en-10-primaria",
+"palabras": [
+"series",
+"saltos",
+"patrones",
+"contar rápido",
+"secuencias"
+],
+"contenido": {
+"idea": "Contar de uno en uno es caminar. Contar de 2 en 2, de 5 en 5 o de 10 en 10 es dar zancadas: llegas más rápido al mismo lugar.",
+"pizarron": "**La regla:** en una serie, cada número se obtiene sumando siempre el mismo salto al anterior.\n\nUna **serie** avanza siempre con el mismo salto.\n\n- **De 2 en 2**: 2, 4, 6, 8, 10, 12. Terminan en 2, 4, 6, 8 o 0.\n- **De 5 en 5**: 5, 10, 15, 20, 25. Terminan en 5 o 0.\n- **De 10 en 10**: 10, 20, 30, 40. Terminan en 0.\n\nPuedes empezar desde otro número: 3, 13, 23, 33 va de 10 en 10.\n\nCómo encontrar el salto:\n\n1. Toma dos números seguidos.\n2. Resta el menor al mayor.\n3. Comprueba con otra pareja.\n\nEjemplo: 15, 20, 25. Como 20 - 15 = 5, el salto es 5.\n\nTambién se puede contar hacia atrás: 50, 40, 30, 20.",
+"truco": "De 5 en 5 solo verás terminar en 5 y en 0.",
+"practica": {
+"ejercicio": "Completa la serie: 35, 40, 45, ___, ___",
+"respuesta": "50 y 55. Va de 5 en 5."
+},
+"analogias": [
+{
+"titulo": "Las manos",
+"texto": "Cada mano tiene 5 dedos. Si cuentas manos de tus compañeros, vas de 5 en 5: 5, 10, 15, 20."
+},
+{
+"titulo": "Los zapatos",
+"texto": "Los zapatos vienen en pares. Para saber cuántos hay en la puerta, cuentas de 2 en 2: 2, 4, 6, 8."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: 16, 18, 20, ___, ___",
+"respuesta": "22 y 24."
+},
+{
+"ejercicio": "Completa hacia atrás: 90, 80, 70, ___",
+"respuesta": "60"
+},
+{
+"ejercicio": "¿De cuánto es el salto en 7, 17, 27, 37?",
+"respuesta": "De 10, porque 17 - 7 = 10."
+}
+]
+}
+}
 ]

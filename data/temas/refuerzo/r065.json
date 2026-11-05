@@ -1,1095 +1,1095 @@
 [
-{
-"nodo_id": "f4-023",
-"titulo": "Estados y capitales del norte de México",
-"slug": "estados-y-capitales-del-norte-de-mexico-primaria",
-"palabras": [
-"estados",
-"capitales",
-"norte de México"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Cuartos de la casa",
-"texto": "Cada estado es un cuarto y su capital es donde se toman las decisiones."
-},
-{
-"titulo": "Memorama",
-"texto": "Junta tarjetas de estado y capital para memorizarlos jugando."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Capital de Sonora?",
-"respuesta": "Hermosillo."
-},
-{
-"ejercicio": "¿Capital de Coahuila?",
-"respuesta": "Saltillo."
-},
-{
-"ejercicio": "¿Capital de Baja California?",
-"respuesta": "Mexicali."
-}
-],
-"idea": "México es como una casa con 32 cuartos, y cada cuarto tiene su corazón, que es su capital.",
-"pizarron": "**Qué es:** el norte de México agrupa estados grandes y secos, cerca de la frontera con Estados Unidos.\n\n| Estado | Capital |\n|---|---|\n| Baja California | Mexicali |\n| Baja California Sur | La Paz |\n| Sonora | Hermosillo |\n| Chihuahua | Chihuahua |\n| Coahuila | Saltillo |\n| Nuevo León | Monterrey |\n| Tamaulipas | Ciudad Victoria |\n| Sinaloa | Culiacán |\n| Durango | Durango |\n| Zacatecas | Zacatecas |\n| San Luis Potosí | San Luis Potosí |\n\nChihuahua es el estado más grande de México.",
-"truco": "Chihuahua es el más grande.",
-"practica": {
-"ejercicio": "¿Cuál es la capital de Nuevo León?",
-"respuesta": "Monterrey."
-}
-}
-},
-{
-"nodo_id": "f4-023",
-"titulo": "Estados y capitales del centro de México",
-"slug": "estados-y-capitales-del-centro-de-mexico-primaria",
-"palabras": [
-"estados",
-"capitales",
-"centro de México"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Corazón de la casa",
-"texto": "El centro late fuerte porque ahí vive mucha gente."
-},
-{
-"titulo": "Vecinos juntos",
-"texto": "Muchos estados pequeños se tocan, como casitas de una colonia."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Capital de Morelos?",
-"respuesta": "Cuernavaca."
-},
-{
-"ejercicio": "¿Capital de Michoacán?",
-"respuesta": "Morelia."
-},
-{
-"ejercicio": "¿Capital de Hidalgo?",
-"respuesta": "Pachuca."
-}
-],
-"idea": "En el centro de México vive mucha gente. Estos estados están muy pegaditos alrededor de la capital.",
-"pizarron": "**Qué es:** el centro y occidente agrupan estados pequeños y muy poblados.\n\n| Estado | Capital |\n|---|---|\n| Aguascalientes | Aguascalientes |\n| Guanajuato | Guanajuato |\n| Querétaro | Querétaro |\n| Hidalgo | Pachuca |\n| Estado de México | Toluca |\n| Morelos | Cuernavaca |\n| Tlaxcala | Tlaxcala |\n| Puebla | Puebla |\n| Jalisco | Guadalajara |\n| Colima | Colima |\n| Nayarit | Tepic |\n| Michoacán | Morelia |\n\nLa **Ciudad de México** es la capital del país.",
-"truco": "Hidalgo, Pachuca; México, Toluca.",
-"practica": {
-"ejercicio": "¿Capital de Jalisco?",
-"respuesta": "Guadalajara."
-}
-}
-},
-{
-"nodo_id": "f4-023",
-"titulo": "Estados y capitales del sur y sureste de México",
-"slug": "estados-y-capitales-del-sur-y-sureste-de-mexico-primaria",
-"palabras": [
-"estados",
-"capitales",
-"sureste"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Ruta de viaje",
-"texto": "Imagina un viaje del Pacífico al Caribe parando en cada capital."
-},
-{
-"titulo": "Trampa",
-"texto": "Algunas capitales engañan, como Xalapa en Veracruz."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Capital de Chiapas?",
-"respuesta": "Tuxtla Gutiérrez."
-},
-{
-"ejercicio": "¿Capital de Quintana Roo?",
-"respuesta": "Chetumal."
-},
-{
-"ejercicio": "¿Capital de Tabasco?",
-"respuesta": "Villahermosa."
-}
-],
-"idea": "El sur tiene selvas, mar y muchas lenguas indígenas. Aprende sus capitales como una ruta de viaje.",
-"pizarron": "**Qué es:** el sur y sureste agrupan estados de selvas, costas y gran diversidad cultural.\n\n| Estado | Capital |\n|---|---|\n| Guerrero | Chilpancingo |\n| Oaxaca | Oaxaca de Juárez |\n| Chiapas | Tuxtla Gutiérrez |\n| Veracruz | Xalapa |\n| Tabasco | Villahermosa |\n| Campeche | Campeche |\n| Yucatán | Mérida |\n| Quintana Roo | Chetumal |\n\nEn total, México tiene 32 entidades federativas: 31 estados y la Ciudad de México.",
-"truco": "Veracruz no tiene capital Veracruz: es Xalapa.",
-"practica": {
-"ejercicio": "¿Capital de Yucatán?",
-"respuesta": "Mérida."
-}
-}
-},
-{
-"nodo_id": "f4-023",
-"titulo": "Fronteras y extensión de México",
-"slug": "fronteras-y-extension-de-mexico-primaria",
-"palabras": [
-"fronteras",
-"extensión",
-"territorio"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Bardas de casa",
-"texto": "Cada frontera es una barda que separa un vecino de otro."
-},
-{
-"titulo": "Terreno grande",
-"texto": "Dos millones de kilómetros son muchísimos campos de futbol."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué país está al norte?",
-"respuesta": "Estados Unidos."
-},
-{
-"ejercicio": "¿Qué océano está al oeste?",
-"respuesta": "El Pacífico."
-},
-{
-"ejercicio": "¿En qué parte de América está?",
-"respuesta": "En América del Norte."
-}
-],
-"idea": "Si México fuera una finca, tendría bardas con vecinos y mucha costa frente al mar.",
-"pizarron": "**Qué es:** México tiene casi 2 millones de km² de superficie y limita con tres países.\n\n**Fronteras:**\n\n- Norte: Estados Unidos, con unos 3100 km.\n- Sur: Guatemala y Belice.\n\n**Mares:**\n\n- Oeste: océano Pacífico y golfo de California.\n- Este: golfo de México y mar Caribe.\n\nMéxico está en América del Norte.",
-"truco": "Tres vecinos y dos océanos.",
-"practica": {
-"ejercicio": "¿Con qué países limita al sur?",
-"respuesta": "Guatemala y Belice."
-}
-}
-},
-{
-"nodo_id": "f4-023",
-"titulo": "Regiones de México",
-"slug": "regiones-de-mexico-primaria",
-"palabras": [
-"regiones",
-"norte",
-"centro",
-"sur",
-"península"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Rebanadas",
-"texto": "El país se parte en rebanadas con sabores distintos."
-},
-{
-"titulo": "Colecciones",
-"texto": "Agrupas juntos los estados que se parecen."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué región tiene desiertos?",
-"respuesta": "El norte."
-},
-{
-"ejercicio": "¿Qué región tiene playas del Caribe?",
-"respuesta": "La península de Yucatán."
-},
-{
-"ejercicio": "¿En qué región vives?",
-"respuesta": "Depende del lugar donde vivas."
-}
-],
-"idea": "México cambia mucho según por dónde viajes: desiertos, selvas, ciudades y playas.",
-"pizarron": "**Qué es:** las regiones son partes del país con características parecidas de clima, relieve o economía.\n\n**Norte:** desiertos, minería, industria.\n\n**Occidente:** agricultura, Jalisco.\n\n**Centro:** mayor población y gobierno.\n\n**Golfo:** petróleo y ganadería.\n\n**Sur:** selvas y pueblos indígenas.\n\n**Sureste y península:** turismo y mayas.",
-"truco": "Regiones agrupan lo parecido.",
-"practica": {
-"ejercicio": "¿Qué región tiene la mayor población?",
-"respuesta": "El centro."
-}
-}
-},
-{
-"nodo_id": "f4-023",
-"titulo": "Puntos cardinales",
-"slug": "puntos-cardinales-primaria",
-"palabras": [
-"puntos cardinales",
-"norte",
-"sur",
-"este",
-"oeste",
-"brújula"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tu cuerpo es una brújula",
-"texto": "Con tu brazo al Sol ya tienes norte y sur."
-},
-{
-"titulo": "Rosa de los vientos",
-"texto": "Es el dibujo que marca direcciones en los mapas."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué instrumento marca el norte?",
-"respuesta": "La brújula."
-},
-{
-"ejercicio": "¿Qué punto queda entre norte y este?",
-"respuesta": "Noreste."
-},
-{
-"ejercicio": "Si miras al norte, ¿qué queda a tu derecha?",
-"respuesta": "El este."
-}
-],
-"idea": "Estira el brazo derecho hacia donde sale el Sol. Tu frente mira al norte, y ya sabes orientarte.",
-"pizarron": "**Qué es:** los puntos cardinales son cuatro direcciones para ubicarse: norte, sur, este y oeste.\n\n**Cómo hallarlos:**\n\n- El Sol sale por el **este**.\n- El Sol se oculta por el **oeste**.\n- Brazo derecho al este: frente al **norte**, espalda al **sur**.\n\n**Brújula:** su aguja apunta al norte.\n\n**Intermedios:** noreste, noroeste, sureste y suroeste.",
-"truco": "El Sol sale por el este.",
-"practica": {
-"ejercicio": "¿Por dónde se oculta el Sol?",
-"respuesta": "Por el oeste."
-}
-}
-},
-{
-"nodo_id": "f6-015",
-"titulo": "Ríos de México",
-"slug": "rios-de-mexico-secundaria",
-"palabras": [
-"ríos",
-"Bravo",
-"Usumacinta",
-"Grijalva",
-"Lerma"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Venas",
-"texto": "Como la sangre, el agua llega por ríos a muchos lugares."
-},
-{
-"titulo": "Reparto desigual",
-"texto": "Unas regiones tienen mucha agua y otras casi nada."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué río es el más caudaloso?",
-"respuesta": "El Usumacinta."
-},
-{
-"ejercicio": "¿Con qué país forma frontera el Usumacinta?",
-"respuesta": "Con Guatemala."
-},
-{
-"ejercicio": "¿Dónde está el río Yaqui?",
-"respuesta": "En Sonora."
-}
-],
-"idea": "Los ríos son las venas del país: llevan agua a campos, ciudades y presas.",
-"pizarron": "**Qué es:** un río es una corriente de agua que fluye hacia otro río, lago o mar.\n\n**Ríos importantes:**\n\n- **Bravo:** frontera con Estados Unidos.\n- **Usumacinta:** frontera con Guatemala, el más caudaloso.\n- **Grijalva:** Chiapas y Tabasco.\n- **Lerma-Santiago:** centro y occidente.\n- **Balsas:** Guerrero y Michoacán.\n- **Pánuco:** Golfo.\n- **Yaqui:** Sonora.\n\nEl sureste tiene mucha agua; el norte, poca.",
-"truco": "Bravo al norte; Usumacinta al sur.",
-"practica": {
-"ejercicio": "¿Qué río forma frontera con Estados Unidos?",
-"respuesta": "El Bravo."
-}
-}
-},
-{
-"nodo_id": "f6-015",
-"titulo": "Lagos y lagunas de México",
-"slug": "lagos-y-lagunas-de-mexico-secundaria",
-"palabras": [
-"lagos",
-"Chapala",
-"Pátzcuaro",
-"lagunas"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tina enorme",
-"texto": "Un lago es una tina grande llena por lluvia y ríos."
-},
-{
-"titulo": "Lago desaparecido",
-"texto": "Donde hoy hay ciudad, antes navegaban canoas."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué lago se secó bajo la Ciudad de México?",
-"respuesta": "El de Texcoco."
-},
-{
-"ejercicio": "¿En qué estado está Pátzcuaro?",
-"respuesta": "En Michoacán."
-},
-{
-"ejercicio": "Di una laguna.",
-"respuesta": "Bacalar."
-}
-],
-"idea": "Un lago es agua quieta rodeada de tierra. México tiene varios, y algunos están en peligro.",
-"pizarron": "**Qué es:** un lago es una masa de agua rodeada de tierra. Una laguna es más pequeña y menos profunda.\n\n**Lagos:**\n\n- **Chapala:** el más grande, entre Jalisco y Michoacán.\n- **Pátzcuaro:** Michoacán.\n- **Cuitzeo:** Michoacán.\n- **Texcoco:** quedó casi seco; la Ciudad de México creció encima.\n\n**Lagunas:** Catemaco, Bacalar, Términos.\n\nLos lagos sufren contaminación y sequías.",
-"truco": "Chapala es el más grande.",
-"practica": {
-"ejercicio": "¿Cuál es el mayor lago de México?",
-"respuesta": "El de Chapala."
-}
-}
-},
-{
-"nodo_id": "f6-015",
-"titulo": "Golfos, mares y litorales de México",
-"slug": "golfos-mares-y-litorales-de-mexico-secundaria",
-"palabras": [
-"golfos",
-"mares",
-"litorales"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Dos fachadas",
-"texto": "México tiene fachada a dos mares muy distintos."
-},
-{
-"titulo": "Bocado de mar",
-"texto": "Un golfo es como una mordida del mar a la tierra."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di un puerto del Pacífico.",
-"respuesta": "Manzanillo."
-},
-{
-"ejercicio": "Di un puerto del Golfo.",
-"respuesta": "Veracruz."
-},
-{
-"ejercicio": "¿Qué mar baña Quintana Roo?",
-"respuesta": "El Caribe."
-}
-],
-"idea": "México tiene costas en dos océanos. Sus playas y puertos llegan a más de 11 mil kilómetros.",
-"pizarron": "**Qué es:** un litoral es la franja de costa. Un golfo es una parte de mar que entra en la tierra.\n\n**Pacífico:**\n\n- Golfo de California o mar de Cortés.\n- Puertos: Manzanillo, Mazatlán, Acapulco.\n\n**Atlántico:**\n\n- Golfo de México.\n- Mar Caribe.\n- Puertos: Veracruz, Tampico, Progreso.\n\nMéxico tiene más de 11 000 km de litoral.",
-"truco": "Pacífico al oeste; Golfo y Caribe al este.",
-"practica": {
-"ejercicio": "¿Cómo se llama también el golfo de California?",
-"respuesta": "Mar de Cortés."
-}
-}
-},
-{
-"nodo_id": "f6-015",
-"titulo": "Penínsulas e islas de México",
-"slug": "peninsulas-e-islas-de-mexico-secundaria",
-"palabras": [
-"penínsulas",
-"islas",
-"Baja California",
-"Yucatán"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Dedo y gota",
-"texto": "La península parece un dedo; la isla, una gota aparte."
-},
-{
-"titulo": "Casi isla",
-"texto": "Solo un pedacito de tierra la une con el resto del país."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di una isla mexicana.",
-"respuesta": "Cozumel."
-},
-{
-"ejercicio": "¿Qué península está al sureste?",
-"respuesta": "Yucatán."
-},
-{
-"ejercicio": "¿Qué península es muy larga en el noroeste?",
-"respuesta": "Baja California."
-}
-],
-"idea": "Una península es casi una isla: tierra con agua por tres lados. México tiene dos grandes.",
-"pizarron": "**Qué es:** una península es tierra rodeada de agua por tres lados. Una isla está rodeada por todos lados.\n\n**Penínsulas:**\n\n- **Baja California.**\n- **Yucatán.**\n\n**Islas:**\n\n- Cozumel, Quintana Roo.\n- Isla Mujeres.\n- Isla Guadalupe.\n- Islas Marías.\n- Revillagigedo.",
-"truco": "Tres lados, península; cuatro lados, isla.",
-"practica": {
-"ejercicio": "¿Cuántas penínsulas grandes hay?",
-"respuesta": "Dos."
-}
-}
-},
-{
-"nodo_id": "f6-019",
-"titulo": "Sierras y montañas de México",
-"slug": "sierras-y-montanas-de-mexico-secundaria",
-"palabras": [
-"sierras",
-"Sierra Madre",
-"Eje Neovolcánico"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Costillas",
-"texto": "Las sierras son las costillas que sostienen el país."
-},
-{
-"titulo": "Plato alto",
-"texto": "El Altiplano es un plato elevado entre dos paredes."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué cruza el centro del país?",
-"respuesta": "El Eje Neovolcánico."
-},
-{
-"ejercicio": "¿Dónde está la Sierra Madre del Sur?",
-"respuesta": "En Guerrero y Oaxaca."
-},
-{
-"ejercicio": "¿Qué es una sierra?",
-"respuesta": "Una cadena de montañas."
-}
-],
-"idea": "Las montañas de México son grandes filas de roca que recorren el país como su columna.",
-"pizarron": "**Qué es:** una sierra es una cadena de montañas.\n\n**Principales:**\n\n- **Sierra Madre Occidental:** oeste.\n- **Sierra Madre Oriental:** este.\n- **Sierra Madre del Sur:** Guerrero y Oaxaca.\n- **Eje Neovolcánico:** cruza el centro.\n- **Sierra de Chiapas.**\n\nEntre las sierras está el **Altiplano**.",
-"truco": "Occidental, Oriental y del Sur.",
-"practica": {
-"ejercicio": "¿Qué sierra está al oeste?",
-"respuesta": "La Sierra Madre Occidental."
-}
-}
-},
-{
-"nodo_id": "f6-019",
-"titulo": "Volcanes de México",
-"slug": "volcanes-de-mexico-secundaria",
-"palabras": [
-"volcanes",
-"Popocatépetl",
-"Pico de Orizaba",
-"Paricutín"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Olla con tapa",
-"texto": "El magma empuja como la sopa cuando hierve."
-},
-{
-"titulo": "Nacimiento en un campo",
-"texto": "El Paricutín nació en un sembradío de maíz."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué volcán nació en 1943?",
-"respuesta": "El Paricutín."
-},
-{
-"ejercicio": "¿Qué volcán activo se ve desde Puebla?",
-"respuesta": "El Popocatépetl."
-},
-{
-"ejercicio": "¿Qué sale de un volcán?",
-"respuesta": "Magma, cenizas y gases."
-}
-],
-"idea": "México está lleno de volcanes. Algunos duermen y otros echan humo a la vista de millones.",
-"pizarron": "**Qué es:** un volcán es una abertura de la Tierra por donde sale magma, cenizas y gases.\n\n**Principales:**\n\n- **Pico de Orizaba:** 5636 m, el más alto.\n- **Popocatépetl:** activo.\n- **Iztaccíhuatl:** dormido.\n- **Nevado de Toluca.**\n- **Volcán de Colima:** muy activo.\n- **Paricutín:** nació en 1943, en Michoacán.\n\nLa mayoría están en el Eje Neovolcánico.",
-"truco": "Orizaba, el más alto.",
-"practica": {
-"ejercicio": "¿Cuál es el más alto?",
-"respuesta": "El Pico de Orizaba."
-}
-}
-},
-{
-"nodo_id": "f6-019",
-"titulo": "Zonas sísmicas de México",
-"slug": "zonas-sismicas-de-mexico-secundaria",
-"palabras": [
-"sismos",
-"placas tectónicas",
-"Cocos",
-"zonas sísmicas"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Plato de gelatina",
-"texto": "La Ciudad de México tiembla como gelatina por su suelo blando."
-},
-{
-"titulo": "Empujones",
-"texto": "Dos placas se empujan hasta que una salta."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di un estado con alto riesgo.",
-"respuesta": "Oaxaca."
-},
-{
-"ejercicio": "¿Qué zona casi no tiembla?",
-"respuesta": "Yucatán."
-},
-{
-"ejercicio": "¿Qué haces en un sismo?",
-"respuesta": "Agacharte, cubrirte y sujetarte."
-}
-],
-"idea": "Bajo México, enormes placas chocan y se deslizan. Por eso aquí tiembla.",
-"pizarron": "**Qué es:** las zonas sísmicas son regiones donde ocurren muchos temblores.\n\n**Causa:** la placa de **Cocos** se mete bajo la placa de Norteamérica.\n\n**Más riesgo:** Guerrero, Oaxaca, Chiapas, Michoacán, Colima y Jalisco.\n\n**Menos riesgo:** Yucatán y el noreste.\n\nLa Ciudad de México sufre más por su suelo de antiguo lago.\n\n**En un sismo:** agáchate, cúbrete y sujétate, o evacúa si hay tiempo.",
-"truco": "Cocos empuja: tiembla en el Pacífico.",
-"practica": {
-"ejercicio": "¿Qué placa causa sismos en México?",
-"respuesta": "La de Cocos."
-}
-}
-},
-{
-"nodo_id": "f6-054",
-"titulo": "Climas de México",
-"slug": "climas-de-mexico-secundaria",
-"palabras": [
-"climas",
-"seco",
-"tropical",
-"templado"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Ropa de la región",
-"texto": "Cada lugar se viste distinto según su clima."
-},
-{
-"titulo": "Subir el cerro",
-"texto": "Cuanto más subes por el cerro, más fresco se siente el aire."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué línea cruza México?",
-"respuesta": "El trópico de Cáncer."
-},
-{
-"ejercicio": "Di un factor del clima.",
-"respuesta": "La altitud."
-},
-{
-"ejercicio": "¿Qué clima hay en la selva?",
-"respuesta": "Cálido húmedo."
-}
-],
-"idea": "Puedes ir de un desierto a una selva en el mismo país. México tiene climas muy distintos.",
-"pizarron": "**Qué es:** el clima es el estado promedio del tiempo atmosférico de un lugar.\n\n**Principales:**\n\n- **Seco:** norte, Sonora y Chihuahua.\n- **Templado:** centro y sierras.\n- **Cálido húmedo:** selvas del sur.\n- **Cálido subhúmedo:** costas.\n- **Frío:** cumbres altas.\n\n**Factores:** latitud, altitud, cercanía al mar.\n\nEl **trópico de Cáncer** cruza México.",
-"truco": "Tiempo hoy; clima siempre.",
-"practica": {
-"ejercicio": "¿Qué clima hay en Sonora?",
-"respuesta": "Seco."
-}
-}
-},
-{
-"nodo_id": "f6-054",
-"titulo": "Regiones naturales de México",
-"slug": "regiones-naturales-de-mexico-secundaria",
-"palabras": [
-"regiones naturales",
-"selva",
-"bosque",
-"desierto"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Barrios",
-"texto": "Cada región tiene sus propios vecinos de plantas y animales."
-},
-{
-"titulo": "Museo vivo",
-"texto": "Puedes recorrer ambientes distintos en un país."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué plantas abundan en el desierto?",
-"respuesta": "Los cactus."
-},
-{
-"ejercicio": "¿Qué significa megadiverso?",
-"respuesta": "Que tiene muchísimas especies."
-},
-{
-"ejercicio": "¿Dónde hay manglares?",
-"respuesta": "En las costas."
-}
-],
-"idea": "Bosques, selvas, desiertos y costas: México es casi un mapa del mundo en un solo país.",
-"pizarron": "**Qué es:** las regiones naturales son zonas con clima, flora y fauna parecidas.\n\n**Principales:**\n\n- **Selva:** Chiapas y Tabasco. Jaguar.\n- **Bosque templado:** sierras. Pino y venado.\n- **Desierto y matorral:** norte. Cactus.\n- **Pastizal:** Chihuahua.\n- **Mar y costa:** manglares y arrecifes.\n\nMéxico es un país **megadiverso**.",
-"truco": "Clima da plantas; plantas dan animales.",
-"practica": {
-"ejercicio": "¿Qué animal vive en la selva?",
-"respuesta": "El jaguar."
-}
-}
-},
-{
-"nodo_id": "f6-050",
-"titulo": "Pueblos indígenas y lenguas de México",
-"slug": "pueblos-indigenas-y-lenguas-de-mexico-secundaria",
-"palabras": [
-"pueblos indígenas",
-"lenguas",
-"náhuatl",
-"maya"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Biblioteca viva",
-"texto": "Cada lengua es una biblioteca entera de saberes."
-},
-{
-"titulo": "Hilos de un mismo tejido",
-"texto": "Son muchos hilos de colores tejidos en un mismo país."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuál es la lengua indígena más hablada?",
-"respuesta": "El náhuatl."
-},
-{
-"ejercicio": "Di un estado con mucha población indígena.",
-"respuesta": "Oaxaca."
-},
-{
-"ejercicio": "¿Qué artículo los reconoce?",
-"respuesta": "El artículo 2."
-}
-],
-"idea": "En México se hablan decenas de lenguas además del español, y cada una guarda un modo de ver el mundo.",
-"pizarron": "**Qué es:** los pueblos indígenas son descendientes de pueblos originarios, con lengua y cultura propias.\n\nHay **68 lenguas indígenas** nacionales.\n\n**Más habladas:** náhuatl, maya, tseltal, mixteco, tsotsil, zapoteco.\n\nViven en todo el país, con más población en Oaxaca, Chiapas y Yucatán.\n\nTienen derechos reconocidos en el artículo 2 de la Constitución.",
-"truco": "68 lenguas en México.",
-"practica": {
-"ejercicio": "¿Cuántas lenguas nacionales indígenas hay?",
-"respuesta": "68."
-}
-}
-},
-{
-"nodo_id": "f6-050",
-"titulo": "Ciudades más pobladas de México",
-"slug": "ciudades-mas-pobladas-de-mexico-secundaria",
-"palabras": [
-"ciudades",
-"población",
-"zona metropolitana"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Hormiguero",
-"texto": "Hay mucho movimiento de personas en muy poco espacio."
-},
-{
-"titulo": "Imanes",
-"texto": "Las ciudades atraen trabajo y gente, como un imán atrae clavos."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di un problema de las ciudades.",
-"respuesta": "El tráfico."
-},
-{
-"ejercicio": "¿Cuáles son las tres mayores?",
-"respuesta": "Valle de México, Monterrey y Guadalajara."
-},
-{
-"ejercicio": "¿Qué es una zona metropolitana?",
-"respuesta": "Una ciudad grande con municipios unidos."
-}
-],
-"idea": "Millones de personas viven amontonadas en unas pocas grandes ciudades.",
-"pizarron": "**Qué es:** una zona metropolitana es una gran ciudad y sus municipios unidos.\n\n**Mayores zonas metropolitanas:**\n\n1. Valle de México, más de 20 millones.\n2. Monterrey.\n3. Guadalajara.\n4. Puebla-Tlaxcala.\n5. Toluca.\n\nTijuana, León y Querétaro también crecen mucho.\n\n**Problemas:** tráfico, agua, vivienda y contaminación.",
-"truco": "Valle de México, Monterrey y Guadalajara.",
-"practica": {
-"ejercicio": "¿Cuál es la mayor?",
-"respuesta": "La del Valle de México."
-}
-}
-},
-{
-"nodo_id": "f6-031",
-"titulo": "Economía por regiones de México",
-"slug": "economia-por-regiones-de-mexico-secundaria",
-"palabras": [
-"economía",
-"regiones",
-"industria",
-"turismo"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Equipo",
-"texto": "Cada zona juega en una posición distinta."
-},
-{
-"titulo": "Tianguis",
-"texto": "Cada puesto del tianguis ofrece algo diferente a los demás."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué región produce muchos coches?",
-"respuesta": "El Bajío."
-},
-{
-"ejercicio": "¿Qué actividad destaca en Cancún?",
-"respuesta": "El turismo."
-},
-{
-"ejercicio": "¿Qué son las maquiladoras?",
-"respuesta": "Fábricas que arman productos."
-}
-],
-"idea": "Cada parte de México produce algo diferente. Es como un equipo donde cada jugador aporta.",
-"pizarron": "**Qué es:** cada región se especializa según sus recursos.\n\n**Norte:** industria, maquiladoras, ganadería.\n\n**Occidente:** tequila, tecnología.\n\n**Bajío:** coches.\n\n**Centro:** servicios y gobierno.\n\n**Golfo:** petróleo.\n\n**Sureste:** turismo y agricultura.\n\n**Pacífico:** pesca y turismo.",
-"truco": "Cada región aporta lo suyo.",
-"practica": {
-"ejercicio": "¿Qué se produce en el Golfo?",
-"respuesta": "Petróleo."
-}
-}
-},
-{
-"nodo_id": "f6-031",
-"titulo": "Recursos naturales de México",
-"slug": "recursos-naturales-de-mexico-secundaria",
-"palabras": [
-"recursos naturales",
-"petróleo",
-"plata",
-"agua"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Alcancía",
-"texto": "El no renovable es una alcancía: si gastas, se acaba."
-},
-{
-"titulo": "Huerto",
-"texto": "El renovable vuelve a crecer si lo cuidas."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿En qué mineral destaca México?",
-"respuesta": "En plata."
-},
-{
-"ejercicio": "Di un recurso renovable.",
-"respuesta": "El viento."
-},
-{
-"ejercicio": "¿Qué es sustentable?",
-"respuesta": "Usar sin agotar para el futuro."
-}
-],
-"idea": "Lo que la naturaleza nos da es un tesoro, y si no lo cuidamos se acaba.",
-"pizarron": "**Qué es:** los recursos naturales son bienes de la naturaleza que aprovecha la sociedad.\n\n**Renovables:** agua, bosques, sol, viento.\n\n**No renovables:** petróleo, gas, minerales.\n\n**México:**\n\n- Primer lugar mundial en plata.\n- Petróleo en el Golfo.\n- Bosques.\n- Pesca.\n\nCuidarlos es parte del desarrollo sustentable.",
-"truco": "Renovable vuelve; no renovable se acaba.",
-"practica": {
-"ejercicio": "¿El petróleo es renovable?",
-"respuesta": "No."
-}
-}
-},
-{
-"nodo_id": "f6-011",
-"titulo": "Coordenadas geográficas",
-"slug": "coordenadas-geograficas-secundaria",
-"palabras": [
-"coordenadas",
-"latitud",
-"longitud",
-"meridianos",
-"paralelos"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Batalla naval",
-"texto": "Das letra y número para hallar el barco."
-},
-{
-"titulo": "Cuadrícula",
-"texto": "El mundo es una hoja cuadriculada gigante."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué meridiano es longitud 0?",
-"respuesta": "El de Greenwich."
-},
-{
-"ejercicio": "¿Latitud máxima?",
-"respuesta": "90°."
-},
-{
-"ejercicio": "Busca las coordenadas de tu ciudad.",
-"respuesta": "Depende de tu ciudad."
-}
-],
-"idea": "Como en un juego de batalla naval, cada lugar del planeta tiene su dirección exacta.",
-"pizarron": "**Qué es:** las coordenadas son datos que ubican un punto en la Tierra: latitud y longitud.\n\n**Latitud:** distancia al ecuador, norte o sur. Se mide de 0° a 90°.\n\n**Longitud:** distancia al **meridiano de Greenwich**, este u oeste. De 0° a 180°.\n\n**Paralelos:** líneas horizontales.\n\n**Meridianos:** líneas verticales.\n\nCiudad de México: 19° N, 99° O.",
-"truco": "Latitud sube y baja; longitud va a los lados.",
-"practica": {
-"ejercicio": "¿Qué línea es latitud 0?",
-"respuesta": "El ecuador."
-}
-}
-},
-{
-"nodo_id": "f6-011",
-"titulo": "Husos horarios",
-"slug": "husos-horarios-secundaria",
-"palabras": [
-"husos horarios",
-"zonas horarias",
-"Greenwich"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Lámpara y naranja",
-"texto": "Una lámpara ilumina una mitad de una naranja que gira."
-},
-{
-"titulo": "Gajos",
-"texto": "La Tierra se parte en 24 gajos de tiempo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuántos grados tiene un huso?",
-"respuesta": "15."
-},
-{
-"ejercicio": "Si en UTC son las 18:00, ¿qué hora es en UTC−6?",
-"respuesta": "Las 12:00."
-},
-{
-"ejercicio": "¿Hacia dónde se suma hora?",
-"respuesta": "Hacia el este."
-}
-],
-"idea": "Cuando aquí es de día, en otra parte del mundo es de noche, porque la Tierra gira.",
-"pizarron": "**Qué es:** los husos horarios son 24 franjas de la Tierra, cada una con una hora. Cada 15° de longitud cambia una hora.\n\nLa Tierra gira 360° en 24 horas: $360 \\div 24 = 15$.\n\nHacia el **este**, se suma hora. Hacia el **oeste**, se resta.\n\nMéxico tiene 4 zonas horarias.\n\n**Ejemplo:** Si en Greenwich son las 12:00, en la Ciudad de México (UTC−6) son las 6:00.",
-"truco": "Este suma; oeste resta.",
-"practica": {
-"ejercicio": "¿Cuántos husos hay?",
-"respuesta": "24."
-}
-}
-},
-{
-"nodo_id": "f6-011",
-"titulo": "Escalas y proyecciones",
-"slug": "escalas-y-proyecciones-secundaria",
-"palabras": [
-"escala",
-"proyecciones",
-"Mercator"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Cáscara de naranja",
-"texto": "Si aplanas la cáscara, siempre se rompe o se estira."
-},
-{
-"titulo": "Zoom",
-"texto": "La escala dice cuánto se alejó la cámara."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "En 1:50 000, ¿cuánto es 1 cm?",
-"respuesta": "500 m."
-},
-{
-"ejercicio": "¿Qué proyección agranda los polos?",
-"respuesta": "Mercator."
-},
-{
-"ejercicio": "En 1:200 000, ¿cuánto son 2 cm?",
-"respuesta": "4 km."
-}
-],
-"idea": "Un mapa dibuja la Tierra en una hoja, y por eso siempre reduce y deforma algo.",
-"pizarron": "**Qué es:** la escala es la relación entre medidas del mapa y las reales. Una proyección es la forma de pasar la Tierra redonda a un plano.\n\n**Escala 1:100 000:** 1 cm en el mapa son 100 000 cm reales, es decir, 1 km.\n\n**Proyecciones:**\n\n- **Mercator:** agranda zonas cercanas a los polos.\n- **Peters:** conserva áreas.\n- **Robinson:** equilibrio.",
-"truco": "Mapa plano siempre deforma.",
-"practica": {
-"ejercicio": "En 1:100 000, ¿cuánto son 3 cm?",
-"respuesta": "3 km."
-}
-}
-},
-{
-"nodo_id": "f6-011",
-"titulo": "Leer un mapa",
-"slug": "leer-un-mapa-secundaria",
-"palabras": [
-"mapas",
-"simbología",
-"rosa de los vientos"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Instrucciones",
-"texto": "La simbología es el manual para entender todo el dibujo."
-},
-{
-"titulo": "El mapa del teléfono",
-"texto": "Tu teléfono muestra lo mismo con líneas y colores."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué muestra un mapa político?",
-"respuesta": "Países y fronteras."
-},
-{
-"ejercicio": "¿Qué muestra un mapa físico?",
-"respuesta": "Relieve."
-},
-{
-"ejercicio": "¿Qué indica la rosa de los vientos?",
-"respuesta": "Direcciones."
-}
-],
-"idea": "Un mapa es un dibujo con reglas. Si conoces sus partes, puedes llegar a cualquier lugar.",
-"pizarron": "**Qué es:** un mapa es una representación plana y reducida de la Tierra o de una parte de ella.\n\n**Partes:**\n\n- Título.\n- **Simbología**: qué significa cada color o signo.\n- **Escala.**\n- **Rosa de los vientos.**\n- Coordenadas.\n\n**Pasos:** lee el título, revisa simbología, orienta el mapa.\n\n**Tipos:** físico, político, temático.",
-"truco": "Título, simbología y escala.",
-"practica": {
-"ejercicio": "¿Qué parte explica los símbolos?",
-"respuesta": "La simbología."
-}
-}
-},
-{
-"nodo_id": "f6-015",
-"titulo": "Océanos y continentes",
-"slug": "oceanos-y-continentes-secundaria",
-"palabras": [
-"océanos",
-"continentes"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Planeta azul",
-"texto": "Desde el espacio, la Tierra parece una canica azul."
-},
-{
-"titulo": "Rompecabezas",
-"texto": "Los continentes encajan como si antes estuvieran juntos."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuál es el continente más grande?",
-"respuesta": "Asia."
-},
-{
-"ejercicio": "¿Qué porcentaje de la Tierra es agua?",
-"respuesta": "Cerca del 71 %."
-},
-{
-"ejercicio": "Di tres océanos.",
-"respuesta": "Pacífico, Atlántico e Índico."
-}
-],
-"idea": "Si ves la Tierra desde el espacio, casi todo es azul. Solo un tercio es tierra.",
-"pizarron": "**Qué es:** los continentes son grandes masas de tierra. Los océanos son grandes masas de agua salada.\n\n**Continentes:** América, Europa, Asia, África, Oceanía y Antártida.\n\n**Océanos:** Pacífico, Atlántico, Índico, Ártico y Antártico.\n\nCerca del 71 % de la Tierra es agua.\n\nEl **Pacífico** es el más grande.\n\n**Asia** es el continente más grande.",
-"truco": "Seis continentes y cinco océanos.",
-"practica": {
-"ejercicio": "¿Cuál es el océano más grande?",
-"respuesta": "El Pacífico."
-}
-}
-},
-{
-"nodo_id": "f6-015",
-"titulo": "Ciclo del agua",
-"slug": "ciclo-del-agua-secundaria",
-"palabras": [
-"ciclo del agua",
-"evaporación",
-"condensación",
-"lluvia"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tapa de la olla",
-"texto": "El vapor se junta y gotea como en una tapa."
-},
-{
-"titulo": "Rueda",
-"texto": "Da vueltas sin parar desde hace millones de años."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué calor mueve el ciclo?",
-"respuesta": "El del Sol."
-},
-{
-"ejercicio": "¿Cómo se llama cuando cae agua?",
-"respuesta": "Precipitación."
-},
-{
-"ejercicio": "¿Qué es infiltración?",
-"respuesta": "Que el agua entra al suelo."
-}
-],
-"idea": "El agua que hoy tomas pudo ser nube ayer. Viaja sin parar por el planeta.",
-"pizarron": "**Qué es:** el ciclo del agua es el recorrido continuo del agua entre mar, aire y tierra.\n\n**Pasos:**\n\n1. **Evaporación:** el Sol convierte agua en vapor.\n2. **Condensación:** el vapor forma nubes.\n3. **Precipitación:** cae lluvia o nieve.\n4. **Escurrimiento e infiltración:** corre por ríos o entra al suelo.\n\nVuelve al mar y empieza de nuevo.",
-"truco": "Sube, se junta, cae y corre.",
-"practica": {
-"ejercicio": "¿Qué paso forma nubes?",
-"respuesta": "La condensación."
-}
-}
-}
+  {
+    "nodo_id": "f4-023",
+    "titulo": "Estados y capitales del norte de México",
+    "slug": "estados-y-capitales-del-norte-de-mexico-primaria",
+    "palabras": [
+      "estados",
+      "capitales",
+      "norte de México"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Cuartos de la casa",
+          "texto": "Cada estado es un cuarto y su capital es donde se toman las decisiones."
+        },
+        {
+          "titulo": "Memorama",
+          "texto": "Junta tarjetas de estado y capital para memorizarlos jugando."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Capital de Sonora?",
+          "respuesta": "Hermosillo."
+        },
+        {
+          "ejercicio": "¿Capital de Coahuila?",
+          "respuesta": "Saltillo."
+        },
+        {
+          "ejercicio": "¿Capital de Baja California?",
+          "respuesta": "Mexicali."
+        }
+      ],
+      "idea": "México es como una casa con 32 cuartos, y cada cuarto tiene su corazón, que es su capital.",
+      "pizarron": "**Qué es:** el norte de México agrupa estados grandes y secos, cerca de la frontera con Estados Unidos.\n\n| Estado | Capital |\n|---|---|\n| Baja California | Mexicali |\n| Baja California Sur | La Paz |\n| Sonora | Hermosillo |\n| Chihuahua | Chihuahua |\n| Coahuila | Saltillo |\n| Nuevo León | Monterrey |\n| Tamaulipas | Ciudad Victoria |\n| Sinaloa | Culiacán |\n| Durango | Durango |\n| Zacatecas | Zacatecas |\n| San Luis Potosí | San Luis Potosí |\n\nChihuahua es el estado más grande de México.",
+      "truco": "Chihuahua es el más grande.",
+      "practica": {
+        "ejercicio": "¿Cuál es la capital de Nuevo León?",
+        "respuesta": "Monterrey."
+      }
+    }
+  },
+  {
+    "nodo_id": "f4-023",
+    "titulo": "Estados y capitales del centro de México",
+    "slug": "estados-y-capitales-del-centro-de-mexico-primaria",
+    "palabras": [
+      "estados",
+      "capitales",
+      "centro de México"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Corazón de la casa",
+          "texto": "El centro late fuerte porque ahí vive mucha gente."
+        },
+        {
+          "titulo": "Vecinos juntos",
+          "texto": "Muchos estados pequeños se tocan, como casitas de una colonia."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Capital de Morelos?",
+          "respuesta": "Cuernavaca."
+        },
+        {
+          "ejercicio": "¿Capital de Michoacán?",
+          "respuesta": "Morelia."
+        },
+        {
+          "ejercicio": "¿Capital de Hidalgo?",
+          "respuesta": "Pachuca."
+        }
+      ],
+      "idea": "En el centro de México vive mucha gente. Estos estados están muy pegaditos alrededor de la capital.",
+      "pizarron": "**Qué es:** el centro y occidente agrupan estados pequeños y muy poblados.\n\n| Estado | Capital |\n|---|---|\n| Aguascalientes | Aguascalientes |\n| Guanajuato | Guanajuato |\n| Querétaro | Querétaro |\n| Hidalgo | Pachuca |\n| Estado de México | Toluca |\n| Morelos | Cuernavaca |\n| Tlaxcala | Tlaxcala |\n| Puebla | Puebla |\n| Jalisco | Guadalajara |\n| Colima | Colima |\n| Nayarit | Tepic |\n| Michoacán | Morelia |\n\nLa **Ciudad de México** es la capital del país.",
+      "truco": "Hidalgo, Pachuca; México, Toluca.",
+      "practica": {
+        "ejercicio": "¿Capital de Jalisco?",
+        "respuesta": "Guadalajara."
+      }
+    }
+  },
+  {
+    "nodo_id": "f4-023",
+    "titulo": "Estados y capitales del sur y sureste de México",
+    "slug": "estados-y-capitales-del-sur-y-sureste-de-mexico-primaria",
+    "palabras": [
+      "estados",
+      "capitales",
+      "sureste"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Ruta de viaje",
+          "texto": "Imagina un viaje del Pacífico al Caribe parando en cada capital."
+        },
+        {
+          "titulo": "Trampa",
+          "texto": "Algunas capitales engañan, como Xalapa en Veracruz."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Capital de Chiapas?",
+          "respuesta": "Tuxtla Gutiérrez."
+        },
+        {
+          "ejercicio": "¿Capital de Quintana Roo?",
+          "respuesta": "Chetumal."
+        },
+        {
+          "ejercicio": "¿Capital de Tabasco?",
+          "respuesta": "Villahermosa."
+        }
+      ],
+      "idea": "El sur tiene selvas, mar y muchas lenguas indígenas. Aprende sus capitales como una ruta de viaje.",
+      "pizarron": "**Qué es:** el sur y sureste agrupan estados de selvas, costas y gran diversidad cultural.\n\n| Estado | Capital |\n|---|---|\n| Guerrero | Chilpancingo |\n| Oaxaca | Oaxaca de Juárez |\n| Chiapas | Tuxtla Gutiérrez |\n| Veracruz | Xalapa |\n| Tabasco | Villahermosa |\n| Campeche | Campeche |\n| Yucatán | Mérida |\n| Quintana Roo | Chetumal |\n\nEn total, México tiene 32 entidades federativas: 31 estados y la Ciudad de México.",
+      "truco": "Veracruz no tiene capital Veracruz: es Xalapa.",
+      "practica": {
+        "ejercicio": "¿Capital de Yucatán?",
+        "respuesta": "Mérida."
+      }
+    }
+  },
+  {
+    "nodo_id": "f4-023",
+    "titulo": "Fronteras y extensión de México",
+    "slug": "fronteras-y-extension-de-mexico-primaria",
+    "palabras": [
+      "fronteras",
+      "extensión",
+      "territorio"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Bardas de casa",
+          "texto": "Cada frontera es una barda que separa un vecino de otro."
+        },
+        {
+          "titulo": "Terreno grande",
+          "texto": "Dos millones de kilómetros son muchísimos campos de futbol."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué país está al norte?",
+          "respuesta": "Estados Unidos."
+        },
+        {
+          "ejercicio": "¿Qué océano está al oeste?",
+          "respuesta": "El Pacífico."
+        },
+        {
+          "ejercicio": "¿En qué parte de América está?",
+          "respuesta": "En América del Norte."
+        }
+      ],
+      "idea": "Si México fuera una finca, tendría bardas con vecinos y mucha costa frente al mar.",
+      "pizarron": "**Qué es:** México tiene casi 2 millones de km² de superficie y limita con tres países.\n\n**Fronteras:**\n\n- Norte: Estados Unidos, con unos 3100 km.\n- Sur: Guatemala y Belice.\n\n**Mares:**\n\n- Oeste: océano Pacífico y golfo de California.\n- Este: golfo de México y mar Caribe.\n\nMéxico está en América del Norte.",
+      "truco": "Tres vecinos y dos océanos.",
+      "practica": {
+        "ejercicio": "¿Con qué países limita al sur?",
+        "respuesta": "Guatemala y Belice."
+      }
+    }
+  },
+  {
+    "nodo_id": "f4-023",
+    "titulo": "Regiones de México",
+    "slug": "regiones-de-mexico-primaria",
+    "palabras": [
+      "regiones",
+      "norte",
+      "centro",
+      "sur",
+      "península"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Rebanadas",
+          "texto": "El país se parte en rebanadas con sabores distintos."
+        },
+        {
+          "titulo": "Colecciones",
+          "texto": "Agrupas juntos los estados que se parecen."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué región tiene desiertos?",
+          "respuesta": "El norte."
+        },
+        {
+          "ejercicio": "¿Qué región tiene playas del Caribe?",
+          "respuesta": "La península de Yucatán."
+        },
+        {
+          "ejercicio": "¿En qué región vives?",
+          "respuesta": "Depende del lugar donde vivas."
+        }
+      ],
+      "idea": "México cambia mucho según por dónde viajes: desiertos, selvas, ciudades y playas.",
+      "pizarron": "**Qué es:** las regiones son partes del país con características parecidas de clima, relieve o economía.\n\n**Norte:** desiertos, minería, industria.\n\n**Occidente:** agricultura, Jalisco.\n\n**Centro:** mayor población y gobierno.\n\n**Golfo:** petróleo y ganadería.\n\n**Sur:** selvas y pueblos indígenas.\n\n**Sureste y península:** turismo y mayas.",
+      "truco": "Regiones agrupan lo parecido.",
+      "practica": {
+        "ejercicio": "¿Qué región tiene la mayor población?",
+        "respuesta": "El centro."
+      }
+    }
+  },
+  {
+    "nodo_id": "f4-023",
+    "titulo": "Puntos cardinales",
+    "slug": "puntos-cardinales-primaria",
+    "palabras": [
+      "puntos cardinales",
+      "norte",
+      "sur",
+      "este",
+      "oeste",
+      "brújula"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tu cuerpo es una brújula",
+          "texto": "Con tu brazo al Sol ya tienes norte y sur."
+        },
+        {
+          "titulo": "Rosa de los vientos",
+          "texto": "Es el dibujo que marca direcciones en los mapas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué instrumento marca el norte?",
+          "respuesta": "La brújula."
+        },
+        {
+          "ejercicio": "¿Qué punto queda entre norte y este?",
+          "respuesta": "Noreste."
+        },
+        {
+          "ejercicio": "Si miras al norte, ¿qué queda a tu derecha?",
+          "respuesta": "El este."
+        }
+      ],
+      "idea": "Estira el brazo derecho hacia donde sale el Sol. Tu frente mira al norte, y ya sabes orientarte.",
+      "pizarron": "**Qué es:** los puntos cardinales son cuatro direcciones para ubicarse: norte, sur, este y oeste.\n\n**Cómo hallarlos:**\n\n- El Sol sale por el **este**.\n- El Sol se oculta por el **oeste**.\n- Brazo derecho al este: frente al **norte**, espalda al **sur**.\n\n**Brújula:** su aguja apunta al norte.\n\n**Intermedios:** noreste, noroeste, sureste y suroeste.",
+      "truco": "El Sol sale por el este.",
+      "practica": {
+        "ejercicio": "¿Por dónde se oculta el Sol?",
+        "respuesta": "Por el oeste."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-015",
+    "titulo": "Ríos de México",
+    "slug": "rios-de-mexico-secundaria",
+    "palabras": [
+      "ríos",
+      "Bravo",
+      "Usumacinta",
+      "Grijalva",
+      "Lerma"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Venas",
+          "texto": "Como la sangre, el agua llega por ríos a muchos lugares."
+        },
+        {
+          "titulo": "Reparto desigual",
+          "texto": "Unas regiones tienen mucha agua y otras casi nada."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué río es el más caudaloso?",
+          "respuesta": "El Usumacinta."
+        },
+        {
+          "ejercicio": "¿Con qué país forma frontera el Usumacinta?",
+          "respuesta": "Con Guatemala."
+        },
+        {
+          "ejercicio": "¿Dónde está el río Yaqui?",
+          "respuesta": "En Sonora."
+        }
+      ],
+      "idea": "Los ríos son las venas del país: llevan agua a campos, ciudades y presas.",
+      "pizarron": "**Qué es:** un río es una corriente de agua que fluye hacia otro río, lago o mar.\n\n**Ríos importantes:**\n\n- **Bravo:** frontera con Estados Unidos.\n- **Usumacinta:** frontera con Guatemala, el más caudaloso.\n- **Grijalva:** Chiapas y Tabasco.\n- **Lerma-Santiago:** centro y occidente.\n- **Balsas:** Guerrero y Michoacán.\n- **Pánuco:** Golfo.\n- **Yaqui:** Sonora.\n\nEl sureste tiene mucha agua; el norte, poca.",
+      "truco": "Bravo al norte; Usumacinta al sur.",
+      "practica": {
+        "ejercicio": "¿Qué río forma frontera con Estados Unidos?",
+        "respuesta": "El Bravo."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-015",
+    "titulo": "Lagos y lagunas de México",
+    "slug": "lagos-y-lagunas-de-mexico-secundaria",
+    "palabras": [
+      "lagos",
+      "Chapala",
+      "Pátzcuaro",
+      "lagunas"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tina enorme",
+          "texto": "Un lago es una tina grande llena por lluvia y ríos."
+        },
+        {
+          "titulo": "Lago desaparecido",
+          "texto": "Donde hoy hay ciudad, antes navegaban canoas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué lago se secó bajo la Ciudad de México?",
+          "respuesta": "El de Texcoco."
+        },
+        {
+          "ejercicio": "¿En qué estado está Pátzcuaro?",
+          "respuesta": "En Michoacán."
+        },
+        {
+          "ejercicio": "Di una laguna.",
+          "respuesta": "Bacalar."
+        }
+      ],
+      "idea": "Un lago es agua quieta rodeada de tierra. México tiene varios, y algunos están en peligro.",
+      "pizarron": "**Qué es:** un lago es una masa de agua rodeada de tierra. Una laguna es más pequeña y menos profunda.\n\n**Lagos:**\n\n- **Chapala:** el más grande, entre Jalisco y Michoacán.\n- **Pátzcuaro:** Michoacán.\n- **Cuitzeo:** Michoacán.\n- **Texcoco:** quedó casi seco; la Ciudad de México creció encima.\n\n**Lagunas:** Catemaco, Bacalar, Términos.\n\nLos lagos sufren contaminación y sequías.",
+      "truco": "Chapala es el más grande.",
+      "practica": {
+        "ejercicio": "¿Cuál es el mayor lago de México?",
+        "respuesta": "El de Chapala."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-015",
+    "titulo": "Golfos, mares y litorales de México",
+    "slug": "golfos-mares-y-litorales-de-mexico-secundaria",
+    "palabras": [
+      "golfos",
+      "mares",
+      "litorales"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Dos fachadas",
+          "texto": "México tiene fachada a dos mares muy distintos."
+        },
+        {
+          "titulo": "Bocado de mar",
+          "texto": "Un golfo es como una mordida del mar a la tierra."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di un puerto del Pacífico.",
+          "respuesta": "Manzanillo."
+        },
+        {
+          "ejercicio": "Di un puerto del Golfo.",
+          "respuesta": "Veracruz."
+        },
+        {
+          "ejercicio": "¿Qué mar baña Quintana Roo?",
+          "respuesta": "El Caribe."
+        }
+      ],
+      "idea": "México tiene costas en dos océanos. Sus playas y puertos llegan a más de 11 mil kilómetros.",
+      "pizarron": "**Qué es:** un litoral es la franja de costa. Un golfo es una parte de mar que entra en la tierra.\n\n**Pacífico:**\n\n- Golfo de California o mar de Cortés.\n- Puertos: Manzanillo, Mazatlán, Acapulco.\n\n**Atlántico:**\n\n- Golfo de México.\n- Mar Caribe.\n- Puertos: Veracruz, Tampico, Progreso.\n\nMéxico tiene más de 11 000 km de litoral.",
+      "truco": "Pacífico al oeste; Golfo y Caribe al este.",
+      "practica": {
+        "ejercicio": "¿Cómo se llama también el golfo de California?",
+        "respuesta": "Mar de Cortés."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-015",
+    "titulo": "Penínsulas e islas de México",
+    "slug": "peninsulas-e-islas-de-mexico-secundaria",
+    "palabras": [
+      "penínsulas",
+      "islas",
+      "Baja California",
+      "Yucatán"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Dedo y gota",
+          "texto": "La península parece un dedo; la isla, una gota aparte."
+        },
+        {
+          "titulo": "Casi isla",
+          "texto": "Solo un pedacito de tierra la une con el resto del país."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di una isla mexicana.",
+          "respuesta": "Cozumel."
+        },
+        {
+          "ejercicio": "¿Qué península está al sureste?",
+          "respuesta": "Yucatán."
+        },
+        {
+          "ejercicio": "¿Qué península es muy larga en el noroeste?",
+          "respuesta": "Baja California."
+        }
+      ],
+      "idea": "Una península es casi una isla: tierra con agua por tres lados. México tiene dos grandes.",
+      "pizarron": "**Qué es:** una península es tierra rodeada de agua por tres lados. Una isla está rodeada por todos lados.\n\n**Penínsulas:**\n\n- **Baja California.**\n- **Yucatán.**\n\n**Islas:**\n\n- Cozumel, Quintana Roo.\n- Isla Mujeres.\n- Isla Guadalupe.\n- Islas Marías.\n- Revillagigedo.",
+      "truco": "Tres lados, península; cuatro lados, isla.",
+      "practica": {
+        "ejercicio": "¿Cuántas penínsulas grandes hay?",
+        "respuesta": "Dos."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-019",
+    "titulo": "Sierras y montañas de México",
+    "slug": "sierras-y-montanas-de-mexico-secundaria",
+    "palabras": [
+      "sierras",
+      "Sierra Madre",
+      "Eje Neovolcánico"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Costillas",
+          "texto": "Las sierras son las costillas que sostienen el país."
+        },
+        {
+          "titulo": "Plato alto",
+          "texto": "El Altiplano es un plato elevado entre dos paredes."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué cruza el centro del país?",
+          "respuesta": "El Eje Neovolcánico."
+        },
+        {
+          "ejercicio": "¿Dónde está la Sierra Madre del Sur?",
+          "respuesta": "En Guerrero y Oaxaca."
+        },
+        {
+          "ejercicio": "¿Qué es una sierra?",
+          "respuesta": "Una cadena de montañas."
+        }
+      ],
+      "idea": "Las montañas de México son grandes filas de roca que recorren el país como su columna.",
+      "pizarron": "**Qué es:** una sierra es una cadena de montañas.\n\n**Principales:**\n\n- **Sierra Madre Occidental:** oeste.\n- **Sierra Madre Oriental:** este.\n- **Sierra Madre del Sur:** Guerrero y Oaxaca.\n- **Eje Neovolcánico:** cruza el centro.\n- **Sierra de Chiapas.**\n\nEntre las sierras está el **Altiplano**.",
+      "truco": "Occidental, Oriental y del Sur.",
+      "practica": {
+        "ejercicio": "¿Qué sierra está al oeste?",
+        "respuesta": "La Sierra Madre Occidental."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-019",
+    "titulo": "Volcanes de México",
+    "slug": "volcanes-de-mexico-secundaria",
+    "palabras": [
+      "volcanes",
+      "Popocatépetl",
+      "Pico de Orizaba",
+      "Paricutín"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Olla con tapa",
+          "texto": "El magma empuja como la sopa cuando hierve."
+        },
+        {
+          "titulo": "Nacimiento en un campo",
+          "texto": "El Paricutín nació en un sembradío de maíz."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué volcán nació en 1943?",
+          "respuesta": "El Paricutín."
+        },
+        {
+          "ejercicio": "¿Qué volcán activo se ve desde Puebla?",
+          "respuesta": "El Popocatépetl."
+        },
+        {
+          "ejercicio": "¿Qué sale de un volcán?",
+          "respuesta": "Magma, cenizas y gases."
+        }
+      ],
+      "idea": "México está lleno de volcanes. Algunos duermen y otros echan humo a la vista de millones.",
+      "pizarron": "**Qué es:** un volcán es una abertura de la Tierra por donde sale magma, cenizas y gases.\n\n**Principales:**\n\n- **Pico de Orizaba:** 5636 m, el más alto.\n- **Popocatépetl:** activo.\n- **Iztaccíhuatl:** dormido.\n- **Nevado de Toluca.**\n- **Volcán de Colima:** muy activo.\n- **Paricutín:** nació en 1943, en Michoacán.\n\nLa mayoría están en el Eje Neovolcánico.",
+      "truco": "Orizaba, el más alto.",
+      "practica": {
+        "ejercicio": "¿Cuál es el más alto?",
+        "respuesta": "El Pico de Orizaba."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-019",
+    "titulo": "Zonas sísmicas de México",
+    "slug": "zonas-sismicas-de-mexico-secundaria",
+    "palabras": [
+      "sismos",
+      "placas tectónicas",
+      "Cocos",
+      "zonas sísmicas"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Plato de gelatina",
+          "texto": "La Ciudad de México tiembla como gelatina por su suelo blando."
+        },
+        {
+          "titulo": "Empujones",
+          "texto": "Dos placas se empujan hasta que una salta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di un estado con alto riesgo.",
+          "respuesta": "Oaxaca."
+        },
+        {
+          "ejercicio": "¿Qué zona casi no tiembla?",
+          "respuesta": "Yucatán."
+        },
+        {
+          "ejercicio": "¿Qué haces en un sismo?",
+          "respuesta": "Agacharte, cubrirte y sujetarte."
+        }
+      ],
+      "idea": "Bajo México, enormes placas chocan y se deslizan. Por eso aquí tiembla.",
+      "pizarron": "**Qué es:** las zonas sísmicas son regiones donde ocurren muchos temblores.\n\n**Causa:** la placa de **Cocos** se mete bajo la placa de Norteamérica.\n\n**Más riesgo:** Guerrero, Oaxaca, Chiapas, Michoacán, Colima y Jalisco.\n\n**Menos riesgo:** Yucatán y el noreste.\n\nLa Ciudad de México sufre más por su suelo de antiguo lago.\n\n**En un sismo:** agáchate, cúbrete y sujétate, o evacúa si hay tiempo.",
+      "truco": "Cocos empuja: tiembla en el Pacífico.",
+      "practica": {
+        "ejercicio": "¿Qué placa causa sismos en México?",
+        "respuesta": "La de Cocos."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-054",
+    "titulo": "Climas de México",
+    "slug": "climas-de-mexico-secundaria",
+    "palabras": [
+      "climas",
+      "seco",
+      "tropical",
+      "templado"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Ropa de la región",
+          "texto": "Cada lugar se viste distinto según su clima."
+        },
+        {
+          "titulo": "Subir el cerro",
+          "texto": "Cuanto más subes por el cerro, más fresco se siente el aire."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué línea cruza México?",
+          "respuesta": "El trópico de Cáncer."
+        },
+        {
+          "ejercicio": "Di un factor del clima.",
+          "respuesta": "La altitud."
+        },
+        {
+          "ejercicio": "¿Qué clima hay en la selva?",
+          "respuesta": "Cálido húmedo."
+        }
+      ],
+      "idea": "Puedes ir de un desierto a una selva en el mismo país. México tiene climas muy distintos.",
+      "pizarron": "**Qué es:** el clima es el estado promedio del tiempo atmosférico de un lugar.\n\n**Principales:**\n\n- **Seco:** norte, Sonora y Chihuahua.\n- **Templado:** centro y sierras.\n- **Cálido húmedo:** selvas del sur.\n- **Cálido subhúmedo:** costas.\n- **Frío:** cumbres altas.\n\n**Factores:** latitud, altitud, cercanía al mar.\n\nEl **trópico de Cáncer** cruza México.",
+      "truco": "Tiempo hoy; clima siempre.",
+      "practica": {
+        "ejercicio": "¿Qué clima hay en Sonora?",
+        "respuesta": "Seco."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-054",
+    "titulo": "Regiones naturales de México",
+    "slug": "regiones-naturales-de-mexico-secundaria",
+    "palabras": [
+      "regiones naturales",
+      "selva",
+      "bosque",
+      "desierto"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Barrios",
+          "texto": "Cada región tiene sus propios vecinos de plantas y animales."
+        },
+        {
+          "titulo": "Museo vivo",
+          "texto": "Puedes recorrer ambientes distintos en un país."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué plantas abundan en el desierto?",
+          "respuesta": "Los cactus."
+        },
+        {
+          "ejercicio": "¿Qué significa megadiverso?",
+          "respuesta": "Que tiene muchísimas especies."
+        },
+        {
+          "ejercicio": "¿Dónde hay manglares?",
+          "respuesta": "En las costas."
+        }
+      ],
+      "idea": "Bosques, selvas, desiertos y costas: México es casi un mapa del mundo en un solo país.",
+      "pizarron": "**Qué es:** las regiones naturales son zonas con clima, flora y fauna parecidas.\n\n**Principales:**\n\n- **Selva:** Chiapas y Tabasco. Jaguar.\n- **Bosque templado:** sierras. Pino y venado.\n- **Desierto y matorral:** norte. Cactus.\n- **Pastizal:** Chihuahua.\n- **Mar y costa:** manglares y arrecifes.\n\nMéxico es un país **megadiverso**.\n\n**Para recordar:**\n- **Megadiverso:** Que tiene muchísimas especies.",
+      "truco": "Clima da plantas; plantas dan animales.",
+      "practica": {
+        "ejercicio": "¿Qué animal vive en la selva?",
+        "respuesta": "El jaguar."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-050",
+    "titulo": "Pueblos indígenas y lenguas de México",
+    "slug": "pueblos-indigenas-y-lenguas-de-mexico-secundaria",
+    "palabras": [
+      "pueblos indígenas",
+      "lenguas",
+      "náhuatl",
+      "maya"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Biblioteca viva",
+          "texto": "Cada lengua es una biblioteca entera de saberes."
+        },
+        {
+          "titulo": "Hilos de un mismo tejido",
+          "texto": "Son muchos hilos de colores tejidos en un mismo país."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuál es la lengua indígena más hablada?",
+          "respuesta": "El náhuatl."
+        },
+        {
+          "ejercicio": "Di un estado con mucha población indígena.",
+          "respuesta": "Oaxaca."
+        },
+        {
+          "ejercicio": "¿Qué artículo los reconoce?",
+          "respuesta": "El artículo 2."
+        }
+      ],
+      "idea": "En México se hablan decenas de lenguas además del español, y cada una guarda un modo de ver el mundo.",
+      "pizarron": "**Qué es:** los pueblos indígenas son descendientes de pueblos originarios, con lengua y cultura propias.\n\nHay **68 lenguas indígenas** nacionales.\n\n**Más habladas:** náhuatl, maya, tseltal, mixteco, tsotsil, zapoteco.\n\nViven en todo el país, con más población en Oaxaca, Chiapas y Yucatán.\n\nTienen derechos reconocidos en el artículo 2 de la Constitución.",
+      "truco": "68 lenguas en México.",
+      "practica": {
+        "ejercicio": "¿Cuántas lenguas nacionales indígenas hay?",
+        "respuesta": "68."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-050",
+    "titulo": "Ciudades más pobladas de México",
+    "slug": "ciudades-mas-pobladas-de-mexico-secundaria",
+    "palabras": [
+      "ciudades",
+      "población",
+      "zona metropolitana"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Hormiguero",
+          "texto": "Hay mucho movimiento de personas en muy poco espacio."
+        },
+        {
+          "titulo": "Imanes",
+          "texto": "Las ciudades atraen trabajo y gente, como un imán atrae clavos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di un problema de las ciudades.",
+          "respuesta": "El tráfico."
+        },
+        {
+          "ejercicio": "¿Cuáles son las tres mayores?",
+          "respuesta": "Valle de México, Monterrey y Guadalajara."
+        },
+        {
+          "ejercicio": "¿Qué es una zona metropolitana?",
+          "respuesta": "Una ciudad grande con municipios unidos."
+        }
+      ],
+      "idea": "Millones de personas viven amontonadas en unas pocas grandes ciudades.",
+      "pizarron": "**Qué es:** una zona metropolitana es una gran ciudad y sus municipios unidos.\n\n**Mayores zonas metropolitanas:**\n\n1. Valle de México, más de 20 millones.\n2. Monterrey.\n3. Guadalajara.\n4. Puebla-Tlaxcala.\n5. Toluca.\n\nTijuana, León y Querétaro también crecen mucho.\n\n**Problemas:** tráfico, agua, vivienda y contaminación.",
+      "truco": "Valle de México, Monterrey y Guadalajara.",
+      "practica": {
+        "ejercicio": "¿Cuál es la mayor?",
+        "respuesta": "La del Valle de México."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-031",
+    "titulo": "Economía por regiones de México",
+    "slug": "economia-por-regiones-de-mexico-secundaria",
+    "palabras": [
+      "economía",
+      "regiones",
+      "industria",
+      "turismo"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Equipo",
+          "texto": "Cada zona juega en una posición distinta."
+        },
+        {
+          "titulo": "Tianguis",
+          "texto": "Cada puesto del tianguis ofrece algo diferente a los demás."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué región produce muchos coches?",
+          "respuesta": "El Bajío."
+        },
+        {
+          "ejercicio": "¿Qué actividad destaca en Cancún?",
+          "respuesta": "El turismo."
+        },
+        {
+          "ejercicio": "¿Qué son las maquiladoras?",
+          "respuesta": "Fábricas que arman productos."
+        }
+      ],
+      "idea": "Cada parte de México produce algo diferente. Es como un equipo donde cada jugador aporta.",
+      "pizarron": "**Qué es:** cada región se especializa según sus recursos.\n\n**Norte:** industria, maquiladoras, ganadería.\n\n**Occidente:** tequila, tecnología.\n\n**Bajío:** coches.\n\n**Centro:** servicios y gobierno.\n\n**Golfo:** petróleo.\n\n**Sureste:** turismo y agricultura.\n\n**Pacífico:** pesca y turismo.\n\n**Para recordar:**\n- **Maquiladoras:** Fábricas que arman productos.",
+      "truco": "Cada región aporta lo suyo.",
+      "practica": {
+        "ejercicio": "¿Qué se produce en el Golfo?",
+        "respuesta": "Petróleo."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-031",
+    "titulo": "Recursos naturales de México",
+    "slug": "recursos-naturales-de-mexico-secundaria",
+    "palabras": [
+      "recursos naturales",
+      "petróleo",
+      "plata",
+      "agua"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Alcancía",
+          "texto": "El no renovable es una alcancía: si gastas, se acaba."
+        },
+        {
+          "titulo": "Huerto",
+          "texto": "El renovable vuelve a crecer si lo cuidas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿En qué mineral destaca México?",
+          "respuesta": "En plata."
+        },
+        {
+          "ejercicio": "Di un recurso renovable.",
+          "respuesta": "El viento."
+        },
+        {
+          "ejercicio": "¿Qué es sustentable?",
+          "respuesta": "Usar sin agotar para el futuro."
+        }
+      ],
+      "idea": "Lo que la naturaleza nos da es un tesoro, y si no lo cuidamos se acaba.",
+      "pizarron": "**Qué es:** los recursos naturales son bienes de la naturaleza que aprovecha la sociedad.\n\n**Renovables:** agua, bosques, sol, viento.\n\n**No renovables:** petróleo, gas, minerales.\n\n**México:**\n\n- Primer lugar mundial en plata.\n- Petróleo en el Golfo.\n- Bosques.\n- Pesca.\n\nCuidarlos es parte del desarrollo sustentable.\n\n**Para recordar:**\n- **Sustentable:** Usar sin agotar para el futuro.",
+      "truco": "Renovable vuelve; no renovable se acaba.",
+      "practica": {
+        "ejercicio": "¿El petróleo es renovable?",
+        "respuesta": "No."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-011",
+    "titulo": "Coordenadas geográficas",
+    "slug": "coordenadas-geograficas-secundaria",
+    "palabras": [
+      "coordenadas",
+      "latitud",
+      "longitud",
+      "meridianos",
+      "paralelos"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Batalla naval",
+          "texto": "Das letra y número para hallar el barco."
+        },
+        {
+          "titulo": "Cuadrícula",
+          "texto": "El mundo es una hoja cuadriculada gigante."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué meridiano es longitud 0?",
+          "respuesta": "El de Greenwich."
+        },
+        {
+          "ejercicio": "¿Latitud máxima?",
+          "respuesta": "90°."
+        },
+        {
+          "ejercicio": "Busca las coordenadas de tu ciudad.",
+          "respuesta": "Depende de tu ciudad."
+        }
+      ],
+      "idea": "Como en un juego de batalla naval, cada lugar del planeta tiene su dirección exacta.",
+      "pizarron": "**Qué es:** las coordenadas son datos que ubican un punto en la Tierra: latitud y longitud.\n\n**Latitud:** distancia al ecuador, norte o sur. Se mide de 0° a 90°.\n\n**Longitud:** distancia al **meridiano de Greenwich**, este u oeste. De 0° a 180°.\n\n**Paralelos:** líneas horizontales.\n\n**Meridianos:** líneas verticales.\n\nCiudad de México: 19° N, 99° O.",
+      "truco": "Latitud sube y baja; longitud va a los lados.",
+      "practica": {
+        "ejercicio": "¿Qué línea es latitud 0?",
+        "respuesta": "El ecuador."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-011",
+    "titulo": "Husos horarios",
+    "slug": "husos-horarios-secundaria",
+    "palabras": [
+      "husos horarios",
+      "zonas horarias",
+      "Greenwich"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Lámpara y naranja",
+          "texto": "Una lámpara ilumina una mitad de una naranja que gira."
+        },
+        {
+          "titulo": "Gajos",
+          "texto": "La Tierra se parte en 24 gajos de tiempo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántos grados tiene un huso?",
+          "respuesta": "15."
+        },
+        {
+          "ejercicio": "Si en UTC son las 18:00, ¿qué hora es en UTC−6?",
+          "respuesta": "Las 12:00."
+        },
+        {
+          "ejercicio": "¿Hacia dónde se suma hora?",
+          "respuesta": "Hacia el este."
+        }
+      ],
+      "idea": "Cuando aquí es de día, en otra parte del mundo es de noche, porque la Tierra gira.",
+      "pizarron": "**Qué es:** los husos horarios son 24 franjas de la Tierra, cada una con una hora. Cada 15° de longitud cambia una hora.\n\nLa Tierra gira 360° en 24 horas: $360 \\div 24 = 15$.\n\nHacia el **este**, se suma hora. Hacia el **oeste**, se resta.\n\nMéxico tiene 4 zonas horarias.\n\n**Ejemplo:** Si en Greenwich son las 12:00, en la Ciudad de México (UTC−6) son las 6:00.",
+      "truco": "Este suma; oeste resta.",
+      "practica": {
+        "ejercicio": "¿Cuántos husos hay?",
+        "respuesta": "24."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-011",
+    "titulo": "Escalas y proyecciones",
+    "slug": "escalas-y-proyecciones-secundaria",
+    "palabras": [
+      "escala",
+      "proyecciones",
+      "Mercator"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Cáscara de naranja",
+          "texto": "Si aplanas la cáscara, siempre se rompe o se estira."
+        },
+        {
+          "titulo": "Zoom",
+          "texto": "La escala dice cuánto se alejó la cámara."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "En 1:50 000, ¿cuánto es 1 cm?",
+          "respuesta": "500 m."
+        },
+        {
+          "ejercicio": "¿Qué proyección agranda los polos?",
+          "respuesta": "Mercator."
+        },
+        {
+          "ejercicio": "En 1:200 000, ¿cuánto son 2 cm?",
+          "respuesta": "4 km."
+        }
+      ],
+      "idea": "Un mapa dibuja la Tierra en una hoja, y por eso siempre reduce y deforma algo.",
+      "pizarron": "**Qué es:** la escala es la relación entre medidas del mapa y las reales. Una proyección es la forma de pasar la Tierra redonda a un plano.\n\n**Escala 1:100 000:** 1 cm en el mapa son 100 000 cm reales, es decir, 1 km.\n\n**Proyecciones:**\n\n- **Mercator:** agranda zonas cercanas a los polos.\n- **Peters:** conserva áreas.\n- **Robinson:** equilibrio.",
+      "truco": "Mapa plano siempre deforma.",
+      "practica": {
+        "ejercicio": "En 1:100 000, ¿cuánto son 3 cm?",
+        "respuesta": "3 km."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-011",
+    "titulo": "Leer un mapa",
+    "slug": "leer-un-mapa-secundaria",
+    "palabras": [
+      "mapas",
+      "simbología",
+      "rosa de los vientos"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Instrucciones",
+          "texto": "La simbología es el manual para entender todo el dibujo."
+        },
+        {
+          "titulo": "El mapa del teléfono",
+          "texto": "Tu teléfono muestra lo mismo con líneas y colores."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué muestra un mapa político?",
+          "respuesta": "Países y fronteras."
+        },
+        {
+          "ejercicio": "¿Qué muestra un mapa físico?",
+          "respuesta": "Relieve."
+        },
+        {
+          "ejercicio": "¿Qué indica la rosa de los vientos?",
+          "respuesta": "Direcciones."
+        }
+      ],
+      "idea": "Un mapa es un dibujo con reglas. Si conoces sus partes, puedes llegar a cualquier lugar.",
+      "pizarron": "**Qué es:** un mapa es una representación plana y reducida de la Tierra o de una parte de ella.\n\n**Partes:**\n\n- Título.\n- **Simbología**: qué significa cada color o signo.\n- **Escala.**\n- **Rosa de los vientos.**\n- Coordenadas.\n\n**Pasos:** lee el título, revisa simbología, orienta el mapa.\n\n**Tipos:** físico, político, temático.\n\n**Para recordar:**\n- **¿Qué muestra un mapa político?** Países y fronteras.",
+      "truco": "Título, simbología y escala.",
+      "practica": {
+        "ejercicio": "¿Qué parte explica los símbolos?",
+        "respuesta": "La simbología."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-015",
+    "titulo": "Océanos y continentes",
+    "slug": "oceanos-y-continentes-secundaria",
+    "palabras": [
+      "océanos",
+      "continentes"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Planeta azul",
+          "texto": "Desde el espacio, la Tierra parece una canica azul."
+        },
+        {
+          "titulo": "Rompecabezas",
+          "texto": "Los continentes encajan como si antes estuvieran juntos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuál es el continente más grande?",
+          "respuesta": "Asia."
+        },
+        {
+          "ejercicio": "¿Qué porcentaje de la Tierra es agua?",
+          "respuesta": "Cerca del 71 %."
+        },
+        {
+          "ejercicio": "Di tres océanos.",
+          "respuesta": "Pacífico, Atlántico e Índico."
+        }
+      ],
+      "idea": "Si ves la Tierra desde el espacio, casi todo es azul. Solo un tercio es tierra.",
+      "pizarron": "**Qué es:** los continentes son grandes masas de tierra. Los océanos son grandes masas de agua salada.\n\n**Continentes:** América, Europa, Asia, África, Oceanía y Antártida.\n\n**Océanos:** Pacífico, Atlántico, Índico, Ártico y Antártico.\n\nCerca del 71 % de la Tierra es agua.\n\nEl **Pacífico** es el más grande.\n\n**Asia** es el continente más grande.",
+      "truco": "Seis continentes y cinco océanos.",
+      "practica": {
+        "ejercicio": "¿Cuál es el océano más grande?",
+        "respuesta": "El Pacífico."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-015",
+    "titulo": "Ciclo del agua",
+    "slug": "ciclo-del-agua-secundaria",
+    "palabras": [
+      "ciclo del agua",
+      "evaporación",
+      "condensación",
+      "lluvia"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tapa de la olla",
+          "texto": "El vapor se junta y gotea como en una tapa."
+        },
+        {
+          "titulo": "Rueda",
+          "texto": "Da vueltas sin parar desde hace millones de años."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué calor mueve el ciclo?",
+          "respuesta": "El del Sol."
+        },
+        {
+          "ejercicio": "¿Cómo se llama cuando cae agua?",
+          "respuesta": "Precipitación."
+        },
+        {
+          "ejercicio": "¿Qué es infiltración?",
+          "respuesta": "Que el agua entra al suelo."
+        }
+      ],
+      "idea": "El agua que hoy tomas pudo ser nube ayer. Viaja sin parar por el planeta.",
+      "pizarron": "**Qué es:** el ciclo del agua es el recorrido continuo del agua entre mar, aire y tierra.\n\n**Pasos:**\n\n1. **Evaporación:** el Sol convierte agua en vapor.\n2. **Condensación:** el vapor forma nubes.\n3. **Precipitación:** cae lluvia o nieve.\n4. **Escurrimiento e infiltración:** corre por ríos o entra al suelo.\n\nVuelve al mar y empieza de nuevo.",
+      "truco": "Sube, se junta, cae y corre.",
+      "practica": {
+        "ejercicio": "¿Qué paso forma nubes?",
+        "respuesta": "La condensación."
+      }
+    }
+  }
 ]

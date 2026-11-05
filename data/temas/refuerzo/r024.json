@@ -1,72 +1,436 @@
 [
-{"nodo_id":"ems-010","titulo":"Multiplicar binomios","slug":"multiplicar-binomios-prepa","palabras":["binomios","producto","FOIL","distributiva"],"contenido":{
-"idea":"Cada término de un paréntesis saluda de mano a cada término del otro. Si son dos y dos, hay cuatro saludos.",
-"pizarron":"Para $(a + b)(c + d)$, multiplica cada término por cada término:\n\n$$(a + b)(c + d) = ac + ad + bc + bd$$\n\nEjemplo:\n\n$$(2x + 3)(x - 5)$$\n\n1. $2x \\cdot x = 2x^2$\n2. $2x \\cdot (-5) = -10x$\n3. $3 \\cdot x = 3x$\n4. $3 \\cdot (-5) = -15$\n\nReduce:\n\n$$2x^2 - 7x - 15$$\n\nEl orden se recuerda como primeros, externos, internos y últimos.\n\nCada término conserva su signo.",
-"truco":"Cuatro saludos: primeros, externos, internos y últimos.",
-"practica":{"ejercicio":"Desarrolla $(x + 2)(x + 7)$.","respuesta":"$x^2 + 9x + 14$"},
-"analogias":[{"titulo":"El saludo de equipos","texto":"Cada jugador saluda a todos los del otro equipo. Nadie se queda sin saludar."},{"titulo":"El área partida","texto":"Un rectángulo de $(a+b)$ por $(c+d)$ se divide en cuatro áreas que suman el total."}],
-"ejercicios":[{"ejercicio":"Desarrolla $(3x - 1)(x + 4)$.","respuesta":"$3x^2 + 11x - 4$"},{"ejercicio":"Desarrolla $(2a + b)(a - 3b)$.","respuesta":"$2a^2 - 5ab - 3b^2$"},{"ejercicio":"Desarrolla $(x - 6)(x - 1)$.","respuesta":"$x^2 - 7x + 6$"}]}},
-{"nodo_id":"ems-010","titulo":"Binomio al cuadrado","slug":"binomio-al-cuadrado-prepa","palabras":["binomio al cuadrado","producto notable","trinomio"],"contenido":{
-"idea":"Un cuadrado de lado $a+b$ se parte en un cuadrado grande, uno chico y dos rectángulos. Por eso el resultado tiene tres términos, no dos.",
-"pizarron":"Fórmulas:\n\n$$(a + b)^2 = a^2 + 2ab + b^2$$\n\n$$(a - b)^2 = a^2 - 2ab + b^2$$\n\nEn palabras: cuadrado del primero, doble del primero por el segundo, cuadrado del segundo.\n\nEjemplo:\n\n$$(3x + 5)^2 = 9x^2 + 30x + 25$$\n\nEjemplo:\n\n$$(2y - 3)^2 = 4y^2 - 12y + 9$$\n\nError muy común: $(a + b)^2$ **no** es $a^2 + b^2$. Falta el doble producto.",
-"truco":"Cuadrado, doble y cuadrado.",
-"practica":{"ejercicio":"Desarrolla $(x + 4)^2$.","respuesta":"$x^2 + 8x + 16$"},
-"analogias":[{"titulo":"El mosaico cuadrado","texto":"Agregar una franja a cada lado de un cuadrado no solo suma la esquina: aparecen dos rectángulos."},{"titulo":"Los invitados","texto":"Si invitas a dos amigos a tu fiesta, también se conocen entre ellos: ese encuentro extra es el término de en medio."}],
-"ejercicios":[{"ejercicio":"Desarrolla $(x - 7)^2$.","respuesta":"$x^2 - 14x + 49$"},{"ejercicio":"Desarrolla $(2a + 3b)^2$.","respuesta":"$4a^2 + 12ab + 9b^2$"},{"ejercicio":"Desarrolla $(5 - y)^2$.","respuesta":"$25 - 10y + y^2$"}]}},
-{"nodo_id":"ems-010","titulo":"Binomios conjugados","slug":"binomios-conjugados-prepa","palabras":["conjugados","diferencia de cuadrados","suma por diferencia"],"contenido":{
-"idea":"Multiplicar una suma por su resta hace que los términos de en medio se cancelen, como dos personas que caminan en sentido contrario.",
-"pizarron":"Los **conjugados** son binomios con los mismos términos y distinto signo en medio.\n\n$$(a + b)(a - b) = a^2 - b^2$$\n\nEjemplo:\n\n$$(x + 6)(x - 6) = x^2 - 36$$\n\nEjemplo:\n\n$$(3y + 2)(3y - 2) = 9y^2 - 4$$\n\nPor qué: $ab$ y $-ab$ se cancelan.\n\nCálculo mental:\n\n$$21 \\times 19 = (20 + 1)(20 - 1) = 400 - 1 = 399$$",
-"truco":"Cuadrado del primero menos cuadrado del segundo.",
-"practica":{"ejercicio":"Desarrolla $(x + 9)(x - 9)$.","respuesta":"$x^2 - 81$"},
-"analogias":[{"titulo":"Las fuerzas contrarias","texto":"Dos empujes iguales y opuestos se cancelan. Solo queda lo que no se enfrenta."},{"titulo":"El truco de la tienda","texto":"Multiplicar 21 por 19 parece difícil, pero con conjugados sale de cabeza."}],
-"ejercicios":[{"ejercicio":"Desarrolla $(2x - 5)(2x + 5)$.","respuesta":"$4x^2 - 25$"},{"ejercicio":"Calcula $32 \\times 28$.","respuesta":"$900 - 4 = 896$"},{"ejercicio":"Desarrolla $(a^2 + b)(a^2 - b)$.","respuesta":"$a^4 - b^2$"}]}},
-{"nodo_id":"ems-010","titulo":"Binomios con término común","slug":"binomios-con-termino-comun-prepa","palabras":["término común","producto notable","suma y producto"],"contenido":{
-"idea":"Si dos binomios tienen la misma $x$, el resultado se forma con solo sumar y multiplicar los números que acompañan.",
-"pizarron":"Fórmula:\n\n$$(x + a)(x + b) = x^2 + (a + b)x + ab$$\n\nEjemplo:\n\n$$(x + 3)(x + 5) = x^2 + 8x + 15$$\n\n- Suma: 3 + 5 = 8.\n- Producto: 3 × 5 = 15.\n\nCon negativos:\n\n$$(x - 4)(x + 7) = x^2 + 3x - 28$$\n\nFunciona con cualquier término común:\n\n$$(2y + 1)(2y - 3) = 4y^2 - 4y - 3$$",
-"truco":"Medio: suma. Final: producto.",
-"practica":{"ejercicio":"Desarrolla $(x + 2)(x - 9)$.","respuesta":"$x^2 - 7x - 18$"},
-"analogias":[{"titulo":"El atajo aprendido","texto":"Es la misma multiplicación de cuatro saludos, pero memorizaste el resultado."},{"titulo":"La plantilla","texto":"Solo rellenas dos huecos: suma y producto."}],
-"ejercicios":[{"ejercicio":"Desarrolla $(x + 6)(x + 1)$.","respuesta":"$x^2 + 7x + 6$"},{"ejercicio":"Desarrolla $(x - 3)(x - 8)$.","respuesta":"$x^2 - 11x + 24$"},{"ejercicio":"Desarrolla $(3a + 2)(3a + 4)$.","respuesta":"$9a^2 + 18a + 8$"}]}},
-{"nodo_id":"ems-010","titulo":"Binomio al cubo","slug":"binomio-al-cubo-prepa","palabras":["binomio al cubo","producto notable","triple producto"],"contenido":{
-"idea":"Un cubo de lado $a+b$ se parte en ocho bloques: dos cubos y seis prismas agrupados en dos tríos. De ahí salen los cuatro términos.",
-"pizarron":"Fórmulas:\n\n$$(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$\n\n$$(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$\n\nCoeficientes: 1, 3, 3, 1.\n\nEl exponente de $a$ baja y el de $b$ sube.\n\nEjemplo:\n\n$$(x + 2)^3 = x^3 + 6x^2 + 12x + 8$$\n\nEjemplo:\n\n$$(2y - 1)^3 = 8y^3 - 12y^2 + 6y - 1$$\n\nCon resta, los signos se alternan.",
-"truco":"Uno, tres, tres, uno; exponentes bajan y suben.",
-"practica":{"ejercicio":"Desarrolla $(x + 1)^3$.","respuesta":"$x^3 + 3x^2 + 3x + 1$"},
-"analogias":[{"titulo":"El cubo de bloques","texto":"Al armar un cubo más grande, aparecen piezas de varios tamaños. Cada término es un tipo de pieza."},{"titulo":"El triángulo de Pascal","texto":"La fila 1, 3, 3, 1 da los coeficientes, igual que la fila 1, 2, 1 los del cuadrado."}],
-"ejercicios":[{"ejercicio":"Desarrolla $(x - 3)^3$.","respuesta":"$x^3 - 9x^2 + 27x - 27$"},{"ejercicio":"Desarrolla $(2a + b)^3$.","respuesta":"$8a^3 + 12a^2b + 6ab^2 + b^3$"},{"ejercicio":"¿Cuántos términos tiene $(a+b)^3$ desarrollado?","respuesta":"Cuatro."}]}},
-{"nodo_id":"ems-011","titulo":"Dividir polinomios","slug":"dividir-polinomios-prepa","palabras":["división de polinomios","división larga","cociente","residuo"],"contenido":{
-"idea":"Dividir polinomios se hace igual que la división en casita: divides, multiplicas, restas y bajas. Solo cambian los números por expresiones.",
-"pizarron":"Ordena de mayor a menor exponente.\n\nEjemplo: $(x^2 + 5x + 6) \\div (x + 2)$.\n\n1. Divide primeros: $x^2 \\div x = x$.\n2. Multiplica: $x(x + 2) = x^2 + 2x$.\n3. Resta: $3x + 6$.\n4. Divide: $3x \\div x = 3$.\n5. Multiplica: $3(x + 2) = 3x + 6$.\n6. Resta: 0.\n\nCociente: $x + 3$. Residuo: 0.\n\nComprueba: $(x + 2)(x + 3) = x^2 + 5x + 6$.\n\nSi falta una potencia, deja el espacio con 0: $x^3 + 1 = x^3 + 0x^2 + 0x + 1$.",
-"truco":"Divide primeros, multiplica, resta y baja.",
-"practica":{"ejercicio":"Divide $(x^2 - 9) \\div (x - 3)$.","respuesta":"$x + 3$"},
-"analogias":[{"titulo":"La división de primaria","texto":"Es el mismo ciclo que aprendiste con números, ahora con letras."},{"titulo":"Separar bloques","texto":"Vas sacando pedazos iguales al divisor hasta que no queda nada."}],
-"ejercicios":[{"ejercicio":"Divide $(x^2 + 7x + 10) \\div (x + 5)$.","respuesta":"$x + 2$"},{"ejercicio":"Divide $(2x^2 + 5x + 3) \\div (x + 1)$.","respuesta":"$2x + 3$"},{"ejercicio":"Divide $(x^2 + 3x + 5) \\div (x + 1)$.","respuesta":"$x + 2$, residuo 3."}]}},
-{"nodo_id":"ems-011","titulo":"División sintética","slug":"division-sintetica-prepa","palabras":["división sintética","Ruffini","raíces","polinomios"],"contenido":{
-"idea":"La división sintética es el atajo para dividir entre $x - a$: solo usas coeficientes y un par de sumas, sin escribir las letras.",
-"pizarron":"Para dividir $x^3 - 6x^2 + 11x - 6$ entre $x - 2$:\n\n1. Escribe los coeficientes: 1, -6, 11, -6.\n2. Usa $a = 2$.\n\n```\n2 | 1  -6  11  -6\n  |     2  -8   6\n  ----------------\n    1  -4   3   0\n```\n\n3. Baja el 1.\n4. Multiplica por 2 y suma a la siguiente columna.\n\nResultado: $x^2 - 4x + 3$, residuo 0.\n\nComo el residuo es 0, $x = 2$ es **raíz**.\n\nPara $x + 3$, usa $a = -3$.\n\nPon 0 en potencias faltantes.",
-"truco":"Baja, multiplica y suma.",
-"practica":{"ejercicio":"Divide $x^2 + 5x + 6$ entre $x + 2$ con sintética.","respuesta":"Con $a = -2$: 1, 3, 0. Resultado $x + 3$."},
-"analogias":[{"titulo":"El carril rápido","texto":"Evitas escribir letras, como pasar en caja rápida con lo esencial."},{"titulo":"La tabla de cuentas","texto":"Una tabla organizada resuelve en filas lo que antes llevaba muchos renglones."}],
-"ejercicios":[{"ejercicio":"Divide $x^2 - 4x + 3$ entre $x - 1$.","respuesta":"$x - 3$"},{"ejercicio":"Divide $x^3 - 1$ entre $x - 1$.","respuesta":"$x^2 + x + 1$"},{"ejercicio":"¿Qué significa residuo 0?","respuesta":"Que $a$ es raíz del polinomio."}]}},
-{"nodo_id":"ems-011","titulo":"Factor común","slug":"factor-comun-prepa","palabras":["factorizar","factor común","MCD","agrupar"],"contenido":{
-"idea":"Si varias personas traen la misma mochila, la puedes sacar del grupo y decir: todos traen esto. Factor común es sacar lo que se repite.",
-"pizarron":"Factorizar es escribir como producto. El primer paso siempre es buscar **factor común**.\n\nPasos:\n\n1. Encuentra el MCD de los coeficientes.\n2. Toma cada literal común con su **menor** exponente.\n3. Divide cada término.\n\nEjemplo:\n\n$$6x^3 + 9x^2 = 3x^2(2x + 3)$$\n\nEjemplo:\n\n$$12a^2b - 18ab^2 + 6ab = 6ab(2a - 3b + 1)$$\n\nNota el **1**: siempre queda algo donde sacaste todo.\n\nComprueba multiplicando.",
-"truco":"Lo que se repite sale con el menor exponente.",
-"practica":{"ejercicio":"Factoriza $5x^2 + 10x$.","respuesta":"$5x(x + 2)$"},
-"analogias":[{"titulo":"La distributiva al revés","texto":"Antes repartías; ahora recoges lo que se repartió."},{"titulo":"El apellido común","texto":"Una familia se nombra juntando a sus integrantes bajo un mismo apellido."}],
-"ejercicios":[{"ejercicio":"Factoriza $8y^3 - 12y^2$.","respuesta":"$4y^2(2y - 3)$"},{"ejercicio":"Factoriza $7ab + 14a$.","respuesta":"$7a(b + 2)$"},{"ejercicio":"Factoriza $x(y + 2) + 3(y + 2)$.","respuesta":"$(y + 2)(x + 3)$"}]}},
-{"nodo_id":"ems-011","titulo":"Factorizar por agrupación","slug":"factorizar-por-agrupacion-prepa","palabras":["factorización por agrupación","cuatro términos","factor común"],"contenido":{
-"idea":"Con cuatro términos, formas parejas. Cada pareja saca su factor común y, si quedan igual, aparece el factor final.",
-"pizarron":"Para cuatro términos:\n\n$$ax + ay + bx + by$$\n\n1. Agrupa: $(ax + ay) + (bx + by)$.\n2. Saca factor: $a(x + y) + b(x + y)$.\n3. Saca el binomio: $(x + y)(a + b)$.\n\nEjemplo:\n\n$$x^3 + 3x^2 + 2x + 6$$\n\n- $x^2(x + 3) + 2(x + 3)$\n- $(x + 3)(x^2 + 2)$\n\nCuidado con signos:\n\n$$x^2 - 2x - 3x + 6 = x(x - 2) - 3(x - 2) = (x - 2)(x - 3)$$",
-"truco":"Haz parejas y busca que se repita el paréntesis.",
-"practica":{"ejercicio":"Factoriza $ab + 2a + 3b + 6$.","respuesta":"$(a + 3)(b + 2)$"},
-"analogias":[{"titulo":"Los equipos","texto":"Se forman parejas y cada una saca lo suyo; al final se ve que todas comparten algo."},{"titulo":"Ordenar en dos cajas","texto":"Cada caja tiene su etiqueta, pero adentro traen lo mismo."}],
-"ejercicios":[{"ejercicio":"Factoriza $xy + 5x + 2y + 10$.","respuesta":"$(x + 2)(y + 5)$"},{"ejercicio":"Factoriza $x^2 + x - 4x - 4$.","respuesta":"$(x + 1)(x - 4)$"},{"ejercicio":"Factoriza $2a^2 + 6a + ab + 3b$.","respuesta":"$(a + 3)(2a + b)$"}]}},
-{"nodo_id":"ems-011","titulo":"Diferencia de cuadrados","slug":"diferencia-de-cuadrados-prepa","palabras":["diferencia de cuadrados","factorización","conjugados"],"contenido":{
-"idea":"Cuando ves un cuadrado menos otro cuadrado, siempre se puede abrir en dos paréntesis casi gemelos que solo difieren en el signo.",
-"pizarron":"Fórmula:\n\n$$a^2 - b^2 = (a + b)(a - b)$$\n\nPasos:\n\n1. Revisa que sea **resta** de dos cuadrados.\n2. Saca la raíz de cada uno.\n3. Escribe los conjugados.\n\nEjemplos:\n\n- $x^2 - 49 = (x + 7)(x - 7)$\n- $4y^2 - 25 = (2y + 5)(2y - 5)$\n- $16x^4 - 1 = (4x^2 + 1)(2x + 1)(2x - 1)$\n\nPrimero saca factor común si lo hay:\n\n$$2x^2 - 18 = 2(x + 3)(x - 3)$$\n\nLa suma de cuadrados $a^2 + b^2$ no se factoriza en los reales.",
-"truco":"Dos raíces y dos signos.",
-"practica":{"ejercicio":"Factoriza $x^2 - 16$.","respuesta":"$(x + 4)(x - 4)$"},
-"analogias":[{"titulo":"Los gemelos","texto":"Dos paréntesis iguales salvo un signo, como gemelos con distinta playera."},{"titulo":"Regresar el producto notable","texto":"Es el producto de conjugados caminando en reversa."}],
-"ejercicios":[{"ejercicio":"Factoriza $9a^2 - 100$.","respuesta":"$(3a + 10)(3a - 10)$"},{"ejercicio":"Factoriza $3x^2 - 12$.","respuesta":"$3(x + 2)(x - 2)$"},{"ejercicio":"Factoriza $x^4 - 81$.","respuesta":"$(x^2 + 9)(x + 3)(x - 3)$"}]}}
+{
+"nodo_id": "ems-010",
+"titulo": "Multiplicar binomios",
+"slug": "multiplicar-binomios-prepa",
+"palabras": [
+"binomios",
+"producto",
+"FOIL",
+"distributiva"
+],
+"contenido": {
+"idea": "Cada término de un paréntesis saluda de mano a cada término del otro. Si son dos y dos, hay cuatro saludos.",
+"pizarron": "**La regla:** cada término del primero multiplica a cada término del segundo.\n\nPara $(a + b)(c + d)$, multiplica cada término por cada término:\n\n$$(a + b)(c + d) = ac + ad + bc + bd$$\n\nEjemplo:\n\n$$(2x + 3)(x - 5)$$\n\n1. $2x \\cdot x = 2x^2$\n2. $2x \\cdot (-5) = -10x$\n3. $3 \\cdot x = 3x$\n4. $3 \\cdot (-5) = -15$\n\nReduce:\n\n$$2x^2 - 7x - 15$$\n\nEl orden se recuerda como primeros, externos, internos y últimos.\n\nCada término conserva su signo.",
+"truco": "Cuatro saludos: primeros, externos, internos y últimos.",
+"practica": {
+"ejercicio": "Desarrolla $(x + 2)(x + 7)$.",
+"respuesta": "$x^2 + 9x + 14$"
+},
+"analogias": [
+{
+"titulo": "El saludo de equipos",
+"texto": "Cada jugador saluda a todos los del otro equipo. Nadie se queda sin saludar."
+},
+{
+"titulo": "El área partida",
+"texto": "Un rectángulo de $(a+b)$ por $(c+d)$ se divide en cuatro áreas que suman el total."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Desarrolla $(3x - 1)(x + 4)$.",
+"respuesta": "$3x^2 + 11x - 4$"
+},
+{
+"ejercicio": "Desarrolla $(2a + b)(a - 3b)$.",
+"respuesta": "$2a^2 - 5ab - 3b^2$"
+},
+{
+"ejercicio": "Desarrolla $(x - 6)(x - 1)$.",
+"respuesta": "$x^2 - 7x + 6$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-010",
+"titulo": "Binomio al cuadrado",
+"slug": "binomio-al-cuadrado-prepa",
+"palabras": [
+"binomio al cuadrado",
+"producto notable",
+"trinomio"
+],
+"contenido": {
+"idea": "Un cuadrado de lado $a+b$ se parte en un cuadrado grande, uno chico y dos rectángulos. Por eso el resultado tiene tres términos, no dos.",
+"pizarron": "**La regla:** $(a + b)^2 = a^2 + 2ab + b^2$.\n\nFórmulas:\n\n$$(a + b)^2 = a^2 + 2ab + b^2$$\n\n$$(a - b)^2 = a^2 - 2ab + b^2$$\n\nEn palabras: cuadrado del primero, doble del primero por el segundo, cuadrado del segundo.\n\nEjemplo:\n\n$$(3x + 5)^2 = 9x^2 + 30x + 25$$\n\nEjemplo:\n\n$$(2y - 3)^2 = 4y^2 - 12y + 9$$\n\nError muy común: $(a + b)^2$ **no** es $a^2 + b^2$. Falta el doble producto.",
+"truco": "Cuadrado, doble y cuadrado.",
+"practica": {
+"ejercicio": "Desarrolla $(x + 4)^2$.",
+"respuesta": "$x^2 + 8x + 16$"
+},
+"analogias": [
+{
+"titulo": "El mosaico cuadrado",
+"texto": "Agregar una franja a cada lado de un cuadrado no solo suma la esquina: aparecen dos rectángulos."
+},
+{
+"titulo": "Los invitados",
+"texto": "Si invitas a dos amigos a tu fiesta, también se conocen entre ellos: ese encuentro extra es el término de en medio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Desarrolla $(x - 7)^2$.",
+"respuesta": "$x^2 - 14x + 49$"
+},
+{
+"ejercicio": "Desarrolla $(2a + 3b)^2$.",
+"respuesta": "$4a^2 + 12ab + 9b^2$"
+},
+{
+"ejercicio": "Desarrolla $(5 - y)^2$.",
+"respuesta": "$25 - 10y + y^2$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-010",
+"titulo": "Binomios conjugados",
+"slug": "binomios-conjugados-prepa",
+"palabras": [
+"conjugados",
+"diferencia de cuadrados",
+"suma por diferencia"
+],
+"contenido": {
+"idea": "Multiplicar una suma por su resta hace que los términos de en medio se cancelen, como dos personas que caminan en sentido contrario.",
+"pizarron": "**La regla:** $(a + b)(a - b) = a^2 - b^2$.\n\nLos **conjugados** son binomios con los mismos términos y distinto signo en medio.\n\n$$(a + b)(a - b) = a^2 - b^2$$\n\nEjemplo:\n\n$$(x + 6)(x - 6) = x^2 - 36$$\n\nEjemplo:\n\n$$(3y + 2)(3y - 2) = 9y^2 - 4$$\n\nPor qué: $ab$ y $-ab$ se cancelan.\n\nCálculo mental:\n\n$$21 \\times 19 = (20 + 1)(20 - 1) = 400 - 1 = 399$$",
+"truco": "Cuadrado del primero menos cuadrado del segundo.",
+"practica": {
+"ejercicio": "Desarrolla $(x + 9)(x - 9)$.",
+"respuesta": "$x^2 - 81$"
+},
+"analogias": [
+{
+"titulo": "Las fuerzas contrarias",
+"texto": "Dos empujes iguales y opuestos se cancelan. Solo queda lo que no se enfrenta."
+},
+{
+"titulo": "El truco de la tienda",
+"texto": "Multiplicar 21 por 19 parece difícil, pero con conjugados sale de cabeza."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Desarrolla $(2x - 5)(2x + 5)$.",
+"respuesta": "$4x^2 - 25$"
+},
+{
+"ejercicio": "Calcula $32 \\times 28$.",
+"respuesta": "$900 - 4 = 896$"
+},
+{
+"ejercicio": "Desarrolla $(a^2 + b)(a^2 - b)$.",
+"respuesta": "$a^4 - b^2$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-010",
+"titulo": "Binomios con término común",
+"slug": "binomios-con-termino-comun-prepa",
+"palabras": [
+"término común",
+"producto notable",
+"suma y producto"
+],
+"contenido": {
+"idea": "Si dos binomios tienen la misma $x$, el resultado se forma con solo sumar y multiplicar los números que acompañan.",
+"pizarron": "**La regla:** $(x + a)(x + b) = x^2 + (a + b)x + ab$.\n\nFórmula:\n\n$$(x + a)(x + b) = x^2 + (a + b)x + ab$$\n\nEjemplo:\n\n$$(x + 3)(x + 5) = x^2 + 8x + 15$$\n\n- Suma: 3 + 5 = 8.\n- Producto: 3 × 5 = 15.\n\nCon negativos:\n\n$$(x - 4)(x + 7) = x^2 + 3x - 28$$\n\nFunciona con cualquier término común:\n\n$$(2y + 1)(2y - 3) = 4y^2 - 4y - 3$$",
+"truco": "Medio: suma. Final: producto.",
+"practica": {
+"ejercicio": "Desarrolla $(x + 2)(x - 9)$.",
+"respuesta": "$x^2 - 7x - 18$"
+},
+"analogias": [
+{
+"titulo": "El atajo aprendido",
+"texto": "Es la misma multiplicación de cuatro saludos, pero memorizaste el resultado."
+},
+{
+"titulo": "La plantilla",
+"texto": "Solo rellenas dos huecos: suma y producto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Desarrolla $(x + 6)(x + 1)$.",
+"respuesta": "$x^2 + 7x + 6$"
+},
+{
+"ejercicio": "Desarrolla $(x - 3)(x - 8)$.",
+"respuesta": "$x^2 - 11x + 24$"
+},
+{
+"ejercicio": "Desarrolla $(3a + 2)(3a + 4)$.",
+"respuesta": "$9a^2 + 18a + 8$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-010",
+"titulo": "Binomio al cubo",
+"slug": "binomio-al-cubo-prepa",
+"palabras": [
+"binomio al cubo",
+"producto notable",
+"triple producto"
+],
+"contenido": {
+"idea": "Un cubo de lado $a+b$ se parte en ocho bloques: dos cubos y seis prismas agrupados en dos tríos. De ahí salen los cuatro términos.",
+"pizarron": "**La regla:** $(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$.\n\nFórmulas:\n\n$$(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$\n\n$$(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$\n\nCoeficientes: 1, 3, 3, 1.\n\nEl exponente de $a$ baja y el de $b$ sube.\n\nEjemplo:\n\n$$(x + 2)^3 = x^3 + 6x^2 + 12x + 8$$\n\nEjemplo:\n\n$$(2y - 1)^3 = 8y^3 - 12y^2 + 6y - 1$$\n\nCon resta, los signos se alternan.",
+"truco": "Uno, tres, tres, uno; exponentes bajan y suben.",
+"practica": {
+"ejercicio": "Desarrolla $(x + 1)^3$.",
+"respuesta": "$x^3 + 3x^2 + 3x + 1$"
+},
+"analogias": [
+{
+"titulo": "El cubo de bloques",
+"texto": "Al armar un cubo más grande, aparecen piezas de varios tamaños. Cada término es un tipo de pieza."
+},
+{
+"titulo": "El triángulo de Pascal",
+"texto": "La fila 1, 3, 3, 1 da los coeficientes, igual que la fila 1, 2, 1 los del cuadrado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Desarrolla $(x - 3)^3$.",
+"respuesta": "$x^3 - 9x^2 + 27x - 27$"
+},
+{
+"ejercicio": "Desarrolla $(2a + b)^3$.",
+"respuesta": "$8a^3 + 12a^2b + 6ab^2 + b^3$"
+},
+{
+"ejercicio": "¿Cuántos términos tiene $(a+b)^3$ desarrollado?",
+"respuesta": "Cuatro."
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Dividir polinomios",
+"slug": "dividir-polinomios-prepa",
+"palabras": [
+"división de polinomios",
+"división larga",
+"cociente",
+"residuo"
+],
+"contenido": {
+"idea": "Dividir polinomios se hace igual que la división en casita: divides, multiplicas, restas y bajas. Solo cambian los números por expresiones.",
+"pizarron": "**La regla:** divide el primer término, multiplica, resta y baja, igual que en una división normal.\n\nOrdena de mayor a menor exponente.\n\nEjemplo: $(x^2 + 5x + 6) \\div (x + 2)$.\n\n1. Divide primeros: $x^2 \\div x = x$.\n2. Multiplica: $x(x + 2) = x^2 + 2x$.\n3. Resta: $3x + 6$.\n4. Divide: $3x \\div x = 3$.\n5. Multiplica: $3(x + 2) = 3x + 6$.\n6. Resta: 0.\n\nCociente: $x + 3$. Residuo: 0.\n\nComprueba: $(x + 2)(x + 3) = x^2 + 5x + 6$.\n\nSi falta una potencia, deja el espacio con 0: $x^3 + 1 = x^3 + 0x^2 + 0x + 1$.",
+"truco": "Divide primeros, multiplica, resta y baja.",
+"practica": {
+"ejercicio": "Divide $(x^2 - 9) \\div (x - 3)$.",
+"respuesta": "$x + 3$"
+},
+"analogias": [
+{
+"titulo": "La división de primaria",
+"texto": "Es el mismo ciclo que aprendiste con números, ahora con letras."
+},
+{
+"titulo": "Separar bloques",
+"texto": "Vas sacando pedazos iguales al divisor hasta que no queda nada."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Divide $(x^2 + 7x + 10) \\div (x + 5)$.",
+"respuesta": "$x + 2$"
+},
+{
+"ejercicio": "Divide $(2x^2 + 5x + 3) \\div (x + 1)$.",
+"respuesta": "$2x + 3$"
+},
+{
+"ejercicio": "Divide $(x^2 + 3x + 5) \\div (x + 1)$.",
+"respuesta": "$x + 2$, residuo 3."
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "División sintética",
+"slug": "division-sintetica-prepa",
+"palabras": [
+"división sintética",
+"Ruffini",
+"raíces",
+"polinomios"
+],
+"contenido": {
+"idea": "La división sintética es el atajo para dividir entre $x - a$: solo usas coeficientes y un par de sumas, sin escribir las letras.",
+"pizarron": "**Qué es:** la división sintética es un atajo para dividir un polinomio entre $x - a$ usando solo coeficientes.\n\nPara dividir $x^3 - 6x^2 + 11x - 6$ entre $x - 2$:\n\n1. Escribe los coeficientes: 1, -6, 11, -6.\n2. Usa $a = 2$.\n\n```\n2 | 1  -6  11  -6\n  |     2  -8   6\n  ----------------\n    1  -4   3   0\n```\n\n3. Baja el 1.\n4. Multiplica por 2 y suma a la siguiente columna.\n\nResultado: $x^2 - 4x + 3$, residuo 0.\n\nComo el residuo es 0, $x = 2$ es **raíz**.\n\nPara $x + 3$, usa $a = -3$.\n\nPon 0 en potencias faltantes.",
+"truco": "Baja, multiplica y suma.",
+"practica": {
+"ejercicio": "Divide $x^2 + 5x + 6$ entre $x + 2$ con sintética.",
+"respuesta": "Con $a = -2$: 1, 3, 0. Resultado $x + 3$."
+},
+"analogias": [
+{
+"titulo": "El carril rápido",
+"texto": "Evitas escribir letras, como pasar en caja rápida con lo esencial."
+},
+{
+"titulo": "La tabla de cuentas",
+"texto": "Una tabla organizada resuelve en filas lo que antes llevaba muchos renglones."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Divide $x^2 - 4x + 3$ entre $x - 1$.",
+"respuesta": "$x - 3$"
+},
+{
+"ejercicio": "Divide $x^3 - 1$ entre $x - 1$.",
+"respuesta": "$x^2 + x + 1$"
+},
+{
+"ejercicio": "¿Qué significa residuo 0?",
+"respuesta": "Que $a$ es raíz del polinomio."
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Factor común",
+"slug": "factor-comun-prepa",
+"palabras": [
+"factorizar",
+"factor común",
+"MCD",
+"agrupar"
+],
+"contenido": {
+"idea": "Si varias personas traen la misma mochila, la puedes sacar del grupo y decir: todos traen esto. Factor común es sacar lo que se repite.",
+"pizarron": "**La regla:** busca lo que se repite en todos los términos y sácalo fuera del paréntesis.\n\nFactorizar es escribir como producto. El primer paso siempre es buscar **factor común**.\n\nPasos:\n\n1. Encuentra el MCD de los coeficientes.\n2. Toma cada literal común con su **menor** exponente.\n3. Divide cada término.\n\nEjemplo:\n\n$$6x^3 + 9x^2 = 3x^2(2x + 3)$$\n\nEjemplo:\n\n$$12a^2b - 18ab^2 + 6ab = 6ab(2a - 3b + 1)$$\n\nNota el **1**: siempre queda algo donde sacaste todo.\n\nComprueba multiplicando.",
+"truco": "Lo que se repite sale con el menor exponente.",
+"practica": {
+"ejercicio": "Factoriza $5x^2 + 10x$.",
+"respuesta": "$5x(x + 2)$"
+},
+"analogias": [
+{
+"titulo": "La distributiva al revés",
+"texto": "Antes repartías; ahora recoges lo que se repartió."
+},
+{
+"titulo": "El apellido común",
+"texto": "Una familia se nombra juntando a sus integrantes bajo un mismo apellido."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Factoriza $8y^3 - 12y^2$.",
+"respuesta": "$4y^2(2y - 3)$"
+},
+{
+"ejercicio": "Factoriza $7ab + 14a$.",
+"respuesta": "$7a(b + 2)$"
+},
+{
+"ejercicio": "Factoriza $x(y + 2) + 3(y + 2)$.",
+"respuesta": "$(y + 2)(x + 3)$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Factorizar por agrupación",
+"slug": "factorizar-por-agrupacion-prepa",
+"palabras": [
+"factorización por agrupación",
+"cuatro términos",
+"factor común"
+],
+"contenido": {
+"idea": "Con cuatro términos, formas parejas. Cada pareja saca su factor común y, si quedan igual, aparece el factor final.",
+"pizarron": "**La regla:** agrupa los términos de dos en dos y saca el factor común de cada grupo.\n\nPara cuatro términos:\n\n$$ax + ay + bx + by$$\n\n1. Agrupa: $(ax + ay) + (bx + by)$.\n2. Saca factor: $a(x + y) + b(x + y)$.\n3. Saca el binomio: $(x + y)(a + b)$.\n\nEjemplo:\n\n$$x^3 + 3x^2 + 2x + 6$$\n\n- $x^2(x + 3) + 2(x + 3)$\n- $(x + 3)(x^2 + 2)$\n\nCuidado con signos:\n\n$$x^2 - 2x - 3x + 6 = x(x - 2) - 3(x - 2) = (x - 2)(x - 3)$$",
+"truco": "Haz parejas y busca que se repita el paréntesis.",
+"practica": {
+"ejercicio": "Factoriza $ab + 2a + 3b + 6$.",
+"respuesta": "$(a + 3)(b + 2)$"
+},
+"analogias": [
+{
+"titulo": "Los equipos",
+"texto": "Se forman parejas y cada una saca lo suyo; al final se ve que todas comparten algo."
+},
+{
+"titulo": "Ordenar en dos cajas",
+"texto": "Cada caja tiene su etiqueta, pero adentro traen lo mismo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Factoriza $xy + 5x + 2y + 10$.",
+"respuesta": "$(x + 2)(y + 5)$"
+},
+{
+"ejercicio": "Factoriza $x^2 + x - 4x - 4$.",
+"respuesta": "$(x + 1)(x - 4)$"
+},
+{
+"ejercicio": "Factoriza $2a^2 + 6a + ab + 3b$.",
+"respuesta": "$(a + 3)(2a + b)$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Diferencia de cuadrados",
+"slug": "diferencia-de-cuadrados-prepa",
+"palabras": [
+"diferencia de cuadrados",
+"factorización",
+"conjugados"
+],
+"contenido": {
+"idea": "Cuando ves un cuadrado menos otro cuadrado, siempre se puede abrir en dos paréntesis casi gemelos que solo difieren en el signo.",
+"pizarron": "**La regla:** $a^2 - b^2 = (a + b)(a - b)$.\n\nFórmula:\n\n$$a^2 - b^2 = (a + b)(a - b)$$\n\nPasos:\n\n1. Revisa que sea **resta** de dos cuadrados.\n2. Saca la raíz de cada uno.\n3. Escribe los conjugados.\n\nEjemplos:\n\n- $x^2 - 49 = (x + 7)(x - 7)$\n- $4y^2 - 25 = (2y + 5)(2y - 5)$\n- $16x^4 - 1 = (4x^2 + 1)(2x + 1)(2x - 1)$\n\nPrimero saca factor común si lo hay:\n\n$$2x^2 - 18 = 2(x + 3)(x - 3)$$\n\nLa suma de cuadrados $a^2 + b^2$ no se factoriza en los reales.",
+"truco": "Dos raíces y dos signos.",
+"practica": {
+"ejercicio": "Factoriza $x^2 - 16$.",
+"respuesta": "$(x + 4)(x - 4)$"
+},
+"analogias": [
+{
+"titulo": "Los gemelos",
+"texto": "Dos paréntesis iguales salvo un signo, como gemelos con distinta playera."
+},
+{
+"titulo": "Regresar el producto notable",
+"texto": "Es el producto de conjugados caminando en reversa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Factoriza $9a^2 - 100$.",
+"respuesta": "$(3a + 10)(3a - 10)$"
+},
+{
+"ejercicio": "Factoriza $3x^2 - 12$.",
+"respuesta": "$3(x + 2)(x - 2)$"
+},
+{
+"ejercicio": "Factoriza $x^4 - 81$.",
+"respuesta": "$(x^2 + 9)(x + 3)(x - 3)$"
+}
+]
+}
+}
 ]

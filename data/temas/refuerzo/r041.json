@@ -1,72 +1,451 @@
 [
-{"nodo_id":"f5-ing","titulo":"La hora para principiantes","slug":"la-hora-para-principiantes-primaria","palabras":["hora en inglés","what time is it","o'clock","half past"],"contenido":{
-"idea":"Tu reloj no cambia, pero la manera de leerlo sí. Con pocas fórmulas puedes decir a qué hora sales de clase o empieza tu partido.",
-"pizarron":"Pregunta: *What time is it?* (uat taim is it), ¿qué hora es?\n\n**Hora exacta**: usa *o'clock*.\n\n- 3:00: *It is three o'clock*.\n\n**Y media**: usa *half past*.\n\n- 3:30: *It is half past three*.\n\n**Y cuarto**: usa *a quarter past*.\n\n- 3:15: *It is a quarter past three*.\n\n**Menos cuarto**: usa *a quarter to*.\n\n- 3:45: *It is a quarter to four*.\n\nTambién puedes decir los números tal cual: 3:15 es *three fifteen*.\n\nPara decir a qué hora pasa algo usa **at**:\n\n*I go to school at seven* (ai gou tu skul at séven): voy a la escuela a las siete.",
-"truco":"Past ya pasó; to falta para llegar.",
-"practica":{"ejercicio":"Di las 5:00 en inglés.","respuesta":"*It is five o'clock.*"},
-"analogias":[{"titulo":"La pizza del reloj","texto":"Parte el reloj como pizza: half es la mitad y quarter es una rebanada de cuatro."},{"titulo":"La parada del camión","texto":"Past significa que ya pasaste la parada; to significa que aún te falta para llegar."}],
-"ejercicios":[{"ejercicio":"Di las 8:30 con *half past*.","respuesta":"*It is half past eight.*"},{"ejercicio":"¿Qué hora es *a quarter to ten*?","respuesta":"9:45."},{"ejercicio":"Completa: *I eat ___ two.*","respuesta":"*at*"}]}},
-{"nodo_id":"f5-ing","titulo":"Lugares de la ciudad en inglés","slug":"lugares-de-la-ciudad-en-ingles-primaria","palabras":["ciudad","places","park","hospital","where is"],"contenido":{
-"idea":"Imagina que un turista te pregunta por una calle de tu colonia. Con los nombres de los lugares ya podrías ayudarle.",
-"pizarron":"| Español | Inglés | Suena |\n|---|---|---|\n| escuela | school | skul |\n| parque | park | park |\n| hospital | hospital | jóspital |\n| tienda | store | stor |\n| mercado | market | márket |\n| biblioteca | library | láibreri |\n| iglesia | church | cherch |\n| banco | bank | bank |\n| farmacia | drugstore | drágstor |\n\nPregunta útil:\n\n*Where is the park?* (uer is de park): ¿dónde está el parque?\n\nRespuestas con posición:\n\n- *It is next to the bank*: está junto al banco.\n- *It is in front of the school*: está enfrente de la escuela.\n- *It is near here*: está cerca de aquí.\n\nCuidado: *library* es biblioteca y no librería. Una librería es *bookstore*.",
-"truco":"Library presta libros; bookstore los vende.",
-"practica":{"ejercicio":"¿Cómo preguntas dónde está el hospital?","respuesta":"*Where is the hospital?*"},
-"analogias":[{"titulo":"Mapa de tu colonia","texto":"Dibuja tu colonia y escribe cada lugar en inglés para practicar con algo que conoces."},{"titulo":"Palabras engañosas","texto":"Library parece librería, pero es una amiga falsa: suena igual y significa otra cosa."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *market*?","respuesta":"Mercado."},{"ejercicio":"¿Qué significa *next to*?","respuesta":"Junto a."},{"ejercicio":"¿Cómo se dice biblioteca?","respuesta":"*Library.*"}]}},
-{"nodo_id":"f5-ing","titulo":"Profesiones en inglés","slug":"profesiones-en-ingles-primaria","palabras":["profesiones","jobs","doctor","teacher","what do you want to be"],"contenido":{
-"idea":"Piensa qué quieres ser cuando crezcas. Las profesiones en inglés te ayudan a hablar de tu familia y también de tus sueños.",
-"pizarron":"| Español | Inglés | Suena |\n|---|---|---|\n| maestra o maestro | teacher | tícher |\n| doctora o doctor | doctor | dóktor |\n| enfermera o enfermero | nurse | ners |\n| policía | police officer | polís ófiser |\n| bombera o bombero | firefighter | fáierfaiter |\n| cocinera o cocinero | cook | kuk |\n| granjera o granjero | farmer | fármer |\n| conductora o conductor | driver | dráiver |\n\nEn inglés la palabra no cambia si es mujer u hombre.\n\nCon profesiones se usa *a* o *an*:\n\n- *She is a doctor*: ella es doctora.\n- *He is an engineer* (ji is an enyiníer): él es ingeniero.\n\nPregunta útil:\n\n*What do you want to be?* ¿Qué quieres ser?\n\n*I want to be a teacher*: quiero ser maestro.",
-"truco":"Muchos oficios terminan en -er: el que hace la acción.",
-"practica":{"ejercicio":"Traduce: «Ella es enfermera».","respuesta":"*She is a nurse.*"},
-"analogias":[{"titulo":"El uniforme","texto":"Cada oficio trae su uniforme: al ver la bata piensas doctor y al ver el casco, firefighter."},{"titulo":"La terminación -er","texto":"Teach es enseñar y teacher quien enseña; la -er convierte acciones en personas."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *farmer*?","respuesta":"Granjero o granjera."},{"ejercicio":"Di que quieres ser cocinero.","respuesta":"*I want to be a cook.*"},{"ejercicio":"Completa: *He is ___ engineer.*","respuesta":"*an*"}]}},
-{"nodo_id":"f5-ing","titulo":"Mi rutina diaria en inglés","slug":"mi-rutina-diaria-en-ingles-primaria","palabras":["rutina","daily routine","wake up","get up","acciones diarias"],"contenido":{
-"idea":"Todas las mañanas repites los mismos pasos: despiertas, comes y sales. Si los cuentas en inglés, tu día se vuelve una historia.",
-"pizarron":"**Acciones diarias**:\n\n- *wake up* (ueik ap): despertar.\n- *take a shower* (teik a sháuer): bañarse.\n- *get dressed* (guet drest): vestirse.\n- *have breakfast* (jav brékfast): desayunar.\n- *go to school* (gou tu skul): ir a la escuela.\n- *do homework* (du jómuerk): hacer la tarea.\n- *go to bed* (gou tu bed): acostarse.\n\nPara ordenarlas usa *first* (primero), *then* (luego) y *finally* (al final).\n\nEjemplo:\n\n*First, I wake up at six. Then, I have breakfast. Finally, I go to school.*\n\nMi rutina va en presente porque pasa todos los días.",
-"truco":"First, then y finally ordenan cualquier historia.",
-"practica":{"ejercicio":"Di que desayunas a las siete.","respuesta":"*I have breakfast at seven.*"},
-"analogias":[{"titulo":"Historieta","texto":"Cada acción es un cuadrito de una historieta; juntos cuentan tu mañana de principio a fin."},{"titulo":"La receta","texto":"First, then y finally son los pasos de una receta, solo que aquí preparas tu día."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *go to bed*?","respuesta":"Acostarse."},{"ejercicio":"¿Cómo se dice hacer la tarea?","respuesta":"*Do homework.*"},{"ejercicio":"Di «Luego voy a la escuela».","respuesta":"*Then, I go to school.*"}]}},
-{"nodo_id":"f5-ing","titulo":"Adjetivos para describir","slug":"adjetivos-para-describir-primaria","palabras":["adjetivos","big","small","describir","happy"],"contenido":{
-"idea":"Decir perro no dice mucho; decir perro grande y feliz ya pinta una imagen. Los adjetivos son los colores de tus frases.",
-"pizarron":"Los **adjetivos** describen personas y cosas.\n\n**Opuestos útiles**:\n\n- *big* (grande) / *small* (pequeño).\n- *tall* (alto) / *short* (bajo).\n- *old* (viejo) / *young* (joven).\n- *happy* (feliz) / *sad* (triste).\n- *fast* (rápido) / *slow* (lento).\n- *hot* (caliente) / *cold* (frío).\n\nDos reglas:\n\n1. El adjetivo va **antes** de la cosa: *a big dog*.\n2. El adjetivo **no lleva plural**: *two big dogs*, nunca *bigs dogs*.\n\nTambién puede ir después de *to be*:\n\n*The dog is big*: el perro es grande.",
-"truco":"Adjetivo antes de la cosa y siempre sin -s.",
-"practica":{"ejercicio":"Traduce: «un gato pequeño».","respuesta":"*A small cat.*"},
-"analogias":[{"titulo":"Filtro de foto","texto":"Un adjetivo es como un filtro: la misma foto cambia de sentido si la marcas con uno u otro."},{"titulo":"Pares de balanza","texto":"Los opuestos van en los platos de una balanza: aprendes una palabra y su contraria a la vez."}],
-"ejercicios":[{"ejercicio":"¿Cuál es el opuesto de *happy*?","respuesta":"*Sad.*"},{"ejercicio":"Corrige: *three talls boys*.","respuesta":"*three tall boys*"},{"ejercicio":"Ordena: *is / old / car / the*.","respuesta":"*The car is old.*"}]}},
-{"nodo_id":"f5-ing","titulo":"My, your, his y her","slug":"my-your-his-y-her-primaria","palabras":["posesivos","my","your","his","her"],"contenido":{
-"idea":"Si en tu salón todos traen lápiz, hace falta decir de quién es cada uno. Estas palabras le ponen nombre de dueño a las cosas.",
-"pizarron":"Estas palabras dicen de quién es algo:\n\n| Persona | Posesivo | Ejemplo |\n|---|---|---|\n| I | my (mi) | my book |\n| you | your (tu) | your pen |\n| he | his (su, de él) | his bike |\n| she | her (su, de ella) | her bag |\n\nVan **antes** de la cosa.\n\n*His* o *her* depende del **dueño**, no de la cosa:\n\n- *Ana and her brother*: Ana y su hermano.\n- *Luis and his sister*: Luis y su hermana.\n\nEl posesivo no cambia en plural: *my books*, nunca *mys books*.\n\nNo confundas *he* (él) con *his* (de él).",
-"truco":"Mira al dueño: ella, her; él, his.",
-"practica":{"ejercicio":"Completa: *Luis has a dog. It is ___ dog.*","respuesta":"*his*"},
-"analogias":[{"titulo":"Etiqueta con nombre","texto":"Mi lápiz lleva etiqueta: my dice mío y her dice que es de ella."},{"titulo":"Sigue el hilo","texto":"Del objeto sale un hilo hasta el dueño; si llega a una niña, usas her."}],
-"ejercicios":[{"ejercicio":"Completa: *Ana has a cat. It is ___ cat.*","respuesta":"*her*"},{"ejercicio":"Traduce: «tu libro».","respuesta":"*your book*"},{"ejercicio":"Traduce: «mis zapatos».","respuesta":"*my shoes*"}]}},
-{"nodo_id":"f5-ing","titulo":"Preguntas con what, where y who","slug":"preguntas-con-what-where-y-who-primaria","palabras":["preguntas","what","where","who","when"],"contenido":{
-"idea":"Un buen detective hace preguntas. Con muy pocas palabras en inglés puedes averiguar qué pasó, dónde fue y quién estuvo.",
-"pizarron":"Palabras para preguntar:\n\n| Inglés | Suena | Significa |\n|---|---|---|\n| what | uat | qué |\n| where | uer | dónde |\n| who | ju | quién |\n| when | uen | cuándo |\n| how | jau | cómo |\n\nCon el verbo *to be*, el orden es:\n\n**palabra + is o are + persona o cosa**\n\n- *What is this?*: ¿qué es esto?\n- *Where is my pen?*: ¿dónde está mi pluma?\n- *Who is she?*: ¿quién es ella?\n- *When is your birthday?*: ¿cuándo es tu cumpleaños?\n- *How are you?*: ¿cómo estás?\n\nEn inglés el signo de interrogación solo va **al final**.",
-"truco":"Pregunta en inglés: el signo solo va al final.",
-"practica":{"ejercicio":"Pregunta dónde está tu mamá.","respuesta":"*Where is my mother?*"},
-"analogias":[{"titulo":"El detective","texto":"What busca la cosa, who busca a la persona y where busca el lugar del misterio."},{"titulo":"Tres llaves","texto":"Cada palabra es una llave: abre una puerta diferente de información sobre lo que quieres saber."}],
-"ejercicios":[{"ejercicio":"¿Qué palabra usas para preguntar por una persona?","respuesta":"*Who.*"},{"ejercicio":"Ordena: *is / your / name / what*.","respuesta":"*What is your name?*"},{"ejercicio":"¿Qué significa *when*?","respuesta":"Cuándo."}]}},
-{"nodo_id":"f5-ing","titulo":"Presente simple para principiantes","slug":"presente-simple-para-principiantes-primaria","palabras":["presente simple","I play","she plays","hábitos","do"],"contenido":{
-"idea":"Lo que haces todos los días, como ir a la escuela o jugar, se cuenta en presente simple. Es el tiempo de tus costumbres.",
-"pizarron":"El **presente simple** habla de cosas que se repiten.\n\n**Regla básica**: el verbo queda igual.\n\n- *I play soccer*: juego futbol.\n- *You read books*: lees libros.\n- *We eat at two*: comemos a las dos.\n\n**Con he, she e it** se agrega **-s**:\n\n- *He plays soccer*.\n- *She reads books*.\n\n**Negar**:\n\n- *I don't play tennis*.\n- *She doesn't play tennis*: con *doesn't*, el verbo pierde la -s.\n\n**Preguntar**:\n\n- *Do you play soccer?*\n- *Does he play soccer?*\n\nPalabras que ayudan: *every day* (todos los días), *always* (siempre).",
-"truco":"He, she e it se llevan la -s del verbo.",
-"practica":{"ejercicio":"Completa: *She ___ (read) every day.*","respuesta":"*reads*"},
-"analogias":[{"titulo":"La -s viajera","texto":"La s acompaña al verbo con he y she; si llega doesn't, se pasa a does y deja al verbo solo."},{"titulo":"Tu horario","texto":"El presente simple es como tu horario escolar: dice lo que pasa cada semana."}],
-"ejercicios":[{"ejercicio":"Completa: *He ___ (eat) rice.*","respuesta":"*eats*"},{"ejercicio":"Niega: *I play chess.*","respuesta":"*I don't play chess.*"},{"ejercicio":"Corrige: *She doesn't plays.*","respuesta":"*She doesn't play.*"}]}},
-{"nodo_id":"f5-ing","titulo":"Presente continuo para principiantes","slug":"presente-continuo-para-principiantes-primaria","palabras":["presente continuo","-ing","I am playing","ahora","now"],"contenido":{
-"idea":"Si alguien te llama y pregunta qué haces, contestas estoy comiendo o estoy jugando. En inglés esa idea usa am, is o are con -ing.",
-"pizarron":"El **presente continuo** habla de lo que pasa **ahora mismo**.\n\nFórmula:\n\n**am, is o are + verbo con -ing**\n\n- *I am eating*: estoy comiendo.\n- *You are reading*: estás leyendo.\n- *She is playing*: ella está jugando.\n- *They are running*: están corriendo.\n\nCambios al escribir:\n\n- Si termina en *-e*, se quita: *dance*, *dancing*.\n- Algunos doblan la última letra: *run*, *running*; *swim*, *swimming*.\n\nNegar: *I am not eating*.\n\nPreguntar: *What are you doing?* (uat ar yu dúing): ¿qué estás haciendo?\n\nPalabras clave: *now* (ahora), *right now* (ahora mismo).",
-"truco":"La -ing equivale a -ando o -iendo.",
-"practica":{"ejercicio":"Traduce: «Estoy leyendo».","respuesta":"*I am reading.*"},
-"analogias":[{"titulo":"Foto contra video","texto":"El presente simple es una regla fija; el continuo es un video que muestra este momento."},{"titulo":"Dos piezas","texto":"Necesitas ambas piezas, am con -ing, como los dos lados de un cierre de chamarra."}],
-"ejercicios":[{"ejercicio":"Completa: *He ___ playing.*","respuesta":"*is*"},{"ejercicio":"Escribe el -ing de *swim*.","respuesta":"*swimming*"},{"ejercicio":"¿Qué significa *What are you doing?*","respuesta":"¿Qué estás haciendo?"}]}},
-{"nodo_id":"f5-ing","titulo":"Leer un texto corto en inglés","slug":"leer-un-texto-corto-en-ingles-primaria","palabras":["lectura","reading","comprensión","texto corto","reading in English"],"contenido":{
-"idea":"Cuando armas un rompecabezas no empiezas por cada pieza pequeña. Al leer en inglés tampoco necesitas conocer cada palabra para saber de qué trata.",
-"pizarron":"**Pasos para leer**:\n\n1. Mira el título y los dibujos.\n2. Lee todo una vez sin detenerte.\n3. Busca palabras que ya conoces.\n4. Usa las palabras parecidas al español: *family*, *school*, *animal*.\n5. Responde quién, qué, dónde y cuándo.\n\n**Texto de ejemplo**:\n\n*My name is Tom. I am eleven. I live in Puebla with my family. I have a small dog. His name is Max. We play in the park every Sunday.*\n\nPreguntas:\n\n- *How old is Tom?* Tiene once años.\n- *Where does he live?* En Puebla.\n- *What is the dog's name?* Max.\n\nSi no conoces una palabra, sigue leyendo; el resto del texto suele ayudarte.",
-"truco":"Lee primero todo; el diccionario queda para después.",
-"practica":{"ejercicio":"En el texto, ¿cuándo juegan en el parque?","respuesta":"Todos los domingos, *every Sunday*."},
-"analogias":[{"titulo":"El rompecabezas","texto":"Con las piezas que reconoces ya se ve la imagen, aunque falten algunas por colocar."},{"titulo":"Película con ruido","texto":"Aunque no oigas una palabra, entiendes la escena porque las demás te dan la pista."}],
-"ejercicios":[{"ejercicio":"En el texto, ¿cómo es el perro?","respuesta":"Pequeño, *small*."},{"ejercicio":"¿Con quién vive Tom?","respuesta":"Con su familia."},{"ejercicio":"¿Qué significa *family*?","respuesta":"Familia."}]}}
+{
+"nodo_id": "f5-ing",
+"titulo": "La hora para principiantes",
+"slug": "la-hora-para-principiantes-primaria",
+"palabras": [
+"hora en inglés",
+"what time is it",
+"o'clock",
+"half past"
+],
+"contenido": {
+"idea": "Tu reloj no cambia, pero la manera de leerlo sí. Con pocas fórmulas puedes decir a qué hora sales de clase o empieza tu partido.",
+"pizarron": "**La regla:** la hora se dice con *It is*, y se pregunta con *What time is it?*\n\nPregunta: *What time is it?* (uat taim is it), ¿qué hora es?\n\n**Hora exacta**: usa *o'clock*.\n\n- 3:00: *It is three o'clock*.\n\n**Y media**: usa *half past*.\n\n- 3:30: *It is half past three*.\n\n**Y cuarto**: usa *a quarter past*.\n\n- 3:15: *It is a quarter past three*.\n\n**Menos cuarto**: usa *a quarter to*.\n\n- 3:45: *It is a quarter to four*.\n\nTambién puedes decir los números tal cual: 3:15 es *three fifteen*.\n\nPara decir a qué hora pasa algo usa **at**:\n\n*I go to school at seven* (ai gou tu skul at séven): voy a la escuela a las siete.",
+"truco": "Past ya pasó; to falta para llegar.",
+"practica": {
+"ejercicio": "Di las 5:00 en inglés.",
+"respuesta": "*It is five o'clock.*"
+},
+"analogias": [
+{
+"titulo": "La pizza del reloj",
+"texto": "Parte el reloj como pizza: half es la mitad y quarter es una rebanada de cuatro."
+},
+{
+"titulo": "La parada del camión",
+"texto": "Past significa que ya pasaste la parada; to significa que aún te falta para llegar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di las 8:30 con *half past*.",
+"respuesta": "*It is half past eight.*"
+},
+{
+"ejercicio": "¿Qué hora es *a quarter to ten*?",
+"respuesta": "9:45."
+},
+{
+"ejercicio": "Completa: *I eat ___ two.*",
+"respuesta": "*at*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Lugares de la ciudad en inglés",
+"slug": "lugares-de-la-ciudad-en-ingles-primaria",
+"palabras": [
+"ciudad",
+"places",
+"park",
+"hospital",
+"where is"
+],
+"contenido": {
+"idea": "Imagina que un turista te pregunta por una calle de tu colonia. Con los nombres de los lugares ya podrías ayudarle.",
+"pizarron": "**La regla:** para preguntar por un lugar se usa *Where is...?*\n\n| Español | Inglés | Suena |\n|---|---|---|\n| escuela | school | skul |\n| parque | park | park |\n| hospital | hospital | jóspital |\n| tienda | store | stor |\n| mercado | market | márket |\n| biblioteca | library | láibreri |\n| iglesia | church | cherch |\n| banco | bank | bank |\n| farmacia | drugstore | drágstor |\n\nPregunta útil:\n\n*Where is the park?* (uer is de park): ¿dónde está el parque?\n\nRespuestas con posición:\n\n- *It is next to the bank*: está junto al banco.\n- *It is in front of the school*: está enfrente de la escuela.\n- *It is near here*: está cerca de aquí.\n\nCuidado: *library* es biblioteca y no librería. Una librería es *bookstore*.",
+"truco": "Library presta libros; bookstore los vende.",
+"practica": {
+"ejercicio": "¿Cómo preguntas dónde está el hospital?",
+"respuesta": "*Where is the hospital?*"
+},
+"analogias": [
+{
+"titulo": "Mapa de tu colonia",
+"texto": "Dibuja tu colonia y escribe cada lugar en inglés para practicar con algo que conoces."
+},
+{
+"titulo": "Palabras engañosas",
+"texto": "Library parece librería, pero es una amiga falsa: suena igual y significa otra cosa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *market*?",
+"respuesta": "Mercado."
+},
+{
+"ejercicio": "¿Qué significa *next to*?",
+"respuesta": "Junto a."
+},
+{
+"ejercicio": "¿Cómo se dice biblioteca?",
+"respuesta": "*Library.*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Profesiones en inglés",
+"slug": "profesiones-en-ingles-primaria",
+"palabras": [
+"profesiones",
+"jobs",
+"doctor",
+"teacher",
+"what do you want to be"
+],
+"contenido": {
+"idea": "Piensa qué quieres ser cuando crezcas. Las profesiones en inglés te ayudan a hablar de tu familia y también de tus sueños.",
+"pizarron": "**La regla:** con profesiones se usa *a* o *an*: *She is a doctor*.\n\n| Español | Inglés | Suena |\n|---|---|---|\n| maestra o maestro | teacher | tícher |\n| doctora o doctor | doctor | dóktor |\n| enfermera o enfermero | nurse | ners |\n| policía | police officer | polís ófiser |\n| bombera o bombero | firefighter | fáierfaiter |\n| cocinera o cocinero | cook | kuk |\n| granjera o granjero | farmer | fármer |\n| conductora o conductor | driver | dráiver |\n\nEn inglés la palabra no cambia si es mujer u hombre.\n\nCon profesiones se usa *a* o *an*:\n\n- *She is a doctor*: ella es doctora.\n- *He is an engineer* (ji is an enyiníer): él es ingeniero.\n\nPregunta útil:\n\n*What do you want to be?* ¿Qué quieres ser?\n\n*I want to be a teacher*: quiero ser maestro.",
+"truco": "Muchos oficios terminan en -er: el que hace la acción.",
+"practica": {
+"ejercicio": "Traduce: «Ella es enfermera».",
+"respuesta": "*She is a nurse.*"
+},
+"analogias": [
+{
+"titulo": "El uniforme",
+"texto": "Cada oficio trae su uniforme: al ver la bata piensas doctor y al ver el casco, firefighter."
+},
+{
+"titulo": "La terminación -er",
+"texto": "Teach es enseñar y teacher quien enseña; la -er convierte acciones en personas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *farmer*?",
+"respuesta": "Granjero o granjera."
+},
+{
+"ejercicio": "Di que quieres ser cocinero.",
+"respuesta": "*I want to be a cook.*"
+},
+{
+"ejercicio": "Completa: *He is ___ engineer.*",
+"respuesta": "*an*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Mi rutina diaria en inglés",
+"slug": "mi-rutina-diaria-en-ingles-primaria",
+"palabras": [
+"rutina",
+"daily routine",
+"wake up",
+"get up",
+"acciones diarias"
+],
+"contenido": {
+"idea": "Todas las mañanas repites los mismos pasos: despiertas, comes y sales. Si los cuentas en inglés, tu día se vuelve una historia.",
+"pizarron": "**La regla:** lo que haces todos los días se cuenta en presente: *I wake up at six*.\n\n**Acciones diarias**:\n\n- *wake up* (ueik ap): despertar.\n- *take a shower* (teik a sháuer): bañarse.\n- *get dressed* (guet drest): vestirse.\n- *have breakfast* (jav brékfast): desayunar.\n- *go to school* (gou tu skul): ir a la escuela.\n- *do homework* (du jómuerk): hacer la tarea.\n- *go to bed* (gou tu bed): acostarse.\n\nPara ordenarlas usa *first* (primero), *then* (luego) y *finally* (al final).\n\nEjemplo:\n\n*First, I wake up at six. Then, I have breakfast. Finally, I go to school.*\n\nMi rutina va en presente porque pasa todos los días.",
+"truco": "First, then y finally ordenan cualquier historia.",
+"practica": {
+"ejercicio": "Di que desayunas a las siete.",
+"respuesta": "*I have breakfast at seven.*"
+},
+"analogias": [
+{
+"titulo": "Historieta",
+"texto": "Cada acción es un cuadrito de una historieta; juntos cuentan tu mañana de principio a fin."
+},
+{
+"titulo": "La receta",
+"texto": "First, then y finally son los pasos de una receta, solo que aquí preparas tu día."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *go to bed*?",
+"respuesta": "Acostarse."
+},
+{
+"ejercicio": "¿Cómo se dice hacer la tarea?",
+"respuesta": "*Do homework.*"
+},
+{
+"ejercicio": "Di «Luego voy a la escuela».",
+"respuesta": "*Then, I go to school.*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Adjetivos para describir",
+"slug": "adjetivos-para-describir-primaria",
+"palabras": [
+"adjetivos",
+"big",
+"small",
+"describir",
+"happy"
+],
+"contenido": {
+"idea": "Decir perro no dice mucho; decir perro grande y feliz ya pinta una imagen. Los adjetivos son los colores de tus frases.",
+"pizarron": "**La regla:** el adjetivo va antes de la cosa y nunca lleva *-s*.\n\nLos **adjetivos** describen personas y cosas.\n\n**Opuestos útiles**:\n\n- *big* (grande) / *small* (pequeño).\n- *tall* (alto) / *short* (bajo).\n- *old* (viejo) / *young* (joven).\n- *happy* (feliz) / *sad* (triste).\n- *fast* (rápido) / *slow* (lento).\n- *hot* (caliente) / *cold* (frío).\n\nDos reglas:\n\n1. El adjetivo va **antes** de la cosa: *a big dog*.\n2. El adjetivo **no lleva plural**: *two big dogs*, nunca *bigs dogs*.\n\nTambién puede ir después de *to be*:\n\n*The dog is big*: el perro es grande.",
+"truco": "Adjetivo antes de la cosa y siempre sin -s.",
+"practica": {
+"ejercicio": "Traduce: «un gato pequeño».",
+"respuesta": "*A small cat.*"
+},
+"analogias": [
+{
+"titulo": "Filtro de foto",
+"texto": "Un adjetivo es como un filtro: la misma foto cambia de sentido si la marcas con uno u otro."
+},
+{
+"titulo": "Pares de balanza",
+"texto": "Los opuestos van en los platos de una balanza: aprendes una palabra y su contraria a la vez."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es el opuesto de *happy*?",
+"respuesta": "*Sad.*"
+},
+{
+"ejercicio": "Corrige: *three talls boys*.",
+"respuesta": "*three tall boys*"
+},
+{
+"ejercicio": "Ordena: *is / old / car / the*.",
+"respuesta": "*The car is old.*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "My, your, his y her",
+"slug": "my-your-his-y-her-primaria",
+"palabras": [
+"posesivos",
+"my",
+"your",
+"his",
+"her"
+],
+"contenido": {
+"idea": "Si en tu salón todos traen lápiz, hace falta decir de quién es cada uno. Estas palabras le ponen nombre de dueño a las cosas.",
+"pizarron": "**La regla:** *my, your, his* y *her* dicen de quién es algo, y van antes de la cosa.\n\nEstas palabras dicen de quién es algo:\n\n| Persona | Posesivo | Ejemplo |\n|---|---|---|\n| I | my (mi) | my book |\n| you | your (tu) | your pen |\n| he | his (su, de él) | his bike |\n| she | her (su, de ella) | her bag |\n\nVan **antes** de la cosa.\n\n*His* o *her* depende del **dueño**, no de la cosa:\n\n- *Ana and her brother*: Ana y su hermano.\n- *Luis and his sister*: Luis y su hermana.\n\nEl posesivo no cambia en plural: *my books*, nunca *mys books*.\n\nNo confundas *he* (él) con *his* (de él).",
+"truco": "Mira al dueño: ella, her; él, his.",
+"practica": {
+"ejercicio": "Completa: *Luis has a dog. It is ___ dog.*",
+"respuesta": "*his*"
+},
+"analogias": [
+{
+"titulo": "Etiqueta con nombre",
+"texto": "Mi lápiz lleva etiqueta: my dice mío y her dice que es de ella."
+},
+{
+"titulo": "Sigue el hilo",
+"texto": "Del objeto sale un hilo hasta el dueño; si llega a una niña, usas her."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *Ana has a cat. It is ___ cat.*",
+"respuesta": "*her*"
+},
+{
+"ejercicio": "Traduce: «tu libro».",
+"respuesta": "*your book*"
+},
+{
+"ejercicio": "Traduce: «mis zapatos».",
+"respuesta": "*my shoes*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Preguntas con what, where y who",
+"slug": "preguntas-con-what-where-y-who-primaria",
+"palabras": [
+"preguntas",
+"what",
+"where",
+"who",
+"when"
+],
+"contenido": {
+"idea": "Un buen detective hace preguntas. Con muy pocas palabras en inglés puedes averiguar qué pasó, dónde fue y quién estuvo.",
+"pizarron": "**La regla:** la palabra de pregunta va primero: *What is this?*\n\nPalabras para preguntar:\n\n| Inglés | Suena | Significa |\n|---|---|---|\n| what | uat | qué |\n| where | uer | dónde |\n| who | ju | quién |\n| when | uen | cuándo |\n| how | jau | cómo |\n\nCon el verbo *to be*, el orden es:\n\n**palabra + is o are + persona o cosa**\n\n- *What is this?*: ¿qué es esto?\n- *Where is my pen?*: ¿dónde está mi pluma?\n- *Who is she?*: ¿quién es ella?\n- *When is your birthday?*: ¿cuándo es tu cumpleaños?\n- *How are you?*: ¿cómo estás?\n\nEn inglés el signo de interrogación solo va **al final**.",
+"truco": "Pregunta en inglés: el signo solo va al final.",
+"practica": {
+"ejercicio": "Pregunta dónde está tu mamá.",
+"respuesta": "*Where is my mother?*"
+},
+"analogias": [
+{
+"titulo": "El detective",
+"texto": "What busca la cosa, who busca a la persona y where busca el lugar del misterio."
+},
+{
+"titulo": "Tres llaves",
+"texto": "Cada palabra es una llave: abre una puerta diferente de información sobre lo que quieres saber."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué palabra usas para preguntar por una persona?",
+"respuesta": "*Who.*"
+},
+{
+"ejercicio": "Ordena: *is / your / name / what*.",
+"respuesta": "*What is your name?*"
+},
+{
+"ejercicio": "¿Qué significa *when*?",
+"respuesta": "Cuándo."
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Presente simple para principiantes",
+"slug": "presente-simple-para-principiantes-primaria",
+"palabras": [
+"presente simple",
+"I play",
+"she plays",
+"hábitos",
+"do"
+],
+"contenido": {
+"idea": "Lo que haces todos los días, como ir a la escuela o jugar, se cuenta en presente simple. Es el tiempo de tus costumbres.",
+"pizarron": "**La regla:** el presente simple habla de costumbres, y con *he*, *she* e *it* el verbo lleva *-s*.\n\nEl **presente simple** habla de cosas que se repiten.\n\n**Regla básica**: el verbo queda igual.\n\n- *I play soccer*: juego futbol.\n- *You read books*: lees libros.\n- *We eat at two*: comemos a las dos.\n\n**Con he, she e it** se agrega **-s**:\n\n- *He plays soccer*.\n- *She reads books*.\n\n**Negar**:\n\n- *I don't play tennis*.\n- *She doesn't play tennis*: con *doesn't*, el verbo pierde la -s.\n\n**Preguntar**:\n\n- *Do you play soccer?*\n- *Does he play soccer?*\n\nPalabras que ayudan: *every day* (todos los días), *always* (siempre).",
+"truco": "He, she e it se llevan la -s del verbo.",
+"practica": {
+"ejercicio": "Completa: *She ___ (read) every day.*",
+"respuesta": "*reads*"
+},
+"analogias": [
+{
+"titulo": "La -s viajera",
+"texto": "La s acompaña al verbo con he y she; si llega doesn't, se pasa a does y deja al verbo solo."
+},
+{
+"titulo": "Tu horario",
+"texto": "El presente simple es como tu horario escolar: dice lo que pasa cada semana."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *He ___ (eat) rice.*",
+"respuesta": "*eats*"
+},
+{
+"ejercicio": "Niega: *I play chess.*",
+"respuesta": "*I don't play chess.*"
+},
+{
+"ejercicio": "Corrige: *She doesn't plays.*",
+"respuesta": "*She doesn't play.*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Presente continuo para principiantes",
+"slug": "presente-continuo-para-principiantes-primaria",
+"palabras": [
+"presente continuo",
+"-ing",
+"I am playing",
+"ahora",
+"now"
+],
+"contenido": {
+"idea": "Si alguien te llama y pregunta qué haces, contestas estoy comiendo o estoy jugando. En inglés esa idea usa am, is o are con -ing.",
+"pizarron": "**La regla:** lo que pasa ahora se dice con *am, is, are* más verbo con *-ing*.\n\nEl **presente continuo** habla de lo que pasa **ahora mismo**.\n\nFórmula:\n\n**am, is o are + verbo con -ing**\n\n- *I am eating*: estoy comiendo.\n- *You are reading*: estás leyendo.\n- *She is playing*: ella está jugando.\n- *They are running*: están corriendo.\n\nCambios al escribir:\n\n- Si termina en *-e*, se quita: *dance*, *dancing*.\n- Algunos doblan la última letra: *run*, *running*; *swim*, *swimming*.\n\nNegar: *I am not eating*.\n\nPreguntar: *What are you doing?* (uat ar yu dúing): ¿qué estás haciendo?\n\nPalabras clave: *now* (ahora), *right now* (ahora mismo).",
+"truco": "La -ing equivale a -ando o -iendo.",
+"practica": {
+"ejercicio": "Traduce: «Estoy leyendo».",
+"respuesta": "*I am reading.*"
+},
+"analogias": [
+{
+"titulo": "Foto contra video",
+"texto": "El presente simple es una regla fija; el continuo es un video que muestra este momento."
+},
+{
+"titulo": "Dos piezas",
+"texto": "Necesitas ambas piezas, am con -ing, como los dos lados de un cierre de chamarra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *He ___ playing.*",
+"respuesta": "*is*"
+},
+{
+"ejercicio": "Escribe el -ing de *swim*.",
+"respuesta": "*swimming*"
+},
+{
+"ejercicio": "¿Qué significa *What are you doing?*",
+"respuesta": "¿Qué estás haciendo?"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Leer un texto corto en inglés",
+"slug": "leer-un-texto-corto-en-ingles-primaria",
+"palabras": [
+"lectura",
+"reading",
+"comprensión",
+"texto corto",
+"reading in English"
+],
+"contenido": {
+"idea": "Cuando armas un rompecabezas no empiezas por cada pieza pequeña. Al leer en inglés tampoco necesitas conocer cada palabra para saber de qué trata.",
+"pizarron": "**La regla:** lee todo una vez y luego busca quién, qué, dónde y cuándo.\n\n**Pasos para leer**:\n\n1. Mira el título y los dibujos.\n2. Lee todo una vez sin detenerte.\n3. Busca palabras que ya conoces.\n4. Usa las palabras parecidas al español: *family*, *school*, *animal*.\n5. Responde quién, qué, dónde y cuándo.\n\n**Texto de ejemplo**:\n\n*My name is Tom. I am eleven. I live in Puebla with my family. I have a small dog. His name is Max. We play in the park every Sunday.*\n\nPreguntas:\n\n- *How old is Tom?* Tiene once años.\n- *Where does he live?* En Puebla.\n- *What is the dog's name?* Max.\n\nSi no conoces una palabra, sigue leyendo; el resto del texto suele ayudarte.",
+"truco": "Lee primero todo; el diccionario queda para después.",
+"practica": {
+"ejercicio": "En el texto, ¿cuándo juegan en el parque?",
+"respuesta": "Todos los domingos, *every Sunday*."
+},
+"analogias": [
+{
+"titulo": "El rompecabezas",
+"texto": "Con las piezas que reconoces ya se ve la imagen, aunque falten algunas por colocar."
+},
+{
+"titulo": "Película con ruido",
+"texto": "Aunque no oigas una palabra, entiendes la escena porque las demás te dan la pista."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "En el texto, ¿cómo es el perro?",
+"respuesta": "Pequeño, *small*."
+},
+{
+"ejercicio": "¿Con quién vive Tom?",
+"respuesta": "Con su familia."
+},
+{
+"ejercicio": "¿Qué significa *family*?",
+"respuesta": "Familia."
+}
+]
+}
+}
 ]

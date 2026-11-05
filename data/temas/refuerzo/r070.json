@@ -1,2547 +1,2547 @@
 [
-{
-"nodo_id": "ems-179",
-"titulo": "Qué es la filosofía y sus ramas",
-"slug": "que-es-la-filosofia-y-sus-ramas-prepa",
-"palabras": [
-"filosofía",
-"ramas",
-"ética",
-"lógica"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Niño preguntón",
-"texto": "Sigue preguntando por qué, aun si ya le respondieron."
-},
-{
-"titulo": "Mapa de preguntas",
-"texto": "Cada rama es una calle de preguntas distintas."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué rama estudia el bien?",
-"respuesta": "La ética."
-},
-{
-"ejercicio": "¿Qué rama estudia cómo razonar?",
-"respuesta": "La lógica."
-},
-{
-"ejercicio": "Escribe una pregunta filosófica.",
-"respuesta": "Debe invitar a pensar, como ¿qué es la justicia?"
-}
-],
-"idea": "Los niños preguntan por qué todo el tiempo. La filosofía es no dejar de hacer esa pregunta.",
-"pizarron": "**Qué es:** la filosofía es la búsqueda racional del saber sobre la realidad, el conocimiento y la vida. La palabra significa *amor a la sabiduría*.\n\n**Ramas:**\n\n- **Metafísica:** ¿qué es lo real?\n- **Epistemología:** ¿qué podemos saber?\n- **Ética:** ¿qué está bien?\n- **Lógica:** ¿cómo razonar bien?\n- **Estética:** ¿qué es la belleza?\n- **Política:** ¿cómo convivir?",
-"truco": "Amor a la sabiduría.",
-"practica": {
-"ejercicio": "¿Qué significa filosofía?",
-"respuesta": "Amor a la sabiduría."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Filósofos presocráticos",
-"slug": "filosofos-presocraticos-prepa",
-"palabras": [
-"presocráticos",
-"Tales",
-"Heráclito",
-"Parménides"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Primer ladrillo",
-"texto": "Buscaron de qué está hecho el mundo."
-},
-{
-"titulo": "Río que cambia",
-"texto": "Nadie se baña dos veces en el mismo río."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué dijo Tales?",
-"respuesta": "Que el origen es el agua."
-},
-{
-"ejercicio": "¿Qué dijo Heráclito?",
-"respuesta": "Que todo cambia."
-},
-{
-"ejercicio": "¿Quién habló de átomos?",
-"respuesta": "Demócrito."
-}
-],
-"idea": "Hace 2600 años unos griegos dejaron de explicar el mundo con mitos y buscaron razones.",
-"pizarron": "**Qué es:** los presocráticos fueron los primeros filósofos griegos, anteriores a Sócrates. Buscaban el **arjé**, el origen de todo.\n\n- **Tales:** el agua.\n- **Anaxímenes:** el aire.\n- **Heráclito:** todo cambia; el fuego.\n- **Parménides:** el ser no cambia.\n- **Demócrito:** átomos.",
-"truco": "Buscaban el origen de todo.",
-"practica": {
-"ejercicio": "¿Qué es el arjé?",
-"respuesta": "El origen de todas las cosas."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Sócrates",
-"slug": "socrates-prepa",
-"palabras": [
-"Sócrates",
-"mayéutica",
-"solo sé que no sé nada"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Partera",
-"texto": "Ayuda a que nazcan las ideas de los demás."
-},
-{
-"titulo": "Maestro preguntón",
-"texto": "No da respuestas: te hace buscarlas."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué es la mayéutica?",
-"respuesta": "Preguntar para descubrir la verdad."
-},
-{
-"ejercicio": "¿Cómo murió?",
-"respuesta": "Bebió cicuta."
-},
-{
-"ejercicio": "¿Escribió libros?",
-"respuesta": "No."
-}
-],
-"idea": "Un griego caminaba por el mercado preguntando. Con preguntas hacía que otros pensaran.",
-"pizarron": "**Quién fue:** Sócrates (470-399 a. C.) fue un filósofo griego que no dejó nada escrito; lo conocemos por Platón.\n\n**Frase:** *Solo sé que no sé nada.*\n\n**Mayéutica:** preguntar para que otro descubra la verdad.\n\nFue condenado a beber cicuta.",
-"truco": "Preguntar ayuda a descubrir.",
-"practica": {
-"ejercicio": "¿Quién contó sus ideas?",
-"respuesta": "Platón."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Platón",
-"slug": "platon-prepa",
-"palabras": [
-"Platón",
-"mundo de las ideas",
-"caverna"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Caverna",
-"texto": "Salir a la luz es aprender a pensar."
-},
-{
-"titulo": "Molde perfecto",
-"texto": "Las cosas son copias de un molde ideal."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿De quién fue discípulo?",
-"respuesta": "De Sócrates."
-},
-{
-"ejercicio": "¿Qué representa la caverna?",
-"respuesta": "La ignorancia."
-},
-{
-"ejercicio": "¿Qué libro político escribió?",
-"respuesta": "*La República*."
-}
-],
-"idea": "Imagina que solo has visto sombras en una pared y las crees reales. Eso le preocupaba a Platón.",
-"pizarron": "**Quién fue:** Platón (427-347 a. C.) fue discípulo de Sócrates y fundó la **Academia**.\n\n**Teoría de las Ideas:** hay un mundo sensible y un mundo de Ideas perfectas.\n\n**Mito de la caverna:** personas ven sombras y creen que son la realidad.\n\n**La República:** gobierno de sabios.",
-"truco": "Sombras y mundo de Ideas.",
-"practica": {
-"ejercicio": "¿Qué fundó?",
-"respuesta": "La Academia."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Aristóteles",
-"slug": "aristoteles-prepa",
-"palabras": [
-"Aristóteles",
-"lógica",
-"virtud",
-"Liceo"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Valor equilibrado",
-"texto": "Valentía queda entre miedo y locura."
-},
-{
-"titulo": "Primer biólogo",
-"texto": "Clasificaba animales con mucho cuidado."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿De quién fue maestro?",
-"respuesta": "De Alejandro Magno."
-},
-{
-"ejercicio": "¿Qué es el término medio?",
-"respuesta": "El equilibrio entre dos excesos."
-},
-{
-"ejercicio": "¿Qué ciencia creó?",
-"respuesta": "La lógica."
-}
-],
-"idea": "Platón miraba al cielo; su alumno miraba la tierra. Quería entender todo lo que existe observándolo.",
-"pizarron": "**Quién fue:** Aristóteles (384-322 a. C.) fue discípulo de Platón y maestro de Alejandro Magno. Fundó el **Liceo**.\n\n**Ideas:**\n\n- Las cosas son reales; no hay otro mundo.\n- Creó la **lógica**.\n- Ética: la virtud está en el **término medio**.\n- Clasificó a los seres vivos.",
-"truco": "Observar y razonar.",
-"practica": {
-"ejercicio": "¿Qué fundó?",
-"respuesta": "El Liceo."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "San Agustín y Santo Tomás",
-"slug": "san-agustin-y-santo-tomas-prepa",
-"palabras": [
-"San Agustín",
-"Santo Tomás",
-"fe y razón"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Dos alas",
-"texto": "Fe y razón vuelan juntas."
-},
-{
-"titulo": "Puente",
-"texto": "Unieron el pensamiento griego con el cristianismo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué escribió San Agustín?",
-"respuesta": "*Confesiones*."
-},
-{
-"ejercicio": "¿Cuántas vías propuso Tomás?",
-"respuesta": "Cinco."
-},
-{
-"ejercicio": "¿De qué filósofo partió Tomás?",
-"respuesta": "De Aristóteles."
-}
-],
-"idea": "En la Edad Media se preguntaron: ¿se puede creer y razonar al mismo tiempo?",
-"pizarron": "**Qué es:** son dos grandes pensadores cristianos.\n\n**San Agustín (354-430):** *Confesiones*. Unió fe y Platón.\n\nFrase: *Cree para entender.*\n\n**Santo Tomás (1225-1274):** *Suma teológica*. Unió fe y Aristóteles.\n\nPropuso **cinco vías** para demostrar a Dios.",
-"truco": "Agustín, Platón; Tomás, Aristóteles.",
-"practica": {
-"ejercicio": "¿Qué escribió Santo Tomás?",
-"respuesta": "La *Suma teológica*."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Descartes",
-"slug": "descartes-prepa",
-"palabras": [
-"Descartes",
-"pienso luego existo",
-"racionalismo"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Limpiar el cajón",
-"texto": "Tiras todo y dejas solo lo seguro."
-},
-{
-"titulo": "Base firme",
-"texto": "Busca un primer ladrillo que no se mueva."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué creó en matemáticas?",
-"respuesta": "El plano cartesiano."
-},
-{
-"ejercicio": "¿De dónde viene el saber, según él?",
-"respuesta": "De la razón."
-},
-{
-"ejercicio": "Explica *Pienso, luego existo*.",
-"respuesta": "Si dudo, entonces existo como algo que piensa."
-}
-],
-"idea": "Descartes dudó de todo. Lo único seguro fue que él estaba dudando.",
-"pizarron": "**Quién fue:** René Descartes (1596-1650) fue un filósofo francés y padre del **racionalismo**.\n\n**Método:** dudar de todo lo incierto.\n\n**Frase:** *Pienso, luego existo.*\n\n**Racionalismo:** el conocimiento viene de la razón.\n\nTambién creó el plano cartesiano.",
-"truco": "Pienso, luego existo.",
-"practica": {
-"ejercicio": "¿Qué corriente fundó?",
-"respuesta": "El racionalismo."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Hume y el empirismo",
-"slug": "hume-y-el-empirismo-prepa",
-"palabras": [
-"Hume",
-"empirismo",
-"experiencia"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Hoja en blanco",
-"texto": "Naces sin saber y la vida va escribiendo."
-},
-{
-"titulo": "Costumbre",
-"texto": "Crees que saldrá el Sol porque siempre lo ha hecho."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Quién dijo hoja en blanco?",
-"respuesta": "Locke."
-},
-{
-"ejercicio": "¿De dónde era Hume?",
-"respuesta": "De Escocia."
-},
-{
-"ejercicio": "¿Cómo explica Hume la causa?",
-"respuesta": "Como costumbre."
-}
-],
-"idea": "Sabes que el fuego quema porque lo has sentido. Para Hume, todo saber viene de la experiencia.",
-"pizarron": "**Qué es:** el empirismo sostiene que el conocimiento viene de la experiencia.\n\n**Autores:** Locke, Berkeley y **David Hume** (1711-1776).\n\n**Locke:** la mente es una hoja en blanco.\n\n**Hume:** la causa y efecto es costumbre: vemos dos cosas juntas y creemos que una causa la otra.",
-"truco": "Primero ver, luego saber.",
-"practica": {
-"ejercicio": "¿Qué es empirismo?",
-"respuesta": "Decir que saber viene de la experiencia."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Kant",
-"slug": "kant-prepa",
-"palabras": [
-"Kant",
-"imperativo categórico",
-"razón"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Regla para todos",
-"texto": "Si todos mienten, nadie creería a nadie."
-},
-{
-"titulo": "Lentes",
-"texto": "La mente ordena el mundo como unos lentes."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿De qué país era?",
-"respuesta": "De Alemania."
-},
-{
-"ejercicio": "Di una obra suya.",
-"respuesta": "*Crítica de la razón pura*."
-},
-{
-"ejercicio": "Aplica la regla a copiar en un examen.",
-"respuesta": "Si todos copian, el examen pierde sentido."
-}
-],
-"idea": "Antes de hacer algo, pregúntate: ¿qué pasaría si todos lo hicieran? Esa es la idea de Kant.",
-"pizarron": "**Quién fue:** Immanuel Kant (1724-1804) fue un filósofo alemán.\n\n**Unió** racionalismo y empirismo.\n\n**Imperativo categórico:** actúa como si tu regla pudiera ser ley para todos.\n\nTrata a las personas como fines, no como medios.\n\n**Obra:** *Crítica de la razón pura*.",
-"truco": "¿Y si todos lo hicieran?",
-"practica": {
-"ejercicio": "¿Qué es el imperativo categórico?",
-"respuesta": "Actuar como si tu regla fuera ley universal."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Nietzsche",
-"slug": "nietzsche-prepa",
-"palabras": [
-"Nietzsche",
-"superhombre",
-"voluntad de poder"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Martillo",
-"texto": "Golpea ideas viejas para ver si suenan huecas."
-},
-{
-"titulo": "Subir la montaña",
-"texto": "Invita a superarte a ti mismo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué es voluntad de poder?",
-"respuesta": "Impulso a crecer."
-},
-{
-"ejercicio": "¿De qué país era?",
-"respuesta": "De Alemania."
-},
-{
-"ejercicio": "¿Qué criticó?",
-"respuesta": "La moral tradicional."
-}
-],
-"idea": "Un filósofo alemán invitó a pensar por ti mismo y no seguir lo que todos hacen.",
-"pizarron": "**Quién fue:** Friedrich Nietzsche (1844-1900) fue un filósofo alemán.\n\n**Ideas:**\n\n- Crítica a la moral tradicional.\n- **Voluntad de poder:** impulso a crecer.\n- **Superhombre:** quien crea sus propios valores.\n- Frase: *Dios ha muerto*: los valores viejos ya no sostienen.\n\n**Obra:** *Así habló Zaratustra*.",
-"truco": "Crea tus valores.",
-"practica": {
-"ejercicio": "¿Qué libro escribió?",
-"respuesta": "*Así habló Zaratustra*."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Marx",
-"slug": "marx-prepa",
-"palabras": [
-"Marx",
-"capitalismo",
-"lucha de clases"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Rebanada del pastel",
-"texto": "El trabajador hace el pastel y se le da una parte pequeña."
-},
-{
-"titulo": "Lentes de economía",
-"texto": "Mira la historia a través del trabajo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué es proletariado?",
-"respuesta": "La clase trabajadora."
-},
-{
-"ejercicio": "¿Qué es plusvalía?",
-"respuesta": "La ganancia del trabajo no pagado."
-},
-{
-"ejercicio": "Di una obra suya.",
-"respuesta": "*El capital*."
-}
-],
-"idea": "En las fábricas unos trabajaban y otros ganaban. Marx quiso explicar esa injusticia.",
-"pizarron": "**Quién fue:** Karl Marx (1818-1883) fue un filósofo y economista alemán.\n\n**Obras:** *Manifiesto comunista*, con Engels, y *El capital*.\n\n**Ideas:**\n\n- **Lucha de clases:** burguesía y proletariado.\n- **Plusvalía:** ganancia del trabajo no pagado.\n- La economía influye en la sociedad.",
-"truco": "Burguesía y proletariado.",
-"practica": {
-"ejercicio": "¿Con quién escribió el *Manifiesto*?",
-"respuesta": "Con Engels."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Existencialismo: Sartre y Beauvoir",
-"slug": "existencialismo-sartre-y-beauvoir-prepa",
-"palabras": [
-"existencialismo",
-"Sartre",
-"Simone de Beauvoir"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Hoja en blanco",
-"texto": "Tu vida es una historia que tú escribes."
-},
-{
-"titulo": "Timón",
-"texto": "Eliges a dónde va tu barco."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué dijo Sartre?",
-"respuesta": "Que la existencia precede a la esencia."
-},
-{
-"ejercicio": "¿Qué nos toca hacer?",
-"respuesta": "Elegir y hacernos responsables."
-},
-{
-"ejercicio": "Di una frase de Beauvoir.",
-"respuesta": "No se nace mujer: se llega a serlo."
-}
-],
-"idea": "Nadie nace con un destino escrito: tú lo vas haciendo con cada decisión.",
-"pizarron": "**Qué es:** el existencialismo sostiene que cada persona construye quién es con sus decisiones.\n\n**Jean-Paul Sartre (1905-1980):** *La existencia precede a la esencia.* Estamos *condenados a ser libres*.\n\n**Simone de Beauvoir (1908-1986):** *El segundo sexo*. *No se nace mujer: se llega a serlo.*",
-"truco": "Eres lo que decides.",
-"practica": {
-"ejercicio": "¿Quién escribió *El segundo sexo*?",
-"respuesta": "Simone de Beauvoir."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Filosofía mexicana y latinoamericana",
-"slug": "filosofia-mexicana-y-latinoamericana-prepa",
-"palabras": [
-"filosofía mexicana",
-"Vasconcelos",
-"Leopoldo Zea",
-"Dussel"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Espejo propio",
-"texto": "Mirar con ojos propios y no prestados."
-},
-{
-"titulo": "Voces del sur",
-"texto": "Las ideas también nacen en Latinoamérica."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Quién propuso filosofía de la liberación?",
-"respuesta": "Enrique Dussel."
-},
-{
-"ejercicio": "¿Quién estudió al mexicano?",
-"respuesta": "Samuel Ramos."
-},
-{
-"ejercicio": "¿Qué temas trata?",
-"respuesta": "Identidad y libertad."
-}
-],
-"idea": "También en América Latina se preguntó: ¿quiénes somos y cómo pensamos desde aquí?",
-"pizarron": "**Qué es:** la filosofía latinoamericana reflexiona sobre la identidad, la libertad y la historia de la región.\n\n**Autores:**\n\n- **José Vasconcelos:** *La raza cósmica*.\n- **Samuel Ramos:** *El perfil del hombre y la cultura en México*.\n- **Leopoldo Zea:** historia de las ideas.\n- **Enrique Dussel:** filosofía de la liberación.\n- **Luis Villoro:** pueblos indígenas.",
-"truco": "Pensar desde aquí.",
-"practica": {
-"ejercicio": "¿Quién escribió *La raza cósmica*?",
-"respuesta": "José Vasconcelos."
-}
-}
-},
-{
-"nodo_id": "ems-179",
-"titulo": "Pensamiento náhuatl",
-"slug": "pensamiento-nahuatl-prepa",
-"palabras": [
-"pensamiento náhuatl",
-"tlamatinime",
-"Miguel León-Portilla"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Flor que se va",
-"texto": "La flor dura poco, como la vida."
-},
-{
-"titulo": "Canto que queda",
-"texto": "La poesía guarda la verdad."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Quién lo estudió?",
-"respuesta": "Miguel León-Portilla."
-},
-{
-"ejercicio": "¿Qué es flor y canto?",
-"respuesta": "Poesía."
-},
-{
-"ejercicio": "¿Qué sabio fue poeta?",
-"respuesta": "Nezahualcóyotl."
-}
-],
-"idea": "Antes de la Conquista, sabios nahuas ya se preguntaban si todo es pasajero.",
-"pizarron": "**Qué es:** el pensamiento náhuatl es la reflexión de los sabios nahuas, llamados **tlamatinime**.\n\n**Preguntas:** ¿qué hay después de la muerte?, ¿qué es verdadero?\n\n**Flor y canto:** la poesía como camino.\n\n**Nezahualcóyotl:** *No para siempre en la tierra.*\n\n**Miguel León-Portilla** estudió estas ideas.",
-"truco": "Tlamatinime: los que saben algo.",
-"practica": {
-"ejercicio": "¿Cómo se llamaban los sabios?",
-"respuesta": "Tlamatinime."
-}
-}
-},
-{
-"nodo_id": "ems-193",
-"titulo": "Premisas y conclusión",
-"slug": "premisas-y-conclusion-prepa",
-"palabras": [
-"premisas",
-"conclusión",
-"argumento"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Piso y techo",
-"texto": "Las premisas sostienen a la conclusión."
-},
-{
-"titulo": "Pistas y solución",
-"texto": "Con pistas llegas a una respuesta."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Halla la conclusión: *Llueve, por lo tanto, llevo paraguas.*",
-"respuesta": "Llevo paraguas."
-},
-{
-"ejercicio": "Da un indicador de premisa.",
-"respuesta": "*porque*"
-},
-{
-"ejercicio": "Escribe un argumento con dos premisas.",
-"respuesta": "Debe llevar a una conclusión."
-}
-],
-"idea": "Si dices que hará frío y por eso lleves suéter, ya armaste un argumento.",
-"pizarron": "**Qué es:** un argumento es un conjunto de **premisas** que apoyan una **conclusión**.\n\n**Ejemplo:**\n\n1. Todos los mamíferos respiran aire.\n2. Las ballenas son mamíferos.\n3. Por lo tanto, las ballenas respiran aire.\n\n**Indicadores:** *porque, ya que* señalan premisas. *Por lo tanto, entonces* señalan conclusión.",
-"truco": "Por lo tanto anuncia conclusión.",
-"practica": {
-"ejercicio": "¿Qué es premisa?",
-"respuesta": "Una razón que apoya la conclusión."
-}
-}
-},
-{
-"nodo_id": "ems-193",
-"titulo": "Deducción e inducción",
-"slug": "deduccion-e-induccion-prepa",
-"palabras": [
-"deducción",
-"inducción",
-"razonamiento"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Embudo",
-"texto": "Deducción baja de grande a pequeño."
-},
-{
-"titulo": "Muestra",
-"texto": "Pruebas una cucharada y hablas de la olla."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Clasifica: *El Sol salió siempre; saldrá mañana.*",
-"respuesta": "Inducción."
-},
-{
-"ejercicio": "¿Es segura la inducción?",
-"respuesta": "No, es probable."
-},
-{
-"ejercicio": "Da un ejemplo de deducción.",
-"respuesta": "Debe ir de regla general a un caso."
-}
-],
-"idea": "Una regla te lleva a un caso, o varios casos te llevan a una regla. Son dos caminos.",
-"pizarron": "**Qué es:** la deducción va de lo general a lo particular. La inducción va de lo particular a lo general.\n\n**Deducción:** si las premisas son verdaderas, la conclusión es segura.\n\nTodos los humanos mueren. Ana es humana. Ana morirá.\n\n**Inducción:** la conclusión es probable.\n\nLos cisnes que vi son blancos. Todos son blancos.",
-"truco": "Deducción segura; inducción probable.",
-"practica": {
-"ejercicio": "¿Cuál da conclusión segura?",
-"respuesta": "La deducción."
-}
-}
-},
-{
-"nodo_id": "ems-193",
-"titulo": "Silogismos",
-"slug": "silogismos-prepa",
-"palabras": [
-"silogismo",
-"Aristóteles",
-"premisa mayor"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Receta",
-"texto": "Dos ingredientes correctos dan el plato seguro."
-},
-{
-"titulo": "Cadena",
-"texto": "Dos eslabones unidos llevan al tercero."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuántas premisas tiene?",
-"respuesta": "Dos."
-},
-{
-"ejercicio": "¿Quién lo sistematizó?",
-"respuesta": "Aristóteles."
-},
-{
-"ejercicio": "Crea un silogismo.",
-"respuesta": "Debe tener dos premisas y conclusión."
-}
-],
-"idea": "Dos frases juntas te dan una tercera. Esa receta se llama silogismo.",
-"pizarron": "**Qué es:** un silogismo es un razonamiento deductivo con dos premisas y una conclusión.\n\n1. **Premisa mayor:** Todos los perros son mamíferos.\n2. **Premisa menor:** Fido es un perro.\n3. **Conclusión:** Fido es mamífero.\n\nTiene tres términos.\n\nAristóteles lo sistematizó.",
-"truco": "Mayor, menor y conclusión.",
-"practica": {
-"ejercicio": "Completa: *Todos los gatos maúllan. Mimi es gato. Entonces ___.*",
-"respuesta": "Mimi maúlla."
-}
-}
-},
-{
-"nodo_id": "ems-193",
-"titulo": "Lógica proposicional",
-"slug": "logica-proposicional-prepa",
-"palabras": [
-"lógica proposicional",
-"proposiciones",
-"conectivos"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Álgebra de frases",
-"texto": "Cambias frases por letras."
-},
-{
-"titulo": "Interruptores",
-"texto": "Cada proposición está prendida o apagada."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué significa $\\neg p$?",
-"respuesta": "No $p$."
-},
-{
-"ejercicio": "¿Es proposición *¡Ven!*?",
-"respuesta": "No."
-},
-{
-"ejercicio": "Escribe *llueve o hace frío* con símbolos.",
-"respuesta": "$p \\lor q$"
-}
-],
-"idea": "La lógica convierte frases en letras para calcular si algo es verdadero.",
-"pizarron": "**Qué es:** la lógica proposicional estudia proposiciones, frases verdaderas o falsas, y sus conectivos.\n\nSea $p$: *llueve*. Sea $q$: *hace frío*.\n\n**Negación:** $\\neg p$, no llueve.\n\n**Conjunción:** $p \\land q$, llueve y hace frío.\n\n**Disyunción:** $p \\lor q$, llueve o hace frío.\n\n**Condicional:** $p \\to q$, si llueve, hace frío.",
-"truco": "No, y, o, si entonces.",
-"practica": {
-"ejercicio": "¿Qué símbolo es *y*?",
-"respuesta": "$\\land$"
-}
-}
-},
-{
-"nodo_id": "ems-193",
-"titulo": "Tablas de verdad",
-"slug": "tablas-de-verdad-prepa",
-"palabras": [
-"tablas de verdad",
-"lógica"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Dos puertas",
-"texto": "Y necesita ambas abiertas; o necesita una."
-},
-{
-"titulo": "Probar todo",
-"texto": "Revisas todas las combinaciones sin saltarte ninguna."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuándo es falso $p \\lor q$?",
-"respuesta": "Cuando ambas son falsas."
-},
-{
-"ejercicio": "¿Cuántas filas tiene con 3 variables?",
-"respuesta": "8."
-},
-{
-"ejercicio": "¿Cuándo es falso $p \\to q$?",
-"respuesta": "Si $p$ es verdadera y $q$ falsa."
-}
-],
-"idea": "Una tabla prueba todas las combinaciones para ver cuándo una frase es verdadera.",
-"pizarron": "**Qué es:** una tabla de verdad muestra el valor de una proposición en todos los casos.\n\n| $p$ | $q$ | $p \\land q$ | $p \\lor q$ | $p \\to q$ |\n|---|---|---|---|---|\n| V | V | V | V | V |\n| V | F | F | V | F |\n| F | V | F | V | V |\n| F | F | F | F | V |\n\nCon $n$ variables hay $2^n$ filas.",
-"truco": "Y pide todo; o pide uno.",
-"practica": {
-"ejercicio": "¿Cuándo es verdadero $p \\land q$?",
-"respuesta": "Cuando ambas son verdaderas."
-}
-}
-},
-{
-"nodo_id": "ems-193",
-"titulo": "Falacias formales e informales",
-"slug": "falacias-formales-e-informales-prepa",
-"palabras": [
-"falacias",
-"afirmar el consecuente",
-"generalización"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Plano torcido",
-"texto": "La formal falla por dentro del razonamiento."
-},
-{
-"titulo": "Moneda falsa",
-"texto": "Se ve bien, pero al revisarla no vale."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué falacia ataca a la persona?",
-"respuesta": "Ad hominem."
-},
-{
-"ejercicio": "Si se moja la calle, ¿llovió seguro?",
-"respuesta": "No, pudo haber otra causa."
-},
-{
-"ejercicio": "Da un ejemplo de causa falsa.",
-"respuesta": "Ejemplo: *Traje mi playera y ganamos: fue por ella.*"
-}
-],
-"idea": "Unos errores están en la estructura y otros en el contenido. Conviene detectar ambos.",
-"pizarron": "**Qué es:** las falacias formales son errores en la forma lógica. Las informales son errores en el contenido o lenguaje.\n\n**Formales:**\n\n- **Afirmar el consecuente:** Si llueve, se moja. Se mojó. Llovió.\n\n**Informales:**\n\n- **Generalización apresurada.**\n- **Ad hominem.**\n- **Causa falsa.**\n- **Apelación a la autoridad** sin motivo.",
-"truco": "Forma o contenido.",
-"practica": {
-"ejercicio": "¿Qué falacia es *Un perro me mordió, todos muerden*?",
-"respuesta": "Generalización apresurada."
-}
-}
-},
-{
-"nodo_id": "ems-187",
-"titulo": "Utilitarismo",
-"slug": "utilitarismo-prepa",
-"palabras": [
-"utilitarismo",
-"Bentham",
-"Mill"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Balanza",
-"texto": "Pones placer y dolor en una balanza."
-},
-{
-"titulo": "Votación",
-"texto": "Gana lo que beneficie a más gente."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di un autor.",
-"respuesta": "Bentham."
-},
-{
-"ejercicio": "Di un problema.",
-"respuesta": "Puede sacrificar a pocos."
-},
-{
-"ejercicio": "Analiza con esta teoría una decisión escolar.",
-"respuesta": "Debe comparar el bienestar de cada opción."
-}
-],
-"idea": "Si debes decidir, elige lo que dé más bienestar a más personas.",
-"pizarron": "**Qué es:** el utilitarismo es una teoría ética que juzga los actos por sus consecuencias: es bueno lo que da mayor bienestar al mayor número.\n\n**Autores:** Jeremy Bentham y John Stuart Mill.\n\n**Problema:** puede sacrificar a pocos por muchos.",
-"truco": "Mayor bien para más personas.",
-"practica": {
-"ejercicio": "¿Qué juzga el utilitarismo?",
-"respuesta": "Las consecuencias."
-}
-}
-},
-{
-"nodo_id": "ems-187",
-"titulo": "Ética del deber",
-"slug": "etica-del-deber-prepa",
-"palabras": [
-"deontología",
-"Kant",
-"deber"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Regla fija",
-"texto": "El árbitro aplica la regla sin importar quién gana."
-},
-{
-"titulo": "Promesa",
-"texto": "La cumples aunque ya no te convenga."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Quién es su autor principal?",
-"respuesta": "Kant."
-},
-{
-"ejercicio": "¿Importan las consecuencias?",
-"respuesta": "No son lo central."
-},
-{
-"ejercicio": "Da un ejemplo de deber.",
-"respuesta": "Decir la verdad."
-}
-],
-"idea": "Hay cosas que no se hacen aunque convengan. Se hacen o no se hacen por deber.",
-"pizarron": "**Qué es:** la ética del deber, o deontología, juzga los actos por la regla, no por sus consecuencias.\n\n**Kant** es su principal autor.\n\n**Ejemplo:** no se debe mentir, aunque mentir ayude.",
-"truco": "Lo correcto, aunque cueste.",
-"practica": {
-"ejercicio": "¿Qué juzga esta ética?",
-"respuesta": "El deber."
-}
-}
-},
-{
-"nodo_id": "ems-187",
-"titulo": "Ética de las virtudes",
-"slug": "etica-de-las-virtudes-prepa",
-"palabras": [
-"ética de las virtudes",
-"Aristóteles",
-"hábitos"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Músculo",
-"texto": "Se fortalece con la práctica."
-},
-{
-"titulo": "Entrenador interno",
-"texto": "Vas formando quién eres con cada acción."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué es término medio?",
-"respuesta": "El equilibrio."
-},
-{
-"ejercicio": "Di una virtud.",
-"respuesta": "La honestidad."
-},
-{
-"ejercicio": "Elige una virtud y escribe cómo practicarla.",
-"respuesta": "Debe indicar una acción."
-}
-],
-"idea": "Más que preguntar qué hago, pregunta qué persona quiero ser.",
-"pizarron": "**Qué es:** la ética de las virtudes juzga según el carácter de la persona.\n\n**Aristóteles:** la virtud es un hábito y está en el término medio.\n\n**Ejemplos:** valentía, honestidad, generosidad.\n\n**Felicidad (eudaimonía):** vivir bien.",
-"truco": "Practica y te vuelves virtuoso.",
-"practica": {
-"ejercicio": "¿Qué es virtud?",
-"respuesta": "Un hábito bueno."
-}
-}
-},
-{
-"nodo_id": "ems-107",
-"titulo": "Estado, nación y gobierno",
-"slug": "estado-nacion-y-gobierno-prepa",
-"palabras": [
-"Estado",
-"nación",
-"gobierno"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Escuela",
-"texto": "La escuela sigue, aunque cambie la dirección."
-},
-{
-"titulo": "Familia",
-"texto": "La nación es el sentimiento de pertenecer."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué es soberanía?",
-"respuesta": "El poder de decidir sin depender de otro."
-},
-{
-"ejercicio": "¿Cambia el gobierno?",
-"respuesta": "Sí."
-},
-{
-"ejercicio": "¿Qué es nación?",
-"respuesta": "Un pueblo con historia y cultura común."
-}
-],
-"idea": "México como país, los mexicanos como pueblo y quienes mandan hoy no son lo mismo.",
-"pizarron": "**Qué es:** el Estado es la organización política con territorio, población y soberanía. La nación es un pueblo con historia y cultura común. El gobierno son quienes administran el Estado.\n\n**Elementos del Estado:** territorio, población, gobierno y soberanía.\n\nUn gobierno cambia; el Estado permanece.",
-"truco": "Estado dura; gobierno cambia.",
-"practica": {
-"ejercicio": "¿Cuáles son los elementos del Estado?",
-"respuesta": "Territorio, población, gobierno y soberanía."
-}
-}
-},
-{
-"nodo_id": "ems-107",
-"titulo": "Formas de gobierno",
-"slug": "formas-de-gobierno-prepa",
-"palabras": [
-"formas de gobierno",
-"democracia",
-"monarquía",
-"dictadura"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Reglas del salón",
-"texto": "Puede decidir uno, unos pocos o todos."
-},
-{
-"titulo": "Democracia en votación",
-"texto": "El grupo vota y decide."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di una monarquía.",
-"respuesta": "Reino Unido."
-},
-{
-"ejercicio": "¿Qué falta en una dictadura?",
-"respuesta": "Elecciones libres."
-},
-{
-"ejercicio": "¿Qué significa democracia?",
-"respuesta": "Poder del pueblo."
-}
-],
-"idea": "Hay países con rey, con presidente o con un solo jefe sin elecciones.",
-"pizarron": "**Qué es:** las formas de gobierno son maneras de organizar el poder.\n\n**Monarquía:** rey o reina.\n\n**República:** gobernantes elegidos.\n\n**Democracia:** poder del pueblo.\n\n**Dictadura:** sin elecciones libres.\n\n**Federal o centralista:** cómo se reparte el poder.\n\n**Presidencial o parlamentaria.**",
-"truco": "Quién manda y cómo llega.",
-"practica": {
-"ejercicio": "¿Qué forma tiene México?",
-"respuesta": "República federal."
-}
-}
-},
-{
-"nodo_id": "ems-107",
-"titulo": "División de poderes",
-"slug": "division-de-poderes-prepa",
-"palabras": [
-"división de poderes",
-"Montesquieu",
-"pesos y contrapesos"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tres candados",
-"texto": "Se necesitan varias llaves para abrir el poder."
-},
-{
-"titulo": "Vigilar",
-"texto": "Cada uno cuida que el otro no se pase."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Para qué sirve?",
-"respuesta": "Para evitar abusos."
-},
-{
-"ejercicio": "Di los tres poderes.",
-"respuesta": "Ejecutivo, Legislativo y Judicial."
-},
-{
-"ejercicio": "Da un ejemplo de contrapeso.",
-"respuesta": "La Corte puede anular una ley."
-}
-],
-"idea": "Si una persona tuviera todo el poder, podría abusar. Por eso se reparte.",
-"pizarron": "**Qué es:** la división de poderes reparte el poder del Estado en Ejecutivo, Legislativo y Judicial, para evitar abusos.\n\n**Montesquieu** la propuso en *El espíritu de las leyes*.\n\n**Pesos y contrapesos:** cada poder vigila a los otros.",
-"truco": "Poder frena al poder.",
-"practica": {
-"ejercicio": "¿Quién la propuso?",
-"respuesta": "Montesquieu."
-}
-}
-},
-{
-"nodo_id": "ems-111",
-"titulo": "Oferta y demanda",
-"slug": "oferta-y-demanda-prepa",
-"palabras": [
-"oferta",
-"demanda",
-"precio"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Boletos del partido",
-"texto": "Si todos quieren, se venden caros."
-},
-{
-"titulo": "Balanza",
-"texto": "Compradores y vendedores buscan equilibrio."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué pasa con el mango en temporada?",
-"respuesta": "Baja de precio."
-},
-{
-"ejercicio": "¿Qué es demanda?",
-"respuesta": "Lo que quieren comprar."
-},
-{
-"ejercicio": "¿Qué es oferta?",
-"respuesta": "Lo que ofrecen vender."
-}
-],
-"idea": "Si muchos quieren algo y hay poco, sube de precio. Así funcionan los mercados.",
-"pizarron": "**La ley:** si aumenta el precio, la cantidad demandada baja y la ofrecida sube.\n\n**Demanda:** lo que compradores quieren.\n\n**Oferta:** lo que vendedores ofrecen.\n\n**Equilibrio:** se igualan.\n\n**Ejemplo:** en temporada, el mango abunda y baja de precio.",
-"truco": "Mucho hay, baja; poco hay, sube.",
-"practica": {
-"ejercicio": "¿Qué pasa si hay poco y muchos lo quieren?",
-"respuesta": "Sube el precio."
-}
-}
-},
-{
-"nodo_id": "ems-111",
-"titulo": "Inflación",
-"slug": "inflacion-prepa",
-"palabras": [
-"inflación",
-"precios",
-"poder adquisitivo"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Billete encogido",
-"texto": "El billete se ve igual, pero rinde menos."
-},
-{
-"titulo": "Globo",
-"texto": "Los precios suben poco a poco."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Algo de 200 sube 10 %. ¿Cuánto cuesta?",
-"respuesta": "220."
-},
-{
-"ejercicio": "¿Quién mide el INPC?",
-"respuesta": "El INEGI."
-},
-{
-"ejercicio": "¿Qué es poder adquisitivo?",
-"respuesta": "Lo que puedes comprar con tu dinero."
-}
-],
-"idea": "Con 100 pesos comprabas una bolsa llena; ahora alcanza para menos. Eso es inflación.",
-"pizarron": "**Qué es:** la inflación es el aumento general y sostenido de los precios.\n\n**Efecto:** el dinero compra menos.\n\n**Ejemplo:** algo costaba 100 y sube 5 %.\n\n$$100 + 5 = 105$$\n\n**Medida:** Índice Nacional de Precios al Consumidor (INPC), del INEGI.\n\nEl Banco de México busca controlarla.",
-"truco": "Más precio, menos alcanza.",
-"practica": {
-"ejercicio": "¿Qué organismo cuida la inflación?",
-"respuesta": "El Banco de México."
-}
-}
-},
-{
-"nodo_id": "ems-111",
-"titulo": "Sistemas económicos: capitalismo y socialismo",
-"slug": "sistemas-economicos-capitalismo-y-socialismo-prepa",
-"palabras": [
-"capitalismo",
-"socialismo",
-"economía mixta"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Dos formas de repartir",
-"texto": "Cada quien vende lo suyo, o se decide todo en grupo."
-},
-{
-"titulo": "Mezcla",
-"texto": "La mayoría de los países combina ambas."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué sistema planifica el Estado?",
-"respuesta": "El socialismo."
-},
-{
-"ejercicio": "¿Qué sistema tiene México?",
-"respuesta": "Economía mixta."
-},
-{
-"ejercicio": "Di una ventaja del mercado.",
-"respuesta": "Mayor competencia."
-}
-],
-"idea": "Quién decide qué producir: el mercado o el Estado. De ahí salen dos sistemas.",
-"pizarron": "**Qué es:** un sistema económico es la forma de organizar producción y reparto.\n\n**Capitalismo:** propiedad privada, libre mercado.\n\n**Socialismo:** propiedad colectiva, Estado planifica.\n\n**Economía mixta:** mezcla ambos.\n\n**México:** economía mixta.",
-"truco": "Mercado o Estado.",
-"practica": {
-"ejercicio": "¿Qué sistema tiene propiedad privada?",
-"respuesta": "El capitalismo."
-}
-}
-},
-{
-"nodo_id": "ems-111",
-"titulo": "Dinero, bancos y crédito",
-"slug": "dinero-bancos-y-credito-prepa",
-"palabras": [
-"dinero",
-"banco",
-"crédito",
-"interés"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Renta del dinero",
-"texto": "El interés es la renta por usar dinero ajeno."
-},
-{
-"titulo": "Trueque",
-"texto": "Antes se cambiaban cosas; el dinero lo hizo fácil."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Calcula $I$ con 2000 al 5 % por 1 año.",
-"respuesta": "100."
-},
-{
-"ejercicio": "¿Qué es crédito?",
-"respuesta": "Un préstamo."
-},
-{
-"ejercicio": "¿Qué hace un banco?",
-"respuesta": "Guarda y presta dinero."
-}
-],
-"idea": "Un banco guarda tu dinero y lo presta a otros, cobrando por ello.",
-"pizarron": "**Qué es:** el dinero es un medio de pago. Un banco guarda y presta dinero. El crédito es un préstamo con **interés**.\n\n**Interés simple:**\n\n$$I = C \\times r \\times t$$\n\n**Ejemplo:** $C = 1000$, $r = 10\\%$, $t = 2$.\n\n$$I = 1000 \\times 0.10 \\times 2 = 200$$\n\nPaga puntualmente y evita deudas que no puedes pagar.",
-"truco": "Pedir prestado cuesta interés.",
-"practica": {
-"ejercicio": "¿Qué es interés?",
-"respuesta": "Lo que se paga por usar dinero prestado."
-}
-}
-},
-{
-"nodo_id": "ems-111",
-"titulo": "Impuestos",
-"slug": "impuestos-prepa",
-"palabras": [
-"impuestos",
-"ISR",
-"IVA",
-"SAT"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Cooperación",
-"texto": "Todos aportan para lo que usan."
-},
-{
-"titulo": "Fondo común",
-"texto": "Se junta para escuelas y hospitales."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Calcula IVA de 200.",
-"respuesta": "32."
-},
-{
-"ejercicio": "¿Qué grava el ISR?",
-"respuesta": "Los ingresos."
-},
-{
-"ejercicio": "¿Para qué sirven los impuestos?",
-"respuesta": "Para financiar servicios públicos."
-}
-],
-"idea": "Las escuelas y hospitales públicos cuestan. Eso se paga entre todos con impuestos.",
-"pizarron": "**Qué es:** los impuestos son pagos obligatorios al Estado para financiar servicios públicos.\n\n**Principales en México:**\n\n- **ISR:** sobre ingresos.\n- **IVA:** sobre consumo, 16 %.\n\n**SAT:** los recauda.\n\n**Ejemplo:** algo de 100 más IVA.\n\n$$100 \\times 1.16 = 116$$",
-"truco": "Entre todos pagamos lo de todos.",
-"practica": {
-"ejercicio": "¿Quién recauda?",
-"respuesta": "El SAT."
-}
-}
-},
-{
-"nodo_id": "ems-112",
-"titulo": "Sociología: qué estudia",
-"slug": "sociologia-que-estudia-prepa",
-"palabras": [
-"sociología",
-"sociedad",
-"Durkheim"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Lupa grupal",
-"texto": "Mira cómo se comportan las personas juntas."
-},
-{
-"titulo": "Reglas invisibles",
-"texto": "Descubre lo que hacemos sin darnos cuenta."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di un sociólogo.",
-"respuesta": "Durkheim."
-},
-{
-"ejercicio": "Di un método.",
-"respuesta": "Encuestas."
-},
-{
-"ejercicio": "Di un tema de estudio.",
-"respuesta": "La familia."
-}
-],
-"idea": "¿Por qué actúa la gente en grupo de cierta forma? La sociología lo estudia.",
-"pizarron": "**Qué es:** la sociología estudia la sociedad y sus relaciones.\n\n**Autores:** Comte, Durkheim, Weber, Marx.\n\n**Temas:** familia, clases, migración, educación.\n\n**Métodos:** encuestas y entrevistas.",
-"truco": "Sociedad bajo la lupa.",
-"practica": {
-"ejercicio": "¿Qué estudia?",
-"respuesta": "La sociedad."
-}
-}
-},
-{
-"nodo_id": "ems-112",
-"titulo": "Antropología: qué estudia",
-"slug": "antropologia-que-estudia-prepa",
-"palabras": [
-"antropología",
-"cultura",
-"Bonfil Batalla"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Invitado atento",
-"texto": "Vive con la gente para entenderla."
-},
-{
-"titulo": "Museo de costumbres",
-"texto": "Cada pueblo tiene su manera de vivir."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué es etnografía?",
-"respuesta": "Estudiar viviendo con la comunidad."
-},
-{
-"ejercicio": "Di una rama.",
-"respuesta": "Arqueología."
-},
-{
-"ejercicio": "Di un autor mexicano.",
-"respuesta": "Bonfil Batalla."
-}
-],
-"idea": "Comer, celebrar o casarse cambia entre pueblos. La antropología estudia esas culturas.",
-"pizarron": "**Qué es:** la antropología estudia al ser humano y sus culturas.\n\n**Ramas:** física, cultural, lingüística y arqueología.\n\n**Método:** vivir con la comunidad; se llama **etnografía**.\n\n**México:** Guillermo Bonfil Batalla, *México profundo*.",
-"truco": "Humanos y culturas.",
-"practica": {
-"ejercicio": "¿Qué estudia?",
-"respuesta": "Al ser humano y sus culturas."
-}
-}
-},
-{
-"nodo_id": "ems-112",
-"titulo": "Psicología: qué estudia",
-"slug": "psicologia-que-estudia-prepa",
-"palabras": [
-"psicología",
-"mente",
-"conducta",
-"Freud"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Mapa interior",
-"texto": "Explora lo que pasa dentro de tu cabeza."
-},
-{
-"titulo": "Entrenador de emociones",
-"texto": "Ayuda a entender lo que sientes."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Quién estudió el desarrollo infantil?",
-"respuesta": "Piaget."
-},
-{
-"ejercicio": "Di un autor.",
-"respuesta": "Freud."
-},
-{
-"ejercicio": "Di un tema.",
-"respuesta": "La memoria."
-}
-],
-"idea": "¿Por qué sentimos miedo o recordamos cosas? La psicología estudia la mente y la conducta.",
-"pizarron": "**Qué es:** la psicología estudia la mente, las emociones y la conducta.\n\n**Autores:** Freud, Piaget, Skinner.\n\n**Temas:** memoria, aprendizaje, emociones.\n\nUn psicólogo puede ayudarte a sentirte mejor.",
-"truco": "Mente y conducta.",
-"practica": {
-"ejercicio": "¿Qué estudia?",
-"respuesta": "La mente y la conducta."
-}
-}
-},
-{
-"nodo_id": "ems-112",
-"titulo": "Derecho: qué estudia",
-"slug": "derecho-que-estudia-prepa",
-"palabras": [
-"derecho",
-"leyes",
-"normas"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Reglas del juego",
-"texto": "Permiten convivir con orden."
-},
-{
-"titulo": "Semáforos",
-"texto": "Ordenan el paso para evitar choques."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué rama trata de delitos?",
-"respuesta": "Penal."
-},
-{
-"ejercicio": "¿Qué es norma?",
-"respuesta": "Una regla obligatoria."
-},
-{
-"ejercicio": "Di una rama.",
-"respuesta": "Civil."
-}
-],
-"idea": "Sin reglas, cada quien haría lo que quisiera. El derecho estudia esas reglas.",
-"pizarron": "**Qué es:** el derecho es el conjunto de normas que regulan la vida en sociedad.\n\n**Ramas:** civil, penal, laboral, constitucional, mercantil.\n\n**Norma:** regla obligatoria.\n\nQuien estudia derecho defiende, juzga o asesora.",
-"truco": "Normas para convivir.",
-"practica": {
-"ejercicio": "¿Qué rama trata del trabajo?",
-"respuesta": "Laboral."
-}
-}
-},
-{
-"nodo_id": "ems-113",
-"titulo": "Ideologías políticas",
-"slug": "ideologias-politicas-prepa",
-"palabras": [
-"ideologías",
-"liberalismo",
-"socialismo",
-"conservadurismo"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Lentes",
-"texto": "Cada ideología ve al mundo con lentes distintos."
-},
-{
-"titulo": "Plano",
-"texto": "Cada una dibuja un país distinto."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué defiende el socialismo?",
-"respuesta": "La igualdad social."
-},
-{
-"ejercicio": "¿Qué defiende el conservadurismo?",
-"respuesta": "La tradición."
-},
-{
-"ejercicio": "¿Qué defiende el feminismo?",
-"respuesta": "La igualdad entre mujeres y hombres."
-}
-],
-"idea": "Hay ideas distintas sobre cómo organizar un país. Conocerlas ayuda a opinar.",
-"pizarron": "**Qué es:** una ideología política es un conjunto de ideas sobre cómo organizar la sociedad.\n\n**Liberalismo:** libertad individual.\n\n**Conservadurismo:** tradición y orden.\n\n**Socialismo:** igualdad social.\n\n**Nacionalismo:** primero la nación.\n\n**Feminismo:** igualdad entre mujeres y hombres.\n\n**Ecologismo:** cuidado ambiental.",
-"truco": "Distintas ideas para un mismo país.",
-"practica": {
-"ejercicio": "¿Qué defiende el liberalismo?",
-"respuesta": "La libertad individual."
-}
-}
-},
-{
-"nodo_id": "f5-054",
-"titulo": "Primeros auxilios básicos",
-"slug": "primeros-auxilios-basicos-primaria",
-"palabras": [
-"primeros auxilios",
-"heridas",
-"quemaduras"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Equipo de emergencia",
-"texto": "Tú ayudas hasta que llega el experto."
-},
-{
-"titulo": "Botiquín",
-"texto": "Lleva lo básico para el momento."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué haces con una quemadura?",
-"respuesta": "Agua fresca."
-},
-{
-"ejercicio": "¿Qué haces con sangrado?",
-"respuesta": "Apretar con tela limpia."
-},
-{
-"ejercicio": "¿Cómo pones la cabeza si sangra la nariz?",
-"respuesta": "Hacia adelante."
-}
-],
-"idea": "Saber qué hacer en una emergencia puede ayudar mucho hasta que llegue un adulto o médico.",
-"pizarron": "**Qué es:** los primeros auxilios son ayudas inmediatas ante un accidente.\n\n**Regla:** mantén la calma, avisa a un adulto y llama al **911**.\n\n**Herida:** lava con agua y jabón, cubre.\n\n**Sangrado:** aprieta con tela limpia.\n\n**Quemadura:** agua fresca, sin pomadas.\n\n**Nariz sangra:** cabeza hacia adelante.",
-"truco": "Calma, avisa y llama al 911.",
-"practica": {
-"ejercicio": "¿Qué número llamas?",
-"respuesta": "911."
-}
-}
-},
-{
-"nodo_id": "f5-054",
-"titulo": "Higiene y prevención de enfermedades",
-"slug": "higiene-y-prevencion-de-enfermedades-primaria",
-"palabras": [
-"higiene",
-"lavarse las manos",
-"vacunas"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Escudo diario",
-"texto": "Cada hábito es una pequeña defensa."
-},
-{
-"titulo": "Limpiar el camino",
-"texto": "Sin microbios en las manos, no llegan a tu boca."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuántas veces cepillas tus dientes?",
-"respuesta": "Después de cada comida."
-},
-{
-"ejercicio": "¿Por qué lavar frutas?",
-"respuesta": "Para quitar microbios."
-},
-{
-"ejercicio": "Haz una lista de tus hábitos de higiene.",
-"respuesta": "Debe incluir manos y dientes."
-}
-],
-"idea": "Muchos microbios se van con agua y jabón. Es una de las mejores defensas.",
-"pizarron": "**Qué es:** la higiene son hábitos de limpieza que previenen enfermedades.\n\n**Hábitos:**\n\n- Lavarte las manos con jabón, 20 segundos.\n- Bañarte.\n- Cepillar los dientes.\n- Lavar frutas.\n- Tomar agua limpia.\n- Ponerte vacunas.",
-"truco": "Agua y jabón, 20 segundos.",
-"practica": {
-"ejercicio": "¿Cuánto debes lavarte las manos?",
-"respuesta": "Unos 20 segundos."
-}
-}
-},
-{
-"nodo_id": "f5-054",
-"titulo": "Sueño y descanso",
-"slug": "sueno-y-descanso-primaria",
-"palabras": [
-"sueño",
-"dormir",
-"descanso"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Guardar archivo",
-"texto": "Dormir guarda lo aprendido."
-},
-{
-"titulo": "Cargar batería",
-"texto": "Sin carga, el teléfono no funciona."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué hay que evitar antes de dormir?",
-"respuesta": "Pantallas."
-},
-{
-"ejercicio": "¿Cuántas horas necesita un adolescente?",
-"respuesta": "De 8 a 10."
-},
-{
-"ejercicio": "Anota tus horas de sueño una semana.",
-"respuesta": "Revisa si duermes lo necesario."
-}
-],
-"idea": "Dormir no es perder el tiempo: mientras duermes, tu cerebro guarda lo que aprendiste.",
-"pizarron": "**Qué es:** el sueño es un descanso necesario para el cuerpo y la mente.\n\n**Horas recomendadas:**\n\n- 6 a 12 años: de 9 a 12 horas.\n- 13 a 18 años: de 8 a 10 horas.\n\n**Consejos:**\n\n- Mismo horario.\n- Sin pantallas antes de dormir.\n- Cuarto oscuro.",
-"truco": "Horario fijo y sin pantallas.",
-"practica": {
-"ejercicio": "¿Cuántas horas duerme un niño de 10 años?",
-"respuesta": "De 9 a 12 horas."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Calentamiento y estiramiento",
-"slug": "calentamiento-y-estiramiento-secundaria",
-"palabras": [
-"calentamiento",
-"estiramiento",
-"ejercicio"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Motor frío",
-"texto": "Hay que dejarlo calentar poco a poco."
-},
-{
-"titulo": "Liga",
-"texto": "Se estira mejor si está tibia."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Para qué sirve?",
-"respuesta": "Para prevenir lesiones."
-},
-{
-"ejercicio": "¿Debes rebotar al estirar?",
-"respuesta": "No."
-},
-{
-"ejercicio": "Haz tu rutina de calentamiento.",
-"respuesta": "Debe incluir trote y articulaciones."
-}
-],
-"idea": "Un coche frío no arranca a toda velocidad. Tu cuerpo tampoco.",
-"pizarron": "**Qué es:** el calentamiento prepara al cuerpo para el ejercicio. El estiramiento mejora la flexibilidad.\n\n**Antes:** 5 a 10 minutos: trote, brazos y articulaciones.\n\n**Después:** estira sin rebotar.\n\nPreviene lesiones.",
-"truco": "Calienta antes; estira después.",
-"practica": {
-"ejercicio": "¿Cuánto dura?",
-"respuesta": "De 5 a 10 minutos."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Capacidades físicas",
-"slug": "capacidades-fisicas-secundaria",
-"palabras": [
-"capacidades físicas",
-"fuerza",
-"resistencia"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Herramientas",
-"texto": "Cada deporte pide una distinta."
-},
-{
-"titulo": "Barras de nivel",
-"texto": "Se suben con entrenamiento."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué capacidad usa un velocista?",
-"respuesta": "La velocidad."
-},
-{
-"ejercicio": "¿Qué capacidad usa una gimnasta?",
-"respuesta": "La flexibilidad."
-},
-{
-"ejercicio": "Elige un ejercicio para cada capacidad.",
-"respuesta": "Debe nombrar cuatro ejercicios."
-}
-],
-"idea": "Un velocista, una gimnasta y un maratonista entrenan distinto. Cada uno cuida otra capacidad.",
-"pizarron": "**Qué es:** las capacidades físicas son cualidades del cuerpo para moverse.\n\n- **Fuerza.**\n- **Resistencia.**\n- **Velocidad.**\n- **Flexibilidad.**\n- **Coordinación.**\n- **Equilibrio.**",
-"truco": "Fuerza, resistencia, velocidad y flexibilidad.",
-"practica": {
-"ejercicio": "¿Qué capacidad usa un maratón?",
-"respuesta": "La resistencia."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Reglas del futbol",
-"slug": "reglas-del-futbol-secundaria",
-"palabras": [
-"futbol",
-"reglas",
-"deporte"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Reglas justas",
-"texto": "Sin árbitro, todos harían lo que quisieran."
-},
-{
-"titulo": "Equipo",
-"texto": "Pasar el balón gana partidos."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuánto dura?",
-"respuesta": "90 minutos."
-},
-{
-"ejercicio": "¿Quién puede usar manos?",
-"respuesta": "El portero, en su área."
-},
-{
-"ejercicio": "¿Qué es un penal?",
-"respuesta": "Un tiro por falta en el área."
-}
-],
-"idea": "Un balón, once por equipo y una meta. Las reglas hacen justo el juego.",
-"pizarron": "**Qué es:** el futbol se juega entre dos equipos de 11.\n\n**Reglas:**\n\n- 90 minutos, dos tiempos de 45.\n- Gana quien anota más goles.\n- Solo el portero usa las manos en su área.\n- **Falta:** tiro libre.\n- **Penal:** falta en el área.\n- **Fuera de lugar.**\n- Tarjeta amarilla y roja.",
-"truco": "Once, noventa y sin manos.",
-"practica": {
-"ejercicio": "¿Cuántos jugadores hay por equipo?",
-"respuesta": "11."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Reglas del basquetbol",
-"slug": "reglas-del-basquetbol-secundaria",
-"palabras": [
-"basquetbol",
-"reglas",
-"deporte"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tablero de sumas",
-"texto": "El marcador cambia a cada canasta."
-},
-{
-"titulo": "Pases rápidos",
-"texto": "El balón va más rápido que los pies."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuántos juegan por equipo?",
-"respuesta": "5."
-},
-{
-"ejercicio": "¿Cuánto vale un tiro libre?",
-"respuesta": "1."
-},
-{
-"ejercicio": "¿Se puede caminar sin botar?",
-"respuesta": "No."
-}
-],
-"idea": "Cinco por lado, una canasta alta y puntos que cambian con la distancia.",
-"pizarron": "**Qué es:** el basquetbol se juega entre dos equipos de 5.\n\n**Reglas:**\n\n- Cuatro periodos.\n- **Canasta:** 2 puntos.\n- **Tiro lejano:** 3 puntos.\n- **Tiro libre:** 1 punto.\n- Se bota el balón.\n- No caminar sin botar.",
-"truco": "Bota, no camines.",
-"practica": {
-"ejercicio": "¿Cuántos puntos vale un tiro lejano?",
-"respuesta": "3."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Reglas del voleibol",
-"slug": "reglas-del-voleibol-secundaria",
-"palabras": [
-"voleibol",
-"reglas",
-"deporte"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "No lo dejes caer",
-"texto": "Como jugar a mantener un globo en el aire."
-},
-{
-"titulo": "Coreografía",
-"texto": "Todos giran por turnos."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuántos juegan por lado?",
-"respuesta": "6."
-},
-{
-"ejercicio": "¿Se puede tocar la red?",
-"respuesta": "No."
-},
-{
-"ejercicio": "¿A cuántos puntos es un set?",
-"respuesta": "A 25."
-}
-],
-"idea": "Una red, seis por lado y un balón que no debe tocar el piso.",
-"pizarron": "**Qué es:** el voleibol se juega entre dos equipos de 6.\n\n**Reglas:**\n\n- Máximo 3 toques por lado.\n- Se juega a sets de 25.\n- El balón no debe caer.\n- No tocar la red.\n- Se rota tras ganar el saque.",
-"truco": "Tres toques y pasa.",
-"practica": {
-"ejercicio": "¿Cuántos toques permite?",
-"respuesta": "Tres."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Atletismo",
-"slug": "atletismo-secundaria",
-"palabras": [
-"atletismo",
-"carreras",
-"saltos",
-"lanzamientos"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tres grupos",
-"texto": "Son tres familias de un deporte."
-},
-{
-"titulo": "Relevos",
-"texto": "Pasas la estafeta a tu compañero."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di un lanzamiento.",
-"respuesta": "Jabalina."
-},
-{
-"ejercicio": "Di un salto.",
-"respuesta": "Longitud."
-},
-{
-"ejercicio": "¿Qué se pasa en relevos?",
-"respuesta": "La estafeta."
-}
-],
-"idea": "Correr, saltar y lanzar: son las actividades más antiguas del deporte.",
-"pizarron": "**Qué es:** el atletismo agrupa carreras, saltos y lanzamientos.\n\n**Carreras:** 100 m, 400 m, maratón (42.195 km), relevos.\n\n**Saltos:** longitud, altura, pértiga.\n\n**Lanzamientos:** bala, disco, jabalina, martillo.",
-"truco": "Correr, saltar y lanzar.",
-"practica": {
-"ejercicio": "¿Cuánto mide un maratón?",
-"respuesta": "42.195 km."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Juegos tradicionales mexicanos",
-"slug": "juegos-tradicionales-mexicanos-secundaria",
-"palabras": [
-"juegos tradicionales",
-"trompo",
-"lotería"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Herencia",
-"texto": "Se pasa de abuelos a nietos."
-},
-{
-"titulo": "Puente entre tiempos",
-"texto": "Tus abuelos y tú juegan lo mismo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué es ulama?",
-"respuesta": "Un juego de pelota prehispánico."
-},
-{
-"ejercicio": "Di dos juegos.",
-"respuesta": "Lotería y canicas."
-},
-{
-"ejercicio": "Pregunta a un adulto a qué jugaba.",
-"respuesta": "Anota su respuesta."
-}
-],
-"idea": "Antes de las pantallas se jugaba con trompos y canicas, y aún hoy divierten.",
-"pizarron": "**Qué es:** los juegos tradicionales se transmiten entre generaciones.\n\n- **Trompo.**\n- **Canicas.**\n- **Lotería.**\n- **Yoyo.**\n- **Balero.**\n- **Rayuela o avión.**\n- **Juego de pelota** prehispánico, **ulama**.",
-"truco": "Se juegan de abuelos a nietos.",
-"practica": {
-"ejercicio": "Di un juego tradicional.",
-"respuesta": "El trompo."
-}
-}
-},
-{
-"nodo_id": "f6-065",
-"titulo": "Olimpiadas",
-"slug": "olimpiadas-secundaria",
-"palabras": [
-"Olimpiadas",
-"Juegos Olímpicos",
-"México 1968"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Fiesta mundial",
-"texto": "Países distintos compiten bajo las mismas reglas."
-},
-{
-"titulo": "Antorcha",
-"texto": "Lleva la llama desde Grecia."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Quién inició los modernos?",
-"respuesta": "Pierre de Coubertin."
-},
-{
-"ejercicio": "¿Qué significan los anillos?",
-"respuesta": "Los continentes."
-},
-{
-"ejercicio": "¿Cada cuántos años son?",
-"respuesta": "Cada cuatro."
-}
-],
-"idea": "Cada cuatro años, atletas de casi todo el mundo se reúnen para competir en paz.",
-"pizarron": "**Qué es:** los Juegos Olímpicos son competencias mundiales cada cuatro años.\n\n**Antiguos:** Olimpia, Grecia.\n\n**Modernos:** Atenas, 1896, por Pierre de Coubertin.\n\n**Símbolo:** cinco anillos, cinco continentes.\n\n**México:** sede en 1968.",
-"truco": "Cada cuatro años, cinco anillos.",
-"practica": {
-"ejercicio": "¿Cuándo fue la sede en México?",
-"respuesta": "En 1968."
-}
-}
-},
-{
-"nodo_id": "f6-047",
-"titulo": "Reconocer mis emociones",
-"slug": "reconocer-mis-emociones-secundaria",
-"palabras": [
-"emociones",
-"alegría",
-"enojo",
-"miedo"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Semáforo interno",
-"texto": "Te avisa cómo estás."
-},
-{
-"titulo": "Clima interno",
-"texto": "Las emociones cambian como el clima."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Son malas las emociones?",
-"respuesta": "No, todas son válidas."
-},
-{
-"ejercicio": "¿Dónde sientes el miedo?",
-"respuesta": "Depende: en el estómago o pecho."
-},
-{
-"ejercicio": "Escribe qué sentiste hoy y por qué.",
-"respuesta": "Debe nombrar la emoción."
-}
-],
-"idea": "A veces sientes algo y no sabes qué es. Ponerle nombre ayuda.",
-"pizarron": "**Qué es:** las emociones son reacciones del cuerpo y la mente.\n\n**Básicas:** alegría, tristeza, enojo, miedo, sorpresa, asco.\n\n**Cómo reconocerlas:**\n\n1. ¿Qué siento en el cuerpo?\n2. ¿Cómo se llama?\n3. ¿Qué lo causó?\n\nTodas son válidas. Lo importante es qué haces con ellas.",
-"truco": "Nómbrala para manejarla.",
-"practica": {
-"ejercicio": "Di tres emociones.",
-"respuesta": "Alegría, miedo y enojo."
-}
-}
-},
-{
-"nodo_id": "f6-047",
-"titulo": "Manejar el enojo",
-"slug": "manejar-el-enojo-secundaria",
-"palabras": [
-"enojo",
-"respiración",
-"autocontrol"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Olla",
-"texto": "Baja la lumbre antes de que se derrame."
-},
-{
-"titulo": "Globo",
-"texto": "Suelta aire poco a poco."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuántas veces respiras?",
-"respuesta": "Unas 5 veces."
-},
-{
-"ejercicio": "¿Debes insultar?",
-"respuesta": "No."
-},
-{
-"ejercicio": "Completa: *Me siento enojado porque...*",
-"respuesta": "Di el motivo sin ofender."
-}
-],
-"idea": "El enojo es como una olla hirviendo. Hay que bajar la lumbre antes de hablar.",
-"pizarron": "**Qué es:** manejar el enojo es expresar lo que sientes sin dañar.\n\n**Pasos:**\n\n1. Detente.\n2. Respira hondo 5 veces.\n3. Cuenta hasta 10.\n4. Aléjate un momento.\n5. Di: *Me siento enojado porque...*\n\nNo golpees ni insultes.",
-"truco": "Detente, respira y habla.",
-"practica": {
-"ejercicio": "¿Qué haces primero?",
-"respuesta": "Detenerte."
-}
-}
-},
-{
-"nodo_id": "f6-047",
-"titulo": "Ansiedad antes de un examen",
-"slug": "ansiedad-antes-de-un-examen-secundaria",
-"palabras": [
-"ansiedad",
-"exámenes",
-"nervios"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Alarma falsa",
-"texto": "Tu cuerpo prepara una huida que no necesitas."
-},
-{
-"titulo": "Respirar lento",
-"texto": "Es el botón de calma de tu cuerpo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Es normal estar nervioso?",
-"respuesta": "Sí."
-},
-{
-"ejercicio": "¿Qué haces un día antes?",
-"respuesta": "Dormir bien."
-},
-{
-"ejercicio": "Haz un plan de estudio por partes.",
-"respuesta": "Debe dividir los temas por días."
-}
-],
-"idea": "Antes del examen, tu corazón se acelera. Es normal, y se puede calmar.",
-"pizarron": "**Qué es:** la ansiedad es una sensación de preocupación ante algo que viene.\n\n**Antes:**\n\n- Estudia por partes.\n- Duerme bien.\n\n**Durante:**\n\n- Respira.\n- Lee con calma.\n- Empieza por lo fácil.\n\nSi te dura mucho, pide ayuda a un adulto.",
-"truco": "Respira y empieza por lo fácil.",
-"practica": {
-"ejercicio": "¿Con qué preguntas empiezas?",
-"respuesta": "Con las fáciles."
-}
-}
-},
-{
-"nodo_id": "f6-047",
-"titulo": "Autoestima",
-"slug": "autoestima-secundaria",
-"palabras": [
-"autoestima",
-"confianza"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Amigo interno",
-"texto": "Tu voz interna puede ser tu mejor amigo."
-},
-{
-"titulo": "Planta",
-"texto": "Crece si la cuidas todos los días."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Te conviene compararte?",
-"respuesta": "No."
-},
-{
-"ejercicio": "Escribe tres cosas que haces bien.",
-"respuesta": "Deben ser cualidades tuyas."
-},
-{
-"ejercicio": "¿Qué hacer con un error?",
-"respuesta": "Aprender de él."
-}
-],
-"idea": "Cómo te hablas a ti mismo importa. La autoestima es tratarte con cariño y respeto.",
-"pizarron": "**Qué es:** la autoestima es la valoración que tienes de ti.\n\n**Cómo cuidarla:**\n\n- Reconoce lo que haces bien.\n- Acepta tus errores.\n- No te compares.\n- Rodéate de gente que te respete.",
-"truco": "Háblate como a un amigo.",
-"practica": {
-"ejercicio": "¿Qué es autoestima?",
-"respuesta": "Cómo te valoras a ti."
-}
-}
-},
-{
-"nodo_id": "f6-047",
-"titulo": "Decir que no con respeto",
-"slug": "decir-que-no-con-respeto-secundaria",
-"palabras": [
-"asertividad",
-"decir que no",
-"límites"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Puerta",
-"texto": "Abres o cierras según lo que quieres."
-},
-{
-"titulo": "Límite",
-"texto": "Una cerca protege tu terreno."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué haces si insisten?",
-"respuesta": "Busca a un adulto."
-},
-{
-"ejercicio": "Escribe una forma de decir no.",
-"respuesta": "Debe ser clara y amable."
-},
-{
-"ejercicio": "¿Qué es asertivo?",
-"respuesta": "Decir lo que piensas con respeto."
-}
-],
-"idea": "No debes hacer algo solo porque otros insisten. Decir que no es un derecho.",
-"pizarron": "**Qué es:** ser asertivo es decir lo que piensas con respeto.\n\n**Cómo:**\n\n1. Di no con claridad.\n2. Da una razón si quieres.\n3. Propón otra cosa.\n\n*No quiero, gracias. Prefiero irme.*\n\nSi te presionan, busca a un adulto.",
-"truco": "No, con calma y claro.",
-"practica": {
-"ejercicio": "¿Es grosero decir no?",
-"respuesta": "No, si es con respeto."
-}
-}
-},
-{
-"nodo_id": "f6-043",
-"titulo": "Empatía",
-"slug": "empatia-secundaria",
-"palabras": [
-"empatía",
-"escuchar"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Zapatos prestados",
-"texto": "Caminas un rato en los del otro."
-},
-{
-"titulo": "Espejo",
-"texto": "Reflejas lo que el otro siente."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Tu amigo llora. ¿Qué haces?",
-"respuesta": "Preguntarle cómo está y escucharlo."
-},
-{
-"ejercicio": "¿Empatía es burlarse?",
-"respuesta": "No."
-},
-{
-"ejercicio": "Haz algo amable por alguien hoy.",
-"respuesta": "Anota qué hiciste."
-}
-],
-"idea": "Imagina estar en los zapatos de tu amigo. Sentir con él es empatía.",
-"pizarron": "**Qué es:** la empatía es la capacidad de entender lo que siente otra persona.\n\n**Cómo practicarla:**\n\n- Escucha sin interrumpir.\n- Pregunta cómo está.\n- No te burles.\n- Ofrece ayuda.",
-"truco": "Ponte en sus zapatos.",
-"practica": {
-"ejercicio": "¿Qué es empatía?",
-"respuesta": "Entender lo que siente otra persona."
-}
-}
-},
-{
-"nodo_id": "f6-043",
-"titulo": "Acoso escolar: qué hacer",
-"slug": "acoso-escolar-que-hacer-secundaria",
-"palabras": [
-"acoso escolar",
-"bullying",
-"ayuda"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Peso compartido",
-"texto": "Contarlo hace más ligera la carga."
-},
-{
-"titulo": "Testigo",
-"texto": "Quien mira puede ayudar a detenerlo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Es tu culpa si te pasa?",
-"respuesta": "No."
-},
-{
-"ejercicio": "¿Qué haces si lo ves?",
-"respuesta": "Avisar y no reírte."
-},
-{
-"ejercicio": "Escribe quién es tu adulto de confianza.",
-"respuesta": "Debe ser alguien que te ayude."
-}
-],
-"idea": "Si alguien te molesta una y otra vez, no es un juego. Tienes derecho a pedir ayuda.",
-"pizarron": "**Qué es:** el acoso escolar es maltrato repetido a un compañero o compañera.\n\n**Tipos:** físico, verbal, social y por internet.\n\n**Si te pasa:**\n\n1. No es tu culpa.\n2. Cuéntalo a un adulto de confianza.\n3. Guarda pruebas.\n\n**Si lo ves:** no te rías y avisa.",
-"truco": "Cuéntalo; no estás solo.",
-"practica": {
-"ejercicio": "¿A quién avisas?",
-"respuesta": "A un adulto de confianza."
-}
-}
-},
-{
-"nodo_id": "f6-043",
-"titulo": "Resolver conflictos con amigos",
-"slug": "resolver-conflictos-con-amigos-secundaria",
-"palabras": [
-"conflictos",
-"diálogo",
-"acuerdos"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Dos puentes",
-"texto": "Cada quien camina hasta el centro."
-},
-{
-"titulo": "Partido amistoso",
-"texto": "Importa seguir siendo amigos."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Con qué frase inicias?",
-"respuesta": "*Yo me siento...*"
-},
-{
-"ejercicio": "¿Debes interrumpir?",
-"respuesta": "No."
-},
-{
-"ejercicio": "Piensa en un conflicto y escribe un acuerdo.",
-"respuesta": "Debe ser justo para ambos."
-}
-],
-"idea": "Pelear con un amigo no es el final. Hablar bien puede arreglarlo.",
-"pizarron": "**Qué es:** resolver un conflicto es buscar un acuerdo con diálogo.\n\n**Pasos:**\n\n1. Cálmate.\n2. Habla en tu turno.\n3. Escucha.\n4. Di: *Yo me siento...*\n5. Busca una solución.\n6. Cumple.",
-"truco": "Yo siento, no tú siempre.",
-"practica": {
-"ejercicio": "¿Qué haces primero?",
-"respuesta": "Calmarte."
-}
-}
-},
-{
-"nodo_id": "f6-051",
-"titulo": "Técnicas de estudio",
-"slug": "tecnicas-de-estudio-secundaria",
-"palabras": [
-"técnicas de estudio",
-"memoria",
-"repaso"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Músculo",
-"texto": "Recordar entrena tu memoria."
-},
-{
-"titulo": "Maestro",
-"texto": "Si lo explicas, lo entiendes."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di dos técnicas.",
-"respuesta": "Tarjetas y resumen."
-},
-{
-"ejercicio": "¿Conviene repasar en días distintos?",
-"respuesta": "Sí."
-},
-{
-"ejercicio": "Usa Pomodoro en tu tarea.",
-"respuesta": "Estudia 25 minutos y descansa 5."
-}
-],
-"idea": "Leer diez veces no es lo mismo que estudiar bien. Hay trucos para recordar mejor.",
-"pizarron": "**Qué es:** las técnicas de estudio son formas de aprender mejor.\n\n- **Subrayar** lo importante.\n- **Resumir.**\n- **Hacer tarjetas.**\n- **Practicar preguntas.**\n- **Enseñar** a alguien.\n- **Repasar** en días distintos.\n- **Pomodoro:** 25 minutos y 5 de descanso.",
-"truco": "Pregúntate; no solo leas.",
-"practica": {
-"ejercicio": "¿Qué es Pomodoro?",
-"respuesta": "25 minutos de estudio y 5 de descanso."
-}
-}
-},
-{
-"nodo_id": "f6-051",
-"titulo": "Organizar mi tiempo",
-"slug": "organizar-mi-tiempo-secundaria",
-"palabras": [
-"organizar tiempo",
-"horario",
-"prioridades"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Rompecabezas",
-"texto": "Cada actividad encaja en su hora."
-},
-{
-"titulo": "Mochila",
-"texto": "Metes primero lo grande."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Debes incluir descanso?",
-"respuesta": "Sí."
-},
-{
-"ejercicio": "Haz tu horario de esta semana.",
-"respuesta": "Debe incluir escuela, tarea y descanso."
-},
-{
-"ejercicio": "¿Qué se hace antes, lo importante o lo fácil?",
-"respuesta": "Lo importante."
-}
-],
-"idea": "El día tiene 24 horas para todos. Lo importante es acomodarlas bien.",
-"pizarron": "**Qué es:** organizar tu tiempo es decidir cuándo hacer cada actividad.\n\n**Pasos:**\n\n1. Haz una lista.\n2. Ordena por importancia.\n3. Usa un horario.\n4. Empieza por lo importante.\n5. Deja tiempo para descansar.",
-"truco": "Primero lo importante.",
-"practica": {
-"ejercicio": "¿Qué haces primero?",
-"respuesta": "Una lista."
-}
-}
-},
-{
-"nodo_id": "f6-051",
-"titulo": "Metas a corto y largo plazo",
-"slug": "metas-a-corto-y-largo-plazo-secundaria",
-"palabras": [
-"metas",
-"objetivos",
-"plan"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Escaleras",
-"texto": "Cada escalón acerca a la cima."
-},
-{
-"titulo": "GPS",
-"texto": "Pones destino para saber el camino."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Haz medible: *Leer más.*",
-"respuesta": "Ejemplo: *Leer 20 páginas cada semana.*"
-},
-{
-"ejercicio": "Da un ejemplo de meta larga.",
-"respuesta": "Terminar la preparatoria."
-},
-{
-"ejercicio": "Escribe una meta para este mes.",
-"respuesta": "Debe ser clara y con fecha."
-}
-],
-"idea": "Llegar a la cima se logra paso a paso. Las metas son esos pasos.",
-"pizarron": "**Qué es:** una meta es algo que quieres lograr.\n\n**Corto plazo:** días o semanas.\n\n**Largo plazo:** meses o años.\n\n**Buena meta:** clara, medible y con fecha.\n\nMala: *Mejorar en mate.*\n\nBuena: *Sacar 8 en el próximo examen de mate.*",
-"truco": "Clara, medible y con fecha.",
-"practica": {
-"ejercicio": "¿Qué es corto plazo?",
-"respuesta": "Días o semanas."
-}
-}
-},
-{
-"nodo_id": "f6-051",
-"titulo": "Elegir carrera u oficio",
-"slug": "elegir-carrera-u-oficio-secundaria",
-"palabras": [
-"carrera",
-"oficio",
-"vocación"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Cruce de caminos",
-"texto": "Donde se juntan gusto y habilidad."
-},
-{
-"titulo": "Probar antes",
-"texto": "Conoces un sabor probando un poquito."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Un oficio vale menos?",
-"respuesta": "No."
-},
-{
-"ejercicio": "¿Puedes cambiar de idea?",
-"respuesta": "Sí."
-},
-{
-"ejercicio": "Entrevista a alguien sobre su trabajo.",
-"respuesta": "Anota qué hace y qué le gusta."
-}
-],
-"idea": "Pregúntate qué te gusta, qué sabes hacer y qué necesita el mundo.",
-"pizarron": "**Qué es:** elegir carrera u oficio es decidir a qué quieres dedicarte.\n\n**Pregúntate:**\n\n1. ¿Qué me gusta?\n2. ¿En qué soy bueno?\n3. ¿Qué necesita la gente?\n4. ¿Hay trabajo?\n\n**Investiga:** habla con quien lo hace y visita escuelas.\n\nUn oficio vale tanto como una carrera.\n\nPuedes cambiar de idea.",
-"truco": "Gusto, habilidad y necesidad.",
-"practica": {
-"ejercicio": "Di una pregunta útil.",
-"respuesta": "¿Qué me gusta?"
-}
-}
-}
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Qué es la filosofía y sus ramas",
+    "slug": "que-es-la-filosofia-y-sus-ramas-prepa",
+    "palabras": [
+      "filosofía",
+      "ramas",
+      "ética",
+      "lógica"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Niño preguntón",
+          "texto": "Sigue preguntando por qué, aun si ya le respondieron."
+        },
+        {
+          "titulo": "Mapa de preguntas",
+          "texto": "Cada rama es una calle de preguntas distintas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué rama estudia el bien?",
+          "respuesta": "La ética."
+        },
+        {
+          "ejercicio": "¿Qué rama estudia cómo razonar?",
+          "respuesta": "La lógica."
+        },
+        {
+          "ejercicio": "Escribe una pregunta filosófica.",
+          "respuesta": "Debe invitar a pensar, como ¿qué es la justicia?"
+        }
+      ],
+      "idea": "Los niños preguntan por qué todo el tiempo. La filosofía es no dejar de hacer esa pregunta.",
+      "pizarron": "**Qué es:** la filosofía es la búsqueda racional del saber sobre la realidad, el conocimiento y la vida. La palabra significa *amor a la sabiduría*.\n\n**Ramas:**\n\n- **Metafísica:** ¿qué es lo real?\n- **Epistemología:** ¿qué podemos saber?\n- **Ética:** ¿qué está bien?\n- **Lógica:** ¿cómo razonar bien?\n- **Estética:** ¿qué es la belleza?\n- **Política:** ¿cómo convivir?",
+      "truco": "Amor a la sabiduría.",
+      "practica": {
+        "ejercicio": "¿Qué significa filosofía?",
+        "respuesta": "Amor a la sabiduría."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Filósofos presocráticos",
+    "slug": "filosofos-presocraticos-prepa",
+    "palabras": [
+      "presocráticos",
+      "Tales",
+      "Heráclito",
+      "Parménides"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Primer ladrillo",
+          "texto": "Buscaron de qué está hecho el mundo."
+        },
+        {
+          "titulo": "Río que cambia",
+          "texto": "Nadie se baña dos veces en el mismo río."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué dijo Tales?",
+          "respuesta": "Que el origen es el agua."
+        },
+        {
+          "ejercicio": "¿Qué dijo Heráclito?",
+          "respuesta": "Que todo cambia."
+        },
+        {
+          "ejercicio": "¿Quién habló de átomos?",
+          "respuesta": "Demócrito."
+        }
+      ],
+      "idea": "Hace 2600 años unos griegos dejaron de explicar el mundo con mitos y buscaron razones.",
+      "pizarron": "**Qué es:** los presocráticos fueron los primeros filósofos griegos, anteriores a Sócrates. Buscaban el **arjé**, el origen de todo.\n\n- **Tales:** el agua.\n- **Anaxímenes:** el aire.\n- **Heráclito:** todo cambia; el fuego.\n- **Parménides:** el ser no cambia.\n- **Demócrito:** átomos.\n\n**Para recordar:**\n- **Arjé:** El origen de todas las cosas.",
+      "truco": "Buscaban el origen de todo.",
+      "practica": {
+        "ejercicio": "¿Qué es el arjé?",
+        "respuesta": "El origen de todas las cosas."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Sócrates",
+    "slug": "socrates-prepa",
+    "palabras": [
+      "Sócrates",
+      "mayéutica",
+      "solo sé que no sé nada"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Partera",
+          "texto": "Ayuda a que nazcan las ideas de los demás."
+        },
+        {
+          "titulo": "Maestro preguntón",
+          "texto": "No da respuestas: te hace buscarlas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es la mayéutica?",
+          "respuesta": "Preguntar para descubrir la verdad."
+        },
+        {
+          "ejercicio": "¿Cómo murió?",
+          "respuesta": "Bebió cicuta."
+        },
+        {
+          "ejercicio": "¿Escribió libros?",
+          "respuesta": "No."
+        }
+      ],
+      "idea": "Un griego caminaba por el mercado preguntando. Con preguntas hacía que otros pensaran.",
+      "pizarron": "**Quién fue:** Sócrates (470-399 a. C.) fue un filósofo griego que no dejó nada escrito; lo conocemos por Platón.\n\n**Frase:** *Solo sé que no sé nada.*\n\n**Mayéutica:** preguntar para que otro descubra la verdad.\n\nFue condenado a beber cicuta.",
+      "truco": "Preguntar ayuda a descubrir.",
+      "practica": {
+        "ejercicio": "¿Quién contó sus ideas?",
+        "respuesta": "Platón."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Platón",
+    "slug": "platon-prepa",
+    "palabras": [
+      "Platón",
+      "mundo de las ideas",
+      "caverna"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Caverna",
+          "texto": "Salir a la luz es aprender a pensar."
+        },
+        {
+          "titulo": "Molde perfecto",
+          "texto": "Las cosas son copias de un molde ideal."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿De quién fue discípulo?",
+          "respuesta": "De Sócrates."
+        },
+        {
+          "ejercicio": "¿Qué representa la caverna?",
+          "respuesta": "La ignorancia."
+        },
+        {
+          "ejercicio": "¿Qué libro político escribió?",
+          "respuesta": "*La República*."
+        }
+      ],
+      "idea": "Imagina que solo has visto sombras en una pared y las crees reales. Eso le preocupaba a Platón.",
+      "pizarron": "**Quién fue:** Platón (427-347 a. C.) fue discípulo de Sócrates y fundó la **Academia**.\n\n**Teoría de las Ideas:** hay un mundo sensible y un mundo de Ideas perfectas.\n\n**Mito de la caverna:** personas ven sombras y creen que son la realidad.\n\n**La República:** gobierno de sabios.",
+      "truco": "Sombras y mundo de Ideas.",
+      "practica": {
+        "ejercicio": "¿Qué fundó?",
+        "respuesta": "La Academia."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Aristóteles",
+    "slug": "aristoteles-prepa",
+    "palabras": [
+      "Aristóteles",
+      "lógica",
+      "virtud",
+      "Liceo"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Valor equilibrado",
+          "texto": "Valentía queda entre miedo y locura."
+        },
+        {
+          "titulo": "Primer biólogo",
+          "texto": "Clasificaba animales con mucho cuidado."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿De quién fue maestro?",
+          "respuesta": "De Alejandro Magno."
+        },
+        {
+          "ejercicio": "¿Qué es el término medio?",
+          "respuesta": "El equilibrio entre dos excesos."
+        },
+        {
+          "ejercicio": "¿Qué ciencia creó?",
+          "respuesta": "La lógica."
+        }
+      ],
+      "idea": "Platón miraba al cielo; su alumno miraba la tierra. Quería entender todo lo que existe observándolo.",
+      "pizarron": "**Quién fue:** Aristóteles (384-322 a. C.) fue discípulo de Platón y maestro de Alejandro Magno. Fundó el **Liceo**.\n\n**Ideas:**\n\n- Las cosas son reales; no hay otro mundo.\n- Creó la **lógica**.\n- Ética: la virtud está en el **término medio**.\n- Clasificó a los seres vivos.\n\n**Para recordar:**\n- **Término medio:** El equilibrio entre dos excesos.",
+      "truco": "Observar y razonar.",
+      "practica": {
+        "ejercicio": "¿Qué fundó?",
+        "respuesta": "El Liceo."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "San Agustín y Santo Tomás",
+    "slug": "san-agustin-y-santo-tomas-prepa",
+    "palabras": [
+      "San Agustín",
+      "Santo Tomás",
+      "fe y razón"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Dos alas",
+          "texto": "Fe y razón vuelan juntas."
+        },
+        {
+          "titulo": "Puente",
+          "texto": "Unieron el pensamiento griego con el cristianismo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué escribió San Agustín?",
+          "respuesta": "*Confesiones*."
+        },
+        {
+          "ejercicio": "¿Cuántas vías propuso Tomás?",
+          "respuesta": "Cinco."
+        },
+        {
+          "ejercicio": "¿De qué filósofo partió Tomás?",
+          "respuesta": "De Aristóteles."
+        }
+      ],
+      "idea": "En la Edad Media se preguntaron: ¿se puede creer y razonar al mismo tiempo?",
+      "pizarron": "**Qué es:** son dos grandes pensadores cristianos.\n\n**San Agustín (354-430):** *Confesiones*. Unió fe y Platón.\n\nFrase: *Cree para entender.*\n\n**Santo Tomás (1225-1274):** *Suma teológica*. Unió fe y Aristóteles.\n\nPropuso **cinco vías** para demostrar a Dios.",
+      "truco": "Agustín, Platón; Tomás, Aristóteles.",
+      "practica": {
+        "ejercicio": "¿Qué escribió Santo Tomás?",
+        "respuesta": "La *Suma teológica*."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Descartes",
+    "slug": "descartes-prepa",
+    "palabras": [
+      "Descartes",
+      "pienso luego existo",
+      "racionalismo"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Limpiar el cajón",
+          "texto": "Tiras todo y dejas solo lo seguro."
+        },
+        {
+          "titulo": "Base firme",
+          "texto": "Busca un primer ladrillo que no se mueva."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué creó en matemáticas?",
+          "respuesta": "El plano cartesiano."
+        },
+        {
+          "ejercicio": "¿De dónde viene el saber, según él?",
+          "respuesta": "De la razón."
+        },
+        {
+          "ejercicio": "Explica *Pienso, luego existo*.",
+          "respuesta": "Si dudo, entonces existo como algo que piensa."
+        }
+      ],
+      "idea": "Descartes dudó de todo. Lo único seguro fue que él estaba dudando.",
+      "pizarron": "**Quién fue:** René Descartes (1596-1650) fue un filósofo francés y padre del **racionalismo**.\n\n**Método:** dudar de todo lo incierto.\n\n**Frase:** *Pienso, luego existo.*\n\n**Racionalismo:** el conocimiento viene de la razón.\n\nTambién creó el plano cartesiano.",
+      "truco": "Pienso, luego existo.",
+      "practica": {
+        "ejercicio": "¿Qué corriente fundó?",
+        "respuesta": "El racionalismo."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Hume y el empirismo",
+    "slug": "hume-y-el-empirismo-prepa",
+    "palabras": [
+      "Hume",
+      "empirismo",
+      "experiencia"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Hoja en blanco",
+          "texto": "Naces sin saber y la vida va escribiendo."
+        },
+        {
+          "titulo": "Costumbre",
+          "texto": "Crees que saldrá el Sol porque siempre lo ha hecho."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Quién dijo hoja en blanco?",
+          "respuesta": "Locke."
+        },
+        {
+          "ejercicio": "¿De dónde era Hume?",
+          "respuesta": "De Escocia."
+        },
+        {
+          "ejercicio": "¿Cómo explica Hume la causa?",
+          "respuesta": "Como costumbre."
+        }
+      ],
+      "idea": "Sabes que el fuego quema porque lo has sentido. Para Hume, todo saber viene de la experiencia.",
+      "pizarron": "**Qué es:** el empirismo sostiene que el conocimiento viene de la experiencia.\n\n**Autores:** Locke, Berkeley y **David Hume** (1711-1776).\n\n**Locke:** la mente es una hoja en blanco.\n\n**Hume:** la causa y efecto es costumbre: vemos dos cosas juntas y creemos que una causa la otra.",
+      "truco": "Primero ver, luego saber.",
+      "practica": {
+        "ejercicio": "¿Qué es empirismo?",
+        "respuesta": "Decir que saber viene de la experiencia."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Kant",
+    "slug": "kant-prepa",
+    "palabras": [
+      "Kant",
+      "imperativo categórico",
+      "razón"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Regla para todos",
+          "texto": "Si todos mienten, nadie creería a nadie."
+        },
+        {
+          "titulo": "Lentes",
+          "texto": "La mente ordena el mundo como unos lentes."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿De qué país era?",
+          "respuesta": "De Alemania."
+        },
+        {
+          "ejercicio": "Di una obra suya.",
+          "respuesta": "*Crítica de la razón pura*."
+        },
+        {
+          "ejercicio": "Aplica la regla a copiar en un examen.",
+          "respuesta": "Si todos copian, el examen pierde sentido."
+        }
+      ],
+      "idea": "Antes de hacer algo, pregúntate: ¿qué pasaría si todos lo hicieran? Esa es la idea de Kant.",
+      "pizarron": "**Quién fue:** Immanuel Kant (1724-1804) fue un filósofo alemán.\n\n**Unió** racionalismo y empirismo.\n\n**Imperativo categórico:** actúa como si tu regla pudiera ser ley para todos.\n\nTrata a las personas como fines, no como medios.\n\n**Obra:** *Crítica de la razón pura*.",
+      "truco": "¿Y si todos lo hicieran?",
+      "practica": {
+        "ejercicio": "¿Qué es el imperativo categórico?",
+        "respuesta": "Actuar como si tu regla fuera ley universal."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Nietzsche",
+    "slug": "nietzsche-prepa",
+    "palabras": [
+      "Nietzsche",
+      "superhombre",
+      "voluntad de poder"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Martillo",
+          "texto": "Golpea ideas viejas para ver si suenan huecas."
+        },
+        {
+          "titulo": "Subir la montaña",
+          "texto": "Invita a superarte a ti mismo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es voluntad de poder?",
+          "respuesta": "Impulso a crecer."
+        },
+        {
+          "ejercicio": "¿De qué país era?",
+          "respuesta": "De Alemania."
+        },
+        {
+          "ejercicio": "¿Qué criticó?",
+          "respuesta": "La moral tradicional."
+        }
+      ],
+      "idea": "Un filósofo alemán invitó a pensar por ti mismo y no seguir lo que todos hacen.",
+      "pizarron": "**Quién fue:** Friedrich Nietzsche (1844-1900) fue un filósofo alemán.\n\n**Ideas:**\n\n- Crítica a la moral tradicional.\n- **Voluntad de poder:** impulso a crecer.\n- **Superhombre:** quien crea sus propios valores.\n- Frase: *Dios ha muerto*: los valores viejos ya no sostienen.\n\n**Obra:** *Así habló Zaratustra*.",
+      "truco": "Crea tus valores.",
+      "practica": {
+        "ejercicio": "¿Qué libro escribió?",
+        "respuesta": "*Así habló Zaratustra*."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Marx",
+    "slug": "marx-prepa",
+    "palabras": [
+      "Marx",
+      "capitalismo",
+      "lucha de clases"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Rebanada del pastel",
+          "texto": "El trabajador hace el pastel y se le da una parte pequeña."
+        },
+        {
+          "titulo": "Lentes de economía",
+          "texto": "Mira la historia a través del trabajo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es proletariado?",
+          "respuesta": "La clase trabajadora."
+        },
+        {
+          "ejercicio": "¿Qué es plusvalía?",
+          "respuesta": "La ganancia del trabajo no pagado."
+        },
+        {
+          "ejercicio": "Di una obra suya.",
+          "respuesta": "*El capital*."
+        }
+      ],
+      "idea": "En las fábricas unos trabajaban y otros ganaban. Marx quiso explicar esa injusticia.",
+      "pizarron": "**Quién fue:** Karl Marx (1818-1883) fue un filósofo y economista alemán.\n\n**Obras:** *Manifiesto comunista*, con Engels, y *El capital*.\n\n**Ideas:**\n\n- **Lucha de clases:** burguesía y proletariado.\n- **Plusvalía:** ganancia del trabajo no pagado.\n- La economía influye en la sociedad.",
+      "truco": "Burguesía y proletariado.",
+      "practica": {
+        "ejercicio": "¿Con quién escribió el *Manifiesto*?",
+        "respuesta": "Con Engels."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Existencialismo: Sartre y Beauvoir",
+    "slug": "existencialismo-sartre-y-beauvoir-prepa",
+    "palabras": [
+      "existencialismo",
+      "Sartre",
+      "Simone de Beauvoir"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Hoja en blanco",
+          "texto": "Tu vida es una historia que tú escribes."
+        },
+        {
+          "titulo": "Timón",
+          "texto": "Eliges a dónde va tu barco."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué dijo Sartre?",
+          "respuesta": "Que la existencia precede a la esencia."
+        },
+        {
+          "ejercicio": "¿Qué nos toca hacer?",
+          "respuesta": "Elegir y hacernos responsables."
+        },
+        {
+          "ejercicio": "Di una frase de Beauvoir.",
+          "respuesta": "No se nace mujer: se llega a serlo."
+        }
+      ],
+      "idea": "Nadie nace con un destino escrito: tú lo vas haciendo con cada decisión.",
+      "pizarron": "**Qué es:** el existencialismo sostiene que cada persona construye quién es con sus decisiones.\n\n**Jean-Paul Sartre (1905-1980):** *La existencia precede a la esencia.* Estamos *condenados a ser libres*.\n\n**Simone de Beauvoir (1908-1986):** *El segundo sexo*. *No se nace mujer: se llega a serlo.*\n\n**Para recordar:**\n- **¿Qué nos toca hacer?** Elegir y hacernos responsables.",
+      "truco": "Eres lo que decides.",
+      "practica": {
+        "ejercicio": "¿Quién escribió *El segundo sexo*?",
+        "respuesta": "Simone de Beauvoir."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Filosofía mexicana y latinoamericana",
+    "slug": "filosofia-mexicana-y-latinoamericana-prepa",
+    "palabras": [
+      "filosofía mexicana",
+      "Vasconcelos",
+      "Leopoldo Zea",
+      "Dussel"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Espejo propio",
+          "texto": "Mirar con ojos propios y no prestados."
+        },
+        {
+          "titulo": "Voces del sur",
+          "texto": "Las ideas también nacen en Latinoamérica."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Quién propuso filosofía de la liberación?",
+          "respuesta": "Enrique Dussel."
+        },
+        {
+          "ejercicio": "¿Quién estudió al mexicano?",
+          "respuesta": "Samuel Ramos."
+        },
+        {
+          "ejercicio": "¿Qué temas trata?",
+          "respuesta": "Identidad y libertad."
+        }
+      ],
+      "idea": "También en América Latina se preguntó: ¿quiénes somos y cómo pensamos desde aquí?",
+      "pizarron": "**Qué es:** la filosofía latinoamericana reflexiona sobre la identidad, la libertad y la historia de la región.\n\n**Autores:**\n\n- **José Vasconcelos:** *La raza cósmica*.\n- **Samuel Ramos:** *El perfil del hombre y la cultura en México*.\n- **Leopoldo Zea:** historia de las ideas.\n- **Enrique Dussel:** filosofía de la liberación.\n- **Luis Villoro:** pueblos indígenas.",
+      "truco": "Pensar desde aquí.",
+      "practica": {
+        "ejercicio": "¿Quién escribió *La raza cósmica*?",
+        "respuesta": "José Vasconcelos."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-179",
+    "titulo": "Pensamiento náhuatl",
+    "slug": "pensamiento-nahuatl-prepa",
+    "palabras": [
+      "pensamiento náhuatl",
+      "tlamatinime",
+      "Miguel León-Portilla"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Flor que se va",
+          "texto": "La flor dura poco, como la vida."
+        },
+        {
+          "titulo": "Canto que queda",
+          "texto": "La poesía guarda la verdad."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Quién lo estudió?",
+          "respuesta": "Miguel León-Portilla."
+        },
+        {
+          "ejercicio": "¿Qué es flor y canto?",
+          "respuesta": "Poesía."
+        },
+        {
+          "ejercicio": "¿Qué sabio fue poeta?",
+          "respuesta": "Nezahualcóyotl."
+        }
+      ],
+      "idea": "Antes de la Conquista, sabios nahuas ya se preguntaban si todo es pasajero.",
+      "pizarron": "**Qué es:** el pensamiento náhuatl es la reflexión de los sabios nahuas, llamados **tlamatinime**.\n\n**Preguntas:** ¿qué hay después de la muerte?, ¿qué es verdadero?\n\n**Flor y canto:** la poesía como camino.\n\n**Nezahualcóyotl:** *No para siempre en la tierra.*\n\n**Miguel León-Portilla** estudió estas ideas.",
+      "truco": "Tlamatinime: los que saben algo.",
+      "practica": {
+        "ejercicio": "¿Cómo se llamaban los sabios?",
+        "respuesta": "Tlamatinime."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-193",
+    "titulo": "Premisas y conclusión",
+    "slug": "premisas-y-conclusion-prepa",
+    "palabras": [
+      "premisas",
+      "conclusión",
+      "argumento"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Piso y techo",
+          "texto": "Las premisas sostienen a la conclusión."
+        },
+        {
+          "titulo": "Pistas y solución",
+          "texto": "Con pistas llegas a una respuesta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Halla la conclusión: *Llueve, por lo tanto, llevo paraguas.*",
+          "respuesta": "Llevo paraguas."
+        },
+        {
+          "ejercicio": "Da un indicador de premisa.",
+          "respuesta": "*porque*"
+        },
+        {
+          "ejercicio": "Escribe un argumento con dos premisas.",
+          "respuesta": "Debe llevar a una conclusión."
+        }
+      ],
+      "idea": "Si dices que hará frío y por eso lleves suéter, ya armaste un argumento.",
+      "pizarron": "**Qué es:** un argumento es un conjunto de **premisas** que apoyan una **conclusión**.\n\n**Ejemplo:**\n\n1. Todos los mamíferos respiran aire.\n2. Las ballenas son mamíferos.\n3. Por lo tanto, las ballenas respiran aire.\n\n**Indicadores:** *porque, ya que* señalan premisas. *Por lo tanto, entonces* señalan conclusión.",
+      "truco": "Por lo tanto anuncia conclusión.",
+      "practica": {
+        "ejercicio": "¿Qué es premisa?",
+        "respuesta": "Una razón que apoya la conclusión."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-193",
+    "titulo": "Deducción e inducción",
+    "slug": "deduccion-e-induccion-prepa",
+    "palabras": [
+      "deducción",
+      "inducción",
+      "razonamiento"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Embudo",
+          "texto": "Deducción baja de grande a pequeño."
+        },
+        {
+          "titulo": "Muestra",
+          "texto": "Pruebas una cucharada y hablas de la olla."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Clasifica: *El Sol salió siempre; saldrá mañana.*",
+          "respuesta": "Inducción."
+        },
+        {
+          "ejercicio": "¿Es segura la inducción?",
+          "respuesta": "No, es probable."
+        },
+        {
+          "ejercicio": "Da un ejemplo de deducción.",
+          "respuesta": "Debe ir de regla general a un caso."
+        }
+      ],
+      "idea": "Una regla te lleva a un caso, o varios casos te llevan a una regla. Son dos caminos.",
+      "pizarron": "**Qué es:** la deducción va de lo general a lo particular. La inducción va de lo particular a lo general.\n\n**Deducción:** si las premisas son verdaderas, la conclusión es segura.\n\nTodos los humanos mueren. Ana es humana. Ana morirá.\n\n**Inducción:** la conclusión es probable.\n\nLos cisnes que vi son blancos. Todos son blancos.",
+      "truco": "Deducción segura; inducción probable.",
+      "practica": {
+        "ejercicio": "¿Cuál da conclusión segura?",
+        "respuesta": "La deducción."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-193",
+    "titulo": "Silogismos",
+    "slug": "silogismos-prepa",
+    "palabras": [
+      "silogismo",
+      "Aristóteles",
+      "premisa mayor"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Receta",
+          "texto": "Dos ingredientes correctos dan el plato seguro."
+        },
+        {
+          "titulo": "Cadena",
+          "texto": "Dos eslabones unidos llevan al tercero."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántas premisas tiene?",
+          "respuesta": "Dos."
+        },
+        {
+          "ejercicio": "¿Quién lo sistematizó?",
+          "respuesta": "Aristóteles."
+        },
+        {
+          "ejercicio": "Crea un silogismo.",
+          "respuesta": "Debe tener dos premisas y conclusión."
+        }
+      ],
+      "idea": "Dos frases juntas te dan una tercera. Esa receta se llama silogismo.",
+      "pizarron": "**Qué es:** un silogismo es un razonamiento deductivo con dos premisas y una conclusión.\n\n1. **Premisa mayor:** Todos los perros son mamíferos.\n2. **Premisa menor:** Fido es un perro.\n3. **Conclusión:** Fido es mamífero.\n\nTiene tres términos.\n\nAristóteles lo sistematizó.",
+      "truco": "Mayor, menor y conclusión.",
+      "practica": {
+        "ejercicio": "Completa: *Todos los gatos maúllan. Mimi es gato. Entonces ___.*",
+        "respuesta": "Mimi maúlla."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-193",
+    "titulo": "Lógica proposicional",
+    "slug": "logica-proposicional-prepa",
+    "palabras": [
+      "lógica proposicional",
+      "proposiciones",
+      "conectivos"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Álgebra de frases",
+          "texto": "Cambias frases por letras."
+        },
+        {
+          "titulo": "Interruptores",
+          "texto": "Cada proposición está prendida o apagada."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa $\\neg p$?",
+          "respuesta": "No $p$."
+        },
+        {
+          "ejercicio": "¿Es proposición *¡Ven!*?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "Escribe *llueve o hace frío* con símbolos.",
+          "respuesta": "$p \\lor q$"
+        }
+      ],
+      "idea": "La lógica convierte frases en letras para calcular si algo es verdadero.",
+      "pizarron": "**Qué es:** la lógica proposicional estudia proposiciones, frases verdaderas o falsas, y sus conectivos.\n\nSea $p$: *llueve*. Sea $q$: *hace frío*.\n\n**Negación:** $\\neg p$, no llueve.\n\n**Conjunción:** $p \\land q$, llueve y hace frío.\n\n**Disyunción:** $p \\lor q$, llueve o hace frío.\n\n**Condicional:** $p \\to q$, si llueve, hace frío.",
+      "truco": "No, y, o, si entonces.",
+      "practica": {
+        "ejercicio": "¿Qué símbolo es *y*?",
+        "respuesta": "$\\land$"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-193",
+    "titulo": "Tablas de verdad",
+    "slug": "tablas-de-verdad-prepa",
+    "palabras": [
+      "tablas de verdad",
+      "lógica"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Dos puertas",
+          "texto": "Y necesita ambas abiertas; o necesita una."
+        },
+        {
+          "titulo": "Probar todo",
+          "texto": "Revisas todas las combinaciones sin saltarte ninguna."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuándo es falso $p \\lor q$?",
+          "respuesta": "Cuando ambas son falsas."
+        },
+        {
+          "ejercicio": "¿Cuántas filas tiene con 3 variables?",
+          "respuesta": "8."
+        },
+        {
+          "ejercicio": "¿Cuándo es falso $p \\to q$?",
+          "respuesta": "Si $p$ es verdadera y $q$ falsa."
+        }
+      ],
+      "idea": "Una tabla prueba todas las combinaciones para ver cuándo una frase es verdadera.",
+      "pizarron": "**Qué es:** una tabla de verdad muestra el valor de una proposición en todos los casos.\n\n| $p$ | $q$ | $p \\land q$ | $p \\lor q$ | $p \\to q$ |\n|---|---|---|---|---|\n| V | V | V | V | V |\n| V | F | F | V | F |\n| F | V | F | V | V |\n| F | F | F | F | V |\n\nCon $n$ variables hay $2^n$ filas.",
+      "truco": "Y pide todo; o pide uno.",
+      "practica": {
+        "ejercicio": "¿Cuándo es verdadero $p \\land q$?",
+        "respuesta": "Cuando ambas son verdaderas."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-193",
+    "titulo": "Falacias formales e informales",
+    "slug": "falacias-formales-e-informales-prepa",
+    "palabras": [
+      "falacias",
+      "afirmar el consecuente",
+      "generalización"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Plano torcido",
+          "texto": "La formal falla por dentro del razonamiento."
+        },
+        {
+          "titulo": "Moneda falsa",
+          "texto": "Se ve bien, pero al revisarla no vale."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué falacia ataca a la persona?",
+          "respuesta": "Ad hominem."
+        },
+        {
+          "ejercicio": "Si se moja la calle, ¿llovió seguro?",
+          "respuesta": "No, pudo haber otra causa."
+        },
+        {
+          "ejercicio": "Da un ejemplo de causa falsa.",
+          "respuesta": "Ejemplo: *Traje mi playera y ganamos: fue por ella.*"
+        }
+      ],
+      "idea": "Unos errores están en la estructura y otros en el contenido. Conviene detectar ambos.",
+      "pizarron": "**Qué es:** las falacias formales son errores en la forma lógica. Las informales son errores en el contenido o lenguaje.\n\n**Formales:**\n\n- **Afirmar el consecuente:** Si llueve, se moja. Se mojó. Llovió.\n\n**Informales:**\n\n- **Generalización apresurada.**\n- **Ad hominem.**\n- **Causa falsa.**\n- **Apelación a la autoridad** sin motivo.",
+      "truco": "Forma o contenido.",
+      "practica": {
+        "ejercicio": "¿Qué falacia es *Un perro me mordió, todos muerden*?",
+        "respuesta": "Generalización apresurada."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-187",
+    "titulo": "Utilitarismo",
+    "slug": "utilitarismo-prepa",
+    "palabras": [
+      "utilitarismo",
+      "Bentham",
+      "Mill"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Balanza",
+          "texto": "Pones placer y dolor en una balanza."
+        },
+        {
+          "titulo": "Votación",
+          "texto": "Gana lo que beneficie a más gente."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di un autor.",
+          "respuesta": "Bentham."
+        },
+        {
+          "ejercicio": "Di un problema.",
+          "respuesta": "Puede sacrificar a pocos."
+        },
+        {
+          "ejercicio": "Analiza con esta teoría una decisión escolar.",
+          "respuesta": "Debe comparar el bienestar de cada opción."
+        }
+      ],
+      "idea": "Si debes decidir, elige lo que dé más bienestar a más personas.",
+      "pizarron": "**Qué es:** el utilitarismo es una teoría ética que juzga los actos por sus consecuencias: es bueno lo que da mayor bienestar al mayor número.\n\n**Autores:** Jeremy Bentham y John Stuart Mill.\n\n**Problema:** puede sacrificar a pocos por muchos.",
+      "truco": "Mayor bien para más personas.",
+      "practica": {
+        "ejercicio": "¿Qué juzga el utilitarismo?",
+        "respuesta": "Las consecuencias."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-187",
+    "titulo": "Ética del deber",
+    "slug": "etica-del-deber-prepa",
+    "palabras": [
+      "deontología",
+      "Kant",
+      "deber"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Regla fija",
+          "texto": "El árbitro aplica la regla sin importar quién gana."
+        },
+        {
+          "titulo": "Promesa",
+          "texto": "La cumples aunque ya no te convenga."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Quién es su autor principal?",
+          "respuesta": "Kant."
+        },
+        {
+          "ejercicio": "¿Importan las consecuencias?",
+          "respuesta": "No son lo central."
+        },
+        {
+          "ejercicio": "Da un ejemplo de deber.",
+          "respuesta": "Decir la verdad."
+        }
+      ],
+      "idea": "Hay cosas que no se hacen aunque convengan. Se hacen o no se hacen por deber.",
+      "pizarron": "**Qué es:** la ética del deber, o deontología, juzga los actos por la regla, no por sus consecuencias.\n\n**Kant** es su principal autor.\n\n**Ejemplo:** no se debe mentir, aunque mentir ayude.",
+      "truco": "Lo correcto, aunque cueste.",
+      "practica": {
+        "ejercicio": "¿Qué juzga esta ética?",
+        "respuesta": "El deber."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-187",
+    "titulo": "Ética de las virtudes",
+    "slug": "etica-de-las-virtudes-prepa",
+    "palabras": [
+      "ética de las virtudes",
+      "Aristóteles",
+      "hábitos"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Músculo",
+          "texto": "Se fortalece con la práctica."
+        },
+        {
+          "titulo": "Entrenador interno",
+          "texto": "Vas formando quién eres con cada acción."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es término medio?",
+          "respuesta": "El equilibrio."
+        },
+        {
+          "ejercicio": "Di una virtud.",
+          "respuesta": "La honestidad."
+        },
+        {
+          "ejercicio": "Elige una virtud y escribe cómo practicarla.",
+          "respuesta": "Debe indicar una acción."
+        }
+      ],
+      "idea": "Más que preguntar qué hago, pregunta qué persona quiero ser.",
+      "pizarron": "**Qué es:** la ética de las virtudes juzga según el carácter de la persona.\n\n**Aristóteles:** la virtud es un hábito y está en el término medio.\n\n**Ejemplos:** valentía, honestidad, generosidad.\n\n**Felicidad (eudaimonía):** vivir bien.",
+      "truco": "Practica y te vuelves virtuoso.",
+      "practica": {
+        "ejercicio": "¿Qué es virtud?",
+        "respuesta": "Un hábito bueno."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-107",
+    "titulo": "Estado, nación y gobierno",
+    "slug": "estado-nacion-y-gobierno-prepa",
+    "palabras": [
+      "Estado",
+      "nación",
+      "gobierno"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Escuela",
+          "texto": "La escuela sigue, aunque cambie la dirección."
+        },
+        {
+          "titulo": "Familia",
+          "texto": "La nación es el sentimiento de pertenecer."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es soberanía?",
+          "respuesta": "El poder de decidir sin depender de otro."
+        },
+        {
+          "ejercicio": "¿Cambia el gobierno?",
+          "respuesta": "Sí."
+        },
+        {
+          "ejercicio": "¿Qué es nación?",
+          "respuesta": "Un pueblo con historia y cultura común."
+        }
+      ],
+      "idea": "México como país, los mexicanos como pueblo y quienes mandan hoy no son lo mismo.",
+      "pizarron": "**Qué es:** el Estado es la organización política con territorio, población y soberanía. La nación es un pueblo con historia y cultura común. El gobierno son quienes administran el Estado.\n\n**Elementos del Estado:** territorio, población, gobierno y soberanía.\n\nUn gobierno cambia; el Estado permanece.\n\n**Para recordar:**\n- **Soberanía:** El poder de decidir sin depender de otro.",
+      "truco": "Estado dura; gobierno cambia.",
+      "practica": {
+        "ejercicio": "¿Cuáles son los elementos del Estado?",
+        "respuesta": "Territorio, población, gobierno y soberanía."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-107",
+    "titulo": "Formas de gobierno",
+    "slug": "formas-de-gobierno-prepa",
+    "palabras": [
+      "formas de gobierno",
+      "democracia",
+      "monarquía",
+      "dictadura"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Reglas del salón",
+          "texto": "Puede decidir uno, unos pocos o todos."
+        },
+        {
+          "titulo": "Democracia en votación",
+          "texto": "El grupo vota y decide."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di una monarquía.",
+          "respuesta": "Reino Unido."
+        },
+        {
+          "ejercicio": "¿Qué falta en una dictadura?",
+          "respuesta": "Elecciones libres."
+        },
+        {
+          "ejercicio": "¿Qué significa democracia?",
+          "respuesta": "Poder del pueblo."
+        }
+      ],
+      "idea": "Hay países con rey, con presidente o con un solo jefe sin elecciones.",
+      "pizarron": "**Qué es:** las formas de gobierno son maneras de organizar el poder.\n\n**Monarquía:** rey o reina.\n\n**República:** gobernantes elegidos.\n\n**Democracia:** poder del pueblo.\n\n**Dictadura:** sin elecciones libres.\n\n**Federal o centralista:** cómo se reparte el poder.\n\n**Presidencial o parlamentaria.**",
+      "truco": "Quién manda y cómo llega.",
+      "practica": {
+        "ejercicio": "¿Qué forma tiene México?",
+        "respuesta": "República federal."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-107",
+    "titulo": "División de poderes",
+    "slug": "division-de-poderes-prepa",
+    "palabras": [
+      "división de poderes",
+      "Montesquieu",
+      "pesos y contrapesos"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tres candados",
+          "texto": "Se necesitan varias llaves para abrir el poder."
+        },
+        {
+          "titulo": "Vigilar",
+          "texto": "Cada uno cuida que el otro no se pase."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Para qué sirve?",
+          "respuesta": "Para evitar abusos."
+        },
+        {
+          "ejercicio": "Di los tres poderes.",
+          "respuesta": "Ejecutivo, Legislativo y Judicial."
+        },
+        {
+          "ejercicio": "Da un ejemplo de contrapeso.",
+          "respuesta": "La Corte puede anular una ley."
+        }
+      ],
+      "idea": "Si una persona tuviera todo el poder, podría abusar. Por eso se reparte.",
+      "pizarron": "**Qué es:** la división de poderes reparte el poder del Estado en Ejecutivo, Legislativo y Judicial, para evitar abusos.\n\n**Montesquieu** la propuso en *El espíritu de las leyes*.\n\n**Pesos y contrapesos:** cada poder vigila a los otros.",
+      "truco": "Poder frena al poder.",
+      "practica": {
+        "ejercicio": "¿Quién la propuso?",
+        "respuesta": "Montesquieu."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-111",
+    "titulo": "Oferta y demanda",
+    "slug": "oferta-y-demanda-prepa",
+    "palabras": [
+      "oferta",
+      "demanda",
+      "precio"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Boletos del partido",
+          "texto": "Si todos quieren, se venden caros."
+        },
+        {
+          "titulo": "Balanza",
+          "texto": "Compradores y vendedores buscan equilibrio."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué pasa con el mango en temporada?",
+          "respuesta": "Baja de precio."
+        },
+        {
+          "ejercicio": "¿Qué es demanda?",
+          "respuesta": "Lo que quieren comprar."
+        },
+        {
+          "ejercicio": "¿Qué es oferta?",
+          "respuesta": "Lo que ofrecen vender."
+        }
+      ],
+      "idea": "Si muchos quieren algo y hay poco, sube de precio. Así funcionan los mercados.",
+      "pizarron": "**La ley:** si aumenta el precio, la cantidad demandada baja y la ofrecida sube.\n\n**Demanda:** lo que compradores quieren.\n\n**Oferta:** lo que vendedores ofrecen.\n\n**Equilibrio:** se igualan.\n\n**Ejemplo:** en temporada, el mango abunda y baja de precio.",
+      "truco": "Mucho hay, baja; poco hay, sube.",
+      "practica": {
+        "ejercicio": "¿Qué pasa si hay poco y muchos lo quieren?",
+        "respuesta": "Sube el precio."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-111",
+    "titulo": "Inflación",
+    "slug": "inflacion-prepa",
+    "palabras": [
+      "inflación",
+      "precios",
+      "poder adquisitivo"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Billete encogido",
+          "texto": "El billete se ve igual, pero rinde menos."
+        },
+        {
+          "titulo": "Globo",
+          "texto": "Los precios suben poco a poco."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Algo de 200 sube 10 %. ¿Cuánto cuesta?",
+          "respuesta": "220."
+        },
+        {
+          "ejercicio": "¿Quién mide el INPC?",
+          "respuesta": "El INEGI."
+        },
+        {
+          "ejercicio": "¿Qué es poder adquisitivo?",
+          "respuesta": "Lo que puedes comprar con tu dinero."
+        }
+      ],
+      "idea": "Con 100 pesos comprabas una bolsa llena; ahora alcanza para menos. Eso es inflación.",
+      "pizarron": "**Qué es:** la inflación es el aumento general y sostenido de los precios.\n\n**Efecto:** el dinero compra menos.\n\n**Ejemplo:** algo costaba 100 y sube 5 %.\n\n$$100 + 5 = 105$$\n\n**Medida:** Índice Nacional de Precios al Consumidor (INPC), del INEGI.\n\nEl Banco de México busca controlarla.",
+      "truco": "Más precio, menos alcanza.",
+      "practica": {
+        "ejercicio": "¿Qué organismo cuida la inflación?",
+        "respuesta": "El Banco de México."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-111",
+    "titulo": "Sistemas económicos: capitalismo y socialismo",
+    "slug": "sistemas-economicos-capitalismo-y-socialismo-prepa",
+    "palabras": [
+      "capitalismo",
+      "socialismo",
+      "economía mixta"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Dos formas de repartir",
+          "texto": "Cada quien vende lo suyo, o se decide todo en grupo."
+        },
+        {
+          "titulo": "Mezcla",
+          "texto": "La mayoría de los países combina ambas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué sistema planifica el Estado?",
+          "respuesta": "El socialismo."
+        },
+        {
+          "ejercicio": "¿Qué sistema tiene México?",
+          "respuesta": "Economía mixta."
+        },
+        {
+          "ejercicio": "Di una ventaja del mercado.",
+          "respuesta": "Mayor competencia."
+        }
+      ],
+      "idea": "Quién decide qué producir: el mercado o el Estado. De ahí salen dos sistemas.",
+      "pizarron": "**Qué es:** un sistema económico es la forma de organizar producción y reparto.\n\n**Capitalismo:** propiedad privada, libre mercado.\n\n**Socialismo:** propiedad colectiva, Estado planifica.\n\n**Economía mixta:** mezcla ambos.\n\n**México:** economía mixta.",
+      "truco": "Mercado o Estado.",
+      "practica": {
+        "ejercicio": "¿Qué sistema tiene propiedad privada?",
+        "respuesta": "El capitalismo."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-111",
+    "titulo": "Dinero, bancos y crédito",
+    "slug": "dinero-bancos-y-credito-prepa",
+    "palabras": [
+      "dinero",
+      "banco",
+      "crédito",
+      "interés"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Renta del dinero",
+          "texto": "El interés es la renta por usar dinero ajeno."
+        },
+        {
+          "titulo": "Trueque",
+          "texto": "Antes se cambiaban cosas; el dinero lo hizo fácil."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Calcula $I$ con 2000 al 5 % por 1 año.",
+          "respuesta": "100."
+        },
+        {
+          "ejercicio": "¿Qué es crédito?",
+          "respuesta": "Un préstamo."
+        },
+        {
+          "ejercicio": "¿Qué hace un banco?",
+          "respuesta": "Guarda y presta dinero."
+        }
+      ],
+      "idea": "Un banco guarda tu dinero y lo presta a otros, cobrando por ello.",
+      "pizarron": "**Qué es:** el dinero es un medio de pago. Un banco guarda y presta dinero. El crédito es un préstamo con **interés**.\n\n**Interés simple:**\n\n$$I = C \\times r \\times t$$\n\n**Ejemplo:** $C = 1000$, $r = 10\\%$, $t = 2$.\n\n$$I = 1000 \\times 0.10 \\times 2 = 200$$\n\nPaga puntualmente y evita deudas que no puedes pagar.",
+      "truco": "Pedir prestado cuesta interés.",
+      "practica": {
+        "ejercicio": "¿Qué es interés?",
+        "respuesta": "Lo que se paga por usar dinero prestado."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-111",
+    "titulo": "Impuestos",
+    "slug": "impuestos-prepa",
+    "palabras": [
+      "impuestos",
+      "ISR",
+      "IVA",
+      "SAT"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Cooperación",
+          "texto": "Todos aportan para lo que usan."
+        },
+        {
+          "titulo": "Fondo común",
+          "texto": "Se junta para escuelas y hospitales."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Calcula IVA de 200.",
+          "respuesta": "32."
+        },
+        {
+          "ejercicio": "¿Qué grava el ISR?",
+          "respuesta": "Los ingresos."
+        },
+        {
+          "ejercicio": "¿Para qué sirven los impuestos?",
+          "respuesta": "Para financiar servicios públicos."
+        }
+      ],
+      "idea": "Las escuelas y hospitales públicos cuestan. Eso se paga entre todos con impuestos.",
+      "pizarron": "**Qué es:** los impuestos son pagos obligatorios al Estado para financiar servicios públicos.\n\n**Principales en México:**\n\n- **ISR:** sobre ingresos.\n- **IVA:** sobre consumo, 16 %.\n\n**SAT:** los recauda.\n\n**Ejemplo:** algo de 100 más IVA.\n\n$$100 \\times 1.16 = 116$$",
+      "truco": "Entre todos pagamos lo de todos.",
+      "practica": {
+        "ejercicio": "¿Quién recauda?",
+        "respuesta": "El SAT."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-112",
+    "titulo": "Sociología: qué estudia",
+    "slug": "sociologia-que-estudia-prepa",
+    "palabras": [
+      "sociología",
+      "sociedad",
+      "Durkheim"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Lupa grupal",
+          "texto": "Mira cómo se comportan las personas juntas."
+        },
+        {
+          "titulo": "Reglas invisibles",
+          "texto": "Descubre lo que hacemos sin darnos cuenta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di un sociólogo.",
+          "respuesta": "Durkheim."
+        },
+        {
+          "ejercicio": "Di un método.",
+          "respuesta": "Encuestas."
+        },
+        {
+          "ejercicio": "Di un tema de estudio.",
+          "respuesta": "La familia."
+        }
+      ],
+      "idea": "¿Por qué actúa la gente en grupo de cierta forma? La sociología lo estudia.",
+      "pizarron": "**Qué es:** la sociología estudia la sociedad y sus relaciones.\n\n**Autores:** Comte, Durkheim, Weber, Marx.\n\n**Temas:** familia, clases, migración, educación.\n\n**Métodos:** encuestas y entrevistas.",
+      "truco": "Sociedad bajo la lupa.",
+      "practica": {
+        "ejercicio": "¿Qué estudia?",
+        "respuesta": "La sociedad."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-112",
+    "titulo": "Antropología: qué estudia",
+    "slug": "antropologia-que-estudia-prepa",
+    "palabras": [
+      "antropología",
+      "cultura",
+      "Bonfil Batalla"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Invitado atento",
+          "texto": "Vive con la gente para entenderla."
+        },
+        {
+          "titulo": "Museo de costumbres",
+          "texto": "Cada pueblo tiene su manera de vivir."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es etnografía?",
+          "respuesta": "Estudiar viviendo con la comunidad."
+        },
+        {
+          "ejercicio": "Di una rama.",
+          "respuesta": "Arqueología."
+        },
+        {
+          "ejercicio": "Di un autor mexicano.",
+          "respuesta": "Bonfil Batalla."
+        }
+      ],
+      "idea": "Comer, celebrar o casarse cambia entre pueblos. La antropología estudia esas culturas.",
+      "pizarron": "**Qué es:** la antropología estudia al ser humano y sus culturas.\n\n**Ramas:** física, cultural, lingüística y arqueología.\n\n**Método:** vivir con la comunidad; se llama **etnografía**.\n\n**México:** Guillermo Bonfil Batalla, *México profundo*.",
+      "truco": "Humanos y culturas.",
+      "practica": {
+        "ejercicio": "¿Qué estudia?",
+        "respuesta": "Al ser humano y sus culturas."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-112",
+    "titulo": "Psicología: qué estudia",
+    "slug": "psicologia-que-estudia-prepa",
+    "palabras": [
+      "psicología",
+      "mente",
+      "conducta",
+      "Freud"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Mapa interior",
+          "texto": "Explora lo que pasa dentro de tu cabeza."
+        },
+        {
+          "titulo": "Entrenador de emociones",
+          "texto": "Ayuda a entender lo que sientes."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Quién estudió el desarrollo infantil?",
+          "respuesta": "Piaget."
+        },
+        {
+          "ejercicio": "Di un autor.",
+          "respuesta": "Freud."
+        },
+        {
+          "ejercicio": "Di un tema.",
+          "respuesta": "La memoria."
+        }
+      ],
+      "idea": "¿Por qué sentimos miedo o recordamos cosas? La psicología estudia la mente y la conducta.",
+      "pizarron": "**Qué es:** la psicología estudia la mente, las emociones y la conducta.\n\n**Autores:** Freud, Piaget, Skinner.\n\n**Temas:** memoria, aprendizaje, emociones.\n\nUn psicólogo puede ayudarte a sentirte mejor.",
+      "truco": "Mente y conducta.",
+      "practica": {
+        "ejercicio": "¿Qué estudia?",
+        "respuesta": "La mente y la conducta."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-112",
+    "titulo": "Derecho: qué estudia",
+    "slug": "derecho-que-estudia-prepa",
+    "palabras": [
+      "derecho",
+      "leyes",
+      "normas"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Reglas del juego",
+          "texto": "Permiten convivir con orden."
+        },
+        {
+          "titulo": "Semáforos",
+          "texto": "Ordenan el paso para evitar choques."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué rama trata de delitos?",
+          "respuesta": "Penal."
+        },
+        {
+          "ejercicio": "¿Qué es norma?",
+          "respuesta": "Una regla obligatoria."
+        },
+        {
+          "ejercicio": "Di una rama.",
+          "respuesta": "Civil."
+        }
+      ],
+      "idea": "Sin reglas, cada quien haría lo que quisiera. El derecho estudia esas reglas.",
+      "pizarron": "**Qué es:** el derecho es el conjunto de normas que regulan la vida en sociedad.\n\n**Ramas:** civil, penal, laboral, constitucional, mercantil.\n\n**Norma:** regla obligatoria.\n\nQuien estudia derecho defiende, juzga o asesora.",
+      "truco": "Normas para convivir.",
+      "practica": {
+        "ejercicio": "¿Qué rama trata del trabajo?",
+        "respuesta": "Laboral."
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-113",
+    "titulo": "Ideologías políticas",
+    "slug": "ideologias-politicas-prepa",
+    "palabras": [
+      "ideologías",
+      "liberalismo",
+      "socialismo",
+      "conservadurismo"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Lentes",
+          "texto": "Cada ideología ve al mundo con lentes distintos."
+        },
+        {
+          "titulo": "Plano",
+          "texto": "Cada una dibuja un país distinto."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué defiende el socialismo?",
+          "respuesta": "La igualdad social."
+        },
+        {
+          "ejercicio": "¿Qué defiende el conservadurismo?",
+          "respuesta": "La tradición."
+        },
+        {
+          "ejercicio": "¿Qué defiende el feminismo?",
+          "respuesta": "La igualdad entre mujeres y hombres."
+        }
+      ],
+      "idea": "Hay ideas distintas sobre cómo organizar un país. Conocerlas ayuda a opinar.",
+      "pizarron": "**Qué es:** una ideología política es un conjunto de ideas sobre cómo organizar la sociedad.\n\n**Liberalismo:** libertad individual.\n\n**Conservadurismo:** tradición y orden.\n\n**Socialismo:** igualdad social.\n\n**Nacionalismo:** primero la nación.\n\n**Feminismo:** igualdad entre mujeres y hombres.\n\n**Ecologismo:** cuidado ambiental.",
+      "truco": "Distintas ideas para un mismo país.",
+      "practica": {
+        "ejercicio": "¿Qué defiende el liberalismo?",
+        "respuesta": "La libertad individual."
+      }
+    }
+  },
+  {
+    "nodo_id": "f5-054",
+    "titulo": "Primeros auxilios básicos",
+    "slug": "primeros-auxilios-basicos-primaria",
+    "palabras": [
+      "primeros auxilios",
+      "heridas",
+      "quemaduras"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Equipo de emergencia",
+          "texto": "Tú ayudas hasta que llega el experto."
+        },
+        {
+          "titulo": "Botiquín",
+          "texto": "Lleva lo básico para el momento."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué haces con una quemadura?",
+          "respuesta": "Agua fresca."
+        },
+        {
+          "ejercicio": "¿Qué haces con sangrado?",
+          "respuesta": "Apretar con tela limpia."
+        },
+        {
+          "ejercicio": "¿Cómo pones la cabeza si sangra la nariz?",
+          "respuesta": "Hacia adelante."
+        }
+      ],
+      "idea": "Saber qué hacer en una emergencia puede ayudar mucho hasta que llegue un adulto o médico.",
+      "pizarron": "**Qué es:** los primeros auxilios son ayudas inmediatas ante un accidente.\n\n**Regla:** mantén la calma, avisa a un adulto y llama al **911**.\n\n**Herida:** lava con agua y jabón, cubre.\n\n**Sangrado:** aprieta con tela limpia.\n\n**Quemadura:** agua fresca, sin pomadas.\n\n**Nariz sangra:** cabeza hacia adelante.",
+      "truco": "Calma, avisa y llama al 911.",
+      "practica": {
+        "ejercicio": "¿Qué número llamas?",
+        "respuesta": "911."
+      }
+    }
+  },
+  {
+    "nodo_id": "f5-054",
+    "titulo": "Higiene y prevención de enfermedades",
+    "slug": "higiene-y-prevencion-de-enfermedades-primaria",
+    "palabras": [
+      "higiene",
+      "lavarse las manos",
+      "vacunas"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Escudo diario",
+          "texto": "Cada hábito es una pequeña defensa."
+        },
+        {
+          "titulo": "Limpiar el camino",
+          "texto": "Sin microbios en las manos, no llegan a tu boca."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántas veces cepillas tus dientes?",
+          "respuesta": "Después de cada comida."
+        },
+        {
+          "ejercicio": "¿Por qué lavar frutas?",
+          "respuesta": "Para quitar microbios."
+        },
+        {
+          "ejercicio": "Haz una lista de tus hábitos de higiene.",
+          "respuesta": "Debe incluir manos y dientes."
+        }
+      ],
+      "idea": "Muchos microbios se van con agua y jabón. Es una de las mejores defensas.",
+      "pizarron": "**Qué es:** la higiene son hábitos de limpieza que previenen enfermedades.\n\n**Hábitos:**\n\n- Lavarte las manos con jabón, 20 segundos.\n- Bañarte.\n- Cepillar los dientes.\n- Lavar frutas.\n- Tomar agua limpia.\n- Ponerte vacunas.\n\n**Para recordar:**\n- **¿Cuántas veces cepillas tus dientes?** Después de cada comida.",
+      "truco": "Agua y jabón, 20 segundos.",
+      "practica": {
+        "ejercicio": "¿Cuánto debes lavarte las manos?",
+        "respuesta": "Unos 20 segundos."
+      }
+    }
+  },
+  {
+    "nodo_id": "f5-054",
+    "titulo": "Sueño y descanso",
+    "slug": "sueno-y-descanso-primaria",
+    "palabras": [
+      "sueño",
+      "dormir",
+      "descanso"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Guardar archivo",
+          "texto": "Dormir guarda lo aprendido."
+        },
+        {
+          "titulo": "Cargar batería",
+          "texto": "Sin carga, el teléfono no funciona."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué hay que evitar antes de dormir?",
+          "respuesta": "Pantallas."
+        },
+        {
+          "ejercicio": "¿Cuántas horas necesita un adolescente?",
+          "respuesta": "De 8 a 10."
+        },
+        {
+          "ejercicio": "Anota tus horas de sueño una semana.",
+          "respuesta": "Revisa si duermes lo necesario."
+        }
+      ],
+      "idea": "Dormir no es perder el tiempo: mientras duermes, tu cerebro guarda lo que aprendiste.",
+      "pizarron": "**Qué es:** el sueño es un descanso necesario para el cuerpo y la mente.\n\n**Horas recomendadas:**\n\n- 6 a 12 años: de 9 a 12 horas.\n- 13 a 18 años: de 8 a 10 horas.\n\n**Consejos:**\n\n- Mismo horario.\n- Sin pantallas antes de dormir.\n- Cuarto oscuro.",
+      "truco": "Horario fijo y sin pantallas.",
+      "practica": {
+        "ejercicio": "¿Cuántas horas duerme un niño de 10 años?",
+        "respuesta": "De 9 a 12 horas."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Calentamiento y estiramiento",
+    "slug": "calentamiento-y-estiramiento-secundaria",
+    "palabras": [
+      "calentamiento",
+      "estiramiento",
+      "ejercicio"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Motor frío",
+          "texto": "Hay que dejarlo calentar poco a poco."
+        },
+        {
+          "titulo": "Liga",
+          "texto": "Se estira mejor si está tibia."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Para qué sirve?",
+          "respuesta": "Para prevenir lesiones."
+        },
+        {
+          "ejercicio": "¿Debes rebotar al estirar?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "Haz tu rutina de calentamiento.",
+          "respuesta": "Debe incluir trote y articulaciones."
+        }
+      ],
+      "idea": "Un coche frío no arranca a toda velocidad. Tu cuerpo tampoco.",
+      "pizarron": "**Qué es:** el calentamiento prepara al cuerpo para el ejercicio. El estiramiento mejora la flexibilidad.\n\n**Antes:** 5 a 10 minutos: trote, brazos y articulaciones.\n\n**Después:** estira sin rebotar.\n\nPreviene lesiones.",
+      "truco": "Calienta antes; estira después.",
+      "practica": {
+        "ejercicio": "¿Cuánto dura?",
+        "respuesta": "De 5 a 10 minutos."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Capacidades físicas",
+    "slug": "capacidades-fisicas-secundaria",
+    "palabras": [
+      "capacidades físicas",
+      "fuerza",
+      "resistencia"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Herramientas",
+          "texto": "Cada deporte pide una distinta."
+        },
+        {
+          "titulo": "Barras de nivel",
+          "texto": "Se suben con entrenamiento."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué capacidad usa un velocista?",
+          "respuesta": "La velocidad."
+        },
+        {
+          "ejercicio": "¿Qué capacidad usa una gimnasta?",
+          "respuesta": "La flexibilidad."
+        },
+        {
+          "ejercicio": "Elige un ejercicio para cada capacidad.",
+          "respuesta": "Debe nombrar cuatro ejercicios."
+        }
+      ],
+      "idea": "Un velocista, una gimnasta y un maratonista entrenan distinto. Cada uno cuida otra capacidad.",
+      "pizarron": "**Qué es:** las capacidades físicas son cualidades del cuerpo para moverse.\n\n- **Fuerza.**\n- **Resistencia.**\n- **Velocidad.**\n- **Flexibilidad.**\n- **Coordinación.**\n- **Equilibrio.**",
+      "truco": "Fuerza, resistencia, velocidad y flexibilidad.",
+      "practica": {
+        "ejercicio": "¿Qué capacidad usa un maratón?",
+        "respuesta": "La resistencia."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Reglas del futbol",
+    "slug": "reglas-del-futbol-secundaria",
+    "palabras": [
+      "futbol",
+      "reglas",
+      "deporte"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Reglas justas",
+          "texto": "Sin árbitro, todos harían lo que quisieran."
+        },
+        {
+          "titulo": "Equipo",
+          "texto": "Pasar el balón gana partidos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuánto dura?",
+          "respuesta": "90 minutos."
+        },
+        {
+          "ejercicio": "¿Quién puede usar manos?",
+          "respuesta": "El portero, en su área."
+        },
+        {
+          "ejercicio": "¿Qué es un penal?",
+          "respuesta": "Un tiro por falta en el área."
+        }
+      ],
+      "idea": "Un balón, once por equipo y una meta. Las reglas hacen justo el juego.",
+      "pizarron": "**Qué es:** el futbol se juega entre dos equipos de 11.\n\n**Reglas:**\n\n- 90 minutos, dos tiempos de 45.\n- Gana quien anota más goles.\n- Solo el portero usa las manos en su área.\n- **Falta:** tiro libre.\n- **Penal:** falta en el área.\n- **Fuera de lugar.**\n- Tarjeta amarilla y roja.",
+      "truco": "Once, noventa y sin manos.",
+      "practica": {
+        "ejercicio": "¿Cuántos jugadores hay por equipo?",
+        "respuesta": "11."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Reglas del basquetbol",
+    "slug": "reglas-del-basquetbol-secundaria",
+    "palabras": [
+      "basquetbol",
+      "reglas",
+      "deporte"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tablero de sumas",
+          "texto": "El marcador cambia a cada canasta."
+        },
+        {
+          "titulo": "Pases rápidos",
+          "texto": "El balón va más rápido que los pies."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántos juegan por equipo?",
+          "respuesta": "5."
+        },
+        {
+          "ejercicio": "¿Cuánto vale un tiro libre?",
+          "respuesta": "1."
+        },
+        {
+          "ejercicio": "¿Se puede caminar sin botar?",
+          "respuesta": "No."
+        }
+      ],
+      "idea": "Cinco por lado, una canasta alta y puntos que cambian con la distancia.",
+      "pizarron": "**Qué es:** el basquetbol se juega entre dos equipos de 5.\n\n**Reglas:**\n\n- Cuatro periodos.\n- **Canasta:** 2 puntos.\n- **Tiro lejano:** 3 puntos.\n- **Tiro libre:** 1 punto.\n- Se bota el balón.\n- No caminar sin botar.",
+      "truco": "Bota, no camines.",
+      "practica": {
+        "ejercicio": "¿Cuántos puntos vale un tiro lejano?",
+        "respuesta": "3."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Reglas del voleibol",
+    "slug": "reglas-del-voleibol-secundaria",
+    "palabras": [
+      "voleibol",
+      "reglas",
+      "deporte"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "No lo dejes caer",
+          "texto": "Como jugar a mantener un globo en el aire."
+        },
+        {
+          "titulo": "Coreografía",
+          "texto": "Todos giran por turnos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántos juegan por lado?",
+          "respuesta": "6."
+        },
+        {
+          "ejercicio": "¿Se puede tocar la red?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "¿A cuántos puntos es un set?",
+          "respuesta": "A 25."
+        }
+      ],
+      "idea": "Una red, seis por lado y un balón que no debe tocar el piso.",
+      "pizarron": "**Qué es:** el voleibol se juega entre dos equipos de 6.\n\n**Reglas:**\n\n- Máximo 3 toques por lado.\n- Se juega a sets de 25.\n- El balón no debe caer.\n- No tocar la red.\n- Se rota tras ganar el saque.",
+      "truco": "Tres toques y pasa.",
+      "practica": {
+        "ejercicio": "¿Cuántos toques permite?",
+        "respuesta": "Tres."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Atletismo",
+    "slug": "atletismo-secundaria",
+    "palabras": [
+      "atletismo",
+      "carreras",
+      "saltos",
+      "lanzamientos"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tres grupos",
+          "texto": "Son tres familias de un deporte."
+        },
+        {
+          "titulo": "Relevos",
+          "texto": "Pasas la estafeta a tu compañero."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di un lanzamiento.",
+          "respuesta": "Jabalina."
+        },
+        {
+          "ejercicio": "Di un salto.",
+          "respuesta": "Longitud."
+        },
+        {
+          "ejercicio": "¿Qué se pasa en relevos?",
+          "respuesta": "La estafeta."
+        }
+      ],
+      "idea": "Correr, saltar y lanzar: son las actividades más antiguas del deporte.",
+      "pizarron": "**Qué es:** el atletismo agrupa carreras, saltos y lanzamientos.\n\n**Carreras:** 100 m, 400 m, maratón (42.195 km), relevos.\n\n**Saltos:** longitud, altura, pértiga.\n\n**Lanzamientos:** bala, disco, jabalina, martillo.",
+      "truco": "Correr, saltar y lanzar.",
+      "practica": {
+        "ejercicio": "¿Cuánto mide un maratón?",
+        "respuesta": "42.195 km."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Juegos tradicionales mexicanos",
+    "slug": "juegos-tradicionales-mexicanos-secundaria",
+    "palabras": [
+      "juegos tradicionales",
+      "trompo",
+      "lotería"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Herencia",
+          "texto": "Se pasa de abuelos a nietos."
+        },
+        {
+          "titulo": "Puente entre tiempos",
+          "texto": "Tus abuelos y tú juegan lo mismo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es ulama?",
+          "respuesta": "Un juego de pelota prehispánico."
+        },
+        {
+          "ejercicio": "Di dos juegos.",
+          "respuesta": "Lotería y canicas."
+        },
+        {
+          "ejercicio": "Pregunta a un adulto a qué jugaba.",
+          "respuesta": "Anota su respuesta."
+        }
+      ],
+      "idea": "Antes de las pantallas se jugaba con trompos y canicas, y aún hoy divierten.",
+      "pizarron": "**Qué es:** los juegos tradicionales se transmiten entre generaciones.\n\n- **Trompo.**\n- **Canicas.**\n- **Lotería.**\n- **Yoyo.**\n- **Balero.**\n- **Rayuela o avión.**\n- **Juego de pelota** prehispánico, **ulama**.",
+      "truco": "Se juegan de abuelos a nietos.",
+      "practica": {
+        "ejercicio": "Di un juego tradicional.",
+        "respuesta": "El trompo."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-065",
+    "titulo": "Olimpiadas",
+    "slug": "olimpiadas-secundaria",
+    "palabras": [
+      "Olimpiadas",
+      "Juegos Olímpicos",
+      "México 1968"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Fiesta mundial",
+          "texto": "Países distintos compiten bajo las mismas reglas."
+        },
+        {
+          "titulo": "Antorcha",
+          "texto": "Lleva la llama desde Grecia."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Quién inició los modernos?",
+          "respuesta": "Pierre de Coubertin."
+        },
+        {
+          "ejercicio": "¿Qué significan los anillos?",
+          "respuesta": "Los continentes."
+        },
+        {
+          "ejercicio": "¿Cada cuántos años son?",
+          "respuesta": "Cada cuatro."
+        }
+      ],
+      "idea": "Cada cuatro años, atletas de casi todo el mundo se reúnen para competir en paz.",
+      "pizarron": "**Qué es:** los Juegos Olímpicos son competencias mundiales cada cuatro años.\n\n**Antiguos:** Olimpia, Grecia.\n\n**Modernos:** Atenas, 1896, por Pierre de Coubertin.\n\n**Símbolo:** cinco anillos, cinco continentes.\n\n**México:** sede en 1968.",
+      "truco": "Cada cuatro años, cinco anillos.",
+      "practica": {
+        "ejercicio": "¿Cuándo fue la sede en México?",
+        "respuesta": "En 1968."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-047",
+    "titulo": "Reconocer mis emociones",
+    "slug": "reconocer-mis-emociones-secundaria",
+    "palabras": [
+      "emociones",
+      "alegría",
+      "enojo",
+      "miedo"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Semáforo interno",
+          "texto": "Te avisa cómo estás."
+        },
+        {
+          "titulo": "Clima interno",
+          "texto": "Las emociones cambian como el clima."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Son malas las emociones?",
+          "respuesta": "No, todas son válidas."
+        },
+        {
+          "ejercicio": "¿Dónde sientes el miedo?",
+          "respuesta": "Depende: en el estómago o pecho."
+        },
+        {
+          "ejercicio": "Escribe qué sentiste hoy y por qué.",
+          "respuesta": "Debe nombrar la emoción."
+        }
+      ],
+      "idea": "A veces sientes algo y no sabes qué es. Ponerle nombre ayuda.",
+      "pizarron": "**Qué es:** las emociones son reacciones del cuerpo y la mente.\n\n**Básicas:** alegría, tristeza, enojo, miedo, sorpresa, asco.\n\n**Cómo reconocerlas:**\n\n1. ¿Qué siento en el cuerpo?\n2. ¿Cómo se llama?\n3. ¿Qué lo causó?\n\nTodas son válidas. Lo importante es qué haces con ellas.\n\n**Para recordar:**\n- **¿Dónde sientes el miedo?** Depende: en el estómago o pecho.",
+      "truco": "Nómbrala para manejarla.",
+      "practica": {
+        "ejercicio": "Di tres emociones.",
+        "respuesta": "Alegría, miedo y enojo."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-047",
+    "titulo": "Manejar el enojo",
+    "slug": "manejar-el-enojo-secundaria",
+    "palabras": [
+      "enojo",
+      "respiración",
+      "autocontrol"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Olla",
+          "texto": "Baja la lumbre antes de que se derrame."
+        },
+        {
+          "titulo": "Globo",
+          "texto": "Suelta aire poco a poco."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántas veces respiras?",
+          "respuesta": "Unas 5 veces."
+        },
+        {
+          "ejercicio": "¿Debes insultar?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "Completa: *Me siento enojado porque...*",
+          "respuesta": "Di el motivo sin ofender."
+        }
+      ],
+      "idea": "El enojo es como una olla hirviendo. Hay que bajar la lumbre antes de hablar.",
+      "pizarron": "**Qué es:** manejar el enojo es expresar lo que sientes sin dañar.\n\n**Pasos:**\n\n1. Detente.\n2. Respira hondo 5 veces.\n3. Cuenta hasta 10.\n4. Aléjate un momento.\n5. Di: *Me siento enojado porque...*\n\nNo golpees ni insultes.",
+      "truco": "Detente, respira y habla.",
+      "practica": {
+        "ejercicio": "¿Qué haces primero?",
+        "respuesta": "Detenerte."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-047",
+    "titulo": "Ansiedad antes de un examen",
+    "slug": "ansiedad-antes-de-un-examen-secundaria",
+    "palabras": [
+      "ansiedad",
+      "exámenes",
+      "nervios"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Alarma falsa",
+          "texto": "Tu cuerpo prepara una huida que no necesitas."
+        },
+        {
+          "titulo": "Respirar lento",
+          "texto": "Es el botón de calma de tu cuerpo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Es normal estar nervioso?",
+          "respuesta": "Sí."
+        },
+        {
+          "ejercicio": "¿Qué haces un día antes?",
+          "respuesta": "Dormir bien."
+        },
+        {
+          "ejercicio": "Haz un plan de estudio por partes.",
+          "respuesta": "Debe dividir los temas por días."
+        }
+      ],
+      "idea": "Antes del examen, tu corazón se acelera. Es normal, y se puede calmar.",
+      "pizarron": "**Qué es:** la ansiedad es una sensación de preocupación ante algo que viene.\n\n**Antes:**\n\n- Estudia por partes.\n- Duerme bien.\n\n**Durante:**\n\n- Respira.\n- Lee con calma.\n- Empieza por lo fácil.\n\nSi te dura mucho, pide ayuda a un adulto.",
+      "truco": "Respira y empieza por lo fácil.",
+      "practica": {
+        "ejercicio": "¿Con qué preguntas empiezas?",
+        "respuesta": "Con las fáciles."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-047",
+    "titulo": "Autoestima",
+    "slug": "autoestima-secundaria",
+    "palabras": [
+      "autoestima",
+      "confianza"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Amigo interno",
+          "texto": "Tu voz interna puede ser tu mejor amigo."
+        },
+        {
+          "titulo": "Planta",
+          "texto": "Crece si la cuidas todos los días."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Te conviene compararte?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "Escribe tres cosas que haces bien.",
+          "respuesta": "Deben ser cualidades tuyas."
+        },
+        {
+          "ejercicio": "¿Qué hacer con un error?",
+          "respuesta": "Aprender de él."
+        }
+      ],
+      "idea": "Cómo te hablas a ti mismo importa. La autoestima es tratarte con cariño y respeto.",
+      "pizarron": "**Qué es:** la autoestima es la valoración que tienes de ti.\n\n**Cómo cuidarla:**\n\n- Reconoce lo que haces bien.\n- Acepta tus errores.\n- No te compares.\n- Rodéate de gente que te respete.",
+      "truco": "Háblate como a un amigo.",
+      "practica": {
+        "ejercicio": "¿Qué es autoestima?",
+        "respuesta": "Cómo te valoras a ti."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-047",
+    "titulo": "Decir que no con respeto",
+    "slug": "decir-que-no-con-respeto-secundaria",
+    "palabras": [
+      "asertividad",
+      "decir que no",
+      "límites"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Puerta",
+          "texto": "Abres o cierras según lo que quieres."
+        },
+        {
+          "titulo": "Límite",
+          "texto": "Una cerca protege tu terreno."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué haces si insisten?",
+          "respuesta": "Busca a un adulto."
+        },
+        {
+          "ejercicio": "Escribe una forma de decir no.",
+          "respuesta": "Debe ser clara y amable."
+        },
+        {
+          "ejercicio": "¿Qué es asertivo?",
+          "respuesta": "Decir lo que piensas con respeto."
+        }
+      ],
+      "idea": "No debes hacer algo solo porque otros insisten. Decir que no es un derecho.",
+      "pizarron": "**Qué es:** ser asertivo es decir lo que piensas con respeto.\n\n**Cómo:**\n\n1. Di no con claridad.\n2. Da una razón si quieres.\n3. Propón otra cosa.\n\n*No quiero, gracias. Prefiero irme.*\n\nSi te presionan, busca a un adulto.",
+      "truco": "No, con calma y claro.",
+      "practica": {
+        "ejercicio": "¿Es grosero decir no?",
+        "respuesta": "No, si es con respeto."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-043",
+    "titulo": "Empatía",
+    "slug": "empatia-secundaria",
+    "palabras": [
+      "empatía",
+      "escuchar"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Zapatos prestados",
+          "texto": "Caminas un rato en los del otro."
+        },
+        {
+          "titulo": "Espejo",
+          "texto": "Reflejas lo que el otro siente."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Tu amigo llora. ¿Qué haces?",
+          "respuesta": "Preguntarle cómo está y escucharlo."
+        },
+        {
+          "ejercicio": "¿Empatía es burlarse?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "Haz algo amable por alguien hoy.",
+          "respuesta": "Anota qué hiciste."
+        }
+      ],
+      "idea": "Imagina estar en los zapatos de tu amigo. Sentir con él es empatía.",
+      "pizarron": "**Qué es:** la empatía es la capacidad de entender lo que siente otra persona.\n\n**Cómo practicarla:**\n\n- Escucha sin interrumpir.\n- Pregunta cómo está.\n- No te burles.\n- Ofrece ayuda.",
+      "truco": "Ponte en sus zapatos.",
+      "practica": {
+        "ejercicio": "¿Qué es empatía?",
+        "respuesta": "Entender lo que siente otra persona."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-043",
+    "titulo": "Acoso escolar: qué hacer",
+    "slug": "acoso-escolar-que-hacer-secundaria",
+    "palabras": [
+      "acoso escolar",
+      "bullying",
+      "ayuda"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Peso compartido",
+          "texto": "Contarlo hace más ligera la carga."
+        },
+        {
+          "titulo": "Testigo",
+          "texto": "Quien mira puede ayudar a detenerlo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Es tu culpa si te pasa?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "¿Qué haces si lo ves?",
+          "respuesta": "Avisar y no reírte."
+        },
+        {
+          "ejercicio": "Escribe quién es tu adulto de confianza.",
+          "respuesta": "Debe ser alguien que te ayude."
+        }
+      ],
+      "idea": "Si alguien te molesta una y otra vez, no es un juego. Tienes derecho a pedir ayuda.",
+      "pizarron": "**Qué es:** el acoso escolar es maltrato repetido a un compañero o compañera.\n\n**Tipos:** físico, verbal, social y por internet.\n\n**Si te pasa:**\n\n1. No es tu culpa.\n2. Cuéntalo a un adulto de confianza.\n3. Guarda pruebas.\n\n**Si lo ves:** no te rías y avisa.",
+      "truco": "Cuéntalo; no estás solo.",
+      "practica": {
+        "ejercicio": "¿A quién avisas?",
+        "respuesta": "A un adulto de confianza."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-043",
+    "titulo": "Resolver conflictos con amigos",
+    "slug": "resolver-conflictos-con-amigos-secundaria",
+    "palabras": [
+      "conflictos",
+      "diálogo",
+      "acuerdos"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Dos puentes",
+          "texto": "Cada quien camina hasta el centro."
+        },
+        {
+          "titulo": "Partido amistoso",
+          "texto": "Importa seguir siendo amigos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Con qué frase inicias?",
+          "respuesta": "*Yo me siento...*"
+        },
+        {
+          "ejercicio": "¿Debes interrumpir?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "Piensa en un conflicto y escribe un acuerdo.",
+          "respuesta": "Debe ser justo para ambos."
+        }
+      ],
+      "idea": "Pelear con un amigo no es el final. Hablar bien puede arreglarlo.",
+      "pizarron": "**Qué es:** resolver un conflicto es buscar un acuerdo con diálogo.\n\n**Pasos:**\n\n1. Cálmate.\n2. Habla en tu turno.\n3. Escucha.\n4. Di: *Yo me siento...*\n5. Busca una solución.\n6. Cumple.",
+      "truco": "Yo siento, no tú siempre.",
+      "practica": {
+        "ejercicio": "¿Qué haces primero?",
+        "respuesta": "Calmarte."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-051",
+    "titulo": "Técnicas de estudio",
+    "slug": "tecnicas-de-estudio-secundaria",
+    "palabras": [
+      "técnicas de estudio",
+      "memoria",
+      "repaso"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Músculo",
+          "texto": "Recordar entrena tu memoria."
+        },
+        {
+          "titulo": "Maestro",
+          "texto": "Si lo explicas, lo entiendes."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di dos técnicas.",
+          "respuesta": "Tarjetas y resumen."
+        },
+        {
+          "ejercicio": "¿Conviene repasar en días distintos?",
+          "respuesta": "Sí."
+        },
+        {
+          "ejercicio": "Usa Pomodoro en tu tarea.",
+          "respuesta": "Estudia 25 minutos y descansa 5."
+        }
+      ],
+      "idea": "Leer diez veces no es lo mismo que estudiar bien. Hay trucos para recordar mejor.",
+      "pizarron": "**Qué es:** las técnicas de estudio son formas de aprender mejor.\n\n- **Subrayar** lo importante.\n- **Resumir.**\n- **Hacer tarjetas.**\n- **Practicar preguntas.**\n- **Enseñar** a alguien.\n- **Repasar** en días distintos.\n- **Pomodoro:** 25 minutos y 5 de descanso.",
+      "truco": "Pregúntate; no solo leas.",
+      "practica": {
+        "ejercicio": "¿Qué es Pomodoro?",
+        "respuesta": "25 minutos de estudio y 5 de descanso."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-051",
+    "titulo": "Organizar mi tiempo",
+    "slug": "organizar-mi-tiempo-secundaria",
+    "palabras": [
+      "organizar tiempo",
+      "horario",
+      "prioridades"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Rompecabezas",
+          "texto": "Cada actividad encaja en su hora."
+        },
+        {
+          "titulo": "Mochila",
+          "texto": "Metes primero lo grande."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Debes incluir descanso?",
+          "respuesta": "Sí."
+        },
+        {
+          "ejercicio": "Haz tu horario de esta semana.",
+          "respuesta": "Debe incluir escuela, tarea y descanso."
+        },
+        {
+          "ejercicio": "¿Qué se hace antes, lo importante o lo fácil?",
+          "respuesta": "Lo importante."
+        }
+      ],
+      "idea": "El día tiene 24 horas para todos. Lo importante es acomodarlas bien.",
+      "pizarron": "**Qué es:** organizar tu tiempo es decidir cuándo hacer cada actividad.\n\n**Pasos:**\n\n1. Haz una lista.\n2. Ordena por importancia.\n3. Usa un horario.\n4. Empieza por lo importante.\n5. Deja tiempo para descansar.",
+      "truco": "Primero lo importante.",
+      "practica": {
+        "ejercicio": "¿Qué haces primero?",
+        "respuesta": "Una lista."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-051",
+    "titulo": "Metas a corto y largo plazo",
+    "slug": "metas-a-corto-y-largo-plazo-secundaria",
+    "palabras": [
+      "metas",
+      "objetivos",
+      "plan"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Escaleras",
+          "texto": "Cada escalón acerca a la cima."
+        },
+        {
+          "titulo": "GPS",
+          "texto": "Pones destino para saber el camino."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Haz medible: *Leer más.*",
+          "respuesta": "Ejemplo: *Leer 20 páginas cada semana.*"
+        },
+        {
+          "ejercicio": "Da un ejemplo de meta larga.",
+          "respuesta": "Terminar la preparatoria."
+        },
+        {
+          "ejercicio": "Escribe una meta para este mes.",
+          "respuesta": "Debe ser clara y con fecha."
+        }
+      ],
+      "idea": "Llegar a la cima se logra paso a paso. Las metas son esos pasos.",
+      "pizarron": "**Qué es:** una meta es algo que quieres lograr.\n\n**Corto plazo:** días o semanas.\n\n**Largo plazo:** meses o años.\n\n**Buena meta:** clara, medible y con fecha.\n\nMala: *Mejorar en mate.*\n\nBuena: *Sacar 8 en el próximo examen de mate.*",
+      "truco": "Clara, medible y con fecha.",
+      "practica": {
+        "ejercicio": "¿Qué es corto plazo?",
+        "respuesta": "Días o semanas."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-051",
+    "titulo": "Elegir carrera u oficio",
+    "slug": "elegir-carrera-u-oficio-secundaria",
+    "palabras": [
+      "carrera",
+      "oficio",
+      "vocación"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Cruce de caminos",
+          "texto": "Donde se juntan gusto y habilidad."
+        },
+        {
+          "titulo": "Probar antes",
+          "texto": "Conoces un sabor probando un poquito."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Un oficio vale menos?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "¿Puedes cambiar de idea?",
+          "respuesta": "Sí."
+        },
+        {
+          "ejercicio": "Entrevista a alguien sobre su trabajo.",
+          "respuesta": "Anota qué hace y qué le gusta."
+        }
+      ],
+      "idea": "Pregúntate qué te gusta, qué sabes hacer y qué necesita el mundo.",
+      "pizarron": "**Qué es:** elegir carrera u oficio es decidir a qué quieres dedicarte.\n\n**Pregúntate:**\n\n1. ¿Qué me gusta?\n2. ¿En qué soy bueno?\n3. ¿Qué necesita la gente?\n4. ¿Hay trabajo?\n\n**Investiga:** habla con quien lo hace y visita escuelas.\n\nUn oficio vale tanto como una carrera.\n\nPuedes cambiar de idea.",
+      "truco": "Gusto, habilidad y necesidad.",
+      "practica": {
+        "ejercicio": "Di una pregunta útil.",
+        "respuesta": "¿Qué me gusta?"
+      }
+    }
+  }
 ]

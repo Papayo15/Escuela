@@ -1,79 +1,479 @@
 [
-{"nodo_id":"ems-016","titulo":"Resolver cuadráticas por factorización","slug":"resolver-cuadraticas-por-factorizacion-prepa","palabras":["ecuación cuadrática","factorización","producto cero"],"contenido":{
-"idea":"Si dos cosas multiplicadas dan cero, al menos una es cero. Esa idea sencilla resuelve muchas ecuaciones cuadráticas.",
-"pizarron":"Pasos:\n\n1. Iguala a cero.\n2. Factoriza.\n3. Iguala cada factor a 0.\n\nEjemplo:\n\n$$x^2 - 5x = 14$$\n\n$$x^2 - 5x - 14 = 0$$\n\n$$(x - 7)(x + 2) = 0$$\n\n$$x = 7 \\text{ o } x = -2$$\n\nEjemplo con coeficiente:\n\n$$2x^2 + 5x - 3 = 0$$\n\n$$(2x - 1)(x + 3) = 0$$\n\n$$x = \\frac{1}{2} \\text{ o } x = -3$$\n\nNo dividas entre $x$: pierdes soluciones.",
-"truco":"Igualar a cero, factorizar y separar.",
-"practica":{"ejercicio":"Resuelve $x^2 + x - 12 = 0$.","respuesta":"$x = 3$ o $x = -4$."},
-"analogias":[{"titulo":"El interruptor doble","texto":"La luz se apaga si cualquiera de dos switches se apaga."},{"titulo":"Dos puertas","texto":"Salir es posible por una u otra: cada factor abre una solución."}],
-"ejercicios":[{"ejercicio":"Resuelve $x^2 - 7x + 10 = 0$.","respuesta":"$x = 2$ o $x = 5$."},{"ejercicio":"Resuelve $3x^2 - 7x + 2 = 0$.","respuesta":"$x = 2$ o $x = \\frac{1}{3}$."},{"ejercicio":"Resuelve $x^2 = 4x$.","respuesta":"$x = 0$ o $x = 4$."}]}},
-{"nodo_id":"ems-016","titulo":"Resolver cuadráticas completando el trinomio","slug":"resolver-cuadraticas-completando-el-trinomio-prepa","palabras":["completar el trinomio","cuadrado perfecto","ecuación cuadrática"],"contenido":{
-"idea":"Te falta una pieza para formar un cuadrado perfecto. La agregas de ambos lados y la ecuación queda lista para sacar raíz.",
-"pizarron":"Pasos para $x^2 + 6x - 7 = 0$:\n\n1. Pasa el número: $x^2 + 6x = 7$.\n2. Mitad de 6 es 3; al cuadrado es 9. Suma 9 de ambos lados:\n\n$$x^2 + 6x + 9 = 16$$\n\n3. Factoriza: $(x + 3)^2 = 16$.\n4. Saca raíz: $x + 3 = \\pm 4$.\n5. $x = 1$ o $x = -7$.\n\nSi $a \\ne 1$, divide primero entre $a$.\n\nSirve también para encontrar el vértice de una parábola y para demostrar la fórmula general.",
-"truco":"Mitad de b, al cuadrado: esa es la pieza que falta.",
-"practica":{"ejercicio":"¿Qué número completa $x^2 + 10x$?","respuesta":"25"},
-"analogias":[{"titulo":"La pieza faltante","texto":"Un cuadrado de mosaicos está incompleto y agregas la esquina que falta."},{"titulo":"Compensar la balanza","texto":"Agregas la pieza en ambos platos para que siga en equilibrio."}],
-"ejercicios":[{"ejercicio":"Resuelve $x^2 + 4x - 5 = 0$.","respuesta":"$x = 1$ o $x = -5$."},{"ejercicio":"Resuelve $x^2 - 8x + 7 = 0$.","respuesta":"$x = 7$ o $x = 1$."},{"ejercicio":"Completa el cuadrado en $x^2 - 6x$.","respuesta":"$(x - 3)^2 - 9$"}]}},
-{"nodo_id":"ems-016","titulo":"Resolver cuadráticas con fórmula general","slug":"resolver-cuadraticas-con-formula-general-prepa","palabras":["fórmula general","ecuación cuadrática","raíces irracionales"],"contenido":{
-"idea":"Hay ecuaciones que no se dejan factorizar. La fórmula general siempre funciona, incluso cuando la respuesta no es exacta.",
-"pizarron":"$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nEjemplo: $x^2 + 2x - 5 = 0$.\n\n- $a = 1$, $b = 2$, $c = -5$.\n- Discriminante: $4 + 20 = 24$.\n\n$$x = \\frac{-2 \\pm \\sqrt{24}}{2} = \\frac{-2 \\pm 2\\sqrt{6}}{2} = -1 \\pm \\sqrt{6}$$\n\nAproximado: $x \\approx 1.45$ o $x \\approx -3.45$.\n\nAntes de usar la fórmula, escribe en forma $ax^2 + bx + c = 0$.\n\nSimplifica dividiendo todo si se puede: $2x^2 + 4x - 10 = 0$ es $x^2 + 2x - 5 = 0$.",
-"truco":"Escribe primero a, b y c con signos.",
-"practica":{"ejercicio":"Resuelve $x^2 - 4x + 1 = 0$.","respuesta":"$x = 2 \\pm \\sqrt{3}$"},
-"analogias":[{"titulo":"La herramienta universal","texto":"Un buen desarmador multipuntas sirve para muchos tornillos."},{"titulo":"El GPS","texto":"Aunque no conozcas el camino, sigues instrucciones y llegas."}],
-"ejercicios":[{"ejercicio":"Resuelve $2x^2 + x - 6 = 0$.","respuesta":"$x = \\frac{3}{2}$ o $x = -2$."},{"ejercicio":"Resuelve $x^2 + 6x + 4 = 0$.","respuesta":"$x = -3 \\pm \\sqrt{5}$"},{"ejercicio":"Resuelve $3x^2 = 5x + 2$.","respuesta":"$x = 2$ o $x = -\\frac{1}{3}$."}]}},
-{"nodo_id":"ems-016","titulo":"Números complejos en las raíces","slug":"numeros-complejos-en-las-raices-prepa","palabras":["números complejos","i","raíz negativa","discriminante negativo"],"contenido":{
-"idea":"Cuando una parábola no toca el piso, la ecuación no tiene solución real. Los matemáticos inventaron un número nuevo, $i$, para seguir resolviendo.",
-"pizarron":"Definición:\n\n$$i = \\sqrt{-1} \\qquad i^2 = -1$$\n\nUn **número complejo** tiene la forma $a + bi$.\n\nEjemplos:\n\n- $\\sqrt{-16} = 4i$\n- $\\sqrt{-3} = i\\sqrt{3}$\n\nEjemplo: $x^2 + 2x + 5 = 0$.\n\n$$x = \\frac{-2 \\pm \\sqrt{4 - 20}}{2} = \\frac{-2 \\pm 4i}{2} = -1 \\pm 2i$$\n\nLas raíces complejas siempre vienen en parejas conjugadas.\n\nOperaciones: $(2 + 3i) + (1 - i) = 3 + 2i$.",
-"truco":"Saca el menos de la raíz como i.",
-"practica":{"ejercicio":"Calcula $\\sqrt{-25}$.","respuesta":"$5i$"},
-"analogias":[{"titulo":"Un nuevo piso","texto":"Si no caben en la recta, los números se mudan a un plano con otra dimensión."},{"titulo":"Los negativos en su época","texto":"También los negativos parecieron absurdos un tiempo, hasta que resultaron útiles."}],
-"ejercicios":[{"ejercicio":"Resuelve $x^2 + 9 = 0$.","respuesta":"$x = \\pm 3i$"},{"ejercicio":"Resuelve $x^2 - 2x + 2 = 0$.","respuesta":"$x = 1 \\pm i$"},{"ejercicio":"Calcula $i^2$.","respuesta":"-1"}]}},
-{"nodo_id":"ems-019","titulo":"Sistemas por sustitución","slug":"sistemas-por-sustitucion-prepa","palabras":["sistema lineal","sustitución","2x2"],"contenido":{
-"idea":"Una ecuación te dice quién es $y$ en términos de $x$. Metes esa identidad en la otra y queda una sola incógnita.",
-"pizarron":"Ejemplo:\n\n$$\\begin{cases} 3x + 2y = 16 \\\\ x - y = 2 \\end{cases}$$\n\n1. Despeja: $x = y + 2$.\n2. Sustituye:\n\n$$3(y + 2) + 2y = 16$$\n\n3. Resuelve:\n\n$$5y + 6 = 16 \\Rightarrow y = 2$$\n\n4. Regresa: $x = 4$.\n\nConviene despejar la letra con coeficiente 1 o -1.\n\nComprueba en ambas.",
-"truco":"Despeja una, sustituye en la otra, regresa.",
-"practica":{"ejercicio":"Resuelve: $y = 2x$; $x + y = 9$.","respuesta":"$x = 3$, $y = 6$."},
-"analogias":[{"titulo":"La clave secreta","texto":"Un mensaje traduce una letra; con ella lees el otro."},{"titulo":"El relevo","texto":"Una expresión entra al juego en lugar de la letra."}],
-"ejercicios":[{"ejercicio":"Resuelve: $2x + y = 7$; $y = x + 1$.","respuesta":"$x = 2$, $y = 3$."},{"ejercicio":"Resuelve: $x + 3y = 10$; $2x - y = 6$.","respuesta":"$x = 4$, $y = 2$."},{"ejercicio":"Resuelve: $5x - 2y = 1$; $x = y - 1$.","respuesta":"$x = 1$, $y = 2$."}]}},
-{"nodo_id":"ems-019","titulo":"Sistemas por igualación","slug":"sistemas-por-igualacion-prepa","palabras":["sistema lineal","igualación","2x2"],"contenido":{
-"idea":"Dos fórmulas distintas para la misma cosa deben dar lo mismo. Las pones frente a frente y la igualdad resuelve el caso.",
-"pizarron":"Ejemplo:\n\n$$\\begin{cases} 2x + y = 10 \\\\ 3x - y = 5 \\end{cases}$$\n\n1. Despeja $y$ en ambas:\n\n$$y = 10 - 2x \\qquad y = 3x - 5$$\n\n2. Iguala:\n\n$$10 - 2x = 3x - 5$$\n\n3. Resuelve:\n\n$$15 = 5x \\Rightarrow x = 3$$\n\n4. Sustituye: $y = 4$.\n\nConviene si ambas ya están despejadas en la misma letra.",
-"truco":"La misma letra sola en las dos, y a igualar.",
-"practica":{"ejercicio":"Resuelve: $y = x + 4$; $y = 3x$.","respuesta":"$x = 2$, $y = 6$."},
-"analogias":[{"titulo":"Dos precios del mismo producto","texto":"Dos tiendas dicen distinto modo de cobrar; se busca dónde cuestan igual."},{"titulo":"Dos caminos","texto":"Dos rutas se encuentran en un punto: ahí son iguales."}],
-"ejercicios":[{"ejercicio":"Resuelve: $x = 5 - y$; $x = 2y - 1$.","respuesta":"$x = 3$, $y = 2$."},{"ejercicio":"Resuelve: $y = 2x + 1$; $y = -x + 7$.","respuesta":"$x = 2$, $y = 5$."},{"ejercicio":"Plan A: $50 + 3m$. Plan B: $20 + 5m$. ¿Con cuántos mensajes cuestan igual?","respuesta":"15 mensajes."}]}},
-{"nodo_id":"ems-019","titulo":"Sistemas por suma y resta","slug":"sistemas-por-suma-y-resta-prepa","palabras":["sistema lineal","eliminación","reducción"],"contenido":{
-"idea":"Multiplica hasta que una letra tenga coeficientes opuestos. Al sumar, desaparece y queda una sola.",
-"pizarron":"Ejemplo:\n\n$$\\begin{cases} 3x + 2y = 7 \\\\ 2x - 3y = 9 \\end{cases}$$\n\n1. Elimina $y$: primera por 3, segunda por 2.\n\n$$9x + 6y = 21$$\n$$4x - 6y = 18$$\n\n2. Suma:\n\n$$13x = 39 \\Rightarrow x = 3$$\n\n3. Sustituye:\n\n$$9 + 2y = 7 \\Rightarrow y = -1$$\n\nSolución: $(3, -1)$.\n\nCasos: si se elimina todo y queda $0 = 5$, no hay solución; si $0 = 0$, hay infinitas.",
-"truco":"Coeficientes opuestos, suma y una se va.",
-"practica":{"ejercicio":"Resuelve: $x + y = 8$; $x - y = 2$.","respuesta":"$x = 5$, $y = 3$."},
-"analogias":[{"titulo":"La fuerza contraria","texto":"Dos empujes opuestos se anulan y solo queda lo otro."},{"titulo":"Tacha el común","texto":"Si dos cuentas comparten un gasto, comparar deja ver la diferencia."}],
-"ejercicios":[{"ejercicio":"Resuelve: $2x + 3y = 12$; $2x - y = 4$.","respuesta":"$x = 3$, $y = 2$."},{"ejercicio":"Resuelve: $4x + y = 9$; $3x - 2y = 4$.","respuesta":"$x = 2$, $y = 1$."},{"ejercicio":"Resuelve: $x + y = 1$; $2x + 2y = 2$.","respuesta":"Infinitas soluciones."}]}},
-{"nodo_id":"ems-019","titulo":"Determinantes 2x2","slug":"determinantes-2x2-prepa","palabras":["determinante","regla de Cramer","matriz 2x2"],"contenido":{
-"idea":"Un determinante es una cuenta en cruz que convierte una tabla de números en uno solo. Sirve para resolver sistemas directamente.",
-"pizarron":"Determinante:\n\n$$\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = ad - bc$$\n\n**Regla de Cramer** para:\n\n$$\\begin{cases} a_1x + b_1y = c_1 \\\\ a_2x + b_2y = c_2 \\end{cases}$$\n\n$$x = \\frac{D_x}{D} \\qquad y = \\frac{D_y}{D}$$\n\nEjemplo: $2x + y = 7$; $x - y = 2$.\n\n- $D = (2)(-1) - (1)(1) = -3$\n- $D_x = (7)(-1) - (1)(2) = -9$\n- $D_y = (2)(2) - (7)(1) = -3$\n- $x = 3$, $y = 1$.\n\nSi $D = 0$, no hay solución única.",
-"truco":"Baja a la derecha menos sube a la derecha.",
-"practica":{"ejercicio":"Calcula $\\begin{vmatrix} 3 & 2 \\\\ 1 & 4 \\end{vmatrix}$.","respuesta":"$12 - 2 = 10$"},
-"analogias":[{"titulo":"La cruz de la tabla","texto":"Multiplicas en diagonal y restas. Una cuenta resume toda la tabla."},{"titulo":"La fórmula directa","texto":"Como una calculadora: colocas números y salen las respuestas."}],
-"ejercicios":[{"ejercicio":"Calcula $\\begin{vmatrix} 5 & 1 \\\\ 2 & 3 \\end{vmatrix}$.","respuesta":"13"},{"ejercicio":"Con Cramer: $x + y = 5$; $x - y = 1$.","respuesta":"$D = -2$; $x = 3$, $y = 2$."},{"ejercicio":"¿Qué indica $D = 0$?","respuesta":"Que no hay solución única."}]}},
-{"nodo_id":"ems-019","titulo":"Sistemas 3x3 con determinantes","slug":"sistemas-3x3-con-determinantes-prepa","palabras":["sistema 3x3","regla de Sarrus","determinante","Cramer"],"contenido":{
-"idea":"Con tres incógnitas la idea es la misma: un determinante para el sistema y uno por cada letra. La regla de Sarrus organiza las cuentas.",
-"pizarron":"**Regla de Sarrus** para $3 \\times 3$:\n\n$$\\begin{vmatrix} a & b & c \\\\ d & e & f \\\\ g & h & i \\end{vmatrix} = aei + bfg + cdh - ceg - bdi - afh$$\n\nEjemplo:\n\n$$\\begin{vmatrix} 1 & 2 & 3 \\\\ 0 & 1 & 4 \\\\ 5 & 6 & 0 \\end{vmatrix} = 0 + 40 + 0 - 15 - 0 - 24 = 1$$\n\n**Cramer**: $x = \\frac{D_x}{D}$, $y = \\frac{D_y}{D}$, $z = \\frac{D_z}{D}$.\n\nPara $D_x$, cambia la columna de $x$ por los resultados.\n\nComprueba sustituyendo en las tres ecuaciones.",
-"truco":"Tres diagonales suman y tres restan.",
-"practica":{"ejercicio":"Calcula $\\begin{vmatrix} 1 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 3 \\end{vmatrix}$.","respuesta":"6"},
-"analogias":[{"titulo":"Tres caminos","texto":"Tres planos se cruzan en un punto: ese punto es la solución."},{"titulo":"Una tabla más grande","texto":"Es la misma cuenta en cruz, con más diagonales."}],
-"ejercicios":[{"ejercicio":"Calcula $\\begin{vmatrix} 2 & 1 & 0 \\\\ 1 & 1 & 0 \\\\ 0 & 0 & 4 \\end{vmatrix}$.","respuesta":"4"},{"ejercicio":"Resuelve: $x + y + z = 6$; $y + z = 5$; $z = 3$.","respuesta":"$x = 1$, $y = 2$, $z = 3$."},{"ejercicio":"¿Para $D_y$ qué columna se reemplaza?","respuesta":"La columna de $y$."}]}},
-{"nodo_id":"ems-020","titulo":"Distancia entre dos puntos","slug":"distancia-entre-dos-puntos-prepa","palabras":["distancia","plano cartesiano","geometría analítica","Pitágoras"],"contenido":{
-"idea":"Entre dos puntos del plano se forma un triángulo rectángulo escondido. Con Pitágoras mides la línea recta entre ellos.",
-"pizarron":"Fórmula:\n\n$$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n\nEjemplo: $A(1, 2)$ y $B(4, 6)$.\n\n$$d = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$$\n\nCon negativos: $(-2, 3)$ y $(4, -5)$.\n\n$$d = \\sqrt{6^2 + (-8)^2} = \\sqrt{100} = 10$$\n\nEl orden de los puntos no importa.",
-"truco":"Es Pitágoras con coordenadas.",
-"practica":{"ejercicio":"Distancia entre $(0, 0)$ y $(6, 8)$.","respuesta":"10"},
-"analogias":[{"titulo":"El atajo por la plaza","texto":"Cruzas en diagonal, en vez de ir por dos calles."},{"titulo":"El GPS","texto":"Calcula distancias con coordenadas de manera parecida."}],
-"ejercicios":[{"ejercicio":"Distancia entre $(1, 1)$ y $(4, 5)$.","respuesta":"5"},{"ejercicio":"Distancia entre $(-1, 2)$ y $(3, 2)$.","respuesta":"4"},{"ejercicio":"Distancia entre $(2, -3)$ y $(7, 9)$.","respuesta":"13"}]}},
-{"nodo_id":"ems-020","titulo":"Punto medio","slug":"punto-medio-prepa","palabras":["punto medio","segmento","promedio","coordenadas"],"contenido":{
-"idea":"El punto medio es el lugar justo para que dos amigos que viven en distintas casas caminen lo mismo. Sus coordenadas son promedios.",
-"pizarron":"Fórmula:\n\n$$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$$\n\nEjemplo: $A(2, 3)$ y $B(8, 9)$.\n\n$$M = (5, 6)$$\n\nEncontrar un extremo: si $M(3, 4)$ y $A(1, 2)$, entonces:\n\n$$\\frac{1 + x}{2} = 3 \\Rightarrow x = 5$$\n$$\\frac{2 + y}{2} = 4 \\Rightarrow y = 6$$\n\n$B(5, 6)$.",
-"truco":"Promedio de equis y promedio de ye.",
-"practica":{"ejercicio":"Punto medio de $(0, 0)$ y $(6, 10)$.","respuesta":"$(3, 5)$"},
-"analogias":[{"titulo":"El punto de encuentro","texto":"Cada uno camina la misma distancia desde su casa."},{"titulo":"Promedio de calificaciones","texto":"Es el mismo promedio, pero de dos ubicaciones."}],
-"ejercicios":[{"ejercicio":"Punto medio de $(-2, 4)$ y $(6, 8)$.","respuesta":"$(2, 6)$"},{"ejercicio":"Punto medio de $(1, -5)$ y $(3, 5)$.","respuesta":"$(2, 0)$"},{"ejercicio":"$M(4, 1)$ y $A(2, 3)$. Encuentra $B$.","respuesta":"$(6, -1)$"}]}}
+{
+"nodo_id": "ems-016",
+"titulo": "Resolver cuadráticas por factorización",
+"slug": "resolver-cuadraticas-por-factorizacion-prepa",
+"palabras": [
+"ecuación cuadrática",
+"factorización",
+"producto cero"
+],
+"contenido": {
+"idea": "Si dos cosas multiplicadas dan cero, al menos una es cero. Esa idea sencilla resuelve muchas ecuaciones cuadráticas.",
+"pizarron": "**La regla:** si $ab = 0$, entonces $a = 0$ o $b = 0$.\n\nPasos:\n\n1. Iguala a cero.\n2. Factoriza.\n3. Iguala cada factor a 0.\n\nEjemplo:\n\n$$x^2 - 5x = 14$$\n\n$$x^2 - 5x - 14 = 0$$\n\n$$(x - 7)(x + 2) = 0$$\n\n$$x = 7 \\text{ o } x = -2$$\n\nEjemplo con coeficiente:\n\n$$2x^2 + 5x - 3 = 0$$\n\n$$(2x - 1)(x + 3) = 0$$\n\n$$x = \\frac{1}{2} \\text{ o } x = -3$$\n\nNo dividas entre $x$: pierdes soluciones.",
+"truco": "Igualar a cero, factorizar y separar.",
+"practica": {
+"ejercicio": "Resuelve $x^2 + x - 12 = 0$.",
+"respuesta": "$x = 3$ o $x = -4$."
+},
+"analogias": [
+{
+"titulo": "El interruptor doble",
+"texto": "La luz se apaga si cualquiera de dos switches se apaga."
+},
+{
+"titulo": "Dos puertas",
+"texto": "Salir es posible por una u otra: cada factor abre una solución."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $x^2 - 7x + 10 = 0$.",
+"respuesta": "$x = 2$ o $x = 5$."
+},
+{
+"ejercicio": "Resuelve $3x^2 - 7x + 2 = 0$.",
+"respuesta": "$x = 2$ o $x = \\frac{1}{3}$."
+},
+{
+"ejercicio": "Resuelve $x^2 = 4x$.",
+"respuesta": "$x = 0$ o $x = 4$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-016",
+"titulo": "Resolver cuadráticas completando el trinomio",
+"slug": "resolver-cuadraticas-completando-el-trinomio-prepa",
+"palabras": [
+"completar el trinomio",
+"cuadrado perfecto",
+"ecuación cuadrática"
+],
+"contenido": {
+"idea": "Te falta una pieza para formar un cuadrado perfecto. La agregas de ambos lados y la ecuación queda lista para sacar raíz.",
+"pizarron": "**La regla:** suma $(\\frac{b}{2})^2$ en ambos lados para formar un cuadrado perfecto.\n\n**Ejemplo:** $x^2 + 6x - 7 = 0$.\n\n1. Pasa el número: $x^2 + 6x = 7$.\n2. La mitad de 6 es 3, y al cuadrado es 9. Suma 9: $x^2 + 6x + 9 = 16$.\n3. Factoriza: $(x + 3)^2 = 16$.\n4. Saca raíz: $x + 3 = \\pm 4$.\n5. Resultado: $x = 1$ o $x = -7$.\n\nSi $a \\ne 1$, divide primero entre $a$.\n\n**Para tu escuela:** resuelve $x^2 + 4x - 5 = 0$.",
+"truco": "Mitad de b, al cuadrado: esa es la pieza que falta.",
+"practica": {
+"ejercicio": "¿Qué número completa $x^2 + 10x$?",
+"respuesta": "25"
+},
+"analogias": [
+{
+"titulo": "La pieza faltante",
+"texto": "Un cuadrado de mosaicos está incompleto y agregas la esquina que falta."
+},
+{
+"titulo": "Compensar la balanza",
+"texto": "Agregas la pieza en ambos platos para que siga en equilibrio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $x^2 + 4x - 5 = 0$.",
+"respuesta": "$x = 1$ o $x = -5$."
+},
+{
+"ejercicio": "Resuelve $x^2 - 8x + 7 = 0$.",
+"respuesta": "$x = 7$ o $x = 1$."
+},
+{
+"ejercicio": "Completa el cuadrado en $x^2 - 6x$.",
+"respuesta": "$(x - 3)^2 - 9$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-016",
+"titulo": "Resolver cuadráticas con fórmula general",
+"slug": "resolver-cuadraticas-con-formula-general-prepa",
+"palabras": [
+"fórmula general",
+"ecuación cuadrática",
+"raíces irracionales"
+],
+"contenido": {
+"idea": "Hay ecuaciones que no se dejan factorizar. La fórmula general siempre funciona, incluso cuando la respuesta no es exacta.",
+"pizarron": "**La regla:** $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nEjemplo: $x^2 + 2x - 5 = 0$.\n\n- $a = 1$, $b = 2$, $c = -5$.\n- Discriminante: $4 + 20 = 24$.\n\n$$x = \\frac{-2 \\pm \\sqrt{24}}{2} = \\frac{-2 \\pm 2\\sqrt{6}}{2} = -1 \\pm \\sqrt{6}$$\n\nAproximado: $x \\approx 1.45$ o $x \\approx -3.45$.\n\nAntes de usar la fórmula, escribe en forma $ax^2 + bx + c = 0$.\n\nSimplifica dividiendo todo si se puede: $2x^2 + 4x - 10 = 0$ es $x^2 + 2x - 5 = 0$.",
+"truco": "Escribe primero a, b y c con signos.",
+"practica": {
+"ejercicio": "Resuelve $x^2 - 4x + 1 = 0$.",
+"respuesta": "$x = 2 \\pm \\sqrt{3}$"
+},
+"analogias": [
+{
+"titulo": "La herramienta universal",
+"texto": "Un buen desarmador multipuntas sirve para muchos tornillos."
+},
+{
+"titulo": "El GPS",
+"texto": "Aunque no conozcas el camino, sigues instrucciones y llegas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $2x^2 + x - 6 = 0$.",
+"respuesta": "$x = \\frac{3}{2}$ o $x = -2$."
+},
+{
+"ejercicio": "Resuelve $x^2 + 6x + 4 = 0$.",
+"respuesta": "$x = -3 \\pm \\sqrt{5}$"
+},
+{
+"ejercicio": "Resuelve $3x^2 = 5x + 2$.",
+"respuesta": "$x = 2$ o $x = -\\frac{1}{3}$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-016",
+"titulo": "Números complejos en las raíces",
+"slug": "numeros-complejos-en-las-raices-prepa",
+"palabras": [
+"números complejos",
+"i",
+"raíz negativa",
+"discriminante negativo"
+],
+"contenido": {
+"idea": "Cuando una parábola no toca el piso, la ecuación no tiene solución real. Los matemáticos inventaron un número nuevo, $i$, para seguir resolviendo.",
+"pizarron": "**Qué es:** si el discriminante es negativo, las raíces son complejas: se usa $i = \\sqrt{-1}$.\n\nDefinición:\n\n$$i = \\sqrt{-1} \\qquad i^2 = -1$$\n\nUn **número complejo** tiene la forma $a + bi$.\n\nEjemplos:\n\n- $\\sqrt{-16} = 4i$\n- $\\sqrt{-3} = i\\sqrt{3}$\n\nEjemplo: $x^2 + 2x + 5 = 0$.\n\n$$x = \\frac{-2 \\pm \\sqrt{4 - 20}}{2} = \\frac{-2 \\pm 4i}{2} = -1 \\pm 2i$$\n\nLas raíces complejas siempre vienen en parejas conjugadas.\n\nOperaciones: $(2 + 3i) + (1 - i) = 3 + 2i$.",
+"truco": "Saca el menos de la raíz como i.",
+"practica": {
+"ejercicio": "Calcula $\\sqrt{-25}$.",
+"respuesta": "$5i$"
+},
+"analogias": [
+{
+"titulo": "Un nuevo piso",
+"texto": "Si no caben en la recta, los números se mudan a un plano con otra dimensión."
+},
+{
+"titulo": "Los negativos en su época",
+"texto": "También los negativos parecieron absurdos un tiempo, hasta que resultaron útiles."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $x^2 + 9 = 0$.",
+"respuesta": "$x = \\pm 3i$"
+},
+{
+"ejercicio": "Resuelve $x^2 - 2x + 2 = 0$.",
+"respuesta": "$x = 1 \\pm i$"
+},
+{
+"ejercicio": "Calcula $i^2$.",
+"respuesta": "-1"
+}
+]
+}
+},
+{
+"nodo_id": "ems-019",
+"titulo": "Sistemas por sustitución",
+"slug": "sistemas-por-sustitucion-prepa",
+"palabras": [
+"sistema lineal",
+"sustitución",
+"2x2"
+],
+"contenido": {
+"idea": "Una ecuación te dice quién es $y$ en términos de $x$. Metes esa identidad en la otra y queda una sola incógnita.",
+"pizarron": "**La regla:** despeja una variable y cámbiala en la otra ecuación.\n\nEjemplo:\n\n$$\\begin{cases} 3x + 2y = 16 \\\\ x - y = 2 \\end{cases}$$\n\n1. Despeja: $x = y + 2$.\n2. Sustituye:\n\n$$3(y + 2) + 2y = 16$$\n\n3. Resuelve:\n\n$$5y + 6 = 16 \\Rightarrow y = 2$$\n\n4. Regresa: $x = 4$.\n\nConviene despejar la letra con coeficiente 1 o -1.\n\nComprueba en ambas.",
+"truco": "Despeja una, sustituye en la otra, regresa.",
+"practica": {
+"ejercicio": "Resuelve: $y = 2x$; $x + y = 9$.",
+"respuesta": "$x = 3$, $y = 6$."
+},
+"analogias": [
+{
+"titulo": "La clave secreta",
+"texto": "Un mensaje traduce una letra; con ella lees el otro."
+},
+{
+"titulo": "El relevo",
+"texto": "Una expresión entra al juego en lugar de la letra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve: $2x + y = 7$; $y = x + 1$.",
+"respuesta": "$x = 2$, $y = 3$."
+},
+{
+"ejercicio": "Resuelve: $x + 3y = 10$; $2x - y = 6$.",
+"respuesta": "$x = 4$, $y = 2$."
+},
+{
+"ejercicio": "Resuelve: $5x - 2y = 1$; $x = y - 1$.",
+"respuesta": "$x = 1$, $y = 2$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-019",
+"titulo": "Sistemas por igualación",
+"slug": "sistemas-por-igualacion-prepa",
+"palabras": [
+"sistema lineal",
+"igualación",
+"2x2"
+],
+"contenido": {
+"idea": "Dos fórmulas distintas para la misma cosa deben dar lo mismo. Las pones frente a frente y la igualdad resuelve el caso.",
+"pizarron": "**La regla:** despeja la misma variable en ambas ecuaciones e iguala.\n\nEjemplo:\n\n$$\\begin{cases} 2x + y = 10 \\\\ 3x - y = 5 \\end{cases}$$\n\n1. Despeja $y$ en ambas:\n\n$$y = 10 - 2x \\qquad y = 3x - 5$$\n\n2. Iguala:\n\n$$10 - 2x = 3x - 5$$\n\n3. Resuelve:\n\n$$15 = 5x \\Rightarrow x = 3$$\n\n4. Sustituye: $y = 4$.\n\nConviene si ambas ya están despejadas en la misma letra.",
+"truco": "La misma letra sola en las dos, y a igualar.",
+"practica": {
+"ejercicio": "Resuelve: $y = x + 4$; $y = 3x$.",
+"respuesta": "$x = 2$, $y = 6$."
+},
+"analogias": [
+{
+"titulo": "Dos precios del mismo producto",
+"texto": "Dos tiendas dicen distinto modo de cobrar; se busca dónde cuestan igual."
+},
+{
+"titulo": "Dos caminos",
+"texto": "Dos rutas se encuentran en un punto: ahí son iguales."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve: $x = 5 - y$; $x = 2y - 1$.",
+"respuesta": "$x = 3$, $y = 2$."
+},
+{
+"ejercicio": "Resuelve: $y = 2x + 1$; $y = -x + 7$.",
+"respuesta": "$x = 2$, $y = 5$."
+},
+{
+"ejercicio": "Plan A: $50 + 3m$. Plan B: $20 + 5m$. ¿Con cuántos mensajes cuestan igual?",
+"respuesta": "15 mensajes."
+}
+]
+}
+},
+{
+"nodo_id": "ems-019",
+"titulo": "Sistemas por suma y resta",
+"slug": "sistemas-por-suma-y-resta-prepa",
+"palabras": [
+"sistema lineal",
+"eliminación",
+"reducción"
+],
+"contenido": {
+"idea": "Multiplica hasta que una letra tenga coeficientes opuestos. Al sumar, desaparece y queda una sola.",
+"pizarron": "**La regla:** multiplica las ecuaciones para que una variable se cancele al sumar.\n\nEjemplo:\n\n$$\\begin{cases} 3x + 2y = 7 \\\\ 2x - 3y = 9 \\end{cases}$$\n\n1. Elimina $y$: primera por 3, segunda por 2.\n\n$$9x + 6y = 21$$\n$$4x - 6y = 18$$\n\n2. Suma:\n\n$$13x = 39 \\Rightarrow x = 3$$\n\n3. Sustituye:\n\n$$9 + 2y = 7 \\Rightarrow y = -1$$\n\nSolución: $(3, -1)$.\n\nCasos: si se elimina todo y queda $0 = 5$, no hay solución; si $0 = 0$, hay infinitas.",
+"truco": "Coeficientes opuestos, suma y una se va.",
+"practica": {
+"ejercicio": "Resuelve: $x + y = 8$; $x - y = 2$.",
+"respuesta": "$x = 5$, $y = 3$."
+},
+"analogias": [
+{
+"titulo": "La fuerza contraria",
+"texto": "Dos empujes opuestos se anulan y solo queda lo otro."
+},
+{
+"titulo": "Tacha el común",
+"texto": "Si dos cuentas comparten un gasto, comparar deja ver la diferencia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve: $2x + 3y = 12$; $2x - y = 4$.",
+"respuesta": "$x = 3$, $y = 2$."
+},
+{
+"ejercicio": "Resuelve: $4x + y = 9$; $3x - 2y = 4$.",
+"respuesta": "$x = 2$, $y = 1$."
+},
+{
+"ejercicio": "Resuelve: $x + y = 1$; $2x + 2y = 2$.",
+"respuesta": "Infinitas soluciones."
+}
+]
+}
+},
+{
+"nodo_id": "ems-019",
+"titulo": "Determinantes 2x2",
+"slug": "determinantes-2x2-prepa",
+"palabras": [
+"determinante",
+"regla de Cramer",
+"matriz 2x2"
+],
+"contenido": {
+"idea": "Un determinante es una cuenta en cruz que convierte una tabla de números en uno solo. Sirve para resolver sistemas directamente.",
+"pizarron": "**La regla:** el determinante de $\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$ es $ad - bc$.\n\nDeterminante:\n\n$$\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = ad - bc$$\n\n**Regla de Cramer** para:\n\n$$\\begin{cases} a_1x + b_1y = c_1 \\\\ a_2x + b_2y = c_2 \\end{cases}$$\n\n$$x = \\frac{D_x}{D} \\qquad y = \\frac{D_y}{D}$$\n\nEjemplo: $2x + y = 7$; $x - y = 2$.\n\n- $D = (2)(-1) - (1)(1) = -3$\n- $D_x = (7)(-1) - (1)(2) = -9$\n- $D_y = (2)(2) - (7)(1) = -3$\n- $x = 3$, $y = 1$.\n\nSi $D = 0$, no hay solución única.",
+"truco": "Baja a la derecha menos sube a la derecha.",
+"practica": {
+"ejercicio": "Calcula $\\begin{vmatrix} 3 & 2 \\\\ 1 & 4 \\end{vmatrix}$.",
+"respuesta": "$12 - 2 = 10$"
+},
+"analogias": [
+{
+"titulo": "La cruz de la tabla",
+"texto": "Multiplicas en diagonal y restas. Una cuenta resume toda la tabla."
+},
+{
+"titulo": "La fórmula directa",
+"texto": "Como una calculadora: colocas números y salen las respuestas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula $\\begin{vmatrix} 5 & 1 \\\\ 2 & 3 \\end{vmatrix}$.",
+"respuesta": "13"
+},
+{
+"ejercicio": "Con Cramer: $x + y = 5$; $x - y = 1$.",
+"respuesta": "$D = -2$; $x = 3$, $y = 2$."
+},
+{
+"ejercicio": "¿Qué indica $D = 0$?",
+"respuesta": "Que no hay solución única."
+}
+]
+}
+},
+{
+"nodo_id": "ems-019",
+"titulo": "Sistemas 3x3 con determinantes",
+"slug": "sistemas-3x3-con-determinantes-prepa",
+"palabras": [
+"sistema 3x3",
+"regla de Sarrus",
+"determinante",
+"Cramer"
+],
+"contenido": {
+"idea": "Con tres incógnitas la idea es la misma: un determinante para el sistema y uno por cada letra. La regla de Sarrus organiza las cuentas.",
+"pizarron": "**La regla (Cramer):** cada incógnita es un determinante entre el determinante principal.\n\n**Regla de Sarrus** para $3 \\times 3$:\n\n$$\\begin{vmatrix} a & b & c \\\\ d & e & f \\\\ g & h & i \\end{vmatrix} = aei + bfg + cdh - ceg - bdi - afh$$\n\nEjemplo:\n\n$$\\begin{vmatrix} 1 & 2 & 3 \\\\ 0 & 1 & 4 \\\\ 5 & 6 & 0 \\end{vmatrix} = 0 + 40 + 0 - 15 - 0 - 24 = 1$$\n\n**Cramer**: $x = \\frac{D_x}{D}$, $y = \\frac{D_y}{D}$, $z = \\frac{D_z}{D}$.\n\nPara $D_x$, cambia la columna de $x$ por los resultados.\n\nComprueba sustituyendo en las tres ecuaciones.",
+"truco": "Tres diagonales suman y tres restan.",
+"practica": {
+"ejercicio": "Calcula $\\begin{vmatrix} 1 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 3 \\end{vmatrix}$.",
+"respuesta": "6"
+},
+"analogias": [
+{
+"titulo": "Tres caminos",
+"texto": "Tres planos se cruzan en un punto: ese punto es la solución."
+},
+{
+"titulo": "Una tabla más grande",
+"texto": "Es la misma cuenta en cruz, con más diagonales."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula $\\begin{vmatrix} 2 & 1 & 0 \\\\ 1 & 1 & 0 \\\\ 0 & 0 & 4 \\end{vmatrix}$.",
+"respuesta": "4"
+},
+{
+"ejercicio": "Resuelve: $x + y + z = 6$; $y + z = 5$; $z = 3$.",
+"respuesta": "$x = 1$, $y = 2$, $z = 3$."
+},
+{
+"ejercicio": "¿Para $D_y$ qué columna se reemplaza?",
+"respuesta": "La columna de $y$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-020",
+"titulo": "Distancia entre dos puntos",
+"slug": "distancia-entre-dos-puntos-prepa",
+"palabras": [
+"distancia",
+"plano cartesiano",
+"geometría analítica",
+"Pitágoras"
+],
+"contenido": {
+"idea": "Entre dos puntos del plano se forma un triángulo rectángulo escondido. Con Pitágoras mides la línea recta entre ellos.",
+"pizarron": "**La regla:** $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. Es Pitágoras en el plano.\n\nFórmula:\n\n$$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n\nEjemplo: $A(1, 2)$ y $B(4, 6)$.\n\n$$d = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$$\n\nCon negativos: $(-2, 3)$ y $(4, -5)$.\n\n$$d = \\sqrt{6^2 + (-8)^2} = \\sqrt{100} = 10$$\n\nEl orden de los puntos no importa.",
+"truco": "Es Pitágoras con coordenadas.",
+"practica": {
+"ejercicio": "Distancia entre $(0, 0)$ y $(6, 8)$.",
+"respuesta": "10"
+},
+"analogias": [
+{
+"titulo": "El atajo por la plaza",
+"texto": "Cruzas en diagonal, en vez de ir por dos calles."
+},
+{
+"titulo": "El GPS",
+"texto": "Calcula distancias con coordenadas de manera parecida."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Distancia entre $(1, 1)$ y $(4, 5)$.",
+"respuesta": "5"
+},
+{
+"ejercicio": "Distancia entre $(-1, 2)$ y $(3, 2)$.",
+"respuesta": "4"
+},
+{
+"ejercicio": "Distancia entre $(2, -3)$ y $(7, 9)$.",
+"respuesta": "13"
+}
+]
+}
+},
+{
+"nodo_id": "ems-020",
+"titulo": "Punto medio",
+"slug": "punto-medio-prepa",
+"palabras": [
+"punto medio",
+"segmento",
+"promedio",
+"coordenadas"
+],
+"contenido": {
+"idea": "El punto medio es el lugar justo para que dos amigos que viven en distintas casas caminen lo mismo. Sus coordenadas son promedios.",
+"pizarron": "**La regla:** el punto medio es el promedio de las coordenadas: $M = (\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})$.\n\nFórmula:\n\n$$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$$\n\nEjemplo: $A(2, 3)$ y $B(8, 9)$.\n\n$$M = (5, 6)$$\n\nEncontrar un extremo: si $M(3, 4)$ y $A(1, 2)$, entonces:\n\n$$\\frac{1 + x}{2} = 3 \\Rightarrow x = 5$$\n$$\\frac{2 + y}{2} = 4 \\Rightarrow y = 6$$\n\n$B(5, 6)$.",
+"truco": "Promedio de equis y promedio de ye.",
+"practica": {
+"ejercicio": "Punto medio de $(0, 0)$ y $(6, 10)$.",
+"respuesta": "$(3, 5)$"
+},
+"analogias": [
+{
+"titulo": "El punto de encuentro",
+"texto": "Cada uno camina la misma distancia desde su casa."
+},
+{
+"titulo": "Promedio de calificaciones",
+"texto": "Es el mismo promedio, pero de dos ubicaciones."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Punto medio de $(-2, 4)$ y $(6, 8)$.",
+"respuesta": "$(2, 6)$"
+},
+{
+"ejercicio": "Punto medio de $(1, -5)$ y $(3, 5)$.",
+"respuesta": "$(2, 0)$"
+},
+{
+"ejercicio": "$M(4, 1)$ y $A(2, 3)$. Encuentra $B$.",
+"respuesta": "$(6, -1)$"
+}
+]
+}
+}
 ]

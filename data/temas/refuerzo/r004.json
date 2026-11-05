@@ -1,72 +1,455 @@
 [
-{"nodo_id":"f3-041","titulo":"Multiplicar es sumar varias veces","slug":"multiplicar-es-sumar-varias-veces-primaria","palabras":["multiplicación","suma repetida","veces","grupos","por"],"contenido":{
-"idea":"Si cada uno de tus 4 amigos trae 3 dulces, podrías sumar 3 + 3 + 3 + 3. Multiplicar es el atajo: 4 veces 3 son 12.",
-"pizarron":"**Multiplicar** es sumar el mismo número varias veces.\n\n3 + 3 + 3 + 3 = 12 se escribe **4 × 3 = 12**.\n\nPartes:\n\n- 4 y 3 son los **factores**.\n- 12 es el **producto**.\n\nSe lee: cuatro por tres, o cuatro veces tres.\n\nSe puede dibujar como un **arreglo**: 4 filas de 3 puntos.\n\n```\n• • •\n• • •\n• • •\n• • •\n```\n\nEl orden no importa: 4 × 3 y 3 × 4 dan 12.\n\nReglas especiales:\n\n- Por 1 queda igual: 7 × 1 = 7.\n- Por 0 da 0: 7 × 0 = 0.",
-"truco":"Lee × como la palabra veces: 3 × 5 es 3 veces 5.",
-"practica":{"ejercicio":"Escribe como multiplicación: 5 + 5 + 5","respuesta":"3 × 5 = 15"},
-"analogias":[{"titulo":"Los asientos del cine","texto":"Si hay 6 filas de 10 asientos, no cuentas uno por uno: 6 × 10 = 60. Las filas son como los grupos."},{"titulo":"El paquete de yogur","texto":"Un paquete trae 4 yogures. Tres paquetes traen 4 + 4 + 4. Multiplicar es contar paquetes en vez de yogures."}],
-"ejercicios":[{"ejercicio":"Escribe como suma: 4 × 2","respuesta":"2 + 2 + 2 + 2 = 8"},{"ejercicio":"Escribe como multiplicación: 6 + 6 + 6 + 6 + 6","respuesta":"5 × 6 = 30"},{"ejercicio":"Dibujas 3 filas con 5 estrellas. ¿Cuántas hay?","respuesta":"3 × 5 = 15 estrellas."}]}},
-{"nodo_id":"f3-041","titulo":"Tablas del 1 y del 10","slug":"tablas-del-1-y-del-10-primaria","palabras":["multiplicar por 1","multiplicar por 10","tabla del uno","tabla del diez","agregar un cero"],"contenido":{
-"idea":"Multiplicar por 1 es como mirarte en el espejo: sale el mismo número. Multiplicar por 10 es ponerle un cero de sombrero al final.",
-"pizarron":"**Tabla del 1**: cualquier número por 1 da el mismo número.\n\n- 1 × 4 = 4\n- 1 × 9 = 9\n\n**Tabla del 10**: agrega un cero al número.\n\n- 10 × 1 = 10\n- 10 × 2 = 20\n- 10 × 3 = 30\n- 10 × 4 = 40\n- 10 × 5 = 50\n- 10 × 6 = 60\n- 10 × 7 = 70\n- 10 × 8 = 80\n- 10 × 9 = 90\n- 10 × 10 = 100\n\nTambién funciona con números más grandes: 10 × 34 = 340.",
-"truco":"Por 10, agrega un cero. Por 1, nada cambia.",
-"practica":{"ejercicio":"¿Cuánto es 10 × 8 y cuánto 1 × 8?","respuesta":"10 × 8 = 80 y 1 × 8 = 8."},
-"analogias":[{"titulo":"Los billetes de 10","texto":"Si tienes 7 monedas de 10 pesos, tienes 70 pesos. Ves el 7, le agregas el cero y ya está."},{"titulo":"Una sola caja","texto":"Si solo hay una caja con 6 lápices, tienes 6 lápices. Una sola vez un número es ese mismo número."}],
-"ejercicios":[{"ejercicio":"¿Cuánto es 10 × 12?","respuesta":"120"},{"ejercicio":"¿Cuánto es 1 × 25?","respuesta":"25"},{"ejercicio":"Compras 9 cuadernos de 10 pesos. ¿Cuánto pagas?","respuesta":"9 × 10 = 90 pesos."}]}},
-{"nodo_id":"f3-041","titulo":"Dividir es repartir en partes iguales","slug":"dividir-es-repartir-en-partes-iguales-primaria","palabras":["división","repartir","partes iguales","entre","cociente","dividendo","divisor"],"contenido":{
-"idea":"Tienes 12 galletas y 3 amigos. Das una a cada uno, una y otra vez, hasta acabarlas. Cada quien recibe 4. Dividir es repartir parejo.",
-"pizarron":"**Dividir** es repartir una cantidad en partes iguales.\n\n12 ÷ 3 = 4 se lee: doce entre tres es igual a cuatro.\n\nPartes:\n\n- **Dividendo** (12): lo que se reparte.\n- **Divisor** (3): entre cuántos se reparte.\n- **Cociente** (4): lo que toca a cada uno.\n\nTambién se escribe en la casita:\n\n```\n     4\n   ____\n3 ) 12\n```\n\nLa división se relaciona con la multiplicación: como 3 × 4 = 12, entonces 12 ÷ 3 = 4.\n\nReglas: un número entre 1 da el mismo número, y un número entre sí mismo da 1. No se puede dividir entre 0.",
-"truco":"Dividir pregunta: ¿qué número por el divisor me da el dividendo?",
-"practica":{"ejercicio":"Reparte 15 lápices entre 5 niños. ¿Cuántos le tocan a cada uno?","respuesta":"15 ÷ 5 = 3 lápices."},
-"analogias":[{"titulo":"La pizza","texto":"Una pizza de 8 rebanadas para 4 personas: a cada quien le tocan 2. Si lo haces parejo, nadie se queja."},{"titulo":"Repartir las cartas","texto":"Al jugar, das una carta a cada quien, dando vueltas hasta acabar. Cada jugador termina con la misma cantidad."}],
-"ejercicios":[{"ejercicio":"Resuelve 18 ÷ 2","respuesta":"9"},{"ejercicio":"En 20 ÷ 4 = 5, ¿cuál es el divisor?","respuesta":"El 4."},{"ejercicio":"Hay 24 sillas en 6 filas iguales. ¿Cuántas sillas por fila?","respuesta":"24 ÷ 6 = 4 sillas."}]}},
-{"nodo_id":"f3-041","titulo":"División exacta con las tablas","slug":"division-exacta-con-las-tablas-primaria","palabras":["división exacta","usar tablas","operación inversa","dividir sin residuo"],"contenido":{
-"idea":"La división es la tabla de multiplicar vista al revés. Si conoces 6 × 7 = 42, ya sabes dos divisiones más: 42 entre 6 y 42 entre 7.",
-"pizarron":"Una división es **exacta** cuando no sobra nada.\n\nPara resolverla con las tablas:\n\n1. Mira el divisor.\n2. Busca en su tabla el dividendo.\n3. El número por el que multiplicaste es la respuesta.\n\nEjemplo: 56 ÷ 8\n\n- Tabla del 8: 8 × 1 = 8, ... 8 × 7 = **56**.\n- Respuesta: 7.\n\nFamilias de operaciones. Con 3, 9 y 27:\n\n- 3 × 9 = 27\n- 9 × 3 = 27\n- 27 ÷ 3 = 9\n- 27 ÷ 9 = 3\n\nComprueba multiplicando: cociente × divisor = dividendo.",
-"truco":"Para dividir, pregúntate: ¿qué número por el divisor da el dividendo?",
-"practica":{"ejercicio":"Resuelve 35 ÷ 7","respuesta":"5, porque 7 × 5 = 35."},
-"analogias":[{"titulo":"El camino de regreso","texto":"Multiplicar es caminar a la tienda y dividir es regresar a casa por la misma calle. Las tablas son el mismo camino."},{"titulo":"La llave y el candado","texto":"Multiplicar cierra el candado y dividir lo abre. La misma tabla sirve de llave para las dos cosas."}],
-"ejercicios":[{"ejercicio":"Resuelve 48 ÷ 6","respuesta":"8"},{"ejercicio":"Resuelve 63 ÷ 9","respuesta":"7"},{"ejercicio":"Escribe las dos divisiones de 4 × 6 = 24.","respuesta":"24 ÷ 4 = 6 y 24 ÷ 6 = 4."}]}},
-{"nodo_id":"f3-041","titulo":"Problemas de multiplicación","slug":"problemas-de-multiplicacion-primaria","palabras":["problemas","grupos iguales","cada uno","veces","total"],"contenido":{
-"idea":"Un problema de multiplicación es una historia con grupos iguales. Si cada grupo tiene lo mismo, no necesitas sumar: multiplicas.",
-"pizarron":"Pistas de multiplicación: *cada uno*, *cada caja*, *por*, *veces*, *filas de*.\n\nPasos:\n\n1. Busca cuántos **grupos** hay.\n2. Busca cuánto hay en **cada** grupo.\n3. Multiplica.\n4. Responde con la unidad.\n\nEjemplo: Hay 5 cajas con 8 mangos cada una. ¿Cuántos mangos hay?\n\n- Grupos: 5 cajas.\n- En cada grupo: 8 mangos.\n- 5 × 8 = 40.\n- Respuesta: **40 mangos**.\n\nOtro ejemplo: Una entrada cuesta 9 pesos. ¿Cuánto cuestan 6?\n\n- 6 × 9 = 54 pesos.",
-"truco":"Si oyes cada uno y quieren el total, multiplica.",
-"practica":{"ejercicio":"Un paquete trae 6 lápices. ¿Cuántos lápices hay en 7 paquetes?","respuesta":"7 × 6 = 42 lápices."},
-"analogias":[{"titulo":"Las mesas de la fiesta","texto":"Para una fiesta hay mesas iguales con las mismas sillas. No cuentas silla por silla: mesas por sillas de cada mesa."},{"titulo":"El camión escolar","texto":"Si 4 camiones llevan 30 alumnos cada uno, multiplicas para saber cuántos viajan, sin contar cabezas."}],
-"ejercicios":[{"ejercicio":"Una semana tiene 7 días. ¿Cuántos días hay en 4 semanas?","respuesta":"4 × 7 = 28 días."},{"ejercicio":"Cada mesa tiene 4 patas. ¿Cuántas patas tienen 9 mesas?","respuesta":"9 × 4 = 36 patas."},{"ejercicio":"Un kilo de naranjas cuesta 8 pesos. ¿Cuánto cuestan 5 kilos?","respuesta":"5 × 8 = 40 pesos."}]}},
-{"nodo_id":"f3-041","titulo":"Problemas de reparto","slug":"problemas-de-reparto-primaria","palabras":["problemas de división","repartir","a cada uno","partes iguales","cuántos grupos"],"contenido":{
-"idea":"Un problema de reparto es una historia de justicia: hay que dar lo mismo a todos. La división te dice cuánto le toca a cada quien.",
-"pizarron":"La división resuelve dos tipos de problema:\n\n1. **Repartir**: ya sabes cuántos grupos hay. ¿Cuánto toca a cada uno?\n   - 20 dulces entre 4 niños: 20 ÷ 4 = 5 dulces.\n2. **Agrupar**: sabes cuánto va en cada grupo. ¿Cuántos grupos salen?\n   - 30 huevos en cajas de 6: 30 ÷ 6 = 5 cajas.\n\nPistas: *repartir*, *a cada uno*, *en partes iguales*, *cuántos grupos*.\n\nPasos:\n\n1. Identifica el total.\n2. Identifica entre cuánto se divide.\n3. Divide.\n4. Comprueba multiplicando.\n\nEjemplo: 5 × 4 = 20. Está bien.",
-"truco":"Parte de un total y quieren lo de cada uno: divide.",
-"practica":{"ejercicio":"Hay 36 alumnos y se forman 4 equipos iguales. ¿Cuántos alumnos hay por equipo?","respuesta":"36 ÷ 4 = 9 alumnos."},
-"analogias":[{"titulo":"La herencia del juego","texto":"Si ganas canicas en equipo, las repartes por igual. Cada quien cuenta lo suyo y nadie se enoja."},{"titulo":"Empacar en cajas","texto":"En la fábrica, cada caja lleva lo mismo. Dividir dice cuántas cajas salen del total."}],
-"ejercicios":[{"ejercicio":"Reparte 42 pesos entre 7 niños. ¿Cuánto toca a cada uno?","respuesta":"42 ÷ 7 = 6 pesos."},{"ejercicio":"Tienes 27 flores y haces ramos de 3. ¿Cuántos ramos salen?","respuesta":"27 ÷ 3 = 9 ramos."},{"ejercicio":"Una tira de 40 cm se corta en 8 partes iguales. ¿Cuánto mide cada parte?","respuesta":"40 ÷ 8 = 5 cm."}]}},
-{"nodo_id":"f3-048","titulo":"Cuadrado, rectángulo, triángulo y círculo","slug":"cuadrado-rectangulo-triangulo-y-circulo-primaria","palabras":["figuras","lados","vértices","esquinas","formas"],"contenido":{
-"idea":"Mira a tu alrededor: una ventana, una pizza, una rebanada de sandía. Casi todo tiene forma de una figura básica, y cada figura se reconoce por sus lados.",
-"pizarron":"Las figuras básicas son:\n\n| Figura | Lados | Vértices | Cómo reconocerla |\n|---|---|---|---|\n| Triángulo | 3 | 3 | Tres lados rectos |\n| Cuadrado | 4 iguales | 4 | Esquinas rectas |\n| Rectángulo | 4 | 4 | Dos largos y dos cortos |\n| Círculo | 0 | 0 | Línea curva, redondo |\n\n**Lados**: las líneas que forman la figura.\n\n**Vértices**: las esquinas donde se juntan dos lados.\n\nUn cuadrado también es un rectángulo especial: tiene todos sus lados iguales.",
-"truco":"El tri de triángulo significa tres: como triciclo.",
-"practica":{"ejercicio":"¿Qué figura tiene 4 lados, con 2 largos y 2 cortos?","respuesta":"El rectángulo."},
-"analogias":[{"titulo":"La cocina","texto":"Un plato es un círculo, una tableta de chocolate es un rectángulo, una rebanada de sandía parece un triángulo y una galleta salada puede ser un cuadrado."},{"titulo":"Las señales de tránsito","texto":"En la calle hay señales con distintas formas. Reconocer su figura ayuda a identificarlas de lejos."}],
-"ejercicios":[{"ejercicio":"¿Cuántos vértices tiene un triángulo?","respuesta":"3 vértices."},{"ejercicio":"¿Qué figura no tiene lados rectos?","respuesta":"El círculo."},{"ejercicio":"Una hoja de cuaderno, ¿qué figura parece?","respuesta":"Un rectángulo."}]}},
-{"nodo_id":"f3-052","titulo":"Medir con metro y centímetro","slug":"medir-con-metro-y-centimetro-primaria","palabras":["medir","regla","metro","centímetro","longitud","largo"],"contenido":{
-"idea":"Para saber qué tan largo es algo necesitas una medida que todos usen igual. Tu paso cambia, pero el metro mide lo mismo en todo el mundo.",
-"pizarron":"La **longitud** dice qué tan largo, alto o ancho es algo.\n\n- **Centímetro (cm)**: para cosas pequeñas, como un lápiz.\n- **Metro (m)**: para cosas grandes, como un salón.\n\n**1 metro = 100 centímetros**.\n\nCómo medir con regla:\n\n1. Coloca el objeto en el **0** de la regla, no en la orilla.\n2. Mantén la regla derecha.\n3. Lee el número donde termina el objeto.\n\nEjemplo: un lápiz que empieza en 0 y termina en 15 mide 15 cm.\n\nCuando una medida se escribe con ambas: 1 m y 20 cm son 120 cm.",
-"truco":"Un paso grande de adulto mide más o menos un metro.",
-"practica":{"ejercicio":"¿Usarías metros o centímetros para medir un borrador?","respuesta":"Centímetros, porque es un objeto pequeño."},
-"analogias":[{"titulo":"El piso de mosaicos","texto":"Si cada mosaico mide lo mismo, puedes contar cuántos tiene el pasillo. El metro y el centímetro son mosaicos que todos comparten."},{"titulo":"La marca en la pared","texto":"En casa marcan tu estatura en la pared. Se puede comparar año tras año porque el centímetro siempre mide igual."}],
-"ejercicios":[{"ejercicio":"¿Cuántos centímetros son 2 metros?","respuesta":"200 centímetros."},{"ejercicio":"Una mesa mide 1 m y 35 cm. ¿Cuántos centímetros son?","respuesta":"135 cm."},{"ejercicio":"¿Qué mide más: 90 cm o 1 m?","respuesta":"1 m, porque son 100 cm."}]}},
-{"nodo_id":"f3-052","titulo":"El kilogramo y el gramo","slug":"el-kilogramo-y-el-gramo-primaria","palabras":["peso","masa","kilo","gramo","báscula","medio kilo"],"contenido":{
-"idea":"Una bolsa de frijol de un kilo se siente pesada en tu mano. Un clip casi no se siente. Para esas dos cosas usamos medidas distintas: kilo y gramo.",
-"pizarron":"Para medir qué tanta **masa** tiene algo usamos:\n\n- **Gramo (g)**: para cosas ligeras, como un clip o una galleta.\n- **Kilogramo (kg)**: para cosas pesadas, como una sandía.\n\n**1 kilogramo = 1000 gramos**.\n\nFracciones útiles:\n\n- 1/2 kg = 500 g\n- 1/4 kg = 250 g\n\nSe mide con una **báscula** o una balanza.\n\nEjemplo: compras 2 kg de tortillas: son 2000 g.\n\nEn la vida diaria decimos peso, aunque en ciencias se habla de masa.",
-"truco":"Medio kilo es 500 gramos, como medio billete de mil.",
-"practica":{"ejercicio":"¿Cuántos gramos son 3 kilogramos?","respuesta":"3000 gramos."},
-"analogias":[{"titulo":"El mercado","texto":"El señor de la fruta pone tus manzanas en la báscula y ve cuántos kilos son. Así sabes cuánto pagar."},{"titulo":"La balanza del parque","texto":"Un sube y baja se inclina hacia el lado más pesado. La balanza funciona igual, pero con medidas exactas."}],
-"ejercicios":[{"ejercicio":"¿Qué pesa más: 800 g o 1 kg?","respuesta":"1 kg, porque son 1000 g."},{"ejercicio":"¿Usarías gramos o kilos para pesar una lavadora?","respuesta":"Kilogramos."},{"ejercicio":"Compras medio kilo de queso y medio de jamón. ¿Cuánto llevas en total?","respuesta":"1 kilogramo."}]}},
-{"nodo_id":"f3-052","titulo":"El litro","slug":"el-litro-primaria","palabras":["capacidad","litro","medio litro","mililitro","botella"],"contenido":{
-"idea":"Un litro es lo que cabe en un cartón grande de leche. Sirve para saber cuánta agua, jugo o gasolina cabe dentro de algo.",
-"pizarron":"La **capacidad** es lo que cabe dentro de un recipiente.\n\n- **Litro (L)**: la medida más común.\n- **Mililitro (mL)**: para cantidades pequeñas.\n\n**1 litro = 1000 mililitros**.\n\nEquivalencias:\n\n- 1/2 L = 500 mL\n- 1/4 L = 250 mL\n- Una taza mediana tiene cerca de 250 mL.\n\nEjemplo: con 2 botellas de 1/2 L tienes 1 L.\n\nUn vaso, una cubeta y un tinaco pueden compararse por su capacidad, aunque tengan formas distintas.",
-"truco":"Dos medios litros hacen un litro; cuatro cuartos también.",
-"practica":{"ejercicio":"¿Cuántas botellas de medio litro se necesitan para 3 litros?","respuesta":"6 botellas, porque cada litro necesita 2."},
-"analogias":[{"titulo":"La jarra de agua de sabor","texto":"Si haces 2 litros de agua de jamaica, sabes cuántos vasos salen. El litro te ayuda a repartir."},{"titulo":"La gasolinera","texto":"En la gasolinera, la bomba cuenta los litros que entran al tanque. Pagas según cuántos litros caben y cargas."}],
-"ejercicios":[{"ejercicio":"¿Cuántos mililitros son 2 litros?","respuesta":"2000 mL."},{"ejercicio":"¿Qué tiene más: 1/2 L o 750 mL?","respuesta":"750 mL, porque 1/2 L son 500 mL."},{"ejercicio":"¿Medirías en litros o mililitros una cucharada de jarabe?","respuesta":"En mililitros."}]}}
+  {
+    "nodo_id": "f3-041",
+    "titulo": "Multiplicar es sumar varias veces",
+    "slug": "multiplicar-es-sumar-varias-veces-primaria",
+    "palabras": [
+      "multiplicación",
+      "suma repetida",
+      "veces",
+      "grupos",
+      "por"
+    ],
+    "contenido": {
+      "idea": "Si cada uno de tus 4 amigos trae 3 dulces, podrías sumar 3 + 3 + 3 + 3. Multiplicar es el atajo: 4 veces 3 son 12.",
+      "pizarron": "**La regla:** multiplicar es sumar el mismo número varias veces.\n\n**Multiplicar** es sumar el mismo número varias veces.\n\n3 + 3 + 3 + 3 = 12 se escribe **4 × 3 = 12**.\n\nPartes:\n\n- 4 y 3 son los **factores**.\n- 12 es el **producto**.\n\nSe lee: cuatro por tres, o cuatro veces tres.\n\nSe puede dibujar como un **arreglo**: 4 filas de 3 puntos.\n\n```\n• • •\n• • •\n• • •\n• • •\n```\n\nEl orden no importa: 4 × 3 y 3 × 4 dan 12.\n\nReglas especiales:\n\n- Por 1 queda igual: 7 × 1 = 7.\n- Por 0 da 0: 7 × 0 = 0.",
+      "truco": "Lee × como la palabra veces: 3 × 5 es 3 veces 5.",
+      "practica": {
+        "ejercicio": "Escribe como multiplicación: 5 + 5 + 5",
+        "respuesta": "3 × 5 = 15"
+      },
+      "analogias": [
+        {
+          "titulo": "Los asientos del cine",
+          "texto": "Si hay 6 filas de 10 asientos, no cuentas uno por uno: 6 × 10 = 60. Las filas son como los grupos."
+        },
+        {
+          "titulo": "El paquete de yogur",
+          "texto": "Un paquete trae 4 yogures. Tres paquetes traen 4 + 4 + 4. Multiplicar es contar paquetes en vez de yogures."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Escribe como suma: 4 × 2",
+          "respuesta": "2 + 2 + 2 + 2 = 8"
+        },
+        {
+          "ejercicio": "Escribe como multiplicación: 6 + 6 + 6 + 6 + 6",
+          "respuesta": "5 × 6 = 30"
+        },
+        {
+          "ejercicio": "Dibujas 3 filas con 5 estrellas. ¿Cuántas hay?",
+          "respuesta": "3 × 5 = 15 estrellas."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-041",
+    "titulo": "Tablas del 1 y del 10",
+    "slug": "tablas-del-1-y-del-10-primaria",
+    "palabras": [
+      "multiplicar por 1",
+      "multiplicar por 10",
+      "tabla del uno",
+      "tabla del diez",
+      "agregar un cero"
+    ],
+    "contenido": {
+      "idea": "Multiplicar por 1 es como mirarte en el espejo: sale el mismo número. Multiplicar por 10 es ponerle un cero de sombrero al final.",
+      "pizarron": "**La regla:** todo número por 1 da el mismo número. Todo número por 10 da ese número con un cero al final.\n\n**Tabla del 1**: cualquier número por 1 da el mismo número.\n\n- 1 × 4 = 4\n- 1 × 9 = 9\n\n**Tabla del 10**: agrega un cero al número.\n\n- 10 × 1 = 10\n- 10 × 2 = 20\n- 10 × 3 = 30\n- 10 × 4 = 40\n- 10 × 5 = 50\n- 10 × 6 = 60\n- 10 × 7 = 70\n- 10 × 8 = 80\n- 10 × 9 = 90\n- 10 × 10 = 100\n\nTambién funciona con números más grandes: 10 × 34 = 340.",
+      "truco": "Por 10, agrega un cero. Por 1, nada cambia.",
+      "practica": {
+        "ejercicio": "¿Cuánto es 10 × 8 y cuánto 1 × 8?",
+        "respuesta": "10 × 8 = 80 y 1 × 8 = 8."
+      },
+      "analogias": [
+        {
+          "titulo": "Los billetes de 10",
+          "texto": "Si tienes 7 monedas de 10 pesos, tienes 70 pesos. Ves el 7, le agregas el cero y ya está."
+        },
+        {
+          "titulo": "Una sola caja",
+          "texto": "Si solo hay una caja con 6 lápices, tienes 6 lápices. Una sola vez un número es ese mismo número."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuánto es 10 × 12?",
+          "respuesta": "120"
+        },
+        {
+          "ejercicio": "¿Cuánto es 1 × 25?",
+          "respuesta": "25"
+        },
+        {
+          "ejercicio": "Compras 9 cuadernos de 10 pesos. ¿Cuánto pagas?",
+          "respuesta": "9 × 10 = 90 pesos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-041",
+    "titulo": "Dividir es repartir en partes iguales",
+    "slug": "dividir-es-repartir-en-partes-iguales-primaria",
+    "palabras": [
+      "división",
+      "repartir",
+      "partes iguales",
+      "entre",
+      "cociente",
+      "dividendo",
+      "divisor"
+    ],
+    "contenido": {
+      "idea": "Tienes 12 galletas y 3 amigos. Das una a cada uno, una y otra vez, hasta acabarlas. Cada quien recibe 4. Dividir es repartir parejo.",
+      "pizarron": "**La regla:** dividir es repartir una cantidad en partes iguales.\n\n**Dividir** es repartir una cantidad en partes iguales.\n\n12 ÷ 3 = 4 se lee: doce entre tres es igual a cuatro.\n\nPartes:\n\n- **Dividendo** (12): lo que se reparte.\n- **Divisor** (3): entre cuántos se reparte.\n- **Cociente** (4): lo que toca a cada uno.\n\nTambién se escribe en la casita:\n\n```\n     4\n   ____\n3 ) 12\n```\n\nLa división se relaciona con la multiplicación: como 3 × 4 = 12, entonces 12 ÷ 3 = 4.\n\nReglas: un número entre 1 da el mismo número, y un número entre sí mismo da 1. No se puede dividir entre 0.",
+      "truco": "Dividir pregunta: ¿qué número por el divisor me da el dividendo?",
+      "practica": {
+        "ejercicio": "Reparte 15 lápices entre 5 niños. ¿Cuántos le tocan a cada uno?",
+        "respuesta": "15 ÷ 5 = 3 lápices."
+      },
+      "analogias": [
+        {
+          "titulo": "La pizza",
+          "texto": "Una pizza de 8 rebanadas para 4 personas: a cada quien le tocan 2. Si lo haces parejo, nadie se queja."
+        },
+        {
+          "titulo": "Repartir las cartas",
+          "texto": "Al jugar, das una carta a cada quien, dando vueltas hasta acabar. Cada jugador termina con la misma cantidad."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Resuelve 18 ÷ 2",
+          "respuesta": "9"
+        },
+        {
+          "ejercicio": "En 20 ÷ 4 = 5, ¿cuál es el divisor?",
+          "respuesta": "El 4."
+        },
+        {
+          "ejercicio": "Hay 24 sillas en 6 filas iguales. ¿Cuántas sillas por fila?",
+          "respuesta": "24 ÷ 6 = 4 sillas."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-041",
+    "titulo": "División exacta con las tablas",
+    "slug": "division-exacta-con-las-tablas-primaria",
+    "palabras": [
+      "división exacta",
+      "usar tablas",
+      "operación inversa",
+      "dividir sin residuo"
+    ],
+    "contenido": {
+      "idea": "La división es la tabla de multiplicar vista al revés. Si conoces 6 × 7 = 42, ya sabes dos divisiones más: 42 entre 6 y 42 entre 7.",
+      "pizarron": "**La regla:** una división es exacta cuando no sobra nada, y se resuelve buscando en las tablas qué número multiplicado da el total.\n\nUna división es **exacta** cuando no sobra nada.\n\nPara resolverla con las tablas:\n\n1. Mira el divisor.\n2. Busca en su tabla el dividendo.\n3. El número por el que multiplicaste es la respuesta.\n\nEjemplo: 56 ÷ 8\n\n- Tabla del 8: 8 × 1 = 8, ... 8 × 7 = **56**.\n- Respuesta: 7.\n\nFamilias de operaciones. Con 3, 9 y 27:\n\n- 3 × 9 = 27\n- 9 × 3 = 27\n- 27 ÷ 3 = 9\n- 27 ÷ 9 = 3\n\nComprueba multiplicando: cociente × divisor = dividendo.",
+      "truco": "Para dividir, pregúntate: ¿qué número por el divisor da el dividendo?",
+      "practica": {
+        "ejercicio": "Resuelve 35 ÷ 7",
+        "respuesta": "5, porque 7 × 5 = 35."
+      },
+      "analogias": [
+        {
+          "titulo": "El camino de regreso",
+          "texto": "Multiplicar es caminar a la tienda y dividir es regresar a casa por la misma calle. Las tablas son el mismo camino."
+        },
+        {
+          "titulo": "La llave y el candado",
+          "texto": "Multiplicar cierra el candado y dividir lo abre. La misma tabla sirve de llave para las dos cosas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Resuelve 48 ÷ 6",
+          "respuesta": "8"
+        },
+        {
+          "ejercicio": "Resuelve 63 ÷ 9",
+          "respuesta": "7"
+        },
+        {
+          "ejercicio": "Escribe las dos divisiones de 4 × 6 = 24.",
+          "respuesta": "24 ÷ 4 = 6 y 24 ÷ 6 = 4."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-041",
+    "titulo": "Problemas de multiplicación",
+    "slug": "problemas-de-multiplicacion-primaria",
+    "palabras": [
+      "problemas",
+      "grupos iguales",
+      "cada uno",
+      "veces",
+      "total"
+    ],
+    "contenido": {
+      "idea": "Un problema de multiplicación es una historia con grupos iguales. Si cada grupo tiene lo mismo, no necesitas sumar: multiplicas.",
+      "pizarron": "**La regla:** se multiplica cuando hay varios grupos con la misma cantidad.\n\nPistas de multiplicación: *cada uno*, *cada caja*, *por*, *veces*, *filas de*.\n\nPasos:\n\n1. Busca cuántos **grupos** hay.\n2. Busca cuánto hay en **cada** grupo.\n3. Multiplica.\n4. Responde con la unidad.\n\nEjemplo: Hay 5 cajas con 8 mangos cada una. ¿Cuántos mangos hay?\n\n- Grupos: 5 cajas.\n- En cada grupo: 8 mangos.\n- 5 × 8 = 40.\n- Respuesta: **40 mangos**.\n\nOtro ejemplo: Una entrada cuesta 9 pesos. ¿Cuánto cuestan 6?\n\n- 6 × 9 = 54 pesos.",
+      "truco": "Si oyes cada uno y quieren el total, multiplica.",
+      "practica": {
+        "ejercicio": "Un paquete trae 6 lápices. ¿Cuántos lápices hay en 7 paquetes?",
+        "respuesta": "7 × 6 = 42 lápices."
+      },
+      "analogias": [
+        {
+          "titulo": "Las mesas de la fiesta",
+          "texto": "Para una fiesta hay mesas iguales con las mismas sillas. No cuentas silla por silla: mesas por sillas de cada mesa."
+        },
+        {
+          "titulo": "El camión escolar",
+          "texto": "Si 4 camiones llevan 30 alumnos cada uno, multiplicas para saber cuántos viajan, sin contar cabezas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Una semana tiene 7 días. ¿Cuántos días hay en 4 semanas?",
+          "respuesta": "4 × 7 = 28 días."
+        },
+        {
+          "ejercicio": "Cada mesa tiene 4 patas. ¿Cuántas patas tienen 9 mesas?",
+          "respuesta": "9 × 4 = 36 patas."
+        },
+        {
+          "ejercicio": "Un kilo de naranjas cuesta 8 pesos. ¿Cuánto cuestan 5 kilos?",
+          "respuesta": "5 × 8 = 40 pesos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-041",
+    "titulo": "Problemas de reparto",
+    "slug": "problemas-de-reparto-primaria",
+    "palabras": [
+      "problemas de división",
+      "repartir",
+      "a cada uno",
+      "partes iguales",
+      "cuántos grupos"
+    ],
+    "contenido": {
+      "idea": "Un problema de reparto es una historia de justicia: hay que dar lo mismo a todos. La división te dice cuánto le toca a cada quien.",
+      "pizarron": "**La regla:** se divide cuando repartes un total en grupos iguales.\n\nLa división resuelve dos tipos de problema:\n\n1. **Repartir**: ya sabes cuántos grupos hay. ¿Cuánto toca a cada uno?\n   - 20 dulces entre 4 niños: 20 ÷ 4 = 5 dulces.\n2. **Agrupar**: sabes cuánto va en cada grupo. ¿Cuántos grupos salen?\n   - 30 huevos en cajas de 6: 30 ÷ 6 = 5 cajas.\n\nPistas: *repartir*, *a cada uno*, *en partes iguales*, *cuántos grupos*.\n\nPasos:\n\n1. Identifica el total.\n2. Identifica entre cuánto se divide.\n3. Divide.\n4. Comprueba multiplicando.\n\nEjemplo: 5 × 4 = 20. Está bien.",
+      "truco": "Parte de un total y quieren lo de cada uno: divide.",
+      "practica": {
+        "ejercicio": "Hay 36 alumnos y se forman 4 equipos iguales. ¿Cuántos alumnos hay por equipo?",
+        "respuesta": "36 ÷ 4 = 9 alumnos."
+      },
+      "analogias": [
+        {
+          "titulo": "La herencia del juego",
+          "texto": "Si ganas canicas en equipo, las repartes por igual. Cada quien cuenta lo suyo y nadie se enoja."
+        },
+        {
+          "titulo": "Empacar en cajas",
+          "texto": "En la fábrica, cada caja lleva lo mismo. Dividir dice cuántas cajas salen del total."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Reparte 42 pesos entre 7 niños. ¿Cuánto toca a cada uno?",
+          "respuesta": "42 ÷ 7 = 6 pesos."
+        },
+        {
+          "ejercicio": "Tienes 27 flores y haces ramos de 3. ¿Cuántos ramos salen?",
+          "respuesta": "27 ÷ 3 = 9 ramos."
+        },
+        {
+          "ejercicio": "Una tira de 40 cm se corta en 8 partes iguales. ¿Cuánto mide cada parte?",
+          "respuesta": "40 ÷ 8 = 5 cm."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-048",
+    "titulo": "Cuadrado, rectángulo, triángulo y círculo",
+    "slug": "cuadrado-rectangulo-triangulo-y-circulo-primaria",
+    "palabras": [
+      "figuras",
+      "lados",
+      "vértices",
+      "esquinas",
+      "formas"
+    ],
+    "contenido": {
+      "idea": "Mira a tu alrededor: una ventana, una pizza, una rebanada de sandía. Casi todo tiene forma de una figura básica, y cada figura se reconoce por sus lados.",
+      "pizarron": "**Qué es:** son las cuatro figuras básicas: el cuadrado y el rectángulo tienen 4 lados, el triángulo 3, y el círculo es una línea curva.\n\nLas figuras básicas son:\n\n| Figura | Lados | Vértices | Cómo reconocerla |\n|---|---|---|---|\n| Triángulo | 3 | 3 | Tres lados rectos |\n| Cuadrado | 4 iguales | 4 | Esquinas rectas |\n| Rectángulo | 4 | 4 | Dos largos y dos cortos |\n| Círculo | 0 | 0 | Línea curva, redondo |\n\n**Lados**: las líneas que forman la figura.\n\n**Vértices**: las esquinas donde se juntan dos lados.\n\nUn cuadrado también es un rectángulo especial: tiene todos sus lados iguales.",
+      "truco": "El tri de triángulo significa tres: como triciclo.",
+      "practica": {
+        "ejercicio": "¿Qué figura tiene 4 lados, con 2 largos y 2 cortos?",
+        "respuesta": "El rectángulo."
+      },
+      "analogias": [
+        {
+          "titulo": "La cocina",
+          "texto": "Un plato es un círculo, una tableta de chocolate es un rectángulo, una rebanada de sandía parece un triángulo y una galleta salada puede ser un cuadrado."
+        },
+        {
+          "titulo": "Las señales de tránsito",
+          "texto": "En la calle hay señales con distintas formas. Reconocer su figura ayuda a identificarlas de lejos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántos vértices tiene un triángulo?",
+          "respuesta": "3 vértices."
+        },
+        {
+          "ejercicio": "¿Qué figura no tiene lados rectos?",
+          "respuesta": "El círculo."
+        },
+        {
+          "ejercicio": "Una hoja de cuaderno, ¿qué figura parece?",
+          "respuesta": "Un rectángulo."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-052",
+    "titulo": "Medir con metro y centímetro",
+    "slug": "medir-con-metro-y-centimetro-primaria",
+    "palabras": [
+      "medir",
+      "regla",
+      "metro",
+      "centímetro",
+      "longitud",
+      "largo"
+    ],
+    "contenido": {
+      "idea": "Para saber qué tan largo es algo necesitas una medida que todos usen igual. Tu paso cambia, pero el metro mide lo mismo en todo el mundo.",
+      "pizarron": "**La regla:** el metro y el centímetro miden longitudes, y 1 metro tiene 100 centímetros.\n\nLa **longitud** dice qué tan largo, alto o ancho es algo.\n\n- **Centímetro (cm)**: para cosas pequeñas, como un lápiz.\n- **Metro (m)**: para cosas grandes, como un salón.\n\n**1 metro = 100 centímetros**.\n\nCómo medir con regla:\n\n1. Coloca el objeto en el **0** de la regla, no en la orilla.\n2. Mantén la regla derecha.\n3. Lee el número donde termina el objeto.\n\nEjemplo: un lápiz que empieza en 0 y termina en 15 mide 15 cm.\n\nCuando una medida se escribe con ambas: 1 m y 20 cm son 120 cm.",
+      "truco": "Un paso grande de adulto mide más o menos un metro.",
+      "practica": {
+        "ejercicio": "¿Usarías metros o centímetros para medir un borrador?",
+        "respuesta": "Centímetros, porque es un objeto pequeño."
+      },
+      "analogias": [
+        {
+          "titulo": "El piso de mosaicos",
+          "texto": "Si cada mosaico mide lo mismo, puedes contar cuántos tiene el pasillo. El metro y el centímetro son mosaicos que todos comparten."
+        },
+        {
+          "titulo": "La marca en la pared",
+          "texto": "En casa marcan tu estatura en la pared. Se puede comparar año tras año porque el centímetro siempre mide igual."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántos centímetros son 2 metros?",
+          "respuesta": "200 centímetros."
+        },
+        {
+          "ejercicio": "Una mesa mide 1 m y 35 cm. ¿Cuántos centímetros son?",
+          "respuesta": "135 cm."
+        },
+        {
+          "ejercicio": "¿Qué mide más: 90 cm o 1 m?",
+          "respuesta": "1 m, porque son 100 cm."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-052",
+    "titulo": "El kilogramo y el gramo",
+    "slug": "el-kilogramo-y-el-gramo-primaria",
+    "palabras": [
+      "peso",
+      "masa",
+      "kilo",
+      "gramo",
+      "báscula",
+      "medio kilo"
+    ],
+    "contenido": {
+      "idea": "Una bolsa de frijol de un kilo se siente pesada en tu mano. Un clip casi no se siente. Para esas dos cosas usamos medidas distintas: kilo y gramo.",
+      "pizarron": "**La regla:** el kilogramo y el gramo miden masa, y 1 kilogramo tiene 1000 gramos.\n\nPara medir qué tanta **masa** tiene algo usamos:\n\n- **Gramo (g)**: para cosas ligeras, como un clip o una galleta.\n- **Kilogramo (kg)**: para cosas pesadas, como una sandía.\n\n**1 kilogramo = 1000 gramos**.\n\nFracciones útiles:\n\n- 1/2 kg = 500 g\n- 1/4 kg = 250 g\n\nSe mide con una **báscula** o una balanza.\n\nEjemplo: compras 2 kg de tortillas: son 2000 g.\n\nEn la vida diaria decimos peso, aunque en ciencias se habla de masa.",
+      "truco": "Medio kilo es 500 gramos, como medio billete de mil.",
+      "practica": {
+        "ejercicio": "¿Cuántos gramos son 3 kilogramos?",
+        "respuesta": "3000 gramos."
+      },
+      "analogias": [
+        {
+          "titulo": "El mercado",
+          "texto": "El señor de la fruta pone tus manzanas en la báscula y ve cuántos kilos son. Así sabes cuánto pagar."
+        },
+        {
+          "titulo": "La balanza del parque",
+          "texto": "Un sube y baja se inclina hacia el lado más pesado. La balanza funciona igual, pero con medidas exactas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué pesa más: 800 g o 1 kg?",
+          "respuesta": "1 kg, porque son 1000 g."
+        },
+        {
+          "ejercicio": "¿Usarías gramos o kilos para pesar una lavadora?",
+          "respuesta": "Kilogramos."
+        },
+        {
+          "ejercicio": "Compras medio kilo de queso y medio de jamón. ¿Cuánto llevas en total?",
+          "respuesta": "1 kilogramo."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f3-052",
+    "titulo": "El litro",
+    "slug": "el-litro-primaria",
+    "palabras": [
+      "capacidad",
+      "litro",
+      "medio litro",
+      "mililitro",
+      "botella"
+    ],
+    "contenido": {
+      "idea": "Un litro es lo que cabe en un cartón grande de leche. Sirve para saber cuánta agua, jugo o gasolina cabe dentro de algo.",
+      "pizarron": "**La regla:** el litro mide cuánto líquido cabe en un recipiente, y 1 litro tiene 1000 mililitros.\n\nLa **capacidad** es lo que cabe dentro de un recipiente.\n\n- **Litro (L)**: la medida más común.\n- **Mililitro (mL)**: para cantidades pequeñas.\n\n**1 litro = 1000 mililitros**.\n\nEquivalencias:\n\n- 1/2 L = 500 mL\n- 1/4 L = 250 mL\n- Una taza mediana tiene cerca de 250 mL.\n\nEjemplo: con 2 botellas de 1/2 L tienes 1 L.\n\nUn vaso, una cubeta y un tinaco pueden compararse por su capacidad, aunque tengan formas distintas.\n\n**Para recordar:**\n- **¿Cuántas botellas de medio litro se necesitan para 3 litros?** 6 botellas, porque cada litro necesita 2.",
+      "truco": "Dos medios litros hacen un litro; cuatro cuartos también.",
+      "practica": {
+        "ejercicio": "¿Cuántas botellas de medio litro se necesitan para 3 litros?",
+        "respuesta": "6 botellas, porque cada litro necesita 2."
+      },
+      "analogias": [
+        {
+          "titulo": "La jarra de agua de sabor",
+          "texto": "Si haces 2 litros de agua de jamaica, sabes cuántos vasos salen. El litro te ayuda a repartir."
+        },
+        {
+          "titulo": "La gasolinera",
+          "texto": "En la gasolinera, la bomba cuenta los litros que entran al tanque. Pagas según cuántos litros caben y cargas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántos mililitros son 2 litros?",
+          "respuesta": "2000 mL."
+        },
+        {
+          "ejercicio": "¿Qué tiene más: 1/2 L o 750 mL?",
+          "respuesta": "750 mL, porque 1/2 L son 500 mL."
+        },
+        {
+          "ejercicio": "¿Medirías en litros o mililitros una cucharada de jarabe?",
+          "respuesta": "En mililitros."
+        }
+      ]
+    }
+  }
 ]

@@ -1,72 +1,463 @@
 [
-{"nodo_id":"ems-163","titulo":"Reglas y responsabilidades en inglés","slug":"reglas-responsabilidades-ingles-prepa","palabras":["must","have to","can't","obligación","prohibición","normas"],"contenido":{
-"idea":"En casa, mamá dice: \"Tienes que lavar los platos\" y \"No se puede jugar en la mesa\". En inglés también hay palabras para lo que se debe hacer y para lo que está prohibido.",
-"pizarron":"**Obligación:** usa *must* o *have to* + verbo base: *I have to wash the dishes.* / *Students must wear a uniform.* Con he/she/it, *has to*: *She has to study.*\n\n**Prohibición:** usa *mustn't* o *can't* + verbo base: *You mustn't run in the hall.* / *We can't use phones in class.*\n\n**Sin obligación:** *don't have to* significa que no es necesario, pero se permite: *You don't have to bring lunch.*\n\n**Permiso:** *can* + verbo: *You can sit here.*\n\nPasos: 1) piensa si es obligatorio, prohibido o libre; 2) elige la estructura; 3) agrega el verbo base, sin *to*, después de *must* y *can*.",
-"truco":"Must = debo; mustn't = prohibido; don't have to = no hace falta.",
-"practica":{"ejercicio":"Completa: In my school, we ____ (must / mustn't) cheat on exams.","respuesta":"mustn't. Está prohibido hacer trampa: *we mustn't cheat on exams.*"},
-"analogias":[{"titulo":"El semáforo","texto":"*Must* es la luz verde obligatoria de un camino que sí debes tomar; *mustn't* es el alto rojo; *don't have to* es la luz amarilla: puedes elegir."},{"titulo":"Las reglas de un juego","texto":"En un juego de mesa, hay jugadas obligatorias (must), jugadas prohibidas (mustn't) y jugadas opcionales (don't have to). Las reglas del hogar funcionan igual."}],
-"ejercicios":[{"ejercicio":"Traduce: Ella tiene que ayudar en casa.","respuesta":"She has to help at home."},{"ejercicio":"Elige: You (mustn't / don't have to) park here; it's a no-parking zone.","respuesta":"mustn't, porque estacionarse está prohibido."},{"ejercicio":"Escribe dos reglas de tu comunidad, una de obligación y una de prohibición.","respuesta":"Ejemplo: We have to separate trash. We can't throw litter in the street. Vale cualquier par correcto con have to/must y can't/mustn't."}]}},
-{"nodo_id":"ems-164","titulo":"Dar y pedir instrucciones en inglés","slug":"instrucciones-direcciones-ingles-prepa","palabras":["directions","imperativo","cómo llegar","turn left","first then","indicaciones"],"contenido":{
-"idea":"Imagina que un amigo con los ojos vendados quiere llegar a la puerta. Tú le dices: \"Da dos pasos, gira a la derecha\". Eso son instrucciones: pasos claros y en orden.",
-"pizarron":"**Pedir:** *Excuse me, how do I get to the library?* / *Could you tell me how to make this form?*\n\n**Dar:** usa el imperativo, es decir, el verbo base sin sujeto: *Go straight. Turn left. Cross the street.*\n\n**Lugares:** *next to* (junto a), *across from* (enfrente de), *between* (entre), *on the corner* (en la esquina).\n\n**Conectores de orden:** *first, then, next, after that, finally.*\n\n**Negativas:** *Don't forget your ID.*\n\nEjemplo completo: *First, go straight for two blocks. Then turn right. The bank is next to the pharmacy.*\n\nAl entender instrucciones, escucha los conectores y los verbos de acción para ordenar los pasos.",
-"truco":"Verbo base al inicio y conecta los pasos: first, then, finally.",
-"practica":{"ejercicio":"Ordena: turn / then / left / the / at / light.","respuesta":"Then turn left at the light."},
-"analogias":[{"titulo":"Receta de cocina","texto":"Unas instrucciones son como una receta: cada paso empieza con un verbo y el orden importa, porque no puedes hornear antes de mezclar."},{"titulo":"El GPS","texto":"El GPS dice \"gira a la izquierda\" y \"sigue recto\". Tú haces lo mismo con la voz, usando verbos y puntos de referencia como el GPS."}],
-"ejercicios":[{"ejercicio":"Pide cómo llegar al hospital con cortesía.","respuesta":"Excuse me, could you tell me how to get to the hospital?"},{"ejercicio":"Traduce: Sigue recto y cruza la calle.","respuesta":"Go straight and cross the street."},{"ejercicio":"Completa: The school is ____ the park. (enfrente de)","respuesta":"across from"}]}},
-{"nodo_id":"ems-165","titulo":"Contar eventos pasados en secuencia","slug":"relatar-eventos-secuencia-ingles-prepa","palabras":["past simple","narrar","first then","conectores","pasado","after that"],"contenido":{
-"idea":"Cuando cuentas a un amigo cómo estuvo tu día, empiezas por lo primero y sigues hasta lo último. Si mezclas el orden, nadie te entiende.",
-"pizarron":"Para relatar algo que pasó usa el **pasado simple**.\n\n**Verbos regulares:** agrega *-ed*: *walk - walked, study - studied.*\n\n**Irregulares:** cambian: *go - went, eat - ate, see - saw, buy - bought.*\n\n**Negativa:** *did not (didn't)* + verbo base: *I didn't go to school.*\n\n**Conectores de secuencia:** *first, then, after that, later, finally.* Para razones: *because*; para contraste: *but.*\n\nEjemplo: *Yesterday, first I woke up late. Then I took the bus, but it was full. Finally, I arrived at school and ate lunch.*\n\nIncluye cuándo (*yesterday, last week*) para ubicar el relato en el tiempo.",
-"truco":"Pasado = -ed o irregular; ordena con first, then, finally.",
-"practica":{"ejercicio":"Pasa al pasado: I go to the market and buy fruit.","respuesta":"I went to the market and bought fruit."},
-"analogias":[{"titulo":"Un collar de cuentas","texto":"Cada evento es una cuenta y los conectores son el hilo. Sin el hilo, las cuentas quedan sueltas y la historia se cae."},{"titulo":"Fotos en orden","texto":"Contar tu día es mostrar fotos una tras otra. First, then y finally son los números que indican qué foto sigue."}],
-"ejercicios":[{"ejercicio":"Escribe en pasado: She watches TV.","respuesta":"She watched TV."},{"ejercicio":"Forma la negativa: We saw the game.","respuesta":"We didn't see the game."},{"ejercicio":"Une con conectores: wake up, eat breakfast, leave home (ayer).","respuesta":"Yesterday, first I woke up. Then I ate breakfast. Finally, I left home. Cualquier orden lógico con pasado correcto es válido."}]}},
-{"nodo_id":"ems-166","titulo":"Practicar y consolidar el inglés","slug":"consolidar-ingles-produccion-guiada-prepa","palabras":["repaso","producción guiada","estructuras","práctica","oral","escrito"],"contenido":{
-"idea":"Para andar en bici no basta con ver cómo otros lo hacen: hay que subirte y practicar con alguien que te sostenga. Con el inglés pasa igual.",
-"pizarron":"Consolidar es usar lo aprendido en tareas reales. Estructuras clave del semestre:\n\n- **Obligación y prohibición:** *must, have to, mustn't, can't.*\n- **Instrucciones:** verbo base + conectores *first, then, finally.*\n- **Relatos:** pasado simple, *didn't* y conectores.\n\n**Producción guiada** significa seguir un modelo y cambiar los datos:\n\nModelo: *Yesterday I went to the clinic. First I waited, then I talked to the doctor.*\n\nTu versión: *Last Sunday I went to my aunt's house. First I helped cook, then we ate.*\n\nPasos: 1) lee el modelo; 2) identifica la estructura; 3) cambia personas, lugares y verbos; 4) léelo en voz alta; 5) revisa verbos y orden.\n\nRepite en forma oral y escrita: hablar fija el sonido y escribir fija la forma.",
-"truco":"Modelo, cambia datos, dilo en voz alta, revisa.",
-"practica":{"ejercicio":"Usa el modelo \"You must wear a helmet\" para una regla de tu trabajo o escuela.","respuesta":"Ejemplo: You must wear your ID at school. Es correcto si usa must + verbo base."},
-"analogias":[{"titulo":"El gimnasio","texto":"Los músculos crecen repitiendo ejercicios con guía. Las estructuras del inglés se fortalecen igual con práctica repetida."},{"titulo":"Plantilla de costura","texto":"Un molde permite hacer muchas prendas cambiando la tela. Una estructura modelo permite hacer muchas oraciones cambiando las palabras."}],
-"ejercicios":[{"ejercicio":"Completa: Yesterday I ____ (visit) my cousin and we ____ (eat) tacos.","respuesta":"visited; ate"},{"ejercicio":"Escribe dos instrucciones para llegar de tu casa a la tienda.","respuesta":"Ejemplo: First, go straight two blocks. Then turn left. Vale si usa verbos base y conectores."},{"ejercicio":"Corrige: She must to study.","respuesta":"She must study. Después de must no se usa to."}]}},
-{"nodo_id":"ems-167","titulo":"Hábitos, frecuencia y preferencias","slug":"habitos-frecuencia-preferencias-ingles-prepa","palabras":["always","usually","never","like","prefer","presente simple","rutinas"],"contenido":{
-"idea":"Hay cosas que haces todos los días, otras de vez en cuando y otras nunca. Decir cuántas veces las haces y cuáles te gustan más es hablar de hábitos y preferencias.",
-"pizarron":"Los hábitos se expresan en **presente simple**: *I walk to school.* Con he/she/it se agrega *-s*: *He walks.*\n\n**Adverbios de frecuencia**, de más a menos: *always (100%), usually, often, sometimes, rarely, never (0%).* Van antes del verbo: *I usually eat at home.* Con *to be* van después: *She is always on time.*\n\n**Preguntas:** *How often do you study?* - *Twice a week.*\n\n**Preferencias:** *like, love, prefer.* *I prefer tea to coffee.* / *She prefers walking to taking the bus.*\n\n**Comparar:** *In the morning I drink coffee, but at night I prefer water.*\n\nNegativa y pregunta usan *do/does*: *He doesn't like football. Do you prefer music or sports?*",
-"truco":"Frecuencia antes del verbo; con to be, después.",
-"practica":{"ejercicio":"Ordena: usually / my / I / do / homework / at night.","respuesta":"I usually do my homework at night."},
-"analogias":[{"titulo":"El termómetro","texto":"Los adverbios de frecuencia son un termómetro: never es frío total, sometimes tibio, always caliente. Eliges el grado que describe tu hábito."},{"titulo":"El menú","texto":"Preferir es elegir en un menú: ves varias opciones y dices cuál escoges. Prefer sirve para decir tu elección."}],
-"ejercicios":[{"ejercicio":"Traduce: Ella nunca llega tarde.","respuesta":"She never arrives late. (También: She is never late.)"},{"ejercicio":"Pregunta cuántas veces por semana alguien hace ejercicio.","respuesta":"How often do you exercise per week?"},{"ejercicio":"Escribe: Él prefiere el pan al arroz.","respuesta":"He prefers bread to rice."}]}},
-{"nodo_id":"ems-168","titulo":"Experiencias pasadas con más detalle","slug":"experiencias-pasadas-detalle-ingles-prepa","palabras":["past simple","past continuous","was were","narrar","when while","anécdota"],"contenido":{
-"idea":"Contar una anécdota es como pintar una escena: no solo dices qué pasó, también cómo era el lugar y qué hacía la gente mientras tanto.",
-"pizarron":"Para dar detalle combina dos tiempos.\n\n**Pasado simple:** acciones terminadas: *I arrived at the party.*\n\n**Pasado continuo:** acciones en progreso, el fondo de la escena: *was/were + verbo con -ing.* *It was raining. They were dancing.*\n\n**Conectores:** *when* (cuando, con acción corta) y *while* (mientras, con acción larga).\n\nEjemplo: *While I was walking home, I saw an old friend.* Aquí caminar es el fondo y ver es el suceso.\n\n**Dónde y cómo:** *at the market, in the park; quickly, happily.*\n\nNegativa: *wasn't/weren't* o *didn't.*\n\nPasos: 1) ubica cuándo y dónde; 2) describe el fondo con -ing; 3) cuenta lo que ocurrió en pasado simple; 4) cierra con cómo terminó.",
-"truco":"Fondo con was/were + -ing; suceso con pasado simple.",
-"practica":{"ejercicio":"Completa: While we ____ (eat), the lights ____ (go) out.","respuesta":"were eating; went"},
-"analogias":[{"titulo":"Película","texto":"El pasado continuo es el escenario donde todo se mueve; el pasado simple es el momento en que algo sucede y cambia la escena."},{"titulo":"Río y piedra","texto":"La acción larga es el río que corre; la acción corta es la piedra que cae en él. While habla del río; when, de la piedra."}],
-"ejercicios":[{"ejercicio":"Traduce: Yo estudiaba cuando sonó el teléfono.","respuesta":"I was studying when the phone rang."},{"ejercicio":"Forma la negativa: They were playing outside.","respuesta":"They weren't playing outside."},{"ejercicio":"Cuenta en dos oraciones una experiencia con when o while.","respuesta":"Ejemplo: I was cooking when my aunt called. We talked for an hour. Vale con was/were + -ing y pasado simple correctos."}]}},
-{"nodo_id":"ems-169","titulo":"Expresar y justificar preferencias","slug":"justificar-preferencias-ingles-prepa","palabras":["prefer","because","would rather","comparar","opinión","respeto"],"contenido":{
-"idea":"Si eliges entre jugar fútbol o leer, a tus amigos les interesa saber por qué. Dar una razón hace que tu elección se entienda y se respete.",
-"pizarron":"**Expresar preferencia:** *I prefer + sustantivo o verbo con -ing.* *I prefer pizza. I prefer reading.* También: *I'd rather + verbo base: I'd rather stay home.*\n\n**Comparar dos opciones:** *I prefer tea to coffee.* / *Walking is cheaper than taking a taxi.* Con adjetivos cortos: *-er than*; con largos: *more ... than* (*more interesting than*).\n\n**Justificar:** *because* + razón: *I prefer the bus because it is cheaper.*\n\n**Respeto:** *In my opinion..., I think..., but I understand you like...*\n\nEjemplo: *I prefer studying in the morning because I feel fresh. You prefer the night, and that's fine.*\n\nPreguntar: *Which do you prefer, A or B? Why?*",
-"truco":"Prefer + opción + because + razón.",
-"practica":{"ejercicio":"Une: I prefer cycling. It is healthy.","respuesta":"I prefer cycling because it is healthy."},
-"analogias":[{"titulo":"La balanza","texto":"Comparar es poner dos opciones en una balanza; la razón con because es el peso que inclina el lado que eliges."},{"titulo":"Defender un platillo","texto":"Al decir por qué prefieres un platillo, das un ingrediente clave de tu gusto, y respetas que otros prefieran otro sabor."}],
-"ejercicios":[{"ejercicio":"Traduce: Prefiero el té al café.","respuesta":"I prefer tea to coffee."},{"ejercicio":"Completa: Trains are ____ (comfortable) ____ buses.","respuesta":"more comfortable than"},{"ejercicio":"Escribe tu preferencia entre estudiar de día o de noche, con razón y una frase respetuosa.","respuesta":"Ejemplo: I prefer studying at night because it is quiet, but I respect people who prefer the morning. Vale si incluye prefer, because y respeto."}]}},
-{"nodo_id":"ems-170","titulo":"Rutinas y hábitos con su razón","slug":"rutinas-habitos-contexto-ingles-prepa","palabras":["routine","presente simple","because","so that","to","comunidad"],"contenido":{
-"idea":"Todos tenemos rutinas: levantarnos, ir a clase, ayudar en casa. Explicar para qué las hacemos las vuelve más claras.",
-"pizarron":"Las rutinas usan **presente simple**: *I get up at six. She cleans the classroom on Fridays.* En he/she/it agrega *-s* o *-es* (*goes, watches*).\n\n**Lugares y tiempos:** *at school, at home, in my neighborhood; every day, on weekends, twice a week.*\n\n**Explicar por qué:**\n- *because* + oración: *I recycle because it protects the environment.*\n- *to* + verbo base: *I study every night to pass my exams.*\n- *so (that)* indica resultado: *I leave early so I arrive on time.*\n\nEjemplo en comunidad: *On Saturdays, we clean the street to keep it safe and clean.*\n\nNegativas con *don't/doesn't*: *He doesn't skip class because he wants to learn.*\n\nOrdena con *first, then, after that.*",
-"truco":"Rutina en presente; la razón con because o to.",
-"practica":{"ejercicio":"Une la rutina con la razón: I drink water every day. It keeps me healthy.","respuesta":"I drink water every day because it keeps me healthy. (O: to stay healthy.)"},
-"analogias":[{"titulo":"Engranes","texto":"Cada hábito es un engrane de tu día; la razón explica por qué ese engrane mueve a los demás."},{"titulo":"Regar una planta","texto":"Regar cada mañana es la rutina; la razón es que la planta crezca. Sin razón, la rutina se olvida."}],
-"ejercicios":[{"ejercicio":"Traduce: Ella camina a la escuela para hacer ejercicio.","respuesta":"She walks to school to get exercise."},{"ejercicio":"Corrige: He go to work by bus.","respuesta":"He goes to work by bus."},{"ejercicio":"Escribe dos oraciones sobre una rutina de tu casa con su razón.","respuesta":"Ejemplo: We eat together at night because we like to talk. I wash dishes to help my mom. Vale con presente simple y because o to."}]}},
-{"nodo_id":"ems-171","titulo":"Pedir y dar consejos con empatía","slug":"consejos-empatia-ingles-prepa","palabras":["should","advice","why don't you","ought to","consejo","salud"],"contenido":{
-"idea":"Cuando un amigo está cansado, no le dices \"estás mal\". Le dices con cariño: \"Quizá deberías descansar\". Los consejos amables ayudan más.",
-"pizarron":"**Pedir consejo:** *What should I do? Can you give me some advice?*\n\n**Dar consejo:**\n- *should / shouldn't* + verbo base: *You should drink more water. You shouldn't skip breakfast.*\n- *Why don't you + verbo base?* *Why don't you talk to your teacher?*\n- *If I were you, I would + verbo base.*\n\n**Empatía primero:** *I'm sorry you feel stressed. That sounds hard.* Luego el consejo.\n\n**Suaviza:** *maybe, I think, you could.* *Maybe you could make a study schedule.*\n\nTemas: salud (*sleep eight hours*), estudio (*review every day*), convivencia (*listen to others*).\n\nEjemplo: *I'm sorry you have a headache. You should rest and drink water.*",
-"truco":"Empatía, luego should + verbo base.",
-"practica":{"ejercicio":"Aconseja a alguien que duerme poco usando should.","respuesta":"You should sleep at least eight hours. (Vale should + verbo base.)"},
-"analogias":[{"titulo":"Mano amiga","texto":"Un consejo es una mano que se ofrece, no un empujón. Palabras como maybe o could la hacen suave."},{"titulo":"El médico atento","texto":"Un buen médico primero escucha y luego recomienda. Tú también: primero muestras que entiendes, después sugieres."}],
-"ejercicios":[{"ejercicio":"Traduce: Deberías estudiar un poco cada día.","respuesta":"You should study a little every day."},{"ejercicio":"Convierte en consejo suave: Eat less sugar.","respuesta":"Maybe you should eat less sugar. / Why don't you eat less sugar?"},{"ejercicio":"Un compañero pelea mucho con su grupo. Escribe una frase empática y un consejo.","respuesta":"Ejemplo: I'm sorry things are tense. Maybe you should listen to them first. Vale si hay empatía y should respetuoso."}]}},
-{"nodo_id":"ems-172","titulo":"Planes y propósitos futuros","slug":"planes-propositos-futuro-ingles-prepa","palabras":["going to","will","plans","goals","futuro","propósitos"],"contenido":{
-"idea":"Antes de un viaje haces una lista: a dónde irás y para qué. Hablar de planes es decir lo que piensas hacer y por qué te importa.",
-"pizarron":"**Planes ya pensados:** *be going to + verbo base.* *I am going to finish high school. She is going to start a business.* Negativa: *We aren't going to give up.*\n\n**Decisiones o promesas del momento:** *will + verbo base.* *I'll help you tomorrow.*\n\n**Intención:** *I plan to..., I want to..., I hope to...*\n\n**Por qué es importante:** *because, so that, to.* *I am going to study English to find a better job.*\n\n**Comunidad:** *We are going to plant trees so that our park has more shade.*\n\n**Tiempos futuros:** *tomorrow, next year, in five years.*\n\nPregunta: *What are you going to do after graduation?*",
-"truco":"Plan = am/is/are going to + verbo; promesa = will.",
-"practica":{"ejercicio":"Completa: Next year I ____ (go) to study nursing.","respuesta":"am going to study (o plan to study)"},
-"analogias":[{"titulo":"Mapa de viaje","texto":"Un plan es la ruta marcada en un mapa. Going to señala el destino elegido, y la razón es por qué quieres llegar ahí."},{"titulo":"Sembrar","texto":"Planear es sembrar hoy lo que cosecharás luego: dices qué sembrarás y para qué lo necesitas."}],
-"ejercicios":[{"ejercicio":"Traduce: Vamos a limpiar el parque este sábado.","respuesta":"We are going to clean the park this Saturday."},{"ejercicio":"Pregunta a un amigo por sus planes después de la prepa.","respuesta":"What are you going to do after high school?"},{"ejercicio":"Escribe un propósito personal con su razón.","respuesta":"Ejemplo: I am going to save money to continue studying. Vale con going to + verbo y razón con to o because."}]}}
+{
+"nodo_id": "ems-163",
+"titulo": "Reglas y responsabilidades en inglés",
+"slug": "reglas-responsabilidades-ingles-prepa",
+"palabras": [
+"must",
+"have to",
+"can't",
+"obligación",
+"prohibición",
+"normas"
+],
+"contenido": {
+"idea": "En casa, mamá dice: \"Tienes que lavar los platos\" y \"No se puede jugar en la mesa\". En inglés también hay palabras para lo que se debe hacer y para lo que está prohibido.",
+"pizarron": "**La regla:** las reglas se dicen con *must* y *have to*.\n\n**Obligación:** usa *must* o *have to* + verbo base: *I have to wash the dishes.* / *Students must wear a uniform.* Con he/she/it, *has to*: *She has to study.*\n\n**Prohibición:** usa *mustn't* o *can't* + verbo base: *You mustn't run in the hall.* / *We can't use phones in class.*\n\n**Sin obligación:** *don't have to* significa que no es necesario, pero se permite: *You don't have to bring lunch.*\n\n**Permiso:** *can* + verbo: *You can sit here.*\n\nPasos: 1) piensa si es obligatorio, prohibido o libre; 2) elige la estructura; 3) agrega el verbo base, sin *to*, después de *must* y *can*.",
+"truco": "Must = debo; mustn't = prohibido; don't have to = no hace falta.",
+"practica": {
+"ejercicio": "Completa: In my school, we ____ (must / mustn't) cheat on exams.",
+"respuesta": "mustn't. Está prohibido hacer trampa: *we mustn't cheat on exams.*"
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "*Must* es la luz verde obligatoria de un camino que sí debes tomar; *mustn't* es el alto rojo; *don't have to* es la luz amarilla: puedes elegir."
+},
+{
+"titulo": "Las reglas de un juego",
+"texto": "En un juego de mesa, hay jugadas obligatorias (must), jugadas prohibidas (mustn't) y jugadas opcionales (don't have to). Las reglas del hogar funcionan igual."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Traduce: Ella tiene que ayudar en casa.",
+"respuesta": "She has to help at home."
+},
+{
+"ejercicio": "Elige: You (mustn't / don't have to) park here; it's a no-parking zone.",
+"respuesta": "mustn't, porque estacionarse está prohibido."
+},
+{
+"ejercicio": "Escribe dos reglas de tu comunidad, una de obligación y una de prohibición.",
+"respuesta": "Ejemplo: We have to separate trash. We can't throw litter in the street. Vale cualquier par correcto con have to/must y can't/mustn't."
+}
+]
+}
+},
+{
+"nodo_id": "ems-164",
+"titulo": "Dar y pedir instrucciones en inglés",
+"slug": "instrucciones-direcciones-ingles-prepa",
+"palabras": [
+"directions",
+"imperativo",
+"cómo llegar",
+"turn left",
+"first then",
+"indicaciones"
+],
+"contenido": {
+"idea": "Imagina que un amigo con los ojos vendados quiere llegar a la puerta. Tú le dices: \"Da dos pasos, gira a la derecha\". Eso son instrucciones: pasos claros y en orden.",
+"pizarron": "**La regla:** las instrucciones usan verbos solos y palabras de orden: *first, then*.\n\n**Pedir:** *Excuse me, how do I get to the library?* / *Could you tell me how to make this form?*\n\n**Dar:** usa el imperativo, es decir, el verbo base sin sujeto: *Go straight. Turn left. Cross the street.*\n\n**Lugares:** *next to* (junto a), *across from* (enfrente de), *between* (entre), *on the corner* (en la esquina).\n\n**Conectores de orden:** *first, then, next, after that, finally.*\n\n**Negativas:** *Don't forget your ID.*\n\nEjemplo completo: *First, go straight for two blocks. Then turn right. The bank is next to the pharmacy.*\n\nAl entender instrucciones, escucha los conectores y los verbos de acción para ordenar los pasos.",
+"truco": "Verbo base al inicio y conecta los pasos: first, then, finally.",
+"practica": {
+"ejercicio": "Ordena: turn / then / left / the / at / light.",
+"respuesta": "Then turn left at the light."
+},
+"analogias": [
+{
+"titulo": "Receta de cocina",
+"texto": "Unas instrucciones son como una receta: cada paso empieza con un verbo y el orden importa, porque no puedes hornear antes de mezclar."
+},
+{
+"titulo": "El GPS",
+"texto": "El GPS dice \"gira a la izquierda\" y \"sigue recto\". Tú haces lo mismo con la voz, usando verbos y puntos de referencia como el GPS."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pide cómo llegar al hospital con cortesía.",
+"respuesta": "Excuse me, could you tell me how to get to the hospital?"
+},
+{
+"ejercicio": "Traduce: Sigue recto y cruza la calle.",
+"respuesta": "Go straight and cross the street."
+},
+{
+"ejercicio": "Completa: The school is ____ the park. (enfrente de)",
+"respuesta": "across from"
+}
+]
+}
+},
+{
+"nodo_id": "ems-165",
+"titulo": "Contar eventos pasados en secuencia",
+"slug": "relatar-eventos-secuencia-ingles-prepa",
+"palabras": [
+"past simple",
+"narrar",
+"first then",
+"conectores",
+"pasado",
+"after that"
+],
+"contenido": {
+"idea": "Cuando cuentas a un amigo cómo estuvo tu día, empiezas por lo primero y sigues hasta lo último. Si mezclas el orden, nadie te entiende.",
+"pizarron": "**La regla:** un relato va en pasado y usa conectores de tiempo.\n\nPara relatar algo que pasó usa el **pasado simple**.\n\n**Verbos regulares:** agrega *-ed*: *walk - walked, study - studied.*\n\n**Irregulares:** cambian: *go - went, eat - ate, see - saw, buy - bought.*\n\n**Negativa:** *did not (didn't)* + verbo base: *I didn't go to school.*\n\n**Conectores de secuencia:** *first, then, after that, later, finally.* Para razones: *because*; para contraste: *but.*\n\nEjemplo: *Yesterday, first I woke up late. Then I took the bus, but it was full. Finally, I arrived at school and ate lunch.*\n\nIncluye cuándo (*yesterday, last week*) para ubicar el relato en el tiempo.",
+"truco": "Pasado = -ed o irregular; ordena con first, then, finally.",
+"practica": {
+"ejercicio": "Pasa al pasado: I go to the market and buy fruit.",
+"respuesta": "I went to the market and bought fruit."
+},
+"analogias": [
+{
+"titulo": "Un collar de cuentas",
+"texto": "Cada evento es una cuenta y los conectores son el hilo. Sin el hilo, las cuentas quedan sueltas y la historia se cae."
+},
+{
+"titulo": "Fotos en orden",
+"texto": "Contar tu día es mostrar fotos una tras otra. First, then y finally son los números que indican qué foto sigue."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe en pasado: She watches TV.",
+"respuesta": "She watched TV."
+},
+{
+"ejercicio": "Forma la negativa: We saw the game.",
+"respuesta": "We didn't see the game."
+},
+{
+"ejercicio": "Une con conectores: wake up, eat breakfast, leave home (ayer).",
+"respuesta": "Yesterday, first I woke up. Then I ate breakfast. Finally, I left home. Cualquier orden lógico con pasado correcto es válido."
+}
+]
+}
+},
+{
+"nodo_id": "ems-166",
+"titulo": "Practicar y consolidar el inglés",
+"slug": "consolidar-ingles-produccion-guiada-prepa",
+"palabras": [
+"repaso",
+"producción guiada",
+"estructuras",
+"práctica",
+"oral",
+"escrito"
+],
+"contenido": {
+"idea": "Para andar en bici no basta con ver cómo otros lo hacen: hay que subirte y practicar con alguien que te sostenga. Con el inglés pasa igual.",
+"pizarron": "**Qué es:** consolidar es usar lo aprendido para producir tus propios textos.\n\nConsolidar es usar lo aprendido en tareas reales. Estructuras clave del semestre:\n\n- **Obligación y prohibición:** *must, have to, mustn't, can't.*\n- **Instrucciones:** verbo base + conectores *first, then, finally.*\n- **Relatos:** pasado simple, *didn't* y conectores.\n\n**Producción guiada** significa seguir un modelo y cambiar los datos:\n\nModelo: *Yesterday I went to the clinic. First I waited, then I talked to the doctor.*\n\nTu versión: *Last Sunday I went to my aunt's house. First I helped cook, then we ate.*\n\nPasos: 1) lee el modelo; 2) identifica la estructura; 3) cambia personas, lugares y verbos; 4) léelo en voz alta; 5) revisa verbos y orden.\n\nRepite en forma oral y escrita: hablar fija el sonido y escribir fija la forma.",
+"truco": "Modelo, cambia datos, dilo en voz alta, revisa.",
+"practica": {
+"ejercicio": "Usa el modelo \"You must wear a helmet\" para una regla de tu trabajo o escuela.",
+"respuesta": "Ejemplo: You must wear your ID at school. Es correcto si usa must + verbo base."
+},
+"analogias": [
+{
+"titulo": "El gimnasio",
+"texto": "Los músculos crecen repitiendo ejercicios con guía. Las estructuras del inglés se fortalecen igual con práctica repetida."
+},
+{
+"titulo": "Plantilla de costura",
+"texto": "Un molde permite hacer muchas prendas cambiando la tela. Una estructura modelo permite hacer muchas oraciones cambiando las palabras."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: Yesterday I ____ (visit) my cousin and we ____ (eat) tacos.",
+"respuesta": "visited; ate"
+},
+{
+"ejercicio": "Escribe dos instrucciones para llegar de tu casa a la tienda.",
+"respuesta": "Ejemplo: First, go straight two blocks. Then turn left. Vale si usa verbos base y conectores."
+},
+{
+"ejercicio": "Corrige: She must to study.",
+"respuesta": "She must study. Después de must no se usa to."
+}
+]
+}
+},
+{
+"nodo_id": "ems-167",
+"titulo": "Hábitos, frecuencia y preferencias",
+"slug": "habitos-frecuencia-preferencias-ingles-prepa",
+"palabras": [
+"always",
+"usually",
+"never",
+"like",
+"prefer",
+"presente simple",
+"rutinas"
+],
+"contenido": {
+"idea": "Hay cosas que haces todos los días, otras de vez en cuando y otras nunca. Decir cuántas veces las haces y cuáles te gustan más es hablar de hábitos y preferencias.",
+"pizarron": "**La regla:** los hábitos usan presente simple y palabras como *always* y *never*.\n\nLos hábitos se expresan en **presente simple**: *I walk to school.* Con he/she/it se agrega *-s*: *He walks.*\n\n**Adverbios de frecuencia**, de más a menos: *always (100%), usually, often, sometimes, rarely, never (0%).* Van antes del verbo: *I usually eat at home.* Con *to be* van después: *She is always on time.*\n\n**Preguntas:** *How often do you study?* - *Twice a week.*\n\n**Preferencias:** *like, love, prefer.* *I prefer tea to coffee.* / *She prefers walking to taking the bus.*\n\n**Comparar:** *In the morning I drink coffee, but at night I prefer water.*\n\nNegativa y pregunta usan *do/does*: *He doesn't like football. Do you prefer music or sports?*",
+"truco": "Frecuencia antes del verbo; con to be, después.",
+"practica": {
+"ejercicio": "Ordena: usually / my / I / do / homework / at night.",
+"respuesta": "I usually do my homework at night."
+},
+"analogias": [
+{
+"titulo": "El termómetro",
+"texto": "Los adverbios de frecuencia son un termómetro: never es frío total, sometimes tibio, always caliente. Eliges el grado que describe tu hábito."
+},
+{
+"titulo": "El menú",
+"texto": "Preferir es elegir en un menú: ves varias opciones y dices cuál escoges. Prefer sirve para decir tu elección."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Traduce: Ella nunca llega tarde.",
+"respuesta": "She never arrives late. (También: She is never late.)"
+},
+{
+"ejercicio": "Pregunta cuántas veces por semana alguien hace ejercicio.",
+"respuesta": "How often do you exercise per week?"
+},
+{
+"ejercicio": "Escribe: Él prefiere el pan al arroz.",
+"respuesta": "He prefers bread to rice."
+}
+]
+}
+},
+{
+"nodo_id": "ems-168",
+"titulo": "Experiencias pasadas con más detalle",
+"slug": "experiencias-pasadas-detalle-ingles-prepa",
+"palabras": [
+"past simple",
+"past continuous",
+"was were",
+"narrar",
+"when while",
+"anécdota"
+],
+"contenido": {
+"idea": "Contar una anécdota es como pintar una escena: no solo dices qué pasó, también cómo era el lugar y qué hacía la gente mientras tanto.",
+"pizarron": "**La regla:** pasado simple para hechos y pasado continuo para el fondo de la historia.\n\nPara dar detalle combina dos tiempos.\n\n**Pasado simple:** acciones terminadas: *I arrived at the party.*\n\n**Pasado continuo:** acciones en progreso, el fondo de la escena: *was/were + verbo con -ing.* *It was raining. They were dancing.*\n\n**Conectores:** *when* (cuando, con acción corta) y *while* (mientras, con acción larga).\n\nEjemplo: *While I was walking home, I saw an old friend.* Aquí caminar es el fondo y ver es el suceso.\n\n**Dónde y cómo:** *at the market, in the park; quickly, happily.*\n\nNegativa: *wasn't/weren't* o *didn't.*\n\nPasos: 1) ubica cuándo y dónde; 2) describe el fondo con -ing; 3) cuenta lo que ocurrió en pasado simple; 4) cierra con cómo terminó.",
+"truco": "Fondo con was/were + -ing; suceso con pasado simple.",
+"practica": {
+"ejercicio": "Completa: While we ____ (eat), the lights ____ (go) out.",
+"respuesta": "were eating; went"
+},
+"analogias": [
+{
+"titulo": "Película",
+"texto": "El pasado continuo es el escenario donde todo se mueve; el pasado simple es el momento en que algo sucede y cambia la escena."
+},
+{
+"titulo": "Río y piedra",
+"texto": "La acción larga es el río que corre; la acción corta es la piedra que cae en él. While habla del río; when, de la piedra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Traduce: Yo estudiaba cuando sonó el teléfono.",
+"respuesta": "I was studying when the phone rang."
+},
+{
+"ejercicio": "Forma la negativa: They were playing outside.",
+"respuesta": "They weren't playing outside."
+},
+{
+"ejercicio": "Cuenta en dos oraciones una experiencia con when o while.",
+"respuesta": "Ejemplo: I was cooking when my aunt called. We talked for an hour. Vale con was/were + -ing y pasado simple correctos."
+}
+]
+}
+},
+{
+"nodo_id": "ems-169",
+"titulo": "Expresar y justificar preferencias",
+"slug": "justificar-preferencias-ingles-prepa",
+"palabras": [
+"prefer",
+"because",
+"would rather",
+"comparar",
+"opinión",
+"respeto"
+],
+"contenido": {
+"idea": "Si eliges entre jugar fútbol o leer, a tus amigos les interesa saber por qué. Dar una razón hace que tu elección se entienda y se respete.",
+"pizarron": "**La regla:** preferencia más razón: *I prefer... because...*\n\n**Expresar preferencia:** *I prefer + sustantivo o verbo con -ing.* *I prefer pizza. I prefer reading.* También: *I'd rather + verbo base: I'd rather stay home.*\n\n**Comparar dos opciones:** *I prefer tea to coffee.* / *Walking is cheaper than taking a taxi.* Con adjetivos cortos: *-er than*; con largos: *more ... than* (*more interesting than*).\n\n**Justificar:** *because* + razón: *I prefer the bus because it is cheaper.*\n\n**Respeto:** *In my opinion..., I think..., but I understand you like...*\n\nEjemplo: *I prefer studying in the morning because I feel fresh. You prefer the night, and that's fine.*\n\nPreguntar: *Which do you prefer, A or B? Why?*",
+"truco": "Prefer + opción + because + razón.",
+"practica": {
+"ejercicio": "Une: I prefer cycling. It is healthy.",
+"respuesta": "I prefer cycling because it is healthy."
+},
+"analogias": [
+{
+"titulo": "La balanza",
+"texto": "Comparar es poner dos opciones en una balanza; la razón con because es el peso que inclina el lado que eliges."
+},
+{
+"titulo": "Defender un platillo",
+"texto": "Al decir por qué prefieres un platillo, das un ingrediente clave de tu gusto, y respetas que otros prefieran otro sabor."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Traduce: Prefiero el té al café.",
+"respuesta": "I prefer tea to coffee."
+},
+{
+"ejercicio": "Completa: Trains are ____ (comfortable) ____ buses.",
+"respuesta": "more comfortable than"
+},
+{
+"ejercicio": "Escribe tu preferencia entre estudiar de día o de noche, con razón y una frase respetuosa.",
+"respuesta": "Ejemplo: I prefer studying at night because it is quiet, but I respect people who prefer the morning. Vale si incluye prefer, because y respeto."
+}
+]
+}
+},
+{
+"nodo_id": "ems-170",
+"titulo": "Rutinas y hábitos con su razón",
+"slug": "rutinas-habitos-contexto-ingles-prepa",
+"palabras": [
+"routine",
+"presente simple",
+"because",
+"so that",
+"to",
+"comunidad"
+],
+"contenido": {
+"idea": "Todos tenemos rutinas: levantarnos, ir a clase, ayudar en casa. Explicar para qué las hacemos las vuelve más claras.",
+"pizarron": "**La regla:** explica hábitos en presente, con *because* para el motivo.\n\nLas rutinas usan **presente simple**: *I get up at six. She cleans the classroom on Fridays.* En he/she/it agrega *-s* o *-es* (*goes, watches*).\n\n**Lugares y tiempos:** *at school, at home, in my neighborhood; every day, on weekends, twice a week.*\n\n**Explicar por qué:**\n- *because* + oración: *I recycle because it protects the environment.*\n- *to* + verbo base: *I study every night to pass my exams.*\n- *so (that)* indica resultado: *I leave early so I arrive on time.*\n\nEjemplo en comunidad: *On Saturdays, we clean the street to keep it safe and clean.*\n\nNegativas con *don't/doesn't*: *He doesn't skip class because he wants to learn.*\n\nOrdena con *first, then, after that.*",
+"truco": "Rutina en presente; la razón con because o to.",
+"practica": {
+"ejercicio": "Une la rutina con la razón: I drink water every day. It keeps me healthy.",
+"respuesta": "I drink water every day because it keeps me healthy. (O: to stay healthy.)"
+},
+"analogias": [
+{
+"titulo": "Engranes",
+"texto": "Cada hábito es un engrane de tu día; la razón explica por qué ese engrane mueve a los demás."
+},
+{
+"titulo": "Regar una planta",
+"texto": "Regar cada mañana es la rutina; la razón es que la planta crezca. Sin razón, la rutina se olvida."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Traduce: Ella camina a la escuela para hacer ejercicio.",
+"respuesta": "She walks to school to get exercise."
+},
+{
+"ejercicio": "Corrige: He go to work by bus.",
+"respuesta": "He goes to work by bus."
+},
+{
+"ejercicio": "Escribe dos oraciones sobre una rutina de tu casa con su razón.",
+"respuesta": "Ejemplo: We eat together at night because we like to talk. I wash dishes to help my mom. Vale con presente simple y because o to."
+}
+]
+}
+},
+{
+"nodo_id": "ems-171",
+"titulo": "Pedir y dar consejos con empatía",
+"slug": "consejos-empatia-ingles-prepa",
+"palabras": [
+"should",
+"advice",
+"why don't you",
+"ought to",
+"consejo",
+"salud"
+],
+"contenido": {
+"idea": "Cuando un amigo está cansado, no le dices \"estás mal\". Le dices con cariño: \"Quizá deberías descansar\". Los consejos amables ayudan más.",
+"pizarron": "**La regla:** los consejos se dan con *You should...*\n\n**Pedir consejo:** *What should I do? Can you give me some advice?*\n\n**Dar consejo:**\n- *should / shouldn't* + verbo base: *You should drink more water. You shouldn't skip breakfast.*\n- *Why don't you + verbo base?* *Why don't you talk to your teacher?*\n- *If I were you, I would + verbo base.*\n\n**Empatía primero:** *I'm sorry you feel stressed. That sounds hard.* Luego el consejo.\n\n**Suaviza:** *maybe, I think, you could.* *Maybe you could make a study schedule.*\n\nTemas: salud (*sleep eight hours*), estudio (*review every day*), convivencia (*listen to others*).\n\nEjemplo: *I'm sorry you have a headache. You should rest and drink water.*",
+"truco": "Empatía, luego should + verbo base.",
+"practica": {
+"ejercicio": "Aconseja a alguien que duerme poco usando should.",
+"respuesta": "You should sleep at least eight hours. (Vale should + verbo base.)"
+},
+"analogias": [
+{
+"titulo": "Mano amiga",
+"texto": "Un consejo es una mano que se ofrece, no un empujón. Palabras como maybe o could la hacen suave."
+},
+{
+"titulo": "El médico atento",
+"texto": "Un buen médico primero escucha y luego recomienda. Tú también: primero muestras que entiendes, después sugieres."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Traduce: Deberías estudiar un poco cada día.",
+"respuesta": "You should study a little every day."
+},
+{
+"ejercicio": "Convierte en consejo suave: Eat less sugar.",
+"respuesta": "Maybe you should eat less sugar. / Why don't you eat less sugar?"
+},
+{
+"ejercicio": "Un compañero pelea mucho con su grupo. Escribe una frase empática y un consejo.",
+"respuesta": "Ejemplo: I'm sorry things are tense. Maybe you should listen to them first. Vale si hay empatía y should respetuoso."
+}
+]
+}
+},
+{
+"nodo_id": "ems-172",
+"titulo": "Planes y propósitos futuros",
+"slug": "planes-propositos-futuro-ingles-prepa",
+"palabras": [
+"going to",
+"will",
+"plans",
+"goals",
+"futuro",
+"propósitos"
+],
+"contenido": {
+"idea": "Antes de un viaje haces una lista: a dónde irás y para qué. Hablar de planes es decir lo que piensas hacer y por qué te importa.",
+"pizarron": "**La regla:** los planes se dicen con *going to*.\n\n**Planes ya pensados:** *be going to + verbo base.* *I am going to finish high school. She is going to start a business.* Negativa: *We aren't going to give up.*\n\n**Decisiones o promesas del momento:** *will + verbo base.* *I'll help you tomorrow.*\n\n**Intención:** *I plan to..., I want to..., I hope to...*\n\n**Por qué es importante:** *because, so that, to.* *I am going to study English to find a better job.*\n\n**Comunidad:** *We are going to plant trees so that our park has more shade.*\n\n**Tiempos futuros:** *tomorrow, next year, in five years.*\n\nPregunta: *What are you going to do after graduation?*",
+"truco": "Plan = am/is/are going to + verbo; promesa = will.",
+"practica": {
+"ejercicio": "Completa: Next year I ____ (go) to study nursing.",
+"respuesta": "am going to study (o plan to study)"
+},
+"analogias": [
+{
+"titulo": "Mapa de viaje",
+"texto": "Un plan es la ruta marcada en un mapa. Going to señala el destino elegido, y la razón es por qué quieres llegar ahí."
+},
+{
+"titulo": "Sembrar",
+"texto": "Planear es sembrar hoy lo que cosecharás luego: dices qué sembrarás y para qué lo necesitas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Traduce: Vamos a limpiar el parque este sábado.",
+"respuesta": "We are going to clean the park this Saturday."
+},
+{
+"ejercicio": "Pregunta a un amigo por sus planes después de la prepa.",
+"respuesta": "What are you going to do after high school?"
+},
+{
+"ejercicio": "Escribe un propósito personal con su razón.",
+"respuesta": "Ejemplo: I am going to save money to continue studying. Vale con going to + verbo y razón con to o because."
+}
+]
+}
+}
 ]

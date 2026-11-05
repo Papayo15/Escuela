@@ -1,1959 +1,1959 @@
 [
-{
-"nodo_id": "f6-125",
-"titulo": "Verb to be",
-"slug": "verb-to-be-secundaria",
-"palabras": [
-"to be",
-"ser",
-"estar",
-"am",
-"is",
-"are"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tres camisetas",
-"texto": "El verbo trae tres camisetas y la persona elige cuál ponerle."
-},
-{
-"titulo": "Dos en uno",
-"texto": "Como una navaja, una herramienta hace el trabajo de ser y de estar."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *She ___ my sister.*",
-"respuesta": "*is*"
-},
-{
-"ejercicio": "Niega: *I am tired.*",
-"respuesta": "*I am not tired.*"
-},
-{
-"ejercicio": "Pregunta: *You are ready.*",
-"respuesta": "*Are you ready?*"
-}
-],
-"idea": "En español tenemos ser y estar. En inglés las dos ideas caben en un solo verbo, que cambia según la persona.",
-"pizarron": "**La regla:** el verbo *to be* significa ser o estar. En presente tiene tres formas: *am*, *is* y *are*.\n\n**Qué quiere decir:** cada persona usa su forma.\n\n| Persona | Forma | Corta |\n|---|---|---|\n| I | am | I'm |\n| he, she, it | is | he's |\n| you, we, they | are | you're |\n\n**Negar:** agrega *not*. *She is not here.*\n\n**Preguntar:** *to be* pasa al inicio. *Is she here?*\n\n**Ejemplo:** *I am a student. They are in Puebla.*",
-"truco": "Am con I; is con uno; are con los demás.",
-"practica": {
-"ejercicio": "Completa: *They ___ friends.*",
-"respuesta": "*are*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Pronombres personales",
-"slug": "pronombres-personales-secundaria",
-"palabras": [
-"pronombres",
-"I",
-"you",
-"he",
-"she",
-"it",
-"we",
-"they"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Suplentes",
-"texto": "Entran a la cancha en lugar del nombre."
-},
-{
-"titulo": "Sin sujeto no arranca",
-"texto": "Como un coche sin llave, la oración no avanza sin él."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Cambia *the dog*.",
-"respuesta": "*It*"
-},
-{
-"ejercicio": "Cambia *Ana and I*.",
-"respuesta": "*We*"
-},
-{
-"ejercicio": "Corrige: *Is raining.*",
-"respuesta": "*It is raining.*"
-}
-],
-"idea": "Para no repetir María, María, dices ella. En inglés siempre debes decir la persona.",
-"pizarron": "**La regla:** los pronombres personales sustituyen al nombre del sujeto, y en inglés el sujeto siempre debe aparecer.\n\n*I*: yo.\n\n*you*: tú o ustedes.\n\n*he*: él.\n\n*she*: ella.\n\n*it*: cosa o animal.\n\n*we*: nosotros.\n\n*they*: ellos.\n\n*It* también va en clima y hora: *It is cold.*\n\n**Ejemplo:** *Maria is here. She is happy.*",
-"truco": "En inglés nunca falta el sujeto.",
-"practica": {
-"ejercicio": "Cambia *Luis*: ___ is tall.",
-"respuesta": "*He*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Artículos a, an y the",
-"slug": "articulos-a-an-y-the-secundaria",
-"palabras": [
-"artículos",
-"a",
-"an",
-"the"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Cualquiera o ese",
-"texto": "A es cualquier asiento; the es tu asiento."
-},
-{
-"titulo": "Puente de sonido",
-"texto": "La n hace más fácil pasar de una vocal a otra."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: ___ university.",
-"respuesta": "*a*, porque suena como yu."
-},
-{
-"ejercicio": "Completa: *Close ___ door, please.*",
-"respuesta": "*the*"
-},
-{
-"ejercicio": "Completa: *I saw ___ elephant.*",
-"respuesta": "*an*"
-}
-],
-"idea": "Un perro puede ser cualquiera; el perro es uno que ya conoces. Esa diferencia existe en inglés.",
-"pizarron": "**La regla:** *a* y *an* se usan con algo no específico, en singular. *The* se usa con algo específico.\n\n**a:** antes de sonido de consonante. *a book.*\n\n**an:** antes de sonido de vocal. *an apple, an hour.*\n\n**the:** ya sabemos cuál. *The book is on the table.*\n\nOjo: importa el sonido. *An hour*, porque la h no suena.\n\nSin artículo: *I love music.*",
-"truco": "Mira el sonido, no la letra.",
-"practica": {
-"ejercicio": "Completa: ___ orange.",
-"respuesta": "*an*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Plurales",
-"slug": "plurales-secundaria",
-"palabras": [
-"plurales",
-"-s",
-"-es",
-"irregulares"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Reglas de un juego",
-"texto": "Casi todas siguen la regla y unas se saltan el turno."
-},
-{
-"titulo": "Traje especial",
-"texto": "Child se cambia de traje para volverse children."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Plural de *bus*.",
-"respuesta": "*buses*"
-},
-{
-"ejercicio": "Plural de *man*.",
-"respuesta": "*men*"
-},
-{
-"ejercicio": "Plural de *key*.",
-"respuesta": "*keys*"
-}
-],
-"idea": "En inglés casi siempre basta una s. Pero algunas palabras traen sorpresas.",
-"pizarron": "**La regla:** el plural se forma con *-s*. Las palabras en *s, x, ch, sh, o* agregan *-es*, y las que terminan en consonante más *y* cambian a *-ies*.\n\n*book*, *books*.\n\n*box*, *boxes*.\n\n*city*, *cities*.\n\n*boy*, *boys*: vocal más *y* no cambia.\n\n**Irregulares:**\n\n*man*, *men*.\n\n*woman*, *women*.\n\n*child*, *children*.\n\n*foot*, *feet*.\n\n*tooth*, *teeth*.",
-"truco": "Casi siempre -s; memoriza los raros.",
-"practica": {
-"ejercicio": "Plural de *baby*.",
-"respuesta": "*babies*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "This, that, these y those",
-"slug": "this-that-these-y-those-secundaria",
-"palabras": [
-"demostrativos",
-"this",
-"that",
-"these",
-"those"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tabla de dos filas",
-"texto": "Una pregunta es cerca o lejos; la otra, uno o varios."
-},
-{
-"titulo": "Señalar",
-"texto": "Tu mano toca this y tu dedo apunta a that."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: ___ car over there is red.",
-"respuesta": "*That*"
-},
-{
-"ejercicio": "Completa: ___ is my brother. (a mi lado)",
-"respuesta": "*This*"
-},
-{
-"ejercicio": "Corrige: *This books are old.*",
-"respuesta": "*These books are old.*"
-}
-],
-"idea": "Con tu dedo señalas lo cercano o lo lejano, uno o varios. En inglés son cuatro palabras.",
-"pizarron": "**La regla:** *this* y *these* señalan lo cercano. *That* y *those* señalan lo lejano. *This* y *that* son singulares; *these* y *those* son plurales.\n\n| | Cerca | Lejos |\n|---|---|---|\n| Uno | this | that |\n| Varios | these | those |\n\n*This is my pen.*\n\n*Those are my shoes.*\n\n*These books are new.*",
-"truco": "These y those van con plural.",
-"practica": {
-"ejercicio": "Completa: ___ apples here are good.",
-"respuesta": "*These*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "There is y there are",
-"slug": "there-is-y-there-are-secundaria",
-"palabras": [
-"there is",
-"there are",
-"hay"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Inventario",
-"texto": "Revisas lo que hay y anotas si es uno o varios."
-},
-{
-"titulo": "La lista",
-"texto": "Es una lista de existencias: ni dueño ni acción."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: ___ some milk.",
-"respuesta": "*There is*"
-},
-{
-"ejercicio": "Pregunta: ¿Hay un banco?",
-"respuesta": "*Is there a bank?*"
-},
-{
-"ejercicio": "Pasa a pasado: *There are ten boys.*",
-"respuesta": "*There were ten boys.*"
-}
-],
-"idea": "Para decir qué hay en un cuarto, el inglés usa dos palabras que no se traducen una por una.",
-"pizarron": "**La regla:** *there is* significa hay con singular o incontable. *There are* significa hay con plural.\n\n*There is a dog.*\n\n*There is water.*\n\n*There are two dogs.*\n\n**Negar:** *There isn't*, *There aren't*.\n\n**Preguntar:** *Is there...? Are there...?*\n\n**Pasado:** *There was*, *There were*.",
-"truco": "Mira la primera cosa que nombras.",
-"practica": {
-"ejercicio": "Completa: ___ three cats.",
-"respuesta": "*There are*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Sustantivos contables e incontables",
-"slug": "sustantivos-contables-e-incontables-secundaria",
-"palabras": [
-"contables",
-"incontables",
-"countable"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Canicas y arena",
-"texto": "Las canicas se cuentan, la arena se mide."
-},
-{
-"titulo": "Vasos",
-"texto": "Mides el agua en vasos para poder contar."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Corrige: *two informations*.",
-"respuesta": "*two pieces of information*"
-},
-{
-"ejercicio": "¿*Book* es contable?",
-"respuesta": "Sí."
-},
-{
-"ejercicio": "Di «un vaso de leche».",
-"respuesta": "*a glass of milk*"
-}
-],
-"idea": "Puedes contar manzanas, pero no contar agua. El inglés separa estas dos clases de cosas.",
-"pizarron": "**Qué es:** los sustantivos contables se pueden contar y tienen plural. Los incontables no se cuentan con números.\n\n**Contables:** *apple, book, friend.*\n\n*Two apples.*\n\n**Incontables:** *water, rice, money, information, advice.*\n\nPara contar incontables usa medidas:\n\n*a glass of water*, *a piece of advice*.\n\nIncontables no llevan *a* ni *-s*: se dice *some rice*.",
-"truco": "Si no puedes decir dos, es incontable.",
-"practica": {
-"ejercicio": "¿*Rice* es contable?",
-"respuesta": "No."
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Some y any",
-"slug": "some-y-any-secundaria",
-"palabras": [
-"some",
-"any",
-"cantidades"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Plato",
-"texto": "Some muestra algo en el plato; any revisa si queda algo."
-},
-{
-"titulo": "Pregunta amable",
-"texto": "Ofrecer usa some porque esperas un sí."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *There are ___ books.*",
-"respuesta": "*some*"
-},
-{
-"ejercicio": "Completa: *Is there ___ milk?*",
-"respuesta": "*any*"
-},
-{
-"ejercicio": "Completa: *Would you like ___ cake?*",
-"respuesta": "*some*"
-}
-],
-"idea": "Tienes algunas galletas; no tienes ninguna. Some afirma y any aparece para negar o preguntar.",
-"pizarron": "**La regla:** *some* se usa en afirmaciones. *Any* se usa en negaciones y preguntas.\n\n*I have some apples.*\n\n*I don't have any apples.*\n\n*Do you have any apples?*\n\n**Excepción:** al ofrecer o pedir se usa *some*.\n\n*Would you like some tea?*\n\n*Can I have some water?*\n\nSirven con plurales e incontables.",
-"truco": "Some sí; any no o pregunta.",
-"practica": {
-"ejercicio": "Completa: *I don't have ___ money.*",
-"respuesta": "*any*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Preposiciones de lugar",
-"slug": "preposiciones-de-lugar-secundaria",
-"palabras": [
-"preposiciones",
-"in",
-"on",
-"at",
-"under"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Caja, mesa y mapa",
-"texto": "In es la caja, on es la mesa y at un punto en el mapa."
-},
-{
-"titulo": "La escondida",
-"texto": "Cada palabra es una pista del lugar."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *I am ___ school.*",
-"respuesta": "*at*"
-},
-{
-"ejercicio": "Completa: *He lives ___ Mexico.*",
-"respuesta": "*in*"
-},
-{
-"ejercicio": "Di «detrás de la casa».",
-"respuesta": "*behind the house*"
-}
-],
-"idea": "¿Dónde está tu pelota? Estas palabras son las coordenadas para decirlo en inglés.",
-"pizarron": "**La regla:** *in* es dentro de un espacio, *on* es sobre una superficie y *at* es en un punto o lugar.\n\n*in the box, in Mexico.*\n\n*on the table, on the wall.*\n\n*at school, at the door.*\n\n**Otras:**\n\n*under*: debajo.\n\n*next to*: junto a.\n\n*between*: entre.\n\n*behind*: detrás.\n\n*in front of*: enfrente de.",
-"truco": "In adentro, on encima, at en un punto.",
-"practica": {
-"ejercicio": "Completa: *The picture is ___ the wall.*",
-"respuesta": "*on*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Preposiciones de tiempo",
-"slug": "preposiciones-de-tiempo-secundaria",
-"palabras": [
-"preposiciones de tiempo",
-"in",
-"on",
-"at"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Pirámide",
-"texto": "In es la base ancha y at es la punta."
-},
-{
-"titulo": "Zoom",
-"texto": "Vas del año al día y a la hora."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: ___ 7 o'clock.",
-"respuesta": "*at*"
-},
-{
-"ejercicio": "Completa: ___ 1999.",
-"respuesta": "*in*"
-},
-{
-"ejercicio": "Completa: ___ my birthday.",
-"respuesta": "*on*"
-}
-],
-"idea": "Las mismas tres palabras sirven para el tiempo: van de lo más grande a lo más pequeño.",
-"pizarron": "**La regla:** *in* va con periodos largos, *on* con días y fechas, *at* con horas exactas.\n\n**in:** *in 2020, in May, in summer, in the morning.*\n\n**on:** *on Monday, on May 5.*\n\n**at:** *at 5 o'clock, at night, at noon.*\n\nPiensa en una pirámide: arriba *at*, abajo *in*.",
-"truco": "In grande, on día, at hora.",
-"practica": {
-"ejercicio": "Completa: ___ Friday.",
-"respuesta": "*on*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Números, colores y días",
-"slug": "numeros-colores-y-dias-secundaria",
-"palabras": [
-"números",
-"colores",
-"días",
-"vocabulario"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Kit básico",
-"texto": "Son las primeras herramientas que metes a tu mochila."
-},
-{
-"titulo": "Calendario",
-"texto": "Di la fecha en inglés cada mañana y se queda."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Escribe 30.",
-"respuesta": "*thirty*"
-},
-{
-"ejercicio": "¿Qué día es *Wednesday*?",
-"respuesta": "Miércoles."
-},
-{
-"ejercicio": "Di tu edad en inglés.",
-"respuesta": "*I am* más tu edad."
-}
-],
-"idea": "Con números, colores y días ya puedes decir tu edad, describir algo y hacer una cita.",
-"pizarron": "**Qué es:** es el vocabulario básico para contar, describir y organizar el tiempo.\n\n**Números:** *one, two, three, ten, twenty, thirty, one hundred.*\n\n**Colores:** *red, blue, green, yellow, black, white, brown, gray.*\n\n**Días:** *Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.*\n\n**En frases:**\n\n*I am fifteen.*\n\n*My bag is black.*\n\n*See you on Monday.*\n\nDías con mayúscula. El color va antes de la cosa.",
-"truco": "Días con mayúscula y color antes.",
-"practica": {
-"ejercicio": "Di «coche rojo».",
-"respuesta": "*red car*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Familia y partes del cuerpo",
-"slug": "familia-y-partes-del-cuerpo-secundaria",
-"palabras": [
-"familia",
-"cuerpo",
-"vocabulario"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Árbol y mapa",
-"texto": "Un árbol para la familia y un mapa para el cuerpo."
-},
-{
-"titulo": "Consulta",
-"texto": "En el doctor, estas palabras te sirven para explicar qué sientes."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué significa *cousin*?",
-"respuesta": "Primo o prima."
-},
-{
-"ejercicio": "Di «Tengo un hermano».",
-"respuesta": "*I have one brother.*"
-},
-{
-"ejercicio": "¿Qué significa *back*?",
-"respuesta": "Espalda."
-}
-],
-"idea": "Las personas que más quieres y tu cuerpo son los primeros temas para hablar en cualquier idioma.",
-"pizarron": "**Qué es:** vocabulario para hablar de tu familia y de tu salud.\n\n**Familia:** *mother, father, sister, brother, grandmother, uncle, aunt, cousin.*\n\n**Cuerpo:** *head, eyes, nose, mouth, arm, hand, leg, foot, back, stomach.*\n\n**En frases:**\n\n*I have two sisters.*\n\n*My head hurts.* Me duele la cabeza.\n\n*I have a stomachache.* Tengo dolor de estómago.\n\nCon partes del cuerpo se usa *my*, no *the*.",
-"truco": "Di my head, no the head.",
-"practica": {
-"ejercicio": "Di «Me duele la pierna».",
-"respuesta": "*My leg hurts.*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Comida y ropa",
-"slug": "comida-y-ropa-secundaria",
-"palabras": [
-"comida",
-"ropa",
-"vocabulario"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Menú",
-"texto": "Las palabras son el menú que abres en un restaurante."
-},
-{
-"titulo": "Armario",
-"texto": "Abre tu armario y nombra lo que ves."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué significa *beef*?",
-"respuesta": "Carne de res."
-},
-{
-"ejercicio": "Pregunta cuánto cuestan los zapatos.",
-"respuesta": "*How much are these shoes?*"
-},
-{
-"ejercicio": "¿Qué significa *skirt*?",
-"respuesta": "Falda."
-}
-],
-"idea": "Comer y vestirse son cosas de todos los días, así que estas palabras te servirán a diario.",
-"pizarron": "**Qué es:** vocabulario para pedir comida y hablar de ropa.\n\n**Comida:** *bread, rice, chicken, beef, eggs, cheese, vegetables, fruit, water, juice.*\n\n**Ropa:** *shirt, pants, dress, skirt, shoes, jacket, socks, hat.*\n\n**En frases:**\n\n*Can I have a sandwich, please?*\n\n*I am wearing a jacket.*\n\n*How much are these shoes?*\n\n*Pants* y *shoes* van en plural.",
-"truco": "Pide con can I have.",
-"practica": {
-"ejercicio": "Di «Traigo una camisa».",
-"respuesta": "*I am wearing a shirt.*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "La hora en inglés",
-"slug": "la-hora-en-ingles-secundaria",
-"palabras": [
-"la hora",
-"what time is it",
-"o'clock"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Reloj de pizza",
-"texto": "La mitad es half y cada cuarto es quarter."
-},
-{
-"titulo": "Fila",
-"texto": "Past ya pasó la parada; to todavía va llegando."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di 4:15.",
-"respuesta": "*It is a quarter past four.*"
-},
-{
-"ejercicio": "Di 8:50 con *to*.",
-"respuesta": "*It is ten to nine.*"
-},
-{
-"ejercicio": "¿Qué significa *p.m.*?",
-"respuesta": "Después del mediodía."
-}
-],
-"idea": "Un reloj te dice qué hora es en cualquier idioma, pero hay que saber decirlo.",
-"pizarron": "**La regla:** la hora se dice con *It is* más la hora, y se pregunta con *What time is it?*\n\n**Exacta:** *It is three o'clock.*\n\n**Con números:** *It is three twenty.*\n\n**Past:** minutos después. *It is ten past three.*\n\n**To:** minutos antes. *It is ten to four.*\n\n**Quarter y half:** *a quarter past three*, *half past three*.\n\n*a.m.*: mañana. *p.m.*: tarde.",
-"truco": "Past pasó; to falta.",
-"practica": {
-"ejercicio": "Di 6:30.",
-"respuesta": "*It is half past six.*"
-}
-}
-},
-{
-"nodo_id": "f6-125",
-"titulo": "Saludos y frases útiles",
-"slug": "saludos-y-frases-utiles-secundaria",
-"palabras": [
-"saludos",
-"frases útiles",
-"conversación"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Llaves",
-"texto": "Cada frase abre una conversación."
-},
-{
-"titulo": "Salvavidas",
-"texto": "Si te pierdes, una frase te rescata."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di «No entiendo».",
-"respuesta": "*I don't understand.*"
-},
-{
-"ejercicio": "¿Qué significa *See you later*?",
-"respuesta": "Nos vemos luego."
-},
-{
-"ejercicio": "Di «¿Me puede ayudar?».",
-"respuesta": "*Can you help me?*"
-}
-],
-"idea": "Con saludos y frases listas ya puedes empezar una plática aunque sepas poco inglés.",
-"pizarron": "**Qué es:** expresiones hechas para saludar, presentarte y pedir ayuda.\n\n*Hello. Good morning.*\n\n*What's your name?*\n\n*Nice to meet you.*\n\n*How are you?*\n\n*I'm fine, thanks.*\n\n*Excuse me.*\n\n*I'm sorry.*\n\n*Can you help me?*\n\n*I don't understand.*\n\n*See you later.*\n\nAprende frases completas y no palabras sueltas.",
-"truco": "Aprende la frase completa.",
-"practica": {
-"ejercicio": "¿Qué dices al conocer a alguien?",
-"respuesta": "*Nice to meet you.*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Presente simple: afirmativo",
-"slug": "presente-simple-afirmativo-secundaria",
-"palabras": [
-"presente simple",
-"hábitos",
-"-s"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Tu horario",
-"texto": "Dice lo que siempre haces en la semana."
-},
-{
-"titulo": "La s viajera",
-"texto": "Va a acompañar a he y she."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *She ___ (watch) TV.*",
-"respuesta": "*watches*"
-},
-{
-"ejercicio": "Completa: *Tom ___ (study) a lot.*",
-"respuesta": "*studies*"
-},
-{
-"ejercicio": "Completa: *We ___ (live) here.*",
-"respuesta": "*live*"
-}
-],
-"idea": "Lo que haces todos los días, como ir a la escuela, se dice en presente simple.",
-"pizarron": "**La regla:** el presente simple habla de hábitos y hechos. Con *he, she, it* el verbo agrega *-s*.\n\n*I work.*\n\n*She works.*\n\n*We study.*\n\n*He studies.* Consonante más *y* cambia a *-ies*.\n\n*She goes.* Verbos en *o, s, ch, sh, x* agregan *-es*.\n\n**Irregular:** *have* cambia a *has*.\n\n**Palabras pista:** *always, usually, every day.*",
-"truco": "He, she e it llevan -s.",
-"practica": {
-"ejercicio": "Completa: *He ___ (play) soccer.*",
-"respuesta": "*plays*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Presente simple: negativo y preguntas",
-"slug": "presente-simple-negativo-y-preguntas-secundaria",
-"palabras": [
-"don't",
-"doesn't",
-"do",
-"does"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Ayudante",
-"texto": "Do carga el peso para que el verbo descanse."
-},
-{
-"titulo": "Mochila de -s",
-"texto": "Does se lleva la s y el verbo queda libre."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Pregunta: *He eats meat.*",
-"respuesta": "*Does he eat meat?*"
-},
-{
-"ejercicio": "Niega: *We go out.*",
-"respuesta": "*We don't go out.*"
-},
-{
-"ejercicio": "Corrige: *He doesn't plays.*",
-"respuesta": "*He doesn't play.*"
-}
-],
-"idea": "Para negar o preguntar se llama a un ayudante: do. Con él, el verbo descansa.",
-"pizarron": "**La regla:** se niega con *don't* o *doesn't* y se pregunta con *Do* o *Does*, y el verbo queda en forma base.\n\n*I don't work.*\n\n*She doesn't work.* Sin *-s*.\n\n*Do you work?*\n\n*Does he work?*\n\n**Respuestas:** *Yes, I do. No, he doesn't.*\n\n**Con palabra de pregunta:** *Where do you live?*",
-"truco": "Does ya trae la s.",
-"practica": {
-"ejercicio": "Niega: *She plays.*",
-"respuesta": "*She doesn't play.*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Presente continuo",
-"slug": "presente-continuo-secundaria",
-"palabras": [
-"presente continuo",
-"-ing",
-"am",
-"is",
-"are"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Video en vivo",
-"texto": "Muestra lo que pasa en este instante."
-},
-{
-"titulo": "Par de zapatos",
-"texto": "Am e -ing siempre van juntos."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Corrige: *I am know him.*",
-"respuesta": "*I know him.*"
-},
-{
-"ejercicio": "Pregunta: *He is cooking.*",
-"respuesta": "*Is he cooking?*"
-},
-{
-"ejercicio": "Escribe el -ing de *swim*.",
-"respuesta": "*swimming*"
-}
-],
-"idea": "Tu amigo te pregunta qué haces y dices estoy comiendo. Esa acción de ahora es presente continuo.",
-"pizarron": "**La regla:** el presente continuo se forma con *am, is, are* más verbo con *-ing*, y habla de lo que pasa ahora.\n\n*I am eating.*\n\n*She is reading.*\n\n*They are playing.*\n\n**Negar:** *He is not sleeping.*\n\n**Preguntar:** *Are you studying?*\n\n**Ortografía:** *make*, *making*. *run*, *running*.\n\n**Sin -ing:** *know, want, like* normalmente no van en continuo.",
-"truco": "Dos piezas: to be y -ing.",
-"practica": {
-"ejercicio": "Di «Estoy estudiando».",
-"respuesta": "*I am studying.*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Pasado simple regular",
-"slug": "pasado-simple-regular-secundaria",
-"palabras": [
-"pasado simple",
-"-ed",
-"regular"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Sello",
-"texto": "-ed marca que la acción ya se terminó."
-},
-{
-"titulo": "Cápsula",
-"texto": "Guarda la acción en el ayer."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Pasado de *stop*.",
-"respuesta": "*stopped*"
-},
-{
-"ejercicio": "Pasado de *live*.",
-"respuesta": "*lived*"
-},
-{
-"ejercicio": "Completa: *They ___ (watch) a movie.*",
-"respuesta": "*watched*"
-}
-],
-"idea": "Lo que ya terminó se cuenta en pasado. Para muchos verbos, basta agregar -ed.",
-"pizarron": "**La regla:** los verbos regulares forman el pasado agregando *-ed*, igual para todas las personas.\n\n*I played.*\n\n*She worked.*\n\n**Ortografía:**\n\n- Termina en *e*: solo *-d*. *lived.*\n- Consonante más *y*: *-ied*. *studied.*\n- Vocal y consonante: dobla. *stopped.*\n\n**Pista:** *yesterday, last week, ago.*",
-"truco": "Agrega -ed y ya pasó.",
-"practica": {
-"ejercicio": "Pasado de *study*.",
-"respuesta": "*studied*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Pasado simple irregular",
-"slug": "pasado-simple-irregular-secundaria",
-"palabras": [
-"pasado irregular",
-"went",
-"had"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Estampas",
-"texto": "Colecciona cada semana unos verbos nuevos."
-},
-{
-"titulo": "Rebeldes",
-"texto": "No aceptan la regla de -ed."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Pasado de *take*.",
-"respuesta": "*took*"
-},
-{
-"ejercicio": "Pasa a pasado: *We see a dog.*",
-"respuesta": "*We saw a dog.*"
-},
-{
-"ejercicio": "Pasado de *come*.",
-"respuesta": "*came*"
-}
-],
-"idea": "Unos verbos no usan -ed: cambian completos. Son pocos, pero se usan muchísimo.",
-"pizarron": "**La regla:** los verbos irregulares tienen una forma propia de pasado, que se aprende de memoria.\n\n| Base | Pasado | Significado |\n|---|---|---|\n| go | went | ir |\n| have | had | tener |\n| see | saw | ver |\n| eat | ate | comer |\n| take | took | tomar |\n| buy | bought | comprar |\n| make | made | hacer |\n| come | came | venir |\n\n*I went home.*\n\n*She bought a bag.*",
-"truco": "Memoriza pocos cada semana.",
-"practica": {
-"ejercicio": "Pasado de *buy*.",
-"respuesta": "*bought*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Futuro con will",
-"slug": "futuro-con-will-secundaria",
-"palabras": [
-"will",
-"futuro",
-"predicción"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Promesa",
-"texto": "Lo dices en el momento y te comprometes."
-},
-{
-"titulo": "Bola de cristal",
-"texto": "Predices lo que crees que pasará."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Corrige: *He will goes.*",
-"respuesta": "*He will go.*"
-},
-{
-"ejercicio": "Niega: *She will come.*",
-"respuesta": "*She won't come.*"
-},
-{
-"ejercicio": "Pregunta: *They will win.*",
-"respuesta": "*Will they win?*"
-}
-],
-"idea": "Cuando decides algo al momento o predices, en inglés usas will.",
-"pizarron": "**La regla:** *will* más verbo en forma base expresa decisiones del momento, promesas y predicciones.\n\n*I will help you.* Decisión.\n\n*It will rain.* Predicción.\n\n**Negar:** *won't*.\n\n**Preguntar:** *Will you come?*\n\n**Corto:** *I'll, she'll.*\n\nDespués de *will*, no se usa *to* ni *-s*.",
-"truco": "Will más verbo solo.",
-"practica": {
-"ejercicio": "Di «Te ayudaré».",
-"respuesta": "*I will help you.*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Futuro con going to",
-"slug": "futuro-con-going-to-secundaria",
-"palabras": [
-"going to",
-"planes",
-"futuro"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Boleto",
-"texto": "Ya lo compraste y solo falta el día."
-},
-{
-"titulo": "Nubes negras",
-"texto": "Las ves y sabes lo que viene."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿*Will* o *going to*? Ya compraste boletos.",
-"respuesta": "*going to*"
-},
-{
-"ejercicio": "Corrige: *She going to read.*",
-"respuesta": "*She is going to read.*"
-},
-{
-"ejercicio": "Pregunta: *He is going to work.*",
-"respuesta": "*Is he going to work?*"
-}
-],
-"idea": "Cuando ya tienes un plan, no improvisas: dices que lo vas a hacer con going to.",
-"pizarron": "**La regla:** *am, is, are* más *going to* más verbo base expresa planes e intenciones, y lo que se ve venir.\n\n*I am going to study.*\n\n*She is going to travel.*\n\n**Evidencia:** *Look! It is going to rain.*\n\n**Negar:** *I am not going to go.*\n\n**Preguntar:** *Are you going to come?*\n\n**Diferencia:** ya está decidido, *going to*. Lo decides ahora, *will*.",
-"truco": "Plan hecho: going to.",
-"practica": {
-"ejercicio": "Di «Vamos a viajar».",
-"respuesta": "*We are going to travel.*"
-}
-}
-},
-{
-"nodo_id": "f6-130",
-"titulo": "Palabras interrogativas",
-"slug": "palabras-interrogativas-secundaria",
-"palabras": [
-"what",
-"where",
-"when",
-"why",
-"how"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Llaveros",
-"texto": "Cada palabra abre una información distinta."
-},
-{
-"titulo": "Detective",
-"texto": "Sus preguntas descubren quién, cuándo y dónde."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué significa *which*?",
-"respuesta": "Cuál."
-},
-{
-"ejercicio": "Ordena: *you / do / live / where*.",
-"respuesta": "*Where do you live?*"
-},
-{
-"ejercicio": "Pregunta por qué lloró.",
-"respuesta": "*Why did he cry?*"
-}
-],
-"idea": "Las preguntas abren la puerta a la información, y estas palabras son las llaves.",
-"pizarron": "**Qué es:** las palabras interrogativas inician preguntas de información.\n\n*What*: qué. *Where*: dónde. *When*: cuándo.\n\n*Who*: quién. *Why*: por qué. *How*: cómo.\n\n*Which*: cuál. *How much/many*: cuánto.\n\n**Orden:** palabra + ayudante + sujeto + verbo.\n\n*Where do you live?*\n\n*What is she doing?*\n\n*Why did you go?*\n\nRespuesta de *why*: *Because...*",
-"truco": "Palabra, ayudante, sujeto y verbo.",
-"practica": {
-"ejercicio": "Pregunta dónde trabaja ella.",
-"respuesta": "*Where does she work?*"
-}
-}
-},
-{
-"nodo_id": "ems-156",
-"titulo": "Comparativos",
-"slug": "comparativos-prepa",
-"palabras": [
-"comparativos",
-"-er",
-"more",
-"than"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Balanza",
-"texto": "Than es el centro de la balanza."
-},
-{
-"titulo": "Regla",
-"texto": "Pones dos cosas al lado para medir."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Comparativo de *good*.",
-"respuesta": "*better*"
-},
-{
-"ejercicio": "Di «más cómodo».",
-"respuesta": "*more comfortable*"
-},
-{
-"ejercicio": "Di «tan alto como Luis».",
-"respuesta": "*as tall as Luis*"
-}
-],
-"idea": "Comparas dos cosas: una más grande, otra más cara. El inglés lo hace según lo larga que sea la palabra.",
-"pizarron": "**La regla:** los adjetivos cortos agregan *-er*; los largos usan *more*; ambos llevan *than*.\n\n*tall*, *taller than*.\n\n*big*, *bigger than*.\n\n*easy*, *easier than*.\n\n*expensive*, *more expensive than*.\n\n**Irregulares:** *good*, *better*. *bad*, *worse*.\n\n**Igualdad:** *as tall as.*",
-"truco": "Corto -er; largo more.",
-"practica": {
-"ejercicio": "Di «Ana es más alta que yo».",
-"respuesta": "*Ana is taller than me.*"
-}
-}
-},
-{
-"nodo_id": "ems-156",
-"titulo": "Superlativos",
-"slug": "superlativos-prepa",
-"palabras": [
-"superlativos",
-"-est",
-"most"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Podio",
-"texto": "Solo uno sube al primer lugar."
-},
-{
-"titulo": "Corona",
-"texto": "The es la corona del ganador."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Superlativo de *bad*.",
-"respuesta": "*the worst*"
-},
-{
-"ejercicio": "Di «la más cara».",
-"respuesta": "*the most expensive*"
-},
-{
-"ejercicio": "Superlativo de *happy*.",
-"respuesta": "*the happiest*"
-}
-],
-"idea": "En una carrera, uno es el más rápido de todos. Ese es el superlativo.",
-"pizarron": "**La regla:** los adjetivos cortos usan *the* más *-est*; los largos usan *the most*.\n\n*tall*, *the tallest*.\n\n*big*, *the biggest*.\n\n*happy*, *the happiest*.\n\n*expensive*, *the most expensive*.\n\n**Irregulares:** *good*, *the best*. *bad*, *the worst*.\n\n*She is the tallest in the class.*",
-"truco": "The, -est o most.",
-"practica": {
-"ejercicio": "Di «el más grande».",
-"respuesta": "*the biggest*"
-}
-}
-},
-{
-"nodo_id": "ems-156",
-"titulo": "Adverbios de frecuencia",
-"slug": "adverbios-de-frecuencia-prepa",
-"palabras": [
-"always",
-"usually",
-"sometimes",
-"never"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Termómetro",
-"texto": "Marca de 0 a 100 cada cuánto pasa."
-},
-{
-"titulo": "Regla",
-"texto": "Se coloca antes del verbo, como un sombrero."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Ordena: *always / I / run*.",
-"respuesta": "*I always run.*"
-},
-{
-"ejercicio": "¿Cómo preguntas cada cuánto?",
-"respuesta": "*How often...?*"
-},
-{
-"ejercicio": "¿Qué significa *rarely*?",
-"respuesta": "Casi nunca."
-}
-],
-"idea": "¿Cada cuánto comes tacos? Siempre, a veces o nunca: estas palabras son para decirlo.",
-"pizarron": "**La regla:** los adverbios de frecuencia dicen cada cuánto ocurre algo. Van antes del verbo, pero después de *to be*.\n\n100 %: *always*.\n\n80 %: *usually*.\n\n50 %: *sometimes*.\n\n10 %: *rarely*.\n\n0 %: *never*.\n\n*I always eat breakfast.*\n\n*She is never late.*\n\nPregunta: *How often do you...?*",
-"truco": "Antes del verbo, después de be.",
-"practica": {
-"ejercicio": "Ordena: *late / he / is / never*.",
-"respuesta": "*He is never late.*"
-}
-}
-},
-{
-"nodo_id": "ems-156",
-"titulo": "Too y enough",
-"slug": "too-y-enough-prepa",
-"palabras": [
-"too",
-"enough"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Vaso",
-"texto": "Too se derrama; enough llega al borde."
-},
-{
-"titulo": "Ricitos",
-"texto": "Ni demasiado caliente: justo lo suficiente."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Ordena: *tall / enough / he / is*.",
-"respuesta": "*He is tall enough.*"
-},
-{
-"ejercicio": "Di «demasiado caro».",
-"respuesta": "*too expensive*"
-},
-{
-"ejercicio": "Ordena: *enough / we / have / time*.",
-"respuesta": "*We have enough time.*"
-}
-],
-"idea": "La sopa está demasiado caliente, o el agua es suficiente. Estas dos palabras miden lo que sobra o alcanza.",
-"pizarron": "**La regla:** *too* significa demasiado y va antes del adjetivo. *Enough* significa suficiente y va después del adjetivo, pero antes del sustantivo.\n\n*It is too hot.*\n\n*She is old enough.*\n\n*I have enough money.*\n\nCon *to*: *too young to drive.*\n\n**Diferencia:** *too* tiene un sentido negativo.",
-"truco": "Too antes; enough después.",
-"practica": {
-"ejercicio": "Completa: *The bag is ___ heavy.*",
-"respuesta": "*too*"
-}
-}
-},
-{
-"nodo_id": "ems-160",
-"titulo": "Pasado continuo",
-"slug": "pasado-continuo-prepa",
-"palabras": [
-"pasado continuo",
-"was",
-"were",
-"-ing"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Película pausada",
-"texto": "Te detienes en un momento y ves lo que pasaba."
-},
-{
-"titulo": "Fondo",
-"texto": "Es la escena detrás de lo que sucede."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *They ___ running.*",
-"respuesta": "*were*"
-},
-{
-"ejercicio": "Pregunta: *He was cooking.*",
-"respuesta": "*Was he cooking?*"
-},
-{
-"ejercicio": "Niega: *We were talking.*",
-"respuesta": "*We weren't talking.*"
-}
-],
-"idea": "Estabas comiendo cuando sonó el teléfono. Esta forma cuenta lo que pasaba en un momento del pasado.",
-"pizarron": "**La regla:** *was* o *were* más verbo con *-ing* indica una acción en progreso en el pasado.\n\n*I was eating.*\n\n*They were playing.*\n\n**Negar:** *I wasn't sleeping.*\n\n**Preguntar:** *Were you working?*\n\n*At 8, I was studying.*\n\nSirve para describir el fondo de una historia.",
-"truco": "Was y were más -ing.",
-"practica": {
-"ejercicio": "Di «Estaba leyendo».",
-"respuesta": "*I was reading.*"
-}
-}
-},
-{
-"nodo_id": "ems-160",
-"titulo": "Pasado simple contra pasado continuo",
-"slug": "pasado-simple-contra-pasado-continuo-prepa",
-"palabras": [
-"when",
-"while",
-"pasado simple",
-"pasado continuo"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Película y golpe",
-"texto": "La película corre y un golpe la interrumpe."
-},
-{
-"titulo": "Fondo y evento",
-"texto": "La escena de fondo sigue y aparece algo nuevo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: ___ I was eating, it rained.",
-"respuesta": "*While*"
-},
-{
-"ejercicio": "Completa: *She ___ (cry) when he arrived.*",
-"respuesta": "*was crying*"
-},
-{
-"ejercicio": "Completa: *They were sleeping ___ I left.*",
-"respuesta": "*when*"
-}
-],
-"idea": "Una acción larga estaba pasando y otra corta la interrumpió. Las dos formas se usan juntas.",
-"pizarron": "**La regla:** el pasado continuo da la acción larga; el pasado simple, la acción corta o terminada.\n\n*I was sleeping when the phone rang.*\n\n**when:** con pasado simple.\n\n**while:** con pasado continuo.\n\n*While I was walking, it started to rain.*\n\nDos acciones al mismo tiempo:\n\n*I was reading while she was cooking.*",
-"truco": "While es larga; when es corta.",
-"practica": {
-"ejercicio": "Completa: *He ___ (read) when I ___ (call).*",
-"respuesta": "*was reading, called*"
-}
-}
-},
-{
-"nodo_id": "ems-160",
-"titulo": "Used to",
-"slug": "used-to-prepa",
-"palabras": [
-"used to",
-"hábitos pasados"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Álbum",
-"texto": "Ves fotos de lo que antes hacías."
-},
-{
-"titulo": "Ropa vieja",
-"texto": "Ya no te queda, pero la usaste."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Niega: *He used to smoke.*",
-"respuesta": "*He didn't use to smoke.*"
-},
-{
-"ejercicio": "Pregunta: *You used to swim.*",
-"respuesta": "*Did you use to swim?*"
-},
-{
-"ejercicio": "¿Significa lo mismo *be used to*?",
-"respuesta": "No, significa estar acostumbrado."
-}
-],
-"idea": "De niño jugabas algo que ya no juegas. Para esos hábitos terminados, el inglés usa used to.",
-"pizarron": "**La regla:** *used to* más verbo base habla de hábitos o estados pasados que ya no ocurren.\n\n*I used to play with dolls.*\n\n*She used to live in Monterrey.*\n\n**Negar:** *didn't use to*.\n\n**Preguntar:** *Did you use to...?*\n\nNo lo confundas con *be used to*, que significa estar acostumbrado.",
-"truco": "Antes sí, ahora no.",
-"practica": {
-"ejercicio": "Di «Yo jugaba futbol».",
-"respuesta": "*I used to play soccer.*"
-}
-}
-},
-{
-"nodo_id": "ems-161",
-"titulo": "Present perfect contra pasado simple",
-"slug": "present-perfect-contra-pasado-simple-prepa",
-"palabras": [
-"present perfect",
-"pasado simple"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Fecha o lista",
-"texto": "Pasado anota fecha; perfect marca la lista de cosas hechas."
-},
-{
-"titulo": "Foto o currículum",
-"texto": "Una foto tiene fecha; el currículum dice lo que has hecho."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Elige: *She (has visited/visited) Oaxaca in 2019.*",
-"respuesta": "*visited*"
-},
-{
-"ejercicio": "Elige: *I (have never/never) eaten sushi.*",
-"respuesta": "*have never*"
-},
-{
-"ejercicio": "Completa: *Have you ___ been to Cancún?*",
-"respuesta": "*ever*"
-}
-],
-"idea": "Si dices cuándo pasó, usas pasado. Si solo importa que ya lo hiciste, usas perfect.",
-"pizarron": "**La regla:** el pasado simple habla de un momento terminado y conocido. El present perfect habla del pasado sin fecha o conectado con ahora.\n\n*I saw that movie yesterday.* Pasado.\n\n*I have seen that movie.* Perfect.\n\nPistas de pasado: *yesterday, last year, ago.*\n\nPistas de perfect: *ever, never, already, yet, just.*",
-"truco": "Con fecha, pasado.",
-"practica": {
-"ejercicio": "Elige: *I (saw/have seen) him last week.*",
-"respuesta": "*saw*"
-}
-}
-},
-{
-"nodo_id": "ems-161",
-"titulo": "For y since",
-"slug": "for-y-since-prepa",
-"palabras": [
-"for",
-"since",
-"duración"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Regla y bandera",
-"texto": "For mide la distancia; since clava la bandera de inicio."
-},
-{
-"titulo": "Cronómetro",
-"texto": "For es lo que marca; since es cuándo lo iniciaste."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: ___ Monday.",
-"respuesta": "*since*"
-},
-{
-"ejercicio": "Completa: ___ 2010.",
-"respuesta": "*since*"
-},
-{
-"ejercicio": "Pregunta cuánto tiempo has estudiado.",
-"respuesta": "*How long have you studied?*"
-}
-],
-"idea": "Vives aquí desde hace años. For dice cuánto tiempo y since dice desde cuándo.",
-"pizarron": "**La regla:** *for* indica duración. *Since* indica punto de inicio.\n\n*I have lived here for ten years.*\n\n*I have lived here since 2015.*\n\n**for:** *two hours, a week, many years.*\n\n**since:** *Monday, June, 2010, I was a child.*\n\nPregunta: *How long have you...?*",
-"truco": "For cuánto; since desde.",
-"practica": {
-"ejercicio": "Completa: ___ three days.",
-"respuesta": "*for*"
-}
-}
-},
-{
-"nodo_id": "ems-161",
-"titulo": "Present perfect continuous",
-"slug": "present-perfect-continuous-prepa",
-"palabras": [
-"present perfect continuous",
-"have been -ing"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Gotera",
-"texto": "Lleva días goteando y no para."
-},
-{
-"titulo": "Cronómetro corriendo",
-"texto": "Sigue contando hasta ahora."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Di «He estado estudiando».",
-"respuesta": "*I have been studying.*"
-},
-{
-"ejercicio": "Completa: *It ___ been raining all day.*",
-"respuesta": "*has*"
-},
-{
-"ejercicio": "¿Terminó la acción en *I have been reading*?",
-"respuesta": "No necesariamente, sigue."
-}
-],
-"idea": "Llevas una hora esperando. Esta forma habla de algo que empezó antes y sigue ahora.",
-"pizarron": "**La regla:** *have* o *has been* más verbo con *-ing* indica una acción que empezó en el pasado y continúa, o acaba de parar.\n\n*I have been waiting for an hour.*\n\n*She has been studying since 8.*\n\n**Diferencia:**\n\n*I have read the book.* Lo terminé.\n\n*I have been reading the book.* Sigo.",
-"truco": "Have been -ing: todavía sigue.",
-"practica": {
-"ejercicio": "Completa: *He has ___ working.*",
-"respuesta": "*been*"
-}
-}
-},
-{
-"nodo_id": "ems-161",
-"titulo": "Past perfect",
-"slug": "past-perfect-prepa",
-"palabras": [
-"past perfect",
-"had",
-"participio"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Dos pasos atrás",
-"texto": "Vas un paso más atrás en la línea del tiempo."
-},
-{
-"titulo": "Pasos en orden",
-"texto": "Primero A y luego B: A lleva had."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *She ___ left when we came.*",
-"respuesta": "*had*"
-},
-{
-"ejercicio": "¿Qué pasó primero en *He had eaten before I arrived*?",
-"respuesta": "Él comió."
-},
-{
-"ejercicio": "Completa: *They had ___ (see) it.*",
-"respuesta": "*seen*"
-}
-],
-"idea": "Cuando llegaste a la estación, el tren ya se había ido. Es el pasado de antes del pasado.",
-"pizarron": "**La regla:** *had* más participio indica una acción anterior a otra del pasado.\n\n*The train had left when I arrived.*\n\n**Orden:** primero se fue el tren, después llegaste.\n\n*Had* es igual con todas las personas.\n\nSe usa con *already, before, by the time*.",
-"truco": "Lo primero lleva had.",
-"practica": {
-"ejercicio": "Di «Ya había comido».",
-"respuesta": "*I had already eaten.*"
-}
-}
-},
-{
-"nodo_id": "ems-163",
-"titulo": "Must, have to y should",
-"slug": "must-have-to-y-should-prepa",
-"palabras": [
-"must",
-"have to",
-"should",
-"obligación"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Semáforo y amigo",
-"texto": "El semáforo obliga; el amigo aconseja."
-},
-{
-"titulo": "Pesas",
-"texto": "Cada palabra pesa distinto."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué significa *mustn't*?",
-"respuesta": "Prohibido."
-},
-{
-"ejercicio": "¿Qué significa *don't have to*?",
-"respuesta": "No es necesario."
-},
-{
-"ejercicio": "Di «Deberías descansar».",
-"respuesta": "*You should rest.*"
-}
-],
-"idea": "Debes, tienes que y deberías no pesan igual. Cada palabra tiene su fuerza.",
-"pizarron": "**La regla:** *must* expresa obligación fuerte o regla, *have to* obligación externa, y *should* consejo.\n\n*You must wear a seat belt.*\n\n*I have to work on Sunday.*\n\n*You should drink water.*\n\n**Negativos:**\n\n*mustn't*: prohibido.\n\n*don't have to*: no es necesario.\n\n*shouldn't*: mala idea.",
-"truco": "Must manda, should aconseja.",
-"practica": {
-"ejercicio": "Elige para un consejo: *should* o *must*.",
-"respuesta": "*should*"
-}
-}
-},
-{
-"nodo_id": "ems-163",
-"titulo": "Might y may",
-"slug": "might-y-may-prepa",
-"palabras": [
-"might",
-"may",
-"posibilidad"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Moneda al aire",
-"texto": "Puede caer de un lado o del otro."
-},
-{
-"titulo": "Permiso cortés",
-"texto": "May I es tocar la puerta con buenos modales."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Corrige: *She mights go.*",
-"respuesta": "*She might go.*"
-},
-{
-"ejercicio": "Pide permiso para pasar.",
-"respuesta": "*May I come in?*"
-},
-{
-"ejercicio": "Niega: *He may come.*",
-"respuesta": "*He may not come.*"
-}
-],
-"idea": "Quizá llueva, quizá no. Para lo que no es seguro se usa might o may.",
-"pizarron": "**La regla:** *may* y *might* más verbo base expresan posibilidad. *May* también pide permiso formal.\n\n*It may rain.*\n\n*She might come.*\n\n**Negar:** *might not*.\n\n**Permiso:** *May I come in?*\n\nDespués no se usa *to* ni *-s*.",
-"truco": "Quizá: may o might.",
-"practica": {
-"ejercicio": "Di «Quizá vaya».",
-"respuesta": "*I might go.*"
-}
-}
-},
-{
-"nodo_id": "ems-163",
-"titulo": "Could y would",
-"slug": "could-y-would-prepa",
-"palabras": [
-"could",
-"would",
-"cortesía"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Guante suave",
-"texto": "Suavizan una petición como un guante."
-},
-{
-"titulo": "Por favor escondido",
-"texto": "Ya traen cortesía dentro de la palabra."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Pide amablemente: abrir la ventana.",
-"respuesta": "*Could you open the window?*"
-},
-{
-"ejercicio": "Pasa a pasado: *I can run.*",
-"respuesta": "*I could run.*"
-},
-{
-"ejercicio": "Completa: *I ___ go if I could.*",
-"respuesta": "*would*"
-}
-],
-"idea": "Could y would suavizan lo que dices. Son las palabras educadas del inglés.",
-"pizarron": "**La regla:** *could* expresa habilidad pasada o petición amable. *Would* expresa peticiones, deseos y condiciones.\n\n*I could swim at five.*\n\n*Could you help me?*\n\n*I would like coffee.*\n\n*Would you open the door?*\n\n*I would go if I had time.*",
-"truco": "Could y would suenan amables.",
-"practica": {
-"ejercicio": "Di «Quisiera agua».",
-"respuesta": "*I would like water.*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Primer condicional",
-"slug": "primer-condicional-prepa",
-"palabras": [
-"primer condicional",
-"if",
-"will"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Trato",
-"texto": "Si cumples, recibes algo a cambio."
-},
-{
-"titulo": "Camino",
-"texto": "Una decisión lleva a un resultado probable."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Corrige: *If it will rain, I stay.*",
-"respuesta": "*If it rains, I will stay.*"
-},
-{
-"ejercicio": "Completa: *If she calls, I ___ answer.*",
-"respuesta": "*will*"
-},
-{
-"ejercicio": "Escribe una condición sobre mañana.",
-"respuesta": "Debe tener *if* con presente y *will*."
-}
-],
-"idea": "Si estudias, aprobarás. Esta forma habla de lo que probablemente pasará si se cumple algo.",
-"pizarron": "**La regla:** *if* más presente, y *will* más verbo. Expresa situaciones posibles en el futuro.\n\n*If it rains, I will stay home.*\n\nPuede ir al revés sin coma:\n\n*I will stay home if it rains.*\n\nDespués de *if* no se usa *will*.",
-"truco": "If con presente; will en la otra parte.",
-"practica": {
-"ejercicio": "Completa: *If you ___ (study), you will pass.*",
-"respuesta": "*study*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Segundo condicional",
-"slug": "segundo-condicional-prepa",
-"palabras": [
-"segundo condicional",
-"if",
-"would"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Sueño",
-"texto": "Imaginas otra realidad sin que sea cierta."
-},
-{
-"titulo": "Lámpara mágica",
-"texto": "Si tuvieras un deseo, ¿qué harías?"
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *If she ___ (know), she would tell.*",
-"respuesta": "*knew*"
-},
-{
-"ejercicio": "Di «Si fuera tú, iría».",
-"respuesta": "*If I were you, I would go.*"
-},
-{
-"ejercicio": "Corrige: *If I would have time, I would go.*",
-"respuesta": "*If I had time, I would go.*"
-}
-],
-"idea": "Si tuviera alas, volaría. Es una situación imaginada, poco real.",
-"pizarron": "**La regla:** *if* más pasado, y *would* más verbo. Expresa situaciones imaginarias o poco probables.\n\n*If I had money, I would travel.*\n\n*If I were you, I would study.*\n\nCon *to be* se usa *were* para todas las personas.\n\nSe refiere al presente o futuro, aunque use pasado.",
-"truco": "Imaginario: pasado y would.",
-"practica": {
-"ejercicio": "Completa: *If I ___ (be) rich, I would buy a house.*",
-"respuesta": "*were*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Tercer condicional",
-"slug": "tercer-condicional-prepa",
-"palabras": [
-"tercer condicional",
-"if",
-"would have"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Máquina del tiempo",
-"texto": "Imaginas cambiar lo que ya pasó."
-},
-{
-"titulo": "Camino no tomado",
-"texto": "Piensas qué habría pasado por la otra calle."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *If I ___ (see) him, I would have told him.*",
-"respuesta": "*had seen*"
-},
-{
-"ejercicio": "¿Pasó realmente? *If he had run, he would have won.*",
-"respuesta": "No, no corrió ni ganó."
-},
-{
-"ejercicio": "Di «Si hubiera ido, habría visto».",
-"respuesta": "*If I had gone, I would have seen.*"
-}
-],
-"idea": "Si hubiera estudiado, habría pasado. Ya no se puede cambiar: es imaginar otro pasado.",
-"pizarron": "**La regla:** *if* más past perfect, y *would have* más participio. Expresa un pasado irreal.\n\n*If I had studied, I would have passed.*\n\nEn realidad no estudié y no pasé.\n\nCorto: *I'd have gone.*",
-"truco": "Had participio y would have.",
-"practica": {
-"ejercicio": "Completa: *If she had known, she ___ have come.*",
-"respuesta": "*would*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Voz pasiva",
-"slug": "voz-pasiva-prepa",
-"palabras": [
-"voz pasiva",
-"passive voice"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Cambiar foco",
-"texto": "La cámara se centra en lo que recibe la acción."
-},
-{
-"titulo": "Anónimo",
-"texto": "Sirve cuando no sabes quién lo hizo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Pasa a pasiva: *She wrote a letter.*",
-"respuesta": "*A letter was written by her.*"
-},
-{
-"ejercicio": "Completa: *Coffee ___ grown in Chiapas.*",
-"respuesta": "*is*"
-},
-{
-"ejercicio": "Pasa a activa: *The car was fixed by Tom.*",
-"respuesta": "*Tom fixed the car.*"
-}
-],
-"idea": "A veces no importa quién hizo algo, sino lo que pasó: el pan se hizo, la carta fue enviada.",
-"pizarron": "**La regla:** *to be* más participio. El objeto pasa a ser sujeto.\n\n**Activa:** *Someone built the bridge.*\n\n**Pasiva:** *The bridge was built.*\n\n**Con quien lo hizo:** *by*.\n\n*The book was written by Paz.*\n\nTiempos:\n\n*is made, was made, will be made, has been made.*",
-"truco": "To be más participio.",
-"practica": {
-"ejercicio": "Pasa a pasiva: *They clean the room.*",
-"respuesta": "*The room is cleaned.*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Estilo indirecto",
-"slug": "estilo-indirecto-prepa",
-"palabras": [
-"estilo indirecto",
-"reported speech"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Mensajero",
-"texto": "Lleva el mensaje con sus palabras."
-},
-{
-"titulo": "Eco lejano",
-"texto": "Lo dicho ya pasó y por eso el verbo retrocede."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Reporta: *\"I will go.\"*",
-"respuesta": "*She said she would go.*"
-},
-{
-"ejercicio": "Completa: *He ___ me he was sick.*",
-"respuesta": "*told*"
-},
-{
-"ejercicio": "Reporta: *\"I can swim.\"*",
-"respuesta": "*He said he could swim.*"
-}
-],
-"idea": "Le cuentas a alguien lo que dijo otra persona. Al contarlo, el verbo va un paso atrás.",
-"pizarron": "**La regla:** al reportar lo dicho, el verbo retrocede un tiempo y cambian pronombres y tiempo.\n\n*\"I am tired.\"*\n\n*She said (that) she was tired.*\n\n**Cambios:**\n\n*am* a *was*.\n\n*will* a *would*.\n\n*can* a *could*.\n\n*today* a *that day*.\n\n*tomorrow* a *the next day*.\n\n*Say* va sin persona; *tell* con persona: *She told me...*",
-"truco": "Un paso atrás al contar.",
-"practica": {
-"ejercicio": "Reporta: *\"I like tea.\"*",
-"respuesta": "*He said he liked tea.*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Oraciones de relativo",
-"slug": "oraciones-de-relativo-prepa",
-"palabras": [
-"relativo",
-"who",
-"which",
-"that",
-"where"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Etiqueta",
-"texto": "Dice cuál persona o cosa, entre todas."
-},
-{
-"titulo": "Enganche",
-"texto": "Une dos oraciones sobre lo mismo."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *The book ___ I read.*",
-"respuesta": "*which* o *that*"
-},
-{
-"ejercicio": "Completa: *The town ___ I was born.*",
-"respuesta": "*where*"
-},
-{
-"ejercicio": "Completa: *The girl ___ dog is lost.*",
-"respuesta": "*whose*"
-}
-],
-"idea": "El niño que corre es mi hermano. Estas palabras unen ideas para decir de quién hablas.",
-"pizarron": "**La regla:** *who* es para personas, *which* para cosas y *that* para ambas. *Where* es para lugares, *whose* para posesión.\n\n*The girl who sings is Ana.*\n\n*The car which I bought is red.*\n\n*This is the place where I live.*\n\n*The man whose son...*\n\n**Definitoria:** identifica. Sin comas.\n\n**No definitoria:** añade información. Con comas.",
-"truco": "Persona who, cosa which, lugar where.",
-"practica": {
-"ejercicio": "Completa: *The boy ___ runs.*",
-"respuesta": "*who*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Gerundio e infinitivo",
-"slug": "gerundio-e-infinitivo-prepa",
-"palabras": [
-"gerundio",
-"infinitivo",
-"-ing",
-"to"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Parejas fijas",
-"texto": "Cada verbo llega con su pareja."
-},
-{
-"titulo": "Dos caminos",
-"texto": "Stop cambia de significado según qué siga."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Completa: *She finished ___ (read).*",
-"respuesta": "*reading*"
-},
-{
-"ejercicio": "Completa: *He decided ___ (leave).*",
-"respuesta": "*to leave*"
-},
-{
-"ejercicio": "Completa: *I'm interested in ___ (learn).*",
-"respuesta": "*learning*"
-}
-],
-"idea": "Me gusta nadar se dice con -ing o con to, según el verbo. Hay que saber cuál pide cada uno.",
-"pizarron": "**La regla:** algunos verbos piden *-ing*, otros piden *to*.\n\n**Piden -ing:** *enjoy, finish, avoid, mind.*\n\n*I enjoy reading.*\n\n**Piden to:** *want, decide, hope, need.*\n\n*I want to go.*\n\n**Después de preposición:** *-ing*.\n\n*I am good at running.*\n\n**Ambos cambian el sentido:**\n\n*I stopped smoking.* Dejé de fumar.\n\n*I stopped to smoke.* Me detuve para fumar.",
-"truco": "Enjoy pide -ing; want pide to.",
-"practica": {
-"ejercicio": "Completa: *I want ___ (eat).*",
-"respuesta": "*to eat*"
-}
-}
-},
-{
-"nodo_id": "ems-172",
-"titulo": "Phrasal verbs comunes",
-"slug": "phrasal-verbs-comunes-prepa",
-"palabras": [
-"phrasal verbs",
-"verbos frasales"
-],
-"contenido": {
-"analogias": [
-{
-"titulo": "Combo",
-"texto": "Dos cosas juntas son algo nuevo."
-},
-{
-"titulo": "Lego",
-"texto": "Una pieza más cambia toda la figura."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué significa *give up*?",
-"respuesta": "Rendirse."
-},
-{
-"ejercicio": "Di «Apaga la luz».",
-"respuesta": "*Turn off the light.*"
-},
-{
-"ejercicio": "Di «Me quedé sin dinero».",
-"respuesta": "*I ran out of money.*"
-}
-],
-"idea": "Get up no significa conseguir arriba. Un verbo más una partícula forma una palabra nueva.",
-"pizarron": "**Qué es:** un phrasal verb es un verbo más una partícula que juntos cambian el significado.\n\n*get up*: levantarse.\n\n*look for*: buscar.\n\n*give up*: rendirse.\n\n*turn on*, *turn off*: prender, apagar.\n\n*find out*: averiguar.\n\n*take off*: quitarse, despegar.\n\n*put on*: ponerse.\n\n*run out of*: quedarse sin.\n\nApréndelos en frases.\n\n*I gave up smoking.*",
-"truco": "Apréndelo como una sola palabra.",
-"practica": {
-"ejercicio": "¿Qué significa *look for*?",
-"respuesta": "Buscar."
-}
-}
-}
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Verb to be",
+    "slug": "verb-to-be-secundaria",
+    "palabras": [
+      "to be",
+      "ser",
+      "estar",
+      "am",
+      "is",
+      "are"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tres camisetas",
+          "texto": "El verbo trae tres camisetas y la persona elige cuál ponerle."
+        },
+        {
+          "titulo": "Dos en uno",
+          "texto": "Como una navaja, una herramienta hace el trabajo de ser y de estar."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *She ___ my sister.*",
+          "respuesta": "*is*"
+        },
+        {
+          "ejercicio": "Niega: *I am tired.*",
+          "respuesta": "*I am not tired.*"
+        },
+        {
+          "ejercicio": "Pregunta: *You are ready.*",
+          "respuesta": "*Are you ready?*"
+        }
+      ],
+      "idea": "En español tenemos ser y estar. En inglés las dos ideas caben en un solo verbo, que cambia según la persona.",
+      "pizarron": "**La regla:** el verbo *to be* significa ser o estar. En presente tiene tres formas: *am*, *is* y *are*.\n\n**Qué quiere decir:** cada persona usa su forma.\n\n| Persona | Forma | Corta |\n|---|---|---|\n| I | am | I'm |\n| he, she, it | is | he's |\n| you, we, they | are | you're |\n\n**Negar:** agrega *not*. *She is not here.*\n\n**Preguntar:** *to be* pasa al inicio. *Is she here?*\n\n**Ejemplo:** *I am a student. They are in Puebla.*",
+      "truco": "Am con I; is con uno; are con los demás.",
+      "practica": {
+        "ejercicio": "Completa: *They ___ friends.*",
+        "respuesta": "*are*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Pronombres personales",
+    "slug": "pronombres-personales-secundaria",
+    "palabras": [
+      "pronombres",
+      "I",
+      "you",
+      "he",
+      "she",
+      "it",
+      "we",
+      "they"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Suplentes",
+          "texto": "Entran a la cancha en lugar del nombre."
+        },
+        {
+          "titulo": "Sin sujeto no arranca",
+          "texto": "Como un coche sin llave, la oración no avanza sin él."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Cambia *the dog*.",
+          "respuesta": "*It*"
+        },
+        {
+          "ejercicio": "Cambia *Ana and I*.",
+          "respuesta": "*We*"
+        },
+        {
+          "ejercicio": "Corrige: *Is raining.*",
+          "respuesta": "*It is raining.*"
+        }
+      ],
+      "idea": "Para no repetir María, María, dices ella. En inglés siempre debes decir la persona.",
+      "pizarron": "**La regla:** los pronombres personales sustituyen al nombre del sujeto, y en inglés el sujeto siempre debe aparecer.\n\n*I*: yo.\n\n*you*: tú o ustedes.\n\n*he*: él.\n\n*she*: ella.\n\n*it*: cosa o animal.\n\n*we*: nosotros.\n\n*they*: ellos.\n\n*It* también va en clima y hora: *It is cold.*\n\n**Ejemplo:** *Maria is here. She is happy.*",
+      "truco": "En inglés nunca falta el sujeto.",
+      "practica": {
+        "ejercicio": "Cambia *Luis*: ___ is tall.",
+        "respuesta": "*He*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Artículos a, an y the",
+    "slug": "articulos-a-an-y-the-secundaria",
+    "palabras": [
+      "artículos",
+      "a",
+      "an",
+      "the"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Cualquiera o ese",
+          "texto": "A es cualquier asiento; the es tu asiento."
+        },
+        {
+          "titulo": "Puente de sonido",
+          "texto": "La n hace más fácil pasar de una vocal a otra."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ university.",
+          "respuesta": "*a*, porque suena como yu."
+        },
+        {
+          "ejercicio": "Completa: *Close ___ door, please.*",
+          "respuesta": "*the*"
+        },
+        {
+          "ejercicio": "Completa: *I saw ___ elephant.*",
+          "respuesta": "*an*"
+        }
+      ],
+      "idea": "Un perro puede ser cualquiera; el perro es uno que ya conoces. Esa diferencia existe en inglés.",
+      "pizarron": "**La regla:** *a* y *an* se usan con algo no específico, en singular. *The* se usa con algo específico.\n\n**a:** antes de sonido de consonante. *a book.*\n\n**an:** antes de sonido de vocal. *an apple, an hour.*\n\n**the:** ya sabemos cuál. *The book is on the table.*\n\nOjo: importa el sonido. *An hour*, porque la h no suena.\n\nSin artículo: *I love music.*",
+      "truco": "Mira el sonido, no la letra.",
+      "practica": {
+        "ejercicio": "Completa: ___ orange.",
+        "respuesta": "*an*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Plurales",
+    "slug": "plurales-secundaria",
+    "palabras": [
+      "plurales",
+      "-s",
+      "-es",
+      "irregulares"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Reglas de un juego",
+          "texto": "Casi todas siguen la regla y unas se saltan el turno."
+        },
+        {
+          "titulo": "Traje especial",
+          "texto": "Child se cambia de traje para volverse children."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Plural de *bus*.",
+          "respuesta": "*buses*"
+        },
+        {
+          "ejercicio": "Plural de *man*.",
+          "respuesta": "*men*"
+        },
+        {
+          "ejercicio": "Plural de *key*.",
+          "respuesta": "*keys*"
+        }
+      ],
+      "idea": "En inglés casi siempre basta una s. Pero algunas palabras traen sorpresas.",
+      "pizarron": "**La regla:** el plural se forma con *-s*. Las palabras en *s, x, ch, sh, o* agregan *-es*, y las que terminan en consonante más *y* cambian a *-ies*.\n\n*book*, *books*.\n\n*box*, *boxes*.\n\n*city*, *cities*.\n\n*boy*, *boys*: vocal más *y* no cambia.\n\n**Irregulares:**\n\n*man*, *men*.\n\n*woman*, *women*.\n\n*child*, *children*.\n\n*foot*, *feet*.\n\n*tooth*, *teeth*.",
+      "truco": "Casi siempre -s; memoriza los raros.",
+      "practica": {
+        "ejercicio": "Plural de *baby*.",
+        "respuesta": "*babies*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "This, that, these y those",
+    "slug": "this-that-these-y-those-secundaria",
+    "palabras": [
+      "demostrativos",
+      "this",
+      "that",
+      "these",
+      "those"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tabla de dos filas",
+          "texto": "Una pregunta es cerca o lejos; la otra, uno o varios."
+        },
+        {
+          "titulo": "Señalar",
+          "texto": "Tu mano toca this y tu dedo apunta a that."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ car over there is red.",
+          "respuesta": "*That*"
+        },
+        {
+          "ejercicio": "Completa: ___ is my brother. (a mi lado)",
+          "respuesta": "*This*"
+        },
+        {
+          "ejercicio": "Corrige: *This books are old.*",
+          "respuesta": "*These books are old.*"
+        }
+      ],
+      "idea": "Con tu dedo señalas lo cercano o lo lejano, uno o varios. En inglés son cuatro palabras.",
+      "pizarron": "**La regla:** *this* y *these* señalan lo cercano. *That* y *those* señalan lo lejano. *This* y *that* son singulares; *these* y *those* son plurales.\n\n| | Cerca | Lejos |\n|---|---|---|\n| Uno | this | that |\n| Varios | these | those |\n\n*This is my pen.*\n\n*Those are my shoes.*\n\n*These books are new.*",
+      "truco": "These y those van con plural.",
+      "practica": {
+        "ejercicio": "Completa: ___ apples here are good.",
+        "respuesta": "*These*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "There is y there are",
+    "slug": "there-is-y-there-are-secundaria",
+    "palabras": [
+      "there is",
+      "there are",
+      "hay"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Inventario",
+          "texto": "Revisas lo que hay y anotas si es uno o varios."
+        },
+        {
+          "titulo": "La lista",
+          "texto": "Es una lista de existencias: ni dueño ni acción."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ some milk.",
+          "respuesta": "*There is*"
+        },
+        {
+          "ejercicio": "Pregunta: ¿Hay un banco?",
+          "respuesta": "*Is there a bank?*"
+        },
+        {
+          "ejercicio": "Pasa a pasado: *There are ten boys.*",
+          "respuesta": "*There were ten boys.*"
+        }
+      ],
+      "idea": "Para decir qué hay en un cuarto, el inglés usa dos palabras que no se traducen una por una.",
+      "pizarron": "**La regla:** *there is* significa hay con singular o incontable. *There are* significa hay con plural.\n\n*There is a dog.*\n\n*There is water.*\n\n*There are two dogs.*\n\n**Negar:** *There isn't*, *There aren't*.\n\n**Preguntar:** *Is there...? Are there...?*\n\n**Pasado:** *There was*, *There were*.",
+      "truco": "Mira la primera cosa que nombras.",
+      "practica": {
+        "ejercicio": "Completa: ___ three cats.",
+        "respuesta": "*There are*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Sustantivos contables e incontables",
+    "slug": "sustantivos-contables-e-incontables-secundaria",
+    "palabras": [
+      "contables",
+      "incontables",
+      "countable"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Canicas y arena",
+          "texto": "Las canicas se cuentan, la arena se mide."
+        },
+        {
+          "titulo": "Vasos",
+          "texto": "Mides el agua en vasos para poder contar."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Corrige: *two informations*.",
+          "respuesta": "*two pieces of information*"
+        },
+        {
+          "ejercicio": "¿*Book* es contable?",
+          "respuesta": "Sí."
+        },
+        {
+          "ejercicio": "Di «un vaso de leche».",
+          "respuesta": "*a glass of milk*"
+        }
+      ],
+      "idea": "Puedes contar manzanas, pero no contar agua. El inglés separa estas dos clases de cosas.",
+      "pizarron": "**Qué es:** los sustantivos contables se pueden contar y tienen plural. Los incontables no se cuentan con números.\n\n**Contables:** *apple, book, friend.*\n\n*Two apples.*\n\n**Incontables:** *water, rice, money, information, advice.*\n\nPara contar incontables usa medidas:\n\n*a glass of water*, *a piece of advice*.\n\nIncontables no llevan *a* ni *-s*: se dice *some rice*.",
+      "truco": "Si no puedes decir dos, es incontable.",
+      "practica": {
+        "ejercicio": "¿*Rice* es contable?",
+        "respuesta": "No."
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Some y any",
+    "slug": "some-y-any-secundaria",
+    "palabras": [
+      "some",
+      "any",
+      "cantidades"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Plato",
+          "texto": "Some muestra algo en el plato; any revisa si queda algo."
+        },
+        {
+          "titulo": "Pregunta amable",
+          "texto": "Ofrecer usa some porque esperas un sí."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *There are ___ books.*",
+          "respuesta": "*some*"
+        },
+        {
+          "ejercicio": "Completa: *Is there ___ milk?*",
+          "respuesta": "*any*"
+        },
+        {
+          "ejercicio": "Completa: *Would you like ___ cake?*",
+          "respuesta": "*some*"
+        }
+      ],
+      "idea": "Tienes algunas galletas; no tienes ninguna. Some afirma y any aparece para negar o preguntar.",
+      "pizarron": "**La regla:** *some* se usa en afirmaciones. *Any* se usa en negaciones y preguntas.\n\n*I have some apples.*\n\n*I don't have any apples.*\n\n*Do you have any apples?*\n\n**Excepción:** al ofrecer o pedir se usa *some*.\n\n*Would you like some tea?*\n\n*Can I have some water?*\n\nSirven con plurales e incontables.",
+      "truco": "Some sí; any no o pregunta.",
+      "practica": {
+        "ejercicio": "Completa: *I don't have ___ money.*",
+        "respuesta": "*any*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Preposiciones de lugar",
+    "slug": "preposiciones-de-lugar-secundaria",
+    "palabras": [
+      "preposiciones",
+      "in",
+      "on",
+      "at",
+      "under"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Caja, mesa y mapa",
+          "texto": "In es la caja, on es la mesa y at un punto en el mapa."
+        },
+        {
+          "titulo": "La escondida",
+          "texto": "Cada palabra es una pista del lugar."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *I am ___ school.*",
+          "respuesta": "*at*"
+        },
+        {
+          "ejercicio": "Completa: *He lives ___ Mexico.*",
+          "respuesta": "*in*"
+        },
+        {
+          "ejercicio": "Di «detrás de la casa».",
+          "respuesta": "*behind the house*"
+        }
+      ],
+      "idea": "¿Dónde está tu pelota? Estas palabras son las coordenadas para decirlo en inglés.",
+      "pizarron": "**La regla:** *in* es dentro de un espacio, *on* es sobre una superficie y *at* es en un punto o lugar.\n\n*in the box, in Mexico.*\n\n*on the table, on the wall.*\n\n*at school, at the door.*\n\n**Otras:**\n\n*under*: debajo.\n\n*next to*: junto a.\n\n*between*: entre.\n\n*behind*: detrás.\n\n*in front of*: enfrente de.",
+      "truco": "In adentro, on encima, at en un punto.",
+      "practica": {
+        "ejercicio": "Completa: *The picture is ___ the wall.*",
+        "respuesta": "*on*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Preposiciones de tiempo",
+    "slug": "preposiciones-de-tiempo-secundaria",
+    "palabras": [
+      "preposiciones de tiempo",
+      "in",
+      "on",
+      "at"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Pirámide",
+          "texto": "In es la base ancha y at es la punta."
+        },
+        {
+          "titulo": "Zoom",
+          "texto": "Vas del año al día y a la hora."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ 7 o'clock.",
+          "respuesta": "*at*"
+        },
+        {
+          "ejercicio": "Completa: ___ 1999.",
+          "respuesta": "*in*"
+        },
+        {
+          "ejercicio": "Completa: ___ my birthday.",
+          "respuesta": "*on*"
+        }
+      ],
+      "idea": "Las mismas tres palabras sirven para el tiempo: van de lo más grande a lo más pequeño.",
+      "pizarron": "**La regla:** *in* va con periodos largos, *on* con días y fechas, *at* con horas exactas.\n\n**in:** *in 2020, in May, in summer, in the morning.*\n\n**on:** *on Monday, on May 5.*\n\n**at:** *at 5 o'clock, at night, at noon.*\n\nPiensa en una pirámide: arriba *at*, abajo *in*.",
+      "truco": "In grande, on día, at hora.",
+      "practica": {
+        "ejercicio": "Completa: ___ Friday.",
+        "respuesta": "*on*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Números, colores y días",
+    "slug": "numeros-colores-y-dias-secundaria",
+    "palabras": [
+      "números",
+      "colores",
+      "días",
+      "vocabulario"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Kit básico",
+          "texto": "Son las primeras herramientas que metes a tu mochila."
+        },
+        {
+          "titulo": "Calendario",
+          "texto": "Di la fecha en inglés cada mañana y se queda."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Escribe 30.",
+          "respuesta": "*thirty*"
+        },
+        {
+          "ejercicio": "¿Qué día es *Wednesday*?",
+          "respuesta": "Miércoles."
+        },
+        {
+          "ejercicio": "Di tu edad en inglés.",
+          "respuesta": "*I am* más tu edad."
+        }
+      ],
+      "idea": "Con números, colores y días ya puedes decir tu edad, describir algo y hacer una cita.",
+      "pizarron": "**Qué es:** es el vocabulario básico para contar, describir y organizar el tiempo.\n\n**Números:** *one, two, three, ten, twenty, thirty, one hundred.*\n\n**Colores:** *red, blue, green, yellow, black, white, brown, gray.*\n\n**Días:** *Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.*\n\n**En frases:**\n\n*I am fifteen.*\n\n*My bag is black.*\n\n*See you on Monday.*\n\nDías con mayúscula. El color va antes de la cosa.",
+      "truco": "Días con mayúscula y color antes.",
+      "practica": {
+        "ejercicio": "Di «coche rojo».",
+        "respuesta": "*red car*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Familia y partes del cuerpo",
+    "slug": "familia-y-partes-del-cuerpo-secundaria",
+    "palabras": [
+      "familia",
+      "cuerpo",
+      "vocabulario"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Árbol y mapa",
+          "texto": "Un árbol para la familia y un mapa para el cuerpo."
+        },
+        {
+          "titulo": "Consulta",
+          "texto": "En el doctor, estas palabras te sirven para explicar qué sientes."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa *cousin*?",
+          "respuesta": "Primo o prima."
+        },
+        {
+          "ejercicio": "Di «Tengo un hermano».",
+          "respuesta": "*I have one brother.*"
+        },
+        {
+          "ejercicio": "¿Qué significa *back*?",
+          "respuesta": "Espalda."
+        }
+      ],
+      "idea": "Las personas que más quieres y tu cuerpo son los primeros temas para hablar en cualquier idioma.",
+      "pizarron": "**Qué es:** vocabulario para hablar de tu familia y de tu salud.\n\n**Familia:** *mother, father, sister, brother, grandmother, uncle, aunt, cousin.*\n\n**Cuerpo:** *head, eyes, nose, mouth, arm, hand, leg, foot, back, stomach.*\n\n**En frases:**\n\n*I have two sisters.*\n\n*My head hurts.* Me duele la cabeza.\n\n*I have a stomachache.* Tengo dolor de estómago.\n\nCon partes del cuerpo se usa *my*, no *the*.\n\n**Para recordar:**\n- **Cousin:** Primo o prima.",
+      "truco": "Di my head, no the head.",
+      "practica": {
+        "ejercicio": "Di «Me duele la pierna».",
+        "respuesta": "*My leg hurts.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Comida y ropa",
+    "slug": "comida-y-ropa-secundaria",
+    "palabras": [
+      "comida",
+      "ropa",
+      "vocabulario"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Menú",
+          "texto": "Las palabras son el menú que abres en un restaurante."
+        },
+        {
+          "titulo": "Armario",
+          "texto": "Abre tu armario y nombra lo que ves."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa *beef*?",
+          "respuesta": "Carne de res."
+        },
+        {
+          "ejercicio": "Pregunta cuánto cuestan los zapatos.",
+          "respuesta": "*How much are these shoes?*"
+        },
+        {
+          "ejercicio": "¿Qué significa *skirt*?",
+          "respuesta": "Falda."
+        }
+      ],
+      "idea": "Comer y vestirse son cosas de todos los días, así que estas palabras te servirán a diario.",
+      "pizarron": "**Qué es:** vocabulario para pedir comida y hablar de ropa.\n\n**Comida:** *bread, rice, chicken, beef, eggs, cheese, vegetables, fruit, water, juice.*\n\n**Ropa:** *shirt, pants, dress, skirt, shoes, jacket, socks, hat.*\n\n**En frases:**\n\n*Can I have a sandwich, please?*\n\n*I am wearing a jacket.*\n\n*How much are these shoes?*\n\n*Pants* y *shoes* van en plural.",
+      "truco": "Pide con can I have.",
+      "practica": {
+        "ejercicio": "Di «Traigo una camisa».",
+        "respuesta": "*I am wearing a shirt.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "La hora en inglés",
+    "slug": "la-hora-en-ingles-secundaria",
+    "palabras": [
+      "la hora",
+      "what time is it",
+      "o'clock"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Reloj de pizza",
+          "texto": "La mitad es half y cada cuarto es quarter."
+        },
+        {
+          "titulo": "Fila",
+          "texto": "Past ya pasó la parada; to todavía va llegando."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di 4:15.",
+          "respuesta": "*It is a quarter past four.*"
+        },
+        {
+          "ejercicio": "Di 8:50 con *to*.",
+          "respuesta": "*It is ten to nine.*"
+        },
+        {
+          "ejercicio": "¿Qué significa *p.m.*?",
+          "respuesta": "Después del mediodía."
+        }
+      ],
+      "idea": "Un reloj te dice qué hora es en cualquier idioma, pero hay que saber decirlo.",
+      "pizarron": "**La regla:** la hora se dice con *It is* más la hora, y se pregunta con *What time is it?*\n\n**Exacta:** *It is three o'clock.*\n\n**Con números:** *It is three twenty.*\n\n**Past:** minutos después. *It is ten past three.*\n\n**To:** minutos antes. *It is ten to four.*\n\n**Quarter y half:** *a quarter past three*, *half past three*.\n\n*a.m.*: mañana. *p.m.*: tarde.",
+      "truco": "Past pasó; to falta.",
+      "practica": {
+        "ejercicio": "Di 6:30.",
+        "respuesta": "*It is half past six.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-125",
+    "titulo": "Saludos y frases útiles",
+    "slug": "saludos-y-frases-utiles-secundaria",
+    "palabras": [
+      "saludos",
+      "frases útiles",
+      "conversación"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Llaves",
+          "texto": "Cada frase abre una conversación."
+        },
+        {
+          "titulo": "Salvavidas",
+          "texto": "Si te pierdes, una frase te rescata."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di «No entiendo».",
+          "respuesta": "*I don't understand.*"
+        },
+        {
+          "ejercicio": "¿Qué significa *See you later*?",
+          "respuesta": "Nos vemos luego."
+        },
+        {
+          "ejercicio": "Di «¿Me puede ayudar?».",
+          "respuesta": "*Can you help me?*"
+        }
+      ],
+      "idea": "Con saludos y frases listas ya puedes empezar una plática aunque sepas poco inglés.",
+      "pizarron": "**Qué es:** expresiones hechas para saludar, presentarte y pedir ayuda.\n\n*Hello. Good morning.*\n\n*What's your name?*\n\n*Nice to meet you.*\n\n*How are you?*\n\n*I'm fine, thanks.*\n\n*Excuse me.*\n\n*I'm sorry.*\n\n*Can you help me?*\n\n*I don't understand.*\n\n*See you later.*\n\nAprende frases completas y no palabras sueltas.\n\n**Para recordar:**\n- **See you later:** Nos vemos luego.",
+      "truco": "Aprende la frase completa.",
+      "practica": {
+        "ejercicio": "¿Qué dices al conocer a alguien?",
+        "respuesta": "*Nice to meet you.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Presente simple: afirmativo",
+    "slug": "presente-simple-afirmativo-secundaria",
+    "palabras": [
+      "presente simple",
+      "hábitos",
+      "-s"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Tu horario",
+          "texto": "Dice lo que siempre haces en la semana."
+        },
+        {
+          "titulo": "La s viajera",
+          "texto": "Va a acompañar a he y she."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *She ___ (watch) TV.*",
+          "respuesta": "*watches*"
+        },
+        {
+          "ejercicio": "Completa: *Tom ___ (study) a lot.*",
+          "respuesta": "*studies*"
+        },
+        {
+          "ejercicio": "Completa: *We ___ (live) here.*",
+          "respuesta": "*live*"
+        }
+      ],
+      "idea": "Lo que haces todos los días, como ir a la escuela, se dice en presente simple.",
+      "pizarron": "**La regla:** el presente simple habla de hábitos y hechos. Con *he, she, it* el verbo agrega *-s*.\n\n*I work.*\n\n*She works.*\n\n*We study.*\n\n*He studies.* Consonante más *y* cambia a *-ies*.\n\n*She goes.* Verbos en *o, s, ch, sh, x* agregan *-es*.\n\n**Irregular:** *have* cambia a *has*.\n\n**Palabras pista:** *always, usually, every day.*",
+      "truco": "He, she e it llevan -s.",
+      "practica": {
+        "ejercicio": "Completa: *He ___ (play) soccer.*",
+        "respuesta": "*plays*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Presente simple: negativo y preguntas",
+    "slug": "presente-simple-negativo-y-preguntas-secundaria",
+    "palabras": [
+      "don't",
+      "doesn't",
+      "do",
+      "does"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Ayudante",
+          "texto": "Do carga el peso para que el verbo descanse."
+        },
+        {
+          "titulo": "Mochila de -s",
+          "texto": "Does se lleva la s y el verbo queda libre."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Pregunta: *He eats meat.*",
+          "respuesta": "*Does he eat meat?*"
+        },
+        {
+          "ejercicio": "Niega: *We go out.*",
+          "respuesta": "*We don't go out.*"
+        },
+        {
+          "ejercicio": "Corrige: *He doesn't plays.*",
+          "respuesta": "*He doesn't play.*"
+        }
+      ],
+      "idea": "Para negar o preguntar se llama a un ayudante: do. Con él, el verbo descansa.",
+      "pizarron": "**La regla:** se niega con *don't* o *doesn't* y se pregunta con *Do* o *Does*, y el verbo queda en forma base.\n\n*I don't work.*\n\n*She doesn't work.* Sin *-s*.\n\n*Do you work?*\n\n*Does he work?*\n\n**Respuestas:** *Yes, I do. No, he doesn't.*\n\n**Con palabra de pregunta:** *Where do you live?*",
+      "truco": "Does ya trae la s.",
+      "practica": {
+        "ejercicio": "Niega: *She plays.*",
+        "respuesta": "*She doesn't play.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Presente continuo",
+    "slug": "presente-continuo-secundaria",
+    "palabras": [
+      "presente continuo",
+      "-ing",
+      "am",
+      "is",
+      "are"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Video en vivo",
+          "texto": "Muestra lo que pasa en este instante."
+        },
+        {
+          "titulo": "Par de zapatos",
+          "texto": "Am e -ing siempre van juntos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Corrige: *I am know him.*",
+          "respuesta": "*I know him.*"
+        },
+        {
+          "ejercicio": "Pregunta: *He is cooking.*",
+          "respuesta": "*Is he cooking?*"
+        },
+        {
+          "ejercicio": "Escribe el -ing de *swim*.",
+          "respuesta": "*swimming*"
+        }
+      ],
+      "idea": "Tu amigo te pregunta qué haces y dices estoy comiendo. Esa acción de ahora es presente continuo.",
+      "pizarron": "**La regla:** el presente continuo se forma con *am, is, are* más verbo con *-ing*, y habla de lo que pasa ahora.\n\n*I am eating.*\n\n*She is reading.*\n\n*They are playing.*\n\n**Negar:** *He is not sleeping.*\n\n**Preguntar:** *Are you studying?*\n\n**Ortografía:** *make*, *making*. *run*, *running*.\n\n**Sin -ing:** *know, want, like* normalmente no van en continuo.",
+      "truco": "Dos piezas: to be y -ing.",
+      "practica": {
+        "ejercicio": "Di «Estoy estudiando».",
+        "respuesta": "*I am studying.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Pasado simple regular",
+    "slug": "pasado-simple-regular-secundaria",
+    "palabras": [
+      "pasado simple",
+      "-ed",
+      "regular"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Sello",
+          "texto": "-ed marca que la acción ya se terminó."
+        },
+        {
+          "titulo": "Cápsula",
+          "texto": "Guarda la acción en el ayer."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Pasado de *stop*.",
+          "respuesta": "*stopped*"
+        },
+        {
+          "ejercicio": "Pasado de *live*.",
+          "respuesta": "*lived*"
+        },
+        {
+          "ejercicio": "Completa: *They ___ (watch) a movie.*",
+          "respuesta": "*watched*"
+        }
+      ],
+      "idea": "Lo que ya terminó se cuenta en pasado. Para muchos verbos, basta agregar -ed.",
+      "pizarron": "**La regla:** los verbos regulares forman el pasado agregando *-ed*, igual para todas las personas.\n\n*I played.*\n\n*She worked.*\n\n**Ortografía:**\n\n- Termina en *e*: solo *-d*. *lived.*\n- Consonante más *y*: *-ied*. *studied.*\n- Vocal y consonante: dobla. *stopped.*\n\n**Pista:** *yesterday, last week, ago.*",
+      "truco": "Agrega -ed y ya pasó.",
+      "practica": {
+        "ejercicio": "Pasado de *study*.",
+        "respuesta": "*studied*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Pasado simple irregular",
+    "slug": "pasado-simple-irregular-secundaria",
+    "palabras": [
+      "pasado irregular",
+      "went",
+      "had"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Estampas",
+          "texto": "Colecciona cada semana unos verbos nuevos."
+        },
+        {
+          "titulo": "Rebeldes",
+          "texto": "No aceptan la regla de -ed."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Pasado de *take*.",
+          "respuesta": "*took*"
+        },
+        {
+          "ejercicio": "Pasa a pasado: *We see a dog.*",
+          "respuesta": "*We saw a dog.*"
+        },
+        {
+          "ejercicio": "Pasado de *come*.",
+          "respuesta": "*came*"
+        }
+      ],
+      "idea": "Unos verbos no usan -ed: cambian completos. Son pocos, pero se usan muchísimo.",
+      "pizarron": "**La regla:** los verbos irregulares tienen una forma propia de pasado, que se aprende de memoria.\n\n| Base | Pasado | Significado |\n|---|---|---|\n| go | went | ir |\n| have | had | tener |\n| see | saw | ver |\n| eat | ate | comer |\n| take | took | tomar |\n| buy | bought | comprar |\n| make | made | hacer |\n| come | came | venir |\n\n*I went home.*\n\n*She bought a bag.*",
+      "truco": "Memoriza pocos cada semana.",
+      "practica": {
+        "ejercicio": "Pasado de *buy*.",
+        "respuesta": "*bought*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Futuro con will",
+    "slug": "futuro-con-will-secundaria",
+    "palabras": [
+      "will",
+      "futuro",
+      "predicción"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Promesa",
+          "texto": "Lo dices en el momento y te comprometes."
+        },
+        {
+          "titulo": "Bola de cristal",
+          "texto": "Predices lo que crees que pasará."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Corrige: *He will goes.*",
+          "respuesta": "*He will go.*"
+        },
+        {
+          "ejercicio": "Niega: *She will come.*",
+          "respuesta": "*She won't come.*"
+        },
+        {
+          "ejercicio": "Pregunta: *They will win.*",
+          "respuesta": "*Will they win?*"
+        }
+      ],
+      "idea": "Cuando decides algo al momento o predices, en inglés usas will.",
+      "pizarron": "**La regla:** *will* más verbo en forma base expresa decisiones del momento, promesas y predicciones.\n\n*I will help you.* Decisión.\n\n*It will rain.* Predicción.\n\n**Negar:** *won't*.\n\n**Preguntar:** *Will you come?*\n\n**Corto:** *I'll, she'll.*\n\nDespués de *will*, no se usa *to* ni *-s*.",
+      "truco": "Will más verbo solo.",
+      "practica": {
+        "ejercicio": "Di «Te ayudaré».",
+        "respuesta": "*I will help you.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Futuro con going to",
+    "slug": "futuro-con-going-to-secundaria",
+    "palabras": [
+      "going to",
+      "planes",
+      "futuro"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Boleto",
+          "texto": "Ya lo compraste y solo falta el día."
+        },
+        {
+          "titulo": "Nubes negras",
+          "texto": "Las ves y sabes lo que viene."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿*Will* o *going to*? Ya compraste boletos.",
+          "respuesta": "*going to*"
+        },
+        {
+          "ejercicio": "Corrige: *She going to read.*",
+          "respuesta": "*She is going to read.*"
+        },
+        {
+          "ejercicio": "Pregunta: *He is going to work.*",
+          "respuesta": "*Is he going to work?*"
+        }
+      ],
+      "idea": "Cuando ya tienes un plan, no improvisas: dices que lo vas a hacer con going to.",
+      "pizarron": "**La regla:** *am, is, are* más *going to* más verbo base expresa planes e intenciones, y lo que se ve venir.\n\n*I am going to study.*\n\n*She is going to travel.*\n\n**Evidencia:** *Look! It is going to rain.*\n\n**Negar:** *I am not going to go.*\n\n**Preguntar:** *Are you going to come?*\n\n**Diferencia:** ya está decidido, *going to*. Lo decides ahora, *will*.",
+      "truco": "Plan hecho: going to.",
+      "practica": {
+        "ejercicio": "Di «Vamos a viajar».",
+        "respuesta": "*We are going to travel.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "f6-130",
+    "titulo": "Palabras interrogativas",
+    "slug": "palabras-interrogativas-secundaria",
+    "palabras": [
+      "what",
+      "where",
+      "when",
+      "why",
+      "how"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Llaveros",
+          "texto": "Cada palabra abre una información distinta."
+        },
+        {
+          "titulo": "Detective",
+          "texto": "Sus preguntas descubren quién, cuándo y dónde."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa *which*?",
+          "respuesta": "Cuál."
+        },
+        {
+          "ejercicio": "Ordena: *you / do / live / where*.",
+          "respuesta": "*Where do you live?*"
+        },
+        {
+          "ejercicio": "Pregunta por qué lloró.",
+          "respuesta": "*Why did he cry?*"
+        }
+      ],
+      "idea": "Las preguntas abren la puerta a la información, y estas palabras son las llaves.",
+      "pizarron": "**Qué es:** las palabras interrogativas inician preguntas de información.\n\n*What*: qué. *Where*: dónde. *When*: cuándo.\n\n*Who*: quién. *Why*: por qué. *How*: cómo.\n\n*Which*: cuál. *How much/many*: cuánto.\n\n**Orden:** palabra + ayudante + sujeto + verbo.\n\n*Where do you live?*\n\n*What is she doing?*\n\n*Why did you go?*\n\nRespuesta de *why*: *Because...*",
+      "truco": "Palabra, ayudante, sujeto y verbo.",
+      "practica": {
+        "ejercicio": "Pregunta dónde trabaja ella.",
+        "respuesta": "*Where does she work?*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-156",
+    "titulo": "Comparativos",
+    "slug": "comparativos-prepa",
+    "palabras": [
+      "comparativos",
+      "-er",
+      "more",
+      "than"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Balanza",
+          "texto": "Than es el centro de la balanza."
+        },
+        {
+          "titulo": "Regla",
+          "texto": "Pones dos cosas al lado para medir."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Comparativo de *good*.",
+          "respuesta": "*better*"
+        },
+        {
+          "ejercicio": "Di «más cómodo».",
+          "respuesta": "*more comfortable*"
+        },
+        {
+          "ejercicio": "Di «tan alto como Luis».",
+          "respuesta": "*as tall as Luis*"
+        }
+      ],
+      "idea": "Comparas dos cosas: una más grande, otra más cara. El inglés lo hace según lo larga que sea la palabra.",
+      "pizarron": "**La regla:** los adjetivos cortos agregan *-er*; los largos usan *more*; ambos llevan *than*.\n\n*tall*, *taller than*.\n\n*big*, *bigger than*.\n\n*easy*, *easier than*.\n\n*expensive*, *more expensive than*.\n\n**Irregulares:** *good*, *better*. *bad*, *worse*.\n\n**Igualdad:** *as tall as.*",
+      "truco": "Corto -er; largo more.",
+      "practica": {
+        "ejercicio": "Di «Ana es más alta que yo».",
+        "respuesta": "*Ana is taller than me.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-156",
+    "titulo": "Superlativos",
+    "slug": "superlativos-prepa",
+    "palabras": [
+      "superlativos",
+      "-est",
+      "most"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Podio",
+          "texto": "Solo uno sube al primer lugar."
+        },
+        {
+          "titulo": "Corona",
+          "texto": "The es la corona del ganador."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Superlativo de *bad*.",
+          "respuesta": "*the worst*"
+        },
+        {
+          "ejercicio": "Di «la más cara».",
+          "respuesta": "*the most expensive*"
+        },
+        {
+          "ejercicio": "Superlativo de *happy*.",
+          "respuesta": "*the happiest*"
+        }
+      ],
+      "idea": "En una carrera, uno es el más rápido de todos. Ese es el superlativo.",
+      "pizarron": "**La regla:** los adjetivos cortos usan *the* más *-est*; los largos usan *the most*.\n\n*tall*, *the tallest*.\n\n*big*, *the biggest*.\n\n*happy*, *the happiest*.\n\n*expensive*, *the most expensive*.\n\n**Irregulares:** *good*, *the best*. *bad*, *the worst*.\n\n*She is the tallest in the class.*",
+      "truco": "The, -est o most.",
+      "practica": {
+        "ejercicio": "Di «el más grande».",
+        "respuesta": "*the biggest*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-156",
+    "titulo": "Adverbios de frecuencia",
+    "slug": "adverbios-de-frecuencia-prepa",
+    "palabras": [
+      "always",
+      "usually",
+      "sometimes",
+      "never"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Termómetro",
+          "texto": "Marca de 0 a 100 cada cuánto pasa."
+        },
+        {
+          "titulo": "Regla",
+          "texto": "Se coloca antes del verbo, como un sombrero."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Ordena: *always / I / run*.",
+          "respuesta": "*I always run.*"
+        },
+        {
+          "ejercicio": "¿Cómo preguntas cada cuánto?",
+          "respuesta": "*How often...?*"
+        },
+        {
+          "ejercicio": "¿Qué significa *rarely*?",
+          "respuesta": "Casi nunca."
+        }
+      ],
+      "idea": "¿Cada cuánto comes tacos? Siempre, a veces o nunca: estas palabras son para decirlo.",
+      "pizarron": "**La regla:** los adverbios de frecuencia dicen cada cuánto ocurre algo. Van antes del verbo, pero después de *to be*.\n\n100 %: *always*.\n\n80 %: *usually*.\n\n50 %: *sometimes*.\n\n10 %: *rarely*.\n\n0 %: *never*.\n\n*I always eat breakfast.*\n\n*She is never late.*\n\nPregunta: *How often do you...?*",
+      "truco": "Antes del verbo, después de be.",
+      "practica": {
+        "ejercicio": "Ordena: *late / he / is / never*.",
+        "respuesta": "*He is never late.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-156",
+    "titulo": "Too y enough",
+    "slug": "too-y-enough-prepa",
+    "palabras": [
+      "too",
+      "enough"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Vaso",
+          "texto": "Too se derrama; enough llega al borde."
+        },
+        {
+          "titulo": "Ricitos",
+          "texto": "Ni demasiado caliente: justo lo suficiente."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Ordena: *tall / enough / he / is*.",
+          "respuesta": "*He is tall enough.*"
+        },
+        {
+          "ejercicio": "Di «demasiado caro».",
+          "respuesta": "*too expensive*"
+        },
+        {
+          "ejercicio": "Ordena: *enough / we / have / time*.",
+          "respuesta": "*We have enough time.*"
+        }
+      ],
+      "idea": "La sopa está demasiado caliente, o el agua es suficiente. Estas dos palabras miden lo que sobra o alcanza.",
+      "pizarron": "**La regla:** *too* significa demasiado y va antes del adjetivo. *Enough* significa suficiente y va después del adjetivo, pero antes del sustantivo.\n\n*It is too hot.*\n\n*She is old enough.*\n\n*I have enough money.*\n\nCon *to*: *too young to drive.*\n\n**Diferencia:** *too* tiene un sentido negativo.",
+      "truco": "Too antes; enough después.",
+      "practica": {
+        "ejercicio": "Completa: *The bag is ___ heavy.*",
+        "respuesta": "*too*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-160",
+    "titulo": "Pasado continuo",
+    "slug": "pasado-continuo-prepa",
+    "palabras": [
+      "pasado continuo",
+      "was",
+      "were",
+      "-ing"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Película pausada",
+          "texto": "Te detienes en un momento y ves lo que pasaba."
+        },
+        {
+          "titulo": "Fondo",
+          "texto": "Es la escena detrás de lo que sucede."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *They ___ running.*",
+          "respuesta": "*were*"
+        },
+        {
+          "ejercicio": "Pregunta: *He was cooking.*",
+          "respuesta": "*Was he cooking?*"
+        },
+        {
+          "ejercicio": "Niega: *We were talking.*",
+          "respuesta": "*We weren't talking.*"
+        }
+      ],
+      "idea": "Estabas comiendo cuando sonó el teléfono. Esta forma cuenta lo que pasaba en un momento del pasado.",
+      "pizarron": "**La regla:** *was* o *were* más verbo con *-ing* indica una acción en progreso en el pasado.\n\n*I was eating.*\n\n*They were playing.*\n\n**Negar:** *I wasn't sleeping.*\n\n**Preguntar:** *Were you working?*\n\n*At 8, I was studying.*\n\nSirve para describir el fondo de una historia.",
+      "truco": "Was y were más -ing.",
+      "practica": {
+        "ejercicio": "Di «Estaba leyendo».",
+        "respuesta": "*I was reading.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-160",
+    "titulo": "Pasado simple contra pasado continuo",
+    "slug": "pasado-simple-contra-pasado-continuo-prepa",
+    "palabras": [
+      "when",
+      "while",
+      "pasado simple",
+      "pasado continuo"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Película y golpe",
+          "texto": "La película corre y un golpe la interrumpe."
+        },
+        {
+          "titulo": "Fondo y evento",
+          "texto": "La escena de fondo sigue y aparece algo nuevo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ I was eating, it rained.",
+          "respuesta": "*While*"
+        },
+        {
+          "ejercicio": "Completa: *She ___ (cry) when he arrived.*",
+          "respuesta": "*was crying*"
+        },
+        {
+          "ejercicio": "Completa: *They were sleeping ___ I left.*",
+          "respuesta": "*when*"
+        }
+      ],
+      "idea": "Una acción larga estaba pasando y otra corta la interrumpió. Las dos formas se usan juntas.",
+      "pizarron": "**La regla:** el pasado continuo da la acción larga; el pasado simple, la acción corta o terminada.\n\n*I was sleeping when the phone rang.*\n\n**when:** con pasado simple.\n\n**while:** con pasado continuo.\n\n*While I was walking, it started to rain.*\n\nDos acciones al mismo tiempo:\n\n*I was reading while she was cooking.*",
+      "truco": "While es larga; when es corta.",
+      "practica": {
+        "ejercicio": "Completa: *He ___ (read) when I ___ (call).*",
+        "respuesta": "*was reading, called*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-160",
+    "titulo": "Used to",
+    "slug": "used-to-prepa",
+    "palabras": [
+      "used to",
+      "hábitos pasados"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Álbum",
+          "texto": "Ves fotos de lo que antes hacías."
+        },
+        {
+          "titulo": "Ropa vieja",
+          "texto": "Ya no te queda, pero la usaste."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Niega: *He used to smoke.*",
+          "respuesta": "*He didn't use to smoke.*"
+        },
+        {
+          "ejercicio": "Pregunta: *You used to swim.*",
+          "respuesta": "*Did you use to swim?*"
+        },
+        {
+          "ejercicio": "¿Significa lo mismo *be used to*?",
+          "respuesta": "No, significa estar acostumbrado."
+        }
+      ],
+      "idea": "De niño jugabas algo que ya no juegas. Para esos hábitos terminados, el inglés usa used to.",
+      "pizarron": "**La regla:** *used to* más verbo base habla de hábitos o estados pasados que ya no ocurren.\n\n*I used to play with dolls.*\n\n*She used to live in Monterrey.*\n\n**Negar:** *didn't use to*.\n\n**Preguntar:** *Did you use to...?*\n\nNo lo confundas con *be used to*, que significa estar acostumbrado.",
+      "truco": "Antes sí, ahora no.",
+      "practica": {
+        "ejercicio": "Di «Yo jugaba futbol».",
+        "respuesta": "*I used to play soccer.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-161",
+    "titulo": "Present perfect contra pasado simple",
+    "slug": "present-perfect-contra-pasado-simple-prepa",
+    "palabras": [
+      "present perfect",
+      "pasado simple"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Fecha o lista",
+          "texto": "Pasado anota fecha; perfect marca la lista de cosas hechas."
+        },
+        {
+          "titulo": "Foto o currículum",
+          "texto": "Una foto tiene fecha; el currículum dice lo que has hecho."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Elige: *She (has visited/visited) Oaxaca in 2019.*",
+          "respuesta": "*visited*"
+        },
+        {
+          "ejercicio": "Elige: *I (have never/never) eaten sushi.*",
+          "respuesta": "*have never*"
+        },
+        {
+          "ejercicio": "Completa: *Have you ___ been to Cancún?*",
+          "respuesta": "*ever*"
+        }
+      ],
+      "idea": "Si dices cuándo pasó, usas pasado. Si solo importa que ya lo hiciste, usas perfect.",
+      "pizarron": "**La regla:** el pasado simple habla de un momento terminado y conocido. El present perfect habla del pasado sin fecha o conectado con ahora.\n\n*I saw that movie yesterday.* Pasado.\n\n*I have seen that movie.* Perfect.\n\nPistas de pasado: *yesterday, last year, ago.*\n\nPistas de perfect: *ever, never, already, yet, just.*",
+      "truco": "Con fecha, pasado.",
+      "practica": {
+        "ejercicio": "Elige: *I (saw/have seen) him last week.*",
+        "respuesta": "*saw*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-161",
+    "titulo": "For y since",
+    "slug": "for-y-since-prepa",
+    "palabras": [
+      "for",
+      "since",
+      "duración"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Regla y bandera",
+          "texto": "For mide la distancia; since clava la bandera de inicio."
+        },
+        {
+          "titulo": "Cronómetro",
+          "texto": "For es lo que marca; since es cuándo lo iniciaste."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ Monday.",
+          "respuesta": "*since*"
+        },
+        {
+          "ejercicio": "Completa: ___ 2010.",
+          "respuesta": "*since*"
+        },
+        {
+          "ejercicio": "Pregunta cuánto tiempo has estudiado.",
+          "respuesta": "*How long have you studied?*"
+        }
+      ],
+      "idea": "Vives aquí desde hace años. For dice cuánto tiempo y since dice desde cuándo.",
+      "pizarron": "**La regla:** *for* indica duración. *Since* indica punto de inicio.\n\n*I have lived here for ten years.*\n\n*I have lived here since 2015.*\n\n**for:** *two hours, a week, many years.*\n\n**since:** *Monday, June, 2010, I was a child.*\n\nPregunta: *How long have you...?*",
+      "truco": "For cuánto; since desde.",
+      "practica": {
+        "ejercicio": "Completa: ___ three days.",
+        "respuesta": "*for*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-161",
+    "titulo": "Present perfect continuous",
+    "slug": "present-perfect-continuous-prepa",
+    "palabras": [
+      "present perfect continuous",
+      "have been -ing"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Gotera",
+          "texto": "Lleva días goteando y no para."
+        },
+        {
+          "titulo": "Cronómetro corriendo",
+          "texto": "Sigue contando hasta ahora."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di «He estado estudiando».",
+          "respuesta": "*I have been studying.*"
+        },
+        {
+          "ejercicio": "Completa: *It ___ been raining all day.*",
+          "respuesta": "*has*"
+        },
+        {
+          "ejercicio": "¿Terminó la acción en *I have been reading*?",
+          "respuesta": "No necesariamente, sigue."
+        }
+      ],
+      "idea": "Llevas una hora esperando. Esta forma habla de algo que empezó antes y sigue ahora.",
+      "pizarron": "**La regla:** *have* o *has been* más verbo con *-ing* indica una acción que empezó en el pasado y continúa, o acaba de parar.\n\n*I have been waiting for an hour.*\n\n*She has been studying since 8.*\n\n**Diferencia:**\n\n*I have read the book.* Lo terminé.\n\n*I have been reading the book.* Sigo.",
+      "truco": "Have been -ing: todavía sigue.",
+      "practica": {
+        "ejercicio": "Completa: *He has ___ working.*",
+        "respuesta": "*been*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-161",
+    "titulo": "Past perfect",
+    "slug": "past-perfect-prepa",
+    "palabras": [
+      "past perfect",
+      "had",
+      "participio"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Dos pasos atrás",
+          "texto": "Vas un paso más atrás en la línea del tiempo."
+        },
+        {
+          "titulo": "Pasos en orden",
+          "texto": "Primero A y luego B: A lleva had."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *She ___ left when we came.*",
+          "respuesta": "*had*"
+        },
+        {
+          "ejercicio": "¿Qué pasó primero en *He had eaten before I arrived*?",
+          "respuesta": "Él comió."
+        },
+        {
+          "ejercicio": "Completa: *They had ___ (see) it.*",
+          "respuesta": "*seen*"
+        }
+      ],
+      "idea": "Cuando llegaste a la estación, el tren ya se había ido. Es el pasado de antes del pasado.",
+      "pizarron": "**La regla:** *had* más participio indica una acción anterior a otra del pasado.\n\n*The train had left when I arrived.*\n\n**Orden:** primero se fue el tren, después llegaste.\n\n*Had* es igual con todas las personas.\n\nSe usa con *already, before, by the time*.",
+      "truco": "Lo primero lleva had.",
+      "practica": {
+        "ejercicio": "Di «Ya había comido».",
+        "respuesta": "*I had already eaten.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-163",
+    "titulo": "Must, have to y should",
+    "slug": "must-have-to-y-should-prepa",
+    "palabras": [
+      "must",
+      "have to",
+      "should",
+      "obligación"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Semáforo y amigo",
+          "texto": "El semáforo obliga; el amigo aconseja."
+        },
+        {
+          "titulo": "Pesas",
+          "texto": "Cada palabra pesa distinto."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa *mustn't*?",
+          "respuesta": "Prohibido."
+        },
+        {
+          "ejercicio": "¿Qué significa *don't have to*?",
+          "respuesta": "No es necesario."
+        },
+        {
+          "ejercicio": "Di «Deberías descansar».",
+          "respuesta": "*You should rest.*"
+        }
+      ],
+      "idea": "Debes, tienes que y deberías no pesan igual. Cada palabra tiene su fuerza.",
+      "pizarron": "**La regla:** *must* expresa obligación fuerte o regla, *have to* obligación externa, y *should* consejo.\n\n*You must wear a seat belt.*\n\n*I have to work on Sunday.*\n\n*You should drink water.*\n\n**Negativos:**\n\n*mustn't*: prohibido.\n\n*don't have to*: no es necesario.\n\n*shouldn't*: mala idea.",
+      "truco": "Must manda, should aconseja.",
+      "practica": {
+        "ejercicio": "Elige para un consejo: *should* o *must*.",
+        "respuesta": "*should*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-163",
+    "titulo": "Might y may",
+    "slug": "might-y-may-prepa",
+    "palabras": [
+      "might",
+      "may",
+      "posibilidad"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Moneda al aire",
+          "texto": "Puede caer de un lado o del otro."
+        },
+        {
+          "titulo": "Permiso cortés",
+          "texto": "May I es tocar la puerta con buenos modales."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Corrige: *She mights go.*",
+          "respuesta": "*She might go.*"
+        },
+        {
+          "ejercicio": "Pide permiso para pasar.",
+          "respuesta": "*May I come in?*"
+        },
+        {
+          "ejercicio": "Niega: *He may come.*",
+          "respuesta": "*He may not come.*"
+        }
+      ],
+      "idea": "Quizá llueva, quizá no. Para lo que no es seguro se usa might o may.",
+      "pizarron": "**La regla:** *may* y *might* más verbo base expresan posibilidad. *May* también pide permiso formal.\n\n*It may rain.*\n\n*She might come.*\n\n**Negar:** *might not*.\n\n**Permiso:** *May I come in?*\n\nDespués no se usa *to* ni *-s*.",
+      "truco": "Quizá: may o might.",
+      "practica": {
+        "ejercicio": "Di «Quizá vaya».",
+        "respuesta": "*I might go.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-163",
+    "titulo": "Could y would",
+    "slug": "could-y-would-prepa",
+    "palabras": [
+      "could",
+      "would",
+      "cortesía"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Guante suave",
+          "texto": "Suavizan una petición como un guante."
+        },
+        {
+          "titulo": "Por favor escondido",
+          "texto": "Ya traen cortesía dentro de la palabra."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Pide amablemente: abrir la ventana.",
+          "respuesta": "*Could you open the window?*"
+        },
+        {
+          "ejercicio": "Pasa a pasado: *I can run.*",
+          "respuesta": "*I could run.*"
+        },
+        {
+          "ejercicio": "Completa: *I ___ go if I could.*",
+          "respuesta": "*would*"
+        }
+      ],
+      "idea": "Could y would suavizan lo que dices. Son las palabras educadas del inglés.",
+      "pizarron": "**La regla:** *could* expresa habilidad pasada o petición amable. *Would* expresa peticiones, deseos y condiciones.\n\n*I could swim at five.*\n\n*Could you help me?*\n\n*I would like coffee.*\n\n*Would you open the door?*\n\n*I would go if I had time.*",
+      "truco": "Could y would suenan amables.",
+      "practica": {
+        "ejercicio": "Di «Quisiera agua».",
+        "respuesta": "*I would like water.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Primer condicional",
+    "slug": "primer-condicional-prepa",
+    "palabras": [
+      "primer condicional",
+      "if",
+      "will"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Trato",
+          "texto": "Si cumples, recibes algo a cambio."
+        },
+        {
+          "titulo": "Camino",
+          "texto": "Una decisión lleva a un resultado probable."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Corrige: *If it will rain, I stay.*",
+          "respuesta": "*If it rains, I will stay.*"
+        },
+        {
+          "ejercicio": "Completa: *If she calls, I ___ answer.*",
+          "respuesta": "*will*"
+        },
+        {
+          "ejercicio": "Escribe una condición sobre mañana.",
+          "respuesta": "Debe tener *if* con presente y *will*."
+        }
+      ],
+      "idea": "Si estudias, aprobarás. Esta forma habla de lo que probablemente pasará si se cumple algo.",
+      "pizarron": "**La regla:** *if* más presente, y *will* más verbo. Expresa situaciones posibles en el futuro.\n\n*If it rains, I will stay home.*\n\nPuede ir al revés sin coma:\n\n*I will stay home if it rains.*\n\nDespués de *if* no se usa *will*.",
+      "truco": "If con presente; will en la otra parte.",
+      "practica": {
+        "ejercicio": "Completa: *If you ___ (study), you will pass.*",
+        "respuesta": "*study*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Segundo condicional",
+    "slug": "segundo-condicional-prepa",
+    "palabras": [
+      "segundo condicional",
+      "if",
+      "would"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Sueño",
+          "texto": "Imaginas otra realidad sin que sea cierta."
+        },
+        {
+          "titulo": "Lámpara mágica",
+          "texto": "Si tuvieras un deseo, ¿qué harías?"
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *If she ___ (know), she would tell.*",
+          "respuesta": "*knew*"
+        },
+        {
+          "ejercicio": "Di «Si fuera tú, iría».",
+          "respuesta": "*If I were you, I would go.*"
+        },
+        {
+          "ejercicio": "Corrige: *If I would have time, I would go.*",
+          "respuesta": "*If I had time, I would go.*"
+        }
+      ],
+      "idea": "Si tuviera alas, volaría. Es una situación imaginada, poco real.",
+      "pizarron": "**La regla:** *if* más pasado, y *would* más verbo. Expresa situaciones imaginarias o poco probables.\n\n*If I had money, I would travel.*\n\n*If I were you, I would study.*\n\nCon *to be* se usa *were* para todas las personas.\n\nSe refiere al presente o futuro, aunque use pasado.",
+      "truco": "Imaginario: pasado y would.",
+      "practica": {
+        "ejercicio": "Completa: *If I ___ (be) rich, I would buy a house.*",
+        "respuesta": "*were*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Tercer condicional",
+    "slug": "tercer-condicional-prepa",
+    "palabras": [
+      "tercer condicional",
+      "if",
+      "would have"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Máquina del tiempo",
+          "texto": "Imaginas cambiar lo que ya pasó."
+        },
+        {
+          "titulo": "Camino no tomado",
+          "texto": "Piensas qué habría pasado por la otra calle."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *If I ___ (see) him, I would have told him.*",
+          "respuesta": "*had seen*"
+        },
+        {
+          "ejercicio": "¿Pasó realmente? *If he had run, he would have won.*",
+          "respuesta": "No, no corrió ni ganó."
+        },
+        {
+          "ejercicio": "Di «Si hubiera ido, habría visto».",
+          "respuesta": "*If I had gone, I would have seen.*"
+        }
+      ],
+      "idea": "Si hubiera estudiado, habría pasado. Ya no se puede cambiar: es imaginar otro pasado.",
+      "pizarron": "**La regla:** *if* más past perfect, y *would have* más participio. Expresa un pasado irreal.\n\n*If I had studied, I would have passed.*\n\nEn realidad no estudié y no pasé.\n\nCorto: *I'd have gone.*",
+      "truco": "Had participio y would have.",
+      "practica": {
+        "ejercicio": "Completa: *If she had known, she ___ have come.*",
+        "respuesta": "*would*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Voz pasiva",
+    "slug": "voz-pasiva-prepa",
+    "palabras": [
+      "voz pasiva",
+      "passive voice"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Cambiar foco",
+          "texto": "La cámara se centra en lo que recibe la acción."
+        },
+        {
+          "titulo": "Anónimo",
+          "texto": "Sirve cuando no sabes quién lo hizo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Pasa a pasiva: *She wrote a letter.*",
+          "respuesta": "*A letter was written by her.*"
+        },
+        {
+          "ejercicio": "Completa: *Coffee ___ grown in Chiapas.*",
+          "respuesta": "*is*"
+        },
+        {
+          "ejercicio": "Pasa a activa: *The car was fixed by Tom.*",
+          "respuesta": "*Tom fixed the car.*"
+        }
+      ],
+      "idea": "A veces no importa quién hizo algo, sino lo que pasó: el pan se hizo, la carta fue enviada.",
+      "pizarron": "**La regla:** *to be* más participio. El objeto pasa a ser sujeto.\n\n**Activa:** *Someone built the bridge.*\n\n**Pasiva:** *The bridge was built.*\n\n**Con quien lo hizo:** *by*.\n\n*The book was written by Paz.*\n\nTiempos:\n\n*is made, was made, will be made, has been made.*",
+      "truco": "To be más participio.",
+      "practica": {
+        "ejercicio": "Pasa a pasiva: *They clean the room.*",
+        "respuesta": "*The room is cleaned.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Estilo indirecto",
+    "slug": "estilo-indirecto-prepa",
+    "palabras": [
+      "estilo indirecto",
+      "reported speech"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Mensajero",
+          "texto": "Lleva el mensaje con sus palabras."
+        },
+        {
+          "titulo": "Eco lejano",
+          "texto": "Lo dicho ya pasó y por eso el verbo retrocede."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Reporta: *\"I will go.\"*",
+          "respuesta": "*She said she would go.*"
+        },
+        {
+          "ejercicio": "Completa: *He ___ me he was sick.*",
+          "respuesta": "*told*"
+        },
+        {
+          "ejercicio": "Reporta: *\"I can swim.\"*",
+          "respuesta": "*He said he could swim.*"
+        }
+      ],
+      "idea": "Le cuentas a alguien lo que dijo otra persona. Al contarlo, el verbo va un paso atrás.",
+      "pizarron": "**La regla:** al reportar lo dicho, el verbo retrocede un tiempo y cambian pronombres y tiempo.\n\n*\"I am tired.\"*\n\n*She said (that) she was tired.*\n\n**Cambios:**\n\n*am* a *was*.\n\n*will* a *would*.\n\n*can* a *could*.\n\n*today* a *that day*.\n\n*tomorrow* a *the next day*.\n\n*Say* va sin persona; *tell* con persona: *She told me...*",
+      "truco": "Un paso atrás al contar.",
+      "practica": {
+        "ejercicio": "Reporta: *\"I like tea.\"*",
+        "respuesta": "*He said he liked tea.*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Oraciones de relativo",
+    "slug": "oraciones-de-relativo-prepa",
+    "palabras": [
+      "relativo",
+      "who",
+      "which",
+      "that",
+      "where"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Etiqueta",
+          "texto": "Dice cuál persona o cosa, entre todas."
+        },
+        {
+          "titulo": "Enganche",
+          "texto": "Une dos oraciones sobre lo mismo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *The book ___ I read.*",
+          "respuesta": "*which* o *that*"
+        },
+        {
+          "ejercicio": "Completa: *The town ___ I was born.*",
+          "respuesta": "*where*"
+        },
+        {
+          "ejercicio": "Completa: *The girl ___ dog is lost.*",
+          "respuesta": "*whose*"
+        }
+      ],
+      "idea": "El niño que corre es mi hermano. Estas palabras unen ideas para decir de quién hablas.",
+      "pizarron": "**La regla:** *who* es para personas, *which* para cosas y *that* para ambas. *Where* es para lugares, *whose* para posesión.\n\n*The girl who sings is Ana.*\n\n*The car which I bought is red.*\n\n*This is the place where I live.*\n\n*The man whose son...*\n\n**Definitoria:** identifica. Sin comas.\n\n**No definitoria:** añade información. Con comas.",
+      "truco": "Persona who, cosa which, lugar where.",
+      "practica": {
+        "ejercicio": "Completa: *The boy ___ runs.*",
+        "respuesta": "*who*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Gerundio e infinitivo",
+    "slug": "gerundio-e-infinitivo-prepa",
+    "palabras": [
+      "gerundio",
+      "infinitivo",
+      "-ing",
+      "to"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Parejas fijas",
+          "texto": "Cada verbo llega con su pareja."
+        },
+        {
+          "titulo": "Dos caminos",
+          "texto": "Stop cambia de significado según qué siga."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *She finished ___ (read).*",
+          "respuesta": "*reading*"
+        },
+        {
+          "ejercicio": "Completa: *He decided ___ (leave).*",
+          "respuesta": "*to leave*"
+        },
+        {
+          "ejercicio": "Completa: *I'm interested in ___ (learn).*",
+          "respuesta": "*learning*"
+        }
+      ],
+      "idea": "Me gusta nadar se dice con -ing o con to, según el verbo. Hay que saber cuál pide cada uno.",
+      "pizarron": "**La regla:** algunos verbos piden *-ing*, otros piden *to*.\n\n**Piden -ing:** *enjoy, finish, avoid, mind.*\n\n*I enjoy reading.*\n\n**Piden to:** *want, decide, hope, need.*\n\n*I want to go.*\n\n**Después de preposición:** *-ing*.\n\n*I am good at running.*\n\n**Ambos cambian el sentido:**\n\n*I stopped smoking.* Dejé de fumar.\n\n*I stopped to smoke.* Me detuve para fumar.",
+      "truco": "Enjoy pide -ing; want pide to.",
+      "practica": {
+        "ejercicio": "Completa: *I want ___ (eat).*",
+        "respuesta": "*to eat*"
+      }
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Phrasal verbs comunes",
+    "slug": "phrasal-verbs-comunes-prepa",
+    "palabras": [
+      "phrasal verbs",
+      "verbos frasales"
+    ],
+    "contenido": {
+      "analogias": [
+        {
+          "titulo": "Combo",
+          "texto": "Dos cosas juntas son algo nuevo."
+        },
+        {
+          "titulo": "Lego",
+          "texto": "Una pieza más cambia toda la figura."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa *give up*?",
+          "respuesta": "Rendirse."
+        },
+        {
+          "ejercicio": "Di «Apaga la luz».",
+          "respuesta": "*Turn off the light.*"
+        },
+        {
+          "ejercicio": "Di «Me quedé sin dinero».",
+          "respuesta": "*I ran out of money.*"
+        }
+      ],
+      "idea": "Get up no significa conseguir arriba. Un verbo más una partícula forma una palabra nueva.",
+      "pizarron": "**Qué es:** un phrasal verb es un verbo más una partícula que juntos cambian el significado.\n\n*get up*: levantarse.\n\n*look for*: buscar.\n\n*give up*: rendirse.\n\n*turn on*, *turn off*: prender, apagar.\n\n*find out*: averiguar.\n\n*take off*: quitarse, despegar.\n\n*put on*: ponerse.\n\n*run out of*: quedarse sin.\n\nApréndelos en frases.\n\n*I gave up smoking.*",
+      "truco": "Apréndelo como una sola palabra.",
+      "practica": {
+        "ejercicio": "¿Qué significa *look for*?",
+        "respuesta": "Buscar."
+      }
+    }
+  }
 ]

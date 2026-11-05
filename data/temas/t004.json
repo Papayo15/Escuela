@@ -1,273 +1,273 @@
 [
- {
-  "nodo_id": "ems-031",
-  "titulo": "Optimización con derivadas",
-  "slug": "optimizacion-derivadas-preparatoria",
-  "palabras": [
-   "máximos y mínimos",
-   "optimizar",
-   "derivada",
-   "problemas de aplicación"
-  ],
-  "contenido": {
-   "idea": "Imagina que tienes una cuerda y quieres hacer el corral más grande para tu perro. Si lo haces muy largo y angosto, cabe poco; si lo haces muy cuadrado, cabe más. Hay un tamaño perfecto.",
-   "pizarron": "Optimizar es encontrar el valor que hace una cantidad lo más grande (máximo) o lo más pequeña (mínimo).\n\n1. Dibuja y nombra las variables.\n2. Escribe la función que quieres optimizar, $f(x)$.\n3. Usa la condición del problema para dejarla con una sola variable.\n4. Deriva: $f'(x)$.\n5. Resuelve $f'(x)=0$ para hallar los puntos críticos.\n6. Comprueba con la segunda derivada: si $f''(x)<0$ es máximo; si $f''(x)>0$ es mínimo.\n7. Responde con unidades.\n\nEjemplo: con 40 m de malla, un rectángulo de lados $x$ y $20-x$ tiene área $A=20x-x^2$. Entonces $A'=20-2x=0$ y $x=10$. Como $A''=-2<0$, es máximo: un cuadrado de 10 m por 10 m, con área de 100 m².",
-   "truco": "Dibuja, une, deriva, iguala a cero y comprueba.",
-   "practica": {
-    "ejercicio": "Con 100 m de cuerda formas un rectángulo. ¿Qué medidas dan el área máxima?",
-    "respuesta": "Lados $x$ y $50-x$; $A=50x-x^2$; $A'=50-2x=0$, $x=25$. Es un cuadrado de 25 m por 25 m, área 625 m²."
-   },
-   "analogias": [
-    {
-     "titulo": "La pelota en el aire",
-     "texto": "Cuando lanzas una pelota hacia arriba, sube, se frena un instante y baja. En ese punto más alto la velocidad es cero; igual, en el máximo de una función la derivada vale cero."
-    },
-    {
-     "titulo": "La cima de la montaña",
-     "texto": "Al subir un cerro el terreno sube y al llegar a la cima queda plano un momento antes de bajar. Esa parte plana es donde la pendiente (la derivada) es cero."
-    }
-   ],
-   "ejercicios": [
-    {
-     "ejercicio": "Dos números suman 12. ¿Cuáles tienen el producto máximo?",
-     "respuesta": "$P=x(12-x)=12x-x^2$; $P'=12-2x=0$, $x=6$. Los números son 6 y 6, producto 36."
-    },
-    {
-     "ejercicio": "Un granjero cerca un rectángulo junto a un muro con 40 m de malla (el muro no necesita malla). ¿Qué dimensiones dan el área máxima?",
-     "respuesta": "Ancho $x$, largo $40-2x$; $A=40x-2x^2$; $A'=40-4x=0$, $x=10$. Ancho 10 m, largo 20 m, área 200 m²."
-    },
-    {
-     "ejercicio": "Halla el mínimo de $f(x)=x^2-6x+5$.",
-     "respuesta": "$f'(x)=2x-6=0$, $x=3$; $f''=2>0$ es mínimo. $f(3)=9-18+5=-4$."
-    }
-   ]
-  }
- },
- {
-  "nodo_id": "ems-032",
-  "titulo": "Recolección de datos y muestreo aleatorio",
-  "slug": "muestreo-aleatorio-preparatoria",
-  "palabras": [
-   "muestra",
-   "población",
-   "encuesta",
-   "fuentes confiables",
-   "muestreo"
-  ],
-  "contenido": {
-   "idea": "Para saber si la sopa tiene sal no te tomas toda la olla: pruebas una cucharada bien revuelta. Con los datos pasa igual: miras una parte para entender el todo.",
-   "pizarron": "Primero elige **fuentes confiables**: instituciones oficiales (como INEGI), estudios con método claro y datos recientes. Luego define:\n\n- **Población**: todo el grupo que te interesa.\n- **Muestra**: la parte que sí observas.\n\nUna muestra es **aleatoria** si cada elemento tiene la misma oportunidad de ser elegido. Técnicas básicas:\n\n- **Aleatorio simple**: sorteo con números al azar.\n- **Sistemático**: eliges uno cada $k=\\frac{N}{n}$ elementos, con $N$ la población y $n$ la muestra.\n- **Estratificado**: divides en grupos (estratos) y tomas de cada uno en proporción a su tamaño.\n\nDespués organiza los datos en una tabla de frecuencias. Evita el **sesgo**: preguntar solo a tus amigos o solo a quien contesta voluntariamente da resultados que no representan a todos.",
-   "truco": "Sortea parejo: si todos caben, todos cuentan.",
-   "practica": {
-    "ejercicio": "En una escuela hay 800 alumnos y quieres una muestra sistemática de 40. ¿Cada cuántos eliges?",
-    "respuesta": "$k=\\frac{800}{40}=20$. Eliges uno cada 20 alumnos, con un punto de inicio al azar entre 1 y 20."
-   },
-   "analogias": [
-    {
-     "titulo": "El caldo de la olla",
-     "texto": "Si no revuelves el caldo, la cucharada solo prueba lo de arriba. Una muestra bien mezclada (aleatoria) representa toda la olla."
-    },
-    {
-     "titulo": "La sangre en el laboratorio",
-     "texto": "Para un análisis te sacan unos mililitros, no toda la sangre. Esa pequeña muestra basta si está bien tomada."
-    }
-   ],
-   "ejercicios": [
-    {
-     "ejercicio": "Un director quiere opinar sobre el menú y pregunta solo a quienes están en la cafetería. ¿Es una muestra aleatoria? ¿Por qué?",
-     "respuesta": "No. Deja fuera a quienes no van a la cafetería, así que hay sesgo y no todos tenían la misma oportunidad."
-    },
-    {
-     "ejercicio": "Población de 1 200 personas y muestra de 60 con muestreo sistemático. ¿Cuál es $k$?",
-     "respuesta": "$k=\\frac{1200}{60}=20$."
-    },
-    {
-     "ejercicio": "En un grupo hay 600 mujeres y 400 hombres. En una muestra estratificada de 50 personas, ¿cuántas de cada una?",
-     "respuesta": "Total 1 000. Mujeres: $\\frac{600}{1000}\\cdot50=30$. Hombres: $\\frac{400}{1000}\\cdot50=20$."
-    }
-   ]
-  }
- },
- {
-  "nodo_id": "ems-033",
-  "titulo": "Análisis de datos: gráficas y medidas estadísticas",
-  "slug": "analisis-datos-estadistica-preparatoria",
-  "palabras": [
-   "media",
-   "mediana",
-   "moda",
-   "desviación estándar",
-   "histograma",
-   "variabilidad"
-  ],
-  "contenido": {
-   "idea": "Si cinco amigos sacan casi la misma calificación, el grupo es parejo. Si uno saca 10 y otro 4, hay mucha diferencia. La estadística pone números a esa idea de qué tan parejos o dispersos están los datos.",
-   "pizarron": "**Medidas de centro**\n\n- Media: $\\bar{x}=\\frac{\\sum x_i}{n}$.\n- Mediana: dato central al ordenar.\n- Moda: dato que más se repite.\n\n**Medidas de variabilidad**\n\n- Rango: máximo menos mínimo.\n- Varianza: $\\sigma^2=\\frac{\\sum (x_i-\\bar{x})^2}{n}$.\n- Desviación estándar: $\\sigma=\\sqrt{\\sigma^2}$.\n\nUna desviación pequeña indica datos agrupados cerca de la media; una grande, datos dispersos.\n\n**Gráficas**: histograma (datos numéricos agrupados), barras (categorías), caja y bigotes (mediana y dispersión), dispersión (relación entre dos variables). Una hoja de cálculo calcula todo esto con funciones como PROMEDIO y DESVEST.\n\nConclusiones descriptivas: solo describes los datos que tienes, sin afirmar de más.",
-   "truco": "Centro con la media, dispersión con la desviación.",
-   "practica": {
-    "ejercicio": "Datos: 5, 7, 7, 8, 13. Calcula media, mediana, moda y rango.",
-    "respuesta": "Media $=\\frac{40}{5}=8$; mediana 7; moda 7; rango $13-5=8$."
-   },
-   "analogias": [
-    {
-     "titulo": "Tiros de básquet",
-     "texto": "Dos jugadores promedian 10 puntos, pero uno siempre mete 10 y el otro a veces 2 y a veces 18. La media es igual; la variabilidad, muy distinta."
-    },
-    {
-     "titulo": "Temperatura de dos ciudades",
-     "texto": "Una ciudad costera casi siempre ronda 25 grados; una del desierto va de frío a calor extremo. Mismo promedio, distinta dispersión."
-    }
-   ],
-   "ejercicios": [
-    {
-     "ejercicio": "Calcula la desviación estándar de 2, 4, 4, 4, 5, 5, 7, 9.",
-     "respuesta": "Media 5. Cuadrados de diferencias: 9+1+1+1+0+0+4+16=32. Varianza $=\\frac{32}{8}=4$; $\\sigma=2$."
-    },
-    {
-     "ejercicio": "Para 3, 5, 7, 9, 11 halla media, mediana y rango.",
-     "respuesta": "Media 7, mediana 7, rango 8."
-    },
-    {
-     "ejercicio": "Grupo A: 10, 10, 10. Grupo B: 5, 10, 15. Compara medias y desviaciones.",
-     "respuesta": "Ambas medias son 10. En A, $\\sigma=0$. En B, $\\sigma=\\sqrt{\\frac{25+0+25}{3}}\\approx4.08$. B es más disperso."
-    }
-   ]
-  }
- },
- {
-  "nodo_id": "ems-034",
-  "titulo": "Probabilidad, espacio muestral y conteo",
-  "slug": "probabilidad-conteo-preparatoria",
-  "palabras": [
-   "espacio muestral",
-   "permutaciones",
-   "combinaciones",
-   "principio multiplicativo",
-   "eventos"
-  ],
-  "contenido": {
-   "idea": "Si en una bolsa hay 3 canicas rojas y 1 azul, es más fácil sacar una roja. La probabilidad mide qué tan fácil es que algo pase con un número entre 0 y 1.",
-   "pizarron": "El **espacio muestral** $S$ es el conjunto de todos los resultados posibles. Un **evento** $A$ es una parte de $S$. Si los resultados son igualmente probables:\n\n$$P(A)=\\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\nPara contar casos sin listarlos todos:\n\n- **Principio multiplicativo**: si una tarea se hace de $m$ formas y otra de $n$, juntas hay $m\\cdot n$.\n- **Permutaciones** (el orden importa): $n!=n(n-1)\\cdots1$.\n- **Combinaciones** (el orden no importa): $C(n,r)=\\frac{n!}{r!(n-r)!}$.\n\nEjemplo: al lanzar dos dados, $S$ tiene $6\\cdot6=36$ resultados. La suma 8 sale con (2,6), (3,5), (4,4), (5,3), (6,2): son 5, así que $P=\\frac{5}{36}$.\n\nCon probabilidades puedes decidir mejor: comparar riesgos y elegir la opción con más posibilidad de éxito.",
-   "truco": "Favorables entre posibles; si importa el orden, permuta.",
-   "practica": {
-    "ejercicio": "Al lanzar un dado, ¿cuál es la probabilidad de obtener un número par?",
-    "respuesta": "Favorables: 2, 4, 6 (3). Posibles: 6. $P=\\frac{3}{6}=\\frac{1}{2}$."
-   },
-   "analogias": [
-    {
-     "titulo": "El clóset",
-     "texto": "Con 3 camisas y 4 pantalones puedes vestirte de $3\\cdot4=12$ formas. Contar combina las opciones sin dibujarlas todas."
-    },
-    {
-     "titulo": "La fila de la tortillería",
-     "texto": "Ordenar personas en una fila es distinto a escoger quiénes van: en la fila importa el lugar, en un equipo solo quién entra."
-    }
-   ],
-   "ejercicios": [
-    {
-     "ejercicio": "Con dos dados, ¿cuál es la probabilidad de que sumen 7?",
-     "respuesta": "Casos: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) son 6 de 36. $P=\\frac{6}{36}=\\frac{1}{6}$."
-    },
-    {
-     "ejercicio": "¿De cuántas formas pueden ordenarse 4 libros en un estante?",
-     "respuesta": "$4!=4\\cdot3\\cdot2\\cdot1=24$."
-    },
-    {
-     "ejercicio": "De 5 alumnos se eligen 2 para un comité. ¿Cuántos comités distintos hay?",
-     "respuesta": "$C(5,2)=\\frac{5!}{2!\\,3!}=10$."
-    }
-   ]
-  }
- },
- {
-  "nodo_id": "ems-035",
-  "titulo": "Distribución normal",
-  "slug": "distribucion-normal-preparatoria",
-  "palabras": [
-   "campana de Gauss",
-   "curva normal",
-   "desviación estándar",
-   "puntaje z",
-   "regla empírica"
-  ],
-  "contenido": {
-   "idea": "Si mides la estatura de todo un grupo, casi todos están cerca del promedio y muy pocos son altísimos o bajitos. Si dibujas cuántos hay de cada estatura sale una campana.",
-   "pizarron": "La **distribución normal** tiene forma de campana, es simétrica y se centra en la media $\\mu$; su ancho lo da la desviación estándar $\\sigma$.\n\n**Regla empírica** (68-95-99.7):\n\n- Entre $\\mu-\\sigma$ y $\\mu+\\sigma$ está cerca del 68 % de los datos.\n- Entre $\\mu-2\\sigma$ y $\\mu+2\\sigma$, cerca del 95 %.\n- Entre $\\mu-3\\sigma$ y $\\mu+3\\sigma$, cerca del 99.7 %.\n\nPara comparar valores se usa el **puntaje z**:\n\n$$z=\\frac{x-\\mu}{\\sigma}$$\n\nIndica a cuántas desviaciones está $x$ de la media. Con $z$ buscas la probabilidad en una tabla normal estándar o con calculadora y hoja de cálculo (por ejemplo, DISTR.NORM.ESTAND).\n\nEjemplo: si $\\mu=170$ cm y $\\sigma=10$ cm, una persona de 185 cm tiene $z=\\frac{185-170}{10}=1.5$.\n\nComo la curva es simétrica, la mitad de los datos queda arriba de la media y la otra mitad abajo.",
-   "truco": "68, 95, 99.7: una, dos, tres sigmas.",
-   "practica": {
-    "ejercicio": "Estaturas con $\\mu=160$ cm y $\\sigma=10$ cm. ¿Qué porcentaje mide entre 150 y 170 cm?",
-    "respuesta": "Es $\\mu\\pm\\sigma$, así que cerca del 68 %."
-   },
-   "analogias": [
-    {
-     "titulo": "La campana de las tallas",
-     "texto": "En una tienda de ropa abundan las tallas medianas y casi no se venden las extremas. Esa mayoría al centro forma la campana."
-    },
-    {
-     "titulo": "El tiro al blanco",
-     "texto": "Si muchos disparan al centro, la mayoría cae cerca y pocos muy lejos. La distancia al centro se reparte como una campana."
-    }
-   ],
-   "ejercicios": [
-    {
-     "ejercicio": "Calificaciones con $\\mu=70$ y $\\sigma=5$. ¿Qué porcentaje está entre 65 y 75?",
-     "respuesta": "Es $\\mu\\pm\\sigma$: cerca del 68 %."
-    },
-    {
-     "ejercicio": "Con los mismos datos, ¿qué porcentaje aproximado saca más de 80?",
-     "respuesta": "80 es $\\mu+2\\sigma$. Dentro de dos sigmas hay 95 %; en las colas queda 5 %, y arriba la mitad: cerca del 2.5 %."
-    },
-    {
-     "ejercicio": "Con $\\mu=100$ y $\\sigma=8$, calcula $z$ para $x=90$.",
-     "respuesta": "$z=\\frac{90-100}{8}=-1.25$."
-    }
-   ]
-  }
- },
- {
-  "nodo_id": "ems-036",
-  "titulo": "Fenómenos deterministas y aleatorios, y simulación",
-  "slug": "eventos-aleatorios-simulacion-preparatoria",
-  "palabras": [
-   "azar",
-   "incertidumbre",
-   "hipótesis",
-   "frecuencia relativa",
-   "ley de los grandes números",
-   "simulación"
-  ],
-  "contenido": {
-   "idea": "Si sueltas una piedra, siempre cae. Pero si lanzas una moneda, no sabes si saldrá águila o sol. Lo primero está decidido de antemano; lo segundo depende del azar.",
-   "pizarron": "Un fenómeno **determinista** tiene siempre el mismo resultado bajo las mismas condiciones (agua a nivel del mar hierve a 100 grados Celsius). Uno **aleatorio** puede dar distintos resultados aunque repitas las condiciones, pero a la larga muestra un patrón.\n\nPasos para estudiarlo:\n\n1. Reconoce la incertidumbre y la variabilidad.\n2. Formula una hipótesis: \"la moneda es justa, $P(\\text{águila})=0.5$\".\n3. Simula: lanza una moneda real, usa dados, números aleatorios o una hoja de cálculo.\n4. Calcula la frecuencia relativa:\n\n$$f_r=\\frac{\\text{veces que ocurre el evento}}{\\text{repeticiones}}$$\n\n5. Compara con la probabilidad teórica.\n\nCon pocas repeticiones $f_r$ varía mucho; con muchas se acerca a la probabilidad (ley de los grandes números). Ejemplo: en 20 lanzamientos salen 12 águilas, $f_r=\\frac{12}{20}=0.6$; en 1 000 sería más cercana a 0.5.",
-   "truco": "Muchas repeticiones acercan la frecuencia a la probabilidad.",
-   "practica": {
-    "ejercicio": "Lanzas un dado 60 veces y el 6 sale 8 veces. ¿Cuál es la frecuencia relativa? ¿Y la teórica?",
-    "respuesta": "$f_r=\\frac{8}{60}\\approx0.133$. La teórica es $\\frac{1}{6}\\approx0.167$; la diferencia es normal con pocas repeticiones."
-   },
-   "analogias": [
-    {
-     "titulo": "El clima",
-     "texto": "Decir \"mañana lloverá con 70 % de probabilidad\" reconoce que no hay certeza, pero sí un patrón al repetir situaciones parecidas."
-    },
-    {
-     "titulo": "Los volados de la cooperación",
-     "texto": "Si haces un solo volado, puede salir cualquier cosa; si juegas cientos, verás que águila y sol se reparten casi mitad y mitad."
-    }
-   ],
-   "ejercicios": [
-    {
-     "ejercicio": "Clasifica como determinista o aleatorio: a) la suma de 3 y 4; b) el número que sale al tirar un dado.",
-     "respuesta": "a) Determinista, siempre es 7. b) Aleatorio, puede ser de 1 a 6."
-    },
-    {
-     "ejercicio": "En una simulación de 200 repeticiones un evento ocurrió 50 veces. Calcula $f_r$.",
-     "respuesta": "$f_r=\\frac{50}{200}=0.25$."
-    },
-    {
-     "ejercicio": "Un compañero dice que una moneda está cargada porque en 10 tiros salieron 7 águilas. ¿Qué le respondes?",
-     "respuesta": "Con 10 tiros la variabilidad es grande y 7 águilas es posible con moneda justa. Hay que repetir muchas veces antes de concluir."
-    }
-   ]
-  }
- }
+{
+"nodo_id": "ems-031",
+"titulo": "Optimización con derivadas",
+"slug": "optimizacion-derivadas-preparatoria",
+"palabras": [
+"máximos y mínimos",
+"optimizar",
+"derivada",
+"problemas de aplicación"
+],
+"contenido": {
+"idea": "Imagina que tienes una cuerda y quieres hacer el corral más grande para tu perro. Si lo haces muy largo y angosto, cabe poco; si lo haces muy cuadrado, cabe más. Hay un tamaño perfecto.",
+"pizarron": "**La regla:** los máximos y mínimos se hallan igualando la derivada a cero.\n\n**Pasos:**\n\n1. Escribe la función.\n2. Déjala con una variable.\n3. Deriva.\n4. Iguala a cero.\n5. Comprueba con la segunda derivada.\n\n**Ejemplo:** con 40 m de malla, $A = 20x - x^2$.\n\n$A' = 20 - 2x = 0$, entonces $x = 10$.\n\n**Para tu escuela:** repite con 60 m de malla.",
+"truco": "Dibuja, une, deriva, iguala a cero y comprueba.",
+"practica": {
+"ejercicio": "Con 100 m de cuerda formas un rectángulo. ¿Qué medidas dan el área máxima?",
+"respuesta": "Lados $x$ y $50-x$; $A=50x-x^2$; $A'=50-2x=0$, $x=25$. Es un cuadrado de 25 m por 25 m, área 625 m²."
+},
+"analogias": [
+{
+"titulo": "La pelota en el aire",
+"texto": "Cuando lanzas una pelota hacia arriba, sube, se frena un instante y baja. En ese punto más alto la velocidad es cero; igual, en el máximo de una función la derivada vale cero."
+},
+{
+"titulo": "La cima de la montaña",
+"texto": "Al subir un cerro el terreno sube y al llegar a la cima queda plano un momento antes de bajar. Esa parte plana es donde la pendiente (la derivada) es cero."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Dos números suman 12. ¿Cuáles tienen el producto máximo?",
+"respuesta": "$P=x(12-x)=12x-x^2$; $P'=12-2x=0$, $x=6$. Los números son 6 y 6, producto 36."
+},
+{
+"ejercicio": "Un granjero cerca un rectángulo junto a un muro con 40 m de malla (el muro no necesita malla). ¿Qué dimensiones dan el área máxima?",
+"respuesta": "Ancho $x$, largo $40-2x$; $A=40x-2x^2$; $A'=40-4x=0$, $x=10$. Ancho 10 m, largo 20 m, área 200 m²."
+},
+{
+"ejercicio": "Halla el mínimo de $f(x)=x^2-6x+5$.",
+"respuesta": "$f'(x)=2x-6=0$, $x=3$; $f''=2>0$ es mínimo. $f(3)=9-18+5=-4$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-032",
+"titulo": "Recolección de datos y muestreo aleatorio",
+"slug": "muestreo-aleatorio-preparatoria",
+"palabras": [
+"muestra",
+"población",
+"encuesta",
+"fuentes confiables",
+"muestreo"
+],
+"contenido": {
+"idea": "Para saber si la sopa tiene sal no te tomas toda la olla: pruebas una cucharada bien revuelta. Con los datos pasa igual: miras una parte para entender el todo.",
+"pizarron": "**Qué es:** muestrear es estudiar una parte, elegida al azar, para conocer a todos.\n\n**Población:** todos. **Muestra:** una parte.\n\nComo probar una cucharada de sopa.\n\n**Tipos:**\n\n- **Simple:** sorteo.\n- **Sistemático:** uno de cada $k$.\n- **Estratificado:** por grupos.\n\nPreguntar solo a tus amigos da **sesgo**.\n\n**Para tu escuela:** elige al azar a 5 compañeros con papelitos.",
+"truco": "Sortea parejo: si todos caben, todos cuentan.",
+"practica": {
+"ejercicio": "En una escuela hay 800 alumnos y quieres una muestra sistemática de 40. ¿Cada cuántos eliges?",
+"respuesta": "$k=\\frac{800}{40}=20$. Eliges uno cada 20 alumnos, con un punto de inicio al azar entre 1 y 20."
+},
+"analogias": [
+{
+"titulo": "El caldo de la olla",
+"texto": "Si no revuelves el caldo, la cucharada solo prueba lo de arriba. Una muestra bien mezclada (aleatoria) representa toda la olla."
+},
+{
+"titulo": "La sangre en el laboratorio",
+"texto": "Para un análisis te sacan unos mililitros, no toda la sangre. Esa pequeña muestra basta si está bien tomada."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un director quiere opinar sobre el menú y pregunta solo a quienes están en la cafetería. ¿Es una muestra aleatoria? ¿Por qué?",
+"respuesta": "No. Deja fuera a quienes no van a la cafetería, así que hay sesgo y no todos tenían la misma oportunidad."
+},
+{
+"ejercicio": "Población de 1 200 personas y muestra de 60 con muestreo sistemático. ¿Cuál es $k$?",
+"respuesta": "$k=\\frac{1200}{60}=20$."
+},
+{
+"ejercicio": "En un grupo hay 600 mujeres y 400 hombres. En una muestra estratificada de 50 personas, ¿cuántas de cada una?",
+"respuesta": "Total 1 000. Mujeres: $\\frac{600}{1000}\\cdot50=30$. Hombres: $\\frac{400}{1000}\\cdot50=20$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-033",
+"titulo": "Análisis de datos: gráficas y medidas estadísticas",
+"slug": "analisis-datos-estadistica-preparatoria",
+"palabras": [
+"media",
+"mediana",
+"moda",
+"desviación estándar",
+"histograma",
+"variabilidad"
+],
+"contenido": {
+"idea": "Si cinco amigos sacan casi la misma calificación, el grupo es parejo. Si uno saca 10 y otro 4, hay mucha diferencia. La estadística pone números a esa idea de qué tan parejos o dispersos están los datos.",
+"pizarron": "**Qué es:** analizar datos es resumirlos con números y gráficas.\n\n**Centro:** media, mediana y moda.\n\n**Variación:** rango y desviación estándar. Dice qué tan separados están.\n\n**Ejemplo:** 2, 4, 6. Media: 4. Rango: 4.\n\n**Gráficas:** histograma, barras y caja.\n\n**Para tu escuela:** saca media y rango de tus calificaciones.",
+"truco": "Centro con la media, dispersión con la desviación.",
+"practica": {
+"ejercicio": "Datos: 5, 7, 7, 8, 13. Calcula media, mediana, moda y rango.",
+"respuesta": "Media $=\\frac{40}{5}=8$; mediana 7; moda 7; rango $13-5=8$."
+},
+"analogias": [
+{
+"titulo": "Tiros de básquet",
+"texto": "Dos jugadores promedian 10 puntos, pero uno siempre mete 10 y el otro a veces 2 y a veces 18. La media es igual; la variabilidad, muy distinta."
+},
+{
+"titulo": "Temperatura de dos ciudades",
+"texto": "Una ciudad costera casi siempre ronda 25 grados; una del desierto va de frío a calor extremo. Mismo promedio, distinta dispersión."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula la desviación estándar de 2, 4, 4, 4, 5, 5, 7, 9.",
+"respuesta": "Media 5. Cuadrados de diferencias: 9+1+1+1+0+0+4+16=32. Varianza $=\\frac{32}{8}=4$; $\\sigma=2$."
+},
+{
+"ejercicio": "Para 3, 5, 7, 9, 11 halla media, mediana y rango.",
+"respuesta": "Media 7, mediana 7, rango 8."
+},
+{
+"ejercicio": "Grupo A: 10, 10, 10. Grupo B: 5, 10, 15. Compara medias y desviaciones.",
+"respuesta": "Ambas medias son 10. En A, $\\sigma=0$. En B, $\\sigma=\\sqrt{\\frac{25+0+25}{3}}\\approx4.08$. B es más disperso."
+}
+]
+}
+},
+{
+"nodo_id": "ems-034",
+"titulo": "Probabilidad, espacio muestral y conteo",
+"slug": "probabilidad-conteo-preparatoria",
+"palabras": [
+"espacio muestral",
+"permutaciones",
+"combinaciones",
+"principio multiplicativo",
+"eventos"
+],
+"contenido": {
+"idea": "Si en una bolsa hay 3 canicas rojas y 1 azul, es más fácil sacar una roja. La probabilidad mide qué tan fácil es que algo pase con un número entre 0 y 1.",
+"pizarron": "**La regla:** probabilidad es casos favorables entre casos posibles.\n\n**Espacio muestral:** todos los resultados.\n\n**Multiplicativo:** $m \\cdot n$.\n\n**Permutaciones:** importa el orden. **Combinaciones:** no.\n\n**Ejemplo:** dos dados tienen 36 resultados. La suma 8 sale de 5 formas.\n\n$$P = \\frac{5}{36}$$\n\n**Para tu escuela:** calcula la probabilidad de sumar 7.",
+"truco": "Favorables entre posibles; si importa el orden, permuta.",
+"practica": {
+"ejercicio": "Al lanzar un dado, ¿cuál es la probabilidad de obtener un número par?",
+"respuesta": "Favorables: 2, 4, 6 (3). Posibles: 6. $P=\\frac{3}{6}=\\frac{1}{2}$."
+},
+"analogias": [
+{
+"titulo": "El clóset",
+"texto": "Con 3 camisas y 4 pantalones puedes vestirte de $3\\cdot4=12$ formas. Contar combina las opciones sin dibujarlas todas."
+},
+{
+"titulo": "La fila de la tortillería",
+"texto": "Ordenar personas en una fila es distinto a escoger quiénes van: en la fila importa el lugar, en un equipo solo quién entra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Con dos dados, ¿cuál es la probabilidad de que sumen 7?",
+"respuesta": "Casos: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) son 6 de 36. $P=\\frac{6}{36}=\\frac{1}{6}$."
+},
+{
+"ejercicio": "¿De cuántas formas pueden ordenarse 4 libros en un estante?",
+"respuesta": "$4!=4\\cdot3\\cdot2\\cdot1=24$."
+},
+{
+"ejercicio": "De 5 alumnos se eligen 2 para un comité. ¿Cuántos comités distintos hay?",
+"respuesta": "$C(5,2)=\\frac{5!}{2!\\,3!}=10$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-035",
+"titulo": "Distribución normal",
+"slug": "distribucion-normal-preparatoria",
+"palabras": [
+"campana de Gauss",
+"curva normal",
+"desviación estándar",
+"puntaje z",
+"regla empírica"
+],
+"contenido": {
+"idea": "Si mides la estatura de todo un grupo, casi todos están cerca del promedio y muy pocos son altísimos o bajitos. Si dibujas cuántos hay de cada estatura sale una campana.",
+"pizarron": "**Qué es:** la distribución normal es una curva en forma de campana: casi todos quedan cerca del promedio.\n\n$\\mu$ es la media. $\\sigma$ dice qué tan separados están.\n\n**Regla 68-95-99.7:** 68 % a una $\\sigma$, 95 % a dos, 99.7 % a tres.\n\n**Puntaje z:**\n\n$$z = \\frac{x - \\mu}{\\sigma}$$\n\nCon $\\mu = 170$, $\\sigma = 10$ y $x = 185$: $z = 1.5$.\n\n**Para tu escuela:** calcula $z$ con $x = 80$, $\\mu = 70$ y $\\sigma = 5$.",
+"truco": "68, 95, 99.7: una, dos, tres sigmas.",
+"practica": {
+"ejercicio": "Estaturas con $\\mu=160$ cm y $\\sigma=10$ cm. ¿Qué porcentaje mide entre 150 y 170 cm?",
+"respuesta": "Es $\\mu\\pm\\sigma$, así que cerca del 68 %."
+},
+"analogias": [
+{
+"titulo": "La campana de las tallas",
+"texto": "En una tienda de ropa abundan las tallas medianas y casi no se venden las extremas. Esa mayoría al centro forma la campana."
+},
+{
+"titulo": "El tiro al blanco",
+"texto": "Si muchos disparan al centro, la mayoría cae cerca y pocos muy lejos. La distancia al centro se reparte como una campana."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calificaciones con $\\mu=70$ y $\\sigma=5$. ¿Qué porcentaje está entre 65 y 75?",
+"respuesta": "Es $\\mu\\pm\\sigma$: cerca del 68 %."
+},
+{
+"ejercicio": "Con los mismos datos, ¿qué porcentaje aproximado saca más de 80?",
+"respuesta": "80 es $\\mu+2\\sigma$. Dentro de dos sigmas hay 95 %; en las colas queda 5 %, y arriba la mitad: cerca del 2.5 %."
+},
+{
+"ejercicio": "Con $\\mu=100$ y $\\sigma=8$, calcula $z$ para $x=90$.",
+"respuesta": "$z=\\frac{90-100}{8}=-1.25$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-036",
+"titulo": "Fenómenos deterministas y aleatorios, y simulación",
+"slug": "eventos-aleatorios-simulacion-preparatoria",
+"palabras": [
+"azar",
+"incertidumbre",
+"hipótesis",
+"frecuencia relativa",
+"ley de los grandes números",
+"simulación"
+],
+"contenido": {
+"idea": "Si sueltas una piedra, siempre cae. Pero si lanzas una moneda, no sabes si saldrá águila o sol. Lo primero está decidido de antemano; lo segundo depende del azar.",
+"pizarron": "**Qué es:** un fenómeno determinista siempre da lo mismo. Uno aleatorio puede variar.\n\nEl agua hierve igual. Una moneda no se sabe.\n\n**Frecuencia relativa:**\n\n$$f_r = \\frac{\\text{veces que ocurre}}{\\text{repeticiones}}$$\n\nCon 12 águilas en 20 tiros: $0.6$.\n\nCon muchos tiros se acerca a la probabilidad.\n\n**Para tu escuela:** lanza una moneda 30 veces y calcula $f_r$.",
+"truco": "Muchas repeticiones acercan la frecuencia a la probabilidad.",
+"practica": {
+"ejercicio": "Lanzas un dado 60 veces y el 6 sale 8 veces. ¿Cuál es la frecuencia relativa? ¿Y la teórica?",
+"respuesta": "$f_r=\\frac{8}{60}\\approx0.133$. La teórica es $\\frac{1}{6}\\approx0.167$; la diferencia es normal con pocas repeticiones."
+},
+"analogias": [
+{
+"titulo": "El clima",
+"texto": "Decir \"mañana lloverá con 70 % de probabilidad\" reconoce que no hay certeza, pero sí un patrón al repetir situaciones parecidas."
+},
+{
+"titulo": "Los volados de la cooperación",
+"texto": "Si haces un solo volado, puede salir cualquier cosa; si juegas cientos, verás que águila y sol se reparten casi mitad y mitad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica como determinista o aleatorio: a) la suma de 3 y 4; b) el número que sale al tirar un dado.",
+"respuesta": "a) Determinista, siempre es 7. b) Aleatorio, puede ser de 1 a 6."
+},
+{
+"ejercicio": "En una simulación de 200 repeticiones un evento ocurrió 50 veces. Calcula $f_r$.",
+"respuesta": "$f_r=\\frac{50}{200}=0.25$."
+},
+{
+"ejercicio": "Un compañero dice que una moneda está cargada porque en 10 tiros salieron 7 águilas. ¿Qué le respondes?",
+"respuesta": "Con 10 tiros la variabilidad es grande y 7 águilas es posible con moneda justa. Hay que repetir muchas veces antes de concluir."
+}
+]
+}
+}
 ]

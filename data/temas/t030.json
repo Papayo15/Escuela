@@ -1,72 +1,455 @@
 [
-{"nodo_id":"f6-062","titulo":"Metrópolis y sus sistemas de servicios","slug":"metropolis-sistemas-historia-secundaria","palabras":["ciudades","urbanización","metrópoli","transporte","drenaje","industrialización"],"contenido":{
-"idea":"Una ciudad es como una familia que crece: al llegar más personas necesita más camas, más comida y más caminos para que todos vivan bien.",
-"pizarron":"Una metrópoli es una ciudad muy grande que se conecta con otras poblaciones cercanas.\n1. Con la industrialización, desde el siglo XIX, muchas personas se mudaron del campo a la ciudad para trabajar en fábricas.\n2. La ciudad creció y necesitó sistemas: transporte (tranvía, ferrocarril, metro), agua potable, drenaje, electricidad y comunicación (telégrafo, teléfono).\n3. Esos sistemas conectan zonas distintas y forman una sola área urbana.\n4. Al crecer también aparecen problemas: tráfico, contaminación y desigualdad entre zonas.",
-"truco":"Más gente, más servicios.",
-"practica":{"ejercicio":"Menciona dos sistemas que necesita una ciudad al crecer y para qué sirve cada uno.","respuesta":"Ejemplo: transporte, para mover a las personas al trabajo; drenaje, para desalojar el agua sucia y cuidar la salud."},
-"analogias":[{"titulo":"El cuerpo","texto":"Los sistemas de una metrópoli son como las venas y los nervios: llevan agua, energía y mensajes a todas las partes."},{"titulo":"La telaraña","texto":"Cada calle, vía y cable es un hilo que une puntos lejanos para que formen una sola red."}],
-"ejercicios":[{"ejercicio":"¿Qué fenómeno llevó a muchas personas del campo a la ciudad desde el siglo XIX?","respuesta":"La industrialización, porque las fábricas ofrecían trabajo."},{"ejercicio":"Nombra dos medios de comunicación que ayudaron a conectar las ciudades.","respuesta":"El telégrafo y el teléfono (también la radio)."},{"ejercicio":"Explica un problema que causa el crecimiento de una metrópoli.","respuesta":"Por ejemplo, tráfico o contaminación, porque hay más vehículos y personas que los servicios existentes."}]}},
-{"nodo_id":"f6-064","titulo":"Resistencias e independencias en América","slug":"gestas-resistencia-independencias-secundaria","palabras":["independencia","insurgentes","Haití","Hidalgo","Bolívar","colonias"],"contenido":{
-"idea":"Imagina que te mandan en tu propia casa y no te dejan decidir nada. Un día tú y tus hermanos dicen: nosotros queremos decidir.",
-"pizarron":"Las gestas de resistencia son luchas de pueblos contra el dominio colonial o la opresión.\n1. Desde antes del siglo XIX hubo rebeliones de pueblos indígenas y de personas esclavizadas.\n2. En Haití, una revuelta de personas esclavizadas comenzó en 1791 y llevó a la independencia en 1804.\n3. En la Nueva España, el Grito de Dolores (1810) inició la guerra de independencia, que terminó en 1821.\n4. En Sudamérica destacó Simón Bolívar.\n5. Los movimientos buscaron autogobierno, y algunos también el fin de la esclavitud.",
-"truco":"Colonia oprimida, rebelión, nación libre.",
-"practica":{"ejercicio":"¿En qué año inició la guerra de independencia de México y en cuál terminó?","respuesta":"Inició en 1810 y terminó en 1821."},
-"analogias":[{"titulo":"Salir del nido","texto":"Una colonia es como un ave que crece: llega el momento en que quiere volar por su cuenta y decidir su rumbo."},{"titulo":"El juego injusto","texto":"Es como un juego donde otro hace las reglas y se queda con los premios; los jugadores piden reglas propias."}],
-"ejercicios":[{"ejercicio":"¿Qué país proclamó su independencia en 1804 tras una revuelta de personas esclavizadas?","respuesta":"Haití."},{"ejercicio":"¿Qué suceso de 1810 inició la independencia de México?","respuesta":"El Grito de Dolores."},{"ejercicio":"Menciona una causa por la que los pueblos se levantaron contra el dominio colonial.","respuesta":"Por ejemplo, la falta de derechos, los impuestos injustos o la esclavitud."}]}},
-{"nodo_id":"f6-068","titulo":"Las tensiones del siglo XX","slug":"tensiones-siglo-xx-historia-secundaria","palabras":["guerras mundiales","guerra fría","revolución mexicana","conflictos","siglo 20"],"contenido":{
-"idea":"Cuando dos grupos quieren lo mismo y nadie cede, el ambiente se tensa. En el siglo XX eso pasó entre países enteros.",
-"pizarron":"El siglo XX tuvo muchos conflictos.\n1. Revolución Mexicana: inició en 1910 contra la dictadura de Porfirio Díaz.\n2. Primera Guerra Mundial (1914-1918): enfrentó a potencias por territorios, alianzas y poder.\n3. Segunda Guerra Mundial (1939-1945): dejó millones de víctimas y llevó a crear la ONU en 1945.\n4. Guerra Fría (después de 1945): rivalidad entre Estados Unidos y la Unión Soviética, sin enfrentamiento directo entre ambos.\n5. También hubo procesos de descolonización en Asia y África.\nLas tensiones se explican por economía, ideas políticas y búsqueda de poder.",
-"truco":"1910 revolución, 1914 y 1939 guerras, 1945 ONU.",
-"practica":{"ejercicio":"¿Qué años abarcó la Segunda Guerra Mundial?","respuesta":"De 1939 a 1945."},
-"analogias":[{"titulo":"Olla de presión","texto":"Los problemas sin resolver se acumulan como el vapor en una olla cerrada, hasta que estalla un conflicto."},{"titulo":"Pulso de fuerza","texto":"La Guerra Fría fue como dos rivales empujando una misma mesa sin soltarla, sin llegar a pelear cuerpo a cuerpo."}],
-"ejercicios":[{"ejercicio":"¿En qué año inició la Revolución Mexicana?","respuesta":"En 1910."},{"ejercicio":"¿Qué organismo se creó en 1945 para buscar la paz?","respuesta":"La Organización de las Naciones Unidas (ONU)."},{"ejercicio":"¿Entre qué dos potencias se dio la Guerra Fría?","respuesta":"Estados Unidos y la Unión Soviética."}]}},
-{"nodo_id":"f6-071","titulo":"Cómo cambió la idea de infancias y juventudes","slug":"ideas-infancias-juventudes-historia-secundaria","palabras":["niñez","adolescencia","derechos de la infancia","trabajo infantil","jóvenes"],"contenido":{
-"idea":"Antes, a veces se trataba a los niños como adultos pequeños. Hoy sabemos que necesitan jugar, estudiar y que los cuiden.",
-"pizarron":"Las ideas sobre ser niño o joven cambian con la época y la sociedad.\n1. En muchas sociedades del pasado, niñas y niños trabajaban desde pequeños en el campo, talleres o minas.\n2. Con el tiempo, se impulsó la escuela obligatoria y se limitó el trabajo infantil.\n3. En el siglo XX se difundió la idea de adolescencia y juventud como etapas con necesidades propias.\n4. En 1989 la ONU aprobó la Convención sobre los Derechos del Niño.\n5. Hoy se reconoce que niñas, niños y jóvenes son sujetos de derechos.\nEsto muestra que las ideas son construcciones históricas, no verdades fijas.",
-"truco":"Cada época mira distinto a sus jóvenes.",
-"practica":{"ejercicio":"¿Qué documento de 1989 reconoce los derechos de la niñez?","respuesta":"La Convención sobre los Derechos del Niño."},
-"analogias":[{"titulo":"Fotos de álbum","texto":"Cada época es una foto distinta de la infancia; al verlas juntas notamos cuánto cambió la forma de verla."},{"titulo":"Estaciones","texto":"Así como cada estación se cuida distinto, cada etapa de la vida requiere atención distinta."}],
-"ejercicios":[{"ejercicio":"Menciona un cambio entre el pasado y hoy en la vida de la niñez.","respuesta":"Por ejemplo, hoy hay escuela obligatoria y se limita el trabajo infantil."},{"ejercicio":"¿Por qué decimos que la idea de juventud es histórica?","respuesta":"Porque cambia según la época y la sociedad."},{"ejercicio":"Reflexiona: ¿qué derecho de la niñez te parece más importante y por qué? Criterio: da un derecho y una razón clara.","respuesta":"Respuesta libre; por ejemplo, la educación, porque permite desarrollarse y tomar mejores decisiones."}]}},
-{"nodo_id":"f6-073","titulo":"Las mujeres y sus historias","slug":"mujeres-historias-historia-secundaria","palabras":["mujeres en la historia","Leona Vicario","Sor Juana","historia de las mujeres","invisibilización"],"contenido":{
-"idea":"Si en un cuento solo se cuenta lo que hizo la mitad de los personajes, el cuento queda incompleto. La historia también.",
-"pizarron":"Durante mucho tiempo los libros contaron sobre todo lo que hicieron los hombres, y la participación de las mujeres quedó poco visible.\n1. Las mujeres siempre han trabajado, creado, enseñado y participado en la política.\n2. Sor Juana Inés de la Cruz fue una escritora y pensadora de la Nueva España.\n3. Leona Vicario apoyó a los insurgentes en la independencia.\n4. En la Revolución Mexicana hubo mujeres periodistas, maestras y combatientes.\n5. La historia de las mujeres revisa las fuentes para incluir sus voces y aportes.\nAsí entendemos mejor el pasado completo.",
-"truco":"Historia completa incluye a todas las personas.",
-"practica":{"ejercicio":"¿Quién apoyó a los insurgentes y es conocida por su participación en la independencia?","respuesta":"Leona Vicario."},
-"analogias":[{"titulo":"Rompecabezas","texto":"Sin las piezas de las mujeres, el rompecabezas del pasado queda con huecos."},{"titulo":"Foto de equipo","texto":"Es como una foto del equipo donde faltan algunas jugadoras que sí participaron en el juego."}],
-"ejercicios":[{"ejercicio":"¿Por qué se dice que la participación de las mujeres fue poco visible?","respuesta":"Porque muchos relatos antiguos se centraron en los hombres."},{"ejercicio":"Nombra una mujer destacada de la Nueva España.","respuesta":"Sor Juana Inés de la Cruz."},{"ejercicio":"Reflexiona: investiga a una mujer de tu comunidad. Criterio: incluye su nombre y un aporte.","respuesta":"Respuesta libre con nombre de la persona y aporte concreto a la familia o comunidad."}]}},
-{"nodo_id":"f6-075","titulo":"Las luchas de las mujeres por sus derechos","slug":"luchas-mujeres-derechos-historia-secundaria","palabras":["sufragio","voto femenino","feminismo","igualdad","derechos políticos"],"contenido":{
-"idea":"Imagina un salón donde solo algunos niños pueden votar por el juego del recreo. Los demás piden que también los escuchen.",
-"pizarron":"Las mujeres han luchado por tener los mismos derechos que los hombres.\n1. En el siglo XIX y principios del XX, el movimiento sufragista pidió el derecho al voto.\n2. Nueva Zelanda fue el primer país en reconocer el voto femenino nacional, en 1893.\n3. En México, Hermila Galindo defendió el voto de las mujeres durante la Revolución.\n4. En 1953 se reformó la Constitución para reconocer su ciudadanía plena; votaron a nivel federal en 1955.\n5. Después se lucharon derechos a educación, trabajo digno y vida sin violencia.\nLos derechos se conquistan con organización y exigencia.",
-"truco":"Mismos derechos, misma voz y voto.",
-"practica":{"ejercicio":"¿En qué año se reformó la Constitución mexicana para reconocer el voto de las mujeres a nivel federal?","respuesta":"En 1953."},
-"analogias":[{"titulo":"Puerta cerrada","texto":"Era como una puerta cerrada que muchas personas empujaron juntas hasta abrirla."},{"titulo":"Silla en la mesa","texto":"Pedir derechos es pedir una silla en la mesa donde se toman las decisiones."}],
-"ejercicios":[{"ejercicio":"¿Qué significa sufragio?","respuesta":"El derecho a votar."},{"ejercicio":"¿En qué año votaron las mujeres mexicanas a nivel federal por primera vez?","respuesta":"En 1955."},{"ejercicio":"Reflexiona: ¿por qué es importante que todas las personas voten? Criterio: da una razón.","respuesta":"Respuesta libre; por ejemplo, para que todas las voces influyan en las decisiones."}]}},
-{"nodo_id":"f6-077","titulo":"Poder y derechos de grupos discriminados","slug":"poder-derechos-grupos-discriminados-secundaria","palabras":["relaciones de poder","pueblos indígenas","afrodescendientes","esclavitud","derechos humanos"],"contenido":{
-"idea":"Si en un juego un niño siempre decide y otros nunca, quienes no deciden pueden juntarse para pedir reglas justas.",
-"pizarron":"Una relación de poder existe cuando un grupo tiene más capacidad de decidir y controlar recursos que otro.\n1. Algunos grupos han sido discriminados o poco representados: pueblos indígenas, afrodescendientes, personas con discapacidad, entre otros.\n2. Esa desigualdad se apoyó en leyes, costumbres y prejuicios.\n3. Estos grupos se organizaron y exigieron derechos.\n4. Ejemplo: Vicente Guerrero decretó la abolición de la esclavitud en México en 1829.\n5. Hoy los derechos humanos reconocen igual dignidad para todas las personas.\nEntender el poder ayuda a ver por qué existen las desigualdades.",
-"truco":"Quien tiene poder decide; los derechos lo equilibran.",
-"practica":{"ejercicio":"¿Qué abolió el decreto de Vicente Guerrero de 1829?","respuesta":"La esclavitud en México."},
-"analogias":[{"titulo":"Balanza","texto":"El poder desigual es una balanza inclinada; los derechos buscan equilibrarla."},{"titulo":"Coro","texto":"Es como un coro donde algunas voces no se escuchan; los derechos piden que todas se oigan."}],
-"ejercicios":[{"ejercicio":"Define relación de poder con tus palabras.","respuesta":"Situación en que un grupo decide o controla más que otro."},{"ejercicio":"Nombra un grupo históricamente discriminado.","respuesta":"Por ejemplo, pueblos indígenas o personas afrodescendientes."},{"ejercicio":"Reflexiona: ¿cómo puedes promover el respeto en tu escuela? Criterio: propón una acción concreta.","respuesta":"Respuesta libre; por ejemplo, no usar apodos ofensivos y escuchar a todos."}]}},
-{"nodo_id":"f6-079","titulo":"Discriminación y prejuicios como construcciones históricas","slug":"discriminacion-racismo-prejuicios-historia-secundaria","palabras":["racismo","sexismo","estereotipos","castas","discriminación","prejuicio"],"contenido":{
-"idea":"Nadie nace con prejuicios. Se aprenden, como una mala costumbre, y por eso también se pueden desaprender.",
-"pizarron":"Un prejuicio es una opinión negativa sobre alguien, sin conocerlo, solo por su grupo. La discriminación es tratar peor a una persona por eso.\n1. El racismo cree que unas personas valen menos por su origen o color de piel.\n2. El sexismo trata distinto a las personas por su sexo.\n3. Son construcciones históricas: se crearon y se sostuvieron en ciertas épocas.\n4. Ejemplo: en la Nueva España el sistema de castas clasificaba a la gente y daba privilegios desiguales.\n5. Como se construyeron, pueden cambiar mediante educación, leyes y respeto.",
-"truco":"Lo que se aprende, se puede desaprender.",
-"practica":{"ejercicio":"¿Qué es un prejuicio?","respuesta":"Una opinión negativa sobre alguien sin conocerlo, solo por pertenecer a un grupo."},
-"analogias":[{"titulo":"Lentes manchados","texto":"Un prejuicio es como unos lentes manchados: todo se ve distorsionado hasta que los limpias."},{"titulo":"Etiquetas","texto":"Es poner etiquetas en frascos sin abrirlos, aunque lo de adentro sea distinto."}],
-"ejercicios":[{"ejercicio":"¿Qué sistema de la Nueva España clasificaba a las personas por su origen?","respuesta":"El sistema de castas."},{"ejercicio":"¿Por qué decimos que el racismo es una construcción histórica?","respuesta":"Porque se creó y mantuvo en ciertas épocas, no es natural."},{"ejercicio":"Reflexiona: ¿cómo puedes responder si ves un trato discriminatorio? Criterio: propón una acción respetuosa.","respuesta":"Respuesta libre; por ejemplo, apoyar a la persona y avisar a un adulto responsable."}]}},
-{"nodo_id":"f6-082","titulo":"Migraciones y nuevos escenarios de vida","slug":"movilidad-migraciones-historia-secundaria","palabras":["migración","emigrar","inmigrar","braceros","movilidad humana"],"contenido":{
-"idea":"Cuando en tu huerto ya no crece nada, te mudas a otro lugar donde sí. Así se mueven las personas desde siempre.",
-"pizarron":"La migración es el movimiento de personas de un lugar a otro para vivir. Emigrar es salir; inmigrar es llegar.\n1. Las causas pueden ser económicas, de seguridad, familiares o por desastres naturales.\n2. Dentro de México, en el siglo XX muchas personas pasaron del campo a las ciudades.\n3. Entre 1942 y 1964 el Programa Bracero llevó trabajadores mexicanos a Estados Unidos.\n4. Los migrantes llevan costumbres, idiomas y comidas que enriquecen los lugares donde llegan.\n5. También enfrentan retos como discriminación, separación familiar y falta de documentos.\nLa movilidad cambia a las personas y a las sociedades.",
-"truco":"Emigra el que sale, inmigra el que llega.",
-"practica":{"ejercicio":"Si una familia sale de Oaxaca y llega a Monterrey, ¿cómo se llama su movimiento al salir y al llegar?","respuesta":"Emigra de Oaxaca e inmigra a Monterrey."},
-"analogias":[{"titulo":"Aves migratorias","texto":"Como las aves, muchas personas viajan buscando mejores condiciones para vivir."},{"titulo":"Río","texto":"Las migraciones son como ríos que llevan agua a nuevas tierras y cambian el paisaje."}],
-"ejercicios":[{"ejercicio":"Menciona dos causas de la migración.","respuesta":"Por ejemplo, buscar trabajo y escapar de la violencia o de un desastre."},{"ejercicio":"¿Qué fue el Programa Bracero?","respuesta":"Un acuerdo (1942-1964) para enviar trabajadores mexicanos a Estados Unidos."},{"ejercicio":"Menciona un aporte cultural de las personas migrantes.","respuesta":"Por ejemplo, comidas, música, idiomas o fiestas que comparten."}]}},
-{"nodo_id":"f6-084","titulo":"Amor, amistad y familias a lo largo de la historia","slug":"amor-amistad-familias-historia-secundaria","palabras":["familia","amistad","matrimonio","vida cotidiana","relaciones"],"contenido":{
-"idea":"Las familias son como casas: todas dan abrigo, pero cada una tiene distinto tamaño, forma y habitantes.",
-"pizarron":"Las relaciones entre las personas cambian con la época y la cultura.\n1. Familia extensa: abuelos, tíos y primos viven juntos; fue común en muchas comunidades rurales.\n2. Familia nuclear: padres e hijos; creció con la vida urbana.\n3. Hoy existen muchos tipos de familias: monoparentales, con abuelos, ensambladas, entre otras.\n4. En el pasado, muchos matrimonios los decidían las familias por razones económicas; hoy se valora que las personas elijan.\n5. La amistad y el cariño se expresan de maneras distintas según la época, pero siempre implican respeto y cuidado.\nLo común es el apoyo mutuo.",
-"truco":"Cambian las formas, permanece el cuidado.",
-"practica":{"ejercicio":"¿Qué es una familia extensa?","respuesta":"La que incluye abuelos, tíos, primos y otros parientes que viven juntos o muy cerca."},
-"analogias":[{"titulo":"Árbol","texto":"Una familia es como un árbol: cambia su forma con los años, pero sigue unida por sus raíces."},{"titulo":"Tejido","texto":"Las amistades y familias son hilos que se tejen con confianza y cuidado."}],
-"ejercicios":[{"ejercicio":"Menciona una diferencia entre familia nuclear y extensa.","respuesta":"La nuclear tiene padres e hijos; la extensa incluye más parientes."},{"ejercicio":"¿Qué cambió en la forma de elegir pareja entre el pasado y hoy?","respuesta":"Antes muchas veces decidían las familias; hoy se valora la elección personal."},{"ejercicio":"Reflexiona: ¿qué valores hacen fuerte una amistad? Criterio: nombra dos valores con una razón.","respuesta":"Respuesta libre; por ejemplo, respeto y confianza, porque permiten sentirse seguro."}]}}
+  {
+    "nodo_id": "f6-062",
+    "titulo": "Metrópolis y sus sistemas de servicios",
+    "slug": "metropolis-sistemas-historia-secundaria",
+    "palabras": [
+      "ciudades",
+      "urbanización",
+      "metrópoli",
+      "transporte",
+      "drenaje",
+      "industrialización"
+    ],
+    "contenido": {
+      "idea": "Una ciudad es como una familia que crece: al llegar más personas necesita más camas, más comida y más caminos para que todos vivan bien.",
+      "pizarron": "**Qué es:** una metrópoli es una ciudad muy grande, conectada con poblaciones cercanas.\n\nDesde el siglo XIX, la gente se mudó a las ciudades para trabajar en fábricas.\n\nLas ciudades necesitaron sistemas: transporte, agua, drenaje, luz y teléfono.\n\nSon como las venas de un cuerpo: conectan todo.\n\n**Problemas:** tráfico, contaminación y desigualdad.\n\n**Para recordar:**\n- **¿Qué fenómeno llevó a muchas personas del campo a la ciudad desde el siglo XIX?** La industrialización, porque las fábricas ofrecían trabajo.\n- **Nombra dos medios de comunicación que ayudaron a conectar las ciudades.** El telégrafo y el teléfono (también la radio).\n\n**Para tu escuela:** haz una lista de servicios que usas al día.",
+      "truco": "Más gente, más servicios.",
+      "practica": {
+        "ejercicio": "Menciona dos sistemas que necesita una ciudad al crecer y para qué sirve cada uno.",
+        "respuesta": "Ejemplo: transporte, para mover a las personas al trabajo; drenaje, para desalojar el agua sucia y cuidar la salud."
+      },
+      "analogias": [
+        {
+          "titulo": "El cuerpo",
+          "texto": "Los sistemas de una metrópoli son como las venas y los nervios: llevan agua, energía y mensajes a todas las partes."
+        },
+        {
+          "titulo": "La telaraña",
+          "texto": "Cada calle, vía y cable es un hilo que une puntos lejanos para que formen una sola red."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué fenómeno llevó a muchas personas del campo a la ciudad desde el siglo XIX?",
+          "respuesta": "La industrialización, porque las fábricas ofrecían trabajo."
+        },
+        {
+          "ejercicio": "Nombra dos medios de comunicación que ayudaron a conectar las ciudades.",
+          "respuesta": "El telégrafo y el teléfono (también la radio)."
+        },
+        {
+          "ejercicio": "Explica un problema que causa el crecimiento de una metrópoli.",
+          "respuesta": "Por ejemplo, tráfico o contaminación, porque hay más vehículos y personas que los servicios existentes."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-064",
+    "titulo": "Resistencias e independencias en América",
+    "slug": "gestas-resistencia-independencias-secundaria",
+    "palabras": [
+      "independencia",
+      "insurgentes",
+      "Haití",
+      "Hidalgo",
+      "Bolívar",
+      "colonias"
+    ],
+    "contenido": {
+      "idea": "Imagina que te mandan en tu propia casa y no te dejan decidir nada. Un día tú y tus hermanos dicen: nosotros queremos decidir.",
+      "pizarron": "**Qué es:** son luchas de pueblos que no quisieron seguir siendo dominados.\n\n**Ejemplos:**\n\n- **Haití:** personas esclavizadas se rebelaron en 1791, y ganaron su independencia en 1804.\n- **Nueva España:** el Grito de Dolores en 1810. Independencia en 1821.\n- **Sudamérica:** Simón Bolívar.\n\nQuerían gobernarse, y algunos también acabar con la esclavitud.\n\n**Para tu escuela:** haz una línea del tiempo con estas fechas.",
+      "truco": "Colonia oprimida, rebelión, nación libre.",
+      "practica": {
+        "ejercicio": "¿En qué año inició la guerra de independencia de México y en cuál terminó?",
+        "respuesta": "Inició en 1810 y terminó en 1821."
+      },
+      "analogias": [
+        {
+          "titulo": "Salir del nido",
+          "texto": "Una colonia es como un ave que crece: llega el momento en que quiere volar por su cuenta y decidir su rumbo."
+        },
+        {
+          "titulo": "El juego injusto",
+          "texto": "Es como un juego donde otro hace las reglas y se queda con los premios; los jugadores piden reglas propias."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué país proclamó su independencia en 1804 tras una revuelta de personas esclavizadas?",
+          "respuesta": "Haití."
+        },
+        {
+          "ejercicio": "¿Qué suceso de 1810 inició la independencia de México?",
+          "respuesta": "El Grito de Dolores."
+        },
+        {
+          "ejercicio": "Menciona una causa por la que los pueblos se levantaron contra el dominio colonial.",
+          "respuesta": "Por ejemplo, la falta de derechos, los impuestos injustos o la esclavitud."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-068",
+    "titulo": "Las tensiones del siglo XX",
+    "slug": "tensiones-siglo-xx-historia-secundaria",
+    "palabras": [
+      "guerras mundiales",
+      "guerra fría",
+      "revolución mexicana",
+      "conflictos",
+      "siglo 20"
+    ],
+    "contenido": {
+      "idea": "Cuando dos grupos quieren lo mismo y nadie cede, el ambiente se tensa. En el siglo XX eso pasó entre países enteros.",
+      "pizarron": "**Qué es:** el siglo XX tuvo muchos conflictos por poder, ideas y economía.\n\n**Línea del tiempo:**\n\n- 1910: Revolución Mexicana.\n- 1914-1918: Primera Guerra Mundial.\n- 1939-1945: Segunda Guerra Mundial.\n- 1945: nace la ONU.\n- Después: Guerra Fría entre Estados Unidos y la URSS.\n- Asia y África se independizan.\n\n**Para recordar:**\n- **¿Qué organismo se creó en 1945 para buscar la paz?** La Organización de las Naciones Unidas (ONU).\n\n**Para tu escuela:** dibuja esta línea del tiempo en tu cuaderno.",
+      "truco": "1910 revolución, 1914 y 1939 guerras, 1945 ONU.",
+      "practica": {
+        "ejercicio": "¿Qué años abarcó la Segunda Guerra Mundial?",
+        "respuesta": "De 1939 a 1945."
+      },
+      "analogias": [
+        {
+          "titulo": "Olla de presión",
+          "texto": "Los problemas sin resolver se acumulan como el vapor en una olla cerrada, hasta que estalla un conflicto."
+        },
+        {
+          "titulo": "Pulso de fuerza",
+          "texto": "La Guerra Fría fue como dos rivales empujando una misma mesa sin soltarla, sin llegar a pelear cuerpo a cuerpo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿En qué año inició la Revolución Mexicana?",
+          "respuesta": "En 1910."
+        },
+        {
+          "ejercicio": "¿Qué organismo se creó en 1945 para buscar la paz?",
+          "respuesta": "La Organización de las Naciones Unidas (ONU)."
+        },
+        {
+          "ejercicio": "¿Entre qué dos potencias se dio la Guerra Fría?",
+          "respuesta": "Estados Unidos y la Unión Soviética."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-071",
+    "titulo": "Cómo cambió la idea de infancias y juventudes",
+    "slug": "ideas-infancias-juventudes-historia-secundaria",
+    "palabras": [
+      "niñez",
+      "adolescencia",
+      "derechos de la infancia",
+      "trabajo infantil",
+      "jóvenes"
+    ],
+    "contenido": {
+      "idea": "Antes, a veces se trataba a los niños como adultos pequeños. Hoy sabemos que necesitan jugar, estudiar y que los cuiden.",
+      "pizarron": "**Qué es:** la idea de lo que es ser niño cambió con el tiempo.\n\n**Antes:** muchos niños trabajaban en el campo o en minas.\n\n**Después:** llegó la escuela obligatoria.\n\n**1989:** la ONU aprobó la Convención sobre los Derechos del Niño.\n\n**Hoy:** niñas y niños tienen derechos.\n\nLas ideas también tienen historia: no siempre fueron iguales.\n\n**Para recordar:**\n- **¿Por qué decimos que la idea de juventud es histórica?** Porque cambia según la época y la sociedad.\n\n**Para tu escuela:** pregunta a un adulto mayor cómo era su niñez.",
+      "truco": "Cada época mira distinto a sus jóvenes.",
+      "practica": {
+        "ejercicio": "¿Qué documento de 1989 reconoce los derechos de la niñez?",
+        "respuesta": "La Convención sobre los Derechos del Niño."
+      },
+      "analogias": [
+        {
+          "titulo": "Fotos de álbum",
+          "texto": "Cada época es una foto distinta de la infancia; al verlas juntas notamos cuánto cambió la forma de verla."
+        },
+        {
+          "titulo": "Estaciones",
+          "texto": "Así como cada estación se cuida distinto, cada etapa de la vida requiere atención distinta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona un cambio entre el pasado y hoy en la vida de la niñez.",
+          "respuesta": "Por ejemplo, hoy hay escuela obligatoria y se limita el trabajo infantil."
+        },
+        {
+          "ejercicio": "¿Por qué decimos que la idea de juventud es histórica?",
+          "respuesta": "Porque cambia según la época y la sociedad."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué derecho de la niñez te parece más importante y por qué? Criterio: da un derecho y una razón clara.",
+          "respuesta": "Respuesta libre; por ejemplo, la educación, porque permite desarrollarse y tomar mejores decisiones."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-073",
+    "titulo": "Las mujeres y sus historias",
+    "slug": "mujeres-historias-historia-secundaria",
+    "palabras": [
+      "mujeres en la historia",
+      "Leona Vicario",
+      "Sor Juana",
+      "historia de las mujeres",
+      "invisibilización"
+    ],
+    "contenido": {
+      "idea": "Si en un cuento solo se cuenta lo que hizo la mitad de los personajes, el cuento queda incompleto. La historia también.",
+      "pizarron": "**Qué es:** es contar lo que hicieron las mujeres en el pasado, porque durante mucho tiempo casi no aparecían en los libros.\n\n**Ejemplos:**\n\n- **Sor Juana:** escritora de la Nueva España.\n- **Leona Vicario:** apoyó la Independencia.\n- **Revolución:** periodistas, maestras y soldaderas.\n\nSin ellas, la historia está incompleta.\n\n**Para recordar:**\n- **¿Por qué se dice que la participación de las mujeres fue poco visible?** Porque muchos relatos antiguos se centraron en los hombres.\n\n**Para tu escuela:** busca a una mujer de la historia de tu estado.",
+      "truco": "Historia completa incluye a todas las personas.",
+      "practica": {
+        "ejercicio": "¿Quién apoyó a los insurgentes y es conocida por su participación en la independencia?",
+        "respuesta": "Leona Vicario."
+      },
+      "analogias": [
+        {
+          "titulo": "Rompecabezas",
+          "texto": "Sin las piezas de las mujeres, el rompecabezas del pasado queda con huecos."
+        },
+        {
+          "titulo": "Foto de equipo",
+          "texto": "Es como una foto del equipo donde faltan algunas jugadoras que sí participaron en el juego."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Por qué se dice que la participación de las mujeres fue poco visible?",
+          "respuesta": "Porque muchos relatos antiguos se centraron en los hombres."
+        },
+        {
+          "ejercicio": "Nombra una mujer destacada de la Nueva España.",
+          "respuesta": "Sor Juana Inés de la Cruz."
+        },
+        {
+          "ejercicio": "Reflexiona: investiga a una mujer de tu comunidad. Criterio: incluye su nombre y un aporte.",
+          "respuesta": "Respuesta libre con nombre de la persona y aporte concreto a la familia o comunidad."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-075",
+    "titulo": "Las luchas de las mujeres por sus derechos",
+    "slug": "luchas-mujeres-derechos-historia-secundaria",
+    "palabras": [
+      "sufragio",
+      "voto femenino",
+      "feminismo",
+      "igualdad",
+      "derechos políticos"
+    ],
+    "contenido": {
+      "idea": "Imagina un salón donde solo algunos niños pueden votar por el juego del recreo. Los demás piden que también los escuchen.",
+      "pizarron": "**Qué es:** las mujeres han luchado para tener los mismos derechos que los hombres.\n\n**Fechas:**\n\n- 1893: Nueva Zelanda reconoce su voto.\n- Revolución Mexicana: Hermila Galindo pide el voto.\n- 1953: México reconoce su ciudadanía plena.\n- 1955: votan en elecciones federales.\n\nDespués se luchó por educación, trabajo digno y vida sin violencia.\n\nLos derechos se ganan con organización.\n\n**Para tu escuela:** investiga a una mujer mexicana importante.",
+      "truco": "Mismos derechos, misma voz y voto.",
+      "practica": {
+        "ejercicio": "¿En qué año se reformó la Constitución mexicana para reconocer el voto de las mujeres a nivel federal?",
+        "respuesta": "En 1953."
+      },
+      "analogias": [
+        {
+          "titulo": "Puerta cerrada",
+          "texto": "Era como una puerta cerrada que muchas personas empujaron juntas hasta abrirla."
+        },
+        {
+          "titulo": "Silla en la mesa",
+          "texto": "Pedir derechos es pedir una silla en la mesa donde se toman las decisiones."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa sufragio?",
+          "respuesta": "El derecho a votar."
+        },
+        {
+          "ejercicio": "¿En qué año votaron las mujeres mexicanas a nivel federal por primera vez?",
+          "respuesta": "En 1955."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿por qué es importante que todas las personas voten? Criterio: da una razón.",
+          "respuesta": "Respuesta libre; por ejemplo, para que todas las voces influyan en las decisiones."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-077",
+    "titulo": "Poder y derechos de grupos discriminados",
+    "slug": "poder-derechos-grupos-discriminados-secundaria",
+    "palabras": [
+      "relaciones de poder",
+      "pueblos indígenas",
+      "afrodescendientes",
+      "esclavitud",
+      "derechos humanos"
+    ],
+    "contenido": {
+      "idea": "Si en un juego un niño siempre decide y otros nunca, quienes no deciden pueden juntarse para pedir reglas justas.",
+      "pizarron": "**Qué es:** hay una relación de poder cuando un grupo decide y controla más que otro.\n\nPueblos indígenas, afrodescendientes y personas con discapacidad han sido discriminados.\n\nEso se sostuvo con leyes y prejuicios.\n\nEsos grupos se organizaron y exigieron derechos.\n\n**Ejemplo:** Vicente Guerrero abolió la esclavitud en 1829.\n\nHoy los derechos humanos dicen que todos valemos igual.\n\n**Para tu escuela:** di un derecho que antes no tenían todos.",
+      "truco": "Quien tiene poder decide; los derechos lo equilibran.",
+      "practica": {
+        "ejercicio": "¿Qué abolió el decreto de Vicente Guerrero de 1829?",
+        "respuesta": "La esclavitud en México."
+      },
+      "analogias": [
+        {
+          "titulo": "Balanza",
+          "texto": "El poder desigual es una balanza inclinada; los derechos buscan equilibrarla."
+        },
+        {
+          "titulo": "Coro",
+          "texto": "Es como un coro donde algunas voces no se escuchan; los derechos piden que todas se oigan."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Define relación de poder con tus palabras.",
+          "respuesta": "Situación en que un grupo decide o controla más que otro."
+        },
+        {
+          "ejercicio": "Nombra un grupo históricamente discriminado.",
+          "respuesta": "Por ejemplo, pueblos indígenas o personas afrodescendientes."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿cómo puedes promover el respeto en tu escuela? Criterio: propón una acción concreta.",
+          "respuesta": "Respuesta libre; por ejemplo, no usar apodos ofensivos y escuchar a todos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-079",
+    "titulo": "Discriminación y prejuicios como construcciones históricas",
+    "slug": "discriminacion-racismo-prejuicios-historia-secundaria",
+    "palabras": [
+      "racismo",
+      "sexismo",
+      "estereotipos",
+      "castas",
+      "discriminación",
+      "prejuicio"
+    ],
+    "contenido": {
+      "idea": "Nadie nace con prejuicios. Se aprenden, como una mala costumbre, y por eso también se pueden desaprender.",
+      "pizarron": "**Qué es:** un prejuicio es pensar mal de alguien sin conocerlo. Discriminar es tratarlo peor por eso.\n\n**Racismo:** creer que alguien vale menos por su piel u origen.\n\n**Sexismo:** tratar distinto por el sexo.\n\nNo son naturales: se aprendieron en la historia.\n\nEn la Nueva España, el sistema de castas daba privilegios según el origen.\n\nSi se aprendieron, se pueden cambiar con educación, leyes y respeto.\n\n**Para recordar:**\n- **Prejuicio:** Una opinión negativa sobre alguien sin conocerlo, solo por pertenecer a un grupo.\n- **¿Por qué decimos que el racismo es una construcción histórica?** Porque se creó y mantuvo en ciertas épocas, no es natural.\n\n**Para tu escuela:** escribe un prejuicio que hayas oído y por qué es falso.",
+      "truco": "Lo que se aprende, se puede desaprender.",
+      "practica": {
+        "ejercicio": "¿Qué es un prejuicio?",
+        "respuesta": "Una opinión negativa sobre alguien sin conocerlo, solo por pertenecer a un grupo."
+      },
+      "analogias": [
+        {
+          "titulo": "Lentes manchados",
+          "texto": "Un prejuicio es como unos lentes manchados: todo se ve distorsionado hasta que los limpias."
+        },
+        {
+          "titulo": "Etiquetas",
+          "texto": "Es poner etiquetas en frascos sin abrirlos, aunque lo de adentro sea distinto."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué sistema de la Nueva España clasificaba a las personas por su origen?",
+          "respuesta": "El sistema de castas."
+        },
+        {
+          "ejercicio": "¿Por qué decimos que el racismo es una construcción histórica?",
+          "respuesta": "Porque se creó y mantuvo en ciertas épocas, no es natural."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿cómo puedes responder si ves un trato discriminatorio? Criterio: propón una acción respetuosa.",
+          "respuesta": "Respuesta libre; por ejemplo, apoyar a la persona y avisar a un adulto responsable."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-082",
+    "titulo": "Migraciones y nuevos escenarios de vida",
+    "slug": "movilidad-migraciones-historia-secundaria",
+    "palabras": [
+      "migración",
+      "emigrar",
+      "inmigrar",
+      "braceros",
+      "movilidad humana"
+    ],
+    "contenido": {
+      "idea": "Cuando en tu huerto ya no crece nada, te mudas a otro lugar donde sí. Así se mueven las personas desde siempre.",
+      "pizarron": "**Qué es:** migrar es irse a vivir a otro lugar. Emigrar es salir. Inmigrar es llegar.\n\n**Por qué:** trabajo, seguridad, familia o desastres.\n\n**En México:** en el siglo XX, mucha gente pasó del campo a la ciudad.\n\n**Programa Bracero (1942-1964):** llevó trabajadores a Estados Unidos.\n\nLos migrantes llevan comida, lengua y costumbres. También enfrentan discriminación.\n\n**Para tu escuela:** busca qué comida de tu ciudad vino de otro lugar.",
+      "truco": "Emigra el que sale, inmigra el que llega.",
+      "practica": {
+        "ejercicio": "Si una familia sale de Oaxaca y llega a Monterrey, ¿cómo se llama su movimiento al salir y al llegar?",
+        "respuesta": "Emigra de Oaxaca e inmigra a Monterrey."
+      },
+      "analogias": [
+        {
+          "titulo": "Aves migratorias",
+          "texto": "Como las aves, muchas personas viajan buscando mejores condiciones para vivir."
+        },
+        {
+          "titulo": "Río",
+          "texto": "Las migraciones son como ríos que llevan agua a nuevas tierras y cambian el paisaje."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona dos causas de la migración.",
+          "respuesta": "Por ejemplo, buscar trabajo y escapar de la violencia o de un desastre."
+        },
+        {
+          "ejercicio": "¿Qué fue el Programa Bracero?",
+          "respuesta": "Un acuerdo (1942-1964) para enviar trabajadores mexicanos a Estados Unidos."
+        },
+        {
+          "ejercicio": "Menciona un aporte cultural de las personas migrantes.",
+          "respuesta": "Por ejemplo, comidas, música, idiomas o fiestas que comparten."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-084",
+    "titulo": "Amor, amistad y familias a lo largo de la historia",
+    "slug": "amor-amistad-familias-historia-secundaria",
+    "palabras": [
+      "familia",
+      "amistad",
+      "matrimonio",
+      "vida cotidiana",
+      "relaciones"
+    ],
+    "contenido": {
+      "idea": "Las familias son como casas: todas dan abrigo, pero cada una tiene distinto tamaño, forma y habitantes.",
+      "pizarron": "**Qué es:** las formas de familia y de amistad cambian con la época y la cultura.\n\n**Familia extensa:** abuelos, tíos y primos juntos.\n\n**Familia nuclear:** padres e hijos.\n\n**Hoy:** hay muchos tipos: con un solo adulto, con abuelos o ensambladas.\n\nAntes, muchos matrimonios los decidían las familias. Hoy se valora elegir.\n\nLo que no cambia: el apoyo y el cariño.\n\n**Para recordar:**\n- **Familia extensa:** La que incluye abuelos, tíos, primos y otros parientes que viven juntos o muy cerca.\n\n**Para tu escuela:** pregunta a tus abuelos cómo se conocieron.",
+      "truco": "Cambian las formas, permanece el cuidado.",
+      "practica": {
+        "ejercicio": "¿Qué es una familia extensa?",
+        "respuesta": "La que incluye abuelos, tíos, primos y otros parientes que viven juntos o muy cerca."
+      },
+      "analogias": [
+        {
+          "titulo": "Árbol",
+          "texto": "Una familia es como un árbol: cambia su forma con los años, pero sigue unida por sus raíces."
+        },
+        {
+          "titulo": "Tejido",
+          "texto": "Las amistades y familias son hilos que se tejen con confianza y cuidado."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona una diferencia entre familia nuclear y extensa.",
+          "respuesta": "La nuclear tiene padres e hijos; la extensa incluye más parientes."
+        },
+        {
+          "ejercicio": "¿Qué cambió en la forma de elegir pareja entre el pasado y hoy?",
+          "respuesta": "Antes muchas veces decidían las familias; hoy se valora la elección personal."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué valores hacen fuerte una amistad? Criterio: nombra dos valores con una razón.",
+          "respuesta": "Respuesta libre; por ejemplo, respeto y confianza, porque permiten sentirse seguro."
+        }
+      ]
+    }
+  }
 ]

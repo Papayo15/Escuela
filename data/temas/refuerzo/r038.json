@@ -1,16 +1,90 @@
 [
-{"nodo_id":"ems-051","titulo":"Entalpía de reacción","slug":"entalpia-de-reaccion-prepa","palabras":["entalpía","calor de reacción","exotérmica","endotérmica"],"contenido":{
-"idea":"Una fogata da calor y una compresa fría lo absorbe. La entalpía de reacción mide cuánta energía sale o entra en una reacción.",
-"pizarron":"La **entalpía de reacción**, $\\Delta H$, es el calor intercambiado a presión constante:\n\n$$\\Delta H = H_{productos} - H_{reactivos}$$\n\n- $\\Delta H < 0$: **exotérmica**, libera calor.\n- $\\Delta H > 0$: **endotérmica**, absorbe calor.\n\nEjemplo:\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}\\quad \\Delta H = -890\\ \\text{kJ/mol}$$\n\nSe liberan 890 kJ por cada mol de metano.\n\nSi quemas 2 mol:\n\n$$2 \\times (-890) = -1780\\ \\text{kJ}$$\n\nSi inviertes la reacción, $\\Delta H$ cambia de signo.",
-"truco":"Negativo sale calor; positivo entra calor.",
-"practica":{"ejercicio":"Una reacción tiene $\\Delta H = -120$ kJ. ¿Libera o absorbe calor?","respuesta":"Libera calor; es exotérmica."},
-"analogias":[{"titulo":"La cuenta del banco","texto":"Si tu saldo baja, salió dinero; si la entalpía baja, salió calor hacia los alrededores."},{"titulo":"Subir una escalera","texto":"Subir pide energía, como una reacción endotérmica; bajar la entrega, como una exotérmica."}],
-"ejercicios":[{"ejercicio":"Si $H_{productos}=50$ kJ y $H_{reactivos}=80$ kJ, ¿cuánto vale $\\Delta H$?","respuesta":"$-30$ kJ."},{"ejercicio":"Si una reacción tiene $\\Delta H=+40$ kJ, ¿cuánto vale al invertirla?","respuesta":"$-40$ kJ."},{"ejercicio":"¿Qué tipo de reacción es la combustión?","respuesta":"Exotérmica."}]}},
-{"nodo_id":"ems-051","titulo":"Ley de Hess","slug":"ley-de-hess-prepa","palabras":["ley de Hess","entalpía","suma de reacciones","termoquímica"],"contenido":{
-"idea":"Para subir a un cerro puedes tomar una ruta o varias; la altura ganada es igual. Con la energía de una reacción pasa lo mismo.",
-"pizarron":"**Ley de Hess**: el $\\Delta H$ total depende solo del inicio y del final, no del camino.\n\nPuedes sumar reacciones como ecuaciones:\n\n1. Si inviertes una reacción, cambia el signo de $\\Delta H$.\n2. Si la multiplicas, multiplica también $\\Delta H$.\n3. Cancela lo que aparezca en ambos lados.\n\nEjemplo: formar $\\ce{CO2}$ en dos pasos.\n\n$$\\ce{C + 1/2 O2 -> CO}\\quad \\Delta H = -110.5\\ \\text{kJ}$$\n\n$$\\ce{CO + 1/2 O2 -> CO2}\\quad \\Delta H = -283.0\\ \\text{kJ}$$\n\nAl sumar se cancela $\\ce{CO}$:\n\n$$\\ce{C + O2 -> CO2}\\quad \\Delta H = -393.5\\ \\text{kJ}$$",
-"truco":"Importa dónde empiezas y acabas, no el camino.",
-"practica":{"ejercicio":"Dos pasos tienen $\\Delta H$ de $-100$ kJ y $+30$ kJ. ¿Cuál es el total?","respuesta":"$-70$ kJ."},
-"analogias":[{"titulo":"El elevador","texto":"Si subes del piso 1 al 5 con paradas o sin ellas, terminas igual de alto."},{"titulo":"Sumar compras","texto":"El total de varias compras es la suma de cada ticket, sin importar el orden."}],
-"ejercicios":[{"ejercicio":"Si $A \\to B$ tiene $\\Delta H=+50$ kJ, ¿cuánto vale para $B \\to A$?","respuesta":"$-50$ kJ."},{"ejercicio":"Si $A \\to B$ tiene $\\Delta H=-20$ kJ, ¿cuánto vale para $2A \\to 2B$?","respuesta":"$-40$ kJ."},{"ejercicio":"Con $A\\to B$ de $-10$ kJ y $B\\to C$ de $-15$ kJ, ¿cuánto vale $A\\to C$?","respuesta":"$-25$ kJ."}]}}
+{
+"nodo_id": "ems-051",
+"titulo": "Entalpía de reacción",
+"slug": "entalpia-de-reaccion-prepa",
+"palabras": [
+"entalpía",
+"calor de reacción",
+"exotérmica",
+"endotérmica"
+],
+"contenido": {
+"idea": "Una fogata da calor y una compresa fría lo absorbe. La entalpía de reacción mide cuánta energía sale o entra en una reacción.",
+"pizarron": "**La regla:** $\\Delta H$ negativo libera calor, y positivo lo absorbe.\n\nLa **entalpía de reacción**, $\\Delta H$, es el calor intercambiado a presión constante:\n\n$$\\Delta H = H_{productos} - H_{reactivos}$$\n\n- $\\Delta H < 0$: **exotérmica**, libera calor.\n- $\\Delta H > 0$: **endotérmica**, absorbe calor.\n\nEjemplo:\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}\\quad \\Delta H = -890\\ \\text{kJ/mol}$$\n\nSe liberan 890 kJ por cada mol de metano.\n\nSi quemas 2 mol:\n\n$$2 \\times (-890) = -1780\\ \\text{kJ}$$\n\nSi inviertes la reacción, $\\Delta H$ cambia de signo.",
+"truco": "Negativo sale calor; positivo entra calor.",
+"practica": {
+"ejercicio": "Una reacción tiene $\\Delta H = -120$ kJ. ¿Libera o absorbe calor?",
+"respuesta": "Libera calor; es exotérmica."
+},
+"analogias": [
+{
+"titulo": "La cuenta del banco",
+"texto": "Si tu saldo baja, salió dinero; si la entalpía baja, salió calor hacia los alrededores."
+},
+{
+"titulo": "Subir una escalera",
+"texto": "Subir pide energía, como una reacción endotérmica; bajar la entrega, como una exotérmica."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Si $H_{productos}=50$ kJ y $H_{reactivos}=80$ kJ, ¿cuánto vale $\\Delta H$?",
+"respuesta": "$-30$ kJ."
+},
+{
+"ejercicio": "Si una reacción tiene $\\Delta H=+40$ kJ, ¿cuánto vale al invertirla?",
+"respuesta": "$-40$ kJ."
+},
+{
+"ejercicio": "¿Qué tipo de reacción es la combustión?",
+"respuesta": "Exotérmica."
+}
+]
+}
+},
+{
+"nodo_id": "ems-051",
+"titulo": "Ley de Hess",
+"slug": "ley-de-hess-prepa",
+"palabras": [
+"ley de Hess",
+"entalpía",
+"suma de reacciones",
+"termoquímica"
+],
+"contenido": {
+"idea": "Para subir a un cerro puedes tomar una ruta o varias; la altura ganada es igual. Con la energía de una reacción pasa lo mismo.",
+"pizarron": "**La ley:** el calor total de una reacción depende solo del inicio y del final.\n\n**Ley de Hess**: el $\\Delta H$ total depende solo del inicio y del final, no del camino.\n\nPuedes sumar reacciones como ecuaciones:\n\n1. Si inviertes una reacción, cambia el signo de $\\Delta H$.\n2. Si la multiplicas, multiplica también $\\Delta H$.\n3. Cancela lo que aparezca en ambos lados.\n\nEjemplo: formar $\\ce{CO2}$ en dos pasos.\n\n$$\\ce{C + 1/2 O2 -> CO}\\quad \\Delta H = -110.5\\ \\text{kJ}$$\n\n$$\\ce{CO + 1/2 O2 -> CO2}\\quad \\Delta H = -283.0\\ \\text{kJ}$$\n\nAl sumar se cancela $\\ce{CO}$:\n\n$$\\ce{C + O2 -> CO2}\\quad \\Delta H = -393.5\\ \\text{kJ}$$",
+"truco": "Importa dónde empiezas y acabas, no el camino.",
+"practica": {
+"ejercicio": "Dos pasos tienen $\\Delta H$ de $-100$ kJ y $+30$ kJ. ¿Cuál es el total?",
+"respuesta": "$-70$ kJ."
+},
+"analogias": [
+{
+"titulo": "El elevador",
+"texto": "Si subes del piso 1 al 5 con paradas o sin ellas, terminas igual de alto."
+},
+{
+"titulo": "Sumar compras",
+"texto": "El total de varias compras es la suma de cada ticket, sin importar el orden."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Si $A \\to B$ tiene $\\Delta H=+50$ kJ, ¿cuánto vale para $B \\to A$?",
+"respuesta": "$-50$ kJ."
+},
+{
+"ejercicio": "Si $A \\to B$ tiene $\\Delta H=-20$ kJ, ¿cuánto vale para $2A \\to 2B$?",
+"respuesta": "$-40$ kJ."
+},
+{
+"ejercicio": "Con $A\\to B$ de $-10$ kJ y $B\\to C$ de $-15$ kJ, ¿cuánto vale $A\\to C$?",
+"respuesta": "$-25$ kJ."
+}
+]
+}
+}
 ]

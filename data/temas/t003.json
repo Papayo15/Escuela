@@ -1,72 +1,461 @@
 [
-{"nodo_id":"ems-021","titulo":"Razones trigonométricas en el triángulo rectángulo","slug":"razones-trigonometricas-preparatoria","palabras":["seno","coseno","tangente","trigonometría","catetos","hipotenusa"],"contenido":{
-"idea":"Imagina una rampa para subir una bicicleta. Si es muy empinada, sube mucho por cada paso que avanzas. Esa comparación entre lo que subes y lo que avanzas es una razón trigonométrica.",
-"pizarron":"En un triángulo rectángulo, para un ángulo agudo $\\theta$ se nombran el cateto opuesto, el cateto adyacente y la hipotenusa.\n\n$$\\text{sen}\\,\\theta=\\frac{\\text{opuesto}}{\\text{hipotenusa}},\\quad \\cos\\theta=\\frac{\\text{adyacente}}{\\text{hipotenusa}},\\quad \\tan\\theta=\\frac{\\text{opuesto}}{\\text{adyacente}}$$\n\nEjemplo: catetos 3 y 4, hipotenusa 5 (porque $3^2+4^2=25$). Para el ángulo opuesto al cateto 3: $\\text{sen}\\,\\theta=\\frac{3}{5}$, $\\cos\\theta=\\frac{4}{5}$, $\\tan\\theta=\\frac{3}{4}$. Estas razones solo dependen del ángulo, no del tamaño del triángulo.",
-"truco":"SOH-CAH-TOA: Seno=Opuesto/Hipotenusa, Coseno=Adyacente/Hipotenusa, Tangente=Opuesto/Adyacente.",
-"practica":{"ejercicio":"Un triángulo rectángulo tiene catetos 5 y 12. Calcula la hipotenusa y el seno del ángulo opuesto al cateto 5.","respuesta":"Hipotenusa: $\\sqrt{25+144}=13$. El seno es $\\frac{5}{13}$."},
-"analogias":[{"titulo":"La escalera recargada","texto":"Una escalera recargada en la pared forma un triángulo rectángulo. Cuanto más alto llega, mayor es su ángulo con el piso y mayor es la razón entre altura y largo de la escalera."},{"titulo":"La pendiente del camino","texto":"Un letrero de carretera dice 10 por ciento de subida: sube 10 metros por cada 100 que avanzas. Es una tangente, la razón entre lo que subes y lo que avanzas."}],
-"ejercicios":[{"ejercicio":"Catetos 6 y 8. Calcula la hipotenusa y $\\cos\\theta$ si el cateto adyacente mide 8.","respuesta":"Hipotenusa 10; $\\cos\\theta=\\frac{8}{10}=\\frac{4}{5}$."},{"ejercicio":"En un triángulo con $\\tan\\theta=\\frac{3}{4}$ y cateto adyacente 20, ¿cuánto mide el cateto opuesto?","respuesta":"$\\frac{x}{20}=\\frac{3}{4}$, entonces $x=15$."},{"ejercicio":"Catetos 8 y 15. Calcula $\\text{sen}\\,\\theta$ del ángulo opuesto al cateto 8.","respuesta":"Hipotenusa $\\sqrt{64+225}=17$; $\\text{sen}\\,\\theta=\\frac{8}{17}$."}]}},
-{"nodo_id":"ems-022","titulo":"Gráficas de polinomios de dos variables: simetría y extensión","slug":"graficas-dos-variables-simetria-extension","palabras":["simetría","extensión","plano cartesiano","ecuación con x y y","curvas","ejes"],"contenido":{
-"idea":"Piensa en una mariposa con las alas abiertas: si doblas el dibujo por la mitad, ambos lados coinciden. Algunas gráficas también se pueden doblar y coinciden, y además solo ocupan cierta parte de la hoja.",
-"pizarron":"Una ecuación como $y^2=x$ o $x^2+y^2=25$ relaciona dos variables y se grafica en el plano cartesiano.\n\n**Simetría:**\n- Con el eje $x$: si al cambiar $y$ por $-y$ la ecuación no cambia.\n- Con el eje $y$: si al cambiar $x$ por $-x$ no cambia.\n- Con el origen: si no cambia al cambiar ambas.\n\n**Extensión:** se despeja una variable y se ve qué valores permite.\n\nEjemplo: $y^2=x$. Cambiar $y$ por $-y$ no la altera, así que es simétrica con el eje $x$. Como $y^2\\ge 0$, necesitamos $x\\ge 0$: la curva solo existe a la derecha del eje $y$.",
-"truco":"Cambia el signo, compara y despeja: si no cambia, hay simetría; si hay raíz o cuadrado, hay límites.",
-"practica":{"ejercicio":"Para $x^2+y^2=25$, ¿es simétrica con el eje $x$? ¿Entre qué valores está $x$?","respuesta":"Sí, porque $(-y)^2=y^2$. Como $y^2\\ge 0$, $x^2\\le 25$, entonces $-5\\le x\\le 5$."},
-"analogias":[{"titulo":"El espejo","texto":"La simetría es como poner un espejo sobre un eje: lo que ves reflejado debe coincidir con el dibujo original."},{"titulo":"El corral","texto":"La extensión es como una cerca: la curva solo puede estar dentro de las zonas del plano donde la ecuación tiene sentido."}],
-"ejercicios":[{"ejercicio":"¿Es $y=x^2$ simétrica con el eje $y$?","respuesta":"Sí, porque $(-x)^2=x^2$."},{"ejercicio":"En $y^2=x-2$, ¿qué valores puede tomar $x$?","respuesta":"$x-2\\ge 0$, entonces $x\\ge 2$."},{"ejercicio":"¿Es $x^2+y^2=9$ simétrica con el origen?","respuesta":"Sí: al cambiar $x$ por $-x$ y $y$ por $-y$ la ecuación queda igual."}]}},
-{"nodo_id":"ems-023","titulo":"Proporcionalidad directa y la ecuación de la recta","slug":"proporcionalidad-directa-ecuacion-recta","palabras":["recta","pendiente","constante de proporcionalidad","y=kx","línea recta","razón"],"contenido":{
-"idea":"Si un kilo de tortillas cuesta lo mismo siempre, dos kilos cuestan el doble y tres kilos el triple. Cuando una cantidad crece al mismo ritmo que la otra, hay proporcionalidad directa.",
-"pizarron":"Dos variables están en proporcionalidad directa si su cociente es constante:\n\n$$\\frac{y}{x}=k\\quad\\Rightarrow\\quad y=kx$$\n\nLa constante $k$ es la constante de proporcionalidad y es la pendiente de la recta. La gráfica pasa por el origen $(0,0)$.\n\nEjemplo: 3 kg cuestan 45 pesos, entonces $k=\\frac{45}{3}=15$ y la ecuación es $y=15x$. Con 5 kg: $y=15\\cdot 5=75$ pesos.\n\nSi $k>0$ la recta sube; si $k<0$ baja. Esta es la forma más sencilla de la recta; más adelante se agrega una ordenada al origen: $y=mx+b$.",
-"truco":"Si dividir y entre x siempre da lo mismo, es y igual a k por x.",
-"practica":{"ejercicio":"Una llave llena 12 litros en 4 minutos. Escribe la ecuación litros $y$ en función de minutos $x$.","respuesta":"$k=\\frac{12}{4}=3$, entonces $y=3x$."},
-"analogias":[{"titulo":"La fotocopiadora","texto":"Cada copia cuesta lo mismo. Si haces el doble de copias pagas el doble; la gráfica del costo es una línea recta desde cero."},{"titulo":"El caminante","texto":"Quien camina a paso constante recorre el doble de distancia en el doble de tiempo; la distancia es proporcional al tiempo."}],
-"ejercicios":[{"ejercicio":"Si $y=7x$, ¿cuánto vale $y$ cuando $x=4$?","respuesta":"$y=28$."},{"ejercicio":"Los puntos $(2,10)$ y $(5,25)$, ¿están en proporcionalidad directa?","respuesta":"Sí: $\\frac{10}{2}=5$ y $\\frac{25}{5}=5$, entonces $y=5x$."},{"ejercicio":"Una recta pasa por el origen y por $(4,-8)$. Escribe su ecuación.","respuesta":"$k=\\frac{-8}{4}=-2$, entonces $y=-2x$."}]}},
-{"nodo_id":"ems-024","titulo":"Función cuadrática y propiedades de la parábola","slug":"funcion-cuadratica-parabola-preparatoria","palabras":["parábola","vértice","cuadrática","raíces","eje de simetría","y=ax2+bx+c"],"contenido":{
-"idea":"Cuando lanzas una pelota al aire, sube, llega a un punto más alto y baja. Ese camino curvo, como una montaña suave, es una parábola.",
-"pizarron":"Una función cuadrática tiene la forma $y=ax^2+bx+c$, con $a\\ne 0$. Su gráfica es una parábola.\n\n- Si $a>0$ abre hacia arriba; si $a<0$, hacia abajo.\n- Vértice: $x_v=-\\frac{b}{2a}$; se sustituye para hallar $y_v$.\n- Eje de simetría: la recta $x=x_v$.\n- Raíces: valores de $x$ donde $y=0$.\n\nEjemplo: $y=x^2-4x+3$. Aquí $a=1$, $b=-4$, así que $x_v=\\frac{4}{2}=2$ y $y_v=4-8+3=-1$. El vértice es $(2,-1)$. Al factorizar, $(x-1)(x-3)=0$, así que las raíces son 1 y 3.",
-"truco":"El vértice vive en menos b entre dos a.",
-"practica":{"ejercicio":"Halla el vértice de $y=x^2-6x+5$.","respuesta":"$x_v=3$; $y_v=9-18+5=-4$. Vértice: $(3,-4)$."},
-"analogias":[{"titulo":"El chorro de la fuente","texto":"El agua de una fuente sube, se detiene un instante y cae. El punto más alto del chorro es el vértice de la parábola."},{"titulo":"El tobogán","texto":"Un tobogán en forma de U baja hasta un punto más bajo y vuelve a subir de forma simétrica, igual que una parábola que abre hacia arriba."}],
-"ejercicios":[{"ejercicio":"¿Hacia dónde abre $y=-2x^2+3$?","respuesta":"Hacia abajo, porque $a=-2<0$."},{"ejercicio":"Encuentra las raíces de $y=x^2-9$.","respuesta":"$x^2=9$, entonces $x=3$ y $x=-3$."},{"ejercicio":"Halla el vértice de $y=-x^2+4x$.","respuesta":"$x_v=-\\frac{4}{-2}=2$; $y_v=-4+8=4$. Vértice: $(2,4)$."}]}},
-{"nodo_id":"ems-025","titulo":"Circunferencia y leyes de Kepler: movimientos circulares y elípticos","slug":"circunferencia-kepler-movimiento-orbital","palabras":["circunferencia","elipse","órbita","Kepler","planetas","radio","centro"],"contenido":{
-"idea":"Si atas una piedra a un cordón y la giras, siempre queda a la misma distancia de tu mano. Los planetas también giran alrededor del Sol, aunque su camino es un óvalo.",
-"pizarron":"**Circunferencia:** todos sus puntos están a la misma distancia $r$ de un centro $(h,k)$:\n\n$$(x-h)^2+(y-k)^2=r^2$$\n\nEjemplo: centro $(1,-2)$ y radio 4: $(x-1)^2+(y+2)^2=16$.\n\n**Leyes de Kepler** (planetas alrededor del Sol):\n1. Las órbitas son elipses con el Sol en un foco.\n2. Un planeta barre áreas iguales en tiempos iguales: va más rápido cuando está cerca del Sol.\n3. $T^2$ es proporcional a $a^3$, donde $T$ es el periodo y $a$ el semieje mayor. Con $a$ en unidades astronómicas y $T$ en años, $T^2=a^3$.\n\nLa variación de la posición con el tiempo se estudia con el pensamiento variacional.",
-"truco":"Circunferencia: distancia fija al centro. Kepler: elipse, áreas iguales, T al cuadrado igual a a al cubo.",
-"practica":{"ejercicio":"Escribe la ecuación de la circunferencia con centro $(0,0)$ y radio 5.","respuesta":"$x^2+y^2=25$."},
-"analogias":[{"titulo":"La pista de atletismo","texto":"Un corredor en una pista circular mantiene siempre su distancia al centro. En una pista ovalada esa distancia cambia, como en una elipse."},{"titulo":"El columpio","texto":"Un columpio va más rápido en el punto más bajo y más lento arriba. Un planeta también cambia de rapidez según su distancia al Sol."}],
-"ejercicios":[{"ejercicio":"Centro $(2,3)$ y radio 6. Escribe la ecuación.","respuesta":"$(x-2)^2+(y-3)^2=36$."},{"ejercicio":"Un punto de $(x-1)^2+(y+2)^2=16$, ¿cuánto mide su distancia al centro?","respuesta":"4 unidades, el radio."},{"ejercicio":"Un cuerpo con $a=4$ UA, ¿qué periodo tiene según la tercera ley?","respuesta":"$T^2=4^3=64$, entonces $T=8$ años."}]}},
-{"nodo_id":"ems-026","titulo":"Secciones cónicas: ecuaciones con dos variables y estimación","slug":"secciones-conicas-modelado-estimacion","palabras":["cónicas","elipse","parábola","hipérbola","circunferencia","modelado"],"contenido":{
-"idea":"Si cortas un helado de cono con un cuchillo en distintos ángulos, el borde del corte puede ser un círculo, un óvalo o una curva abierta. Esas formas son las cónicas.",
-"pizarron":"Las secciones cónicas se obtienen al cortar un cono con un plano. Se reconocen por su ecuación:\n\n- Circunferencia: $x^2+y^2=r^2$\n- Elipse: $\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$\n- Parábola: $y=ax^2$ (o $x=ay^2$)\n- Hipérbola: $\\frac{x^2}{a^2}-\\frac{y^2}{b^2}=1$\n\nIdentificar la ecuación ayuda a modelar situaciones y hacer estimaciones. Ejemplo: la elipse $\\frac{x^2}{9}+\\frac{y^2}{4}=1$ tiene semiejes 3 y 2; su área es $\\pi ab=6\\pi\\approx 18.85$ unidades cuadradas. Con la ecuación, además, sabes que $x$ solo varía entre $-3$ y $3$.",
-"truco":"Dos cuadrados sumados: círculo u óvalo; restados: hipérbola; solo uno al cuadrado: parábola.",
-"practica":{"ejercicio":"¿Qué cónica es $x^2+y^2=49$ y cuánto mide su radio?","respuesta":"Es una circunferencia de radio 7."},
-"analogias":[{"titulo":"La sombra de la lámpara","texto":"Una lámpara de pantalla cónica proyecta en la pared una curva distinta según la incline: círculo, óvalo o curva abierta."},{"titulo":"La antena parabólica","texto":"Una antena parabólica junta las señales en un solo punto, el foco; por eso su forma es una parábola."}],
-"ejercicios":[{"ejercicio":"Identifica $x^2-y^2=1$.","respuesta":"Hipérbola, porque hay una resta de cuadrados."},{"ejercicio":"Identifica $y=3x^2$.","respuesta":"Parábola, porque solo $x$ está al cuadrado."},{"ejercicio":"Estima el área de $\\frac{x^2}{25}+\\frac{y^2}{16}=1$.","respuesta":"Semiejes 5 y 4: $\\pi\\cdot 5\\cdot 4=20\\pi\\approx 62.8$ unidades cuadradas."}]}},
-{"nodo_id":"ems-027","titulo":"Variación promedio e instantánea: inicio del cálculo diferencial","slug":"variacion-promedio-instantanea-calculo","palabras":["razón de cambio","velocidad instantánea","cálculo diferencial","variación","pendiente de secante"],"contenido":{
-"idea":"Si en un viaje recorres 120 km en 2 horas, tu velocidad promedio es 60 km/h. Pero el velocímetro marca la velocidad exacta en cada instante, que puede ser distinta.",
-"pizarron":"La **variación promedio** de $f$ entre $x_1$ y $x_2$ es:\n\n$$\\frac{f(x_2)-f(x_1)}{x_2-x_1}$$\n\nEs la pendiente de la recta que une dos puntos de la gráfica (secante).\n\nPara la **variación instantánea**, se acerca el segundo punto al primero y se observa a qué valor se aproxima el cociente.\n\nEjemplo: $f(x)=x^2$ desde $x=1$:\n- Hasta 3: $\\frac{9-1}{2}=4$\n- Hasta 2: $\\frac{4-1}{1}=3$\n- Hasta 1.1: $\\frac{1.21-1}{0.1}=2.1$\n\nLos valores se acercan a 2, que es la variación instantánea en $x=1$. Esta idea dio origen al cálculo diferencial.",
-"truco":"Promedio: dos puntos. Instantánea: acerca los puntos hasta que casi se junten.",
-"practica":{"ejercicio":"Si $f(x)=x^2$, calcula la variación promedio entre $x=2$ y $x=4$.","respuesta":"$\\frac{16-4}{2}=6$."},
-"analogias":[{"titulo":"La foto y el video","texto":"La variación promedio es como comparar dos fotos de una planta con un mes de diferencia. La instantánea es como pausar un video y ver cuánto crece justo en ese momento."},{"titulo":"El velocímetro","texto":"El promedio es el total recorrido entre el tiempo total. El velocímetro del coche muestra la rapidez en ese preciso instante."}],
-"ejercicios":[{"ejercicio":"$f(x)=3x$. Variación promedio entre 1 y 5.","respuesta":"$\\frac{15-3}{4}=3$."},{"ejercicio":"$f(x)=x^2$. Variación promedio entre 3 y 4.","respuesta":"$\\frac{16-9}{1}=7$."},{"ejercicio":"Un auto recorre 150 km en 3 horas. ¿Cuál es su velocidad promedio?","respuesta":"$\\frac{150}{3}=50$ km/h."}]}},
-{"nodo_id":"ems-028","titulo":"Recta tangente a una curva y cambio instantáneo","slug":"recta-tangente-cambio-instantaneo","palabras":["tangente","pendiente","derivada","función","cambio instantáneo","punto"],"contenido":{
-"idea":"Cuando una bicicleta toma una curva y se le zafa el pie del pedal, la rueda sale en línea recta justo en la dirección que llevaba. Esa dirección es la tangente.",
-"pizarron":"La recta tangente a una curva en un punto toca la curva en ese punto con la misma dirección que ella. Su pendiente $m$ mide el cambio instantáneo de la función.\n\nPasos para hallarla:\n1. Calcula el punto $(x_0,f(x_0))$.\n2. Obtén la pendiente $m$ en $x_0$.\n3. Usa $y-y_0=m(x-x_0)$.\n\nPara $f(x)=x^2$ la pendiente en $x_0$ es $2x_0$ (el valor al que se acercan las variaciones promedio).\n\nEjemplo: en $x_0=3$, el punto es $(3,9)$ y $m=6$. Entonces $y-9=6(x-3)$, es decir, $y=6x-9$.\n\nSi la función modela la distancia de un objeto, $m$ es su velocidad en ese instante.",
-"truco":"Punto, pendiente, y menos y cero igual a m por x menos x cero.",
-"practica":{"ejercicio":"Halla la tangente a $f(x)=x^2$ en $x_0=1$.","respuesta":"Punto $(1,1)$, $m=2$. $y-1=2(x-1)$, entonces $y=2x-1$."},
-"analogias":[{"titulo":"La regla sobre la curva","texto":"Recarga una regla sobre una pelota: toca en un solo punto y marca la dirección de la superficie ahí. Esa regla es la tangente."},{"titulo":"El faro del coche","texto":"Al tomar una curva, el haz del faro apunta hacia donde el coche se dirige en ese instante, igual que la tangente."}],
-"ejercicios":[{"ejercicio":"Tangente a $f(x)=x^2$ en $x_0=2$.","respuesta":"Punto $(2,4)$, $m=4$. $y-4=4(x-2)$, entonces $y=4x-4$."},{"ejercicio":"Una curva tiene pendiente 5 en el punto $(1,3)$. Escribe la tangente.","respuesta":"$y-3=5(x-1)$, entonces $y=5x-2$."},{"ejercicio":"Si la distancia es $s=t^2$ metros, ¿qué velocidad tiene en $t=5$ segundos?","respuesta":"$m=2\\cdot 5=10$ m/s."}]}},
-{"nodo_id":"ems-029","titulo":"Límite y continuidad de funciones","slug":"limite-continuidad-funciones","palabras":["límite","continuidad","tabla de valores","acercarse","discontinuidad","función"],"contenido":{
-"idea":"Imagina caminar hacia una puerta dando pasos cada vez más cortos. Nunca tienes que llegar para saber hacia dónde vas. El límite dice a qué valor se acerca una función.",
-"pizarron":"El límite $\\lim_{x\\to a}f(x)=L$ significa que $f(x)$ se acerca a $L$ cuando $x$ se acerca a $a$, sin importar qué pase exactamente en $a$.\n\nSe estima con tablas, gráficas o álgebra.\n\nEjemplo: $\\lim_{x\\to 2}\\frac{x^2-4}{x-2}$. Si sustituyes, queda $\\frac{0}{0}$. Factoriza: $\\frac{(x-2)(x+2)}{x-2}=x+2$, y el límite es $4$.\n\nUna función es **continua** en $a$ si:\n1. $f(a)$ existe,\n2. el límite existe,\n3. ambos son iguales.\n\nAquí $f(2)$ no existe, así que hay un hueco en $x=2$ y la función no es continua ahí.",
-"truco":"Continua: puedes dibujarla sin levantar el lápiz.",
-"practica":{"ejercicio":"Calcula $\\lim_{x\\to 3}(2x+1)$.","respuesta":"$2(3)+1=7$."},
-"analogias":[{"titulo":"El puente","texto":"Una función continua es como un puente sin huecos; una discontinua tiene un tramo roto o un salto que no puedes cruzar caminando."},{"titulo":"El termómetro","texto":"La temperatura cambia sin saltos de 20 a 21 grados pasando por todos los valores intermedios; eso es un fenómeno continuo."}],
-"ejercicios":[{"ejercicio":"$\\lim_{x\\to 1}\\frac{x^2-1}{x-1}$.","respuesta":"$\\frac{(x-1)(x+1)}{x-1}=x+1$, entonces el límite es 2."},{"ejercicio":"$\\lim_{x\\to 4}(x^2-3x)$.","respuesta":"$16-12=4$."},{"ejercicio":"¿Es continua $f(x)=\\frac{1}{x}$ en $x=0$?","respuesta":"No, porque $f(0)$ no está definida."}]}},
-{"nodo_id":"ems-030","titulo":"Derivada de funciones lineales y polinomiales","slug":"derivada-polinomios-preparatoria","palabras":["derivada","regla de la potencia","razón de cambio","polinomio","derivar"],"contenido":{
-"idea":"La derivada responde: ¿qué tan rápido cambia algo ahora mismo? Es como el velocímetro, que te dice a qué rapidez vas en este instante.",
-"pizarron":"La derivada de $f$, escrita $f'(x)$, da la pendiente de la tangente en cada punto, es decir, el cambio instantáneo.\n\nReglas básicas:\n- Constante: $(c)'=0$\n- Potencia: $(x^n)'=nx^{n-1}$\n- Constante por función: $(cf)'=cf'$\n- Suma: se deriva término por término.\n\nEjemplo: $f(x)=3x^2-5x+7$\n- $(3x^2)'=6x$\n- $(-5x)'=-5$\n- $(7)'=0$\n\nAsí, $f'(x)=6x-5$. En $x=2$: $f'(2)=12-5=7$, la rapidez de cambio en ese punto.\n\nSe usa para saber cuándo crece una población, cómo cambia un costo o con qué rapidez se mueve un objeto.",
-"truco":"Baja el exponente, multiplícalo y réstale uno al exponente.",
-"practica":{"ejercicio":"Deriva $f(x)=4x^3$.","respuesta":"$f'(x)=12x^2$."},
-"analogias":[{"titulo":"La inclinación de la cuesta","texto":"En una montaña, la derivada es la inclinación del camino justo donde estás parado: positiva si subes, negativa si bajas, cero en la cima."},{"titulo":"La llave del agua","texto":"El nivel de una cubeta es la función; la derivada es qué tan rápido sube el nivel en este momento según cuánto abres la llave."}],
-"ejercicios":[{"ejercicio":"Deriva $f(x)=5x-4$.","respuesta":"$f'(x)=5$."},{"ejercicio":"Deriva $f(x)=x^3+2x$.","respuesta":"$f'(x)=3x^2+2$."},{"ejercicio":"Si $s(t)=t^2+3t$ metros, ¿qué velocidad tiene en $t=4$ segundos?","respuesta":"$s'(t)=2t+3$; $s'(4)=11$ m/s."}]}}
+{
+"nodo_id": "ems-021",
+"titulo": "Razones trigonométricas en el triángulo rectángulo",
+"slug": "razones-trigonometricas-preparatoria",
+"palabras": [
+"seno",
+"coseno",
+"tangente",
+"trigonometría",
+"catetos",
+"hipotenusa"
+],
+"contenido": {
+"idea": "Imagina una rampa para subir una bicicleta. Si es muy empinada, sube mucho por cada paso que avanzas. Esa comparación entre lo que subes y lo que avanzas es una razón trigonométrica.",
+"pizarron": "**La regla:** seno es opuesto entre hipotenusa, coseno es adyacente entre hipotenusa y tangente es opuesto entre adyacente.\n\n**Ejemplo:** catetos 3 y 4, hipotenusa 5.\n\n$$\\sin\\theta = \\frac{3}{5} \\quad \\cos\\theta = \\frac{4}{5} \\quad \\tan\\theta = \\frac{3}{4}$$\n\nSolo dependen del ángulo.\n\n**Para tu escuela:** calcula las tres con 6, 8 y 10.",
+"truco": "SOH-CAH-TOA: Seno=Opuesto/Hipotenusa, Coseno=Adyacente/Hipotenusa, Tangente=Opuesto/Adyacente.",
+"practica": {
+"ejercicio": "Un triángulo rectángulo tiene catetos 5 y 12. Calcula la hipotenusa y el seno del ángulo opuesto al cateto 5.",
+"respuesta": "Hipotenusa: $\\sqrt{25+144}=13$. El seno es $\\frac{5}{13}$."
+},
+"analogias": [
+{
+"titulo": "La escalera recargada",
+"texto": "Una escalera recargada en la pared forma un triángulo rectángulo. Cuanto más alto llega, mayor es su ángulo con el piso y mayor es la razón entre altura y largo de la escalera."
+},
+{
+"titulo": "La pendiente del camino",
+"texto": "Un letrero de carretera dice 10 por ciento de subida: sube 10 metros por cada 100 que avanzas. Es una tangente, la razón entre lo que subes y lo que avanzas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Catetos 6 y 8. Calcula la hipotenusa y $\\cos\\theta$ si el cateto adyacente mide 8.",
+"respuesta": "Hipotenusa 10; $\\cos\\theta=\\frac{8}{10}=\\frac{4}{5}$."
+},
+{
+"ejercicio": "En un triángulo con $\\tan\\theta=\\frac{3}{4}$ y cateto adyacente 20, ¿cuánto mide el cateto opuesto?",
+"respuesta": "$\\frac{x}{20}=\\frac{3}{4}$, entonces $x=15$."
+},
+{
+"ejercicio": "Catetos 8 y 15. Calcula $\\text{sen}\\,\\theta$ del ángulo opuesto al cateto 8.",
+"respuesta": "Hipotenusa $\\sqrt{64+225}=17$; $\\text{sen}\\,\\theta=\\frac{8}{17}$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-022",
+"titulo": "Gráficas de polinomios de dos variables: simetría y extensión",
+"slug": "graficas-dos-variables-simetria-extension",
+"palabras": [
+"simetría",
+"extensión",
+"plano cartesiano",
+"ecuación con x y y",
+"curvas",
+"ejes"
+],
+"contenido": {
+"idea": "Piensa en una mariposa con las alas abiertas: si doblas el dibujo por la mitad, ambos lados coinciden. Algunas gráficas también se pueden doblar y coinciden, y además solo ocupan cierta parte de la hoja.",
+"pizarron": "**Qué es:** la simetría dice si la gráfica se refleja. La extensión dice qué valores puede tomar.\n\n**Simetría con eje $x$:** cambia $y$ por $-y$ y queda igual.\n\n**Con eje $y$:** cambia $x$ por $-x$.\n\n**Ejemplo:** $y^2 = x$. Es simétrica con el eje $x$, y $x$ no puede ser negativa.\n\n**Para tu escuela:** revisa la simetría de $y = x^2$.",
+"truco": "Cambia el signo, compara y despeja: si no cambia, hay simetría; si hay raíz o cuadrado, hay límites.",
+"practica": {
+"ejercicio": "Para $x^2+y^2=25$, ¿es simétrica con el eje $x$? ¿Entre qué valores está $x$?",
+"respuesta": "Sí, porque $(-y)^2=y^2$. Como $y^2\\ge 0$, $x^2\\le 25$, entonces $-5\\le x\\le 5$."
+},
+"analogias": [
+{
+"titulo": "El espejo",
+"texto": "La simetría es como poner un espejo sobre un eje: lo que ves reflejado debe coincidir con el dibujo original."
+},
+{
+"titulo": "El corral",
+"texto": "La extensión es como una cerca: la curva solo puede estar dentro de las zonas del plano donde la ecuación tiene sentido."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Es $y=x^2$ simétrica con el eje $y$?",
+"respuesta": "Sí, porque $(-x)^2=x^2$."
+},
+{
+"ejercicio": "En $y^2=x-2$, ¿qué valores puede tomar $x$?",
+"respuesta": "$x-2\\ge 0$, entonces $x\\ge 2$."
+},
+{
+"ejercicio": "¿Es $x^2+y^2=9$ simétrica con el origen?",
+"respuesta": "Sí: al cambiar $x$ por $-x$ y $y$ por $-y$ la ecuación queda igual."
+}
+]
+}
+},
+{
+"nodo_id": "ems-023",
+"titulo": "Proporcionalidad directa y la ecuación de la recta",
+"slug": "proporcionalidad-directa-ecuacion-recta",
+"palabras": [
+"recta",
+"pendiente",
+"constante de proporcionalidad",
+"y=kx",
+"línea recta",
+"razón"
+],
+"contenido": {
+"idea": "Si un kilo de tortillas cuesta lo mismo siempre, dos kilos cuestan el doble y tres kilos el triple. Cuando una cantidad crece al mismo ritmo que la otra, hay proporcionalidad directa.",
+"pizarron": "**La regla:** dos cantidades son directamente proporcionales si $y = kx$.\n\n$k$ es el valor unitario.\n\n**Ejemplo:** 3 kg cuestan 45 pesos.\n\n$k = 45 \\div 3 = 15$. Entonces $y = 15x$.\n\nCon 5 kg: $y = 75$ pesos.\n\nLa gráfica es una recta que pasa por el origen.\n\n**Para tu escuela:** escribe la ecuación si 4 cuadernos cuestan 80 pesos.",
+"truco": "Si dividir y entre x siempre da lo mismo, es y igual a k por x.",
+"practica": {
+"ejercicio": "Una llave llena 12 litros en 4 minutos. Escribe la ecuación litros $y$ en función de minutos $x$.",
+"respuesta": "$k=\\frac{12}{4}=3$, entonces $y=3x$."
+},
+"analogias": [
+{
+"titulo": "La fotocopiadora",
+"texto": "Cada copia cuesta lo mismo. Si haces el doble de copias pagas el doble; la gráfica del costo es una línea recta desde cero."
+},
+{
+"titulo": "El caminante",
+"texto": "Quien camina a paso constante recorre el doble de distancia en el doble de tiempo; la distancia es proporcional al tiempo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Si $y=7x$, ¿cuánto vale $y$ cuando $x=4$?",
+"respuesta": "$y=28$."
+},
+{
+"ejercicio": "Los puntos $(2,10)$ y $(5,25)$, ¿están en proporcionalidad directa?",
+"respuesta": "Sí: $\\frac{10}{2}=5$ y $\\frac{25}{5}=5$, entonces $y=5x$."
+},
+{
+"ejercicio": "Una recta pasa por el origen y por $(4,-8)$. Escribe su ecuación.",
+"respuesta": "$k=\\frac{-8}{4}=-2$, entonces $y=-2x$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-024",
+"titulo": "Función cuadrática y propiedades de la parábola",
+"slug": "funcion-cuadratica-parabola-preparatoria",
+"palabras": [
+"parábola",
+"vértice",
+"cuadrática",
+"raíces",
+"eje de simetría",
+"y=ax2+bx+c"
+],
+"contenido": {
+"idea": "Cuando lanzas una pelota al aire, sube, llega a un punto más alto y baja. Ese camino curvo, como una montaña suave, es una parábola.",
+"pizarron": "**Qué es:** una función cuadrática tiene $x^2$, y su gráfica es una curva llamada parábola, con un punto más alto o más bajo llamado vértice.\n\nUna función cuadrática tiene la forma $y=ax^2+bx+c$, con $a\\ne 0$. Su gráfica es una parábola.\n\n- Si $a>0$ abre hacia arriba; si $a<0$, hacia abajo.\n- Vértice: $x_v=-\\frac{b}{2a}$; se sustituye para hallar $y_v$.\n- Eje de simetría: la recta $x=x_v$.\n- Raíces: valores de $x$ donde $y=0$.\n\nEjemplo: $y=x^2-4x+3$. Aquí $a=1$, $b=-4$, así que $x_v=\\frac{4}{2}=2$ y $y_v=4-8+3=-1$. El vértice es $(2,-1)$. Al factorizar, $(x-1)(x-3)=0$, así que las raíces son 1 y 3.",
+"truco": "El vértice vive en menos b entre dos a.",
+"practica": {
+"ejercicio": "Halla el vértice de $y=x^2-6x+5$.",
+"respuesta": "$x_v=3$; $y_v=9-18+5=-4$. Vértice: $(3,-4)$."
+},
+"analogias": [
+{
+"titulo": "El chorro de la fuente",
+"texto": "El agua de una fuente sube, se detiene un instante y cae. El punto más alto del chorro es el vértice de la parábola."
+},
+{
+"titulo": "El tobogán",
+"texto": "Un tobogán en forma de U baja hasta un punto más bajo y vuelve a subir de forma simétrica, igual que una parábola que abre hacia arriba."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Hacia dónde abre $y=-2x^2+3$?",
+"respuesta": "Hacia abajo, porque $a=-2<0$."
+},
+{
+"ejercicio": "Encuentra las raíces de $y=x^2-9$.",
+"respuesta": "$x^2=9$, entonces $x=3$ y $x=-3$."
+},
+{
+"ejercicio": "Halla el vértice de $y=-x^2+4x$.",
+"respuesta": "$x_v=-\\frac{4}{-2}=2$; $y_v=-4+8=4$. Vértice: $(2,4)$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-025",
+"titulo": "Circunferencia y leyes de Kepler: movimientos circulares y elípticos",
+"slug": "circunferencia-kepler-movimiento-orbital",
+"palabras": [
+"circunferencia",
+"elipse",
+"órbita",
+"Kepler",
+"planetas",
+"radio",
+"centro"
+],
+"contenido": {
+"idea": "Si atas una piedra a un cordón y la giras, siempre queda a la misma distancia de tu mano. Los planetas también giran alrededor del Sol, aunque su camino es un óvalo.",
+"pizarron": "**La ley:** los planetas giran en elipses con el Sol en un foco, van más rápido cerca de él, y $T^2$ es proporcional a $a^3$.\n\n**Circunferencia:** $(x-h)^2 + (y-k)^2 = r^2$.\n\n$(h,k)$ es el centro y $r$ el radio.\n\n**Ejemplo:** centro $(1,-2)$ y radio 4: $(x-1)^2 + (y+2)^2 = 16$.\n\n**Para tu escuela:** escribe la ecuación con centro $(0,0)$ y radio 5.",
+"truco": "Circunferencia: distancia fija al centro. Kepler: elipse, áreas iguales, T al cuadrado igual a a al cubo.",
+"practica": {
+"ejercicio": "Escribe la ecuación de la circunferencia con centro $(0,0)$ y radio 5.",
+"respuesta": "$x^2+y^2=25$."
+},
+"analogias": [
+{
+"titulo": "La pista de atletismo",
+"texto": "Un corredor en una pista circular mantiene siempre su distancia al centro. En una pista ovalada esa distancia cambia, como en una elipse."
+},
+{
+"titulo": "El columpio",
+"texto": "Un columpio va más rápido en el punto más bajo y más lento arriba. Un planeta también cambia de rapidez según su distancia al Sol."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Centro $(2,3)$ y radio 6. Escribe la ecuación.",
+"respuesta": "$(x-2)^2+(y-3)^2=36$."
+},
+{
+"ejercicio": "Un punto de $(x-1)^2+(y+2)^2=16$, ¿cuánto mide su distancia al centro?",
+"respuesta": "4 unidades, el radio."
+},
+{
+"ejercicio": "Un cuerpo con $a=4$ UA, ¿qué periodo tiene según la tercera ley?",
+"respuesta": "$T^2=4^3=64$, entonces $T=8$ años."
+}
+]
+}
+},
+{
+"nodo_id": "ems-026",
+"titulo": "Secciones cónicas: ecuaciones con dos variables y estimación",
+"slug": "secciones-conicas-modelado-estimacion",
+"palabras": [
+"cónicas",
+"elipse",
+"parábola",
+"hipérbola",
+"circunferencia",
+"modelado"
+],
+"contenido": {
+"idea": "Si cortas un helado de cono con un cuchillo en distintos ángulos, el borde del corte puede ser un círculo, un óvalo o una curva abierta. Esas formas son las cónicas.",
+"pizarron": "**Qué es:** son las curvas que salen de cortar un cono.\n\n- **Circunferencia:** $x^2 + y^2 = r^2$.\n- **Elipse:** $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$.\n- **Parábola:** $y = ax^2$.\n- **Hipérbola:** $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$.\n\n**Ejemplo:** la elipse con $a = 3$ y $b = 2$ tiene área $\\pi ab = 6\\pi$.\n\n**Para tu escuela:** identifica cada curva por su ecuación.",
+"truco": "Dos cuadrados sumados: círculo u óvalo; restados: hipérbola; solo uno al cuadrado: parábola.",
+"practica": {
+"ejercicio": "¿Qué cónica es $x^2+y^2=49$ y cuánto mide su radio?",
+"respuesta": "Es una circunferencia de radio 7."
+},
+"analogias": [
+{
+"titulo": "La sombra de la lámpara",
+"texto": "Una lámpara de pantalla cónica proyecta en la pared una curva distinta según la incline: círculo, óvalo o curva abierta."
+},
+{
+"titulo": "La antena parabólica",
+"texto": "Una antena parabólica junta las señales en un solo punto, el foco; por eso su forma es una parábola."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Identifica $x^2-y^2=1$.",
+"respuesta": "Hipérbola, porque hay una resta de cuadrados."
+},
+{
+"ejercicio": "Identifica $y=3x^2$.",
+"respuesta": "Parábola, porque solo $x$ está al cuadrado."
+},
+{
+"ejercicio": "Estima el área de $\\frac{x^2}{25}+\\frac{y^2}{16}=1$.",
+"respuesta": "Semiejes 5 y 4: $\\pi\\cdot 5\\cdot 4=20\\pi\\approx 62.8$ unidades cuadradas."
+}
+]
+}
+},
+{
+"nodo_id": "ems-027",
+"titulo": "Variación promedio e instantánea: inicio del cálculo diferencial",
+"slug": "variacion-promedio-instantanea-calculo",
+"palabras": [
+"razón de cambio",
+"velocidad instantánea",
+"cálculo diferencial",
+"variación",
+"pendiente de secante"
+],
+"contenido": {
+"idea": "Si en un viaje recorres 120 km en 2 horas, tu velocidad promedio es 60 km/h. Pero el velocímetro marca la velocidad exacta en cada instante, que puede ser distinta.",
+"pizarron": "**Qué es:** la variación promedio es el cambio entre dos puntos. La instantánea es el cambio justo en un punto.\n\n$$\\frac{f(x_2) - f(x_1)}{x_2 - x_1}$$\n\n**Ejemplo:** $f(x) = x^2$ desde 1.\n\nHasta 3: 4.\n\nHasta 2: 3.\n\nHasta 1.1: 2.1.\n\nSe acerca a 2.\n\n**Para tu escuela:** repite desde $x = 2$.",
+"truco": "Promedio: dos puntos. Instantánea: acerca los puntos hasta que casi se junten.",
+"practica": {
+"ejercicio": "Si $f(x)=x^2$, calcula la variación promedio entre $x=2$ y $x=4$.",
+"respuesta": "$\\frac{16-4}{2}=6$."
+},
+"analogias": [
+{
+"titulo": "La foto y el video",
+"texto": "La variación promedio es como comparar dos fotos de una planta con un mes de diferencia. La instantánea es como pausar un video y ver cuánto crece justo en ese momento."
+},
+{
+"titulo": "El velocímetro",
+"texto": "El promedio es el total recorrido entre el tiempo total. El velocímetro del coche muestra la rapidez en ese preciso instante."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$f(x)=3x$. Variación promedio entre 1 y 5.",
+"respuesta": "$\\frac{15-3}{4}=3$."
+},
+{
+"ejercicio": "$f(x)=x^2$. Variación promedio entre 3 y 4.",
+"respuesta": "$\\frac{16-9}{1}=7$."
+},
+{
+"ejercicio": "Un auto recorre 150 km en 3 horas. ¿Cuál es su velocidad promedio?",
+"respuesta": "$\\frac{150}{3}=50$ km/h."
+}
+]
+}
+},
+{
+"nodo_id": "ems-028",
+"titulo": "Recta tangente a una curva y cambio instantáneo",
+"slug": "recta-tangente-cambio-instantaneo",
+"palabras": [
+"tangente",
+"pendiente",
+"derivada",
+"función",
+"cambio instantáneo",
+"punto"
+],
+"contenido": {
+"idea": "Cuando una bicicleta toma una curva y se le zafa el pie del pedal, la rueda sale en línea recta justo en la dirección que llevaba. Esa dirección es la tangente.",
+"pizarron": "**Qué es:** la recta tangente toca la curva en un punto, y su pendiente dice qué tan rápido cambia ahí.\n\n**Pasos:**\n\n1. Halla el punto.\n2. Halla la pendiente $m$.\n3. Usa $y - y_0 = m(x - x_0)$.\n\n**Ejemplo:** $f(x) = x^2$ en $x = 3$. Punto $(3, 9)$ y $m = 6$.\n\n$$y = 6x - 9$$\n\n**Para tu escuela:** halla la tangente en $x = 2$.",
+"truco": "Punto, pendiente, y menos y cero igual a m por x menos x cero.",
+"practica": {
+"ejercicio": "Halla la tangente a $f(x)=x^2$ en $x_0=1$.",
+"respuesta": "Punto $(1,1)$, $m=2$. $y-1=2(x-1)$, entonces $y=2x-1$."
+},
+"analogias": [
+{
+"titulo": "La regla sobre la curva",
+"texto": "Recarga una regla sobre una pelota: toca en un solo punto y marca la dirección de la superficie ahí. Esa regla es la tangente."
+},
+{
+"titulo": "El faro del coche",
+"texto": "Al tomar una curva, el haz del faro apunta hacia donde el coche se dirige en ese instante, igual que la tangente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Tangente a $f(x)=x^2$ en $x_0=2$.",
+"respuesta": "Punto $(2,4)$, $m=4$. $y-4=4(x-2)$, entonces $y=4x-4$."
+},
+{
+"ejercicio": "Una curva tiene pendiente 5 en el punto $(1,3)$. Escribe la tangente.",
+"respuesta": "$y-3=5(x-1)$, entonces $y=5x-2$."
+},
+{
+"ejercicio": "Si la distancia es $s=t^2$ metros, ¿qué velocidad tiene en $t=5$ segundos?",
+"respuesta": "$m=2\\cdot 5=10$ m/s."
+}
+]
+}
+},
+{
+"nodo_id": "ems-029",
+"titulo": "Límite y continuidad de funciones",
+"slug": "limite-continuidad-funciones",
+"palabras": [
+"límite",
+"continuidad",
+"tabla de valores",
+"acercarse",
+"discontinuidad",
+"función"
+],
+"contenido": {
+"idea": "Imagina caminar hacia una puerta dando pasos cada vez más cortos. Nunca tienes que llegar para saber hacia dónde vas. El límite dice a qué valor se acerca una función.",
+"pizarron": "**Qué es:** el límite es el valor al que se acerca una función. Es continua si la dibujas sin levantar el lápiz.\n\n**Ejemplo:** $\\lim_{x\\to 2} \\frac{x^2-4}{x-2}$.\n\nSale $\\frac{0}{0}$. Factoriza: $\\frac{(x-2)(x+2)}{x-2} = x + 2$.\n\nEl límite es 4.\n\n**Para tu escuela:** calcula $\\lim_{x\\to 3} (2x + 1)$.",
+"truco": "Continua: puedes dibujarla sin levantar el lápiz.",
+"practica": {
+"ejercicio": "Calcula $\\lim_{x\\to 3}(2x+1)$.",
+"respuesta": "$2(3)+1=7$."
+},
+"analogias": [
+{
+"titulo": "El puente",
+"texto": "Una función continua es como un puente sin huecos; una discontinua tiene un tramo roto o un salto que no puedes cruzar caminando."
+},
+{
+"titulo": "El termómetro",
+"texto": "La temperatura cambia sin saltos de 20 a 21 grados pasando por todos los valores intermedios; eso es un fenómeno continuo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$\\lim_{x\\to 1}\\frac{x^2-1}{x-1}$.",
+"respuesta": "$\\frac{(x-1)(x+1)}{x-1}=x+1$, entonces el límite es 2."
+},
+{
+"ejercicio": "$\\lim_{x\\to 4}(x^2-3x)$.",
+"respuesta": "$16-12=4$."
+},
+{
+"ejercicio": "¿Es continua $f(x)=\\frac{1}{x}$ en $x=0$?",
+"respuesta": "No, porque $f(0)$ no está definida."
+}
+]
+}
+},
+{
+"nodo_id": "ems-030",
+"titulo": "Derivada de funciones lineales y polinomiales",
+"slug": "derivada-polinomios-preparatoria",
+"palabras": [
+"derivada",
+"regla de la potencia",
+"razón de cambio",
+"polinomio",
+"derivar"
+],
+"contenido": {
+"idea": "La derivada responde: ¿qué tan rápido cambia algo ahora mismo? Es como el velocímetro, que te dice a qué rapidez vas en este instante.",
+"pizarron": "**La regla:** $(x^n)' = nx^{n-1}$. La derivada dice qué tan rápido cambia una función.\n\nEl exponente baja y se le resta 1.\n\n**Ejemplo:** $f(x) = 3x^2 - 5x + 7$.\n\n$(3x^2)' = 6x$.\n\n$(-5x)' = -5$.\n\n$(7)' = 0$.\n\n$$f'(x) = 6x - 5$$\n\n**Para tu escuela:** deriva $x^3 + 2x$.",
+"truco": "Baja el exponente, multiplícalo y réstale uno al exponente.",
+"practica": {
+"ejercicio": "Deriva $f(x)=4x^3$.",
+"respuesta": "$f'(x)=12x^2$."
+},
+"analogias": [
+{
+"titulo": "La inclinación de la cuesta",
+"texto": "En una montaña, la derivada es la inclinación del camino justo donde estás parado: positiva si subes, negativa si bajas, cero en la cima."
+},
+{
+"titulo": "La llave del agua",
+"texto": "El nivel de una cubeta es la función; la derivada es qué tan rápido sube el nivel en este momento según cuánto abres la llave."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Deriva $f(x)=5x-4$.",
+"respuesta": "$f'(x)=5$."
+},
+{
+"ejercicio": "Deriva $f(x)=x^3+2x$.",
+"respuesta": "$f'(x)=3x^2+2$."
+},
+{
+"ejercicio": "Si $s(t)=t^2+3t$ metros, ¿qué velocidad tiene en $t=4$ segundos?",
+"respuesta": "$s'(t)=2t+3$; $s'(4)=11$ m/s."
+}
+]
+}
+}
 ]

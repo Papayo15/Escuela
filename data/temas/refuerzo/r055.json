@@ -1,100 +1,606 @@
 [
-{"nodo_id":"f3-001","titulo":"El abecedario","slug":"el-abecedario-primaria","palabras":["abecedario","alfabeto","letras"],"contenido":{
-"idea":"Las letras son como juguetes en una caja, y cada una tiene su lugar. Si las pones en orden, siempre las encuentras.",
-"pizarron":"**Qué es:** el abecedario es el conjunto de letras de un idioma, en un orden fijo. El abecedario español tiene 27 letras.\n\n**Qué quiere decir:** con esas 27 letras escribimos todas las palabras.\n\nAsí van:\n\nA B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z\n\nLa **Ñ** es una letra muy nuestra. Va después de la N.\n\nCada letra tiene un nombre y un sonido.\n\nLa letra M se llama eme. Su sonido es mmm, como en mamá.",
-"truco":"Cántalo: el orden se queda en tu memoria.",
-"practica":{"ejercicio":"¿Qué letra va después de la N?","respuesta":"La Ñ."},
-"analogias":[{"titulo":"La fila","texto":"Las letras hacen fila en la escuela y cada una ya sabe qué lugar le toca."},{"titulo":"Los juguetes","texto":"Si guardas cada juguete en su lugar, luego lo encuentras rápido, y así pasa con las letras."}],
-"ejercicios":[{"ejercicio":"¿Cuántas letras tiene el abecedario?","respuesta":"27."},{"ejercicio":"¿Qué letra sigue después de la C?","respuesta":"La D."},{"ejercicio":"Escribe la primera letra de tu nombre.","respuesta":"Depende de tu nombre: debe ser la letra con que empieza."}]}},
-{"nodo_id":"f3-001","titulo":"Vocales y consonantes","slug":"vocales-y-consonantes-primaria","palabras":["vocales","consonantes","letras"],"contenido":{
-"idea":"Las vocales son las amigas que se pueden decir solas. Las consonantes necesitan a una vocal para sonar bien.",
-"pizarron":"**Qué es:** las vocales son las letras a, e, i, o, u. Las consonantes son todas las demás.\n\n**Qué quiere decir:** las vocales suenan con la boca abierta y sin estorbos. Di aaa: el aire sale libre.\n\nLas consonantes usan labios, dientes o lengua. Di mmm: tus labios se juntan.\n\nLas consonantes se juntan con vocales:\n\nm + a = ma.\n\nma + má = mamá.\n\nCasi toda palabra tiene al menos una vocal.",
-"truco":"A, e, i, o, u: las cinco vocales.",
-"practica":{"ejercicio":"¿Cuáles son las vocales de la palabra *casa*?","respuesta":"a, a."},
-"analogias":[{"titulo":"Las manos","texto":"Tienes cinco dedos en una mano y cinco vocales: cuéntalas con los dedos."},{"titulo":"Bici con rueditas","texto":"La consonante es la bici y la vocal son las rueditas que la ayudan a avanzar."}],
-"ejercicios":[{"ejercicio":"¿La letra p es vocal o consonante?","respuesta":"Consonante."},{"ejercicio":"Di las vocales de *pelota*.","respuesta":"e, o, a."},{"ejercicio":"Une: l + u + n + a.","respuesta":"luna"}]}},
-{"nodo_id":"f3-001","titulo":"Mayúsculas en nombres propios","slug":"mayusculas-en-nombres-propios-primaria","palabras":["mayúsculas","nombres propios"],"contenido":{
-"idea":"Tu nombre es especial y merece una letra grande al inicio. Eso se llama mayúscula y le da su lugar.",
-"pizarron":"**La regla:** los nombres propios se escriben con mayúscula inicial, y también la primera palabra de un texto y la que sigue a un punto.\n\n**Qué quiere decir:** un nombre propio es el nombre exacto de una persona, lugar o mascota.\n\nAna es nombre propio. Niña no lo es.\n\nMéxico es nombre propio. País no lo es.\n\nFido es nombre propio. Perro no lo es.\n\nCompara:\n\n- *mi perro se llama Fido.* Está mal: falta mayúscula al inicio.\n- *Mi perro se llama Fido.* Está bien.",
-"truco":"Si es el nombre exacto de algo, va con mayúscula.",
-"practica":{"ejercicio":"Corrige: *ana vive en oaxaca.*","respuesta":"*Ana vive en Oaxaca.*"},
-"analogias":[{"titulo":"La corona","texto":"La mayúscula es una corona que se pone el nombre para distinguirse."},{"titulo":"La puerta grande","texto":"Toda oración entra por una puerta grande: su mayúscula."}],
-"ejercicios":[{"ejercicio":"¿Cuál lleva mayúscula: *perro* o *fido*?","respuesta":"*Fido*."},{"ejercicio":"Corrige: *luis come pan.*","respuesta":"*Luis come pan.*"},{"ejercicio":"Escribe tu nombre completo con mayúsculas iniciales.","respuesta":"Cada nombre y apellido empieza con mayúscula."}]}},
-{"nodo_id":"f3-020","titulo":"Sílabas","slug":"silabas-primaria","palabras":["sílabas","separar palabras"],"contenido":{
-"idea":"Da una palmada por cada golpe de voz al decir ma-ri-po-sa. Dieron cuatro palmadas: esa palabra tiene cuatro sílabas.",
-"pizarron":"**Qué es:** una sílaba es cada golpe de voz con que se pronuncia una palabra.\n\n**Qué quiere decir:** las palabras se parten en pedacitos al hablar.\n\n*sol*: 1 palmada. Una sílaba.\n\n*me-sa*: 2 palmadas. Dos sílabas.\n\n*pe-lo-ta*: 3 palmadas. Tres sílabas.\n\n*ma-ri-po-sa*: 4 palmadas. Cuatro sílabas.\n\nCada sílaba tiene al menos una vocal.\n\nAl final del renglón, puedes partir una palabra entre sílabas.",
-"truco":"Una palmada por cada sílaba.",
-"practica":{"ejercicio":"Separa *gato* en sílabas.","respuesta":"ga-to"},
-"analogias":[{"titulo":"Palmadas","texto":"Tus manos cuentan las sílabas mientras tu boca dice la palabra."},{"titulo":"Vagones","texto":"La palabra es un tren, y cada sílaba es uno de sus vagones."}],
-"ejercicios":[{"ejercicio":"¿Cuántas sílabas tiene *zapato*?","respuesta":"Tres: za-pa-to."},{"ejercicio":"Separa *ventana*.","respuesta":"ven-ta-na"},{"ejercicio":"¿Cuántas sílabas tiene *pan*?","respuesta":"Una."}]}},
-{"nodo_id":"f3-020","titulo":"Palabras con m antes de p y b","slug":"palabras-con-m-antes-de-p-y-b-primaria","palabras":["mp","mb","ortografía"],"contenido":{
-"idea":"Di campo y fíjate: tus labios se juntan antes de la p. Por eso ahí va una m y no una n.",
-"pizarron":"**La regla:** antes de **p** y de **b** se escribe **m**, no n.\n\n**Qué quiere decir:** para decir p y b, tus labios se juntan. La m también junta los labios. Son compañeras.\n\nEjemplos:\n\n*campo*, *lámpara*, *tiempo*.\n\n*hombre*, *cambio*, *sombra*.\n\nCon otras letras sí se usa n:\n\n*canto*, *mano*, *mundo*.\n\nAntes de v se escribe n: *invierno*.",
-"truco":"Antes de p y b, siempre m.",
-"practica":{"ejercicio":"Completa: ca_po.","respuesta":"campo"},
-"analogias":[{"titulo":"Compañeras","texto":"M, p y b juntan los labios: por eso les gusta ir juntas."},{"titulo":"Tomarse de la mano","texto":"La m toma de la mano a la p y a la b, y las tres caminan juntas."}],
-"ejercicios":[{"ejercicio":"Completa: ho_bre.","respuesta":"hombre"},{"ejercicio":"Completa: ti_mbre.","respuesta":"timbre"},{"ejercicio":"Completa: i_vierno.","respuesta":"invierno"}]}},
-{"nodo_id":"f3-020","titulo":"Palabras con ca, que, qui, co, cu","slug":"palabras-con-ca-que-qui-co-cu-primaria","palabras":["que","qui","c","sonido k"],"contenido":{
-"idea":"El sonido de casa y queso es el mismo, pero se escribe distinto. La vocal que sigue decide qué letra usar.",
-"pizarron":"**La regla:** el sonido fuerte se escribe **c** con a, o, u, y se escribe **qu** con e, i.\n\n**Qué quiere decir:** mira la tabla.\n\n| Sonido | Se escribe | Ejemplo |\n|---|---|---|\n| ka | ca | casa |\n| ke | que | queso |\n| ki | qui | quince |\n| ko | co | cola |\n| ku | cu | cuna |\n\nEn *que* y *qui*, la u no suena.\n\nDi *queso*: solo oyes késo.",
-"truco":"Con e, i usa qu; la u se queda callada.",
-"practica":{"ejercicio":"Completa la palabra de ese alimento: ___so.","respuesta":"queso"},
-"analogias":[{"titulo":"El guardia callado","texto":"La u acompaña a la q, pero se queda callada todo el tiempo."},{"titulo":"Dos puertas","texto":"Para e, i se entra por la puerta qu; para a, o, u, por la c."}],
-"ejercicios":[{"ejercicio":"¿Con qué letras se escribe *mantequilla*: c o qu?","respuesta":"Con qu."},{"ejercicio":"Escribe el nombre del animal: ___ballo.","respuesta":"caballo"},{"ejercicio":"Escribe: número 15.","respuesta":"quince"}]}},
-{"nodo_id":"f3-020","titulo":"Palabras con ga, gue, gui, go, gu","slug":"palabras-con-ga-gue-gui-go-gu-primaria","palabras":["gue","gui","güe","ortografía"],"contenido":{
-"idea":"La g suave de gato necesita ayuda con e, i. Por eso se pone una u pequeñita que no suena, como en guitarra.",
-"pizarron":"**La regla:** el sonido suave se escribe **g** con a, o, u, y **gu** con e, i. Si la u debe sonar, lleva diéresis: **gü**.\n\n**Qué quiere decir:**\n\n| Sonido | Se escribe | Ejemplo |\n|---|---|---|\n| ga | ga | gato |\n| gue | gue | guerra |\n| gui | gui | guitarra |\n| go | go | gorro |\n| gu | gu | gusano |\n\nLa diéresis son dos puntitos sobre la u:\n\n*pingüino*, *cigüeña*.\n\nCon ellos, la u sí suena.",
-"truco":"Dos puntitos hacen sonar la u.",
-"practica":{"ejercicio":"Completa: ___tarra.","respuesta":"guitarra"},
-"analogias":[{"titulo":"Los puntitos","texto":"La diéresis es como dos ojitos que despiertan a la u dormida."},{"titulo":"El ayudante","texto":"La u ayuda a la g a sonar suave, pero no dice nada."}],
-"ejercicios":[{"ejercicio":"Completa: ping___no.","respuesta":"pingüino"},{"ejercicio":"Completa: ___sano.","respuesta":"gusano"},{"ejercicio":"¿Suena la u de *guerra*?","respuesta":"No."}]}},
-{"nodo_id":"f3-020","titulo":"El punto y la coma","slug":"el-punto-y-la-coma-primaria","palabras":["punto","coma","puntuación"],"contenido":{
-"idea":"Cuando lees en voz alta necesitas respirar. El punto es un alto y la coma es un respiro pequeñito.",
-"pizarron":"**La regla:** el punto marca el final de una oración. La coma marca una pausa breve y separa cosas en una lista.\n\n**Qué quiere decir:**\n\nPunto: **alto**. Después va mayúscula.\n\n*Me gusta el pan. Hoy comí mucho.*\n\nComa: **respiro**.\n\n*Compré pan, leche, huevos y queso.*\n\nFíjate: antes de la última cosa va *y*, sin coma.\n\nLee en voz alta para saber dónde hacer la pausa.",
-"truco":"Punto para, coma respira.",
-"practica":{"ejercicio":"Pon comas: *Tengo lápiz goma y regla.*","respuesta":"*Tengo lápiz, goma y regla.*"},
-"analogias":[{"titulo":"El semáforo","texto":"La coma es luz amarilla: frena poco. El punto es luz roja: alto."},{"titulo":"Respirar","texto":"Si no hay pausas, te quedas sin aire al leer."}],
-"ejercicios":[{"ejercicio":"Pon punto y mayúscula: *hace sol vamos al parque*","respuesta":"*Hace sol. Vamos al parque.*"},{"ejercicio":"Pon comas: *Veo un gato un perro y un pato.*","respuesta":"*Veo un gato, un perro y un pato.*"},{"ejercicio":"¿Qué va después de un punto?","respuesta":"Mayúscula."}]}},
-{"nodo_id":"f3-016","titulo":"Sustantivos","slug":"sustantivos-primaria","palabras":["sustantivos","nombres","común","propio"],"contenido":{
-"idea":"Todo lo que ves tiene nombre: mesa, perro, tu amiga Lucía. Esas palabras que nombran se llaman sustantivos.",
-"pizarron":"**Qué es:** un sustantivo es una palabra que nombra personas, animales, cosas, lugares o ideas.\n\n**Qué quiere decir:** si puedes poner *el* o *la* antes, casi siempre es sustantivo.\n\nPersona: *niña*.\n\nAnimal: *gato*.\n\nCosa: *silla*.\n\nLugar: *escuela*.\n\nIdea: *amor*.\n\n**Comunes**: nombran en general. *río*.\n\n**Propios**: nombran uno exacto. *Bravo*. Van con mayúscula.",
-"truco":"Si puedes decir el o la, es sustantivo.",
-"practica":{"ejercicio":"¿Cuál es el sustantivo en *La flor huele rico*?","respuesta":"*flor*"},
-"analogias":[{"titulo":"Etiquetas","texto":"Cada cosa del mundo lleva una etiqueta con su nombre."},{"titulo":"Pasar lista","texto":"Cuando pasan lista, dicen sustantivos propios: los nombres de cada alumno."}],
-"ejercicios":[{"ejercicio":"¿*Correr* es sustantivo?","respuesta":"No, es verbo."},{"ejercicio":"Escribe tres sustantivos de tu casa.","respuesta":"Ejemplos: mesa, cama, puerta."},{"ejercicio":"¿Es propio o común *México*?","respuesta":"Propio."}]}},
-{"nodo_id":"f3-016","titulo":"Adjetivos","slug":"adjetivos-primaria","palabras":["adjetivos","cualidades","describir"],"contenido":{
-"idea":"Un perro puede ser grande, peludo o juguetón. Las palabras que dicen cómo es algo se llaman adjetivos.",
-"pizarron":"**Qué es:** un adjetivo es una palabra que dice cómo es un sustantivo.\n\n**Qué quiere decir:** acompaña a un nombre para describirlo.\n\n*casa grande*\n\n*niña alegre*\n\n*perro negro*\n\nPuede decir tamaño, color, forma o manera de ser.\n\nEl adjetivo debe combinar con el sustantivo:\n\n*gato negro*, *gata negra*.\n\n*gatos negros*, *gatas negras*.\n\nPara encontrarlo, pregunta: ¿cómo es?",
-"truco":"Pregunta cómo es y encuentras el adjetivo.",
-"practica":{"ejercicio":"Di el adjetivo en *La sopa caliente*.","respuesta":"*caliente*"},
-"analogias":[{"titulo":"Colores","texto":"Un adjetivo pinta de color a una palabra para que la imagines mejor."},{"titulo":"Vestir al muñeco","texto":"El sustantivo es el muñeco y el adjetivo es su ropa."}],
-"ejercicios":[{"ejercicio":"Di un adjetivo para *sol*.","respuesta":"Ejemplo: brillante."},{"ejercicio":"Corrige: *niñas alegre*.","respuesta":"*niñas alegres*"},{"ejercicio":"Di el adjetivo en *El río largo*.","respuesta":"*largo*"}]}},
-{"nodo_id":"f3-016","titulo":"Verbos","slug":"verbos-primaria","palabras":["verbos","acciones"],"contenido":{
-"idea":"Corres, saltas, comes y duermes. Todas esas acciones se dicen con palabras llamadas verbos.",
-"pizarron":"**Qué es:** un verbo es una palabra que dice qué hace, qué le pasa o cómo está alguien.\n\n**Qué quiere decir:** es la acción de la oración.\n\n*El niño **corre**.*\n\n*La flor **crece**.*\n\n*Yo **estoy** feliz.*\n\nEl verbo cambia según quién hace la acción y cuándo:\n\n*yo canto*, *tú cantas*, *ella canta*.\n\n*Ayer canté*. *Mañana cantaré*.\n\nEl verbo sin cambios termina en **-ar**, **-er** o **-ir**:\n\n*cantar*, *comer*, *vivir*.",
-"truco":"Pregunta qué hace y hallas el verbo.",
-"practica":{"ejercicio":"Di el verbo en *La niña salta.*","respuesta":"*salta*"},
-"analogias":[{"titulo":"Motor","texto":"Sin verbo, la oración no arranca, como un coche sin motor."},{"titulo":"Mímica","texto":"Si puedes actuarlo con el cuerpo, suele ser un verbo."}],
-"ejercicios":[{"ejercicio":"Di el verbo en *El perro come.*","respuesta":"*come*"},{"ejercicio":"Escribe el verbo sin cambios de *bailo*.","respuesta":"*bailar*"},{"ejercicio":"Completa: *Yo ___ pan.* (comer)","respuesta":"*como*"}]}},
-{"nodo_id":"f3-016","titulo":"Género y número","slug":"genero-y-numero-primaria","palabras":["género","número","masculino","femenino","plural"],"contenido":{
-"idea":"Decimos el gato y las gatas. Las palabras cambian para decir si es uno o muchos, y si es él o ella.",
-"pizarron":"**Qué es:** el género indica si una palabra es masculina o femenina. El número indica si es singular, uno, o plural, varios.\n\n**Género:**\n\n*el niño* es masculino.\n\n*la niña* es femenino.\n\n**Número:**\n\n*la casa* es singular.\n\n*las casas* es plural.\n\nPara formar plural:\n\n- Si termina en vocal, agrega **s**: *mesa, mesas*.\n- Si termina en consonante, agrega **es**: *flor, flores*.\n\nTodas las palabras deben combinar:\n\n*las flores rojas*.",
-"truco":"Vocal más s; consonante más es.",
-"practica":{"ejercicio":"Haz plural: *pan*.","respuesta":"*panes*"},
-"analogias":[{"titulo":"Equipo con uniforme","texto":"Las palabras de una frase se ponen el mismo uniforme para combinar."},{"titulo":"Uno o muchos","texto":"La s del final es como una señal de que hay más de uno."}],
-"ejercicios":[{"ejercicio":"Haz plural: *árbol*.","respuesta":"*árboles*"},{"ejercicio":"Cambia a femenino: *el gato*.","respuesta":"*la gata*"},{"ejercicio":"Corrige: *las mesa rojas*.","respuesta":"*las mesas rojas*"}]}},
-{"nodo_id":"f3-005","titulo":"Comprender lo que leo: de qué trata","slug":"comprender-lo-que-leo-de-que-trata-primaria","palabras":["comprensión lectora","tema","leer"],"contenido":{
-"idea":"Al terminar una película, le cuentas a tu amigo de qué se trató. Con un texto se hace lo mismo.",
-"pizarron":"**Qué es:** comprender un texto es entender lo que dice y poder contarlo con tus palabras.\n\n**Pasos:**\n\n1. Mira el título y los dibujos.\n2. Lee despacio.\n3. Pregunta: ¿quién?, ¿qué pasó?, ¿dónde?\n4. Dilo en una oración.\n\n**Ejemplo:**\n\n*Tita perdió su globo rojo. Lo buscó en el parque. Lo encontró en un árbol.*\n\n¿De qué trata? De una niña que perdió su globo y lo encontró.\n\nSi no entiendes algo, vuelve a leerlo.",
-"truco":"¿Quién, qué pasó y dónde?",
-"practica":{"ejercicio":"En el texto, ¿dónde encontró Tita su globo?","respuesta":"En un árbol."},
-"analogias":[{"titulo":"Contar la película","texto":"Si puedes contar la historia a un amigo, ya la entendiste."},{"titulo":"Detective","texto":"Las tres preguntas son tus lentes de aumento para encontrar lo importante."}],
-"ejercicios":[{"ejercicio":"¿De qué color era el globo?","respuesta":"Rojo."},{"ejercicio":"¿Dónde lo buscó?","respuesta":"En el parque."},{"ejercicio":"Lee un cuento corto y di de qué trata en una oración.","respuesta":"Tu oración debe decir quién y qué pasó."}]}},
-{"nodo_id":"f3-005","titulo":"Personajes de un cuento","slug":"personajes-de-un-cuento-primaria","palabras":["personajes","protagonista","cuento"],"contenido":{
-"idea":"Todo cuento tiene alguien a quien le pasan cosas. Puede ser una niña, un dragón o hasta un lápiz que habla.",
-"pizarron":"**Qué es:** los personajes son quienes participan en una historia.\n\n**Tipos:**\n\n**Protagonista**: el personaje principal.\n\n**Antagonista**: quien le causa problemas.\n\n**Secundarios**: quienes ayudan o acompañan.\n\nEn *Caperucita Roja*:\n\n- Protagonista: Caperucita.\n- Antagonista: el lobo.\n- Secundarios: la abuela y el cazador.\n\nPara conocer a un personaje, pregunta: ¿cómo es?, ¿qué quiere?, ¿qué hace?",
-"truco":"Protagonista quiere; antagonista estorba.",
-"practica":{"ejercicio":"¿Quién es el antagonista en *Los tres cochinitos*?","respuesta":"El lobo."},
-"analogias":[{"titulo":"El equipo","texto":"El protagonista es el capitán y los demás juegan alrededor."},{"titulo":"El rival","texto":"Sin rival, un partido no tendría emoción: sin antagonista, tampoco un cuento."}],
-"ejercicios":[{"ejercicio":"¿Quién es la protagonista de *Blanca Nieves*?","respuesta":"Blanca Nieves."},{"ejercicio":"¿Qué hacen los personajes secundarios?","respuesta":"Ayudan o acompañan."},{"ejercicio":"Describe a tu personaje favorito: cómo es y qué quiere.","respuesta":"Tu respuesta debe decir ambas cosas."}]}}
+{
+"nodo_id": "f3-001",
+"titulo": "El abecedario",
+"slug": "el-abecedario-primaria",
+"palabras": [
+"abecedario",
+"alfabeto",
+"letras"
+],
+"contenido": {
+"idea": "Las letras son como juguetes en una caja, y cada una tiene su lugar. Si las pones en orden, siempre las encuentras.",
+"pizarron": "**Qué es:** el abecedario es el conjunto de letras de un idioma, en un orden fijo. El abecedario español tiene 27 letras.\n\n**Qué quiere decir:** con esas 27 letras escribimos todas las palabras.\n\nAsí van:\n\nA B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z\n\nLa **Ñ** es una letra muy nuestra. Va después de la N.\n\nCada letra tiene un nombre y un sonido.\n\nLa letra M se llama eme. Su sonido es mmm, como en mamá.",
+"truco": "Cántalo: el orden se queda en tu memoria.",
+"practica": {
+"ejercicio": "¿Qué letra va después de la N?",
+"respuesta": "La Ñ."
+},
+"analogias": [
+{
+"titulo": "La fila",
+"texto": "Las letras hacen fila en la escuela y cada una ya sabe qué lugar le toca."
+},
+{
+"titulo": "Los juguetes",
+"texto": "Si guardas cada juguete en su lugar, luego lo encuentras rápido, y así pasa con las letras."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántas letras tiene el abecedario?",
+"respuesta": "27."
+},
+{
+"ejercicio": "¿Qué letra sigue después de la C?",
+"respuesta": "La D."
+},
+{
+"ejercicio": "Escribe la primera letra de tu nombre.",
+"respuesta": "Depende de tu nombre: debe ser la letra con que empieza."
+}
+]
+}
+},
+{
+"nodo_id": "f3-001",
+"titulo": "Vocales y consonantes",
+"slug": "vocales-y-consonantes-primaria",
+"palabras": [
+"vocales",
+"consonantes",
+"letras"
+],
+"contenido": {
+"idea": "Las vocales son las amigas que se pueden decir solas. Las consonantes necesitan a una vocal para sonar bien.",
+"pizarron": "**Qué es:** las vocales son las letras a, e, i, o, u. Las consonantes son todas las demás.\n\n**Qué quiere decir:** las vocales suenan con la boca abierta y sin estorbos. Di aaa: el aire sale libre.\n\nLas consonantes usan labios, dientes o lengua. Di mmm: tus labios se juntan.\n\nLas consonantes se juntan con vocales:\n\nm + a = ma.\n\nma + má = mamá.\n\nCasi toda palabra tiene al menos una vocal.",
+"truco": "A, e, i, o, u: las cinco vocales.",
+"practica": {
+"ejercicio": "¿Cuáles son las vocales de la palabra *casa*?",
+"respuesta": "a, a."
+},
+"analogias": [
+{
+"titulo": "Las manos",
+"texto": "Tienes cinco dedos en una mano y cinco vocales: cuéntalas con los dedos."
+},
+{
+"titulo": "Bici con rueditas",
+"texto": "La consonante es la bici y la vocal son las rueditas que la ayudan a avanzar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿La letra p es vocal o consonante?",
+"respuesta": "Consonante."
+},
+{
+"ejercicio": "Di las vocales de *pelota*.",
+"respuesta": "e, o, a."
+},
+{
+"ejercicio": "Une: l + u + n + a.",
+"respuesta": "luna"
+}
+]
+}
+},
+{
+"nodo_id": "f3-001",
+"titulo": "Mayúsculas en nombres propios",
+"slug": "mayusculas-en-nombres-propios-primaria",
+"palabras": [
+"mayúsculas",
+"nombres propios"
+],
+"contenido": {
+"idea": "Tu nombre es especial y merece una letra grande al inicio. Eso se llama mayúscula y le da su lugar.",
+"pizarron": "**La regla:** los nombres propios se escriben con mayúscula inicial, y también la primera palabra de un texto y la que sigue a un punto.\n\n**Qué quiere decir:** un nombre propio es el nombre exacto de una persona, lugar o mascota.\n\nAna es nombre propio. Niña no lo es.\n\nMéxico es nombre propio. País no lo es.\n\nFido es nombre propio. Perro no lo es.\n\nCompara:\n\n- *mi perro se llama Fido.* Está mal: falta mayúscula al inicio.\n- *Mi perro se llama Fido.* Está bien.",
+"truco": "Si es el nombre exacto de algo, va con mayúscula.",
+"practica": {
+"ejercicio": "Corrige: *ana vive en oaxaca.*",
+"respuesta": "*Ana vive en Oaxaca.*"
+},
+"analogias": [
+{
+"titulo": "La corona",
+"texto": "La mayúscula es una corona que se pone el nombre para distinguirse."
+},
+{
+"titulo": "La puerta grande",
+"texto": "Toda oración entra por una puerta grande: su mayúscula."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál lleva mayúscula: *perro* o *fido*?",
+"respuesta": "*Fido*."
+},
+{
+"ejercicio": "Corrige: *luis come pan.*",
+"respuesta": "*Luis come pan.*"
+},
+{
+"ejercicio": "Escribe tu nombre completo con mayúsculas iniciales.",
+"respuesta": "Cada nombre y apellido empieza con mayúscula."
+}
+]
+}
+},
+{
+"nodo_id": "f3-020",
+"titulo": "Sílabas",
+"slug": "silabas-primaria",
+"palabras": [
+"sílabas",
+"separar palabras"
+],
+"contenido": {
+"idea": "Da una palmada por cada golpe de voz al decir ma-ri-po-sa. Dieron cuatro palmadas: esa palabra tiene cuatro sílabas.",
+"pizarron": "**Qué es:** una sílaba es cada golpe de voz con que se pronuncia una palabra.\n\n**Qué quiere decir:** las palabras se parten en pedacitos al hablar.\n\n*sol*: 1 palmada. Una sílaba.\n\n*me-sa*: 2 palmadas. Dos sílabas.\n\n*pe-lo-ta*: 3 palmadas. Tres sílabas.\n\n*ma-ri-po-sa*: 4 palmadas. Cuatro sílabas.\n\nCada sílaba tiene al menos una vocal.\n\nAl final del renglón, puedes partir una palabra entre sílabas.",
+"truco": "Una palmada por cada sílaba.",
+"practica": {
+"ejercicio": "Separa *gato* en sílabas.",
+"respuesta": "ga-to"
+},
+"analogias": [
+{
+"titulo": "Palmadas",
+"texto": "Tus manos cuentan las sílabas mientras tu boca dice la palabra."
+},
+{
+"titulo": "Vagones",
+"texto": "La palabra es un tren, y cada sílaba es uno de sus vagones."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántas sílabas tiene *zapato*?",
+"respuesta": "Tres: za-pa-to."
+},
+{
+"ejercicio": "Separa *ventana*.",
+"respuesta": "ven-ta-na"
+},
+{
+"ejercicio": "¿Cuántas sílabas tiene *pan*?",
+"respuesta": "Una."
+}
+]
+}
+},
+{
+"nodo_id": "f3-020",
+"titulo": "Palabras con m antes de p y b",
+"slug": "palabras-con-m-antes-de-p-y-b-primaria",
+"palabras": [
+"mp",
+"mb",
+"ortografía"
+],
+"contenido": {
+"idea": "Di campo y fíjate: tus labios se juntan antes de la p. Por eso ahí va una m y no una n.",
+"pizarron": "**La regla:** antes de **p** y de **b** se escribe **m**, no n.\n\n**Qué quiere decir:** para decir p y b, tus labios se juntan. La m también junta los labios. Son compañeras.\n\nEjemplos:\n\n*campo*, *lámpara*, *tiempo*.\n\n*hombre*, *cambio*, *sombra*.\n\nCon otras letras sí se usa n:\n\n*canto*, *mano*, *mundo*.\n\nAntes de v se escribe n: *invierno*.",
+"truco": "Antes de p y b, siempre m.",
+"practica": {
+"ejercicio": "Completa: ca_po.",
+"respuesta": "campo"
+},
+"analogias": [
+{
+"titulo": "Compañeras",
+"texto": "M, p y b juntan los labios: por eso les gusta ir juntas."
+},
+{
+"titulo": "Tomarse de la mano",
+"texto": "La m toma de la mano a la p y a la b, y las tres caminan juntas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: ho_bre.",
+"respuesta": "hombre"
+},
+{
+"ejercicio": "Completa: ti_mbre.",
+"respuesta": "timbre"
+},
+{
+"ejercicio": "Completa: i_vierno.",
+"respuesta": "invierno"
+}
+]
+}
+},
+{
+"nodo_id": "f3-020",
+"titulo": "Palabras con ca, que, qui, co, cu",
+"slug": "palabras-con-ca-que-qui-co-cu-primaria",
+"palabras": [
+"que",
+"qui",
+"c",
+"sonido k"
+],
+"contenido": {
+"idea": "El sonido de casa y queso es el mismo, pero se escribe distinto. La vocal que sigue decide qué letra usar.",
+"pizarron": "**La regla:** el sonido fuerte se escribe **c** con a, o, u, y se escribe **qu** con e, i.\n\n**Qué quiere decir:** mira la tabla.\n\n| Sonido | Se escribe | Ejemplo |\n|---|---|---|\n| ka | ca | casa |\n| ke | que | queso |\n| ki | qui | quince |\n| ko | co | cola |\n| ku | cu | cuna |\n\nEn *que* y *qui*, la u no suena.\n\nDi *queso*: solo oyes késo.",
+"truco": "Con e, i usa qu; la u se queda callada.",
+"practica": {
+"ejercicio": "Completa la palabra de ese alimento: ___so.",
+"respuesta": "queso"
+},
+"analogias": [
+{
+"titulo": "El guardia callado",
+"texto": "La u acompaña a la q, pero se queda callada todo el tiempo."
+},
+{
+"titulo": "Dos puertas",
+"texto": "Para e, i se entra por la puerta qu; para a, o, u, por la c."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Con qué letras se escribe *mantequilla*: c o qu?",
+"respuesta": "Con qu."
+},
+{
+"ejercicio": "Escribe el nombre del animal: ___ballo.",
+"respuesta": "caballo"
+},
+{
+"ejercicio": "Escribe: número 15.",
+"respuesta": "quince"
+}
+]
+}
+},
+{
+"nodo_id": "f3-020",
+"titulo": "Palabras con ga, gue, gui, go, gu",
+"slug": "palabras-con-ga-gue-gui-go-gu-primaria",
+"palabras": [
+"gue",
+"gui",
+"güe",
+"ortografía"
+],
+"contenido": {
+"idea": "La g suave de gato necesita ayuda con e, i. Por eso se pone una u pequeñita que no suena, como en guitarra.",
+"pizarron": "**La regla:** el sonido suave se escribe **g** con a, o, u, y **gu** con e, i. Si la u debe sonar, lleva diéresis: **gü**.\n\n**Qué quiere decir:**\n\n| Sonido | Se escribe | Ejemplo |\n|---|---|---|\n| ga | ga | gato |\n| gue | gue | guerra |\n| gui | gui | guitarra |\n| go | go | gorro |\n| gu | gu | gusano |\n\nLa diéresis son dos puntitos sobre la u:\n\n*pingüino*, *cigüeña*.\n\nCon ellos, la u sí suena.",
+"truco": "Dos puntitos hacen sonar la u.",
+"practica": {
+"ejercicio": "Completa: ___tarra.",
+"respuesta": "guitarra"
+},
+"analogias": [
+{
+"titulo": "Los puntitos",
+"texto": "La diéresis es como dos ojitos que despiertan a la u dormida."
+},
+{
+"titulo": "El ayudante",
+"texto": "La u ayuda a la g a sonar suave, pero no dice nada."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: ping___no.",
+"respuesta": "pingüino"
+},
+{
+"ejercicio": "Completa: ___sano.",
+"respuesta": "gusano"
+},
+{
+"ejercicio": "¿Suena la u de *guerra*?",
+"respuesta": "No."
+}
+]
+}
+},
+{
+"nodo_id": "f3-020",
+"titulo": "El punto y la coma",
+"slug": "el-punto-y-la-coma-primaria",
+"palabras": [
+"punto",
+"coma",
+"puntuación"
+],
+"contenido": {
+"idea": "Cuando lees en voz alta necesitas respirar. El punto es un alto y la coma es un respiro pequeñito.",
+"pizarron": "**La regla:** el punto marca el final de una oración. La coma marca una pausa breve y separa cosas en una lista.\n\n**Qué quiere decir:**\n\nPunto: **alto**. Después va mayúscula.\n\n*Me gusta el pan. Hoy comí mucho.*\n\nComa: **respiro**.\n\n*Compré pan, leche, huevos y queso.*\n\nFíjate: antes de la última cosa va *y*, sin coma.\n\nLee en voz alta para saber dónde hacer la pausa.",
+"truco": "Punto para, coma respira.",
+"practica": {
+"ejercicio": "Pon comas: *Tengo lápiz goma y regla.*",
+"respuesta": "*Tengo lápiz, goma y regla.*"
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "La coma es luz amarilla: frena poco. El punto es luz roja: alto."
+},
+{
+"titulo": "Respirar",
+"texto": "Si no hay pausas, te quedas sin aire al leer."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pon punto y mayúscula: *hace sol vamos al parque*",
+"respuesta": "*Hace sol. Vamos al parque.*"
+},
+{
+"ejercicio": "Pon comas: *Veo un gato un perro y un pato.*",
+"respuesta": "*Veo un gato, un perro y un pato.*"
+},
+{
+"ejercicio": "¿Qué va después de un punto?",
+"respuesta": "Mayúscula."
+}
+]
+}
+},
+{
+"nodo_id": "f3-016",
+"titulo": "Sustantivos",
+"slug": "sustantivos-primaria",
+"palabras": [
+"sustantivos",
+"nombres",
+"común",
+"propio"
+],
+"contenido": {
+"idea": "Todo lo que ves tiene nombre: mesa, perro, tu amiga Lucía. Esas palabras que nombran se llaman sustantivos.",
+"pizarron": "**Qué es:** un sustantivo es una palabra que nombra personas, animales, cosas, lugares o ideas.\n\n**Qué quiere decir:** si puedes poner *el* o *la* antes, casi siempre es sustantivo.\n\nPersona: *niña*.\n\nAnimal: *gato*.\n\nCosa: *silla*.\n\nLugar: *escuela*.\n\nIdea: *amor*.\n\n**Comunes**: nombran en general. *río*.\n\n**Propios**: nombran uno exacto. *Bravo*. Van con mayúscula.",
+"truco": "Si puedes decir el o la, es sustantivo.",
+"practica": {
+"ejercicio": "¿Cuál es el sustantivo en *La flor huele rico*?",
+"respuesta": "*flor*"
+},
+"analogias": [
+{
+"titulo": "Etiquetas",
+"texto": "Cada cosa del mundo lleva una etiqueta con su nombre."
+},
+{
+"titulo": "Pasar lista",
+"texto": "Cuando pasan lista, dicen sustantivos propios: los nombres de cada alumno."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿*Correr* es sustantivo?",
+"respuesta": "No, es verbo."
+},
+{
+"ejercicio": "Escribe tres sustantivos de tu casa.",
+"respuesta": "Ejemplos: mesa, cama, puerta."
+},
+{
+"ejercicio": "¿Es propio o común *México*?",
+"respuesta": "Propio."
+}
+]
+}
+},
+{
+"nodo_id": "f3-016",
+"titulo": "Adjetivos",
+"slug": "adjetivos-primaria",
+"palabras": [
+"adjetivos",
+"cualidades",
+"describir"
+],
+"contenido": {
+"idea": "Un perro puede ser grande, peludo o juguetón. Las palabras que dicen cómo es algo se llaman adjetivos.",
+"pizarron": "**Qué es:** un adjetivo es una palabra que dice cómo es un sustantivo.\n\n**Qué quiere decir:** acompaña a un nombre para describirlo.\n\n*casa grande*\n\n*niña alegre*\n\n*perro negro*\n\nPuede decir tamaño, color, forma o manera de ser.\n\nEl adjetivo debe combinar con el sustantivo:\n\n*gato negro*, *gata negra*.\n\n*gatos negros*, *gatas negras*.\n\nPara encontrarlo, pregunta: ¿cómo es?",
+"truco": "Pregunta cómo es y encuentras el adjetivo.",
+"practica": {
+"ejercicio": "Di el adjetivo en *La sopa caliente*.",
+"respuesta": "*caliente*"
+},
+"analogias": [
+{
+"titulo": "Colores",
+"texto": "Un adjetivo pinta de color a una palabra para que la imagines mejor."
+},
+{
+"titulo": "Vestir al muñeco",
+"texto": "El sustantivo es el muñeco y el adjetivo es su ropa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di un adjetivo para *sol*.",
+"respuesta": "Ejemplo: brillante."
+},
+{
+"ejercicio": "Corrige: *niñas alegre*.",
+"respuesta": "*niñas alegres*"
+},
+{
+"ejercicio": "Di el adjetivo en *El río largo*.",
+"respuesta": "*largo*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-016",
+"titulo": "Verbos",
+"slug": "verbos-primaria",
+"palabras": [
+"verbos",
+"acciones"
+],
+"contenido": {
+"idea": "Corres, saltas, comes y duermes. Todas esas acciones se dicen con palabras llamadas verbos.",
+"pizarron": "**Qué es:** un verbo es una palabra que dice qué hace, qué le pasa o cómo está alguien.\n\n**Qué quiere decir:** es la acción de la oración.\n\n*El niño **corre**.*\n\n*La flor **crece**.*\n\n*Yo **estoy** feliz.*\n\nEl verbo cambia según quién hace la acción y cuándo:\n\n*yo canto*, *tú cantas*, *ella canta*.\n\n*Ayer canté*. *Mañana cantaré*.\n\nEl verbo sin cambios termina en **-ar**, **-er** o **-ir**:\n\n*cantar*, *comer*, *vivir*.",
+"truco": "Pregunta qué hace y hallas el verbo.",
+"practica": {
+"ejercicio": "Di el verbo en *La niña salta.*",
+"respuesta": "*salta*"
+},
+"analogias": [
+{
+"titulo": "Motor",
+"texto": "Sin verbo, la oración no arranca, como un coche sin motor."
+},
+{
+"titulo": "Mímica",
+"texto": "Si puedes actuarlo con el cuerpo, suele ser un verbo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di el verbo en *El perro come.*",
+"respuesta": "*come*"
+},
+{
+"ejercicio": "Escribe el verbo sin cambios de *bailo*.",
+"respuesta": "*bailar*"
+},
+{
+"ejercicio": "Completa: *Yo ___ pan.* (comer)",
+"respuesta": "*como*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-016",
+"titulo": "Género y número",
+"slug": "genero-y-numero-primaria",
+"palabras": [
+"género",
+"número",
+"masculino",
+"femenino",
+"plural"
+],
+"contenido": {
+"idea": "Decimos el gato y las gatas. Las palabras cambian para decir si es uno o muchos, y si es él o ella.",
+"pizarron": "**Qué es:** el género indica si una palabra es masculina o femenina. El número indica si es singular, uno, o plural, varios.\n\n**Género:**\n\n*el niño* es masculino.\n\n*la niña* es femenino.\n\n**Número:**\n\n*la casa* es singular.\n\n*las casas* es plural.\n\nPara formar plural:\n\n- Si termina en vocal, agrega **s**: *mesa, mesas*.\n- Si termina en consonante, agrega **es**: *flor, flores*.\n\nTodas las palabras deben combinar:\n\n*las flores rojas*.",
+"truco": "Vocal más s; consonante más es.",
+"practica": {
+"ejercicio": "Haz plural: *pan*.",
+"respuesta": "*panes*"
+},
+"analogias": [
+{
+"titulo": "Equipo con uniforme",
+"texto": "Las palabras de una frase se ponen el mismo uniforme para combinar."
+},
+{
+"titulo": "Uno o muchos",
+"texto": "La s del final es como una señal de que hay más de uno."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Haz plural: *árbol*.",
+"respuesta": "*árboles*"
+},
+{
+"ejercicio": "Cambia a femenino: *el gato*.",
+"respuesta": "*la gata*"
+},
+{
+"ejercicio": "Corrige: *las mesa rojas*.",
+"respuesta": "*las mesas rojas*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-005",
+"titulo": "Comprender lo que leo: de qué trata",
+"slug": "comprender-lo-que-leo-de-que-trata-primaria",
+"palabras": [
+"comprensión lectora",
+"tema",
+"leer"
+],
+"contenido": {
+"idea": "Al terminar una película, le cuentas a tu amigo de qué se trató. Con un texto se hace lo mismo.",
+"pizarron": "**Qué es:** comprender un texto es entender lo que dice y poder contarlo con tus palabras.\n\n**Pasos:**\n\n1. Mira el título y los dibujos.\n2. Lee despacio.\n3. Pregunta: ¿quién?, ¿qué pasó?, ¿dónde?\n4. Dilo en una oración.\n\n**Ejemplo:**\n\n*Tita perdió su globo rojo. Lo buscó en el parque. Lo encontró en un árbol.*\n\n¿De qué trata? De una niña que perdió su globo y lo encontró.\n\nSi no entiendes algo, vuelve a leerlo.",
+"truco": "¿Quién, qué pasó y dónde?",
+"practica": {
+"ejercicio": "En el texto, ¿dónde encontró Tita su globo?",
+"respuesta": "En un árbol."
+},
+"analogias": [
+{
+"titulo": "Contar la película",
+"texto": "Si puedes contar la historia a un amigo, ya la entendiste."
+},
+{
+"titulo": "Detective",
+"texto": "Las tres preguntas son tus lentes de aumento para encontrar lo importante."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿De qué color era el globo?",
+"respuesta": "Rojo."
+},
+{
+"ejercicio": "¿Dónde lo buscó?",
+"respuesta": "En el parque."
+},
+{
+"ejercicio": "Lee un cuento corto y di de qué trata en una oración.",
+"respuesta": "Tu oración debe decir quién y qué pasó."
+}
+]
+}
+},
+{
+"nodo_id": "f3-005",
+"titulo": "Personajes de un cuento",
+"slug": "personajes-de-un-cuento-primaria",
+"palabras": [
+"personajes",
+"protagonista",
+"cuento"
+],
+"contenido": {
+"idea": "Todo cuento tiene alguien a quien le pasan cosas. Puede ser una niña, un dragón o hasta un lápiz que habla.",
+"pizarron": "**Qué es:** los personajes son quienes participan en una historia.\n\n**Tipos:**\n\n**Protagonista**: el personaje principal.\n\n**Antagonista**: quien le causa problemas.\n\n**Secundarios**: quienes ayudan o acompañan.\n\nEn *Caperucita Roja*:\n\n- Protagonista: Caperucita.\n- Antagonista: el lobo.\n- Secundarios: la abuela y el cazador.\n\nPara conocer a un personaje, pregunta: ¿cómo es?, ¿qué quiere?, ¿qué hace?",
+"truco": "Protagonista quiere; antagonista estorba.",
+"practica": {
+"ejercicio": "¿Quién es el antagonista en *Los tres cochinitos*?",
+"respuesta": "El lobo."
+},
+"analogias": [
+{
+"titulo": "El equipo",
+"texto": "El protagonista es el capitán y los demás juegan alrededor."
+},
+{
+"titulo": "El rival",
+"texto": "Sin rival, un partido no tendría emoción: sin antagonista, tampoco un cuento."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién es la protagonista de *Blanca Nieves*?",
+"respuesta": "Blanca Nieves."
+},
+{
+"ejercicio": "¿Qué hacen los personajes secundarios?",
+"respuesta": "Ayudan o acompañan."
+},
+{
+"ejercicio": "Describe a tu personaje favorito: cómo es y qué quiere.",
+"respuesta": "Tu respuesta debe decir ambas cosas."
+}
+]
+}
+}
 ]

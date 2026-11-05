@@ -1,72 +1,439 @@
 [
-{"nodo_id":"ems-011","titulo":"Trinomio cuadrado perfecto","slug":"trinomio-cuadrado-perfecto-prepa","palabras":["trinomio cuadrado perfecto","factorización","binomio al cuadrado"],"contenido":{
-"idea":"Algunos trinomios son un cuadrado disfrazado. Si reconoces el patrón, los regresas a su forma corta de un solo golpe.",
-"pizarron":"Forma:\n\n$$a^2 \\pm 2ab + b^2 = (a \\pm b)^2$$\n\nCómo reconocerlo:\n\n1. Primer y último término son cuadrados perfectos y positivos.\n2. El de en medio es el doble del producto de sus raíces.\n\nEjemplo: $x^2 + 10x + 25$.\n\n- Raíces: $x$ y 5.\n- Doble: $2(x)(5) = 10x$. Coincide.\n- Resultado: $(x + 5)^2$.\n\nEjemplo: $4y^2 - 12y + 9 = (2y - 3)^2$.\n\nEl signo del binomio es el del término de en medio.",
-"truco":"Raíz del primero, signo del medio, raíz del último.",
-"practica":{"ejercicio":"Factoriza $x^2 + 6x + 9$.","respuesta":"$(x + 3)^2$"},
-"analogias":[{"titulo":"El disfraz","texto":"Un trinomio largo oculta un binomio al cuadrado. Tres pistas lo delatan."},{"titulo":"El mosaico completo","texto":"Las piezas de $a^2$, dos $ab$ y $b^2$ encajan en un cuadrado perfecto."}],
-"ejercicios":[{"ejercicio":"Factoriza $x^2 - 14x + 49$.","respuesta":"$(x - 7)^2$"},{"ejercicio":"Factoriza $9a^2 + 24a + 16$.","respuesta":"$(3a + 4)^2$"},{"ejercicio":"¿Es $x^2 + 5x + 9$ trinomio cuadrado perfecto?","respuesta":"No, el doble de $3x$ es $6x$."}]}},
-{"nodo_id":"ems-011","titulo":"Trinomio x² + bx + c","slug":"trinomio-x2-bx-c-prepa","palabras":["factorización","trinomio","suma y producto","dos números"],"contenido":{
-"idea":"Es un juego de adivinar: dos números secretos multiplican $c$ y suman $b$. Encuéntralos y el trinomio se abre.",
-"pizarron":"$$x^2 + bx + c = (x + m)(x + n)$$\n\ndonde $m \\cdot n = c$ y $m + n = b$.\n\nEjemplo: $x^2 + 11x + 24$.\n\n- Parejas de 24: 1 y 24, 2 y 12, 3 y 8, 4 y 6.\n- Suman 11: 3 y 8.\n- $(x + 3)(x + 8)$.\n\nSignos:\n\n- $c$ positivo: mismos signos, los de $b$.\n- $c$ negativo: signos distintos.\n\nEjemplo: $x^2 - 2x - 15 = (x - 5)(x + 3)$.\n\nComprueba multiplicando.",
-"truco":"c dice cómo multiplican; b dice cómo suman.",
-"practica":{"ejercicio":"Factoriza $x^2 + 8x + 12$.","respuesta":"$(x + 2)(x + 6)$"},
-"analogias":[{"titulo":"Dos llaves","texto":"Te dicen la suma y el producto, y con eso descubres las dos llaves."},{"titulo":"El binomio en reversa","texto":"Es recorrer al revés el camino de multiplicar binomios con término común."}],
-"ejercicios":[{"ejercicio":"Factoriza $x^2 - 9x + 14$.","respuesta":"$(x - 2)(x - 7)$"},{"ejercicio":"Factoriza $x^2 + 3x - 28$.","respuesta":"$(x + 7)(x - 4)$"},{"ejercicio":"Factoriza $x^2 - x - 42$.","respuesta":"$(x - 7)(x + 6)$"}]}},
-{"nodo_id":"ems-011","titulo":"Trinomio ax² + bx + c","slug":"trinomio-ax2-bx-c-prepa","palabras":["factorización","trinomio","método ac","coeficiente principal"],"contenido":{
-"idea":"Cuando hay un número enfrente de $x^2$, se complica un poco. El método ac lo convierte en un problema de agrupar parejas.",
-"pizarron":"Método $ac$ para $6x^2 + 11x + 3$:\n\n1. Multiplica $a \\times c = 18$.\n2. Busca dos números que multipliquen 18 y sumen 11: 9 y 2.\n3. Separa el término de en medio:\n\n$$6x^2 + 9x + 2x + 3$$\n\n4. Agrupa:\n\n$$3x(2x + 3) + 1(2x + 3)$$\n\n5. Factoriza:\n\n$$(2x + 3)(3x + 1)$$\n\nEjemplo: $2x^2 - 5x - 3$.\n\n- $ac = -6$; números -6 y 1.\n- $2x^2 - 6x + x - 3 = (2x + 1)(x - 3)$.",
-"truco":"Multiplica a por c, separa el medio y agrupa.",
-"practica":{"ejercicio":"Factoriza $2x^2 + 7x + 3$.","respuesta":"$(2x + 1)(x + 3)$"},
-"analogias":[{"titulo":"Partir para acomodar","texto":"Partes un paquete en dos para que cada uno encaje en una pareja."},{"titulo":"Convertir en algo conocido","texto":"Lo difícil se vuelve factorización por agrupación, que ya dominas."}],
-"ejercicios":[{"ejercicio":"Factoriza $3x^2 + 10x + 8$.","respuesta":"$(3x + 4)(x + 2)$"},{"ejercicio":"Factoriza $4x^2 - 4x - 3$.","respuesta":"$(2x - 3)(2x + 1)$"},{"ejercicio":"Factoriza $6x^2 - x - 2$.","respuesta":"$(3x - 2)(2x + 1)$"}]}},
-{"nodo_id":"ems-011","titulo":"Suma y diferencia de cubos","slug":"suma-y-diferencia-de-cubos-prepa","palabras":["cubos","factorización","a³ + b³","a³ - b³"],"contenido":{
-"idea":"Dos cubos sumados o restados también tienen su propio molde. Salen dos paréntesis: uno corto y otro largo.",
-"pizarron":"Fórmulas:\n\n$$a^3 + b^3 = (a + b)(a^2 - ab + b^2)$$\n\n$$a^3 - b^3 = (a - b)(a^2 + ab + b^2)$$\n\nEjemplo: $x^3 + 8$.\n\n- $a = x$, $b = 2$.\n- $(x + 2)(x^2 - 2x + 4)$.\n\nEjemplo: $27y^3 - 1$.\n\n- $a = 3y$, $b = 1$.\n- $(3y - 1)(9y^2 + 3y + 1)$.\n\nCubos útiles: 1, 8, 27, 64, 125, 216.",
-"truco":"Mismo signo, opuesto y siempre positivo.",
-"practica":{"ejercicio":"Factoriza $x^3 - 27$.","respuesta":"$(x - 3)(x^2 + 3x + 9)$"},
-"analogias":[{"titulo":"Dos partes del molde","texto":"Un paréntesis corto guarda las raíces, y uno largo guarda los cuadrados y el producto."},{"titulo":"Regla SOP","texto":"Mismo, Opuesto, Positivo es la fórmula de los signos."}],
-"ejercicios":[{"ejercicio":"Factoriza $a^3 + 125$.","respuesta":"$(a + 5)(a^2 - 5a + 25)$"},{"ejercicio":"Factoriza $8x^3 + 1$.","respuesta":"$(2x + 1)(4x^2 - 2x + 1)$"},{"ejercicio":"Factoriza $64 - y^3$.","respuesta":"$(4 - y)(16 + 4y + y^2)$"}]}},
-{"nodo_id":"ems-011","titulo":"Simplificar fracciones algebraicas","slug":"simplificar-fracciones-algebraicas-prepa","palabras":["fracciones algebraicas","simplificar","factorizar y cancelar"],"contenido":{
-"idea":"Una fracción algebraica se simplifica igual que $\\frac{6}{8}$: buscas algo que multiplica arriba y abajo y lo cancelas.",
-"pizarron":"Pasos:\n\n1. Factoriza numerador y denominador.\n2. Cancela factores iguales.\n\nEjemplo:\n\n$$\\frac{x^2 - 9}{x^2 + 5x + 6} = \\frac{(x + 3)(x - 3)}{(x + 3)(x + 2)} = \\frac{x - 3}{x + 2}$$\n\nSolo se cancelan **factores**, no términos sumados.\n\nError: $\\frac{x + 3}{x}$ no es $3$.\n\nRestricción: el denominador original no puede ser 0. Aquí $x \\ne -3$ y $x \\ne -2$.\n\nFactor opuesto: $\\frac{a - b}{b - a} = -1$.",
-"truco":"Solo cancela lo que multiplica, nunca lo que suma.",
-"practica":{"ejercicio":"Simplifica $\\frac{2x + 6}{x + 3}$.","respuesta":"$\\frac{2(x + 3)}{x + 3} = 2$"},
-"analogias":[{"titulo":"Quitar igual en ambos lados","texto":"Como en una balanza, lo que multiplica arriba y abajo se elimina sin alterar."},{"titulo":"Empaques","texto":"Si dos cajas tienen el mismo empaque, lo retiras y queda lo esencial."}],
-"ejercicios":[{"ejercicio":"Simplifica $\\frac{x^2 - 4}{x - 2}$.","respuesta":"$x + 2$"},{"ejercicio":"Simplifica $\\frac{x^2 + 3x}{x^2 - 9}$.","respuesta":"$\\frac{x}{x - 3}$"},{"ejercicio":"Simplifica $\\frac{5 - x}{x - 5}$.","respuesta":"-1"}]}},
-{"nodo_id":"ems-011","titulo":"Sumar y restar fracciones algebraicas","slug":"sumar-y-restar-fracciones-algebraicas-prepa","palabras":["fracciones algebraicas","mcm","denominador común"],"contenido":{
-"idea":"Es la misma regla de las fracciones numéricas: primero el mismo piso, y después se juntan los de arriba.",
-"pizarron":"Pasos:\n\n1. Factoriza los denominadores.\n2. Encuentra el mcm.\n3. Convierte cada fracción.\n4. Suma numeradores.\n5. Simplifica.\n\nEjemplo:\n\n$$\\frac{3}{x} + \\frac{2}{x + 1} = \\frac{3(x + 1) + 2x}{x(x + 1)} = \\frac{5x + 3}{x(x + 1)}$$\n\nEjemplo:\n\n$$\\frac{1}{x - 2} - \\frac{4}{x^2 - 4}$$\n\nmcm: $(x + 2)(x - 2)$.\n\n$$= \\frac{x + 2 - 4}{(x + 2)(x - 2)} = \\frac{x - 2}{(x + 2)(x - 2)} = \\frac{1}{x + 2}$$\n\nCuando se resta, cuida el signo en todo el numerador.",
-"truco":"Mismo denominador, luego simplifica.",
-"practica":{"ejercicio":"Suma $\\frac{1}{x} + \\frac{2}{x}$.","respuesta":"$\\frac{3}{x}$"},
-"analogias":[{"titulo":"Fracciones de primaria","texto":"Con números o letras, sin mismo denominador no se suma."},{"titulo":"Tipo de cambio","texto":"Conviertes todo a una moneda común y entonces se pueden sumar."}],
-"ejercicios":[{"ejercicio":"Resta $\\frac{5}{x + 1} - \\frac{2}{x + 1}$.","respuesta":"$\\frac{3}{x + 1}$"},{"ejercicio":"Suma $\\frac{1}{x} + \\frac{1}{y}$.","respuesta":"$\\frac{x + y}{xy}$"},{"ejercicio":"Suma $\\frac{2}{x + 3} + \\frac{1}{x - 3}$.","respuesta":"$\\frac{3x - 3}{x^2 - 9}$"}]}},
-{"nodo_id":"ems-011","titulo":"Multiplicar y dividir fracciones algebraicas","slug":"multiplicar-y-dividir-fracciones-algebraicas-prepa","palabras":["fracciones algebraicas","multiplicación","división","cancelar"],"contenido":{
-"idea":"Aquí no necesitas denominador común. Factorizas todo, cancelas lo que se pueda y multiplicas lo poco que queda.",
-"pizarron":"**Multiplicar**: factoriza, cancela y multiplica.\n\n$$\\frac{x^2 - 4}{x + 1} \\cdot \\frac{x + 1}{x + 2} = \\frac{(x + 2)(x - 2)}{x + 1} \\cdot \\frac{x + 1}{x + 2} = x - 2$$\n\n**Dividir**: invierte la segunda y multiplica.\n\n$$\\frac{x}{x + 3} \\div \\frac{x^2}{x^2 - 9} = \\frac{x}{x + 3} \\cdot \\frac{(x + 3)(x - 3)}{x^2} = \\frac{x - 3}{x}$$\n\nCancela solo factores completos.",
-"truco":"Factoriza primero; multiplica al final.",
-"practica":{"ejercicio":"Multiplica $\\frac{2}{x} \\cdot \\frac{x^2}{4}$.","respuesta":"$\\frac{x}{2}$"},
-"analogias":[{"titulo":"Limpieza antes de cocinar","texto":"Quitar lo que sobra antes facilita todo lo demás."},{"titulo":"Fracciones con numeritos","texto":"Es el mismo cruzado que usabas con fracciones comunes."}],
-"ejercicios":[{"ejercicio":"Multiplica $\\frac{x + 1}{x} \\cdot \\frac{x^2}{x + 1}$.","respuesta":"$x$"},{"ejercicio":"Divide $\\frac{x^2}{y} \\div \\frac{x}{y^2}$.","respuesta":"$xy$"},{"ejercicio":"Multiplica $\\frac{x^2 - 1}{x} \\cdot \\frac{3x}{x + 1}$.","respuesta":"$3(x - 1)$"}]}},
-{"nodo_id":"ems-014","titulo":"Ecuaciones lineales con fracciones","slug":"ecuaciones-lineales-con-fracciones-prepa","palabras":["ecuación lineal","fracciones","mcm","denominadores"],"contenido":{
-"idea":"Cuando una ecuación tiene fracciones, multiplicar todo por el mcm es como limpiar la mesa antes de trabajar: desaparecen los denominadores.",
-"pizarron":"Pasos:\n\n1. Encuentra el mcm de denominadores.\n2. Multiplica cada término.\n3. Resuelve.\n\nEjemplo:\n\n$$\\frac{x - 1}{3} + \\frac{x}{2} = 4$$\n\nmcm = 6:\n\n$$2(x - 1) + 3x = 24$$\n\n$$5x - 2 = 24$$\n\n$$x = \\frac{26}{5}$$\n\nCon incógnita abajo:\n\n$$\\frac{3}{x} = \\frac{1}{4} \\Rightarrow x = 12$$\n\nDescarta valores que hagan 0 un denominador.",
-"truco":"Mcm a todos los términos, incluidos los enteros.",
-"practica":{"ejercicio":"Resuelve $\\frac{x}{3} - \\frac{x}{4} = 2$.","respuesta":"$x = 24$"},
-"analogias":[{"titulo":"Limpiar la mesa","texto":"Eliminar los denominadores permite trabajar con enteros."},{"titulo":"Convertir a la misma escala","texto":"Pasas a una escala en la que ya no hay decimales ni partes."}],
-"ejercicios":[{"ejercicio":"Resuelve $\\frac{2x + 1}{5} = 3$.","respuesta":"$x = 7$"},{"ejercicio":"Resuelve $\\frac{x}{2} + 1 = \\frac{x}{3} + 2$.","respuesta":"$x = 6$"},{"ejercicio":"Resuelve $\\frac{6}{x} = 2$.","respuesta":"$x = 3$"}]}},
-{"nodo_id":"ems-014","titulo":"Despejar una variable de una fórmula","slug":"despejar-una-variable-de-una-formula-prepa","palabras":["despejar","fórmula","variable","física"],"contenido":{
-"idea":"Una fórmula es un candado con varias letras. Despejar es poner una letra sola para calcularla directamente.",
-"pizarron":"Despeja igual que en una ecuación, pero con letras.\n\nEjemplo: despeja $t$ de $d = vt$.\n\n$$t = \\frac{d}{v}$$\n\nEjemplo: despeja $h$ de $A = \\frac{bh}{2}$.\n\n$$2A = bh \\Rightarrow h = \\frac{2A}{b}$$\n\nEjemplo: despeja $v_0$ de $v = v_0 + at$.\n\n$$v_0 = v - at$$\n\nEjemplo con cuadrado: despeja $r$ de $A = \\pi r^2$.\n\n$$r = \\sqrt{\\frac{A}{\\pi}}$$\n\nDespeja antes de sustituir números.",
-"truco":"Deshaz en orden inverso: suma, multiplica y raíz al final.",
-"practica":{"ejercicio":"Despeja $m$ de $F = ma$.","respuesta":"$m = \\frac{F}{a}$"},
-"analogias":[{"titulo":"Sacar a uno de la foto","texto":"Quieres una persona sola en la foto: vas quitando a los demás uno por uno."},{"titulo":"La fórmula al revés","texto":"Si conoces distancia y velocidad, adaptas la fórmula a lo que quieres."}],
-"ejercicios":[{"ejercicio":"Despeja $b$ de $P = 2a + 2b$.","respuesta":"$b = \\frac{P - 2a}{2}$"},{"ejercicio":"Despeja $R$ de $V = IR$.","respuesta":"$R = \\frac{V}{I}$"},{"ejercicio":"Despeja $c$ de $E = mc^2$.","respuesta":"$c = \\sqrt{\\frac{E}{m}}$"}]}},
-{"nodo_id":"ems-014","titulo":"Desigualdades lineales","slug":"desigualdades-lineales-prepa","palabras":["desigualdades","inecuaciones","intervalos","signo mayor"],"contenido":{
-"idea":"Una ecuación tiene una respuesta; una desigualdad tiene muchas. Si necesitas más de 6 para pasar, cualquier calificación mayor funciona.",
-"pizarron":"Se resuelve como una ecuación, con una regla especial:\n\n**Al multiplicar o dividir por negativo, se invierte el signo.**\n\nEjemplo:\n\n$$3x - 5 < 10$$\n\n$$3x < 15$$\n\n$$x < 5$$\n\nEjemplo con negativo:\n\n$$-2x \\ge 8$$\n\n$$x \\le -4$$\n\nSolución como intervalo:\n\n- $x < 5$: $(-\\infty, 5)$.\n- $x \\ge 2$: $[2, \\infty)$.\n\nEn la recta: círculo abierto para $<$ y cerrado para $\\le$.\n\nDoble desigualdad: $1 < 2x + 3 < 9$ da $-1 < x < 3$.",
-"truco":"Divides entre negativo: voltea el signo.",
-"practica":{"ejercicio":"Resuelve $2x + 1 > 7$.","respuesta":"$x > 3$"},
-"analogias":[{"titulo":"La báscula del elevador","texto":"No exige un peso exacto: solo que no se pase de un límite."},{"titulo":"El espejo de los negativos","texto":"Multiplicar por -1 refleja la recta: lo mayor se vuelve menor."}],
-"ejercicios":[{"ejercicio":"Resuelve $-3x < 12$.","respuesta":"$x > -4$"},{"ejercicio":"Resuelve $5 - x \\ge 2$.","respuesta":"$x \\le 3$"},{"ejercicio":"Escribe $x > 1$ como intervalo.","respuesta":"$(1, \\infty)$"}]}}
+{
+"nodo_id": "ems-011",
+"titulo": "Trinomio cuadrado perfecto",
+"slug": "trinomio-cuadrado-perfecto-prepa",
+"palabras": [
+"trinomio cuadrado perfecto",
+"factorización",
+"binomio al cuadrado"
+],
+"contenido": {
+"idea": "Algunos trinomios son un cuadrado disfrazado. Si reconoces el patrón, los regresas a su forma corta de un solo golpe.",
+"pizarron": "**La regla:** $a^2 + 2ab + b^2 = (a + b)^2$.\n\nForma:\n\n$$a^2 \\pm 2ab + b^2 = (a \\pm b)^2$$\n\nCómo reconocerlo:\n\n1. Primer y último término son cuadrados perfectos y positivos.\n2. El de en medio es el doble del producto de sus raíces.\n\nEjemplo: $x^2 + 10x + 25$.\n\n- Raíces: $x$ y 5.\n- Doble: $2(x)(5) = 10x$. Coincide.\n- Resultado: $(x + 5)^2$.\n\nEjemplo: $4y^2 - 12y + 9 = (2y - 3)^2$.\n\nEl signo del binomio es el del término de en medio.",
+"truco": "Raíz del primero, signo del medio, raíz del último.",
+"practica": {
+"ejercicio": "Factoriza $x^2 + 6x + 9$.",
+"respuesta": "$(x + 3)^2$"
+},
+"analogias": [
+{
+"titulo": "El disfraz",
+"texto": "Un trinomio largo oculta un binomio al cuadrado. Tres pistas lo delatan."
+},
+{
+"titulo": "El mosaico completo",
+"texto": "Las piezas de $a^2$, dos $ab$ y $b^2$ encajan en un cuadrado perfecto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Factoriza $x^2 - 14x + 49$.",
+"respuesta": "$(x - 7)^2$"
+},
+{
+"ejercicio": "Factoriza $9a^2 + 24a + 16$.",
+"respuesta": "$(3a + 4)^2$"
+},
+{
+"ejercicio": "¿Es $x^2 + 5x + 9$ trinomio cuadrado perfecto?",
+"respuesta": "No, el doble de $3x$ es $6x$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Trinomio x² + bx + c",
+"slug": "trinomio-x2-bx-c-prepa",
+"palabras": [
+"factorización",
+"trinomio",
+"suma y producto",
+"dos números"
+],
+"contenido": {
+"idea": "Es un juego de adivinar: dos números secretos multiplican $c$ y suman $b$. Encuéntralos y el trinomio se abre.",
+"pizarron": "**La regla:** busca dos números que multiplicados den $c$ y sumados den $b$.\n\n$$x^2 + bx + c = (x + m)(x + n)$$\n\ndonde $m \\cdot n = c$ y $m + n = b$.\n\nEjemplo: $x^2 + 11x + 24$.\n\n- Parejas de 24: 1 y 24, 2 y 12, 3 y 8, 4 y 6.\n- Suman 11: 3 y 8.\n- $(x + 3)(x + 8)$.\n\nSignos:\n\n- $c$ positivo: mismos signos, los de $b$.\n- $c$ negativo: signos distintos.\n\nEjemplo: $x^2 - 2x - 15 = (x - 5)(x + 3)$.\n\nComprueba multiplicando.",
+"truco": "c dice cómo multiplican; b dice cómo suman.",
+"practica": {
+"ejercicio": "Factoriza $x^2 + 8x + 12$.",
+"respuesta": "$(x + 2)(x + 6)$"
+},
+"analogias": [
+{
+"titulo": "Dos llaves",
+"texto": "Te dicen la suma y el producto, y con eso descubres las dos llaves."
+},
+{
+"titulo": "El binomio en reversa",
+"texto": "Es recorrer al revés el camino de multiplicar binomios con término común."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Factoriza $x^2 - 9x + 14$.",
+"respuesta": "$(x - 2)(x - 7)$"
+},
+{
+"ejercicio": "Factoriza $x^2 + 3x - 28$.",
+"respuesta": "$(x + 7)(x - 4)$"
+},
+{
+"ejercicio": "Factoriza $x^2 - x - 42$.",
+"respuesta": "$(x - 7)(x + 6)$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Trinomio ax² + bx + c",
+"slug": "trinomio-ax2-bx-c-prepa",
+"palabras": [
+"factorización",
+"trinomio",
+"método ac",
+"coeficiente principal"
+],
+"contenido": {
+"idea": "Cuando hay un número enfrente de $x^2$, se complica un poco. El método ac lo convierte en un problema de agrupar parejas.",
+"pizarron": "**La regla:** busca dos números que multiplicados den $ac$ y sumados den $b$, y factoriza por agrupación.\n\nMétodo $ac$ para $6x^2 + 11x + 3$:\n\n1. Multiplica $a \\times c = 18$.\n2. Busca dos números que multipliquen 18 y sumen 11: 9 y 2.\n3. Separa el término de en medio:\n\n$$6x^2 + 9x + 2x + 3$$\n\n4. Agrupa:\n\n$$3x(2x + 3) + 1(2x + 3)$$\n\n5. Factoriza:\n\n$$(2x + 3)(3x + 1)$$\n\nEjemplo: $2x^2 - 5x - 3$.\n\n- $ac = -6$; números -6 y 1.\n- $2x^2 - 6x + x - 3 = (2x + 1)(x - 3)$.",
+"truco": "Multiplica a por c, separa el medio y agrupa.",
+"practica": {
+"ejercicio": "Factoriza $2x^2 + 7x + 3$.",
+"respuesta": "$(2x + 1)(x + 3)$"
+},
+"analogias": [
+{
+"titulo": "Partir para acomodar",
+"texto": "Partes un paquete en dos para que cada uno encaje en una pareja."
+},
+{
+"titulo": "Convertir en algo conocido",
+"texto": "Lo difícil se vuelve factorización por agrupación, que ya dominas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Factoriza $3x^2 + 10x + 8$.",
+"respuesta": "$(3x + 4)(x + 2)$"
+},
+{
+"ejercicio": "Factoriza $4x^2 - 4x - 3$.",
+"respuesta": "$(2x - 3)(2x + 1)$"
+},
+{
+"ejercicio": "Factoriza $6x^2 - x - 2$.",
+"respuesta": "$(3x - 2)(2x + 1)$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Suma y diferencia de cubos",
+"slug": "suma-y-diferencia-de-cubos-prepa",
+"palabras": [
+"cubos",
+"factorización",
+"a³ + b³",
+"a³ - b³"
+],
+"contenido": {
+"idea": "Dos cubos sumados o restados también tienen su propio molde. Salen dos paréntesis: uno corto y otro largo.",
+"pizarron": "**La regla:** $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$ y $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$.\n\nFórmulas:\n\n$$a^3 + b^3 = (a + b)(a^2 - ab + b^2)$$\n\n$$a^3 - b^3 = (a - b)(a^2 + ab + b^2)$$\n\nEjemplo: $x^3 + 8$.\n\n- $a = x$, $b = 2$.\n- $(x + 2)(x^2 - 2x + 4)$.\n\nEjemplo: $27y^3 - 1$.\n\n- $a = 3y$, $b = 1$.\n- $(3y - 1)(9y^2 + 3y + 1)$.\n\nCubos útiles: 1, 8, 27, 64, 125, 216.",
+"truco": "Mismo signo, opuesto y siempre positivo.",
+"practica": {
+"ejercicio": "Factoriza $x^3 - 27$.",
+"respuesta": "$(x - 3)(x^2 + 3x + 9)$"
+},
+"analogias": [
+{
+"titulo": "Dos partes del molde",
+"texto": "Un paréntesis corto guarda las raíces, y uno largo guarda los cuadrados y el producto."
+},
+{
+"titulo": "Regla SOP",
+"texto": "Mismo, Opuesto, Positivo es la fórmula de los signos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Factoriza $a^3 + 125$.",
+"respuesta": "$(a + 5)(a^2 - 5a + 25)$"
+},
+{
+"ejercicio": "Factoriza $8x^3 + 1$.",
+"respuesta": "$(2x + 1)(4x^2 - 2x + 1)$"
+},
+{
+"ejercicio": "Factoriza $64 - y^3$.",
+"respuesta": "$(4 - y)(16 + 4y + y^2)$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Simplificar fracciones algebraicas",
+"slug": "simplificar-fracciones-algebraicas-prepa",
+"palabras": [
+"fracciones algebraicas",
+"simplificar",
+"factorizar y cancelar"
+],
+"contenido": {
+"idea": "Una fracción algebraica se simplifica igual que $\\frac{6}{8}$: buscas algo que multiplica arriba y abajo y lo cancelas.",
+"pizarron": "**La regla:** factoriza arriba y abajo, y cancela los factores iguales.\n\nPasos:\n\n1. Factoriza numerador y denominador.\n2. Cancela factores iguales.\n\nEjemplo:\n\n$$\\frac{x^2 - 9}{x^2 + 5x + 6} = \\frac{(x + 3)(x - 3)}{(x + 3)(x + 2)} = \\frac{x - 3}{x + 2}$$\n\nSolo se cancelan **factores**, no términos sumados.\n\nError: $\\frac{x + 3}{x}$ no es $3$.\n\nRestricción: el denominador original no puede ser 0. Aquí $x \\ne -3$ y $x \\ne -2$.\n\nFactor opuesto: $\\frac{a - b}{b - a} = -1$.",
+"truco": "Solo cancela lo que multiplica, nunca lo que suma.",
+"practica": {
+"ejercicio": "Simplifica $\\frac{2x + 6}{x + 3}$.",
+"respuesta": "$\\frac{2(x + 3)}{x + 3} = 2$"
+},
+"analogias": [
+{
+"titulo": "Quitar igual en ambos lados",
+"texto": "Como en una balanza, lo que multiplica arriba y abajo se elimina sin alterar."
+},
+{
+"titulo": "Empaques",
+"texto": "Si dos cajas tienen el mismo empaque, lo retiras y queda lo esencial."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Simplifica $\\frac{x^2 - 4}{x - 2}$.",
+"respuesta": "$x + 2$"
+},
+{
+"ejercicio": "Simplifica $\\frac{x^2 + 3x}{x^2 - 9}$.",
+"respuesta": "$\\frac{x}{x - 3}$"
+},
+{
+"ejercicio": "Simplifica $\\frac{5 - x}{x - 5}$.",
+"respuesta": "-1"
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Sumar y restar fracciones algebraicas",
+"slug": "sumar-y-restar-fracciones-algebraicas-prepa",
+"palabras": [
+"fracciones algebraicas",
+"mcm",
+"denominador común"
+],
+"contenido": {
+"idea": "Es la misma regla de las fracciones numéricas: primero el mismo piso, y después se juntan los de arriba.",
+"pizarron": "**La regla:** busca un denominador común y luego suma o resta los numeradores.\n\nPasos:\n\n1. Factoriza los denominadores.\n2. Encuentra el mcm.\n3. Convierte cada fracción.\n4. Suma numeradores.\n5. Simplifica.\n\nEjemplo:\n\n$$\\frac{3}{x} + \\frac{2}{x + 1} = \\frac{3(x + 1) + 2x}{x(x + 1)} = \\frac{5x + 3}{x(x + 1)}$$\n\nEjemplo:\n\n$$\\frac{1}{x - 2} - \\frac{4}{x^2 - 4}$$\n\nmcm: $(x + 2)(x - 2)$.\n\n$$= \\frac{x + 2 - 4}{(x + 2)(x - 2)} = \\frac{x - 2}{(x + 2)(x - 2)} = \\frac{1}{x + 2}$$\n\nCuando se resta, cuida el signo en todo el numerador.",
+"truco": "Mismo denominador, luego simplifica.",
+"practica": {
+"ejercicio": "Suma $\\frac{1}{x} + \\frac{2}{x}$.",
+"respuesta": "$\\frac{3}{x}$"
+},
+"analogias": [
+{
+"titulo": "Fracciones de primaria",
+"texto": "Con números o letras, sin mismo denominador no se suma."
+},
+{
+"titulo": "Tipo de cambio",
+"texto": "Conviertes todo a una moneda común y entonces se pueden sumar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resta $\\frac{5}{x + 1} - \\frac{2}{x + 1}$.",
+"respuesta": "$\\frac{3}{x + 1}$"
+},
+{
+"ejercicio": "Suma $\\frac{1}{x} + \\frac{1}{y}$.",
+"respuesta": "$\\frac{x + y}{xy}$"
+},
+{
+"ejercicio": "Suma $\\frac{2}{x + 3} + \\frac{1}{x - 3}$.",
+"respuesta": "$\\frac{3x - 3}{x^2 - 9}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-011",
+"titulo": "Multiplicar y dividir fracciones algebraicas",
+"slug": "multiplicar-y-dividir-fracciones-algebraicas-prepa",
+"palabras": [
+"fracciones algebraicas",
+"multiplicación",
+"división",
+"cancelar"
+],
+"contenido": {
+"idea": "Aquí no necesitas denominador común. Factorizas todo, cancelas lo que se pueda y multiplicas lo poco que queda.",
+"pizarron": "**La regla:** para multiplicar, multiplica en línea recta. Para dividir, voltea la segunda fracción.\n\n**Multiplicar**: factoriza, cancela y multiplica.\n\n$$\\frac{x^2 - 4}{x + 1} \\cdot \\frac{x + 1}{x + 2} = \\frac{(x + 2)(x - 2)}{x + 1} \\cdot \\frac{x + 1}{x + 2} = x - 2$$\n\n**Dividir**: invierte la segunda y multiplica.\n\n$$\\frac{x}{x + 3} \\div \\frac{x^2}{x^2 - 9} = \\frac{x}{x + 3} \\cdot \\frac{(x + 3)(x - 3)}{x^2} = \\frac{x - 3}{x}$$\n\nCancela solo factores completos.",
+"truco": "Factoriza primero; multiplica al final.",
+"practica": {
+"ejercicio": "Multiplica $\\frac{2}{x} \\cdot \\frac{x^2}{4}$.",
+"respuesta": "$\\frac{x}{2}$"
+},
+"analogias": [
+{
+"titulo": "Limpieza antes de cocinar",
+"texto": "Quitar lo que sobra antes facilita todo lo demás."
+},
+{
+"titulo": "Fracciones con numeritos",
+"texto": "Es el mismo cruzado que usabas con fracciones comunes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Multiplica $\\frac{x + 1}{x} \\cdot \\frac{x^2}{x + 1}$.",
+"respuesta": "$x$"
+},
+{
+"ejercicio": "Divide $\\frac{x^2}{y} \\div \\frac{x}{y^2}$.",
+"respuesta": "$xy$"
+},
+{
+"ejercicio": "Multiplica $\\frac{x^2 - 1}{x} \\cdot \\frac{3x}{x + 1}$.",
+"respuesta": "$3(x - 1)$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-014",
+"titulo": "Ecuaciones lineales con fracciones",
+"slug": "ecuaciones-lineales-con-fracciones-prepa",
+"palabras": [
+"ecuación lineal",
+"fracciones",
+"mcm",
+"denominadores"
+],
+"contenido": {
+"idea": "Cuando una ecuación tiene fracciones, multiplicar todo por el mcm es como limpiar la mesa antes de trabajar: desaparecen los denominadores.",
+"pizarron": "**La regla:** multiplica toda la ecuación por el denominador común.\n\nPasos:\n\n1. Encuentra el mcm de denominadores.\n2. Multiplica cada término.\n3. Resuelve.\n\nEjemplo:\n\n$$\\frac{x - 1}{3} + \\frac{x}{2} = 4$$\n\nmcm = 6:\n\n$$2(x - 1) + 3x = 24$$\n\n$$5x - 2 = 24$$\n\n$$x = \\frac{26}{5}$$\n\nCon incógnita abajo:\n\n$$\\frac{3}{x} = \\frac{1}{4} \\Rightarrow x = 12$$\n\nDescarta valores que hagan 0 un denominador.",
+"truco": "Mcm a todos los términos, incluidos los enteros.",
+"practica": {
+"ejercicio": "Resuelve $\\frac{x}{3} - \\frac{x}{4} = 2$.",
+"respuesta": "$x = 24$"
+},
+"analogias": [
+{
+"titulo": "Limpiar la mesa",
+"texto": "Eliminar los denominadores permite trabajar con enteros."
+},
+{
+"titulo": "Convertir a la misma escala",
+"texto": "Pasas a una escala en la que ya no hay decimales ni partes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $\\frac{2x + 1}{5} = 3$.",
+"respuesta": "$x = 7$"
+},
+{
+"ejercicio": "Resuelve $\\frac{x}{2} + 1 = \\frac{x}{3} + 2$.",
+"respuesta": "$x = 6$"
+},
+{
+"ejercicio": "Resuelve $\\frac{6}{x} = 2$.",
+"respuesta": "$x = 3$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-014",
+"titulo": "Despejar una variable de una fórmula",
+"slug": "despejar-una-variable-de-una-formula-prepa",
+"palabras": [
+"despejar",
+"fórmula",
+"variable",
+"física"
+],
+"contenido": {
+"idea": "Una fórmula es un candado con varias letras. Despejar es poner una letra sola para calcularla directamente.",
+"pizarron": "**La regla:** deja sola la letra que buscas, haciendo la misma operación en ambos lados.\n\nDespeja igual que en una ecuación, pero con letras.\n\nEjemplo: despeja $t$ de $d = vt$.\n\n$$t = \\frac{d}{v}$$\n\nEjemplo: despeja $h$ de $A = \\frac{bh}{2}$.\n\n$$2A = bh \\Rightarrow h = \\frac{2A}{b}$$\n\nEjemplo: despeja $v_0$ de $v = v_0 + at$.\n\n$$v_0 = v - at$$\n\nEjemplo con cuadrado: despeja $r$ de $A = \\pi r^2$.\n\n$$r = \\sqrt{\\frac{A}{\\pi}}$$\n\nDespeja antes de sustituir números.",
+"truco": "Deshaz en orden inverso: suma, multiplica y raíz al final.",
+"practica": {
+"ejercicio": "Despeja $m$ de $F = ma$.",
+"respuesta": "$m = \\frac{F}{a}$"
+},
+"analogias": [
+{
+"titulo": "Sacar a uno de la foto",
+"texto": "Quieres una persona sola en la foto: vas quitando a los demás uno por uno."
+},
+{
+"titulo": "La fórmula al revés",
+"texto": "Si conoces distancia y velocidad, adaptas la fórmula a lo que quieres."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Despeja $b$ de $P = 2a + 2b$.",
+"respuesta": "$b = \\frac{P - 2a}{2}$"
+},
+{
+"ejercicio": "Despeja $R$ de $V = IR$.",
+"respuesta": "$R = \\frac{V}{I}$"
+},
+{
+"ejercicio": "Despeja $c$ de $E = mc^2$.",
+"respuesta": "$c = \\sqrt{\\frac{E}{m}}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-014",
+"titulo": "Desigualdades lineales",
+"slug": "desigualdades-lineales-prepa",
+"palabras": [
+"desigualdades",
+"inecuaciones",
+"intervalos",
+"signo mayor"
+],
+"contenido": {
+"idea": "Una ecuación tiene una respuesta; una desigualdad tiene muchas. Si necesitas más de 6 para pasar, cualquier calificación mayor funciona.",
+"pizarron": "**La regla:** se resuelven como ecuaciones, pero si multiplicas o divides entre un negativo, el signo se voltea.\n\nSe resuelve como una ecuación, con una regla especial:\n\n**Al multiplicar o dividir por negativo, se invierte el signo.**\n\nEjemplo:\n\n$$3x - 5 < 10$$\n\n$$3x < 15$$\n\n$$x < 5$$\n\nEjemplo con negativo:\n\n$$-2x \\ge 8$$\n\n$$x \\le -4$$\n\nSolución como intervalo:\n\n- $x < 5$: $(-\\infty, 5)$.\n- $x \\ge 2$: $[2, \\infty)$.\n\nEn la recta: círculo abierto para $<$ y cerrado para $\\le$.\n\nDoble desigualdad: $1 < 2x + 3 < 9$ da $-1 < x < 3$.",
+"truco": "Divides entre negativo: voltea el signo.",
+"practica": {
+"ejercicio": "Resuelve $2x + 1 > 7$.",
+"respuesta": "$x > 3$"
+},
+"analogias": [
+{
+"titulo": "La báscula del elevador",
+"texto": "No exige un peso exacto: solo que no se pase de un límite."
+},
+{
+"titulo": "El espejo de los negativos",
+"texto": "Multiplicar por -1 refleja la recta: lo mayor se vuelve menor."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $-3x < 12$.",
+"respuesta": "$x > -4$"
+},
+{
+"ejercicio": "Resuelve $5 - x \\ge 2$.",
+"respuesta": "$x \\le 3$"
+},
+{
+"ejercicio": "Escribe $x > 1$ como intervalo.",
+"respuesta": "$(1, \\infty)$"
+}
+]
+}
+}
 ]

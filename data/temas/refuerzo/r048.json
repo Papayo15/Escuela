@@ -1,706 +1,706 @@
 [
-{
-"nodo_id": "ems-072",
-"titulo": "Densidad y presión",
-"slug": "densidad-y-presion-prepa",
-"palabras": [
-"densidad",
-"presión",
-"presión absoluta",
-"presión manométrica"
-],
-"contenido": {
-"idea": "En la Ciudad de México hierve el agua antes de 100 °C porque hay menos aire encima. Presión y densidad explican por qué.",
-"pizarron": "**Densidad**: $\\rho = \\dfrac{m}{V}$.\n\n**Presión**: $P = \\dfrac{F}{A}$.\n\n**Presión en un fluido**:\n\n$$P = P_0 + \\rho g h$$\n\n$P_0$ es la presión en la superficie.\n\n- **Presión absoluta**: la total.\n- **Presión manométrica**: la que excede a la atmosférica, $\\rho g h$.\n\nAl nivel del mar, $P_{atm} \\approx 1.013 \\times 10^{5}$ Pa.\n\nEjemplo: a 20 m de profundidad en agua dulce.\n\n$$P_m = (1000)(9.8)(20) = 196\\,000\\ \\text{Pa}$$\n\n$$P_{abs} = 196\\,000 + 101\\,300 = 297\\,300\\ \\text{Pa}$$\n\nCada 10 m de agua agregan cerca de una atmósfera.\n\nA mayor altitud hay menos aire encima y menor presión.",
-"truco": "Cada 10 m de agua suman casi una atmósfera.",
-"practica": {
-"ejercicio": "Halla la presión manométrica a 5 m de agua, con $g=10$ m/s².",
-"respuesta": "50 000 Pa."
-},
-"analogias": [
-{
-"titulo": "El océano de aire",
-"texto": "Vivimos en el fondo de un mar de aire; en lo alto del cerro hay menos encima."
-},
-{
-"titulo": "La pila de libros",
-"texto": "Abajo soportas todos los libros; arriba, muy pocos."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Qué masa tienen 2 m³ de agua?",
-"respuesta": "2000 kg."
-},
-{
-"ejercicio": "Con $P_{atm}=100\\,000$ Pa y $P_m=30\\,000$ Pa, halla $P_{abs}$.",
-"respuesta": "130 000 Pa."
-},
-{
-"ejercicio": "¿Por qué el agua hierve antes en lo alto?",
-"respuesta": "Porque la presión atmosférica es menor."
-}
-]
-}
-},
-{
-"nodo_id": "ems-072",
-"titulo": "Principio de Pascal con problemas",
-"slug": "principio-de-pascal-con-problemas-prepa",
-"palabras": [
-"Pascal",
-"prensa hidráulica",
-"áreas",
-"radios"
-],
-"contenido": {
-"idea": "Un frenazo fuerte empieza con un pequeño pisotón al pedal. El líquido lleva esa presión hasta las cuatro ruedas.",
-"pizarron": "La presión se transmite por igual:\n\n$$\\frac{F_1}{A_1} = \\frac{F_2}{A_2}$$\n\nComo el líquido no se comprime, los volúmenes coinciden:\n\n$$A_1 d_1 = A_2 d_2$$\n\n**Con radios**, las áreas van con $r^2$:\n\n$$\\frac{F_2}{F_1} = \\left(\\frac{r_2}{r_1}\\right)^2$$\n\nEjemplo: radios de 2 cm y 10 cm; carga de 5000 N.\n\n$$F_1 = 5000 \\times \\left(\\frac{2}{10}\\right)^2 = 200\\ \\text{N}$$\n\nSi la carga sube 1 cm, el émbolo chico baja:\n\n$$d_1 = 1 \\times 25 = 25\\ \\text{cm}$$\n\nEl trabajo es igual en ambos lados: $200(0.25) = 5000(0.01) = 50$ J.",
-"truco": "Si dan radios, eleva la razón al cuadrado.",
-"practica": {
-"ejercicio": "Radios de 1 cm y 5 cm. ¿Cuántas veces se multiplica la fuerza?",
-"respuesta": "25 veces."
-},
-"analogias": [
-{
-"titulo": "Las palancas líquidas",
-"texto": "Es una palanca hecha de líquido: gana fuerza y paga con mayor recorrido."
-},
-{
-"titulo": "Pedal del freno",
-"texto": "El pie mueve mucho el pedal y las balatas se mueven apenas, pero con gran fuerza."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Con $A_1=2$ cm², $A_2=200$ cm² y $F_2=10\\,000$ N, halla $F_1$.",
-"respuesta": "100 N."
-},
-{
-"ejercicio": "Con esos datos, si $d_2=1$ cm, halla $d_1$.",
-"respuesta": "100 cm."
-},
-{
-"ejercicio": "¿La prensa hidráulica ahorra trabajo?",
-"respuesta": "No, solo reduce la fuerza."
-}
-]
-}
-},
-{
-"nodo_id": "ems-072",
-"titulo": "Principio de Arquímedes con problemas",
-"slug": "principio-de-arquimedes-con-problemas-prepa",
-"palabras": [
-"Arquímedes",
-"empuje",
-"peso aparente",
-"fracción sumergida"
-],
-"contenido": {
-"idea": "Solo la punta de un iceberg se ve sobre el mar. Con Arquímedes puedes calcular qué fracción queda oculta bajo el agua.",
-"pizarron": "**Empuje**:\n\n$$E = \\rho_f\\,g\\,V_s$$\n\n**Peso aparente** de un cuerpo sumergido:\n\n$$P_a = P - E$$\n\nEjemplo: un bloque de 3 kg y 0.001 m³ en agua, con $g = 10$ m/s².\n\n$$P = 30\\ \\text{N} \\quad E = 10\\ \\text{N} \\quad P_a = 20\\ \\text{N}$$\n\n**Cuerpo que flota**: empuje igual a peso.\n\n$$\\rho_f V_s = \\rho_c V$$\n\n$$\\frac{V_s}{V} = \\frac{\\rho_c}{\\rho_f}$$\n\nEjemplo: hielo (0.92 g/cm³) en agua dulce (1 g/cm³).\n\n$$\\frac{V_s}{V} = 0.92$$\n\nEl 92 % queda sumergido.\n\nCon peso real y aparente se calcula la densidad de un objeto.",
-"truco": "Si flota, fracción sumergida es razón de densidades.",
-"practica": {
-"ejercicio": "Una madera de 0.6 g/cm³ flota en agua. ¿Qué fracción queda sumergida?",
-"respuesta": "0.6, es decir, 60 %."
-},
-"analogias": [
-{
-"titulo": "El iceberg",
-"texto": "Su densidad, muy cercana a la del agua, deja casi todo escondido."
-},
-{
-"titulo": "La corona",
-"texto": "Arquímedes comparó el agua desplazada para saber si la corona era de oro puro."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Un objeto pesa 50 N y 30 N en agua. ¿Cuál es el empuje?",
-"respuesta": "20 N."
-},
-{
-"ejercicio": "Con ese empuje y $g=10$ m/s², ¿qué volumen tiene?",
-"respuesta": "0.002 m³."
-},
-{
-"ejercicio": "Halla su densidad, si pesa 50 N.",
-"respuesta": "2500 kg/m³."
-}
-]
-}
-},
-{
-"nodo_id": "ems-072",
-"titulo": "Ecuación de continuidad",
-"slug": "ecuacion-de-continuidad-prepa",
-"palabras": [
-"continuidad",
-"caudal",
-"gasto",
-"fluidos en movimiento"
-],
-"contenido": {
-"idea": "Si tapas parte de la salida de una manguera, el agua sale más rápido. Lo que entra debe salir, así que acelera.",
-"pizarron": "**Caudal o gasto**: volumen que pasa por segundo.\n\n$$Q = \\frac{V}{t} = A\\,v$$\n\nUnidad: m³/s.\n\n**Ecuación de continuidad** para un fluido incompresible:\n\n$$A_1 v_1 = A_2 v_2$$\n\nSi el área baja, la velocidad sube.\n\nEjemplo: un tubo pasa de 10 cm² a 2 cm², con $v_1 = 1$ m/s.\n\n$$v_2 = \\frac{10 \\times 1}{2} = 5\\ \\text{m/s}$$\n\nEjemplo: una llave llena 20 L en 40 s.\n\n$$Q = 0.5\\ \\text{L/s}$$\n\nCon radios:\n\n$$\\frac{v_2}{v_1} = \\left(\\frac{r_1}{r_2}\\right)^2$$",
-"truco": "Tubo angosto, agua rápida.",
-"practica": {
-"ejercicio": "Con $A=0.02$ m² y $v=3$ m/s, halla $Q$.",
-"respuesta": "0.06 m³/s."
-},
-"analogias": [
-{
-"titulo": "La autopista",
-"texto": "Si tres carriles se reducen a uno, cada coche debe avanzar más rápido para mantener el flujo."
-},
-{
-"titulo": "El río",
-"texto": "En tramos estrechos el agua corre fuerte; en los anchos parece quieta."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "$A_1=6$ cm², $v_1=2$ m/s, $A_2=3$ cm². Halla $v_2$.",
-"respuesta": "4 m/s."
-},
-{
-"ejercicio": "Si el radio se reduce a la mitad, ¿cómo cambia $v$?",
-"respuesta": "Se multiplica por 4."
-},
-{
-"ejercicio": "¿Cuánto tarda 100 L con $Q=2$ L/s?",
-"respuesta": "50 s."
-}
-]
-}
-},
-{
-"nodo_id": "ems-072",
-"titulo": "Principio de Bernoulli",
-"slug": "principio-de-bernoulli-prepa",
-"palabras": [
-"Bernoulli",
-"presión",
-"velocidad",
-"aviones"
-],
-"contenido": {
-"idea": "Sopla por encima de una hoja y esta sube. El aire rápido presiona menos y el de abajo la empuja.",
-"pizarron": "**Ecuación de Bernoulli**, para un fluido ideal:\n\n$$P + \\frac{1}{2}\\rho v^2 + \\rho g h = \\text{constante}$$\n\nA igual altura, donde el fluido va más rápido, la presión es menor.\n\n**Teorema de Torricelli**: salida por un orificio a profundidad $h$:\n\n$$v = \\sqrt{2gh}$$\n\nEjemplo: un agujero 5 m bajo la superficie, con $g = 10$ m/s².\n\n$$v = \\sqrt{100} = 10\\ \\text{m/s}$$\n\nEjemplo de tubo horizontal: agua pasa de 2 m/s a 4 m/s.\n\n$$\\Delta P = \\frac{1}{2}(1000)(16 - 4) = 6000\\ \\text{Pa}$$\n\nLa presión baja 6000 Pa en el tramo rápido.\n\nAplicaciones: atomizadores, chimeneas y parte de la sustentación de un ala.",
-"truco": "Fluido rápido, presión baja.",
-"practica": {
-"ejercicio": "¿A qué velocidad sale agua por un orificio 20 m bajo la superficie, con $g=10$ m/s²?",
-"respuesta": "20 m/s."
-},
-"analogias": [
-{
-"titulo": "La cortina de la regadera",
-"texto": "El chorro rápido baja la presión adentro y la cortina se acerca a ti."
-},
-{
-"titulo": "Dos hojas",
-"texto": "Si soplas entre dos hojas colgadas, se juntan en lugar de separarse."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Agua pasa de 1 a 3 m/s en un tubo plano. ¿Cuánto baja la presión?",
-"respuesta": "4000 Pa."
-},
-{
-"ejercicio": "¿Qué le pasa a la presión si baja la velocidad a igual altura?",
-"respuesta": "Aumenta."
-},
-{
-"ejercicio": "Di una aplicación de Bernoulli.",
-"respuesta": "Un atomizador."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Ley de Coulomb",
-"slug": "ley-de-coulomb-prepa",
-"palabras": [
-"Coulomb",
-"fuerza eléctrica",
-"superposición",
-"cargas puntuales"
-],
-"contenido": {
-"idea": "Las cargas se empujan y atraen a distancia, con una regla casi igual a la de la gravedad, aunque muchísimo más fuerte entre partículas.",
-"pizarron": "$$F = k\\frac{|q_1 q_2|}{r^2} \\qquad k = 9 \\times 10^{9}\\ \\text{N·m}^2/\\text{C}^2$$\n\nEjemplo: $q_1 = 2\\ \\mu$C, $q_2 = 3\\ \\mu$C, $r = 0.3$ m.\n\n$$F = \\frac{(9\\times10^{9})(2\\times10^{-6})(3\\times10^{-6})}{0.09} = 0.6\\ \\text{N}$$\n\n**Superposición**: la fuerza total es la suma vectorial.\n\nEjemplo: una carga en medio de otras dos que la empujan en sentidos opuestos con 5 N y 2 N. La neta es 3 N hacia el lado del empuje mayor.\n\nCarga del electrón: $e = 1.6 \\times 10^{-19}$ C.\n\nPrefijos: $\\mu$C $= 10^{-6}$ C; nC $= 10^{-9}$ C.",
-"truco": "Doble distancia, cuarta parte de fuerza.",
-"practica": {
-"ejercicio": "Si duplicas ambas cargas, ¿qué pasa con $F$?",
-"respuesta": "Se multiplica por 4."
-},
-"analogias": [
-{
-"titulo": "Luz de una lámpara",
-"texto": "Como la luz se reparte al alejarte, la fuerza baja con el cuadrado de la distancia."
-},
-{
-"titulo": "Hermana de la gravedad",
-"texto": "Tiene la misma forma que la gravitación, pero también puede repeler."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Calcula $F$ con $q_1=q_2=1\\ \\mu$C y $r=1$ m.",
-"respuesta": "0.009 N."
-},
-{
-"ejercicio": "Si $r$ se reduce a la mitad, ¿qué pasa con $F$?",
-"respuesta": "Se multiplica por 4."
-},
-{
-"ejercicio": "¿Cuántos electrones hay en 1 C?",
-"respuesta": "Unos $6.25 \\times 10^{18}$."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Campo eléctrico",
-"slug": "campo-electrico-prepa",
-"palabras": [
-"campo eléctrico",
-"líneas de campo",
-"N/C",
-"carga de prueba"
-],
-"contenido": {
-"idea": "Alrededor de una carga hay una influencia invisible, como el calor cerca de una fogata. Cualquier otra carga que entre la siente.",
-"pizarron": "El **campo eléctrico** es la fuerza por unidad de carga positiva:\n\n$$\\vec{E} = \\frac{\\vec{F}}{q}$$\n\nUnidad: N/C.\n\n**Carga puntual**:\n\n$$E = k\\frac{|Q|}{r^2}$$\n\nEjemplo: $Q = 4$ nC a 2 m.\n\n$$E = \\frac{(9\\times10^{9})(4\\times10^{-9})}{4} = 9\\ \\text{N/C}$$\n\nFuerza sobre una carga en ese campo:\n\n$$F = q\\,E$$\n\n**Líneas de campo**:\n\n- Salen de cargas positivas.\n- Entran a cargas negativas.\n- No se cruzan.\n- Si están juntas, el campo es más intenso.\n\nEntre placas paralelas, el campo es casi uniforme.",
-"truco": "Las líneas salen de + y entran a −.",
-"practica": {
-"ejercicio": "Una carga de 2 C recibe 10 N. ¿Cuánto vale $E$?",
-"respuesta": "5 N/C."
-},
-"analogias": [
-{
-"titulo": "El mapa del clima",
-"texto": "Como un mapa dice el viento en cada punto, el campo dice la fuerza en cada lugar."
-},
-{
-"titulo": "La fogata",
-"texto": "Entre más cerca, más intenso; lo notas sin tocar la fuente."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Halla $F$ sobre $3\\ \\mu$C en $E=1000$ N/C.",
-"respuesta": "0.003 N."
-},
-{
-"ejercicio": "Halla $E$ a 3 m de $Q=9$ nC.",
-"respuesta": "9 N/C."
-},
-{
-"ejercicio": "¿Pueden cruzarse las líneas de campo?",
-"respuesta": "No."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Potencial eléctrico",
-"slug": "potencial-electrico-prepa",
-"palabras": [
-"potencial eléctrico",
-"voltaje",
-"energía potencial eléctrica",
-"volt"
-],
-"contenido": {
-"idea": "Un voltaje es como una altura para las cargas. Una carga en un punto alto tiene energía lista para bajar por un cable.",
-"pizarron": "**Energía potencial eléctrica** entre dos cargas:\n\n$$U = k\\frac{q_1 q_2}{r}$$\n\n**Potencial**: energía por unidad de carga.\n\n$$V = \\frac{U}{q}$$\n\nUnidad: volt, $1\\ \\text{V} = 1\\ \\text{J/C}$.\n\n**Carga puntual**:\n\n$$V = k\\frac{Q}{r}$$\n\nEjemplo: $Q = 1$ nC a 1 m: $V = 9$ V.\n\n**Trabajo** para mover una carga:\n\n$$W = q\\,\\Delta V$$\n\nEjemplo: 2 C con 12 V.\n\n$$W = 24\\ \\text{J}$$\n\n**Campo uniforme**:\n\n$$E = \\frac{\\Delta V}{d}$$\n\nEjemplo: 100 V entre placas a 0.02 m: $E = 5000$ V/m.\n\nEl potencial es escalar, por lo que se suma sin vectores, con su signo.",
-"truco": "Volt es joule por coulomb.",
-"practica": {
-"ejercicio": "¿Cuánto trabajo mueve 3 C entre 5 V?",
-"respuesta": "15 J."
-},
-"analogias": [
-{
-"titulo": "La altura",
-"texto": "El voltaje hace para las cargas lo que la altura hace para un objeto que puede caer."
-},
-{
-"titulo": "El tinaco",
-"texto": "Entre más alto el tinaco, mayor presión; más voltaje, más empuje para las cargas."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Halla $V$ a 2 m de $Q=2$ nC.",
-"respuesta": "9 V."
-},
-{
-"ejercicio": "¿Cuál es $E$ con 300 V entre placas a 0.1 m?",
-"respuesta": "3000 V/m."
-},
-{
-"ejercicio": "¿El potencial es escalar o vector?",
-"respuesta": "Escalar."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Ley de Ohm",
-"slug": "ley-de-ohm-prepa",
-"palabras": [
-"ley de Ohm",
-"resistividad",
-"resistencia",
-"materiales óhmicos"
-],
-"contenido": {
-"idea": "Un cable largo y delgado se calienta y estorba más que uno corto y grueso. La ley de Ohm conecta eso con voltaje y corriente.",
-"pizarron": "**Ley de Ohm**:\n\n$$V = I\\,R$$\n\nEn un material **óhmico**, $V$ contra $I$ es una recta de pendiente $R$.\n\n**Resistencia de un cable**:\n\n$$R = \\rho\\frac{L}{A}$$\n\n$\\rho$ es la resistividad.\n\nEjemplo: cobre, $\\rho = 1.7 \\times 10^{-8}$ $\\Omega$·m, $L = 100$ m, $A = 1 \\times 10^{-6}$ m².\n\n$$R = (1.7\\times10^{-8})\\frac{100}{10^{-6}} = 1.7\\ \\Omega$$\n\nCon una pila de 3.4 V:\n\n$$I = \\frac{3.4}{1.7} = 2\\ \\text{A}$$\n\nLa resistencia de los metales aumenta con la temperatura.\n\nDuplicar la longitud duplica $R$; duplicar el área la reduce a la mitad.",
-"truco": "Cable largo y delgado: resistencia alta.",
-"practica": {
-"ejercicio": "¿Cuánto vale $R$ con 24 V y 3 A?",
-"respuesta": "8 $\\Omega$."
-},
-"analogias": [
-{
-"titulo": "Popote largo",
-"texto": "Tomar por un popote largo y delgado es más difícil que por uno corto y ancho."
-},
-{
-"titulo": "Pasillo con gente",
-"texto": "Más gente agitada, como al subir la temperatura, dificulta caminar por él."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Si la longitud de un cable se triplica, ¿qué pasa con $R$?",
-"respuesta": "Se triplica."
-},
-{
-"ejercicio": "Con 10 $\\Omega$ y 2 A, halla $V$.",
-"respuesta": "20 V."
-},
-{
-"ejercicio": "Si el diámetro se duplica, ¿qué pasa con $R$?",
-"respuesta": "Se reduce a la cuarta parte."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Resistencias en serie y paralelo",
-"slug": "resistencias-en-serie-y-paralelo-prepa",
-"palabras": [
-"serie",
-"paralelo",
-"resistencia equivalente",
-"circuito mixto"
-],
-"contenido": {
-"idea": "Un circuito complicado se resuelve como un rompecabezas: agrupa piezas sencillas hasta dejar una sola resistencia.",
-"pizarron": "**Serie**:\n\n$$R_{eq} = R_1 + R_2 + \\dots$$\n\nMisma corriente, el voltaje se reparte.\n\n**Paralelo**:\n\n$$\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\dots$$\n\nMismo voltaje, la corriente se reparte.\n\nPara dos:\n\n$$R_{eq} = \\frac{R_1 R_2}{R_1 + R_2}$$\n\n**Ejemplo mixto**: $R_1 = 4\\ \\Omega$ en serie con el paralelo de 6 $\\Omega$ y 3 $\\Omega$. Fuente de 12 V.\n\n$$R_p = \\frac{(6)(3)}{9} = 2\\ \\Omega$$\n\n$$R_{eq} = 6\\ \\Omega \\quad I = 2\\ \\text{A}$$\n\nVoltaje en $R_p$: $2 \\times 2 = 4$ V.\n\nCorrientes: $4/6 \\approx 0.67$ A y $4/3 \\approx 1.33$ A, que suman 2 A.",
-"truco": "Dos en paralelo: producto entre suma.",
-"practica": {
-"ejercicio": "Halla $R_{eq}$ de 12 $\\Omega$ y 6 $\\Omega$ en paralelo.",
-"respuesta": "4 $\\Omega$."
-},
-"analogias": [
-{
-"titulo": "Peajes y carriles",
-"texto": "En serie, varias casetas seguidas; en paralelo, varias casetas para escoger."
-},
-{
-"titulo": "Doblar una cuerda",
-"texto": "Reduces la red paso a paso, como cerrar una cuerda doblada varias veces."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Tres de 9 $\\Omega$ en paralelo: halla $R_{eq}$.",
-"respuesta": "3 $\\Omega$."
-},
-{
-"ejercicio": "5 $\\Omega$ en serie con el paralelo de 10 $\\Omega$ y 10 $\\Omega$: halla $R_{eq}$.",
-"respuesta": "10 $\\Omega$."
-},
-{
-"ejercicio": "Con 20 V en ese circuito, halla $I$.",
-"respuesta": "2 A."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Leyes de Kirchhoff",
-"slug": "leyes-de-kirchhoff-prepa",
-"palabras": [
-"Kirchhoff",
-"nodos",
-"mallas",
-"circuitos"
-],
-"contenido": {
-"idea": "En una glorieta entran y salen coches sin que se acumulen. En un circuito, la corriente cumple la misma regla.",
-"pizarron": "**Ley de nodos**: la corriente que entra a un nodo es igual a la que sale.\n\n$$\\sum I_{entra} = \\sum I_{sale}$$\n\nSe basa en la conservación de la carga.\n\n**Ley de mallas**: en un camino cerrado, la suma de voltajes es cero.\n\n$$\\sum V = 0$$\n\nSe basa en la conservación de la energía.\n\n**Signos**: al recorrer una resistencia con la corriente, resta $IR$. Al pasar una pila de $-$ a $+$, suma.\n\nEjemplo: una pila de 12 V y dos resistencias en serie de 2 $\\Omega$ y 4 $\\Omega$.\n\n$$12 - 2I - 4I = 0 \\Rightarrow I = 2\\ \\text{A}$$\n\nEjemplo de nodo: entran 5 A y salen 3 A y $I$.\n\n$$5 = 3 + I \\Rightarrow I = 2\\ \\text{A}$$\n\nSi una corriente sale negativa, solo fue en sentido contrario al que supusiste.",
-"truco": "Nodo conserva carga; malla conserva energía.",
-"practica": {
-"ejercicio": "Entran 8 A a un nodo; salen 2 A y $I$. Halla $I$.",
-"respuesta": "6 A."
-},
-"analogias": [
-{
-"titulo": "La glorieta",
-"texto": "Los coches que entran salen; ninguno se queda dentro por siempre."
-},
-{
-"titulo": "La montaña rusa",
-"texto": "Al dar una vuelta completa regresas a la misma altura: lo que subiste es lo que bajaste."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Pila de 10 V con 5 $\\Omega$ en malla: halla $I$.",
-"respuesta": "2 A."
-},
-{
-"ejercicio": "Malla con 9 V, 1 $\\Omega$ y 2 $\\Omega$ en serie: halla $I$.",
-"respuesta": "3 A."
-},
-{
-"ejercicio": "¿Qué significa una corriente negativa en el resultado?",
-"respuesta": "Que va en sentido contrario al supuesto."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Potencia eléctrica",
-"slug": "potencia-electrica-prepa",
-"palabras": [
-"potencia",
-"efecto Joule",
-"kWh",
-"P = VI"
-],
-"contenido": {
-"idea": "Una resistencia de estufa se pone al rojo con la corriente. La energía eléctrica se transforma en calor a cierto ritmo: su potencia.",
-"pizarron": "$$P = V\\,I = I^2 R = \\frac{V^2}{R}$$\n\nEjemplo: resistencia de 10 $\\Omega$ con 2 A.\n\n$$P = (2)^2(10) = 40\\ \\text{W}$$\n\n**Efecto Joule**: la corriente calienta los conductores.\n\n$$Q = I^2 R\\,t$$\n\nEjemplo: 40 W durante 60 s dan 2400 J.\n\n**Energía consumida**: $E = P\\,t$.\n\nUna secadora de 1500 W por 2 h:\n\n$$E = 1.5 \\times 2 = 3\\ \\text{kWh}$$\n\n**Transmisión eléctrica**: se usa alto voltaje para reducir la corriente, y así perder menos calor en los cables.\n\nSi a una resistencia se le duplica $V$, su potencia se multiplica por 4.",
-"truco": "Elige la forma de P con los datos que tengas.",
-"practica": {
-"ejercicio": "¿Qué potencia da una resistencia de 5 $\\Omega$ con 10 V?",
-"respuesta": "20 W."
-},
-"analogias": [
-{
-"titulo": "La tostadora",
-"texto": "Sus alambres resisten el paso de la corriente y por eso brillan y dan calor."
-},
-{
-"titulo": "Fricción de cargas",
-"texto": "Las cargas chocan con los átomos del cable, como manos frotándose."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Con 127 V y 5 A, halla $P$.",
-"respuesta": "635 W."
-},
-{
-"ejercicio": "Con 3 A y 4 $\\Omega$, halla $P$.",
-"respuesta": "36 W."
-},
-{
-"ejercicio": "¿Por qué las líneas usan alto voltaje?",
-"respuesta": "Porque reduce la corriente y las pérdidas por calor."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Capacitores",
-"slug": "capacitores-prepa",
-"palabras": [
-"capacitor",
-"capacitancia",
-"farad",
-"energía almacenada"
-],
-"contenido": {
-"idea": "El flash de una cámara se carga y luego dispara en un instante. Un capacitor guarda carga y la suelta de golpe.",
-"pizarron": "Un **capacitor** son dos placas conductoras separadas que guardan carga.\n\n$$C = \\frac{Q}{V}$$\n\nUnidad: farad (F). Lo común son $\\mu$F y pF.\n\n**Placas paralelas**:\n\n$$C = \\varepsilon_0\\frac{A}{d}$$\n\n**Energía guardada**:\n\n$$U = \\frac{1}{2}C V^2$$\n\nEjemplo: 100 $\\mu$F a 10 V.\n\n$$Q = (100\\times10^{-6})(10) = 1\\times10^{-3}\\ \\text{C}$$\n\n$$U = \\frac{1}{2}(10^{-4})(100) = 0.005\\ \\text{J}$$\n\n**Asociaciones** (al revés que las resistencias):\n\n- Paralelo: $C_{eq} = C_1 + C_2$.\n- Serie: $\\dfrac{1}{C_{eq}} = \\dfrac{1}{C_1} + \\dfrac{1}{C_2}$.",
-"truco": "Capacitores: en paralelo se suman.",
-"practica": {
-"ejercicio": "Con $C=2$ F y $V=3$ V, ¿cuánta carga guarda?",
-"respuesta": "6 C."
-},
-"analogias": [
-{
-"titulo": "Tinaco pequeño",
-"texto": "Guarda agua y la suelta de golpe, mientras una pila entrega poco a poco."
-},
-{
-"titulo": "Resorte comprimido",
-"texto": "Almacena energía en poco tiempo y la libera con rapidez."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Halla $C_{eq}$ de 4 $\\mu$F y 6 $\\mu$F en paralelo.",
-"respuesta": "10 $\\mu$F."
-},
-{
-"ejercicio": "Halla $C_{eq}$ de dos de 8 $\\mu$F en serie.",
-"respuesta": "4 $\\mu$F."
-},
-{
-"ejercicio": "Halla $U$ con 2 F y 3 V.",
-"respuesta": "9 J."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Fuerza magnética",
-"slug": "fuerza-magnetica-prepa",
-"palabras": [
-"fuerza de Lorentz",
-"campo magnético",
-"tesla",
-"regla de la mano derecha"
-],
-"contenido": {
-"idea": "Un electrón en movimiento se desvía cerca de un imán. Así funcionaban las pantallas viejas de televisión, y así gira un motor.",
-"pizarron": "**Sobre una carga en movimiento**:\n\n$$F = q\\,v\\,B\\sin\\theta$$\n\n$B$ se mide en **tesla** (T).\n\nEjemplo: $q = 2 \\times 10^{-6}$ C, $v = 1000$ m/s, $B = 0.5$ T, $\\theta = 90°$.\n\n$$F = (2\\times10^{-6})(1000)(0.5) = 0.001\\ \\text{N}$$\n\n**Sobre un cable con corriente**:\n\n$$F = B\\,I\\,L\\sin\\theta$$\n\nEjemplo: 0.2 T, 3 A, 2 m, perpendicular.\n\n$$F = 1.2\\ \\text{N}$$\n\n**Regla de la mano derecha**: dedos en $\\vec{v}$, los doblas hacia $\\vec{B}$; el pulgar da la fuerza sobre carga positiva.\n\nSi la carga va paralela al campo, la fuerza es cero.\n\nLa fuerza es perpendicular a $v$, por lo que curva la trayectoria sin cambiar la rapidez.",
-"truco": "Sin movimiento no hay fuerza magnética sobre la carga.",
-"practica": {
-"ejercicio": "Calcula $F$ con $B=2$ T, $I=1$ A, $L=3$ m y perpendicular.",
-"respuesta": "6 N."
-},
-"analogias": [
-{
-"titulo": "El viento lateral",
-"texto": "Como un viento que desvía una pelota, el campo curva la carga en movimiento."
-},
-{
-"titulo": "El motor",
-"texto": "La corriente en bobinas recibe fuerza magnética que empuja y hace girar el eje."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "¿Cuánto vale $F$ si $v$ es paralela a $B$?",
-"respuesta": "Cero."
-},
-{
-"ejercicio": "Con $q=1$ C, $v=10$ m/s, $B=0.1$ T, perpendicular, halla $F$.",
-"respuesta": "1 N."
-},
-{
-"ejercicio": "¿Hace trabajo la fuerza magnética sobre la carga?",
-"respuesta": "No, porque es perpendicular a la velocidad."
-}
-]
-}
-},
-{
-"nodo_id": "ems-073",
-"titulo": "Ley de Faraday",
-"slug": "ley-de-faraday-prepa",
-"palabras": [
-"Faraday",
-"flujo magnético",
-"Lenz",
-"fem inducida"
-],
-"contenido": {
-"idea": "Mueve un imán cerca de un alambre enrollado y aparece electricidad. Si el imán se queda quieto, no pasa nada.",
-"pizarron": "**La ley:** el voltaje inducido en un circuito es proporcional a la rapidez con que cambia el flujo magnético que lo atraviesa.\n\n$$\\varepsilon = -N\\frac{\\Delta\\Phi}{\\Delta t}$$\n\n**Qué quiere decir:** si cambian los hilos invisibles del imán que cruzan un alambre, aparece electricidad. Entre más rápido cambian, más electricidad hay.\n\n$\\Phi$ es el flujo: cuántos hilos cruzan.\n\n$N$ son las vueltas del alambre.\n\n$\\Delta\\Phi$ es cuánto cambiaron los hilos.\n\n$\\Delta t$ es cuánto tardó el cambio.\n\nEl signo menos es la **ley de Lenz**: la corriente se opone al cambio que la creó.\n\n**Ejemplo.** Hay 100 vueltas. Los hilos cambian 0.02 en 0.5 segundos.\n\nPrimero divide: $0.02 \\div 0.5 = 0.04$.\n\nLuego multiplica por las vueltas: $100 \\times 0.04 = 4$.\n\nEl voltaje mide 4 volts.",
-"truco": "Más vueltas y cambio más rápido, más voltaje.",
-"practica": {
-"ejercicio": "Con 200 vueltas y 0.01 Wb en 0.2 s, halla $|\\varepsilon|$.",
-"respuesta": "10 V."
-},
-"analogias": [
-{
-"titulo": "El dínamo",
-"texto": "Pedalea más rápido y el foco brilla más, porque el flujo cambia más aprisa."
-},
-{
-"titulo": "Terco como Lenz",
-"texto": "La naturaleza se resiste al cambio: la corriente inducida intenta conservar lo que había."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "$B=0.5$ T, $A=0.2$ m², $\\theta=0°$. Halla $\\Phi$.",
-"respuesta": "0.1 Wb."
-},
-{
-"ejercicio": "Transformador 1000:100 con 200 V. Halla $V_s$.",
-"respuesta": "20 V."
-},
-{
-"ejercicio": "¿Qué dice la ley de Lenz?",
-"respuesta": "La corriente inducida se opone al cambio que la produce."
-}
-]
-}
-},
-{
-"nodo_id": "ems-075",
-"titulo": "Ley de gravitación con problemas",
-"slug": "ley-de-gravitacion-con-problemas-prepa",
-"palabras": [
-"gravitación universal",
-"G",
-"órbitas",
-"Newton"
-],
-"contenido": {
-"idea": "La fuerza que hace caer una manzana también mantiene a la Luna en órbita. Con una sola ecuación se calculan ambas cosas.",
-"pizarron": "**Ley de gravitación universal**:\n\n$$F = G\\frac{m_1 m_2}{r^2} \\qquad G = 6.67 \\times 10^{-11}\\ \\text{N·m}^2/\\text{kg}^2$$\n\nEjemplo: dos personas de 100 kg a 1 m.\n\n$$F = (6.67\\times10^{-11})(10^{4}) = 6.67\\times10^{-7}\\ \\text{N}$$\n\n**Gravedad en un planeta**:\n\n$$g = \\frac{GM}{R^2}$$\n\nSi el radio se duplica con igual masa, $g$ baja a la cuarta parte.\n\n**Órbita circular**: la gravedad es la fuerza centrípeta.\n\n$$\\frac{GMm}{r^2} = \\frac{mv^2}{r} \\Rightarrow v = \\sqrt{\\frac{GM}{r}}$$\n\nLa velocidad orbital no depende de la masa del satélite.\n\nEjemplo: con $M = 6\\times10^{24}$ kg y $r = 7\\times10^{6}$ m, $v \\approx 7.6$ km/s.",
-"truco": "Masas arriba, distancia al cuadrado abajo.",
-"practica": {
-"ejercicio": "Si la distancia se triplica, ¿qué pasa con $F$?",
-"respuesta": "Baja a la novena parte."
-},
-"analogias": [
-{
-"titulo": "Lanzar y caer",
-"texto": "Un satélite cae todo el tiempo, pero va tan rápido que nunca llega al suelo."
-},
-{
-"titulo": "Luz de un foco",
-"texto": "Se reparte conforme te alejas, y la fuerza gravitacional baja igual con la distancia."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Si una masa se duplica, ¿qué pasa con $F$?",
-"respuesta": "Se duplica."
-},
-{
-"ejercicio": "Un planeta tiene doble masa y doble radio que la Tierra. ¿Cómo es su $g$?",
-"respuesta": "La mitad."
-},
-{
-"ejercicio": "¿Depende $v$ orbital de la masa del satélite?",
-"respuesta": "No."
-}
-]
-}
-}
+  {
+    "nodo_id": "ems-072",
+    "titulo": "Densidad y presión",
+    "slug": "densidad-y-presion-prepa",
+    "palabras": [
+      "densidad",
+      "presión",
+      "presión absoluta",
+      "presión manométrica"
+    ],
+    "contenido": {
+      "idea": "En la Ciudad de México hierve el agua antes de 100 °C porque hay menos aire encima. Presión y densidad explican por qué.",
+      "pizarron": "**La regla:** $\\rho = \\frac{m}{V}$ y $P = \\frac{F}{A}$.\n\n**Densidad**: $\\rho = \\dfrac{m}{V}$.\n\n**Presión**: $P = \\dfrac{F}{A}$.\n\n**Presión en un fluido**:\n\n$$P = P_0 + \\rho g h$$\n\n$P_0$ es la presión en la superficie.\n\n- **Presión absoluta**: la total.\n- **Presión manométrica**: la que excede a la atmosférica, $\\rho g h$.\n\nAl nivel del mar, $P_{atm} \\approx 1.013 \\times 10^{5}$ Pa.\n\nEjemplo: a 20 m de profundidad en agua dulce.\n\n$$P_m = (1000)(9.8)(20) = 196\\,000\\ \\text{Pa}$$\n\n$$P_{abs} = 196\\,000 + 101\\,300 = 297\\,300\\ \\text{Pa}$$\n\nCada 10 m de agua agregan cerca de una atmósfera.\n\nA mayor altitud hay menos aire encima y menor presión.",
+      "truco": "Cada 10 m de agua suman casi una atmósfera.",
+      "practica": {
+        "ejercicio": "Halla la presión manométrica a 5 m de agua, con $g=10$ m/s².",
+        "respuesta": "50 000 Pa."
+      },
+      "analogias": [
+        {
+          "titulo": "El océano de aire",
+          "texto": "Vivimos en el fondo de un mar de aire; en lo alto del cerro hay menos encima."
+        },
+        {
+          "titulo": "La pila de libros",
+          "texto": "Abajo soportas todos los libros; arriba, muy pocos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué masa tienen 2 m³ de agua?",
+          "respuesta": "2000 kg."
+        },
+        {
+          "ejercicio": "Con $P_{atm}=100\\,000$ Pa y $P_m=30\\,000$ Pa, halla $P_{abs}$.",
+          "respuesta": "130 000 Pa."
+        },
+        {
+          "ejercicio": "¿Por qué el agua hierve antes en lo alto?",
+          "respuesta": "Porque la presión atmosférica es menor."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-072",
+    "titulo": "Principio de Pascal con problemas",
+    "slug": "principio-de-pascal-con-problemas-prepa",
+    "palabras": [
+      "Pascal",
+      "prensa hidráulica",
+      "áreas",
+      "radios"
+    ],
+    "contenido": {
+      "idea": "Un frenazo fuerte empieza con un pequeño pisotón al pedal. El líquido lleva esa presión hasta las cuatro ruedas.",
+      "pizarron": "**La ley:** la presión se transmite igual: $\\frac{F_1}{A_1} = \\frac{F_2}{A_2}$.\n\nLa presión se transmite por igual:\n\n$$\\frac{F_1}{A_1} = \\frac{F_2}{A_2}$$\n\nComo el líquido no se comprime, los volúmenes coinciden:\n\n$$A_1 d_1 = A_2 d_2$$\n\n**Con radios**, las áreas van con $r^2$:\n\n$$\\frac{F_2}{F_1} = \\left(\\frac{r_2}{r_1}\\right)^2$$\n\nEjemplo: radios de 2 cm y 10 cm; carga de 5000 N.\n\n$$F_1 = 5000 \\times \\left(\\frac{2}{10}\\right)^2 = 200\\ \\text{N}$$\n\nSi la carga sube 1 cm, el émbolo chico baja:\n\n$$d_1 = 1 \\times 25 = 25\\ \\text{cm}$$\n\nEl trabajo es igual en ambos lados: $200(0.25) = 5000(0.01) = 50$ J.",
+      "truco": "Si dan radios, eleva la razón al cuadrado.",
+      "practica": {
+        "ejercicio": "Radios de 1 cm y 5 cm. ¿Cuántas veces se multiplica la fuerza?",
+        "respuesta": "25 veces."
+      },
+      "analogias": [
+        {
+          "titulo": "Las palancas líquidas",
+          "texto": "Es una palanca hecha de líquido: gana fuerza y paga con mayor recorrido."
+        },
+        {
+          "titulo": "Pedal del freno",
+          "texto": "El pie mueve mucho el pedal y las balatas se mueven apenas, pero con gran fuerza."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Con $A_1=2$ cm², $A_2=200$ cm² y $F_2=10\\,000$ N, halla $F_1$.",
+          "respuesta": "100 N."
+        },
+        {
+          "ejercicio": "Con esos datos, si $d_2=1$ cm, halla $d_1$.",
+          "respuesta": "100 cm."
+        },
+        {
+          "ejercicio": "¿La prensa hidráulica ahorra trabajo?",
+          "respuesta": "No, solo reduce la fuerza."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-072",
+    "titulo": "Principio de Arquímedes con problemas",
+    "slug": "principio-de-arquimedes-con-problemas-prepa",
+    "palabras": [
+      "Arquímedes",
+      "empuje",
+      "peso aparente",
+      "fracción sumergida"
+    ],
+    "contenido": {
+      "idea": "Solo la punta de un iceberg se ve sobre el mar. Con Arquímedes puedes calcular qué fracción queda oculta bajo el agua.",
+      "pizarron": "**La ley:** el empuje es igual al peso del fluido desalojado: $E = \\rho g V$.\n\n**Empuje**:\n\n$$E = \\rho_f\\,g\\,V_s$$\n\n**Peso aparente** de un cuerpo sumergido:\n\n$$P_a = P - E$$\n\nEjemplo: un bloque de 3 kg y 0.001 m³ en agua, con $g = 10$ m/s².\n\n$$P = 30\\ \\text{N} \\quad E = 10\\ \\text{N} \\quad P_a = 20\\ \\text{N}$$\n\n**Cuerpo que flota**: empuje igual a peso.\n\n$$\\rho_f V_s = \\rho_c V$$\n\n$$\\frac{V_s}{V} = \\frac{\\rho_c}{\\rho_f}$$\n\nEjemplo: hielo (0.92 g/cm³) en agua dulce (1 g/cm³).\n\n$$\\frac{V_s}{V} = 0.92$$\n\nEl 92 % queda sumergido.\n\nCon peso real y aparente se calcula la densidad de un objeto.",
+      "truco": "Si flota, fracción sumergida es razón de densidades.",
+      "practica": {
+        "ejercicio": "Una madera de 0.6 g/cm³ flota en agua. ¿Qué fracción queda sumergida?",
+        "respuesta": "0.6, es decir, 60 %."
+      },
+      "analogias": [
+        {
+          "titulo": "El iceberg",
+          "texto": "Su densidad, muy cercana a la del agua, deja casi todo escondido."
+        },
+        {
+          "titulo": "La corona",
+          "texto": "Arquímedes comparó el agua desplazada para saber si la corona era de oro puro."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Un objeto pesa 50 N y 30 N en agua. ¿Cuál es el empuje?",
+          "respuesta": "20 N."
+        },
+        {
+          "ejercicio": "Con ese empuje y $g=10$ m/s², ¿qué volumen tiene?",
+          "respuesta": "0.002 m³."
+        },
+        {
+          "ejercicio": "Halla su densidad, si pesa 50 N.",
+          "respuesta": "2500 kg/m³."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-072",
+    "titulo": "Ecuación de continuidad",
+    "slug": "ecuacion-de-continuidad-prepa",
+    "palabras": [
+      "continuidad",
+      "caudal",
+      "gasto",
+      "fluidos en movimiento"
+    ],
+    "contenido": {
+      "idea": "Si tapas parte de la salida de una manguera, el agua sale más rápido. Lo que entra debe salir, así que acelera.",
+      "pizarron": "**La ley:** en un tubo, lo que entra debe salir: $A_1 v_1 = A_2 v_2$.\n\n**Caudal o gasto**: volumen que pasa por segundo.\n\n$$Q = \\frac{V}{t} = A\\,v$$\n\nUnidad: m³/s.\n\n**Ecuación de continuidad** para un fluido incompresible:\n\n$$A_1 v_1 = A_2 v_2$$\n\nSi el área baja, la velocidad sube.\n\nEjemplo: un tubo pasa de 10 cm² a 2 cm², con $v_1 = 1$ m/s.\n\n$$v_2 = \\frac{10 \\times 1}{2} = 5\\ \\text{m/s}$$\n\nEjemplo: una llave llena 20 L en 40 s.\n\n$$Q = 0.5\\ \\text{L/s}$$\n\nCon radios:\n\n$$\\frac{v_2}{v_1} = \\left(\\frac{r_1}{r_2}\\right)^2$$",
+      "truco": "Tubo angosto, agua rápida.",
+      "practica": {
+        "ejercicio": "Con $A=0.02$ m² y $v=3$ m/s, halla $Q$.",
+        "respuesta": "0.06 m³/s."
+      },
+      "analogias": [
+        {
+          "titulo": "La autopista",
+          "texto": "Si tres carriles se reducen a uno, cada coche debe avanzar más rápido para mantener el flujo."
+        },
+        {
+          "titulo": "El río",
+          "texto": "En tramos estrechos el agua corre fuerte; en los anchos parece quieta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "$A_1=6$ cm², $v_1=2$ m/s, $A_2=3$ cm². Halla $v_2$.",
+          "respuesta": "4 m/s."
+        },
+        {
+          "ejercicio": "Si el radio se reduce a la mitad, ¿cómo cambia $v$?",
+          "respuesta": "Se multiplica por 4."
+        },
+        {
+          "ejercicio": "¿Cuánto tarda 100 L con $Q=2$ L/s?",
+          "respuesta": "50 s."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-072",
+    "titulo": "Principio de Bernoulli",
+    "slug": "principio-de-bernoulli-prepa",
+    "palabras": [
+      "Bernoulli",
+      "presión",
+      "velocidad",
+      "aviones"
+    ],
+    "contenido": {
+      "idea": "Sopla por encima de una hoja y esta sube. El aire rápido presiona menos y el de abajo la empuja.",
+      "pizarron": "**La ley:** donde un fluido va más rápido, su presión es menor.\n\n**Ecuación de Bernoulli**, para un fluido ideal:\n\n$$P + \\frac{1}{2}\\rho v^2 + \\rho g h = \\text{constante}$$\n\nA igual altura, donde el fluido va más rápido, la presión es menor.\n\n**Teorema de Torricelli**: salida por un orificio a profundidad $h$:\n\n$$v = \\sqrt{2gh}$$\n\nEjemplo: un agujero 5 m bajo la superficie, con $g = 10$ m/s².\n\n$$v = \\sqrt{100} = 10\\ \\text{m/s}$$\n\nEjemplo de tubo horizontal: agua pasa de 2 m/s a 4 m/s.\n\n$$\\Delta P = \\frac{1}{2}(1000)(16 - 4) = 6000\\ \\text{Pa}$$\n\nLa presión baja 6000 Pa en el tramo rápido.\n\nAplicaciones: atomizadores, chimeneas y parte de la sustentación de un ala.",
+      "truco": "Fluido rápido, presión baja.",
+      "practica": {
+        "ejercicio": "¿A qué velocidad sale agua por un orificio 20 m bajo la superficie, con $g=10$ m/s²?",
+        "respuesta": "20 m/s."
+      },
+      "analogias": [
+        {
+          "titulo": "La cortina de la regadera",
+          "texto": "El chorro rápido baja la presión adentro y la cortina se acerca a ti."
+        },
+        {
+          "titulo": "Dos hojas",
+          "texto": "Si soplas entre dos hojas colgadas, se juntan en lugar de separarse."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Agua pasa de 1 a 3 m/s en un tubo plano. ¿Cuánto baja la presión?",
+          "respuesta": "4000 Pa."
+        },
+        {
+          "ejercicio": "¿Qué le pasa a la presión si baja la velocidad a igual altura?",
+          "respuesta": "Aumenta."
+        },
+        {
+          "ejercicio": "Di una aplicación de Bernoulli.",
+          "respuesta": "Un atomizador."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Ley de Coulomb",
+    "slug": "ley-de-coulomb-prepa",
+    "palabras": [
+      "Coulomb",
+      "fuerza eléctrica",
+      "superposición",
+      "cargas puntuales"
+    ],
+    "contenido": {
+      "idea": "Las cargas se empujan y atraen a distancia, con una regla casi igual a la de la gravedad, aunque muchísimo más fuerte entre partículas.",
+      "pizarron": "**La ley:** la fuerza entre dos cargas crece con las cargas y baja con el cuadrado de la distancia: $F = k\\frac{|q_1 q_2|}{r^2}$.\n\n$q_1$ y $q_2$ son las cargas. $r$ es la distancia. $k = 9 \\times 10^{9}$.\n\n**Ejemplo:** $2\\ \\mu$C y $3\\ \\mu$C a 0.3 m.\n\n$$F = \\frac{(9\\times10^{9})(2\\times10^{-6})(3\\times10^{-6})}{0.09} = 0.6 \\text{ N}$$\n\n$\\mu$C es una millonésima de coulomb.\n\nSi hay varias cargas, las fuerzas se suman con dirección.\n\n**Para tu escuela:** si la distancia se duplica, ¿qué pasa con la fuerza?",
+      "truco": "Doble distancia, cuarta parte de fuerza.",
+      "practica": {
+        "ejercicio": "Si duplicas ambas cargas, ¿qué pasa con $F$?",
+        "respuesta": "Se multiplica por 4."
+      },
+      "analogias": [
+        {
+          "titulo": "Luz de una lámpara",
+          "texto": "Como la luz se reparte al alejarte, la fuerza baja con el cuadrado de la distancia."
+        },
+        {
+          "titulo": "Hermana de la gravedad",
+          "texto": "Tiene la misma forma que la gravitación, pero también puede repeler."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Calcula $F$ con $q_1=q_2=1\\ \\mu$C y $r=1$ m.",
+          "respuesta": "0.009 N."
+        },
+        {
+          "ejercicio": "Si $r$ se reduce a la mitad, ¿qué pasa con $F$?",
+          "respuesta": "Se multiplica por 4."
+        },
+        {
+          "ejercicio": "¿Cuántos electrones hay en 1 C?",
+          "respuesta": "Unos $6.25 \\times 10^{18}$."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Campo eléctrico",
+    "slug": "campo-electrico-prepa",
+    "palabras": [
+      "campo eléctrico",
+      "líneas de campo",
+      "N/C",
+      "carga de prueba"
+    ],
+    "contenido": {
+      "idea": "Alrededor de una carga hay una influencia invisible, como el calor cerca de una fogata. Cualquier otra carga que entre la siente.",
+      "pizarron": "**Qué es:** el campo eléctrico es la fuerza que sentiría cada unidad de carga en un punto.\n\nEl **campo eléctrico** es la fuerza por unidad de carga positiva:\n\n$$\\vec{E} = \\frac{\\vec{F}}{q}$$\n\nUnidad: N/C.\n\n**Carga puntual**:\n\n$$E = k\\frac{|Q|}{r^2}$$\n\nEjemplo: $Q = 4$ nC a 2 m.\n\n$$E = \\frac{(9\\times10^{9})(4\\times10^{-9})}{4} = 9\\ \\text{N/C}$$\n\nFuerza sobre una carga en ese campo:\n\n$$F = q\\,E$$\n\n**Líneas de campo**:\n\n- Salen de cargas positivas.\n- Entran a cargas negativas.\n- No se cruzan.\n- Si están juntas, el campo es más intenso.\n\nEntre placas paralelas, el campo es casi uniforme.",
+      "truco": "Las líneas salen de + y entran a −.",
+      "practica": {
+        "ejercicio": "Una carga de 2 C recibe 10 N. ¿Cuánto vale $E$?",
+        "respuesta": "5 N/C."
+      },
+      "analogias": [
+        {
+          "titulo": "El mapa del clima",
+          "texto": "Como un mapa dice el viento en cada punto, el campo dice la fuerza en cada lugar."
+        },
+        {
+          "titulo": "La fogata",
+          "texto": "Entre más cerca, más intenso; lo notas sin tocar la fuente."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Halla $F$ sobre $3\\ \\mu$C en $E=1000$ N/C.",
+          "respuesta": "0.003 N."
+        },
+        {
+          "ejercicio": "Halla $E$ a 3 m de $Q=9$ nC.",
+          "respuesta": "9 N/C."
+        },
+        {
+          "ejercicio": "¿Pueden cruzarse las líneas de campo?",
+          "respuesta": "No."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Potencial eléctrico",
+    "slug": "potencial-electrico-prepa",
+    "palabras": [
+      "potencial eléctrico",
+      "voltaje",
+      "energía potencial eléctrica",
+      "volt"
+    ],
+    "contenido": {
+      "idea": "Un voltaje es como una altura para las cargas. Una carga en un punto alto tiene energía lista para bajar por un cable.",
+      "pizarron": "**Qué es:** el potencial eléctrico es la energía por unidad de carga, y se mide en volts.\n\n**Energía potencial eléctrica** entre dos cargas:\n\n$$U = k\\frac{q_1 q_2}{r}$$\n\n**Potencial**: energía por unidad de carga.\n\n$$V = \\frac{U}{q}$$\n\nUnidad: volt, $1\\ \\text{V} = 1\\ \\text{J/C}$.\n\n**Carga puntual**:\n\n$$V = k\\frac{Q}{r}$$\n\nEjemplo: $Q = 1$ nC a 1 m: $V = 9$ V.\n\n**Trabajo** para mover una carga:\n\n$$W = q\\,\\Delta V$$\n\nEjemplo: 2 C con 12 V.\n\n$$W = 24\\ \\text{J}$$\n\n**Campo uniforme**:\n\n$$E = \\frac{\\Delta V}{d}$$\n\nEjemplo: 100 V entre placas a 0.02 m: $E = 5000$ V/m.\n\nEl potencial es escalar, por lo que se suma sin vectores, con su signo.",
+      "truco": "Volt es joule por coulomb.",
+      "practica": {
+        "ejercicio": "¿Cuánto trabajo mueve 3 C entre 5 V?",
+        "respuesta": "15 J."
+      },
+      "analogias": [
+        {
+          "titulo": "La altura",
+          "texto": "El voltaje hace para las cargas lo que la altura hace para un objeto que puede caer."
+        },
+        {
+          "titulo": "El tinaco",
+          "texto": "Entre más alto el tinaco, mayor presión; más voltaje, más empuje para las cargas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Halla $V$ a 2 m de $Q=2$ nC.",
+          "respuesta": "9 V."
+        },
+        {
+          "ejercicio": "¿Cuál es $E$ con 300 V entre placas a 0.1 m?",
+          "respuesta": "3000 V/m."
+        },
+        {
+          "ejercicio": "¿El potencial es escalar o vector?",
+          "respuesta": "Escalar."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Ley de Ohm",
+    "slug": "ley-de-ohm-prepa",
+    "palabras": [
+      "ley de Ohm",
+      "resistividad",
+      "resistencia",
+      "materiales óhmicos"
+    ],
+    "contenido": {
+      "idea": "Un cable largo y delgado se calienta y estorba más que uno corto y grueso. La ley de Ohm conecta eso con voltaje y corriente.",
+      "pizarron": "**La ley:** el voltaje es corriente por resistencia: $V = IR$.\n\n**Ley de Ohm**:\n\n$$V = I\\,R$$\n\nEn un material **óhmico**, $V$ contra $I$ es una recta de pendiente $R$.\n\n**Resistencia de un cable**:\n\n$$R = \\rho\\frac{L}{A}$$\n\n$\\rho$ es la resistividad.\n\nEjemplo: cobre, $\\rho = 1.7 \\times 10^{-8}$ $\\Omega$·m, $L = 100$ m, $A = 1 \\times 10^{-6}$ m².\n\n$$R = (1.7\\times10^{-8})\\frac{100}{10^{-6}} = 1.7\\ \\Omega$$\n\nCon una pila de 3.4 V:\n\n$$I = \\frac{3.4}{1.7} = 2\\ \\text{A}$$\n\nLa resistencia de los metales aumenta con la temperatura.\n\nDuplicar la longitud duplica $R$; duplicar el área la reduce a la mitad.",
+      "truco": "Cable largo y delgado: resistencia alta.",
+      "practica": {
+        "ejercicio": "¿Cuánto vale $R$ con 24 V y 3 A?",
+        "respuesta": "8 $\\Omega$."
+      },
+      "analogias": [
+        {
+          "titulo": "Popote largo",
+          "texto": "Tomar por un popote largo y delgado es más difícil que por uno corto y ancho."
+        },
+        {
+          "titulo": "Pasillo con gente",
+          "texto": "Más gente agitada, como al subir la temperatura, dificulta caminar por él."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Si la longitud de un cable se triplica, ¿qué pasa con $R$?",
+          "respuesta": "Se triplica."
+        },
+        {
+          "ejercicio": "Con 10 $\\Omega$ y 2 A, halla $V$.",
+          "respuesta": "20 V."
+        },
+        {
+          "ejercicio": "Si el diámetro se duplica, ¿qué pasa con $R$?",
+          "respuesta": "Se reduce a la cuarta parte."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Resistencias en serie y paralelo",
+    "slug": "resistencias-en-serie-y-paralelo-prepa",
+    "palabras": [
+      "serie",
+      "paralelo",
+      "resistencia equivalente",
+      "circuito mixto"
+    ],
+    "contenido": {
+      "idea": "Un circuito complicado se resuelve como un rompecabezas: agrupa piezas sencillas hasta dejar una sola resistencia.",
+      "pizarron": "**La regla:** en serie se suman; en paralelo se suman sus inversos.\n\n**Serie**:\n\n$$R_{eq} = R_1 + R_2 + \\dots$$\n\nMisma corriente, el voltaje se reparte.\n\n**Paralelo**:\n\n$$\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\dots$$\n\nMismo voltaje, la corriente se reparte.\n\nPara dos:\n\n$$R_{eq} = \\frac{R_1 R_2}{R_1 + R_2}$$\n\n**Ejemplo mixto**: $R_1 = 4\\ \\Omega$ en serie con el paralelo de 6 $\\Omega$ y 3 $\\Omega$. Fuente de 12 V.\n\n$$R_p = \\frac{(6)(3)}{9} = 2\\ \\Omega$$\n\n$$R_{eq} = 6\\ \\Omega \\quad I = 2\\ \\text{A}$$\n\nVoltaje en $R_p$: $2 \\times 2 = 4$ V.\n\nCorrientes: $4/6 \\approx 0.67$ A y $4/3 \\approx 1.33$ A, que suman 2 A.",
+      "truco": "Dos en paralelo: producto entre suma.",
+      "practica": {
+        "ejercicio": "Halla $R_{eq}$ de 12 $\\Omega$ y 6 $\\Omega$ en paralelo.",
+        "respuesta": "4 $\\Omega$."
+      },
+      "analogias": [
+        {
+          "titulo": "Peajes y carriles",
+          "texto": "En serie, varias casetas seguidas; en paralelo, varias casetas para escoger."
+        },
+        {
+          "titulo": "Doblar una cuerda",
+          "texto": "Reduces la red paso a paso, como cerrar una cuerda doblada varias veces."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Tres de 9 $\\Omega$ en paralelo: halla $R_{eq}$.",
+          "respuesta": "3 $\\Omega$."
+        },
+        {
+          "ejercicio": "5 $\\Omega$ en serie con el paralelo de 10 $\\Omega$ y 10 $\\Omega$: halla $R_{eq}$.",
+          "respuesta": "10 $\\Omega$."
+        },
+        {
+          "ejercicio": "Con 20 V en ese circuito, halla $I$.",
+          "respuesta": "2 A."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Leyes de Kirchhoff",
+    "slug": "leyes-de-kirchhoff-prepa",
+    "palabras": [
+      "Kirchhoff",
+      "nodos",
+      "mallas",
+      "circuitos"
+    ],
+    "contenido": {
+      "idea": "En una glorieta entran y salen coches sin que se acumulen. En un circuito, la corriente cumple la misma regla.",
+      "pizarron": "**La ley:** la corriente que entra a un punto es igual a la que sale. En una vuelta completa, los voltajes suman cero.\n\n**Nodos:** como una glorieta: los coches que entran, salen.\n\nEntran 5 A y salen 3 A e $I$.\n\n$$5 = 3 + I \\Rightarrow I = 2 \\text{ A}$$\n\n**Mallas:** una pila de 12 V con 2 Ω y 4 Ω.\n\n$$12 - 2I - 4I = 0 \\Rightarrow I = 2 \\text{ A}$$\n\nSi te sale negativo, la corriente va al revés de lo que supusiste.\n\n**Para recordar:**\n- **Corriente negativa en el resultado:** Que va en sentido contrario al supuesto.\n\n**Para tu escuela:** entran 8 A y sale 1 A por un lado. ¿Cuánto sale por el otro?",
+      "truco": "Nodo conserva carga; malla conserva energía.",
+      "practica": {
+        "ejercicio": "Entran 8 A a un nodo; salen 2 A y $I$. Halla $I$.",
+        "respuesta": "6 A."
+      },
+      "analogias": [
+        {
+          "titulo": "La glorieta",
+          "texto": "Los coches que entran salen; ninguno se queda dentro por siempre."
+        },
+        {
+          "titulo": "La montaña rusa",
+          "texto": "Al dar una vuelta completa regresas a la misma altura: lo que subiste es lo que bajaste."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Pila de 10 V con 5 $\\Omega$ en malla: halla $I$.",
+          "respuesta": "2 A."
+        },
+        {
+          "ejercicio": "Malla con 9 V, 1 $\\Omega$ y 2 $\\Omega$ en serie: halla $I$.",
+          "respuesta": "3 A."
+        },
+        {
+          "ejercicio": "¿Qué significa una corriente negativa en el resultado?",
+          "respuesta": "Que va en sentido contrario al supuesto."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Potencia eléctrica",
+    "slug": "potencia-electrica-prepa",
+    "palabras": [
+      "potencia",
+      "efecto Joule",
+      "kWh",
+      "P = VI"
+    ],
+    "contenido": {
+      "idea": "Una resistencia de estufa se pone al rojo con la corriente. La energía eléctrica se transforma en calor a cierto ritmo: su potencia.",
+      "pizarron": "**La regla:** $P = VI = I^2R = \\frac{V^2}{R}$.\n\nUsa la que tenga tus datos.\n\n**Ejemplo:** 10 Ω con 2 A.\n\n$$P = 2^2 \\times 10 = 40 \\text{ W}$$\n\n**Efecto Joule:** la corriente calienta los cables. Así funciona una plancha.\n\n**Consumo:** $E = Pt$.\n\nSecadora de 1.5 kW por 2 h:\n\n$$1.5 \\times 2 = 3 \\text{ kWh}$$\n\n**Para recordar:**\n- **¿Por qué las líneas usan alto voltaje?** Porque reduce la corriente y las pérdidas por calor.\n\n**Para tu escuela:** calcula $P$ con 5 Ω y 10 V.",
+      "truco": "Elige la forma de P con los datos que tengas.",
+      "practica": {
+        "ejercicio": "¿Qué potencia da una resistencia de 5 $\\Omega$ con 10 V?",
+        "respuesta": "20 W."
+      },
+      "analogias": [
+        {
+          "titulo": "La tostadora",
+          "texto": "Sus alambres resisten el paso de la corriente y por eso brillan y dan calor."
+        },
+        {
+          "titulo": "Fricción de cargas",
+          "texto": "Las cargas chocan con los átomos del cable, como manos frotándose."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Con 127 V y 5 A, halla $P$.",
+          "respuesta": "635 W."
+        },
+        {
+          "ejercicio": "Con 3 A y 4 $\\Omega$, halla $P$.",
+          "respuesta": "36 W."
+        },
+        {
+          "ejercicio": "¿Por qué las líneas usan alto voltaje?",
+          "respuesta": "Porque reduce la corriente y las pérdidas por calor."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Capacitores",
+    "slug": "capacitores-prepa",
+    "palabras": [
+      "capacitor",
+      "capacitancia",
+      "farad",
+      "energía almacenada"
+    ],
+    "contenido": {
+      "idea": "El flash de una cámara se carga y luego dispara en un instante. Un capacitor guarda carga y la suelta de golpe.",
+      "pizarron": "**La regla:** un capacitor guarda carga: $C = \\frac{Q}{V}$.\n\nUn **capacitor** son dos placas conductoras separadas que guardan carga.\n\n$$C = \\frac{Q}{V}$$\n\nUnidad: farad (F). Lo común son $\\mu$F y pF.\n\n**Placas paralelas**:\n\n$$C = \\varepsilon_0\\frac{A}{d}$$\n\n**Energía guardada**:\n\n$$U = \\frac{1}{2}C V^2$$\n\nEjemplo: 100 $\\mu$F a 10 V.\n\n$$Q = (100\\times10^{-6})(10) = 1\\times10^{-3}\\ \\text{C}$$\n\n$$U = \\frac{1}{2}(10^{-4})(100) = 0.005\\ \\text{J}$$\n\n**Asociaciones** (al revés que las resistencias):\n\n- Paralelo: $C_{eq} = C_1 + C_2$.\n- Serie: $\\dfrac{1}{C_{eq}} = \\dfrac{1}{C_1} + \\dfrac{1}{C_2}$.",
+      "truco": "Capacitores: en paralelo se suman.",
+      "practica": {
+        "ejercicio": "Con $C=2$ F y $V=3$ V, ¿cuánta carga guarda?",
+        "respuesta": "6 C."
+      },
+      "analogias": [
+        {
+          "titulo": "Tinaco pequeño",
+          "texto": "Guarda agua y la suelta de golpe, mientras una pila entrega poco a poco."
+        },
+        {
+          "titulo": "Resorte comprimido",
+          "texto": "Almacena energía en poco tiempo y la libera con rapidez."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Halla $C_{eq}$ de 4 $\\mu$F y 6 $\\mu$F en paralelo.",
+          "respuesta": "10 $\\mu$F."
+        },
+        {
+          "ejercicio": "Halla $C_{eq}$ de dos de 8 $\\mu$F en serie.",
+          "respuesta": "4 $\\mu$F."
+        },
+        {
+          "ejercicio": "Halla $U$ con 2 F y 3 V.",
+          "respuesta": "9 J."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Fuerza magnética",
+    "slug": "fuerza-magnetica-prepa",
+    "palabras": [
+      "fuerza de Lorentz",
+      "campo magnético",
+      "tesla",
+      "regla de la mano derecha"
+    ],
+    "contenido": {
+      "idea": "Un electrón en movimiento se desvía cerca de un imán. Así funcionaban las pantallas viejas de televisión, y así gira un motor.",
+      "pizarron": "**La ley:** una carga en movimiento dentro de un campo magnético siente una fuerza: $F = qvB\\sin\\theta$.\n\n$q$ es la carga, $v$ la velocidad y $B$ el campo, en tesla.\n\nSi va perpendicular, $\\sin\\theta = 1$.\n\n**Ejemplo:** $q = 2 \\times 10^{-6}$, $v = 1000$, $B = 0.5$.\n\n$$F = 0.001 \\text{ N}$$\n\n**En un cable:** $F = BIL$.\n\nCon 0.2 T, 3 A y 2 m: $F = 1.2$ N.\n\nSi va paralela al campo, la fuerza es cero.\n\nAsí giran los motores.\n\n**Para tu escuela:** calcula $F$ con $B = 1$, $I = 2$ y $L = 3$.",
+      "truco": "Sin movimiento no hay fuerza magnética sobre la carga.",
+      "practica": {
+        "ejercicio": "Calcula $F$ con $B=2$ T, $I=1$ A, $L=3$ m y perpendicular.",
+        "respuesta": "6 N."
+      },
+      "analogias": [
+        {
+          "titulo": "El viento lateral",
+          "texto": "Como un viento que desvía una pelota, el campo curva la carga en movimiento."
+        },
+        {
+          "titulo": "El motor",
+          "texto": "La corriente en bobinas recibe fuerza magnética que empuja y hace girar el eje."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuánto vale $F$ si $v$ es paralela a $B$?",
+          "respuesta": "Cero."
+        },
+        {
+          "ejercicio": "Con $q=1$ C, $v=10$ m/s, $B=0.1$ T, perpendicular, halla $F$.",
+          "respuesta": "1 N."
+        },
+        {
+          "ejercicio": "¿Hace trabajo la fuerza magnética sobre la carga?",
+          "respuesta": "No, porque es perpendicular a la velocidad."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-073",
+    "titulo": "Ley de Faraday",
+    "slug": "ley-de-faraday-prepa",
+    "palabras": [
+      "Faraday",
+      "flujo magnético",
+      "Lenz",
+      "fem inducida"
+    ],
+    "contenido": {
+      "idea": "Mueve un imán cerca de un alambre enrollado y aparece electricidad. Si el imán se queda quieto, no pasa nada.",
+      "pizarron": "**La ley:** el voltaje inducido en un circuito es proporcional a la rapidez con que cambia el flujo magnético que lo atraviesa.\n\n$$\\varepsilon = -N\\frac{\\Delta\\Phi}{\\Delta t}$$\n\n**Qué quiere decir:** si cambian los hilos invisibles del imán que cruzan un alambre, aparece electricidad. Entre más rápido cambian, más electricidad hay.\n\n$\\Phi$ es el flujo: cuántos hilos cruzan.\n\n$N$ son las vueltas del alambre.\n\n$\\Delta\\Phi$ es cuánto cambiaron los hilos.\n\n$\\Delta t$ es cuánto tardó el cambio.\n\nEl signo menos es la **ley de Lenz**: la corriente se opone al cambio que la creó.\n\n**Ejemplo.** Hay 100 vueltas. Los hilos cambian 0.02 en 0.5 segundos.\n\nPrimero divide: $0.02 \\div 0.5 = 0.04$.\n\nLuego multiplica por las vueltas: $100 \\times 0.04 = 4$.\n\nEl voltaje mide 4 volts.",
+      "truco": "Más vueltas y cambio más rápido, más voltaje.",
+      "practica": {
+        "ejercicio": "Con 200 vueltas y 0.01 Wb en 0.2 s, halla $|\\varepsilon|$.",
+        "respuesta": "10 V."
+      },
+      "analogias": [
+        {
+          "titulo": "El dínamo",
+          "texto": "Pedalea más rápido y el foco brilla más, porque el flujo cambia más aprisa."
+        },
+        {
+          "titulo": "Terco como Lenz",
+          "texto": "La naturaleza se resiste al cambio: la corriente inducida intenta conservar lo que había."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "$B=0.5$ T, $A=0.2$ m², $\\theta=0°$. Halla $\\Phi$.",
+          "respuesta": "0.1 Wb."
+        },
+        {
+          "ejercicio": "Transformador 1000:100 con 200 V. Halla $V_s$.",
+          "respuesta": "20 V."
+        },
+        {
+          "ejercicio": "¿Qué dice la ley de Lenz?",
+          "respuesta": "La corriente inducida se opone al cambio que la produce."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-075",
+    "titulo": "Ley de gravitación con problemas",
+    "slug": "ley-de-gravitacion-con-problemas-prepa",
+    "palabras": [
+      "gravitación universal",
+      "G",
+      "órbitas",
+      "Newton"
+    ],
+    "contenido": {
+      "idea": "La fuerza que hace caer una manzana también mantiene a la Luna en órbita. Con una sola ecuación se calculan ambas cosas.",
+      "pizarron": "**La ley:** dos masas se atraen con $F = G\\frac{m_1 m_2}{r^2}$.\n\n**Ley de gravitación universal**:\n\n$$F = G\\frac{m_1 m_2}{r^2} \\qquad G = 6.67 \\times 10^{-11}\\ \\text{N·m}^2/\\text{kg}^2$$\n\nEjemplo: dos personas de 100 kg a 1 m.\n\n$$F = (6.67\\times10^{-11})(10^{4}) = 6.67\\times10^{-7}\\ \\text{N}$$\n\n**Gravedad en un planeta**:\n\n$$g = \\frac{GM}{R^2}$$\n\nSi el radio se duplica con igual masa, $g$ baja a la cuarta parte.\n\n**Órbita circular**: la gravedad es la fuerza centrípeta.\n\n$$\\frac{GMm}{r^2} = \\frac{mv^2}{r} \\Rightarrow v = \\sqrt{\\frac{GM}{r}}$$\n\nLa velocidad orbital no depende de la masa del satélite.\n\nEjemplo: con $M = 6\\times10^{24}$ kg y $r = 7\\times10^{6}$ m, $v \\approx 7.6$ km/s.",
+      "truco": "Masas arriba, distancia al cuadrado abajo.",
+      "practica": {
+        "ejercicio": "Si la distancia se triplica, ¿qué pasa con $F$?",
+        "respuesta": "Baja a la novena parte."
+      },
+      "analogias": [
+        {
+          "titulo": "Lanzar y caer",
+          "texto": "Un satélite cae todo el tiempo, pero va tan rápido que nunca llega al suelo."
+        },
+        {
+          "titulo": "Luz de un foco",
+          "texto": "Se reparte conforme te alejas, y la fuerza gravitacional baja igual con la distancia."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Si una masa se duplica, ¿qué pasa con $F$?",
+          "respuesta": "Se duplica."
+        },
+        {
+          "ejercicio": "Un planeta tiene doble masa y doble radio que la Tierra. ¿Cómo es su $g$?",
+          "respuesta": "La mitad."
+        },
+        {
+          "ejercicio": "¿Depende $v$ orbital de la masa del satélite?",
+          "respuesta": "No."
+        }
+      ]
+    }
+  }
 ]

@@ -1,156 +1,971 @@
 [
-{"nodo_id":"ems-172","titulo":"Future continuous y future perfect","slug":"future-continuous-y-future-perfect-prepa","palabras":["future continuous","future perfect","will be","will have"],"contenido":{
-"idea":"Mañana a las 8 estarás viajando. Para el viernes ya habrás terminado. El inglés tiene formas para esos dos momentos del futuro.",
-"pizarron":"**Future continuous**: algo que estará pasando en un momento.\n\n*will be* + verbo con *-ing*\n\n*At 8, I will be flying.* A las 8 estaré volando.\n\n**Future perfect**: algo que ya estará terminado antes de un momento.\n\n*will have* + participio\n\n*By Friday, I will have finished.* Para el viernes habré terminado.\n\n*By* significa «para» o «a más tardar».\n\nPiensa en una línea de tiempo: el continuo pone una película en marcha. El perfect pone una palomita antes de la fecha.",
-"truco":"Con by casi siempre va will have.",
-"practica":{"ejercicio":"Di «Para las 5 habré comido».","respuesta":"*By five, I will have eaten.*"},
-"analogias":[{"titulo":"Película y palomita","texto":"El continuo es una película a esa hora; el perfect es una tarea ya tachada."},{"titulo":"Foto futura","texto":"Imagina una foto de mañana: ¿te ve haciendo algo o ya terminaste?"}],
-"ejercicios":[{"ejercicio":"Completa: *This time tomorrow, I ___ studying.*","respuesta":"*will be*"},{"ejercicio":"Completa: *By June, she ___ graduated.*","respuesta":"*will have*"},{"ejercicio":"Di «A las 9 estaré durmiendo».","respuesta":"*At nine, I will be sleeping.*"}]}},
-{"nodo_id":"ems-172","titulo":"Zero conditional","slug":"zero-conditional-prepa","palabras":["zero conditional","condicional cero","if","hechos"],"contenido":{
-"idea":"Si sueltas una pelota, cae. Siempre pasa. Para lo que siempre es cierto, el inglés usa el condicional cero.",
-"pizarron":"Se usa para hechos que siempre se cumplen.\n\n**If + presente, presente**\n\n*If you heat water to 100 °C, it boils.* Si calientas agua a 100 °C, hierve.\n\n*If it rains, the street gets wet.*\n\nPuedes cambiar *if* por *when*, porque siempre sucede.\n\nComparación:\n\n- Cero: *If you freeze water, it turns to ice.* Siempre.\n- Primero: *If it rains tomorrow, I will stay home.* Puede pasar.",
-"truco":"Si siempre pasa, usa presente en ambas partes.",
-"practica":{"ejercicio":"Completa: *If you mix red and white, you ___ pink.*","respuesta":"*get*"},
-"analogias":[{"titulo":"La regla del juego","texto":"Si tocas la pelota con la mano, es falta. Siempre funciona igual."},{"titulo":"Interruptor","texto":"Si aprietas el botón, el foco prende, sin duda."}],
-"ejercicios":[{"ejercicio":"Completa: *If you ___ ice, it melts.* (heat)","respuesta":"*heat*"},{"ejercicio":"¿Con qué palabra puedes cambiar *if* aquí?","respuesta":"*when*"},{"ejercicio":"¿Zero o primer condicional? *If I win, I will buy a car.*","respuesta":"Primer condicional."}]}},
-{"nodo_id":"ems-172","titulo":"Wish e if only","slug":"wish-e-if-only-prepa","palabras":["wish","if only","deseos","arrepentimiento"],"contenido":{
-"idea":"Ojalá tuviera alas. Ojalá hubiera estudiado. Para desear lo que no es real, el inglés mueve el verbo un paso atrás.",
-"pizarron":"*Wish* significa «desear». *If only* significa «ojalá».\n\n**Sobre ahora**: usa pasado.\n\n*I wish I had a car.* Ojalá tuviera un coche. No lo tengo.\n\n**Sobre el pasado**: usa *had* + participio.\n\n*I wish I had studied.* Ojalá hubiera estudiado. No estudié.\n\n**Queja sobre otros**: usa *would*.\n\n*I wish you would listen.* Ojalá me escucharas.\n\nEn estas frases se acepta *were* con todos:\n\n*I wish I were taller.*",
-"truco":"Deseo imposible: un paso atrás en el tiempo.",
-"practica":{"ejercicio":"Di «Ojalá tuviera un perro».","respuesta":"*I wish I had a dog.*"},
-"analogias":[{"titulo":"Lámpara mágica","texto":"Pides algo que no es cierto, y por eso el verbo no usa presente."},{"titulo":"Volver atrás","texto":"Quisieras regresar y hacer otra cosa, así que el verbo también retrocede."}],
-"ejercicios":[{"ejercicio":"Di «Ojalá hubiera ido».","respuesta":"*I wish I had gone.*"},{"ejercicio":"Completa: *I wish I ___ taller.*","respuesta":"*were*"},{"ejercicio":"Di «Ojalá dejaras de gritar», con *stop shouting*.","respuesta":"*I wish you would stop shouting.*"}]}},
-{"nodo_id":"ems-161","titulo":"Past perfect continuous","slug":"past-perfect-continuous-prepa","palabras":["past perfect continuous","had been","duración"],"contenido":{
-"idea":"Llegaste cansado porque habías estado corriendo. Esta forma cuenta algo que duró un rato antes de otro momento del pasado.",
-"pizarron":"**Fórmula**: *had been* + verbo con *-ing*.\n\n*I had been running for an hour when it rained.* Llevaba una hora corriendo cuando llovió.\n\nSe usa para:\n\n1. Decir cuánto duró algo antes de otra cosa.\n2. Explicar una causa.\n\n*She was tired because she had been working.*\n\nComparación:\n\n- *I had read the book.* Lo terminé.\n- *I had been reading the book.* Estaba en eso.",
-"truco":"Had been -ing mide duración antes de otro pasado.",
-"practica":{"ejercicio":"Completa: *They ___ waiting for two hours.*","respuesta":"*had been*"},
-"analogias":[{"titulo":"Película antes de la escena","texto":"Te explica qué venía pasando antes de lo que estás viendo."},{"titulo":"Sudor","texto":"Ves a alguien sudando y deduces que había estado corriendo."}],
-"ejercicios":[{"ejercicio":"Di «Había estado estudiando».","respuesta":"*I had been studying.*"},{"ejercicio":"¿Qué forma se enfoca en la duración: *had read* o *had been reading*?","respuesta":"*had been reading*"},{"ejercicio":"Completa: *He was wet because he ___ swimming.*","respuesta":"*had been*"}]}},
-{"nodo_id":"ems-163","titulo":"Should have y must have","slug":"should-have-y-must-have-prepa","palabras":["modales perfectos","should have","must have","could have"],"contenido":{
-"idea":"Debí traer paraguas. Debió de llover. Para pensar en lo que ya pasó, el modal se une a have y un participio.",
-"pizarron":"**Fórmula**: modal + *have* + participio.\n\n*should have*: lo correcto era eso, y no se hizo.\n\n*I should have studied.* Debí estudiar.\n\n*must have*: estás casi seguro de lo que pasó.\n\n*She must have left.* Ella debió de irse.\n\n*could have*: era posible.\n\n*We could have won.* Pudimos ganar.\n\n*can't have*: es imposible que pasara.\n\n*He can't have seen it.* No pudo haberlo visto.\n\nAl hablar se oye *should've*. Nunca escribas *should of*.",
-"truco":"Modal, have, participio: se mira hacia atrás.",
-"practica":{"ejercicio":"Di «Debí llamar».","respuesta":"*I should have called.*"},
-"analogias":[{"titulo":"Máquina del tiempo","texto":"Have convierte al modal en una máquina para opinar del pasado."},{"titulo":"Detective","texto":"Must have es la conclusión del detective cuando ve las pistas."}],
-"ejercicios":[{"ejercicio":"Di «Pudimos perder».","respuesta":"*We could have lost.*"},{"ejercicio":"Corrige: *I should of gone.*","respuesta":"*I should have gone.*"},{"ejercicio":"La calle está mojada. Di que debió de llover.","respuesta":"*It must have rained.*"}]}},
-{"nodo_id":"ems-163","titulo":"Must be y can't be para deducir","slug":"must-be-y-cant-be-para-deducir-prepa","palabras":["deducción","must be","can't be","might be"],"contenido":{
-"idea":"Ves a alguien con bata y dices: debe de ser médico. Con pistas sacas conclusiones, y el inglés tiene palabras para eso.",
-"pizarron":"**Casi seguro que sí**: *must be*.\n\n*She must be tired.* Debe de estar cansada.\n\n**Casi seguro que no**: *can't be*.\n\n*That can't be Tom.* Ese no puede ser Tom.\n\n**Quizá**: *might be*.\n\n*He might be at home.* Quizá esté en casa.\n\nImagina un medidor:\n\n- 95 %: *must*.\n- 50 %: *might*.\n- 5 %: *can't*.\n\nDeducir no es lo mismo que obligar. *You must be hungry* no es una orden: significa «debes de tener hambre».",
-"truco":"Must sí, might quizá, can't no.",
-"practica":{"ejercicio":"Di «Debe de estar enferma».","respuesta":"*She must be sick.*"},
-"analogias":[{"titulo":"El medidor","texto":"Tu seguridad se mueve como una aguja entre sí, tal vez y no."},{"titulo":"Sherlock","texto":"Ves pistas y dices lo más probable, sin haberlo visto."}],
-"ejercicios":[{"ejercicio":"Tu amigo acaba de comer mucho. Di que no puede tener hambre.","respuesta":"*He can't be hungry.*"},{"ejercicio":"Di «Quizá esté lloviendo».","respuesta":"*It might be raining.*"},{"ejercicio":"¿Es orden *You must be tired*?","respuesta":"No, es una deducción."}]}},
-{"nodo_id":"ems-169","titulo":"Both, either y neither","slug":"both-either-y-neither-prepa","palabras":["both","either","neither","ambos"],"contenido":{
-"idea":"Te ofrecen dos sabores. Quieres los dos, cualquiera o ninguno. Para cada respuesta, el inglés tiene una palabra.",
-"pizarron":"Se usan con **dos** cosas.\n\n*both*: los dos.\n\n*Both books are good.*\n\n*either*: uno u otro.\n\n*You can take either book.*\n\n*neither*: ninguno de los dos.\n\n*Neither book is good.*\n\nCon palabras pares:\n\n*both ... and*: *Both Ana and Luis came.*\n\n*either ... or*: *Either Ana or Luis came.*\n\n*neither ... nor*: *Neither Ana nor Luis came.*\n\n*Neither* ya es negativo, así que no agregues *not*.",
-"truco":"Both dos, either uno, neither cero.",
-"practica":{"ejercicio":"Completa: ___ my parents work. (los dos)","respuesta":"*Both*"},
-"analogias":[{"titulo":"Dos sabores","texto":"Uno pide los dos, otro cualquiera y otro no quiere ninguno."},{"titulo":"Interruptores","texto":"Dos focos: ambos prendidos, uno u otro, o ninguno."}],
-"ejercicios":[{"ejercicio":"Completa: ___ Ana ___ Luis came. (ninguno)","respuesta":"*Neither ... nor*"},{"ejercicio":"Completa: *You can go ___ today ___ tomorrow.*","respuesta":"*either ... or*"},{"ejercicio":"Corrige: *Neither book isn't good.*","respuesta":"*Neither book is good.*"}]}},
-{"nodo_id":"ems-169","titulo":"So do I y neither do I","slug":"so-do-i-y-neither-do-i-prepa","palabras":["so do I","neither do I","acuerdo","yo también"],"contenido":{
-"idea":"Tu amiga dice me gusta el pozole y tú contestas yo también. Decir eso en inglés se hace con pocas palabras.",
-"pizarron":"**Acuerdo con algo positivo**: *So* + ayudante + yo.\n\n— *I like pizza.*\n\n— *So do I.* A mí también.\n\n**Acuerdo con algo negativo**: *Neither* + ayudante + yo.\n\n— *I don't like tea.*\n\n— *Neither do I.* A mí tampoco.\n\nEl ayudante copia la oración:\n\n- *I am tired.* — *So am I.*\n- *I can swim.* — *So can I.*\n- *I went home.* — *So did I.*\n- *I can't drive.* — *Neither can I.*\n\nEn plática también se oye *Me too* y *Me neither*.",
-"truco":"Copia el ayudante de la otra persona.",
-"practica":{"ejercicio":"Responde que tú también: *I am hungry.*","respuesta":"*So am I.*"},
-"analogias":[{"titulo":"El eco","texto":"Repites el ayudante como un eco de lo que oíste."},{"titulo":"Chocar la mano","texto":"Es un choque de manos con palabras: dices que estás igual."}],
-"ejercicios":[{"ejercicio":"Responde que tú tampoco: *I can't swim.*","respuesta":"*Neither can I.*"},{"ejercicio":"Responde que tú también: *I saw it.*","respuesta":"*So did I.*"},{"ejercicio":"Responde que tú también: *I play soccer.*","respuesta":"*So do I.*"}]}},
-{"nodo_id":"ems-173","titulo":"Question tags","slug":"question-tags-prepa","palabras":["question tags","¿verdad?","isn't it","don't you"],"contenido":{
-"idea":"Decimos hace frío, ¿verdad? En inglés, ese ¿verdad? se arma con un ayudante y cambia según la oración.",
-"pizarron":"La regla es cambiar el signo:\n\n**Oración positiva, cola negativa.**\n\n*It is cold, isn't it?*\n\n*You like tea, don't you?*\n\n**Oración negativa, cola positiva.**\n\n*She can't swim, can she?*\n\n*He didn't go, did he?*\n\nPasos:\n\n1. Busca el ayudante: *is, do, can, did, will*.\n2. Cámbiale el signo.\n3. Agrega la persona.\n\nEspecial: *I am late, aren't I?*",
-"truco":"Afirmas y niegas: la cola lleva el signo contrario.",
-"practica":{"ejercicio":"Completa: *You are Ana, ___?*","respuesta":"*aren't you*"},
-"analogias":[{"titulo":"El espejo","texto":"La cola es el reflejo de la oración, con el signo volteado."},{"titulo":"Pedir confirmación","texto":"Es como levantar las cejas y esperar a que te digan que sí."}],
-"ejercicios":[{"ejercicio":"Completa: *He plays well, ___?*","respuesta":"*doesn't he*"},{"ejercicio":"Completa: *They won't come, ___?*","respuesta":"*will they*"},{"ejercicio":"Completa: *She went home, ___?*","respuesta":"*didn't she*"}]}},
-{"nodo_id":"ems-173","titulo":"Inglés formal e informal","slug":"ingles-formal-e-informal-prepa","palabras":["registro","formal","informal","cortesía"],"contenido":{
-"idea":"En una fiesta usas tenis y en una entrevista zapatos. Las palabras también se visten según el lugar.",
-"pizarron":"| Informal | Formal |\n|---|---|\n| Hi! | Good morning. |\n| Thanks! | Thank you very much. |\n| I want... | I would like... |\n| Can you...? | Could you please...? |\n| Sorry! | I apologize. |\n| Bye! | Goodbye. |\n| ask for | request |\n| get | receive |\n\nReglas formales:\n\n- Evita contracciones: *I am*, no *I'm*.\n- Evita palabras como *gonna* y *kids*.\n- Usa oraciones completas.\n\nEntre más incierta sea la relación, más formal conviene ser.",
-"truco":"Si dudas, sé un poco más formal.",
-"practica":{"ejercicio":"Haz formal: *I want water.*","respuesta":"*I would like some water.*"},
-"analogias":[{"titulo":"Ropa","texto":"Cada ocasión pide su ropa, y cada plática pide sus palabras."},{"titulo":"Volumen","texto":"Subes o bajas la formalidad como el volumen de una bocina."}],
-"ejercicios":[{"ejercicio":"Haz formal: *Can you help me?*","respuesta":"*Could you please help me?*"},{"ejercicio":"Haz informal: *Thank you very much.*","respuesta":"*Thanks!*"},{"ejercicio":"¿Debes usar *gonna* en una carta formal?","respuesta":"No."}]}},
-{"nodo_id":"ems-175","titulo":"Conectores avanzados","slug":"conectores-avanzados-prepa","palabras":["however","although","therefore","moreover","linking words"],"contenido":{
-"idea":"Los conectores son señales de tránsito para tu lector: avisan si sigues recto, si das vuelta o si ya llegas.",
-"pizarron":"**Para contrastar**:\n\n*however*: sin embargo.\n\n*although*: aunque.\n\n*despite*: a pesar de.\n\n**Para sumar**:\n\n*moreover*: además.\n\n*in addition*: adicionalmente.\n\n**Para dar resultado**:\n\n*therefore*: por lo tanto.\n\n*as a result*: como resultado.\n\n**Para ejemplificar**:\n\n*for instance*: por ejemplo.\n\nDiferencia importante:\n\n*Although it rained, we went.*\n\n*Despite the rain, we went.*\n\nDespués de *although* va una oración. Después de *despite* va una cosa.",
-"truco":"Although con oración; despite con cosa.",
-"practica":{"ejercicio":"Completa: ___ the cold, she swam.","respuesta":"*Despite*"},
-"analogias":[{"titulo":"Señales","texto":"However es una vuelta; therefore es una flecha que lleva al resultado."},{"titulo":"Puente","texto":"El conector une dos ideas como un puente une dos orillas."}],
-"ejercicios":[{"ejercicio":"Completa: ___ he was tired, he worked.","respuesta":"*Although*"},{"ejercicio":"Traduce *therefore*.","respuesta":"Por lo tanto."},{"ejercicio":"Une con *however*: *It was hard. I finished.*","respuesta":"*It was hard. However, I finished.*"}]}},
-{"nodo_id":"ems-175","titulo":"Make y do","slug":"make-y-do-prepa","palabras":["make","do","collocations","hacer"],"contenido":{
-"idea":"En español todo es hacer. En inglés hay dos: make es crear algo y do es realizar una actividad.",
-"pizarron":"**Make**: crear o producir algo.\n\n*make a cake*: hacer un pastel.\n\n*make a mistake*: cometer un error.\n\n*make a decision*: tomar una decisión.\n\n*make noise*: hacer ruido.\n\n*make friends*: hacer amigos.\n\n**Do**: realizar una tarea.\n\n*do homework*: hacer la tarea.\n\n*do exercise*: hacer ejercicio.\n\n*do the dishes*: lavar los trastes.\n\n*do your best*: dar lo mejor.\n\nHay frases fijas que se aprenden juntas. Se llaman *collocations*.",
-"truco":"Si queda algo nuevo, make; si es tarea, do.",
-"practica":{"ejercicio":"Completa: *I ___ my homework.*","respuesta":"*do*"},
-"analogias":[{"titulo":"Fábrica y lista","texto":"Make fabrica cosas; do tacha tareas de una lista."},{"titulo":"Parejas fijas","texto":"Hay palabras que siempre van juntas, como sal y pimienta."}],
-"ejercicios":[{"ejercicio":"Completa: *She ___ a mistake.* (pasado)","respuesta":"*made*"},{"ejercicio":"Completa: *We ___ exercise.*","respuesta":"*do*"},{"ejercicio":"Completa: *Don't ___ noise.*","respuesta":"*make*"}]}},
-{"nodo_id":"ems-175","titulo":"Adjetivos con -ed y -ing","slug":"adjetivos-con-ed-y-ing-prepa","palabras":["bored","boring","interested","interesting"],"contenido":{
-"idea":"Una película aburrida te deja aburrido. Son dos palabras en inglés: una para lo que causa la emoción y otra para quien la siente.",
-"pizarron":"**-ing**: lo que causa la emoción.\n\n*The movie is boring.* La película es aburrida.\n\n**-ed**: quien siente la emoción.\n\n*I am bored.* Estoy aburrido.\n\nMás pares:\n\n*interesting* / *interested*.\n\n*tiring* / *tired*.\n\n*exciting* / *excited*.\n\n*surprising* / *surprised*.\n\nError común:\n\n*I am boring* significa «soy aburrido, hago que otros se aburran».\n\nPara decir cómo te sientes, usa *-ed*.",
-"truco":"La cosa -ing; tú -ed.",
-"practica":{"ejercicio":"Completa: *The book is ___.* (interest)","respuesta":"*interesting*"},
-"analogias":[{"titulo":"Fogata y mano","texto":"La fogata calienta y la mano se calienta: una causa y otra recibe."},{"titulo":"Control remoto","texto":"El -ing aprieta el botón, y el -ed es la tele que reacciona."}],
-"ejercicios":[{"ejercicio":"Completa: *I am ___ in music.* (interest)","respuesta":"*interested*"},{"ejercicio":"Completa: *That trip was ___.* (tire)","respuesta":"*tiring*"},{"ejercicio":"Di «Estoy emocionado».","respuesta":"*I am excited.*"}]}},
-{"nodo_id":"ems-175","titulo":"Preposiciones con verbos y adjetivos","slug":"preposiciones-con-verbos-y-adjetivos-prepa","palabras":["dependent prepositions","listen to","good at","afraid of"],"contenido":{
-"idea":"Algunas palabras siempre traen un acompañante. Aprenderlas juntas te ahorra adivinar, como aprender un apellido con su nombre.",
-"pizarron":"**Verbos**:\n\n*listen to*: escuchar.\n\n*wait for*: esperar.\n\n*look at*: mirar.\n\n*depend on*: depender de.\n\n*think about*: pensar en.\n\n**Adjetivos**:\n\n*good at*: bueno en.\n\n*afraid of*: miedo a.\n\n*interested in*: interesado en.\n\n*proud of*: orgulloso de.\n\n*married to*: casado con.\n\nDespués de la preposición, el verbo lleva *-ing*:\n\n*I am good at swimming.*",
-"truco":"Aprende la palabra con su preposición, no sola.",
-"practica":{"ejercicio":"Completa: *I am afraid ___ spiders.*","respuesta":"*of*"},
-"analogias":[{"titulo":"Nombre y apellido","texto":"Aprendes listen to como nombre completo, no solo listen."},{"titulo":"Pareja de baile","texto":"Cada palabra ya llega con su pareja a la fiesta."}],
-"ejercicios":[{"ejercicio":"Completa: *She is good ___ math.*","respuesta":"*at*"},{"ejercicio":"Completa: *I'm waiting ___ the bus.*","respuesta":"*for*"},{"ejercicio":"Corrige: *I am interested in learn English.*","respuesta":"*I am interested in learning English.*"}]}},
-{"nodo_id":"ems-175","titulo":"Falsos amigos del inglés","slug":"falsos-amigos-del-ingles-prepa","palabras":["false friends","falsos cognados","actually","embarrassed"],"contenido":{
-"idea":"Hay palabras que parecen amigas porque se parecen al español, pero te engañan: significan otra cosa.",
-"pizarron":"| Inglés | Significa | No significa |\n|---|---|---|\n| actually | en realidad | actualmente |\n| library | biblioteca | librería |\n| embarrassed | avergonzado | embarazada |\n| carpet | alfombra | carpeta |\n| exit | salida | éxito |\n| success | éxito | suceso |\n| assist | ayudar | asistir a clases |\n| large | grande | largo |\n| sensible | sensato | sensible |\n\nEjemplo gracioso:\n\n*I am embarrassed* significa «me da vergüenza».\n\n«Estoy embarazada» es *I am pregnant*.",
-"truco":"Si se parece demasiado, revísala en el diccionario.",
-"practica":{"ejercicio":"¿Qué significa *exit*?","respuesta":"Salida."},
-"analogias":[{"titulo":"El amigo falso","texto":"Parece tu amigo, pero te lleva al lugar equivocado."},{"titulo":"Gemelos","texto":"Se parecen mucho por fuera, pero hacen cosas muy diferentes."}],
-"ejercicios":[{"ejercicio":"¿Cómo se dice «éxito»?","respuesta":"*success*"},{"ejercicio":"¿Qué significa *large*?","respuesta":"Grande."},{"ejercicio":"¿Qué significa *actually*?","respuesta":"En realidad."}]}},
-{"nodo_id":"ems-175","titulo":"Have something done","slug":"have-something-done-prepa","palabras":["causativo","have something done","get something done"],"contenido":{
-"idea":"No te cortas el pelo tú: alguien lo hace por ti. Para decir que mandaste hacer algo, el inglés tiene una fórmula.",
-"pizarron":"**Fórmula**: *have* + cosa + participio.\n\n*I had my hair cut.* Me corté el pelo. Otra persona lo hizo.\n\n*She has her car washed.* Ella manda a lavar su coche.\n\n*We will have the house painted.* Mandaremos a pintar la casa.\n\nAl hablar se puede usar *get*:\n\n*I got my phone repaired.*\n\nCompara:\n\n- *I cut my hair.* Yo mismo lo corté.\n- *I had my hair cut.* Alguien me lo cortó.",
-"truco":"Have, cosa y participio: lo hizo otro.",
-"practica":{"ejercicio":"Di «Mandé a reparar mi coche».","respuesta":"*I had my car repaired.*"},
-"analogias":[{"titulo":"El mecánico","texto":"El coche quedó arreglado, pero las manos fueron del mecánico."},{"titulo":"El encargo","texto":"Tú pides y pagas; otra persona hace el trabajo."}],
-"ejercicios":[{"ejercicio":"Di «Ella se hizo un vestido», con *a dress made*.","respuesta":"*She had a dress made.*"},{"ejercicio":"¿Quién lavó el coche en *I had my car washed*?","respuesta":"Otra persona."},{"ejercicio":"Di «Voy a mandar a pintar mi cuarto», con *will*.","respuesta":"*I will have my room painted.*"}]}},
-{"nodo_id":"ems-176","titulo":"Currículum y entrevista en inglés","slug":"curriculum-y-entrevista-en-ingles-prepa","palabras":["CV","resume","job interview","entrevista"],"contenido":{
-"idea":"Para un trabajo o una beca, tu papel y tu voz te presentan. En inglés se preparan con frases muy claras.",
-"pizarron":"**Currículum (CV)**:\n\n1. Nombre y contacto.\n2. *Education*: estudios.\n3. *Experience*: experiencia.\n4. *Skills*: habilidades.\n5. *Languages*: idiomas.\n\nUsa verbos fuertes: *organized*, *led*, *helped*.\n\n**Entrevista**:\n\n— *Tell me about yourself.*\n\nDi quién eres, qué estudias y qué buscas.\n\n— *Why do you want this job?*\n\n*I would like to learn and help your team.*\n\n— *What are your strengths?*\n\n*I am organized and responsible.*\n\nAl terminar di: *Thank you for your time.*",
-"truco":"Presente, pasado y futuro: quién soy, qué hice y qué busco.",
-"practica":{"ejercicio":"¿Qué significa *skills*?","respuesta":"Habilidades."},
-"analogias":[{"titulo":"Tu anuncio","texto":"El CV es un anuncio breve donde el producto eres tú."},{"titulo":"El ensayo","texto":"Practica las preguntas como una obra de teatro antes de la función."}],
-"ejercicios":[{"ejercicio":"Escribe tres frases para *Tell me about yourself*.","respuesta":"Debe decir quién eres, qué estudias y qué buscas."},{"ejercicio":"¿Qué sección lleva tus estudios?","respuesta":"*Education*."},{"ejercicio":"Di dos fortalezas tuyas en inglés.","respuesta":"Por ejemplo: *I am creative and responsible.*"}]}},
-{"nodo_id":"ems-178","titulo":"Dar tu opinión en inglés","slug":"dar-tu-opinion-en-ingles-prepa","palabras":["opinión","I think","I agree","debate"],"contenido":{
-"idea":"En un debate cada quien defiende su idea con respeto. Para eso necesitas frases para opinar, estar de acuerdo y discrepar.",
-"pizarron":"**Opinar**:\n\n*I think that...*\n\n*In my opinion,...*\n\n*I believe that...*\n\n**Estar de acuerdo**:\n\n*I agree with you.*\n\n*That's a good point.*\n\n**No estar de acuerdo** con respeto:\n\n*I see your point, but...*\n\n*I don't agree, because...*\n\n**Dar razones**:\n\n*because*, *for example*, *first*, *also*.\n\nModelo:\n\n*In my opinion, schools should recycle because it reduces waste. For example, paper can be used again.*",
-"truco":"Opinión, razón y ejemplo.",
-"practica":{"ejercicio":"Di «Estoy de acuerdo contigo».","respuesta":"*I agree with you.*"},
-"analogias":[{"titulo":"Mesa de tres patas","texto":"Tu opinión se sostiene con tres patas: idea, razón y ejemplo."},{"titulo":"Tenis","texto":"Recibes la idea del otro y la devuelves con respeto."}],
-"ejercicios":[{"ejercicio":"Corrige: *I am agree.*","respuesta":"*I agree.*"},{"ejercicio":"Escribe tu opinión sobre usar celular en clase, con razón y ejemplo.","respuesta":"Debe tener opinión, *because* y un ejemplo."},{"ejercicio":"Discrepa con respeto.","respuesta":"*I see your point, but I don't agree.*"}]}},
-{"nodo_id":"ems-177","titulo":"Ensayo corto en inglés","slug":"ensayo-corto-en-ingles-prepa","palabras":["essay","introducción","thesis","conclusión"],"contenido":{
-"idea":"Un ensayo es un viaje: dices a dónde vas, recorres el camino y explicas a dónde llegaste.",
-"pizarron":"**Estructura de cinco párrafos**:\n\n1. **Introducción**: presenta el tema y tu idea principal, llamada *thesis*.\n\n*Students should learn English because it opens doors.*\n\n2-4. **Desarrollo**: cada párrafo da una razón con ejemplo.\n\n- *First,...*\n- *In addition,...*\n- *However, some people think...*\n\n5. **Conclusión**: repite tu idea con otras palabras.\n\n*In conclusion, English helps us...*\n\nConsejos:\n\n- Una idea por párrafo.\n- Sin contracciones.\n- Revisa tiempos y conectores.",
-"truco":"Di lo que dirás, dilo y di lo que dijiste.",
-"practica":{"ejercicio":"¿Cómo se llama la idea principal del ensayo?","respuesta":"*Thesis*."},
-"analogias":[{"titulo":"El viaje","texto":"Mapa al inicio, paradas en medio y llegada al final."},{"titulo":"La hamburguesa grande","texto":"Es el mismo párrafo de siempre, pero con varios rellenos."}],
-"ejercicios":[{"ejercicio":"Escribe una *thesis* sobre el ejercicio físico.","respuesta":"Debe dar tu idea principal en una oración."},{"ejercicio":"¿Con qué frase empiezas la conclusión?","respuesta":"*In conclusion*."},{"ejercicio":"Escribe un ensayo de cinco párrafos sobre aprender inglés.","respuesta":"Debe tener introducción, tres párrafos y conclusión."}]}},
-{"nodo_id":"ems-177","titulo":"Prefijos y sufijos en inglés","slug":"prefijos-y-sufijos-en-ingles-prepa","palabras":["word formation","un-","re-","-tion","-ful","-less"],"contenido":{
-"idea":"Con unas cuantas piezas conviertes una palabra en muchas, como armar figuras nuevas con los mismos bloques.",
-"pizarron":"**Prefijos**, van al inicio:\n\n*un-*: no. *happy*, *unhappy*.\n\n*dis-*: no. *agree*, *disagree*.\n\n*re-*: otra vez. *write*, *rewrite*.\n\n*mis-*: mal. *understand*, *misunderstand*.\n\n**Sufijos**, van al final:\n\n*-er*: persona. *teach*, *teacher*.\n\n*-tion*: cosa o acción. *inform*, *information*.\n\n*-ful*: con. *care*, *careful*.\n\n*-less*: sin. *care*, *careless*.\n\n*-ness*: cualidad. *happy*, *happiness*.\n\nSi no conoces una palabra larga, busca sus piezas.",
-"truco":"-ful es con; -less es sin.",
-"practica":{"ejercicio":"¿Qué significa *rewrite*?","respuesta":"Volver a escribir."},
-"analogias":[{"titulo":"Bloques","texto":"La raíz es la base y los prefijos son piezas que cambian la figura."},{"titulo":"Sumas de palabras","texto":"Happy más -ness da felicidad, como una cuenta con palabras."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *helpless*?","respuesta":"Sin ayuda, indefenso."},{"ejercicio":"Forma una persona con *sing*.","respuesta":"*singer*"},{"ejercicio":"Da lo contrario de *agree*.","respuesta":"*disagree*"}]}},
-{"nodo_id":"ems-177","titulo":"Modismos comunes en inglés","slug":"modismos-comunes-en-ingles-prepa","palabras":["idioms","modismos","expresiones","break a leg"],"contenido":{
-"idea":"Decimos estar en la luna y nadie piensa en un viaje al espacio. El inglés también tiene frases que no significan lo que dicen.",
-"pizarron":"Un **modismo** o *idiom* no se traduce palabra por palabra.\n\n*a piece of cake*: algo muy fácil.\n\n*break a leg*: buena suerte, antes de una función.\n\n*hit the books*: ponerse a estudiar.\n\n*under the weather*: sentirse enfermo.\n\n*once in a blue moon*: casi nunca.\n\n*it's raining cats and dogs*: llueve mucho.\n\n*call it a day*: terminar por hoy.\n\nEjemplo:\n\n*The test was a piece of cake.* El examen estuvo facilísimo.\n\nÚsalos con amigos, no en textos formales.",
-"truco":"Si la frase suena rara, puede ser un modismo.",
-"practica":{"ejercicio":"¿Qué significa *a piece of cake*?","respuesta":"Algo muy fácil."},
-"analogias":[{"titulo":"Chiste interno","texto":"Solo lo entiendes si ya conoces la frase, como un chiste de amigos."},{"titulo":"Paquete cerrado","texto":"La frase viene empaquetada: no se abre palabra por palabra."}],
-"ejercicios":[{"ejercicio":"¿Qué significa *under the weather*?","respuesta":"Sentirse enfermo."},{"ejercicio":"¿Qué significa *hit the books*?","respuesta":"Ponerse a estudiar."},{"ejercicio":"¿Qué dices a alguien antes de actuar?","respuesta":"*Break a leg!*"}]}},
-{"nodo_id":"ems-177","titulo":"Prepararte para un examen de inglés","slug":"prepararte-para-un-examen-de-ingles-prepa","palabras":["TOEFL","Cambridge","niveles A1 B2","marco común europeo"],"contenido":{
-"idea":"Antes de una carrera conoces la pista. Antes de un examen de inglés necesitas saber tu nivel y cómo te van a evaluar.",
-"pizarron":"Los niveles del **Marco Común Europeo** van de menor a mayor:\n\n*A1, A2, B1, B2, C1, C2*.\n\nA2 significa que manejas frases cotidianas.\n\nB1 significa que te defiendes en viajes y pláticas sencillas.\n\nB2 significa que hablas con bastante soltura.\n\nExámenes conocidos: *TOEFL*, *IELTS* y los de *Cambridge*.\n\nCasi todos evalúan cuatro partes:\n\n*Reading*, *Listening*, *Speaking* y *Writing*.\n\nPlan sencillo:\n\n1. Haz un examen de práctica.\n2. Trabaja tu parte más débil.\n3. Practica 20 minutos diarios.\n4. Repite con tiempo medido.",
-"truco":"Practica con reloj, como el día del examen.",
-"practica":{"ejercicio":"Di las cuatro partes de un examen.","respuesta":"*Reading, Listening, Speaking, Writing*."},
-"analogias":[{"titulo":"Conocer la pista","texto":"Corres mejor si sabes dónde están las curvas de la carrera."},{"titulo":"Escalones","texto":"Cada nivel es un escalón: nadie llega a C1 sin pasar por los anteriores."}],
-"ejercicios":[{"ejercicio":"¿Cuál es el nivel más alto?","respuesta":"C2."},{"ejercicio":"¿Qué nivel va después de B1?","respuesta":"B2."},{"ejercicio":"Haz tu plan de estudio de una semana, con 20 minutos diarios.","respuesta":"Debe indicar qué practicas cada día."}]}}
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Future continuous y future perfect",
+    "slug": "future-continuous-y-future-perfect-prepa",
+    "palabras": [
+      "future continuous",
+      "future perfect",
+      "will be",
+      "will have"
+    ],
+    "contenido": {
+      "idea": "Mañana a las 8 estarás viajando. Para el viernes ya habrás terminado. El inglés tiene formas para esos dos momentos del futuro.",
+      "pizarron": "**La regla:** *will be* más *-ing* es lo que estará pasando; *will have* más participio es lo que ya habrá pasado.\n\n**Future continuous**: algo que estará pasando en un momento.\n\n*will be* + verbo con *-ing*\n\n*At 8, I will be flying.* A las 8 estaré volando.\n\n**Future perfect**: algo que ya estará terminado antes de un momento.\n\n*will have* + participio\n\n*By Friday, I will have finished.* Para el viernes habré terminado.\n\n*By* significa «para» o «a más tardar».\n\nPiensa en una línea de tiempo: el continuo pone una película en marcha. El perfect pone una palomita antes de la fecha.",
+      "truco": "Con by casi siempre va will have.",
+      "practica": {
+        "ejercicio": "Di «Para las 5 habré comido».",
+        "respuesta": "*By five, I will have eaten.*"
+      },
+      "analogias": [
+        {
+          "titulo": "Película y palomita",
+          "texto": "El continuo es una película a esa hora; el perfect es una tarea ya tachada."
+        },
+        {
+          "titulo": "Foto futura",
+          "texto": "Imagina una foto de mañana: ¿te ve haciendo algo o ya terminaste?"
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *This time tomorrow, I ___ studying.*",
+          "respuesta": "*will be*"
+        },
+        {
+          "ejercicio": "Completa: *By June, she ___ graduated.*",
+          "respuesta": "*will have*"
+        },
+        {
+          "ejercicio": "Di «A las 9 estaré durmiendo».",
+          "respuesta": "*At nine, I will be sleeping.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Zero conditional",
+    "slug": "zero-conditional-prepa",
+    "palabras": [
+      "zero conditional",
+      "condicional cero",
+      "if",
+      "hechos"
+    ],
+    "contenido": {
+      "idea": "Si sueltas una pelota, cae. Siempre pasa. Para lo que siempre es cierto, el inglés usa el condicional cero.",
+      "pizarron": "**La regla:** *if* más presente, y presente en la otra parte, para lo que siempre es cierto.\n\nSe usa para hechos que siempre se cumplen.\n\n**If + presente, presente**\n\n*If you heat water to 100 °C, it boils.* Si calientas agua a 100 °C, hierve.\n\n*If it rains, the street gets wet.*\n\nPuedes cambiar *if* por *when*, porque siempre sucede.\n\nComparación:\n\n- Cero: *If you freeze water, it turns to ice.* Siempre.\n- Primero: *If it rains tomorrow, I will stay home.* Puede pasar.",
+      "truco": "Si siempre pasa, usa presente en ambas partes.",
+      "practica": {
+        "ejercicio": "Completa: *If you mix red and white, you ___ pink.*",
+        "respuesta": "*get*"
+      },
+      "analogias": [
+        {
+          "titulo": "La regla del juego",
+          "texto": "Si tocas la pelota con la mano, es falta. Siempre funciona igual."
+        },
+        {
+          "titulo": "Interruptor",
+          "texto": "Si aprietas el botón, el foco prende, sin duda."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *If you ___ ice, it melts.* (heat)",
+          "respuesta": "*heat*"
+        },
+        {
+          "ejercicio": "¿Con qué palabra puedes cambiar *if* aquí?",
+          "respuesta": "*when*"
+        },
+        {
+          "ejercicio": "¿Zero o primer condicional? *If I win, I will buy a car.*",
+          "respuesta": "Primer condicional."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-172",
+    "titulo": "Wish e if only",
+    "slug": "wish-e-if-only-prepa",
+    "palabras": [
+      "wish",
+      "if only",
+      "deseos",
+      "arrepentimiento"
+    ],
+    "contenido": {
+      "idea": "Ojalá tuviera alas. Ojalá hubiera estudiado. Para desear lo que no es real, el inglés mueve el verbo un paso atrás.",
+      "pizarron": "**La regla:** para desear algo irreal, el verbo va un paso atrás en el tiempo.\n\n*Wish* significa «desear». *If only* significa «ojalá».\n\n**Sobre ahora**: usa pasado.\n\n*I wish I had a car.* Ojalá tuviera un coche. No lo tengo.\n\n**Sobre el pasado**: usa *had* + participio.\n\n*I wish I had studied.* Ojalá hubiera estudiado. No estudié.\n\n**Queja sobre otros**: usa *would*.\n\n*I wish you would listen.* Ojalá me escucharas.\n\nEn estas frases se acepta *were* con todos:\n\n*I wish I were taller.*",
+      "truco": "Deseo imposible: un paso atrás en el tiempo.",
+      "practica": {
+        "ejercicio": "Di «Ojalá tuviera un perro».",
+        "respuesta": "*I wish I had a dog.*"
+      },
+      "analogias": [
+        {
+          "titulo": "Lámpara mágica",
+          "texto": "Pides algo que no es cierto, y por eso el verbo no usa presente."
+        },
+        {
+          "titulo": "Volver atrás",
+          "texto": "Quisieras regresar y hacer otra cosa, así que el verbo también retrocede."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di «Ojalá hubiera ido».",
+          "respuesta": "*I wish I had gone.*"
+        },
+        {
+          "ejercicio": "Completa: *I wish I ___ taller.*",
+          "respuesta": "*were*"
+        },
+        {
+          "ejercicio": "Di «Ojalá dejaras de gritar», con *stop shouting*.",
+          "respuesta": "*I wish you would stop shouting.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-161",
+    "titulo": "Past perfect continuous",
+    "slug": "past-perfect-continuous-prepa",
+    "palabras": [
+      "past perfect continuous",
+      "had been",
+      "duración"
+    ],
+    "contenido": {
+      "idea": "Llegaste cansado porque habías estado corriendo. Esta forma cuenta algo que duró un rato antes de otro momento del pasado.",
+      "pizarron": "**La regla:** *had been* más *-ing* dice cuánto duró algo antes de otro pasado.\n\n**Fórmula**: *had been* + verbo con *-ing*.\n\n*I had been running for an hour when it rained.* Llevaba una hora corriendo cuando llovió.\n\nSe usa para:\n\n1. Decir cuánto duró algo antes de otra cosa.\n2. Explicar una causa.\n\n*She was tired because she had been working.*\n\nComparación:\n\n- *I had read the book.* Lo terminé.\n- *I had been reading the book.* Estaba en eso.",
+      "truco": "Had been -ing mide duración antes de otro pasado.",
+      "practica": {
+        "ejercicio": "Completa: *They ___ waiting for two hours.*",
+        "respuesta": "*had been*"
+      },
+      "analogias": [
+        {
+          "titulo": "Película antes de la escena",
+          "texto": "Te explica qué venía pasando antes de lo que estás viendo."
+        },
+        {
+          "titulo": "Sudor",
+          "texto": "Ves a alguien sudando y deduces que había estado corriendo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di «Había estado estudiando».",
+          "respuesta": "*I had been studying.*"
+        },
+        {
+          "ejercicio": "¿Qué forma se enfoca en la duración: *had read* o *had been reading*?",
+          "respuesta": "*had been reading*"
+        },
+        {
+          "ejercicio": "Completa: *He was wet because he ___ swimming.*",
+          "respuesta": "*had been*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-163",
+    "titulo": "Should have y must have",
+    "slug": "should-have-y-must-have-prepa",
+    "palabras": [
+      "modales perfectos",
+      "should have",
+      "must have",
+      "could have"
+    ],
+    "contenido": {
+      "idea": "Debí traer paraguas. Debió de llover. Para pensar en lo que ya pasó, el modal se une a have y un participio.",
+      "pizarron": "**La regla:** modal más *have* más participio habla de lo que pasó o debió pasar.\n\n**Fórmula**: modal + *have* + participio.\n\n*should have*: lo correcto era eso, y no se hizo.\n\n*I should have studied.* Debí estudiar.\n\n*must have*: estás casi seguro de lo que pasó.\n\n*She must have left.* Ella debió de irse.\n\n*could have*: era posible.\n\n*We could have won.* Pudimos ganar.\n\n*can't have*: es imposible que pasara.\n\n*He can't have seen it.* No pudo haberlo visto.\n\nAl hablar se oye *should've*. Nunca escribas *should of*.",
+      "truco": "Modal, have, participio: se mira hacia atrás.",
+      "practica": {
+        "ejercicio": "Di «Debí llamar».",
+        "respuesta": "*I should have called.*"
+      },
+      "analogias": [
+        {
+          "titulo": "Máquina del tiempo",
+          "texto": "Have convierte al modal en una máquina para opinar del pasado."
+        },
+        {
+          "titulo": "Detective",
+          "texto": "Must have es la conclusión del detective cuando ve las pistas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di «Pudimos perder».",
+          "respuesta": "*We could have lost.*"
+        },
+        {
+          "ejercicio": "Corrige: *I should of gone.*",
+          "respuesta": "*I should have gone.*"
+        },
+        {
+          "ejercicio": "La calle está mojada. Di que debió de llover.",
+          "respuesta": "*It must have rained.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-163",
+    "titulo": "Must be y can't be para deducir",
+    "slug": "must-be-y-cant-be-para-deducir-prepa",
+    "palabras": [
+      "deducción",
+      "must be",
+      "can't be",
+      "might be"
+    ],
+    "contenido": {
+      "idea": "Ves a alguien con bata y dices: debe de ser médico. Con pistas sacas conclusiones, y el inglés tiene palabras para eso.",
+      "pizarron": "**La regla:** *must be* es casi seguro que sí, *can't be* que no, y *might be* quizá.\n\n**Casi seguro que sí**: *must be*.\n\n*She must be tired.* Debe de estar cansada.\n\n**Casi seguro que no**: *can't be*.\n\n*That can't be Tom.* Ese no puede ser Tom.\n\n**Quizá**: *might be*.\n\n*He might be at home.* Quizá esté en casa.\n\nImagina un medidor:\n\n- 95 %: *must*.\n- 50 %: *might*.\n- 5 %: *can't*.\n\nDeducir no es lo mismo que obligar. *You must be hungry* no es una orden: significa «debes de tener hambre».",
+      "truco": "Must sí, might quizá, can't no.",
+      "practica": {
+        "ejercicio": "Di «Debe de estar enferma».",
+        "respuesta": "*She must be sick.*"
+      },
+      "analogias": [
+        {
+          "titulo": "El medidor",
+          "texto": "Tu seguridad se mueve como una aguja entre sí, tal vez y no."
+        },
+        {
+          "titulo": "Sherlock",
+          "texto": "Ves pistas y dices lo más probable, sin haberlo visto."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Tu amigo acaba de comer mucho. Di que no puede tener hambre.",
+          "respuesta": "*He can't be hungry.*"
+        },
+        {
+          "ejercicio": "Di «Quizá esté lloviendo».",
+          "respuesta": "*It might be raining.*"
+        },
+        {
+          "ejercicio": "¿Es orden *You must be tired*?",
+          "respuesta": "No, es una deducción."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-169",
+    "titulo": "Both, either y neither",
+    "slug": "both-either-y-neither-prepa",
+    "palabras": [
+      "both",
+      "either",
+      "neither",
+      "ambos"
+    ],
+    "contenido": {
+      "idea": "Te ofrecen dos sabores. Quieres los dos, cualquiera o ninguno. Para cada respuesta, el inglés tiene una palabra.",
+      "pizarron": "**La regla:** con dos cosas, *both* son las dos, *either* una u otra, y *neither* ninguna.\n\nSe usan con **dos** cosas.\n\n*both*: los dos.\n\n*Both books are good.*\n\n*either*: uno u otro.\n\n*You can take either book.*\n\n*neither*: ninguno de los dos.\n\n*Neither book is good.*\n\nCon palabras pares:\n\n*both ... and*: *Both Ana and Luis came.*\n\n*either ... or*: *Either Ana or Luis came.*\n\n*neither ... nor*: *Neither Ana nor Luis came.*\n\n*Neither* ya es negativo, así que no agregues *not*.",
+      "truco": "Both dos, either uno, neither cero.",
+      "practica": {
+        "ejercicio": "Completa: ___ my parents work. (los dos)",
+        "respuesta": "*Both*"
+      },
+      "analogias": [
+        {
+          "titulo": "Dos sabores",
+          "texto": "Uno pide los dos, otro cualquiera y otro no quiere ninguno."
+        },
+        {
+          "titulo": "Interruptores",
+          "texto": "Dos focos: ambos prendidos, uno u otro, o ninguno."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ Ana ___ Luis came. (ninguno)",
+          "respuesta": "*Neither ... nor*"
+        },
+        {
+          "ejercicio": "Completa: *You can go ___ today ___ tomorrow.*",
+          "respuesta": "*either ... or*"
+        },
+        {
+          "ejercicio": "Corrige: *Neither book isn't good.*",
+          "respuesta": "*Neither book is good.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-169",
+    "titulo": "So do I y neither do I",
+    "slug": "so-do-i-y-neither-do-i-prepa",
+    "palabras": [
+      "so do I",
+      "neither do I",
+      "acuerdo",
+      "yo también"
+    ],
+    "contenido": {
+      "idea": "Tu amiga dice me gusta el pozole y tú contestas yo también. Decir eso en inglés se hace con pocas palabras.",
+      "pizarron": "**La regla:** para decir yo también se usa *So*, y para yo tampoco, *Neither*, copiando el ayudante.\n\n**Acuerdo con algo positivo**: *So* + ayudante + yo.\n\n— *I like pizza.*\n\n— *So do I.* A mí también.\n\n**Acuerdo con algo negativo**: *Neither* + ayudante + yo.\n\n— *I don't like tea.*\n\n— *Neither do I.* A mí tampoco.\n\nEl ayudante copia la oración:\n\n- *I am tired.* — *So am I.*\n- *I can swim.* — *So can I.*\n- *I went home.* — *So did I.*\n- *I can't drive.* — *Neither can I.*\n\nEn plática también se oye *Me too* y *Me neither*.",
+      "truco": "Copia el ayudante de la otra persona.",
+      "practica": {
+        "ejercicio": "Responde que tú también: *I am hungry.*",
+        "respuesta": "*So am I.*"
+      },
+      "analogias": [
+        {
+          "titulo": "El eco",
+          "texto": "Repites el ayudante como un eco de lo que oíste."
+        },
+        {
+          "titulo": "Chocar la mano",
+          "texto": "Es un choque de manos con palabras: dices que estás igual."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Responde que tú tampoco: *I can't swim.*",
+          "respuesta": "*Neither can I.*"
+        },
+        {
+          "ejercicio": "Responde que tú también: *I saw it.*",
+          "respuesta": "*So did I.*"
+        },
+        {
+          "ejercicio": "Responde que tú también: *I play soccer.*",
+          "respuesta": "*So do I.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-173",
+    "titulo": "Question tags",
+    "slug": "question-tags-prepa",
+    "palabras": [
+      "question tags",
+      "¿verdad?",
+      "isn't it",
+      "don't you"
+    ],
+    "contenido": {
+      "idea": "Decimos hace frío, ¿verdad? En inglés, ese ¿verdad? se arma con un ayudante y cambia según la oración.",
+      "pizarron": "**La regla:** la cola lleva el signo contrario de la oración: *You like it, don't you?*\n\nLa regla es cambiar el signo:\n\n**Oración positiva, cola negativa.**\n\n*It is cold, isn't it?*\n\n*You like tea, don't you?*\n\n**Oración negativa, cola positiva.**\n\n*She can't swim, can she?*\n\n*He didn't go, did he?*\n\nPasos:\n\n1. Busca el ayudante: *is, do, can, did, will*.\n2. Cámbiale el signo.\n3. Agrega la persona.\n\nEspecial: *I am late, aren't I?*",
+      "truco": "Afirmas y niegas: la cola lleva el signo contrario.",
+      "practica": {
+        "ejercicio": "Completa: *You are Ana, ___?*",
+        "respuesta": "*aren't you*"
+      },
+      "analogias": [
+        {
+          "titulo": "El espejo",
+          "texto": "La cola es el reflejo de la oración, con el signo volteado."
+        },
+        {
+          "titulo": "Pedir confirmación",
+          "texto": "Es como levantar las cejas y esperar a que te digan que sí."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *He plays well, ___?*",
+          "respuesta": "*doesn't he*"
+        },
+        {
+          "ejercicio": "Completa: *They won't come, ___?*",
+          "respuesta": "*will they*"
+        },
+        {
+          "ejercicio": "Completa: *She went home, ___?*",
+          "respuesta": "*didn't she*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-173",
+    "titulo": "Inglés formal e informal",
+    "slug": "ingles-formal-e-informal-prepa",
+    "palabras": [
+      "registro",
+      "formal",
+      "informal",
+      "cortesía"
+    ],
+    "contenido": {
+      "idea": "En una fiesta usas tenis y en una entrevista zapatos. Las palabras también se visten según el lugar.",
+      "pizarron": "**La regla:** el tono cambia según con quién hablas: en lo formal evita contracciones y *gonna*.\n\n| Informal | Formal |\n|---|---|\n| Hi! | Good morning. |\n| Thanks! | Thank you very much. |\n| I want... | I would like... |\n| Can you...? | Could you please...? |\n| Sorry! | I apologize. |\n| Bye! | Goodbye. |\n| ask for | request |\n| get | receive |\n\nReglas formales:\n\n- Evita contracciones: *I am*, no *I'm*.\n- Evita palabras como *gonna* y *kids*.\n- Usa oraciones completas.\n\nEntre más incierta sea la relación, más formal conviene ser.",
+      "truco": "Si dudas, sé un poco más formal.",
+      "practica": {
+        "ejercicio": "Haz formal: *I want water.*",
+        "respuesta": "*I would like some water.*"
+      },
+      "analogias": [
+        {
+          "titulo": "Ropa",
+          "texto": "Cada ocasión pide su ropa, y cada plática pide sus palabras."
+        },
+        {
+          "titulo": "Volumen",
+          "texto": "Subes o bajas la formalidad como el volumen de una bocina."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Haz formal: *Can you help me?*",
+          "respuesta": "*Could you please help me?*"
+        },
+        {
+          "ejercicio": "Haz informal: *Thank you very much.*",
+          "respuesta": "*Thanks!*"
+        },
+        {
+          "ejercicio": "¿Debes usar *gonna* en una carta formal?",
+          "respuesta": "No."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-175",
+    "titulo": "Conectores avanzados",
+    "slug": "conectores-avanzados-prepa",
+    "palabras": [
+      "however",
+      "although",
+      "therefore",
+      "moreover",
+      "linking words"
+    ],
+    "contenido": {
+      "idea": "Los conectores son señales de tránsito para tu lector: avisan si sigues recto, si das vuelta o si ya llegas.",
+      "pizarron": "**La regla:** *although* va con oración y *despite* va con cosa.\n\n**Para contrastar**:\n\n*however*: sin embargo.\n\n*although*: aunque.\n\n*despite*: a pesar de.\n\n**Para sumar**:\n\n*moreover*: además.\n\n*in addition*: adicionalmente.\n\n**Para dar resultado**:\n\n*therefore*: por lo tanto.\n\n*as a result*: como resultado.\n\n**Para ejemplificar**:\n\n*for instance*: por ejemplo.\n\nDiferencia importante:\n\n*Although it rained, we went.*\n\n*Despite the rain, we went.*\n\nDespués de *although* va una oración. Después de *despite* va una cosa.",
+      "truco": "Although con oración; despite con cosa.",
+      "practica": {
+        "ejercicio": "Completa: ___ the cold, she swam.",
+        "respuesta": "*Despite*"
+      },
+      "analogias": [
+        {
+          "titulo": "Señales",
+          "texto": "However es una vuelta; therefore es una flecha que lleva al resultado."
+        },
+        {
+          "titulo": "Puente",
+          "texto": "El conector une dos ideas como un puente une dos orillas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: ___ he was tired, he worked.",
+          "respuesta": "*Although*"
+        },
+        {
+          "ejercicio": "Traduce *therefore*.",
+          "respuesta": "Por lo tanto."
+        },
+        {
+          "ejercicio": "Une con *however*: *It was hard. I finished.*",
+          "respuesta": "*It was hard. However, I finished.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-175",
+    "titulo": "Make y do",
+    "slug": "make-y-do-prepa",
+    "palabras": [
+      "make",
+      "do",
+      "collocations",
+      "hacer"
+    ],
+    "contenido": {
+      "idea": "En español todo es hacer. En inglés hay dos: make es crear algo y do es realizar una actividad.",
+      "pizarron": "**La regla:** *make* es crear algo y *do* es realizar una tarea.\n\n**Make**: crear o producir algo.\n\n*make a cake*: hacer un pastel.\n\n*make a mistake*: cometer un error.\n\n*make a decision*: tomar una decisión.\n\n*make noise*: hacer ruido.\n\n*make friends*: hacer amigos.\n\n**Do**: realizar una tarea.\n\n*do homework*: hacer la tarea.\n\n*do exercise*: hacer ejercicio.\n\n*do the dishes*: lavar los trastes.\n\n*do your best*: dar lo mejor.\n\nHay frases fijas que se aprenden juntas. Se llaman *collocations*.",
+      "truco": "Si queda algo nuevo, make; si es tarea, do.",
+      "practica": {
+        "ejercicio": "Completa: *I ___ my homework.*",
+        "respuesta": "*do*"
+      },
+      "analogias": [
+        {
+          "titulo": "Fábrica y lista",
+          "texto": "Make fabrica cosas; do tacha tareas de una lista."
+        },
+        {
+          "titulo": "Parejas fijas",
+          "texto": "Hay palabras que siempre van juntas, como sal y pimienta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *She ___ a mistake.* (pasado)",
+          "respuesta": "*made*"
+        },
+        {
+          "ejercicio": "Completa: *We ___ exercise.*",
+          "respuesta": "*do*"
+        },
+        {
+          "ejercicio": "Completa: *Don't ___ noise.*",
+          "respuesta": "*make*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-175",
+    "titulo": "Adjetivos con -ed y -ing",
+    "slug": "adjetivos-con-ed-y-ing-prepa",
+    "palabras": [
+      "bored",
+      "boring",
+      "interested",
+      "interesting"
+    ],
+    "contenido": {
+      "idea": "Una película aburrida te deja aburrido. Son dos palabras en inglés: una para lo que causa la emoción y otra para quien la siente.",
+      "pizarron": "**La regla:** *-ing* es lo que causa la emoción y *-ed* es quien la siente.\n\n**-ing**: lo que causa la emoción.\n\n*The movie is boring.* La película es aburrida.\n\n**-ed**: quien siente la emoción.\n\n*I am bored.* Estoy aburrido.\n\nMás pares:\n\n*interesting* / *interested*.\n\n*tiring* / *tired*.\n\n*exciting* / *excited*.\n\n*surprising* / *surprised*.\n\nError común:\n\n*I am boring* significa «soy aburrido, hago que otros se aburran».\n\nPara decir cómo te sientes, usa *-ed*.",
+      "truco": "La cosa -ing; tú -ed.",
+      "practica": {
+        "ejercicio": "Completa: *The book is ___.* (interest)",
+        "respuesta": "*interesting*"
+      },
+      "analogias": [
+        {
+          "titulo": "Fogata y mano",
+          "texto": "La fogata calienta y la mano se calienta: una causa y otra recibe."
+        },
+        {
+          "titulo": "Control remoto",
+          "texto": "El -ing aprieta el botón, y el -ed es la tele que reacciona."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *I am ___ in music.* (interest)",
+          "respuesta": "*interested*"
+        },
+        {
+          "ejercicio": "Completa: *That trip was ___.* (tire)",
+          "respuesta": "*tiring*"
+        },
+        {
+          "ejercicio": "Di «Estoy emocionado».",
+          "respuesta": "*I am excited.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-175",
+    "titulo": "Preposiciones con verbos y adjetivos",
+    "slug": "preposiciones-con-verbos-y-adjetivos-prepa",
+    "palabras": [
+      "dependent prepositions",
+      "listen to",
+      "good at",
+      "afraid of"
+    ],
+    "contenido": {
+      "idea": "Algunas palabras siempre traen un acompañante. Aprenderlas juntas te ahorra adivinar, como aprender un apellido con su nombre.",
+      "pizarron": "**La regla:** algunas palabras siempre traen su preposición, y después de ella el verbo lleva *-ing*.\n\n**Verbos**:\n\n*listen to*: escuchar.\n\n*wait for*: esperar.\n\n*look at*: mirar.\n\n*depend on*: depender de.\n\n*think about*: pensar en.\n\n**Adjetivos**:\n\n*good at*: bueno en.\n\n*afraid of*: miedo a.\n\n*interested in*: interesado en.\n\n*proud of*: orgulloso de.\n\n*married to*: casado con.\n\nDespués de la preposición, el verbo lleva *-ing*:\n\n*I am good at swimming.*",
+      "truco": "Aprende la palabra con su preposición, no sola.",
+      "practica": {
+        "ejercicio": "Completa: *I am afraid ___ spiders.*",
+        "respuesta": "*of*"
+      },
+      "analogias": [
+        {
+          "titulo": "Nombre y apellido",
+          "texto": "Aprendes listen to como nombre completo, no solo listen."
+        },
+        {
+          "titulo": "Pareja de baile",
+          "texto": "Cada palabra ya llega con su pareja a la fiesta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Completa: *She is good ___ math.*",
+          "respuesta": "*at*"
+        },
+        {
+          "ejercicio": "Completa: *I'm waiting ___ the bus.*",
+          "respuesta": "*for*"
+        },
+        {
+          "ejercicio": "Corrige: *I am interested in learn English.*",
+          "respuesta": "*I am interested in learning English.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-175",
+    "titulo": "Falsos amigos del inglés",
+    "slug": "falsos-amigos-del-ingles-prepa",
+    "palabras": [
+      "false friends",
+      "falsos cognados",
+      "actually",
+      "embarrassed"
+    ],
+    "contenido": {
+      "idea": "Hay palabras que parecen amigas porque se parecen al español, pero te engañan: significan otra cosa.",
+      "pizarron": "**Qué es:** los falsos amigos son palabras que se parecen al español, pero significan otra cosa.\n\n| Inglés | Significa | No significa |\n|---|---|---|\n| actually | en realidad | actualmente |\n| library | biblioteca | librería |\n| embarrassed | avergonzado | embarazada |\n| carpet | alfombra | carpeta |\n| exit | salida | éxito |\n| success | éxito | suceso |\n| assist | ayudar | asistir a clases |\n| large | grande | largo |\n| sensible | sensato | sensible |\n\nEjemplo gracioso:\n\n*I am embarrassed* significa «me da vergüenza».\n\n«Estoy embarazada» es *I am pregnant*.",
+      "truco": "Si se parece demasiado, revísala en el diccionario.",
+      "practica": {
+        "ejercicio": "¿Qué significa *exit*?",
+        "respuesta": "Salida."
+      },
+      "analogias": [
+        {
+          "titulo": "El amigo falso",
+          "texto": "Parece tu amigo, pero te lleva al lugar equivocado."
+        },
+        {
+          "titulo": "Gemelos",
+          "texto": "Se parecen mucho por fuera, pero hacen cosas muy diferentes."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cómo se dice «éxito»?",
+          "respuesta": "*success*"
+        },
+        {
+          "ejercicio": "¿Qué significa *large*?",
+          "respuesta": "Grande."
+        },
+        {
+          "ejercicio": "¿Qué significa *actually*?",
+          "respuesta": "En realidad."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-175",
+    "titulo": "Have something done",
+    "slug": "have-something-done-prepa",
+    "palabras": [
+      "causativo",
+      "have something done",
+      "get something done"
+    ],
+    "contenido": {
+      "idea": "No te cortas el pelo tú: alguien lo hace por ti. Para decir que mandaste hacer algo, el inglés tiene una fórmula.",
+      "pizarron": "**La regla:** *have* más cosa más participio significa que otra persona lo hizo por ti.\n\n**Fórmula**: *have* + cosa + participio.\n\n*I had my hair cut.* Me corté el pelo. Otra persona lo hizo.\n\n*She has her car washed.* Ella manda a lavar su coche.\n\n*We will have the house painted.* Mandaremos a pintar la casa.\n\nAl hablar se puede usar *get*:\n\n*I got my phone repaired.*\n\nCompara:\n\n- *I cut my hair.* Yo mismo lo corté.\n- *I had my hair cut.* Alguien me lo cortó.",
+      "truco": "Have, cosa y participio: lo hizo otro.",
+      "practica": {
+        "ejercicio": "Di «Mandé a reparar mi coche».",
+        "respuesta": "*I had my car repaired.*"
+      },
+      "analogias": [
+        {
+          "titulo": "El mecánico",
+          "texto": "El coche quedó arreglado, pero las manos fueron del mecánico."
+        },
+        {
+          "titulo": "El encargo",
+          "texto": "Tú pides y pagas; otra persona hace el trabajo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Di «Ella se hizo un vestido», con *a dress made*.",
+          "respuesta": "*She had a dress made.*"
+        },
+        {
+          "ejercicio": "¿Quién lavó el coche en *I had my car washed*?",
+          "respuesta": "Otra persona."
+        },
+        {
+          "ejercicio": "Di «Voy a mandar a pintar mi cuarto», con *will*.",
+          "respuesta": "*I will have my room painted.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-176",
+    "titulo": "Currículum y entrevista en inglés",
+    "slug": "curriculum-y-entrevista-en-ingles-prepa",
+    "palabras": [
+      "CV",
+      "resume",
+      "job interview",
+      "entrevista"
+    ],
+    "contenido": {
+      "idea": "Para un trabajo o una beca, tu papel y tu voz te presentan. En inglés se preparan con frases muy claras.",
+      "pizarron": "**La regla:** presenta quién eres, qué has hecho y qué buscas.\n\n**Currículum (CV)**:\n\n1. Nombre y contacto.\n2. *Education*: estudios.\n3. *Experience*: experiencia.\n4. *Skills*: habilidades.\n5. *Languages*: idiomas.\n\nUsa verbos fuertes: *organized*, *led*, *helped*.\n\n**Entrevista**:\n\n— *Tell me about yourself.*\n\nDi quién eres, qué estudias y qué buscas.\n\n— *Why do you want this job?*\n\n*I would like to learn and help your team.*\n\n— *What are your strengths?*\n\n*I am organized and responsible.*\n\nAl terminar di: *Thank you for your time.*",
+      "truco": "Presente, pasado y futuro: quién soy, qué hice y qué busco.",
+      "practica": {
+        "ejercicio": "¿Qué significa *skills*?",
+        "respuesta": "Habilidades."
+      },
+      "analogias": [
+        {
+          "titulo": "Tu anuncio",
+          "texto": "El CV es un anuncio breve donde el producto eres tú."
+        },
+        {
+          "titulo": "El ensayo",
+          "texto": "Practica las preguntas como una obra de teatro antes de la función."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Escribe tres frases para *Tell me about yourself*.",
+          "respuesta": "Debe decir quién eres, qué estudias y qué buscas."
+        },
+        {
+          "ejercicio": "¿Qué sección lleva tus estudios?",
+          "respuesta": "*Education*."
+        },
+        {
+          "ejercicio": "Di dos fortalezas tuyas en inglés.",
+          "respuesta": "Por ejemplo: *I am creative and responsible.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-178",
+    "titulo": "Dar tu opinión en inglés",
+    "slug": "dar-tu-opinion-en-ingles-prepa",
+    "palabras": [
+      "opinión",
+      "I think",
+      "I agree",
+      "debate"
+    ],
+    "contenido": {
+      "idea": "En un debate cada quien defiende su idea con respeto. Para eso necesitas frases para opinar, estar de acuerdo y discrepar.",
+      "pizarron": "**La regla:** una buena opinión lleva idea, razón y ejemplo.\n\n**Opinar**:\n\n*I think that...*\n\n*In my opinion,...*\n\n*I believe that...*\n\n**Estar de acuerdo**:\n\n*I agree with you.*\n\n*That's a good point.*\n\n**No estar de acuerdo** con respeto:\n\n*I see your point, but...*\n\n*I don't agree, because...*\n\n**Dar razones**:\n\n*because*, *for example*, *first*, *also*.\n\nModelo:\n\n*In my opinion, schools should recycle because it reduces waste. For example, paper can be used again.*",
+      "truco": "Opinión, razón y ejemplo.",
+      "practica": {
+        "ejercicio": "Di «Estoy de acuerdo contigo».",
+        "respuesta": "*I agree with you.*"
+      },
+      "analogias": [
+        {
+          "titulo": "Mesa de tres patas",
+          "texto": "Tu opinión se sostiene con tres patas: idea, razón y ejemplo."
+        },
+        {
+          "titulo": "Tenis",
+          "texto": "Recibes la idea del otro y la devuelves con respeto."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Corrige: *I am agree.*",
+          "respuesta": "*I agree.*"
+        },
+        {
+          "ejercicio": "Escribe tu opinión sobre usar celular en clase, con razón y ejemplo.",
+          "respuesta": "Debe tener opinión, *because* y un ejemplo."
+        },
+        {
+          "ejercicio": "Discrepa con respeto.",
+          "respuesta": "*I see your point, but I don't agree.*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-177",
+    "titulo": "Ensayo corto en inglés",
+    "slug": "ensayo-corto-en-ingles-prepa",
+    "palabras": [
+      "essay",
+      "introducción",
+      "thesis",
+      "conclusión"
+    ],
+    "contenido": {
+      "idea": "Un ensayo es un viaje: dices a dónde vas, recorres el camino y explicas a dónde llegaste.",
+      "pizarron": "**La regla:** un ensayo tiene introducción con *thesis*, desarrollo y conclusión.\n\n**Estructura de cinco párrafos**:\n\n1. **Introducción**: presenta el tema y tu idea principal, llamada *thesis*.\n\n*Students should learn English because it opens doors.*\n\n2-4. **Desarrollo**: cada párrafo da una razón con ejemplo.\n\n- *First,...*\n- *In addition,...*\n- *However, some people think...*\n\n5. **Conclusión**: repite tu idea con otras palabras.\n\n*In conclusion, English helps us...*\n\nConsejos:\n\n- Una idea por párrafo.\n- Sin contracciones.\n- Revisa tiempos y conectores.",
+      "truco": "Di lo que dirás, dilo y di lo que dijiste.",
+      "practica": {
+        "ejercicio": "¿Cómo se llama la idea principal del ensayo?",
+        "respuesta": "*Thesis*."
+      },
+      "analogias": [
+        {
+          "titulo": "El viaje",
+          "texto": "Mapa al inicio, paradas en medio y llegada al final."
+        },
+        {
+          "titulo": "La hamburguesa grande",
+          "texto": "Es el mismo párrafo de siempre, pero con varios rellenos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Escribe una *thesis* sobre el ejercicio físico.",
+          "respuesta": "Debe dar tu idea principal en una oración."
+        },
+        {
+          "ejercicio": "¿Con qué frase empiezas la conclusión?",
+          "respuesta": "*In conclusion*."
+        },
+        {
+          "ejercicio": "Escribe un ensayo de cinco párrafos sobre aprender inglés.",
+          "respuesta": "Debe tener introducción, tres párrafos y conclusión."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-177",
+    "titulo": "Prefijos y sufijos en inglés",
+    "slug": "prefijos-y-sufijos-en-ingles-prepa",
+    "palabras": [
+      "word formation",
+      "un-",
+      "re-",
+      "-tion",
+      "-ful",
+      "-less"
+    ],
+    "contenido": {
+      "idea": "Con unas cuantas piezas conviertes una palabra en muchas, como armar figuras nuevas con los mismos bloques.",
+      "pizarron": "**La regla:** los prefijos van al inicio, los sufijos al final, y cambian el significado.\n\n**Prefijos**, van al inicio:\n\n*un-*: no. *happy*, *unhappy*.\n\n*dis-*: no. *agree*, *disagree*.\n\n*re-*: otra vez. *write*, *rewrite*.\n\n*mis-*: mal. *understand*, *misunderstand*.\n\n**Sufijos**, van al final:\n\n*-er*: persona. *teach*, *teacher*.\n\n*-tion*: cosa o acción. *inform*, *information*.\n\n*-ful*: con. *care*, *careful*.\n\n*-less*: sin. *care*, *careless*.\n\n*-ness*: cualidad. *happy*, *happiness*.\n\nSi no conoces una palabra larga, busca sus piezas.\n\n**Para recordar:**\n- **Rewrite:** Volver a escribir.\n- **Helpless:** Sin ayuda, indefenso.",
+      "truco": "-ful es con; -less es sin.",
+      "practica": {
+        "ejercicio": "¿Qué significa *rewrite*?",
+        "respuesta": "Volver a escribir."
+      },
+      "analogias": [
+        {
+          "titulo": "Bloques",
+          "texto": "La raíz es la base y los prefijos son piezas que cambian la figura."
+        },
+        {
+          "titulo": "Sumas de palabras",
+          "texto": "Happy más -ness da felicidad, como una cuenta con palabras."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa *helpless*?",
+          "respuesta": "Sin ayuda, indefenso."
+        },
+        {
+          "ejercicio": "Forma una persona con *sing*.",
+          "respuesta": "*singer*"
+        },
+        {
+          "ejercicio": "Da lo contrario de *agree*.",
+          "respuesta": "*disagree*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-177",
+    "titulo": "Modismos comunes en inglés",
+    "slug": "modismos-comunes-en-ingles-prepa",
+    "palabras": [
+      "idioms",
+      "modismos",
+      "expresiones",
+      "break a leg"
+    ],
+    "contenido": {
+      "idea": "Decimos estar en la luna y nadie piensa en un viaje al espacio. El inglés también tiene frases que no significan lo que dicen.",
+      "pizarron": "**Qué es:** un modismo es una frase que no significa lo que dicen sus palabras.\n\nUn **modismo** o *idiom* no se traduce palabra por palabra.\n\n*a piece of cake*: algo muy fácil.\n\n*break a leg*: buena suerte, antes de una función.\n\n*hit the books*: ponerse a estudiar.\n\n*under the weather*: sentirse enfermo.\n\n*once in a blue moon*: casi nunca.\n\n*it's raining cats and dogs*: llueve mucho.\n\n*call it a day*: terminar por hoy.\n\nEjemplo:\n\n*The test was a piece of cake.* El examen estuvo facilísimo.\n\nÚsalos con amigos, no en textos formales.",
+      "truco": "Si la frase suena rara, puede ser un modismo.",
+      "practica": {
+        "ejercicio": "¿Qué significa *a piece of cake*?",
+        "respuesta": "Algo muy fácil."
+      },
+      "analogias": [
+        {
+          "titulo": "Chiste interno",
+          "texto": "Solo lo entiendes si ya conoces la frase, como un chiste de amigos."
+        },
+        {
+          "titulo": "Paquete cerrado",
+          "texto": "La frase viene empaquetada: no se abre palabra por palabra."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa *under the weather*?",
+          "respuesta": "Sentirse enfermo."
+        },
+        {
+          "ejercicio": "¿Qué significa *hit the books*?",
+          "respuesta": "Ponerse a estudiar."
+        },
+        {
+          "ejercicio": "¿Qué dices a alguien antes de actuar?",
+          "respuesta": "*Break a leg!*"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-177",
+    "titulo": "Prepararte para un examen de inglés",
+    "slug": "prepararte-para-un-examen-de-ingles-prepa",
+    "palabras": [
+      "TOEFL",
+      "Cambridge",
+      "niveles A1 B2",
+      "marco común europeo"
+    ],
+    "contenido": {
+      "idea": "Antes de una carrera conoces la pista. Antes de un examen de inglés necesitas saber tu nivel y cómo te van a evaluar.",
+      "pizarron": "**Qué es:** los exámenes de inglés evalúan leer, escuchar, hablar y escribir, en niveles de A1 a C2.\n\nLos niveles del **Marco Común Europeo** van de menor a mayor:\n\n*A1, A2, B1, B2, C1, C2*.\n\nA2 significa que manejas frases cotidianas.\n\nB1 significa que te defiendes en viajes y pláticas sencillas.\n\nB2 significa que hablas con bastante soltura.\n\nExámenes conocidos: *TOEFL*, *IELTS* y los de *Cambridge*.\n\nCasi todos evalúan cuatro partes:\n\n*Reading*, *Listening*, *Speaking* y *Writing*.\n\nPlan sencillo:\n\n1. Haz un examen de práctica.\n2. Trabaja tu parte más débil.\n3. Practica 20 minutos diarios.\n4. Repite con tiempo medido.",
+      "truco": "Practica con reloj, como el día del examen.",
+      "practica": {
+        "ejercicio": "Di las cuatro partes de un examen.",
+        "respuesta": "*Reading, Listening, Speaking, Writing*."
+      },
+      "analogias": [
+        {
+          "titulo": "Conocer la pista",
+          "texto": "Corres mejor si sabes dónde están las curvas de la carrera."
+        },
+        {
+          "titulo": "Escalones",
+          "texto": "Cada nivel es un escalón: nadie llega a C1 sin pasar por los anteriores."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuál es el nivel más alto?",
+          "respuesta": "C2."
+        },
+        {
+          "ejercicio": "¿Qué nivel va después de B1?",
+          "respuesta": "B2."
+        },
+        {
+          "ejercicio": "Haz tu plan de estudio de una semana, con 20 minutos diarios.",
+          "respuesta": "Debe indicar qué practicas cada día."
+        }
+      ]
+    }
+  }
 ]

@@ -1,72 +1,443 @@
 [
-{"nodo_id":"ems-044","titulo":"Nomenclatura inorgánica: óxidos","slug":"nomenclatura-inorganica-oxidos-prepa","palabras":["óxidos básicos","óxidos ácidos","anhídridos","Stock","IUPAC"],"contenido":{
-"idea":"Un compuesto puede tener varios nombres, como una persona con nombre oficial y apodo. Saber los tres sistemas evita confusiones.",
-"pizarron":"**Óxido básico**: metal + O.\n\n| Fórmula | Tradicional | Stock | Sistemática |\n|---|---|---|---|\n| $\\ce{FeO}$ | Óxido ferroso | Óxido de hierro (II) | Monóxido de hierro |\n| $\\ce{Fe2O3}$ | Óxido férrico | Óxido de hierro (III) | Trióxido de dihierro |\n\nTradicional: **-oso** menor valencia; **-ico** mayor.\n\n**Óxido ácido** o anhídrido: no metal + O.\n\n- $\\ce{SO2}$: dióxido de azufre.\n- $\\ce{SO3}$: trióxido de azufre.\n\nFórmula por cruce: Al³⁺ y O²⁻ dan $\\ce{Al2O3}$.",
-"truco":"Cruza las cargas para formar la fórmula.",
-"practica":{"ejercicio":"Fórmula del óxido de cobre (II).","respuesta":"$\\ce{CuO}$"},
-"analogias":[{"titulo":"Nombre y apodo","texto":"Óxido férrico y óxido de hierro (III) son la misma persona con distinta forma de llamarla."},{"titulo":"Cruce de cargas","texto":"El número de cada uno pasa al otro como intercambio de camisetas."}],
-"ejercicios":[{"ejercicio":"Nombra $\\ce{Cu2O}$ por Stock.","respuesta":"Óxido de cobre (I)."},{"ejercicio":"Nombra $\\ce{N2O5}$ sistemáticamente.","respuesta":"Pentóxido de dinitrógeno."},{"ejercicio":"Fórmula del óxido de plomo (IV).","respuesta":"$\\ce{PbO2}$"}]}},
-{"nodo_id":"ems-044","titulo":"Nomenclatura inorgánica: hidruros e hidróxidos","slug":"nomenclatura-inorganica-hidruros-e-hidroxidos-prepa","palabras":["hidruros","hidróxidos","nomenclatura"],"contenido":{
-"idea":"El hidrógeno puede portarse de dos maneras: como positivo o como negativo. De eso depende si hablamos de un hidruro o de un ácido.",
-"pizarron":"**Hidruros metálicos** (metal + H, con H como -1):\n\n- $\\ce{NaH}$: hidruro de sodio.\n- $\\ce{CaH2}$: hidruro de calcio.\n\n**Hidruros no metálicos**:\n\n- $\\ce{NH3}$: amoniaco.\n- $\\ce{CH4}$: metano.\n- $\\ce{PH3}$: fosfina.\n\n**Hidróxidos** (metal + OH):\n\n| Fórmula | Stock | Tradicional |\n|---|---|---|\n| $\\ce{Fe(OH)2}$ | Hidróxido de hierro (II) | Ferroso |\n| $\\ce{Fe(OH)3}$ | Hidróxido de hierro (III) | Férrico |\n\nFormación: óxido básico + agua = hidróxido.\n\n$$\\ce{CaO + H2O -> Ca(OH)2}$$",
-"truco":"Metal con H es hidruro; metal con OH es hidróxido.",
-"practica":{"ejercicio":"Nombra $\\ce{KH}$.","respuesta":"Hidruro de potasio."},
-"analogias":[{"titulo":"El doble papel","texto":"Un actor puede ser héroe o villano; el hidrógeno también cambia según su compañero."},{"titulo":"Agregar agua","texto":"Al añadir agua al óxido, nace una base, como al apagar la cal."}],
-"ejercicios":[{"ejercicio":"Fórmula del hidróxido de plomo (II).","respuesta":"$\\ce{Pb(OH)2}$"},{"ejercicio":"Nombre común del $\\ce{NH3}$.","respuesta":"Amoniaco."},{"ejercicio":"¿Qué forma $\\ce{Na2O + H2O}$?","respuesta":"$\\ce{2NaOH}$"}]}},
-{"nodo_id":"ems-044","titulo":"Nomenclatura inorgánica: ácidos","slug":"nomenclatura-inorganica-acidos-prepa","palabras":["ácidos","oxiácidos","hipo","per","nomenclatura"],"contenido":{
-"idea":"Los nombres de los oxiácidos son una escalera: de menos a más oxígeno, los prefijos y terminaciones te dicen en qué escalón estás.",
-"pizarron":"**Oxiácidos** con cuatro valencias, ejemplo cloro:\n\n| Fórmula | Nombre |\n|---|---|\n| $\\ce{HClO}$ | Ácido hipocloroso |\n| $\\ce{HClO2}$ | Ácido cloroso |\n| $\\ce{HClO3}$ | Ácido clórico |\n| $\\ce{HClO4}$ | Ácido perclórico |\n\nDe menor a mayor oxígeno: **hipo...oso**, **...oso**, **...ico**, **per...ico**.\n\nFormación: óxido ácido + agua.\n\n$$\\ce{SO3 + H2O -> H2SO4}$$\n\nHidrácidos: $\\ce{HF}$, ácido fluorhídrico.",
-"truco":"Hipo chiquito; per muy grande.",
-"practica":{"ejercicio":"Nombra $\\ce{HBrO4}$.","respuesta":"Ácido perbrómico."},
-"analogias":[{"titulo":"La escalera de oxígenos","texto":"Cada escalón agrega un oxígeno y cambia el nombre."},{"titulo":"Tallas de ropa","texto":"Hipo es chica, oso mediana, ico grande y per extra grande."}],
-"ejercicios":[{"ejercicio":"Fórmula del ácido hipobromoso.","respuesta":"$\\ce{HBrO}$"},{"ejercicio":"Nombra $\\ce{HClO3}$.","respuesta":"Ácido clórico."},{"ejercicio":"¿Qué forma $\\ce{CO2 + H2O}$?","respuesta":"$\\ce{H2CO3}$, ácido carbónico."}]}},
-{"nodo_id":"ems-044","titulo":"Nomenclatura inorgánica: sales","slug":"nomenclatura-inorganica-sales-prepa","palabras":["sales","oxisales","sales ácidas","nomenclatura"],"contenido":{
-"idea":"Una sal hereda su nombre del ácido del que viene. Si conoces al ácido, conoces a la sal.",
-"pizarron":"Cambio de terminación:\n\n| Ácido | Sal |\n|---|---|\n| -hídrico | -uro |\n| hipo-oso | hipo-ito |\n| -oso | -ito |\n| -ico | -ato |\n| per-ico | per-ato |\n\nEjemplos:\n\n- $\\ce{NaClO}$: hipoclorito de sodio.\n- $\\ce{KNO3}$: nitrato de potasio.\n- $\\ce{Fe2(SO4)3}$: sulfato de hierro (III).\n\n**Sal ácida**: conserva H.\n\n- $\\ce{NaHCO3}$: bicarbonato de sodio.\n\nReacción de neutralización:\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$",
-"truco":"Ico da ato, oso da ito, hídrico da uro.",
-"practica":{"ejercicio":"Nombra $\\ce{CaSO4}$.","respuesta":"Sulfato de calcio."},
-"analogias":[{"titulo":"El apellido heredado","texto":"La sal toma su apellido del ácido, cambiando la terminación."},{"titulo":"El bicarbonato de cocina","texto":"Es una sal ácida que, al calentarse, libera gas y esponja el pan."}],
-"ejercicios":[{"ejercicio":"Fórmula del perclorato de potasio.","respuesta":"$\\ce{KClO4}$"},{"ejercicio":"Nombra $\\ce{FeCl3}$.","respuesta":"Cloruro de hierro (III)."},{"ejercicio":"Fórmula del nitrato de calcio.","respuesta":"$\\ce{Ca(NO3)2}$"}]}},
-{"nodo_id":"ems-044","titulo":"Disoluciones: soluto y disolvente","slug":"disoluciones-soluto-y-disolvente-prepa","palabras":["disolución","soluto","disolvente","saturada","solubilidad"],"contenido":{
-"idea":"En un café con azúcar, el azúcar desaparece a la vista pero sigue ahí. Lo que se disuelve es el soluto y lo que disuelve, el disolvente.",
-"pizarron":"Una **disolución** es una mezcla homogénea.\n\n- **Soluto**: en menor cantidad.\n- **Disolvente**: en mayor cantidad; agua es el más común.\n\nTipos por cantidad de soluto:\n\n- **Diluida**: poco soluto.\n- **Concentrada**: mucho soluto.\n- **Saturada**: ya no admite más.\n- **Sobresaturada**: tiene más de lo normal; es inestable.\n\n**Solubilidad**: cuánto soluto se disuelve a cierta temperatura.\n\nEn general, en líquidos sube con la temperatura. En gases, baja: por eso un refresco caliente pierde gas.",
-"truco":"Soluto se disuelve; disolvente lo disuelve.",
-"practica":{"ejercicio":"En agua con sal, ¿cuál es el soluto?","respuesta":"La sal."},
-"analogias":[{"titulo":"El café con azúcar","texto":"Si pones demasiada azúcar, queda en el fondo: la disolución se saturó."},{"titulo":"El refresco","texto":"El gas se escapa más rápido cuando está caliente."}],
-"ejercicios":[{"ejercicio":"¿Qué significa saturada?","respuesta":"Que ya no disuelve más soluto a esa temperatura."},{"ejercicio":"¿Qué disuelve más azúcar: agua caliente o fría?","respuesta":"Caliente."},{"ejercicio":"¿Qué es una disolución homogénea?","respuesta":"Una mezcla con una sola fase visible."}]}},
-{"nodo_id":"ems-044","titulo":"Molaridad","slug":"molaridad-prepa","palabras":["molaridad","M","concentración","moles por litro"],"contenido":{
-"idea":"La molaridad dice cuántos paquetes de moléculas hay en cada litro. Es la medida más usada en laboratorio.",
-"pizarron":"$$M = \\frac{n}{V}$$\n\ndonde $n$ son moles y $V$ litros de disolución.\n\nEjemplo: 58.5 g de NaCl en 2 L.\n\n- $n = \\frac{58.5}{58.5} = 1$ mol.\n- $M = 0.5$ M.\n\nPreparar: ¿cuánta sal para 500 mL de 0.2 M?\n\n- $n = 0.2 \\times 0.5 = 0.1$ mol.\n- $m = 0.1 \\times 58.5 = 5.85$ g.\n\nConvierte mL a L antes de calcular.",
-"truco":"Moles entre litros.",
-"practica":{"ejercicio":"2 mol en 4 L.","respuesta":"0.5 M"},
-"analogias":[{"titulo":"Azúcar por jarra","texto":"Te dice cuánta azúcar hay por jarra, sin importar el tamaño del vaso."},{"titulo":"Pasajeros por vagón","texto":"Indica qué tan lleno está cada vagón, no cuántos hay en todo el tren."}],
-"ejercicios":[{"ejercicio":"40 g de NaOH (40 g/mol) en 1 L.","respuesta":"1 M"},{"ejercicio":"Moles en 250 mL de 2 M.","respuesta":"0.5 mol"},{"ejercicio":"49 g de $\\ce{H2SO4}$ (98 g/mol) en 2 L.","respuesta":"0.25 M"}]}},
-{"nodo_id":"ems-044","titulo":"Molalidad","slug":"molalidad-prepa","palabras":["molalidad","m","kilogramo de disolvente"],"contenido":{
-"idea":"La molaridad se fija en el volumen, que cambia con el calor. La molalidad se fija en la masa del disolvente, que no cambia.",
-"pizarron":"$$m = \\frac{n}{\\text{kg de disolvente}}$$\n\nEjemplo: 18 g de glucosa (180 g/mol) en 500 g de agua.\n\n- $n = 0.1$ mol.\n- $m = \\frac{0.1}{0.5} = 0.2$ mol/kg.\n\nDiferencia:\n\n- **Molaridad**: litros de **disolución**.\n- **Molalidad**: kilogramos de **disolvente**.\n\nSe usa para propiedades coligativas, como el aumento del punto de ebullición.\n\nComo la masa no cambia con la temperatura, es útil cuando esta varía.",
-"truco":"Molalidad: masa de disolvente, en kilos.",
-"practica":{"ejercicio":"1 mol en 2 kg de agua.","respuesta":"0.5 mol/kg"},
-"analogias":[{"titulo":"Pesar en vez de medir","texto":"El volumen del agua se expande con el calor, pero la masa se queda igual."},{"titulo":"Agua salada para pasta","texto":"Pones sal respecto a cuánta agua hay, no respecto al total ya mezclado."}],
-"ejercicios":[{"ejercicio":"0.5 mol en 250 g.","respuesta":"2 mol/kg"},{"ejercicio":"¿Qué mide el denominador?","respuesta":"Kilogramos de disolvente."},{"ejercicio":"58.5 g de NaCl en 1 kg de agua.","respuesta":"1 mol/kg"}]}},
-{"nodo_id":"ems-044","titulo":"Normalidad","slug":"normalidad-prepa","palabras":["normalidad","N","equivalentes","ácidos y bases"],"contenido":{
-"idea":"Un ácido puede soltar uno, dos o tres hidrógenos. La normalidad cuenta cuánta capacidad de reacción tiene una disolución.",
-"pizarron":"$$N = \\frac{\\text{equivalentes}}{\\text{litros}}$$\n\nTambién:\n\n$$N = M \\times k$$\n\ndonde $k$ es:\n\n- Ácidos: número de H que suelta.\n- Bases: número de OH.\n- Sales: carga total positiva.\n\nEjemplos:\n\n- $\\ce{HCl}$ 1 M = 1 N.\n- $\\ce{H2SO4}$ 1 M = 2 N.\n- $\\ce{Ca(OH)2}$ 0.5 M = 1 N.\n\nEn titulaciones:\n\n$$N_1V_1 = N_2V_2$$",
-"truco":"Normalidad es molaridad por sus H u OH.",
-"practica":{"ejercicio":"$\\ce{H3PO4}$ 2 M. ¿Normalidad?","respuesta":"6 N"},
-"analogias":[{"titulo":"Pilas dobles","texto":"Una pila que da el doble de corriente equivale a dos pilas normales."},{"titulo":"Trabajadores por persona","texto":"No importa cuántos son, sino cuánto trabajo hace cada quien."}],
-"ejercicios":[{"ejercicio":"$\\ce{NaOH}$ 3 M. ¿Normalidad?","respuesta":"3 N"},{"ejercicio":"$\\ce{H2SO4}$ 0.5 M. ¿Normalidad?","respuesta":"1 N"},{"ejercicio":"¿Qué vale $k$ para el HCl?","respuesta":"1"}]}},
-{"nodo_id":"ems-044","titulo":"Diluciones","slug":"diluciones-prepa","palabras":["dilución","C1V1","concentrado","rebajar"],"contenido":{
-"idea":"Si un jugo concentrado es muy fuerte, le agregas agua. El jugo no cambia, solo se reparte en más agua.",
-"pizarron":"Al diluir, los moles de soluto no cambian:\n\n$$M_1V_1 = M_2V_2$$\n\nEjemplo: 100 mL de HCl 6 M a 2 M.\n\n$$V_2 = \\frac{6 \\times 100}{2} = 300 \\text{ mL}$$\n\nSe agregan 200 mL de agua.\n\nEjemplo: preparar 500 mL de 0.5 M desde 5 M.\n\n$$V_1 = \\frac{0.5 \\times 500}{5} = 50 \\text{ mL}$$\n\nSeguridad: **siempre agrega ácido al agua**, no agua al ácido.",
-"truco":"Concentración por volumen se conserva.",
-"practica":{"ejercicio":"50 mL de 4 M se llevan a 200 mL. ¿Qué concentración?","respuesta":"1 M"},
-"analogias":[{"titulo":"Jugo concentrado","texto":"Más agua no agrega fruta: la misma fruta rinde más vasos, pero más suave."},{"titulo":"Pintura rebajada","texto":"Agregar solvente reparte el color en más líquido."}],
-"ejercicios":[{"ejercicio":"$V_2$ si 10 mL de 12 M a 3 M.","respuesta":"40 mL"},{"ejercicio":"$V_1$ para 1 L de 0.1 M desde 2 M.","respuesta":"50 mL"},{"ejercicio":"¿Se agrega agua al ácido?","respuesta":"No, el ácido se agrega al agua."}]}},
-{"nodo_id":"ems-050","titulo":"Ley de Boyle","slug":"ley-de-boyle-prepa","palabras":["Boyle","presión","volumen","gases"],"contenido":{
-"idea":"Si aprietas una jeringa con el orificio tapado, cuesta más: menos espacio, más presión. Es la ley de Boyle.",
-"pizarron":"A **temperatura constante**, presión y volumen son inversamente proporcionales.\n\n$$P_1V_1 = P_2V_2$$\n\nEjemplo: 2 L a 1 atm se comprimen a 0.5 L.\n\n$$P_2 = \\frac{1 \\times 2}{0.5} = 4 \\text{ atm}$$\n\nUsos:\n\n- Respiración: los pulmones aumentan volumen y baja la presión.\n- Buzos: al subir, el aire en los pulmones se expande.\n\nUnidades: 1 atm = 760 mmHg = 101.3 kPa.",
-"truco":"Menos espacio, más presión.",
-"practica":{"ejercicio":"5 L a 2 atm pasan a 10 L. ¿Qué presión?","respuesta":"1 atm"},
-"analogias":[{"titulo":"La jeringa","texto":"Al empujar el émbolo, las partículas chocan más seguido con las paredes."},{"titulo":"Un camión lleno","texto":"Mientras menos espacio, más se empujan los pasajeros."}],
-"ejercicios":[{"ejercicio":"3 L a 4 atm pasan a 6 atm. ¿Volumen?","respuesta":"2 L"},{"ejercicio":"¿Qué se mantiene constante?","respuesta":"La temperatura."},{"ejercicio":"Convierte 2 atm a mmHg.","respuesta":"1520 mmHg"}]}}
+{
+"nodo_id": "ems-044",
+"titulo": "Nomenclatura inorgánica: óxidos",
+"slug": "nomenclatura-inorganica-oxidos-prepa",
+"palabras": [
+"óxidos básicos",
+"óxidos ácidos",
+"anhídridos",
+"Stock",
+"IUPAC"
+],
+"contenido": {
+"idea": "Un compuesto puede tener varios nombres, como una persona con nombre oficial y apodo. Saber los tres sistemas evita confusiones.",
+"pizarron": "**La regla:** un óxido une oxígeno con otro elemento, y se nombra *óxido de* más ese elemento.\n\n**Óxido básico**: metal + O.\n\n| Fórmula | Tradicional | Stock | Sistemática |\n|---|---|---|---|\n| $\\ce{FeO}$ | Óxido ferroso | Óxido de hierro (II) | Monóxido de hierro |\n| $\\ce{Fe2O3}$ | Óxido férrico | Óxido de hierro (III) | Trióxido de dihierro |\n\nTradicional: **-oso** menor valencia; **-ico** mayor.\n\n**Óxido ácido** o anhídrido: no metal + O.\n\n- $\\ce{SO2}$: dióxido de azufre.\n- $\\ce{SO3}$: trióxido de azufre.\n\nFórmula por cruce: Al³⁺ y O²⁻ dan $\\ce{Al2O3}$.",
+"truco": "Cruza las cargas para formar la fórmula.",
+"practica": {
+"ejercicio": "Fórmula del óxido de cobre (II).",
+"respuesta": "$\\ce{CuO}$"
+},
+"analogias": [
+{
+"titulo": "Nombre y apodo",
+"texto": "Óxido férrico y óxido de hierro (III) son la misma persona con distinta forma de llamarla."
+},
+{
+"titulo": "Cruce de cargas",
+"texto": "El número de cada uno pasa al otro como intercambio de camisetas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra $\\ce{Cu2O}$ por Stock.",
+"respuesta": "Óxido de cobre (I)."
+},
+{
+"ejercicio": "Nombra $\\ce{N2O5}$ sistemáticamente.",
+"respuesta": "Pentóxido de dinitrógeno."
+},
+{
+"ejercicio": "Fórmula del óxido de plomo (IV).",
+"respuesta": "$\\ce{PbO2}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Nomenclatura inorgánica: hidruros e hidróxidos",
+"slug": "nomenclatura-inorganica-hidruros-e-hidroxidos-prepa",
+"palabras": [
+"hidruros",
+"hidróxidos",
+"nomenclatura"
+],
+"contenido": {
+"idea": "El hidrógeno puede portarse de dos maneras: como positivo o como negativo. De eso depende si hablamos de un hidruro o de un ácido.",
+"pizarron": "**La regla:** los hidruros llevan hidrógeno, y los hidróxidos llevan el grupo $\\ce{OH}$.\n\n**Hidruros metálicos** (metal + H, con H como -1):\n\n- $\\ce{NaH}$: hidruro de sodio.\n- $\\ce{CaH2}$: hidruro de calcio.\n\n**Hidruros no metálicos**:\n\n- $\\ce{NH3}$: amoniaco.\n- $\\ce{CH4}$: metano.\n- $\\ce{PH3}$: fosfina.\n\n**Hidróxidos** (metal + OH):\n\n| Fórmula | Stock | Tradicional |\n|---|---|---|\n| $\\ce{Fe(OH)2}$ | Hidróxido de hierro (II) | Ferroso |\n| $\\ce{Fe(OH)3}$ | Hidróxido de hierro (III) | Férrico |\n\nFormación: óxido básico + agua = hidróxido.\n\n$$\\ce{CaO + H2O -> Ca(OH)2}$$",
+"truco": "Metal con H es hidruro; metal con OH es hidróxido.",
+"practica": {
+"ejercicio": "Nombra $\\ce{KH}$.",
+"respuesta": "Hidruro de potasio."
+},
+"analogias": [
+{
+"titulo": "El doble papel",
+"texto": "Un actor puede ser héroe o villano; el hidrógeno también cambia según su compañero."
+},
+{
+"titulo": "Agregar agua",
+"texto": "Al añadir agua al óxido, nace una base, como al apagar la cal."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Fórmula del hidróxido de plomo (II).",
+"respuesta": "$\\ce{Pb(OH)2}$"
+},
+{
+"ejercicio": "Nombre común del $\\ce{NH3}$.",
+"respuesta": "Amoniaco."
+},
+{
+"ejercicio": "¿Qué forma $\\ce{Na2O + H2O}$?",
+"respuesta": "$\\ce{2NaOH}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Nomenclatura inorgánica: ácidos",
+"slug": "nomenclatura-inorganica-acidos-prepa",
+"palabras": [
+"ácidos",
+"oxiácidos",
+"hipo",
+"per",
+"nomenclatura"
+],
+"contenido": {
+"idea": "Los nombres de los oxiácidos son una escalera: de menos a más oxígeno, los prefijos y terminaciones te dicen en qué escalón estás.",
+"pizarron": "**La regla:** los ácidos empiezan con H, y se nombran con la palabra ácido.\n\n**Oxiácidos** con cuatro valencias, ejemplo cloro:\n\n| Fórmula | Nombre |\n|---|---|\n| $\\ce{HClO}$ | Ácido hipocloroso |\n| $\\ce{HClO2}$ | Ácido cloroso |\n| $\\ce{HClO3}$ | Ácido clórico |\n| $\\ce{HClO4}$ | Ácido perclórico |\n\nDe menor a mayor oxígeno: **hipo...oso**, **...oso**, **...ico**, **per...ico**.\n\nFormación: óxido ácido + agua.\n\n$$\\ce{SO3 + H2O -> H2SO4}$$\n\nHidrácidos: $\\ce{HF}$, ácido fluorhídrico.",
+"truco": "Hipo chiquito; per muy grande.",
+"practica": {
+"ejercicio": "Nombra $\\ce{HBrO4}$.",
+"respuesta": "Ácido perbrómico."
+},
+"analogias": [
+{
+"titulo": "La escalera de oxígenos",
+"texto": "Cada escalón agrega un oxígeno y cambia el nombre."
+},
+{
+"titulo": "Tallas de ropa",
+"texto": "Hipo es chica, oso mediana, ico grande y per extra grande."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Fórmula del ácido hipobromoso.",
+"respuesta": "$\\ce{HBrO}$"
+},
+{
+"ejercicio": "Nombra $\\ce{HClO3}$.",
+"respuesta": "Ácido clórico."
+},
+{
+"ejercicio": "¿Qué forma $\\ce{CO2 + H2O}$?",
+"respuesta": "$\\ce{H2CO3}$, ácido carbónico."
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Nomenclatura inorgánica: sales",
+"slug": "nomenclatura-inorganica-sales-prepa",
+"palabras": [
+"sales",
+"oxisales",
+"sales ácidas",
+"nomenclatura"
+],
+"contenido": {
+"idea": "Una sal hereda su nombre del ácido del que viene. Si conoces al ácido, conoces a la sal.",
+"pizarron": "**La regla:** las sales unen un catión con un anión, y se nombra primero el anión.\n\nCambio de terminación:\n\n| Ácido | Sal |\n|---|---|\n| -hídrico | -uro |\n| hipo-oso | hipo-ito |\n| -oso | -ito |\n| -ico | -ato |\n| per-ico | per-ato |\n\nEjemplos:\n\n- $\\ce{NaClO}$: hipoclorito de sodio.\n- $\\ce{KNO3}$: nitrato de potasio.\n- $\\ce{Fe2(SO4)3}$: sulfato de hierro (III).\n\n**Sal ácida**: conserva H.\n\n- $\\ce{NaHCO3}$: bicarbonato de sodio.\n\nReacción de neutralización:\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$",
+"truco": "Ico da ato, oso da ito, hídrico da uro.",
+"practica": {
+"ejercicio": "Nombra $\\ce{CaSO4}$.",
+"respuesta": "Sulfato de calcio."
+},
+"analogias": [
+{
+"titulo": "El apellido heredado",
+"texto": "La sal toma su apellido del ácido, cambiando la terminación."
+},
+{
+"titulo": "El bicarbonato de cocina",
+"texto": "Es una sal ácida que, al calentarse, libera gas y esponja el pan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Fórmula del perclorato de potasio.",
+"respuesta": "$\\ce{KClO4}$"
+},
+{
+"ejercicio": "Nombra $\\ce{FeCl3}$.",
+"respuesta": "Cloruro de hierro (III)."
+},
+{
+"ejercicio": "Fórmula del nitrato de calcio.",
+"respuesta": "$\\ce{Ca(NO3)2}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Disoluciones: soluto y disolvente",
+"slug": "disoluciones-soluto-y-disolvente-prepa",
+"palabras": [
+"disolución",
+"soluto",
+"disolvente",
+"saturada",
+"solubilidad"
+],
+"contenido": {
+"idea": "En un café con azúcar, el azúcar desaparece a la vista pero sigue ahí. Lo que se disuelve es el soluto y lo que disuelve, el disolvente.",
+"pizarron": "**Qué es:** una disolución es una mezcla uniforme: el soluto se disuelve en el disolvente.\n\nUna **disolución** es una mezcla homogénea.\n\n- **Soluto**: en menor cantidad.\n- **Disolvente**: en mayor cantidad; agua es el más común.\n\nTipos por cantidad de soluto:\n\n- **Diluida**: poco soluto.\n- **Concentrada**: mucho soluto.\n- **Saturada**: ya no admite más.\n- **Sobresaturada**: tiene más de lo normal; es inestable.\n\n**Solubilidad**: cuánto soluto se disuelve a cierta temperatura.\n\nEn general, en líquidos sube con la temperatura. En gases, baja: por eso un refresco caliente pierde gas.",
+"truco": "Soluto se disuelve; disolvente lo disuelve.",
+"practica": {
+"ejercicio": "En agua con sal, ¿cuál es el soluto?",
+"respuesta": "La sal."
+},
+"analogias": [
+{
+"titulo": "El café con azúcar",
+"texto": "Si pones demasiada azúcar, queda en el fondo: la disolución se saturó."
+},
+{
+"titulo": "El refresco",
+"texto": "El gas se escapa más rápido cuando está caliente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa saturada?",
+"respuesta": "Que ya no disuelve más soluto a esa temperatura."
+},
+{
+"ejercicio": "¿Qué disuelve más azúcar: agua caliente o fría?",
+"respuesta": "Caliente."
+},
+{
+"ejercicio": "¿Qué es una disolución homogénea?",
+"respuesta": "Una mezcla con una sola fase visible."
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Molaridad",
+"slug": "molaridad-prepa",
+"palabras": [
+"molaridad",
+"M",
+"concentración",
+"moles por litro"
+],
+"contenido": {
+"idea": "La molaridad dice cuántos paquetes de moléculas hay en cada litro. Es la medida más usada en laboratorio.",
+"pizarron": "**La regla:** molaridad es moles de soluto entre litros de disolución: $M = \\frac{n}{V}$.\n\n$$M = \\frac{n}{V}$$\n\ndonde $n$ son moles y $V$ litros de disolución.\n\nEjemplo: 58.5 g de NaCl en 2 L.\n\n- $n = \\frac{58.5}{58.5} = 1$ mol.\n- $M = 0.5$ M.\n\nPreparar: ¿cuánta sal para 500 mL de 0.2 M?\n\n- $n = 0.2 \\times 0.5 = 0.1$ mol.\n- $m = 0.1 \\times 58.5 = 5.85$ g.\n\nConvierte mL a L antes de calcular.",
+"truco": "Moles entre litros.",
+"practica": {
+"ejercicio": "2 mol en 4 L.",
+"respuesta": "0.5 M"
+},
+"analogias": [
+{
+"titulo": "Azúcar por jarra",
+"texto": "Te dice cuánta azúcar hay por jarra, sin importar el tamaño del vaso."
+},
+{
+"titulo": "Pasajeros por vagón",
+"texto": "Indica qué tan lleno está cada vagón, no cuántos hay en todo el tren."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "40 g de NaOH (40 g/mol) en 1 L.",
+"respuesta": "1 M"
+},
+{
+"ejercicio": "Moles en 250 mL de 2 M.",
+"respuesta": "0.5 mol"
+},
+{
+"ejercicio": "49 g de $\\ce{H2SO4}$ (98 g/mol) en 2 L.",
+"respuesta": "0.25 M"
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Molalidad",
+"slug": "molalidad-prepa",
+"palabras": [
+"molalidad",
+"m",
+"kilogramo de disolvente"
+],
+"contenido": {
+"idea": "La molaridad se fija en el volumen, que cambia con el calor. La molalidad se fija en la masa del disolvente, que no cambia.",
+"pizarron": "**La regla:** molalidad es moles de soluto entre kilogramos de disolvente.\n\n$$m = \\frac{n}{\\text{kg de disolvente}}$$\n\nEjemplo: 18 g de glucosa (180 g/mol) en 500 g de agua.\n\n- $n = 0.1$ mol.\n- $m = \\frac{0.1}{0.5} = 0.2$ mol/kg.\n\nDiferencia:\n\n- **Molaridad**: litros de **disolución**.\n- **Molalidad**: kilogramos de **disolvente**.\n\nSe usa para propiedades coligativas, como el aumento del punto de ebullición.\n\nComo la masa no cambia con la temperatura, es útil cuando esta varía.",
+"truco": "Molalidad: masa de disolvente, en kilos.",
+"practica": {
+"ejercicio": "1 mol en 2 kg de agua.",
+"respuesta": "0.5 mol/kg"
+},
+"analogias": [
+{
+"titulo": "Pesar en vez de medir",
+"texto": "El volumen del agua se expande con el calor, pero la masa se queda igual."
+},
+{
+"titulo": "Agua salada para pasta",
+"texto": "Pones sal respecto a cuánta agua hay, no respecto al total ya mezclado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "0.5 mol en 250 g.",
+"respuesta": "2 mol/kg"
+},
+{
+"ejercicio": "¿Qué mide el denominador?",
+"respuesta": "Kilogramos de disolvente."
+},
+{
+"ejercicio": "58.5 g de NaCl en 1 kg de agua.",
+"respuesta": "1 mol/kg"
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Normalidad",
+"slug": "normalidad-prepa",
+"palabras": [
+"normalidad",
+"N",
+"equivalentes",
+"ácidos y bases"
+],
+"contenido": {
+"idea": "Un ácido puede soltar uno, dos o tres hidrógenos. La normalidad cuenta cuánta capacidad de reacción tiene una disolución.",
+"pizarron": "**La regla:** normalidad es equivalentes de soluto entre litros de disolución.\n\n$$N = \\frac{\\text{equivalentes}}{\\text{litros}}$$\n\nTambién:\n\n$$N = M \\times k$$\n\ndonde $k$ es:\n\n- Ácidos: número de H que suelta.\n- Bases: número de OH.\n- Sales: carga total positiva.\n\nEjemplos:\n\n- $\\ce{HCl}$ 1 M = 1 N.\n- $\\ce{H2SO4}$ 1 M = 2 N.\n- $\\ce{Ca(OH)2}$ 0.5 M = 1 N.\n\nEn titulaciones:\n\n$$N_1V_1 = N_2V_2$$",
+"truco": "Normalidad es molaridad por sus H u OH.",
+"practica": {
+"ejercicio": "$\\ce{H3PO4}$ 2 M. ¿Normalidad?",
+"respuesta": "6 N"
+},
+"analogias": [
+{
+"titulo": "Pilas dobles",
+"texto": "Una pila que da el doble de corriente equivale a dos pilas normales."
+},
+{
+"titulo": "Trabajadores por persona",
+"texto": "No importa cuántos son, sino cuánto trabajo hace cada quien."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$\\ce{NaOH}$ 3 M. ¿Normalidad?",
+"respuesta": "3 N"
+},
+{
+"ejercicio": "$\\ce{H2SO4}$ 0.5 M. ¿Normalidad?",
+"respuesta": "1 N"
+},
+{
+"ejercicio": "¿Qué vale $k$ para el HCl?",
+"respuesta": "1"
+}
+]
+}
+},
+{
+"nodo_id": "ems-044",
+"titulo": "Diluciones",
+"slug": "diluciones-prepa",
+"palabras": [
+"dilución",
+"C1V1",
+"concentrado",
+"rebajar"
+],
+"contenido": {
+"idea": "Si un jugo concentrado es muy fuerte, le agregas agua. El jugo no cambia, solo se reparte en más agua.",
+"pizarron": "**La regla:** al diluir se cumple $C_1 V_1 = C_2 V_2$.\n\nAl diluir, los moles de soluto no cambian:\n\n$$M_1V_1 = M_2V_2$$\n\nEjemplo: 100 mL de HCl 6 M a 2 M.\n\n$$V_2 = \\frac{6 \\times 100}{2} = 300 \\text{ mL}$$\n\nSe agregan 200 mL de agua.\n\nEjemplo: preparar 500 mL de 0.5 M desde 5 M.\n\n$$V_1 = \\frac{0.5 \\times 500}{5} = 50 \\text{ mL}$$\n\nSeguridad: **siempre agrega ácido al agua**, no agua al ácido.",
+"truco": "Concentración por volumen se conserva.",
+"practica": {
+"ejercicio": "50 mL de 4 M se llevan a 200 mL. ¿Qué concentración?",
+"respuesta": "1 M"
+},
+"analogias": [
+{
+"titulo": "Jugo concentrado",
+"texto": "Más agua no agrega fruta: la misma fruta rinde más vasos, pero más suave."
+},
+{
+"titulo": "Pintura rebajada",
+"texto": "Agregar solvente reparte el color en más líquido."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$V_2$ si 10 mL de 12 M a 3 M.",
+"respuesta": "40 mL"
+},
+{
+"ejercicio": "$V_1$ para 1 L de 0.1 M desde 2 M.",
+"respuesta": "50 mL"
+},
+{
+"ejercicio": "¿Se agrega agua al ácido?",
+"respuesta": "No, el ácido se agrega al agua."
+}
+]
+}
+},
+{
+"nodo_id": "ems-050",
+"titulo": "Ley de Boyle",
+"slug": "ley-de-boyle-prepa",
+"palabras": [
+"Boyle",
+"presión",
+"volumen",
+"gases"
+],
+"contenido": {
+"idea": "Si aprietas una jeringa con el orificio tapado, cuesta más: menos espacio, más presión. Es la ley de Boyle.",
+"pizarron": "**La ley:** a temperatura constante, si aumenta la presión de un gas, baja su volumen: $P_1 V_1 = P_2 V_2$.\n\nA **temperatura constante**, presión y volumen son inversamente proporcionales.\n\n$$P_1V_1 = P_2V_2$$\n\nEjemplo: 2 L a 1 atm se comprimen a 0.5 L.\n\n$$P_2 = \\frac{1 \\times 2}{0.5} = 4 \\text{ atm}$$\n\nUsos:\n\n- Respiración: los pulmones aumentan volumen y baja la presión.\n- Buzos: al subir, el aire en los pulmones se expande.\n\nUnidades: 1 atm = 760 mmHg = 101.3 kPa.",
+"truco": "Menos espacio, más presión.",
+"practica": {
+"ejercicio": "5 L a 2 atm pasan a 10 L. ¿Qué presión?",
+"respuesta": "1 atm"
+},
+"analogias": [
+{
+"titulo": "La jeringa",
+"texto": "Al empujar el émbolo, las partículas chocan más seguido con las paredes."
+},
+{
+"titulo": "Un camión lleno",
+"texto": "Mientras menos espacio, más se empujan los pasajeros."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "3 L a 4 atm pasan a 6 atm. ¿Volumen?",
+"respuesta": "2 L"
+},
+{
+"ejercicio": "¿Qué se mantiene constante?",
+"respuesta": "La temperatura."
+},
+{
+"ejercicio": "Convierte 2 atm a mmHg.",
+"respuesta": "1520 mmHg"
+}
+]
+}
+}
 ]

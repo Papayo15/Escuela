@@ -10,7 +10,7 @@
 ],
 "contenido": {
 "idea": "Una fracción es una división pendiente. $\\frac{3}{4}$ dice \"reparte 3 entre 4\"; al hacerla, sale el decimal. Y un decimal es una fracción disfrazada: 0.25 son 25 centésimos.",
-"pizarron": "**De fracción a decimal:** divide.\n\n$$\\frac{5}{8} = 0.625 \\qquad \\frac{1}{3} = 0.\\overline{3}$$\n\n**De decimal finito a fracción:**\n\n$$0.125 = \\frac{125}{1000} = \\frac{1}{8}$$\n\n**De decimal periódico a fracción:** si $x = 0.\\overline{6}$, entonces $10x = 6.\\overline{6}$. Al restar, $9x = 6$ y $x = \\frac{2}{3}$.",
+"pizarron": "**La regla:** para pasar de fracción a decimal, divide el numerador entre el denominador. Para pasar de decimal a fracción, escribe el número sobre 10, 100 o 1000 y simplifica.\n\n**De fracción a decimal:**\n\n$$\\frac{5}{8} = 5 \\div 8 = 0.625$$\n\nAlgunas no terminan: $\\frac{1}{3} = 0.333...$, y se escribe $0.\\overline{3}$.\n\n**De decimal a fracción:**\n\n$$0.125 = \\frac{125}{1000} = \\frac{1}{8}$$\n\n**De decimal periódico a fracción:**\n\nSea $x = 0.\\overline{6}$.\n\nMultiplica por 10: $10x = 6.\\overline{6}$.\n\nResta las dos: $9x = 6$.\n\nEntonces $x = \\frac{6}{9} = \\frac{2}{3}$.",
 "truco": "**Cada decimal cuenta un cero abajo:** 2 decimales, denominador 100.",
 "practica": {
 "ejercicio": "Convierte $0.\\overline{27}$ a fracción.",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "Piensa en un elevador: los pisos sobre la calle son positivos, los sótanos negativos y la planta baja es cero. Estar en el sótano 3 es estar más abajo que el sótano 1, aunque 3 sea mayor que 1.",
-"pizarron": "Sobre la recta numérica, un número es mayor si está más a la derecha:\n\n$$-5 < -2 < 0 < 3$$\n\n**Valor absoluto:** distancia al cero.\n\n$$|-7| = 7 \\qquad |7| = 7$$\n\n**Opuesto:** el de $4$ es $-4$.",
+"pizarron": "**Qué es:** los números positivos están arriba del cero y los negativos debajo. El valor absoluto de un número es su distancia al cero.\n\n**Piensa en un termómetro:** $-5$ grados es más frío que $-2$ grados.\n\nEn la recta numérica, un número es mayor si está más a la derecha.\n\n$$-5 < -2 < 0 < 3$$\n\n**Valor absoluto:** no importa de qué lado estés, solo la distancia.\n\n$$|-7| = 7 \\qquad |7| = 7$$\n\n**Opuesto:** es el número al otro lado del cero. El opuesto de $4$ es $-4$.",
 "truco": "**Entre negativos, gana el más cercano al cero.**",
 "practica": {
 "ejercicio": "Ordena de menor a mayor: $2, -6, 0, -1$.",
@@ -98,7 +98,7 @@
 ],
 "contenido": {
 "idea": "Imagina que sumar es ganar y restar es perder. Si debes 5 y ganas 2, sigues debiendo 3. Y quitar una deuda es como ganar dinero: por eso restar un negativo suma.",
-"pizarron": "**Suma y resta:**\n\n$$-5 + 2 = -3 \\qquad 4 - (-3) = 7$$\n\n**Multiplicación y división:** signos iguales dan $+$; diferentes dan $-$.\n\n$$(-4)(-3) = 12 \\qquad (-12) \\div 3 = -4$$\n\n**Jerarquía:** paréntesis, potencias y raíces, multiplicaciones y divisiones, sumas y restas.",
+"pizarron": "**La regla:** al multiplicar o dividir, signos iguales dan positivo y signos diferentes dan negativo. Restar un negativo es lo mismo que sumar.\n\n**Suma y resta:** piensa en subir y bajar por una escalera.\n\n$$-5 + 2 = -3$$\n\nEstabas 5 abajo y subiste 2.\n\n$$4 - (-3) = 4 + 3 = 7$$\n\nQuitar una deuda es como ganar.\n\n**Multiplicación y división:**\n\n$$(-4)(-3) = 12 \\qquad (-12) \\div 3 = -4$$\n\n**Orden de las operaciones:**\n\n1. Paréntesis.\n2. Potencias y raíces.\n3. Multiplicaciones y divisiones.\n4. Sumas y restas.",
 "truco": "**Iguales suman fuerzas, positivo; diferentes se pelean, negativo.**",
 "practica": {
 "ejercicio": "Resuelve $3 - 2 \\times (4 - 7)$.",
@@ -141,7 +141,7 @@
 ],
 "contenido": {
 "idea": "Si cada semana ahorras 20 pesos y empezaste con 50, puedes saber cuánto tendrás en la semana 100 sin contar una por una. Encontrar el patrón es encontrar la regla que produce cada número.",
-"pizarron": "**Sucesión:** 5, 8, 11, 14, ...\n\n1. Diferencia constante: 3.\n2. Compara con $3n$: 3, 6, 9, ...\n3. Falta sumar 2.\n\n$$a_n = 3n + 2$$\n\nComprobación: $a_4 = 14$. Si las segundas diferencias son constantes, la regla es cuadrática.",
+"pizarron": "**Qué es:** una sucesión es una lista de números que sigue una regla. Encontrar la regla permite saber cualquier término sin escribirlos todos.\n\n**Ejemplo:** 5, 8, 11, 14, ...\n\nPaso 1. Mira cuánto crece: de 3 en 3.\n\nPaso 2. Eso se parece a la tabla del 3: 3, 6, 9, 12.\n\nPaso 3. A cada uno le faltan 2 para llegar.\n\nLa regla es:\n\n$$a_n = 3n + 2$$\n\n$n$ es el lugar en la lista. $a_n$ es el número en ese lugar.\n\nComprueba con el lugar 4: $3(4) + 2 = 14$. Sí es.\n\nSi las diferencias de las diferencias son iguales, la regla lleva $n^2$.",
 "truco": "**La diferencia es el número que va con la $n$.**",
 "practica": {
 "ejercicio": "Encuentra la regla de 7, 12, 17, 22, ...",
@@ -185,7 +185,7 @@
 ],
 "contenido": {
 "idea": "Una letra es una caja cerrada con un número dentro. $x + 3$ dice: \"lo que haya en la caja, más 3\". El álgebra te deja razonar con la caja antes de abrirla.",
-"pizarron": "**Términos semejantes:** tienen la misma literal y exponente.\n\n$$3x + 2y + 5x = 8x + 2y$$\n\n**Distributiva:**\n\n$$2(x + 4) = 2x + 8$$\n\n**Producto notable:**\n\n$$(a + b)^2 = a^2 + 2ab + b^2$$",
+"pizarron": "**Qué es:** el álgebra usa letras en lugar de números que todavía no conoces.\n\n**La regla de los términos semejantes:** solo se suman cosas iguales.\n\nPiensa: 3 manzanas más 5 manzanas son 8 manzanas. Las peras se quedan aparte.\n\n$$3x + 2y + 5x = 8x + 2y$$\n\n**La regla distributiva:** lo que está afuera del paréntesis multiplica a todo lo de adentro.\n\n$$2(x + 4) = 2x + 8$$\n\n**Producto notable:** al elevar una suma al cuadrado no basta con cada parte; falta el doble producto.\n\n$$(a + b)^2 = a^2 + 2ab + b^2$$",
 "truco": "**Peras con peras:** $3x + 5x$ se suman; $3x + 2y$ no.",
 "practica": {
 "ejercicio": "Simplifica $4(a - 2) + 3a$.",
@@ -229,7 +229,7 @@
 ],
 "contenido": {
 "idea": "Una ecuación es una balanza en equilibrio. Si quitas lo mismo de ambos platos, sigue equilibrada. Resolver es ir quitando cosas hasta dejar la incógnita sola en un plato.",
-"pizarron": "**Lineal:**\n\n$$2x + 5 = 17 \\Rightarrow 2x = 12 \\Rightarrow x = 6$$\n\n**Cuadrática** $ax^2 + bx + c = 0$:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nEjemplo: $x^2 - 5x + 6 = 0$ tiene soluciones $x = 2$ y $x = 3$.",
+"pizarron": "**La regla:** lo que haces de un lado de la ecuación, lo haces también del otro, para mantener el equilibrio. Una cuadrática $ax^2 + bx + c = 0$ se resuelve con la fórmula general.\n\n**Qué quiere decir:** una ecuación es una balanza. Encontrar $x$ es averiguar lo que hay en la caja.\n\n**Lineal:** $2x + 5 = 17$.\n\nQuita 5 de los dos lados: $2x = 12$.\n\nDivide entre 2: $x = 6$.\n\n**Cuadrática:** usa esta fórmula.\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nEjemplo: $x^2 - 5x + 6 = 0$. Las soluciones son $x = 2$ y $x = 3$.\n\nComprueba: $2^2 - 5(2) + 6 = 0$.",
 "truco": "**Comprueba siempre:** sustituye tu respuesta en la ecuación original.",
 "practica": {
 "ejercicio": "Resuelve $3x - 4 = 2x + 7$.",
@@ -274,7 +274,7 @@
 ],
 "contenido": {
 "idea": "Una máquina de refrescos es una función: metes una moneda y sale un resultado definido. Una función recibe un número y entrega otro siguiendo una regla. Si la regla es pagar 8 pesos por kilómetro más 20 de banderazo, cada distancia tiene un solo precio.",
-"pizarron": "**Función lineal:** $y = mx + b$\n\n- $m$ es la pendiente: cuánto cambia $y$ por cada unidad de $x$.\n- $b$ es donde cruza el eje $y$.\n\nTaxi: $y = 8x + 20$. Con $x = 5$ km, $y = 60$ pesos.\n\n**Función cuadrática:** $y = ax^2 + bx + c$; su gráfica es una parábola.",
+"pizarron": "**Qué es:** una función es una regla que a cada entrada le da una sola salida, como una máquina.\n\n**Función lineal:** $y = mx + b$. Su gráfica es una recta.\n\n$m$ es la pendiente: cuánto sube $y$ por cada paso de $x$.\n\n$b$ es dónde empieza, en el eje $y$.\n\n**Ejemplo:** un taxi cobra 20 pesos al subir y 8 pesos por kilómetro.\n\n$$y = 8x + 20$$\n\nCon 5 km: $y = 8(5) + 20 = 60$ pesos.\n\n**Función cuadrática:** $y = ax^2 + bx + c$. Su gráfica es una curva llamada parábola, como un balón lanzado.",
 "truco": "**$b$ es donde empiezas; $m$ es qué tan rápido subes.**",
 "practica": {
 "ejercicio": "Una alberca tiene 200 L y se llena a 30 L por minuto. Escribe la función y calcula el agua a los 10 minutos.",
@@ -319,7 +319,7 @@
 ],
 "contenido": {
 "idea": "Cuando dos calles se cruzan forman cuatro esquinas, y las que quedan frente a frente tienen la misma abertura. Al girar media vuelta llegas a $180°$; con esa idea se deducen casi todos los ángulos.",
-"pizarron": "- **Complementarios:** suman $90°$.\n- **Suplementarios:** suman $180°$.\n- **Opuestos por el vértice:** son iguales.\n- **Paralelas cortadas por una transversal:** los alternos internos son iguales.\n\nLos ángulos internos de un triángulo suman $180°$.",
+"pizarron": "**La regla:** los ángulos internos de un triángulo suman $180°$. Dos ángulos complementarios suman $90°$ y dos suplementarios suman $180°$.\n\n**Complementarios:** juntos forman una esquina.\n\n**Suplementarios:** juntos forman una línea recta.\n\n**Opuestos por el vértice:** cuando dos rectas se cruzan forman una X. Los ángulos de enfrente son iguales.\n\n**Paralelas:** son líneas que nunca se tocan, como las vías del tren. Si otra línea las cruza, los ángulos alternos internos son iguales.\n\n**Ejemplo:** un triángulo tiene ángulos de $50°$ y $60°$. El tercero mide $180° - 110° = 70°$.",
 "truco": "**C** de **C**orner (esquina, $90°$); **S** de **S**traight (recta, $180°$).",
 "practica": {
 "ejercicio": "Un triángulo tiene ángulos de $50°$ y $65°$. ¿Cuánto mide el tercero?",
@@ -365,7 +365,7 @@
 ],
 "contenido": {
 "idea": "Una foto ampliada conserva la forma aunque cambie el tamaño: eso es semejanza. Dos copias idénticas de la misma llave son congruentes: misma forma y tamaño.",
-"pizarron": "- **Mediatriz:** perpendicular por el punto medio.\n- **Bisectriz:** divide un ángulo en dos iguales.\n- **Congruentes:** lados y ángulos iguales.\n- **Semejantes:** ángulos iguales y lados proporcionales.\n\n**Pitágoras** en triángulos rectángulos:\n\n$$a^2 + b^2 = c^2$$",
+"pizarron": "**La regla (Pitágoras):** en un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.\n\n$$a^2 + b^2 = c^2$$\n\n**Qué quiere decir:** $c$ es el lado más largo, frente a la esquina recta. $a$ y $b$ son los otros dos.\n\n**Ejemplo:** $a = 3$ y $b = 4$. $c^2 = 9 + 16 = 25$, entonces $c = 5$.\n\n**Otras palabras:**\n\n**Mediatriz:** línea que parte un lado por la mitad, en cruz.\n\n**Bisectriz:** línea que parte un ángulo por la mitad.\n\n**Congruentes:** figuras idénticas, como dos copias.\n\n**Semejantes:** misma forma, distinto tamaño, como una foto ampliada.",
 "truco": "**Semejante = fotocopia con zoom. Congruente = fotocopia al 100 %.**",
 "practica": {
 "ejercicio": "Un triángulo rectángulo tiene catetos de 6 y 8 cm. ¿Cuánto mide la hipotenusa?",
@@ -410,7 +410,7 @@
 ],
 "contenido": {
 "idea": "Amarra una cuerda a una estaca y camina manteniéndola tensa: dibujas una circunferencia. Todos los puntos quedan a la misma distancia del centro. Una esfera es lo mismo, pero en tres dimensiones.",
-"pizarron": "$$C = 2\\pi r \\qquad A = \\pi r^2$$\n\n$$A_{\\text{sector}} = \\frac{\\theta}{360°} \\pi r^2$$\n\n$$A_{\\text{esfera}} = 4\\pi r^2 \\qquad V_{\\text{esfera}} = \\frac{4}{3}\\pi r^3$$\n\n**Tangente:** toca en un punto. **Secante:** corta en dos.",
+"pizarron": "**La regla:** circunferencia $C = 2\\pi r$. Área del círculo $A = \\pi r^2$. Volumen de la esfera $V = \\frac{4}{3}\\pi r^3$.\n\n**Qué quiere decir:** $r$ es el radio. $\\pi$ es cerca de 3.14.\n\n$C$ mide la orilla, como un hilo alrededor de un plato.\n\n$A$ mide lo que cubre el plato.\n\n**Sector:** una rebanada de pizza con ángulo $\\theta$.\n\n$$A_{\\text{sector}} = \\frac{\\theta}{360°} \\pi r^2$$\n\n**Esfera:** una pelota. Su piel mide $A = 4\\pi r^2$.\n\n**Tangente:** recta que toca el círculo en un punto.\n\n**Secante:** recta que lo corta en dos puntos.",
 "truco": "El área lleva $r^2$ porque se mide en **cuadritos**; el volumen, $r^3$ porque se mide en **cubitos**.",
 "practica": {
 "ejercicio": "Calcula el área de un círculo de radio 5 cm.",
@@ -455,7 +455,7 @@
 ],
 "contenido": {
 "idea": "Si conoces el tamaño de tu sombra y el ángulo del Sol, puedes calcular la altura de un edificio sin subirte. Medir no siempre es usar una cinta: muchas veces se calcula con figuras conocidas.",
-"pizarron": "$$V_{\\text{prisma}} = A_b h \\qquad V_{\\text{pirámide}} = \\frac{A_b h}{3}$$\n\nEn un triángulo rectángulo:\n\n$$\\sin\\theta = \\frac{CO}{H} \\quad \\cos\\theta = \\frac{CA}{H} \\quad \\tan\\theta = \\frac{CO}{CA}$$",
+"pizarron": "**La regla:** volumen de un prisma $V = A_b h$. Volumen de una pirámide $V = \\frac{A_b h}{3}$. En un triángulo rectángulo, $\\sin\\theta = \\frac{CO}{H}$, $\\cos\\theta = \\frac{CA}{H}$ y $\\tan\\theta = \\frac{CO}{CA}$.\n\n**Volumen:** $A_b$ es el área de la base y $h$ la altura. Es como apilar hojas iguales.\n\nUna pirámide llena solo la tercera parte del prisma igual.\n\n**Trigonometría:** relaciona ángulos y lados.\n\n$H$ es la hipotenusa, el lado largo.\n\n$CO$ es el cateto opuesto, enfrente del ángulo.\n\n$CA$ es el cateto adyacente, junto al ángulo.",
 "truco": "**SOH-CAH-TOA:** Seno Opuesto Hipotenusa, Coseno Adyacente Hipotenusa, Tangente Opuesto Adyacente.",
 "practica": {
 "ejercicio": "Una escalera de 5 m forma $60°$ con el piso. ¿A qué altura llega?",
@@ -499,7 +499,7 @@
 ],
 "contenido": {
 "idea": "Para saber si la sopa quedó bien no te la acabas: pruebas una cucharada. La población es la olla y la muestra es la cucharada. Si revuelves bien, la cucharada representa toda la sopa.",
-"pizarron": "1. Define población y muestra.\n2. Recoge datos.\n3. Calcula frecuencias.\n\n$$f_r = \\frac{\\text{frecuencia}}{\\text{total}}$$\n\n4. Elige gráfica: barras para categorías, histograma para intervalos, líneas para cambios en el tiempo.",
+"pizarron": "**Qué es:** la estadística reúne datos para responder preguntas.\n\n**Población:** todos los que quieres estudiar.\n\n**Muestra:** una parte de ellos. Como probar una cucharada de sopa.\n\n**Pasos:**\n\n1. Elige población y muestra.\n2. Recoge los datos.\n3. Cuenta cuántas veces sale cada dato: es la frecuencia.\n4. Calcula la frecuencia relativa.\n\n$$f_r = \\frac{\\text{frecuencia}}{\\text{total}}$$\n\n5. Elige la gráfica: barras para categorías, histograma para intervalos, líneas para cambios en el tiempo.",
 "truco": "**Barras separadas para categorías; barras pegadas (histograma) para datos continuos.**",
 "practica": {
 "ejercicio": "De 40 alumnos, 10 llegan en bici. ¿Cuál es la frecuencia relativa?",
@@ -544,7 +544,7 @@
 ],
 "contenido": {
 "idea": "Dos equipos pueden promediar la misma estatura: uno con todos parecidos y otro con gigantes y muy bajitos. La tendencia central dice dónde está el centro; la dispersión dice qué tan lejos se reparten los datos.",
-"pizarron": "Datos: 2, 4, 4, 6, 14.\n\n- **Media:** $30 \\div 5 = 6$\n- **Mediana:** dato central, 4\n- **Moda:** 4\n- **Rango:** $14 - 2 = 12$\n- **Desviación media:**\n\n$$DM = \\frac{\\sum|x_i - \\bar{x}|}{n} = \\frac{4+2+2+0+8}{5} = 3.2$$",
+"pizarron": "**Qué es:** las medidas de tendencia central dicen dónde está el centro de los datos. Las de dispersión dicen qué tan separados están.\n\n**Datos:** 2, 4, 4, 6, 14.\n\n**Media:** suma y divide. $30 \\div 5 = 6$.\n\n**Mediana:** el dato de en medio, ya ordenados: 4.\n\n**Moda:** el que más se repite: 4.\n\n**Rango:** del mayor al menor: $14 - 2 = 12$.\n\n**Desviación media:** en promedio, qué tan lejos queda cada dato de la media.\n\n$$DM = \\frac{\\sum|x_i - \\bar{x}|}{n} = \\frac{4+2+2+0+8}{5} = 3.2$$",
 "truco": "**La mediana no se asusta con extremos;** la media sí.",
 "practica": {
 "ejercicio": "Halla mediana y rango de 3, 9, 1, 7, 5.",
@@ -588,7 +588,7 @@
 ],
 "contenido": {
 "idea": "Lanzar una moneda no recuerda el resultado anterior. Si salieron 5 águilas seguidas, la siguiente sigue teniendo la misma probabilidad. El azar no compensa, solo se ve estable a la larga.",
-"pizarron": "$$P(A) = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\n- **Excluyentes:** $P(A \\text{ o } B) = P(A) + P(B)$\n- **Independientes:** $P(A \\text{ y } B) = P(A) \\cdot P(B)$\n\nDos monedas: $P(\\text{dos águilas}) = \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4}$.",
+"pizarron": "**La regla:** la probabilidad es casos favorables entre casos posibles. Si dos eventos no pueden pasar juntos, sus probabilidades se suman. Si uno no afecta al otro, se multiplican.\n\n$$P(A) = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\n**Excluyentes:** no pasan a la vez. *Sale 1 o sale 2.*\n\n$$P(A \\text{ o } B) = P(A) + P(B)$$\n\n**Independientes:** uno no cambia al otro.\n\n$$P(A \\text{ y } B) = P(A) \\cdot P(B)$$\n\n**Ejemplo:** dos monedas. Probabilidad de dos águilas:\n\n$$\\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{1}{4}$$",
 "truco": "**\"O\" suma, \"Y\" multiplica.**",
 "practica": {
 "ejercicio": "Con un dado, ¿cuál es la probabilidad de sacar 1 o 2?",

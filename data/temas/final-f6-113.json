@@ -1,47 +1,47 @@
 [
-{
-"nodo_id": "f6-113",
-"titulo": "Datos personales, información pública y rendición de cuentas",
-"slug": "datos-personales-transparencia-rendicion-cuentas",
-"palabras": [
-"transparencia",
-"privacidad",
-"derecho a la información",
-"gobierno democrático",
-"INAI"
-],
-"contenido": {
-"idea": "Tu diario es tuyo: nadie debería leerlo sin permiso. En cambio, la libreta donde el tesorero del salón anota el dinero de todos debe poder revisarse. Con los datos pasa igual: tu información personal se protege y el uso del dinero y del poder públicos se muestra.",
-"pizarron": "Son dos derechos que se complementan en una democracia:\n\n1. **Protección de datos personales:** tu nombre, domicilio, salud o fotografías solo deben usarse con un fin legítimo y con cuidado. Puedes pedir acceso a tus datos, corregirlos u oponerte a ciertos usos.\n2. **Acceso a la información:** la información de las autoridades es pública, salvo excepciones que marca la ley.\n3. **Transparencia:** las instituciones publican lo que hacen y cómo gastan.\n4. **Rendición de cuentas:** las autoridades explican sus decisiones y responden por sus resultados.\n\nEl artículo 6 de la Constitución reconoce el derecho de acceso a la información y la protección de datos personales.",
-"truco": "**Lo mío se protege; lo público se muestra.** Si es sobre tu vida, cuídalo. Si es dinero o poder público, pregunta.",
-"practica": {
-"ejercicio": "Una app escolar pide tu CURP para mostrar un juego que no la necesita. ¿Qué deberías hacer y por qué?",
-"respuesta": "No darla y avisar a una persona adulta de confianza. La CURP es un dato personal y el juego no necesita ese dato para funcionar."
-},
-"analogias": [
-{
-"titulo": "Casa con cortinas y banqueta",
-"texto": "Lo que pasa dentro de tu casa es privado, por eso tienes cortinas. La banqueta y el parque son de todos, y cualquiera puede ver si están bien cuidados. Tus datos son tu casa; la gestión pública es el parque."
-},
-{
-"titulo": "El equipo y su cooperación",
-"texto": "Si un equipo junta dinero para uniformes, todos pueden pedir las notas de compra. Eso es rendir cuentas. Pero nadie tiene derecho a publicar la dirección de cada jugador: eso es un dato personal."
-}
-],
-"ejercicios": [
-{
-"ejercicio": "Clasifica: tu historial médico; el presupuesto de tu municipio.",
-"respuesta": "El historial médico es un dato personal sensible. El presupuesto municipal es información pública."
-},
-{
-"ejercicio": "Explica la diferencia entre transparencia y rendición de cuentas.",
-"respuesta": "La transparencia muestra la información; la rendición de cuentas exige explicar las decisiones y responder por sus resultados."
-},
-{
-"ejercicio": "¿Por qué la rendición de cuentas fortalece a un gobierno democrático?",
-"respuesta": "Porque permite a la ciudadanía vigilar a sus autoridades, detectar abusos y exigir que el poder se use para el bien común."
-}
-]
-}
-}
+  {
+    "nodo_id": "f6-113",
+    "titulo": "Datos personales, información pública y rendición de cuentas",
+    "slug": "datos-personales-transparencia-rendicion-cuentas",
+    "palabras": [
+      "transparencia",
+      "privacidad",
+      "derecho a la información",
+      "gobierno democrático",
+      "INAI"
+    ],
+    "contenido": {
+      "idea": "Tu diario es tuyo: nadie debería leerlo sin permiso. En cambio, la libreta donde el tesorero del salón anota el dinero de todos debe poder revisarse. Con los datos pasa igual: tu información personal se protege y el uso del dinero y del poder públicos se muestra.",
+      "pizarron": "**Qué es:** tus datos personales te pertenecen. Las autoridades deben informar lo que hacen.\n\n**Datos personales:** nombre, dirección, fotos y salud. Solo deben usarse con cuidado.\n\n**Acceso a la información:** puedes preguntar qué hace el gobierno.\n\n**Transparencia:** las instituciones publican en qué gastan.\n\n**Rendición de cuentas:** explican sus decisiones. Como cuando tu mamá te pide cuentas del cambio.\n\nLo reconoce el artículo 6 de la Constitución.\n\n**Para recordar:**\n- **¿Por qué la rendición de cuentas fortalece a un gobierno democrático?** Porque permite a la ciudadanía vigilar a sus autoridades, detectar abusos y exigir que el poder se use para el bien común.\n\n**Para tu escuela:** haz una lista de datos que no debes compartir en internet.",
+      "truco": "**Lo mío se protege; lo público se muestra.** Si es sobre tu vida, cuídalo. Si es dinero o poder público, pregunta.",
+      "practica": {
+        "ejercicio": "Una app escolar pide tu CURP para mostrar un juego que no la necesita. ¿Qué deberías hacer y por qué?",
+        "respuesta": "No darla y avisar a una persona adulta de confianza. La CURP es un dato personal y el juego no necesita ese dato para funcionar."
+      },
+      "analogias": [
+        {
+          "titulo": "Casa con cortinas y banqueta",
+          "texto": "Lo que pasa dentro de tu casa es privado, por eso tienes cortinas. La banqueta y el parque son de todos, y cualquiera puede ver si están bien cuidados. Tus datos son tu casa; la gestión pública es el parque."
+        },
+        {
+          "titulo": "El equipo y su cooperación",
+          "texto": "Si un equipo junta dinero para uniformes, todos pueden pedir las notas de compra. Eso es rendir cuentas. Pero nadie tiene derecho a publicar la dirección de cada jugador: eso es un dato personal."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Clasifica: tu historial médico; el presupuesto de tu municipio.",
+          "respuesta": "El historial médico es un dato personal sensible. El presupuesto municipal es información pública."
+        },
+        {
+          "ejercicio": "Explica la diferencia entre transparencia y rendición de cuentas.",
+          "respuesta": "La transparencia muestra la información; la rendición de cuentas exige explicar las decisiones y responder por sus resultados."
+        },
+        {
+          "ejercicio": "¿Por qué la rendición de cuentas fortalece a un gobierno democrático?",
+          "respuesta": "Porque permite a la ciudadanía vigilar a sus autoridades, detectar abusos y exigir que el poder se use para el bien común."
+        }
+      ]
+    }
+  }
 ]

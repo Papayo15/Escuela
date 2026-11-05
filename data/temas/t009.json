@@ -1,72 +1,461 @@
 [
-{"nodo_id":"ems-047","titulo":"Calor y temperatura: intercambio de energía","slug":"calor-y-temperatura-preparatoria","palabras":["calor","temperatura","equilibrio térmico","energía térmica","calorimetría"],"contenido":{
-"idea":"Imagina que la temperatura es qué tan rápido bailan los niños en una fiesta, y el calor es la cantidad de baile que pasa de un salón a otro cuando abres la puerta. El baile siempre pasa del salón más movido al más tranquilo.",
-"pizarron":"**Temperatura**: medida de la energía cinética promedio de las partículas de un cuerpo. Se mide en °C o K.\n\n**Calor**: energía que se transfiere entre cuerpos por una diferencia de temperatura. Siempre fluye del cuerpo más caliente al más frío, hasta alcanzar el equilibrio térmico.\n\nDiferencia clave: la temperatura es una propiedad del cuerpo; el calor es energía en tránsito.\n\nPara calcular el calor absorbido o cedido:\n\n$$Q = m\\,c\\,\\Delta T$$\n\ndonde $m$ es la masa, $c$ el calor específico (para el agua, $4.18\\ \\text{J/g·°C}$) y $\\Delta T$ el cambio de temperatura.",
-"truco":"Temperatura = qué tan caliente; calor = energía que viaja.",
-"practica":{"ejercicio":"¿Cuánto calor necesitan 200 g de agua para subir de 20 °C a 30 °C? Usa $c=4.18\\ \\text{J/g·°C}$.","respuesta":"$Q=200\\times4.18\\times10=8360$ J."},
-"analogias":[{"titulo":"Los vasos de agua","texto":"El agua fluye del vaso más lleno al más vacío hasta que ambos quedan al mismo nivel. El calor fluye del cuerpo más caliente al más frío hasta igualar temperaturas."},{"titulo":"El dinero en la cartera","texto":"La temperatura es como saber si alguien trae billetes grandes o chicos; el calor es el dinero que pasa de una mano a otra al pagar."}],
-"ejercicios":[{"ejercicio":"Una taza de café y una alberca están a 30 °C. ¿Cuál contiene más energía térmica total?","respuesta":"La alberca, porque tiene muchísima más masa, aunque la temperatura sea igual."},{"ejercicio":"Un metal a 80 °C toca otro a 20 °C. ¿En qué sentido fluye el calor?","respuesta":"Del metal de 80 °C al de 20 °C, hasta que ambos igualen su temperatura."},{"ejercicio":"¿Cuánto calor absorben 100 g de agua que suben 5 °C? ($c=4.18\\ \\text{J/g·°C}$)","respuesta":"$Q=100\\times4.18\\times5=2090$ J."}]}},
-{"nodo_id":"ems-048","titulo":"Trabajo mecánico y calor: introducción a la termodinámica","slug":"trabajo-mecanico-y-calor-termodinamica","palabras":["termodinámica","trabajo","calor","Joule","equivalente mecánico","fricción"],"contenido":{
-"idea":"Cuando te frotas las manos en un día frío se calientan. Tu esfuerzo de mover las manos se convirtió en calor. Trabajo y calor son dos formas de pasar energía de un lado a otro.",
-"pizarron":"**Termodinámica**: rama de la física que estudia las transformaciones de energía entre calor y trabajo.\n\n**Trabajo mecánico**: $W = F\\,d$, fuerza por distancia recorrida. Se mide en joules (J).\n\nJames Joule demostró que el trabajo mecánico puede convertirse en calor. Por ejemplo, unas aspas que agitan agua la calientan. Encontró el **equivalente mecánico del calor**:\n\n$$1\\ \\text{cal} = 4.18\\ \\text{J}$$\n\nEntonces, para pasar joules a calorías se divide entre 4.18, y para pasar calorías a joules se multiplica por 4.18.\n\nLa fricción es el ejemplo cotidiano: los frenos de un auto convierten energía de movimiento en calor.",
-"truco":"Una caloría vale 4.18 joules: cal por 4.18 da J.",
-"practica":{"ejercicio":"Convierte 836 J a calorías.","respuesta":"$836\\div4.18=200$ cal."},
-"analogias":[{"titulo":"Monedas y billetes","texto":"Trabajo y calor son como monedas y billetes: se ven distintos, pero ambos son dinero (energía) y se pueden cambiar de uno al otro con una tasa fija."},{"titulo":"Las llantas de la bici","texto":"Al frenar tu bici, las balatas se calientan: el movimiento que llevabas se transformó en calor por fricción."}],
-"ejercicios":[{"ejercicio":"Una fuerza de 50 N mueve una caja 4 m en su misma dirección. ¿Qué trabajo realiza?","respuesta":"$W=50\\times4=200$ J."},{"ejercicio":"¿A cuántos joules equivalen 500 cal?","respuesta":"$500\\times4.18=2090$ J."},{"ejercicio":"Un trabajo de 4180 J se convierte por completo en calor. ¿Cuántas calorías son?","respuesta":"$4180\\div4.18=1000$ cal."}]}},
-{"nodo_id":"ems-049","titulo":"Formas de propagación del calor","slug":"propagacion-del-calor-conduccion-conveccion-radiacion","palabras":["conducción","convección","radiación","transferencia de calor","aislante","conductor"],"contenido":{
-"idea":"Si dejas una cuchara en la sopa caliente, el mango se calienta. Las partículas calientes empujan a sus vecinas, como niños que se pasan un balón de mano en mano en una fila.",
-"pizarron":"El calor se propaga de tres maneras, según cómo se mueven las partículas de la materia:\n\n1. **Conducción**: el calor pasa de partícula a partícula por contacto, sobre todo en sólidos. Los metales son buenos conductores; la madera y el plástico son aislantes.\n\n2. **Convección**: ocurre en líquidos y gases. El fluido caliente es menos denso y sube; el frío baja. Así se forman corrientes, como en una olla con agua al fuego o en los vientos.\n\n3. **Radiación**: el calor viaja como ondas electromagnéticas y no necesita materia. Así llega la energía del Sol a la Tierra a través del vacío.\n\nLa estructura de la materia importa: en los sólidos las partículas están muy juntas y transmiten rápido; en los gases están separadas y conducen poco.",
-"truco":"Contacto = conducción; corrientes = convección; ondas = radiación.",
-"practica":{"ejercicio":"Identifica la forma de propagación: sentir el calor de una fogata a un metro de distancia.","respuesta":"Radiación, porque el aire conduce poco y el calor llega en forma de ondas."},
-"analogias":[{"titulo":"La fila de cubetas","texto":"En la conducción, cada persona pasa la cubeta a la siguiente sin moverse de su lugar."},{"titulo":"El elevador","texto":"En la convección, el fluido caliente sube como en un elevador y el frío baja a ocupar su lugar."}],
-"ejercicios":[{"ejercicio":"¿Por qué las ollas tienen asas de plástico o madera?","respuesta":"Porque son aislantes: conducen mal el calor y no te queman."},{"ejercicio":"¿Por qué el aire acondicionado se coloca en la parte alta de un cuarto?","respuesta":"El aire frío es más denso y baja, generando una corriente de convección que enfría el cuarto."},{"ejercicio":"¿Cómo llega el calor del Sol a la Tierra si en el espacio hay vacío?","respuesta":"Por radiación, que no necesita un medio material."}]}},
-{"nodo_id":"ems-050","titulo":"Primera ley de la termodinámica y gas ideal","slug":"primera-ley-termodinamica-gas-ideal","palabras":["primera ley","energía interna","gas ideal","conservación de la energía","PV=nRT"],"contenido":{
-"idea":"Tu mochila tiene una cantidad de dulces. Si te dan dulces los sumas; si regalas dulces los restas. Nunca aparecen ni desaparecen de la nada, solo se mueven.",
-"pizarron":"**Gas ideal**: modelo en el que las partículas no se atraen y ocupan un volumen despreciable. Cumple:\n\n$$PV = nRT$$\n\ncon $P$ presión, $V$ volumen, $n$ moles, $R$ constante y $T$ temperatura en kelvin.\n\n**Primera ley**: la energía no se crea ni se destruye. El cambio de energía interna de un sistema es el calor que recibe menos el trabajo que realiza:\n\n$$\\Delta U = Q - W$$\n\n- $Q>0$ si el sistema recibe calor.\n- $W>0$ si el sistema realiza trabajo (por ejemplo, al expandirse).\n\nEn un gas ideal la energía interna depende solo de la temperatura. Si la temperatura no cambia (proceso isotérmico), $\\Delta U=0$ y por tanto $Q=W$.",
-"truco":"Lo que entra como calor, o se queda como energía o sale como trabajo.",
-"practica":{"ejercicio":"Un gas recibe 500 J de calor y realiza 200 J de trabajo. ¿Cuánto cambia su energía interna?","respuesta":"$\\Delta U=500-200=300$ J."},
-"analogias":[{"titulo":"La cuenta del banco","texto":"La energía interna es tu saldo: sube con los depósitos (calor recibido) y baja con los retiros (trabajo realizado)."},{"titulo":"El globo","texto":"Si calientas un globo, parte del calor aumenta la energía del aire y parte se usa para empujar y hacer crecer el globo."}],
-"ejercicios":[{"ejercicio":"Un gas aislado (sin calor, $Q=0$) realiza 150 J de trabajo al expandirse. ¿Cuál es $\\Delta U$?","respuesta":"$\\Delta U=0-150=-150$ J; su energía interna baja y se enfría."},{"ejercicio":"Un gas ideal se expande a temperatura constante y absorbe 400 J. ¿Cuánto trabajo realiza?","respuesta":"$\\Delta U=0$, entonces $W=Q=400$ J."},{"ejercicio":"Un gas recibe 800 J de calor y sobre él se realizan 200 J de trabajo (es decir, $W=-200$ J). ¿Cuánto vale $\\Delta U$?","respuesta":"$\\Delta U=800-(-200)=1000$ J."}]}},
-{"nodo_id":"ems-051","titulo":"Entropía, entalpía y leyes de la termodinámica","slug":"entropia-entalpia-segunda-tercera-ley","palabras":["entropía","entalpía","segunda ley","tercera ley","desorden","exotérmica","endotérmica"],"contenido":{
-"idea":"Tu cuarto se desordena solo, pero para ordenarlo tienes que trabajar. Así funciona el universo: el desorden aumenta con facilidad, y el orden cuesta energía.",
-"pizarron":"**Entalpía ($H$)**: energía térmica de un sistema a presión constante. En una reacción, $\\Delta H$ es el calor intercambiado. Si $\\Delta H<0$ la reacción es **exotérmica** (libera calor); si $\\Delta H>0$ es **endotérmica** (absorbe calor).\n\n**Entropía ($S$)**: medida del desorden o de las formas en que se puede distribuir la energía. Para un proceso a temperatura constante:\n\n$$\\Delta S = \\frac{Q}{T}$$\n\n**Segunda ley**: en un sistema aislado, la entropía total nunca disminuye. Por eso el calor fluye solo del cuerpo caliente al frío.\n\n**Tercera ley**: al acercarse al cero absoluto ($0\\ \\text{K}=-273.15\\ \\text{°C}$), la entropía de un cristal perfecto tiende a cero. El cero absoluto no se puede alcanzar.\n\nAplicando la primera ley a estos procesos se entiende por qué ninguna máquina convierte todo el calor en trabajo.",
-"truco":"Segunda ley: el desorden siempre sube solo.",
-"practica":{"ejercicio":"Un cuerpo absorbe 600 J de calor a 300 K. ¿Cuánto aumenta su entropía?","respuesta":"$\\Delta S=600/300=2\\ \\text{J/K}$."},
-"analogias":[{"titulo":"El cuarto desordenado","texto":"Hay muchísimas formas de tener el cuarto desordenado y muy pocas de tenerlo ordenado; por eso el desorden aparece solo."},{"titulo":"La tinta en el agua","texto":"Una gota de tinta se esparce en el vaso, pero jamás se junta sola otra vez: la entropía aumentó."}],
-"ejercicios":[{"ejercicio":"Al fundirse un cubo de hielo, ¿la entropía del agua aumenta o disminuye?","respuesta":"Aumenta, porque las moléculas pasan de un orden rígido a moverse libremente."},{"ejercicio":"Una reacción libera calor al ambiente y calienta el matraz. ¿Es exotérmica o endotérmica? ¿Cómo es su $\\Delta H$?","respuesta":"Exotérmica, con $\\Delta H<0$."},{"ejercicio":"¿A cuántos grados Celsius equivale el cero absoluto y qué dice de él la tercera ley?","respuesta":"A $-273.15$ °C; la tercera ley dice que no se puede alcanzar y que ahí la entropía de un cristal perfecto sería cero."}]}},
-{"nodo_id":"ems-052","titulo":"Tipos de energía y sus transformaciones","slug":"tipos-de-energia-y-aplicaciones-tecnologicas","palabras":["energía cinética","energía potencial","energía solar","transformación de energía","energía eléctrica","tecnología"],"contenido":{
-"idea":"En un columpio, arriba te quedas un instante casi quieto con mucha energía guardada; abajo vas rapidísimo. La energía cambia de forma, pero el total se mantiene.",
-"pizarron":"La energía no se crea ni se destruye, solo se transforma. Algunos tipos:\n\n- **Cinética**: por el movimiento, $E_c=\\tfrac{1}{2}mv^2$.\n- **Potencial gravitatoria**: por la altura, $E_p=mgh$ (con $g\\approx10\\ \\text{m/s}^2$).\n- **Térmica**, **química**, **eléctrica**, **luminosa** y **nuclear**.\n\nEn los fenómenos naturales hay cadenas de transformaciones. Una cascada convierte energía potencial en cinética. Un rayo transforma energía eléctrica en luz, sonido y calor.\n\nLa tecnología aprovecha estas transformaciones:\n\n- Un panel solar: luminosa a eléctrica.\n- Una presa hidroeléctrica: potencial a cinética a eléctrica.\n- Un foco: eléctrica a luminosa y térmica.\n\nSiempre se pierde algo como calor, por eso ningún aparato es 100 % eficiente.",
-"truco":"Altura guarda (potencial), velocidad gasta (cinética).",
-"practica":{"ejercicio":"Un objeto de 2 kg está a 5 m de altura. ¿Qué energía potencial tiene? Usa $g=10\\ \\text{m/s}^2$.","respuesta":"$E_p=2\\times10\\times5=100$ J."},
-"analogias":[{"titulo":"El resorte","texto":"Un resorte comprimido guarda energía como un ahorro; al soltarlo la gasta convirtiéndola en movimiento."},{"titulo":"El agua en las pipas","texto":"El agua en un tinaco alto guarda energía; al caer por el tubo la convierte en movimiento, como en una presa."}],
-"ejercicios":[{"ejercicio":"Calcula la energía cinética de una pelota de 2 kg que va a 3 m/s.","respuesta":"$E_c=\\tfrac{1}{2}\\times2\\times3^2=9$ J."},{"ejercicio":"Describe las transformaciones de energía en una bicicleta con dinamo que enciende su luz.","respuesta":"Química (tu cuerpo) a cinética (pedaleo) a eléctrica (dinamo) a luminosa y algo de térmica."},{"ejercicio":"¿Qué transformación principal ocurre en un panel solar?","respuesta":"Energía luminosa del Sol a energía eléctrica."}]}},
-{"nodo_id":"ems-053","titulo":"Hidrósfera y atmósfera: capas y composición","slug":"hidrosfera-y-atmosfera-preparatoria","palabras":["hidrósfera","atmósfera","capas de la atmósfera","ciclo del agua","estados de agregación","composición del aire"],"contenido":{
-"idea":"La Tierra tiene una cobija de aire (atmósfera) y una gran alberca de agua (hidrósfera). Las dos se mezclan todo el tiempo: el agua sube al aire y regresa en forma de lluvia.",
-"pizarron":"**Atmósfera**: mezcla de gases que rodea la Tierra. Aproximadamente 78 % nitrógeno, 21 % oxígeno y 1 % otros gases (argón, dióxido de carbono, vapor de agua).\n\nSus capas, de abajo hacia arriba: troposfera (aquí ocurre el clima), estratosfera (contiene la capa de ozono), mesosfera, termosfera y exosfera. La temperatura cambia con la altura.\n\n**Hidrósfera**: toda el agua del planeta. Cubre cerca del 71 % de la superficie; alrededor del 97 % es salada y solo una pequeña parte es agua dulce.\n\nInteracción: el Sol calienta el agua y ocurre un cambio de estado de líquido a gas (evaporación). El vapor sube, se enfría y se condensa en nubes; luego precipita como lluvia o nieve. Este es el ciclo del agua, impulsado por la temperatura.\n\nEl agua se encuentra en los tres estados de agregación: sólido (hielo), líquido y gas (vapor).",
-"truco":"Troposfera = tiempo (clima); estratosfera = ozono.",
-"practica":{"ejercicio":"Si el aire es 78 % nitrógeno y 21 % oxígeno, ¿qué porcentaje queda para otros gases?","respuesta":"$100-78-21=1$ %."},
-"analogias":[{"titulo":"El pastel de capas","texto":"La atmósfera es un pastel con capas: cada una tiene distinta temperatura y función, y la de abajo es la que respiramos."},{"titulo":"La olla con tapa","texto":"El agua de la olla se evapora, choca con la tapa fría y gotea de regreso, como el agua que sube, forma nubes y llueve."}],
-"ejercicios":[{"ejercicio":"¿En qué capa de la atmósfera está la capa de ozono?","respuesta":"En la estratosfera."},{"ejercicio":"¿Qué cambio de estado ocurre cuando el vapor forma nubes?","respuesta":"Condensación: de gas a líquido."},{"ejercicio":"¿Por qué la mayor parte del agua del planeta no sirve directamente para beber?","respuesta":"Porque cerca del 97 % es agua salada de los océanos."}]}},
-{"nodo_id":"ems-054","titulo":"La Tierra como sistema","slug":"tierra-como-sistema-subsistemas","palabras":["sistema Tierra","geósfera","biósfera","hidrósfera","atmósfera","interacciones"],"contenido":{
-"idea":"Tu cuerpo es un sistema: corazón, pulmones y estómago trabajan juntos y si uno falla, todos lo notan. La Tierra también funciona así, con partes conectadas.",
-"pizarron":"Un **sistema** es un conjunto de partes que interactúan entre sí. La Tierra se estudia como un sistema formado por cuatro subsistemas principales:\n\n- **Geósfera**: rocas, suelo, volcanes y el interior del planeta.\n- **Hidrósfera**: océanos, ríos, lagos, aguas subterráneas y hielo.\n- **Atmósfera**: la capa de gases.\n- **Biósfera**: todos los seres vivos.\n\nLos subsistemas intercambian materia y energía. Ejemplos:\n\n- Una erupción volcánica (geósfera) lanza ceniza y gases a la atmósfera, que pueden enfriar el clima por un tiempo.\n- Las plantas (biósfera) toman dióxido de carbono del aire y agua del suelo, y liberan oxígeno.\n- La lluvia (hidrósfera) desgasta rocas y forma suelo.\n\nUn cambio en una parte afecta a las demás. Por eso la deforestación influye en el agua, el clima y la fauna.",
-"truco":"Geo, hidro, atmo, bio: cuatro esferas que se tocan.",
-"practica":{"ejercicio":"Explica qué subsistemas intervienen cuando un río arrastra tierra y la deposita en el mar.","respuesta":"Hidrósfera (el río y el mar) y geósfera (la tierra y las rocas); si hay plantas que sujetan el suelo, también la biósfera."},
-"analogias":[{"titulo":"La orquesta","texto":"Cada instrumento es un subsistema; si uno desafina, se afecta toda la pieza."},{"titulo":"El acuario","texto":"Agua, piedras, aire y peces forman un mundo pequeño donde todo depende de todo."}],
-"ejercicios":[{"ejercicio":"Clasifica en su subsistema: un glaciar, un bosque, el viento, una montaña.","respuesta":"Glaciar: hidrósfera; bosque: biósfera; viento: atmósfera; montaña: geósfera."},{"ejercicio":"Describe cómo una sequía prolongada afecta a otros subsistemas.","respuesta":"Baja el agua de la hidrósfera, se seca el suelo (geósfera), mueren plantas y animales (biósfera) y hay más polvo en la atmósfera."},{"ejercicio":"¿Por qué decimos que la Tierra es un sistema y no solo una lista de partes?","respuesta":"Porque sus partes interactúan e intercambian materia y energía, así que un cambio en una afecta a las otras."}]}},
-{"nodo_id":"ems-055","titulo":"Reacciones químicas: reactivos y productos","slug":"reaccion-quimica-estructura-preparatoria","palabras":["reacción química","reactivos","productos","ecuación química","balanceo","ley de conservación de la masa"],"contenido":{
-"idea":"Cuando haces un pastel mezclas harina, huevo y azúcar, y al hornear sale algo nuevo. Los ingredientes cambian, pero no se pierde ninguno: eso es una reacción química.",
-"pizarron":"Una **reacción química** es un proceso en el que unas sustancias (**reactivos**) se transforman en otras distintas (**productos**) al reorganizarse sus átomos.\n\nSe representa con una ecuación:\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\n- A la izquierda están los reactivos; a la derecha, los productos; la flecha indica \"produce\".\n- Los números delante de cada fórmula son **coeficientes**: indican cuántas moléculas participan.\n\n**Ley de conservación de la masa**: los átomos no se crean ni se destruyen, así que debe haber los mismos átomos de cada elemento en ambos lados. A eso se le llama **balancear**.\n\nEn el ejemplo: C: 1 y 1; H: 4 y 4; O: 4 y 4. Está balanceada.\n\nSeñales de reacción: cambio de color, burbujas, calor o luz, formación de un sólido.",
-"truco":"Lo que entra en átomos, tiene que salir en átomos.",
-"practica":{"ejercicio":"Balancea: $\\ce{H2 + O2 -> H2O}$","respuesta":"$\\ce{2H2 + O2 -> 2H2O}$ (4 H y 2 O en cada lado)."},
-"analogias":[{"titulo":"Los bloques de armar","texto":"Desarmas un castillo y con las mismas piezas haces un barco: las piezas (átomos) son las mismas, solo cambia cómo se juntan."},{"titulo":"La receta","texto":"Los reactivos son los ingredientes, el producto es el platillo, y la ecuación es la receta con las cantidades."}],
-"ejercicios":[{"ejercicio":"En $\\ce{CH4 + 2O2 -> CO2 + 2H2O}$, identifica reactivos y productos.","respuesta":"Reactivos: $\\ce{CH4}$ y $\\ce{O2}$; productos: $\\ce{CO2}$ y $\\ce{H2O}$."},{"ejercicio":"Balancea: $\\ce{Fe + O2 -> Fe2O3}$","respuesta":"$\\ce{4Fe + 3O2 -> 2Fe2O3}$ (4 Fe y 6 O en cada lado)."},{"ejercicio":"Se mezclan 10 g de A con 5 g de B y reaccionan por completo. ¿Cuántos gramos de productos se forman?","respuesta":"15 g, por la conservación de la masa."}]}},
-{"nodo_id":"ems-056","titulo":"El oxígeno y la fotosíntesis en la atmósfera primitiva","slug":"oxigeno-fotosintesis-atmosfera-primitiva","palabras":["oxígeno","fotosíntesis","cianobacterias","atmósfera primitiva","gran oxidación","respiración"],"contenido":{
-"idea":"Imagina que las plantas son pequeñas fábricas de aire limpio: toman luz y agua y sueltan oxígeno. Hace muchísimo tiempo, casi no había oxígeno en el aire y fueron seres diminutos quienes lo fabricaron.",
-"pizarron":"La atmósfera primitiva tenía casi nada de oxígeno libre; abundaban gases como dióxido de carbono, vapor de agua y nitrógeno.\n\nHace unos 2,400 millones de años, las **cianobacterias**, organismos fotosintéticos, comenzaron a liberar oxígeno. Este aumento gradual se llama **Gran Oxidación**. Primero el oxígeno reaccionó con el hierro disuelto en los océanos y luego se acumuló en el aire.\n\nLa fotosíntesis es:\n\n$$\\ce{6CO2 + 6H2O ->[luz] C6H12O6 + 6O2}$$\n\nImportancia del oxígeno:\n\n- Permitió la respiración aerobia, que libera mucha más energía que otros procesos.\n- Parte del $\\ce{O2}$ formó el ozono ($\\ce{O3}$) de la estratosfera, que filtra radiación ultravioleta y protegió a la vida en tierra firme.\n\nAlgunos organismos anaerobios no soportaron el cambio y muchos desaparecieron.",
-"truco":"Luz, agua y CO2 entran; azúcar y oxígeno salen.",
-"practica":{"ejercicio":"Si una planta usa 6 moléculas de $\\ce{CO2}$, ¿cuántas moléculas de $\\ce{O2}$ libera?","respuesta":"6 moléculas de $\\ce{O2}$, según la ecuación de la fotosíntesis."},
-"analogias":[{"titulo":"La fábrica pionera","texto":"Las cianobacterias fueron las primeras fábricas de oxígeno: poco a poco llenaron la atmósfera, como una alberca que se llena gota a gota."},{"titulo":"El óxido","texto":"Al principio el oxígeno se gastaba en oxidar el hierro del mar, como una esponja que absorbe agua hasta saturarse y luego deja el resto libre."}],
-"ejercicios":[{"ejercicio":"¿Qué organismos produjeron el oxígeno de la atmósfera primitiva?","respuesta":"Las cianobacterias, mediante la fotosíntesis."},{"ejercicio":"Si se realizan 12 fotosíntesis como la ecuación (cada una con 6 $\\ce{CO2}$), ¿cuántas moléculas de $\\ce{O2}$ se producen?","respuesta":"$12\\times6=72$ moléculas de $\\ce{O2}$."},{"ejercicio":"¿Por qué la capa de ozono fue importante para la vida en tierra firme?","respuesta":"Porque filtra la radiación ultravioleta dañina."}]}}
+  {
+    "nodo_id": "ems-047",
+    "titulo": "Calor y temperatura: intercambio de energía",
+    "slug": "calor-y-temperatura-preparatoria",
+    "palabras": [
+      "calor",
+      "temperatura",
+      "equilibrio térmico",
+      "energía térmica",
+      "calorimetría"
+    ],
+    "contenido": {
+      "idea": "Imagina que la temperatura es qué tan rápido bailan los niños en una fiesta, y el calor es la cantidad de baile que pasa de un salón a otro cuando abres la puerta. El baile siempre pasa del salón más movido al más tranquilo.",
+      "pizarron": "**Qué es:** la temperatura mide qué tan agitadas están las partículas. El calor es energía que pasa de lo caliente a lo frío.\n\nUna alberca y una taza pueden tener igual temperatura, pero la alberca guarda mucha más energía.\n\n**Regla:** el calor pasa hasta que todo queda igual.\n\n**Fórmula:**\n\n$$Q = mc\\Delta T$$\n\n$m$ es la masa, $c$ depende del material y $\\Delta T$ es el cambio de temperatura.\n\n**Para tu escuela:** di hacia dónde va el calor en una taza de café.",
+      "truco": "Temperatura = qué tan caliente; calor = energía que viaja.",
+      "practica": {
+        "ejercicio": "¿Cuánto calor necesitan 200 g de agua para subir de 20 °C a 30 °C? Usa $c=4.18\\ \\text{J/g·°C}$.",
+        "respuesta": "$Q=200\\times4.18\\times10=8360$ J."
+      },
+      "analogias": [
+        {
+          "titulo": "Los vasos de agua",
+          "texto": "El agua fluye del vaso más lleno al más vacío hasta que ambos quedan al mismo nivel. El calor fluye del cuerpo más caliente al más frío hasta igualar temperaturas."
+        },
+        {
+          "titulo": "El dinero en la cartera",
+          "texto": "La temperatura es como saber si alguien trae billetes grandes o chicos; el calor es el dinero que pasa de una mano a otra al pagar."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Una taza de café y una alberca están a 30 °C. ¿Cuál contiene más energía térmica total?",
+          "respuesta": "La alberca, porque tiene muchísima más masa, aunque la temperatura sea igual."
+        },
+        {
+          "ejercicio": "Un metal a 80 °C toca otro a 20 °C. ¿En qué sentido fluye el calor?",
+          "respuesta": "Del metal de 80 °C al de 20 °C, hasta que ambos igualen su temperatura."
+        },
+        {
+          "ejercicio": "¿Cuánto calor absorben 100 g de agua que suben 5 °C? ($c=4.18\\ \\text{J/g·°C}$)",
+          "respuesta": "$Q=100\\times4.18\\times5=2090$ J."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-048",
+    "titulo": "Trabajo mecánico y calor: introducción a la termodinámica",
+    "slug": "trabajo-mecanico-y-calor-termodinamica",
+    "palabras": [
+      "termodinámica",
+      "trabajo",
+      "calor",
+      "Joule",
+      "equivalente mecánico",
+      "fricción"
+    ],
+    "contenido": {
+      "idea": "Cuando te frotas las manos en un día frío se calientan. Tu esfuerzo de mover las manos se convirtió en calor. Trabajo y calor son dos formas de pasar energía de un lado a otro.",
+      "pizarron": "**La regla:** trabajo y calor son dos formas de transferir energía.\n\n**Termodinámica**: rama de la física que estudia las transformaciones de energía entre calor y trabajo.\n\n**Trabajo mecánico**: $W = F\\,d$, fuerza por distancia recorrida. Se mide en joules (J).\n\nJames Joule demostró que el trabajo mecánico puede convertirse en calor. Por ejemplo, unas aspas que agitan agua la calientan. Encontró el **equivalente mecánico del calor**:\n\n$$1\\ \\text{cal} = 4.18\\ \\text{J}$$\n\nEntonces, para pasar joules a calorías se divide entre 4.18, y para pasar calorías a joules se multiplica por 4.18.\n\nLa fricción es el ejemplo cotidiano: los frenos de un auto convierten energía de movimiento en calor.",
+      "truco": "Una caloría vale 4.18 joules: cal por 4.18 da J.",
+      "practica": {
+        "ejercicio": "Convierte 836 J a calorías.",
+        "respuesta": "$836\\div4.18=200$ cal."
+      },
+      "analogias": [
+        {
+          "titulo": "Monedas y billetes",
+          "texto": "Trabajo y calor son como monedas y billetes: se ven distintos, pero ambos son dinero (energía) y se pueden cambiar de uno al otro con una tasa fija."
+        },
+        {
+          "titulo": "Las llantas de la bici",
+          "texto": "Al frenar tu bici, las balatas se calientan: el movimiento que llevabas se transformó en calor por fricción."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Una fuerza de 50 N mueve una caja 4 m en su misma dirección. ¿Qué trabajo realiza?",
+          "respuesta": "$W=50\\times4=200$ J."
+        },
+        {
+          "ejercicio": "¿A cuántos joules equivalen 500 cal?",
+          "respuesta": "$500\\times4.18=2090$ J."
+        },
+        {
+          "ejercicio": "Un trabajo de 4180 J se convierte por completo en calor. ¿Cuántas calorías son?",
+          "respuesta": "$4180\\div4.18=1000$ cal."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-049",
+    "titulo": "Formas de propagación del calor",
+    "slug": "propagacion-del-calor-conduccion-conveccion-radiacion",
+    "palabras": [
+      "conducción",
+      "convección",
+      "radiación",
+      "transferencia de calor",
+      "aislante",
+      "conductor"
+    ],
+    "contenido": {
+      "idea": "Si dejas una cuchara en la sopa caliente, el mango se calienta. Las partículas calientes empujan a sus vecinas, como niños que se pasan un balón de mano en mano en una fila.",
+      "pizarron": "**La regla:** el calor viaja por conducción, convección o radiación.\n\n**Conducción:** por contacto. Partícula a partícula.\n\n**Convección:** el fluido caliente sube y el frío baja.\n\n**Radiación:** en ondas, sin necesitar materia. Así llega el Sol.\n\n**Para recordar:**\n- **¿Por qué las ollas tienen asas de plástico o madera?** Porque son aislantes: conducen mal el calor y no te queman.\n- **¿Por qué el aire acondicionado se coloca en la parte alta de un cuarto?** El aire frío es más denso y baja, generando una corriente de convección que enfría el cuarto.\n\n**Para tu escuela:** explica por qué el calentador se pone abajo y el aire acondicionado arriba.",
+      "truco": "Contacto = conducción; corrientes = convección; ondas = radiación.",
+      "practica": {
+        "ejercicio": "Identifica la forma de propagación: sentir el calor de una fogata a un metro de distancia.",
+        "respuesta": "Radiación, porque el aire conduce poco y el calor llega en forma de ondas."
+      },
+      "analogias": [
+        {
+          "titulo": "La fila de cubetas",
+          "texto": "En la conducción, cada persona pasa la cubeta a la siguiente sin moverse de su lugar."
+        },
+        {
+          "titulo": "El elevador",
+          "texto": "En la convección, el fluido caliente sube como en un elevador y el frío baja a ocupar su lugar."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Por qué las ollas tienen asas de plástico o madera?",
+          "respuesta": "Porque son aislantes: conducen mal el calor y no te queman."
+        },
+        {
+          "ejercicio": "¿Por qué el aire acondicionado se coloca en la parte alta de un cuarto?",
+          "respuesta": "El aire frío es más denso y baja, generando una corriente de convección que enfría el cuarto."
+        },
+        {
+          "ejercicio": "¿Cómo llega el calor del Sol a la Tierra si en el espacio hay vacío?",
+          "respuesta": "Por radiación, que no necesita un medio material."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-050",
+    "titulo": "Primera ley de la termodinámica y gas ideal",
+    "slug": "primera-ley-termodinamica-gas-ideal",
+    "palabras": [
+      "primera ley",
+      "energía interna",
+      "gas ideal",
+      "conservación de la energía",
+      "PV=nRT"
+    ],
+    "contenido": {
+      "idea": "Tu mochila tiene una cantidad de dulces. Si te dan dulces los sumas; si regalas dulces los restas. Nunca aparecen ni desaparecen de la nada, solo se mueven.",
+      "pizarron": "**La ley:** el cambio de energía de un sistema es el calor que recibe menos el trabajo que hace: $\\Delta U = Q - W$.\n\nComo tu dinero: entra por tu domingo y sale cuando gastas.\n\n$Q$ es calor recibido. $W$ es trabajo hecho.\n\n**Gas ideal:** $PV = nRT$.\n\n$P$ presión, $V$ volumen, $n$ moles, $T$ temperatura en kelvin.\n\n**Ejemplo:** recibe 100 J y hace 30 J.\n\n$$\\Delta U = 100 - 30 = 70 \\text{ J}$$\n\n**Para tu escuela:** calcula $\\Delta U$ con $Q = 50$ y $W = 20$.",
+      "truco": "Lo que entra como calor, o se queda como energía o sale como trabajo.",
+      "practica": {
+        "ejercicio": "Un gas recibe 500 J de calor y realiza 200 J de trabajo. ¿Cuánto cambia su energía interna?",
+        "respuesta": "$\\Delta U=500-200=300$ J."
+      },
+      "analogias": [
+        {
+          "titulo": "La cuenta del banco",
+          "texto": "La energía interna es tu saldo: sube con los depósitos (calor recibido) y baja con los retiros (trabajo realizado)."
+        },
+        {
+          "titulo": "El globo",
+          "texto": "Si calientas un globo, parte del calor aumenta la energía del aire y parte se usa para empujar y hacer crecer el globo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Un gas aislado (sin calor, $Q=0$) realiza 150 J de trabajo al expandirse. ¿Cuál es $\\Delta U$?",
+          "respuesta": "$\\Delta U=0-150=-150$ J; su energía interna baja y se enfría."
+        },
+        {
+          "ejercicio": "Un gas ideal se expande a temperatura constante y absorbe 400 J. ¿Cuánto trabajo realiza?",
+          "respuesta": "$\\Delta U=0$, entonces $W=Q=400$ J."
+        },
+        {
+          "ejercicio": "Un gas recibe 800 J de calor y sobre él se realizan 200 J de trabajo (es decir, $W=-200$ J). ¿Cuánto vale $\\Delta U$?",
+          "respuesta": "$\\Delta U=800-(-200)=1000$ J."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-051",
+    "titulo": "Entropía, entalpía y leyes de la termodinámica",
+    "slug": "entropia-entalpia-segunda-tercera-ley",
+    "palabras": [
+      "entropía",
+      "entalpía",
+      "segunda ley",
+      "tercera ley",
+      "desorden",
+      "exotérmica",
+      "endotérmica"
+    ],
+    "contenido": {
+      "idea": "Tu cuarto se desordena solo, pero para ordenarlo tienes que trabajar. Así funciona el universo: el desorden aumenta con facilidad, y el orden cuesta energía.",
+      "pizarron": "**La ley:** en un sistema aislado, el desorden, llamado entropía, nunca baja. Por eso el calor va de lo caliente a lo frío.\n\nTu cuarto se desordena solo. Para ordenarlo, debes gastar energía.\n\n**Entalpía ($H$):** calor de una reacción. Si es negativa, libera calor.\n\n**Entropía ($S$):** qué tan repartida y revuelta está la energía.\n\n**Tercera ley:** en el cero absoluto, un cristal perfecto tendría entropía cero. Ese punto no se alcanza.\n\nPor eso ninguna máquina aprovecha todo el calor.\n\n**Para tu escuela:** da un ejemplo de algo que se desordene solo.",
+      "truco": "Segunda ley: el desorden siempre sube solo.",
+      "practica": {
+        "ejercicio": "Un cuerpo absorbe 600 J de calor a 300 K. ¿Cuánto aumenta su entropía?",
+        "respuesta": "$\\Delta S=600/300=2\\ \\text{J/K}$."
+      },
+      "analogias": [
+        {
+          "titulo": "El cuarto desordenado",
+          "texto": "Hay muchísimas formas de tener el cuarto desordenado y muy pocas de tenerlo ordenado; por eso el desorden aparece solo."
+        },
+        {
+          "titulo": "La tinta en el agua",
+          "texto": "Una gota de tinta se esparce en el vaso, pero jamás se junta sola otra vez: la entropía aumentó."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Al fundirse un cubo de hielo, ¿la entropía del agua aumenta o disminuye?",
+          "respuesta": "Aumenta, porque las moléculas pasan de un orden rígido a moverse libremente."
+        },
+        {
+          "ejercicio": "Una reacción libera calor al ambiente y calienta el matraz. ¿Es exotérmica o endotérmica? ¿Cómo es su $\\Delta H$?",
+          "respuesta": "Exotérmica, con $\\Delta H<0$."
+        },
+        {
+          "ejercicio": "¿A cuántos grados Celsius equivale el cero absoluto y qué dice de él la tercera ley?",
+          "respuesta": "A $-273.15$ °C; la tercera ley dice que no se puede alcanzar y que ahí la entropía de un cristal perfecto sería cero."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-052",
+    "titulo": "Tipos de energía y sus transformaciones",
+    "slug": "tipos-de-energia-y-aplicaciones-tecnologicas",
+    "palabras": [
+      "energía cinética",
+      "energía potencial",
+      "energía solar",
+      "transformación de energía",
+      "energía eléctrica",
+      "tecnología"
+    ],
+    "contenido": {
+      "idea": "En un columpio, arriba te quedas un instante casi quieto con mucha energía guardada; abajo vas rapidísimo. La energía cambia de forma, pero el total se mantiene.",
+      "pizarron": "**Qué es:** la energía se presenta como mecánica, térmica, eléctrica, química y más.\n\nLa energía no se crea ni se destruye, solo se transforma. Algunos tipos:\n\n- **Cinética**: por el movimiento, $E_c=\\tfrac{1}{2}mv^2$.\n- **Potencial gravitatoria**: por la altura, $E_p=mgh$ (con $g\\approx10\\ \\text{m/s}^2$).\n- **Térmica**, **química**, **eléctrica**, **luminosa** y **nuclear**.\n\nEn los fenómenos naturales hay cadenas de transformaciones. Una cascada convierte energía potencial en cinética. Un rayo transforma energía eléctrica en luz, sonido y calor.\n\nLa tecnología aprovecha estas transformaciones:\n\n- Un panel solar: luminosa a eléctrica.\n- Una presa hidroeléctrica: potencial a cinética a eléctrica.\n- Un foco: eléctrica a luminosa y térmica.\n\nSiempre se pierde algo como calor, por eso ningún aparato es 100 % eficiente.",
+      "truco": "Altura guarda (potencial), velocidad gasta (cinética).",
+      "practica": {
+        "ejercicio": "Un objeto de 2 kg está a 5 m de altura. ¿Qué energía potencial tiene? Usa $g=10\\ \\text{m/s}^2$.",
+        "respuesta": "$E_p=2\\times10\\times5=100$ J."
+      },
+      "analogias": [
+        {
+          "titulo": "El resorte",
+          "texto": "Un resorte comprimido guarda energía como un ahorro; al soltarlo la gasta convirtiéndola en movimiento."
+        },
+        {
+          "titulo": "El agua en las pipas",
+          "texto": "El agua en un tinaco alto guarda energía; al caer por el tubo la convierte en movimiento, como en una presa."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Calcula la energía cinética de una pelota de 2 kg que va a 3 m/s.",
+          "respuesta": "$E_c=\\tfrac{1}{2}\\times2\\times3^2=9$ J."
+        },
+        {
+          "ejercicio": "Describe las transformaciones de energía en una bicicleta con dinamo que enciende su luz.",
+          "respuesta": "Química (tu cuerpo) a cinética (pedaleo) a eléctrica (dinamo) a luminosa y algo de térmica."
+        },
+        {
+          "ejercicio": "¿Qué transformación principal ocurre en un panel solar?",
+          "respuesta": "Energía luminosa del Sol a energía eléctrica."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-053",
+    "titulo": "Hidrósfera y atmósfera: capas y composición",
+    "slug": "hidrosfera-y-atmosfera-preparatoria",
+    "palabras": [
+      "hidrósfera",
+      "atmósfera",
+      "capas de la atmósfera",
+      "ciclo del agua",
+      "estados de agregación",
+      "composición del aire"
+    ],
+    "contenido": {
+      "idea": "La Tierra tiene una cobija de aire (atmósfera) y una gran alberca de agua (hidrósfera). Las dos se mezclan todo el tiempo: el agua sube al aire y regresa en forma de lluvia.",
+      "pizarron": "**Qué es:** la atmósfera es el aire que rodea la Tierra. La hidrosfera es toda el agua.\n\n**Atmósfera:** 78 % nitrógeno, 21 % oxígeno y 1 % otros gases.\n\n**Capas:** troposfera, donde pasa el clima; estratosfera, con la capa de ozono; mesosfera, termosfera y exosfera.\n\n**Hidrosfera:** cubre cerca del 71 % de la Tierra, y casi toda es salada.\n\n**Juntas:** el Sol evapora agua, el vapor forma nubes y luego llueve.\n\n**Para recordar:**\n- **¿Qué cambio de estado ocurre cuando el vapor forma nubes?** Condensación: de gas a líquido.\n\n**Para tu escuela:** di en qué capa vuelan los aviones y dónde está el ozono.",
+      "truco": "Troposfera = tiempo (clima); estratosfera = ozono.",
+      "practica": {
+        "ejercicio": "Si el aire es 78 % nitrógeno y 21 % oxígeno, ¿qué porcentaje queda para otros gases?",
+        "respuesta": "$100-78-21=1$ %."
+      },
+      "analogias": [
+        {
+          "titulo": "El pastel de capas",
+          "texto": "La atmósfera es un pastel con capas: cada una tiene distinta temperatura y función, y la de abajo es la que respiramos."
+        },
+        {
+          "titulo": "La olla con tapa",
+          "texto": "El agua de la olla se evapora, choca con la tapa fría y gotea de regreso, como el agua que sube, forma nubes y llueve."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿En qué capa de la atmósfera está la capa de ozono?",
+          "respuesta": "En la estratosfera."
+        },
+        {
+          "ejercicio": "¿Qué cambio de estado ocurre cuando el vapor forma nubes?",
+          "respuesta": "Condensación: de gas a líquido."
+        },
+        {
+          "ejercicio": "¿Por qué la mayor parte del agua del planeta no sirve directamente para beber?",
+          "respuesta": "Porque cerca del 97 % es agua salada de los océanos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-054",
+    "titulo": "La Tierra como sistema",
+    "slug": "tierra-como-sistema-subsistemas",
+    "palabras": [
+      "sistema Tierra",
+      "geósfera",
+      "biósfera",
+      "hidrósfera",
+      "atmósfera",
+      "interacciones"
+    ],
+    "contenido": {
+      "idea": "Tu cuerpo es un sistema: corazón, pulmones y estómago trabajan juntos y si uno falla, todos lo notan. La Tierra también funciona así, con partes conectadas.",
+      "pizarron": "**Qué es:** la Tierra es un sistema: cuatro partes conectadas que se afectan entre sí.\n\n**Geosfera:** rocas y suelo.\n\n**Hidrosfera:** agua.\n\n**Atmósfera:** aire.\n\n**Biosfera:** seres vivos.\n\n**Ejemplos:** un volcán lanza ceniza al aire. La lluvia desgasta la roca. Las plantas toman aire y agua.\n\nSi talas un bosque, cambian el agua y el clima.\n\n**Para recordar:**\n- **¿Por qué decimos que la Tierra es un sistema y no solo una lista de partes?** Porque sus partes interactúan e intercambian materia y energía, así que un cambio en una afecta a las otras.\n\n**Para tu escuela:** pon un ejemplo donde el agua afecte a un ser vivo.",
+      "truco": "Geo, hidro, atmo, bio: cuatro esferas que se tocan.",
+      "practica": {
+        "ejercicio": "Explica qué subsistemas intervienen cuando un río arrastra tierra y la deposita en el mar.",
+        "respuesta": "Hidrósfera (el río y el mar) y geósfera (la tierra y las rocas); si hay plantas que sujetan el suelo, también la biósfera."
+      },
+      "analogias": [
+        {
+          "titulo": "La orquesta",
+          "texto": "Cada instrumento es un subsistema; si uno desafina, se afecta toda la pieza."
+        },
+        {
+          "titulo": "El acuario",
+          "texto": "Agua, piedras, aire y peces forman un mundo pequeño donde todo depende de todo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Clasifica en su subsistema: un glaciar, un bosque, el viento, una montaña.",
+          "respuesta": "Glaciar: hidrósfera; bosque: biósfera; viento: atmósfera; montaña: geósfera."
+        },
+        {
+          "ejercicio": "Describe cómo una sequía prolongada afecta a otros subsistemas.",
+          "respuesta": "Baja el agua de la hidrósfera, se seca el suelo (geósfera), mueren plantas y animales (biósfera) y hay más polvo en la atmósfera."
+        },
+        {
+          "ejercicio": "¿Por qué decimos que la Tierra es un sistema y no solo una lista de partes?",
+          "respuesta": "Porque sus partes interactúan e intercambian materia y energía, así que un cambio en una afecta a las otras."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-055",
+    "titulo": "Reacciones químicas: reactivos y productos",
+    "slug": "reaccion-quimica-estructura-preparatoria",
+    "palabras": [
+      "reacción química",
+      "reactivos",
+      "productos",
+      "ecuación química",
+      "balanceo",
+      "ley de conservación de la masa"
+    ],
+    "contenido": {
+      "idea": "Cuando haces un pastel mezclas harina, huevo y azúcar, y al hornear sale algo nuevo. Los ingredientes cambian, pero no se pierde ninguno: eso es una reacción química.",
+      "pizarron": "**Qué es:** en una reacción, los átomos se reacomodan y forman sustancias nuevas.\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\nIzquierda: reactivos. Derecha: productos. La flecha: produce.\n\nEl número de adelante dice cuántas moléculas hay.\n\n**Ley:** los átomos no se pierden. Hay los mismos de cada lado.\n\nC: 1 y 1. H: 4 y 4. O: 4 y 4.\n\n**Para tu escuela:** cuenta los átomos en $\\ce{2H2 + O2 -> 2H2O}$.",
+      "truco": "Lo que entra en átomos, tiene que salir en átomos.",
+      "practica": {
+        "ejercicio": "Balancea: $\\ce{H2 + O2 -> H2O}$",
+        "respuesta": "$\\ce{2H2 + O2 -> 2H2O}$ (4 H y 2 O en cada lado)."
+      },
+      "analogias": [
+        {
+          "titulo": "Los bloques de armar",
+          "texto": "Desarmas un castillo y con las mismas piezas haces un barco: las piezas (átomos) son las mismas, solo cambia cómo se juntan."
+        },
+        {
+          "titulo": "La receta",
+          "texto": "Los reactivos son los ingredientes, el producto es el platillo, y la ecuación es la receta con las cantidades."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "En $\\ce{CH4 + 2O2 -> CO2 + 2H2O}$, identifica reactivos y productos.",
+          "respuesta": "Reactivos: $\\ce{CH4}$ y $\\ce{O2}$; productos: $\\ce{CO2}$ y $\\ce{H2O}$."
+        },
+        {
+          "ejercicio": "Balancea: $\\ce{Fe + O2 -> Fe2O3}$",
+          "respuesta": "$\\ce{4Fe + 3O2 -> 2Fe2O3}$ (4 Fe y 6 O en cada lado)."
+        },
+        {
+          "ejercicio": "Se mezclan 10 g de A con 5 g de B y reaccionan por completo. ¿Cuántos gramos de productos se forman?",
+          "respuesta": "15 g, por la conservación de la masa."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-056",
+    "titulo": "El oxígeno y la fotosíntesis en la atmósfera primitiva",
+    "slug": "oxigeno-fotosintesis-atmosfera-primitiva",
+    "palabras": [
+      "oxígeno",
+      "fotosíntesis",
+      "cianobacterias",
+      "atmósfera primitiva",
+      "gran oxidación",
+      "respiración"
+    ],
+    "contenido": {
+      "idea": "Imagina que las plantas son pequeñas fábricas de aire limpio: toman luz y agua y sueltan oxígeno. Hace muchísimo tiempo, casi no había oxígeno en el aire y fueron seres diminutos quienes lo fabricaron.",
+      "pizarron": "**Qué es:** al principio casi no había oxígeno en el aire. Lo liberaron unas bacterias que hacían fotosíntesis.\n\nHace unos 2400 millones de años, las **cianobacterias** soltaron oxígeno. Se llama **Gran Oxidación**.\n\n**Qué cambió:**\n\n- Surgió la respiración con oxígeno.\n- Se formó la capa de ozono.\n- Muchos organismos sin oxígeno desaparecieron.\n\n**Para recordar:**\n- **¿Por qué la capa de ozono fue importante para la vida en tierra firme?** Porque filtra la radiación ultravioleta dañina.\n\n**Para tu escuela:** explica por qué las plantas importan para respirar.",
+      "truco": "Luz, agua y CO2 entran; azúcar y oxígeno salen.",
+      "practica": {
+        "ejercicio": "Si una planta usa 6 moléculas de $\\ce{CO2}$, ¿cuántas moléculas de $\\ce{O2}$ libera?",
+        "respuesta": "6 moléculas de $\\ce{O2}$, según la ecuación de la fotosíntesis."
+      },
+      "analogias": [
+        {
+          "titulo": "La fábrica pionera",
+          "texto": "Las cianobacterias fueron las primeras fábricas de oxígeno: poco a poco llenaron la atmósfera, como una alberca que se llena gota a gota."
+        },
+        {
+          "titulo": "El óxido",
+          "texto": "Al principio el oxígeno se gastaba en oxidar el hierro del mar, como una esponja que absorbe agua hasta saturarse y luego deja el resto libre."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué organismos produjeron el oxígeno de la atmósfera primitiva?",
+          "respuesta": "Las cianobacterias, mediante la fotosíntesis."
+        },
+        {
+          "ejercicio": "Si se realizan 12 fotosíntesis como la ecuación (cada una con 6 $\\ce{CO2}$), ¿cuántas moléculas de $\\ce{O2}$ se producen?",
+          "respuesta": "$12\\times6=72$ moléculas de $\\ce{O2}$."
+        },
+        {
+          "ejercicio": "¿Por qué la capa de ozono fue importante para la vida en tierra firme?",
+          "respuesta": "Porque filtra la radiación ultravioleta dañina."
+        }
+      ]
+    }
+  }
 ]

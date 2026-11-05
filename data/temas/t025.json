@@ -1,72 +1,454 @@
 [
-{"nodo_id":"f6-005","titulo":"Diversidad de lenguas y comunicación en familia, escuela y comunidad","slug":"diversidad-lenguas-comunicacion-secundaria","palabras":["lenguas","idiomas","lenguas indígenas","registro","comunicación"],"contenido":{
-"idea":"Piensa en una caja de crayones: cada color sirve para algo distinto y juntos hacen el dibujo más bonito. Las lenguas son como esos colores: cada una dice el mundo a su manera.",
-"pizarron":"En México se hablan el español y decenas de lenguas indígenas, como el náhuatl, el maya y el mixteco, además de lenguas de señas y de otros países.\n\n1. Una **lengua** es un sistema de signos que una comunidad usa para comunicarse.\n2. Cada ámbito pide un **registro** distinto: en la familia usamos un lenguaje cercano y afectivo; en la escuela, uno más cuidado; en la comunidad, el que acuerdan sus integrantes.\n3. Muchas personas son bilingües o multilingües y cambian de lengua según con quién hablan y para qué.\n4. Respetar todas las lenguas permite que cada persona participe y se entienda con los demás.",
-"truco":"Con quién hablo y para qué: eso decide cómo hablo.",
-"practica":{"ejercicio":"Una alumna habla mixteco con su abuela, español formal en la exposición y un lenguaje de confianza con sus amigas. ¿Qué muestra esto sobre las lenguas?","respuesta":"Que se adapta el registro y la lengua según el ámbito (familiar, escolar, comunitario), y que su bilingüismo es una riqueza para comunicarse."},
-"analogias":[{"titulo":"El guardarropa","texto":"Te vistes distinto para una fiesta, la escuela o un día de campo. Igual eliges palabras y lengua según el lugar y las personas."},{"titulo":"Los puentes","texto":"Cada lengua es un puente hacia otra forma de pensar. Entre más puentes conoces, a más lugares llegas."}],
-"ejercicios":[{"ejercicio":"Menciona tres lenguas indígenas que se hablen en México.","respuesta":"Por ejemplo: náhuatl, maya y mixteco (también zapoteco, tzotzil, otomí, entre otras)."},{"ejercicio":"Explica por qué cambia tu forma de hablar con tu familia y en una exposición escolar.","respuesta":"Porque cambian el propósito, el interlocutor y la situación; en la escuela se usa un registro más formal y cuidado."},{"ejercicio":"Reflexiona: ¿cómo puedes mostrar respeto a un compañero que habla otra lengua? Da dos acciones.","respuesta":"Criterios: escucharlo sin burlas, preguntar cómo se dice algo, valorar su lengua y apoyar que la use. Vale cualquier acción concreta y respetuosa."}]}},
-{"nodo_id":"f6-009","titulo":"Diversidad étnica, cultural y lingüística: una sociedad intercultural","slug":"diversidad-etnica-cultural-intercultural-secundaria","palabras":["interculturalidad","pueblos originarios","diversidad cultural","respeto","inclusión"],"contenido":{
-"idea":"Imagina una gran mesa donde cada familia trae su platillo. Nadie dice que el suyo es el único bueno; todos prueban, comparten y la comida resulta mejor.",
-"pizarron":"México es un país **pluricultural**: viven pueblos indígenas, comunidades afrodescendientes, población mestiza y personas migrantes, con tradiciones, lenguas y modos de vida distintos.\n\n1. **Diversidad étnica**: variedad de pueblos y orígenes.\n2. **Diversidad cultural**: variedad de costumbres, fiestas, comida, música y creencias.\n3. **Diversidad lingüística**: variedad de lenguas.\n4. **Interculturalidad**: relación de respeto e igualdad entre culturas, en la que se dialoga y se aprende de las demás, sin que una domine a otra.\n\nUna sociedad intercultural combate la discriminación y reconoce los derechos de todas las personas a su cultura y a su lengua.",
-"truco":"Intercultural = conocer, respetar y aprender del otro.",
-"practica":{"ejercicio":"Distingue: ¿“Mi cultura es mejor que las demás” expresa interculturalidad? Explica.","respuesta":"No. La interculturalidad exige igualdad y respeto; decir que una cultura es mejor es discriminar."},
-"analogias":[{"titulo":"La orquesta","texto":"Cada instrumento suena distinto y ninguno sobra. La música es rica porque todos tocan juntos y se escuchan."},{"titulo":"El jardín","texto":"Un jardín con muchas flores es más vivo que uno con una sola. La variedad lo enriquece."}],
-"ejercicios":[{"ejercicio":"Define con tus palabras diversidad cultural.","respuesta":"Es la variedad de costumbres, tradiciones, fiestas, comidas, creencias y formas de vivir que hay entre los grupos de personas."},{"ejercicio":"Da un ejemplo de diversidad lingüística en México.","respuesta":"Por ejemplo, que además del español se hablen lenguas como náhuatl, maya o tseltal."},{"ejercicio":"Reflexiona: si un compañero es discriminado por su forma de hablar, ¿qué harías?","respuesta":"Criterios: no sumarse a la burla, apoyar al compañero, hablar con respeto y avisar a un adulto si continúa. Se aceptan acciones respetuosas y concretas."}]}},
-{"nodo_id":"f6-013","titulo":"Las lenguas, identidad y pertenencia","slug":"lenguas-identidad-pertenencia-secundaria","palabras":["identidad","pertenencia","lengua materna","comunidad","cultura"],"contenido":{
-"idea":"Tu nombre te hace sentir que eres tú. De la misma manera, la lengua que hablaste desde chiquito te hace sentir que perteneces a tu casa y a tu gente.",
-"pizarron":"La lengua no solo sirve para comunicar: también nos identifica.\n\n1. La **lengua materna** es la que aprendemos primero, en casa.\n2. Con ella expresamos cómo vemos el mundo, nuestros recuerdos, refranes, canciones y relatos.\n3. La **identidad** es el conjunto de rasgos con los que nos reconocemos; la lengua es uno de los principales.\n4. El **sentido de pertenencia** es sentirse parte de un grupo: familia, barrio, pueblo o país. Compartir expresiones propias, como los modismos de una región, fortalece ese vínculo.\n\nUna persona puede tener varias identidades a la vez, por ejemplo ser oaxaqueña, hablante de zapoteco y estudiante. Valorar la lengua propia y la ajena ayuda a convivir mejor.",
-"truco":"Mi lengua dice quién soy y a dónde pertenezco.",
-"practica":{"ejercicio":"Escribe una expresión de tu región o familia y explica por qué te hace sentir parte de ella.","respuesta":"Respuesta libre. Debe incluir una expresión real (dicho, apodo o frase) y una razón que la relacione con la familia, el lugar o la comunidad."},
-"analogias":[{"titulo":"La camiseta","texto":"Quien usa la camiseta de su equipo se siente parte de él. Hablar tu lengua es como llevar puesta la camiseta de tu comunidad."},{"titulo":"El árbol","texto":"Las raíces sostienen al árbol aunque no se vean. La lengua materna son raíces que sostienen quién eres."}],
-"ejercicios":[{"ejercicio":"¿Qué es la lengua materna?","respuesta":"Es la primera lengua que una persona aprende, normalmente en su familia."},{"ejercicio":"Explica cómo una lengua se relaciona con la identidad.","respuesta":"Porque con ella expresamos nuestra cultura, recuerdos y forma de ver el mundo, y nos reconocemos como parte de un grupo."},{"ejercicio":"Reflexiona: ¿qué se pierde si una comunidad deja de usar su lengua?","respuesta":"Criterios: se pierden saberes, relatos, vínculos familiares y parte de la identidad. Se acepta cualquier respuesta que mencione al menos dos de estos aspectos."}]}},
-{"nodo_id":"f6-017","titulo":"Dinamismo de las lenguas y patrimonio cultural","slug":"dinamismo-lenguas-patrimonio-secundaria","palabras":["cambio lingüístico","préstamos","neologismos","patrimonio","lenguas en peligro"],"contenido":{
-"idea":"Una lengua es como un río: siempre corre y cambia, pero sigue siendo el mismo río. Y es un tesoro que hay que cuidar para que no se seque.",
-"pizarron":"Las lenguas no son fijas: cambian con el tiempo y el uso de sus hablantes.\n\n1. Aparecen **neologismos**, palabras nuevas, como “selfi” o “chatear”.\n2. Se toman **préstamos** de otras lenguas: “chocolate” y “aguacate” vienen del náhuatl; “fútbol” viene del inglés.\n3. Algunas palabras cambian de significado o dejan de usarse.\n4. Cada región tiene variantes, como “camión” o “guagua” para el transporte.\n\nCambiar no es degradarse: es señal de que la lengua está viva. Además, las lenguas son **patrimonio cultural**, herencia que guarda saberes y memoria de un pueblo. Cuando una lengua deja de hablarse, se pierde ese conocimiento, por eso es importante usarla, escribirla y transmitirla.",
-"truco":"Lengua viva = cambia; lengua valiosa = se cuida.",
-"practica":{"ejercicio":"Di de qué lengua viene la palabra “tomate” y qué fenómeno muestra.","respuesta":"Viene del náhuatl (tomatl). Es un préstamo lingüístico que el español incorporó."},
-"analogias":[{"titulo":"La receta familiar","texto":"Cada generación le cambia algo a la receta, pero sigue siendo la de la familia. Así evolucionan las lenguas."},{"titulo":"El museo vivo","texto":"El patrimonio no solo se guarda en vitrinas; una lengua se cuida hablándola todos los días."}],
-"ejercicios":[{"ejercicio":"¿Qué es un neologismo? Da un ejemplo.","respuesta":"Es una palabra nueva en una lengua. Ejemplos: selfi, emoji, chatear."},{"ejercicio":"Menciona dos palabras del español que provengan del náhuatl.","respuesta":"Por ejemplo: chocolate, aguacate, tomate, chile, tianguis, cacahuate."},{"ejercicio":"Reflexiona: ¿por qué decimos que una lengua es patrimonio cultural? Da dos razones.","respuesta":"Criterios: guarda conocimientos, historia y tradiciones; es herencia que se transmite y da identidad. Basta con dos razones coherentes."}]}},
-{"nodo_id":"f6-021","titulo":"La función creativa del español en la comunidad","slug":"funcion-creativa-espanol-comunidad-secundaria","palabras":["creatividad","lenguaje","necesidades comunitarias","expresión","propuestas"],"contenido":{
-"idea":"Con las mismas piezas de un juego de armar puedes hacer una casa, un barco o un robot. Con las mismas palabras puedes inventar mil mensajes nuevos.",
-"pizarron":"El español no solo sirve para informar: también se usa de forma **creativa** para dar forma a lo que sentimos, necesitamos y queremos.\n\n1. Con él creamos textos nuevos: carteles, cartas, canciones, versos, anuncios, discursos.\n2. Podemos jugar con las palabras: rimas, dobles sentidos, metáforas.\n3. En la comunidad, lo usamos para expresar **necesidades e intereses**: pedir una banqueta, convocar a limpiar un parque, organizar una fiesta.\n\nPara un buen texto comunitario: define el propósito, piensa en quién lo leerá, elige un mensaje claro y un toque original que atraiga, y revisa la ortografía. La creatividad hace que el mensaje se recuerde y mueva a la acción.",
-"truco":"Necesidad + palabra creativa = mensaje que mueve.",
-"practica":{"ejercicio":"Escribe un lema corto para invitar a tu vecindario a cuidar el agua.","respuesta":"Respuesta libre. Ejemplo: “Cada gota cuenta: ciérrale a la llave y ábrele a la vida”. Debe ser breve, claro y original."},
-"analogias":[{"titulo":"La cocina","texto":"Con pocos ingredientes, una buena cocinera inventa platillos distintos. Con pocas palabras se crean mensajes únicos."},{"titulo":"El mural","texto":"Un mural usa colores para decir lo que siente un barrio. Un texto creativo usa palabras para lo mismo."}],
-"ejercicios":[{"ejercicio":"Menciona tres textos donde el español se use de forma creativa.","respuesta":"Por ejemplo: canción, cartel, poema, anuncio, copla, discurso."},{"ejercicio":"¿Qué necesidad comunitaria podrías expresar con un cartel? Redacta una frase.","respuesta":"Respuesta libre. Ejemplo: necesidad de limpiar la calle; “Tu calle es tu casa: ¡cuídala el sábado a las 9!”."},{"ejercicio":"Reflexiona: ¿qué debe tener un mensaje comunitario para ser eficaz?","respuesta":"Criterios: propósito claro, destinatario definido, lenguaje comprensible, toque original y buena ortografía."}]}},
-{"nodo_id":"f6-025","titulo":"Elementos y recursos estéticos del español en la literatura oral y escrita","slug":"recursos-esteticos-literatura-oral-escrita-secundaria","palabras":["metáfora","rima","símil","figuras literarias","literatura oral"],"contenido":{
-"idea":"Si dices “tengo mucho sueño” cuentas algo. Si dices “se me cierran las pestañas como cortinas” haces que se vea. Eso es usar la lengua con belleza.",
-"pizarron":"La literatura usa la lengua con intención **estética**, es decir, buscando belleza y emoción. Existe en forma oral (leyendas, coplas, adivinanzas, corridos) y escrita (cuentos, poemas, novelas).\n\nRecursos frecuentes:\n1. **Metáfora**: identifica dos cosas sin “como”: “tus ojos son luceros”.\n2. **Símil**: compara con “como”: “ligero como pluma”.\n3. **Rima**: coinciden los sonidos finales de los versos.\n4. **Repetición**: insistir en una palabra para dar fuerza.\n5. **Personificación**: dar rasgos humanos a lo que no lo es: “la luna sonríe”.\n6. **Hipérbole**: exagerar: “te lo dije mil veces”.\n\nTambién importan los elementos del texto: voz que narra o habla, personajes, ambiente, ritmo y sonoridad.",
-"truco":"Metáfora es; símil como; personificación vive.",
-"practica":{"ejercicio":"Identifica el recurso: “La noche es un manto negro”.","respuesta":"Metáfora, porque identifica la noche con un manto sin usar “como”."},
-"analogias":[{"titulo":"El maquillaje","texto":"Un buen maquillaje resalta rasgos sin cambiar a la persona. Los recursos estéticos resaltan lo que el texto quiere decir."},{"titulo":"Las especias","texto":"Una pizca de picante cambia el platillo. Una metáfora bien puesta cambia el sabor de un texto."}],
-"ejercicios":[{"ejercicio":"¿Cuál es la diferencia entre metáfora y símil?","respuesta":"El símil compara con un nexo (como, cual, parece); la metáfora identifica dos cosas directamente, sin nexo."},{"ejercicio":"Identifica el recurso: “El viento canta entre los árboles”.","respuesta":"Personificación, porque se atribuye al viento una acción humana (cantar)."},{"ejercicio":"Escribe una copla de dos versos que rimen sobre tu escuela.","respuesta":"Respuesta libre. Ejemplo: “En mi escuela me enseñaron / que aprender es un tesoro”. Debe tener rima en los finales."}]}},
-{"nodo_id":"f6-029","titulo":"Textos literarios en español o traducidos","slug":"textos-literarios-espanol-traducidos-secundaria","palabras":["traducción","géneros literarios","cuento","poesía","novela","lectura"],"contenido":{
-"idea":"Un libro es como una puerta a otro lugar. Si fue escrito en otro idioma, alguien lo tradujo, como un guía que te lleva de la mano para que lo entiendas.",
-"pizarron":"Los **textos literarios** son obras creadas con valor estético. Se clasifican en géneros:\n\n1. **Narrativo**: cuenta una historia (cuento, novela, leyenda).\n2. **Lírico**: expresa emociones (poema, canción).\n3. **Dramático**: se escribe para representarse (obra de teatro).\n\nPueden estar escritos originalmente en español, de autores como Juan Rulfo, Rosario Castellanos o Sor Juana Inés de la Cruz, o estar **traducidos** de otras lenguas, como los cuentos de Edgar Allan Poe, escritos en inglés.\n\nAl leer una traducción conviene recordar que quien traduce interpreta y elige palabras, por lo que el texto puede diferir un poco del original. Para comprender una obra: identifica el género, el tema, quién narra, los personajes y lo que te hace sentir.",
-"truco":"Género narra, expresa o representa; traducción es puente.",
-"practica":{"ejercicio":"¿A qué género pertenece una obra de teatro y por qué?","respuesta":"Al dramático, porque está escrita para representarse mediante diálogos y acciones de personajes."},
-"analogias":[{"titulo":"El intérprete","texto":"Quien traduce es como un intérprete en una conversación: pasa el mensaje a tu lengua, aunque pueda cambiar algún matiz."},{"titulo":"Las puertas del mundo","texto":"Cada libro traducido abre una puerta a un país que no has visitado."}],
-"ejercicios":[{"ejercicio":"Menciona los tres géneros literarios.","respuesta":"Narrativo, lírico y dramático."},{"ejercicio":"¿Por qué una traducción puede diferir del original?","respuesta":"Porque quien traduce interpreta y elige palabras en otra lengua, y no todo tiene equivalente exacto."},{"ejercicio":"Reflexiona: elige un texto literario que hayas leído y explica qué sentiste y por qué.","respuesta":"Respuesta libre. Criterios: nombrar el texto, decir la emoción y justificar con algún elemento (personaje, situación o recurso)."}]}},
-{"nodo_id":"f6-032","titulo":"Creaciones literarias tradicionales y contemporáneas","slug":"creaciones-literarias-tradicionales-contemporaneas-secundaria","palabras":["tradición oral","leyendas","corridos","literatura contemporánea","poesía"],"contenido":{
-"idea":"Tu abuela te cuenta un cuento que le contaron a ella. Tu amigo escribe uno nuevo en su celular. Los dos son literatura: uno viene de lejos y el otro nace hoy.",
-"pizarron":"La literatura **tradicional** se transmite de generación en generación, casi siempre de forma oral y sin autor conocido: leyendas, mitos, coplas, refranes, adivinanzas, corridos y cuentos populares, como la leyenda de la Llorona.\n\nLa literatura **contemporánea** la escriben autores actuales, con temas y formas de hoy: novelas, poesía, cuento, crónicas, textos digitales o ficción breve en redes.\n\nSemejanzas: ambas cuentan historias, usan recursos literarios y reflejan cómo piensa una comunidad.\nDiferencias: la tradicional suele cambiar al repetirse y no tiene autor identificado; la contemporánea tiene autor y se fija por escrito.\n\nLeer las dos permite conocer la memoria de un pueblo y su manera de ver el presente.",
-"truco":"Tradicional se cuenta; contemporánea se firma.",
-"practica":{"ejercicio":"Clasifica: un corrido popular de la Revolución y una novela publicada este año.","respuesta":"El corrido es tradicional (transmisión oral, popular); la novela es contemporánea (autor actual y texto escrito)."},
-"analogias":[{"titulo":"El caldo de la abuela","texto":"Es una receta antigua que pasó de mano en mano. Un platillo nuevo de un chef joven también es cocina; solo cambia su origen."},{"titulo":"El camino y el puente","texto":"Lo tradicional es el camino recorrido durante años; lo contemporáneo es el puente nuevo que sigue ese camino."}],
-"ejercicios":[{"ejercicio":"Menciona dos ejemplos de literatura tradicional.","respuesta":"Por ejemplo: leyendas, mitos, coplas, refranes, adivinanzas o corridos."},{"ejercicio":"Da una diferencia entre un texto tradicional y uno contemporáneo.","respuesta":"El tradicional circula de forma oral y suele no tener autor conocido; el contemporáneo tiene autor identificado y se publica por escrito o en medios actuales."},{"ejercicio":"Reflexiona: ¿qué leyenda o historia de tu comunidad conoces y qué enseña?","respuesta":"Respuesta libre. Criterios: contar brevemente la historia, indicar quién se la contó y explicar su mensaje o enseñanza."}]}},
-{"nodo_id":"f6-036","titulo":"Recursos literarios para expresar emociones sobre familia, escuela y comunidad","slug":"recursos-literarios-emociones-familia-escuela-comunidad-secundaria","palabras":["poema","emociones","sentimientos","figuras literarias","escritura creativa"],"contenido":{
-"idea":"Cuando extrañas a alguien, a veces no basta decir “estoy triste”. Puedes decir “mi casa se siente grande y callada sin ti”. Con eso, quien te lee entiende lo que sientes.",
-"pizarron":"Para expresar sensaciones, emociones e ideas sobre la familia, la escuela y la comunidad, podemos apoyarnos en recursos literarios.\n\nPasos para escribir:\n1. **Elige qué quieres expresar**: cariño, nostalgia, orgullo, alegría, preocupación.\n2. **Piensa en imágenes concretas**: el olor del café en casa, el timbre del recreo, la plaza en fiesta.\n3. **Usa recursos**: metáfora (“mi abuela es un refugio”), símil (“el patio es ruidoso como un panal”), personificación, rima, repetición.\n4. **Elige la forma**: poema, carta, cuento breve, canción.\n5. **Revisa**: ritmo, claridad y ortografía.\n\nMostrar la emoción con imágenes es más fuerte que solo nombrarla. Escribe desde tu experiencia con respeto hacia las personas que menciones.",
-"truco":"No digas la emoción: haz que se vea y se sienta.",
-"practica":{"ejercicio":"Convierte “extraño mi escuela” en una frase con metáfora o símil.","respuesta":"Respuesta libre. Ejemplo: “Mi escuela es un nido al que mi corazón quiere volver”."},
-"analogias":[{"titulo":"La fotografía","texto":"Una buena foto muestra un momento sin explicarlo. Una imagen literaria hace lo mismo con palabras."},{"titulo":"La sopa","texto":"Lo que cocinas con cariño sabe distinto. Un texto escrito con sentimiento se nota en cada palabra."}],
-"ejercicios":[{"ejercicio":"Escribe un símil sobre tu familia.","respuesta":"Respuesta libre. Ejemplo: “Mi familia es unida como los dedos de una mano”. Debe usar “como” u otro nexo."},{"ejercicio":"Identifica el recurso: “La plaza despierta con el canto de los vendedores”.","respuesta":"Personificación, porque se dice que la plaza despierta como una persona."},{"ejercicio":"Reflexiona: escribe dos versos sobre un recuerdo de tu comunidad y explica qué emoción expresan.","respuesta":"Respuesta libre. Criterios: imagen concreta, al menos un recurso literario y una emoción identificada con claridad."}]}},
-{"nodo_id":"f6-040","titulo":"Géneros periodísticos para comunicar sucesos significativos","slug":"generos-periodisticos-sucesos-secundaria","palabras":["noticia","crónica","reportaje","entrevista","artículo de opinión","periodismo"],"contenido":{
-"idea":"Si en tu escuela pasa algo importante, alguien debe contarlo a todos con claridad y sin inventar. Esa persona hace de reportero y usa el género que mejor sirve.",
-"pizarron":"Los **géneros periodísticos** son formas de comunicar sucesos de la vida familiar, escolar, comunitaria y social. Se dividen en:\n\n**Informativos** (cuentan hechos):\n1. **Noticia**: responde qué, quién, cuándo, dónde, cómo y por qué; lo más importante va primero.\n2. **Crónica**: relata un suceso en orden cronológico, con detalles y ambiente.\n3. **Reportaje**: investiga a fondo un tema con datos, fuentes y testimonios.\n4. **Entrevista**: preguntas y respuestas con una persona.\n\n**De opinión**:\n5. **Artículo de opinión** y **editorial**: argumentan un punto de vista.\n\nBuen periodismo: verificar la información, citar fuentes, distinguir hechos de opiniones y respetar a las personas.",
-"truco":"Noticia informa, crónica narra, reportaje investiga, opinión argumenta.",
-"practica":{"ejercicio":"Escribe la primera oración de una noticia (qué, quién, cuándo, dónde) sobre una feria escolar.","respuesta":"Respuesta libre. Ejemplo: “La secundaria organizó el viernes en su patio una feria de ciencias con 40 proyectos”. Debe incluir los datos básicos."},
-"analogias":[{"titulo":"El mensajero","texto":"El periodista es como un mensajero que lleva noticias fieles; no cambia el mensaje, lo entrega con claridad."},{"titulo":"La lupa","texto":"El reportaje es una lupa: mira de cerca un asunto para que se vean los detalles que a simple vista pasan inadvertidos."}],
-"ejercicios":[{"ejercicio":"Menciona las seis preguntas que responde una noticia.","respuesta":"Qué, quién, cuándo, dónde, cómo y por qué."},{"ejercicio":"¿Qué diferencia hay entre una crónica y un artículo de opinión?","respuesta":"La crónica relata un suceso en orden, con detalles; el artículo de opinión argumenta un punto de vista del autor."},{"ejercicio":"Reflexiona: ¿cómo verificarías una noticia antes de compartirla?","respuesta":"Criterios: revisar la fuente, comparar con otros medios confiables, buscar datos y evidencias, y no compartir si no es verificable."}]}}
+  {
+    "nodo_id": "f6-005",
+    "titulo": "Diversidad de lenguas y comunicación en familia, escuela y comunidad",
+    "slug": "diversidad-lenguas-comunicacion-secundaria",
+    "palabras": [
+      "lenguas",
+      "idiomas",
+      "lenguas indígenas",
+      "registro",
+      "comunicación"
+    ],
+    "contenido": {
+      "idea": "Piensa en una caja de crayones: cada color sirve para algo distinto y juntos hacen el dibujo más bonito. Las lenguas son como esos colores: cada una dice el mundo a su manera.",
+      "pizarron": "**Qué es:** una lengua es la forma en que una comunidad se comunica. Todas valen igual.\n\nEn México se hablan español, lenguas indígenas y lengua de señas.\n\n**Registro:** es cómo cambias tu forma de hablar según el lugar.\n\nCon tu familia hablas con confianza.\n\nCon tu maestra hablas con más cuidado.\n\nQuien habla dos lenguas es **bilingüe**, y escoge cuál usar.\n\n**Para tu escuela:** escribe cómo le pedirías un lápiz a un amigo y a tu directora.",
+      "truco": "Con quién hablo y para qué: eso decide cómo hablo.",
+      "practica": {
+        "ejercicio": "Una alumna habla mixteco con su abuela, español formal en la exposición y un lenguaje de confianza con sus amigas. ¿Qué muestra esto sobre las lenguas?",
+        "respuesta": "Que se adapta el registro y la lengua según el ámbito (familiar, escolar, comunitario), y que su bilingüismo es una riqueza para comunicarse."
+      },
+      "analogias": [
+        {
+          "titulo": "El guardarropa",
+          "texto": "Te vistes distinto para una fiesta, la escuela o un día de campo. Igual eliges palabras y lengua según el lugar y las personas."
+        },
+        {
+          "titulo": "Los puentes",
+          "texto": "Cada lengua es un puente hacia otra forma de pensar. Entre más puentes conoces, a más lugares llegas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona tres lenguas indígenas que se hablen en México.",
+          "respuesta": "Por ejemplo: náhuatl, maya y mixteco (también zapoteco, tzotzil, otomí, entre otras)."
+        },
+        {
+          "ejercicio": "Explica por qué cambia tu forma de hablar con tu familia y en una exposición escolar.",
+          "respuesta": "Porque cambian el propósito, el interlocutor y la situación; en la escuela se usa un registro más formal y cuidado."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿cómo puedes mostrar respeto a un compañero que habla otra lengua? Da dos acciones.",
+          "respuesta": "Criterios: escucharlo sin burlas, preguntar cómo se dice algo, valorar su lengua y apoyar que la use. Vale cualquier acción concreta y respetuosa."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-009",
+    "titulo": "Diversidad étnica, cultural y lingüística: una sociedad intercultural",
+    "slug": "diversidad-etnica-cultural-intercultural-secundaria",
+    "palabras": [
+      "interculturalidad",
+      "pueblos originarios",
+      "diversidad cultural",
+      "respeto",
+      "inclusión"
+    ],
+    "contenido": {
+      "idea": "Imagina una gran mesa donde cada familia trae su platillo. Nadie dice que el suyo es el único bueno; todos prueban, comparten y la comida resulta mejor.",
+      "pizarron": "**Qué es:** la interculturalidad es convivir con respeto entre culturas distintas, aprendiendo unas de otras.\n\nMéxico tiene pueblos indígenas, comunidades afrodescendientes, mestizos y migrantes.\n\n**Diversidad étnica:** muchos pueblos.\n\n**Diversidad cultural:** muchas costumbres, fiestas y comidas.\n\n**Diversidad lingüística:** muchas lenguas.\n\nComo un salón donde cada niño trae una comida distinta y todos prueban. Nadie dice que la suya es mejor.\n\n**Para recordar:**\n- **Diversidad cultural:** Es la variedad de costumbres, tradiciones, fiestas, comidas, creencias y formas de vivir que hay entre los grupos de personas.\n\n**Para tu escuela:** pregunta a un compañero por una costumbre de su familia distinta a la tuya.",
+      "truco": "Intercultural = conocer, respetar y aprender del otro.",
+      "practica": {
+        "ejercicio": "Distingue: ¿“Mi cultura es mejor que las demás” expresa interculturalidad? Explica.",
+        "respuesta": "No. La interculturalidad exige igualdad y respeto; decir que una cultura es mejor es discriminar."
+      },
+      "analogias": [
+        {
+          "titulo": "La orquesta",
+          "texto": "Cada instrumento suena distinto y ninguno sobra. La música es rica porque todos tocan juntos y se escuchan."
+        },
+        {
+          "titulo": "El jardín",
+          "texto": "Un jardín con muchas flores es más vivo que uno con una sola. La variedad lo enriquece."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Define con tus palabras diversidad cultural.",
+          "respuesta": "Es la variedad de costumbres, tradiciones, fiestas, comidas, creencias y formas de vivir que hay entre los grupos de personas."
+        },
+        {
+          "ejercicio": "Da un ejemplo de diversidad lingüística en México.",
+          "respuesta": "Por ejemplo, que además del español se hablen lenguas como náhuatl, maya o tseltal."
+        },
+        {
+          "ejercicio": "Reflexiona: si un compañero es discriminado por su forma de hablar, ¿qué harías?",
+          "respuesta": "Criterios: no sumarse a la burla, apoyar al compañero, hablar con respeto y avisar a un adulto si continúa. Se aceptan acciones respetuosas y concretas."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-013",
+    "titulo": "Las lenguas, identidad y pertenencia",
+    "slug": "lenguas-identidad-pertenencia-secundaria",
+    "palabras": [
+      "identidad",
+      "pertenencia",
+      "lengua materna",
+      "comunidad",
+      "cultura"
+    ],
+    "contenido": {
+      "idea": "Tu nombre te hace sentir que eres tú. De la misma manera, la lengua que hablaste desde chiquito te hace sentir que perteneces a tu casa y a tu gente.",
+      "pizarron": "**Qué es:** tu lengua te ayuda a saber quién eres y de dónde vienes.\n\n**Lengua materna:** la primera que aprendes en casa.\n\n**Identidad:** lo que te hace ser tú.\n\n**Pertenencia:** sentirte parte de un grupo.\n\nCuando escuchas una palabra de tu pueblo lejos de casa, sientes que estás con los tuyos.\n\nPuedes tener varias identidades: ser oaxaqueña, hablar zapoteco y ser estudiante.\n\n**Para recordar:**\n- **Lengua materna:** Es la primera lengua que una persona aprende, normalmente en su familia.\n\n**Para tu escuela:** escribe tres palabras o frases que solo se usen en tu región.",
+      "truco": "Mi lengua dice quién soy y a dónde pertenezco.",
+      "practica": {
+        "ejercicio": "Escribe una expresión de tu región o familia y explica por qué te hace sentir parte de ella.",
+        "respuesta": "Respuesta libre. Debe incluir una expresión real (dicho, apodo o frase) y una razón que la relacione con la familia, el lugar o la comunidad."
+      },
+      "analogias": [
+        {
+          "titulo": "La camiseta",
+          "texto": "Quien usa la camiseta de su equipo se siente parte de él. Hablar tu lengua es como llevar puesta la camiseta de tu comunidad."
+        },
+        {
+          "titulo": "El árbol",
+          "texto": "Las raíces sostienen al árbol aunque no se vean. La lengua materna son raíces que sostienen quién eres."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es la lengua materna?",
+          "respuesta": "Es la primera lengua que una persona aprende, normalmente en su familia."
+        },
+        {
+          "ejercicio": "Explica cómo una lengua se relaciona con la identidad.",
+          "respuesta": "Porque con ella expresamos nuestra cultura, recuerdos y forma de ver el mundo, y nos reconocemos como parte de un grupo."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué se pierde si una comunidad deja de usar su lengua?",
+          "respuesta": "Criterios: se pierden saberes, relatos, vínculos familiares y parte de la identidad. Se acepta cualquier respuesta que mencione al menos dos de estos aspectos."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-017",
+    "titulo": "Dinamismo de las lenguas y patrimonio cultural",
+    "slug": "dinamismo-lenguas-patrimonio-secundaria",
+    "palabras": [
+      "cambio lingüístico",
+      "préstamos",
+      "neologismos",
+      "patrimonio",
+      "lenguas en peligro"
+    ],
+    "contenido": {
+      "idea": "Una lengua es como un río: siempre corre y cambia, pero sigue siendo el mismo río. Y es un tesoro que hay que cuidar para que no se seque.",
+      "pizarron": "**Qué es:** las lenguas cambian con el tiempo, y son una herencia que guarda los saberes de un pueblo.\n\n**Cómo cambian:**\n\n- **Palabras nuevas:** selfi, chatear.\n- **Palabras de otras lenguas:** chocolate y aguacate vienen del náhuatl; futbol, del inglés.\n- **Variantes:** camión en México, guagua en Cuba.\n\nCambiar no es malo: significa que la lengua sigue viva.\n\nSi una lengua se deja de hablar, se pierde lo que guardaba.\n\n**Para tu escuela:** busca cinco palabras del español que vengan del náhuatl.",
+      "truco": "Lengua viva = cambia; lengua valiosa = se cuida.",
+      "practica": {
+        "ejercicio": "Di de qué lengua viene la palabra “tomate” y qué fenómeno muestra.",
+        "respuesta": "Viene del náhuatl (tomatl). Es un préstamo lingüístico que el español incorporó."
+      },
+      "analogias": [
+        {
+          "titulo": "La receta familiar",
+          "texto": "Cada generación le cambia algo a la receta, pero sigue siendo la de la familia. Así evolucionan las lenguas."
+        },
+        {
+          "titulo": "El museo vivo",
+          "texto": "El patrimonio no solo se guarda en vitrinas; una lengua se cuida hablándola todos los días."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es un neologismo? Da un ejemplo.",
+          "respuesta": "Es una palabra nueva en una lengua. Ejemplos: selfi, emoji, chatear."
+        },
+        {
+          "ejercicio": "Menciona dos palabras del español que provengan del náhuatl.",
+          "respuesta": "Por ejemplo: chocolate, aguacate, tomate, chile, tianguis, cacahuate."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿por qué decimos que una lengua es patrimonio cultural? Da dos razones.",
+          "respuesta": "Criterios: guarda conocimientos, historia y tradiciones; es herencia que se transmite y da identidad. Basta con dos razones coherentes."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-021",
+    "titulo": "La función creativa del español en la comunidad",
+    "slug": "funcion-creativa-espanol-comunidad-secundaria",
+    "palabras": [
+      "creatividad",
+      "lenguaje",
+      "necesidades comunitarias",
+      "expresión",
+      "propuestas"
+    ],
+    "contenido": {
+      "idea": "Con las mismas piezas de un juego de armar puedes hacer una casa, un barco o un robot. Con las mismas palabras puedes inventar mil mensajes nuevos.",
+      "pizarron": "**Qué es:** el español no solo informa: también sirve para crear y para mover a la gente.\n\nCon él haces carteles, canciones, versos y anuncios.\n\n**Ejemplo:** en vez de *No tiren basura*, puedes escribir *El parque te da sombra, dale limpieza*.\n\n**Para un buen texto:**\n\n1. Piensa para qué lo escribes.\n2. Piensa quién lo leerá.\n3. Di tu mensaje claro.\n4. Agrega algo original.\n5. Revisa la ortografía.\n\n**Para tu escuela:** crea una frase para invitar a cuidar el agua.",
+      "truco": "Necesidad + palabra creativa = mensaje que mueve.",
+      "practica": {
+        "ejercicio": "Escribe un lema corto para invitar a tu vecindario a cuidar el agua.",
+        "respuesta": "Respuesta libre. Ejemplo: “Cada gota cuenta: ciérrale a la llave y ábrele a la vida”. Debe ser breve, claro y original."
+      },
+      "analogias": [
+        {
+          "titulo": "La cocina",
+          "texto": "Con pocos ingredientes, una buena cocinera inventa platillos distintos. Con pocas palabras se crean mensajes únicos."
+        },
+        {
+          "titulo": "El mural",
+          "texto": "Un mural usa colores para decir lo que siente un barrio. Un texto creativo usa palabras para lo mismo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona tres textos donde el español se use de forma creativa.",
+          "respuesta": "Por ejemplo: canción, cartel, poema, anuncio, copla, discurso."
+        },
+        {
+          "ejercicio": "¿Qué necesidad comunitaria podrías expresar con un cartel? Redacta una frase.",
+          "respuesta": "Respuesta libre. Ejemplo: necesidad de limpiar la calle; “Tu calle es tu casa: ¡cuídala el sábado a las 9!”."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué debe tener un mensaje comunitario para ser eficaz?",
+          "respuesta": "Criterios: propósito claro, destinatario definido, lenguaje comprensible, toque original y buena ortografía."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-025",
+    "titulo": "Elementos y recursos estéticos del español en la literatura oral y escrita",
+    "slug": "recursos-esteticos-literatura-oral-escrita-secundaria",
+    "palabras": [
+      "metáfora",
+      "rima",
+      "símil",
+      "figuras literarias",
+      "literatura oral"
+    ],
+    "contenido": {
+      "idea": "Si dices “tengo mucho sueño” cuentas algo. Si dices “se me cierran las pestañas como cortinas” haces que se vea. Eso es usar la lengua con belleza.",
+      "pizarron": "**Qué es:** los recursos literarios son trucos con palabras para que un texto sea bello y emocione.\n\n**Los más usados:**\n\n- **Metáfora:** *Tus ojos son luceros.*\n- **Símil:** *Ligero como pluma.*\n- **Rima:** sonidos iguales al final de los versos.\n- **Repetición:** decir algo varias veces para dar fuerza.\n- **Personificación:** *La luna sonríe.*\n- **Hipérbole:** *Te lo dije mil veces.*\n\nAparecen en leyendas, coplas, cuentos y poemas.\n\n**Para recordar:**\n- **¿Cuál es la diferencia entre metáfora y símil?** El símil compara con un nexo (como, cual, parece); la metáfora identifica dos cosas directamente, sin nexo.\n\n**Para tu escuela:** busca dos recursos en una canción que te guste.",
+      "truco": "Metáfora es; símil como; personificación vive.",
+      "practica": {
+        "ejercicio": "Identifica el recurso: “La noche es un manto negro”.",
+        "respuesta": "Metáfora, porque identifica la noche con un manto sin usar “como”."
+      },
+      "analogias": [
+        {
+          "titulo": "El maquillaje",
+          "texto": "Un buen maquillaje resalta rasgos sin cambiar a la persona. Los recursos estéticos resaltan lo que el texto quiere decir."
+        },
+        {
+          "titulo": "Las especias",
+          "texto": "Una pizca de picante cambia el platillo. Una metáfora bien puesta cambia el sabor de un texto."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuál es la diferencia entre metáfora y símil?",
+          "respuesta": "El símil compara con un nexo (como, cual, parece); la metáfora identifica dos cosas directamente, sin nexo."
+        },
+        {
+          "ejercicio": "Identifica el recurso: “El viento canta entre los árboles”.",
+          "respuesta": "Personificación, porque se atribuye al viento una acción humana (cantar)."
+        },
+        {
+          "ejercicio": "Escribe una copla de dos versos que rimen sobre tu escuela.",
+          "respuesta": "Respuesta libre. Ejemplo: “En mi escuela me enseñaron / que aprender es un tesoro”. Debe tener rima en los finales."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-029",
+    "titulo": "Textos literarios en español o traducidos",
+    "slug": "textos-literarios-espanol-traducidos-secundaria",
+    "palabras": [
+      "traducción",
+      "géneros literarios",
+      "cuento",
+      "poesía",
+      "novela",
+      "lectura"
+    ],
+    "contenido": {
+      "idea": "Un libro es como una puerta a otro lugar. Si fue escrito en otro idioma, alguien lo tradujo, como un guía que te lleva de la mano para que lo entiendas.",
+      "pizarron": "**Qué es:** un texto literario es una obra hecha con palabras bellas. Puede estar escrito en español o traducido de otra lengua.\n\n**Géneros:**\n\n- **Narrativo:** cuenta una historia.\n- **Lírico:** expresa emociones.\n- **Dramático:** se actúa.\n\n**Escritos en español:** Juan Rulfo y Sor Juana.\n\n**Traducidos:** Edgar Allan Poe escribió en inglés.\n\nQuien traduce elige palabras, y por eso dos traducciones pueden ser distintas.\n\n**Para tu escuela:** di el género de tu último libro y qué te hizo sentir.",
+      "truco": "Género narra, expresa o representa; traducción es puente.",
+      "practica": {
+        "ejercicio": "¿A qué género pertenece una obra de teatro y por qué?",
+        "respuesta": "Al dramático, porque está escrita para representarse mediante diálogos y acciones de personajes."
+      },
+      "analogias": [
+        {
+          "titulo": "El intérprete",
+          "texto": "Quien traduce es como un intérprete en una conversación: pasa el mensaje a tu lengua, aunque pueda cambiar algún matiz."
+        },
+        {
+          "titulo": "Las puertas del mundo",
+          "texto": "Cada libro traducido abre una puerta a un país que no has visitado."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona los tres géneros literarios.",
+          "respuesta": "Narrativo, lírico y dramático."
+        },
+        {
+          "ejercicio": "¿Por qué una traducción puede diferir del original?",
+          "respuesta": "Porque quien traduce interpreta y elige palabras en otra lengua, y no todo tiene equivalente exacto."
+        },
+        {
+          "ejercicio": "Reflexiona: elige un texto literario que hayas leído y explica qué sentiste y por qué.",
+          "respuesta": "Respuesta libre. Criterios: nombrar el texto, decir la emoción y justificar con algún elemento (personaje, situación o recurso)."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-032",
+    "titulo": "Creaciones literarias tradicionales y contemporáneas",
+    "slug": "creaciones-literarias-tradicionales-contemporaneas-secundaria",
+    "palabras": [
+      "tradición oral",
+      "leyendas",
+      "corridos",
+      "literatura contemporánea",
+      "poesía"
+    ],
+    "contenido": {
+      "idea": "Tu abuela te cuenta un cuento que le contaron a ella. Tu amigo escribe uno nuevo en su celular. Los dos son literatura: uno viene de lejos y el otro nace hoy.",
+      "pizarron": "**Qué es:** la literatura tradicional viene de la gente, sin autor conocido. La contemporánea la escriben autores de hoy.\n\n**Tradicional:** se cuenta de abuelos a nietos, y cambia al repetirse. Leyendas, refranes y adivinanzas, como La Llorona.\n\n**Contemporánea:** tiene autor y queda escrita. Novelas y cuentos actuales.\n\n**Se parecen en que** las dos cuentan historias y muestran cómo piensa la gente.\n\n**Para tu escuela:** pregunta en tu casa por una leyenda y escríbela.",
+      "truco": "Tradicional se cuenta; contemporánea se firma.",
+      "practica": {
+        "ejercicio": "Clasifica: un corrido popular de la Revolución y una novela publicada este año.",
+        "respuesta": "El corrido es tradicional (transmisión oral, popular); la novela es contemporánea (autor actual y texto escrito)."
+      },
+      "analogias": [
+        {
+          "titulo": "El caldo de la abuela",
+          "texto": "Es una receta antigua que pasó de mano en mano. Un platillo nuevo de un chef joven también es cocina; solo cambia su origen."
+        },
+        {
+          "titulo": "El camino y el puente",
+          "texto": "Lo tradicional es el camino recorrido durante años; lo contemporáneo es el puente nuevo que sigue ese camino."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona dos ejemplos de literatura tradicional.",
+          "respuesta": "Por ejemplo: leyendas, mitos, coplas, refranes, adivinanzas o corridos."
+        },
+        {
+          "ejercicio": "Da una diferencia entre un texto tradicional y uno contemporáneo.",
+          "respuesta": "El tradicional circula de forma oral y suele no tener autor conocido; el contemporáneo tiene autor identificado y se publica por escrito o en medios actuales."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué leyenda o historia de tu comunidad conoces y qué enseña?",
+          "respuesta": "Respuesta libre. Criterios: contar brevemente la historia, indicar quién se la contó y explicar su mensaje o enseñanza."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-036",
+    "titulo": "Recursos literarios para expresar emociones sobre familia, escuela y comunidad",
+    "slug": "recursos-literarios-emociones-familia-escuela-comunidad-secundaria",
+    "palabras": [
+      "poema",
+      "emociones",
+      "sentimientos",
+      "figuras literarias",
+      "escritura creativa"
+    ],
+    "contenido": {
+      "idea": "Cuando extrañas a alguien, a veces no basta decir “estoy triste”. Puedes decir “mi casa se siente grande y callada sin ti”. Con eso, quien te lee entiende lo que sientes.",
+      "pizarron": "**Qué es:** es usar figuras literarias para mostrar lo que sientes.\n\nDecir *estoy triste* informa. Decir *mi cuarto se quedó sin sol* hace sentir.\n\n**Pasos:**\n\n1. Elige una emoción.\n2. Piensa en algo concreto: el olor del café en casa.\n3. Usa un recurso: *Mi abuela es un refugio.*\n4. Escoge poema, carta o canción.\n5. Revisa.\n\n**Para tu escuela:** escribe un verso sobre tu escuela con un símil.",
+      "truco": "No digas la emoción: haz que se vea y se sienta.",
+      "practica": {
+        "ejercicio": "Convierte “extraño mi escuela” en una frase con metáfora o símil.",
+        "respuesta": "Respuesta libre. Ejemplo: “Mi escuela es un nido al que mi corazón quiere volver”."
+      },
+      "analogias": [
+        {
+          "titulo": "La fotografía",
+          "texto": "Una buena foto muestra un momento sin explicarlo. Una imagen literaria hace lo mismo con palabras."
+        },
+        {
+          "titulo": "La sopa",
+          "texto": "Lo que cocinas con cariño sabe distinto. Un texto escrito con sentimiento se nota en cada palabra."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Escribe un símil sobre tu familia.",
+          "respuesta": "Respuesta libre. Ejemplo: “Mi familia es unida como los dedos de una mano”. Debe usar “como” u otro nexo."
+        },
+        {
+          "ejercicio": "Identifica el recurso: “La plaza despierta con el canto de los vendedores”.",
+          "respuesta": "Personificación, porque se dice que la plaza despierta como una persona."
+        },
+        {
+          "ejercicio": "Reflexiona: escribe dos versos sobre un recuerdo de tu comunidad y explica qué emoción expresan.",
+          "respuesta": "Respuesta libre. Criterios: imagen concreta, al menos un recurso literario y una emoción identificada con claridad."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f6-040",
+    "titulo": "Géneros periodísticos para comunicar sucesos significativos",
+    "slug": "generos-periodisticos-sucesos-secundaria",
+    "palabras": [
+      "noticia",
+      "crónica",
+      "reportaje",
+      "entrevista",
+      "artículo de opinión",
+      "periodismo"
+    ],
+    "contenido": {
+      "idea": "Si en tu escuela pasa algo importante, alguien debe contarlo a todos con claridad y sin inventar. Esa persona hace de reportero y usa el género que mejor sirve.",
+      "pizarron": "**Qué es:** los géneros periodísticos son formas de contar lo que pasa.\n\n**Para informar:**\n\n- **Noticia:** qué, quién, cuándo, dónde, cómo y por qué.\n- **Crónica:** cuenta un hecho en orden, con detalles.\n- **Reportaje:** investiga a fondo.\n- **Entrevista:** preguntas y respuestas.\n\n**Para opinar:** artículo de opinión.\n\n**Regla:** revisa los datos y separa hechos de opiniones.\n\n**Para tu escuela:** escribe una noticia corta sobre algo que pasó en tu salón.",
+      "truco": "Noticia informa, crónica narra, reportaje investiga, opinión argumenta.",
+      "practica": {
+        "ejercicio": "Escribe la primera oración de una noticia (qué, quién, cuándo, dónde) sobre una feria escolar.",
+        "respuesta": "Respuesta libre. Ejemplo: “La secundaria organizó el viernes en su patio una feria de ciencias con 40 proyectos”. Debe incluir los datos básicos."
+      },
+      "analogias": [
+        {
+          "titulo": "El mensajero",
+          "texto": "El periodista es como un mensajero que lleva noticias fieles; no cambia el mensaje, lo entrega con claridad."
+        },
+        {
+          "titulo": "La lupa",
+          "texto": "El reportaje es una lupa: mira de cerca un asunto para que se vean los detalles que a simple vista pasan inadvertidos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona las seis preguntas que responde una noticia.",
+          "respuesta": "Qué, quién, cuándo, dónde, cómo y por qué."
+        },
+        {
+          "ejercicio": "¿Qué diferencia hay entre una crónica y un artículo de opinión?",
+          "respuesta": "La crónica relata un suceso en orden, con detalles; el artículo de opinión argumenta un punto de vista del autor."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿cómo verificarías una noticia antes de compartirla?",
+          "respuesta": "Criterios: revisar la fuente, comparar con otros medios confiables, buscar datos y evidencias, y no compartir si no es verificable."
+        }
+      ]
+    }
+  }
 ]

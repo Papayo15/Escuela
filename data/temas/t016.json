@@ -1,23 +1,141 @@
 [
-{"nodo_id":"f6-120","titulo":"Las reacciones químicas","slug":"reacciones-quimicas-secundaria","palabras":["reacción química","reactivos","productos","balanceo","ecuación química","conservación de la masa"],"contenido":{
-"idea":"Imagina que armas figuras con bloques de Lego. Deshaces un castillo y con las mismas piezas armas una nave. No aparecen ni desaparecen piezas, solo cambian de lugar. Una reacción química es igual, pero con átomos.",
-"pizarron":"Una reacción química transforma unas sustancias, los **reactivos**, en otras distintas, los **productos**. Se representa con una ecuación: reactivos $\\to$ productos.\n\nEjemplo: $\\ce{2H2 + O2 -> 2H2O}$.\n\nLos números delante de las fórmulas se llaman coeficientes e indican cuántas moléculas participan. Los números pequeños (subíndices) pertenecen a la fórmula y no se cambian.\n\nPor la **ley de conservación de la masa**, la cantidad de átomos de cada elemento debe ser igual en ambos lados. Para balancear:\n\n1. Cuenta los átomos de cada elemento a cada lado.\n2. Ajusta coeficientes, empezando por el elemento que aparece en menos sustancias.\n3. Deja el oxígeno y el hidrógeno para el final.\n4. Revisa que todo quede igual en ambos lados.\n\nSeñales de que hubo reacción: cambio de color, burbujas, luz, calor o un sólido nuevo.",
-"truco":"Lo que entra es lo que sale: mismos átomos antes y después.",
-"practica":{"ejercicio":"Balancea: $\\ce{N2 + H2 -> NH3}$","respuesta":"$\\ce{N2 + 3H2 -> 2NH3}$. Hay 2 átomos de N y 6 de H en cada lado."},
-"analogias":[{"titulo":"La receta de cocina","texto":"Los ingredientes son los reactivos y el platillo terminado es el producto. Si usas 2 huevos, esos huevos deben estar en el pastel; nada se pierde, solo se transforma."},{"titulo":"La balanza en equilibrio","texto":"Piensa en una balanza con los reactivos en un plato y los productos en el otro. Los coeficientes son las pesas que añades hasta que ambos platos tengan los mismos átomos."}],
-"ejercicios":[{"ejercicio":"Balancea: $\\ce{CH4 + O2 -> CO2 + H2O}$","respuesta":"$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$. Hay 1 C, 4 H y 4 O en cada lado."},{"ejercicio":"En $\\ce{Fe + S -> FeS}$, indica los reactivos y el producto.","respuesta":"Reactivos: hierro (Fe) y azufre (S). Producto: sulfuro de hierro (FeS)."},{"ejercicio":"Verifica si está balanceada: $\\ce{4Fe + 3O2 -> 2Fe2O3}$","respuesta":"Sí. Del lado izquierdo hay 4 Fe y 6 O; del derecho, 2 por 2 son 4 Fe y 2 por 3 son 6 O."}]}},
-{"nodo_id":"f6-122","titulo":"Ácidos, bases y neutralización","slug":"acidos-bases-neutralizacion-arrhenius-secundaria","palabras":["ácidos","bases","pH","neutralización","Arrhenius","sal","hidróxido"],"contenido":{
-"idea":"Piensa en el limón, que es agrio, y en el jabón, que es resbaloso y amargo. Si mezclas un poco de cada uno en las cantidades justas, se calman entre sí, como dos niños traviesos que se vuelven tranquilos al juntarse.",
-"pizarron":"Según el **modelo de Arrhenius**:\n\n- Un **ácido** es una sustancia que, disuelta en agua, libera iones $\\ce{H+}$. Ejemplo: $\\ce{HCl -> H+ + Cl-}$.\n- Una **base** libera iones $\\ce{OH-}$. Ejemplo: $\\ce{NaOH -> Na+ + OH-}$.\n\n**Propiedades.** Los ácidos tienen sabor agrio, tienen pH menor que 7 y reaccionan con algunos metales. Las bases son resbalosas, tienen pH mayor que 7 y son amargas. Un pH de 7 es neutro. No pruebes sustancias del laboratorio.\n\n**Neutralización.** Un ácido y una base reaccionan y forman una sal y agua:\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$\n\nEl $\\ce{H+}$ del ácido y el $\\ce{OH-}$ de la base forman agua, y los iones restantes forman la sal.",
-"truco":"Ácido libera H+, base libera OH-; juntos hacen sal y agua.",
-"practica":{"ejercicio":"Escribe el producto de $\\ce{HNO3 + KOH}$.","respuesta":"$\\ce{HNO3 + KOH -> KNO3 + H2O}$: nitrato de potasio (sal) y agua."},
-"analogias":[{"titulo":"El equipo de tira y afloja","texto":"Los ácidos jalan hacia un lado con sus H+ y las bases hacia el otro con sus OH-. Si ambos equipos tienen la misma fuerza, la cuerda queda en el centro: pH neutro."},{"titulo":"El picante y la leche","texto":"Cuando algo pica mucho, tomar leche o comer pan calma la boca. De forma parecida, una sustancia contraria reduce el efecto de otra al neutralizarla."}],
-"ejercicios":[{"ejercicio":"Clasifica según Arrhenius: $\\ce{HCl}$ y $\\ce{NaOH}$.","respuesta":"$\\ce{HCl}$ es ácido porque libera H+; $\\ce{NaOH}$ es base porque libera OH-."},{"ejercicio":"El jugo de limón tiene pH 2. ¿Es ácido o base?","respuesta":"Es ácido, porque su pH es menor que 7."},{"ejercicio":"Completa y balancea: $\\ce{H2SO4 + NaOH -> ?}$","respuesta":"$\\ce{H2SO4 + 2NaOH -> Na2SO4 + 2H2O}$. Hay 2 H+ y 2 OH-, por eso se forman 2 aguas."}]}},
-{"nodo_id":"f6-124","titulo":"Reacciones redox: oxidación y reducción","slug":"reacciones-redox-oxidacion-reduccion-secundaria","palabras":["redox","óxido-reducción","número de oxidación","agente oxidante","agente reductor","electrones"],"contenido":{
-"idea":"Imagina dos amigos jugando con canicas. Uno le regala canicas al otro. El que las da se queda con menos y el que las recibe se queda con más. En una reacción redox, las canicas son electrones que pasan de un átomo a otro.",
-"pizarron":"Una reacción **redox** es aquella en la que hay transferencia de electrones.\n\n- **Oxidación:** una especie pierde electrones, y su número de oxidación aumenta.\n- **Reducción:** una especie gana electrones, y su número de oxidación disminuye.\n\n**Número de oxidación.** Es la carga que tendría un átomo si los electrones se asignaran al más electronegativo. Reglas básicas: un elemento solo vale 0; el oxígeno suele ser $-2$; el hidrógeno suele ser $+1$; en un compuesto la suma da 0.\n\nEjemplo: $\\ce{Zn + Cu^{2+} -> Zn^{2+} + Cu}$.\n\n- El Zn pasa de 0 a $+2$: se oxida y es el **agente reductor**.\n- El Cu pasa de $+2$ a 0: se reduce y es el **agente oxidante**.\n\nEl agente reductor es el que se oxida, y el oxidante es el que se reduce.",
-"truco":"OIL RIG: Oxidación Is Loss, Reducción Is Gain (pierde y gana electrones).",
-"practica":{"ejercicio":"En $\\ce{Fe2O3}$, ¿cuál es el número de oxidación del Fe?","respuesta":"El O vale $-2$, y 3 átomos suman $-6$. Entre 2 Fe deben sumar $+6$, así que cada Fe vale $+3$."},
-"analogias":[{"titulo":"El intercambio de estampas","texto":"Una persona entrega estampas y otra las recibe. La que entrega se queda con menos (se oxida) y la que recibe se queda con más (se reduce), pero el total de estampas no cambia."},{"titulo":"La batería del celular","texto":"Cuando usas el celular, los electrones fluyen de un material a otro dentro de la pila. Ese movimiento de electrones es una reacción redox que produce energía."}],
-"ejercicios":[{"ejercicio":"Calcula el número de oxidación del Mn en $\\ce{KMnO4}$.","respuesta":"K vale $+1$ y 4 O suman $-8$. Entonces $+1 + x - 8 = 0$, así que $x=+7$."},{"ejercicio":"En $\\ce{2Mg + O2 -> 2MgO}$, ¿quién se oxida y quién es el agente oxidante?","respuesta":"El Mg pasa de 0 a $+2$: se oxida. El O pasa de 0 a $-2$: se reduce, y $\\ce{O2}$ es el agente oxidante."},{"ejercicio":"En $\\ce{2Na + Cl2 -> 2NaCl}$, identifica el agente reductor.","respuesta":"El Na pasa de 0 a $+1$: se oxida, así que es el agente reductor. El Cl pasa de 0 a $-1$."}]}}
+{
+"nodo_id": "f6-120",
+"titulo": "Las reacciones químicas",
+"slug": "reacciones-quimicas-secundaria",
+"palabras": [
+"reacción química",
+"reactivos",
+"productos",
+"balanceo",
+"ecuación química",
+"conservación de la masa"
+],
+"contenido": {
+"idea": "Imagina que armas figuras con bloques de Lego. Deshaces un castillo y con las mismas piezas armas una nave. No aparecen ni desaparecen piezas, solo cambian de lugar. Una reacción química es igual, pero con átomos.",
+"pizarron": "**Qué es:** una reacción química transforma unas sustancias, los reactivos, en otras, los productos.\n\nComo hacer un pastel: al hornear, ya no puedes regresar a huevo y harina.\n\n$$\\ce{2H2 + O2 -> 2H2O}$$\n\n**Coeficiente:** el número grande de adelante. Dice cuántas moléculas hay.\n\n**Subíndice:** el número pequeño. No se cambia.\n\n**Para balancear:**\n\n1. Cuenta los átomos de cada lado.\n2. Cambia solo los coeficientes.\n3. Deja oxígeno e hidrógeno al final.\n\n**Señales:** cambio de color, burbujas, luz o calor.\n\n**Para tu escuela:** balancea $\\ce{H2 + Cl2 -> HCl}$.",
+"truco": "Lo que entra es lo que sale: mismos átomos antes y después.",
+"practica": {
+"ejercicio": "Balancea: $\\ce{N2 + H2 -> NH3}$",
+"respuesta": "$\\ce{N2 + 3H2 -> 2NH3}$. Hay 2 átomos de N y 6 de H en cada lado."
+},
+"analogias": [
+{
+"titulo": "La receta de cocina",
+"texto": "Los ingredientes son los reactivos y el platillo terminado es el producto. Si usas 2 huevos, esos huevos deben estar en el pastel; nada se pierde, solo se transforma."
+},
+{
+"titulo": "La balanza en equilibrio",
+"texto": "Piensa en una balanza con los reactivos en un plato y los productos en el otro. Los coeficientes son las pesas que añades hasta que ambos platos tengan los mismos átomos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Balancea: $\\ce{CH4 + O2 -> CO2 + H2O}$",
+"respuesta": "$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$. Hay 1 C, 4 H y 4 O en cada lado."
+},
+{
+"ejercicio": "En $\\ce{Fe + S -> FeS}$, indica los reactivos y el producto.",
+"respuesta": "Reactivos: hierro (Fe) y azufre (S). Producto: sulfuro de hierro (FeS)."
+},
+{
+"ejercicio": "Verifica si está balanceada: $\\ce{4Fe + 3O2 -> 2Fe2O3}$",
+"respuesta": "Sí. Del lado izquierdo hay 4 Fe y 6 O; del derecho, 2 por 2 son 4 Fe y 2 por 3 son 6 O."
+}
+]
+}
+},
+{
+"nodo_id": "f6-122",
+"titulo": "Ácidos, bases y neutralización",
+"slug": "acidos-bases-neutralizacion-arrhenius-secundaria",
+"palabras": [
+"ácidos",
+"bases",
+"pH",
+"neutralización",
+"Arrhenius",
+"sal",
+"hidróxido"
+],
+"contenido": {
+"idea": "Piensa en el limón, que es agrio, y en el jabón, que es resbaloso y amargo. Si mezclas un poco de cada uno en las cantidades justas, se calman entre sí, como dos niños traviesos que se vuelven tranquilos al juntarse.",
+"pizarron": "**La ley:** un ácido libera $\\ce{H+}$ en agua, una base libera $\\ce{OH-}$, y juntos forman sal y agua.\n\n**Ácidos:** son agrios, como el limón. pH menor que 7.\n\n**Bases:** son resbalosas, como el jabón. pH mayor que 7.\n\n**Neutro:** pH 7, como el agua pura.\n\n**Neutralización:**\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$\n\nÁcido más base da sal más agua.\n\nPor eso un antiácido calma la acidez del estómago.\n\nNunca pruebes sustancias del laboratorio.\n\n**Para tu escuela:** clasifica: limón, jabón, vinagre y agua pura.",
+"truco": "Ácido libera H+, base libera OH-; juntos hacen sal y agua.",
+"practica": {
+"ejercicio": "Escribe el producto de $\\ce{HNO3 + KOH}$.",
+"respuesta": "$\\ce{HNO3 + KOH -> KNO3 + H2O}$: nitrato de potasio (sal) y agua."
+},
+"analogias": [
+{
+"titulo": "El equipo de tira y afloja",
+"texto": "Los ácidos jalan hacia un lado con sus H+ y las bases hacia el otro con sus OH-. Si ambos equipos tienen la misma fuerza, la cuerda queda en el centro: pH neutro."
+},
+{
+"titulo": "El picante y la leche",
+"texto": "Cuando algo pica mucho, tomar leche o comer pan calma la boca. De forma parecida, una sustancia contraria reduce el efecto de otra al neutralizarla."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica según Arrhenius: $\\ce{HCl}$ y $\\ce{NaOH}$.",
+"respuesta": "$\\ce{HCl}$ es ácido porque libera H+; $\\ce{NaOH}$ es base porque libera OH-."
+},
+{
+"ejercicio": "El jugo de limón tiene pH 2. ¿Es ácido o base?",
+"respuesta": "Es ácido, porque su pH es menor que 7."
+},
+{
+"ejercicio": "Completa y balancea: $\\ce{H2SO4 + NaOH -> ?}$",
+"respuesta": "$\\ce{H2SO4 + 2NaOH -> Na2SO4 + 2H2O}$. Hay 2 H+ y 2 OH-, por eso se forman 2 aguas."
+}
+]
+}
+},
+{
+"nodo_id": "f6-124",
+"titulo": "Reacciones redox: oxidación y reducción",
+"slug": "reacciones-redox-oxidacion-reduccion-secundaria",
+"palabras": [
+"redox",
+"óxido-reducción",
+"número de oxidación",
+"agente oxidante",
+"agente reductor",
+"electrones"
+],
+"contenido": {
+"idea": "Imagina dos amigos jugando con canicas. Uno le regala canicas al otro. El que las da se queda con menos y el que las recibe se queda con más. En una reacción redox, las canicas son electrones que pasan de un átomo a otro.",
+"pizarron": "**La regla:** en una reacción redox, uno pierde electrones y otro los gana. Quien pierde se oxida. Quien gana se reduce.\n\nComo pasarse una pelota: uno la da y otro la recibe.\n\n**Número de oxidación:** dice si un átomo ganó o perdió. El oxígeno suele ser $-2$ y el hidrógeno $+1$.\n\n**Ejemplo:**\n\n$$\\ce{Zn + Cu^{2+} -> Zn^{2+} + Cu}$$\n\nEl zinc pierde electrones: se oxida.\n\nEl cobre gana electrones: se reduce.\n\n**Para tu escuela:** explica qué pasa cuando un clavo se oxida.",
+"truco": "OIL RIG: Oxidación Is Loss, Reducción Is Gain (pierde y gana electrones).",
+"practica": {
+"ejercicio": "En $\\ce{Fe2O3}$, ¿cuál es el número de oxidación del Fe?",
+"respuesta": "El O vale $-2$, y 3 átomos suman $-6$. Entre 2 Fe deben sumar $+6$, así que cada Fe vale $+3$."
+},
+"analogias": [
+{
+"titulo": "El intercambio de estampas",
+"texto": "Una persona entrega estampas y otra las recibe. La que entrega se queda con menos (se oxida) y la que recibe se queda con más (se reduce), pero el total de estampas no cambia."
+},
+{
+"titulo": "La batería del celular",
+"texto": "Cuando usas el celular, los electrones fluyen de un material a otro dentro de la pila. Ese movimiento de electrones es una reacción redox que produce energía."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula el número de oxidación del Mn en $\\ce{KMnO4}$.",
+"respuesta": "K vale $+1$ y 4 O suman $-8$. Entonces $+1 + x - 8 = 0$, así que $x=+7$."
+},
+{
+"ejercicio": "En $\\ce{2Mg + O2 -> 2MgO}$, ¿quién se oxida y quién es el agente oxidante?",
+"respuesta": "El Mg pasa de 0 a $+2$: se oxida. El O pasa de 0 a $-2$: se reduce, y $\\ce{O2}$ es el agente oxidante."
+},
+{
+"ejercicio": "En $\\ce{2Na + Cl2 -> 2NaCl}$, identifica el agente reductor.",
+"respuesta": "El Na pasa de 0 a $+1$: se oxida, así que es el agente reductor. El Cl pasa de 0 a $-1$."
+}
+]
+}
+}
 ]

@@ -1,72 +1,442 @@
 [
-{"nodo_id":"f6-033","titulo":"Ángulos opuestos por el vértice","slug":"angulos-opuestos-por-el-vertice-secundaria","palabras":["opuestos por el vértice","adyacentes","rectas que se cruzan"],"contenido":{
-"idea":"Cruza dos palitos formando una X. Los ángulos que quedan frente a frente son iguales, como dos espejos enfrentados.",
-"pizarron":"Cuando dos rectas se cruzan forman 4 ángulos.\n\n- **Opuestos por el vértice**: quedan enfrente uno del otro y son **iguales**.\n- **Adyacentes**: están lado a lado y suman **180°**.\n\nEjemplo: si un ángulo mide 40°:\n\n- Su opuesto mide 40°.\n- Sus vecinos miden 140°.\n- Su otro opuesto mide 140°.\n\nSuma total: 40 + 140 + 40 + 140 = 360°.\n\nCon álgebra: $3x + 10$ y $2x + 30$ son opuestos.\n\n$$3x + 10 = 2x + 30 \\Rightarrow x = 20$$\n\nCada uno mide 70°.",
-"truco":"Frente a frente, iguales; lado a lado, 180.",
-"practica":{"ejercicio":"Un ángulo mide 115°. ¿Cuánto mide su opuesto por el vértice?","respuesta":"115°"},
-"analogias":[{"titulo":"Las tijeras","texto":"Al abrir unas tijeras, la abertura de las hojas es igual a la de los mangos."},{"titulo":"La letra X","texto":"Los espacios de arriba y abajo de la X son iguales entre sí, y también los de los lados."}],
-"ejercicios":[{"ejercicio":"Un ángulo mide 65°. ¿Cuánto mide su adyacente?","respuesta":"115°"},{"ejercicio":"Opuestos: $2x$ y $x + 25$. Encuentra $x$.","respuesta":"$x = 25$"},{"ejercicio":"¿Cuánto suman los cuatro ángulos alrededor de un punto?","respuesta":"360°"}]}},
-{"nodo_id":"f6-033","titulo":"Paralelas cortadas por una transversal","slug":"paralelas-cortadas-por-una-transversal-secundaria","palabras":["paralelas","transversal","alternos internos","correspondientes"],"contenido":{
-"idea":"Una calle diagonal corta dos avenidas paralelas. En cada cruce se forma la misma figura, por eso los ángulos se repiten.",
-"pizarron":"Una **transversal** corta dos paralelas y forma 8 ángulos.\n\nÁngulos **iguales**:\n\n- **Correspondientes**: misma posición en cada cruce.\n- **Alternos internos**: entre las paralelas, en lados opuestos.\n- **Alternos externos**: fuera de las paralelas, en lados opuestos.\n\nÁngulos que suman 180°:\n\n- **Colaterales internos**: entre las paralelas, del mismo lado.\n\nEjemplo: un ángulo mide 70°.\n\n- Su correspondiente mide 70°.\n- Su alterno interno mide 70°.\n- Su colateral interno mide 110°.\n\nEsto solo se cumple si las rectas son paralelas.",
-"truco":"En una Z, los ángulos son iguales; en una F, también.",
-"practica":{"ejercicio":"Un ángulo alterno interno mide 55°. ¿Cuánto mide el otro?","respuesta":"55°"},
-"analogias":[{"titulo":"La letra Z","texto":"Las esquinas de una Z son alternos internos y miden lo mismo."},{"titulo":"Dos cruces iguales","texto":"Si una calle corta dos avenidas paralelas, ambos cruces son copias."}],
-"ejercicios":[{"ejercicio":"Un correspondiente mide 120°. ¿Cuánto mide el otro?","respuesta":"120°"},{"ejercicio":"Colaterales internos: uno mide 100°. ¿Cuánto mide el otro?","respuesta":"80°"},{"ejercicio":"Alternos internos: $3x$ y $60$. Encuentra $x$.","respuesta":"$x = 20$"}]}},
-{"nodo_id":"f6-033","titulo":"Suma de ángulos internos","slug":"suma-de-angulos-internos-secundaria","palabras":["suma de ángulos","polígonos","180 por n menos 2"],"contenido":{
-"idea":"Todo polígono se puede partir en triángulos desde una esquina. Cada triángulo aporta 180°, y por eso se puede saber la suma total.",
-"pizarron":"Suma de ángulos internos de un polígono de $n$ lados:\n\n$$S = 180° (n - 2)$$\n\n| Polígono | $n$ | Suma |\n|---|---|---|\n| Triángulo | 3 | 180° |\n| Cuadrilátero | 4 | 360° |\n| Pentágono | 5 | 540° |\n| Hexágono | 6 | 720° |\n\nCada ángulo de un **polígono regular**:\n\n$$\\text{ángulo} = \\frac{180°(n - 2)}{n}$$\n\nEjemplo: hexágono regular.\n\n$$\\frac{720}{6} = 120°$$\n\nLos ángulos **externos** de cualquier polígono convexo suman 360°.",
-"truco":"Cuenta triángulos: lados menos dos.",
-"practica":{"ejercicio":"¿Cuánto suman los ángulos de un octágono?","respuesta":"$180(6) = 1080°$"},
-"analogias":[{"titulo":"Cortar en triángulos","texto":"Como cortar una pizza desde una orilla: cada corte hace un triángulo y cada uno aporta 180°."},{"titulo":"Vuelta a la manzana","texto":"Al rodear una manzana giras en cada esquina. Al final diste una vuelta: 360°."}],
-"ejercicios":[{"ejercicio":"¿Cuánto mide cada ángulo de un pentágono regular?","respuesta":"108°"},{"ejercicio":"Un polígono suma 900°. ¿Cuántos lados tiene?","respuesta":"7 lados."},{"ejercicio":"Tres ángulos de un cuadrilátero miden 80°, 90° y 100°. ¿Cuánto mide el cuarto?","respuesta":"90°"}]}},
-{"nodo_id":"f6-037","titulo":"Criterios de congruencia de triángulos","slug":"criterios-de-congruencia-de-triangulos-secundaria","palabras":["congruencia","LLL","LAL","ALA","triángulos iguales"],"contenido":{
-"idea":"Dos triángulos son congruentes si uno cabe exacto sobre el otro. No necesitas medir todo: con tres datos correctos ya lo sabes.",
-"pizarron":"Dos figuras son **congruentes** si tienen igual forma y tamaño.\n\nPara triángulos, basta con:\n\n| Criterio | Qué se compara |\n|---|---|\n| **LLL** | Los 3 lados iguales |\n| **LAL** | 2 lados y el ángulo entre ellos |\n| **ALA** | 2 ángulos y el lado entre ellos |\n\nEl símbolo es $\\cong$: $\\triangle ABC \\cong \\triangle DEF$.\n\nEjemplo: lados de 3, 4 y 5 cm en ambos triángulos: son congruentes por LLL.\n\nCuidado: tres ángulos iguales (AAA) solo garantizan misma forma, no mismo tamaño.",
-"truco":"Lado-ángulo-lado: el ángulo va en medio.",
-"practica":{"ejercicio":"Dos triángulos tienen dos lados iguales y el ángulo entre ellos. ¿Qué criterio aplica?","respuesta":"LAL."},
-"analogias":[{"titulo":"Copia de llaves","texto":"Una llave copiada debe coincidir exacto. Dos triángulos congruentes son copias."},{"titulo":"Piezas intercambiables","texto":"En una fábrica, las piezas iguales se cambian sin problema porque coinciden en todo."}],
-"ejercicios":[{"ejercicio":"¿Qué significa $\\cong$?","respuesta":"Congruente."},{"ejercicio":"¿AAA asegura congruencia?","respuesta":"No, solo semejanza."},{"ejercicio":"Dos ángulos iguales y el lado entre ellos. ¿Qué criterio es?","respuesta":"ALA."}]}},
-{"nodo_id":"f6-037","titulo":"Semejanza de triángulos","slug":"semejanza-de-triangulos-secundaria","palabras":["semejanza","proporción","razón de semejanza","ángulos iguales"],"contenido":{
-"idea":"Una foto ampliada conserva la forma, aunque cambie el tamaño. Dos triángulos semejantes son como esa foto y su ampliación.",
-"pizarron":"Dos triángulos son **semejantes** ($\\sim$) si tienen ángulos iguales y lados proporcionales.\n\nCriterios:\n\n- **AA**: dos ángulos iguales.\n- **LLL**: tres lados proporcionales.\n- **LAL**: dos lados proporcionales y el ángulo entre ellos.\n\n**Razón de semejanza**: lado grande entre lado correspondiente chico.\n\nEjemplo: lados 3, 4, 5 y 6, 8, 10. Razón 2.\n\nCalcular un lado:\n\n$$\\frac{x}{6} = \\frac{4}{3} \\Rightarrow x = 8$$\n\nAplicación: un poste da sombra de 6 m y una persona de 1.5 m da sombra de 2 m.\n\n$$\\frac{h}{6} = \\frac{1.5}{2} \\Rightarrow h = 4.5 \\text{ m}$$",
-"truco":"Misma forma, distinto tamaño: lados en proporción.",
-"practica":{"ejercicio":"Lados 2, 3, 4 y otro triángulo semejante con lado menor 6. ¿Cuál es su razón?","respuesta":"3, porque 6 ÷ 2 = 3."},
-"analogias":[{"titulo":"La foto ampliada","texto":"Agrandar una foto multiplica todo por lo mismo. Nada se deforma."},{"titulo":"Las sombras","texto":"A la misma hora, los objetos forman triángulos semejantes con su sombra."}],
-"ejercicios":[{"ejercicio":"Un triángulo tiene lados 5, 7 y 9. Otro semejante tiene lado 10 en lugar de 5. ¿Cuánto mide el que corresponde a 7?","respuesta":"14"},{"ejercicio":"¿Qué criterio basta con dos ángulos iguales?","respuesta":"AA."},{"ejercicio":"Razón 4 y lado chico 3 cm. ¿Cuánto mide el grande?","respuesta":"12 cm"}]}},
-{"nodo_id":"f6-037","titulo":"Teorema de Tales","slug":"teorema-de-tales-secundaria","palabras":["Tales","paralelas","segmentos proporcionales"],"contenido":{
-"idea":"Si varias rectas paralelas cortan dos caminos, dividen a ambos en la misma proporción. Es como los renglones que cortan por igual dos líneas inclinadas.",
-"pizarron":"**Teorema de Tales**: si varias paralelas cortan a dos transversales, los segmentos formados son proporcionales.\n\n$$\\frac{AB}{BC} = \\frac{DE}{EF}$$\n\nEjemplo: $AB = 4$, $BC = 6$, $DE = 2$.\n\n$$\\frac{4}{6} = \\frac{2}{EF}$$\n\n$$4 \\times EF = 12 \\Rightarrow EF = 3$$\n\nEn triángulos: una recta paralela a un lado corta a los otros dos en partes proporcionales y forma un triángulo semejante.\n\nSegún la tradición, Tales calculó la altura de una pirámide usando sombras.",
-"truco":"Paralelas cortan parejo: forma la proporción.",
-"practica":{"ejercicio":"$\\frac{3}{5} = \\frac{x}{10}$. Encuentra $x$.","respuesta":"$x = 6$"},
-"analogias":[{"titulo":"Los renglones","texto":"Si inclinas una regla sobre una hoja rayada, los renglones la marcan con partes iguales."},{"titulo":"Pisos en una rampa","texto":"Cada piso corta dos escaleras inclinadas proporcionalmente."}],
-"ejercicios":[{"ejercicio":"$AB = 2$, $BC = 3$, $DE = 4$. Encuentra $EF$.","respuesta":"6"},{"ejercicio":"$AB = 6$, $BC = 9$, $EF = 12$. Encuentra $DE$.","respuesta":"8"},{"ejercicio":"¿Qué condición deben cumplir las rectas que cortan?","respuesta":"Deben ser paralelas."}]}},
-{"nodo_id":"f6-041","titulo":"Longitud de la circunferencia y área del círculo","slug":"longitud-de-la-circunferencia-y-area-del-circulo-secundaria","palabras":["circunferencia","área","pi","radio","sector circular"],"contenido":{
-"idea":"El contorno de un plato y lo que cubre son dos cosas distintas. Una se mide con hilo y la otra con cuadritos, pero ambas se calculan con pi.",
-"pizarron":"Fórmulas:\n\n$$C = 2 \\pi r \\qquad A = \\pi r^2$$\n\nEjemplo con $r = 6$ cm:\n\n- $C = 2(3.14)(6) = 37.68$ cm\n- $A = 3.14(36) = 113.04$ cm²\n\nEn términos de $\\pi$: $C = 12\\pi$ cm, $A = 36\\pi$ cm².\n\n**Sector circular**: una parte del círculo.\n\n$$A_s = \\frac{\\theta}{360} \\pi r^2$$\n\nEjemplo: 90° y $r = 4$:\n\n$$A_s = \\frac{1}{4}(3.14)(16) = 12.56$$\n\n**Corona circular**: $A = \\pi(R^2 - r^2)$.",
-"truco":"Contorno lleva 2; área lleva cuadrado.",
-"practica":{"ejercicio":"Calcula área y circunferencia con $r = 10$ cm.","respuesta":"$C = 62.8$ cm y $A = 314$ cm²."},
-"analogias":[{"titulo":"Hilo y pintura","texto":"El hilo mide el borde; la pintura cubre el interior."},{"titulo":"Pizza mediana contra grande","texto":"Duplicar el radio da cuatro veces más pizza, porque el área va al cuadrado."}],
-"ejercicios":[{"ejercicio":"$C = 18.84$ cm. Encuentra el radio.","respuesta":"3 cm"},{"ejercicio":"Área de un sector de 180° y radio 2.","respuesta":"6.28"},{"ejercicio":"Corona con $R = 5$ y $r = 3$.","respuesta":"$16\\pi \\approx 50.24$"}]}},
-{"nodo_id":"f6-041","titulo":"Volumen del cilindro","slug":"volumen-del-cilindro-secundaria","palabras":["volumen","cilindro","área de la base","lata"],"contenido":{
-"idea":"Una lata es una pila de monedas circulares. Si conoces el área de una moneda, multiplicas por la altura de la pila.",
-"pizarron":"Fórmula:\n\n$$V = \\pi r^2 h$$\n\nEjemplo: lata de radio 3 cm y altura 10 cm.\n\n$$V = 3.14 \\times 9 \\times 10 = 282.6 \\text{ cm}^3$$\n\nEn litros: 1 000 cm³ = 1 L, entonces 0.2826 L.\n\nSi te dan el diámetro, divídelo entre 2.\n\n**Área total**:\n\n$$A = 2\\pi r h + 2 \\pi r^2$$\n\nLa pared desenrollada es un rectángulo de base $2 \\pi r$.\n\nDespejar altura: $h = \\frac{V}{\\pi r^2}$.",
-"truco":"Área de la base por altura.",
-"practica":{"ejercicio":"Radio 2 m y altura 5 m. Calcula el volumen.","respuesta":"$3.14 \\times 4 \\times 5 = 62.8$ m³"},
-"analogias":[{"titulo":"La pila de monedas","texto":"Cada moneda es un círculo delgado. Todas juntas forman un cilindro."},{"titulo":"Etiqueta de la lata","texto":"Al desprenderla, queda un rectángulo cuyo largo es el contorno de la lata."}],
-"ejercicios":[{"ejercicio":"Radio 5 cm y altura 4 cm.","respuesta":"314 cm³"},{"ejercicio":"Diámetro 6 cm y altura 10 cm.","respuesta":"282.6 cm³"},{"ejercicio":"Un tinaco de radio 1 m y altura 2 m. ¿Cuántos litros tiene?","respuesta":"6.28 m³ = 6 280 L."}]}},
-{"nodo_id":"f6-041","titulo":"Volumen del cono","slug":"volumen-del-cono-secundaria","palabras":["volumen","cono","un tercio","cilindro"],"contenido":{
-"idea":"Con tres conos llenos de agua, llenas exactamente un cilindro de la misma base y altura. Por eso el cono es un tercio del cilindro.",
-"pizarron":"Fórmula:\n\n$$V = \\frac{1}{3} \\pi r^2 h$$\n\nEjemplo: radio 3 cm y altura 8 cm.\n\n$$V = \\frac{1}{3}(3.14)(9)(8) = 75.36 \\text{ cm}^3$$\n\nLa altura es perpendicular a la base, no la orilla inclinada (generatriz $g$).\n\nRelación:\n\n$$g^2 = r^2 + h^2$$\n\nEjemplo: $r = 3$, $h = 4$, entonces $g = 5$.\n\nSi te dan $g$ y $r$, usa Pitágoras para hallar la altura.",
-"truco":"Cono es cilindro entre 3.",
-"practica":{"ejercicio":"Radio 3 cm y altura 10 cm. Calcula el volumen.","respuesta":"94.2 cm³"},
-"analogias":[{"titulo":"El barquillo","texto":"Un barquillo de helado cabe tres veces en un vaso de su misma base y altura."},{"titulo":"El embudo","texto":"Un embudo se llena más rápido que un vaso con la misma boca y la misma altura."}],
-"ejercicios":[{"ejercicio":"Radio 6 cm y altura 5 cm.","respuesta":"188.4 cm³"},{"ejercicio":"$r = 6$ y $g = 10$. Encuentra la altura.","respuesta":"8"},{"ejercicio":"Un cilindro tiene 90 cm³. ¿Cuánto tiene un cono con su misma base y altura?","respuesta":"30 cm³"}]}},
-{"nodo_id":"f6-041","titulo":"Volumen de la esfera","slug":"volumen-de-la-esfera-secundaria","palabras":["esfera","volumen","pelota","cuatro tercios","área de la esfera"],"contenido":{
-"idea":"Una naranja completa no tiene aristas ni caras planas, pero su volumen se calcula solo con el radio. Basta saber la distancia del centro a la cáscara.",
-"pizarron":"Fórmulas:\n\n$$V = \\frac{4}{3} \\pi r^3 \\qquad A = 4 \\pi r^2$$\n\nEjemplo: radio 3 cm.\n\n$$V = \\frac{4}{3}(3.14)(27) = 113.04 \\text{ cm}^3$$\n\n$$A = 4(3.14)(9) = 113.04 \\text{ cm}^2$$\n\nCon radio 3, los números salen iguales, pero las unidades son distintas.\n\nDuplicar el radio multiplica el volumen por 8.\n\n**Semiesfera**: $V = \\frac{2}{3}\\pi r^3$.",
-"truco":"Cuatro tercios pi r al cubo.",
-"practica":{"ejercicio":"Calcula el volumen con $r = 6$ cm.","respuesta":"904.32 cm³"},
-"analogias":[{"titulo":"La naranja","texto":"La cáscara es el área y lo que hay dentro es el volumen."},{"titulo":"El globo","texto":"Al inflar un globo, un radio el doble necesita ocho veces más aire."}],
-"ejercicios":[{"ejercicio":"Radio 1 m. ¿Cuál es el volumen?","respuesta":"4.19 m³ aproximadamente."},{"ejercicio":"Radio 2 cm. ¿Cuál es el área?","respuesta":"50.24 cm²"},{"ejercicio":"¿Qué pasa con el volumen si el radio se triplica?","respuesta":"Se multiplica por 27."}]}}
+{
+"nodo_id": "f6-033",
+"titulo": "Ángulos opuestos por el vértice",
+"slug": "angulos-opuestos-por-el-vertice-secundaria",
+"palabras": [
+"opuestos por el vértice",
+"adyacentes",
+"rectas que se cruzan"
+],
+"contenido": {
+"idea": "Cruza dos palitos formando una X. Los ángulos que quedan frente a frente son iguales, como dos espejos enfrentados.",
+"pizarron": "**La regla:** los ángulos opuestos por el vértice son iguales.\n\nCuando dos rectas se cruzan forman 4 ángulos.\n\n- **Opuestos por el vértice**: quedan enfrente uno del otro y son **iguales**.\n- **Adyacentes**: están lado a lado y suman **180°**.\n\nEjemplo: si un ángulo mide 40°:\n\n- Su opuesto mide 40°.\n- Sus vecinos miden 140°.\n- Su otro opuesto mide 140°.\n\nSuma total: 40 + 140 + 40 + 140 = 360°.\n\nCon álgebra: $3x + 10$ y $2x + 30$ son opuestos.\n\n$$3x + 10 = 2x + 30 \\Rightarrow x = 20$$\n\nCada uno mide 70°.",
+"truco": "Frente a frente, iguales; lado a lado, 180.",
+"practica": {
+"ejercicio": "Un ángulo mide 115°. ¿Cuánto mide su opuesto por el vértice?",
+"respuesta": "115°"
+},
+"analogias": [
+{
+"titulo": "Las tijeras",
+"texto": "Al abrir unas tijeras, la abertura de las hojas es igual a la de los mangos."
+},
+{
+"titulo": "La letra X",
+"texto": "Los espacios de arriba y abajo de la X son iguales entre sí, y también los de los lados."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un ángulo mide 65°. ¿Cuánto mide su adyacente?",
+"respuesta": "115°"
+},
+{
+"ejercicio": "Opuestos: $2x$ y $x + 25$. Encuentra $x$.",
+"respuesta": "$x = 25$"
+},
+{
+"ejercicio": "¿Cuánto suman los cuatro ángulos alrededor de un punto?",
+"respuesta": "360°"
+}
+]
+}
+},
+{
+"nodo_id": "f6-033",
+"titulo": "Paralelas cortadas por una transversal",
+"slug": "paralelas-cortadas-por-una-transversal-secundaria",
+"palabras": [
+"paralelas",
+"transversal",
+"alternos internos",
+"correspondientes"
+],
+"contenido": {
+"idea": "Una calle diagonal corta dos avenidas paralelas. En cada cruce se forma la misma figura, por eso los ángulos se repiten.",
+"pizarron": "**La regla:** si una recta corta a dos paralelas, los ángulos alternos internos son iguales.\n\nUna **transversal** corta dos paralelas y forma 8 ángulos.\n\nÁngulos **iguales**:\n\n- **Correspondientes**: misma posición en cada cruce.\n- **Alternos internos**: entre las paralelas, en lados opuestos.\n- **Alternos externos**: fuera de las paralelas, en lados opuestos.\n\nÁngulos que suman 180°:\n\n- **Colaterales internos**: entre las paralelas, del mismo lado.\n\nEjemplo: un ángulo mide 70°.\n\n- Su correspondiente mide 70°.\n- Su alterno interno mide 70°.\n- Su colateral interno mide 110°.\n\nEsto solo se cumple si las rectas son paralelas.",
+"truco": "En una Z, los ángulos son iguales; en una F, también.",
+"practica": {
+"ejercicio": "Un ángulo alterno interno mide 55°. ¿Cuánto mide el otro?",
+"respuesta": "55°"
+},
+"analogias": [
+{
+"titulo": "La letra Z",
+"texto": "Las esquinas de una Z son alternos internos y miden lo mismo."
+},
+{
+"titulo": "Dos cruces iguales",
+"texto": "Si una calle corta dos avenidas paralelas, ambos cruces son copias."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un correspondiente mide 120°. ¿Cuánto mide el otro?",
+"respuesta": "120°"
+},
+{
+"ejercicio": "Colaterales internos: uno mide 100°. ¿Cuánto mide el otro?",
+"respuesta": "80°"
+},
+{
+"ejercicio": "Alternos internos: $3x$ y $60$. Encuentra $x$.",
+"respuesta": "$x = 20$"
+}
+]
+}
+},
+{
+"nodo_id": "f6-033",
+"titulo": "Suma de ángulos internos",
+"slug": "suma-de-angulos-internos-secundaria",
+"palabras": [
+"suma de ángulos",
+"polígonos",
+"180 por n menos 2"
+],
+"contenido": {
+"idea": "Todo polígono se puede partir en triángulos desde una esquina. Cada triángulo aporta 180°, y por eso se puede saber la suma total.",
+"pizarron": "**La regla:** los ángulos internos de un polígono de $n$ lados suman $180°(n - 2)$.\n\nSuma de ángulos internos de un polígono de $n$ lados:\n\n$$S = 180° (n - 2)$$\n\n| Polígono | $n$ | Suma |\n|---|---|---|\n| Triángulo | 3 | 180° |\n| Cuadrilátero | 4 | 360° |\n| Pentágono | 5 | 540° |\n| Hexágono | 6 | 720° |\n\nCada ángulo de un **polígono regular**:\n\n$$\\text{ángulo} = \\frac{180°(n - 2)}{n}$$\n\nEjemplo: hexágono regular.\n\n$$\\frac{720}{6} = 120°$$\n\nLos ángulos **externos** de cualquier polígono convexo suman 360°.",
+"truco": "Cuenta triángulos: lados menos dos.",
+"practica": {
+"ejercicio": "¿Cuánto suman los ángulos de un octágono?",
+"respuesta": "$180(6) = 1080°$"
+},
+"analogias": [
+{
+"titulo": "Cortar en triángulos",
+"texto": "Como cortar una pizza desde una orilla: cada corte hace un triángulo y cada uno aporta 180°."
+},
+{
+"titulo": "Vuelta a la manzana",
+"texto": "Al rodear una manzana giras en cada esquina. Al final diste una vuelta: 360°."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuánto mide cada ángulo de un pentágono regular?",
+"respuesta": "108°"
+},
+{
+"ejercicio": "Un polígono suma 900°. ¿Cuántos lados tiene?",
+"respuesta": "7 lados."
+},
+{
+"ejercicio": "Tres ángulos de un cuadrilátero miden 80°, 90° y 100°. ¿Cuánto mide el cuarto?",
+"respuesta": "90°"
+}
+]
+}
+},
+{
+"nodo_id": "f6-037",
+"titulo": "Criterios de congruencia de triángulos",
+"slug": "criterios-de-congruencia-de-triangulos-secundaria",
+"palabras": [
+"congruencia",
+"LLL",
+"LAL",
+"ALA",
+"triángulos iguales"
+],
+"contenido": {
+"idea": "Dos triángulos son congruentes si uno cabe exacto sobre el otro. No necesitas medir todo: con tres datos correctos ya lo sabes.",
+"pizarron": "**La regla:** dos triángulos son congruentes si coinciden en LLL, LAL o ALA.\n\nDos figuras son **congruentes** si tienen igual forma y tamaño.\n\nPara triángulos, basta con:\n\n| Criterio | Qué se compara |\n|---|---|\n| **LLL** | Los 3 lados iguales |\n| **LAL** | 2 lados y el ángulo entre ellos |\n| **ALA** | 2 ángulos y el lado entre ellos |\n\nEl símbolo es $\\cong$: $\\triangle ABC \\cong \\triangle DEF$.\n\nEjemplo: lados de 3, 4 y 5 cm en ambos triángulos: son congruentes por LLL.\n\nCuidado: tres ángulos iguales (AAA) solo garantizan misma forma, no mismo tamaño.",
+"truco": "Lado-ángulo-lado: el ángulo va en medio.",
+"practica": {
+"ejercicio": "Dos triángulos tienen dos lados iguales y el ángulo entre ellos. ¿Qué criterio aplica?",
+"respuesta": "LAL."
+},
+"analogias": [
+{
+"titulo": "Copia de llaves",
+"texto": "Una llave copiada debe coincidir exacto. Dos triángulos congruentes son copias."
+},
+{
+"titulo": "Piezas intercambiables",
+"texto": "En una fábrica, las piezas iguales se cambian sin problema porque coinciden en todo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa $\\cong$?",
+"respuesta": "Congruente."
+},
+{
+"ejercicio": "¿AAA asegura congruencia?",
+"respuesta": "No, solo semejanza."
+},
+{
+"ejercicio": "Dos ángulos iguales y el lado entre ellos. ¿Qué criterio es?",
+"respuesta": "ALA."
+}
+]
+}
+},
+{
+"nodo_id": "f6-037",
+"titulo": "Semejanza de triángulos",
+"slug": "semejanza-de-triangulos-secundaria",
+"palabras": [
+"semejanza",
+"proporción",
+"razón de semejanza",
+"ángulos iguales"
+],
+"contenido": {
+"idea": "Una foto ampliada conserva la forma, aunque cambie el tamaño. Dos triángulos semejantes son como esa foto y su ampliación.",
+"pizarron": "**La regla:** dos triángulos son semejantes si sus ángulos son iguales y sus lados proporcionales.\n\nDos triángulos son **semejantes** ($\\sim$) si tienen ángulos iguales y lados proporcionales.\n\nCriterios:\n\n- **AA**: dos ángulos iguales.\n- **LLL**: tres lados proporcionales.\n- **LAL**: dos lados proporcionales y el ángulo entre ellos.\n\n**Razón de semejanza**: lado grande entre lado correspondiente chico.\n\nEjemplo: lados 3, 4, 5 y 6, 8, 10. Razón 2.\n\nCalcular un lado:\n\n$$\\frac{x}{6} = \\frac{4}{3} \\Rightarrow x = 8$$\n\nAplicación: un poste da sombra de 6 m y una persona de 1.5 m da sombra de 2 m.\n\n$$\\frac{h}{6} = \\frac{1.5}{2} \\Rightarrow h = 4.5 \\text{ m}$$",
+"truco": "Misma forma, distinto tamaño: lados en proporción.",
+"practica": {
+"ejercicio": "Lados 2, 3, 4 y otro triángulo semejante con lado menor 6. ¿Cuál es su razón?",
+"respuesta": "3, porque 6 ÷ 2 = 3."
+},
+"analogias": [
+{
+"titulo": "La foto ampliada",
+"texto": "Agrandar una foto multiplica todo por lo mismo. Nada se deforma."
+},
+{
+"titulo": "Las sombras",
+"texto": "A la misma hora, los objetos forman triángulos semejantes con su sombra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un triángulo tiene lados 5, 7 y 9. Otro semejante tiene lado 10 en lugar de 5. ¿Cuánto mide el que corresponde a 7?",
+"respuesta": "14"
+},
+{
+"ejercicio": "¿Qué criterio basta con dos ángulos iguales?",
+"respuesta": "AA."
+},
+{
+"ejercicio": "Razón 4 y lado chico 3 cm. ¿Cuánto mide el grande?",
+"respuesta": "12 cm"
+}
+]
+}
+},
+{
+"nodo_id": "f6-037",
+"titulo": "Teorema de Tales",
+"slug": "teorema-de-tales-secundaria",
+"palabras": [
+"Tales",
+"paralelas",
+"segmentos proporcionales"
+],
+"contenido": {
+"idea": "Si varias rectas paralelas cortan dos caminos, dividen a ambos en la misma proporción. Es como los renglones que cortan por igual dos líneas inclinadas.",
+"pizarron": "**La ley:** si varias rectas paralelas cortan a dos rectas, los segmentos que forman son proporcionales.\n\n**Teorema de Tales**: si varias paralelas cortan a dos transversales, los segmentos formados son proporcionales.\n\n$$\\frac{AB}{BC} = \\frac{DE}{EF}$$\n\nEjemplo: $AB = 4$, $BC = 6$, $DE = 2$.\n\n$$\\frac{4}{6} = \\frac{2}{EF}$$\n\n$$4 \\times EF = 12 \\Rightarrow EF = 3$$\n\nEn triángulos: una recta paralela a un lado corta a los otros dos en partes proporcionales y forma un triángulo semejante.\n\nSegún la tradición, Tales calculó la altura de una pirámide usando sombras.",
+"truco": "Paralelas cortan parejo: forma la proporción.",
+"practica": {
+"ejercicio": "$\\frac{3}{5} = \\frac{x}{10}$. Encuentra $x$.",
+"respuesta": "$x = 6$"
+},
+"analogias": [
+{
+"titulo": "Los renglones",
+"texto": "Si inclinas una regla sobre una hoja rayada, los renglones la marcan con partes iguales."
+},
+{
+"titulo": "Pisos en una rampa",
+"texto": "Cada piso corta dos escaleras inclinadas proporcionalmente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$AB = 2$, $BC = 3$, $DE = 4$. Encuentra $EF$.",
+"respuesta": "6"
+},
+{
+"ejercicio": "$AB = 6$, $BC = 9$, $EF = 12$. Encuentra $DE$.",
+"respuesta": "8"
+},
+{
+"ejercicio": "¿Qué condición deben cumplir las rectas que cortan?",
+"respuesta": "Deben ser paralelas."
+}
+]
+}
+},
+{
+"nodo_id": "f6-041",
+"titulo": "Longitud de la circunferencia y área del círculo",
+"slug": "longitud-de-la-circunferencia-y-area-del-circulo-secundaria",
+"palabras": [
+"circunferencia",
+"área",
+"pi",
+"radio",
+"sector circular"
+],
+"contenido": {
+"idea": "El contorno de un plato y lo que cubre son dos cosas distintas. Una se mide con hilo y la otra con cuadritos, pero ambas se calculan con pi.",
+"pizarron": "**La regla:** la longitud es $C = 2\\pi r$ y el área es $A = \\pi r^2$.\n\nFórmulas:\n\n$$C = 2 \\pi r \\qquad A = \\pi r^2$$\n\nEjemplo con $r = 6$ cm:\n\n- $C = 2(3.14)(6) = 37.68$ cm\n- $A = 3.14(36) = 113.04$ cm²\n\nEn términos de $\\pi$: $C = 12\\pi$ cm, $A = 36\\pi$ cm².\n\n**Sector circular**: una parte del círculo.\n\n$$A_s = \\frac{\\theta}{360} \\pi r^2$$\n\nEjemplo: 90° y $r = 4$:\n\n$$A_s = \\frac{1}{4}(3.14)(16) = 12.56$$\n\n**Corona circular**: $A = \\pi(R^2 - r^2)$.",
+"truco": "Contorno lleva 2; área lleva cuadrado.",
+"practica": {
+"ejercicio": "Calcula área y circunferencia con $r = 10$ cm.",
+"respuesta": "$C = 62.8$ cm y $A = 314$ cm²."
+},
+"analogias": [
+{
+"titulo": "Hilo y pintura",
+"texto": "El hilo mide el borde; la pintura cubre el interior."
+},
+{
+"titulo": "Pizza mediana contra grande",
+"texto": "Duplicar el radio da cuatro veces más pizza, porque el área va al cuadrado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$C = 18.84$ cm. Encuentra el radio.",
+"respuesta": "3 cm"
+},
+{
+"ejercicio": "Área de un sector de 180° y radio 2.",
+"respuesta": "6.28"
+},
+{
+"ejercicio": "Corona con $R = 5$ y $r = 3$.",
+"respuesta": "$16\\pi \\approx 50.24$"
+}
+]
+}
+},
+{
+"nodo_id": "f6-041",
+"titulo": "Volumen del cilindro",
+"slug": "volumen-del-cilindro-secundaria",
+"palabras": [
+"volumen",
+"cilindro",
+"área de la base",
+"lata"
+],
+"contenido": {
+"idea": "Una lata es una pila de monedas circulares. Si conoces el área de una moneda, multiplicas por la altura de la pila.",
+"pizarron": "**La regla:** el volumen del cilindro es $V = \\pi r^2 h$.\n\nFórmula:\n\n$$V = \\pi r^2 h$$\n\nEjemplo: lata de radio 3 cm y altura 10 cm.\n\n$$V = 3.14 \\times 9 \\times 10 = 282.6 \\text{ cm}^3$$\n\nEn litros: 1 000 cm³ = 1 L, entonces 0.2826 L.\n\nSi te dan el diámetro, divídelo entre 2.\n\n**Área total**:\n\n$$A = 2\\pi r h + 2 \\pi r^2$$\n\nLa pared desenrollada es un rectángulo de base $2 \\pi r$.\n\nDespejar altura: $h = \\frac{V}{\\pi r^2}$.",
+"truco": "Área de la base por altura.",
+"practica": {
+"ejercicio": "Radio 2 m y altura 5 m. Calcula el volumen.",
+"respuesta": "$3.14 \\times 4 \\times 5 = 62.8$ m³"
+},
+"analogias": [
+{
+"titulo": "La pila de monedas",
+"texto": "Cada moneda es un círculo delgado. Todas juntas forman un cilindro."
+},
+{
+"titulo": "Etiqueta de la lata",
+"texto": "Al desprenderla, queda un rectángulo cuyo largo es el contorno de la lata."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Radio 5 cm y altura 4 cm.",
+"respuesta": "314 cm³"
+},
+{
+"ejercicio": "Diámetro 6 cm y altura 10 cm.",
+"respuesta": "282.6 cm³"
+},
+{
+"ejercicio": "Un tinaco de radio 1 m y altura 2 m. ¿Cuántos litros tiene?",
+"respuesta": "6.28 m³ = 6 280 L."
+}
+]
+}
+},
+{
+"nodo_id": "f6-041",
+"titulo": "Volumen del cono",
+"slug": "volumen-del-cono-secundaria",
+"palabras": [
+"volumen",
+"cono",
+"un tercio",
+"cilindro"
+],
+"contenido": {
+"idea": "Con tres conos llenos de agua, llenas exactamente un cilindro de la misma base y altura. Por eso el cono es un tercio del cilindro.",
+"pizarron": "**La regla:** el volumen del cono es $V = \\frac{\\pi r^2 h}{3}$.\n\nFórmula:\n\n$$V = \\frac{1}{3} \\pi r^2 h$$\n\nEjemplo: radio 3 cm y altura 8 cm.\n\n$$V = \\frac{1}{3}(3.14)(9)(8) = 75.36 \\text{ cm}^3$$\n\nLa altura es perpendicular a la base, no la orilla inclinada (generatriz $g$).\n\nRelación:\n\n$$g^2 = r^2 + h^2$$\n\nEjemplo: $r = 3$, $h = 4$, entonces $g = 5$.\n\nSi te dan $g$ y $r$, usa Pitágoras para hallar la altura.",
+"truco": "Cono es cilindro entre 3.",
+"practica": {
+"ejercicio": "Radio 3 cm y altura 10 cm. Calcula el volumen.",
+"respuesta": "94.2 cm³"
+},
+"analogias": [
+{
+"titulo": "El barquillo",
+"texto": "Un barquillo de helado cabe tres veces en un vaso de su misma base y altura."
+},
+{
+"titulo": "El embudo",
+"texto": "Un embudo se llena más rápido que un vaso con la misma boca y la misma altura."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Radio 6 cm y altura 5 cm.",
+"respuesta": "188.4 cm³"
+},
+{
+"ejercicio": "$r = 6$ y $g = 10$. Encuentra la altura.",
+"respuesta": "8"
+},
+{
+"ejercicio": "Un cilindro tiene 90 cm³. ¿Cuánto tiene un cono con su misma base y altura?",
+"respuesta": "30 cm³"
+}
+]
+}
+},
+{
+"nodo_id": "f6-041",
+"titulo": "Volumen de la esfera",
+"slug": "volumen-de-la-esfera-secundaria",
+"palabras": [
+"esfera",
+"volumen",
+"pelota",
+"cuatro tercios",
+"área de la esfera"
+],
+"contenido": {
+"idea": "Una naranja completa no tiene aristas ni caras planas, pero su volumen se calcula solo con el radio. Basta saber la distancia del centro a la cáscara.",
+"pizarron": "**La regla:** el volumen de la esfera es $V = \\frac{4}{3}\\pi r^3$.\n\nFórmulas:\n\n$$V = \\frac{4}{3} \\pi r^3 \\qquad A = 4 \\pi r^2$$\n\nEjemplo: radio 3 cm.\n\n$$V = \\frac{4}{3}(3.14)(27) = 113.04 \\text{ cm}^3$$\n\n$$A = 4(3.14)(9) = 113.04 \\text{ cm}^2$$\n\nCon radio 3, los números salen iguales, pero las unidades son distintas.\n\nDuplicar el radio multiplica el volumen por 8.\n\n**Semiesfera**: $V = \\frac{2}{3}\\pi r^3$.",
+"truco": "Cuatro tercios pi r al cubo.",
+"practica": {
+"ejercicio": "Calcula el volumen con $r = 6$ cm.",
+"respuesta": "904.32 cm³"
+},
+"analogias": [
+{
+"titulo": "La naranja",
+"texto": "La cáscara es el área y lo que hay dentro es el volumen."
+},
+{
+"titulo": "El globo",
+"texto": "Al inflar un globo, un radio el doble necesita ocho veces más aire."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Radio 1 m. ¿Cuál es el volumen?",
+"respuesta": "4.19 m³ aproximadamente."
+},
+{
+"ejercicio": "Radio 2 cm. ¿Cuál es el área?",
+"respuesta": "50.24 cm²"
+},
+{
+"ejercicio": "¿Qué pasa con el volumen si el radio se triplica?",
+"respuesta": "Se multiplica por 27."
+}
+]
+}
+}
 ]

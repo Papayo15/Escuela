@@ -1,86 +1,534 @@
 [
-{"nodo_id":"f3-ing","titulo":"Plural con -s en inglés","slug":"plural-con-s-en-ingles-primaria","palabras":["plural","-s","one cat","two cats"],"contenido":{
-"idea":"Tienes un dulce. Luego tienes dos dulces. En español le pones una s. ¡En inglés casi siempre pasa igual!",
-"pizarron":"Uno se dice *one*. Dos se dice *two*.\n\nUn gato: *one cat*.\n\nDos gatos: *two cats*.\n\n¿Viste? Solo agregamos una **s** al final.\n\nOtro ejemplo:\n\nUn libro: *one book*.\n\nTres libros: *three books*.\n\nA veces la palabra cambia un poquito. Si termina en *x* o *ch*, le ponemos **es**:\n\nUna caja: *one box*.\n\nDos cajas: *two boxes*.",
-"truco":"¿Son muchos? Ponle una s al final.",
-"practica":{"ejercicio":"¿Cómo se dice «dos perros»? Perro es *dog*.","respuesta":"*Two dogs.*"},
-"analogias":[{"titulo":"El trenecito","texto":"La palabra es un tren. Si son muchos, le enganchas un vagoncito que se llama s."},{"titulo":"La colita","texto":"Imagina que la palabra tiene una colita: cuando hay muchos, la s le sale atrás."}],
-"ejercicios":[{"ejercicio":"Escribe «tres gatos». Gato es *cat*.","respuesta":"*Three cats.*"},{"ejercicio":"Escribe «dos libros». Libro es *book*.","respuesta":"*Two books.*"},{"ejercicio":"Escribe «dos cajas». Caja es *box*.","respuesta":"*Two boxes.*"}]}},
-{"nodo_id":"f3-ing","titulo":"This y that para señalar","slug":"this-y-that-para-senalar-primaria","palabras":["this","that","esto","eso"],"contenido":{
-"idea":"Con tu mano señalas lo que está cerquita y lo que está lejos. En inglés hay una palabra para cada uno.",
-"pizarron":"Si está **cerca**, dices *this*. Significa «esto».\n\nToca tu lápiz y di: *This is my pencil*.\n\nSi está **lejos**, dices *that*. Significa «eso».\n\nApunta a la ventana y di: *That is a window*.\n\nFíjate en la palabra *is*. Significa «es».\n\n*This is* quiere decir «esto es».\n\n*That is* quiere decir «eso es».",
-"truco":"This lo tocas; that lo señalas de lejos.",
-"practica":{"ejercicio":"Tu libro está en tu mano. ¿Dices *this* o *that*?","respuesta":"*This.*"},
-"analogias":[{"titulo":"Mano y dedo","texto":"This es como tomar algo con la mano. That es como apuntar con el dedo a lo lejos."},{"titulo":"La tienda","texto":"Cuando compras, dices quiero este de aquí o ese de allá; en inglés son this y that."}],
-"ejercicios":[{"ejercicio":"Ves un avión en el cielo. ¿*This* o *that*?","respuesta":"*That.*"},{"ejercicio":"Completa: ___ is my hand.","respuesta":"*This*"},{"ejercicio":"Traduce: *That is a dog.*","respuesta":"Eso es un perro."}]}},
-{"nodo_id":"f3-ing","titulo":"Is it? Yes, it is","slug":"is-it-yes-it-is-primaria","palabras":["preguntas","is it","yes it is","no it isn't"],"contenido":{
-"idea":"Jugamos a adivinar: ¿es un gato? Sí, lo es. En inglés solo cambias de lugar dos palabras para preguntar.",
-"pizarron":"Para decir algo:\n\n*It is a cat.* Es un gato.\n\nPara preguntar, *is* pasa adelante:\n\n*Is it a cat?* ¿Es un gato?\n\nSi la respuesta es sí:\n\n*Yes, it is.* Sí, lo es.\n\nSi la respuesta es no:\n\n*No, it isn't.* No, no lo es.\n\n*Isn't* es una forma corta de decir *is not*.",
-"truco":"Para preguntar, is se va al frente.",
-"practica":{"ejercicio":"Pregunta: ¿Es un perro? Perro es *dog*.","respuesta":"*Is it a dog?*"},
-"analogias":[{"titulo":"La fila","texto":"Las palabras hacen fila. Para preguntar, is se adelanta y se pone primero."},{"titulo":"Adivina adivinador","texto":"Es como jugar a adivinar una caja cerrada: preguntas y tu amigo responde sí o no."}],
-"ejercicios":[{"ejercicio":"Ordena: *it / is / a / ball?*","respuesta":"*Is it a ball?*"},{"ejercicio":"Di que sí: *Is it a cat?*","respuesta":"*Yes, it is.*"},{"ejercicio":"Di que no: *Is it a dog?*","respuesta":"*No, it isn't.*"}]}},
-{"nodo_id":"f4-ing","titulo":"La terminación -ing: lo que pasa ahora","slug":"la-terminacion-ing-lo-que-pasa-ahora-primaria","palabras":["-ing","presente continuo","I am running","ahora"],"contenido":{
-"idea":"Tu amigo te llama y te pregunta qué haces. Tú dices: estoy comiendo. Ese -ando o -iendo en inglés se dice -ing.",
-"pizarron":"Usamos **-ing** para lo que pasa **ahora mismo**.\n\nEn español: com**iendo**, jug**ando**.\n\nEn inglés: *eat***ing**, *play***ing**.\n\nNecesitas dos piezas:\n\n1. *am*, *is* o *are*.\n2. La palabra con *-ing*.\n\nYo estoy jugando: *I am playing*.\n\nTú estás comiendo: *You are eating*.\n\nElla está leyendo: *She is reading*.\n\nSi la palabra termina en *e*, la *e* se va:\n\n*dance* se vuelve *dancing*.",
-"truco":"-ing es como decir -ando o -iendo.",
-"practica":{"ejercicio":"Di «Estoy comiendo». Comer es *eat*.","respuesta":"*I am eating.*"},
-"analogias":[{"titulo":"El video","texto":"-ing es como un video que se está viendo ahora: la acción todavía no se acaba."},{"titulo":"Dos piezas de lego","texto":"Am es una pieza e -ing es la otra. Si falta una, la frase no se arma."}],
-"ejercicios":[{"ejercicio":"Di «Ella está jugando». Jugar es *play*.","respuesta":"*She is playing.*"},{"ejercicio":"Agrega -ing a *read*.","respuesta":"*reading*"},{"ejercicio":"Completa: *You ___ eating.*","respuesta":"*are*"}]}},
-{"nodo_id":"f4-ing","titulo":"Was y were: el pasado de to be","slug":"was-y-were-el-pasado-de-to-be-primaria","palabras":["was","were","pasado","to be"],"contenido":{
-"idea":"Hoy estás contento y ayer estabas cansado. Para hablar de ayer, am e is se cambian por otra palabra.",
-"pizarron":"Hoy usamos *am*, *is* y *are*.\n\nAyer usamos *was* y *were*.\n\n*Was* va con una sola persona:\n\n*I was tired.* Yo estaba cansado.\n\n*She was happy.* Ella estaba feliz.\n\n*Were* va con *you* y con varias personas:\n\n*You were sad.* Estabas triste.\n\n*We were at home.* Estábamos en casa.\n\nCuidado: con *you* siempre va *were*.",
-"truco":"Yo, él o ella: was. Tú y varios: were.",
-"practica":{"ejercicio":"Completa: *I ___ happy.* (ayer)","respuesta":"*was*"},
-"analogias":[{"titulo":"Ropa de ayer","texto":"Am y is cambian de ropa para ir al pasado: se ponen was."},{"titulo":"Mirar atrás","texto":"Was y were son como voltear a ver lo que ya pasó."}],
-"ejercicios":[{"ejercicio":"Completa: *We ___ at school.* (ayer)","respuesta":"*were*"},{"ejercicio":"Completa: *He ___ sad.* (ayer)","respuesta":"*was*"},{"ejercicio":"Completa: *You ___ tired.* (ayer)","respuesta":"*were*"}]}},
-{"nodo_id":"f4-ing","titulo":"Do y does para preguntar","slug":"do-y-does-para-preguntar-primaria","palabras":["do","does","preguntas","presente simple"],"contenido":{
-"idea":"Antes de preguntar, tocas la puerta. Do y does son el toquido: avisan que viene una pregunta.",
-"pizarron":"Esto es decir algo:\n\n*You like pizza.* Te gusta la pizza.\n\nPara preguntar, *do* va primero:\n\n*Do you like pizza?* ¿Te gusta la pizza?\n\nCon *he* (él) y *she* (ella), usamos *does*:\n\n*Does she like pizza?* ¿A ella le gusta la pizza?\n\nLa respuesta es corta:\n\n*Yes, I do.* Sí.\n\n*No, she doesn't.* No, a ella no.",
-"truco":"Do con tú y yo; does con él y ella.",
-"practica":{"ejercicio":"Pregunta: ¿Te gustan los gatos? Usa *like cats*.","respuesta":"*Do you like cats?*"},
-"analogias":[{"titulo":"Tocar la puerta","texto":"Do toca la puerta para que todos sepan que ya viene una pregunta."},{"titulo":"La campanita","texto":"Do y does son una campanita: cuando suenan, alguien te va a responder."}],
-"ejercicios":[{"ejercicio":"Completa: ___ he play soccer?","respuesta":"*Does*"},{"ejercicio":"Completa: ___ you read books?","respuesta":"*Do*"},{"ejercicio":"Di que sí: *Do you like milk?*","respuesta":"*Yes, I do.*"}]}},
-{"nodo_id":"f5-ing","titulo":"Pasado con -ed para principiantes","slug":"pasado-con-ed-para-principiantes-primaria","palabras":["pasado","-ed","played","yesterday"],"contenido":{
-"idea":"Hoy juegas y ayer jugaste. En inglés, muchas acciones viajan al pasado con solo agregarles -ed.",
-"pizarron":"Hoy juego: *I play*.\n\nAyer jugué: *I played*.\n\nSolo agregamos **-ed**.\n\nMás ejemplos:\n\n*walk* (caminar) se vuelve *walked*.\n\n*watch* (ver) se vuelve *watched*.\n\nSi la palabra ya termina en *e*, solo ponemos *d*:\n\n*dance* (bailar) se vuelve *danced*.\n\nEl pasado se escribe igual para todos:\n\n*I played. She played. They played.*\n\n*Yesterday* significa «ayer». Te ayuda a saber que ya pasó.",
-"truco":"Si ya pasó, súmale -ed.",
-"practica":{"ejercicio":"Pasa a pasado: *I walk.*","respuesta":"*I walked.*"},
-"analogias":[{"titulo":"El sello","texto":"-ed es un sello que dice ya pasó, y se pone al final de la palabra."},{"titulo":"El tren al pasado","texto":"La palabra sube al tren -ed y llega a ayer."}],
-"ejercicios":[{"ejercicio":"Pasa a pasado: *She plays.*","respuesta":"*She played.*"},{"ejercicio":"Agrega -ed a *watch*.","respuesta":"*watched*"},{"ejercicio":"Agrega el final de pasado a *dance*.","respuesta":"*danced*"}]}},
-{"nodo_id":"f5-ing","titulo":"Pasado irregular para principiantes","slug":"pasado-irregular-para-principiantes-primaria","palabras":["verbos irregulares","went","ate","saw"],"contenido":{
-"idea":"Algunos niños son traviesos y no siguen la regla. Algunas palabras del inglés tampoco: en pasado cambian completas.",
-"pizarron":"Algunas acciones no usan *-ed*. Cambian a otra palabra.\n\nIr: *go*. Fui: *went*.\n\nComer: *eat*. Comí: *ate*.\n\nVer: *see*. Vi: *saw*.\n\nTener: *have*. Tuve: *had*.\n\nHacer: *do*. Hice: *did*.\n\nEjemplos:\n\n*I go to school.* Voy a la escuela.\n\n*I went to school.* Fui a la escuela.\n\nEstas palabras no tienen regla. Hay que aprenderlas de memoria, poquito a poco.",
-"truco":"Los traviesos no llevan -ed: se memorizan.",
-"practica":{"ejercicio":"Pasa a pasado: *I eat.*","respuesta":"*I ate.*"},
-"analogias":[{"titulo":"Los traviesos","texto":"La mayoría hace fila con -ed, pero estos se salen de la fila y se visten diferente."},{"titulo":"Disfraces","texto":"Go se disfraza de went para ir al pasado: es la misma acción con otra cara."}],
-"ejercicios":[{"ejercicio":"¿Cuál es el pasado de *go*?","respuesta":"*went*"},{"ejercicio":"¿Cuál es el pasado de *see*?","respuesta":"*saw*"},{"ejercicio":"Pasa a pasado: *I have a dog.*","respuesta":"*I had a dog.*"}]}},
-{"nodo_id":"f5-ing","titulo":"Will para hablar del futuro","slug":"will-para-hablar-del-futuro-primaria","palabras":["will","futuro","tomorrow","won't"],"contenido":{
-"idea":"Mañana vas a ir al parque. Para hablar de lo que todavía no pasa, en inglés se pone will antes de la acción.",
-"pizarron":"*Will* nos lleva al **futuro**.\n\nSe pone antes de la acción:\n\n*I will play.* Jugaré.\n\n*She will eat.* Ella comerá.\n\n*We will go.* Iremos.\n\nLa acción se queda igual. No le pongas nada más.\n\nPara decir que no, usamos *won't*:\n\n*I won't go.* No iré.\n\nPara preguntar, *will* va primero:\n\n*Will you play?* ¿Jugarás?\n\n*Tomorrow* significa «mañana».",
-"truco":"Will va adelante y la acción no cambia.",
-"practica":{"ejercicio":"Di «Yo jugaré». Jugar es *play*.","respuesta":"*I will play.*"},
-"analogias":[{"titulo":"La máquina del tiempo","texto":"Will es una máquina: te subes y la acción aparece en el mañana."},{"titulo":"Promesa","texto":"Cuando dices will, es como prometer lo que harás después."}],
-"ejercicios":[{"ejercicio":"Di «Ella comerá». Comer es *eat*.","respuesta":"*She will eat.*"},{"ejercicio":"Di «No iré». Ir es *go*.","respuesta":"*I won't go.*"},{"ejercicio":"Corrige: *He will plays.*","respuesta":"*He will play.*"}]}},
-{"nodo_id":"f5-ing","titulo":"Have más participio: el perfect para principiantes","slug":"have-mas-participio-el-perfect-para-principiantes-primaria","palabras":["present perfect","have","has","participio","I have eaten"],"contenido":{
-"idea":"Terminas tu tarea y dices: ya la he hecho. Ese he hecho es justo lo que en inglés se llama perfect.",
-"pizarron":"En español decimos «he comido». En inglés es igual: se usan **dos piezas**.\n\n1. *have* (he, has) o *has* (ha).\n2. La palabra en **participio**, como «comido» o «visto».\n\nYo he jugado: *I have played*.\n\nElla ha jugado: *She has played*.\n\nMuchas palabras se escriben como su pasado:\n\n*play* se vuelve *played*.\n\nOtras cambian:\n\n*eat* se vuelve *eaten*: *I have eaten*.\n\n*see* se vuelve *seen*: *I have seen*.\n\nSe usa para contar lo que ya hiciste, sin decir cuándo.",
-"truco":"«He comido» es igual: have más eaten.",
-"practica":{"ejercicio":"Di «Yo he jugado».","respuesta":"*I have played.*"},
-"analogias":[{"titulo":"La palomita","texto":"El perfect es como una palomita en tu lista: ya lo hiciste y ya cuenta."},{"titulo":"Dos piezas","texto":"Have y el participio son dos piezas que siempre van juntas para formar la frase."}],
-"ejercicios":[{"ejercicio":"Di «Ella ha jugado».","respuesta":"*She has played.*"},{"ejercicio":"Di «Yo he comido».","respuesta":"*I have eaten.*"},{"ejercicio":"Completa: *He ___ seen a lion.*","respuesta":"*has*"}]}},
-{"nodo_id":"f6-130","titulo":"Participio pasado","slug":"participio-pasado-secundaria","palabras":["participio pasado","past participle","eaten","gone","verbos irregulares"],"contenido":{
-"idea":"Cada verbo tiene tres formas, como tres amigos: hoy, ayer y ya hecho. La tercera se llama participio.",
-"pizarron":"Mira las tres formas:\n\n| Hoy | Ayer | Ya hecho |\n|---|---|---|\n| play | played | played |\n| go | went | gone |\n| eat | ate | eaten |\n| see | saw | seen |\n| do | did | done |\n| write | wrote | written |\n\nSi la palabra es regular, la tercera forma lleva *-ed*, igual que la segunda.\n\nSi es irregular, hay que aprenderla.\n\nEl participio no va solo. Necesita compañía:\n\n*I have eaten.* He comido.\n\n*The door was closed.* La puerta estaba cerrada.",
-"truco":"Regular: -ed. Irregular: se memoriza en grupitos.",
-"practica":{"ejercicio":"¿Cuál es el participio de *go*?","respuesta":"*gone*"},
-"analogias":[{"titulo":"Tres amigos","texto":"Cada verbo trae a tres amigos; el tercero nunca sale solo a la calle."},{"titulo":"Tres fotos","texto":"Una foto de hoy, otra de ayer y otra del trabajo terminado."}],
-"ejercicios":[{"ejercicio":"¿Cuál es el participio de *eat*?","respuesta":"*eaten*"},{"ejercicio":"¿Cuál es el participio de *write*?","respuesta":"*written*"},{"ejercicio":"¿Cuál es el participio de *play*?","respuesta":"*played*"}]}},
-{"nodo_id":"f6-130","titulo":"Present perfect: have y has","slug":"present-perfect-have-y-has-secundaria","palabras":["present perfect","have","has","ever","never","already"],"contenido":{
-"idea":"Tu mochila de recuerdos guarda lo que has hecho en la vida. El present perfect abre esa mochila, sin importar el día exacto.",
-"pizarron":"**Fórmula**: *have* o *has* + participio.\n\n*I have visited Puebla.* He visitado Puebla.\n\n*She has eaten sushi.* Ella ha comido sushi.\n\nCon *he*, *she* e *it* se usa *has*.\n\n**Para decir que no**:\n\n*I have not seen it.* No lo he visto.\n\n**Para preguntar**:\n\n*Have you ever swum in the sea?* ¿Alguna vez has nadado en el mar?\n\n**Palabras amigas**:\n\n*ever*: alguna vez.\n\n*never*: nunca.\n\n*already*: ya.\n\n*yet*: todavía, en preguntas y negaciones.\n\nSi dices cuándo fue, como *yesterday*, usa pasado simple.",
-"truco":"Si dices cuándo, ya no es perfect: es pasado.",
-"practica":{"ejercicio":"Completa: *She ___ visited Mexico.*","respuesta":"*has*"},
-"analogias":[{"titulo":"La mochila","texto":"Sacas un recuerdo sin decir la fecha: lo importante es que ya lo tienes."},{"titulo":"La lista de logros","texto":"Tachas lo hecho en tu lista, sin escribir el día en que pasó."}],
-"ejercicios":[{"ejercicio":"Di «Nunca he visto un león». Usa *never*.","respuesta":"*I have never seen a lion.*"},{"ejercicio":"Pregunta si alguien ha comido tacos, con *ever*.","respuesta":"*Have you ever eaten tacos?*"},{"ejercicio":"Elige: *I (have seen / saw) him yesterday.*","respuesta":"*saw*, porque dices cuándo."}]}}
+{
+"nodo_id": "f3-ing",
+"titulo": "Plural con -s en inglés",
+"slug": "plural-con-s-en-ingles-primaria",
+"palabras": [
+"plural",
+"-s",
+"one cat",
+"two cats"
+],
+"contenido": {
+"idea": "Tienes un dulce. Luego tienes dos dulces. En español le pones una s. ¡En inglés casi siempre pasa igual!",
+"pizarron": "**La regla:** para decir que son varios, se agrega *-s* al final.\n\nUno se dice *one*. Dos se dice *two*.\n\nUn gato: *one cat*.\n\nDos gatos: *two cats*.\n\n¿Viste? Solo agregamos una **s** al final.\n\nOtro ejemplo:\n\nUn libro: *one book*.\n\nTres libros: *three books*.\n\nA veces la palabra cambia un poquito. Si termina en *x* o *ch*, le ponemos **es**:\n\nUna caja: *one box*.\n\nDos cajas: *two boxes*.",
+"truco": "¿Son muchos? Ponle una s al final.",
+"practica": {
+"ejercicio": "¿Cómo se dice «dos perros»? Perro es *dog*.",
+"respuesta": "*Two dogs.*"
+},
+"analogias": [
+{
+"titulo": "El trenecito",
+"texto": "La palabra es un tren. Si son muchos, le enganchas un vagoncito que se llama s."
+},
+{
+"titulo": "La colita",
+"texto": "Imagina que la palabra tiene una colita: cuando hay muchos, la s le sale atrás."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe «tres gatos». Gato es *cat*.",
+"respuesta": "*Three cats.*"
+},
+{
+"ejercicio": "Escribe «dos libros». Libro es *book*.",
+"respuesta": "*Two books.*"
+},
+{
+"ejercicio": "Escribe «dos cajas». Caja es *box*.",
+"respuesta": "*Two boxes.*"
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "This y that para señalar",
+"slug": "this-y-that-para-senalar-primaria",
+"palabras": [
+"this",
+"that",
+"esto",
+"eso"
+],
+"contenido": {
+"idea": "Con tu mano señalas lo que está cerquita y lo que está lejos. En inglés hay una palabra para cada uno.",
+"pizarron": "**La regla:** *this* es para lo cercano y *that* para lo lejano.\n\nSi está **cerca**, dices *this*. Significa «esto».\n\nToca tu lápiz y di: *This is my pencil*.\n\nSi está **lejos**, dices *that*. Significa «eso».\n\nApunta a la ventana y di: *That is a window*.\n\nFíjate en la palabra *is*. Significa «es».\n\n*This is* quiere decir «esto es».\n\n*That is* quiere decir «eso es».",
+"truco": "This lo tocas; that lo señalas de lejos.",
+"practica": {
+"ejercicio": "Tu libro está en tu mano. ¿Dices *this* o *that*?",
+"respuesta": "*This.*"
+},
+"analogias": [
+{
+"titulo": "Mano y dedo",
+"texto": "This es como tomar algo con la mano. That es como apuntar con el dedo a lo lejos."
+},
+{
+"titulo": "La tienda",
+"texto": "Cuando compras, dices quiero este de aquí o ese de allá; en inglés son this y that."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Ves un avión en el cielo. ¿*This* o *that*?",
+"respuesta": "*That.*"
+},
+{
+"ejercicio": "Completa: ___ is my hand.",
+"respuesta": "*This*"
+},
+{
+"ejercicio": "Traduce: *That is a dog.*",
+"respuesta": "Eso es un perro."
+}
+]
+}
+},
+{
+"nodo_id": "f3-ing",
+"titulo": "Is it? Yes, it is",
+"slug": "is-it-yes-it-is-primaria",
+"palabras": [
+"preguntas",
+"is it",
+"yes it is",
+"no it isn't"
+],
+"contenido": {
+"idea": "Jugamos a adivinar: ¿es un gato? Sí, lo es. En inglés solo cambias de lugar dos palabras para preguntar.",
+"pizarron": "**La regla:** para preguntar, *is* pasa adelante: *Is it a cat?*\n\nPara decir algo:\n\n*It is a cat.* Es un gato.\n\nPara preguntar, *is* pasa adelante:\n\n*Is it a cat?* ¿Es un gato?\n\nSi la respuesta es sí:\n\n*Yes, it is.* Sí, lo es.\n\nSi la respuesta es no:\n\n*No, it isn't.* No, no lo es.\n\n*Isn't* es una forma corta de decir *is not*.",
+"truco": "Para preguntar, is se va al frente.",
+"practica": {
+"ejercicio": "Pregunta: ¿Es un perro? Perro es *dog*.",
+"respuesta": "*Is it a dog?*"
+},
+"analogias": [
+{
+"titulo": "La fila",
+"texto": "Las palabras hacen fila. Para preguntar, is se adelanta y se pone primero."
+},
+{
+"titulo": "Adivina adivinador",
+"texto": "Es como jugar a adivinar una caja cerrada: preguntas y tu amigo responde sí o no."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Ordena: *it / is / a / ball?*",
+"respuesta": "*Is it a ball?*"
+},
+{
+"ejercicio": "Di que sí: *Is it a cat?*",
+"respuesta": "*Yes, it is.*"
+},
+{
+"ejercicio": "Di que no: *Is it a dog?*",
+"respuesta": "*No, it isn't.*"
+}
+]
+}
+},
+{
+"nodo_id": "f4-ing",
+"titulo": "La terminación -ing: lo que pasa ahora",
+"slug": "la-terminacion-ing-lo-que-pasa-ahora-primaria",
+"palabras": [
+"-ing",
+"presente continuo",
+"I am running",
+"ahora"
+],
+"contenido": {
+"idea": "Tu amigo te llama y te pregunta qué haces. Tú dices: estoy comiendo. Ese -ando o -iendo en inglés se dice -ing.",
+"pizarron": "**La regla:** *-ing* va con *am, is, are* y habla de lo que pasa ahora.\n\nUsamos **-ing** para lo que pasa **ahora mismo**.\n\nEn español: com**iendo**, jug**ando**.\n\nEn inglés: *eat***ing**, *play***ing**.\n\nNecesitas dos piezas:\n\n1. *am*, *is* o *are*.\n2. La palabra con *-ing*.\n\nYo estoy jugando: *I am playing*.\n\nTú estás comiendo: *You are eating*.\n\nElla está leyendo: *She is reading*.\n\nSi la palabra termina en *e*, la *e* se va:\n\n*dance* se vuelve *dancing*.",
+"truco": "-ing es como decir -ando o -iendo.",
+"practica": {
+"ejercicio": "Di «Estoy comiendo». Comer es *eat*.",
+"respuesta": "*I am eating.*"
+},
+"analogias": [
+{
+"titulo": "El video",
+"texto": "-ing es como un video que se está viendo ahora: la acción todavía no se acaba."
+},
+{
+"titulo": "Dos piezas de lego",
+"texto": "Am es una pieza e -ing es la otra. Si falta una, la frase no se arma."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di «Ella está jugando». Jugar es *play*.",
+"respuesta": "*She is playing.*"
+},
+{
+"ejercicio": "Agrega -ing a *read*.",
+"respuesta": "*reading*"
+},
+{
+"ejercicio": "Completa: *You ___ eating.*",
+"respuesta": "*are*"
+}
+]
+}
+},
+{
+"nodo_id": "f4-ing",
+"titulo": "Was y were: el pasado de to be",
+"slug": "was-y-were-el-pasado-de-to-be-primaria",
+"palabras": [
+"was",
+"were",
+"pasado",
+"to be"
+],
+"contenido": {
+"idea": "Hoy estás contento y ayer estabas cansado. Para hablar de ayer, am e is se cambian por otra palabra.",
+"pizarron": "**La regla:** el pasado de *to be* es *was* con una persona y *were* con *you* y varias.\n\nHoy usamos *am*, *is* y *are*.\n\nAyer usamos *was* y *were*.\n\n*Was* va con una sola persona:\n\n*I was tired.* Yo estaba cansado.\n\n*She was happy.* Ella estaba feliz.\n\n*Were* va con *you* y con varias personas:\n\n*You were sad.* Estabas triste.\n\n*We were at home.* Estábamos en casa.\n\nCuidado: con *you* siempre va *were*.",
+"truco": "Yo, él o ella: was. Tú y varios: were.",
+"practica": {
+"ejercicio": "Completa: *I ___ happy.* (ayer)",
+"respuesta": "*was*"
+},
+"analogias": [
+{
+"titulo": "Ropa de ayer",
+"texto": "Am y is cambian de ropa para ir al pasado: se ponen was."
+},
+{
+"titulo": "Mirar atrás",
+"texto": "Was y were son como voltear a ver lo que ya pasó."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *We ___ at school.* (ayer)",
+"respuesta": "*were*"
+},
+{
+"ejercicio": "Completa: *He ___ sad.* (ayer)",
+"respuesta": "*was*"
+},
+{
+"ejercicio": "Completa: *You ___ tired.* (ayer)",
+"respuesta": "*were*"
+}
+]
+}
+},
+{
+"nodo_id": "f4-ing",
+"titulo": "Do y does para preguntar",
+"slug": "do-y-does-para-preguntar-primaria",
+"palabras": [
+"do",
+"does",
+"preguntas",
+"presente simple"
+],
+"contenido": {
+"idea": "Antes de preguntar, tocas la puerta. Do y does son el toquido: avisan que viene una pregunta.",
+"pizarron": "**La regla:** se pregunta con *do*, y con *he* o *she* se usa *does*.\n\nEsto es decir algo:\n\n*You like pizza.* Te gusta la pizza.\n\nPara preguntar, *do* va primero:\n\n*Do you like pizza?* ¿Te gusta la pizza?\n\nCon *he* (él) y *she* (ella), usamos *does*:\n\n*Does she like pizza?* ¿A ella le gusta la pizza?\n\nLa respuesta es corta:\n\n*Yes, I do.* Sí.\n\n*No, she doesn't.* No, a ella no.",
+"truco": "Do con tú y yo; does con él y ella.",
+"practica": {
+"ejercicio": "Pregunta: ¿Te gustan los gatos? Usa *like cats*.",
+"respuesta": "*Do you like cats?*"
+},
+"analogias": [
+{
+"titulo": "Tocar la puerta",
+"texto": "Do toca la puerta para que todos sepan que ya viene una pregunta."
+},
+{
+"titulo": "La campanita",
+"texto": "Do y does son una campanita: cuando suenan, alguien te va a responder."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: ___ he play soccer?",
+"respuesta": "*Does*"
+},
+{
+"ejercicio": "Completa: ___ you read books?",
+"respuesta": "*Do*"
+},
+{
+"ejercicio": "Di que sí: *Do you like milk?*",
+"respuesta": "*Yes, I do.*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Pasado con -ed para principiantes",
+"slug": "pasado-con-ed-para-principiantes-primaria",
+"palabras": [
+"pasado",
+"-ed",
+"played",
+"yesterday"
+],
+"contenido": {
+"idea": "Hoy juegas y ayer jugaste. En inglés, muchas acciones viajan al pasado con solo agregarles -ed.",
+"pizarron": "**La regla:** muchos verbos forman el pasado agregando *-ed*.\n\nHoy juego: *I play*.\n\nAyer jugué: *I played*.\n\nSolo agregamos **-ed**.\n\nMás ejemplos:\n\n*walk* (caminar) se vuelve *walked*.\n\n*watch* (ver) se vuelve *watched*.\n\nSi la palabra ya termina en *e*, solo ponemos *d*:\n\n*dance* (bailar) se vuelve *danced*.\n\nEl pasado se escribe igual para todos:\n\n*I played. She played. They played.*\n\n*Yesterday* significa «ayer». Te ayuda a saber que ya pasó.",
+"truco": "Si ya pasó, súmale -ed.",
+"practica": {
+"ejercicio": "Pasa a pasado: *I walk.*",
+"respuesta": "*I walked.*"
+},
+"analogias": [
+{
+"titulo": "El sello",
+"texto": "-ed es un sello que dice ya pasó, y se pone al final de la palabra."
+},
+{
+"titulo": "El tren al pasado",
+"texto": "La palabra sube al tren -ed y llega a ayer."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pasa a pasado: *She plays.*",
+"respuesta": "*She played.*"
+},
+{
+"ejercicio": "Agrega -ed a *watch*.",
+"respuesta": "*watched*"
+},
+{
+"ejercicio": "Agrega el final de pasado a *dance*.",
+"respuesta": "*danced*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Pasado irregular para principiantes",
+"slug": "pasado-irregular-para-principiantes-primaria",
+"palabras": [
+"verbos irregulares",
+"went",
+"ate",
+"saw"
+],
+"contenido": {
+"idea": "Algunos niños son traviesos y no siguen la regla. Algunas palabras del inglés tampoco: en pasado cambian completas.",
+"pizarron": "**La regla:** algunos verbos no usan *-ed* y cambian completos en pasado.\n\nAlgunas acciones no usan *-ed*. Cambian a otra palabra.\n\nIr: *go*. Fui: *went*.\n\nComer: *eat*. Comí: *ate*.\n\nVer: *see*. Vi: *saw*.\n\nTener: *have*. Tuve: *had*.\n\nHacer: *do*. Hice: *did*.\n\nEjemplos:\n\n*I go to school.* Voy a la escuela.\n\n*I went to school.* Fui a la escuela.\n\nEstas palabras no tienen regla. Hay que aprenderlas de memoria, poquito a poco.",
+"truco": "Los traviesos no llevan -ed: se memorizan.",
+"practica": {
+"ejercicio": "Pasa a pasado: *I eat.*",
+"respuesta": "*I ate.*"
+},
+"analogias": [
+{
+"titulo": "Los traviesos",
+"texto": "La mayoría hace fila con -ed, pero estos se salen de la fila y se visten diferente."
+},
+{
+"titulo": "Disfraces",
+"texto": "Go se disfraza de went para ir al pasado: es la misma acción con otra cara."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es el pasado de *go*?",
+"respuesta": "*went*"
+},
+{
+"ejercicio": "¿Cuál es el pasado de *see*?",
+"respuesta": "*saw*"
+},
+{
+"ejercicio": "Pasa a pasado: *I have a dog.*",
+"respuesta": "*I had a dog.*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Will para hablar del futuro",
+"slug": "will-para-hablar-del-futuro-primaria",
+"palabras": [
+"will",
+"futuro",
+"tomorrow",
+"won't"
+],
+"contenido": {
+"idea": "Mañana vas a ir al parque. Para hablar de lo que todavía no pasa, en inglés se pone will antes de la acción.",
+"pizarron": "**La regla:** el futuro se dice con *will* antes del verbo, y el verbo no cambia.\n\n*Will* nos lleva al **futuro**.\n\nSe pone antes de la acción:\n\n*I will play.* Jugaré.\n\n*She will eat.* Ella comerá.\n\n*We will go.* Iremos.\n\nLa acción se queda igual. No le pongas nada más.\n\nPara decir que no, usamos *won't*:\n\n*I won't go.* No iré.\n\nPara preguntar, *will* va primero:\n\n*Will you play?* ¿Jugarás?\n\n*Tomorrow* significa «mañana».",
+"truco": "Will va adelante y la acción no cambia.",
+"practica": {
+"ejercicio": "Di «Yo jugaré». Jugar es *play*.",
+"respuesta": "*I will play.*"
+},
+"analogias": [
+{
+"titulo": "La máquina del tiempo",
+"texto": "Will es una máquina: te subes y la acción aparece en el mañana."
+},
+{
+"titulo": "Promesa",
+"texto": "Cuando dices will, es como prometer lo que harás después."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di «Ella comerá». Comer es *eat*.",
+"respuesta": "*She will eat.*"
+},
+{
+"ejercicio": "Di «No iré». Ir es *go*.",
+"respuesta": "*I won't go.*"
+},
+{
+"ejercicio": "Corrige: *He will plays.*",
+"respuesta": "*He will play.*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-ing",
+"titulo": "Have más participio: el perfect para principiantes",
+"slug": "have-mas-participio-el-perfect-para-principiantes-primaria",
+"palabras": [
+"present perfect",
+"have",
+"has",
+"participio",
+"I have eaten"
+],
+"contenido": {
+"idea": "Terminas tu tarea y dices: ya la he hecho. Ese he hecho es justo lo que en inglés se llama perfect.",
+"pizarron": "**La regla:** el perfect se forma con *have* o *has* más participio.\n\nEn español decimos «he comido». En inglés es igual: se usan **dos piezas**.\n\n1. *have* (he, has) o *has* (ha).\n2. La palabra en **participio**, como «comido» o «visto».\n\nYo he jugado: *I have played*.\n\nElla ha jugado: *She has played*.\n\nMuchas palabras se escriben como su pasado:\n\n*play* se vuelve *played*.\n\nOtras cambian:\n\n*eat* se vuelve *eaten*: *I have eaten*.\n\n*see* se vuelve *seen*: *I have seen*.\n\nSe usa para contar lo que ya hiciste, sin decir cuándo.",
+"truco": "«He comido» es igual: have más eaten.",
+"practica": {
+"ejercicio": "Di «Yo he jugado».",
+"respuesta": "*I have played.*"
+},
+"analogias": [
+{
+"titulo": "La palomita",
+"texto": "El perfect es como una palomita en tu lista: ya lo hiciste y ya cuenta."
+},
+{
+"titulo": "Dos piezas",
+"texto": "Have y el participio son dos piezas que siempre van juntas para formar la frase."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di «Ella ha jugado».",
+"respuesta": "*She has played.*"
+},
+{
+"ejercicio": "Di «Yo he comido».",
+"respuesta": "*I have eaten.*"
+},
+{
+"ejercicio": "Completa: *He ___ seen a lion.*",
+"respuesta": "*has*"
+}
+]
+}
+},
+{
+"nodo_id": "f6-130",
+"titulo": "Participio pasado",
+"slug": "participio-pasado-secundaria",
+"palabras": [
+"participio pasado",
+"past participle",
+"eaten",
+"gone",
+"verbos irregulares"
+],
+"contenido": {
+"idea": "Cada verbo tiene tres formas, como tres amigos: hoy, ayer y ya hecho. La tercera se llama participio.",
+"pizarron": "**Qué es:** el participio es la tercera forma del verbo, y se usa con *have* y en voz pasiva.\n\nMira las tres formas:\n\n| Hoy | Ayer | Ya hecho |\n|---|---|---|\n| play | played | played |\n| go | went | gone |\n| eat | ate | eaten |\n| see | saw | seen |\n| do | did | done |\n| write | wrote | written |\n\nSi la palabra es regular, la tercera forma lleva *-ed*, igual que la segunda.\n\nSi es irregular, hay que aprenderla.\n\nEl participio no va solo. Necesita compañía:\n\n*I have eaten.* He comido.\n\n*The door was closed.* La puerta estaba cerrada.",
+"truco": "Regular: -ed. Irregular: se memoriza en grupitos.",
+"practica": {
+"ejercicio": "¿Cuál es el participio de *go*?",
+"respuesta": "*gone*"
+},
+"analogias": [
+{
+"titulo": "Tres amigos",
+"texto": "Cada verbo trae a tres amigos; el tercero nunca sale solo a la calle."
+},
+{
+"titulo": "Tres fotos",
+"texto": "Una foto de hoy, otra de ayer y otra del trabajo terminado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es el participio de *eat*?",
+"respuesta": "*eaten*"
+},
+{
+"ejercicio": "¿Cuál es el participio de *write*?",
+"respuesta": "*written*"
+},
+{
+"ejercicio": "¿Cuál es el participio de *play*?",
+"respuesta": "*played*"
+}
+]
+}
+},
+{
+"nodo_id": "f6-130",
+"titulo": "Present perfect: have y has",
+"slug": "present-perfect-have-y-has-secundaria",
+"palabras": [
+"present perfect",
+"have",
+"has",
+"ever",
+"never",
+"already"
+],
+"contenido": {
+"idea": "Tu mochila de recuerdos guarda lo que has hecho en la vida. El present perfect abre esa mochila, sin importar el día exacto.",
+"pizarron": "**La regla:** *have* o *has* más participio habla de lo que ya hiciste, sin decir cuándo.\n\n**Fórmula**: *have* o *has* + participio.\n\n*I have visited Puebla.* He visitado Puebla.\n\n*She has eaten sushi.* Ella ha comido sushi.\n\nCon *he*, *she* e *it* se usa *has*.\n\n**Para decir que no**:\n\n*I have not seen it.* No lo he visto.\n\n**Para preguntar**:\n\n*Have you ever swum in the sea?* ¿Alguna vez has nadado en el mar?\n\n**Palabras amigas**:\n\n*ever*: alguna vez.\n\n*never*: nunca.\n\n*already*: ya.\n\n*yet*: todavía, en preguntas y negaciones.\n\nSi dices cuándo fue, como *yesterday*, usa pasado simple.",
+"truco": "Si dices cuándo, ya no es perfect: es pasado.",
+"practica": {
+"ejercicio": "Completa: *She ___ visited Mexico.*",
+"respuesta": "*has*"
+},
+"analogias": [
+{
+"titulo": "La mochila",
+"texto": "Sacas un recuerdo sin decir la fecha: lo importante es que ya lo tienes."
+},
+{
+"titulo": "La lista de logros",
+"texto": "Tachas lo hecho en tu lista, sin escribir el día en que pasó."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di «Nunca he visto un león». Usa *never*.",
+"respuesta": "*I have never seen a lion.*"
+},
+{
+"ejercicio": "Pregunta si alguien ha comido tacos, con *ever*.",
+"respuesta": "*Have you ever eaten tacos?*"
+},
+{
+"ejercicio": "Elige: *I (have seen / saw) him yesterday.*",
+"respuesta": "*saw*, porque dices cuándo."
+}
+]
+}
+}
 ]

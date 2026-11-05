@@ -1,72 +1,472 @@
 [
-{"nodo_id":"f4-007","titulo":"Valoración de los ecosistemas de tu territorio","slug":"valoracion-ecosistemas-territorio-primaria","palabras":["ecosistema","territorio","comunidad","sustentable","naturaleza","preservación"],"contenido":{
-"idea":"Un ecosistema es como una casa grande compartida: las plantas, los animales, el agua, el suelo y las personas viven juntos y cada uno hace algo para que la casa funcione.",
-"pizarron":"**Territorio**: espacio donde vive una comunidad, con sus características: clima, relieve, ríos, plantas, animales y construcciones.\n\n**Ecosistema**: conjunto de seres vivos (bióticos) y elementos sin vida (abióticos: agua, aire, suelo, luz) que se relacionan entre sí.\n\nPasos para valorarlo:\n1. Observa tu territorio: ¿qué plantas, animales y fuentes de agua hay?\n2. Identifica cómo lo usa tu comunidad: agua para beber, alimentos, leña, paseo.\n3. Reconoce lo que se daña: basura, tala, contaminación del agua.\n4. Propón acciones de uso **sustentable**: tomar de la naturaleza solo lo necesario para que siga existiendo para quienes vendrán.",
-"truco":"Observo, uso con cuidado y devuelvo: así se preserva.",
-"practica":{"ejercicio":"Menciona dos elementos con vida y dos sin vida del ecosistema de un río.","respuesta":"Con vida: peces y plantas acuáticas (también ranas o aves). Sin vida: agua y rocas (también la luz del sol)."},
-"analogias":[{"titulo":"La despensa familiar","texto":"Si tu familia gasta toda la comida de la despensa en un día, mañana no habrá nada. Los recursos del ecosistema se cuidan igual: se usa lo necesario y se deja para después."},{"titulo":"El equipo de futbol","texto":"En un equipo cada jugador cumple una función. Si falta uno, todo el equipo juega peor. En un ecosistema, si desaparece una especie, los demás seres vivos también se afectan."}],
-"ejercicios":[{"ejercicio":"¿Qué es un territorio?","respuesta":"Es el espacio donde vive una comunidad, con sus características naturales y sociales."},{"ejercicio":"Clasifica en bióticos o abióticos: árbol, aire, conejo, suelo.","respuesta":"Bióticos: árbol y conejo. Abióticos: aire y suelo."},{"ejercicio":"Escribe una acción sustentable que puedas hacer en tu comunidad y por qué ayuda.","respuesta":"Ejemplo: separar la basura o cerrar la llave mientras te lavas los dientes; ayuda a no contaminar y a ahorrar agua para el futuro. Es válida cualquier acción realista con su razón."}]}},
-{"nodo_id":"f4-011","titulo":"Interculturalidad y sustentabilidad","slug":"interculturalidad-sustentabilidad-primaria","palabras":["interculturalidad","cultura","pueblos originarios","saberes","sustentabilidad","respeto"],"contenido":{
-"idea":"Imagina una cocina donde varias familias preparan comida juntas: cada una aporta sus recetas y todas aprenden. Así se comparten los saberes entre culturas para cuidar la naturaleza.",
-"pizarron":"**Interculturalidad**: relación respetuosa e igualitaria entre personas de culturas distintas, donde todas aprenden de todas sin que una se crea superior.\n\n**Sustentabilidad**: usar los recursos naturales hoy sin acabarlos, para que las generaciones futuras también los tengan.\n\nSe relacionan porque muchas comunidades, como los pueblos originarios, tienen saberes tradicionales sobre el territorio: cuándo sembrar, cómo cuidar el agua, qué plantas sirven como medicina o cómo aprovechar el bosque sin destruirlo.\n\nAl dialogar con respeto:\n1. Escuchamos los saberes de otras comunidades.\n2. Los comparamos con lo que sabemos.\n3. Elegimos acciones que cuiden el ambiente y respeten a las personas.",
-"truco":"Escuchar y compartir saberes ayuda a cuidar la Tierra.",
-"practica":{"ejercicio":"Una comunidad siembra maíz junto con frijol y calabaza para no cansar la tierra. ¿Qué tipo de saber es y por qué es sustentable?","respuesta":"Es un saber tradicional del territorio. Es sustentable porque cuida el suelo y permite seguir sembrando en el futuro."},
-"analogias":[{"titulo":"El mural","texto":"Un mural pintado por muchas personas se ve más bello si cada una aporta sus colores. Las culturas aportan sus saberes para formar una sociedad más rica."},{"titulo":"La alcancía","texto":"Si sacas todo el dinero de tu alcancía, se acaba. Si ahorras y usas con medida, dura. Los recursos naturales funcionan igual."}],
-"ejercicios":[{"ejercicio":"Define interculturalidad con tus palabras.","respuesta":"Convivir y aprender entre culturas distintas con respeto e igualdad."},{"ejercicio":"¿Por qué la sustentabilidad piensa en las generaciones futuras?","respuesta":"Porque los recursos deben alcanzar también para quienes nacerán después."},{"ejercicio":"Reflexiona: ¿qué harías si un compañero de otra cultura te explica una forma distinta de cuidar el agua? Da dos criterios de una buena respuesta.","respuesta":"Escucharía con atención y respeto, preguntaría y valoraría su saber. Una buena respuesta evita burlarse o descartarlo y busca aprender o compartirlo."}]}},
-{"nodo_id":"f4-015","titulo":"Cuidado de los ecosistemas: regenerar y preservar","slug":"cuidado-ecosistemas-regeneracion-primaria","palabras":["regeneración","preservar","reforestar","ecosistema","cuidado","reciclar"],"contenido":{
-"idea":"Un ecosistema es como un jardín: si lo riegas y quitas la basura, florece; si lo pisas y lo ensucias, se marchita. Cuidarlo es tarea de todos.",
-"pizarron":"Hay tres ideas clave:\n\n- **Preservar**: proteger lo que está sano para que no se dañe, por ejemplo no tirar basura en un río.\n- **Regenerar**: ayudar a recuperar lo que ya se dañó, por ejemplo plantar árboles nativos donde se talaron.\n- **Uso sustentable**: aprovechar los recursos sin agotarlos.\n\nAcciones posibles en tu comunidad:\n1. Reducir, reutilizar y reciclar residuos.\n2. Ahorrar agua y energía.\n3. Reforestar con especies propias de la región.\n4. No cazar ni cortar más de lo necesario.\n5. Participar con vecinos y escuela en jornadas de limpieza.\n\nCuando un ecosistema se cuida, los seres vivos tienen alimento, agua y refugio.",
-"truco":"Preservar protege lo sano; regenerar repara lo dañado.",
-"practica":{"ejercicio":"Un arroyo tiene basura. ¿Qué acción es regenerar y cuál es preservar?","respuesta":"Regenerar: limpiar el arroyo y sembrar plantas en la orilla. Preservar: no volver a tirar basura y cuidar que siga limpio."},
-"analogias":[{"titulo":"El cuarto ordenado","texto":"Si ordenas tu cuarto un poco cada día, siempre está limpio. Si esperas meses, cuesta mucho arreglarlo. Cuidar la naturaleza a tiempo también es más fácil."},{"titulo":"La herida que sana","texto":"Una herida se limpia y se protege para que sane. Un bosque o un río dañado también necesita ayuda para recuperarse."}],
-"ejercicios":[{"ejercicio":"¿Qué significa regenerar un ecosistema?","respuesta":"Ayudarlo a recuperarse después de haber sido dañado."},{"ejercicio":"Menciona tres acciones para reducir la basura.","respuesta":"Reducir lo que compras, reutilizar envases y reciclar materiales (también separar residuos)."},{"ejercicio":"Reflexiona: ¿qué acción haría tu escuela para cuidar un área verde? Da dos criterios de una buena respuesta.","respuesta":"Ejemplo: plantar árboles nativos y regarlos por turnos. Una buena respuesta es realista, involucra a varias personas y explica cómo beneficia al ecosistema."}]}},
-{"nodo_id":"f4-019","titulo":"Prevención ante fenómenos naturales y cuidado solidario","slug":"prevencion-fenomenos-naturales-primaria","palabras":["prevención","autoprotección","sismo","huracán","protección civil","solidaridad","simulacro"],"contenido":{
-"idea":"Antes de salir a la calle te pones tu suéter si hace frío. Prevenir es prepararse antes para que un peligro nos dañe menos.",
-"pizarron":"**Amenaza o peligro**: algo que puede causar daño, como un sismo, huracán, inundación o incendio. Pueden ser fenómenos naturales o causados por acciones humanas.\n\n**Prevención**: preparar acciones antes de que ocurra.\n**Autoprotección**: saber cómo cuidarte a ti y a los demás.\n\nQué puedes hacer en tu escuela, barrio o comunidad:\n1. Conocer las rutas de evacuación y zonas seguras.\n2. Participar en simulacros con seriedad.\n3. Tener una mochila de emergencia familiar con agua, linterna y documentos.\n4. Seguir las indicaciones de adultos y de protección civil.\n5. Después del desastre, ayudar con **empatía y solidaridad** a las personas afectadas y cuidar el entorno.\n\nCuando todos participamos, la comunidad se recupera mejor.",
-"truco":"Prevenir, protegerme y ayudar: tres pasos que cuidan.",
-"practica":{"ejercicio":"Durante un simulacro de sismo, ¿por qué se debe caminar con calma a la zona segura?","respuesta":"Porque correr o empujar puede causar caídas y accidentes; con calma todos salen mejor."},
-"analogias":[{"titulo":"El paraguas","texto":"Llevar paraguas antes de que llueva evita mojarte. Prepararte antes de un fenómeno natural evita mayor daño."},{"titulo":"La cadena de manos","texto":"Cuando se pasan cubetas de mano en mano se apaga el fuego más rápido. La solidaridad de muchos ayuda más que el esfuerzo de uno solo."}],
-"ejercicios":[{"ejercicio":"Menciona dos fenómenos naturales que pueden ser peligrosos.","respuesta":"Por ejemplo: sismo, huracán, inundación, erupción volcánica."},{"ejercicio":"¿Qué es la autoprotección?","respuesta":"Saber y practicar acciones para cuidarte a ti mismo y a los demás ante un peligro."},{"ejercicio":"Reflexiona: un vecino perdió cosas por una inundación. ¿Cómo podrías mostrar solidaridad? Da dos criterios de respuesta.","respuesta":"Ejemplo: juntar ropa o alimentos con tu familia y escuela. Una buena respuesta es respetuosa, segura para ti y útil a la persona afectada."}]}},
-{"nodo_id":"f4-023","titulo":"Dónde vives: el territorio de tu entidad","slug":"territorio-entidad-localizacion-primaria","palabras":["entidad","estado","territorio","mapa","localización","puntos cardinales","relieve","clima"],"contenido":{
-"idea":"Tu entidad es como el barrio grande donde está tu casa. Saber cómo es y dónde queda te ayuda a no perderte y a conocer tu hogar.",
-"pizarron":"**Entidad federativa**: cada una de las partes en que se divide México; son 32 (31 estados y la Ciudad de México).\n\n**Caracterizar** tu entidad es describir:\n1. **Relieve**: montañas, valles, llanuras, costas.\n2. **Clima**: cálido, templado, seco, frío.\n3. **Agua**: ríos, lagos, mar.\n4. **Vegetación y fauna** propias.\n5. **Población y actividades**: agricultura, pesca, comercio, turismo.\n\n**Localizar** es decir dónde está:\n- Usa los **puntos cardinales**: norte, sur, este y oeste.\n- Indica con qué entidades colinda y si tiene costa.\n- Ubícala en un mapa de México.\n\nEjemplo: una entidad al norte del país que colinda con Estados Unidos y tiene clima seco.",
-"truco":"Describo cómo es y ubico dónde está.",
-"practica":{"ejercicio":"¿Cuántas entidades federativas forman México?","respuesta":"32: 31 estados y la Ciudad de México."},
-"analogias":[{"titulo":"La dirección de tu casa","texto":"Para decir dónde vives das calle, número y colonia. Para ubicar tu entidad usas el mapa, los puntos cardinales y las entidades vecinas."},{"titulo":"La ficha de un personaje","texto":"Un personaje de un juego tiene datos: fuerza, lugar y poderes. Tu entidad tiene su ficha: relieve, clima, agua y actividades."}],
-"ejercicios":[{"ejercicio":"Menciona tres características que sirven para describir una entidad.","respuesta":"Por ejemplo: relieve, clima, ríos o mar, vegetación y actividades económicas."},{"ejercicio":"Si una entidad queda al lado izquierdo de otra en el mapa, ¿en qué punto cardinal está respecto a ella?","respuesta":"Al oeste, con el norte hacia arriba del mapa."},{"ejercicio":"Describe en dos frases tu entidad: un rasgo natural y una actividad de la gente.","respuesta":"Respuesta personal. Debe incluir un rasgo natural real de tu entidad (clima, río, montaña) y una actividad verdadera de su gente."}]}},
-{"nodo_id":"f4-027","titulo":"México pluricultural: pueblos y comunidades","slug":"mexico-pluricultural-pueblos-primaria","palabras":["pluricultural","pueblos originarios","afromexicanos","migrantes","igualdad","dignidad","derechos","diversidad"],"contenido":{
-"idea":"Una piñata de colores tiene muchos dulces distintos y todos valen. México también tiene muchas personas y culturas, y todas merecen respeto.",
-"pizarron":"México es un país **pluricultural**: en él conviven muchas culturas, lenguas y formas de vivir.\n\nLa sociedad de tu entidad y de México incluye:\n- **Pueblos originarios**: descendientes de los habitantes que ya vivían aquí antes de la llegada de los europeos; hablan lenguas como náhuatl, maya o mixteco.\n- **Pueblos afromexicanos**: descendientes de personas africanas traídas a la fuerza durante la Colonia, con una cultura propia.\n- **Migrantes**: personas que llegan de otros lugares o se mudan dentro del país.\n- **Otras comunidades** con sus costumbres y necesidades.\n\nA lo largo de la historia, estos grupos han luchado por el reconocimiento de la **igualdad en dignidad y derechos**: todas las personas valen lo mismo y tienen los mismos derechos, sin discriminación.",
-"truco":"Muchas culturas, una misma dignidad.",
-"practica":{"ejercicio":"¿Qué significa que México sea pluricultural?","respuesta":"Que en el país conviven muchas culturas, lenguas y costumbres distintas."},
-"analogias":[{"titulo":"El mercado","texto":"En un mercado hay frutas, telas y comidas muy distintas, y todas hacen que sea rico. Nuestro país es más valioso por la variedad de sus pueblos."},{"titulo":"El coro","texto":"En un coro cada voz es diferente y juntas suenan mejor. Si se silencia una, falta algo."}],
-"ejercicios":[{"ejercicio":"Menciona dos grupos que forman parte de la composición sociocultural de México.","respuesta":"Por ejemplo: pueblos originarios y afromexicanos (también migrantes)."},{"ejercicio":"¿Qué quiere decir igualdad en dignidad y derechos?","respuesta":"Que todas las personas valen lo mismo y tienen los mismos derechos."},{"ejercicio":"Reflexiona: un compañero habla una lengua indígena y algunos se burlan. ¿Qué harías? Da dos criterios de respuesta.","respuesta":"Pediría respeto, le preguntaría sobre su lengua y buscaría incluirlo. Una buena respuesta rechaza la burla y valora la diversidad."}]}},
-{"nodo_id":"f4-031","titulo":"La vida cotidiana antes y durante la Colonia","slug":"vida-cotidiana-prehispanica-colonia-primaria","palabras":["Colonia","prehispánico","invasión europea","pueblos originarios","historia","aportes","Nueva España"],"contenido":{
-"idea":"Si preguntas a tus abuelos cómo vivían de niños, te cuentan cosas muy distintas a las de hoy. La historia hace lo mismo: pregunta cómo vivía la gente de antes.",
-"pizarron":"La **vida cotidiana** es lo que las personas hacían cada día: comer, trabajar, vestirse, educar y celebrar.\n\n**Antes de la llegada de los europeos (1519 en el centro del país)** existían muchos pueblos, como mexicas, mayas, zapotecas o purépechas. Cultivaban maíz, frijol y calabaza, construían ciudades, tenían calendarios, escritura, arte y organización propia.\n\n**En la Colonia (Nueva España, hasta 1821)** hubo cambios: nuevas autoridades, nuevos alimentos y animales (trigo, caballos, vacas), la religión católica, y desigualdad entre los grupos sociales. Pueblos originarios, personas africanas y sus descendientes, y españoles aportaron conocimientos, trabajo, lenguas y tradiciones.\n\nReconocer los **aportes** sociales, culturales, políticos y económicos de todos los grupos ayuda a entender cómo se formó tu comunidad.",
-"truco":"Antes y después: comparo cómo vivían y qué aportó cada grupo.",
-"practica":{"ejercicio":"Menciona un alimento que ya existía antes de los europeos y uno que llegó después.","respuesta":"Ya existían: maíz, frijol o calabaza. Llegaron después: trigo o carne de res (también el pollo y el arroz)."},
-"analogias":[{"titulo":"El álbum de fotos","texto":"Las fotos viejas de tu familia muestran cómo se vivía antes. Los restos y relatos del pasado son fotos de la historia."},{"titulo":"Receta con varios ingredientes","texto":"Un guiso lleva ingredientes de varios lugares y por eso sabe como sabe. La sociedad actual también mezcla aportes de muchos grupos."}],
-"ejercicios":[{"ejercicio":"¿Qué es la vida cotidiana?","respuesta":"Las actividades que las personas realizan cada día."},{"ejercicio":"Nombra dos pueblos que vivían en el territorio antes de la llegada de los europeos.","respuesta":"Por ejemplo: mexicas y mayas (también zapotecas o purépechas)."},{"ejercicio":"Reflexiona: ¿por qué es importante reconocer los aportes de grupos distintos? Da dos criterios de respuesta.","respuesta":"Porque todos ayudaron a formar nuestra comunidad y reconocerlos evita discriminar. Una buena respuesta da un ejemplo concreto y muestra respeto."}]}},
-{"nodo_id":"f4-035","titulo":"Símbolos que dan identidad: bandera, escudo e himno","slug":"simbolos-identidad-pertenencia-primaria","palabras":["símbolos","bandera","escudo","himno","identidad","pertenencia","patria"],"contenido":{
-"idea":"Tu equipo favorito tiene camiseta y escudo, y al verlos sientes que formas parte de él. Los símbolos de una comunidad o del país nos hacen sentir que pertenecemos.",
-"pizarron":"Un **símbolo** es una imagen, color, lugar o canto que representa a un grupo y le da **identidad** (quiénes somos) y **pertenencia** (a dónde pertenecemos).\n\nEjemplos:\n- **Lugares sagrados** y territorios importantes para pueblos y comunidades.\n- **Figuras y colores** en artesanías, textiles y fiestas.\n- **Escudos** de entidades y municipios.\n- **Símbolos patrios** de México: bandera, escudo e himno nacional.\n\nEl escudo nacional representa una leyenda del origen de México-Tenochtitlan: un águila posada sobre un nopal, devorando una serpiente. Esos símbolos tienen una historia: surgieron en momentos concretos y su significado se ha transmitido por generaciones.\n\nPara investigar uno, pregunta: ¿quién lo creó o usa?, ¿cuándo surgió?, ¿qué representa?",
-"truco":"Cada símbolo cuenta una historia y une a un grupo.",
-"practica":{"ejercicio":"Menciona los tres símbolos patrios de México.","respuesta":"La bandera, el escudo y el himno nacional."},
-"analogias":[{"titulo":"El apellido de la familia","texto":"Un apellido te une con tu familia y su historia. Un símbolo une a las personas con su comunidad."},{"titulo":"El uniforme escolar","texto":"El uniforme te identifica como parte de tu escuela. Los colores y escudos hacen eso para pueblos y países."}],
-"ejercicios":[{"ejercicio":"¿Qué da un símbolo a una comunidad?","respuesta":"Identidad y sentido de pertenencia."},{"ejercicio":"¿Qué animal y planta aparecen en el escudo nacional?","respuesta":"Un águila y un nopal (con una serpiente)."},{"ejercicio":"Reflexiona: elige un símbolo de tu comunidad y explica qué representa. Da dos criterios de respuesta.","respuesta":"Respuesta personal. Debe nombrar el símbolo, decir qué representa y por qué es importante para la gente de ahí."}]}},
-{"nodo_id":"f4-039","titulo":"Derecho a la protección de tu integridad","slug":"proteccion-integridad-derecho-primaria","palabras":["integridad","maltrato","abuso","bullying","prevención","pedir ayuda","denuncia","derechos de la niñez"],"contenido":{
-"idea":"Tu cuerpo y tus sentimientos son tuyos, como tu mochila. Nadie tiene derecho a lastimarlos, y si alguien lo intenta, puedes pedir ayuda.",
-"pizarron":"**Integridad**: el derecho a estar a salvo en tu cuerpo, tus emociones y tu dignidad. Todas las personas lo tienen y deben respetarlo en los demás.\n\n**Situaciones de riesgo**:\n- **Maltrato**: golpes, gritos humillantes o descuido.\n- **Bullying**: agresiones repetidas de otros compañeros, físicas, verbales o por redes.\n- **Abuso o explotación de tipo sexual**: cualquier contacto o acción que busque aprovecharse de un niño o niña. Nunca es culpa de quien lo vive.\n\n**Prevención**:\n1. Aprende los nombres correctos de tu cuerpo y que es privado.\n2. Di **no** y aléjate si algo te incomoda.\n3. No guardes secretos que te hagan sentir mal o con miedo.\n\n**Pedir ayuda**: cuéntalo a un adulto de confianza, como familia, maestra o maestro, o la dirección de la escuela. Existen instancias para atender y denunciar, como el DIF y las fiscalías.",
-"truco":"Si algo me incomoda: digo no, me alejo y cuento a un adulto de confianza.",
-"practica":{"ejercicio":"Un compañero te empuja y se burla de ti todos los días. ¿Es bullying y qué haces?","respuesta":"Sí, es agresión repetida. Debes decirlo a un adulto de confianza o a la dirección de la escuela y no quedarte callado."},
-"analogias":[{"titulo":"El semáforo","texto":"Verde: me siento bien y seguro. Amarillo: algo me incomoda. Rojo: me lastiman o asustan y debo pedir ayuda de inmediato."},{"titulo":"La red de cuidado","texto":"Como una red que sostiene a quien cae, la familia, la escuela y las instituciones te protegen cuando lo necesitas."}],
-"ejercicios":[{"ejercicio":"¿Qué es la integridad personal?","respuesta":"El derecho a estar protegido en tu cuerpo, emociones y dignidad."},{"ejercicio":"Menciona dos personas a quienes puedes pedir ayuda.","respuesta":"Por ejemplo: un familiar de confianza, tu maestra o maestro, o la directora o director."},{"ejercicio":"Reflexiona: ¿por qué un secreto que te da miedo no debe guardarse? Da dos criterios de respuesta.","respuesta":"Porque puede ser un riesgo y los adultos de confianza pueden protegerte. Una buena respuesta dice que no es tu culpa y que pedir ayuda es correcto."}]}},
-{"nodo_id":"f4-043","titulo":"Organización comunitaria: colaborar por el bienestar","slug":"organizacion-comunitaria-colaboracion-primaria","palabras":["comunidad","colaboración","reciprocidad","cuidado mutuo","tequio","equidad","justicia"],"contenido":{
-"idea":"Cuando todos en casa ayudan a recoger la mesa, el trabajo es rápido y nadie se cansa de más. Una comunidad funciona igual cuando sus integrantes colaboran.",
-"pizarron":"La **organización comunitaria** ocurre cuando personas de una escuela, barrio, pueblo o colectivo se unen para resolver necesidades comunes.\n\nEjemplos del pasado y del presente: el **tequio** o la **faena** (trabajo colectivo para arreglar caminos, escuelas o sistemas de agua), las asambleas, las cooperativas, los comités de vecinos y las brigadas de limpieza.\n\nValores que las sostienen:\n- **Colaboración**: trabajar juntos.\n- **Reciprocidad**: lo que recibes, lo devuelves; hoy ayudas y mañana te ayudan.\n- **Cuidado mutuo**: nos protegemos entre todos.\n\nEl objetivo es el bienestar de todos y crear ambientes **seguros e igualitarios**, con **equidad** (dar a cada persona lo que necesita) y **justicia** (trato justo y respeto a derechos).",
-"truco":"Colaboro, devuelvo y cuido: así gana toda la comunidad.",
-"practica":{"ejercicio":"En un pueblo, las familias trabajan un día para reparar el camino. ¿Qué valor se muestra?","respuesta":"Colaboración (y reciprocidad), porque trabajan juntos por un bien común."},
-"analogias":[{"titulo":"El hormiguero","texto":"Cada hormiga carga un poco y entre todas llevan mucho alimento. Una comunidad logra más cuando cada persona aporta."},{"titulo":"El trabajo en equipo en clase","texto":"En un proyecto en equipo, cada quien hace una parte y se ayuda a quien se atrasa. Así sale mejor para todos."}],
-"ejercicios":[{"ejercicio":"¿Qué es la reciprocidad?","respuesta":"Devolver la ayuda que se recibe, apoyándonos unos a otros."},{"ejercicio":"Menciona dos formas de organización comunitaria.","respuesta":"Por ejemplo: tequio o faena, asamblea, comité de vecinos o cooperativa."},{"ejercicio":"Reflexiona: ¿cómo puedes aportar a que tu escuela sea un lugar seguro e igualitario? Da dos criterios de respuesta.","respuesta":"Ejemplo: incluir a todos en los juegos y avisar si alguien es lastimado. Una buena respuesta es concreta, respeta a todos y beneficia a la comunidad."}]}}
+  {
+    "nodo_id": "f4-007",
+    "titulo": "Valoración de los ecosistemas de tu territorio",
+    "slug": "valoracion-ecosistemas-territorio-primaria",
+    "palabras": [
+      "ecosistema",
+      "territorio",
+      "comunidad",
+      "sustentable",
+      "naturaleza",
+      "preservación"
+    ],
+    "contenido": {
+      "idea": "Un ecosistema es como una casa grande compartida: las plantas, los animales, el agua, el suelo y las personas viven juntos y cada uno hace algo para que la casa funcione.",
+      "pizarron": "**Qué es:** un ecosistema son seres vivos y su ambiente. Vale la pena cuidarlo.\n\nNos da agua, aire y comida.\n\n**Para recordar:**\n- **Territorio:** Es el espacio donde vive una comunidad, con sus características naturales y sociales.\n\n**Para tu escuela:** di qué ecosistema hay cerca de ti.",
+      "truco": "Observo, uso con cuidado y devuelvo: así se preserva.",
+      "practica": {
+        "ejercicio": "Menciona dos elementos con vida y dos sin vida del ecosistema de un río.",
+        "respuesta": "Con vida: peces y plantas acuáticas (también ranas o aves). Sin vida: agua y rocas (también la luz del sol)."
+      },
+      "analogias": [
+        {
+          "titulo": "La despensa familiar",
+          "texto": "Si tu familia gasta toda la comida de la despensa en un día, mañana no habrá nada. Los recursos del ecosistema se cuidan igual: se usa lo necesario y se deja para después."
+        },
+        {
+          "titulo": "El equipo de futbol",
+          "texto": "En un equipo cada jugador cumple una función. Si falta uno, todo el equipo juega peor. En un ecosistema, si desaparece una especie, los demás seres vivos también se afectan."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es un territorio?",
+          "respuesta": "Es el espacio donde vive una comunidad, con sus características naturales y sociales."
+        },
+        {
+          "ejercicio": "Clasifica en bióticos o abióticos: árbol, aire, conejo, suelo.",
+          "respuesta": "Bióticos: árbol y conejo. Abióticos: aire y suelo."
+        },
+        {
+          "ejercicio": "Escribe una acción sustentable que puedas hacer en tu comunidad y por qué ayuda.",
+          "respuesta": "Ejemplo: separar la basura o cerrar la llave mientras te lavas los dientes; ayuda a no contaminar y a ahorrar agua para el futuro. Es válida cualquier acción realista con su razón."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-011",
+    "titulo": "Interculturalidad y sustentabilidad",
+    "slug": "interculturalidad-sustentabilidad-primaria",
+    "palabras": [
+      "interculturalidad",
+      "cultura",
+      "pueblos originarios",
+      "saberes",
+      "sustentabilidad",
+      "respeto"
+    ],
+    "contenido": {
+      "idea": "Imagina una cocina donde varias familias preparan comida juntas: cada una aporta sus recetas y todas aprenden. Así se comparten los saberes entre culturas para cuidar la naturaleza.",
+      "pizarron": "**Qué es:** distintas culturas tienen saberes para cuidar la naturaleza.\n\nLa milpa cuida el suelo.\n\n**Para recordar:**\n- **¿Por qué la sustentabilidad piensa en las generaciones futuras?** Porque los recursos deben alcanzar también para quienes nacerán después.\n\n**Para tu escuela:** pregunta qué saber tiene tu familia sobre plantas.",
+      "truco": "Escuchar y compartir saberes ayuda a cuidar la Tierra.",
+      "practica": {
+        "ejercicio": "Una comunidad siembra maíz junto con frijol y calabaza para no cansar la tierra. ¿Qué tipo de saber es y por qué es sustentable?",
+        "respuesta": "Es un saber tradicional del territorio. Es sustentable porque cuida el suelo y permite seguir sembrando en el futuro."
+      },
+      "analogias": [
+        {
+          "titulo": "El mural",
+          "texto": "Un mural pintado por muchas personas se ve más bello si cada una aporta sus colores. Las culturas aportan sus saberes para formar una sociedad más rica."
+        },
+        {
+          "titulo": "La alcancía",
+          "texto": "Si sacas todo el dinero de tu alcancía, se acaba. Si ahorras y usas con medida, dura. Los recursos naturales funcionan igual."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Define interculturalidad con tus palabras.",
+          "respuesta": "Convivir y aprender entre culturas distintas con respeto e igualdad."
+        },
+        {
+          "ejercicio": "¿Por qué la sustentabilidad piensa en las generaciones futuras?",
+          "respuesta": "Porque los recursos deben alcanzar también para quienes nacerán después."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué harías si un compañero de otra cultura te explica una forma distinta de cuidar el agua? Da dos criterios de una buena respuesta.",
+          "respuesta": "Escucharía con atención y respeto, preguntaría y valoraría su saber. Una buena respuesta evita burlarse o descartarlo y busca aprender o compartirlo."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-015",
+    "titulo": "Cuidado de los ecosistemas: regenerar y preservar",
+    "slug": "cuidado-ecosistemas-regeneracion-primaria",
+    "palabras": [
+      "regeneración",
+      "preservar",
+      "reforestar",
+      "ecosistema",
+      "cuidado",
+      "reciclar"
+    ],
+    "contenido": {
+      "idea": "Un ecosistema es como un jardín: si lo riegas y quitas la basura, florece; si lo pisas y lo ensucias, se marchita. Cuidarlo es tarea de todos.",
+      "pizarron": "**Qué es:** regenerar es ayudar a que un lugar dañado se recupere.\n\nPlantar árboles, limpiar ríos y proteger animales ayuda.\n\n**Para tu escuela:** propón cómo mejorar un lugar verde cercano.",
+      "truco": "Preservar protege lo sano; regenerar repara lo dañado.",
+      "practica": {
+        "ejercicio": "Un arroyo tiene basura. ¿Qué acción es regenerar y cuál es preservar?",
+        "respuesta": "Regenerar: limpiar el arroyo y sembrar plantas en la orilla. Preservar: no volver a tirar basura y cuidar que siga limpio."
+      },
+      "analogias": [
+        {
+          "titulo": "El cuarto ordenado",
+          "texto": "Si ordenas tu cuarto un poco cada día, siempre está limpio. Si esperas meses, cuesta mucho arreglarlo. Cuidar la naturaleza a tiempo también es más fácil."
+        },
+        {
+          "titulo": "La herida que sana",
+          "texto": "Una herida se limpia y se protege para que sane. Un bosque o un río dañado también necesita ayuda para recuperarse."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué significa regenerar un ecosistema?",
+          "respuesta": "Ayudarlo a recuperarse después de haber sido dañado."
+        },
+        {
+          "ejercicio": "Menciona tres acciones para reducir la basura.",
+          "respuesta": "Reducir lo que compras, reutilizar envases y reciclar materiales (también separar residuos)."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿qué acción haría tu escuela para cuidar un área verde? Da dos criterios de una buena respuesta.",
+          "respuesta": "Ejemplo: plantar árboles nativos y regarlos por turnos. Una buena respuesta es realista, involucra a varias personas y explica cómo beneficia al ecosistema."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-019",
+    "titulo": "Prevención ante fenómenos naturales y cuidado solidario",
+    "slug": "prevencion-fenomenos-naturales-primaria",
+    "palabras": [
+      "prevención",
+      "autoprotección",
+      "sismo",
+      "huracán",
+      "protección civil",
+      "solidaridad",
+      "simulacro"
+    ],
+    "contenido": {
+      "idea": "Antes de salir a la calle te pones tu suéter si hace frío. Prevenir es prepararse antes para que un peligro nos dañe menos.",
+      "pizarron": "**La regla:** prepararte reduce el daño ante sismos o huracanes.\n\nConoce salidas, ten una mochila de emergencia y sigue indicaciones.\n\n**Para recordar:**\n- **Autoprotección:** Saber y practicar acciones para cuidarte a ti mismo y a los demás ante un peligro.\n\n**Para tu escuela:** haz la lista de una mochila de emergencia.",
+      "truco": "Prevenir, protegerme y ayudar: tres pasos que cuidan.",
+      "practica": {
+        "ejercicio": "Durante un simulacro de sismo, ¿por qué se debe caminar con calma a la zona segura?",
+        "respuesta": "Porque correr o empujar puede causar caídas y accidentes; con calma todos salen mejor."
+      },
+      "analogias": [
+        {
+          "titulo": "El paraguas",
+          "texto": "Llevar paraguas antes de que llueva evita mojarte. Prepararte antes de un fenómeno natural evita mayor daño."
+        },
+        {
+          "titulo": "La cadena de manos",
+          "texto": "Cuando se pasan cubetas de mano en mano se apaga el fuego más rápido. La solidaridad de muchos ayuda más que el esfuerzo de uno solo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona dos fenómenos naturales que pueden ser peligrosos.",
+          "respuesta": "Por ejemplo: sismo, huracán, inundación, erupción volcánica."
+        },
+        {
+          "ejercicio": "¿Qué es la autoprotección?",
+          "respuesta": "Saber y practicar acciones para cuidarte a ti mismo y a los demás ante un peligro."
+        },
+        {
+          "ejercicio": "Reflexiona: un vecino perdió cosas por una inundación. ¿Cómo podrías mostrar solidaridad? Da dos criterios de respuesta.",
+          "respuesta": "Ejemplo: juntar ropa o alimentos con tu familia y escuela. Una buena respuesta es respetuosa, segura para ti y útil a la persona afectada."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-023",
+    "titulo": "Dónde vives: el territorio de tu entidad",
+    "slug": "territorio-entidad-localizacion-primaria",
+    "palabras": [
+      "entidad",
+      "estado",
+      "territorio",
+      "mapa",
+      "localización",
+      "puntos cardinales",
+      "relieve",
+      "clima"
+    ],
+    "contenido": {
+      "idea": "Tu entidad es como el barrio grande donde está tu casa. Saber cómo es y dónde queda te ayuda a no perderte y a conocer tu hogar.",
+      "pizarron": "**Qué es:** tu entidad es el estado donde vives.\n\nTiene límites, municipios y capital.\n\n**Para tu escuela:** busca tu estado en un mapa y di con quién colinda.",
+      "truco": "Describo cómo es y ubico dónde está.",
+      "practica": {
+        "ejercicio": "¿Cuántas entidades federativas forman México?",
+        "respuesta": "32: 31 estados y la Ciudad de México."
+      },
+      "analogias": [
+        {
+          "titulo": "La dirección de tu casa",
+          "texto": "Para decir dónde vives das calle, número y colonia. Para ubicar tu entidad usas el mapa, los puntos cardinales y las entidades vecinas."
+        },
+        {
+          "titulo": "La ficha de un personaje",
+          "texto": "Un personaje de un juego tiene datos: fuerza, lugar y poderes. Tu entidad tiene su ficha: relieve, clima, agua y actividades."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona tres características que sirven para describir una entidad.",
+          "respuesta": "Por ejemplo: relieve, clima, ríos o mar, vegetación y actividades económicas."
+        },
+        {
+          "ejercicio": "Si una entidad queda al lado izquierdo de otra en el mapa, ¿en qué punto cardinal está respecto a ella?",
+          "respuesta": "Al oeste, con el norte hacia arriba del mapa."
+        },
+        {
+          "ejercicio": "Describe en dos frases tu entidad: un rasgo natural y una actividad de la gente.",
+          "respuesta": "Respuesta personal. Debe incluir un rasgo natural real de tu entidad (clima, río, montaña) y una actividad verdadera de su gente."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-027",
+    "titulo": "México pluricultural: pueblos y comunidades",
+    "slug": "mexico-pluricultural-pueblos-primaria",
+    "palabras": [
+      "pluricultural",
+      "pueblos originarios",
+      "afromexicanos",
+      "migrantes",
+      "igualdad",
+      "dignidad",
+      "derechos",
+      "diversidad"
+    ],
+    "contenido": {
+      "idea": "Una piñata de colores tiene muchos dulces distintos y todos valen. México también tiene muchas personas y culturas, y todas merecen respeto.",
+      "pizarron": "**Qué es:** México es pluricultural: aquí viven muchos pueblos.\n\nNahuas, mayas, zapotecos y afromexicanos, entre otros.\n\nHay 68 lenguas indígenas.\n\n**Para tu escuela:** investiga un pueblo de tu estado.",
+      "truco": "Muchas culturas, una misma dignidad.",
+      "practica": {
+        "ejercicio": "¿Qué significa que México sea pluricultural?",
+        "respuesta": "Que en el país conviven muchas culturas, lenguas y costumbres distintas."
+      },
+      "analogias": [
+        {
+          "titulo": "El mercado",
+          "texto": "En un mercado hay frutas, telas y comidas muy distintas, y todas hacen que sea rico. Nuestro país es más valioso por la variedad de sus pueblos."
+        },
+        {
+          "titulo": "El coro",
+          "texto": "En un coro cada voz es diferente y juntas suenan mejor. Si se silencia una, falta algo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Menciona dos grupos que forman parte de la composición sociocultural de México.",
+          "respuesta": "Por ejemplo: pueblos originarios y afromexicanos (también migrantes)."
+        },
+        {
+          "ejercicio": "¿Qué quiere decir igualdad en dignidad y derechos?",
+          "respuesta": "Que todas las personas valen lo mismo y tienen los mismos derechos."
+        },
+        {
+          "ejercicio": "Reflexiona: un compañero habla una lengua indígena y algunos se burlan. ¿Qué harías? Da dos criterios de respuesta.",
+          "respuesta": "Pediría respeto, le preguntaría sobre su lengua y buscaría incluirlo. Una buena respuesta rechaza la burla y valora la diversidad."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-031",
+    "titulo": "La vida cotidiana antes y durante la Colonia",
+    "slug": "vida-cotidiana-prehispanica-colonia-primaria",
+    "palabras": [
+      "Colonia",
+      "prehispánico",
+      "invasión europea",
+      "pueblos originarios",
+      "historia",
+      "aportes",
+      "Nueva España"
+    ],
+    "contenido": {
+      "idea": "Si preguntas a tus abuelos cómo vivían de niños, te cuentan cosas muy distintas a las de hoy. La historia hace lo mismo: pregunta cómo vivía la gente de antes.",
+      "pizarron": "**Qué es:** es cómo vivía la gente antes de la Conquista y en la Colonia.\n\n**Antes:** milpa, mercados y templos.\n\n**Colonia:** llegan el trigo, el caballo y la Iglesia.\n\n**Para recordar:**\n- **Vida cotidiana:** Las actividades que las personas realizan cada día.\n\n**Para tu escuela:** compara un día de un niño mexica con el tuyo.",
+      "truco": "Antes y después: comparo cómo vivían y qué aportó cada grupo.",
+      "practica": {
+        "ejercicio": "Menciona un alimento que ya existía antes de los europeos y uno que llegó después.",
+        "respuesta": "Ya existían: maíz, frijol o calabaza. Llegaron después: trigo o carne de res (también el pollo y el arroz)."
+      },
+      "analogias": [
+        {
+          "titulo": "El álbum de fotos",
+          "texto": "Las fotos viejas de tu familia muestran cómo se vivía antes. Los restos y relatos del pasado son fotos de la historia."
+        },
+        {
+          "titulo": "Receta con varios ingredientes",
+          "texto": "Un guiso lleva ingredientes de varios lugares y por eso sabe como sabe. La sociedad actual también mezcla aportes de muchos grupos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es la vida cotidiana?",
+          "respuesta": "Las actividades que las personas realizan cada día."
+        },
+        {
+          "ejercicio": "Nombra dos pueblos que vivían en el territorio antes de la llegada de los europeos.",
+          "respuesta": "Por ejemplo: mexicas y mayas (también zapotecas o purépechas)."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿por qué es importante reconocer los aportes de grupos distintos? Da dos criterios de respuesta.",
+          "respuesta": "Porque todos ayudaron a formar nuestra comunidad y reconocerlos evita discriminar. Una buena respuesta da un ejemplo concreto y muestra respeto."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-035",
+    "titulo": "Símbolos que dan identidad: bandera, escudo e himno",
+    "slug": "simbolos-identidad-pertenencia-primaria",
+    "palabras": [
+      "símbolos",
+      "bandera",
+      "escudo",
+      "himno",
+      "identidad",
+      "pertenencia",
+      "patria"
+    ],
+    "contenido": {
+      "idea": "Tu equipo favorito tiene camiseta y escudo, y al verlos sientes que formas parte de él. Los símbolos de una comunidad o del país nos hacen sentir que pertenecemos.",
+      "pizarron": "**Qué es:** los símbolos patrios son la bandera, el escudo y el himno.\n\nRepresentan a México.\n\n**Para recordar:**\n- **¿Qué animal y planta aparecen en el escudo nacional?** Un águila y un nopal (con una serpiente).\n\n**Para tu escuela:** dibuja el escudo y di qué tiene.",
+      "truco": "Cada símbolo cuenta una historia y une a un grupo.",
+      "practica": {
+        "ejercicio": "Menciona los tres símbolos patrios de México.",
+        "respuesta": "La bandera, el escudo y el himno nacional."
+      },
+      "analogias": [
+        {
+          "titulo": "El apellido de la familia",
+          "texto": "Un apellido te une con tu familia y su historia. Un símbolo une a las personas con su comunidad."
+        },
+        {
+          "titulo": "El uniforme escolar",
+          "texto": "El uniforme te identifica como parte de tu escuela. Los colores y escudos hacen eso para pueblos y países."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué da un símbolo a una comunidad?",
+          "respuesta": "Identidad y sentido de pertenencia."
+        },
+        {
+          "ejercicio": "¿Qué animal y planta aparecen en el escudo nacional?",
+          "respuesta": "Un águila y un nopal (con una serpiente)."
+        },
+        {
+          "ejercicio": "Reflexiona: elige un símbolo de tu comunidad y explica qué representa. Da dos criterios de respuesta.",
+          "respuesta": "Respuesta personal. Debe nombrar el símbolo, decir qué representa y por qué es importante para la gente de ahí."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-039",
+    "titulo": "Derecho a la protección de tu integridad",
+    "slug": "proteccion-integridad-derecho-primaria",
+    "palabras": [
+      "integridad",
+      "maltrato",
+      "abuso",
+      "bullying",
+      "prevención",
+      "pedir ayuda",
+      "denuncia",
+      "derechos de la niñez"
+    ],
+    "contenido": {
+      "idea": "Tu cuerpo y tus sentimientos son tuyos, como tu mochila. Nadie tiene derecho a lastimarlos, y si alguien lo intenta, puedes pedir ayuda.",
+      "pizarron": "**La regla:** tienes derecho a que cuiden tu cuerpo y tus sentimientos.\n\nNadie debe lastimarte.\n\nSi pasa, cuéntalo.\n\n**Para tu escuela:** escribe un número de ayuda: el 911.",
+      "truco": "Si algo me incomoda: digo no, me alejo y cuento a un adulto de confianza.",
+      "practica": {
+        "ejercicio": "Un compañero te empuja y se burla de ti todos los días. ¿Es bullying y qué haces?",
+        "respuesta": "Sí, es agresión repetida. Debes decirlo a un adulto de confianza o a la dirección de la escuela y no quedarte callado."
+      },
+      "analogias": [
+        {
+          "titulo": "El semáforo",
+          "texto": "Verde: me siento bien y seguro. Amarillo: algo me incomoda. Rojo: me lastiman o asustan y debo pedir ayuda de inmediato."
+        },
+        {
+          "titulo": "La red de cuidado",
+          "texto": "Como una red que sostiene a quien cae, la familia, la escuela y las instituciones te protegen cuando lo necesitas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es la integridad personal?",
+          "respuesta": "El derecho a estar protegido en tu cuerpo, emociones y dignidad."
+        },
+        {
+          "ejercicio": "Menciona dos personas a quienes puedes pedir ayuda.",
+          "respuesta": "Por ejemplo: un familiar de confianza, tu maestra o maestro, o la directora o director."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿por qué un secreto que te da miedo no debe guardarse? Da dos criterios de respuesta.",
+          "respuesta": "Porque puede ser un riesgo y los adultos de confianza pueden protegerte. Una buena respuesta dice que no es tu culpa y que pedir ayuda es correcto."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "f4-043",
+    "titulo": "Organización comunitaria: colaborar por el bienestar",
+    "slug": "organizacion-comunitaria-colaboracion-primaria",
+    "palabras": [
+      "comunidad",
+      "colaboración",
+      "reciprocidad",
+      "cuidado mutuo",
+      "tequio",
+      "equidad",
+      "justicia"
+    ],
+    "contenido": {
+      "idea": "Cuando todos en casa ayudan a recoger la mesa, el trabajo es rápido y nadie se cansa de más. Una comunidad funciona igual cuando sus integrantes colaboran.",
+      "pizarron": "**Qué es:** organizarse es trabajar juntos para resolver algo.\n\nVecinos limpian un parque.\n\n**Para recordar:**\n- **Reciprocidad:** Devolver la ayuda que se recibe, apoyándonos unos a otros.\n\n**Para tu escuela:** repartan tareas para limpiar el salón.",
+      "truco": "Colaboro, devuelvo y cuido: así gana toda la comunidad.",
+      "practica": {
+        "ejercicio": "En un pueblo, las familias trabajan un día para reparar el camino. ¿Qué valor se muestra?",
+        "respuesta": "Colaboración (y reciprocidad), porque trabajan juntos por un bien común."
+      },
+      "analogias": [
+        {
+          "titulo": "El hormiguero",
+          "texto": "Cada hormiga carga un poco y entre todas llevan mucho alimento. Una comunidad logra más cuando cada persona aporta."
+        },
+        {
+          "titulo": "El trabajo en equipo en clase",
+          "texto": "En un proyecto en equipo, cada quien hace una parte y se ayuda a quien se atrasa. Así sale mejor para todos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Qué es la reciprocidad?",
+          "respuesta": "Devolver la ayuda que se recibe, apoyándonos unos a otros."
+        },
+        {
+          "ejercicio": "Menciona dos formas de organización comunitaria.",
+          "respuesta": "Por ejemplo: tequio o faena, asamblea, comité de vecinos o cooperativa."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿cómo puedes aportar a que tu escuela sea un lugar seguro e igualitario? Da dos criterios de respuesta.",
+          "respuesta": "Ejemplo: incluir a todos en los juegos y avisar si alguien es lastimado. Una buena respuesta es concreta, respeta a todos y beneficia a la comunidad."
+        }
+      ]
+    }
+  }
 ]

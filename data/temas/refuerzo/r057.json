@@ -1,72 +1,438 @@
 [
-{"nodo_id":"f5-013","titulo":"Hecho y opinión","slug":"hecho-y-opinion-primaria","palabras":["hecho","opinión","pensamiento crítico"],"contenido":{
-"idea":"El helado está frío: eso se puede comprobar. El helado es el mejor postre: eso es lo que tú piensas.",
-"pizarron":"**Qué es:** un hecho es algo que se puede comprobar. Una opinión es lo que alguien piensa o siente.\n\n**Hechos:**\n\n*México tiene 32 entidades federativas.*\n\n*El agua hierve a 100 °C al nivel del mar.*\n\n**Opiniones:**\n\n*El verano es la mejor estación.*\n\n*Las matemáticas son divertidas.*\n\nPalabras pista de opinión: *creo, pienso, me parece, el mejor*.\n\nPregunta: ¿se puede comprobar?\n\nSi sí, es hecho. Si depende de la persona, es opinión.",
-"truco":"Si se comprueba, es hecho.",
-"practica":{"ejercicio":"¿*El rojo es el color más bonito* es hecho u opinión?","respuesta":"Opinión."},
-"analogias":[{"titulo":"Regla y gusto","texto":"Una regla mide un hecho; tu gusto decide una opinión."},{"titulo":"El detective","texto":"El detective pide pruebas: si las hay, es un hecho."}],
-"ejercicios":[{"ejercicio":"¿*La Tierra gira alrededor del Sol* es hecho u opinión?","respuesta":"Hecho."},{"ejercicio":"¿*Creo que el futbol es aburrido* es hecho u opinión?","respuesta":"Opinión."},{"ejercicio":"Escribe un hecho y una opinión sobre tu escuela.","respuesta":"El hecho se comprueba; la opinión dice lo que piensas."}]}},
-{"nodo_id":"f5-013","titulo":"Conectores para argumentar","slug":"conectores-para-argumentar-primaria","palabras":["conectores","argumentar","porque","por lo tanto"],"contenido":{
-"idea":"Para convencer a tus papás de algo das razones. Los conectores unen esas razones para que suenen bien.",
-"pizarron":"**Qué es:** los conectores son palabras que unen ideas y muestran su relación.\n\n**Dar razones**: *porque, ya que.*\n\n**Sumar ideas**: *además, también.*\n\n**Contrastar**: *pero, sin embargo.*\n\n**Concluir**: *por lo tanto, en conclusión.*\n\n**Ejemplo:**\n\n*Creo que debe haber más recreo, porque nos ayuda a concentrarnos. Además, hacemos ejercicio. Por lo tanto, aprendemos mejor.*\n\nFórmula: opinión, razón, más razones y conclusión.",
-"truco":"Porque da razón; por lo tanto concluye.",
-"practica":{"ejercicio":"Completa: *Llevo paraguas ___ va a llover.*","respuesta":"*porque*"},
-"analogias":[{"titulo":"Eslabones","texto":"Las ideas son eslabones y el conector las une en una cadena."},{"titulo":"Señales","texto":"Son señales que guían al lector hacia tu conclusión."}],
-"ejercicios":[{"ejercicio":"Completa: *Me gusta el pan; ___, prefiero la fruta.*","respuesta":"*sin embargo*"},{"ejercicio":"Di un conector para concluir.","respuesta":"*Por lo tanto*."},{"ejercicio":"Escribe tres oraciones para pedir más tiempo de lectura.","respuesta":"Debe tener opinión, razón y conclusión con conectores."}]}},
-{"nodo_id":"f5-013","titulo":"Palabras agudas, graves y esdrújulas","slug":"palabras-agudas-graves-y-esdrujulas-primaria","palabras":["agudas","graves","esdrújulas","acento"],"contenido":{
-"idea":"Toda palabra tiene una sílaba que se dice más fuerte. Según dónde esté esa sílaba, la palabra tiene un nombre.",
-"pizarron":"**Qué es:** las palabras se clasifican según su sílaba tónica, la que se pronuncia con más fuerza.\n\nCuenta desde el final:\n\n**Aguda**: fuerte en la última.\n\n*ca-**fé***, *re-**loj***.\n\n**Grave**: fuerte en la penúltima.\n\n***me**-sa*, ***ár**-bol*.\n\n**Esdrújula**: fuerte en la antepenúltima.\n\n***mú**-si-ca*, ***plá**-ta-no*.\n\nPara encontrar la sílaba fuerte, di la palabra en voz alta como si llamaras a alguien.",
-"truco":"Última aguda, penúltima grave, antepenúltima esdrújula.",
-"practica":{"ejercicio":"¿Qué tipo es *pájaro*?","respuesta":"Esdrújula."},
-"analogias":[{"titulo":"El vagón fuerte","texto":"Un vagón del tren va más cargado; su lugar da el nombre a la palabra."},{"titulo":"Tres escalones","texto":"Cuenta escalones desde el final: uno, dos o tres."}],
-"ejercicios":[{"ejercicio":"¿Qué tipo es *canción*?","respuesta":"Aguda."},{"ejercicio":"¿Qué tipo es *lápiz*?","respuesta":"Grave."},{"ejercicio":"¿Qué tipo es *teléfono*?","respuesta":"Esdrújula."}]}},
-{"nodo_id":"f5-013","titulo":"Reglas de acentuación","slug":"reglas-de-acentuacion-primaria","palabras":["acento","tilde","reglas de acentuación"],"contenido":{
-"idea":"La tilde es como una banderita sobre una vocal. Solo se pone cuando las reglas lo piden.",
-"pizarron":"**La regla:**\n\n- Las **agudas** llevan tilde si terminan en vocal, *n* o *s*.\n- Las **graves** llevan tilde si **no** terminan en vocal, *n* o *s*.\n- Las **esdrújulas** llevan tilde siempre.\n\n**Ejemplos:**\n\nAgudas: *café*, *camión*, *compás*. Pero *reloj* no lleva.\n\nGraves: *árbol*, *lápiz*. Pero *mesa* no lleva.\n\nEsdrújulas: *música*, *sábado*.\n\nPasos:\n\n1. Busca la sílaba fuerte.\n2. Mira cómo termina la palabra.\n3. Aplica la regla.",
-"truco":"Aguda en n, s o vocal; grave al revés.",
-"practica":{"ejercicio":"¿Lleva tilde *pajaro*?","respuesta":"Sí: *pájaro*, es esdrújula."},
-"analogias":[{"titulo":"La banderita","texto":"Marca el lugar fuerte de la palabra cuando no se puede adivinar."},{"titulo":"Semáforo","texto":"Primero ves dónde estás y luego decides si avanzas o te detienes."}],
-"ejercicios":[{"ejercicio":"Corrige: *cancion*.","respuesta":"*canción*"},{"ejercicio":"Corrige: *arbol*.","respuesta":"*árbol*"},{"ejercicio":"¿Lleva tilde *pared*?","respuesta":"No, es aguda terminada en d."}]}},
-{"nodo_id":"f5-013","titulo":"Acento diacrítico","slug":"acento-diacritico-primaria","palabras":["acento diacrítico","tú","él","sí","más"],"contenido":{
-"idea":"Dos palabras se escriben igual, pero significan cosas distintas. Una tilde te ayuda a saber cuál es cuál.",
-"pizarron":"**La regla:** el acento diacrítico es la tilde que distingue palabras de una sílaba que se escriben igual y tienen distinto significado.\n\n*tú* (persona) y *tu* (de ti).\n\n*Tú tienes tu libro.*\n\n*él* (persona) y *el* (artículo).\n\n*Él trajo el pan.*\n\n*sí* (afirmación) y *si* (condición).\n\n*Dijo que sí, si puede.*\n\n*más* (cantidad) y *mas* (pero).\n\n*mí* (persona) y *mi* (de mí).\n\n*té* (bebida) y *te* (a ti).\n\n*dé* (de dar) y *de* (preposición).",
-"truco":"Si es persona, lleva tilde: tú, él, mí.",
-"practica":{"ejercicio":"Completa: *___ hermano es alto.* (tu / tú)","respuesta":"*Tu*"},
-"analogias":[{"titulo":"Gemelos con gorra","texto":"Son gemelos: la tilde es la gorra que distingue a uno."},{"titulo":"Etiqueta","texto":"Una marca pequeña evita confundir dos cosas iguales."}],
-"ejercicios":[{"ejercicio":"Completa: *___ llegó tarde.* (el / él)","respuesta":"*Él*"},{"ejercicio":"Completa: *Dame ___ agua, por favor.* (mas / más)","respuesta":"*más*"},{"ejercicio":"Completa: *Quiero un ___ de limón.* (te / té)","respuesta":"*té*"}]}},
-{"nodo_id":"f5-013","titulo":"Punto y coma, y dos puntos","slug":"punto-y-coma-y-dos-puntos-primaria","palabras":["punto y coma","dos puntos","puntuación"],"contenido":{
-"idea":"Dos puntos es como abrir una puerta: dicen lo que viene. Punto y coma es una pausa más larga que un respiro.",
-"pizarron":"**La regla:** los dos puntos anuncian algo que sigue, como una lista o una cita. El punto y coma separa ideas relacionadas con una pausa mayor que la coma.\n\n**Dos puntos**:\n\nLista: *Compré tres cosas: pan, leche y huevos.*\n\nSaludo: *Querida Ana:*\n\nCita: *Dijo: «Ya voy».*\n\n**Punto y coma**:\n\n*Quería ir al parque; sin embargo, llovió.*\n\n*Unos traen fruta; otros, pan.*\n\nDespués de dos puntos no se usa mayúscula, salvo en una cita o saludo.",
-"truco":"Dos puntos anuncian; punto y coma separa.",
-"practica":{"ejercicio":"Pon los signos: *Tengo dos hermanos Ana y Luis.*","respuesta":"*Tengo dos hermanos: Ana y Luis.*"},
-"analogias":[{"titulo":"El presentador","texto":"Los dos puntos anuncian: y ahora, con ustedes..."},{"titulo":"Pausa mediana","texto":"Más larga que la coma y más corta que el punto."}],
-"ejercicios":[{"ejercicio":"Pon el signo: *Estudió mucho sin embargo reprobó.*","respuesta":"*Estudió mucho; sin embargo, reprobó.*"},{"ejercicio":"Pon los signos al saludo: *Estimado Luis*","respuesta":"*Estimado Luis:*"},{"ejercicio":"¿Qué signo va antes de una lista?","respuesta":"Dos puntos."}]}},
-{"nodo_id":"f5-066","titulo":"Figuras literarias básicas","slug":"figuras-literarias-basicas-primaria","palabras":["figuras literarias","símil","metáfora","personificación"],"contenido":{
-"idea":"Decir tus ojos son dos luceros suena más lindo que decir tienes ojos brillantes. Eso es jugar con las palabras.",
-"pizarron":"**Qué es:** las figuras literarias son formas especiales de usar las palabras para embellecer o reforzar lo que se dice.\n\n**Símil**: compara usando *como*.\n\n*Tus ojos brillan como estrellas.*\n\n**Metáfora**: dice que algo es otra cosa.\n\n*Tus ojos son estrellas.*\n\n**Personificación**: da acciones humanas a cosas.\n\n*El viento canta.*\n\n**Hipérbole**: exagera.\n\n*Te lo dije un millón de veces.*\n\n**Rima**: palabras con final parecido.",
-"truco":"Símil usa como; metáfora no.",
-"practica":{"ejercicio":"¿Qué figura es *El sol nos sonríe*?","respuesta":"Personificación."},
-"analogias":[{"titulo":"Maquillaje","texto":"Las figuras maquillan a las palabras para que luzcan más."},{"titulo":"Filtros","texto":"Como un filtro en una foto, cambian cómo vemos algo."}],
-"ejercicios":[{"ejercicio":"¿Qué figura es *Tengo hambre de mil años*?","respuesta":"Hipérbole."},{"ejercicio":"¿Qué figura es *Corre como el viento*?","respuesta":"Símil."},{"ejercicio":"Escribe una metáfora sobre la luna.","respuesta":"Ejemplo: *La luna es una moneda de plata*."}]}},
-{"nodo_id":"f5-066","titulo":"Verso, estrofa y rima","slug":"verso-estrofa-y-rima-primaria","palabras":["poema","verso","estrofa","rima"],"contenido":{
-"idea":"Un poema se ve distinto: renglones cortos que parecen una canción. Cada renglón tiene un nombre.",
-"pizarron":"**Qué es:** el verso es cada línea de un poema. La estrofa es un grupo de versos. La rima es la coincidencia de sonidos al final de los versos.\n\n**Ejemplo:**\n\n*La luna redonda*\n\n*se esconde en la onda.*\n\n*El sol amarillo*\n\n*calienta el ladrillo.*\n\nAquí hay 4 versos y 1 estrofa.\n\n*Redonda* rima con *onda*.\n\n*Amarillo* rima con *ladrillo*.\n\nLa rima se oye desde la última vocal fuerte.",
-"truco":"Línea es verso; grupo es estrofa.",
-"practica":{"ejercicio":"¿Con qué rima *canción*?","respuesta":"Ejemplo: *corazón*."},
-"analogias":[{"titulo":"Canción","texto":"Una canción tiene líneas y partes, igual que un poema."},{"titulo":"Ladrillos","texto":"Los versos son ladrillos y la estrofa es un muro pequeño."}],
-"ejercicios":[{"ejercicio":"¿Cómo se llama un grupo de versos?","respuesta":"Estrofa."},{"ejercicio":"¿Rima *gato* con *zapato*?","respuesta":"Sí."},{"ejercicio":"Escribe dos versos que rimen.","respuesta":"Sus finales deben sonar parecido."}]}},
-{"nodo_id":"f5-017","titulo":"Comprensión lectora: inferir","slug":"comprension-lectora-inferir-primaria","palabras":["inferir","comprensión","deducir"],"contenido":{
-"idea":"Ves a tu amigo con paraguas mojado y sabes que afuera llueve, aunque nadie te lo dijo. Eso es inferir.",
-"pizarron":"**Qué es:** inferir es descubrir algo que el texto no dice directamente, usando pistas y lo que ya sabes.\n\n**Fórmula:**\n\npistas del texto + lo que sé = inferencia.\n\n**Ejemplo:**\n\n*Sofía sopló las velas y abrió sus regalos.*\n\nEl texto no dice *cumpleaños*.\n\nPero las velas y los regalos son pistas.\n\nInferencia: es el cumpleaños de Sofía.\n\nSiempre debes poder señalar la pista que usaste.",
-"truco":"Pistas más lo que sabes.",
-"practica":{"ejercicio":"*Luis se tapó la nariz al abrir el bote.* ¿Qué infieres?","respuesta":"Que olía mal."},
-"analogias":[{"titulo":"Detective","texto":"Junta huellas para saber lo que pasó sin haberlo visto."},{"titulo":"Rompecabezas","texto":"Ves algunas piezas y adivinas la imagen completa."}],
-"ejercicios":[{"ejercicio":"*Ana bostezó y se frotó los ojos.* ¿Qué infieres?","respuesta":"Que tiene sueño."},{"ejercicio":"*El pasto estaba mojado al amanecer.* Di una causa posible.","respuesta":"Llovió o hubo rocío."},{"ejercicio":"¿Qué dos cosas usas para inferir?","respuesta":"Pistas del texto y lo que ya sabes."}]}},
-{"nodo_id":"f5-017","titulo":"Resumen y paráfrasis","slug":"resumen-y-parafrasis-primaria","palabras":["resumen","paráfrasis","redacción"],"contenido":{
-"idea":"Un resumen cuenta lo importante en poco. Una paráfrasis cuenta lo mismo, pero con tus propias palabras.",
-"pizarron":"**Qué es:** un resumen presenta las ideas principales de un texto en menos palabras. Una paráfrasis dice las ideas de un texto con otras palabras.\n\n**Cómo resumir:**\n\n1. Lee todo.\n2. Subraya lo importante.\n3. Quita ejemplos y repeticiones.\n4. Escribe con pocas oraciones.\n\n**Paráfrasis:**\n\nOriginal: *Los árboles producen oxígeno y dan sombra.*\n\nParáfrasis: *Gracias a los árboles tenemos oxígeno y lugares frescos.*\n\nNo copies palabra por palabra.",
-"truco":"Resumen acorta; paráfrasis cambia palabras.",
-"practica":{"ejercicio":"¿Qué quitas al resumir?","respuesta":"Ejemplos y repeticiones."},
-"analogias":[{"titulo":"Tráiler","texto":"El resumen es el tráiler de una película."},{"titulo":"Traducir a tu idioma","texto":"Parafrasear es decirlo como lo dirías a un amigo."}],
-"ejercicios":[{"ejercicio":"Parafrasea: *El agua es vital para la vida.*","respuesta":"Ejemplo: *Sin agua no podríamos vivir.*"},{"ejercicio":"Resume un cuento en tres oraciones.","respuesta":"Debe decir inicio, problema y final."},{"ejercicio":"¿Cuál es más corto, el resumen o el texto original?","respuesta":"El resumen."}]}}
+{
+"nodo_id": "f5-013",
+"titulo": "Hecho y opinión",
+"slug": "hecho-y-opinion-primaria",
+"palabras": [
+"hecho",
+"opinión",
+"pensamiento crítico"
+],
+"contenido": {
+"idea": "El helado está frío: eso se puede comprobar. El helado es el mejor postre: eso es lo que tú piensas.",
+"pizarron": "**Qué es:** un hecho es algo que se puede comprobar. Una opinión es lo que alguien piensa o siente.\n\n**Hechos:**\n\n*México tiene 32 entidades federativas.*\n\n*El agua hierve a 100 °C al nivel del mar.*\n\n**Opiniones:**\n\n*El verano es la mejor estación.*\n\n*Las matemáticas son divertidas.*\n\nPalabras pista de opinión: *creo, pienso, me parece, el mejor*.\n\nPregunta: ¿se puede comprobar?\n\nSi sí, es hecho. Si depende de la persona, es opinión.",
+"truco": "Si se comprueba, es hecho.",
+"practica": {
+"ejercicio": "¿*El rojo es el color más bonito* es hecho u opinión?",
+"respuesta": "Opinión."
+},
+"analogias": [
+{
+"titulo": "Regla y gusto",
+"texto": "Una regla mide un hecho; tu gusto decide una opinión."
+},
+{
+"titulo": "El detective",
+"texto": "El detective pide pruebas: si las hay, es un hecho."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿*La Tierra gira alrededor del Sol* es hecho u opinión?",
+"respuesta": "Hecho."
+},
+{
+"ejercicio": "¿*Creo que el futbol es aburrido* es hecho u opinión?",
+"respuesta": "Opinión."
+},
+{
+"ejercicio": "Escribe un hecho y una opinión sobre tu escuela.",
+"respuesta": "El hecho se comprueba; la opinión dice lo que piensas."
+}
+]
+}
+},
+{
+"nodo_id": "f5-013",
+"titulo": "Conectores para argumentar",
+"slug": "conectores-para-argumentar-primaria",
+"palabras": [
+"conectores",
+"argumentar",
+"porque",
+"por lo tanto"
+],
+"contenido": {
+"idea": "Para convencer a tus papás de algo das razones. Los conectores unen esas razones para que suenen bien.",
+"pizarron": "**Qué es:** los conectores son palabras que unen ideas y muestran su relación.\n\n**Dar razones**: *porque, ya que.*\n\n**Sumar ideas**: *además, también.*\n\n**Contrastar**: *pero, sin embargo.*\n\n**Concluir**: *por lo tanto, en conclusión.*\n\n**Ejemplo:**\n\n*Creo que debe haber más recreo, porque nos ayuda a concentrarnos. Además, hacemos ejercicio. Por lo tanto, aprendemos mejor.*\n\nFórmula: opinión, razón, más razones y conclusión.",
+"truco": "Porque da razón; por lo tanto concluye.",
+"practica": {
+"ejercicio": "Completa: *Llevo paraguas ___ va a llover.*",
+"respuesta": "*porque*"
+},
+"analogias": [
+{
+"titulo": "Eslabones",
+"texto": "Las ideas son eslabones y el conector las une en una cadena."
+},
+{
+"titulo": "Señales",
+"texto": "Son señales que guían al lector hacia tu conclusión."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *Me gusta el pan; ___, prefiero la fruta.*",
+"respuesta": "*sin embargo*"
+},
+{
+"ejercicio": "Di un conector para concluir.",
+"respuesta": "*Por lo tanto*."
+},
+{
+"ejercicio": "Escribe tres oraciones para pedir más tiempo de lectura.",
+"respuesta": "Debe tener opinión, razón y conclusión con conectores."
+}
+]
+}
+},
+{
+"nodo_id": "f5-013",
+"titulo": "Palabras agudas, graves y esdrújulas",
+"slug": "palabras-agudas-graves-y-esdrujulas-primaria",
+"palabras": [
+"agudas",
+"graves",
+"esdrújulas",
+"acento"
+],
+"contenido": {
+"idea": "Toda palabra tiene una sílaba que se dice más fuerte. Según dónde esté esa sílaba, la palabra tiene un nombre.",
+"pizarron": "**Qué es:** las palabras se clasifican según su sílaba tónica, la que se pronuncia con más fuerza.\n\nCuenta desde el final:\n\n**Aguda**: fuerte en la última.\n\n*ca-**fé***, *re-**loj***.\n\n**Grave**: fuerte en la penúltima.\n\n***me**-sa*, ***ár**-bol*.\n\n**Esdrújula**: fuerte en la antepenúltima.\n\n***mú**-si-ca*, ***plá**-ta-no*.\n\nPara encontrar la sílaba fuerte, di la palabra en voz alta como si llamaras a alguien.",
+"truco": "Última aguda, penúltima grave, antepenúltima esdrújula.",
+"practica": {
+"ejercicio": "¿Qué tipo es *pájaro*?",
+"respuesta": "Esdrújula."
+},
+"analogias": [
+{
+"titulo": "El vagón fuerte",
+"texto": "Un vagón del tren va más cargado; su lugar da el nombre a la palabra."
+},
+{
+"titulo": "Tres escalones",
+"texto": "Cuenta escalones desde el final: uno, dos o tres."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo es *canción*?",
+"respuesta": "Aguda."
+},
+{
+"ejercicio": "¿Qué tipo es *lápiz*?",
+"respuesta": "Grave."
+},
+{
+"ejercicio": "¿Qué tipo es *teléfono*?",
+"respuesta": "Esdrújula."
+}
+]
+}
+},
+{
+"nodo_id": "f5-013",
+"titulo": "Reglas de acentuación",
+"slug": "reglas-de-acentuacion-primaria",
+"palabras": [
+"acento",
+"tilde",
+"reglas de acentuación"
+],
+"contenido": {
+"idea": "La tilde es como una banderita sobre una vocal. Solo se pone cuando las reglas lo piden.",
+"pizarron": "**La regla:**\n\n- Las **agudas** llevan tilde si terminan en vocal, *n* o *s*.\n- Las **graves** llevan tilde si **no** terminan en vocal, *n* o *s*.\n- Las **esdrújulas** llevan tilde siempre.\n\n**Ejemplos:**\n\nAgudas: *café*, *camión*, *compás*. Pero *reloj* no lleva.\n\nGraves: *árbol*, *lápiz*. Pero *mesa* no lleva.\n\nEsdrújulas: *música*, *sábado*.\n\nPasos:\n\n1. Busca la sílaba fuerte.\n2. Mira cómo termina la palabra.\n3. Aplica la regla.",
+"truco": "Aguda en n, s o vocal; grave al revés.",
+"practica": {
+"ejercicio": "¿Lleva tilde *pajaro*?",
+"respuesta": "Sí: *pájaro*, es esdrújula."
+},
+"analogias": [
+{
+"titulo": "La banderita",
+"texto": "Marca el lugar fuerte de la palabra cuando no se puede adivinar."
+},
+{
+"titulo": "Semáforo",
+"texto": "Primero ves dónde estás y luego decides si avanzas o te detienes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *cancion*.",
+"respuesta": "*canción*"
+},
+{
+"ejercicio": "Corrige: *arbol*.",
+"respuesta": "*árbol*"
+},
+{
+"ejercicio": "¿Lleva tilde *pared*?",
+"respuesta": "No, es aguda terminada en d."
+}
+]
+}
+},
+{
+"nodo_id": "f5-013",
+"titulo": "Acento diacrítico",
+"slug": "acento-diacritico-primaria",
+"palabras": [
+"acento diacrítico",
+"tú",
+"él",
+"sí",
+"más"
+],
+"contenido": {
+"idea": "Dos palabras se escriben igual, pero significan cosas distintas. Una tilde te ayuda a saber cuál es cuál.",
+"pizarron": "**La regla:** el acento diacrítico es la tilde que distingue palabras de una sílaba que se escriben igual y tienen distinto significado.\n\n*tú* (persona) y *tu* (de ti).\n\n*Tú tienes tu libro.*\n\n*él* (persona) y *el* (artículo).\n\n*Él trajo el pan.*\n\n*sí* (afirmación) y *si* (condición).\n\n*Dijo que sí, si puede.*\n\n*más* (cantidad) y *mas* (pero).\n\n*mí* (persona) y *mi* (de mí).\n\n*té* (bebida) y *te* (a ti).\n\n*dé* (de dar) y *de* (preposición).",
+"truco": "Si es persona, lleva tilde: tú, él, mí.",
+"practica": {
+"ejercicio": "Completa: *___ hermano es alto.* (tu / tú)",
+"respuesta": "*Tu*"
+},
+"analogias": [
+{
+"titulo": "Gemelos con gorra",
+"texto": "Son gemelos: la tilde es la gorra que distingue a uno."
+},
+{
+"titulo": "Etiqueta",
+"texto": "Una marca pequeña evita confundir dos cosas iguales."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *___ llegó tarde.* (el / él)",
+"respuesta": "*Él*"
+},
+{
+"ejercicio": "Completa: *Dame ___ agua, por favor.* (mas / más)",
+"respuesta": "*más*"
+},
+{
+"ejercicio": "Completa: *Quiero un ___ de limón.* (te / té)",
+"respuesta": "*té*"
+}
+]
+}
+},
+{
+"nodo_id": "f5-013",
+"titulo": "Punto y coma, y dos puntos",
+"slug": "punto-y-coma-y-dos-puntos-primaria",
+"palabras": [
+"punto y coma",
+"dos puntos",
+"puntuación"
+],
+"contenido": {
+"idea": "Dos puntos es como abrir una puerta: dicen lo que viene. Punto y coma es una pausa más larga que un respiro.",
+"pizarron": "**La regla:** los dos puntos anuncian algo que sigue, como una lista o una cita. El punto y coma separa ideas relacionadas con una pausa mayor que la coma.\n\n**Dos puntos**:\n\nLista: *Compré tres cosas: pan, leche y huevos.*\n\nSaludo: *Querida Ana:*\n\nCita: *Dijo: «Ya voy».*\n\n**Punto y coma**:\n\n*Quería ir al parque; sin embargo, llovió.*\n\n*Unos traen fruta; otros, pan.*\n\nDespués de dos puntos no se usa mayúscula, salvo en una cita o saludo.",
+"truco": "Dos puntos anuncian; punto y coma separa.",
+"practica": {
+"ejercicio": "Pon los signos: *Tengo dos hermanos Ana y Luis.*",
+"respuesta": "*Tengo dos hermanos: Ana y Luis.*"
+},
+"analogias": [
+{
+"titulo": "El presentador",
+"texto": "Los dos puntos anuncian: y ahora, con ustedes..."
+},
+{
+"titulo": "Pausa mediana",
+"texto": "Más larga que la coma y más corta que el punto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pon el signo: *Estudió mucho sin embargo reprobó.*",
+"respuesta": "*Estudió mucho; sin embargo, reprobó.*"
+},
+{
+"ejercicio": "Pon los signos al saludo: *Estimado Luis*",
+"respuesta": "*Estimado Luis:*"
+},
+{
+"ejercicio": "¿Qué signo va antes de una lista?",
+"respuesta": "Dos puntos."
+}
+]
+}
+},
+{
+"nodo_id": "f5-066",
+"titulo": "Figuras literarias básicas",
+"slug": "figuras-literarias-basicas-primaria",
+"palabras": [
+"figuras literarias",
+"símil",
+"metáfora",
+"personificación"
+],
+"contenido": {
+"idea": "Decir tus ojos son dos luceros suena más lindo que decir tienes ojos brillantes. Eso es jugar con las palabras.",
+"pizarron": "**Qué es:** las figuras literarias son formas especiales de usar las palabras para embellecer o reforzar lo que se dice.\n\n**Símil**: compara usando *como*.\n\n*Tus ojos brillan como estrellas.*\n\n**Metáfora**: dice que algo es otra cosa.\n\n*Tus ojos son estrellas.*\n\n**Personificación**: da acciones humanas a cosas.\n\n*El viento canta.*\n\n**Hipérbole**: exagera.\n\n*Te lo dije un millón de veces.*\n\n**Rima**: palabras con final parecido.",
+"truco": "Símil usa como; metáfora no.",
+"practica": {
+"ejercicio": "¿Qué figura es *El sol nos sonríe*?",
+"respuesta": "Personificación."
+},
+"analogias": [
+{
+"titulo": "Maquillaje",
+"texto": "Las figuras maquillan a las palabras para que luzcan más."
+},
+{
+"titulo": "Filtros",
+"texto": "Como un filtro en una foto, cambian cómo vemos algo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué figura es *Tengo hambre de mil años*?",
+"respuesta": "Hipérbole."
+},
+{
+"ejercicio": "¿Qué figura es *Corre como el viento*?",
+"respuesta": "Símil."
+},
+{
+"ejercicio": "Escribe una metáfora sobre la luna.",
+"respuesta": "Ejemplo: *La luna es una moneda de plata*."
+}
+]
+}
+},
+{
+"nodo_id": "f5-066",
+"titulo": "Verso, estrofa y rima",
+"slug": "verso-estrofa-y-rima-primaria",
+"palabras": [
+"poema",
+"verso",
+"estrofa",
+"rima"
+],
+"contenido": {
+"idea": "Un poema se ve distinto: renglones cortos que parecen una canción. Cada renglón tiene un nombre.",
+"pizarron": "**Qué es:** el verso es cada línea de un poema. La estrofa es un grupo de versos. La rima es la coincidencia de sonidos al final de los versos.\n\n**Ejemplo:**\n\n*La luna redonda*\n\n*se esconde en la onda.*\n\n*El sol amarillo*\n\n*calienta el ladrillo.*\n\nAquí hay 4 versos y 1 estrofa.\n\n*Redonda* rima con *onda*.\n\n*Amarillo* rima con *ladrillo*.\n\nLa rima se oye desde la última vocal fuerte.",
+"truco": "Línea es verso; grupo es estrofa.",
+"practica": {
+"ejercicio": "¿Con qué rima *canción*?",
+"respuesta": "Ejemplo: *corazón*."
+},
+"analogias": [
+{
+"titulo": "Canción",
+"texto": "Una canción tiene líneas y partes, igual que un poema."
+},
+{
+"titulo": "Ladrillos",
+"texto": "Los versos son ladrillos y la estrofa es un muro pequeño."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cómo se llama un grupo de versos?",
+"respuesta": "Estrofa."
+},
+{
+"ejercicio": "¿Rima *gato* con *zapato*?",
+"respuesta": "Sí."
+},
+{
+"ejercicio": "Escribe dos versos que rimen.",
+"respuesta": "Sus finales deben sonar parecido."
+}
+]
+}
+},
+{
+"nodo_id": "f5-017",
+"titulo": "Comprensión lectora: inferir",
+"slug": "comprension-lectora-inferir-primaria",
+"palabras": [
+"inferir",
+"comprensión",
+"deducir"
+],
+"contenido": {
+"idea": "Ves a tu amigo con paraguas mojado y sabes que afuera llueve, aunque nadie te lo dijo. Eso es inferir.",
+"pizarron": "**Qué es:** inferir es descubrir algo que el texto no dice directamente, usando pistas y lo que ya sabes.\n\n**Fórmula:**\n\npistas del texto + lo que sé = inferencia.\n\n**Ejemplo:**\n\n*Sofía sopló las velas y abrió sus regalos.*\n\nEl texto no dice *cumpleaños*.\n\nPero las velas y los regalos son pistas.\n\nInferencia: es el cumpleaños de Sofía.\n\nSiempre debes poder señalar la pista que usaste.",
+"truco": "Pistas más lo que sabes.",
+"practica": {
+"ejercicio": "*Luis se tapó la nariz al abrir el bote.* ¿Qué infieres?",
+"respuesta": "Que olía mal."
+},
+"analogias": [
+{
+"titulo": "Detective",
+"texto": "Junta huellas para saber lo que pasó sin haberlo visto."
+},
+{
+"titulo": "Rompecabezas",
+"texto": "Ves algunas piezas y adivinas la imagen completa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "*Ana bostezó y se frotó los ojos.* ¿Qué infieres?",
+"respuesta": "Que tiene sueño."
+},
+{
+"ejercicio": "*El pasto estaba mojado al amanecer.* Di una causa posible.",
+"respuesta": "Llovió o hubo rocío."
+},
+{
+"ejercicio": "¿Qué dos cosas usas para inferir?",
+"respuesta": "Pistas del texto y lo que ya sabes."
+}
+]
+}
+},
+{
+"nodo_id": "f5-017",
+"titulo": "Resumen y paráfrasis",
+"slug": "resumen-y-parafrasis-primaria",
+"palabras": [
+"resumen",
+"paráfrasis",
+"redacción"
+],
+"contenido": {
+"idea": "Un resumen cuenta lo importante en poco. Una paráfrasis cuenta lo mismo, pero con tus propias palabras.",
+"pizarron": "**Qué es:** un resumen presenta las ideas principales de un texto en menos palabras. Una paráfrasis dice las ideas de un texto con otras palabras.\n\n**Cómo resumir:**\n\n1. Lee todo.\n2. Subraya lo importante.\n3. Quita ejemplos y repeticiones.\n4. Escribe con pocas oraciones.\n\n**Paráfrasis:**\n\nOriginal: *Los árboles producen oxígeno y dan sombra.*\n\nParáfrasis: *Gracias a los árboles tenemos oxígeno y lugares frescos.*\n\nNo copies palabra por palabra.",
+"truco": "Resumen acorta; paráfrasis cambia palabras.",
+"practica": {
+"ejercicio": "¿Qué quitas al resumir?",
+"respuesta": "Ejemplos y repeticiones."
+},
+"analogias": [
+{
+"titulo": "Tráiler",
+"texto": "El resumen es el tráiler de una película."
+},
+{
+"titulo": "Traducir a tu idioma",
+"texto": "Parafrasear es decirlo como lo dirías a un amigo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Parafrasea: *El agua es vital para la vida.*",
+"respuesta": "Ejemplo: *Sin agua no podríamos vivir.*"
+},
+{
+"ejercicio": "Resume un cuento en tres oraciones.",
+"respuesta": "Debe decir inicio, problema y final."
+},
+{
+"ejercicio": "¿Cuál es más corto, el resumen o el texto original?",
+"respuesta": "El resumen."
+}
+]
+}
+}
 ]

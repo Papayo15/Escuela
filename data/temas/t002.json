@@ -1,72 +1,453 @@
 [
-{"nodo_id":"ems-011","titulo":"Operaciones con polinomios y trinomios","slug":"polinomios-trinomios-preparatoria","palabras":["polinomio","trinomio","términos semejantes","suma de polinomios","producto de polinomios"],"contenido":{
-"idea":"Imagina una mochila con libros, cuadernos y plumas. Solo juntas libros con libros y plumas con plumas. Un polinomio es esa mochila con cosas distintas.",
-"pizarron":"Un polinomio es una suma de términos con variable y exponente entero; un trinomio tiene tres términos.\n\n1. Para sumar o restar, agrupa términos semejantes (misma letra y mismo exponente) y opera los coeficientes.\n2. Al restar, cambia el signo de todo el segundo polinomio.\n3. Para multiplicar, multiplica cada término por cada término y reduce.\n\nEjemplo: $(x^2+3x+2)+(2x^2-x+5)=3x^2+2x+7$.\n\nProducto: $(x+2)(x+3)=x^2+3x+2x+6=x^2+5x+6$.",
-"truco":"Misma letra y mismo exponente se juntan.",
-"practica":{"ejercicio":"Suma $(x^2+4x+1)+(3x^2-2x+6)$.","respuesta":"$4x^2+2x+7$"},
-"analogias":[{"titulo":"La frutería","texto":"Sumas manzanas con manzanas y peras con peras; no mezclas frutas distintas en una misma cuenta."},{"titulo":"Cajones de ropa","texto":"Cada exponente es un cajón: playeras con playeras, calcetines con calcetines. Reducir es ordenar cada cajón."}],
-"ejercicios":[{"ejercicio":"Resta $(5x^2-3x+2)-(2x^2+x-4)$.","respuesta":"$3x^2-4x+6$"},{"ejercicio":"Multiplica $(x+4)(x-2)$.","respuesta":"$x^2+2x-8$"},{"ejercicio":"Un terreno mide $(x+5)$ por $(x+1)$ metros. Escribe su área.","respuesta":"$x^2+6x+5$ metros cuadrados"}]}},
-{"nodo_id":"ems-012","titulo":"Álgebra en situaciones de la vida real","slug":"algebra-situaciones-reales-preparatoria","palabras":["álgebra","modelo","fórmula","variable","aplicaciones"],"contenido":{
-"idea":"Una receta dice que por cada persona usas dos tortillas. Si no sabes cuántas personas vienen, usas una letra. Eso es el álgebra: recetas con letras.",
-"pizarron":"El álgebra describe situaciones con letras (variables) y operaciones.\n\n1. Identifica qué cantidad cambia y ponle una letra.\n2. Escribe la relación como expresión o fórmula.\n3. Sustituye valores o despeja la letra que buscas.\n\nEjemplo: un plan cobra 100 pesos fijos más 3 pesos por mensaje: $C=100+3n$. Con $n=20$, $C=160$ pesos. Si $C=250$, entonces $3n=150$ y $n=50$.\n\nFórmulas conocidas: $d=vt$ (distancia) y $F=1.8C+32$ (temperatura).",
-"truco":"Nombra, escribe, sustituye y despeja.",
-"practica":{"ejercicio":"Con $C=100+3n$, ¿cuánto cuesta enviar 30 mensajes?","respuesta":"$100+90=190$ pesos"},
-"analogias":[{"titulo":"La tabla de tarifas","texto":"Una fórmula es como una tabla de tarifas que sirve para cualquier número, sin escribir cada caso."},{"titulo":"La caja registradora","texto":"Metes un dato, la fórmula lo procesa y sale un resultado, igual que al cobrar en la caja."}],
-"ejercicios":[{"ejercicio":"Un auto va a 80 km/h durante 3 horas. ¿Qué distancia recorre con $d=vt$?","respuesta":"$80\\times3=240$ km"},{"ejercicio":"Convierte 25 grados Celsius con $F=1.8C+32$.","respuesta":"$45+32=77$ grados Fahrenheit"},{"ejercicio":"Con $C=100+3n$, ¿cuántos mensajes se enviaron si se pagaron 190 pesos?","respuesta":"$3n=90$, entonces $n=30$"}]}},
-{"nodo_id":"ems-013","titulo":"Concepto de ecuación","slug":"concepto-ecuacion-preparatoria","palabras":["ecuación","igualdad","incógnita","despejar","balanza"],"contenido":{
-"idea":"Una balanza está equilibrada con una bolsa misteriosa y 5 canicas de un lado, y 20 canicas del otro. Quitas 5 de cada lado y sabes cuántas hay en la bolsa.",
-"pizarron":"Una ecuación es una igualdad con una incógnita, una letra cuyo valor buscamos. Solo es verdadera para ciertos valores.\n\nRegla de oro: lo que haces de un lado, lo haces del otro.\n\nEjemplo: $3x+5=20$.\n\n1. Resta 5 en ambos lados: $3x=15$.\n2. Divide entre 3: $x=5$.\n3. Comprueba: $3(5)+5=20$. Es correcto.\n\nEl valor que cumple la igualdad se llama solución.",
-"truco":"Lo que haces de un lado, hazlo del otro.",
-"practica":{"ejercicio":"Resuelve $5x=35$.","respuesta":"$x=7$"},
-"analogias":[{"titulo":"El sube y baja","texto":"Si quitas peso de un lado, debes quitar lo mismo del otro para que siga nivelado."},{"titulo":"Adivinanza numérica","texto":"Pienso un número, lo duplico y suma 3; da 11. Deshaces los pasos al revés y descubres que era 4."}],
-"ejercicios":[{"ejercicio":"Resuelve $x+7=15$.","respuesta":"$x=8$"},{"ejercicio":"Resuelve $4x-3=17$.","respuesta":"$4x=20$, entonces $x=5$"},{"ejercicio":"Resuelve $2(x+1)=14$.","respuesta":"$x+1=7$, entonces $x=6$"}]}},
-{"nodo_id":"ems-014","titulo":"Ecuaciones lineales con una incógnita","slug":"ecuaciones-lineales-una-incognita-preparatoria","palabras":["ecuación lineal","primer grado","despeje","incógnita","transposición"],"contenido":{
-"idea":"Tienes dos bolsas de dulces y 3 sueltos, y tu amigo tiene una bolsa y 8 sueltos. Si tienen lo mismo, quitas lo igual de ambos lados y averiguas cuántos dulces trae cada bolsa.",
-"pizarron":"Una ecuación lineal tiene la incógnita con exponente 1: $ax+b=c$.\n\nPasos:\n1. Quita paréntesis y fracciones.\n2. Reúne las $x$ de un lado y los números del otro.\n3. Reduce términos semejantes.\n4. Despeja dividiendo entre el coeficiente.\n5. Comprueba.\n\nEjemplo: $3x+7=2x+12$. Restas $2x$: $x+7=12$. Restas 7: $x=5$. Comprobación: $22=22$.",
-"truco":"Letras a un lado, números al otro.",
-"practica":{"ejercicio":"Resuelve $2x+9=21$.","respuesta":"$2x=12$, entonces $x=6$"},
-"analogias":[{"titulo":"Mover muebles","texto":"Pasar un término al otro lado cambia su signo, como mover un mueble a otro cuarto y ponerlo al revés."},{"titulo":"Deshacer pasos","texto":"Como quitar la ropa en orden inverso al que te la pusiste, deshaces las operaciones desde la última."}],
-"ejercicios":[{"ejercicio":"Resuelve $5x-4=3x+10$.","respuesta":"$2x=14$, entonces $x=7$"},{"ejercicio":"Resuelve $\\frac{x}{3}+2=6$.","respuesta":"$\\frac{x}{3}=4$, entonces $x=12$"},{"ejercicio":"Tres boletos y 20 pesos de dulces cuestan 170 pesos. ¿Cuánto cuesta un boleto?","respuesta":"$3b+20=170$, $3b=150$, $b=50$ pesos"}]}},
-{"nodo_id":"ems-015","titulo":"Ecuaciones lineales con dos incógnitas","slug":"ecuaciones-lineales-dos-incognitas-preparatoria","palabras":["dos incógnitas","sistema 2x2","x y y","ecuaciones simultáneas"],"contenido":{
-"idea":"Sabes que entre dos amigos tienen 10 canicas y que uno tiene 4 más que el otro. Con las dos pistas juntas descubres cuántas tiene cada uno.",
-"pizarron":"Una ecuación con dos incógnitas, como $x+y=10$, tiene muchas soluciones. Con dos ecuaciones independientes se obtiene una sola pareja $(x,y)$.\n\nEjemplo: $x+y=10$ y $x-y=4$.\n\n1. Suma las ecuaciones: $2x=14$, entonces $x=7$.\n2. Sustituye en la primera: $7+y=10$, entonces $y=3$.\n3. Comprueba: $7-3=4$. Es correcto.\n\nPlantea siempre qué representa cada letra antes de empezar.",
-"truco":"Elimina una letra, resuelve y regresa.",
-"practica":{"ejercicio":"Resuelve $x+y=9$ y $x-y=1$.","respuesta":"$x=5$, $y=4$"},
-"analogias":[{"titulo":"Dos pistas","texto":"Una pista sola da muchos sospechosos; dos pistas juntas señalan a uno solo."},{"titulo":"Candado doble","texto":"Un candado de dos números solo abre con la pareja exacta que cumple ambas condiciones."}],
-"ejercicios":[{"ejercicio":"Resuelve $x+y=12$ y $x-y=2$.","respuesta":"$x=7$, $y=5$"},{"ejercicio":"Resuelve $2x+y=11$ y $x+y=7$.","respuesta":"Restando: $x=4$; entonces $y=3$"},{"ejercicio":"Dos tacos y un refresco cuestan 50 pesos; un taco y un refresco, 35 pesos. ¿Precio de cada uno?","respuesta":"Taco 15 pesos, refresco 20 pesos"}]}},
-{"nodo_id":"ems-016","titulo":"Ecuaciones cuadráticas","slug":"ecuaciones-cuadraticas-preparatoria","palabras":["cuadrática","segundo grado","factorización","fórmula general","raíces"],"contenido":{
-"idea":"Si lanzas una pelota hacia arriba, pasa por la misma altura dos veces: al subir y al bajar. Por eso estas ecuaciones suelen tener dos respuestas.",
-"pizarron":"Una ecuación cuadrática tiene la forma $ax^2+bx+c=0$, con $a\\neq0$. Puede tener hasta dos soluciones.\n\n**Factorización:** $x^2-5x+6=0$ se escribe $(x-2)(x-3)=0$; si un producto es cero, un factor es cero: $x=2$ o $x=3$.\n\n**Fórmula general:**\n\n$$x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$$\n\nSi $b^2-4ac<0$, no hay soluciones reales.",
-"truco":"Producto igual a cero: algún factor vale cero.",
-"practica":{"ejercicio":"Resuelve $x^2-7x+12=0$.","respuesta":"$(x-3)(x-4)=0$, entonces $x=3$ o $x=4$"},
-"analogias":[{"titulo":"Subir y bajar","texto":"Una pelota alcanza cierta altura al subir y otra vez al caer: dos momentos, dos soluciones."},{"titulo":"Dos puertas","texto":"Para que un producto sea cero basta con que una de dos puertas esté cerrada; cada puerta da una respuesta."}],
-"ejercicios":[{"ejercicio":"Resuelve $x^2-9=0$.","respuesta":"$x=3$ o $x=-3$"},{"ejercicio":"Resuelve $x^2+2x-8=0$.","respuesta":"$(x+4)(x-2)=0$, entonces $x=-4$ o $x=2$"},{"ejercicio":"Resuelve $2x^2-3x-2=0$ con la fórmula general.","respuesta":"$\\sqrt{9+16}=5$; $x=\\frac{3\\pm5}{4}$, entonces $x=2$ o $x=-\\frac{1}{2}$"}]}},
-{"nodo_id":"ems-017","titulo":"Plantear y resolver con distintos tipos de ecuaciones","slug":"plantear-ecuaciones-problemas-preparatoria","palabras":["problemas con ecuaciones","planteamiento","modelar","sistemas","cuadráticas"],"contenido":{
-"idea":"Un problema escrito es un misterio con pistas. La ecuación es la libreta donde anotas las pistas con letras para resolverlo con orden.",
-"pizarron":"Para resolver un problema con ecuaciones:\n\n1. Lee y decide qué busca la pregunta.\n2. Asigna letras a las cantidades desconocidas.\n3. Traduce cada frase a una ecuación.\n4. Elige el método: lineal, sistema o cuadrática.\n5. Resuelve y comprueba en el texto original.\n\nEjemplo: dos números consecutivos suman 31. $x+(x+1)=31$, entonces $2x=30$ y $x=15$. Los números son 15 y 16.",
-"truco":"Lee, nombra, traduce, resuelve y comprueba.",
-"practica":{"ejercicio":"El triple de un número menos 1 es 11. ¿Cuál es el número?","respuesta":"$3x-1=11$, entonces $x=4$"},
-"analogias":[{"titulo":"Traductor","texto":"Pasar del español a las matemáticas es traducir: 'más' es +, 'es' es =, 'el doble' es 2 veces."},{"titulo":"Caja de herramientas","texto":"Cada tipo de ecuación es una herramienta; el trabajo es escoger la correcta para cada problema."}],
-"ejercicios":[{"ejercicio":"Un rectángulo mide $x$ de ancho y $x+3$ de largo, y su área es 40. Plantea y halla $x$.","respuesta":"$x^2+3x-40=0$, $(x+8)(x-5)=0$; $x=5$ (la medida debe ser positiva)"},{"ejercicio":"Boletos de 80 pesos (adulto) y 50 pesos (niño). Se compraron 5 boletos por 310 pesos. ¿Cuántos de cada uno?","respuesta":"$a+n=5$ y $80a+50n=310$; $30a=60$, entonces 2 adultos y 3 niños"},{"ejercicio":"La suma de dos números consecutivos es 47. ¿Cuáles son?","respuesta":"$2x+1=47$, $x=23$; son 23 y 24"}]}},
-{"nodo_id":"ems-018","titulo":"Teorema del triángulo de Napoleón","slug":"triangulo-napoleon-preparatoria","palabras":["Napoleón","triángulo equilátero","geometría euclidiana","centros","teorema"],"contenido":{
-"idea":"Dibuja un triángulo cualquiera, aunque sea chueco. Pega un tejado en forma de triángulo perfecto en cada lado. Los centros de esos tejados forman otro triángulo perfecto.",
-"pizarron":"**Teorema.** Si sobre cada lado de un triángulo cualquiera se construyen hacia afuera triángulos equiláteros, los tres centros de esos triángulos son los vértices de un triángulo equilátero.\n\nIdeas de geometría que se usan:\n\n1. Un triángulo equilátero tiene lados iguales y ángulos de $60^\\circ$.\n2. Su centro está a igual distancia de los tres vértices.\n3. Con congruencia de triángulos y rotaciones de $60^\\circ$ se demuestra que los tres lados medidos entre centros son iguales.\n\nEs un problema-meta: sirve para practicar construcciones, congruencia y demostración. Con GeoGebra puedes verlo moviendo el triángulo original.",
-"truco":"Cualquier triángulo, tres equiláteros, centros equiláteros.",
-"practica":{"ejercicio":"¿Cuánto mide cada ángulo de un triángulo equilátero?","respuesta":"$60^\\circ$, porque $180^\\circ\\div3=60^\\circ$"},
-"analogias":[{"titulo":"Orden desde el caos","texto":"Aunque el triángulo inicial sea irregular, al añadir figuras perfectas aparece una forma perfecta en el centro."},{"titulo":"Tres amigos al centro","texto":"Tres personas colocan una vela en el centro de su mesa; las tres velas forman siempre un triángulo parejo."}],
-"ejercicios":[{"ejercicio":"¿Qué tipo de triángulo forman los centros en el teorema de Napoleón?","respuesta":"Un triángulo equilátero"},{"ejercicio":"Un triángulo equilátero mide 12 cm por lado. ¿Cuál es su perímetro?","respuesta":"$3\\times12=36$ cm"},{"ejercicio":"Si el triángulo de centros tiene lados de 5 cm, ¿cuál es su perímetro?","respuesta":"$3\\times5=15$ cm"}]}},
-{"nodo_id":"ems-019","titulo":"Sistemas de ecuaciones lineales y sus métodos","slug":"sistemas-ecuaciones-lineales-preparatoria","palabras":["sistema de ecuaciones","igualación","sustitución","reducción","método gráfico","determinantes"],"contenido":{
-"idea":"Dos caminos se cruzan en un solo punto. Ese cruce es la respuesta que cumple las dos ecuaciones a la vez, y hay varias formas de encontrarlo.",
-"pizarron":"Para el sistema $x+y=5$ y $x-y=1$ la solución es $(3,2)$. Métodos:\n\n- **Igualación:** despeja la misma letra en ambas: $x=5-y$ y $x=1+y$; iguala: $y=2$.\n- **Sustitución:** de $x=1+y$, sustituye: $1+y+y=5$, entonces $y=2$.\n- **Reducción:** suma: $2x=6$, entonces $x=3$.\n- **Gráfico:** dibuja las dos rectas; se cruzan en $(3,2)$.\n- **Determinantes:** $x=\\frac{D_x}{D}$ y $y=\\frac{D_y}{D}$, si $D\\neq0$.\n\nComprueba siempre en las dos ecuaciones.",
-"truco":"Igualar, sustituir o reducir: elimina una letra.",
-"practica":{"ejercicio":"Resuelve $x+y=7$ y $x-y=3$.","respuesta":"$x=5$, $y=2$"},
-"analogias":[{"titulo":"Cruce de calles","texto":"Cada ecuación es una calle y la solución es la esquina donde se cruzan."},{"titulo":"Varias llaves","texto":"Los métodos son llaves distintas para la misma puerta; escoges la que gire más fácil."}],
-"ejercicios":[{"ejercicio":"Resuelve por reducción $2x+y=8$ y $x-y=1$.","respuesta":"$3x=9$, $x=3$, $y=2$"},{"ejercicio":"Resuelve por sustitución $y=2x$ y $x+y=12$.","respuesta":"$3x=12$, $x=4$, $y=8$"},{"ejercicio":"Resuelve $3x+2y=16$ y $x+y=6$.","respuesta":"$y=6-x$; $x+12=16$, $x=4$, $y=2$"}]}},
-{"nodo_id":"ems-020","titulo":"La recta y el punto en el plano","slug":"recta-y-punto-geometria-analitica-preparatoria","palabras":["recta","punto","pendiente","distancia entre puntos","plano cartesiano","geometría analítica"],"contenido":{
-"idea":"En un mapa de cuadrícula, cada tienda tiene una dirección con dos números. Una recta es el camino recto que une puntos y que sube o baja de forma constante.",
-"pizarron":"Un punto se ubica en el plano con dos coordenadas $(x,y)$.\n\n- **Distancia** entre $(x_1,y_1)$ y $(x_2,y_2)$: $d=\\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$.\n- **Pendiente:** $m=\\frac{y_2-y_1}{x_2-x_1}$.\n- **Ecuación de la recta:** $y=mx+b$, donde $b$ es donde corta al eje $y$.\n\nEjemplo: por $(1,2)$ y $(3,6)$, $m=\\frac{4}{2}=2$; como $2=2(1)+b$, $b=0$ y la recta es $y=2x$.",
-"truco":"Pendiente: sube entre avanza.",
-"practica":{"ejercicio":"Halla la ecuación de la recta por $(2,1)$ y $(4,5)$.","respuesta":"$m=2$; $1=2(2)+b$, $b=-3$; $y=2x-3$"},
-"analogias":[{"titulo":"La escalera","texto":"La pendiente es qué tan inclinada está una escalera: cuánto subes por cada escalón que avanzas."},{"titulo":"Dirección de casa","texto":"Las coordenadas son calle y número: dos datos ubican un punto exacto del plano."}],
-"ejercicios":[{"ejercicio":"Distancia entre $(0,0)$ y $(3,4)$.","respuesta":"$\\sqrt{9+16}=5$"},{"ejercicio":"Pendiente de la recta por $(1,1)$ y $(4,7)$.","respuesta":"$\\frac{6}{3}=2$"},{"ejercicio":"Ecuación de la recta con pendiente 3 que pasa por $(0,-2)$.","respuesta":"$y=3x-2$"}]}}
+{
+"nodo_id": "ems-011",
+"titulo": "Operaciones con polinomios y trinomios",
+"slug": "polinomios-trinomios-preparatoria",
+"palabras": [
+"polinomio",
+"trinomio",
+"términos semejantes",
+"suma de polinomios",
+"producto de polinomios"
+],
+"contenido": {
+"idea": "Imagina una mochila con libros, cuadernos y plumas. Solo juntas libros con libros y plumas con plumas. Un polinomio es esa mochila con cosas distintas.",
+"pizarron": "**La regla:** para sumar, junta términos semejantes. Para restar, cambia los signos del segundo. Para multiplicar, cada término multiplica a todos los del otro.\n\n**Polinomio:** suma de términos con letra y exponente. **Trinomio:** tiene tres términos.\n\n**Semejantes:** misma letra y mismo exponente.\n\n**Suma:** $(x^2+3x+2)+(2x^2-x+5)=3x^2+2x+7$.\n\n**Producto:** $(x+2)(x+3)=x^2+5x+6$.\n\n**Para tu escuela:** suma $(x^2+4x+1)+(3x^2-2x+6)$.",
+"truco": "Misma letra y mismo exponente se juntan.",
+"practica": {
+"ejercicio": "Suma $(x^2+4x+1)+(3x^2-2x+6)$.",
+"respuesta": "$4x^2+2x+7$"
+},
+"analogias": [
+{
+"titulo": "La frutería",
+"texto": "Sumas manzanas con manzanas y peras con peras; no mezclas frutas distintas en una misma cuenta."
+},
+{
+"titulo": "Cajones de ropa",
+"texto": "Cada exponente es un cajón: playeras con playeras, calcetines con calcetines. Reducir es ordenar cada cajón."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resta $(5x^2-3x+2)-(2x^2+x-4)$.",
+"respuesta": "$3x^2-4x+6$"
+},
+{
+"ejercicio": "Multiplica $(x+4)(x-2)$.",
+"respuesta": "$x^2+2x-8$"
+},
+{
+"ejercicio": "Un terreno mide $(x+5)$ por $(x+1)$ metros. Escribe su área.",
+"respuesta": "$x^2+6x+5$ metros cuadrados"
+}
+]
+}
+},
+{
+"nodo_id": "ems-012",
+"titulo": "Álgebra en situaciones de la vida real",
+"slug": "algebra-situaciones-reales-preparatoria",
+"palabras": [
+"álgebra",
+"modelo",
+"fórmula",
+"variable",
+"aplicaciones"
+],
+"contenido": {
+"idea": "Una receta dice que por cada persona usas dos tortillas. Si no sabes cuántas personas vienen, usas una letra. Eso es el álgebra: recetas con letras.",
+"pizarron": "**Qué es:** el álgebra sirve para escribir situaciones reales con letras y fórmulas, y resolverlas.\n\nEl álgebra describe situaciones con letras (variables) y operaciones.\n\n1. Identifica qué cantidad cambia y ponle una letra.\n2. Escribe la relación como expresión o fórmula.\n3. Sustituye valores o despeja la letra que buscas.\n\nEjemplo: un plan cobra 100 pesos fijos más 3 pesos por mensaje: $C=100+3n$. Con $n=20$, $C=160$ pesos. Si $C=250$, entonces $3n=150$ y $n=50$.\n\nFórmulas conocidas: $d=vt$ (distancia) y $F=1.8C+32$ (temperatura).",
+"truco": "Nombra, escribe, sustituye y despeja.",
+"practica": {
+"ejercicio": "Con $C=100+3n$, ¿cuánto cuesta enviar 30 mensajes?",
+"respuesta": "$100+90=190$ pesos"
+},
+"analogias": [
+{
+"titulo": "La tabla de tarifas",
+"texto": "Una fórmula es como una tabla de tarifas que sirve para cualquier número, sin escribir cada caso."
+},
+{
+"titulo": "La caja registradora",
+"texto": "Metes un dato, la fórmula lo procesa y sale un resultado, igual que al cobrar en la caja."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un auto va a 80 km/h durante 3 horas. ¿Qué distancia recorre con $d=vt$?",
+"respuesta": "$80\\times3=240$ km"
+},
+{
+"ejercicio": "Convierte 25 grados Celsius con $F=1.8C+32$.",
+"respuesta": "$45+32=77$ grados Fahrenheit"
+},
+{
+"ejercicio": "Con $C=100+3n$, ¿cuántos mensajes se enviaron si se pagaron 190 pesos?",
+"respuesta": "$3n=90$, entonces $n=30$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-013",
+"titulo": "Concepto de ecuación",
+"slug": "concepto-ecuacion-preparatoria",
+"palabras": [
+"ecuación",
+"igualdad",
+"incógnita",
+"despejar",
+"balanza"
+],
+"contenido": {
+"idea": "Una balanza está equilibrada con una bolsa misteriosa y 5 canicas de un lado, y 20 canicas del otro. Quitas 5 de cada lado y sabes cuántas hay en la bolsa.",
+"pizarron": "**Qué es:** una ecuación es una igualdad con una letra desconocida. Resolverla es hallar el valor que la hace verdadera.\n\nUna ecuación es una igualdad con una incógnita, una letra cuyo valor buscamos. Solo es verdadera para ciertos valores.\n\nRegla de oro: lo que haces de un lado, lo haces del otro.\n\nEjemplo: $3x+5=20$.\n\n1. Resta 5 en ambos lados: $3x=15$.\n2. Divide entre 3: $x=5$.\n3. Comprueba: $3(5)+5=20$. Es correcto.\n\nEl valor que cumple la igualdad se llama solución.",
+"truco": "Lo que haces de un lado, hazlo del otro.",
+"practica": {
+"ejercicio": "Resuelve $5x=35$.",
+"respuesta": "$x=7$"
+},
+"analogias": [
+{
+"titulo": "El sube y baja",
+"texto": "Si quitas peso de un lado, debes quitar lo mismo del otro para que siga nivelado."
+},
+{
+"titulo": "Adivinanza numérica",
+"texto": "Pienso un número, lo duplico y suma 3; da 11. Deshaces los pasos al revés y descubres que era 4."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $x+7=15$.",
+"respuesta": "$x=8$"
+},
+{
+"ejercicio": "Resuelve $4x-3=17$.",
+"respuesta": "$4x=20$, entonces $x=5$"
+},
+{
+"ejercicio": "Resuelve $2(x+1)=14$.",
+"respuesta": "$x+1=7$, entonces $x=6$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-014",
+"titulo": "Ecuaciones lineales con una incógnita",
+"slug": "ecuaciones-lineales-una-incognita-preparatoria",
+"palabras": [
+"ecuación lineal",
+"primer grado",
+"despeje",
+"incógnita",
+"transposición"
+],
+"contenido": {
+"idea": "Tienes dos bolsas de dulces y 3 sueltos, y tu amigo tiene una bolsa y 8 sueltos. Si tienen lo mismo, quitas lo igual de ambos lados y averiguas cuántos dulces trae cada bolsa.",
+"pizarron": "**La regla:** reúne las $x$ de un lado y los números del otro, haciendo lo mismo en ambos lados.\n\nUna ecuación lineal tiene la incógnita con exponente 1: $ax+b=c$.\n\nPasos:\n1. Quita paréntesis y fracciones.\n2. Reúne las $x$ de un lado y los números del otro.\n3. Reduce términos semejantes.\n4. Despeja dividiendo entre el coeficiente.\n5. Comprueba.\n\nEjemplo: $3x+7=2x+12$. Restas $2x$: $x+7=12$. Restas 7: $x=5$. Comprobación: $22=22$.",
+"truco": "Letras a un lado, números al otro.",
+"practica": {
+"ejercicio": "Resuelve $2x+9=21$.",
+"respuesta": "$2x=12$, entonces $x=6$"
+},
+"analogias": [
+{
+"titulo": "Mover muebles",
+"texto": "Pasar un término al otro lado cambia su signo, como mover un mueble a otro cuarto y ponerlo al revés."
+},
+{
+"titulo": "Deshacer pasos",
+"texto": "Como quitar la ropa en orden inverso al que te la pusiste, deshaces las operaciones desde la última."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $5x-4=3x+10$.",
+"respuesta": "$2x=14$, entonces $x=7$"
+},
+{
+"ejercicio": "Resuelve $\\frac{x}{3}+2=6$.",
+"respuesta": "$\\frac{x}{3}=4$, entonces $x=12$"
+},
+{
+"ejercicio": "Tres boletos y 20 pesos de dulces cuestan 170 pesos. ¿Cuánto cuesta un boleto?",
+"respuesta": "$3b+20=170$, $3b=150$, $b=50$ pesos"
+}
+]
+}
+},
+{
+"nodo_id": "ems-015",
+"titulo": "Ecuaciones lineales con dos incógnitas",
+"slug": "ecuaciones-lineales-dos-incognitas-preparatoria",
+"palabras": [
+"dos incógnitas",
+"sistema 2x2",
+"x y y",
+"ecuaciones simultáneas"
+],
+"contenido": {
+"idea": "Sabes que entre dos amigos tienen 10 canicas y que uno tiene 4 más que el otro. Con las dos pistas juntas descubres cuántas tiene cada uno.",
+"pizarron": "**La regla:** una ecuación con dos incógnitas tiene muchas soluciones; con dos ecuaciones se obtiene una sola pareja.\n\nUna ecuación con dos incógnitas, como $x+y=10$, tiene muchas soluciones. Con dos ecuaciones independientes se obtiene una sola pareja $(x,y)$.\n\nEjemplo: $x+y=10$ y $x-y=4$.\n\n1. Suma las ecuaciones: $2x=14$, entonces $x=7$.\n2. Sustituye en la primera: $7+y=10$, entonces $y=3$.\n3. Comprueba: $7-3=4$. Es correcto.\n\nPlantea siempre qué representa cada letra antes de empezar.",
+"truco": "Elimina una letra, resuelve y regresa.",
+"practica": {
+"ejercicio": "Resuelve $x+y=9$ y $x-y=1$.",
+"respuesta": "$x=5$, $y=4$"
+},
+"analogias": [
+{
+"titulo": "Dos pistas",
+"texto": "Una pista sola da muchos sospechosos; dos pistas juntas señalan a uno solo."
+},
+{
+"titulo": "Candado doble",
+"texto": "Un candado de dos números solo abre con la pareja exacta que cumple ambas condiciones."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $x+y=12$ y $x-y=2$.",
+"respuesta": "$x=7$, $y=5$"
+},
+{
+"ejercicio": "Resuelve $2x+y=11$ y $x+y=7$.",
+"respuesta": "Restando: $x=4$; entonces $y=3$"
+},
+{
+"ejercicio": "Dos tacos y un refresco cuestan 50 pesos; un taco y un refresco, 35 pesos. ¿Precio de cada uno?",
+"respuesta": "Taco 15 pesos, refresco 20 pesos"
+}
+]
+}
+},
+{
+"nodo_id": "ems-016",
+"titulo": "Ecuaciones cuadráticas",
+"slug": "ecuaciones-cuadraticas-preparatoria",
+"palabras": [
+"cuadrática",
+"segundo grado",
+"factorización",
+"fórmula general",
+"raíces"
+],
+"contenido": {
+"idea": "Si lanzas una pelota hacia arriba, pasa por la misma altura dos veces: al subir y al bajar. Por eso estas ecuaciones suelen tener dos respuestas.",
+"pizarron": "**La regla:** las soluciones de $ax^2 + bx + c = 0$ salen por factorización o con la fórmula general.\n\nUna ecuación cuadrática tiene la forma $ax^2+bx+c=0$, con $a\\neq0$. Puede tener hasta dos soluciones.\n\n**Factorización:** $x^2-5x+6=0$ se escribe $(x-2)(x-3)=0$; si un producto es cero, un factor es cero: $x=2$ o $x=3$.\n\n**Fórmula general:**\n\n$$x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$$\n\nSi $b^2-4ac<0$, no hay soluciones reales.",
+"truco": "Producto igual a cero: algún factor vale cero.",
+"practica": {
+"ejercicio": "Resuelve $x^2-7x+12=0$.",
+"respuesta": "$(x-3)(x-4)=0$, entonces $x=3$ o $x=4$"
+},
+"analogias": [
+{
+"titulo": "Subir y bajar",
+"texto": "Una pelota alcanza cierta altura al subir y otra vez al caer: dos momentos, dos soluciones."
+},
+{
+"titulo": "Dos puertas",
+"texto": "Para que un producto sea cero basta con que una de dos puertas esté cerrada; cada puerta da una respuesta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $x^2-9=0$.",
+"respuesta": "$x=3$ o $x=-3$"
+},
+{
+"ejercicio": "Resuelve $x^2+2x-8=0$.",
+"respuesta": "$(x+4)(x-2)=0$, entonces $x=-4$ o $x=2$"
+},
+{
+"ejercicio": "Resuelve $2x^2-3x-2=0$ con la fórmula general.",
+"respuesta": "$\\sqrt{9+16}=5$; $x=\\frac{3\\pm5}{4}$, entonces $x=2$ o $x=-\\frac{1}{2}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-017",
+"titulo": "Plantear y resolver con distintos tipos de ecuaciones",
+"slug": "plantear-ecuaciones-problemas-preparatoria",
+"palabras": [
+"problemas con ecuaciones",
+"planteamiento",
+"modelar",
+"sistemas",
+"cuadráticas"
+],
+"contenido": {
+"idea": "Un problema escrito es un misterio con pistas. La ecuación es la libreta donde anotas las pistas con letras para resolverlo con orden.",
+"pizarron": "**La regla:** llama con una letra a lo que buscas, escribe la ecuación con los datos, resuélvela y comprueba.\n\nPara resolver un problema con ecuaciones:\n\n1. Lee y decide qué busca la pregunta.\n2. Asigna letras a las cantidades desconocidas.\n3. Traduce cada frase a una ecuación.\n4. Elige el método: lineal, sistema o cuadrática.\n5. Resuelve y comprueba en el texto original.\n\nEjemplo: dos números consecutivos suman 31. $x+(x+1)=31$, entonces $2x=30$ y $x=15$. Los números son 15 y 16.",
+"truco": "Lee, nombra, traduce, resuelve y comprueba.",
+"practica": {
+"ejercicio": "El triple de un número menos 1 es 11. ¿Cuál es el número?",
+"respuesta": "$3x-1=11$, entonces $x=4$"
+},
+"analogias": [
+{
+"titulo": "Traductor",
+"texto": "Pasar del español a las matemáticas es traducir: 'más' es +, 'es' es =, 'el doble' es 2 veces."
+},
+{
+"titulo": "Caja de herramientas",
+"texto": "Cada tipo de ecuación es una herramienta; el trabajo es escoger la correcta para cada problema."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un rectángulo mide $x$ de ancho y $x+3$ de largo, y su área es 40. Plantea y halla $x$.",
+"respuesta": "$x^2+3x-40=0$, $(x+8)(x-5)=0$; $x=5$ (la medida debe ser positiva)"
+},
+{
+"ejercicio": "Boletos de 80 pesos (adulto) y 50 pesos (niño). Se compraron 5 boletos por 310 pesos. ¿Cuántos de cada uno?",
+"respuesta": "$a+n=5$ y $80a+50n=310$; $30a=60$, entonces 2 adultos y 3 niños"
+},
+{
+"ejercicio": "La suma de dos números consecutivos es 47. ¿Cuáles son?",
+"respuesta": "$2x+1=47$, $x=23$; son 23 y 24"
+}
+]
+}
+},
+{
+"nodo_id": "ems-018",
+"titulo": "Teorema del triángulo de Napoleón",
+"slug": "triangulo-napoleon-preparatoria",
+"palabras": [
+"Napoleón",
+"triángulo equilátero",
+"geometría euclidiana",
+"centros",
+"teorema"
+],
+"contenido": {
+"idea": "Dibuja un triángulo cualquiera, aunque sea chueco. Pega un tejado en forma de triángulo perfecto en cada lado. Los centros de esos tejados forman otro triángulo perfecto.",
+"pizarron": "**La ley:** si en cada lado de un triángulo pones un triángulo equilátero hacia afuera, sus tres centros forman otro triángulo equilátero.\n\n**Equilátero:** tres lados iguales y ángulos de $60°$.\n\n**Centro:** igual distancia a los vértices.\n\nSe demuestra con congruencia y giros de $60°$.\n\n**Para tu escuela:** dibújalo con regla y comprueba midiendo.",
+"truco": "Cualquier triángulo, tres equiláteros, centros equiláteros.",
+"practica": {
+"ejercicio": "¿Cuánto mide cada ángulo de un triángulo equilátero?",
+"respuesta": "$60^\\circ$, porque $180^\\circ\\div3=60^\\circ$"
+},
+"analogias": [
+{
+"titulo": "Orden desde el caos",
+"texto": "Aunque el triángulo inicial sea irregular, al añadir figuras perfectas aparece una forma perfecta en el centro."
+},
+{
+"titulo": "Tres amigos al centro",
+"texto": "Tres personas colocan una vela en el centro de su mesa; las tres velas forman siempre un triángulo parejo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo de triángulo forman los centros en el teorema de Napoleón?",
+"respuesta": "Un triángulo equilátero"
+},
+{
+"ejercicio": "Un triángulo equilátero mide 12 cm por lado. ¿Cuál es su perímetro?",
+"respuesta": "$3\\times12=36$ cm"
+},
+{
+"ejercicio": "Si el triángulo de centros tiene lados de 5 cm, ¿cuál es su perímetro?",
+"respuesta": "$3\\times5=15$ cm"
+}
+]
+}
+},
+{
+"nodo_id": "ems-019",
+"titulo": "Sistemas de ecuaciones lineales y sus métodos",
+"slug": "sistemas-ecuaciones-lineales-preparatoria",
+"palabras": [
+"sistema de ecuaciones",
+"igualación",
+"sustitución",
+"reducción",
+"método gráfico",
+"determinantes"
+],
+"contenido": {
+"idea": "Dos caminos se cruzan en un solo punto. Ese cruce es la respuesta que cumple las dos ecuaciones a la vez, y hay varias formas de encontrarlo.",
+"pizarron": "**Qué es:** un sistema son dos ecuaciones que deben cumplirse al mismo tiempo. Su solución es el valor que sirve en ambas.\n\nPara el sistema $x+y=5$ y $x-y=1$ la solución es $(3,2)$. Métodos:\n\n- **Igualación:** despeja la misma letra en ambas: $x=5-y$ y $x=1+y$; iguala: $y=2$.\n- **Sustitución:** de $x=1+y$, sustituye: $1+y+y=5$, entonces $y=2$.\n- **Reducción:** suma: $2x=6$, entonces $x=3$.\n- **Gráfico:** dibuja las dos rectas; se cruzan en $(3,2)$.\n- **Determinantes:** $x=\\frac{D_x}{D}$ y $y=\\frac{D_y}{D}$, si $D\\neq0$.\n\nComprueba siempre en las dos ecuaciones.",
+"truco": "Igualar, sustituir o reducir: elimina una letra.",
+"practica": {
+"ejercicio": "Resuelve $x+y=7$ y $x-y=3$.",
+"respuesta": "$x=5$, $y=2$"
+},
+"analogias": [
+{
+"titulo": "Cruce de calles",
+"texto": "Cada ecuación es una calle y la solución es la esquina donde se cruzan."
+},
+{
+"titulo": "Varias llaves",
+"texto": "Los métodos son llaves distintas para la misma puerta; escoges la que gire más fácil."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve por reducción $2x+y=8$ y $x-y=1$.",
+"respuesta": "$3x=9$, $x=3$, $y=2$"
+},
+{
+"ejercicio": "Resuelve por sustitución $y=2x$ y $x+y=12$.",
+"respuesta": "$3x=12$, $x=4$, $y=8$"
+},
+{
+"ejercicio": "Resuelve $3x+2y=16$ y $x+y=6$.",
+"respuesta": "$y=6-x$; $x+12=16$, $x=4$, $y=2$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-020",
+"titulo": "La recta y el punto en el plano",
+"slug": "recta-y-punto-geometria-analitica-preparatoria",
+"palabras": [
+"recta",
+"punto",
+"pendiente",
+"distancia entre puntos",
+"plano cartesiano",
+"geometría analítica"
+],
+"contenido": {
+"idea": "En un mapa de cuadrícula, cada tienda tiene una dirección con dos números. Una recta es el camino recto que une puntos y que sube o baja de forma constante.",
+"pizarron": "**La regla:** distancia es Pitágoras en el plano; pendiente es lo que sube entre lo que avanza; y la recta es $y = mx + b$.\n\nUn punto se ubica en el plano con dos coordenadas $(x,y)$.\n\n- **Distancia** entre $(x_1,y_1)$ y $(x_2,y_2)$: $d=\\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$.\n- **Pendiente:** $m=\\frac{y_2-y_1}{x_2-x_1}$.\n- **Ecuación de la recta:** $y=mx+b$, donde $b$ es donde corta al eje $y$.\n\nEjemplo: por $(1,2)$ y $(3,6)$, $m=\\frac{4}{2}=2$; como $2=2(1)+b$, $b=0$ y la recta es $y=2x$.",
+"truco": "Pendiente: sube entre avanza.",
+"practica": {
+"ejercicio": "Halla la ecuación de la recta por $(2,1)$ y $(4,5)$.",
+"respuesta": "$m=2$; $1=2(2)+b$, $b=-3$; $y=2x-3$"
+},
+"analogias": [
+{
+"titulo": "La escalera",
+"texto": "La pendiente es qué tan inclinada está una escalera: cuánto subes por cada escalón que avanzas."
+},
+{
+"titulo": "Dirección de casa",
+"texto": "Las coordenadas son calle y número: dos datos ubican un punto exacto del plano."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Distancia entre $(0,0)$ y $(3,4)$.",
+"respuesta": "$\\sqrt{9+16}=5$"
+},
+{
+"ejercicio": "Pendiente de la recta por $(1,1)$ y $(4,7)$.",
+"respuesta": "$\\frac{6}{3}=2$"
+},
+{
+"ejercicio": "Ecuación de la recta con pendiente 3 que pasa por $(0,-2)$.",
+"respuesta": "$y=3x-2$"
+}
+]
+}
+}
 ]

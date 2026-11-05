@@ -1,93 +1,575 @@
 [
-{"nodo_id":"ems-046","titulo":"Magnitudes escalares y vectoriales","slug":"magnitudes-escalares-y-vectoriales-prepa","palabras":["escalar","vector","magnitud","componentes"],"contenido":{
-"idea":"Tu temperatura se describe con un número, pero el viento necesita número y dirección. Esa es la diferencia entre escalar y vector.",
-"pizarron":"**Escalar**: se define con número y unidad.\n\n- Masa, tiempo, energía, temperatura.\n\n**Vector**: se define con magnitud y dirección.\n\n- Desplazamiento, velocidad, aceleración, fuerza.\n\nNotación: $\\vec{A}$ y su magnitud $|\\vec{A}|$ o $A$.\n\nUn vector en el plano tiene **componentes**:\n\n$$A_x = A\\cos\\theta \\qquad A_y = A\\sin\\theta$$\n\nDe componentes a magnitud y ángulo:\n\n$$A = \\sqrt{A_x^2 + A_y^2} \\qquad \\tan\\theta = \\frac{A_y}{A_x}$$\n\nEjemplo: $A = 10$ a $30°$.\n\n$$A_x = 10\\cos 30° = 8.66 \\qquad A_y = 10\\sin 30° = 5$$",
-"truco":"Coseno para x, seno para y, con ángulo desde el eje x.",
-"practica":{"ejercicio":"Un vector tiene $A_x=3$ y $A_y=4$. ¿Cuál es su magnitud?","respuesta":"5"},
-"analogias":[{"titulo":"Sombra del vector","texto":"Las componentes son las sombras del vector sobre cada eje, como la sombra de un palo al sol."},{"titulo":"Instrucciones de calle","texto":"Ir en diagonal equivale a caminar unas cuadras al este y otras al norte."}],
-"ejercicios":[{"ejercicio":"¿La energía es escalar o vector?","respuesta":"Escalar."},{"ejercicio":"Calcula $A_y$ si $A=20$ a $30°$.","respuesta":"10"},{"ejercicio":"Calcula el ángulo si $A_x=A_y$ y ambos son positivos.","respuesta":"$45°$"}]}},
-{"nodo_id":"ems-046","titulo":"Suma de vectores por componentes","slug":"suma-de-vectores-por-componentes-prepa","palabras":["suma de vectores","componentes","resultante","método analítico"],"contenido":{
-"idea":"Si un avión va al este y el viento lo empuja al norte, no se suman los números tal cual. Se suma por partes: este con este y norte con norte.",
-"pizarron":"**Pasos**:\n\n1. Descompón cada vector en $x$ y $y$.\n2. Suma por separado.\n\n$$R_x = \\sum A_x \\qquad R_y = \\sum A_y$$\n\n3. Calcula la resultante:\n\n$$R = \\sqrt{R_x^2 + R_y^2} \\qquad \\tan\\theta = \\frac{R_y}{R_x}$$\n\nEjemplo: $\\vec{A}$ = 10 N a $0°$ y $\\vec{B}$ = 10 N a $90°$.\n\n$$R_x = 10,\\quad R_y = 10$$\n\n$$R = \\sqrt{200} \\approx 14.1\\ \\text{N} \\quad \\theta = 45°$$\n\nEjemplo: $\\vec{A} = (3, 4)$ y $\\vec{B} = (5, -1)$.\n\n$$\\vec{R} = (8, 3) \\qquad R = \\sqrt{73} \\approx 8.54$$\n\nRevisa el cuadrante para el ángulo.",
-"truco":"Separa x y y, suma cada columna y luego Pitágoras.",
-"practica":{"ejercicio":"Suma $(2, 3)$ y $(4, 5)$.","respuesta":"$(6, 8)$; magnitud 10."},
-"analogias":[{"titulo":"Dos columnas","texto":"Es como llevar cuentas en dos columnas: no mezclas lo de una con lo de la otra."},{"titulo":"Mapa de calles","texto":"Primero sumas cuadras al este y luego al norte, y al final calculas la diagonal."}],
-"ejercicios":[{"ejercicio":"Suma $(1, -2)$ y $(3, 2)$.","respuesta":"$(4, 0)$"},{"ejercicio":"Halla la magnitud de $(6, 8)$.","respuesta":"10"},{"ejercicio":"Halla la resultante de 5 N al este y 12 N al norte.","respuesta":"13 N."}]}},
-{"nodo_id":"ems-046","titulo":"Movimiento rectilíneo uniforme","slug":"movimiento-rectilineo-uniforme-prepa","palabras":["MRU","encuentro","velocidad constante","problemas"],"contenido":{
-"idea":"Dos coches salen a distinta hora por la misma carretera. Con velocidad constante, una ecuación simple predice dónde y cuándo se encuentran.",
-"pizarron":"En el **MRU** la velocidad es constante:\n\n$$x(t) = x_0 + v\\,t$$\n\n**Gráficas**:\n\n- $x$ contra $t$: recta de pendiente $v$.\n- $v$ contra $t$: recta horizontal.\n\n**Problema de encuentro**: A parte de 0 a 20 m/s; B parte de 300 m a $-10$ m/s.\n\n$$x_A = 20t \\qquad x_B = 300 - 10t$$\n\nIgualando:\n\n$$20t = 300 - 10t \\Rightarrow t = 10\\ \\text{s}$$\n\nPosición: $x = 200$ m.\n\n**Alcance**: A va a 30 m/s, y B va a 20 m/s con 100 m de ventaja.\n\n$$30t = 100 + 20t \\Rightarrow t = 10\\ \\text{s}$$\n\nEscoge siempre un origen y un sentido positivo.",
-"truco":"Para encuentros iguala las dos ecuaciones de posición.",
-"practica":{"ejercicio":"Con $x_0=50$ m y $v=-5$ m/s, ¿cuándo llega a $x=0$?","respuesta":"A los 10 s."},
-"analogias":[{"titulo":"Dos caminantes","texto":"Dos personas que caminan una hacia la otra se acercan a la suma de sus rapideces."},{"titulo":"El tren de horario","texto":"Con velocidad fija, el horario de llegada se calcula antes de salir."}],
-"ejercicios":[{"ejercicio":"Dos móviles a 300 m se acercan a 10 m/s y 20 m/s. ¿Cuándo se encuentran?","respuesta":"A los 10 s."},{"ejercicio":"¿Cuál es la pendiente de $x$ contra $t$?","respuesta":"La velocidad."},{"ejercicio":"Un coche a 90 km/h, ¿cuánto va en m/s?","respuesta":"25 m/s."}]}},
-{"nodo_id":"ems-046","titulo":"Movimiento uniformemente acelerado","slug":"movimiento-uniformemente-acelerado-prepa","palabras":["MRUA","aceleración constante","ecuaciones de cinemática"],"contenido":{
-"idea":"Un coche arranca desde el semáforo: cada segundo va más rápido, de manera pareja. Tres fórmulas bastan para describirlo.",
-"pizarron":"Con aceleración constante:\n\n$$v = v_0 + a\\,t$$\n\n$$x = x_0 + v_0 t + \\frac{1}{2}a\\,t^2$$\n\n$$v^2 = v_0^2 + 2a\\,\\Delta x$$\n\nEjemplo 1: parte del reposo con $a = 3$ m/s² durante 4 s.\n\n$$v = 3(4) = 12\\ \\text{m/s}$$\n\n$$\\Delta x = \\frac{1}{2}(3)(4)^2 = 24\\ \\text{m}$$\n\nEjemplo 2: frena de 20 m/s a 0 con $a = -5$ m/s².\n\n$$0 = 20^2 + 2(-5)\\Delta x \\Rightarrow \\Delta x = 40\\ \\text{m}$$\n\nGráficas: $v$ contra $t$ es una recta; $x$ contra $t$ es una parábola.",
-"truco":"Elige la ecuación que no contenga el dato ausente.",
-"practica":{"ejercicio":"Con $v_0=5$ m/s y $a=2$ m/s², ¿cuánto vale $v$ a los 3 s?","respuesta":"11 m/s."},
-"analogias":[{"titulo":"La alcancía creciente","texto":"Si cada día ahorras más que ayer, tu total crece como la distancia con aceleración."},{"titulo":"Tres llaves","texto":"Cada fórmula abre el problema según qué datos falten."}],
-"ejercicios":[{"ejercicio":"Del reposo con $a=4$ m/s², ¿cuánto avanza en 5 s?","respuesta":"50 m."},{"ejercicio":"Un coche a 30 m/s frena con $-6$ m/s². ¿Cuánto tarda en parar?","respuesta":"5 s."},{"ejercicio":"¿Qué distancia recorre en ese frenado?","respuesta":"75 m."}]}},
-{"nodo_id":"ems-046","titulo":"Tiro vertical","slug":"tiro-vertical-prepa","palabras":["tiro vertical","altura máxima","gravedad","tiempo de vuelo"],"contenido":{
-"idea":"Lanzas una pelota hacia arriba: se frena, se detiene un instante y regresa. La gravedad nunca dejó de actuar durante todo el viaje.",
-"pizarron":"Se usa $a = -g$ con $g = 9.8$ m/s², tomando arriba como positivo.\n\n$$v = v_0 - g\\,t$$\n\n$$y = v_0 t - \\frac{1}{2}g\\,t^2$$\n\n**Altura máxima**: allí $v = 0$.\n\n$$t_{sub} = \\frac{v_0}{g} \\qquad h_{max} = \\frac{v_0^2}{2g}$$\n\n**Tiempo de vuelo** (vuelve al mismo nivel):\n\n$$t_v = \\frac{2v_0}{g}$$\n\nEjemplo: $v_0 = 19.6$ m/s.\n\n$$t_{sub} = 2\\ \\text{s}$$\n\n$$h_{max} = \\frac{19.6^2}{2(9.8)} = 19.6\\ \\text{m}$$\n\n$$t_v = 4\\ \\text{s}$$\n\nRegresa a su punto con la misma rapidez con que salió.",
-"truco":"En el punto más alto, v es cero pero a sigue siendo g.",
-"practica":{"ejercicio":"Se lanza a 9.8 m/s. ¿Cuánto tarda en llegar arriba?","respuesta":"1 s."},
-"analogias":[{"titulo":"Película en reversa","texto":"La bajada es la subida en reversa: mismas rapideces y mismos tiempos a cada altura."},{"titulo":"La bicicleta en cuesta","texto":"Subes una cuesta perdiendo velocidad hasta frenar, y luego la bajada te devuelve la rapidez."}],
-"ejercicios":[{"ejercicio":"Con $v_0=29.4$ m/s, ¿cuál es el tiempo de vuelo?","respuesta":"6 s."},{"ejercicio":"Con $v_0=9.8$ m/s, ¿cuál es la altura máxima?","respuesta":"4.9 m."},{"ejercicio":"¿Cuánto vale la aceleración en la cima?","respuesta":"9.8 m/s² hacia abajo."}]}},
-{"nodo_id":"ems-046","titulo":"Tiro parabólico","slug":"tiro-parabolico-prepa","palabras":["tiro parabólico","alcance","proyectil","ángulo"],"contenido":{
-"idea":"Un balón pateado dibuja un arco. Por dentro son dos movimientos juntos: uno parejo de lado y otro acelerado de arriba abajo.",
-"pizarron":"Se separa en dos ejes:\n\n$$v_{0x} = v_0\\cos\\theta \\qquad v_{0y} = v_0\\sin\\theta$$\n\n**Horizontal**: MRU, sin aceleración.\n\n$$x = v_{0x}\\,t$$\n\n**Vertical**: tiro vertical.\n\n$$y = v_{0y}t - \\frac{1}{2}g\\,t^2$$\n\nPara lanzamiento y caída al mismo nivel:\n\n$$t_v = \\frac{2v_0\\sin\\theta}{g} \\qquad R = \\frac{v_0^2\\sin 2\\theta}{g}$$\n\n$$h_{max} = \\frac{v_{0y}^2}{2g}$$\n\nEjemplo: $v_0 = 20$ m/s a $30°$, con $g = 10$ m/s².\n\n$$t_v = \\frac{2(20)(0.5)}{10} = 2\\ \\text{s}$$\n\n$$R = \\frac{400\\sin 60°}{10} \\approx 34.6\\ \\text{m}$$\n\nEl alcance máximo se logra a $45°$.",
-"truco":"En x va parejo; en y actúa la gravedad.",
-"practica":{"ejercicio":"¿A qué ángulo se logra el mayor alcance sin aire?","respuesta":"A $45°$."},
-"analogias":[{"titulo":"Dos películas","texto":"Una sombra en el piso corre pareja y otra en la pared sube y baja: juntas son la parábola."},{"titulo":"La bala que cae","texto":"Una pelota soltada y otra lanzada horizontal llegan al suelo a la vez."}],
-"ejercicios":[{"ejercicio":"Con $v_0=10$ m/s a $30°$, calcula $v_{0y}$.","respuesta":"5 m/s."},{"ejercicio":"Con $v_0=20$ m/s a $45°$ y $g=10$ m/s², calcula $R$.","respuesta":"40 m."},{"ejercicio":"¿Qué aceleración horizontal hay sin aire?","respuesta":"Cero."}]}},
-{"nodo_id":"ems-046","titulo":"Movimiento circular uniforme","slug":"movimiento-circular-uniforme-prepa","palabras":["movimiento circular","aceleración centrípeta","periodo","frecuencia","velocidad angular"],"contenido":{
-"idea":"Una rueda de la fortuna gira a ritmo constante y, aun así, tu dirección cambia a cada instante. Ahí hay aceleración hacia el centro.",
-"pizarron":"**Periodo $T$**: tiempo de una vuelta.\n\n**Frecuencia $f$**: vueltas por segundo.\n\n$$f = \\frac{1}{T}$$\n\n**Rapidez lineal**:\n\n$$v = \\frac{2\\pi r}{T}$$\n\n**Velocidad angular**:\n\n$$\\omega = \\frac{2\\pi}{T} \\qquad v = \\omega r$$\n\n**Aceleración centrípeta**, hacia el centro:\n\n$$a_c = \\frac{v^2}{r}$$\n\n**Fuerza centrípeta**:\n\n$$F_c = \\frac{m v^2}{r}$$\n\nEjemplo: $m = 2$ kg, $r = 3$ m, $v = 6$ m/s.\n\n$$a_c = \\frac{36}{3} = 12\\ \\text{m/s}^2 \\qquad F_c = 24\\ \\text{N}$$",
-"truco":"Rapidez constante no significa que no haya aceleración.",
-"practica":{"ejercicio":"Una rueda da una vuelta en 2 s. ¿Cuál es su frecuencia?","respuesta":"0.5 Hz."},
-"analogias":[{"titulo":"La honda","texto":"La cuerda jala la piedra al centro; si se suelta, la piedra sale en línea recta."},{"titulo":"La curva en coche","texto":"El coche gira porque las llantas lo jalan hacia el centro de la curva."}],
-"ejercicios":[{"ejercicio":"Con $v=4$ m/s y $r=2$ m, calcula $a_c$.","respuesta":"8 m/s²."},{"ejercicio":"Calcula $F_c$ para 3 kg con esa misma $a_c$.","respuesta":"24 N."},{"ejercicio":"¿Hacia dónde apunta $a_c$?","respuesta":"Hacia el centro."}]}},
-{"nodo_id":"ems-046","titulo":"Trabajo y potencia","slug":"trabajo-y-potencia-prepa","palabras":["trabajo","potencia","joule","ángulo","teorema trabajo energía"],"contenido":{
-"idea":"Al jalar una maleta con asa inclinada, solo una parte de tu fuerza ayuda a avanzar. El trabajo cuenta exactamente esa parte.",
-"pizarron":"**Trabajo** de una fuerza constante:\n\n$$W = F\\,d\\cos\\theta$$\n\n$\\theta$ es el ángulo entre fuerza y desplazamiento.\n\n- $\\theta = 0°$: trabajo máximo.\n- $\\theta = 90°$: trabajo nulo.\n- $\\theta = 180°$: trabajo negativo, como la fricción.\n\nEjemplo: 100 N a $60°$ por 5 m.\n\n$$W = 100(5)\\cos 60° = 250\\ \\text{J}$$\n\n**Potencia**:\n\n$$P = \\frac{W}{t} = F\\,v$$\n\nEjemplo: una fuerza de 200 N mueve algo a 3 m/s.\n\n$$P = 600\\ \\text{W}$$\n\n**Teorema trabajo-energía**:\n\n$$W_{neto} = \\Delta E_c$$",
-"truco":"Solo cuenta la parte de la fuerza alineada con el avance.",
-"practica":{"ejercicio":"Calcula $W$ con $F=50$ N, $d=4$ m y $\\theta=0°$.","respuesta":"200 J."},
-"analogias":[{"titulo":"Jalar el trineo","texto":"Si jalas hacia arriba y adelante, solo lo que va hacia adelante mueve el trineo."},{"titulo":"El rendimiento","texto":"De tu esfuerzo total, cuenta la parte útil, como el dinero que sí llega a tu cuenta."}],
-"ejercicios":[{"ejercicio":"Calcula $W$ con $F=20$ N, $d=10$ m y $\\theta=60°$.","respuesta":"100 J."},{"ejercicio":"¿Cuál es la potencia para 1000 J en 20 s?","respuesta":"50 W."},{"ejercicio":"¿Qué signo tiene el trabajo de la fricción?","respuesta":"Negativo."}]}},
-{"nodo_id":"ems-046","titulo":"Energía cinética y potencial","slug":"energia-cinetica-y-potencial-prepa","palabras":["energía cinética","energía potencial","elástica","resorte"],"contenido":{
-"idea":"Un arquero tensa la cuerda, guarda energía y la convierte en movimiento de la flecha. Dos formas de energía en un solo disparo.",
-"pizarron":"**Energía cinética**:\n\n$$E_c = \\frac{1}{2}m v^2$$\n\n**Energía potencial gravitacional**:\n\n$$E_p = m g h$$\n\n**Energía potencial elástica**:\n\n$$E_e = \\frac{1}{2}k x^2$$\n\n$k$ es la constante del resorte y $x$ su deformación.\n\n**Ejemplo 1**: 3 kg a 4 m/s.\n\n$$E_c = \\frac{1}{2}(3)(16) = 24\\ \\text{J}$$\n\n**Ejemplo 2**: 2 kg a 5 m, con $g = 9.8$ m/s².\n\n$$E_p = 98\\ \\text{J}$$\n\n**Ejemplo 3**: resorte $k = 200$ N/m comprimido 0.1 m.\n\n$$E_e = \\frac{1}{2}(200)(0.01) = 1\\ \\text{J}$$",
-"truco":"Tanto la velocidad como la deformación van al cuadrado.",
-"practica":{"ejercicio":"Calcula $E_c$ de 2 kg a 10 m/s.","respuesta":"100 J."},
-"analogias":[{"titulo":"El arco y la flecha","texto":"La cuerda tensa guarda energía elástica y se la pasa a la flecha como cinética."},{"titulo":"El tinaco","texto":"El agua en alto guarda energía que luego sale por la llave con velocidad."}],
-"ejercicios":[{"ejercicio":"Calcula $E_e$ con $k=100$ N/m y $x=0.2$ m.","respuesta":"2 J."},{"ejercicio":"Si duplicas $v$, ¿qué pasa con $E_c$?","respuesta":"Se multiplica por 4."},{"ejercicio":"Calcula $E_p$ de 1 kg a 10 m.","respuesta":"98 J."}]}},
-{"nodo_id":"ems-046","titulo":"Conservación de la energía mecánica","slug":"conservacion-de-la-energia-mecanica-prepa","palabras":["conservación","energía mecánica","fuerzas conservativas","péndulo"],"contenido":{
-"idea":"En un columpio ideal, lo que ganas de altura lo pierdes de velocidad y al revés. La suma total se queda igual.",
-"pizarron":"Sin fricción:\n\n$$E_{c,i} + E_{p,i} = E_{c,f} + E_{p,f}$$\n\nEjemplo 1: desde 20 m en reposo.\n\n$$m g h = \\frac{1}{2}m v^2 \\Rightarrow v = \\sqrt{2gh} = \\sqrt{2(9.8)(20)} = 19.8\\ \\text{m/s}$$\n\nLa masa se cancela.\n\nEjemplo 2: un carrito llega a la base a 10 m/s. Altura máxima:\n\n$$h = \\frac{v^2}{2g} = \\frac{100}{19.6} = 5.1\\ \\text{m}$$\n\n**Con fricción**:\n\n$$E_{m,i} = E_{m,f} + W_{fricción}$$\n\nEjemplo: empieza con 100 J y termina con 70 J. La fricción disipó 30 J como calor.",
-"truco":"Escribe energía al inicio igual a energía al final.",
-"practica":{"ejercicio":"Un objeto cae desde 5 m. ¿A qué velocidad llega, con $g=10$ m/s²?","respuesta":"10 m/s."},
-"analogias":[{"titulo":"El presupuesto fijo","texto":"Tienes una cantidad total: lo que no gastas en una cuenta queda en la otra."},{"titulo":"El péndulo","texto":"Sube, baja y vuelve a subir casi igual, intercambiando altura y velocidad."}],
-"ejercicios":[{"ejercicio":"¿Depende $v=\\sqrt{2gh}$ de la masa?","respuesta":"No."},{"ejercicio":"Si $E_i=500$ J y $E_f=420$ J, ¿cuánto se disipó?","respuesta":"80 J."},{"ejercicio":"Un objeto llega a la base con 20 m/s. ¿A qué altura sube, con $g=10$ m/s²?","respuesta":"20 m."}]}},
-{"nodo_id":"ems-046","titulo":"Cantidad de movimiento","slug":"cantidad-de-movimiento-prepa","palabras":["cantidad de movimiento","momento lineal","impulso","p = mv"],"contenido":{
-"idea":"Es fácil detener una bicicleta lenta, pero no un tráiler lento. La cantidad de movimiento combina masa y velocidad para explicar eso.",
-"pizarron":"La **cantidad de movimiento** es un vector:\n\n$$\\vec{p} = m\\,\\vec{v}$$\n\nUnidad: kg·m/s.\n\nEjemplo: 1000 kg a 20 m/s.\n\n$$p = 20\\,000\\ \\text{kg·m/s}$$\n\n**Impulso**: fuerza por tiempo.\n\n$$J = F\\,\\Delta t = \\Delta p$$\n\nEjemplo: una fuerza de 50 N durante 2 s da $J = 100$ N·s.\n\nSi la fuerza actúa más tiempo, se necesita menos fuerza para el mismo cambio. Por eso las bolsas de aire protegen.\n\n**Conservación**: sin fuerzas externas,\n\n$$\\vec{p}_{antes} = \\vec{p}_{después}$$",
-"truco":"Alargar el tiempo de impacto reduce la fuerza.",
-"practica":{"ejercicio":"Calcula $p$ de 5 kg a 4 m/s.","respuesta":"20 kg·m/s."},
-"analogias":[{"titulo":"Doblar las rodillas","texto":"Al caer doblas las rodillas para alargar el frenado y sentir menos fuerza."},{"titulo":"Atrapar un huevo","texto":"Si mueves la mano al atraparlo, el golpe es suave y no se rompe."}],
-"ejercicios":[{"ejercicio":"Calcula el impulso de 30 N durante 4 s.","respuesta":"120 N·s."},{"ejercicio":"Un balón de 0.5 kg pasa de 0 a 20 m/s. ¿Cuál es $\\Delta p$?","respuesta":"10 kg·m/s."},{"ejercicio":"Si ese cambio ocurre en 0.1 s, ¿qué fuerza promedio actuó?","respuesta":"100 N."}]}},
-{"nodo_id":"ems-046","titulo":"Choques","slug":"choques-prepa","palabras":["choques","elástico","inelástico","conservación del momento"],"contenido":{
-"idea":"Dos bolas de billar rebotan y dos coches se quedan pegados. En ambos choques se conserva la cantidad de movimiento.",
-"pizarron":"En todo choque aislado:\n\n$$m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f}$$\n\n**Elástico**: se conservan momento y energía cinética. Los cuerpos rebotan.\n\n**Inelástico**: se conserva el momento, pero se pierde energía cinética.\n\n**Perfectamente inelástico**: quedan pegados.\n\n$$v_f = \\frac{m_1 v_1 + m_2 v_2}{m_1 + m_2}$$\n\nEjemplo: 2 kg a 6 m/s choca con 4 kg en reposo y se pegan.\n\n$$v_f = \\frac{12}{6} = 2\\ \\text{m/s}$$\n\nEnergía antes: $36$ J. Energía después: $\\frac{1}{2}(6)(4) = 12$ J. Se perdieron 24 J.\n\nCuida los signos: sentidos opuestos llevan signos opuestos.",
-"truco":"Pegados: suma momentos y divide entre la masa total.",
-"practica":{"ejercicio":"3 kg a 4 m/s choca y se pega a 1 kg en reposo. ¿Cuál es $v_f$?","respuesta":"3 m/s."},
-"analogias":[{"titulo":"Bolas de billar","texto":"Una bola transfiere casi todo su movimiento a la otra, sin perderlo casi nada."},{"titulo":"Plastilina contra plastilina","texto":"Se pegan y la energía se va en deformarlas y calentarlas."}],
-"ejercicios":[{"ejercicio":"¿Qué se conserva en todo choque aislado?","respuesta":"La cantidad de movimiento."},{"ejercicio":"2 kg a 5 m/s y 3 kg a 0 m/s se pegan. Halla $v_f$.","respuesta":"2 m/s."},{"ejercicio":"2 kg a 3 m/s chocan de frente con 2 kg a $-3$ m/s y se pegan. Halla $v_f$.","respuesta":"0 m/s."}]}},
-{"nodo_id":"ems-047","titulo":"Escalas Celsius, Fahrenheit y Kelvin","slug":"escalas-celsius-fahrenheit-y-kelvin-prepa","palabras":["Celsius","Fahrenheit","Kelvin","conversión de temperatura"],"contenido":{
-"idea":"En un pronóstico de Estados Unidos ves 98 grados y no significa que te cocerías. Solo se usa otra escala para el mismo calor.",
-"pizarron":"Conversiones:\n\n$$T_K = T_C + 273.15$$\n\n$$T_F = \\frac{9}{5}T_C + 32$$\n\n$$T_C = \\frac{5}{9}(T_F - 32)$$\n\nEjemplo 1: 98.6 °F a Celsius.\n\n$$T_C = \\frac{5}{9}(66.6) = 37\\ °\\text{C}$$\n\nEjemplo 2: $-40$ °C a Fahrenheit.\n\n$$T_F = \\frac{9}{5}(-40) + 32 = -40\\ °\\text{F}$$\n\nLas dos escalas coinciden en $-40$.\n\nUn cambio de 1 °C equivale a uno de 1 K, y a 1.8 °F.\n\nEn las fórmulas de gases y radiación se usa Kelvin, porque no tiene valores negativos.",
-"truco":"Cinco novenos o nueve quintos: mira hacia dónde vas.",
-"practica":{"ejercicio":"Convierte 25 °C a Fahrenheit.","respuesta":"77 °F."},
-"analogias":[{"titulo":"Dos reglas distintas","texto":"Pulgadas y centímetros miden igual una mesa; cada escala solo cambia los números."},{"titulo":"Moneda extranjera","texto":"Se convierte con una fórmula, igual que cambiar pesos por dólares más una comisión fija."}],
-"ejercicios":[{"ejercicio":"Convierte 212 °F a Celsius.","respuesta":"100 °C."},{"ejercicio":"Convierte 300 K a Celsius, usando 273.","respuesta":"27 °C."},{"ejercicio":"Un aumento de 10 °C, ¿cuántos °F son?","respuesta":"18 °F."}]}}
+{
+"nodo_id": "ems-046",
+"titulo": "Magnitudes escalares y vectoriales",
+"slug": "magnitudes-escalares-y-vectoriales-prepa",
+"palabras": [
+"escalar",
+"vector",
+"magnitud",
+"componentes"
+],
+"contenido": {
+"idea": "Tu temperatura se describe con un número, pero el viento necesita número y dirección. Esa es la diferencia entre escalar y vector.",
+"pizarron": "**Qué es:** un escalar es un número con unidad; un vector además tiene dirección.\n\n**Escalar**: se define con número y unidad.\n\n- Masa, tiempo, energía, temperatura.\n\n**Vector**: se define con magnitud y dirección.\n\n- Desplazamiento, velocidad, aceleración, fuerza.\n\nNotación: $\\vec{A}$ y su magnitud $|\\vec{A}|$ o $A$.\n\nUn vector en el plano tiene **componentes**:\n\n$$A_x = A\\cos\\theta \\qquad A_y = A\\sin\\theta$$\n\nDe componentes a magnitud y ángulo:\n\n$$A = \\sqrt{A_x^2 + A_y^2} \\qquad \\tan\\theta = \\frac{A_y}{A_x}$$\n\nEjemplo: $A = 10$ a $30°$.\n\n$$A_x = 10\\cos 30° = 8.66 \\qquad A_y = 10\\sin 30° = 5$$",
+"truco": "Coseno para x, seno para y, con ángulo desde el eje x.",
+"practica": {
+"ejercicio": "Un vector tiene $A_x=3$ y $A_y=4$. ¿Cuál es su magnitud?",
+"respuesta": "5"
+},
+"analogias": [
+{
+"titulo": "Sombra del vector",
+"texto": "Las componentes son las sombras del vector sobre cada eje, como la sombra de un palo al sol."
+},
+{
+"titulo": "Instrucciones de calle",
+"texto": "Ir en diagonal equivale a caminar unas cuadras al este y otras al norte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿La energía es escalar o vector?",
+"respuesta": "Escalar."
+},
+{
+"ejercicio": "Calcula $A_y$ si $A=20$ a $30°$.",
+"respuesta": "10"
+},
+{
+"ejercicio": "Calcula el ángulo si $A_x=A_y$ y ambos son positivos.",
+"respuesta": "$45°$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Suma de vectores por componentes",
+"slug": "suma-de-vectores-por-componentes-prepa",
+"palabras": [
+"suma de vectores",
+"componentes",
+"resultante",
+"método analítico"
+],
+"contenido": {
+"idea": "Si un avión va al este y el viento lo empuja al norte, no se suman los números tal cual. Se suma por partes: este con este y norte con norte.",
+"pizarron": "**La regla:** suma las $x$ con las $x$, y las $y$ con las $y$.\n\n**Pasos**:\n\n1. Descompón cada vector en $x$ y $y$.\n2. Suma por separado.\n\n$$R_x = \\sum A_x \\qquad R_y = \\sum A_y$$\n\n3. Calcula la resultante:\n\n$$R = \\sqrt{R_x^2 + R_y^2} \\qquad \\tan\\theta = \\frac{R_y}{R_x}$$\n\nEjemplo: $\\vec{A}$ = 10 N a $0°$ y $\\vec{B}$ = 10 N a $90°$.\n\n$$R_x = 10,\\quad R_y = 10$$\n\n$$R = \\sqrt{200} \\approx 14.1\\ \\text{N} \\quad \\theta = 45°$$\n\nEjemplo: $\\vec{A} = (3, 4)$ y $\\vec{B} = (5, -1)$.\n\n$$\\vec{R} = (8, 3) \\qquad R = \\sqrt{73} \\approx 8.54$$\n\nRevisa el cuadrante para el ángulo.",
+"truco": "Separa x y y, suma cada columna y luego Pitágoras.",
+"practica": {
+"ejercicio": "Suma $(2, 3)$ y $(4, 5)$.",
+"respuesta": "$(6, 8)$; magnitud 10."
+},
+"analogias": [
+{
+"titulo": "Dos columnas",
+"texto": "Es como llevar cuentas en dos columnas: no mezclas lo de una con lo de la otra."
+},
+{
+"titulo": "Mapa de calles",
+"texto": "Primero sumas cuadras al este y luego al norte, y al final calculas la diagonal."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Suma $(1, -2)$ y $(3, 2)$.",
+"respuesta": "$(4, 0)$"
+},
+{
+"ejercicio": "Halla la magnitud de $(6, 8)$.",
+"respuesta": "10"
+},
+{
+"ejercicio": "Halla la resultante de 5 N al este y 12 N al norte.",
+"respuesta": "13 N."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Movimiento rectilíneo uniforme",
+"slug": "movimiento-rectilineo-uniforme-prepa",
+"palabras": [
+"MRU",
+"encuentro",
+"velocidad constante",
+"problemas"
+],
+"contenido": {
+"idea": "Dos coches salen a distinta hora por la misma carretera. Con velocidad constante, una ecuación simple predice dónde y cuándo se encuentran.",
+"pizarron": "**La ley:** con velocidad constante, la posición es $x = x_0 + vt$.\n\n$x_0$ es donde empieza. $v$ es la velocidad. $t$ es el tiempo.\n\n**Problema de encuentro:** A sale de 0 a 20 m/s. B sale de 300 m y regresa a 10 m/s.\n\n$$20t = 300 - 10t$$\n\n$$t = 10 \\text{ s}$$\n\nSe encuentran en $x = 200$ m.\n\n**Truco:** para encuentros, iguala las posiciones.\n\n**Para tu escuela:** dos amigos a 100 m caminan uno hacia otro a 2 m/s y 3 m/s. ¿Cuándo se encuentran?",
+"truco": "Para encuentros iguala las dos ecuaciones de posición.",
+"practica": {
+"ejercicio": "Con $x_0=50$ m y $v=-5$ m/s, ¿cuándo llega a $x=0$?",
+"respuesta": "A los 10 s."
+},
+"analogias": [
+{
+"titulo": "Dos caminantes",
+"texto": "Dos personas que caminan una hacia la otra se acercan a la suma de sus rapideces."
+},
+{
+"titulo": "El tren de horario",
+"texto": "Con velocidad fija, el horario de llegada se calcula antes de salir."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Dos móviles a 300 m se acercan a 10 m/s y 20 m/s. ¿Cuándo se encuentran?",
+"respuesta": "A los 10 s."
+},
+{
+"ejercicio": "¿Cuál es la pendiente de $x$ contra $t$?",
+"respuesta": "La velocidad."
+},
+{
+"ejercicio": "Un coche a 90 km/h, ¿cuánto va en m/s?",
+"respuesta": "25 m/s."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Movimiento uniformemente acelerado",
+"slug": "movimiento-uniformemente-acelerado-prepa",
+"palabras": [
+"MRUA",
+"aceleración constante",
+"ecuaciones de cinemática"
+],
+"contenido": {
+"idea": "Un coche arranca desde el semáforo: cada segundo va más rápido, de manera pareja. Tres fórmulas bastan para describirlo.",
+"pizarron": "**La ley:** con aceleración constante, $v = v_0 + at$.\n\nCon aceleración constante:\n\n$$v = v_0 + a\\,t$$\n\n$$x = x_0 + v_0 t + \\frac{1}{2}a\\,t^2$$\n\n$$v^2 = v_0^2 + 2a\\,\\Delta x$$\n\nEjemplo 1: parte del reposo con $a = 3$ m/s² durante 4 s.\n\n$$v = 3(4) = 12\\ \\text{m/s}$$\n\n$$\\Delta x = \\frac{1}{2}(3)(4)^2 = 24\\ \\text{m}$$\n\nEjemplo 2: frena de 20 m/s a 0 con $a = -5$ m/s².\n\n$$0 = 20^2 + 2(-5)\\Delta x \\Rightarrow \\Delta x = 40\\ \\text{m}$$\n\nGráficas: $v$ contra $t$ es una recta; $x$ contra $t$ es una parábola.",
+"truco": "Elige la ecuación que no contenga el dato ausente.",
+"practica": {
+"ejercicio": "Con $v_0=5$ m/s y $a=2$ m/s², ¿cuánto vale $v$ a los 3 s?",
+"respuesta": "11 m/s."
+},
+"analogias": [
+{
+"titulo": "La alcancía creciente",
+"texto": "Si cada día ahorras más que ayer, tu total crece como la distancia con aceleración."
+},
+{
+"titulo": "Tres llaves",
+"texto": "Cada fórmula abre el problema según qué datos falten."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Del reposo con $a=4$ m/s², ¿cuánto avanza en 5 s?",
+"respuesta": "50 m."
+},
+{
+"ejercicio": "Un coche a 30 m/s frena con $-6$ m/s². ¿Cuánto tarda en parar?",
+"respuesta": "5 s."
+},
+{
+"ejercicio": "¿Qué distancia recorre en ese frenado?",
+"respuesta": "75 m."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Tiro vertical",
+"slug": "tiro-vertical-prepa",
+"palabras": [
+"tiro vertical",
+"altura máxima",
+"gravedad",
+"tiempo de vuelo"
+],
+"contenido": {
+"idea": "Lanzas una pelota hacia arriba: se frena, se detiene un instante y regresa. La gravedad nunca dejó de actuar durante todo el viaje.",
+"pizarron": "**La ley:** al lanzar hacia arriba, la gravedad frena hasta $v = 0$ y luego acelera hacia abajo.\n\nSe usa $a = -g$ con $g = 9.8$ m/s², tomando arriba como positivo.\n\n$$v = v_0 - g\\,t$$\n\n$$y = v_0 t - \\frac{1}{2}g\\,t^2$$\n\n**Altura máxima**: allí $v = 0$.\n\n$$t_{sub} = \\frac{v_0}{g} \\qquad h_{max} = \\frac{v_0^2}{2g}$$\n\n**Tiempo de vuelo** (vuelve al mismo nivel):\n\n$$t_v = \\frac{2v_0}{g}$$\n\nEjemplo: $v_0 = 19.6$ m/s.\n\n$$t_{sub} = 2\\ \\text{s}$$\n\n$$h_{max} = \\frac{19.6^2}{2(9.8)} = 19.6\\ \\text{m}$$\n\n$$t_v = 4\\ \\text{s}$$\n\nRegresa a su punto con la misma rapidez con que salió.",
+"truco": "En el punto más alto, v es cero pero a sigue siendo g.",
+"practica": {
+"ejercicio": "Se lanza a 9.8 m/s. ¿Cuánto tarda en llegar arriba?",
+"respuesta": "1 s."
+},
+"analogias": [
+{
+"titulo": "Película en reversa",
+"texto": "La bajada es la subida en reversa: mismas rapideces y mismos tiempos a cada altura."
+},
+{
+"titulo": "La bicicleta en cuesta",
+"texto": "Subes una cuesta perdiendo velocidad hasta frenar, y luego la bajada te devuelve la rapidez."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Con $v_0=29.4$ m/s, ¿cuál es el tiempo de vuelo?",
+"respuesta": "6 s."
+},
+{
+"ejercicio": "Con $v_0=9.8$ m/s, ¿cuál es la altura máxima?",
+"respuesta": "4.9 m."
+},
+{
+"ejercicio": "¿Cuánto vale la aceleración en la cima?",
+"respuesta": "9.8 m/s² hacia abajo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Tiro parabólico",
+"slug": "tiro-parabolico-prepa",
+"palabras": [
+"tiro parabólico",
+"alcance",
+"proyectil",
+"ángulo"
+],
+"contenido": {
+"idea": "Un balón pateado dibuja un arco. Por dentro son dos movimientos juntos: uno parejo de lado y otro acelerado de arriba abajo.",
+"pizarron": "**La ley:** un proyectil avanza parejo en $x$ y acelera por gravedad en $y$.\n\nSe separa en dos ejes:\n\n$$v_{0x} = v_0\\cos\\theta \\qquad v_{0y} = v_0\\sin\\theta$$\n\n**Horizontal**: MRU, sin aceleración.\n\n$$x = v_{0x}\\,t$$\n\n**Vertical**: tiro vertical.\n\n$$y = v_{0y}t - \\frac{1}{2}g\\,t^2$$\n\nPara lanzamiento y caída al mismo nivel:\n\n$$t_v = \\frac{2v_0\\sin\\theta}{g} \\qquad R = \\frac{v_0^2\\sin 2\\theta}{g}$$\n\n$$h_{max} = \\frac{v_{0y}^2}{2g}$$\n\nEjemplo: $v_0 = 20$ m/s a $30°$, con $g = 10$ m/s².\n\n$$t_v = \\frac{2(20)(0.5)}{10} = 2\\ \\text{s}$$\n\n$$R = \\frac{400\\sin 60°}{10} \\approx 34.6\\ \\text{m}$$\n\nEl alcance máximo se logra a $45°$.",
+"truco": "En x va parejo; en y actúa la gravedad.",
+"practica": {
+"ejercicio": "¿A qué ángulo se logra el mayor alcance sin aire?",
+"respuesta": "A $45°$."
+},
+"analogias": [
+{
+"titulo": "Dos películas",
+"texto": "Una sombra en el piso corre pareja y otra en la pared sube y baja: juntas son la parábola."
+},
+{
+"titulo": "La bala que cae",
+"texto": "Una pelota soltada y otra lanzada horizontal llegan al suelo a la vez."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Con $v_0=10$ m/s a $30°$, calcula $v_{0y}$.",
+"respuesta": "5 m/s."
+},
+{
+"ejercicio": "Con $v_0=20$ m/s a $45°$ y $g=10$ m/s², calcula $R$.",
+"respuesta": "40 m."
+},
+{
+"ejercicio": "¿Qué aceleración horizontal hay sin aire?",
+"respuesta": "Cero."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Movimiento circular uniforme",
+"slug": "movimiento-circular-uniforme-prepa",
+"palabras": [
+"movimiento circular",
+"aceleración centrípeta",
+"periodo",
+"frecuencia",
+"velocidad angular"
+],
+"contenido": {
+"idea": "Una rueda de la fortuna gira a ritmo constante y, aun así, tu dirección cambia a cada instante. Ahí hay aceleración hacia el centro.",
+"pizarron": "**La ley:** al girar a rapidez constante hay una aceleración hacia el centro: $a_c = \\frac{v^2}{r}$.\n\n**Periodo $T$**: tiempo de una vuelta.\n\n**Frecuencia $f$**: vueltas por segundo.\n\n$$f = \\frac{1}{T}$$\n\n**Rapidez lineal**:\n\n$$v = \\frac{2\\pi r}{T}$$\n\n**Velocidad angular**:\n\n$$\\omega = \\frac{2\\pi}{T} \\qquad v = \\omega r$$\n\n**Aceleración centrípeta**, hacia el centro:\n\n$$a_c = \\frac{v^2}{r}$$\n\n**Fuerza centrípeta**:\n\n$$F_c = \\frac{m v^2}{r}$$\n\nEjemplo: $m = 2$ kg, $r = 3$ m, $v = 6$ m/s.\n\n$$a_c = \\frac{36}{3} = 12\\ \\text{m/s}^2 \\qquad F_c = 24\\ \\text{N}$$",
+"truco": "Rapidez constante no significa que no haya aceleración.",
+"practica": {
+"ejercicio": "Una rueda da una vuelta en 2 s. ¿Cuál es su frecuencia?",
+"respuesta": "0.5 Hz."
+},
+"analogias": [
+{
+"titulo": "La honda",
+"texto": "La cuerda jala la piedra al centro; si se suelta, la piedra sale en línea recta."
+},
+{
+"titulo": "La curva en coche",
+"texto": "El coche gira porque las llantas lo jalan hacia el centro de la curva."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Con $v=4$ m/s y $r=2$ m, calcula $a_c$.",
+"respuesta": "8 m/s²."
+},
+{
+"ejercicio": "Calcula $F_c$ para 3 kg con esa misma $a_c$.",
+"respuesta": "24 N."
+},
+{
+"ejercicio": "¿Hacia dónde apunta $a_c$?",
+"respuesta": "Hacia el centro."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Trabajo y potencia",
+"slug": "trabajo-y-potencia-prepa",
+"palabras": [
+"trabajo",
+"potencia",
+"joule",
+"ángulo",
+"teorema trabajo energía"
+],
+"contenido": {
+"idea": "Al jalar una maleta con asa inclinada, solo una parte de tu fuerza ayuda a avanzar. El trabajo cuenta exactamente esa parte.",
+"pizarron": "**La regla:** trabajo es $W = Fd\\cos\\theta$, y potencia es $P = \\frac{W}{t}$.\n\n**Trabajo** de una fuerza constante:\n\n$$W = F\\,d\\cos\\theta$$\n\n$\\theta$ es el ángulo entre fuerza y desplazamiento.\n\n- $\\theta = 0°$: trabajo máximo.\n- $\\theta = 90°$: trabajo nulo.\n- $\\theta = 180°$: trabajo negativo, como la fricción.\n\nEjemplo: 100 N a $60°$ por 5 m.\n\n$$W = 100(5)\\cos 60° = 250\\ \\text{J}$$\n\n**Potencia**:\n\n$$P = \\frac{W}{t} = F\\,v$$\n\nEjemplo: una fuerza de 200 N mueve algo a 3 m/s.\n\n$$P = 600\\ \\text{W}$$\n\n**Teorema trabajo-energía**:\n\n$$W_{neto} = \\Delta E_c$$",
+"truco": "Solo cuenta la parte de la fuerza alineada con el avance.",
+"practica": {
+"ejercicio": "Calcula $W$ con $F=50$ N, $d=4$ m y $\\theta=0°$.",
+"respuesta": "200 J."
+},
+"analogias": [
+{
+"titulo": "Jalar el trineo",
+"texto": "Si jalas hacia arriba y adelante, solo lo que va hacia adelante mueve el trineo."
+},
+{
+"titulo": "El rendimiento",
+"texto": "De tu esfuerzo total, cuenta la parte útil, como el dinero que sí llega a tu cuenta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula $W$ con $F=20$ N, $d=10$ m y $\\theta=60°$.",
+"respuesta": "100 J."
+},
+{
+"ejercicio": "¿Cuál es la potencia para 1000 J en 20 s?",
+"respuesta": "50 W."
+},
+{
+"ejercicio": "¿Qué signo tiene el trabajo de la fricción?",
+"respuesta": "Negativo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Energía cinética y potencial",
+"slug": "energia-cinetica-y-potencial-prepa",
+"palabras": [
+"energía cinética",
+"energía potencial",
+"elástica",
+"resorte"
+],
+"contenido": {
+"idea": "Un arquero tensa la cuerda, guarda energía y la convierte en movimiento de la flecha. Dos formas de energía en un solo disparo.",
+"pizarron": "**La regla:** $E_c = \\frac{1}{2}mv^2$ y $E_p = mgh$.\n\n**Energía cinética**:\n\n$$E_c = \\frac{1}{2}m v^2$$\n\n**Energía potencial gravitacional**:\n\n$$E_p = m g h$$\n\n**Energía potencial elástica**:\n\n$$E_e = \\frac{1}{2}k x^2$$\n\n$k$ es la constante del resorte y $x$ su deformación.\n\n**Ejemplo 1**: 3 kg a 4 m/s.\n\n$$E_c = \\frac{1}{2}(3)(16) = 24\\ \\text{J}$$\n\n**Ejemplo 2**: 2 kg a 5 m, con $g = 9.8$ m/s².\n\n$$E_p = 98\\ \\text{J}$$\n\n**Ejemplo 3**: resorte $k = 200$ N/m comprimido 0.1 m.\n\n$$E_e = \\frac{1}{2}(200)(0.01) = 1\\ \\text{J}$$",
+"truco": "Tanto la velocidad como la deformación van al cuadrado.",
+"practica": {
+"ejercicio": "Calcula $E_c$ de 2 kg a 10 m/s.",
+"respuesta": "100 J."
+},
+"analogias": [
+{
+"titulo": "El arco y la flecha",
+"texto": "La cuerda tensa guarda energía elástica y se la pasa a la flecha como cinética."
+},
+{
+"titulo": "El tinaco",
+"texto": "El agua en alto guarda energía que luego sale por la llave con velocidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula $E_e$ con $k=100$ N/m y $x=0.2$ m.",
+"respuesta": "2 J."
+},
+{
+"ejercicio": "Si duplicas $v$, ¿qué pasa con $E_c$?",
+"respuesta": "Se multiplica por 4."
+},
+{
+"ejercicio": "Calcula $E_p$ de 1 kg a 10 m.",
+"respuesta": "98 J."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Conservación de la energía mecánica",
+"slug": "conservacion-de-la-energia-mecanica-prepa",
+"palabras": [
+"conservación",
+"energía mecánica",
+"fuerzas conservativas",
+"péndulo"
+],
+"contenido": {
+"idea": "En un columpio ideal, lo que ganas de altura lo pierdes de velocidad y al revés. La suma total se queda igual.",
+"pizarron": "**La ley:** sin fricción, la energía cinética más la potencial se mantiene constante.\n\nSin fricción:\n\n$$E_{c,i} + E_{p,i} = E_{c,f} + E_{p,f}$$\n\nEjemplo 1: desde 20 m en reposo.\n\n$$m g h = \\frac{1}{2}m v^2 \\Rightarrow v = \\sqrt{2gh} = \\sqrt{2(9.8)(20)} = 19.8\\ \\text{m/s}$$\n\nLa masa se cancela.\n\nEjemplo 2: un carrito llega a la base a 10 m/s. Altura máxima:\n\n$$h = \\frac{v^2}{2g} = \\frac{100}{19.6} = 5.1\\ \\text{m}$$\n\n**Con fricción**:\n\n$$E_{m,i} = E_{m,f} + W_{fricción}$$\n\nEjemplo: empieza con 100 J y termina con 70 J. La fricción disipó 30 J como calor.",
+"truco": "Escribe energía al inicio igual a energía al final.",
+"practica": {
+"ejercicio": "Un objeto cae desde 5 m. ¿A qué velocidad llega, con $g=10$ m/s²?",
+"respuesta": "10 m/s."
+},
+"analogias": [
+{
+"titulo": "El presupuesto fijo",
+"texto": "Tienes una cantidad total: lo que no gastas en una cuenta queda en la otra."
+},
+{
+"titulo": "El péndulo",
+"texto": "Sube, baja y vuelve a subir casi igual, intercambiando altura y velocidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Depende $v=\\sqrt{2gh}$ de la masa?",
+"respuesta": "No."
+},
+{
+"ejercicio": "Si $E_i=500$ J y $E_f=420$ J, ¿cuánto se disipó?",
+"respuesta": "80 J."
+},
+{
+"ejercicio": "Un objeto llega a la base con 20 m/s. ¿A qué altura sube, con $g=10$ m/s²?",
+"respuesta": "20 m."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Cantidad de movimiento",
+"slug": "cantidad-de-movimiento-prepa",
+"palabras": [
+"cantidad de movimiento",
+"momento lineal",
+"impulso",
+"p = mv"
+],
+"contenido": {
+"idea": "Es fácil detener una bicicleta lenta, pero no un tráiler lento. La cantidad de movimiento combina masa y velocidad para explicar eso.",
+"pizarron": "**La regla:** la cantidad de movimiento es masa por velocidad: $p = mv$.\n\nLa **cantidad de movimiento** es un vector:\n\n$$\\vec{p} = m\\,\\vec{v}$$\n\nUnidad: kg·m/s.\n\nEjemplo: 1000 kg a 20 m/s.\n\n$$p = 20\\,000\\ \\text{kg·m/s}$$\n\n**Impulso**: fuerza por tiempo.\n\n$$J = F\\,\\Delta t = \\Delta p$$\n\nEjemplo: una fuerza de 50 N durante 2 s da $J = 100$ N·s.\n\nSi la fuerza actúa más tiempo, se necesita menos fuerza para el mismo cambio. Por eso las bolsas de aire protegen.\n\n**Conservación**: sin fuerzas externas,\n\n$$\\vec{p}_{antes} = \\vec{p}_{después}$$",
+"truco": "Alargar el tiempo de impacto reduce la fuerza.",
+"practica": {
+"ejercicio": "Calcula $p$ de 5 kg a 4 m/s.",
+"respuesta": "20 kg·m/s."
+},
+"analogias": [
+{
+"titulo": "Doblar las rodillas",
+"texto": "Al caer doblas las rodillas para alargar el frenado y sentir menos fuerza."
+},
+{
+"titulo": "Atrapar un huevo",
+"texto": "Si mueves la mano al atraparlo, el golpe es suave y no se rompe."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula el impulso de 30 N durante 4 s.",
+"respuesta": "120 N·s."
+},
+{
+"ejercicio": "Un balón de 0.5 kg pasa de 0 a 20 m/s. ¿Cuál es $\\Delta p$?",
+"respuesta": "10 kg·m/s."
+},
+{
+"ejercicio": "Si ese cambio ocurre en 0.1 s, ¿qué fuerza promedio actuó?",
+"respuesta": "100 N."
+}
+]
+}
+},
+{
+"nodo_id": "ems-046",
+"titulo": "Choques",
+"slug": "choques-prepa",
+"palabras": [
+"choques",
+"elástico",
+"inelástico",
+"conservación del momento"
+],
+"contenido": {
+"idea": "Dos bolas de billar rebotan y dos coches se quedan pegados. En ambos choques se conserva la cantidad de movimiento.",
+"pizarron": "**La ley:** en un choque aislado, la cantidad de movimiento total se conserva.\n\nEn todo choque aislado:\n\n$$m_1 v_{1i} + m_2 v_{2i} = m_1 v_{1f} + m_2 v_{2f}$$\n\n**Elástico**: se conservan momento y energía cinética. Los cuerpos rebotan.\n\n**Inelástico**: se conserva el momento, pero se pierde energía cinética.\n\n**Perfectamente inelástico**: quedan pegados.\n\n$$v_f = \\frac{m_1 v_1 + m_2 v_2}{m_1 + m_2}$$\n\nEjemplo: 2 kg a 6 m/s choca con 4 kg en reposo y se pegan.\n\n$$v_f = \\frac{12}{6} = 2\\ \\text{m/s}$$\n\nEnergía antes: $36$ J. Energía después: $\\frac{1}{2}(6)(4) = 12$ J. Se perdieron 24 J.\n\nCuida los signos: sentidos opuestos llevan signos opuestos.",
+"truco": "Pegados: suma momentos y divide entre la masa total.",
+"practica": {
+"ejercicio": "3 kg a 4 m/s choca y se pega a 1 kg en reposo. ¿Cuál es $v_f$?",
+"respuesta": "3 m/s."
+},
+"analogias": [
+{
+"titulo": "Bolas de billar",
+"texto": "Una bola transfiere casi todo su movimiento a la otra, sin perderlo casi nada."
+},
+{
+"titulo": "Plastilina contra plastilina",
+"texto": "Se pegan y la energía se va en deformarlas y calentarlas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué se conserva en todo choque aislado?",
+"respuesta": "La cantidad de movimiento."
+},
+{
+"ejercicio": "2 kg a 5 m/s y 3 kg a 0 m/s se pegan. Halla $v_f$.",
+"respuesta": "2 m/s."
+},
+{
+"ejercicio": "2 kg a 3 m/s chocan de frente con 2 kg a $-3$ m/s y se pegan. Halla $v_f$.",
+"respuesta": "0 m/s."
+}
+]
+}
+},
+{
+"nodo_id": "ems-047",
+"titulo": "Escalas Celsius, Fahrenheit y Kelvin",
+"slug": "escalas-celsius-fahrenheit-y-kelvin-prepa",
+"palabras": [
+"Celsius",
+"Fahrenheit",
+"Kelvin",
+"conversión de temperatura"
+],
+"contenido": {
+"idea": "En un pronóstico de Estados Unidos ves 98 grados y no significa que te cocerías. Solo se usa otra escala para el mismo calor.",
+"pizarron": "**La regla:** $T_K = T_C + 273.15$ y $T_F = 1.8\\,T_C + 32$.\n\n**Ejemplo:** 20 °C a Fahrenheit.\n\nMultiplica: $20 \\times 1.8 = 36$.\n\nSuma: $36 + 32 = 68$ °F.\n\n**De Fahrenheit a Celsius:** resta 32 y divide entre 1.8.\n\n98.6 °F: $(98.6 - 32) \\div 1.8 = 37$ °C.\n\n**De Celsius a Kelvin:** suma 273.\n\nLa escala Kelvin no tiene negativos.\n\n**Para tu escuela:** convierte 30 °C a Fahrenheit y a Kelvin.",
+"truco": "Cinco novenos o nueve quintos: mira hacia dónde vas.",
+"practica": {
+"ejercicio": "Convierte 25 °C a Fahrenheit.",
+"respuesta": "77 °F."
+},
+"analogias": [
+{
+"titulo": "Dos reglas distintas",
+"texto": "Pulgadas y centímetros miden igual una mesa; cada escala solo cambia los números."
+},
+{
+"titulo": "Moneda extranjera",
+"texto": "Se convierte con una fórmula, igual que cambiar pesos por dólares más una comisión fija."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 212 °F a Celsius.",
+"respuesta": "100 °C."
+},
+{
+"ejercicio": "Convierte 300 K a Celsius, usando 273.",
+"respuesta": "27 °C."
+},
+{
+"ejercicio": "Un aumento de 10 °C, ¿cuántos °F son?",
+"respuesta": "18 °F."
+}
+]
+}
+}
 ]

@@ -1,72 +1,462 @@
 [
-{"nodo_id":"ems-037","titulo":"Fenómenos naturales interrelacionados","slug":"fenomenos-interrelacionados-prepa","palabras":["interrelación","naturaleza","ciencia","tecnología","sistemas","innovación"],"contenido":{
-"idea":"Imagina un jardín: la lluvia moja la tierra, la tierra alimenta a las plantas, las plantas dan casa a los insectos y los pájaros se comen a los insectos. Nada pasa solo; todo está conectado, como los eslabones de una cadena.",
-"pizarron":"Los fenómenos naturales (físicos, químicos y biológicos) se relacionan entre sí. Se pueden estudiar de dos formas:\n\n1. **En conjunto (visión integral):** se observa el sistema completo, por ejemplo el ciclo del agua, donde intervienen energía solar (física), cambios de estado (química) y seres vivos (biología).\n2. **De forma especializada:** se separa una parte para estudiarla a fondo, por ejemplo cómo se evapora el agua o cómo absorbe agua una raíz.\n\nAmbas formas se complementan. El conocimiento especializado da detalle; la visión de conjunto da sentido. De esa combinación nacen la generación de conocimiento (explicaciones nuevas) y la innovación tecnológica, como las plantas potabilizadoras, que usan principios de física, química y biología a la vez.",
-"truco":"Lupa para el detalle, ventana para el conjunto.",
-"practica":{"ejercicio":"Menciona tres ciencias (física, química, biología) que intervienen cuando una planta hace fotosíntesis.","respuesta":"Física: la luz solar aporta energía. Química: el dióxido de carbono y el agua se transforman en glucosa y oxígeno. Biología: la planta, como ser vivo, crece y se nutre con ese proceso."},
-"analogias":[{"titulo":"El rompecabezas","texto":"Cada pieza es un fenómeno estudiado por separado; solo al juntarlas ves la imagen completa de la naturaleza."},{"titulo":"La orquesta","texto":"Cada instrumento suena distinto y se puede estudiar solo, pero la música completa surge cuando todos tocan juntos."}],
-"ejercicios":[{"ejercicio":"Explica por qué estudiar solo la lluvia no basta para entender el ciclo del agua.","respuesta":"Porque la lluvia depende de la evaporación, del calor del Sol, de las nubes y de lo que ocurre en suelos y seres vivos; son partes conectadas de un mismo sistema."},{"ejercicio":"Da un ejemplo de estudio especializado y uno de estudio en conjunto sobre un río.","respuesta":"Especializado: medir el pH del agua. En conjunto: analizar cómo el clima, el suelo, los peces y las personas influyen entre sí en el río."},{"ejercicio":"Menciona una innovación tecnológica que use conocimientos de varias ciencias y di cuáles.","respuesta":"Un panel solar: física (efecto de la luz sobre materiales), química (materiales semiconductores) y ciencias ambientales (energía limpia)."}]}},
-{"nodo_id":"ems-038","titulo":"Materia, cuerpo, masa y densidad","slug":"materia-masa-densidad-prepa","palabras":["materia","cuerpo","masa","volumen","densidad","propiedades"],"contenido":{
-"idea":"Una caja de plumas y una caja del mismo tamaño llena de piedras no pesan igual. Las piedras tienen más materia metida en el mismo espacio. A eso le llamamos densidad.",
-"pizarron":"**Materia:** todo lo que tiene masa y ocupa un lugar en el espacio (agua, aire, madera).\n\n**Cuerpo:** una porción limitada de materia con forma definida, como una moneda o una silla.\n\n**Masa ($m$):** cantidad de materia de un cuerpo. Se mide en kilogramos (kg) o gramos (g).\n\n**Volumen ($V$):** espacio que ocupa. Se mide en cm³, mL o L.\n\n**Densidad ($\\rho$):** masa contenida en cada unidad de volumen:\n\n$$\\rho = \\frac{m}{V}$$\n\nEjemplo: un bloque de 54 g ocupa 20 cm³.\n\n$\\rho = \\frac{54}{20} = 2.7$ g/cm³ (como el aluminio).\n\nSi la densidad de un objeto es menor que la del agua (1 g/cm³), flota en ella; si es mayor, se hunde.",
-"truco":"Densidad: masa sobre volumen, \"m entre V\".",
-"practica":{"ejercicio":"Un cubo tiene 200 g de masa y 50 cm³ de volumen. ¿Cuál es su densidad?","respuesta":"$\\rho = 200/50 = 4$ g/cm³."},
-"analogias":[{"titulo":"El autobús lleno","texto":"Dos autobuses del mismo tamaño: el que lleva más pasajeros por espacio es más denso. La densidad mide qué tan apretada va la materia."},{"titulo":"Esponja y piedra","texto":"Una esponja y una piedra de igual tamaño tienen distinta masa porque la esponja tiene muchos huecos con aire; la piedra es más compacta."}],
-"ejercicios":[{"ejercicio":"Un aceite tiene densidad de 0.8 g/cm³. ¿Qué masa tienen 250 cm³?","respuesta":"$m = \\rho V = 0.8 \\times 250 = 200$ g."},{"ejercicio":"Un objeto de 90 g tiene densidad de 1.8 g/cm³. ¿Qué volumen ocupa?","respuesta":"$V = m/\\rho = 90/1.8 = 50$ cm³."},{"ejercicio":"Un trozo de madera de 0.6 g/cm³, ¿flota o se hunde en agua? Explica.","respuesta":"Flota, porque 0.6 g/cm³ es menor que la densidad del agua, 1 g/cm³."}]}},
-{"nodo_id":"ems-039","titulo":"La ciencia como actividad creativa y colectiva","slug":"ciencia-actividad-colectiva-prepa","palabras":["ciencia","preguntas","experimentación","método científico","hipótesis","análisis"],"contenido":{
-"idea":"Un científico es como un niño muy curioso que pregunta \"¿por qué?\", inventa formas de probar sus ideas y luego comparte lo que descubrió con sus amigos para seguir aprendiendo juntos.",
-"pizarron":"La ciencia es una actividad **creativa**, porque exige imaginar preguntas, explicaciones y experimentos; y **social y colectiva**, porque se construye entre muchas personas que comparten, revisan y corrigen resultados.\n\nUn camino común de trabajo:\n\n1. **Observar** un fenómeno de tu entorno.\n2. **Plantear una pregunta** concreta: ¿por qué se oxida un clavo?\n3. **Proponer una hipótesis**, una explicación que se puede comprobar.\n4. **Experimentar** controlando variables: cambiar una sola cosa a la vez.\n5. **Analizar** los datos y concluir.\n6. **Comunicar** los resultados para que otros los revisen.\n\nNo existe una receta única: a veces se vuelve a un paso anterior. Una explicación científica puede mejorarse si surgen datos nuevos.",
-"truco":"Pregunta, prueba, piensa y platica.",
-"practica":{"ejercicio":"Quieres saber si el agua caliente disuelve más rápido el azúcar. ¿Qué variable cambias y cuáles mantienes iguales?","respuesta":"Cambias la temperatura del agua. Mantienes igual la cantidad de agua, la cantidad de azúcar y la forma de revolver."},
-"analogias":[{"titulo":"Construir una casa","texto":"Cada científico pone un ladrillo; la casa del conocimiento se levanta con el trabajo de muchas personas a lo largo del tiempo."},{"titulo":"Cocinar probando","texto":"Un cocinero cambia un ingrediente, prueba y anota el resultado. Así ajusta la receta, igual que la ciencia ajusta sus explicaciones."}],
-"ejercicios":[{"ejercicio":"Escribe una pregunta científica que puedas investigar sobre las plantas de tu casa.","respuesta":"Por ejemplo: ¿crece más una planta con luz directa que una en sombra? Es válida si se puede medir y comprobar."},{"ejercicio":"¿Por qué es importante que otros revisen los resultados de un experimento?","respuesta":"Porque permite detectar errores, repetir el experimento y confirmar si los resultados son confiables."},{"ejercicio":"Reflexiona: ¿por qué decimos que la ciencia es creativa? Da dos criterios.","respuesta":"Respuesta válida si menciona que se imaginan preguntas e hipótesis nuevas y que se diseñan experimentos ingeniosos para probarlas."}]}},
-{"nodo_id":"ems-040","titulo":"El átomo y su composición eléctrica","slug":"atomo-composicion-electrica-prepa","palabras":["átomo","protón","neutrón","electrón","carga eléctrica","número atómico"],"contenido":{
-"idea":"Imagina un sistema solar diminuto: al centro hay un sol pequeño y pesado, y alrededor giran bolitas muy ligeras. Así se imagina un átomo, el ladrillo más chico con el que está construida la materia.",
-"pizarron":"El átomo tiene un **núcleo** y una **nube de electrones**.\n\n| Partícula | Carga | Ubicación |\n|---|---|---|\n| Protón | positiva (+) | núcleo |\n| Neutrón | sin carga (0) | núcleo |\n| Electrón | negativa (−) | alrededor del núcleo |\n\n- **Número atómico ($Z$):** cantidad de protones; identifica al elemento.\n- **Número de masa ($A$):** protones + neutrones.\n- Neutrones = $A - Z$.\n\nUn átomo neutro tiene igual número de protones y electrones, así que sus cargas se cancelan.\n\nEjemplo: el sodio tiene $Z = 11$ y $A = 23$. Tiene 11 protones, 11 electrones y $23 - 11 = 12$ neutrones.",
-"truco":"Protón positivo, electrón negativo, neutrón neutral.",
-"practica":{"ejercicio":"El carbono tiene $Z = 6$. ¿Cuántos protones y electrones tiene un átomo neutro de carbono?","respuesta":"6 protones y 6 electrones."},
-"analogias":[{"titulo":"La canica en el estadio","texto":"Si el núcleo fuera una canica en el centro de un estadio, los electrones andarían por las gradas: casi todo el átomo es espacio vacío."},{"titulo":"Imanes","texto":"Los protones y los electrones se atraen como los polos opuestos de un imán; por eso los electrones se quedan cerca del núcleo."}],
-"ejercicios":[{"ejercicio":"El oxígeno tiene $Z = 8$ y $A = 16$. ¿Cuántos neutrones tiene?","respuesta":"$16 - 8 = 8$ neutrones."},{"ejercicio":"Un átomo tiene 17 protones y 17 electrones. ¿Está cargado? Explica.","respuesta":"No, es neutro: 17 cargas positivas y 17 negativas se cancelan."},{"ejercicio":"¿Qué partícula define de qué elemento es un átomo?","respuesta":"El protón: su cantidad es el número atómico $Z$."}]}},
-{"nodo_id":"ems-041","titulo":"Iones, moléculas y enlaces químicos","slug":"iones-moleculas-enlaces-prepa","palabras":["ion","enlace iónico","enlace covalente","molécula","estabilidad","electrones"],"contenido":{
-"idea":"Los átomos son como niños que quieren su capa de juguetes completa. Algunos regalan un juguete, otros lo reciben y otros lo comparten, y así quedan contentos y estables.",
-"pizarron":"Los átomos tienden a quedar estables, con su capa externa de electrones completa (casi siempre 8 electrones, o 2 en el hidrógeno). Para lograrlo se unen formando **enlaces**.\n\n**Ion:** átomo con carga porque ganó o perdió electrones.\n- Pierde electrones: **catión** (+). Ejemplo: $\\ce{Na -> Na+ + e-}$.\n- Gana electrones: **anión** (−). Ejemplo: $\\ce{Cl + e- -> Cl-}$.\n\n**Enlace iónico:** un átomo cede electrones y otro los recibe; los iones opuestos se atraen. Ejemplo: $\\ce{NaCl}$ (sal de mesa).\n\n**Enlace covalente:** los átomos comparten electrones y forman **moléculas**. Ejemplos: $\\ce{H2O}$, $\\ce{O2}$.\n\nUna **sustancia** es el material formado por muchos de estos átomos, iones o moléculas iguales.",
-"truco":"Iónico: se regalan; covalente: se comparten.",
-"practica":{"ejercicio":"El magnesio pierde 2 electrones. ¿Qué ion forma y qué carga tiene?","respuesta":"Forma un catión, $\\ce{Mg^2+}$, con carga +2."},
-"analogias":[{"titulo":"Regalo y compartir","texto":"En el enlace iónico un niño regala una galleta a otro; en el covalente dos niños comparten una pizza entre ambos."},{"titulo":"Piezas que encajan","texto":"Un átomo con una pieza de sobra y otro al que le falta una encajan como piezas de rompecabezas y forman una unión estable."}],
-"ejercicios":[{"ejercicio":"El cloro gana 1 electrón. ¿Qué ion forma?","respuesta":"Un anión, $\\ce{Cl-}$, con carga −1."},{"ejercicio":"¿Qué tipo de enlace hay en $\\ce{H2O}$ y por qué?","respuesta":"Covalente, porque el oxígeno y los hidrógenos comparten electrones."},{"ejercicio":"El oxígeno gana 2 electrones. ¿Qué carga tiene su ion?","respuesta":"Carga −2: $\\ce{O^2-}$."}]}},
-{"nodo_id":"ems-042","titulo":"Naturaleza energética y corpuscular de la materia","slug":"materia-energia-corpusculos-prepa","palabras":["corpuscular","energía","partículas","luz","aplicaciones tecnológicas","modelo"],"contenido":{
-"idea":"Una pared de ladrillos se ve lisa de lejos, pero de cerca son muchos ladrillos juntos. La materia también está hecha de partículas diminutas que nunca se quedan quietas: siempre tienen energía.",
-"pizarron":"**Naturaleza corpuscular:** la materia está formada por partículas (átomos, moléculas, iones) con espacios entre ellas. Es el modelo corpuscular.\n\n**Naturaleza energética:** esas partículas se mueven y se atraen, por lo que poseen energía. Al calentar una sustancia sus partículas se mueven más rápido; al enfriarla, más lento.\n\nEste modelo explica hechos cotidianos:\n- El aroma de comida llega a otra habitación porque las partículas se mueven y se mezclan (difusión).\n- Un gas se comprime porque hay mucho espacio entre sus partículas.\n\n**Aplicaciones tecnológicas:**\n- Hornos de microondas: la radiación hace vibrar las moléculas de agua del alimento y lo calienta.\n- Celdas solares: la energía de la luz mueve electrones y genera corriente eléctrica.\n- Termómetros: el líquido se expande porque sus partículas se mueven más.",
-"truco":"Partículas y energía: la materia nunca está quieta.",
-"practica":{"ejercicio":"¿Por qué el colorante se esparce más rápido en agua caliente que en agua fría?","respuesta":"Porque en agua caliente las partículas se mueven más rápido y se mezclan antes."},
-"analogias":[{"titulo":"Arena de playa","texto":"De lejos la arena parece una sola masa, pero son miles de granitos. La materia es similar: parece continua, pero son partículas."},{"titulo":"Fiesta bailable","texto":"Con música lenta la gente se mueve poco; con música rápida baila más. Las partículas se mueven más con más energía."}],
-"ejercicios":[{"ejercicio":"Explica con el modelo corpuscular por qué se puede inflar un globo con aire.","respuesta":"El aire tiene partículas muy separadas; al entrar más partículas, chocan contra las paredes del globo y lo estiran."},{"ejercicio":"¿Qué ocurre con el movimiento de las partículas al calentar un líquido?","respuesta":"Se mueven más rápido y el líquido aumenta su temperatura."},{"ejercicio":"Menciona una aplicación tecnológica del modelo energético de la materia y explícala.","respuesta":"Por ejemplo, el microondas: hace vibrar las moléculas de agua del alimento, aumenta su energía y por eso se calienta."}]}},
-{"nodo_id":"ems-043","titulo":"Estados de agregación y energía de las partículas","slug":"estados-agregacion-energia-prepa","palabras":["sólido","líquido","gas","estados de agregación","energía cinética","fuerzas de atracción"],"contenido":{
-"idea":"Un salón de clases: si todos están sentados en su lugar, es un sólido; si caminan juntos por el patio, es un líquido; si corren por todos lados, es un gas.",
-"pizarron":"Los estados de agregación dependen del movimiento, la separación y las fuerzas entre las partículas.\n\n| Estado | Movimiento | Separación | Atracción | Propiedades |\n|---|---|---|---|---|\n| Sólido | vibran en su lugar | muy cerca | muy fuerte | forma y volumen fijos |\n| Líquido | se deslizan | cerca | media | volumen fijo, forma del recipiente |\n| Gas | muy rápido y libre | muy lejos | casi nula | sin forma ni volumen fijos |\n\n**Energía cinética:** energía del movimiento de las partículas; aumenta con la temperatura.\n\n**Energía potencial:** energía por las posiciones y atracciones entre partículas.\n\n**Energía interna:** suma de ambas. Al calentar, aumenta la energía interna: un sólido funde, un líquido hierve. Al enfriar, ocurre lo contrario.",
-"truco":"Más energía, más movimiento: sólido, líquido, gas.",
-"practica":{"ejercicio":"¿Por qué un líquido toma la forma del recipiente pero conserva su volumen?","respuesta":"Sus partículas se deslizan unas sobre otras (toman la forma), pero siguen cerca y atraídas (el volumen no cambia)."},
-"analogias":[{"titulo":"Abrazados, de la mano y sueltos","texto":"Sólido: personas abrazadas. Líquido: personas tomadas de la mano caminando. Gas: personas sueltas que corren por todos lados."},{"titulo":"Palomitas","texto":"Al calentar el maíz, la energía aumenta hasta que se rompe y se expande; calentar da más energía a las partículas."}],
-"ejercicios":[{"ejercicio":"¿Por qué un gas se puede comprimir y un sólido casi no?","respuesta":"En el gas las partículas están muy separadas, hay espacio vacío; en el sólido ya están muy juntas."},{"ejercicio":"¿Qué sucede con la energía cinética de las partículas del hielo al derretirse y calentarse?","respuesta":"Aumenta: las partículas se mueven más al absorber energía."},{"ejercicio":"Ordena de menor a mayor atracción entre partículas: gas, sólido, líquido.","respuesta":"Gas, líquido, sólido."}]}},
-{"nodo_id":"ems-044","titulo":"Sustancias, elementos, compuestos y mezclas","slug":"sustancias-elementos-compuestos-mezclas-prepa","palabras":["sustancia pura","elemento","compuesto","mezcla","homogénea","heterogénea"],"contenido":{
-"idea":"Con letras puedes formar palabras. Las letras son como los elementos, las palabras como los compuestos, y una oración con muchas palabras revueltas es como una mezcla.",
-"pizarron":"**Sustancia pura:** tiene composición fija y propiedades definidas. Puede ser:\n- **Elemento:** un solo tipo de átomo. Ejemplos: $\\ce{O2}$, $\\ce{Fe}$, $\\ce{Au}$.\n- **Compuesto:** dos o más elementos unidos químicamente en proporción fija. Ejemplos: $\\ce{H2O}$, $\\ce{CO2}$, $\\ce{NaCl}$. Solo se separan con reacciones químicas.\n\n**Mezcla:** dos o más sustancias unidas sin reacción; cada una conserva sus propiedades y se separa con métodos físicos (filtrar, destilar, evaporar).\n- **Homogénea:** se ve una sola fase (agua con sal).\n- **Heterogénea:** se distinguen fases (agua con aceite, ensalada).\n\n**Propiedades físicas:** se observan sin cambiar la sustancia (color, punto de fusión, densidad). **Propiedades químicas:** describen cómo reacciona (inflamabilidad, oxidación).",
-"truco":"Pura: una receta fija; mezcla: revoltura libre.",
-"practica":{"ejercicio":"Clasifica: oro, agua, agua con azúcar.","respuesta":"Oro: elemento. Agua: compuesto. Agua con azúcar: mezcla homogénea."},
-"analogias":[{"titulo":"Ladrillos, paredes y bolsa de piezas","texto":"Elemento: un tipo de ladrillo. Compuesto: pared ya construida. Mezcla: bolsa con ladrillos y piedras sueltos."},{"titulo":"Pastel y ensalada","texto":"En un pastel los ingredientes ya cambiaron y no se separan fácil (compuesto); en una ensalada puedes sacar cada ingrediente (mezcla)."}],
-"ejercicios":[{"ejercicio":"¿Cómo separarías arena de agua? ¿Qué tipo de mezcla es?","respuesta":"Filtrando. Es una mezcla heterogénea."},{"ejercicio":"¿Por qué el $\\ce{CO2}$ es un compuesto y no una mezcla?","respuesta":"Porque el carbono y el oxígeno están unidos químicamente en proporción fija y solo se separan con una reacción química."},{"ejercicio":"Indica si es propiedad física o química: la densidad del hierro; que el hierro se oxide.","respuesta":"La densidad es física; la oxidación es química."}]}},
-{"nodo_id":"ems-045","titulo":"La energía se transforma y se transfiere","slug":"energia-transformacion-conservacion-prepa","palabras":["energía","conservación","transformación","transferencia","energía potencial","energía cinética"],"contenido":{
-"idea":"La energía es como el dinero en tu cartera: puedes cambiarlo de billetes a monedas o dárselo a otra persona, pero no desaparece. Solo cambia de forma o de dueño.",
-"pizarron":"**Ley de conservación de la energía:** la energía no se crea ni se destruye; solo se **transforma** (cambia de forma) o se **transfiere** (pasa de un cuerpo a otro).\n\nEjemplos cotidianos:\n- Un foco transforma energía eléctrica en luz y calor.\n- Al frotar tus manos, la energía del movimiento se transforma en calor.\n- Una pelota que cae transforma energía potencial en cinética.\n\nFórmulas básicas (con $g = 10$ m/s²):\n\n$$E_p = m g h \\qquad E_c = \\tfrac{1}{2} m v^2$$\n\nUnidad: joule (J).\n\nEjemplo: un objeto de 2 kg a 10 m de altura tiene $E_p = 2 \\times 10 \\times 10 = 200$ J. Al caer, esa energía pasa a cinética, y justo antes de tocar el suelo $E_c = 200$ J (sin considerar fricción).\n\nParte de la energía se disipa como calor por fricción, pero la suma total se conserva.",
-"truco":"Ni se crea ni se destruye: se transforma y se transfiere.",
-"practica":{"ejercicio":"¿Qué transformaciones ocurren al encender una licuadora?","respuesta":"Energía eléctrica se transforma en energía cinética de las aspas, y una parte en calor y sonido."},
-"analogias":[{"titulo":"El agua en vasos","texto":"Pasas agua de un vaso a otro y cambias su forma, pero la cantidad total de agua no cambia, igual que la energía."},{"titulo":"Montaña rusa","texto":"Arriba tiene mucha energía de altura; al bajar la convierte en velocidad. Nada se pierde, solo cambia de tipo."}],
-"ejercicios":[{"ejercicio":"Calcula la energía potencial de 1 kg a 5 m ($g = 10$ m/s²).","respuesta":"$E_p = 1 \\times 10 \\times 5 = 50$ J."},{"ejercicio":"Calcula la energía cinética de 0.5 kg que se mueve a 4 m/s.","respuesta":"$E_c = \\tfrac{1}{2} \\times 0.5 \\times 4^2 = 4$ J."},{"ejercicio":"Una pila alimenta una linterna. Describe las transformaciones.","respuesta":"Energía química de la pila se transforma en energía eléctrica y luego en luz y calor."}]}},
-{"nodo_id":"ems-046","titulo":"Fuerza, movimiento y energía mecánica","slug":"fuerza-movimiento-energia-mecanica-prepa","palabras":["fuerza","movimiento","energía mecánica","trabajo","newton","aceleración"],"contenido":{
-"idea":"Cuando empujas un carrito, lo mueves. Si empujas más fuerte, se mueve más rápido. Esa fuerza que le das es la que le pasa energía y lo pone a andar.",
-"pizarron":"Una **fuerza** es una interacción entre cuerpos que puede cambiar su movimiento o forma. Se mide en newtons (N).\n\nSegún la segunda ley de Newton:\n\n$$F = m a$$\n\nEjemplo: 10 kg con aceleración de 3 m/s² requieren $F = 10 \\times 3 = 30$ N.\n\n**Trabajo:** cuando una fuerza mueve un cuerpo una distancia $d$ en su misma dirección,\n\n$$W = F d$$\n\nEjemplo: 20 N a lo largo de 5 m dan $W = 100$ J. Ese trabajo transfiere energía al cuerpo.\n\n**Energía mecánica:** suma de la energía cinética y la potencial:\n\n$$E_m = E_c + E_p$$\n\nEjemplo: 2 kg a 3 m/s y 5 m de altura ($g = 10$ m/s²): $E_c = 9$ J, $E_p = 100$ J, así que $E_m = 109$ J.\n\nSin fricción, la energía mecánica se conserva.",
-"truco":"Fuerza = masa por aceleración; trabajo = fuerza por distancia.",
-"practica":{"ejercicio":"¿Qué fuerza se necesita para acelerar 4 kg a 2 m/s²?","respuesta":"$F = 4 \\times 2 = 8$ N."},
-"analogias":[{"titulo":"Empujar un columpio","texto":"Cada empujón le da energía al columpio; mientras más empujas, más alto y rápido se mueve."},{"titulo":"Subir una mochila","texto":"Al subir una mochila por las escaleras, tu fuerza hace trabajo y esa energía queda guardada en la mochila como energía de altura."}],
-"ejercicios":[{"ejercicio":"Una fuerza de 15 N mueve una caja 4 m. ¿Cuánto trabajo realiza?","respuesta":"$W = 15 \\times 4 = 60$ J."},{"ejercicio":"Calcula la energía mecánica de 1 kg a 2 m/s y 3 m de altura ($g = 10$ m/s²).","respuesta":"$E_c = 0.5 \\times 1 \\times 4 = 2$ J; $E_p = 1 \\times 10 \\times 3 = 30$ J; $E_m = 32$ J."},{"ejercicio":"Si la masa es de 5 kg y la fuerza neta de 20 N, ¿cuál es la aceleración?","respuesta":"$a = F/m = 20/5 = 4$ m/s²."}]}}
+  {
+    "nodo_id": "ems-037",
+    "titulo": "Fenómenos naturales interrelacionados",
+    "slug": "fenomenos-interrelacionados-prepa",
+    "palabras": [
+      "interrelación",
+      "naturaleza",
+      "ciencia",
+      "tecnología",
+      "sistemas",
+      "innovación"
+    ],
+    "contenido": {
+      "idea": "Imagina un jardín: la lluvia moja la tierra, la tierra alimenta a las plantas, las plantas dan casa a los insectos y los pájaros se comen a los insectos. Nada pasa solo; todo está conectado, como los eslabones de una cadena.",
+      "pizarron": "**Qué es:** los fenómenos de la naturaleza están conectados, y se pueden estudiar juntos o por partes.\n\n**Juntos:** el ciclo del agua tiene energía solar, cambios de estado y seres vivos.\n\n**Por partes:** cómo absorbe agua una raíz.\n\nComo ver un partido completo o solo al portero. Los dos sirven.\n\n**Para tu escuela:** elige un fenómeno y di qué parte es física, química y biología.",
+      "truco": "Lupa para el detalle, ventana para el conjunto.",
+      "practica": {
+        "ejercicio": "Menciona tres ciencias (física, química, biología) que intervienen cuando una planta hace fotosíntesis.",
+        "respuesta": "Física: la luz solar aporta energía. Química: el dióxido de carbono y el agua se transforman en glucosa y oxígeno. Biología: la planta, como ser vivo, crece y se nutre con ese proceso."
+      },
+      "analogias": [
+        {
+          "titulo": "El rompecabezas",
+          "texto": "Cada pieza es un fenómeno estudiado por separado; solo al juntarlas ves la imagen completa de la naturaleza."
+        },
+        {
+          "titulo": "La orquesta",
+          "texto": "Cada instrumento suena distinto y se puede estudiar solo, pero la música completa surge cuando todos tocan juntos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Explica por qué estudiar solo la lluvia no basta para entender el ciclo del agua.",
+          "respuesta": "Porque la lluvia depende de la evaporación, del calor del Sol, de las nubes y de lo que ocurre en suelos y seres vivos; son partes conectadas de un mismo sistema."
+        },
+        {
+          "ejercicio": "Da un ejemplo de estudio especializado y uno de estudio en conjunto sobre un río.",
+          "respuesta": "Especializado: medir el pH del agua. En conjunto: analizar cómo el clima, el suelo, los peces y las personas influyen entre sí en el río."
+        },
+        {
+          "ejercicio": "Menciona una innovación tecnológica que use conocimientos de varias ciencias y di cuáles.",
+          "respuesta": "Un panel solar: física (efecto de la luz sobre materiales), química (materiales semiconductores) y ciencias ambientales (energía limpia)."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-038",
+    "titulo": "Materia, cuerpo, masa y densidad",
+    "slug": "materia-masa-densidad-prepa",
+    "palabras": [
+      "materia",
+      "cuerpo",
+      "masa",
+      "volumen",
+      "densidad",
+      "propiedades"
+    ],
+    "contenido": {
+      "idea": "Una caja de plumas y una caja del mismo tamaño llena de piedras no pesan igual. Las piedras tienen más materia metida en el mismo espacio. A eso le llamamos densidad.",
+      "pizarron": "**La regla:** densidad es masa entre volumen: $\\rho = \\frac{m}{V}$.\n\n**Materia:** todo lo que tiene masa y ocupa lugar.\n\n**Cuerpo:** un pedazo de materia con forma, como una moneda.\n\n**Masa:** cuánta materia hay.\n\n**Volumen:** cuánto espacio ocupa.\n\n**Ejemplo:** un bloque de 54 g ocupa 20 cm³.\n\n$$\\rho = \\frac{54}{20} = 2.7 \\text{ g/cm}^3$$\n\nLo menos denso que el agua flota.\n\n**Para tu escuela:** di si flota algo con densidad 0.5.",
+      "truco": "Densidad: masa sobre volumen, \"m entre V\".",
+      "practica": {
+        "ejercicio": "Un cubo tiene 200 g de masa y 50 cm³ de volumen. ¿Cuál es su densidad?",
+        "respuesta": "$\\rho = 200/50 = 4$ g/cm³."
+      },
+      "analogias": [
+        {
+          "titulo": "El autobús lleno",
+          "texto": "Dos autobuses del mismo tamaño: el que lleva más pasajeros por espacio es más denso. La densidad mide qué tan apretada va la materia."
+        },
+        {
+          "titulo": "Esponja y piedra",
+          "texto": "Una esponja y una piedra de igual tamaño tienen distinta masa porque la esponja tiene muchos huecos con aire; la piedra es más compacta."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Un aceite tiene densidad de 0.8 g/cm³. ¿Qué masa tienen 250 cm³?",
+          "respuesta": "$m = \\rho V = 0.8 \\times 250 = 200$ g."
+        },
+        {
+          "ejercicio": "Un objeto de 90 g tiene densidad de 1.8 g/cm³. ¿Qué volumen ocupa?",
+          "respuesta": "$V = m/\\rho = 90/1.8 = 50$ cm³."
+        },
+        {
+          "ejercicio": "Un trozo de madera de 0.6 g/cm³, ¿flota o se hunde en agua? Explica.",
+          "respuesta": "Flota, porque 0.6 g/cm³ es menor que la densidad del agua, 1 g/cm³."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-039",
+    "titulo": "La ciencia como actividad creativa y colectiva",
+    "slug": "ciencia-actividad-colectiva-prepa",
+    "palabras": [
+      "ciencia",
+      "preguntas",
+      "experimentación",
+      "método científico",
+      "hipótesis",
+      "análisis"
+    ],
+    "contenido": {
+      "idea": "Un científico es como un niño muy curioso que pregunta \"¿por qué?\", inventa formas de probar sus ideas y luego comparte lo que descubrió con sus amigos para seguir aprendiendo juntos.",
+      "pizarron": "**Qué es:** la ciencia necesita imaginación y trabajo en equipo. Muchas personas revisan y mejoran las ideas.\n\n**Camino común:**\n\n1. Observa: el clavo se oxidó.\n2. Pregunta: ¿por qué?\n3. Propón una hipótesis.\n4. Experimenta, cambiando solo una cosa.\n5. Analiza.\n6. Comparte para que otros revisen.\n\nUna explicación puede cambiar si salen datos nuevos.\n\n**Para recordar:**\n- **¿Por qué es importante que otros revisen los resultados de un experimento?** Porque permite detectar errores, repetir el experimento y confirmar si los resultados son confiables.\n\n**Para tu escuela:** propón un experimento sobre por qué se oxida un clavo.",
+      "truco": "Pregunta, prueba, piensa y platica.",
+      "practica": {
+        "ejercicio": "Quieres saber si el agua caliente disuelve más rápido el azúcar. ¿Qué variable cambias y cuáles mantienes iguales?",
+        "respuesta": "Cambias la temperatura del agua. Mantienes igual la cantidad de agua, la cantidad de azúcar y la forma de revolver."
+      },
+      "analogias": [
+        {
+          "titulo": "Construir una casa",
+          "texto": "Cada científico pone un ladrillo; la casa del conocimiento se levanta con el trabajo de muchas personas a lo largo del tiempo."
+        },
+        {
+          "titulo": "Cocinar probando",
+          "texto": "Un cocinero cambia un ingrediente, prueba y anota el resultado. Así ajusta la receta, igual que la ciencia ajusta sus explicaciones."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Escribe una pregunta científica que puedas investigar sobre las plantas de tu casa.",
+          "respuesta": "Por ejemplo: ¿crece más una planta con luz directa que una en sombra? Es válida si se puede medir y comprobar."
+        },
+        {
+          "ejercicio": "¿Por qué es importante que otros revisen los resultados de un experimento?",
+          "respuesta": "Porque permite detectar errores, repetir el experimento y confirmar si los resultados son confiables."
+        },
+        {
+          "ejercicio": "Reflexiona: ¿por qué decimos que la ciencia es creativa? Da dos criterios.",
+          "respuesta": "Respuesta válida si menciona que se imaginan preguntas e hipótesis nuevas y que se diseñan experimentos ingeniosos para probarlas."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-040",
+    "titulo": "El átomo y su composición eléctrica",
+    "slug": "atomo-composicion-electrica-prepa",
+    "palabras": [
+      "átomo",
+      "protón",
+      "neutrón",
+      "electrón",
+      "carga eléctrica",
+      "número atómico"
+    ],
+    "contenido": {
+      "idea": "Imagina un sistema solar diminuto: al centro hay un sol pequeño y pesado, y alrededor giran bolitas muy ligeras. Así se imagina un átomo, el ladrillo más chico con el que está construida la materia.",
+      "pizarron": "**Qué es:** el átomo tiene un núcleo con carga positiva y electrones negativos alrededor.\n\n| Partícula | Carga | Dónde |\n|---|---|---|\n| Protón | + | Núcleo |\n| Neutrón | 0 | Núcleo |\n| Electrón | − | Alrededor |\n\n$Z$: número de protones.\n\n$A$: protones más neutrones.\n\nUn átomo neutro tiene igual número de protones y electrones.\n\n**Ejemplo:** sodio, $Z = 11$, $A = 23$. Neutrones: $23 - 11 = 12$.\n\n**Para tu escuela:** calcula los neutrones del carbono: $Z = 6$, $A = 12$.",
+      "truco": "Protón positivo, electrón negativo, neutrón neutral.",
+      "practica": {
+        "ejercicio": "El carbono tiene $Z = 6$. ¿Cuántos protones y electrones tiene un átomo neutro de carbono?",
+        "respuesta": "6 protones y 6 electrones."
+      },
+      "analogias": [
+        {
+          "titulo": "La canica en el estadio",
+          "texto": "Si el núcleo fuera una canica en el centro de un estadio, los electrones andarían por las gradas: casi todo el átomo es espacio vacío."
+        },
+        {
+          "titulo": "Imanes",
+          "texto": "Los protones y los electrones se atraen como los polos opuestos de un imán; por eso los electrones se quedan cerca del núcleo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "El oxígeno tiene $Z = 8$ y $A = 16$. ¿Cuántos neutrones tiene?",
+          "respuesta": "$16 - 8 = 8$ neutrones."
+        },
+        {
+          "ejercicio": "Un átomo tiene 17 protones y 17 electrones. ¿Está cargado? Explica.",
+          "respuesta": "No, es neutro: 17 cargas positivas y 17 negativas se cancelan."
+        },
+        {
+          "ejercicio": "¿Qué partícula define de qué elemento es un átomo?",
+          "respuesta": "El protón: su cantidad es el número atómico $Z$."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-041",
+    "titulo": "Iones, moléculas y enlaces químicos",
+    "slug": "iones-moleculas-enlaces-prepa",
+    "palabras": [
+      "ion",
+      "enlace iónico",
+      "enlace covalente",
+      "molécula",
+      "estabilidad",
+      "electrones"
+    ],
+    "contenido": {
+      "idea": "Los átomos son como niños que quieren su capa de juguetes completa. Algunos regalan un juguete, otros lo reciben y otros lo comparten, y así quedan contentos y estables.",
+      "pizarron": "**Qué es:** un ion es un átomo con carga, porque ganó o perdió electrones. Una molécula son átomos unidos.\n\nLos átomos quieren completar su última capa, casi siempre con 8.\n\n**Catión (+):** perdió electrones. $\\ce{Na+}$.\n\n**Anión (−):** ganó electrones. $\\ce{Cl-}$.\n\n**Enlace iónico:** uno da y otro recibe. La sal, $\\ce{NaCl}$.\n\n**Enlace covalente:** comparten. El agua, $\\ce{H2O}$.\n\n**Para tu escuela:** di qué pasa con el electrón en la sal de mesa.",
+      "truco": "Iónico: se regalan; covalente: se comparten.",
+      "practica": {
+        "ejercicio": "El magnesio pierde 2 electrones. ¿Qué ion forma y qué carga tiene?",
+        "respuesta": "Forma un catión, $\\ce{Mg^2+}$, con carga +2."
+      },
+      "analogias": [
+        {
+          "titulo": "Regalo y compartir",
+          "texto": "En el enlace iónico un niño regala una galleta a otro; en el covalente dos niños comparten una pizza entre ambos."
+        },
+        {
+          "titulo": "Piezas que encajan",
+          "texto": "Un átomo con una pieza de sobra y otro al que le falta una encajan como piezas de rompecabezas y forman una unión estable."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "El cloro gana 1 electrón. ¿Qué ion forma?",
+          "respuesta": "Un anión, $\\ce{Cl-}$, con carga −1."
+        },
+        {
+          "ejercicio": "¿Qué tipo de enlace hay en $\\ce{H2O}$ y por qué?",
+          "respuesta": "Covalente, porque el oxígeno y los hidrógenos comparten electrones."
+        },
+        {
+          "ejercicio": "El oxígeno gana 2 electrones. ¿Qué carga tiene su ion?",
+          "respuesta": "Carga −2: $\\ce{O^2-}$."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-042",
+    "titulo": "Naturaleza energética y corpuscular de la materia",
+    "slug": "materia-energia-corpusculos-prepa",
+    "palabras": [
+      "corpuscular",
+      "energía",
+      "partículas",
+      "luz",
+      "aplicaciones tecnológicas",
+      "modelo"
+    ],
+    "contenido": {
+      "idea": "Una pared de ladrillos se ve lisa de lejos, pero de cerca son muchos ladrillos juntos. La materia también está hecha de partículas diminutas que nunca se quedan quietas: siempre tienen energía.",
+      "pizarron": "**Qué es:** la materia está hecha de partículas con espacio entre ellas, que se mueven y tienen energía.\n\n**Hechos que lo explican:**\n\nEl olor de la comida llega a otro cuarto, porque las partículas se mueven.\n\nUn gas se aprieta, porque hay espacio.\n\n**Tecnología:**\n\nEl microondas hace vibrar el agua de la comida.\n\nUna celda solar mueve electrones.\n\n**Para recordar:**\n- **¿Qué ocurre con el movimiento de las partículas al calentar un líquido?** Se mueven más rápido y el líquido aumenta su temperatura.\n\n**Para tu escuela:** explica por qué se infla una pelota caliente.",
+      "truco": "Partículas y energía: la materia nunca está quieta.",
+      "practica": {
+        "ejercicio": "¿Por qué el colorante se esparce más rápido en agua caliente que en agua fría?",
+        "respuesta": "Porque en agua caliente las partículas se mueven más rápido y se mezclan antes."
+      },
+      "analogias": [
+        {
+          "titulo": "Arena de playa",
+          "texto": "De lejos la arena parece una sola masa, pero son miles de granitos. La materia es similar: parece continua, pero son partículas."
+        },
+        {
+          "titulo": "Fiesta bailable",
+          "texto": "Con música lenta la gente se mueve poco; con música rápida baila más. Las partículas se mueven más con más energía."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Explica con el modelo corpuscular por qué se puede inflar un globo con aire.",
+          "respuesta": "El aire tiene partículas muy separadas; al entrar más partículas, chocan contra las paredes del globo y lo estiran."
+        },
+        {
+          "ejercicio": "¿Qué ocurre con el movimiento de las partículas al calentar un líquido?",
+          "respuesta": "Se mueven más rápido y el líquido aumenta su temperatura."
+        },
+        {
+          "ejercicio": "Menciona una aplicación tecnológica del modelo energético de la materia y explícala.",
+          "respuesta": "Por ejemplo, el microondas: hace vibrar las moléculas de agua del alimento, aumenta su energía y por eso se calienta."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-043",
+    "titulo": "Estados de agregación y energía de las partículas",
+    "slug": "estados-agregacion-energia-prepa",
+    "palabras": [
+      "sólido",
+      "líquido",
+      "gas",
+      "estados de agregación",
+      "energía cinética",
+      "fuerzas de atracción"
+    ],
+    "contenido": {
+      "idea": "Un salón de clases: si todos están sentados en su lugar, es un sólido; si caminan juntos por el patio, es un líquido; si corren por todos lados, es un gas.",
+      "pizarron": "**Qué es:** el estado de la materia depende de cuánta energía tienen sus partículas.\n\n**Sólido:** vibran en su lugar.\n\n**Líquido:** se deslizan.\n\n**Gas:** se mueven rápido y libres.\n\n**Energía cinética:** del movimiento. Sube con la temperatura.\n\n**Energía potencial:** por cómo se atraen.\n\n**Energía interna:** la suma de ambas.\n\nAl calentar, sube la energía y el sólido se funde.\n\n**Para recordar:**\n- **¿Por qué un líquido toma la forma del recipiente pero conserva su volumen?** Sus partículas se deslizan unas sobre otras (toman la forma), pero siguen cerca y atraídas (el volumen no cambia).\n- **¿Por qué un gas se puede comprimir y un sólido casi no?** En el gas las partículas están muy separadas, hay espacio vacío; en el sólido ya están muy juntas.\n\n**Para tu escuela:** explica por qué el aroma del pan llega hasta tu cuarto.",
+      "truco": "Más energía, más movimiento: sólido, líquido, gas.",
+      "practica": {
+        "ejercicio": "¿Por qué un líquido toma la forma del recipiente pero conserva su volumen?",
+        "respuesta": "Sus partículas se deslizan unas sobre otras (toman la forma), pero siguen cerca y atraídas (el volumen no cambia)."
+      },
+      "analogias": [
+        {
+          "titulo": "Abrazados, de la mano y sueltos",
+          "texto": "Sólido: personas abrazadas. Líquido: personas tomadas de la mano caminando. Gas: personas sueltas que corren por todos lados."
+        },
+        {
+          "titulo": "Palomitas",
+          "texto": "Al calentar el maíz, la energía aumenta hasta que se rompe y se expande; calentar da más energía a las partículas."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Por qué un gas se puede comprimir y un sólido casi no?",
+          "respuesta": "En el gas las partículas están muy separadas, hay espacio vacío; en el sólido ya están muy juntas."
+        },
+        {
+          "ejercicio": "¿Qué sucede con la energía cinética de las partículas del hielo al derretirse y calentarse?",
+          "respuesta": "Aumenta: las partículas se mueven más al absorber energía."
+        },
+        {
+          "ejercicio": "Ordena de menor a mayor atracción entre partículas: gas, sólido, líquido.",
+          "respuesta": "Gas, líquido, sólido."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-044",
+    "titulo": "Sustancias, elementos, compuestos y mezclas",
+    "slug": "sustancias-elementos-compuestos-mezclas-prepa",
+    "palabras": [
+      "sustancia pura",
+      "elemento",
+      "compuesto",
+      "mezcla",
+      "homogénea",
+      "heterogénea"
+    ],
+    "contenido": {
+      "idea": "Con letras puedes formar palabras. Las letras son como los elementos, las palabras como los compuestos, y una oración con muchas palabras revueltas es como una mezcla.",
+      "pizarron": "**Qué es:** un elemento tiene un solo tipo de átomo. Un compuesto une varios. Una mezcla los junta sin unirlos.\n\n**Elemento:** $\\ce{Fe}$, $\\ce{O2}$.\n\n**Compuesto:** $\\ce{H2O}$, $\\ce{NaCl}$. Solo se separa con reacciones.\n\n**Mezcla:** cada parte sigue igual. Se separa filtrando o evaporando.\n\nAgua con sal se ve una sola: homogénea.\n\nAgua con aceite se ve doble: heterogénea.\n\n**Para tu escuela:** clasifica: hierro, sal de mesa y ensalada.",
+      "truco": "Pura: una receta fija; mezcla: revoltura libre.",
+      "practica": {
+        "ejercicio": "Clasifica: oro, agua, agua con azúcar.",
+        "respuesta": "Oro: elemento. Agua: compuesto. Agua con azúcar: mezcla homogénea."
+      },
+      "analogias": [
+        {
+          "titulo": "Ladrillos, paredes y bolsa de piezas",
+          "texto": "Elemento: un tipo de ladrillo. Compuesto: pared ya construida. Mezcla: bolsa con ladrillos y piedras sueltos."
+        },
+        {
+          "titulo": "Pastel y ensalada",
+          "texto": "En un pastel los ingredientes ya cambiaron y no se separan fácil (compuesto); en una ensalada puedes sacar cada ingrediente (mezcla)."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cómo separarías arena de agua? ¿Qué tipo de mezcla es?",
+          "respuesta": "Filtrando. Es una mezcla heterogénea."
+        },
+        {
+          "ejercicio": "¿Por qué el $\\ce{CO2}$ es un compuesto y no una mezcla?",
+          "respuesta": "Porque el carbono y el oxígeno están unidos químicamente en proporción fija y solo se separan con una reacción química."
+        },
+        {
+          "ejercicio": "Indica si es propiedad física o química: la densidad del hierro; que el hierro se oxide.",
+          "respuesta": "La densidad es física; la oxidación es química."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-045",
+    "titulo": "La energía se transforma y se transfiere",
+    "slug": "energia-transformacion-conservacion-prepa",
+    "palabras": [
+      "energía",
+      "conservación",
+      "transformación",
+      "transferencia",
+      "energía potencial",
+      "energía cinética"
+    ],
+    "contenido": {
+      "idea": "La energía es como el dinero en tu cartera: puedes cambiarlo de billetes a monedas o dárselo a otra persona, pero no desaparece. Solo cambia de forma o de dueño.",
+      "pizarron": "**La ley:** la energía no se crea ni se destruye: solo se transforma o pasa de un cuerpo a otro.\n\n**Ejemplos:**\n\nUn foco pasa de eléctrica a luz.\n\nFrotar tus manos pasa de movimiento a calor.\n\n**Fórmulas:**\n\n$E_p = mgh$: energía por altura.\n\n$E_c = \\frac{1}{2}mv^2$: energía por movimiento.\n\n**Ejemplo:** 2 kg a 10 m, con $g = 10$.\n\n$$E_p = 2 \\times 10 \\times 10 = 200 \\text{ J}$$\n\nAl caer, esos 200 J se vuelven movimiento.\n\n**Para tu escuela:** calcula la $E_p$ de una mochila de 3 kg a 2 m.",
+      "truco": "Ni se crea ni se destruye: se transforma y se transfiere.",
+      "practica": {
+        "ejercicio": "¿Qué transformaciones ocurren al encender una licuadora?",
+        "respuesta": "Energía eléctrica se transforma en energía cinética de las aspas, y una parte en calor y sonido."
+      },
+      "analogias": [
+        {
+          "titulo": "El agua en vasos",
+          "texto": "Pasas agua de un vaso a otro y cambias su forma, pero la cantidad total de agua no cambia, igual que la energía."
+        },
+        {
+          "titulo": "Montaña rusa",
+          "texto": "Arriba tiene mucha energía de altura; al bajar la convierte en velocidad. Nada se pierde, solo cambia de tipo."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Calcula la energía potencial de 1 kg a 5 m ($g = 10$ m/s²).",
+          "respuesta": "$E_p = 1 \\times 10 \\times 5 = 50$ J."
+        },
+        {
+          "ejercicio": "Calcula la energía cinética de 0.5 kg que se mueve a 4 m/s.",
+          "respuesta": "$E_c = \\tfrac{1}{2} \\times 0.5 \\times 4^2 = 4$ J."
+        },
+        {
+          "ejercicio": "Una pila alimenta una linterna. Describe las transformaciones.",
+          "respuesta": "Energía química de la pila se transforma en energía eléctrica y luego en luz y calor."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-046",
+    "titulo": "Fuerza, movimiento y energía mecánica",
+    "slug": "fuerza-movimiento-energia-mecanica-prepa",
+    "palabras": [
+      "fuerza",
+      "movimiento",
+      "energía mecánica",
+      "trabajo",
+      "newton",
+      "aceleración"
+    ],
+    "contenido": {
+      "idea": "Cuando empujas un carrito, lo mueves. Si empujas más fuerte, se mueve más rápido. Esa fuerza que le das es la que le pasa energía y lo pone a andar.",
+      "pizarron": "**La regla:** una fuerza puede cambiar el movimiento, y al hacerlo transfiere energía.\n\nUna **fuerza** es una interacción entre cuerpos que puede cambiar su movimiento o forma. Se mide en newtons (N).\n\nSegún la segunda ley de Newton:\n\n$$F = m a$$\n\nEjemplo: 10 kg con aceleración de 3 m/s² requieren $F = 10 \\times 3 = 30$ N.\n\n**Trabajo:** cuando una fuerza mueve un cuerpo una distancia $d$ en su misma dirección,\n\n$$W = F d$$\n\nEjemplo: 20 N a lo largo de 5 m dan $W = 100$ J. Ese trabajo transfiere energía al cuerpo.\n\n**Energía mecánica:** suma de la energía cinética y la potencial:\n\n$$E_m = E_c + E_p$$\n\nEjemplo: 2 kg a 3 m/s y 5 m de altura ($g = 10$ m/s²): $E_c = 9$ J, $E_p = 100$ J, así que $E_m = 109$ J.\n\nSin fricción, la energía mecánica se conserva.",
+      "truco": "Fuerza = masa por aceleración; trabajo = fuerza por distancia.",
+      "practica": {
+        "ejercicio": "¿Qué fuerza se necesita para acelerar 4 kg a 2 m/s²?",
+        "respuesta": "$F = 4 \\times 2 = 8$ N."
+      },
+      "analogias": [
+        {
+          "titulo": "Empujar un columpio",
+          "texto": "Cada empujón le da energía al columpio; mientras más empujas, más alto y rápido se mueve."
+        },
+        {
+          "titulo": "Subir una mochila",
+          "texto": "Al subir una mochila por las escaleras, tu fuerza hace trabajo y esa energía queda guardada en la mochila como energía de altura."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Una fuerza de 15 N mueve una caja 4 m. ¿Cuánto trabajo realiza?",
+          "respuesta": "$W = 15 \\times 4 = 60$ J."
+        },
+        {
+          "ejercicio": "Calcula la energía mecánica de 1 kg a 2 m/s y 3 m de altura ($g = 10$ m/s²).",
+          "respuesta": "$E_c = 0.5 \\times 1 \\times 4 = 2$ J; $E_p = 1 \\times 10 \\times 3 = 30$ J; $E_m = 32$ J."
+        },
+        {
+          "ejercicio": "Si la masa es de 5 kg y la fuerza neta de 20 N, ¿cuál es la aceleración?",
+          "respuesta": "$a = F/m = 20/5 = 4$ m/s²."
+        }
+      ]
+    }
+  }
 ]

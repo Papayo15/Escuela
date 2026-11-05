@@ -1,100 +1,619 @@
 [
-{"nodo_id":"ems-047","titulo":"Calor específico","slug":"calor-especifico-prepa","palabras":["calor específico","Q = mcΔT","calorimetría","equilibrio térmico"],"contenido":{
-"idea":"En la playa la arena quema y el agua sigue fresca bajo el mismo sol. El agua necesita mucho más calor para subir un grado.",
-"pizarron":"El **calor específico** $c$ es la energía para subir 1 °C a 1 kg de una sustancia.\n\n$$Q = m\\,c\\,\\Delta T$$\n\nValores: agua $\\approx 4186$ J/(kg·°C); aluminio $\\approx 900$ J/(kg·°C); cobre $\\approx 385$ J/(kg·°C).\n\nEjemplo: calentar 2 kg de agua de 20 °C a 70 °C.\n\n$$Q = (2)(4186)(50) = 209\\,300\\ \\text{J}$$\n\n**Mezclas**: el calor perdido por lo caliente lo gana lo frío.\n\n$$Q_{caliente} + Q_{frío} = 0$$\n\nEjemplo: 1 kg de agua a 80 °C con 1 kg de agua a 20 °C.\n\n$$T_f = \\frac{80 + 20}{2} = 50\\ °\\text{C}$$",
-"truco":"Calor es masa por c por cambio de temperatura.",
-"practica":{"ejercicio":"¿Cuánto calor necesitas para subir 10 °C a 1 kg de agua? Usa $c=4186$.","respuesta":"41 860 J."},
-"analogias":[{"titulo":"Cubetas de distinto ancho","texto":"Con la misma agua, una cubeta ancha sube menos de nivel; el agua líquida es la cubeta ancha del calor."},{"titulo":"Mar y clima","texto":"El mar se calienta y enfría lento, por eso las costas tienen clima más suave."}],
-"ejercicios":[{"ejercicio":"¿Cuánto calor necesitas para subir 10 °C a 2 kg de aluminio, con $c=900$?","respuesta":"18 000 J."},{"ejercicio":"Mezclas 2 kg de agua a 10 °C con 2 kg a 30 °C. ¿Cuál es $T_f$?","respuesta":"20 °C."},{"ejercicio":"¿Qué sube más rápido con igual calor y masa: agua o cobre?","respuesta":"El cobre."}]}},
-{"nodo_id":"ems-047","titulo":"Calor latente","slug":"calor-latente-prepa","palabras":["calor latente","fusión","vaporización","cambio de fase"],"contenido":{
-"idea":"Un hielo derritiéndose se queda en 0 °C aunque reciba calor. Esa energía se gasta en romper su estructura, no en calentar.",
-"pizarron":"Durante un **cambio de fase**, la temperatura no cambia.\n\n$$Q = m\\,L$$\n\n$L$ es el **calor latente**.\n\nPara el agua:\n\n- Fusión: $L_f \\approx 334\\,000$ J/kg.\n- Vaporización: $L_v \\approx 2\\,260\\,000$ J/kg.\n\nEjemplo: fundir 2 kg de hielo a 0 °C.\n\n$$Q = (2)(334\\,000) = 668\\,000\\ \\text{J}$$\n\nEjemplo completo: 1 kg de hielo a 0 °C hasta agua a 100 °C.\n\n1. Fundir: 334 000 J.\n2. Calentar: $(1)(4186)(100) = 418\\,600$ J.\n3. Total: 752 600 J.\n\nLa gráfica de temperatura contra calor muestra tramos planos en cada cambio de fase.",
-"truco":"Si cambia de fase, usa mL; si cambia temperatura, usa mcΔT.",
-"practica":{"ejercicio":"¿Cuánto calor funde 3 kg de hielo?","respuesta":"1 002 000 J."},
-"analogias":[{"titulo":"Pagar la entrada","texto":"El calor latente es un pago para cambiar de estado, y mientras tanto la temperatura no avanza."},{"titulo":"El sudor","texto":"Al evaporarse, el sudor te quita calor, y por eso te refresca."}],
-"ejercicios":[{"ejercicio":"¿Cuánto calor vaporiza 1 kg de agua a 100 °C?","respuesta":"2 260 000 J."},{"ejercicio":"¿Cambia la temperatura durante la fusión?","respuesta":"No."},{"ejercicio":"¿Qué cuesta más: fundir o vaporizar 1 kg de agua?","respuesta":"Vaporizar."}]}},
-{"nodo_id":"ems-047","titulo":"Dilatación térmica","slug":"dilatacion-termica-prepa","palabras":["dilatación","coeficiente de dilatación","expansión térmica"],"contenido":{
-"idea":"Los puentes tienen juntas separadas a propósito. Con el calor el metal crece un poco, y sin esas ranuras se doblaría.",
-"pizarron":"Casi todo se expande al calentarse.\n\n**Lineal**:\n\n$$\\Delta L = \\alpha\\,L_0\\,\\Delta T$$\n\n**Superficial**: $\\Delta A = 2\\alpha A_0 \\Delta T$.\n\n**Volumétrica**: $\\Delta V = 3\\alpha V_0 \\Delta T$.\n\nValores: acero $\\alpha \\approx 12 \\times 10^{-6}$ /°C; aluminio $\\approx 23 \\times 10^{-6}$ /°C.\n\nEjemplo: un riel de acero de 100 m se calienta 30 °C.\n\n$$\\Delta L = (12\\times10^{-6})(100)(30) = 0.036\\ \\text{m} = 3.6\\ \\text{cm}$$\n\nEl agua es una excepción: entre 0 °C y 4 °C se contrae al calentarse, y es más densa a 4 °C.\n\nEso explica por qué los lagos se congelan por arriba.",
-"truco":"ΔL es alfa por largo por cambio de temperatura.",
-"practica":{"ejercicio":"Una barra de 10 m con $\\alpha=10^{-5}$ /°C se calienta 100 °C. ¿Cuánto crece?","respuesta":"0.01 m, es decir, 1 cm."},
-"analogias":[{"titulo":"Bailarines","texto":"Al calentarse, las partículas vibran más y necesitan más espacio, como bailarines en una pista."},{"titulo":"La tapa del frasco","texto":"El agua caliente expande la tapa metálica y así se abre con facilidad."}],
-"ejercicios":[{"ejercicio":"¿Por qué hay juntas en puentes y vías?","respuesta":"Para dejar espacio a la dilatación."},{"ejercicio":"Un riel de aluminio de 10 m sube 100 °C. ¿Cuánto crece?","respuesta":"0.023 m."},{"ejercicio":"¿A qué temperatura es más densa el agua?","respuesta":"A 4 °C."}]}},
-{"nodo_id":"ems-068","titulo":"Primera ley de Newton","slug":"primera-ley-de-newton-prepa","palabras":["inercia","marco inercial","equilibrio","fuerza neta cero"],"contenido":{
-"idea":"En el espacio, una nave con motores apagados sigue viajando sola. Mantener el movimiento no requiere fuerza: cambiarlo sí.",
-"pizarron":"**Enunciado**: si la fuerza neta es cero, la velocidad no cambia.\n\n$$\\sum \\vec{F} = 0 \\iff \\vec{v} = \\text{constante}$$\n\nIncluye dos casos:\n\n- **Equilibrio estático**: $v = 0$.\n- **Equilibrio dinámico**: $v$ constante distinta de 0.\n\n**Marco inercial**: sistema de referencia que no acelera, donde se cumple esta ley.\n\nEjemplo: un elevador sube a velocidad constante con una persona de 60 kg. La fuerza neta es 0, así que el piso empuja igual al peso:\n\n$$N = mg = (60)(9.8) = 588\\ \\text{N}$$\n\nError común: creer que moverse requiere una fuerza neta. Solo acelerar la requiere.",
-"truco":"Velocidad constante implica suma de fuerzas igual a cero.",
-"practica":{"ejercicio":"Un coche va a 80 km/h constantes en recta. ¿Cuál es la fuerza neta?","respuesta":"Cero."},
-"analogias":[{"titulo":"Avión en crucero","texto":"Dentro de un avión estable puedes caminar como en el suelo, pues la velocidad no cambia."},{"titulo":"Disco de aire","texto":"Con muy poca fricción, un disco de mesa sigue parejo hasta chocar con el borde."}],
-"ejercicios":[{"ejercicio":"Un libro de 2 kg reposa en una mesa. ¿Cuánto vale la normal?","respuesta":"19.6 N."},{"ejercicio":"¿Qué es equilibrio dinámico?","respuesta":"Moverse con velocidad constante y fuerza neta cero."},{"ejercicio":"¿Es inercial un coche que frena?","respuesta":"No, porque está acelerando."}]}},
-{"nodo_id":"ems-068","titulo":"Segunda ley de Newton: F = ma","slug":"segunda-ley-de-newton-f-ma-prepa","palabras":["segunda ley","fuerza neta","elevador","poleas"],"contenido":{
-"idea":"Cuando el elevador arranca hacia arriba te sientes más pesado. La báscula cambia porque tu cuerpo está acelerando.",
-"pizarron":"$$\\sum \\vec{F} = m\\,\\vec{a}$$\n\n**Método**:\n\n1. Dibuja las fuerzas.\n2. Elige un eje positivo.\n3. Suma fuerzas en cada eje.\n4. Despeja.\n\n**Elevador**: persona de 60 kg, $a = 2$ m/s² hacia arriba, $g = 9.8$ m/s².\n\n$$N - mg = ma \\Rightarrow N = 60(9.8 + 2) = 708\\ \\text{N}$$\n\n**Dos bloques unidos**: 3 kg y 2 kg jalados con 20 N, sin fricción.\n\n$$a = \\frac{20}{5} = 4\\ \\text{m/s}^2$$\n\nTensión en el bloque de 2 kg:\n\n$$T = (2)(4) = 8\\ \\text{N}$$\n\nLa fuerza en la fórmula es siempre la **neta**.",
-"truco":"F no es una fuerza: es la suma de todas.",
-"practica":{"ejercicio":"Sobre 10 kg actúan 50 N a la derecha y 20 N a la izquierda. ¿Cuál es $a$?","respuesta":"3 m/s² a la derecha."},
-"analogias":[{"titulo":"El elevador","texto":"Al subir acelerando, el piso te empuja de más, y la báscula marca más."},{"titulo":"Cuentas de resta","texto":"Lo que acelera es el saldo: todas las fuerzas a favor menos todas las de en contra."}],
-"ejercicios":[{"ejercicio":"Halla $N$ de una persona de 50 kg que baja con $a=2$ m/s².","respuesta":"390 N."},{"ejercicio":"Bloques de 4 y 6 kg, jalados con 30 N, sin fricción. Halla $a$.","respuesta":"3 m/s²."},{"ejercicio":"Con esos datos, ¿cuánto vale la tensión si la fuerza jala el de 6 kg?","respuesta":"12 N."}]}},
-{"nodo_id":"ems-068","titulo":"Diagramas de cuerpo libre","slug":"diagramas-de-cuerpo-libre-prepa","palabras":["diagrama de cuerpo libre","DCL","fuerzas","normal","tensión"],"contenido":{
-"idea":"Antes de resolver un problema de fuerzas, un buen dibujo evita la mitad de los errores. Eso es un diagrama de cuerpo libre.",
-"pizarron":"Un **diagrama de cuerpo libre (DCL)** muestra un cuerpo aislado con las fuerzas que actúan **sobre él**.\n\n**Pasos**:\n\n1. Elige el cuerpo y dibújalo como un punto.\n2. Dibuja las fuerzas con flechas.\n3. Elige ejes.\n4. Escribe $\\sum F_x = m a_x$ y $\\sum F_y = m a_y$.\n\n**Fuerzas comunes**:\n\n- Peso $mg$: hacia abajo.\n- Normal $N$: perpendicular a la superficie.\n- Tensión $T$: a lo largo de la cuerda.\n- Fricción $f$: contra el deslizamiento.\n\nEjemplo: caja de 5 kg jalada con 20 N en mesa con fricción de 5 N.\n\n$$\\sum F_x: 20 - 5 = 5a \\Rightarrow a = 3\\ \\text{m/s}^2$$\n\n$$\\sum F_y: N - mg = 0 \\Rightarrow N = 49\\ \\text{N}$$\n\nNo incluyas las fuerzas que el cuerpo hace sobre otros.",
-"truco":"Solo fuerzas sobre el cuerpo, ninguna de él hacia otros.",
-"practica":{"ejercicio":"¿Hacia dónde apunta la normal en una mesa plana?","respuesta":"Hacia arriba, perpendicular a la mesa."},
-"analogias":[{"titulo":"Radiografía","texto":"El DCL muestra lo esencial, como una radiografía deja ver lo que importa."},{"titulo":"Lista de invitados","texto":"Solo entran al dibujo las fuerzas sobre el cuerpo; las demás no aparecen en la lista."}],
-"ejercicios":[{"ejercicio":"¿Cuántas fuerzas tiene un libro en reposo sobre la mesa?","respuesta":"Dos: peso y normal."},{"ejercicio":"¿Hacia dónde apunta la tensión?","respuesta":"A lo largo de la cuerda, alejándose del cuerpo."},{"ejercicio":"Caja de 10 kg, jalada con 40 N, fricción 10 N. Halla $a$.","respuesta":"3 m/s²."}]}},
-{"nodo_id":"ems-068","titulo":"Fricción estática y cinética","slug":"friccion-estatica-y-cinetica-prepa","palabras":["coeficiente de fricción","fricción estática","fricción cinética","normal"],"contenido":{
-"idea":"Cuesta más empezar a mover un mueble pesado que seguir arrastrándolo. La física explica ese primer tirón con dos coeficientes.",
-"pizarron":"**Fricción cinética**: actúa mientras hay deslizamiento.\n\n$$f_k = \\mu_k N$$\n\n**Fricción estática**: evita el deslizamiento y tiene un máximo.\n\n$$f_s \\le \\mu_s N$$\n\nNormalmente, $\\mu_s > \\mu_k$.\n\nEjemplo: caja de 10 kg, $\\mu_s = 0.5$, $\\mu_k = 0.3$, $g = 10$ m/s². Entonces $N = 100$ N.\n\n$$f_{s,max} = 50\\ \\text{N} \\qquad f_k = 30\\ \\text{N}$$\n\n- Con 40 N: no se mueve, $f_s = 40$ N.\n- Con 60 N: se mueve.\n\n$$a = \\frac{60 - 30}{10} = 3\\ \\text{m/s}^2$$\n\nLa fricción estática es solo la necesaria, hasta su máximo.",
-"truco":"La estática iguala tu fuerza hasta su límite.",
-"practica":{"ejercicio":"Con $N=200$ N y $\\mu_k=0.2$, ¿cuánto vale $f_k$?","respuesta":"40 N."},
-"analogias":[{"titulo":"El rival que iguala","texto":"La fricción estática empuja igual que tú hasta llegar a su límite; entonces el mueble cede."},{"titulo":"El velcro roto","texto":"Una vez despegado, las superficies ya no tienen tiempo de engancharse tan fuerte."}],
-"ejercicios":[{"ejercicio":"Con $N=100$ N y $\\mu_s=0.4$, ¿qué fuerza máxima aguanta sin moverse?","respuesta":"40 N."},{"ejercicio":"Empujas con 20 N una caja con ese límite. ¿Cuánto vale $f_s$?","respuesta":"20 N."},{"ejercicio":"¿Cuál suele ser mayor, $\\mu_s$ o $\\mu_k$?","respuesta":"$\\mu_s$"}]}},
-{"nodo_id":"ems-068","titulo":"Plano inclinado","slug":"plano-inclinado-prepa","palabras":["plano inclinado","componentes del peso","ángulo","rampa"],"contenido":{
-"idea":"Una caja en una rampa parece bajar sola. Solo una parte del peso la empuja, y esa parte crece con la inclinación.",
-"pizarron":"El peso se descompone en dos partes, con ejes sobre la rampa:\n\n$$P_x = mg\\sin\\theta \\qquad P_y = mg\\cos\\theta$$\n\nLa normal equilibra $P_y$:\n\n$$N = mg\\cos\\theta$$\n\n**Sin fricción**:\n\n$$a = g\\sin\\theta$$\n\n**Con fricción**:\n\n$$a = g(\\sin\\theta - \\mu_k\\cos\\theta)$$\n\nEjemplo: 10 kg a $30°$, sin fricción, con $g = 10$ m/s².\n\n$$a = 10\\sin 30° = 5\\ \\text{m/s}^2$$\n\nEl cuerpo empieza a resbalar cuando:\n\n$$\\tan\\theta = \\mu_s$$",
-"truco":"Seno baja por la rampa; coseno aprieta contra ella.",
-"practica":{"ejercicio":"Con $\\theta=30°$ y $g=10$ m/s², ¿cuál es $a$ sin fricción?","respuesta":"5 m/s²."},
-"analogias":[{"titulo":"Tobogán","texto":"Más empinado, más rápido bajas, porque el peso empuja más a lo largo del tobogán."},{"titulo":"Mover una regla","texto":"Si inclinas una hoja, llega un ángulo en que el borrador empieza a deslizar."}],
-"ejercicios":[{"ejercicio":"Halla $N$ para 10 kg a $60°$, con $g=10$ m/s².","respuesta":"50 N."},{"ejercicio":"Halla $a$ con $\\theta=30°$, $\\mu_k=0.1$, $g=10$ m/s².","respuesta":"4.13 m/s²."},{"ejercicio":"¿A qué ángulo resbala si $\\mu_s=1$?","respuesta":"$45°$"}]}},
-{"nodo_id":"ems-068","titulo":"Equilibrio y momento de una fuerza","slug":"equilibrio-y-momento-de-una-fuerza-prepa","palabras":["torque","momento","equilibrio","palanca","centro de masa"],"contenido":{
-"idea":"Para aflojar un tornillo terco, una llave larga ayuda mucho. El efecto de giro depende de la fuerza y de dónde la aplicas.",
-"pizarron":"El **momento** o **torque** mide la capacidad de una fuerza para girar un cuerpo:\n\n$$\\tau = F\\,d\\,\\sin\\theta$$\n\n$d$ es la distancia al eje; $\\theta$ el ángulo entre fuerza y brazo.\n\nUnidad: N·m.\n\n**Condiciones de equilibrio**:\n\n$$\\sum F = 0 \\qquad \\sum \\tau = 0$$\n\nEjemplo: subibaja. Un niño de 300 N está a 2 m del apoyo. ¿Dónde se sienta otro de 400 N?\n\n$$300(2) = 400\\,d \\Rightarrow d = 1.5\\ \\text{m}$$\n\nEjemplo: 20 N perpendiculares con una llave de 0.3 m.\n\n$$\\tau = 6\\ \\text{N·m}$$\n\nEl **centro de masa** debe quedar sobre la base para que algo no se caiga.",
-"truco":"Brazo más largo, más giro con la misma fuerza.",
-"practica":{"ejercicio":"Calcula $\\tau$ con 50 N a 0.2 m, perpendicular.","respuesta":"10 N·m."},
-"analogias":[{"titulo":"La puerta","texto":"Empujar junto a las bisagras cuesta mucho; junto a la manija gira fácilmente."},{"titulo":"La balanza","texto":"Peso mayor cerca del centro se equilibra con peso menor lejos."}],
-"ejercicios":[{"ejercicio":"Halla $d$ para equilibrar 600 N a 1 m con 200 N.","respuesta":"3 m."},{"ejercicio":"¿Qué dos condiciones pide el equilibrio?","respuesta":"Suma de fuerzas y suma de torques iguales a cero."},{"ejercicio":"¿Cuánto torque da una fuerza paralela al brazo?","respuesta":"Cero."}]}},
-{"nodo_id":"ems-070","titulo":"Periodo, frecuencia y longitud de onda","slug":"periodo-frecuencia-y-longitud-de-onda-prepa","palabras":["periodo","frecuencia","longitud de onda","rapidez de onda"],"contenido":{
-"idea":"Si cuentas las olas que llegan a la playa, mides frecuencia. Si mides entre crestas, obtienes longitud de onda. Juntas dan la rapidez.",
-"pizarron":"**Periodo $T$**: tiempo de una oscilación, en segundos.\n\n**Frecuencia $f$**: oscilaciones por segundo, en hertz.\n\n$$f = \\frac{1}{T}$$\n\n**Longitud de onda $\\lambda$**: distancia entre dos crestas.\n\n**Rapidez**:\n\n$$v = \\lambda f$$\n\nEjemplo 1: $T = 0.02$ s.\n\n$$f = 50\\ \\text{Hz}$$\n\nEjemplo 2: una radio FM de 100 MHz. Con $c = 3 \\times 10^{8}$ m/s:\n\n$$\\lambda = \\frac{3\\times10^{8}}{1\\times10^{8}} = 3\\ \\text{m}$$\n\nEn un mismo medio, si $f$ sube, $\\lambda$ baja.\n\nAl cambiar de medio, $f$ no cambia, pero $v$ y $\\lambda$ sí.",
-"truco":"Frecuencia y periodo son inversos entre sí.",
-"practica":{"ejercicio":"Calcula $f$ si $T=0.5$ s.","respuesta":"2 Hz."},
-"analogias":[{"titulo":"Los vagones","texto":"Velocidad del tren es largo del vagón por vagones que pasan cada segundo."},{"titulo":"Pasos del caminante","texto":"Tu rapidez es largo de paso por pasos por segundo, igual que $\\lambda$ por $f$."}],
-"ejercicios":[{"ejercicio":"Con $\\lambda=2$ m y $f=5$ Hz, calcula $v$.","respuesta":"10 m/s."},{"ejercicio":"Con $v=340$ m/s y $f=170$ Hz, calcula $\\lambda$.","respuesta":"2 m."},{"ejercicio":"Al pasar del aire al agua, ¿cuál se mantiene?","respuesta":"La frecuencia."}]}},
-{"nodo_id":"ems-070","titulo":"Sonido y efecto Doppler","slug":"sonido-y-efecto-doppler-prepa","palabras":["sonido","efecto Doppler","ambulancia","frecuencia"],"contenido":{
-"idea":"La sirena de una ambulancia suena aguda al acercarse y grave al alejarse. La ambulancia no cambió su sirena: cambió lo que tú recibes.",
-"pizarron":"El sonido es onda longitudinal. Su rapidez depende del medio: aire 340 m/s, agua cerca de 1500 m/s, acero cerca de 5000 m/s.\n\n**Efecto Doppler**: cambia la frecuencia percibida si fuente y oyente se mueven entre sí.\n\n$$f' = f\\,\\frac{v \\pm v_o}{v \\mp v_f}$$\n\nSignos:\n\n- Numerador: $+$ si el oyente se acerca.\n- Denominador: $-$ si la fuente se acerca.\n\nEjemplo: fuente de 680 Hz se acerca a 40 m/s, $v = 340$ m/s.\n\n$$f' = 680 \\times \\frac{340}{300} \\approx 771\\ \\text{Hz}$$\n\nSe usa en radares de velocidad, ultrasonido médico y astronomía.",
-"truco":"Si se acercan, más agudo; si se alejan, más grave.",
-"practica":{"ejercicio":"Un tren se aleja de ti. ¿El sonido se oye más agudo o más grave?","respuesta":"Más grave."},
-"analogias":[{"titulo":"Olas y lancha","texto":"La lancha que avanza amontona las olas delante y las estira detrás."},{"titulo":"Pelotas lanzadas","texto":"Si te acercas a quien lanza, las pelotas llegan más seguido."}],
-"ejercicios":[{"ejercicio":"Una fuente de 500 Hz se aleja a 60 m/s, $v=340$ m/s. Halla $f'$.","respuesta":"425 Hz."},{"ejercicio":"¿En qué medio es más rápido el sonido, aire o acero?","respuesta":"En acero."},{"ejercicio":"Menciona un uso del efecto Doppler.","respuesta":"Los radares de velocidad."}]}},
-{"nodo_id":"ems-071","titulo":"Ley de reflexión","slug":"ley-de-reflexion-prepa","palabras":["reflexión","ángulo de incidencia","espejo plano","normal"],"contenido":{
-"idea":"Una pelota de billar rebota en la banda con el mismo ángulo con que llegó. La luz obedece esa regla exacta en un espejo.",
-"pizarron":"**Ley de reflexión**:\n\n1. Rayo incidente, normal y rayo reflejado están en el mismo plano.\n2. $\\theta_i = \\theta_r$.\n\nLos ángulos se miden desde la **normal**, no desde la superficie.\n\nEjemplo: un rayo forma $20°$ con el espejo.\n\n$$\\theta_i = 90° - 20° = 70° \\Rightarrow \\theta_r = 70°$$\n\n**Espejo plano**:\n\n- Imagen virtual.\n- Mismo tamaño.\n- A la misma distancia detrás del espejo.\n\nEjemplo: estás a 2 m del espejo. Tu imagen está a 4 m de ti.\n\nPara verte completo, el espejo debe medir la **mitad** de tu altura.\n\n**Especular**: superficie lisa. **Difusa**: superficie rugosa, los rayos se dispersan.",
-"truco":"Mide siempre desde la normal.",
-"practica":{"ejercicio":"Un rayo llega a $40°$ de la normal. ¿Cuál es el ángulo reflejado?","respuesta":"$40°$"},
-"analogias":[{"titulo":"Billar","texto":"Sin efecto, la bola sale con el mismo ángulo con que tocó la banda."},{"titulo":"Agua quieta","texto":"Un lago calmado refleja como espejo; con olas, la luz se dispersa."}],
-"ejercicios":[{"ejercicio":"Un rayo forma $30°$ con el espejo. Halla $\\theta_r$.","respuesta":"$60°$"},{"ejercicio":"Estás a 3 m del espejo. ¿A qué distancia de ti está tu imagen?","respuesta":"A 6 m."},{"ejercicio":"Mides 1.80 m. ¿Qué altura mínima necesita el espejo?","respuesta":"0.90 m."}]}},
-{"nodo_id":"ems-071","titulo":"Ley de Snell","slug":"ley-de-snell-prepa","palabras":["Snell","refracción","índice de refracción","reflexión total"],"contenido":{
-"idea":"Un salvavidas no corre en línea recta al agua: sigue un camino más rápido. La luz también elige ese tipo de trayecto entre dos medios.",
-"pizarron":"El **índice de refracción** indica cuánto se frena la luz:\n\n$$n = \\frac{c}{v}$$\n\nValores: aire 1.00, agua 1.33, vidrio 1.5.\n\n**Ley de Snell**:\n\n$$n_1\\sin\\theta_1 = n_2\\sin\\theta_2$$\n\nEjemplo: de aire a agua con $30°$.\n\n$$\\sin\\theta_2 = \\frac{1(0.5)}{1.33} = 0.376 \\Rightarrow \\theta_2 \\approx 22°$$\n\nAl pasar a un medio de mayor $n$, se acerca a la normal.\n\n**Reflexión total interna**: al ir de mayor a menor $n$, ocurre si se supera el ángulo crítico.\n\n$$\\sin\\theta_c = \\frac{n_2}{n_1}$$\n\nDe vidrio a aire: $\\theta_c \\approx 41.8°$.\n\nAsí funciona la fibra óptica.",
-"truco":"n por seno de un lado es igual a n por seno del otro.",
-"practica":{"ejercicio":"¿Cuánto vale $v$ en un medio con $n=1.5$?","respuesta":"$2 \\times 10^{8}$ m/s."},
-"analogias":[{"titulo":"La fila de soldados","texto":"Si un lado de la fila entra al lodo antes, se frena y toda la fila gira."},{"titulo":"El salvavidas","texto":"Corre más por la arena y nada menos, porque en agua avanza despacio."}],
-"ejercicios":[{"ejercicio":"De aire a vidrio ($n=1.5$) con $30°$, halla $\\sin\\theta_2$.","respuesta":"0.333"},{"ejercicio":"¿Qué tecnología usa reflexión total interna?","respuesta":"La fibra óptica."},{"ejercicio":"¿Puede haber reflexión total al ir de aire a agua?","respuesta":"No, se necesita ir de mayor a menor $n$."}]}},
-{"nodo_id":"ems-071","titulo":"Espejos y lentes","slug":"espejos-y-lentes-prepa","palabras":["ecuación de lentes","distancia focal","aumento","imagen real"],"contenido":{
-"idea":"Con una lupa puedes proyectar la ventana en una hoja. Una ecuación predice dónde aparece esa imagen y de qué tamaño.",
-"pizarron":"**Ecuación** para espejos y lentes delgadas:\n\n$$\\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i}$$\n\n**Aumento**:\n\n$$M = -\\frac{d_i}{d_o}$$\n\n**Signos**:\n\n- $f > 0$: espejo cóncavo o lente convergente.\n- $f < 0$: espejo convexo o lente divergente.\n- $d_i > 0$: imagen real.\n- $d_i < 0$: imagen virtual.\n- $M < 0$: imagen invertida.\n\nEjemplo: lente de $f = 10$ cm, objeto a 30 cm.\n\n$$\\frac{1}{d_i} = \\frac{1}{10} - \\frac{1}{30} = \\frac{2}{30} \\Rightarrow d_i = 15\\ \\text{cm}$$\n\n$$M = -\\frac{15}{30} = -0.5$$\n\nImagen real, invertida y de la mitad del tamaño.\n\n**Potencia** de una lente, en dioptrías: $P = 1/f$, con $f$ en metros.",
-"truco":"M negativo significa imagen de cabeza.",
-"practica":{"ejercicio":"Con $f=20$ cm y $d_o=40$ cm, halla $d_i$.","respuesta":"40 cm."},
-"analogias":[{"titulo":"El proyector","texto":"Una lente convergente lanza una imagen real invertida sobre la pantalla."},{"titulo":"La cuchara","texto":"En la parte cóncava te ves de cabeza; en la convexa, derecho y pequeño."}],
-"ejercicios":[{"ejercicio":"Con $f=10$ cm y $d_o=20$ cm, halla $M$.","respuesta":"$-1$"},{"ejercicio":"¿Qué potencia tiene una lente de 0.5 m?","respuesta":"2 dioptrías."},{"ejercicio":"Con $f=10$ cm y $d_o=5$ cm, ¿cuánto vale $d_i$?","respuesta":"$-10$ cm, imagen virtual."}]}}
+  {
+    "nodo_id": "ems-047",
+    "titulo": "Calor específico",
+    "slug": "calor-especifico-prepa",
+    "palabras": [
+      "calor específico",
+      "Q = mcΔT",
+      "calorimetría",
+      "equilibrio térmico"
+    ],
+    "contenido": {
+      "idea": "En la playa la arena quema y el agua sigue fresca bajo el mismo sol. El agua necesita mucho más calor para subir un grado.",
+      "pizarron": "**La regla:** el calor para cambiar la temperatura es $Q = mc\\Delta T$.\n\n$Q$ es el calor.\n\n$m$ es la masa.\n\n$c$ dice qué tan difícil es calentar esa sustancia.\n\n$\\Delta T$ es cuánto cambia la temperatura.\n\nEl agua tiene $c$ grande: tarda en calentarse. Por eso la arena quema y el mar sigue fresco.\n\n**Ejemplo:** 2 kg de agua de 20 a 70 °C.\n\n$$Q = 2 \\times 4186 \\times 50 = 209\\,300 \\text{ J}$$\n\n**Para tu escuela:** calcula el calor para subir 10 °C a 1 kg de agua.",
+      "truco": "Calor es masa por c por cambio de temperatura.",
+      "practica": {
+        "ejercicio": "¿Cuánto calor necesitas para subir 10 °C a 1 kg de agua? Usa $c=4186$.",
+        "respuesta": "41 860 J."
+      },
+      "analogias": [
+        {
+          "titulo": "Cubetas de distinto ancho",
+          "texto": "Con la misma agua, una cubeta ancha sube menos de nivel; el agua líquida es la cubeta ancha del calor."
+        },
+        {
+          "titulo": "Mar y clima",
+          "texto": "El mar se calienta y enfría lento, por eso las costas tienen clima más suave."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuánto calor necesitas para subir 10 °C a 2 kg de aluminio, con $c=900$?",
+          "respuesta": "18 000 J."
+        },
+        {
+          "ejercicio": "Mezclas 2 kg de agua a 10 °C con 2 kg a 30 °C. ¿Cuál es $T_f$?",
+          "respuesta": "20 °C."
+        },
+        {
+          "ejercicio": "¿Qué sube más rápido con igual calor y masa: agua o cobre?",
+          "respuesta": "El cobre."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-047",
+    "titulo": "Calor latente",
+    "slug": "calor-latente-prepa",
+    "palabras": [
+      "calor latente",
+      "fusión",
+      "vaporización",
+      "cambio de fase"
+    ],
+    "contenido": {
+      "idea": "Un hielo derritiéndose se queda en 0 °C aunque reciba calor. Esa energía se gasta en romper su estructura, no en calentar.",
+      "pizarron": "**La regla:** al cambiar de estado, la temperatura no cambia: $Q = mL$.\n\nDurante un **cambio de fase**, la temperatura no cambia.\n\n$$Q = m\\,L$$\n\n$L$ es el **calor latente**.\n\nPara el agua:\n\n- Fusión: $L_f \\approx 334\\,000$ J/kg.\n- Vaporización: $L_v \\approx 2\\,260\\,000$ J/kg.\n\nEjemplo: fundir 2 kg de hielo a 0 °C.\n\n$$Q = (2)(334\\,000) = 668\\,000\\ \\text{J}$$\n\nEjemplo completo: 1 kg de hielo a 0 °C hasta agua a 100 °C.\n\n1. Fundir: 334 000 J.\n2. Calentar: $(1)(4186)(100) = 418\\,600$ J.\n3. Total: 752 600 J.\n\nLa gráfica de temperatura contra calor muestra tramos planos en cada cambio de fase.",
+      "truco": "Si cambia de fase, usa mL; si cambia temperatura, usa mcΔT.",
+      "practica": {
+        "ejercicio": "¿Cuánto calor funde 3 kg de hielo?",
+        "respuesta": "1 002 000 J."
+      },
+      "analogias": [
+        {
+          "titulo": "Pagar la entrada",
+          "texto": "El calor latente es un pago para cambiar de estado, y mientras tanto la temperatura no avanza."
+        },
+        {
+          "titulo": "El sudor",
+          "texto": "Al evaporarse, el sudor te quita calor, y por eso te refresca."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuánto calor vaporiza 1 kg de agua a 100 °C?",
+          "respuesta": "2 260 000 J."
+        },
+        {
+          "ejercicio": "¿Cambia la temperatura durante la fusión?",
+          "respuesta": "No."
+        },
+        {
+          "ejercicio": "¿Qué cuesta más: fundir o vaporizar 1 kg de agua?",
+          "respuesta": "Vaporizar."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-047",
+    "titulo": "Dilatación térmica",
+    "slug": "dilatacion-termica-prepa",
+    "palabras": [
+      "dilatación",
+      "coeficiente de dilatación",
+      "expansión térmica"
+    ],
+    "contenido": {
+      "idea": "Los puentes tienen juntas separadas a propósito. Con el calor el metal crece un poco, y sin esas ranuras se doblaría.",
+      "pizarron": "**La ley:** al calentarse, casi todo crece un poco: $\\Delta L = \\alpha L_0 \\Delta T$.\n\n$\\alpha$ dice cuánto crece cada material.\n\n$L_0$ es el largo inicial.\n\n$\\Delta T$ es cuánto se calentó.\n\nPor eso los puentes tienen ranuras.\n\n**Ejemplo:** riel de acero de 100 m, sube 30 °C, $\\alpha = 12 \\times 10^{-6}$.\n\n$$\\Delta L = 0.000012 \\times 100 \\times 30 = 0.036 \\text{ m}$$\n\nCreció 3.6 cm.\n\nEl agua es rara: es más densa a 4 °C. Por eso los lagos se congelan arriba.\n\n**Para recordar:**\n- **¿Por qué hay juntas en puentes y vías?** Para dejar espacio a la dilatación.\n\n**Para tu escuela:** di por qué una tapa de metal se afloja con agua caliente.",
+      "truco": "ΔL es alfa por largo por cambio de temperatura.",
+      "practica": {
+        "ejercicio": "Una barra de 10 m con $\\alpha=10^{-5}$ /°C se calienta 100 °C. ¿Cuánto crece?",
+        "respuesta": "0.01 m, es decir, 1 cm."
+      },
+      "analogias": [
+        {
+          "titulo": "Bailarines",
+          "texto": "Al calentarse, las partículas vibran más y necesitan más espacio, como bailarines en una pista."
+        },
+        {
+          "titulo": "La tapa del frasco",
+          "texto": "El agua caliente expande la tapa metálica y así se abre con facilidad."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Por qué hay juntas en puentes y vías?",
+          "respuesta": "Para dejar espacio a la dilatación."
+        },
+        {
+          "ejercicio": "Un riel de aluminio de 10 m sube 100 °C. ¿Cuánto crece?",
+          "respuesta": "0.023 m."
+        },
+        {
+          "ejercicio": "¿A qué temperatura es más densa el agua?",
+          "respuesta": "A 4 °C."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-068",
+    "titulo": "Primera ley de Newton",
+    "slug": "primera-ley-de-newton-prepa",
+    "palabras": [
+      "inercia",
+      "marco inercial",
+      "equilibrio",
+      "fuerza neta cero"
+    ],
+    "contenido": {
+      "idea": "En el espacio, una nave con motores apagados sigue viajando sola. Mantener el movimiento no requiere fuerza: cambiarlo sí.",
+      "pizarron": "**La ley:** si la fuerza neta es cero, un cuerpo sigue quieto o con velocidad constante.\n\n**Enunciado**: si la fuerza neta es cero, la velocidad no cambia.\n\n$$\\sum \\vec{F} = 0 \\iff \\vec{v} = \\text{constante}$$\n\nIncluye dos casos:\n\n- **Equilibrio estático**: $v = 0$.\n- **Equilibrio dinámico**: $v$ constante distinta de 0.\n\n**Marco inercial**: sistema de referencia que no acelera, donde se cumple esta ley.\n\nEjemplo: un elevador sube a velocidad constante con una persona de 60 kg. La fuerza neta es 0, así que el piso empuja igual al peso:\n\n$$N = mg = (60)(9.8) = 588\\ \\text{N}$$\n\nError común: creer que moverse requiere una fuerza neta. Solo acelerar la requiere.",
+      "truco": "Velocidad constante implica suma de fuerzas igual a cero.",
+      "practica": {
+        "ejercicio": "Un coche va a 80 km/h constantes en recta. ¿Cuál es la fuerza neta?",
+        "respuesta": "Cero."
+      },
+      "analogias": [
+        {
+          "titulo": "Avión en crucero",
+          "texto": "Dentro de un avión estable puedes caminar como en el suelo, pues la velocidad no cambia."
+        },
+        {
+          "titulo": "Disco de aire",
+          "texto": "Con muy poca fricción, un disco de mesa sigue parejo hasta chocar con el borde."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Un libro de 2 kg reposa en una mesa. ¿Cuánto vale la normal?",
+          "respuesta": "19.6 N."
+        },
+        {
+          "ejercicio": "¿Qué es equilibrio dinámico?",
+          "respuesta": "Moverse con velocidad constante y fuerza neta cero."
+        },
+        {
+          "ejercicio": "¿Es inercial un coche que frena?",
+          "respuesta": "No, porque está acelerando."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-068",
+    "titulo": "Segunda ley de Newton: F = ma",
+    "slug": "segunda-ley-de-newton-f-ma-prepa",
+    "palabras": [
+      "segunda ley",
+      "fuerza neta",
+      "elevador",
+      "poleas"
+    ],
+    "contenido": {
+      "idea": "Cuando el elevador arranca hacia arriba te sientes más pesado. La báscula cambia porque tu cuerpo está acelerando.",
+      "pizarron": "**La ley:** la fuerza neta es igual a masa por aceleración: $\\sum F = ma$.\n\n$$\\sum \\vec{F} = m\\,\\vec{a}$$\n\n**Método**:\n\n1. Dibuja las fuerzas.\n2. Elige un eje positivo.\n3. Suma fuerzas en cada eje.\n4. Despeja.\n\n**Elevador**: persona de 60 kg, $a = 2$ m/s² hacia arriba, $g = 9.8$ m/s².\n\n$$N - mg = ma \\Rightarrow N = 60(9.8 + 2) = 708\\ \\text{N}$$\n\n**Dos bloques unidos**: 3 kg y 2 kg jalados con 20 N, sin fricción.\n\n$$a = \\frac{20}{5} = 4\\ \\text{m/s}^2$$\n\nTensión en el bloque de 2 kg:\n\n$$T = (2)(4) = 8\\ \\text{N}$$\n\nLa fuerza en la fórmula es siempre la **neta**.",
+      "truco": "F no es una fuerza: es la suma de todas.",
+      "practica": {
+        "ejercicio": "Sobre 10 kg actúan 50 N a la derecha y 20 N a la izquierda. ¿Cuál es $a$?",
+        "respuesta": "3 m/s² a la derecha."
+      },
+      "analogias": [
+        {
+          "titulo": "El elevador",
+          "texto": "Al subir acelerando, el piso te empuja de más, y la báscula marca más."
+        },
+        {
+          "titulo": "Cuentas de resta",
+          "texto": "Lo que acelera es el saldo: todas las fuerzas a favor menos todas las de en contra."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Halla $N$ de una persona de 50 kg que baja con $a=2$ m/s².",
+          "respuesta": "390 N."
+        },
+        {
+          "ejercicio": "Bloques de 4 y 6 kg, jalados con 30 N, sin fricción. Halla $a$.",
+          "respuesta": "3 m/s²."
+        },
+        {
+          "ejercicio": "Con esos datos, ¿cuánto vale la tensión si la fuerza jala el de 6 kg?",
+          "respuesta": "12 N."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-068",
+    "titulo": "Diagramas de cuerpo libre",
+    "slug": "diagramas-de-cuerpo-libre-prepa",
+    "palabras": [
+      "diagrama de cuerpo libre",
+      "DCL",
+      "fuerzas",
+      "normal",
+      "tensión"
+    ],
+    "contenido": {
+      "idea": "Antes de resolver un problema de fuerzas, un buen dibujo evita la mitad de los errores. Eso es un diagrama de cuerpo libre.",
+      "pizarron": "**Qué es:** un diagrama de cuerpo libre es un dibujo de un objeto con las fuerzas que actúan sobre él.\n\n**Pasos:**\n\n1. Dibuja el objeto como un punto.\n2. Dibuja cada fuerza con una flecha.\n3. Elige ejes.\n4. Suma las fuerzas.\n\n**Fuerzas comunes:**\n\n- Peso: hacia abajo.\n- Normal: la mesa empuja hacia arriba.\n- Tensión: la cuerda jala.\n- Fricción: contra el movimiento.\n\n**Ejemplo:** caja de 5 kg, jalas con 20 N y la fricción es 5 N.\n\n$$20 - 5 = 5a \\Rightarrow a = 3 \\text{ m/s}^2$$\n\n**Para tu escuela:** dibuja las fuerzas de un libro sobre una mesa.",
+      "truco": "Solo fuerzas sobre el cuerpo, ninguna de él hacia otros.",
+      "practica": {
+        "ejercicio": "¿Hacia dónde apunta la normal en una mesa plana?",
+        "respuesta": "Hacia arriba, perpendicular a la mesa."
+      },
+      "analogias": [
+        {
+          "titulo": "Radiografía",
+          "texto": "El DCL muestra lo esencial, como una radiografía deja ver lo que importa."
+        },
+        {
+          "titulo": "Lista de invitados",
+          "texto": "Solo entran al dibujo las fuerzas sobre el cuerpo; las demás no aparecen en la lista."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "¿Cuántas fuerzas tiene un libro en reposo sobre la mesa?",
+          "respuesta": "Dos: peso y normal."
+        },
+        {
+          "ejercicio": "¿Hacia dónde apunta la tensión?",
+          "respuesta": "A lo largo de la cuerda, alejándose del cuerpo."
+        },
+        {
+          "ejercicio": "Caja de 10 kg, jalada con 40 N, fricción 10 N. Halla $a$.",
+          "respuesta": "3 m/s²."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-068",
+    "titulo": "Fricción estática y cinética",
+    "slug": "friccion-estatica-y-cinetica-prepa",
+    "palabras": [
+      "coeficiente de fricción",
+      "fricción estática",
+      "fricción cinética",
+      "normal"
+    ],
+    "contenido": {
+      "idea": "Cuesta más empezar a mover un mueble pesado que seguir arrastrándolo. La física explica ese primer tirón con dos coeficientes.",
+      "pizarron": "**La regla:** la fricción cinética es $f_k = \\mu_k N$, y la estática llega hasta $\\mu_s N$.\n\n**Fricción cinética**: actúa mientras hay deslizamiento.\n\n$$f_k = \\mu_k N$$\n\n**Fricción estática**: evita el deslizamiento y tiene un máximo.\n\n$$f_s \\le \\mu_s N$$\n\nNormalmente, $\\mu_s > \\mu_k$.\n\nEjemplo: caja de 10 kg, $\\mu_s = 0.5$, $\\mu_k = 0.3$, $g = 10$ m/s². Entonces $N = 100$ N.\n\n$$f_{s,max} = 50\\ \\text{N} \\qquad f_k = 30\\ \\text{N}$$\n\n- Con 40 N: no se mueve, $f_s = 40$ N.\n- Con 60 N: se mueve.\n\n$$a = \\frac{60 - 30}{10} = 3\\ \\text{m/s}^2$$\n\nLa fricción estática es solo la necesaria, hasta su máximo.",
+      "truco": "La estática iguala tu fuerza hasta su límite.",
+      "practica": {
+        "ejercicio": "Con $N=200$ N y $\\mu_k=0.2$, ¿cuánto vale $f_k$?",
+        "respuesta": "40 N."
+      },
+      "analogias": [
+        {
+          "titulo": "El rival que iguala",
+          "texto": "La fricción estática empuja igual que tú hasta llegar a su límite; entonces el mueble cede."
+        },
+        {
+          "titulo": "El velcro roto",
+          "texto": "Una vez despegado, las superficies ya no tienen tiempo de engancharse tan fuerte."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Con $N=100$ N y $\\mu_s=0.4$, ¿qué fuerza máxima aguanta sin moverse?",
+          "respuesta": "40 N."
+        },
+        {
+          "ejercicio": "Empujas con 20 N una caja con ese límite. ¿Cuánto vale $f_s$?",
+          "respuesta": "20 N."
+        },
+        {
+          "ejercicio": "¿Cuál suele ser mayor, $\\mu_s$ o $\\mu_k$?",
+          "respuesta": "$\\mu_s$"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-068",
+    "titulo": "Plano inclinado",
+    "slug": "plano-inclinado-prepa",
+    "palabras": [
+      "plano inclinado",
+      "componentes del peso",
+      "ángulo",
+      "rampa"
+    ],
+    "contenido": {
+      "idea": "Una caja en una rampa parece bajar sola. Solo una parte del peso la empuja, y esa parte crece con la inclinación.",
+      "pizarron": "**La regla:** en una rampa, la parte del peso que empuja hacia abajo es $mg\\sin\\theta$.\n\nEl peso se descompone en dos partes, con ejes sobre la rampa:\n\n$$P_x = mg\\sin\\theta \\qquad P_y = mg\\cos\\theta$$\n\nLa normal equilibra $P_y$:\n\n$$N = mg\\cos\\theta$$\n\n**Sin fricción**:\n\n$$a = g\\sin\\theta$$\n\n**Con fricción**:\n\n$$a = g(\\sin\\theta - \\mu_k\\cos\\theta)$$\n\nEjemplo: 10 kg a $30°$, sin fricción, con $g = 10$ m/s².\n\n$$a = 10\\sin 30° = 5\\ \\text{m/s}^2$$\n\nEl cuerpo empieza a resbalar cuando:\n\n$$\\tan\\theta = \\mu_s$$",
+      "truco": "Seno baja por la rampa; coseno aprieta contra ella.",
+      "practica": {
+        "ejercicio": "Con $\\theta=30°$ y $g=10$ m/s², ¿cuál es $a$ sin fricción?",
+        "respuesta": "5 m/s²."
+      },
+      "analogias": [
+        {
+          "titulo": "Tobogán",
+          "texto": "Más empinado, más rápido bajas, porque el peso empuja más a lo largo del tobogán."
+        },
+        {
+          "titulo": "Mover una regla",
+          "texto": "Si inclinas una hoja, llega un ángulo en que el borrador empieza a deslizar."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Halla $N$ para 10 kg a $60°$, con $g=10$ m/s².",
+          "respuesta": "50 N."
+        },
+        {
+          "ejercicio": "Halla $a$ con $\\theta=30°$, $\\mu_k=0.1$, $g=10$ m/s².",
+          "respuesta": "4.13 m/s²."
+        },
+        {
+          "ejercicio": "¿A qué ángulo resbala si $\\mu_s=1$?",
+          "respuesta": "$45°$"
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-068",
+    "titulo": "Equilibrio y momento de una fuerza",
+    "slug": "equilibrio-y-momento-de-una-fuerza-prepa",
+    "palabras": [
+      "torque",
+      "momento",
+      "equilibrio",
+      "palanca",
+      "centro de masa"
+    ],
+    "contenido": {
+      "idea": "Para aflojar un tornillo terco, una llave larga ayuda mucho. El efecto de giro depende de la fuerza y de dónde la aplicas.",
+      "pizarron": "**La regla:** un cuerpo está en equilibrio si las fuerzas suman cero y los giros suman cero.\n\n**Torque:** capacidad de hacer girar: fuerza por distancia al eje.\n\n$$\\tau = Fd\\sin\\theta$$\n\nSi la fuerza es perpendicular, $\\sin\\theta = 1$.\n\n**Ejemplo, subibaja:** 300 N a 2 m. ¿Dónde va un niño de 400 N?\n\n$$300 \\times 2 = 400 \\times d$$\n\n$$d = 1.5 \\text{ m}$$\n\nPor eso las puertas se abren mejor desde la manija.\n\n**Para tu escuela:** calcula $d$ con 200 N a 3 m y otro de 600 N.",
+      "truco": "Brazo más largo, más giro con la misma fuerza.",
+      "practica": {
+        "ejercicio": "Calcula $\\tau$ con 50 N a 0.2 m, perpendicular.",
+        "respuesta": "10 N·m."
+      },
+      "analogias": [
+        {
+          "titulo": "La puerta",
+          "texto": "Empujar junto a las bisagras cuesta mucho; junto a la manija gira fácilmente."
+        },
+        {
+          "titulo": "La balanza",
+          "texto": "Peso mayor cerca del centro se equilibra con peso menor lejos."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Halla $d$ para equilibrar 600 N a 1 m con 200 N.",
+          "respuesta": "3 m."
+        },
+        {
+          "ejercicio": "¿Qué dos condiciones pide el equilibrio?",
+          "respuesta": "Suma de fuerzas y suma de torques iguales a cero."
+        },
+        {
+          "ejercicio": "¿Cuánto torque da una fuerza paralela al brazo?",
+          "respuesta": "Cero."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-070",
+    "titulo": "Periodo, frecuencia y longitud de onda",
+    "slug": "periodo-frecuencia-y-longitud-de-onda-prepa",
+    "palabras": [
+      "periodo",
+      "frecuencia",
+      "longitud de onda",
+      "rapidez de onda"
+    ],
+    "contenido": {
+      "idea": "Si cuentas las olas que llegan a la playa, mides frecuencia. Si mides entre crestas, obtienes longitud de onda. Juntas dan la rapidez.",
+      "pizarron": "**La regla:** $f = \\frac{1}{T}$ y $v = \\lambda f$.\n\n**Periodo $T$**: tiempo de una oscilación, en segundos.\n\n**Frecuencia $f$**: oscilaciones por segundo, en hertz.\n\n$$f = \\frac{1}{T}$$\n\n**Longitud de onda $\\lambda$**: distancia entre dos crestas.\n\n**Rapidez**:\n\n$$v = \\lambda f$$\n\nEjemplo 1: $T = 0.02$ s.\n\n$$f = 50\\ \\text{Hz}$$\n\nEjemplo 2: una radio FM de 100 MHz. Con $c = 3 \\times 10^{8}$ m/s:\n\n$$\\lambda = \\frac{3\\times10^{8}}{1\\times10^{8}} = 3\\ \\text{m}$$\n\nEn un mismo medio, si $f$ sube, $\\lambda$ baja.\n\nAl cambiar de medio, $f$ no cambia, pero $v$ y $\\lambda$ sí.",
+      "truco": "Frecuencia y periodo son inversos entre sí.",
+      "practica": {
+        "ejercicio": "Calcula $f$ si $T=0.5$ s.",
+        "respuesta": "2 Hz."
+      },
+      "analogias": [
+        {
+          "titulo": "Los vagones",
+          "texto": "Velocidad del tren es largo del vagón por vagones que pasan cada segundo."
+        },
+        {
+          "titulo": "Pasos del caminante",
+          "texto": "Tu rapidez es largo de paso por pasos por segundo, igual que $\\lambda$ por $f$."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Con $\\lambda=2$ m y $f=5$ Hz, calcula $v$.",
+          "respuesta": "10 m/s."
+        },
+        {
+          "ejercicio": "Con $v=340$ m/s y $f=170$ Hz, calcula $\\lambda$.",
+          "respuesta": "2 m."
+        },
+        {
+          "ejercicio": "Al pasar del aire al agua, ¿cuál se mantiene?",
+          "respuesta": "La frecuencia."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-070",
+    "titulo": "Sonido y efecto Doppler",
+    "slug": "sonido-y-efecto-doppler-prepa",
+    "palabras": [
+      "sonido",
+      "efecto Doppler",
+      "ambulancia",
+      "frecuencia"
+    ],
+    "contenido": {
+      "idea": "La sirena de una ambulancia suena aguda al acercarse y grave al alejarse. La ambulancia no cambió su sirena: cambió lo que tú recibes.",
+      "pizarron": "**La ley:** si fuente y oyente se acercan, el sonido se oye más agudo; si se alejan, más grave.\n\nEl sonido es onda longitudinal. Su rapidez depende del medio: aire 340 m/s, agua cerca de 1500 m/s, acero cerca de 5000 m/s.\n\n**Efecto Doppler**: cambia la frecuencia percibida si fuente y oyente se mueven entre sí.\n\n$$f' = f\\,\\frac{v \\pm v_o}{v \\mp v_f}$$\n\nSignos:\n\n- Numerador: $+$ si el oyente se acerca.\n- Denominador: $-$ si la fuente se acerca.\n\nEjemplo: fuente de 680 Hz se acerca a 40 m/s, $v = 340$ m/s.\n\n$$f' = 680 \\times \\frac{340}{300} \\approx 771\\ \\text{Hz}$$\n\nSe usa en radares de velocidad, ultrasonido médico y astronomía.",
+      "truco": "Si se acercan, más agudo; si se alejan, más grave.",
+      "practica": {
+        "ejercicio": "Un tren se aleja de ti. ¿El sonido se oye más agudo o más grave?",
+        "respuesta": "Más grave."
+      },
+      "analogias": [
+        {
+          "titulo": "Olas y lancha",
+          "texto": "La lancha que avanza amontona las olas delante y las estira detrás."
+        },
+        {
+          "titulo": "Pelotas lanzadas",
+          "texto": "Si te acercas a quien lanza, las pelotas llegan más seguido."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Una fuente de 500 Hz se aleja a 60 m/s, $v=340$ m/s. Halla $f'$.",
+          "respuesta": "425 Hz."
+        },
+        {
+          "ejercicio": "¿En qué medio es más rápido el sonido, aire o acero?",
+          "respuesta": "En acero."
+        },
+        {
+          "ejercicio": "Menciona un uso del efecto Doppler.",
+          "respuesta": "Los radares de velocidad."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-071",
+    "titulo": "Ley de reflexión",
+    "slug": "ley-de-reflexion-prepa",
+    "palabras": [
+      "reflexión",
+      "ángulo de incidencia",
+      "espejo plano",
+      "normal"
+    ],
+    "contenido": {
+      "idea": "Una pelota de billar rebota en la banda con el mismo ángulo con que llegó. La luz obedece esa regla exacta en un espejo.",
+      "pizarron": "**La ley:** el ángulo de incidencia es igual al de reflexión.\n\n**Ley de reflexión**:\n\n1. Rayo incidente, normal y rayo reflejado están en el mismo plano.\n2. $\\theta_i = \\theta_r$.\n\nLos ángulos se miden desde la **normal**, no desde la superficie.\n\nEjemplo: un rayo forma $20°$ con el espejo.\n\n$$\\theta_i = 90° - 20° = 70° \\Rightarrow \\theta_r = 70°$$\n\n**Espejo plano**:\n\n- Imagen virtual.\n- Mismo tamaño.\n- A la misma distancia detrás del espejo.\n\nEjemplo: estás a 2 m del espejo. Tu imagen está a 4 m de ti.\n\nPara verte completo, el espejo debe medir la **mitad** de tu altura.\n\n**Especular**: superficie lisa. **Difusa**: superficie rugosa, los rayos se dispersan.",
+      "truco": "Mide siempre desde la normal.",
+      "practica": {
+        "ejercicio": "Un rayo llega a $40°$ de la normal. ¿Cuál es el ángulo reflejado?",
+        "respuesta": "$40°$"
+      },
+      "analogias": [
+        {
+          "titulo": "Billar",
+          "texto": "Sin efecto, la bola sale con el mismo ángulo con que tocó la banda."
+        },
+        {
+          "titulo": "Agua quieta",
+          "texto": "Un lago calmado refleja como espejo; con olas, la luz se dispersa."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Un rayo forma $30°$ con el espejo. Halla $\\theta_r$.",
+          "respuesta": "$60°$"
+        },
+        {
+          "ejercicio": "Estás a 3 m del espejo. ¿A qué distancia de ti está tu imagen?",
+          "respuesta": "A 6 m."
+        },
+        {
+          "ejercicio": "Mides 1.80 m. ¿Qué altura mínima necesita el espejo?",
+          "respuesta": "0.90 m."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-071",
+    "titulo": "Ley de Snell",
+    "slug": "ley-de-snell-prepa",
+    "palabras": [
+      "Snell",
+      "refracción",
+      "índice de refracción",
+      "reflexión total"
+    ],
+    "contenido": {
+      "idea": "Un salvavidas no corre en línea recta al agua: sigue un camino más rápido. La luz también elige ese tipo de trayecto entre dos medios.",
+      "pizarron": "**La ley:** al cambiar de material, la luz se desvía: $n_1\\sin\\theta_1 = n_2\\sin\\theta_2$.\n\n$n$ dice cuánto se frena la luz. Aire 1, agua 1.33, vidrio 1.5.\n\n$\\theta$ es el ángulo con la línea perpendicular.\n\n**Ejemplo:** de aire a agua, con $30°$.\n\n$$\\sin\\theta_2 = \\frac{0.5}{1.33} = 0.376$$\n\n$$\\theta_2 \\approx 22°$$\n\nSi va a un material más lento, se acerca a la perpendicular.\n\n**Reflexión total:** si no puede salir, rebota. Así funciona la fibra óptica.\n\n**Para tu escuela:** repite el cálculo de aire a vidrio con $30°$.",
+      "truco": "n por seno de un lado es igual a n por seno del otro.",
+      "practica": {
+        "ejercicio": "¿Cuánto vale $v$ en un medio con $n=1.5$?",
+        "respuesta": "$2 \\times 10^{8}$ m/s."
+      },
+      "analogias": [
+        {
+          "titulo": "La fila de soldados",
+          "texto": "Si un lado de la fila entra al lodo antes, se frena y toda la fila gira."
+        },
+        {
+          "titulo": "El salvavidas",
+          "texto": "Corre más por la arena y nada menos, porque en agua avanza despacio."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "De aire a vidrio ($n=1.5$) con $30°$, halla $\\sin\\theta_2$.",
+          "respuesta": "0.333"
+        },
+        {
+          "ejercicio": "¿Qué tecnología usa reflexión total interna?",
+          "respuesta": "La fibra óptica."
+        },
+        {
+          "ejercicio": "¿Puede haber reflexión total al ir de aire a agua?",
+          "respuesta": "No, se necesita ir de mayor a menor $n$."
+        }
+      ]
+    }
+  },
+  {
+    "nodo_id": "ems-071",
+    "titulo": "Espejos y lentes",
+    "slug": "espejos-y-lentes-prepa",
+    "palabras": [
+      "ecuación de lentes",
+      "distancia focal",
+      "aumento",
+      "imagen real"
+    ],
+    "contenido": {
+      "idea": "Con una lupa puedes proyectar la ventana en una hoja. Una ecuación predice dónde aparece esa imagen y de qué tamaño.",
+      "pizarron": "**La regla:** $\\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i}$.\n\n**Ecuación** para espejos y lentes delgadas:\n\n$$\\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i}$$\n\n**Aumento**:\n\n$$M = -\\frac{d_i}{d_o}$$\n\n**Signos**:\n\n- $f > 0$: espejo cóncavo o lente convergente.\n- $f < 0$: espejo convexo o lente divergente.\n- $d_i > 0$: imagen real.\n- $d_i < 0$: imagen virtual.\n- $M < 0$: imagen invertida.\n\nEjemplo: lente de $f = 10$ cm, objeto a 30 cm.\n\n$$\\frac{1}{d_i} = \\frac{1}{10} - \\frac{1}{30} = \\frac{2}{30} \\Rightarrow d_i = 15\\ \\text{cm}$$\n\n$$M = -\\frac{15}{30} = -0.5$$\n\nImagen real, invertida y de la mitad del tamaño.\n\n**Potencia** de una lente, en dioptrías: $P = 1/f$, con $f$ en metros.",
+      "truco": "M negativo significa imagen de cabeza.",
+      "practica": {
+        "ejercicio": "Con $f=20$ cm y $d_o=40$ cm, halla $d_i$.",
+        "respuesta": "40 cm."
+      },
+      "analogias": [
+        {
+          "titulo": "El proyector",
+          "texto": "Una lente convergente lanza una imagen real invertida sobre la pantalla."
+        },
+        {
+          "titulo": "La cuchara",
+          "texto": "En la parte cóncava te ves de cabeza; en la convexa, derecho y pequeño."
+        }
+      ],
+      "ejercicios": [
+        {
+          "ejercicio": "Con $f=10$ cm y $d_o=20$ cm, halla $M$.",
+          "respuesta": "$-1$"
+        },
+        {
+          "ejercicio": "¿Qué potencia tiene una lente de 0.5 m?",
+          "respuesta": "2 dioptrías."
+        },
+        {
+          "ejercicio": "Con $f=10$ cm y $d_o=5$ cm, ¿cuánto vale $d_i$?",
+          "respuesta": "$-10$ cm, imagen virtual."
+        }
+      ]
+    }
+  }
 ]

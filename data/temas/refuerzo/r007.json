@@ -1,65 +1,404 @@
 [
-{"nodo_id":"f4-046","titulo":"Resta de fracciones con igual denominador","slug":"resta-de-fracciones-con-igual-denominador-primaria","palabras":["restar fracciones","mismo denominador","numeradores","quitar"],"contenido":{
-"idea":"Si quedan 5 rebanadas de una pizza de 8 y te comes 2, quedan 3 rebanadas. Las rebanadas siguen siendo del mismo tamaño: solo cambia cuántas hay.",
-"pizarron":"Con el mismo denominador:\n\n1. **Resta los numeradores**.\n2. **Deja el denominador igual**.\n\n$$\\frac{5}{8} - \\frac{2}{8} = \\frac{3}{8}$$\n\nSi quitas todo: $\\frac{3}{5}-\\frac{3}{5}=\\frac{0}{5}=0$.\n\nPara restar de un entero, conviértelo a la misma fracción:\n\n$$1 - \\frac{2}{7} = \\frac{7}{7} - \\frac{2}{7} = \\frac{5}{7}$$\n\nSimplifica si se puede: $\\frac{5}{6} - \\frac{2}{6} = \\frac{3}{6} = \\frac{1}{2}$.\n\nComprueba sumando: $\\frac{3}{8} + \\frac{2}{8} = \\frac{5}{8}$.",
-"truco":"Mismo denominador: resta arriba y deja abajo.",
-"practica":{"ejercicio":"Resuelve $\\frac{7}{9} - \\frac{4}{9}$","respuesta":"$\\frac{3}{9} = \\frac{1}{3}$"},
-"analogias":[{"titulo":"La barra de chocolate","texto":"La barra tiene cuadritos iguales. Si te comes algunos, cuentas los que quedan; los cuadritos no cambian de tamaño."},{"titulo":"El listón","texto":"Un listón está marcado en cuartos. Si cortas uno de los tres cuartos que tienes, te quedan dos cuartos."}],
-"ejercicios":[{"ejercicio":"Resuelve $\\frac{9}{10} - \\frac{3}{10}$","respuesta":"$\\frac{6}{10} = \\frac{3}{5}$"},{"ejercicio":"Resuelve $1 - \\frac{3}{4}$","respuesta":"$\\frac{1}{4}$"},{"ejercicio":"Había $\\frac{4}{6}$ de un pastel y se comió $\\frac{1}{6}$. ¿Cuánto queda?","respuesta":"$\\frac{3}{6} = \\frac{1}{2}$ pastel."}]}},
-{"nodo_id":"f4-046","titulo":"Problemas de dos pasos","slug":"problemas-de-dos-pasos-primaria","palabras":["problemas","dos operaciones","pasos","planear","pregunta oculta"],"contenido":{
-"idea":"Un problema de dos pasos es como armar un sándwich: primero preparas el pan y luego el relleno. Sin el primer paso, el segundo no se puede hacer.",
-"pizarron":"En estos problemas hay una **pregunta escondida** que debes resolver antes.\n\nPasos:\n\n1. Lee qué te piden al final.\n2. Pregunta: ¿qué necesito saber antes?\n3. Resuelve ese primer paso.\n4. Usa el resultado para el segundo paso.\n\nEjemplo: Ana compra 3 cuadernos de 25 pesos y paga con 100. ¿Cuánto le devuelven?\n\n- Pregunta escondida: ¿cuánto gastó?\n- Paso 1: 3 × 25 = 75 pesos.\n- Paso 2: 100 - 75 = **25 pesos** de cambio.\n\nAl final revisa si tiene sentido: el cambio no puede ser mayor a lo que pagó.",
-"truco":"Pregúntate: ¿qué necesito saber primero?",
-"practica":{"ejercicio":"Compras 2 tortas de 40 pesos y un jugo de 15. ¿Cuánto pagas?","respuesta":"2 × 40 = 80; 80 + 15 = 95 pesos."},
-"analogias":[{"titulo":"Vestirse para salir","texto":"Primero te pones calcetines y luego zapatos. No puedes cambiar el orden. Algunos problemas también tienen un orden obligatorio."},{"titulo":"La escalera de dos peldaños","texto":"Para llegar arriba pisas el primer escalón y, desde ahí, el segundo. El primer resultado te sirve de apoyo."}],
-"ejercicios":[{"ejercicio":"Tienes 200 pesos y compras 3 libretas de 30. ¿Cuánto te queda?","respuesta":"3 × 30 = 90; 200 - 90 = 110 pesos."},{"ejercicio":"En un salón hay 4 filas de 6 alumnos y entran 5 más. ¿Cuántos son?","respuesta":"4 × 6 = 24; 24 + 5 = 29 alumnos."},{"ejercicio":"Reparten 48 dulces en 6 bolsas y cada niño recibe 2 bolsas. ¿Cuántos dulces recibe?","respuesta":"48 ÷ 6 = 8; 8 × 2 = 16 dulces."}]}},
-{"nodo_id":"f4-050","titulo":"Multiplicar por un número de una cifra","slug":"multiplicar-por-un-numero-de-una-cifra-primaria","palabras":["multiplicación","una cifra","llevar","en columna","producto"],"contenido":{
-"idea":"Si quieres saber cuánto pagan 3 familias de 124 pesos, multiplicas cada parte: las unidades, las decenas y las centenas, y luego lo juntas.",
-"pizarron":"Pasos:\n\n1. Multiplica de derecha a izquierda.\n2. Escribe las unidades del resultado.\n3. Lleva las decenas a la siguiente columna.\n4. Multiplica y **suma** lo que llevas.\n\nEjemplo: 247 × 3\n\n```\n  2 1\n  2 4 7\n×     3\n-------\n  7 4 1\n```\n\n- 3 × 7 = 21, escribe 1 y lleva 2.\n- 3 × 4 = 12, más 2 = 14, escribe 4 y lleva 1.\n- 3 × 2 = 6, más 1 = **7**.\n\nResultado: 741.\n\nPrimero se multiplica y después se suma lo que llevas.",
-"truco":"Multiplica primero y suma lo que llevas después.",
-"practica":{"ejercicio":"Resuelve 136 × 4","respuesta":"544"},
-"analogias":[{"titulo":"Repartir por partes","texto":"Para multiplicar 124 × 3 puedes pensar en 100, 20 y 4 por separado. Después juntas los pedazos."},{"titulo":"Las monedas y el cambio","texto":"Cada vez que juntas 10 monedas sueltas, las pasas a la columna de las decenas. Eso es llevar."}],
-"ejercicios":[{"ejercicio":"Resuelve 58 × 7","respuesta":"406"},{"ejercicio":"Resuelve 305 × 6","respuesta":"1 830"},{"ejercicio":"Una caja trae 144 lápices. ¿Cuántos hay en 5 cajas?","respuesta":"144 × 5 = 720 lápices."}]}},
-{"nodo_id":"f4-050","titulo":"Multiplicar por un número de dos cifras","slug":"multiplicar-por-un-numero-de-dos-cifras-primaria","palabras":["multiplicación","dos cifras","ceros","sumar renglones","productos parciales"],"contenido":{
-"idea":"Multiplicar por 23 es multiplicar por 3 y luego por 20, y sumar. Son dos multiplicaciones pequeñas juntas en una sola operación.",
-"pizarron":"Ejemplo: 46 × 23\n\n```\n     4 6\n×    2 3\n--------\n   1 3 8     (46 × 3)\n   9 2 0     (46 × 20)\n--------\n 1 0 5 8\n```\n\nPasos:\n\n1. Multiplica por las **unidades**: 46 × 3 = 138.\n2. Pon un **cero** en el renglón siguiente, porque ahora multiplicas por decenas.\n3. Multiplica por las **decenas**: 46 × 2 = 92, queda 920.\n4. **Suma** los renglones: 138 + 920 = 1 058.\n\nEl error más común es olvidar el cero. Sin él, el resultado sale muy pequeño.\n\nEstima: 46 × 23 es cerca de 50 × 20 = 1 000.",
-"truco":"Renglón nuevo, un cero que respeta el lugar.",
-"practica":{"ejercicio":"Resuelve 32 × 14","respuesta":"448. 32 × 4 = 128; 32 × 10 = 320; 128 + 320 = 448."},
-"analogias":[{"titulo":"El salón con filas","texto":"Para contar 23 filas de 46 sillas, cuenta 20 filas y luego 3 filas. Dos pasos hacen el total."},{"titulo":"El sueldo","texto":"Si ganas 46 pesos por hora y trabajas 23, calcula lo de 20 horas y lo de 3 horas por separado. Luego sumas."}],
-"ejercicios":[{"ejercicio":"Resuelve 56 × 12","respuesta":"672"},{"ejercicio":"Resuelve 75 × 34","respuesta":"2 550"},{"ejercicio":"Un teatro tiene 28 filas de 35 butacas. ¿Cuántas butacas hay?","respuesta":"28 × 35 = 980 butacas."}]}},
-{"nodo_id":"f4-050","titulo":"Multiplicar por tres cifras","slug":"multiplicar-por-tres-cifras-primaria","palabras":["multiplicación","tres cifras","centenas","dos ceros","renglones"],"contenido":{
-"idea":"Es igual que multiplicar por dos cifras, con un piso más. Cada renglón nuevo trabaja un lugar más a la izquierda.",
-"pizarron":"Ejemplo: 215 × 132\n\n```\n      2 1 5\n×     1 3 2\n-----------\n      4 3 0     (215 × 2)\n    6 4 5 0     (215 × 30)\n  2 1 5 0 0     (215 × 100)\n-----------\n  2 8 3 8 0\n```\n\nPasos:\n\n1. Multiplica por las unidades.\n2. Pon **un cero** y multiplica por las decenas.\n3. Pon **dos ceros** y multiplica por las centenas.\n4. Suma todo.\n\nSuma: 430 + 6 450 + 21 500 = 28 380.\n\nSi en medio hay 0, como 304, el renglón de las decenas da cero y puedes saltarlo, cuidando poner dos ceros en las centenas.",
-"truco":"Unidades ningún cero, decenas uno, centenas dos.",
-"practica":{"ejercicio":"Resuelve 123 × 111","respuesta":"13 653. 123 + 1 230 + 12 300 = 13 653."},
-"analogias":[{"titulo":"Los tres viajes","texto":"Haces un viaje por cada cifra y traes un pedazo del resultado. Al final juntas lo que traes."},{"titulo":"El edificio","texto":"Cada renglón es un piso. Cuanto más arriba de cifra, más ceros de cimiento debes poner."}],
-"ejercicios":[{"ejercicio":"Resuelve 240 × 105","respuesta":"25 200"},{"ejercicio":"Resuelve 312 × 123","respuesta":"38 376"},{"ejercicio":"Una fábrica hace 125 piezas al día. ¿Cuántas hace en 240 días?","respuesta":"125 × 240 = 30 000 piezas."}]}},
-{"nodo_id":"f4-050","titulo":"Multiplicar por 10, 100 y 1000","slug":"multiplicar-por-10-100-y-1000-primaria","palabras":["multiplicar por 10","agregar ceros","potencias de 10","mental"],"contenido":{
-"idea":"Multiplicar por 10, 100 o 1000 es casi magia: solo agregas ceros, porque cada cifra sube de lugar sin hacer ninguna cuenta.",
-"pizarron":"Regla: agrega tantos ceros como tenga el multiplicador.\n\n- 34 × 10 = **340**\n- 34 × 100 = **3 400**\n- 34 × 1000 = **34 000**\n\nCon números que terminan en cero:\n\n- 40 × 100 = 4 000\n\nPara decimales, el punto se mueve a la derecha:\n\n- 3.5 × 10 = 35\n\n**Atajo con ceros**: 30 × 200.\n\n1. Multiplica lo que no es cero: 3 × 2 = 6.\n2. Cuenta los ceros: 3.\n3. Agrégalos: 6 000.",
-"truco":"Cuenta los ceros y agrégalos al final.",
-"practica":{"ejercicio":"Calcula 72 × 100","respuesta":"7 200"},
-"analogias":[{"titulo":"El billete grande","texto":"Diez billetes de 72 pesos no existen, pero si existieran sumarían 720: cada cero mueve el valor un lugar."},{"titulo":"El zoom","texto":"Multiplicar por 10 es como hacer zoom: el número es el mismo, pero se ve más grande."}],
-"ejercicios":[{"ejercicio":"Calcula 150 × 10","respuesta":"1 500"},{"ejercicio":"Calcula 6 × 1000","respuesta":"6 000"},{"ejercicio":"Calcula 40 × 300","respuesta":"12 000"}]}},
-{"nodo_id":"f4-050","titulo":"División entre una cifra","slug":"division-entre-una-cifra-primaria","palabras":["división","casita","una cifra","bajar","dividir paso a paso"],"contenido":{
-"idea":"Dividir un número grande es repartir por partes: primero las centenas, luego las decenas y luego las unidades, como repartir billetes y después monedas.",
-"pizarron":"Ejemplo: 852 ÷ 4\n\n1. **Divide** las centenas: 8 ÷ 4 = 2. Escribe 2 arriba.\n2. **Multiplica**: 2 × 4 = 8.\n3. **Resta**: 8 - 8 = 0.\n4. **Baja** el 5.\n5. Divide: 5 ÷ 4 = 1. Multiplica 1 × 4 = 4. Resta: 5 - 4 = 1.\n6. Baja el 2: queda 12.\n7. Divide: 12 ÷ 4 = 3. Multiplica 3 × 4 = 12. Resta: 0.\n\nResultado: **213**.\n\nSi la primera cifra es menor que el divisor, toma dos cifras: en 156 ÷ 3 usa 15.\n\nSi una cifra no alcanza, pon **0** en el cociente: 408 ÷ 4 = 102.",
-"truco":"Divide, multiplica, resta y baja: cuatro pasos que se repiten.",
-"practica":{"ejercicio":"Resuelve 96 ÷ 3","respuesta":"32"},
-"analogias":[{"titulo":"El reparto del dinero","texto":"Primero repartes los billetes grandes, luego cambias los que sobran y repartes los chicos. Cada paso baja de tamaño."},{"titulo":"La lavadora","texto":"Un ciclo se repite: lava, enjuaga, exprime, otra vez. La división repite sus cuatro pasos hasta terminar."}],
-"ejercicios":[{"ejercicio":"Resuelve 725 ÷ 5","respuesta":"145"},{"ejercicio":"Resuelve 612 ÷ 6","respuesta":"102"},{"ejercicio":"Reparte 936 hojas entre 3 grupos iguales. ¿Cuántas para cada grupo?","respuesta":"936 ÷ 3 = 312 hojas."}]}},
-{"nodo_id":"f4-050","titulo":"División entre dos cifras","slug":"division-entre-dos-cifras-primaria","palabras":["división","dos cifras","estimar","tanteo","casita"],"contenido":{
-"idea":"Dividir entre dos cifras es adivinar con inteligencia. Tapas una parte de los números, estimas cuántas veces cabe y luego compruebas si atinaste.",
-"pizarron":"Ejemplo: 864 ÷ 24\n\n1. Toma cifras hasta que quepa el divisor: 86.\n2. **Estima**: ¿cuántas veces cabe 24 en 86? Piensa 80 ÷ 20 = 4, pero 24 × 4 = 96 se pasa. Prueba 3.\n3. Multiplica: 24 × 3 = 72.\n4. Resta: 86 - 72 = 14.\n5. Baja el 4: queda 144.\n6. Estima: 144 ÷ 24. Prueba 6: 24 × 6 = 144.\n7. Resta: 0.\n\nResultado: **36**.\n\nSi la resta da más que el divisor, tu número fue pequeño: sube 1. Si la multiplicación se pasa, baja 1.",
-"truco":"Tapa la última cifra de cada número para estimar.",
-"practica":{"ejercicio":"Resuelve 182 ÷ 13","respuesta":"14"},
-"analogias":[{"titulo":"Adivinar el peso","texto":"Un vendedor calcula a ojo cuántas naranjas son un kilo, pone unas y luego ajusta. Estimar y corregir es normal."},{"titulo":"Tirar a la canasta","texto":"El primer intento te dice si te faltó o te pasaste. Ajustas la fuerza, igual que ajustas el número del cociente."}],
-"ejercicios":[{"ejercicio":"Resuelve 625 ÷ 25","respuesta":"25"},{"ejercicio":"Resuelve 1 024 ÷ 32","respuesta":"32"},{"ejercicio":"Hay 540 sillas y cada salón usa 36. ¿Para cuántos salones alcanzan?","respuesta":"540 ÷ 36 = 15 salones."}]}},
-{"nodo_id":"f4-050","titulo":"División con residuo","slug":"division-con-residuo-primaria","palabras":["residuo","sobrante","división inexacta","lo que sobra"],"contenido":{
-"idea":"Si repartes 17 canicas entre 5 amigos, a cada uno le tocan 3 y sobran 2. Esas que sobran y ya no se pueden repartir son el residuo.",
-"pizarron":"Una división tiene **residuo** cuando sobra algo.\n\nEjemplo: 17 ÷ 5\n\n- 5 × 3 = 15, y 5 × 4 = 20 se pasa.\n- Cociente: **3**.\n- Sobra: 17 - 15 = **2**.\n\nSe escribe: 17 ÷ 5 = 3, residuo 2.\n\nRegla fundamental:\n\n**El residuo siempre es menor que el divisor.**\n\nSi el residuo fuera 5 o más, aún podrías repartir más.\n\nFórmula para comprobar:\n\n**cociente × divisor + residuo = dividendo**\n\n3 × 5 + 2 = 17.",
-"truco":"Si el residuo es igual o mayor que el divisor, repartiste poco.",
-"practica":{"ejercicio":"Resuelve 29 ÷ 4","respuesta":"Cociente 7, residuo 1, porque 7 × 4 + 1 = 29."},
-"analogias":[{"titulo":"El viaje en coche","texto":"Si van 11 personas y en cada coche caben 4, se llenan 2 coches y quedan 3 personas. Esas 3 son el residuo."},{"titulo":"Empaquetar huevos","texto":"Con 25 huevos y cartones de 6 llenas 4 cartones y sobra 1 huevo. El cartón incompleto no cuenta."}],
-"ejercicios":[{"ejercicio":"Resuelve 50 ÷ 7","respuesta":"Cociente 7, residuo 1."},{"ejercicio":"Resuelve 83 ÷ 9","respuesta":"Cociente 9, residuo 2."},{"ejercicio":"Con 38 flores haces ramos de 6. ¿Cuántos ramos salen y cuántas flores sobran?","respuesta":"6 ramos y sobran 2 flores."}]}}
+{
+"nodo_id": "f4-046",
+"titulo": "Resta de fracciones con igual denominador",
+"slug": "resta-de-fracciones-con-igual-denominador-primaria",
+"palabras": [
+"restar fracciones",
+"mismo denominador",
+"numeradores",
+"quitar"
+],
+"contenido": {
+"idea": "Si quedan 5 rebanadas de una pizza de 8 y te comes 2, quedan 3 rebanadas. Las rebanadas siguen siendo del mismo tamaño: solo cambia cuántas hay.",
+"pizarron": "**La regla:** si las fracciones tienen el mismo denominador, se restan los numeradores y el denominador se queda igual.\n\nCon el mismo denominador:\n\n1. **Resta los numeradores**.\n2. **Deja el denominador igual**.\n\n$$\\frac{5}{8} - \\frac{2}{8} = \\frac{3}{8}$$\n\nSi quitas todo: $\\frac{3}{5}-\\frac{3}{5}=\\frac{0}{5}=0$.\n\nPara restar de un entero, conviértelo a la misma fracción:\n\n$$1 - \\frac{2}{7} = \\frac{7}{7} - \\frac{2}{7} = \\frac{5}{7}$$\n\nSimplifica si se puede: $\\frac{5}{6} - \\frac{2}{6} = \\frac{3}{6} = \\frac{1}{2}$.\n\nComprueba sumando: $\\frac{3}{8} + \\frac{2}{8} = \\frac{5}{8}$.",
+"truco": "Mismo denominador: resta arriba y deja abajo.",
+"practica": {
+"ejercicio": "Resuelve $\\frac{7}{9} - \\frac{4}{9}$",
+"respuesta": "$\\frac{3}{9} = \\frac{1}{3}$"
+},
+"analogias": [
+{
+"titulo": "La barra de chocolate",
+"texto": "La barra tiene cuadritos iguales. Si te comes algunos, cuentas los que quedan; los cuadritos no cambian de tamaño."
+},
+{
+"titulo": "El listón",
+"texto": "Un listón está marcado en cuartos. Si cortas uno de los tres cuartos que tienes, te quedan dos cuartos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve $\\frac{9}{10} - \\frac{3}{10}$",
+"respuesta": "$\\frac{6}{10} = \\frac{3}{5}$"
+},
+{
+"ejercicio": "Resuelve $1 - \\frac{3}{4}$",
+"respuesta": "$\\frac{1}{4}$"
+},
+{
+"ejercicio": "Había $\\frac{4}{6}$ de un pastel y se comió $\\frac{1}{6}$. ¿Cuánto queda?",
+"respuesta": "$\\frac{3}{6} = \\frac{1}{2}$ pastel."
+}
+]
+}
+},
+{
+"nodo_id": "f4-046",
+"titulo": "Problemas de dos pasos",
+"slug": "problemas-de-dos-pasos-primaria",
+"palabras": [
+"problemas",
+"dos operaciones",
+"pasos",
+"planear",
+"pregunta oculta"
+],
+"contenido": {
+"idea": "Un problema de dos pasos es como armar un sándwich: primero preparas el pan y luego el relleno. Sin el primer paso, el segundo no se puede hacer.",
+"pizarron": "**La regla:** un problema de dos pasos se resuelve con dos operaciones: la respuesta de la primera se usa en la segunda.\n\nEn estos problemas hay una **pregunta escondida** que debes resolver antes.\n\nPasos:\n\n1. Lee qué te piden al final.\n2. Pregunta: ¿qué necesito saber antes?\n3. Resuelve ese primer paso.\n4. Usa el resultado para el segundo paso.\n\nEjemplo: Ana compra 3 cuadernos de 25 pesos y paga con 100. ¿Cuánto le devuelven?\n\n- Pregunta escondida: ¿cuánto gastó?\n- Paso 1: 3 × 25 = 75 pesos.\n- Paso 2: 100 - 75 = **25 pesos** de cambio.\n\nAl final revisa si tiene sentido: el cambio no puede ser mayor a lo que pagó.",
+"truco": "Pregúntate: ¿qué necesito saber primero?",
+"practica": {
+"ejercicio": "Compras 2 tortas de 40 pesos y un jugo de 15. ¿Cuánto pagas?",
+"respuesta": "2 × 40 = 80; 80 + 15 = 95 pesos."
+},
+"analogias": [
+{
+"titulo": "Vestirse para salir",
+"texto": "Primero te pones calcetines y luego zapatos. No puedes cambiar el orden. Algunos problemas también tienen un orden obligatorio."
+},
+{
+"titulo": "La escalera de dos peldaños",
+"texto": "Para llegar arriba pisas el primer escalón y, desde ahí, el segundo. El primer resultado te sirve de apoyo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Tienes 200 pesos y compras 3 libretas de 30. ¿Cuánto te queda?",
+"respuesta": "3 × 30 = 90; 200 - 90 = 110 pesos."
+},
+{
+"ejercicio": "En un salón hay 4 filas de 6 alumnos y entran 5 más. ¿Cuántos son?",
+"respuesta": "4 × 6 = 24; 24 + 5 = 29 alumnos."
+},
+{
+"ejercicio": "Reparten 48 dulces en 6 bolsas y cada niño recibe 2 bolsas. ¿Cuántos dulces recibe?",
+"respuesta": "48 ÷ 6 = 8; 8 × 2 = 16 dulces."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Multiplicar por un número de una cifra",
+"slug": "multiplicar-por-un-numero-de-una-cifra-primaria",
+"palabras": [
+"multiplicación",
+"una cifra",
+"llevar",
+"en columna",
+"producto"
+],
+"contenido": {
+"idea": "Si quieres saber cuánto pagan 3 familias de 124 pesos, multiplicas cada parte: las unidades, las decenas y las centenas, y luego lo juntas.",
+"pizarron": "**La regla:** se multiplica de derecha a izquierda cada cifra y se lleva lo que sobre a la siguiente.\n\nPasos:\n\n1. Multiplica de derecha a izquierda.\n2. Escribe las unidades del resultado.\n3. Lleva las decenas a la siguiente columna.\n4. Multiplica y **suma** lo que llevas.\n\nEjemplo: 247 × 3\n\n```\n  2 1\n  2 4 7\n×     3\n-------\n  7 4 1\n```\n\n- 3 × 7 = 21, escribe 1 y lleva 2.\n- 3 × 4 = 12, más 2 = 14, escribe 4 y lleva 1.\n- 3 × 2 = 6, más 1 = **7**.\n\nResultado: 741.\n\nPrimero se multiplica y después se suma lo que llevas.",
+"truco": "Multiplica primero y suma lo que llevas después.",
+"practica": {
+"ejercicio": "Resuelve 136 × 4",
+"respuesta": "544"
+},
+"analogias": [
+{
+"titulo": "Repartir por partes",
+"texto": "Para multiplicar 124 × 3 puedes pensar en 100, 20 y 4 por separado. Después juntas los pedazos."
+},
+{
+"titulo": "Las monedas y el cambio",
+"texto": "Cada vez que juntas 10 monedas sueltas, las pasas a la columna de las decenas. Eso es llevar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve 58 × 7",
+"respuesta": "406"
+},
+{
+"ejercicio": "Resuelve 305 × 6",
+"respuesta": "1 830"
+},
+{
+"ejercicio": "Una caja trae 144 lápices. ¿Cuántos hay en 5 cajas?",
+"respuesta": "144 × 5 = 720 lápices."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Multiplicar por un número de dos cifras",
+"slug": "multiplicar-por-un-numero-de-dos-cifras-primaria",
+"palabras": [
+"multiplicación",
+"dos cifras",
+"ceros",
+"sumar renglones",
+"productos parciales"
+],
+"contenido": {
+"idea": "Multiplicar por 23 es multiplicar por 3 y luego por 20, y sumar. Son dos multiplicaciones pequeñas juntas en una sola operación.",
+"pizarron": "**La regla:** se multiplica primero por las unidades, después por las decenas dejando un lugar a la derecha, y al final se suman los resultados.\n\nEjemplo: 46 × 23\n\n```\n     4 6\n×    2 3\n--------\n   1 3 8     (46 × 3)\n   9 2 0     (46 × 20)\n--------\n 1 0 5 8\n```\n\nPasos:\n\n1. Multiplica por las **unidades**: 46 × 3 = 138.\n2. Pon un **cero** en el renglón siguiente, porque ahora multiplicas por decenas.\n3. Multiplica por las **decenas**: 46 × 2 = 92, queda 920.\n4. **Suma** los renglones: 138 + 920 = 1 058.\n\nEl error más común es olvidar el cero. Sin él, el resultado sale muy pequeño.\n\nEstima: 46 × 23 es cerca de 50 × 20 = 1 000.",
+"truco": "Renglón nuevo, un cero que respeta el lugar.",
+"practica": {
+"ejercicio": "Resuelve 32 × 14",
+"respuesta": "448. 32 × 4 = 128; 32 × 10 = 320; 128 + 320 = 448."
+},
+"analogias": [
+{
+"titulo": "El salón con filas",
+"texto": "Para contar 23 filas de 46 sillas, cuenta 20 filas y luego 3 filas. Dos pasos hacen el total."
+},
+{
+"titulo": "El sueldo",
+"texto": "Si ganas 46 pesos por hora y trabajas 23, calcula lo de 20 horas y lo de 3 horas por separado. Luego sumas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve 56 × 12",
+"respuesta": "672"
+},
+{
+"ejercicio": "Resuelve 75 × 34",
+"respuesta": "2 550"
+},
+{
+"ejercicio": "Un teatro tiene 28 filas de 35 butacas. ¿Cuántas butacas hay?",
+"respuesta": "28 × 35 = 980 butacas."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Multiplicar por tres cifras",
+"slug": "multiplicar-por-tres-cifras-primaria",
+"palabras": [
+"multiplicación",
+"tres cifras",
+"centenas",
+"dos ceros",
+"renglones"
+],
+"contenido": {
+"idea": "Es igual que multiplicar por dos cifras, con un piso más. Cada renglón nuevo trabaja un lugar más a la izquierda.",
+"pizarron": "**La regla:** se multiplica por unidades, decenas y centenas, recorriendo un lugar cada vez, y al final se suma todo.\n\nEjemplo: 215 × 132\n\n```\n      2 1 5\n×     1 3 2\n-----------\n      4 3 0     (215 × 2)\n    6 4 5 0     (215 × 30)\n  2 1 5 0 0     (215 × 100)\n-----------\n  2 8 3 8 0\n```\n\nPasos:\n\n1. Multiplica por las unidades.\n2. Pon **un cero** y multiplica por las decenas.\n3. Pon **dos ceros** y multiplica por las centenas.\n4. Suma todo.\n\nSuma: 430 + 6 450 + 21 500 = 28 380.\n\nSi en medio hay 0, como 304, el renglón de las decenas da cero y puedes saltarlo, cuidando poner dos ceros en las centenas.",
+"truco": "Unidades ningún cero, decenas uno, centenas dos.",
+"practica": {
+"ejercicio": "Resuelve 123 × 111",
+"respuesta": "13 653. 123 + 1 230 + 12 300 = 13 653."
+},
+"analogias": [
+{
+"titulo": "Los tres viajes",
+"texto": "Haces un viaje por cada cifra y traes un pedazo del resultado. Al final juntas lo que traes."
+},
+{
+"titulo": "El edificio",
+"texto": "Cada renglón es un piso. Cuanto más arriba de cifra, más ceros de cimiento debes poner."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve 240 × 105",
+"respuesta": "25 200"
+},
+{
+"ejercicio": "Resuelve 312 × 123",
+"respuesta": "38 376"
+},
+{
+"ejercicio": "Una fábrica hace 125 piezas al día. ¿Cuántas hace en 240 días?",
+"respuesta": "125 × 240 = 30 000 piezas."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Multiplicar por 10, 100 y 1000",
+"slug": "multiplicar-por-10-100-y-1000-primaria",
+"palabras": [
+"multiplicar por 10",
+"agregar ceros",
+"potencias de 10",
+"mental"
+],
+"contenido": {
+"idea": "Multiplicar por 10, 100 o 1000 es casi magia: solo agregas ceros, porque cada cifra sube de lugar sin hacer ninguna cuenta.",
+"pizarron": "**La regla:** para multiplicar por 10, 100 o 1000, agrega al número uno, dos o tres ceros.\n\nRegla: agrega tantos ceros como tenga el multiplicador.\n\n- 34 × 10 = **340**\n- 34 × 100 = **3 400**\n- 34 × 1000 = **34 000**\n\nCon números que terminan en cero:\n\n- 40 × 100 = 4 000\n\nPara decimales, el punto se mueve a la derecha:\n\n- 3.5 × 10 = 35\n\n**Atajo con ceros**: 30 × 200.\n\n1. Multiplica lo que no es cero: 3 × 2 = 6.\n2. Cuenta los ceros: 3.\n3. Agrégalos: 6 000.",
+"truco": "Cuenta los ceros y agrégalos al final.",
+"practica": {
+"ejercicio": "Calcula 72 × 100",
+"respuesta": "7 200"
+},
+"analogias": [
+{
+"titulo": "El billete grande",
+"texto": "Diez billetes de 72 pesos no existen, pero si existieran sumarían 720: cada cero mueve el valor un lugar."
+},
+{
+"titulo": "El zoom",
+"texto": "Multiplicar por 10 es como hacer zoom: el número es el mismo, pero se ve más grande."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula 150 × 10",
+"respuesta": "1 500"
+},
+{
+"ejercicio": "Calcula 6 × 1000",
+"respuesta": "6 000"
+},
+{
+"ejercicio": "Calcula 40 × 300",
+"respuesta": "12 000"
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "División entre una cifra",
+"slug": "division-entre-una-cifra-primaria",
+"palabras": [
+"división",
+"casita",
+"una cifra",
+"bajar",
+"dividir paso a paso"
+],
+"contenido": {
+"idea": "Dividir un número grande es repartir por partes: primero las centenas, luego las decenas y luego las unidades, como repartir billetes y después monedas.",
+"pizarron": "**La regla:** divide de izquierda a derecha: cuántas veces cabe, multiplica, resta y baja la siguiente cifra.\n\nEjemplo: 852 ÷ 4\n\n1. **Divide** las centenas: 8 ÷ 4 = 2. Escribe 2 arriba.\n2. **Multiplica**: 2 × 4 = 8.\n3. **Resta**: 8 - 8 = 0.\n4. **Baja** el 5.\n5. Divide: 5 ÷ 4 = 1. Multiplica 1 × 4 = 4. Resta: 5 - 4 = 1.\n6. Baja el 2: queda 12.\n7. Divide: 12 ÷ 4 = 3. Multiplica 3 × 4 = 12. Resta: 0.\n\nResultado: **213**.\n\nSi la primera cifra es menor que el divisor, toma dos cifras: en 156 ÷ 3 usa 15.\n\nSi una cifra no alcanza, pon **0** en el cociente: 408 ÷ 4 = 102.",
+"truco": "Divide, multiplica, resta y baja: cuatro pasos que se repiten.",
+"practica": {
+"ejercicio": "Resuelve 96 ÷ 3",
+"respuesta": "32"
+},
+"analogias": [
+{
+"titulo": "El reparto del dinero",
+"texto": "Primero repartes los billetes grandes, luego cambias los que sobran y repartes los chicos. Cada paso baja de tamaño."
+},
+{
+"titulo": "La lavadora",
+"texto": "Un ciclo se repite: lava, enjuaga, exprime, otra vez. La división repite sus cuatro pasos hasta terminar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve 725 ÷ 5",
+"respuesta": "145"
+},
+{
+"ejercicio": "Resuelve 612 ÷ 6",
+"respuesta": "102"
+},
+{
+"ejercicio": "Reparte 936 hojas entre 3 grupos iguales. ¿Cuántas para cada grupo?",
+"respuesta": "936 ÷ 3 = 312 hojas."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "División entre dos cifras",
+"slug": "division-entre-dos-cifras-primaria",
+"palabras": [
+"división",
+"dos cifras",
+"estimar",
+"tanteo",
+"casita"
+],
+"contenido": {
+"idea": "Dividir entre dos cifras es adivinar con inteligencia. Tapas una parte de los números, estimas cuántas veces cabe y luego compruebas si atinaste.",
+"pizarron": "**La regla:** se estima cuántas veces cabe el divisor, se multiplica, se resta y se baja la siguiente cifra.\n\nEjemplo: 864 ÷ 24\n\n1. Toma cifras hasta que quepa el divisor: 86.\n2. **Estima**: ¿cuántas veces cabe 24 en 86? Piensa 80 ÷ 20 = 4, pero 24 × 4 = 96 se pasa. Prueba 3.\n3. Multiplica: 24 × 3 = 72.\n4. Resta: 86 - 72 = 14.\n5. Baja el 4: queda 144.\n6. Estima: 144 ÷ 24. Prueba 6: 24 × 6 = 144.\n7. Resta: 0.\n\nResultado: **36**.\n\nSi la resta da más que el divisor, tu número fue pequeño: sube 1. Si la multiplicación se pasa, baja 1.",
+"truco": "Tapa la última cifra de cada número para estimar.",
+"practica": {
+"ejercicio": "Resuelve 182 ÷ 13",
+"respuesta": "14"
+},
+"analogias": [
+{
+"titulo": "Adivinar el peso",
+"texto": "Un vendedor calcula a ojo cuántas naranjas son un kilo, pone unas y luego ajusta. Estimar y corregir es normal."
+},
+{
+"titulo": "Tirar a la canasta",
+"texto": "El primer intento te dice si te faltó o te pasaste. Ajustas la fuerza, igual que ajustas el número del cociente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve 625 ÷ 25",
+"respuesta": "25"
+},
+{
+"ejercicio": "Resuelve 1 024 ÷ 32",
+"respuesta": "32"
+},
+{
+"ejercicio": "Hay 540 sillas y cada salón usa 36. ¿Para cuántos salones alcanzan?",
+"respuesta": "540 ÷ 36 = 15 salones."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "División con residuo",
+"slug": "division-con-residuo-primaria",
+"palabras": [
+"residuo",
+"sobrante",
+"división inexacta",
+"lo que sobra"
+],
+"contenido": {
+"idea": "Si repartes 17 canicas entre 5 amigos, a cada uno le tocan 3 y sobran 2. Esas que sobran y ya no se pueden repartir son el residuo.",
+"pizarron": "**La regla:** el residuo es lo que sobra de una división, y siempre es menor que el divisor.\n\nUna división tiene **residuo** cuando sobra algo.\n\nEjemplo: 17 ÷ 5\n\n- 5 × 3 = 15, y 5 × 4 = 20 se pasa.\n- Cociente: **3**.\n- Sobra: 17 - 15 = **2**.\n\nSe escribe: 17 ÷ 5 = 3, residuo 2.\n\nRegla fundamental:\n\n**El residuo siempre es menor que el divisor.**\n\nSi el residuo fuera 5 o más, aún podrías repartir más.\n\nFórmula para comprobar:\n\n**cociente × divisor + residuo = dividendo**\n\n3 × 5 + 2 = 17.",
+"truco": "Si el residuo es igual o mayor que el divisor, repartiste poco.",
+"practica": {
+"ejercicio": "Resuelve 29 ÷ 4",
+"respuesta": "Cociente 7, residuo 1, porque 7 × 4 + 1 = 29."
+},
+"analogias": [
+{
+"titulo": "El viaje en coche",
+"texto": "Si van 11 personas y en cada coche caben 4, se llenan 2 coches y quedan 3 personas. Esas 3 son el residuo."
+},
+{
+"titulo": "Empaquetar huevos",
+"texto": "Con 25 huevos y cartones de 6 llenas 4 cartones y sobra 1 huevo. El cartón incompleto no cuenta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Resuelve 50 ÷ 7",
+"respuesta": "Cociente 7, residuo 1."
+},
+{
+"ejercicio": "Resuelve 83 ÷ 9",
+"respuesta": "Cociente 9, residuo 2."
+},
+{
+"ejercicio": "Con 38 flores haces ramos de 6. ¿Cuántos ramos salen y cuántas flores sobran?",
+"respuesta": "6 ramos y sobran 2 flores."
+}
+]
+}
+}
 ]

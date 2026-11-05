@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Si partes un peso en 100 centavos, 50 centavos son la mitad del peso. Da igual decir 0.50 pesos o medio peso: es la misma cantidad con otro nombre. Los decimales y las fracciones son dos maneras de nombrar pedazos de un entero.",
-"pizarron": "Los decimales son fracciones con denominador 10, 100, 1000:\n\n$$0.7 = \\frac{7}{10} \\qquad 0.25 = \\frac{25}{100} = \\frac{1}{4}$$\n\n**Fracciones equivalentes:** multiplica o divide arriba y abajo por el mismo número.\n\n$$\\frac{2}{3} = \\frac{2 \\times 4}{3 \\times 4} = \\frac{8}{12}$$",
+"pizarron": "**La regla:** un decimal es una fracción con denominador 10, 100 o 1000. Dos fracciones son equivalentes si multiplicas o divides arriba y abajo por el mismo número.\n\n**Decimales:** $0.7$ significa 7 de 10 pedazos.\n\n$$0.7 = \\frac{7}{10} \\qquad 0.25 = \\frac{25}{100} = \\frac{1}{4}$$\n\n**Fracciones equivalentes:** son pedazos distintos que cubren lo mismo.\n\nMedia pizza es lo mismo que dos cuartos.\n\n**Ejemplo:** multiplica arriba y abajo por 4.\n\n$$\\frac{2}{3} = \\frac{2 \\times 4}{3 \\times 4} = \\frac{8}{12}$$",
 "truco": "**Lo que hagas arriba, hazlo abajo.** Así cambian los números, pero no la cantidad.",
 "practica": {
 "ejercicio": "Escribe $\\frac{3}{4}$ como decimal.",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "No puedes sumar directamente 1 manzana y 1 naranja como si fueran iguales, pero sí 2 frutas. Con fracciones pasa algo parecido: medios y cuartos son pedazos de distinto tamaño. Primero los cortas al mismo tamaño y luego los juntas.",
-"pizarron": "**Fracciones con distinto denominador:**\n\n$$\\frac{1}{2} + \\frac{1}{4} = \\frac{2}{4} + \\frac{1}{4} = \\frac{3}{4}$$\n\n**Decimales:** alinea el punto.\n\n$$12.5 + 3.75 = 16.25$$\n\nSi hace falta, agrega ceros: $12.50 + 3.75$.",
+"pizarron": "**La regla:** las fracciones solo se suman si tienen el mismo denominador. Los decimales se suman alineando el punto.\n\n**Fracciones distintas:** no puedes sumar medios con cuartos, igual que no sumas manzanas con peras. Primero hazlos iguales.\n\n$\\frac{1}{2}$ es lo mismo que $\\frac{2}{4}$.\n\n$$\\frac{2}{4} + \\frac{1}{4} = \\frac{3}{4}$$\n\n**Decimales:** pon un punto debajo del otro.\n\n$$12.50 + 3.75 = 16.25$$\n\nSi te falta una cifra, agrega un cero, como en $12.50$.",
 "truco": "**Fracciones: iguala abajo. Decimales: alinea el punto.**",
 "practica": {
 "ejercicio": "Resuelve $\\frac{2}{3} + \\frac{1}{6}$.",
@@ -97,7 +97,7 @@
 ],
 "contenido": {
 "idea": "Si cada niño come $\\frac{1}{4}$ de pizza y son 3 niños, juntan 3 pedazos de cuarto: $\\frac{3}{4}$. Multiplicar por un número es repetir la cantidad. Si en cambio repartes media pizza entre 2 personas, cada pedazo se hace más chico: dividir por un número reparte.",
-"pizarron": "**Fracción por natural:** multiplica el numerador.\n\n$$\\frac{2}{5} \\times 3 = \\frac{6}{5}$$\n\n**Decimal por natural:** multiplica normal y coloca el punto.\n\n$$1.25 \\times 4 = 5.00$$\n\n**Fracción entre natural:** multiplica el denominador.\n\n$$\\frac{1}{2} \\div 3 = \\frac{1}{6}$$",
+"pizarron": "**La regla:** para multiplicar una fracción por un número, multiplicas el de arriba. Para dividirla entre un número, multiplicas el de abajo.\n\n**Fracción por número:** tienes 3 veces dos quintos.\n\n$$\\frac{2}{5} \\times 3 = \\frac{6}{5}$$\n\n**Fracción entre número:** repartes media pizza entre 3.\n\n$$\\frac{1}{2} \\div 3 = \\frac{1}{6}$$\n\nA cada quien le toca un pedazo más chico.\n\n**Decimal por número:** multiplica normal y luego acomoda el punto.\n\n$$1.25 \\times 4 = 5.00$$",
 "truco": "Multiplicar sube el de **arriba**; dividir entre un natural sube el de **abajo**, y los pedazos se hacen más pequeños.",
 "practica": {
 "ejercicio": "Un listón de 3.6 m se corta en 4 partes iguales. ¿Cuánto mide cada parte?",
@@ -141,7 +141,7 @@
 ],
 "contenido": {
 "idea": "Si 2 tacos cuestan 30 pesos, 4 tacos cuestan 60: al doble de tacos, doble de precio. Eso es proporcionalidad. El porcentaje es la misma idea con un tamaño fijo: de cada 100, cuántos.",
-"pizarron": "**Valor unitario:** $30 \\div 2 = 15$ pesos por taco; 7 tacos cuestan $7 \\times 15 = 105$.\n\n**Porcentaje:** $n\\%$ significa $\\frac{n}{100}$.\n\n$$25\\% \\text{ de } 80 = \\frac{25}{100} \\times 80 = 20$$\n\nEquivalencias: $50\\% = \\frac{1}{2}$, $25\\% = \\frac{1}{4}$, $20\\% = \\frac{1}{5}$, $10\\% = \\frac{1}{10}$.",
+"pizarron": "**La regla:** dos cantidades son proporcionales si, al crecer una, la otra crece en la misma medida. Un porcentaje $n\\%$ significa $n$ de cada 100.\n\n**Valor unitario:** es el precio de uno solo.\n\n2 tacos cuestan 30 pesos.\n\nUn taco: $30 \\div 2 = 15$ pesos.\n\n7 tacos: $7 \\times 15 = 105$ pesos.\n\n**Porcentaje:** 25 % significa 25 de cada 100.\n\n$$25\\% \\text{ de } 80 = \\frac{25}{100} \\times 80 = 20$$\n\n**Para recordar:** 50 % es la mitad. 25 % es la cuarta parte. 10 % es la décima parte.",
 "truco": "Para el **10 %**, recorre el punto un lugar a la izquierda. Con eso armas casi todos los demás.",
 "practica": {
 "ejercicio": "Un tenis de 800 pesos tiene 25 % de descuento. ¿Cuánto pagas?",
@@ -185,7 +185,7 @@
 ],
 "contenido": {
 "idea": "Una caja de pizza llega plana y la doblas para armarla. Ese cartón plano es el desarrollo del cuerpo: todas sus caras acostadas en la mesa. Saber qué figuras lo forman te dice si la caja cerrará.",
-"pizarron": "Para un cubo necesitas 6 cuadrados unidos. Hay 11 desarrollos planos distintos.\n\nPara un prisma: dos bases y un rectángulo por cada lado de la base. Para una pirámide: una base y un triángulo por cada lado.\n\nComprueba: cada arista debe unir dos bordes del mismo largo.",
+"pizarron": "**Qué es:** el desarrollo plano es la figura que queda al abrir y extender un cuerpo geométrico, como una caja desarmada.\n\n**Cubo:** son 6 cuadrados unidos.\n\n**Prisma:** dos bases y un rectángulo por cada lado de la base.\n\n**Pirámide:** una base y un triángulo por cada lado de la base.\n\n**Para comprobar:** al doblar, cada borde debe unirse con otro del mismo largo.\n\nHay 11 maneras distintas de desarmar un cubo.",
 "truco": "**Cuenta caras antes de doblar.** Si falta una, el cuerpo no cierra.",
 "practica": {
 "ejercicio": "¿Cuántas figuras tiene el desarrollo de un prisma pentagonal?",
@@ -229,7 +229,7 @@
 ],
 "contenido": {
 "idea": "Dobla una hoja con una mariposa dibujada: las alas coinciden. Esa línea de doblez es un eje de simetría. Las figuras regulares son las que tienen todos sus lados y ángulos iguales, y por eso tienen muchos dobleces posibles.",
-"pizarron": "- **Polígono regular:** lados y ángulos iguales.\n- **Circunferencia:** la línea curva; **círculo:** lo que queda adentro.\n- **Radio:** del centro a la orilla. **Diámetro:** cruza por el centro.\n\n$$d = 2r$$\n\nUn polígono regular de $n$ lados tiene $n$ ejes de simetría.",
+"pizarron": "**Qué es:** un polígono regular tiene todos sus lados y ángulos iguales. La circunferencia es la línea curva, y el círculo es lo que queda dentro.\n\n**Radio** ($r$): va del centro a la orilla.\n\n**Diámetro** ($d$): cruza de orilla a orilla pasando por el centro.\n\nUn diámetro son dos radios:\n\n$$d = 2r$$\n\n**Simetría:** si doblas la figura por una línea y las dos partes coinciden, esa línea es un eje de simetría.\n\nUn polígono regular de $n$ lados tiene $n$ ejes de simetría.",
 "truco": "**El diámetro es el doble** del radio: **d**iámetro, **d**oble.",
 "practica": {
 "ejercicio": "Un círculo tiene radio de 7 cm. ¿Cuánto mide su diámetro?",
@@ -273,7 +273,7 @@
 ],
 "contenido": {
 "idea": "En el juego de hundir barcos dices \"B-4\" y todos saben qué casilla es. Dos datos bastan para ubicar un punto: uno para la columna y otro para la fila. Los mapas y el plano cartesiano funcionan así.",
-"pizarron": "Un punto en el plano se escribe $(x, y)$:\n\n1. $x$: avanza a la derecha.\n2. $y$: sube.\n\nEl punto $(3, 2)$ está 3 lugares a la derecha y 2 arriba del origen $(0, 0)$.",
+"pizarron": "**La regla:** un punto en el plano se escribe $(x, y)$. El primer número dice cuánto avanzas a la derecha y el segundo cuánto subes.\n\n**Qué quiere decir:** es como dar una dirección.\n\nEmpiezas en el punto $(0, 0)$, llamado **origen**.\n\n**Ejemplo:** para llegar a $(3, 2)$:\n\n1. Avanza 3 lugares a la derecha.\n2. Sube 2 lugares.\n\nPrimero caminas y luego subes, como entrar a un edificio y tomar el elevador.",
 "truco": "**Primero caminas, luego subes:** $x$ antes que $y$.",
 "practica": {
 "ejercicio": "Desde $(0, 0)$, ¿dónde queda un punto 5 a la derecha y 1 arriba?",
@@ -318,7 +318,7 @@
 ],
 "contenido": {
 "idea": "El perímetro es la cinta que rodea un regalo, el área es el papel que lo cubre y el volumen es cuánto cabe dentro. Tres preguntas distintas sobre el mismo objeto: orilla, superficie y espacio interior.",
-"pizarron": "$$A_{\\text{triángulo}} = \\frac{b \\times h}{2}$$\n\n$$C = \\pi \\times d \\qquad A_{\\text{círculo}} = \\pi r^2, \\quad \\pi \\approx 3.14$$\n\n**Volumen de un prisma rectangular:**\n\n$$V = l \\times a \\times h$$\n\nSe mide en unidades cúbicas, como $\\text{cm}^3$.",
+"pizarron": "**La regla:** área del triángulo: $A = \\frac{b \\times h}{2}$. Área del círculo: $A = \\pi r^2$. Volumen de una caja: $V = l \\times a \\times h$.\n\n**Triángulo:** es la mitad de un rectángulo, por eso se divide entre 2.\n\n**Círculo:** $\\pi$ es un número fijo, cerca de 3.14. $r$ es el radio.\n\nSu orilla mide $C = \\pi \\times d$, y $d$ es el diámetro.\n\n**Volumen:** es cuántos cubitos caben dentro.\n\n$l$ es lo largo, $a$ lo ancho y $h$ lo alto.\n\n**Ejemplo:** una caja de 2 por 3 por 4 cm.\n\n$$V = 2 \\times 3 \\times 4 = 24\\text{ cm}^3$$",
 "truco": "**Cuenta las dimensiones:** orilla en $\\text{cm}$, área en $\\text{cm}^2$, volumen en $\\text{cm}^3$.",
 "practica": {
 "ejercicio": "Una caja mide 5 cm por 4 cm por 3 cm. ¿Cuál es su volumen?",
@@ -362,7 +362,7 @@
 ],
 "contenido": {
 "idea": "El promedio es repartir parejo. Si Ana tiene 2 dulces, Luis 4 y Eva 6, y juntan todo y lo reparten, cada quien queda con 4. Ese 4 es la media: lo que tocaría si todos tuvieran lo mismo.",
-"pizarron": "**Media:**\n\n$$\\bar{x} = \\frac{\\text{suma de datos}}{\\text{número de datos}} = \\frac{2 + 4 + 6}{3} = 4$$\n\n**Moda:** el dato más repetido.\n\n**Gráfica circular:** cada parte representa un porcentaje del total; todas suman 100 %.",
+"pizarron": "**Qué es:** la media, o promedio, es lo que tocaría si repartes todo en partes iguales. La moda es el dato más repetido. Una gráfica circular muestra partes de un total.\n\n**Media:** suma todo y divide entre cuántos son.\n\nTres niños tienen 2, 4 y 6 dulces.\n\n$$\\frac{2 + 4 + 6}{3} = \\frac{12}{3} = 4$$\n\nSi los reparten igual, cada uno tiene 4.\n\n**Gráfica circular:** parece un pastel. Cada rebanada es un porcentaje. Todas juntas suman 100 %.",
 "truco": "**Media = meter todo en un bote y repartir.**",
 "practica": {
 "ejercicio": "Calificaciones: 7, 8, 9, 10, 6. ¿Cuál es la media?",
@@ -407,7 +407,7 @@
 ],
 "contenido": {
 "idea": "Si en una bolsa hay 9 canicas rojas y 1 azul, y sacas una sin ver, apostarías por roja. No es seguro, pero es más probable. La probabilidad mide qué tan fácil es que algo pase cuando interviene el azar.",
-"pizarron": "$$P = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\nCon un dado, la probabilidad de sacar 2 es $\\frac{1}{6}$.\n\nEscala: imposible $= 0$, seguro $= 1$; lo demás queda entre ambos.",
+"pizarron": "**La regla:** la probabilidad de algo es: casos favorables entre casos posibles.\n\n$$P = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\n**Qué quiere decir:** favorables son las formas de ganar. Posibles son todas las formas en que puede salir.\n\n**Ejemplo:** lanzas un dado y quieres un 2.\n\nHay 1 forma de ganar y 6 caras.\n\n$$P = \\frac{1}{6}$$\n\nSi algo es imposible, vale 0.\n\nSi algo es seguro, vale 1.\n\nLo demás queda entre 0 y 1.",
 "truco": "**Lo que quiero sobre todo lo que puede pasar.**",
 "practica": {
 "ejercicio": "En una bolsa hay 3 fichas verdes y 5 rojas. ¿Cuál es la probabilidad de sacar verde?",

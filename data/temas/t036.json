@@ -1,72 +1,460 @@
 [
-{"nodo_id":"ems-143","titulo":"Presentarte y presentar a otros en inglés","slug":"presentarse-y-presentar-ingles-prepa","palabras":["introductions","saludos","hello","nice to meet you","presentaciones"],"contenido":{
-"idea":"Es como llegar a una fiesta nueva: sonríes, dices tu nombre y presentas a tu amigo para que todos se sientan bienvenidos.",
-"pizarron":"Para saludar usa **Hello**, **Hi**, **Good morning** (mañana), **Good afternoon** (tarde) y **Good evening** (noche).\n\nPara presentarte: **I'm Ana** o **My name is Ana. I'm from Puebla.**\n\nPara presentar a otra persona: **This is Luis. He is my classmate.** Usa *He* para hombre, *She* para mujer y *They* si prefieres un trato neutral.\n\nRespuestas amables: **Nice to meet you** y **Nice to meet you, too.**\n\nEn contextos formales di **Pleased to meet you** y usa el apellido con **Mr.**, **Ms.** o **Mrs.** Escucha cómo prefiere la persona que la llamen.",
-"truco":"Hello, name, from, nice: cuatro pasos.",
-"practica":{"ejercicio":"Presenta a tu compañera Rosa, que es de Oaxaca, a un profesor.","respuesta":"Good morning, teacher. This is Rosa. She is from Oaxaca. Nice to meet you."},
-"analogias":[{"titulo":"La tarjeta de presentación","texto":"Tu presentación es una tarjeta breve: nombre, lugar de origen y una frase amable, sin llenarla de datos."},{"titulo":"El puente","texto":"Al presentar a dos personas construyes un puente entre ellas; This is... es la frase que lo tiende."}],
-"ejercicios":[{"ejercicio":"Completa: ___ name is Pedro. I'm ___ Sonora.","respuesta":"My name is Pedro. I'm from Sonora."},{"ejercicio":"Presenta a tu amigo Juan a tu mamá en inglés.","respuesta":"Mom, this is Juan. He is my friend."},{"ejercicio":"¿Qué saludo usas a las 8 p.m.?","respuesta":"Good evening."}]}},
-{"nodo_id":"ems-144","titulo":"Indicaciones y peticiones en el aula en inglés","slug":"indicaciones-aula-ingles-prepa","palabras":["classroom language","permiso","may I","excuse me","instrucciones"],"contenido":{
-"idea":"Es como pedir que te presten un juguete: usas palabras amables y haces caso cuando te dicen cómo jugar.",
-"pizarron":"**Pedir permiso:** *May I go to the restroom?*, *Can I borrow a pen?*, *May I come in?* La respuesta es *Yes, you may* o *Sorry, not now*.\n\n**Aclarar dudas:** *I don't understand.*, *Can you repeat, please?*, *What does ... mean?*, *How do you say ... in English?*\n\n**Instrucciones del maestro** (imperativo, sin sujeto): *Open your book*, *Listen*, *Write your name*, *Work in pairs*, *Don't talk*.\n\n**Responder:** *Okay*, *Sure*, *Yes, teacher*, *Thank you*.\n\nAgrega siempre **please** y **thank you** para ser cortés.",
-"truco":"Please antes de pedir, thank you después.",
-"practica":{"ejercicio":"No entendiste una palabra. ¿Cómo pides ayuda?","respuesta":"Excuse me, what does this word mean? Can you repeat, please?"},
-"analogias":[{"titulo":"El semáforo","texto":"May I... es el semáforo en amarillo: pides el paso y esperas la señal antes de avanzar."},{"titulo":"El eco","texto":"Seguir una indicación es como un eco: el maestro dice Open your book y tu acción responde de inmediato."}],
-"ejercicios":[{"ejercicio":"Pide permiso para salir del salón.","respuesta":"May I leave the classroom, please?"},{"ejercicio":"Traduce: Open your notebook.","respuesta":"Abre tu cuaderno."},{"ejercicio":"¿Cómo pides que repitan algo?","respuesta":"Can you repeat that, please?"}]}},
-{"nodo_id":"ems-145","titulo":"Objetos y espacios del hogar y la escuela en inglés","slug":"objetos-espacios-hogar-escuela-ingles-prepa","palabras":["objects","classroom","house","colors","shapes","size"],"contenido":{
-"idea":"Es como jugar a Veo veo: nombras algo que ves y dices cómo es, por ejemplo grande, rojo o redondo.",
-"pizarron":"**Lugares:** kitchen, bedroom, bathroom, living room, classroom, library, playground.\n\n**Objetos:** table, chair, door, window, book, backpack, clock.\n\n**Adjetivos:** colores (red, blue, green), formas (round, square, rectangular) y tamaños (big, small, tall, short).\n\nEn inglés el adjetivo va **antes** del sustantivo y no cambia: *a big red backpack*.\n\nEstructuras: *It is a small round table.* / *There is a clock on the wall.* / *There are two windows.* Usa **a** antes de consonante y **an** antes de vocal: *an orange book*.",
-"truco":"Tamaño, color, objeto: big red ball.",
-"practica":{"ejercicio":"Describe en inglés una mesa cuadrada, pequeña y azul.","respuesta":"It is a small blue square table."},
-"analogias":[{"titulo":"La etiqueta","texto":"Cada adjetivo es una etiqueta que pegas al objeto: primero tamaño, luego color, y al final su nombre."},{"titulo":"El mapa de la casa","texto":"Nombrar cuartos y muebles es como dibujar el plano de tu casa y poner nombre a cada espacio."}],
-"ejercicios":[{"ejercicio":"Ordena: backpack / green / a / big","respuesta":"a big green backpack"},{"ejercicio":"¿Cómo se dice reloj en la pared?","respuesta":"A clock on the wall."},{"ejercicio":"Completa con a o an: ___ orange chair.","respuesta":"An orange chair."}]}},
-{"nodo_id":"ems-146","titulo":"Información personal básica en inglés","slug":"informacion-personal-basica-ingles-prepa","palabras":["personal information","name","age","address","phone","email","nationality"],"contenido":{
-"idea":"Es como llenar tu credencial de la escuela: nombre, edad y dónde vives, para que te reconozcan.",
-"pizarron":"**Preguntas:**\n- *What's your name?* -> *My name is Karla.*\n- *How old are you?* -> *I'm 17 years old.*\n- *Where are you from?* / *What's your nationality?* -> *I'm Mexican.*\n- *What's your phone number?* -> *It's 55 1234 5678.*\n- *What's your address?* -> *It's 20 Juárez Street.*\n- *What's your email?* -> *It's karla at mail dot com.*\n\nEn correos, **@** se dice *at* y **.** se dice *dot*. Los números de teléfono se dicen dígito por dígito.\n\nComparte solo lo necesario y solo en contextos de confianza, como la escuela.",
-"truco":"Name, age, from, phone, mail: la credencial.",
-"practica":{"ejercicio":"Responde: How old are you? (tienes 18 años).","respuesta":"I'm 18 years old."},
-"analogias":[{"titulo":"La credencial","texto":"Cada pregunta corresponde a un campo de tu credencial escolar: nombre, edad, teléfono y dirección."},{"titulo":"El formulario","texto":"Responder es llenar un formulario hablado: cada pregunta pide un solo dato, no toda tu historia."}],
-"ejercicios":[{"ejercicio":"Pregunta la edad a un compañero.","respuesta":"How old are you?"},{"ejercicio":"Di tu nacionalidad si naciste en México.","respuesta":"I'm Mexican."},{"ejercicio":"¿Cómo se dice el símbolo @ en un correo?","respuesta":"At."}]}},
-{"nodo_id":"ems-147","titulo":"Preguntas sencillas sobre ubicación y horarios en inglés","slug":"preguntas-ubicacion-horarios-ingles-prepa","palabras":["where","what time","wh questions","schedule","location"],"contenido":{
-"idea":"Es como preguntar dónde está el baño o a qué hora sale el recreo: necesitas saber dónde y cuándo.",
-"pizarron":"**Ubicación con Where:** *Where is the library?* -> *It's next to the gym.* / *Where are the restrooms?* -> *They're on the second floor.*\n\n**Horarios con What time:** *What time is the class?* -> *It's at 9:00.* / *What time does the school open?* -> *It opens at 7:30.*\n\nPreposiciones: **in**, **on**, **at**, **next to**, **between**, **behind**, **in front of**.\n\nUsa **at** con horas y **on** con días: *at 8:00*, *on Monday*.\n\nPara aclarar: *Is it open today?*",
-"truco":"Where es lugar, What time es reloj.",
-"practica":{"ejercicio":"Pregunta a qué hora empieza la clase de inglés.","respuesta":"What time does the English class start?"},
-"analogias":[{"titulo":"El GPS","texto":"Where is...? es encender el GPS: pides la dirección y recibes referencias como next to o behind."},{"titulo":"La agenda","texto":"What time...? es abrir tu agenda y revisar la hora exacta de cada actividad."}],
-"ejercicios":[{"ejercicio":"Pregunta dónde está la cafetería.","respuesta":"Where is the cafeteria?"},{"ejercicio":"Completa: The test is ___ Friday ___ 10:00.","respuesta":"on / at"},{"ejercicio":"Traduce: Está frente a la biblioteca.","respuesta":"It's in front of the library."}]}},
-{"nodo_id":"ems-148","titulo":"Describir personas, ropa y clima en inglés","slug":"describir-personas-ropa-clima-ingles-prepa","palabras":["describing people","clothes","weather","appearance","wearing"],"contenido":{
-"idea":"Es como contarle a un amigo cómo reconocer a alguien en la calle: cómo es, qué lleva puesto y si hace frío o sol.",
-"pizarron":"**Personas con be:** *She is tall.* *He is young.* *They are friendly.*\n\n**Con have:** *He has short black hair.* *She has brown eyes.*\n\n**Ropa con wearing:** *She is wearing a blue jacket and jeans.* Palabras: shirt, dress, shoes, hat, sweater.\n\n**Clima:** *It's sunny / cloudy / rainy / windy / cold / hot.* Pregunta: *What's the weather like?*\n\nDescribe con respeto: elige palabras neutrales y evita burlas sobre el cuerpo o el origen de alguien. Cada persona es distinta y eso es valioso.\n\n**Ubicación:** *She is next to the door.*",
-"truco":"Be para cómo es, have para pelo y ojos, wearing para ropa.",
-"practica":{"ejercicio":"Describe a un chico alto con gorra roja, en día soleado.","respuesta":"He is tall. He is wearing a red cap. It's sunny."},
-"analogias":[{"titulo":"El retrato","texto":"Describir es dibujar un retrato con palabras: primero la forma, luego los colores de la ropa."},{"titulo":"El pronóstico","texto":"Decir el clima es dar el pronóstico del día, como en las noticias: sunny, rainy o cold."}],
-"ejercicios":[{"ejercicio":"Completa: She ___ long hair.","respuesta":"has"},{"ejercicio":"Traduce: Hoy está nublado y hace frío.","respuesta":"It's cloudy and cold today."},{"ejercicio":"Pregunta cómo está el clima.","respuesta":"What's the weather like?"}]}},
-{"nodo_id":"ems-149","titulo":"Gustos y opiniones simples en inglés","slug":"gustos-opiniones-simples-ingles-prepa","palabras":["likes","dislikes","opinion","I think","because","preferences"],"contenido":{
-"idea":"Es como decir qué sabor de helado prefieres y por qué, escuchando también el gusto de los demás.",
-"pizarron":"**Gustos:** *I like music.* *I love pizza.* *I don't like loud places.* *I hate waiting.* Con verbos: **like + verbo con -ing**: *I like reading.*\n\n**Tercera persona:** *She likes soccer.* *He doesn't like fish.*\n\n**Preguntar:** *Do you like sports?* -> *Yes, I do. / No, I don't.*\n\n**Opiniones:** *I think it's interesting.* *In my opinion, it's fun.*\n\n**Razones con because:** *I like math because it's logical.*\n\n**Empatía:** *I see your point.* *That's interesting, but I prefer...* Respeta que otros piensen distinto.",
-"truco":"Like + ing, because da la razón.",
-"practica":{"ejercicio":"Di que te gusta cantar porque es relajante.","respuesta":"I like singing because it's relaxing."},
-"analogias":[{"titulo":"La balanza","texto":"Un gusto con because es una balanza: de un lado lo que sientes y del otro la razón que lo sostiene."},{"titulo":"El menú","texto":"Opinar es elegir del menú: dices qué prefieres y escuchas con respeto lo que eligen los demás."}],
-"ejercicios":[{"ejercicio":"Completa: She ___ dancing. (like)","respuesta":"likes"},{"ejercicio":"Responde que no te gusta el café.","respuesta":"I don't like coffee."},{"ejercicio":"Responde con empatía: I love horror movies. Tú prefieres comedias.","respuesta":"That's interesting, but I prefer comedies."}]}},
-{"nodo_id":"ems-150","titulo":"Posesión en inglés: genitivo y pronombres posesivos","slug":"posesion-genitivo-posesivos-ingles-prepa","palabras":["possessive","'s","whose","mine","yours","my","your"],"contenido":{
-"idea":"Es como poner tu nombre en tu lonchera para que todos sepan de quién es y nadie la confunda.",
-"pizarron":"**Genitivo:** agrega **'s** al dueño singular: *Ana's book*. Si el plural termina en s, solo apóstrofo: *the students' desks*. Plural irregular: *the children's toys*.\n\n**Adjetivos posesivos** (antes del sustantivo): my, your, his, her, its, our, their. *This is my pen.*\n\n**Pronombres posesivos** (sustituyen al sustantivo): mine, yours, his, hers, ours, theirs. *This pen is mine.*\n\n**Preguntar:** *Whose bag is this?* -> *It's Luis's* / *It's his.* / *It's mine.*\n\nDiferencia: *her book* lleva sustantivo; *hers* va solo.",
-"truco":"My con sustantivo, mine solo.",
-"practica":{"ejercicio":"Responde: Whose phone is this? (es de María).","respuesta":"It's María's phone. / It's hers."},
-"analogias":[{"titulo":"La etiqueta de nombre","texto":"El 's es la etiqueta con nombre que pegas a un objeto: Ana's book dice que el libro es de Ana."},{"titulo":"El reemplazo","texto":"Mine, yours y hers son suplentes: entran en lugar de my pen, your pen o her pen para no repetir."}],
-"ejercicios":[{"ejercicio":"Completa: This is ___ (yo) notebook.","respuesta":"my"},{"ejercicio":"Reescribe con pronombre: The red bag is my bag.","respuesta":"The red bag is mine."},{"ejercicio":"Escribe: los libros de los estudiantes.","respuesta":"The students' books."}]}},
-{"nodo_id":"ems-151","titulo":"Rutinas diarias en inglés (presente simple)","slug":"rutinas-diarias-presente-simple-ingles-prepa","palabras":["daily routine","simple present","always","usually","never","frequency"],"contenido":{
-"idea":"Es como contar lo que haces cada día en orden: te levantas, desayunas, vas a la escuela y duermes.",
-"pizarron":"Usa el **presente simple** para hábitos.\n\n**Afirmativo:** *I wake up at 6:00.* Con he, she, it agrega **-s/-es**: *She wakes up*, *He goes to school*.\n\n**Negativo:** *I don't eat lunch at home.* / *He doesn't walk.* (con doesn't el verbo vuelve a su forma base).\n\n**Pregunta:** *Do you study at night?* / *Does she work?*\n\n**Frecuencia:** always, usually, often, sometimes, never. Van antes del verbo: *I usually take the bus.*\n\n**Orden:** first, then, after that, finally.",
-"truco":"He, she, it: el verbo lleva s.",
-"practica":{"ejercicio":"Escribe: Ella se levanta a las 7 y desayuna.","respuesta":"She gets up at 7:00 and has breakfast."},
-"analogias":[{"titulo":"El reloj de pared","texto":"La rutina es un reloj que marca cada acción en su hora: wake up, eat, study, sleep."},{"titulo":"La receta","texto":"First, then, after that y finally ordenan tu día como los pasos de una receta."}],
-"ejercicios":[{"ejercicio":"Completa: My brother ___ (play) soccer on Fridays.","respuesta":"plays"},{"ejercicio":"Haz negativa: She walks to school.","respuesta":"She doesn't walk to school."},{"ejercicio":"Pregunta si tu amigo estudia por la noche.","respuesta":"Do you study at night?"}]}},
-{"nodo_id":"ems-152","titulo":"Tiempo libre de otras personas en inglés","slug":"tiempo-libre-otras-personas-ingles-prepa","palabras":["free time","hobbies","third person","weekend","when","activities"],"contenido":{
-"idea":"Es como contar qué hace tu mejor amigo después de clases y cuándo lo hace, sin hablar de ti.",
-"pizarron":"Para hablar de otros usa la **tercera persona del presente simple**: *Carlos plays video games.* *My sister draws on weekends.*\n\nReglas: verbos normales llevan **-s** (reads); los que terminan en -o, -sh, -ch, -s, -x llevan **-es** (goes, watches); consonante + y cambia a **-ies** (studies).\n\n**Cuándo:** *in the morning / afternoon / evening*, *at night*, *on Saturdays*, *on weekends*, *every day*.\n\n**Preguntas:** *What does he do in his free time?* -> *He plays soccer on Sundays.* *When does she swim?* -> *On Tuesdays.*\n\nNegativo: *They don't go out on weekdays.*",
-"truco":"Otro hace, el verbo lleva s o es.",
-"practica":{"ejercicio":"Escribe: Mi prima ve películas los sábados.","respuesta":"My cousin watches movies on Saturdays."},
-"analogias":[{"titulo":"El reportero","texto":"Hablar de otros es ser reportero: observas, anotas qué hace cada persona y en qué momento."},{"titulo":"El calendario","texto":"Cada actividad ocupa un cuadrito del calendario: in the morning, on Friday, on weekends."}],
-"ejercicios":[{"ejercicio":"Completa: He ___ (study) English at night.","respuesta":"studies"},{"ejercicio":"Pregunta qué hace ella en su tiempo libre.","respuesta":"What does she do in her free time?"},{"ejercicio":"Traduce: Ellos juegan básquetbol los domingos.","respuesta":"They play basketball on Sundays."}]}}
+{
+"nodo_id": "ems-143",
+"titulo": "Presentarte y presentar a otros en inglés",
+"slug": "presentarse-y-presentar-ingles-prepa",
+"palabras": [
+"introductions",
+"saludos",
+"hello",
+"nice to meet you",
+"presentaciones"
+],
+"contenido": {
+"idea": "Es como llegar a una fiesta nueva: sonríes, dices tu nombre y presentas a tu amigo para que todos se sientan bienvenidos.",
+"pizarron": "**La regla:** te presentas con *I'm...* y presentas a otro con *This is...*\n\nPara saludar usa **Hello**, **Hi**, **Good morning** (mañana), **Good afternoon** (tarde) y **Good evening** (noche).\n\nPara presentarte: **I'm Ana** o **My name is Ana. I'm from Puebla.**\n\nPara presentar a otra persona: **This is Luis. He is my classmate.** Usa *He* para hombre, *She* para mujer y *They* si prefieres un trato neutral.\n\nRespuestas amables: **Nice to meet you** y **Nice to meet you, too.**\n\nEn contextos formales di **Pleased to meet you** y usa el apellido con **Mr.**, **Ms.** o **Mrs.** Escucha cómo prefiere la persona que la llamen.",
+"truco": "Hello, name, from, nice: cuatro pasos.",
+"practica": {
+"ejercicio": "Presenta a tu compañera Rosa, que es de Oaxaca, a un profesor.",
+"respuesta": "Good morning, teacher. This is Rosa. She is from Oaxaca. Nice to meet you."
+},
+"analogias": [
+{
+"titulo": "La tarjeta de presentación",
+"texto": "Tu presentación es una tarjeta breve: nombre, lugar de origen y una frase amable, sin llenarla de datos."
+},
+{
+"titulo": "El puente",
+"texto": "Al presentar a dos personas construyes un puente entre ellas; This is... es la frase que lo tiende."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: ___ name is Pedro. I'm ___ Sonora.",
+"respuesta": "My name is Pedro. I'm from Sonora."
+},
+{
+"ejercicio": "Presenta a tu amigo Juan a tu mamá en inglés.",
+"respuesta": "Mom, this is Juan. He is my friend."
+},
+{
+"ejercicio": "¿Qué saludo usas a las 8 p.m.?",
+"respuesta": "Good evening."
+}
+]
+}
+},
+{
+"nodo_id": "ems-144",
+"titulo": "Indicaciones y peticiones en el aula en inglés",
+"slug": "indicaciones-aula-ingles-prepa",
+"palabras": [
+"classroom language",
+"permiso",
+"may I",
+"excuse me",
+"instrucciones"
+],
+"contenido": {
+"idea": "Es como pedir que te presten un juguete: usas palabras amables y haces caso cuando te dicen cómo jugar.",
+"pizarron": "**La regla:** las indicaciones usan el verbo solo, y se piden con *Can I...?*\n\n**Pedir permiso:** *May I go to the restroom?*, *Can I borrow a pen?*, *May I come in?* La respuesta es *Yes, you may* o *Sorry, not now*.\n\n**Aclarar dudas:** *I don't understand.*, *Can you repeat, please?*, *What does ... mean?*, *How do you say ... in English?*\n\n**Instrucciones del maestro** (imperativo, sin sujeto): *Open your book*, *Listen*, *Write your name*, *Work in pairs*, *Don't talk*.\n\n**Responder:** *Okay*, *Sure*, *Yes, teacher*, *Thank you*.\n\nAgrega siempre **please** y **thank you** para ser cortés.",
+"truco": "Please antes de pedir, thank you después.",
+"practica": {
+"ejercicio": "No entendiste una palabra. ¿Cómo pides ayuda?",
+"respuesta": "Excuse me, what does this word mean? Can you repeat, please?"
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "May I... es el semáforo en amarillo: pides el paso y esperas la señal antes de avanzar."
+},
+{
+"titulo": "El eco",
+"texto": "Seguir una indicación es como un eco: el maestro dice Open your book y tu acción responde de inmediato."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pide permiso para salir del salón.",
+"respuesta": "May I leave the classroom, please?"
+},
+{
+"ejercicio": "Traduce: Open your notebook.",
+"respuesta": "Abre tu cuaderno."
+},
+{
+"ejercicio": "¿Cómo pides que repitan algo?",
+"respuesta": "Can you repeat that, please?"
+}
+]
+}
+},
+{
+"nodo_id": "ems-145",
+"titulo": "Objetos y espacios del hogar y la escuela en inglés",
+"slug": "objetos-espacios-hogar-escuela-ingles-prepa",
+"palabras": [
+"objects",
+"classroom",
+"house",
+"colors",
+"shapes",
+"size"
+],
+"contenido": {
+"idea": "Es como jugar a Veo veo: nombras algo que ves y dices cómo es, por ejemplo grande, rojo o redondo.",
+"pizarron": "**La regla:** para decir dónde están las cosas se usa *there is* y preposiciones de lugar.\n\n**Lugares:** kitchen, bedroom, bathroom, living room, classroom, library, playground.\n\n**Objetos:** table, chair, door, window, book, backpack, clock.\n\n**Adjetivos:** colores (red, blue, green), formas (round, square, rectangular) y tamaños (big, small, tall, short).\n\nEn inglés el adjetivo va **antes** del sustantivo y no cambia: *a big red backpack*.\n\nEstructuras: *It is a small round table.* / *There is a clock on the wall.* / *There are two windows.* Usa **a** antes de consonante y **an** antes de vocal: *an orange book*.",
+"truco": "Tamaño, color, objeto: big red ball.",
+"practica": {
+"ejercicio": "Describe en inglés una mesa cuadrada, pequeña y azul.",
+"respuesta": "It is a small blue square table."
+},
+"analogias": [
+{
+"titulo": "La etiqueta",
+"texto": "Cada adjetivo es una etiqueta que pegas al objeto: primero tamaño, luego color, y al final su nombre."
+},
+{
+"titulo": "El mapa de la casa",
+"texto": "Nombrar cuartos y muebles es como dibujar el plano de tu casa y poner nombre a cada espacio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Ordena: backpack / green / a / big",
+"respuesta": "a big green backpack"
+},
+{
+"ejercicio": "¿Cómo se dice reloj en la pared?",
+"respuesta": "A clock on the wall."
+},
+{
+"ejercicio": "Completa con a o an: ___ orange chair.",
+"respuesta": "An orange chair."
+}
+]
+}
+},
+{
+"nodo_id": "ems-146",
+"titulo": "Información personal básica en inglés",
+"slug": "informacion-personal-basica-ingles-prepa",
+"palabras": [
+"personal information",
+"name",
+"age",
+"address",
+"phone",
+"email",
+"nationality"
+],
+"contenido": {
+"idea": "Es como llenar tu credencial de la escuela: nombre, edad y dónde vives, para que te reconozcan.",
+"pizarron": "**La regla:** los datos personales se dan con *My... is* y *I'm...*\n\n**Preguntas:**\n- *What's your name?* -> *My name is Karla.*\n- *How old are you?* -> *I'm 17 years old.*\n- *Where are you from?* / *What's your nationality?* -> *I'm Mexican.*\n- *What's your phone number?* -> *It's 55 1234 5678.*\n- *What's your address?* -> *It's 20 Juárez Street.*\n- *What's your email?* -> *It's karla at mail dot com.*\n\nEn correos, **@** se dice *at* y **.** se dice *dot*. Los números de teléfono se dicen dígito por dígito.\n\nComparte solo lo necesario y solo en contextos de confianza, como la escuela.",
+"truco": "Name, age, from, phone, mail: la credencial.",
+"practica": {
+"ejercicio": "Responde: How old are you? (tienes 18 años).",
+"respuesta": "I'm 18 years old."
+},
+"analogias": [
+{
+"titulo": "La credencial",
+"texto": "Cada pregunta corresponde a un campo de tu credencial escolar: nombre, edad, teléfono y dirección."
+},
+{
+"titulo": "El formulario",
+"texto": "Responder es llenar un formulario hablado: cada pregunta pide un solo dato, no toda tu historia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pregunta la edad a un compañero.",
+"respuesta": "How old are you?"
+},
+{
+"ejercicio": "Di tu nacionalidad si naciste en México.",
+"respuesta": "I'm Mexican."
+},
+{
+"ejercicio": "¿Cómo se dice el símbolo @ en un correo?",
+"respuesta": "At."
+}
+]
+}
+},
+{
+"nodo_id": "ems-147",
+"titulo": "Preguntas sencillas sobre ubicación y horarios en inglés",
+"slug": "preguntas-ubicacion-horarios-ingles-prepa",
+"palabras": [
+"where",
+"what time",
+"wh questions",
+"schedule",
+"location"
+],
+"contenido": {
+"idea": "Es como preguntar dónde está el baño o a qué hora sale el recreo: necesitas saber dónde y cuándo.",
+"pizarron": "**La regla:** usa *Where is...?* para lugares y *What time...?* para horarios.\n\n**Ubicación con Where:** *Where is the library?* -> *It's next to the gym.* / *Where are the restrooms?* -> *They're on the second floor.*\n\n**Horarios con What time:** *What time is the class?* -> *It's at 9:00.* / *What time does the school open?* -> *It opens at 7:30.*\n\nPreposiciones: **in**, **on**, **at**, **next to**, **between**, **behind**, **in front of**.\n\nUsa **at** con horas y **on** con días: *at 8:00*, *on Monday*.\n\nPara aclarar: *Is it open today?*",
+"truco": "Where es lugar, What time es reloj.",
+"practica": {
+"ejercicio": "Pregunta a qué hora empieza la clase de inglés.",
+"respuesta": "What time does the English class start?"
+},
+"analogias": [
+{
+"titulo": "El GPS",
+"texto": "Where is...? es encender el GPS: pides la dirección y recibes referencias como next to o behind."
+},
+{
+"titulo": "La agenda",
+"texto": "What time...? es abrir tu agenda y revisar la hora exacta de cada actividad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pregunta dónde está la cafetería.",
+"respuesta": "Where is the cafeteria?"
+},
+{
+"ejercicio": "Completa: The test is ___ Friday ___ 10:00.",
+"respuesta": "on / at"
+},
+{
+"ejercicio": "Traduce: Está frente a la biblioteca.",
+"respuesta": "It's in front of the library."
+}
+]
+}
+},
+{
+"nodo_id": "ems-148",
+"titulo": "Describir personas, ropa y clima en inglés",
+"slug": "describir-personas-ropa-clima-ingles-prepa",
+"palabras": [
+"describing people",
+"clothes",
+"weather",
+"appearance",
+"wearing"
+],
+"contenido": {
+"idea": "Es como contarle a un amigo cómo reconocer a alguien en la calle: cómo es, qué lleva puesto y si hace frío o sol.",
+"pizarron": "**La regla:** se describe con *to be* y *to have*, y el adjetivo va antes del sustantivo.\n\n**Personas con be:** *She is tall.* *He is young.* *They are friendly.*\n\n**Con have:** *He has short black hair.* *She has brown eyes.*\n\n**Ropa con wearing:** *She is wearing a blue jacket and jeans.* Palabras: shirt, dress, shoes, hat, sweater.\n\n**Clima:** *It's sunny / cloudy / rainy / windy / cold / hot.* Pregunta: *What's the weather like?*\n\nDescribe con respeto: elige palabras neutrales y evita burlas sobre el cuerpo o el origen de alguien. Cada persona es distinta y eso es valioso.\n\n**Ubicación:** *She is next to the door.*",
+"truco": "Be para cómo es, have para pelo y ojos, wearing para ropa.",
+"practica": {
+"ejercicio": "Describe a un chico alto con gorra roja, en día soleado.",
+"respuesta": "He is tall. He is wearing a red cap. It's sunny."
+},
+"analogias": [
+{
+"titulo": "El retrato",
+"texto": "Describir es dibujar un retrato con palabras: primero la forma, luego los colores de la ropa."
+},
+{
+"titulo": "El pronóstico",
+"texto": "Decir el clima es dar el pronóstico del día, como en las noticias: sunny, rainy o cold."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: She ___ long hair.",
+"respuesta": "has"
+},
+{
+"ejercicio": "Traduce: Hoy está nublado y hace frío.",
+"respuesta": "It's cloudy and cold today."
+},
+{
+"ejercicio": "Pregunta cómo está el clima.",
+"respuesta": "What's the weather like?"
+}
+]
+}
+},
+{
+"nodo_id": "ems-149",
+"titulo": "Gustos y opiniones simples en inglés",
+"slug": "gustos-opiniones-simples-ingles-prepa",
+"palabras": [
+"likes",
+"dislikes",
+"opinion",
+"I think",
+"because",
+"preferences"
+],
+"contenido": {
+"idea": "Es como decir qué sabor de helado prefieres y por qué, escuchando también el gusto de los demás.",
+"pizarron": "**La regla:** se usa *I like* y *I think* para dar gustos y opiniones.\n\n**Gustos:** *I like music.* *I love pizza.* *I don't like loud places.* *I hate waiting.* Con verbos: **like + verbo con -ing**: *I like reading.*\n\n**Tercera persona:** *She likes soccer.* *He doesn't like fish.*\n\n**Preguntar:** *Do you like sports?* -> *Yes, I do. / No, I don't.*\n\n**Opiniones:** *I think it's interesting.* *In my opinion, it's fun.*\n\n**Razones con because:** *I like math because it's logical.*\n\n**Empatía:** *I see your point.* *That's interesting, but I prefer...* Respeta que otros piensen distinto.",
+"truco": "Like + ing, because da la razón.",
+"practica": {
+"ejercicio": "Di que te gusta cantar porque es relajante.",
+"respuesta": "I like singing because it's relaxing."
+},
+"analogias": [
+{
+"titulo": "La balanza",
+"texto": "Un gusto con because es una balanza: de un lado lo que sientes y del otro la razón que lo sostiene."
+},
+{
+"titulo": "El menú",
+"texto": "Opinar es elegir del menú: dices qué prefieres y escuchas con respeto lo que eligen los demás."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: She ___ dancing. (like)",
+"respuesta": "likes"
+},
+{
+"ejercicio": "Responde que no te gusta el café.",
+"respuesta": "I don't like coffee."
+},
+{
+"ejercicio": "Responde con empatía: I love horror movies. Tú prefieres comedias.",
+"respuesta": "That's interesting, but I prefer comedies."
+}
+]
+}
+},
+{
+"nodo_id": "ems-150",
+"titulo": "Posesión en inglés: genitivo y pronombres posesivos",
+"slug": "posesion-genitivo-posesivos-ingles-prepa",
+"palabras": [
+"possessive",
+"'s",
+"whose",
+"mine",
+"yours",
+"my",
+"your"
+],
+"contenido": {
+"idea": "Es como poner tu nombre en tu lonchera para que todos sepan de quién es y nadie la confunda.",
+"pizarron": "**La regla:** la posesión se dice con *my, your* o con *'s*.\n\n**Genitivo:** agrega **'s** al dueño singular: *Ana's book*. Si el plural termina en s, solo apóstrofo: *the students' desks*. Plural irregular: *the children's toys*.\n\n**Adjetivos posesivos** (antes del sustantivo): my, your, his, her, its, our, their. *This is my pen.*\n\n**Pronombres posesivos** (sustituyen al sustantivo): mine, yours, his, hers, ours, theirs. *This pen is mine.*\n\n**Preguntar:** *Whose bag is this?* -> *It's Luis's* / *It's his.* / *It's mine.*\n\nDiferencia: *her book* lleva sustantivo; *hers* va solo.",
+"truco": "My con sustantivo, mine solo.",
+"practica": {
+"ejercicio": "Responde: Whose phone is this? (es de María).",
+"respuesta": "It's María's phone. / It's hers."
+},
+"analogias": [
+{
+"titulo": "La etiqueta de nombre",
+"texto": "El 's es la etiqueta con nombre que pegas a un objeto: Ana's book dice que el libro es de Ana."
+},
+{
+"titulo": "El reemplazo",
+"texto": "Mine, yours y hers son suplentes: entran en lugar de my pen, your pen o her pen para no repetir."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: This is ___ (yo) notebook.",
+"respuesta": "my"
+},
+{
+"ejercicio": "Reescribe con pronombre: The red bag is my bag.",
+"respuesta": "The red bag is mine."
+},
+{
+"ejercicio": "Escribe: los libros de los estudiantes.",
+"respuesta": "The students' books."
+}
+]
+}
+},
+{
+"nodo_id": "ems-151",
+"titulo": "Rutinas diarias en inglés (presente simple)",
+"slug": "rutinas-diarias-presente-simple-ingles-prepa",
+"palabras": [
+"daily routine",
+"simple present",
+"always",
+"usually",
+"never",
+"frequency"
+],
+"contenido": {
+"idea": "Es como contar lo que haces cada día en orden: te levantas, desayunas, vas a la escuela y duermes.",
+"pizarron": "**La regla:** las rutinas van en presente simple, y con *he* y *she* el verbo lleva *-s*.\n\nUsa el **presente simple** para hábitos.\n\n**Afirmativo:** *I wake up at 6:00.* Con he, she, it agrega **-s/-es**: *She wakes up*, *He goes to school*.\n\n**Negativo:** *I don't eat lunch at home.* / *He doesn't walk.* (con doesn't el verbo vuelve a su forma base).\n\n**Pregunta:** *Do you study at night?* / *Does she work?*\n\n**Frecuencia:** always, usually, often, sometimes, never. Van antes del verbo: *I usually take the bus.*\n\n**Orden:** first, then, after that, finally.",
+"truco": "He, she, it: el verbo lleva s.",
+"practica": {
+"ejercicio": "Escribe: Ella se levanta a las 7 y desayuna.",
+"respuesta": "She gets up at 7:00 and has breakfast."
+},
+"analogias": [
+{
+"titulo": "El reloj de pared",
+"texto": "La rutina es un reloj que marca cada acción en su hora: wake up, eat, study, sleep."
+},
+{
+"titulo": "La receta",
+"texto": "First, then, after that y finally ordenan tu día como los pasos de una receta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: My brother ___ (play) soccer on Fridays.",
+"respuesta": "plays"
+},
+{
+"ejercicio": "Haz negativa: She walks to school.",
+"respuesta": "She doesn't walk to school."
+},
+{
+"ejercicio": "Pregunta si tu amigo estudia por la noche.",
+"respuesta": "Do you study at night?"
+}
+]
+}
+},
+{
+"nodo_id": "ems-152",
+"titulo": "Tiempo libre de otras personas en inglés",
+"slug": "tiempo-libre-otras-personas-ingles-prepa",
+"palabras": [
+"free time",
+"hobbies",
+"third person",
+"weekend",
+"when",
+"activities"
+],
+"contenido": {
+"idea": "Es como contar qué hace tu mejor amigo después de clases y cuándo lo hace, sin hablar de ti.",
+"pizarron": "**La regla:** para contar lo que hace otro, el verbo lleva *-s*: *She plays*.\n\nPara hablar de otros usa la **tercera persona del presente simple**: *Carlos plays video games.* *My sister draws on weekends.*\n\nReglas: verbos normales llevan **-s** (reads); los que terminan en -o, -sh, -ch, -s, -x llevan **-es** (goes, watches); consonante + y cambia a **-ies** (studies).\n\n**Cuándo:** *in the morning / afternoon / evening*, *at night*, *on Saturdays*, *on weekends*, *every day*.\n\n**Preguntas:** *What does he do in his free time?* -> *He plays soccer on Sundays.* *When does she swim?* -> *On Tuesdays.*\n\nNegativo: *They don't go out on weekdays.*",
+"truco": "Otro hace, el verbo lleva s o es.",
+"practica": {
+"ejercicio": "Escribe: Mi prima ve películas los sábados.",
+"respuesta": "My cousin watches movies on Saturdays."
+},
+"analogias": [
+{
+"titulo": "El reportero",
+"texto": "Hablar de otros es ser reportero: observas, anotas qué hace cada persona y en qué momento."
+},
+{
+"titulo": "El calendario",
+"texto": "Cada actividad ocupa un cuadrito del calendario: in the morning, on Friday, on weekends."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: He ___ (study) English at night.",
+"respuesta": "studies"
+},
+{
+"ejercicio": "Pregunta qué hace ella en su tiempo libre.",
+"respuesta": "What does she do in her free time?"
+},
+{
+"ejercicio": "Traduce: Ellos juegan básquetbol los domingos.",
+"respuesta": "They play basketball on Sundays."
+}
+]
+}
+}
 ]

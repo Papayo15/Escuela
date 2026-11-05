@@ -1,65 +1,399 @@
 [
-{"nodo_id":"f5-075","titulo":"Área del romboide","slug":"area-del-romboide-primaria","palabras":["romboide","paralelogramo","base por altura","área"],"contenido":{
-"idea":"Si cortas un triángulo de un lado del romboide y lo pegas del otro, se convierte en un rectángulo. Por eso su área se calcula igual.",
-"pizarron":"Fórmula:\n\n$$A = b \\times h$$\n\n- $b$: base.\n- $h$: altura, medida en perpendicular a la base.\n\nEjemplo: base 9 cm y altura 4 cm.\n\n$$A = 9 \\times 4 = 36 \\text{ cm}^2$$\n\n**Error común**: usar el lado inclinado como altura. Si el lado inclinado mide 5 cm, no se usa en el área.\n\nEl perímetro sí usa los lados: $2(9) + 2(5) = 28$ cm.",
-"truco":"Corta el pico, pégalo enfrente y queda un rectángulo.",
-"practica":{"ejercicio":"Base 12 m y altura 5 m. Calcula el área.","respuesta":"60 m²"},
-"analogias":[{"titulo":"La pila de cartas","texto":"Si empujas una baraja de lado, se inclina, pero sigue teniendo las mismas cartas. El área no cambia al inclinarse."},{"titulo":"Masa que se empuja","texto":"Un rectángulo de masa inclinado sigue teniendo la misma cantidad de masa si su altura y su base se mantienen."}],
-"ejercicios":[{"ejercicio":"Base 15 cm y altura 8 cm.","respuesta":"120 cm²"},{"ejercicio":"Área 54 m² y base 9 m. ¿Cuál es la altura?","respuesta":"6 m"},{"ejercicio":"Base 10 cm, altura 6 cm y lado inclinado 7 cm. ¿Cuál es el área?","respuesta":"60 cm². El lado inclinado no se usa."}]}},
-{"nodo_id":"f5-075","titulo":"Área del rombo","slug":"area-del-rombo-primaria","palabras":["rombo","diagonales","área","D por d entre 2"],"contenido":{
-"idea":"Un rombo cabe dentro de un rectángulo que mide lo mismo que sus diagonales. Ocupa exactamente la mitad de ese rectángulo.",
-"pizarron":"Fórmula:\n\n$$A = \\frac{D \\times d}{2}$$\n\n- $D$: diagonal mayor.\n- $d$: diagonal menor.\n\nLas diagonales se cruzan en ángulo recto y se parten a la mitad.\n\nEjemplo: diagonales de 10 cm y 6 cm.\n\n$$A = \\frac{10 \\times 6}{2} = 30 \\text{ cm}^2$$\n\nPerímetro: 4 veces el lado.\n\nPara el rombo, no confundas diagonal con lado: el lado es la orilla, la diagonal va de esquina a esquina opuesta.",
-"truco":"Diagonal mayor por diagonal menor, entre dos.",
-"practica":{"ejercicio":"Calcula el área de un rombo con diagonales de 8 y 5 cm.","respuesta":"20 cm²"},
-"analogias":[{"titulo":"El papalote","texto":"Las varas de un papalote cruzado son sus diagonales. Multiplicas y divides entre 2 para saber cuánta tela usa."},{"titulo":"Doblar en cuatro","texto":"Las diagonales cortan al rombo en cuatro triángulos rectos. Juntos forman la mitad del rectángulo que lo rodea."}],
-"ejercicios":[{"ejercicio":"Diagonales de 12 y 7 m.","respuesta":"42 m²"},{"ejercicio":"Diagonales de 20 y 15 cm.","respuesta":"150 cm²"},{"ejercicio":"Área 24 cm² y diagonal mayor 8 cm. ¿Cuál es la menor?","respuesta":"6 cm"}]}},
-{"nodo_id":"f5-075","titulo":"Área del trapecio","slug":"area-del-trapecio-primaria","palabras":["trapecio","base mayor","base menor","área"],"contenido":{
-"idea":"Un trapecio tiene dos bases de distinto tamaño. Para calcular, imaginas una base promedio entre las dos y la multiplicas por la altura.",
-"pizarron":"Fórmula:\n\n$$A = \\frac{(B + b) \\times h}{2}$$\n\n- $B$: base mayor.\n- $b$: base menor.\n- $h$: altura.\n\nEjemplo: $B = 10$, $b = 6$, $h = 4$ cm.\n\n1. Suma las bases: 10 + 6 = 16.\n2. Multiplica por la altura: 16 × 4 = 64.\n3. Divide entre 2: 64 ÷ 2 = **32 cm²**.\n\nPor qué funciona: dos trapecios iguales, uno al revés, forman un romboide de base $B + b$.",
-"truco":"Suma las bases, multiplica por la altura y parte a la mitad.",
-"practica":{"ejercicio":"$B = 8$ m, $b = 4$ m y $h = 3$ m. Calcula el área.","respuesta":"18 m²"},
-"analogias":[{"titulo":"La bolsa de palomitas","texto":"Una caja de palomitas es ancha arriba y angosta abajo. Su frente tiene forma de trapecio."},{"titulo":"El terreno inclinado","texto":"Un terreno con un frente largo y otro corto se calcula promediando ambos frentes y multiplicando por el fondo."}],
-"ejercicios":[{"ejercicio":"$B = 12$, $b = 8$, $h = 5$ cm.","respuesta":"50 cm²"},{"ejercicio":"$B = 20$, $b = 10$, $h = 6$ m.","respuesta":"90 m²"},{"ejercicio":"Área 42 cm², $B = 9$ y $b = 5$. ¿Cuál es la altura?","respuesta":"$\\frac{2 \\times 42}{14} = 6$ cm."}]}},
-{"nodo_id":"f5-075","titulo":"Área de polígonos regulares","slug":"area-de-poligonos-regulares-primaria","palabras":["polígono regular","apotema","perímetro por apotema","hexágono"],"contenido":{
-"idea":"Un polígono regular se puede cortar como pizza en triángulos iguales que llegan al centro. Sumando esos triángulos obtienes su área.",
-"pizarron":"Fórmula:\n\n$$A = \\frac{P \\times a}{2}$$\n\n- $P$: perímetro.\n- $a$: **apotema**, distancia del centro al punto medio de un lado.\n\nEjemplo: hexágono regular de lado 6 cm y apotema 5.2 cm.\n\n1. Perímetro: 6 × 6 = 36 cm.\n2. Área:\n\n$$A = \\frac{36 \\times 5.2}{2} = 93.6 \\text{ cm}^2$$\n\nPor qué funciona: cada triángulo tiene base $l$ y altura $a$, y son $n$ triángulos. Sumados dan $\\frac{n \\times l \\times a}{2}$, y $n \\times l$ es el perímetro.",
-"truco":"Perímetro por apotema entre dos.",
-"practica":{"ejercicio":"Pentágono regular de lado 4 cm y apotema 2.75 cm. Calcula el área.","respuesta":"$P = 20$; $A = \\frac{20 \\times 2.75}{2} = 27.5$ cm²."},
-"analogias":[{"titulo":"La pizza de lados rectos","texto":"Cada rebanada es un triángulo con la orilla como base. El área es la suma de todas las rebanadas."},{"titulo":"La sombrilla","texto":"Las varillas dividen la tela en triángulos iguales. La tela se calcula sumando esos triángulos."}],
-"ejercicios":[{"ejercicio":"$P = 40$ cm y $a = 6$ cm.","respuesta":"120 cm²"},{"ejercicio":"Octágono de lado 5 cm y apotema 6 cm.","respuesta":"120 cm²"},{"ejercicio":"¿Qué es la apotema?","respuesta":"La distancia del centro al punto medio de un lado."}]}},
-{"nodo_id":"f5-075","titulo":"Perímetro del círculo","slug":"perimetro-del-circulo-primaria","palabras":["pi","circunferencia","longitud","3.14","diámetro"],"contenido":{
-"idea":"Si rodeas un plato con un hilo y luego lo estiras, mide un poco más de 3 veces lo ancho del plato. Ese número especial se llama pi.",
-"pizarron":"La longitud de una circunferencia es:\n\n$$C = \\pi \\times d$$\n\ndonde $\\pi \\approx 3.14$ y $d$ es el diámetro.\n\nTambién:\n\n$$C = 2 \\pi r$$\n\nEjemplo: diámetro 10 cm.\n\n$$C = 3.14 \\times 10 = 31.4 \\text{ cm}$$\n\nEjemplo: radio 5 m.\n\n$$C = 2 \\times 3.14 \\times 5 = 31.4 \\text{ m}$$\n\nEn todo círculo, si divides circunferencia entre diámetro siempre da pi.\n\nUn dato clave: si te dan radio, duplica antes.",
-"truco":"Pi por el diámetro: tres veces y un poquito.",
-"practica":{"ejercicio":"Calcula la circunferencia con diámetro 20 cm.","respuesta":"$3.14 \\times 20 = 62.8$ cm."},
-"analogias":[{"titulo":"La vuelta de la llanta","texto":"Cada vuelta completa de una llanta avanza tres diámetros y un poco más. Así sabe tu bici cuánto recorres."},{"titulo":"El hilo alrededor del vaso","texto":"El contorno de un vaso siempre mide unas 3.14 veces su ancho, sea chico o grande."}],
-"ejercicios":[{"ejercicio":"Radio 3 cm.","respuesta":"18.84 cm"},{"ejercicio":"Diámetro 50 m.","respuesta":"157 m"},{"ejercicio":"La circunferencia mide 31.4 cm. ¿Cuánto mide el diámetro?","respuesta":"10 cm"}]}},
-{"nodo_id":"f5-075","titulo":"Área del círculo","slug":"area-del-circulo-primaria","palabras":["área del círculo","pi por radio al cuadrado","3.14"],"contenido":{
-"idea":"Si cortas una pizza en muchas rebanadas muy delgadas y las acomodas una hacia arriba y otra hacia abajo, se forma casi un rectángulo. De ahí sale la fórmula.",
-"pizarron":"Fórmula:\n\n$$A = \\pi \\times r^2$$\n\nEjemplo: radio 3 cm.\n\n1. Radio al cuadrado: $3 \\times 3 = 9$.\n2. Multiplica por pi: $3.14 \\times 9 = 28.26$.\n\n$$A = 28.26 \\text{ cm}^2$$\n\nSi te dan el diámetro, primero divídelo entre 2.\n\nEjemplo: diámetro 10 m → radio 5 m → $A = 3.14 \\times 25 = 78.5$ m².\n\nNo confundas:\n\n- Circunferencia: $\\pi \\times d$, en cm.\n- Área: $\\pi \\times r^2$, en cm².\n\n$r^2$ significa $r \\times r$, no $r \\times 2$.",
-"truco":"Pi por radio por radio: el dos del cuadrado no multiplica.",
-"practica":{"ejercicio":"Calcula el área de un círculo de radio 2 cm.","respuesta":"$3.14 \\times 4 = 12.56$ cm²."},
-"analogias":[{"titulo":"Las rebanadas acomodadas","texto":"Con muchas rebanadas intercaladas, la figura parece un rectángulo: la mitad del contorno de base y el radio de altura."},{"titulo":"Mojar un círculo","texto":"Cuando una gota crece, el doble de radio cubre cuatro veces más. Por eso el radio va al cuadrado."}],
-"ejercicios":[{"ejercicio":"Radio 10 cm.","respuesta":"314 cm²"},{"ejercicio":"Diámetro 8 m.","respuesta":"50.24 m²"},{"ejercicio":"Radio 5 cm.","respuesta":"78.5 cm²"}]}},
-{"nodo_id":"f5-075","titulo":"Conversiones de unidades de área","slug":"conversiones-de-unidades-de-area-primaria","palabras":["metros cuadrados","centímetros cuadrados","hectárea","conversiones","área"],"contenido":{
-"idea":"Un metro cuadrado es un cuadrado de 100 cm por lado. Aunque un metro son 100 cm, caben 10 000 cuadritos de 1 cm dentro.",
-"pizarron":"Al convertir área, los factores se elevan al cuadrado.\n\n- 1 m = 100 cm, entonces 1 m² = 10 000 cm².\n- 1 km = 1 000 m, entonces 1 km² = 1 000 000 m².\n- 1 hectárea (ha) = 10 000 m².\n\nEjemplo: 3 m² a cm².\n\n- 3 × 10 000 = 30 000 cm².\n\nEjemplo: 50 000 cm² a m².\n\n- 50 000 ÷ 10 000 = 5 m².\n\nEjemplo: 2.5 ha a m².\n\n- 2.5 × 10 000 = 25 000 m².\n\nError común: multiplicar por 100 en lugar de 10 000.",
-"truco":"En área, el cambio de unidad se multiplica dos veces.",
-"practica":{"ejercicio":"Convierte 2 m² a cm².","respuesta":"20 000 cm²"},
-"analogias":[{"titulo":"El piso de mosaicos","texto":"Un metro de lado son 100 mosaicos de 1 cm a lo largo y 100 a lo ancho: 100 × 100 mosaicos."},{"titulo":"Las canchas","texto":"Una cancha de futbol grande mide cerca de una hectárea. Es una forma práctica de hablar de terrenos."}],
-"ejercicios":[{"ejercicio":"Convierte 80 000 cm² a m².","respuesta":"8 m²"},{"ejercicio":"Convierte 3 ha a m².","respuesta":"30 000 m²"},{"ejercicio":"Un terreno mide 15 000 m². ¿Cuántas hectáreas son?","respuesta":"1.5 ha"}]}},
-{"nodo_id":"f5-077","titulo":"Calcular la media","slug":"calcular-la-media-primaria","palabras":["media","promedio","estadística","sumar y dividir"],"contenido":{
-"idea":"Si un niño tiene 2 dulces y otro 6, y los reparten parejo, cada uno queda con 4. Eso es la media: el reparto justo.",
-"pizarron":"La **media** o **promedio** es el valor que tendrían todos si se repartiera parejo.\n\n$$\\text{media} = \\frac{\\text{suma de datos}}{\\text{cantidad de datos}}$$\n\nEjemplo: calificaciones 8, 9, 7, 10.\n\n1. Suma: 8 + 9 + 7 + 10 = 34.\n2. Divide entre 4: 34 ÷ 4 = **8.5**.\n\nLos ceros cuentan como datos: con 10, 0 y 8 la media es 6.\n\nPara saber qué te falta: si quieres 9 de promedio en 3 exámenes, necesitas sumar 27 en total.\n\nUn dato muy extremo mueve la media: con 2, 3 y 100, la media es 35.",
-"truco":"Suma todo y divide entre cuántos son.",
-"practica":{"ejercicio":"Calcula la media de 4, 6, 8 y 10.","respuesta":"28 ÷ 4 = 7"},
-"analogias":[{"titulo":"El agua en vasos","texto":"Si varios vasos tienen distinta cantidad y la pasas para que todos queden iguales, ese nivel común es la media."},{"titulo":"La cooperación","texto":"Si en una comida cada familia aportó distinto, el promedio dice cuánto habría aportado cada una por igual."}],
-"ejercicios":[{"ejercicio":"Media de 5, 10 y 15.","respuesta":"10"},{"ejercicio":"Calificaciones 7, 8, 6, 9 y 10. ¿Cuál es el promedio?","respuesta":"8"},{"ejercicio":"Llevas 8 y 9. ¿Qué necesitas en el tercer examen para promediar 9?","respuesta":"10"}]}},
-{"nodo_id":"f5-077","titulo":"Calcular la mediana","slug":"calcular-la-mediana-primaria","palabras":["mediana","dato central","ordenar datos","estadística"],"contenido":{
-"idea":"Forma a tus compañeros por estatura y mira quién quedó justo en medio. La estatura de esa persona es la mediana.",
-"pizarron":"La **mediana** es el dato central cuando los datos están **ordenados**.\n\n**Cantidad impar**: 3, 9, 4, 7, 5.\n\n1. Ordena: 3, 4, 5, 7, 9.\n2. El de en medio: **5**.\n\n**Cantidad par**: 2, 8, 4, 10.\n\n1. Ordena: 2, 4, 8, 10.\n2. Toma los dos centrales: 4 y 8.\n3. Saca su promedio: (4 + 8) ÷ 2 = **6**.\n\nSi no ordenas primero, el resultado sale mal.\n\nVentaja: un dato extremo casi no la mueve. En 2, 3, 100, la media es 35, pero la mediana es 3.",
-"truco":"Ordena primero; la mediana vive en medio.",
-"practica":{"ejercicio":"Encuentra la mediana de 6, 1, 8, 3, 5.","respuesta":"Ordenados 1, 3, 5, 6, 8; mediana 5."},
-"analogias":[{"titulo":"La fila por estatura","texto":"Una persona muy alta no cambia a quien está en medio de la fila. La mediana es igual de resistente."},{"titulo":"El camellón","texto":"El camellón está justo en medio de la avenida: deja la misma cantidad de carriles a cada lado."}],
-"ejercicios":[{"ejercicio":"Mediana de 12, 7, 9.","respuesta":"9"},{"ejercicio":"Mediana de 1, 3, 5, 7.","respuesta":"4"},{"ejercicio":"Mediana de 10, 20, 20, 30, 90.","respuesta":"20"}]}}
+{
+"nodo_id": "f5-075",
+"titulo": "Área del romboide",
+"slug": "area-del-romboide-primaria",
+"palabras": [
+"romboide",
+"paralelogramo",
+"base por altura",
+"área"
+],
+"contenido": {
+"idea": "Si cortas un triángulo de un lado del romboide y lo pegas del otro, se convierte en un rectángulo. Por eso su área se calcula igual.",
+"pizarron": "**La regla:** el área del romboide es base por altura: $A = b \\times h$.\n\nFórmula:\n\n$$A = b \\times h$$\n\n- $b$: base.\n- $h$: altura, medida en perpendicular a la base.\n\nEjemplo: base 9 cm y altura 4 cm.\n\n$$A = 9 \\times 4 = 36 \\text{ cm}^2$$\n\n**Error común**: usar el lado inclinado como altura. Si el lado inclinado mide 5 cm, no se usa en el área.\n\nEl perímetro sí usa los lados: $2(9) + 2(5) = 28$ cm.",
+"truco": "Corta el pico, pégalo enfrente y queda un rectángulo.",
+"practica": {
+"ejercicio": "Base 12 m y altura 5 m. Calcula el área.",
+"respuesta": "60 m²"
+},
+"analogias": [
+{
+"titulo": "La pila de cartas",
+"texto": "Si empujas una baraja de lado, se inclina, pero sigue teniendo las mismas cartas. El área no cambia al inclinarse."
+},
+{
+"titulo": "Masa que se empuja",
+"texto": "Un rectángulo de masa inclinado sigue teniendo la misma cantidad de masa si su altura y su base se mantienen."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Base 15 cm y altura 8 cm.",
+"respuesta": "120 cm²"
+},
+{
+"ejercicio": "Área 54 m² y base 9 m. ¿Cuál es la altura?",
+"respuesta": "6 m"
+},
+{
+"ejercicio": "Base 10 cm, altura 6 cm y lado inclinado 7 cm. ¿Cuál es el área?",
+"respuesta": "60 cm². El lado inclinado no se usa."
+}
+]
+}
+},
+{
+"nodo_id": "f5-075",
+"titulo": "Área del rombo",
+"slug": "area-del-rombo-primaria",
+"palabras": [
+"rombo",
+"diagonales",
+"área",
+"D por d entre 2"
+],
+"contenido": {
+"idea": "Un rombo cabe dentro de un rectángulo que mide lo mismo que sus diagonales. Ocupa exactamente la mitad de ese rectángulo.",
+"pizarron": "**La regla:** el área del rombo es diagonal mayor por diagonal menor entre dos: $A = \\frac{D \\times d}{2}$.\n\nFórmula:\n\n$$A = \\frac{D \\times d}{2}$$\n\n- $D$: diagonal mayor.\n- $d$: diagonal menor.\n\nLas diagonales se cruzan en ángulo recto y se parten a la mitad.\n\nEjemplo: diagonales de 10 cm y 6 cm.\n\n$$A = \\frac{10 \\times 6}{2} = 30 \\text{ cm}^2$$\n\nPerímetro: 4 veces el lado.\n\nPara el rombo, no confundas diagonal con lado: el lado es la orilla, la diagonal va de esquina a esquina opuesta.",
+"truco": "Diagonal mayor por diagonal menor, entre dos.",
+"practica": {
+"ejercicio": "Calcula el área de un rombo con diagonales de 8 y 5 cm.",
+"respuesta": "20 cm²"
+},
+"analogias": [
+{
+"titulo": "El papalote",
+"texto": "Las varas de un papalote cruzado son sus diagonales. Multiplicas y divides entre 2 para saber cuánta tela usa."
+},
+{
+"titulo": "Doblar en cuatro",
+"texto": "Las diagonales cortan al rombo en cuatro triángulos rectos. Juntos forman la mitad del rectángulo que lo rodea."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Diagonales de 12 y 7 m.",
+"respuesta": "42 m²"
+},
+{
+"ejercicio": "Diagonales de 20 y 15 cm.",
+"respuesta": "150 cm²"
+},
+{
+"ejercicio": "Área 24 cm² y diagonal mayor 8 cm. ¿Cuál es la menor?",
+"respuesta": "6 cm"
+}
+]
+}
+},
+{
+"nodo_id": "f5-075",
+"titulo": "Área del trapecio",
+"slug": "area-del-trapecio-primaria",
+"palabras": [
+"trapecio",
+"base mayor",
+"base menor",
+"área"
+],
+"contenido": {
+"idea": "Un trapecio tiene dos bases de distinto tamaño. Para calcular, imaginas una base promedio entre las dos y la multiplicas por la altura.",
+"pizarron": "**La regla:** el área del trapecio es la suma de las bases por la altura, entre dos: $A = \\frac{(B + b) \\times h}{2}$.\n\nFórmula:\n\n$$A = \\frac{(B + b) \\times h}{2}$$\n\n- $B$: base mayor.\n- $b$: base menor.\n- $h$: altura.\n\nEjemplo: $B = 10$, $b = 6$, $h = 4$ cm.\n\n1. Suma las bases: 10 + 6 = 16.\n2. Multiplica por la altura: 16 × 4 = 64.\n3. Divide entre 2: 64 ÷ 2 = **32 cm²**.\n\nPor qué funciona: dos trapecios iguales, uno al revés, forman un romboide de base $B + b$.",
+"truco": "Suma las bases, multiplica por la altura y parte a la mitad.",
+"practica": {
+"ejercicio": "$B = 8$ m, $b = 4$ m y $h = 3$ m. Calcula el área.",
+"respuesta": "18 m²"
+},
+"analogias": [
+{
+"titulo": "La bolsa de palomitas",
+"texto": "Una caja de palomitas es ancha arriba y angosta abajo. Su frente tiene forma de trapecio."
+},
+{
+"titulo": "El terreno inclinado",
+"texto": "Un terreno con un frente largo y otro corto se calcula promediando ambos frentes y multiplicando por el fondo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$B = 12$, $b = 8$, $h = 5$ cm.",
+"respuesta": "50 cm²"
+},
+{
+"ejercicio": "$B = 20$, $b = 10$, $h = 6$ m.",
+"respuesta": "90 m²"
+},
+{
+"ejercicio": "Área 42 cm², $B = 9$ y $b = 5$. ¿Cuál es la altura?",
+"respuesta": "$\\frac{2 \\times 42}{14} = 6$ cm."
+}
+]
+}
+},
+{
+"nodo_id": "f5-075",
+"titulo": "Área de polígonos regulares",
+"slug": "area-de-poligonos-regulares-primaria",
+"palabras": [
+"polígono regular",
+"apotema",
+"perímetro por apotema",
+"hexágono"
+],
+"contenido": {
+"idea": "Un polígono regular se puede cortar como pizza en triángulos iguales que llegan al centro. Sumando esos triángulos obtienes su área.",
+"pizarron": "**La regla:** el área de un polígono regular es perímetro por apotema entre dos: $A = \\frac{P \\times a}{2}$.\n\nFórmula:\n\n$$A = \\frac{P \\times a}{2}$$\n\n- $P$: perímetro.\n- $a$: **apotema**, distancia del centro al punto medio de un lado.\n\nEjemplo: hexágono regular de lado 6 cm y apotema 5.2 cm.\n\n1. Perímetro: 6 × 6 = 36 cm.\n2. Área:\n\n$$A = \\frac{36 \\times 5.2}{2} = 93.6 \\text{ cm}^2$$\n\nPor qué funciona: cada triángulo tiene base $l$ y altura $a$, y son $n$ triángulos. Sumados dan $\\frac{n \\times l \\times a}{2}$, y $n \\times l$ es el perímetro.",
+"truco": "Perímetro por apotema entre dos.",
+"practica": {
+"ejercicio": "Pentágono regular de lado 4 cm y apotema 2.75 cm. Calcula el área.",
+"respuesta": "$P = 20$; $A = \\frac{20 \\times 2.75}{2} = 27.5$ cm²."
+},
+"analogias": [
+{
+"titulo": "La pizza de lados rectos",
+"texto": "Cada rebanada es un triángulo con la orilla como base. El área es la suma de todas las rebanadas."
+},
+{
+"titulo": "La sombrilla",
+"texto": "Las varillas dividen la tela en triángulos iguales. La tela se calcula sumando esos triángulos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$P = 40$ cm y $a = 6$ cm.",
+"respuesta": "120 cm²"
+},
+{
+"ejercicio": "Octágono de lado 5 cm y apotema 6 cm.",
+"respuesta": "120 cm²"
+},
+{
+"ejercicio": "¿Qué es la apotema?",
+"respuesta": "La distancia del centro al punto medio de un lado."
+}
+]
+}
+},
+{
+"nodo_id": "f5-075",
+"titulo": "Perímetro del círculo",
+"slug": "perimetro-del-circulo-primaria",
+"palabras": [
+"pi",
+"circunferencia",
+"longitud",
+"3.14",
+"diámetro"
+],
+"contenido": {
+"idea": "Si rodeas un plato con un hilo y luego lo estiras, mide un poco más de 3 veces lo ancho del plato. Ese número especial se llama pi.",
+"pizarron": "**La regla:** la longitud de la orilla del círculo es $\\pi$ por el diámetro: $C = \\pi \\times d$.\n\nLa longitud de una circunferencia es:\n\n$$C = \\pi \\times d$$\n\ndonde $\\pi \\approx 3.14$ y $d$ es el diámetro.\n\nTambién:\n\n$$C = 2 \\pi r$$\n\nEjemplo: diámetro 10 cm.\n\n$$C = 3.14 \\times 10 = 31.4 \\text{ cm}$$\n\nEjemplo: radio 5 m.\n\n$$C = 2 \\times 3.14 \\times 5 = 31.4 \\text{ m}$$\n\nEn todo círculo, si divides circunferencia entre diámetro siempre da pi.\n\nUn dato clave: si te dan radio, duplica antes.",
+"truco": "Pi por el diámetro: tres veces y un poquito.",
+"practica": {
+"ejercicio": "Calcula la circunferencia con diámetro 20 cm.",
+"respuesta": "$3.14 \\times 20 = 62.8$ cm."
+},
+"analogias": [
+{
+"titulo": "La vuelta de la llanta",
+"texto": "Cada vuelta completa de una llanta avanza tres diámetros y un poco más. Así sabe tu bici cuánto recorres."
+},
+{
+"titulo": "El hilo alrededor del vaso",
+"texto": "El contorno de un vaso siempre mide unas 3.14 veces su ancho, sea chico o grande."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Radio 3 cm.",
+"respuesta": "18.84 cm"
+},
+{
+"ejercicio": "Diámetro 50 m.",
+"respuesta": "157 m"
+},
+{
+"ejercicio": "La circunferencia mide 31.4 cm. ¿Cuánto mide el diámetro?",
+"respuesta": "10 cm"
+}
+]
+}
+},
+{
+"nodo_id": "f5-075",
+"titulo": "Área del círculo",
+"slug": "area-del-circulo-primaria",
+"palabras": [
+"área del círculo",
+"pi por radio al cuadrado",
+"3.14"
+],
+"contenido": {
+"idea": "Si cortas una pizza en muchas rebanadas muy delgadas y las acomodas una hacia arriba y otra hacia abajo, se forma casi un rectángulo. De ahí sale la fórmula.",
+"pizarron": "**La regla:** el área del círculo es $\\pi$ por el radio al cuadrado: $A = \\pi r^2$.\n\nFórmula:\n\n$$A = \\pi \\times r^2$$\n\nEjemplo: radio 3 cm.\n\n1. Radio al cuadrado: $3 \\times 3 = 9$.\n2. Multiplica por pi: $3.14 \\times 9 = 28.26$.\n\n$$A = 28.26 \\text{ cm}^2$$\n\nSi te dan el diámetro, primero divídelo entre 2.\n\nEjemplo: diámetro 10 m → radio 5 m → $A = 3.14 \\times 25 = 78.5$ m².\n\nNo confundas:\n\n- Circunferencia: $\\pi \\times d$, en cm.\n- Área: $\\pi \\times r^2$, en cm².\n\n$r^2$ significa $r \\times r$, no $r \\times 2$.",
+"truco": "Pi por radio por radio: el dos del cuadrado no multiplica.",
+"practica": {
+"ejercicio": "Calcula el área de un círculo de radio 2 cm.",
+"respuesta": "$3.14 \\times 4 = 12.56$ cm²."
+},
+"analogias": [
+{
+"titulo": "Las rebanadas acomodadas",
+"texto": "Con muchas rebanadas intercaladas, la figura parece un rectángulo: la mitad del contorno de base y el radio de altura."
+},
+{
+"titulo": "Mojar un círculo",
+"texto": "Cuando una gota crece, el doble de radio cubre cuatro veces más. Por eso el radio va al cuadrado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Radio 10 cm.",
+"respuesta": "314 cm²"
+},
+{
+"ejercicio": "Diámetro 8 m.",
+"respuesta": "50.24 m²"
+},
+{
+"ejercicio": "Radio 5 cm.",
+"respuesta": "78.5 cm²"
+}
+]
+}
+},
+{
+"nodo_id": "f5-075",
+"titulo": "Conversiones de unidades de área",
+"slug": "conversiones-de-unidades-de-area-primaria",
+"palabras": [
+"metros cuadrados",
+"centímetros cuadrados",
+"hectárea",
+"conversiones",
+"área"
+],
+"contenido": {
+"idea": "Un metro cuadrado es un cuadrado de 100 cm por lado. Aunque un metro son 100 cm, caben 10 000 cuadritos de 1 cm dentro.",
+"pizarron": "**La regla:** en unidades de área, cada escalón vale 100: 1 m² son 10 000 cm².\n\nAl convertir área, los factores se elevan al cuadrado.\n\n- 1 m = 100 cm, entonces 1 m² = 10 000 cm².\n- 1 km = 1 000 m, entonces 1 km² = 1 000 000 m².\n- 1 hectárea (ha) = 10 000 m².\n\nEjemplo: 3 m² a cm².\n\n- 3 × 10 000 = 30 000 cm².\n\nEjemplo: 50 000 cm² a m².\n\n- 50 000 ÷ 10 000 = 5 m².\n\nEjemplo: 2.5 ha a m².\n\n- 2.5 × 10 000 = 25 000 m².\n\nError común: multiplicar por 100 en lugar de 10 000.",
+"truco": "En área, el cambio de unidad se multiplica dos veces.",
+"practica": {
+"ejercicio": "Convierte 2 m² a cm².",
+"respuesta": "20 000 cm²"
+},
+"analogias": [
+{
+"titulo": "El piso de mosaicos",
+"texto": "Un metro de lado son 100 mosaicos de 1 cm a lo largo y 100 a lo ancho: 100 × 100 mosaicos."
+},
+{
+"titulo": "Las canchas",
+"texto": "Una cancha de futbol grande mide cerca de una hectárea. Es una forma práctica de hablar de terrenos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 80 000 cm² a m².",
+"respuesta": "8 m²"
+},
+{
+"ejercicio": "Convierte 3 ha a m².",
+"respuesta": "30 000 m²"
+},
+{
+"ejercicio": "Un terreno mide 15 000 m². ¿Cuántas hectáreas son?",
+"respuesta": "1.5 ha"
+}
+]
+}
+},
+{
+"nodo_id": "f5-077",
+"titulo": "Calcular la media",
+"slug": "calcular-la-media-primaria",
+"palabras": [
+"media",
+"promedio",
+"estadística",
+"sumar y dividir"
+],
+"contenido": {
+"idea": "Si un niño tiene 2 dulces y otro 6, y los reparten parejo, cada uno queda con 4. Eso es la media: el reparto justo.",
+"pizarron": "**La regla:** la media se calcula sumando todos los datos y dividiendo entre cuántos son.\n\nLa **media** o **promedio** es el valor que tendrían todos si se repartiera parejo.\n\n$$\\text{media} = \\frac{\\text{suma de datos}}{\\text{cantidad de datos}}$$\n\nEjemplo: calificaciones 8, 9, 7, 10.\n\n1. Suma: 8 + 9 + 7 + 10 = 34.\n2. Divide entre 4: 34 ÷ 4 = **8.5**.\n\nLos ceros cuentan como datos: con 10, 0 y 8 la media es 6.\n\nPara saber qué te falta: si quieres 9 de promedio en 3 exámenes, necesitas sumar 27 en total.\n\nUn dato muy extremo mueve la media: con 2, 3 y 100, la media es 35.",
+"truco": "Suma todo y divide entre cuántos son.",
+"practica": {
+"ejercicio": "Calcula la media de 4, 6, 8 y 10.",
+"respuesta": "28 ÷ 4 = 7"
+},
+"analogias": [
+{
+"titulo": "El agua en vasos",
+"texto": "Si varios vasos tienen distinta cantidad y la pasas para que todos queden iguales, ese nivel común es la media."
+},
+{
+"titulo": "La cooperación",
+"texto": "Si en una comida cada familia aportó distinto, el promedio dice cuánto habría aportado cada una por igual."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Media de 5, 10 y 15.",
+"respuesta": "10"
+},
+{
+"ejercicio": "Calificaciones 7, 8, 6, 9 y 10. ¿Cuál es el promedio?",
+"respuesta": "8"
+},
+{
+"ejercicio": "Llevas 8 y 9. ¿Qué necesitas en el tercer examen para promediar 9?",
+"respuesta": "10"
+}
+]
+}
+},
+{
+"nodo_id": "f5-077",
+"titulo": "Calcular la mediana",
+"slug": "calcular-la-mediana-primaria",
+"palabras": [
+"mediana",
+"dato central",
+"ordenar datos",
+"estadística"
+],
+"contenido": {
+"idea": "Forma a tus compañeros por estatura y mira quién quedó justo en medio. La estatura de esa persona es la mediana.",
+"pizarron": "**Qué es:** la mediana es el dato de en medio cuando todos están ordenados.\n\nLa **mediana** es el dato central cuando los datos están **ordenados**.\n\n**Cantidad impar**: 3, 9, 4, 7, 5.\n\n1. Ordena: 3, 4, 5, 7, 9.\n2. El de en medio: **5**.\n\n**Cantidad par**: 2, 8, 4, 10.\n\n1. Ordena: 2, 4, 8, 10.\n2. Toma los dos centrales: 4 y 8.\n3. Saca su promedio: (4 + 8) ÷ 2 = **6**.\n\nSi no ordenas primero, el resultado sale mal.\n\nVentaja: un dato extremo casi no la mueve. En 2, 3, 100, la media es 35, pero la mediana es 3.",
+"truco": "Ordena primero; la mediana vive en medio.",
+"practica": {
+"ejercicio": "Encuentra la mediana de 6, 1, 8, 3, 5.",
+"respuesta": "Ordenados 1, 3, 5, 6, 8; mediana 5."
+},
+"analogias": [
+{
+"titulo": "La fila por estatura",
+"texto": "Una persona muy alta no cambia a quien está en medio de la fila. La mediana es igual de resistente."
+},
+{
+"titulo": "El camellón",
+"texto": "El camellón está justo en medio de la avenida: deja la misma cantidad de carriles a cada lado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Mediana de 12, 7, 9.",
+"respuesta": "9"
+},
+{
+"ejercicio": "Mediana de 1, 3, 5, 7.",
+"respuesta": "4"
+},
+{
+"ejercicio": "Mediana de 10, 20, 20, 30, 90.",
+"respuesta": "20"
+}
+]
+}
+}
 ]
