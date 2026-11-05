@@ -1,143 +1,143 @@
 [
-  {
-    "nodo_id": "ems-104",
-    "titulo": "Figuras retóricas en la poesía",
-    "slug": "figuras-retoricas-poesia-preparatoria",
-    "palabras": [
-      "metáfora",
-      "símil",
-      "hipérbole",
-      "personificación",
-      "verso",
-      "lectura en voz alta",
-      "recursos literarios"
-    ],
-    "contenido": {
-      "idea": "Imagina que le dices a tu mamá: \"Tengo un hambre enorme, ¡me comería un elefante!\". Nadie se come un elefante, pero todos entienden que tienes muchísima hambre. Los poetas hacen lo mismo: usan palabras de forma especial para que sientas más.",
-      "pizarron": "**Qué es:** las figuras retóricas son formas de decir algo con belleza o fuerza.\n\n**Pasos:**\n\n1. Lee en voz alta.\n2. Busca lo que no se entiende literal.\n3. Nombra la figura: metáfora, símil o hipérbole.\n4. Di qué efecto causa.\n\n**Para tu escuela:** busca dos figuras en un poema.",
-      "truco": "Compara con \"como\": símil; sin \"como\": metáfora.",
-      "practica": {
-        "ejercicio": "Identifica la figura en \"Las estrellas bailan en el cielo\".",
-        "respuesta": "Personificación, porque se atribuye a las estrellas una acción humana (bailar)."
-      },
-      "analogias": [
-        {
-          "titulo": "El maquillaje de las palabras",
-          "texto": "Así como el maquillaje resalta rasgos del rostro sin cambiar a la persona, las figuras retóricas resaltan lo que el poema dice sin cambiar su idea central."
-        },
-        {
-          "titulo": "La lupa y el telescopio",
-          "texto": "La hipérbole es una lupa que agranda las cosas; el símil es un puente que une dos orillas distintas con la palabra \"como\"."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué figura hay en \"Tus manos son palomas\"?",
-          "respuesta": "Metáfora, pues identifica directamente las manos con palomas, sin usar \"como\"."
-        },
-        {
-          "ejercicio": "¿Qué figura hay en \"Ligera como una pluma\"?",
-          "respuesta": "Símil, porque compara usando la palabra \"como\"."
-        },
-        {
-          "ejercicio": "Explica el efecto de \"Llevo un siglo esperándote\".",
-          "respuesta": "Es una hipérbole: exagera el tiempo para transmitir impaciencia y cansancio por la espera."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-105",
-    "titulo": "La reseña crítica y los movimientos literarios",
-    "slug": "resena-critica-movimientos-literarios-preparatoria",
-    "palabras": [
-      "reseña",
-      "crítica literaria",
-      "romanticismo",
-      "modernismo",
-      "realismo",
-      "argumento",
-      "opinión fundamentada"
-    ],
-    "contenido": {
-      "idea": "Cuando sales de ver una película y le cuentas a un amigo de qué trató y si te gustó, con razones, ya hiciste una reseña. La reseña crítica es lo mismo, pero por escrito y con argumentos bien ordenados.",
-      "pizarron": "**Qué es:** una reseña crítica describe una obra y la valora con razones.\n\n**Partes:** datos, resumen, análisis y valoración.\n\nCada juicio lleva un ejemplo.\n\n**Para recordar:**\n- **¿Por qué es importante incluir citas del texto?** Porque respaldan la opinión con evidencia y evitan que la crítica sea solo un gusto personal.\n\n**Para tu escuela:** reseña un cuento romántico o realista.",
-      "truco": "Reseña = datos, resumen, análisis y valoración con pruebas.",
-      "practica": {
-        "ejercicio": "¿Qué falta en esta reseña: \"El libro es aburrido y no me gustó\"?",
-        "respuesta": "Faltan datos de la obra, resumen y argumentos con ejemplos del texto que sustenten la opinión."
-      },
-      "analogias": [
-        {
-          "titulo": "El juez en un juicio",
-          "texto": "El reseñista es como un juez: no basta con decir \"culpable\"; debe presentar pruebas, que aquí son citas y ejemplos de la obra."
-        },
-        {
-          "titulo": "La reseña de restaurante",
-          "texto": "Igual que una reseña de restaurante describe el lugar, el platillo y da una calificación razonada, la reseña literaria describe la obra y la valora."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona las cuatro partes básicas de una reseña crítica.",
-          "respuesta": "Datos de la obra, resumen, análisis y valoración (con conclusión)."
-        },
-        {
-          "ejercicio": "Una novela retrata con detalle la vida de una familia de clase media en una ciudad. ¿A qué movimiento se acerca?",
-          "respuesta": "Al realismo, pues retrata fielmente la vida cotidiana y social."
-        },
-        {
-          "ejercicio": "¿Por qué es importante incluir citas del texto?",
-          "respuesta": "Porque respaldan la opinión con evidencia y evitan que la crítica sea solo un gusto personal."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-106",
-    "titulo": "Exposición oral formal de una reseña",
-    "slug": "exposicion-oral-resena-preparatoria",
-    "palabras": [
-      "exposición oral",
-      "coloquio",
-      "simposio",
-      "foro",
-      "hablar en público",
-      "análisis crítico",
-      "presentación"
-    ],
-    "contenido": {
-      "idea": "Es como contarle a toda tu clase un cuento que leíste, pero de forma ordenada y con buena voz, para que todos entiendan y quieran leerlo. Practicas antes, hablas claro y miras a quienes te escuchan.",
-      "pizarron": "**Qué es:** es presentar una reseña ante un público.\n\n1. Prepara un guion.\n2. Abre con la obra y el autor.\n3. Resume y analiza con ejemplos.\n4. Cierra y recibe preguntas.\n\nUsa pocas diapositivas.\n\n**Para recordar:**\n- **¿Por qué no conviene leer palabra por palabra un texto completo al exponer?** Porque se pierde contacto visual y naturalidad; es mejor usar un guion con ideas clave.\n\n**Para tu escuela:** presenta la reseña de un libro.",
-      "truco": "Prepara, estructura, apoya, habla claro y cierra con preguntas.",
-      "practica": {
-        "ejercicio": "Ordena: conclusión, saludo y presentación de la obra, análisis con ejemplos.",
-        "respuesta": "1) Saludo y presentación de la obra; 2) análisis con ejemplos; 3) conclusión."
-      },
-      "analogias": [
-        {
-          "titulo": "El guía del museo",
-          "texto": "Quien expone es como un guía de museo: conoce la ruta, destaca lo importante y cuida que los visitantes no se pierdan."
-        },
-        {
-          "titulo": "El viaje en autobús",
-          "texto": "Tu exposición es un viaje con paradas planeadas: inicio, paradas principales y llegada. Si improvisas la ruta, los pasajeros se desorientan."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué no conviene leer palabra por palabra un texto completo al exponer?",
-          "respuesta": "Porque se pierde contacto visual y naturalidad; es mejor usar un guion con ideas clave."
-        },
-        {
-          "ejercicio": "Menciona tres aspectos de la entrega oral que debes cuidar.",
-          "respuesta": "Volumen, ritmo con pausas y contacto visual (también lenguaje formal)."
-        },
-        {
-          "ejercicio": "¿Qué haces si en el foro alguien cuestiona tu opinión sobre la reseña?",
-          "respuesta": "Escuchar con respeto y responder con argumentos apoyados en ejemplos de la obra."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-104",
+"titulo": "Figuras retóricas en la poesía",
+"slug": "figuras-retoricas-poesia-preparatoria",
+"palabras": [
+"metáfora",
+"símil",
+"hipérbole",
+"personificación",
+"verso",
+"lectura en voz alta",
+"recursos literarios"
+],
+"contenido": {
+"idea": "Imagina que le dices a tu mamá: \"Tengo un hambre enorme, ¡me comería un elefante!\". Nadie se come un elefante, pero todos entienden que tienes muchísima hambre. Los poetas hacen lo mismo: usan palabras de forma especial para que sientas más.",
+"pizarron": "**Qué es:** las figuras retóricas son formas de decir algo con belleza o fuerza.\n\n**Pasos:**\n\n1. Lee en voz alta.\n2. Busca lo que no se entiende literal.\n3. Nombra la figura: metáfora, símil o hipérbole.\n4. Di qué efecto causa.\n\n**Metáfora:** dice una cosa con otra, sin *como*. *Tus manos son palomas.*\n\n**Para tu escuela:** busca dos figuras en un poema.",
+"truco": "Compara con \"como\": símil; sin \"como\": metáfora.",
+"practica": {
+"ejercicio": "Identifica la figura en \"Las estrellas bailan en el cielo\".",
+"respuesta": "Personificación, porque se atribuye a las estrellas una acción humana (bailar)."
+},
+"analogias": [
+{
+"titulo": "El maquillaje de las palabras",
+"texto": "Así como el maquillaje resalta rasgos del rostro sin cambiar a la persona, las figuras retóricas resaltan lo que el poema dice sin cambiar su idea central."
+},
+{
+"titulo": "La lupa y el telescopio",
+"texto": "La hipérbole es una lupa que agranda las cosas; el símil es un puente que une dos orillas distintas con la palabra \"como\"."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué figura hay en \"Tus manos son palomas\"?",
+"respuesta": "Metáfora, pues identifica directamente las manos con palomas, sin usar \"como\"."
+},
+{
+"ejercicio": "¿Qué figura hay en \"Ligera como una pluma\"?",
+"respuesta": "Símil, porque compara usando la palabra \"como\"."
+},
+{
+"ejercicio": "Explica el efecto de \"Llevo un siglo esperándote\".",
+"respuesta": "Es una hipérbole: exagera el tiempo para transmitir impaciencia y cansancio por la espera."
+}
+]
+}
+},
+{
+"nodo_id": "ems-105",
+"titulo": "La reseña crítica y los movimientos literarios",
+"slug": "resena-critica-movimientos-literarios-preparatoria",
+"palabras": [
+"reseña",
+"crítica literaria",
+"romanticismo",
+"modernismo",
+"realismo",
+"argumento",
+"opinión fundamentada"
+],
+"contenido": {
+"idea": "Cuando sales de ver una película y le cuentas a un amigo de qué trató y si te gustó, con razones, ya hiciste una reseña. La reseña crítica es lo mismo, pero por escrito y con argumentos bien ordenados.",
+"pizarron": "**Qué es:** una reseña crítica describe una obra y la valora con razones.\n\n**Partes:** datos, resumen, análisis y valoración.\n\nCada juicio lleva un ejemplo.\n\n**Citas:** copian partes del texto y prueban lo que opinas.\n\n**Para tu escuela:** reseña un cuento romántico o realista.",
+"truco": "Reseña = datos, resumen, análisis y valoración con pruebas.",
+"practica": {
+"ejercicio": "¿Qué falta en esta reseña: \"El libro es aburrido y no me gustó\"?",
+"respuesta": "Faltan datos de la obra, resumen y argumentos con ejemplos del texto que sustenten la opinión."
+},
+"analogias": [
+{
+"titulo": "El juez en un juicio",
+"texto": "El reseñista es como un juez: no basta con decir \"culpable\"; debe presentar pruebas, que aquí son citas y ejemplos de la obra."
+},
+{
+"titulo": "La reseña de restaurante",
+"texto": "Igual que una reseña de restaurante describe el lugar, el platillo y da una calificación razonada, la reseña literaria describe la obra y la valora."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona las cuatro partes básicas de una reseña crítica.",
+"respuesta": "Datos de la obra, resumen, análisis y valoración (con conclusión)."
+},
+{
+"ejercicio": "Una novela retrata con detalle la vida de una familia de clase media en una ciudad. ¿A qué movimiento se acerca?",
+"respuesta": "Al realismo, pues retrata fielmente la vida cotidiana y social."
+},
+{
+"ejercicio": "¿Por qué es importante incluir citas del texto?",
+"respuesta": "Porque respaldan la opinión con evidencia y evitan que la crítica sea solo un gusto personal."
+}
+]
+}
+},
+{
+"nodo_id": "ems-106",
+"titulo": "Exposición oral formal de una reseña",
+"slug": "exposicion-oral-resena-preparatoria",
+"palabras": [
+"exposición oral",
+"coloquio",
+"simposio",
+"foro",
+"hablar en público",
+"análisis crítico",
+"presentación"
+],
+"contenido": {
+"idea": "Es como contarle a toda tu clase un cuento que leíste, pero de forma ordenada y con buena voz, para que todos entiendan y quieran leerlo. Practicas antes, hablas claro y miras a quienes te escuchan.",
+"pizarron": "**Qué es:** es presentar una reseña ante un público.\n\n1. Prepara un guion.\n2. Abre con la obra y el autor.\n3. Resume y analiza con ejemplos.\n4. Cierra y recibe preguntas.\n\nUsa pocas diapositivas.\n\nNo leas palabra por palabra: pierdes naturalidad. Usa un guion con ideas clave.\n\n**Para tu escuela:** presenta la reseña de un libro.",
+"truco": "Prepara, estructura, apoya, habla claro y cierra con preguntas.",
+"practica": {
+"ejercicio": "Ordena: conclusión, saludo y presentación de la obra, análisis con ejemplos.",
+"respuesta": "1) Saludo y presentación de la obra; 2) análisis con ejemplos; 3) conclusión."
+},
+"analogias": [
+{
+"titulo": "El guía del museo",
+"texto": "Quien expone es como un guía de museo: conoce la ruta, destaca lo importante y cuida que los visitantes no se pierdan."
+},
+{
+"titulo": "El viaje en autobús",
+"texto": "Tu exposición es un viaje con paradas planeadas: inicio, paradas principales y llegada. Si improvisas la ruta, los pasajeros se desorientan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué no conviene leer palabra por palabra un texto completo al exponer?",
+"respuesta": "Porque se pierde contacto visual y naturalidad; es mejor usar un guion con ideas clave."
+},
+{
+"ejercicio": "Menciona tres aspectos de la entrega oral que debes cuidar.",
+"respuesta": "Volumen, ritmo con pausas y contacto visual (también lenguaje formal)."
+},
+{
+"ejercicio": "¿Qué haces si en el foro alguien cuestiona tu opinión sobre la reseña?",
+"respuesta": "Escuchar con respeto y responder con argumentos apoyados en ejemplos de la obra."
+}
+]
+}
+}
 ]

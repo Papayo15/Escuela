@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Imagina una mochila con libros, cuadernos y plumas. Solo juntas libros con libros y plumas con plumas. Un polinomio es esa mochila con cosas distintas.",
-"pizarron": "**La regla:** para sumar, junta términos semejantes. Para restar, cambia los signos del segundo. Para multiplicar, cada término multiplica a todos los del otro.\n\n**Polinomio:** suma de términos con letra y exponente. **Trinomio:** tiene tres términos.\n\n**Semejantes:** misma letra y mismo exponente.\n\n**Suma:** $(x^2+3x+2)+(2x^2-x+5)=3x^2+2x+7$.\n\n**Producto:** $(x+2)(x+3)=x^2+5x+6$.\n\n**Para tu escuela:** suma $(x^2+4x+1)+(3x^2-2x+6)$.",
+"pizarron": "**La regla:** para sumar, junta términos semejantes. Para restar, cambia los signos del segundo. Para multiplicar, cada término multiplica a todos los del otro.\n\n**Imagínalo:** separas fichas por color. Azules con azules, rojas con rojas. Cada color es un exponente.\n\n**Polinomio:** suma de términos con letra y exponente. **Trinomio:** tiene tres términos.\n\n**Semejantes:** misma letra y mismo exponente.\n\n**Sumar:** $(x^2 + 3x + 2) + (2x^2 - x + 5) = 3x^2 + 2x + 7$.\n\n**Restar:** cambia signos y suma. $(x + 3) - (x - 1) = x + 3 - x + 1 = 4$.\n\n**Multiplicar:** $(x + 2)(x + 3) = x^2 + 5x + 6$.\n\n**Para tu escuela:** separa fichas de dos colores y súmalas.",
 "truco": "Misma letra y mismo exponente se juntan.",
 "practica": {
 "ejercicio": "Suma $(x^2+4x+1)+(3x^2-2x+6)$.",
@@ -57,7 +57,7 @@
 ],
 "contenido": {
 "idea": "Una receta dice que por cada persona usas dos tortillas. Si no sabes cuántas personas vienen, usas una letra. Eso es el álgebra: recetas con letras.",
-"pizarron": "**Qué es:** el álgebra sirve para escribir situaciones reales con letras y fórmulas, y resolverlas.\n\nEl álgebra describe situaciones con letras (variables) y operaciones.\n\n1. Identifica qué cantidad cambia y ponle una letra.\n2. Escribe la relación como expresión o fórmula.\n3. Sustituye valores o despeja la letra que buscas.\n\nEjemplo: un plan cobra 100 pesos fijos más 3 pesos por mensaje: $C=100+3n$. Con $n=20$, $C=160$ pesos. Si $C=250$, entonces $3n=150$ y $n=50$.\n\nFórmulas conocidas: $d=vt$ (distancia) y $F=1.8C+32$ (temperatura).",
+"pizarron": "**Qué es:** el álgebra sirve para escribir situaciones reales con letras y fórmulas, y resolverlas.\n\n**Imagínalo:** la letra es una caja cerrada con un número adentro. Con pistas descubres qué hay.\n\n1. Ponle letra a lo que cambia.\n2. Escribe la relación.\n3. Sustituye o despeja.\n\n**Ejemplo:** el plan cuesta 100 fijos más 3 por mensaje: $C = 100 + 3n$.\n\nCon 20 mensajes: $100 + 60 = 160$.\n\nSi pagaste 250: $3n = 150$, así que $n = 50$.\n\n**Otras fórmulas:** distancia $d = vt$. Temperatura $F = 1.8C + 32$.\n\n**En palabras:** distancia es velocidad por tiempo. Fahrenheit es Celsius por 1.8 más 32.\n\n**Para tu escuela:** escribe la fórmula de cuánto pagas por varios lápices a 5 pesos.",
 "truco": "Nombra, escribe, sustituye y despeja.",
 "practica": {
 "ejercicio": "Con $C=100+3n$, ¿cuánto cuesta enviar 30 mensajes?",
@@ -102,7 +102,7 @@
 ],
 "contenido": {
 "idea": "Una balanza está equilibrada con una bolsa misteriosa y 5 canicas de un lado, y 20 canicas del otro. Quitas 5 de cada lado y sabes cuántas hay en la bolsa.",
-"pizarron": "**Qué es:** una ecuación es una igualdad con una letra desconocida. Resolverla es hallar el valor que la hace verdadera.\n\nUna ecuación es una igualdad con una incógnita, una letra cuyo valor buscamos. Solo es verdadera para ciertos valores.\n\nRegla de oro: lo que haces de un lado, lo haces del otro.\n\nEjemplo: $3x+5=20$.\n\n1. Resta 5 en ambos lados: $3x=15$.\n2. Divide entre 3: $x=5$.\n3. Comprueba: $3(5)+5=20$. Es correcto.\n\nEl valor que cumple la igualdad se llama solución.",
+"pizarron": "**Qué es:** una ecuación es una igualdad con una letra desconocida. Resolverla es hallar el valor que la hace verdadera.\n\n**Imagínalo:** es una balanza pareja. Lo que hagas de un lado, hazlo del otro.\n\n**Ejemplo:** $3x + 5 = 20$.\n\n1. Quita 5 en ambos lados: $3x = 15$.\n2. Divide entre 3: $x = 5$.\n3. Comprueba: $3(5) + 5 = 20$.\n\n**Con paréntesis:** $3(x + 2) = 15$. Primero divide entre 3: $x + 2 = 5$. Luego $x = 3$.\n\nEl número que cumple la igualdad se llama solución.\n\n**Para tu escuela:** usa frijoles y una balanza para resolver $x + 2 = 5$.",
 "truco": "Lo que haces de un lado, hazlo del otro.",
 "practica": {
 "ejercicio": "Resuelve $5x=35$.",
@@ -147,7 +147,7 @@
 ],
 "contenido": {
 "idea": "Tienes dos bolsas de dulces y 3 sueltos, y tu amigo tiene una bolsa y 8 sueltos. Si tienen lo mismo, quitas lo igual de ambos lados y averiguas cuántos dulces trae cada bolsa.",
-"pizarron": "**La regla:** reúne las $x$ de un lado y los números del otro, haciendo lo mismo en ambos lados.\n\nUna ecuación lineal tiene la incógnita con exponente 1: $ax+b=c$.\n\nPasos:\n1. Quita paréntesis y fracciones.\n2. Reúne las $x$ de un lado y los números del otro.\n3. Reduce términos semejantes.\n4. Despeja dividiendo entre el coeficiente.\n5. Comprueba.\n\nEjemplo: $3x+7=2x+12$. Restas $2x$: $x+7=12$. Restas 7: $x=5$. Comprobación: $22=22$.",
+"pizarron": "**La regla:** reúne las $x$ de un lado y los números del otro, haciendo lo mismo en ambos lados.\n\n**Imagínalo:** es una balanza. Si quitas de un lado, quita igual del otro.\n\n**Pasos:**\n\n1. Quita paréntesis y fracciones.\n2. Pasa las $x$ a un lado y los números al otro.\n3. Junta.\n4. Divide entre el número de la $x$.\n5. Comprueba.\n\n**Ejemplo:** $3x + 7 = 2x + 12$. Resta $2x$: $x + 7 = 12$. Resta 7: $x = 5$.\n\n**Con fracción:** $\\frac{x}{2} + 1 = 4$. Resta 1 y multiplica por 2: $x = 6$.\n\n**Problema:** *2 boletos y 10 pesos cuestan 110*. $2b + 10 = 110$, y $b = 50$.\n\n**Para tu escuela:** escribe una ecuación con el precio de tu lunch.",
 "truco": "Letras a un lado, números al otro.",
 "practica": {
 "ejercicio": "Resuelve $2x+9=21$.",
@@ -191,7 +191,7 @@
 ],
 "contenido": {
 "idea": "Sabes que entre dos amigos tienen 10 canicas y que uno tiene 4 más que el otro. Con las dos pistas juntas descubres cuántas tiene cada uno.",
-"pizarron": "**La regla:** una ecuación con dos incógnitas tiene muchas soluciones; con dos ecuaciones se obtiene una sola pareja.\n\nUna ecuación con dos incógnitas, como $x+y=10$, tiene muchas soluciones. Con dos ecuaciones independientes se obtiene una sola pareja $(x,y)$.\n\nEjemplo: $x+y=10$ y $x-y=4$.\n\n1. Suma las ecuaciones: $2x=14$, entonces $x=7$.\n2. Sustituye en la primera: $7+y=10$, entonces $y=3$.\n3. Comprueba: $7-3=4$. Es correcto.\n\nPlantea siempre qué representa cada letra antes de empezar.",
+"pizarron": "**La regla:** una ecuación con dos incógnitas tiene muchas soluciones; con dos ecuaciones se obtiene una sola pareja.\n\n**Imagínalo:** dos números suman 10. Pueden ser 1 y 9, 2 y 8... Con una segunda pista ya solo queda una pareja.\n\n**Ejemplo:** $x + y = 10$ y $x - y = 4$.\n\n1. Suma las dos: $2x = 14$, así que $x = 7$.\n2. Sustituye: $7 + y = 10$, y $y = 3$.\n3. Comprueba: $7 - 3 = 4$.\n\n**Si restas** también se va una letra: con $3x + y = 10$ y $x + y = 4$ queda $2x = 6$.\n\n**Problemas:** ponle letra a cada precio. Si 2 tacos y un refresco cuestan más que 1 taco y un refresco, la diferencia es 1 taco.\n\n**Para tu escuela:** adivina dos números con dos pistas.",
 "truco": "Elimina una letra, resuelve y regresa.",
 "practica": {
 "ejercicio": "Resuelve $x+y=9$ y $x-y=1$.",
@@ -236,7 +236,7 @@
 ],
 "contenido": {
 "idea": "Si lanzas una pelota hacia arriba, pasa por la misma altura dos veces: al subir y al bajar. Por eso estas ecuaciones suelen tener dos respuestas.",
-"pizarron": "**La regla:** las soluciones de $ax^2 + bx + c = 0$ salen por factorización o con la fórmula general.\n\nUna ecuación cuadrática tiene la forma $ax^2+bx+c=0$, con $a\\neq0$. Puede tener hasta dos soluciones.\n\n**Factorización:** $x^2-5x+6=0$ se escribe $(x-2)(x-3)=0$; si un producto es cero, un factor es cero: $x=2$ o $x=3$.\n\n**Fórmula general:**\n\n$$x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}$$\n\nSi $b^2-4ac<0$, no hay soluciones reales.",
+"pizarron": "**La regla:** las soluciones de $ax^2 + bx + c = 0$ salen por factorización o con la fórmula general.\n\n**Imagínalo:** un balón sube y baja. Pasa dos veces por la misma altura. Por eso puede haber dos soluciones.\n\n**Factorizar:** busca dos números que sumen el del medio y multipliquen el último.\n\n$x^2 - 5x + 6 = 0$: son $-2$ y $-3$. Queda $(x - 2)(x - 3) = 0$.\n\nSi un producto da cero, uno de los dos es cero: $x = 2$ o $x = 3$.\n\n**Sin número de en medio:** $x^2 = 25$ da $x = 5$ o $x = -5$.\n\n**Fórmula general:**\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\n**En palabras:** $a$, $b$ y $c$ son los números de la ecuación. El $\\pm$ dice que se hace una vez con más y otra con menos.\n\nSi lo de la raíz es negativo, no hay solución real.\n\n**Para tu escuela:** busca dos números que sumen 5 y multipliquen 6.",
 "truco": "Producto igual a cero: algún factor vale cero.",
 "practica": {
 "ejercicio": "Resuelve $x^2-7x+12=0$.",
@@ -281,7 +281,7 @@
 ],
 "contenido": {
 "idea": "Un problema escrito es un misterio con pistas. La ecuación es la libreta donde anotas las pistas con letras para resolverlo con orden.",
-"pizarron": "**La regla:** llama con una letra a lo que buscas, escribe la ecuación con los datos, resuélvela y comprueba.\n\nPara resolver un problema con ecuaciones:\n\n1. Lee y decide qué busca la pregunta.\n2. Asigna letras a las cantidades desconocidas.\n3. Traduce cada frase a una ecuación.\n4. Elige el método: lineal, sistema o cuadrática.\n5. Resuelve y comprueba en el texto original.\n\nEjemplo: dos números consecutivos suman 31. $x+(x+1)=31$, entonces $2x=30$ y $x=15$. Los números son 15 y 16.",
+"pizarron": "**La regla:** llama con una letra a lo que buscas, escribe la ecuación con los datos, resuélvela y comprueba.\n\n**Imagínalo:** traduces una historia a otro idioma, el de los números.\n\n1. Lee y di qué se busca.\n2. Pon letra a lo que no sabes.\n3. Traduce cada frase.\n4. Resuelve.\n5. Comprueba.\n\n**Consecutivos:** son $x$ y $x + 1$. Si suman 31: $2x + 1 = 31$, y $x = 15$.\n\n**Dos cosas:** usa dos letras. *4 boletos*: $a + n = 4$.\n\n**Cuadrática:** una medida no puede ser negativa. Descarta esa solución.\n\n**Para tu escuela:** escribe la ecuación de *el doble de mi edad es 20*.",
 "truco": "Lee, nombra, traduce, resuelve y comprueba.",
 "practica": {
 "ejercicio": "El triple de un número menos 1 es 11. ¿Cuál es el número?",
@@ -326,7 +326,7 @@
 ],
 "contenido": {
 "idea": "Dibuja un triángulo cualquiera, aunque sea chueco. Pega un tejado en forma de triángulo perfecto en cada lado. Los centros de esos tejados forman otro triángulo perfecto.",
-"pizarron": "**La ley:** si en cada lado de un triángulo pones un triángulo equilátero hacia afuera, sus tres centros forman otro triángulo equilátero.\n\n**Equilátero:** tres lados iguales y ángulos de $60°$.\n\n**Centro:** igual distancia a los vértices.\n\nSe demuestra con congruencia y giros de $60°$.\n\n**Para tu escuela:** dibújalo con regla y comprueba midiendo.",
+"pizarron": "**La ley:** si en cada lado de un triángulo pones un triángulo equilátero hacia afuera, sus tres centros forman otro triángulo equilátero.\n\n**Imagínalo:** a un triángulo chueco le pones tres gorritos parejos. Unes los centros de los gorritos y siempre sale un triángulo parejo.\n\n**Equilátero:** tres lados iguales y ángulos de $60°$, porque $180° \\div 3 = 60°$.\n\n**Perímetro:** lado por 3. Con 4 cm: 12 cm.\n\n**Centro:** el punto a igual distancia de las tres esquinas.\n\n**Para tu escuela:** dibújalo con regla y comprueba midiendo.",
 "truco": "Cualquier triángulo, tres equiláteros, centros equiláteros.",
 "practica": {
 "ejercicio": "¿Cuánto mide cada ángulo de un triángulo equilátero?",
@@ -372,7 +372,7 @@
 ],
 "contenido": {
 "idea": "Dos caminos se cruzan en un solo punto. Ese cruce es la respuesta que cumple las dos ecuaciones a la vez, y hay varias formas de encontrarlo.",
-"pizarron": "**Qué es:** un sistema son dos ecuaciones que deben cumplirse al mismo tiempo. Su solución es el valor que sirve en ambas.\n\nPara el sistema $x+y=5$ y $x-y=1$ la solución es $(3,2)$. Métodos:\n\n- **Igualación:** despeja la misma letra en ambas: $x=5-y$ y $x=1+y$; iguala: $y=2$.\n- **Sustitución:** de $x=1+y$, sustituye: $1+y+y=5$, entonces $y=2$.\n- **Reducción:** suma: $2x=6$, entonces $x=3$.\n- **Gráfico:** dibuja las dos rectas; se cruzan en $(3,2)$.\n- **Determinantes:** $x=\\frac{D_x}{D}$ y $y=\\frac{D_y}{D}$, si $D\\neq0$.\n\nComprueba siempre en las dos ecuaciones.",
+"pizarron": "**Qué es:** un sistema son dos ecuaciones que deben cumplirse al mismo tiempo. Su solución es el valor que sirve en ambas.\n\n**Imagínalo:** dos pistas para adivinar dos números.\n\n**Métodos para $x + y = 5$ y $x - y = 1$:**\n\n- **Reducción:** suma: $2x = 6$, y $x = 3$.\n- **Sustitución:** de $x = 1 + y$: $1 + y + y = 5$, y $y = 2$.\n- **Igualación:** $5 - y = 1 + y$.\n- **Gráfico:** las rectas se cruzan en $(3, 2)$.\n\n**Si ya está despejada:** con $y = 3x$ y $x + y = 8$: $4x = 8$.\n\n**Comprueba** en las dos ecuaciones.\n\n**Para tu escuela:** adivina dos edades con dos pistas.",
 "truco": "Igualar, sustituir o reducir: elimina una letra.",
 "practica": {
 "ejercicio": "Resuelve $x+y=7$ y $x-y=3$.",
@@ -418,7 +418,7 @@
 ],
 "contenido": {
 "idea": "En un mapa de cuadrícula, cada tienda tiene una dirección con dos números. Una recta es el camino recto que une puntos y que sube o baja de forma constante.",
-"pizarron": "**La regla:** distancia es Pitágoras en el plano; pendiente es lo que sube entre lo que avanza; y la recta es $y = mx + b$.\n\nUn punto se ubica en el plano con dos coordenadas $(x,y)$.\n\n- **Distancia** entre $(x_1,y_1)$ y $(x_2,y_2)$: $d=\\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$.\n- **Pendiente:** $m=\\frac{y_2-y_1}{x_2-x_1}$.\n- **Ecuación de la recta:** $y=mx+b$, donde $b$ es donde corta al eje $y$.\n\nEjemplo: por $(1,2)$ y $(3,6)$, $m=\\frac{4}{2}=2$; como $2=2(1)+b$, $b=0$ y la recta es $y=2x$.",
+"pizarron": "**La regla:** distancia es Pitágoras en el plano; pendiente es lo que sube entre lo que avanza; y la recta es $y = mx + b$.\n\n**Imagínalo:** una ciudad en cuadrícula. Un punto es una esquina $(x, y)$.\n\n**Distancia:** $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. **En palabras:** resta, eleva, suma y saca raíz.\n\n**Pendiente:** $m = \\frac{y_2 - y_1}{x_2 - x_1}$.\n\n**Recta:** $m$ es la inclinación y $b$ donde cruza el eje $y$.\n\n**Ejemplo:** por $(1, 2)$ y $(3, 6)$: $m = 2$. Sustituye: $2 = 2(1) + b$, y $b = 0$. Queda $y = 2x$.\n\n**Para tu escuela:** dibuja tu ruta a la escuela en cuadros.",
 "truco": "Pendiente: sube entre avanza.",
 "practica": {
 "ejercicio": "Halla la ecuación de la recta por $(2,1)$ y $(4,5)$.",

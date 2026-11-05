@@ -10,7 +10,7 @@
 ],
 "contenido": {
 "idea": "Si dos cosas multiplicadas dan cero, al menos una es cero. Esa idea sencilla resuelve muchas ecuaciones cuadráticas.",
-"pizarron": "**La regla:** si $ab = 0$, entonces $a = 0$ o $b = 0$.\n\nPasos:\n\n1. Iguala a cero.\n2. Factoriza.\n3. Iguala cada factor a 0.\n\nEjemplo:\n\n$$x^2 - 5x = 14$$\n\n$$x^2 - 5x - 14 = 0$$\n\n$$(x - 7)(x + 2) = 0$$\n\n$$x = 7 \\text{ o } x = -2$$\n\nEjemplo con coeficiente:\n\n$$2x^2 + 5x - 3 = 0$$\n\n$$(2x - 1)(x + 3) = 0$$\n\n$$x = \\frac{1}{2} \\text{ o } x = -3$$\n\nNo dividas entre $x$: pierdes soluciones.",
+"pizarron": "**La regla:** si $ab = 0$, entonces $a = 0$ o $b = 0$.\n\n**Imagínalo:** si dos números multiplicados dan cero, uno de ellos tiene que ser cero.\n\n**Pasos:**\n\n1. Iguala a cero.\n2. Factoriza.\n3. Iguala cada parte a 0.\n\n**Ejemplo:** $x^2 - 5x = 14$. Queda $x^2 - 5x - 14 = 0$.\n\n$(x - 7)(x + 2) = 0$, así que $x = 7$ o $x = -2$.\n\n**Con número adelante:** $2x^2 + 5x - 3 = (2x - 1)(x + 3)$. Salen $\\frac{1}{2}$ y $-3$.\n\n**Sin número al final:** $x^2 = 3x$. Saca $x$: $x(x - 3) = 0$. Salen 0 y 3.\n\nNo dividas entre $x$, porque pierdes una solución.\n\n**Para tu escuela:** busca dos números que multipliquen 12 y sumen 7.",
 "truco": "Igualar a cero, factorizar y separar.",
 "practica": {
 "ejercicio": "Resuelve $x^2 + x - 12 = 0$.",
@@ -53,7 +53,7 @@
 ],
 "contenido": {
 "idea": "Te falta una pieza para formar un cuadrado perfecto. La agregas de ambos lados y la ecuación queda lista para sacar raíz.",
-"pizarron": "**La regla:** suma $(\\frac{b}{2})^2$ en ambos lados para formar un cuadrado perfecto.\n\n**Ejemplo:** $x^2 + 6x - 7 = 0$.\n\n1. Pasa el número: $x^2 + 6x = 7$.\n2. La mitad de 6 es 3, y al cuadrado es 9. Suma 9: $x^2 + 6x + 9 = 16$.\n3. Factoriza: $(x + 3)^2 = 16$.\n4. Saca raíz: $x + 3 = \\pm 4$.\n5. Resultado: $x = 1$ o $x = -7$.\n\nSi $a \\ne 1$, divide primero entre $a$.\n\n**Para tu escuela:** resuelve $x^2 + 4x - 5 = 0$.",
+"pizarron": "**La regla:** suma $(\\frac{b}{2})^2$ en ambos lados para formar un cuadrado perfecto.\n\n**Imagínalo:** tienes un cuadrado de piezas con una esquina vacía. Buscas la pieza exacta que falta.\n\n**La pieza:** mitad del número de en medio, al cuadrado. Con $6x$: mitad 3, pieza 9.\n\n**Ejemplo:** $x^2 + 6x - 7 = 0$.\n\n1. Pasa el número: $x^2 + 6x = 7$.\n2. Suma 9: $x^2 + 6x + 9 = 16$.\n3. Factoriza: $(x + 3)^2 = 16$.\n4. Saca raíz: $x + 3 = \\pm 4$.\n5. Resultado: $x = 1$ o $x = -7$.\n\n**Con resta:** $x^2 - 4x = (x - 2)^2 - 4$.\n\n**Para tu escuela:** con cuadritos de papel, completa el cuadrado de $x^2 + 2x$.",
 "truco": "Mitad de b, al cuadrado: esa es la pieza que falta.",
 "practica": {
 "ejercicio": "¿Qué número completa $x^2 + 10x$?",
@@ -96,7 +96,7 @@
 ],
 "contenido": {
 "idea": "Hay ecuaciones que no se dejan factorizar. La fórmula general siempre funciona, incluso cuando la respuesta no es exacta.",
-"pizarron": "**La regla:** $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nEjemplo: $x^2 + 2x - 5 = 0$.\n\n- $a = 1$, $b = 2$, $c = -5$.\n- Discriminante: $4 + 20 = 24$.\n\n$$x = \\frac{-2 \\pm \\sqrt{24}}{2} = \\frac{-2 \\pm 2\\sqrt{6}}{2} = -1 \\pm \\sqrt{6}$$\n\nAproximado: $x \\approx 1.45$ o $x \\approx -3.45$.\n\nAntes de usar la fórmula, escribe en forma $ax^2 + bx + c = 0$.\n\nSimplifica dividiendo todo si se puede: $2x^2 + 4x - 10 = 0$ es $x^2 + 2x - 5 = 0$.",
+"pizarron": "**La regla:** $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.\n\n**Imagínalo:** es una llave maestra: abre todas las cuadráticas.\n\n**Pasos:**\n\n1. Deja todo igualado a 0.\n2. Escribe $a$, $b$ y $c$ con su signo.\n3. Sustituye.\n4. Haz una cuenta con más y otra con menos.\n\n**Ejemplo:** $x^2 + 2x - 5 = 0$. $a = 1$, $b = 2$, $c = -5$.\n\n$$x = \\frac{-2 \\pm \\sqrt{24}}{2} = -1 \\pm \\sqrt{6}$$\n\n**Ejemplo:** $2x^2 + 3x - 2 = 0$. $\\sqrt{9 + 16} = 5$, así que $x = \\frac{-3 \\pm 5}{4}$: $\\frac{1}{2}$ o $-2$.\n\nSi no está igualada a 0, pasa todo primero.\n\n**Para tu escuela:** escribe $a$, $b$ y $c$ de $3x^2 - x + 2 = 0$.",
 "truco": "Escribe primero a, b y c con signos.",
 "practica": {
 "ejercicio": "Resuelve $x^2 - 4x + 1 = 0$.",
@@ -140,7 +140,7 @@
 ],
 "contenido": {
 "idea": "Cuando una parábola no toca el piso, la ecuación no tiene solución real. Los matemáticos inventaron un número nuevo, $i$, para seguir resolviendo.",
-"pizarron": "**Qué es:** si el discriminante es negativo, las raíces son complejas: se usa $i = \\sqrt{-1}$.\n\nDefinición:\n\n$$i = \\sqrt{-1} \\qquad i^2 = -1$$\n\nUn **número complejo** tiene la forma $a + bi$.\n\nEjemplos:\n\n- $\\sqrt{-16} = 4i$\n- $\\sqrt{-3} = i\\sqrt{3}$\n\nEjemplo: $x^2 + 2x + 5 = 0$.\n\n$$x = \\frac{-2 \\pm \\sqrt{4 - 20}}{2} = \\frac{-2 \\pm 4i}{2} = -1 \\pm 2i$$\n\nLas raíces complejas siempre vienen en parejas conjugadas.\n\nOperaciones: $(2 + 3i) + (1 - i) = 3 + 2i$.",
+"pizarron": "**Qué es:** si el discriminante es negativo, las raíces son complejas: se usa $i = \\sqrt{-1}$.\n\n**Imagínalo:** ningún número común, multiplicado por sí mismo, da negativo. Se inventó un número nuevo, $i$, para esos casos.\n\n$$i^2 = -1$$\n\n**Raíz de negativos:** saca el $i$. $\\sqrt{-16} = 4i$.\n\n**Número complejo:** $a + bi$.\n\n**Ejemplo:** $x^2 + 4 = 0$ da $x^2 = -4$, y $x = \\pm 2i$.\n\n**Con fórmula general:** $x^2 + 2x + 5 = 0$.\n\n$$x = \\frac{-2 \\pm \\sqrt{-16}}{2} = -1 \\pm 2i$$\n\n**Para tu escuela:** escribe $\\sqrt{-4}$, $\\sqrt{-9}$ y $\\sqrt{-36}$ con $i$.",
 "truco": "Saca el menos de la raíz como i.",
 "practica": {
 "ejercicio": "Calcula $\\sqrt{-25}$.",
@@ -183,7 +183,7 @@
 ],
 "contenido": {
 "idea": "Una ecuación te dice quién es $y$ en términos de $x$. Metes esa identidad en la otra y queda una sola incógnita.",
-"pizarron": "**La regla:** despeja una variable y cámbiala en la otra ecuación.\n\nEjemplo:\n\n$$\\begin{cases} 3x + 2y = 16 \\\\ x - y = 2 \\end{cases}$$\n\n1. Despeja: $x = y + 2$.\n2. Sustituye:\n\n$$3(y + 2) + 2y = 16$$\n\n3. Resuelve:\n\n$$5y + 6 = 16 \\Rightarrow y = 2$$\n\n4. Regresa: $x = 4$.\n\nConviene despejar la letra con coeficiente 1 o -1.\n\nComprueba en ambas.",
+"pizarron": "**La regla:** despeja una variable y cámbiala en la otra ecuación.\n\n**Imagínalo:** alguien te dice *Luis tiene 2 más que Ana*. Donde diga Luis, escribes *Ana más 2*.\n\n**Ejemplo:** $3x + 2y = 16$ y $x - y = 2$.\n\n1. Despeja: $x = y + 2$.\n2. Sustituye: $3(y + 2) + 2y = 16$.\n3. Resuelve: $5y + 6 = 16$, y $y = 2$.\n4. Regresa: $x = 4$.\n\nConviene despejar la letra que no tiene número adelante.\n\n**Comprueba** en las dos.\n\n**Para tu escuela:** usa la pista de Ana y Luis con $x + y = 12$.",
 "truco": "Despeja una, sustituye en la otra, regresa.",
 "practica": {
 "ejercicio": "Resuelve: $y = 2x$; $x + y = 9$.",
@@ -226,7 +226,7 @@
 ],
 "contenido": {
 "idea": "Dos fórmulas distintas para la misma cosa deben dar lo mismo. Las pones frente a frente y la igualdad resuelve el caso.",
-"pizarron": "**La regla:** despeja la misma variable en ambas ecuaciones e iguala.\n\nEjemplo:\n\n$$\\begin{cases} 2x + y = 10 \\\\ 3x - y = 5 \\end{cases}$$\n\n1. Despeja $y$ en ambas:\n\n$$y = 10 - 2x \\qquad y = 3x - 5$$\n\n2. Iguala:\n\n$$10 - 2x = 3x - 5$$\n\n3. Resuelve:\n\n$$15 = 5x \\Rightarrow x = 3$$\n\n4. Sustituye: $y = 4$.\n\nConviene si ambas ya están despejadas en la misma letra.",
+"pizarron": "**La regla:** despeja la misma variable en ambas ecuaciones e iguala.\n\n**Imagínalo:** si Ana y Luis miden lo mismo que Eva, Ana y Luis miden igual.\n\n**Ejemplo:** $2x + y = 10$ y $3x - y = 5$.\n\n1. Despeja: $y = 10 - 2x$ y $y = 3x - 5$.\n2. Iguala: $10 - 2x = 3x - 5$.\n3. Resuelve: $15 = 5x$, y $x = 3$.\n4. Sustituye: $y = 4$.\n\n**Problema:** dos planes cuestan igual cuando sus fórmulas son iguales. Con $10 + 2m$ y $4 + 3m$: $6 = m$.\n\n**Para tu escuela:** compara dos planes de celular.",
 "truco": "La misma letra sola en las dos, y a igualar.",
 "practica": {
 "ejercicio": "Resuelve: $y = x + 4$; $y = 3x$.",
@@ -269,7 +269,7 @@
 ],
 "contenido": {
 "idea": "Multiplica hasta que una letra tenga coeficientes opuestos. Al sumar, desaparece y queda una sola.",
-"pizarron": "**La regla:** multiplica las ecuaciones para que una variable se cancele al sumar.\n\nEjemplo:\n\n$$\\begin{cases} 3x + 2y = 7 \\\\ 2x - 3y = 9 \\end{cases}$$\n\n1. Elimina $y$: primera por 3, segunda por 2.\n\n$$9x + 6y = 21$$\n$$4x - 6y = 18$$\n\n2. Suma:\n\n$$13x = 39 \\Rightarrow x = 3$$\n\n3. Sustituye:\n\n$$9 + 2y = 7 \\Rightarrow y = -1$$\n\nSolución: $(3, -1)$.\n\nCasos: si se elimina todo y queda $0 = 5$, no hay solución; si $0 = 0$, hay infinitas.",
+"pizarron": "**La regla:** multiplica las ecuaciones para que una variable se cancele al sumar.\n\n**Imagínalo:** $+y$ y $-y$ son un paso adelante y uno atrás. Se cancelan.\n\n**Ejemplo:** $3x + 2y = 7$ y $2x - 3y = 9$.\n\n1. Multiplica la primera por 3 y la segunda por 2: $9x + 6y = 21$ y $4x - 6y = 18$.\n2. Suma: $13x = 39$, y $x = 3$.\n3. Sustituye: $y = -1$.\n\n**Si tienen el mismo signo:** resta.\n\n**Casos raros:**\n\n- Queda $0 = 5$: no hay solución.\n- Queda $0 = 0$: son la misma recta. Hay infinitas soluciones.\n\n**Para tu escuela:** explica con pasos por qué se cancelan.",
 "truco": "Coeficientes opuestos, suma y una se va.",
 "practica": {
 "ejercicio": "Resuelve: $x + y = 8$; $x - y = 2$.",
@@ -312,7 +312,7 @@
 ],
 "contenido": {
 "idea": "Un determinante es una cuenta en cruz que convierte una tabla de números en uno solo. Sirve para resolver sistemas directamente.",
-"pizarron": "**La regla:** el determinante de $\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$ es $ad - bc$.\n\nDeterminante:\n\n$$\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} = ad - bc$$\n\n**Regla de Cramer** para:\n\n$$\\begin{cases} a_1x + b_1y = c_1 \\\\ a_2x + b_2y = c_2 \\end{cases}$$\n\n$$x = \\frac{D_x}{D} \\qquad y = \\frac{D_y}{D}$$\n\nEjemplo: $2x + y = 7$; $x - y = 2$.\n\n- $D = (2)(-1) - (1)(1) = -3$\n- $D_x = (7)(-1) - (1)(2) = -9$\n- $D_y = (2)(2) - (7)(1) = -3$\n- $x = 3$, $y = 1$.\n\nSi $D = 0$, no hay solución única.",
+"pizarron": "**La regla:** el determinante de $\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}$ es $ad - bc$.\n\n**Imagínalo:** es un cuadro de 4 números. Multiplicas en cruz: bajando y subiendo, y restas.\n\n**Ejemplo:** con 3, 1, 2, 4: $3 \\times 4 - 1 \\times 2 = 10$.\n\n**Regla de Cramer:** resuelve dos ecuaciones.\n\nPara $2x + y = 7$ y $x - y = 2$:\n\n- $D$: usa los números de las letras. $(2)(-1) - (1)(1) = -3$.\n- $D_x$: cambia la columna de $x$ por 7 y 2. Da $-9$.\n- $D_y$: cambia la de $y$. Da $-3$.\n\n$$x = \\frac{D_x}{D} = 3 \\qquad y = \\frac{D_y}{D} = 1$$\n\n**Si $D = 0$,** no hay una solución única.\n\n**Para tu escuela:** dibuja la cruz con dos colores.",
 "truco": "Baja a la derecha menos sube a la derecha.",
 "practica": {
 "ejercicio": "Calcula $\\begin{vmatrix} 3 & 2 \\\\ 1 & 4 \\end{vmatrix}$.",
@@ -356,7 +356,7 @@
 ],
 "contenido": {
 "idea": "Con tres incógnitas la idea es la misma: un determinante para el sistema y uno por cada letra. La regla de Sarrus organiza las cuentas.",
-"pizarron": "**La regla (Cramer):** cada incógnita es un determinante entre el determinante principal.\n\n**Regla de Sarrus** para $3 \\times 3$:\n\n$$\\begin{vmatrix} a & b & c \\\\ d & e & f \\\\ g & h & i \\end{vmatrix} = aei + bfg + cdh - ceg - bdi - afh$$\n\nEjemplo:\n\n$$\\begin{vmatrix} 1 & 2 & 3 \\\\ 0 & 1 & 4 \\\\ 5 & 6 & 0 \\end{vmatrix} = 0 + 40 + 0 - 15 - 0 - 24 = 1$$\n\n**Cramer**: $x = \\frac{D_x}{D}$, $y = \\frac{D_y}{D}$, $z = \\frac{D_z}{D}$.\n\nPara $D_x$, cambia la columna de $x$ por los resultados.\n\nComprueba sustituyendo en las tres ecuaciones.",
+"pizarron": "**La regla (Cramer):** cada incógnita es un determinante entre el determinante principal.\n\n**Imagínalo:** es un cuadro de 9 números. Multiplicas por diagonales: tres suman y tres restan.\n\n**Regla de Sarrus:**\n\n$$\\begin{vmatrix} a & b & c \\\\ d & e & f \\\\ g & h & i \\end{vmatrix} = aei + bfg + cdh - ceg - bdi - afh$$\n\n**Ceros:** si todo fuera de la diagonal es 0, solo multiplica la diagonal. Con 2, 3 y 4: 24.\n\n**Cramer:** $x = \\frac{D_x}{D}$. Para $D_x$, cambia la columna de $x$ por los resultados. Para $D_y$, la columna de $y$.\n\n**Fácil de arriba abajo:** si ya sabes $z$, sustituye hacia arriba.\n\nCon $z = 2$ y $y + z = 5$: $y = 3$.\n\n**Para tu escuela:** dibuja las seis diagonales con colores.",
 "truco": "Tres diagonales suman y tres restan.",
 "practica": {
 "ejercicio": "Calcula $\\begin{vmatrix} 1 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 3 \\end{vmatrix}$.",
@@ -400,7 +400,7 @@
 ],
 "contenido": {
 "idea": "Entre dos puntos del plano se forma un triángulo rectángulo escondido. Con Pitágoras mides la línea recta entre ellos.",
-"pizarron": "**La regla:** $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. Es Pitágoras en el plano.\n\nFórmula:\n\n$$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n\nEjemplo: $A(1, 2)$ y $B(4, 6)$.\n\n$$d = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$$\n\nCon negativos: $(-2, 3)$ y $(4, -5)$.\n\n$$d = \\sqrt{6^2 + (-8)^2} = \\sqrt{100} = 10$$\n\nEl orden de los puntos no importa.",
+"pizarron": "**La regla:** $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. Es Pitágoras en el plano.\n\n**Imagínalo:** vas de tu casa a la tienda en línea recta. El camino de lado y el de arriba forman un triángulo.\n\n**En palabras:** resta las $x$, resta las $y$, eleva cada una, suma y saca raíz.\n\n**Ejemplo:** $A(1, 2)$ y $B(4, 6)$.\n\n$$d = \\sqrt{3^2 + 4^2} = \\sqrt{25} = 5$$\n\n**Con negativos:** $(-2, 3)$ y $(4, -5)$.\n\n$$d = \\sqrt{6^2 + 8^2} = 10$$\n\nUn número negativo al cuadrado sale positivo. El orden de los puntos no importa.\n\n**Para tu escuela:** marca dos puntos en papel cuadriculado y mide.",
 "truco": "Es Pitágoras con coordenadas.",
 "practica": {
 "ejercicio": "Distancia entre $(0, 0)$ y $(6, 8)$.",
@@ -444,7 +444,7 @@
 ],
 "contenido": {
 "idea": "El punto medio es el lugar justo para que dos amigos que viven en distintas casas caminen lo mismo. Sus coordenadas son promedios.",
-"pizarron": "**La regla:** el punto medio es el promedio de las coordenadas: $M = (\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})$.\n\nFórmula:\n\n$$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$$\n\nEjemplo: $A(2, 3)$ y $B(8, 9)$.\n\n$$M = (5, 6)$$\n\nEncontrar un extremo: si $M(3, 4)$ y $A(1, 2)$, entonces:\n\n$$\\frac{1 + x}{2} = 3 \\Rightarrow x = 5$$\n$$\\frac{2 + y}{2} = 4 \\Rightarrow y = 6$$\n\n$B(5, 6)$.",
+"pizarron": "**La regla:** el punto medio es el promedio de las coordenadas: $M = (\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2})$.\n\n**Imagínalo:** dos amigos quieren verse a la mitad del camino.\n\n**En palabras:** suma las $x$ y divide entre 2. Haz lo mismo con las $y$.\n\n**Ejemplo:** $(2, 3)$ y $(8, 9)$ dan $(5, 6)$.\n\n**Con negativos:** $(-4, 2)$ y $(2, 4)$ dan $(-1, 3)$.\n\n**Al revés:** si $M(3, 4)$ y $A(1, 2)$: $\\frac{1 + x}{2} = 3$, y $x = 5$. Con $y$: $\\frac{2 + y}{2} = 4$, y $y = 6$.\n\n**Para tu escuela:** marca dos puntos en tu cuaderno y busca la mitad.",
 "truco": "Promedio de equis y promedio de ye.",
 "practica": {
 "ejercicio": "Punto medio de $(0, 0)$ y $(6, 10)$.",

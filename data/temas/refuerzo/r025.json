@@ -10,7 +10,7 @@
 ],
 "contenido": {
 "idea": "Algunos trinomios son un cuadrado disfrazado. Si reconoces el patrón, los regresas a su forma corta de un solo golpe.",
-"pizarron": "**La regla:** $a^2 + 2ab + b^2 = (a + b)^2$.\n\nForma:\n\n$$a^2 \\pm 2ab + b^2 = (a \\pm b)^2$$\n\nCómo reconocerlo:\n\n1. Primer y último término son cuadrados perfectos y positivos.\n2. El de en medio es el doble del producto de sus raíces.\n\nEjemplo: $x^2 + 10x + 25$.\n\n- Raíces: $x$ y 5.\n- Doble: $2(x)(5) = 10x$. Coincide.\n- Resultado: $(x + 5)^2$.\n\nEjemplo: $4y^2 - 12y + 9 = (2y - 3)^2$.\n\nEl signo del binomio es el del término de en medio.",
+"pizarron": "**La regla:** $a^2 + 2ab + b^2 = (a + b)^2$.\n\n**Imagínalo:** un cuadrado grande, uno chico y dos rectángulos iguales forman un cuadrado perfecto.\n\n**Cómo reconocerlo:**\n\n1. Primero y último tienen raíz exacta.\n2. El de en medio es el doble de las raíces.\n\n**Ejemplo:** $x^2 + 10x + 25$. Raíces $x$ y 5. Doble: $10x$. Es $(x + 5)^2$.\n\n**Con resta:** $4y^2 - 12y + 9 = (2y - 3)^2$. El signo es el del medio.\n\n**Si no coincide el doble,** no es cuadrado perfecto. En $x^2 + 4x + 9$, el doble sería $6x$.\n\n**Para tu escuela:** arma el cuadrado de $(x + 1)^2$ con papel.",
 "truco": "Raíz del primero, signo del medio, raíz del último.",
 "practica": {
 "ejercicio": "Factoriza $x^2 + 6x + 9$.",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "Es un juego de adivinar: dos números secretos multiplican $c$ y suman $b$. Encuéntralos y el trinomio se abre.",
-"pizarron": "**La regla:** busca dos números que multiplicados den $c$ y sumados den $b$.\n\n$$x^2 + bx + c = (x + m)(x + n)$$\n\ndonde $m \\cdot n = c$ y $m + n = b$.\n\nEjemplo: $x^2 + 11x + 24$.\n\n- Parejas de 24: 1 y 24, 2 y 12, 3 y 8, 4 y 6.\n- Suman 11: 3 y 8.\n- $(x + 3)(x + 8)$.\n\nSignos:\n\n- $c$ positivo: mismos signos, los de $b$.\n- $c$ negativo: signos distintos.\n\nEjemplo: $x^2 - 2x - 15 = (x - 5)(x + 3)$.\n\nComprueba multiplicando.",
+"pizarron": "**La regla:** busca dos números que multiplicados den $c$ y sumados den $b$.\n\n**Imagínalo:** es una adivinanza: ¿qué dos números multiplican 24 y suman 11?\n\n**Ejemplo:** $x^2 + 11x + 24$. Parejas de 24: 1 y 24, 2 y 12, 3 y 8. Suman 11: 3 y 8. Queda $(x + 3)(x + 8)$.\n\n**Signos:**\n\n- Último positivo: los dos con el signo del medio.\n- Último negativo: uno y uno.\n\n**Ejemplo:** $x^2 - 2x - 15 = (x - 5)(x + 3)$.\n\n**Comprueba** multiplicando.\n\n**Para tu escuela:** inventa una adivinanza con dos números.",
 "truco": "c dice cómo multiplican; b dice cómo suman.",
 "practica": {
 "ejercicio": "Factoriza $x^2 + 8x + 12$.",
@@ -98,7 +98,7 @@
 ],
 "contenido": {
 "idea": "Cuando hay un número enfrente de $x^2$, se complica un poco. El método ac lo convierte en un problema de agrupar parejas.",
-"pizarron": "**La regla:** busca dos números que multiplicados den $ac$ y sumados den $b$, y factoriza por agrupación.\n\nMétodo $ac$ para $6x^2 + 11x + 3$:\n\n1. Multiplica $a \\times c = 18$.\n2. Busca dos números que multipliquen 18 y sumen 11: 9 y 2.\n3. Separa el término de en medio:\n\n$$6x^2 + 9x + 2x + 3$$\n\n4. Agrupa:\n\n$$3x(2x + 3) + 1(2x + 3)$$\n\n5. Factoriza:\n\n$$(2x + 3)(3x + 1)$$\n\nEjemplo: $2x^2 - 5x - 3$.\n\n- $ac = -6$; números -6 y 1.\n- $2x^2 - 6x + x - 3 = (2x + 1)(x - 3)$.",
+"pizarron": "**La regla:** busca dos números que multiplicados den $ac$ y sumados den $b$, y factoriza por agrupación.\n\n**Imagínalo:** partes el término de en medio en dos, para poder hacer parejas.\n\n**Ejemplo:** $6x^2 + 11x + 3$.\n\n1. Multiplica: $6 \\times 3 = 18$.\n2. Busca dos que multipliquen 18 y sumen 11: 9 y 2.\n3. Parte: $6x^2 + 9x + 2x + 3$.\n4. Agrupa: $3x(2x + 3) + 1(2x + 3)$.\n5. Queda: $(2x + 3)(3x + 1)$.\n\n**Con negativos:** $2x^2 - 5x - 3$. Números $-6$ y 1. Queda $(2x + 1)(x - 3)$.\n\n**Comprueba** multiplicando.\n\n**Para tu escuela:** busca dos números que multipliquen 12 y sumen 8.",
 "truco": "Multiplica a por c, separa el medio y agrupa.",
 "practica": {
 "ejercicio": "Factoriza $2x^2 + 7x + 3$.",
@@ -142,7 +142,7 @@
 ],
 "contenido": {
 "idea": "Dos cubos sumados o restados también tienen su propio molde. Salen dos paréntesis: uno corto y otro largo.",
-"pizarron": "**La regla:** $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$ y $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$.\n\nFórmulas:\n\n$$a^3 + b^3 = (a + b)(a^2 - ab + b^2)$$\n\n$$a^3 - b^3 = (a - b)(a^2 + ab + b^2)$$\n\nEjemplo: $x^3 + 8$.\n\n- $a = x$, $b = 2$.\n- $(x + 2)(x^2 - 2x + 4)$.\n\nEjemplo: $27y^3 - 1$.\n\n- $a = 3y$, $b = 1$.\n- $(3y - 1)(9y^2 + 3y + 1)$.\n\nCubos útiles: 1, 8, 27, 64, 125, 216.",
+"pizarron": "**La regla:** $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$ y $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$.\n\n**Imagínalo:** es una plantilla. Pones $a$ y $b$ en sus lugares.\n\n**Pasos:** saca raíz cúbica de cada uno.\n\n**Signos:** el primero es igual al de la fórmula. El de en medio, contrario. El último, siempre más.\n\n**Ejemplo:** $x^3 + 8$. Raíces $x$ y 2.\n\n$$(x + 2)(x^2 - 2x + 4)$$\n\n**Ejemplo:** $27y^3 - 1$. Raíces $3y$ y 1.\n\n$$(3y - 1)(9y^2 + 3y + 1)$$\n\n**Cubos útiles:** 1, 8, 27, 64, 125.\n\n**Para tu escuela:** escribe los cubos del 1 al 5.",
 "truco": "Mismo signo, opuesto y siempre positivo.",
 "practica": {
 "ejercicio": "Factoriza $x^3 - 27$.",
@@ -185,7 +185,7 @@
 ],
 "contenido": {
 "idea": "Una fracción algebraica se simplifica igual que $\\frac{6}{8}$: buscas algo que multiplica arriba y abajo y lo cancelas.",
-"pizarron": "**La regla:** factoriza arriba y abajo, y cancela los factores iguales.\n\nPasos:\n\n1. Factoriza numerador y denominador.\n2. Cancela factores iguales.\n\nEjemplo:\n\n$$\\frac{x^2 - 9}{x^2 + 5x + 6} = \\frac{(x + 3)(x - 3)}{(x + 3)(x + 2)} = \\frac{x - 3}{x + 2}$$\n\nSolo se cancelan **factores**, no términos sumados.\n\nError: $\\frac{x + 3}{x}$ no es $3$.\n\nRestricción: el denominador original no puede ser 0. Aquí $x \\ne -3$ y $x \\ne -2$.\n\nFactor opuesto: $\\frac{a - b}{b - a} = -1$.",
+"pizarron": "**La regla:** factoriza arriba y abajo, y cancela los factores iguales.\n\n**Imagínalo:** $\\frac{6}{8} = \\frac{3}{4}$. Sacas lo que se repite arriba y abajo. Con letras es igual.\n\n**Ejemplo:**\n\n$$\\frac{x^2 - 9}{x^2 + 5x + 6} = \\frac{(x + 3)(x - 3)}{(x + 3)(x + 2)} = \\frac{x - 3}{x + 2}$$\n\n**Factor común:** $\\frac{3x + 6}{x + 2} = \\frac{3(x + 2)}{x + 2} = 3$.\n\n**Solo se cancela lo que multiplica.** $\\frac{x + 3}{x}$ no da 3.\n\n**Opuestos:** $\\frac{a - b}{b - a} = -1$.\n\n**Para tu escuela:** simplifica $\\frac{12}{18}$ y di qué cancelaste.",
 "truco": "Solo cancela lo que multiplica, nunca lo que suma.",
 "practica": {
 "ejercicio": "Simplifica $\\frac{2x + 6}{x + 3}$.",
@@ -228,7 +228,7 @@
 ],
 "contenido": {
 "idea": "Es la misma regla de las fracciones numéricas: primero el mismo piso, y después se juntan los de arriba.",
-"pizarron": "**La regla:** busca un denominador común y luego suma o resta los numeradores.\n\nPasos:\n\n1. Factoriza los denominadores.\n2. Encuentra el mcm.\n3. Convierte cada fracción.\n4. Suma numeradores.\n5. Simplifica.\n\nEjemplo:\n\n$$\\frac{3}{x} + \\frac{2}{x + 1} = \\frac{3(x + 1) + 2x}{x(x + 1)} = \\frac{5x + 3}{x(x + 1)}$$\n\nEjemplo:\n\n$$\\frac{1}{x - 2} - \\frac{4}{x^2 - 4}$$\n\nmcm: $(x + 2)(x - 2)$.\n\n$$= \\frac{x + 2 - 4}{(x + 2)(x - 2)} = \\frac{x - 2}{(x + 2)(x - 2)} = \\frac{1}{x + 2}$$\n\nCuando se resta, cuida el signo en todo el numerador.",
+"pizarron": "**La regla:** busca un denominador común y luego suma o resta los numeradores.\n\n**Imagínalo:** solo se suman pedazos del mismo tamaño.\n\n**Mismo denominador:** suma arriba y deja abajo. $\\frac{2}{x} + \\frac{3}{x} = \\frac{5}{x}$.\n\n**Distinto denominador:** cruza.\n\n$$\\frac{a}{b} + \\frac{c}{d} = \\frac{ad + bc}{bd}$$\n\n**Ejemplo:**\n\n$$\\frac{3}{x} + \\frac{2}{x + 1} = \\frac{3(x + 1) + 2x}{x(x + 1)} = \\frac{5x + 3}{x(x + 1)}$$\n\n**Binomios conjugados:** $(x + 2)(x - 2) = x^2 - 4$.\n\n**Al restar,** cuida el signo de todo lo de arriba.\n\n**Para tu escuela:** suma $\\frac{1}{2} + \\frac{1}{3}$ con pedazos de papel.",
 "truco": "Mismo denominador, luego simplifica.",
 "practica": {
 "ejercicio": "Suma $\\frac{1}{x} + \\frac{2}{x}$.",
@@ -272,7 +272,7 @@
 ],
 "contenido": {
 "idea": "Aquí no necesitas denominador común. Factorizas todo, cancelas lo que se pueda y multiplicas lo poco que queda.",
-"pizarron": "**La regla:** para multiplicar, multiplica en línea recta. Para dividir, voltea la segunda fracción.\n\n**Multiplicar**: factoriza, cancela y multiplica.\n\n$$\\frac{x^2 - 4}{x + 1} \\cdot \\frac{x + 1}{x + 2} = \\frac{(x + 2)(x - 2)}{x + 1} \\cdot \\frac{x + 1}{x + 2} = x - 2$$\n\n**Dividir**: invierte la segunda y multiplica.\n\n$$\\frac{x}{x + 3} \\div \\frac{x^2}{x^2 - 9} = \\frac{x}{x + 3} \\cdot \\frac{(x + 3)(x - 3)}{x^2} = \\frac{x - 3}{x}$$\n\nCancela solo factores completos.",
+"pizarron": "**La regla:** para multiplicar, multiplica en línea recta. Para dividir, voltea la segunda fracción.\n\n**Imagínalo:** lo que está igual arriba y abajo se cancela, como un paso adelante y uno atrás.\n\n**Multiplicar:** factoriza, cancela y multiplica.\n\n$$\\frac{x^2 - 4}{x + 1} \\cdot \\frac{x + 1}{x + 2} = x - 2$$\n\n**En palabras:** $x^2 - 4$ es $(x + 2)(x - 2)$. Se van $x + 1$ y $x + 2$.\n\n**Con letras solas:** $\\frac{3}{x} \\cdot \\frac{x^2}{6} = \\frac{x}{2}$.\n\n**Dividir:** $\\frac{x}{y} \\div \\frac{x}{y^2} = \\frac{x}{y} \\cdot \\frac{y^2}{x} = y$.\n\n**Cuidado:** cancela solo lo que multiplica, nunca lo que suma.\n\n**Para tu escuela:** cancela en $\\frac{2 \\times 5}{5 \\times 3}$.",
 "truco": "Factoriza primero; multiplica al final.",
 "practica": {
 "ejercicio": "Multiplica $\\frac{2}{x} \\cdot \\frac{x^2}{4}$.",
@@ -316,7 +316,7 @@
 ],
 "contenido": {
 "idea": "Cuando una ecuación tiene fracciones, multiplicar todo por el mcm es como limpiar la mesa antes de trabajar: desaparecen los denominadores.",
-"pizarron": "**La regla:** multiplica toda la ecuación por el denominador común.\n\nPasos:\n\n1. Encuentra el mcm de denominadores.\n2. Multiplica cada término.\n3. Resuelve.\n\nEjemplo:\n\n$$\\frac{x - 1}{3} + \\frac{x}{2} = 4$$\n\nmcm = 6:\n\n$$2(x - 1) + 3x = 24$$\n\n$$5x - 2 = 24$$\n\n$$x = \\frac{26}{5}$$\n\nCon incógnita abajo:\n\n$$\\frac{3}{x} = \\frac{1}{4} \\Rightarrow x = 12$$\n\nDescarta valores que hagan 0 un denominador.",
+"pizarron": "**La regla:** multiplica toda la ecuación por el denominador común.\n\n**Imagínalo:** las fracciones son pedazos. Si multiplicas todo, los pedazos se vuelven enteros y es más fácil.\n\n**Pasos:**\n\n1. Busca el número que dividen todos los de abajo.\n2. Multiplica cada término, también los enteros.\n3. Resuelve.\n\n**Ejemplo:** $\\frac{x}{2} + \\frac{x}{3} = 5$. Multiplica por 6.\n\n$$3x + 2x = 30, \\quad x = 6$$\n\n**Con paréntesis:** $\\frac{x - 1}{3} = 2$ da $x - 1 = 6$, y $x = 7$.\n\n**Letra abajo:** $\\frac{3}{x} = \\frac{1}{4}$ da $x = 12$. El de abajo nunca puede ser 0.\n\n**Para tu escuela:** resuelve $\\frac{x}{4} = 3$ con pedazos de papel.",
 "truco": "Mcm a todos los términos, incluidos los enteros.",
 "practica": {
 "ejercicio": "Resuelve $\\frac{x}{3} - \\frac{x}{4} = 2$.",
@@ -360,7 +360,7 @@
 ],
 "contenido": {
 "idea": "Una fórmula es un candado con varias letras. Despejar es poner una letra sola para calcularla directamente.",
-"pizarron": "**La regla:** deja sola la letra que buscas, haciendo la misma operación en ambos lados.\n\nDespeja igual que en una ecuación, pero con letras.\n\nEjemplo: despeja $t$ de $d = vt$.\n\n$$t = \\frac{d}{v}$$\n\nEjemplo: despeja $h$ de $A = \\frac{bh}{2}$.\n\n$$2A = bh \\Rightarrow h = \\frac{2A}{b}$$\n\nEjemplo: despeja $v_0$ de $v = v_0 + at$.\n\n$$v_0 = v - at$$\n\nEjemplo con cuadrado: despeja $r$ de $A = \\pi r^2$.\n\n$$r = \\sqrt{\\frac{A}{\\pi}}$$\n\nDespeja antes de sustituir números.",
+"pizarron": "**La regla:** deja sola la letra que buscas, haciendo la misma operación en ambos lados.\n\n**Imagínalo:** es desenvolver un regalo. Quitas capa por capa, de afuera hacia adentro.\n\n**Opuestos:** suma con resta. Multiplicar con dividir. Cuadrado con raíz.\n\n**Ejemplo:** $d = vt$. Divide entre $v$: $t = \\frac{d}{v}$.\n\n**Ejemplo:** $v = v_0 + at$. Resta $at$: $v_0 = v - at$.\n\n**Ejemplo:** $A = \\frac{bh}{2}$. Multiplica por 2 y divide entre $b$: $h = \\frac{2A}{b}$.\n\n**Con cuadrado:** $A = \\pi r^2$. Divide y saca raíz: $r = \\sqrt{\\frac{A}{\\pi}}$.\n\n**Para tu escuela:** despeja el ancho de $A = \\text{largo} \\times \\text{ancho}$.",
 "truco": "Deshaz en orden inverso: suma, multiplica y raíz al final.",
 "practica": {
 "ejercicio": "Despeja $m$ de $F = ma$.",
@@ -404,7 +404,7 @@
 ],
 "contenido": {
 "idea": "Una ecuación tiene una respuesta; una desigualdad tiene muchas. Si necesitas más de 6 para pasar, cualquier calificación mayor funciona.",
-"pizarron": "**La regla:** se resuelven como ecuaciones, pero si multiplicas o divides entre un negativo, el signo se voltea.\n\nSe resuelve como una ecuación, con una regla especial:\n\n**Al multiplicar o dividir por negativo, se invierte el signo.**\n\nEjemplo:\n\n$$3x - 5 < 10$$\n\n$$3x < 15$$\n\n$$x < 5$$\n\nEjemplo con negativo:\n\n$$-2x \\ge 8$$\n\n$$x \\le -4$$\n\nSolución como intervalo:\n\n- $x < 5$: $(-\\infty, 5)$.\n- $x \\ge 2$: $[2, \\infty)$.\n\nEn la recta: círculo abierto para $<$ y cerrado para $\\le$.\n\nDoble desigualdad: $1 < 2x + 3 < 9$ da $-1 < x < 3$.",
+"pizarron": "**La regla:** se resuelven como ecuaciones, pero si multiplicas o divides entre un negativo, el signo se voltea.\n\n**Imagínalo:** 2 es menor que 5. Pero $-2$ es mayor que $-5$. Por eso se voltea.\n\n**Ejemplo:** $3x - 5 < 10$. Suma 5: $3x < 15$. Divide: $x < 5$.\n\n**Con negativo:** $-2x \\ge 8$. Divide entre $-2$: $x \\le -4$.\n\n**Quitar la $x$ negativa:** $4 - x \\ge 1$ da $-x \\ge -3$, y $x \\le 3$.\n\n**Como intervalo:**\n\n- $x > 2$ es $(2, \\infty)$.\n- $x \\ge 2$ es $[2, \\infty)$.\n\nEl corchete incluye el número. El paréntesis no.\n\n**Para tu escuela:** escribe con signos *debo tener al menos 15 años*.",
 "truco": "Divides entre negativo: voltea el signo.",
 "practica": {
 "ejercicio": "Resuelve $2x + 1 > 7$.",

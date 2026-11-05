@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "El punto decimal es como un elevador. Al multiplicar por 10 sube el valor y el punto corre a la derecha; al dividir, baja y corre a la izquierda.",
-"pizarron": "**La regla:** al multiplicar, el punto se recorre a la derecha; al dividir, a la izquierda. Se recorren tantos lugares como ceros tenga el número.\n\n**Multiplicar**: mueve el punto a la **derecha**.\n\n- 3.45 × 10 = 34.5\n- 3.45 × 100 = 345\n- 3.45 × 1000 = 3 450\n\n**Dividir**: mueve el punto a la **izquierda**.\n\n- 3.45 ÷ 10 = 0.345\n- 3.45 ÷ 100 = 0.0345\n\nMueve tantos lugares como ceros tenga el número. Si faltan cifras, rellena con ceros.\n\nEjemplo: 7 ÷ 1000.\n\n- 7 = 7.0\n- Tres lugares a la izquierda: **0.007**.\n\nRevisa: al multiplicar por 10 el número debe crecer; al dividir, debe hacerse más chico.",
+"pizarron": "**La regla:** al multiplicar, el punto se recorre a la derecha; al dividir, a la izquierda. Se recorren tantos lugares como ceros tenga el número.\n\n**Multiplicar**: mueve el punto a la **derecha**.\n\n- 3.45 × 10 = 34.5\n- 3.45 × 100 = 345\n- 3.45 × 1000 = 3 450\n\n**Dividir**: mueve el punto a la **izquierda**.\n\n- 3.45 ÷ 10 = 0.345\n- 3.45 ÷ 100 = 0.0345\n\nMueve tantos lugares como ceros tenga el número. Si faltan cifras, rellena con ceros.\n\nEjemplo: 7 ÷ 1000.\n\n- 7 = 7.0\n- Tres lugares a la izquierda: **0.007**.\n\nRevisa: al multiplicar por 10 el número debe crecer; al dividir, debe hacerse más chico.\n\n**Para tu escuela:** convierte 1.5 m a centímetros.",
 "truco": "Por: punto a la derecha. Entre: punto a la izquierda.",
 "practica": {
 "ejercicio": "Calcula 5.6 × 100",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Repartir 7.50 pesos entre 3 niños funciona como cualquier reparto. Lo único nuevo es que el punto sube derecho al resultado.",
-"pizarron": "**La regla:** divide normal y sube el punto al resultado justo arriba de donde está.\n\nCuando el decimal está **adentro** de la casita:\n\n1. Divide normal.\n2. Al llegar al punto, **súbelo** al cociente.\n3. Sigue dividiendo.\n\nEjemplo: 7.5 ÷ 3\n\n- 7 ÷ 3 = 2, residuo 1.\n- Sube el punto: 2.\n- Baja el 5: queda 15.\n- 15 ÷ 3 = 5.\n\nResultado: **2.5**.\n\nSi la primera cifra no alcanza, pon 0:\n\n- 0.84 ÷ 4 = 0.21.\n\nSi aún sobra, agrega ceros a la derecha y sigue: 2.5 ÷ 4 = 2.50 ÷ 4 = 0.625, usando 2.500.",
+"pizarron": "**La regla:** divide normal y sube el punto al resultado justo arriba de donde está.\n\nCuando el decimal está **adentro** de la casita:\n\n1. Divide normal.\n2. Al llegar al punto, **súbelo** al cociente.\n3. Sigue dividiendo.\n\nEjemplo: 7.5 ÷ 3\n\n- 7 ÷ 3 = 2, residuo 1.\n- Sube el punto: 2.\n- Baja el 5: queda 15.\n- 15 ÷ 3 = 5.\n\nResultado: **2.5**.\n\nSi la primera cifra no alcanza, pon 0:\n\n- 0.84 ÷ 4 = 0.21.\n\nSi aún sobra, agrega ceros a la derecha y sigue: 2.5 ÷ 4 = 2.50 ÷ 4 = 0.625, usando 2.500.\n\n**Para tu escuela:** reparte 7.50 pesos entre 3 amigos.",
 "truco": "Punto adentro: súbelo derecho al cociente.",
 "practica": {
 "ejercicio": "Resuelve 9.6 ÷ 3",
@@ -98,7 +98,7 @@
 ],
 "contenido": {
 "idea": "Si dividir se ve difícil por el punto de afuera, conviértelo en entero. Solo tienes que mover el punto igual en ambos números, y el resultado no cambia.",
-"pizarron": "**La regla:** recorre el punto del divisor hasta que sea entero, y recorre lo mismo en el dividendo.\n\nPasos:\n\n1. Recorre el punto del **divisor** hasta que sea entero.\n2. Recorre el punto del **dividendo** los mismos lugares.\n3. Divide normal.\n\nEjemplo: 7.2 ÷ 0.3\n\n- Mueve un lugar: 72 ÷ 3.\n- Resultado: **24**.\n\nEjemplo: 6 ÷ 0.25\n\n- Divisor: dos lugares → 25.\n- Dividendo: 6 → 600.\n- 600 ÷ 25 = **24**.\n\nFunciona porque es como multiplicar ambos por 10 o por 100.\n\nComprueba: 24 × 0.25 = 6.",
+"pizarron": "**La regla:** recorre el punto del divisor hasta que sea entero, y recorre lo mismo en el dividendo.\n\nPasos:\n\n1. Recorre el punto del **divisor** hasta que sea entero.\n2. Recorre el punto del **dividendo** los mismos lugares.\n3. Divide normal.\n\nEjemplo: 7.2 ÷ 0.3\n\n- Mueve un lugar: 72 ÷ 3.\n- Resultado: **24**.\n\nEjemplo: 6 ÷ 0.25\n\n- Divisor: dos lugares → 25.\n- Dividendo: 6 → 600.\n- 600 ÷ 25 = **24**.\n\nFunciona porque es como multiplicar ambos por 10 o por 100.\n\nComprueba: 24 × 0.25 = 6.\n\n**Para tu escuela:** calcula cuántas botellas de 0.5 L llenas con 3 L.",
 "truco": "Lo que se mueve afuera, se mueve igual adentro.",
 "practica": {
 "ejercicio": "Resuelve 4.8 ÷ 0.6",
@@ -143,7 +143,7 @@
 ],
 "contenido": {
 "idea": "Si repartes 5 panes entre 2 personas, a cada una le toca 2 panes y sobra 1. Puedes partirlo: a cada quien le toca 2 y medio. Partir el residuo es seguir con decimales.",
-"pizarron": "**La regla:** si sobra residuo, pon punto en el resultado, agrega un cero al residuo y sigue dividiendo.\n\nCuando sobra un residuo, puedes seguir:\n\n1. Pon el **punto** en el cociente.\n2. Agrega un **0** al residuo.\n3. Sigue dividiendo.\n\nEjemplo: 7 ÷ 4\n\n- 7 ÷ 4 = 1, residuo 3.\n- Punto y 0: 30.\n- 30 ÷ 4 = 7, residuo 2.\n- Agrega 0: 20.\n- 20 ÷ 4 = 5, residuo 0.\n\nResultado: **1.75**.\n\nA veces nunca termina:\n\n- 10 ÷ 3 = 3.333...\n\nEs un decimal **periódico**. Se puede redondear: 3.33.",
+"pizarron": "**La regla:** si sobra residuo, pon punto en el resultado, agrega un cero al residuo y sigue dividiendo.\n\nCuando sobra un residuo, puedes seguir:\n\n1. Pon el **punto** en el cociente.\n2. Agrega un **0** al residuo.\n3. Sigue dividiendo.\n\nEjemplo: 7 ÷ 4\n\n- 7 ÷ 4 = 1, residuo 3.\n- Punto y 0: 30.\n- 30 ÷ 4 = 7, residuo 2.\n- Agrega 0: 20.\n- 20 ÷ 4 = 5, residuo 0.\n\nResultado: **1.75**.\n\nA veces nunca termina:\n\n- 10 ÷ 3 = 3.333...\n\nEs un decimal **periódico**. Se puede redondear: 3.33.\n\n**Para tu escuela:** reparte 7 hojas entre 2 y sigue dividiendo con decimales.",
 "truco": "Punto arriba y cero abajo: sigue dividiendo.",
 "practica": {
 "ejercicio": "Resuelve 9 ÷ 2 con decimales.",
@@ -187,7 +187,7 @@
 ],
 "contenido": {
 "idea": "Si en una receta de agua de limón hay 2 limones por cada litro, esa comparación es una razón: dice cuánto de una cosa va por cada cantidad de otra.",
-"pizarron": "**Qué es:** una razón compara dos cantidades mediante una división.\n\nUna **razón** compara dos cantidades por división.\n\nSe escribe de tres formas:\n\n- 3 a 4\n- 3 : 4\n- $\\frac{3}{4}$\n\nEjemplo: en un grupo hay 12 niñas y 8 niños.\n\n- Razón de niñas a niños: 12 : 8.\n- Simplificada: **3 : 2**.\n- Significa: por cada 3 niñas hay 2 niños.\n\nEl orden importa: niños a niñas sería 2 : 3.\n\nUna **proporción** es la igualdad de dos razones:\n\n$$\\frac{3}{2} = \\frac{12}{8}$$\n\nUsos: recetas, mezclas de pintura, escalas y velocidad.",
+"pizarron": "**Qué es:** una razón compara dos cantidades mediante una división.\n\n**Imagínalo:** por cada 3 niñas hay 2 niños. Eso es una razón.\n\n**Se escribe:** 3 a 2, 3 : 2 o $\\frac{3}{2}$.\n\n**Simplificar:** 12 : 8 entre 4 es 3 : 2.\n\nEl orden importa.\n\n**Proporción:** dos razones iguales. Si son 3 : 2 y hay 6 niñas, hay 4 niños.\n\n**Por hora:** 100 km en 2 horas son 50 km por hora.\n\n**Para tu escuela:** escribe la razón de niñas a niños de tu salón.",
 "truco": "Razón se lee por cada.",
 "practica": {
 "ejercicio": "Hay 10 manzanas y 5 peras. ¿Cuál es la razón simplificada de manzanas a peras?",
@@ -231,7 +231,7 @@
 ],
 "contenido": {
 "idea": "Si un taco cuesta 15 pesos, dos cuestan 30 y tres cuestan 45. Una tabla de proporcionalidad ordena esa relación para encontrar cualquier precio.",
-"pizarron": "**La regla:** en una tabla de proporcionalidad, todas las filas se multiplican por el mismo número.\n\nDos cantidades son **directamente proporcionales** si, cuando una se duplica, la otra también.\n\n| Tacos | 1 | 2 | 3 | 4 | 10 |\n|---|---|---|---|---|---|\n| Pesos | 15 | 30 | 45 | 60 | 150 |\n\n**Constante de proporcionalidad**: el número fijo por el que se multiplica. Aquí es 15.\n\nPara saber si una tabla es proporcional:\n\n1. Divide la segunda fila entre la primera.\n2. Si siempre da lo mismo, es proporcional.\n\nEjemplo no proporcional: 1 → 5, 2 → 8, porque 5 y 4 son distintos.\n\nPuedes llenar tablas multiplicando o sumando columnas.",
+"pizarron": "**La regla:** en una tabla de proporcionalidad, todas las filas se multiplican por el mismo número.\n\nDos cantidades son **directamente proporcionales** si, cuando una se duplica, la otra también.\n\n| Tacos | 1 | 2 | 3 | 4 | 10 |\n|---|---|---|---|---|---|\n| Pesos | 15 | 30 | 45 | 60 | 150 |\n\n**Constante de proporcionalidad**: el número fijo por el que se multiplica. Aquí es 15.\n\nPara saber si una tabla es proporcional:\n\n1. Divide la segunda fila entre la primera.\n2. Si siempre da lo mismo, es proporcional.\n\nEjemplo no proporcional: 1 → 5, 2 → 8, porque 5 y 4 son distintos.\n\nPuedes llenar tablas multiplicando o sumando columnas.\n\n**Para tu escuela:** haz una tabla con el precio de 1, 2 y 3 paletas.",
 "truco": "Si el doble da doble y el triple da triple, es proporcional.",
 "practica": {
 "ejercicio": "Si 3 cuadernos cuestan 60 pesos, ¿cuánto cuestan 5?",
@@ -275,7 +275,7 @@
 ],
 "contenido": {
 "idea": "Para saber qué paquete conviene, averigua cuánto cuesta una sola pieza. Ese precio de una pieza es el valor unitario.",
-"pizarron": "**Qué es:** el valor unitario es lo que vale una sola pieza. Se obtiene dividiendo el total entre las piezas.\n\nEl **valor unitario** es lo que corresponde a **una** unidad.\n\nSe obtiene dividiendo:\n\n**valor unitario = total ÷ cantidad**\n\nEjemplo: 6 refrescos cuestan 90 pesos.\n\n- 90 ÷ 6 = **15 pesos** por refresco.\n\nCon el valor unitario resuelves cualquier cantidad:\n\n- 8 refrescos: 8 × 15 = 120 pesos.\n\nSirve para comparar ofertas:\n\n- A: 3 jabones por 45 pesos → 15 c/u.\n- B: 5 jabones por 70 pesos → 14 c/u.\n- Conviene **B**.\n\nTambién se usa en velocidad: 240 km en 3 h son 80 km por hora.",
+"pizarron": "**Qué es:** el valor unitario es lo que vale una sola pieza. Se obtiene dividiendo el total entre las piezas.\n\nEl **valor unitario** es lo que corresponde a **una** unidad.\n\nSe obtiene dividiendo:\n\n**valor unitario = total ÷ cantidad**\n\nEjemplo: 6 refrescos cuestan 90 pesos.\n\n- 90 ÷ 6 = **15 pesos** por refresco.\n\nCon el valor unitario resuelves cualquier cantidad:\n\n- 8 refrescos: 8 × 15 = 120 pesos.\n\nSirve para comparar ofertas:\n\n- A: 3 jabones por 45 pesos → 15 c/u.\n- B: 5 jabones por 70 pesos → 14 c/u.\n- Conviene **B**.\n\nTambién se usa en velocidad: 240 km en 3 h son 80 km por hora.\n\n**Para tu escuela:** compara qué paquete de galletas sale más barato.",
 "truco": "Primero averigua cuánto vale uno, y luego lo que quieras.",
 "practica": {
 "ejercicio": "Si 5 lápices cuestan 35 pesos, ¿cuánto cuesta uno?",
@@ -319,7 +319,7 @@
 ],
 "contenido": {
 "idea": "Con tres datos encuentras el cuarto. Si sabes cuánto cuestan 4 piezas y quieres el precio de 10, la regla de tres es tu atajo.",
-"pizarron": "**La regla:** si dos cantidades son proporcionales, multiplica en cruz los dos datos conocidos y divide entre el tercero.\n\nSirve cuando dos cantidades son proporcionales y falta un dato.\n\nEjemplo: 4 cuadernos cuestan 60 pesos. ¿Cuánto cuestan 10?\n\n1. Acomoda los datos:\n\n| Cuadernos | Pesos |\n|---|---|\n| 4 | 60 |\n| 10 | $x$ |\n\n2. Multiplica en cruz los datos conocidos: 10 × 60 = 600.\n3. Divide entre el que queda: 600 ÷ 4 = **150**.\n\n$$x = \\frac{10 \\times 60}{4} = 150$$\n\nRespuesta: 150 pesos.\n\nRevisa: más cuadernos, más dinero. Tiene sentido.\n\nCuando una cantidad sube y otra baja, como trabajadores y días, esta regla simple no aplica igual.",
+"pizarron": "**La regla:** si dos cantidades son proporcionales, multiplica en cruz los dos datos conocidos y divide entre el tercero.\n\n**Imagínalo:** si 4 cuadernos cuestan 60, 10 cuestan más. La regla te dice cuánto.\n\n**Ejemplo:** 4 cuadernos, 60 pesos. ¿10 cuadernos?\n\n$$x = \\frac{10 \\times 60}{4} = 150$$\n\n**Pasos:**\n\n1. Acomoda los datos en dos columnas.\n2. Multiplica en cruz.\n3. Divide entre el que queda.\n\n**Revisa:** más cuadernos, más dinero.\n\n**Para tu escuela:** calcula el precio de 5 dulces si 2 cuestan 6 pesos.",
 "truco": "Multiplica en cruz y divide entre el que sobra.",
 "practica": {
 "ejercicio": "3 kg de naranja cuestan 45 pesos. ¿Cuánto cuestan 7 kg?",
@@ -364,7 +364,7 @@
 ],
 "contenido": {
 "idea": "Por ciento significa de cada cien. Si 25 % de una escuela usa lentes, por cada 100 alumnos hay 25 con lentes.",
-"pizarron": "**La regla:** para sacar un porcentaje, multiplica el número por el porcentaje y divide entre 100.\n\nPara sacar el porcentaje:\n\n**(porcentaje × cantidad) ÷ 100**\n\nEjemplo: 30 % de 200.\n\n- 30 × 200 = 6 000.\n- 6 000 ÷ 100 = **60**.\n\n**Con decimal**: 30 % = 0.30, y 0.30 × 200 = 60.\n\n**Atajos**:\n\n| Porcentaje | Cálculo |\n|---|---|\n| 10 % | Divide entre 10 |\n| 50 % | Divide entre 2 |\n| 25 % | Divide entre 4 |\n| 75 % | Tres veces 25 % |\n| 20 % | Dos veces 10 % |\n| 5 % | Mitad de 10 % |\n\nEjemplo: 15 % de 80.\n\n- 10 % = 8\n- 5 % = 4\n- Total **12**.",
+"pizarron": "**La regla:** para sacar un porcentaje, multiplica el número por el porcentaje y divide entre 100.\n\nPara sacar el porcentaje:\n\n**(porcentaje × cantidad) ÷ 100**\n\nEjemplo: 30 % de 200.\n\n- 30 × 200 = 6 000.\n- 6 000 ÷ 100 = **60**.\n\n**Con decimal**: 30 % = 0.30, y 0.30 × 200 = 60.\n\n**Atajos**:\n\n| Porcentaje | Cálculo |\n|---|---|\n| 10 % | Divide entre 10 |\n| 50 % | Divide entre 2 |\n| 25 % | Divide entre 4 |\n| 75 % | Tres veces 25 % |\n| 20 % | Dos veces 10 % |\n| 5 % | Mitad de 10 % |\n\nEjemplo: 15 % de 80.\n\n- 10 % = 8\n- 5 % = 4\n- Total **12**.\n\n**Para tu escuela:** calcula el 50 % de tu grupo.",
 "truco": "Saca el 10 % y construye los demás desde ahí.",
 "practica": {
 "ejercicio": "Calcula 20 % de 150.",

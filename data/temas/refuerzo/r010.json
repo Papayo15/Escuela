@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "El tiempo se cuenta de 60 en 60, no de 10 en 10. Por eso un minuto no tiene 100 segundos: tiene 60, una costumbre muy antigua.",
-"pizarron": "**La regla:** 1 hora tiene 60 minutos y 1 minuto tiene 60 segundos.\n\nEquivalencias:\n\n- 1 minuto = 60 segundos\n- 1 hora = 60 minutos\n- 1 día = 24 horas\n- 1 hora = 3 600 segundos\n\nConvertir:\n\n- De horas a minutos: multiplica por 60. 3 h = 180 min.\n- De minutos a horas: divide entre 60. 90 min = 1 h 30 min.\n\nEjemplo: 200 minutos.\n\n- 200 ÷ 60 = 3, residuo 20.\n- Son 3 h 20 min.\n\nReloj de 24 horas: después de las 12 sigue 13.\n\n- 15:00 son las 3 de la tarde.\n- 20:30 son las 8:30 de la noche.\n\nPara saber la hora de la tarde, resta 12.",
+"pizarron": "**La regla:** 1 hora tiene 60 minutos y 1 minuto tiene 60 segundos.\n\nEquivalencias:\n\n- 1 minuto = 60 segundos\n- 1 hora = 60 minutos\n- 1 día = 24 horas\n- 1 hora = 3 600 segundos\n\nConvertir:\n\n- De horas a minutos: multiplica por 60. 3 h = 180 min.\n- De minutos a horas: divide entre 60. 90 min = 1 h 30 min.\n\nEjemplo: 200 minutos.\n\n- 200 ÷ 60 = 3, residuo 20.\n- Son 3 h 20 min.\n\nReloj de 24 horas: después de las 12 sigue 13.\n\n- 15:00 son las 3 de la tarde.\n- 20:30 son las 8:30 de la noche.\n\nPara saber la hora de la tarde, resta 12.\n\n**Para tu escuela:** convierte tu recreo a segundos.",
 "truco": "En el reloj se cuenta de 60 en 60: al llegar a 60, cambia.",
 "practica": {
 "ejercicio": "¿Cuántos minutos son 2 horas y media?",
@@ -56,7 +56,7 @@
 ],
 "contenido": {
 "idea": "Saber cuánto duró una película es contar saltos en el reloj: primero a la hora exacta y luego los minutos que faltan.",
-"pizarron": "**La regla:** para saber cuánto duró algo, cuenta el tiempo desde que empezó hasta que terminó.\n\n**Método de saltos**: de 2:40 a 5:15.\n\n1. Salta a la siguiente hora: 2:40 → 3:00 son **20 min**.\n2. Salta horas completas: 3:00 → 5:00 son **2 h**.\n3. Salta los minutos: 5:00 → 5:15 son **15 min**.\n4. Suma: 2 h + 20 min + 15 min = **2 h 35 min**.\n\n**Saber a qué hora termina**: empieza a las 4:50 y dura 45 min.\n\n- 4:50 + 10 min = 5:00.\n- Faltan 35 min: 5:35.\n\nCuidado: al sumar minutos, si llegas a 60, se convierte en 1 hora.\n\n- 50 min + 30 min = 80 min = 1 h 20 min.",
+"pizarron": "**La regla:** para saber cuánto duró algo, cuenta el tiempo desde que empezó hasta que terminó.\n\n**Método de saltos**: de 2:40 a 5:15.\n\n1. Salta a la siguiente hora: 2:40 → 3:00 son **20 min**.\n2. Salta horas completas: 3:00 → 5:00 son **2 h**.\n3. Salta los minutos: 5:00 → 5:15 son **15 min**.\n4. Suma: 2 h + 20 min + 15 min = **2 h 35 min**.\n\n**Saber a qué hora termina**: empieza a las 4:50 y dura 45 min.\n\n- 4:50 + 10 min = 5:00.\n- Faltan 35 min: 5:35.\n\nCuidado: al sumar minutos, si llegas a 60, se convierte en 1 hora.\n\n- 50 min + 30 min = 80 min = 1 h 20 min.\n\n**Para tu escuela:** calcula cuánto dura tu clase más larga.",
 "truco": "Salta primero a la hora en punto.",
 "practica": {
 "ejercicio": "Una clase va de 9:30 a 11:00. ¿Cuánto dura?",
@@ -101,7 +101,7 @@
 ],
 "contenido": {
 "idea": "Una gráfica de barras son torres que compiten por altura. Sin leer un solo número, ya ves quién ganó.",
-"pizarron": "**Qué es:** una gráfica de barras compara cantidades: cada barra es un dato, y su altura dice cuánto vale.\n\nPartes de una gráfica de barras:\n\n- **Título**: de qué trata.\n- **Eje horizontal**: categorías, como materias.\n- **Eje vertical**: cantidades.\n- **Escala**: de cuánto en cuánto suben los números.\n- **Barras**: del mismo ancho y separadas.\n\nCómo leerla:\n\n1. Lee el título.\n2. Revisa la escala.\n3. Sigue la punta de la barra hasta el eje vertical.\n\nEjemplo: mango 8, plátano 5, fresa 7.\n\n- Barra más alta: mango.\n- Diferencia entre mango y plátano: 8 - 5 = 3.\n- Total: 8 + 5 + 7 = 20.\n\nSi la escala va de 5 en 5, una barra entre 10 y 15 vale más o menos 12 o 13.",
+"pizarron": "**Qué es:** una gráfica de barras compara cantidades: cada barra es un dato, y su altura dice cuánto vale.\n\nPartes de una gráfica de barras:\n\n- **Título**: de qué trata.\n- **Eje horizontal**: categorías, como materias.\n- **Eje vertical**: cantidades.\n- **Escala**: de cuánto en cuánto suben los números.\n- **Barras**: del mismo ancho y separadas.\n\nCómo leerla:\n\n1. Lee el título.\n2. Revisa la escala.\n3. Sigue la punta de la barra hasta el eje vertical.\n\nEjemplo: mango 8, plátano 5, fresa 7.\n\n- Barra más alta: mango.\n- Diferencia entre mango y plátano: 8 - 5 = 3.\n- Total: 8 + 5 + 7 = 20.\n\nSi la escala va de 5 en 5, una barra entre 10 y 15 vale más o menos 12 o 13.\n\n**Para tu escuela:** haz una gráfica de barras con los meses de cumpleaños de tu salón.",
 "truco": "Primero mira la escala; después lee las barras.",
 "practica": {
 "ejercicio": "Barras: lunes 12, martes 8. ¿Cuántos más hubo el lunes?",
@@ -145,7 +145,7 @@
 ],
 "contenido": {
 "idea": "Los centavos son decimales. Si algo cuesta 12.50 pesos, tienes 12 pesos enteros y 50 centavos. El punto separa lo entero de lo que es una parte.",
-"pizarron": "**La regla:** primero se lee lo que está antes del punto, y luego lo de después, con el nombre del último lugar: 2.35 es dos enteros treinta y cinco centésimos.\n\nEl **punto decimal** separa la parte entera de la parte decimal.\n\nEn 45.67:\n\n- 45 es la parte entera.\n- 67 es la parte decimal.\n\nCómo leer:\n\n1. Lee la parte entera.\n2. Di **punto** o **y**.\n3. Lee lo decimal con el nombre del último lugar.\n\nEjemplos:\n\n- 3.5: tres enteros, cinco décimos.\n- 12.08: doce enteros, ocho centésimos.\n- 0.125: ciento veinticinco milésimos.\n\nCeros:\n\n- 2.5 y 2.50 valen lo mismo.\n- 2.5 y 2.05 son distintos.\n\nEn México usamos punto decimal, aunque en otros países se usa coma.",
+"pizarron": "**La regla:** primero se lee lo que está antes del punto, y luego lo de después, con el nombre del último lugar: 2.35 es dos enteros treinta y cinco centésimos.\n\nEl **punto decimal** separa la parte entera de la parte decimal.\n\nEn 45.67:\n\n- 45 es la parte entera.\n- 67 es la parte decimal.\n\nCómo leer:\n\n1. Lee la parte entera.\n2. Di **punto** o **y**.\n3. Lee lo decimal con el nombre del último lugar.\n\nEjemplos:\n\n- 3.5: tres enteros, cinco décimos.\n- 12.08: doce enteros, ocho centésimos.\n- 0.125: ciento veinticinco milésimos.\n\nCeros:\n\n- 2.5 y 2.50 valen lo mismo.\n- 2.5 y 2.05 son distintos.\n\nEn México usamos punto decimal, aunque en otros países se usa coma.\n\n**Para tu escuela:** lee en voz alta precios con centavos.",
 "truco": "El último lugar da el nombre: décimos, centésimos o milésimos.",
 "practica": {
 "ejercicio": "¿Cómo se lee 7.09?",
@@ -190,7 +190,7 @@
 ],
 "contenido": {
 "idea": "Un entero se puede dividir en 10, luego en 100 y luego en 1000. Cada lugar después del punto vale diez veces menos que el de su izquierda.",
-"pizarron": "**Qué es:** el primer lugar después del punto son los décimos, el segundo los centésimos y el tercero los milésimos.\n\nLugares después del punto:\n\n| Lugar | Valor | Fracción |\n|---|---|---|\n| 1.º Décimos | 0.1 | $\\frac{1}{10}$ |\n| 2.º Centésimos | 0.01 | $\\frac{1}{100}$ |\n| 3.º Milésimos | 0.001 | $\\frac{1}{1000}$ |\n\nEjemplo: 4.275\n\n- 4 enteros\n- 2 décimos = 0.2\n- 7 centésimos = 0.07\n- 5 milésimos = 0.005\n\nSuma: 4 + 0.2 + 0.07 + 0.005 = 4.275.\n\n10 milésimos = 1 centésimo; 10 centésimos = 1 décimo; 10 décimos = 1 entero.",
+"pizarron": "**Qué es:** el primer lugar después del punto son los décimos, el segundo los centésimos y el tercero los milésimos.\n\n**Imagínalo:** un peso partido en 10, en 100 o en 1000 pedacitos.\n\n**Ejemplo:** 4.275.\n\n- 4 enteros.\n- 2 décimos: 0.2.\n- 7 centésimos: 0.07.\n- 5 milésimos: 0.005.\n\n**Descomponer:** $4 + 0.2 + 0.07 + 0.005$.\n\n10 décimos son 1 entero. 100 centésimos son 1 entero.\n\n**Para tu escuela:** escribe el precio de algo con centavos y di sus lugares.",
 "truco": "Una cifra decimal, décimos; dos, centésimos; tres, milésimos.",
 "practica": {
 "ejercicio": "En 3.462, ¿qué valor tiene el 6?",
@@ -234,7 +234,7 @@
 ],
 "contenido": {
 "idea": "En decimales, tener más cifras no significa valer más. 0.5 es más que 0.125, igual que medio pastel es más que un octavo.",
-"pizarron": "**La regla:** compara primero los enteros y luego las cifras decimales, una por una, de izquierda a derecha.\n\nPasos:\n\n1. Compara la parte entera.\n2. Si es igual, compara décimos.\n3. Luego centésimos y milésimos.\n4. Agrega ceros para igualar las cifras.\n\nEjemplo: 0.5 y 0.125.\n\n- 0.500 y 0.125\n- Como 500 > 125, entonces **0.5 > 0.125**.\n\nEjemplo: 3.09 y 3.1.\n\n- 3.09 y 3.10\n- 9 < 10, entonces 3.09 < 3.1.\n\nOrdenar de menor a mayor: 2.3, 2.03, 2.33.\n\n- Iguala: 2.30, 2.03, 2.33.\n- Orden: 2.03, 2.3, 2.33.",
+"pizarron": "**La regla:** compara primero los enteros y luego las cifras decimales, una por una, de izquierda a derecha.\n\nPasos:\n\n1. Compara la parte entera.\n2. Si es igual, compara décimos.\n3. Luego centésimos y milésimos.\n4. Agrega ceros para igualar las cifras.\n\nEjemplo: 0.5 y 0.125.\n\n- 0.500 y 0.125\n- Como 500 > 125, entonces **0.5 > 0.125**.\n\nEjemplo: 3.09 y 3.1.\n\n- 3.09 y 3.10\n- 9 < 10, entonces 3.09 < 3.1.\n\nOrdenar de menor a mayor: 2.3, 2.03, 2.33.\n\n- Iguala: 2.30, 2.03, 2.33.\n- Orden: 2.03, 2.3, 2.33.\n\n**Para tu escuela:** ordena tus calificaciones con decimales.",
 "truco": "Iguala con ceros a la derecha y compara como números enteros.",
 "practica": {
 "ejercicio": "¿Qué es mayor: 0.8 o 0.75?",
@@ -278,7 +278,7 @@
 ],
 "contenido": {
 "idea": "Si un artículo cuesta 19.97 pesos, dices casi 20. Redondear un decimal es lo mismo: buscar el número sencillo más cercano.",
-"pizarron": "**La regla:** mira la cifra siguiente al lugar que quieres: si es 5 o más, sube; si es menor que 5, se queda.\n\nPasos:\n\n1. Ubica el lugar al que redondeas.\n2. Mira la cifra de la derecha.\n3. Si es 5 o más, aumenta 1.\n4. Si es 4 o menos, queda igual.\n5. Quita las cifras de la derecha.\n\nEjemplos:\n\n- 3.47 al décimo: la derecha es 7, sube → **3.5**.\n- 8.312 al centésimo: la derecha es 2, se queda → **8.31**.\n- 6.8 al entero: la derecha es 8, sube → **7**.\n\nCaso especial: 2.96 al décimo.\n\n- El 9 sube, se vuelve 10.\n- Resultado **3.0**.\n\nSirve para cuentas de dinero y mediciones.",
+"pizarron": "**La regla:** mira la cifra siguiente al lugar que quieres: si es 5 o más, sube; si es menor que 5, se queda.\n\nPasos:\n\n1. Ubica el lugar al que redondeas.\n2. Mira la cifra de la derecha.\n3. Si es 5 o más, aumenta 1.\n4. Si es 4 o menos, queda igual.\n5. Quita las cifras de la derecha.\n\nEjemplos:\n\n- 3.47 al décimo: la derecha es 7, sube → **3.5**.\n- 8.312 al centésimo: la derecha es 2, se queda → **8.31**.\n- 6.8 al entero: la derecha es 8, sube → **7**.\n\nCaso especial: 2.96 al décimo.\n\n- El 9 sube, se vuelve 10.\n- Resultado **3.0**.\n\nSirve para cuentas de dinero y mediciones.\n\n**Para tu escuela:** redondea tu promedio a décimos.",
 "truco": "Mira al vecino de la derecha: cinco o más, sube.",
 "practica": {
 "ejercicio": "Redondea 5.64 al décimo.",
@@ -321,8 +321,8 @@
 ],
 "contenido": {
 "idea": "Una fracción es una división que espera hacerse. Si la resuelves, aparece su forma decimal.",
-"pizarron": "**La regla:** para convertir una fracción a decimal, divide el numerador entre el denominador.\n\n**Método 1**: divide el numerador entre el denominador.\n\n$$\\frac{3}{4} = 3 \\div 4 = 0.75$$\n\n**Método 2**: si el denominador se puede convertir en 10, 100 o 1000.\n\n$$\\frac{3}{5} = \\frac{6}{10} = 0.6$$\n\n$$\\frac{7}{25} = \\frac{28}{100} = 0.28$$\n\nEquivalencias útiles:\n\n- $\\frac{1}{2} = 0.5$\n- $\\frac{1}{4} = 0.25$\n- $\\frac{3}{4} = 0.75$\n- $\\frac{1}{5} = 0.2$\n- $\\frac{1}{10} = 0.1$\n\nCon fracciones como $\\frac{1}{3}$, la división no termina: 0.333...",
-"truco": "La raya de la fracción significa entre.",
+"pizarron": "**La regla:** para convertir una fracción a decimal, divide el numerador entre el denominador.\n\n**Imagínalo:** la raya de la fracción significa *entre*.\n\n**Ejemplo:** $\\frac{3}{4} = 3 \\div 4 = 0.75$.\n\n**Atajo:** si abajo puede ser 10 o 100, conviértela. $\\frac{3}{5} = \\frac{6}{10} = 0.6$.\n\n**Para recordar:** $\\frac{1}{2} = 0.5$, $\\frac{1}{4} = 0.25$, $\\frac{1}{5} = 0.2$.\n\n**Para tu escuela:** convierte $\\frac{1}{2}$ dividiendo en tu calculadora.",
+"truco": "Arriba entre abajo.",
 "practica": {
 "ejercicio": "Convierte $\\frac{2}{5}$ a decimal.",
 "respuesta": "0.4"

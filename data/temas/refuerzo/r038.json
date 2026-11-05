@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Una fogata da calor y una compresa fría lo absorbe. La entalpía de reacción mide cuánta energía sale o entra en una reacción.",
-"pizarron": "**La regla:** $\\Delta H$ negativo libera calor, y positivo lo absorbe.\n\nLa **entalpía de reacción**, $\\Delta H$, es el calor intercambiado a presión constante:\n\n$$\\Delta H = H_{productos} - H_{reactivos}$$\n\n- $\\Delta H < 0$: **exotérmica**, libera calor.\n- $\\Delta H > 0$: **endotérmica**, absorbe calor.\n\nEjemplo:\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}\\quad \\Delta H = -890\\ \\text{kJ/mol}$$\n\nSe liberan 890 kJ por cada mol de metano.\n\nSi quemas 2 mol:\n\n$$2 \\times (-890) = -1780\\ \\text{kJ}$$\n\nSi inviertes la reacción, $\\Delta H$ cambia de signo.",
+"pizarron": "**La regla:** $\\Delta H$ negativo libera calor, y positivo lo absorbe.\n\n**Imagínalo:** es tu cuenta de energía. Si baja, la reacción regaló calor. Si sube, tomó calor.\n\n$$\\Delta H = H_{productos} - H_{reactivos}$$\n\n**En palabras:** lo del final menos lo del inicio. Con 90 al final y 100 al inicio, $\\Delta H = -10$.\n\n**Tipos:**\n\n- **Exotérmica:** libera calor. Una fogata. La combustión es de este tipo.\n- **Endotérmica:** absorbe calor. Una bolsa fría.\n\nSi la reacción va al revés, cambia el signo: $+10$ pasa a $-10$.\n\n**Para tu escuela:** da un ejemplo de algo que suelta calor en tu casa.",
 "truco": "Negativo sale calor; positivo entra calor.",
 "practica": {
 "ejercicio": "Una reacción tiene $\\Delta H = -120$ kJ. ¿Libera o absorbe calor?",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Para subir a un cerro puedes tomar una ruta o varias; la altura ganada es igual. Con la energía de una reacción pasa lo mismo.",
-"pizarron": "**La ley:** el calor total de una reacción depende solo del inicio y del final.\n\n**Ley de Hess**: el $\\Delta H$ total depende solo del inicio y del final, no del camino.\n\nPuedes sumar reacciones como ecuaciones:\n\n1. Si inviertes una reacción, cambia el signo de $\\Delta H$.\n2. Si la multiplicas, multiplica también $\\Delta H$.\n3. Cancela lo que aparezca en ambos lados.\n\nEjemplo: formar $\\ce{CO2}$ en dos pasos.\n\n$$\\ce{C + 1/2 O2 -> CO}\\quad \\Delta H = -110.5\\ \\text{kJ}$$\n\n$$\\ce{CO + 1/2 O2 -> CO2}\\quad \\Delta H = -283.0\\ \\text{kJ}$$\n\nAl sumar se cancela $\\ce{CO}$:\n\n$$\\ce{C + O2 -> CO2}\\quad \\Delta H = -393.5\\ \\text{kJ}$$",
+"pizarron": "**La ley:** el calor total de una reacción depende solo del inicio y del final.\n\n**Imagínalo:** subes a un quinto piso por escaleras o elevador. El camino cambia, pero la altura final es igual.\n\n**Reglas:**\n\n1. Si inviertes una reacción, cambia el signo de $\\Delta H$. $+20$ pasa a $-20$.\n2. Si la multiplicas, multiplica también $\\Delta H$. Por 3, $-5$ pasa a $-15$.\n3. Si tiene pasos, suma sus $\\Delta H$. $-30$ y $+10$ dan $-20$.\n\n**Ejemplo:** $\\ce{C + 1/2 O2 -> CO}$ da $-110.5$ kJ, y $\\ce{CO + 1/2 O2 -> CO2}$ da $-283$ kJ.\n\nEl CO se cancela al sumar:\n\n$$\\ce{C + O2 -> CO2} \\quad \\Delta H = -393.5 \\text{ kJ}$$\n\n**Para tu escuela:** dibuja dos caminos distintos de tu casa a la escuela.",
 "truco": "Importa dónde empiezas y acabas, no el camino.",
 "practica": {
 "ejercicio": "Dos pasos tienen $\\Delta H$ de $-100$ kJ y $+30$ kJ. ¿Cuál es el total?",

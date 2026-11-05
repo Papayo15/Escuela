@@ -1,460 +1,460 @@
 [
-  {
-    "nodo_id": "ems-057",
-    "titulo": "Fotosíntesis y cadena trófica",
-    "slug": "fotosintesis-cadena-trofica-prepa",
-    "palabras": [
-      "fotosíntesis",
-      "clorofila",
-      "glucosa",
-      "oxígeno",
-      "productores",
-      "cadena alimenticia"
-    ],
-    "contenido": {
-      "idea": "Una planta es como una cocinera que usa la luz del sol como estufa: toma agua y aire, cocina su propia comida y deja salir oxígeno, que nosotros respiramos.",
-      "pizarron": "**La regla:** la planta usa luz, agua y $\\ce{CO2}$ para hacer azúcar, y libera oxígeno.\n\n$$\\ce{6CO2 + 6H2O ->[luz] C6H12O6 + 6O2}$$\n\nEs como cocinar con luz.\n\nEsa energía pasa a los herbívoros, y luego a los carnívoros.\n\nEn cada paso se pierde mucha.\n\n**Para recordar:**\n- **¿Qué gas entra y qué gas sale de la hoja durante la fotosíntesis?** Entra dióxido de carbono y sale oxígeno.\n- **¿Dónde ocurre la fotosíntesis dentro de la célula?** En los cloroplastos, que contienen clorofila.\n\n**Para tu escuela:** escribe una cadena con planta, herbívoro y carnívoro.",
-      "truco": "Luz + agua + CO2 = azúcar + oxígeno.",
-      "practica": {
-        "ejercicio": "¿Qué gas entra y qué gas sale de la hoja durante la fotosíntesis?",
-        "respuesta": "Entra dióxido de carbono y sale oxígeno."
-      },
-      "analogias": [
-        {
-          "titulo": "Panadería solar",
-          "texto": "La hoja es una panadería que recibe harina (CO2) y agua, usa el horno del sol y produce pan (glucosa) con vapor de oxígeno."
-        },
-        {
-          "titulo": "Batería que se carga",
-          "texto": "La luz carga la batería de la planta: la energía queda guardada en la glucosa y luego otros seres vivos la usan al comerla."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Dónde ocurre la fotosíntesis dentro de la célula?",
-          "respuesta": "En los cloroplastos, que contienen clorofila."
-        },
-        {
-          "ejercicio": "Ordena: zorro, pasto, conejo. ¿Quién es el productor?",
-          "respuesta": "Pasto (productor) → conejo → zorro. El productor es el pasto."
-        },
-        {
-          "ejercicio": "Si se talan muchos árboles, ¿qué pasa con el CO2 que captan?",
-          "respuesta": "Se capta menos CO2, por lo que más permanece en la atmósfera."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-058",
-    "titulo": "Deterioro ambiental y subsistemas terrestres",
-    "slug": "deterioro-ambiental-subsistemas-prepa",
-    "palabras": [
-      "contaminación",
-      "atmósfera",
-      "hidrosfera",
-      "litosfera",
-      "biosfera",
-      "impacto ambiental"
-    ],
-    "contenido": {
-      "idea": "La Tierra es como una casa con cuatro cuartos conectados: si tiras basura en uno, el mal olor llega a los demás.",
-      "pizarron": "**Qué es:** el deterioro ambiental es el daño al aire, agua, suelo y seres vivos por lo que hacemos.\n\nLa Tierra tiene cuatro partes conectadas: atmósfera, hidrosfera, litosfera y biosfera.\n\nTocas una y se mueven las demás.\n\nSi talas un bosque, se erosiona el suelo y se ensucia el río.\n\n**Escalas:**\n\n- Local: un río sucio.\n- Regional: una sequía.\n- Global: calentamiento.\n\n**Para tu escuela:** describe un daño ambiental cerca de ti y a qué parte afecta.",
-      "truco": "Aire, agua, suelo, vida: todo conectado.",
-      "practica": {
-        "ejercicio": "Un derrame de aceite llega al mar. ¿Qué subsistema se daña primero y cuál más?",
-        "respuesta": "Primero la hidrosfera; después la biosfera, porque mueren peces y aves."
-      },
-      "analogias": [
-        {
-          "titulo": "Cuerpo humano",
-          "texto": "Cada subsistema es como un órgano: si el hígado se enferma, el cuerpo entero se siente mal."
-        },
-        {
-          "titulo": "Red de pesca",
-          "texto": "Si se rompe un nudo de la red, se afloja todo alrededor, igual que un daño local se extiende."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Clasifica por subsistema: humo de fábricas, tiradero de basura, agua con detergente.",
-          "respuesta": "Humo: atmósfera. Tiradero: litosfera. Agua con detergente: hidrosfera."
-        },
-        {
-          "ejercicio": "¿De qué escala es el calentamiento global?",
-          "respuesta": "Escala global."
-        },
-        {
-          "ejercicio": "Reflexiona: menciona una acción diaria tuya que dañe un subsistema y cómo cambiarla.",
-          "respuesta": "Respuesta libre; debe nombrar la acción, el subsistema afectado y una alternativa concreta (por ejemplo, reducir plásticos de un solo uso)."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-059",
-    "titulo": "Tecnologías para reducir el deterioro ambiental",
-    "slug": "tecnologia-reducir-deterioro-ambiental-prepa",
-    "palabras": [
-      "energía solar",
-      "plantas de tratamiento",
-      "reciclaje",
-      "innovación",
-      "sustentabilidad",
-      "tecnología verde"
-    ],
-    "contenido": {
-      "idea": "Es como inventar un filtro para la alberca: la tecnología limpia lo que ensuciamos para que todos sigamos usándola.",
-      "pizarron": "**Qué es:** la tecnología también puede ayudar a reducir el daño ambiental.\n\nUna innovación tecnológica ambiental se basa en entender cómo funciona un subsistema terrestre.\n\nEjemplos:\n\n- Hidrosfera: plantas de tratamiento que separan contaminantes del agua residual para reutilizarla.\n- Atmósfera: paneles solares y aerogeneradores generan electricidad sin quemar combustibles, así emiten menos $\\ce{CO2}$.\n- Litosfera: composta y reciclaje reducen basura y regresan nutrientes al suelo.\n- Biosfera: reforestación y humedales artificiales restauran hábitats.\n\nPara explicar una innovación, responde:\n\n1. ¿Qué problema ambiental atiende?\n2. ¿Qué principio científico usa?\n3. ¿Qué subsistema mejora?\n4. ¿Qué límites tiene (costo, materiales, energía)?\n\nNinguna tecnología es perfecta: también debe evaluarse su impacto completo.",
-      "truco": "Problema, principio, subsistema, límite.",
-      "practica": {
-        "ejercicio": "Explica cómo un panel solar reduce el deterioro ambiental.",
-        "respuesta": "Convierte luz solar en electricidad sin quemar combustibles, por lo que emite menos CO2 a la atmósfera."
-      },
-      "analogias": [
-        {
-          "titulo": "Médico del planeta",
-          "texto": "Así como el médico usa un diagnóstico antes de recetar, la tecnología ambiental estudia el subsistema antes de repararlo."
-        },
-        {
-          "titulo": "Lavadora de agua",
-          "texto": "Una planta de tratamiento es como una lavadora: entra agua sucia y sale agua más limpia para volver a usarse."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué subsistema protege la composta?",
-          "respuesta": "La litosfera (suelo), al reducir basura y devolverle nutrientes."
-        },
-        {
-          "ejercicio": "Menciona un límite de una tecnología verde que elijas.",
-          "respuesta": "Por ejemplo, los paneles solares requieren materiales y fabricación costosa; cualquier límite razonable es válido."
-        },
-        {
-          "ejercicio": "Reflexiona: propón una innovación para tu comunidad y justifícala con los cuatro pasos.",
-          "respuesta": "Debe nombrar el problema, el principio científico, el subsistema que mejora y un límite."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-060",
-    "titulo": "Características y tipos de reacciones químicas",
-    "slug": "reacciones-quimicas-tipos-prepa",
-    "palabras": [
-      "reacción química",
-      "reactivos",
-      "productos",
-      "síntesis",
-      "descomposición",
-      "sustitución"
-    ],
-    "contenido": {
-      "idea": "Es como cocinar: mezclas huevo, harina y calor, y sale un pastel que ya no se puede separar en lo que era.",
-      "pizarron": "**Qué es:** las reacciones se clasifican según cómo cambian las sustancias.\n\n**Síntesis:** dos forman una. $\\ce{A + B -> AB}$.\n\n**Descomposición:** una se parte. $\\ce{AB -> A + B}$.\n\n**Sustitución simple:** uno toma el lugar de otro. $\\ce{A + BC -> AC + B}$.\n\n**Doble sustitución:** dos parejas cambian. $\\ce{AB + CD -> AD + CB}$.\n\n**Combustión:** reacciona con oxígeno y da calor.\n\nComo en un baile: se juntan, se separan o cambian de pareja.\n\n**Para tu escuela:** clasifica $\\ce{2H2 + O2 -> 2H2O}$.",
-      "truco": "Une, separa, cambia lugar o quema.",
-      "practica": {
-        "ejercicio": "Clasifica: $\\ce{2H2O -> 2H2 + O2}$.",
-        "respuesta": "Descomposición, porque una sustancia se separa en otras."
-      },
-      "analogias": [
-        {
-          "titulo": "Bloques de construcción",
-          "texto": "Los átomos son bloques: la reacción deshace una figura y arma otra con las mismas piezas."
-        },
-        {
-          "titulo": "Baile de parejas",
-          "texto": "En la sustitución simple, un bailarín llega y le quita la pareja a otro, que queda solo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Un clavo se oxida y cambia a color café. ¿Qué señal de reacción es?",
-          "respuesta": "Cambio de color, que indica una nueva sustancia."
-        },
-        {
-          "ejercicio": "Clasifica: $\\ce{N2 + 3H2 -> 2NH3}$.",
-          "respuesta": "Síntesis, porque dos sustancias forman una."
-        },
-        {
-          "ejercicio": "Clasifica: $\\ce{Zn + 2HCl -> ZnCl2 + H2}$.",
-          "respuesta": "Sustitución simple: el zinc desplaza al hidrógeno."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Balanceo por tanteo y conservación de la masa",
-    "slug": "balanceo-tanteo-conservacion-masa-prepa",
-    "palabras": [
-      "balancear ecuaciones",
-      "tanteo",
-      "coeficientes",
-      "ley de Lavoisier",
-      "conservación de la masa"
-    ],
-    "contenido": {
-      "idea": "Es como repartir ruedas y carros de juguete: si cada carro lleva cuatro ruedas, necesitas la cantidad exacta para que no sobre ni falte ninguna.",
-      "pizarron": "**La ley:** los átomos no se crean ni se destruyen. Debe haber los mismos de cada lado.\n\n**Pasos:**\n\n1. Cuenta los átomos de cada lado.\n2. Cambia solo los números de adelante.\n3. Deja oxígeno e hidrógeno al final.\n\n**Ejemplo:** $\\ce{CH4 + O2 -> CO2 + H2O}$.\n\nCarbono: 1 y 1. Bien.\n\nHidrógeno: 4 contra 2. Pon $\\ce{2H2O}$.\n\nOxígeno: ahora hay 4 a la derecha. Pon $\\ce{2O2}$.\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\n**Para tu escuela:** balancea $\\ce{N2 + H2 -> NH3}$.",
-      "truco": "Cambia coeficientes, jamás subíndices.",
-      "practica": {
-        "ejercicio": "Balancea: $\\ce{Mg + O2 -> MgO}$.",
-        "respuesta": "$\\ce{2Mg + O2 -> 2MgO}$"
-      },
-      "analogias": [
-        {
-          "titulo": "Balanza",
-          "texto": "La ecuación es una balanza: ambos platillos deben pesar lo mismo, así que agregas coeficientes hasta nivelarla."
-        },
-        {
-          "titulo": "Receta para invitados",
-          "texto": "Si duplicas la receta, duplicas todos los ingredientes; los coeficientes multiplican la fórmula completa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Balancea: $\\ce{H2 + O2 -> H2O}$.",
-          "respuesta": "$\\ce{2H2 + O2 -> 2H2O}$"
-        },
-        {
-          "ejercicio": "Balancea: $\\ce{N2 + H2 -> NH3}$.",
-          "respuesta": "$\\ce{N2 + 3H2 -> 2NH3}$"
-        },
-        {
-          "ejercicio": "Balancea: $\\ce{Fe + O2 -> Fe2O3}$.",
-          "respuesta": "$\\ce{4Fe + 3O2 -> 2Fe2O3}$"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-062",
-    "titulo": "Equilibrio químico y reacciones reversibles",
-    "slug": "equilibrio-quimico-reversibles-prepa",
-    "palabras": [
-      "equilibrio químico",
-      "reversible",
-      "irreversible",
-      "velocidad de reacción",
-      "Le Châtelier"
-    ],
-    "contenido": {
-      "idea": "Es como una escalera eléctrica con gente subiendo y bajando al mismo ritmo: siempre hay la misma cantidad de personas, aunque todos se mueven.",
-      "pizarron": "**Qué es:** en el equilibrio, una reacción va hacia ambos lados a la misma velocidad, y las cantidades ya no cambian.\n\nComo una escalera eléctrica: subes a la misma velocidad que bajas y te quedas en el mismo lugar.\n\n$$\\ce{N2 + 3H2 <=> 2NH3}$$\n\nLa doble flecha dice que va en ambos sentidos.\n\n**Le Châtelier:** si lo alteras, el sistema se mueve para compensar.\n\nAl abrir un refresco, escapa gas y salen burbujas.\n\n**Para tu escuela:** explica qué pasa con el gas de un refresco al abrirlo.",
-      "truco": "Equilibrio: igual velocidad, no igual cantidad.",
-      "practica": {
-        "ejercicio": "¿Qué significa que en equilibrio las concentraciones sean constantes?",
-        "respuesta": "Que la reacción directa y la inversa ocurren a la misma velocidad, por lo que no hay cambio neto."
-      },
-      "analogias": [
-        {
-          "titulo": "Tienda con clientes",
-          "texto": "Entran y salen clientes al mismo ritmo: el número dentro se mantiene, aunque nadie se queda quieto."
-        },
-        {
-          "titulo": "Subibaja",
-          "texto": "Si empujas un lado, el otro se mueve para recuperar el balance, como el sistema ante un cambio."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quemar madera es reversible o irreversible?",
-          "respuesta": "Irreversible: no se recupera la madera."
-        },
-        {
-          "ejercicio": "¿Qué símbolo indica una reacción reversible?",
-          "respuesta": "La doble flecha $\\ce{<=>}$."
-        },
-        {
-          "ejercicio": "¿Es cierto que en equilibrio la reacción se detiene? Explica.",
-          "respuesta": "No; es dinámico: ambas reacciones continúan a igual velocidad."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-063",
-    "titulo": "Ácidos, bases y pH",
-    "slug": "acidos-bases-ph-prepa",
-    "palabras": [
-      "ácido",
-      "base",
-      "pH",
-      "indicador",
-      "neutralización",
-      "escala de pH"
-    ],
-    "contenido": {
-      "idea": "El limón es agrio y el jabón resbala: son dos extremos, y el agua pura está justo en medio, sin inclinarse a ninguno.",
-      "pizarron": "**La regla:** el pH mide qué tan ácida es una sustancia, de 0 a 14. Menos de 7 es ácido, 7 es neutro y más de 7 es básico.\n\n**Ejemplos:** limón, cerca de 2. Agua, 7. Jabón, cerca de 10.\n\n**Regla del 10:** cada número vale 10 veces. pH 3 es 10 veces más ácido que pH 4.\n\n**Neutralización:** ácido más base da sal y agua.\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$\n\n**Para tu escuela:** ordena de más ácido a más básico: jabón, limón y agua.",
-      "truco": "Menos de 7 ácido, 7 neutro, más de 7 base.",
-      "practica": {
-        "ejercicio": "Clasifica una sustancia con pH 9.",
-        "respuesta": "Es básica, porque su pH es mayor que 7."
-      },
-      "analogias": [
-        {
-          "titulo": "Regla con centro",
-          "texto": "La escala de pH es una regla donde el 7 es el punto medio; a la izquierda crece la acidez y a la derecha la basicidad."
-        },
-        {
-          "titulo": "Volumen del radio",
-          "texto": "Cada unidad de pH cambia diez veces la fuerza de acidez, como subir de golpe el volumen por pasos muy grandes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuántas veces más ácida es una disolución de pH 3 que una de pH 5?",
-          "respuesta": "100 veces, porque son dos unidades y $10 \\times 10 = 100$."
-        },
-        {
-          "ejercicio": "Clasifica: jugo de limón (pH 2), agua (7), jabón (10).",
-          "respuesta": "Limón: ácido. Agua: neutra. Jabón: básico."
-        },
-        {
-          "ejercicio": "Completa: $\\ce{HCl + NaOH ->}$ ?",
-          "respuesta": "$\\ce{NaCl + H2O}$, sal y agua."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-064",
-    "titulo": "Óxido-reducción y combustión",
-    "slug": "oxido-reduccion-combustion-prepa",
-    "palabras": [
-      "redox",
-      "oxidación",
-      "reducción",
-      "electrones",
-      "combustión",
-      "corrosión"
-    ],
-    "contenido": {
-      "idea": "Es como un intercambio de estampas: uno las regala y otro las recibe. Lo que uno pierde, el otro lo gana.",
-      "pizarron": "**La regla:** en una redox, uno pierde electrones y se oxida; otro los gana y se reduce. Siempre van juntos.\n\n**Ejemplo:**\n\n$$\\ce{2Mg + O2 -> 2MgO}$$\n\nEl magnesio pierde y el oxígeno gana.\n\n**Combustión:** redox rápida con oxígeno, que da luz y calor.\n\n**Otros:** el óxido del hierro, las pilas y la respiración.\n\n**Para recordar:**\n- **¿Cuál es la utilidad de la redox en la industria?** Obtener metales, fabricar baterías y generar energía con combustibles.\n\n**Para tu escuela:** di qué se oxida al quemar gas en la estufa.",
-      "truco": "Oxidar es perder electrones; reducir, ganarlos.",
-      "practica": {
-        "ejercicio": "En $\\ce{2Mg + O2 -> 2MgO}$, ¿qué se oxida?",
-        "respuesta": "El magnesio, porque pierde electrones."
-      },
-      "analogias": [
-        {
-          "titulo": "Pasar la pelota",
-          "texto": "Un jugador pasa la pelota (electrones) y otro la recibe: sin receptor no hay pase, igual que oxidación y reducción."
-        },
-        {
-          "titulo": "Fogata",
-          "texto": "La madera se combina rápidamente con oxígeno y libera calor y luz, como cualquier combustión."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué se oxida un clavo a la intemperie?",
-          "respuesta": "Porque el hierro reacciona con oxígeno y humedad, y pierde electrones."
-        },
-        {
-          "ejercicio": "Menciona dos productos de la combustión completa de un hidrocarburo.",
-          "respuesta": "Dióxido de carbono y agua."
-        },
-        {
-          "ejercicio": "¿Cuál es la utilidad de la redox en la industria?",
-          "respuesta": "Obtener metales, fabricar baterías y generar energía con combustibles."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-065",
-    "titulo": "Compuestos orgánicos: estructura y nomenclatura",
-    "slug": "compuestos-organicos-nomenclatura-prepa",
-    "palabras": [
-      "química orgánica",
-      "alcanos",
-      "hidrocarburos",
-      "carbono",
-      "nomenclatura",
-      "grupos funcionales"
-    ],
-    "contenido": {
-      "idea": "El carbono es como una pieza de Lego con cuatro conectores: puede unirse en cadenas largas y formar casi cualquier figura.",
-      "pizarron": "**Qué es:** los compuestos orgánicos tienen carbono, y su nombre dice su cadena y su grupo.\n\nLos compuestos orgánicos contienen carbono, casi siempre con hidrógeno, oxígeno o nitrógeno. Están en alimentos, medicinas, plásticos y combustibles.\n\nEl carbono forma cuatro enlaces y se une a otros carbonos formando cadenas. Los hidrocarburos más simples son los alcanos, con enlaces sencillos y fórmula\n\n$$\\ce{C_nH_{2n+2}}$$\n\nNomenclatura: la raíz indica el número de carbonos y la terminación es -ano.\n\n- 1 carbono: metano, $\\ce{CH4}$.\n- 2: etano, $\\ce{C2H6}$.\n- 3: propano, $\\ce{C3H8}$.\n- 4: butano, $\\ce{C4H10}$.\n- 5: pentano, $\\ce{C5H12}$.\n\nLos grupos funcionales (como -OH en alcoholes) determinan las propiedades. Los compuestos orgánicos suelen ser inflamables y poco solubles en agua.",
-      "truco": "Met, et, prop, but, pent: y termina en -ano.",
-      "practica": {
-        "ejercicio": "¿Cuál es la fórmula del alcano de 3 carbonos?",
-        "respuesta": "$\\ce{C3H8}$, el propano."
-      },
-      "analogias": [
-        {
-          "titulo": "Collar de cuentas",
-          "texto": "Cada carbono es una cuenta y la cadena es el collar; mientras más cuentas, más largo el compuesto."
-        },
-        {
-          "titulo": "Apellido de la familia",
-          "texto": "La raíz dice cuántos carbonos tiene y la terminación indica a qué familia pertenece."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe la fórmula del hexano (6 carbonos).",
-          "respuesta": "$\\ce{C6H14}$, porque $2(6)+2=14$."
-        },
-        {
-          "ejercicio": "Nombra $\\ce{C5H12}$.",
-          "respuesta": "Pentano."
-        },
-        {
-          "ejercicio": "Calcula los hidrógenos de un alcano de 8 carbonos.",
-          "respuesta": "18, porque $2(8)+2=18$; fórmula $\\ce{C8H18}$."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-066",
-    "titulo": "Respiración aerobia y anaerobia",
-    "slug": "respiracion-aerobia-anaerobia-prepa",
-    "palabras": [
-      "respiración celular",
-      "ATP",
-      "fermentación",
-      "glucosa",
-      "mitocondria",
-      "energía"
-    ],
-    "contenido": {
-      "idea": "Es como quemar leña en una chimenea pequeña dentro de cada célula: con aire sale mucha energía; sin aire sale muy poquita.",
-      "pizarron": "**Qué es:** la respiración celular saca energía de la glucosa. Con oxígeno es aerobia. Sin oxígeno, anaerobia.\n\n**Aerobia:** en las mitocondrias.\n\n$$\\ce{C6H12O6 + 6O2 -> 6CO2 + 6H2O}$$\n\nDa cerca de 30 ATP.\n\n**Anaerobia o fermentación:** da solo 2 ATP.\n\nLáctica: en el músculo cansado y el yogur.\n\nAlcohólica: en levaduras y pan.\n\n**Para tu escuela:** di por qué te arden las piernas al correr mucho.",
-      "truco": "Con oxígeno mucha energía; sin él, poca.",
-      "practica": {
-        "ejercicio": "¿Cuántas moléculas de oxígeno consume una glucosa en la respiración aerobia?",
-        "respuesta": "Seis moléculas de $\\ce{O2}$."
-      },
-      "analogias": [
-        {
-          "titulo": "Estufa y fogata",
-          "texto": "Cocinar con una buena estufa aprovecha mucho el combustible; una fogata mal ventilada rinde poco, como la fermentación."
-        },
-        {
-          "titulo": "Pan con levadura",
-          "texto": "La levadura fermenta el azúcar y suelta burbujas de CO2, por eso la masa crece."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Dónde ocurre la respiración aerobia en la célula?",
-          "respuesta": "En las mitocondrias."
-        },
-        {
-          "ejercicio": "¿Por qué duelen los músculos tras un esfuerzo intenso?",
-          "respuesta": "Se produce ácido láctico por fermentación láctica cuando falta oxígeno."
-        },
-        {
-          "ejercicio": "Menciona un uso de la fermentación en la industria.",
-          "respuesta": "Elaboración de yogur, pan o etanol como biocombustible."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-057",
+"titulo": "Fotosíntesis y cadena trófica",
+"slug": "fotosintesis-cadena-trofica-prepa",
+"palabras": [
+"fotosíntesis",
+"clorofila",
+"glucosa",
+"oxígeno",
+"productores",
+"cadena alimenticia"
+],
+"contenido": {
+"idea": "Una planta es como una cocinera que usa la luz del sol como estufa: toma agua y aire, cocina su propia comida y deja salir oxígeno, que nosotros respiramos.",
+"pizarron": "**La regla:** la planta usa luz, agua y dióxido de carbono para hacer azúcar, y libera oxígeno.\n\n**Imagínalo:** es cocinar con luz. La cocina son los cloroplastos, partes verdes de la célula con clorofila.\n\nPor los poros de la hoja entra dióxido de carbono y sale oxígeno.\n\n$$\\ce{6CO2 + 6H2O ->[luz] C6H12O6 + 6O2}$$\n\n**En palabras:** dióxido de carbono y agua, con luz, dan azúcar y oxígeno.\n\n**Cadena trófica:** dice quién se come a quién. El **productor** hace su comida. Sigue el herbívoro y luego el carnívoro.\n\nMaíz, ratón y búho. En cada paso se pierde mucha energía.\n\n**Árboles:** guardan dióxido de carbono. Si se talan, queda más en el aire.\n\n**Para tu escuela:** escribe una cadena de tu jardín.",
+"truco": "Luz + agua + CO2 = azúcar + oxígeno.",
+"practica": {
+"ejercicio": "¿Qué gas entra y qué gas sale de la hoja durante la fotosíntesis?",
+"respuesta": "Entra dióxido de carbono y sale oxígeno."
+},
+"analogias": [
+{
+"titulo": "Panadería solar",
+"texto": "La hoja es una panadería que recibe harina (CO2) y agua, usa el horno del sol y produce pan (glucosa) con vapor de oxígeno."
+},
+{
+"titulo": "Batería que se carga",
+"texto": "La luz carga la batería de la planta: la energía queda guardada en la glucosa y luego otros seres vivos la usan al comerla."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde ocurre la fotosíntesis dentro de la célula?",
+"respuesta": "En los cloroplastos, que contienen clorofila."
+},
+{
+"ejercicio": "Ordena: zorro, pasto, conejo. ¿Quién es el productor?",
+"respuesta": "Pasto (productor) → conejo → zorro. El productor es el pasto."
+},
+{
+"ejercicio": "Si se talan muchos árboles, ¿qué pasa con el CO2 que captan?",
+"respuesta": "Se capta menos CO2, por lo que más permanece en la atmósfera."
+}
+]
+}
+},
+{
+"nodo_id": "ems-058",
+"titulo": "Deterioro ambiental y subsistemas terrestres",
+"slug": "deterioro-ambiental-subsistemas-prepa",
+"palabras": [
+"contaminación",
+"atmósfera",
+"hidrosfera",
+"litosfera",
+"biosfera",
+"impacto ambiental"
+],
+"contenido": {
+"idea": "La Tierra es como una casa con cuatro cuartos conectados: si tiras basura en uno, el mal olor llega a los demás.",
+"pizarron": "**Qué es:** el deterioro ambiental es el daño al aire, agua, suelo y seres vivos por lo que hacemos.\n\nLa Tierra tiene cuatro partes conectadas: atmósfera, hidrosfera, litosfera y biosfera.\n\nTocas una y se mueven las demás.\n\nSi talas un bosque, se erosiona el suelo y se ensucia el río.\n\n**Escalas:**\n\n- Local: un río sucio.\n- Regional: una sequía.\n- Global: calentamiento.\n\n**Para tu escuela:** describe un daño ambiental cerca de ti y a qué parte afecta.",
+"truco": "Aire, agua, suelo, vida: todo conectado.",
+"practica": {
+"ejercicio": "Un derrame de aceite llega al mar. ¿Qué subsistema se daña primero y cuál más?",
+"respuesta": "Primero la hidrosfera; después la biosfera, porque mueren peces y aves."
+},
+"analogias": [
+{
+"titulo": "Cuerpo humano",
+"texto": "Cada subsistema es como un órgano: si el hígado se enferma, el cuerpo entero se siente mal."
+},
+{
+"titulo": "Red de pesca",
+"texto": "Si se rompe un nudo de la red, se afloja todo alrededor, igual que un daño local se extiende."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica por subsistema: humo de fábricas, tiradero de basura, agua con detergente.",
+"respuesta": "Humo: atmósfera. Tiradero: litosfera. Agua con detergente: hidrosfera."
+},
+{
+"ejercicio": "¿De qué escala es el calentamiento global?",
+"respuesta": "Escala global."
+},
+{
+"ejercicio": "Reflexiona: menciona una acción diaria tuya que dañe un subsistema y cómo cambiarla.",
+"respuesta": "Respuesta libre; debe nombrar la acción, el subsistema afectado y una alternativa concreta (por ejemplo, reducir plásticos de un solo uso)."
+}
+]
+}
+},
+{
+"nodo_id": "ems-059",
+"titulo": "Tecnologías para reducir el deterioro ambiental",
+"slug": "tecnologia-reducir-deterioro-ambiental-prepa",
+"palabras": [
+"energía solar",
+"plantas de tratamiento",
+"reciclaje",
+"innovación",
+"sustentabilidad",
+"tecnología verde"
+],
+"contenido": {
+"idea": "Es como inventar un filtro para la alberca: la tecnología limpia lo que ensuciamos para que todos sigamos usándola.",
+"pizarron": "**Qué es:** la tecnología también puede ayudar a reducir el daño ambiental.\n\n**Imagínalo:** la Tierra tiene cuatro partes: agua (hidrosfera), aire (atmósfera), suelo (litosfera) y seres vivos (biosfera). Cada invento puede cuidar una.\n\n- **Agua:** plantas que limpian agua sucia.\n- **Aire:** paneles solares. Hacen luz sin quemar nada, y sueltan menos $\\ce{CO2}$.\n- **Suelo:** composta y reciclaje. Menos basura y más nutrientes.\n- **Seres vivos:** plantar árboles nativos.\n\n**Para explicar un invento, di:**\n\n1. Qué problema atiende.\n2. En qué ciencia se basa.\n3. Qué parte cuida.\n4. Qué límite tiene. Puede ser su costo o sus materiales.\n\n**Para tu escuela:** elige un invento de tu comunidad y usa los cuatro pasos.",
+"truco": "Problema, principio, subsistema, límite.",
+"practica": {
+"ejercicio": "Explica cómo un panel solar reduce el deterioro ambiental.",
+"respuesta": "Convierte luz solar en electricidad sin quemar combustibles, por lo que emite menos CO2 a la atmósfera."
+},
+"analogias": [
+{
+"titulo": "Médico del planeta",
+"texto": "Así como el médico usa un diagnóstico antes de recetar, la tecnología ambiental estudia el subsistema antes de repararlo."
+},
+{
+"titulo": "Lavadora de agua",
+"texto": "Una planta de tratamiento es como una lavadora: entra agua sucia y sale agua más limpia para volver a usarse."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué subsistema protege la composta?",
+"respuesta": "La litosfera (suelo), al reducir basura y devolverle nutrientes."
+},
+{
+"ejercicio": "Menciona un límite de una tecnología verde que elijas.",
+"respuesta": "Por ejemplo, los paneles solares requieren materiales y fabricación costosa; cualquier límite razonable es válido."
+},
+{
+"ejercicio": "Reflexiona: propón una innovación para tu comunidad y justifícala con los cuatro pasos.",
+"respuesta": "Debe nombrar el problema, el principio científico, el subsistema que mejora y un límite."
+}
+]
+}
+},
+{
+"nodo_id": "ems-060",
+"titulo": "Características y tipos de reacciones químicas",
+"slug": "reacciones-quimicas-tipos-prepa",
+"palabras": [
+"reacción química",
+"reactivos",
+"productos",
+"síntesis",
+"descomposición",
+"sustitución"
+],
+"contenido": {
+"idea": "Es como cocinar: mezclas huevo, harina y calor, y sale un pastel que ya no se puede separar en lo que era.",
+"pizarron": "**Qué es:** las reacciones se clasifican según cómo cambian las sustancias.\n\n**Imagínalo:** es un baile. Las parejas se juntan, se separan o cambian de compañero.\n\n- **Síntesis:** dos se juntan en una. $\\ce{A + B -> AB}$.\n- **Descomposición:** una se parte. $\\ce{AB -> A + B}$.\n- **Sustitución simple:** uno le quita el lugar a otro. $\\ce{A + BC -> AC + B}$.\n- **Doble sustitución:** dos parejas cambian. $\\ce{AB + CD -> AD + CB}$.\n- **Combustión:** algo se quema con oxígeno y da calor.\n\n**Señales de reacción:** cambio de color, burbujas, olor o calor.\n\n**Para tu escuela:** representen las cuatro con compañeros bailando.",
+"truco": "Une, separa, cambia lugar o quema.",
+"practica": {
+"ejercicio": "Clasifica: $\\ce{2H2O -> 2H2 + O2}$.",
+"respuesta": "Descomposición, porque una sustancia se separa en otras."
+},
+"analogias": [
+{
+"titulo": "Bloques de construcción",
+"texto": "Los átomos son bloques: la reacción deshace una figura y arma otra con las mismas piezas."
+},
+{
+"titulo": "Baile de parejas",
+"texto": "En la sustitución simple, un bailarín llega y le quita la pareja a otro, que queda solo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un clavo se oxida y cambia a color café. ¿Qué señal de reacción es?",
+"respuesta": "Cambio de color, que indica una nueva sustancia."
+},
+{
+"ejercicio": "Clasifica: $\\ce{N2 + 3H2 -> 2NH3}$.",
+"respuesta": "Síntesis, porque dos sustancias forman una."
+},
+{
+"ejercicio": "Clasifica: $\\ce{Zn + 2HCl -> ZnCl2 + H2}$.",
+"respuesta": "Sustitución simple: el zinc desplaza al hidrógeno."
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Balanceo por tanteo y conservación de la masa",
+"slug": "balanceo-tanteo-conservacion-masa-prepa",
+"palabras": [
+"balancear ecuaciones",
+"tanteo",
+"coeficientes",
+"ley de Lavoisier",
+"conservación de la masa"
+],
+"contenido": {
+"idea": "Es como repartir ruedas y carros de juguete: si cada carro lleva cuatro ruedas, necesitas la cantidad exacta para que no sobre ni falte ninguna.",
+"pizarron": "**La ley:** los átomos no se crean ni se destruyen. Debe haber los mismos de cada lado.\n\n**Imagínalo:** tienes bloques de colores y armas otra figura. Al final debes tener los mismos bloques.\n\n**Pasos:**\n\n1. Cuenta los átomos de cada lado.\n2. Cambia solo el número grande de adelante.\n3. Deja oxígeno e hidrógeno para el final.\n\nEl numerito de abajo no se toca, porque cambiaría la sustancia.\n\n**Ejemplo:** $\\ce{CH4 + O2 -> CO2 + H2O}$.\n\nCarbono: 1 y 1. Bien.\n\nHidrógeno: 4 contra 2. Pon un 2 antes del agua.\n\nOxígeno: ahora hay 4 a la derecha. Pon un 2 antes del $\\ce{O2}$.\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\n**En palabras:** 1 metano y 2 oxígenos dan 1 dióxido de carbono y 2 aguas.\n\n**Para tu escuela:** balancea con bolitas de plastilina $\\ce{H2 + Cl2 -> HCl}$.",
+"truco": "Cambia coeficientes, jamás subíndices.",
+"practica": {
+"ejercicio": "Balancea: $\\ce{Mg + O2 -> MgO}$.",
+"respuesta": "$\\ce{2Mg + O2 -> 2MgO}$"
+},
+"analogias": [
+{
+"titulo": "Balanza",
+"texto": "La ecuación es una balanza: ambos platillos deben pesar lo mismo, así que agregas coeficientes hasta nivelarla."
+},
+{
+"titulo": "Receta para invitados",
+"texto": "Si duplicas la receta, duplicas todos los ingredientes; los coeficientes multiplican la fórmula completa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Balancea: $\\ce{H2 + O2 -> H2O}$.",
+"respuesta": "$\\ce{2H2 + O2 -> 2H2O}$"
+},
+{
+"ejercicio": "Balancea: $\\ce{N2 + H2 -> NH3}$.",
+"respuesta": "$\\ce{N2 + 3H2 -> 2NH3}$"
+},
+{
+"ejercicio": "Balancea: $\\ce{Fe + O2 -> Fe2O3}$.",
+"respuesta": "$\\ce{4Fe + 3O2 -> 2Fe2O3}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-062",
+"titulo": "Equilibrio químico y reacciones reversibles",
+"slug": "equilibrio-quimico-reversibles-prepa",
+"palabras": [
+"equilibrio químico",
+"reversible",
+"irreversible",
+"velocidad de reacción",
+"Le Châtelier"
+],
+"contenido": {
+"idea": "Es como una escalera eléctrica con gente subiendo y bajando al mismo ritmo: siempre hay la misma cantidad de personas, aunque todos se mueven.",
+"pizarron": "**Qué es:** en el equilibrio, una reacción va hacia ambos lados a la misma velocidad, y las cantidades ya no cambian.\n\n**Imagínalo:** caminas hacia arriba en una escalera que baja, a la misma velocidad. Te mueves, pero te quedas en el mismo lugar. Por eso no se detiene: sigue pasando todo.\n\n$$\\ce{N2 + 3H2 <=> 2NH3}$$\n\n**En palabras:** la doble flecha dice que va en los dos sentidos.\n\n**Reversible:** puede regresar. **Irreversible:** ya no regresa, como la madera quemada.\n\n**Le Châtelier:** si lo alteras, el sistema se mueve para compensar. Al abrir un refresco escapa gas y salen burbujas.\n\n**Para tu escuela:** explica qué pasa con el gas de un refresco al abrirlo.",
+"truco": "Equilibrio: igual velocidad, no igual cantidad.",
+"practica": {
+"ejercicio": "¿Qué significa que en equilibrio las concentraciones sean constantes?",
+"respuesta": "Que la reacción directa y la inversa ocurren a la misma velocidad, por lo que no hay cambio neto."
+},
+"analogias": [
+{
+"titulo": "Tienda con clientes",
+"texto": "Entran y salen clientes al mismo ritmo: el número dentro se mantiene, aunque nadie se queda quieto."
+},
+{
+"titulo": "Subibaja",
+"texto": "Si empujas un lado, el otro se mueve para recuperar el balance, como el sistema ante un cambio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quemar madera es reversible o irreversible?",
+"respuesta": "Irreversible: no se recupera la madera."
+},
+{
+"ejercicio": "¿Qué símbolo indica una reacción reversible?",
+"respuesta": "La doble flecha $\\ce{<=>}$."
+},
+{
+"ejercicio": "¿Es cierto que en equilibrio la reacción se detiene? Explica.",
+"respuesta": "No; es dinámico: ambas reacciones continúan a igual velocidad."
+}
+]
+}
+},
+{
+"nodo_id": "ems-063",
+"titulo": "Ácidos, bases y pH",
+"slug": "acidos-bases-ph-prepa",
+"palabras": [
+"ácido",
+"base",
+"pH",
+"indicador",
+"neutralización",
+"escala de pH"
+],
+"contenido": {
+"idea": "El limón es agrio y el jabón resbala: son dos extremos, y el agua pura está justo en medio, sin inclinarse a ninguno.",
+"pizarron": "**La regla:** el pH mide qué tan ácida es una sustancia, de 0 a 14. Menos de 7 es ácido, 7 es neutro y más de 7 es básico.\n\n**Imagínalo:** es una regla con 15 rayitas. En un lado está lo agrio, como el limón. En el otro está lo resbaloso, como el jabón. En medio está el agua.\n\n**Cada rayita vale 10 veces.** Si bajas una rayita, es 10 veces más ácido. Si bajas dos, es $10 \\times 10 = 100$ veces. De pH 6 a pH 4 son dos rayitas.\n\n**Neutralización:** cuando un ácido y una base se juntan, se calman el uno al otro. Queda sal y agua.\n\n$$\\ce{HCl + KOH -> KCl + H2O}$$\n\n**En palabras:** un ácido más una base dan una sal más agua.\n\n**Para tu escuela:** busca en tu cocina algo ácido y algo básico. No los pruebes.",
+"truco": "Menos de 7 ácido, 7 neutro, más de 7 base.",
+"practica": {
+"ejercicio": "Clasifica una sustancia con pH 9.",
+"respuesta": "Es básica, porque su pH es mayor que 7."
+},
+"analogias": [
+{
+"titulo": "Regla con centro",
+"texto": "La escala de pH es una regla donde el 7 es el punto medio; a la izquierda crece la acidez y a la derecha la basicidad."
+},
+{
+"titulo": "Volumen del radio",
+"texto": "Cada unidad de pH cambia diez veces la fuerza de acidez, como subir de golpe el volumen por pasos muy grandes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántas veces más ácida es una disolución de pH 3 que una de pH 5?",
+"respuesta": "100 veces, porque son dos unidades y $10 \\times 10 = 100$."
+},
+{
+"ejercicio": "Clasifica: jugo de limón (pH 2), agua (7), jabón (10).",
+"respuesta": "Limón: ácido. Agua: neutra. Jabón: básico."
+},
+{
+"ejercicio": "Completa: $\\ce{HCl + NaOH ->}$ ?",
+"respuesta": "$\\ce{NaCl + H2O}$, sal y agua."
+}
+]
+}
+},
+{
+"nodo_id": "ems-064",
+"titulo": "Óxido-reducción y combustión",
+"slug": "oxido-reduccion-combustion-prepa",
+"palabras": [
+"redox",
+"oxidación",
+"reducción",
+"electrones",
+"combustión",
+"corrosión"
+],
+"contenido": {
+"idea": "Es como un intercambio de estampas: uno las regala y otro las recibe. Lo que uno pierde, el otro lo gana.",
+"pizarron": "**La regla:** en una redox, uno pierde electrones y se oxida; otro los gana y se reduce. Siempre van juntos.\n\n**Imagínalo:** es un regalo. Si alguien da, alguien recibe.\n\n$$\\ce{2Mg + O2 -> 2MgO}$$\n\n**En palabras:** el magnesio pierde electrones y se oxida. El oxígeno los gana y se reduce.\n\n**Combustión:** es una redox rápida con oxígeno. Da luz, calor, dióxido de carbono y agua.\n\n**Clavo oxidado:** el hierro pierde electrones con el oxígeno y la humedad.\n\n**En la industria:** sirve para sacar metales, hacer baterías y producir energía.\n\n**Para tu escuela:** deja un clavo mojado una semana y uno seco, y compara.",
+"truco": "Oxidar es perder electrones; reducir, ganarlos.",
+"practica": {
+"ejercicio": "En $\\ce{2Mg + O2 -> 2MgO}$, ¿qué se oxida?",
+"respuesta": "El magnesio, porque pierde electrones."
+},
+"analogias": [
+{
+"titulo": "Pasar la pelota",
+"texto": "Un jugador pasa la pelota (electrones) y otro la recibe: sin receptor no hay pase, igual que oxidación y reducción."
+},
+{
+"titulo": "Fogata",
+"texto": "La madera se combina rápidamente con oxígeno y libera calor y luz, como cualquier combustión."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué se oxida un clavo a la intemperie?",
+"respuesta": "Porque el hierro reacciona con oxígeno y humedad, y pierde electrones."
+},
+{
+"ejercicio": "Menciona dos productos de la combustión completa de un hidrocarburo.",
+"respuesta": "Dióxido de carbono y agua."
+},
+{
+"ejercicio": "¿Cuál es la utilidad de la redox en la industria?",
+"respuesta": "Obtener metales, fabricar baterías y generar energía con combustibles."
+}
+]
+}
+},
+{
+"nodo_id": "ems-065",
+"titulo": "Compuestos orgánicos: estructura y nomenclatura",
+"slug": "compuestos-organicos-nomenclatura-prepa",
+"palabras": [
+"química orgánica",
+"alcanos",
+"hidrocarburos",
+"carbono",
+"nomenclatura",
+"grupos funcionales"
+],
+"contenido": {
+"idea": "El carbono es como una pieza de Lego con cuatro conectores: puede unirse en cadenas largas y formar casi cualquier figura.",
+"pizarron": "**Qué es:** los compuestos orgánicos tienen carbono, y su nombre dice su cadena y su grupo.\n\n**Imagínalo:** el carbono es una pieza de Lego con 4 enganches. Forma cadenas largas. Con eso se hacen comida, plásticos y gasolina.\n\n**El nombre es un código:** el inicio cuenta los carbonos y el final dice la familia.\n\n**Inicio:** met 1, et 2, prop 3, but 4, pent 5, hex 6, hept 7, oct 8.\n\n**Final:** *-ano* son enlaces simples.\n\n**Hidrógenos:** $\\ce{C_nH_{2n+2}}$. **En palabras:** el doble de carbonos, más 2.\n\nCon 2 carbonos: $2 \\times 2 + 2 = 6$. Es el etano, $\\ce{C2H6}$.\n\nCon 4 carbonos: $\\ce{C4H10}$, butano.\n\n**Para tu escuela:** usa palillos y arma el metano.",
+"truco": "Met, et, prop, but, pent: y termina en -ano.",
+"practica": {
+"ejercicio": "¿Cuál es la fórmula del alcano de 3 carbonos?",
+"respuesta": "$\\ce{C3H8}$, el propano."
+},
+"analogias": [
+{
+"titulo": "Collar de cuentas",
+"texto": "Cada carbono es una cuenta y la cadena es el collar; mientras más cuentas, más largo el compuesto."
+},
+{
+"titulo": "Apellido de la familia",
+"texto": "La raíz dice cuántos carbonos tiene y la terminación indica a qué familia pertenece."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe la fórmula del hexano (6 carbonos).",
+"respuesta": "$\\ce{C6H14}$, porque $2(6)+2=14$."
+},
+{
+"ejercicio": "Nombra $\\ce{C5H12}$.",
+"respuesta": "Pentano."
+},
+{
+"ejercicio": "Calcula los hidrógenos de un alcano de 8 carbonos.",
+"respuesta": "18, porque $2(8)+2=18$; fórmula $\\ce{C8H18}$."
+}
+]
+}
+},
+{
+"nodo_id": "ems-066",
+"titulo": "Respiración aerobia y anaerobia",
+"slug": "respiracion-aerobia-anaerobia-prepa",
+"palabras": [
+"respiración celular",
+"ATP",
+"fermentación",
+"glucosa",
+"mitocondria",
+"energía"
+],
+"contenido": {
+"idea": "Es como quemar leña en una chimenea pequeña dentro de cada célula: con aire sale mucha energía; sin aire sale muy poquita.",
+"pizarron": "**Qué es:** la respiración celular saca energía de la glucosa. Con oxígeno es aerobia. Sin oxígeno, anaerobia.\n\n**Imagínalo:** la glucosa es un billete grande. Con oxígeno lo cambias casi todo. Sin oxígeno, recibes monedas.\n\n**Aerobia:** pasa en las mitocondrias.\n\n$$\\ce{C6H12O6 + 6O2 -> 6CO2 + 6H2O}$$\n\n**En palabras:** una glucosa y seis oxígenos dan seis dióxidos de carbono y seis aguas. Da cerca de 30 ATP, la moneda de energía.\n\n**Anaerobia:** da solo 2 ATP.\n\n**Láctica:** en el músculo cansado, cuando falta oxígeno. Por eso arde.\n\n**Alcohólica:** levaduras. Sirve para pan, y para hacer etanol, un combustible.\n\n**Para tu escuela:** corre un minuto y di qué sientes en las piernas.",
+"truco": "Con oxígeno mucha energía; sin él, poca.",
+"practica": {
+"ejercicio": "¿Cuántas moléculas de oxígeno consume una glucosa en la respiración aerobia?",
+"respuesta": "Seis moléculas de $\\ce{O2}$."
+},
+"analogias": [
+{
+"titulo": "Estufa y fogata",
+"texto": "Cocinar con una buena estufa aprovecha mucho el combustible; una fogata mal ventilada rinde poco, como la fermentación."
+},
+{
+"titulo": "Pan con levadura",
+"texto": "La levadura fermenta el azúcar y suelta burbujas de CO2, por eso la masa crece."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde ocurre la respiración aerobia en la célula?",
+"respuesta": "En las mitocondrias."
+},
+{
+"ejercicio": "¿Por qué duelen los músculos tras un esfuerzo intenso?",
+"respuesta": "Se produce ácido láctico por fermentación láctica cuando falta oxígeno."
+},
+{
+"ejercicio": "Menciona un uso de la fermentación en la industria.",
+"respuesta": "Elaboración de yogur, pan o etanol como biocombustible."
+}
+]
+}
+}
 ]

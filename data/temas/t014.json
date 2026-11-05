@@ -1,369 +1,369 @@
 [
-  {
-    "nodo_id": "f6-081",
-    "titulo": "Física en segundo grado de secundaria: panorama",
-    "slug": "fisica-secundaria-segundo-grado-panorama",
-    "palabras": [
-      "física segundo grado",
-      "qué estudia la física",
-      "secundaria física",
-      "fenómenos naturales"
-    ],
-    "contenido": {
-      "idea": "Imagina que la física es como un manual para entender los juegos del patio: por qué la pelota rueda, por qué el columpio sube y baja, por qué el imán pega en el refrigerador. Todo tiene una razón que se puede descubrir.",
-      "pizarron": "**Qué es:** la física explica cómo funciona el mundo: por qué caen las cosas, por qué prende un foco y qué es el calor.\n\n**Lo que verás en secundaria:**\n\n1. Hacer preguntas y comprobarlas.\n2. Medir con unidades.\n3. De qué está hecha la materia.\n4. Cómo flotan las cosas y qué es la presión.\n5. Electricidad e imanes.\n6. Por qué cambia el clima.\n\nSiempre se hace igual: observar, medir y explicar.\n\n**Para recordar:**\n- **¿Qué tema relacionarías con un barco que flota en el agua?** Fluidos: el principio de Arquímedes.\n\n**Para tu escuela:** escribe tres preguntas de física sobre cosas que ves en tu casa.",
-      "truco": "Observo, mido y explico.",
-      "practica": {
-        "ejercicio": "Un compañero dice: \"la física solo sirve para hacer cálculos\". Da un ejemplo de tu vida diaria donde la física explique algo sin necesidad de números.",
-        "respuesta": "Respuesta libre válida: por ejemplo, un imán que pega en el refrigerador o un hielo que se derrite al sol. Debe nombrar un fenómeno real y explicar brevemente qué lo causa."
-      },
-      "analogias": [
-        {
-          "titulo": "Un mapa de la ciudad",
-          "texto": "El panorama de física es como un mapa: cada tema es un barrio distinto, pero todos están conectados por las mismas calles, que son la medición y el método científico."
-        },
-        {
-          "titulo": "Una caja de herramientas",
-          "texto": "Cada tema te da una herramienta nueva: unidades para medir, modelos de materia, ideas de fuerza. Con la caja completa puedes resolver más problemas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres temas de física que estudiarás en segundo grado.",
-          "respuesta": "Por ejemplo: unidades y medidas, estados de agregación de la materia, electricidad y magnetismo."
-        },
-        {
-          "ejercicio": "¿Qué tema relacionarías con un barco que flota en el agua?",
-          "respuesta": "Fluidos: el principio de Arquímedes."
-        },
-        {
-          "ejercicio": "Escribe una pregunta que podrías investigar con el método científico sobre un fenómeno de tu casa.",
-          "respuesta": "Respuesta libre. Debe poder observarse o medirse, por ejemplo: ¿cuánto tarda en derretirse un hielo al sol y a la sombra?"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-083",
-    "titulo": "El pensamiento científico y su impacto en la sociedad",
-    "slug": "pensamiento-cientifico-sociedad-fisica-secundaria",
-    "palabras": [
-      "método científico",
-      "hipótesis",
-      "experimento",
-      "ciencia y sociedad",
-      "investigar"
-    ],
-    "contenido": {
-      "idea": "Cuando un juguete no prende, no lo tiras: revisas si tiene pilas, pruebas otras pilas y vas descartando causas. Eso es pensar como científico: preguntar, probar y aprender del resultado.",
-      "pizarron": "**Qué es:** pensar como científico es hacer preguntas y comprobar las respuestas con pruebas.\n\n**Pasos:**\n\n1. **Observa:** mi planta se secó.\n2. **Pregunta:** ¿por qué?\n3. **Hipótesis:** una respuesta posible: le faltó luz.\n4. **Experimenta:** cambia solo una cosa. Pon dos plantas, una con luz y otra sin luz.\n5. **Compara** lo que pasó.\n6. **Concluye** y comparte.\n\nAsí nacieron las vacunas y la electricidad en casa.\n\n**Para tu escuela:** diseña un experimento sobre qué papel absorbe más agua.",
-      "truco": "Pregunta, supón, prueba, concluye.",
-      "practica": {
-        "ejercicio": "Quieres saber si una planta crece más con luz que en la oscuridad. Escribe una hipótesis.",
-        "respuesta": "Por ejemplo: \"Si una planta recibe luz, crecerá más que una igual que está en la oscuridad\". Debe poder comprobarse midiendo."
-      },
-      "analogias": [
-        {
-          "titulo": "El detective",
-          "texto": "El científico es como un detective: no acusa sin pruebas. Reúne pistas, propone una explicación y la revisa con evidencia antes de decidir."
-        },
-        {
-          "titulo": "Receta de cocina",
-          "texto": "Un experimento es como una receta que otros pueden repetir. Si siguen los mismos pasos y obtienen el mismo resultado, la explicación gana confianza."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuál de estas frases es una hipótesis: \"el agua es transparente\" o \"si caliento el agua, hervirá más rápido con tapa\"?",
-          "respuesta": "La segunda, porque propone una relación que se puede comprobar con un experimento."
-        },
-        {
-          "ejercicio": "En un experimento sobre la altura de rebote de una pelota, ¿por qué conviene cambiar solo una variable a la vez?",
-          "respuesta": "Para saber con certeza cuál variable causó el cambio en el resultado."
-        },
-        {
-          "ejercicio": "Menciona un ejemplo de cómo el pensamiento científico mejoró la vida de las personas y explica por qué.",
-          "respuesta": "Respuesta libre. Ejemplo: las vacunas, porque se probaron con evidencia y previenen enfermedades. Debe incluir el ejemplo y la razón."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-085",
-    "titulo": "Unidades y medidas en la Física",
-    "slug": "unidades-medidas-fisica-secundaria",
-    "palabras": [
-      "sistema internacional",
-      "metro",
-      "kilogramo",
-      "segundo",
-      "conversión de unidades",
-      "magnitudes"
-    ],
-    "contenido": {
-      "idea": "Si le dices a un amigo \"mi casa está muy lejos\", no sabe cuánto es. Pero si dices \"a 500 metros\", ya lo entiende. Las unidades son el idioma común para que todos midamos lo mismo.",
-      "pizarron": "**La regla:** toda medida lleva un número y una unidad.\n\nUna **magnitud** es algo que se puede medir: longitud, masa, tiempo, temperatura. Para expresarla usamos un número y una **unidad**. En ciencia se usa el Sistema Internacional (SI):\n\n- Longitud: metro (m)\n- Masa: kilogramo (kg)\n- Tiempo: segundo (s)\n- Temperatura: kelvin (K), aunque a diario usamos grados Celsius (°C)\n\nLos prefijos cambian el tamaño: kilo (mil), centi (centésima), mili (milésima).\n\nPara convertir unidades multiplicas o divides por la equivalencia. Ejemplo: $3\\ \\text{km} = 3 \\times 1000 = 3000\\ \\text{m}$.\n\nTambién hay magnitudes derivadas, como la rapidez: $v = \\frac{d}{t}$, que se mide en metros por segundo (m/s). Siempre escribe la unidad: un número sin unidad no dice nada completo.",
-      "truco": "Kilo es mil; centi es entre cien.",
-      "practica": {
-        "ejercicio": "Convierte 350 cm a metros.",
-        "respuesta": "350 ÷ 100 = 3.5 m."
-      },
-      "analogias": [
-        {
-          "titulo": "El idioma común",
-          "texto": "Las unidades son como un idioma que todos hablan. Si cada quien usara sus propias medidas, nadie se entendería al comprar tela o construir una casa."
-        },
-        {
-          "titulo": "Dinero de distintos tamaños",
-          "texto": "Pasar de metros a kilómetros es como cambiar monedas por billetes: el valor es el mismo, solo cambia la presentación."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Convierte 2.5 km a metros.",
-          "respuesta": "2.5 × 1000 = 2500 m."
-        },
-        {
-          "ejercicio": "Convierte 3 horas a segundos.",
-          "respuesta": "3 × 60 × 60 = 10 800 s."
-        },
-        {
-          "ejercicio": "Un ciclista recorre 20 m en 4 s. ¿Cuál es su rapidez?",
-          "respuesta": "$v = \\frac{20}{4} = 5$ m/s."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-087",
-    "titulo": "Estructura, propiedades y características de la materia",
-    "slug": "estructura-propiedades-materia-fisica-secundaria",
-    "palabras": [
-      "materia",
-      "masa",
-      "volumen",
-      "densidad",
-      "átomos",
-      "moléculas",
-      "propiedades"
-    ],
-    "contenido": {
-      "idea": "Piensa en un castillo de bloques de plástico. Desde lejos parece una sola pieza, pero está hecho de muchos bloquecitos pequeños. La materia también está hecha de piezas diminutas.",
-      "pizarron": "**Qué es:** la materia es todo lo que tiene masa y ocupa un lugar. Está hecha de partículas muy pequeñas, llamadas átomos.\n\n**Propiedades de todo:**\n\n- **Masa:** cuánta materia hay. Se mide en kilos.\n- **Volumen:** cuánto espacio ocupa.\n\n**Propiedades que distinguen:** densidad, dureza y punto de ebullición.\n\n**Densidad:** masa entre volumen.\n\n$$\\rho = \\frac{m}{V}$$\n\n**Ejemplo:** 200 g que ocupan 50 cm³.\n\n$$\\frac{200}{50} = 4 \\text{ g/cm}^3$$\n\nCada sustancia tiene su densidad, y así se puede reconocer.\n\n**Para tu escuela:** calcula la densidad de 100 g que ocupan 25 cm³.",
-      "truco": "Masa y volumen: todos; densidad: identifica.",
-      "practica": {
-        "ejercicio": "Un bloque tiene masa de 300 g y volumen de 100 cm³. ¿Cuál es su densidad?",
-        "respuesta": "300 ÷ 100 = 3 g/cm³."
-      },
-      "analogias": [
-        {
-          "titulo": "Un muro de ladrillos",
-          "texto": "Un muro se ve liso, pero son ladrillos pegados. La materia se ve continua, pero son partículas muy juntas que no alcanzamos a ver."
-        },
-        {
-          "titulo": "Huella digital",
-          "texto": "Las propiedades específicas, como la densidad, son como una huella digital: cada sustancia tiene la suya y permite reconocerla."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di si la masa es una propiedad general o específica.",
-          "respuesta": "General, porque todos los cuerpos tienen masa."
-        },
-        {
-          "ejercicio": "Calcula la densidad de un líquido de 500 g que ocupa 250 cm³.",
-          "respuesta": "500 ÷ 250 = 2 g/cm³."
-        },
-        {
-          "ejercicio": "Un objeto tiene densidad de 0.8 g/cm³. Si su volumen es 50 cm³, ¿cuál es su masa?",
-          "respuesta": "m = ρ × V = 0.8 × 50 = 40 g."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-089",
-    "titulo": "Estados de agregación de la materia",
-    "slug": "estados-agregacion-materia-fisica-secundaria",
-    "palabras": [
-      "sólido",
-      "líquido",
-      "gas",
-      "plasma",
-      "cambios de estado",
-      "fusión",
-      "evaporación"
-    ],
-    "contenido": {
-      "idea": "Imagina a un grupo de niños. Sentados en filas están quietos como un sólido; corriendo juntos en el patio son como un líquido; y si salen disparados en todas direcciones son como un gas.",
-      "pizarron": "**Qué es:** la materia puede ser sólida, líquida o gas, según qué tan juntas y movidas estén sus partículas.\n\nImagina niños en un salón.\n\n**Sólido:** sentados en fila. Solo se mueven poquito. Tiene forma fija.\n\n**Líquido:** caminando entre las bancas. Toma la forma del vaso.\n\n**Gas:** corriendo en el patio. Llena todo el espacio.\n\n**Plasma:** gas muy caliente, como en el Sol.\n\n**Cambios:** fusión, de sólido a líquido. Evaporación, de líquido a gas. Condensación, de gas a líquido. Solidificación, de líquido a sólido.\n\nEl hielo se funde a 0 °C y el agua hierve a 100 °C, al nivel del mar.\n\n**Para tu escuela:** di qué cambio ves al sacar un helado al sol.",
-      "truco": "Más calor, más movimiento, más separación.",
-      "practica": {
-        "ejercicio": "¿Cómo se llama el paso de gas a líquido?",
-        "respuesta": "Condensación."
-      },
-      "analogias": [
-        {
-          "titulo": "Un estadio",
-          "texto": "En un estadio lleno y sentado, la gente es como un sólido; al salir, fluyen como líquido; y en el exterior se dispersan como gas."
-        },
-        {
-          "titulo": "Bailar",
-          "texto": "Calentar es poner música más rápida: las partículas bailan con más energía, se separan y cambian de estado."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué estado tiene forma y volumen definidos?",
-          "respuesta": "El sólido."
-        },
-        {
-          "ejercicio": "El hielo se derrite. ¿Qué cambio de estado ocurre?",
-          "respuesta": "Fusión, de sólido a líquido."
-        },
-        {
-          "ejercicio": "¿Por qué un gas llena todo el recipiente que lo contiene?",
-          "respuesta": "Porque sus partículas están muy separadas, se mueven con rapidez y casi no se atraen."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-092",
-    "titulo": "Principios de Pascal y de Arquímedes",
-    "slug": "principios-pascal-arquimedes-fisica-secundaria",
-    "palabras": [
-      "presión",
-      "prensa hidráulica",
-      "empuje",
-      "flotación",
-      "fluidos",
-      "densidad"
-    ],
-    "contenido": {
-      "idea": "Si aprietas un globo lleno de agua con el dedo, todo el globo se siente apretado, no solo donde empujas. Y cuando metes una pelota al agua, sientes que algo la empuja hacia arriba.",
-      "pizarron": "**La ley:** Pascal: la presión en un líquido encerrado llega igual a todos lados. Arquímedes: el empuje es igual al peso del líquido apartado.\n\n**Presión:** fuerza entre área. $P = \\frac{F}{A}$.\n\n**Pascal:** en un gato hidráulico, empujas poco en el émbolo chico y sale mucha fuerza en el grande.\n\n$$\\frac{F_1}{A_1} = \\frac{F_2}{A_2}$$\n\n**Arquímedes:** por eso flotan los barcos.\n\n$$E = \\rho g V$$\n\n**Para tu escuela:** aprieta una botella de agua cerrada y explica lo que sientes.",
-      "truco": "Pascal transmite; Arquímedes empuja hacia arriba.",
-      "practica": {
-        "ejercicio": "Una fuerza de 100 N actúa sobre 4 m². ¿Qué presión ejerce?",
-        "respuesta": "P = 100 ÷ 4 = 25 Pa."
-      },
-      "analogias": [
-        {
-          "titulo": "Tubo de pasta dental",
-          "texto": "Al apretar el tubo en un punto, la pasta sale por la punta: la presión se transmite por todo el interior, como dice Pascal."
-        },
-        {
-          "titulo": "Subirse a una alberca",
-          "texto": "Cuando cargas a un amigo dentro de la alberca, se siente ligero. El agua lo empuja hacia arriba, como indica Arquímedes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Calcula la presión de una fuerza de 200 N sobre una superficie de 0.5 m².",
-          "respuesta": "P = 200 ÷ 0.5 = 400 Pa."
-        },
-        {
-          "ejercicio": "En una prensa hidráulica, el émbolo chico tiene 2 cm² y recibe 10 N. Si el grande tiene 50 cm², ¿qué fuerza se obtiene?",
-          "respuesta": "F₂ = 10 × 50 ÷ 2 = 250 N."
-        },
-        {
-          "ejercicio": "Un objeto de 0.002 m³ se sumerge totalmente en agua (1000 kg/m³). Calcula el empuje con g = 10 m/s².",
-          "respuesta": "E = 1000 × 10 × 0.002 = 20 N."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-095",
-    "titulo": "Interacciones de la electricidad y el magnetismo",
-    "slug": "electricidad-magnetismo-interacciones-fisica-secundaria",
-    "palabras": [
-      "carga eléctrica",
-      "imán",
-      "campo magnético",
-      "electroimán",
-      "corriente eléctrica",
-      "polos"
-    ],
-    "contenido": {
-      "idea": "Frota un globo en tu cabello y se pega a la pared. Acerca dos imanes y a veces se jalan y a veces se empujan. Son fuerzas que actúan sin tocar.",
-      "pizarron": "**La ley:** cargas iguales se repelen y distintas se atraen. Con los imanes pasa igual. Además, una corriente crea magnetismo, y un imán en movimiento crea corriente.\n\n**Electricidad:** frota un globo en tu pelo. Pasan electrones y el globo se pega.\n\n**Magnetismo:** un imán tiene polo norte y polo sur. Su zona de fuerza se llama **campo magnético**.\n\n**Juntos:**\n\nEnrolla alambre en un clavo y conecta una pila: tienes un **electroimán**.\n\nMueve un imán junto a un alambre enrollado: hay corriente. Así funcionan los generadores.\n\n**Para tu escuela:** di qué aparatos de tu casa tienen un motor eléctrico.",
-      "truco": "Iguales se repelen, distintos se atraen.",
-      "practica": {
-        "ejercicio": "Acercas el polo norte de un imán al polo norte de otro. ¿Qué ocurre?",
-        "respuesta": "Se repelen, porque polos iguales se rechazan."
-      },
-      "analogias": [
-        {
-          "titulo": "Amigos y rivales",
-          "texto": "Las cargas son como personas: las opuestas se buscan y las iguales se evitan, aunque no se toquen."
-        },
-        {
-          "titulo": "El aire de un ventilador",
-          "texto": "El campo magnético es como el viento de un ventilador: no lo ves, pero empuja lo que está cerca."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Dos cargas negativas se acercan. ¿Se atraen o se repelen?",
-          "respuesta": "Se repelen, porque son cargas iguales."
-        },
-        {
-          "ejercicio": "¿Cómo puedes fabricar un electroimán sencillo?",
-          "respuesta": "Enrollando alambre de cobre en un clavo de hierro y conectándolo a una pila."
-        },
-        {
-          "ejercicio": "Un imán se mueve dentro de una bobina conectada a un foco pequeño. ¿Qué puede ocurrir y por qué?",
-          "respuesta": "El foco puede encender, porque el imán en movimiento induce corriente eléctrica en la bobina."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-098",
-    "titulo": "Fenómenos, procesos y factores del cambio climático",
-    "slug": "cambio-climatico-fenomenos-factores-fisica-secundaria",
-    "palabras": [
-      "efecto invernadero",
-      "calentamiento global",
-      "dióxido de carbono",
-      "clima",
-      "atmósfera",
-      "gases"
-    ],
-    "contenido": {
-      "idea": "Un auto cerrado bajo el sol se calienta mucho por dentro: la luz entra, pero el calor no sale fácilmente. La atmósfera hace algo parecido con nuestro planeta.",
-      "pizarron": "**Qué es:** el cambio climático es un cambio duradero en el clima promedio de la Tierra.\n\n**Clima** no es lo mismo que el tiempo de hoy. Es el promedio de muchos años.\n\n**Efecto invernadero:**\n\n1. El Sol calienta la Tierra.\n2. La Tierra devuelve calor.\n3. Gases como $\\ce{CO2}$ y $\\ce{CH4}$ atrapan parte.\n\nEs útil, porque sin él haría mucho frío. El problema es que hay gases de más.\n\n**Causas:** quemar petróleo, talar árboles y la ganadería.\n\n**Soluciones:** energías limpias, ahorrar energía y cuidar los bosques.\n\n**Para recordar:**\n- **¿Por qué el efecto invernadero natural es necesario para la vida?** Porque mantiene la temperatura del planeta en un rango en el que pueden vivir los seres vivos; sin él sería mucho más frío.\n\n**Para tu escuela:** explica el efecto invernadero con un coche al sol.",
-      "truco": "Más gases, más calor atrapado.",
-      "practica": {
-        "ejercicio": "¿Por qué el efecto invernadero natural es necesario para la vida?",
-        "respuesta": "Porque mantiene la temperatura del planeta en un rango en el que pueden vivir los seres vivos; sin él sería mucho más frío."
-      },
-      "analogias": [
-        {
-          "titulo": "Una cobija",
-          "texto": "Los gases de invernadero son como una cobija: una te abriga, pero si le echas diez encima, te acaloras demasiado."
-        },
-        {
-          "titulo": "Un coche al sol",
-          "texto": "Los vidrios dejan entrar la luz pero atrapan el calor, igual que la atmósfera con los gases de invernadero."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos gases de efecto invernadero.",
-          "respuesta": "Dióxido de carbono y metano (también el vapor de agua)."
-        },
-        {
-          "ejercicio": "¿Por qué la deforestación contribuye al cambio climático?",
-          "respuesta": "Porque hay menos árboles que absorban dióxido de carbono de la atmósfera."
-        },
-        {
-          "ejercicio": "Reflexiona: escribe dos acciones que puedes hacer en casa o en la escuela para reducir tu impacto y explica por qué ayudan.",
-          "respuesta": "Respuesta libre. Criterios: acciones realistas (apagar luces, usar menos plásticos, caminar o usar bicicleta) y una razón relacionada con menor consumo de energía o menos emisiones."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-081",
+"titulo": "Física en segundo grado de secundaria: panorama",
+"slug": "fisica-secundaria-segundo-grado-panorama",
+"palabras": [
+"física segundo grado",
+"qué estudia la física",
+"secundaria física",
+"fenómenos naturales"
+],
+"contenido": {
+"idea": "Imagina que la física es como un manual para entender los juegos del patio: por qué la pelota rueda, por qué el columpio sube y baja, por qué el imán pega en el refrigerador. Todo tiene una razón que se puede descubrir.",
+"pizarron": "**Qué es:** la física explica cómo funciona el mundo: por qué caen las cosas, por qué prende un foco y qué es el calor.\n\n**Lo que verás en secundaria:**\n\n1. Hacer preguntas y comprobarlas.\n2. Medir con unidades.\n3. De qué está hecha la materia.\n4. Cómo flotan las cosas y qué es la presión.\n5. Electricidad e imanes.\n6. Por qué cambia el clima.\n\nSiempre se hace igual: observar, medir y explicar.\n\nUn barco que flota se explica con fluidos y el principio de Arquímedes.\n\n**Para tu escuela:** escribe tres preguntas de física sobre cosas que ves en tu casa.",
+"truco": "Observo, mido y explico.",
+"practica": {
+"ejercicio": "Un compañero dice: \"la física solo sirve para hacer cálculos\". Da un ejemplo de tu vida diaria donde la física explique algo sin necesidad de números.",
+"respuesta": "Respuesta libre válida: por ejemplo, un imán que pega en el refrigerador o un hielo que se derrite al sol. Debe nombrar un fenómeno real y explicar brevemente qué lo causa."
+},
+"analogias": [
+{
+"titulo": "Un mapa de la ciudad",
+"texto": "El panorama de física es como un mapa: cada tema es un barrio distinto, pero todos están conectados por las mismas calles, que son la medición y el método científico."
+},
+{
+"titulo": "Una caja de herramientas",
+"texto": "Cada tema te da una herramienta nueva: unidades para medir, modelos de materia, ideas de fuerza. Con la caja completa puedes resolver más problemas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres temas de física que estudiarás en segundo grado.",
+"respuesta": "Por ejemplo: unidades y medidas, estados de agregación de la materia, electricidad y magnetismo."
+},
+{
+"ejercicio": "¿Qué tema relacionarías con un barco que flota en el agua?",
+"respuesta": "Fluidos: el principio de Arquímedes."
+},
+{
+"ejercicio": "Escribe una pregunta que podrías investigar con el método científico sobre un fenómeno de tu casa.",
+"respuesta": "Respuesta libre. Debe poder observarse o medirse, por ejemplo: ¿cuánto tarda en derretirse un hielo al sol y a la sombra?"
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "El pensamiento científico y su impacto en la sociedad",
+"slug": "pensamiento-cientifico-sociedad-fisica-secundaria",
+"palabras": [
+"método científico",
+"hipótesis",
+"experimento",
+"ciencia y sociedad",
+"investigar"
+],
+"contenido": {
+"idea": "Cuando un juguete no prende, no lo tiras: revisas si tiene pilas, pruebas otras pilas y vas descartando causas. Eso es pensar como científico: preguntar, probar y aprender del resultado.",
+"pizarron": "**Qué es:** pensar como científico es hacer preguntas y comprobar las respuestas con pruebas.\n\n**Pasos:**\n\n1. **Observa:** mi planta se secó.\n2. **Pregunta:** ¿por qué?\n3. **Hipótesis:** una respuesta posible: le faltó luz.\n4. **Experimenta:** cambia solo una cosa. Pon dos plantas, una con luz y otra sin luz.\n5. **Compara** lo que pasó.\n6. **Concluye** y comparte.\n\nAsí nacieron las vacunas y la electricidad en casa.\n\n**Hipótesis:** una idea que se puede comprobar con un experimento. Suele decir *si pasa esto, pasará aquello*.\n\n**Para tu escuela:** diseña un experimento sobre qué papel absorbe más agua.",
+"truco": "Pregunta, supón, prueba, concluye.",
+"practica": {
+"ejercicio": "Quieres saber si una planta crece más con luz que en la oscuridad. Escribe una hipótesis.",
+"respuesta": "Por ejemplo: \"Si una planta recibe luz, crecerá más que una igual que está en la oscuridad\". Debe poder comprobarse midiendo."
+},
+"analogias": [
+{
+"titulo": "El detective",
+"texto": "El científico es como un detective: no acusa sin pruebas. Reúne pistas, propone una explicación y la revisa con evidencia antes de decidir."
+},
+{
+"titulo": "Receta de cocina",
+"texto": "Un experimento es como una receta que otros pueden repetir. Si siguen los mismos pasos y obtienen el mismo resultado, la explicación gana confianza."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál de estas frases es una hipótesis: \"el agua es transparente\" o \"si caliento el agua, hervirá más rápido con tapa\"?",
+"respuesta": "La segunda, porque propone una relación que se puede comprobar con un experimento."
+},
+{
+"ejercicio": "En un experimento sobre la altura de rebote de una pelota, ¿por qué conviene cambiar solo una variable a la vez?",
+"respuesta": "Para saber con certeza cuál variable causó el cambio en el resultado."
+},
+{
+"ejercicio": "Menciona un ejemplo de cómo el pensamiento científico mejoró la vida de las personas y explica por qué.",
+"respuesta": "Respuesta libre. Ejemplo: las vacunas, porque se probaron con evidencia y previenen enfermedades. Debe incluir el ejemplo y la razón."
+}
+]
+}
+},
+{
+"nodo_id": "f6-085",
+"titulo": "Unidades y medidas en la Física",
+"slug": "unidades-medidas-fisica-secundaria",
+"palabras": [
+"sistema internacional",
+"metro",
+"kilogramo",
+"segundo",
+"conversión de unidades",
+"magnitudes"
+],
+"contenido": {
+"idea": "Si le dices a un amigo \"mi casa está muy lejos\", no sabe cuánto es. Pero si dices \"a 500 metros\", ya lo entiende. Las unidades son el idioma común para que todos midamos lo mismo.",
+"pizarron": "**La regla:** toda medida lleva un número y una unidad.\n\n**Imagínalo:** si dices *mide 5*, nadie sabe si son metros o kilómetros.\n\n**Sistema Internacional:**\n\n- Longitud: metro (m).\n- Masa: kilogramo (kg).\n- Tiempo: segundo (s).\n- Temperatura: kelvin (K).\n\n**Prefijos:** kilo es mil. Centi es una centésima. Mili es una milésima.\n\n**Convertir:** $3$ km son $3000$ m. $200$ cm son 2 m. 1 hora son 3600 s.\n\n**Rapidez:** $v = \\frac{d}{t}$. **En palabras:** metros entre segundos. 10 m en 2 s: 5 m/s.\n\n**Para tu escuela:** mide tu lápiz en centímetros y en milímetros.",
+"truco": "Kilo es mil; centi es entre cien.",
+"practica": {
+"ejercicio": "Convierte 350 cm a metros.",
+"respuesta": "350 ÷ 100 = 3.5 m."
+},
+"analogias": [
+{
+"titulo": "El idioma común",
+"texto": "Las unidades son como un idioma que todos hablan. Si cada quien usara sus propias medidas, nadie se entendería al comprar tela o construir una casa."
+},
+{
+"titulo": "Dinero de distintos tamaños",
+"texto": "Pasar de metros a kilómetros es como cambiar monedas por billetes: el valor es el mismo, solo cambia la presentación."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 2.5 km a metros.",
+"respuesta": "2.5 × 1000 = 2500 m."
+},
+{
+"ejercicio": "Convierte 3 horas a segundos.",
+"respuesta": "3 × 60 × 60 = 10 800 s."
+},
+{
+"ejercicio": "Un ciclista recorre 20 m en 4 s. ¿Cuál es su rapidez?",
+"respuesta": "$v = \\frac{20}{4} = 5$ m/s."
+}
+]
+}
+},
+{
+"nodo_id": "f6-087",
+"titulo": "Estructura, propiedades y características de la materia",
+"slug": "estructura-propiedades-materia-fisica-secundaria",
+"palabras": [
+"materia",
+"masa",
+"volumen",
+"densidad",
+"átomos",
+"moléculas",
+"propiedades"
+],
+"contenido": {
+"idea": "Piensa en un castillo de bloques de plástico. Desde lejos parece una sola pieza, pero está hecho de muchos bloquecitos pequeños. La materia también está hecha de piezas diminutas.",
+"pizarron": "**Qué es:** la materia es todo lo que tiene masa y ocupa un lugar. Está hecha de partículas muy pequeñas, llamadas átomos.\n\n**Imagínalo:** los átomos son los ladrillos de todo.\n\n**Propiedades generales:** las tienen todos los cuerpos. Masa y volumen.\n\n**Propiedades específicas:** ayudan a reconocer una sustancia. Densidad, dureza y punto de ebullición.\n\n**Densidad:** masa entre volumen. 200 g en 50 cm³: 4 g/cm³.\n\n**Masa:** densidad por volumen. Con 2 g/cm³ y 10 cm³: 20 g.\n\n**Para tu escuela:** compara un cubo de madera y uno de metal del mismo tamaño.",
+"truco": "Masa y volumen: todos; densidad: identifica.",
+"practica": {
+"ejercicio": "Un bloque tiene masa de 300 g y volumen de 100 cm³. ¿Cuál es su densidad?",
+"respuesta": "300 ÷ 100 = 3 g/cm³."
+},
+"analogias": [
+{
+"titulo": "Un muro de ladrillos",
+"texto": "Un muro se ve liso, pero son ladrillos pegados. La materia se ve continua, pero son partículas muy juntas que no alcanzamos a ver."
+},
+{
+"titulo": "Huella digital",
+"texto": "Las propiedades específicas, como la densidad, son como una huella digital: cada sustancia tiene la suya y permite reconocerla."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di si la masa es una propiedad general o específica.",
+"respuesta": "General, porque todos los cuerpos tienen masa."
+},
+{
+"ejercicio": "Calcula la densidad de un líquido de 500 g que ocupa 250 cm³.",
+"respuesta": "500 ÷ 250 = 2 g/cm³."
+},
+{
+"ejercicio": "Un objeto tiene densidad de 0.8 g/cm³. Si su volumen es 50 cm³, ¿cuál es su masa?",
+"respuesta": "m = ρ × V = 0.8 × 50 = 40 g."
+}
+]
+}
+},
+{
+"nodo_id": "f6-089",
+"titulo": "Estados de agregación de la materia",
+"slug": "estados-agregacion-materia-fisica-secundaria",
+"palabras": [
+"sólido",
+"líquido",
+"gas",
+"plasma",
+"cambios de estado",
+"fusión",
+"evaporación"
+],
+"contenido": {
+"idea": "Imagina a un grupo de niños. Sentados en filas están quietos como un sólido; corriendo juntos en el patio son como un líquido; y si salen disparados en todas direcciones son como un gas.",
+"pizarron": "**Qué es:** la materia puede ser sólida, líquida o gas, según qué tan juntas y movidas estén sus partículas.\n\nImagina niños en un salón.\n\n**Sólido:** sentados en fila. Solo se mueven poquito. Tiene forma fija.\n\n**Líquido:** caminando entre las bancas. Toma la forma del vaso.\n\n**Gas:** corriendo en el patio. Llena todo el espacio.\n\n**Plasma:** gas muy caliente, como en el Sol.\n\n**Cambios:** fusión, de sólido a líquido. Evaporación, de líquido a gas. Condensación, de gas a líquido. Solidificación, de líquido a sólido.\n\nEl hielo se funde a 0 °C y el agua hierve a 100 °C, al nivel del mar.\n\n**Para tu escuela:** di qué cambio ves al sacar un helado al sol.",
+"truco": "Más calor, más movimiento, más separación.",
+"practica": {
+"ejercicio": "¿Cómo se llama el paso de gas a líquido?",
+"respuesta": "Condensación."
+},
+"analogias": [
+{
+"titulo": "Un estadio",
+"texto": "En un estadio lleno y sentado, la gente es como un sólido; al salir, fluyen como líquido; y en el exterior se dispersan como gas."
+},
+{
+"titulo": "Bailar",
+"texto": "Calentar es poner música más rápida: las partículas bailan con más energía, se separan y cambian de estado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué estado tiene forma y volumen definidos?",
+"respuesta": "El sólido."
+},
+{
+"ejercicio": "El hielo se derrite. ¿Qué cambio de estado ocurre?",
+"respuesta": "Fusión, de sólido a líquido."
+},
+{
+"ejercicio": "¿Por qué un gas llena todo el recipiente que lo contiene?",
+"respuesta": "Porque sus partículas están muy separadas, se mueven con rapidez y casi no se atraen."
+}
+]
+}
+},
+{
+"nodo_id": "f6-092",
+"titulo": "Principios de Pascal y de Arquímedes",
+"slug": "principios-pascal-arquimedes-fisica-secundaria",
+"palabras": [
+"presión",
+"prensa hidráulica",
+"empuje",
+"flotación",
+"fluidos",
+"densidad"
+],
+"contenido": {
+"idea": "Si aprietas un globo lleno de agua con el dedo, todo el globo se siente apretado, no solo donde empujas. Y cuando metes una pelota al agua, sientes que algo la empuja hacia arriba.",
+"pizarron": "**La ley:** Pascal: la presión en un líquido encerrado llega igual a todos lados. Arquímedes: el empuje es igual al peso del líquido apartado.\n\n**Imagínalo:** Pascal es apretar un globo de agua. Arquímedes es sentirte ligero en la alberca.\n\n**Presión:** $P = \\frac{F}{A}$. **En palabras:** fuerza entre área. 50 N en 2 m²: 25 Pa.\n\n**Pascal:** $\\frac{F_1}{A_1} = \\frac{F_2}{A_2}$. Con 5 N, áreas 1 y 20: 100 N.\n\n**Arquímedes:** $E = \\rho g V$. **En palabras:** densidad por gravedad por volumen. Con 1000, 10 y 0.001: 10 N.\n\n**Para tu escuela:** aprieta una botella de agua cerrada y explica lo que sientes.",
+"truco": "Pascal transmite; Arquímedes empuja hacia arriba.",
+"practica": {
+"ejercicio": "Una fuerza de 100 N actúa sobre 4 m². ¿Qué presión ejerce?",
+"respuesta": "P = 100 ÷ 4 = 25 Pa."
+},
+"analogias": [
+{
+"titulo": "Tubo de pasta dental",
+"texto": "Al apretar el tubo en un punto, la pasta sale por la punta: la presión se transmite por todo el interior, como dice Pascal."
+},
+{
+"titulo": "Subirse a una alberca",
+"texto": "Cuando cargas a un amigo dentro de la alberca, se siente ligero. El agua lo empuja hacia arriba, como indica Arquímedes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula la presión de una fuerza de 200 N sobre una superficie de 0.5 m².",
+"respuesta": "P = 200 ÷ 0.5 = 400 Pa."
+},
+{
+"ejercicio": "En una prensa hidráulica, el émbolo chico tiene 2 cm² y recibe 10 N. Si el grande tiene 50 cm², ¿qué fuerza se obtiene?",
+"respuesta": "F₂ = 10 × 50 ÷ 2 = 250 N."
+},
+{
+"ejercicio": "Un objeto de 0.002 m³ se sumerge totalmente en agua (1000 kg/m³). Calcula el empuje con g = 10 m/s².",
+"respuesta": "E = 1000 × 10 × 0.002 = 20 N."
+}
+]
+}
+},
+{
+"nodo_id": "f6-095",
+"titulo": "Interacciones de la electricidad y el magnetismo",
+"slug": "electricidad-magnetismo-interacciones-fisica-secundaria",
+"palabras": [
+"carga eléctrica",
+"imán",
+"campo magnético",
+"electroimán",
+"corriente eléctrica",
+"polos"
+],
+"contenido": {
+"idea": "Frota un globo en tu cabello y se pega a la pared. Acerca dos imanes y a veces se jalan y a veces se empujan. Son fuerzas que actúan sin tocar.",
+"pizarron": "**La ley:** cargas iguales se repelen y distintas se atraen. Con los imanes pasa igual. Además, una corriente crea magnetismo, y un imán en movimiento crea corriente.\n\n**Electricidad:** frota un globo en tu pelo. Pasan electrones y el globo se pega.\n\n**Magnetismo:** un imán tiene polo norte y polo sur. Su zona de fuerza se llama **campo magnético**.\n\n**Juntos:**\n\nEnrolla alambre en un clavo y conecta una pila: tienes un **electroimán**.\n\nMueve un imán junto a un alambre enrollado: hay corriente. Así funcionan los generadores.\n\n**Para tu escuela:** di qué aparatos de tu casa tienen un motor eléctrico.",
+"truco": "Iguales se repelen, distintos se atraen.",
+"practica": {
+"ejercicio": "Acercas el polo norte de un imán al polo norte de otro. ¿Qué ocurre?",
+"respuesta": "Se repelen, porque polos iguales se rechazan."
+},
+"analogias": [
+{
+"titulo": "Amigos y rivales",
+"texto": "Las cargas son como personas: las opuestas se buscan y las iguales se evitan, aunque no se toquen."
+},
+{
+"titulo": "El aire de un ventilador",
+"texto": "El campo magnético es como el viento de un ventilador: no lo ves, pero empuja lo que está cerca."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Dos cargas negativas se acercan. ¿Se atraen o se repelen?",
+"respuesta": "Se repelen, porque son cargas iguales."
+},
+{
+"ejercicio": "¿Cómo puedes fabricar un electroimán sencillo?",
+"respuesta": "Enrollando alambre de cobre en un clavo de hierro y conectándolo a una pila."
+},
+{
+"ejercicio": "Un imán se mueve dentro de una bobina conectada a un foco pequeño. ¿Qué puede ocurrir y por qué?",
+"respuesta": "El foco puede encender, porque el imán en movimiento induce corriente eléctrica en la bobina."
+}
+]
+}
+},
+{
+"nodo_id": "f6-098",
+"titulo": "Fenómenos, procesos y factores del cambio climático",
+"slug": "cambio-climatico-fenomenos-factores-fisica-secundaria",
+"palabras": [
+"efecto invernadero",
+"calentamiento global",
+"dióxido de carbono",
+"clima",
+"atmósfera",
+"gases"
+],
+"contenido": {
+"idea": "Un auto cerrado bajo el sol se calienta mucho por dentro: la luz entra, pero el calor no sale fácilmente. La atmósfera hace algo parecido con nuestro planeta.",
+"pizarron": "**Qué es:** el cambio climático es un cambio duradero en el clima promedio de la Tierra.\n\n**Clima** no es lo mismo que el tiempo de hoy. Es el promedio de muchos años.\n\n**Efecto invernadero:** es como un coche al sol.\n\n1. El Sol calienta la Tierra.\n2. La Tierra devuelve calor.\n3. Gases como dióxido de carbono y metano atrapan parte.\n\nSin él, haría demasiado frío para vivir. El problema es que ahora hay gases de más.\n\n**Causas:** quemar petróleo y talar árboles, porque absorben dióxido de carbono.\n\n**Soluciones:** energías limpias y cuidar los bosques.\n\n**Para tu escuela:** mide la temperatura adentro y afuera de un coche al sol, con un adulto.",
+"truco": "Más gases, más calor atrapado.",
+"practica": {
+"ejercicio": "¿Por qué el efecto invernadero natural es necesario para la vida?",
+"respuesta": "Porque mantiene la temperatura del planeta en un rango en el que pueden vivir los seres vivos; sin él sería mucho más frío."
+},
+"analogias": [
+{
+"titulo": "Una cobija",
+"texto": "Los gases de invernadero son como una cobija: una te abriga, pero si le echas diez encima, te acaloras demasiado."
+},
+{
+"titulo": "Un coche al sol",
+"texto": "Los vidrios dejan entrar la luz pero atrapan el calor, igual que la atmósfera con los gases de invernadero."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos gases de efecto invernadero.",
+"respuesta": "Dióxido de carbono y metano (también el vapor de agua)."
+},
+{
+"ejercicio": "¿Por qué la deforestación contribuye al cambio climático?",
+"respuesta": "Porque hay menos árboles que absorban dióxido de carbono de la atmósfera."
+},
+{
+"ejercicio": "Reflexiona: escribe dos acciones que puedes hacer en casa o en la escuela para reducir tu impacto y explica por qué ayudan.",
+"respuesta": "Respuesta libre. Criterios: acciones realistas (apagar luces, usar menos plásticos, caminar o usar bicicleta) y una razón relacionada con menor consumo de energía o menos emisiones."
+}
+]
+}
+}
 ]

@@ -1,459 +1,459 @@
 [
-  {
-    "nodo_id": "f4-081",
-    "titulo": "Cuentos: leerlos y escribirlos",
-    "slug": "cuentos-lectura-y-escritura-primaria",
-    "palabras": [
-      "cuento",
-      "narrativa",
-      "inicio nudo desenlace",
-      "personajes",
-      "escribir un cuento"
-    ],
-    "contenido": {
-      "idea": "Un cuento es como contar a un amigo lo que le pasó a alguien: primero dices quién es, luego qué problema tuvo y al final cómo terminó todo.",
-      "pizarron": "**Qué es:** un cuento es una historia breve con inicio, problema y final.\n\n**Para escribir:** elige personaje, lugar y problema.\n\n**Para tu escuela:** escribe un cuento de cinco oraciones.",
-      "truco": "Inicio, nudo, desenlace: presento, enredo, resuelvo.",
-      "practica": {
-        "ejercicio": "Lee: \"Ana perdió su gorra en el parque. La buscó entre los columpios y un niño la encontró. Ana le dio las gracias.\" Señala el inicio, el nudo y el desenlace.",
-        "respuesta": "Inicio: Ana está en el parque. Nudo: perdió su gorra y la busca. Desenlace: un niño la encuentra y Ana agradece."
-      },
-      "analogias": [
-        {
-          "titulo": "Una montaña",
-          "texto": "El inicio es el camino plano, el nudo es la subida difícil y el desenlace es bajar al otro lado con el problema resuelto."
-        },
-        {
-          "titulo": "Una receta",
-          "texto": "Los personajes son los ingredientes, el problema es la mezcla y el final es el platillo ya listo para disfrutar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué parte del cuento presenta a los personajes y el lugar?",
-          "respuesta": "El inicio."
-        },
-        {
-          "ejercicio": "En un cuento, el gato no alcanza el pescado de la mesa. ¿Esto es inicio, nudo o desenlace?",
-          "respuesta": "Es el nudo, porque es el problema."
-        },
-        {
-          "ejercicio": "Escribe un cuento de tres oraciones sobre un perro que se pierde.",
-          "respuesta": "Respuesta libre. Debe tener inicio (presenta al perro), nudo (se pierde) y desenlace (lo encuentran), con verbos en pasado."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-001",
-    "titulo": "Narrar sucesos autobiográficos",
-    "slug": "narracion-autobiografica-primaria",
-    "palabras": [
-      "autobiografía",
-      "contar mi vida",
-      "anécdota",
-      "primera persona",
-      "recuerdos"
-    ],
-    "contenido": {
-      "idea": "Es como platicarle a un amigo algo que te pasó a ti, pero escribiéndolo para que lo entienda aunque no estuvo ahí.",
-      "pizarron": "**Qué es:** es contar tu propia vida, usando *yo*.\n\nUsa orden: primero, después y al final.\n\n**Para tu escuela:** cuenta un día importante de tu vida.",
-      "truco": "Yo, cuándo, dónde, qué pasó y qué sentí.",
-      "practica": {
-        "ejercicio": "Convierte a primera persona: \"Luis se cayó de la bici y lloró\".",
-        "respuesta": "Me caí de la bici y lloré."
-      },
-      "analogias": [
-        {
-          "titulo": "Un álbum de fotos",
-          "texto": "Cada párrafo es una foto de tu recuerdo; las pones en orden y escribes qué se ve en cada una."
-        },
-        {
-          "titulo": "Un video casero",
-          "texto": "Narrar es grabar con palabras lo que viviste, desde el inicio hasta el final, para que otro lo vea con su imaginación."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿En qué persona se escribe una autobiografía?",
-          "respuesta": "En primera persona."
-        },
-        {
-          "ejercicio": "Ordena con conectores: (a) Finalmente regresé a casa. (b) Primero salimos de paseo. (c) Después comimos tacos.",
-          "respuesta": "b, c, a."
-        },
-        {
-          "ejercicio": "Escribe tres oraciones sobre tu primer día de escuela con verbos en pasado.",
-          "respuesta": "Respuesta libre. Debe estar en primera persona, en pasado y con orden cronológico."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-005",
-    "titulo": "Textos explicativos",
-    "slug": "textos-explicativos-primaria",
-    "palabras": [
-      "explicar",
-      "texto explicativo",
-      "por qué ocurre",
-      "causa y efecto",
-      "exposición"
-    ],
-    "contenido": {
-      "idea": "Es como cuando le explicas a un niño pequeño por qué sale el arcoíris: le das datos claros, paso a paso, para que lo entienda.",
-      "pizarron": "**Qué es:** un texto explicativo dice por qué o cómo pasa algo.\n\n**Tiene tres partes:**\n\n1. **Introducción:** presenta el tema.\n2. **Desarrollo:** explica.\n3. **Cierre:** termina la idea.\n\n**Palabras que unen ideas:** *porque* y *por eso*.\n\nLlovió mucho, *por eso* se inundó la calle.\n\n**Para tu escuela:** explica por qué llueve.",
-      "truco": "Presento, explico con porque y resumo.",
-      "practica": {
-        "ejercicio": "Completa: \"Las plantas necesitan luz ____ con ella fabrican su alimento\".",
-        "respuesta": "porque"
-      },
-      "analogias": [
-        {
-          "titulo": "Un instructivo",
-          "texto": "Así como un instructivo te dice cómo armar un juguete, el texto explicativo te dice cómo funciona algo."
-        },
-        {
-          "titulo": "Un mapa",
-          "texto": "Te guía desde la pregunta hasta la respuesta sin que te pierdas, señalando cada causa en el camino."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuáles son las tres partes de un texto explicativo?",
-          "respuesta": "Introducción, desarrollo y cierre."
-        },
-        {
-          "ejercicio": "Une con un conector: \"Llovió mucho. Se inundó la calle\".",
-          "respuesta": "Llovió mucho, por eso se inundó la calle (o: se inundó la calle porque llovió mucho)."
-        },
-        {
-          "ejercicio": "Escribe una pregunta explicativa sobre la naturaleza y dos ideas para responderla.",
-          "respuesta": "Respuesta libre. Ejemplo: ¿Por qué hay día y noche? La Tierra gira sobre su eje; el Sol ilumina solo una mitad."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-009",
-    "titulo": "Debates sobre temas de interés común",
-    "slug": "debate-temas-comunes-primaria",
-    "palabras": [
-      "debate",
-      "opinión",
-      "argumentos",
-      "moderador",
-      "turnos de palabra",
-      "respeto"
-    ],
-    "contenido": {
-      "idea": "Es como cuando el grupo decide a qué jugar en el recreo: cada quien dice su idea con razones y todos escuchan sin gritar.",
-      "pizarron": "**Qué es:** un debate es una plática ordenada donde cada quien da razones.\n\nPide la palabra, escucha y no insultes.\n\n**Para recordar:**\n- **¿Cuál es la función del moderador?** Dar la palabra, cuidar los tiempos y mantener el orden.\n\n**Para tu escuela:** debatan si debe haber tarea los viernes.",
-      "truco": "Opino, doy razón, escucho y respeto turnos.",
-      "practica": {
-        "ejercicio": "Convierte en argumento: \"Hay que cuidar el agua\".",
-        "respuesta": "Hay que cuidar el agua porque es limitada y todos la necesitamos para vivir."
-      },
-      "analogias": [
-        {
-          "titulo": "Un partido de pelota",
-          "texto": "Las ideas se pasan de un lado a otro con reglas: nadie se roba la pelota y el árbitro es el moderador."
-        },
-        {
-          "titulo": "Una balanza",
-          "texto": "Cada argumento pesa en un lado; gana el que tiene mejores razones, no el que habla más fuerte."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuál es la función del moderador?",
-          "respuesta": "Dar la palabra, cuidar los tiempos y mantener el orden."
-        },
-        {
-          "ejercicio": "¿Cuál es un argumento mejor: \"Es malo\" o \"Es malo porque contamina el río\"?",
-          "respuesta": "El segundo, porque da una razón."
-        },
-        {
-          "ejercicio": "Escribe tu postura y una razón sobre si debe haber más árboles en la escuela.",
-          "respuesta": "Respuesta libre. Debe incluir postura clara y al menos una razón con \"porque\"."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-013",
-    "titulo": "Textos argumentativos",
-    "slug": "textos-argumentativos-primaria",
-    "palabras": [
-      "argumentar",
-      "tesis",
-      "opinión escrita",
-      "convencer",
-      "razones",
-      "ensayo breve"
-    ],
-    "contenido": {
-      "idea": "Es como convencer a tus papás de que te dejen tener un perro: dices lo que quieres y das buenas razones para que te digan que sí.",
-      "pizarron": "**Qué es:** un texto argumentativo busca convencer con razones.\n\n**Ejemplo:** *Debemos reciclar porque cuida el planeta.*\n\n**Para recordar:**\n- **Tesis:** La opinión o postura principal que se defiende.\n\n**Para tu escuela:** convence con dos razones de leer más.",
-      "truco": "Tesis, razones y conclusión: opino, pruebo, cierro.",
-      "practica": {
-        "ejercicio": "¿Es hecho u opinión? \"El agua hierve a 100 grados Celsius al nivel del mar\".",
-        "respuesta": "Es un hecho, porque se puede comprobar."
-      },
-      "analogias": [
-        {
-          "titulo": "Una mesa",
-          "texto": "La tesis es la tabla de arriba y los argumentos son las patas; sin patas firmes, la mesa se cae."
-        },
-        {
-          "titulo": "Un abogado",
-          "texto": "Presenta pruebas ante el juez para defender su caso, igual que tú ante el lector."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es la tesis?",
-          "respuesta": "La opinión o postura principal que se defiende."
-        },
-        {
-          "ejercicio": "Señala la opinión: (a) Hoy llovió. (b) La lluvia es lo mejor del año.",
-          "respuesta": "La b."
-        },
-        {
-          "ejercicio": "Escribe una tesis y dos argumentos sobre el uso del celular en clase.",
-          "respuesta": "Respuesta libre. Debe haber postura clara y dos razones coherentes con ella."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-017",
-    "titulo": "Textos informativos",
-    "slug": "textos-informativos-primaria",
-    "palabras": [
-      "informar",
-      "texto informativo",
-      "datos",
-      "fuentes",
-      "resumen",
-      "enciclopedia"
-    ],
-    "contenido": {
-      "idea": "Es como una guía para saber todo de un animal: te da datos verdaderos y ordenados, sin contarte cuentos.",
-      "pizarron": "**Qué es:** un texto informativo da datos reales sobre un tema. Un dato se puede comprobar.\n\n*El perro es un mamífero* es un dato. *Mi perro es el más lindo* es una opinión.\n\n**Sus partes:**\n\n- **Título:** dice de qué trata.\n- **Subtítulos:** separan el tema en partes y te ayudan a encontrar lo que buscas.\n- **Párrafos:** dan los datos.\n\n**Para investigar:** escribe una pregunta, como *¿qué comen las abejas?*, y busca la respuesta.\n\n**Para resumir:** di lo más importante en una oración.\n\n**Para recordar:**\n- **¿Para qué sirven los subtítulos?** Para organizar la información por subtemas y encontrarla fácil.\n\n**Para tu escuela:** busca dos datos de un volcán.",
-      "truco": "Pregunto, busco, subrayo, resumo y cito la fuente.",
-      "practica": {
-        "ejercicio": "¿Cuál es informativo? (a) \"Mi perro es el más lindo\" (b) \"El perro es un mamífero doméstico\".",
-        "respuesta": "La b, porque da un dato comprobable."
-      },
-      "analogias": [
-        {
-          "titulo": "Un letrero",
-          "texto": "Como el letrero de un museo, dice qué es algo y datos útiles, sin dar opiniones."
-        },
-        {
-          "titulo": "Un cajón ordenado",
-          "texto": "Cada subtítulo es un cajón con un solo tipo de datos, y así encuentras rápido lo que buscas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Para qué sirven los subtítulos?",
-          "respuesta": "Para organizar la información por subtemas y encontrarla fácil."
-        },
-        {
-          "ejercicio": "Escribe una pregunta para investigar sobre el reciclaje.",
-          "respuesta": "Respuesta libre. Ejemplo: ¿Qué materiales se pueden reciclar?"
-        },
-        {
-          "ejercicio": "Resume en una oración: \"Las abejas producen miel y polinizan las flores, lo que ayuda a que crezcan frutos\".",
-          "respuesta": "Las abejas producen miel y ayudan a que crezcan los frutos al polinizar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-021",
-    "titulo": "Textos discontinuos",
-    "slug": "textos-discontinuos-organizar-informacion-primaria",
-    "palabras": [
-      "tabla",
-      "gráfica",
-      "infografía",
-      "cuadro",
-      "esquema",
-      "mapa conceptual"
-    ],
-    "contenido": {
-      "idea": "Es como el menú de una cafetería: en vez de un párrafo largo, la información está en cuadros, listas y dibujos que se leen de un vistazo.",
-      "pizarron": "**Qué es:** es poner información en tablas, listas o gráficas, no en párrafos.\n\n**Lista:** cosas una debajo de otra.\n\n**Tabla:** filas y columnas, con un título.\n\n**Gráfica de barras:** compara cantidades. La barra más alta es la mayor.\n\n**Para leer una tabla:** mira el título y busca el dato.\n\nCon Manzana 5 y Pera 3, en total son $5 + 3 = 8$ frutas.\n\n**Para tu escuela:** haz una tabla con tu horario.",
-      "truco": "Título, encabezados, dato: miro antes de leer.",
-      "practica": {
-        "ejercicio": "En la tabla: Manzana 5, Pera 3, Uva 8, ¿qué fruta hay más y cuántas frutas hay en total?",
-        "respuesta": "Hay más uvas (8). En total son 5 + 3 + 8 = 16 frutas."
-      },
-      "analogias": [
-        {
-          "titulo": "Un tablero de juego",
-          "texto": "Cada casilla guarda un dato, y con solo ver su posición sabes qué significa."
-        },
-        {
-          "titulo": "Un mapa",
-          "texto": "No lees renglón por renglón, sino que buscas la zona que te interesa y ahí encuentras la información."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tipo de texto discontinuo compara cantidades con barras?",
-          "respuesta": "Una gráfica de barras."
-        },
-        {
-          "ejercicio": "Una tabla muestra: lunes 2 libros, martes 4, miércoles 1. ¿Cuántos libros se leyeron en total?",
-          "respuesta": "2 + 4 + 1 = 7 libros."
-        },
-        {
-          "ejercicio": "Diseña una tabla con tres compañeros y su deporte favorito.",
-          "respuesta": "Respuesta libre. Debe tener título, dos columnas (nombre y deporte) y tres filas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-025",
-    "titulo": "Reseñas de textos y audiovisuales",
-    "slug": "resenas-textos-audiovisuales-primaria",
-    "palabras": [
-      "reseña",
-      "recomendar libro",
-      "crítica",
-      "película",
-      "opinión fundamentada",
-      "resumen"
-    ],
-    "contenido": {
-      "idea": "Es como contarle a un amigo si vale la pena ver una película y por qué, sin arruinarle el final.",
-      "pizarron": "**Qué es:** una reseña resume una obra y dice qué opinas.\n\n**Pasos:** de qué trata, qué te gustó y si la recomiendas.\n\n**Para tu escuela:** reseña tu película favorita.",
-      "truco": "Datos, resumen sin spoiler, opinión con razón y recomendación.",
-      "practica": {
-        "ejercicio": "Mejora la opinión \"Me gustó el libro\".",
-        "respuesta": "Me gustó el libro porque los personajes son divertidos y la aventura te mantiene con ganas de seguir leyendo."
-      },
-      "analogias": [
-        {
-          "titulo": "Una probadita",
-          "texto": "La reseña es como probar un poquito de comida para decirle a otros si les va a gustar, sin comerte el platillo."
-        },
-        {
-          "titulo": "Un tráiler",
-          "texto": "Muestra de qué va la obra y despierta interés, pero guarda el final en secreto."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué no debe revelar una reseña?",
-          "respuesta": "El final de la historia."
-        },
-        {
-          "ejercicio": "¿Cuál opinión está fundamentada? (a) Es malo. (b) Es lento porque casi no pasa nada en la primera mitad.",
-          "respuesta": "La b, porque da una razón."
-        },
-        {
-          "ejercicio": "Escribe una reseña de cuatro oraciones sobre un libro o programa que conozcas.",
-          "respuesta": "Respuesta libre. Debe incluir título, resumen breve sin final, opinión con razón y recomendación."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-028",
-    "titulo": "Documentos que regulan la convivencia",
-    "slug": "reglamentos-convivencia-primaria",
-    "palabras": [
-      "reglamento",
-      "normas",
-      "reglas",
-      "acuerdos",
-      "convivencia escolar",
-      "derechos y deberes"
-    ],
-    "contenido": {
-      "idea": "Son como las reglas de un juego: sirven para que todos jueguen justo, se sientan seguros y nadie salga lastimado.",
-      "pizarron": "**Qué es:** un reglamento son normas para convivir.\n\nTiene reglas claras, en lista.\n\n**Para recordar:**\n- **¿Para qué sirve un reglamento escolar?** Para organizar la convivencia y proteger los derechos de todos.\n- **¿Por qué el reglamento de una biblioteca y el de un parque son diferentes?** Porque cada lugar tiene necesidades y actividades distintas.\n\n**Para tu escuela:** escribe un reglamento de cinco reglas.",
-      "truco": "Regla clara, breve y justa para todos.",
-      "practica": {
-        "ejercicio": "Reescribe en positivo: \"No griten en la biblioteca\".",
-        "respuesta": "Hablar en voz baja en la biblioteca."
-      },
-      "analogias": [
-        {
-          "titulo": "Un semáforo",
-          "texto": "Pone orden para que todos pasen sin chocar; sin él, habría confusión."
-        },
-        {
-          "titulo": "Reglas de un juego de mesa",
-          "texto": "Todos las conocen y las aceptan, y así el juego es justo y divertido."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Para qué sirve un reglamento escolar?",
-          "respuesta": "Para organizar la convivencia y proteger los derechos de todos."
-        },
-        {
-          "ejercicio": "Escribe una regla del salón con verbo en infinitivo.",
-          "respuesta": "Respuesta libre. Ejemplo: Levantar la mano para participar."
-        },
-        {
-          "ejercicio": "¿Por qué el reglamento de una biblioteca y el de un parque son diferentes?",
-          "respuesta": "Porque cada lugar tiene necesidades y actividades distintas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-032",
-    "titulo": "Exposición sobre el cuidado de la salud",
-    "slug": "exposicion-cuidado-salud-primaria",
-    "palabras": [
-      "exposición oral",
-      "salud",
-      "higiene",
-      "alimentación",
-      "presentación",
-      "hábitos saludables"
-    ],
-    "contenido": {
-      "idea": "Es como enseñarle a tu clase lo que aprendiste sobre cuidarse, hablando fuerte y claro, igual que cuando explicas un juego nuevo.",
-      "pizarron": "**Qué es:** es explicar en voz alta cómo cuidar la salud.\n\nElige un tema, usa un cartel y habla claro.\n\n**Para recordar:**\n- **¿Por qué conviene usar fichas en vez de leer todo el texto?** Porque permite hablar con naturalidad y mirar al público.\n\n**Para tu escuela:** expón sobre lavarse las manos.",
-      "truco": "Investigo, ordeno, ensayo y miro al público.",
-      "practica": {
-        "ejercicio": "Ordena las partes: (a) cierre, (b) introducción, (c) desarrollo.",
-        "respuesta": "b, c, a."
-      },
-      "analogias": [
-        {
-          "titulo": "Un camino con letreros",
-          "texto": "Tu exposición lleva al público de un punto a otro con señales claras: dónde empieza, por dónde va y dónde termina."
-        },
-        {
-          "titulo": "Un maestro por un día",
-          "texto": "Te conviertes en quien enseña, y para eso necesitas estudiar bien el tema antes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres temas de salud que puedes exponer.",
-          "respuesta": "Por ejemplo: alimentación, higiene, descanso, actividad física."
-        },
-        {
-          "ejercicio": "¿Por qué conviene usar fichas en vez de leer todo el texto?",
-          "respuesta": "Porque permite hablar con naturalidad y mirar al público."
-        },
-        {
-          "ejercicio": "Escribe una introducción de dos oraciones para una exposición sobre lavarse las manos.",
-          "respuesta": "Respuesta libre. Debe presentar el tema y avisar qué se explicará, por ejemplo cuándo y cómo lavarse las manos."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f4-081",
+"titulo": "Cuentos: leerlos y escribirlos",
+"slug": "cuentos-lectura-y-escritura-primaria",
+"palabras": [
+"cuento",
+"narrativa",
+"inicio nudo desenlace",
+"personajes",
+"escribir un cuento"
+],
+"contenido": {
+"idea": "Un cuento es como contar a un amigo lo que le pasó a alguien: primero dices quién es, luego qué problema tuvo y al final cómo terminó todo.",
+"pizarron": "**Qué es:** un cuento es una historia breve con inicio, problema y final.\n\n**Para escribir:** elige personaje, lugar y problema.\n\n**Para tu escuela:** escribe un cuento de cinco oraciones.",
+"truco": "Inicio, nudo, desenlace: presento, enredo, resuelvo.",
+"practica": {
+"ejercicio": "Lee: \"Ana perdió su gorra en el parque. La buscó entre los columpios y un niño la encontró. Ana le dio las gracias.\" Señala el inicio, el nudo y el desenlace.",
+"respuesta": "Inicio: Ana está en el parque. Nudo: perdió su gorra y la busca. Desenlace: un niño la encuentra y Ana agradece."
+},
+"analogias": [
+{
+"titulo": "Una montaña",
+"texto": "El inicio es el camino plano, el nudo es la subida difícil y el desenlace es bajar al otro lado con el problema resuelto."
+},
+{
+"titulo": "Una receta",
+"texto": "Los personajes son los ingredientes, el problema es la mezcla y el final es el platillo ya listo para disfrutar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué parte del cuento presenta a los personajes y el lugar?",
+"respuesta": "El inicio."
+},
+{
+"ejercicio": "En un cuento, el gato no alcanza el pescado de la mesa. ¿Esto es inicio, nudo o desenlace?",
+"respuesta": "Es el nudo, porque es el problema."
+},
+{
+"ejercicio": "Escribe un cuento de tres oraciones sobre un perro que se pierde.",
+"respuesta": "Respuesta libre. Debe tener inicio (presenta al perro), nudo (se pierde) y desenlace (lo encuentran), con verbos en pasado."
+}
+]
+}
+},
+{
+"nodo_id": "f5-001",
+"titulo": "Narrar sucesos autobiográficos",
+"slug": "narracion-autobiografica-primaria",
+"palabras": [
+"autobiografía",
+"contar mi vida",
+"anécdota",
+"primera persona",
+"recuerdos"
+],
+"contenido": {
+"idea": "Es como platicarle a un amigo algo que te pasó a ti, pero escribiéndolo para que lo entienda aunque no estuvo ahí.",
+"pizarron": "**Qué es:** es contar tu propia vida, usando *yo*.\n\nUsa orden: primero, después y al final.\n\n**Primera persona:** *me caí*, no *se cayó*. Usa verbos en pasado.\n\n**Para tu escuela:** cuenta un día importante de tu vida.",
+"truco": "Yo, cuándo, dónde, qué pasó y qué sentí.",
+"practica": {
+"ejercicio": "Convierte a primera persona: \"Luis se cayó de la bici y lloró\".",
+"respuesta": "Me caí de la bici y lloré."
+},
+"analogias": [
+{
+"titulo": "Un álbum de fotos",
+"texto": "Cada párrafo es una foto de tu recuerdo; las pones en orden y escribes qué se ve en cada una."
+},
+{
+"titulo": "Un video casero",
+"texto": "Narrar es grabar con palabras lo que viviste, desde el inicio hasta el final, para que otro lo vea con su imaginación."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿En qué persona se escribe una autobiografía?",
+"respuesta": "En primera persona."
+},
+{
+"ejercicio": "Ordena con conectores: (a) Finalmente regresé a casa. (b) Primero salimos de paseo. (c) Después comimos tacos.",
+"respuesta": "b, c, a."
+},
+{
+"ejercicio": "Escribe tres oraciones sobre tu primer día de escuela con verbos en pasado.",
+"respuesta": "Respuesta libre. Debe estar en primera persona, en pasado y con orden cronológico."
+}
+]
+}
+},
+{
+"nodo_id": "f5-005",
+"titulo": "Textos explicativos",
+"slug": "textos-explicativos-primaria",
+"palabras": [
+"explicar",
+"texto explicativo",
+"por qué ocurre",
+"causa y efecto",
+"exposición"
+],
+"contenido": {
+"idea": "Es como cuando le explicas a un niño pequeño por qué sale el arcoíris: le das datos claros, paso a paso, para que lo entienda.",
+"pizarron": "**Qué es:** un texto explicativo dice por qué o cómo pasa algo.\n\n**Tiene tres partes:**\n\n1. **Introducción:** presenta el tema.\n2. **Desarrollo:** explica.\n3. **Cierre:** termina la idea.\n\n**Palabras que unen ideas:** *porque* y *por eso*.\n\nLlovió mucho, *por eso* se inundó la calle.\n\n**Para tu escuela:** explica por qué llueve.",
+"truco": "Presento, explico con porque y resumo.",
+"practica": {
+"ejercicio": "Completa: \"Las plantas necesitan luz ____ con ella fabrican su alimento\".",
+"respuesta": "porque"
+},
+"analogias": [
+{
+"titulo": "Un instructivo",
+"texto": "Así como un instructivo te dice cómo armar un juguete, el texto explicativo te dice cómo funciona algo."
+},
+{
+"titulo": "Un mapa",
+"texto": "Te guía desde la pregunta hasta la respuesta sin que te pierdas, señalando cada causa en el camino."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuáles son las tres partes de un texto explicativo?",
+"respuesta": "Introducción, desarrollo y cierre."
+},
+{
+"ejercicio": "Une con un conector: \"Llovió mucho. Se inundó la calle\".",
+"respuesta": "Llovió mucho, por eso se inundó la calle (o: se inundó la calle porque llovió mucho)."
+},
+{
+"ejercicio": "Escribe una pregunta explicativa sobre la naturaleza y dos ideas para responderla.",
+"respuesta": "Respuesta libre. Ejemplo: ¿Por qué hay día y noche? La Tierra gira sobre su eje; el Sol ilumina solo una mitad."
+}
+]
+}
+},
+{
+"nodo_id": "f5-009",
+"titulo": "Debates sobre temas de interés común",
+"slug": "debate-temas-comunes-primaria",
+"palabras": [
+"debate",
+"opinión",
+"argumentos",
+"moderador",
+"turnos de palabra",
+"respeto"
+],
+"contenido": {
+"idea": "Es como cuando el grupo decide a qué jugar en el recreo: cada quien dice su idea con razones y todos escuchan sin gritar.",
+"pizarron": "**Qué es:** un debate es una plática ordenada donde cada quien da razones.\n\nPide la palabra, escucha y no insultes.\n\n**Moderador:** da la palabra, cuida el tiempo y mantiene el orden.\n\n**Para tu escuela:** debatan si debe haber tarea los viernes.",
+"truco": "Opino, doy razón, escucho y respeto turnos.",
+"practica": {
+"ejercicio": "Convierte en argumento: \"Hay que cuidar el agua\".",
+"respuesta": "Hay que cuidar el agua porque es limitada y todos la necesitamos para vivir."
+},
+"analogias": [
+{
+"titulo": "Un partido de pelota",
+"texto": "Las ideas se pasan de un lado a otro con reglas: nadie se roba la pelota y el árbitro es el moderador."
+},
+{
+"titulo": "Una balanza",
+"texto": "Cada argumento pesa en un lado; gana el que tiene mejores razones, no el que habla más fuerte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es la función del moderador?",
+"respuesta": "Dar la palabra, cuidar los tiempos y mantener el orden."
+},
+{
+"ejercicio": "¿Cuál es un argumento mejor: \"Es malo\" o \"Es malo porque contamina el río\"?",
+"respuesta": "El segundo, porque da una razón."
+},
+{
+"ejercicio": "Escribe tu postura y una razón sobre si debe haber más árboles en la escuela.",
+"respuesta": "Respuesta libre. Debe incluir postura clara y al menos una razón con \"porque\"."
+}
+]
+}
+},
+{
+"nodo_id": "f5-013",
+"titulo": "Textos argumentativos",
+"slug": "textos-argumentativos-primaria",
+"palabras": [
+"argumentar",
+"tesis",
+"opinión escrita",
+"convencer",
+"razones",
+"ensayo breve"
+],
+"contenido": {
+"idea": "Es como convencer a tus papás de que te dejen tener un perro: dices lo que quieres y das buenas razones para que te digan que sí.",
+"pizarron": "**Qué es:** un texto argumentativo busca convencer con razones.\n\n**Ejemplo:** *Debemos reciclar porque cuida el planeta.*\n\n**Tesis:** la opinión principal que se defiende.\n\n**Para tu escuela:** convence con dos razones de leer más.",
+"truco": "Tesis, razones y conclusión: opino, pruebo, cierro.",
+"practica": {
+"ejercicio": "¿Es hecho u opinión? \"El agua hierve a 100 grados Celsius al nivel del mar\".",
+"respuesta": "Es un hecho, porque se puede comprobar."
+},
+"analogias": [
+{
+"titulo": "Una mesa",
+"texto": "La tesis es la tabla de arriba y los argumentos son las patas; sin patas firmes, la mesa se cae."
+},
+{
+"titulo": "Un abogado",
+"texto": "Presenta pruebas ante el juez para defender su caso, igual que tú ante el lector."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es la tesis?",
+"respuesta": "La opinión o postura principal que se defiende."
+},
+{
+"ejercicio": "Señala la opinión: (a) Hoy llovió. (b) La lluvia es lo mejor del año.",
+"respuesta": "La b."
+},
+{
+"ejercicio": "Escribe una tesis y dos argumentos sobre el uso del celular en clase.",
+"respuesta": "Respuesta libre. Debe haber postura clara y dos razones coherentes con ella."
+}
+]
+}
+},
+{
+"nodo_id": "f5-017",
+"titulo": "Textos informativos",
+"slug": "textos-informativos-primaria",
+"palabras": [
+"informar",
+"texto informativo",
+"datos",
+"fuentes",
+"resumen",
+"enciclopedia"
+],
+"contenido": {
+"idea": "Es como una guía para saber todo de un animal: te da datos verdaderos y ordenados, sin contarte cuentos.",
+"pizarron": "**Qué es:** un texto informativo da datos reales sobre un tema. Un dato se puede comprobar.\n\n*El perro es un mamífero* es un dato. *Mi perro es el más lindo* es una opinión.\n\n**Sus partes:**\n\n- **Título:** dice de qué trata.\n- **Subtítulos:** separan el tema en partes y te ayudan a encontrar lo que buscas.\n- **Párrafos:** dan los datos.\n\n**Para investigar:** escribe una pregunta, como *¿qué comen las abejas?*, y busca la respuesta.\n\n**Para resumir:** di lo más importante en una oración.\n\n**Subtítulos:** organizan el tema y te ayudan a encontrar lo que buscas.\n\n**Para tu escuela:** busca dos datos de un volcán.",
+"truco": "Pregunto, busco, subrayo, resumo y cito la fuente.",
+"practica": {
+"ejercicio": "¿Cuál es informativo? (a) \"Mi perro es el más lindo\" (b) \"El perro es un mamífero doméstico\".",
+"respuesta": "La b, porque da un dato comprobable."
+},
+"analogias": [
+{
+"titulo": "Un letrero",
+"texto": "Como el letrero de un museo, dice qué es algo y datos útiles, sin dar opiniones."
+},
+{
+"titulo": "Un cajón ordenado",
+"texto": "Cada subtítulo es un cajón con un solo tipo de datos, y así encuentras rápido lo que buscas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Para qué sirven los subtítulos?",
+"respuesta": "Para organizar la información por subtemas y encontrarla fácil."
+},
+{
+"ejercicio": "Escribe una pregunta para investigar sobre el reciclaje.",
+"respuesta": "Respuesta libre. Ejemplo: ¿Qué materiales se pueden reciclar?"
+},
+{
+"ejercicio": "Resume en una oración: \"Las abejas producen miel y polinizan las flores, lo que ayuda a que crezcan frutos\".",
+"respuesta": "Las abejas producen miel y ayudan a que crezcan los frutos al polinizar."
+}
+]
+}
+},
+{
+"nodo_id": "f5-021",
+"titulo": "Textos discontinuos",
+"slug": "textos-discontinuos-organizar-informacion-primaria",
+"palabras": [
+"tabla",
+"gráfica",
+"infografía",
+"cuadro",
+"esquema",
+"mapa conceptual"
+],
+"contenido": {
+"idea": "Es como el menú de una cafetería: en vez de un párrafo largo, la información está en cuadros, listas y dibujos que se leen de un vistazo.",
+"pizarron": "**Qué es:** es poner información en tablas, listas o gráficas, no en párrafos.\n\n**Lista:** cosas una debajo de otra.\n\n**Tabla:** filas y columnas, con un título.\n\n**Gráfica de barras:** compara cantidades. La barra más alta es la mayor.\n\n**Para leer una tabla:** mira el título y busca el dato.\n\nCon Manzana 5 y Pera 3, en total son $5 + 3 = 8$ frutas.\n\n**Para tu escuela:** haz una tabla con tu horario.",
+"truco": "Título, encabezados, dato: miro antes de leer.",
+"practica": {
+"ejercicio": "En la tabla: Manzana 5, Pera 3, Uva 8, ¿qué fruta hay más y cuántas frutas hay en total?",
+"respuesta": "Hay más uvas (8). En total son 5 + 3 + 8 = 16 frutas."
+},
+"analogias": [
+{
+"titulo": "Un tablero de juego",
+"texto": "Cada casilla guarda un dato, y con solo ver su posición sabes qué significa."
+},
+{
+"titulo": "Un mapa",
+"texto": "No lees renglón por renglón, sino que buscas la zona que te interesa y ahí encuentras la información."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo de texto discontinuo compara cantidades con barras?",
+"respuesta": "Una gráfica de barras."
+},
+{
+"ejercicio": "Una tabla muestra: lunes 2 libros, martes 4, miércoles 1. ¿Cuántos libros se leyeron en total?",
+"respuesta": "2 + 4 + 1 = 7 libros."
+},
+{
+"ejercicio": "Diseña una tabla con tres compañeros y su deporte favorito.",
+"respuesta": "Respuesta libre. Debe tener título, dos columnas (nombre y deporte) y tres filas."
+}
+]
+}
+},
+{
+"nodo_id": "f5-025",
+"titulo": "Reseñas de textos y audiovisuales",
+"slug": "resenas-textos-audiovisuales-primaria",
+"palabras": [
+"reseña",
+"recomendar libro",
+"crítica",
+"película",
+"opinión fundamentada",
+"resumen"
+],
+"contenido": {
+"idea": "Es como contarle a un amigo si vale la pena ver una película y por qué, sin arruinarle el final.",
+"pizarron": "**Qué es:** una reseña resume una obra y dice qué opinas.\n\n**Pasos:** de qué trata, qué te gustó y si la recomiendas.\n\n**Opinión con razón:** usa *porque*.\n\nNo cuentes el final.\n\n**Para tu escuela:** reseña tu película favorita.",
+"truco": "Datos, resumen sin spoiler, opinión con razón y recomendación.",
+"practica": {
+"ejercicio": "Mejora la opinión \"Me gustó el libro\".",
+"respuesta": "Me gustó el libro porque los personajes son divertidos y la aventura te mantiene con ganas de seguir leyendo."
+},
+"analogias": [
+{
+"titulo": "Una probadita",
+"texto": "La reseña es como probar un poquito de comida para decirle a otros si les va a gustar, sin comerte el platillo."
+},
+{
+"titulo": "Un tráiler",
+"texto": "Muestra de qué va la obra y despierta interés, pero guarda el final en secreto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué no debe revelar una reseña?",
+"respuesta": "El final de la historia."
+},
+{
+"ejercicio": "¿Cuál opinión está fundamentada? (a) Es malo. (b) Es lento porque casi no pasa nada en la primera mitad.",
+"respuesta": "La b, porque da una razón."
+},
+{
+"ejercicio": "Escribe una reseña de cuatro oraciones sobre un libro o programa que conozcas.",
+"respuesta": "Respuesta libre. Debe incluir título, resumen breve sin final, opinión con razón y recomendación."
+}
+]
+}
+},
+{
+"nodo_id": "f5-028",
+"titulo": "Documentos que regulan la convivencia",
+"slug": "reglamentos-convivencia-primaria",
+"palabras": [
+"reglamento",
+"normas",
+"reglas",
+"acuerdos",
+"convivencia escolar",
+"derechos y deberes"
+],
+"contenido": {
+"idea": "Son como las reglas de un juego: sirven para que todos jueguen justo, se sientan seguros y nadie salga lastimado.",
+"pizarron": "**Qué es:** un reglamento son normas para convivir.\n\nTiene reglas claras, en lista.\n\n**Para qué sirve:** organiza la convivencia y protege a todos.\n\nCada lugar tiene sus actividades, por eso una biblioteca y un parque tienen reglas distintas.\n\n**Para tu escuela:** escribe un reglamento de cinco reglas.",
+"truco": "Regla clara, breve y justa para todos.",
+"practica": {
+"ejercicio": "Reescribe en positivo: \"No griten en la biblioteca\".",
+"respuesta": "Hablar en voz baja en la biblioteca."
+},
+"analogias": [
+{
+"titulo": "Un semáforo",
+"texto": "Pone orden para que todos pasen sin chocar; sin él, habría confusión."
+},
+{
+"titulo": "Reglas de un juego de mesa",
+"texto": "Todos las conocen y las aceptan, y así el juego es justo y divertido."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Para qué sirve un reglamento escolar?",
+"respuesta": "Para organizar la convivencia y proteger los derechos de todos."
+},
+{
+"ejercicio": "Escribe una regla del salón con verbo en infinitivo.",
+"respuesta": "Respuesta libre. Ejemplo: Levantar la mano para participar."
+},
+{
+"ejercicio": "¿Por qué el reglamento de una biblioteca y el de un parque son diferentes?",
+"respuesta": "Porque cada lugar tiene necesidades y actividades distintas."
+}
+]
+}
+},
+{
+"nodo_id": "f5-032",
+"titulo": "Exposición sobre el cuidado de la salud",
+"slug": "exposicion-cuidado-salud-primaria",
+"palabras": [
+"exposición oral",
+"salud",
+"higiene",
+"alimentación",
+"presentación",
+"hábitos saludables"
+],
+"contenido": {
+"idea": "Es como enseñarle a tu clase lo que aprendiste sobre cuidarse, hablando fuerte y claro, igual que cuando explicas un juego nuevo.",
+"pizarron": "**Qué es:** es explicar en voz alta cómo cuidar la salud.\n\nElige un tema, usa un cartel y habla claro.\n\n**Fichas:** con pocas palabras hablas natural y miras al público.\n\n**Para tu escuela:** expón sobre lavarse las manos.",
+"truco": "Investigo, ordeno, ensayo y miro al público.",
+"practica": {
+"ejercicio": "Ordena las partes: (a) cierre, (b) introducción, (c) desarrollo.",
+"respuesta": "b, c, a."
+},
+"analogias": [
+{
+"titulo": "Un camino con letreros",
+"texto": "Tu exposición lleva al público de un punto a otro con señales claras: dónde empieza, por dónde va y dónde termina."
+},
+{
+"titulo": "Un maestro por un día",
+"texto": "Te conviertes en quien enseña, y para eso necesitas estudiar bien el tema antes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres temas de salud que puedes exponer.",
+"respuesta": "Por ejemplo: alimentación, higiene, descanso, actividad física."
+},
+{
+"ejercicio": "¿Por qué conviene usar fichas en vez de leer todo el texto?",
+"respuesta": "Porque permite hablar con naturalidad y mirar al público."
+},
+{
+"ejercicio": "Escribe una introducción de dos oraciones para una exposición sobre lavarse las manos.",
+"respuesta": "Respuesta libre. Debe presentar el tema y avisar qué se explicará, por ejemplo cuándo y cómo lavarse las manos."
+}
+]
+}
+}
 ]

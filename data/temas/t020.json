@@ -1,466 +1,466 @@
 [
-  {
-    "nodo_id": "f4-017",
-    "titulo": "Buscar información con cuidado",
-    "slug": "buscar-informacion-primaria",
-    "palabras": [
-      "investigar",
-      "fuentes",
-      "consultar",
-      "enciclopedia",
-      "índice",
-      "buscar datos"
-    ],
-    "contenido": {
-      "idea": "Buscar información es como buscar un juguete en tu cuarto: si sabes en qué cajón mirar y revisas bien, lo encuentras rápido.",
-      "pizarron": "**La regla:** define qué buscas, revisa varias fuentes y anota lo importante.\n\n1. Haz una pregunta.\n2. Busca en libros o internet.\n3. Compara.\n4. Escribe con tus palabras.\n\n**Para recordar:**\n- **¿Por qué debes anotar de dónde sacaste un dato?** Para poder volver a revisarlo y dar crédito al autor.\n\n**Para tu escuela:** busca cuántos estados tiene México en dos fuentes.",
-      "truco": "Pregunta, busca, compara y anota.",
-      "practica": {
-        "ejercicio": "Quieres saber cuánto vive una tortuga. Escribe una pregunta y dos fuentes posibles.",
-        "respuesta": "Pregunta: ¿Cuántos años vive una tortuga? Fuentes: una enciclopedia de animales y la página de un museo o instituto de biología."
-      },
-      "analogias": [
-        {
-          "titulo": "El detective",
-          "texto": "Quien busca información es como un detective: reúne pistas de varios lugares y compara las pruebas antes de decidir qué es verdad."
-        },
-        {
-          "titulo": "La cocina",
-          "texto": "Elegir fuentes es como elegir ingredientes: si están en mal estado, el platillo sale mal, igual que una investigación con datos dudosos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué parte de un libro usas para encontrar rápido un tema?",
-          "respuesta": "El índice."
-        },
-        {
-          "ejercicio": "Dos fuentes dicen datos distintos sobre el mismo tema. ¿Qué haces?",
-          "respuesta": "Busco una tercera fuente confiable y comparo cuál coincide."
-        },
-        {
-          "ejercicio": "¿Por qué debes anotar de dónde sacaste un dato?",
-          "respuesta": "Para poder volver a revisarlo y dar crédito al autor."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-021",
-    "titulo": "Textos discontinuos: tablas, listas y calendarios",
-    "slug": "textos-discontinuos-primaria",
-    "palabras": [
-      "tabla",
-      "lista",
-      "calendario",
-      "horario",
-      "agenda",
-      "cuadro",
-      "organizador"
-    ],
-    "contenido": {
-      "idea": "Un texto discontinuo es como un estante con cajitas: en vez de un párrafo largo, cada dato tiene su lugar y lo encuentras de un vistazo.",
-      "pizarron": "**Qué es:** es información en listas, tablas o calendarios.\n\n**Lista:** una cosa debajo de otra.\n\n**Tabla:** tiene filas y columnas, y sirve para comparar.\n\n**Calendario:** ordena por fecha. Sirve para los cumpleaños.\n\n**Para leer un horario:** busca la fila de la hora y la columna del día. Donde se cruzan está el dato.\n\n**Para tu escuela:** haz una lista de tus pendientes.",
-      "truco": "Título, filas, columnas y orden.",
-      "practica": {
-        "ejercicio": "Haz una tabla de tus tareas: lunes, matemáticas; martes, español; miércoles, ciencias.",
-        "respuesta": "Tabla con columnas Día y Tarea: Lunes - Matemáticas; Martes - Español; Miércoles - Ciencias."
-      },
-      "analogias": [
-        {
-          "titulo": "La alacena",
-          "texto": "Una tabla es como una alacena con repisas: cada cosa va en su lugar y sabes dónde buscarla."
-        },
-        {
-          "titulo": "El mapa",
-          "texto": "Un calendario es un mapa del tiempo: te muestra en qué día estás y qué viene después."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué formato usarías para recordar los cumpleaños del año?",
-          "respuesta": "Un calendario o una lista ordenada por fecha."
-        },
-        {
-          "ejercicio": "En un horario, el recreo está en la fila de las 10:30 y la columna del jueves. ¿Qué buscas?",
-          "respuesta": "Lo que ocurre el jueves a las 10:30, el cruce de fila y columna."
-        },
-        {
-          "ejercicio": "Menciona dos diferencias entre una lista y una tabla.",
-          "respuesta": "La lista tiene una sola columna de elementos; la tabla tiene filas y columnas para comparar varios datos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-025",
-    "titulo": "Cómo hacer un resumen",
-    "slug": "resumen-primaria",
-    "palabras": [
-      "resumir",
-      "idea principal",
-      "síntesis",
-      "subrayar",
-      "ideas importantes"
-    ],
-    "contenido": {
-      "idea": "Resumir es como contarle a un amigo una película en pocas frases: dices solo lo importante y dejas los detalles pequeños.",
-      "pizarron": "**Qué es:** un resumen cuenta lo importante en menos palabras.\n\n**Pasos:**\n\n1. Lee.\n2. Subraya.\n3. Escribe con tus palabras.\n\n**Para recordar:**\n- **¿Qué se subraya al preparar un resumen?** Las ideas principales.\n\n**Para tu escuela:** resume un cuento en tres oraciones.",
-      "truco": "Lee, subraya, dilo con tus palabras.",
-      "practica": {
-        "ejercicio": "Resume: «Las abejas viven en colmenas. Ahí la reina pone huevos y las obreras recogen néctar para hacer miel.»",
-        "respuesta": "Las abejas viven en colmenas: la reina pone huevos y las obreras recogen néctar para hacer miel."
-      },
-      "analogias": [
-        {
-          "titulo": "La maleta",
-          "texto": "Resumir es hacer una maleta pequeña: llevas solo lo indispensable y dejas lo que sobra."
-        },
-        {
-          "titulo": "El jugo",
-          "texto": "Un resumen es como exprimir una naranja: sacas lo esencial y descartas la cáscara."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué se subraya al preparar un resumen?",
-          "respuesta": "Las ideas principales."
-        },
-        {
-          "ejercicio": "¿Puedes incluir tu opinión en un resumen?",
-          "respuesta": "No; solo las ideas del texto."
-        },
-        {
-          "ejercicio": "Un resumen debe ser más corto o más largo que el original. ¿Por qué?",
-          "respuesta": "Más corto, porque conserva solo lo esencial."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-029",
-    "titulo": "Textos instructivos y reglas de juego",
-    "slug": "textos-instructivos-primaria",
-    "palabras": [
-      "instructivo",
-      "receta",
-      "manual",
-      "pasos",
-      "reglas",
-      "juego",
-      "materiales"
-    ],
-    "contenido": {
-      "idea": "Un instructivo es como un mapa del tesoro: si sigues los pasos en orden, llegas al resultado sin perderte.",
-      "pizarron": "**Qué es:** un texto instructivo dice cómo hacer algo o cómo jugar.\n\n**Casi todos llevan:** título, materiales y pasos en orden.\n\n**Se escribe como orden:** *Toma el vaso*.\n\n**Un reglamento** dice qué se puede hacer y cómo se gana.\n\n**Para recordar:**\n- **¿Qué debe decir un reglamento sobre cómo ganar?** La condición que debe cumplir un jugador para ganar, por ejemplo llegar primero a la meta.\n\n**Para tu escuela:** escribe las reglas de tu juego favorito.",
-      "truco": "Título, materiales, pasos en orden.",
-      "practica": {
-        "ejercicio": "Ordena los pasos para lavarte las manos: secar, enjabonar, abrir la llave, enjuagar.",
-        "respuesta": "Abrir la llave, enjabonar, enjuagar, secar."
-      },
-      "analogias": [
-        {
-          "titulo": "La escalera",
-          "texto": "Los pasos son como los escalones: si saltas uno o los cambias de lugar, te tropiezas."
-        },
-        {
-          "titulo": "El guía",
-          "texto": "Un instructivo es como un guía en una excursión: te dice por dónde ir, en qué orden y qué llevar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué dos partes lleva casi todo instructivo además del título?",
-          "respuesta": "Materiales y pasos."
-        },
-        {
-          "ejercicio": "Escribe como instrucción: «Tú debes tomar el vaso».",
-          "respuesta": "Toma el vaso."
-        },
-        {
-          "ejercicio": "¿Qué debe decir un reglamento sobre cómo ganar?",
-          "respuesta": "La condición que debe cumplir un jugador para ganar, por ejemplo llegar primero a la meta."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-033",
-    "titulo": "Cómo hacer una exposición",
-    "slug": "exposicion-oral-primaria",
-    "palabras": [
-      "exponer",
-      "presentación oral",
-      "hablar en público",
-      "tema",
-      "guion",
-      "cartel"
-    ],
-    "contenido": {
-      "idea": "Exponer es como enseñarle a tu familia un juego nuevo: lo conoces bien, lo explicas con calma y los miras para ver si entienden.",
-      "pizarron": "**Qué es:** una exposición es explicar un tema ante un grupo.\n\n**Pasos:**\n\n1. Elige el tema.\n2. Investiga.\n3. Haz un cartel.\n4. Practica.\n5. Habla fuerte y claro.\n\n**Para recordar:**\n- **¿Qué debe tener un cartel de apoyo?** Poco texto, letra grande e imágenes claras.\n- **¿Por qué conviene ensayar?** Para controlar el tiempo, recordar el orden y sentir más seguridad.\n- **¿Qué haces si el público tiene dudas?** Escucho la pregunta completa y respondo con claridad, o digo que lo investigaré.\n\n**Para tu escuela:** prepara una exposición de dos minutos.",
-      "truco": "Inicio, desarrollo, cierre y a ensayar.",
-      "practica": {
-        "ejercicio": "Ordena: cierre con agradecimiento, presentar el tema, explicar tres ideas.",
-        "respuesta": "Presentar el tema, explicar tres ideas, cierre con agradecimiento."
-      },
-      "analogias": [
-        {
-          "titulo": "El viaje",
-          "texto": "Una exposición es un viaje corto: sales (inicio), recorres lugares (desarrollo) y regresas a casa (cierre)."
-        },
-        {
-          "titulo": "El mapa",
-          "texto": "El guion es como un mapa con puntos clave: te guía sin que tengas que leer cada calle."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué debe tener un cartel de apoyo?",
-          "respuesta": "Poco texto, letra grande e imágenes claras."
-        },
-        {
-          "ejercicio": "¿Por qué conviene ensayar?",
-          "respuesta": "Para controlar el tiempo, recordar el orden y sentir más seguridad."
-        },
-        {
-          "ejercicio": "¿Qué haces si el público tiene dudas?",
-          "respuesta": "Escucho la pregunta completa y respondo con claridad, o digo que lo investigaré."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-037",
-    "titulo": "Comunicación a distancia",
-    "slug": "comunicacion-distancia-cartas-mensajes-primaria",
-    "palabras": [
-      "carta",
-      "correo electrónico",
-      "mensaje",
-      "llamada",
-      "remitente",
-      "destinatario",
-      "saludo"
-    ],
-    "contenido": {
-      "idea": "Comunicarte a distancia es como lanzar un mensaje en un avión de papel: debe estar claro para que llegue y la otra persona lo entienda.",
-      "pizarron": "**Qué es:** cartas, correos y mensajes llevan tus palabras lejos.\n\nLa carta es más formal. El mensaje es corto.\n\n**Para recordar:**\n- **¿Qué datos no debes compartir con desconocidos?** Dirección, teléfono, contraseñas y datos de tu familia.\n\n**Para tu escuela:** escribe lo mismo como carta y como mensaje.",
-      "truco": "Saludo, propósito, despedida y firma.",
-      "practica": {
-        "ejercicio": "Escribe un mensaje breve para invitar a tu abuela a tu festival escolar.",
-        "respuesta": "Ejemplo: «Querida abuela: te invito a mi festival el viernes a las 10:00 en la escuela. Con cariño, Ana.»"
-      },
-      "analogias": [
-        {
-          "titulo": "El puente",
-          "texto": "Un mensaje es un puente entre dos personas lejanas: si le faltan tablas, no se puede cruzar."
-        },
-        {
-          "titulo": "El paquete",
-          "texto": "Enviar un mensaje es como mandar un paquete: necesita remitente, destinatario y contenido claro."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién es el destinatario de una carta?",
-          "respuesta": "La persona que la recibe."
-        },
-        {
-          "ejercicio": "¿Cómo cambia tu forma de escribir a la directora y a tu primo?",
-          "respuesta": "A la directora con un trato más formal y respetuoso; a tu primo, más sencillo."
-        },
-        {
-          "ejercicio": "¿Qué datos no debes compartir con desconocidos?",
-          "respuesta": "Dirección, teléfono, contraseñas y datos de tu familia."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-041",
-    "titulo": "Empaques y anuncios publicitarios",
-    "slug": "empaques-anuncios-publicitarios-primaria",
-    "palabras": [
-      "publicidad",
-      "anuncio",
-      "empaque",
-      "etiqueta",
-      "propaganda",
-      "consumo",
-      "slogan"
-    ],
-    "contenido": {
-      "idea": "Un anuncio es como un vendedor del mercado que grita lo bueno de su fruta: quiere que la compres, así que debes fijarte bien.",
-      "pizarron": "**Qué es:** los empaques y anuncios quieren que compres.\n\n**Eslogan:** frase corta y fácil de recordar.\n\n**En el empaque revisa:**\n\n- **Ingredientes:** de qué está hecho.\n- **Información nutrimental:** azúcar, sal y grasa.\n- **Fecha de caducidad:** hasta cuándo es seguro.\n\nSi promete *el más sano*, compruébalo.\n\n**Para tu escuela:** revisa un empaque: ¿qué promete?",
-      "truco": "Mira, compara y pregúntate: ¿me dicen todo?",
-      "practica": {
-        "ejercicio": "Un anuncio dice «el cereal más sano del mundo». ¿Qué revisas en el empaque?",
-        "respuesta": "Los ingredientes y la información nutrimental, para comprobar si la afirmación es cierta."
-      },
-      "analogias": [
-        {
-          "titulo": "El disfraz",
-          "texto": "Un anuncio a veces viste al producto con un disfraz bonito; el empaque te deja ver cómo es por dentro."
-        },
-        {
-          "titulo": "El espejo",
-          "texto": "Un anuncio muestra solo el lado que luce mejor, como una foto con filtro."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Para qué sirve la fecha de caducidad?",
-          "respuesta": "Para saber hasta cuándo es seguro consumir el producto."
-        },
-        {
-          "ejercicio": "¿Qué es un eslogan?",
-          "respuesta": "Una frase corta y fácil de recordar que identifica un producto."
-        },
-        {
-          "ejercicio": "Un anuncio solo muestra niños felices y no dice los ingredientes. ¿Qué opinas?",
-          "respuesta": "Que le falta información útil; debo revisar el empaque antes de decidir."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-045",
-    "titulo": "Notas informativas con opinión",
-    "slug": "notas-informativas-opinion-primaria",
-    "palabras": [
-      "noticia",
-      "nota informativa",
-      "periódico",
-      "opinión",
-      "hechos",
-      "qué quién cuándo dónde"
-    ],
-    "contenido": {
-      "idea": "Una nota informativa es como avisar en casa lo que pasó en la escuela: dices lo ocurrido y luego, aparte, qué piensas.",
-      "pizarron": "**Qué es:** una nota cuenta hechos. Una opinión dice lo que alguien piensa.\n\n*Llovió.* Es hecho. *Fue horrible.* Es opinión.\n\n**Para recordar:**\n- **¿Qué seis preguntas responde la entrada de una nota?** Qué, quién, cuándo, dónde, cómo y por qué.\n\n**Para tu escuela:** escribe un hecho y una opinión.",
-      "truco": "Primero los hechos, luego tu opinión.",
-      "practica": {
-        "ejercicio": "Separa hecho y opinión: «La biblioteca cerró una semana. Es una mala decisión».",
-        "respuesta": "Hecho: la biblioteca cerró una semana. Opinión: es una mala decisión."
-      },
-      "analogias": [
-        {
-          "titulo": "El reportero",
-          "texto": "Quien escribe una nota es como un reportero con lupa: busca lo que pasó y lo cuenta con exactitud."
-        },
-        {
-          "titulo": "El pastel",
-          "texto": "Los hechos son el pastel; la opinión es el betún que cada quien le pone, pero se sirven por separado."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué seis preguntas responde la entrada de una nota?",
-          "respuesta": "Qué, quién, cuándo, dónde, cómo y por qué."
-        },
-        {
-          "ejercicio": "¿«Fue la mejor feria» es hecho u opinión?",
-          "respuesta": "Opinión."
-        },
-        {
-          "ejercicio": "Menciona dos formas de indagar sobre un hecho.",
-          "respuesta": "Entrevistar a personas involucradas y consultar fuentes escritas o testigos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-049",
-    "titulo": "Textos formales: solicitudes y avisos",
-    "slug": "textos-formales-primaria",
-    "palabras": [
-      "solicitud",
-      "carta formal",
-      "oficio",
-      "aviso",
-      "petición",
-      "trámite",
-      "bienestar común"
-    ],
-    "contenido": {
-      "idea": "Un texto formal es como ponerte tu uniforme para una ocasión importante: usas palabras cuidadas y respetuosas para que te tomen en serio.",
-      "pizarron": "**Qué es:** un texto formal usa palabras respetuosas, para pedir algo.\n\n*Estimada directora:*\n\n**Para recordar:**\n- **¿Por qué conviene explicar el motivo de la petición?** Porque ayuda al destinatario a entender la necesidad y decidir.\n\n**Para tu escuela:** pide permiso por escrito.",
-      "truco": "Fecha, destinatario, petición clara y cortesía.",
-      "practica": {
-        "ejercicio": "Escribe la petición de un texto formal para pedir pintar las bardas de la escuela.",
-        "respuesta": "Ejemplo: «Por este medio solicito respetuosamente autorización para pintar las bardas del patio, pues mejorarían el aspecto de la escuela.»"
-      },
-      "analogias": [
-        {
-          "titulo": "La visita",
-          "texto": "Escribir formal es como saludar a una visita importante: hablas con respeto y vas directo al punto."
-        },
-        {
-          "titulo": "La llave",
-          "texto": "Un texto formal bien escrito es como una llave bien hecha: abre la puerta de la respuesta que necesitas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué despedida es adecuada en una solicitud?",
-          "respuesta": "«Atentamente» u otra despedida cortés."
-        },
-        {
-          "ejercicio": "¿A quién dirigirías una petición para arreglar los baños?",
-          "respuesta": "Al director o directora de la escuela."
-        },
-        {
-          "ejercicio": "¿Por qué conviene explicar el motivo de la petición?",
-          "respuesta": "Porque ayuda al destinatario a entender la necesidad y decidir."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-053",
-    "titulo": "La entrevista a personas de la comunidad",
-    "slug": "entrevista-personas-comunidad-primaria",
-    "palabras": [
-      "entrevistar",
-      "preguntas",
-      "entrevistado",
-      "entrevistador",
-      "guion de entrevista",
-      "comunidad"
-    ],
-    "contenido": {
-      "idea": "Entrevistar es como pedirle a tu abuelo que te cuente historias: haces buenas preguntas y escuchas con atención.",
-      "pizarron": "**Qué es:** una entrevista obtiene información con preguntas preparadas.\n\n**Pasos:** elige a quién, escribe preguntas, pregunta y anota.\n\n**Para tu escuela:** entrevista a alguien sobre su trabajo.",
-      "truco": "Prepara, pregunta abierto, escucha y agradece.",
-      "practica": {
-        "ejercicio": "Convierte en pregunta abierta: «¿Le gusta su trabajo?»",
-        "respuesta": "«¿Qué es lo que más le gusta de su trabajo y por qué?»"
-      },
-      "analogias": [
-        {
-          "titulo": "La pesca",
-          "texto": "Las preguntas abiertas son como una red grande: atrapan muchas respuestas, mientras que las de sí o no solo pescan una."
-        },
-        {
-          "titulo": "El tesoro",
-          "texto": "Cada persona mayor guarda historias como un cofre; la entrevista es la llave para abrirlo con respeto."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es un guion de entrevista?",
-          "respuesta": "Una lista de preguntas preparadas con anticipación."
-        },
-        {
-          "ejercicio": "¿Es abierta la pregunta «¿Vive aquí?»",
-          "respuesta": "No, porque se responde con sí o no."
-        },
-        {
-          "ejercicio": "Menciona dos acciones para después de la entrevista.",
-          "respuesta": "Agradecer a la persona y ordenar las notas para compartir lo aprendido."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f4-017",
+"titulo": "Buscar información con cuidado",
+"slug": "buscar-informacion-primaria",
+"palabras": [
+"investigar",
+"fuentes",
+"consultar",
+"enciclopedia",
+"índice",
+"buscar datos"
+],
+"contenido": {
+"idea": "Buscar información es como buscar un juguete en tu cuarto: si sabes en qué cajón mirar y revisas bien, lo encuentras rápido.",
+"pizarron": "**La regla:** define qué buscas, revisa varias fuentes y anota lo importante.\n\n1. Haz una pregunta.\n2. Busca en libros o internet.\n3. Compara.\n4. Escribe con tus palabras.\n\nAnota de dónde sacaste cada dato. Así puedes revisarlo y dar crédito al autor.\n\n**Para tu escuela:** busca cuántos estados tiene México en dos fuentes.",
+"truco": "Pregunta, busca, compara y anota.",
+"practica": {
+"ejercicio": "Quieres saber cuánto vive una tortuga. Escribe una pregunta y dos fuentes posibles.",
+"respuesta": "Pregunta: ¿Cuántos años vive una tortuga? Fuentes: una enciclopedia de animales y la página de un museo o instituto de biología."
+},
+"analogias": [
+{
+"titulo": "El detective",
+"texto": "Quien busca información es como un detective: reúne pistas de varios lugares y compara las pruebas antes de decidir qué es verdad."
+},
+{
+"titulo": "La cocina",
+"texto": "Elegir fuentes es como elegir ingredientes: si están en mal estado, el platillo sale mal, igual que una investigación con datos dudosos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué parte de un libro usas para encontrar rápido un tema?",
+"respuesta": "El índice."
+},
+{
+"ejercicio": "Dos fuentes dicen datos distintos sobre el mismo tema. ¿Qué haces?",
+"respuesta": "Busco una tercera fuente confiable y comparo cuál coincide."
+},
+{
+"ejercicio": "¿Por qué debes anotar de dónde sacaste un dato?",
+"respuesta": "Para poder volver a revisarlo y dar crédito al autor."
+}
+]
+}
+},
+{
+"nodo_id": "f4-021",
+"titulo": "Textos discontinuos: tablas, listas y calendarios",
+"slug": "textos-discontinuos-primaria",
+"palabras": [
+"tabla",
+"lista",
+"calendario",
+"horario",
+"agenda",
+"cuadro",
+"organizador"
+],
+"contenido": {
+"idea": "Un texto discontinuo es como un estante con cajitas: en vez de un párrafo largo, cada dato tiene su lugar y lo encuentras de un vistazo.",
+"pizarron": "**Qué es:** es información en listas, tablas o calendarios.\n\n**Lista:** una cosa debajo de otra.\n\n**Tabla:** tiene filas y columnas, y sirve para comparar.\n\n**Calendario:** ordena por fecha. Sirve para los cumpleaños.\n\n**Para leer un horario:** busca la fila de la hora y la columna del día. Donde se cruzan está el dato.\n\n**Para tu escuela:** haz una lista de tus pendientes.",
+"truco": "Título, filas, columnas y orden.",
+"practica": {
+"ejercicio": "Haz una tabla de tus tareas: lunes, matemáticas; martes, español; miércoles, ciencias.",
+"respuesta": "Tabla con columnas Día y Tarea: Lunes - Matemáticas; Martes - Español; Miércoles - Ciencias."
+},
+"analogias": [
+{
+"titulo": "La alacena",
+"texto": "Una tabla es como una alacena con repisas: cada cosa va en su lugar y sabes dónde buscarla."
+},
+{
+"titulo": "El mapa",
+"texto": "Un calendario es un mapa del tiempo: te muestra en qué día estás y qué viene después."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué formato usarías para recordar los cumpleaños del año?",
+"respuesta": "Un calendario o una lista ordenada por fecha."
+},
+{
+"ejercicio": "En un horario, el recreo está en la fila de las 10:30 y la columna del jueves. ¿Qué buscas?",
+"respuesta": "Lo que ocurre el jueves a las 10:30, el cruce de fila y columna."
+},
+{
+"ejercicio": "Menciona dos diferencias entre una lista y una tabla.",
+"respuesta": "La lista tiene una sola columna de elementos; la tabla tiene filas y columnas para comparar varios datos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-025",
+"titulo": "Cómo hacer un resumen",
+"slug": "resumen-primaria",
+"palabras": [
+"resumir",
+"idea principal",
+"síntesis",
+"subrayar",
+"ideas importantes"
+],
+"contenido": {
+"idea": "Resumir es como contarle a un amigo una película en pocas frases: dices solo lo importante y dejas los detalles pequeños.",
+"pizarron": "**Qué es:** un resumen cuenta lo importante en menos palabras.\n\n**Pasos:**\n\n1. Lee.\n2. Subraya.\n3. Escribe con tus palabras.\n\n**Antes de resumir:** subraya las ideas principales.\n\n**Para tu escuela:** resume un cuento en tres oraciones.",
+"truco": "Lee, subraya, dilo con tus palabras.",
+"practica": {
+"ejercicio": "Resume: «Las abejas viven en colmenas. Ahí la reina pone huevos y las obreras recogen néctar para hacer miel.»",
+"respuesta": "Las abejas viven en colmenas: la reina pone huevos y las obreras recogen néctar para hacer miel."
+},
+"analogias": [
+{
+"titulo": "La maleta",
+"texto": "Resumir es hacer una maleta pequeña: llevas solo lo indispensable y dejas lo que sobra."
+},
+{
+"titulo": "El jugo",
+"texto": "Un resumen es como exprimir una naranja: sacas lo esencial y descartas la cáscara."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué se subraya al preparar un resumen?",
+"respuesta": "Las ideas principales."
+},
+{
+"ejercicio": "¿Puedes incluir tu opinión en un resumen?",
+"respuesta": "No; solo las ideas del texto."
+},
+{
+"ejercicio": "Un resumen debe ser más corto o más largo que el original. ¿Por qué?",
+"respuesta": "Más corto, porque conserva solo lo esencial."
+}
+]
+}
+},
+{
+"nodo_id": "f4-029",
+"titulo": "Textos instructivos y reglas de juego",
+"slug": "textos-instructivos-primaria",
+"palabras": [
+"instructivo",
+"receta",
+"manual",
+"pasos",
+"reglas",
+"juego",
+"materiales"
+],
+"contenido": {
+"idea": "Un instructivo es como un mapa del tesoro: si sigues los pasos en orden, llegas al resultado sin perderte.",
+"pizarron": "**Qué es:** un texto instructivo dice cómo hacer algo o cómo jugar.\n\n**Casi todos llevan:** título, materiales y pasos en orden.\n\n**Se escribe como orden:** *Toma el vaso*.\n\n**Un reglamento** dice qué se puede hacer y cómo se gana.\n\n**Reglamento de un juego:** dice qué hay que lograr para ganar, como llegar primero a la meta.\n\n**Para tu escuela:** escribe las reglas de tu juego favorito.",
+"truco": "Título, materiales, pasos en orden.",
+"practica": {
+"ejercicio": "Ordena los pasos para lavarte las manos: secar, enjabonar, abrir la llave, enjuagar.",
+"respuesta": "Abrir la llave, enjabonar, enjuagar, secar."
+},
+"analogias": [
+{
+"titulo": "La escalera",
+"texto": "Los pasos son como los escalones: si saltas uno o los cambias de lugar, te tropiezas."
+},
+{
+"titulo": "El guía",
+"texto": "Un instructivo es como un guía en una excursión: te dice por dónde ir, en qué orden y qué llevar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué dos partes lleva casi todo instructivo además del título?",
+"respuesta": "Materiales y pasos."
+},
+{
+"ejercicio": "Escribe como instrucción: «Tú debes tomar el vaso».",
+"respuesta": "Toma el vaso."
+},
+{
+"ejercicio": "¿Qué debe decir un reglamento sobre cómo ganar?",
+"respuesta": "La condición que debe cumplir un jugador para ganar, por ejemplo llegar primero a la meta."
+}
+]
+}
+},
+{
+"nodo_id": "f4-033",
+"titulo": "Cómo hacer una exposición",
+"slug": "exposicion-oral-primaria",
+"palabras": [
+"exponer",
+"presentación oral",
+"hablar en público",
+"tema",
+"guion",
+"cartel"
+],
+"contenido": {
+"idea": "Exponer es como enseñarle a tu familia un juego nuevo: lo conoces bien, lo explicas con calma y los miras para ver si entienden.",
+"pizarron": "**Qué es:** una exposición es explicar un tema ante un grupo.\n\n**Pasos:**\n\n1. Elige el tema.\n2. Investiga.\n3. Haz un cartel.\n4. Practica.\n5. Habla fuerte y claro.\n\n**Cartel de apoyo:** poco texto, letra grande e imágenes claras.\n\n**Ensayar:** ayuda a cuidar el tiempo y da seguridad.\n\n**Si hay dudas:** escucha toda la pregunta y responde. Si no sabes, di que lo investigarás.\n\n**Para tu escuela:** prepara una exposición de dos minutos.",
+"truco": "Inicio, desarrollo, cierre y a ensayar.",
+"practica": {
+"ejercicio": "Ordena: cierre con agradecimiento, presentar el tema, explicar tres ideas.",
+"respuesta": "Presentar el tema, explicar tres ideas, cierre con agradecimiento."
+},
+"analogias": [
+{
+"titulo": "El viaje",
+"texto": "Una exposición es un viaje corto: sales (inicio), recorres lugares (desarrollo) y regresas a casa (cierre)."
+},
+{
+"titulo": "El mapa",
+"texto": "El guion es como un mapa con puntos clave: te guía sin que tengas que leer cada calle."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué debe tener un cartel de apoyo?",
+"respuesta": "Poco texto, letra grande e imágenes claras."
+},
+{
+"ejercicio": "¿Por qué conviene ensayar?",
+"respuesta": "Para controlar el tiempo, recordar el orden y sentir más seguridad."
+},
+{
+"ejercicio": "¿Qué haces si el público tiene dudas?",
+"respuesta": "Escucho la pregunta completa y respondo con claridad, o digo que lo investigaré."
+}
+]
+}
+},
+{
+"nodo_id": "f4-037",
+"titulo": "Comunicación a distancia",
+"slug": "comunicacion-distancia-cartas-mensajes-primaria",
+"palabras": [
+"carta",
+"correo electrónico",
+"mensaje",
+"llamada",
+"remitente",
+"destinatario",
+"saludo"
+],
+"contenido": {
+"idea": "Comunicarte a distancia es como lanzar un mensaje en un avión de papel: debe estar claro para que llegue y la otra persona lo entienda.",
+"pizarron": "**Qué es:** cartas, correos y mensajes llevan tus palabras lejos.\n\nLa carta es más formal. El mensaje es corto.\n\n**Cuídate:** no compartas con desconocidos tu dirección, teléfono ni contraseñas.\n\n**Para tu escuela:** escribe lo mismo como carta y como mensaje.",
+"truco": "Saludo, propósito, despedida y firma.",
+"practica": {
+"ejercicio": "Escribe un mensaje breve para invitar a tu abuela a tu festival escolar.",
+"respuesta": "Ejemplo: «Querida abuela: te invito a mi festival el viernes a las 10:00 en la escuela. Con cariño, Ana.»"
+},
+"analogias": [
+{
+"titulo": "El puente",
+"texto": "Un mensaje es un puente entre dos personas lejanas: si le faltan tablas, no se puede cruzar."
+},
+{
+"titulo": "El paquete",
+"texto": "Enviar un mensaje es como mandar un paquete: necesita remitente, destinatario y contenido claro."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién es el destinatario de una carta?",
+"respuesta": "La persona que la recibe."
+},
+{
+"ejercicio": "¿Cómo cambia tu forma de escribir a la directora y a tu primo?",
+"respuesta": "A la directora con un trato más formal y respetuoso; a tu primo, más sencillo."
+},
+{
+"ejercicio": "¿Qué datos no debes compartir con desconocidos?",
+"respuesta": "Dirección, teléfono, contraseñas y datos de tu familia."
+}
+]
+}
+},
+{
+"nodo_id": "f4-041",
+"titulo": "Empaques y anuncios publicitarios",
+"slug": "empaques-anuncios-publicitarios-primaria",
+"palabras": [
+"publicidad",
+"anuncio",
+"empaque",
+"etiqueta",
+"propaganda",
+"consumo",
+"slogan"
+],
+"contenido": {
+"idea": "Un anuncio es como un vendedor del mercado que grita lo bueno de su fruta: quiere que la compres, así que debes fijarte bien.",
+"pizarron": "**Qué es:** los empaques y anuncios quieren que compres.\n\n**Eslogan:** frase corta y fácil de recordar.\n\n**En el empaque revisa:**\n\n- **Ingredientes:** de qué está hecho.\n- **Información nutrimental:** azúcar, sal y grasa.\n- **Fecha de caducidad:** hasta cuándo es seguro.\n\nSi promete *el más sano*, compruébalo.\n\n**Para tu escuela:** revisa un empaque: ¿qué promete?",
+"truco": "Mira, compara y pregúntate: ¿me dicen todo?",
+"practica": {
+"ejercicio": "Un anuncio dice «el cereal más sano del mundo». ¿Qué revisas en el empaque?",
+"respuesta": "Los ingredientes y la información nutrimental, para comprobar si la afirmación es cierta."
+},
+"analogias": [
+{
+"titulo": "El disfraz",
+"texto": "Un anuncio a veces viste al producto con un disfraz bonito; el empaque te deja ver cómo es por dentro."
+},
+{
+"titulo": "El espejo",
+"texto": "Un anuncio muestra solo el lado que luce mejor, como una foto con filtro."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Para qué sirve la fecha de caducidad?",
+"respuesta": "Para saber hasta cuándo es seguro consumir el producto."
+},
+{
+"ejercicio": "¿Qué es un eslogan?",
+"respuesta": "Una frase corta y fácil de recordar que identifica un producto."
+},
+{
+"ejercicio": "Un anuncio solo muestra niños felices y no dice los ingredientes. ¿Qué opinas?",
+"respuesta": "Que le falta información útil; debo revisar el empaque antes de decidir."
+}
+]
+}
+},
+{
+"nodo_id": "f4-045",
+"titulo": "Notas informativas con opinión",
+"slug": "notas-informativas-opinion-primaria",
+"palabras": [
+"noticia",
+"nota informativa",
+"periódico",
+"opinión",
+"hechos",
+"qué quién cuándo dónde"
+],
+"contenido": {
+"idea": "Una nota informativa es como avisar en casa lo que pasó en la escuela: dices lo ocurrido y luego, aparte, qué piensas.",
+"pizarron": "**Qué es:** una nota cuenta hechos. Una opinión dice lo que alguien piensa.\n\n*Llovió.* Es hecho. *Fue horrible.* Es opinión.\n\n**Entrada de una nota:** dice qué, quién, cuándo, dónde, cómo y por qué.\n\n**Para tu escuela:** escribe un hecho y una opinión.",
+"truco": "Primero los hechos, luego tu opinión.",
+"practica": {
+"ejercicio": "Separa hecho y opinión: «La biblioteca cerró una semana. Es una mala decisión».",
+"respuesta": "Hecho: la biblioteca cerró una semana. Opinión: es una mala decisión."
+},
+"analogias": [
+{
+"titulo": "El reportero",
+"texto": "Quien escribe una nota es como un reportero con lupa: busca lo que pasó y lo cuenta con exactitud."
+},
+{
+"titulo": "El pastel",
+"texto": "Los hechos son el pastel; la opinión es el betún que cada quien le pone, pero se sirven por separado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué seis preguntas responde la entrada de una nota?",
+"respuesta": "Qué, quién, cuándo, dónde, cómo y por qué."
+},
+{
+"ejercicio": "¿«Fue la mejor feria» es hecho u opinión?",
+"respuesta": "Opinión."
+},
+{
+"ejercicio": "Menciona dos formas de indagar sobre un hecho.",
+"respuesta": "Entrevistar a personas involucradas y consultar fuentes escritas o testigos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-049",
+"titulo": "Textos formales: solicitudes y avisos",
+"slug": "textos-formales-primaria",
+"palabras": [
+"solicitud",
+"carta formal",
+"oficio",
+"aviso",
+"petición",
+"trámite",
+"bienestar común"
+],
+"contenido": {
+"idea": "Un texto formal es como ponerte tu uniforme para una ocasión importante: usas palabras cuidadas y respetuosas para que te tomen en serio.",
+"pizarron": "**Qué es:** un texto formal usa palabras respetuosas, para pedir algo.\n\n*Estimada directora:*\n\n**Explica el motivo:** así quien lee entiende tu necesidad y puede decidir.\n\n**Para tu escuela:** pide permiso por escrito.",
+"truco": "Fecha, destinatario, petición clara y cortesía.",
+"practica": {
+"ejercicio": "Escribe la petición de un texto formal para pedir pintar las bardas de la escuela.",
+"respuesta": "Ejemplo: «Por este medio solicito respetuosamente autorización para pintar las bardas del patio, pues mejorarían el aspecto de la escuela.»"
+},
+"analogias": [
+{
+"titulo": "La visita",
+"texto": "Escribir formal es como saludar a una visita importante: hablas con respeto y vas directo al punto."
+},
+{
+"titulo": "La llave",
+"texto": "Un texto formal bien escrito es como una llave bien hecha: abre la puerta de la respuesta que necesitas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué despedida es adecuada en una solicitud?",
+"respuesta": "«Atentamente» u otra despedida cortés."
+},
+{
+"ejercicio": "¿A quién dirigirías una petición para arreglar los baños?",
+"respuesta": "Al director o directora de la escuela."
+},
+{
+"ejercicio": "¿Por qué conviene explicar el motivo de la petición?",
+"respuesta": "Porque ayuda al destinatario a entender la necesidad y decidir."
+}
+]
+}
+},
+{
+"nodo_id": "f4-053",
+"titulo": "La entrevista a personas de la comunidad",
+"slug": "entrevista-personas-comunidad-primaria",
+"palabras": [
+"entrevistar",
+"preguntas",
+"entrevistado",
+"entrevistador",
+"guion de entrevista",
+"comunidad"
+],
+"contenido": {
+"idea": "Entrevistar es como pedirle a tu abuelo que te cuente historias: haces buenas preguntas y escuchas con atención.",
+"pizarron": "**Qué es:** una entrevista obtiene información con preguntas preparadas.\n\n**Pasos:** elige a quién, escribe preguntas, pregunta y anota.\n\n**Para tu escuela:** entrevista a alguien sobre su trabajo.",
+"truco": "Prepara, pregunta abierto, escucha y agradece.",
+"practica": {
+"ejercicio": "Convierte en pregunta abierta: «¿Le gusta su trabajo?»",
+"respuesta": "«¿Qué es lo que más le gusta de su trabajo y por qué?»"
+},
+"analogias": [
+{
+"titulo": "La pesca",
+"texto": "Las preguntas abiertas son como una red grande: atrapan muchas respuestas, mientras que las de sí o no solo pescan una."
+},
+{
+"titulo": "El tesoro",
+"texto": "Cada persona mayor guarda historias como un cofre; la entrevista es la llave para abrirlo con respeto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es un guion de entrevista?",
+"respuesta": "Una lista de preguntas preparadas con anticipación."
+},
+{
+"ejercicio": "¿Es abierta la pregunta «¿Vive aquí?»",
+"respuesta": "No, porque se responde con sí o no."
+},
+{
+"ejercicio": "Menciona dos acciones para después de la entrevista.",
+"respuesta": "Agradecer a la persona y ordenar las notas para compartir lo aprendido."
+}
+]
+}
+}
 ]

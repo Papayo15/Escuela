@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Un kilo de plumas y un kilo de plomo pesan igual, pero las plumas ocupan muchísimo más espacio. La densidad dice qué tan apretada está la materia.",
-"pizarron": "**La regla:** densidad es masa entre volumen: $\\rho = \\frac{m}{V}$.\n\n- **Masa**: cantidad de materia. Se mide en g o kg.\n- **Volumen**: espacio que ocupa. Se mide en mL o cm³.\n- **Densidad**: masa por unidad de volumen.\n\n$$d = \\frac{m}{V}$$\n\nEjemplo: 50 g que ocupan 25 mL.\n\n$$d = \\frac{50}{25} = 2 \\text{ g/mL}$$\n\nEl agua tiene densidad cercana a 1 g/mL.\n\n- Más densa que el agua: se hunde, como el hierro.\n- Menos densa: flota, como el aceite.\n\nLa densidad es una propiedad **intensiva**: no depende de cuánta sustancia tengas.",
+"pizarron": "**La regla:** densidad es masa entre volumen: $\\rho = \\frac{m}{V}$.\n\n**Imagínalo:** dos cajas iguales, una con plomo y otra con unicel.\n\n**Masa:** cantidad de materia. **Volumen:** espacio que ocupa.\n\n**Ejemplo:** 50 g en 25 mL: 2 g/mL.\n\n**Sacar masa:** densidad por volumen. 2 g/mL por 10 mL: 20 g.\n\n**Flotar:** el agua tiene 1 g/mL. Lo menos denso flota, y lo más denso se hunde.\n\n**Intensiva:** partir un trozo no cambia su densidad. Solo cambian masa y volumen.\n\n**Para tu escuela:** prueba qué objetos flotan en una tina.",
 "truco": "Masa entre volumen: quien es más denso se va al fondo.",
 "practica": {
 "ejercicio": "Un objeto de 30 g ocupa 10 mL. ¿Cuál es su densidad?",
@@ -57,7 +57,7 @@
 ],
 "contenido": {
 "idea": "En un laboratorio todos deben medir igual, como en una receta que comparte el mundo entero. Por eso se usan unidades internacionales.",
-"pizarron": "**Qué es:** en química se usan unidades como gramo, mililitro y mol para medir cuánta materia hay.\n\nUnidades frecuentes:\n\n| Magnitud | Unidad | Equivalencia |\n|---|---|---|\n| Masa | g, kg | 1 kg = 1000 g |\n| Volumen | L, mL | 1 L = 1000 mL |\n| Temperatura | °C, K | K = °C + 273 |\n| Cantidad | mol | - |\n\nEquivalencia útil: 1 mL = 1 cm³.\n\nEjemplo: 25 °C son 298 K.\n\nEjemplo: 0.5 L son 500 mL.\n\nPara convertir:\n\n- De unidad grande a chica: multiplica.\n- De chica a grande: divide.",
+"pizarron": "**Qué es:** en química se usan unidades como gramo, mililitro y mol para medir cuánta materia hay.\n\nUnidades frecuentes:\n\n| Magnitud | Unidad | Equivalencia |\n|---|---|---|\n| Masa | g, kg | 1 kg = 1000 g |\n| Volumen | L, mL | 1 L = 1000 mL |\n| Temperatura | °C, K | K = °C + 273 |\n| Cantidad | mol | - |\n\nEquivalencia útil: 1 mL = 1 cm³.\n\nEjemplo: 25 °C son 298 K.\n\nEjemplo: 0.5 L son 500 mL.\n\nPara convertir:\n\n- De unidad grande a chica: multiplica.\n- De chica a grande: divide.\n\n**Para tu escuela:** lee las unidades en la etiqueta de un jugo.",
 "truco": "Kelvin es Celsius más 273.",
 "practica": {
 "ejercicio": "Convierte 2.5 kg a gramos.",
@@ -101,7 +101,7 @@
 ],
 "contenido": {
 "idea": "Colar el café, esperar que el lodo se asiente en un vaso y secar agua salada al sol son métodos para separar mezclas que ya usas en casa.",
-"pizarron": "**Qué es:** son métodos físicos para separar mezclas: filtrar, dejar asentar y evaporar.\n\nEstos métodos separan mezclas sin cambiar las sustancias.\n\n**Filtración**: sólido insoluble y líquido. Un filtro retiene el sólido.\n\n- Ejemplo: arena y agua.\n\n**Decantación**: líquidos inmiscibles, o sólido asentado. Se aprovecha la diferencia de densidad.\n\n- Ejemplo: agua y aceite con embudo de separación.\n\n**Evaporación**: sólido disuelto en líquido. El líquido se evapora y el sólido queda.\n\n- Ejemplo: sal en agua, en las salinas.\n\nElige el método según las propiedades de los componentes.",
+"pizarron": "**Qué es:** son métodos físicos para separar mezclas: filtrar, dejar asentar y evaporar.\n\nEstos métodos separan mezclas sin cambiar las sustancias.\n\n**Filtración**: sólido insoluble y líquido. Un filtro retiene el sólido.\n\n- Ejemplo: arena y agua.\n\n**Decantación**: líquidos inmiscibles, o sólido asentado. Se aprovecha la diferencia de densidad.\n\n- Ejemplo: agua y aceite con embudo de separación.\n\n**Evaporación**: sólido disuelto en líquido. El líquido se evapora y el sólido queda.\n\n- Ejemplo: sal en agua, en las salinas.\n\nElige el método según las propiedades de los componentes.\n\n**Para tu escuela:** separa arena y agua con un filtro de café.",
 "truco": "Colar, esperar y secar.",
 "practica": {
 "ejercicio": "¿Qué método separa arena de agua?",
@@ -145,7 +145,7 @@
 ],
 "contenido": {
 "idea": "Si dibujas con plumón en papel y lo mojas, los colores corren y se separan. Es una cromatografía casera.",
-"pizarron": "**Qué es:** la destilación separa por punto de ebullición, y la cromatografía por cómo avanza cada sustancia.\n\n**Destilación**: separa líquidos con distinto **punto de ebullición**.\n\n1. Se calienta la mezcla.\n2. El líquido más volátil se evapora primero.\n3. El vapor se enfría y se condensa.\n\nEjemplo: separar alcohol y agua; el alcohol hierve cerca de 78 °C y el agua a 100 °C.\n\nTambién se obtiene agua destilada y se refina petróleo.\n\n**Cromatografía**: separa componentes según cuánto se desplazan sobre un material.\n\nEjemplo: pigmentos de una tinta sobre papel, usando un disolvente.\n\nCada componente avanza a distinta velocidad.",
+"pizarron": "**Qué es:** la destilación separa por punto de ebullición, y la cromatografía por cómo avanza cada sustancia.\n\n**Destilación**: separa líquidos con distinto **punto de ebullición**.\n\n1. Se calienta la mezcla.\n2. El líquido más volátil se evapora primero.\n3. El vapor se enfría y se condensa.\n\nEjemplo: separar alcohol y agua; el alcohol hierve cerca de 78 °C y el agua a 100 °C.\n\nTambién se obtiene agua destilada y se refina petróleo.\n\n**Cromatografía**: separa componentes según cuánto se desplazan sobre un material.\n\nEjemplo: pigmentos de una tinta sobre papel, usando un disolvente.\n\nCada componente avanza a distinta velocidad.\n\n**Para tu escuela:** separa los colores de un plumón con papel y agua.",
 "truco": "Destilar es hervir y volver a enfriar.",
 "practica": {
 "ejercicio": "¿Qué propiedad aprovecha la destilación?",
@@ -189,7 +189,7 @@
 ],
 "contenido": {
 "idea": "Un suero con mucha azúcar sabe más dulce que uno con poca. El porcentaje en masa dice cuánta sustancia hay por cada 100 g de mezcla.",
-"pizarron": "**La regla:** $\\%m = \\frac{\\text{masa de soluto}}{\\text{masa de disolución}} \\times 100$.\n\n$$\\%\\text{ masa} = \\frac{\\text{masa de soluto}}{\\text{masa de disolución}} \\times 100$$\n\nLa **disolución** es soluto + disolvente.\n\nEjemplo: 20 g de sal en 180 g de agua.\n\n- Disolución: 200 g.\n\n$$\\frac{20}{200} \\times 100 = 10\\%$$\n\nEjemplo inverso: ¿cuánta sal hay en 500 g al 2 %?\n\n$$0.02 \\times 500 = 10 \\text{ g}$$\n\nError común: dividir entre el agua en lugar del total.",
+"pizarron": "**La regla:** $\\%m = \\frac{\\text{masa de soluto}}{\\text{masa de disolución}} \\times 100$.\n\n**Imagínalo:** cuánta azúcar hay en cada 100 g de agua de sabor.\n\n**Disolución:** soluto más disolvente.\n\n**Ejemplo:** 20 g de sal en 180 g de agua: total 200 g.\n\n$$\\frac{20}{200} \\times 100 = 10\\%$$\n\n**Al revés:** $2\\%$ de 500 g: $0.02 \\times 500 = 10$ g.\n\n**Error común:** dividir entre el agua, y no entre el total.\n\n**Para tu escuela:** calcula el porcentaje de 2 g de sal en 98 g de agua.",
 "truco": "Soluto entre el total, por cien.",
 "practica": {
 "ejercicio": "5 g de azúcar en 95 g de agua. ¿Cuál es el porcentaje?",
@@ -233,7 +233,7 @@
 ],
 "contenido": {
 "idea": "Una botella de alcohol dice 70 %: de cada 100 mL, 70 son alcohol. Es la misma idea que la masa, pero con líquidos.",
-"pizarron": "**La regla:** $\\%V = \\frac{\\text{volumen de soluto}}{\\text{volumen de disolución}} \\times 100$.\n\n$$\\%\\text{ volumen} = \\frac{\\text{volumen de soluto}}{\\text{volumen de disolución}} \\times 100$$\n\nEjemplo: 30 mL de alcohol en 150 mL de disolución.\n\n$$\\frac{30}{150} \\times 100 = 20\\%$$\n\nEjemplo inverso: ¿cuánto vinagre puro hay en 500 mL al 5 %?\n\n$$0.05 \\times 500 = 25 \\text{ mL}$$\n\nSe usa en alcohol, vinagre y limpiadores.\n\nEn etiquetas aparece como % v/v.",
+"pizarron": "**La regla:** $\\%V = \\frac{\\text{volumen de soluto}}{\\text{volumen de disolución}} \\times 100$.\n\n**Imagínalo:** cuántos mL de jarabe hay en cada 100 mL de agua de sabor.\n\n**Ejemplo:** 30 mL en 150 mL.\n\n$$\\frac{30}{150} \\times 100 = 20\\%$$\n\n**Al revés:** $5\\%$ de 500 mL: 25 mL.\n\n**Litros:** 1 L son 1000 mL.\n\n**Etiquetas:** % v/v. 70 % v/v son 70 mL de soluto por cada 100 mL.\n\n**Para tu escuela:** lee el porcentaje de la etiqueta del vinagre.",
 "truco": "Si la etiqueta dice 70 %, son 70 mL por cada 100.",
 "practica": {
 "ejercicio": "10 mL de ácido en 200 mL de disolución.",
@@ -277,7 +277,7 @@
 ],
 "contenido": {
 "idea": "Una gota en una alberca es casi nada, pero importa si es veneno. Las partes por millón miden cantidades muy pequeñas.",
-"pizarron": "**Qué es:** las partes por millón (ppm) miden cantidades muy pequeñas: cuántas partes hay en un millón.\n\n**ppm** significa partes por millón.\n\n$$\\text{ppm} = \\frac{\\text{masa de soluto}}{\\text{masa de disolución}} \\times 1\\,000\\,000$$\n\nEn agua, una forma práctica:\n\n$$1 \\text{ ppm} \\approx 1 \\text{ mg/L}$$\n\nEjemplo: 3 mg de plomo en 2 L de agua.\n\n$$\\frac{3}{2} = 1.5 \\text{ ppm}$$\n\nSe usa para contaminantes y minerales en agua.\n\nUna concentración pequeña puede ser dañina según la sustancia.",
+"pizarron": "**Qué es:** las partes por millón (ppm) miden cantidades muy pequeñas: cuántas partes hay en un millón.\n\n**Imagínalo:** una gota en una alberca grande.\n\n**En agua:** 1 ppm es casi 1 mg por litro.\n\n**Ejemplo:** 3 mg en 2 L: $3 \\div 2 = 1.5$ ppm.\n\n**Al revés:** ppm por litros. 4 ppm en 2 L: 8 mg.\n\nSe usa para medir contaminantes y minerales. Una cantidad pequeña puede ser dañina.\n\n**Para tu escuela:** busca los ppm en la etiqueta de un agua embotellada.",
 "truco": "En agua, ppm es casi igual a mg por litro.",
 "practica": {
 "ejercicio": "10 mg de cloro en 5 L de agua.",
@@ -322,7 +322,7 @@
 ],
 "contenido": {
 "idea": "Un hielo se derrite, el agua hierve y el vapor empaña un espejo. Es la misma sustancia, pero sus partículas se mueven más o menos.",
-"pizarron": "**Qué es:** un cambio de estado ocurre cuando la materia gana o pierde calor y pasa de sólido a líquido o gas.\n\nNombres de los cambios:\n\n| De | A | Se llama |\n|---|---|---|\n| Sólido | Líquido | Fusión |\n| Líquido | Gas | Vaporización |\n| Gas | Líquido | Condensación |\n| Líquido | Sólido | Solidificación |\n| Sólido | Gas | Sublimación |\n| Gas | Sólido | Sublimación inversa |\n\nModelo de partículas: al calentar, las partículas se mueven más y se separan.\n\nEl agua pura funde a 0 °C y hierve a 100 °C a nivel del mar.\n\nEs un cambio **físico**: no aparecen sustancias nuevas.",
+"pizarron": "**Qué es:** un cambio de estado ocurre cuando la materia gana o pierde calor y pasa de sólido a líquido o gas.\n\nNombres de los cambios:\n\n| De | A | Se llama |\n|---|---|---|\n| Sólido | Líquido | Fusión |\n| Líquido | Gas | Vaporización |\n| Gas | Líquido | Condensación |\n| Líquido | Sólido | Solidificación |\n| Sólido | Gas | Sublimación |\n| Gas | Sólido | Sublimación inversa |\n\nModelo de partículas: al calentar, las partículas se mueven más y se separan.\n\nEl agua pura funde a 0 °C y hierve a 100 °C a nivel del mar.\n\nEs un cambio **físico**: no aparecen sustancias nuevas.\n\n**Para tu escuela:** observa un hielo derretirse y nombra el cambio.",
 "truco": "Si absorbe calor, las partículas se sueltan.",
 "practica": {
 "ejercicio": "¿Cómo se llama el paso de vapor a líquido?",
@@ -367,7 +367,7 @@
 ],
 "contenido": {
 "idea": "Un átomo es como un sistema solar diminuto: en el centro, un núcleo pesado; alrededor, electrones muy ligeros.",
-"pizarron": "**Qué es:** el átomo tiene protones positivos y neutrones en el núcleo, y electrones negativos alrededor.\n\nPartículas del átomo:\n\n| Partícula | Carga | Lugar | Masa |\n|---|---|---|---|\n| Protón | + | Núcleo | Grande |\n| Neutrón | 0 | Núcleo | Grande |\n| Electrón | - | Alrededor | Muy pequeña |\n\nEn un átomo neutro:\n\n$$\\text{protones} = \\text{electrones}$$\n\nEjemplo: el carbono tiene 6 protones y 6 electrones.\n\nSi gana electrones se vuelve ion negativo; si pierde, positivo.\n\nCasi toda la masa está en el núcleo, aunque es muy pequeño.",
+"pizarron": "**Qué es:** el átomo tiene protones positivos y neutrones en el núcleo, y electrones negativos alrededor.\n\n**Imagínalo:** el núcleo es una ciudad pequeña y pesada. Los electrones son abejitas alrededor.\n\n- **Protón:** carga + en el núcleo.\n- **Neutrón:** sin carga, en el núcleo.\n- **Electrón:** carga −, alrededor.\n\n**Neutro:** protones igual a electrones.\n\n**Con carga:** protones menos electrones. Con 12 y 10: +2.\n\nCasi toda la masa está en el núcleo.\n\n**Para tu escuela:** dibuja un átomo de litio.",
 "truco": "Protón positivo; neutrón neutro; electrón negativo.",
 "practica": {
 "ejercicio": "Un átomo neutro tiene 8 protones. ¿Cuántos electrones tiene?",
@@ -412,7 +412,7 @@
 ],
 "contenido": {
 "idea": "El número atómico es como la CURP de un elemento: identifica quién es. Si cambian los protones, ya es otro elemento.",
-"pizarron": "**La regla:** el número atómico $Z$ es la cantidad de protones. El número de masa $A$ es protones más neutrones.\n\n$Z$ es como la credencial del átomo: dice qué elemento es.\n\n**Para sacar neutrones:** resta.\n\n$$\\text{neutrones} = A - Z$$\n\n**Ejemplo, sodio:** $Z = 11$ y $A = 23$.\n\nProtones: 11.\n\nElectrones: 11, si es neutro.\n\nNeutrones: $23 - 11 = 12$.\n\n**Para tu escuela:** calcula los neutrones del oxígeno, con $Z = 8$ y $A = 16$.",
+"pizarron": "**La regla:** el número atómico $Z$ es la cantidad de protones. El número de masa $A$ es protones más neutrones.\n\n**Imagínalo:** $Z$ es como la credencial del átomo: dice qué elemento es.\n\n**Neutrones:** $A - Z$.\n\n**Número de masa:** suma protones y neutrones. 3 y 4 dan 7.\n\n**Ejemplo, sodio:** $Z = 11$ y $A = 23$.\n\nProtones: 11.\n\nElectrones: 11, si es neutro.\n\nNeutrones: 12.\n\n**Para tu escuela:** calcula los neutrones del helio, con $Z = 2$ y $A = 4$.",
 "truco": "A menos Z da neutrones.",
 "practica": {
 "ejercicio": "$Z = 8$ y $A = 16$. ¿Cuántos neutrones?",

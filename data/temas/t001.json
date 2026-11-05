@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Piensa en un semáforo: cruzas si está en verde Y no viene ningún coche. La lógica pone reglas claras a esas decisiones para no equivocarte.",
-"pizarron": "**Qué es:** la lógica estudia si una frase es verdadera o falsa, y cómo se unen las frases.\n\nUna **proposición** es una frase que solo puede ser verdadera (V) o falsa (F).\n\n*Hoy es lunes* es una proposición.\n\n*¡Ven aquí!* no lo es.\n\n**Conectivos:**\n\n- Negación $\\neg p$: no $p$.\n- Conjunción $p \\land q$: $p$ y $q$. Solo es verdadera si ambas lo son.\n- Disyunción $p \\lor q$: $p$ o $q$. Solo es falsa si ambas lo son.\n- Condicional $p \\to q$: si $p$, entonces $q$. Solo es falsa si $p$ es V y $q$ es F.\n\nUna **tabla de verdad** revisa todas las combinaciones.",
+"pizarron": "**Qué es:** la lógica estudia si una frase es verdadera o falsa, y cómo se unen las frases.\n\n**Imagínalo:** una proposición es una frase que puede ser cierta o falsa. *Hoy es lunes* sí lo es. *¡Ven!* o *¿Qué hora es?* no.\n\n**Conectivos:**\n\n- **No ($\\neg p$):** lo contrario.\n- **Y ($p \\land q$):** cierta si las dos lo son.\n- **O ($p \\lor q$):** falsa si las dos lo son.\n- **Si... entonces ($p \\to q$):** falsa solo si la primera es cierta y la segunda falsa.\n\n**Ejemplo:** con *llueve* falso y *hace frío* cierto, $\\neg p$ es cierto.\n\n**Tabla de verdad:** revisa todas las combinaciones.\n\n**Para tu escuela:** escribe una frase cierta y una falsa de tu salón.",
 "truco": "Y exige las dos; O basta con una.",
 "practica": {
 "ejercicio": "Si p es V y q es F, ¿qué valor tienen $p \\land q$ y $p \\lor q$?",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Para vestirte tienes 2 playeras y 3 gorras. Puedes probar cada playera con cada gorra: contar bien evita olvidar combinaciones.",
-"pizarron": "**La regla:** principio multiplicativo: si una cosa se hace de $m$ formas y otra de $n$, juntas hay $m \\cdot n$. Principio aditivo: si eliges solo una de varias opciones, se suman.\n\n**Multiplicativo:** tienes 3 playeras y 2 pantalones.\n\n$$3 \\cdot 2 = 6 \\text{ combinaciones}$$\n\n**Aditivo:** puedes comer 3 sopas o 4 ensaladas, solo una cosa.\n\n$$3 + 4 = 7 \\text{ opciones}$$\n\n**Ordenar:** para acomodar 4 personas en fila.\n\n$$4! = 4 \\cdot 3 \\cdot 2 \\cdot 1 = 24$$",
+"pizarron": "**La regla:** principio multiplicativo: si una cosa se hace de $m$ formas y otra de $n$, juntas hay $m \\cdot n$. Principio aditivo: si eliges solo una de varias opciones, se suman.\n\n**Imagínalo:** Y se multiplica. O se suma.\n\n**Multiplicativo:** 3 playeras y 2 pantalones: $3 \\cdot 2 = 6$.\n\n**Aditivo:** 3 sopas o 4 ensaladas, solo una cosa: $3 + 4 = 7$.\n\n**Ordenar en fila:** $4! = 4 \\cdot 3 \\cdot 2 \\cdot 1 = 24$.\n\n**Sin repetir:** cada lugar tiene una opción menos. Con 4 letras y 2 lugares: $4 \\cdot 3 = 12$.\n\n**Para tu escuela:** cuenta tus combinaciones de ropa.",
 "truco": "Y se multiplica, O se suma.",
 "practica": {
 "ejercicio": "Un menú tiene 4 sopas y 2 guisados. ¿Cuántas comidas distintas (una sopa y un guisado) se arman?",
@@ -99,7 +99,7 @@
 ],
 "contenido": {
 "idea": "Contar manzanas usa números naturales. Si debes manzanas a un amigo, necesitas números negativos para anotar la deuda.",
-"pizarron": "**Qué es:** los números naturales sirven para contar: 1, 2, 3. Los enteros agregan el cero y los negativos.\n\n**La regla de los signos:** al multiplicar o dividir, signos iguales dan positivo y signos distintos dan negativo.\n\n$$(-3)(-4) = 12 \\qquad (-12) \\div 4 = -3$$\n\n**Al sumar:**\n\nCon signos distintos, resta y deja el signo del mayor.\n\n$-7 + 3 = -4$.\n\n**En la recta numérica:** sumar es avanzar y restar es retroceder.\n\nEl cero no es positivo ni negativo. Todo natural también es entero.",
+"pizarron": "**Qué es:** los números naturales sirven para contar: 1, 2, 3. Los enteros agregan el cero y los negativos.\n\n**Imagínalo:** es un elevador. Pisos arriba son positivos. Sótanos son negativos. La planta baja es 0.\n\n**Sumar y restar:** sumar es subir, restar es bajar.\n\nEstás en el piso $-7$ y subes 3: llegas a $-4$.\n\nEstás en el piso 3 y bajas 5: llegas a $-2$.\n\n**Multiplicar y dividir:** signos iguales dan positivo. Signos distintos dan negativo.\n\n$$(-3)(-4) = 12 \\qquad (-12) \\div 4 = -3$$\n\n**Para tu escuela:** usa una regla como elevador para calcular $2 - 6$.",
 "truco": "Signos iguales, más; signos distintos, menos.",
 "practica": {
 "ejercicio": "Calcula $8-13$.",
@@ -143,7 +143,7 @@
 ],
 "contenido": {
 "idea": "Una pizza entera es la unidad. Si la partes en 4 y comes 3 pedazos, comiste $\\frac{3}{4}$ de pizza.",
-"pizarron": "**La regla:** para sumar fracciones se necesita un mismo denominador. Un porcentaje es una fracción sobre 100.\n\n**Sumar:** convierte a pedazos iguales.\n\n$$\\frac{3}{4} + \\frac{1}{6} = \\frac{9}{12} + \\frac{2}{12} = \\frac{11}{12}$$\n\n**Multiplicar:** arriba con arriba y abajo con abajo.\n\n**Porcentaje:** $20\\%$ significa $\\frac{20}{100}$.\n\nPara hallar el 20 % de 350:\n\n$$350 \\times 0.20 = 70$$\n\n**De fracción a porcentaje:** divide y multiplica por 100.\n\n$$\\frac{3}{4} = 0.75 = 75\\%$$",
+"pizarron": "**La regla:** para sumar fracciones se necesita un mismo denominador. Un porcentaje es una fracción sobre 100.\n\n**Imagínalo:** no se pueden sumar medias pizzas y tercios tal cual. Primero se cortan en pedazos iguales.\n\n**Sumar:** $\\frac{3}{4} + \\frac{1}{6} = \\frac{9}{12} + \\frac{2}{12} = \\frac{11}{12}$.\n\n**Fracción de un número:** divide entre el de abajo y multiplica por el de arriba. $\\frac{3}{4}$ de 20: $20 \\div 4 \\times 3 = 15$.\n\n**Porcentaje:** $20\\%$ es $\\frac{20}{100}$, o sea 0.20. El $20\\%$ de 350 es 70.\n\n**Descuento:** resta. Con $10\\%$ de 200: pagas $200 - 20 = 180$.\n\n**Para tu escuela:** calcula el $10\\%$ de tu calificación más alta.",
 "truco": "Suma con igual denominador; multiplica directo.",
 "practica": {
 "ejercicio": "Calcula $\\frac{1}{2}+\\frac{1}{3}$.",
@@ -187,7 +187,7 @@
 ],
 "contenido": {
 "idea": "Si cada día duplicas tus ahorros, 2 por 2 por 2 crece rápido. Esa multiplicación repetida se escribe con un exponente pequeño.",
-"pizarron": "**La regla:** $a^m \\cdot a^n = a^{m+n}$, $\\frac{a^m}{a^n} = a^{m-n}$, $(a^m)^n = a^{mn}$ y $a^0 = 1$, si $a \\neq 0$.\n\n**Qué quiere decir:** una potencia cuenta cuántas veces se multiplica un número.\n\n$$2^5 = 2 \\cdot 2 \\cdot 2 \\cdot 2 \\cdot 2 = 32$$\n\n**Raíz:** es la operación contraria.\n\n$\\sqrt{144} = 12$, porque $12^2 = 144$.\n\n**Simplificar:** busca factores con raíz exacta.\n\n$$\\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}$$\n\n**Cuidado:** $(-2)^2 = 4$, pero $-2^2 = -4$.\n\nUn exponente negativo voltea: $2^{-1} = \\frac{1}{2}$.",
+"pizarron": "**La regla:** $a^m \\cdot a^n = a^{m+n}$, $\\frac{a^m}{a^n} = a^{m-n}$, $(a^m)^n = a^{mn}$ y $a^0 = 1$, si $a \\neq 0$.\n\n**Imagínalo:** una potencia cuenta cuántas veces se multiplica un número. $2^3 = 2 \\cdot 2 \\cdot 2 = 8$.\n\n**En palabras:**\n\n- Multiplicar misma base: suma los de arriba. $2^2 \\cdot 2^3 = 2^5$.\n- Dividir: resta.\n- Potencia de potencia: multiplica. $(2^2)^3 = 2^6$.\n\n**Raíz:** es lo contrario. $\\sqrt{144} = 12$, porque $12 \\cdot 12 = 144$.\n\n**Simplificar:** $\\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}$.\n\n**Cuidado:** $(-2)^2 = 4$, pero $-2^2 = -4$.\n\n**Para tu escuela:** dobla una hoja 3 veces y cuenta las capas.",
 "truco": "Misma base: los exponentes se suman al multiplicar.",
 "practica": {
 "ejercicio": "Calcula $3^2\\cdot3^4$.",
@@ -231,7 +231,7 @@
 ],
 "contenido": {
 "idea": "Para saber qué tan largo es tu pupitre lo mides con tu mano. Pero tu mano y la de tu amigo son distintas, así que necesitamos una unidad común.",
-"pizarron": "**Qué es:** medir es comparar una magnitud con una unidad patrón, como el metro, el kilogramo o el segundo.\n\nAntes se medía con codos y varas, y cada lugar medía distinto.\n\nPor eso se acordó el Sistema Internacional.\n\n**Para convertir:** multiplica por la equivalencia.\n\n$$1\\text{ km} = 1000\\text{ m}$$\n\n$$3.5 \\times 1000 = 3500\\text{ m}$$\n\nEscribe siempre la unidad junto al número.",
+"pizarron": "**Qué es:** medir es comparar una magnitud con una unidad patrón, como el metro, el kilogramo o el segundo.\n\n**Imagínalo:** antes se medía con pies y manos, y cada persona medía distinto. Por eso se acordó el Sistema Internacional.\n\n**Regla para convertir:** de grande a chica, multiplica. De chica a grande, divide.\n\n- 1 km son 1000 m.\n- 1 m son 100 cm.\n- 1 kg son 1000 g.\n- 1 h son 60 min.\n\n**Ejemplos:** 3.5 km son 3500 m. 250 cm son 2.5 m.\n\n**Tiempo:** 1 h 30 min son $60 + 30 = 90$ min.\n\nEscribe siempre la unidad junto al número.\n\n**Para tu escuela:** mide tu mesa en centímetros y pásala a metros.",
 "truco": "Unidad grande a chica: multiplica; chica a grande: divide.",
 "practica": {
 "ejercicio": "Convierte 450 cm a metros.",
@@ -275,7 +275,7 @@
 ],
 "contenido": {
 "idea": "En la cocina no frías el huevo antes de romperlo. En matemáticas también hay un orden: algunos pasos van primero.",
-"pizarron": "**La regla:** primero paréntesis, luego potencias y raíces, después multiplicaciones y divisiones, y al final sumas y restas.\n\n**Ejemplo:** $2 + 3 \\cdot (8 - 5)^2$\n\nParéntesis: $8 - 5 = 3$.\n\nPotencia: $3^2 = 9$.\n\nMultiplicación: $3 \\cdot 9 = 27$.\n\nSuma: $2 + 27 = 29$.\n\n**El orden importa:**\n\n$$6 + 4 \\cdot 3 = 18 \\qquad (6 + 4) \\cdot 3 = 30$$\n\nSi hay varios paréntesis, empieza por los de más adentro.",
+"pizarron": "**La regla:** primero paréntesis, luego potencias y raíces, después multiplicaciones y divisiones, y al final sumas y restas.\n\n**Imagínalo:** vistes en orden: primero calcetines y luego zapatos. Si cambias el orden, sale mal.\n\n**Ejemplo:** $2 + 3 \\cdot (8 - 5)^2$.\n\n1. Paréntesis: 3.\n2. Potencia: $3^2 = 9$.\n3. Multiplicación: $3 \\cdot 9 = 27$.\n4. Suma: 29.\n\n**Por y entre:** tienen el mismo turno. Van de izquierda a derecha.\n\n**Si hay varios paréntesis,** empieza por los de más adentro.\n\n**Para tu escuela:** calcula $2 + 2 \\cdot 5$ y $(2 + 2) \\cdot 5$, y compara.",
 "truco": "Primero agrupa, luego potencia, luego por y entre, al final más y menos.",
 "practica": {
 "ejercicio": "Calcula $6+4\\cdot3$.",
@@ -319,7 +319,7 @@
 ],
 "contenido": {
 "idea": "Si un cuaderno cuesta lo mismo siempre pero no sabes cuánto, le pones una letra, como si fuera una cajita con un precio escondido.",
-"pizarron": "**Qué es:** el lenguaje algebraico usa letras para representar cantidades que no conoces o que cambian.\n\n**Traducciones:**\n\n- El doble de un número: $2x$.\n- Un número más 5: $x + 5$.\n- La mitad de $n$: $\\frac{n}{2}$.\n- 3 cuadernos de $x$ pesos: $3x$.\n\n**Para evaluar:** cambia la letra por el número.\n\nSi $x = 4$: $2x + 5 = 2(4) + 5 = 13$.",
+"pizarron": "**Qué es:** el lenguaje algebraico usa letras para representar cantidades que no conoces o que cambian.\n\n**Imagínalo:** una letra es una caja cerrada con un número adentro.\n\n**Traducciones:**\n\n- El doble de un número: $2x$.\n- El triple: $3x$.\n- Un número más 5: $x + 5$.\n- La mitad: $\\frac{n}{2}$.\n- 3 cuadernos de $x$ pesos: $3x$.\n\n**Evaluar:** cambia la letra por el número. Si $x = 2$: $3x + 1 = 7$.\n\n**Para tu escuela:** escribe con letras *mi edad más 3 años*.",
 "truco": "Una letra es un número que aún no conoces.",
 "practica": {
 "ejercicio": "Escribe en lenguaje algebraico: el triple de un número menos 2.",
@@ -364,7 +364,7 @@
 ],
 "contenido": {
 "idea": "Un monomio es como una sola ficha; un binomio, dos fichas pegadas; un trinomio, tres. Contar las piezas separadas por más o menos te dice qué es.",
-"pizarron": "**Qué es:** un término tiene un número, llamado coeficiente, y letras, llamadas parte literal. Los términos se separan con $+$ o $-$.\n\n**Por número de términos:**\n\n- Uno: monomio.\n- Dos: binomio.\n- Tres: trinomio.\n- Varios: polinomio.\n\n**Grado de un monomio:** suma de los exponentes.\n\n$4x^3y^2$ tiene grado $3 + 2 = 5$.\n\n**Grado de un polinomio:** el mayor de sus términos.\n\n$x^2 - 3x + 2$ tiene grado 2.",
+"pizarron": "**Qué es:** un término tiene un número, llamado coeficiente, y letras, llamadas parte literal. Los términos se separan con $+$ o $-$.\n\n**Imagínalo:** los términos son vagones, y cada $+$ o $-$ es un enganche.\n\n**Por número de términos:**\n\n- Uno: monomio. $5a$.\n- Dos: binomio. $a + b$.\n- Tres: trinomio.\n- Varios: polinomio.\n\n**Grado de un término:** suma sus exponentes. $2x^2y^3$ tiene grado 5.\n\n**Grado de un polinomio:** el mayor de sus términos. $x^3 + x$ tiene grado 3.\n\n**Para tu escuela:** escribe un binomio con tu edad y una letra.",
 "truco": "Cuenta los términos: uno, dos, tres.",
 "practica": {
 "ejercicio": "Clasifica $7a-2b$.",
@@ -408,7 +408,7 @@
 ],
 "contenido": {
 "idea": "Puedes juntar 3 manzanas con 5 manzanas, pero no manzanas con peras. En álgebra solo se suman términos que tienen la misma letra y el mismo exponente.",
-"pizarron": "**La regla:** solo se suman términos semejantes. Para multiplicar, se multiplican los coeficientes y se suman los exponentes.\n\n**Sumar:** $3x + 5x = 8x$.\n\n**Multiplicar monomios:** $4x \\cdot 3x^2 = 12x^3$.\n\n**Monomio por binomio:** reparte.\n\n$$2x(x + 5) = 2x^2 + 10x$$\n\n**Binomio por binomio:** cada término multiplica a cada término.\n\n$$(x + 2)(x + 3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6$$\n\nAl final, junta términos semejantes y ordena de mayor a menor exponente.",
+"pizarron": "**La regla:** solo se suman términos semejantes. Para multiplicar, se multiplican los coeficientes y se suman los exponentes.\n\n**Imagínalo:** $x$ son manzanas. 3 manzanas y 5 manzanas son 8 manzanas. No se suman con peras.\n\n**Sumar y restar:** $3x + 5x = 8x$. $9a - 2a = 7a$.\n\n**Multiplicar:** $4x \\cdot 3x^2 = 12x^3$. Con signos distintos sale negativo.\n\n**Repartir:** el de afuera multiplica a todos. $2(x - 5) = 2x - 10$.\n\n**Binomio por binomio:** cada uno con cada uno.\n\n$$(x + 2)(x + 3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6$$\n\n**Para tu escuela:** suma $2x + 3x$ con dibujos de manzanas.",
 "truco": "Suma solo semejantes; al multiplicar, reparte a todos.",
 "practica": {
 "ejercicio": "Calcula $(x+1)(x+4)$.",

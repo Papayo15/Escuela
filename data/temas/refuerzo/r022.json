@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "En una esquina recta, si caminas por los dos lados tardas más que cortando en diagonal. Pitágoras dice exactamente cuánto mide ese atajo.",
-"pizarron": "**La ley:** en un triángulo rectángulo, la hipotenusa al cuadrado es igual a la suma de los catetos al cuadrado: $c^2 = a^2 + b^2$.\n\nEn un triángulo **rectángulo**:\n\n- **Hipotenusa** ($c$): el lado mayor, frente al ángulo recto.\n- **Catetos** ($a$, $b$): los otros dos.\n\n$$c^2 = a^2 + b^2$$\n\nEjemplo: catetos 3 y 4.\n\n$$c^2 = 9 + 16 = 25$$\n\n$$c = \\sqrt{25} = 5$$\n\nPasos:\n\n1. Eleva cada cateto al cuadrado.\n2. Suma.\n3. Saca raíz.\n\nError común: sumar sin elevar. $3 + 4$ no da 5.\n\nTernas pitagóricas: (3, 4, 5), (5, 12, 13), (8, 15, 17).",
+"pizarron": "**La ley:** en un triángulo rectángulo, la hipotenusa al cuadrado es igual a la suma de los catetos al cuadrado: $c^2 = a^2 + b^2$.\n\n**Imagínalo:** dibuja un cuadrado en cada lado. El del lado largo tiene tantos cuadritos como los otros dos juntos.\n\n**Hipotenusa:** el lado mayor, frente a la esquina recta. **Catetos:** los otros dos.\n\n**Pasos con 3 y 4:**\n\n1. Al cuadrado: 9 y 16.\n2. Suma: 25.\n3. Raíz: 5.\n\n**Error común:** sumar sin elevar.\n\n**Ternas:** (3, 4, 5) y (5, 12, 13).\n\n**Si no sale exacta,** deja la raíz: con 2 y 2, $\\sqrt{8}$.\n\n**Para tu escuela:** dibuja el triángulo 3, 4, 5 en cuadros y mide.",
 "truco": "La suma de cuadrados da el cuadrado grande: saca raíz.",
 "practica": {
 "ejercicio": "Catetos 6 y 8. Calcula la hipotenusa.",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Si ya conoces la diagonal y un lado, puedes encontrar el otro lado. Es la misma fórmula, pero caminando hacia atrás.",
-"pizarron": "**La ley:** para hallar un cateto, resta los cuadrados: $a^2 = c^2 - b^2$.\n\nDespejando de $c^2 = a^2 + b^2$:\n\n$$a^2 = c^2 - b^2$$\n\nEjemplo: hipotenusa 13 y cateto 5.\n\n$$a^2 = 169 - 25 = 144$$\n\n$$a = \\sqrt{144} = 12$$\n\nAquí se **resta**, porque la hipotenusa es el lado mayor.\n\nRevisa: el cateto debe ser menor que la hipotenusa.\n\nPara saber si un triángulo es rectángulo, verifica si se cumple la fórmula: 7, 24, 25: $49 + 576 = 625$. Sí.",
+"pizarron": "**La ley:** para hallar un cateto, resta los cuadrados: $a^2 = c^2 - b^2$.\n\n**Imagínalo:** el cuadrado grande tiene todos los cuadritos. Quitas los de un cateto y quedan los del otro.\n\n**Ejemplo:** hipotenusa 13 y cateto 5.\n\n$$a^2 = 169 - 25 = 144, \\quad a = 12$$\n\nRevisa: el cateto debe ser menor que la hipotenusa.\n\n**¿Es rectángulo?:** comprueba. 7, 24, 25: $49 + 576 = 625$. Sí. Si no coincide, no lo es.\n\n**Para tu escuela:** calcula qué tan alto llega una escalera apoyada en la pared.",
 "truco": "Buscas hipotenusa, suma. Buscas cateto, resta.",
 "practica": {
 "ejercicio": "Hipotenusa 10 y cateto 6. Calcula el otro cateto.",
@@ -100,7 +100,7 @@
 ],
 "contenido": {
 "idea": "Puedes medir la altura de un árbol sin subirte: basta conocer un ángulo y tu distancia. Estas razones conectan ángulos con lados.",
-"pizarron": "**La regla:** seno es opuesto entre hipotenusa, coseno es adyacente entre hipotenusa y tangente es opuesto entre adyacente.\n\nEn un triángulo rectángulo, respecto a un ángulo $\\theta$:\n\n$$\\sin\\theta = \\frac{\\text{opuesto}}{\\text{hipotenusa}}$$\n\n$$\\cos\\theta = \\frac{\\text{adyacente}}{\\text{hipotenusa}}$$\n\n$$\\tan\\theta = \\frac{\\text{opuesto}}{\\text{adyacente}}$$\n\nEjemplo: triángulo 3, 4, 5, ángulo opuesto a 3.\n\n- $\\sin\\theta = \\frac{3}{5} = 0.6$\n- $\\cos\\theta = \\frac{4}{5} = 0.8$\n- $\\tan\\theta = \\frac{3}{4} = 0.75$\n\nEjemplo de altura: estás a 20 m de un árbol y miras la punta con 45°.\n\n$$h = 20 \\tan 45° = 20 \\text{ m}$$",
+"pizarron": "**La regla:** seno es opuesto entre hipotenusa, coseno es adyacente entre hipotenusa y tangente es opuesto entre adyacente.\n\n**Imagínalo:** una rampa. La hipotenusa es la rampa. El opuesto es la altura. El adyacente es el piso.\n\n**Ejemplo:** triángulo 3, 4, 5, ángulo opuesto a 3.\n\n- $\\sin\\theta = \\frac{3}{5}$.\n- $\\cos\\theta = \\frac{4}{5}$.\n- $\\tan\\theta = \\frac{3}{4}$.\n\n**Simplifica** si se puede: $\\frac{6}{9} = \\frac{2}{3}$.\n\n**Calcular un lado:** multiplica. Con $\\sin 30° = 0.5$ e hipotenusa 8: 4.\n\n**Para tu escuela:** dibuja una rampa y nombra sus tres lados.",
 "truco": "SOH CAH TOA: Seno opuesto hipotenusa, Coseno adyacente hipotenusa, Tangente opuesto adyacente.",
 "practica": {
 "ejercicio": "Opuesto 5 e hipotenusa 13. Calcula $\\sin\\theta$.",
@@ -144,7 +144,7 @@
 ],
 "contenido": {
 "idea": "Con tres pirámides llenas de arena llenas un prisma de la misma base y altura. La pirámide es un tercio del prisma.",
-"pizarron": "**La regla:** el volumen de la pirámide es área de la base por altura entre tres: $V = \\frac{A_b h}{3}$.\n\nFórmula:\n\n$$V = \\frac{1}{3} A_b \\times h$$\n\ndonde $A_b$ es el área de la base y $h$ la altura.\n\nEjemplo: base cuadrada de 6 cm y altura 10 cm.\n\n- $A_b = 36$ cm²\n- $V = \\frac{1}{3}(36)(10) = 120$ cm³\n\nBase rectangular de 5 por 3 y altura 8:\n\n- $A_b = 15$\n- $V = 40$\n\nLa altura va del vértice a la base en recta, no por la cara inclinada.",
+"pizarron": "**La regla:** el volumen de la pirámide es área de la base por altura entre tres: $V = \\frac{A_b h}{3}$.\n\n**Imagínalo:** con 3 pirámides llenas de arena llenas una caja de la misma base y altura.\n\n**Ejemplo:** base cuadrada de 6 cm y altura 10 cm.\n\n- $A_b = 36$ cm².\n- $V = \\frac{36 \\times 10}{3} = 120$ cm³.\n\n**Comparar:** una pirámide tiene la tercera parte del prisma igual.\n\nLa altura va derecho, no por la cara inclinada.\n\n**Para tu escuela:** arma una pirámide de cartón y mide su base.",
 "truco": "Pirámide es prisma entre 3.",
 "practica": {
 "ejercicio": "Área de la base 30 cm² y altura 9 cm.",
@@ -189,7 +189,7 @@
 ],
 "contenido": {
 "idea": "Donde haya una esquina recta, hay un triángulo escondido. Dibujarlo es el primer paso para resolver problemas de escaleras, antenas y pantallas.",
-"pizarron": "**La regla:** dibuja el triángulo, identifica la hipotenusa y aplica $c^2 = a^2 + b^2$.\n\nPasos:\n\n1. Dibuja el triángulo rectángulo.\n2. Marca catetos e hipotenusa.\n3. Decide si sumas o restas.\n4. Calcula.\n\nEjemplo 1: una escalera de 5 m apoya su pie a 3 m de la pared. ¿A qué altura llega?\n\n$$h = \\sqrt{25 - 9} = 4 \\text{ m}$$\n\nEjemplo 2: diagonal de un rectángulo de 9 por 12.\n\n$$d = \\sqrt{81 + 144} = 15$$\n\nEjemplo 3: altura de un triángulo equilátero de lado 10. Se parte a la mitad: cateto 5, hipotenusa 10.\n\n$$h = \\sqrt{100 - 25} = \\sqrt{75} \\approx 8.66$$",
+"pizarron": "**La regla:** dibuja el triángulo, identifica la hipotenusa y aplica $c^2 = a^2 + b^2$.\n\n**Imagínalo:** cortas camino por el pasto en vez de ir por las banquetas en esquina.\n\n**Pasos:**\n\n1. Dibuja el triángulo.\n2. Marca la hipotenusa, el lado más largo.\n3. Si la buscas, suma. Si buscas un cateto, resta.\n\n**Ejemplo:** escalera de 5 m, pie a 3 m. $h = \\sqrt{25 - 9} = 4$ m.\n\n**Ejemplo:** diagonal de un rectángulo de 9 por 12: $\\sqrt{81 + 144} = 15$.\n\n**Cuadrado:** la diagonal es $\\sqrt{2}$ por el lado.\n\n**Para tu escuela:** mide los dos lados de tu mesa y calcula su diagonal.",
 "truco": "Dibuja primero; la esquina recta revela el triángulo.",
 "practica": {
 "ejercicio": "Una antena de 12 m tiene un cable al piso, a 5 m de la base. ¿Cuánto mide el cable?",
@@ -233,7 +233,7 @@
 ],
 "contenido": {
 "idea": "Una tabla de frecuencias es la lista del mandado de los datos: te dice cuántas veces aparece cada cosa y qué parte del total representa.",
-"pizarron": "**Qué es:** una tabla de frecuencias muestra cuántas veces aparece cada dato.\n\nColumnas:\n\n- **Frecuencia absoluta** ($f$): cuántas veces aparece.\n- **Frecuencia relativa** ($f_r$): $f$ entre el total.\n- **Frecuencia acumulada** ($F$): suma de las $f$ hasta ese dato.\n\nEjemplo: 20 alumnos, calificaciones.\n\n| Dato | $f$ | $f_r$ | $F$ |\n|---|---|---|---|\n| 7 | 4 | 0.20 | 4 |\n| 8 | 8 | 0.40 | 12 |\n| 9 | 6 | 0.30 | 18 |\n| 10 | 2 | 0.10 | 20 |\n\nComprobación: $f$ suma 20 y $f_r$ suma 1.",
+"pizarron": "**Qué es:** una tabla de frecuencias muestra cuántas veces aparece cada dato.\n\n**Imagínalo:** cuentas votos con palitos y luego escribes cuántos hay.\n\n- **Frecuencia ($f$):** cuántas veces aparece.\n- **Relativa ($f_r$):** $f$ entre el total. 8 de 20 es 0.40, o sea 40 %.\n- **Acumulada ($F$):** vas sumando. 4, 8, 6 da 4, 12, 18.\n\n**Total:** suma todas las $f$.\n\n**Comprobación:** las relativas suman 1.\n\n**Para tu escuela:** haz una tabla del sabor favorito de tu salón.",
 "truco": "Relativa es parte entre total; acumulada va sumando.",
 "practica": {
 "ejercicio": "De 50 votos, 10 son para A. ¿Cuál es la frecuencia relativa?",
@@ -277,7 +277,7 @@
 ],
 "contenido": {
 "idea": "Un histograma es una gráfica de barras pegadas que enseña cómo se reparten datos continuos, como las estaturas de un grupo.",
-"pizarron": "**Qué es:** un histograma usa barras unidas para intervalos, y el polígono de frecuencia une con líneas sus puntos medios.\n\nPara datos en **intervalos**, como 150-155 cm:\n\n**Histograma**:\n\n- Barras pegadas, sin separación.\n- Eje X: intervalos.\n- Eje Y: frecuencia.\n\n**Polígono de frecuencias**:\n\n- Marca el punto medio de cada intervalo a la altura de su frecuencia.\n- Une los puntos con líneas.\n\nPunto medio:\n\n$$m = \\frac{\\text{inicio} + \\text{final}}{2}$$\n\nEjemplo: 150-155 tiene punto medio 152.5.\n\nDiferencia con barras: las de barras comparan categorías, y el histograma muestra intervalos numéricos seguidos.",
+"pizarron": "**Qué es:** un histograma usa barras unidas para intervalos, y el polígono de frecuencia une con líneas sus puntos medios.\n\n**Imagínalo:** agrupas a tu salón por estaturas: de 130 a 140, de 140 a 150. Cada caja es una barra.\n\n**Histograma:** barras pegadas. Más alta, más datos.\n\n**Polígono:** un punto en medio de cada barra, unidos con líneas.\n\n**Punto medio:** inicio más final, entre 2. De 150 a 155 es 152.5.\n\n**Diferencia:** la gráfica de barras compara categorías. El histograma muestra números seguidos.\n\n**Para tu escuela:** haz un histograma con las estaturas de tu salón.",
 "truco": "Barras pegadas, datos seguidos.",
 "practica": {
 "ejercicio": "¿Cuál es el punto medio de 20-30?",
@@ -321,7 +321,7 @@
 ],
 "contenido": {
 "idea": "La mediana te dice dónde está el centro, y el rango qué tan abierto está todo. Son dos preguntas distintas sobre los mismos datos.",
-"pizarron": "**Qué es:** la mediana es el dato central, y el rango es el mayor menos el menor.\n\n**Mediana**: dato central con datos ordenados.\n\n**Rango**: dato mayor menos dato menor.\n\n$$R = \\text{máximo} - \\text{mínimo}$$\n\nEjemplo: 12, 5, 9, 20, 14.\n\n- Ordena: 5, 9, 12, 14, 20.\n- Mediana: 12.\n- Rango: 20 - 5 = 15.\n\nGrupos con la misma media pueden tener rangos muy distintos:\n\n- A: 8, 8, 8 tiene rango 0.\n- B: 0, 8, 16 tiene rango 16.\n\nUn rango grande indica datos más **dispersos**.",
+"pizarron": "**Qué es:** la mediana es el dato central, y el rango es el mayor menos el menor.\n\n**Imagínalo:** forma a tus amigos por estatura. El de en medio es la mediana. La diferencia entre el más alto y el más bajo es el rango.\n\n**Ejemplo:** 12, 5, 9, 20, 14.\n\n- Ordena: 5, 9, 12, 14, 20.\n- Mediana: 12.\n- Rango: $20 - 5 = 15$.\n\n**Si son pares,** promedia los dos de en medio. En 2, 4, 6, 8 es 5.\n\nUn rango grande indica datos **dispersos**. Si todos son iguales, es 0.\n\n**Para tu escuela:** saca mediana y rango de tus calificaciones.",
 "truco": "Rango: el mayor menos el menor.",
 "practica": {
 "ejercicio": "Rango de 30, 12, 45, 28.",
@@ -365,7 +365,7 @@
 ],
 "contenido": {
 "idea": "Cada dato se aleja un poco del promedio. La desviación media es el promedio de esas distancias: dice qué tan lejos suelen estar los datos.",
-"pizarron": "**Qué es:** la desviación media dice qué tan lejos están los datos de la media, en promedio.\n\nFórmula:\n\n$$DM = \\frac{\\sum |x_i - \\bar{x}|}{n}$$\n\nPasos con 2, 4, 6, 8:\n\n1. Media: $\\bar{x} = 5$.\n2. Distancias: 3, 1, 1, 3.\n3. Suma: 8.\n4. Divide entre 4: **DM = 2**.\n\nSe usa valor absoluto porque si no, las diferencias se cancelan: $-3 - 1 + 1 + 3 = 0$.\n\nInterpretación: los datos están, en promedio, a 2 unidades de la media.\n\nSi $DM$ es pequeña, los datos están juntos. Si es grande, muy dispersos.",
+"pizarron": "**Qué es:** la desviación media dice qué tan lejos están los datos de la media, en promedio.\n\n**Imagínalo:** todos se forman alrededor del promedio. Mides cuánto se aleja cada uno y sacas el promedio de esas distancias.\n\n**Pasos con 2, 4, 6, 8:**\n\n1. Media: 5.\n2. Distancias: 3, 1, 1, 3. Sin signo.\n3. Suma: 8.\n4. Divide entre 4: 2.\n\nSe usa valor absoluto para que las diferencias no se cancelen.\n\n**Si todos son iguales,** da 0.\n\n**Para tu escuela:** calcula la desviación media de tres calificaciones.",
 "truco": "Promedio de distancias a la media.",
 "practica": {
 "ejercicio": "Calcula la desviación media de 1, 3, 5.",
@@ -409,7 +409,7 @@
 ],
 "contenido": {
 "idea": "Una cosa es lo que debería pasar y otra lo que realmente pasó. La clásica predice; la frecuencial cuenta lo que salió en la realidad.",
-"pizarron": "**Qué es:** la probabilidad clásica se calcula con casos posibles. La frecuencial se obtiene repitiendo el experimento.\n\n**Clásica** o teórica: se calcula sin experimentar.\n\n$$P = \\frac{\\text{casos favorables}}{\\text{casos posibles}}$$\n\nSacar 3 en un dado: $\\frac{1}{6}$.\n\n**Frecuencial** o empírica: se obtiene de experimentos.\n\n$$P = \\frac{\\text{veces que ocurrió}}{\\text{total de intentos}}$$\n\nSi lanzas una moneda 100 veces y salen 47 soles: $\\frac{47}{100}$.\n\n**Ley de los grandes números**: con muchos intentos, la frecuencial se acerca a la clásica.\n\nSirve cuando no se pueden contar los casos: probabilidad de lluvia, de enfermedad o de que un foco falle.",
+"pizarron": "**Qué es:** la probabilidad clásica se calcula con casos posibles. La frecuencial se obtiene repitiendo el experimento.\n\n**Imagínalo:** clásica es pensar. Frecuencial es probar y contar.\n\n**Clásica:** favorables entre posibles. Sacar 3 en un dado: $\\frac{1}{6}$. Mayor que 3: $\\frac{3}{6}$.\n\n**Frecuencial:** veces que pasó entre intentos. 47 soles de 100: $\\frac{47}{100}$.\n\n**Ley de los grandes números:** con muchos intentos, la frecuencial se acerca a la clásica. Con pocos, puede salir muy distinta.\n\n**Para tu escuela:** lanza un dado 30 veces y compara.",
 "truco": "Clásica piensa; frecuencial cuenta.",
 "practica": {
 "ejercicio": "En 200 lanzamientos de dado salió 4 en 30 ocasiones. ¿Cuál es la frecuencial?",
@@ -453,7 +453,7 @@
 ],
 "contenido": {
 "idea": "No puedes estar en la escuela y en casa al mismo tiempo. Dos eventos que no pueden ocurrir juntos se llaman mutuamente excluyentes.",
-"pizarron": "**La regla:** si dos eventos no pueden ocurrir juntos, $P(A \\text{ o } B) = P(A) + P(B)$.\n\nDos eventos son **mutuamente excluyentes** si no pueden pasar a la vez.\n\nRegla de la suma:\n\n$$P(A \\text{ o } B) = P(A) + P(B)$$\n\nEjemplo: sacar 1 o 6 en un dado.\n\n$$P = \\frac{1}{6} + \\frac{1}{6} = \\frac{2}{6} = \\frac{1}{3}$$\n\nSi **no** son excluyentes, se resta lo común:\n\n$$P(A \\text{ o } B) = P(A) + P(B) - P(A \\text{ y } B)$$\n\nEjemplo: par o múltiplo de 3 en un dado.\n\n$$\\frac{3}{6} + \\frac{2}{6} - \\frac{1}{6} = \\frac{4}{6}$$\n\nSe resta el 6, que cuenta en ambos.",
+"pizarron": "**La regla:** si dos eventos no pueden ocurrir juntos, $P(A \\text{ o } B) = P(A) + P(B)$.\n\n**Imagínalo:** no puedes estar en dos salones a la vez. Sacar 1 y sacar 6 en un tiro tampoco.\n\n**Excluyentes:** se suman. Sacar 1 o 6: $\\frac{1}{6} + \\frac{1}{6} = \\frac{1}{3}$.\n\n**Con bolsa:** 4 rojas, 1 azul y 5 verdes. Roja o azul: $\\frac{5}{10}$.\n\n**Si pueden pasar juntos,** no son excluyentes. Se resta lo común.\n\nPar o múltiplo de 3: $\\frac{3}{6} + \\frac{2}{6} - \\frac{1}{6}$. Se resta el 6, que está en los dos.\n\nEl 4 es par, así que *par* y *sacar 4* no son excluyentes.\n\n**Para tu escuela:** da un ejemplo de dos cosas que no pueden pasar juntas.",
 "truco": "Si dice o y no pueden juntos, suma.",
 "practica": {
 "ejercicio": "Bolsa: 3 rojas, 2 azules, 5 verdes. ¿Probabilidad de roja o azul?",
@@ -496,7 +496,7 @@
 ],
 "contenido": {
 "idea": "O llueve o no llueve: no hay otra opción. Si sabes qué tan probable es que llueva, ya sabes qué tan probable es que no llueva.",
-"pizarron": "**La regla:** la probabilidad de que algo no pase es uno menos la de que pase: $P(\\text{no } A) = 1 - P(A)$.\n\nEl **complemento** de $A$ es que $A$ **no** ocurra. Juntos cubren todas las posibilidades.\n\n$$P(\\text{no } A) = 1 - P(A)$$\n\nEjemplo: la probabilidad de lluvia es 0.3.\n\n$$P(\\text{no lluvia}) = 1 - 0.3 = 0.7$$\n\nEjemplo: no sacar 6 en un dado.\n\n$$1 - \\frac{1}{6} = \\frac{5}{6}$$\n\nSirve para evitar conteos largos. Probabilidad de sacar **al menos un** sol en 2 monedas:\n\n$$1 - P(\\text{ninguno}) = 1 - \\frac{1}{4} = \\frac{3}{4}$$",
+"pizarron": "**La regla:** la probabilidad de que algo no pase es uno menos la de que pase: $P(\\text{no } A) = 1 - P(A)$.\n\n**Imagínalo:** si la probabilidad de lluvia es 30 %, la de que no llueva es 70 %. Juntas dan el 100 %.\n\n**Con decimales:** $1 - 0.3 = 0.7$.\n\n**Con fracciones:** no sacar 6: $1 - \\frac{1}{6} = \\frac{5}{6}$.\n\n**Con bolsa:** 3 rojas y 2 azules. No sacar roja: $\\frac{2}{5}$.\n\n**Al menos uno:** al menos un sol en 2 monedas: $1 - \\frac{1}{4} = \\frac{3}{4}$.\n\n**Para tu escuela:** calcula la probabilidad de no sacar 1 en un dado.",
 "truco": "Lo que no pasa es uno menos lo que pasa.",
 "practica": {
 "ejercicio": "$P(A) = 0.85$. Calcula $P(\\text{no } A)$.",

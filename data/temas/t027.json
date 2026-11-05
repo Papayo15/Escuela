@@ -1,452 +1,452 @@
 [
-  {
-    "nodo_id": "ems-084",
-    "titulo": "Leer y escribir: dos caras de comunicar",
-    "slug": "leer-y-escribir-comunicar-preparatoria",
-    "palabras": [
-      "lectura",
-      "escritura",
-      "comunicación",
-      "ideas",
-      "opiniones"
-    ],
-    "contenido": {
-      "idea": "Escribir es lanzar una pelota y leer es atraparla. Sin alguien que la atrape, la pelota se pierde; sin alguien que la lance, no hay juego.",
-      "pizarron": "**Qué es:** leer y escribir son formas de comprender y compartir ideas.\n\nLas personas necesitamos comunicar información, ideas, pensamientos y opiniones. La escritura permite guardarlos y enviarlos a otros lugares y tiempos; la lectura los recupera y les da sentido.\n\n1. El autor piensa en un lector y decide qué quiere decir.\n2. Escribe con claridad para que se entienda sin estar presente.\n3. El lector interpreta usando lo que ya sabe.\n4. El lector puede responder, y entonces se vuelve autor.\n\nPor eso ambas prácticas se alimentan: quien lee mucho descubre formas de escribir, y quien escribe lee con más atención.\n\n**Para recordar:**\n- **¿Qué ventaja tiene escribir una idea en lugar de solo decirla?** Se conserva y puede llegar a personas lejanas o futuras.",
-      "truco": "Quien escribe lanza, quien lee atrapa.",
-      "practica": {
-        "ejercicio": "Escribe un mensaje de dos líneas para avisar a un compañero que la clase cambió de salón. Después explica qué debe entender el lector.",
-        "respuesta": "Ejemplo: \"La clase de mañana será en el salón 5, no en el 3, a las 8:00.\" El lector debe entender dónde, cuándo y qué cambió."
-      },
-      "analogias": [
-        {
-          "titulo": "El puente",
-          "texto": "Escritura y lectura son las dos orillas de un puente: el texto es el camino que une la mente de quien escribe con la de quien lee."
-        },
-        {
-          "titulo": "La carta",
-          "texto": "Una carta no sirve si nadie la abre; abrirla y leerla completa el viaje que empezó cuando alguien la escribió."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué ventaja tiene escribir una idea en lugar de solo decirla?",
-          "respuesta": "Se conserva y puede llegar a personas lejanas o futuras."
-        },
-        {
-          "ejercicio": "Explica cómo un lector se convierte en autor.",
-          "respuesta": "Al responder con su propia opinión por escrito, como en un comentario o una carta."
-        },
-        {
-          "ejercicio": "Menciona dos textos que leas a diario y qué comunican.",
-          "respuesta": "Respuesta libre válida: un mensaje (información) y una noticia (opinión o hechos), indicando qué comunican."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-085",
-    "titulo": "Gustos de lectura en tu escuela",
-    "slug": "gustos-lectura-comunidad-escolar",
-    "palabras": [
-      "encuesta",
-      "entrevista",
-      "lectores",
-      "diversidad de textos",
-      "investigación"
-    ],
-    "contenido": {
-      "idea": "Es como preguntar en una fiesta qué música les gusta: si preguntas a varios, descubres que cada quien disfruta algo distinto.",
-      "pizarron": "**Qué es:** es investigar qué lee tu escuela.\n\n1. Decide qué preguntar.\n2. Haz una encuesta.\n3. Aplícala.\n4. Cuenta las respuestas.\n5. Comparte.\n\nNo hay gustos incorrectos.\n\n**Para recordar:**\n- **¿Por qué conviene encuestar a personas de distintos grupos?** Para que el resultado represente la diversidad de la comunidad y no solo a un grupo.\n\n**Para tu escuela:** encuesta a diez compañeros.",
-      "truco": "Pregunta, anota, cuenta y concluye.",
-      "practica": {
-        "ejercicio": "Redacta dos preguntas para una encuesta sobre lectura.",
-        "respuesta": "Ejemplo: \"¿Qué tipo de texto lees más: cómic, novela, noticias u otro?\" y \"¿Cuántas horas a la semana lees por gusto?\""
-      },
-      "analogias": [
-        {
-          "titulo": "El menú",
-          "texto": "Una biblioteca es como un menú de restaurante: la investigación revela qué platillos piden más los comensales."
-        },
-        {
-          "titulo": "El mapa",
-          "texto": "Cada respuesta es un punto en un mapa; al juntar muchos puntos ves dónde se concentran los gustos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Si 12 de 30 alumnos prefieren cómics, ¿qué fracción es y cuántos por ciento?",
-          "respuesta": "12/30 = 2/5 = 40 %."
-        },
-        {
-          "ejercicio": "Diferencia una pregunta abierta de una cerrada y da un ejemplo de cada una.",
-          "respuesta": "Cerrada: opciones fijas (\"¿Lees novelas: sí o no?\"). Abierta: respuesta libre (\"¿Por qué te gusta leer?\")."
-        },
-        {
-          "ejercicio": "¿Por qué conviene encuestar a personas de distintos grupos?",
-          "respuesta": "Para que el resultado represente la diversidad de la comunidad y no solo a un grupo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-086",
-    "titulo": "Claridad al transmitir ideas por escrito",
-    "slug": "claridad-ideas-textos-escritos",
-    "palabras": [
-      "claridad",
-      "ideas",
-      "opiniones",
-      "análisis de textos",
-      "redacción"
-    ],
-    "contenido": {
-      "idea": "Si das indicaciones para llegar a tu casa y dices \"por ahí, cerca\", tu amigo se pierde. Escribir claro es dar indicaciones que sí llevan a algún lado.",
-      "pizarron": "**Qué es:** un texto es claro si el lector entiende sin adivinar.\n\n**Información:** dato comprobable.\n\n**Idea:** lo que organiza el texto.\n\n**Opinión:** lo que piensas.\n\n**Para tu escuela:** subraya con colores datos y opiniones en un texto.",
-      "truco": "Hecho se comprueba; opinión se argumenta.",
-      "practica": {
-        "ejercicio": "Clasifica: \"El río mide 200 km\" y \"El río es hermoso\".",
-        "respuesta": "La primera es información (se puede comprobar); la segunda es opinión."
-      },
-      "analogias": [
-        {
-          "titulo": "La ventana limpia",
-          "texto": "Un texto claro es una ventana limpia: ves la idea al otro lado sin manchas que estorben."
-        },
-        {
-          "titulo": "El mensaje en botella",
-          "texto": "Quien escribe no estará presente para aclarar, así que el mensaje debe explicarse por sí solo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Reescribe con más claridad: \"Eso pasó por allá hace rato\".",
-          "respuesta": "Ejemplo: \"El accidente ocurrió en la avenida Juárez a las 3 de la tarde.\""
-        },
-        {
-          "ejercicio": "Clasifica: \"Pienso que leer es útil\".",
-          "respuesta": "Opinión, pues expresa un juicio personal."
-        },
-        {
-          "ejercicio": "Menciona dos rasgos de un texto claro.",
-          "respuesta": "Por ejemplo: palabras precisas y orden lógico de las ideas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-087",
-    "titulo": "Identificar lo importante de un texto",
-    "slug": "identificar-informacion-relevante-texto",
-    "palabras": [
-      "idea principal",
-      "subrayado",
-      "resumen",
-      "información relevante",
-      "comprensión lectora"
-    ],
-    "contenido": {
-      "idea": "Es como buscar tus llaves en una bolsa llena: no sacas todo, solo lo que realmente necesitas.",
-      "pizarron": "**La regla:** si quitas una frase y se pierde el sentido, era importante.\n\n1. Lee todo.\n2. Mira títulos.\n3. Busca la idea principal.\n4. Subraya solo lo esencial.\n5. Anota con tus palabras.\n\n**Para recordar:**\n- **¿Dónde suele estar la idea principal de un párrafo?** Con frecuencia al inicio, aunque puede estar en medio o al final.\n- **¿Por qué no conviene subrayar todo?** Porque ya no se distingue lo esencial de lo secundario.\n\n**Para tu escuela:** subraya la idea principal de un párrafo.",
-      "truco": "Si al quitarla el texto se cae, es esencial.",
-      "practica": {
-        "ejercicio": "En \"Dormir bien mejora la memoria. Por ejemplo, el cerebro ordena lo aprendido durante la noche\", ¿cuál es la idea principal?",
-        "respuesta": "\"Dormir bien mejora la memoria\"; la segunda oración es un ejemplo que la apoya."
-      },
-      "analogias": [
-        {
-          "titulo": "El esqueleto",
-          "texto": "La idea principal es el esqueleto del texto; los detalles son la piel y la ropa que lo acompañan."
-        },
-        {
-          "titulo": "La maleta",
-          "texto": "Al viajar solo llevas lo indispensable; al leer solo conservas lo indispensable en tu resumen."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Dónde suele estar la idea principal de un párrafo?",
-          "respuesta": "Con frecuencia al inicio, aunque puede estar en medio o al final."
-        },
-        {
-          "ejercicio": "¿Por qué no conviene subrayar todo?",
-          "respuesta": "Porque ya no se distingue lo esencial de lo secundario."
-        },
-        {
-          "ejercicio": "Resume en una oración: \"Las abejas polinizan flores y así ayudan a que existan frutas y semillas\".",
-          "respuesta": "Las abejas son importantes porque polinizan y permiten la producción de frutos y semillas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-088",
-    "titulo": "Concordancia y conectores en un texto",
-    "slug": "concordancia-y-conectores-textuales",
-    "palabras": [
-      "concordancia",
-      "conectores",
-      "cohesión",
-      "género y número",
-      "enlaces"
-    ],
-    "contenido": {
-      "idea": "Las palabras son como vagones de tren: la concordancia hace que encajen bien y los conectores son los ganchos que los unen.",
-      "pizarron": "**La regla:** las palabras deben coincidir, y los conectores unen las ideas.\n\n**Concordancia:** *las niñas inteligentes*; *ellos estudian*.\n\n**Conectores:**\n\n- Suma: además.\n- Contraste: pero.\n- Causa: porque.\n- Consecuencia: por lo tanto.\n- Orden: primero.\n\n**Para tu escuela:** une dos oraciones con *por lo tanto*.",
-      "truco": "Concordar es coincidir; conectar es enlazar.",
-      "practica": {
-        "ejercicio": "Corrige: \"Los niño juega en el parque\".",
-        "respuesta": "\"Los niños juegan en el parque\"."
-      },
-      "analogias": [
-        {
-          "titulo": "Las piezas de rompecabezas",
-          "texto": "La concordancia es que las piezas tengan la forma correcta; los conectores muestran dónde va cada una."
-        },
-        {
-          "titulo": "Señales de tránsito",
-          "texto": "Los conectores avisan si el texto sigue, gira (pero) o se detiene (finalmente), para que el lector no se pierda."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Completa con un conector: \"Estudié mucho; ___ aprobé el examen\".",
-          "respuesta": "Por lo tanto (o así que), porque expresa consecuencia."
-        },
-        {
-          "ejercicio": "Corrige: \"La casas bonitas\".",
-          "respuesta": "\"Las casas bonitas\"."
-        },
-        {
-          "ejercicio": "Une con un conector de contraste: \"Quería salir. Estaba lloviendo\".",
-          "respuesta": "Quería salir, pero estaba lloviendo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-089",
-    "titulo": "Cómo se desarrolla una exposición oral",
-    "slug": "exposicion-oral-caracteristicas-preparatoria",
-    "palabras": [
-      "exposición",
-      "presentar",
-      "hablar en público",
-      "introducción",
-      "cierre"
-    ],
-    "contenido": {
-      "idea": "Exponer es contar a tus amigos de qué trata tu película favorita: empiezas, explicas lo importante y terminas dejando una buena idea.",
-      "pizarron": "**Qué es:** una exposición explica un tema a un público, en orden.\n\n1. **Inicio:** saluda y presenta.\n2. **Desarrollo:** explica con ejemplos.\n3. **Cierre:** resume.\n\nUsa un guion, voz clara y mira al público.\n\n**Para recordar:**\n- **¿Por qué no conviene leer todo el texto en la exposición?** Porque se pierde contacto con el público y suena monótono; es mejor usar ideas clave.\n\n**Para tu escuela:** prepara una exposición de tres minutos.",
-      "truco": "Inicio, desarrollo y cierre; voz clara y mirada al público.",
-      "practica": {
-        "ejercicio": "Escribe una frase de introducción para exponer sobre el reciclaje.",
-        "respuesta": "Ejemplo: \"Buenos días; hoy les explicaré qué es el reciclaje y cómo podemos practicarlo en la escuela\"."
-      },
-      "analogias": [
-        {
-          "titulo": "El viaje guiado",
-          "texto": "Quien expone es guía de turistas: anuncia el recorrido, recorre cada parada y se despide recordando lo visto."
-        },
-        {
-          "titulo": "La receta",
-          "texto": "Se necesitan ingredientes (ideas), orden de pasos y buena presentación para que el platillo guste."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué no conviene leer todo el texto en la exposición?",
-          "respuesta": "Porque se pierde contacto con el público y suena monótono; es mejor usar ideas clave."
-        },
-        {
-          "ejercicio": "Ordena: cierre, introducción, desarrollo.",
-          "respuesta": "Introducción, desarrollo, cierre."
-        },
-        {
-          "ejercicio": "Menciona dos recursos de voz útiles al exponer.",
-          "respuesta": "Volumen adecuado y pausas (también ritmo moderado o buena pronunciación)."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-090",
-    "titulo": "Lectura en voz alta y opinión",
-    "slug": "lectura-en-voz-alta-opinion",
-    "palabras": [
-      "leer en voz alta",
-      "entonación",
-      "fluidez",
-      "opinar",
-      "comentario"
-    ],
-    "contenido": {
-      "idea": "Leer en voz alta es como cantar una canción: no solo dices las palabras, también les pones ritmo y sentimiento.",
-      "pizarron": "**Qué es:** leer en voz alta ayuda a entender y compartir.\n\n1. Lee primero en silencio.\n2. Pronuncia claro.\n3. Respeta comas y puntos.\n4. Cambia la voz en preguntas.\n\nDespués da tu opinión con una razón.\n\n**Para recordar:**\n- **¿Para qué leer primero en silencio?** Para conocer el texto y evitar errores o tropiezos al leer en voz alta.\n\n**Para tu escuela:** lee un poema en voz alta y di por qué te gustó.",
-      "truco": "Coma, pausa corta; punto, pausa larga.",
-      "practica": {
-        "ejercicio": "Lee en voz alta: \"¿Vienes hoy? ¡Qué bien!\" Indica qué cambia en tu voz.",
-        "respuesta": "La primera sube al final por la pregunta; la segunda se pronuncia con emoción por la exclamación."
-      },
-      "analogias": [
-        {
-          "titulo": "El actor",
-          "texto": "Quien lee en voz alta es como un actor de teatro: con la voz da vida a personajes y emociones."
-        },
-        {
-          "titulo": "El semáforo",
-          "texto": "Los signos de puntuación son semáforos: la coma es amarillo y el punto es rojo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Para qué leer primero en silencio?",
-          "respuesta": "Para conocer el texto y evitar errores o tropiezos al leer en voz alta."
-        },
-        {
-          "ejercicio": "Completa la opinión: \"Me gustó el cuento porque ___\".",
-          "respuesta": "Respuesta libre válida si incluye una razón concreta del texto."
-        },
-        {
-          "ejercicio": "¿Qué diferencia hay entre decir \"Está bien\" y \"No me gustó\" sin razón y dar una opinión argumentada?",
-          "respuesta": "La argumentada explica por qué, con una razón o ejemplo del texto."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-091",
-    "titulo": "Tipos de párrafos y su estructura",
-    "slug": "tipos-de-parrafos-estructura",
-    "palabras": [
-      "párrafo",
-      "idea principal",
-      "introducción",
-      "desarrollo",
-      "conclusión"
-    ],
-    "contenido": {
-      "idea": "Un párrafo es como un cajón de ropa: cada cajón guarda un solo tipo de cosas, y por eso encuentras todo rápido.",
-      "pizarron": "**Qué es:** un párrafo agrupa oraciones sobre una idea.\n\n**Por función:** introducción, desarrollo y conclusión.\n\n**Por orden:** idea al inicio (deductivo) o al final (inductivo).\n\n**Para recordar:**\n- **¿Cuál es la función de un párrafo de conclusión?** Cerrar el texto resumiendo o reforzando la idea principal.\n\n**Para tu escuela:** localiza la idea en tres párrafos.",
-      "truco": "Principal al inicio es deductivo; al final, inductivo.",
-      "practica": {
-        "ejercicio": "\"Hay cuervos, gorriones y palomas. Son aves comunes en la ciudad\". ¿Es deductivo o inductivo?",
-        "respuesta": "Inductivo: los ejemplos van primero y la idea general queda al final."
-      },
-      "analogias": [
-        {
-          "titulo": "El capítulo de un libro",
-          "texto": "Cada párrafo es un mini capítulo con su propio tema, y todos juntos forman la historia completa."
-        },
-        {
-          "titulo": "La pirámide",
-          "texto": "En el párrafo deductivo la idea es la punta que va primero y se baja a los detalles; en el inductivo se sube desde los detalles."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuál es la función de un párrafo de conclusión?",
-          "respuesta": "Cerrar el texto resumiendo o reforzando la idea principal."
-        },
-        {
-          "ejercicio": "Clasifica: \"El deporte es saludable. Fortalece el corazón y mejora el ánimo\".",
-          "respuesta": "Deductivo, porque la idea principal va al inicio."
-        },
-        {
-          "ejercicio": "¿Con qué signo termina un párrafo?",
-          "respuesta": "Con punto y aparte."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-092",
-    "titulo": "Narrar una experiencia que dejó huella",
-    "slug": "narrar-historia-de-vida-huella",
-    "palabras": [
-      "narración",
-      "autobiografía",
-      "experiencia personal",
-      "relato",
-      "recuerdo"
-    ],
-    "contenido": {
-      "idea": "Es como contarle a un amigo el día más importante de tu vida: no solo qué pasó, también cómo te sentiste.",
-      "pizarron": "**Qué es:** es contar algo real que te marcó.\n\n**Incluye:** quién, dónde, qué pasó, qué sentiste y qué aprendiste.\n\nUsa *yo* y verbos en pasado.\n\nCuenta solo lo que quieras.\n\n**Para tu escuela:** escribe un momento que te cambió.",
-      "truco": "Qué pasó, cómo me sentí y qué cambió.",
-      "practica": {
-        "ejercicio": "Escribe dos oraciones sobre una experiencia que te enseñó algo.",
-        "respuesta": "Ejemplo: \"Mi primer día en una escuela nueva sentí miedo. Descubrí que pedir ayuda me hacía más fuerte\"."
-      },
-      "analogias": [
-        {
-          "titulo": "La huella en la arena",
-          "texto": "Una experiencia importante es como un paso en la arena: deja una marca que muestra por dónde pasaste."
-        },
-        {
-          "titulo": "El álbum de fotos",
-          "texto": "Narrar es elegir una foto del álbum de tu vida y explicar por qué es especial."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Identifica la huella: \"Perdí un concurso, pero aprendí a practicar con paciencia\".",
-          "respuesta": "Aprendió a practicar con paciencia."
-        },
-        {
-          "ejercicio": "¿Qué tiempo verbal predomina al narrar algo ya ocurrido?",
-          "respuesta": "El pasado (por ejemplo, \"llegué\", \"sentí\")."
-        },
-        {
-          "ejercicio": "Reflexión: ¿por qué contar tu historia ayuda a conocerte? Da un criterio de respuesta.",
-          "respuesta": "Válida si reconoce emociones, aprendizajes o cambios personales al ordenar lo vivido."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-093",
-    "titulo": "Escribir un texto descriptivo o narrativo",
-    "slug": "escribir-texto-descriptivo-narrativo",
-    "palabras": [
-      "descripción",
-      "narración",
-      "redacción",
-      "texto propio",
-      "escritura creativa"
-    ],
-    "contenido": {
-      "idea": "Describir es dibujar con palabras y narrar es hacer una película con palabras: en ambos casos el lector imagina lo que escribes.",
-      "pizarron": "**Qué es:** describir dice cómo es algo y narrar cuenta qué pasó.\n\nTexto descriptivo: presenta cómo es algo o alguien (rasgos, colores, sonidos, olores). Usa adjetivos precisos y comparaciones. Ejemplo: \"El patio, silencioso y soleado, olía a tierra mojada\".\n\nTexto narrativo: cuenta hechos en el tiempo, con personajes, lugar, inicio, conflicto y final.\n\nProceso de escritura:\n1. Elige tema y tipo de texto.\n2. Haz un plan con ideas.\n3. Escribe un primer borrador.\n4. Revisa claridad, concordancia, conectores y ortografía.\n5. Escribe la versión final.\n\nAutoría significa que las ideas y palabras son tuyas; si usas ideas ajenas, menciona la fuente.",
-      "truco": "Describir es cómo es; narrar es qué pasó.",
-      "practica": {
-        "ejercicio": "Escribe una oración descriptiva sobre tu salón.",
-        "respuesta": "Ejemplo: \"Mi salón es amplio, tiene ventanas grandes y huele a gis\"."
-      },
-      "analogias": [
-        {
-          "titulo": "Foto y video",
-          "texto": "La descripción es una fotografía que detiene el momento; la narración es un video que muestra cómo avanza."
-        },
-        {
-          "titulo": "Construir una casa",
-          "texto": "El borrador es la estructura y la revisión es el acabado: pulir antes de entregar la casa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Es descriptivo o narrativo: \"Ayer corrí al autobús y lo alcancé\"?",
-          "respuesta": "Narrativo, porque cuenta acciones en el tiempo."
-        },
-        {
-          "ejercicio": "Escribe tres adjetivos para describir un mercado.",
-          "respuesta": "Respuesta libre válida, por ejemplo: colorido, ruidoso, aromático."
-        },
-        {
-          "ejercicio": "Menciona el paso que sigue al primer borrador.",
-          "respuesta": "La revisión (claridad, concordancia, conectores y ortografía)."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-084",
+"titulo": "Leer y escribir: dos caras de comunicar",
+"slug": "leer-y-escribir-comunicar-preparatoria",
+"palabras": [
+"lectura",
+"escritura",
+"comunicación",
+"ideas",
+"opiniones"
+],
+"contenido": {
+"idea": "Escribir es lanzar una pelota y leer es atraparla. Sin alguien que la atrape, la pelota se pierde; sin alguien que la lance, no hay juego.",
+"pizarron": "**Qué es:** leer y escribir son formas de comprender y compartir ideas.\n\nLas personas necesitamos comunicar información, ideas, pensamientos y opiniones. La escritura permite guardarlos y enviarlos a otros lugares y tiempos; la lectura los recupera y les da sentido.\n\n1. El autor piensa en un lector y decide qué quiere decir.\n2. Escribe con claridad para que se entienda sin estar presente.\n3. El lector interpreta usando lo que ya sabe.\n4. El lector puede responder, y entonces se vuelve autor.\n\nPor eso ambas prácticas se alimentan: quien lee mucho descubre formas de escribir, y quien escribe lee con más atención.\n\n**Escribir:** la idea se conserva y llega a personas lejanas.\n\n**Para tu escuela:** escribe una idea importante para ti y léela a alguien.",
+"truco": "Quien escribe lanza, quien lee atrapa.",
+"practica": {
+"ejercicio": "Escribe un mensaje de dos líneas para avisar a un compañero que la clase cambió de salón. Después explica qué debe entender el lector.",
+"respuesta": "Ejemplo: \"La clase de mañana será en el salón 5, no en el 3, a las 8:00.\" El lector debe entender dónde, cuándo y qué cambió."
+},
+"analogias": [
+{
+"titulo": "El puente",
+"texto": "Escritura y lectura son las dos orillas de un puente: el texto es el camino que une la mente de quien escribe con la de quien lee."
+},
+{
+"titulo": "La carta",
+"texto": "Una carta no sirve si nadie la abre; abrirla y leerla completa el viaje que empezó cuando alguien la escribió."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué ventaja tiene escribir una idea en lugar de solo decirla?",
+"respuesta": "Se conserva y puede llegar a personas lejanas o futuras."
+},
+{
+"ejercicio": "Explica cómo un lector se convierte en autor.",
+"respuesta": "Al responder con su propia opinión por escrito, como en un comentario o una carta."
+},
+{
+"ejercicio": "Menciona dos textos que leas a diario y qué comunican.",
+"respuesta": "Respuesta libre válida: un mensaje (información) y una noticia (opinión o hechos), indicando qué comunican."
+}
+]
+}
+},
+{
+"nodo_id": "ems-085",
+"titulo": "Gustos de lectura en tu escuela",
+"slug": "gustos-lectura-comunidad-escolar",
+"palabras": [
+"encuesta",
+"entrevista",
+"lectores",
+"diversidad de textos",
+"investigación"
+],
+"contenido": {
+"idea": "Es como preguntar en una fiesta qué música les gusta: si preguntas a varios, descubres que cada quien disfruta algo distinto.",
+"pizarron": "**Qué es:** es investigar qué lee tu escuela.\n\n1. Decide qué preguntar.\n2. Haz una encuesta.\n3. Aplícala.\n4. Cuenta las respuestas.\n5. Comparte.\n\nNo hay gustos incorrectos.\n\nPregunta a distintos grupos, para que el resultado represente a toda la escuela.\n\n**Para tu escuela:** encuesta a diez compañeros.",
+"truco": "Pregunta, anota, cuenta y concluye.",
+"practica": {
+"ejercicio": "Redacta dos preguntas para una encuesta sobre lectura.",
+"respuesta": "Ejemplo: \"¿Qué tipo de texto lees más: cómic, novela, noticias u otro?\" y \"¿Cuántas horas a la semana lees por gusto?\""
+},
+"analogias": [
+{
+"titulo": "El menú",
+"texto": "Una biblioteca es como un menú de restaurante: la investigación revela qué platillos piden más los comensales."
+},
+{
+"titulo": "El mapa",
+"texto": "Cada respuesta es un punto en un mapa; al juntar muchos puntos ves dónde se concentran los gustos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Si 12 de 30 alumnos prefieren cómics, ¿qué fracción es y cuántos por ciento?",
+"respuesta": "12/30 = 2/5 = 40 %."
+},
+{
+"ejercicio": "Diferencia una pregunta abierta de una cerrada y da un ejemplo de cada una.",
+"respuesta": "Cerrada: opciones fijas (\"¿Lees novelas: sí o no?\"). Abierta: respuesta libre (\"¿Por qué te gusta leer?\")."
+},
+{
+"ejercicio": "¿Por qué conviene encuestar a personas de distintos grupos?",
+"respuesta": "Para que el resultado represente la diversidad de la comunidad y no solo a un grupo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Claridad al transmitir ideas por escrito",
+"slug": "claridad-ideas-textos-escritos",
+"palabras": [
+"claridad",
+"ideas",
+"opiniones",
+"análisis de textos",
+"redacción"
+],
+"contenido": {
+"idea": "Si das indicaciones para llegar a tu casa y dices \"por ahí, cerca\", tu amigo se pierde. Escribir claro es dar indicaciones que sí llevan a algún lado.",
+"pizarron": "**Qué es:** un texto es claro si el lector entiende sin adivinar.\n\n**Información:** dato comprobable.\n\n**Idea:** lo que organiza el texto.\n\n**Opinión:** lo que piensas.\n\n**Para tu escuela:** subraya con colores datos y opiniones en un texto.",
+"truco": "Hecho se comprueba; opinión se argumenta.",
+"practica": {
+"ejercicio": "Clasifica: \"El río mide 200 km\" y \"El río es hermoso\".",
+"respuesta": "La primera es información (se puede comprobar); la segunda es opinión."
+},
+"analogias": [
+{
+"titulo": "La ventana limpia",
+"texto": "Un texto claro es una ventana limpia: ves la idea al otro lado sin manchas que estorben."
+},
+{
+"titulo": "El mensaje en botella",
+"texto": "Quien escribe no estará presente para aclarar, así que el mensaje debe explicarse por sí solo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Reescribe con más claridad: \"Eso pasó por allá hace rato\".",
+"respuesta": "Ejemplo: \"El accidente ocurrió en la avenida Juárez a las 3 de la tarde.\""
+},
+{
+"ejercicio": "Clasifica: \"Pienso que leer es útil\".",
+"respuesta": "Opinión, pues expresa un juicio personal."
+},
+{
+"ejercicio": "Menciona dos rasgos de un texto claro.",
+"respuesta": "Por ejemplo: palabras precisas y orden lógico de las ideas."
+}
+]
+}
+},
+{
+"nodo_id": "ems-087",
+"titulo": "Identificar lo importante de un texto",
+"slug": "identificar-informacion-relevante-texto",
+"palabras": [
+"idea principal",
+"subrayado",
+"resumen",
+"información relevante",
+"comprensión lectora"
+],
+"contenido": {
+"idea": "Es como buscar tus llaves en una bolsa llena: no sacas todo, solo lo que realmente necesitas.",
+"pizarron": "**La regla:** si quitas una frase y se pierde el sentido, era importante.\n\n1. Lee todo.\n2. Mira títulos.\n3. Busca la idea principal.\n4. Subraya solo lo esencial.\n5. Anota con tus palabras.\n\n**Idea principal:** muchas veces está al inicio, aunque puede estar en medio o al final.\n\n**Subraya poco:** si subrayas todo, ya no se ve lo esencial.\n\n**Para tu escuela:** subraya la idea principal de un párrafo.",
+"truco": "Si al quitarla el texto se cae, es esencial.",
+"practica": {
+"ejercicio": "En \"Dormir bien mejora la memoria. Por ejemplo, el cerebro ordena lo aprendido durante la noche\", ¿cuál es la idea principal?",
+"respuesta": "\"Dormir bien mejora la memoria\"; la segunda oración es un ejemplo que la apoya."
+},
+"analogias": [
+{
+"titulo": "El esqueleto",
+"texto": "La idea principal es el esqueleto del texto; los detalles son la piel y la ropa que lo acompañan."
+},
+{
+"titulo": "La maleta",
+"texto": "Al viajar solo llevas lo indispensable; al leer solo conservas lo indispensable en tu resumen."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde suele estar la idea principal de un párrafo?",
+"respuesta": "Con frecuencia al inicio, aunque puede estar en medio o al final."
+},
+{
+"ejercicio": "¿Por qué no conviene subrayar todo?",
+"respuesta": "Porque ya no se distingue lo esencial de lo secundario."
+},
+{
+"ejercicio": "Resume en una oración: \"Las abejas polinizan flores y así ayudan a que existan frutas y semillas\".",
+"respuesta": "Las abejas son importantes porque polinizan y permiten la producción de frutos y semillas."
+}
+]
+}
+},
+{
+"nodo_id": "ems-088",
+"titulo": "Concordancia y conectores en un texto",
+"slug": "concordancia-y-conectores-textuales",
+"palabras": [
+"concordancia",
+"conectores",
+"cohesión",
+"género y número",
+"enlaces"
+],
+"contenido": {
+"idea": "Las palabras son como vagones de tren: la concordancia hace que encajen bien y los conectores son los ganchos que los unen.",
+"pizarron": "**La regla:** las palabras deben coincidir, y los conectores unen las ideas.\n\n**Concordancia:** *las niñas inteligentes*; *ellos estudian*.\n\n**Conectores:**\n\n- Suma: además.\n- Contraste: pero.\n- Causa: porque.\n- Consecuencia: por lo tanto.\n- Orden: primero.\n\n**Para tu escuela:** une dos oraciones con *por lo tanto*.",
+"truco": "Concordar es coincidir; conectar es enlazar.",
+"practica": {
+"ejercicio": "Corrige: \"Los niño juega en el parque\".",
+"respuesta": "\"Los niños juegan en el parque\"."
+},
+"analogias": [
+{
+"titulo": "Las piezas de rompecabezas",
+"texto": "La concordancia es que las piezas tengan la forma correcta; los conectores muestran dónde va cada una."
+},
+{
+"titulo": "Señales de tránsito",
+"texto": "Los conectores avisan si el texto sigue, gira (pero) o se detiene (finalmente), para que el lector no se pierda."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa con un conector: \"Estudié mucho; ___ aprobé el examen\".",
+"respuesta": "Por lo tanto (o así que), porque expresa consecuencia."
+},
+{
+"ejercicio": "Corrige: \"La casas bonitas\".",
+"respuesta": "\"Las casas bonitas\"."
+},
+{
+"ejercicio": "Une con un conector de contraste: \"Quería salir. Estaba lloviendo\".",
+"respuesta": "Quería salir, pero estaba lloviendo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-089",
+"titulo": "Cómo se desarrolla una exposición oral",
+"slug": "exposicion-oral-caracteristicas-preparatoria",
+"palabras": [
+"exposición",
+"presentar",
+"hablar en público",
+"introducción",
+"cierre"
+],
+"contenido": {
+"idea": "Exponer es contar a tus amigos de qué trata tu película favorita: empiezas, explicas lo importante y terminas dejando una buena idea.",
+"pizarron": "**Qué es:** una exposición explica un tema a un público, en orden.\n\n1. **Inicio:** saluda y presenta.\n2. **Desarrollo:** explica con ejemplos.\n3. **Cierre:** resume.\n\nUsa un guion, voz clara y mira al público.\n\nNo leas todo: pierdes contacto con el público. Usa ideas clave.\n\n**Para tu escuela:** prepara una exposición de tres minutos.",
+"truco": "Inicio, desarrollo y cierre; voz clara y mirada al público.",
+"practica": {
+"ejercicio": "Escribe una frase de introducción para exponer sobre el reciclaje.",
+"respuesta": "Ejemplo: \"Buenos días; hoy les explicaré qué es el reciclaje y cómo podemos practicarlo en la escuela\"."
+},
+"analogias": [
+{
+"titulo": "El viaje guiado",
+"texto": "Quien expone es guía de turistas: anuncia el recorrido, recorre cada parada y se despide recordando lo visto."
+},
+{
+"titulo": "La receta",
+"texto": "Se necesitan ingredientes (ideas), orden de pasos y buena presentación para que el platillo guste."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué no conviene leer todo el texto en la exposición?",
+"respuesta": "Porque se pierde contacto con el público y suena monótono; es mejor usar ideas clave."
+},
+{
+"ejercicio": "Ordena: cierre, introducción, desarrollo.",
+"respuesta": "Introducción, desarrollo, cierre."
+},
+{
+"ejercicio": "Menciona dos recursos de voz útiles al exponer.",
+"respuesta": "Volumen adecuado y pausas (también ritmo moderado o buena pronunciación)."
+}
+]
+}
+},
+{
+"nodo_id": "ems-090",
+"titulo": "Lectura en voz alta y opinión",
+"slug": "lectura-en-voz-alta-opinion",
+"palabras": [
+"leer en voz alta",
+"entonación",
+"fluidez",
+"opinar",
+"comentario"
+],
+"contenido": {
+"idea": "Leer en voz alta es como cantar una canción: no solo dices las palabras, también les pones ritmo y sentimiento.",
+"pizarron": "**Qué es:** leer en voz alta ayuda a entender y compartir.\n\n1. Lee primero en silencio.\n2. Pronuncia claro.\n3. Respeta comas y puntos.\n4. Cambia la voz en preguntas.\n\nDespués da tu opinión con una razón.\n\n**Antes:** lee en silencio para conocer el texto y no tropezar.\n\n**Para tu escuela:** lee un poema en voz alta y di por qué te gustó.",
+"truco": "Coma, pausa corta; punto, pausa larga.",
+"practica": {
+"ejercicio": "Lee en voz alta: \"¿Vienes hoy? ¡Qué bien!\" Indica qué cambia en tu voz.",
+"respuesta": "La primera sube al final por la pregunta; la segunda se pronuncia con emoción por la exclamación."
+},
+"analogias": [
+{
+"titulo": "El actor",
+"texto": "Quien lee en voz alta es como un actor de teatro: con la voz da vida a personajes y emociones."
+},
+{
+"titulo": "El semáforo",
+"texto": "Los signos de puntuación son semáforos: la coma es amarillo y el punto es rojo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Para qué leer primero en silencio?",
+"respuesta": "Para conocer el texto y evitar errores o tropiezos al leer en voz alta."
+},
+{
+"ejercicio": "Completa la opinión: \"Me gustó el cuento porque ___\".",
+"respuesta": "Respuesta libre válida si incluye una razón concreta del texto."
+},
+{
+"ejercicio": "¿Qué diferencia hay entre decir \"Está bien\" y \"No me gustó\" sin razón y dar una opinión argumentada?",
+"respuesta": "La argumentada explica por qué, con una razón o ejemplo del texto."
+}
+]
+}
+},
+{
+"nodo_id": "ems-091",
+"titulo": "Tipos de párrafos y su estructura",
+"slug": "tipos-de-parrafos-estructura",
+"palabras": [
+"párrafo",
+"idea principal",
+"introducción",
+"desarrollo",
+"conclusión"
+],
+"contenido": {
+"idea": "Un párrafo es como un cajón de ropa: cada cajón guarda un solo tipo de cosas, y por eso encuentras todo rápido.",
+"pizarron": "**Qué es:** un párrafo agrupa oraciones sobre una idea.\n\n**Por función:** introducción, desarrollo y conclusión.\n\n**Por orden:** idea al inicio (deductivo) o al final (inductivo).\n\n**Conclusión:** cierra el texto resumiendo la idea principal.\n\n**Para tu escuela:** localiza la idea en tres párrafos.",
+"truco": "Principal al inicio es deductivo; al final, inductivo.",
+"practica": {
+"ejercicio": "\"Hay cuervos, gorriones y palomas. Son aves comunes en la ciudad\". ¿Es deductivo o inductivo?",
+"respuesta": "Inductivo: los ejemplos van primero y la idea general queda al final."
+},
+"analogias": [
+{
+"titulo": "El capítulo de un libro",
+"texto": "Cada párrafo es un mini capítulo con su propio tema, y todos juntos forman la historia completa."
+},
+{
+"titulo": "La pirámide",
+"texto": "En el párrafo deductivo la idea es la punta que va primero y se baja a los detalles; en el inductivo se sube desde los detalles."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es la función de un párrafo de conclusión?",
+"respuesta": "Cerrar el texto resumiendo o reforzando la idea principal."
+},
+{
+"ejercicio": "Clasifica: \"El deporte es saludable. Fortalece el corazón y mejora el ánimo\".",
+"respuesta": "Deductivo, porque la idea principal va al inicio."
+},
+{
+"ejercicio": "¿Con qué signo termina un párrafo?",
+"respuesta": "Con punto y aparte."
+}
+]
+}
+},
+{
+"nodo_id": "ems-092",
+"titulo": "Narrar una experiencia que dejó huella",
+"slug": "narrar-historia-de-vida-huella",
+"palabras": [
+"narración",
+"autobiografía",
+"experiencia personal",
+"relato",
+"recuerdo"
+],
+"contenido": {
+"idea": "Es como contarle a un amigo el día más importante de tu vida: no solo qué pasó, también cómo te sentiste.",
+"pizarron": "**Qué es:** es contar algo real que te marcó.\n\n**Incluye:** quién, dónde, qué pasó, qué sentiste y qué aprendiste.\n\nUsa *yo* y verbos en pasado.\n\nCuenta solo lo que quieras.\n\n**Para tu escuela:** escribe un momento que te cambió.",
+"truco": "Qué pasó, cómo me sentí y qué cambió.",
+"practica": {
+"ejercicio": "Escribe dos oraciones sobre una experiencia que te enseñó algo.",
+"respuesta": "Ejemplo: \"Mi primer día en una escuela nueva sentí miedo. Descubrí que pedir ayuda me hacía más fuerte\"."
+},
+"analogias": [
+{
+"titulo": "La huella en la arena",
+"texto": "Una experiencia importante es como un paso en la arena: deja una marca que muestra por dónde pasaste."
+},
+{
+"titulo": "El álbum de fotos",
+"texto": "Narrar es elegir una foto del álbum de tu vida y explicar por qué es especial."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Identifica la huella: \"Perdí un concurso, pero aprendí a practicar con paciencia\".",
+"respuesta": "Aprendió a practicar con paciencia."
+},
+{
+"ejercicio": "¿Qué tiempo verbal predomina al narrar algo ya ocurrido?",
+"respuesta": "El pasado (por ejemplo, \"llegué\", \"sentí\")."
+},
+{
+"ejercicio": "Reflexión: ¿por qué contar tu historia ayuda a conocerte? Da un criterio de respuesta.",
+"respuesta": "Válida si reconoce emociones, aprendizajes o cambios personales al ordenar lo vivido."
+}
+]
+}
+},
+{
+"nodo_id": "ems-093",
+"titulo": "Escribir un texto descriptivo o narrativo",
+"slug": "escribir-texto-descriptivo-narrativo",
+"palabras": [
+"descripción",
+"narración",
+"redacción",
+"texto propio",
+"escritura creativa"
+],
+"contenido": {
+"idea": "Describir es dibujar con palabras y narrar es hacer una película con palabras: en ambos casos el lector imagina lo que escribes.",
+"pizarron": "**Qué es:** describir dice cómo es algo y narrar cuenta qué pasó.\n\nTexto descriptivo: presenta cómo es algo o alguien (rasgos, colores, sonidos, olores). Usa adjetivos precisos y comparaciones. Ejemplo: \"El patio, silencioso y soleado, olía a tierra mojada\".\n\nTexto narrativo: cuenta hechos en el tiempo, con personajes, lugar, inicio, conflicto y final.\n\nProceso de escritura:\n1. Elige tema y tipo de texto.\n2. Haz un plan con ideas.\n3. Escribe un primer borrador.\n4. Revisa claridad, concordancia, conectores y ortografía.\n5. Escribe la versión final.\n\nAutoría significa que las ideas y palabras son tuyas; si usas ideas ajenas, menciona la fuente.\n\n**Para tu escuela:** describe tu salón y luego cuenta algo que pasó en él.",
+"truco": "Describir es cómo es; narrar es qué pasó.",
+"practica": {
+"ejercicio": "Escribe una oración descriptiva sobre tu salón.",
+"respuesta": "Ejemplo: \"Mi salón es amplio, tiene ventanas grandes y huele a gis\"."
+},
+"analogias": [
+{
+"titulo": "Foto y video",
+"texto": "La descripción es una fotografía que detiene el momento; la narración es un video que muestra cómo avanza."
+},
+{
+"titulo": "Construir una casa",
+"texto": "El borrador es la estructura y la revisión es el acabado: pulir antes de entregar la casa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Es descriptivo o narrativo: \"Ayer corrí al autobús y lo alcancé\"?",
+"respuesta": "Narrativo, porque cuenta acciones en el tiempo."
+},
+{
+"ejercicio": "Escribe tres adjetivos para describir un mercado.",
+"respuesta": "Respuesta libre válida, por ejemplo: colorido, ruidoso, aromático."
+},
+{
+"ejercicio": "Menciona el paso que sigue al primer borrador.",
+"respuesta": "La revisión (claridad, concordancia, conectores y ortografía)."
+}
+]
+}
+}
 ]

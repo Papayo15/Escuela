@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Imagina que tienes una cuerda y quieres hacer el corral más grande para tu perro. Si lo haces muy largo y angosto, cabe poco; si lo haces muy cuadrado, cabe más. Hay un tamaño perfecto.",
-"pizarron": "**La regla:** los máximos y mínimos se hallan igualando la derivada a cero.\n\n**Pasos:**\n\n1. Escribe la función.\n2. Déjala con una variable.\n3. Deriva.\n4. Iguala a cero.\n5. Comprueba con la segunda derivada.\n\n**Ejemplo:** con 40 m de malla, $A = 20x - x^2$.\n\n$A' = 20 - 2x = 0$, entonces $x = 10$.\n\n**Para tu escuela:** repite con 60 m de malla.",
+"pizarron": "**La regla:** los máximos y mínimos se hallan igualando la derivada a cero.\n\n**Imagínalo:** con una cuerda quieres encerrar el mayor pasto posible. La derivada te dice cuándo ya llegaste a la cima.\n\n**Pasos:**\n\n1. Escribe qué quieres hacer grande o chico.\n2. Déjalo con una letra.\n3. Deriva.\n4. Iguala a cero.\n5. Comprueba con la segunda derivada: positiva es mínimo, negativa es máximo.\n\n**Ejemplo:** 40 m de malla. Lados $x$ y $20 - x$. $A = 20x - x^2$.\n\n$A' = 20 - 2x = 0$, y $x = 10$. Sale un cuadrado.\n\n**Junto a un muro:** ese lado no lleva malla. Solo cuentas tres lados.\n\n**Para tu escuela:** repite con 60 m de malla.",
 "truco": "Dibuja, une, deriva, iguala a cero y comprueba.",
 "practica": {
 "ejercicio": "Con 100 m de cuerda formas un rectángulo. ¿Qué medidas dan el área máxima?",
@@ -147,7 +147,7 @@
 ],
 "contenido": {
 "idea": "Si en una bolsa hay 3 canicas rojas y 1 azul, es más fácil sacar una roja. La probabilidad mide qué tan fácil es que algo pase con un número entre 0 y 1.",
-"pizarron": "**La regla:** probabilidad es casos favorables entre casos posibles.\n\n**Espacio muestral:** todos los resultados.\n\n**Multiplicativo:** $m \\cdot n$.\n\n**Permutaciones:** importa el orden. **Combinaciones:** no.\n\n**Ejemplo:** dos dados tienen 36 resultados. La suma 8 sale de 5 formas.\n\n$$P = \\frac{5}{36}$$\n\n**Para tu escuela:** calcula la probabilidad de sumar 7.",
+"pizarron": "**La regla:** probabilidad es casos favorables entre casos posibles.\n\n**Imagínalo:** en una bolsa hay 1 dulce rojo y 3 azules. Sacar rojo es 1 de 4.\n\n**Espacio muestral:** todos los resultados. Un dado tiene 6.\n\n**Multiplicativo:** dos dados tienen $6 \\cdot 6 = 36$ resultados.\n\n**Permutación:** importa el orden. Ordenar 3 libros: $3! = 6$.\n\n**Combinación:** no importa el orden. Elegir 2 de 4:\n\n$$C(4,2) = \\frac{4!}{2!\\,2!} = 6$$\n\n**Ejemplo:** con dos dados, sumar 8 sale de 5 formas: $\\frac{5}{36}$.\n\n**Para tu escuela:** haz una lista de los resultados de dos monedas.",
 "truco": "Favorables entre posibles; si importa el orden, permuta.",
 "practica": {
 "ejercicio": "Al lanzar un dado, ¿cuál es la probabilidad de obtener un número par?",
@@ -192,7 +192,7 @@
 ],
 "contenido": {
 "idea": "Si mides la estatura de todo un grupo, casi todos están cerca del promedio y muy pocos son altísimos o bajitos. Si dibujas cuántos hay de cada estatura sale una campana.",
-"pizarron": "**Qué es:** la distribución normal es una curva en forma de campana: casi todos quedan cerca del promedio.\n\n$\\mu$ es la media. $\\sigma$ dice qué tan separados están.\n\n**Regla 68-95-99.7:** 68 % a una $\\sigma$, 95 % a dos, 99.7 % a tres.\n\n**Puntaje z:**\n\n$$z = \\frac{x - \\mu}{\\sigma}$$\n\nCon $\\mu = 170$, $\\sigma = 10$ y $x = 185$: $z = 1.5$.\n\n**Para tu escuela:** calcula $z$ con $x = 80$, $\\mu = 70$ y $\\sigma = 5$.",
+"pizarron": "**Qué es:** la distribución normal es una curva en forma de campana: casi todos quedan cerca del promedio.\n\n**Imagínalo:** mide a todo tu salón. Muchos miden parecido, y pocos son muy altos o muy bajos.\n\n**Símbolos:** $\\mu$ es el promedio. $\\sigma$ es el tamaño del escalón.\n\n**Regla:**\n\n- A un escalón hacia cada lado: 68 %.\n- A dos: 95 %.\n- A tres: 99.7 %.\n\n**Colas:** lo que queda fuera se reparte en dos lados. Fuera de dos escalones queda 5 %, así que arriba hay 2.5 %.\n\n**Puntaje z:** $z = \\frac{x - \\mu}{\\sigma}$. Con 170, 10 y 185: $z = 1.5$.\n\n**Para tu escuela:** mide a tus compañeros y haz una gráfica de barras.",
 "truco": "68, 95, 99.7: una, dos, tres sigmas.",
 "practica": {
 "ejercicio": "Estaturas con $\\mu=160$ cm y $\\sigma=10$ cm. ¿Qué porcentaje mide entre 150 y 170 cm?",
@@ -238,7 +238,7 @@
 ],
 "contenido": {
 "idea": "Si sueltas una piedra, siempre cae. Pero si lanzas una moneda, no sabes si saldrá águila o sol. Lo primero está decidido de antemano; lo segundo depende del azar.",
-"pizarron": "**Qué es:** un fenómeno determinista siempre da lo mismo. Uno aleatorio puede variar.\n\nEl agua hierve igual. Una moneda no se sabe.\n\n**Frecuencia relativa:**\n\n$$f_r = \\frac{\\text{veces que ocurre}}{\\text{repeticiones}}$$\n\nCon 12 águilas en 20 tiros: $0.6$.\n\nCon muchos tiros se acerca a la probabilidad.\n\n**Para tu escuela:** lanza una moneda 30 veces y calcula $f_r$.",
+"pizarron": "**Qué es:** un fenómeno determinista siempre da lo mismo. Uno aleatorio puede variar.\n\n**Imagínalo:** $2 + 2$ siempre es 4. Una moneda no se sabe.\n\n**Frecuencia relativa:**\n\n$$f_r = \\frac{\\text{veces que ocurre}}{\\text{repeticiones}}$$\n\n**En palabras:** cuántas veces pasó entre cuántas veces probaste. 12 águilas en 20 tiros: 0.6.\n\n**Teórica:** lo que debería pasar. Una cara de dado es $\\frac{1}{6}$.\n\n**Simulación:** repetir muchas veces para ver qué pasa.\n\nCon pocos tiros hay mucha variación. Con muchos, se acerca a la teórica. Por eso 7 águilas en 10 tiros no prueba que una moneda esté mal.\n\n**Para tu escuela:** lanza una moneda 30 veces y calcula $f_r$.",
 "truco": "Muchas repeticiones acercan la frecuencia a la probabilidad.",
 "practica": {
 "ejercicio": "Lanzas un dado 60 veces y el 6 sale 8 veces. ¿Cuál es la frecuencia relativa? ¿Y la teórica?",

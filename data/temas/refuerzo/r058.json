@@ -1,1168 +1,1168 @@
 [
-  {
-    "nodo_id": "f6-040",
-    "titulo": "Noticia y reportaje",
-    "slug": "noticia-y-reportaje-secundaria",
-    "palabras": [
-      "noticia",
-      "reportaje",
-      "periodismo"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Foto y documental",
-          "texto": "La noticia es una foto rápida; el reportaje es un documental completo."
-        },
-        {
-          "titulo": "La pirámide de cabeza",
-          "texto": "Lo más grande va arriba, y por eso entiendes aunque solo leas el inicio."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di las seis preguntas de una noticia.",
-          "respuesta": "Qué, quién, cuándo, dónde, cómo y por qué."
-        },
-        {
-          "ejercicio": "¿Qué género usa entrevistas y mucha investigación?",
-          "respuesta": "El reportaje."
-        },
-        {
-          "ejercicio": "Escribe una noticia breve sobre tu escuela con titular y entrada.",
-          "respuesta": "Debe responder qué, quién, cuándo y dónde."
-        }
-      ],
-      "idea": "Una noticia te cuenta rápido qué pasó hoy. Un reportaje se queda a investigar y te lo explica a fondo.",
-      "pizarron": "**Qué es:** la noticia informa un hecho reciente de forma breve y objetiva. El reportaje investiga un tema a fondo con datos, testimonios y varias fuentes.\n\n**Partes de la noticia:**\n\n- Titular: la idea en una frase.\n- Entrada: lo más importante.\n- Cuerpo: los detalles.\n\nDebe responder seis preguntas: qué, quién, cuándo, dónde, cómo y por qué.\n\nVa de lo más importante a lo menos importante. Eso se llama pirámide invertida.\n\n**Reportaje:** usa entrevistas, cifras y ejemplos. Es más largo y puede mostrar varias miradas.",
-      "truco": "Noticia avisa; reportaje investiga.",
-      "practica": {
-        "ejercicio": "¿Qué parte de la noticia va primero?",
-        "respuesta": "El titular."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-040",
-    "titulo": "Artículo de opinión",
-    "slug": "articulo-de-opinion-secundaria",
-    "palabras": [
-      "artículo de opinión",
-      "tesis",
-      "argumentos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "El abogado",
-          "texto": "Defiende su caso con pruebas, no solo diciendo que tiene razón."
-        },
-        {
-          "titulo": "La mesa",
-          "texto": "La tesis es la tabla y cada argumento es una pata."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe una tesis sobre usar celular en clase.",
-          "respuesta": "Debe decir tu postura en una oración."
-        },
-        {
-          "ejercicio": "¿Qué necesita una opinión además de la tesis?",
-          "respuesta": "Argumentos."
-        },
-        {
-          "ejercicio": "¿Qué se hace en la conclusión?",
-          "respuesta": "Se refuerza la idea."
-        }
-      ],
-      "idea": "En un artículo de opinión alguien dice qué piensa y por qué, para que tú también lo pienses.",
-      "pizarron": "**Qué es:** un artículo de opinión es un texto donde alguien dice qué piensa de un tema y da razones.\n\n**Partes:**\n\n1. **Introducción:** presenta el tema y tu idea, llamada **tesis**.\n2. **Desarrollo:** da razones con datos.\n3. **Conclusión:** repite tu idea con fuerza.\n\n**Ejemplo:**\n\nTesis: *La escuela no debería vender refresco.*\n\nRazón: *Tiene mucha azúcar y daña la salud.*\n\nCierre: *Por eso conviene vender agua.*\n\nOpinar sin razones no convence.\n\n**Para tu escuela:** escribe tres oraciones sobre el uso del celular en clase.",
-      "truco": "Tesis, razones y cierre.",
-      "practica": {
-        "ejercicio": "¿Cómo se llama la postura del autor?",
-        "respuesta": "Tesis."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-052",
-    "titulo": "Citas y referencias",
-    "slug": "citas-y-referencias-secundaria",
-    "palabras": [
-      "citas",
-      "referencias",
-      "fuentes"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Dar crédito",
-          "texto": "Si tu amigo inventó el juego, dices que fue él."
-        },
-        {
-          "titulo": "El mapa",
-          "texto": "La referencia es el mapa para llegar al libro original."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es plagio?",
-          "respuesta": "Usar ideas ajenas sin decir de quién son."
-        },
-        {
-          "ejercicio": "¿Qué cita usa tus palabras?",
-          "respuesta": "La indirecta."
-        },
-        {
-          "ejercicio": "Escribe una referencia de un libro que tengas.",
-          "respuesta": "Debe tener autor, año, título y editorial."
-        }
-      ],
-      "idea": "Si usas la idea de alguien, di de quién es. Eso se llama citar, y es como decir gracias por la idea.",
-      "pizarron": "**Qué es:** una cita reproduce o resume las ideas de otra persona. La referencia da los datos para encontrar esa fuente.\n\n**Cita textual:** copia exacta, entre comillas.\n\n*«La educación es la llave del futuro» (Gómez, 2020).*\n\n**Cita indirecta:** con tus palabras.\n\n*Según Gómez (2020), estudiar abre oportunidades.*\n\n**Referencia:**\n\n*Gómez, L. (2020). La escuela. Editorial Sol.*\n\nUsar ideas ajenas sin decirlo se llama **plagio**.",
-      "truco": "Comillas si copias; siempre di de quién es.",
-      "practica": {
-        "ejercicio": "¿Qué signos lleva una cita textual?",
-        "respuesta": "Comillas."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-052",
-    "titulo": "Ficha de trabajo",
-    "slug": "ficha-de-trabajo-secundaria",
-    "palabras": [
-      "ficha de trabajo",
-      "investigación",
-      "notas"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Cartas",
-          "texto": "Puedes barajar tus fichas hasta hallar el mejor orden para tu trabajo."
-        },
-        {
-          "titulo": "Ahorrar",
-          "texto": "Cada ficha es una moneda guardada para cuando escribas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué ficha copia textual?",
-          "respuesta": "La de cita."
-        },
-        {
-          "ejercicio": "¿Cuántas ideas lleva cada ficha?",
-          "respuesta": "Una."
-        },
-        {
-          "ejercicio": "Haz una ficha de resumen sobre un tema de ciencias.",
-          "respuesta": "Debe tener tema, fuente y resumen."
-        }
-      ],
-      "idea": "Antes de escribir tu trabajo necesitas guardar lo que encuentras. Las fichas son tus notas ordenadas.",
-      "pizarron": "**Qué es:** una ficha de trabajo es una tarjeta donde guardas un dato para usarlo en tu investigación.\n\nSon como tus notas en orden.\n\n**Lleva:** tema, de dónde sacaste el dato y la información.\n\n**Tipos:**\n\n- **De cita:** copias igual.\n- **De resumen:** con tus palabras.\n- **De comentario:** lo que tú opinas.\n\n**Regla:** una idea por ficha. Así puedes ordenarlas como cartas.\n\n**Para tu escuela:** haz una ficha de resumen de un tema de ciencias.",
-      "truco": "Una idea, una ficha.",
-      "practica": {
-        "ejercicio": "¿Qué ficha guarda tu opinión?",
-        "respuesta": "La de comentario."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-052",
-    "titulo": "Monografía",
-    "slug": "monografia-secundaria",
-    "palabras": [
-      "monografía",
-      "investigación",
-      "texto"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "La lupa",
-          "texto": "Te acercas mucho a una sola cosa para conocerla bien."
-        },
-        {
-          "titulo": "El museo",
-          "texto": "Tu trabajo es una sala bien organizada sobre un solo tema."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué va después del desarrollo?",
-          "respuesta": "Las conclusiones."
-        },
-        {
-          "ejercicio": "Haz más pequeño el tema *Los ríos*.",
-          "respuesta": "Ejemplo: *El río Usumacinta y sus comunidades*."
-        },
-        {
-          "ejercicio": "Escribe el índice de una monografía sobre tu tema favorito.",
-          "respuesta": "Debe incluir introducción, desarrollo y conclusión."
-        }
-      ],
-      "idea": "Una monografía es como ser experto de un solo tema: lees mucho y explicas lo que hallaste.",
-      "pizarron": "**Qué es:** una monografía explica un solo tema con información de varias fuentes.\n\nEs como ser experto de una sola cosa.\n\n**Partes:** portada, índice, introducción, desarrollo, conclusiones y referencias.\n\n**Pasos:**\n\n1. Elige un tema pequeño.\n2. Investiga.\n3. Haz fichas.\n4. Escribe.\n5. Revisa y cita.\n\n**Tema muy grande:** *Los animales*.\n\n**Tema bueno:** *El ajolote en Xochimilco*.\n\n**Para tu escuela:** escribe un tema pequeño a partir de *Los ríos*.",
-      "truco": "Tema pequeño, fuentes muchas.",
-      "practica": {
-        "ejercicio": "¿Qué parte lista las fuentes?",
-        "respuesta": "Las referencias."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-052",
-    "titulo": "Texto expositivo",
-    "slug": "texto-expositivo-secundaria",
-    "palabras": [
-      "texto expositivo",
-      "explicar",
-      "información"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Maestro",
-          "texto": "Es como un buen maestro que explica paso a paso."
-        },
-        {
-          "titulo": "Instructivo de ideas",
-          "texto": "Ordena la información para que no te pierdas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Un artículo de opinión es expositivo?",
-          "respuesta": "No, ese busca convencer."
-        },
-        {
-          "ejercicio": "Di dos recursos expositivos.",
-          "respuesta": "Definición y ejemplo."
-        },
-        {
-          "ejercicio": "Escribe tres oraciones que expliquen la lluvia.",
-          "respuesta": "Deben informar sin opinar."
-        }
-      ],
-      "idea": "Un texto expositivo te explica cómo funciona algo, sin intentar convencerte de nada.",
-      "pizarron": "**Qué es:** el texto expositivo presenta información para explicar un tema de forma clara y objetiva.\n\n**Estructura:** introducción, desarrollo y conclusión.\n\n**Recursos:**\n\n- Definición: *Un volcán es...*\n- Ejemplo.\n- Comparación.\n- Causa y efecto.\n- Clasificación.\n\nUsa palabras precisas y verbos en presente.\n\nSe encuentra en enciclopedias y libros de texto.",
-      "truco": "Explicar, no convencer.",
-      "practica": {
-        "ejercicio": "¿Dónde se encuentran textos expositivos?",
-        "respuesta": "En enciclopedias y libros de texto."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-025",
-    "titulo": "Metáfora y símil",
-    "slug": "metafora-y-simil-secundaria",
-    "palabras": [
-      "metáfora",
-      "símil",
-      "figuras retóricas"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Dos fotos",
-          "texto": "El símil pone dos fotos lado a lado; la metáfora las encima."
-        },
-        {
-          "titulo": "Disfraz",
-          "texto": "En la metáfora, una cosa se disfraza completamente de otra."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué figura es *El río de tu voz*?",
-          "respuesta": "Metáfora."
-        },
-        {
-          "ejercicio": "¿Qué tienen en común *cabello* y *oro* en *cabello de oro*?",
-          "respuesta": "El color y el brillo."
-        },
-        {
-          "ejercicio": "Escribe un símil sobre la noche.",
-          "respuesta": "Debe comparar usando *como*."
-        }
-      ],
-      "idea": "Decir eres como un sol compara. Decir eres mi sol cambia una cosa por otra. Son dos juegos parecidos.",
-      "pizarron": "**Qué es:** el símil compara dos cosas con un nexo como *como*. La metáfora identifica una cosa con otra, sin nexo.\n\n**Símil:** *Sus dientes son como perlas.*\n\n**Metáfora:** *Las perlas de su boca.*\n\nEn ambas buscas algo en común: blancos y brillantes.\n\nPara analizarlas, pregunta: ¿qué se compara?, ¿qué tienen en común?",
-      "truco": "Con como es símil; sin como, metáfora.",
-      "practica": {
-        "ejercicio": "¿Qué figura es *Valiente como un león*?",
-        "respuesta": "Símil."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-025",
-    "titulo": "Hipérbole, personificación y anáfora",
-    "slug": "hiperbole-personificacion-y-anafora-secundaria",
-    "palabras": [
-      "hipérbole",
-      "personificación",
-      "anáfora"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Lupa gigante",
-          "texto": "La hipérbole agranda lo que quieres que se note."
-        },
-        {
-          "titulo": "El estribillo",
-          "texto": "La anáfora se repite como una parte de una canción."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué figura es *El viento susurra*?",
-          "respuesta": "Personificación."
-        },
-        {
-          "ejercicio": "¿Qué figura repite al inicio?",
-          "respuesta": "Anáfora."
-        },
-        {
-          "ejercicio": "Escribe una hipérbole sobre el calor.",
-          "respuesta": "Debe exagerar el calor."
-        }
-      ],
-      "idea": "Exagerar, dar vida a las cosas y repetir palabras son tres trucos que usan los escritores.",
-      "pizarron": "**Qué es:** la hipérbole exagera. La personificación da rasgos humanos a cosas o animales. La anáfora repite palabras al inicio de los versos.\n\n**Hipérbole:** *Lloró ríos de lágrimas.*\n\n**Personificación:** *La luna me mira.*\n\n**Anáfora:**\n\n*Aquí nací,*\n\n*aquí crecí,*\n\n*aquí me quedo.*\n\nSirven para emocionar y dar ritmo.",
-      "truco": "Exagera, da vida o repite.",
-      "practica": {
-        "ejercicio": "¿Qué figura es *Te llamé mil veces*?",
-        "respuesta": "Hipérbole."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-025",
-    "titulo": "Géneros literarios",
-    "slug": "generos-literarios-secundaria",
-    "palabras": [
-      "géneros literarios",
-      "narrativo",
-      "lírico",
-      "dramático"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Tres cines",
-          "texto": "Uno cuenta, otro canta y otro actúa en vivo."
-        },
-        {
-          "titulo": "Tres familias",
-          "texto": "Cada obra pertenece a la familia que comparte su manera de comunicar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué género es un soneto?",
-          "respuesta": "Lírico."
-        },
-        {
-          "ejercicio": "¿Qué género es una comedia?",
-          "respuesta": "Dramático."
-        },
-        {
-          "ejercicio": "Da un ejemplo de obra narrativa que conozcas.",
-          "respuesta": "Cualquier cuento o novela es correcto."
-        }
-      ],
-      "idea": "Una historia se cuenta, un poema se siente y una obra se actúa. Por eso hay tres grandes familias.",
-      "pizarron": "**Qué es:** los géneros literarios son las categorías en que se agrupan las obras: narrativo, lírico y dramático.\n\n**Narrativo:** cuenta una historia. Cuento, novela, leyenda.\n\n**Lírico:** expresa sentimientos. Poema, oda, soneto.\n\n**Dramático:** se escribe para actuarse. Tragedia, comedia.\n\nPregunta: ¿cuenta?, ¿siente?, ¿se actúa?",
-      "truco": "Cuenta, siente o actúa.",
-      "practica": {
-        "ejercicio": "¿Qué género es una novela?",
-        "respuesta": "Narrativo."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-025",
-    "titulo": "Narrador y punto de vista",
-    "slug": "narrador-y-punto-de-vista-secundaria",
-    "palabras": [
-      "narrador",
-      "primera persona",
-      "omnisciente"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Cámara",
-          "texto": "Una cámara solo ve; un dios lo sabe todo."
-        },
-        {
-          "titulo": "Diario",
-          "texto": "Un diario es una narración en primera persona."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué narrador usa *yo*?",
-          "respuesta": "Primera persona."
-        },
-        {
-          "ejercicio": "¿El narrador es siempre el autor?",
-          "respuesta": "No."
-        },
-        {
-          "ejercicio": "Reescribe *Juan corrió* en primera persona.",
-          "respuesta": "*Corrí.*"
-        }
-      ],
-      "idea": "Alguien te cuenta el cuento. A veces vive la historia y a veces lo sabe todo desde fuera.",
-      "pizarron": "**Qué es:** el narrador es la voz que cuenta la historia. El punto de vista es desde dónde la cuenta.\n\n**Primera persona:** *Yo entré al cuarto.* Vive la historia.\n\n**Tercera persona omnisciente:** lo sabe todo, hasta lo que piensan.\n\n**Tercera persona observador:** solo cuenta lo que se ve.\n\n**Segunda persona:** habla a *tú*. Es raro.\n\nEl narrador no es el autor: es una voz creada.",
-      "truco": "Yo vive; él sabe o mira.",
-      "practica": {
-        "ejercicio": "¿Qué narrador sabe lo que piensan todos?",
-        "respuesta": "El omnisciente."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-025",
-    "titulo": "Estructura de la obra de teatro",
-    "slug": "estructura-de-la-obra-de-teatro-secundaria",
-    "palabras": [
-      "teatro",
-      "actos",
-      "escenas",
-      "acotaciones"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Receta",
-          "texto": "Las acotaciones son las instrucciones para preparar la escena."
-        },
-        {
-          "titulo": "Capítulos",
-          "texto": "Los actos son capítulos grandes y las escenas, capítulos pequeños."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuándo cambia una escena?",
-          "respuesta": "Cuando entra o sale un personaje."
-        },
-        {
-          "ejercicio": "¿Qué son los diálogos?",
-          "respuesta": "Lo que dicen los personajes."
-        },
-        {
-          "ejercicio": "Escribe un diálogo breve con una acotación.",
-          "respuesta": "Debe tener dos personajes y una indicación entre paréntesis."
-        }
-      ],
-      "idea": "Una obra de teatro no se lee igual que un cuento: se escribe para que unas personas la digan en un escenario.",
-      "pizarron": "**Qué es:** una obra de teatro es un texto hecho para actuarse. Se divide en actos y escenas.\n\n**Acto:** parte grande. Cambia al bajar el telón.\n\n**Escena:** parte pequeña. Cambia si entra o sale un personaje.\n\n**Diálogo:** lo que dicen los personajes.\n\n**Acotación:** indicación entre paréntesis para actuar.\n\n**Ejemplo:**\n\nANA. (*Enojada.*) ¡No voy a ir!\n\nLUIS. ¿Por qué?\n\nAna y Luis hablan. *Enojada* no se dice: se actúa.\n\n**Para tu escuela:** escribe un diálogo de cuatro líneas con una acotación.",
-      "truco": "Los paréntesis guían al actor.",
-      "practica": {
-        "ejercicio": "¿Qué son las acotaciones?",
-        "respuesta": "Indicaciones de cómo actuar o de la escena."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Debate y mesa redonda",
-    "slug": "debate-y-mesa-redonda-secundaria",
-    "palabras": [
-      "debate",
-      "mesa redonda",
-      "oralidad"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Partido",
-          "texto": "El debate tiene dos equipos y un árbitro."
-        },
-        {
-          "titulo": "Sobremesa",
-          "texto": "La mesa redonda se parece a una plática donde cada quien aporta."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es una réplica?",
-          "respuesta": "La respuesta a un argumento."
-        },
-        {
-          "ejercicio": "¿Qué se critica en un debate?",
-          "respuesta": "Las ideas, no las personas."
-        },
-        {
-          "ejercicio": "Prepara dos argumentos sobre el uso de uniforme.",
-          "respuesta": "Deben dar razones."
-        }
-      ],
-      "idea": "En un debate dos lados discuten con respeto. En una mesa redonda varios expertos comparten su mirada.",
-      "pizarron": "**Qué es:** en un debate, dos lados defienden ideas opuestas, con un moderador. En una mesa redonda, varias personas dan su punto de vista ante un público.\n\n**Debate, como un partido:**\n\n1. Se presenta el tema.\n2. Cada lado da sus razones.\n3. Se responden.\n4. Se cierra.\n\n**Mesa redonda, como una plática:** cada quien habla y luego el público pregunta.\n\n**Reglas:** pide la palabra, escucha y critica ideas, no personas.\n\n**Para recordar:**\n- **Réplica:** La respuesta a un argumento.\n\n**Para tu escuela:** prepara dos razones a favor del uniforme y dos en contra.",
-      "truco": "Debate compite; mesa redonda comparte.",
-      "practica": {
-        "ejercicio": "¿Quién dirige el debate?",
-        "respuesta": "El moderador."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Oraciones simples y compuestas",
-    "slug": "oraciones-simples-y-compuestas-secundaria",
-    "palabras": [
-      "oraciones",
-      "simples",
-      "compuestas"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Vagones",
-          "texto": "Cada verbo conjugado es un vagón del tren que forma la oración."
-        },
-        {
-          "titulo": "Lego",
-          "texto": "Una pieza es simple; dos unidas forman una compuesta."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Es compuesta *Estudié, pero reprobé*?",
-          "respuesta": "Sí."
-        },
-        {
-          "ejercicio": "¿Cuántos verbos conjugados hay en *Ana canta y baila*?",
-          "respuesta": "Dos."
-        },
-        {
-          "ejercicio": "Une dos oraciones simples en una compuesta.",
-          "respuesta": "Debe usar un nexo y dos verbos."
-        }
-      ],
-      "idea": "Una oración simple es una sola idea con un verbo. Una compuesta une dos o más ideas.",
-      "pizarron": "**Qué es:** una oración simple tiene un solo verbo conjugado. Una compuesta tiene dos o más.\n\n**Simple:** *Ana canta.*\n\n**Compuesta:** *Ana canta y Luis baila.*\n\nCuenta los verbos conjugados:\n\n- *Quiero comer.* Un conjugado: simple.\n- *Quiero que comas.* Dos: compuesta.\n\n*Comer* no cuenta porque está en infinitivo.",
-      "truco": "Cuenta los verbos conjugados.",
-      "practica": {
-        "ejercicio": "¿Es simple *El perro ladra fuerte*?",
-        "respuesta": "Sí."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Oraciones coordinadas y subordinadas",
-    "slug": "oraciones-coordinadas-y-subordinadas-secundaria",
-    "palabras": [
-      "coordinadas",
-      "subordinadas",
-      "nexos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Socios y jefe",
-          "texto": "Coordinadas son socios; subordinada es quien depende del jefe."
-        },
-        {
-          "titulo": "Puente y escalera",
-          "texto": "Un puente une dos orillas iguales; una escalera depende de la casa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Clasifica: *Comí y dormí.*",
-          "respuesta": "Coordinada."
-        },
-        {
-          "ejercicio": "Clasifica: *Dijo que vendría.*",
-          "respuesta": "Subordinada."
-        },
-        {
-          "ejercicio": "Da un nexo subordinante.",
-          "respuesta": "*porque*"
-        }
-      ],
-      "idea": "Dos oraciones pueden ser amigas iguales o una puede depender de la otra.",
-      "pizarron": "**Qué es:** en las coordinadas, cada oración tiene sentido por sí sola. En las subordinadas, una depende de la principal.\n\n**Coordinadas:**\n\n*Llegó tarde y perdió el tren.*\n\nNexos: *y, o, pero, sino*.\n\n**Subordinadas:**\n\n*Sé que vendrás.*\n\n*Que vendrás* no se sostiene sola.\n\nNexos: *que, porque, si, cuando, aunque*.\n\n**Prueba:** sepáralas. Si ambas funcionan, son coordinadas.",
-      "truco": "Si se pueden separar, son coordinadas.",
-      "practica": {
-        "ejercicio": "¿Es subordinada *Porque llovió*?",
-        "respuesta": "Sí, no se sostiene sola."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Complemento directo e indirecto",
-    "slug": "complemento-directo-e-indirecto-secundaria",
-    "palabras": [
-      "complemento directo",
-      "complemento indirecto",
-      "objeto"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "El paquete",
-          "texto": "El directo es el paquete y el indirecto, quien lo recibe."
-        },
-        {
-          "titulo": "La pelota",
-          "texto": "Lanzas la pelota a alguien: la pelota es directo y alguien, indirecto."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di el indirecto en *Escribí una carta a mi abuela*.",
-          "respuesta": "*a mi abuela*"
-        },
-        {
-          "ejercicio": "Cambia *Vi a Ana* por pronombre.",
-          "respuesta": "*La vi.*"
-        },
-        {
-          "ejercicio": "Cambia *Di dulces a Luis* por *le*.",
-          "respuesta": "*Le di dulces.*"
-        }
-      ],
-      "idea": "Mi mamá compró un regalo para Ana. Lo comprado es un regalo; quien lo recibe es Ana.",
-      "pizarron": "**Qué es:** el complemento directo es lo que recibe la acción del verbo. El complemento indirecto es a quién o para quién se hace.\n\n*Luis dio flores a Sofía.*\n\n- ¿Qué dio? *flores*: directo.\n- ¿A quién? *a Sofía*: indirecto.\n\n**Prueba:**\n\nDirecto se cambia por *lo, la, los, las*: *Luis las dio.*\n\nIndirecto se cambia por *le, les*: *Luis le dio flores.*",
-      "truco": "Qué es directo; a quién es indirecto.",
-      "practica": {
-        "ejercicio": "Di el directo en *Compré pan*.",
-        "respuesta": "*pan*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Complemento circunstancial",
-    "slug": "complemento-circunstancial-secundaria",
-    "palabras": [
-      "complemento circunstancial",
-      "lugar",
-      "tiempo",
-      "modo"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Escenografía",
-          "texto": "Es el fondo de una escena: lugar, hora y clima."
-        },
-        {
-          "titulo": "Etiquetas",
-          "texto": "Son notas que agregan información, pero no son la acción."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di el complemento en *Duerme en el sofá*.",
-          "respuesta": "*en el sofá*, de lugar."
-        },
-        {
-          "ejercicio": "¿Qué indica *con cuidado*?",
-          "respuesta": "Modo."
-        },
-        {
-          "ejercicio": "Agrega un complemento de tiempo a *Voy al cine*.",
-          "respuesta": "Ejemplo: *Voy al cine mañana.*"
-        }
-      ],
-      "idea": "Corrí ayer en el parque con mucha prisa. Esas partes dan detalles: cuándo, dónde y cómo.",
-      "pizarron": "**Qué es:** el complemento circunstancial indica las circunstancias de la acción: lugar, tiempo, modo, causa o compañía.\n\n*Ana come en casa.* Lugar.\n\n*Ana come a las dos.* Tiempo.\n\n*Ana come rápido.* Modo.\n\n*Ana come con Luis.* Compañía.\n\n*No salió por la lluvia.* Causa.\n\nSe puede mover o quitar sin romper la oración.",
-      "truco": "Dónde, cuándo y cómo.",
-      "practica": {
-        "ejercicio": "¿Qué indica *ayer*?",
-        "respuesta": "Tiempo."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Voz activa y pasiva",
-    "slug": "voz-activa-y-pasiva-secundaria",
-    "palabras": [
-      "voz activa",
-      "voz pasiva",
-      "gramática"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Cambiar de cámara",
-          "texto": "La cámara ya no sigue al que actúa, sino al que recibe."
-        },
-        {
-          "titulo": "Volteo",
-          "texto": "Das vuelta a la oración sin cambiar el hecho."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Pasa a activa: *La carta fue leída por Luis.*",
-          "respuesta": "*Luis leyó la carta.*"
-        },
-        {
-          "ejercicio": "¿Qué verbo ayudante usa la pasiva?",
-          "respuesta": "*ser*"
-        },
-        {
-          "ejercicio": "Pasa a pasiva: *El perro mordió al cartero.*",
-          "respuesta": "*El cartero fue mordido por el perro.*"
-        }
-      ],
-      "idea": "El gato comió al ratón. El ratón fue comido por el gato. Es lo mismo, pero cambia quién es el centro.",
-      "pizarron": "**Qué es:** en la voz activa, el sujeto hace la acción. En la voz pasiva, el sujeto recibe la acción.\n\n**Activa:** *Cervantes escribió el Quijote.*\n\n**Pasiva:** *El Quijote fue escrito por Cervantes.*\n\n**Pasos:**\n\n1. El directo pasa a sujeto.\n2. Usa *ser* + participio.\n3. El sujeto pasa con *por*.",
-      "truco": "Pasiva: ser, participio y por.",
-      "practica": {
-        "ejercicio": "Pasa a pasiva: *Ana pintó el cuadro.*",
-        "respuesta": "*El cuadro fue pintado por Ana.*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Verbos irregulares",
-    "slug": "verbos-irregulares-secundaria",
-    "palabras": [
-      "verbos irregulares",
-      "conjugación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Rebeldes",
-          "texto": "Algunos alumnos no hacen fila; estos verbos tampoco."
-        },
-        {
-          "titulo": "Ropa especial",
-          "texto": "Cada tiempo les pone a estos verbos una ropa distinta."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di el pasado de *yo* con *decir*.",
-          "respuesta": "*dije*"
-        },
-        {
-          "ejercicio": "Corrige: *Espero que haiga pan.*",
-          "respuesta": "*Espero que haya pan.*"
-        },
-        {
-          "ejercicio": "Di el futuro de *yo* con *poner*.",
-          "respuesta": "*pondré*"
-        }
-      ],
-      "idea": "Casi todos los verbos siguen un patrón. Otros se rebelan y cambian de forma.",
-      "pizarron": "**Qué es:** un verbo irregular es el que cambia su raíz o sus terminaciones al conjugarse.\n\nRegular: *cantar, canté, cantaré.*\n\nIrregulares:\n\n- *ir*: *voy, fui, iré.*\n- *hacer*: *hago, hice, haré.*\n- *tener*: *tengo, tuve, tendré.*\n- *decir*: *digo, dije, diré.*\n- *poner*: *pongo, puse, pondré.*\n\nErrores comunes:\n\nDi *anduve*, no *andé*.\n\nDi *haya*, no *haiga*.\n\nDi *hice*, no *hací*.",
-      "truco": "Si suena raro, revisa el diccionario.",
-      "practica": {
-        "ejercicio": "Di el pasado de *yo* con *andar*.",
-        "respuesta": "*anduve*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Gerundio, participio e infinitivo",
-    "slug": "gerundio-participio-e-infinitivo-secundaria",
-    "palabras": [
-      "formas no personales",
-      "gerundio",
-      "participio",
-      "infinitivo"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Tres fotos",
-          "texto": "Antes, durante y después de la misma acción."
-        },
-        {
-          "titulo": "Piezas sueltas",
-          "texto": "Son piezas sueltas que se unen a otros verbos para funcionar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Da el participio de *escribir*.",
-          "respuesta": "*escrito*"
-        },
-        {
-          "ejercicio": "Clasifica *viviendo*.",
-          "respuesta": "Gerundio."
-        },
-        {
-          "ejercicio": "Corrige: *He rompido el vaso.*",
-          "respuesta": "*He roto el vaso.*"
-        }
-      ],
-      "idea": "Estas formas del verbo no dicen quién hace la acción: comer, comiendo y comido.",
-      "pizarron": "**Qué es:** son las formas no personales del verbo: infinitivo, gerundio y participio.\n\n**Infinitivo:** -ar, -er, -ir. *cantar, comer, vivir.*\n\n**Gerundio:** -ando, -iendo. *cantando, comiendo.*\n\n**Participio:** -ado, -ido. *cantado, comido.*\n\nIrregulares: *escrito, roto, visto, hecho, dicho, puesto.*\n\nUsos:\n\n- *Estoy comiendo.*\n- *He comido.*\n- *Quiero comer.*",
-      "truco": "-ar es nombre; -ando, sigue; -ado, ya.",
-      "practica": {
-        "ejercicio": "Da el gerundio de *leer*.",
-        "respuesta": "*leyendo*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Concordancia",
-    "slug": "concordancia-secundaria",
-    "palabras": [
-      "concordancia",
-      "sujeto y verbo",
-      "género y número"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Uniforme",
-          "texto": "Todas las palabras del equipo deben llevar la misma camiseta."
-        },
-        {
-          "titulo": "Engranes",
-          "texto": "Si una pieza no embona, la oración rechina."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Corrige: *La gente cantan.*",
-          "respuesta": "*La gente canta.*"
-        },
-        {
-          "ejercicio": "Corrige: *Las niña alta.*",
-          "respuesta": "*Las niñas altas.*"
-        },
-        {
-          "ejercicio": "Completa: *Ana y yo ___.* (cantar)",
-          "respuesta": "*cantamos*"
-        }
-      ],
-      "idea": "Las palabras de una oración deben combinar, como un equipo con el mismo uniforme.",
-      "pizarron": "**Qué es:** la concordancia es la coincidencia de género, número y persona entre palabras relacionadas.\n\n**Sujeto y verbo:**\n\n*Los niños corren.* No *corre*.\n\n**Sustantivo y adjetivo:**\n\n*Las casas blancas.*\n\n**Con varios sujetos:** verbo en plural.\n\n*Ana y Luis cantan.*\n\n**Palabras como *gente*:** singular.\n\n*La gente canta.*",
-      "truco": "Mismo número, misma persona.",
-      "practica": {
-        "ejercicio": "Corrige: *Los perro ladra.*",
-        "respuesta": "*Los perros ladran.*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Redacción de un párrafo",
-    "slug": "redaccion-de-un-parrafo-secundaria",
-    "palabras": [
-      "párrafo",
-      "redacción",
-      "oración temática"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Sándwich",
-          "texto": "Pan de tema, relleno de apoyo y pan de cierre."
-        },
-        {
-          "titulo": "Caja",
-          "texto": "Cada párrafo guarda solo cosas del mismo tipo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe una oración temática sobre el reciclaje.",
-          "respuesta": "Debe decir la idea central."
-        },
-        {
-          "ejercicio": "¿Qué hacen las oraciones de apoyo?",
-          "respuesta": "Explican con datos o ejemplos."
-        },
-        {
-          "ejercicio": "Escribe un párrafo de cuatro oraciones sobre tu deporte favorito.",
-          "respuesta": "Debe tener tema, apoyo y cierre."
-        }
-      ],
-      "idea": "Un párrafo tiene una sola idea central. Si metes muchas, el lector se pierde.",
-      "pizarron": "**Qué es:** un párrafo es un conjunto de oraciones que desarrollan una sola idea.\n\n**Partes:**\n\n1. **Oración temática:** la idea central.\n2. **Oraciones de apoyo:** explican con datos o ejemplos.\n3. **Cierre.**\n\n**Ejemplo:**\n\n*El agua es indispensable. Sin ella no hay plantas ni animales. Nuestro cuerpo es casi 60 % agua. Por eso debemos cuidarla.*\n\nUsa conectores: *además, por ejemplo, por lo tanto*.",
-      "truco": "Una idea por párrafo.",
-      "practica": {
-        "ejercicio": "¿Qué oración dice la idea central?",
-        "respuesta": "La oración temática."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Acentuación de interrogativos",
-    "slug": "acentuacion-de-interrogativos-secundaria",
-    "palabras": [
-      "interrogativos",
-      "qué",
-      "cómo",
-      "acento"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Sombrero",
-          "texto": "Cuando estas palabras preguntan, se ponen un sombrero de tilde."
-        },
-        {
-          "titulo": "Doble oficio",
-          "texto": "La misma palabra trabaja de preguntona o de conectora."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Corrige: *¿Como estás?*",
-          "respuesta": "*¿Cómo estás?*"
-        },
-        {
-          "ejercicio": "Elige: *Dijo (que/qué) sí.*",
-          "respuesta": "*que*"
-        },
-        {
-          "ejercicio": "Elige: *Dime (donde/dónde) vives.*",
-          "respuesta": "*dónde*"
-        }
-      ],
-      "idea": "Si preguntas, la palabra lleva tilde. Si solo unes ideas, no la lleva.",
-      "pizarron": "**La regla:** *qué, quién, cómo, cuándo, dónde, cuánto* y *cuál* llevan tilde cuando preguntan o exclaman, aunque no haya signos.\n\n**Con tilde:**\n\n*¿Qué quieres?*\n\n*No sé qué quieres.* Hay una pregunta escondida.\n\n*¡Qué bonito!*\n\n**Sin tilde:** cuando solo unen ideas.\n\n*Dijo que vendrá.*\n\n*Cuando llegues, avísame.*\n\n**Truco:** si puedes convertir la frase en una pregunta con esa palabra, lleva tilde.\n\n*No sé dónde vive.* ¿Dónde vive? Lleva tilde.\n\n**Para tu escuela:** revisa un texto tuyo y marca cada *que* y *como*.",
-      "truco": "Si pregunta, tilde; si conecta, no.",
-      "practica": {
-        "ejercicio": "Corrige: *No sé cuando llega.*",
-        "respuesta": "*No sé cuándo llega.*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Homófonos: haber, a ver, hay, ahí, ay",
-    "slug": "homofonos-haber-a-ver-hay-ahi-ay-secundaria",
-    "palabras": [
-      "homófonos",
-      "haber",
-      "a ver",
-      "hay",
-      "ahí",
-      "ay"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Gemelos",
-          "texto": "Se oyen idénticos, pero cada uno trabaja en algo distinto."
-        },
-        {
-          "titulo": "Dedo",
-          "texto": "Si puedes señalar el lugar con el dedo, la palabra es ahí."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Elige: *Vamos ___ la película.*",
-          "respuesta": "*a ver*"
-        },
-        {
-          "ejercicio": "Elige: *Tiene que ___ una solución.*",
-          "respuesta": "*haber*"
-        },
-        {
-          "ejercicio": "Elige: *¡___, qué susto!*",
-          "respuesta": "*Ay*"
-        }
-      ],
-      "idea": "Suenan igual, pero significan algo distinto. Elegir la correcta cambia todo el mensaje.",
-      "pizarron": "**Qué es:** los homófonos son palabras que suenan igual y se escriben distinto.\n\n**haber:** verbo. *Debe haber pan.*\n\n**a ver:** mirar o probar. *Vamos a ver.*\n\n**hay:** existe. *Hay pan.*\n\n**ahí:** lugar. *Está ahí.*\n\n**ay:** dolor. *¡Ay, me dolió!*\n\nPistas:\n\n- ¿Puedes decir *mirar*? *A ver.*\n- ¿Puedes señalar un lugar? *Ahí.*\n- ¿Es un grito? *Ay.*",
-      "truco": "Hay existe, ahí es lugar, ay duele.",
-      "practica": {
-        "ejercicio": "Elige: *___ muchos niños.*",
-        "respuesta": "*Hay*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Por qué, porque, porqué y por que",
-    "slug": "por-que-porque-porque-y-por-que-secundaria",
-    "palabras": [
-      "por qué",
-      "porque",
-      "porqué"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Pregunta y respuesta",
-          "texto": "La pregunta llega abierta y la respuesta se cierra junta."
-        },
-        {
-          "titulo": "Cambio de palabra",
-          "texto": "Si puedes cambiarlo por la palabra motivo, se escribe porqué."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Completa: *No fui ___ llovía.*",
-          "respuesta": "*porque*"
-        },
-        {
-          "ejercicio": "Completa: *Explícame el ___.*",
-          "respuesta": "*porqué*"
-        },
-        {
-          "ejercicio": "Completa: *¿___ gritas?*",
-          "respuesta": "*Por qué*"
-        }
-      ],
-      "idea": "Son cuatro formas que confunden a mucha gente. Una pregunta, otra responde y otra es un sustantivo.",
-      "pizarron": "**La regla:**\n\n**Por qué**: pregunta.\n\n*¿Por qué lloras?*\n\n**Porque**: responde, da una causa.\n\n*Porque me caí.*\n\n**Porqué**: sustantivo. Significa *motivo* y lleva *el*.\n\n*No sé el porqué.*\n\n**Por que**: preposición más *que*. Se puede cambiar por *por el que*.\n\n*Esa es la razón por que vine.*",
-      "truco": "Pregunta separada; respuesta junta.",
-      "practica": {
-        "ejercicio": "Completa: *___ no viniste?*",
-        "respuesta": "*¿Por qué*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Uso de mayúsculas",
-    "slug": "uso-de-mayusculas-secundaria",
-    "palabras": [
-      "mayúsculas",
-      "ortografía"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Etiqueta",
-          "texto": "La mayúscula es la etiqueta de un nombre."
-        },
-        {
-          "titulo": "Tradición inglesa",
-          "texto": "El inglés usa más mayúsculas, y no conviene copiarlo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Corrige: *soy Mexicano.*",
-          "respuesta": "*Soy mexicano.*"
-        },
-        {
-          "ejercicio": "¿Lleva tilde la mayúscula de *Ángel*?",
-          "respuesta": "Sí."
-        },
-        {
-          "ejercicio": "Escribe bien: *cien años de soledad* (título).",
-          "respuesta": "*Cien años de soledad*"
-        }
-      ],
-      "idea": "Las mayúsculas son señales: te dicen dónde empieza algo y qué nombre es especial.",
-      "pizarron": "**La regla:** van con mayúscula la primera palabra de un texto, la que sigue a un punto, los nombres propios y las siglas.\n\n**Sí llevan:**\n\n- Nombres: *Benito Juárez*.\n- Lugares: *Puebla*.\n- Siglas: *UNAM*.\n- Títulos: solo la primera palabra. *Cien años de soledad*.\n\n**No llevan:**\n\n- Días y meses: *lunes, enero*.\n- Idiomas y gentilicios: *español, mexicano*.\n- Cargos: *el presidente*.\n\nLas mayúsculas también llevan tilde: *Ángel*.\n\n**Para tu escuela:** corrige: *el Lunes viajé a veracruz con mi tía.*",
-      "truco": "Lunes y enero van en minúscula.",
-      "practica": {
-        "ejercicio": "Corrige: *Hoy es Lunes.*",
-        "respuesta": "*Hoy es lunes.*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Uso de la coma",
-    "slug": "uso-de-la-coma-secundaria",
-    "palabras": [
-      "coma",
-      "puntuación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Respiro",
-          "texto": "La coma es un respiro, pero no siempre que respiras va coma."
-        },
-        {
-          "titulo": "Tijeras",
-          "texto": "Si cortas entre sujeto y verbo, rompes la oración."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Corrige: *Mi mamá, cocina rico.*",
-          "respuesta": "*Mi mamá cocina rico.*"
-        },
-        {
-          "ejercicio": "Pon comas: *Compré pan leche y huevo.*",
-          "respuesta": "*Compré pan, leche y huevo.*"
-        },
-        {
-          "ejercicio": "Pon coma: *Estudié pero no aprobé.*",
-          "respuesta": "*Estudié, pero no aprobé.*"
-        }
-      ],
-      "idea": "Una coma mal puesta cambia todo: vamos a comer, niños. Sin coma, suena a que te comes a los niños.",
-      "pizarron": "**La regla:** la coma separa listas, llamados y aclaraciones, y va antes de *pero*. Nunca separa sujeto y verbo.\n\nLa coma es una pausa pequeña.\n\n**En listas:** *Pan, queso y leche.*\n\n**Al llamar a alguien:** *Ana, ven.*\n\n**En aclaraciones:** *Luis, mi hermano, llegó.*\n\n**Antes de pero:** *Quiero, pero no puedo.*\n\n**Error común:** *Los niños, corren.* Aquí no va coma.\n\n**Una coma cambia todo:**\n\n*Vamos a comer, niños.*\n\n*Vamos a comer niños.*\n\n**Para tu escuela:** pon las comas: *Compré lápices gomas y reglas.*",
-      "truco": "Sujeto y verbo no se separan.",
-      "practica": {
-        "ejercicio": "Pon la coma: *Ven aquí Luis.*",
-        "respuesta": "*Ven aquí, Luis.*"
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Dequeísmo y queísmo",
-    "slug": "dequeismo-y-queismo-secundaria",
-    "palabras": [
-      "dequeísmo",
-      "queísmo",
-      "de que"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "La pregunta espía",
-          "texto": "La pregunta revela si la preposición es necesaria."
-        },
-        {
-          "titulo": "Ingrediente",
-          "texto": "Quitar o poner uno de más arruina la receta."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Corrige: *Me acuerdo que fuiste.*",
-          "respuesta": "*Me acuerdo de que fuiste.*"
-        },
-        {
-          "ejercicio": "Corrige: *Dijo de que venía.*",
-          "respuesta": "*Dijo que venía.*"
-        },
-        {
-          "ejercicio": "Elige: *Estoy feliz (que/de que) vengas.*",
-          "respuesta": "*de que*"
-        }
-      ],
-      "idea": "Hay quien pone de que donde sobra, y hay quien lo quita donde sí va. Una pregunta te saca de dudas.",
-      "pizarron": "**Qué es:** dequeísmo es usar *de que* cuando solo va *que*. Queísmo es quitar *de* cuando sí va.\n\n**Dequeísmo (mal):** *Pienso de que vendrá.*\n\nBien: *Pienso que vendrá.*\n\n**Queísmo (mal):** *Estoy seguro que vendrá.*\n\nBien: *Estoy seguro de que vendrá.*\n\n**Truco de la pregunta:**\n\n¿Qué pienso? No lleva *de*.\n\n¿De qué estoy seguro? Sí lleva *de*.",
-      "truco": "Haz la pregunta: si lleva de, va de.",
-      "practica": {
-        "ejercicio": "Corrige: *Creo de que sí.*",
-        "respuesta": "*Creo que sí.*"
-      }
-    }
-  }
+{
+"nodo_id": "f6-040",
+"titulo": "Noticia y reportaje",
+"slug": "noticia-y-reportaje-secundaria",
+"palabras": [
+"noticia",
+"reportaje",
+"periodismo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Foto y documental",
+"texto": "La noticia es una foto rápida; el reportaje es un documental completo."
+},
+{
+"titulo": "La pirámide de cabeza",
+"texto": "Lo más grande va arriba, y por eso entiendes aunque solo leas el inicio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di las seis preguntas de una noticia.",
+"respuesta": "Qué, quién, cuándo, dónde, cómo y por qué."
+},
+{
+"ejercicio": "¿Qué género usa entrevistas y mucha investigación?",
+"respuesta": "El reportaje."
+},
+{
+"ejercicio": "Escribe una noticia breve sobre tu escuela con titular y entrada.",
+"respuesta": "Debe responder qué, quién, cuándo y dónde."
+}
+],
+"idea": "Una noticia te cuenta rápido qué pasó hoy. Un reportaje se queda a investigar y te lo explica a fondo.",
+"pizarron": "**Qué es:** la noticia informa un hecho reciente de forma breve y objetiva. El reportaje investiga un tema a fondo con datos, testimonios y varias fuentes.\n\n**Partes de la noticia:**\n\n- Titular: la idea en una frase.\n- Entrada: lo más importante.\n- Cuerpo: los detalles.\n\nDebe responder seis preguntas: qué, quién, cuándo, dónde, cómo y por qué.\n\nVa de lo más importante a lo menos importante. Eso se llama pirámide invertida.\n\n**Reportaje:** usa entrevistas, cifras y ejemplos. Es más largo y puede mostrar varias miradas.\n\n**Para tu escuela:** escribe una noticia de tu escuela.",
+"truco": "Noticia avisa; reportaje investiga.",
+"practica": {
+"ejercicio": "¿Qué parte de la noticia va primero?",
+"respuesta": "El titular."
+}
+}
+},
+{
+"nodo_id": "f6-040",
+"titulo": "Artículo de opinión",
+"slug": "articulo-de-opinion-secundaria",
+"palabras": [
+"artículo de opinión",
+"tesis",
+"argumentos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "El abogado",
+"texto": "Defiende su caso con pruebas, no solo diciendo que tiene razón."
+},
+{
+"titulo": "La mesa",
+"texto": "La tesis es la tabla y cada argumento es una pata."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe una tesis sobre usar celular en clase.",
+"respuesta": "Debe decir tu postura en una oración."
+},
+{
+"ejercicio": "¿Qué necesita una opinión además de la tesis?",
+"respuesta": "Argumentos."
+},
+{
+"ejercicio": "¿Qué se hace en la conclusión?",
+"respuesta": "Se refuerza la idea."
+}
+],
+"idea": "En un artículo de opinión alguien dice qué piensa y por qué, para que tú también lo pienses.",
+"pizarron": "**Qué es:** un artículo de opinión es un texto donde alguien dice qué piensa de un tema y da razones.\n\n**Partes:**\n\n1. **Introducción:** presenta el tema y tu idea, llamada **tesis**.\n2. **Desarrollo:** da razones con datos.\n3. **Conclusión:** repite tu idea con fuerza.\n\n**Ejemplo:**\n\nTesis: *La escuela no debería vender refresco.*\n\nRazón: *Tiene mucha azúcar y daña la salud.*\n\nCierre: *Por eso conviene vender agua.*\n\nOpinar sin razones no convence.\n\n**Para tu escuela:** escribe tres oraciones sobre el uso del celular en clase.",
+"truco": "Tesis, razones y cierre.",
+"practica": {
+"ejercicio": "¿Cómo se llama la postura del autor?",
+"respuesta": "Tesis."
+}
+}
+},
+{
+"nodo_id": "f6-052",
+"titulo": "Citas y referencias",
+"slug": "citas-y-referencias-secundaria",
+"palabras": [
+"citas",
+"referencias",
+"fuentes"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dar crédito",
+"texto": "Si tu amigo inventó el juego, dices que fue él."
+},
+{
+"titulo": "El mapa",
+"texto": "La referencia es el mapa para llegar al libro original."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es plagio?",
+"respuesta": "Usar ideas ajenas sin decir de quién son."
+},
+{
+"ejercicio": "¿Qué cita usa tus palabras?",
+"respuesta": "La indirecta."
+},
+{
+"ejercicio": "Escribe una referencia de un libro que tengas.",
+"respuesta": "Debe tener autor, año, título y editorial."
+}
+],
+"idea": "Si usas la idea de alguien, di de quién es. Eso se llama citar, y es como decir gracias por la idea.",
+"pizarron": "**Qué es:** una cita reproduce o resume las ideas de otra persona. La referencia da los datos para encontrar esa fuente.\n\n**Cita textual:** copia exacta, entre comillas.\n\n*«La educación es la llave del futuro» (Gómez, 2020).*\n\n**Cita indirecta:** con tus palabras.\n\n*Según Gómez (2020), estudiar abre oportunidades.*\n\n**Referencia:**\n\n*Gómez, L. (2020). La escuela. Editorial Sol.*\n\nUsar ideas ajenas sin decirlo se llama **plagio**.\n\n**Para tu escuela:** cita un libro en tu próxima tarea.",
+"truco": "Comillas si copias; siempre di de quién es.",
+"practica": {
+"ejercicio": "¿Qué signos lleva una cita textual?",
+"respuesta": "Comillas."
+}
+}
+},
+{
+"nodo_id": "f6-052",
+"titulo": "Ficha de trabajo",
+"slug": "ficha-de-trabajo-secundaria",
+"palabras": [
+"ficha de trabajo",
+"investigación",
+"notas"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cartas",
+"texto": "Puedes barajar tus fichas hasta hallar el mejor orden para tu trabajo."
+},
+{
+"titulo": "Ahorrar",
+"texto": "Cada ficha es una moneda guardada para cuando escribas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué ficha copia textual?",
+"respuesta": "La de cita."
+},
+{
+"ejercicio": "¿Cuántas ideas lleva cada ficha?",
+"respuesta": "Una."
+},
+{
+"ejercicio": "Haz una ficha de resumen sobre un tema de ciencias.",
+"respuesta": "Debe tener tema, fuente y resumen."
+}
+],
+"idea": "Antes de escribir tu trabajo necesitas guardar lo que encuentras. Las fichas son tus notas ordenadas.",
+"pizarron": "**Qué es:** una ficha de trabajo es una tarjeta donde guardas un dato para usarlo en tu investigación.\n\nSon como tus notas en orden.\n\n**Lleva:** tema, de dónde sacaste el dato y la información.\n\n**Tipos:**\n\n- **De cita:** copias igual.\n- **De resumen:** con tus palabras.\n- **De comentario:** lo que tú opinas.\n\n**Regla:** una idea por ficha. Así puedes ordenarlas como cartas.\n\n**Para tu escuela:** haz una ficha de resumen de un tema de ciencias.",
+"truco": "Una idea, una ficha.",
+"practica": {
+"ejercicio": "¿Qué ficha guarda tu opinión?",
+"respuesta": "La de comentario."
+}
+}
+},
+{
+"nodo_id": "f6-052",
+"titulo": "Monografía",
+"slug": "monografia-secundaria",
+"palabras": [
+"monografía",
+"investigación",
+"texto"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "La lupa",
+"texto": "Te acercas mucho a una sola cosa para conocerla bien."
+},
+{
+"titulo": "El museo",
+"texto": "Tu trabajo es una sala bien organizada sobre un solo tema."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué va después del desarrollo?",
+"respuesta": "Las conclusiones."
+},
+{
+"ejercicio": "Haz más pequeño el tema *Los ríos*.",
+"respuesta": "Ejemplo: *El río Usumacinta y sus comunidades*."
+},
+{
+"ejercicio": "Escribe el índice de una monografía sobre tu tema favorito.",
+"respuesta": "Debe incluir introducción, desarrollo y conclusión."
+}
+],
+"idea": "Una monografía es como ser experto de un solo tema: lees mucho y explicas lo que hallaste.",
+"pizarron": "**Qué es:** una monografía explica un solo tema con información de varias fuentes.\n\nEs como ser experto de una sola cosa.\n\n**Partes:** portada, índice, introducción, desarrollo, conclusiones y referencias.\n\n**Pasos:**\n\n1. Elige un tema pequeño.\n2. Investiga.\n3. Haz fichas.\n4. Escribe.\n5. Revisa y cita.\n\n**Tema muy grande:** *Los animales*.\n\n**Tema bueno:** *El ajolote en Xochimilco*.\n\n**Para tu escuela:** escribe un tema pequeño a partir de *Los ríos*.",
+"truco": "Tema pequeño, fuentes muchas.",
+"practica": {
+"ejercicio": "¿Qué parte lista las fuentes?",
+"respuesta": "Las referencias."
+}
+}
+},
+{
+"nodo_id": "f6-052",
+"titulo": "Texto expositivo",
+"slug": "texto-expositivo-secundaria",
+"palabras": [
+"texto expositivo",
+"explicar",
+"información"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Maestro",
+"texto": "Es como un buen maestro que explica paso a paso."
+},
+{
+"titulo": "Instructivo de ideas",
+"texto": "Ordena la información para que no te pierdas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Un artículo de opinión es expositivo?",
+"respuesta": "No, ese busca convencer."
+},
+{
+"ejercicio": "Di dos recursos expositivos.",
+"respuesta": "Definición y ejemplo."
+},
+{
+"ejercicio": "Escribe tres oraciones que expliquen la lluvia.",
+"respuesta": "Deben informar sin opinar."
+}
+],
+"idea": "Un texto expositivo te explica cómo funciona algo, sin intentar convencerte de nada.",
+"pizarron": "**Qué es:** el texto expositivo presenta información para explicar un tema de forma clara y objetiva.\n\n**Estructura:** introducción, desarrollo y conclusión.\n\n**Recursos:**\n\n- Definición: *Un volcán es...*\n- Ejemplo.\n- Comparación.\n- Causa y efecto.\n- Clasificación.\n\nUsa palabras precisas y verbos en presente.\n\nSe encuentra en enciclopedias y libros de texto.\n\n**Para tu escuela:** explica en un párrafo un tema de ciencias.",
+"truco": "Explicar, no convencer.",
+"practica": {
+"ejercicio": "¿Dónde se encuentran textos expositivos?",
+"respuesta": "En enciclopedias y libros de texto."
+}
+}
+},
+{
+"nodo_id": "f6-025",
+"titulo": "Metáfora y símil",
+"slug": "metafora-y-simil-secundaria",
+"palabras": [
+"metáfora",
+"símil",
+"figuras retóricas"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dos fotos",
+"texto": "El símil pone dos fotos lado a lado; la metáfora las encima."
+},
+{
+"titulo": "Disfraz",
+"texto": "En la metáfora, una cosa se disfraza completamente de otra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué figura es *El río de tu voz*?",
+"respuesta": "Metáfora."
+},
+{
+"ejercicio": "¿Qué tienen en común *cabello* y *oro* en *cabello de oro*?",
+"respuesta": "El color y el brillo."
+},
+{
+"ejercicio": "Escribe un símil sobre la noche.",
+"respuesta": "Debe comparar usando *como*."
+}
+],
+"idea": "Decir eres como un sol compara. Decir eres mi sol cambia una cosa por otra. Son dos juegos parecidos.",
+"pizarron": "**Qué es:** el símil compara dos cosas con un nexo como *como*. La metáfora identifica una cosa con otra, sin nexo.\n\n**Símil:** *Sus dientes son como perlas.*\n\n**Metáfora:** *Las perlas de su boca.*\n\nEn ambas buscas algo en común: blancos y brillantes.\n\nPara analizarlas, pregunta: ¿qué se compara?, ¿qué tienen en común?\n\n**Para tu escuela:** escribe una metáfora y un símil sobre el recreo.",
+"truco": "Con como es símil; sin como, metáfora.",
+"practica": {
+"ejercicio": "¿Qué figura es *Valiente como un león*?",
+"respuesta": "Símil."
+}
+}
+},
+{
+"nodo_id": "f6-025",
+"titulo": "Hipérbole, personificación y anáfora",
+"slug": "hiperbole-personificacion-y-anafora-secundaria",
+"palabras": [
+"hipérbole",
+"personificación",
+"anáfora"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Lupa gigante",
+"texto": "La hipérbole agranda lo que quieres que se note."
+},
+{
+"titulo": "El estribillo",
+"texto": "La anáfora se repite como una parte de una canción."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué figura es *El viento susurra*?",
+"respuesta": "Personificación."
+},
+{
+"ejercicio": "¿Qué figura repite al inicio?",
+"respuesta": "Anáfora."
+},
+{
+"ejercicio": "Escribe una hipérbole sobre el calor.",
+"respuesta": "Debe exagerar el calor."
+}
+],
+"idea": "Exagerar, dar vida a las cosas y repetir palabras son tres trucos que usan los escritores.",
+"pizarron": "**Qué es:** la hipérbole exagera. La personificación da rasgos humanos a cosas o animales. La anáfora repite palabras al inicio de los versos.\n\n**Hipérbole:** *Lloró ríos de lágrimas.*\n\n**Personificación:** *La luna me mira.*\n\n**Anáfora:**\n\n*Aquí nací,*\n\n*aquí crecí,*\n\n*aquí me quedo.*\n\nSirven para emocionar y dar ritmo.\n\n**Para tu escuela:** busca estas figuras en una canción.",
+"truco": "Exagera, da vida o repite.",
+"practica": {
+"ejercicio": "¿Qué figura es *Te llamé mil veces*?",
+"respuesta": "Hipérbole."
+}
+}
+},
+{
+"nodo_id": "f6-025",
+"titulo": "Géneros literarios",
+"slug": "generos-literarios-secundaria",
+"palabras": [
+"géneros literarios",
+"narrativo",
+"lírico",
+"dramático"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tres cines",
+"texto": "Uno cuenta, otro canta y otro actúa en vivo."
+},
+{
+"titulo": "Tres familias",
+"texto": "Cada obra pertenece a la familia que comparte su manera de comunicar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué género es un soneto?",
+"respuesta": "Lírico."
+},
+{
+"ejercicio": "¿Qué género es una comedia?",
+"respuesta": "Dramático."
+},
+{
+"ejercicio": "Da un ejemplo de obra narrativa que conozcas.",
+"respuesta": "Cualquier cuento o novela es correcto."
+}
+],
+"idea": "Una historia se cuenta, un poema se siente y una obra se actúa. Por eso hay tres grandes familias.",
+"pizarron": "**Qué es:** los géneros literarios son las categorías en que se agrupan las obras: narrativo, lírico y dramático.\n\n**Narrativo:** cuenta una historia. Cuento, novela, leyenda.\n\n**Lírico:** expresa sentimientos. Poema, oda, soneto.\n\n**Dramático:** se escribe para actuarse. Tragedia, comedia.\n\nPregunta: ¿cuenta?, ¿siente?, ¿se actúa?\n\n**Para tu escuela:** clasifica tres obras que hayas leído.",
+"truco": "Cuenta, siente o actúa.",
+"practica": {
+"ejercicio": "¿Qué género es una novela?",
+"respuesta": "Narrativo."
+}
+}
+},
+{
+"nodo_id": "f6-025",
+"titulo": "Narrador y punto de vista",
+"slug": "narrador-y-punto-de-vista-secundaria",
+"palabras": [
+"narrador",
+"primera persona",
+"omnisciente"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cámara",
+"texto": "Una cámara solo ve; un dios lo sabe todo."
+},
+{
+"titulo": "Diario",
+"texto": "Un diario es una narración en primera persona."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué narrador usa *yo*?",
+"respuesta": "Primera persona."
+},
+{
+"ejercicio": "¿El narrador es siempre el autor?",
+"respuesta": "No."
+},
+{
+"ejercicio": "Reescribe *Juan corrió* en primera persona.",
+"respuesta": "*Corrí.*"
+}
+],
+"idea": "Alguien te cuenta el cuento. A veces vive la historia y a veces lo sabe todo desde fuera.",
+"pizarron": "**Qué es:** el narrador es la voz que cuenta la historia. El punto de vista es desde dónde la cuenta.\n\n**Primera persona:** *Yo entré al cuarto.* Vive la historia.\n\n**Tercera persona omnisciente:** lo sabe todo, hasta lo que piensan.\n\n**Tercera persona observador:** solo cuenta lo que se ve.\n\n**Segunda persona:** habla a *tú*. Es raro.\n\nEl narrador no es el autor: es una voz creada.\n\n**Para tu escuela:** cuenta el recreo desde dos puntos de vista.",
+"truco": "Yo vive; él sabe o mira.",
+"practica": {
+"ejercicio": "¿Qué narrador sabe lo que piensan todos?",
+"respuesta": "El omnisciente."
+}
+}
+},
+{
+"nodo_id": "f6-025",
+"titulo": "Estructura de la obra de teatro",
+"slug": "estructura-de-la-obra-de-teatro-secundaria",
+"palabras": [
+"teatro",
+"actos",
+"escenas",
+"acotaciones"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Receta",
+"texto": "Las acotaciones son las instrucciones para preparar la escena."
+},
+{
+"titulo": "Capítulos",
+"texto": "Los actos son capítulos grandes y las escenas, capítulos pequeños."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuándo cambia una escena?",
+"respuesta": "Cuando entra o sale un personaje."
+},
+{
+"ejercicio": "¿Qué son los diálogos?",
+"respuesta": "Lo que dicen los personajes."
+},
+{
+"ejercicio": "Escribe un diálogo breve con una acotación.",
+"respuesta": "Debe tener dos personajes y una indicación entre paréntesis."
+}
+],
+"idea": "Una obra de teatro no se lee igual que un cuento: se escribe para que unas personas la digan en un escenario.",
+"pizarron": "**Qué es:** una obra de teatro es un texto hecho para actuarse. Se divide en actos y escenas.\n\n**Acto:** parte grande. Cambia al bajar el telón.\n\n**Escena:** parte pequeña. Cambia si entra o sale un personaje.\n\n**Diálogo:** lo que dicen los personajes.\n\n**Acotación:** indicación entre paréntesis para actuar.\n\n**Ejemplo:**\n\nANA. (*Enojada.*) ¡No voy a ir!\n\nLUIS. ¿Por qué?\n\nAna y Luis hablan. *Enojada* no se dice: se actúa.\n\n**Para tu escuela:** escribe un diálogo de cuatro líneas con una acotación.",
+"truco": "Los paréntesis guían al actor.",
+"practica": {
+"ejercicio": "¿Qué son las acotaciones?",
+"respuesta": "Indicaciones de cómo actuar o de la escena."
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Debate y mesa redonda",
+"slug": "debate-y-mesa-redonda-secundaria",
+"palabras": [
+"debate",
+"mesa redonda",
+"oralidad"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Partido",
+"texto": "El debate tiene dos equipos y un árbitro."
+},
+{
+"titulo": "Sobremesa",
+"texto": "La mesa redonda se parece a una plática donde cada quien aporta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es una réplica?",
+"respuesta": "La respuesta a un argumento."
+},
+{
+"ejercicio": "¿Qué se critica en un debate?",
+"respuesta": "Las ideas, no las personas."
+},
+{
+"ejercicio": "Prepara dos argumentos sobre el uso de uniforme.",
+"respuesta": "Deben dar razones."
+}
+],
+"idea": "En un debate dos lados discuten con respeto. En una mesa redonda varios expertos comparten su mirada.",
+"pizarron": "**Qué es:** en un debate, dos lados defienden ideas opuestas, con un moderador. En una mesa redonda, varias personas dan su punto de vista ante un público.\n\n**Debate, como un partido:**\n\n1. Se presenta el tema.\n2. Cada lado da sus razones.\n3. Se responden.\n4. Se cierra.\n\n**Mesa redonda, como una plática:** cada quien habla y luego el público pregunta.\n\n**Reglas:** pide la palabra, escucha y critica ideas, no personas.\n\n**Réplica:** es lo que contestas a un argumento del otro.\n\n**Para tu escuela:** prepara dos razones a favor del uniforme y dos en contra.",
+"truco": "Debate compite; mesa redonda comparte.",
+"practica": {
+"ejercicio": "¿Quién dirige el debate?",
+"respuesta": "El moderador."
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Oraciones simples y compuestas",
+"slug": "oraciones-simples-y-compuestas-secundaria",
+"palabras": [
+"oraciones",
+"simples",
+"compuestas"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Vagones",
+"texto": "Cada verbo conjugado es un vagón del tren que forma la oración."
+},
+{
+"titulo": "Lego",
+"texto": "Una pieza es simple; dos unidas forman una compuesta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Es compuesta *Estudié, pero reprobé*?",
+"respuesta": "Sí."
+},
+{
+"ejercicio": "¿Cuántos verbos conjugados hay en *Ana canta y baila*?",
+"respuesta": "Dos."
+},
+{
+"ejercicio": "Une dos oraciones simples en una compuesta.",
+"respuesta": "Debe usar un nexo y dos verbos."
+}
+],
+"idea": "Una oración simple es una sola idea con un verbo. Una compuesta une dos o más ideas.",
+"pizarron": "**Qué es:** una oración simple tiene un solo verbo conjugado. Una compuesta tiene dos o más.\n\n**Simple:** *Ana canta.*\n\n**Compuesta:** *Ana canta y Luis baila.*\n\nCuenta los verbos conjugados:\n\n- *Quiero comer.* Un conjugado: simple.\n- *Quiero que comas.* Dos: compuesta.\n\n*Comer* no cuenta porque está en infinitivo.\n\n**Para tu escuela:** cuenta los verbos de tres oraciones de tu libro.",
+"truco": "Un verbo, simple; dos verbos, compuesta.",
+"practica": {
+"ejercicio": "¿Es simple *El perro ladra fuerte*?",
+"respuesta": "Sí."
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Oraciones coordinadas y subordinadas",
+"slug": "oraciones-coordinadas-y-subordinadas-secundaria",
+"palabras": [
+"coordinadas",
+"subordinadas",
+"nexos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Socios y jefe",
+"texto": "Coordinadas son socios; subordinada es quien depende del jefe."
+},
+{
+"titulo": "Puente y escalera",
+"texto": "Un puente une dos orillas iguales; una escalera depende de la casa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica: *Comí y dormí.*",
+"respuesta": "Coordinada."
+},
+{
+"ejercicio": "Clasifica: *Dijo que vendría.*",
+"respuesta": "Subordinada."
+},
+{
+"ejercicio": "Da un nexo subordinante.",
+"respuesta": "*porque*"
+}
+],
+"idea": "Dos oraciones pueden ser amigas iguales o una puede depender de la otra.",
+"pizarron": "**Qué es:** en las coordinadas, cada oración tiene sentido por sí sola. En las subordinadas, una depende de la principal.\n\n**Coordinadas:**\n\n*Llegó tarde y perdió el tren.*\n\nNexos: *y, o, pero, sino*.\n\n**Subordinadas:**\n\n*Sé que vendrás.*\n\n*Que vendrás* no se sostiene sola.\n\nNexos: *que, porque, si, cuando, aunque*.\n\n**Prueba:** sepáralas. Si ambas funcionan, son coordinadas.\n\n**Para tu escuela:** une dos ideas con *y* y con *porque*.",
+"truco": "Si se pueden separar, son coordinadas.",
+"practica": {
+"ejercicio": "¿Es subordinada *Porque llovió*?",
+"respuesta": "Sí, no se sostiene sola."
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Complemento directo e indirecto",
+"slug": "complemento-directo-e-indirecto-secundaria",
+"palabras": [
+"complemento directo",
+"complemento indirecto",
+"objeto"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "El paquete",
+"texto": "El directo es el paquete y el indirecto, quien lo recibe."
+},
+{
+"titulo": "La pelota",
+"texto": "Lanzas la pelota a alguien: la pelota es directo y alguien, indirecto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di el indirecto en *Escribí una carta a mi abuela*.",
+"respuesta": "*a mi abuela*"
+},
+{
+"ejercicio": "Cambia *Vi a Ana* por pronombre.",
+"respuesta": "*La vi.*"
+},
+{
+"ejercicio": "Cambia *Di dulces a Luis* por *le*.",
+"respuesta": "*Le di dulces.*"
+}
+],
+"idea": "Mi mamá compró un regalo para Ana. Lo comprado es un regalo; quien lo recibe es Ana.",
+"pizarron": "**Qué es:** el complemento directo es lo que recibe la acción del verbo. El complemento indirecto es a quién o para quién se hace.\n\n*Luis dio flores a Sofía.*\n\n- ¿Qué dio? *flores*: directo.\n- ¿A quién? *a Sofía*: indirecto.\n\n**Prueba:**\n\nDirecto se cambia por *lo, la, los, las*: *Luis las dio.*\n\nIndirecto se cambia por *le, les*: *Luis le dio flores.*\n\n**Para tu escuela:** identifica los complementos en *Di un lápiz a Ana*.",
+"truco": "Qué es directo; a quién es indirecto.",
+"practica": {
+"ejercicio": "Di el directo en *Compré pan*.",
+"respuesta": "*pan*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Complemento circunstancial",
+"slug": "complemento-circunstancial-secundaria",
+"palabras": [
+"complemento circunstancial",
+"lugar",
+"tiempo",
+"modo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Escenografía",
+"texto": "Es el fondo de una escena: lugar, hora y clima."
+},
+{
+"titulo": "Etiquetas",
+"texto": "Son notas que agregan información, pero no son la acción."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di el complemento en *Duerme en el sofá*.",
+"respuesta": "*en el sofá*, de lugar."
+},
+{
+"ejercicio": "¿Qué indica *con cuidado*?",
+"respuesta": "Modo."
+},
+{
+"ejercicio": "Agrega un complemento de tiempo a *Voy al cine*.",
+"respuesta": "Ejemplo: *Voy al cine mañana.*"
+}
+],
+"idea": "Corrí ayer en el parque con mucha prisa. Esas partes dan detalles: cuándo, dónde y cómo.",
+"pizarron": "**Qué es:** el complemento circunstancial indica las circunstancias de la acción: lugar, tiempo, modo, causa o compañía.\n\n*Ana come en casa.* Lugar.\n\n*Ana come a las dos.* Tiempo.\n\n*Ana come rápido.* Modo.\n\n*Ana come con Luis.* Compañía.\n\n*No salió por la lluvia.* Causa.\n\nSe puede mover o quitar sin romper la oración.\n\n**Para tu escuela:** agrega dónde y cuándo a una oración.",
+"truco": "Dónde, cuándo y cómo.",
+"practica": {
+"ejercicio": "¿Qué indica *ayer*?",
+"respuesta": "Tiempo."
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Voz activa y pasiva",
+"slug": "voz-activa-y-pasiva-secundaria",
+"palabras": [
+"voz activa",
+"voz pasiva",
+"gramática"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cambiar de cámara",
+"texto": "La cámara ya no sigue al que actúa, sino al que recibe."
+},
+{
+"titulo": "Volteo",
+"texto": "Das vuelta a la oración sin cambiar el hecho."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pasa a activa: *La carta fue leída por Luis.*",
+"respuesta": "*Luis leyó la carta.*"
+},
+{
+"ejercicio": "¿Qué verbo ayudante usa la pasiva?",
+"respuesta": "*ser*"
+},
+{
+"ejercicio": "Pasa a pasiva: *El perro mordió al cartero.*",
+"respuesta": "*El cartero fue mordido por el perro.*"
+}
+],
+"idea": "El gato comió al ratón. El ratón fue comido por el gato. Es lo mismo, pero cambia quién es el centro.",
+"pizarron": "**Qué es:** en la voz activa, el sujeto hace la acción. En la voz pasiva, el sujeto recibe la acción.\n\n**Activa:** *Cervantes escribió el Quijote.*\n\n**Pasiva:** *El Quijote fue escrito por Cervantes.*\n\n**Pasos:**\n\n1. El directo pasa a sujeto.\n2. Usa *ser* + participio.\n3. El sujeto pasa con *por*.\n\n**Para tu escuela:** pasa una oración de tu libro a voz pasiva.",
+"truco": "Pasiva: ser, participio y por.",
+"practica": {
+"ejercicio": "Pasa a pasiva: *Ana pintó el cuadro.*",
+"respuesta": "*El cuadro fue pintado por Ana.*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Verbos irregulares",
+"slug": "verbos-irregulares-secundaria",
+"palabras": [
+"verbos irregulares",
+"conjugación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Rebeldes",
+"texto": "Algunos alumnos no hacen fila; estos verbos tampoco."
+},
+{
+"titulo": "Ropa especial",
+"texto": "Cada tiempo les pone a estos verbos una ropa distinta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di el pasado de *yo* con *decir*.",
+"respuesta": "*dije*"
+},
+{
+"ejercicio": "Corrige: *Espero que haiga pan.*",
+"respuesta": "*Espero que haya pan.*"
+},
+{
+"ejercicio": "Di el futuro de *yo* con *poner*.",
+"respuesta": "*pondré*"
+}
+],
+"idea": "Casi todos los verbos siguen un patrón. Otros se rebelan y cambian de forma.",
+"pizarron": "**Qué es:** un verbo irregular es el que cambia su raíz o sus terminaciones al conjugarse.\n\nRegular: *cantar, canté, cantaré.*\n\nIrregulares:\n\n- *ir*: *voy, fui, iré.*\n- *hacer*: *hago, hice, haré.*\n- *tener*: *tengo, tuve, tendré.*\n- *decir*: *digo, dije, diré.*\n- *poner*: *pongo, puse, pondré.*\n\nErrores comunes:\n\nDi *anduve*, no *andé*.\n\nDi *haya*, no *haiga*.\n\nDi *hice*, no *hací*.\n\n**Para tu escuela:** conjuga *ir* y *tener* en tres tiempos.",
+"truco": "Si suena raro, revisa el diccionario.",
+"practica": {
+"ejercicio": "Di el pasado de *yo* con *andar*.",
+"respuesta": "*anduve*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Gerundio, participio e infinitivo",
+"slug": "gerundio-participio-e-infinitivo-secundaria",
+"palabras": [
+"formas no personales",
+"gerundio",
+"participio",
+"infinitivo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tres fotos",
+"texto": "Antes, durante y después de la misma acción."
+},
+{
+"titulo": "Piezas sueltas",
+"texto": "Son piezas sueltas que se unen a otros verbos para funcionar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Da el participio de *escribir*.",
+"respuesta": "*escrito*"
+},
+{
+"ejercicio": "Clasifica *viviendo*.",
+"respuesta": "Gerundio."
+},
+{
+"ejercicio": "Corrige: *He rompido el vaso.*",
+"respuesta": "*He roto el vaso.*"
+}
+],
+"idea": "Estas formas del verbo no dicen quién hace la acción: comer, comiendo y comido.",
+"pizarron": "**Qué es:** son las formas no personales del verbo: infinitivo, gerundio y participio.\n\n**Infinitivo:** -ar, -er, -ir. *cantar, comer, vivir.*\n\n**Gerundio:** -ando, -iendo. *cantando, comiendo.*\n\n**Participio:** -ado, -ido. *cantado, comido.*\n\nIrregulares: *escrito, roto, visto, hecho, dicho, puesto.*\n\nUsos:\n\n- *Estoy comiendo.*\n- *He comido.*\n- *Quiero comer.*\n\n**Para tu escuela:** escribe *cantar*, *cantando* y *cantado* en oraciones.",
+"truco": "-ar es nombre; -ando, sigue; -ado, ya.",
+"practica": {
+"ejercicio": "Da el gerundio de *leer*.",
+"respuesta": "*leyendo*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Concordancia",
+"slug": "concordancia-secundaria",
+"palabras": [
+"concordancia",
+"sujeto y verbo",
+"género y número"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Uniforme",
+"texto": "Todas las palabras del equipo deben llevar la misma camiseta."
+},
+{
+"titulo": "Engranes",
+"texto": "Si una pieza no embona, la oración rechina."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *La gente cantan.*",
+"respuesta": "*La gente canta.*"
+},
+{
+"ejercicio": "Corrige: *Las niña alta.*",
+"respuesta": "*Las niñas altas.*"
+},
+{
+"ejercicio": "Completa: *Ana y yo ___.* (cantar)",
+"respuesta": "*cantamos*"
+}
+],
+"idea": "Las palabras de una oración deben combinar, como un equipo con el mismo uniforme.",
+"pizarron": "**Qué es:** la concordancia es la coincidencia de género, número y persona entre palabras relacionadas.\n\n**Sujeto y verbo:**\n\n*Los niños corren.* No *corre*.\n\n**Sustantivo y adjetivo:**\n\n*Las casas blancas.*\n\n**Con varios sujetos:** verbo en plural.\n\n*Ana y Luis cantan.*\n\n**Palabras como *gente*:** singular.\n\n*La gente canta.*\n\n**Para tu escuela:** corrige la concordancia en tu última redacción.",
+"truco": "Mismo número, misma persona.",
+"practica": {
+"ejercicio": "Corrige: *Los perro ladra.*",
+"respuesta": "*Los perros ladran.*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Redacción de un párrafo",
+"slug": "redaccion-de-un-parrafo-secundaria",
+"palabras": [
+"párrafo",
+"redacción",
+"oración temática"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Sándwich",
+"texto": "Pan de tema, relleno de apoyo y pan de cierre."
+},
+{
+"titulo": "Caja",
+"texto": "Cada párrafo guarda solo cosas del mismo tipo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe una oración temática sobre el reciclaje.",
+"respuesta": "Debe decir la idea central."
+},
+{
+"ejercicio": "¿Qué hacen las oraciones de apoyo?",
+"respuesta": "Explican con datos o ejemplos."
+},
+{
+"ejercicio": "Escribe un párrafo de cuatro oraciones sobre tu deporte favorito.",
+"respuesta": "Debe tener tema, apoyo y cierre."
+}
+],
+"idea": "Un párrafo tiene una sola idea central. Si metes muchas, el lector se pierde.",
+"pizarron": "**Qué es:** un párrafo es un conjunto de oraciones que desarrollan una sola idea.\n\n**Partes:**\n\n1. **Oración temática:** la idea central.\n2. **Oraciones de apoyo:** explican con datos o ejemplos.\n3. **Cierre.**\n\n**Ejemplo:**\n\n*El agua es indispensable. Sin ella no hay plantas ni animales. Nuestro cuerpo es casi 60 % agua. Por eso debemos cuidarla.*\n\nUsa conectores: *además, por ejemplo, por lo tanto*.\n\n**Para tu escuela:** escribe un párrafo con idea y dos detalles.",
+"truco": "Una idea por párrafo.",
+"practica": {
+"ejercicio": "¿Qué oración dice la idea central?",
+"respuesta": "La oración temática."
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Acentuación de interrogativos",
+"slug": "acentuacion-de-interrogativos-secundaria",
+"palabras": [
+"interrogativos",
+"qué",
+"cómo",
+"acento"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Sombrero",
+"texto": "Cuando estas palabras preguntan, se ponen un sombrero de tilde."
+},
+{
+"titulo": "Doble oficio",
+"texto": "La misma palabra trabaja de preguntona o de conectora."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *¿Como estás?*",
+"respuesta": "*¿Cómo estás?*"
+},
+{
+"ejercicio": "Elige: *Dijo (que/qué) sí.*",
+"respuesta": "*que*"
+},
+{
+"ejercicio": "Elige: *Dime (donde/dónde) vives.*",
+"respuesta": "*dónde*"
+}
+],
+"idea": "Si preguntas, la palabra lleva tilde. Si solo unes ideas, no la lleva.",
+"pizarron": "**La regla:** *qué, quién, cómo, cuándo, dónde, cuánto* y *cuál* llevan tilde cuando preguntan o exclaman, aunque no haya signos.\n\n**Con tilde:**\n\n*¿Qué quieres?*\n\n*No sé qué quieres.* Hay una pregunta escondida.\n\n*¡Qué bonito!*\n\n**Sin tilde:** cuando solo unen ideas.\n\n*Dijo que vendrá.*\n\n*Cuando llegues, avísame.*\n\n**Truco:** si puedes convertir la frase en una pregunta con esa palabra, lleva tilde.\n\n*No sé dónde vive.* ¿Dónde vive? Lleva tilde.\n\n**Para tu escuela:** revisa un texto tuyo y marca cada *que* y *como*.",
+"truco": "Si pregunta, tilde; si conecta, no.",
+"practica": {
+"ejercicio": "Corrige: *No sé cuando llega.*",
+"respuesta": "*No sé cuándo llega.*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Homófonos: haber, a ver, hay, ahí, ay",
+"slug": "homofonos-haber-a-ver-hay-ahi-ay-secundaria",
+"palabras": [
+"homófonos",
+"haber",
+"a ver",
+"hay",
+"ahí",
+"ay"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Gemelos",
+"texto": "Se oyen idénticos, pero cada uno trabaja en algo distinto."
+},
+{
+"titulo": "Dedo",
+"texto": "Si puedes señalar el lugar con el dedo, la palabra es ahí."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Elige: *Vamos ___ la película.*",
+"respuesta": "*a ver*"
+},
+{
+"ejercicio": "Elige: *Tiene que ___ una solución.*",
+"respuesta": "*haber*"
+},
+{
+"ejercicio": "Elige: *¡___, qué susto!*",
+"respuesta": "*Ay*"
+}
+],
+"idea": "Suenan igual, pero significan algo distinto. Elegir la correcta cambia todo el mensaje.",
+"pizarron": "**Qué es:** los homófonos son palabras que suenan igual y se escriben distinto.\n\n**haber:** verbo. *Debe haber pan.*\n\n**a ver:** mirar o probar. *Vamos a ver.*\n\n**hay:** existe. *Hay pan.*\n\n**ahí:** lugar. *Está ahí.*\n\n**ay:** dolor. *¡Ay, me dolió!*\n\nPistas:\n\n- ¿Puedes decir *mirar*? *A ver.*\n- ¿Puedes señalar un lugar? *Ahí.*\n- ¿Es un grito? *Ay.*\n\n**Para tu escuela:** escribe una oración con *hay*, *ahí* y *ay*.",
+"truco": "Hay existe, ahí es lugar, ay duele.",
+"practica": {
+"ejercicio": "Elige: *___ muchos niños.*",
+"respuesta": "*Hay*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Por qué, porque, porqué y por que",
+"slug": "por-que-porque-porque-y-por-que-secundaria",
+"palabras": [
+"por qué",
+"porque",
+"porqué"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Pregunta y respuesta",
+"texto": "La pregunta llega abierta y la respuesta se cierra junta."
+},
+{
+"titulo": "Cambio de palabra",
+"texto": "Si puedes cambiarlo por la palabra motivo, se escribe porqué."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *No fui ___ llovía.*",
+"respuesta": "*porque*"
+},
+{
+"ejercicio": "Completa: *Explícame el ___.*",
+"respuesta": "*porqué*"
+},
+{
+"ejercicio": "Completa: *¿___ gritas?*",
+"respuesta": "*Por qué*"
+}
+],
+"idea": "Son cuatro formas que confunden a mucha gente. Una pregunta, otra responde y otra es un sustantivo.",
+"pizarron": "**La regla:**\n\n**Por qué**: pregunta.\n\n*¿Por qué lloras?*\n\n**Porque**: responde, da una causa.\n\n*Porque me caí.*\n\n**Porqué**: sustantivo. Significa *motivo* y lleva *el*.\n\n*No sé el porqué.*\n\n**Por que**: preposición más *que*. Se puede cambiar por *por el que*.\n\n*Esa es la razón por que vine.*\n\n**Para tu escuela:** escribe una pregunta y su respuesta usando las formas correctas.",
+"truco": "Pregunta separada; respuesta junta.",
+"practica": {
+"ejercicio": "Completa: *___ no viniste?*",
+"respuesta": "*¿Por qué*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Uso de mayúsculas",
+"slug": "uso-de-mayusculas-secundaria",
+"palabras": [
+"mayúsculas",
+"ortografía"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Etiqueta",
+"texto": "La mayúscula es la etiqueta de un nombre."
+},
+{
+"titulo": "Tradición inglesa",
+"texto": "El inglés usa más mayúsculas, y no conviene copiarlo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *soy Mexicano.*",
+"respuesta": "*Soy mexicano.*"
+},
+{
+"ejercicio": "¿Lleva tilde la mayúscula de *Ángel*?",
+"respuesta": "Sí."
+},
+{
+"ejercicio": "Escribe bien: *cien años de soledad* (título).",
+"respuesta": "*Cien años de soledad*"
+}
+],
+"idea": "Las mayúsculas son señales: te dicen dónde empieza algo y qué nombre es especial.",
+"pizarron": "**La regla:** van con mayúscula la primera palabra de un texto, la que sigue a un punto, los nombres propios y las siglas.\n\n**Sí llevan:**\n\n- Nombres: *Benito Juárez*.\n- Lugares: *Puebla*.\n- Siglas: *UNAM*.\n- Títulos: solo la primera palabra. *Cien años de soledad*.\n\n**No llevan:**\n\n- Días y meses: *lunes, enero*.\n- Idiomas y gentilicios: *español, mexicano*.\n- Cargos: *el presidente*.\n\nLas mayúsculas también llevan tilde: *Ángel*.\n\n**Para tu escuela:** corrige: *el Lunes viajé a veracruz con mi tía.*",
+"truco": "Lunes y enero van en minúscula.",
+"practica": {
+"ejercicio": "Corrige: *Hoy es Lunes.*",
+"respuesta": "*Hoy es lunes.*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Uso de la coma",
+"slug": "uso-de-la-coma-secundaria",
+"palabras": [
+"coma",
+"puntuación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Respiro",
+"texto": "La coma es un respiro, pero no siempre que respiras va coma."
+},
+{
+"titulo": "Tijeras",
+"texto": "Si cortas entre sujeto y verbo, rompes la oración."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *Mi mamá, cocina rico.*",
+"respuesta": "*Mi mamá cocina rico.*"
+},
+{
+"ejercicio": "Pon comas: *Compré pan leche y huevo.*",
+"respuesta": "*Compré pan, leche y huevo.*"
+},
+{
+"ejercicio": "Pon coma: *Estudié pero no aprobé.*",
+"respuesta": "*Estudié, pero no aprobé.*"
+}
+],
+"idea": "Una coma mal puesta cambia todo: vamos a comer, niños. Sin coma, suena a que te comes a los niños.",
+"pizarron": "**La regla:** la coma separa listas, llamados y aclaraciones, y va antes de *pero*. Nunca separa sujeto y verbo.\n\nLa coma es una pausa pequeña.\n\n**En listas:** *Pan, queso y leche.*\n\n**Al llamar a alguien:** *Ana, ven.*\n\n**En aclaraciones:** *Luis, mi hermano, llegó.*\n\n**Antes de pero:** *Quiero, pero no puedo.*\n\n**Error común:** *Los niños, corren.* Aquí no va coma.\n\n**Una coma cambia todo:**\n\n*Vamos a comer, niños.*\n\n*Vamos a comer niños.*\n\n**Para tu escuela:** pon las comas: *Compré lápices gomas y reglas.*",
+"truco": "Sujeto y verbo no se separan.",
+"practica": {
+"ejercicio": "Pon la coma: *Ven aquí Luis.*",
+"respuesta": "*Ven aquí, Luis.*"
+}
+}
+},
+{
+"nodo_id": "f6-044",
+"titulo": "Dequeísmo y queísmo",
+"slug": "dequeismo-y-queismo-secundaria",
+"palabras": [
+"dequeísmo",
+"queísmo",
+"de que"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "La pregunta espía",
+"texto": "La pregunta revela si la preposición es necesaria."
+},
+{
+"titulo": "Ingrediente",
+"texto": "Quitar o poner uno de más arruina la receta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *Me acuerdo que fuiste.*",
+"respuesta": "*Me acuerdo de que fuiste.*"
+},
+{
+"ejercicio": "Corrige: *Dijo de que venía.*",
+"respuesta": "*Dijo que venía.*"
+},
+{
+"ejercicio": "Elige: *Estoy feliz (que/de que) vengas.*",
+"respuesta": "*de que*"
+}
+],
+"idea": "Hay quien pone de que donde sobra, y hay quien lo quita donde sí va. Una pregunta te saca de dudas.",
+"pizarron": "**Qué es:** dequeísmo es usar *de que* cuando solo va *que*. Queísmo es quitar *de* cuando sí va.\n\n**Dequeísmo (mal):** *Pienso de que vendrá.*\n\nBien: *Pienso que vendrá.*\n\n**Queísmo (mal):** *Estoy seguro que vendrá.*\n\nBien: *Estoy seguro de que vendrá.*\n\n**Truco de la pregunta:**\n\n¿Qué pienso? No lleva *de*.\n\n¿De qué estoy seguro? Sí lleva *de*.\n\n**Para tu escuela:** corrige *pienso de que* en un texto.",
+"truco": "Haz la pregunta: si lleva de, va de.",
+"practica": {
+"ejercicio": "Corrige: *Creo de que sí.*",
+"respuesta": "*Creo que sí.*"
+}
+}
+}
 ]

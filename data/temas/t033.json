@@ -1,140 +1,140 @@
 [
-  {
-    "nodo_id": "f6-046",
-    "titulo": "Retos sociales y ambientales en secundaria",
-    "slug": "retos-sociales-ambientales-secundaria",
-    "palabras": [
-      "problemas ambientales",
-      "problemas sociales",
-      "contaminación",
-      "desigualdad",
-      "comunidad",
-      "sustentabilidad"
-    ],
-    "contenido": {
-      "idea": "Imagina que tu salón es una casa compartida: si todos tiran basura al piso, el lugar se ensucia y nadie la pasa bien. Los problemas de tu comunidad, de México y del mundo funcionan igual: nos afectan a todos y se resuelven entre todos.",
-      "pizarron": "**Qué es:** son problemas de hoy. Los sociales afectan a las personas, como la pobreza. Los ambientales dañan la naturaleza, como la contaminación.\n\n**Cómo estudiarlos:**\n\n1. ¿Cuál es el problema y dónde está?\n2. ¿Es de tu colonia, de México o del mundo?\n3. ¿Qué lo causa?\n4. ¿A quién afecta?\n5. ¿Qué podemos hacer?\n\nEstán conectados. Si talan un bosque, hay menos agua, y eso afecta más a quien tiene menos.\n\n**Para tu escuela:** responde las cinco preguntas sobre un problema de tu colonia.",
-      "truco": "ICCA: Identifica, Causas, Consecuencias, Acciones.",
-      "practica": {
-        "ejercicio": "Elige un problema de tu comunidad (por ejemplo, basura en las calles) y escribe una causa, una consecuencia y una acción que tú podrías hacer.",
-        "respuesta": "Respuesta modelo: causa, se tira basura por falta de botes y de hábito; consecuencia, se tapan las coladeras y hay encharcamientos y enfermedades; acción, separar residuos en casa y organizar una jornada de limpieza con vecinos. Es válida cualquier respuesta con causa, consecuencia y acción coherentes."
-      },
-      "analogias": [
-        {
-          "titulo": "El cuerpo humano",
-          "texto": "Si te duele una muela, todo el cuerpo se siente mal. Igual, un problema en una parte del planeta o de la sociedad termina afectando a las demás."
-        },
-        {
-          "titulo": "La alberca compartida",
-          "texto": "Si una persona ensucia el agua de una alberca, todos los que nadan se ven afectados. El agua, el aire y los suelos son como esa alberca: son de todos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Clasifica como reto social o ambiental: a) deforestación; b) desigualdad en el acceso a la educación; c) contaminación de un río.",
-          "respuesta": "a) ambiental; b) social; c) ambiental."
-        },
-        {
-          "ejercicio": "¿A qué escala pertenece la falta de agua en tu colonia? ¿Y el calentamiento global?",
-          "respuesta": "La falta de agua en tu colonia es local; el calentamiento global es mundial."
-        },
-        {
-          "ejercicio": "Reflexiona: menciona dos acciones personales que ayuden al ambiente. Criterio: deben ser concretas y realizables.",
-          "respuesta": "Ejemplos válidos: ahorrar agua cerrando la llave al cepillarte, separar la basura, usar transporte público o bicicleta, reutilizar bolsas. Se aceptan acciones concretas y posibles para un estudiante."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-050",
-    "titulo": "Diversidad de grupos sociales y culturales en México",
-    "slug": "diversidad-grupos-culturales-mexico-secundaria",
-    "palabras": [
-      "pueblos indígenas",
-      "afromexicanos",
-      "multiculturalidad",
-      "lenguas",
-      "tradiciones",
-      "interculturalidad"
-    ],
-    "contenido": {
-      "idea": "Piensa en una canasta de frutas: hay mangos, fresas, uvas y piñas, y cada una tiene su sabor. Juntas hacen la canasta más rica. México es así: muchos grupos con distintas costumbres que juntos forman un solo país.",
-      "pizarron": "**Qué es:** México es pluricultural: aquí conviven muchos pueblos, con lenguas y costumbres distintas.\n\n**Grupos:**\n\n- **Pueblos indígenas:** nahuas, mayas, zapotecos y más.\n- **Afromexicanos:** en la Costa Chica y Veracruz.\n- **Mestizos:** mezcla de culturas.\n- **Migrantes.**\n\nLa diversidad se ve en la lengua, la comida, la ropa y las fiestas.\n\n**Interculturalidad:** convivir, dialogar y aprender unos de otros.\n\nDiscriminar por el origen va contra los derechos.\n\n**Para tu escuela:** investiga una fiesta de un pueblo de tu estado.",
-      "truco": "Diversidad: muchas culturas, un solo país, respeto para todas.",
-      "practica": {
-        "ejercicio": "Escribe tres elementos de la diversidad cultural que puedas encontrar en tu comunidad.",
-        "respuesta": "Respuesta modelo: una lengua o dialecto que se hable cerca, un platillo típico y una fiesta tradicional. Es válida cualquier respuesta con tres elementos culturales reales de tu entorno."
-      },
-      "analogias": [
-        {
-          "titulo": "Un mosaico",
-          "texto": "Un mosaico se forma con piezas de colores distintos. Si quitas una, la imagen queda incompleta. Cada grupo cultural es una pieza necesaria del país."
-        },
-        {
-          "titulo": "Una orquesta",
-          "texto": "En una orquesta suenan violines, tambores y flautas. Cada instrumento es diferente, pero juntos tocan una sola melodía."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa que México sea un país pluricultural?",
-          "respuesta": "Que en él conviven muchos grupos con culturas, lenguas y tradiciones distintas."
-        },
-        {
-          "ejercicio": "Menciona dos pueblos indígenas de México y un aspecto cultural que los distinga.",
-          "respuesta": "Por ejemplo: los mayas, con su lengua maya y su herencia arquitectónica; los zapotecos, con su lengua zapoteca y sus tejidos en Oaxaca."
-        },
-        {
-          "ejercicio": "Reflexiona: un compañero habla una lengua indígena y algunos se burlan. ¿Qué harías? Criterio: respeto y empatía.",
-          "respuesta": "Respuesta válida: no participar en la burla, decir que su lengua es valiosa, preguntarle sobre ella y apoyarlo. Se valora el respeto, la empatía y la inclusión."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-054",
-    "titulo": "El suelo y la seguridad alimentaria en secundaria",
-    "slug": "suelo-seguridad-alimentaria-secundaria",
-    "palabras": [
-      "suelo",
-      "erosión",
-      "agricultura",
-      "alimentos",
-      "degradación del suelo",
-      "fertilidad"
-    ],
-    "contenido": {
-      "idea": "El suelo es como la despensa del planeta: de ahí salen el maíz, los frijoles y las verduras. Si la despensa se vacía o se echa a perder, nos quedamos sin comida.",
-      "pizarron": "**Qué es:** el suelo es la capa de tierra donde crecen las plantas. La seguridad alimentaria es que todos tengan comida suficiente y nutritiva.\n\nSin suelo sano no hay comida. Y tarda cientos de años en formarse.\n\n**Qué lo daña:**\n\n- **Erosión:** viento y agua se lo llevan.\n- **Contaminación:** basura y químicos.\n- **Sobreexplotación:** sembrar sin descanso.\n- **Cemento:** lo cubre.\n\n**Cómo cuidarlo:** cambiar de cultivo, plantar árboles y usar abono orgánico.\n\n**Para recordar:**\n- **Seguridad alimentaria:** Que todas las personas tengan siempre alimentos suficientes, sanos y accesibles.\n\n**Para tu escuela:** haz composta con cáscaras en un bote.",
-      "truco": "Suelo sano, plato lleno.",
-      "practica": {
-        "ejercicio": "Menciona dos causas de la erosión del suelo y una forma de evitarla.",
-        "respuesta": "Causas: la tala de árboles y el cultivo sin descanso (también el viento y la lluvia fuerte sobre suelo desnudo). Forma de evitarla: reforestar o sembrar en terrazas."
-      },
-      "analogias": [
-        {
-          "titulo": "La piel de la Tierra",
-          "texto": "Si te quitan la piel, quedas expuesto y herido. Cuando el suelo pierde su capa fértil, la Tierra queda dañada y no puede dar cultivos."
-        },
-        {
-          "titulo": "La cuenta de ahorros",
-          "texto": "Si siempre sacas dinero y nunca depositas, la cuenta se vacía. Si siempre cultivas sin devolver nutrientes al suelo, se agota."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define seguridad alimentaria con tus palabras.",
-          "respuesta": "Que todas las personas tengan siempre alimentos suficientes, sanos y accesibles."
-        },
-        {
-          "ejercicio": "¿Por qué se dice que el suelo es casi no renovable?",
-          "respuesta": "Porque tarda cientos o miles de años en formarse, mucho más de lo que tarda en perderse."
-        },
-        {
-          "ejercicio": "Reflexiona: propón dos acciones de tu comunidad para cuidar el suelo. Criterio: acciones concretas relacionadas con el suelo.",
-          "respuesta": "Ejemplos: hacer composta con residuos orgánicos, plantar árboles, no quemar basura ni pastizales, evitar tirar residuos en terrenos baldíos. Se aceptan acciones concretas y realizables."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-046",
+"titulo": "Retos sociales y ambientales en secundaria",
+"slug": "retos-sociales-ambientales-secundaria",
+"palabras": [
+"problemas ambientales",
+"problemas sociales",
+"contaminación",
+"desigualdad",
+"comunidad",
+"sustentabilidad"
+],
+"contenido": {
+"idea": "Imagina que tu salón es una casa compartida: si todos tiran basura al piso, el lugar se ensucia y nadie la pasa bien. Los problemas de tu comunidad, de México y del mundo funcionan igual: nos afectan a todos y se resuelven entre todos.",
+"pizarron": "**Qué es:** son problemas de hoy. Los sociales afectan a las personas, como la pobreza. Los ambientales dañan la naturaleza, como la contaminación.\n\n**Cómo estudiarlos:**\n\n1. ¿Cuál es el problema y dónde está?\n2. ¿Es de tu colonia, de México o del mundo?\n3. ¿Qué lo causa?\n4. ¿A quién afecta?\n5. ¿Qué podemos hacer?\n\nEstán conectados. Si talan un bosque, hay menos agua, y eso afecta más a quien tiene menos.\n\n**Para tu escuela:** responde las cinco preguntas sobre un problema de tu colonia.",
+"truco": "ICCA: Identifica, Causas, Consecuencias, Acciones.",
+"practica": {
+"ejercicio": "Elige un problema de tu comunidad (por ejemplo, basura en las calles) y escribe una causa, una consecuencia y una acción que tú podrías hacer.",
+"respuesta": "Respuesta modelo: causa, se tira basura por falta de botes y de hábito; consecuencia, se tapan las coladeras y hay encharcamientos y enfermedades; acción, separar residuos en casa y organizar una jornada de limpieza con vecinos. Es válida cualquier respuesta con causa, consecuencia y acción coherentes."
+},
+"analogias": [
+{
+"titulo": "El cuerpo humano",
+"texto": "Si te duele una muela, todo el cuerpo se siente mal. Igual, un problema en una parte del planeta o de la sociedad termina afectando a las demás."
+},
+{
+"titulo": "La alberca compartida",
+"texto": "Si una persona ensucia el agua de una alberca, todos los que nadan se ven afectados. El agua, el aire y los suelos son como esa alberca: son de todos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica como reto social o ambiental: a) deforestación; b) desigualdad en el acceso a la educación; c) contaminación de un río.",
+"respuesta": "a) ambiental; b) social; c) ambiental."
+},
+{
+"ejercicio": "¿A qué escala pertenece la falta de agua en tu colonia? ¿Y el calentamiento global?",
+"respuesta": "La falta de agua en tu colonia es local; el calentamiento global es mundial."
+},
+{
+"ejercicio": "Reflexiona: menciona dos acciones personales que ayuden al ambiente. Criterio: deben ser concretas y realizables.",
+"respuesta": "Ejemplos válidos: ahorrar agua cerrando la llave al cepillarte, separar la basura, usar transporte público o bicicleta, reutilizar bolsas. Se aceptan acciones concretas y posibles para un estudiante."
+}
+]
+}
+},
+{
+"nodo_id": "f6-050",
+"titulo": "Diversidad de grupos sociales y culturales en México",
+"slug": "diversidad-grupos-culturales-mexico-secundaria",
+"palabras": [
+"pueblos indígenas",
+"afromexicanos",
+"multiculturalidad",
+"lenguas",
+"tradiciones",
+"interculturalidad"
+],
+"contenido": {
+"idea": "Piensa en una canasta de frutas: hay mangos, fresas, uvas y piñas, y cada una tiene su sabor. Juntas hacen la canasta más rica. México es así: muchos grupos con distintas costumbres que juntos forman un solo país.",
+"pizarron": "**Qué es:** México es pluricultural: aquí conviven muchos pueblos, con lenguas y costumbres distintas.\n\n**Grupos:**\n\n- **Pueblos indígenas:** nahuas, mayas, zapotecos y más.\n- **Afromexicanos:** en la Costa Chica y Veracruz.\n- **Mestizos:** mezcla de culturas.\n- **Migrantes.**\n\nLa diversidad se ve en la lengua, la comida, la ropa y las fiestas.\n\n**Interculturalidad:** convivir, dialogar y aprender unos de otros.\n\nDiscriminar por el origen va contra los derechos.\n\n**Para tu escuela:** investiga una fiesta de un pueblo de tu estado.",
+"truco": "Diversidad: muchas culturas, un solo país, respeto para todas.",
+"practica": {
+"ejercicio": "Escribe tres elementos de la diversidad cultural que puedas encontrar en tu comunidad.",
+"respuesta": "Respuesta modelo: una lengua o dialecto que se hable cerca, un platillo típico y una fiesta tradicional. Es válida cualquier respuesta con tres elementos culturales reales de tu entorno."
+},
+"analogias": [
+{
+"titulo": "Un mosaico",
+"texto": "Un mosaico se forma con piezas de colores distintos. Si quitas una, la imagen queda incompleta. Cada grupo cultural es una pieza necesaria del país."
+},
+{
+"titulo": "Una orquesta",
+"texto": "En una orquesta suenan violines, tambores y flautas. Cada instrumento es diferente, pero juntos tocan una sola melodía."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa que México sea un país pluricultural?",
+"respuesta": "Que en él conviven muchos grupos con culturas, lenguas y tradiciones distintas."
+},
+{
+"ejercicio": "Menciona dos pueblos indígenas de México y un aspecto cultural que los distinga.",
+"respuesta": "Por ejemplo: los mayas, con su lengua maya y su herencia arquitectónica; los zapotecos, con su lengua zapoteca y sus tejidos en Oaxaca."
+},
+{
+"ejercicio": "Reflexiona: un compañero habla una lengua indígena y algunos se burlan. ¿Qué harías? Criterio: respeto y empatía.",
+"respuesta": "Respuesta válida: no participar en la burla, decir que su lengua es valiosa, preguntarle sobre ella y apoyarlo. Se valora el respeto, la empatía y la inclusión."
+}
+]
+}
+},
+{
+"nodo_id": "f6-054",
+"titulo": "El suelo y la seguridad alimentaria en secundaria",
+"slug": "suelo-seguridad-alimentaria-secundaria",
+"palabras": [
+"suelo",
+"erosión",
+"agricultura",
+"alimentos",
+"degradación del suelo",
+"fertilidad"
+],
+"contenido": {
+"idea": "El suelo es como la despensa del planeta: de ahí salen el maíz, los frijoles y las verduras. Si la despensa se vacía o se echa a perder, nos quedamos sin comida.",
+"pizarron": "**Qué es:** el suelo es la capa de tierra donde crecen las plantas. La seguridad alimentaria es que todos tengan comida suficiente y nutritiva.\n\nSin suelo sano no hay comida. Y tarda cientos de años en formarse.\n\n**Qué lo daña:**\n\n- **Erosión:** viento y agua se lo llevan.\n- **Contaminación:** basura y químicos.\n- **Sobreexplotación:** sembrar sin descanso.\n- **Cemento:** lo cubre.\n\n**Cómo cuidarlo:** cambiar de cultivo, plantar árboles y usar abono orgánico.\n\n**Para tu escuela:** haz composta con cáscaras en un bote.",
+"truco": "Suelo sano, plato lleno.",
+"practica": {
+"ejercicio": "Menciona dos causas de la erosión del suelo y una forma de evitarla.",
+"respuesta": "Causas: la tala de árboles y el cultivo sin descanso (también el viento y la lluvia fuerte sobre suelo desnudo). Forma de evitarla: reforestar o sembrar en terrazas."
+},
+"analogias": [
+{
+"titulo": "La piel de la Tierra",
+"texto": "Si te quitan la piel, quedas expuesto y herido. Cuando el suelo pierde su capa fértil, la Tierra queda dañada y no puede dar cultivos."
+},
+{
+"titulo": "La cuenta de ahorros",
+"texto": "Si siempre sacas dinero y nunca depositas, la cuenta se vacía. Si siempre cultivas sin devolver nutrientes al suelo, se agota."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define seguridad alimentaria con tus palabras.",
+"respuesta": "Que todas las personas tengan siempre alimentos suficientes, sanos y accesibles."
+},
+{
+"ejercicio": "¿Por qué se dice que el suelo es casi no renovable?",
+"respuesta": "Porque tarda cientos o miles de años en formarse, mucho más de lo que tarda en perderse."
+},
+{
+"ejercicio": "Reflexiona: propón dos acciones de tu comunidad para cuidar el suelo. Criterio: acciones concretas relacionadas con el suelo.",
+"respuesta": "Ejemplos: hacer composta con residuos orgánicos, plantar árboles, no quemar basura ni pastizales, evitar tirar residuos en terrenos baldíos. Se aceptan acciones concretas y realizables."
+}
+]
+}
+}
 ]

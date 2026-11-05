@@ -1,452 +1,452 @@
 [
-  {
-    "nodo_id": "f3-002",
-    "titulo": "Mi cuerpo por fuera y cómo cuidarlo",
-    "slug": "cuerpo-humano-exterior-primaria-1-2",
-    "palabras": [
-      "cuerpo",
-      "partes del cuerpo",
-      "cabeza",
-      "crecimiento",
-      "higiene"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como una casa con partes para cada cosa: los ojos son las ventanas, las manos son las puertas para tomar objetos y los pies son las ruedas para ir a todos lados.",
-      "pizarron": "**Qué es:** por fuera, tu cuerpo tiene tres partes: cabeza, tronco y extremidades.\n\n**Cabeza:** cara y cabello.\n\n**Tronco:** pecho, panza y espalda.\n\n**Extremidades:** brazos y piernas.\n\n**Para cuidarlo:** báñate, lávate las manos, cepilla tus dientes y duerme bien.\n\nTu cuerpo cambia al crecer. Se te caen dientes y salen otros. Es normal.\n\n**Para tu escuela:** dibújate y marca las tres partes.",
-      "truco": "Cabeza, tronco y extremidades: las tres C-T-E del cuerpo.",
-      "practica": {
-        "ejercicio": "Nombra las tres partes principales del cuerpo y una acción para cuidarlo.",
-        "respuesta": "Cabeza, tronco y extremidades. Una acción posible: lavarse las manos antes de comer."
-      },
-      "analogias": [
-        {
-          "titulo": "Un árbol",
-          "texto": "El tronco del árbol sostiene todo, igual que tu tronco; las ramas son como tus brazos y piernas, y la copa es como tu cabeza."
-        },
-        {
-          "titulo": "Un juguete articulado",
-          "texto": "Un muñeco con brazos y piernas que se doblan se parece a ti: las articulaciones, como codos y rodillas, te permiten moverte."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué parte del cuerpo usamos para ver y cuál para oler?",
-          "respuesta": "Los ojos para ver y la nariz para oler."
-        },
-        {
-          "ejercicio": "Menciona dos hábitos de higiene diarios.",
-          "respuesta": "Por ejemplo: bañarse y cepillarse los dientes."
-        },
-        {
-          "ejercicio": "Escribe dos cambios que notas en ti al crecer.",
-          "respuesta": "Por ejemplo: ahora eres más alto y se te cayeron dientes de leche."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-006",
-    "titulo": "Alimentos saludables, agua y movimiento",
-    "slug": "alimentos-saludables-agua-actividad-fisica-primaria-1-2",
-    "palabras": [
-      "alimentación",
-      "plato del bien comer",
-      "agua potable",
-      "ejercicio",
-      "salud"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como un coche que necesita buena gasolina: frutas, verduras y agua le dan energía para jugar, correr y aprender sin cansarte pronto.",
-      "pizarron": "**La regla:** para crecer sano, come de tres grupos, toma agua y muévete cada día.\n\n**Grupos:** verduras y frutas; cereales, como la tortilla; y frijoles, huevo o pollo.\n\n**La comida** te da energía.\n\n**El agua** ayuda a tu cuerpo a funcionar.\n\n**Moverte** hace fuertes tus huesos y te pone contento.\n\n**Para tu escuela:** dibuja un plato con comida de los tres grupos.",
-      "truco": "Come de colores, toma agua y muévete.",
-      "practica": {
-        "ejercicio": "Elige una comida saludable y una bebida para tu recreo.",
-        "respuesta": "Por ejemplo: una manzana y agua simple."
-      },
-      "analogias": [
-        {
-          "titulo": "Una planta",
-          "texto": "Una planta necesita agua y sol para crecer; tú necesitas agua, buena comida y movimiento para crecer sano."
-        },
-        {
-          "titulo": "Un celular",
-          "texto": "Si no lo cargas, se apaga. Los alimentos son tu carga: sin ellos te cansas y te cuesta concentrarte."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué bebida es mejor para hidratarte: refresco o agua simple?",
-          "respuesta": "El agua simple potable."
-        },
-        {
-          "ejercicio": "Menciona dos frutas o verduras que conozcas.",
-          "respuesta": "Por ejemplo: zanahoria y plátano."
-        },
-        {
-          "ejercicio": "Escribe dos formas de hacer actividad física.",
-          "respuesta": "Por ejemplo: correr y saltar la cuerda."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-010",
-    "titulo": "Entorno natural y sociocultural",
-    "slug": "entorno-natural-sociocultural-primaria-1-2",
-    "palabras": [
-      "entorno",
-      "naturaleza",
-      "costumbres",
-      "comunidad",
-      "paisaje"
-    ],
-    "contenido": {
-      "idea": "El entorno es todo lo que te rodea, como una gran caja de cosas: algunas las hizo la naturaleza, como los árboles, y otras las hacen las personas, como las casas y las fiestas.",
-      "pizarron": "**Qué es:** lo natural no lo hizo la gente: agua, plantas y animales. Lo sociocultural sí: casas, calles y fiestas.\n\n**Están unidos:** usamos plantas para cocinar y flores para celebrar.\n\nCada lugar tiene su naturaleza y sus costumbres.\n\n**Para tu escuela:** dibuja dos cosas naturales y dos hechas por personas.",
-      "truco": "Natural lo da la naturaleza; sociocultural lo hace la gente.",
-      "practica": {
-        "ejercicio": "Clasifica: río, mercado, nopal, fiesta del pueblo.",
-        "respuesta": "Natural: río y nopal. Sociocultural: mercado y fiesta del pueblo."
-      },
-      "analogias": [
-        {
-          "titulo": "Un pastel",
-          "texto": "La harina y los huevos vienen de la naturaleza, pero la receta y la decoración las pone la gente."
-        },
-        {
-          "titulo": "Un jardín",
-          "texto": "Las plantas crecen solas, pero la banca y el camino los pusieron las personas; juntos forman un lugar donde convivimos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe dos elementos naturales de tu localidad.",
-          "respuesta": "Por ejemplo: árboles y un río."
-        },
-        {
-          "ejercicio": "Escribe dos elementos socioculturales de tu localidad.",
-          "respuesta": "Por ejemplo: la escuela y una fiesta tradicional."
-        },
-        {
-          "ejercicio": "¿La casa es natural o sociocultural?",
-          "respuesta": "Sociocultural, porque la construyen las personas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-013",
-    "titulo": "Cómo afectamos y cuidamos la naturaleza",
-    "slug": "impacto-actividades-humanas-cuidado-entorno-primaria-1-2",
-    "palabras": [
-      "contaminación",
-      "basura",
-      "reciclar",
-      "cuidar el agua",
-      "medio ambiente"
-    ],
-    "contenido": {
-      "idea": "La naturaleza es como tu cuarto: si tiras basura se ensucia y se vuelve feo, pero si lo cuidas y lo ordenas, todos viven a gusto.",
-      "pizarron": "**Qué es:** lo que hacemos puede dañar o cuidar la naturaleza.\n\n**Daña:** tirar basura, gastar agua y talar árboles.\n\n**Cuida:** separar basura, cerrar la llave y plantar árboles.\n\nCada acción pequeña ayuda.\n\n**Para recordar:**\n- **¿Por qué es importante no talar árboles sin cuidado?** Porque los animales pierden su hogar y el aire se limpia menos.\n\n**Para tu escuela:** elige una acción y hazla toda la semana.",
-      "truco": "Reduce, reutiliza y recicla: las tres erres.",
-      "practica": {
-        "ejercicio": "Escribe una acción que daña el agua y otra que la cuida.",
-        "respuesta": "Daña: tirar basura al río. Cuida: cerrar la llave cuando no la usas."
-      },
-      "analogias": [
-        {
-          "titulo": "Un salón de clases",
-          "texto": "Si todos dejan papeles en el piso, el salón se ensucia; si cada quien recoge lo suyo, se mantiene limpio."
-        },
-        {
-          "titulo": "Una alberca compartida",
-          "texto": "Si alguien ensucia el agua, afecta a todos los que nadan; cuidarla es tarea de todos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona una forma de ahorrar agua en casa.",
-          "respuesta": "Por ejemplo: cerrar la llave mientras te enjabonas."
-        },
-        {
-          "ejercicio": "¿Qué puedes hacer con una botella de plástico vacía en lugar de tirarla?",
-          "respuesta": "Reutilizarla como maceta o llevarla a reciclar."
-        },
-        {
-          "ejercicio": "¿Por qué es importante no talar árboles sin cuidado?",
-          "respuesta": "Porque los animales pierden su hogar y el aire se limpia menos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-017",
-    "titulo": "Objetos: propiedades, estados y usos",
-    "slug": "objetos-propiedades-estados-fisicos-primaria-1-2",
-    "palabras": [
-      "materiales",
-      "sólido",
-      "líquido",
-      "gas",
-      "propiedades"
-    ],
-    "contenido": {
-      "idea": "Los objetos son como personajes con características: unos son duros como una piedra, otros suaves como un peluche y otros se escurren como el agua.",
-      "pizarron": "**Qué es:** los objetos tienen color, forma y tamaño. Pueden ser sólidos, líquidos o gases.\n\n**Sólido:** tiene forma. Una piedra.\n\n**Líquido:** toma la forma del vaso. El agua.\n\n**Gas:** se esparce. El aire.\n\nLo que un objeto es decide para qué sirve. El vidrio es transparente: sirve para ventanas.\n\n**Para recordar:**\n- **¿Por qué una olla se hace de metal?** Porque el metal resiste el calor y es fuerte.\n\n**Para tu escuela:** busca un sólido, un líquido y un gas en tu cocina.",
-      "truco": "Sólido tiene forma, líquido se adapta, gas se esparce.",
-      "practica": {
-        "ejercicio": "Di el estado del jugo, de una pelota y del aire.",
-        "respuesta": "Jugo: líquido. Pelota: sólido. Aire: gas."
-      },
-      "analogias": [
-        {
-          "titulo": "Un grupo de niños",
-          "texto": "En fila quieta son como un sólido, corriendo juntos por un pasillo como un líquido, y esparcidos en el patio como un gas."
-        },
-        {
-          "titulo": "Ropa para el clima",
-          "texto": "Eliges tela o plástico según lo que necesitas: así se escoge cada material por sus propiedades."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿El hielo es sólido, líquido o gas?",
-          "respuesta": "Sólido."
-        },
-        {
-          "ejercicio": "¿Por qué una olla se hace de metal?",
-          "respuesta": "Porque el metal resiste el calor y es fuerte."
-        },
-        {
-          "ejercicio": "Escribe dos propiedades de una esponja.",
-          "respuesta": "Por ejemplo: es suave y absorbe agua."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-021",
-    "titulo": "Fuerzas: mover y deformar",
-    "slug": "fuerzas-movimiento-deformacion-primaria-1-2",
-    "palabras": [
-      "empujar",
-      "jalar",
-      "movimiento",
-      "deformar",
-      "fuerza"
-    ],
-    "contenido": {
-      "idea": "Cuando empujas un columpio o jalas una cuerda, usas fuerza. La fuerza es como un ayudante invisible que hace que las cosas se muevan o cambien de forma.",
-      "pizarron": "**Qué es:** una fuerza es un empujón o un jalón.\n\n**Mueve:** patear un balón.\n\n**Detiene:** atraparlo.\n\n**Deforma:** apretar plastilina.\n\nMás fuerza, más efecto.\n\nUna liga regresa a su forma. La plastilina no.\n\n**Para recordar:**\n- **¿Qué pasa con la distancia del balón si lo pateas más fuerte?** Llega más lejos.\n\n**Para tu escuela:** empuja una pelota suave y luego fuerte, y di qué cambia.",
-      "truco": "Empujar o jalar: si algo se mueve o cambia, hubo fuerza.",
-      "practica": {
-        "ejercicio": "Al aplastar plastilina, ¿qué efecto tiene la fuerza?",
-        "respuesta": "Deformación, porque cambia su forma."
-      },
-      "analogias": [
-        {
-          "titulo": "Un carrito de súper",
-          "texto": "Si lo empujas, avanza; si lo jalas, viene hacia ti; con más fuerza, va más rápido."
-        },
-        {
-          "titulo": "Una masa de tortillas",
-          "texto": "Al presionarla con las manos cambia de forma y se vuelve plana, como la plastilina."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Abrir una puerta es empujar o jalar?",
-          "respuesta": "Depende de la puerta: puede ser empujar o jalar."
-        },
-        {
-          "ejercicio": "Menciona un objeto que se deforma al apretarlo.",
-          "respuesta": "Por ejemplo: una esponja o la plastilina."
-        },
-        {
-          "ejercicio": "¿Qué pasa con la distancia del balón si lo pateas más fuerte?",
-          "respuesta": "Llega más lejos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-025",
-    "titulo": "El sonido y la luz",
-    "slug": "sonido-luz-caracteristicas-primaria-1-2",
-    "palabras": [
-      "sonido",
-      "luz",
-      "sombra",
-      "volumen",
-      "vibración"
-    ],
-    "contenido": {
-      "idea": "El sonido es como un mensaje que viaja hasta tus oídos, y la luz es como un mensajero veloz que te deja ver los colores y las formas.",
-      "pizarron": "**Qué es:** el sonido se oye y la luz se ve; ambos viajan.\n\n**Sonido**: se produce cuando algo **vibra** (una cuerda de guitarra, un tambor). Puede ser fuerte o suave (volumen) y grave o agudo (tono). Lo percibimos con los oídos.\n\n**Luz**: nos permite ver. Viene de fuentes luminosas como el Sol, el fuego o un foco. Viaja en línea recta.\n\nSi la luz encuentra un objeto opaco, como una caja, se forma una **sombra**. Un objeto transparente, como el vidrio, deja pasar la luz. Uno translúcido, como el papel de china, deja pasar un poco.\n\nDe noche vemos porque hay luz de lámparas, la Luna o las estrellas. Con demasiado ruido o demasiada luz intensa, debemos cuidar oídos y ojos.",
-      "truco": "Si vibra, suena; si es opaco, hace sombra.",
-      "practica": {
-        "ejercicio": "¿Qué produce el sonido en un tambor?",
-        "respuesta": "La vibración de la piel del tambor al golpearla."
-      },
-      "analogias": [
-        {
-          "titulo": "Ondas en un charco",
-          "texto": "Si tiras una piedra al agua, se forman olas que se alejan; el sonido también se expande desde donde se produce."
-        },
-        {
-          "titulo": "Linterna en un cuarto oscuro",
-          "texto": "El rayo sale recto, y si pones tu mano enfrente aparece una sombra detrás."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos fuentes de luz.",
-          "respuesta": "Por ejemplo: el Sol y un foco."
-        },
-        {
-          "ejercicio": "¿Un vidrio transparente forma sombra completa?",
-          "respuesta": "No, porque deja pasar la luz."
-        },
-        {
-          "ejercicio": "¿Cómo cuidas tus oídos de un sonido muy fuerte?",
-          "respuesta": "Bajando el volumen o alejándote del ruido."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-029",
-    "titulo": "Cambios y regularidades en la naturaleza",
-    "slug": "cambios-regularidades-fenomenos-naturales-primaria-1-2",
-    "palabras": [
-      "día y noche",
-      "estaciones",
-      "clima",
-      "ciclos",
-      "rutinas"
-    ],
-    "contenido": {
-      "idea": "La naturaleza tiene su propia rutina, igual que tú: cada día sale el Sol por la mañana y se oculta en la tarde, y tú te levantas y te duermes a ciertas horas.",
-      "pizarron": "**Qué es:** una regularidad es algo que se repite siempre en el mismo orden.\n\n- Día y noche, cada 24 horas.\n- Fases de la Luna, cada mes.\n- Estaciones, cada año.\n- Lluvias y secas.\n\nPor eso se siembra cuando llegan las lluvias.\n\n**Para tu escuela:** dibuja el clima de cada día de esta semana.",
-      "truco": "Si se repite en orden, es una regularidad.",
-      "practica": {
-        "ejercicio": "Ordena: noche, amanecer, tarde, mediodía.",
-        "respuesta": "Amanecer, mediodía, tarde, noche."
-      },
-      "analogias": [
-        {
-          "titulo": "Un reloj",
-          "texto": "Sus manecillas pasan por los mismos números una y otra vez, como la naturaleza repite sus ciclos."
-        },
-        {
-          "titulo": "El horario escolar",
-          "texto": "Cada semana repites las mismas clases en orden; así los días y las estaciones también se repiten."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuántas estaciones tiene el año?",
-          "respuesta": "Cuatro."
-        },
-        {
-          "ejercicio": "Menciona una actividad que cambia con la temporada de lluvias.",
-          "respuesta": "Por ejemplo: sembrar o llevar paraguas."
-        },
-        {
-          "ejercicio": "¿El día y la noche se repiten? Explica.",
-          "respuesta": "Sí, se alternan todos los días en orden, es una regularidad."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-002",
-    "titulo": "Sistemas locomotor y digestivo",
-    "slug": "sistema-locomotor-digestivo-primaria-3-4",
-    "palabras": [
-      "huesos",
-      "músculos",
-      "digestión",
-      "estómago",
-      "intestino"
-    ],
-    "contenido": {
-      "idea": "El sistema locomotor es como el armazón y las cuerdas de una marioneta que te permiten moverte. El digestivo es como una fábrica que convierte la comida en energía.",
-      "pizarron": "**Qué es:** el sistema locomotor te permite moverte. El digestivo aprovecha la comida.\n\n**Locomotor:** huesos, músculos y articulaciones. Los huesos sostienen y los músculos jalan.\n\n**Digestivo:** boca, esófago, estómago e intestinos. La comida se parte y el cuerpo toma lo que sirve.\n\n**Cuídalos:** mastica bien, toma agua, muévete y come alimentos con calcio.\n\n**Para tu escuela:** dibuja el camino de una tortilla por tu cuerpo.",
-      "truco": "Huesos sostienen, músculos mueven; la comida va de boca a intestino.",
-      "practica": {
-        "ejercicio": "Ordena: estómago, boca, intestino delgado, esófago.",
-        "respuesta": "Boca, esófago, estómago, intestino delgado."
-      },
-      "analogias": [
-        {
-          "titulo": "Una grúa",
-          "texto": "El brazo de acero es como los huesos, y el motor que tira de los cables es como los músculos."
-        },
-        {
-          "titulo": "Una licuadora y un colador",
-          "texto": "El estómago mezcla y desbarata la comida como licuadora; el intestino separa y aprovecha lo útil como un colador."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué órganos permiten doblar el brazo: huesos, músculos o ambos?",
-          "respuesta": "Ambos: los músculos jalan y los huesos se articulan en el codo."
-        },
-        {
-          "ejercicio": "¿En qué parte se absorben la mayoría de los nutrimentos?",
-          "respuesta": "En el intestino delgado."
-        },
-        {
-          "ejercicio": "Menciona dos prácticas para cuidar el sistema digestivo.",
-          "respuesta": "Por ejemplo: lavarse las manos y comer fruta y verdura."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-006",
-    "titulo": "Sistema sexual y cambios en la pubertad",
-    "slug": "sistema-sexual-pubertad-primaria-3-4",
-    "palabras": [
-      "pubertad",
-      "cambios del cuerpo",
-      "adolescencia",
-      "higiene",
-      "hormonas"
-    ],
-    "contenido": {
-      "idea": "Crecer es como pasar de una temporada a otra: el cuerpo empieza a cambiar poco a poco para convertirse en el de una persona más grande, y es algo natural.",
-      "pizarron": "**Qué es:** la pubertad es la etapa en que el cuerpo empieza a cambiar para hacerse adulto. Las hormonas la causan.\n\n**Cambios:** creces rápido, cambia tu voz, sale vello y sientes emociones más fuertes.\n\nCada persona cambia a su ritmo. Nadie debe burlarse.\n\n**Cuídate:** báñate, usa ropa limpia, duerme bien y platica con un adulto de confianza.\n\n**Para tu escuela:** escribe a quién le preguntarías tus dudas.",
-      "truco": "Pubertad: cambios normales, ritmo propio, respeto y aseo.",
-      "practica": {
-        "ejercicio": "Menciona dos cuidados de higiene durante la pubertad.",
-        "respuesta": "Por ejemplo: bañarse a diario y usar ropa limpia."
-      },
-      "analogias": [
-        {
-          "titulo": "Una oruga",
-          "texto": "La oruga cambia poco a poco para ser mariposa; así el cuerpo cambia gradualmente en la pubertad."
-        },
-        {
-          "titulo": "Plantas en el huerto",
-          "texto": "Cada planta florea en su momento; no todas al mismo tiempo, igual que las personas crecen a ritmos distintos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué sustancias causan los cambios de la pubertad?",
-          "respuesta": "Las hormonas."
-        },
-        {
-          "ejercicio": "Un compañero crece más tarde que tú. ¿Cómo debes actuar?",
-          "respuesta": "Con respeto, sin burlas, porque cada quien cambia a su ritmo."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿a quién puedes acudir si tienes dudas sobre tu cuerpo? Da dos opciones.",
-          "respuesta": "Criterio: nombrar adultos de confianza, como un familiar, una maestra o un médico."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f3-002",
+"titulo": "Mi cuerpo por fuera y cómo cuidarlo",
+"slug": "cuerpo-humano-exterior-primaria-1-2",
+"palabras": [
+"cuerpo",
+"partes del cuerpo",
+"cabeza",
+"crecimiento",
+"higiene"
+],
+"contenido": {
+"idea": "Tu cuerpo es como una casa con partes para cada cosa: los ojos son las ventanas, las manos son las puertas para tomar objetos y los pies son las ruedas para ir a todos lados.",
+"pizarron": "**Qué es:** por fuera, tu cuerpo tiene tres partes: cabeza, tronco y extremidades.\n\n**Cabeza:** cara y cabello.\n\n**Tronco:** pecho, panza y espalda.\n\n**Extremidades:** brazos y piernas.\n\n**Para cuidarlo:** báñate, lávate las manos, cepilla tus dientes y duerme bien.\n\nTu cuerpo cambia al crecer. Se te caen dientes y salen otros. Es normal.\n\n**Para tu escuela:** dibújate y marca las tres partes.",
+"truco": "Cabeza, tronco y extremidades: las tres C-T-E del cuerpo.",
+"practica": {
+"ejercicio": "Nombra las tres partes principales del cuerpo y una acción para cuidarlo.",
+"respuesta": "Cabeza, tronco y extremidades. Una acción posible: lavarse las manos antes de comer."
+},
+"analogias": [
+{
+"titulo": "Un árbol",
+"texto": "El tronco del árbol sostiene todo, igual que tu tronco; las ramas son como tus brazos y piernas, y la copa es como tu cabeza."
+},
+{
+"titulo": "Un juguete articulado",
+"texto": "Un muñeco con brazos y piernas que se doblan se parece a ti: las articulaciones, como codos y rodillas, te permiten moverte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué parte del cuerpo usamos para ver y cuál para oler?",
+"respuesta": "Los ojos para ver y la nariz para oler."
+},
+{
+"ejercicio": "Menciona dos hábitos de higiene diarios.",
+"respuesta": "Por ejemplo: bañarse y cepillarse los dientes."
+},
+{
+"ejercicio": "Escribe dos cambios que notas en ti al crecer.",
+"respuesta": "Por ejemplo: ahora eres más alto y se te cayeron dientes de leche."
+}
+]
+}
+},
+{
+"nodo_id": "f3-006",
+"titulo": "Alimentos saludables, agua y movimiento",
+"slug": "alimentos-saludables-agua-actividad-fisica-primaria-1-2",
+"palabras": [
+"alimentación",
+"plato del bien comer",
+"agua potable",
+"ejercicio",
+"salud"
+],
+"contenido": {
+"idea": "Tu cuerpo es como un coche que necesita buena gasolina: frutas, verduras y agua le dan energía para jugar, correr y aprender sin cansarte pronto.",
+"pizarron": "**La regla:** para crecer sano, come de tres grupos, toma agua y muévete cada día.\n\n**Grupos:** verduras y frutas; cereales, como la tortilla; y frijoles, huevo o pollo.\n\n**La comida** te da energía.\n\n**El agua** ayuda a tu cuerpo a funcionar.\n\n**Moverte** hace fuertes tus huesos y te pone contento.\n\n**Para tu escuela:** dibuja un plato con comida de los tres grupos.",
+"truco": "Come de colores, toma agua y muévete.",
+"practica": {
+"ejercicio": "Elige una comida saludable y una bebida para tu recreo.",
+"respuesta": "Por ejemplo: una manzana y agua simple."
+},
+"analogias": [
+{
+"titulo": "Una planta",
+"texto": "Una planta necesita agua y sol para crecer; tú necesitas agua, buena comida y movimiento para crecer sano."
+},
+{
+"titulo": "Un celular",
+"texto": "Si no lo cargas, se apaga. Los alimentos son tu carga: sin ellos te cansas y te cuesta concentrarte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué bebida es mejor para hidratarte: refresco o agua simple?",
+"respuesta": "El agua simple potable."
+},
+{
+"ejercicio": "Menciona dos frutas o verduras que conozcas.",
+"respuesta": "Por ejemplo: zanahoria y plátano."
+},
+{
+"ejercicio": "Escribe dos formas de hacer actividad física.",
+"respuesta": "Por ejemplo: correr y saltar la cuerda."
+}
+]
+}
+},
+{
+"nodo_id": "f3-010",
+"titulo": "Entorno natural y sociocultural",
+"slug": "entorno-natural-sociocultural-primaria-1-2",
+"palabras": [
+"entorno",
+"naturaleza",
+"costumbres",
+"comunidad",
+"paisaje"
+],
+"contenido": {
+"idea": "El entorno es todo lo que te rodea, como una gran caja de cosas: algunas las hizo la naturaleza, como los árboles, y otras las hacen las personas, como las casas y las fiestas.",
+"pizarron": "**Qué es:** lo natural no lo hizo la gente: agua, plantas y animales. Lo sociocultural sí: casas, calles y fiestas.\n\n**Están unidos:** usamos plantas para cocinar y flores para celebrar.\n\nCada lugar tiene su naturaleza y sus costumbres.\n\n**Para tu escuela:** dibuja dos cosas naturales y dos hechas por personas.",
+"truco": "Natural lo da la naturaleza; sociocultural lo hace la gente.",
+"practica": {
+"ejercicio": "Clasifica: río, mercado, nopal, fiesta del pueblo.",
+"respuesta": "Natural: río y nopal. Sociocultural: mercado y fiesta del pueblo."
+},
+"analogias": [
+{
+"titulo": "Un pastel",
+"texto": "La harina y los huevos vienen de la naturaleza, pero la receta y la decoración las pone la gente."
+},
+{
+"titulo": "Un jardín",
+"texto": "Las plantas crecen solas, pero la banca y el camino los pusieron las personas; juntos forman un lugar donde convivimos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe dos elementos naturales de tu localidad.",
+"respuesta": "Por ejemplo: árboles y un río."
+},
+{
+"ejercicio": "Escribe dos elementos socioculturales de tu localidad.",
+"respuesta": "Por ejemplo: la escuela y una fiesta tradicional."
+},
+{
+"ejercicio": "¿La casa es natural o sociocultural?",
+"respuesta": "Sociocultural, porque la construyen las personas."
+}
+]
+}
+},
+{
+"nodo_id": "f3-013",
+"titulo": "Cómo afectamos y cuidamos la naturaleza",
+"slug": "impacto-actividades-humanas-cuidado-entorno-primaria-1-2",
+"palabras": [
+"contaminación",
+"basura",
+"reciclar",
+"cuidar el agua",
+"medio ambiente"
+],
+"contenido": {
+"idea": "La naturaleza es como tu cuarto: si tiras basura se ensucia y se vuelve feo, pero si lo cuidas y lo ordenas, todos viven a gusto.",
+"pizarron": "**Qué es:** lo que hacemos puede dañar o cuidar la naturaleza.\n\n**Daña:** tirar basura, gastar agua y talar árboles.\n\n**Cuida:** separar basura, cerrar la llave y plantar árboles.\n\nCada acción pequeña ayuda.\n\nAl talar árboles sin cuidado, los animales pierden su hogar y el aire se limpia menos.\n\n**Para tu escuela:** elige una acción y hazla toda la semana.",
+"truco": "Reduce, reutiliza y recicla: las tres erres.",
+"practica": {
+"ejercicio": "Escribe una acción que daña el agua y otra que la cuida.",
+"respuesta": "Daña: tirar basura al río. Cuida: cerrar la llave cuando no la usas."
+},
+"analogias": [
+{
+"titulo": "Un salón de clases",
+"texto": "Si todos dejan papeles en el piso, el salón se ensucia; si cada quien recoge lo suyo, se mantiene limpio."
+},
+{
+"titulo": "Una alberca compartida",
+"texto": "Si alguien ensucia el agua, afecta a todos los que nadan; cuidarla es tarea de todos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona una forma de ahorrar agua en casa.",
+"respuesta": "Por ejemplo: cerrar la llave mientras te enjabonas."
+},
+{
+"ejercicio": "¿Qué puedes hacer con una botella de plástico vacía en lugar de tirarla?",
+"respuesta": "Reutilizarla como maceta o llevarla a reciclar."
+},
+{
+"ejercicio": "¿Por qué es importante no talar árboles sin cuidado?",
+"respuesta": "Porque los animales pierden su hogar y el aire se limpia menos."
+}
+]
+}
+},
+{
+"nodo_id": "f3-017",
+"titulo": "Objetos: propiedades, estados y usos",
+"slug": "objetos-propiedades-estados-fisicos-primaria-1-2",
+"palabras": [
+"materiales",
+"sólido",
+"líquido",
+"gas",
+"propiedades"
+],
+"contenido": {
+"idea": "Los objetos son como personajes con características: unos son duros como una piedra, otros suaves como un peluche y otros se escurren como el agua.",
+"pizarron": "**Qué es:** los objetos tienen color, forma y tamaño. Pueden ser sólidos, líquidos o gases.\n\n**Sólido:** tiene forma. Una piedra.\n\n**Líquido:** toma la forma del vaso. El agua.\n\n**Gas:** se esparce. El aire.\n\nLo que un objeto es decide para qué sirve. El vidrio es transparente: sirve para ventanas.\n\nEl metal resiste el calor y es fuerte. Por eso las ollas son de metal.\n\n**Para tu escuela:** busca un sólido, un líquido y un gas en tu cocina.",
+"truco": "Sólido tiene forma, líquido se adapta, gas se esparce.",
+"practica": {
+"ejercicio": "Di el estado del jugo, de una pelota y del aire.",
+"respuesta": "Jugo: líquido. Pelota: sólido. Aire: gas."
+},
+"analogias": [
+{
+"titulo": "Un grupo de niños",
+"texto": "En fila quieta son como un sólido, corriendo juntos por un pasillo como un líquido, y esparcidos en el patio como un gas."
+},
+{
+"titulo": "Ropa para el clima",
+"texto": "Eliges tela o plástico según lo que necesitas: así se escoge cada material por sus propiedades."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿El hielo es sólido, líquido o gas?",
+"respuesta": "Sólido."
+},
+{
+"ejercicio": "¿Por qué una olla se hace de metal?",
+"respuesta": "Porque el metal resiste el calor y es fuerte."
+},
+{
+"ejercicio": "Escribe dos propiedades de una esponja.",
+"respuesta": "Por ejemplo: es suave y absorbe agua."
+}
+]
+}
+},
+{
+"nodo_id": "f3-021",
+"titulo": "Fuerzas: mover y deformar",
+"slug": "fuerzas-movimiento-deformacion-primaria-1-2",
+"palabras": [
+"empujar",
+"jalar",
+"movimiento",
+"deformar",
+"fuerza"
+],
+"contenido": {
+"idea": "Cuando empujas un columpio o jalas una cuerda, usas fuerza. La fuerza es como un ayudante invisible que hace que las cosas se muevan o cambien de forma.",
+"pizarron": "**Qué es:** una fuerza es un empujón o un jalón.\n\n**Mueve:** patear un balón.\n\n**Detiene:** atraparlo.\n\n**Deforma:** apretar plastilina.\n\nMás fuerza, más efecto.\n\nUna liga regresa a su forma. La plastilina no.\n\nSi pateas más fuerte, el balón llega más lejos.\n\n**Para tu escuela:** empuja una pelota suave y luego fuerte, y di qué cambia.",
+"truco": "Empujar o jalar: si algo se mueve o cambia, hubo fuerza.",
+"practica": {
+"ejercicio": "Al aplastar plastilina, ¿qué efecto tiene la fuerza?",
+"respuesta": "Deformación, porque cambia su forma."
+},
+"analogias": [
+{
+"titulo": "Un carrito de súper",
+"texto": "Si lo empujas, avanza; si lo jalas, viene hacia ti; con más fuerza, va más rápido."
+},
+{
+"titulo": "Una masa de tortillas",
+"texto": "Al presionarla con las manos cambia de forma y se vuelve plana, como la plastilina."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Abrir una puerta es empujar o jalar?",
+"respuesta": "Depende de la puerta: puede ser empujar o jalar."
+},
+{
+"ejercicio": "Menciona un objeto que se deforma al apretarlo.",
+"respuesta": "Por ejemplo: una esponja o la plastilina."
+},
+{
+"ejercicio": "¿Qué pasa con la distancia del balón si lo pateas más fuerte?",
+"respuesta": "Llega más lejos."
+}
+]
+}
+},
+{
+"nodo_id": "f3-025",
+"titulo": "El sonido y la luz",
+"slug": "sonido-luz-caracteristicas-primaria-1-2",
+"palabras": [
+"sonido",
+"luz",
+"sombra",
+"volumen",
+"vibración"
+],
+"contenido": {
+"idea": "El sonido es como un mensaje que viaja hasta tus oídos, y la luz es como un mensajero veloz que te deja ver los colores y las formas.",
+"pizarron": "**Qué es:** el sonido se oye y la luz se ve; ambos viajan.\n\n**Sonido**: se produce cuando algo **vibra** (una cuerda de guitarra, un tambor). Puede ser fuerte o suave (volumen) y grave o agudo (tono). Lo percibimos con los oídos.\n\n**Luz**: nos permite ver. Viene de fuentes luminosas como el Sol, el fuego o un foco. Viaja en línea recta.\n\nSi la luz encuentra un objeto opaco, como una caja, se forma una **sombra**. Un objeto transparente, como el vidrio, deja pasar la luz. Uno translúcido, como el papel de china, deja pasar un poco.\n\nDe noche vemos porque hay luz de lámparas, la Luna o las estrellas. Con demasiado ruido o demasiada luz intensa, debemos cuidar oídos y ojos.\n\n**Para tu escuela:** cierra los ojos y nombra tres sonidos de tu salón.",
+"truco": "Si vibra, suena; si es opaco, hace sombra.",
+"practica": {
+"ejercicio": "¿Qué produce el sonido en un tambor?",
+"respuesta": "La vibración de la piel del tambor al golpearla."
+},
+"analogias": [
+{
+"titulo": "Ondas en un charco",
+"texto": "Si tiras una piedra al agua, se forman olas que se alejan; el sonido también se expande desde donde se produce."
+},
+{
+"titulo": "Linterna en un cuarto oscuro",
+"texto": "El rayo sale recto, y si pones tu mano enfrente aparece una sombra detrás."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos fuentes de luz.",
+"respuesta": "Por ejemplo: el Sol y un foco."
+},
+{
+"ejercicio": "¿Un vidrio transparente forma sombra completa?",
+"respuesta": "No, porque deja pasar la luz."
+},
+{
+"ejercicio": "¿Cómo cuidas tus oídos de un sonido muy fuerte?",
+"respuesta": "Bajando el volumen o alejándote del ruido."
+}
+]
+}
+},
+{
+"nodo_id": "f3-029",
+"titulo": "Cambios y regularidades en la naturaleza",
+"slug": "cambios-regularidades-fenomenos-naturales-primaria-1-2",
+"palabras": [
+"día y noche",
+"estaciones",
+"clima",
+"ciclos",
+"rutinas"
+],
+"contenido": {
+"idea": "La naturaleza tiene su propia rutina, igual que tú: cada día sale el Sol por la mañana y se oculta en la tarde, y tú te levantas y te duermes a ciertas horas.",
+"pizarron": "**Qué es:** una regularidad es algo que se repite siempre en el mismo orden.\n\n- Día y noche, cada 24 horas.\n- Fases de la Luna, cada mes.\n- Estaciones, cada año.\n- Lluvias y secas.\n\nPor eso se siembra cuando llegan las lluvias.\n\n**Para tu escuela:** dibuja el clima de cada día de esta semana.",
+"truco": "Si se repite en orden, es una regularidad.",
+"practica": {
+"ejercicio": "Ordena: noche, amanecer, tarde, mediodía.",
+"respuesta": "Amanecer, mediodía, tarde, noche."
+},
+"analogias": [
+{
+"titulo": "Un reloj",
+"texto": "Sus manecillas pasan por los mismos números una y otra vez, como la naturaleza repite sus ciclos."
+},
+{
+"titulo": "El horario escolar",
+"texto": "Cada semana repites las mismas clases en orden; así los días y las estaciones también se repiten."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántas estaciones tiene el año?",
+"respuesta": "Cuatro."
+},
+{
+"ejercicio": "Menciona una actividad que cambia con la temporada de lluvias.",
+"respuesta": "Por ejemplo: sembrar o llevar paraguas."
+},
+{
+"ejercicio": "¿El día y la noche se repiten? Explica.",
+"respuesta": "Sí, se alternan todos los días en orden, es una regularidad."
+}
+]
+}
+},
+{
+"nodo_id": "f4-002",
+"titulo": "Sistemas locomotor y digestivo",
+"slug": "sistema-locomotor-digestivo-primaria-3-4",
+"palabras": [
+"huesos",
+"músculos",
+"digestión",
+"estómago",
+"intestino"
+],
+"contenido": {
+"idea": "El sistema locomotor es como el armazón y las cuerdas de una marioneta que te permiten moverte. El digestivo es como una fábrica que convierte la comida en energía.",
+"pizarron": "**Qué es:** el sistema locomotor te permite moverte. El digestivo aprovecha la comida.\n\n**Locomotor:** huesos, músculos y articulaciones. Los huesos sostienen y los músculos jalan.\n\n**Digestivo:** boca, esófago, estómago e intestinos. La comida se parte y el cuerpo toma lo que sirve.\n\n**Cuídalos:** mastica bien, toma agua, muévete y come alimentos con calcio.\n\n**Para tu escuela:** dibuja el camino de una tortilla por tu cuerpo.",
+"truco": "Huesos sostienen, músculos mueven; la comida va de boca a intestino.",
+"practica": {
+"ejercicio": "Ordena: estómago, boca, intestino delgado, esófago.",
+"respuesta": "Boca, esófago, estómago, intestino delgado."
+},
+"analogias": [
+{
+"titulo": "Una grúa",
+"texto": "El brazo de acero es como los huesos, y el motor que tira de los cables es como los músculos."
+},
+{
+"titulo": "Una licuadora y un colador",
+"texto": "El estómago mezcla y desbarata la comida como licuadora; el intestino separa y aprovecha lo útil como un colador."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué órganos permiten doblar el brazo: huesos, músculos o ambos?",
+"respuesta": "Ambos: los músculos jalan y los huesos se articulan en el codo."
+},
+{
+"ejercicio": "¿En qué parte se absorben la mayoría de los nutrimentos?",
+"respuesta": "En el intestino delgado."
+},
+{
+"ejercicio": "Menciona dos prácticas para cuidar el sistema digestivo.",
+"respuesta": "Por ejemplo: lavarse las manos y comer fruta y verdura."
+}
+]
+}
+},
+{
+"nodo_id": "f4-006",
+"titulo": "Sistema sexual y cambios en la pubertad",
+"slug": "sistema-sexual-pubertad-primaria-3-4",
+"palabras": [
+"pubertad",
+"cambios del cuerpo",
+"adolescencia",
+"higiene",
+"hormonas"
+],
+"contenido": {
+"idea": "Crecer es como pasar de una temporada a otra: el cuerpo empieza a cambiar poco a poco para convertirse en el de una persona más grande, y es algo natural.",
+"pizarron": "**Qué es:** la pubertad es la etapa en que el cuerpo empieza a cambiar para hacerse adulto. Las hormonas la causan.\n\n**Cambios:** creces rápido, cambia tu voz, sale vello y sientes emociones más fuertes.\n\nCada persona cambia a su ritmo. Nadie debe burlarse.\n\n**Cuídate:** báñate, usa ropa limpia, duerme bien y platica con un adulto de confianza.\n\n**Para tu escuela:** escribe a quién le preguntarías tus dudas.",
+"truco": "Pubertad: cambios normales, ritmo propio, respeto y aseo.",
+"practica": {
+"ejercicio": "Menciona dos cuidados de higiene durante la pubertad.",
+"respuesta": "Por ejemplo: bañarse a diario y usar ropa limpia."
+},
+"analogias": [
+{
+"titulo": "Una oruga",
+"texto": "La oruga cambia poco a poco para ser mariposa; así el cuerpo cambia gradualmente en la pubertad."
+},
+{
+"titulo": "Plantas en el huerto",
+"texto": "Cada planta florea en su momento; no todas al mismo tiempo, igual que las personas crecen a ritmos distintos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué sustancias causan los cambios de la pubertad?",
+"respuesta": "Las hormonas."
+},
+{
+"ejercicio": "Un compañero crece más tarde que tú. ¿Cómo debes actuar?",
+"respuesta": "Con respeto, sin burlas, porque cada quien cambia a su ritmo."
+},
+{
+"ejercicio": "Reflexiona: ¿a quién puedes acudir si tienes dudas sobre tu cuerpo? Da dos opciones.",
+"respuesta": "Criterio: nombrar adultos de confianza, como un familiar, una maestra o un médico."
+}
+]
+}
+}
 ]

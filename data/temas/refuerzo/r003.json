@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 2 es contar grupos de 2. En lugar de sumar 2 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 2 son los resultados de multiplicar 2 por cada número del 1 al 10. Multiplicar por 2 es sacar el doble.\n\nLa tabla del 2:\n\n- 2 × 1 = 2\n- 2 × 2 = 4\n- 2 × 3 = 6\n- 2 × 4 = 8\n- 2 × 5 = 10\n- 2 × 6 = 12\n- 2 × 7 = 14\n- 2 × 8 = 16\n- 2 × 9 = 18\n- 2 × 10 = 20\n\nCada resultado es 2 más que el anterior.\n\n**Regla útil:** Los resultados siempre son pares: terminan en 2, 4, 6, 8 o 0.\n\nEl orden no cambia el resultado: 2 × 3 da lo mismo que 3 × 2. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 2 son los resultados de multiplicar 2 por cada número del 1 al 10. Multiplicar por 2 es sacar el doble.\n\nLa tabla del 2:\n\n- 2 × 1 = 2\n- 2 × 2 = 4\n- 2 × 3 = 6\n- 2 × 4 = 8\n- 2 × 5 = 10\n- 2 × 6 = 12\n- 2 × 7 = 14\n- 2 × 8 = 16\n- 2 × 9 = 18\n- 2 × 10 = 20\n\nCada resultado es 2 más que el anterior.\n\n**Regla útil:** Los resultados siempre son pares: terminan en 2, 4, 6, 8 o 0.\n\nEl orden no cambia el resultado: 2 × 3 da lo mismo que 3 × 2. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** cuenta los ojos de 6 compañeros.",
 "truco": "Es el doble: suma el número consigo mismo.",
 "practica": {
 "ejercicio": "¿Cuánto es 2 × 8?",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 3 es contar grupos de 3. En lugar de sumar 3 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 3 son los resultados de multiplicar 3 por cada número del 1 al 10. Multiplicar por 3 es sumar tres veces un número.\n\nLa tabla del 3:\n\n- 3 × 1 = 3\n- 3 × 2 = 6\n- 3 × 3 = 9\n- 3 × 4 = 12\n- 3 × 5 = 15\n- 3 × 6 = 18\n- 3 × 7 = 21\n- 3 × 8 = 24\n- 3 × 9 = 27\n- 3 × 10 = 30\n\nCada resultado es 3 más que el anterior.\n\n**Regla útil:** Si sumas las cifras del resultado, da 3, 6 o 9: en 27, 2 + 7 = 9.\n\nEl orden no cambia el resultado: 3 × 4 da lo mismo que 4 × 3. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 3 son los resultados de multiplicar 3 por cada número del 1 al 10. Multiplicar por 3 es sumar tres veces un número.\n\nLa tabla del 3:\n\n- 3 × 1 = 3\n- 3 × 2 = 6\n- 3 × 3 = 9\n- 3 × 4 = 12\n- 3 × 5 = 15\n- 3 × 6 = 18\n- 3 × 7 = 21\n- 3 × 8 = 24\n- 3 × 9 = 27\n- 3 × 10 = 30\n\nCada resultado es 3 más que el anterior.\n\n**Regla útil:** Si sumas las cifras del resultado, da 3, 6 o 9: en 27, 2 + 7 = 9.\n\nEl orden no cambia el resultado: 3 × 4 da lo mismo que 4 × 3. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** cuenta las llantas de 4 triciclos dibujados.",
 "truco": "Suma 3 al resultado anterior: 3, 6, 9, 12...",
 "practica": {
 "ejercicio": "¿Cuánto es 3 × 7?",
@@ -99,7 +99,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 4 es contar grupos de 4. En lugar de sumar 4 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 4 son los resultados de multiplicar 4 por cada número del 1 al 10. Multiplicar por 4 es sacar el doble del doble.\n\nLa tabla del 4:\n\n- 4 × 1 = 4\n- 4 × 2 = 8\n- 4 × 3 = 12\n- 4 × 4 = 16\n- 4 × 5 = 20\n- 4 × 6 = 24\n- 4 × 7 = 28\n- 4 × 8 = 32\n- 4 × 9 = 36\n- 4 × 10 = 40\n\nCada resultado es 4 más que el anterior.\n\n**Regla útil:** Es el doble de la tabla del 2: si 2 × 7 = 14, entonces 4 × 7 = 28.\n\nEl orden no cambia el resultado: 4 × 3 da lo mismo que 3 × 4. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 4 son los resultados de multiplicar 4 por cada número del 1 al 10. Multiplicar por 4 es sacar el doble del doble.\n\nLa tabla del 4:\n\n- 4 × 1 = 4\n- 4 × 2 = 8\n- 4 × 3 = 12\n- 4 × 4 = 16\n- 4 × 5 = 20\n- 4 × 6 = 24\n- 4 × 7 = 28\n- 4 × 8 = 32\n- 4 × 9 = 36\n- 4 × 10 = 40\n\nCada resultado es 4 más que el anterior.\n\n**Regla útil:** Es el doble de la tabla del 2: si 2 × 7 = 14, entonces 4 × 7 = 28.\n\nEl orden no cambia el resultado: 4 × 3 da lo mismo que 3 × 4. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** cuenta las patas de las mesas de tu salón.",
 "truco": "Es el doble del doble: 4 × 6 → 12 → 24.",
 "practica": {
 "ejercicio": "¿Cuánto es 4 × 4?",
@@ -143,7 +143,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 5 es contar grupos de 5. En lugar de sumar 5 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 5 son los resultados de multiplicar 5 por cada número del 1 al 10. Todos terminan en 5 o en 0.\n\nLa tabla del 5:\n\n- 5 × 1 = 5\n- 5 × 2 = 10\n- 5 × 3 = 15\n- 5 × 4 = 20\n- 5 × 5 = 25\n- 5 × 6 = 30\n- 5 × 7 = 35\n- 5 × 8 = 40\n- 5 × 9 = 45\n- 5 × 10 = 50\n\nCada resultado es 5 más que el anterior.\n\n**Regla útil:** Con número par, toma la mitad y agrega cero: 5 × 8 → 4 → 40.\n\nEl orden no cambia el resultado: 5 × 3 da lo mismo que 3 × 5. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 5 son los resultados de multiplicar 5 por cada número del 1 al 10. Todos terminan en 5 o en 0.\n\nLa tabla del 5:\n\n- 5 × 1 = 5\n- 5 × 2 = 10\n- 5 × 3 = 15\n- 5 × 4 = 20\n- 5 × 5 = 25\n- 5 × 6 = 30\n- 5 × 7 = 35\n- 5 × 8 = 40\n- 5 × 9 = 45\n- 5 × 10 = 50\n\nCada resultado es 5 más que el anterior.\n\n**Regla útil:** Con número par, toma la mitad y agrega cero: 5 × 8 → 4 → 40.\n\nEl orden no cambia el resultado: 5 × 3 da lo mismo que 3 × 5. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** cuenta los dedos de 4 manos.",
 "truco": "Todos terminan en 5 o en 0, como las manecillas del reloj.",
 "practica": {
 "ejercicio": "¿Cuánto es 5 × 8?",
@@ -187,7 +187,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 6 es contar grupos de 6. En lugar de sumar 6 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 6 son los resultados de multiplicar 6 por cada número del 1 al 10. Multiplicar por 6 es sacar el doble de la tabla del 3.\n\nLa tabla del 6:\n\n- 6 × 1 = 6\n- 6 × 2 = 12\n- 6 × 3 = 18\n- 6 × 4 = 24\n- 6 × 5 = 30\n- 6 × 6 = 36\n- 6 × 7 = 42\n- 6 × 8 = 48\n- 6 × 9 = 54\n- 6 × 10 = 60\n\nCada resultado es 6 más que el anterior.\n\n**Regla útil:** Es el doble de la tabla del 3: si 3 × 7 = 21, entonces 6 × 7 = 42.\n\nEl orden no cambia el resultado: 6 × 3 da lo mismo que 3 × 6. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 6 son los resultados de multiplicar 6 por cada número del 1 al 10. Multiplicar por 6 es sacar el doble de la tabla del 3.\n\nLa tabla del 6:\n\n- 6 × 1 = 6\n- 6 × 2 = 12\n- 6 × 3 = 18\n- 6 × 4 = 24\n- 6 × 5 = 30\n- 6 × 6 = 36\n- 6 × 7 = 42\n- 6 × 8 = 48\n- 6 × 9 = 54\n- 6 × 10 = 60\n\nCada resultado es 6 más que el anterior.\n\n**Regla útil:** Es el doble de la tabla del 3: si 3 × 7 = 21, entonces 6 × 7 = 42.\n\nEl orden no cambia el resultado: 6 × 3 da lo mismo que 3 × 6. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** cuenta los huevos de 3 cajas de media docena.",
 "truco": "Con número par, el resultado termina en ese número: 6 × 4 = 24.",
 "practica": {
 "ejercicio": "¿Cuánto es 6 × 7?",
@@ -231,7 +231,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 7 es contar grupos de 7. En lugar de sumar 7 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 7 son los resultados de multiplicar 7 por cada número del 1 al 10.\n\nLa tabla del 7:\n\n- 7 × 1 = 7\n- 7 × 2 = 14\n- 7 × 3 = 21\n- 7 × 4 = 28\n- 7 × 5 = 35\n- 7 × 6 = 42\n- 7 × 7 = 49\n- 7 × 8 = 56\n- 7 × 9 = 63\n- 7 × 10 = 70\n\nCada resultado es 7 más que el anterior.\n\n**Regla útil:** Apóyate en lo que sabes: 7 × 6 = 7 × 5 + 7 = 35 + 7 = 42.\n\nEl orden no cambia el resultado: 7 × 3 da lo mismo que 3 × 7. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 7 son los resultados de multiplicar 7 por cada número del 1 al 10.\n\nLa tabla del 7:\n\n- 7 × 1 = 7\n- 7 × 2 = 14\n- 7 × 3 = 21\n- 7 × 4 = 28\n- 7 × 5 = 35\n- 7 × 6 = 42\n- 7 × 7 = 49\n- 7 × 8 = 56\n- 7 × 9 = 63\n- 7 × 10 = 70\n\nCada resultado es 7 más que el anterior.\n\n**Regla útil:** Apóyate en lo que sabes: 7 × 6 = 7 × 5 + 7 = 35 + 7 = 42.\n\nEl orden no cambia el resultado: 7 × 3 da lo mismo que 3 × 7. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** calcula los días de 3 semanas.",
 "truco": "Canta 7 × 8 = 56 como cinco, seis, siete, ocho: 56 = 7 × 8.",
 "practica": {
 "ejercicio": "¿Cuánto es 7 × 4?",
@@ -275,7 +275,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 8 es contar grupos de 8. En lugar de sumar 8 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 8 son los resultados de multiplicar 8 por cada número del 1 al 10. Multiplicar por 8 es sacar el doble de la tabla del 4.\n\nLa tabla del 8:\n\n- 8 × 1 = 8\n- 8 × 2 = 16\n- 8 × 3 = 24\n- 8 × 4 = 32\n- 8 × 5 = 40\n- 8 × 6 = 48\n- 8 × 7 = 56\n- 8 × 8 = 64\n- 8 × 9 = 72\n- 8 × 10 = 80\n\nCada resultado es 8 más que el anterior.\n\n**Regla útil:** Es el doble de la tabla del 4: si 4 × 7 = 28, entonces 8 × 7 = 56.\n\nEl orden no cambia el resultado: 8 × 3 da lo mismo que 3 × 8. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 8 son los resultados de multiplicar 8 por cada número del 1 al 10. Multiplicar por 8 es sacar el doble de la tabla del 4.\n\nLa tabla del 8:\n\n- 8 × 1 = 8\n- 8 × 2 = 16\n- 8 × 3 = 24\n- 8 × 4 = 32\n- 8 × 5 = 40\n- 8 × 6 = 48\n- 8 × 7 = 56\n- 8 × 8 = 64\n- 8 × 9 = 72\n- 8 × 10 = 80\n\nCada resultado es 8 más que el anterior.\n\n**Regla útil:** Es el doble de la tabla del 4: si 4 × 7 = 28, entonces 8 × 7 = 56.\n\nEl orden no cambia el resultado: 8 × 3 da lo mismo que 3 × 8. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** cuenta las patas de 3 arañas dibujadas.",
 "truco": "Es el doble del doble del doble: 8 × 3 → 6 → 12 → 24.",
 "practica": {
 "ejercicio": "¿Cuánto es 8 × 8?",
@@ -319,7 +319,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar por 9 es contar grupos de 9. En lugar de sumar 9 muchas veces, la tabla te guarda los resultados para usarlos cuando quieras.",
-"pizarron": "**Qué es:** la tabla del 9 son los resultados de multiplicar 9 por cada número del 1 al 10. Las cifras de cada resultado suman 9.\n\nLa tabla del 9:\n\n- 9 × 1 = 9\n- 9 × 2 = 18\n- 9 × 3 = 27\n- 9 × 4 = 36\n- 9 × 5 = 45\n- 9 × 6 = 54\n- 9 × 7 = 63\n- 9 × 8 = 72\n- 9 × 9 = 81\n- 9 × 10 = 90\n\nCada resultado es 9 más que el anterior.\n\n**Regla útil:** Las cifras del resultado suman 9, y la primera cifra es una menos que el número: 9 × 7 = 63.\n\nEl orden no cambia el resultado: 9 × 3 da lo mismo que 3 × 9. Por eso, si ya te sabes otra tabla, también te sirve para esta.",
+"pizarron": "**Qué es:** la tabla del 9 son los resultados de multiplicar 9 por cada número del 1 al 10. Las cifras de cada resultado suman 9.\n\nLa tabla del 9:\n\n- 9 × 1 = 9\n- 9 × 2 = 18\n- 9 × 3 = 27\n- 9 × 4 = 36\n- 9 × 5 = 45\n- 9 × 6 = 54\n- 9 × 7 = 63\n- 9 × 8 = 72\n- 9 × 9 = 81\n- 9 × 10 = 90\n\nCada resultado es 9 más que el anterior.\n\n**Regla útil:** Las cifras del resultado suman 9, y la primera cifra es una menos que el número: 9 × 7 = 63.\n\nEl orden no cambia el resultado: 9 × 3 da lo mismo que 3 × 9. Por eso, si ya te sabes otra tabla, también te sirve para esta.\n\n**Para tu escuela:** usa tus dedos para encontrar $9 \\times 4$.",
 "truco": "Baja un dedo por el número: a la izquierda quedan decenas y a la derecha unidades.",
 "practica": {
 "ejercicio": "¿Cuánto es 9 × 7?",

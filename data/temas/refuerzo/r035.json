@@ -1,612 +1,612 @@
 [
-  {
-    "nodo_id": "ems-050",
-    "titulo": "Ley de Charles",
-    "slug": "ley-de-charles-prepa",
-    "palabras": [
-      "Charles",
-      "volumen",
-      "temperatura",
-      "gases",
-      "kelvin"
-    ],
-    "contenido": {
-      "idea": "Un globo inflado se desinfla un poco en el refrigerador y se recupera al sacarlo. El calor hace que el gas ocupe más espacio.",
-      "pizarron": "**La ley:** a presión constante, el volumen de un gas crece con la temperatura: $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$.\n\nA **presión constante**, volumen y temperatura absoluta son directamente proporcionales.\n\n$$\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$$\n\nLa temperatura debe ir en **kelvin**: $K = °C + 273$.\n\nEjemplo: 2 L a 27 °C se calientan a 327 °C.\n\n- $T_1 = 300$ K\n- $T_2 = 600$ K\n\n$$V_2 = \\frac{2 \\times 600}{300} = 4 \\text{ L}$$\n\nDuplicar los kelvin duplica el volumen; duplicar los °C no.",
-      "truco": "Más calor, más volumen, siempre en kelvin.",
-      "practica": {
-        "ejercicio": "3 L a 300 K pasan a 400 K. ¿Volumen?",
-        "respuesta": "4 L"
-      },
-      "analogias": [
-        {
-          "titulo": "El globo y el refri",
-          "texto": "Al enfriarse, las partículas chocan con menos fuerza y el globo se encoge."
-        },
-        {
-          "titulo": "Globo aerostático",
-          "texto": "Calentar el aire lo expande y lo vuelve menos denso, y por eso el globo sube."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "6 L a 600 K bajan a 300 K. ¿Volumen?",
-          "respuesta": "3 L"
-        },
-        {
-          "ejercicio": "Convierte 25 °C a K.",
-          "respuesta": "298 K"
-        },
-        {
-          "ejercicio": "¿Qué se mantiene constante?",
-          "respuesta": "La presión."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-050",
-    "titulo": "Ley de Gay-Lussac",
-    "slug": "ley-de-gay-lussac-prepa",
-    "palabras": [
-      "Gay-Lussac",
-      "presión",
-      "temperatura",
-      "volumen constante"
-    ],
-    "contenido": {
-      "idea": "Una olla exprés cerrada sube su presión al calentarse. El gas no puede crecer, así que empuja más fuerte.",
-      "pizarron": "**La ley:** a volumen constante, la presión de un gas crece con la temperatura: $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$.\n\nA **volumen constante**, presión y temperatura absoluta son directamente proporcionales.\n\n$$\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$$\n\nEjemplo: gas a 2 atm y 300 K se calienta a 450 K.\n\n$$P_2 = \\frac{2 \\times 450}{300} = 3 \\text{ atm}$$\n\nPor eso no se deben calentar latas de aerosol: pueden estallar.\n\n**Ley combinada**:\n\n$$\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$$",
-      "truco": "Recipiente cerrado: más calor, más presión.",
-      "practica": {
-        "ejercicio": "1 atm a 300 K pasa a 600 K. ¿Presión?",
-        "respuesta": "2 atm"
-      },
-      "analogias": [
-        {
-          "titulo": "La olla exprés",
-          "texto": "La tapa impide que crezca el volumen, y la presión sube mucho."
-        },
-        {
-          "titulo": "Las llantas en verano",
-          "texto": "Tras rodar y calentarse, las llantas marcan más presión."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "3 atm a 400 K bajan a 200 K. ¿Presión?",
-          "respuesta": "1.5 atm"
-        },
-        {
-          "ejercicio": "¿Qué se mantiene constante?",
-          "respuesta": "El volumen."
-        },
-        {
-          "ejercicio": "Ley combinada: 1 atm, 2 L, 300 K a 2 atm y 600 K. ¿Volumen?",
-          "respuesta": "2 L"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-050",
-    "titulo": "Ecuación del gas ideal",
-    "slug": "ecuacion-del-gas-ideal-prepa",
-    "palabras": [
-      "gas ideal",
-      "PV = nRT",
-      "constante R",
-      "moles"
-    ],
-    "contenido": {
-      "idea": "Una sola ecuación junta presión, volumen, temperatura y cantidad de gas. Con tres datos conoces el cuarto.",
-      "pizarron": "**La ley:** $PV = nRT$ relaciona presión, volumen, moles y temperatura.\n\n$$PV = nRT$$\n\ndonde:\n\n- $P$ en atm\n- $V$ en L\n- $n$ en mol\n- $T$ en K\n- $R = 0.082$ atm·L/(mol·K)\n\nEjemplo: 2 mol a 300 K y 1 atm.\n\n$$V = \\frac{nRT}{P} = \\frac{2 \\times 0.082 \\times 300}{1} = 49.2 \\text{ L}$$\n\nEn condiciones normales (0 °C, 1 atm), 1 mol ocupa cerca de 22.4 L.\n\nLas unidades deben coincidir con las de $R$.",
-      "truco": "Revisa unidades antes de sustituir.",
-      "practica": {
-        "ejercicio": "1 mol a 273 K y 1 atm. ¿Volumen?",
-        "respuesta": "22.4 L aproximadamente."
-      },
-      "analogias": [
-        {
-          "titulo": "El tablero de control",
-          "texto": "Cuatro perillas conectadas: mover una exige ajustar otra."
-        },
-        {
-          "titulo": "La fórmula maestra",
-          "texto": "Las leyes anteriores son casos especiales de esta."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "$P$ de 1 mol en 10 L a 300 K.",
-          "respuesta": "2.46 atm"
-        },
-        {
-          "ejercicio": "$n$ con 2 atm, 12.3 L y 300 K.",
-          "respuesta": "1 mol"
-        },
-        {
-          "ejercicio": "¿En qué unidad va la temperatura?",
-          "respuesta": "En kelvin."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-060",
-    "titulo": "Síntesis y descomposición",
-    "slug": "sintesis-y-descomposicion-prepa",
-    "palabras": [
-      "síntesis",
-      "descomposición",
-      "tipos de reacción"
-    ],
-    "contenido": {
-      "idea": "Dos piezas de rompecabezas se unen en una: síntesis. Una pieza se rompe en dos: descomposición. Son opuestas.",
-      "pizarron": "**Qué es:** en la síntesis dos sustancias forman una; en la descomposición una se parte en varias.\n\n**Síntesis**: dos o más sustancias forman una.\n\n$$\\ce{A + B -> AB}$$\n\nEjemplo: $\\ce{2Mg + O2 -> 2MgO}$\n\n**Descomposición**: una sustancia se separa.\n\n$$\\ce{AB -> A + B}$$\n\nEjemplos:\n\n- $\\ce{2H2O2 -> 2H2O + O2}$\n- $\\ce{CaCO3 -> CaO + CO2}$\n\nLa descomposición suele necesitar energía, como calor o electricidad.",
-      "truco": "Síntesis junta; descomposición separa.",
-      "practica": {
-        "ejercicio": "¿Qué tipo es $\\ce{2H2 + O2 -> 2H2O}$?",
-        "respuesta": "Síntesis."
-      },
-      "analogias": [
-        {
-          "titulo": "El rompecabezas",
-          "texto": "Unir piezas es síntesis; separarlas es descomposición."
-        },
-        {
-          "titulo": "La fruta madura",
-          "texto": "Con el tiempo, algo complejo se descompone en partes más simples."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tipo es $\\ce{2KClO3 -> 2KCl + 3O2}$?",
-          "respuesta": "Descomposición."
-        },
-        {
-          "ejercicio": "¿Qué tipo es $\\ce{N2 + 3H2 -> 2NH3}$?",
-          "respuesta": "Síntesis."
-        },
-        {
-          "ejercicio": "¿Qué suele necesitar la descomposición?",
-          "respuesta": "Energía."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-060",
-    "titulo": "Sustitución simple y doble",
-    "slug": "sustitucion-simple-y-doble-prepa",
-    "palabras": [
-      "sustitución",
-      "desplazamiento",
-      "doble sustitución",
-      "precipitado"
-    ],
-    "contenido": {
-      "idea": "En un baile, alguien llega y le quita la pareja a otro, o dos parejas se intercambian. Así reaccionan estos compuestos.",
-      "pizarron": "**Qué es:** en una sustitución, un elemento toma el lugar de otro; en la doble, dos compuestos intercambian partes.\n\n**Sustitución simple**: un elemento desplaza a otro.\n\n$$\\ce{A + BC -> AC + B}$$\n\n$$\\ce{Zn + 2HCl -> ZnCl2 + H2}$$\n\nDepende de la **serie de actividad**: el más activo desplaza al menos activo.\n\n**Doble sustitución**: dos compuestos intercambian partes.\n\n$$\\ce{AB + CD -> AD + CB}$$\n\n$$\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$$\n\nSuele formarse un **precipitado**, un gas o agua.\n\nNeutralización: $\\ce{HCl + NaOH -> NaCl + H2O}$.\n\n**Para recordar:**\n- **Precipitado:** Un sólido que se forma en la disolución.",
-      "truco": "Simple: uno entra y otro sale. Doble: se cambian.",
-      "practica": {
-        "ejercicio": "Clasifica $\\ce{Fe + CuSO4 -> FeSO4 + Cu}$.",
-        "respuesta": "Sustitución simple."
-      },
-      "analogias": [
-        {
-          "titulo": "El baile",
-          "texto": "Uno quita pareja en la simple; en la doble, dos parejas se intercambian."
-        },
-        {
-          "titulo": "El cambio de equipos",
-          "texto": "Un jugador nuevo reemplaza a otro, o dos equipos cambian jugadores."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Clasifica $\\ce{BaCl2 + Na2SO4 -> BaSO4 + 2NaCl}$.",
-          "respuesta": "Doble sustitución."
-        },
-        {
-          "ejercicio": "¿Qué es un precipitado?",
-          "respuesta": "Un sólido que se forma en la disolución."
-        },
-        {
-          "ejercicio": "¿Puede Cu desplazar a Zn?",
-          "respuesta": "No, porque el cobre es menos activo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-060",
-    "titulo": "Combustión",
-    "slug": "combustion-prepa",
-    "palabras": [
-      "combustión",
-      "oxígeno",
-      "CO2",
-      "hidrocarburos"
-    ],
-    "contenido": {
-      "idea": "El fuego de la estufa convierte gas y oxígeno en dióxido de carbono, agua y calor. Es una de las reacciones que más usamos.",
-      "pizarron": "**Qué es:** la combustión es una reacción con oxígeno que libera energía como calor y luz.\n\n**Combustión completa** de un hidrocarburo:\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\nProduce $\\ce{CO2}$, $\\ce{H2O}$ y energía.\n\n**Combustión incompleta**, por falta de oxígeno:\n\n$$\\ce{2CH4 + 3O2 -> 2CO + 4H2O}$$\n\nProduce monóxido de carbono, un gas tóxico.\n\nPor eso se debe ventilar al usar boiler o calentador.\n\nLlama azul: buena combustión. Amarilla: incompleta.\n\nEs exotérmica.\n\n**Para recordar:**\n- **¿Por qué es peligroso el CO?** Porque es tóxico e inodoro.",
-      "truco": "Mucho oxígeno, CO2. Poco oxígeno, CO peligroso.",
-      "practica": {
-        "ejercicio": "Productos de combustión completa de $\\ce{C2H6}$.",
-        "respuesta": "$\\ce{CO2}$ y $\\ce{H2O}$."
-      },
-      "analogias": [
-        {
-          "titulo": "La fogata",
-          "texto": "Sin aire, el fuego se apaga o echa humo, señal de mala combustión."
-        },
-        {
-          "titulo": "El motor",
-          "texto": "Los coches queman gasolina y liberan $\\ce{CO2}$ y agua."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Balancea $\\ce{C3H8 + O2 -> CO2 + H2O}$.",
-          "respuesta": "$\\ce{C3H8 + 5O2 -> 3CO2 + 4H2O}$"
-        },
-        {
-          "ejercicio": "¿Por qué es peligroso el CO?",
-          "respuesta": "Porque es tóxico e inodoro."
-        },
-        {
-          "ejercicio": "¿La combustión es exotérmica?",
-          "respuesta": "Sí."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Mol y conversión de gramos a moles",
-    "slug": "mol-y-conversion-de-gramos-a-moles-prepa",
-    "palabras": [
-      "conversión",
-      "gramos",
-      "moles",
-      "estequiometría"
-    ],
-    "contenido": {
-      "idea": "La báscula habla en gramos y las reacciones hablan en moles. Convertir es traducir entre ambos idiomas.",
-      "pizarron": "**La regla:** moles es gramos entre masa molar: $n = \\frac{m}{M}$.\n\n$$n = \\frac{m}{M}$$\n\nEjemplos:\n\n- 44 g de $\\ce{CO2}$ ($M = 44$): 1 mol.\n- 9 g de $\\ce{H2O}$: 0.5 mol.\n- 3 mol de $\\ce{NaCl}$: $3 \\times 58.5 = 175.5$ g.\n\nCadena completa:\n\n$$\\text{gramos} \\leftrightarrow \\text{moles} \\leftrightarrow \\text{partículas}$$\n\nEjemplo: partículas en 18 g de agua.\n\n- 1 mol.\n- $6.022 \\times 10^{23}$ moléculas.\n\nEl mol siempre es el paso central.",
-      "truco": "Mol es el puente.",
-      "practica": {
-        "ejercicio": "¿Cuántos moles son 100 g de $\\ce{CaCO3}$ ($M = 100$)?",
-        "respuesta": "1 mol"
-      },
-      "analogias": [
-        {
-          "titulo": "El puente",
-          "texto": "Para ir de gramos a partículas, cruzas siempre por el mol."
-        },
-        {
-          "titulo": "Traducción",
-          "texto": "Como una traductora entre dos idiomas, el mol conecta lo que mides con lo que reacciona."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Gramos de 0.25 mol de NaOH (40).",
-          "respuesta": "10 g"
-        },
-        {
-          "ejercicio": "Moles en 80 g de $\\ce{O2}$ (32).",
-          "respuesta": "2.5 mol"
-        },
-        {
-          "ejercicio": "Moléculas en 2 mol de $\\ce{N2}$.",
-          "respuesta": "$1.204 \\times 10^{24}$"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Composición porcentual",
-    "slug": "composicion-porcentual-prepa",
-    "palabras": [
-      "composición porcentual",
-      "porcentaje en masa",
-      "fórmula"
-    ],
-    "contenido": {
-      "idea": "Una etiqueta dice qué parte de la comida es grasa o azúcar. La composición porcentual dice qué parte del compuesto es cada elemento.",
-      "pizarron": "**La regla:** es la masa de cada elemento entre la masa del compuesto, por 100.\n\n$$\\%X = \\frac{\\text{masa de } X \\text{ en la fórmula}}{\\text{masa molar}} \\times 100$$\n\nEjemplo: $\\ce{H2O}$.\n\n- $M = 18$\n- %H = $\\frac{2}{18} \\times 100 = 11.1\\%$\n- %O = $\\frac{16}{18} \\times 100 = 88.9\\%$\n\nEjemplo: $\\ce{CO2}$.\n\n- %C = $\\frac{12}{44} \\times 100 = 27.3\\%$\n- %O = 72.7 %.\n\nLa suma debe dar 100 %.\n\nÚtil en fertilizantes y análisis de minerales.",
-      "truco": "Parte entre masa molar, por cien.",
-      "practica": {
-        "ejercicio": "% de C en $\\ce{CH4}$.",
-        "respuesta": "75 %"
-      },
-      "analogias": [
-        {
-          "titulo": "La etiqueta",
-          "texto": "Indica qué porcentaje del alimento es cada nutriente."
-        },
-        {
-          "titulo": "El pastel por rebanadas",
-          "texto": "Cada elemento ocupa una rebanada según su masa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "% de Na en NaCl (23 y 35.5).",
-          "respuesta": "39.3 %"
-        },
-        {
-          "ejercicio": "% de N en $\\ce{NH3}$.",
-          "respuesta": "82.4 %"
-        },
-        {
-          "ejercicio": "¿Cuánto debe sumar el total?",
-          "respuesta": "100 %"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Fórmula empírica y molecular",
-    "slug": "formula-empirica-y-molecular-prepa",
-    "palabras": [
-      "fórmula empírica",
-      "fórmula molecular",
-      "proporción"
-    ],
-    "contenido": {
-      "idea": "La fórmula empírica es la receta reducida; la molecular es la receta real. $\\ce{CH2O}$ y $\\ce{C6H12O6}$ tienen la misma proporción.",
-      "pizarron": "**Qué es:** la fórmula empírica da la proporción más simple, y la molecular da los átomos reales.\n\n**Fórmula empírica**: proporción mínima.\n\nPasos con 40 % C, 6.7 % H, 53.3 % O:\n\n1. Supón 100 g.\n2. Moles: C 3.33, H 6.7, O 3.33.\n3. Divide entre el menor: 1, 2, 1.\n4. Empírica: $\\ce{CH2O}$.\n\n**Fórmula molecular**:\n\n$$k = \\frac{M_\\text{real}}{M_\\text{empírica}}$$\n\nSi $M = 180$ y $M_e = 30$, $k = 6$.\n\nMolecular: $\\ce{C6H12O6}$.\n\nSi sale 1.5, multiplica todo por 2.",
-      "truco": "Pasa a moles, divide entre el menor.",
-      "practica": {
-        "ejercicio": "Fórmula empírica de $\\ce{C2H6}$.",
-        "respuesta": "$\\ce{CH3}$"
-      },
-      "analogias": [
-        {
-          "titulo": "La receta reducida",
-          "texto": "Una receta para 2 mantiene las mismas proporciones que una para 12."
-        },
-        {
-          "titulo": "La fracción simplificada",
-          "texto": "6/12 y 1/2 valen lo mismo, y se puede regresar con un multiplicador."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Empírica de $\\ce{C6H6}$.",
-          "respuesta": "$\\ce{CH}$"
-        },
-        {
-          "ejercicio": "Empírica $\\ce{CH2}$, $M = 56$. Molecular.",
-          "respuesta": "$\\ce{C4H8}$"
-        },
-        {
-          "ejercicio": "Empírica $\\ce{NO2}$, $M = 92$. Molecular.",
-          "respuesta": "$\\ce{N2O4}$"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Cálculos mol a mol",
-    "slug": "calculos-mol-a-mol-prepa",
-    "palabras": [
-      "estequiometría",
-      "razón molar",
-      "coeficientes"
-    ],
-    "contenido": {
-      "idea": "Una receta dice 2 huevos por 1 taza. Si tienes 3 tazas, sabes cuántos huevos usar. Los coeficientes son esa receta.",
-      "pizarron": "**La regla:** los coeficientes de la ecuación dicen en qué proporción reaccionan los moles.\n\nLos coeficientes dan la **razón molar**.\n\n$$\\ce{N2 + 3H2 -> 2NH3}$$\n\nEjemplo: ¿cuántos moles de $\\ce{NH3}$ con 6 mol de $\\ce{H2}$?\n\n$$6 \\text{ mol } \\ce{H2} \\times \\frac{2 \\text{ mol } \\ce{NH3}}{3 \\text{ mol } \\ce{H2}} = 4 \\text{ mol}$$\n\nPasos:\n\n1. Balancea.\n2. Identifica lo que tienes y lo que buscas.\n3. Multiplica por la razón.\n\nPrimero balancea, o los números saldrán mal.",
-      "truco": "Lo que buscas arriba, lo que tienes abajo.",
-      "practica": {
-        "ejercicio": "$\\ce{2H2 + O2 -> 2H2O}$. Agua con 4 mol de $\\ce{H2}$.",
-        "respuesta": "4 mol"
-      },
-      "analogias": [
-        {
-          "titulo": "La receta",
-          "texto": "Si duplicas un ingrediente, duplicas el pastel."
-        },
-        {
-          "titulo": "Bicicletas y ruedas",
-          "texto": "Dos ruedas por cuadro: con 10 ruedas armas 5 bicicletas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "$\\ce{N2}$ necesario para 8 mol de $\\ce{NH3}$.",
-          "respuesta": "4 mol"
-        },
-        {
-          "ejercicio": "$\\ce{CH4 + 2O2}$: $\\ce{O2}$ para 3 mol de $\\ce{CH4}$.",
-          "respuesta": "6 mol"
-        },
-        {
-          "ejercicio": "¿Qué dan los coeficientes?",
-          "respuesta": "La razón molar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Cálculos masa a masa",
-    "slug": "calculos-masa-a-masa-prepa",
-    "palabras": [
-      "estequiometría",
-      "gramos",
-      "masa a masa"
-    ],
-    "contenido": {
-      "idea": "Una fábrica mide en kilos, pero las moléculas reaccionan por conteo. Para saber cuánto producto sale, se pasa por el mol.",
-      "pizarron": "**La regla:** pasa de gramos a moles, usa la proporción y regresa a gramos.\n\nRuta:\n\n$$\\text{g A} \\to \\text{mol A} \\to \\text{mol B} \\to \\text{g B}$$\n\nEjemplo: $\\ce{2H2 + O2 -> 2H2O}$. ¿Agua con 8 g de $\\ce{H2}$?\n\n1. $\\frac{8}{2} = 4$ mol $\\ce{H2}$.\n2. Razón 2:2: 4 mol $\\ce{H2O}$.\n3. $4 \\times 18 = 72$ g.\n\nEjemplo: $\\ce{CaCO3 -> CaO + CO2}$. ¿$\\ce{CO2}$ con 50 g de $\\ce{CaCO3}$?\n\n- 0.5 mol.\n- 0.5 mol $\\ce{CO2}$.\n- 22 g.",
-      "truco": "Gramos a moles, razón, moles a gramos.",
-      "practica": {
-        "ejercicio": "¿Cuánto $\\ce{CO2}$ dan 100 g de $\\ce{CaCO3}$?",
-        "respuesta": "44 g"
-      },
-      "analogias": [
-        {
-          "titulo": "El puente doble",
-          "texto": "Vas de una orilla a otra pasando por el mol."
-        },
-        {
-          "titulo": "Pedidos de cajas",
-          "texto": "Conviertes kilos a piezas para repartir, y luego a kilos otra vez."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "$\\ce{H2O}$ con 4 g de $\\ce{H2}$.",
-          "respuesta": "36 g"
-        },
-        {
-          "ejercicio": "$\\ce{O2}$ para 2 g de $\\ce{H2}$.",
-          "respuesta": "16 g"
-        },
-        {
-          "ejercicio": "$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$. $\\ce{CO2}$ con 16 g de $\\ce{CH4}$.",
-          "respuesta": "44 g"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Reactivo limitante",
-    "slug": "reactivo-limitante-prepa",
-    "palabras": [
-      "reactivo limitante",
-      "exceso",
-      "estequiometría"
-    ],
-    "contenido": {
-      "idea": "Con 10 panes y 3 rebanadas de jamón solo haces 3 tortas. El jamón limita, aunque sobre pan.",
-      "pizarron": "**Qué es:** el reactivo limitante es el que se acaba primero y detiene la reacción.\n\nEl **reactivo limitante** se acaba primero y determina cuánto producto sale.\n\nEjemplo: $\\ce{2H2 + O2 -> 2H2O}$ con 4 mol $\\ce{H2}$ y 3 mol $\\ce{O2}$.\n\n1. Calcula qué necesita: 4 mol $\\ce{H2}$ requieren 2 mol $\\ce{O2}$.\n2. Hay 3 mol $\\ce{O2}$: sobra 1.\n3. Limitante: $\\ce{H2}$.\n4. Producto: 4 mol $\\ce{H2O}$.\n\nMétodo rápido: divide moles entre coeficiente; el menor es el limitante.\n\n- $\\ce{H2}$: 4/2 = 2\n- $\\ce{O2}$: 3/1 = 3",
-      "truco": "Divide moles entre coeficiente: gana el menor.",
-      "practica": {
-        "ejercicio": "$\\ce{N2 + 3H2}$ con 2 mol $\\ce{N2}$ y 3 mol $\\ce{H2}$. ¿Limitante?",
-        "respuesta": "$\\ce{H2}$"
-      },
-      "analogias": [
-        {
-          "titulo": "Tortas de jamón",
-          "texto": "Lo primero que se acaba decide cuántas tortas salen."
-        },
-        {
-          "titulo": "Bicis",
-          "texto": "Con muchas ruedas y pocos cuadros, los cuadros limitan."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "$\\ce{2Na + Cl2}$ con 4 mol Na y 1 mol $\\ce{Cl2}$. ¿Limitante?",
-          "respuesta": "$\\ce{Cl2}$"
-        },
-        {
-          "ejercicio": "Con el anterior, ¿moles de NaCl?",
-          "respuesta": "2 mol"
-        },
-        {
-          "ejercicio": "¿Qué significa reactivo en exceso?",
-          "respuesta": "Que sobra."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Rendimiento de una reacción",
-    "slug": "rendimiento-de-una-reaccion-prepa",
-    "palabras": [
-      "rendimiento",
-      "teórico",
-      "real",
-      "porcentaje"
-    ],
-    "contenido": {
-      "idea": "En papel, una receta rinde 20 galletas, pero en la realidad algunas se rompen. El rendimiento compara lo real con lo esperado.",
-      "pizarron": "**La regla:** rendimiento es lo obtenido entre lo esperado, por 100.\n\n$$\\% \\text{rendimiento} = \\frac{\\text{real}}{\\text{teórico}} \\times 100$$\n\n- **Teórico**: lo calculado.\n- **Real**: lo obtenido.\n\nEjemplo: se esperan 72 g y se obtienen 54 g.\n\n$$\\frac{54}{72} \\times 100 = 75\\%$$\n\nCausas de pérdida:\n\n- Reacción incompleta.\n- Reacciones secundarias.\n- Pérdidas al filtrar.\n\nEjemplo inverso: 90 % de 40 g teóricos: 36 g reales.",
-      "truco": "Real entre teórico, por cien.",
-      "practica": {
-        "ejercicio": "Teórico 50 g, real 40 g.",
-        "respuesta": "80 %"
-      },
-      "analogias": [
-        {
-          "titulo": "Las galletas",
-          "texto": "Algo siempre se queda en el molde; por eso rindes menos que lo prometido."
-        },
-        {
-          "titulo": "La calificación",
-          "texto": "Lo que lograste entre lo posible: es un porcentaje de cumplimiento."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Teórico 200 g y 85 %. ¿Real?",
-          "respuesta": "170 g"
-        },
-        {
-          "ejercicio": "Real 15 g, teórico 20 g.",
-          "respuesta": "75 %"
-        },
-        {
-          "ejercicio": "¿Puede ser mayor a 100 %?",
-          "respuesta": "Normalmente no; si pasa, hay impurezas o errores."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-061",
-    "titulo": "Balanceo algebraico",
-    "slug": "balanceo-algebraico-prepa",
-    "palabras": [
-      "balanceo",
-      "método algebraico",
-      "sistema de ecuaciones"
-    ],
-    "contenido": {
-      "idea": "Cuando tantear no alcanza, pones letras en lugar de coeficientes y resuelves. Es química con álgebra.",
-      "pizarron": "**La regla:** asigna una letra a cada coeficiente y plantea una ecuación por elemento.\n\nEjemplo: $\\ce{KClO3 -> KCl + O2}$.\n\n1. Asigna letras:\n\n$$a\\ce{KClO3} \\to b\\ce{KCl} + c\\ce{O2}$$\n\n2. Ecuación por elemento:\n\n- K: $a = b$\n- Cl: $a = b$\n- O: $3a = 2c$\n\n3. Da un valor, $a = 2$:\n\n- $b = 2$\n- $c = 3$\n\n$$\\ce{2KClO3 -> 2KCl + 3O2}$$\n\nDa $a = 1$ si quieres, y luego quita fracciones multiplicando.\n\nEs útil en ecuaciones grandes.",
-      "truco": "Letra por compuesto, ecuación por elemento.",
-      "practica": {
-        "ejercicio": "Balancea $\\ce{H2 + O2 -> H2O}$ con letras.",
-        "respuesta": "$a = 2$, $b = 1$, $c = 2$."
-      },
-      "analogias": [
-        {
-          "titulo": "Un sudoku",
-          "texto": "Cada elemento da una pista hasta que todo encaja."
-        },
-        {
-          "titulo": "Sistema de ecuaciones",
-          "texto": "Es el mismo método de matemáticas aplicado a átomos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Balancea $\\ce{Al + O2 -> Al2O3}$.",
-          "respuesta": "$\\ce{4Al + 3O2 -> 2Al2O3}$"
-        },
-        {
-          "ejercicio": "Balancea $\\ce{C2H6 + O2 -> CO2 + H2O}$.",
-          "respuesta": "$\\ce{2C2H6 + 7O2 -> 4CO2 + 6H2O}$"
-        },
-        {
-          "ejercicio": "Balancea $\\ce{NH3 + O2 -> NO + H2O}$.",
-          "respuesta": "$\\ce{4NH3 + 5O2 -> 4NO + 6H2O}$"
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-050",
+"titulo": "Ley de Charles",
+"slug": "ley-de-charles-prepa",
+"palabras": [
+"Charles",
+"volumen",
+"temperatura",
+"gases",
+"kelvin"
+],
+"contenido": {
+"idea": "Un globo inflado se desinfla un poco en el refrigerador y se recupera al sacarlo. El calor hace que el gas ocupe más espacio.",
+"pizarron": "**La ley:** a presión constante, el volumen de un gas crece con la temperatura: $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$.\n\n**Imagínalo:** un globo en el sol crece. En el refrigerador se encoge.\n\n**En palabras:** volumen entre temperatura da lo mismo antes y después.\n\n**La temperatura va en kelvin:** suma 273 a los grados Celsius.\n\n**Ejemplo:** 2 L a 300 K se calientan a 600 K. La temperatura se duplica, y el volumen también.\n\n$$V_2 = \\frac{2 \\times 600}{300} = 4 \\text{ L}$$\n\n**Para tu escuela:** pon un globo en el refrigerador y mira si cambia.",
+"truco": "Más calor, más volumen, siempre en kelvin.",
+"practica": {
+"ejercicio": "3 L a 300 K pasan a 400 K. ¿Volumen?",
+"respuesta": "4 L"
+},
+"analogias": [
+{
+"titulo": "El globo y el refri",
+"texto": "Al enfriarse, las partículas chocan con menos fuerza y el globo se encoge."
+},
+{
+"titulo": "Globo aerostático",
+"texto": "Calentar el aire lo expande y lo vuelve menos denso, y por eso el globo sube."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "6 L a 600 K bajan a 300 K. ¿Volumen?",
+"respuesta": "3 L"
+},
+{
+"ejercicio": "Convierte 25 °C a K.",
+"respuesta": "298 K"
+},
+{
+"ejercicio": "¿Qué se mantiene constante?",
+"respuesta": "La presión."
+}
+]
+}
+},
+{
+"nodo_id": "ems-050",
+"titulo": "Ley de Gay-Lussac",
+"slug": "ley-de-gay-lussac-prepa",
+"palabras": [
+"Gay-Lussac",
+"presión",
+"temperatura",
+"volumen constante"
+],
+"contenido": {
+"idea": "Una olla exprés cerrada sube su presión al calentarse. El gas no puede crecer, así que empuja más fuerte.",
+"pizarron": "**La ley:** a volumen constante, la presión de un gas crece con la temperatura: $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$.\n\n**Imagínalo:** en una olla cerrada, el calor agita al gas. Sus partículas pegan más fuerte contra las paredes.\n\n**En palabras:** presión entre temperatura da lo mismo antes y después. La temperatura va en kelvin.\n\n**Ejemplo:** 2 atm a 300 K se calienta a 450 K.\n\n$$P_2 = \\frac{2 \\times 450}{300} = 3 \\text{ atm}$$\n\nPor eso una lata de aerosol no se calienta nunca: puede estallar.\n\n**Ley combinada:**\n\n$$\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$$\n\n**En palabras:** presión por volumen entre temperatura no cambia.\n\n**Para tu escuela:** explica por qué las llantas se inflan más con calor.",
+"truco": "Recipiente cerrado: más calor, más presión.",
+"practica": {
+"ejercicio": "1 atm a 300 K pasa a 600 K. ¿Presión?",
+"respuesta": "2 atm"
+},
+"analogias": [
+{
+"titulo": "La olla exprés",
+"texto": "La tapa impide que crezca el volumen, y la presión sube mucho."
+},
+{
+"titulo": "Las llantas en verano",
+"texto": "Tras rodar y calentarse, las llantas marcan más presión."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "3 atm a 400 K bajan a 200 K. ¿Presión?",
+"respuesta": "1.5 atm"
+},
+{
+"ejercicio": "¿Qué se mantiene constante?",
+"respuesta": "El volumen."
+},
+{
+"ejercicio": "Ley combinada: 1 atm, 2 L, 300 K a 2 atm y 600 K. ¿Volumen?",
+"respuesta": "2 L"
+}
+]
+}
+},
+{
+"nodo_id": "ems-050",
+"titulo": "Ecuación del gas ideal",
+"slug": "ecuacion-del-gas-ideal-prepa",
+"palabras": [
+"gas ideal",
+"PV = nRT",
+"constante R",
+"moles"
+],
+"contenido": {
+"idea": "Una sola ecuación junta presión, volumen, temperatura y cantidad de gas. Con tres datos conoces el cuarto.",
+"pizarron": "**La ley:** $PV = nRT$ relaciona presión, volumen, moles y temperatura.\n\n**Imagínalo:** un globo. Con más aire crece. Si lo calientas, crece. Si lo aprietas, se hace chico.\n\n**En palabras:** $P$ es qué tan fuerte empuja el gas. $V$ es su lugar. $n$ es cuánto gas hay. $T$ es su temperatura.\n\n**Unidades:** $P$ en atm, $V$ en L, $n$ en mol y $T$ en kelvin. Usa $R = 0.082$.\n\n**Para despejar:**\n\n- $V = \\frac{nRT}{P}$\n- $P = \\frac{nRT}{V}$\n- $n = \\frac{PV}{RT}$\n\n**Ejemplo:** 2 mol a 300 K y 1 atm.\n\n$$V = \\frac{2 \\times 0.082 \\times 300}{1} = 49.2 \\text{ L}$$\n\n**Para tu escuela:** pon un globo cerca de agua tibia y di qué le pasa.",
+"truco": "Revisa unidades antes de sustituir.",
+"practica": {
+"ejercicio": "1 mol a 273 K y 1 atm. ¿Volumen?",
+"respuesta": "22.4 L aproximadamente."
+},
+"analogias": [
+{
+"titulo": "El tablero de control",
+"texto": "Cuatro perillas conectadas: mover una exige ajustar otra."
+},
+{
+"titulo": "La fórmula maestra",
+"texto": "Las leyes anteriores son casos especiales de esta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$P$ de 1 mol en 10 L a 300 K.",
+"respuesta": "2.46 atm"
+},
+{
+"ejercicio": "$n$ con 2 atm, 12.3 L y 300 K.",
+"respuesta": "1 mol"
+},
+{
+"ejercicio": "¿En qué unidad va la temperatura?",
+"respuesta": "En kelvin."
+}
+]
+}
+},
+{
+"nodo_id": "ems-060",
+"titulo": "Síntesis y descomposición",
+"slug": "sintesis-y-descomposicion-prepa",
+"palabras": [
+"síntesis",
+"descomposición",
+"tipos de reacción"
+],
+"contenido": {
+"idea": "Dos piezas de rompecabezas se unen en una: síntesis. Una pieza se rompe en dos: descomposición. Son opuestas.",
+"pizarron": "**Qué es:** en la síntesis dos sustancias forman una; en la descomposición una se parte en varias.\n\n**Imagínalo:** síntesis es armar un Lego. Descomposición es desarmarlo.\n\n**Síntesis:** $\\ce{A + B -> AB}$. **En palabras:** a la izquierda hay varias y a la derecha una. Ejemplo: $\\ce{2Mg + O2 -> 2MgO}$.\n\n**Descomposición:** $\\ce{AB -> A + B}$. **En palabras:** a la izquierda hay una y a la derecha varias. Ejemplo: $\\ce{CaCO3 -> CaO + CO2}$.\n\nLa descomposición suele necesitar energía, como calor o electricidad.\n\n**Para tu escuela:** cuenta cuántas sustancias hay de cada lado en dos reacciones de tu libro.",
+"truco": "Síntesis junta; descomposición separa.",
+"practica": {
+"ejercicio": "¿Qué tipo es $\\ce{2H2 + O2 -> 2H2O}$?",
+"respuesta": "Síntesis."
+},
+"analogias": [
+{
+"titulo": "El rompecabezas",
+"texto": "Unir piezas es síntesis; separarlas es descomposición."
+},
+{
+"titulo": "La fruta madura",
+"texto": "Con el tiempo, algo complejo se descompone en partes más simples."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo es $\\ce{2KClO3 -> 2KCl + 3O2}$?",
+"respuesta": "Descomposición."
+},
+{
+"ejercicio": "¿Qué tipo es $\\ce{N2 + 3H2 -> 2NH3}$?",
+"respuesta": "Síntesis."
+},
+{
+"ejercicio": "¿Qué suele necesitar la descomposición?",
+"respuesta": "Energía."
+}
+]
+}
+},
+{
+"nodo_id": "ems-060",
+"titulo": "Sustitución simple y doble",
+"slug": "sustitucion-simple-y-doble-prepa",
+"palabras": [
+"sustitución",
+"desplazamiento",
+"doble sustitución",
+"precipitado"
+],
+"contenido": {
+"idea": "En un baile, alguien llega y le quita la pareja a otro, o dos parejas se intercambian. Así reaccionan estos compuestos.",
+"pizarron": "**Qué es:** en una sustitución, un elemento toma el lugar de otro; en la doble, dos compuestos intercambian partes.\n\n**Imagínalo:** simple: alguien llega a un baile y le quita la pareja a otro. Doble: dos parejas se cambian.\n\n**Simple:** $\\ce{A + BC -> AC + B}$. Ejemplo: $\\ce{Zn + 2HCl -> ZnCl2 + H2}$.\n\nSolo pasa si el que llega es más activo. Zinc desplaza a cobre, pero cobre no desplaza a zinc.\n\n**Doble:** $\\ce{AB + CD -> AD + CB}$. Ejemplo: $\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$.\n\n**Precipitado:** en la doble suele aparecer un sólido en el líquido.\n\n**Para tu escuela:** representen las dos con cuatro compañeros.",
+"truco": "Simple: uno entra y otro sale. Doble: se cambian.",
+"practica": {
+"ejercicio": "Clasifica $\\ce{Fe + CuSO4 -> FeSO4 + Cu}$.",
+"respuesta": "Sustitución simple."
+},
+"analogias": [
+{
+"titulo": "El baile",
+"texto": "Uno quita pareja en la simple; en la doble, dos parejas se intercambian."
+},
+{
+"titulo": "El cambio de equipos",
+"texto": "Un jugador nuevo reemplaza a otro, o dos equipos cambian jugadores."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica $\\ce{BaCl2 + Na2SO4 -> BaSO4 + 2NaCl}$.",
+"respuesta": "Doble sustitución."
+},
+{
+"ejercicio": "¿Qué es un precipitado?",
+"respuesta": "Un sólido que se forma en la disolución."
+},
+{
+"ejercicio": "¿Puede Cu desplazar a Zn?",
+"respuesta": "No, porque el cobre es menos activo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-060",
+"titulo": "Combustión",
+"slug": "combustion-prepa",
+"palabras": [
+"combustión",
+"oxígeno",
+"CO2",
+"hidrocarburos"
+],
+"contenido": {
+"idea": "El fuego de la estufa convierte gas y oxígeno en dióxido de carbono, agua y calor. Es una de las reacciones que más usamos.",
+"pizarron": "**Qué es:** la combustión es una reacción con oxígeno que libera energía como calor y luz. Por liberar calor se llama exotérmica.\n\n**Imagínalo:** el fuego necesita respirar. Si tiene mucho oxígeno, quema limpio. Si tiene poco, hace un gas peligroso.\n\n**Completa:** con buen oxígeno, un combustible de carbono e hidrógeno da $\\ce{CO2}$ y agua. La llama es azul.\n\n$$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$$\n\n**En palabras:** metano y oxígeno dan dióxido de carbono y agua.\n\n**Para balancear:** iguala primero carbonos, luego hidrógenos y al final oxígenos.\n\n**Incompleta:** con poco oxígeno sale monóxido de carbono, CO. La llama es amarilla.\n\nEl CO es venenoso y no huele. Por eso hay que ventilar donde hay boiler.\n\n**Para tu escuela:** mira la llama de una estufa con un adulto y di de qué color es.",
+"truco": "Mucho oxígeno, CO2. Poco oxígeno, CO peligroso.",
+"practica": {
+"ejercicio": "Productos de combustión completa de $\\ce{C2H6}$.",
+"respuesta": "$\\ce{CO2}$ y $\\ce{H2O}$."
+},
+"analogias": [
+{
+"titulo": "La fogata",
+"texto": "Sin aire, el fuego se apaga o echa humo, señal de mala combustión."
+},
+{
+"titulo": "El motor",
+"texto": "Los coches queman gasolina y liberan $\\ce{CO2}$ y agua."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Balancea $\\ce{C3H8 + O2 -> CO2 + H2O}$.",
+"respuesta": "$\\ce{C3H8 + 5O2 -> 3CO2 + 4H2O}$"
+},
+{
+"ejercicio": "¿Por qué es peligroso el CO?",
+"respuesta": "Porque es tóxico e inodoro."
+},
+{
+"ejercicio": "¿La combustión es exotérmica?",
+"respuesta": "Sí."
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Mol y conversión de gramos a moles",
+"slug": "mol-y-conversion-de-gramos-a-moles-prepa",
+"palabras": [
+"conversión",
+"gramos",
+"moles",
+"estequiometría"
+],
+"contenido": {
+"idea": "La báscula habla en gramos y las reacciones hablan en moles. Convertir es traducir entre ambos idiomas.",
+"pizarron": "**La regla:** moles es gramos entre masa molar: $n = \\frac{m}{M}$.\n\n**Imagínalo:** los huevos se cuentan por docenas. Los átomos son tantos que se cuentan por moles. Un mol es $6.022 \\times 10^{23}$ cosas.\n\n**En palabras:** $M$ es cuánto pesa un mol.\n\n**De gramos a moles:** divide. 44 g de $\\ce{CO2}$ entre 44 dan 1 mol.\n\n**De moles a gramos:** multiplica. 3 mol de NaCl por 58.5 dan 175.5 g.\n\n**De moles a moléculas:** multiplica por $6.022 \\times 10^{23}$.\n\n3 mol son $18.066 \\times 10^{23}$, o sea $1.8066 \\times 10^{24}$.\n\n**Para tu escuela:** cuenta cuántas docenas hay en 60 huevos.",
+"truco": "Mol es el puente.",
+"practica": {
+"ejercicio": "¿Cuántos moles son 100 g de $\\ce{CaCO3}$ ($M = 100$)?",
+"respuesta": "1 mol"
+},
+"analogias": [
+{
+"titulo": "El puente",
+"texto": "Para ir de gramos a partículas, cruzas siempre por el mol."
+},
+{
+"titulo": "Traducción",
+"texto": "Como una traductora entre dos idiomas, el mol conecta lo que mides con lo que reacciona."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Gramos de 0.25 mol de NaOH (40).",
+"respuesta": "10 g"
+},
+{
+"ejercicio": "Moles en 80 g de $\\ce{O2}$ (32).",
+"respuesta": "2.5 mol"
+},
+{
+"ejercicio": "Moléculas en 2 mol de $\\ce{N2}$.",
+"respuesta": "$1.204 \\times 10^{24}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Composición porcentual",
+"slug": "composicion-porcentual-prepa",
+"palabras": [
+"composición porcentual",
+"porcentaje en masa",
+"fórmula"
+],
+"contenido": {
+"idea": "Una etiqueta dice qué parte de la comida es grasa o azúcar. La composición porcentual dice qué parte del compuesto es cada elemento.",
+"pizarron": "**La regla:** el porcentaje de un elemento es su masa entre la masa del compuesto, por 100.\n\n**Imagínalo:** un pastel de 10 rebanadas tiene 3 de chocolate. El chocolate es el $30\\%$.\n\n$$\\%X = \\frac{\\text{masa de } X}{\\text{masa total}} \\times 100$$\n\n**Pesos:** H 1, C 12, N 14, O 16.\n\n**Ejemplo:** agua, $\\ce{H2O}$. Pesa $2 + 16 = 18$.\n\n- Hidrógeno: $\\frac{2}{18} \\times 100 = 11.1\\%$.\n- Oxígeno: $\\frac{16}{18} \\times 100 = 88.9\\%$.\n\nTodas las partes deben sumar $100\\%$, como el pastel completo.\n\n**Para tu escuela:** calcula qué porcentaje de tu salón son niñas.",
+"truco": "Parte entre masa molar, por cien.",
+"practica": {
+"ejercicio": "% de C en $\\ce{CH4}$.",
+"respuesta": "75 %"
+},
+"analogias": [
+{
+"titulo": "La etiqueta",
+"texto": "Indica qué porcentaje del alimento es cada nutriente."
+},
+{
+"titulo": "El pastel por rebanadas",
+"texto": "Cada elemento ocupa una rebanada según su masa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "% de Na en NaCl (23 y 35.5).",
+"respuesta": "39.3 %"
+},
+{
+"ejercicio": "% de N en $\\ce{NH3}$.",
+"respuesta": "82.4 %"
+},
+{
+"ejercicio": "¿Cuánto debe sumar el total?",
+"respuesta": "100 %"
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Fórmula empírica y molecular",
+"slug": "formula-empirica-y-molecular-prepa",
+"palabras": [
+"fórmula empírica",
+"fórmula molecular",
+"proporción"
+],
+"contenido": {
+"idea": "La fórmula empírica es la receta reducida; la molecular es la receta real. $\\ce{CH2O}$ y $\\ce{C6H12O6}$ tienen la misma proporción.",
+"pizarron": "**Qué es:** la fórmula empírica da la proporción más simple, y la molecular da los átomos reales.\n\n**Imagínalo:** en tu salón hay 12 niñas y 6 niños. La proporción simple es 2 a 1. La cuenta real es 12 y 6.\n\n**De molecular a empírica:** divide todos los numeritos entre el mismo número. $\\ce{C2H4}$ entre 2 da $\\ce{CH2}$.\n\n**De empírica a molecular:**\n\n$$k = \\frac{M_\\text{real}}{M_\\text{empírica}}$$\n\n**En palabras:** $k$ dice cuántas veces cabe la simple en la real. Multiplica los numeritos por $k$.\n\n**Ejemplo:** $\\ce{CH2O}$ pesa 30 y la real pesa 180. $k = 6$, así que es $\\ce{C6H12O6}$.\n\n**Pesos:** H 1, C 12, N 14, O 16.\n\n**Desde porcentajes:** supón 100 g, pasa a moles y divide entre el más chico.\n\n**Para tu escuela:** escribe la proporción simple de niñas y niños de tu salón.",
+"truco": "Pasa a moles, divide entre el menor.",
+"practica": {
+"ejercicio": "Fórmula empírica de $\\ce{C2H6}$.",
+"respuesta": "$\\ce{CH3}$"
+},
+"analogias": [
+{
+"titulo": "La receta reducida",
+"texto": "Una receta para 2 mantiene las mismas proporciones que una para 12."
+},
+{
+"titulo": "La fracción simplificada",
+"texto": "6/12 y 1/2 valen lo mismo, y se puede regresar con un multiplicador."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Empírica de $\\ce{C6H6}$.",
+"respuesta": "$\\ce{CH}$"
+},
+{
+"ejercicio": "Empírica $\\ce{CH2}$, $M = 56$. Molecular.",
+"respuesta": "$\\ce{C4H8}$"
+},
+{
+"ejercicio": "Empírica $\\ce{NO2}$, $M = 92$. Molecular.",
+"respuesta": "$\\ce{N2O4}$"
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Cálculos mol a mol",
+"slug": "calculos-mol-a-mol-prepa",
+"palabras": [
+"estequiometría",
+"razón molar",
+"coeficientes"
+],
+"contenido": {
+"idea": "Una receta dice 2 huevos por 1 taza. Si tienes 3 tazas, sabes cuántos huevos usar. Los coeficientes son esa receta.",
+"pizarron": "**La regla:** los coeficientes de la ecuación dicen en qué proporción reaccionan los moles. Esa proporción se llama razón molar.\n\n**Imagínalo:** la receta dice *3 huevos por 2 pasteles*. Con 6 huevos haces 4 pasteles.\n\n$$\\ce{N2 + 3H2 -> 2NH3}$$\n\n**En palabras:** 1 de nitrógeno y 3 de hidrógeno dan 2 de amoniaco.\n\n**Pasos:**\n\n1. Revisa que esté balanceada.\n2. Ve lo que tienes y lo que buscas.\n3. Multiplica por lo que buscas y divide entre lo que tienes.\n\n**Ejemplo:** ¿cuánto $\\ce{NH3}$ sale con 6 moles de $\\ce{H2}$?\n\n$$6 \\times \\frac{2}{3} = 4 \\text{ moles}$$\n\n**Para tu escuela:** inventa una receta y calcula con el doble de ingredientes.",
+"truco": "Lo que buscas arriba, lo que tienes abajo.",
+"practica": {
+"ejercicio": "$\\ce{2H2 + O2 -> 2H2O}$. Agua con 4 mol de $\\ce{H2}$.",
+"respuesta": "4 mol"
+},
+"analogias": [
+{
+"titulo": "La receta",
+"texto": "Si duplicas un ingrediente, duplicas el pastel."
+},
+{
+"titulo": "Bicicletas y ruedas",
+"texto": "Dos ruedas por cuadro: con 10 ruedas armas 5 bicicletas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$\\ce{N2}$ necesario para 8 mol de $\\ce{NH3}$.",
+"respuesta": "4 mol"
+},
+{
+"ejercicio": "$\\ce{CH4 + 2O2}$: $\\ce{O2}$ para 3 mol de $\\ce{CH4}$.",
+"respuesta": "6 mol"
+},
+{
+"ejercicio": "¿Qué dan los coeficientes?",
+"respuesta": "La razón molar."
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Cálculos masa a masa",
+"slug": "calculos-masa-a-masa-prepa",
+"palabras": [
+"estequiometría",
+"gramos",
+"masa a masa"
+],
+"contenido": {
+"idea": "Una fábrica mide en kilos, pero las moléculas reaccionan por conteo. Para saber cuánto producto sale, se pasa por el mol.",
+"pizarron": "**La regla:** pasa de gramos a moles, usa la proporción de la ecuación y regresa a gramos.\n\n**Imagínalo:** una receta dice *por docena*, pero tú tienes kilos. Primero cuentas docenas, usas la receta y luego vuelves a pesar.\n\nUn mol es como una docena gigante de átomos.\n\n$$\\text{gramos} \\to \\text{moles} \\to \\text{moles} \\to \\text{gramos}$$\n\n**Pesos:** $\\ce{H2}$ pesa 2, $\\ce{O2}$ 32, $\\ce{H2O}$ 18, $\\ce{CH4}$ 16, $\\ce{CO2}$ 44 y $\\ce{CaCO3}$ 100 g/mol.\n\n**Ejemplo:** $\\ce{2H2 + O2 -> 2H2O}$. ¿Cuánta agua dan 6 g de $\\ce{H2}$?\n\n1. $6 \\div 2 = 3$ moles de $\\ce{H2}$.\n2. La ecuación dice 2 a 2. Salen 3 moles de agua.\n3. $3 \\times 18 = 54$ g de agua.\n\n**Para tu escuela:** explica la ruta con una receta de galletas.",
+"truco": "Gramos a moles, razón, moles a gramos.",
+"practica": {
+"ejercicio": "¿Cuánto $\\ce{CO2}$ dan 100 g de $\\ce{CaCO3}$?",
+"respuesta": "44 g"
+},
+"analogias": [
+{
+"titulo": "El puente doble",
+"texto": "Vas de una orilla a otra pasando por el mol."
+},
+{
+"titulo": "Pedidos de cajas",
+"texto": "Conviertes kilos a piezas para repartir, y luego a kilos otra vez."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$\\ce{H2O}$ con 4 g de $\\ce{H2}$.",
+"respuesta": "36 g"
+},
+{
+"ejercicio": "$\\ce{O2}$ para 2 g de $\\ce{H2}$.",
+"respuesta": "16 g"
+},
+{
+"ejercicio": "$\\ce{CH4 + 2O2 -> CO2 + 2H2O}$. $\\ce{CO2}$ con 16 g de $\\ce{CH4}$.",
+"respuesta": "44 g"
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Reactivo limitante",
+"slug": "reactivo-limitante-prepa",
+"palabras": [
+"reactivo limitante",
+"exceso",
+"estequiometría"
+],
+"contenido": {
+"idea": "Con 10 panes y 3 rebanadas de jamón solo haces 3 tortas. El jamón limita, aunque sobre pan.",
+"pizarron": "**Qué es:** el reactivo limitante es el que se acaba primero y detiene la reacción.\n\n**Imagínalo:** cada sándwich lleva 2 panes y 1 jamón. Tienes 4 panes y 3 jamones. Solo salen 2 sándwiches. El pan es el limitante y el jamón está en exceso, o sea, sobra.\n\n**Método:** divide moles entre el número de adelante. El más chico es el limitante.\n\n**Ejemplo:** $\\ce{2H2 + O2 -> 2H2O}$ con 4 mol de $\\ce{H2}$ y 3 mol de $\\ce{O2}$.\n\n- $\\ce{H2}$: $4 \\div 2 = 2$.\n- $\\ce{O2}$: $3 \\div 1 = 3$.\n\nSe acaba primero el $\\ce{H2}$. Salen 4 mol de agua, porque la ecuación dice 2 a 2.\n\n**Para tu escuela:** haz sándwiches de papel y di qué se acaba primero.",
+"truco": "Divide moles entre coeficiente: gana el menor.",
+"practica": {
+"ejercicio": "$\\ce{N2 + 3H2}$ con 2 mol $\\ce{N2}$ y 3 mol $\\ce{H2}$. ¿Limitante?",
+"respuesta": "$\\ce{H2}$"
+},
+"analogias": [
+{
+"titulo": "Tortas de jamón",
+"texto": "Lo primero que se acaba decide cuántas tortas salen."
+},
+{
+"titulo": "Bicis",
+"texto": "Con muchas ruedas y pocos cuadros, los cuadros limitan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "$\\ce{2Na + Cl2}$ con 4 mol Na y 1 mol $\\ce{Cl2}$. ¿Limitante?",
+"respuesta": "$\\ce{Cl2}$"
+},
+{
+"ejercicio": "Con el anterior, ¿moles de NaCl?",
+"respuesta": "2 mol"
+},
+{
+"ejercicio": "¿Qué significa reactivo en exceso?",
+"respuesta": "Que sobra."
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Rendimiento de una reacción",
+"slug": "rendimiento-de-una-reaccion-prepa",
+"palabras": [
+"rendimiento",
+"teórico",
+"real",
+"porcentaje"
+],
+"contenido": {
+"idea": "En papel, una receta rinde 20 galletas, pero en la realidad algunas se rompen. El rendimiento compara lo real con lo esperado.",
+"pizarron": "**La regla:** rendimiento es lo obtenido entre lo esperado, por 100.\n\n**Imagínalo:** la receta dice 10 galletas y solo salen 8. Se quemaron 2. Tu rendimiento es $80\\%$.\n\n$$\\% = \\frac{\\text{real}}{\\text{teórico}} \\times 100$$\n\n**En palabras:** teórico es lo calculado. Real es lo que obtuviste.\n\n**Ejemplo:** esperas 72 g y obtienes 54 g. $\\frac{54}{72} \\times 100 = 75\\%$.\n\n**Al revés:** $90\\%$ de 40 g son $0.9 \\times 40 = 36$ g reales.\n\n**Más de 100 %:** normalmente no se puede. Si pasa, hay impurezas o un error.\n\n**Para tu escuela:** cuenta cuántos aviones de papel vuelan de 10 que hagas.",
+"truco": "Real entre teórico, por cien.",
+"practica": {
+"ejercicio": "Teórico 50 g, real 40 g.",
+"respuesta": "80 %"
+},
+"analogias": [
+{
+"titulo": "Las galletas",
+"texto": "Algo siempre se queda en el molde; por eso rindes menos que lo prometido."
+},
+{
+"titulo": "La calificación",
+"texto": "Lo que lograste entre lo posible: es un porcentaje de cumplimiento."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Teórico 200 g y 85 %. ¿Real?",
+"respuesta": "170 g"
+},
+{
+"ejercicio": "Real 15 g, teórico 20 g.",
+"respuesta": "75 %"
+},
+{
+"ejercicio": "¿Puede ser mayor a 100 %?",
+"respuesta": "Normalmente no; si pasa, hay impurezas o errores."
+}
+]
+}
+},
+{
+"nodo_id": "ems-061",
+"titulo": "Balanceo algebraico",
+"slug": "balanceo-algebraico-prepa",
+"palabras": [
+"balanceo",
+"método algebraico",
+"sistema de ecuaciones"
+],
+"contenido": {
+"idea": "Cuando tantear no alcanza, pones letras en lugar de coeficientes y resuelves. Es química con álgebra.",
+"pizarron": "**La regla:** asigna una letra a cada coeficiente y plantea una ecuación por elemento.\n\n**Imagínalo:** no sabes cuántas piezas de cada caja necesitas, así que a cada caja le pones una letra. Luego cuentas cada color de pieza.\n\n**Ejemplo:** $\\ce{KClO3 -> KCl + O2}$.\n\n$$a\\ce{KClO3} \\to b\\ce{KCl} + c\\ce{O2}$$\n\n**Cuenta cada elemento en los dos lados:**\n\n- Potasio: $a = b$.\n- Cloro: $a = b$.\n- Oxígeno: $3a = 2c$.\n\n**Prueba un número:** con $a = 2$ sale $b = 2$. Y $3 \\times 2 = 2c$ da $c = 3$.\n\n$$\\ce{2KClO3 -> 2KCl + 3O2}$$\n\n**En palabras:** 2 de la primera caja dan 2 de la segunda y 3 de la tercera.\n\n**Para tu escuela:** en tu cuaderno ponle letras a cada molécula de $\\ce{H2 + Cl2 -> HCl}$.",
+"truco": "Letra por compuesto, ecuación por elemento.",
+"practica": {
+"ejercicio": "Balancea $\\ce{H2 + O2 -> H2O}$ con letras.",
+"respuesta": "$a = 2$, $b = 1$, $c = 2$."
+},
+"analogias": [
+{
+"titulo": "Un sudoku",
+"texto": "Cada elemento da una pista hasta que todo encaja."
+},
+{
+"titulo": "Sistema de ecuaciones",
+"texto": "Es el mismo método de matemáticas aplicado a átomos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Balancea $\\ce{Al + O2 -> Al2O3}$.",
+"respuesta": "$\\ce{4Al + 3O2 -> 2Al2O3}$"
+},
+{
+"ejercicio": "Balancea $\\ce{C2H6 + O2 -> CO2 + H2O}$.",
+"respuesta": "$\\ce{2C2H6 + 7O2 -> 4CO2 + 6H2O}$"
+},
+{
+"ejercicio": "Balancea $\\ce{NH3 + O2 -> NO + H2O}$.",
+"respuesta": "$\\ce{4NH3 + 5O2 -> 4NO + 6H2O}$"
+}
+]
+}
+}
 ]

@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Sumar es juntar. Si tienes 2 canicas y te regalan 3, las juntas y cuentas 5. Con números grandes, juntas por montones: sueltas con sueltas y decenas con decenas.",
-"pizarron": "**La regla:** se suman las columnas de derecha a izquierda: primero unidades y luego decenas.\n\nLos números que se suman se llaman **sumandos** y el resultado se llama **suma** o **total**.\n\nPasos para sumar en columna:\n\n1. Acomoda los números uno debajo del otro, con unidades bajo unidades.\n2. Suma primero las **unidades**, a la derecha.\n3. Después suma las **decenas**.\n\nEjemplo: 34 + 25\n\n```\n  3 4\n+ 2 5\n-----\n  5 9\n```\n\n- Unidades: 4 + 5 = 9\n- Decenas: 3 + 2 = 5\n\nResultado: 59. Aquí no se lleva nada porque cada columna da menos de 10.",
+"pizarron": "**La regla:** se suman las columnas de derecha a izquierda: primero unidades y luego decenas.\n\nLos números que se suman se llaman **sumandos** y el resultado se llama **suma** o **total**.\n\nPasos para sumar en columna:\n\n1. Acomoda los números uno debajo del otro, con unidades bajo unidades.\n2. Suma primero las **unidades**, a la derecha.\n3. Después suma las **decenas**.\n\nEjemplo: 34 + 25\n\n```\n  3 4\n+ 2 5\n-----\n  5 9\n```\n\n- Unidades: 4 + 5 = 9\n- Decenas: 3 + 2 = 5\n\nResultado: 59. Aquí no se lleva nada porque cada columna da menos de 10.\n\n**Para tu escuela:** suma los lápices de dos compañeros.",
 "truco": "Siempre empieza por la derecha: primero las unidades.",
 "practica": {
 "ejercicio": "Resuelve 42 + 36",
@@ -57,7 +57,7 @@
 ],
 "contenido": {
 "idea": "Si juntas 10 monedas de 1 peso, las cambias en la tienda por una moneda de 10. Eso es llevar: 10 sueltas se convierten en una decena.",
-"pizarron": "**La regla:** si una columna da 10 o más, escribes las unidades y llevas 1 a la columna de la izquierda.\n\nSe **lleva** cuando una columna da 10 o más, porque en cada lugar solo cabe una cifra.\n\nEjemplo: 47 + 38\n\n```\n  1\n  4 7\n+ 3 8\n-----\n  8 5\n```\n\n1. Unidades: 7 + 8 = 15.\n2. Escribe el **5** abajo y lleva **1** decena arriba.\n3. Decenas: 1 + 4 + 3 = 8.\n\nResultado: 85.\n\nError común: escribir 15 completo debajo. Eso daría 715, que es imposible. Si te sale un número mucho más grande que los que sumaste, revisa.\n\nCon centenas se hace igual: si las decenas dan 10 o más, llevas 1 a las centenas.",
+"pizarron": "**La regla:** si una columna da 10 o más, escribes las unidades y llevas 1 a la columna de la izquierda.\n\nSe **lleva** cuando una columna da 10 o más, porque en cada lugar solo cabe una cifra.\n\nEjemplo: 47 + 38\n\n```\n  1\n  4 7\n+ 3 8\n-----\n  8 5\n```\n\n1. Unidades: 7 + 8 = 15.\n2. Escribe el **5** abajo y lleva **1** decena arriba.\n3. Decenas: 1 + 4 + 3 = 8.\n\nResultado: 85.\n\nError común: escribir 15 completo debajo. Eso daría 715, que es imposible. Si te sale un número mucho más grande que los que sumaste, revisa.\n\nCon centenas se hace igual: si las decenas dan 10 o más, llevas 1 a las centenas.\n\n**Para tu escuela:** suma tus puntos de dos juegos del recreo.",
 "truco": "Abajo la unidad, arriba la decena: el 15 se parte en 5 y 1.",
 "practica": {
 "ejercicio": "Resuelve 56 + 27",
@@ -102,7 +102,7 @@
 ],
 "contenido": {
 "idea": "Restar es quitar. Si tienes 8 galletas y te comes 3, te quedan 5. Con números grandes quitas las sueltas de las sueltas y las decenas de las decenas.",
-"pizarron": "**La regla:** se resta por columnas, de derecha a izquierda, poniendo el número mayor arriba.\n\nPartes de la resta:\n\n- **Minuendo**: el número grande, del que se quita.\n- **Sustraendo**: lo que se quita.\n- **Diferencia**: lo que queda.\n\nPasos:\n\n1. Pon el número mayor arriba.\n2. Acomoda unidades bajo unidades.\n3. Resta primero las unidades.\n4. Después resta las decenas.\n\nEjemplo: 68 - 25\n\n```\n  6 8\n- 2 5\n-----\n  4 3\n```\n\n- Unidades: 8 - 5 = 3\n- Decenas: 6 - 2 = 4\n\nResultado: 43. Aquí en cada columna el número de arriba es mayor, por eso no se pide prestado.",
+"pizarron": "**La regla:** se resta por columnas, de derecha a izquierda, poniendo el número mayor arriba.\n\nPartes de la resta:\n\n- **Minuendo**: el número grande, del que se quita.\n- **Sustraendo**: lo que se quita.\n- **Diferencia**: lo que queda.\n\nPasos:\n\n1. Pon el número mayor arriba.\n2. Acomoda unidades bajo unidades.\n3. Resta primero las unidades.\n4. Después resta las decenas.\n\nEjemplo: 68 - 25\n\n```\n  6 8\n- 2 5\n-----\n  4 3\n```\n\n- Unidades: 8 - 5 = 3\n- Decenas: 6 - 2 = 4\n\nResultado: 43. Aquí en cada columna el número de arriba es mayor, por eso no se pide prestado.\n\n**Para tu escuela:** resta cuántos alumnos faltaron hoy.",
 "truco": "Siempre arriba el mayor y empieza por la derecha.",
 "practica": {
 "ejercicio": "Resuelve 79 - 34",
@@ -147,7 +147,7 @@
 ],
 "contenido": {
 "idea": "Si debes pagar 7 pesos y solo tienes 2 monedas sueltas, cambias una moneda de 10 por diez de 1. Ya tienes suficiente. Eso es pedir prestado.",
-"pizarron": "**La regla:** si la cifra de arriba es menor que la de abajo, pides 1 decena a la columna de la izquierda, y esa decena vale 10 unidades.\n\nSe pide prestado cuando la cifra de arriba es **menor** que la de abajo.\n\nEjemplo: 52 - 27\n\n```\n  4 12\n  5  2\n- 2  7\n------\n  2  5\n```\n\n1. Unidades: 2 - 7 no se puede.\n2. Pide 1 decena al 5. El 5 se vuelve **4**.\n3. Esa decena son 10 unidades: 2 + 10 = **12**.\n4. Unidades: 12 - 7 = 5.\n5. Decenas: 4 - 2 = 2.\n\nResultado: 25.\n\nComprueba: 25 + 27 = 52.\n\nError común: restar el pequeño del grande sin importar la posición, 7 - 2. Eso da un resultado incorrecto; la cifra de arriba siempre va primero.",
+"pizarron": "**La regla:** si la cifra de arriba es menor que la de abajo, pides 1 decena a la columna de la izquierda, y esa decena vale 10 unidades.\n\nSe pide prestado cuando la cifra de arriba es **menor** que la de abajo.\n\nEjemplo: 52 - 27\n\n```\n  4 12\n  5  2\n- 2  7\n------\n  2  5\n```\n\n1. Unidades: 2 - 7 no se puede.\n2. Pide 1 decena al 5. El 5 se vuelve **4**.\n3. Esa decena son 10 unidades: 2 + 10 = **12**.\n4. Unidades: 12 - 7 = 5.\n5. Decenas: 4 - 2 = 2.\n\nResultado: 25.\n\nComprueba: 25 + 27 = 52.\n\nError común: restar el pequeño del grande sin importar la posición, 7 - 2. Eso da un resultado incorrecto; la cifra de arriba siempre va primero.\n\n**Para tu escuela:** calcula cuánto cambio recibes en la cooperativa.",
 "truco": "Abajo mayor que arriba: pide al vecino, que baja uno y a ti te suma diez.",
 "practica": {
 "ejercicio": "Resuelve 63 - 28",
@@ -191,7 +191,7 @@
 ],
 "contenido": {
 "idea": "Vas a pedir prestado al vecino, pero él tampoco tiene: está en cero. Entonces él primero pide a la casa de al lado, y luego te presta a ti.",
-"pizarron": "**La regla:** si la cifra vecina es 0, pides a la siguiente cifra que no sea 0, y los ceros se convierten en nueves.\n\nCuando el vecino es 0, no puede prestar. Hay que ir a la siguiente cifra.\n\nEjemplo: 403 - 158\n\n1. Unidades: 3 - 8 no se puede. El vecino de las decenas es 0.\n2. Ve a las centenas: el 4 baja a **3**.\n3. Las decenas pasan de 0 a **10**.\n4. Las decenas prestan 1: bajan a **9**.\n5. Las unidades pasan de 3 a **13**.\n\nAhora resta:\n\n- 13 - 8 = 5\n- 9 - 5 = 4\n- 3 - 1 = 2\n\nResultado: **245**.\n\nComprueba: 245 + 158 = 403.\n\nCon 500 - 1 pasa igual: 499. Los ceros prestados se vuelven nueves.",
+"pizarron": "**La regla:** si la cifra vecina es 0, pides a la siguiente cifra que no sea 0, y los ceros se convierten en nueves.\n\nCuando el vecino es 0, no puede prestar. Hay que ir a la siguiente cifra.\n\nEjemplo: 403 - 158\n\n1. Unidades: 3 - 8 no se puede. El vecino de las decenas es 0.\n2. Ve a las centenas: el 4 baja a **3**.\n3. Las decenas pasan de 0 a **10**.\n4. Las decenas prestan 1: bajan a **9**.\n5. Las unidades pasan de 3 a **13**.\n\nAhora resta:\n\n- 13 - 8 = 5\n- 9 - 5 = 4\n- 3 - 1 = 2\n\nResultado: **245**.\n\nComprueba: 245 + 158 = 403.\n\nCon 500 - 1 pasa igual: 499. Los ceros prestados se vuelven nueves.\n\n**Para tu escuela:** paga con 100 pesos algo de 37 y saca el cambio.",
 "truco": "El cero que ayuda se vuelve nueve.",
 "practica": {
 "ejercicio": "Resuelve 300 - 124",
@@ -236,7 +236,7 @@
 ],
 "contenido": {
 "idea": "Un problema de suma es una historia donde las cosas se juntan o aumentan. Tu trabajo es descubrir qué se junta y cuánto da en total.",
-"pizarron": "**La regla:** se suma cuando juntas cantidades para saber el total.\n\nPasos para resolver:\n\n1. **Lee** el problema dos veces.\n2. **Subraya** los datos.\n3. Pregunta: ¿qué me piden?\n4. **Elige** la operación.\n5. **Resuelve** y escribe la respuesta con su unidad.\n\nPalabras que suelen indicar suma: *en total*, *juntos*, *más*, *le dieron*, *ganó*.\n\nEjemplo: Ana leyó 35 páginas el lunes y 42 el martes. ¿Cuántas leyó en total?\n\n- Datos: 35 y 42.\n- Operación: suma, porque se juntan.\n- 35 + 42 = 77.\n- Respuesta: Ana leyó **77 páginas**.\n\nCuidado: las palabras ayudan, pero siempre piensa en la historia. Lo importante es saber qué está pasando.",
+"pizarron": "**La regla:** se suma cuando juntas cantidades para saber el total.\n\nPasos para resolver:\n\n1. **Lee** el problema dos veces.\n2. **Subraya** los datos.\n3. Pregunta: ¿qué me piden?\n4. **Elige** la operación.\n5. **Resuelve** y escribe la respuesta con su unidad.\n\nPalabras que suelen indicar suma: *en total*, *juntos*, *más*, *le dieron*, *ganó*.\n\nEjemplo: Ana leyó 35 páginas el lunes y 42 el martes. ¿Cuántas leyó en total?\n\n- Datos: 35 y 42.\n- Operación: suma, porque se juntan.\n- 35 + 42 = 77.\n- Respuesta: Ana leyó **77 páginas**.\n\nCuidado: las palabras ayudan, pero siempre piensa en la historia. Lo importante es saber qué está pasando.\n\n**Para tu escuela:** inventa un problema de suma con cosas de tu mochila.",
 "truco": "Si la historia junta o crece, seguro es suma.",
 "practica": {
 "ejercicio": "En un camión van 28 personas y suben 17. ¿Cuántas van ahora?",
@@ -281,7 +281,7 @@
 ],
 "contenido": {
 "idea": "Un problema de resta es una historia donde algo se va, se gasta o falta. Tu trabajo es averiguar cuánto queda o qué diferencia hay.",
-"pizarron": "**La regla:** se resta para saber cuánto queda, cuánto falta o cuánto más tiene uno que otro.\n\nLa resta sirve para tres situaciones:\n\n1. **Quitar**: ¿cuánto queda? Tenía 50 y gasté 20.\n2. **Completar**: ¿cuánto falta? Tengo 30 y necesito 45.\n3. **Comparar**: ¿cuánto más? Juan mide 150 y Eva 142.\n\nEjemplo de completar: Quieres un juguete de 95 pesos y tienes 60. ¿Cuánto te falta?\n\n- Datos: 95 y 60.\n- Operación: 95 - 60 = 35.\n- Respuesta: faltan **35 pesos**.\n\nComprueba sumando: 60 + 35 = 95.\n\nPalabras que suelen indicar resta: *quedan*, *faltan*, *gastó*, *perdió*, *cuántos más*.",
+"pizarron": "**La regla:** se resta para saber cuánto queda, cuánto falta o cuánto más tiene uno que otro.\n\nLa resta sirve para tres situaciones:\n\n1. **Quitar**: ¿cuánto queda? Tenía 50 y gasté 20.\n2. **Completar**: ¿cuánto falta? Tengo 30 y necesito 45.\n3. **Comparar**: ¿cuánto más? Juan mide 150 y Eva 142.\n\nEjemplo de completar: Quieres un juguete de 95 pesos y tienes 60. ¿Cuánto te falta?\n\n- Datos: 95 y 60.\n- Operación: 95 - 60 = 35.\n- Respuesta: faltan **35 pesos**.\n\nComprueba sumando: 60 + 35 = 95.\n\nPalabras que suelen indicar resta: *quedan*, *faltan*, *gastó*, *perdió*, *cuántos más*.\n\n**Para tu escuela:** inventa un problema de resta con tu dinero.",
 "truco": "Si pregunta cuánto queda, cuánto falta o cuánto más, piensa en resta.",
 "practica": {
 "ejercicio": "Un rollo tiene 80 metros de listón y se usaron 35. ¿Cuántos metros quedan?",
@@ -325,7 +325,7 @@
 ],
 "contenido": {
 "idea": "Si sacas 3 canicas de una bolsa y luego las regresas, vuelves a tener las mismas. La suma deshace la resta, por eso sirve para revisarla.",
-"pizarron": "**La regla:** una resta está bien si el resultado más lo que quitaste da el número inicial.\n\nToda resta se puede comprobar con una suma:\n\n**resultado + lo que quitaste = número inicial**\n\nEjemplo: 84 - 37 = 47\n\nComprobación:\n\n- 47 + 37 = 84. Coincide con el inicio: la resta está bien.\n\nOtro ejemplo con error: un alumno escribió 62 - 28 = 46.\n\n- 46 + 28 = 74.\n- 74 no es 62, así que hay un error.\n- La respuesta correcta es 34: 34 + 28 = 62.\n\nHazlo siempre en exámenes: toma poco tiempo y encuentras tus errores antes de entregar.",
+"pizarron": "**La regla:** una resta está bien si el resultado más lo que quitaste da el número inicial.\n\nToda resta se puede comprobar con una suma:\n\n**resultado + lo que quitaste = número inicial**\n\nEjemplo: 84 - 37 = 47\n\nComprobación:\n\n- 47 + 37 = 84. Coincide con el inicio: la resta está bien.\n\nOtro ejemplo con error: un alumno escribió 62 - 28 = 46.\n\n- 46 + 28 = 74.\n- 74 no es 62, así que hay un error.\n- La respuesta correcta es 34: 34 + 28 = 62.\n\nHazlo siempre en exámenes: toma poco tiempo y encuentras tus errores antes de entregar.\n\n**Para tu escuela:** comprueba tres restas de tu tarea.",
 "truco": "Lo que queda más lo que quitaste debe darte lo que tenías.",
 "practica": {
 "ejercicio": "Comprueba si 93 - 45 = 48 es correcto.",
@@ -370,7 +370,7 @@
 ],
 "contenido": {
 "idea": "Las decenas son números amigos para tu cabeza. Si conviertes un número difícil en uno que termina en cero, puedes sumar casi sin pensar.",
-"pizarron": "**La regla:** al sumar o restar decenas, solo cambia la cifra de las decenas; las unidades se quedan igual.\n\n**Sumar o restar decenas**: solo cambia la cifra de las decenas.\n\n- 34 + 20 = 54 (3 + 2 = 5, el 4 se queda).\n- 86 - 30 = 56 (8 - 3 = 5, el 6 se queda).\n\n**Sumar 9**: suma 10 y quita 1.\n\n- 46 + 9 → 46 + 10 = 56, luego 56 - 1 = 55.\n\n**Restar 9**: resta 10 y agrega 1.\n\n- 52 - 9 → 52 - 10 = 42, luego 42 + 1 = 43.\n\n**Separar en partes**:\n\n- 47 + 25 → 47 + 20 = 67, luego 67 + 5 = 72.\n\n**Amigos del 10**: 1 y 9, 2 y 8, 3 y 7, 4 y 6, 5 y 5. Búscalos para sumar más fácil: 6 + 7 + 4 = 10 + 7 = 17.",
+"pizarron": "**La regla:** al sumar o restar decenas, solo cambia la cifra de las decenas; las unidades se quedan igual.\n\n**Sumar o restar decenas**: solo cambia la cifra de las decenas.\n\n- 34 + 20 = 54 (3 + 2 = 5, el 4 se queda).\n- 86 - 30 = 56 (8 - 3 = 5, el 6 se queda).\n\n**Sumar 9**: suma 10 y quita 1.\n\n- 46 + 9 → 46 + 10 = 56, luego 56 - 1 = 55.\n\n**Restar 9**: resta 10 y agrega 1.\n\n- 52 - 9 → 52 - 10 = 42, luego 42 + 1 = 43.\n\n**Separar en partes**:\n\n- 47 + 25 → 47 + 20 = 67, luego 67 + 5 = 72.\n\n**Amigos del 10**: 1 y 9, 2 y 8, 3 y 7, 4 y 6, 5 y 5. Búscalos para sumar más fácil: 6 + 7 + 4 = 10 + 7 = 17.\n\n**Para tu escuela:** suma de cabeza 30 + 40 con un compañero.",
 "truco": "Para sumar 9, suma 10 y regresa 1.",
 "practica": {
 "ejercicio": "Calcula de cabeza: 65 + 30",

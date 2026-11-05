@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Una ecuación cuadrática incompleta es un candado sencillo: le falta una pieza, así que se abre sin usar la fórmula completa.",
-"pizarron": "**Qué es:** una cuadrática incompleta no tiene término $x$ o no tiene número solo, y se resuelve despejando o factorizando.\n\nForma general: $ax^2 + bx + c = 0$. Es **incompleta** si falta $b$ o $c$.\n\n**Sin término en x** ($b = 0$): despeja y saca raíz.\n\n$$x^2 - 25 = 0$$\n\n$$x^2 = 25$$\n\n$$x = \\pm 5$$\n\nHay dos soluciones: 5 y -5.\n\n**Sin término independiente** ($c = 0$): saca factor común.\n\n$$x^2 - 6x = 0$$\n\n$$x(x - 6) = 0$$\n\n$$x = 0 \\text{ o } x = 6$$\n\nSi un producto da 0, algún factor es 0.\n\nCuidado: no dividas entre $x$, porque perderías la solución $x = 0$.",
+"pizarron": "**Qué es:** una cuadrática incompleta no tiene término $x$ o no tiene número solo, y se resuelve despejando o factorizando.\n\n**Imagínalo:** le falta una pieza al rompecabezas, así que es más fácil.\n\n**Sin $x$ sola:** despeja y saca raíz.\n\n$x^2 = 25$ da $x = 5$ o $x = -5$. Son dos, porque $(-5)^2 = 25$.\n\nSi hay número adelante, divide primero: $3x^2 = 12$ da $x^2 = 4$.\n\n**Sin número solo:** saca factor común.\n\n$x^2 - 6x = 0$ da $x(x - 6) = 0$. Salen 0 y 6.\n\nSi hay número adelante, también sale: $2x^2 - 8x = 2x(x - 4)$.\n\nNo dividas entre $x$: pierdes la solución 0.\n\n**Para tu escuela:** di qué números al cuadrado dan 16.",
 "truco": "Sin x: raíz con ±. Sin número: factor común.",
 "practica": {
 "ejercicio": "Resuelve $x^2 = 49$.",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Factorizar es como adivinar dos números secretos: te dicen cuánto suman y cuánto multiplican, y con eso los encuentras.",
-"pizarron": "**La regla:** si un producto da cero, alguno de los factores es cero.\n\nPara $x^2 + bx + c = 0$:\n\nBusca dos números que:\n\n- **Multipliquen** $c$.\n- **Sumen** $b$.\n\nEjemplo: $x^2 + 7x + 12 = 0$.\n\n- Multiplican 12 y suman 7: 3 y 4.\n\n$$(x + 3)(x + 4) = 0$$\n\n- $x + 3 = 0 \\Rightarrow x = -3$\n- $x + 4 = 0 \\Rightarrow x = -4$\n\nEjemplo con negativos: $x^2 - x - 6 = 0$.\n\n- Multiplican -6 y suman -1: -3 y 2.\n\n$$(x - 3)(x + 2) = 0$$\n\n- $x = 3$ o $x = -2$.\n\nPrimero iguala a cero la ecuación.",
+"pizarron": "**La regla:** si un producto da cero, alguno de los factores es cero.\n\n**Imagínalo:** es una adivinanza: dos números que multiplicados den uno y sumados den otro.\n\n**Ejemplo:** $x^2 + 7x + 12 = 0$. Multiplican 12 y suman 7: 3 y 4.\n\n$$(x + 3)(x + 4) = 0$$\n\nSi $x + 3 = 0$, $x = -3$. Si $x + 4 = 0$, $x = -4$.\n\n**Con negativos:** $x^2 - x - 6 = 0$: son $-3$ y 2. $x = 3$ o $x = -2$.\n\n**Sin de en medio:** $x^2 - 9 = (x - 3)(x + 3)$.\n\n**Para tu escuela:** busca dos números que multipliquen 10 y sumen 7.",
 "truco": "Dos números: se multiplican a c y se suman a b.",
 "practica": {
 "ejercicio": "Resuelve $x^2 + 5x + 6 = 0$.",
@@ -99,7 +99,7 @@
 ],
 "contenido": {
 "idea": "La fórmula general es la llave maestra de las ecuaciones cuadráticas: abre cualquiera, aunque no se pueda factorizar.",
-"pizarron": "**La regla:** las soluciones de $ax^2 + bx + c = 0$ son $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.\n\nPara $ax^2 + bx + c = 0$:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nEjemplo: $2x^2 + 3x - 2 = 0$.\n\n1. Identifica: $a = 2$, $b = 3$, $c = -2$.\n2. Sustituye:\n\n$$x = \\frac{-3 \\pm \\sqrt{9 + 16}}{4}$$\n\n3. Simplifica:\n\n$$x = \\frac{-3 \\pm 5}{4}$$\n\n4. Dos resultados:\n\n- $x = \\frac{2}{4} = \\frac{1}{2}$\n- $x = \\frac{-8}{4} = -2$\n\nErrores comunes: olvidar el signo de $b$ o usar mal $-4ac$ cuando $c$ es negativa.",
+"pizarron": "**La regla:** las soluciones de $ax^2 + bx + c = 0$ son $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.\n\n**Imagínalo:** es una receta que siempre funciona. Solo cambias los ingredientes $a$, $b$ y $c$.\n\n**En palabras:** $a$ va con $x^2$, $b$ con $x$ y $c$ es el número solo. Copia también su signo.\n\n**Ejemplo:** $2x^2 + 3x - 2 = 0$.\n\n1. $a = 2$, $b = 3$, $c = -2$.\n2. $x = \\frac{-3 \\pm \\sqrt{9 + 16}}{4}$.\n3. $x = \\frac{-3 \\pm 5}{4}$.\n4. Con más: $\\frac{1}{2}$. Con menos: $-2$.\n\n**Si $b$ es negativo,** $-b$ queda positivo.\n\n**Para tu escuela:** escribe $a$, $b$ y $c$ de $x^2 + 7x + 10 = 0$.",
 "truco": "Menos b, más menos raíz de b cuadrada menos 4ac, entre 2a.",
 "practica": {
 "ejercicio": "Resuelve $x^2 - 5x + 6 = 0$ con la fórmula.",
@@ -143,7 +143,7 @@
 ],
 "contenido": {
 "idea": "Antes de resolver, puedes mirar dentro de la raíz y saber cuántas soluciones saldrán. Es como revisar la caja antes de abrirla.",
-"pizarron": "**La regla:** el discriminante es $b^2 - 4ac$: si es positivo hay dos soluciones reales, si es cero una, y si es negativo ninguna real.\n\nEl **discriminante** es lo que está dentro de la raíz:\n\n$$D = b^2 - 4ac$$\n\nIndica cuántas soluciones reales hay:\n\n| $D$ | Soluciones |\n|---|---|\n| $D > 0$ | 2 soluciones distintas |\n| $D = 0$ | 1 solución repetida |\n| $D < 0$ | Sin soluciones reales |\n\nEjemplos:\n\n- $x^2 + 2x + 1 = 0$: $D = 4 - 4 = 0$, una solución.\n- $x^2 + x + 1 = 0$: $D = 1 - 4 = -3$, sin solución real.\n- $x^2 - 3x + 2 = 0$: $D = 9 - 8 = 1$, dos soluciones.\n\nEn la gráfica, indica cuántas veces la parábola toca el eje X.",
+"pizarron": "**La regla:** el discriminante es $b^2 - 4ac$: si es positivo hay dos soluciones reales, si es cero una, y si es negativo ninguna real.\n\n**Imagínalo:** es un semáforo. Antes de resolver, te avisa cuántas respuestas hay.\n\n**Es lo que está dentro de la raíz** de la fórmula general.\n\n- Positivo: 2 soluciones.\n- Cero: 1 solución.\n- Negativo: ninguna real.\n\n**Ejemplos:**\n\n- $x^2 + 2x + 1 = 0$: $4 - 4 = 0$. Una.\n- $x^2 + x + 1 = 0$: $1 - 4 = -3$. Ninguna.\n- $x^2 - 3x + 2 = 0$: $9 - 8 = 1$. Dos.\n\nEn la gráfica, dice cuántas veces la parábola toca el eje X.\n\n**Para tu escuela:** calcula el discriminante de $x^2 + 4x + 3 = 0$.",
 "truco": "Positivo dos, cero una, negativo ninguna.",
 "practica": {
 "ejercicio": "¿Cuántas soluciones tiene $x^2 + 4x + 4 = 0$?",
@@ -188,8 +188,8 @@
 ],
 "contenido": {
 "idea": "La pendiente es qué tan empinada está una rampa. Una subida fuerte tiene pendiente grande; una calle casi plana, pendiente pequeña.",
-"pizarron": "**La regla:** la pendiente es lo que sube entre lo que avanza: $m = \\frac{y_2 - y_1}{x_2 - x_1}$.\n\nLa **pendiente** $m$ indica cuánto sube $y$ por cada unidad que avanza $x$.\n\n$$m = \\frac{y_2 - y_1}{x_2 - x_1}$$\n\nEjemplo: puntos $(1, 2)$ y $(3, 8)$.\n\n$$m = \\frac{8 - 2}{3 - 1} = \\frac{6}{2} = 3$$\n\nSignificado: por cada 1 a la derecha, sube 3.\n\nTipos:\n\n- $m > 0$: la recta sube.\n- $m < 0$: la recta baja.\n- $m = 0$: horizontal.\n- Vertical: pendiente no definida.\n\nEn $y = 2x + 5$, la pendiente es 2.",
-"truco": "Lo que sube entre lo que avanza.",
+"pizarron": "**La regla:** la pendiente es lo que sube entre lo que avanza: $m = \\frac{y_2 - y_1}{x_2 - x_1}$.\n\n**Imagínalo:** una rampa. Pendiente 3 significa que por cada paso subes 3.\n\n**Ejemplo:** $(1, 2)$ y $(3, 8)$: $m = \\frac{6}{2} = 3$.\n\n**Tipos:**\n\n- Positiva: sube.\n- Negativa: baja.\n- Cero: plana, horizontal.\n- Vertical: no tiene.\n\n**En la ecuación:** en $y = mx + b$, es el número junto a $x$. En $y = 2x + 5$ es 2.\n\n**Para tu escuela:** mide lo que sube y lo que avanza una rampa.",
+"truco": "Empinada, número grande; plana, cero.",
 "practica": {
 "ejercicio": "Calcula la pendiente entre $(0, 1)$ y $(2, 7)$.",
 "respuesta": "$m = 3$"
@@ -232,7 +232,7 @@
 ],
 "contenido": {
 "idea": "Si un taxi cobra 15 pesos solo por subirte, ese es el costo inicial. En una recta, ese punto de arranque se llama ordenada al origen.",
-"pizarron": "**Qué es:** la ordenada al origen es $b$ en $y = mx + b$: el punto donde la recta cruza el eje $y$.\n\nEn la ecuación $y = mx + b$:\n\n- $m$: pendiente.\n- $b$: **ordenada al origen**.\n\nEs el punto donde la recta cruza el **eje Y**, cuando $x = 0$.\n\nEjemplo: $y = 2x + 5$.\n\n- Cuando $x = 0$: $y = 5$.\n- Cruza en $(0, 5)$.\n\nEjemplos:\n\n- $y = 3x - 4$: $b = -4$.\n- $y = 7x$: $b = 0$, pasa por el origen.\n\nEn problemas, $b$ es el valor inicial. Si un plan cobra 200 fijos más 2 por mensaje, $y = 2x + 200$.",
+"pizarron": "**Qué es:** la ordenada al origen es $b$ en $y = mx + b$: el punto donde la recta cruza el eje $y$.\n\n**Imagínalo:** es de donde sales antes de empezar a caminar. En un taxi, es el banderazo.\n\n**Encuéntrala:** pon $x = 0$. En $y = 2x + 5$ queda 5, y cruza en $(0, 5)$.\n\n**Otros:** en $y = 3x - 4$, $b = -4$. En $y = 7x$, $b = 0$.\n\n**Escribir la ecuación:** con $m = 3$ y $b = 1$: $y = 3x + 1$.\n\n**En problemas:** $b$ es el valor fijo. Plan de 200 más 2 por mensaje: $y = 2x + 200$.\n\n**Para tu escuela:** escribe la ecuación de una renta de bicicleta.",
 "truco": "Pon x en cero y lo que queda es b.",
 "practica": {
 "ejercicio": "¿Dónde cruza $y = -x + 6$ el eje Y?",
@@ -276,7 +276,7 @@
 ],
 "contenido": {
 "idea": "Para trazar una recta bastan dos puntos, como para colgar una cuerda entre dos clavos. Lo demás lo hace la regla.",
-"pizarron": "**La regla:** con dos puntos basta para trazar una recta.\n\n**Método 1: tabla**. $y = 2x - 1$.\n\n| $x$ | $y$ |\n|---|---|\n| 0 | -1 |\n| 1 | 1 |\n| 2 | 3 |\n\nUbica los puntos y únelos con regla.\n\n**Método 2: pendiente y ordenada**.\n\n1. Marca $b$ en el eje Y: $(0, -1)$.\n2. Usa la pendiente: 2 hacia arriba y 1 a la derecha.\n3. Une los puntos.\n\nSi $m$ es negativa, baja al avanzar. Si es fracción, como $\\frac{2}{3}$, sube 2 y avanza 3.\n\nEn problemas, revisa que los valores tengan sentido; por ejemplo, el tiempo no suele ser negativo.",
+"pizarron": "**La regla:** con dos puntos basta para trazar una recta.\n\n**Imagínalo:** con dos clavos y una regla ya sabes por dónde va la línea.\n\n**Con tabla:** da valores a $x$. En $y = 2x - 1$: $(0, -1)$, $(1, 1)$ y $(2, 3)$.\n\n**Con pendiente:**\n\n1. Empieza en $(0, b)$.\n2. Si $m = 2$, sube 2 y avanza 1.\n3. Une.\n\nSi $m$ es negativa, baja al avanzar.\n\nSi es fracción, como $\\frac{2}{3}$, sube 2 y avanza 3.\n\n**Para tu escuela:** grafica $y = x$ en tu cuaderno.",
 "truco": "Marca b, sube según m y traza con regla.",
 "practica": {
 "ejercicio": "Encuentra tres puntos de $y = x + 2$.",
@@ -320,7 +320,7 @@
 ],
 "contenido": {
 "idea": "El camino de un balón pateado forma una curva llamada parábola. Sube, llega a un punto máximo y baja de manera simétrica.",
-"pizarron": "**La regla:** la parábola se dibuja con su vértice y con puntos a ambos lados.\n\nUna función $y = ax^2 + bx + c$ forma una **parábola**.\n\n- Si $a > 0$: abre hacia arriba, ∪.\n- Si $a < 0$: abre hacia abajo, ∩.\n\n**Vértice**: el punto más alto o más bajo.\n\n$$x_v = \\frac{-b}{2a}$$\n\nEjemplo: $y = x^2 - 4x + 3$.\n\n1. $x_v = \\frac{4}{2} = 2$.\n2. $y_v = 4 - 8 + 3 = -1$. Vértice $(2, -1)$.\n3. Tabla:\n\n| $x$ | 0 | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|---|\n| $y$ | 3 | 0 | -1 | 0 | 3 |\n\n4. Une con curva suave.\n\nEs simétrica respecto a la recta vertical $x = 2$.",
+"pizarron": "**La regla:** la parábola se dibuja con su vértice y con puntos a ambos lados.\n\n**Imagínalo:** es el camino de un balón, o una sonrisa.\n\n- Si $a$ es positiva, abre hacia arriba.\n- Si $a$ es negativa, abre hacia abajo.\n\n**Vértice:** el punto más alto o más bajo.\n\n$$x_v = \\frac{-b}{2a}$$\n\n**Ejemplo:** $y = x^2 - 4x + 3$. $x_v = 2$ y $y_v = -1$.\n\n**Tabla:** con $x$ = 0, 1, 2, 3, 4 sale $y$ = 3, 0, $-1$, 0, 3. Es igual a ambos lados.\n\n**Para tu escuela:** dobla tu gráfica por el vértice y mira si coincide.",
 "truco": "a positiva sonríe y a negativa se pone triste.",
 "practica": {
 "ejercicio": "¿La parábola $y = -2x^2 + 1$ abre hacia arriba o abajo?",
@@ -364,7 +364,7 @@
 ],
 "contenido": {
 "idea": "Dos ángulos que juntos hacen una esquina son complementarios. Dos que juntos hacen una línea recta son suplementarios.",
-"pizarron": "**La regla:** los complementarios suman $90°$ y los suplementarios suman $180°$.\n\n- **Complementarios**: suman **90°**.\n- **Suplementarios**: suman **180°**.\n\nEjemplos:\n\n- 30° y 60° son complementarios.\n- 110° y 70° son suplementarios.\n\nCalcular:\n\n- Complemento de $x$: $90° - x$.\n- Suplemento de $x$: $180° - x$.\n\nEjemplo: un ángulo mide 35°.\n\n- Complemento: 55°.\n- Suplemento: 145°.\n\nCon ecuación: dos ángulos suplementarios miden $x$ y $2x$.\n\n$$x + 2x = 180 \\Rightarrow x = 60$$\n\nLos ángulos son 60° y 120°.",
+"pizarron": "**La regla:** los complementarios suman $90°$ y los suplementarios suman $180°$.\n\n**Imagínalo:** complementarios forman una esquina. Suplementarios forman una línea recta.\n\n**Calcular:**\n\n- Complemento: $90° - x$. De 35° es 55°.\n- Suplemento: $180° - x$. De 35° es 145°.\n\n**Con ecuación:** $x$ y $2x$ son suplementarios.\n\n$$x + 2x = 180, \\quad x = 60$$\n\n**Para tu escuela:** dobla una hoja y marca una esquina y una línea.",
 "truco": "C de complementario y de cuadrante (90°); S de suplementario y de semicírculo (180°).",
 "practica": {
 "ejercicio": "¿Cuál es el complemento de 72°?",

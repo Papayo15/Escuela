@@ -10,7 +10,7 @@
 ],
 "contenido": {
 "idea": "Si tienes tres cuartos de pastel y regalas un tercio del pastel, no puedes contar trozos de distinto tamaño. Los conviertes a trozos iguales y luego quitas.",
-"pizarron": "**La regla:** busca un denominador común, convierte las fracciones y resta los numeradores.\n\nPasos para $\\frac{3}{4} - \\frac{1}{3}$:\n\n1. mcm(4, 3) = 12.\n2. Convierte:\n\n$$\\frac{3}{4} = \\frac{9}{12} \\qquad \\frac{1}{3} = \\frac{4}{12}$$\n\n3. Resta numeradores:\n\n$$\\frac{9}{12} - \\frac{4}{12} = \\frac{5}{12}$$\n\nSimplifica cuando se pueda:\n\n$$\\frac{5}{6} - \\frac{1}{2} = \\frac{5}{6} - \\frac{3}{6} = \\frac{2}{6} = \\frac{1}{3}$$\n\nComprueba sumando: $\\frac{1}{3} + \\frac{1}{2} = \\frac{5}{6}$.",
+"pizarron": "**La regla:** busca un denominador común, convierte las fracciones y resta los numeradores.\n\n**Imagínalo:** corta los pedazos del mismo tamaño antes de quitar.\n\n**Ejemplo:** $\\frac{3}{4} - \\frac{1}{3}$.\n\n1. Común: 12.\n2. $\\frac{9}{12}$ y $\\frac{4}{12}$.\n3. Resta: $\\frac{5}{12}$.\n\n**Simplifica:** $\\frac{5}{6} - \\frac{1}{2} = \\frac{2}{6} = \\frac{1}{3}$.\n\n**Comprueba** sumando.\n\n**Para tu escuela:** quita un cuarto de una hoja a media hoja.",
 "truco": "Mismo denominador primero, resta después y simplifica al final.",
 "practica": {
 "ejercicio": "Resuelve $\\frac{1}{2} - \\frac{1}{5}$",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "Una fracción mixta es como tener pizzas completas y unas rebanadas. Puedes contar las pizzas por un lado y las rebanadas por otro.",
-"pizarron": "**La regla:** convierte las mixtas en impropias, o bien opera enteros y fracciones por separado.\n\n**Método 1: enteros y fracciones aparte**.\n\n$$2\\frac{1}{4} + 1\\frac{1}{2}$$\n\n- Enteros: 2 + 1 = 3.\n- Fracciones: $\\frac{1}{4} + \\frac{2}{4} = \\frac{3}{4}$.\n- Resultado: $3\\frac{3}{4}$.\n\n**Método 2: convertir a impropias**. Es más seguro en restas.\n\n$$3\\frac{1}{3} - 1\\frac{1}{2} = \\frac{10}{3} - \\frac{3}{2}$$\n\n$$= \\frac{20}{6} - \\frac{9}{6} = \\frac{11}{6} = 1\\frac{5}{6}$$\n\nEn el método 1, si la fracción de arriba es menor, debes pedir prestado un entero.",
+"pizarron": "**La regla:** convierte las mixtas en impropias, o bien opera enteros y fracciones por separado.\n\n**Imagínalo:** pizzas completas con pizzas completas, y rebanadas con rebanadas.\n\n**Aparte:** $2\\frac{1}{4} + 1\\frac{1}{2}$. Enteros: 3. Fracciones: $\\frac{3}{4}$. Resultado: $3\\frac{3}{4}$.\n\n**Con impropias:** es más seguro al restar.\n\n$$3\\frac{1}{3} - 1\\frac{1}{2} = \\frac{10}{3} - \\frac{3}{2} = \\frac{11}{6} = 1\\frac{5}{6}$$\n\n**De un entero:** $3 = \\frac{24}{8}$.\n\n**Si se pasa de 1:** $3\\frac{5}{4} = 4\\frac{1}{4}$.\n\n**Para tu escuela:** suma $1\\frac{1}{2} + 1\\frac{1}{2}$ con pizzas de papel.",
 "truco": "Si la resta se complica, convierte todo a impropias.",
 "practica": {
 "ejercicio": "Resuelve $1\\frac{1}{5} + 2\\frac{2}{5}$",
@@ -97,7 +97,7 @@
 ],
 "contenido": {
 "idea": "Sumar decimales es como sumar pesos y centavos: los centavos van con centavos y los pesos con pesos. El punto marca dónde se separan.",
-"pizarron": "**La regla:** alinea los puntos y suma como con números enteros, dejando el punto en su lugar.\n\nPasos:\n\n1. **Alinea los puntos** uno debajo de otro.\n2. Rellena con ceros si faltan cifras.\n3. Suma como si fueran enteros, de derecha a izquierda.\n4. Baja el punto en el mismo lugar.\n\nEjemplo: 12.5 + 3.78\n\n```\n  1 2 . 5 0\n+   3 . 7 8\n-----------\n  1 6 . 2 8\n```\n\nSe lleva igual que con enteros: 5 + 7 = 12, escribes 2 y llevas 1.\n\nCon enteros, ponles punto: 7 + 2.35 es 7.00 + 2.35 = 9.35.\n\nError común: alinear a la derecha como en enteros. Lo que se alinea es el punto.",
+"pizarron": "**La regla:** alinea los puntos y suma como con números enteros, dejando el punto en su lugar.\n\nPasos:\n\n1. **Alinea los puntos** uno debajo de otro.\n2. Rellena con ceros si faltan cifras.\n3. Suma como si fueran enteros, de derecha a izquierda.\n4. Baja el punto en el mismo lugar.\n\nEjemplo: 12.5 + 3.78\n\n```\n  1 2 . 5 0\n+   3 . 7 8\n-----------\n  1 6 . 2 8\n```\n\nSe lleva igual que con enteros: 5 + 7 = 12, escribes 2 y llevas 1.\n\nCon enteros, ponles punto: 7 + 2.35 es 7.00 + 2.35 = 9.35.\n\nError común: alinear a la derecha como en enteros. Lo que se alinea es el punto.\n\n**Para tu escuela:** suma lo que gastaste en la cooperativa.",
 "truco": "Punto bajo punto, siempre.",
 "practica": {
 "ejercicio": "Resuelve 4.6 + 2.35",
@@ -141,7 +141,7 @@
 ],
 "contenido": {
 "idea": "Cuando pagas en la tienda y te dan cambio, estás restando decimales: lo que pagaste menos lo que costó, cuidando los centavos.",
-"pizarron": "**La regla:** alinea los puntos, completa con ceros y resta como con números enteros.\n\nPasos:\n\n1. Alinea los puntos.\n2. **Rellena con ceros** para igualar cifras.\n3. Resta como en enteros.\n4. Baja el punto.\n\nEjemplo: 20 - 7.35\n\n```\n  2 0 . 0 0\n-   7 . 3 5\n-----------\n  1 2 . 6 5\n```\n\nComo no hay cifras, se usan ceros y se pide prestado.\n\nOtro ejemplo: 8.4 - 3.75 = 8.40 - 3.75 = 4.65.\n\nComprueba: 4.65 + 3.75 = 8.40.",
+"pizarron": "**La regla:** alinea los puntos, completa con ceros y resta como con números enteros.\n\nPasos:\n\n1. Alinea los puntos.\n2. **Rellena con ceros** para igualar cifras.\n3. Resta como en enteros.\n4. Baja el punto.\n\nEjemplo: 20 - 7.35\n\n```\n  2 0 . 0 0\n-   7 . 3 5\n-----------\n  1 2 . 6 5\n```\n\nComo no hay cifras, se usan ceros y se pide prestado.\n\nOtro ejemplo: 8.4 - 3.75 = 8.40 - 3.75 = 4.65.\n\nComprueba: 4.65 + 3.75 = 8.40.\n\n**Para tu escuela:** calcula tu cambio con centavos.",
 "truco": "Si falta cifra, rellena con cero para poder pedir prestado.",
 "practica": {
 "ejercicio": "Resuelve 9.5 - 2.25",
@@ -185,7 +185,7 @@
 ],
 "contenido": {
 "idea": "En la vida real se mezclan fracciones y decimales: medio kilo de queso y 2.5 metros de tela. Primero los escribes en la misma forma y luego operas.",
-"pizarron": "**La regla:** lee qué se junta, se quita o se reparte, y escribe los datos con la misma forma antes de operar.\n\nPasos:\n\n1. Lee e identifica los datos.\n2. Decide la operación.\n3. Si hay fracciones y decimales juntos, **convierte todo** a una forma.\n4. Resuelve y revisa.\n\nEjemplo: Ana compró $\\frac{1}{2}$ kg de manzana y 0.75 kg de pera. ¿Cuánto compró?\n\n- $\\frac{1}{2} = 0.5$\n- 0.5 + 0.75 = **1.25 kg**\n\nEjemplo: Una cuerda mide 3.5 m. Cortas $\\frac{3}{4}$ m. ¿Cuánto queda?\n\n- $\\frac{3}{4} = 0.75$\n- 3.5 - 0.75 = **2.75 m**\n\nConviene usar decimales con dinero y fracciones con tercios.",
+"pizarron": "**La regla:** lee qué se junta, se quita o se reparte, y escribe los datos con la misma forma antes de operar.\n\n**Imagínalo:** no se suman pesos con dólares. Primero se cambian.\n\n**Pasos:**\n\n1. Lee los datos.\n2. Decide la operación.\n3. Convierte todo a decimal o a fracción.\n4. Resuelve y revisa.\n\n**Ejemplo:** $\\frac{1}{2}$ kg y 0.75 kg: $0.5 + 0.75 = 1.25$ kg.\n\n**Ejemplo:** 3.5 m menos $\\frac{3}{4}$ m: $3.5 - 0.75 = 2.75$ m.\n\n**Para recordar:** $\\frac{1}{4} = 0.25$, $\\frac{1}{2} = 0.5$, $\\frac{3}{4} = 0.75$.\n\n**Para tu escuela:** suma lo que tomaste de agua en un día.",
 "truco": "Dos formas distintas: conviértelas a una sola antes de operar.",
 "practica": {
 "ejercicio": "Lees 0.25 de un libro y luego $\\frac{1}{2}$. ¿Cuánto llevas?",
@@ -229,7 +229,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar $\\frac{1}{2}$ por $\\frac{1}{3}$ es tomar la mitad de un tercio. El resultado es un pedazo aún más pequeño: un sexto.",
-"pizarron": "**La regla:** se multiplica numerador por numerador y denominador por denominador.\n\nRegla:\n\n$$\\frac{a}{b} \\times \\frac{c}{d} = \\frac{a \\times c}{b \\times d}$$\n\nEjemplo:\n\n$$\\frac{2}{3} \\times \\frac{4}{5} = \\frac{8}{15}$$\n\nNo necesitas denominador común.\n\nCon un entero, ponle 1 abajo:\n\n$$5 \\times \\frac{2}{3} = \\frac{5}{1} \\times \\frac{2}{3} = \\frac{10}{3} = 3\\frac{1}{3}$$\n\nCon mixtas, primero conviértelas a impropias.\n\nSimplifica antes de multiplicar (cruzado):\n\n$$\\frac{3}{4} \\times \\frac{2}{9} = \\frac{1}{2} \\times \\frac{1}{3} = \\frac{1}{6}$$\n\nDividimos 3 y 9 entre 3, y 2 y 4 entre 2.",
+"pizarron": "**La regla:** se multiplica numerador por numerador y denominador por denominador.\n\n**Imagínalo:** $\\frac{1}{2} \\times \\frac{1}{3}$ es la mitad de un tercio de pizza: un pedazo de $\\frac{1}{6}$.\n\n**Ejemplo:** $\\frac{2}{3} \\times \\frac{4}{5} = \\frac{8}{15}$.\n\nNo necesitas denominador común.\n\n**Con entero:** ponle 1 abajo. $5 \\times \\frac{2}{3} = \\frac{10}{3} = 3\\frac{1}{3}$.\n\n**Con mixtas:** pásalas a impropias. $1\\frac{1}{2} = \\frac{3}{2}$.\n\n**Simplifica** al final si se puede.\n\n**Para tu escuela:** dobla una hoja para mostrar la mitad de un tercio.",
 "truco": "Arriba con arriba y abajo con abajo.",
 "practica": {
 "ejercicio": "Resuelve $\\frac{3}{4} \\times \\frac{2}{5}$",
@@ -273,7 +273,7 @@
 ],
 "contenido": {
 "idea": "Dividir 2 pizzas entre $\\frac{1}{2}$ pregunta: ¿cuántas medias pizzas hay en 2? Hay 4. Por eso dividir entre una fracción puede dar un número más grande.",
-"pizarron": "**La regla:** para dividir, se voltea la segunda fracción y se multiplica.\n\nPara dividir: **deja la primera, voltea la segunda y multiplica**.\n\n$$\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}$$\n\nEjemplo:\n\n$$\\frac{2}{3} \\div \\frac{4}{5} = \\frac{2}{3} \\times \\frac{5}{4} = \\frac{10}{12} = \\frac{5}{6}$$\n\nTambién se llama producto cruzado: 2 × 5 arriba y 3 × 4 abajo.\n\nCon enteros:\n\n$$3 \\div \\frac{1}{4} = 3 \\times 4 = 12$$\n\nCon mixtas, primero conviértelas a impropias.",
+"pizarron": "**La regla:** para dividir, se voltea la segunda fracción y se multiplica.\n\n**Imagínalo:** ¿cuántos cuartos de pizza caben en media pizza? Dos. Dividir pregunta cuántas veces cabe.\n\n**Pasos:** deja la primera, voltea la segunda y multiplica.\n\n$$\\frac{2}{3} \\div \\frac{4}{5} = \\frac{2}{3} \\times \\frac{5}{4} = \\frac{5}{6}$$\n\n**Con enteros:** $3 \\div \\frac{1}{4} = 3 \\times 4 = 12$.\n\n**Con mixtas:** primero pásalas a impropias. $1\\frac{1}{2} = \\frac{3}{2}$.\n\n**Para tu escuela:** dobla una tira y cuenta cuántos cuartos caben en una mitad.",
 "truco": "Deja, cambia y voltea: la división se vuelve multiplicación.",
 "practica": {
 "ejercicio": "Resuelve $\\frac{1}{2} \\div \\frac{1}{4}$",
@@ -317,7 +317,7 @@
 ],
 "contenido": {
 "idea": "Tres cuartos de 20 dulces es partir los 20 en 4 montones iguales y tomar 3 montones. Te quedas con 15 dulces.",
-"pizarron": "**La regla:** divide el número entre el denominador y multiplica por el numerador.\n\nPara calcular $\\frac{a}{b}$ de un número:\n\n1. **Divide** entre el denominador.\n2. **Multiplica** por el numerador.\n\nEjemplo: $\\frac{3}{4}$ de 20.\n\n- 20 ÷ 4 = 5.\n- 5 × 3 = **15**.\n\nTambién se puede multiplicar primero:\n\n$$\\frac{3}{4} \\times 20 = \\frac{60}{4} = 15$$\n\nEjemplo: Un grupo tiene 30 alumnos y $\\frac{2}{5}$ son niños.\n\n- 30 ÷ 5 = 6.\n- 6 × 2 = 12 niños.\n\nEn problemas, la palabra *de* suele indicar multiplicación.",
+"pizarron": "**La regla:** divide el número entre el denominador y multiplica por el numerador.\n\n**Imagínalo:** tienes 20 dulces. Los haces 4 montones y tomas 3 montones.\n\n**Ejemplo:** $\\frac{3}{4}$ de 20.\n\n- $20 \\div 4 = 5$.\n- $5 \\times 3 = 15$.\n\n**Ejemplo:** 30 alumnos y $\\frac{2}{5}$ son niños: 12.\n\n**Para tu escuela:** calcula $\\frac{1}{2}$ de los alumnos de tu salón.",
 "truco": "Divide entre el de abajo y multiplica por el de arriba.",
 "practica": {
 "ejercicio": "Calcula $\\frac{2}{3}$ de 18.",
@@ -360,7 +360,7 @@
 ],
 "contenido": {
 "idea": "Primero multiplicas como si no existiera el punto. Al final le regresas el punto al resultado, contando las cifras decimales que tenías.",
-"pizarron": "**La regla:** multiplica sin punto y al final coloca tantos decimales como tengan juntos los dos números.\n\nPasos:\n\n1. Multiplica ignorando los puntos.\n2. Cuenta las cifras decimales de **ambos** factores.\n3. Coloca el punto contando desde la derecha.\n\nEjemplo: 2.4 × 1.5\n\n- 24 × 15 = 360.\n- Cifras decimales: 1 + 1 = 2.\n- Resultado: 3.60 = **3.6**.\n\nEjemplo: 0.3 × 0.02\n\n- 3 × 2 = 6.\n- Cifras decimales: 1 + 2 = 3.\n- Necesitas tres lugares: **0.006**.\n\nA diferencia de la suma, aquí **no se alinean** los puntos.\n\nEstima: 2.4 × 1.5 es cerca de 2 × 2 = 4.",
+"pizarron": "**La regla:** multiplica sin punto y al final coloca tantos decimales como tengan juntos los dos números.\n\nPasos:\n\n1. Multiplica ignorando los puntos.\n2. Cuenta las cifras decimales de **ambos** factores.\n3. Coloca el punto contando desde la derecha.\n\nEjemplo: 2.4 × 1.5\n\n- 24 × 15 = 360.\n- Cifras decimales: 1 + 1 = 2.\n- Resultado: 3.60 = **3.6**.\n\nEjemplo: 0.3 × 0.02\n\n- 3 × 2 = 6.\n- Cifras decimales: 1 + 2 = 3.\n- Necesitas tres lugares: **0.006**.\n\nA diferencia de la suma, aquí **no se alinean** los puntos.\n\nEstima: 2.4 × 1.5 es cerca de 2 × 2 = 4.\n\n**Para tu escuela:** calcula el precio de 1.5 kg de fruta.",
 "truco": "Multiplica sin punto; luego cuenta las cifras decimales y colócalo.",
 "practica": {
 "ejercicio": "Resuelve 1.2 × 3",

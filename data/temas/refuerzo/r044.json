@@ -56,7 +56,7 @@
 ],
 "contenido": {
 "idea": "Empuja un carrito vacío: sale volando. Empuja uno lleno: casi no se mueve. Mismo empujón, distinto resultado.",
-"pizarron": "**La ley:** la aceleración de un cuerpo es directamente proporcional a la fuerza neta que recibe, e inversamente proporcional a su masa.\n\n$$F = m \\times a$$\n\n**Qué quiere decir:**\n\n**F** es qué tan fuerte empujas.\n\n**m** es la masa: cuánta cosa hay que mover.\n\n**a** es la aceleración: qué tan rápido agarra velocidad.\n\nMás fuerza, acelera más. Eso significa «directamente proporcional».\n\nMás masa, acelera menos. Eso significa «inversamente proporcional».\n\n**Ejemplo.** Una caja tiene 10 kilos. La empujas con 30 newtons.\n\n$$a = \\frac{F}{m} = \\frac{30}{10} = 3$$\n\nCada segundo va 3 metros por segundo más rápido.\n\nSi empujas el doble, acelera el doble. Si la caja tiene el doble de masa, acelera la mitad.\n\n**Para tu escuela:** calcula la aceleración de una caja de 5 kg empujada con 20 N.",
+"pizarron": "**La ley:** la aceleración de un cuerpo es directamente proporcional a la fuerza neta que recibe, e inversamente proporcional a su masa.\n\n$$F = m \\times a$$\n\n**Imagínalo:** empujas un carrito vacío y sale rápido. Lleno, sale lento.\n\n**En palabras:** **F** es qué tan fuerte empujas. **m** es cuánta cosa hay que mover. **a** es qué tan rápido agarra velocidad.\n\nMás fuerza, acelera más: eso es *directamente proporcional*.\n\nMás masa, acelera menos: eso es *inversamente proporcional*. Con doble masa, media aceleración.\n\n**Tres cuentas:**\n\n- $a = \\frac{F}{m}$. 30 N y 10 kg: 3 m/s².\n- $F = ma$. 2 kg y 4 m/s²: 8 N.\n- $m = \\frac{F}{a}$. 12 N y 3 m/s²: 4 kg.\n\n**Para tu escuela:** empuja una silla vacía y una con mochilas, con la misma fuerza.",
 "truco": "Más fuerza acelera más; más masa acelera menos.",
 "practica": {
 "ejercicio": "Un objeto de 4 kg recibe 20 N. ¿Cuál es su aceleración?",
@@ -100,7 +100,7 @@
 ],
 "contenido": {
 "idea": "Empuja a un amigo mientras los dos traen patines. Él se va hacia atrás, y tú también. No puedes empujar sin que te empujen.",
-"pizarron": "**La ley:** a toda acción corresponde una reacción igual y en sentido contrario. También se llama **ley de acción y reacción**.\n\n$$F_{A \\to B} = -F_{B \\to A}$$\n\n**Qué quiere decir:** las fuerzas siempre vienen en pareja. Si tú empujas algo, eso te empuja a ti con la misma fuerza.\n\n**Acción** es tu empujón. **Reacción** es el empujón de regreso.\n\nFíjate en tres cosas:\n\n1. Las dos fuerzas son del mismo tamaño.\n2. Van en sentidos contrarios.\n3. Cada una actúa sobre un cuerpo distinto. Por eso no se cancelan.\n\n**Ejemplos:**\n\nAl caminar, tu pie empuja el suelo hacia atrás. El suelo te empuja hacia adelante.\n\nUn cohete avienta gases hacia abajo. Los gases empujan al cohete hacia arriba.",
+"pizarron": "**La ley:** a toda acción corresponde una reacción igual y en sentido contrario. También se llama **ley de acción y reacción**.\n\n$$F_{A \\to B} = -F_{B \\to A}$$\n\n**En palabras:** las fuerzas vienen en pareja. El signo menos dice *al revés*.\n\n**Imagínalo:** en patines empujas a un amigo. Los dos se mueven: él hacia adelante y tú hacia atrás.\n\n**Tres cosas:**\n\n1. Las dos fuerzas son del mismo tamaño.\n2. Van en sentidos contrarios.\n3. Cada una actúa sobre un cuerpo distinto. Por eso no se cancelan.\n\n**Ejemplos:**\n\nAl caminar, tu pie empuja el suelo hacia atrás y el suelo te empuja hacia adelante.\n\nUn cohete avienta gases hacia abajo y los gases lo empujan hacia arriba.\n\n**Para tu escuela:** suelta un globo inflado y explica hacia dónde va.",
 "truco": "Toda fuerza viene en pareja y sobre cuerpos distintos.",
 "practica": {
 "ejercicio": "Empujas una pared con 50 N. ¿Qué fuerza te aplica la pared?",
@@ -145,7 +145,7 @@
 ],
 "contenido": {
 "idea": "Un astronauta pesa mucho menos en la Luna, pero su cuerpo no adelgazó. Su masa es igual y su peso cambió por la gravedad.",
-"pizarron": "**La regla:** la masa es cuánta materia tienes y no cambia. El peso es la fuerza con que te jala la gravedad: $P = mg$.\n\n$m$ es la masa, en kilos.\n\n$g$ es la gravedad: 9.8 en la Tierra, 1.6 en la Luna.\n\n**Ejemplo:** una persona de 50 kg.\n\nEn la Tierra: $50 \\times 9.8 = 490$ N.\n\nEn la Luna: $50 \\times 1.6 = 80$ N.\n\nSu masa sigue siendo 50 kg.\n\nEn casa decimos *peso 50 kilos*, pero en física eso es masa.\n\n**Para tu escuela:** calcula tu peso en la Tierra y en la Luna.",
+"pizarron": "**La regla:** la masa es cuánta materia tienes y no cambia. El peso es la fuerza con que te jala la gravedad: $P = mg$.\n\n**Imagínalo:** en la Luna saltarías altísimo. Tú eres el mismo, pero la Luna jala menos.\n\n$g$ es 9.8 en la Tierra y 1.6 en la Luna.\n\n**Ejemplo:** 50 kg. En la Tierra: 490 N. En la Luna: 80 N. Su masa sigue siendo 50 kg.\n\n**Unidades:** el peso se mide en newtons, y la masa en kilos.\n\n**Al revés:** $m = \\frac{P}{g}$. 98 N son 10 kg.\n\n**Para tu escuela:** calcula tu peso en la Tierra y en la Luna.",
 "truco": "Masa viaja contigo; el peso depende del lugar.",
 "practica": {
 "ejercicio": "¿Cuánto pesa en la Tierra un objeto de 10 kg?",
@@ -189,7 +189,7 @@
 ],
 "contenido": {
 "idea": "Frota tus manos y se calientan. Esa resistencia al deslizar una superficie sobre otra es la fricción, y sin ella no podrías caminar.",
-"pizarron": "**Qué es:** la fricción es una fuerza que se opone al deslizamiento entre dos superficies.\n\nLa **fricción** es una fuerza que se opone al deslizamiento entre superficies.\n\nDepende de:\n\n- El tipo de superficies.\n- Qué tanto se aprietan entre sí.\n\n**Estática**: impide que un objeto empiece a moverse.\n\n**Cinética**: actúa mientras ya se desliza. Suele ser menor.\n\nEfectos:\n\n- **Útil**: permite caminar, frenar y escribir con lápiz.\n- **Problema**: desgasta piezas y gasta energía como calor.\n\nPara reducirla: aceite, ruedas, superficies lisas.\n\nPara aumentarla: suelas con dibujo, arena en el hielo.\n\nEjemplo: empujas con 20 N y la fricción es 5 N.\n\n$$F_{neta} = 20 - 5 = 15\\ \\text{N}$$",
+"pizarron": "**Qué es:** la fricción es una fuerza que se opone al deslizamiento entre dos superficies.\n\n**Imagínalo:** si frotas tus manos, sientes que se frenan y se calientan.\n\nDepende de las superficies y de qué tanto se aprietan.\n\n**Estática:** impide que algo empiece a moverse.\n\n**Cinética:** actúa mientras se desliza.\n\n**Útil:** te deja caminar y frenar. **Problema:** desgasta y gasta energía como calor.\n\n**Reducirla:** aceite, para que las piezas de un motor no se gasten.\n\n**Fuerza neta:** resta la fricción. 20 N con 5 N de fricción dan 15 N.\n\n**Para tu escuela:** desliza un libro por una mesa y por una alfombra.",
 "truco": "La fricción siempre va contra el deslizamiento.",
 "practica": {
 "ejercicio": "Empujas con 12 N y la fricción es 4 N. ¿Cuál es la fuerza neta?",
@@ -232,7 +232,7 @@
 ],
 "contenido": {
 "idea": "Cargar una mochila parado te cansa, pero en física no haces trabajo. Solo hay trabajo si la fuerza mueve algo en su dirección.",
-"pizarron": "**La regla:** trabajo es fuerza por distancia: $W = Fd$.\n\n$F$ es la fuerza, en newtons.\n\n$d$ es la distancia, en metros.\n\nEl resultado se da en joules.\n\n**Ejemplo:** empujas una caja con 50 N por 4 m.\n\n$$W = 50 \\times 4 = 200 \\text{ J}$$\n\n**Al levantar algo:** la fuerza es su peso.\n\nUna caja de 2 kg subida 3 m:\n\n$$W = 2 \\times 9.8 \\times 3 = 58.8 \\text{ J}$$\n\n**No hay trabajo** si no se mueve. Empujar una pared cansa, pero no hay trabajo.\n\n**Para tu escuela:** calcula el trabajo de subir tu mochila de 3 kg a 1 m.",
+"pizarron": "**La regla:** trabajo es fuerza por distancia: $W = Fd$.\n\n**Imagínalo:** empujas una caja y la mueves. Eso es trabajo. Si la pared no se mueve, te cansas, pero no hay trabajo en física.\n\n**En palabras:** newtons por metros dan **joules**.\n\n**Ejemplo:** 50 N por 4 m: 200 J.\n\n**Al revés:** $F = \\frac{W}{d}$. 60 J en 3 m: 20 N.\n\n**Levantar algo:** la fuerza es su peso. 2 kg subidos 3 m: $2 \\times 9.8 \\times 3 = 58.8$ J.\n\nSostener algo quieto no tiene distancia: el trabajo es cero.\n\n**Para tu escuela:** calcula el trabajo de subir tu mochila de 3 kg a 1 m.",
 "truco": "Sin movimiento en la dirección de la fuerza, no hay trabajo.",
 "practica": {
 "ejercicio": "Empujas con 30 N por 5 m. ¿Cuánto trabajo haces?",
@@ -276,7 +276,7 @@
 ],
 "contenido": {
 "idea": "Dos personas suben la misma escalera, una corriendo y otra despacio. Hacen el mismo trabajo, pero quien corre desarrolla más potencia.",
-"pizarron": "**La regla:** potencia es trabajo entre tiempo: $P = \\frac{W}{t}$.\n\n**Potencia**: rapidez con que se hace un trabajo.\n\n$$P = \\frac{W}{t}$$\n\nUnidad: **watt**, $1\\ \\text{W} = 1\\ \\text{J/s}$.\n\nEjemplo: haces 600 J en 3 s.\n\n$$P = \\frac{600}{3} = 200\\ \\text{W}$$\n\nEjemplo con escalera: alguien de 60 kg sube 5 m en 10 s.\n\n$$W = (60)(9.8)(5) = 2940\\ \\text{J}$$\n\n$$P = \\frac{2940}{10} = 294\\ \\text{W}$$\n\nOtra unidad común es el caballo de fuerza: $1\\ \\text{hp} \\approx 746\\ \\text{W}$.",
+"pizarron": "**La regla:** potencia es trabajo entre tiempo: $P = \\frac{W}{t}$.\n\n**Imagínalo:** dos niños suben la misma escalera. Hacen el mismo trabajo, pero quien sube más rápido tiene más potencia.\n\n**Unidad:** watt. 1 W es 1 J por segundo.\n\n**Ejemplo:** 600 J en 3 s: 200 W.\n\n**Trabajo:** $W = Pt$. 100 W por 5 s: 500 J.\n\n**Tiempo:** $t = \\frac{W}{P}$. 400 J con 100 W: 4 s.\n\n**Para tu escuela:** sube una escalera y mide cuánto tardas.",
 "truco": "Potencia es trabajo dividido entre tiempo.",
 "practica": {
 "ejercicio": "Un motor hace 1500 J en 5 s. ¿Cuál es su potencia?",
@@ -320,7 +320,7 @@
 ],
 "contenido": {
 "idea": "Una bola de boliche rápida tira todos los pinos. Lo que tiene por estar en movimiento se llama energía cinética.",
-"pizarron": "**La regla:** la energía del movimiento es $E_c = \\frac{1}{2}mv^2$.\n\n**Qué quiere decir:** todo lo que se mueve tiene energía.\n\n$m$ es la masa, en kilos.\n\n$v$ es la velocidad, en metros por segundo.\n\n**Ejemplo:** un balón de 2 kg va a 3 m/s.\n\nPrimero el cuadrado: $3^2 = 9$.\n\nLuego la mitad de la masa: $\\frac{1}{2} \\times 2 = 1$.\n\nMultiplica: $1 \\times 9 = 9$ joules.\n\n**Dato clave:** si duplicas la velocidad, la energía se multiplica por 4. Por eso un choque rápido es tan grave.\n\n**Para tu escuela:** calcula la energía de una bici y su niño, 40 kg a 5 m/s.",
+"pizarron": "**La regla:** la energía del movimiento es $E_c = \\frac{1}{2}mv^2$.\n\n**Imagínalo:** una pelota lenta casi no duele. Una rápida duele mucho. Todo lo que se mueve tiene energía, y lo quieto tiene cero.\n\n**En palabras:** la mitad de la masa, por la velocidad dos veces.\n\n**Ejemplo:** 2 kg a 3 m/s. $3 \\times 3 = 9$. Mitad de 2 es 1. Total: 9 J.\n\n**Dato clave:** el doble de velocidad da 4 veces la energía, porque $2 \\times 2 = 4$. El triple da $3 \\times 3 = 9$ veces.\n\nPor eso un choque rápido es tan grave.\n\n**Para tu escuela:** calcula la energía de una bici con su niño, 40 kg a 5 m/s.",
 "truco": "Doble velocidad, cuatro veces la energía.",
 "practica": {
 "ejercicio": "Calcula la $E_c$ de 4 kg a 5 m/s.",
@@ -364,7 +364,7 @@
 ],
 "contenido": {
 "idea": "Una piedra en lo alto de un cerro parece tranquila, pero guarda energía lista para liberarse si empieza a caer.",
-"pizarron": "**La regla:** la energía guardada por la altura es $E_p = mgh$.\n\nLa **energía potencial gravitacional** es la energía guardada por la altura.\n\n$$E_p = m\\,g\\,h$$\n\nDonde:\n\n- $m$: masa en kg.\n- $g$: 9.8 m/s².\n- $h$: altura en m.\n\nEjemplo: un libro de 1 kg a 2 m de altura.\n\n$$E_p = (1)(9.8)(2) = 19.6\\ \\text{J}$$\n\nEjemplo: un niño de 30 kg en una resbaladilla de 3 m.\n\n$$E_p = (30)(9.8)(3) = 882\\ \\text{J}$$\n\nA mayor altura o masa, mayor energía.\n\nTambién existe la energía potencial elástica, guardada en resortes y ligas estiradas.",
+"pizarron": "**La regla:** la energía guardada por la altura es $E_p = mgh$.\n\n**Imagínalo:** subes una piedra a una mesa. Al subirla le guardas energía, lista para caer.\n\n**En palabras:** masa, por 9.8, por altura.\n\n**Ejemplo:** 1 kg a 2 m: $1 \\times 9.8 \\times 2 = 19.6$ J.\n\n**Doble altura:** doble energía.\n\n**Referencia:** en el suelo, donde empiezas a medir, la altura es 0 y la energía también.\n\n**Elástica:** una liga estirada también guarda energía.\n\n**Para tu escuela:** calcula la energía de tu mochila sobre una mesa.",
 "truco": "Más alto y más pesado, más energía guardada.",
 "practica": {
 "ejercicio": "Calcula la $E_p$ de 5 kg a 10 m de altura.",
@@ -408,7 +408,7 @@
 ],
 "contenido": {
 "idea": "En la montaña rusa, el carrito sube lento y baja a toda velocidad. La energía no aparece ni se pierde: solo cambia de forma.",
-"pizarron": "**La ley:** la energía no se crea ni se destruye, solo se transforma.\n\n**Principio de conservación**: la energía no se crea ni se destruye, solo se transforma.\n\n**Energía mecánica**:\n\n$$E_m = E_c + E_p$$\n\nSin fricción, $E_m$ se mantiene constante.\n\nEjemplo: una pelota de 1 kg cae desde 5 m.\n\nArriba: $E_p = (1)(9.8)(5) = 49$ J y $E_c = 0$.\n\nAbajo: $E_p = 0$ y $E_c = 49$ J.\n\n$$\\frac{1}{2}(1)v^2 = 49 \\Rightarrow v = \\sqrt{98} \\approx 9.9\\ \\text{m/s}$$\n\nCon fricción, una parte pasa a calor y sonido. Se conserva el total, pero ya no como energía mecánica.\n\nOtros cambios: eléctrica a luz en un foco, química a movimiento en el cuerpo.",
+"pizarron": "**La ley:** la energía no se crea ni se destruye, solo se transforma.\n\n**Imagínalo:** una pelota arriba guarda energía de altura. Al caer, la cambia por velocidad. El total es igual.\n\n$$E_m = E_c + E_p$$\n\n**En palabras:** energía mecánica es la de movimiento más la de altura. Con 10 J y 15 J: 25 J.\n\n**Sin fricción:** si arriba tiene 40 J de altura, abajo tiene 40 J de movimiento.\n\n**Con fricción:** parte se vuelve calor. Al frenar, un coche calienta sus frenos.\n\n**Otros cambios:** un foco pasa de eléctrica a luz y calor.\n\n**Para tu escuela:** frota tus manos y di en qué se convirtió el movimiento.",
 "truco": "La energía cambia de traje, pero no desaparece.",
 "practica": {
 "ejercicio": "Un objeto tiene 30 J de $E_p$ arriba. Sin fricción, ¿cuánta $E_c$ tiene al llegar al suelo?",
@@ -452,7 +452,7 @@
 ],
 "contenido": {
 "idea": "Con una barra puedes levantar una piedra que tus brazos solos no moverían. Las máquinas simples hacen rendir mejor tu fuerza.",
-"pizarron": "**La ley (palanca):** fuerza por su brazo es igual a carga por su brazo: $F_1 d_1 = F_2 d_2$.\n\nUna **máquina simple** cambia la magnitud o dirección de una fuerza.\n\n**Tipos**:\n\n- Palanca: subibaja, tijeras.\n- Polea: pozo, grúa.\n- Plano inclinado: rampa.\n- Cuña: hacha.\n- Tornillo.\n- Rueda y eje.\n\n**Ley de la palanca**:\n\n$$F_1 \\, d_1 = F_2 \\, d_2$$\n\nEjemplo: para levantar 300 N a 1 m del apoyo, aplicas fuerza a 3 m.\n\n$$F = \\frac{300 \\times 1}{3} = 100\\ \\text{N}$$\n\nLa **ventaja mecánica** es carga entre fuerza: $300/100 = 3$.\n\nNo se gana energía: usas menos fuerza, pero a lo largo de más distancia.",
+"pizarron": "**La ley (palanca):** fuerza por su brazo es igual a carga por su brazo: $F_1 d_1 = F_2 d_2$.\n\n**Imagínalo:** con un palo largo levantas una piedra pesada. El subibaja funciona igual.\n\n**Una máquina simple** cambia la fuerza o su dirección.\n\n**Tipos:** palanca, polea, rampa, cuña (hacha o cuchillo), tornillo y rueda con eje.\n\n**Ejemplo:** 300 N a 1 m, y empujas a 3 m: $F = \\frac{300 \\times 1}{3} = 100$ N.\n\n**Ventaja mecánica:** carga entre fuerza. $300 \\div 100 = 3$.\n\nNo crean energía: usas menos fuerza, pero a lo largo de más distancia.\n\n**Para tu escuela:** abre una lata con una cuchara y di dónde está la palanca.",
 "truco": "Menos fuerza a cambio de más distancia.",
 "practica": {
 "ejercicio": "Una carga de 200 N está a 1 m del apoyo y empujas a 4 m. ¿Qué fuerza necesitas?",
@@ -496,7 +496,7 @@
 ],
 "contenido": {
 "idea": "Un kilo de plumas ocupa muchísimo más espacio que un kilo de plomo. La densidad dice qué tan apretada está la masa de un material.",
-"pizarron": "**La regla:** la densidad es masa entre volumen: $\\rho = \\frac{m}{V}$.\n\nLa **densidad** relaciona masa y volumen:\n\n$$\\rho = \\frac{m}{V}$$\n\nUnidades: kg/m³ o g/cm³.\n\nValores comunes:\n\n| Material | Densidad (g/cm³) |\n|---|---|\n| Agua | 1 |\n| Aceite | cerca de 0.9 |\n| Hielo | cerca de 0.92 |\n| Aluminio | 2.7 |\n| Hierro | 7.9 |\n\nEjemplo: un trozo de 54 g ocupa 20 cm³.\n\n$$\\rho = \\frac{54}{20} = 2.7\\ \\text{g/cm}^3$$\n\nEs aluminio.\n\nLo menos denso **flota** sobre lo más denso. Por eso el aceite queda sobre el agua.",
+"pizarron": "**La regla:** la densidad es masa entre volumen: $\\rho = \\frac{m}{V}$.\n\n**Imagínalo:** dos cajas iguales, una con piedras y otra con plumas. Las piedras están más apretadas.\n\n**Densidades:** agua 1. Hielo 0.92. Aceite 0.9. Aluminio 2.7. Hierro 7.9.\n\n**Ejemplo:** 54 g en 20 cm³: $\\rho = 2.7$ g/cm³. Es aluminio.\n\n**Sacar masa:** densidad por volumen. 3 cm³ de agua son 3 g.\n\n**Sacar volumen:** masa entre densidad. 27 g de aluminio son 10 cm³.\n\n**Flotar:** lo menos denso queda arriba. El aceite flota sobre el agua.\n\n**Para tu escuela:** pon aceite en un vaso con agua y mira quién sube.",
 "truco": "Lo menos denso flota sobre lo más denso.",
 "practica": {
 "ejercicio": "Un objeto de 30 g ocupa 10 cm³. ¿Cuál es su densidad?",

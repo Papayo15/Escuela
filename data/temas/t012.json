@@ -1,334 +1,334 @@
 [
-  {
-    "nodo_id": "ems-077",
-    "titulo": "Descubrimiento de la célula y teoría celular",
-    "slug": "teoria-celular-preparatoria",
-    "palabras": [
-      "célula",
-      "teoría celular",
-      "Hooke",
-      "Schleiden",
-      "Schwann",
-      "Virchow",
-      "microscopio"
-    ],
-    "contenido": {
-      "idea": "Imagina que miras un muro de lejos y parece liso, pero con una lupa descubres que está hecho de ladrillitos. Los científicos hicieron lo mismo con los seres vivos: con el microscopio vieron que todos están hechos de pequeños ladrillos llamados células.",
-      "pizarron": "**La ley:** todo ser vivo está hecho de células, la célula es la unidad básica de la vida, y toda célula viene de otra.\n\n**Quién la descubrió:**\n\n- 1665: Hooke vio células en corcho.\n- 1674: Leeuwenhoek vio células vivas.\n- 1838-1839: Schleiden y Schwann, en plantas y animales.\n- 1855: Virchow: toda célula viene de otra.\n\nCada avance del microscopio trajo un descubrimiento.\n\n**Para recordar:**\n- **¿Quién propuso que toda célula proviene de otra célula y en qué año aproximadamente?** Rudolf Virchow, hacia 1855.\n- **¿Qué observó Hooke en el corcho y qué nombre le dio?** Pequeños compartimentos con forma de celdillas; los llamó células.\n- **¿Por qué el microscopio fue indispensable para formular la teoría celular?** Porque las células son demasiado pequeñas para verse a simple vista; sin amplificación no se habrían observado ni comparado en plantas y animales.\n\n**Para tu escuela:** haz una línea del tiempo con estas fechas.",
-      "truco": "Hooke vio, Schleiden y Schwann unieron, Virchow cerró: toda célula viene de otra.",
-      "practica": {
-        "ejercicio": "¿Quién propuso que toda célula proviene de otra célula y en qué año aproximadamente?",
-        "respuesta": "Rudolf Virchow, hacia 1855."
-      },
-      "analogias": [
-        {
-          "titulo": "El ladrillo",
-          "texto": "Así como una casa se construye con ladrillos, el cuerpo de una planta, un animal o una bacteria se construye con células, y cada ladrillo tiene vida propia."
-        },
-        {
-          "titulo": "Copia de una copia",
-          "texto": "Una fotocopia solo existe si antes hubo un original. De igual modo, una célula nueva solo existe porque otra célula se dividió antes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué observó Hooke en el corcho y qué nombre le dio?",
-          "respuesta": "Pequeños compartimentos con forma de celdillas; los llamó células."
-        },
-        {
-          "ejercicio": "Menciona los tres postulados de la teoría celular.",
-          "respuesta": "Todo ser vivo se compone de células; la célula es la unidad básica de estructura y función; toda célula proviene de otra célula."
-        },
-        {
-          "ejercicio": "¿Por qué el microscopio fue indispensable para formular la teoría celular?",
-          "respuesta": "Porque las células son demasiado pequeñas para verse a simple vista; sin amplificación no se habrían observado ni comparado en plantas y animales."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-078",
-    "titulo": "Moléculas orgánicas, organelos y tipos de célula",
-    "slug": "organelos-y-moleculas-organicas-preparatoria",
-    "palabras": [
-      "organelos",
-      "procariota",
-      "eucariota",
-      "carbohidratos",
-      "lípidos",
-      "proteínas",
-      "mitocondria"
-    ],
-    "contenido": {
-      "idea": "Una célula es como una cocina: tiene ingredientes (las moléculas), cocineros y aparatos (los organelos). Algunas cocinas son un cuarto sencillo y otras tienen habitaciones separadas para cada tarea.",
-      "pizarron": "**Qué es:** la célula tiene moléculas orgánicas y partes llamadas organelos, cada una con un trabajo.\n\n**Moléculas:** carbohidratos dan energía. Lípidos guardan energía. Proteínas construyen. Ácidos nucleicos guardan información.\n\n**Organelos:** núcleo, jefe. Mitocondria, planta de energía. Ribosoma, fábrica de proteínas. Golgi, empaque. Cloroplasto, cocina de luz.\n\n**Tipos de célula:** procariota sin núcleo y eucariota con núcleo.\n\n**Para tu escuela:** compara la célula con tu escuela: ¿quién sería el núcleo?",
-      "truco": "Pro = sin núcleo; Eu = núcleo verdadero.",
-      "practica": {
-        "ejercicio": "¿Qué organelo produce la mayor parte del ATP en una célula animal?",
-        "respuesta": "La mitocondria."
-      },
-      "analogias": [
-        {
-          "titulo": "La ciudad",
-          "texto": "El núcleo es el ayuntamiento que guarda los planos, las mitocondrias son las plantas de luz y los ribosomas son las fábricas de productos."
-        },
-        {
-          "titulo": "La mochila",
-          "texto": "Una célula procariota es una mochila de un solo compartimento; una eucariota es una mochila con bolsas separadas para cada cosa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué molécula orgánica forma las enzimas?",
-          "respuesta": "Las proteínas."
-        },
-        {
-          "ejercicio": "Menciona una diferencia entre célula procariota y eucariota.",
-          "respuesta": "La procariota no tiene núcleo definido ni organelos con membrana; la eucariota sí."
-        },
-        {
-          "ejercicio": "¿Qué organelo tienen las células vegetales y no las animales para hacer fotosíntesis?",
-          "respuesta": "El cloroplasto."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-079",
-    "titulo": "ADN, ARN y cromosomas",
-    "slug": "adn-arn-cromosomas-preparatoria",
-    "palabras": [
-      "ADN",
-      "ARN",
-      "cromosomas",
-      "genes",
-      "doble hélice",
-      "nucleótidos",
-      "herencia"
-    ],
-    "contenido": {
-      "idea": "El ADN es como un libro de recetas de tu cuerpo. El ARN es una fotocopia de una receta que se lleva a la cocina, donde se prepara el platillo, que es una proteína.",
-      "pizarron": "**Qué es:** el ADN guarda las instrucciones de tu cuerpo. El ARN las copia. Los cromosomas las guardan empacadas.\n\nImagina un recetario.\n\n**ADN:** el libro. Tiene dos cadenas, con las bases A, T, C y G. A va con T, y C con G.\n\n**Gen:** una receta.\n\n**ARN:** una copia de una receta. Usa U en lugar de T.\n\n**Cromosomas:** los tomos del libro. Tenemos 46: 23 de mamá y 23 de papá.\n\n**Para recordar:**\n- **¿Cuántos cromosomas hay en una célula del cuerpo humano?** 46, es decir, 23 pares.\n\n**Para tu escuela:** completa la otra cadena de A-T-C-G.",
-      "truco": "A con T, C con G; en ARN la T cambia por U.",
-      "practica": {
-        "ejercicio": "Una cadena de ADN dice AATGC. ¿Cuál es la cadena complementaria?",
-        "respuesta": "TTACG."
-      },
-      "analogias": [
-        {
-          "titulo": "La escalera de caracol",
-          "texto": "El ADN es una escalera torcida: los pasamanos son azúcar y fosfato, y los peldaños son pares de bases que encajan siempre igual."
-        },
-        {
-          "titulo": "El libro y la fotocopia",
-          "texto": "El libro original no sale de la biblioteca (el núcleo); se saca una copia temporal (ARN) para trabajar con ella."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué base nitrogenada exclusiva tiene el ARN?",
-          "respuesta": "Uracilo (U)."
-        },
-        {
-          "ejercicio": "Si una molécula de ADN tiene 20 % de adenina, ¿qué porcentaje de timina tiene?",
-          "respuesta": "20 %, porque A se aparea con T."
-        },
-        {
-          "ejercicio": "¿Cuántos cromosomas hay en una célula del cuerpo humano?",
-          "respuesta": "46, es decir, 23 pares."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-080",
-    "titulo": "Mitosis y meiosis",
-    "slug": "mitosis-y-meiosis-preparatoria",
-    "palabras": [
-      "mitosis",
-      "meiosis",
-      "división celular",
-      "gametos",
-      "profase",
-      "metafase",
-      "anafase",
-      "telofase"
-    ],
-    "contenido": {
-      "idea": "Mitosis es como sacar una fotocopia exacta de una hoja para tener dos iguales. Meiosis es como repartir una baraja entre varios jugadores: cada uno recibe solo la mitad de las cartas.",
-      "pizarron": "**Qué es:** la mitosis da dos células iguales. La meiosis da cuatro con la mitad de cromosomas.\n\n**Mitosis:** para crecer y sanar. De 46 cromosomas salen células con 46.\n\nPasos: profase, metafase, anafase y telofase.\n\n**Meiosis:** para hacer óvulos y espermatozoides. De 46 salen células con 23.\n\nAl unirse dos, vuelve a haber 46.\n\nSi la mitosis se descontrola, puede haber cáncer.\n\n**Para recordar:**\n- **¿Por qué los gametos deben tener la mitad de cromosomas?** Para que al fecundarse se sumen 23 + 23 = 46 y la especie conserve su número de cromosomas.\n\n**Para tu escuela:** dibuja cuántas células y cromosomas da cada una.",
-      "truco": "PMAT: Profase, Metafase, Anafase, Telofase. Mitosis = 2 iguales; meiosis = 4 distintas.",
-      "practica": {
-        "ejercicio": "Una célula humana de 46 cromosomas se divide por meiosis. ¿Cuántas células resultan y con cuántos cromosomas cada una?",
-        "respuesta": "4 células con 23 cromosomas cada una."
-      },
-      "analogias": [
-        {
-          "titulo": "Fotocopiadora",
-          "texto": "La mitosis copia una hoja completa y entrega dos hojas idénticas, útiles para reemplazar piezas del cuerpo."
-        },
-        {
-          "titulo": "Mezclar y repartir",
-          "texto": "La meiosis baraja las cartas genéticas y reparte la mitad a cada gameto, por eso los hermanos no son idénticos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿En qué fase de la mitosis se separan las cromátidas hermanas?",
-          "respuesta": "En la anafase."
-        },
-        {
-          "ejercicio": "Menciona dos diferencias entre mitosis y meiosis.",
-          "respuesta": "La mitosis da 2 células idénticas con 46 cromosomas y ocurre en células del cuerpo; la meiosis da 4 células distintas con 23 cromosomas y forma gametos."
-        },
-        {
-          "ejercicio": "¿Por qué los gametos deben tener la mitad de cromosomas?",
-          "respuesta": "Para que al fecundarse se sumen 23 + 23 = 46 y la especie conserve su número de cromosomas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-081",
-    "titulo": "Herencia biológica y genética",
-    "slug": "herencia-y-genetica-preparatoria",
-    "palabras": [
-      "herencia",
-      "genética",
-      "Mendel",
-      "alelos",
-      "dominante",
-      "recesivo",
-      "Punnett",
-      "genotipo",
-      "fenotipo"
-    ],
-    "contenido": {
-      "idea": "Es como mezclar dos mazos de cartas: de tu mamá recibes una carta por cada característica y de tu papá otra. Cuál se nota depende de cuál carta \"manda\".",
-      "pizarron": "**Qué es:** la genética estudia cómo se heredan los rasgos de padres a hijos.\n\nGregor Mendel estudió chícharos y descubrió reglas de la herencia.\n\n- Gen: instrucción para una característica.\n- Alelos: versiones de un gen. Se heredan dos, uno de cada progenitor.\n- Dominante (A): se manifiesta con una sola copia.\n- Recesivo (a): solo se manifiesta con dos copias (aa).\n- Genotipo: los alelos (Aa). Fenotipo: lo que se observa.\n\nCruza de dos heterocigotos Aa × Aa (cuadro de Punnett):\n- AA, Aa, Aa, aa.\n- Genotipos: 25 % AA, 50 % Aa, 25 % aa.\n- Fenotipos: 75 % dominante y 25 % recesivo (razón 3:1).\n\nSituaciones reales: grupos sanguíneos, el color de ojos y enfermedades hereditarias como la fibrosis quística (recesiva). La genética permite orientar a familias y mejorar cultivos.",
-      "truco": "Dominante manda con una copia; recesivo necesita dos. Aa × Aa da 3:1.",
-      "practica": {
-        "ejercicio": "En Aa × Aa, ¿qué probabilidad hay de un descendiente aa?",
-        "respuesta": "1/4, es decir, 25 %."
-      },
-      "analogias": [
-        {
-          "titulo": "Dos interruptores",
-          "texto": "Cada persona tiene dos interruptores por característica; si uno es dominante, la luz se enciende aunque el otro esté apagado."
-        },
-        {
-          "titulo": "Receta de familia",
-          "texto": "Cada progenitor aporta una versión de la receta; el platillo final depende de cómo se combinan."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuál es la diferencia entre genotipo y fenotipo?",
-          "respuesta": "El genotipo son los alelos que tiene el individuo; el fenotipo es la característica que se observa."
-        },
-        {
-          "ejercicio": "Cruza AA × aa. ¿Qué genotipo tienen todos los hijos?",
-          "respuesta": "Todos Aa (100 % heterocigotos) y muestran el fenotipo dominante."
-        },
-        {
-          "ejercicio": "Dos padres Aa tienen 4 hijos. ¿Cuántos se esperan con fenotipo recesivo en promedio?",
-          "respuesta": "Uno de cada cuatro (25 %), aunque en familias pequeñas puede variar por azar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-082",
-    "titulo": "Evolución por selección natural",
-    "slug": "seleccion-natural-preparatoria",
-    "palabras": [
-      "evolución",
-      "selección natural",
-      "Darwin",
-      "adaptación",
-      "variación",
-      "diversidad",
-      "especies"
-    ],
-    "contenido": {
-      "idea": "Imagina un salón de ratones de colores en un campo café: el halcón ve más fácil a los blancos. Los café sobreviven y tienen más crías, y con el tiempo casi todos serán café.",
-      "pizarron": "**La ley:** los individuos mejor adaptados sobreviven más y dejan más crías, y así cambia la población.\n\n1. Los individuos son distintos.\n2. Parte se hereda.\n3. No todos sobreviven.\n4. Los mejor adaptados se reproducen más.\n\n**Ojo:** nadie cambia porque quiera. Cambia la población.\n\n**Ejemplos:** bacterias resistentes y pinzones.\n\n**Para recordar:**\n- **¿Por qué la variación es necesaria para la selección natural?** Porque, si todos fueran iguales, el ambiente no tendría diferencias sobre las cuales actuar.\n\n**Para tu escuela:** explica por qué no hay que abusar de antibióticos.",
-      "truco": "VHR: Variación, Herencia, Reproducción diferencial.",
-      "practica": {
-        "ejercicio": "Una bacteria resistente sobrevive a un antibiótico y se reproduce. ¿Qué principio de la selección natural ilustra?",
-        "respuesta": "El éxito reproductivo diferencial: el individuo mejor adaptado deja más descendientes que heredan la resistencia."
-      },
-      "analogias": [
-        {
-          "titulo": "El filtro",
-          "texto": "El ambiente funciona como una coladera que deja pasar a los individuos con rasgos útiles y retiene a los menos aptos."
-        },
-        {
-          "titulo": "Carrera de relevos",
-          "texto": "Cada generación pasa el testigo con los rasgos que ayudaron a ganar; tras muchas vueltas, el equipo es distinto."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué la variación es necesaria para la selección natural?",
-          "respuesta": "Porque, si todos fueran iguales, el ambiente no tendría diferencias sobre las cuales actuar."
-        },
-        {
-          "ejercicio": "¿Una jirafa estira el cuello y sus crías nacen con cuello más largo? Explica.",
-          "respuesta": "No. Los rasgos adquiridos en vida no se heredan; la selección actúa sobre variaciones hereditarias presentes en la población."
-        },
-        {
-          "ejercicio": "Explica con los cuatro pasos de Darwin por qué aumentan las bacterias resistentes.",
-          "respuesta": "Hay variación entre bacterias, la resistencia es hereditaria, el antibiótico elimina a las sensibles y las resistentes se reproducen más."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-083",
-    "titulo": "Características de los seres vivos",
-    "slug": "caracteristicas-seres-vivos-preparatoria",
-    "palabras": [
-      "seres vivos",
-      "metabolismo",
-      "homeostasis",
-      "reproducción",
-      "irritabilidad",
-      "organización",
-      "adaptación"
-    ],
-    "contenido": {
-      "idea": "¿Cómo sabes que un perro es un ser vivo y una piedra no? El perro come, crece, reacciona cuando lo llamas y tiene cachorros. La piedra no hace nada de eso por sí misma.",
-      "pizarron": "**Qué es:** un ser vivo es el que cumple estas siete características.\n\n1. Tiene células.\n2. Usa energía.\n3. Mantiene su cuerpo estable.\n4. Crece.\n5. Se reproduce.\n6. Responde a lo que pasa.\n7. Hereda y se adapta.\n\nUna sola no basta. El fuego crece y usa energía, pero no tiene células.\n\nLas levaduras hacen pan porque están vivas.\n\n**Para tu escuela:** demuestra con la lista por qué una piedra no está viva.",
-      "truco": "OMHCRRE: Organización, Metabolismo, Homeostasis, Crecimiento, Reproducción, Respuesta, Evolución.",
-      "practica": {
-        "ejercicio": "Al hacer ejercicio sudas para bajar tu temperatura. ¿Qué característica de los seres vivos ilustra?",
-        "respuesta": "La homeostasis."
-      },
-      "analogias": [
-        {
-          "titulo": "El termostato",
-          "texto": "Un ser vivo es como una casa con termostato propio: enciende o apaga mecanismos para mantener todo en equilibrio por dentro."
-        },
-        {
-          "titulo": "El teléfono celular",
-          "texto": "Un celular gasta batería y responde cuando lo tocas, pero no crece ni tiene crías; por eso no basta con \"usar energía\" para ser vivo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué el fuego no se considera un ser vivo aunque crezca y consuma energía?",
-          "respuesta": "Porque no tiene células, no se reproduce con información genética ni mantiene homeostasis."
-        },
-        {
-          "ejercicio": "Una planta gira sus hojas hacia la luz. ¿Qué característica muestra?",
-          "respuesta": "Respuesta a estímulos."
-        },
-        {
-          "ejercicio": "Menciona una aplicación tecnológica que use organismos vivos.",
-          "respuesta": "Producción de insulina con bacterias, o de pan y bebidas fermentadas con levaduras."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-077",
+"titulo": "Descubrimiento de la célula y teoría celular",
+"slug": "teoria-celular-preparatoria",
+"palabras": [
+"célula",
+"teoría celular",
+"Hooke",
+"Schleiden",
+"Schwann",
+"Virchow",
+"microscopio"
+],
+"contenido": {
+"idea": "Imagina que miras un muro de lejos y parece liso, pero con una lupa descubres que está hecho de ladrillitos. Los científicos hicieron lo mismo con los seres vivos: con el microscopio vieron que todos están hechos de pequeños ladrillos llamados células.",
+"pizarron": "**La ley:** todo ser vivo está hecho de células, la célula es la unidad básica de la vida, y toda célula viene de otra.\n\n**Quién la descubrió:**\n\n- 1665: Hooke vio células en corcho.\n- 1674: Leeuwenhoek vio células vivas.\n- 1838-1839: Schleiden y Schwann, en plantas y animales.\n- 1855: Virchow: toda célula viene de otra.\n\nCada avance del microscopio trajo un descubrimiento.\n\n**Virchow,** hacia 1855, dijo que toda célula viene de otra célula.\n\n**Hooke** vio cajitas en un corcho y las llamó células.\n\n**Microscopio:** las células son tan chicas que sin él nadie las habría visto.\n\n**Para tu escuela:** haz una línea del tiempo con estas fechas.",
+"truco": "Hooke vio, Schleiden y Schwann unieron, Virchow cerró: toda célula viene de otra.",
+"practica": {
+"ejercicio": "¿Quién propuso que toda célula proviene de otra célula y en qué año aproximadamente?",
+"respuesta": "Rudolf Virchow, hacia 1855."
+},
+"analogias": [
+{
+"titulo": "El ladrillo",
+"texto": "Así como una casa se construye con ladrillos, el cuerpo de una planta, un animal o una bacteria se construye con células, y cada ladrillo tiene vida propia."
+},
+{
+"titulo": "Copia de una copia",
+"texto": "Una fotocopia solo existe si antes hubo un original. De igual modo, una célula nueva solo existe porque otra célula se dividió antes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué observó Hooke en el corcho y qué nombre le dio?",
+"respuesta": "Pequeños compartimentos con forma de celdillas; los llamó células."
+},
+{
+"ejercicio": "Menciona los tres postulados de la teoría celular.",
+"respuesta": "Todo ser vivo se compone de células; la célula es la unidad básica de estructura y función; toda célula proviene de otra célula."
+},
+{
+"ejercicio": "¿Por qué el microscopio fue indispensable para formular la teoría celular?",
+"respuesta": "Porque las células son demasiado pequeñas para verse a simple vista; sin amplificación no se habrían observado ni comparado en plantas y animales."
+}
+]
+}
+},
+{
+"nodo_id": "ems-078",
+"titulo": "Moléculas orgánicas, organelos y tipos de célula",
+"slug": "organelos-y-moleculas-organicas-preparatoria",
+"palabras": [
+"organelos",
+"procariota",
+"eucariota",
+"carbohidratos",
+"lípidos",
+"proteínas",
+"mitocondria"
+],
+"contenido": {
+"idea": "Una célula es como una cocina: tiene ingredientes (las moléculas), cocineros y aparatos (los organelos). Algunas cocinas son un cuarto sencillo y otras tienen habitaciones separadas para cada tarea.",
+"pizarron": "**Qué es:** la célula tiene moléculas orgánicas y partes llamadas organelos, cada una con un trabajo.\n\n**Moléculas:** carbohidratos dan energía. Lípidos guardan energía. Proteínas construyen. Ácidos nucleicos guardan información.\n\n**Organelos:** núcleo, jefe. Mitocondria, planta de energía. Ribosoma, fábrica de proteínas. Golgi, empaque. Cloroplasto, cocina de luz.\n\n**Tipos de célula:** procariota sin núcleo y eucariota con núcleo.\n\n**Para tu escuela:** compara la célula con tu escuela: ¿quién sería el núcleo?",
+"truco": "Pro = sin núcleo; Eu = núcleo verdadero.",
+"practica": {
+"ejercicio": "¿Qué organelo produce la mayor parte del ATP en una célula animal?",
+"respuesta": "La mitocondria."
+},
+"analogias": [
+{
+"titulo": "La ciudad",
+"texto": "El núcleo es el ayuntamiento que guarda los planos, las mitocondrias son las plantas de luz y los ribosomas son las fábricas de productos."
+},
+{
+"titulo": "La mochila",
+"texto": "Una célula procariota es una mochila de un solo compartimento; una eucariota es una mochila con bolsas separadas para cada cosa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué molécula orgánica forma las enzimas?",
+"respuesta": "Las proteínas."
+},
+{
+"ejercicio": "Menciona una diferencia entre célula procariota y eucariota.",
+"respuesta": "La procariota no tiene núcleo definido ni organelos con membrana; la eucariota sí."
+},
+{
+"ejercicio": "¿Qué organelo tienen las células vegetales y no las animales para hacer fotosíntesis?",
+"respuesta": "El cloroplasto."
+}
+]
+}
+},
+{
+"nodo_id": "ems-079",
+"titulo": "ADN, ARN y cromosomas",
+"slug": "adn-arn-cromosomas-preparatoria",
+"palabras": [
+"ADN",
+"ARN",
+"cromosomas",
+"genes",
+"doble hélice",
+"nucleótidos",
+"herencia"
+],
+"contenido": {
+"idea": "El ADN es como un libro de recetas de tu cuerpo. El ARN es una fotocopia de una receta que se lleva a la cocina, donde se prepara el platillo, que es una proteína.",
+"pizarron": "**Qué es:** el ADN guarda las instrucciones de tu cuerpo. El ARN las copia. Los cromosomas las guardan empacadas.\n\nImagina un recetario.\n\n**ADN:** el libro. Tiene dos cadenas, con las bases A, T, C y G. A va con T, y C con G.\n\n**Gen:** una receta.\n\n**ARN:** una copia de una receta. Usa U en lugar de T.\n\n**Cromosomas:** los tomos del libro. Tenemos 46: 23 de mamá y 23 de papá.\n\nUna célula del cuerpo humano tiene 46 cromosomas: 23 pares.\n\n**Para tu escuela:** completa la otra cadena de A-T-C-G.",
+"truco": "A con T, C con G; en ARN la T cambia por U.",
+"practica": {
+"ejercicio": "Una cadena de ADN dice AATGC. ¿Cuál es la cadena complementaria?",
+"respuesta": "TTACG."
+},
+"analogias": [
+{
+"titulo": "La escalera de caracol",
+"texto": "El ADN es una escalera torcida: los pasamanos son azúcar y fosfato, y los peldaños son pares de bases que encajan siempre igual."
+},
+{
+"titulo": "El libro y la fotocopia",
+"texto": "El libro original no sale de la biblioteca (el núcleo); se saca una copia temporal (ARN) para trabajar con ella."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué base nitrogenada exclusiva tiene el ARN?",
+"respuesta": "Uracilo (U)."
+},
+{
+"ejercicio": "Si una molécula de ADN tiene 20 % de adenina, ¿qué porcentaje de timina tiene?",
+"respuesta": "20 %, porque A se aparea con T."
+},
+{
+"ejercicio": "¿Cuántos cromosomas hay en una célula del cuerpo humano?",
+"respuesta": "46, es decir, 23 pares."
+}
+]
+}
+},
+{
+"nodo_id": "ems-080",
+"titulo": "Mitosis y meiosis",
+"slug": "mitosis-y-meiosis-preparatoria",
+"palabras": [
+"mitosis",
+"meiosis",
+"división celular",
+"gametos",
+"profase",
+"metafase",
+"anafase",
+"telofase"
+],
+"contenido": {
+"idea": "Mitosis es como sacar una fotocopia exacta de una hoja para tener dos iguales. Meiosis es como repartir una baraja entre varios jugadores: cada uno recibe solo la mitad de las cartas.",
+"pizarron": "**Qué es:** la mitosis da dos células iguales. La meiosis da cuatro con la mitad de cromosomas.\n\n**Mitosis:** para crecer y sanar. De 46 cromosomas salen células con 46.\n\nPasos: profase, metafase, anafase y telofase.\n\n**Meiosis:** para hacer óvulos y espermatozoides. De 46 salen células con 23.\n\nAl unirse dos, vuelve a haber 46.\n\nSi la mitosis se descontrola, puede haber cáncer.\n\n**Gametos:** tienen la mitad para que, al unirse, $23 + 23$ den 46.\n\n**Para tu escuela:** dibuja cuántas células y cromosomas da cada una.",
+"truco": "PMAT: Profase, Metafase, Anafase, Telofase. Mitosis = 2 iguales; meiosis = 4 distintas.",
+"practica": {
+"ejercicio": "Una célula humana de 46 cromosomas se divide por meiosis. ¿Cuántas células resultan y con cuántos cromosomas cada una?",
+"respuesta": "4 células con 23 cromosomas cada una."
+},
+"analogias": [
+{
+"titulo": "Fotocopiadora",
+"texto": "La mitosis copia una hoja completa y entrega dos hojas idénticas, útiles para reemplazar piezas del cuerpo."
+},
+{
+"titulo": "Mezclar y repartir",
+"texto": "La meiosis baraja las cartas genéticas y reparte la mitad a cada gameto, por eso los hermanos no son idénticos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿En qué fase de la mitosis se separan las cromátidas hermanas?",
+"respuesta": "En la anafase."
+},
+{
+"ejercicio": "Menciona dos diferencias entre mitosis y meiosis.",
+"respuesta": "La mitosis da 2 células idénticas con 46 cromosomas y ocurre en células del cuerpo; la meiosis da 4 células distintas con 23 cromosomas y forma gametos."
+},
+{
+"ejercicio": "¿Por qué los gametos deben tener la mitad de cromosomas?",
+"respuesta": "Para que al fecundarse se sumen 23 + 23 = 46 y la especie conserve su número de cromosomas."
+}
+]
+}
+},
+{
+"nodo_id": "ems-081",
+"titulo": "Herencia biológica y genética",
+"slug": "herencia-y-genetica-preparatoria",
+"palabras": [
+"herencia",
+"genética",
+"Mendel",
+"alelos",
+"dominante",
+"recesivo",
+"Punnett",
+"genotipo",
+"fenotipo"
+],
+"contenido": {
+"idea": "Es como mezclar dos mazos de cartas: de tu mamá recibes una carta por cada característica y de tu papá otra. Cuál se nota depende de cuál carta \"manda\".",
+"pizarron": "**Qué es:** la genética estudia cómo se heredan los rasgos de padres a hijos.\n\nGregor Mendel estudió chícharos y descubrió reglas de la herencia.\n\n- Gen: instrucción para una característica.\n- Alelos: versiones de un gen. Se heredan dos, uno de cada progenitor.\n- Dominante (A): se manifiesta con una sola copia.\n- Recesivo (a): solo se manifiesta con dos copias (aa).\n- Genotipo: los alelos (Aa). Fenotipo: lo que se observa.\n\nCruza de dos heterocigotos Aa × Aa (cuadro de Punnett):\n- AA, Aa, Aa, aa.\n- Genotipos: 25 % AA, 50 % Aa, 25 % aa.\n- Fenotipos: 75 % dominante y 25 % recesivo (razón 3:1).\n\nSituaciones reales: grupos sanguíneos, el color de ojos y enfermedades hereditarias como la fibrosis quística (recesiva). La genética permite orientar a familias y mejorar cultivos.\n\n**Para tu escuela:** compara un rasgo tuyo con el de tu familia.",
+"truco": "Dominante manda con una copia; recesivo necesita dos. Aa × Aa da 3:1.",
+"practica": {
+"ejercicio": "En Aa × Aa, ¿qué probabilidad hay de un descendiente aa?",
+"respuesta": "1/4, es decir, 25 %."
+},
+"analogias": [
+{
+"titulo": "Dos interruptores",
+"texto": "Cada persona tiene dos interruptores por característica; si uno es dominante, la luz se enciende aunque el otro esté apagado."
+},
+{
+"titulo": "Receta de familia",
+"texto": "Cada progenitor aporta una versión de la receta; el platillo final depende de cómo se combinan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es la diferencia entre genotipo y fenotipo?",
+"respuesta": "El genotipo son los alelos que tiene el individuo; el fenotipo es la característica que se observa."
+},
+{
+"ejercicio": "Cruza AA × aa. ¿Qué genotipo tienen todos los hijos?",
+"respuesta": "Todos Aa (100 % heterocigotos) y muestran el fenotipo dominante."
+},
+{
+"ejercicio": "Dos padres Aa tienen 4 hijos. ¿Cuántos se esperan con fenotipo recesivo en promedio?",
+"respuesta": "Uno de cada cuatro (25 %), aunque en familias pequeñas puede variar por azar."
+}
+]
+}
+},
+{
+"nodo_id": "ems-082",
+"titulo": "Evolución por selección natural",
+"slug": "seleccion-natural-preparatoria",
+"palabras": [
+"evolución",
+"selección natural",
+"Darwin",
+"adaptación",
+"variación",
+"diversidad",
+"especies"
+],
+"contenido": {
+"idea": "Imagina un salón de ratones de colores en un campo café: el halcón ve más fácil a los blancos. Los café sobreviven y tienen más crías, y con el tiempo casi todos serán café.",
+"pizarron": "**La ley:** los individuos mejor adaptados sobreviven más y dejan más crías, y así cambia la población.\n\n1. Los individuos son distintos.\n2. Parte se hereda.\n3. No todos sobreviven.\n4. Los mejor adaptados se reproducen más.\n\n**Ojo:** nadie cambia porque quiera. Cambia la población.\n\n**Ejemplos:** bacterias resistentes y pinzones.\n\n**Variación:** si todos fueran iguales, el ambiente no podría elegir a nadie.\n\n**Para tu escuela:** explica por qué no hay que abusar de antibióticos.",
+"truco": "VHR: Variación, Herencia, Reproducción diferencial.",
+"practica": {
+"ejercicio": "Una bacteria resistente sobrevive a un antibiótico y se reproduce. ¿Qué principio de la selección natural ilustra?",
+"respuesta": "El éxito reproductivo diferencial: el individuo mejor adaptado deja más descendientes que heredan la resistencia."
+},
+"analogias": [
+{
+"titulo": "El filtro",
+"texto": "El ambiente funciona como una coladera que deja pasar a los individuos con rasgos útiles y retiene a los menos aptos."
+},
+{
+"titulo": "Carrera de relevos",
+"texto": "Cada generación pasa el testigo con los rasgos que ayudaron a ganar; tras muchas vueltas, el equipo es distinto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué la variación es necesaria para la selección natural?",
+"respuesta": "Porque, si todos fueran iguales, el ambiente no tendría diferencias sobre las cuales actuar."
+},
+{
+"ejercicio": "¿Una jirafa estira el cuello y sus crías nacen con cuello más largo? Explica.",
+"respuesta": "No. Los rasgos adquiridos en vida no se heredan; la selección actúa sobre variaciones hereditarias presentes en la población."
+},
+{
+"ejercicio": "Explica con los cuatro pasos de Darwin por qué aumentan las bacterias resistentes.",
+"respuesta": "Hay variación entre bacterias, la resistencia es hereditaria, el antibiótico elimina a las sensibles y las resistentes se reproducen más."
+}
+]
+}
+},
+{
+"nodo_id": "ems-083",
+"titulo": "Características de los seres vivos",
+"slug": "caracteristicas-seres-vivos-preparatoria",
+"palabras": [
+"seres vivos",
+"metabolismo",
+"homeostasis",
+"reproducción",
+"irritabilidad",
+"organización",
+"adaptación"
+],
+"contenido": {
+"idea": "¿Cómo sabes que un perro es un ser vivo y una piedra no? El perro come, crece, reacciona cuando lo llamas y tiene cachorros. La piedra no hace nada de eso por sí misma.",
+"pizarron": "**Qué es:** un ser vivo es el que cumple estas siete características.\n\n1. Tiene células.\n2. Usa energía.\n3. Mantiene su cuerpo estable.\n4. Crece.\n5. Se reproduce.\n6. Responde a lo que pasa.\n7. Hereda y se adapta.\n\nUna sola no basta. El fuego crece y usa energía, pero no tiene células.\n\nLas levaduras hacen pan porque están vivas.\n\n**Para tu escuela:** demuestra con la lista por qué una piedra no está viva.",
+"truco": "OMHCRRE: Organización, Metabolismo, Homeostasis, Crecimiento, Reproducción, Respuesta, Evolución.",
+"practica": {
+"ejercicio": "Al hacer ejercicio sudas para bajar tu temperatura. ¿Qué característica de los seres vivos ilustra?",
+"respuesta": "La homeostasis."
+},
+"analogias": [
+{
+"titulo": "El termostato",
+"texto": "Un ser vivo es como una casa con termostato propio: enciende o apaga mecanismos para mantener todo en equilibrio por dentro."
+},
+{
+"titulo": "El teléfono celular",
+"texto": "Un celular gasta batería y responde cuando lo tocas, pero no crece ni tiene crías; por eso no basta con \"usar energía\" para ser vivo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué el fuego no se considera un ser vivo aunque crezca y consuma energía?",
+"respuesta": "Porque no tiene células, no se reproduce con información genética ni mantiene homeostasis."
+},
+{
+"ejercicio": "Una planta gira sus hojas hacia la luz. ¿Qué característica muestra?",
+"respuesta": "Respuesta a estímulos."
+},
+{
+"ejercicio": "Menciona una aplicación tecnológica que use organismos vivos.",
+"respuesta": "Producción de insulina con bacterias, o de pan y bebidas fermentadas con levaduras."
+}
+]
+}
+}
 ]

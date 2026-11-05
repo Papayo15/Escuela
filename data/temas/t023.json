@@ -1,472 +1,472 @@
 [
-  {
-    "nodo_id": "f5-036",
-    "titulo": "Cartas personales: cómo escribirlas y enviarlas",
-    "slug": "cartas-personales-primaria",
-    "palabras": [
-      "carta",
-      "remitente",
-      "destinatario",
-      "sobre",
-      "correo",
-      "saludo",
-      "despedida"
-    ],
-    "contenido": {
-      "idea": "Una carta es como una conversación por escrito con alguien que está lejos. Es como hablarle a tu abuelita por teléfono, pero en papel: la saludas, le cuentas cosas y te despides.",
-      "pizarron": "**Qué es:** una carta personal es un mensaje escrito para alguien.\n\n**Partes:**\n\n1. Lugar y fecha.\n2. Saludo: *Querida abuela:*\n3. Mensaje.\n4. Despedida.\n5. Firma.\n\n**Para recordar:**\n- **¿Quién es el remitente de una carta?** La persona que la envía; su nombre y dirección van en el sobre.\n- **¿Qué datos debe tener la dirección del destinatario para que llegue la carta?** Nombre, calle y número, colonia, código postal, ciudad y estado.\n\n**Para tu escuela:** escribe una carta a un familiar.",
-      "truco": "Fecha, saludo, cuerpo, despedida y firma: FSCDF.",
-      "practica": {
-        "ejercicio": "Escribe el saludo y la despedida de una carta para tu abuelo Juan.",
-        "respuesta": "Ejemplo: Saludo: Querido abuelo Juan: Despedida: Te quiere mucho, tu nieto (nombre). Se acepta cualquier saludo y despedida cariñosos y con dos puntos o coma."
-      },
-      "analogias": [
-        {
-          "titulo": "El paquete",
-          "texto": "La carta es un paquete con un mensaje adentro: el sobre es la caja, el destinatario es la dirección de entrega y el remitente es de dónde salió."
-        },
-        {
-          "titulo": "El sándwich",
-          "texto": "El saludo y la despedida son los dos panes, y el cuerpo es el relleno donde está lo importante que quieres contar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién es el remitente de una carta?",
-          "respuesta": "La persona que la envía; su nombre y dirección van en el sobre."
-        },
-        {
-          "ejercicio": "Ordena: firma, saludo, cuerpo, fecha, despedida.",
-          "respuesta": "Fecha, saludo, cuerpo, despedida, firma."
-        },
-        {
-          "ejercicio": "¿Qué datos debe tener la dirección del destinatario para que llegue la carta?",
-          "respuesta": "Nombre, calle y número, colonia, código postal, ciudad y estado."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-040",
-    "titulo": "Anuncios publicitarios de la comunidad",
-    "slug": "anuncios-publicitarios-comunidad-primaria",
-    "palabras": [
-      "anuncio",
-      "publicidad",
-      "cartel",
-      "eslogan",
-      "propaganda",
-      "producto",
-      "servicio"
-    ],
-    "contenido": {
-      "idea": "Un anuncio es como el vendedor del mercado que grita: «¡Lleve sus naranjas, dulcecitas!». Quiere que te fijes en lo que vende y que te den ganas de comprarlo.",
-      "pizarron": "**Qué es:** un anuncio quiere convencerte de comprar o hacer algo.\n\nUsa imágenes, colores y frases cortas.\n\n**Ejemplo:** *¡El pan más rico de la colonia!*\n\nPregúntate: ¿es cierto?, ¿lo necesito?\n\n**Para tu escuela:** crea un anuncio para la tiendita.",
-      "truco": "Llama, informa y convence: nombre, eslogan, datos.",
-      "practica": {
-        "ejercicio": "Inventa un eslogan con rima para una panadería llamada «La Espiga».",
-        "respuesta": "Ejemplo: «En La Espiga, el pan siempre se abriga». Vale cualquier frase breve, con rima y relacionada con el pan."
-      },
-      "analogias": [
-        {
-          "titulo": "La vitrina",
-          "texto": "Un anuncio es la vitrina de una tienda: muestra lo mejor para que la gente se detenga y entre a ver."
-        },
-        {
-          "titulo": "El pregonero",
-          "texto": "Antes, un pregonero caminaba por las calles gritando lo que vendía; hoy un cartel o volante hace ese trabajo sin voz."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué función tiene un eslogan?",
-          "respuesta": "Resumir en una frase corta y fácil de recordar lo que se ofrece, para convencer."
-        },
-        {
-          "ejercicio": "Un cartel dice «El mejor pan del universo». ¿Es información o exageración?",
-          "respuesta": "Es exageración publicitaria; no se puede comprobar."
-        },
-        {
-          "ejercicio": "Menciona tres datos que debe llevar el anuncio de un servicio de plomería.",
-          "respuesta": "Por ejemplo: nombre del servicio, teléfono, zona donde trabaja u horario."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-043",
-    "titulo": "Seguimiento crítico de noticias",
-    "slug": "seguimiento-critico-noticias-primaria",
-    "palabras": [
-      "noticia",
-      "periódico",
-      "medios de comunicación",
-      "fuente",
-      "opinión",
-      "hecho",
-      "fake news"
-    ],
-    "contenido": {
-      "idea": "Seguir una noticia es como armar un rompecabezas: una sola pieza no muestra la imagen completa; debes juntar varias piezas de diferentes lugares para entender qué pasó.",
-      "pizarron": "**Qué es:** es seguir una noticia y comparar fuentes.\n\nPregunta quién lo dice y si hay pruebas.\n\n**Para recordar:**\n- **Titular exagerado y qué haces ante él:** Es un título que promete más de lo que dice la nota; hay que leer toda la noticia y verificarla.\n- **¿Por qué conviene leer una noticia en más de un medio?** Para comparar datos, detectar errores o exageraciones y tener una idea más completa.\n\n**Para tu escuela:** compara una noticia en dos medios.",
-      "truco": "Compara, comprueba, cuestiona: tres C antes de creer.",
-      "practica": {
-        "ejercicio": "¿Es hecho u opinión? «Ayer se inauguró la biblioteca» / «La biblioteca es muy bonita».",
-        "respuesta": "La primera es un hecho; la segunda es una opinión."
-      },
-      "analogias": [
-        {
-          "titulo": "Los testigos",
-          "texto": "Si hubo un accidente en el patio, preguntas a varios testigos, no solo a uno; así sabes mejor qué pasó."
-        },
-        {
-          "titulo": "El detective",
-          "texto": "Un buen lector es como detective: busca pistas, compara versiones y no acusa sin pruebas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué conviene leer una noticia en más de un medio?",
-          "respuesta": "Para comparar datos, detectar errores o exageraciones y tener una idea más completa."
-        },
-        {
-          "ejercicio": "Escribe una pregunta para revisar si una fuente es confiable.",
-          "respuesta": "Ejemplo: ¿Quién lo publica y tiene fecha, autor y datos comprobables?"
-        },
-        {
-          "ejercicio": "¿Qué es un titular exagerado y qué haces ante él?",
-          "respuesta": "Es un título que promete más de lo que dice la nota; hay que leer toda la noticia y verificarla."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-046",
-    "titulo": "Textos para gestionar servicios públicos",
-    "slug": "textos-servicios-publicos-primaria",
-    "palabras": [
-      "solicitud",
-      "queja",
-      "oficio",
-      "servicios públicos",
-      "formulario",
-      "petición",
-      "trámite"
-    ],
-    "contenido": {
-      "idea": "Si la lámpara de tu calle no prende, no basta con quejarte en casa. Es como pedirle ayuda a un adulto responsable: debes explicarle bien qué pasa y dónde para que pueda arreglarlo.",
-      "pizarron": "**Qué es:** son formularios y avisos para trámites como luz y agua.\n\nLlena tus datos con cuidado.\n\n**Para recordar:**\n- **¿Por qué debe usarse lenguaje formal en una solicitud?** Por respeto y para que sea tomada en serio y se entienda con claridad.\n\n**Para tu escuela:** revisa un recibo y di qué dice.",
-      "truco": "Qué, dónde, desde cuándo y qué pides.",
-      "practica": {
-        "ejercicio": "Escribe la petición de una solicitud sobre una fuga de agua en la calle Hidalgo.",
-        "respuesta": "Ejemplo: Solicito atentamente que reparen la fuga de agua en calle Hidalgo, frente al número 12, que existe desde hace una semana."
-      },
-      "analogias": [
-        {
-          "titulo": "El mensaje al doctor",
-          "texto": "Para que un doctor te ayude, le explicas dónde te duele y desde cuándo; en una solicitud explicas qué falla y dónde."
-        },
-        {
-          "titulo": "La receta",
-          "texto": "Un trámite es como una receta de cocina: si omites un paso o un dato, no sale bien el resultado."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos servicios públicos.",
-          "respuesta": "Por ejemplo: agua potable y alumbrado público."
-        },
-        {
-          "ejercicio": "¿Por qué debe usarse lenguaje formal en una solicitud?",
-          "respuesta": "Por respeto y para que sea tomada en serio y se entienda con claridad."
-        },
-        {
-          "ejercicio": "¿Qué falta? «Hay un bache. Arréglenlo». Corrige.",
-          "respuesta": "Falta dónde está, desde cuándo, saludo, fecha, firma y datos. Ejemplo: Hay un bache en la calle Juárez 20 desde hace un mes; solicito su reparación."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-051",
-    "titulo": "Tríptico informativo para prevenir un problema",
-    "slug": "triptico-informativo-prevencion-primaria",
-    "palabras": [
-      "tríptico",
-      "folleto",
-      "prevención",
-      "campaña",
-      "texto informativo",
-      "salud",
-      "comunidad"
-    ],
-    "contenido": {
-      "idea": "Un tríptico es como una hoja doblada en tres puertas: cada puerta muestra una parte del mensaje, y al abrirlas todas entiendes cómo cuidarte de un problema.",
-      "pizarron": "**Qué es:** un tríptico es una hoja doblada en tres partes, con información breve.\n\n**Para recordar:**\n- **¿Qué va en la portada de un tríptico?** El título llamativo y una imagen relacionada con el tema.\n- **¿Por qué debe ser breve el texto?** Para que se lea rápido, se entienda fácil y las ideas principales se recuerden.\n\n**Para tu escuela:** haz un tríptico sobre prevenir el dengue.",
-      "truco": "Tres partes: te atraigo, te explico, te oriento.",
-      "practica": {
-        "ejercicio": "Para un tríptico sobre el dengue, escribe un título y una medida de prevención.",
-        "respuesta": "Ejemplo: «Di no al dengue». Medida: vaciar recipientes con agua estancada cada semana."
-      },
-      "analogias": [
-        {
-          "titulo": "El mapa plegado",
-          "texto": "Un tríptico es como un mapa doblado: lo abres por secciones para encontrar justo la información que necesitas."
-        },
-        {
-          "titulo": "El escudo",
-          "texto": "Informar a tiempo funciona como un escudo: si la comunidad sabe cómo prevenir, el problema tiene menos fuerza."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué va en la portada de un tríptico?",
-          "respuesta": "El título llamativo y una imagen relacionada con el tema."
-        },
-        {
-          "ejercicio": "Menciona dos pasos para elaborar un tríptico.",
-          "respuesta": "Por ejemplo: investigar en fuentes confiables y redactar con oraciones claras."
-        },
-        {
-          "ejercicio": "¿Por qué debe ser breve el texto?",
-          "respuesta": "Para que se lea rápido, se entienda fácil y las ideas principales se recuerden."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-055",
-    "titulo": "Diversidad lingüística de México",
-    "slug": "diversidad-linguistica-mexico-primaria",
-    "palabras": [
-      "lenguas indígenas",
-      "náhuatl",
-      "maya",
-      "idioma",
-      "variantes",
-      "pueblos originarios",
-      "lengua materna"
-    ],
-    "contenido": {
-      "idea": "México es como un jardín con muchas flores distintas: cada lengua es una flor con su color y su perfume, y todas hacen más bello el jardín.",
-      "pizarron": "**Qué es:** México tiene 68 lenguas indígenas, además del español y la lengua de señas.\n\nNáhuatl, maya y zapoteco, entre otras.\n\n**Para recordar:**\n- **¿Por qué una lengua puede estar en riesgo?** Porque cada vez menos personas, sobre todo niños, la aprenden y la usan.\n\n**Para tu escuela:** busca qué lengua se habla en tu estado.",
-      "truco": "Muchas voces, un país: respeta, escucha y aprende.",
-      "practica": {
-        "ejercicio": "Escribe tres palabras del español de México que vengan del náhuatl.",
-        "respuesta": "Ejemplos: chocolate, tomate, aguacate, papalote, tianguis, elote."
-      },
-      "analogias": [
-        {
-          "titulo": "La orquesta",
-          "texto": "Cada lengua es un instrumento: juntas forman una orquesta; si uno desaparece, se pierde una parte de la música."
-        },
-        {
-          "titulo": "El mercado de colores",
-          "texto": "Como en un mercado con frutas de muchos colores, cada lengua aporta algo único que no se encuentra en otra."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos lenguas indígenas habladas en México.",
-          "respuesta": "Por ejemplo: náhuatl y maya."
-        },
-        {
-          "ejercicio": "¿Por qué una lengua puede estar en riesgo?",
-          "respuesta": "Porque cada vez menos personas, sobre todo niños, la aprenden y la usan."
-        },
-        {
-          "ejercicio": "Un compañero habla con un acento distinto al tuyo. ¿Cómo actúas con respeto? Da dos acciones.",
-          "respuesta": "Escucharlo con atención y no burlarme; preguntar con interés qué significan sus palabras. Cualquier respuesta respetuosa vale."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-059",
-    "titulo": "Manifestaciones culturales y artísticas",
-    "slug": "manifestaciones-culturales-artisticas-primaria",
-    "palabras": [
-      "arte",
-      "cultura",
-      "danza",
-      "música",
-      "artesanías",
-      "pintura",
-      "patrimonio"
-    ],
-    "contenido": {
-      "idea": "Una obra de arte es como una carta sin palabras: alguien quiso contarte lo que sentía o pensaba usando colores, sonidos o movimientos.",
-      "pizarron": "**Qué es:** son expresiones de cada comunidad: pintura, danza, música, fiestas y artesanías.\n\nCada una comunica algo sobre quiénes son.\n\n**Valorar con razones:** di qué opinas y por qué, no solo *me gusta*.\n\n**Para interpretar una obra, pregunta:** ¿qué colores usa?, ¿qué sentimiento da?, ¿qué historia cuenta?\n\n**Para recordar:**\n- **Valorar una obra con razones:** Decir qué opinas y explicar por qué, en lugar de solo decir «me gusta» o «no me gusta».\n\n**Para tu escuela:** describe una fiesta de tu comunidad.",
-      "truco": "Observa, siente, interpreta y valora con razones.",
-      "practica": {
-        "ejercicio": "Elige una manifestación artística de tu región y di qué comunica.",
-        "respuesta": "Respuesta libre; debe nombrar la manifestación (por ejemplo, una danza) y explicar con razones qué expresa."
-      },
-      "analogias": [
-        {
-          "titulo": "El espejo",
-          "texto": "El arte es un espejo de un pueblo: muestra cómo vive, qué ama y qué recuerda."
-        },
-        {
-          "titulo": "La receta familiar",
-          "texto": "Las tradiciones se heredan como recetas: pasan de abuelos a nietos y cada generación les pone algo propio."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres formas de arte.",
-          "respuesta": "Por ejemplo: pintura, danza y música."
-        },
-        {
-          "ejercicio": "¿Qué es valorar una obra con razones?",
-          "respuesta": "Decir qué opinas y explicar por qué, en lugar de solo decir «me gusta» o «no me gusta»."
-        },
-        {
-          "ejercicio": "Observa un mural y escribe dos preguntas para interpretarlo.",
-          "respuesta": "Ejemplos: ¿Qué colores predominan y qué sentimiento dan? ¿Qué historia quiere contar?"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-063",
-    "titulo": "Intervención artística en el espacio comunitario",
-    "slug": "intervencion-artistica-comunitaria-primaria",
-    "palabras": [
-      "mural",
-      "espacio público",
-      "arte comunitario",
-      "intervención",
-      "colectivo",
-      "comunidad",
-      "apropiación"
-    ],
-    "contenido": {
-      "idea": "Imagina que la barda gris de tu escuela se convierte en un cuento pintado por todos. Es como decorar tu casa, pero la casa es de toda la comunidad.",
-      "pizarron": "**Qué es:** es usar el arte para mejorar un lugar. Un mural en una barda sucia.\n\n**Otras formas:** teatro en la plaza y esculturas con material reciclado.\n\n**Antes de empezar:** pide permiso y acuerda el diseño con la comunidad.\n\n**Después:** cuídenla entre todos, para que no se dañe.\n\n**Toda intervención dice:** lugar, tipo de arte y mensaje.\n\n**Para tu escuela:** propón dónde harías un mural.",
-      "truco": "Permiso, plan, equipo, obra y cuidado.",
-      "practica": {
-        "ejercicio": "Propón una intervención artística para el patio de tu escuela y su mensaje.",
-        "respuesta": "Respuesta libre; por ejemplo, un mural sobre el cuidado del agua. Debe incluir lugar, tipo de arte y mensaje."
-      },
-      "analogias": [
-        {
-          "titulo": "La fiesta",
-          "texto": "Una obra comunitaria es como una fiesta: cada persona lleva algo y entre todos la hacen especial."
-        },
-        {
-          "titulo": "El jardín",
-          "texto": "Un espacio sin arte es un terreno vacío; con la participación de todos, florece y se vuelve un lugar querido."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué debes hacer antes de pintar un mural en un muro público?",
-          "respuesta": "Pedir permiso a las autoridades o dueños y acordar el diseño con la comunidad."
-        },
-        {
-          "ejercicio": "Menciona dos formas de intervención artística, además del mural.",
-          "respuesta": "Por ejemplo: teatro en la plaza y escultura con material reciclado."
-        },
-        {
-          "ejercicio": "¿Por qué es importante cuidar la obra después?",
-          "respuesta": "Porque es de todos y su cuidado muestra respeto por el trabajo y por la comunidad."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-066",
-    "titulo": "Cuentos y poemas: análisis y disfrute",
-    "slug": "cuentos-poemas-analisis-primaria",
-    "palabras": [
-      "cuento",
-      "poema",
-      "verso",
-      "estrofa",
-      "rima",
-      "narrador",
-      "personajes"
-    ],
-    "contenido": {
-      "idea": "Un cuento es una película que se ve con la imaginación, y un poema es una canción sin música que juega con las palabras para hacerte sentir cosas.",
-      "pizarron": "**Qué es:** analizar es ver de qué trata un texto y cómo está escrito.\n\n**Cuento:** personajes y problema.\n\n**Poema:** versos y rima.\n\n**Para recordar:**\n- **Rima:** La repetición de sonidos al final de los versos, como «luz» y «cruz».\n- **¿Cuáles son las partes de la trama de un cuento?** Inicio, nudo (problema) y desenlace (solución).\n\n**Para tu escuela:** elige un poema y di qué te hace sentir.",
-      "truco": "Cuento: personajes, ambiente, trama. Poema: verso, estrofa, rima.",
-      "practica": {
-        "ejercicio": "¿Cuántos versos tiene? «Los patos nadan / en el lago azul, / y el sol los baña / con su luz».",
-        "respuesta": "Tiene 4 versos, forman una estrofa."
-      },
-      "analogias": [
-        {
-          "titulo": "La montaña",
-          "texto": "La trama de un cuento es una montaña: se sube con el problema y se baja con la solución."
-        },
-        {
-          "titulo": "El collar",
-          "texto": "Un poema es un collar: cada verso es una cuenta y todas juntas forman algo bello."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuáles son las partes de la trama de un cuento?",
-          "respuesta": "Inicio, nudo (problema) y desenlace (solución)."
-        },
-        {
-          "ejercicio": "¿Qué es una rima?",
-          "respuesta": "La repetición de sonidos al final de los versos, como «luz» y «cruz»."
-        },
-        {
-          "ejercicio": "Identifica la comparación: «Era rápido como el viento».",
-          "respuesta": "Compara la rapidez de alguien con la del viento usando «como»."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-069",
-    "titulo": "Composiciones artísticas colectivas e identidad",
-    "slug": "composiciones-artisticas-colectivas-identidad-primaria",
-    "palabras": [
-      "identidad",
-      "arte colectivo",
-      "danza",
-      "sonido",
-      "imagen",
-      "expresión corporal",
-      "comunidad"
-    ],
-    "contenido": {
-      "idea": "Es como armar una canción entre amigos: uno pone la letra, otro el ritmo y otro el baile. Todos juntos dicen quiénes son.",
-      "pizarron": "**Qué es:** es crear una obra en grupo que muestre quiénes son.\n\nCada quien aporta algo, como en un mural.\n\n**Para recordar:**\n- **¿Qué tres tipos de elementos combina una composición colectiva?** Visuales, sonoros y corporales.\n- **Diferencia identidad personal e identidad colectiva.** La personal es lo que te caracteriza a ti; la colectiva, lo que comparte un grupo.\n\n**Para tu escuela:** hagan un mural de su salón.",
-      "truco": "Ver, oír y moverse: tres lenguajes, una identidad.",
-      "practica": {
-        "ejercicio": "Elige un color, un sonido y un movimiento que representen a tu grupo.",
-        "respuesta": "Respuesta libre; por ejemplo: color verde, aplauso rítmico y un salto en círculo, con una razón de por qué los eliges."
-      },
-      "analogias": [
-        {
-          "titulo": "El mosaico",
-          "texto": "Cada persona es una pieza distinta; juntas forman un mosaico donde se ve la imagen completa del grupo."
-        },
-        {
-          "titulo": "El árbol",
-          "texto": "La identidad colectiva es un árbol: cada persona es una rama y las raíces son las tradiciones que comparten."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tres tipos de elementos combina una composición colectiva?",
-          "respuesta": "Visuales, sonoros y corporales."
-        },
-        {
-          "ejercicio": "Diferencia identidad personal e identidad colectiva.",
-          "respuesta": "La personal es lo que te caracteriza a ti; la colectiva, lo que comparte un grupo."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿cómo mostrar respeto cuando un compañero propone una idea distinta a la tuya?",
-          "respuesta": "Escucharlo, valorar su propuesta, buscar acuerdos y combinar ideas. Se pide al menos una acción de respeto con una razón."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f5-036",
+"titulo": "Cartas personales: cómo escribirlas y enviarlas",
+"slug": "cartas-personales-primaria",
+"palabras": [
+"carta",
+"remitente",
+"destinatario",
+"sobre",
+"correo",
+"saludo",
+"despedida"
+],
+"contenido": {
+"idea": "Una carta es como una conversación por escrito con alguien que está lejos. Es como hablarle a tu abuelita por teléfono, pero en papel: la saludas, le cuentas cosas y te despides.",
+"pizarron": "**Qué es:** una carta personal es un mensaje escrito para alguien.\n\n**Partes:**\n\n1. Lugar y fecha.\n2. Saludo: *Querida abuela:*\n3. Mensaje.\n4. Despedida.\n5. Firma.\n\n**Remitente:** quien envía la carta.\n\n**Dirección del destinatario:** nombre, calle y número, colonia, código postal, ciudad y estado.\n\n**Para tu escuela:** escribe una carta a un familiar.",
+"truco": "Fecha, saludo, cuerpo, despedida y firma: FSCDF.",
+"practica": {
+"ejercicio": "Escribe el saludo y la despedida de una carta para tu abuelo Juan.",
+"respuesta": "Ejemplo: Saludo: Querido abuelo Juan: Despedida: Te quiere mucho, tu nieto (nombre). Se acepta cualquier saludo y despedida cariñosos y con dos puntos o coma."
+},
+"analogias": [
+{
+"titulo": "El paquete",
+"texto": "La carta es un paquete con un mensaje adentro: el sobre es la caja, el destinatario es la dirección de entrega y el remitente es de dónde salió."
+},
+{
+"titulo": "El sándwich",
+"texto": "El saludo y la despedida son los dos panes, y el cuerpo es el relleno donde está lo importante que quieres contar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién es el remitente de una carta?",
+"respuesta": "La persona que la envía; su nombre y dirección van en el sobre."
+},
+{
+"ejercicio": "Ordena: firma, saludo, cuerpo, fecha, despedida.",
+"respuesta": "Fecha, saludo, cuerpo, despedida, firma."
+},
+{
+"ejercicio": "¿Qué datos debe tener la dirección del destinatario para que llegue la carta?",
+"respuesta": "Nombre, calle y número, colonia, código postal, ciudad y estado."
+}
+]
+}
+},
+{
+"nodo_id": "f5-040",
+"titulo": "Anuncios publicitarios de la comunidad",
+"slug": "anuncios-publicitarios-comunidad-primaria",
+"palabras": [
+"anuncio",
+"publicidad",
+"cartel",
+"eslogan",
+"propaganda",
+"producto",
+"servicio"
+],
+"contenido": {
+"idea": "Un anuncio es como el vendedor del mercado que grita: «¡Lleve sus naranjas, dulcecitas!». Quiere que te fijes en lo que vende y que te den ganas de comprarlo.",
+"pizarron": "**Qué es:** un anuncio quiere convencerte de comprar o hacer algo.\n\nUsa imágenes, colores y frases cortas.\n\n**Ejemplo:** *¡El pan más rico de la colonia!*\n\nPregúntate: ¿es cierto?, ¿lo necesito?\n\n**Para tu escuela:** crea un anuncio para la tiendita.",
+"truco": "Llama, informa y convence: nombre, eslogan, datos.",
+"practica": {
+"ejercicio": "Inventa un eslogan con rima para una panadería llamada «La Espiga».",
+"respuesta": "Ejemplo: «En La Espiga, el pan siempre se abriga». Vale cualquier frase breve, con rima y relacionada con el pan."
+},
+"analogias": [
+{
+"titulo": "La vitrina",
+"texto": "Un anuncio es la vitrina de una tienda: muestra lo mejor para que la gente se detenga y entre a ver."
+},
+{
+"titulo": "El pregonero",
+"texto": "Antes, un pregonero caminaba por las calles gritando lo que vendía; hoy un cartel o volante hace ese trabajo sin voz."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué función tiene un eslogan?",
+"respuesta": "Resumir en una frase corta y fácil de recordar lo que se ofrece, para convencer."
+},
+{
+"ejercicio": "Un cartel dice «El mejor pan del universo». ¿Es información o exageración?",
+"respuesta": "Es exageración publicitaria; no se puede comprobar."
+},
+{
+"ejercicio": "Menciona tres datos que debe llevar el anuncio de un servicio de plomería.",
+"respuesta": "Por ejemplo: nombre del servicio, teléfono, zona donde trabaja u horario."
+}
+]
+}
+},
+{
+"nodo_id": "f5-043",
+"titulo": "Seguimiento crítico de noticias",
+"slug": "seguimiento-critico-noticias-primaria",
+"palabras": [
+"noticia",
+"periódico",
+"medios de comunicación",
+"fuente",
+"opinión",
+"hecho",
+"fake news"
+],
+"contenido": {
+"idea": "Seguir una noticia es como armar un rompecabezas: una sola pieza no muestra la imagen completa; debes juntar varias piezas de diferentes lugares para entender qué pasó.",
+"pizarron": "**Qué es:** es seguir una noticia y comparar fuentes.\n\nPregunta quién lo dice y si hay pruebas.\n\n**Titular exagerado:** promete más de lo que dice. Lee toda la nota.\n\n**Varios medios:** al comparar, encuentras errores y exageraciones.\n\n**Para tu escuela:** compara una noticia en dos medios.",
+"truco": "Compara, comprueba, cuestiona: tres C antes de creer.",
+"practica": {
+"ejercicio": "¿Es hecho u opinión? «Ayer se inauguró la biblioteca» / «La biblioteca es muy bonita».",
+"respuesta": "La primera es un hecho; la segunda es una opinión."
+},
+"analogias": [
+{
+"titulo": "Los testigos",
+"texto": "Si hubo un accidente en el patio, preguntas a varios testigos, no solo a uno; así sabes mejor qué pasó."
+},
+{
+"titulo": "El detective",
+"texto": "Un buen lector es como detective: busca pistas, compara versiones y no acusa sin pruebas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué conviene leer una noticia en más de un medio?",
+"respuesta": "Para comparar datos, detectar errores o exageraciones y tener una idea más completa."
+},
+{
+"ejercicio": "Escribe una pregunta para revisar si una fuente es confiable.",
+"respuesta": "Ejemplo: ¿Quién lo publica y tiene fecha, autor y datos comprobables?"
+},
+{
+"ejercicio": "¿Qué es un titular exagerado y qué haces ante él?",
+"respuesta": "Es un título que promete más de lo que dice la nota; hay que leer toda la noticia y verificarla."
+}
+]
+}
+},
+{
+"nodo_id": "f5-046",
+"titulo": "Textos para gestionar servicios públicos",
+"slug": "textos-servicios-publicos-primaria",
+"palabras": [
+"solicitud",
+"queja",
+"oficio",
+"servicios públicos",
+"formulario",
+"petición",
+"trámite"
+],
+"contenido": {
+"idea": "Si la lámpara de tu calle no prende, no basta con quejarte en casa. Es como pedirle ayuda a un adulto responsable: debes explicarle bien qué pasa y dónde para que pueda arreglarlo.",
+"pizarron": "**Qué es:** son formularios y avisos para trámites como luz y agua.\n\nLlena tus datos con cuidado.\n\n**Lenguaje formal:** muestra respeto, se entiende claro y te toman en serio.\n\n**Para tu escuela:** revisa un recibo y di qué dice.",
+"truco": "Qué, dónde, desde cuándo y qué pides.",
+"practica": {
+"ejercicio": "Escribe la petición de una solicitud sobre una fuga de agua en la calle Hidalgo.",
+"respuesta": "Ejemplo: Solicito atentamente que reparen la fuga de agua en calle Hidalgo, frente al número 12, que existe desde hace una semana."
+},
+"analogias": [
+{
+"titulo": "El mensaje al doctor",
+"texto": "Para que un doctor te ayude, le explicas dónde te duele y desde cuándo; en una solicitud explicas qué falla y dónde."
+},
+{
+"titulo": "La receta",
+"texto": "Un trámite es como una receta de cocina: si omites un paso o un dato, no sale bien el resultado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos servicios públicos.",
+"respuesta": "Por ejemplo: agua potable y alumbrado público."
+},
+{
+"ejercicio": "¿Por qué debe usarse lenguaje formal en una solicitud?",
+"respuesta": "Por respeto y para que sea tomada en serio y se entienda con claridad."
+},
+{
+"ejercicio": "¿Qué falta? «Hay un bache. Arréglenlo». Corrige.",
+"respuesta": "Falta dónde está, desde cuándo, saludo, fecha, firma y datos. Ejemplo: Hay un bache en la calle Juárez 20 desde hace un mes; solicito su reparación."
+}
+]
+}
+},
+{
+"nodo_id": "f5-051",
+"titulo": "Tríptico informativo para prevenir un problema",
+"slug": "triptico-informativo-prevencion-primaria",
+"palabras": [
+"tríptico",
+"folleto",
+"prevención",
+"campaña",
+"texto informativo",
+"salud",
+"comunidad"
+],
+"contenido": {
+"idea": "Un tríptico es como una hoja doblada en tres puertas: cada puerta muestra una parte del mensaje, y al abrirlas todas entiendes cómo cuidarte de un problema.",
+"pizarron": "**Qué es:** un tríptico es una hoja doblada en tres partes, con información breve.\n\n**Portada:** título llamativo y una imagen.\n\n**Texto breve:** se lee rápido y se recuerda.\n\n**Para tu escuela:** haz un tríptico sobre prevenir el dengue.",
+"truco": "Tres partes: te atraigo, te explico, te oriento.",
+"practica": {
+"ejercicio": "Para un tríptico sobre el dengue, escribe un título y una medida de prevención.",
+"respuesta": "Ejemplo: «Di no al dengue». Medida: vaciar recipientes con agua estancada cada semana."
+},
+"analogias": [
+{
+"titulo": "El mapa plegado",
+"texto": "Un tríptico es como un mapa doblado: lo abres por secciones para encontrar justo la información que necesitas."
+},
+{
+"titulo": "El escudo",
+"texto": "Informar a tiempo funciona como un escudo: si la comunidad sabe cómo prevenir, el problema tiene menos fuerza."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué va en la portada de un tríptico?",
+"respuesta": "El título llamativo y una imagen relacionada con el tema."
+},
+{
+"ejercicio": "Menciona dos pasos para elaborar un tríptico.",
+"respuesta": "Por ejemplo: investigar en fuentes confiables y redactar con oraciones claras."
+},
+{
+"ejercicio": "¿Por qué debe ser breve el texto?",
+"respuesta": "Para que se lea rápido, se entienda fácil y las ideas principales se recuerden."
+}
+]
+}
+},
+{
+"nodo_id": "f5-055",
+"titulo": "Diversidad lingüística de México",
+"slug": "diversidad-linguistica-mexico-primaria",
+"palabras": [
+"lenguas indígenas",
+"náhuatl",
+"maya",
+"idioma",
+"variantes",
+"pueblos originarios",
+"lengua materna"
+],
+"contenido": {
+"idea": "México es como un jardín con muchas flores distintas: cada lengua es una flor con su color y su perfume, y todas hacen más bello el jardín.",
+"pizarron": "**Qué es:** México tiene 68 lenguas indígenas, además del español y la lengua de señas.\n\nNáhuatl, maya y zapoteco, entre otras.\n\n**Lengua en riesgo:** cada vez menos niños la aprenden y la usan.\n\n**Para tu escuela:** busca qué lengua se habla en tu estado.",
+"truco": "Muchas voces, un país: respeta, escucha y aprende.",
+"practica": {
+"ejercicio": "Escribe tres palabras del español de México que vengan del náhuatl.",
+"respuesta": "Ejemplos: chocolate, tomate, aguacate, papalote, tianguis, elote."
+},
+"analogias": [
+{
+"titulo": "La orquesta",
+"texto": "Cada lengua es un instrumento: juntas forman una orquesta; si uno desaparece, se pierde una parte de la música."
+},
+{
+"titulo": "El mercado de colores",
+"texto": "Como en un mercado con frutas de muchos colores, cada lengua aporta algo único que no se encuentra en otra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos lenguas indígenas habladas en México.",
+"respuesta": "Por ejemplo: náhuatl y maya."
+},
+{
+"ejercicio": "¿Por qué una lengua puede estar en riesgo?",
+"respuesta": "Porque cada vez menos personas, sobre todo niños, la aprenden y la usan."
+},
+{
+"ejercicio": "Un compañero habla con un acento distinto al tuyo. ¿Cómo actúas con respeto? Da dos acciones.",
+"respuesta": "Escucharlo con atención y no burlarme; preguntar con interés qué significan sus palabras. Cualquier respuesta respetuosa vale."
+}
+]
+}
+},
+{
+"nodo_id": "f5-059",
+"titulo": "Manifestaciones culturales y artísticas",
+"slug": "manifestaciones-culturales-artisticas-primaria",
+"palabras": [
+"arte",
+"cultura",
+"danza",
+"música",
+"artesanías",
+"pintura",
+"patrimonio"
+],
+"contenido": {
+"idea": "Una obra de arte es como una carta sin palabras: alguien quiso contarte lo que sentía o pensaba usando colores, sonidos o movimientos.",
+"pizarron": "**Qué es:** son expresiones de cada comunidad: pintura, danza, música, fiestas y artesanías.\n\nCada una comunica algo sobre quiénes son.\n\n**Valorar con razones:** di qué opinas y por qué, no solo *me gusta*.\n\n**Para interpretar una obra, pregunta:** ¿qué colores usa?, ¿qué sentimiento da?, ¿qué historia cuenta?\n\n**Para tu escuela:** describe una fiesta de tu comunidad.",
+"truco": "Observa, siente, interpreta y valora con razones.",
+"practica": {
+"ejercicio": "Elige una manifestación artística de tu región y di qué comunica.",
+"respuesta": "Respuesta libre; debe nombrar la manifestación (por ejemplo, una danza) y explicar con razones qué expresa."
+},
+"analogias": [
+{
+"titulo": "El espejo",
+"texto": "El arte es un espejo de un pueblo: muestra cómo vive, qué ama y qué recuerda."
+},
+{
+"titulo": "La receta familiar",
+"texto": "Las tradiciones se heredan como recetas: pasan de abuelos a nietos y cada generación les pone algo propio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres formas de arte.",
+"respuesta": "Por ejemplo: pintura, danza y música."
+},
+{
+"ejercicio": "¿Qué es valorar una obra con razones?",
+"respuesta": "Decir qué opinas y explicar por qué, en lugar de solo decir «me gusta» o «no me gusta»."
+},
+{
+"ejercicio": "Observa un mural y escribe dos preguntas para interpretarlo.",
+"respuesta": "Ejemplos: ¿Qué colores predominan y qué sentimiento dan? ¿Qué historia quiere contar?"
+}
+]
+}
+},
+{
+"nodo_id": "f5-063",
+"titulo": "Intervención artística en el espacio comunitario",
+"slug": "intervencion-artistica-comunitaria-primaria",
+"palabras": [
+"mural",
+"espacio público",
+"arte comunitario",
+"intervención",
+"colectivo",
+"comunidad",
+"apropiación"
+],
+"contenido": {
+"idea": "Imagina que la barda gris de tu escuela se convierte en un cuento pintado por todos. Es como decorar tu casa, pero la casa es de toda la comunidad.",
+"pizarron": "**Qué es:** es usar el arte para mejorar un lugar. Un mural en una barda sucia.\n\n**Otras formas:** teatro en la plaza y esculturas con material reciclado.\n\n**Antes de empezar:** pide permiso y acuerda el diseño con la comunidad.\n\n**Después:** cuídenla entre todos, para que no se dañe.\n\n**Toda intervención dice:** lugar, tipo de arte y mensaje.\n\n**Para tu escuela:** propón dónde harías un mural.",
+"truco": "Permiso, plan, equipo, obra y cuidado.",
+"practica": {
+"ejercicio": "Propón una intervención artística para el patio de tu escuela y su mensaje.",
+"respuesta": "Respuesta libre; por ejemplo, un mural sobre el cuidado del agua. Debe incluir lugar, tipo de arte y mensaje."
+},
+"analogias": [
+{
+"titulo": "La fiesta",
+"texto": "Una obra comunitaria es como una fiesta: cada persona lleva algo y entre todos la hacen especial."
+},
+{
+"titulo": "El jardín",
+"texto": "Un espacio sin arte es un terreno vacío; con la participación de todos, florece y se vuelve un lugar querido."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué debes hacer antes de pintar un mural en un muro público?",
+"respuesta": "Pedir permiso a las autoridades o dueños y acordar el diseño con la comunidad."
+},
+{
+"ejercicio": "Menciona dos formas de intervención artística, además del mural.",
+"respuesta": "Por ejemplo: teatro en la plaza y escultura con material reciclado."
+},
+{
+"ejercicio": "¿Por qué es importante cuidar la obra después?",
+"respuesta": "Porque es de todos y su cuidado muestra respeto por el trabajo y por la comunidad."
+}
+]
+}
+},
+{
+"nodo_id": "f5-066",
+"titulo": "Cuentos y poemas: análisis y disfrute",
+"slug": "cuentos-poemas-analisis-primaria",
+"palabras": [
+"cuento",
+"poema",
+"verso",
+"estrofa",
+"rima",
+"narrador",
+"personajes"
+],
+"contenido": {
+"idea": "Un cuento es una película que se ve con la imaginación, y un poema es una canción sin música que juega con las palabras para hacerte sentir cosas.",
+"pizarron": "**Qué es:** analizar es ver de qué trata un texto y cómo está escrito.\n\n**Cuento:** personajes y problema.\n\n**Poema:** versos y rima.\n\n**Rima:** sonidos iguales al final de los versos, como *luz* y *cruz*.\n\n**Partes de un cuento:** inicio, nudo (el problema) y desenlace (la solución).\n\n**Para tu escuela:** elige un poema y di qué te hace sentir.",
+"truco": "Cuento: personajes, ambiente, trama. Poema: verso, estrofa, rima.",
+"practica": {
+"ejercicio": "¿Cuántos versos tiene? «Los patos nadan / en el lago azul, / y el sol los baña / con su luz».",
+"respuesta": "Tiene 4 versos, forman una estrofa."
+},
+"analogias": [
+{
+"titulo": "La montaña",
+"texto": "La trama de un cuento es una montaña: se sube con el problema y se baja con la solución."
+},
+{
+"titulo": "El collar",
+"texto": "Un poema es un collar: cada verso es una cuenta y todas juntas forman algo bello."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuáles son las partes de la trama de un cuento?",
+"respuesta": "Inicio, nudo (problema) y desenlace (solución)."
+},
+{
+"ejercicio": "¿Qué es una rima?",
+"respuesta": "La repetición de sonidos al final de los versos, como «luz» y «cruz»."
+},
+{
+"ejercicio": "Identifica la comparación: «Era rápido como el viento».",
+"respuesta": "Compara la rapidez de alguien con la del viento usando «como»."
+}
+]
+}
+},
+{
+"nodo_id": "f5-069",
+"titulo": "Composiciones artísticas colectivas e identidad",
+"slug": "composiciones-artisticas-colectivas-identidad-primaria",
+"palabras": [
+"identidad",
+"arte colectivo",
+"danza",
+"sonido",
+"imagen",
+"expresión corporal",
+"comunidad"
+],
+"contenido": {
+"idea": "Es como armar una canción entre amigos: uno pone la letra, otro el ritmo y otro el baile. Todos juntos dicen quiénes son.",
+"pizarron": "**Qué es:** es crear una obra en grupo que muestre quiénes son.\n\nCada quien aporta algo, como en un mural.\n\n**Una obra en grupo** combina elementos visuales, sonoros y corporales.\n\n**Identidad personal:** lo que te caracteriza a ti. **Colectiva:** lo que comparte un grupo.\n\n**Para tu escuela:** hagan un mural de su salón.",
+"truco": "Ver, oír y moverse: tres lenguajes, una identidad.",
+"practica": {
+"ejercicio": "Elige un color, un sonido y un movimiento que representen a tu grupo.",
+"respuesta": "Respuesta libre; por ejemplo: color verde, aplauso rítmico y un salto en círculo, con una razón de por qué los eliges."
+},
+"analogias": [
+{
+"titulo": "El mosaico",
+"texto": "Cada persona es una pieza distinta; juntas forman un mosaico donde se ve la imagen completa del grupo."
+},
+{
+"titulo": "El árbol",
+"texto": "La identidad colectiva es un árbol: cada persona es una rama y las raíces son las tradiciones que comparten."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tres tipos de elementos combina una composición colectiva?",
+"respuesta": "Visuales, sonoros y corporales."
+},
+{
+"ejercicio": "Diferencia identidad personal e identidad colectiva.",
+"respuesta": "La personal es lo que te caracteriza a ti; la colectiva, lo que comparte un grupo."
+},
+{
+"ejercicio": "Reflexiona: ¿cómo mostrar respeto cuando un compañero propone una idea distinta a la tuya?",
+"respuesta": "Escucharlo, valorar su propuesta, buscar acuerdos y combinar ideas. Se pide al menos una acción de respeto con una razón."
+}
+]
+}
+}
 ]

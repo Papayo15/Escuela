@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "¿De cuántas formas se forman 3 amigos en una fila? 3 para el primer lugar, 2 para el segundo y 1 para el último: $3 \\times 2 \\times 1 = 6$. Eso es el factorial.",
-"pizarron": "**Qué es:** el factorial $n!$ es multiplicar todos los números desde $n$ hasta 1.\n\nEl **factorial** de $n$ es:\n\n$$n! = n \\times (n-1) \\times (n-2) \\times \\dots \\times 1$$\n\nEjemplos:\n\n- $4! = 24$\n- $5! = 120$\n- $6! = 720$\n- $0! = 1$ por definición.\n\nPropiedad útil:\n\n$$n! = n \\times (n - 1)!$$\n\nSimplificar:\n\n$$\\frac{8!}{6!} = \\frac{8 \\times 7 \\times 6!}{6!} = 56$$\n\nCrece muy rápido: $10! = 3\\,628\\,800$.",
+"pizarron": "**Qué es:** el factorial $n!$ es multiplicar todos los números desde $n$ hasta 1.\n\n**Imagínalo:** ¿de cuántas formas se forman 3 niños? El primer lugar tiene 3 opciones, luego 2, luego 1: $3 \\times 2 \\times 1 = 6$.\n\n**Ejemplos:**\n\n- $3! = 6$.\n- $4! = 24$.\n- $6! = 720$.\n- $0! = 1$, por acuerdo.\n\n**Cancela al dividir:**\n\n$$\\frac{8!}{6!} = \\frac{8 \\times 7 \\times 6!}{6!} = 56$$\n\nSi son seguidos, como $\\frac{6!}{5!}$, queda 6.\n\n**Para tu escuela:** cuenta de cuántas formas se pueden formar 3 amigos.",
 "truco": "Cuando dividas factoriales, cancela antes de calcular.",
 "practica": {
 "ejercicio": "Calcula $\\frac{7!}{5!}$.",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Elegir presidente, secretario y tesorero no es igual que elegir un equipo: el cargo importa. Cuando el orden importa, usas permutaciones.",
-"pizarron": "**Qué es:** una permutación es una forma de ordenar elementos, y aquí sí importa el orden: $P(n,r) = \\frac{n!}{(n-r)!}$.\n\nUna **permutación** es una selección donde **importa el orden**.\n\n$$P(n, r) = \\frac{n!}{(n - r)!}$$\n\nEjemplo: de 5 personas, elegir 1.º, 2.º y 3.º lugar.\n\n$$P(5, 3) = \\frac{5!}{2!} = 60$$\n\nTambién: $5 \\times 4 \\times 3 = 60$.\n\nCon elementos repetidos, como la palabra PAPA:\n\n$$\\frac{4!}{2!\\,2!} = 6$$\n\nDecide: si cambiar el orden crea otro resultado, es permutación.",
+"pizarron": "**Qué es:** una permutación es una forma de ordenar elementos, y aquí sí importa el orden: $P(n,r) = \\frac{n!}{(n-r)!}$.\n\n**Imagínalo:** una carrera. Ana primero y Luis segundo es distinto de Luis primero y Ana segundo.\n\n**Método rápido:** multiplica hacia abajo tantos números como lugares.\n\nDe 5 personas, 3 lugares: $5 \\times 4 \\times 3 = 60$.\n\nDe 7, 2 lugares: $7 \\times 6 = 42$.\n\n**Con letras repetidas:** divide. PAPA: $\\frac{4!}{2!\\,2!} = 6$. Una sola letra repetida dos veces: divide entre $2!$.\n\n**Decide:** si cambiar el orden crea otro resultado, es permutación.\n\n**Para tu escuela:** cuenta de cuántas formas quedan 1.º y 2.º entre 3 amigos.",
 "truco": "Lugares distintos, orden importa: permutación.",
 "practica": {
 "ejercicio": "¿Cuántos podios (oro, plata y bronce) con 8 atletas?",
@@ -99,7 +99,7 @@
 ],
 "contenido": {
 "idea": "Una ensalada de lechuga y jitomate es igual a una de jitomate y lechuga. Cuando el orden no importa, usas combinaciones.",
-"pizarron": "**Qué es:** una combinación es una forma de elegir elementos sin que importe el orden: $C(n,r) = \\frac{n!}{r!(n-r)!}$.\n\nUna **combinación** es una selección donde **no importa el orden**.\n\n$$C(n, r) = \\frac{n!}{r!(n - r)!}$$\n\nEjemplo: elegir 3 de 5 personas.\n\n$$C(5, 3) = \\frac{5!}{3!\\,2!} = \\frac{120}{12} = 10$$\n\nHay menos combinaciones que permutaciones, porque cada grupo se cuenta una sola vez.\n\nPropiedad: $C(n, r) = C(n, n - r)$.\n\nEjemplo: lotería con 6 números de 56: $C(56, 6) = 32\\,468\\,436$.",
+"pizarron": "**Qué es:** una combinación es una forma de elegir elementos sin que importe el orden: $C(n,r) = \\frac{n!}{r!(n-r)!}$.\n\n**Imagínalo:** eliges 3 amigos para un equipo. Ana, Luis y Eva es el mismo equipo que Eva, Ana y Luis.\n\n**El signo !** es multiplicar hacia abajo: $4! = 4 \\times 3 \\times 2 \\times 1 = 24$.\n\n**En palabras:** $n$ es cuántos hay y $r$ cuántos eliges.\n\n**Ejemplo:** 3 de 5.\n\n$$C(5, 3) = \\frac{120}{6 \\times 2} = 10$$\n\n**Atajo para elegir 2:** $\\frac{n(n-1)}{2}$. Con 5: 10.\n\nSaludos entre personas: son elegir 2.\n\n**Para tu escuela:** cuenta los equipos de 2 que pueden formar 4 amigos.",
 "truco": "Si es un equipo sin cargos, usa combinación.",
 "practica": {
 "ejercicio": "Calcula $C(6, 2)$.",
@@ -142,7 +142,7 @@
 ],
 "contenido": {
 "idea": "Elegir playera y pantalón es abrir caminos: de cada playera salen varias opciones. Un diagrama de árbol dibuja todos esos caminos.",
-"pizarron": "**Qué es:** un diagrama de árbol dibuja cada opción como una rama para contar todos los resultados.\n\n**Ejemplo:** 2 monedas.\n\n```\nÁguila ─ Águila\n       └ Sol\nSol ──── Águila\n       └ Sol\n```\n\nResultados: AA, AS, SA, SS.\n\n**Principio multiplicativo:** multiplica las opciones de cada paso.\n\nCon 3 playeras, 2 pantalones y 2 tenis: $3 \\times 2 \\times 2 = 12$.\n\n**En probabilidad:** multiplica a lo largo del camino.\n\nDos águilas: $\\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$.\n\n**Para tu escuela:** dibuja el árbol de 3 playeras y 2 pantalones.",
+"pizarron": "**Qué es:** un diagrama de árbol dibuja cada opción como una rama para contar todos los resultados.\n\n**Imagínalo:** estás en un camino que se abre en dos. Cada rama se vuelve a abrir.\n\n**Ejemplo:** 2 monedas.\n\n```\nÁguila ─ Águila\n       └ Sol\nSol ──── Águila\n       └ Sol\n```\n\nResultados: AA, AS, SA, SS.\n\n**Principio multiplicativo:** multiplica las opciones de cada paso.\n\nCon 3 playeras, 2 pantalones y 2 tenis: $3 \\times 2 \\times 2 = 12$.\n\nUn dado tiene 6 caras y una moneda 2.\n\n**En probabilidad:** multiplica a lo largo del camino.\n\nDos águilas: $\\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$.\n\n**Para tu escuela:** dibuja el árbol de tu ropa de hoy.",
 "truco": "Rama por rama: se multiplica a lo largo y se suma a lo ancho.",
 "practica": {
 "ejercicio": "Menú con 4 sopas y 3 guisados. ¿Cuántas comidas hay?",
@@ -185,7 +185,7 @@
 ],
 "contenido": {
 "idea": "Un exponente negativo manda al número al otro piso de la fracción. Un exponente fraccionario es una raíz disfrazada.",
-"pizarron": "**La regla:** un exponente negativo voltea la base: $a^{-n} = \\frac{1}{a^n}$. Un exponente fraccionario es una raíz: $a^{1/n} = \\sqrt[n]{a}$.\n\n**Negativos**:\n\n$$a^{-n} = \\frac{1}{a^n}$$\n\n- $2^{-3} = \\frac{1}{8}$\n- $\\left(\\frac{2}{3}\\right)^{-2} = \\left(\\frac{3}{2}\\right)^2 = \\frac{9}{4}$\n\n**Fraccionarios**:\n\n$$a^{\\frac{m}{n}} = \\sqrt[n]{a^m}$$\n\n- $9^{\\frac{1}{2}} = 3$\n- $8^{\\frac{2}{3}} = (\\sqrt[3]{8})^2 = 4$\n- $16^{-\\frac{1}{2}} = \\frac{1}{4}$\n\nAbajo del exponente va la raíz; arriba, la potencia.\n\nLas leyes de exponentes siguen funcionando: $x^{\\frac{1}{2}} \\cdot x^{\\frac{1}{3}} = x^{\\frac{5}{6}}$.",
+"pizarron": "**La regla:** un exponente negativo voltea la base: $a^{-n} = \\frac{1}{a^n}$. Un exponente fraccionario es una raíz: $a^{1/n} = \\sqrt[n]{a}$.\n\n**Imagínalo:** el signo menos manda al número al sótano de la fracción.\n\n**Negativos:** $2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$.\n\n**Fracción arriba:** el de abajo es raíz y el de arriba es potencia.\n\n- $9^{\\frac{1}{2}} = \\sqrt{9} = 3$.\n- $8^{\\frac{2}{3}}$: raíz cúbica de 8 es 2, y $2^2 = 4$.\n- $81^{\\frac{1}{4}} = 3$, porque $3^4 = 81$.\n\n**Sumar exponentes:** si multiplicas misma base, suma arriba. $x^{\\frac{1}{2}} \\cdot x^{\\frac{1}{2}} = x^1 = x$.\n\n**Para tu escuela:** escribe $\\frac{1}{2}$, $\\frac{1}{4}$ y $\\frac{1}{8}$ como potencias de 2.",
 "truco": "Denominador es raíz; numerador es potencia.",
 "practica": {
 "ejercicio": "Calcula $27^{\\frac{2}{3}}$.",
@@ -228,7 +228,7 @@
 ],
 "contenido": {
 "idea": "Dentro de una raíz, los pares salen a la libertad. Si encuentras un cuadrado perfecto escondido, puede salir y la raíz queda más simple.",
-"pizarron": "**La regla:** saca de la raíz lo que tenga raíz exacta: $\\sqrt{ab} = \\sqrt{a}\\sqrt{b}$.\n\nRegla:\n\n$$\\sqrt{ab} = \\sqrt{a}\\sqrt{b}$$\n\nPasos con $\\sqrt{72}$:\n\n1. Busca el mayor cuadrado perfecto que divide: 36.\n2. $\\sqrt{72} = \\sqrt{36 \\times 2}$.\n3. $= 6\\sqrt{2}$.\n\nCon literales: $\\sqrt{x^5} = x^2\\sqrt{x}$.\n\nEjemplo:\n\n$$\\sqrt{50x^3} = 5x\\sqrt{2x}$$\n\nRaíz cúbica: buscan salir de 3 en 3.\n\n$$\\sqrt[3]{54} = \\sqrt[3]{27 \\times 2} = 3\\sqrt[3]{2}$$",
+"pizarron": "**La regla:** saca de la raíz lo que tenga raíz exacta: $\\sqrt{ab} = \\sqrt{a}\\sqrt{b}$.\n\n**Imagínalo:** la raíz es una puerta. Las parejas iguales salen, y sale uno por cada pareja.\n\n**Pasos con $\\sqrt{72}$:**\n\n1. Busca el cuadrado más grande que quepa: 36.\n2. $\\sqrt{36 \\times 2}$.\n3. Sale 6: $6\\sqrt{2}$.\n\n**Cuadrados útiles:** 4, 9, 16, 25, 36, 49, 64, 100.\n\n**Con letras:** $\\sqrt{x^2} = x$.\n\n**Raíz cúbica:** salen de tres en tres. $\\sqrt[3]{54} = \\sqrt[3]{27 \\times 2} = 3\\sqrt[3]{2}$.\n\nCubos útiles: 8, 27, 64.\n\n**Para tu escuela:** simplifica $\\sqrt{12}$.",
 "truco": "En raíz cuadrada, cada pareja saca a uno afuera.",
 "practica": {
 "ejercicio": "Simplifica $\\sqrt{48}$.",
@@ -271,7 +271,7 @@
 ],
 "contenido": {
 "idea": "Los radicales se suman como las frutas: solo los que son iguales. Pero multiplicar se puede entre todos.",
-"pizarron": "**La regla:** solo se suman radicales iguales. Para multiplicar, se multiplica lo que está dentro de la raíz.\n\n**Suma y resta**: solo con el mismo radical.\n\n$$3\\sqrt{2} + 5\\sqrt{2} = 8\\sqrt{2}$$\n\nSi no parecen iguales, simplifica:\n\n$$\\sqrt{12} + \\sqrt{27} = 2\\sqrt{3} + 3\\sqrt{3} = 5\\sqrt{3}$$\n\n**Multiplicación**:\n\n$$\\sqrt{3} \\times \\sqrt{12} = \\sqrt{36} = 6$$\n\n**División**:\n\n$$\\frac{\\sqrt{50}}{\\sqrt{2}} = \\sqrt{25} = 5$$\n\nError común: $\\sqrt{9 + 16}$ no es $\\sqrt{9} + \\sqrt{16}$. Da 5, no 7.",
+"pizarron": "**La regla:** solo se suman radicales iguales. Para multiplicar, se multiplica lo que está dentro de la raíz.\n\n**Imagínalo:** $\\sqrt{2}$ es una fruta. 3 frutas y 5 frutas son 8 frutas.\n\n**Sumar:** $3\\sqrt{2} + 5\\sqrt{2} = 8\\sqrt{2}$.\n\n**Si no parecen iguales,** simplifica. Busca un cuadrado adentro.\n\n$\\sqrt{12} = \\sqrt{4 \\cdot 3} = 2\\sqrt{3}$.\n\n$\\sqrt{12} + \\sqrt{27} = 2\\sqrt{3} + 3\\sqrt{3} = 5\\sqrt{3}$.\n\n**Multiplicar:** $\\sqrt{3} \\times \\sqrt{12} = \\sqrt{36} = 6$.\n\n**Dividir:** $\\frac{\\sqrt{50}}{\\sqrt{2}} = \\sqrt{25} = 5$.\n\n**Cuidado:** $\\sqrt{9 + 16}$ da 5, no 7.\n\n**Para tu escuela:** simplifica $\\sqrt{20}$.",
 "truco": "Suma con iguales; multiplica con todos.",
 "practica": {
 "ejercicio": "Simplifica $\\sqrt{8} + \\sqrt{18}$.",
@@ -314,7 +314,7 @@
 ],
 "contenido": {
 "idea": "Por costumbre no se deja una raíz en el piso de una fracción. Racionalizar es multiplicar por algo que vale 1 y quita esa raíz.",
-"pizarron": "**La regla:** racionalizar es quitar la raíz de abajo, multiplicando arriba y abajo por esa misma raíz.\n\n**Una raíz abajo**: multiplica arriba y abajo por esa raíz.\n\n$$\\frac{3}{\\sqrt{2}} = \\frac{3\\sqrt{2}}{2}$$\n\n**Binomio abajo**: usa el **conjugado**.\n\n$$\\frac{5}{2 + \\sqrt{3}} \\times \\frac{2 - \\sqrt{3}}{2 - \\sqrt{3}}$$\n\nAbajo: $(2)^2 - (\\sqrt{3})^2 = 4 - 3 = 1$.\n\n$$= 5(2 - \\sqrt{3}) = 10 - 5\\sqrt{3}$$\n\nEl conjugado funciona porque $(a + b)(a - b) = a^2 - b^2$.",
+"pizarron": "**La regla:** racionalizar es quitar la raíz de abajo, multiplicando arriba y abajo por esa misma raíz.\n\n**Imagínalo:** la raíz abajo estorba. Multiplicar arriba y abajo por lo mismo no cambia el valor, como $\\frac{2}{2} = 1$.\n\n**Una raíz abajo:** $\\frac{3}{\\sqrt{2}} = \\frac{3\\sqrt{2}}{2}$, porque $\\sqrt{2} \\cdot \\sqrt{2} = 2$.\n\n**Si se puede, simplifica:** $\\frac{10}{\\sqrt{5}} = \\frac{10\\sqrt{5}}{5} = 2\\sqrt{5}$.\n\n**Dos términos abajo:** usa el **conjugado**, el mismo con el signo cambiado. De $2 + \\sqrt{3}$ es $2 - \\sqrt{3}$.\n\n$$\\frac{5}{2 + \\sqrt{3}} = \\frac{5(2 - \\sqrt{3})}{4 - 3} = 10 - 5\\sqrt{3}$$\n\n**Para tu escuela:** racionaliza $\\frac{1}{\\sqrt{3}}$.",
 "truco": "Multiplica por el conjugado y la raíz se va.",
 "practica": {
 "ejercicio": "Racionaliza $\\frac{4}{\\sqrt{5}}$.",
@@ -359,7 +359,7 @@
 ],
 "contenido": {
 "idea": "Un logaritmo es una pregunta: ¿a qué número debo elevar esta base para obtener aquello? $\\log_2 8$ pregunta cuántas veces multiplico 2 para llegar a 8.",
-"pizarron": "**Qué es:** el logaritmo dice a qué número elevar la base para obtener otro: $\\log_b x = y$ significa $b^y = x$.\n\nDefinición:\n\n$$\\log_b a = x \\iff b^x = a$$\n\nEjemplos:\n\n- $\\log_2 8 = 3$\n- $\\log_{10} 1000 = 3$\n- $\\log_5 1 = 0$\n\nPropiedades:\n\n- $\\log(ab) = \\log a + \\log b$\n- $\\log\\frac{a}{b} = \\log a - \\log b$\n- $\\log a^n = n\\log a$\n\nCambio de base:\n\n$$\\log_b a = \\frac{\\log a}{\\log b}$$\n\n$\\ln$ es logaritmo natural, con base $e \\approx 2.718$.",
+"pizarron": "**Qué es:** el logaritmo dice a qué número elevar la base para obtener otro: $\\log_b x = y$ significa $b^y = x$.\n\n**Imagínalo:** pregunta *¿cuántas veces multiplico?* ¿Cuántos 2 se multiplican para dar 8? Tres.\n\n**Ejemplos:**\n\n- $\\log_2 8 = 3$.\n- $\\log_{10} 1000 = 3$.\n- $\\log_{10} 0.1 = -1$, porque $10^{-1} = 0.1$.\n\n**Propiedades:**\n\n- $\\log(ab) = \\log a + \\log b$. Multiplicar se vuelve sumar.\n- $\\log\\frac{a}{b} = \\log a - \\log b$.\n- $\\log a^n = n\\log a$. La potencia baja.\n\n**Para tu escuela:** cuenta cuántas veces duplicas 1 para llegar a 16.",
 "truco": "El logaritmo es un exponente.",
 "practica": {
 "ejercicio": "Calcula $\\log_3 81$.",
@@ -402,7 +402,7 @@
 ],
 "contenido": {
 "idea": "Cuando la incógnita está arriba, en el exponente, hay que bajarla. Los logaritmos son la escalera que la baja.",
-"pizarron": "**La regla:** si la incógnita está en el exponente, aplica logaritmos para bajarla.\n\n**Exponencial con misma base**: iguala exponentes.\n\n$$2^{x+1} = 8 = 2^3 \\Rightarrow x + 1 = 3 \\Rightarrow x = 2$$\n\n**Sin misma base**: saca logaritmo.\n\n$$3^x = 20$$\n\n$$x = \\frac{\\log 20}{\\log 3} \\approx 2.73$$\n\n**Logarítmica**: convierte a exponencial.\n\n$$\\log_2 (x + 3) = 4 \\Rightarrow x + 3 = 16 \\Rightarrow x = 13$$\n\nCon propiedades:\n\n$$\\log x + \\log 2 = 1 \\Rightarrow \\log 2x = 1 \\Rightarrow 2x = 10 \\Rightarrow x = 5$$\n\nComprueba: dentro del logaritmo debe quedar un número positivo.",
+"pizarron": "**La regla:** si la incógnita está en el exponente, aplica logaritmos para bajarla.\n\n**Imagínalo:** la letra subió a un árbol. El logaritmo es la escalera que la baja.\n\n**Con la misma base:** escribe los dos lados con la misma base e iguala arriba.\n\n$2^x = 16 = 2^4$, así que $x = 4$.\n\n$9^x = 27$: $3^{2x} = 3^3$, entonces $x = \\frac{3}{2}$.\n\n**Sin misma base:** usa calculadora.\n\n$$3^x = 20, \\quad x = \\frac{\\log 20}{\\log 3} \\approx 2.73$$\n\n**Logarítmica:** pásala a potencia. $\\log_2 x = 3$ significa $x = 2^3 = 8$.\n\n**Comprueba:** dentro del logaritmo debe quedar un número positivo.\n\n**Para tu escuela:** escribe 8, 16 y 32 como potencias de 2.",
 "truco": "Exponencial: iguala bases o saca log. Logarítmica: pásala a exponente.",
 "practica": {
 "ejercicio": "Resuelve $5^x = 125$.",

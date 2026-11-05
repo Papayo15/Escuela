@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Imagina que juntas canicas. Cuando tienes 10 sueltas, las metes en una bolsita. Cuando tienes 10 bolsitas, las guardas en una caja. Así no tienes que contar una por una: ves cajas, bolsitas y canicas sueltas. Los números funcionan igual: cada lugar guarda grupos de 10 del lugar anterior.",
-"pizarron": "**La regla:** el valor de una cifra depende del lugar que ocupa en el número.\n\n**Qué quiere decir:** la misma cifra vale distinto según dónde esté.\n\nUnidades: las canicas sueltas. Valen 1.\n\nDecenas: las bolsitas con 10 canicas.\n\nCentenas: las cajas con 100 canicas.\n\n**Ejemplo:** mira el número 243.\n\nEl 2 está en las centenas. Son 2 cajas: 200.\n\nEl 4 está en las decenas. Son 4 bolsitas: 40.\n\nEl 3 está en las unidades. Son 3 canicas: 3.\n\n$$243 = 200 + 40 + 3$$",
+"pizarron": "**La regla:** el valor de una cifra depende del lugar que ocupa en el número.\n\n**Qué quiere decir:** la misma cifra vale distinto según dónde esté.\n\nUnidades: las canicas sueltas. Valen 1.\n\nDecenas: las bolsitas con 10 canicas.\n\nCentenas: las cajas con 100 canicas.\n\n**Ejemplo:** mira el número 243.\n\nEl 2 está en las centenas. Son 2 cajas: 200.\n\nEl 4 está en las decenas. Son 4 bolsitas: 40.\n\nEl 3 está en las unidades. Son 3 canicas: 3.\n\n$$243 = 200 + 40 + 3$$\n\n**Para tu escuela:** escribe tu número de lista y di cuánto vale cada cifra.",
 "truco": "Lee de derecha a izquierda: **U, D, C**. Piensa en \"Una Docena de Canicas\" para recordar el orden.",
 "practica": {
 "ejercicio": "Descompón el número 507 en centenas, decenas y unidades.",
@@ -57,7 +57,7 @@
 ],
 "contenido": {
 "idea": "Sumar es poner dulces en un frasco y restar es sacarlos. Si metes 4 dulces y luego sacas esos mismos 4, el frasco queda como estaba. Por eso decimos que la resta deshace la suma y la suma deshace la resta, como subir y bajar los mismos escalones.",
-"pizarron": "**La regla:** la suma y la resta son operaciones inversas: una deshace lo que hizo la otra.\n\n**Qué quiere decir:** si pones 5 dulces en una bolsa y luego quitas esos 5, vuelves a lo que tenías.\n\n**Ejemplo:** si sabes una suma, ya conoces dos restas.\n\n$$8 + 5 = 13$$\n\n$$13 - 5 = 8$$\n\n$$13 - 8 = 5$$\n\n**Para comprobar una resta,** suma el resultado con lo que quitaste.\n\nHaces $20 - 7 = 13$.\n\nCompruebas: $13 + 7 = 20$.\n\nRegresaste al 20, así que está bien.",
+"pizarron": "**La regla:** la suma y la resta son operaciones inversas: una deshace lo que hizo la otra.\n\n**Qué quiere decir:** si pones 5 dulces en una bolsa y luego quitas esos 5, vuelves a lo que tenías.\n\n**Ejemplo:** si sabes una suma, ya conoces dos restas.\n\n$$8 + 5 = 13$$\n\n$$13 - 5 = 8$$\n\n$$13 - 8 = 5$$\n\n**Para comprobar una resta,** suma el resultado con lo que quitaste.\n\nHaces $20 - 7 = 13$.\n\nCompruebas: $13 + 7 = 20$.\n\nRegresaste al 20, así que está bien.\n\n**Para tu escuela:** revisa una resta de tu cuaderno con una suma.",
 "truco": "**La resta se revisa sumando.** Si al sumar regresas al número del principio, tu resultado es correcto.",
 "practica": {
 "ejercicio": "Tenías 15 estampas y regalaste 6. ¿Cuántas te quedan? Comprueba con una suma.",
@@ -102,7 +102,7 @@
 ],
 "contenido": {
 "idea": "Si haces 3 bolsitas con 4 galletas cada una, tienes 12 galletas: eso es multiplicar, juntar grupos iguales. Si tienes 12 galletas y las repartes entre 3 amigos, a cada quien le tocan 4: eso es dividir, partir en grupos iguales. Una junta y la otra reparte las mismas galletas.",
-"pizarron": "**La regla:** multiplicar es sumar el mismo número varias veces, y dividir es repartir en partes iguales. Una deshace a la otra.\n\n**Multiplicar:** tienes 3 platos con 4 galletas cada uno.\n\n$$3 \\times 4 = 4 + 4 + 4 = 12$$\n\n**Dividir:** repartes esas 12 galletas entre 3 niños.\n\n$$12 \\div 3 = 4$$\n\nA cada niño le tocan 4.\n\n**Para comprobar:** multiplica lo que le tocó a cada uno por los niños.\n\n$$4 \\times 3 = 12$$\n\nVolviste a las 12 galletas.",
+"pizarron": "**La regla:** multiplicar es sumar el mismo número varias veces, y dividir es repartir en partes iguales. Una deshace a la otra.\n\n**Multiplicar:** tienes 3 platos con 4 galletas cada uno.\n\n$$3 \\times 4 = 4 + 4 + 4 = 12$$\n\n**Dividir:** repartes esas 12 galletas entre 3 niños.\n\n$$12 \\div 3 = 4$$\n\nA cada niño le tocan 4.\n\n**Para comprobar:** multiplica lo que le tocó a cada uno por los niños.\n\n$$4 \\times 3 = 12$$\n\nVolviste a las 12 galletas.\n\n**Para tu escuela:** reparte 12 lápices entre 4 compañeros y escribe las dos operaciones.",
 "truco": "**División pregunta, multiplicación contesta.** Para resolver $15 \\div 3$, piensa: ¿qué número por 3 da 15?",
 "practica": {
 "ejercicio": "Reparte 18 lápices entre 6 niños por igual. ¿Cuántos recibe cada uno?",
@@ -150,7 +150,7 @@
 ],
 "contenido": {
 "idea": "Mira una caja de cereal, una pelota y una lata. Puedes tomarlos con las manos porque ocupan lugar: son cuerpos geométricos. La pelota rueda hacia todos lados, la lata rueda solo de lado y la caja se queda quieta. Su forma decide cómo se comportan.",
-"pizarron": "**Qué es:** un cuerpo geométrico es una figura con volumen, que puedes tomar con la mano, como una caja o una pelota.\n\nSus partes son:\n\n**Caras:** las superficies, como los lados de una caja.\n\n**Aristas:** las líneas donde se juntan dos caras.\n\n**Vértices:** las puntas donde se unen las aristas.\n\n**Ejemplo:** toma un dado, que tiene forma de cubo. Tiene 6 caras, 12 aristas y 8 vértices.\n\nUna pelota es una esfera: no tiene aristas ni vértices.",
+"pizarron": "**Qué es:** un cuerpo geométrico es una figura con volumen, que puedes tomar con la mano, como una caja o una pelota.\n\nSus partes son:\n\n**Caras:** las superficies, como los lados de una caja.\n\n**Aristas:** las líneas donde se juntan dos caras.\n\n**Vértices:** las puntas donde se unen las aristas.\n\n**Ejemplo:** toma un dado, que tiene forma de cubo. Tiene 6 caras, 12 aristas y 8 vértices.\n\nUna pelota es una esfera: no tiene aristas ni vértices.\n\n**Para tu escuela:** busca en tu salón una caja, una pelota y un bote, y nómbralos.",
 "truco": "Si **rueda**, tiene una parte curva. Si **no rueda** por ningún lado, solo tiene caras planas.",
 "practica": {
 "ejercicio": "¿Qué cuerpo se parece a un dado y cuántas caras tiene?",
@@ -195,7 +195,7 @@
 ],
 "contenido": {
 "idea": "Si dibujas alrededor de la base de un vaso, queda un círculo en la hoja. Esa forma es plana: no la puedes agarrar, solo verla en el papel. Las figuras geométricas son formas planas, y las reconocemos contando sus lados y sus esquinas.",
-"pizarron": "**Qué es:** una figura geométrica es una forma plana, como las que dibujas en una hoja.\n\n**Lados** son las líneas que la cierran.\n\n**Vértices** son las esquinas.\n\n| Figura | Lados | Vértices |\n|---|---|---|\n| Triángulo | 3 | 3 |\n| Cuadrado | 4 iguales | 4 |\n| Rectángulo | 4, iguales de dos en dos | 4 |\n| Círculo | Línea curva | 0 |\n\n**Regla fácil:** si la figura tiene lados rectos, tiene tantas esquinas como lados.",
+"pizarron": "**Qué es:** una figura geométrica es una forma plana, como las que dibujas en una hoja.\n\n**Lados** son las líneas que la cierran.\n\n**Vértices** son las esquinas.\n\n| Figura | Lados | Vértices |\n|---|---|---|\n| Triángulo | 3 | 3 |\n| Cuadrado | 4 iguales | 4 |\n| Rectángulo | 4, iguales de dos en dos | 4 |\n| Círculo | Línea curva | 0 |\n\n**Regla fácil:** si la figura tiene lados rectos, tiene tantas esquinas como lados.\n\n**Para tu escuela:** dibuja tres figuras que veas en tu salón.",
 "truco": "**Tri** significa tres, como en triciclo: el triángulo tiene 3 lados.",
 "practica": {
 "ejercicio": "Una figura tiene 4 lados iguales y 4 esquinas rectas. ¿Cuál es?",
@@ -241,7 +241,7 @@
 ],
 "contenido": {
 "idea": "Medir es comparar. Para saber cuántos pasos mide tu cuarto, repites tu paso. Pero cada persona tiene pasos distintos, así que usamos medidas iguales para todos. Una regla compara qué tan largo es algo, una báscula qué tanto pesa y una jarra cuánto líquido cabe.",
-"pizarron": "**Qué es:** medir es comparar algo con una unidad para saber cuánto es.\n\n**Longitud** es qué tan largo es algo. Se mide en metros (m) y centímetros (cm), con una regla.\n\n**Masa** es cuánta cosa tiene algo. Se mide en kilogramos (kg) y gramos (g), con una báscula.\n\n**Capacidad** es cuánto líquido cabe. Se mide en litros (L) y mililitros (mL), con una jarra medidora.\n\n**Equivalencias para recordar:**\n\n$1\\text{ m} = 100\\text{ cm}$\n\n$1\\text{ kg} = 1000\\text{ g}$\n\n$1\\text{ L} = 1000\\text{ mL}$",
+"pizarron": "**Qué es:** medir es comparar algo con una unidad para saber cuánto es.\n\n**Longitud:** qué tan largo es algo. En metros y centímetros, con una regla.\n\n**Masa:** cuánta cosa tiene algo. En kilos y gramos, con una báscula.\n\n**Capacidad:** cuánto líquido cabe. En litros y mililitros, con una jarra.\n\n**Equivalencias:**\n\n- 1 m son 100 cm.\n- 1 kg son 1000 g.\n- 1 L son 1000 mL.\n\n**Para tu escuela:** elige tres cosas de tu casa y di con qué las medirías.",
 "truco": "Pregúntate: ¿**largo**, **pesado** o **cuánto cabe**? La respuesta te dice si necesitas metros, kilos o litros.",
 "practica": {
 "ejercicio": "¿Qué unidad usarías para medir el agua de una cubeta?",
@@ -287,7 +287,7 @@
 ],
 "contenido": {
 "idea": "El tiempo no se ve, pero se nota. Lavarte las manos dura poco y dormir dura mucho. Para ponernos de acuerdo, cortamos el tiempo en pedazos iguales, como rebanadas de pastel: el año en meses, el día en horas y la hora en minutos.",
-"pizarron": "**Qué es:** medir el tiempo es saber cuánto dura algo. Se usa el reloj y el calendario.\n\n**Equivalencias:**\n\n- 1 minuto tiene 60 segundos.\n- 1 hora tiene 60 minutos.\n- 1 día tiene 24 horas.\n- 1 semana tiene 7 días.\n\n**Cómo leer un reloj de manecillas:**\n\nLa manecilla corta marca las horas.\n\nLa manecilla larga marca los minutos.\n\n**Ejemplo:** si la corta apunta al 3 y la larga al 12, son las 3 en punto.",
+"pizarron": "**Qué es:** medir el tiempo es saber cuánto dura algo. Se usa el reloj y el calendario.\n\n**Equivalencias:**\n\n- 1 minuto tiene 60 segundos.\n- 1 hora tiene 60 minutos.\n- 1 día tiene 24 horas.\n- 1 semana tiene 7 días.\n\n**Cómo leer un reloj de manecillas:**\n\nLa manecilla corta marca las horas.\n\nLa manecilla larga marca los minutos.\n\n**Ejemplo:** si la corta apunta al 3 y la larga al 12, son las 3 en punto.\n\n**Para tu escuela:** anota cuánto duran tu recreo y tu clase favorita.",
 "truco": "**Manecilla corta, hora; manecilla larga, minutos.** La palabra más corta va con la aguja más corta.",
 "practica": {
 "ejercicio": "Una película empieza a las 4:00 y dura 2 horas. ¿A qué hora termina?",
@@ -332,7 +332,7 @@
 ],
 "contenido": {
 "idea": "Si tus compañeros gritan al mismo tiempo su fruta favorita, nadie entiende. Si los anotas por grupos, de pronto ves qué fruta gana. Organizar datos es acomodar un montón de respuestas para que la información se vea de un vistazo.",
-"pizarron": "**Qué es:** organizar datos es acomodar la información en tablas para entenderla mejor.\n\n**Pasos:**\n\n1. Haz una pregunta: ¿cuál es tu fruta favorita?\n2. Anota una rayita por cada respuesta.\n3. Cuenta las rayitas y pásalas a una tabla.\n| Fruta | Votos |\n|---|---|\n| Mango | 8 |\n| Plátano | 5 |\n| Manzana | 3 |\n4. Lee la tabla: ganó el mango.\n\nPara saber cuántos votaron, suma: $8 + 5 + 3 = 16$.",
+"pizarron": "**Qué es:** organizar datos es acomodar la información en tablas para entenderla mejor.\n\n**Pasos:**\n\n1. Haz una pregunta: ¿cuál es tu fruta favorita?\n2. Anota una rayita por cada respuesta.\n3. Cuenta las rayitas y pásalas a una tabla.\n| Fruta | Votos |\n|---|---|\n| Mango | 8 |\n| Plátano | 5 |\n| Manzana | 3 |\n4. Lee la tabla: ganó el mango.\n\nPara saber cuántos votaron, suma: $8 + 5 + 3 = 16$.\n\n**Para tu escuela:** cuenta en tu salón quién trae lunch y haz una tabla.",
 "truco": "Marca de cuatro en cuatro y cruza la quinta: contar de 5 en 5 evita errores.",
 "practica": {
 "ejercicio": "Con la tabla de frutas, ¿cuántos votos más tuvo el mango que la manzana?",

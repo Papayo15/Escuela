@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Para quitarte los zapatos, primero te quitas los tenis y luego los calcetines. Al resolver, deshaces en orden contrario lo que se le hizo a la incógnita.",
-"pizarron": "**La regla:** primero quita lo que suma o resta, y después lo que multiplica.\n\nForma: $ax + b = c$.\n\nEjemplo: $3x + 5 = 20$\n\n1. Elimina el número suelto: resta 5.\n\n$$3x = 15$$\n\n2. Elimina el coeficiente: divide entre 3.\n\n$$x = 5$$\n\n3. Comprueba: $3(5) + 5 = 20$.\n\nEjemplo: $\\frac{x}{2} - 4 = 3$.\n\n- Suma 4: $\\frac{x}{2} = 7$.\n- Multiplica por 2: $x = 14$.\n\nSiempre primero sumas o restas y después multiplicas o divides.",
+"pizarron": "**La regla:** primero quita lo que suma o resta, y después lo que multiplica.\n\n**Imagínalo:** para quitarte los zapatos, primero desatas y luego jalas.\n\n**Ejemplo:** $3x + 5 = 20$.\n\n1. Resta 5: $3x = 15$.\n2. Divide entre 3: $x = 5$.\n3. Comprueba: $3(5) + 5 = 20$.\n\n**Con división:** $\\frac{x}{2} - 4 = 3$. Suma 4: $\\frac{x}{2} = 7$. Multiplica: $x = 14$.\n\n**Con negativo:** $6 - 2x = 2$. Resta 6: $-2x = -4$. Divide: $x = 2$.\n\n**Para tu escuela:** inventa una adivinanza de dos pasos.",
 "truco": "Primero lo suelto, después lo pegado.",
 "practica": {
 "ejercicio": "Resuelve $2x - 7 = 11$.",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Un paréntesis en una ecuación es un paquete cerrado. Primero lo abres repartiendo lo de afuera y después resuelves como siempre.",
-"pizarron": "**La regla:** primero elimina el paréntesis y después resuelve como una ecuación normal.\n\nPasos:\n\n1. Quita paréntesis con la propiedad distributiva.\n2. Reduce términos semejantes.\n3. Despeja.\n\nEjemplo: $3(x + 4) = 21$.\n\n$$3x + 12 = 21$$\n\n$$3x = 9$$\n\n$$x = 3$$\n\nEjemplo con menos: $2(x - 1) - (x + 3) = 5$.\n\n$$2x - 2 - x - 3 = 5$$\n\n$$x - 5 = 5$$\n\n$$x = 10$$\n\nTambién puedes dividir primero si todo sale exacto: $3(x + 4) = 21$ da $x + 4 = 7$.",
+"pizarron": "**La regla:** primero elimina el paréntesis y después resuelve como una ecuación normal.\n\n**Imagínalo:** el paréntesis es un paquete. El número de afuera entra a saludar a cada uno.\n\n**Pasos:**\n\n1. Multiplica lo de afuera por todo lo de adentro.\n2. Junta lo igual.\n3. Despeja.\n\n**Ejemplo:** $3(x + 4) = 21$. Queda $3x + 12 = 21$, y $x = 3$.\n\n**Con menos:** cambia los signos de adentro. $2(x - 1) - (x + 3) = 5$ queda $2x - 2 - x - 3 = 5$, y $x = 10$.\n\n**Para tu escuela:** explica $2(x + 3)$ con dos bolsas iguales.",
 "truco": "Abre el paquete, junta lo igual y despeja.",
 "practica": {
 "ejercicio": "Resuelve $4(x - 2) = 12$.",
@@ -98,7 +98,7 @@
 ],
 "contenido": {
 "idea": "Cuando hay cajas misteriosas en los dos platos de la balanza, primero junta todas las cajas de un lado y los números del otro.",
-"pizarron": "**La regla:** junta las $x$ de un lado y los números del otro.\n\nPasos:\n\n1. Pasa las $x$ a un lado.\n2. Pasa los números al otro.\n3. Reduce y despeja.\n\nEjemplo: $5x + 3 = 2x + 15$.\n\n$$5x - 2x = 15 - 3$$\n\n$$3x = 12$$\n\n$$x = 4$$\n\nComprueba: $5(4) + 3 = 23$ y $2(4) + 15 = 23$.\n\nCasos especiales:\n\n- Si se eliminan las $x$ y queda algo falso, como $3 = 7$, **no hay solución**.\n- Si queda algo verdadero, como $3 = 3$, **hay infinitas soluciones**.",
+"pizarron": "**La regla:** junta las $x$ de un lado y los números del otro.\n\n**Imagínalo:** ordenas tu cuarto: ropa a un lado y juguetes al otro.\n\n**Ejemplo:** $5x + 3 = 2x + 15$.\n\n1. Resta $2x$: $3x + 3 = 15$.\n2. Resta 3: $3x = 12$.\n3. Divide: $x = 4$.\n\n**Comprueba:** los dos lados dan 23.\n\n**Casos raros:**\n\n- Si queda algo falso, como $3 = 7$, no hay solución.\n- Si queda algo cierto, como $3 = 3$, hay infinitas.\n\n**Para tu escuela:** resuelve $2x + 1 = x + 4$ con una balanza.",
 "truco": "Letras a un lado y números al otro.",
 "practica": {
 "ejercicio": "Resuelve $7x - 4 = 3x + 8$.",
@@ -142,7 +142,7 @@
 ],
 "contenido": {
 "idea": "Las fracciones estorban. Si multiplicas toda la ecuación por el número correcto, desaparecen y queda una ecuación normal.",
-"pizarron": "**La regla:** multiplica toda la ecuación por el denominador común para quitar las fracciones.\n\nPasos:\n\n1. Busca el mcm de los denominadores.\n2. Multiplica **cada término** por ese mcm.\n3. Resuelve.\n\nEjemplo:\n\n$$\\frac{x}{2} + \\frac{x}{3} = 5$$\n\n- mcm(2, 3) = 6.\n- Multiplica todo por 6: $3x + 2x = 30$.\n- $5x = 30$, $x = 6$.\n\nEjemplo con binomio:\n\n$$\\frac{x + 1}{4} = \\frac{x - 1}{2}$$\n\nMultiplica por 4:\n\n$$x + 1 = 2(x - 1)$$\n\n$$x + 1 = 2x - 2 \\Rightarrow x = 3$$\n\nError común: olvidar multiplicar los términos sin denominador.",
+"pizarron": "**La regla:** multiplica toda la ecuación por el denominador común para quitar las fracciones.\n\n**Imagínalo:** cambias monedas chicas por una grande para contar más fácil.\n\n**Pasos:**\n\n1. Busca el número que dividen todos los de abajo.\n2. Multiplica **cada término**, también los enteros.\n3. Resuelve.\n\n**Ejemplo:** $\\frac{x}{2} + \\frac{x}{3} = 5$. Multiplica por 6: $3x + 2x = 30$, y $x = 6$.\n\n**Con paréntesis:** $\\frac{x + 1}{4} = \\frac{x - 1}{2}$. Multiplica por 4: $x + 1 = 2x - 2$, y $x = 3$.\n\n**Para tu escuela:** resuelve $\\frac{x}{2} = 4$ con dulces repartidos.",
 "truco": "Multiplica todo por el mcm y las fracciones se van.",
 "practica": {
 "ejercicio": "Resuelve $\\frac{x}{4} = \\frac{3}{2}$.",
@@ -187,7 +187,7 @@
 ],
 "contenido": {
 "idea": "Un problema escrito es una ecuación disfrazada de historia. Tu trabajo es quitarle el disfraz: nombrar lo desconocido y escribir la igualdad.",
-"pizarron": "**La regla:** llama $x$ a lo que no sabes, escribe la ecuación y resuélvela.\n\nPasos:\n\n1. Define qué es $x$.\n2. Expresa los demás datos con $x$.\n3. Escribe la igualdad.\n4. Resuelve.\n5. Responde y comprueba.\n\nEjemplo: la suma de tres números consecutivos es 48.\n\n- Números: $x$, $x + 1$, $x + 2$.\n- $3x + 3 = 48$.\n- $x = 15$.\n- Números: 15, 16 y 17.\n\nEjemplo: Ana tiene el triple de edad que Luis y juntos suman 36.\n\n- Luis: $x$. Ana: $3x$.\n- $4x = 36$, $x = 9$.\n- Luis 9 años, Ana 27.",
+"pizarron": "**La regla:** llama $x$ a lo que no sabes, escribe la ecuación y resuélvela.\n\n**Imagínalo:** traduces la historia al idioma de las matemáticas.\n\n**Pasos:**\n\n1. Di qué es $x$.\n2. Escribe lo demás con $x$.\n3. Escribe la igualdad.\n4. Resuelve y comprueba.\n\n**Consecutivos:** $x$, $x + 1$, $x + 2$. Si suman 48: $3x + 3 = 48$, y $x = 15$.\n\n**Edades:** Ana tiene el triple que Luis y suman 36. $x + 3x = 36$, y $x = 9$.\n\n**Perímetro:** $2(\\text{largo} + \\text{ancho})$.\n\n**Para tu escuela:** escribe un problema con la edad de tu familia.",
 "truco": "Lo que preguntan normalmente es tu $x$.",
 "practica": {
 "ejercicio": "Un número aumentado en 12 es 30. ¿Cuál es?",
@@ -231,7 +231,7 @@
 ],
 "contenido": {
 "idea": "Dos pistas sobre dos incógnitas: si sumas las pistas de modo que una desaparezca, queda una sola incógnita, que ya sabes resolver.",
-"pizarron": "**La regla:** suma o resta las dos ecuaciones para que desaparezca una incógnita.\n\nMétodo de **suma y resta**:\n\n$$\\begin{cases} 2x + 3y = 13 \\\\ 4x - 3y = 5 \\end{cases}$$\n\n1. Los términos de $y$ son opuestos. Suma las ecuaciones:\n\n$$6x = 18 \\Rightarrow x = 3$$\n\n2. Sustituye en la primera:\n\n$$2(3) + 3y = 13 \\Rightarrow y = \\frac{7}{3}$$\n\nSi no hay opuestos, multiplica primero:\n\n$$\\begin{cases} x + 2y = 8 \\\\ 3x + y = 9 \\end{cases}$$\n\nMultiplica la primera por 3: $3x + 6y = 24$. Resta la segunda: $5y = 15$, $y = 3$. Entonces $x = 2$.",
+"pizarron": "**La regla:** suma o resta las dos ecuaciones para que desaparezca una incógnita.\n\n**Imagínalo:** un paso adelante y uno atrás se cancelan.\n\n**Ejemplo:** $2x + 3y = 13$ y $4x - 3y = 5$.\n\nSuma: $6x = 18$, y $x = 3$. Sustituye: $y = \\frac{7}{3}$.\n\n**Si son iguales,** resta. $x + 2y = 8$ y $3x + 2y = 12$ dan $2x = 4$.\n\n**Si no hay opuestos,** multiplica primero. $x + 2y = 8$ por 3 da $3x + 6y = 24$.\n\n**Problemas:** si dos compras se diferencian en una cosa, resta y sabes su precio.\n\n**Para tu escuela:** compara dos compras y descubre un precio.",
 "truco": "Haz opuesta una letra, suma y desaparece.",
 "practica": {
 "ejercicio": "Resuelve: $x + y = 10$; $x - y = 4$.",
@@ -275,7 +275,7 @@
 ],
 "contenido": {
 "idea": "Si sabes que un taco vale lo que dos refrescos, puedes cambiar tacos por refrescos en la cuenta. Así queda un solo tipo de cosa.",
-"pizarron": "**La regla:** despeja una incógnita y sustitúyela en la otra ecuación.\n\nMétodo de **sustitución**:\n\n$$\\begin{cases} y = 2x + 1 \\\\ 3x + y = 16 \\end{cases}$$\n\n1. Ya está despejada $y$.\n2. Sustituye en la otra ecuación:\n\n$$3x + (2x + 1) = 16$$\n\n3. Resuelve:\n\n$$5x + 1 = 16 \\Rightarrow x = 3$$\n\n4. Encuentra $y$:\n\n$$y = 2(3) + 1 = 7$$\n\nSolución: $(3, 7)$.\n\nConviene cuando una literal tiene coeficiente 1. Si no está despejada, despeja primero.",
+"pizarron": "**La regla:** despeja una incógnita y sustitúyela en la otra ecuación.\n\n**Imagínalo:** cambias a un jugador por otro que vale igual.\n\n**Ejemplo:** $y = 2x + 1$ y $3x + y = 16$.\n\n1. $y$ ya está sola.\n2. Cámbiala: $3x + (2x + 1) = 16$.\n3. Resuelve: $5x + 1 = 16$, y $x = 3$.\n4. Regresa: $y = 7$.\n\nSi no está despejada, despeja primero la que no lleva número.\n\n**Para tu escuela:** explica el cambio de jugador con $y = x + 1$ y $x + y = 5$.",
 "truco": "Despeja una letra y métela en la otra ecuación.",
 "practica": {
 "ejercicio": "Resuelve: $y = x + 2$; $x + y = 8$.",
@@ -318,7 +318,7 @@
 ],
 "contenido": {
 "idea": "Si dos personas te dicen cuánto vale algo, sus respuestas deben coincidir. Igualas ambas respuestas y encuentras el valor.",
-"pizarron": "**La regla:** despeja la misma incógnita en las dos ecuaciones e iguala los resultados.\n\nMétodo de **igualación**:\n\n$$\\begin{cases} x + y = 9 \\\\ x - 2y = 3 \\end{cases}$$\n\n1. Despeja la misma letra en ambas:\n\n$$x = 9 - y \\qquad x = 3 + 2y$$\n\n2. Iguala:\n\n$$9 - y = 3 + 2y$$\n\n3. Resuelve:\n\n$$6 = 3y \\Rightarrow y = 2$$\n\n4. Sustituye:\n\n$$x = 9 - 2 = 7$$\n\nSolución: $(7, 2)$.\n\nComprueba en ambas: $7 + 2 = 9$ y $7 - 4 = 3$.",
+"pizarron": "**La regla:** despeja la misma incógnita en las dos ecuaciones e iguala los resultados.\n\n**Imagínalo:** si dos personas tienen lo mismo que Ana, tienen lo mismo entre ellas.\n\n**Ejemplo:** $x + y = 9$ y $x - 2y = 3$.\n\n1. Despeja: $x = 9 - y$ y $x = 3 + 2y$.\n2. Iguala: $9 - y = 3 + 2y$.\n3. Resuelve: $6 = 3y$, y $y = 2$.\n4. Sustituye: $x = 7$.\n\n**Comprueba:** $7 + 2 = 9$ y $7 - 4 = 3$.\n\n**Para tu escuela:** compara dos precios que dan lo mismo.",
 "truco": "Despeja igual en las dos y pon una igual a la otra.",
 "practica": {
 "ejercicio": "Resuelve: $y = 2x$; $y = x + 3$.",
@@ -362,7 +362,7 @@
 ],
 "contenido": {
 "idea": "Cada ecuación es un camino recto en el plano. La solución del sistema es la esquina donde los dos caminos se cruzan.",
-"pizarron": "**La regla:** la solución es el punto donde se cruzan las dos rectas.\n\nCada ecuación lineal es una recta.\n\n$$\\begin{cases} y = x + 1 \\\\ y = -x + 5 \\end{cases}$$\n\nPasos:\n\n1. Haz una tabla para cada recta.\n\n| $x$ | $x + 1$ | $-x + 5$ |\n|---|---|---|\n| 0 | 1 | 5 |\n| 2 | 3 | 3 |\n| 4 | 5 | 1 |\n\n2. Grafica ambas rectas.\n3. Lee el punto de cruce: **(2, 3)**.\n\nCasos:\n\n- Se cruzan: **una solución**.\n- Paralelas: **sin solución**.\n- La misma recta: **infinitas soluciones**.",
+"pizarron": "**La regla:** la solución es el punto donde se cruzan las dos rectas.\n\n**Imagínalo:** dos calles. El cruce es el único lugar que está en las dos.\n\n**Pasos con $y = x + 1$ y $y = -x + 5$:**\n\n1. Haz una tabla: con $x = 0$, $y$ da 1 y 5. Con $x = 2$, da 3 y 3.\n2. Grafica las dos.\n3. Lee el cruce: $(2, 3)$.\n\n**Comprueba:** sustituye el punto en las dos.\n\n**Casos:**\n\n- Se cruzan: una solución.\n- Paralelas: ninguna.\n- La misma recta: infinitas.\n\n**Rectas simples:** $y = 3$ es horizontal y $x = 5$ es vertical. Se cruzan en $(5, 3)$.\n\n**Para tu escuela:** dibuja dos calles en cuadros y marca el cruce.",
 "truco": "Donde se cruzan las rectas está la respuesta.",
 "practica": {
 "ejercicio": "Dos rectas se cruzan en $(1, 4)$. ¿Cuál es la solución del sistema?",

@@ -1,463 +1,463 @@
 [
-  {
-    "nodo_id": "f5-015",
-    "titulo": "Ética y biodiversidad",
-    "slug": "etica-biodiversidad-primaria",
-    "palabras": [
-      "biodiversidad",
-      "medio ambiente",
-      "respeto a la naturaleza",
-      "justicia social",
-      "equidad",
-      "responsabilidad"
-    ],
-    "contenido": {
-      "idea": "Imagina un jardín donde viven muchas plantas y animales distintos. Si todos lo cuidamos y repartimos el agua con justicia, el jardín florece y alcanza para todos.",
-      "pizarron": "**Qué es:** cuidar a los seres vivos es una responsabilidad.\n\nNo es correcto dañar sin necesidad.\n\n**Para tu escuela:** escribe por qué no se deben maltratar los animales.",
-      "truco": "R-R-J-E: Respeto, Responsabilidad, Justicia, Equidad.",
-      "practica": {
-        "ejercicio": "Una comunidad quiere cuidar el río. Menciona dos acciones y el valor que representa cada una.",
-        "respuesta": "Ejemplo: organizar una limpieza del río entre vecinos (responsabilidad) y repartir el agua para que alcance a todas las familias (equidad). Otras respuestas válidas deben ligar la acción con un valor."
-      },
-      "analogias": [
-        {
-          "titulo": "La casa compartida",
-          "texto": "La naturaleza es como una casa donde vivimos muchas familias. Si cada una cuida los espacios comunes, todos vivimos bien."
-        },
-        {
-          "titulo": "El equipo de futbol",
-          "texto": "Cada ser vivo es como un jugador distinto. Si desaparecen varios, el equipo completo juega peor, y por eso hay que cuidarlos a todos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define con tus palabras qué es biodiversidad.",
-          "respuesta": "Es la variedad de seres vivos y de los lugares donde viven."
-        },
-        {
-          "ejercicio": "Un pueblo tala un bosque y el agua deja de llegar a otro pueblo. ¿Qué valor falta y por qué?",
-          "respuesta": "Falta justicia social y responsabilidad: un grupo causa un daño que afecta a otro sin cuidar las consecuencias."
-        },
-        {
-          "ejercicio": "Escribe una acción de tu escuela que cuide la biodiversidad y explica el valor que muestra.",
-          "respuesta": "Ejemplo: sembrar árboles nativos muestra respeto. Se acepta cualquier acción coherente con su valor."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-019",
-    "titulo": "Derecho a un ambiente sano y al agua potable",
-    "slug": "derecho-ambiente-sano-agua-primaria",
-    "palabras": [
-      "derechos humanos",
-      "agua potable",
-      "ambiente sano",
-      "agua limpia",
-      "saneamiento"
-    ],
-    "contenido": {
-      "idea": "Todos necesitamos aire limpio para respirar y agua limpia para beber, igual que necesitamos comida. Por eso son derechos: nadie debe quedarse sin ellos.",
-      "pizarron": "**La regla:** toda persona tiene derecho a un ambiente sano y a agua limpia.\n\nTambién debemos cuidarlos.\n\n**Para recordar:**\n- **Agua potable:** Agua que se puede beber sin riesgo para la salud.\n\n**Para tu escuela:** escribe cómo ahorrar agua en tu casa.",
-      "truco": "Agua y aire sanos: derechos de todos, cuidado de todos.",
-      "practica": {
-        "ejercicio": "Menciona dos acciones que haces en casa para cuidar el agua.",
-        "respuesta": "Ejemplo: cerrar la llave al cepillarte los dientes y avisar si hay una fuga."
-      },
-      "analogias": [
-        {
-          "titulo": "El plato en la mesa",
-          "texto": "El agua limpia es como el plato de comida: si falta en una casa, la familia no vive bien, y por eso debe llegar a todas."
-        },
-        {
-          "titulo": "La alberca compartida",
-          "texto": "Si una persona ensucia la alberca, nadie puede nadar. Así pasa con el ambiente: lo que contaminas afecta a todos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa agua potable?",
-          "respuesta": "Agua que se puede beber sin riesgo para la salud."
-        },
-        {
-          "ejercicio": "Una fábrica tira desechos al río de un pueblo. ¿Qué derecho se afecta?",
-          "respuesta": "El derecho a un medio ambiente sano y al agua potable."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué puedes hacer tú para que se respeten estos derechos?",
-          "respuesta": "Respuesta válida: menciona una acción concreta (no desperdiciar agua, no tirar basura) y explica a quién beneficia."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-023",
-    "titulo": "Responsabilidad compartida y consumo sustentable",
-    "slug": "consumo-sustentable-primaria",
-    "palabras": [
-      "consumo sustentable",
-      "reducir reutilizar reciclar",
-      "biodiversidad",
-      "acciones colectivas",
-      "bienestar socioambiental"
-    ],
-    "contenido": {
-      "idea": "Si todos en el salón comen de una caja de galletas y cada quien toma solo las que necesita, alcanzan para hoy y para mañana.",
-      "pizarron": "**Qué es:** consumir de forma sustentable es comprar lo necesario y no desperdiciar.\n\nAntes de comprar, pregúntate si lo necesitas.\n\nRepara, reutiliza y comparte.\n\n**Para recordar:**\n- **Consumo sustentable:** Usar los recursos sin agotarlos ni dañar el ambiente, pensando en las generaciones futuras.\n\n**Para tu escuela:** haz una lista de lo que puedes reutilizar en tu mochila.",
-      "truco": "Reducir, reutilizar, reciclar: primero reduce.",
-      "practica": {
-        "ejercicio": "Da un ejemplo de cómo reutilizar un frasco de vidrio.",
-        "respuesta": "Ejemplo: usarlo para guardar lápices, semillas o como maceta. Cualquier uso distinto a tirarlo es válido."
-      },
-      "analogias": [
-        {
-          "titulo": "La alcancía",
-          "texto": "Los recursos naturales son como una alcancía: si solo sacas y nunca cuidas lo que queda, se acaba. Consumir con medida la mantiene con algo."
-        },
-        {
-          "titulo": "Limpiar el salón",
-          "texto": "Un salón limpio no depende de una sola persona. Cuando todos ayudan un poco, el trabajo se reparte y el resultado es mejor."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es consumo sustentable?",
-          "respuesta": "Usar los recursos sin agotarlos ni dañar el ambiente, pensando en las generaciones futuras."
-        },
-        {
-          "ejercicio": "Clasifica: sembrar árboles en un parque. ¿Proteger, regenerar o preservar?",
-          "respuesta": "Regenerar."
-        },
-        {
-          "ejercicio": "Reflexiona: propón una acción colectiva para tu escuela y quién participaría.",
-          "respuesta": "Respuesta válida: acción concreta (huerto, separar residuos) con participantes como alumnos, maestros y familias, y beneficio para la comunidad."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-030",
-    "titulo": "Construcción de la cultura de paz",
-    "slug": "cultura-de-paz-primaria",
-    "palabras": [
-      "paz",
-      "convivencia",
-      "resolver conflictos",
-      "diálogo",
-      "no violencia",
-      "empatía"
-    ],
-    "contenido": {
-      "idea": "Cuando dos amigos pelean por un juguete, pueden gritarse o pueden platicar y turnarse. La paz es elegir platicar.",
-      "pizarron": "**Qué es:** la cultura de paz es resolver los problemas sin violencia.\n\nHablar, escuchar y llegar a acuerdos.\n\n**Para recordar:**\n- **Cultura de paz:** Forma de convivir que resuelve conflictos con diálogo, respeto y sin violencia.\n\n**Para tu escuela:** escribe cómo resolverías una pelea en el recreo.",
-      "truco": "Calma, escucha, habla y acuerda.",
-      "practica": {
-        "ejercicio": "Dos compañeros quieren usar la misma cancha a la vez. Propón una solución pacífica.",
-        "respuesta": "Ejemplo: dialogar y acordar turnos o jugar juntos con equipos mixtos."
-      },
-      "analogias": [
-        {
-          "titulo": "El puente",
-          "texto": "El diálogo es un puente entre dos personas. La violencia lo rompe, y sin puente es difícil llegar a un acuerdo."
-        },
-        {
-          "titulo": "El semáforo",
-          "texto": "Cuando estás enojado, la luz roja es parar y respirar, la amarilla pensar y la verde hablar con calma."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define cultura de paz.",
-          "respuesta": "Forma de convivir que resuelve conflictos con diálogo, respeto y sin violencia."
-        },
-        {
-          "ejercicio": "¿La paz significa que nunca hay conflictos? Explica.",
-          "respuesta": "No; los conflictos existen, pero se resuelven de manera pacífica."
-        },
-        {
-          "ejercicio": "Reflexiona: recuerda un conflicto y escribe cómo lo resolverías con los pasos vistos.",
-          "respuesta": "Debe incluir calmarse, escuchar, expresar sentimientos sin insultar y acordar una solución justa."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-034",
-    "titulo": "La democracia en México",
-    "slug": "democracia-mexico-primaria",
-    "palabras": [
-      "democracia",
-      "gobierno",
-      "voto",
-      "elecciones",
-      "historia de México",
-      "participación"
-    ],
-    "contenido": {
-      "idea": "Para decidir qué juego hará el grupo en el recreo, todos votan y se respeta lo que elija la mayoría, cuidando que nadie quede excluido.",
-      "pizarron": "**Qué es:** en México, el pueblo elige a sus gobernantes con su voto.\n\nEl INE organiza las elecciones.\n\nEl voto es libre y secreto.\n\n**Para recordar:**\n- **Democracia:** Forma de gobierno donde el poder viene del pueblo, que elige a sus representantes.\n- **¿Por qué es importante que cada persona tenga un voto?** Porque garantiza igualdad: todas las opiniones cuentan lo mismo.\n\n**Para tu escuela:** pregunta a un adulto cómo se vota.",
-      "truco": "Democracia: el pueblo elige y todos participan.",
-      "practica": {
-        "ejercicio": "Menciona dos formas de participar democráticamente en tu escuela.",
-        "respuesta": "Ejemplo: votar por el jefe de grupo y opinar en una asamblea."
-      },
-      "analogias": [
-        {
-          "titulo": "La votación del grupo",
-          "texto": "Elegir al representante del salón es como una elección: cada quien vota y el resultado se respeta."
-        },
-        {
-          "titulo": "Un árbol que crece",
-          "texto": "La democracia es como un árbol: se riega con participación y crece poco a poco, año tras año."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es la democracia?",
-          "respuesta": "Forma de gobierno donde el poder viene del pueblo, que elige a sus representantes."
-        },
-        {
-          "ejercicio": "¿Por qué es importante que cada persona tenga un voto?",
-          "respuesta": "Porque garantiza igualdad: todas las opiniones cuentan lo mismo."
-        },
-        {
-          "ejercicio": "Año en que se reconoció el voto de las mujeres a nivel nacional en México.",
-          "respuesta": "1953."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-038",
-    "titulo": "Cultura democrática: acuerdos, normas y leyes",
-    "slug": "cultura-democratica-normas-primaria",
-    "palabras": [
-      "normas",
-      "leyes",
-      "acuerdos",
-      "justicia",
-      "igualdad",
-      "equidad",
-      "cumplimiento"
-    ],
-    "contenido": {
-      "idea": "Un juego solo funciona si todos siguen las mismas reglas. Si alguien hace trampa, el juego deja de ser justo.",
-      "pizarron": "**Qué es:** las normas son reglas para convivir. Las leyes son normas de todo el país.\n\nUn acuerdo se hace hablando y votando.\n\n**Para recordar:**\n- **Diferencia entre igualdad y equidad.** Igualdad: mismos derechos para todos. Equidad: dar apoyos distintos según la necesidad para lograr un trato justo.\n- **¿Por qué es importante cumplir las normas?** Porque protegen derechos, evitan abusos y permiten convivir.\n\n**Para tu escuela:** propongan y voten una regla del salón.",
-      "truco": "Regla justa: igual para todos, pensada en el bien común.",
-      "practica": {
-        "ejercicio": "En el salón, un alumno siempre se salta la fila y nadie le dice nada. ¿Qué principio falta?",
-        "respuesta": "Igualdad y justicia: la norma debe aplicarse igual a todos."
-      },
-      "analogias": [
-        {
-          "titulo": "El árbitro",
-          "texto": "Las normas son como un árbitro: hacen que el partido sea parejo para ambos equipos."
-        },
-        {
-          "titulo": "Las señales de tránsito",
-          "texto": "Respetar el alto protege a peatones y conductores. Cumplir las leyes también nos cuida a todos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Diferencia entre igualdad y equidad.",
-          "respuesta": "Igualdad: mismos derechos para todos. Equidad: dar apoyos distintos según la necesidad para lograr un trato justo."
-        },
-        {
-          "ejercicio": "¿Por qué es importante cumplir las normas?",
-          "respuesta": "Porque protegen derechos, evitan abusos y permiten convivir."
-        },
-        {
-          "ejercicio": "Reflexiona: evalúa si una regla de tu escuela se aplica con justicia y justifica con dos criterios.",
-          "respuesta": "Debe usar criterios como: se aplica igual a todos y considera necesidades distintas, con un ejemplo concreto."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-045",
-    "titulo": "Contribuciones al bienestar colectivo",
-    "slug": "bienestar-colectivo-primaria",
-    "palabras": [
-      "bien común",
-      "solidaridad",
-      "cooperación",
-      "comunidad",
-      "servicio",
-      "participación"
-    ],
-    "contenido": {
-      "idea": "Cuando todos en la casa ayudan a levantar la mesa, se termina rápido y la familia convive mejor. Eso es contribuir al bienestar de todos.",
-      "pizarron": "**Qué es:** el bienestar colectivo es que todos estén bien, no solo unos cuantos.\n\nSi cuidas el parque, todos ganan.\n\n**Cómo ayudar:** colabora, respeta y cuida lo de todos.\n\n**Para recordar:**\n- **Bienestar colectivo:** La buena vida de toda una comunidad, lograda con el aporte de todos.\n\n**Para tu escuela:** propón una acción que ayude a todo tu grupo.",
-      "truco": "Bien común: lo que haces por todos te beneficia a ti.",
-      "practica": {
-        "ejercicio": "Escribe una acción que puedas hacer esta semana por tu comunidad.",
-        "respuesta": "Ejemplo: ayudar a limpiar la calle. Debe ser concreta y beneficiar a otros."
-      },
-      "analogias": [
-        {
-          "titulo": "La colmena",
-          "texto": "Cada abeja hace una tarea pequeña, y juntas sostienen la colmena entera."
-        },
-        {
-          "titulo": "Un rompecabezas",
-          "texto": "Cada pieza es pequeña, pero sin ella la imagen queda incompleta. Cada persona aporta su pieza."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es el bienestar colectivo?",
-          "respuesta": "La buena vida de toda una comunidad, lograda con el aporte de todos."
-        },
-        {
-          "ejercicio": "Menciona dos formas de contribuir al bienestar colectivo.",
-          "respuesta": "Por ejemplo, cooperar en una limpieza y ayudar a un vecino que lo necesita."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué pasa si nadie cuida un parque común? Escribe dos consecuencias.",
-          "respuesta": "Se ensucia o deteriora y deja de ser útil para todos; se afecta la convivencia y la salud."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-048",
-    "titulo": "Derecho a la protección frente al maltrato",
-    "slug": "proteccion-integridad-maltrato-primaria",
-    "palabras": [
-      "integridad física",
-      "maltrato",
-      "abuso",
-      "explotación laboral",
-      "pedir ayuda",
-      "DIF",
-      "derechos de la niñez"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo y tus sentimientos te pertenecen. Si alguien te hace sentir miedo o daño, tienes derecho a decir no y a pedir ayuda.",
-      "pizarron": "**La regla:** nadie debe maltratarte, ni con golpes ni con palabras.\n\nSi pasa, cuéntale a un adulto de confianza. Si no te cree, dile a otro.\n\n**Para recordar:**\n- **Integridad física y mental:** Que tu cuerpo y tu bienestar emocional estén protegidos de daños.\n\n**Para tu escuela:** anota dos adultos de confianza.",
-      "truco": "Dilo, cuéntalo, pide ayuda: nunca es tu culpa.",
-      "practica": {
-        "ejercicio": "Nombra tres personas o instituciones a quienes puedes pedir ayuda.",
-        "respuesta": "Ejemplo: un familiar de confianza, tu maestra o maestro y el DIF o la línea 911."
-      },
-      "analogias": [
-        {
-          "titulo": "El escudo",
-          "texto": "Los derechos son como un escudo que protege tu cuerpo y tus emociones, y los adultos de confianza ayudan a sostenerlo."
-        },
-        {
-          "titulo": "La red de apoyo",
-          "texto": "Familia, escuela e instituciones forman una red como la de los trapecistas: si caes, alguien te sostiene."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa integridad física y mental?",
-          "respuesta": "Que tu cuerpo y tu bienestar emocional estén protegidos de daños."
-        },
-        {
-          "ejercicio": "Un adulto te pide guardar un secreto que te incomoda. ¿Qué haces?",
-          "respuesta": "Decir no, alejarte y contarlo a una persona adulta de confianza."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿por qué es importante contar con una persona de confianza?",
-          "respuesta": "Porque puede escucharte, protegerte y acudir a las instituciones adecuadas; debe mencionar apoyo y protección."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-049",
-    "titulo": "La lucha por los derechos humanos y la dignidad",
-    "slug": "lucha-derechos-humanos-dignidad-primaria",
-    "palabras": [
-      "derechos humanos",
-      "dignidad",
-      "diferencias",
-      "no discriminación",
-      "historia",
-      "igualdad"
-    ],
-    "contenido": {
-      "idea": "Todos queremos que nos traten bien aunque seamos distintos. Cuando alguien es excluido y otros luchan para que lo incluyan, defienden sus derechos.",
-      "pizarron": "**Qué es:** muchas personas han luchado para que se respeten los derechos.\n\n**Ejemplo:** Vicente Guerrero abolió la esclavitud en 1829.\n\n**Para recordar:**\n- **Dignidad humana:** El valor que tiene cada persona por ser persona, sin importar sus diferencias.\n- **Discriminar:** Tratar a alguien con desventaja o desprecio por una característica suya.\n\n**Para tu escuela:** investiga a alguien que luchó por los derechos.",
-      "truco": "Diferentes, pero con la misma dignidad.",
-      "practica": {
-        "ejercicio": "Un compañero es excluido por hablar una lengua indígena. ¿Qué podrías hacer?",
-        "respuesta": "Incluirlo en el juego, reconocer su lengua como riqueza y avisar a un adulto si lo molestan."
-      },
-      "analogias": [
-        {
-          "titulo": "Los colores del arcoíris",
-          "texto": "Cada color es distinto, y juntos forman algo más bello. Las diferencias de las personas enriquecen la comunidad."
-        },
-        {
-          "titulo": "Una carrera por relevos",
-          "texto": "Los derechos se lograron como en un relevo: unas personas empezaron la lucha y otras la continuaron."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es la dignidad humana?",
-          "respuesta": "El valor que tiene cada persona por ser persona, sin importar sus diferencias."
-        },
-        {
-          "ejercicio": "¿Qué es discriminar?",
-          "respuesta": "Tratar a alguien con desventaja o desprecio por una característica suya."
-        },
-        {
-          "ejercicio": "Reflexiona: describe una situación de discriminación y cómo la enfrentarías.",
-          "respuesta": "Debe identificar la situación, proponer una acción respetuosa (incluir, no burlarse, pedir ayuda) y mencionar la dignidad."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-053",
-    "titulo": "Cumplimiento de los derechos humanos",
-    "slug": "cumplimiento-derechos-humanos-primaria",
-    "palabras": [
-      "derechos humanos",
-      "obligaciones",
-      "autoridades",
-      "CNDH",
-      "denuncia",
-      "responsabilidades",
-      "respeto"
-    ],
-    "contenido": {
-      "idea": "Tener un derecho es como tener un boleto para entrar al cine: sirve si todos respetan que puedes pasar. Los derechos funcionan cuando se cumplen.",
-      "pizarron": "**Qué es:** el gobierno y todas las personas deben respetar los derechos.\n\nSi no se cumplen, se puede pedir ayuda a la CNDH.\n\n**Para recordar:**\n- **¿Qué institución recibe quejas por violación de derechos humanos por parte de autoridades?** La Comisión Nacional de los Derechos Humanos (CNDH) o las comisiones estatales.\n\n**Para tu escuela:** di un derecho que se cumple en tu escuela.",
-      "truco": "Derecho + respeto + responsabilidad = derecho cumplido.",
-      "practica": {
-        "ejercicio": "Relaciona: derecho a la educación. ¿Qué responsabilidad le corresponde a un alumno?",
-        "respuesta": "Asistir, participar y respetar a compañeros y maestros."
-      },
-      "analogias": [
-        {
-          "titulo": "El semáforo",
-          "texto": "Los derechos son como un semáforo: funcionan si todos lo respetan. Si algunos lo ignoran, hay peligro para todos."
-        },
-        {
-          "titulo": "El préstamo de la biblioteca",
-          "texto": "El derecho a leer un libro implica cuidarlo y devolverlo, para que otros también puedan usarlo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quiénes deben cumplir los derechos humanos?",
-          "respuesta": "Las autoridades, que deben garantizarlos, y todas las personas, que deben respetarlos."
-        },
-        {
-          "ejercicio": "¿Qué institución recibe quejas por violación de derechos humanos por parte de autoridades?",
-          "respuesta": "La Comisión Nacional de los Derechos Humanos (CNDH) o las comisiones estatales."
-        },
-        {
-          "ejercicio": "Reflexiona: elige un derecho y escribe una responsabilidad tuya relacionada.",
-          "respuesta": "Debe vincular el derecho con una responsabilidad concreta, como respetar opiniones o cuidar el agua."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f5-015",
+"titulo": "Ética y biodiversidad",
+"slug": "etica-biodiversidad-primaria",
+"palabras": [
+"biodiversidad",
+"medio ambiente",
+"respeto a la naturaleza",
+"justicia social",
+"equidad",
+"responsabilidad"
+],
+"contenido": {
+"idea": "Imagina un jardín donde viven muchas plantas y animales distintos. Si todos lo cuidamos y repartimos el agua con justicia, el jardín florece y alcanza para todos.",
+"pizarron": "**Qué es:** cuidar a los seres vivos es una responsabilidad.\n\nNo es correcto dañar sin necesidad.\n\n**Para tu escuela:** escribe por qué no se deben maltratar los animales.",
+"truco": "R-R-J-E: Respeto, Responsabilidad, Justicia, Equidad.",
+"practica": {
+"ejercicio": "Una comunidad quiere cuidar el río. Menciona dos acciones y el valor que representa cada una.",
+"respuesta": "Ejemplo: organizar una limpieza del río entre vecinos (responsabilidad) y repartir el agua para que alcance a todas las familias (equidad). Otras respuestas válidas deben ligar la acción con un valor."
+},
+"analogias": [
+{
+"titulo": "La casa compartida",
+"texto": "La naturaleza es como una casa donde vivimos muchas familias. Si cada una cuida los espacios comunes, todos vivimos bien."
+},
+{
+"titulo": "El equipo de futbol",
+"texto": "Cada ser vivo es como un jugador distinto. Si desaparecen varios, el equipo completo juega peor, y por eso hay que cuidarlos a todos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define con tus palabras qué es biodiversidad.",
+"respuesta": "Es la variedad de seres vivos y de los lugares donde viven."
+},
+{
+"ejercicio": "Un pueblo tala un bosque y el agua deja de llegar a otro pueblo. ¿Qué valor falta y por qué?",
+"respuesta": "Falta justicia social y responsabilidad: un grupo causa un daño que afecta a otro sin cuidar las consecuencias."
+},
+{
+"ejercicio": "Escribe una acción de tu escuela que cuide la biodiversidad y explica el valor que muestra.",
+"respuesta": "Ejemplo: sembrar árboles nativos muestra respeto. Se acepta cualquier acción coherente con su valor."
+}
+]
+}
+},
+{
+"nodo_id": "f5-019",
+"titulo": "Derecho a un ambiente sano y al agua potable",
+"slug": "derecho-ambiente-sano-agua-primaria",
+"palabras": [
+"derechos humanos",
+"agua potable",
+"ambiente sano",
+"agua limpia",
+"saneamiento"
+],
+"contenido": {
+"idea": "Todos necesitamos aire limpio para respirar y agua limpia para beber, igual que necesitamos comida. Por eso son derechos: nadie debe quedarse sin ellos.",
+"pizarron": "**La regla:** toda persona tiene derecho a un ambiente sano y a agua limpia.\n\nTambién debemos cuidarlos.\n\n**Agua potable:** la que se puede beber sin riesgo.\n\n**Para tu escuela:** escribe cómo ahorrar agua en tu casa.",
+"truco": "Agua y aire sanos: derechos de todos, cuidado de todos.",
+"practica": {
+"ejercicio": "Menciona dos acciones que haces en casa para cuidar el agua.",
+"respuesta": "Ejemplo: cerrar la llave al cepillarte los dientes y avisar si hay una fuga."
+},
+"analogias": [
+{
+"titulo": "El plato en la mesa",
+"texto": "El agua limpia es como el plato de comida: si falta en una casa, la familia no vive bien, y por eso debe llegar a todas."
+},
+{
+"titulo": "La alberca compartida",
+"texto": "Si una persona ensucia la alberca, nadie puede nadar. Así pasa con el ambiente: lo que contaminas afecta a todos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa agua potable?",
+"respuesta": "Agua que se puede beber sin riesgo para la salud."
+},
+{
+"ejercicio": "Una fábrica tira desechos al río de un pueblo. ¿Qué derecho se afecta?",
+"respuesta": "El derecho a un medio ambiente sano y al agua potable."
+},
+{
+"ejercicio": "Reflexiona: ¿qué puedes hacer tú para que se respeten estos derechos?",
+"respuesta": "Respuesta válida: menciona una acción concreta (no desperdiciar agua, no tirar basura) y explica a quién beneficia."
+}
+]
+}
+},
+{
+"nodo_id": "f5-023",
+"titulo": "Responsabilidad compartida y consumo sustentable",
+"slug": "consumo-sustentable-primaria",
+"palabras": [
+"consumo sustentable",
+"reducir reutilizar reciclar",
+"biodiversidad",
+"acciones colectivas",
+"bienestar socioambiental"
+],
+"contenido": {
+"idea": "Si todos en el salón comen de una caja de galletas y cada quien toma solo las que necesita, alcanzan para hoy y para mañana.",
+"pizarron": "**Qué es:** consumir de forma sustentable es comprar lo necesario y no desperdiciar.\n\nAntes de comprar, pregúntate si lo necesitas.\n\nRepara, reutiliza y comparte.\n\n**Consumo sustentable:** usar sin agotar ni dañar, pensando en quienes vienen.\n\n**Para tu escuela:** haz una lista de lo que puedes reutilizar en tu mochila.",
+"truco": "Reducir, reutilizar, reciclar: primero reduce.",
+"practica": {
+"ejercicio": "Da un ejemplo de cómo reutilizar un frasco de vidrio.",
+"respuesta": "Ejemplo: usarlo para guardar lápices, semillas o como maceta. Cualquier uso distinto a tirarlo es válido."
+},
+"analogias": [
+{
+"titulo": "La alcancía",
+"texto": "Los recursos naturales son como una alcancía: si solo sacas y nunca cuidas lo que queda, se acaba. Consumir con medida la mantiene con algo."
+},
+{
+"titulo": "Limpiar el salón",
+"texto": "Un salón limpio no depende de una sola persona. Cuando todos ayudan un poco, el trabajo se reparte y el resultado es mejor."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es consumo sustentable?",
+"respuesta": "Usar los recursos sin agotarlos ni dañar el ambiente, pensando en las generaciones futuras."
+},
+{
+"ejercicio": "Clasifica: sembrar árboles en un parque. ¿Proteger, regenerar o preservar?",
+"respuesta": "Regenerar."
+},
+{
+"ejercicio": "Reflexiona: propón una acción colectiva para tu escuela y quién participaría.",
+"respuesta": "Respuesta válida: acción concreta (huerto, separar residuos) con participantes como alumnos, maestros y familias, y beneficio para la comunidad."
+}
+]
+}
+},
+{
+"nodo_id": "f5-030",
+"titulo": "Construcción de la cultura de paz",
+"slug": "cultura-de-paz-primaria",
+"palabras": [
+"paz",
+"convivencia",
+"resolver conflictos",
+"diálogo",
+"no violencia",
+"empatía"
+],
+"contenido": {
+"idea": "Cuando dos amigos pelean por un juguete, pueden gritarse o pueden platicar y turnarse. La paz es elegir platicar.",
+"pizarron": "**Qué es:** la cultura de paz es resolver los problemas sin violencia.\n\nHablar, escuchar y llegar a acuerdos.\n\n**Cultura de paz:** los conflictos siguen existiendo, pero se resuelven con diálogo y respeto.\n\n**Para tu escuela:** escribe cómo resolverías una pelea en el recreo.",
+"truco": "Calma, escucha, habla y acuerda.",
+"practica": {
+"ejercicio": "Dos compañeros quieren usar la misma cancha a la vez. Propón una solución pacífica.",
+"respuesta": "Ejemplo: dialogar y acordar turnos o jugar juntos con equipos mixtos."
+},
+"analogias": [
+{
+"titulo": "El puente",
+"texto": "El diálogo es un puente entre dos personas. La violencia lo rompe, y sin puente es difícil llegar a un acuerdo."
+},
+{
+"titulo": "El semáforo",
+"texto": "Cuando estás enojado, la luz roja es parar y respirar, la amarilla pensar y la verde hablar con calma."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define cultura de paz.",
+"respuesta": "Forma de convivir que resuelve conflictos con diálogo, respeto y sin violencia."
+},
+{
+"ejercicio": "¿La paz significa que nunca hay conflictos? Explica.",
+"respuesta": "No; los conflictos existen, pero se resuelven de manera pacífica."
+},
+{
+"ejercicio": "Reflexiona: recuerda un conflicto y escribe cómo lo resolverías con los pasos vistos.",
+"respuesta": "Debe incluir calmarse, escuchar, expresar sentimientos sin insultar y acordar una solución justa."
+}
+]
+}
+},
+{
+"nodo_id": "f5-034",
+"titulo": "La democracia en México",
+"slug": "democracia-mexico-primaria",
+"palabras": [
+"democracia",
+"gobierno",
+"voto",
+"elecciones",
+"historia de México",
+"participación"
+],
+"contenido": {
+"idea": "Para decidir qué juego hará el grupo en el recreo, todos votan y se respeta lo que elija la mayoría, cuidando que nadie quede excluido.",
+"pizarron": "**Qué es:** en México, el pueblo elige a sus gobernantes con su voto.\n\nEl INE organiza las elecciones.\n\nEl voto es libre y secreto.\n\n**Democracia:** el poder viene del pueblo.\n\n**Un voto por persona:** todas las opiniones valen lo mismo.\n\n**Para tu escuela:** pregunta a un adulto cómo se vota.",
+"truco": "Democracia: el pueblo elige y todos participan.",
+"practica": {
+"ejercicio": "Menciona dos formas de participar democráticamente en tu escuela.",
+"respuesta": "Ejemplo: votar por el jefe de grupo y opinar en una asamblea."
+},
+"analogias": [
+{
+"titulo": "La votación del grupo",
+"texto": "Elegir al representante del salón es como una elección: cada quien vota y el resultado se respeta."
+},
+{
+"titulo": "Un árbol que crece",
+"texto": "La democracia es como un árbol: se riega con participación y crece poco a poco, año tras año."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es la democracia?",
+"respuesta": "Forma de gobierno donde el poder viene del pueblo, que elige a sus representantes."
+},
+{
+"ejercicio": "¿Por qué es importante que cada persona tenga un voto?",
+"respuesta": "Porque garantiza igualdad: todas las opiniones cuentan lo mismo."
+},
+{
+"ejercicio": "Año en que se reconoció el voto de las mujeres a nivel nacional en México.",
+"respuesta": "1953."
+}
+]
+}
+},
+{
+"nodo_id": "f5-038",
+"titulo": "Cultura democrática: acuerdos, normas y leyes",
+"slug": "cultura-democratica-normas-primaria",
+"palabras": [
+"normas",
+"leyes",
+"acuerdos",
+"justicia",
+"igualdad",
+"equidad",
+"cumplimiento"
+],
+"contenido": {
+"idea": "Un juego solo funciona si todos siguen las mismas reglas. Si alguien hace trampa, el juego deja de ser justo.",
+"pizarron": "**Qué es:** las normas son reglas para convivir. Las leyes son normas de todo el país.\n\nUn acuerdo se hace hablando y votando.\n\n**Igualdad:** mismos derechos para todos. **Equidad:** más apoyo a quien lo necesita.\n\n**Cumplirlas:** protege derechos y evita abusos.\n\n**Para tu escuela:** propongan y voten una regla del salón.",
+"truco": "Regla justa: igual para todos, pensada en el bien común.",
+"practica": {
+"ejercicio": "En el salón, un alumno siempre se salta la fila y nadie le dice nada. ¿Qué principio falta?",
+"respuesta": "Igualdad y justicia: la norma debe aplicarse igual a todos."
+},
+"analogias": [
+{
+"titulo": "El árbitro",
+"texto": "Las normas son como un árbitro: hacen que el partido sea parejo para ambos equipos."
+},
+{
+"titulo": "Las señales de tránsito",
+"texto": "Respetar el alto protege a peatones y conductores. Cumplir las leyes también nos cuida a todos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Diferencia entre igualdad y equidad.",
+"respuesta": "Igualdad: mismos derechos para todos. Equidad: dar apoyos distintos según la necesidad para lograr un trato justo."
+},
+{
+"ejercicio": "¿Por qué es importante cumplir las normas?",
+"respuesta": "Porque protegen derechos, evitan abusos y permiten convivir."
+},
+{
+"ejercicio": "Reflexiona: evalúa si una regla de tu escuela se aplica con justicia y justifica con dos criterios.",
+"respuesta": "Debe usar criterios como: se aplica igual a todos y considera necesidades distintas, con un ejemplo concreto."
+}
+]
+}
+},
+{
+"nodo_id": "f5-045",
+"titulo": "Contribuciones al bienestar colectivo",
+"slug": "bienestar-colectivo-primaria",
+"palabras": [
+"bien común",
+"solidaridad",
+"cooperación",
+"comunidad",
+"servicio",
+"participación"
+],
+"contenido": {
+"idea": "Cuando todos en la casa ayudan a levantar la mesa, se termina rápido y la familia convive mejor. Eso es contribuir al bienestar de todos.",
+"pizarron": "**Qué es:** el bienestar colectivo es que todos estén bien, no solo unos cuantos.\n\nSi cuidas el parque, todos ganan.\n\n**Cómo ayudar:** colabora, respeta y cuida lo de todos.\n\n**Bienestar colectivo:** vida buena para toda la comunidad.\n\n**Para tu escuela:** propón una acción que ayude a todo tu grupo.",
+"truco": "Bien común: lo que haces por todos te beneficia a ti.",
+"practica": {
+"ejercicio": "Escribe una acción que puedas hacer esta semana por tu comunidad.",
+"respuesta": "Ejemplo: ayudar a limpiar la calle. Debe ser concreta y beneficiar a otros."
+},
+"analogias": [
+{
+"titulo": "La colmena",
+"texto": "Cada abeja hace una tarea pequeña, y juntas sostienen la colmena entera."
+},
+{
+"titulo": "Un rompecabezas",
+"texto": "Cada pieza es pequeña, pero sin ella la imagen queda incompleta. Cada persona aporta su pieza."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es el bienestar colectivo?",
+"respuesta": "La buena vida de toda una comunidad, lograda con el aporte de todos."
+},
+{
+"ejercicio": "Menciona dos formas de contribuir al bienestar colectivo.",
+"respuesta": "Por ejemplo, cooperar en una limpieza y ayudar a un vecino que lo necesita."
+},
+{
+"ejercicio": "Reflexiona: ¿qué pasa si nadie cuida un parque común? Escribe dos consecuencias.",
+"respuesta": "Se ensucia o deteriora y deja de ser útil para todos; se afecta la convivencia y la salud."
+}
+]
+}
+},
+{
+"nodo_id": "f5-048",
+"titulo": "Derecho a la protección frente al maltrato",
+"slug": "proteccion-integridad-maltrato-primaria",
+"palabras": [
+"integridad física",
+"maltrato",
+"abuso",
+"explotación laboral",
+"pedir ayuda",
+"DIF",
+"derechos de la niñez"
+],
+"contenido": {
+"idea": "Tu cuerpo y tus sentimientos te pertenecen. Si alguien te hace sentir miedo o daño, tienes derecho a decir no y a pedir ayuda.",
+"pizarron": "**La regla:** nadie debe maltratarte, ni con golpes ni con palabras.\n\nSi pasa, cuéntale a un adulto de confianza. Si no te cree, dile a otro.\n\n**Integridad:** que tu cuerpo y tus emociones estén protegidos.\n\n**Para tu escuela:** anota dos adultos de confianza.",
+"truco": "Dilo, cuéntalo, pide ayuda: nunca es tu culpa.",
+"practica": {
+"ejercicio": "Nombra tres personas o instituciones a quienes puedes pedir ayuda.",
+"respuesta": "Ejemplo: un familiar de confianza, tu maestra o maestro y el DIF o la línea 911."
+},
+"analogias": [
+{
+"titulo": "El escudo",
+"texto": "Los derechos son como un escudo que protege tu cuerpo y tus emociones, y los adultos de confianza ayudan a sostenerlo."
+},
+{
+"titulo": "La red de apoyo",
+"texto": "Familia, escuela e instituciones forman una red como la de los trapecistas: si caes, alguien te sostiene."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa integridad física y mental?",
+"respuesta": "Que tu cuerpo y tu bienestar emocional estén protegidos de daños."
+},
+{
+"ejercicio": "Un adulto te pide guardar un secreto que te incomoda. ¿Qué haces?",
+"respuesta": "Decir no, alejarte y contarlo a una persona adulta de confianza."
+},
+{
+"ejercicio": "Reflexiona: ¿por qué es importante contar con una persona de confianza?",
+"respuesta": "Porque puede escucharte, protegerte y acudir a las instituciones adecuadas; debe mencionar apoyo y protección."
+}
+]
+}
+},
+{
+"nodo_id": "f5-049",
+"titulo": "La lucha por los derechos humanos y la dignidad",
+"slug": "lucha-derechos-humanos-dignidad-primaria",
+"palabras": [
+"derechos humanos",
+"dignidad",
+"diferencias",
+"no discriminación",
+"historia",
+"igualdad"
+],
+"contenido": {
+"idea": "Todos queremos que nos traten bien aunque seamos distintos. Cuando alguien es excluido y otros luchan para que lo incluyan, defienden sus derechos.",
+"pizarron": "**Qué es:** muchas personas han luchado para que se respeten los derechos.\n\n**Ejemplo:** Vicente Guerrero abolió la esclavitud en 1829.\n\n**Dignidad:** el valor de cada persona por ser persona.\n\n**Discriminar:** tratar mal a alguien por una característica suya.\n\n**Para tu escuela:** investiga a alguien que luchó por los derechos.",
+"truco": "Diferentes, pero con la misma dignidad.",
+"practica": {
+"ejercicio": "Un compañero es excluido por hablar una lengua indígena. ¿Qué podrías hacer?",
+"respuesta": "Incluirlo en el juego, reconocer su lengua como riqueza y avisar a un adulto si lo molestan."
+},
+"analogias": [
+{
+"titulo": "Los colores del arcoíris",
+"texto": "Cada color es distinto, y juntos forman algo más bello. Las diferencias de las personas enriquecen la comunidad."
+},
+{
+"titulo": "Una carrera por relevos",
+"texto": "Los derechos se lograron como en un relevo: unas personas empezaron la lucha y otras la continuaron."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es la dignidad humana?",
+"respuesta": "El valor que tiene cada persona por ser persona, sin importar sus diferencias."
+},
+{
+"ejercicio": "¿Qué es discriminar?",
+"respuesta": "Tratar a alguien con desventaja o desprecio por una característica suya."
+},
+{
+"ejercicio": "Reflexiona: describe una situación de discriminación y cómo la enfrentarías.",
+"respuesta": "Debe identificar la situación, proponer una acción respetuosa (incluir, no burlarse, pedir ayuda) y mencionar la dignidad."
+}
+]
+}
+},
+{
+"nodo_id": "f5-053",
+"titulo": "Cumplimiento de los derechos humanos",
+"slug": "cumplimiento-derechos-humanos-primaria",
+"palabras": [
+"derechos humanos",
+"obligaciones",
+"autoridades",
+"CNDH",
+"denuncia",
+"responsabilidades",
+"respeto"
+],
+"contenido": {
+"idea": "Tener un derecho es como tener un boleto para entrar al cine: sirve si todos respetan que puedes pasar. Los derechos funcionan cuando se cumplen.",
+"pizarron": "**Qué es:** el gobierno y todas las personas deben respetar los derechos.\n\nSi no se cumplen, se puede pedir ayuda a la CNDH.\n\n**CNDH:** recibe quejas contra autoridades por violar derechos.\n\n**Para tu escuela:** di un derecho que se cumple en tu escuela.",
+"truco": "Derecho + respeto + responsabilidad = derecho cumplido.",
+"practica": {
+"ejercicio": "Relaciona: derecho a la educación. ¿Qué responsabilidad le corresponde a un alumno?",
+"respuesta": "Asistir, participar y respetar a compañeros y maestros."
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "Los derechos son como un semáforo: funcionan si todos lo respetan. Si algunos lo ignoran, hay peligro para todos."
+},
+{
+"titulo": "El préstamo de la biblioteca",
+"texto": "El derecho a leer un libro implica cuidarlo y devolverlo, para que otros también puedan usarlo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quiénes deben cumplir los derechos humanos?",
+"respuesta": "Las autoridades, que deben garantizarlos, y todas las personas, que deben respetarlos."
+},
+{
+"ejercicio": "¿Qué institución recibe quejas por violación de derechos humanos por parte de autoridades?",
+"respuesta": "La Comisión Nacional de los Derechos Humanos (CNDH) o las comisiones estatales."
+},
+{
+"ejercicio": "Reflexiona: elige un derecho y escribe una responsabilidad tuya relacionada.",
+"respuesta": "Debe vincular el derecho con una responsabilidad concreta, como respetar opiniones o cuidar el agua."
+}
+]
+}
+}
 ]

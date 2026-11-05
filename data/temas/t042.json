@@ -1,462 +1,462 @@
 [
-  {
-    "nodo_id": "ems-107",
-    "titulo": "El Estado y la ciudadanía crítica",
-    "slug": "estado-concepto-preparatoria",
-    "palabras": [
-      "Estado",
-      "gobierno",
-      "nación",
-      "territorio",
-      "soberanía",
-      "ciudadanía crítica"
-    ],
-    "contenido": {
-      "idea": "Imagina una escuela: tiene un terreno, alumnos, un director que organiza y reglas que todos siguen. El Estado es como una escuela enorme donde vivimos todos, con reglas para convivir.",
-      "pizarron": "**Qué es:** el Estado es la organización política de un pueblo. Tiene cuatro elementos.\n\n1. **Población:** la gente.\n2. **Territorio:** el lugar.\n3. **Gobierno:** quienes dirigen.\n4. **Soberanía:** decidir sin depender de otro país.\n\nEstado no es lo mismo que gobierno: el gobierno cambia y el Estado sigue. Como un equipo que cambia de entrenador.\n\n**Para recordar:**\n- **Soberanía:** Es el poder de decidir sin que otro país mande. Ejemplo: México crea sus propias leyes.\n\n**Para tu escuela:** di los cuatro elementos de México.",
-      "truco": "PTGS: Población, Territorio, Gobierno, Soberanía.",
-      "practica": {
-        "ejercicio": "Un presidente termina su periodo y llega otro. ¿Cambió el Estado o el gobierno?",
-        "respuesta": "Cambió el gobierno. El Estado sigue igual, con su población, territorio y soberanía."
-      },
-      "analogias": [
-        {
-          "titulo": "El barco",
-          "texto": "El Estado es un barco: los pasajeros son la población, el casco es el territorio y la tripulación es el gobierno. Puede cambiar la tripulación, pero el barco sigue navegando."
-        },
-        {
-          "titulo": "El juego",
-          "texto": "El Estado es el reglamento y la cancha de un torneo. Los gobiernos son los árbitros que se turnan, y las reglas siguen siendo para todos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona los cuatro elementos del Estado.",
-          "respuesta": "Población, territorio, gobierno y soberanía."
-        },
-        {
-          "ejercicio": "Explica qué significa soberanía con un ejemplo.",
-          "respuesta": "Es el poder de decidir sin que otro país mande. Ejemplo: México crea sus propias leyes."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿cómo puedes ser un ciudadano crítico ante una noticia? Da dos acciones.",
-          "respuesta": "Respuesta válida si incluye acciones como verificar la fuente, comparar con otros medios, preguntar quién se beneficia o dialogar con respeto."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-108",
-    "titulo": "La evolución de la ciudadanía",
-    "slug": "ciudadania-devenir-preparatoria",
-    "palabras": [
-      "ciudadanía",
-      "derechos",
-      "democracia",
-      "inclusión",
-      "sufragio",
-      "historia"
-    ],
-    "contenido": {
-      "idea": "Antes, en un juego solo algunos niños podían entrar al equipo. Con el tiempo, el grupo entendió que todos merecían jugar. Así creció la ciudadanía: cada vez entran más personas.",
-      "pizarron": "**Qué es:** la ciudadanía es pertenecer a una comunidad política con derechos y deberes. Ha cambiado con el tiempo.\n\n**Grecia:** solo algunos varones libres.\n\n**Siglo XVIII:** revoluciones por derechos.\n\n**Siglos XIX y XX:** más grupos. En México, las mujeres ganaron el voto en 1953 y votaron en 1955.\n\n**Hoy:** se busca incluir a todos.\n\n**Para recordar:**\n- **Ciudadanía incluyente:** Que reconoce derechos y participación de todas las personas, sin discriminar.\n- **¿Por qué la ciudadanía de la antigua Grecia no era incluyente?** Porque excluía a mujeres, esclavos y extranjeros.\n\n**Para tu escuela:** di un derecho y un deber que tendrás al cumplir 18.",
-      "truco": "Ciudadanía: cada vez más personas, más derechos.",
-      "practica": {
-        "ejercicio": "¿Por qué la ciudadanía de la antigua Grecia no era incluyente?",
-        "respuesta": "Porque excluía a mujeres, esclavos y extranjeros."
-      },
-      "analogias": [
-        {
-          "titulo": "La mesa",
-          "texto": "La ciudadanía es una mesa a la que antes cabían pocos. Con los años se le agregaron extensiones para que todos puedan sentarse."
-        },
-        {
-          "titulo": "El puente",
-          "texto": "Cada derecho conquistado es una tabla nueva en un puente que permite cruzar a más personas hacia la participación."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿En qué año votaron las mujeres a nivel nacional en México?",
-          "respuesta": "En 1953."
-        },
-        {
-          "ejercicio": "Explica qué significa ciudadanía incluyente.",
-          "respuesta": "Que reconoce derechos y participación de todas las personas, sin discriminar."
-        },
-        {
-          "ejercicio": "Reflexiona: menciona un derecho que hoy damos por hecho y explica por qué fue una conquista.",
-          "respuesta": "Respuesta válida si nombra un derecho, como el voto, y explica que antes se negaba a ciertos grupos y se logró con lucha social."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-109",
-    "titulo": "Normas sociales en la vida cotidiana",
-    "slug": "normas-sociales-preparatoria",
-    "palabras": [
-      "normas",
-      "reglas",
-      "costumbres",
-      "moral",
-      "leyes",
-      "convivencia"
-    ],
-    "contenido": {
-      "idea": "En un recreo, nadie te obliga a formarte para la tienda, pero lo haces porque todos lo hacen. Esas reglas, escritas o no, ayudan a convivir sin pelear.",
-      "pizarron": "**Qué es:** las normas sociales son reglas que orientan cómo convivir.\n\nLas normas sociales son reglas que orientan la conducta en una sociedad. Se contrastan por su origen y su sanción:\n\n- **Jurídicas**: las leyes. Las crea el Estado y obligan a todos; su incumplimiento tiene sanción legal, como una multa.\n- **Morales**: se basan en la conciencia personal sobre lo bueno y lo malo; la sanción es la culpa.\n- **Sociales o convencionales**: costumbres como saludar o ceder el asiento; la sanción es el rechazo del grupo.\n- **Religiosas**: provienen de creencias y su cumplimiento es voluntario.\n\nSu función es dar orden, previsibilidad y convivencia. Varían según la época y la cultura, por eso conviene analizarlas con criterio.",
-      "truco": "Jurídica obliga, moral convence, social cuida el trato.",
-      "practica": {
-        "ejercicio": "Clasifica: detenerte en el semáforo en rojo.",
-        "respuesta": "Es norma jurídica, porque está en un reglamento y su incumplimiento puede sancionarse."
-      },
-      "analogias": [
-        {
-          "titulo": "El semáforo",
-          "texto": "Las normas son como semáforos invisibles: ordenan el paso de todos para que nadie choque."
-        },
-        {
-          "titulo": "El idioma",
-          "texto": "Las normas son como la gramática: casi nadie las estudia, pero todos las usamos para entendernos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos diferencias entre una norma jurídica y una social.",
-          "respuesta": "La jurídica la crea el Estado y tiene sanción legal; la social es costumbre y su sanción es el rechazo del grupo."
-        },
-        {
-          "ejercicio": "Clasifica: no mentir aunque nadie te descubra.",
-          "respuesta": "Norma moral, porque depende de la conciencia personal."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué pasaría sin normas en tu escuela? Da dos consecuencias.",
-          "respuesta": "Respuesta válida si menciona desorden, conflictos sin solución, falta de respeto o desigualdad en el trato."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-110",
-    "titulo": "Diversidad y democracia",
-    "slug": "diversidad-democracia-preparatoria",
-    "palabras": [
-      "diversidad",
-      "democracia",
-      "pluralidad",
-      "inclusión",
-      "tolerancia",
-      "respeto"
-    ],
-    "contenido": {
-      "idea": "Una caja de colores con un solo color dibuja un mundo aburrido. Con todos los colores el dibujo se ve mejor. Una sociedad también mejora cuando caben personas distintas.",
-      "pizarron": "**Qué es:** la democracia necesita que convivan personas distintas, con los mismos derechos.\n\n1. Hacen falta ideas diferentes para debatir.\n2. Todos tienen los mismos derechos.\n3. Decide la mayoría, pero se respeta a las minorías.\n\nComo elegir película en familia: alguien gana, pero nadie se queda fuera.\n\n**Para recordar:**\n- **Diversidad:** Es la existencia de diferencias entre personas o grupos, como cultura, lengua u opinión.\n- **¿Por qué una democracia con una sola opinión permitida deja de serlo?** Porque sin pluralidad no hay debate ni participación libre.\n\n**Para tu escuela:** propón una regla para que todos opinen en tu grupo.",
-      "truco": "Democracia: muchas voces, mismos derechos.",
-      "practica": {
-        "ejercicio": "¿Por qué una democracia con una sola opinión permitida deja de serlo?",
-        "respuesta": "Porque sin pluralidad no hay debate ni participación libre."
-      },
-      "analogias": [
-        {
-          "titulo": "La orquesta",
-          "texto": "En una orquesta suenan instrumentos distintos y juntos crean una melodía. La democracia suena bien cuando cada voz tiene lugar."
-        },
-        {
-          "titulo": "El jardín",
-          "texto": "Un jardín con flores variadas es más fuerte y bonito. La diversidad cuida a la sociedad como a un jardín."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define diversidad en una oración.",
-          "respuesta": "Es la existencia de diferencias entre personas o grupos, como cultura, lengua u opinión."
-        },
-        {
-          "ejercicio": "¿Qué debe hacer la mayoría con las minorías en una democracia?",
-          "respuesta": "Respetar sus derechos y permitir su participación."
-        },
-        {
-          "ejercicio": "Reflexiona: en un debate escolar alguien piensa distinto a ti. Describe dos actitudes democráticas.",
-          "respuesta": "Respuesta válida si incluye escuchar sin interrumpir, argumentar con respeto y aceptar el desacuerdo sin agredir."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-111",
-    "titulo": "Necesidades y satisfactores",
-    "slug": "necesidades-satisfactores-preparatoria",
-    "palabras": [
-      "necesidades",
-      "satisfactores",
-      "bienes",
-      "servicios",
-      "comunidad",
-      "organización social"
-    ],
-    "contenido": {
-      "idea": "Tienes hambre: esa es la necesidad. El plato de comida es lo que la resuelve. Todos necesitamos cosas, y entre varios las conseguimos mejor.",
-      "pizarron": "**Qué es:** una necesidad es algo que te hace falta. Un satisfactor es lo que la cubre.\n\n**Hambre** es necesidad. **Comida** es satisfactor.\n\n**Tipos:**\n\n- **Materiales:** comida, casa, agua.\n- **Personales:** cariño, aprender.\n- **Comunitarias:** seguridad, escuela.\n\nUna necesidad se cubre de varias maneras, según la cultura.\n\n**Para tu escuela:** haz una tabla con tres necesidades y sus satisfactores.",
-      "truco": "Necesidad es la falta; satisfactor es lo que la llena.",
-      "practica": {
-        "ejercicio": "Necesidad: trasladarte a la escuela. Menciona dos satisfactores.",
-        "respuesta": "Por ejemplo: el autobús y la bicicleta."
-      },
-      "analogias": [
-        {
-          "titulo": "La llave",
-          "texto": "La necesidad es una cerradura y el satisfactor es la llave. Hay cerraduras que aceptan varias llaves."
-        },
-        {
-          "titulo": "La olla comunitaria",
-          "texto": "Si cada familia lleva un ingrediente, todos comen. La comunidad junta recursos para cubrir necesidades que solos no cubrirían."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Diferencia necesidad de satisfactor.",
-          "respuesta": "La necesidad es una carencia; el satisfactor es lo que la cubre."
-        },
-        {
-          "ejercicio": "Clasifica como material o personal: una vivienda y la amistad.",
-          "respuesta": "La vivienda es material; la amistad es personal."
-        },
-        {
-          "ejercicio": "Reflexiona: nombra una necesidad de tu comunidad que no esté bien cubierta y propón un satisfactor.",
-          "respuesta": "Respuesta válida si identifica una carencia concreta, como transporte o agua, y propone un satisfactor viable."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-112",
-    "titulo": "Organización social e instituciones",
-    "slug": "organizacion-social-preparatoria",
-    "palabras": [
-      "organización social",
-      "instituciones",
-      "grupos",
-      "comunidades",
-      "familia",
-      "relaciones sociales"
-    ],
-    "contenido": {
-      "idea": "En una fiesta de cumpleaños, cada quien tiene su tarea: uno trae el pastel, otro pone música. Si todos colaboran, sale bien. La sociedad se organiza así.",
-      "pizarron": "**Qué es:** la organización social es cómo las personas se juntan y se reparten tareas.\n\n**Personas:** cada una con un papel.\n\n**Grupos:** la familia o un equipo.\n\n**Comunidades:** comparten lugar o identidad.\n\n**Instituciones:** tienen reglas fijas, como la escuela.\n\nSe relacionan cooperando, intercambiando o en conflicto.\n\n**Para tu escuela:** di a qué grupos, comunidades e instituciones perteneces.",
-      "truco": "Persona, grupo, comunidad, institución: de lo pequeño a lo estable.",
-      "practica": {
-        "ejercicio": "¿La escuela es un grupo o una institución? Justifica.",
-        "respuesta": "Es una institución, porque tiene reglas estables y una función social: educar."
-      },
-      "analogias": [
-        {
-          "titulo": "El cuerpo",
-          "texto": "La sociedad es como un cuerpo: cada órgano cumple una función y todos dependen unos de otros."
-        },
-        {
-          "titulo": "La red",
-          "texto": "La organización social es una red de pesca: los nudos son personas y grupos, y los hilos son las relaciones que los sostienen."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Da un ejemplo de grupo y uno de institución.",
-          "respuesta": "Grupo: un equipo deportivo. Institución: un hospital público."
-        },
-        {
-          "ejercicio": "Menciona dos tipos de relaciones entre grupos.",
-          "respuesta": "Cooperación e intercambio, o conflicto."
-        },
-        {
-          "ejercicio": "Reflexiona: compara la familia y la escuela en una función y una regla.",
-          "respuesta": "Respuesta válida si compara, por ejemplo, que ambas educan y que la escuela tiene horarios formales mientras la familia tiene reglas informales."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-113",
-    "titulo": "Relaciones de poder en la sociedad",
-    "slug": "relaciones-poder-preparatoria",
-    "palabras": [
-      "poder",
-      "autoridad",
-      "influencia",
-      "desigualdad",
-      "dominación",
-      "participación"
-    ],
-    "contenido": {
-      "idea": "En un juego, el niño que tiene el balón decide quién juega. Ese poder puede usarse bien, repartiendo turnos, o mal, dejando fuera a alguien.",
-      "pizarron": "**Qué es:** el poder es la capacidad de influir en lo que otros hacen.\n\nEstá en la familia, la escuela y el gobierno.\n\n**Autoridad:** se acepta porque es justa, como un árbitro.\n\n**Influencia:** convence sin obligar.\n\n**Coerción:** obliga con amenaza.\n\n**Pregunta siempre:** ¿quién decide?, ¿quién gana?, ¿quién queda fuera?\n\n**Para tu escuela:** da un ejemplo de cada forma de poder.",
-      "truco": "Ante el poder pregunta: quién decide, quién gana, quién queda fuera.",
-      "practica": {
-        "ejercicio": "Un maestro califica con criterios conocidos. ¿Es autoridad legítima o coerción?",
-        "respuesta": "Es autoridad legítima, porque se basa en reglas conocidas y aceptadas."
-      },
-      "analogias": [
-        {
-          "titulo": "El volante",
-          "texto": "El poder es el volante de un autobús: quien lo tiene dirige a todos, y por eso importa saber quién maneja y a dónde va."
-        },
-        {
-          "titulo": "La balanza",
-          "texto": "Cuando un lado pesa demasiado, la balanza se inclina. Los contrapesos buscan devolver el equilibrio."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define poder.",
-          "respuesta": "Es la capacidad de influir en la conducta o las decisiones de otros."
-        },
-        {
-          "ejercicio": "Diferencia autoridad legítima de coerción.",
-          "respuesta": "La legítima se acepta como justa o legal; la coerción se impone con amenaza o fuerza."
-        },
-        {
-          "ejercicio": "Reflexiona: describe una relación de poder en tu entorno y cómo evitar abusos.",
-          "respuesta": "Respuesta válida si identifica quién decide, y propone reglas claras, diálogo o instancias para denunciar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-114",
-    "titulo": "Producción y distribución desigual",
-    "slug": "produccion-distribucion-preparatoria",
-    "palabras": [
-      "factores de producción",
-      "trabajo",
-      "capital",
-      "tierra",
-      "distribución",
-      "desigualdad"
-    ],
-    "contenido": {
-      "idea": "Para hacer una pizza se necesitan ingredientes, horno y alguien que cocine. Después, la pizza se reparte. Si algunos se llevan casi todo, a otros les toca muy poco.",
-      "pizarron": "**Qué es:** producir es hacer bienes y servicios. Distribuir es repartir lo ganado.\n\n**Para producir se necesita:**\n\n1. **Tierra:** recursos.\n2. **Trabajo:** esfuerzo.\n3. **Capital:** dinero y máquinas.\n4. **Organización.**\n\n**Reparto:** por salarios, ganancias, rentas e impuestos.\n\nEs desigual: quien tiene capital suele ganar más que quien solo tiene su trabajo.\n\n**Para tu escuela:** di quién gana con un pan: campesino, panadero y tienda.",
-      "truco": "Producir es hacer el pastel; distribuir es repartirlo.",
-      "practica": {
-        "ejercicio": "En una panadería, ¿qué factor es el horno y cuál el panadero?",
-        "respuesta": "El horno es capital y el panadero es trabajo."
-      },
-      "analogias": [
-        {
-          "titulo": "El pastel",
-          "texto": "Producir es hornear un pastel grande; distribuir es cortar las rebanadas. Un pastel enorme no ayuda si las rebanadas son muy desiguales."
-        },
-        {
-          "titulo": "El río",
-          "texto": "La producción es el agua que baja por un río; la distribución son los canales. Si pocos canales llegan a los campos, unos se riegan y otros se secan."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres factores de producción.",
-          "respuesta": "Tierra, trabajo y capital."
-        },
-        {
-          "ejercicio": "¿Qué es la distribución?",
-          "respuesta": "La forma en que se reparten bienes e ingresos entre las personas."
-        },
-        {
-          "ejercicio": "Reflexiona: da dos razones por las que dos personas pueden recibir ingresos muy distintos.",
-          "respuesta": "Respuesta válida si menciona propiedad de capital o tierra, nivel educativo, acceso a empleo o diferencias en servicios."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-115",
-    "titulo": "Políticas públicas y desigualdad",
-    "slug": "politicas-publicas-preparatoria",
-    "palabras": [
-      "políticas públicas",
-      "desigualdad",
-      "omisiones",
-      "necesidades",
-      "programas sociales",
-      "Estado"
-    ],
-    "contenido": {
-      "idea": "Si el comedor escolar reparte comida y algunos niños no alcanzan, el director debe cambiar el plan. Una política pública es el plan del gobierno para ayudar a todos.",
-      "pizarron": "**Qué es:** una política pública es lo que hace el gobierno para resolver un problema común.\n\n**Etapas:**\n\n1. Ver el problema.\n2. Diseñar la solución.\n3. Aplicarla con dinero.\n4. Revisar resultados.\n\n**Ejemplo:** una beca para que nadie deje la escuela.\n\nHay que preguntar a quién ayuda y a quién deja fuera.\n\n**Para recordar:**\n- **Política pública:** Son decisiones y acciones del gobierno para atender problemas colectivos.\n\n**Para tu escuela:** elige un programa de gobierno y di a quién ayuda.",
-      "truco": "Analiza la política con tres preguntas: a quién ayuda, qué cubre y qué omite.",
-      "practica": {
-        "ejercicio": "Se abre una clínica sin médicos. ¿Es contradicción u omisión?",
-        "respuesta": "Es omisión, porque no se atiende la necesidad real de atención médica."
-      },
-      "analogias": [
-        {
-          "titulo": "El mapa",
-          "texto": "Una política pública es un mapa de ruta. Si el mapa no marca ciertos barrios, esas personas nunca llegan al destino."
-        },
-        {
-          "titulo": "La receta",
-          "texto": "Es una receta para resolver un problema social. Si falta un ingrediente, el platillo no sale como se esperaba."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define política pública.",
-          "respuesta": "Son decisiones y acciones del gobierno para atender problemas colectivos."
-        },
-        {
-          "ejercicio": "Ordena: evaluar, identificar el problema, aplicar, diseñar.",
-          "respuesta": "Identificar el problema, diseñar, aplicar y evaluar."
-        },
-        {
-          "ejercicio": "Reflexiona: elige un servicio público de tu comunidad y señala una omisión posible.",
-          "respuesta": "Respuesta válida si nombra un servicio, como transporte o salud, y describe una carencia concreta con un posible efecto."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-116",
-    "titulo": "Actores sociales y sucesos recientes",
-    "slug": "actores-sociales-preparatoria",
-    "palabras": [
-      "actores sociales",
-      "movimientos",
-      "medios de comunicación",
-      "empresas",
-      "sociedad civil",
-      "actualidad"
-    ],
-    "contenido": {
-      "idea": "En un proyecto escolar, cada integrante defiende ideas distintas y todos influyen en el resultado. En los sucesos del país pasa igual: varios participan y cada uno quiere algo.",
-      "pizarron": "**Qué es:** un actor social es una persona o grupo que influye en lo que pasa en la sociedad.\n\n**Ejemplos:** gobierno, empresas, ciudadanos organizados, medios y escuelas.\n\n**Para entender una noticia:**\n\n1. ¿Quién participa?\n2. ¿Qué quiere cada quien?\n3. ¿Qué usa?\n4. ¿Qué efectos tiene?\n\nCompara versiones.\n\n**Para recordar:**\n- **¿Por qué conviene contrastar fuentes?** Porque cada actor tiene intereses y una sola versión puede estar incompleta.\n\n**Para tu escuela:** toma una noticia y responde las cuatro preguntas.",
-      "truco": "Ante un suceso: quién participa, qué quiere y qué logra.",
-      "practica": {
-        "ejercicio": "Vecinos piden alumbrado y el municipio lo instala. ¿Qué actores participan?",
-        "respuesta": "La comunidad o sociedad civil y el gobierno municipal."
-      },
-      "analogias": [
-        {
-          "titulo": "El partido",
-          "texto": "Un suceso es un partido: jugadores, árbitros, público y comentaristas. Para entenderlo hay que ver el papel de cada uno."
-        },
-        {
-          "titulo": "La obra de teatro",
-          "texto": "Los actores sociales son personajes con objetivos propios. La historia cambia según lo que cada personaje hace."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres actores sociales.",
-          "respuesta": "Por ejemplo: gobierno, empresas y sociedad civil."
-        },
-        {
-          "ejercicio": "¿Por qué conviene contrastar fuentes?",
-          "respuesta": "Porque cada actor tiene intereses y una sola versión puede estar incompleta."
-        },
-        {
-          "ejercicio": "Reflexiona: elige un suceso reciente y explica el papel de dos actores.",
-          "respuesta": "Respuesta válida si nombra un suceso real, identifica dos actores y explica sus intereses y acciones sin inventar datos."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-107",
+"titulo": "El Estado y la ciudadanía crítica",
+"slug": "estado-concepto-preparatoria",
+"palabras": [
+"Estado",
+"gobierno",
+"nación",
+"territorio",
+"soberanía",
+"ciudadanía crítica"
+],
+"contenido": {
+"idea": "Imagina una escuela: tiene un terreno, alumnos, un director que organiza y reglas que todos siguen. El Estado es como una escuela enorme donde vivimos todos, con reglas para convivir.",
+"pizarron": "**Qué es:** el Estado es la organización política de un pueblo. Tiene cuatro elementos.\n\n1. **Población:** la gente.\n2. **Territorio:** el lugar.\n3. **Gobierno:** quienes dirigen.\n4. **Soberanía:** decidir sin depender de otro país.\n\nEstado no es lo mismo que gobierno: el gobierno cambia y el Estado sigue. Como un equipo que cambia de entrenador.\n\n**Soberanía:** poder de decidir sin que otro país mande. México crea sus propias leyes.\n\n**Para tu escuela:** di los cuatro elementos de México.",
+"truco": "PTGS: Población, Territorio, Gobierno, Soberanía.",
+"practica": {
+"ejercicio": "Un presidente termina su periodo y llega otro. ¿Cambió el Estado o el gobierno?",
+"respuesta": "Cambió el gobierno. El Estado sigue igual, con su población, territorio y soberanía."
+},
+"analogias": [
+{
+"titulo": "El barco",
+"texto": "El Estado es un barco: los pasajeros son la población, el casco es el territorio y la tripulación es el gobierno. Puede cambiar la tripulación, pero el barco sigue navegando."
+},
+{
+"titulo": "El juego",
+"texto": "El Estado es el reglamento y la cancha de un torneo. Los gobiernos son los árbitros que se turnan, y las reglas siguen siendo para todos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona los cuatro elementos del Estado.",
+"respuesta": "Población, territorio, gobierno y soberanía."
+},
+{
+"ejercicio": "Explica qué significa soberanía con un ejemplo.",
+"respuesta": "Es el poder de decidir sin que otro país mande. Ejemplo: México crea sus propias leyes."
+},
+{
+"ejercicio": "Reflexiona: ¿cómo puedes ser un ciudadano crítico ante una noticia? Da dos acciones.",
+"respuesta": "Respuesta válida si incluye acciones como verificar la fuente, comparar con otros medios, preguntar quién se beneficia o dialogar con respeto."
+}
+]
+}
+},
+{
+"nodo_id": "ems-108",
+"titulo": "La evolución de la ciudadanía",
+"slug": "ciudadania-devenir-preparatoria",
+"palabras": [
+"ciudadanía",
+"derechos",
+"democracia",
+"inclusión",
+"sufragio",
+"historia"
+],
+"contenido": {
+"idea": "Antes, en un juego solo algunos niños podían entrar al equipo. Con el tiempo, el grupo entendió que todos merecían jugar. Así creció la ciudadanía: cada vez entran más personas.",
+"pizarron": "**Qué es:** la ciudadanía es pertenecer a una comunidad política con derechos y deberes. Ha cambiado con el tiempo.\n\n**Grecia:** solo algunos varones libres.\n\n**Siglo XVIII:** revoluciones por derechos.\n\n**Siglos XIX y XX:** más grupos. En México, las mujeres ganaron el voto en 1953 y votaron en 1955.\n\n**Hoy:** se busca incluir a todos.\n\n**Incluyente:** reconoce a todas las personas, sin discriminar.\n\n**Antigua Grecia:** no lo era: dejaba fuera a mujeres, esclavos y extranjeros.\n\n**Para tu escuela:** di un derecho y un deber que tendrás al cumplir 18.",
+"truco": "Ciudadanía: cada vez más personas, más derechos.",
+"practica": {
+"ejercicio": "¿Por qué la ciudadanía de la antigua Grecia no era incluyente?",
+"respuesta": "Porque excluía a mujeres, esclavos y extranjeros."
+},
+"analogias": [
+{
+"titulo": "La mesa",
+"texto": "La ciudadanía es una mesa a la que antes cabían pocos. Con los años se le agregaron extensiones para que todos puedan sentarse."
+},
+{
+"titulo": "El puente",
+"texto": "Cada derecho conquistado es una tabla nueva en un puente que permite cruzar a más personas hacia la participación."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿En qué año votaron las mujeres a nivel nacional en México?",
+"respuesta": "En 1953."
+},
+{
+"ejercicio": "Explica qué significa ciudadanía incluyente.",
+"respuesta": "Que reconoce derechos y participación de todas las personas, sin discriminar."
+},
+{
+"ejercicio": "Reflexiona: menciona un derecho que hoy damos por hecho y explica por qué fue una conquista.",
+"respuesta": "Respuesta válida si nombra un derecho, como el voto, y explica que antes se negaba a ciertos grupos y se logró con lucha social."
+}
+]
+}
+},
+{
+"nodo_id": "ems-109",
+"titulo": "Normas sociales en la vida cotidiana",
+"slug": "normas-sociales-preparatoria",
+"palabras": [
+"normas",
+"reglas",
+"costumbres",
+"moral",
+"leyes",
+"convivencia"
+],
+"contenido": {
+"idea": "En un recreo, nadie te obliga a formarte para la tienda, pero lo haces porque todos lo hacen. Esas reglas, escritas o no, ayudan a convivir sin pelear.",
+"pizarron": "**Qué es:** las normas sociales son reglas que orientan cómo convivir.\n\nLas normas sociales son reglas que orientan la conducta en una sociedad. Se contrastan por su origen y su sanción:\n\n- **Jurídicas**: las leyes. Las crea el Estado y obligan a todos; su incumplimiento tiene sanción legal, como una multa.\n- **Morales**: se basan en la conciencia personal sobre lo bueno y lo malo; la sanción es la culpa.\n- **Sociales o convencionales**: costumbres como saludar o ceder el asiento; la sanción es el rechazo del grupo.\n- **Religiosas**: provienen de creencias y su cumplimiento es voluntario.\n\nSu función es dar orden, previsibilidad y convivencia. Varían según la época y la cultura, por eso conviene analizarlas con criterio.\n\n**Para tu escuela:** anota tres normas que sigues sin pensar.",
+"truco": "Jurídica obliga, moral convence, social cuida el trato.",
+"practica": {
+"ejercicio": "Clasifica: detenerte en el semáforo en rojo.",
+"respuesta": "Es norma jurídica, porque está en un reglamento y su incumplimiento puede sancionarse."
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "Las normas son como semáforos invisibles: ordenan el paso de todos para que nadie choque."
+},
+{
+"titulo": "El idioma",
+"texto": "Las normas son como la gramática: casi nadie las estudia, pero todos las usamos para entendernos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos diferencias entre una norma jurídica y una social.",
+"respuesta": "La jurídica la crea el Estado y tiene sanción legal; la social es costumbre y su sanción es el rechazo del grupo."
+},
+{
+"ejercicio": "Clasifica: no mentir aunque nadie te descubra.",
+"respuesta": "Norma moral, porque depende de la conciencia personal."
+},
+{
+"ejercicio": "Reflexiona: ¿qué pasaría sin normas en tu escuela? Da dos consecuencias.",
+"respuesta": "Respuesta válida si menciona desorden, conflictos sin solución, falta de respeto o desigualdad en el trato."
+}
+]
+}
+},
+{
+"nodo_id": "ems-110",
+"titulo": "Diversidad y democracia",
+"slug": "diversidad-democracia-preparatoria",
+"palabras": [
+"diversidad",
+"democracia",
+"pluralidad",
+"inclusión",
+"tolerancia",
+"respeto"
+],
+"contenido": {
+"idea": "Una caja de colores con un solo color dibuja un mundo aburrido. Con todos los colores el dibujo se ve mejor. Una sociedad también mejora cuando caben personas distintas.",
+"pizarron": "**Qué es:** la democracia necesita que convivan personas distintas, con los mismos derechos.\n\n1. Hacen falta ideas diferentes para debatir.\n2. Todos tienen los mismos derechos.\n3. Decide la mayoría, pero se respeta a las minorías.\n\nComo elegir película en familia: alguien gana, pero nadie se queda fuera.\n\n**Diversidad:** diferencias de cultura, lengua u opinión.\n\nCon una sola opinión permitida no hay debate, y deja de ser democracia.\n\n**Para tu escuela:** propón una regla para que todos opinen en tu grupo.",
+"truco": "Democracia: muchas voces, mismos derechos.",
+"practica": {
+"ejercicio": "¿Por qué una democracia con una sola opinión permitida deja de serlo?",
+"respuesta": "Porque sin pluralidad no hay debate ni participación libre."
+},
+"analogias": [
+{
+"titulo": "La orquesta",
+"texto": "En una orquesta suenan instrumentos distintos y juntos crean una melodía. La democracia suena bien cuando cada voz tiene lugar."
+},
+{
+"titulo": "El jardín",
+"texto": "Un jardín con flores variadas es más fuerte y bonito. La diversidad cuida a la sociedad como a un jardín."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define diversidad en una oración.",
+"respuesta": "Es la existencia de diferencias entre personas o grupos, como cultura, lengua u opinión."
+},
+{
+"ejercicio": "¿Qué debe hacer la mayoría con las minorías en una democracia?",
+"respuesta": "Respetar sus derechos y permitir su participación."
+},
+{
+"ejercicio": "Reflexiona: en un debate escolar alguien piensa distinto a ti. Describe dos actitudes democráticas.",
+"respuesta": "Respuesta válida si incluye escuchar sin interrumpir, argumentar con respeto y aceptar el desacuerdo sin agredir."
+}
+]
+}
+},
+{
+"nodo_id": "ems-111",
+"titulo": "Necesidades y satisfactores",
+"slug": "necesidades-satisfactores-preparatoria",
+"palabras": [
+"necesidades",
+"satisfactores",
+"bienes",
+"servicios",
+"comunidad",
+"organización social"
+],
+"contenido": {
+"idea": "Tienes hambre: esa es la necesidad. El plato de comida es lo que la resuelve. Todos necesitamos cosas, y entre varios las conseguimos mejor.",
+"pizarron": "**Qué es:** una necesidad es algo que te hace falta. Un satisfactor es lo que la cubre.\n\n**Hambre** es necesidad. **Comida** es satisfactor.\n\n**Tipos:**\n\n- **Materiales:** comida, casa, agua.\n- **Personales:** cariño, aprender.\n- **Comunitarias:** seguridad, escuela.\n\nUna necesidad se cubre de varias maneras, según la cultura.\n\n**Para tu escuela:** haz una tabla con tres necesidades y sus satisfactores.",
+"truco": "Necesidad es la falta; satisfactor es lo que la llena.",
+"practica": {
+"ejercicio": "Necesidad: trasladarte a la escuela. Menciona dos satisfactores.",
+"respuesta": "Por ejemplo: el autobús y la bicicleta."
+},
+"analogias": [
+{
+"titulo": "La llave",
+"texto": "La necesidad es una cerradura y el satisfactor es la llave. Hay cerraduras que aceptan varias llaves."
+},
+{
+"titulo": "La olla comunitaria",
+"texto": "Si cada familia lleva un ingrediente, todos comen. La comunidad junta recursos para cubrir necesidades que solos no cubrirían."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Diferencia necesidad de satisfactor.",
+"respuesta": "La necesidad es una carencia; el satisfactor es lo que la cubre."
+},
+{
+"ejercicio": "Clasifica como material o personal: una vivienda y la amistad.",
+"respuesta": "La vivienda es material; la amistad es personal."
+},
+{
+"ejercicio": "Reflexiona: nombra una necesidad de tu comunidad que no esté bien cubierta y propón un satisfactor.",
+"respuesta": "Respuesta válida si identifica una carencia concreta, como transporte o agua, y propone un satisfactor viable."
+}
+]
+}
+},
+{
+"nodo_id": "ems-112",
+"titulo": "Organización social e instituciones",
+"slug": "organizacion-social-preparatoria",
+"palabras": [
+"organización social",
+"instituciones",
+"grupos",
+"comunidades",
+"familia",
+"relaciones sociales"
+],
+"contenido": {
+"idea": "En una fiesta de cumpleaños, cada quien tiene su tarea: uno trae el pastel, otro pone música. Si todos colaboran, sale bien. La sociedad se organiza así.",
+"pizarron": "**Qué es:** la organización social es cómo las personas se juntan y se reparten tareas.\n\n**Personas:** cada una con un papel.\n\n**Grupos:** la familia o un equipo.\n\n**Comunidades:** comparten lugar o identidad.\n\n**Instituciones:** tienen reglas fijas, como la escuela.\n\nSe relacionan cooperando, intercambiando o en conflicto.\n\n**Para tu escuela:** di a qué grupos, comunidades e instituciones perteneces.",
+"truco": "Persona, grupo, comunidad, institución: de lo pequeño a lo estable.",
+"practica": {
+"ejercicio": "¿La escuela es un grupo o una institución? Justifica.",
+"respuesta": "Es una institución, porque tiene reglas estables y una función social: educar."
+},
+"analogias": [
+{
+"titulo": "El cuerpo",
+"texto": "La sociedad es como un cuerpo: cada órgano cumple una función y todos dependen unos de otros."
+},
+{
+"titulo": "La red",
+"texto": "La organización social es una red de pesca: los nudos son personas y grupos, y los hilos son las relaciones que los sostienen."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Da un ejemplo de grupo y uno de institución.",
+"respuesta": "Grupo: un equipo deportivo. Institución: un hospital público."
+},
+{
+"ejercicio": "Menciona dos tipos de relaciones entre grupos.",
+"respuesta": "Cooperación e intercambio, o conflicto."
+},
+{
+"ejercicio": "Reflexiona: compara la familia y la escuela en una función y una regla.",
+"respuesta": "Respuesta válida si compara, por ejemplo, que ambas educan y que la escuela tiene horarios formales mientras la familia tiene reglas informales."
+}
+]
+}
+},
+{
+"nodo_id": "ems-113",
+"titulo": "Relaciones de poder en la sociedad",
+"slug": "relaciones-poder-preparatoria",
+"palabras": [
+"poder",
+"autoridad",
+"influencia",
+"desigualdad",
+"dominación",
+"participación"
+],
+"contenido": {
+"idea": "En un juego, el niño que tiene el balón decide quién juega. Ese poder puede usarse bien, repartiendo turnos, o mal, dejando fuera a alguien.",
+"pizarron": "**Qué es:** el poder es la capacidad de influir en lo que otros hacen.\n\nEstá en la familia, la escuela y el gobierno.\n\n**Autoridad:** se acepta porque es justa, como un árbitro.\n\n**Influencia:** convence sin obligar.\n\n**Coerción:** obliga con amenaza.\n\n**Pregunta siempre:** ¿quién decide?, ¿quién gana?, ¿quién queda fuera?\n\n**Para tu escuela:** da un ejemplo de cada forma de poder.",
+"truco": "Ante el poder pregunta: quién decide, quién gana, quién queda fuera.",
+"practica": {
+"ejercicio": "Un maestro califica con criterios conocidos. ¿Es autoridad legítima o coerción?",
+"respuesta": "Es autoridad legítima, porque se basa en reglas conocidas y aceptadas."
+},
+"analogias": [
+{
+"titulo": "El volante",
+"texto": "El poder es el volante de un autobús: quien lo tiene dirige a todos, y por eso importa saber quién maneja y a dónde va."
+},
+{
+"titulo": "La balanza",
+"texto": "Cuando un lado pesa demasiado, la balanza se inclina. Los contrapesos buscan devolver el equilibrio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define poder.",
+"respuesta": "Es la capacidad de influir en la conducta o las decisiones de otros."
+},
+{
+"ejercicio": "Diferencia autoridad legítima de coerción.",
+"respuesta": "La legítima se acepta como justa o legal; la coerción se impone con amenaza o fuerza."
+},
+{
+"ejercicio": "Reflexiona: describe una relación de poder en tu entorno y cómo evitar abusos.",
+"respuesta": "Respuesta válida si identifica quién decide, y propone reglas claras, diálogo o instancias para denunciar."
+}
+]
+}
+},
+{
+"nodo_id": "ems-114",
+"titulo": "Producción y distribución desigual",
+"slug": "produccion-distribucion-preparatoria",
+"palabras": [
+"factores de producción",
+"trabajo",
+"capital",
+"tierra",
+"distribución",
+"desigualdad"
+],
+"contenido": {
+"idea": "Para hacer una pizza se necesitan ingredientes, horno y alguien que cocine. Después, la pizza se reparte. Si algunos se llevan casi todo, a otros les toca muy poco.",
+"pizarron": "**Qué es:** producir es hacer bienes y servicios. Distribuir es repartir lo ganado.\n\n**Para producir se necesita:**\n\n1. **Tierra:** recursos.\n2. **Trabajo:** esfuerzo.\n3. **Capital:** dinero y máquinas.\n4. **Organización.**\n\n**Reparto:** por salarios, ganancias, rentas e impuestos.\n\nEs desigual: quien tiene capital suele ganar más que quien solo tiene su trabajo.\n\n**Para tu escuela:** di quién gana con un pan: campesino, panadero y tienda.",
+"truco": "Producir es hacer el pastel; distribuir es repartirlo.",
+"practica": {
+"ejercicio": "En una panadería, ¿qué factor es el horno y cuál el panadero?",
+"respuesta": "El horno es capital y el panadero es trabajo."
+},
+"analogias": [
+{
+"titulo": "El pastel",
+"texto": "Producir es hornear un pastel grande; distribuir es cortar las rebanadas. Un pastel enorme no ayuda si las rebanadas son muy desiguales."
+},
+{
+"titulo": "El río",
+"texto": "La producción es el agua que baja por un río; la distribución son los canales. Si pocos canales llegan a los campos, unos se riegan y otros se secan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres factores de producción.",
+"respuesta": "Tierra, trabajo y capital."
+},
+{
+"ejercicio": "¿Qué es la distribución?",
+"respuesta": "La forma en que se reparten bienes e ingresos entre las personas."
+},
+{
+"ejercicio": "Reflexiona: da dos razones por las que dos personas pueden recibir ingresos muy distintos.",
+"respuesta": "Respuesta válida si menciona propiedad de capital o tierra, nivel educativo, acceso a empleo o diferencias en servicios."
+}
+]
+}
+},
+{
+"nodo_id": "ems-115",
+"titulo": "Políticas públicas y desigualdad",
+"slug": "politicas-publicas-preparatoria",
+"palabras": [
+"políticas públicas",
+"desigualdad",
+"omisiones",
+"necesidades",
+"programas sociales",
+"Estado"
+],
+"contenido": {
+"idea": "Si el comedor escolar reparte comida y algunos niños no alcanzan, el director debe cambiar el plan. Una política pública es el plan del gobierno para ayudar a todos.",
+"pizarron": "**Qué es:** una política pública es lo que hace el gobierno para resolver un problema común.\n\n**Etapas:**\n\n1. Ver el problema.\n2. Diseñar la solución.\n3. Aplicarla con dinero.\n4. Revisar resultados.\n\n**Ejemplo:** una beca para que nadie deje la escuela.\n\nHay que preguntar a quién ayuda y a quién deja fuera.\n\n**Para tu escuela:** elige un programa de gobierno y di a quién ayuda.",
+"truco": "Analiza la política con tres preguntas: a quién ayuda, qué cubre y qué omite.",
+"practica": {
+"ejercicio": "Se abre una clínica sin médicos. ¿Es contradicción u omisión?",
+"respuesta": "Es omisión, porque no se atiende la necesidad real de atención médica."
+},
+"analogias": [
+{
+"titulo": "El mapa",
+"texto": "Una política pública es un mapa de ruta. Si el mapa no marca ciertos barrios, esas personas nunca llegan al destino."
+},
+{
+"titulo": "La receta",
+"texto": "Es una receta para resolver un problema social. Si falta un ingrediente, el platillo no sale como se esperaba."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define política pública.",
+"respuesta": "Son decisiones y acciones del gobierno para atender problemas colectivos."
+},
+{
+"ejercicio": "Ordena: evaluar, identificar el problema, aplicar, diseñar.",
+"respuesta": "Identificar el problema, diseñar, aplicar y evaluar."
+},
+{
+"ejercicio": "Reflexiona: elige un servicio público de tu comunidad y señala una omisión posible.",
+"respuesta": "Respuesta válida si nombra un servicio, como transporte o salud, y describe una carencia concreta con un posible efecto."
+}
+]
+}
+},
+{
+"nodo_id": "ems-116",
+"titulo": "Actores sociales y sucesos recientes",
+"slug": "actores-sociales-preparatoria",
+"palabras": [
+"actores sociales",
+"movimientos",
+"medios de comunicación",
+"empresas",
+"sociedad civil",
+"actualidad"
+],
+"contenido": {
+"idea": "En un proyecto escolar, cada integrante defiende ideas distintas y todos influyen en el resultado. En los sucesos del país pasa igual: varios participan y cada uno quiere algo.",
+"pizarron": "**Qué es:** un actor social es una persona o grupo que influye en lo que pasa en la sociedad.\n\n**Ejemplos:** gobierno, empresas, ciudadanos organizados, medios y escuelas.\n\n**Para entender una noticia:**\n\n1. ¿Quién participa?\n2. ¿Qué quiere cada quien?\n3. ¿Qué usa?\n4. ¿Qué efectos tiene?\n\nCompara versiones.\n\n**Contrasta fuentes:** cada actor tiene intereses, y una versión sola puede estar incompleta.\n\n**Para tu escuela:** toma una noticia y responde las cuatro preguntas.",
+"truco": "Ante un suceso: quién participa, qué quiere y qué logra.",
+"practica": {
+"ejercicio": "Vecinos piden alumbrado y el municipio lo instala. ¿Qué actores participan?",
+"respuesta": "La comunidad o sociedad civil y el gobierno municipal."
+},
+"analogias": [
+{
+"titulo": "El partido",
+"texto": "Un suceso es un partido: jugadores, árbitros, público y comentaristas. Para entenderlo hay que ver el papel de cada uno."
+},
+{
+"titulo": "La obra de teatro",
+"texto": "Los actores sociales son personajes con objetivos propios. La historia cambia según lo que cada personaje hace."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres actores sociales.",
+"respuesta": "Por ejemplo: gobierno, empresas y sociedad civil."
+},
+{
+"ejercicio": "¿Por qué conviene contrastar fuentes?",
+"respuesta": "Porque cada actor tiene intereses y una sola versión puede estar incompleta."
+},
+{
+"ejercicio": "Reflexiona: elige un suceso reciente y explica el papel de dos actores.",
+"respuesta": "Respuesta válida si nombra un suceso real, identifica dos actores y explica sus intereses y acciones sin inventar datos."
+}
+]
+}
+}
 ]

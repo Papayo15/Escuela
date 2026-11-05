@@ -1,462 +1,462 @@
 [
-  {
-    "nodo_id": "ems-094",
-    "titulo": "Características lingüísticas de las narrativas populares",
-    "slug": "caracteristicas-linguisticas-narrativas-populares-prepa",
-    "palabras": [
-      "leyendas",
-      "mitos",
-      "cuentos populares",
-      "lenguaje coloquial",
-      "oralidad",
-      "refranes"
-    ],
-    "contenido": {
-      "idea": "Cuando tu abuela cuenta una leyenda, usa sus palabras de siempre, repite partes y te hace preguntas, como si estuvieran platicando.",
-      "pizarron": "**Qué es:** las narrativas populares son relatos del pueblo, con lenguaje de plática.\n\n**Rasgos:**\n\n1. Palabras de la región.\n2. Inicios como *Había una vez*.\n3. Frases repetidas.\n4. Refranes.\n5. Un narrador que le habla al oyente.\n\n**Para recordar:**\n- **Regionalismo:** Palabra propia de una región, como \"chamaco\" para niño en México.\n- **¿Por qué se repiten frases en un relato oral?** Porque ayudan a memorizarlo y a transmitirlo sin escribirlo.\n\n**Para tu escuela:** marca estos rasgos en una leyenda.",
-      "truco": "Si suena a plática, es popular.",
-      "practica": {
-        "ejercicio": "En \"Érase que se era, una llorona que andaba en el río, ay, ay, ay\", señala una fórmula de inicio y una repetición.",
-        "respuesta": "Fórmula de inicio: \"Érase que se era\". Repetición: \"ay, ay, ay\"."
-      },
-      "analogias": [
-        {
-          "titulo": "La receta de la familia",
-          "texto": "Una receta pasa de boca en boca y cada quien la dice con sus palabras, pero conserva los pasos clave, igual que un relato popular."
-        },
-        {
-          "titulo": "El mensaje en el chat",
-          "texto": "Escribimos con abreviaturas y expresiones de nuestro grupo; así, el lenguaje de una narrativa popular refleja a su comunidad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe dos fórmulas de inicio de cuentos populares.",
-          "respuesta": "Por ejemplo: \"Había una vez\" y \"Cuentan que hace mucho tiempo\"."
-        },
-        {
-          "ejercicio": "¿Por qué se repiten frases en un relato oral?",
-          "respuesta": "Porque ayudan a memorizarlo y a transmitirlo sin escribirlo."
-        },
-        {
-          "ejercicio": "¿Qué es un regionalismo? Da un ejemplo.",
-          "respuesta": "Palabra propia de una región, como \"chamaco\" para niño en México."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-095",
-    "titulo": "Tema, idea central e ideas secundarias en narrativas populares",
-    "slug": "tema-ideas-central-secundarias-narrativas-populares-prepa",
-    "palabras": [
-      "idea principal",
-      "idea secundaria",
-      "tema",
-      "leyenda",
-      "resumen",
-      "comprensión lectora"
-    ],
-    "contenido": {
-      "idea": "Un árbol tiene un tronco grueso y muchas ramas: el tronco es lo más importante y las ramas lo adornan y lo completan.",
-      "pizarron": "**La regla:** el tema es de qué trata, la idea central es lo más importante, y las secundarias lo apoyan.\n\n**Prueba:** si la quitas y se entiende igual, era secundaria.\n\n**Para recordar:**\n- **Idea central:** Lo más importante que el texto dice sobre su tema.\n\n**Para tu escuela:** di tema e idea central de una leyenda.",
-      "truco": "Quita y pregunta: ¿se sigue entendiendo?",
-      "practica": {
-        "ejercicio": "Una leyenda cuenta que un joven se convirtió en volcán por esperar a su amada. Indica el tema y una idea secundaria posible.",
-        "respuesta": "Tema: el amor y la fidelidad. Idea secundaria: por ejemplo, la amada partió a la guerra o la gente nombró al volcán."
-      },
-      "analogias": [
-        {
-          "titulo": "El titular y la nota",
-          "texto": "El titular de un periódico dice lo esencial y la nota agrega los detalles, como la idea central y las secundarias."
-        },
-        {
-          "titulo": "La pizza",
-          "texto": "La masa y el queso son lo básico; los ingredientes extra se pueden quitar y sigue siendo pizza."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define idea central.",
-          "respuesta": "Lo más importante que el texto dice sobre su tema."
-        },
-        {
-          "ejercicio": "¿Cómo distingues una idea secundaria?",
-          "respuesta": "Si la quitas, el relato conserva su sentido; solo aporta detalle."
-        },
-        {
-          "ejercicio": "Di el tema de una leyenda que conozcas.",
-          "respuesta": "Respuesta libre, por ejemplo: la Llorona trata sobre la culpa y el castigo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-096",
-    "titulo": "Personajes y escenarios en la narrativa popular",
-    "slug": "personajes-escenarios-narrativa-popular-prepa",
-    "palabras": [
-      "personajes",
-      "escenario",
-      "ambiente",
-      "protagonista",
-      "antagonista",
-      "caracterización"
-    ],
-    "contenido": {
-      "idea": "En una película, los actores hacen la historia y el lugar la hace creíble: sin personajes ni escenario no hay nada que ver.",
-      "pizarron": "**Qué es:** los personajes hacen las acciones. El escenario es dónde y cuándo.\n\n**Protagonista:** el centro.\n\n**Antagonista:** se le opone.\n\nEl escenario crea el ambiente: un panteón da miedo.\n\n**Para tu escuela:** crea un personaje y un lugar.",
-      "truco": "Quién, dónde y cómo es.",
-      "practica": {
-        "ejercicio": "En una leyenda, una mujer vestida de blanco llora de noche junto al río. Identifica personaje, escenario y ambiente.",
-        "respuesta": "Personaje: la mujer de blanco. Escenario: el río de noche. Ambiente: de misterio y tristeza."
-      },
-      "analogias": [
-        {
-          "titulo": "El teatro",
-          "texto": "Los actores son los personajes y la tramoya es el escenario; si cambias el fondo, cambia el sentimiento de la obra."
-        },
-        {
-          "titulo": "El videojuego",
-          "texto": "Cada personaje tiene rasgos propios y el mapa donde juegas define el ambiente de la aventura."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Diferencia protagonista y antagonista.",
-          "respuesta": "El protagonista es el centro de la historia; el antagonista se opone a él."
-        },
-        {
-          "ejercicio": "¿Qué dos datos incluye el escenario?",
-          "respuesta": "El lugar y el tiempo en que ocurre la historia."
-        },
-        {
-          "ejercicio": "Crea un personaje popular con un rasgo y un escenario.",
-          "respuesta": "Ejemplo: un arriero astuto que cruza de noche un cerro neblinoso."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-097",
-    "titulo": "Reescribir un texto con elementos lingüísticos y narrativos",
-    "slug": "reescribir-texto-elementos-narrativos-prepa",
-    "palabras": [
-      "reescritura",
-      "borrador",
-      "revisión",
-      "narrador",
-      "versión",
-      "edición"
-    ],
-    "contenido": {
-      "idea": "Es como cambiar los muebles de tu cuarto: la casa es la misma, pero la acomodas para que se vea mejor.",
-      "pizarron": "**Qué es:** reescribir es crear otra versión de un texto.\n\n1. Identifica sus partes.\n2. Decide qué cambiar.\n3. Escribe.\n4. Revisa.\n\nNo copies: transforma.\n\n**Para recordar:**\n- **¿Para qué sirve revisar el borrador?** Para corregir errores y mejorar la claridad y coherencia.\n\n**Para tu escuela:** cambia el final de un cuento.",
-      "truco": "Leer, decidir, escribir y revisar.",
-      "practica": {
-        "ejercicio": "Reescribe \"El lobo se comió a la abuela\" cambiando el narrador al lobo, en una oración.",
-        "respuesta": "Ejemplo: \"Yo tenía mucha hambre y llegué a casa de la abuela\". Debe estar en primera persona."
-      },
-      "analogias": [
-        {
-          "titulo": "El remix musical",
-          "texto": "Se toma una canción y se cambia ritmo o letra, pero se reconoce la melodía de fondo."
-        },
-        {
-          "titulo": "La foto editada",
-          "texto": "Recortas, ajustas luz y color; la imagen es la misma pero comunica distinto."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos cambios posibles al reescribir.",
-          "respuesta": "Cambiar el narrador y cambiar el final, por ejemplo."
-        },
-        {
-          "ejercicio": "¿Para qué sirve revisar el borrador?",
-          "respuesta": "Para corregir errores y mejorar la claridad y coherencia."
-        },
-        {
-          "ejercicio": "Escribe un conector de tiempo y uno de causa.",
-          "respuesta": "Tiempo: después. Causa: porque, por eso."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-098",
-    "titulo": "Análisis colaborativo de procedimientos narrativos",
-    "slug": "analisis-colaborativo-procedimientos-narrativos-prepa",
-    "palabras": [
-      "trabajo en equipo",
-      "análisis de texto",
-      "narrador",
-      "tiempo narrativo",
-      "retroalimentación",
-      "corrección"
-    ],
-    "contenido": {
-      "idea": "Cuando un equipo revisa un partido en video, entre todos ven qué jugadas funcionaron y qué se puede mejorar.",
-      "pizarron": "**Qué es:** es analizar en equipo cómo está contada una historia: quién narra, en qué orden y cómo son los personajes.\n\n**Pasos:**\n\n1. Lean el mismo texto.\n2. Marquen lo que notan.\n3. Comenten qué efecto causa.\n4. Den ejemplos.\n\nUna buena crítica es amable y propone algo.\n\n**Para recordar:**\n- **¿Qué características tiene una crítica útil?** Es específica, respetuosa, con ejemplos y con una propuesta de mejora.\n\n**Para tu escuela:** analicen quién narra un cuento y qué pasaría si fuera otro.",
-      "truco": "Marca, comenta, aprende y corrige.",
-      "practica": {
-        "ejercicio": "Tu compañero dice: \"Tu cuento está raro\". Reformula el comentario para que sea útil.",
-        "respuesta": "Ejemplo: \"El narrador cambia de primera a tercera persona en el segundo párrafo; podrías mantener una sola\"."
-      },
-      "analogias": [
-        {
-          "titulo": "El taller mecánico",
-          "texto": "Entre varios revisan el motor, detectan la falla y deciden cómo arreglarla."
-        },
-        {
-          "titulo": "El proyecto de equipo",
-          "texto": "Cada quien aporta su mirada y el resultado final queda mejor que el trabajo de uno solo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Nombra dos procedimientos narrativos.",
-          "respuesta": "Por ejemplo: tipo de narrador y orden del tiempo."
-        },
-        {
-          "ejercicio": "¿Qué características tiene una crítica útil?",
-          "respuesta": "Es específica, respetuosa, con ejemplos y con una propuesta de mejora."
-        },
-        {
-          "ejercicio": "Un relato empieza por el final y luego regresa. ¿Qué técnica es?",
-          "respuesta": "Una retrospectiva (analepsis), alteración del orden lineal."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-099",
-    "titulo": "Lectura, escritura y oralidad en un proyecto creativo",
-    "slug": "lectura-escritura-oralidad-proyecto-creativo-prepa",
-    "palabras": [
-      "proyecto",
-      "presentación oral",
-      "lectura en voz alta",
-      "narración",
-      "creatividad",
-      "exposición"
-    ],
-    "contenido": {
-      "idea": "Es como preparar una fiesta: lees la receta, cocinas y luego sirves la comida a tus invitados con gusto.",
-      "pizarron": "**Qué es:** un proyecto creativo une leer, escribir y hablar.\n\n**Lee** modelos.\n\n**Escribe** y revisa.\n\n**Presenta** ante un público.\n\nEnsaya dos veces.\n\n**Para recordar:**\n- **¿Por qué conviene ensayar?** Da seguridad, ayuda a controlar el tiempo y a corregir fallas.\n\n**Para tu escuela:** escribe una leyenda y preséntala.",
-      "truco": "Leo, escribo y cuento en voz alta.",
-      "practica": {
-        "ejercicio": "Ordena los pasos: presentar, escribir el borrador, leer modelos, ensayar.",
-        "respuesta": "Leer modelos, escribir el borrador, ensayar y presentar."
-      },
-      "analogias": [
-        {
-          "titulo": "El concierto",
-          "texto": "Se estudia la partitura, se compone y se toca ante la gente; el texto también necesita público."
-        },
-        {
-          "titulo": "El video de redes",
-          "texto": "Investigas, escribes el guion y lo grabas con voz y gestos para que conecte con quien lo ve."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tres prácticas integra el proyecto?",
-          "respuesta": "Lectura, escritura y oralidad."
-        },
-        {
-          "ejercicio": "Menciona dos recursos de una buena presentación oral.",
-          "respuesta": "Por ejemplo: volumen claro y pausas; también mirada y gestos."
-        },
-        {
-          "ejercicio": "¿Por qué conviene ensayar?",
-          "respuesta": "Da seguridad, ayuda a controlar el tiempo y a corregir fallas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-100",
-    "titulo": "Movimientos literarios y sus particularidades",
-    "slug": "movimientos-literarios-particularidades-prepa",
-    "palabras": [
-      "romanticismo",
-      "realismo",
-      "modernismo",
-      "vanguardias",
-      "corrientes literarias",
-      "épocas"
-    ],
-    "contenido": {
-      "idea": "Así como la ropa y la música cambian de moda con los años, la manera de escribir también cambia con cada época.",
-      "pizarron": "**Qué es:** un movimiento literario es un grupo de obras de una época con ideas parecidas.\n\n- **Romanticismo:** emociones.\n- **Realismo:** vida diaria.\n- **Modernismo:** belleza.\n- **Vanguardias:** romper reglas.\n\n**Para recordar:**\n- **¿Qué hacen las vanguardias con las reglas?** Las rompen y experimentan con la forma.\n\n**Para tu escuela:** clasifica un fragmento en un movimiento.",
-      "truco": "Época, tema y estilo: el sello del movimiento.",
-      "practica": {
-        "ejercicio": "Un texto describe con detalle una calle, el mercado y el trabajo de la gente, sin exagerar emociones. ¿Qué movimiento sugiere?",
-        "respuesta": "El realismo, por la descripción objetiva de la vida cotidiana."
-      },
-      "analogias": [
-        {
-          "titulo": "Los géneros musicales",
-          "texto": "El rock, la cumbia y el pop tienen rasgos propios, igual que cada movimiento literario."
-        },
-        {
-          "titulo": "Las generaciones",
-          "texto": "Cada generación tiene su forma de vestir y hablar; las escuelas literarias reflejan lo mismo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es un movimiento literario?",
-          "respuesta": "Conjunto de autores y obras de una época con ideas y estilo comunes."
-        },
-        {
-          "ejercicio": "Relaciona romanticismo con su rasgo principal.",
-          "respuesta": "Expresión de emociones intensas y libertad."
-        },
-        {
-          "ejercicio": "¿Qué hacen las vanguardias con las reglas?",
-          "respuesta": "Las rompen y experimentan con la forma."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-101",
-    "titulo": "Analizar un texto y tomar postura",
-    "slug": "analizar-texto-tomar-postura-prepa",
-    "palabras": [
-      "postura",
-      "opinión",
-      "argumento",
-      "conocimientos previos",
-      "lectura crítica",
-      "autor"
-    ],
-    "contenido": {
-      "idea": "Es como escuchar a un amigo contar algo: piensas si te convence, comparas con lo que tú sabes y luego dices lo que opinas.",
-      "pizarron": "**La regla:** primero entiende el texto y después da tu postura con razones.\n\n**Pasos:**\n\n1. Busca la idea principal.\n2. Busca sus argumentos.\n3. Relaciónalos con lo que sabes.\n4. Evalúa si son confiables.\n5. Di: *Estoy de acuerdo porque...*\n\n**Para recordar:**\n- **Tesis de un texto:** La idea principal que el autor defiende.\n- **Diferencia hecho y opinión.** El hecho se puede comprobar; la opinión es una valoración personal.\n- **¿Por qué es necesario justificar una postura?** Porque las razones la hacen válida y convincente, no solo un gusto.\n\n**Para tu escuela:** toma postura sobre una noticia.",
-      "truco": "Entiendo, comparo, evalúo y opino con razones.",
-      "practica": {
-        "ejercicio": "Un autor dice que leer a diario mejora la escritura. Escribe una postura con una razón.",
-        "respuesta": "Ejemplo: \"Estoy de acuerdo porque al leer aprendo vocabulario y modelos de redacción\"."
-      },
-      "analogias": [
-        {
-          "titulo": "El juez",
-          "texto": "Escucha las pruebas, las compara con la ley y da una decisión razonada, como el lector con el texto."
-        },
-        {
-          "titulo": "La reseña de una película",
-          "texto": "Cuentas lo que viste, lo comparas con otras películas y dices si te gustó y por qué."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es la tesis de un texto?",
-          "respuesta": "La idea principal que el autor defiende."
-        },
-        {
-          "ejercicio": "Diferencia hecho y opinión.",
-          "respuesta": "El hecho se puede comprobar; la opinión es una valoración personal."
-        },
-        {
-          "ejercicio": "¿Por qué es necesario justificar una postura?",
-          "respuesta": "Porque las razones la hacen válida y convincente, no solo un gusto."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-102",
-    "titulo": "Géneros literarios y diversas perspectivas",
-    "slug": "generos-literarios-perspectivas-prepa",
-    "palabras": [
-      "narrativo",
-      "lírico",
-      "dramático",
-      "poesía",
-      "teatro",
-      "punto de vista"
-    ],
-    "contenido": {
-      "idea": "Un mismo día puede contarse en un cuento, en un poema o en una obra de teatro, y cada uno te lo hace sentir distinto.",
-      "pizarron": "**Qué es:** los géneros son narrativo, lírico y dramático.\n\n**Narrativo:** cuenta.\n\n**Lírico:** expresa sentimientos.\n\n**Dramático:** se actúa.\n\nPregunta: ¿quién habla y desde dónde?\n\n**Para recordar:**\n- **¿Qué caracteriza al género dramático?** Se escribe para representarse y usa diálogos.\n\n**Para tu escuela:** da un ejemplo de cada género.",
-      "truco": "Narro, siento o represento.",
-      "practica": {
-        "ejercicio": "Un texto en versos habla de la nostalgia de un yo poético. ¿Qué género es y por qué?",
-        "respuesta": "Lírico, porque expresa sentimientos en verso con voz subjetiva."
-      },
-      "analogias": [
-        {
-          "titulo": "Las formas de compartir un recuerdo",
-          "texto": "Puedes contarlo, cantarlo o actuarlo; cambia la forma y también lo que el otro percibe."
-        },
-        {
-          "titulo": "Las lentes",
-          "texto": "Cada género es un lente distinto que enfoca la realidad con otra perspectiva."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Nombra los tres géneros literarios.",
-          "respuesta": "Narrativo, lírico y dramático."
-        },
-        {
-          "ejercicio": "¿Qué caracteriza al género dramático?",
-          "respuesta": "Se escribe para representarse y usa diálogos."
-        },
-        {
-          "ejercicio": "Al leer, ¿qué pregunta ayuda a ver la perspectiva?",
-          "respuesta": "¿Quién habla y desde dónde mira lo que cuenta?"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-103",
-    "titulo": "Subgéneros narrativos y sus elementos discursivos",
-    "slug": "subgeneros-narrativos-elementos-discursivos-prepa",
-    "palabras": [
-      "cuento",
-      "novela",
-      "leyenda",
-      "fábula",
-      "ciencia ficción",
-      "narrador"
-    ],
-    "contenido": {
-      "idea": "Las películas pueden ser de terror, comedia o aventura; igual, las historias escritas se agrupan en tipos con rasgos propios.",
-      "pizarron": "**Qué es:** son tipos de relato: cuento, novela, leyenda y fábula.\n\nEl cuento es breve. La novela es larga. La fábula deja moraleja.\n\n**Para recordar:**\n- **Diferencia cuento y novela.** El cuento es breve con pocos personajes; la novela es extensa y más compleja.\n- **¿Qué elemento distingue a la fábula?** La moraleja, con animales o cosas personificadas.\n\n**Para tu escuela:** clasifica tres relatos que conozcas.",
-      "truco": "Rasgos, narrador y estructura revelan el subgénero.",
-      "practica": {
-        "ejercicio": "Un relato breve con animales que hablan termina en una moraleja. ¿Qué subgénero es?",
-        "respuesta": "Una fábula, por los animales personificados y la moraleja."
-      },
-      "analogias": [
-        {
-          "titulo": "Las categorías de una tienda de música",
-          "texto": "Cada estante agrupa canciones parecidas, como los subgéneros agrupan relatos con rasgos comunes."
-        },
-        {
-          "titulo": "Los tipos de transporte",
-          "texto": "Bici, auto y tren llevan a alguien de un lugar a otro, pero cada uno tiene características distintas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Diferencia cuento y novela.",
-          "respuesta": "El cuento es breve con pocos personajes; la novela es extensa y más compleja."
-        },
-        {
-          "ejercicio": "¿Qué elemento distingue a la fábula?",
-          "respuesta": "La moraleja, con animales o cosas personificadas."
-        },
-        {
-          "ejercicio": "Menciona dos elementos discursivos de un relato.",
-          "respuesta": "Por ejemplo: narrador y diálogos."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-094",
+"titulo": "Características lingüísticas de las narrativas populares",
+"slug": "caracteristicas-linguisticas-narrativas-populares-prepa",
+"palabras": [
+"leyendas",
+"mitos",
+"cuentos populares",
+"lenguaje coloquial",
+"oralidad",
+"refranes"
+],
+"contenido": {
+"idea": "Cuando tu abuela cuenta una leyenda, usa sus palabras de siempre, repite partes y te hace preguntas, como si estuvieran platicando.",
+"pizarron": "**Qué es:** las narrativas populares son relatos del pueblo, con lenguaje de plática.\n\n**Rasgos:**\n\n1. Palabras de la región.\n2. Inicios como *Había una vez*.\n3. Frases repetidas.\n4. Refranes.\n5. Un narrador que le habla al oyente.\n\n**Regionalismo:** palabra propia de una región, como *chamaco*.\n\n**Frases repetidas:** ayudan a memorizar el relato sin escribirlo.\n\n**Para tu escuela:** marca estos rasgos en una leyenda.",
+"truco": "Si suena a plática, es popular.",
+"practica": {
+"ejercicio": "En \"Érase que se era, una llorona que andaba en el río, ay, ay, ay\", señala una fórmula de inicio y una repetición.",
+"respuesta": "Fórmula de inicio: \"Érase que se era\". Repetición: \"ay, ay, ay\"."
+},
+"analogias": [
+{
+"titulo": "La receta de la familia",
+"texto": "Una receta pasa de boca en boca y cada quien la dice con sus palabras, pero conserva los pasos clave, igual que un relato popular."
+},
+{
+"titulo": "El mensaje en el chat",
+"texto": "Escribimos con abreviaturas y expresiones de nuestro grupo; así, el lenguaje de una narrativa popular refleja a su comunidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe dos fórmulas de inicio de cuentos populares.",
+"respuesta": "Por ejemplo: \"Había una vez\" y \"Cuentan que hace mucho tiempo\"."
+},
+{
+"ejercicio": "¿Por qué se repiten frases en un relato oral?",
+"respuesta": "Porque ayudan a memorizarlo y a transmitirlo sin escribirlo."
+},
+{
+"ejercicio": "¿Qué es un regionalismo? Da un ejemplo.",
+"respuesta": "Palabra propia de una región, como \"chamaco\" para niño en México."
+}
+]
+}
+},
+{
+"nodo_id": "ems-095",
+"titulo": "Tema, idea central e ideas secundarias en narrativas populares",
+"slug": "tema-ideas-central-secundarias-narrativas-populares-prepa",
+"palabras": [
+"idea principal",
+"idea secundaria",
+"tema",
+"leyenda",
+"resumen",
+"comprensión lectora"
+],
+"contenido": {
+"idea": "Un árbol tiene un tronco grueso y muchas ramas: el tronco es lo más importante y las ramas lo adornan y lo completan.",
+"pizarron": "**La regla:** el tema es de qué trata, la idea central es lo más importante, y las secundarias lo apoyan.\n\n**Prueba:** si la quitas y se entiende igual, era secundaria.\n\n**Para tu escuela:** di tema e idea central de una leyenda.",
+"truco": "Quita y pregunta: ¿se sigue entendiendo?",
+"practica": {
+"ejercicio": "Una leyenda cuenta que un joven se convirtió en volcán por esperar a su amada. Indica el tema y una idea secundaria posible.",
+"respuesta": "Tema: el amor y la fidelidad. Idea secundaria: por ejemplo, la amada partió a la guerra o la gente nombró al volcán."
+},
+"analogias": [
+{
+"titulo": "El titular y la nota",
+"texto": "El titular de un periódico dice lo esencial y la nota agrega los detalles, como la idea central y las secundarias."
+},
+{
+"titulo": "La pizza",
+"texto": "La masa y el queso son lo básico; los ingredientes extra se pueden quitar y sigue siendo pizza."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define idea central.",
+"respuesta": "Lo más importante que el texto dice sobre su tema."
+},
+{
+"ejercicio": "¿Cómo distingues una idea secundaria?",
+"respuesta": "Si la quitas, el relato conserva su sentido; solo aporta detalle."
+},
+{
+"ejercicio": "Di el tema de una leyenda que conozcas.",
+"respuesta": "Respuesta libre, por ejemplo: la Llorona trata sobre la culpa y el castigo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-096",
+"titulo": "Personajes y escenarios en la narrativa popular",
+"slug": "personajes-escenarios-narrativa-popular-prepa",
+"palabras": [
+"personajes",
+"escenario",
+"ambiente",
+"protagonista",
+"antagonista",
+"caracterización"
+],
+"contenido": {
+"idea": "En una película, los actores hacen la historia y el lugar la hace creíble: sin personajes ni escenario no hay nada que ver.",
+"pizarron": "**Qué es:** los personajes hacen las acciones. El escenario es dónde y cuándo.\n\n**Protagonista:** el centro.\n\n**Antagonista:** se le opone.\n\nEl escenario crea el ambiente: un panteón da miedo.\n\n**Para tu escuela:** crea un personaje y un lugar.",
+"truco": "Quién, dónde y cómo es.",
+"practica": {
+"ejercicio": "En una leyenda, una mujer vestida de blanco llora de noche junto al río. Identifica personaje, escenario y ambiente.",
+"respuesta": "Personaje: la mujer de blanco. Escenario: el río de noche. Ambiente: de misterio y tristeza."
+},
+"analogias": [
+{
+"titulo": "El teatro",
+"texto": "Los actores son los personajes y la tramoya es el escenario; si cambias el fondo, cambia el sentimiento de la obra."
+},
+{
+"titulo": "El videojuego",
+"texto": "Cada personaje tiene rasgos propios y el mapa donde juegas define el ambiente de la aventura."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Diferencia protagonista y antagonista.",
+"respuesta": "El protagonista es el centro de la historia; el antagonista se opone a él."
+},
+{
+"ejercicio": "¿Qué dos datos incluye el escenario?",
+"respuesta": "El lugar y el tiempo en que ocurre la historia."
+},
+{
+"ejercicio": "Crea un personaje popular con un rasgo y un escenario.",
+"respuesta": "Ejemplo: un arriero astuto que cruza de noche un cerro neblinoso."
+}
+]
+}
+},
+{
+"nodo_id": "ems-097",
+"titulo": "Reescribir un texto con elementos lingüísticos y narrativos",
+"slug": "reescribir-texto-elementos-narrativos-prepa",
+"palabras": [
+"reescritura",
+"borrador",
+"revisión",
+"narrador",
+"versión",
+"edición"
+],
+"contenido": {
+"idea": "Es como cambiar los muebles de tu cuarto: la casa es la misma, pero la acomodas para que se vea mejor.",
+"pizarron": "**Qué es:** reescribir es crear otra versión de un texto.\n\n1. Identifica sus partes.\n2. Decide qué cambiar.\n3. Escribe.\n4. Revisa.\n\nNo copies: transforma.\n\n**Borrador:** revísalo para corregir errores y que se entienda mejor.\n\n**Para tu escuela:** cambia el final de un cuento.",
+"truco": "Leer, decidir, escribir y revisar.",
+"practica": {
+"ejercicio": "Reescribe \"El lobo se comió a la abuela\" cambiando el narrador al lobo, en una oración.",
+"respuesta": "Ejemplo: \"Yo tenía mucha hambre y llegué a casa de la abuela\". Debe estar en primera persona."
+},
+"analogias": [
+{
+"titulo": "El remix musical",
+"texto": "Se toma una canción y se cambia ritmo o letra, pero se reconoce la melodía de fondo."
+},
+{
+"titulo": "La foto editada",
+"texto": "Recortas, ajustas luz y color; la imagen es la misma pero comunica distinto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos cambios posibles al reescribir.",
+"respuesta": "Cambiar el narrador y cambiar el final, por ejemplo."
+},
+{
+"ejercicio": "¿Para qué sirve revisar el borrador?",
+"respuesta": "Para corregir errores y mejorar la claridad y coherencia."
+},
+{
+"ejercicio": "Escribe un conector de tiempo y uno de causa.",
+"respuesta": "Tiempo: después. Causa: porque, por eso."
+}
+]
+}
+},
+{
+"nodo_id": "ems-098",
+"titulo": "Análisis colaborativo de procedimientos narrativos",
+"slug": "analisis-colaborativo-procedimientos-narrativos-prepa",
+"palabras": [
+"trabajo en equipo",
+"análisis de texto",
+"narrador",
+"tiempo narrativo",
+"retroalimentación",
+"corrección"
+],
+"contenido": {
+"idea": "Cuando un equipo revisa un partido en video, entre todos ven qué jugadas funcionaron y qué se puede mejorar.",
+"pizarron": "**Qué es:** es analizar en equipo cómo está contada una historia: quién narra, en qué orden y cómo son los personajes.\n\n**Pasos:**\n\n1. Lean el mismo texto.\n2. Marquen lo que notan.\n3. Comenten qué efecto causa.\n4. Den ejemplos.\n\nUna buena crítica es amable y propone algo.\n\n**Crítica útil:** es específica y respetuosa, con ejemplos y una propuesta.\n\n**Para tu escuela:** analicen quién narra un cuento y qué pasaría si fuera otro.",
+"truco": "Marca, comenta, aprende y corrige.",
+"practica": {
+"ejercicio": "Tu compañero dice: \"Tu cuento está raro\". Reformula el comentario para que sea útil.",
+"respuesta": "Ejemplo: \"El narrador cambia de primera a tercera persona en el segundo párrafo; podrías mantener una sola\"."
+},
+"analogias": [
+{
+"titulo": "El taller mecánico",
+"texto": "Entre varios revisan el motor, detectan la falla y deciden cómo arreglarla."
+},
+{
+"titulo": "El proyecto de equipo",
+"texto": "Cada quien aporta su mirada y el resultado final queda mejor que el trabajo de uno solo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra dos procedimientos narrativos.",
+"respuesta": "Por ejemplo: tipo de narrador y orden del tiempo."
+},
+{
+"ejercicio": "¿Qué características tiene una crítica útil?",
+"respuesta": "Es específica, respetuosa, con ejemplos y con una propuesta de mejora."
+},
+{
+"ejercicio": "Un relato empieza por el final y luego regresa. ¿Qué técnica es?",
+"respuesta": "Una retrospectiva (analepsis), alteración del orden lineal."
+}
+]
+}
+},
+{
+"nodo_id": "ems-099",
+"titulo": "Lectura, escritura y oralidad en un proyecto creativo",
+"slug": "lectura-escritura-oralidad-proyecto-creativo-prepa",
+"palabras": [
+"proyecto",
+"presentación oral",
+"lectura en voz alta",
+"narración",
+"creatividad",
+"exposición"
+],
+"contenido": {
+"idea": "Es como preparar una fiesta: lees la receta, cocinas y luego sirves la comida a tus invitados con gusto.",
+"pizarron": "**Qué es:** un proyecto creativo une leer, escribir y hablar.\n\n**Lee** modelos.\n\n**Escribe** y revisa.\n\n**Presenta** ante un público.\n\nEnsaya dos veces.\n\n**Ensayar:** da seguridad y ayuda a controlar el tiempo.\n\n**Para tu escuela:** escribe una leyenda y preséntala.",
+"truco": "Leo, escribo y cuento en voz alta.",
+"practica": {
+"ejercicio": "Ordena los pasos: presentar, escribir el borrador, leer modelos, ensayar.",
+"respuesta": "Leer modelos, escribir el borrador, ensayar y presentar."
+},
+"analogias": [
+{
+"titulo": "El concierto",
+"texto": "Se estudia la partitura, se compone y se toca ante la gente; el texto también necesita público."
+},
+{
+"titulo": "El video de redes",
+"texto": "Investigas, escribes el guion y lo grabas con voz y gestos para que conecte con quien lo ve."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tres prácticas integra el proyecto?",
+"respuesta": "Lectura, escritura y oralidad."
+},
+{
+"ejercicio": "Menciona dos recursos de una buena presentación oral.",
+"respuesta": "Por ejemplo: volumen claro y pausas; también mirada y gestos."
+},
+{
+"ejercicio": "¿Por qué conviene ensayar?",
+"respuesta": "Da seguridad, ayuda a controlar el tiempo y a corregir fallas."
+}
+]
+}
+},
+{
+"nodo_id": "ems-100",
+"titulo": "Movimientos literarios y sus particularidades",
+"slug": "movimientos-literarios-particularidades-prepa",
+"palabras": [
+"romanticismo",
+"realismo",
+"modernismo",
+"vanguardias",
+"corrientes literarias",
+"épocas"
+],
+"contenido": {
+"idea": "Así como la ropa y la música cambian de moda con los años, la manera de escribir también cambia con cada época.",
+"pizarron": "**Qué es:** un movimiento literario es un grupo de obras de una época con ideas parecidas.\n\n- **Romanticismo:** emociones.\n- **Realismo:** vida diaria.\n- **Modernismo:** belleza.\n- **Vanguardias:** romper reglas.\n\n**Vanguardias:** rompen las reglas y experimentan con la forma.\n\n**Para tu escuela:** clasifica un fragmento en un movimiento.",
+"truco": "Época, tema y estilo: el sello del movimiento.",
+"practica": {
+"ejercicio": "Un texto describe con detalle una calle, el mercado y el trabajo de la gente, sin exagerar emociones. ¿Qué movimiento sugiere?",
+"respuesta": "El realismo, por la descripción objetiva de la vida cotidiana."
+},
+"analogias": [
+{
+"titulo": "Los géneros musicales",
+"texto": "El rock, la cumbia y el pop tienen rasgos propios, igual que cada movimiento literario."
+},
+{
+"titulo": "Las generaciones",
+"texto": "Cada generación tiene su forma de vestir y hablar; las escuelas literarias reflejan lo mismo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es un movimiento literario?",
+"respuesta": "Conjunto de autores y obras de una época con ideas y estilo comunes."
+},
+{
+"ejercicio": "Relaciona romanticismo con su rasgo principal.",
+"respuesta": "Expresión de emociones intensas y libertad."
+},
+{
+"ejercicio": "¿Qué hacen las vanguardias con las reglas?",
+"respuesta": "Las rompen y experimentan con la forma."
+}
+]
+}
+},
+{
+"nodo_id": "ems-101",
+"titulo": "Analizar un texto y tomar postura",
+"slug": "analizar-texto-tomar-postura-prepa",
+"palabras": [
+"postura",
+"opinión",
+"argumento",
+"conocimientos previos",
+"lectura crítica",
+"autor"
+],
+"contenido": {
+"idea": "Es como escuchar a un amigo contar algo: piensas si te convence, comparas con lo que tú sabes y luego dices lo que opinas.",
+"pizarron": "**La regla:** primero entiende el texto y después da tu postura con razones.\n\n**Pasos:**\n\n1. Busca la idea principal.\n2. Busca sus argumentos.\n3. Relaciónalos con lo que sabes.\n4. Evalúa si son confiables.\n5. Di: *Estoy de acuerdo porque...*\n\n**Tesis:** la idea principal que el autor defiende.\n\n**Hecho:** se puede comprobar. **Opinión:** es lo que alguien piensa.\n\n**Razones:** sin ellas, tu postura sería solo un gusto.\n\n**Para tu escuela:** toma postura sobre una noticia.",
+"truco": "Entiendo, comparo, evalúo y opino con razones.",
+"practica": {
+"ejercicio": "Un autor dice que leer a diario mejora la escritura. Escribe una postura con una razón.",
+"respuesta": "Ejemplo: \"Estoy de acuerdo porque al leer aprendo vocabulario y modelos de redacción\"."
+},
+"analogias": [
+{
+"titulo": "El juez",
+"texto": "Escucha las pruebas, las compara con la ley y da una decisión razonada, como el lector con el texto."
+},
+{
+"titulo": "La reseña de una película",
+"texto": "Cuentas lo que viste, lo comparas con otras películas y dices si te gustó y por qué."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es la tesis de un texto?",
+"respuesta": "La idea principal que el autor defiende."
+},
+{
+"ejercicio": "Diferencia hecho y opinión.",
+"respuesta": "El hecho se puede comprobar; la opinión es una valoración personal."
+},
+{
+"ejercicio": "¿Por qué es necesario justificar una postura?",
+"respuesta": "Porque las razones la hacen válida y convincente, no solo un gusto."
+}
+]
+}
+},
+{
+"nodo_id": "ems-102",
+"titulo": "Géneros literarios y diversas perspectivas",
+"slug": "generos-literarios-perspectivas-prepa",
+"palabras": [
+"narrativo",
+"lírico",
+"dramático",
+"poesía",
+"teatro",
+"punto de vista"
+],
+"contenido": {
+"idea": "Un mismo día puede contarse en un cuento, en un poema o en una obra de teatro, y cada uno te lo hace sentir distinto.",
+"pizarron": "**Qué es:** los géneros son narrativo, lírico y dramático.\n\n**Narrativo:** cuenta.\n\n**Lírico:** expresa sentimientos.\n\n**Dramático:** se actúa.\n\nPregunta: ¿quién habla y desde dónde?\n\n**Dramático:** se escribe para actuarse y usa diálogos.\n\n**Para tu escuela:** da un ejemplo de cada género.",
+"truco": "Narro, siento o represento.",
+"practica": {
+"ejercicio": "Un texto en versos habla de la nostalgia de un yo poético. ¿Qué género es y por qué?",
+"respuesta": "Lírico, porque expresa sentimientos en verso con voz subjetiva."
+},
+"analogias": [
+{
+"titulo": "Las formas de compartir un recuerdo",
+"texto": "Puedes contarlo, cantarlo o actuarlo; cambia la forma y también lo que el otro percibe."
+},
+{
+"titulo": "Las lentes",
+"texto": "Cada género es un lente distinto que enfoca la realidad con otra perspectiva."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra los tres géneros literarios.",
+"respuesta": "Narrativo, lírico y dramático."
+},
+{
+"ejercicio": "¿Qué caracteriza al género dramático?",
+"respuesta": "Se escribe para representarse y usa diálogos."
+},
+{
+"ejercicio": "Al leer, ¿qué pregunta ayuda a ver la perspectiva?",
+"respuesta": "¿Quién habla y desde dónde mira lo que cuenta?"
+}
+]
+}
+},
+{
+"nodo_id": "ems-103",
+"titulo": "Subgéneros narrativos y sus elementos discursivos",
+"slug": "subgeneros-narrativos-elementos-discursivos-prepa",
+"palabras": [
+"cuento",
+"novela",
+"leyenda",
+"fábula",
+"ciencia ficción",
+"narrador"
+],
+"contenido": {
+"idea": "Las películas pueden ser de terror, comedia o aventura; igual, las historias escritas se agrupan en tipos con rasgos propios.",
+"pizarron": "**Qué es:** son tipos de relato: cuento, novela, leyenda y fábula.\n\nEl cuento es breve. La novela es larga. La fábula deja moraleja.\n\n**Cuento:** pocos personajes. **Novela:** más compleja.\n\n**Fábula:** tiene animales que hablan y una moraleja.\n\n**Para tu escuela:** clasifica tres relatos que conozcas.",
+"truco": "Rasgos, narrador y estructura revelan el subgénero.",
+"practica": {
+"ejercicio": "Un relato breve con animales que hablan termina en una moraleja. ¿Qué subgénero es?",
+"respuesta": "Una fábula, por los animales personificados y la moraleja."
+},
+"analogias": [
+{
+"titulo": "Las categorías de una tienda de música",
+"texto": "Cada estante agrupa canciones parecidas, como los subgéneros agrupan relatos con rasgos comunes."
+},
+{
+"titulo": "Los tipos de transporte",
+"texto": "Bici, auto y tren llevan a alguien de un lugar a otro, pero cada uno tiene características distintas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Diferencia cuento y novela.",
+"respuesta": "El cuento es breve con pocos personajes; la novela es extensa y más compleja."
+},
+{
+"ejercicio": "¿Qué elemento distingue a la fábula?",
+"respuesta": "La moraleja, con animales o cosas personificadas."
+},
+{
+"ejercicio": "Menciona dos elementos discursivos de un relato.",
+"respuesta": "Por ejemplo: narrador y diálogos."
+}
+]
+}
+}
 ]

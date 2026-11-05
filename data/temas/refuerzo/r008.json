@@ -1,359 +1,359 @@
 [
-  {
-    "nodo_id": "f4-050",
-    "titulo": "Comprobar una división",
-    "slug": "comprobar-una-division-primaria",
-    "palabras": [
-      "prueba de la división",
-      "comprobar",
-      "revisar",
-      "multiplicar y sumar residuo"
-    ],
-    "contenido": {
-      "idea": "La multiplicación deshace la división. Si después de repartir vuelves a juntar todo, debes tener lo mismo que al principio. Si no, algo se perdió.",
-      "pizarron": "**La regla:** divisor por cociente, más residuo, debe dar el dividendo.\n\nPara comprobar cualquier división usa:\n\n**cociente × divisor + residuo = dividendo**\n\nEjemplo sin residuo: 84 ÷ 7 = 12.\n\n- 12 × 7 = 84. Correcto.\n\nEjemplo con residuo: 125 ÷ 6 = 20, residuo 5.\n\n- 20 × 6 = 120.\n- 120 + 5 = 125. Correcto.\n\nEjemplo con error: 96 ÷ 8 = 11, residuo 4.\n\n- 11 × 8 = 88.\n- 88 + 4 = 92, no da 96.\n- Hay error: 96 ÷ 8 = 12.\n\nRevisa también que el residuo sea menor que el divisor.",
-      "truco": "Multiplica lo de arriba por el de afuera y suma lo que sobró.",
-      "practica": {
-        "ejercicio": "Comprueba 73 ÷ 5 = 14, residuo 3.",
-        "respuesta": "14 × 5 = 70 y 70 + 3 = 73. Es correcto."
-      },
-      "analogias": [
-        {
-          "titulo": "Volver a juntar",
-          "texto": "Si repartiste dulces, recoge lo de cada niño, agrega lo que sobró y cuenta. Debe darte lo que había."
-        },
-        {
-          "titulo": "La lista del viaje",
-          "texto": "Antes de regresar, cuentas a los que están en los coches y a los que quedaron. Deben ser todos los que salieron."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Comprueba 156 ÷ 12 = 13.",
-          "respuesta": "13 × 12 = 156. Es correcto."
-        },
-        {
-          "ejercicio": "Comprueba 47 ÷ 6 = 7, residuo 6.",
-          "respuesta": "Da 48, y además el residuo no puede ser igual al divisor. Lo correcto es 7, residuo 5."
-        },
-        {
-          "ejercicio": "Si 200 ÷ 9 = 22, residuo 2, ¿qué operaciones lo comprueban?",
-          "respuesta": "22 × 9 = 198 y 198 + 2 = 200."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-050",
-    "titulo": "Dividir entre 10, 100 y 1000",
-    "slug": "dividir-entre-10-100-y-1000-primaria",
-    "palabras": [
-      "dividir entre 10",
-      "quitar ceros",
-      "mover el punto",
-      "mental"
-    ],
-    "contenido": {
-      "idea": "Si multiplicar por 10 agrega un cero, dividir entre 10 lo quita. Es el camino de regreso y casi no necesitas hacer cuentas.",
-      "pizarron": "**La regla:** para dividir entre 10, 100 o 1000, recorre el punto uno, dos o tres lugares a la izquierda.\n\nCuando el número termina en ceros, quita tantos ceros como tenga el divisor:\n\n- 4 500 ÷ 10 = 450\n- 4 500 ÷ 100 = 45\n- 7 000 ÷ 1000 = 7\n\nSi no hay suficientes ceros, aparece el **punto decimal**, que se mueve a la izquierda:\n\n- 56 ÷ 10 = 5.6\n- 56 ÷ 100 = 0.56\n- 8 ÷ 1000 = 0.008\n\nRegla: mueve el punto tantos lugares como ceros tenga el divisor. Rellena con ceros si hace falta.\n\nAtajo: 600 ÷ 20. Quita un cero a cada uno: 60 ÷ 2 = 30.",
-      "truco": "Tantos ceros en el divisor, tantos saltos del punto a la izquierda.",
-      "practica": {
-        "ejercicio": "Calcula 3 200 ÷ 100",
-        "respuesta": "32"
-      },
-      "analogias": [
-        {
-          "titulo": "El ascensor de bajada",
-          "texto": "Cada división entre 10 baja el número un piso de valor, hasta llegar al lugar que necesitas."
-        },
-        {
-          "titulo": "Convertir pesos",
-          "texto": "Si 100 centavos son 1 peso, entonces 350 centavos son 3.5 pesos: dividiste entre 100."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Calcula 9 000 ÷ 10",
-          "respuesta": "900"
-        },
-        {
-          "ejercicio": "Calcula 75 ÷ 100",
-          "respuesta": "0.75"
-        },
-        {
-          "ejercicio": "Calcula 1 800 ÷ 60",
-          "respuesta": "30"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-050",
-    "titulo": "Múltiplos y divisores",
-    "slug": "multiplos-y-divisores-primaria",
-    "palabras": [
-      "múltiplos",
-      "divisores",
-      "factores",
-      "tabla",
-      "cabe exacto"
-    ],
-    "contenido": {
-      "idea": "Los múltiplos de un número son sus saltos en la tabla. Los divisores son los números que caben exacto en él. Son las dos caras de la misma moneda.",
-      "pizarron": "**Qué es:** los múltiplos de un número son sus resultados en la tabla. Los divisores son los números que lo dividen exactamente.\n\n**Múltiplos** de un número: resultan de multiplicarlo por 1, 2, 3...\n\n- Múltiplos de 4: 4, 8, 12, 16, 20...\n- Son infinitos.\n\n**Divisores** de un número: dividen al número sin dejar residuo.\n\n- Divisores de 12: 1, 2, 3, 4, 6, 12.\n- Son una cantidad limitada.\n\nRelación:\n\n- 12 es múltiplo de 4.\n- 4 es divisor de 12.\n\nCómo encontrar divisores: busca parejas que multipliquen el número.\n\n- 1 × 18, 2 × 9, 3 × 6.\n- Divisores de 18: 1, 2, 3, 6, 9, 18.\n\nEl 1 divide a todos, y cada número se divide a sí mismo.",
-      "truco": "Múltiplos crecen sin fin; divisores se quedan adentro.",
-      "practica": {
-        "ejercicio": "Escribe los primeros 4 múltiplos de 6.",
-        "respuesta": "6, 12, 18 y 24."
-      },
-      "analogias": [
-        {
-          "titulo": "Las ranas y los saltos",
-          "texto": "Una rana que salta de 3 en 3 cae en 3, 6, 9. Esos lugares son los múltiplos de 3."
-        },
-        {
-          "titulo": "Empaquetar sin que sobre",
-          "texto": "Con 12 galletas puedes hacer bolsas de 1, 2, 3, 4, 6 o 12 sin que sobre nada. Esos son los divisores de 12."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe los divisores de 20.",
-          "respuesta": "1, 2, 4, 5, 10 y 20."
-        },
-        {
-          "ejercicio": "¿Es 35 múltiplo de 7?",
-          "respuesta": "Sí, porque 7 × 5 = 35."
-        },
-        {
-          "ejercicio": "¿Es 8 divisor de 30?",
-          "respuesta": "No, porque 30 ÷ 8 deja residuo 6."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-050",
-    "titulo": "Problemas de multiplicación y división",
-    "slug": "problemas-de-multiplicacion-y-division-primaria",
-    "palabras": [
-      "problemas",
-      "elegir operación",
-      "multiplicar o dividir",
-      "grupos"
-    ],
-    "contenido": {
-      "idea": "Multiplicar y dividir son dos caminos de la misma historia. Si conoces los grupos y quieres el total, multiplicas. Si conoces el total y quieres los grupos, divides.",
-      "pizarron": "**La regla:** multiplica si conoces cada grupo y buscas el total. Divide si conoces el total y buscas cada grupo.\n\nElige la operación con esta guía:\n\n- ¿Sabes los grupos y lo que hay en cada uno y buscas el **total**? **Multiplica**.\n- ¿Sabes el **total** y buscas uno de los otros datos? **Divide**.\n\nEjemplo 1: Hay 25 cajas con 12 botellas. ¿Cuántas botellas hay?\n\n- 25 × 12 = 300 botellas.\n\nEjemplo 2: Tienes 300 botellas y cajas de 12. ¿Cuántas cajas llenas?\n\n- 300 ÷ 12 = 25 cajas.\n\nCuando hay residuo, piensa qué significa. Si 50 personas van en camionetas de 8:\n\n- 50 ÷ 8 = 6, residuo 2.\n- Se necesitan **7 camionetas**, porque las 2 personas no se pueden quedar.",
-      "truco": "Partes a total, multiplica; total a partes, divide.",
-      "practica": {
-        "ejercicio": "Una resma trae 500 hojas. ¿Cuántas hojas hay en 8 resmas?",
-        "respuesta": "8 × 500 = 4 000 hojas."
-      },
-      "analogias": [
-        {
-          "titulo": "El rompecabezas",
-          "texto": "Si ya tienes las piezas, armas el total: multiplicar. Si tienes el total, lo separas en piezas: dividir."
-        },
-        {
-          "titulo": "La fiesta",
-          "texto": "Para saber cuántos refrescos llevar multiplicas invitados por vaso. Para saber cuántos vasos salen de un refresco, divides."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Un camión lleva 45 alumnos. ¿Cuántos llevan 12 camiones?",
-          "respuesta": "12 × 45 = 540 alumnos."
-        },
-        {
-          "ejercicio": "Hay 630 pesos para repartir entre 9 personas. ¿Cuánto toca a cada una?",
-          "respuesta": "630 ÷ 9 = 70 pesos."
-        },
-        {
-          "ejercicio": "Van 75 personas y en cada lancha caben 10. ¿Cuántas lanchas necesitan?",
-          "respuesta": "8 lanchas: 7 llenas y una con 5 personas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-058",
-    "titulo": "Tipos de ángulos: recto, agudo y obtuso",
-    "slug": "tipos-de-angulos-recto-agudo-y-obtuso-primaria",
-    "palabras": [
-      "ángulo",
-      "recto",
-      "agudo",
-      "obtuso",
-      "llano",
-      "grados"
-    ],
-    "contenido": {
-      "idea": "Abre un libro poco a poco. Mientras más lo abres, más grande es el ángulo. Un ángulo es qué tan abiertas están dos líneas que comparten una punta.",
-      "pizarron": "**Qué es:** un ángulo recto mide $90°$, uno agudo mide menos de $90°$ y uno obtuso mide más de $90°$.\n\nUn **ángulo** es la abertura entre dos líneas que se unen en un punto llamado **vértice**. Se mide en grados (°).\n\n| Tipo | Medida | Ejemplo |\n|---|---|---|\n| Agudo | Menos de 90° | Pico de pájaro |\n| Recto | Exactamente 90° | Esquina de una hoja |\n| Obtuso | Más de 90° y menos de 180° | Abanico abierto |\n| Llano | 180° | Línea recta |\n\nPara saber el tipo, compara con la esquina de una hoja:\n\n- Más cerrado: agudo.\n- Igual: recto.\n- Más abierto: obtuso.\n\n**Para recordar:**\n- **¿Qué tipo de ángulo mide 120°?** Obtuso, porque es mayor que 90° y menor que 180°.",
-      "truco": "Agudo es chiquito como aguja; obtuso es abierto y grandote.",
-      "practica": {
-        "ejercicio": "¿Qué tipo de ángulo mide 120°?",
-        "respuesta": "Obtuso, porque es mayor que 90° y menor que 180°."
-      },
-      "analogias": [
-        {
-          "titulo": "Las manecillas del reloj",
-          "texto": "A las 3 en punto forman un ángulo recto. A la 1 forman un ángulo agudo y a las 5 uno obtuso."
-        },
-        {
-          "titulo": "La puerta",
-          "texto": "Una puerta apenas abierta hace un ángulo agudo. Pegada a la pared lateral, en ángulo recto. Más abierta, obtuso."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tipo de ángulo mide 45°?",
-          "respuesta": "Agudo."
-        },
-        {
-          "ejercicio": "¿Cuánto mide un ángulo recto?",
-          "respuesta": "90°."
-        },
-        {
-          "ejercicio": "¿Qué ángulo hacen las manecillas a las 6 en punto?",
-          "respuesta": "Un ángulo llano, de 180°."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-058",
-    "titulo": "Medir ángulos con transportador",
-    "slug": "medir-angulos-con-transportador-primaria",
-    "palabras": [
-      "transportador",
-      "grados",
-      "medir ángulo",
-      "vértice"
-    ],
-    "contenido": {
-      "idea": "El transportador es una regla curva para medir qué tan abierto está un ángulo, igual que una regla mide lo largo.",
-      "pizarron": "**La regla:** coloca el centro del transportador en el vértice, alinea un lado con el cero y lee dónde cae el otro lado.\n\nPasos para medir:\n\n1. Coloca el **centro** del transportador en el vértice.\n2. Alinea el **0°** con uno de los lados del ángulo.\n3. Mira dónde cruza el otro lado.\n4. Lee la escala que empieza en 0.\n\nCuidado: el transportador tiene dos escalas. Usa la que empieza en 0 desde tu lado.\n\nComprueba: si el ángulo se ve agudo, debe medir menos de 90°. Si leíste 130°, tomaste la escala equivocada: mide 50°.\n\nPara dibujar 60°:\n\n1. Traza una línea.\n2. Coloca el centro en un extremo.\n3. Marca el 60.\n4. Une la marca con el extremo.",
-      "truco": "Centro al vértice, cero al lado y mira el otro lado.",
-      "practica": {
-        "ejercicio": "Un ángulo se ve obtuso y lees 70° y 110° en el transportador. ¿Cuánto mide?",
-        "respuesta": "110°, porque un ángulo obtuso mide más de 90°."
-      },
-      "analogias": [
-        {
-          "titulo": "La regla del giro",
-          "texto": "Una regla mide distancia; el transportador mide giro. Por eso es curvo, porque sigue el camino de una vuelta."
-        },
-        {
-          "titulo": "El velocímetro",
-          "texto": "La aguja del velocímetro gira y señala un número en un arco. El transportador se lee parecido."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Dónde va el centro del transportador?",
-          "respuesta": "En el vértice del ángulo."
-        },
-        {
-          "ejercicio": "¿Cuántos grados tiene una vuelta completa?",
-          "respuesta": "360°."
-        },
-        {
-          "ejercicio": "¿Cuántas escalas tiene el transportador y por qué importa?",
-          "respuesta": "Dos, y hay que usar la que empieza en 0 desde el lado alineado."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-058",
-    "titulo": "Triángulos según sus lados",
-    "slug": "triangulos-segun-sus-lados-primaria",
-    "palabras": [
-      "equilátero",
-      "isósceles",
-      "escaleno",
-      "triángulos",
-      "lados"
-    ],
-    "contenido": {
-      "idea": "Tres hermanos pueden tener la misma estatura, dos iguales y uno diferente, o los tres distintos. Los triángulos se clasifican igual por sus lados.",
-      "pizarron": "**Qué es:** un triángulo equilátero tiene 3 lados iguales, uno isósceles 2 iguales y uno escaleno todos distintos.\n\nClasificación por lados:\n\n| Tipo | Lados | Ejemplo en cm |\n|---|---|---|\n| **Equilátero** | Los 3 iguales | 5, 5, 5 |\n| **Isósceles** | 2 iguales | 5, 5, 3 |\n| **Escaleno** | Los 3 diferentes | 3, 4, 5 |\n\nPara saber cuál es:\n\n1. Mide los tres lados.\n2. Cuenta cuántos son iguales.\n\nEn un triángulo equilátero también los tres ángulos son iguales: 60° cada uno.\n\nEn cualquier triángulo, la suma de dos lados debe ser mayor que el tercero. Por eso con 2, 2 y 9 no se forma un triángulo.",
-      "truco": "Equi es igual: equilátero, todo igual; escaleno, todo diferente.",
-      "practica": {
-        "ejercicio": "Un triángulo mide 7, 7 y 4 cm. ¿Qué tipo es?",
-        "respuesta": "Isósceles, porque tiene dos lados iguales."
-      },
-      "analogias": [
-        {
-          "titulo": "Tres hermanos",
-          "texto": "Trillizos iguales son como el equilátero, gemelos con un hermano distinto son el isósceles y tres hermanos diferentes son el escaleno."
-        },
-        {
-          "titulo": "La bandera en triángulo",
-          "texto": "Un banderín de fiesta suele tener dos lados largos iguales y uno corto arriba: es un isósceles."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Lados 6, 8 y 10 cm. ¿Qué tipo es?",
-          "respuesta": "Escaleno."
-        },
-        {
-          "ejercicio": "Lados de 9 cm cada uno. ¿Qué tipo es?",
-          "respuesta": "Equilátero."
-        },
-        {
-          "ejercicio": "¿Cuántos lados iguales tiene un isósceles?",
-          "respuesta": "Dos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-058",
-    "titulo": "Triángulos según sus ángulos",
-    "slug": "triangulos-segun-sus-angulos-primaria",
-    "palabras": [
-      "acutángulo",
-      "rectángulo",
-      "obtusángulo",
-      "suma de ángulos",
-      "180 grados"
-    ],
-    "contenido": {
-      "idea": "Al ver las esquinas de un triángulo, puedes saber su tipo: si una esquina es recta, otra abierta, o todas puntiagudas.",
-      "pizarron": "**Qué es:** un triángulo acutángulo tiene sus tres ángulos agudos, uno rectángulo tiene un ángulo recto y uno obtusángulo tiene un ángulo obtuso.\n\nClasificación por ángulos:\n\n| Tipo | Ángulos |\n|---|---|\n| **Acutángulo** | Los 3 son agudos |\n| **Rectángulo** | 1 ángulo recto |\n| **Obtusángulo** | 1 ángulo obtuso |\n\nRegla importante: **los ángulos internos de un triángulo suman 180°**.\n\nEjemplo: un triángulo tiene ángulos de 50° y 60°.\n\n- 50 + 60 = 110\n- 180 - 110 = **70°**\n\nComo todos son agudos, es acutángulo.\n\nUn triángulo no puede tener dos ángulos rectos, porque ya sumarían 180° y no quedaría lugar para el tercero.",
-      "truco": "Recorta las tres esquinas de un triángulo: juntas forman una línea recta.",
-      "practica": {
-        "ejercicio": "Un triángulo tiene ángulos de 90° y 35°. ¿Cuánto mide el tercero?",
-        "respuesta": "180 - 90 - 35 = 55°."
-      },
-      "analogias": [
-        {
-          "titulo": "La tienda de campaña",
-          "texto": "Si la abres más, la punta se aplana; si la cierras, se hace puntiaguda. Los ángulos cambian, pero siempre suman 180°."
-        },
-        {
-          "titulo": "La rebanada de pastel",
-          "texto": "Las esquinas de una rebanada triangular se pueden juntar como rompecabezas y forman media vuelta."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Ángulos de 120°, 40° y 20°. ¿Qué tipo es?",
-          "respuesta": "Obtusángulo, porque tiene un ángulo de 120°."
-        },
-        {
-          "ejercicio": "Ángulos de 60°, 60° y 60°. ¿Qué tipo es?",
-          "respuesta": "Acutángulo. También es equilátero."
-        },
-        {
-          "ejercicio": "Dos ángulos miden 80° y 30°. ¿Cuánto mide el tercero?",
-          "respuesta": "70°."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f4-050",
+"titulo": "Comprobar una división",
+"slug": "comprobar-una-division-primaria",
+"palabras": [
+"prueba de la división",
+"comprobar",
+"revisar",
+"multiplicar y sumar residuo"
+],
+"contenido": {
+"idea": "La multiplicación deshace la división. Si después de repartir vuelves a juntar todo, debes tener lo mismo que al principio. Si no, algo se perdió.",
+"pizarron": "**La regla:** divisor por cociente, más residuo, debe dar el dividendo.\n\nPara comprobar cualquier división usa:\n\n**cociente × divisor + residuo = dividendo**\n\nEjemplo sin residuo: 84 ÷ 7 = 12.\n\n- 12 × 7 = 84. Correcto.\n\nEjemplo con residuo: 125 ÷ 6 = 20, residuo 5.\n\n- 20 × 6 = 120.\n- 120 + 5 = 125. Correcto.\n\nEjemplo con error: 96 ÷ 8 = 11, residuo 4.\n\n- 11 × 8 = 88.\n- 88 + 4 = 92, no da 96.\n- Hay error: 96 ÷ 8 = 12.\n\nRevisa también que el residuo sea menor que el divisor.\n\n**Para tu escuela:** comprueba una división de tu cuaderno.",
+"truco": "Multiplica lo de arriba por el de afuera y suma lo que sobró.",
+"practica": {
+"ejercicio": "Comprueba 73 ÷ 5 = 14, residuo 3.",
+"respuesta": "14 × 5 = 70 y 70 + 3 = 73. Es correcto."
+},
+"analogias": [
+{
+"titulo": "Volver a juntar",
+"texto": "Si repartiste dulces, recoge lo de cada niño, agrega lo que sobró y cuenta. Debe darte lo que había."
+},
+{
+"titulo": "La lista del viaje",
+"texto": "Antes de regresar, cuentas a los que están en los coches y a los que quedaron. Deben ser todos los que salieron."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Comprueba 156 ÷ 12 = 13.",
+"respuesta": "13 × 12 = 156. Es correcto."
+},
+{
+"ejercicio": "Comprueba 47 ÷ 6 = 7, residuo 6.",
+"respuesta": "Da 48, y además el residuo no puede ser igual al divisor. Lo correcto es 7, residuo 5."
+},
+{
+"ejercicio": "Si 200 ÷ 9 = 22, residuo 2, ¿qué operaciones lo comprueban?",
+"respuesta": "22 × 9 = 198 y 198 + 2 = 200."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Dividir entre 10, 100 y 1000",
+"slug": "dividir-entre-10-100-y-1000-primaria",
+"palabras": [
+"dividir entre 10",
+"quitar ceros",
+"mover el punto",
+"mental"
+],
+"contenido": {
+"idea": "Si multiplicar por 10 agrega un cero, dividir entre 10 lo quita. Es el camino de regreso y casi no necesitas hacer cuentas.",
+"pizarron": "**La regla:** para dividir entre 10, 100 o 1000, recorre el punto uno, dos o tres lugares a la izquierda.\n\nCuando el número termina en ceros, quita tantos ceros como tenga el divisor:\n\n- 4 500 ÷ 10 = 450\n- 4 500 ÷ 100 = 45\n- 7 000 ÷ 1000 = 7\n\nSi no hay suficientes ceros, aparece el **punto decimal**, que se mueve a la izquierda:\n\n- 56 ÷ 10 = 5.6\n- 56 ÷ 100 = 0.56\n- 8 ÷ 1000 = 0.008\n\nRegla: mueve el punto tantos lugares como ceros tenga el divisor. Rellena con ceros si hace falta.\n\nAtajo: 600 ÷ 20. Quita un cero a cada uno: 60 ÷ 2 = 30.\n\n**Para tu escuela:** convierte 500 centavos a pesos.",
+"truco": "Tantos ceros en el divisor, tantos saltos del punto a la izquierda.",
+"practica": {
+"ejercicio": "Calcula 3 200 ÷ 100",
+"respuesta": "32"
+},
+"analogias": [
+{
+"titulo": "El ascensor de bajada",
+"texto": "Cada división entre 10 baja el número un piso de valor, hasta llegar al lugar que necesitas."
+},
+{
+"titulo": "Convertir pesos",
+"texto": "Si 100 centavos son 1 peso, entonces 350 centavos son 3.5 pesos: dividiste entre 100."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula 9 000 ÷ 10",
+"respuesta": "900"
+},
+{
+"ejercicio": "Calcula 75 ÷ 100",
+"respuesta": "0.75"
+},
+{
+"ejercicio": "Calcula 1 800 ÷ 60",
+"respuesta": "30"
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Múltiplos y divisores",
+"slug": "multiplos-y-divisores-primaria",
+"palabras": [
+"múltiplos",
+"divisores",
+"factores",
+"tabla",
+"cabe exacto"
+],
+"contenido": {
+"idea": "Los múltiplos de un número son sus saltos en la tabla. Los divisores son los números que caben exacto en él. Son las dos caras de la misma moneda.",
+"pizarron": "**Qué es:** los múltiplos de un número son sus resultados en la tabla. Los divisores son los números que lo dividen exactamente.\n\n**Múltiplos** de un número: resultan de multiplicarlo por 1, 2, 3...\n\n- Múltiplos de 4: 4, 8, 12, 16, 20...\n- Son infinitos.\n\n**Divisores** de un número: dividen al número sin dejar residuo.\n\n- Divisores de 12: 1, 2, 3, 4, 6, 12.\n- Son una cantidad limitada.\n\nRelación:\n\n- 12 es múltiplo de 4.\n- 4 es divisor de 12.\n\nCómo encontrar divisores: busca parejas que multipliquen el número.\n\n- 1 × 18, 2 × 9, 3 × 6.\n- Divisores de 18: 1, 2, 3, 6, 9, 18.\n\nEl 1 divide a todos, y cada número se divide a sí mismo.\n\n**Para tu escuela:** di en cuántos equipos iguales se puede partir tu grupo.",
+"truco": "Múltiplos crecen sin fin; divisores se quedan adentro.",
+"practica": {
+"ejercicio": "Escribe los primeros 4 múltiplos de 6.",
+"respuesta": "6, 12, 18 y 24."
+},
+"analogias": [
+{
+"titulo": "Las ranas y los saltos",
+"texto": "Una rana que salta de 3 en 3 cae en 3, 6, 9. Esos lugares son los múltiplos de 3."
+},
+{
+"titulo": "Empaquetar sin que sobre",
+"texto": "Con 12 galletas puedes hacer bolsas de 1, 2, 3, 4, 6 o 12 sin que sobre nada. Esos son los divisores de 12."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe los divisores de 20.",
+"respuesta": "1, 2, 4, 5, 10 y 20."
+},
+{
+"ejercicio": "¿Es 35 múltiplo de 7?",
+"respuesta": "Sí, porque 7 × 5 = 35."
+},
+{
+"ejercicio": "¿Es 8 divisor de 30?",
+"respuesta": "No, porque 30 ÷ 8 deja residuo 6."
+}
+]
+}
+},
+{
+"nodo_id": "f4-050",
+"titulo": "Problemas de multiplicación y división",
+"slug": "problemas-de-multiplicacion-y-division-primaria",
+"palabras": [
+"problemas",
+"elegir operación",
+"multiplicar o dividir",
+"grupos"
+],
+"contenido": {
+"idea": "Multiplicar y dividir son dos caminos de la misma historia. Si conoces los grupos y quieres el total, multiplicas. Si conoces el total y quieres los grupos, divides.",
+"pizarron": "**La regla:** multiplica si conoces cada grupo y buscas el total. Divide si conoces el total y buscas cada grupo.\n\nElige la operación con esta guía:\n\n- ¿Sabes los grupos y lo que hay en cada uno y buscas el **total**? **Multiplica**.\n- ¿Sabes el **total** y buscas uno de los otros datos? **Divide**.\n\nEjemplo 1: Hay 25 cajas con 12 botellas. ¿Cuántas botellas hay?\n\n- 25 × 12 = 300 botellas.\n\nEjemplo 2: Tienes 300 botellas y cajas de 12. ¿Cuántas cajas llenas?\n\n- 300 ÷ 12 = 25 cajas.\n\nCuando hay residuo, piensa qué significa. Si 50 personas van en camionetas de 8:\n\n- 50 ÷ 8 = 6, residuo 2.\n- Se necesitan **7 camionetas**, porque las 2 personas no se pueden quedar.\n\n**Para tu escuela:** calcula cuántas cajas se necesitan para guardar los libros de tu salón.",
+"truco": "Partes a total, multiplica; total a partes, divide.",
+"practica": {
+"ejercicio": "Una resma trae 500 hojas. ¿Cuántas hojas hay en 8 resmas?",
+"respuesta": "8 × 500 = 4 000 hojas."
+},
+"analogias": [
+{
+"titulo": "El rompecabezas",
+"texto": "Si ya tienes las piezas, armas el total: multiplicar. Si tienes el total, lo separas en piezas: dividir."
+},
+{
+"titulo": "La fiesta",
+"texto": "Para saber cuántos refrescos llevar multiplicas invitados por vaso. Para saber cuántos vasos salen de un refresco, divides."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un camión lleva 45 alumnos. ¿Cuántos llevan 12 camiones?",
+"respuesta": "12 × 45 = 540 alumnos."
+},
+{
+"ejercicio": "Hay 630 pesos para repartir entre 9 personas. ¿Cuánto toca a cada una?",
+"respuesta": "630 ÷ 9 = 70 pesos."
+},
+{
+"ejercicio": "Van 75 personas y en cada lancha caben 10. ¿Cuántas lanchas necesitan?",
+"respuesta": "8 lanchas: 7 llenas y una con 5 personas."
+}
+]
+}
+},
+{
+"nodo_id": "f4-058",
+"titulo": "Tipos de ángulos: recto, agudo y obtuso",
+"slug": "tipos-de-angulos-recto-agudo-y-obtuso-primaria",
+"palabras": [
+"ángulo",
+"recto",
+"agudo",
+"obtuso",
+"llano",
+"grados"
+],
+"contenido": {
+"idea": "Abre un libro poco a poco. Mientras más lo abres, más grande es el ángulo. Un ángulo es qué tan abiertas están dos líneas que comparten una punta.",
+"pizarron": "**Qué es:** un ángulo recto mide $90°$, uno agudo mide menos de $90°$ y uno obtuso mide más de $90°$.\n\n**Imagínalo:** una puerta que se abre. Las dos orillas se unen en la bisagra, llamada **vértice**.\n\n- **Agudo:** poco abierta. Pico de pájaro.\n- **Recto:** esquina de una hoja.\n- **Obtuso:** muy abierta, entre 90° y 180°.\n- **Llano:** línea recta, 180°. Las manecillas a las 6.\n\n**Compara** con la esquina de una hoja.\n\n**Para tu escuela:** busca los tres ángulos en tu salón.",
+"truco": "Agudo es chiquito como aguja; obtuso es abierto y grandote.",
+"practica": {
+"ejercicio": "¿Qué tipo de ángulo mide 120°?",
+"respuesta": "Obtuso, porque es mayor que 90° y menor que 180°."
+},
+"analogias": [
+{
+"titulo": "Las manecillas del reloj",
+"texto": "A las 3 en punto forman un ángulo recto. A la 1 forman un ángulo agudo y a las 5 uno obtuso."
+},
+{
+"titulo": "La puerta",
+"texto": "Una puerta apenas abierta hace un ángulo agudo. Pegada a la pared lateral, en ángulo recto. Más abierta, obtuso."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo de ángulo mide 45°?",
+"respuesta": "Agudo."
+},
+{
+"ejercicio": "¿Cuánto mide un ángulo recto?",
+"respuesta": "90°."
+},
+{
+"ejercicio": "¿Qué ángulo hacen las manecillas a las 6 en punto?",
+"respuesta": "Un ángulo llano, de 180°."
+}
+]
+}
+},
+{
+"nodo_id": "f4-058",
+"titulo": "Medir ángulos con transportador",
+"slug": "medir-angulos-con-transportador-primaria",
+"palabras": [
+"transportador",
+"grados",
+"medir ángulo",
+"vértice"
+],
+"contenido": {
+"idea": "El transportador es una regla curva para medir qué tan abierto está un ángulo, igual que una regla mide lo largo.",
+"pizarron": "**La regla:** coloca el centro del transportador en el vértice, alinea un lado con el cero y lee dónde cae el otro lado.\n\nPasos para medir:\n\n1. Coloca el **centro** del transportador en el vértice.\n2. Alinea el **0°** con uno de los lados del ángulo.\n3. Mira dónde cruza el otro lado.\n4. Lee la escala que empieza en 0.\n\nCuidado: el transportador tiene dos escalas. Usa la que empieza en 0 desde tu lado.\n\nComprueba: si el ángulo se ve agudo, debe medir menos de 90°. Si leíste 130°, tomaste la escala equivocada: mide 50°.\n\nPara dibujar 60°:\n\n1. Traza una línea.\n2. Coloca el centro en un extremo.\n3. Marca el 60.\n4. Une la marca con el extremo.\n\n**Para tu escuela:** mide con transportador la esquina de un cuaderno.",
+"truco": "Centro al vértice, cero al lado y mira el otro lado.",
+"practica": {
+"ejercicio": "Un ángulo se ve obtuso y lees 70° y 110° en el transportador. ¿Cuánto mide?",
+"respuesta": "110°, porque un ángulo obtuso mide más de 90°."
+},
+"analogias": [
+{
+"titulo": "La regla del giro",
+"texto": "Una regla mide distancia; el transportador mide giro. Por eso es curvo, porque sigue el camino de una vuelta."
+},
+{
+"titulo": "El velocímetro",
+"texto": "La aguja del velocímetro gira y señala un número en un arco. El transportador se lee parecido."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde va el centro del transportador?",
+"respuesta": "En el vértice del ángulo."
+},
+{
+"ejercicio": "¿Cuántos grados tiene una vuelta completa?",
+"respuesta": "360°."
+},
+{
+"ejercicio": "¿Cuántas escalas tiene el transportador y por qué importa?",
+"respuesta": "Dos, y hay que usar la que empieza en 0 desde el lado alineado."
+}
+]
+}
+},
+{
+"nodo_id": "f4-058",
+"titulo": "Triángulos según sus lados",
+"slug": "triangulos-segun-sus-lados-primaria",
+"palabras": [
+"equilátero",
+"isósceles",
+"escaleno",
+"triángulos",
+"lados"
+],
+"contenido": {
+"idea": "Tres hermanos pueden tener la misma estatura, dos iguales y uno diferente, o los tres distintos. Los triángulos se clasifican igual por sus lados.",
+"pizarron": "**Qué es:** un triángulo equilátero tiene 3 lados iguales, uno isósceles 2 iguales y uno escaleno todos distintos.\n\nClasificación por lados:\n\n| Tipo | Lados | Ejemplo en cm |\n|---|---|---|\n| **Equilátero** | Los 3 iguales | 5, 5, 5 |\n| **Isósceles** | 2 iguales | 5, 5, 3 |\n| **Escaleno** | Los 3 diferentes | 3, 4, 5 |\n\nPara saber cuál es:\n\n1. Mide los tres lados.\n2. Cuenta cuántos son iguales.\n\nEn un triángulo equilátero también los tres ángulos son iguales: 60° cada uno.\n\nEn cualquier triángulo, la suma de dos lados debe ser mayor que el tercero. Por eso con 2, 2 y 9 no se forma un triángulo.\n\n**Para tu escuela:** dibuja los tres tipos y mide sus lados.",
+"truco": "Equi es igual: equilátero, todo igual; escaleno, todo diferente.",
+"practica": {
+"ejercicio": "Un triángulo mide 7, 7 y 4 cm. ¿Qué tipo es?",
+"respuesta": "Isósceles, porque tiene dos lados iguales."
+},
+"analogias": [
+{
+"titulo": "Tres hermanos",
+"texto": "Trillizos iguales son como el equilátero, gemelos con un hermano distinto son el isósceles y tres hermanos diferentes son el escaleno."
+},
+{
+"titulo": "La bandera en triángulo",
+"texto": "Un banderín de fiesta suele tener dos lados largos iguales y uno corto arriba: es un isósceles."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Lados 6, 8 y 10 cm. ¿Qué tipo es?",
+"respuesta": "Escaleno."
+},
+{
+"ejercicio": "Lados de 9 cm cada uno. ¿Qué tipo es?",
+"respuesta": "Equilátero."
+},
+{
+"ejercicio": "¿Cuántos lados iguales tiene un isósceles?",
+"respuesta": "Dos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-058",
+"titulo": "Triángulos según sus ángulos",
+"slug": "triangulos-segun-sus-angulos-primaria",
+"palabras": [
+"acutángulo",
+"rectángulo",
+"obtusángulo",
+"suma de ángulos",
+"180 grados"
+],
+"contenido": {
+"idea": "Al ver las esquinas de un triángulo, puedes saber su tipo: si una esquina es recta, otra abierta, o todas puntiagudas.",
+"pizarron": "**Qué es:** un triángulo acutángulo tiene sus tres ángulos agudos, uno rectángulo tiene un ángulo recto y uno obtusángulo tiene un ángulo obtuso.\n\nClasificación por ángulos:\n\n| Tipo | Ángulos |\n|---|---|\n| **Acutángulo** | Los 3 son agudos |\n| **Rectángulo** | 1 ángulo recto |\n| **Obtusángulo** | 1 ángulo obtuso |\n\nRegla importante: **los ángulos internos de un triángulo suman 180°**.\n\nEjemplo: un triángulo tiene ángulos de 50° y 60°.\n\n- 50 + 60 = 110\n- 180 - 110 = **70°**\n\nComo todos son agudos, es acutángulo.\n\nUn triángulo no puede tener dos ángulos rectos, porque ya sumarían 180° y no quedaría lugar para el tercero.\n\n**Para tu escuela:** clasifica tres triángulos de tu escuadra y tu cuaderno.",
+"truco": "Recorta las tres esquinas de un triángulo: juntas forman una línea recta.",
+"practica": {
+"ejercicio": "Un triángulo tiene ángulos de 90° y 35°. ¿Cuánto mide el tercero?",
+"respuesta": "180 - 90 - 35 = 55°."
+},
+"analogias": [
+{
+"titulo": "La tienda de campaña",
+"texto": "Si la abres más, la punta se aplana; si la cierras, se hace puntiaguda. Los ángulos cambian, pero siempre suman 180°."
+},
+{
+"titulo": "La rebanada de pastel",
+"texto": "Las esquinas de una rebanada triangular se pueden juntar como rompecabezas y forman media vuelta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Ángulos de 120°, 40° y 20°. ¿Qué tipo es?",
+"respuesta": "Obtusángulo, porque tiene un ángulo de 120°."
+},
+{
+"ejercicio": "Ángulos de 60°, 60° y 60°. ¿Qué tipo es?",
+"respuesta": "Acutángulo. También es equilátero."
+},
+{
+"ejercicio": "Dos ángulos miden 80° y 30°. ¿Cuánto mide el tercero?",
+"respuesta": "70°."
+}
+]
+}
+}
 ]

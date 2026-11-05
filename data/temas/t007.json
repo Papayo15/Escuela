@@ -1,461 +1,461 @@
 [
-  {
-    "nodo_id": "f5-010",
-    "titulo": "Alimentación saludable y ultraprocesados",
-    "slug": "alimentacion-saludable-primaria",
-    "palabras": [
-      "dieta correcta",
-      "plato del bien comer",
-      "comida chatarra",
-      "nutrición",
-      "ultraprocesados"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como una casa en construcción: necesita ladrillos, cemento y herramientas distintas. Si solo le das dulces, la casa queda chueca y débil.",
-      "pizarron": "**La regla:** una dieta correcta tiene de todo: verduras y frutas, cereales, frijoles y algo de carne o huevo.\n\nComer solo una cosa es como jugar futbol con un solo jugador.\n\n**Ultraprocesados:** frituras, refrescos y galletas. Tienen mucha azúcar, sal y grasa.\n\n**Qué hacer:**\n\n- Toma agua en vez de refresco.\n- Come verdura en cada comida.\n- Prefiere fruta de temporada.\n- Lee las etiquetas.\n\n**Para recordar:**\n- **¿Por qué es riesgoso tomar refresco todos los días?** Porque tiene mucha azúcar y casi ningún nutriente; favorece obesidad y diabetes.\n\n**Para tu escuela:** escribe qué comiste ayer y qué agregarías.",
-      "truco": "Completa, Equilibrada, Suficiente, Variada, Inocua, Adecuada: CESVIA.",
-      "practica": {
-        "ejercicio": "Un desayuno tiene refresco, pan dulce y galletas. Propón dos cambios para que sea más saludable.",
-        "respuesta": "Cambiar el refresco por agua simple y agregar fruta o un huevo con frijoles. Esto lo vuelve más completo y variado."
-      },
-      "analogias": [
-        {
-          "titulo": "El coche y su gasolina",
-          "texto": "Un coche funciona mejor con buena gasolina; con combustible sucio se descompone. Tu cuerpo igual: los alimentos naturales lo hacen rendir y los ultraprocesados lo dañan con el tiempo."
-        },
-        {
-          "titulo": "La caja de colores",
-          "texto": "Una dieta variada es como una caja con muchos colores: entre más colores de frutas y verduras uses, más completo queda tu dibujo de nutrientes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres características de una dieta correcta.",
-          "respuesta": "Por ejemplo: completa, variada y suficiente (también equilibrada, inocua o adecuada)."
-        },
-        {
-          "ejercicio": "¿Por qué es riesgoso tomar refresco todos los días?",
-          "respuesta": "Porque tiene mucha azúcar y casi ningún nutriente; favorece obesidad y diabetes."
-        },
-        {
-          "ejercicio": "Escribe una acción para mejorar la alimentación en tu familia.",
-          "respuesta": "Respuesta libre válida: cambiar frituras por fruta, tomar agua simple, leer etiquetas o agregar verduras a cada comida."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-014",
-    "titulo": "Funciones vitales de plantas y animales",
-    "slug": "funciones-vitales-plantas-animales-primaria",
-    "palabras": [
-      "seres vivos",
-      "nutrición",
-      "reproducción",
-      "respiración",
-      "entorno",
-      "evolución"
-    ],
-    "contenido": {
-      "idea": "Un ser vivo es como un pequeño negocio abierto todos los días: recibe cosas, las usa, produce otras, crece y crea sucursales nuevas.",
-      "pizarron": "**Qué es:** todo ser vivo se nutre, respira, se relaciona y se reproduce.\n\n**Plantas:** hacen su comida con luz, agua y aire, y sueltan oxígeno.\n\n**Animales:** comen a otros seres vivos.\n\nSe ayudan: las plantas dan comida y los animales llevan semillas.\n\nCon el tiempo, los mejor adaptados sobreviven.\n\n**Para recordar:**\n- **¿Qué necesita una planta para realizar la fotosíntesis?** Luz, agua y dióxido de carbono.\n- **¿Por qué un cactus sobrevive en el desierto?** Porque está adaptado: almacena agua en sus tallos y pierde poca por sus espinas, que son hojas modificadas.\n\n**Para tu escuela:** compara cómo come un perro y cómo se alimenta un árbol.",
-      "truco": "NRR: Nutrición, Respiración, Reproducción (más respuesta al ambiente).",
-      "practica": {
-        "ejercicio": "¿Qué necesita una planta para realizar la fotosíntesis?",
-        "respuesta": "Luz, agua y dióxido de carbono."
-      },
-      "analogias": [
-        {
-          "titulo": "La cocina de la hoja",
-          "texto": "La hoja es una cocina que usa luz como estufa, agua y aire como ingredientes y prepara su comida; el oxígeno es lo que sale como aroma."
-        },
-        {
-          "titulo": "El disfraz del camaleón",
-          "texto": "Los animales se adaptan como quien elige ropa para el clima: con el tiempo, quienes tienen el 'traje' adecuado sobreviven mejor."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Nombra tres funciones vitales.",
-          "respuesta": "Nutrición, respiración y reproducción (también respuesta a estímulos)."
-        },
-        {
-          "ejercicio": "¿Cómo se relacionan las abejas con las plantas?",
-          "respuesta": "Las abejas se alimentan del néctar y polinizan las flores, lo que permite que se formen frutos y semillas."
-        },
-        {
-          "ejercicio": "¿Por qué un cactus sobrevive en el desierto?",
-          "respuesta": "Porque está adaptado: almacena agua en sus tallos y pierde poca por sus espinas, que son hojas modificadas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-018",
-    "titulo": "Biodiversidad y riqueza natural de México",
-    "slug": "biodiversidad-mexico-primaria",
-    "palabras": [
-      "biodiversidad",
-      "medio ambiente",
-      "ecosistemas",
-      "patrimonio biocultural",
-      "megadiverso",
-      "conservación"
-    ],
-    "contenido": {
-      "idea": "Imagina un mercado enorme con puestos de todo tipo. Entre más variedad de puestos, más fuerte y rico es el mercado. Así es la biodiversidad de la naturaleza.",
-      "pizarron": "**Qué es:** la biodiversidad es la gran variedad de seres vivos. México es megadiverso: tiene muchísimas especies.\n\nHay selvas, bosques, desiertos y arrecifes. Algunas especies solo viven aquí, como el ajolote.\n\nLos pueblos conocen y cuidan plantas y animales desde hace siglos.\n\n**Por qué cuidarla:** nos da agua, comida, aire limpio y medicinas.\n\n**Para recordar:**\n- **Especie endémica:** Es la que solo vive en cierta región; por ejemplo, el ajolote.\n\n**Para tu escuela:** busca un animal que solo viva en México.",
-      "truco": "Bio = vida; diversidad = variedad. Biodiversidad = variedad de vida.",
-      "practica": {
-        "ejercicio": "Da un ejemplo de factor biótico y uno abiótico en un río.",
-        "respuesta": "Biótico: peces o plantas acuáticas. Abiótico: agua, temperatura o rocas."
-      },
-      "analogias": [
-        {
-          "titulo": "Equipo de futbol",
-          "texto": "Un equipo necesita porteros, defensas y delanteros. Si todos jugaran igual, perdería. Un ecosistema también necesita especies con distintos trabajos."
-        },
-        {
-          "titulo": "Biblioteca viva",
-          "texto": "Cada especie es un libro con información única. Si desaparece, se pierde para siempre y nadie puede volver a leerlo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa que México sea megadiverso?",
-          "respuesta": "Que tiene una enorme cantidad y variedad de especies y ecosistemas."
-        },
-        {
-          "ejercicio": "¿Qué es una especie endémica? Da un ejemplo.",
-          "respuesta": "Es la que solo vive en cierta región; por ejemplo, el ajolote."
-        },
-        {
-          "ejercicio": "Menciona dos razones para conservar la biodiversidad.",
-          "respuesta": "Proporciona agua, alimento, medicinas y aire limpio; y es parte de nuestro patrimonio biocultural."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-022",
-    "titulo": "Pérdida de biodiversidad y problemas ambientales",
-    "slug": "perdida-biodiversidad-problemas-ambientales-primaria",
-    "palabras": [
-      "extinción",
-      "contaminación",
-      "deforestación",
-      "especies invasoras",
-      "basura",
-      "cuidado ambiental"
-    ],
-    "contenido": {
-      "idea": "Si en un juego de torre de bloques le quitas piezas una por una, llega un momento en que toda la torre se cae. Eso pasa cuando desaparecen especies.",
-      "pizarron": "**Qué es:** se pierde biodiversidad cuando desaparecen especies. Si ya no existe ninguna, está extinta.\n\n**Causas:**\n\n1. Destruir su hogar.\n2. Contaminar.\n3. Cazar y vender animales.\n4. Traer especies de otros lados.\n5. Cambio climático.\n\n**Qué hacer:** reduce basura, planta árboles nativos y no compres animales silvestres.\n\n**Para tu escuela:** investiga un animal mexicano en peligro.",
-      "truco": "Las 3 R: Reducir, Reutilizar, Reciclar.",
-      "practica": {
-        "ejercicio": "Un bosque se tala para sembrar. ¿Qué causa de pérdida de biodiversidad es?",
-        "respuesta": "Destrucción del hábitat (deforestación)."
-      },
-      "analogias": [
-        {
-          "titulo": "Casa sin techo",
-          "texto": "Si a un animal le quitan su hábitat es como dejarte sin casa: no tiene dónde comer, dormir ni cuidar a sus crías."
-        },
-        {
-          "titulo": "Red de pesca",
-          "texto": "Los seres vivos están unidos como los nudos de una red. Si se rompen varios nudos, toda la red se afloja y deja de funcionar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres causas de la pérdida de biodiversidad.",
-          "respuesta": "Por ejemplo: deforestación, contaminación y especies invasoras."
-        },
-        {
-          "ejercicio": "¿Qué es una especie invasora?",
-          "respuesta": "Una especie que llega a un lugar donde no es nativa y daña o desplaza a las especies locales."
-        },
-        {
-          "ejercicio": "Escribe dos acciones que puedas hacer en tu comunidad para cuidar el ambiente.",
-          "respuesta": "Respuesta libre válida: separar basura, ahorrar agua, plantar árboles o no tirar residuos en ríos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-026",
-    "titulo": "Costos y beneficios del agua, la electricidad y los combustibles",
-    "slug": "costos-beneficios-agua-energia-combustibles-primaria",
-    "palabras": [
-      "consumo de agua",
-      "energía eléctrica",
-      "gasolina",
-      "gas",
-      "ahorro",
-      "recursos naturales"
-    ],
-    "contenido": {
-      "idea": "Usar agua y luz es como comer de una alacena compartida: es muy útil, pero si te acabas todo, no le queda nada a los demás y hay que volver a pagar para llenarla.",
-      "pizarron": "**Qué es:** usar agua, luz y gasolina nos ayuda, pero también cuesta dinero y daña la naturaleza.\n\n**Beneficios:** salud, comodidad y transporte.\n\n**Costos:** recibos, recursos que se acaban y contaminación.\n\n**Cómo ahorrar:** cierra la llave, repara fugas y apaga lo que no uses.\n\nAhorrar cuida tu dinero y el planeta.\n\n**Para tu escuela:** revisa un recibo de luz y propón cómo bajarlo.",
-      "truco": "Si no lo usas, ciérralo, apágalo o desconéctalo.",
-      "practica": {
-        "ejercicio": "Una llave gotea y pierde 2 litros por hora. ¿Cuántos litros pierde en 5 horas?",
-        "respuesta": "2 × 5 = 10 litros."
-      },
-      "analogias": [
-        {
-          "titulo": "La alcancía",
-          "texto": "Los recursos son como una alcancía: si sacas más de lo que entra, se vacía. Ahorrar es meter monedas para el futuro."
-        },
-        {
-          "titulo": "La mochila",
-          "texto": "Cada vez que usas combustible, cargas tu mochila con humo. Entre menos lo uses, menos pesada queda para el planeta."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona un beneficio y un costo del uso de electricidad.",
-          "respuesta": "Beneficio: iluminación o refrigerar alimentos. Costo: pago del recibo o impacto ambiental de generarla."
-        },
-        {
-          "ejercicio": "Una regadera gasta 10 litros por minuto. ¿Cuánta agua usa en 6 minutos?",
-          "respuesta": "10 × 6 = 60 litros."
-        },
-        {
-          "ejercicio": "Escribe dos acciones para ahorrar combustible.",
-          "respuesta": "Por ejemplo: caminar o usar bicicleta en trayectos cortos y compartir el coche o usar transporte colectivo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-029",
-    "titulo": "Propiedades de los materiales y los gases",
-    "slug": "propiedades-materiales-gases-primaria",
-    "palabras": [
-      "dureza",
-      "flexibilidad",
-      "permeabilidad",
-      "gases",
-      "materiales",
-      "propiedades"
-    ],
-    "contenido": {
-      "idea": "Elegir un material es como elegir ropa: para la lluvia necesitas algo impermeable, para jugar algo flexible y para protegerte algo duro.",
-      "pizarron": "**Qué es:** las propiedades dicen cómo es un material y para qué sirve.\n\n**Dureza:** resiste rayones. El diamante.\n\n**Flexibilidad:** se dobla sin romperse. El hule.\n\n**Permeabilidad:** deja pasar líquidos. La tela.\n\n**Gases:** no tienen forma, llenan todo y se pueden apretar.\n\n**Para recordar:**\n- **¿Por qué las ventanas se hacen de vidrio y los cables de hule o plástico flexible?** Vidrio: duro y transparente. Plástico o hule: flexible, permite doblar el cable sin romperlo.\n\n**Para tu escuela:** elige un material para un impermeable, y di por qué.",
-      "truco": "Dureza raya, flexibilidad dobla, permeabilidad deja pasar.",
-      "practica": {
-        "ejercicio": "¿Qué propiedad debe tener el material de un paraguas?",
-        "respuesta": "Ser impermeable y flexible."
-      },
-      "analogias": [
-        {
-          "titulo": "El colador",
-          "texto": "Un material permeable es como un colador: deja pasar el agua. Uno impermeable es como una olla: la retiene."
-        },
-        {
-          "titulo": "El globo",
-          "texto": "Un gas se comporta como el aire de un globo: llena todo el espacio disponible y toma la forma del globo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué las ventanas se hacen de vidrio y los cables de hule o plástico flexible?",
-          "respuesta": "Vidrio: duro y transparente. Plástico o hule: flexible, permite doblar el cable sin romperlo."
-        },
-        {
-          "ejercicio": "Una esponja y una bolsa de plástico: ¿cuál es permeable?",
-          "respuesta": "La esponja, porque deja pasar y absorbe líquidos."
-        },
-        {
-          "ejercicio": "Menciona dos propiedades de los gases.",
-          "respuesta": "No tienen forma fija, ocupan todo el recipiente y se pueden comprimir."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-033",
-    "titulo": "Cambios permanentes en los materiales",
-    "slug": "cambios-permanentes-materiales-primaria",
-    "palabras": [
-      "cambio químico",
-      "irreversible",
-      "combustión",
-      "oxidación",
-      "cocinar",
-      "reacción"
-    ],
-    "contenido": {
-      "idea": "Si derrites hielo, puedes volver a congelarlo. Pero si horneas un pastel, ya no puedes volver a separar el huevo, la harina y el azúcar. Eso es un cambio permanente.",
-      "pizarron": "**Qué es:** un cambio permanente forma algo nuevo y no se puede regresar.\n\nSi derrites hielo, regresa a ser hielo. Si quemas papel, ya no vuelve.\n\n**Señales:** color nuevo, olor, burbujas, luz o calor.\n\n**Ejemplos:**\n\n- Quemar madera.\n- Un clavo oxidado.\n- Freír un huevo.\n- Una fruta podrida.\n\n**Para recordar:**\n- **¿Por qué una bicicleta olvidada bajo la lluvia se oxida?** Porque el hierro reacciona con el agua y el oxígeno y forma óxido, una sustancia nueva.\n\n**Para tu escuela:** di si es permanente: hielo derretido, pan tostado y papel roto.",
-      "truco": "Si no puedes regresarlo a como estaba, el cambio es permanente.",
-      "practica": {
-        "ejercicio": "¿Derretir mantequilla es un cambio permanente o temporal? ¿Y quemar papel?",
-        "respuesta": "Derretir mantequilla es temporal; quemar papel es permanente."
-      },
-      "analogias": [
-        {
-          "titulo": "El huevo",
-          "texto": "Un huevo crudo se vuelve huevo cocido y ya no regresa a ser crudo. Los cambios permanentes son como una puerta que solo abre hacia un lado."
-        },
-        {
-          "titulo": "Plastilina contra papel",
-          "texto": "Moldear plastilina se puede deshacer; quemar una hoja convierte el papel en ceniza y ya nunca vuelve a ser hoja."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos señales de un cambio permanente.",
-          "respuesta": "Por ejemplo: cambio de color, formación de burbujas, olor nuevo, luz o calor."
-        },
-        {
-          "ejercicio": "¿Por qué una bicicleta olvidada bajo la lluvia se oxida?",
-          "respuesta": "Porque el hierro reacciona con el agua y el oxígeno y forma óxido, una sustancia nueva."
-        },
-        {
-          "ejercicio": "Clasifica: congelar agua, hornear un pan, cortar papel, pudrirse una manzana.",
-          "respuesta": "Temporales o físicos: congelar agua y cortar papel. Permanentes: hornear pan y pudrirse la manzana."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-037",
-    "titulo": "Efectos del magnetismo y de la gravedad",
-    "slug": "magnetismo-gravedad-primaria",
-    "palabras": [
-      "imán",
-      "fuerza",
-      "atracción",
-      "polos",
-      "peso",
-      "caída de los cuerpos"
-    ],
-    "contenido": {
-      "idea": "Un imán es como un amigo que jala de la ropa a ciertos objetos sin tocarlos. La gravedad es otro amigo invisible que siempre te jala hacia el suelo.",
-      "pizarron": "**Qué es:** el magnetismo y la gravedad actúan sin tocar.\n\n**Magnetismo:** un imán atrae hierro. Polos iguales se rechazan y distintos se atraen.\n\n**Gravedad:** la Tierra jala todo hacia su centro. Por eso caen las cosas.\n\n**Usos del imán:** brújulas y puertas del refrigerador.\n\n**Para tu escuela:** prueba qué objetos de tu mochila atrae un imán.",
-      "truco": "Opuestos se atraen, iguales se repelen; la gravedad siempre jala hacia abajo.",
-      "practica": {
-        "ejercicio": "Acercas dos imanes y se empujan. ¿Qué polos estaban frente a frente?",
-        "respuesta": "Polos iguales (norte con norte o sur con sur)."
-      },
-      "analogias": [
-        {
-          "titulo": "Ligas invisibles",
-          "texto": "Imagina ligas invisibles entre el imán y un clip; al acercarse, la liga lo jala. Con la Tierra, la liga invisible nos jala siempre hacia el piso."
-        },
-        {
-          "titulo": "El tobogán",
-          "texto": "La gravedad es la pendiente del tobogán: aunque no la veas, te hace bajar sin que nadie te empuje."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué objetos atrae un imán: una llave de acero, un lápiz de madera o una moneda de plástico?",
-          "respuesta": "La llave de acero."
-        },
-        {
-          "ejercicio": "¿Por qué una pelota lanzada hacia arriba regresa al suelo?",
-          "respuesta": "Por la fuerza de gravedad de la Tierra."
-        },
-        {
-          "ejercicio": "¿Cómo ayuda la brújula a orientarse?",
-          "respuesta": "Su aguja es un imán que se alinea con el magnetismo de la Tierra y señala el norte."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-041",
-    "titulo": "Transformaciones de la energía térmica y eléctrica",
-    "slug": "energia-termica-electrica-primaria",
-    "palabras": [
-      "calor",
-      "electricidad",
-      "transformación de energía",
-      "foco",
-      "plancha",
-      "tecnología"
-    ],
-    "contenido": {
-      "idea": "La energía es como el agua que pasa de una cubeta a otra: no se pierde, solo cambia de recipiente y de forma.",
-      "pizarron": "**La ley:** la energía no se crea ni se destruye, solo se transforma.\n\n**Ejemplos:**\n\n- Plancha: de eléctrica a calor.\n- Foco: de eléctrica a luz.\n- Licuadora: de eléctrica a movimiento.\n- Estufa de gas: de química a calor.\n\nParte se pierde como calor. Por eso los focos LED ahorran.\n\n**Para recordar:**\n- **¿Por qué los focos LED son más eficientes que los incandescentes?** Porque convierten más electricidad en luz y desperdician menos como calor.\n\n**Para tu escuela:** haz una lista de tres aparatos y su transformación.",
-      "truco": "La energía no se gasta: se transforma.",
-      "practica": {
-        "ejercicio": "¿Qué transformaciones ocurren en un foco encendido?",
-        "respuesta": "Energía eléctrica en luminosa y en térmica (el foco se calienta)."
-      },
-      "analogias": [
-        {
-          "titulo": "Relevos",
-          "texto": "La energía es como un testigo de carreras de relevos: pasa de un corredor a otro, cambia de manos, pero la carrera sigue."
-        },
-        {
-          "titulo": "Dinero cambiado",
-          "texto": "Cambiar un billete por monedas no destruye el dinero, solo cambia su forma. Igual con la energía."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué transformación ocurre en una plancha?",
-          "respuesta": "Energía eléctrica en energía térmica."
-        },
-        {
-          "ejercicio": "Menciona un aparato que convierta electricidad en movimiento.",
-          "respuesta": "Ventilador, licuadora o motor eléctrico."
-        },
-        {
-          "ejercicio": "¿Por qué los focos LED son más eficientes que los incandescentes?",
-          "respuesta": "Porque convierten más electricidad en luz y desperdician menos como calor."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-044",
-    "titulo": "El Sistema Solar y el Universo",
-    "slug": "sistema-solar-universo-primaria",
-    "palabras": [
-      "planetas",
-      "Sol",
-      "estrellas",
-      "galaxia",
-      "telescopio",
-      "astronomía"
-    ],
-    "contenido": {
-      "idea": "El Sistema Solar es como una familia que gira alrededor de una gran fogata: el Sol da luz y calor, y los planetas lo rodean a diferentes distancias.",
-      "pizarron": "**Qué es:** el Sistema Solar es el Sol con todo lo que gira a su alrededor.\n\n**Planetas en orden:** Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.\n\nLos primeros cuatro son rocosos. Los otros son gigantes.\n\nEstamos en una galaxia llamada Vía Láctea, y hay miles de millones más.\n\nLos mayas estudiaron el cielo para hacer calendarios.\n\n**Para recordar:**\n- **¿Qué aportaron los pueblos mesoamericanos a la astronomía?** Observaron el Sol, la Luna y Venus, y elaboraron calendarios precisos.\n\n**Para tu escuela:** haz una frase para recordar el orden de los planetas.",
-      "truco": "Mi Vecina Tere Mira Juegos Sobre Una Nube: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno.",
-      "practica": {
-        "ejercicio": "¿Qué planeta está entre Venus y Marte?",
-        "respuesta": "La Tierra."
-      },
-      "analogias": [
-        {
-          "titulo": "El carrusel",
-          "texto": "Los planetas son los caballitos de un carrusel: todos dan vueltas alrededor del centro, que es el Sol."
-        },
-        {
-          "titulo": "La dirección postal",
-          "texto": "Tu domicilio completo es calle, ciudad, país. En el espacio: Tierra, Sistema Solar, Vía Láctea, Universo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es el Sol: planeta, estrella o luna?",
-          "respuesta": "Una estrella."
-        },
-        {
-          "ejercicio": "Nombra los cuatro planetas rocosos.",
-          "respuesta": "Mercurio, Venus, Tierra y Marte."
-        },
-        {
-          "ejercicio": "¿Qué aportaron los pueblos mesoamericanos a la astronomía?",
-          "respuesta": "Observaron el Sol, la Luna y Venus, y elaboraron calendarios precisos."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f5-010",
+"titulo": "Alimentación saludable y ultraprocesados",
+"slug": "alimentacion-saludable-primaria",
+"palabras": [
+"dieta correcta",
+"plato del bien comer",
+"comida chatarra",
+"nutrición",
+"ultraprocesados"
+],
+"contenido": {
+"idea": "Tu cuerpo es como una casa en construcción: necesita ladrillos, cemento y herramientas distintas. Si solo le das dulces, la casa queda chueca y débil.",
+"pizarron": "**La regla:** una dieta correcta tiene de todo: verduras y frutas, cereales, frijoles y algo de carne o huevo.\n\nComer solo una cosa es como jugar futbol con un solo jugador.\n\n**Ultraprocesados:** frituras, refrescos y galletas. Tienen mucha azúcar, sal y grasa.\n\n**Qué hacer:**\n\n- Toma agua en vez de refresco.\n- Come verdura en cada comida.\n- Prefiere fruta de temporada.\n- Lee las etiquetas.\n\n**Refresco:** tiene mucha azúcar y casi nada bueno. Tomarlo diario favorece la obesidad y la diabetes.\n\n**Para tu escuela:** escribe qué comiste ayer y qué agregarías.",
+"truco": "Completa, Equilibrada, Suficiente, Variada, Inocua, Adecuada: CESVIA.",
+"practica": {
+"ejercicio": "Un desayuno tiene refresco, pan dulce y galletas. Propón dos cambios para que sea más saludable.",
+"respuesta": "Cambiar el refresco por agua simple y agregar fruta o un huevo con frijoles. Esto lo vuelve más completo y variado."
+},
+"analogias": [
+{
+"titulo": "El coche y su gasolina",
+"texto": "Un coche funciona mejor con buena gasolina; con combustible sucio se descompone. Tu cuerpo igual: los alimentos naturales lo hacen rendir y los ultraprocesados lo dañan con el tiempo."
+},
+{
+"titulo": "La caja de colores",
+"texto": "Una dieta variada es como una caja con muchos colores: entre más colores de frutas y verduras uses, más completo queda tu dibujo de nutrientes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres características de una dieta correcta.",
+"respuesta": "Por ejemplo: completa, variada y suficiente (también equilibrada, inocua o adecuada)."
+},
+{
+"ejercicio": "¿Por qué es riesgoso tomar refresco todos los días?",
+"respuesta": "Porque tiene mucha azúcar y casi ningún nutriente; favorece obesidad y diabetes."
+},
+{
+"ejercicio": "Escribe una acción para mejorar la alimentación en tu familia.",
+"respuesta": "Respuesta libre válida: cambiar frituras por fruta, tomar agua simple, leer etiquetas o agregar verduras a cada comida."
+}
+]
+}
+},
+{
+"nodo_id": "f5-014",
+"titulo": "Funciones vitales de plantas y animales",
+"slug": "funciones-vitales-plantas-animales-primaria",
+"palabras": [
+"seres vivos",
+"nutrición",
+"reproducción",
+"respiración",
+"entorno",
+"evolución"
+],
+"contenido": {
+"idea": "Un ser vivo es como un pequeño negocio abierto todos los días: recibe cosas, las usa, produce otras, crece y crea sucursales nuevas.",
+"pizarron": "**Qué es:** todo ser vivo se nutre, respira, se relaciona y se reproduce.\n\n**Plantas:** hacen su comida con luz, agua y aire, y sueltan oxígeno.\n\n**Animales:** comen a otros seres vivos.\n\nSe ayudan: las plantas dan comida y los animales llevan semillas.\n\nCon el tiempo, los mejor adaptados sobreviven.\n\n**Cactus:** guarda agua en su tallo, y por sus espinas pierde poca.\n\n**Para tu escuela:** compara cómo come un perro y cómo se alimenta un árbol.",
+"truco": "NRR: Nutrición, Respiración, Reproducción (más respuesta al ambiente).",
+"practica": {
+"ejercicio": "¿Qué necesita una planta para realizar la fotosíntesis?",
+"respuesta": "Luz, agua y dióxido de carbono."
+},
+"analogias": [
+{
+"titulo": "La cocina de la hoja",
+"texto": "La hoja es una cocina que usa luz como estufa, agua y aire como ingredientes y prepara su comida; el oxígeno es lo que sale como aroma."
+},
+{
+"titulo": "El disfraz del camaleón",
+"texto": "Los animales se adaptan como quien elige ropa para el clima: con el tiempo, quienes tienen el 'traje' adecuado sobreviven mejor."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra tres funciones vitales.",
+"respuesta": "Nutrición, respiración y reproducción (también respuesta a estímulos)."
+},
+{
+"ejercicio": "¿Cómo se relacionan las abejas con las plantas?",
+"respuesta": "Las abejas se alimentan del néctar y polinizan las flores, lo que permite que se formen frutos y semillas."
+},
+{
+"ejercicio": "¿Por qué un cactus sobrevive en el desierto?",
+"respuesta": "Porque está adaptado: almacena agua en sus tallos y pierde poca por sus espinas, que son hojas modificadas."
+}
+]
+}
+},
+{
+"nodo_id": "f5-018",
+"titulo": "Biodiversidad y riqueza natural de México",
+"slug": "biodiversidad-mexico-primaria",
+"palabras": [
+"biodiversidad",
+"medio ambiente",
+"ecosistemas",
+"patrimonio biocultural",
+"megadiverso",
+"conservación"
+],
+"contenido": {
+"idea": "Imagina un mercado enorme con puestos de todo tipo. Entre más variedad de puestos, más fuerte y rico es el mercado. Así es la biodiversidad de la naturaleza.",
+"pizarron": "**Qué es:** la biodiversidad es la gran variedad de seres vivos. México es megadiverso: tiene muchísimas especies.\n\nHay selvas, bosques, desiertos y arrecifes. Algunas especies solo viven aquí, como el ajolote.\n\nLos pueblos conocen y cuidan plantas y animales desde hace siglos.\n\n**Por qué cuidarla:** nos da agua, comida, aire limpio y medicinas.\n\n**Especie endémica:** la que solo vive en cierta región, como el ajolote.\n\n**Para tu escuela:** busca un animal que solo viva en México.",
+"truco": "Bio = vida; diversidad = variedad. Biodiversidad = variedad de vida.",
+"practica": {
+"ejercicio": "Da un ejemplo de factor biótico y uno abiótico en un río.",
+"respuesta": "Biótico: peces o plantas acuáticas. Abiótico: agua, temperatura o rocas."
+},
+"analogias": [
+{
+"titulo": "Equipo de futbol",
+"texto": "Un equipo necesita porteros, defensas y delanteros. Si todos jugaran igual, perdería. Un ecosistema también necesita especies con distintos trabajos."
+},
+{
+"titulo": "Biblioteca viva",
+"texto": "Cada especie es un libro con información única. Si desaparece, se pierde para siempre y nadie puede volver a leerlo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa que México sea megadiverso?",
+"respuesta": "Que tiene una enorme cantidad y variedad de especies y ecosistemas."
+},
+{
+"ejercicio": "¿Qué es una especie endémica? Da un ejemplo.",
+"respuesta": "Es la que solo vive en cierta región; por ejemplo, el ajolote."
+},
+{
+"ejercicio": "Menciona dos razones para conservar la biodiversidad.",
+"respuesta": "Proporciona agua, alimento, medicinas y aire limpio; y es parte de nuestro patrimonio biocultural."
+}
+]
+}
+},
+{
+"nodo_id": "f5-022",
+"titulo": "Pérdida de biodiversidad y problemas ambientales",
+"slug": "perdida-biodiversidad-problemas-ambientales-primaria",
+"palabras": [
+"extinción",
+"contaminación",
+"deforestación",
+"especies invasoras",
+"basura",
+"cuidado ambiental"
+],
+"contenido": {
+"idea": "Si en un juego de torre de bloques le quitas piezas una por una, llega un momento en que toda la torre se cae. Eso pasa cuando desaparecen especies.",
+"pizarron": "**Qué es:** se pierde biodiversidad cuando desaparecen especies. Si ya no existe ninguna, está extinta.\n\n**Causas:**\n\n1. Destruir su hogar.\n2. Contaminar.\n3. Cazar y vender animales.\n4. Traer especies de otros lados.\n5. Cambio climático.\n\n**Qué hacer:** reduce basura, planta árboles nativos y no compres animales silvestres.\n\n**Para tu escuela:** investiga un animal mexicano en peligro.",
+"truco": "Las 3 R: Reducir, Reutilizar, Reciclar.",
+"practica": {
+"ejercicio": "Un bosque se tala para sembrar. ¿Qué causa de pérdida de biodiversidad es?",
+"respuesta": "Destrucción del hábitat (deforestación)."
+},
+"analogias": [
+{
+"titulo": "Casa sin techo",
+"texto": "Si a un animal le quitan su hábitat es como dejarte sin casa: no tiene dónde comer, dormir ni cuidar a sus crías."
+},
+{
+"titulo": "Red de pesca",
+"texto": "Los seres vivos están unidos como los nudos de una red. Si se rompen varios nudos, toda la red se afloja y deja de funcionar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres causas de la pérdida de biodiversidad.",
+"respuesta": "Por ejemplo: deforestación, contaminación y especies invasoras."
+},
+{
+"ejercicio": "¿Qué es una especie invasora?",
+"respuesta": "Una especie que llega a un lugar donde no es nativa y daña o desplaza a las especies locales."
+},
+{
+"ejercicio": "Escribe dos acciones que puedas hacer en tu comunidad para cuidar el ambiente.",
+"respuesta": "Respuesta libre válida: separar basura, ahorrar agua, plantar árboles o no tirar residuos en ríos."
+}
+]
+}
+},
+{
+"nodo_id": "f5-026",
+"titulo": "Costos y beneficios del agua, la electricidad y los combustibles",
+"slug": "costos-beneficios-agua-energia-combustibles-primaria",
+"palabras": [
+"consumo de agua",
+"energía eléctrica",
+"gasolina",
+"gas",
+"ahorro",
+"recursos naturales"
+],
+"contenido": {
+"idea": "Usar agua y luz es como comer de una alacena compartida: es muy útil, pero si te acabas todo, no le queda nada a los demás y hay que volver a pagar para llenarla.",
+"pizarron": "**Qué es:** usar agua, luz y gasolina nos ayuda, pero también cuesta dinero y daña la naturaleza.\n\n**Beneficios:** salud, comodidad y transporte.\n\n**Costos:** recibos, recursos que se acaban y contaminación.\n\n**Cómo ahorrar:** cierra la llave, repara fugas y apaga lo que no uses.\n\nAhorrar cuida tu dinero y el planeta.\n\n**Para tu escuela:** revisa un recibo de luz y propón cómo bajarlo.",
+"truco": "Si no lo usas, ciérralo, apágalo o desconéctalo.",
+"practica": {
+"ejercicio": "Una llave gotea y pierde 2 litros por hora. ¿Cuántos litros pierde en 5 horas?",
+"respuesta": "2 × 5 = 10 litros."
+},
+"analogias": [
+{
+"titulo": "La alcancía",
+"texto": "Los recursos son como una alcancía: si sacas más de lo que entra, se vacía. Ahorrar es meter monedas para el futuro."
+},
+{
+"titulo": "La mochila",
+"texto": "Cada vez que usas combustible, cargas tu mochila con humo. Entre menos lo uses, menos pesada queda para el planeta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona un beneficio y un costo del uso de electricidad.",
+"respuesta": "Beneficio: iluminación o refrigerar alimentos. Costo: pago del recibo o impacto ambiental de generarla."
+},
+{
+"ejercicio": "Una regadera gasta 10 litros por minuto. ¿Cuánta agua usa en 6 minutos?",
+"respuesta": "10 × 6 = 60 litros."
+},
+{
+"ejercicio": "Escribe dos acciones para ahorrar combustible.",
+"respuesta": "Por ejemplo: caminar o usar bicicleta en trayectos cortos y compartir el coche o usar transporte colectivo."
+}
+]
+}
+},
+{
+"nodo_id": "f5-029",
+"titulo": "Propiedades de los materiales y los gases",
+"slug": "propiedades-materiales-gases-primaria",
+"palabras": [
+"dureza",
+"flexibilidad",
+"permeabilidad",
+"gases",
+"materiales",
+"propiedades"
+],
+"contenido": {
+"idea": "Elegir un material es como elegir ropa: para la lluvia necesitas algo impermeable, para jugar algo flexible y para protegerte algo duro.",
+"pizarron": "**Qué es:** las propiedades dicen cómo es un material y para qué sirve.\n\n**Dureza:** resiste rayones. El diamante.\n\n**Flexibilidad:** se dobla sin romperse. El hule.\n\n**Permeabilidad:** deja pasar líquidos. La tela.\n\n**Gases:** no tienen forma, llenan todo y se pueden apretar.\n\n**Vidrio:** duro y transparente, sirve para ventanas. **Hule o plástico:** flexible, sirve para forrar cables.\n\n**Para tu escuela:** elige un material para un impermeable, y di por qué.",
+"truco": "Dureza raya, flexibilidad dobla, permeabilidad deja pasar.",
+"practica": {
+"ejercicio": "¿Qué propiedad debe tener el material de un paraguas?",
+"respuesta": "Ser impermeable y flexible."
+},
+"analogias": [
+{
+"titulo": "El colador",
+"texto": "Un material permeable es como un colador: deja pasar el agua. Uno impermeable es como una olla: la retiene."
+},
+{
+"titulo": "El globo",
+"texto": "Un gas se comporta como el aire de un globo: llena todo el espacio disponible y toma la forma del globo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué las ventanas se hacen de vidrio y los cables de hule o plástico flexible?",
+"respuesta": "Vidrio: duro y transparente. Plástico o hule: flexible, permite doblar el cable sin romperlo."
+},
+{
+"ejercicio": "Una esponja y una bolsa de plástico: ¿cuál es permeable?",
+"respuesta": "La esponja, porque deja pasar y absorbe líquidos."
+},
+{
+"ejercicio": "Menciona dos propiedades de los gases.",
+"respuesta": "No tienen forma fija, ocupan todo el recipiente y se pueden comprimir."
+}
+]
+}
+},
+{
+"nodo_id": "f5-033",
+"titulo": "Cambios permanentes en los materiales",
+"slug": "cambios-permanentes-materiales-primaria",
+"palabras": [
+"cambio químico",
+"irreversible",
+"combustión",
+"oxidación",
+"cocinar",
+"reacción"
+],
+"contenido": {
+"idea": "Si derrites hielo, puedes volver a congelarlo. Pero si horneas un pastel, ya no puedes volver a separar el huevo, la harina y el azúcar. Eso es un cambio permanente.",
+"pizarron": "**Qué es:** un cambio permanente forma algo nuevo y no se puede regresar.\n\nSi derrites hielo, regresa a ser hielo. Si quemas papel, ya no vuelve.\n\n**Señales:** color nuevo, olor, burbujas, luz o calor.\n\n**Ejemplos:**\n\n- Quemar madera.\n- Un clavo oxidado.\n- Freír un huevo.\n- Una fruta podrida.\n\n**Óxido:** el hierro de una bicicleta mojada se junta con agua y oxígeno. Se forma algo nuevo.\n\n**Para tu escuela:** di si es permanente: hielo derretido, pan tostado y papel roto.",
+"truco": "Si no puedes regresarlo a como estaba, el cambio es permanente.",
+"practica": {
+"ejercicio": "¿Derretir mantequilla es un cambio permanente o temporal? ¿Y quemar papel?",
+"respuesta": "Derretir mantequilla es temporal; quemar papel es permanente."
+},
+"analogias": [
+{
+"titulo": "El huevo",
+"texto": "Un huevo crudo se vuelve huevo cocido y ya no regresa a ser crudo. Los cambios permanentes son como una puerta que solo abre hacia un lado."
+},
+{
+"titulo": "Plastilina contra papel",
+"texto": "Moldear plastilina se puede deshacer; quemar una hoja convierte el papel en ceniza y ya nunca vuelve a ser hoja."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos señales de un cambio permanente.",
+"respuesta": "Por ejemplo: cambio de color, formación de burbujas, olor nuevo, luz o calor."
+},
+{
+"ejercicio": "¿Por qué una bicicleta olvidada bajo la lluvia se oxida?",
+"respuesta": "Porque el hierro reacciona con el agua y el oxígeno y forma óxido, una sustancia nueva."
+},
+{
+"ejercicio": "Clasifica: congelar agua, hornear un pan, cortar papel, pudrirse una manzana.",
+"respuesta": "Temporales o físicos: congelar agua y cortar papel. Permanentes: hornear pan y pudrirse la manzana."
+}
+]
+}
+},
+{
+"nodo_id": "f5-037",
+"titulo": "Efectos del magnetismo y de la gravedad",
+"slug": "magnetismo-gravedad-primaria",
+"palabras": [
+"imán",
+"fuerza",
+"atracción",
+"polos",
+"peso",
+"caída de los cuerpos"
+],
+"contenido": {
+"idea": "Un imán es como un amigo que jala de la ropa a ciertos objetos sin tocarlos. La gravedad es otro amigo invisible que siempre te jala hacia el suelo.",
+"pizarron": "**Qué es:** el magnetismo y la gravedad actúan sin tocar.\n\n**Magnetismo:** un imán atrae hierro. Polos iguales se rechazan y distintos se atraen.\n\n**Gravedad:** la Tierra jala todo hacia su centro. Por eso caen las cosas.\n\n**Usos del imán:** brújulas y puertas del refrigerador.\n\n**Para tu escuela:** prueba qué objetos de tu mochila atrae un imán.",
+"truco": "Opuestos se atraen, iguales se repelen; la gravedad siempre jala hacia abajo.",
+"practica": {
+"ejercicio": "Acercas dos imanes y se empujan. ¿Qué polos estaban frente a frente?",
+"respuesta": "Polos iguales (norte con norte o sur con sur)."
+},
+"analogias": [
+{
+"titulo": "Ligas invisibles",
+"texto": "Imagina ligas invisibles entre el imán y un clip; al acercarse, la liga lo jala. Con la Tierra, la liga invisible nos jala siempre hacia el piso."
+},
+{
+"titulo": "El tobogán",
+"texto": "La gravedad es la pendiente del tobogán: aunque no la veas, te hace bajar sin que nadie te empuje."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué objetos atrae un imán: una llave de acero, un lápiz de madera o una moneda de plástico?",
+"respuesta": "La llave de acero."
+},
+{
+"ejercicio": "¿Por qué una pelota lanzada hacia arriba regresa al suelo?",
+"respuesta": "Por la fuerza de gravedad de la Tierra."
+},
+{
+"ejercicio": "¿Cómo ayuda la brújula a orientarse?",
+"respuesta": "Su aguja es un imán que se alinea con el magnetismo de la Tierra y señala el norte."
+}
+]
+}
+},
+{
+"nodo_id": "f5-041",
+"titulo": "Transformaciones de la energía térmica y eléctrica",
+"slug": "energia-termica-electrica-primaria",
+"palabras": [
+"calor",
+"electricidad",
+"transformación de energía",
+"foco",
+"plancha",
+"tecnología"
+],
+"contenido": {
+"idea": "La energía es como el agua que pasa de una cubeta a otra: no se pierde, solo cambia de recipiente y de forma.",
+"pizarron": "**La ley:** la energía no se crea ni se destruye, solo se transforma.\n\n**Ejemplos:**\n\n- Plancha: de eléctrica a calor.\n- Foco: de eléctrica a luz.\n- Licuadora: de eléctrica a movimiento.\n- Estufa de gas: de química a calor.\n\nParte se pierde como calor. Por eso los focos LED ahorran.\n\n**LED:** convierte más electricidad en luz y gasta menos en calor.\n\n**Para tu escuela:** haz una lista de tres aparatos y su transformación.",
+"truco": "La energía no se gasta: se transforma.",
+"practica": {
+"ejercicio": "¿Qué transformaciones ocurren en un foco encendido?",
+"respuesta": "Energía eléctrica en luminosa y en térmica (el foco se calienta)."
+},
+"analogias": [
+{
+"titulo": "Relevos",
+"texto": "La energía es como un testigo de carreras de relevos: pasa de un corredor a otro, cambia de manos, pero la carrera sigue."
+},
+{
+"titulo": "Dinero cambiado",
+"texto": "Cambiar un billete por monedas no destruye el dinero, solo cambia su forma. Igual con la energía."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué transformación ocurre en una plancha?",
+"respuesta": "Energía eléctrica en energía térmica."
+},
+{
+"ejercicio": "Menciona un aparato que convierta electricidad en movimiento.",
+"respuesta": "Ventilador, licuadora o motor eléctrico."
+},
+{
+"ejercicio": "¿Por qué los focos LED son más eficientes que los incandescentes?",
+"respuesta": "Porque convierten más electricidad en luz y desperdician menos como calor."
+}
+]
+}
+},
+{
+"nodo_id": "f5-044",
+"titulo": "El Sistema Solar y el Universo",
+"slug": "sistema-solar-universo-primaria",
+"palabras": [
+"planetas",
+"Sol",
+"estrellas",
+"galaxia",
+"telescopio",
+"astronomía"
+],
+"contenido": {
+"idea": "El Sistema Solar es como una familia que gira alrededor de una gran fogata: el Sol da luz y calor, y los planetas lo rodean a diferentes distancias.",
+"pizarron": "**Qué es:** el Sistema Solar es el Sol con todo lo que gira a su alrededor.\n\n**Planetas en orden:** Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.\n\nLos primeros cuatro son rocosos. Los otros son gigantes.\n\nEstamos en una galaxia llamada Vía Láctea, y hay miles de millones más.\n\nLos mayas estudiaron el cielo para hacer calendarios.\n\nLos pueblos mesoamericanos observaron el Sol, la Luna y Venus, e hicieron calendarios precisos.\n\n**Para tu escuela:** haz una frase para recordar el orden de los planetas.",
+"truco": "Mi Vecina Tere Mira Juegos Sobre Una Nube: Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno.",
+"practica": {
+"ejercicio": "¿Qué planeta está entre Venus y Marte?",
+"respuesta": "La Tierra."
+},
+"analogias": [
+{
+"titulo": "El carrusel",
+"texto": "Los planetas son los caballitos de un carrusel: todos dan vueltas alrededor del centro, que es el Sol."
+},
+{
+"titulo": "La dirección postal",
+"texto": "Tu domicilio completo es calle, ciudad, país. En el espacio: Tierra, Sistema Solar, Vía Láctea, Universo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es el Sol: planeta, estrella o luna?",
+"respuesta": "Una estrella."
+},
+{
+"ejercicio": "Nombra los cuatro planetas rocosos.",
+"respuesta": "Mercurio, Venus, Tierra y Marte."
+},
+{
+"ejercicio": "¿Qué aportaron los pueblos mesoamericanos a la astronomía?",
+"respuesta": "Observaron el Sol, la Luna y Venus, y elaboraron calendarios precisos."
+}
+]
+}
+}
 ]

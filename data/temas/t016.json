@@ -13,7 +13,7 @@
 ],
 "contenido": {
 "idea": "Imagina que armas figuras con bloques de Lego. Deshaces un castillo y con las mismas piezas armas una nave. No aparecen ni desaparecen piezas, solo cambian de lugar. Una reacción química es igual, pero con átomos.",
-"pizarron": "**Qué es:** una reacción química transforma unas sustancias, los reactivos, en otras, los productos.\n\nComo hacer un pastel: al hornear, ya no puedes regresar a huevo y harina.\n\n$$\\ce{2H2 + O2 -> 2H2O}$$\n\n**Coeficiente:** el número grande de adelante. Dice cuántas moléculas hay.\n\n**Subíndice:** el número pequeño. No se cambia.\n\n**Para balancear:**\n\n1. Cuenta los átomos de cada lado.\n2. Cambia solo los coeficientes.\n3. Deja oxígeno e hidrógeno al final.\n\n**Señales:** cambio de color, burbujas, luz o calor.\n\n**Para tu escuela:** balancea $\\ce{H2 + Cl2 -> HCl}$.",
+"pizarron": "**Qué es:** una reacción química transforma unas sustancias, los reactivos, en otras, los productos.\n\n**Imagínalo:** hacer un pastel. Al hornear, ya no regresas a huevo y harina.\n\n$$\\ce{2H2 + O2 -> 2H2O}$$\n\n**En palabras:** hidrógeno y oxígeno producen agua.\n\n**Coeficiente:** el número grande de adelante. **Subíndice:** el pequeño, que no se cambia.\n\n**Para balancear:**\n\n1. Cuenta los átomos de cada lado.\n2. Cambia solo los coeficientes.\n3. Deja oxígeno e hidrógeno al final.\n\n**Para revisar:** multiplica coeficiente por subíndice.\n\n**Señales:** cambio de color, burbujas, luz o calor.\n\n**Para tu escuela:** busca una reacción en tu cocina.",
 "truco": "Lo que entra es lo que sale: mismos átomos antes y después.",
 "practica": {
 "ejercicio": "Balancea: $\\ce{N2 + H2 -> NH3}$",
@@ -60,7 +60,7 @@
 ],
 "contenido": {
 "idea": "Piensa en el limón, que es agrio, y en el jabón, que es resbaloso y amargo. Si mezclas un poco de cada uno en las cantidades justas, se calman entre sí, como dos niños traviesos que se vuelven tranquilos al juntarse.",
-"pizarron": "**La ley:** un ácido libera $\\ce{H+}$ en agua, una base libera $\\ce{OH-}$, y juntos forman sal y agua.\n\n**Ácidos:** son agrios, como el limón. pH menor que 7.\n\n**Bases:** son resbalosas, como el jabón. pH mayor que 7.\n\n**Neutro:** pH 7, como el agua pura.\n\n**Neutralización:**\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$\n\nÁcido más base da sal más agua.\n\nPor eso un antiácido calma la acidez del estómago.\n\nNunca pruebes sustancias del laboratorio.\n\n**Para tu escuela:** clasifica: limón, jabón, vinagre y agua pura.",
+"pizarron": "**La ley:** un ácido libera $\\ce{H+}$ en agua, una base libera $\\ce{OH-}$, y juntos forman sal y agua.\n\n**Imagínalo:** el ácido y la base son rivales que se abrazan y se calman.\n\n**Ácidos:** son agrios, como el limón. pH menor que 7.\n\n**Bases:** son resbalosas, como el jabón. pH mayor que 7.\n\n**Neutro:** pH 7, como el agua pura.\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$\n\n**En palabras:** ácido más base da sal más agua. El $\\ce{H+}$ y el $\\ce{OH-}$ forman agua, y lo demás forma la sal.\n\n**Balancear:** un H por cada OH. Si el ácido tiene 2 H, necesita 2 NaOH.\n\nNunca pruebes sustancias del laboratorio.\n\n**Para tu escuela:** clasifica: limón, jabón, vinagre y agua pura.",
 "truco": "Ácido libera H+, base libera OH-; juntos hacen sal y agua.",
 "practica": {
 "ejercicio": "Escribe el producto de $\\ce{HNO3 + KOH}$.",
@@ -106,7 +106,7 @@
 ],
 "contenido": {
 "idea": "Imagina dos amigos jugando con canicas. Uno le regala canicas al otro. El que las da se queda con menos y el que las recibe se queda con más. En una reacción redox, las canicas son electrones que pasan de un átomo a otro.",
-"pizarron": "**La regla:** en una reacción redox, uno pierde electrones y otro los gana. Quien pierde se oxida. Quien gana se reduce.\n\nComo pasarse una pelota: uno la da y otro la recibe.\n\n**Número de oxidación:** dice si un átomo ganó o perdió. El oxígeno suele ser $-2$ y el hidrógeno $+1$.\n\n**Ejemplo:**\n\n$$\\ce{Zn + Cu^{2+} -> Zn^{2+} + Cu}$$\n\nEl zinc pierde electrones: se oxida.\n\nEl cobre gana electrones: se reduce.\n\n**Para tu escuela:** explica qué pasa cuando un clavo se oxida.",
+"pizarron": "**La regla:** en una reacción redox, uno pierde electrones y otro los gana. Quien pierde se oxida. Quien gana se reduce.\n\n**Imagínalo:** pasarse una pelota: uno la da y otro la recibe.\n\n**Número de oxidación:** dice si un átomo ganó o perdió. Oxígeno $-2$, hidrógeno $+1$ y elemento solo 0. Todo suma cero.\n\n**Ejemplo:** en $\\ce{SO3}$, 3 oxígenos dan $-6$. El S vale $+6$.\n\n$$\\ce{Zn + Cu^{2+} -> Zn^{2+} + Cu}$$\n\nEl zinc se oxida y el cobre se reduce.\n\n**Agente oxidante:** el que se reduce. **Agente reductor:** el que se oxida.\n\n**Para tu escuela:** explica qué pasa cuando un clavo se oxida.",
 "truco": "OIL RIG: Oxidación Is Loss, Reducción Is Gain (pierde y gana electrones).",
 "practica": {
 "ejercicio": "En $\\ce{Fe2O3}$, ¿cuál es el número de oxidación del Fe?",

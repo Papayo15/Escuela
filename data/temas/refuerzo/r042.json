@@ -1,362 +1,362 @@
 [
-  {
-    "nodo_id": "f6-125",
-    "titulo": "Adjetivos posesivos",
-    "slug": "adjetivos-posesivos-secundaria",
-    "palabras": [
-      "adjetivos posesivos",
-      "my",
-      "our",
-      "their",
-      "its"
-    ],
-    "contenido": {
-      "idea": "Las cosas de tu casa son tuyas, de tu familia o de tu vecino. Los adjetivos posesivos dicen a quién le pertenece cada una.",
-      "pizarron": "**La regla:** los posesivos concuerdan con el dueño y no cambian en plural.\n\n| Pronombre | Posesivo | Significado |\n|---|---|---|\n| I | my | mi |\n| you | your | tu o su |\n| he | his | su, de él |\n| she | her | su, de ella |\n| it | its | su, de eso |\n| we | our | nuestro |\n| they | their | su, de ellos |\n\nReglas:\n\n1. Van antes del sustantivo: *our school*.\n2. No cambian en plural: *their friends*.\n3. Concuerdan con el dueño: *Maria loves her father*.\n\nConfusiones comunes:\n\n- *its* (posesivo) y *it's* (*it is*).\n- *their* (posesivo), *there* (allí) y *they're* (*they are*).\n- *your* (posesivo) y *you're* (*you are*).",
-      "truco": "Si puedes decir it is, lleva apóstrofo; si no, its.",
-      "practica": {
-        "ejercicio": "Completa: *The dog wags ___ tail.*",
-        "respuesta": "*its*"
-      },
-      "analogias": [
-        {
-          "titulo": "El sello del dueño",
-          "texto": "Cada posesivo es un sello; se elige por quien posee, no por lo que se posee."
-        },
-        {
-          "titulo": "Sonido gemelo",
-          "texto": "There, their y they're suenan igual, como gemelos que se distinguen solo por su ropa escrita."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Completa: *We love ___ teacher.*",
-          "respuesta": "*our*"
-        },
-        {
-          "ejercicio": "Elige: *___ house is big* (their / there).",
-          "respuesta": "*Their*"
-        },
-        {
-          "ejercicio": "Elige: *___ raining* (its / it's).",
-          "respuesta": "*It's*"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-125",
-    "titulo": "Can para habilidades",
-    "slug": "can-para-habilidades-secundaria",
-    "palabras": [
-      "can",
-      "could",
-      "habilidad",
-      "permiso",
-      "modal"
-    ],
-    "contenido": {
-      "idea": "En una entrevista te preguntan qué sabes hacer. El modal can sirve para contar habilidades, pedir permiso y hablar de lo posible.",
-      "pizarron": "**La regla:** *can* no lleva *-s*, ni *do*, ni *to*; y su pasado es *could*.\n\n**Can** es un verbo modal.\n\nForma:\n\n- Afirmativo: *She can speak English*.\n- Negativo: *She cannot* o *can't speak French*.\n- Pregunta: *Can she drive?*\n- Respuesta corta: *Yes, she can*.\n\nReglas:\n\n1. No lleva -s con *he*, *she* o *it*.\n2. El verbo siguiente va en forma base, sin *to*.\n3. No usa *do* para preguntar o negar.\n\nUsos:\n\n- Habilidad: *I can swim*.\n- Permiso: *Can I go out?*\n- Posibilidad: *It can be cold in January*.\n\nPara habilidades en el pasado se usa **could**:\n\n*I could read when I was five*: sabía leer a los cinco años.",
-      "truco": "Can no pide do, ni -s, ni to.",
-      "practica": {
-        "ejercicio": "Corrige: *He cans to play guitar.*",
-        "respuesta": "*He can play guitar.*"
-      },
-      "analogias": [
-        {
-          "titulo": "Un verbo independiente",
-          "texto": "Can va por su cuenta: no necesita do ni cambia con he, y el otro verbo lo sigue."
-        },
-        {
-          "titulo": "El currículum",
-          "texto": "Una lista de frases con can resume lo que sabes hacer, igual que un currículum corto."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Pregunta si ella sabe conducir.",
-          "respuesta": "*Can she drive?*"
-        },
-        {
-          "ejercicio": "Pasa a pasado: *I can swim.*",
-          "respuesta": "*I could swim.*"
-        },
-        {
-          "ejercicio": "Niega: *They can dance.*",
-          "respuesta": "*They can't dance.*"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-125",
-    "titulo": "Imperativos en inglés",
-    "slug": "imperativos-en-ingles-secundaria",
-    "palabras": [
-      "imperativos",
-      "órdenes",
-      "instrucciones",
-      "don't",
-      "let's"
-    ],
-    "contenido": {
-      "idea": "Un entrenador grita corre, salta o no te detengas. En inglés las órdenes son aún más simples porque usan el verbo solo.",
-      "pizarron": "**La regla:** el imperativo es el verbo solo, sin persona. Para negar se usa *don't*.\n\nEl **imperativo** da órdenes, instrucciones o consejos.\n\n**Afirmativo**: el verbo en forma base, sin persona.\n\n- *Open the door*.\n- *Turn left*.\n- *Listen to me*.\n\n**Negativo**: *don't* + verbo.\n\n- *Don't run*.\n- *Don't touch that*.\n\n**Con cortesía**: agrega *please*.\n\n- *Please sit down*.\n\n**Para incluirte**: usa *let's*.\n\n- *Let's go*: vámonos.\n- *Let's not argue*: no discutamos.\n\nSe usan en recetas, instructivos, reglas y direcciones.",
-      "truco": "Quita la persona y dejas una orden lista.",
-      "practica": {
-        "ejercicio": "Di «No hables».",
-        "respuesta": "*Don't talk.*"
-      },
-      "analogias": [
-        {
-          "titulo": "El instructivo",
-          "texto": "Un manual dice conecta, enciende y espera: son imperativos que guían paso a paso."
-        },
-        {
-          "titulo": "El GPS",
-          "texto": "Turn left y go straight son órdenes breves que te llevan sin rodeos a tu destino."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di «Cierra la ventana, por favor».",
-          "respuesta": "*Please close the window.*"
-        },
-        {
-          "ejercicio": "Di «Vamos a estudiar».",
-          "respuesta": "*Let's study.*"
-        },
-        {
-          "ejercicio": "Niega: *Eat here.*",
-          "respuesta": "*Don't eat here.*"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-130",
-    "titulo": "Conectores and, but, because y so",
-    "slug": "conectores-and-but-because-y-so-secundaria",
-    "palabras": [
-      "conectores",
-      "linking words",
-      "and",
-      "but",
-      "because",
-      "so"
-    ],
-    "contenido": {
-      "idea": "Las frases sueltas son como vagones sin enganche. Los conectores las unen para que tu relato tenga sentido y fluya mejor.",
-      "pizarron": "**La regla:** *and* suma, *but* contrasta, *because* da la causa y *so* da el resultado.\n\n| Conector | Idea | Ejemplo |\n|---|---|---|\n| and | suma | I like pizza and tacos. |\n| but | contraste | I was tired, but I studied. |\n| because | causa | I stayed home because it rained. |\n| so | consecuencia | It rained, so I stayed home. |\n\nDiferencia clave:\n\n- *because* va antes de la **causa**.\n- *so* va antes de la **consecuencia**.\n\nFíjate cómo dos frases cuentan el mismo hecho:\n\n- *I was hungry, so I ate.*\n- *I ate because I was hungry.*\n\nSuele ponerse coma antes de *but* y *so* cuando unen dos oraciones completas.",
-      "truco": "Because trae la razón; so trae el resultado.",
-      "practica": {
-        "ejercicio": "Une: *I was late. I missed the bus.* usando *because*.",
-        "respuesta": "*I was late because I missed the bus.*"
-      },
-      "analogias": [
-        {
-          "titulo": "Vagones enganchados",
-          "texto": "Cada conector es un enganche distinto: uno suma, otro contrasta y otro explica el motivo."
-        },
-        {
-          "titulo": "Causa y efecto",
-          "texto": "Lluvia y charco van juntos: because mira hacia la lluvia y so mira hacia el charco."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Elige: *I like tea, ___ I don't like coffee.*",
-          "respuesta": "*but*"
-        },
-        {
-          "ejercicio": "Elige: *It was cold, ___ I wore a coat.*",
-          "respuesta": "*so*"
-        },
-        {
-          "ejercicio": "Elige: *He cried ___ he was sad.*",
-          "respuesta": "*because*"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-175",
-    "titulo": "Leer textos en inglés",
-    "slug": "leer-textos-en-ingles-prepa",
-    "palabras": [
-      "reading",
-      "skimming",
-      "scanning",
-      "comprensión lectora",
-      "cognados"
-    ],
-    "contenido": {
-      "idea": "Con una noticia larga primero miras los titulares y después buscas el dato que te importa. Leer en inglés se aprende con esas mismas estrategias.",
-      "pizarron": "**La regla:** usa *skimming* para la idea general y *scanning* para un dato.\n\n**Antes de leer**: revisa título, imágenes y tipo de texto.\n\n**Skimming**: lectura rápida para captar la idea general.\n\n**Scanning**: búsqueda rápida de un dato, como una fecha o un nombre.\n\n**Lectura detallada**: lee despacio para entender los argumentos.\n\nEstrategias:\n\n- **Cognados**: *information*, *important*, *different*.\n- **Falsos cognados**: *actually* (en realidad), *library* (biblioteca), *embarrassed* (avergonzado).\n- **Contexto**: deduce palabras por lo que las rodea.\n- **Conectores**: *however* (sin embargo), *therefore* (por lo tanto), *although* (aunque).\n- **Prefijos**: *un-* y *dis-* suelen negar: *unhappy*, *disagree*.\n\nEn cada párrafo, la idea principal suele estar en la primera oración.\n\n**Para recordar:**\n- **¿Qué expresa el prefijo de *unhappy*?** Negación: no feliz.",
-      "truco": "Skim para la idea; scan para el dato.",
-      "practica": {
-        "ejercicio": "Buscas una fecha en un artículo. ¿Haces skimming o scanning?",
-        "respuesta": "*Scanning.*"
-      },
-      "analogias": [
-        {
-          "titulo": "Vista aérea",
-          "texto": "Skimming es ver la ciudad desde un avión; scanning es buscar una sola calle en el mapa."
-        },
-        {
-          "titulo": "Pistas del detective",
-          "texto": "Las palabras vecinas son pistas: aunque una te falte, las demás te permiten deducirla."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa *actually*?",
-          "respuesta": "En realidad."
-        },
-        {
-          "ejercicio": "¿Qué significa *however*?",
-          "respuesta": "Sin embargo."
-        },
-        {
-          "ejercicio": "¿Qué expresa el prefijo de *unhappy*?",
-          "respuesta": "Negación: no feliz."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-175",
-    "titulo": "Escribir un correo en inglés",
-    "slug": "escribir-un-correo-en-ingles-prepa",
-    "palabras": [
-      "correo",
-      "email",
-      "formal",
-      "informal",
-      "writing"
-    ],
-    "contenido": {
-      "idea": "No le hablas igual a tu mejor amigo que a la directora. Un correo en inglés cambia de tono según quién lo va a leer.",
-      "pizarron": "**La regla:** un correo tiene asunto, saludo, motivo, detalles y cierre, y el tono depende de quién lo lee.\n\n**Partes de un correo**:\n\n1. *Subject*: asunto claro y breve.\n2. Saludo.\n3. Motivo del mensaje.\n4. Detalles.\n5. Cierre y firma.\n\n| Parte | Formal | Informal |\n|---|---|---|\n| Saludo | Dear Ms. Lopez, | Hi Ana, |\n| Motivo | I am writing to ask about... | Just a quick note about... |\n| Petición | Could you please send...? | Can you send...? |\n| Cierre | I look forward to hearing from you. | Talk soon! |\n| Despedida | Sincerely, | Best, |\n\nEn lo formal evita contracciones: escribe *I am*, no *I'm*.\n\nAntes de enviar, revisa nombres, fechas y archivos adjuntos (*attachments*).",
-      "truco": "Formal: Dear al abrir y Sincerely al cerrar.",
-      "practica": {
-        "ejercicio": "¿Qué saludo usas para escribirle a una directora?",
-        "respuesta": "*Dear Ms.* más su apellido."
-      },
-      "analogias": [
-        {
-          "titulo": "La ropa adecuada",
-          "texto": "El tono es como la ropa: traje para la entrevista y playera para reunirte con tus amigos."
-        },
-        {
-          "titulo": "La carta con sobre",
-          "texto": "El asunto es el sobre: dice de qué trata antes de abrirlo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Haz formal: *Can you send it?*",
-          "respuesta": "*Could you please send it?*"
-        },
-        {
-          "ejercicio": "¿Qué significa *subject* en un correo?",
-          "respuesta": "Asunto."
-        },
-        {
-          "ejercicio": "¿Debes usar contracciones en un correo formal?",
-          "respuesta": "No."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-175",
-    "titulo": "Reported questions",
-    "slug": "reported-questions-prepa",
-    "palabras": [
-      "reported questions",
-      "estilo indirecto",
-      "preguntas indirectas",
-      "asked if"
-    ],
-    "contenido": {
-      "idea": "Cuando le cuentas a alguien qué te preguntaron, no repites la pregunta tal cual. Cambias el orden, y así funciona en inglés.",
-      "pizarron": "**La regla:** al contar una pregunta se usa orden normal, sin *do* ni signo, y el verbo retrocede.\n\nLas **reported questions** cuentan una pregunta sin citarla.\n\nReglas:\n\n1. Usa *asked*.\n2. El orden deja de ser de pregunta: sujeto y luego verbo.\n3. El tiempo retrocede: presente pasa a pasado.\n4. Ya no lleva signo de interrogación.\n\n**Preguntas con palabra interrogativa**: conserva la palabra.\n\n- Directa: *\"Where do you live?\"*\n- Indirecta: *She asked where I lived.*\n\n**Preguntas de sí o no**: usa *if* o *whether*.\n\n- Directa: *\"Are you tired?\"*\n- Indirecta: *He asked if I was tired.*\n\nDesaparecen *do*, *does* y *did*.\n\n*Can* se vuelve *could* y *will* se vuelve *would*.",
-      "truco": "Sin signo, sin do y con if si es sí o no.",
-      "practica": {
-        "ejercicio": "Pasa a indirecta: *\"Do you like tea?\"*",
-        "respuesta": "*She asked if I liked tea.*"
-      },
-      "analogias": [
-        {
-          "titulo": "El mensajero",
-          "texto": "El mensajero no imita a quien preguntó; cuenta lo que le dijeron con sus propias palabras."
-        },
-        {
-          "titulo": "Recorrer el reloj",
-          "texto": "Como lo dicho ya pasó, cada verbo retrocede un paso en el tiempo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Pasa a indirecta: *\"Where is the bank?\"*",
-          "respuesta": "*He asked where the bank was.*"
-        },
-        {
-          "ejercicio": "Pasa a indirecta: *\"Can you help?\"*",
-          "respuesta": "*She asked if I could help.*"
-        },
-        {
-          "ejercicio": "Corrige: *He asked where did I go.*",
-          "respuesta": "*He asked where I went.*"
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-175",
-    "titulo": "Pronunciación de la terminación -ed",
-    "slug": "pronunciacion-de-la-terminacion-ed-prepa",
-    "palabras": [
-      "pronunciación",
-      "-ed",
-      "pasado regular",
-      "walked",
-      "wanted"
-    ],
-    "contenido": {
-      "idea": "La terminación -ed se escribe siempre igual, pero tiene tres sonidos. Saber cuál usar hace que tu pasado suene natural.",
-      "pizarron": "**La regla:** *-ed* suena /ɪd/ tras t o d, /t/ tras sonidos sordos, y /d/ en los demás casos.\n\nLa terminación **-ed** del pasado regular suena de tres maneras, según el sonido final del verbo.\n\n**1. Sonido /ɪd/**: verbo acabado en sonido *t* o *d*. Agrega una sílaba.\n\n- *wanted*, *needed*, *decided*.\n\n**2. Sonido /t/**: verbo acabado en sonido sordo, como *p*, *k*, *s*, *sh*, *ch*, *f*.\n\n- *walked* (uokt), *stopped*, *washed*, *watched*.\n\n**3. Sonido /d/**: los demás sonidos, incluidas vocales.\n\n- *played* (pleid), *called*, *lived*, *opened*.\n\nImporta el **sonido**, no la letra: *baked* termina en sonido *k*, aunque se escriba con *e* antes de *-ed*.\n\nError común: decir *walk-ed* con dos sílabas. Solo *t* y *d* agregan sílaba.",
-      "truco": "Solo t y d agregan sílaba: want-ed, need-ed.",
-      "practica": {
-        "ejercicio": "¿Cómo suena la -ed de *needed*?",
-        "respuesta": "/ɪd/, agrega una sílaba."
-      },
-      "analogias": [
-        {
-          "titulo": "Pon la mano en la garganta",
-          "texto": "Si no vibra al decir el sonido final, como en p o k, la -ed suena /t/."
-        },
-        {
-          "titulo": "Tres disfraces",
-          "texto": "La -ed siempre se ve igual en el papel, pero al salir de la boca se pone uno de tres disfraces."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuántas sílabas tiene *walked*?",
-          "respuesta": "Una."
-        },
-        {
-          "ejercicio": "¿Cómo suena la -ed de *played*?",
-          "respuesta": "/d/"
-        },
-        {
-          "ejercicio": "¿Cómo suena la -ed de *watched*?",
-          "respuesta": "/t/"
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-125",
+"titulo": "Adjetivos posesivos",
+"slug": "adjetivos-posesivos-secundaria",
+"palabras": [
+"adjetivos posesivos",
+"my",
+"our",
+"their",
+"its"
+],
+"contenido": {
+"idea": "Las cosas de tu casa son tuyas, de tu familia o de tu vecino. Los adjetivos posesivos dicen a quién le pertenece cada una.",
+"pizarron": "**La regla:** los posesivos concuerdan con el dueño y no cambian en plural.\n\n| Pronombre | Posesivo | Significado |\n|---|---|---|\n| I | my | mi |\n| you | your | tu o su |\n| he | his | su, de él |\n| she | her | su, de ella |\n| it | its | su, de eso |\n| we | our | nuestro |\n| they | their | su, de ellos |\n\nReglas:\n\n1. Van antes del sustantivo: *our school*.\n2. No cambian en plural: *their friends*.\n3. Concuerdan con el dueño: *Maria loves her father*.\n\nConfusiones comunes:\n\n- *its* (posesivo) y *it's* (*it is*).\n- *their* (posesivo), *there* (allí) y *they're* (*they are*).\n- *your* (posesivo) y *you're* (*you are*).\n\n**Para tu escuela:** escribe de quién son cinco cosas de tu familia.",
+"truco": "Si puedes decir it is, lleva apóstrofo; si no, its.",
+"practica": {
+"ejercicio": "Completa: *The dog wags ___ tail.*",
+"respuesta": "*its*"
+},
+"analogias": [
+{
+"titulo": "El sello del dueño",
+"texto": "Cada posesivo es un sello; se elige por quien posee, no por lo que se posee."
+},
+{
+"titulo": "Sonido gemelo",
+"texto": "There, their y they're suenan igual, como gemelos que se distinguen solo por su ropa escrita."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Completa: *We love ___ teacher.*",
+"respuesta": "*our*"
+},
+{
+"ejercicio": "Elige: *___ house is big* (their / there).",
+"respuesta": "*Their*"
+},
+{
+"ejercicio": "Elige: *___ raining* (its / it's).",
+"respuesta": "*It's*"
+}
+]
+}
+},
+{
+"nodo_id": "f6-125",
+"titulo": "Can para habilidades",
+"slug": "can-para-habilidades-secundaria",
+"palabras": [
+"can",
+"could",
+"habilidad",
+"permiso",
+"modal"
+],
+"contenido": {
+"idea": "En una entrevista te preguntan qué sabes hacer. El modal can sirve para contar habilidades, pedir permiso y hablar de lo posible.",
+"pizarron": "**La regla:** *can* no lleva *-s*, ni *do*, ni *to*; y su pasado es *could*.\n\n**Can** es un verbo modal.\n\nForma:\n\n- Afirmativo: *She can speak English*.\n- Negativo: *She cannot* o *can't speak French*.\n- Pregunta: *Can she drive?*\n- Respuesta corta: *Yes, she can*.\n\nReglas:\n\n1. No lleva -s con *he*, *she* o *it*.\n2. El verbo siguiente va en forma base, sin *to*.\n3. No usa *do* para preguntar o negar.\n\nUsos:\n\n- Habilidad: *I can swim*.\n- Permiso: *Can I go out?*\n- Posibilidad: *It can be cold in January*.\n\nPara habilidades en el pasado se usa **could**:\n\n*I could read when I was five*: sabía leer a los cinco años.\n\n**Para tu escuela:** pregunta en inglés a un compañero qué sabe hacer.",
+"truco": "Can no pide do, ni -s, ni to.",
+"practica": {
+"ejercicio": "Corrige: *He cans to play guitar.*",
+"respuesta": "*He can play guitar.*"
+},
+"analogias": [
+{
+"titulo": "Un verbo independiente",
+"texto": "Can va por su cuenta: no necesita do ni cambia con he, y el otro verbo lo sigue."
+},
+{
+"titulo": "El currículum",
+"texto": "Una lista de frases con can resume lo que sabes hacer, igual que un currículum corto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pregunta si ella sabe conducir.",
+"respuesta": "*Can she drive?*"
+},
+{
+"ejercicio": "Pasa a pasado: *I can swim.*",
+"respuesta": "*I could swim.*"
+},
+{
+"ejercicio": "Niega: *They can dance.*",
+"respuesta": "*They can't dance.*"
+}
+]
+}
+},
+{
+"nodo_id": "f6-125",
+"titulo": "Imperativos en inglés",
+"slug": "imperativos-en-ingles-secundaria",
+"palabras": [
+"imperativos",
+"órdenes",
+"instrucciones",
+"don't",
+"let's"
+],
+"contenido": {
+"idea": "Un entrenador grita corre, salta o no te detengas. En inglés las órdenes son aún más simples porque usan el verbo solo.",
+"pizarron": "**La regla:** el imperativo es el verbo solo, sin persona. Para negar se usa *don't*.\n\nEl **imperativo** da órdenes, instrucciones o consejos.\n\n**Afirmativo**: el verbo en forma base, sin persona.\n\n- *Open the door*.\n- *Turn left*.\n- *Listen to me*.\n\n**Negativo**: *don't* + verbo.\n\n- *Don't run*.\n- *Don't touch that*.\n\n**Con cortesía**: agrega *please*.\n\n- *Please sit down*.\n\n**Para incluirte**: usa *let's*.\n\n- *Let's go*: vámonos.\n- *Let's not argue*: no discutamos.\n\nSe usan en recetas, instructivos, reglas y direcciones.\n\n**Para tu escuela:** escribe en inglés las reglas de tu salón.",
+"truco": "Quita la persona y dejas una orden lista.",
+"practica": {
+"ejercicio": "Di «No hables».",
+"respuesta": "*Don't talk.*"
+},
+"analogias": [
+{
+"titulo": "El instructivo",
+"texto": "Un manual dice conecta, enciende y espera: son imperativos que guían paso a paso."
+},
+{
+"titulo": "El GPS",
+"texto": "Turn left y go straight son órdenes breves que te llevan sin rodeos a tu destino."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di «Cierra la ventana, por favor».",
+"respuesta": "*Please close the window.*"
+},
+{
+"ejercicio": "Di «Vamos a estudiar».",
+"respuesta": "*Let's study.*"
+},
+{
+"ejercicio": "Niega: *Eat here.*",
+"respuesta": "*Don't eat here.*"
+}
+]
+}
+},
+{
+"nodo_id": "f6-130",
+"titulo": "Conectores and, but, because y so",
+"slug": "conectores-and-but-because-y-so-secundaria",
+"palabras": [
+"conectores",
+"linking words",
+"and",
+"but",
+"because",
+"so"
+],
+"contenido": {
+"idea": "Las frases sueltas son como vagones sin enganche. Los conectores las unen para que tu relato tenga sentido y fluya mejor.",
+"pizarron": "**La regla:** *and* suma, *but* contrasta, *because* da la causa y *so* da el resultado.\n\n| Conector | Idea | Ejemplo |\n|---|---|---|\n| and | suma | I like pizza and tacos. |\n| but | contraste | I was tired, but I studied. |\n| because | causa | I stayed home because it rained. |\n| so | consecuencia | It rained, so I stayed home. |\n\nDiferencia clave:\n\n- *because* va antes de la **causa**.\n- *so* va antes de la **consecuencia**.\n\nFíjate cómo dos frases cuentan el mismo hecho:\n\n- *I was hungry, so I ate.*\n- *I ate because I was hungry.*\n\nSuele ponerse coma antes de *but* y *so* cuando unen dos oraciones completas.\n\n**Para tu escuela:** une dos ideas de tu día con *because*.",
+"truco": "Because trae la razón; so trae el resultado.",
+"practica": {
+"ejercicio": "Une: *I was late. I missed the bus.* usando *because*.",
+"respuesta": "*I was late because I missed the bus.*"
+},
+"analogias": [
+{
+"titulo": "Vagones enganchados",
+"texto": "Cada conector es un enganche distinto: uno suma, otro contrasta y otro explica el motivo."
+},
+{
+"titulo": "Causa y efecto",
+"texto": "Lluvia y charco van juntos: because mira hacia la lluvia y so mira hacia el charco."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Elige: *I like tea, ___ I don't like coffee.*",
+"respuesta": "*but*"
+},
+{
+"ejercicio": "Elige: *It was cold, ___ I wore a coat.*",
+"respuesta": "*so*"
+},
+{
+"ejercicio": "Elige: *He cried ___ he was sad.*",
+"respuesta": "*because*"
+}
+]
+}
+},
+{
+"nodo_id": "ems-175",
+"titulo": "Leer textos en inglés",
+"slug": "leer-textos-en-ingles-prepa",
+"palabras": [
+"reading",
+"skimming",
+"scanning",
+"comprensión lectora",
+"cognados"
+],
+"contenido": {
+"idea": "Con una noticia larga primero miras los titulares y después buscas el dato que te importa. Leer en inglés se aprende con esas mismas estrategias.",
+"pizarron": "**La regla:** usa *skimming* para la idea general y *scanning* para un dato.\n\n**Antes de leer**: revisa título, imágenes y tipo de texto.\n\n**Skimming**: lectura rápida para captar la idea general.\n\n**Scanning**: búsqueda rápida de un dato, como una fecha o un nombre.\n\n**Lectura detallada**: lee despacio para entender los argumentos.\n\nEstrategias:\n\n- **Cognados**: *information*, *important*, *different*.\n- **Falsos cognados**: *actually* (en realidad), *library* (biblioteca), *embarrassed* (avergonzado).\n- **Contexto**: deduce palabras por lo que las rodea.\n- **Conectores**: *however* (sin embargo), *therefore* (por lo tanto), *although* (aunque).\n- **Prefijos**: *un-* y *dis-* suelen negar: *unhappy*, *disagree*.\n\nEn cada párrafo, la idea principal suele estar en la primera oración.\n\n**Prefijo *un-*:** significa *no*. *Unhappy* es no feliz.\n\n**Para tu escuela:** lee una noticia corta y di su idea general.",
+"truco": "Skim para la idea; scan para el dato.",
+"practica": {
+"ejercicio": "Buscas una fecha en un artículo. ¿Haces skimming o scanning?",
+"respuesta": "*Scanning.*"
+},
+"analogias": [
+{
+"titulo": "Vista aérea",
+"texto": "Skimming es ver la ciudad desde un avión; scanning es buscar una sola calle en el mapa."
+},
+{
+"titulo": "Pistas del detective",
+"texto": "Las palabras vecinas son pistas: aunque una te falte, las demás te permiten deducirla."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa *actually*?",
+"respuesta": "En realidad."
+},
+{
+"ejercicio": "¿Qué significa *however*?",
+"respuesta": "Sin embargo."
+},
+{
+"ejercicio": "¿Qué expresa el prefijo de *unhappy*?",
+"respuesta": "Negación: no feliz."
+}
+]
+}
+},
+{
+"nodo_id": "ems-175",
+"titulo": "Escribir un correo en inglés",
+"slug": "escribir-un-correo-en-ingles-prepa",
+"palabras": [
+"correo",
+"email",
+"formal",
+"informal",
+"writing"
+],
+"contenido": {
+"idea": "No le hablas igual a tu mejor amigo que a la directora. Un correo en inglés cambia de tono según quién lo va a leer.",
+"pizarron": "**La regla:** un correo tiene asunto, saludo, motivo, detalles y cierre, y el tono depende de quién lo lee.\n\n**Partes de un correo**:\n\n1. *Subject*: asunto claro y breve.\n2. Saludo.\n3. Motivo del mensaje.\n4. Detalles.\n5. Cierre y firma.\n\n| Parte | Formal | Informal |\n|---|---|---|\n| Saludo | Dear Ms. Lopez, | Hi Ana, |\n| Motivo | I am writing to ask about... | Just a quick note about... |\n| Petición | Could you please send...? | Can you send...? |\n| Cierre | I look forward to hearing from you. | Talk soon! |\n| Despedida | Sincerely, | Best, |\n\nEn lo formal evita contracciones: escribe *I am*, no *I'm*.\n\nAntes de enviar, revisa nombres, fechas y archivos adjuntos (*attachments*).\n\n**Para tu escuela:** escribe un correo a un maestro imaginario.",
+"truco": "Formal: Dear al abrir y Sincerely al cerrar.",
+"practica": {
+"ejercicio": "¿Qué saludo usas para escribirle a una directora?",
+"respuesta": "*Dear Ms.* más su apellido."
+},
+"analogias": [
+{
+"titulo": "La ropa adecuada",
+"texto": "El tono es como la ropa: traje para la entrevista y playera para reunirte con tus amigos."
+},
+{
+"titulo": "La carta con sobre",
+"texto": "El asunto es el sobre: dice de qué trata antes de abrirlo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Haz formal: *Can you send it?*",
+"respuesta": "*Could you please send it?*"
+},
+{
+"ejercicio": "¿Qué significa *subject* en un correo?",
+"respuesta": "Asunto."
+},
+{
+"ejercicio": "¿Debes usar contracciones en un correo formal?",
+"respuesta": "No."
+}
+]
+}
+},
+{
+"nodo_id": "ems-175",
+"titulo": "Reported questions",
+"slug": "reported-questions-prepa",
+"palabras": [
+"reported questions",
+"estilo indirecto",
+"preguntas indirectas",
+"asked if"
+],
+"contenido": {
+"idea": "Cuando le cuentas a alguien qué te preguntaron, no repites la pregunta tal cual. Cambias el orden, y así funciona en inglés.",
+"pizarron": "**La regla:** al contar una pregunta se usa orden normal, sin *do* ni signo, y el verbo retrocede.\n\nLas **reported questions** cuentan una pregunta sin citarla.\n\nReglas:\n\n1. Usa *asked*.\n2. El orden deja de ser de pregunta: sujeto y luego verbo.\n3. El tiempo retrocede: presente pasa a pasado.\n4. Ya no lleva signo de interrogación.\n\n**Preguntas con palabra interrogativa**: conserva la palabra.\n\n- Directa: *\"Where do you live?\"*\n- Indirecta: *She asked where I lived.*\n\n**Preguntas de sí o no**: usa *if* o *whether*.\n\n- Directa: *\"Are you tired?\"*\n- Indirecta: *He asked if I was tired.*\n\nDesaparecen *do*, *does* y *did*.\n\n*Can* se vuelve *could* y *will* se vuelve *would*.\n\n**Para tu escuela:** cuenta en inglés qué te preguntó un amigo.",
+"truco": "Sin signo, sin do y con if si es sí o no.",
+"practica": {
+"ejercicio": "Pasa a indirecta: *\"Do you like tea?\"*",
+"respuesta": "*She asked if I liked tea.*"
+},
+"analogias": [
+{
+"titulo": "El mensajero",
+"texto": "El mensajero no imita a quien preguntó; cuenta lo que le dijeron con sus propias palabras."
+},
+{
+"titulo": "Recorrer el reloj",
+"texto": "Como lo dicho ya pasó, cada verbo retrocede un paso en el tiempo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Pasa a indirecta: *\"Where is the bank?\"*",
+"respuesta": "*He asked where the bank was.*"
+},
+{
+"ejercicio": "Pasa a indirecta: *\"Can you help?\"*",
+"respuesta": "*She asked if I could help.*"
+},
+{
+"ejercicio": "Corrige: *He asked where did I go.*",
+"respuesta": "*He asked where I went.*"
+}
+]
+}
+},
+{
+"nodo_id": "ems-175",
+"titulo": "Pronunciación de la terminación -ed",
+"slug": "pronunciacion-de-la-terminacion-ed-prepa",
+"palabras": [
+"pronunciación",
+"-ed",
+"pasado regular",
+"walked",
+"wanted"
+],
+"contenido": {
+"idea": "La terminación -ed se escribe siempre igual, pero tiene tres sonidos. Saber cuál usar hace que tu pasado suene natural.",
+"pizarron": "**La regla:** *-ed* suena /ɪd/ tras t o d, /t/ tras sonidos sordos, y /d/ en los demás casos.\n\nLa terminación **-ed** del pasado regular suena de tres maneras, según el sonido final del verbo.\n\n**1. Sonido /ɪd/**: verbo acabado en sonido *t* o *d*. Agrega una sílaba.\n\n- *wanted*, *needed*, *decided*.\n\n**2. Sonido /t/**: verbo acabado en sonido sordo, como *p*, *k*, *s*, *sh*, *ch*, *f*.\n\n- *walked* (uokt), *stopped*, *washed*, *watched*.\n\n**3. Sonido /d/**: los demás sonidos, incluidas vocales.\n\n- *played* (pleid), *called*, *lived*, *opened*.\n\nImporta el **sonido**, no la letra: *baked* termina en sonido *k*, aunque se escriba con *e* antes de *-ed*.\n\nError común: decir *walk-ed* con dos sílabas. Solo *t* y *d* agregan sílaba.\n\n**Para tu escuela:** lee en voz alta *worked*, *played* y *wanted*.",
+"truco": "Solo t y d agregan sílaba: want-ed, need-ed.",
+"practica": {
+"ejercicio": "¿Cómo suena la -ed de *needed*?",
+"respuesta": "/ɪd/, agrega una sílaba."
+},
+"analogias": [
+{
+"titulo": "Pon la mano en la garganta",
+"texto": "Si no vibra al decir el sonido final, como en p o k, la -ed suena /t/."
+},
+{
+"titulo": "Tres disfraces",
+"texto": "La -ed siempre se ve igual en el papel, pero al salir de la boca se pone uno de tres disfraces."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántas sílabas tiene *walked*?",
+"respuesta": "Una."
+},
+{
+"ejercicio": "¿Cómo suena la -ed de *played*?",
+"respuesta": "/d/"
+},
+{
+"ejercicio": "¿Cómo suena la -ed de *watched*?",
+"respuesta": "/t/"
+}
+]
+}
+}
 ]

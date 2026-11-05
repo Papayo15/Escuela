@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Una literal es una caja cerrada con un número adentro. No sabes cuál es todavía, pero puedes hablar de la caja y hacer cuentas con ella.",
-"pizarron": "**Qué es:** una literal es una letra que representa un número.\n\nUna **literal** es una letra que representa un número.\n\n- Puede ser una **incógnita**, un valor que se busca: $x + 3 = 7$.\n- Puede ser una **variable**, un valor que cambia: $P = 4l$.\n\nPartes de un término como $5x^2$:\n\n- **Coeficiente**: 5.\n- **Literal**: $x$.\n- **Exponente**: 2.\n\nConvenciones:\n\n- $5x$ significa $5 \\times x$.\n- $x$ significa $1x$.\n- $-x$ significa $-1x$.\n- $xy$ significa $x \\times y$.\n\nEjemplo: si un cuaderno cuesta $c$ pesos, 3 cuadernos cuestan $3c$.",
+"pizarron": "**Qué es:** una literal es una letra que representa un número.\n\n**Imagínalo:** es una caja con un número adentro. Puede ser una incógnita, que se busca, o una variable, que cambia.\n\n**Partes de $5x^2$:**\n\n- **Coeficiente:** 5.\n- **Literal:** $x$.\n- **Exponente:** 2.\n\n**Acuerdos:**\n\n- $5x$ es $5 \\times x$.\n- $x$ es $1x$.\n- $-x$ es $-1x$.\n- $xy$ es $x \\times y$.\n\n**Ejemplo:** 3 cuadernos de $c$ pesos cuestan $3c$.\n\n**Para tu escuela:** escribe con letras el precio de 2 tortas.",
 "truco": "Letra pegada a un número significa multiplicación.",
 "practica": {
 "ejercicio": "En $-7y^3$, ¿cuál es el coeficiente?",
@@ -56,7 +56,7 @@
 ],
 "contenido": {
 "idea": "Manzanas con manzanas, peras con peras. En álgebra, solo se juntan los términos que son de la misma fruta: misma letra con mismo exponente.",
-"pizarron": "**Qué es:** los términos semejantes tienen las mismas letras con los mismos exponentes.\n\nDos términos son **semejantes** si tienen las **mismas literales con los mismos exponentes**.\n\nSemejantes:\n\n- $3x$ y $-7x$\n- $2x^2$ y $9x^2$\n- $4ab$ y $-ab$\n\nNo semejantes:\n\n- $3x$ y $3x^2$: distinto exponente.\n- $2x$ y $2y$: distinta literal.\n- $5x$ y $5$: uno no tiene literal.\n\nEl coeficiente no importa: puede ser cualquiera.\n\nEl orden de las letras no cambia nada: $ab$ y $ba$ son semejantes.\n\nLos números solos (constantes) son semejantes entre sí.",
+"pizarron": "**Qué es:** los términos semejantes tienen las mismas letras con los mismos exponentes.\n\n**Imagínalo:** son de la misma familia, aunque traigan distinto número adelante.\n\n**Semejantes:**\n\n- $3x$ y $-7x$.\n- $2x^2$ y $9x^2$.\n- $4ab$ y $-ab$.\n\n**No semejantes:**\n\n- $3x$ y $3x^2$: distinto exponente.\n- $2x$ y $2y$: distinta letra.\n- $5x$ y 5: uno no tiene letra.\n\nEl número de adelante no importa.\n\n**Para tu escuela:** agrupa tarjetas por familia.",
 "truco": "Misma letra, mismo exponente: son de la misma familia.",
 "practica": {
 "ejercicio": "¿Son semejantes $6x^2y$ y $-x^2y$?",
@@ -100,7 +100,7 @@
 ],
 "contenido": {
 "idea": "Reducir es ordenar la mochila: juntas lápices con lápices y libros con libros. Al final tienes menos montones y todo más claro.",
-"pizarron": "**La regla:** se suman o restan los coeficientes y la parte literal se queda igual.\n\nPara **reducir**:\n\n1. Identifica los términos semejantes.\n2. Suma o resta sus **coeficientes**.\n3. Conserva la literal igual.\n\nEjemplo:\n\n$$3x + 5y - x + 2y$$\n\n- $3x - x = 2x$\n- $5y + 2y = 7y$\n- Resultado: $2x + 7y$\n\nEjemplo:\n\n$$4a^2 + 3a - a^2 + 7 - 5a$$\n\n- $4a^2 - a^2 = 3a^2$\n- $3a - 5a = -2a$\n- Queda $3a^2 - 2a + 7$\n\nLos exponentes **no cambian** al sumar: $2x + 3x = 5x$, no $5x^2$.",
+"pizarron": "**La regla:** se suman o restan los coeficientes y la parte literal se queda igual.\n\n**Imagínalo:** ordenas fichas por forma. Las $x$ con las $x$ y las $y$ con las $y$.\n\n**Ejemplo:** $3x + 5y - x + 2y$.\n\n- $3x - x = 2x$.\n- $5y + 2y = 7y$.\n- Queda $2x + 7y$.\n\n**Con potencias:** $x^2$ y $x$ son distintos.\n\n$4a^2 + 3a - a^2 - 5a = 3a^2 - 2a$.\n\nLos exponentes no cambian al sumar: $2x + 3x = 5x$.\n\nLos números solos se juntan entre sí.\n\n**Para tu escuela:** separa fichas de dos colores y cuenta.",
 "truco": "Solo cambian los números de adelante; la letra se queda igual.",
 "practica": {
 "ejercicio": "Reduce $7x + 2 - 3x + 8$.",
@@ -144,7 +144,7 @@
 ],
 "contenido": {
 "idea": "Una expresión es una receta con ingredientes por definir. Cuando te dicen cuánto vale cada letra, solo sustituyes y cocinas el número.",
-"pizarron": "**La regla:** se cambia cada letra por su número y se resuelve la operación.\n\nEl **valor numérico** se obtiene al sustituir las literales por números.\n\nPasos:\n\n1. Escribe la expresión.\n2. Cambia cada letra por su valor, **entre paréntesis**.\n3. Resuelve con la jerarquía.\n\nEjemplo: $3x^2 - 2x + 1$ con $x = -2$.\n\n$$3(-2)^2 - 2(-2) + 1$$\n\n$$= 3(4) + 4 + 1 = 12 + 4 + 1 = 17$$\n\nLos paréntesis evitan errores con negativos.\n\nEjemplo de uso: área $A = \\frac{bh}{2}$ con $b = 6$ y $h = 5$ da $A = 15$.",
+"pizarron": "**La regla:** se cambia cada letra por su número y se resuelve la operación.\n\n**Imagínalo:** la letra es un asiento apartado. Llega el número y se sienta.\n\n**Pasos:**\n\n1. Copia la expresión.\n2. Pon el número entre paréntesis.\n3. Resuelve en orden.\n\n**Ejemplo:** $3x^2 - 2x + 1$ con $x = -2$.\n\n$$3(4) + 4 + 1 = 17$$\n\n**Cuidado:** en $-x^2$, primero el cuadrado y luego el menos. Con 2: $-4$.\n\n**Fórmulas:** área $A = \\frac{bh}{2}$ con 6 y 5: 15.\n\n**Para tu escuela:** calcula el perímetro $4l$ de un cuadrado de tu salón.",
 "truco": "Letra sale, número entra con paréntesis.",
 "practica": {
 "ejercicio": "Evalúa $2x + 5$ con $x = 4$.",
@@ -187,7 +187,7 @@
 ],
 "contenido": {
 "idea": "Un signo menos frente al paréntesis es como un interruptor: cambia el estado de todo lo que hay adentro. Un signo más no cambia nada.",
-"pizarron": "**La regla:** con un más antes del paréntesis, los signos se quedan; con un menos, todos cambian.\n\nReglas:\n\n- Paréntesis con **+**: se quita sin cambiar signos.\n\n$$+(3x - 2) = 3x - 2$$\n\n- Paréntesis con **-**: se quita **cambiando todos los signos**.\n\n$$-(3x - 2) = -3x + 2$$\n\nEjemplo:\n\n$$5x - (2x - 7) + (x + 1)$$\n\n1. Quita paréntesis: $5x - 2x + 7 + x + 1$\n2. Reduce: $4x + 8$\n\nError común: cambiar solo el primer signo. El menos afecta a **todos** los términos.",
+"pizarron": "**La regla:** con un más antes del paréntesis, los signos se quedan; con un menos, todos cambian.\n\n**Imagínalo:** un menos afuera es un espejo: voltea todo lo de adentro.\n\n**Con más:** $+(3x - 2) = 3x - 2$.\n\n**Con menos:** $-(3x - 2) = -3x + 2$.\n\n**Ejemplo:** $5x - (2x - 7) + (x + 1)$.\n\n1. Quita paréntesis: $5x - 2x + 7 + x + 1$.\n2. Junta: $4x + 8$.\n\n**Error común:** cambiar solo el primer signo.\n\n**Para tu escuela:** explica el espejo con $-(a + b)$.",
 "truco": "Menos afuera voltea todos los signos de adentro.",
 "practica": {
 "ejercicio": "Simplifica $8 - (x - 3)$.",
@@ -230,7 +230,7 @@
 ],
 "contenido": {
 "idea": "Si un maestro saluda a un grupo de niñas y niños, saluda a cada quien. El número de afuera multiplica a todos los que están dentro.",
-"pizarron": "**La regla:** $a(b + c) = ab + ac$: lo de afuera multiplica a todo lo de adentro.\n\nLa **propiedad distributiva**:\n\n$$a(b + c) = ab + ac$$\n\nEjemplos:\n\n- $3(x + 4) = 3x + 12$\n- $-2(5y - 1) = -10y + 2$\n- $x(x + 7) = x^2 + 7x$\n\nCuidado con los signos: el factor con signo multiplica a cada término.\n\nCombinada:\n\n$$2(x + 3) - 4(x - 1) = 2x + 6 - 4x + 4 = -2x + 10$$\n\nSirve para cálculo mental:\n\n$$7 \\times 12 = 7(10 + 2) = 70 + 14 = 84$$",
+"pizarron": "**La regla:** $a(b + c) = ab + ac$: lo de afuera multiplica a todo lo de adentro.\n\n**Imagínalo:** a 3 amigos les das un dulce y una paleta. Repartes 3 dulces y 3 paletas.\n\n**Ejemplos:**\n\n- $3(x + 4) = 3x + 12$.\n- $-2(5y - 1) = -10y + 2$.\n- $x(x + 7) = x^2 + 7x$.\n\nEl signo de afuera también se reparte.\n\n**Cálculo mental:** $7 \\times 12 = 7(10 + 2) = 84$.\n\n**Para tu escuela:** calcula $6 \\times 15$ partiendo el 15 en 10 y 5.",
 "truco": "El de afuera saluda a todos los de adentro.",
 "practica": {
 "ejercicio": "Desarrolla $4(2x - 3)$.",
@@ -274,7 +274,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar monomios son dos trabajos: los números entre sí y las letras entre sí. Cada grupo se resuelve por su lado.",
-"pizarron": "**La regla:** se multiplican los coeficientes y se suman los exponentes de letras iguales.\n\nPasos:\n\n1. Multiplica los coeficientes, con su signo.\n2. Multiplica las literales: si la base es igual, **suma exponentes**.\n\nEjemplo:\n\n$$(3x^2)(4x^5) = 12x^7$$\n\nEjemplo con varias letras:\n\n$$(-2a^2b)(5ab^3) = -10a^3b^4$$\n\nRecuerda que $x$ es $x^1$:\n\n$$(6x)(2x) = 12x^2$$\n\nDiferencia con la suma:\n\n- $2x + 3x = 5x$\n- $(2x)(3x) = 6x^2$\n\n**División**: divide coeficientes y resta exponentes.\n\n$$\\frac{12x^5}{3x^2} = 4x^3$$",
+"pizarron": "**La regla:** se multiplican los coeficientes y se suman los exponentes de letras iguales.\n\n**Imagínalo:** $x^2$ son 2 equis juntas. Con otras 3 equis ya son 5. Por eso se suman.\n\n**Pasos:**\n\n1. Multiplica los números, con su signo.\n2. Suma los exponentes de la misma letra.\n\n**Ejemplo:** $(3x^2)(4x^5) = 12x^7$.\n\n**Varias letras:** $(-2a^2b)(5ab^3) = -10a^3b^4$.\n\nUna letra sola tiene exponente 1: $(6x)(2x) = 12x^2$.\n\n**Diferencia:** $2x + 3x = 5x$, pero $(2x)(3x) = 6x^2$.\n\n**Dividir:** divide números y resta exponentes. $\\frac{12x^5}{3x^2} = 4x^3$.\n\n**Para tu escuela:** escribe $x^2 \\cdot x^3$ con todas sus equis.",
 "truco": "Números se multiplican; exponentes se suman.",
 "practica": {
 "ejercicio": "Multiplica $(5y^3)(2y)$.",
@@ -319,7 +319,7 @@
 ],
 "contenido": {
 "idea": "El álgebra es otro idioma. La frase el doble de un número aumentado en 3 se traduce como $2x + 3$, igual que traducir del español al inglés.",
-"pizarron": "**Qué es:** traducir es escribir una frase con letras y operaciones.\n\nDiccionario básico, con $x$ como el número:\n\n| Español | Álgebra |\n|---|---|\n| Un número | $x$ |\n| El doble | $2x$ |\n| El triple | $3x$ |\n| La mitad | $\\frac{x}{2}$ |\n| Aumentado en 5 | $x + 5$ |\n| Disminuido en 5 | $x - 5$ |\n| El cuadrado | $x^2$ |\n| Un número consecutivo | $x + 1$ |\n| Dos números que suman 20 | $x$ y $20 - x$ |\n\nCuidado con el orden:\n\n- *El doble de un número más 3*: $2x + 3$.\n- *El doble de la suma de un número y 3*: $2(x + 3)$.\n\n*5 menos que un número* es $x - 5$, no $5 - x$.",
+"pizarron": "**Qué es:** traducir es escribir una frase con letras y operaciones.\n\n**Imagínalo:** es un diccionario entre el español y las matemáticas.\n\n- Un número: $x$.\n- El doble: $2x$. El triple: $3x$.\n- La mitad: $\\frac{x}{2}$.\n- Aumentado en 5: $x + 5$.\n- Disminuido en 5: $x - 5$.\n- El cuadrado: $x^2$.\n- Consecutivos: $x$, $x + 1$.\n\n**Cuidado con el orden:**\n\n- *El doble de un número más 3*: $2x + 3$.\n- *El doble de la suma de un número y 3*: $2(x + 3)$.\n- *La suma de dos números*: $a + b$.\n\n**Para tu escuela:** traduce *el triple de tu edad*.",
 "truco": "La suma de, entre paréntesis; el doble del resultado, afuera.",
 "practica": {
 "ejercicio": "Traduce: el triple de un número disminuido en 4.",
@@ -363,7 +363,7 @@
 ],
 "contenido": {
 "idea": "Una ecuación es una balanza en equilibrio. Si quitas 3 kilos de un lado, debes quitar 3 del otro para que siga nivelada.",
-"pizarron": "**La regla:** lo que está sumando pasa al otro lado restando.\n\nUna **ecuación** es una igualdad con un valor desconocido. **Resolver** es encontrar ese valor.\n\nEjemplo: $x + 5 = 12$\n\n1. Queremos $x$ solo.\n2. Resta 5 en ambos lados:\n\n$$x + 5 - 5 = 12 - 5$$\n\n3. Resultado: $x = 7$.\n4. Comprueba: $7 + 5 = 12$. Correcto.\n\nCon resta: $x - 4 = 9$. Suma 4 en ambos lados: $x = 13$.\n\nAtajo común: *lo que está sumando pasa restando*. En realidad, estás aplicando la misma operación en ambos lados.",
+"pizarron": "**La regla:** lo que está sumando pasa al otro lado restando.\n\n**Imagínalo:** en una caja hay dulces, y con 5 más tienes 12. Quita 5 de los dos lados y sabrás cuántos había.\n\nUna **ecuación** es una igualdad con un valor desconocido. **Resolver** es encontrarlo.\n\n**Ejemplo:** $x + 5 = 12$. Resta 5: $x = 7$.\n\n**Comprueba:** $7 + 5 = 12$.\n\n**Con resta:** $x - 4 = 9$. Suma 4: $x = 13$.\n\n**Puede dar negativo:** $x + 6 = 1$ da $x = -5$.\n\n**Al revés:** $20 = x + 8$ es lo mismo que $x + 8 = 20$.\n\n**Para tu escuela:** esconde dulces y que un amigo adivine con una ecuación.",
 "truco": "Lo que haces en un lado, hazlo en el otro.",
 "practica": {
 "ejercicio": "Resuelve $x + 9 = 20$.",
@@ -407,7 +407,7 @@
 ],
 "contenido": {
 "idea": "Si 4 cuadernos cuestan 60 pesos en total, un cuaderno cuesta la cuarta parte. Dividir ambos lados encuentra el valor de uno.",
-"pizarron": "**La regla:** lo que está multiplicando pasa al otro lado dividiendo.\n\nSi la incógnita está **multiplicada**, divide ambos lados.\n\nEjemplo: $4x = 60$\n\n$$\\frac{4x}{4} = \\frac{60}{4}$$\n\n$$x = 15$$\n\nComprueba: $4(15) = 60$.\n\nCon negativos: $-3x = 12$.\n\n$$x = \\frac{12}{-3} = -4$$\n\nSi la incógnita está **dividida**, multiplica:\n\n$$\\frac{x}{5} = 7 \\Rightarrow x = 35$$\n\nCon fracción como coeficiente:\n\n$$\\frac{2}{3}x = 8 \\Rightarrow x = 8 \\times \\frac{3}{2} = 12$$",
+"pizarron": "**La regla:** lo que está multiplicando pasa al otro lado dividiendo.\n\n**Imagínalo:** 4 bolsas iguales tienen 60 dulces. Para saber cuánto trae una, repartes 60 entre 4.\n\n**Ejemplo:** $4x = 60$. Divide entre 4: $x = 15$.\n\n**Comprueba:** $4(15) = 60$.\n\n**Con negativos:** $-3x = 12$ da $x = -4$.\n\n**Si está dividida,** multiplica: $\\frac{x}{5} = 7$ da $x = 35$.\n\n**Con fracción:** $\\frac{2}{3}x = 8$. Multiplica por la fracción volteada: $8 \\times \\frac{3}{2} = 12$.\n\n**Para tu escuela:** escribe la ecuación de 5 cuadernos que cuestan 100 pesos.",
 "truco": "Si está multiplicando, divide; si está dividiendo, multiplica.",
 "practica": {
 "ejercicio": "Resuelve $7x = 56$.",

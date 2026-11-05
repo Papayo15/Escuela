@@ -1,469 +1,469 @@
 [
-  {
-    "nodo_id": "ems-129",
-    "titulo": "Hardware y software: cuerpo y mente",
-    "slug": "hardware-software-evolucion-prepa",
-    "palabras": [
-      "hardware",
-      "software",
-      "dispositivo",
-      "computadora",
-      "programas",
-      "evolución tecnológica"
-    ],
-    "contenido": {
-      "idea": "Un celular es como una persona: el hardware es su cuerpo (pantalla, batería, chip) y el software es lo que sabe hacer (las instrucciones). Un cuerpo sin ideas no hace nada, y las ideas sin cuerpo no se pueden usar.",
-      "pizarron": "**Qué es:** el hardware es lo que puedes tocar. El software son los programas.\n\nComo cuerpo y mente.\n\n**Hardware:** procesador, memoria y pantalla.\n\n**Software:** sistema operativo y aplicaciones.\n\n**Evolución:** las primeras computadoras llenaban un cuarto. Hoy caben en tu mano, gracias a los transistores.\n\n**Para recordar:**\n- **¿Qué diferencia hay entre un sistema operativo y una aplicación?** El sistema operativo administra el equipo y sus recursos; la aplicación realiza una tarea específica para el usuario.\n\n**Para tu escuela:** clasifica: teclado, navegador, memoria y Android.",
-      "truco": "Hardware se golpea, software se maldice.",
-      "practica": {
-        "ejercicio": "Clasifica como hardware o software: memoria USB, Excel, ratón, Android.",
-        "respuesta": "Memoria USB: hardware. Excel: software. Ratón: hardware. Android: software (sistema operativo)."
-      },
-      "analogias": [
-        {
-          "titulo": "El piano y la partitura",
-          "texto": "El piano es el hardware y la partitura es el software: sin partitura el piano no toca una canción, y sin piano la partitura no suena."
-        },
-        {
-          "titulo": "La cocina y la receta",
-          "texto": "La estufa, las ollas y los utensilios son el hardware; la receta paso a paso es el software que indica cómo usarlos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos componentes de hardware de una computadora y para qué sirven.",
-          "respuesta": "Ejemplo: la RAM guarda temporalmente los datos en uso; el procesador ejecuta las instrucciones."
-        },
-        {
-          "ejercicio": "¿Qué diferencia hay entre un sistema operativo y una aplicación?",
-          "respuesta": "El sistema operativo administra el equipo y sus recursos; la aplicación realiza una tarea específica para el usuario."
-        },
-        {
-          "ejercicio": "Da una ventaja y un problema de que los dispositivos se vuelvan obsoletos rápido.",
-          "respuesta": "Ventaja: mayor velocidad y funciones. Problema: más residuos electrónicos y gasto constante."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-130",
-    "titulo": "Licencias de software: privativas y libres",
-    "slug": "licencias-software-privativo-libre-prepa",
-    "palabras": [
-      "licencia",
-      "software libre",
-      "privativo",
-      "requerimientos",
-      "hardware",
-      "ciberespacio",
-      "copyright"
-    ],
-    "contenido": {
-      "idea": "Una licencia es como las reglas para usar un juguete prestado. Algunos juguetes solo puedes usarlos, sin abrirlos; otros te dejan abrirlos, cambiarlos y compartirlos con tus amigos.",
-      "pizarron": "**Qué es:** una licencia es el permiso que dice qué puedes hacer con un programa.\n\n**Privativa:** no puedes ver ni cambiar el código.\n\n**Libre:** puedes usar, estudiar, copiar y mejorar. Linux y LibreOffice.\n\nLibre no siempre significa gratis.\n\nAntes de instalar, revisa si tu equipo cumple los requisitos.\n\n**Para recordar:**\n- **¿Qué debes revisar antes de aceptar los términos de una licencia?** Qué usos permite, si puedes copiarla o modificarla, su costo y qué datos personales solicita.\n\n**Para tu escuela:** busca un programa libre para hacer presentaciones.",
-      "truco": "Privativo: solo usar. Libre: usar, estudiar, copiar y mejorar.",
-      "practica": {
-        "ejercicio": "¿Puede alguien vender un programa de licencia libre?",
-        "respuesta": "Sí, libre se refiere a las libertades del usuario, no al precio."
-      },
-      "analogias": [
-        {
-          "titulo": "Receta secreta o receta abierta",
-          "texto": "El software privativo es la receta secreta de un restaurante: pruebas el platillo, pero no sabes cómo se hace. El libre es una receta compartida que puedes cocinar y mejorar."
-        },
-        {
-          "titulo": "Boleto de cine o biblioteca",
-          "texto": "La licencia privativa se parece a un boleto de cine: solo entras bajo sus condiciones. La libre se parece a una biblioteca comunitaria donde puedes leer y copiar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona una diferencia entre licencia privativa y libre.",
-          "respuesta": "En la privativa no se tiene acceso al código ni permiso de modificarlo; en la libre sí."
-        },
-        {
-          "ejercicio": "Una app pide 4 GB de RAM y tu teléfono tiene 2 GB. ¿Qué requerimiento falla?",
-          "respuesta": "El de hardware: la memoria RAM es insuficiente."
-        },
-        {
-          "ejercicio": "¿Qué debes revisar antes de aceptar los términos de una licencia?",
-          "respuesta": "Qué usos permite, si puedes copiarla o modificarla, su costo y qué datos personales solicita."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-131",
-    "titulo": "Lenguaje algorítmico: pasos para resolver",
-    "slug": "lenguaje-algoritmico-prepa",
-    "palabras": [
-      "algoritmo",
-      "diagrama de flujo",
-      "pseudocódigo",
-      "entrada",
-      "proceso",
-      "salida",
-      "programación"
-    ],
-    "contenido": {
-      "idea": "Un algoritmo es como las instrucciones para hacer un sándwich: primero el pan, luego el jamón, al final lo cierras. Si cambias el orden o te saltas un paso, no sale bien.",
-      "pizarron": "**Qué es:** un algoritmo son pasos ordenados para resolver un problema, como una receta.\n\n1. **Entrada:** los datos.\n2. **Proceso:** lo que se hace.\n3. **Salida:** el resultado.\n\n**Condicional:** si pasa algo, haz esto.\n\n**Ciclo:** repite.\n\n**Ejemplo, promedio:** entrada 8 y 10. Proceso: $18 \\div 2$. Salida: 9.\n\n**Para tu escuela:** escribe el algoritmo para hacer un sándwich.",
-      "truco": "Entrada, proceso, salida: tres pasos y listo.",
-      "practica": {
-        "ejercicio": "Escribe un algoritmo para decidir si llevas paraguas.",
-        "respuesta": "1. Revisar el pronóstico. 2. Si hay lluvia, llevar paraguas. 3. Si no, no llevarlo. 4. Fin."
-      },
-      "analogias": [
-        {
-          "titulo": "La ruta del camión",
-          "texto": "Un algoritmo es como la ruta de un repartidor: puntos en orden, y si hay un bloqueo, toma una calle alterna."
-        },
-        {
-          "titulo": "El semáforo",
-          "texto": "Un semáforo decide con reglas: si está en rojo, para; si está en verde, avanza. Eso es un condicional."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Identifica entrada, proceso y salida: sumar 5 y 7 y mostrar el resultado.",
-          "respuesta": "Entrada: 5 y 7. Proceso: sumarlos. Salida: 12."
-        },
-        {
-          "ejercicio": "¿Qué figura de un diagrama de flujo representa una decisión?",
-          "respuesta": "El rombo."
-        },
-        {
-          "ejercicio": "Escribe un algoritmo para saber si un número es par.",
-          "respuesta": "1. Leer el número. 2. Dividirlo entre 2. 3. Si el residuo es 0, es par; si no, es impar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-132",
-    "titulo": "Software libre y alternativas a programas de patente",
-    "slug": "software-libre-alternativas-prepa",
-    "palabras": [
-      "software libre",
-      "alternativas",
-      "LibreOffice",
-      "GIMP",
-      "software como servicio",
-      "SaaS",
-      "patente"
-    ],
-    "contenido": {
-      "idea": "Es como elegir entre comprar siempre en una tienda de marca o probar el mercado de la colonia, donde hay cosas igual de buenas y que puedes usar sin pedir permiso.",
-      "pizarron": "**Qué es:** el software libre es una alternativa a los programas de pago.\n\n**Ejemplos:**\n\n- Office: **LibreOffice**.\n- Photoshop: **GIMP**.\n- Windows: **Linux**.\n\n**SaaS:** programas que usas por internet, a veces con pago mensual.\n\n**Compara:** costo, facilidad y privacidad.\n\n**Para recordar:**\n- **Software como servicio:** Un programa al que accedes por internet, normalmente por suscripción, sin instalarlo por completo en tu equipo.\n\n**Para tu escuela:** abre un archivo en dos programas y compara.",
-      "truco": "Antes de pagar, busca la alternativa libre.",
-      "practica": {
-        "ejercicio": "Nombra una alternativa libre para editar imágenes y otra para escribir documentos.",
-        "respuesta": "GIMP para imágenes y LibreOffice Writer para documentos."
-      },
-      "analogias": [
-        {
-          "titulo": "Comprar o rentar",
-          "texto": "El software de patente instalado es como comprar un coche; el SaaS es como rentarlo: lo usas mientras pagas y no es tuyo."
-        },
-        {
-          "titulo": "Huerto comunitario",
-          "texto": "El software libre es un huerto comunitario: todos pueden sembrar, mejorar y cosechar, y los vecinos aprenden unos de otros."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es el software como servicio?",
-          "respuesta": "Un programa al que accedes por internet, normalmente por suscripción, sin instalarlo por completo en tu equipo."
-        },
-        {
-          "ejercicio": "Menciona dos criterios para comparar un programa libre con uno de patente.",
-          "respuesta": "Por ejemplo: costo y compatibilidad de formatos; también privacidad o facilidad de uso."
-        },
-        {
-          "ejercicio": "Un compañero dice que lo libre es peor. Da un argumento.",
-          "respuesta": "Depende de la necesidad: muchas alternativas libres cubren las tareas básicas, son gratuitas y se pueden auditar y mejorar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-133",
-    "titulo": "Normas del ciberespacio y seguridad digital",
-    "slug": "normatividad-ciberespacio-seguridad-prepa",
-    "palabras": [
-      "ciberseguridad",
-      "normatividad",
-      "privacidad",
-      "datos personales",
-      "delitos informáticos",
-      "ciberacoso",
-      "contraseñas"
-    ],
-    "contenido": {
-      "idea": "Internet es como una gran plaza pública: hay reglas para convivir y cuidarnos. No entrarías a la casa de otro sin permiso, y en línea tampoco debes tomar lo que no es tuyo.",
-      "pizarron": "**Qué es:** en internet también hay reglas. Protegen tus datos y a las demás personas.\n\n**Buenas prácticas:**\n\n1. Contraseñas largas y distintas.\n2. Lee el aviso de privacidad.\n3. No subas fotos de otros sin permiso.\n4. Desconfía de enlaces raros.\n5. Reporta el acoso y guarda pruebas.\n\n**Para recordar:**\n- **¿Por qué no debes publicar la foto de un compañero sin su permiso?** Porque afecta su privacidad y puede dañarlo; se necesita su consentimiento.\n\n**Para tu escuela:** revisa una aplicación y di qué datos te pide.",
-      "truco": "Piensa, verifica y pide permiso antes de compartir.",
-      "practica": {
-        "ejercicio": "Recibes un mensaje que dice que ganaste un premio y pide tu contraseña. ¿Qué haces?",
-        "respuesta": "No respondes ni das datos; es phishing. Lo reportas y borras el mensaje."
-      },
-      "analogias": [
-        {
-          "titulo": "El reglamento de la escuela",
-          "texto": "Así como la escuela tiene reglas para que todos estén seguros, el ciberespacio tiene leyes para evitar abusos."
-        },
-        {
-          "titulo": "La llave de tu casa",
-          "texto": "Tu contraseña es la llave de tu casa: no se presta ni se deja a la vista, y conviene cambiarla si se pierde."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué no debes publicar la foto de un compañero sin su permiso?",
-          "respuesta": "Porque afecta su privacidad y puede dañarlo; se necesita su consentimiento."
-        },
-        {
-          "ejercicio": "Menciona dos características de una contraseña segura.",
-          "respuesta": "Que sea larga y combine letras, números y símbolos; también que no se repita en varias cuentas."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué harías si ves ciberacoso hacia un compañero? Criterios: no participar, apoyar, reportar.",
-          "respuesta": "No compartir ni comentar el acoso, apoyar a la persona afectada, guardar evidencia y reportarlo a un adulto o a la plataforma."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-134",
-    "titulo": "Uso responsable de recursos digitales",
-    "slug": "recursos-digitales-seguros-ambiente-prepa",
-    "palabras": [
-      "recursos digitales",
-      "uso responsable",
-      "medio ambiente",
-      "basura electrónica",
-      "seguridad",
-      "ciudadanía digital"
-    ],
-    "contenido": {
-      "idea": "Usar la tecnología es como usar la regadera: sirve mucho, pero si la dejas abierta sin necesidad desperdicias agua. Se aprovecha, pero con cuidado de ti y del planeta.",
-      "pizarron": "**Qué es:** es usar aplicaciones y redes con provecho, con seguridad y cuidando el ambiente.\n\n**Para qué:** comunicarte, estudiar y participar.\n\n**Seguridad:** cuida tus datos, verifica fuentes y cierra sesión.\n\n**Ambiente:** los aparatos gastan energía y dejan basura. Apaga lo que no uses y repara antes de cambiar.\n\n**Para recordar:**\n- **¿Por qué es mejor reparar un celular que desecharlo?** Se reduce la basura electrónica y el consumo de materiales y energía para fabricar uno nuevo.\n\n**Para tu escuela:** anota cuánto usas el teléfono hoy y pon un límite.",
-      "truco": "Úsalo con cuidado: tú, los demás y el planeta.",
-      "practica": {
-        "ejercicio": "Da una acción digital para cuidar el ambiente.",
-        "respuesta": "Ejemplo: llevar el celular viejo a reciclaje electrónico o apagar equipos que no uses."
-      },
-      "analogias": [
-        {
-          "titulo": "La alacena",
-          "texto": "Los recursos digitales son una alacena: tomas lo que necesitas, cuidas que no se eche a perder y no acabas con todo."
-        },
-        {
-          "titulo": "Conducir un coche",
-          "texto": "Usar internet es como manejar: conviene conocer las reglas, ir con precaución y no contaminar de más."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Clasifica: usar una plataforma para entregar una tarea.",
-          "respuesta": "Uso académico."
-        },
-        {
-          "ejercicio": "¿Por qué es mejor reparar un celular que desecharlo?",
-          "respuesta": "Se reduce la basura electrónica y el consumo de materiales y energía para fabricar uno nuevo."
-        },
-        {
-          "ejercicio": "Reflexiona: describe un hábito digital tuyo que podrías mejorar. Criterios: lo identificas, explicas por qué y propones un cambio concreto.",
-          "respuesta": "Respuesta personal; ejemplo: pasar horas en redes por la noche afecta el sueño, así que fijo un horario límite."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-135",
-    "titulo": "Resolver problemas con estrategias algorítmicas",
-    "slug": "problemas-algoritmicos-estrategia-prepa",
-    "palabras": [
-      "problema algorítmico",
-      "descomposición",
-      "patrones",
-      "abstracción",
-      "estrategia",
-      "pensamiento computacional"
-    ],
-    "contenido": {
-      "idea": "Si te piden limpiar toda la casa, te abrumas. Pero si haces una lista, cuarto por cuarto, sales adelante. Dividir un problema grande en partes pequeñas lo vuelve fácil.",
-      "pizarron": "**La regla:** un problema grande se resuelve partiéndolo en pasos pequeños.\n\n1. Entiende: ¿qué tengo y qué busco?\n2. Divide en partes.\n3. Busca lo que se repite.\n4. Quédate con lo importante.\n5. Escribe los pasos.\n6. Prueba.\n\n**Ejemplo:** 24 galletas entre 6 personas.\n\n$$24 \\div 6 = 4$$\n\nComprueba: $4 \\times 6 = 24$.\n\n**Para recordar:**\n- **¿Para qué sirve probar un algoritmo con casos de prueba?** Para detectar errores y confirmar que da el resultado correcto antes de usarlo.\n\n**Para tu escuela:** escribe los pasos para calcular tu promedio.",
-      "truco": "Entiende, divide, busca patrones, prueba.",
-      "practica": {
-        "ejercicio": "Descompón el problema \"organizar una fiesta\" en tres subproblemas.",
-        "respuesta": "Por ejemplo: lista de invitados, comida y bebida, lugar y música."
-      },
-      "analogias": [
-        {
-          "titulo": "Armar un rompecabezas",
-          "texto": "Se arma por partes: primero bordes, luego colores. Cada parte es un subproblema que ayuda a resolver el total."
-        },
-        {
-          "titulo": "Un mapa de ruta",
-          "texto": "Para ir a otra ciudad divides el viaje en tramos y reconoces patrones de señales, sin fijarte en cada detalle del paisaje."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Diseña un algoritmo para hallar el mayor de dos números.",
-          "respuesta": "1. Leer a y b. 2. Si a es mayor que b, la salida es a; si no, la salida es b."
-        },
-        {
-          "ejercicio": "Reparte 35 lápices entre 5 grupos en partes iguales. ¿Cuántos recibe cada uno?",
-          "respuesta": "$35 \\div 5 = 7$ lápices por grupo."
-        },
-        {
-          "ejercicio": "¿Para qué sirve probar un algoritmo con casos de prueba?",
-          "respuesta": "Para detectar errores y confirmar que da el resultado correcto antes de usarlo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-136",
-    "titulo": "Impacto social de las tecnologías digitales",
-    "slug": "impacto-tecnologias-digitales-prepa",
-    "palabras": [
-      "brecha digital",
-      "impacto social",
-      "acceso a la información",
-      "políticas de información",
-      "comunidad",
-      "pensamiento crítico"
-    ],
-    "contenido": {
-      "idea": "La tecnología es como una carretera nueva en el pueblo: acerca a la gente y trae cosas buenas, pero si solo llega a unas colonias, otras se quedan atrás.",
-      "pizarron": "**Qué es:** la tecnología cambia cómo trabajamos, estudiamos y convivimos.\n\n**Lo bueno:** información, educación a distancia y trámites.\n\n**Lo malo:** noticias falsas, adicción y ciberacoso.\n\n**Brecha digital:** no todos tienen internet.\n\n**Pregunta:** ¿a quién beneficia?, ¿a quién deja fuera?\n\n**Para recordar:**\n- **Brecha digital:** Es la desigualdad en el acceso a internet y dispositivos; ejemplo: una comunidad rural sin conexión no puede tomar clases en línea.\n- **Política de gestión de la información:** Un conjunto de reglas sobre cómo se produce, comparte, protege y se accede a la información.\n\n**Para tu escuela:** anota un beneficio y un riesgo de tu teléfono.",
-      "truco": "Pregunta siempre: ¿a quién ayuda y a quién deja fuera?",
-      "practica": {
-        "ejercicio": "Define brecha digital con un ejemplo.",
-        "respuesta": "Es la desigualdad en el acceso a internet y dispositivos; ejemplo: una comunidad rural sin conexión no puede tomar clases en línea."
-      },
-      "analogias": [
-        {
-          "titulo": "El agua entubada",
-          "texto": "La información es como el agua entubada: mejora la vida si llega a todos, pero si solo llega a unos hay desigualdad."
-        },
-        {
-          "titulo": "El cuchillo de cocina",
-          "texto": "Una herramienta sirve para cocinar o para dañar; el impacto depende de cómo y quién la usa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona un beneficio y un riesgo de las redes sociales para una comunidad.",
-          "respuesta": "Beneficio: organizar ayuda rápida. Riesgo: difundir noticias falsas."
-        },
-        {
-          "ejercicio": "¿Qué es una política de gestión de la información?",
-          "respuesta": "Un conjunto de reglas sobre cómo se produce, comparte, protege y se accede a la información."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿cómo afectaría a tu comunidad quedarse sin internet una semana? Criterios: da al menos dos efectos y una solución.",
-          "respuesta": "Respuesta personal; ejemplo: se complican tareas y trámites, y se podrían usar bibliotecas o centros comunitarios con conexión."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-137",
-    "titulo": "Redes, plataformas e IA: usarlas con ética",
-    "slug": "redes-plataformas-ia-etica-prepa",
-    "palabras": [
-      "redes",
-      "internet",
-      "conectividad",
-      "plataformas digitales",
-      "inteligencia artificial",
-      "IA",
-      "ética",
-      "colaboración"
-    ],
-    "contenido": {
-      "idea": "Internet es como un sistema de carreteras entre pueblos: las redes son los caminos, las plataformas son las plazas donde nos encontramos y la IA es un ayudante muy rápido que hay que saber dirigir.",
-      "pizarron": "**Qué es:** una red une aparatos para pasar datos. Las plataformas sirven para comunicarse. La IA genera textos o imágenes.\n\n**Reglas para usarlas:**\n\n1. Compara con varias fuentes.\n2. Cita a los autores y avisa si usaste IA.\n3. No des datos personales.\n4. Respeta a los demás.\n\nLa IA puede equivocarse.\n\n**Para recordar:**\n- **Red de computadoras:** Un conjunto de dispositivos conectados que intercambian información.\n\n**Para tu escuela:** pide un dato a una IA y compruébalo en otra fuente.",
-      "truco": "Verifica, cita y cuida los datos.",
-      "practica": {
-        "ejercicio": "Una IA te da un dato. ¿Qué debes hacer antes de usarlo en una tarea?",
-        "respuesta": "Verificarlo en fuentes confiables, porque la IA puede equivocarse, y mencionar que la usaste."
-      },
-      "analogias": [
-        {
-          "titulo": "El sistema postal",
-          "texto": "Una red funciona como el correo: tu mensaje se divide en paquetes, viaja por varias rutas y se arma al llegar."
-        },
-        {
-          "titulo": "El asistente nuevo",
-          "texto": "La IA es como un asistente nuevo muy veloz que a veces se equivoca: revisas lo que entrega y tú firmas el trabajo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es una red de computadoras?",
-          "respuesta": "Un conjunto de dispositivos conectados que intercambian información."
-        },
-        {
-          "ejercicio": "Menciona una práctica ética al colaborar en un documento compartido.",
-          "respuesta": "Dar crédito a cada persona por su trabajo y respetar sus aportaciones."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿es correcto entregar un trabajo hecho totalmente por IA como propio? Criterios: postura clara y razón.",
-          "respuesta": "No; es deshonestidad académica. Se puede usar como apoyo si se declara y se revisa, pero el aprendizaje y la autoría deben ser propios."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-138",
-    "titulo": "Analizar problemas de tu comunidad con datos",
-    "slug": "problematicas-comunitarias-informacion-prepa",
-    "palabras": [
-      "problemática comunitaria",
-      "análisis de información",
-      "datos",
-      "interpretación",
-      "trabajo colaborativo",
-      "entorno",
-      "fuentes"
-    ],
-    "contenido": {
-      "idea": "Si en tu calle hay un bache, no basta con quejarte: cuentas cuántos hay, preguntas a los vecinos y piensas juntos qué hacer. Mirar los hechos ayuda a resolver mejor.",
-      "pizarron": "**Qué es:** es usar datos para entender un problema de tu comunidad.\n\n1. Di qué pasa y dónde.\n2. Busca información: encuestas o INEGI.\n3. Ordena en tablas.\n4. Interpreta.\n5. Comparte.\n6. Propón algo.\n\n**Ejemplo:** 18 de 30 casas tienen fallas de agua.\n\n$$\\frac{18}{30} = 0.6 = 60\\%$$\n\n**Para tu escuela:** pregunta a 10 compañeros cómo llegan a la escuela y saca porcentajes.",
-      "truco": "Delimita, investiga, analiza, interpreta, propón.",
-      "practica": {
-        "ejercicio": "En una encuesta, 12 de 40 personas tiran la basura en la calle. ¿Qué porcentaje es?",
-        "respuesta": "$\\frac{12}{40} = 0.3$, o sea 30 %."
-      },
-      "analogias": [
-        {
-          "titulo": "El médico y el diagnóstico",
-          "texto": "Un médico revisa síntomas y estudios antes de recetar. Con un problema comunitario, primero se reúne información y luego se propone la solución."
-        },
-        {
-          "titulo": "Armar un equipo de fútbol",
-          "texto": "Cada integrante aporta una habilidad; en el análisis colaborativo cada quien investiga una parte y se junta todo para entender el panorama."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos fuentes confiables para investigar un problema local.",
-          "respuesta": "Por ejemplo: datos del INEGI y entrevistas a vecinos o autoridades locales."
-        },
-        {
-          "ejercicio": "Si 25 de 50 encuestados usan transporte público, ¿qué porcentaje es?",
-          "respuesta": "$\\frac{25}{50} = 0.5$, es decir 50 %."
-        },
-        {
-          "ejercicio": "Reflexiona: elige un problema de tu entorno y di qué información necesitarías. Criterios: problema claro, dos datos por buscar y una fuente.",
-          "respuesta": "Respuesta personal; ejemplo: fugas de agua; necesito cuántos hogares afectados y desde cuándo, consultando a vecinos y al organismo de agua."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-129",
+"titulo": "Hardware y software: cuerpo y mente",
+"slug": "hardware-software-evolucion-prepa",
+"palabras": [
+"hardware",
+"software",
+"dispositivo",
+"computadora",
+"programas",
+"evolución tecnológica"
+],
+"contenido": {
+"idea": "Un celular es como una persona: el hardware es su cuerpo (pantalla, batería, chip) y el software es lo que sabe hacer (las instrucciones). Un cuerpo sin ideas no hace nada, y las ideas sin cuerpo no se pueden usar.",
+"pizarron": "**Qué es:** el hardware es lo que puedes tocar. El software son los programas.\n\nComo cuerpo y mente.\n\n**Hardware:** procesador, memoria y pantalla.\n\n**Software:** sistema operativo y aplicaciones.\n\n**Evolución:** las primeras computadoras llenaban un cuarto. Hoy caben en tu mano, gracias a los transistores.\n\n**Sistema operativo:** administra el equipo. **Aplicación:** hace una tarea para ti.\n\n**Para tu escuela:** clasifica: teclado, navegador, memoria y Android.",
+"truco": "Hardware se golpea, software se maldice.",
+"practica": {
+"ejercicio": "Clasifica como hardware o software: memoria USB, Excel, ratón, Android.",
+"respuesta": "Memoria USB: hardware. Excel: software. Ratón: hardware. Android: software (sistema operativo)."
+},
+"analogias": [
+{
+"titulo": "El piano y la partitura",
+"texto": "El piano es el hardware y la partitura es el software: sin partitura el piano no toca una canción, y sin piano la partitura no suena."
+},
+{
+"titulo": "La cocina y la receta",
+"texto": "La estufa, las ollas y los utensilios son el hardware; la receta paso a paso es el software que indica cómo usarlos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos componentes de hardware de una computadora y para qué sirven.",
+"respuesta": "Ejemplo: la RAM guarda temporalmente los datos en uso; el procesador ejecuta las instrucciones."
+},
+{
+"ejercicio": "¿Qué diferencia hay entre un sistema operativo y una aplicación?",
+"respuesta": "El sistema operativo administra el equipo y sus recursos; la aplicación realiza una tarea específica para el usuario."
+},
+{
+"ejercicio": "Da una ventaja y un problema de que los dispositivos se vuelvan obsoletos rápido.",
+"respuesta": "Ventaja: mayor velocidad y funciones. Problema: más residuos electrónicos y gasto constante."
+}
+]
+}
+},
+{
+"nodo_id": "ems-130",
+"titulo": "Licencias de software: privativas y libres",
+"slug": "licencias-software-privativo-libre-prepa",
+"palabras": [
+"licencia",
+"software libre",
+"privativo",
+"requerimientos",
+"hardware",
+"ciberespacio",
+"copyright"
+],
+"contenido": {
+"idea": "Una licencia es como las reglas para usar un juguete prestado. Algunos juguetes solo puedes usarlos, sin abrirlos; otros te dejan abrirlos, cambiarlos y compartirlos con tus amigos.",
+"pizarron": "**Qué es:** una licencia es el permiso que dice qué puedes hacer con un programa.\n\n**Privativa:** no puedes ver ni cambiar el código.\n\n**Libre:** puedes usar, estudiar, copiar y mejorar. Linux y LibreOffice.\n\nLibre no siempre significa gratis.\n\nAntes de instalar, revisa si tu equipo cumple los requisitos.\n\n**Antes de aceptar:** revisa qué usos permite, su costo y qué datos pide.\n\n**Para tu escuela:** busca un programa libre para hacer presentaciones.",
+"truco": "Privativo: solo usar. Libre: usar, estudiar, copiar y mejorar.",
+"practica": {
+"ejercicio": "¿Puede alguien vender un programa de licencia libre?",
+"respuesta": "Sí, libre se refiere a las libertades del usuario, no al precio."
+},
+"analogias": [
+{
+"titulo": "Receta secreta o receta abierta",
+"texto": "El software privativo es la receta secreta de un restaurante: pruebas el platillo, pero no sabes cómo se hace. El libre es una receta compartida que puedes cocinar y mejorar."
+},
+{
+"titulo": "Boleto de cine o biblioteca",
+"texto": "La licencia privativa se parece a un boleto de cine: solo entras bajo sus condiciones. La libre se parece a una biblioteca comunitaria donde puedes leer y copiar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona una diferencia entre licencia privativa y libre.",
+"respuesta": "En la privativa no se tiene acceso al código ni permiso de modificarlo; en la libre sí."
+},
+{
+"ejercicio": "Una app pide 4 GB de RAM y tu teléfono tiene 2 GB. ¿Qué requerimiento falla?",
+"respuesta": "El de hardware: la memoria RAM es insuficiente."
+},
+{
+"ejercicio": "¿Qué debes revisar antes de aceptar los términos de una licencia?",
+"respuesta": "Qué usos permite, si puedes copiarla o modificarla, su costo y qué datos personales solicita."
+}
+]
+}
+},
+{
+"nodo_id": "ems-131",
+"titulo": "Lenguaje algorítmico: pasos para resolver",
+"slug": "lenguaje-algoritmico-prepa",
+"palabras": [
+"algoritmo",
+"diagrama de flujo",
+"pseudocódigo",
+"entrada",
+"proceso",
+"salida",
+"programación"
+],
+"contenido": {
+"idea": "Un algoritmo es como las instrucciones para hacer un sándwich: primero el pan, luego el jamón, al final lo cierras. Si cambias el orden o te saltas un paso, no sale bien.",
+"pizarron": "**Qué es:** un algoritmo son pasos ordenados para resolver un problema, como una receta.\n\n1. **Entrada:** los datos.\n2. **Proceso:** lo que se hace.\n3. **Salida:** el resultado.\n\n**Condicional:** si pasa algo, haz esto. Si no, haz lo otro. En un diagrama de flujo se dibuja como un rombo.\n\n**Ciclo:** repite.\n\n**Ejemplo, promedio:** entrada 8 y 10. Proceso: $18 \\div 2$. Salida: 9.\n\n**Ejemplo con condicional:** si tengo hambre, como. Si no, sigo jugando.\n\n**Par o impar:** si al dividir entre 2 sobra 0, es par.\n\n**Para tu escuela:** escribe el algoritmo para hacer un sándwich.",
+"truco": "Entrada, proceso, salida: tres pasos y listo.",
+"practica": {
+"ejercicio": "Escribe un algoritmo para decidir si llevas paraguas.",
+"respuesta": "1. Revisar el pronóstico. 2. Si hay lluvia, llevar paraguas. 3. Si no, no llevarlo. 4. Fin."
+},
+"analogias": [
+{
+"titulo": "La ruta del camión",
+"texto": "Un algoritmo es como la ruta de un repartidor: puntos en orden, y si hay un bloqueo, toma una calle alterna."
+},
+{
+"titulo": "El semáforo",
+"texto": "Un semáforo decide con reglas: si está en rojo, para; si está en verde, avanza. Eso es un condicional."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Identifica entrada, proceso y salida: sumar 5 y 7 y mostrar el resultado.",
+"respuesta": "Entrada: 5 y 7. Proceso: sumarlos. Salida: 12."
+},
+{
+"ejercicio": "¿Qué figura de un diagrama de flujo representa una decisión?",
+"respuesta": "El rombo."
+},
+{
+"ejercicio": "Escribe un algoritmo para saber si un número es par.",
+"respuesta": "1. Leer el número. 2. Dividirlo entre 2. 3. Si el residuo es 0, es par; si no, es impar."
+}
+]
+}
+},
+{
+"nodo_id": "ems-132",
+"titulo": "Software libre y alternativas a programas de patente",
+"slug": "software-libre-alternativas-prepa",
+"palabras": [
+"software libre",
+"alternativas",
+"LibreOffice",
+"GIMP",
+"software como servicio",
+"SaaS",
+"patente"
+],
+"contenido": {
+"idea": "Es como elegir entre comprar siempre en una tienda de marca o probar el mercado de la colonia, donde hay cosas igual de buenas y que puedes usar sin pedir permiso.",
+"pizarron": "**Qué es:** el software libre es una alternativa a los programas de pago.\n\n**Ejemplos:**\n\n- Office: **LibreOffice**.\n- Photoshop: **GIMP**.\n- Windows: **Linux**.\n\n**SaaS:** programas que usas por internet, a veces con pago mensual.\n\n**Compara:** costo, facilidad y privacidad.\n\n**Software como servicio:** programa que usas por internet, casi siempre con suscripción.\n\n**Para tu escuela:** abre un archivo en dos programas y compara.",
+"truco": "Antes de pagar, busca la alternativa libre.",
+"practica": {
+"ejercicio": "Nombra una alternativa libre para editar imágenes y otra para escribir documentos.",
+"respuesta": "GIMP para imágenes y LibreOffice Writer para documentos."
+},
+"analogias": [
+{
+"titulo": "Comprar o rentar",
+"texto": "El software de patente instalado es como comprar un coche; el SaaS es como rentarlo: lo usas mientras pagas y no es tuyo."
+},
+{
+"titulo": "Huerto comunitario",
+"texto": "El software libre es un huerto comunitario: todos pueden sembrar, mejorar y cosechar, y los vecinos aprenden unos de otros."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es el software como servicio?",
+"respuesta": "Un programa al que accedes por internet, normalmente por suscripción, sin instalarlo por completo en tu equipo."
+},
+{
+"ejercicio": "Menciona dos criterios para comparar un programa libre con uno de patente.",
+"respuesta": "Por ejemplo: costo y compatibilidad de formatos; también privacidad o facilidad de uso."
+},
+{
+"ejercicio": "Un compañero dice que lo libre es peor. Da un argumento.",
+"respuesta": "Depende de la necesidad: muchas alternativas libres cubren las tareas básicas, son gratuitas y se pueden auditar y mejorar."
+}
+]
+}
+},
+{
+"nodo_id": "ems-133",
+"titulo": "Normas del ciberespacio y seguridad digital",
+"slug": "normatividad-ciberespacio-seguridad-prepa",
+"palabras": [
+"ciberseguridad",
+"normatividad",
+"privacidad",
+"datos personales",
+"delitos informáticos",
+"ciberacoso",
+"contraseñas"
+],
+"contenido": {
+"idea": "Internet es como una gran plaza pública: hay reglas para convivir y cuidarnos. No entrarías a la casa de otro sin permiso, y en línea tampoco debes tomar lo que no es tuyo.",
+"pizarron": "**Qué es:** en internet también hay reglas. Protegen tus datos y a las demás personas.\n\n**Buenas prácticas:**\n\n1. Contraseñas largas y distintas.\n2. Lee el aviso de privacidad.\n3. No subas fotos de otros sin permiso.\n4. Desconfía de enlaces raros.\n5. Reporta el acoso y guarda pruebas.\n\n**Fotos:** no publiques la de otra persona sin su permiso. Puedes dañarla.\n\n**Para tu escuela:** revisa una aplicación y di qué datos te pide.",
+"truco": "Piensa, verifica y pide permiso antes de compartir.",
+"practica": {
+"ejercicio": "Recibes un mensaje que dice que ganaste un premio y pide tu contraseña. ¿Qué haces?",
+"respuesta": "No respondes ni das datos; es phishing. Lo reportas y borras el mensaje."
+},
+"analogias": [
+{
+"titulo": "El reglamento de la escuela",
+"texto": "Así como la escuela tiene reglas para que todos estén seguros, el ciberespacio tiene leyes para evitar abusos."
+},
+{
+"titulo": "La llave de tu casa",
+"texto": "Tu contraseña es la llave de tu casa: no se presta ni se deja a la vista, y conviene cambiarla si se pierde."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué no debes publicar la foto de un compañero sin su permiso?",
+"respuesta": "Porque afecta su privacidad y puede dañarlo; se necesita su consentimiento."
+},
+{
+"ejercicio": "Menciona dos características de una contraseña segura.",
+"respuesta": "Que sea larga y combine letras, números y símbolos; también que no se repita en varias cuentas."
+},
+{
+"ejercicio": "Reflexiona: ¿qué harías si ves ciberacoso hacia un compañero? Criterios: no participar, apoyar, reportar.",
+"respuesta": "No compartir ni comentar el acoso, apoyar a la persona afectada, guardar evidencia y reportarlo a un adulto o a la plataforma."
+}
+]
+}
+},
+{
+"nodo_id": "ems-134",
+"titulo": "Uso responsable de recursos digitales",
+"slug": "recursos-digitales-seguros-ambiente-prepa",
+"palabras": [
+"recursos digitales",
+"uso responsable",
+"medio ambiente",
+"basura electrónica",
+"seguridad",
+"ciudadanía digital"
+],
+"contenido": {
+"idea": "Usar la tecnología es como usar la regadera: sirve mucho, pero si la dejas abierta sin necesidad desperdicias agua. Se aprovecha, pero con cuidado de ti y del planeta.",
+"pizarron": "**Qué es:** es usar aplicaciones y redes con provecho, con seguridad y cuidando el ambiente.\n\n**Para qué:** comunicarte, estudiar y participar.\n\n**Seguridad:** cuida tus datos, verifica fuentes y cierra sesión.\n\n**Ambiente:** los aparatos gastan energía y dejan basura. Apaga lo que no uses y repara antes de cambiar.\n\n**Reparar:** hay menos basura electrónica y se gastan menos materiales.\n\n**Para tu escuela:** anota cuánto usas el teléfono hoy y pon un límite.",
+"truco": "Úsalo con cuidado: tú, los demás y el planeta.",
+"practica": {
+"ejercicio": "Da una acción digital para cuidar el ambiente.",
+"respuesta": "Ejemplo: llevar el celular viejo a reciclaje electrónico o apagar equipos que no uses."
+},
+"analogias": [
+{
+"titulo": "La alacena",
+"texto": "Los recursos digitales son una alacena: tomas lo que necesitas, cuidas que no se eche a perder y no acabas con todo."
+},
+{
+"titulo": "Conducir un coche",
+"texto": "Usar internet es como manejar: conviene conocer las reglas, ir con precaución y no contaminar de más."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica: usar una plataforma para entregar una tarea.",
+"respuesta": "Uso académico."
+},
+{
+"ejercicio": "¿Por qué es mejor reparar un celular que desecharlo?",
+"respuesta": "Se reduce la basura electrónica y el consumo de materiales y energía para fabricar uno nuevo."
+},
+{
+"ejercicio": "Reflexiona: describe un hábito digital tuyo que podrías mejorar. Criterios: lo identificas, explicas por qué y propones un cambio concreto.",
+"respuesta": "Respuesta personal; ejemplo: pasar horas en redes por la noche afecta el sueño, así que fijo un horario límite."
+}
+]
+}
+},
+{
+"nodo_id": "ems-135",
+"titulo": "Resolver problemas con estrategias algorítmicas",
+"slug": "problemas-algoritmicos-estrategia-prepa",
+"palabras": [
+"problema algorítmico",
+"descomposición",
+"patrones",
+"abstracción",
+"estrategia",
+"pensamiento computacional"
+],
+"contenido": {
+"idea": "Si te piden limpiar toda la casa, te abrumas. Pero si haces una lista, cuarto por cuarto, sales adelante. Dividir un problema grande en partes pequeñas lo vuelve fácil.",
+"pizarron": "**La regla:** un problema grande se resuelve partiéndolo en pasos pequeños.\n\n**Imagínalo:** un rompecabezas se arma por partes, no de golpe.\n\n1. Entiende: ¿qué tengo y qué busco?\n2. Divide en partes.\n3. Busca lo que se repite.\n4. Quédate con lo importante.\n5. Escribe los pasos.\n6. Prueba con casos, para encontrar errores antes de usarlo.\n\n**Ejemplo:** 24 galletas entre 6 personas. $24 \\div 6 = 4$. Comprueba: $4 \\times 6 = 24$.\n\n**Comparar:** para saber cuál es mayor, usa *si a es mayor que b, elige a; si no, elige b*.\n\n**Para tu escuela:** escribe los pasos para calcular tu promedio.",
+"truco": "Entiende, divide, busca patrones, prueba.",
+"practica": {
+"ejercicio": "Descompón el problema \"organizar una fiesta\" en tres subproblemas.",
+"respuesta": "Por ejemplo: lista de invitados, comida y bebida, lugar y música."
+},
+"analogias": [
+{
+"titulo": "Armar un rompecabezas",
+"texto": "Se arma por partes: primero bordes, luego colores. Cada parte es un subproblema que ayuda a resolver el total."
+},
+{
+"titulo": "Un mapa de ruta",
+"texto": "Para ir a otra ciudad divides el viaje en tramos y reconoces patrones de señales, sin fijarte en cada detalle del paisaje."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Diseña un algoritmo para hallar el mayor de dos números.",
+"respuesta": "1. Leer a y b. 2. Si a es mayor que b, la salida es a; si no, la salida es b."
+},
+{
+"ejercicio": "Reparte 35 lápices entre 5 grupos en partes iguales. ¿Cuántos recibe cada uno?",
+"respuesta": "$35 \\div 5 = 7$ lápices por grupo."
+},
+{
+"ejercicio": "¿Para qué sirve probar un algoritmo con casos de prueba?",
+"respuesta": "Para detectar errores y confirmar que da el resultado correcto antes de usarlo."
+}
+]
+}
+},
+{
+"nodo_id": "ems-136",
+"titulo": "Impacto social de las tecnologías digitales",
+"slug": "impacto-tecnologias-digitales-prepa",
+"palabras": [
+"brecha digital",
+"impacto social",
+"acceso a la información",
+"políticas de información",
+"comunidad",
+"pensamiento crítico"
+],
+"contenido": {
+"idea": "La tecnología es como una carretera nueva en el pueblo: acerca a la gente y trae cosas buenas, pero si solo llega a unas colonias, otras se quedan atrás.",
+"pizarron": "**Qué es:** la tecnología cambia cómo trabajamos, estudiamos y convivimos.\n\n**Lo bueno:** información, educación a distancia y trámites.\n\n**Lo malo:** noticias falsas, adicción y ciberacoso.\n\n**Brecha digital:** no todos tienen internet.\n\n**Pregunta:** ¿a quién beneficia?, ¿a quién deja fuera?\n\n**Brecha digital:** unos tienen internet y otros no. Una comunidad sin conexión no puede tomar clases en línea.\n\n**Política de información:** reglas sobre cómo se comparte y se protege la información.\n\n**Para tu escuela:** anota un beneficio y un riesgo de tu teléfono.",
+"truco": "Pregunta siempre: ¿a quién ayuda y a quién deja fuera?",
+"practica": {
+"ejercicio": "Define brecha digital con un ejemplo.",
+"respuesta": "Es la desigualdad en el acceso a internet y dispositivos; ejemplo: una comunidad rural sin conexión no puede tomar clases en línea."
+},
+"analogias": [
+{
+"titulo": "El agua entubada",
+"texto": "La información es como el agua entubada: mejora la vida si llega a todos, pero si solo llega a unos hay desigualdad."
+},
+{
+"titulo": "El cuchillo de cocina",
+"texto": "Una herramienta sirve para cocinar o para dañar; el impacto depende de cómo y quién la usa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona un beneficio y un riesgo de las redes sociales para una comunidad.",
+"respuesta": "Beneficio: organizar ayuda rápida. Riesgo: difundir noticias falsas."
+},
+{
+"ejercicio": "¿Qué es una política de gestión de la información?",
+"respuesta": "Un conjunto de reglas sobre cómo se produce, comparte, protege y se accede a la información."
+},
+{
+"ejercicio": "Reflexiona: ¿cómo afectaría a tu comunidad quedarse sin internet una semana? Criterios: da al menos dos efectos y una solución.",
+"respuesta": "Respuesta personal; ejemplo: se complican tareas y trámites, y se podrían usar bibliotecas o centros comunitarios con conexión."
+}
+]
+}
+},
+{
+"nodo_id": "ems-137",
+"titulo": "Redes, plataformas e IA: usarlas con ética",
+"slug": "redes-plataformas-ia-etica-prepa",
+"palabras": [
+"redes",
+"internet",
+"conectividad",
+"plataformas digitales",
+"inteligencia artificial",
+"IA",
+"ética",
+"colaboración"
+],
+"contenido": {
+"idea": "Internet es como un sistema de carreteras entre pueblos: las redes son los caminos, las plataformas son las plazas donde nos encontramos y la IA es un ayudante muy rápido que hay que saber dirigir.",
+"pizarron": "**Qué es:** una red une aparatos para pasar datos. Las plataformas sirven para comunicarse. La IA genera textos o imágenes.\n\n**Reglas para usarlas:**\n\n1. Compara con varias fuentes.\n2. Cita a los autores y avisa si usaste IA.\n3. No des datos personales.\n4. Respeta a los demás.\n\nLa IA puede equivocarse.\n\n**Para tu escuela:** pide un dato a una IA y compruébalo en otra fuente.",
+"truco": "Verifica, cita y cuida los datos.",
+"practica": {
+"ejercicio": "Una IA te da un dato. ¿Qué debes hacer antes de usarlo en una tarea?",
+"respuesta": "Verificarlo en fuentes confiables, porque la IA puede equivocarse, y mencionar que la usaste."
+},
+"analogias": [
+{
+"titulo": "El sistema postal",
+"texto": "Una red funciona como el correo: tu mensaje se divide en paquetes, viaja por varias rutas y se arma al llegar."
+},
+{
+"titulo": "El asistente nuevo",
+"texto": "La IA es como un asistente nuevo muy veloz que a veces se equivoca: revisas lo que entrega y tú firmas el trabajo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es una red de computadoras?",
+"respuesta": "Un conjunto de dispositivos conectados que intercambian información."
+},
+{
+"ejercicio": "Menciona una práctica ética al colaborar en un documento compartido.",
+"respuesta": "Dar crédito a cada persona por su trabajo y respetar sus aportaciones."
+},
+{
+"ejercicio": "Reflexiona: ¿es correcto entregar un trabajo hecho totalmente por IA como propio? Criterios: postura clara y razón.",
+"respuesta": "No; es deshonestidad académica. Se puede usar como apoyo si se declara y se revisa, pero el aprendizaje y la autoría deben ser propios."
+}
+]
+}
+},
+{
+"nodo_id": "ems-138",
+"titulo": "Analizar problemas de tu comunidad con datos",
+"slug": "problematicas-comunitarias-informacion-prepa",
+"palabras": [
+"problemática comunitaria",
+"análisis de información",
+"datos",
+"interpretación",
+"trabajo colaborativo",
+"entorno",
+"fuentes"
+],
+"contenido": {
+"idea": "Si en tu calle hay un bache, no basta con quejarte: cuentas cuántos hay, preguntas a los vecinos y piensas juntos qué hacer. Mirar los hechos ayuda a resolver mejor.",
+"pizarron": "**Qué es:** es usar datos para entender un problema de tu comunidad.\n\n**Imagínalo:** eres detective. No adivinas: juntas pistas.\n\n1. Di qué pasa y dónde.\n2. Busca información: encuestas, entrevistas o INEGI.\n3. Ordena en tablas.\n4. Interpreta.\n5. Comparte.\n6. Propón algo.\n\n**Porcentaje:** divide la parte entre el total y multiplica por 100.\n\n**Ejemplo:** 18 de 30 casas: $\\frac{18}{30} = 0.6 = 60\\%$.\n\n**Para tu escuela:** pregunta a 10 compañeros cómo llegan a la escuela y saca porcentajes.",
+"truco": "Delimita, investiga, analiza, interpreta, propón.",
+"practica": {
+"ejercicio": "En una encuesta, 12 de 40 personas tiran la basura en la calle. ¿Qué porcentaje es?",
+"respuesta": "$\\frac{12}{40} = 0.3$, o sea 30 %."
+},
+"analogias": [
+{
+"titulo": "El médico y el diagnóstico",
+"texto": "Un médico revisa síntomas y estudios antes de recetar. Con un problema comunitario, primero se reúne información y luego se propone la solución."
+},
+{
+"titulo": "Armar un equipo de fútbol",
+"texto": "Cada integrante aporta una habilidad; en el análisis colaborativo cada quien investiga una parte y se junta todo para entender el panorama."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos fuentes confiables para investigar un problema local.",
+"respuesta": "Por ejemplo: datos del INEGI y entrevistas a vecinos o autoridades locales."
+},
+{
+"ejercicio": "Si 25 de 50 encuestados usan transporte público, ¿qué porcentaje es?",
+"respuesta": "$\\frac{25}{50} = 0.5$, es decir 50 %."
+},
+{
+"ejercicio": "Reflexiona: elige un problema de tu entorno y di qué información necesitarías. Criterios: problema claro, dos datos por buscar y una fuente.",
+"respuesta": "Respuesta personal; ejemplo: fugas de agua; necesito cuántos hogares afectados y desde cuándo, consultando a vecinos y al organismo de agua."
+}
+]
+}
+}
 ]

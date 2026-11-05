@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "La pendiente mide cuánto sube una carretera por cada metro que avanzas. Dos puntos bastan para calcularla.",
-"pizarron": "**La regla:** $m = \\frac{y_2 - y_1}{x_2 - x_1}$: lo que sube entre lo que avanza.\n\n$$m = \\frac{y_2 - y_1}{x_2 - x_1}$$\n\nEjemplo: $(2, 3)$ y $(5, 9)$.\n\n$$m = \\frac{6}{3} = 2$$\n\nEl ángulo de inclinación:\n\n$$\\tan\\theta = m$$\n\nPara $m = 1$: $\\theta = 45°$.\n\nCasos:\n\n- $x_1 = x_2$: recta vertical, pendiente indefinida.\n- $y_1 = y_2$: horizontal, $m = 0$.",
+"pizarron": "**La regla:** $m = \\frac{y_2 - y_1}{x_2 - x_1}$: lo que sube entre lo que avanza.\n\n**Imagínalo:** una rampa. La pendiente dice cuánto subes por cada paso.\n\n**Ejemplo:** $(2, 3)$ y $(5, 9)$. $m = \\frac{6}{3} = 2$.\n\n**Signos:**\n\n- Sube: positiva.\n- Baja: negativa. De $(0, 4)$ a $(2, 0)$: $m = -2$.\n- Plana: 0.\n- Vertical: no existe.\n\n**Ángulo:** $\\tan\\theta = m$. **En palabras:** con $m = 1$, subes lo mismo que avanzas, a 45°.\n\n**Para tu escuela:** mide lo que sube y avanza una rampa.",
 "truco": "Cambio en y entre cambio en x.",
 "practica": {
 "ejercicio": "Pendiente entre $(1, 4)$ y $(3, 0)$.",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "Con un punto de partida y una dirección puedes describir un camino completo. Eso hace esta ecuación con una recta.",
-"pizarron": "**La regla:** $y - y_1 = m(x - x_1)$.\n\nForma punto-pendiente:\n\n$$y - y_1 = m(x - x_1)$$\n\nEjemplo: pasa por $(2, 3)$ con $m = 4$.\n\n$$y - 3 = 4(x - 2)$$\n\n$$y = 4x - 5$$\n\nCon dos puntos: $(1, 2)$ y $(3, 8)$.\n\n1. $m = 3$.\n2. $y - 2 = 3(x - 1)$.\n3. $y = 3x - 1$.\n\nComprueba sustituyendo el otro punto.",
+"pizarron": "**La regla:** $y - y_1 = m(x - x_1)$.\n\n**Imagínalo:** con un punto de la calle y qué tan inclinada está, ya sabes toda la calle.\n\n**En palabras:** $m$ es la pendiente y $(x_1, y_1)$ es el punto.\n\n**Ejemplo:** pasa por $(2, 3)$ con $m = 4$.\n\n$$y - 3 = 4(x - 2)$$\n\n$$y = 4x - 5$$\n\n**Con dos puntos:** $(1, 2)$ y $(3, 8)$.\n\n1. Pendiente: $m = \\frac{8 - 2}{3 - 1} = 3$.\n2. Sustituye: $y - 2 = 3(x - 1)$.\n3. Queda $y = 3x - 1$.\n\n**Para tu escuela:** dibuja una recta y escribe su pendiente.",
 "truco": "Un punto y una pendiente bastan.",
 "practica": {
 "ejercicio": "Recta con $m = 2$ que pasa por $(1, 5)$.",
@@ -97,7 +97,7 @@
 ],
 "contenido": {
 "idea": "Una misma recta puede vestirse de varias formas. La forma general la deja con todos sus términos de un lado.",
-"pizarron": "**La regla:** toda recta se puede escribir como $Ax + By + C = 0$.\n\nForma general:\n\n$$Ax + By + C = 0$$\n\nPasar de $y = 2x + 3$:\n\n$$2x - y + 3 = 0$$\n\nPasar de general a pendiente-ordenada: $3x + 2y - 6 = 0$.\n\n$$2y = -3x + 6 \\Rightarrow y = -\\frac{3}{2}x + 3$$\n\nDatos directos:\n\n$$m = -\\frac{A}{B} \\qquad b = -\\frac{C}{B}$$\n\nEs habitual dejar $A$ positivo y sin fracciones.",
+"pizarron": "**La regla:** toda recta se puede escribir como $Ax + By + C = 0$.\n\n**Imagínalo:** es la misma recta con otra ropa: todo se pasa de un lado y queda igual a 0.\n\n**De $y = 2x + 3$:** pasa la $y$: $2x - y + 3 = 0$.\n\n**Con fracción:** multiplica primero. $y = \\frac{1}{3}x + 2$ pasa a $x - 3y + 6 = 0$.\n\n**De general a normal:** despeja $y$.\n\n$3x + 2y - 6 = 0$ da $y = -\\frac{3}{2}x + 3$.\n\n**Atajos:**\n\n$$m = -\\frac{A}{B} \\qquad b = -\\frac{C}{B}$$\n\n**En palabras:** $m$ es la inclinación, y $b$ donde cruza el eje $y$.\n\n**Para tu escuela:** dibuja $y = x + 1$ y pásala a forma general.",
 "truco": "Pendiente: menos A entre B.",
 "practica": {
 "ejercicio": "Pasa $y = 3x - 2$ a forma general.",
@@ -141,7 +141,7 @@
 ],
 "contenido": {
 "idea": "Dos rectas paralelas tienen la misma inclinación. Dos perpendiculares están giradas una cuarta de vuelta: sus pendientes se relacionan al revés y con signo cambiado.",
-"pizarron": "**La regla:** las paralelas tienen la misma pendiente. Las perpendiculares cumplen $m_1 m_2 = -1$.\n\n- **Paralelas**: $m_1 = m_2$.\n- **Perpendiculares**: $m_1 \\cdot m_2 = -1$.\n\nEjemplo: paralela a $y = 3x + 1$ por $(0, 5)$:\n\n$$y = 3x + 5$$\n\nEjemplo: perpendicular a $y = 2x + 1$ por $(2, 3)$.\n\n- $m = -\\frac{1}{2}$\n- $y - 3 = -\\frac{1}{2}(x - 2)$\n- $y = -\\frac{1}{2}x + 4$\n\nPara obtener la pendiente perpendicular, invierte y cambia signo.",
+"pizarron": "**La regla:** las paralelas tienen la misma pendiente. Las perpendiculares cumplen $m_1 m_2 = -1$.\n\n**Imagínalo:** paralelas son rieles de tren: nunca se tocan. Perpendiculares son una cruz.\n\n**Paralela:** copia la pendiente. A $y = 3x + 1$ por $(0, 5)$: $y = 3x + 5$.\n\n**Perpendicular:** voltea la fracción y cambia el signo. De 2 pasa a $-\\frac{1}{2}$.\n\n**Con un punto:** usa $y - y_1 = m(x - x_1)$.\n\nPerpendicular a $y = 2x$ por $(2, 3)$:\n\n$$y - 3 = -\\frac{1}{2}(x - 2), \\quad y = -\\frac{1}{2}x + 4$$\n\n**Para tu escuela:** busca paralelas y perpendiculares en tu salón.",
 "truco": "Paralela, igual; perpendicular, voltea y cambia signo.",
 "practica": {
 "ejercicio": "Pendiente perpendicular a $m = \\frac{2}{3}$.",
@@ -185,7 +185,7 @@
 ],
 "contenido": {
 "idea": "Medir ángulos en grados es como medir en pulgadas; en radianes es medir con el radio del propio círculo. Es otra unidad para lo mismo.",
-"pizarron": "**La regla:** $180° = \\pi$ radianes.\n\nEquivalencia:\n\n$$180° = \\pi \\text{ radianes}$$\n\nConversión:\n\n- Grados a radianes: multiplica por $\\frac{\\pi}{180}$.\n- Radianes a grados: multiplica por $\\frac{180}{\\pi}$.\n\nEjemplos:\n\n- $60° = \\frac{\\pi}{3}$\n- $45° = \\frac{\\pi}{4}$\n- $90° = \\frac{\\pi}{2}$\n- $\\frac{3\\pi}{2} = 270°$\n- $1 \\text{ rad} \\approx 57.3°$\n\nUn radián es el ángulo cuyo arco mide lo mismo que el radio.\n\nLongitud de arco: $s = r\\theta$.",
+"pizarron": "**La regla:** $180° = \\pi$ radianes.\n\n**Imagínalo:** son dos reglas para medir ángulos, como metros y pies. Media vuelta son 180° o $\\pi$.\n\n**Un radián:** el ángulo cuyo arco mide lo mismo que el radio. Son unos 57.3°.\n\n**De grados a radianes:** multiplica por $\\frac{\\pi}{180}$. $60° = \\frac{\\pi}{3}$.\n\n**De radianes a grados:** cambia $\\pi$ por 180. $\\frac{\\pi}{4} = 45°$.\n\n**Arco:** $s = r\\theta$. **En palabras:** radio por ángulo en radianes. Con 3 y 2: 6.\n\n**Para tu escuela:** dibuja media vuelta y márcala con los dos números.",
 "truco": "Pi es media vuelta.",
 "practica": {
 "ejercicio": "Convierte 30° a radianes.",
@@ -229,7 +229,7 @@
 ],
 "contenido": {
 "idea": "Resolver un triángulo es encontrar todo lo que falta. Con un lado y un ángulo, además del recto, ya puedes calcular todo.",
-"pizarron": "**La regla:** resolver es hallar lados y ángulos faltantes, con seno, coseno, tangente y Pitágoras.\n\nHerramientas:\n\n- Pitágoras: lados.\n- Razones: lados y ángulos.\n- Ángulos agudos suman 90°.\n\nEjemplo: hipotenusa 10 y ángulo 30°.\n\n- Opuesto: $10\\sin 30° = 5$.\n- Adyacente: $10\\cos 30° \\approx 8.66$.\n- Otro ángulo: 60°.\n\nEjemplo: catetos 5 y 12.\n\n- Hipotenusa: 13.\n- $\\tan\\theta = \\frac{5}{12}$, entonces $\\theta \\approx 22.6°$.\n\nPara hallar el ángulo, usa la función inversa: $\\tan^{-1}$.",
+"pizarron": "**La regla:** resolver es hallar lados y ángulos faltantes, con seno, coseno, tangente y Pitágoras.\n\n**Imagínalo:** con una sombra y un ángulo puedes medir un árbol sin subirte.\n\n**Herramientas:**\n\n- **Pitágoras:** para lados.\n- **Seno, coseno, tangente:** para lados y ángulos.\n- Los dos ángulos agudos suman 90°.\n\n**Valores:** $\\sin 30° = 0.5$, $\\tan 45° = 1$.\n\n**Ejemplo:** hipotenusa 10 y ángulo 30°. Opuesto: $10 \\times 0.5 = 5$. Otro ángulo: 60°.\n\n**Tangente:** opuesto entre adyacente. A 45° los dos catetos son iguales.\n\n**Si buscas el ángulo:** usa la función inversa de la calculadora.\n\n**Para tu escuela:** mide la sombra de un palo y la de un árbol.",
 "truco": "Elige la razón que tenga el dato y lo que buscas.",
 "practica": {
 "ejercicio": "Hipotenusa 20 y ángulo 30°. Calcula el opuesto.",
@@ -273,7 +273,7 @@
 ],
 "contenido": {
 "idea": "Un círculo de radio 1 es un mapa de todos los ángulos. Cada ángulo es un punto, y sus coordenadas son el coseno y el seno.",
-"pizarron": "**Qué es:** el círculo unitario tiene radio 1: cada punto es $(\\cos\\theta, \\sin\\theta)$.\n\nEn el **círculo unitario** (radio 1, centro en el origen):\n\n$$(x, y) = (\\cos\\theta, \\sin\\theta)$$\n\nValores clave:\n\n| $\\theta$ | $\\cos$ | $\\sin$ |\n|---|---|---|\n| 0° | 1 | 0 |\n| 30° | $\\frac{\\sqrt{3}}{2}$ | $\\frac{1}{2}$ |\n| 45° | $\\frac{\\sqrt{2}}{2}$ | $\\frac{\\sqrt{2}}{2}$ |\n| 60° | $\\frac{1}{2}$ | $\\frac{\\sqrt{3}}{2}$ |\n| 90° | 0 | 1 |\n\nSignos por cuadrante:\n\n- I: ambos +.\n- II: seno +.\n- III: tangente +.\n- IV: coseno +.\n\nValor: $\\sin 150° = \\sin 30° = \\frac{1}{2}$.",
+"pizarron": "**Qué es:** el círculo unitario tiene radio 1: cada punto es $(\\cos\\theta, \\sin\\theta)$.\n\n**Imagínalo:** un reloj con manecilla de largo 1. El coseno es cuánto avanza de lado. El seno es qué tan alto está.\n\n**Valores:**\n\n- $0°$: $\\cos = 1$, $\\sin = 0$.\n- $90°$: $\\cos = 0$, $\\sin = 1$.\n- $180°$: $\\cos = -1$, $\\sin = 0$.\n- $30°$: $\\sin = \\frac{1}{2}$.\n\n**Signos:**\n\n- A la derecha, coseno positivo. A la izquierda, negativo. De $90°$ a $270°$ es negativo.\n- Arriba, seno positivo. Abajo, negativo.\n\n**Espejo:** $\\sin 150° = \\sin 30° = \\frac{1}{2}$. $\\sin 330° = -\\frac{1}{2}$.\n\n**Para tu escuela:** dibuja el círculo y marca 0°, 90°, 180° y 270°.",
 "truco": "Seno es la altura; coseno es el avance.",
 "practica": {
 "ejercicio": "¿Cuánto vale $\\cos 90°$?",
@@ -316,7 +316,7 @@
 ],
 "contenido": {
 "idea": "En cualquier triángulo, el lado más grande está frente al ángulo más grande. La ley de senos pone esa relación en números.",
-"pizarron": "**La ley:** en cualquier triángulo, cada lado entre el seno de su ángulo opuesto da lo mismo.\n\n$$\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C}$$\n\n**Úsala si conoces:** dos ángulos y un lado, o dos lados y el ángulo opuesto a uno.\n\n**Ejemplo:** $A = 30°$, $B = 45°$, $a = 10$.\n\n$$b = \\frac{10\\sin 45°}{\\sin 30°} = \\frac{7.07}{0.5} \\approx 14.14$$\n\nLos ángulos suman 180°, así que $C = 105°$.\n\n**Para tu escuela:** calcula $b$ con $A = 30°$, $B = 90°$ y $a = 5$.",
+"pizarron": "**La ley:** en cualquier triángulo, cada lado entre el seno de su ángulo opuesto da lo mismo.\n\n**Imagínalo:** el lado grande siempre está frente al ángulo grande.\n\n$$\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C}$$\n\n**En palabras:** cada lado con el ángulo que tiene enfrente.\n\n**Úsala si conoces:** dos ángulos y un lado, o dos lados y el ángulo opuesto a uno.\n\n**Valores:** $\\sin 30° = 0.5$, $\\sin 45° = 0.707$, $\\sin 60° = 0.866$, $\\sin 90° = 1$.\n\n**Ejemplo:** $A = 30°$, $B = 45°$, $a = 10$.\n\n$$b = \\frac{10 \\times 0.707}{0.5} \\approx 14.14$$\n\nLos ángulos de un triángulo suman 180°.\n\n**Para tu escuela:** dibuja un triángulo y marca qué lado va frente a cada ángulo.",
 "truco": "Cada lado con el seno de su ángulo enfrente.",
 "practica": {
 "ejercicio": "$A = 30°$, $a = 5$, $B = 90°$. Calcula $b$.",
@@ -360,7 +360,7 @@
 ],
 "contenido": {
 "idea": "La ley de cosenos es Pitágoras con un ajuste: agrega una corrección cuando el ángulo no es recto.",
-"pizarron": "**La ley:** en cualquier triángulo, $c^2 = a^2 + b^2 - 2ab\\cos C$.\n\n$$c^2 = a^2 + b^2 - 2ab\\cos C$$\n\nSe usa con:\n\n- Dos lados y el ángulo entre ellos.\n- Tres lados, para hallar un ángulo.\n\nEjemplo: $a = 5$, $b = 7$, $C = 60°$.\n\n$$c^2 = 25 + 49 - 70(0.5) = 39$$\n\n$$c \\approx 6.24$$\n\nSi $C = 90°$, $\\cos C = 0$ y queda Pitágoras.\n\nHallar ángulo:\n\n$$\\cos C = \\frac{a^2 + b^2 - c^2}{2ab}$$",
+"pizarron": "**La ley:** en cualquier triángulo, $c^2 = a^2 + b^2 - 2ab\\cos C$.\n\n**Imagínalo:** es Pitágoras con un arreglo para triángulos inclinados.\n\n**En palabras:** un lado al cuadrado es la suma de los otros dos al cuadrado, menos dos veces ellos por el coseno del ángulo de en medio.\n\n**Úsala con:** dos lados y el ángulo entre ellos, o con tres lados.\n\n**Ejemplo:** $a = 5$, $b = 7$, $C = 60°$, y $\\cos 60° = 0.5$.\n\n$$c^2 = 25 + 49 - 70(0.5) = 39$$\n\n**Con $90°$:** el coseno es 0 y queda Pitágoras.\n\n**Para un ángulo:**\n\n$$\\cos C = \\frac{a^2 + b^2 - c^2}{2ab}$$\n\n**Para tu escuela:** mide los lados de un triángulo de papel.",
 "truco": "Pitágoras menos dos ab por coseno.",
 "practica": {
 "ejercicio": "$a = 3$, $b = 4$, $C = 90°$. Calcula $c$.",
@@ -403,7 +403,7 @@
 ],
 "contenido": {
 "idea": "En el círculo unitario, seno y coseno son catetos de un triángulo con hipotenusa 1. De ahí sale la identidad más importante.",
-"pizarron": "**La regla:** para todo ángulo, $\\sin^2\\theta + \\cos^2\\theta = 1$.\n\nIdentidad fundamental:\n\n$$\\sin^2\\theta + \\cos^2\\theta = 1$$\n\nDividiendo:\n\n$$1 + \\tan^2\\theta = \\sec^2\\theta$$\n\n$$1 + \\cot^2\\theta = \\csc^2\\theta$$\n\nOtras definiciones:\n\n- $\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta}$\n- $\\sec\\theta = \\frac{1}{\\cos\\theta}$\n- $\\csc\\theta = \\frac{1}{\\sin\\theta}$\n\nEjemplo: si $\\sin\\theta = \\frac{3}{5}$ en el cuadrante I:\n\n$$\\cos\\theta = \\sqrt{1 - \\frac{9}{25}} = \\frac{4}{5}$$\n\nPara simplificar: $\\frac{1 - \\cos^2\\theta}{\\sin\\theta} = \\sin\\theta$.",
+"pizarron": "**La regla:** para todo ángulo, $\\sin^2\\theta + \\cos^2\\theta = 1$.\n\n**Imagínalo:** es un triángulo dentro de un círculo de radio 1. Es Pitágoras: lado al cuadrado más lado al cuadrado da 1.\n\n**Otras:**\n\n- $1 + \\tan^2\\theta = \\sec^2\\theta$. Por eso $\\sec^2\\theta - \\tan^2\\theta = 1$.\n- $\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta}$.\n- $\\sec\\theta = \\frac{1}{\\cos\\theta}$.\n\n**Para hallar uno:** si $\\sin\\theta = \\frac{3}{5}$:\n\n$$\\cos\\theta = \\sqrt{1 - \\frac{9}{25}} = \\frac{4}{5}$$\n\n**Simplificar:** cambia cada pieza. Lo igual arriba y abajo se cancela.\n\n**Para tu escuela:** comprueba con $\\sin 30° = 0.5$ y $\\cos 30° = 0.866$.",
 "truco": "Es Pitágoras con radio uno.",
 "practica": {
 "ejercicio": "Simplifica $\\sin^2 x + \\cos^2 x + 3$.",
@@ -447,7 +447,7 @@
 ],
 "contenido": {
 "idea": "La marea sube y baja, y el sonido vibra. Las gráficas de seno y coseno dibujan esas repeticiones.",
-"pizarron": "**Qué es:** las gráficas de seno y coseno son ondas que se repiten cada $2\\pi$ y van de $-1$ a 1.\n\n$y = \\sin x$ empieza en 0 y $y = \\cos x$ empieza en 1. Ambas oscilan entre -1 y 1 con **periodo** $2\\pi$.\n\nForma general:\n\n$$y = A\\sin(Bx)$$\n\n- **Amplitud**: $|A|$, altura.\n- **Periodo**: $\\frac{2\\pi}{B}$.\n\nEjemplo: $y = 3\\sin(2x)$.\n\n- Amplitud 3.\n- Periodo $\\pi$.\n\nPuntos de $\\sin x$:\n\n| $x$ | 0 | $\\frac{\\pi}{2}$ | $\\pi$ | $\\frac{3\\pi}{2}$ | $2\\pi$ |\n|---|---|---|---|---|---|\n| $y$ | 0 | 1 | 0 | -1 | 0 |",
+"pizarron": "**Qué es:** las gráficas de seno y coseno son ondas que se repiten cada $2\\pi$ y van de $-1$ a 1.\n\n**Imagínalo:** es una rueda de la fortuna. Tu altura sube y baja una y otra vez.\n\n**Seno:** empieza en 0. **Coseno:** empieza en 1.\n\n$$y = A\\sin(Bx)$$\n\n**En palabras:** $A$ dice qué tan alta es la ola. $B$ dice qué tan apretada.\n\n**Amplitud:** $A$. Es también el valor máximo.\n\n**Periodo:** $\\frac{2\\pi}{B}$. Con $B = 2$: $\\pi$.\n\n**Ejemplo:** $y = 3\\sin(2x)$: altura 3 y periodo $\\pi$.\n\n**Para tu escuela:** dibuja una ola y marca su altura.",
 "truco": "A manda la altura, B aprieta la onda.",
 "practica": {
 "ejercicio": "¿Cuál es la amplitud de $y = 5\\cos x$?",
@@ -491,7 +491,7 @@
 ],
 "contenido": {
 "idea": "Una circunferencia es el conjunto de puntos a la misma distancia de un centro. Su ecuación es esa regla escrita con coordenadas.",
-"pizarron": "**La regla:** una circunferencia de centro $(h, k)$ y radio $r$ cumple $(x - h)^2 + (y - k)^2 = r^2$.\n\nCon centro $(h, k)$ y radio $r$:\n\n$$(x - h)^2 + (y - k)^2 = r^2$$\n\nEjemplo: centro $(2, -3)$ y radio 5.\n\n$$(x - 2)^2 + (y + 3)^2 = 25$$\n\nCentro en el origen: $x^2 + y^2 = r^2$.\n\nForma general a ordinaria: $x^2 + y^2 - 4x + 6y - 3 = 0$.\n\n$$(x^2 - 4x + 4) + (y^2 + 6y + 9) = 3 + 4 + 9$$\n\n$$(x - 2)^2 + (y + 3)^2 = 16$$\n\nCentro $(2, -3)$, radio 4.",
+"pizarron": "**La regla:** una circunferencia de centro $(h, k)$ y radio $r$ cumple $(x - h)^2 + (y - k)^2 = r^2$.\n\n**Imagínalo:** amarras una cabra a un poste. Lo más lejos que llega forma un círculo.\n\n**En palabras:** el centro va con signo contrario y el radio va dos veces.\n\n**Ejemplo:** centro $(2, -3)$ y radio 5.\n\n$$(x - 2)^2 + (y + 3)^2 = 25$$\n\n**Al revés:** en $(x + 1)^2 + y^2 = 4$, el centro es $(-1, 0)$ y el radio 2.\n\n**Centro en el origen:** $x^2 + y^2 = r^2$. Saca raíz para el radio.\n\n**Para saber si un punto está:** sustitúyelo y mira si se cumple.\n\n**Para tu escuela:** dibuja un círculo con hilo y escribe su radio.",
 "truco": "Signo contrario en el centro, y r al cuadrado.",
 "practica": {
 "ejercicio": "Centro $(1, 2)$ y radio 3. Escribe la ecuación.",
@@ -536,7 +536,7 @@
 ],
 "contenido": {
 "idea": "Una antena parabólica rebota las señales hacia un punto, el foco. La parábola se define con ese punto y una recta.",
-"pizarron": "**Qué es:** la parábola es el conjunto de puntos a igual distancia de un punto, el foco, y de una recta, la directriz.\n\n**Parábola**: puntos a igual distancia de un **foco** y una **directriz**.\n\nVértice en el origen, $p$ distancia al foco:\n\n- Abre arriba: $x^2 = 4py$. Foco $(0, p)$, directriz $y = -p$.\n- Abre a la derecha: $y^2 = 4px$. Foco $(p, 0)$, directriz $x = -p$.\n\nCon vértice $(h, k)$:\n\n$$(x - h)^2 = 4p(y - k)$$\n\nEjemplo: $x^2 = 12y$.\n\n- $4p = 12$, $p = 3$.\n- Foco $(0, 3)$.\n- Directriz $y = -3$.\n\nSi $p$ es negativo, abre abajo o a la izquierda.",
+"pizarron": "**Qué es:** la parábola es el conjunto de puntos a igual distancia de un punto, el foco, y de una recta, la directriz.\n\n**Imagínalo:** es el camino de un balón lanzado, o una antena con forma de plato.\n\n**Foco:** el punto especial. **Directriz:** la línea del otro lado. **Vértice:** la punta. **$p$:** distancia del vértice al foco.\n\n**Abre arriba:** $x^2 = 4py$. Foco $(0, p)$ y directriz $y = -p$.\n\n**Abre a la derecha:** $y^2 = 4px$. Foco $(p, 0)$ y directriz $x = -p$.\n\n**Ejemplo:** $x^2 = 12y$. Divide entre 4: $p = 3$. Foco $(0, 3)$ y directriz $y = -3$.\n\n**Al revés:** con foco $(0, 1)$: $x^2 = 4y$.\n\n**Para tu escuela:** lanza una pelota y dibuja su camino.",
 "truco": "4p dice todo: divide entre 4 y obtienes p.",
 "practica": {
 "ejercicio": "Halla $p$ en $y^2 = 8x$.",

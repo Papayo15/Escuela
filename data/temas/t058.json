@@ -1,325 +1,325 @@
 [
-  {
-    "nodo_id": "f6-008",
-    "titulo": "Herramientas y máquinas como extensión del cuerpo",
-    "slug": "herramientas-maquinas-extension-corporal-secundaria",
-    "palabras": [
-      "herramienta",
-      "máquina",
-      "instrumento",
-      "extensión del cuerpo",
-      "necesidades humanas"
-    ],
-    "contenido": {
-      "idea": "Tus manos no pueden cortar una naranja en gajos parejos, pero un cuchillo sí. La herramienta es como una mano más grande, más fuerte o más precisa que te ayuda a hacer lo que tu cuerpo solo no puede.",
-      "pizarron": "**Qué es:** las herramientas y máquinas amplían lo que tu cuerpo puede hacer.\n\n**Herramienta:** usa tu fuerza. Un martillo es un puño más duro.\n\n**Máquina:** transforma energía. La bicicleta te hace más rápido.\n\n**Instrumento:** mide u observa. El microscopio amplía tu vista.\n\nCambian con el tiempo: del hacha de piedra a la sierra eléctrica.\n\n**Para recordar:**\n- **¿Qué capacidad del cuerpo extiende una pala?** Extiende la fuerza y el alcance de brazos y manos para mover tierra.\n\n**Para tu escuela:** clasifica: tijeras, termómetro y licuadora.",
-      "truco": "Herramienta es mano, máquina es fuerza, instrumento es sentido.",
-      "practica": {
-        "ejercicio": "Clasifica como herramienta, máquina o instrumento: a) termómetro, b) martillo, c) batidora eléctrica.",
-        "respuesta": "a) instrumento (mide la temperatura); b) herramienta (se usa con la fuerza de la mano); c) máquina (transforma energía eléctrica en movimiento)."
-      },
-      "analogias": [
-        {
-          "titulo": "Los lentes",
-          "texto": "Unos lentes ayudan al ojo a ver mejor. Igual, un microscopio o un telescopio son instrumentos que llevan tus ojos más lejos o más a fondo."
-        },
-        {
-          "titulo": "Las botas de siete leguas",
-          "texto": "En los cuentos, unas botas mágicas permiten caminar enormes distancias. Una bicicleta o un camión hacen eso mismo con las piernas, pero de verdad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué capacidad del cuerpo extiende una pala?",
-          "respuesta": "Extiende la fuerza y el alcance de brazos y manos para mover tierra."
-        },
-        {
-          "ejercicio": "Menciona un instrumento que extienda un sentido y di cuál.",
-          "respuesta": "Ejemplo: el estetoscopio extiende el oído para escuchar el corazón."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué necesidad de tu comunidad atiende una bomba de agua? Una respuesta válida nombra la necesidad y el beneficio.",
-          "respuesta": "Atiende la necesidad de contar con agua; sube agua que el cuerpo no podría cargar, así se facilita el riego y el consumo en casa."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-012",
-    "titulo": "Materiales, procesos técnicos y comunidad",
-    "slug": "materiales-procesos-tecnicos-comunidad-secundaria",
-    "palabras": [
-      "materiales",
-      "materia prima",
-      "artesanía",
-      "proceso técnico",
-      "comunidad",
-      "recursos locales"
-    ],
-    "contenido": {
-      "idea": "Para hacer un pastel necesitas harina, huevos y azúcar, y las mismas cosas no sirven para armar una casita. En la tecnología pasa igual: cada material sirve para algo distinto.",
-      "pizarron": "**Qué es:** un material es de lo que se hace un producto. Cada comunidad usa lo que tiene cerca.\n\n**Origen:** natural, como la madera; o sintético, como el plástico.\n\n**Propiedades:** dureza, peso y resistencia.\n\n**Proceso:** pasos para transformarlo.\n\nBarro, moldeado, secado, horneado, olla.\n\n**Ejemplos:** barro en Oaxaca y cobre en Michoacán.\n\n**Para recordar:**\n- **¿Por qué una cuchara para sopa caliente suele hacerse de madera y no de metal?** Porque la madera conduce poco el calor y no quema la mano, mientras que el metal se calienta rápido.\n\n**Para tu escuela:** elige un objeto de tu región y di de qué está hecho.",
-      "truco": "Material correcto = propiedad que necesito + recurso que tengo.",
-      "practica": {
-        "ejercicio": "¿Por qué una cuchara para sopa caliente suele hacerse de madera y no de metal?",
-        "respuesta": "Porque la madera conduce poco el calor y no quema la mano, mientras que el metal se calienta rápido."
-      },
-      "analogias": [
-        {
-          "titulo": "La despensa",
-          "texto": "Una comunidad es como una cocina con su propia despensa: cocina con lo que tiene cerca. Así también fabrica objetos con los materiales de su región."
-        },
-        {
-          "titulo": "La receta familiar",
-          "texto": "Una receta pasa de abuelas a nietas con sus pasos exactos. Los procesos técnicos artesanales se heredan igual dentro de una comunidad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos propiedades que debe tener un material para hacer un cable eléctrico.",
-          "respuesta": "Conducir bien la electricidad (como el cobre) y ser flexible."
-        },
-        {
-          "ejercicio": "Ordena el proceso: cocción, extraer barro, moldeado, secado.",
-          "respuesta": "Extraer barro, moldeado, secado, cocción."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué material abunda en tu comunidad y qué podrías fabricar con él? Una respuesta válida relaciona el material con una propiedad y un uso.",
-          "respuesta": "Ejemplo: en una zona con mucho carrizo, canastas, porque es ligero, flexible y fácil de tejer."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-016",
-    "titulo": "Energía en los procesos técnicos",
-    "slug": "energia-procesos-tecnicos-secundaria",
-    "palabras": [
-      "energía",
-      "fuentes de energía",
-      "renovable",
-      "no renovable",
-      "eficiencia",
-      "impacto ambiental"
-    ],
-    "contenido": {
-      "idea": "Un juguete de cuerda se mueve porque tú le diste energía al girar la cuerda. Sin esa energía, se queda quieto. Todas las máquinas necesitan algo que las haga funcionar.",
-      "pizarron": "**Qué es:** todo proceso necesita energía para mover, calentar o transformar.\n\n**No renovables:** se acaban. Petróleo y carbón.\n\n**Renovables:** vuelven. Sol y viento.\n\n**Transformación:** la energía cambia de forma. Un foco pasa de eléctrica a luz y calor.\n\n**Eficiencia:** cuánta energía se aprovecha. Un foco LED desperdicia menos.\n\n**Para tu escuela:** cuenta los focos de tu casa y di cuáles son LED.",
-      "truco": "Toda máquina come energía: elige la que se repone y no la desperdicies.",
-      "practica": {
-        "ejercicio": "Clasifica como renovable o no renovable: viento, gas natural, sol.",
-        "respuesta": "Viento: renovable; gas natural: no renovable; sol: renovable."
-      },
-      "analogias": [
-        {
-          "titulo": "La gasolina del cuerpo",
-          "texto": "Tú necesitas comer para jugar y estudiar. Una máquina necesita su propio alimento, que es la energía eléctrica, el combustible o el viento."
-        },
-        {
-          "titulo": "El ahorro de la alcancía",
-          "texto": "Las fuentes no renovables son como gastar los ahorros sin volver a depositar. Las renovables son como un ingreso que se repone cada semana."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué transformación de energía ocurre en un ventilador eléctrico?",
-          "respuesta": "La energía eléctrica se transforma en energía de movimiento."
-        },
-        {
-          "ejercicio": "¿Por qué un foco LED es más eficiente que uno incandescente?",
-          "respuesta": "Porque convierte más energía eléctrica en luz y desperdicia menos como calor."
-        },
-        {
-          "ejercicio": "Reflexiona: menciona dos acciones para ahorrar energía en casa y su beneficio. Una respuesta válida incluye acciones concretas.",
-          "respuesta": "Ejemplo: apagar luces sin uso y desconectar aparatos; se reduce el recibo de luz y el consumo de energía."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-020",
-    "titulo": "Factores que inciden en los procesos técnicos",
-    "slug": "factores-inciden-procesos-tecnicos-secundaria",
-    "palabras": [
-      "factores",
-      "factores sociales",
-      "factores económicos",
-      "factores ambientales",
-      "cultura",
-      "contexto"
-    ],
-    "contenido": {
-      "idea": "Si quieres hacer una fiesta, piensas en cuánto dinero hay, cuántos invitados llegarán y qué clima habrá. Así también, antes de fabricar algo se piensa en muchas condiciones.",
-      "pizarron": "**Qué es:** cómo se hace algo depende de varios factores.\n\n- **Económicos:** cuánto cuesta.\n- **Sociales:** qué necesita la gente.\n- **Ambientales:** clima y recursos.\n- **Técnicos:** qué herramientas hay.\n- **Históricos:** cómo se hacía antes.\n\n**Ejemplo:** donde llueve mucho, los techos son inclinados.\n\n**Para tu escuela:** di qué factores cambian al hacer una casa en la playa.",
-      "truco": "Antes de hacer, pregunta: dinero, gente, ambiente y saber.",
-      "practica": {
-        "ejercicio": "¿Qué tipo de factor es el clima de una región al elegir los materiales de una casa?",
-        "respuesta": "Es un factor ambiental."
-      },
-      "analogias": [
-        {
-          "titulo": "El viaje en carretera",
-          "texto": "Para un viaje cuentas con gasolina, tráfico y clima. Si cambia uno, cambias la ruta. Los factores cambian la forma de hacer un producto."
-        },
-        {
-          "titulo": "La ropa del día",
-          "texto": "Eliges la ropa según el frío, la ocasión y lo que tienes en el armario. Un proceso técnico se adapta igual a sus condiciones."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Un taller no puede comprar una máquina cara. ¿Qué factor influye?",
-          "respuesta": "El factor económico."
-        },
-        {
-          "ejercicio": "Clasifica: costumbres de una comunidad al diseñar una estufa.",
-          "respuesta": "Factor social y cultural."
-        },
-        {
-          "ejercicio": "Reflexiona: elige un producto cotidiano y menciona dos factores que influyeron en su fabricación. Una respuesta válida nombra y justifica los factores.",
-          "respuesta": "Ejemplo: una botella de plástico; el costo del material (económico) y el clima que exige que no se rompa fácil (ambiental)."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-024",
-    "titulo": "Procesos técnicos",
-    "slug": "procesos-tecnicos-secundaria",
-    "palabras": [
-      "proceso técnico",
-      "pasos",
-      "insumos",
-      "producto",
-      "acciones técnicas",
-      "secuencia"
-    ],
-    "contenido": {
-      "idea": "Hacer un sándwich tiene orden: sacar el pan, poner los ingredientes, cerrar y servir. Si cambias el orden, queda un desastre. Un proceso técnico es una receta ordenada para hacer algo.",
-      "pizarron": "**Qué es:** un proceso técnico son pasos ordenados para hacer algo.\n\n**Tiene:**\n\n1. **Entrada:** materiales y energía.\n2. **Transformación:** cortar, mezclar o calentar.\n3. **Salida:** el producto.\n\n**Ejemplo, pan:**\n\nEntrada: harina, agua y sal.\n\nTransformación: amasar y hornear.\n\nSalida: pan.\n\n**Para mejorar:** revisa qué se desperdicia.\n\n**Para tu escuela:** describe cómo se hace un agua de limón con esos tres pasos.",
-      "truco": "Entra, se transforma, sale: insumo, acción, producto.",
-      "practica": {
-        "ejercicio": "Identifica entrada, transformación y salida al hacer jugo de naranja.",
-        "respuesta": "Entrada: naranjas; transformación: cortar y exprimir; salida: jugo."
-      },
-      "analogias": [
-        {
-          "titulo": "La fila de la tienda",
-          "texto": "En una fila cada persona avanza en su turno. En un proceso técnico cada paso va después del anterior, sin saltarse ninguno."
-        },
-        {
-          "titulo": "El baile con pasos",
-          "texto": "Un baile se aprende paso por paso, y si cambias el orden pierdes el ritmo. Un proceso técnico pide la misma secuencia para salir bien."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué son los insumos en un proceso técnico?",
-          "respuesta": "Son los materiales, la energía y la información que entran al proceso."
-        },
-        {
-          "ejercicio": "Ordena: hornear, amasar, juntar ingredientes, empacar.",
-          "respuesta": "Juntar ingredientes, amasar, hornear, empacar."
-        },
-        {
-          "ejercicio": "Reflexiona: describe en tres pasos un proceso que hagas en casa y di cómo lo mejorarías. Una respuesta válida tiene pasos ordenados y una mejora concreta.",
-          "respuesta": "Ejemplo: lavar la ropa: separar, lavar, tender; mejora: separar por colores para evitar manchas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-028",
-    "titulo": "Comunicación y representación técnica",
-    "slug": "comunicacion-representacion-tecnica-secundaria",
-    "palabras": [
-      "dibujo técnico",
-      "croquis",
-      "diagrama",
-      "planos",
-      "símbolos",
-      "escala",
-      "instructivo"
-    ],
-    "contenido": {
-      "idea": "Si quieres explicar cómo llegar a tu casa, dibujas un mapa con calles y flechas. Quien lo ve entiende sin que tú estés ahí. Eso es representar algo para comunicarlo.",
-      "pizarron": "**Qué es:** en tecnología, las ideas se explican con dibujos y símbolos que todos entienden.\n\n**Croquis:** dibujo rápido a mano.\n\n**Plano:** dibujo con medidas.\n\n**Diagrama de flujo:** pasos con flechas.\n\n**Instructivo:** explica cómo usar o armar algo.\n\n**Escala:** 1:50 significa que 1 cm en el dibujo son 50 cm reales.\n\n**Para recordar:**\n- **¿Para qué sirve un diagrama de flujo?** Para mostrar los pasos de un proceso en orden con figuras y flechas.\n\n**Para tu escuela:** haz un croquis de tu mesa con sus medidas.",
-      "truco": "Si otro lo entiende sin ti, lo comunicaste bien.",
-      "practica": {
-        "ejercicio": "En un plano a escala 1:50, una pared mide 6 cm. ¿Cuánto mide en la realidad?",
-        "respuesta": "6 × 50 = 300 cm, es decir, 3 metros."
-      },
-      "analogias": [
-        {
-          "titulo": "El mapa del tesoro",
-          "texto": "Un mapa usa marcas y flechas para guiar a alguien hacia un lugar. Un plano guía a quien construye un objeto."
-        },
-        {
-          "titulo": "Las señales de tránsito",
-          "texto": "Un semáforo o un alto se entienden en todas partes porque todos aceptan su significado. Los símbolos técnicos funcionan igual."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Para qué sirve un diagrama de flujo?",
-          "respuesta": "Para mostrar los pasos de un proceso en orden con figuras y flechas."
-        },
-        {
-          "ejercicio": "En una escala 1:20, un mueble mide 90 cm. ¿Cuánto mide en el dibujo?",
-          "respuesta": "90 ÷ 20 = 4.5 cm."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿por qué es importante usar símbolos acordados en un plano? Una respuesta válida menciona claridad y evitar errores.",
-          "respuesta": "Porque todos interpretan lo mismo, se evitan errores y se puede construir el objeto como se diseñó."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-035",
-    "titulo": "Evaluación de sistemas tecnológicos",
-    "slug": "evaluacion-sistemas-tecnologicos-secundaria",
-    "palabras": [
-      "evaluar",
-      "sistema tecnológico",
-      "criterios",
-      "eficiencia",
-      "costo",
-      "impacto",
-      "mejora"
-    ],
-    "contenido": {
-      "idea": "Después de armar un juguete, lo pruebas: ¿funciona?, ¿se rompe fácil?, ¿es divertido? Con esas respuestas decides qué arreglar. Evaluar es revisar si algo sirve bien.",
-      "pizarron": "**Qué es:** evaluar una tecnología es revisar si cumple su trabajo, y mejorarla.\n\n**Pasos:**\n\n1. Di para qué sirve.\n2. Elige qué medir: costo, seguridad, duración.\n3. Prueba y anota.\n4. Busca fallas.\n5. Mejora y prueba otra vez.\n\n**Ejemplo:** un riego por goteo ahorra agua, pero se tapa. Se mejora el filtro.\n\n**Para recordar:**\n- **¿Qué se hace después de detectar una falla?** Se propone una mejora y se vuelve a probar.\n\n**Para tu escuela:** evalúa tu mochila con tres puntos.",
-      "truco": "Prueba, mide, compara con el criterio y mejora.",
-      "practica": {
-        "ejercicio": "Un riego consumía 100 litros al día y con goteo consume 60. ¿Qué porcentaje de agua se ahorra?",
-        "respuesta": "Ahorra 40 litros; 40 ÷ 100 = 0.40, es decir, 40 por ciento."
-      },
-      "analogias": [
-        {
-          "titulo": "La boleta",
-          "texto": "Una calificación muestra qué haces bien y qué debes mejorar. Evaluar un sistema muestra sus aciertos y fallas."
-        },
-        {
-          "titulo": "El chequeo médico",
-          "texto": "El médico mide cosas y compara con valores normales. Se evalúa un sistema midiendo y comparando con criterios."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres criterios para evaluar una estufa ahorradora.",
-          "respuesta": "Ejemplo: consumo de leña, seguridad y costo."
-        },
-        {
-          "ejercicio": "¿Qué se hace después de detectar una falla?",
-          "respuesta": "Se propone una mejora y se vuelve a probar."
-        },
-        {
-          "ejercicio": "Reflexiona: evalúa un aparato de tu casa con dos criterios. Una respuesta válida nombra criterios y una conclusión.",
-          "respuesta": "Ejemplo: el refrigerador; mantiene frío (funcionalidad) pero consume mucha luz (eficiencia); conviene revisar su sello."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-008",
+"titulo": "Herramientas y máquinas como extensión del cuerpo",
+"slug": "herramientas-maquinas-extension-corporal-secundaria",
+"palabras": [
+"herramienta",
+"máquina",
+"instrumento",
+"extensión del cuerpo",
+"necesidades humanas"
+],
+"contenido": {
+"idea": "Tus manos no pueden cortar una naranja en gajos parejos, pero un cuchillo sí. La herramienta es como una mano más grande, más fuerte o más precisa que te ayuda a hacer lo que tu cuerpo solo no puede.",
+"pizarron": "**Qué es:** las herramientas y máquinas amplían lo que tu cuerpo puede hacer.\n\n**Herramienta:** usa tu fuerza. Un martillo es un puño más duro.\n\n**Máquina:** transforma energía. La bicicleta te hace más rápido.\n\n**Instrumento:** mide u observa. El microscopio amplía tu vista.\n\nCambian con el tiempo: del hacha de piedra a la sierra eléctrica.\n\n**Pala:** extiende la fuerza y el alcance de tus brazos.\n\n**Para tu escuela:** clasifica: tijeras, termómetro y licuadora.",
+"truco": "Herramienta es mano, máquina es fuerza, instrumento es sentido.",
+"practica": {
+"ejercicio": "Clasifica como herramienta, máquina o instrumento: a) termómetro, b) martillo, c) batidora eléctrica.",
+"respuesta": "a) instrumento (mide la temperatura); b) herramienta (se usa con la fuerza de la mano); c) máquina (transforma energía eléctrica en movimiento)."
+},
+"analogias": [
+{
+"titulo": "Los lentes",
+"texto": "Unos lentes ayudan al ojo a ver mejor. Igual, un microscopio o un telescopio son instrumentos que llevan tus ojos más lejos o más a fondo."
+},
+{
+"titulo": "Las botas de siete leguas",
+"texto": "En los cuentos, unas botas mágicas permiten caminar enormes distancias. Una bicicleta o un camión hacen eso mismo con las piernas, pero de verdad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué capacidad del cuerpo extiende una pala?",
+"respuesta": "Extiende la fuerza y el alcance de brazos y manos para mover tierra."
+},
+{
+"ejercicio": "Menciona un instrumento que extienda un sentido y di cuál.",
+"respuesta": "Ejemplo: el estetoscopio extiende el oído para escuchar el corazón."
+},
+{
+"ejercicio": "Reflexiona: ¿qué necesidad de tu comunidad atiende una bomba de agua? Una respuesta válida nombra la necesidad y el beneficio.",
+"respuesta": "Atiende la necesidad de contar con agua; sube agua que el cuerpo no podría cargar, así se facilita el riego y el consumo en casa."
+}
+]
+}
+},
+{
+"nodo_id": "f6-012",
+"titulo": "Materiales, procesos técnicos y comunidad",
+"slug": "materiales-procesos-tecnicos-comunidad-secundaria",
+"palabras": [
+"materiales",
+"materia prima",
+"artesanía",
+"proceso técnico",
+"comunidad",
+"recursos locales"
+],
+"contenido": {
+"idea": "Para hacer un pastel necesitas harina, huevos y azúcar, y las mismas cosas no sirven para armar una casita. En la tecnología pasa igual: cada material sirve para algo distinto.",
+"pizarron": "**Qué es:** un material es de lo que se hace un producto. Cada comunidad usa lo que tiene cerca.\n\n**Origen:** natural, como la madera; o sintético, como el plástico.\n\n**Propiedades:** dureza, peso y resistencia.\n\n**Proceso:** pasos para transformarlo.\n\nBarro, moldeado, secado, horneado, olla.\n\n**Ejemplos:** barro en Oaxaca y cobre en Michoacán.\n\n**Madera:** conduce poco el calor. Por eso una cuchara de madera no quema la mano.\n\n**Para tu escuela:** elige un objeto de tu región y di de qué está hecho.",
+"truco": "Material correcto = propiedad que necesito + recurso que tengo.",
+"practica": {
+"ejercicio": "¿Por qué una cuchara para sopa caliente suele hacerse de madera y no de metal?",
+"respuesta": "Porque la madera conduce poco el calor y no quema la mano, mientras que el metal se calienta rápido."
+},
+"analogias": [
+{
+"titulo": "La despensa",
+"texto": "Una comunidad es como una cocina con su propia despensa: cocina con lo que tiene cerca. Así también fabrica objetos con los materiales de su región."
+},
+{
+"titulo": "La receta familiar",
+"texto": "Una receta pasa de abuelas a nietas con sus pasos exactos. Los procesos técnicos artesanales se heredan igual dentro de una comunidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos propiedades que debe tener un material para hacer un cable eléctrico.",
+"respuesta": "Conducir bien la electricidad (como el cobre) y ser flexible."
+},
+{
+"ejercicio": "Ordena el proceso: cocción, extraer barro, moldeado, secado.",
+"respuesta": "Extraer barro, moldeado, secado, cocción."
+},
+{
+"ejercicio": "Reflexiona: ¿qué material abunda en tu comunidad y qué podrías fabricar con él? Una respuesta válida relaciona el material con una propiedad y un uso.",
+"respuesta": "Ejemplo: en una zona con mucho carrizo, canastas, porque es ligero, flexible y fácil de tejer."
+}
+]
+}
+},
+{
+"nodo_id": "f6-016",
+"titulo": "Energía en los procesos técnicos",
+"slug": "energia-procesos-tecnicos-secundaria",
+"palabras": [
+"energía",
+"fuentes de energía",
+"renovable",
+"no renovable",
+"eficiencia",
+"impacto ambiental"
+],
+"contenido": {
+"idea": "Un juguete de cuerda se mueve porque tú le diste energía al girar la cuerda. Sin esa energía, se queda quieto. Todas las máquinas necesitan algo que las haga funcionar.",
+"pizarron": "**Qué es:** todo proceso necesita energía para mover, calentar o transformar.\n\n**No renovables:** se acaban. Petróleo y carbón.\n\n**Renovables:** vuelven. Sol y viento.\n\n**Transformación:** la energía cambia de forma. Un foco pasa de eléctrica a luz y calor.\n\n**Eficiencia:** cuánta energía se aprovecha. Un foco LED desperdicia menos.\n\n**Para tu escuela:** cuenta los focos de tu casa y di cuáles son LED.",
+"truco": "Toda máquina come energía: elige la que se repone y no la desperdicies.",
+"practica": {
+"ejercicio": "Clasifica como renovable o no renovable: viento, gas natural, sol.",
+"respuesta": "Viento: renovable; gas natural: no renovable; sol: renovable."
+},
+"analogias": [
+{
+"titulo": "La gasolina del cuerpo",
+"texto": "Tú necesitas comer para jugar y estudiar. Una máquina necesita su propio alimento, que es la energía eléctrica, el combustible o el viento."
+},
+{
+"titulo": "El ahorro de la alcancía",
+"texto": "Las fuentes no renovables son como gastar los ahorros sin volver a depositar. Las renovables son como un ingreso que se repone cada semana."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué transformación de energía ocurre en un ventilador eléctrico?",
+"respuesta": "La energía eléctrica se transforma en energía de movimiento."
+},
+{
+"ejercicio": "¿Por qué un foco LED es más eficiente que uno incandescente?",
+"respuesta": "Porque convierte más energía eléctrica en luz y desperdicia menos como calor."
+},
+{
+"ejercicio": "Reflexiona: menciona dos acciones para ahorrar energía en casa y su beneficio. Una respuesta válida incluye acciones concretas.",
+"respuesta": "Ejemplo: apagar luces sin uso y desconectar aparatos; se reduce el recibo de luz y el consumo de energía."
+}
+]
+}
+},
+{
+"nodo_id": "f6-020",
+"titulo": "Factores que inciden en los procesos técnicos",
+"slug": "factores-inciden-procesos-tecnicos-secundaria",
+"palabras": [
+"factores",
+"factores sociales",
+"factores económicos",
+"factores ambientales",
+"cultura",
+"contexto"
+],
+"contenido": {
+"idea": "Si quieres hacer una fiesta, piensas en cuánto dinero hay, cuántos invitados llegarán y qué clima habrá. Así también, antes de fabricar algo se piensa en muchas condiciones.",
+"pizarron": "**Qué es:** cómo se hace algo depende de varios factores.\n\n- **Económicos:** cuánto cuesta.\n- **Sociales:** qué necesita la gente.\n- **Ambientales:** clima y recursos.\n- **Técnicos:** qué herramientas hay.\n- **Históricos:** cómo se hacía antes.\n\n**Ejemplo:** donde llueve mucho, los techos son inclinados.\n\n**Para tu escuela:** di qué factores cambian al hacer una casa en la playa.",
+"truco": "Antes de hacer, pregunta: dinero, gente, ambiente y saber.",
+"practica": {
+"ejercicio": "¿Qué tipo de factor es el clima de una región al elegir los materiales de una casa?",
+"respuesta": "Es un factor ambiental."
+},
+"analogias": [
+{
+"titulo": "El viaje en carretera",
+"texto": "Para un viaje cuentas con gasolina, tráfico y clima. Si cambia uno, cambias la ruta. Los factores cambian la forma de hacer un producto."
+},
+{
+"titulo": "La ropa del día",
+"texto": "Eliges la ropa según el frío, la ocasión y lo que tienes en el armario. Un proceso técnico se adapta igual a sus condiciones."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un taller no puede comprar una máquina cara. ¿Qué factor influye?",
+"respuesta": "El factor económico."
+},
+{
+"ejercicio": "Clasifica: costumbres de una comunidad al diseñar una estufa.",
+"respuesta": "Factor social y cultural."
+},
+{
+"ejercicio": "Reflexiona: elige un producto cotidiano y menciona dos factores que influyeron en su fabricación. Una respuesta válida nombra y justifica los factores.",
+"respuesta": "Ejemplo: una botella de plástico; el costo del material (económico) y el clima que exige que no se rompa fácil (ambiental)."
+}
+]
+}
+},
+{
+"nodo_id": "f6-024",
+"titulo": "Procesos técnicos",
+"slug": "procesos-tecnicos-secundaria",
+"palabras": [
+"proceso técnico",
+"pasos",
+"insumos",
+"producto",
+"acciones técnicas",
+"secuencia"
+],
+"contenido": {
+"idea": "Hacer un sándwich tiene orden: sacar el pan, poner los ingredientes, cerrar y servir. Si cambias el orden, queda un desastre. Un proceso técnico es una receta ordenada para hacer algo.",
+"pizarron": "**Qué es:** un proceso técnico son pasos ordenados para hacer algo.\n\n**Tiene:**\n\n1. **Entrada:** materiales y energía.\n2. **Transformación:** cortar, mezclar o calentar.\n3. **Salida:** el producto.\n\n**Ejemplo, pan:**\n\nEntrada: harina, agua y sal.\n\nTransformación: amasar y hornear.\n\nSalida: pan.\n\n**Para mejorar:** revisa qué se desperdicia.\n\n**Para tu escuela:** describe cómo se hace un agua de limón con esos tres pasos.",
+"truco": "Entra, se transforma, sale: insumo, acción, producto.",
+"practica": {
+"ejercicio": "Identifica entrada, transformación y salida al hacer jugo de naranja.",
+"respuesta": "Entrada: naranjas; transformación: cortar y exprimir; salida: jugo."
+},
+"analogias": [
+{
+"titulo": "La fila de la tienda",
+"texto": "En una fila cada persona avanza en su turno. En un proceso técnico cada paso va después del anterior, sin saltarse ninguno."
+},
+{
+"titulo": "El baile con pasos",
+"texto": "Un baile se aprende paso por paso, y si cambias el orden pierdes el ritmo. Un proceso técnico pide la misma secuencia para salir bien."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué son los insumos en un proceso técnico?",
+"respuesta": "Son los materiales, la energía y la información que entran al proceso."
+},
+{
+"ejercicio": "Ordena: hornear, amasar, juntar ingredientes, empacar.",
+"respuesta": "Juntar ingredientes, amasar, hornear, empacar."
+},
+{
+"ejercicio": "Reflexiona: describe en tres pasos un proceso que hagas en casa y di cómo lo mejorarías. Una respuesta válida tiene pasos ordenados y una mejora concreta.",
+"respuesta": "Ejemplo: lavar la ropa: separar, lavar, tender; mejora: separar por colores para evitar manchas."
+}
+]
+}
+},
+{
+"nodo_id": "f6-028",
+"titulo": "Comunicación y representación técnica",
+"slug": "comunicacion-representacion-tecnica-secundaria",
+"palabras": [
+"dibujo técnico",
+"croquis",
+"diagrama",
+"planos",
+"símbolos",
+"escala",
+"instructivo"
+],
+"contenido": {
+"idea": "Si quieres explicar cómo llegar a tu casa, dibujas un mapa con calles y flechas. Quien lo ve entiende sin que tú estés ahí. Eso es representar algo para comunicarlo.",
+"pizarron": "**Qué es:** en tecnología, las ideas se explican con dibujos y símbolos que todos entienden.\n\n**Croquis:** dibujo rápido a mano.\n\n**Plano:** dibujo con medidas.\n\n**Diagrama de flujo:** pasos con flechas.\n\n**Instructivo:** explica cómo usar o armar algo.\n\n**Escala:** 1:50 significa que 1 cm en el dibujo son 50 cm reales.\n\n**Diagrama de flujo:** muestra los pasos con figuras y flechas.\n\n**Para tu escuela:** haz un croquis de tu mesa con sus medidas.",
+"truco": "Si otro lo entiende sin ti, lo comunicaste bien.",
+"practica": {
+"ejercicio": "En un plano a escala 1:50, una pared mide 6 cm. ¿Cuánto mide en la realidad?",
+"respuesta": "6 × 50 = 300 cm, es decir, 3 metros."
+},
+"analogias": [
+{
+"titulo": "El mapa del tesoro",
+"texto": "Un mapa usa marcas y flechas para guiar a alguien hacia un lugar. Un plano guía a quien construye un objeto."
+},
+{
+"titulo": "Las señales de tránsito",
+"texto": "Un semáforo o un alto se entienden en todas partes porque todos aceptan su significado. Los símbolos técnicos funcionan igual."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Para qué sirve un diagrama de flujo?",
+"respuesta": "Para mostrar los pasos de un proceso en orden con figuras y flechas."
+},
+{
+"ejercicio": "En una escala 1:20, un mueble mide 90 cm. ¿Cuánto mide en el dibujo?",
+"respuesta": "90 ÷ 20 = 4.5 cm."
+},
+{
+"ejercicio": "Reflexiona: ¿por qué es importante usar símbolos acordados en un plano? Una respuesta válida menciona claridad y evitar errores.",
+"respuesta": "Porque todos interpretan lo mismo, se evitan errores y se puede construir el objeto como se diseñó."
+}
+]
+}
+},
+{
+"nodo_id": "f6-035",
+"titulo": "Evaluación de sistemas tecnológicos",
+"slug": "evaluacion-sistemas-tecnologicos-secundaria",
+"palabras": [
+"evaluar",
+"sistema tecnológico",
+"criterios",
+"eficiencia",
+"costo",
+"impacto",
+"mejora"
+],
+"contenido": {
+"idea": "Después de armar un juguete, lo pruebas: ¿funciona?, ¿se rompe fácil?, ¿es divertido? Con esas respuestas decides qué arreglar. Evaluar es revisar si algo sirve bien.",
+"pizarron": "**Qué es:** evaluar una tecnología es revisar si cumple su trabajo, y mejorarla.\n\n**Pasos:**\n\n1. Di para qué sirve.\n2. Elige qué medir: costo, seguridad, duración.\n3. Prueba y anota.\n4. Busca fallas.\n5. Mejora y prueba otra vez.\n\n**Ejemplo:** un riego por goteo ahorra agua, pero se tapa. Se mejora el filtro.\n\n**Tras una falla:** propón una mejora y vuelve a probar.\n\n**Para tu escuela:** evalúa tu mochila con tres puntos.",
+"truco": "Prueba, mide, compara con el criterio y mejora.",
+"practica": {
+"ejercicio": "Un riego consumía 100 litros al día y con goteo consume 60. ¿Qué porcentaje de agua se ahorra?",
+"respuesta": "Ahorra 40 litros; 40 ÷ 100 = 0.40, es decir, 40 por ciento."
+},
+"analogias": [
+{
+"titulo": "La boleta",
+"texto": "Una calificación muestra qué haces bien y qué debes mejorar. Evaluar un sistema muestra sus aciertos y fallas."
+},
+{
+"titulo": "El chequeo médico",
+"texto": "El médico mide cosas y compara con valores normales. Se evalúa un sistema midiendo y comparando con criterios."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres criterios para evaluar una estufa ahorradora.",
+"respuesta": "Ejemplo: consumo de leña, seguridad y costo."
+},
+{
+"ejercicio": "¿Qué se hace después de detectar una falla?",
+"respuesta": "Se propone una mejora y se vuelve a probar."
+},
+{
+"ejercicio": "Reflexiona: evalúa un aparato de tu casa con dos criterios. Una respuesta válida nombra criterios y una conclusión.",
+"respuesta": "Ejemplo: el refrigerador; mantiene frío (funcionalidad) pero consume mucha luz (eficiencia); conviene revisar su sello."
+}
+]
+}
+}
 ]

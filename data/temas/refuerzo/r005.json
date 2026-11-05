@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "El reloj es un círculo con dos flechas que corren. La chiquita dice la hora y la grande dice los minutos, como una tortuga y una liebre.",
-"pizarron": "**La regla:** la manecilla corta marca la hora y la larga los minutos. En el 12 es hora exacta y en el 6 es y media.\n\nEl reloj tiene 12 números y dos manecillas:\n\n- **Manecilla corta**: marca la **hora**.\n- **Manecilla larga**: marca los **minutos**.\n\nUna vuelta completa de la larga son **60 minutos**, o sea 1 hora.\n\n**Hora en punto**: la larga está en el 12.\n\n- Corta en el 3 y larga en el 12: son las 3 en punto.\n\n**Hora y media**: la larga está en el 6, porque pasaron 30 minutos.\n\n- Corta entre el 7 y el 8, larga en el 6: son las 7 y media (7:30).\n\nEn la hora y media, la corta queda **entre** dos números: la hora es la que ya pasó.",
+"pizarron": "**La regla:** la manecilla corta marca la hora y la larga los minutos. En el 12 es hora exacta y en el 6 es y media.\n\nEl reloj tiene 12 números y dos manecillas:\n\n- **Manecilla corta**: marca la **hora**.\n- **Manecilla larga**: marca los **minutos**.\n\nUna vuelta completa de la larga son **60 minutos**, o sea 1 hora.\n\n**Hora en punto**: la larga está en el 12.\n\n- Corta en el 3 y larga en el 12: son las 3 en punto.\n\n**Hora y media**: la larga está en el 6, porque pasaron 30 minutos.\n\n- Corta entre el 7 y el 8, larga en el 6: son las 7 y media (7:30).\n\nEn la hora y media, la corta queda **entre** dos números: la hora es la que ya pasó.\n\n**Para tu escuela:** di a qué hora entras y a qué hora sales.",
 "truco": "Larga en 12, en punto; larga en 6, y media.",
 "practica": {
 "ejercicio": "La manecilla corta está en el 9 y la larga en el 12. ¿Qué hora es?",
@@ -57,7 +57,7 @@
 ],
 "contenido": {
 "idea": "Divide el reloj como una pizza en 4 rebanadas iguales. Cada rebanada dura 15 minutos y se llama cuarto de hora.",
-"pizarron": "**La regla:** un cuarto de hora son 15 minutos. Con la manecilla larga en el 3 es y cuarto, y en el 9 es menos cuarto.\n\nUna hora tiene 60 minutos. Dividida en 4 partes iguales, cada parte son **15 minutos**.\n\nCada número del reloj vale **5 minutos**:\n\n- Larga en el 3: 5 × 3 = 15 minutos → **y cuarto**.\n- Larga en el 6: 30 minutos → **y media**.\n- Larga en el 9: 45 minutos → **menos cuarto**.\n\nEjemplos:\n\n- 2:15 son las dos y cuarto.\n- 2:45 son las tres menos cuarto, porque faltan 15 minutos para las 3.\n\nEs decir, 45 minutos ya pasaron y solo faltan 15 para la siguiente hora.",
+"pizarron": "**La regla:** un cuarto de hora son 15 minutos. Con la manecilla larga en el 3 es y cuarto, y en el 9 es menos cuarto.\n\nUna hora tiene 60 minutos. Dividida en 4 partes iguales, cada parte son **15 minutos**.\n\nCada número del reloj vale **5 minutos**:\n\n- Larga en el 3: 5 × 3 = 15 minutos → **y cuarto**.\n- Larga en el 6: 30 minutos → **y media**.\n- Larga en el 9: 45 minutos → **menos cuarto**.\n\nEjemplos:\n\n- 2:15 son las dos y cuarto.\n- 2:45 son las tres menos cuarto, porque faltan 15 minutos para las 3.\n\nEs decir, 45 minutos ya pasaron y solo faltan 15 para la siguiente hora.\n\n**Para tu escuela:** dibuja un reloj con la hora de tu recreo.",
 "truco": "Larga en el 3, y cuarto; larga en el 9, menos cuarto.",
 "practica": {
 "ejercicio": "Si son las 6:15, ¿dónde está la manecilla larga?",
@@ -102,7 +102,7 @@
 ],
 "contenido": {
 "idea": "El calendario es un mapa del tiempo. Cada casilla es un día y sirve para saber qué día es hoy y cuánto falta para tu cumpleaños.",
-"pizarron": "**La regla:** una semana tiene 7 días y un año tiene 12 meses.\n\nMedidas de tiempo:\n\n- 1 **semana** = 7 días.\n- 1 **mes** = 28, 29, 30 o 31 días.\n- 1 **año** = 12 meses = 365 días.\n\n**Días**: lunes, martes, miércoles, jueves, viernes, sábado y domingo.\n\n**Meses** y sus días:\n\n| Mes | Días |\n|---|---|\n| Enero | 31 |\n| Febrero | 28 o 29 |\n| Marzo | 31 |\n| Abril | 30 |\n| Mayo | 31 |\n| Junio | 30 |\n| Julio | 31 |\n| Agosto | 31 |\n| Septiembre | 30 |\n| Octubre | 31 |\n| Noviembre | 30 |\n| Diciembre | 31 |\n\nCada 4 años, normalmente, hay un **año bisiesto** de 366 días: febrero tiene 29.\n\nUna fecha se escribe día, mes y año: 16 de septiembre de 2010.",
+"pizarron": "**La regla:** una semana tiene 7 días y un año tiene 12 meses.\n\nMedidas de tiempo:\n\n- 1 **semana** = 7 días.\n- 1 **mes** = 28, 29, 30 o 31 días.\n- 1 **año** = 12 meses = 365 días.\n\n**Días**: lunes, martes, miércoles, jueves, viernes, sábado y domingo.\n\n**Meses** y sus días:\n\n| Mes | Días |\n|---|---|\n| Enero | 31 |\n| Febrero | 28 o 29 |\n| Marzo | 31 |\n| Abril | 30 |\n| Mayo | 31 |\n| Junio | 30 |\n| Julio | 31 |\n| Agosto | 31 |\n| Septiembre | 30 |\n| Octubre | 31 |\n| Noviembre | 30 |\n| Diciembre | 31 |\n\nCada 4 años, normalmente, hay un **año bisiesto** de 366 días: febrero tiene 29.\n\nUna fecha se escribe día, mes y año: 16 de septiembre de 2010.\n\n**Para tu escuela:** marca tu cumpleaños en un calendario.",
 "truco": "Cuenta con los nudillos: nudillo tiene 31 días y hueco tiene 30 o menos.",
 "practica": {
 "ejercicio": "Si hoy es martes, ¿qué día será en 7 días?",
@@ -148,7 +148,7 @@
 ],
 "contenido": {
 "idea": "Si quieres saber qué sabor de helado gana entre tus amigos, pones una rayita por cada voto. Al final solo cuentas las rayitas.",
-"pizarron": "**Qué es:** una tabla de conteo registra datos con rayitas, agrupadas de 5 en 5.\n\nUna **tabla de conteo** sirve para ordenar datos.\n\nPasos:\n\n1. Escribe las opciones.\n2. Por cada dato, haz una marca.\n3. Agrupa las marcas de 5 en 5.\n4. Cuenta el total.\n\nEjemplo: fruta favorita de 15 alumnos.\n\n| Fruta | Marcas | Total |\n|---|---|---|\n| Mango | IIII I | 6 |\n| Plátano | IIII | 4 |\n| Manzana | IIII | 5 |\n\nLeer la tabla:\n\n- La más votada es el mango.\n- La menos votada es el plátano.\n- Total: 6 + 4 + 5 = 15 alumnos.\n\nEn tu cuaderno, la quinta marca se dibuja cruzando las otras cuatro.",
+"pizarron": "**Qué es:** una tabla de conteo registra datos con rayitas, agrupadas de 5 en 5.\n\nUna **tabla de conteo** sirve para ordenar datos.\n\nPasos:\n\n1. Escribe las opciones.\n2. Por cada dato, haz una marca.\n3. Agrupa las marcas de 5 en 5.\n4. Cuenta el total.\n\nEjemplo: fruta favorita de 15 alumnos.\n\n| Fruta | Marcas | Total |\n|---|---|---|\n| Mango | IIII I | 6 |\n| Plátano | IIII | 4 |\n| Manzana | IIII | 5 |\n\nLeer la tabla:\n\n- La más votada es el mango.\n- La menos votada es el plátano.\n- Total: 6 + 4 + 5 = 15 alumnos.\n\nEn tu cuaderno, la quinta marca se dibuja cruzando las otras cuatro.\n\n**Para tu escuela:** cuenta con palitos los colores de playera de tu salón.",
 "truco": "Agrupa de 5 en 5 para contar más rápido.",
 "practica": {
 "ejercicio": "Una tabla marca: rojo 7 votos y azul 5. ¿Cuántos votaron?",
@@ -192,7 +192,7 @@
 ],
 "contenido": {
 "idea": "Un pictograma es una gráfica hecha con dibujos. En vez de escribir números, dibujas una carita por cada niño, y de un vistazo ves quién tiene más.",
-"pizarron": "**Qué es:** un pictograma es una gráfica que usa dibujos para mostrar cantidades.\n\nUn **pictograma** representa datos con dibujos.\n\nPartes:\n\n- Un **título**.\n- Las **categorías**, como los días.\n- Una **clave** que dice cuánto vale cada dibujo.\n\nEjemplo: libros leídos. Clave: ★ = 2 libros.\n\n| Día | Libros |\n|---|---|\n| Lunes | ★★★ |\n| Martes | ★ |\n| Miércoles | ★★ |\n\nLectura:\n\n- Lunes: 3 × 2 = 6 libros.\n- Martes: 1 × 2 = 2 libros.\n- Miércoles: 2 × 2 = 4 libros.\n\nSi cada dibujo vale más de 1, siempre multiplica. Medio dibujo vale la mitad.",
+"pizarron": "**Qué es:** un pictograma es una gráfica que usa dibujos para mostrar cantidades.\n\nUn **pictograma** representa datos con dibujos.\n\nPartes:\n\n- Un **título**.\n- Las **categorías**, como los días.\n- Una **clave** que dice cuánto vale cada dibujo.\n\nEjemplo: libros leídos. Clave: ★ = 2 libros.\n\n| Día | Libros |\n|---|---|\n| Lunes | ★★★ |\n| Martes | ★ |\n| Miércoles | ★★ |\n\nLectura:\n\n- Lunes: 3 × 2 = 6 libros.\n- Martes: 1 × 2 = 2 libros.\n- Miércoles: 2 × 2 = 4 libros.\n\nSi cada dibujo vale más de 1, siempre multiplica. Medio dibujo vale la mitad.\n\n**Para tu escuela:** dibuja un pictograma con las frutas favoritas de tu grupo.",
 "truco": "Antes de contar, lee la clave.",
 "practica": {
 "ejercicio": "Clave: 🍎 = 5 manzanas. Hay 4 dibujos. ¿Cuántas manzanas son?",
@@ -238,7 +238,7 @@
 ],
 "contenido": {
 "idea": "Los números grandes son como un tren con vagones de tres en tres. Cada vagón tiene nombre: unidades, miles y millones.",
-"pizarron": "**La regla:** los números se agrupan de tres en tres cifras: unidades, millares y millones.\n\nPara leer un número grande, sepáralo en grupos de **tres cifras**, de derecha a izquierda.\n\n| Millones | Miles | Unidades |\n|---|---|---|\n| 3 | 450 | 208 |\n\nEl número 3 450 208 se lee: **tres millones cuatrocientos cincuenta mil doscientos ocho**.\n\nPasos:\n\n1. Separa de tres en tres.\n2. Lee cada grupo como un número normal.\n3. Di el nombre del grupo: millones, mil.\n\nOtros ejemplos:\n\n- 12 000: doce mil.\n- 505 300: quinientos cinco mil trescientos.\n- 1 000 000: un millón.\n\nDespués de 999 999 sigue un millón.",
+"pizarron": "**La regla:** los números se agrupan de tres en tres cifras: unidades, millares y millones.\n\nPara leer un número grande, sepáralo en grupos de **tres cifras**, de derecha a izquierda.\n\n| Millones | Miles | Unidades |\n|---|---|---|\n| 3 | 450 | 208 |\n\nEl número 3 450 208 se lee: **tres millones cuatrocientos cincuenta mil doscientos ocho**.\n\nPasos:\n\n1. Separa de tres en tres.\n2. Lee cada grupo como un número normal.\n3. Di el nombre del grupo: millones, mil.\n\nOtros ejemplos:\n\n- 12 000: doce mil.\n- 505 300: quinientos cinco mil trescientos.\n- 1 000 000: un millón.\n\nDespués de 999 999 sigue un millón.\n\n**Para tu escuela:** lee la población de tu estado.",
 "truco": "Separa de tres en tres desde la derecha: primer espacio mil, segundo millón.",
 "practica": {
 "ejercicio": "¿Cómo se lee 25 300?",
@@ -283,7 +283,7 @@
 ],
 "contenido": {
 "idea": "Una cifra es como un empleado: cuanto más a la izquierda trabaja, mayor es su puesto. Cada lugar a la izquierda vale diez veces más.",
-"pizarron": "**La regla:** cada lugar hacia la izquierda vale diez veces más que el anterior.\n\nCada lugar vale 10 veces más que el de su derecha:\n\n| Posición | Valor |\n|---|---|\n| Unidades | 1 |\n| Decenas | 10 |\n| Centenas | 100 |\n| Unidades de millar | 1 000 |\n| Decenas de millar | 10 000 |\n| Centenas de millar | 100 000 |\n| Unidades de millón | 1 000 000 |\n\nEjemplo: 3 482 615\n\n- 3 unidades de millón = 3 000 000\n- 4 centenas de millar = 400 000\n- 8 decenas de millar = 80 000\n- 2 unidades de millar = 2 000\n- 6 centenas = 600\n- 1 decena = 10\n- 5 unidades = 5\n\nAl sumar todo vuelves al número original. Eso se llama **forma desarrollada**.",
+"pizarron": "**La regla:** cada lugar hacia la izquierda vale diez veces más que el anterior.\n\nCada lugar vale 10 veces más que el de su derecha:\n\n| Posición | Valor |\n|---|---|\n| Unidades | 1 |\n| Decenas | 10 |\n| Centenas | 100 |\n| Unidades de millar | 1 000 |\n| Decenas de millar | 10 000 |\n| Centenas de millar | 100 000 |\n| Unidades de millón | 1 000 000 |\n\nEjemplo: 3 482 615\n\n- 3 unidades de millón = 3 000 000\n- 4 centenas de millar = 400 000\n- 8 decenas de millar = 80 000\n- 2 unidades de millar = 2 000\n- 6 centenas = 600\n- 1 decena = 10\n- 5 unidades = 5\n\nAl sumar todo vuelves al número original. Eso se llama **forma desarrollada**.\n\n**Para tu escuela:** di cuánto vale cada cifra del número de habitantes de México.",
 "truco": "Un paso a la izquierda: mismo número con un cero más.",
 "practica": {
 "ejercicio": "En 56 214, ¿qué valor tiene el 6?",
@@ -329,7 +329,7 @@
 ],
 "contenido": {
 "idea": "Escribir un número con letra es como dictarlo a alguien por teléfono: dices cada bloque en orden y solo agregas su nombre.",
-"pizarron": "**La regla:** los números grandes se escriben por grupos: primero los millones, luego los miles y al final el resto.\n\nPasos:\n\n1. Separa en grupos de tres cifras.\n2. Escribe cada grupo con letra.\n3. Agrega *millones* o *mil*.\n\nEjemplo: 2 345 016\n\n- 2 → dos millones\n- 345 → trescientos cuarenta y cinco mil\n- 016 → dieciséis\n\nResultado: **dos millones trescientos cuarenta y cinco mil dieciséis**.\n\nOrtografía:\n\n- Hasta el 30, una sola palabra: veintitrés, dieciocho.\n- Del 31 en adelante, con *y*: treinta y cuatro.\n- *Mil* no cambia: dos mil, no dos miles.\n- *Millón* lleva plural: un millón, dos millones.\n- Quinientos, setecientos y novecientos son irregulares.",
+"pizarron": "**La regla:** los números grandes se escriben por grupos: primero los millones, luego los miles y al final el resto.\n\nPasos:\n\n1. Separa en grupos de tres cifras.\n2. Escribe cada grupo con letra.\n3. Agrega *millones* o *mil*.\n\nEjemplo: 2 345 016\n\n- 2 → dos millones\n- 345 → trescientos cuarenta y cinco mil\n- 016 → dieciséis\n\nResultado: **dos millones trescientos cuarenta y cinco mil dieciséis**.\n\nOrtografía:\n\n- Hasta el 30, una sola palabra: veintitrés, dieciocho.\n- Del 31 en adelante, con *y*: treinta y cuatro.\n- *Mil* no cambia: dos mil, no dos miles.\n- *Millón* lleva plural: un millón, dos millones.\n- Quinientos, setecientos y novecientos son irregulares.\n\n**Para tu escuela:** escribe con letra los alumnos de tu escuela.",
 "truco": "Mil nunca cambia; millón sí se vuelve millones.",
 "practica": {
 "ejercicio": "Escribe con letra 3 700.",
@@ -374,7 +374,7 @@
 ],
 "contenido": {
 "idea": "Redondear es decir un número más fácil que está cerca. Si algo cuesta 98 pesos dices casi 100, porque es más sencillo y casi igual.",
-"pizarron": "**La regla:** mira la cifra de la derecha del lugar que redondeas: si es 5 o más, subes; si es menor que 5, se queda igual.\n\nPasos para redondear:\n\n1. Mira la cifra del lugar al que redondeas.\n2. Fíjate en la cifra de su **derecha**.\n3. Si es **5 o más**, la cifra aumenta 1.\n4. Si es **4 o menos**, la cifra se queda igual.\n5. Lo que está a la derecha se vuelve cero.\n\nEjemplos:\n\n- 47 a la decena: la derecha es 7, sube → **50**.\n- 342 a la centena: la derecha es 4, se queda → **300**.\n- 6 850 al millar: la derecha es 8, sube → **7 000**.\n\nSirve para **estimar** antes de resolver: 198 + 305 es cerca de 200 + 300 = 500.",
+"pizarron": "**La regla:** mira la cifra de la derecha del lugar que redondeas: si es 5 o más, subes; si es menor que 5, se queda igual.\n\nPasos para redondear:\n\n1. Mira la cifra del lugar al que redondeas.\n2. Fíjate en la cifra de su **derecha**.\n3. Si es **5 o más**, la cifra aumenta 1.\n4. Si es **4 o menos**, la cifra se queda igual.\n5. Lo que está a la derecha se vuelve cero.\n\nEjemplos:\n\n- 47 a la decena: la derecha es 7, sube → **50**.\n- 342 a la centena: la derecha es 4, se queda → **300**.\n- 6 850 al millar: la derecha es 8, sube → **7 000**.\n\nSirve para **estimar** antes de resolver: 198 + 305 es cerca de 200 + 300 = 500.\n\n**Para tu escuela:** redondea a decenas el precio de tres cosas.",
 "truco": "Cinco o más, sube; cuatro o menos, se queda.",
 "practica": {
 "ejercicio": "Redondea 268 a la decena.",
@@ -418,7 +418,7 @@
 ],
 "contenido": {
 "idea": "Los antiguos romanos no usaban nuestras cifras. Usaban letras, como bloques de construcción: las pones juntas y sumas sus valores.",
-"pizarron": "**La regla:** I vale 1, V vale 5, X vale 10, L vale 50, C vale 100, D vale 500 y M vale 1000. Una letra menor antes de una mayor se resta.\n\nValores:\n\n| I | V | X | L | C | D | M |\n|---|---|---|---|---|---|---|\n| 1 | 5 | 10 | 50 | 100 | 500 | 1000 |\n\nReglas:\n\n1. Una letra menor a la **derecha** de una mayor **suma**: VI = 6.\n2. Una letra menor a la **izquierda** de una mayor **resta**: IV = 4.\n3. I, X y C se pueden repetir hasta 3 veces: III = 3.\n4. V, L y D no se repiten.\n5. Solo se restan: I antes de V y X; X antes de L y C; C antes de D y M.\n\nEjemplos:\n\n- XIV = 10 + 4 = 14\n- XL = 40\n- XCII = 90 + 2 = 92\n- CDXX = 400 + 20 = 420\n- MMXXIV = 2024\n\nSe usan para siglos: siglo XXI.",
+"pizarron": "**La regla:** I vale 1, V vale 5, X vale 10, L vale 50, C vale 100, D vale 500 y M vale 1000. Una letra menor antes de una mayor se resta.\n\nValores:\n\n| I | V | X | L | C | D | M |\n|---|---|---|---|---|---|---|\n| 1 | 5 | 10 | 50 | 100 | 500 | 1000 |\n\nReglas:\n\n1. Una letra menor a la **derecha** de una mayor **suma**: VI = 6.\n2. Una letra menor a la **izquierda** de una mayor **resta**: IV = 4.\n3. I, X y C se pueden repetir hasta 3 veces: III = 3.\n4. V, L y D no se repiten.\n5. Solo se restan: I antes de V y X; X antes de L y C; C antes de D y M.\n\nEjemplos:\n\n- XIV = 10 + 4 = 14\n- XL = 40\n- XCII = 90 + 2 = 92\n- CDXX = 400 + 20 = 420\n- MMXXIV = 2024\n\nSe usan para siglos: siglo XXI.\n\n**Para tu escuela:** busca números romanos en un reloj o en tu libro.",
 "truco": "Chico antes de grande resta; chico después de grande suma.",
 "practica": {
 "ejercicio": "¿Qué número es XXIX?",

@@ -1,231 +1,231 @@
 [
-  {
-    "nodo_id": "f6-043",
-    "titulo": "Formas de ser, pensar, actuar y relacionarse",
-    "slug": "formas-de-ser-pensar-actuar-secundaria",
-    "palabras": [
-      "personalidad",
-      "identidad",
-      "carácter",
-      "convivencia",
-      "empatía",
-      "asertividad"
-    ],
-    "contenido": {
-      "idea": "Cada persona es como un helado con sabores distintos: tú eliges unos, tu amigo otros, y ninguno es el \"correcto\". Lo importante es que todos puedan compartir la heladería sin pelear.",
-      "pizarron": "**Qué es:** cada persona tiene su forma de ser, de pensar, de actuar y de tratar a los demás.\n\n**Ser:** cómo eres.\n\n**Pensar:** cómo entiendes lo que pasa.\n\n**Actuar:** lo que haces.\n\n**Relacionarte:** cómo tratas a otros.\n\n**Ejemplo:** dos niños pierden un partido. Uno se enoja y el otro se ríe. Vivieron lo mismo y reaccionaron distinto.\n\n**Para convivir:** escucha, di lo que piensas sin ofender y ponte en el lugar del otro.\n\n**Para recordar:**\n- **Empatía:** Es comprender lo que siente otra persona. Ejemplo: notar que una amiga está triste y preguntarle cómo se siente.\n\n**Para tu escuela:** escribe cómo reaccionas cuando pierdes en un juego.",
-      "truco": "Ser, pensar, actuar: mírate; luego mira al otro.",
-      "practica": {
-        "ejercicio": "Un compañero prefiere trabajar solo y tú en equipo. ¿Qué respuesta asertiva y empática darías?",
-        "respuesta": "Por ejemplo: \"Entiendo que te concentras mejor solo; propongo que cada uno haga una parte y luego la unimos\". Reconoce su forma, expresa la tuya y busca un acuerdo."
-      },
-      "analogias": [
-        {
-          "titulo": "La orquesta",
-          "texto": "Cada instrumento suena diferente, pero la música sale bien cuando todos se escuchan y respetan el ritmo común."
-        },
-        {
-          "titulo": "El mapa de colores",
-          "texto": "Si todos pintaran con un solo color, el dibujo sería aburrido. Los colores distintos hacen la imagen completa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona una diferencia entre pensar y actuar.",
-          "respuesta": "Pensar es interpretar internamente una situación; actuar es la conducta visible que realizas."
-        },
-        {
-          "ejercicio": "¿Qué es la empatía? Da un ejemplo.",
-          "respuesta": "Es comprender lo que siente otra persona. Ejemplo: notar que una amiga está triste y preguntarle cómo se siente."
-        },
-        {
-          "ejercicio": "Reflexiona: describe una forma tuya de ser que ayude a convivir. Criterios.",
-          "respuesta": "Respuesta personal que nombre la característica, una situación concreta donde ayuda a otros y cómo la cuidas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-047",
-    "titulo": "Los sentimientos y la toma de decisiones",
-    "slug": "sentimientos-toma-decisiones-secundaria",
-    "palabras": [
-      "emociones",
-      "decisiones",
-      "impulsividad",
-      "autorregulación",
-      "consecuencias"
-    ],
-    "contenido": {
-      "idea": "Los sentimientos son como el tablero de luces de un coche: avisan algo importante, pero no deben manejar solos. Tú decides hacia dónde ir.",
-      "pizarron": "**Qué es:** tus emociones influyen en lo que decides. Saber qué sientes ayuda a decidir mejor.\n\nSi estás muy enojado, puedes decir algo de lo que luego te arrepientas.\n\n**Pasos:**\n\n1. Dile nombre a lo que sientes.\n2. Respira y espera.\n3. Piensa qué opciones tienes.\n4. Piensa qué puede pasar con cada una.\n5. Elige y luego revisa qué aprendiste.\n\nSentir no es malo. Solo no dejes que la emoción decida por ti.\n\n**Para recordar:**\n- **¿Por qué decidir enojado puede ser riesgoso?** Porque la emoción intensa nubla el juicio y se actúa sin medir las consecuencias.\n\n**Para tu escuela:** recuerda una pelea y escribe qué harías distinto.",
-      "truco": "Nombra, respira, piensa, elige.",
-      "practica": {
-        "ejercicio": "Estás muy enojado porque un amigo te dejó plantado y quieres escribirle un mensaje ofensivo. Aplica los pasos.",
-        "respuesta": "Nombro mi enojo, respiro y espero, pienso opciones (hablar después, expresar cómo me sentí), evalúo que un insulto dañaría la amistad y elijo hablar con calma."
-      },
-      "analogias": [
-        {
-          "titulo": "La olla de frijoles",
-          "texto": "Si destapas una olla hirviendo de golpe, salpica. Esperar a que baje el hervor es dejar pasar la emoción antes de decidir."
-        },
-        {
-          "titulo": "El semáforo",
-          "texto": "Rojo es parar y respirar, amarillo pensar opciones, verde actuar. Así evitas chocar con tus propias decisiones."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué decidir enojado puede ser riesgoso?",
-          "respuesta": "Porque la emoción intensa nubla el juicio y se actúa sin medir las consecuencias."
-        },
-        {
-          "ejercicio": "Ordena: elegir, identificar la emoción, evaluar consecuencias, pausar.",
-          "respuesta": "Identificar la emoción, pausar, evaluar consecuencias, elegir."
-        },
-        {
-          "ejercicio": "Reflexiona sobre una decisión que tomaste con una emoción fuerte. Criterios.",
-          "respuesta": "Debe describir la emoción, qué decidiste, el resultado y qué harías distinto usando una pausa."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-051",
-    "titulo": "Construcción del proyecto de vida",
-    "slug": "proyecto-de-vida-secundaria",
-    "palabras": [
-      "metas",
-      "sueños",
-      "planeación",
-      "valores",
-      "futuro",
-      "objetivos"
-    ],
-    "contenido": {
-      "idea": "Un proyecto de vida es como planear un viaje: sabes a dónde quieres llegar, qué necesitas llevar y por qué camino puedes ir. Si el camino se cierra, buscas otro.",
-      "pizarron": "**Qué es:** un proyecto de vida es un plan de lo que quieres lograr. Puede cambiar con el tiempo.\n\nComo planear un viaje: decides a dónde vas y qué necesitas.\n\n**Pasos:**\n\n1. Conócete: qué te gusta y qué se te da.\n2. Imagina tu futuro.\n3. Pon metas para este mes, este año y cinco años.\n4. Decide qué harás para lograrlas.\n5. Revisa y cambia si hace falta.\n\n**Una buena meta se puede medir:** *Subir a 8 en matemáticas, estudiando 30 minutos diarios.*\n\n**Para tu escuela:** escribe una meta para este mes.",
-      "truco": "Conócete, sueña, fija metas, actúa, ajusta.",
-      "practica": {
-        "ejercicio": "Convierte \"quiero ser mejor en inglés\" en una meta específica y medible.",
-        "respuesta": "Por ejemplo: \"Aprender 10 palabras nuevas por semana durante tres meses, practicando 15 minutos al día\"."
-      },
-      "analogias": [
-        {
-          "titulo": "El GPS",
-          "texto": "Pones un destino, pero si hay un bloqueo, el GPS recalcula. Tu proyecto también puede cambiar de ruta sin perder el destino."
-        },
-        {
-          "titulo": "La milpa",
-          "texto": "Para cosechar en meses hay que preparar la tierra y sembrar hoy. Las metas futuras se cultivan con acciones presentes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Da un ejemplo de meta a corto plazo.",
-          "respuesta": "Entregar todas las tareas de la semana o estudiar 30 minutos diarios este mes."
-        },
-        {
-          "ejercicio": "¿Por qué el proyecto de vida debe ser flexible?",
-          "respuesta": "Porque las circunstancias y los intereses cambian, y se necesita ajustar el plan sin renunciar."
-        },
-        {
-          "ejercicio": "Reflexiona: escribe una meta a cinco años y dos acciones para lograrla. Criterios.",
-          "respuesta": "Debe ser específica y realista, con acciones concretas que puedas empezar pronto y relación con tus valores."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-055",
-    "titulo": "Prevención de situaciones de riesgo",
-    "slug": "prevencion-situaciones-de-riesgo-secundaria",
-    "palabras": [
-      "riesgos",
-      "seguridad",
-      "adicciones",
-      "redes sociales",
-      "presión de grupo",
-      "autocuidado"
-    ],
-    "contenido": {
-      "idea": "Prevenir es como ponerse el casco antes de subir a la bicicleta: no es miedo, es cuidarte para disfrutar el paseo sin lastimarte.",
-      "pizarron": "**Qué es:** prevenir es notar un peligro y evitarlo antes de que te dañe.\n\n**Ejemplos de riesgo:** que te presionen para probar drogas, retos peligrosos o desconocidos en internet.\n\n**Qué hacer:**\n\n1. Detecta señales: te sientes incómodo o te piden guardar un secreto.\n2. Conoce tus límites.\n3. Di no con firmeza: *No quiero, me voy.*\n4. No compartas tus datos en línea.\n5. Pide ayuda a un adulto de confianza.\n\nPedir ayuda es de valientes.\n\n**Para tu escuela:** practica con un amigo cómo decir no.",
-      "truco": "Detecta, di no, aléjate, pide ayuda.",
-      "practica": {
-        "ejercicio": "Un conocido de internet te pide tu dirección y que no se lo digas a nadie. ¿Qué haces?",
-        "respuesta": "No compartir datos, bloquear a la persona y avisar a un adulto de confianza, pues pedir secreto es señal de peligro."
-      },
-      "analogias": [
-        {
-          "titulo": "El cinturón de seguridad",
-          "texto": "No lo usas porque esperes chocar, sino para estar protegido si algo pasa. Las medidas de prevención funcionan igual."
-        },
-        {
-          "titulo": "La puerta con cerradura",
-          "texto": "Cerrar con llave tu casa no es desconfiar de todos; es decidir quién entra. Con tus datos personales pasa lo mismo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos señales de una situación de riesgo.",
-          "respuesta": "Sentirte incómodo o presionado y que te pidan guardar un secreto o datos personales."
-        },
-        {
-          "ejercicio": "Un grupo te presiona para probar algo peligroso. ¿Qué respuesta firme puedes dar?",
-          "respuesta": "\"No quiero, no me interesa\", y retirarte del lugar si insisten."
-        },
-        {
-          "ejercicio": "Reflexiona: nombra tres personas o lugares donde pedirías ayuda. Criterios.",
-          "respuesta": "Deben ser personas confiables y accesibles, con una razón por la que confías en ellas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-058",
-    "titulo": "Educación Integral en Sexualidad",
-    "slug": "educacion-integral-sexualidad-secundaria",
-    "palabras": [
-      "sexualidad",
-      "cuerpo",
-      "respeto",
-      "consentimiento",
-      "salud",
-      "afectividad"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como tu casa: tú decides quién entra y cuándo, y mereces cuidarla y conocerla. Los demás también tienen su propia casa que se respeta.",
-      "pizarron": "**Qué es:** es aprender sobre tu cuerpo, tus emociones, tus derechos y el respeto, con información correcta.\n\n**Ideas clave:**\n\n1. Los cambios de la pubertad son normales.\n2. Cuida tu higiene y ve al médico si tienes dudas.\n3. Nadie debe tocarte o presionarte si no quieres. Tú tampoco a nadie.\n4. Todas las personas merecen respeto.\n5. Pregunta a tu familia, docentes o personal de salud, no solo a las redes.\n\nSi alguien pasa tus límites, avisa a un adulto de confianza.\n\n**Para tu escuela:** escribe el nombre de dos adultos a quienes les puedes preguntar.",
-      "truco": "Mi cuerpo, mis límites; tu cuerpo, tus límites.",
-      "practica": {
-        "ejercicio": "Un compañero insiste en que hagas algo que te incomoda con tu cuerpo. ¿Qué haces?",
-        "respuesta": "Decir no con claridad, alejarte y contar lo sucedido a un adulto de confianza; tu límite se respeta."
-      },
-      "analogias": [
-        {
-          "titulo": "El semáforo personal",
-          "texto": "Tú pones la luz: roja es no, verde es sí. Todos deben respetar tu color y tú el de los demás."
-        },
-        {
-          "titulo": "El libro de la biblioteca",
-          "texto": "Para saber algo bien, lo consultas en una fuente confiable y no en lo que cuentan por ahí."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa el consentimiento?",
-          "respuesta": "Es aceptar libremente algo; si alguien dice no o está presionado, no hay consentimiento."
-        },
-        {
-          "ejercicio": "Menciona dos fuentes confiables para resolver dudas.",
-          "respuesta": "Personal de salud y docentes o familiares de confianza."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿por qué es importante respetar los límites de otros? Criterios.",
-          "respuesta": "Debe mencionar dignidad, seguridad y confianza, con un ejemplo concreto de respeto."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-043",
+"titulo": "Formas de ser, pensar, actuar y relacionarse",
+"slug": "formas-de-ser-pensar-actuar-secundaria",
+"palabras": [
+"personalidad",
+"identidad",
+"carácter",
+"convivencia",
+"empatía",
+"asertividad"
+],
+"contenido": {
+"idea": "Cada persona es como un helado con sabores distintos: tú eliges unos, tu amigo otros, y ninguno es el \"correcto\". Lo importante es que todos puedan compartir la heladería sin pelear.",
+"pizarron": "**Qué es:** cada persona tiene su forma de ser, de pensar, de actuar y de tratar a los demás.\n\n**Ser:** cómo eres.\n\n**Pensar:** cómo entiendes lo que pasa.\n\n**Actuar:** lo que haces.\n\n**Relacionarte:** cómo tratas a otros.\n\n**Ejemplo:** dos niños pierden un partido. Uno se enoja y el otro se ríe. Vivieron lo mismo y reaccionaron distinto.\n\n**Para convivir:** escucha, di lo que piensas sin ofender y ponte en el lugar del otro.\n\n**Empatía:** comprender lo que siente otra persona. Notas a tu amiga triste y le preguntas cómo está.\n\n**Para tu escuela:** escribe cómo reaccionas cuando pierdes en un juego.",
+"truco": "Ser, pensar, actuar: mírate; luego mira al otro.",
+"practica": {
+"ejercicio": "Un compañero prefiere trabajar solo y tú en equipo. ¿Qué respuesta asertiva y empática darías?",
+"respuesta": "Por ejemplo: \"Entiendo que te concentras mejor solo; propongo que cada uno haga una parte y luego la unimos\". Reconoce su forma, expresa la tuya y busca un acuerdo."
+},
+"analogias": [
+{
+"titulo": "La orquesta",
+"texto": "Cada instrumento suena diferente, pero la música sale bien cuando todos se escuchan y respetan el ritmo común."
+},
+{
+"titulo": "El mapa de colores",
+"texto": "Si todos pintaran con un solo color, el dibujo sería aburrido. Los colores distintos hacen la imagen completa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona una diferencia entre pensar y actuar.",
+"respuesta": "Pensar es interpretar internamente una situación; actuar es la conducta visible que realizas."
+},
+{
+"ejercicio": "¿Qué es la empatía? Da un ejemplo.",
+"respuesta": "Es comprender lo que siente otra persona. Ejemplo: notar que una amiga está triste y preguntarle cómo se siente."
+},
+{
+"ejercicio": "Reflexiona: describe una forma tuya de ser que ayude a convivir. Criterios.",
+"respuesta": "Respuesta personal que nombre la característica, una situación concreta donde ayuda a otros y cómo la cuidas."
+}
+]
+}
+},
+{
+"nodo_id": "f6-047",
+"titulo": "Los sentimientos y la toma de decisiones",
+"slug": "sentimientos-toma-decisiones-secundaria",
+"palabras": [
+"emociones",
+"decisiones",
+"impulsividad",
+"autorregulación",
+"consecuencias"
+],
+"contenido": {
+"idea": "Los sentimientos son como el tablero de luces de un coche: avisan algo importante, pero no deben manejar solos. Tú decides hacia dónde ir.",
+"pizarron": "**Qué es:** tus emociones influyen en lo que decides. Saber qué sientes ayuda a decidir mejor.\n\nSi estás muy enojado, puedes decir algo de lo que luego te arrepientas.\n\n**Pasos:**\n\n1. Dile nombre a lo que sientes.\n2. Respira y espera.\n3. Piensa qué opciones tienes.\n4. Piensa qué puede pasar con cada una.\n5. Elige y luego revisa qué aprendiste.\n\nSentir no es malo. Solo no dejes que la emoción decida por ti.\n\n**Enojo:** una emoción fuerte nubla tu juicio. Espera a calmarte antes de decidir.\n\n**Para tu escuela:** recuerda una pelea y escribe qué harías distinto.",
+"truco": "Nombra, respira, piensa, elige.",
+"practica": {
+"ejercicio": "Estás muy enojado porque un amigo te dejó plantado y quieres escribirle un mensaje ofensivo. Aplica los pasos.",
+"respuesta": "Nombro mi enojo, respiro y espero, pienso opciones (hablar después, expresar cómo me sentí), evalúo que un insulto dañaría la amistad y elijo hablar con calma."
+},
+"analogias": [
+{
+"titulo": "La olla de frijoles",
+"texto": "Si destapas una olla hirviendo de golpe, salpica. Esperar a que baje el hervor es dejar pasar la emoción antes de decidir."
+},
+{
+"titulo": "El semáforo",
+"texto": "Rojo es parar y respirar, amarillo pensar opciones, verde actuar. Así evitas chocar con tus propias decisiones."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué decidir enojado puede ser riesgoso?",
+"respuesta": "Porque la emoción intensa nubla el juicio y se actúa sin medir las consecuencias."
+},
+{
+"ejercicio": "Ordena: elegir, identificar la emoción, evaluar consecuencias, pausar.",
+"respuesta": "Identificar la emoción, pausar, evaluar consecuencias, elegir."
+},
+{
+"ejercicio": "Reflexiona sobre una decisión que tomaste con una emoción fuerte. Criterios.",
+"respuesta": "Debe describir la emoción, qué decidiste, el resultado y qué harías distinto usando una pausa."
+}
+]
+}
+},
+{
+"nodo_id": "f6-051",
+"titulo": "Construcción del proyecto de vida",
+"slug": "proyecto-de-vida-secundaria",
+"palabras": [
+"metas",
+"sueños",
+"planeación",
+"valores",
+"futuro",
+"objetivos"
+],
+"contenido": {
+"idea": "Un proyecto de vida es como planear un viaje: sabes a dónde quieres llegar, qué necesitas llevar y por qué camino puedes ir. Si el camino se cierra, buscas otro.",
+"pizarron": "**Qué es:** un proyecto de vida es un plan de lo que quieres lograr. Puede cambiar con el tiempo.\n\nComo planear un viaje: decides a dónde vas y qué necesitas.\n\n**Pasos:**\n\n1. Conócete: qué te gusta y qué se te da.\n2. Imagina tu futuro.\n3. Pon metas para este mes, este año y cinco años.\n4. Decide qué harás para lograrlas.\n5. Revisa y cambia si hace falta.\n\n**Una buena meta se puede medir:** *Subir a 8 en matemáticas, estudiando 30 minutos diarios.*\n\n**Para tu escuela:** escribe una meta para este mes.",
+"truco": "Conócete, sueña, fija metas, actúa, ajusta.",
+"practica": {
+"ejercicio": "Convierte \"quiero ser mejor en inglés\" en una meta específica y medible.",
+"respuesta": "Por ejemplo: \"Aprender 10 palabras nuevas por semana durante tres meses, practicando 15 minutos al día\"."
+},
+"analogias": [
+{
+"titulo": "El GPS",
+"texto": "Pones un destino, pero si hay un bloqueo, el GPS recalcula. Tu proyecto también puede cambiar de ruta sin perder el destino."
+},
+{
+"titulo": "La milpa",
+"texto": "Para cosechar en meses hay que preparar la tierra y sembrar hoy. Las metas futuras se cultivan con acciones presentes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Da un ejemplo de meta a corto plazo.",
+"respuesta": "Entregar todas las tareas de la semana o estudiar 30 minutos diarios este mes."
+},
+{
+"ejercicio": "¿Por qué el proyecto de vida debe ser flexible?",
+"respuesta": "Porque las circunstancias y los intereses cambian, y se necesita ajustar el plan sin renunciar."
+},
+{
+"ejercicio": "Reflexiona: escribe una meta a cinco años y dos acciones para lograrla. Criterios.",
+"respuesta": "Debe ser específica y realista, con acciones concretas que puedas empezar pronto y relación con tus valores."
+}
+]
+}
+},
+{
+"nodo_id": "f6-055",
+"titulo": "Prevención de situaciones de riesgo",
+"slug": "prevencion-situaciones-de-riesgo-secundaria",
+"palabras": [
+"riesgos",
+"seguridad",
+"adicciones",
+"redes sociales",
+"presión de grupo",
+"autocuidado"
+],
+"contenido": {
+"idea": "Prevenir es como ponerse el casco antes de subir a la bicicleta: no es miedo, es cuidarte para disfrutar el paseo sin lastimarte.",
+"pizarron": "**Qué es:** prevenir es notar un peligro y evitarlo antes de que te dañe.\n\n**Ejemplos de riesgo:** que te presionen para probar drogas, retos peligrosos o desconocidos en internet.\n\n**Qué hacer:**\n\n1. Detecta señales: te sientes incómodo o te piden guardar un secreto.\n2. Conoce tus límites.\n3. Di no con firmeza: *No quiero, me voy.*\n4. No compartas tus datos en línea.\n5. Pide ayuda a un adulto de confianza.\n\nPedir ayuda es de valientes.\n\n**Para tu escuela:** practica con un amigo cómo decir no.",
+"truco": "Detecta, di no, aléjate, pide ayuda.",
+"practica": {
+"ejercicio": "Un conocido de internet te pide tu dirección y que no se lo digas a nadie. ¿Qué haces?",
+"respuesta": "No compartir datos, bloquear a la persona y avisar a un adulto de confianza, pues pedir secreto es señal de peligro."
+},
+"analogias": [
+{
+"titulo": "El cinturón de seguridad",
+"texto": "No lo usas porque esperes chocar, sino para estar protegido si algo pasa. Las medidas de prevención funcionan igual."
+},
+{
+"titulo": "La puerta con cerradura",
+"texto": "Cerrar con llave tu casa no es desconfiar de todos; es decidir quién entra. Con tus datos personales pasa lo mismo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos señales de una situación de riesgo.",
+"respuesta": "Sentirte incómodo o presionado y que te pidan guardar un secreto o datos personales."
+},
+{
+"ejercicio": "Un grupo te presiona para probar algo peligroso. ¿Qué respuesta firme puedes dar?",
+"respuesta": "\"No quiero, no me interesa\", y retirarte del lugar si insisten."
+},
+{
+"ejercicio": "Reflexiona: nombra tres personas o lugares donde pedirías ayuda. Criterios.",
+"respuesta": "Deben ser personas confiables y accesibles, con una razón por la que confías en ellas."
+}
+]
+}
+},
+{
+"nodo_id": "f6-058",
+"titulo": "Educación Integral en Sexualidad",
+"slug": "educacion-integral-sexualidad-secundaria",
+"palabras": [
+"sexualidad",
+"cuerpo",
+"respeto",
+"consentimiento",
+"salud",
+"afectividad"
+],
+"contenido": {
+"idea": "Tu cuerpo es como tu casa: tú decides quién entra y cuándo, y mereces cuidarla y conocerla. Los demás también tienen su propia casa que se respeta.",
+"pizarron": "**Qué es:** es aprender sobre tu cuerpo, tus emociones, tus derechos y el respeto, con información correcta.\n\n**Ideas clave:**\n\n1. Los cambios de la pubertad son normales.\n2. Cuida tu higiene y ve al médico si tienes dudas.\n3. Nadie debe tocarte o presionarte si no quieres. Tú tampoco a nadie.\n4. Todas las personas merecen respeto.\n5. Pregunta a tu familia, docentes o personal de salud, no solo a las redes.\n\nSi alguien pasa tus límites, avisa a un adulto de confianza.\n\n**Para tu escuela:** escribe el nombre de dos adultos a quienes les puedes preguntar.",
+"truco": "Mi cuerpo, mis límites; tu cuerpo, tus límites.",
+"practica": {
+"ejercicio": "Un compañero insiste en que hagas algo que te incomoda con tu cuerpo. ¿Qué haces?",
+"respuesta": "Decir no con claridad, alejarte y contar lo sucedido a un adulto de confianza; tu límite se respeta."
+},
+"analogias": [
+{
+"titulo": "El semáforo personal",
+"texto": "Tú pones la luz: roja es no, verde es sí. Todos deben respetar tu color y tú el de los demás."
+},
+{
+"titulo": "El libro de la biblioteca",
+"texto": "Para saber algo bien, lo consultas en una fuente confiable y no en lo que cuentan por ahí."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa el consentimiento?",
+"respuesta": "Es aceptar libremente algo; si alguien dice no o está presionado, no hay consentimiento."
+},
+{
+"ejercicio": "Menciona dos fuentes confiables para resolver dudas.",
+"respuesta": "Personal de salud y docentes o familiares de confianza."
+},
+{
+"ejercicio": "Reflexiona: ¿por qué es importante respetar los límites de otros? Criterios.",
+"respuesta": "Debe mencionar dignidad, seguridad y confianza, con un ejemplo concreto de respeto."
+}
+]
+}
+}
 ]

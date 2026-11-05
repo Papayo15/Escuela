@@ -1,462 +1,462 @@
 [
-  {
-    "nodo_id": "f5-020",
-    "titulo": "Formas de ser, pensar, actuar y relacionarse",
-    "slug": "formas-de-ser-pensar-actuar-primaria-5-6",
-    "palabras": [
-      "personalidad",
-      "identidad",
-      "convivencia",
-      "respeto",
-      "diversidad",
-      "carácter"
-    ],
-    "contenido": {
-      "idea": "Imagina un jardín con flores de muchos colores y tamaños. Cada persona es como una flor distinta: no hay una mejor que otra, y el jardín se ve bonito justamente porque todas son diferentes.",
-      "pizarron": "**Qué es:** al crecer, cambian tus ideas y gustos. Tu forma de ser merece respeto, y la de otros también.\n\n**Asertividad:** decir lo que piensas sin ofender.\n\n**Empatía:** ponerte en lugar del otro.\n\n**Para tu escuela:** escribe cómo has cambiado desde hace dos años.",
-      "truco": "Distinto no es peor: escucho, respeto y dialogo.",
-      "practica": {
-        "ejercicio": "Un compañero prefiere trabajar solo y tú en equipo. Escribe una forma de ponerse de acuerdo respetando a ambos.",
-        "respuesta": "Por ejemplo: dividir el trabajo, que cada quien haga su parte a su manera y juntarse al final para unir resultados. Se respetan ambas formas de trabajar."
-      },
-      "analogias": [
-        {
-          "titulo": "Orquesta",
-          "texto": "En una orquesta cada instrumento suena distinto, pero juntos, y escuchándose, forman una melodía. Así convivimos con formas distintas de ser."
-        },
-        {
-          "titulo": "Huellas digitales",
-          "texto": "Nadie tiene la misma huella que otra persona. Igual, cada quien tiene una forma única de pensar y actuar que merece respeto."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos rasgos tuyos que te hacen único y explica uno.",
-          "respuesta": "Respuesta libre; debe nombrar dos rasgos (gusto, habilidad, carácter) y explicar uno con un ejemplo concreto."
-        },
-        {
-          "ejercicio": "Dos amigos opinan distinto sobre qué juego elegir. ¿Qué acción favorece la convivencia: imponer o dialogar? Explica.",
-          "respuesta": "Dialogar, porque permite escuchar ambas opiniones y llegar a un acuerdo respetuoso."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿cómo te sientes cuando se burlan de tu forma de ser? Criterios: nombra la emoción y una conducta de respeto.",
-          "respuesta": "Debe nombrar una emoción (tristeza, enojo, vergüenza) y proponer una conducta de respeto, como no burlarse y aceptar las diferencias."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-024",
-    "titulo": "Construcción del proyecto de vida",
-    "slug": "proyecto-de-vida-primaria-5-6",
-    "palabras": [
-      "metas",
-      "sueños",
-      "planes",
-      "futuro",
-      "objetivos",
-      "decisiones"
-    ],
-    "contenido": {
-      "idea": "Piensa en un mapa del tesoro. Para llegar al tesoro necesitas saber dónde quieres llegar y qué pasos dar. El proyecto de vida es tu mapa personal hacia lo que quieres ser.",
-      "pizarron": "**Qué es:** une tus gustos, tus metas y los pasos para lograrlas.\n\nUna meta clara: *leer un libro al mes*.\n\nPuede cambiar con el tiempo.\n\n**Para tu escuela:** escribe una meta y tres pasos.",
-      "truco": "Conócete, sueña, planea, actúa y revisa.",
-      "practica": {
-        "ejercicio": "Convierte la meta \"quiero mejorar en matemáticas\" en una meta concreta con un paso.",
-        "respuesta": "Por ejemplo: practicar 15 minutos diarios de problemas de matemáticas y preguntar mis dudas al maestro cada semana."
-      },
-      "analogias": [
-        {
-          "titulo": "Viaje en carretera",
-          "texto": "Antes de salir eliges destino, ruta y paradas. Si hay un desvío, cambias de camino sin dejar de ir a tu destino."
-        },
-        {
-          "titulo": "Sembrar un árbol",
-          "texto": "Un árbol no crece de un día para otro: lo plantas, lo riegas y lo cuidas. Tus metas también necesitan constancia."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe una meta a corto plazo y una a largo plazo que te interesen.",
-          "respuesta": "Respuesta libre; la corta se logra en días o meses y la larga en años, ambas relacionadas con tus intereses."
-        },
-        {
-          "ejercicio": "¿Cuál meta es más clara: \"ser feliz\" o \"aprender a nadar este año\"? Explica.",
-          "respuesta": "\"Aprender a nadar este año\", porque es específica, tiene plazo y se puede medir."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué obstáculo podría frenar una meta tuya y quién te podría ayudar? Criterios: obstáculo real y apoyo concreto.",
-          "respuesta": "Debe mencionar un obstáculo real (falta de tiempo, miedo) y una persona o recurso de apoyo con una acción concreta."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-027",
-    "titulo": "Educación Integral en Sexualidad en primaria",
-    "slug": "educacion-integral-sexualidad-primaria-5-6",
-    "palabras": [
-      "cuerpo",
-      "pubertad",
-      "cuidado",
-      "respeto",
-      "autocuidado",
-      "prevención"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como un tesoro que solo tú debes cuidar. Aprender cómo funciona y cómo protegerlo te ayuda a sentirte seguro y a pedir ayuda cuando la necesitas.",
-      "pizarron": "**Qué es:** es aprender a cuidar tu cuerpo, respetar a otros y decidir con responsabilidad.\n\n**Pubertad:** tu cuerpo y emociones cambian. Es normal.\n\n**Autocuidado:** baño y descanso.\n\n**Respeto:** nadie debe tocarte o presionarte.\n\n**Protección:** puedes decir no y contarlo.\n\nPregunta a tu familia, la escuela o personal de salud.\n\n**Para tu escuela:** escribe una duda para un adulto de confianza.",
-      "truco": "Mi cuerpo es mío: cuido, respeto, digo no y cuento.",
-      "practica": {
-        "ejercicio": "Si alguien te hace sentir incómodo con un contacto físico, ¿qué tres cosas puedes hacer?",
-        "respuesta": "Decir \"no\" con firmeza, alejarte del lugar y contarlo a un adulto de confianza."
-      },
-      "analogias": [
-        {
-          "titulo": "Casa con puerta",
-          "texto": "Tu cuerpo es como tu casa: tú decides quién entra y cuándo. Si alguien insiste, avisas a un adulto de confianza."
-        },
-        {
-          "titulo": "Planta que crece",
-          "texto": "Cada planta florece en su momento. En la pubertad cada persona cambia a su ritmo y no hay uno mejor que otro."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos hábitos de higiene importantes durante la pubertad.",
-          "respuesta": "Por ejemplo: bañarse diario y cambiarse de ropa interior; también lavarse las manos."
-        },
-        {
-          "ejercicio": "Un compañero cambió de voz y los demás se burlan. ¿Qué respuesta es respetuosa?",
-          "respuesta": "Explicar que son cambios normales de crecimiento y no burlarse; respetar a la persona."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿a qué adultos de confianza acudirías con una duda? Criterios: nombrar al menos dos y decir por qué.",
-          "respuesta": "Debe nombrar al menos dos adultos (familiar, maestro, médico) y justificar la confianza."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-031",
-    "titulo": "Equidad de género",
-    "slug": "equidad-de-genero-primaria-5-6",
-    "palabras": [
-      "igualdad",
-      "mujeres",
-      "hombres",
-      "estereotipos",
-      "derechos",
-      "oportunidades"
-    ],
-    "contenido": {
-      "idea": "Imagina que en un juego todos necesitan zapatos de su talla para correr bien. Dar a cada quien lo que necesita para tener la misma oportunidad es ser justo.",
-      "pizarron": "**Qué es:** la equidad busca que nadie tenga menos oportunidades por ser mujer u hombre.\n\nLos **estereotipos** son ideas falsas, como *las niñas no saben de futbol*.\n\n**Qué hacer:** repartir tareas, respetar gustos y no burlarse.\n\n**Para tu escuela:** escribe un estereotipo y por qué es falso.",
-      "truco": "Mismos derechos, mismas oportunidades, cero estereotipos.",
-      "practica": {
-        "ejercicio": "Corrige el estereotipo: \"Cocinar es cosa de mujeres\".",
-        "respuesta": "Cocinar es una habilidad que puede aprender y hacer cualquier persona, sin importar su género."
-      },
-      "analogias": [
-        {
-          "titulo": "Escalera para todos",
-          "texto": "Si unos niños son bajitos, les damos un banquito para alcanzar la misma repisa. La equidad ayuda a que todos lleguen."
-        },
-        {
-          "titulo": "Equipo de trabajo",
-          "texto": "En un equipo se reparten tareas según habilidades, no según si eres niña o niño. Así todos aportan."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di si es estereotipo: \"Los niños no lloran\". Explica.",
-          "respuesta": "Sí, porque todas las personas sienten y expresan emociones."
-        },
-        {
-          "ejercicio": "En casa, ¿cómo pueden repartirse las tareas para ser equitativos?",
-          "respuesta": "Entre todos, según edad y posibilidades, sin asignarlas por ser niña o niño."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué harías si excluyen a una compañera de un juego por ser niña? Criterios: acción respetuosa y apoyo de un adulto.",
-          "respuesta": "Invitarla a jugar, explicar que todos pueden participar y avisar a un maestro si continúa."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-035",
-    "titulo": "Capacidades, habilidades y destrezas motrices",
-    "slug": "capacidades-habilidades-destrezas-motrices-primaria-5-6",
-    "palabras": [
-      "motricidad",
-      "fuerza",
-      "velocidad",
-      "flexibilidad",
-      "coordinación",
-      "equilibrio"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como un robot con muchas funciones: corre, salta, lanza y se equilibra. Entre más lo practicas, mejor aprende a moverse.",
-      "pizarron": "**Qué es:** capacidades son las cualidades de tu cuerpo. Habilidades son los movimientos que aprendes. Destrezas son habilidades muy practicadas.\n\n**Capacidades:** fuerza, velocidad y flexibilidad.\n\n**Habilidades:** correr, lanzar y saltar.\n\n**Destrezas:** driblar sin mirar el balón.\n\nMejoran si practicas.\n\n**Para tu escuela:** elige una habilidad y practícala 5 minutos diarios.",
-      "truco": "Capacidad es lo que tengo, habilidad lo que hago, destreza lo que domino.",
-      "practica": {
-        "ejercicio": "Clasifica: correr, lanzar una pelota, mantenerse en un pie.",
-        "respuesta": "Correr es locomotriz, lanzar es manipulativa y mantenerse en un pie es de estabilidad (equilibrio)."
-      },
-      "analogias": [
-        {
-          "titulo": "Aprender a escribir",
-          "texto": "Primero haces trazos básicos (habilidad) y con práctica escribes rápido y bonito (destreza), como con el movimiento."
-        },
-        {
-          "titulo": "Ingredientes de un pastel",
-          "texto": "Fuerza, velocidad y equilibrio son ingredientes; mezclados y practicados, dan como resultado movimientos bien hechos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos capacidades condicionales.",
-          "respuesta": "Fuerza, velocidad, resistencia o flexibilidad (cualquier dos)."
-        },
-        {
-          "ejercicio": "¿Brincar la cuerda es habilidad locomotriz o manipulativa? Explica.",
-          "respuesta": "Locomotriz, porque implica desplazar o saltar con el cuerpo."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué destreza quisieras mejorar y qué harías para lograrlo? Criterios: destreza concreta y plan de práctica.",
-          "respuesta": "Debe nombrar una destreza y describir práctica regular, calentamiento y constancia."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-039",
-    "titulo": "Potencialidades cognitivas, expresivas, motrices, creativas y de relación",
-    "slug": "potencialidades-personales-primaria-5-6",
-    "palabras": [
-      "talentos",
-      "capacidades",
-      "creatividad",
-      "expresión",
-      "inteligencias",
-      "habilidades"
-    ],
-    "contenido": {
-      "idea": "Una semilla guarda dentro un árbol enorme. Tú también tienes muchas posibilidades dentro que se descubren y crecen cuando las practicas.",
-      "pizarron": "**Qué es:** tus potencialidades son lo que puedes llegar a hacer si practicas.\n\nPiensas, expresas, te mueves y convives.\n\n**Para tu escuela:** escribe algo que quieres mejorar y cómo.",
-      "truco": "Pienso, expreso, me muevo, creo y convivo.",
-      "practica": {
-        "ejercicio": "Une cada actividad con su potencialidad: armar un rompecabezas, pintar un mural, trabajar en equipo.",
-        "respuesta": "Rompecabezas es cognitiva, pintar es expresiva o creativa y trabajar en equipo es de relación."
-      },
-      "analogias": [
-        {
-          "titulo": "Caja de herramientas",
-          "texto": "Cada potencialidad es una herramienta distinta. Entre más las usas, mejor sabes cuál sirve para cada tarea."
-        },
-        {
-          "titulo": "Músculos",
-          "texto": "Las potencialidades son como músculos: crecen con ejercicio y se debilitan si no se usan."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué potencialidad usas al resolver un problema de matemáticas?",
-          "respuesta": "La cognitiva."
-        },
-        {
-          "ejercicio": "Da un ejemplo de potencialidad expresiva.",
-          "respuesta": "Cantar, dibujar, escribir un poema o actuar una escena."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿cuál de tus potencialidades quieres fortalecer y cómo? Criterios: nombrar una y una acción concreta.",
-          "respuesta": "Debe identificar una potencialidad y proponer práctica específica, como leer más o ensayar un instrumento."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-042",
-    "titulo": "Estilos de vida activos y saludables",
-    "slug": "estilos-de-vida-activos-saludables-primaria-5-6",
-    "palabras": [
-      "ejercicio",
-      "alimentación",
-      "descanso",
-      "salud",
-      "hábitos",
-      "actividad física"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como un carro: necesita buen combustible, aceite y revisiones para andar bien. Comer sano, moverte y dormir son su cuidado diario.",
-      "pizarron": "**Qué es:** un estilo de vida saludable son hábitos diarios: moverse, comer bien y descansar.\n\nMuévete 60 minutos al día. Duerme lo necesario. Limita las pantallas.\n\n**Para tu escuela:** haz tu plan de movimiento de la semana.",
-      "truco": "Muévete, come variado, duerme bien y toma agua.",
-      "practica": {
-        "ejercicio": "Si haces 20 minutos de actividad en la mañana y 25 en la tarde, ¿cuántos minutos te faltan para llegar a 60?",
-        "respuesta": "20 + 25 = 45; faltan 60 − 45 = 15 minutos."
-      },
-      "analogias": [
-        {
-          "titulo": "Celular cargado",
-          "texto": "Dormir y comer bien es cargar la batería. Sin carga, el cuerpo y la mente rinden poco."
-        },
-        {
-          "titulo": "Ahorrar monedas",
-          "texto": "Un hábito sano diario es como ahorrar monedas: poco a poco juntas mucha salud."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres actividades físicas que puedas hacer en tu comunidad.",
-          "respuesta": "Por ejemplo: caminar, jugar futbol, andar en bicicleta, bailar o brincar la cuerda."
-        },
-        {
-          "ejercicio": "¿Qué bebida es mejor para hidratarte: agua simple o refresco? Explica.",
-          "respuesta": "Agua simple, porque hidrata sin azúcares añadidos."
-        },
-        {
-          "ejercicio": "Reflexiona: escribe un hábito que quieras mejorar y cómo lo lograrás. Criterios: hábito concreto y pasos realistas.",
-          "respuesta": "Debe incluir un hábito específico y acciones medibles, por ejemplo dormir a la misma hora cada noche."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-050",
-    "titulo": "Interacción motriz",
-    "slug": "interaccion-motriz-primaria-5-6",
-    "palabras": [
-      "juego",
-      "cooperación",
-      "oposición",
-      "equipo",
-      "reglas",
-      "deporte"
-    ],
-    "contenido": {
-      "idea": "Cuando juegas a la roña o a pasar el balón, tu cuerpo reacciona a lo que hacen tus compañeros. Moverse junto a otros es interactuar con el cuerpo.",
-      "pizarron": "**Qué es:** es la relación con otros al moverte en juegos y deportes.\n\nSe necesita comunicación, decisiones rápidas y juego limpio.\n\n**Para tu escuela:** propón señales para tu equipo.",
-      "truco": "Coopero con mi equipo, compito con respeto.",
-      "practica": {
-        "ejercicio": "¿Qué tipo de interacción hay en el voleibol?",
-        "respuesta": "Cooperación-oposición: cooperas con tu equipo y te opones al equipo contrario."
-      },
-      "analogias": [
-        {
-          "titulo": "Engranes",
-          "texto": "Cada jugador es un engrane; si todos giran coordinados, la máquina del equipo funciona bien."
-        },
-        {
-          "titulo": "Conversación sin palabras",
-          "texto": "En un juego te comunicas con miradas, gestos y movimientos, como en una charla con el cuerpo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Da un ejemplo de juego de cooperación.",
-          "respuesta": "Pasar un aro entre todos tomados de las manos, o construir un puente humano."
-        },
-        {
-          "ejercicio": "¿Qué tipo de interacción es una carrera de relevos entre dos equipos?",
-          "respuesta": "Cooperación-oposición."
-        },
-        {
-          "ejercicio": "Reflexiona: tu equipo pierde un partido; ¿cómo reaccionas? Criterios: respeto al rival y actitud positiva.",
-          "respuesta": "Debe incluir saludar al rival, reconocer errores sin culpar y buscar mejorar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-054",
-    "titulo": "Acciones individuales que cuidan la salud",
-    "slug": "acciones-individuales-cuidado-salud-primaria-5-6",
-    "palabras": [
-      "autocuidado",
-      "higiene",
-      "prevención",
-      "hábitos",
-      "salud",
-      "enfermedades"
-    ],
-    "contenido": {
-      "idea": "Un escudo protege a un caballero. Tus hábitos diarios son tu escudo para evitar enfermedades y sentirte fuerte.",
-      "pizarron": "**Qué es:** lo que haces cada día influye en tu salud.\n\n1. Higiene: manos y dientes.\n2. Buena comida y agua.\n3. Ejercicio y descanso.\n4. Vacunas y revisiones.\n5. Evita sustancias dañinas.\n6. Habla de lo que sientes.\n\nAl cuidarte, también cuidas a los demás.\n\n**Para recordar:**\n- **¿Cuándo es indispensable lavarse las manos? Menciona dos momentos.** Antes de comer y después de ir al baño (también al llegar de la calle).\n\n**Para tu escuela:** elige dos acciones y anótalas una semana.",
-      "truco": "Lavo, como sano, me muevo, descanso y me prevengo.",
-      "practica": {
-        "ejercicio": "Ordena: secar las manos, enjabonar, mojar las manos, enjuagar.",
-        "respuesta": "Mojar las manos, enjabonar, enjuagar y secar las manos."
-      },
-      "analogias": [
-        {
-          "titulo": "Mantenimiento de la bici",
-          "texto": "Si aceitas y revisas tu bici, dura más. Cuidar tus hábitos hace que tu cuerpo funcione mejor."
-        },
-        {
-          "titulo": "Paraguas",
-          "texto": "Las acciones preventivas son un paraguas: no evitan que llueva, pero te protegen para no enfermar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuándo es indispensable lavarse las manos? Menciona dos momentos.",
-          "respuesta": "Antes de comer y después de ir al baño (también al llegar de la calle)."
-        },
-        {
-          "ejercicio": "¿Por qué ayuda vacunarse?",
-          "respuesta": "Previene enfermedades graves y protege también a otras personas."
-        },
-        {
-          "ejercicio": "Reflexiona: elige una acción de cuidado que no haces y propone cómo comenzar. Criterios: acción clara y pasos realistas.",
-          "respuesta": "Debe identificar una acción, como dormir temprano, y explicar cómo empezará, por ejemplo con un horario fijo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-058",
-    "titulo": "Sentido de comunidad y satisfacción de necesidades humanas",
-    "slug": "sentido-de-comunidad-necesidades-humanas-primaria-5-6",
-    "palabras": [
-      "comunidad",
-      "solidaridad",
-      "necesidades",
-      "cooperación",
-      "bien común",
-      "servicios"
-    ],
-    "contenido": {
-      "idea": "En una colmena cada abeja hace su parte para que todas tengan miel y casa. Una comunidad funciona mejor cuando todos ayudan.",
-      "pizarron": "**Qué es:** el sentido de comunidad es sentirte parte de un grupo y ayudar.\n\nSi colaboran, cubren mejor sus necesidades.\n\n**Para tu escuela:** propón algo que ayude a tu colonia.",
-      "truco": "Si ayudamos todos, ganamos todos.",
-      "practica": {
-        "ejercicio": "Relaciona cada necesidad con un servicio: salud, educación, agua.",
-        "respuesta": "Salud con el centro de salud, educación con la escuela y agua con la red de agua potable."
-      },
-      "analogias": [
-        {
-          "titulo": "Rompecabezas",
-          "texto": "Cada persona es una pieza. Sin una pieza, la imagen queda incompleta; todas son importantes para la comunidad."
-        },
-        {
-          "titulo": "Equipo de remo",
-          "texto": "Si todos reman al mismo tiempo la lancha avanza; si no, da vueltas. La cooperación mueve a la comunidad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos necesidades básicas de las personas.",
-          "respuesta": "Alimento, agua, vivienda, vestido o salud (cualquier dos)."
-        },
-        {
-          "ejercicio": "Da un ejemplo de acción solidaria en tu colonia o pueblo.",
-          "respuesta": "Organizar limpieza de calles, ayudar a un vecino mayor o juntar víveres para quien lo necesita."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿cómo contribuyes al bien común en tu escuela? Criterios: una acción concreta y su beneficio.",
-          "respuesta": "Debe nombrar una acción, como cuidar las instalaciones o ayudar a compañeros, y explicar a quién beneficia."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f5-020",
+"titulo": "Formas de ser, pensar, actuar y relacionarse",
+"slug": "formas-de-ser-pensar-actuar-primaria-5-6",
+"palabras": [
+"personalidad",
+"identidad",
+"convivencia",
+"respeto",
+"diversidad",
+"carácter"
+],
+"contenido": {
+"idea": "Imagina un jardín con flores de muchos colores y tamaños. Cada persona es como una flor distinta: no hay una mejor que otra, y el jardín se ve bonito justamente porque todas son diferentes.",
+"pizarron": "**Qué es:** al crecer, cambian tus ideas y gustos. Tu forma de ser merece respeto, y la de otros también.\n\n**Asertividad:** decir lo que piensas sin ofender.\n\n**Empatía:** ponerte en lugar del otro.\n\n**Para tu escuela:** escribe cómo has cambiado desde hace dos años.",
+"truco": "Distinto no es peor: escucho, respeto y dialogo.",
+"practica": {
+"ejercicio": "Un compañero prefiere trabajar solo y tú en equipo. Escribe una forma de ponerse de acuerdo respetando a ambos.",
+"respuesta": "Por ejemplo: dividir el trabajo, que cada quien haga su parte a su manera y juntarse al final para unir resultados. Se respetan ambas formas de trabajar."
+},
+"analogias": [
+{
+"titulo": "Orquesta",
+"texto": "En una orquesta cada instrumento suena distinto, pero juntos, y escuchándose, forman una melodía. Así convivimos con formas distintas de ser."
+},
+{
+"titulo": "Huellas digitales",
+"texto": "Nadie tiene la misma huella que otra persona. Igual, cada quien tiene una forma única de pensar y actuar que merece respeto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos rasgos tuyos que te hacen único y explica uno.",
+"respuesta": "Respuesta libre; debe nombrar dos rasgos (gusto, habilidad, carácter) y explicar uno con un ejemplo concreto."
+},
+{
+"ejercicio": "Dos amigos opinan distinto sobre qué juego elegir. ¿Qué acción favorece la convivencia: imponer o dialogar? Explica.",
+"respuesta": "Dialogar, porque permite escuchar ambas opiniones y llegar a un acuerdo respetuoso."
+},
+{
+"ejercicio": "Reflexiona: ¿cómo te sientes cuando se burlan de tu forma de ser? Criterios: nombra la emoción y una conducta de respeto.",
+"respuesta": "Debe nombrar una emoción (tristeza, enojo, vergüenza) y proponer una conducta de respeto, como no burlarse y aceptar las diferencias."
+}
+]
+}
+},
+{
+"nodo_id": "f5-024",
+"titulo": "Construcción del proyecto de vida",
+"slug": "proyecto-de-vida-primaria-5-6",
+"palabras": [
+"metas",
+"sueños",
+"planes",
+"futuro",
+"objetivos",
+"decisiones"
+],
+"contenido": {
+"idea": "Piensa en un mapa del tesoro. Para llegar al tesoro necesitas saber dónde quieres llegar y qué pasos dar. El proyecto de vida es tu mapa personal hacia lo que quieres ser.",
+"pizarron": "**Qué es:** une tus gustos, tus metas y los pasos para lograrlas.\n\nUna meta clara: *leer un libro al mes*.\n\nPuede cambiar con el tiempo.\n\n**Meta clara:** es específica y tiene fecha. *Aprender a nadar este año.*\n\n**Para tu escuela:** escribe una meta y tres pasos.",
+"truco": "Conócete, sueña, planea, actúa y revisa.",
+"practica": {
+"ejercicio": "Convierte la meta \"quiero mejorar en matemáticas\" en una meta concreta con un paso.",
+"respuesta": "Por ejemplo: practicar 15 minutos diarios de problemas de matemáticas y preguntar mis dudas al maestro cada semana."
+},
+"analogias": [
+{
+"titulo": "Viaje en carretera",
+"texto": "Antes de salir eliges destino, ruta y paradas. Si hay un desvío, cambias de camino sin dejar de ir a tu destino."
+},
+{
+"titulo": "Sembrar un árbol",
+"texto": "Un árbol no crece de un día para otro: lo plantas, lo riegas y lo cuidas. Tus metas también necesitan constancia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe una meta a corto plazo y una a largo plazo que te interesen.",
+"respuesta": "Respuesta libre; la corta se logra en días o meses y la larga en años, ambas relacionadas con tus intereses."
+},
+{
+"ejercicio": "¿Cuál meta es más clara: \"ser feliz\" o \"aprender a nadar este año\"? Explica.",
+"respuesta": "\"Aprender a nadar este año\", porque es específica, tiene plazo y se puede medir."
+},
+{
+"ejercicio": "Reflexiona: ¿qué obstáculo podría frenar una meta tuya y quién te podría ayudar? Criterios: obstáculo real y apoyo concreto.",
+"respuesta": "Debe mencionar un obstáculo real (falta de tiempo, miedo) y una persona o recurso de apoyo con una acción concreta."
+}
+]
+}
+},
+{
+"nodo_id": "f5-027",
+"titulo": "Educación Integral en Sexualidad en primaria",
+"slug": "educacion-integral-sexualidad-primaria-5-6",
+"palabras": [
+"cuerpo",
+"pubertad",
+"cuidado",
+"respeto",
+"autocuidado",
+"prevención"
+],
+"contenido": {
+"idea": "Tu cuerpo es como un tesoro que solo tú debes cuidar. Aprender cómo funciona y cómo protegerlo te ayuda a sentirte seguro y a pedir ayuda cuando la necesitas.",
+"pizarron": "**Qué es:** es aprender a cuidar tu cuerpo, respetar a otros y decidir con responsabilidad.\n\n**Pubertad:** tu cuerpo y emociones cambian. Es normal.\n\n**Autocuidado:** baño y descanso.\n\n**Respeto:** nadie debe tocarte o presionarte.\n\n**Protección:** puedes decir no y contarlo.\n\nPregunta a tu familia, la escuela o personal de salud.\n\n**Para tu escuela:** escribe una duda para un adulto de confianza.",
+"truco": "Mi cuerpo es mío: cuido, respeto, digo no y cuento.",
+"practica": {
+"ejercicio": "Si alguien te hace sentir incómodo con un contacto físico, ¿qué tres cosas puedes hacer?",
+"respuesta": "Decir \"no\" con firmeza, alejarte del lugar y contarlo a un adulto de confianza."
+},
+"analogias": [
+{
+"titulo": "Casa con puerta",
+"texto": "Tu cuerpo es como tu casa: tú decides quién entra y cuándo. Si alguien insiste, avisas a un adulto de confianza."
+},
+{
+"titulo": "Planta que crece",
+"texto": "Cada planta florece en su momento. En la pubertad cada persona cambia a su ritmo y no hay uno mejor que otro."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos hábitos de higiene importantes durante la pubertad.",
+"respuesta": "Por ejemplo: bañarse diario y cambiarse de ropa interior; también lavarse las manos."
+},
+{
+"ejercicio": "Un compañero cambió de voz y los demás se burlan. ¿Qué respuesta es respetuosa?",
+"respuesta": "Explicar que son cambios normales de crecimiento y no burlarse; respetar a la persona."
+},
+{
+"ejercicio": "Reflexiona: ¿a qué adultos de confianza acudirías con una duda? Criterios: nombrar al menos dos y decir por qué.",
+"respuesta": "Debe nombrar al menos dos adultos (familiar, maestro, médico) y justificar la confianza."
+}
+]
+}
+},
+{
+"nodo_id": "f5-031",
+"titulo": "Equidad de género",
+"slug": "equidad-de-genero-primaria-5-6",
+"palabras": [
+"igualdad",
+"mujeres",
+"hombres",
+"estereotipos",
+"derechos",
+"oportunidades"
+],
+"contenido": {
+"idea": "Imagina que en un juego todos necesitan zapatos de su talla para correr bien. Dar a cada quien lo que necesita para tener la misma oportunidad es ser justo.",
+"pizarron": "**Qué es:** la equidad busca que nadie tenga menos oportunidades por ser mujer u hombre.\n\nLos **estereotipos** son ideas falsas, como *las niñas no saben de futbol*.\n\n**Qué hacer:** repartir tareas, respetar gustos y no burlarse.\n\n**Para tu escuela:** escribe un estereotipo y por qué es falso.",
+"truco": "Mismos derechos, mismas oportunidades, cero estereotipos.",
+"practica": {
+"ejercicio": "Corrige el estereotipo: \"Cocinar es cosa de mujeres\".",
+"respuesta": "Cocinar es una habilidad que puede aprender y hacer cualquier persona, sin importar su género."
+},
+"analogias": [
+{
+"titulo": "Escalera para todos",
+"texto": "Si unos niños son bajitos, les damos un banquito para alcanzar la misma repisa. La equidad ayuda a que todos lleguen."
+},
+{
+"titulo": "Equipo de trabajo",
+"texto": "En un equipo se reparten tareas según habilidades, no según si eres niña o niño. Así todos aportan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di si es estereotipo: \"Los niños no lloran\". Explica.",
+"respuesta": "Sí, porque todas las personas sienten y expresan emociones."
+},
+{
+"ejercicio": "En casa, ¿cómo pueden repartirse las tareas para ser equitativos?",
+"respuesta": "Entre todos, según edad y posibilidades, sin asignarlas por ser niña o niño."
+},
+{
+"ejercicio": "Reflexiona: ¿qué harías si excluyen a una compañera de un juego por ser niña? Criterios: acción respetuosa y apoyo de un adulto.",
+"respuesta": "Invitarla a jugar, explicar que todos pueden participar y avisar a un maestro si continúa."
+}
+]
+}
+},
+{
+"nodo_id": "f5-035",
+"titulo": "Capacidades, habilidades y destrezas motrices",
+"slug": "capacidades-habilidades-destrezas-motrices-primaria-5-6",
+"palabras": [
+"motricidad",
+"fuerza",
+"velocidad",
+"flexibilidad",
+"coordinación",
+"equilibrio"
+],
+"contenido": {
+"idea": "Tu cuerpo es como un robot con muchas funciones: corre, salta, lanza y se equilibra. Entre más lo practicas, mejor aprende a moverse.",
+"pizarron": "**Qué es:** capacidades son las cualidades de tu cuerpo. Habilidades son los movimientos que aprendes. Destrezas son habilidades muy practicadas.\n\n**Capacidades:** fuerza, velocidad y flexibilidad.\n\n**Habilidades:** correr, lanzar y saltar.\n\n**Destrezas:** driblar sin mirar el balón.\n\nMejoran si practicas.\n\n**Para tu escuela:** elige una habilidad y practícala 5 minutos diarios.",
+"truco": "Capacidad es lo que tengo, habilidad lo que hago, destreza lo que domino.",
+"practica": {
+"ejercicio": "Clasifica: correr, lanzar una pelota, mantenerse en un pie.",
+"respuesta": "Correr es locomotriz, lanzar es manipulativa y mantenerse en un pie es de estabilidad (equilibrio)."
+},
+"analogias": [
+{
+"titulo": "Aprender a escribir",
+"texto": "Primero haces trazos básicos (habilidad) y con práctica escribes rápido y bonito (destreza), como con el movimiento."
+},
+{
+"titulo": "Ingredientes de un pastel",
+"texto": "Fuerza, velocidad y equilibrio son ingredientes; mezclados y practicados, dan como resultado movimientos bien hechos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos capacidades condicionales.",
+"respuesta": "Fuerza, velocidad, resistencia o flexibilidad (cualquier dos)."
+},
+{
+"ejercicio": "¿Brincar la cuerda es habilidad locomotriz o manipulativa? Explica.",
+"respuesta": "Locomotriz, porque implica desplazar o saltar con el cuerpo."
+},
+{
+"ejercicio": "Reflexiona: ¿qué destreza quisieras mejorar y qué harías para lograrlo? Criterios: destreza concreta y plan de práctica.",
+"respuesta": "Debe nombrar una destreza y describir práctica regular, calentamiento y constancia."
+}
+]
+}
+},
+{
+"nodo_id": "f5-039",
+"titulo": "Potencialidades cognitivas, expresivas, motrices, creativas y de relación",
+"slug": "potencialidades-personales-primaria-5-6",
+"palabras": [
+"talentos",
+"capacidades",
+"creatividad",
+"expresión",
+"inteligencias",
+"habilidades"
+],
+"contenido": {
+"idea": "Una semilla guarda dentro un árbol enorme. Tú también tienes muchas posibilidades dentro que se descubren y crecen cuando las practicas.",
+"pizarron": "**Qué es:** tus potencialidades son lo que puedes llegar a hacer si practicas.\n\nPiensas, expresas, te mueves y convives.\n\n**Para tu escuela:** escribe algo que quieres mejorar y cómo.",
+"truco": "Pienso, expreso, me muevo, creo y convivo.",
+"practica": {
+"ejercicio": "Une cada actividad con su potencialidad: armar un rompecabezas, pintar un mural, trabajar en equipo.",
+"respuesta": "Rompecabezas es cognitiva, pintar es expresiva o creativa y trabajar en equipo es de relación."
+},
+"analogias": [
+{
+"titulo": "Caja de herramientas",
+"texto": "Cada potencialidad es una herramienta distinta. Entre más las usas, mejor sabes cuál sirve para cada tarea."
+},
+{
+"titulo": "Músculos",
+"texto": "Las potencialidades son como músculos: crecen con ejercicio y se debilitan si no se usan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué potencialidad usas al resolver un problema de matemáticas?",
+"respuesta": "La cognitiva."
+},
+{
+"ejercicio": "Da un ejemplo de potencialidad expresiva.",
+"respuesta": "Cantar, dibujar, escribir un poema o actuar una escena."
+},
+{
+"ejercicio": "Reflexiona: ¿cuál de tus potencialidades quieres fortalecer y cómo? Criterios: nombrar una y una acción concreta.",
+"respuesta": "Debe identificar una potencialidad y proponer práctica específica, como leer más o ensayar un instrumento."
+}
+]
+}
+},
+{
+"nodo_id": "f5-042",
+"titulo": "Estilos de vida activos y saludables",
+"slug": "estilos-de-vida-activos-saludables-primaria-5-6",
+"palabras": [
+"ejercicio",
+"alimentación",
+"descanso",
+"salud",
+"hábitos",
+"actividad física"
+],
+"contenido": {
+"idea": "Tu cuerpo es como un carro: necesita buen combustible, aceite y revisiones para andar bien. Comer sano, moverte y dormir son su cuidado diario.",
+"pizarron": "**Qué es:** un estilo de vida saludable son hábitos diarios: moverse, comer bien y descansar.\n\nMuévete 60 minutos al día. Duerme lo necesario. Limita las pantallas.\n\n**Agua simple:** hidrata sin azúcar.\n\n**Para tu escuela:** haz tu plan de movimiento de la semana.",
+"truco": "Muévete, come variado, duerme bien y toma agua.",
+"practica": {
+"ejercicio": "Si haces 20 minutos de actividad en la mañana y 25 en la tarde, ¿cuántos minutos te faltan para llegar a 60?",
+"respuesta": "20 + 25 = 45; faltan 60 − 45 = 15 minutos."
+},
+"analogias": [
+{
+"titulo": "Celular cargado",
+"texto": "Dormir y comer bien es cargar la batería. Sin carga, el cuerpo y la mente rinden poco."
+},
+{
+"titulo": "Ahorrar monedas",
+"texto": "Un hábito sano diario es como ahorrar monedas: poco a poco juntas mucha salud."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres actividades físicas que puedas hacer en tu comunidad.",
+"respuesta": "Por ejemplo: caminar, jugar futbol, andar en bicicleta, bailar o brincar la cuerda."
+},
+{
+"ejercicio": "¿Qué bebida es mejor para hidratarte: agua simple o refresco? Explica.",
+"respuesta": "Agua simple, porque hidrata sin azúcares añadidos."
+},
+{
+"ejercicio": "Reflexiona: escribe un hábito que quieras mejorar y cómo lo lograrás. Criterios: hábito concreto y pasos realistas.",
+"respuesta": "Debe incluir un hábito específico y acciones medibles, por ejemplo dormir a la misma hora cada noche."
+}
+]
+}
+},
+{
+"nodo_id": "f5-050",
+"titulo": "Interacción motriz",
+"slug": "interaccion-motriz-primaria-5-6",
+"palabras": [
+"juego",
+"cooperación",
+"oposición",
+"equipo",
+"reglas",
+"deporte"
+],
+"contenido": {
+"idea": "Cuando juegas a la roña o a pasar el balón, tu cuerpo reacciona a lo que hacen tus compañeros. Moverse junto a otros es interactuar con el cuerpo.",
+"pizarron": "**Qué es:** es la relación con otros al moverte en juegos y deportes.\n\nSe necesita comunicación, decisiones rápidas y juego limpio.\n\n**Para tu escuela:** propón señales para tu equipo.",
+"truco": "Coopero con mi equipo, compito con respeto.",
+"practica": {
+"ejercicio": "¿Qué tipo de interacción hay en el voleibol?",
+"respuesta": "Cooperación-oposición: cooperas con tu equipo y te opones al equipo contrario."
+},
+"analogias": [
+{
+"titulo": "Engranes",
+"texto": "Cada jugador es un engrane; si todos giran coordinados, la máquina del equipo funciona bien."
+},
+{
+"titulo": "Conversación sin palabras",
+"texto": "En un juego te comunicas con miradas, gestos y movimientos, como en una charla con el cuerpo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Da un ejemplo de juego de cooperación.",
+"respuesta": "Pasar un aro entre todos tomados de las manos, o construir un puente humano."
+},
+{
+"ejercicio": "¿Qué tipo de interacción es una carrera de relevos entre dos equipos?",
+"respuesta": "Cooperación-oposición."
+},
+{
+"ejercicio": "Reflexiona: tu equipo pierde un partido; ¿cómo reaccionas? Criterios: respeto al rival y actitud positiva.",
+"respuesta": "Debe incluir saludar al rival, reconocer errores sin culpar y buscar mejorar."
+}
+]
+}
+},
+{
+"nodo_id": "f5-054",
+"titulo": "Acciones individuales que cuidan la salud",
+"slug": "acciones-individuales-cuidado-salud-primaria-5-6",
+"palabras": [
+"autocuidado",
+"higiene",
+"prevención",
+"hábitos",
+"salud",
+"enfermedades"
+],
+"contenido": {
+"idea": "Un escudo protege a un caballero. Tus hábitos diarios son tu escudo para evitar enfermedades y sentirte fuerte.",
+"pizarron": "**Qué es:** lo que haces cada día influye en tu salud.\n\n1. Higiene: manos y dientes.\n2. Buena comida y agua.\n3. Ejercicio y descanso.\n4. Vacunas y revisiones.\n5. Evita sustancias dañinas.\n6. Habla de lo que sientes.\n\nAl cuidarte, también cuidas a los demás.\n\n**Manos:** lávalas antes de comer y después de ir al baño.\n\n**Para tu escuela:** elige dos acciones y anótalas una semana.",
+"truco": "Lavo, como sano, me muevo, descanso y me prevengo.",
+"practica": {
+"ejercicio": "Ordena: secar las manos, enjabonar, mojar las manos, enjuagar.",
+"respuesta": "Mojar las manos, enjabonar, enjuagar y secar las manos."
+},
+"analogias": [
+{
+"titulo": "Mantenimiento de la bici",
+"texto": "Si aceitas y revisas tu bici, dura más. Cuidar tus hábitos hace que tu cuerpo funcione mejor."
+},
+{
+"titulo": "Paraguas",
+"texto": "Las acciones preventivas son un paraguas: no evitan que llueva, pero te protegen para no enfermar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuándo es indispensable lavarse las manos? Menciona dos momentos.",
+"respuesta": "Antes de comer y después de ir al baño (también al llegar de la calle)."
+},
+{
+"ejercicio": "¿Por qué ayuda vacunarse?",
+"respuesta": "Previene enfermedades graves y protege también a otras personas."
+},
+{
+"ejercicio": "Reflexiona: elige una acción de cuidado que no haces y propone cómo comenzar. Criterios: acción clara y pasos realistas.",
+"respuesta": "Debe identificar una acción, como dormir temprano, y explicar cómo empezará, por ejemplo con un horario fijo."
+}
+]
+}
+},
+{
+"nodo_id": "f5-058",
+"titulo": "Sentido de comunidad y satisfacción de necesidades humanas",
+"slug": "sentido-de-comunidad-necesidades-humanas-primaria-5-6",
+"palabras": [
+"comunidad",
+"solidaridad",
+"necesidades",
+"cooperación",
+"bien común",
+"servicios"
+],
+"contenido": {
+"idea": "En una colmena cada abeja hace su parte para que todas tengan miel y casa. Una comunidad funciona mejor cuando todos ayudan.",
+"pizarron": "**Qué es:** el sentido de comunidad es sentirte parte de un grupo y ayudar.\n\nSi colaboran, cubren mejor sus necesidades.\n\n**Para tu escuela:** propón algo que ayude a tu colonia.",
+"truco": "Si ayudamos todos, ganamos todos.",
+"practica": {
+"ejercicio": "Relaciona cada necesidad con un servicio: salud, educación, agua.",
+"respuesta": "Salud con el centro de salud, educación con la escuela y agua con la red de agua potable."
+},
+"analogias": [
+{
+"titulo": "Rompecabezas",
+"texto": "Cada persona es una pieza. Sin una pieza, la imagen queda incompleta; todas son importantes para la comunidad."
+},
+{
+"titulo": "Equipo de remo",
+"texto": "Si todos reman al mismo tiempo la lancha avanza; si no, da vueltas. La cooperación mueve a la comunidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos necesidades básicas de las personas.",
+"respuesta": "Alimento, agua, vivienda, vestido o salud (cualquier dos)."
+},
+{
+"ejercicio": "Da un ejemplo de acción solidaria en tu colonia o pueblo.",
+"respuesta": "Organizar limpieza de calles, ayudar a un vecino mayor o juntar víveres para quien lo necesita."
+},
+{
+"ejercicio": "Reflexiona: ¿cómo contribuyes al bien común en tu escuela? Criterios: una acción concreta y su beneficio.",
+"respuesta": "Debe nombrar una acción, como cuidar las instalaciones o ayudar a compañeros, y explicar a quién beneficia."
+}
+]
+}
+}
 ]

@@ -1,189 +1,189 @@
 [
-  {
-    "nodo_id": "f6-044",
-    "titulo": "Comunicación asertiva y dialógica",
-    "slug": "comunicacion-asertiva-dialogica-secundaria",
-    "palabras": [
-      "asertividad",
-      "diálogo",
-      "violencia verbal",
-      "conflicto",
-      "respeto",
-      "comunicación"
-    ],
-    "contenido": {
-      "idea": "Imagina que dos niños quieren el mismo columpio. Uno grita y empuja; otro dice: \"Yo también quiero, ¿nos turnamos?\". El segundo habla fuerte y claro, pero sin lastimar.",
-      "pizarron": "**Qué es:** ser asertivo es decir lo que piensas y necesitas con claridad y respeto, sin gritar y sin quedarte callado.\n\n**Pasos:**\n\n1. Di lo que pasó, sin insultar: *Llegaste tarde dos veces.*\n2. Di cómo te sientes: *Me sentí ignorado.*\n3. Di lo que necesitas: *Me gustaría que avises.*\n4. Escucha la respuesta.\n\n**Dialogar** es hablar por turnos y buscar un acuerdo.\n\n**Para tu escuela:** cambia esta frase por una asertiva: *¡Siempre me copias!*",
-      "truco": "Hechos, siento, necesito: sin gritar ni callar.",
-      "practica": {
-        "ejercicio": "Reescribe de forma asertiva: \"¡Eres un flojo, nunca ayudas en el equipo!\"",
-        "respuesta": "Ejemplo: \"En la última tarea no entregaste tu parte. Me preocupa que no terminemos a tiempo. ¿Puedes entregarla mañana?\" Debe describir el hecho, expresar un sentimiento y pedir algo concreto, sin insultos."
-      },
-      "analogias": [
-        {
-          "titulo": "El semáforo",
-          "texto": "Rojo es callarte todo, verde sin freno es atropellar a otros; el amarillo asertivo avanza con cuidado, pensando en quien cruza contigo."
-        },
-        {
-          "titulo": "La pelota de pase",
-          "texto": "El diálogo es como pasar una pelota: nadie se la queda para siempre. Hablas, pasas, escuchas y vuelves a recibirla."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Clasifica como pasivo, agresivo o asertivo: \"Mejor no digo nada, aunque me molesta\".",
-          "respuesta": "Pasivo: evita expresar lo que siente."
-        },
-        {
-          "ejercicio": "Escribe un mensaje en primera persona para pedir que bajen el volumen de la música.",
-          "respuesta": "Ejemplo: \"Me cuesta concentrarme con la música fuerte; ¿puedes bajarla un poco?\" Es válido si no acusa y pide algo concreto."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿por qué escuchar es parte de ser asertivo? Da dos criterios en tu respuesta.",
-          "respuesta": "Porque permite entender al otro y llegar a acuerdos. Criterios: menciona respeto mutuo y la posibilidad de resolver el conflicto sin violencia."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-048",
-    "titulo": "Mensajes para promover una vida saludable",
-    "slug": "mensajes-vida-saludable-secundaria",
-    "palabras": [
-      "campaña",
-      "salud",
-      "cartel",
-      "spot",
-      "radio comunitaria",
-      "persuadir",
-      "medios"
-    ],
-    "contenido": {
-      "idea": "Es como cuando tu mamá te recuerda con una canción pegajosa lavarte las manos. El mensaje es corto, claro y fácil de recordar, y te invita a hacer algo bueno para ti.",
-      "pizarron": "**Qué es:** es escribir mensajes que informen e inviten a cuidar la salud.\n\n**Pasos:**\n\n1. Elige el tema y a quién le hablas.\n2. Decide si informas, invitas o previenes.\n3. Usa frases cortas.\n4. Agrega un dato confiable.\n5. Termina con una invitación: *Toma agua simple.*\n6. Ajusta al medio: cartel con imagen o radio con voz.\n\n**Para recordar:**\n- **¿Qué diferencia hay entre adaptar un mensaje a un cartel y a un spot de radio?** El cartel usa imagen y texto breve; el spot usa voz, sonido y repetición porque no hay imagen.\n\n**Para tu escuela:** escribe un mensaje de radio de 15 segundos sobre lavarse las manos.",
-      "truco": "Público, propósito, dato y llamado a actuar.",
-      "practica": {
-        "ejercicio": "Escribe un mensaje de una frase para un cartel escolar que invite a tomar agua simple en lugar de refrescos.",
-        "respuesta": "Ejemplo: \"Tu cuerpo pide agua: cambia el refresco por agua simple hoy\". Debe ser breve, dirigido a estudiantes e incluir una invitación a actuar."
-      },
-      "analogias": [
-        {
-          "titulo": "El anzuelo",
-          "texto": "Un buen mensaje es como un anzuelo: una frase atractiva atrapa la atención y luego la información convence."
-        },
-        {
-          "titulo": "La señal de tránsito",
-          "texto": "Se entiende en segundos y dice qué hacer. Un mensaje saludable también debe leerse de pasada y guiar tu decisión."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos medios comunitarios donde difundir una campaña de vacunación.",
-          "respuesta": "Por ejemplo: radio local, perifoneo, mural, periódico escolar o carteles en la tienda del barrio."
-        },
-        {
-          "ejercicio": "¿Qué diferencia hay entre adaptar un mensaje a un cartel y a un spot de radio?",
-          "respuesta": "El cartel usa imagen y texto breve; el spot usa voz, sonido y repetición porque no hay imagen."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿por qué un mensaje de salud debe apoyarse en datos confiables? Da dos criterios.",
-          "respuesta": "Para no desinformar ni poner en riesgo a otros. Criterios: cita una fuente confiable y evita exagerar o asustar sin fundamento."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-052",
-    "titulo": "Textos de divulgación científica",
-    "slug": "textos-divulgacion-cientifica-secundaria",
-    "palabras": [
-      "divulgación",
-      "ciencia",
-      "artículo",
-      "revista",
-      "explicar",
-      "fuentes",
-      "vocabulario técnico"
-    ],
-    "contenido": {
-      "idea": "Es como cuando un hermano mayor te explica con ejemplos sencillos cómo funciona un reloj. Usa palabras fáciles para que entiendas algo que parecía difícil.",
-      "pizarron": "**Qué es:** un texto de divulgación explica la ciencia con palabras sencillas, para que cualquiera la entienda.\n\n**Cómo es:** título que atrae, explicación, ejemplos, imágenes y datos comprobables.\n\n**Para leerlo:**\n\n1. Di de qué trata.\n2. Subraya lo importante.\n3. Busca palabras nuevas.\n\n**Para escribirlo:**\n\n1. Investiga en varias fuentes.\n2. Explica con tus palabras.\n3. Di de dónde sacaste el dato.\n\n**Para tu escuela:** explica por qué llueve como si le hablaras a un niño.",
-      "truco": "Claro, preciso y con fuentes: ciencia para todos.",
-      "practica": {
-        "ejercicio": "Explica en una oración, para un lector sin conocimientos, qué es la fotosíntesis.",
-        "respuesta": "Ejemplo: \"Es el proceso con el que las plantas usan luz del sol, agua y dióxido de carbono para producir su alimento y liberar oxígeno\"."
-      },
-      "analogias": [
-        {
-          "titulo": "El puente",
-          "texto": "El texto conecta la isla de los científicos con la orilla donde vive el público general, para que todos crucen al conocimiento."
-        },
-        {
-          "titulo": "El traductor",
-          "texto": "Traduce el idioma técnico de los laboratorios al lenguaje cotidiano sin cambiar el sentido de lo que se descubrió."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos características de un texto de divulgación científica.",
-          "respuesta": "Por ejemplo: lenguaje claro, define términos técnicos, usa ejemplos o imágenes, cita fuentes."
-        },
-        {
-          "ejercicio": "¿Es dato o es opinión? \"El agua hierve a 100 grados Celsius al nivel del mar\".",
-          "respuesta": "Es un dato comprobable."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿por qué conviene revisar las fuentes de un artículo científico? Da dos criterios.",
-          "respuesta": "Para saber si la información es confiable. Criterios: autor o institución reconocida y datos que se puedan verificar en otras fuentes."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-056",
-    "titulo": "Manifestaciones culturales y artísticas incluyentes",
-    "slug": "manifestaciones-culturales-incluyentes-secundaria",
-    "palabras": [
-      "cultura",
-      "arte",
-      "inclusión",
-      "diversidad",
-      "respeto",
-      "patrimonio",
-      "pluralidad"
-    ],
-    "contenido": {
-      "idea": "Imagina una fiesta donde cada invitado trae un platillo distinto. Si todos prueban y comparten, la mesa es más rica y nadie se siente fuera.",
-      "pizarron": "**Qué es:** son expresiones de arte y cultura donde cabe todo mundo, sin dejar fuera a nadie.\n\nUna obra con intérprete de señas deja participar a quien no oye.\n\n**Cómo ayudan:**\n\n1. Dan voz a grupos distintos.\n2. Enseñan a ver el mundo de otra forma.\n3. Abren espacios para todos.\n\n**Para analizar una:** ¿quién la creó?, ¿qué dice?, ¿quién puede participar?\n\n**Para tu escuela:** propón cómo hacer un festival donde participen todos.",
-      "truco": "Conocer, respetar y compartir: el arte une.",
-      "practica": {
-        "ejercicio": "Menciona una manifestación cultural de tu comunidad y explica cómo puede incluir a más personas.",
-        "respuesta": "Ejemplo: una danza tradicional que invita a todos a participar y se presenta en un espacio accesible. Debe nombrar la manifestación y una acción de inclusión."
-      },
-      "analogias": [
-        {
-          "titulo": "El mosaico",
-          "texto": "Cada pieza es distinta, pero juntas forman una imagen completa. Si quitas piezas, el mosaico queda incompleto."
-        },
-        {
-          "titulo": "La orquesta",
-          "texto": "Cada instrumento suena diferente, y la música es hermosa cuando todos tienen su lugar y se escuchan entre sí."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Nombra tres formas de expresión artística.",
-          "respuesta": "Por ejemplo: música, danza, pintura, teatro, literatura."
-        },
-        {
-          "ejercicio": "¿Cómo hace más incluyente un museo ofrecer textos en braille y en lengua indígena?",
-          "respuesta": "Permite que personas con discapacidad visual y hablantes de lenguas indígenas accedan a la información."
-        },
-        {
-          "ejercicio": "Reflexiona: ¿qué harías si alguien se burla de una tradición distinta a la tuya? Da dos criterios.",
-          "respuesta": "Responder con respeto y explicar su valor. Criterios: no responder con violencia y promover el diálogo y el reconocimiento de la diversidad."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-044",
+"titulo": "Comunicación asertiva y dialógica",
+"slug": "comunicacion-asertiva-dialogica-secundaria",
+"palabras": [
+"asertividad",
+"diálogo",
+"violencia verbal",
+"conflicto",
+"respeto",
+"comunicación"
+],
+"contenido": {
+"idea": "Imagina que dos niños quieren el mismo columpio. Uno grita y empuja; otro dice: \"Yo también quiero, ¿nos turnamos?\". El segundo habla fuerte y claro, pero sin lastimar.",
+"pizarron": "**Qué es:** ser asertivo es decir lo que piensas y necesitas con claridad y respeto, sin gritar y sin quedarte callado.\n\n**Pasos:**\n\n1. Di lo que pasó, sin insultar: *Llegaste tarde dos veces.*\n2. Di cómo te sientes: *Me sentí ignorado.*\n3. Di lo que necesitas: *Me gustaría que avises.*\n4. Escucha la respuesta.\n\n**Dialogar** es hablar por turnos y buscar un acuerdo.\n\n**Para tu escuela:** cambia esta frase por una asertiva: *¡Siempre me copias!*",
+"truco": "Hechos, siento, necesito: sin gritar ni callar.",
+"practica": {
+"ejercicio": "Reescribe de forma asertiva: \"¡Eres un flojo, nunca ayudas en el equipo!\"",
+"respuesta": "Ejemplo: \"En la última tarea no entregaste tu parte. Me preocupa que no terminemos a tiempo. ¿Puedes entregarla mañana?\" Debe describir el hecho, expresar un sentimiento y pedir algo concreto, sin insultos."
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "Rojo es callarte todo, verde sin freno es atropellar a otros; el amarillo asertivo avanza con cuidado, pensando en quien cruza contigo."
+},
+{
+"titulo": "La pelota de pase",
+"texto": "El diálogo es como pasar una pelota: nadie se la queda para siempre. Hablas, pasas, escuchas y vuelves a recibirla."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica como pasivo, agresivo o asertivo: \"Mejor no digo nada, aunque me molesta\".",
+"respuesta": "Pasivo: evita expresar lo que siente."
+},
+{
+"ejercicio": "Escribe un mensaje en primera persona para pedir que bajen el volumen de la música.",
+"respuesta": "Ejemplo: \"Me cuesta concentrarme con la música fuerte; ¿puedes bajarla un poco?\" Es válido si no acusa y pide algo concreto."
+},
+{
+"ejercicio": "Reflexiona: ¿por qué escuchar es parte de ser asertivo? Da dos criterios en tu respuesta.",
+"respuesta": "Porque permite entender al otro y llegar a acuerdos. Criterios: menciona respeto mutuo y la posibilidad de resolver el conflicto sin violencia."
+}
+]
+}
+},
+{
+"nodo_id": "f6-048",
+"titulo": "Mensajes para promover una vida saludable",
+"slug": "mensajes-vida-saludable-secundaria",
+"palabras": [
+"campaña",
+"salud",
+"cartel",
+"spot",
+"radio comunitaria",
+"persuadir",
+"medios"
+],
+"contenido": {
+"idea": "Es como cuando tu mamá te recuerda con una canción pegajosa lavarte las manos. El mensaje es corto, claro y fácil de recordar, y te invita a hacer algo bueno para ti.",
+"pizarron": "**Qué es:** es escribir mensajes que informen e inviten a cuidar la salud.\n\n**Pasos:**\n\n1. Elige el tema y a quién le hablas.\n2. Decide si informas, invitas o previenes.\n3. Usa frases cortas.\n4. Agrega un dato confiable.\n5. Termina con una invitación: *Toma agua simple.*\n6. Ajusta al medio: cartel con imagen o radio con voz.\n\n**Cartel:** usa imagen y texto breve. **Radio:** usa voz, sonido y repetición, porque no hay imagen.\n\n**Para tu escuela:** escribe un mensaje de radio de 15 segundos sobre lavarse las manos.",
+"truco": "Público, propósito, dato y llamado a actuar.",
+"practica": {
+"ejercicio": "Escribe un mensaje de una frase para un cartel escolar que invite a tomar agua simple en lugar de refrescos.",
+"respuesta": "Ejemplo: \"Tu cuerpo pide agua: cambia el refresco por agua simple hoy\". Debe ser breve, dirigido a estudiantes e incluir una invitación a actuar."
+},
+"analogias": [
+{
+"titulo": "El anzuelo",
+"texto": "Un buen mensaje es como un anzuelo: una frase atractiva atrapa la atención y luego la información convence."
+},
+{
+"titulo": "La señal de tránsito",
+"texto": "Se entiende en segundos y dice qué hacer. Un mensaje saludable también debe leerse de pasada y guiar tu decisión."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos medios comunitarios donde difundir una campaña de vacunación.",
+"respuesta": "Por ejemplo: radio local, perifoneo, mural, periódico escolar o carteles en la tienda del barrio."
+},
+{
+"ejercicio": "¿Qué diferencia hay entre adaptar un mensaje a un cartel y a un spot de radio?",
+"respuesta": "El cartel usa imagen y texto breve; el spot usa voz, sonido y repetición porque no hay imagen."
+},
+{
+"ejercicio": "Reflexiona: ¿por qué un mensaje de salud debe apoyarse en datos confiables? Da dos criterios.",
+"respuesta": "Para no desinformar ni poner en riesgo a otros. Criterios: cita una fuente confiable y evita exagerar o asustar sin fundamento."
+}
+]
+}
+},
+{
+"nodo_id": "f6-052",
+"titulo": "Textos de divulgación científica",
+"slug": "textos-divulgacion-cientifica-secundaria",
+"palabras": [
+"divulgación",
+"ciencia",
+"artículo",
+"revista",
+"explicar",
+"fuentes",
+"vocabulario técnico"
+],
+"contenido": {
+"idea": "Es como cuando un hermano mayor te explica con ejemplos sencillos cómo funciona un reloj. Usa palabras fáciles para que entiendas algo que parecía difícil.",
+"pizarron": "**Qué es:** un texto de divulgación explica la ciencia con palabras sencillas, para que cualquiera la entienda.\n\n**Cómo es:** título que atrae, explicación, ejemplos, imágenes y datos comprobables.\n\n**Para leerlo:**\n\n1. Di de qué trata.\n2. Subraya lo importante.\n3. Busca palabras nuevas.\n\n**Para escribirlo:**\n\n1. Investiga en varias fuentes.\n2. Explica con tus palabras.\n3. Di de dónde sacaste el dato.\n\n**Para tu escuela:** explica por qué llueve como si le hablaras a un niño.",
+"truco": "Claro, preciso y con fuentes: ciencia para todos.",
+"practica": {
+"ejercicio": "Explica en una oración, para un lector sin conocimientos, qué es la fotosíntesis.",
+"respuesta": "Ejemplo: \"Es el proceso con el que las plantas usan luz del sol, agua y dióxido de carbono para producir su alimento y liberar oxígeno\"."
+},
+"analogias": [
+{
+"titulo": "El puente",
+"texto": "El texto conecta la isla de los científicos con la orilla donde vive el público general, para que todos crucen al conocimiento."
+},
+{
+"titulo": "El traductor",
+"texto": "Traduce el idioma técnico de los laboratorios al lenguaje cotidiano sin cambiar el sentido de lo que se descubrió."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos características de un texto de divulgación científica.",
+"respuesta": "Por ejemplo: lenguaje claro, define términos técnicos, usa ejemplos o imágenes, cita fuentes."
+},
+{
+"ejercicio": "¿Es dato o es opinión? \"El agua hierve a 100 grados Celsius al nivel del mar\".",
+"respuesta": "Es un dato comprobable."
+},
+{
+"ejercicio": "Reflexiona: ¿por qué conviene revisar las fuentes de un artículo científico? Da dos criterios.",
+"respuesta": "Para saber si la información es confiable. Criterios: autor o institución reconocida y datos que se puedan verificar en otras fuentes."
+}
+]
+}
+},
+{
+"nodo_id": "f6-056",
+"titulo": "Manifestaciones culturales y artísticas incluyentes",
+"slug": "manifestaciones-culturales-incluyentes-secundaria",
+"palabras": [
+"cultura",
+"arte",
+"inclusión",
+"diversidad",
+"respeto",
+"patrimonio",
+"pluralidad"
+],
+"contenido": {
+"idea": "Imagina una fiesta donde cada invitado trae un platillo distinto. Si todos prueban y comparten, la mesa es más rica y nadie se siente fuera.",
+"pizarron": "**Qué es:** son expresiones de arte y cultura donde cabe todo mundo, sin dejar fuera a nadie.\n\nUna obra con intérprete de señas deja participar a quien no oye.\n\n**Cómo ayudan:**\n\n1. Dan voz a grupos distintos.\n2. Enseñan a ver el mundo de otra forma.\n3. Abren espacios para todos.\n\n**Para analizar una:** ¿quién la creó?, ¿qué dice?, ¿quién puede participar?\n\n**Para tu escuela:** propón cómo hacer un festival donde participen todos.",
+"truco": "Conocer, respetar y compartir: el arte une.",
+"practica": {
+"ejercicio": "Menciona una manifestación cultural de tu comunidad y explica cómo puede incluir a más personas.",
+"respuesta": "Ejemplo: una danza tradicional que invita a todos a participar y se presenta en un espacio accesible. Debe nombrar la manifestación y una acción de inclusión."
+},
+"analogias": [
+{
+"titulo": "El mosaico",
+"texto": "Cada pieza es distinta, pero juntas forman una imagen completa. Si quitas piezas, el mosaico queda incompleto."
+},
+{
+"titulo": "La orquesta",
+"texto": "Cada instrumento suena diferente, y la música es hermosa cuando todos tienen su lugar y se escuchan entre sí."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra tres formas de expresión artística.",
+"respuesta": "Por ejemplo: música, danza, pintura, teatro, literatura."
+},
+{
+"ejercicio": "¿Cómo hace más incluyente un museo ofrecer textos en braille y en lengua indígena?",
+"respuesta": "Permite que personas con discapacidad visual y hablantes de lenguas indígenas accedan a la información."
+},
+{
+"ejercicio": "Reflexiona: ¿qué harías si alguien se burla de una tradición distinta a la tuya? Da dos criterios.",
+"respuesta": "Responder con respeto y explicar su valor. Criterios: no responder con violencia y promover el diálogo y el reconocimiento de la diversidad."
+}
+]
+}
+}
 ]

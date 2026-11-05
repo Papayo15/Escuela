@@ -1,1172 +1,1172 @@
 [
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Tres poderes de la Unión",
-    "slug": "tres-poderes-de-la-union-secundaria",
-    "palabras": [
-      "Ejecutivo",
-      "Legislativo",
-      "Judicial",
-      "división de poderes"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Partido",
-          "texto": "Unos escriben reglas, otros juegan y otros arbitran."
-        },
-        {
-          "titulo": "Tres patas",
-          "texto": "Si a la mesa le falta una pata, todo se cae."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién encabeza el Ejecutivo?",
-          "respuesta": "La presidenta o presidente."
-        },
-        {
-          "ejercicio": "¿Qué poder juzga?",
-          "respuesta": "El Judicial."
-        },
-        {
-          "ejercicio": "¿Para qué se dividen?",
-          "respuesta": "Para evitar abusos."
-        }
-      ],
-      "idea": "Si una sola persona hiciera las reglas, las aplicara y juzgara, sería injusto. Por eso el poder se reparte.",
-      "pizarron": "**Qué es:** el Supremo Poder de la Federación se divide en Ejecutivo, Legislativo y Judicial.\n\n**Ejecutivo:** aplica las leyes. Presidencia.\n\n**Legislativo:** hace las leyes. Congreso de la Unión.\n\n**Judicial:** interpreta las leyes y juzga. Suprema Corte.\n\nSe vigilan entre sí. Esto evita abusos.",
-      "truco": "Hace, aplica y juzga.",
-      "practica": {
-        "ejercicio": "¿Quién hace las leyes?",
-        "respuesta": "El Poder Legislativo."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Estructura de la Constitución",
-    "slug": "estructura-de-la-constitucion-secundaria",
-    "palabras": [
-      "Constitución",
-      "parte dogmática",
-      "parte orgánica"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Dos libros en uno",
-          "texto": "Uno dice lo que tienes y otro dice quién manda."
-        },
-        {
-          "titulo": "Pirámide",
-          "texto": "La Constitución está arriba de todas las leyes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué parte trata derechos?",
-          "respuesta": "La dogmática."
-        },
-        {
-          "ejercicio": "¿Qué parte trata del gobierno?",
-          "respuesta": "La orgánica."
-        },
-        {
-          "ejercicio": "¿Puede una ley ir contra ella?",
-          "respuesta": "No."
-        }
-      ],
-      "idea": "La Constitución es como un libro con dos partes: tus derechos y cómo se organiza el país.",
-      "pizarron": "**Qué es:** la Constitución es la ley suprema de México, con 136 artículos.\n\n**Parte dogmática:** derechos humanos y garantías.\n\n**Parte orgánica:** organización del poder y del gobierno.\n\n**Transitorios:** normas temporales.\n\nNinguna ley puede ir contra ella.",
-      "truco": "136 artículos, dos partes.",
-      "practica": {
-        "ejercicio": "¿Cuántos artículos tiene?",
-        "respuesta": "136."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Artículos clave de la Constitución",
-    "slug": "articulos-clave-de-la-constitucion-secundaria",
-    "palabras": [
-      "artículos",
-      "Constitución",
-      "derechos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Llaves",
-          "texto": "Cada artículo abre una puerta de derechos."
-        },
-        {
-          "titulo": "Lista de contacto",
-          "texto": "Conviene tener los números más importantes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué artículo trata del trabajo?",
-          "respuesta": "El 123."
-        },
-        {
-          "ejercicio": "¿Qué artículo reconoce a pueblos indígenas?",
-          "respuesta": "El 2."
-        },
-        {
-          "ejercicio": "¿Qué artículo habla de la tierra?",
-          "respuesta": "El 27."
-        }
-      ],
-      "idea": "Unos pocos artículos concentran derechos que usas todos los días, aunque no lo notes.",
-      "pizarron": "**Qué es:** son los artículos de la Constitución que más se usan. La Constitución es la ley más importante de México.\n\n| Artículo | Habla de |\n|---|---|\n| 1 | Derechos humanos |\n| 2 | Pueblos indígenas |\n| 3 | Educación |\n| 4 | Igualdad y salud |\n| 6 y 7 | Libertad de expresión |\n| 27 | Tierra y recursos |\n| 39 | El poder es del pueblo |\n| 40 | República federal |\n| 123 | Trabajo |\n| 130 | Estado e iglesias |\n\n**Ejemplo:** tu derecho a ir a la escuela está en el artículo 3.\n\n**Para tu escuela:** escribe qué artículo protege a tu mamá o papá en su trabajo.",
-      "truco": "3 estudia, 27 tierra, 123 trabajo.",
-      "practica": {
-        "ejercicio": "¿Qué artículo trata de educación?",
-        "respuesta": "El 3."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Cómo se hace una ley",
-    "slug": "como-se-hace-una-ley-secundaria",
-    "palabras": [
-      "proceso legislativo",
-      "iniciativa",
-      "Congreso"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Filtros",
-          "texto": "Solo llega al final lo que pasa cada revisión."
-        },
-        {
-          "titulo": "Tarea corregida",
-          "texto": "Dos maestros la revisan antes de la calificación."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién propone?",
-          "respuesta": "Quien presenta la iniciativa."
-        },
-        {
-          "ejercicio": "¿Cuántas Cámaras participan?",
-          "respuesta": "Dos."
-        },
-        {
-          "ejercicio": "¿Quién la promulga?",
-          "respuesta": "El Ejecutivo."
-        }
-      ],
-      "idea": "Una ley empieza con una idea, y debe pasar varios filtros, como un proyecto de escuela.",
-      "pizarron": "**Qué es:** el proceso legislativo es el camino para crear una ley.\n\n1. **Iniciativa:** alguien la propone.\n2. **Comisión:** se estudia.\n3. **Debate y votación** en una Cámara.\n4. Pasa a la otra Cámara.\n5. **Promulgación:** la firma el Ejecutivo.\n6. **Publicación** en el Diario Oficial.\n7. **Entra en vigor.**",
-      "truco": "Proponer, discutir, aprobar y publicar.",
-      "practica": {
-        "ejercicio": "¿Dónde se publica?",
-        "respuesta": "En el Diario Oficial."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Federación, estados y municipios",
-    "slug": "federacion-estados-y-municipios-secundaria",
-    "palabras": [
-      "federalismo",
-      "municipio",
-      "gobierno"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Casa, edificio, colonia",
-          "texto": "Cada problema se atiende donde corresponde."
-        },
-        {
-          "titulo": "Equipo por niveles",
-          "texto": "Cada nivel del equipo tiene su propio capitán."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién gobierna un estado?",
-          "respuesta": "La gubernatura."
-        },
-        {
-          "ejercicio": "¿Quién gobierna un municipio?",
-          "respuesta": "La presidencia municipal."
-        },
-        {
-          "ejercicio": "Di quién da agua en tu ciudad.",
-          "respuesta": "Normalmente, el municipio."
-        }
-      ],
-      "idea": "Tu colonia, tu estado y tu país tienen autoridades distintas para atender problemas distintos.",
-      "pizarron": "**Qué es:** México es una república federal con tres órdenes de gobierno.\n\n**Federal:** todo el país. Presidencia, Congreso, Corte.\n\n**Estatal:** gubernatura y congreso local.\n\n**Municipal:** presidencia municipal y cabildo. Da agua, basura y alumbrado.\n\nLa Ciudad de México tiene alcaldías.",
-      "truco": "País, estado y municipio.",
-      "practica": {
-        "ejercicio": "¿Quién atiende la basura?",
-        "respuesta": "El municipio."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-090",
-    "titulo": "Derechos humanos: características y generaciones",
-    "slug": "derechos-humanos-caracteristicas-y-generaciones-secundaria",
-    "palabras": [
-      "derechos humanos",
-      "universales",
-      "generaciones"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Equipaje",
-          "texto": "Viajan contigo adonde vayas, como tu propia sombra."
-        },
-        {
-          "titulo": "Sin precio",
-          "texto": "No se ganan por buenas notas ni por tener dinero."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di un derecho civil.",
-          "respuesta": "El derecho a la vida."
-        },
-        {
-          "ejercicio": "Di un derecho social.",
-          "respuesta": "La salud."
-        },
-        {
-          "ejercicio": "¿Qué significa inalienable?",
-          "respuesta": "Que no se puede quitar."
-        }
-      ],
-      "idea": "Tienes derechos por el solo hecho de ser persona. Nadie te los regala y nadie te los puede quitar.",
-      "pizarron": "**Qué es:** los derechos humanos son facultades que protegen la dignidad de toda persona.\n\n**Características:**\n\n- **Universales:** para todos.\n- **Inalienables:** no se quitan.\n- **Indivisibles:** van juntos.\n\n**Generaciones:**\n\n1. Civiles y políticos: vida, voto.\n2. Económicos y sociales: trabajo, salud.\n3. Colectivos: paz y medio ambiente.",
-      "truco": "Por ser persona, ya los tienes.",
-      "practica": {
-        "ejercicio": "¿Qué significa universales?",
-        "respuesta": "Que son para todas las personas."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-090",
-    "titulo": "Garantías y amparo",
-    "slug": "garantias-y-amparo-secundaria",
-    "palabras": [
-      "garantías",
-      "amparo",
-      "derechos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Escudo",
-          "texto": "Te protege cuando una autoridad te pega."
-        },
-        {
-          "titulo": "Árbitro",
-          "texto": "Detiene la jugada injusta del más fuerte."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa CNDH?",
-          "respuesta": "Comisión Nacional de los Derechos Humanos."
-        },
-        {
-          "ejercicio": "¿Quién creó el amparo?",
-          "respuesta": "Rejón y Otero."
-        },
-        {
-          "ejercicio": "Di una garantía.",
-          "respuesta": "La igualdad."
-        }
-      ],
-      "idea": "Si una autoridad viola tus derechos, existe un escudo legal para defenderte.",
-      "pizarron": "**Qué es:** las garantías son medios que protegen los derechos. El **amparo** es un juicio para defenderte de actos de autoridad.\n\n**Garantías:** igualdad, libertad, seguridad jurídica y propiedad.\n\n**Amparo:** lo resuelve un juez federal.\n\nLo crearon Manuel Crescencio Rejón y Mariano Otero.\n\n**CNDH:** recibe quejas.\n\n**Para recordar:**\n- **CNDH:** Comisión Nacional de los Derechos Humanos.",
-      "truco": "Amparo: el escudo ante la autoridad.",
-      "practica": {
-        "ejercicio": "¿Quién resuelve el amparo?",
-        "respuesta": "Un juez federal."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Presidencia y gabinete",
-    "slug": "presidencia-y-gabinete-secundaria",
-    "palabras": [
-      "presidencia",
-      "gabinete",
-      "secretarías"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Capitán y equipo",
-          "texto": "Cada secretaría es un especialista en su tema."
-        },
-        {
-          "titulo": "Director y maestros",
-          "texto": "El director dirige, pero cada maestro da su materia."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué edad se requiere?",
-          "respuesta": "35 años."
-        },
-        {
-          "ejercicio": "Di dos secretarías.",
-          "respuesta": "Educación y Salud."
-        },
-        {
-          "ejercicio": "¿Puede reelegirse?",
-          "respuesta": "No."
-        }
-      ],
-      "idea": "Quien preside no gobierna sola: tiene un equipo de secretarías, una para cada tema.",
-      "pizarron": "**Qué es:** la presidencia encabeza el Ejecutivo federal por seis años, sin reelección. El gabinete son las secretarías que ayudan.\n\n**Requisitos:** mexicano por nacimiento y al menos 35 años.\n\n**Ejemplos:** Educación, Salud, Hacienda, Defensa, Relaciones Exteriores.\n\n**Funciones:** aplicar leyes, dirigir relaciones exteriores y mandar las Fuerzas Armadas.",
-      "truco": "Seis años, sin reelección.",
-      "practica": {
-        "ejercicio": "¿Cuánto dura el cargo?",
-        "respuesta": "Seis años."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Congreso de la Unión",
-    "slug": "congreso-de-la-union-secundaria",
-    "palabras": [
-      "Congreso",
-      "diputados",
-      "senadores"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Dos filtros",
-          "texto": "Dos Cámaras revisan una misma propuesta."
-        },
-        {
-          "titulo": "Voz de todos",
-          "texto": "Cada persona electa lleva la voz de quienes votaron."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuántos diputados hay?",
-          "respuesta": "500."
-        },
-        {
-          "ejercicio": "¿Cuánto duran los senadores?",
-          "respuesta": "Seis años."
-        },
-        {
-          "ejercicio": "¿Quién aprueba el presupuesto?",
-          "respuesta": "La Cámara de Diputados."
-        }
-      ],
-      "idea": "En México hay dos salones donde se discuten las leyes: la Cámara de Diputados y la de Senadores.",
-      "pizarron": "**Qué es:** el Congreso de la Unión es el Poder Legislativo federal, con dos Cámaras.\n\n**Diputados:** 500. Duran 3 años.\n\n**Senadores:** 128. Duran 6 años.\n\nRepresentan al pueblo y a los estados.\n\n**Funciones:** hacer leyes, aprobar presupuesto y vigilar al gobierno.",
-      "truco": "500 diputados; 128 senadores.",
-      "practica": {
-        "ejercicio": "¿Cuántos senadores hay?",
-        "respuesta": "128."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "Suprema Corte de Justicia",
-    "slug": "suprema-corte-de-justicia-secundaria",
-    "palabras": [
-      "Suprema Corte",
-      "ministros",
-      "Poder Judicial"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Árbitro final",
-          "texto": "Cuando hay duda sobre las reglas, la Corte decide."
-        },
-        {
-          "titulo": "Último piso",
-          "texto": "Es el escalón más alto de los tribunales."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significan las siglas SCJN?",
-          "respuesta": "Suprema Corte de Justicia de la Nación."
-        },
-        {
-          "ejercicio": "¿Cómo se llaman sus integrantes?",
-          "respuesta": "Ministras y ministros."
-        },
-        {
-          "ejercicio": "¿A qué poder pertenece?",
-          "respuesta": "Al Judicial."
-        }
-      ],
-      "idea": "Cuando hay dudas sobre si algo respeta la Constitución, la última palabra la tiene la Corte.",
-      "pizarron": "**Qué es:** la Suprema Corte de Justicia de la Nación es el tribunal más alto de México.\n\n**Qué hace:** decide si algo respeta la Constitución, y resuelve conflictos entre autoridades.\n\nEs como el árbitro final. Si hay duda con las reglas, ella decide.\n\nLa integran ministras y ministros. Tras la reforma de 2024, se eligen por voto popular.\n\n**Para tu escuela:** explica por qué un país necesita un árbitro final.",
-      "truco": "Última palabra sobre la Constitución.",
-      "practica": {
-        "ejercicio": "¿Qué hace la Corte?",
-        "respuesta": "Interpreta la Constitución."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-111",
-    "titulo": "INE y elecciones",
-    "slug": "ine-y-elecciones-secundaria",
-    "palabras": [
-      "INE",
-      "elecciones",
-      "voto"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Árbitro electoral",
-          "texto": "Cuida que nadie haga trampa en el juego de votar."
-        },
-        {
-          "titulo": "Vecinos en la casilla",
-          "texto": "Tus propios vecinos cuentan los votos de tu colonia."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué documento da el INE?",
-          "respuesta": "La credencial para votar."
-        },
-        {
-          "ejercicio": "Di dos rasgos del voto.",
-          "respuesta": "Libre y secreto."
-        },
-        {
-          "ejercicio": "¿Quién atiende las casillas?",
-          "respuesta": "Ciudadanos sorteados."
-        }
-      ],
-      "idea": "Para que tu voto cuente, alguien debe organizar y cuidar la elección.",
-      "pizarron": "**Qué es:** el Instituto Nacional Electoral (INE) organiza las elecciones federales.\n\n**Funciones:** credencial para votar, casillas, conteo y promoción del voto.\n\n**Voto:** universal, libre, secreto y directo.\n\n**Edad:** 18 años.\n\nQuienes atienden las casillas son ciudadanos sorteados.",
-      "truco": "Libre y secreto.",
-      "practica": {
-        "ejercicio": "¿A qué edad votas?",
-        "respuesta": "A los 18 años."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-090",
-    "titulo": "ONU y sus organismos",
-    "slug": "onu-y-sus-organismos-secundaria",
-    "palabras": [
-      "ONU",
-      "UNICEF",
-      "UNESCO",
-      "OMS"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Departamentos",
-          "texto": "Una empresa enorme con oficinas para cada tema."
-        },
-        {
-          "titulo": "Médicos del mundo",
-          "texto": "La OMS atiende problemas de salud mundial."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué hace la UNESCO?",
-          "respuesta": "Educación y cultura."
-        },
-        {
-          "ejercicio": "¿Qué hace la OMS?",
-          "respuesta": "Salud."
-        },
-        {
-          "ejercicio": "¿Qué organismo ayuda a refugiados?",
-          "respuesta": "ACNUR."
-        }
-      ],
-      "idea": "La ONU tiene oficinas especializadas: una para niños, otra para salud y otra para educación.",
-      "pizarron": "**Qué es:** los organismos de la ONU se especializan en problemas mundiales.\n\n- **UNICEF:** niñez.\n- **UNESCO:** educación y cultura.\n- **OMS:** salud.\n- **FAO:** alimentación.\n- **ACNUR:** refugiados.\n- **Corte Internacional de Justicia:** disputas.",
-      "truco": "UNICEF niños; OMS salud.",
-      "practica": {
-        "ejercicio": "¿Qué organismo cuida a la niñez?",
-        "respuesta": "UNICEF."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-090",
-    "titulo": "Declaración Universal de los Derechos Humanos",
-    "slug": "declaracion-universal-de-los-derechos-humanos-secundaria",
-    "palabras": [
-      "Declaración Universal",
-      "1948",
-      "ONU"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Promesa mundial",
-          "texto": "Los países prometieron respetar a toda persona."
-        },
-        {
-          "titulo": "Nunca más",
-          "texto": "Nunca más: esa promesa nació del dolor de la guerra."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién la aprobó?",
-          "respuesta": "La ONU."
-        },
-        {
-          "ejercicio": "¿Qué dice el artículo 1?",
-          "respuesta": "Todos nacen libres e iguales."
-        },
-        {
-          "ejercicio": "¿Qué día se celebra?",
-          "respuesta": "El 10 de diciembre."
-        }
-      ],
-      "idea": "Tras la Segunda Guerra Mundial, los países escribieron una lista de derechos para todas las personas.",
-      "pizarron": "**Qué es:** es un documento de la ONU, aprobado el 10 de diciembre de 1948, con los derechos de todas las personas.\n\nTras la Segunda Guerra Mundial, los países prometieron que algo así no debía repetirse.\n\nTiene 30 artículos.\n\n**Artículo 1:** todos nacen libres e iguales en dignidad y derechos.\n\nIncluye derecho a la vida, la educación, la libertad y el trabajo.\n\nEl 10 de diciembre es el Día de los Derechos Humanos.\n\n**Para tu escuela:** elige un derecho y di cómo se cumple en tu escuela.",
-      "truco": "10 de diciembre de 1948.",
-      "practica": {
-        "ejercicio": "¿Cuántos artículos tiene?",
-        "respuesta": "30."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-038",
-    "titulo": "Rotación y traslación de la Tierra",
-    "slug": "rotacion-y-traslacion-de-la-tierra-primaria",
-    "palabras": [
-      "rotación",
-      "traslación",
-      "día",
-      "año"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Trompo",
-          "texto": "La Tierra gira como un trompo mientras avanza."
-        },
-        {
-          "titulo": "Lámpara",
-          "texto": "Solo la cara de la Tierra que mira al Sol tiene luz."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuánto dura la traslación?",
-          "respuesta": "Unos 365 días."
-        },
-        {
-          "ejercicio": "¿Qué es un bisiesto?",
-          "respuesta": "Un año con 366 días."
-        },
-        {
-          "ejercicio": "¿Cuánto dura la rotación?",
-          "respuesta": "Unas 24 horas."
-        }
-      ],
-      "idea": "Gira sobre ti mismo y camina alrededor de una lámpara. La Tierra hace ambas cosas.",
-      "pizarron": "**Qué es:** la rotación es el giro de la Tierra sobre su eje. La traslación es su viaje alrededor del Sol.\n\n**Rotación:** dura unas 24 horas. Da el día y la noche.\n\n**Traslación:** dura unos 365 días. Da el año.\n\nCada cuatro años hay un año **bisiesto**.",
-      "truco": "Rotación, día; traslación, año.",
-      "practica": {
-        "ejercicio": "¿Qué movimiento causa el día y la noche?",
-        "respuesta": "La rotación."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-038",
-    "titulo": "Fases de la Luna",
-    "slug": "fases-de-la-luna-primaria",
-    "palabras": [
-      "fases de la Luna",
-      "luna llena",
-      "luna nueva"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Pelota con linterna",
-          "texto": "Ilumina una pelota y muévela: verás las fases."
-        },
-        {
-          "titulo": "Espejo",
-          "texto": "La Luna refleja el Sol, como un espejo en la noche."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué fase no se ve?",
-          "respuesta": "La luna nueva."
-        },
-        {
-          "ejercicio": "¿Tiene luz propia?",
-          "respuesta": "No."
-        },
-        {
-          "ejercicio": "Observa la Luna una semana y dibújala.",
-          "respuesta": "Debe mostrar cómo cambia."
-        }
-      ],
-      "idea": "La Luna parece cambiar de forma, pero es igual. Solo vemos distintas partes iluminadas.",
-      "pizarron": "**Qué es:** las fases de la Luna son las formas que vemos según su posición con el Sol y la Tierra.\n\n1. **Luna nueva:** no se ve.\n2. **Cuarto creciente.**\n3. **Luna llena:** se ve redonda.\n4. **Cuarto menguante.**\n\nEl ciclo dura cerca de 29 días y medio.\n\nLa Luna no tiene luz propia: refleja la del Sol.",
-      "truco": "Nueva, creciente, llena y menguante.",
-      "practica": {
-        "ejercicio": "¿Cuánto dura el ciclo?",
-        "respuesta": "Cerca de 29 días y medio."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-038",
-    "titulo": "Eclipses de Sol y de Luna",
-    "slug": "eclipses-de-sol-y-de-luna-primaria",
-    "palabras": [
-      "eclipses",
-      "solar",
-      "lunar"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Tres en línea",
-          "texto": "Tres personas alineadas se tapan una a otra la luz."
-        },
-        {
-          "titulo": "Mano y lámpara",
-          "texto": "Tu mano tapa la lámpara y hace sombra en la pared."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién queda en medio en un eclipse lunar?",
-          "respuesta": "La Tierra."
-        },
-        {
-          "ejercicio": "¿Se puede ver directo el Sol?",
-          "respuesta": "No, sin filtros especiales."
-        },
-        {
-          "ejercicio": "¿Qué se forma en un eclipse?",
-          "respuesta": "Una sombra."
-        }
-      ],
-      "idea": "A veces la sombra de la Luna cae en la Tierra, o la sombra de la Tierra cae en la Luna.",
-      "pizarron": "**Qué es:** un eclipse ocurre cuando un astro tapa la luz de otro.\n\n**Eclipse solar:** la Luna se pone entre el Sol y la Tierra.\n\nSol, **Luna**, Tierra.\n\n**Eclipse lunar:** la Tierra se pone entre el Sol y la Luna.\n\nSol, **Tierra**, Luna.\n\nNunca veas un eclipse solar directamente sin filtros especiales: puede dañar tus ojos.",
-      "truco": "En medio está quien tapa.",
-      "practica": {
-        "ejercicio": "¿Quién queda en medio en un eclipse solar?",
-        "respuesta": "La Luna."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-038",
-    "titulo": "Estaciones del año",
-    "slug": "estaciones-del-ano-primaria",
-    "palabras": [
-      "estaciones",
-      "inclinación",
-      "traslación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Trompo ladeado",
-          "texto": "Un trompo inclinado da más luz a un lado."
-        },
-        {
-          "titulo": "Linterna de lado",
-          "texto": "La luz que llega inclinada calienta menos el suelo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué hay en Argentina en diciembre?",
-          "respuesta": "Verano."
-        },
-        {
-          "ejercicio": "¿Cuántas estaciones hay?",
-          "respuesta": "Cuatro."
-        },
-        {
-          "ejercicio": "¿Causa la distancia al Sol las estaciones?",
-          "respuesta": "No."
-        }
-      ],
-      "idea": "En diciembre hace frío en México y calor en Argentina. La culpa la tiene la inclinación de la Tierra.",
-      "pizarron": "**Qué es:** las estaciones son cuatro periodos del año causados por la inclinación de la Tierra y su traslación.\n\n**Hemisferio norte:**\n\n- Primavera: marzo.\n- Verano: junio.\n- Otoño: septiembre.\n- Invierno: diciembre.\n\nCuando el norte se inclina al Sol, recibe más luz y es verano.\n\nEn el hemisferio sur es lo opuesto.\n\nNo se debe a la distancia al Sol.",
-      "truco": "Inclinación, no distancia.",
-      "practica": {
-        "ejercicio": "¿Qué estación empieza en diciembre en México?",
-        "respuesta": "Invierno."
-      }
-    }
-  },
-  {
-    "nodo_id": "f5-044",
-    "titulo": "Planetas del Sistema Solar",
-    "slug": "planetas-del-sistema-solar-primaria",
-    "palabras": [
-      "planetas",
-      "Sistema Solar"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Carrusel",
-          "texto": "Cada planeta da vueltas en su propio carril."
-        },
-        {
-          "titulo": "Familia",
-          "texto": "El Sol es el centro y cada planeta tiene su propia personalidad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué planeta tiene grandes anillos?",
-          "respuesta": "Saturno."
-        },
-        {
-          "ejercicio": "¿Qué planeta está más cerca del Sol?",
-          "respuesta": "Mercurio."
-        },
-        {
-          "ejercicio": "¿Plutón es planeta?",
-          "respuesta": "Es un planeta enano."
-        }
-      ],
-      "idea": "Ocho planetas giran alrededor del Sol, como niños alrededor de una fogata.",
-      "pizarron": "**Qué es:** el Sistema Solar tiene al Sol y a los cuerpos que giran a su alrededor.\n\n**Rocosos:** Mercurio, Venus, Tierra, Marte.\n\n**Gigantes:** Júpiter, Saturno, Urano, Neptuno.\n\n**Datos:**\n\n- Júpiter: el más grande.\n- Saturno: anillos.\n- Marte: rojo.\n- Plutón: es un planeta enano.",
-      "truco": "Mi Vieja Tía Marta Jamás Supo Usar Números.",
-      "practica": {
-        "ejercicio": "¿Cuál es el planeta más grande?",
-        "respuesta": "Júpiter."
-      }
-    }
-  },
-  {
-    "nodo_id": "f5-044",
-    "titulo": "Estrellas y galaxias",
-    "slug": "estrellas-y-galaxias-primaria",
-    "palabras": [
-      "estrellas",
-      "galaxias",
-      "Vía Láctea"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Ciudad de estrellas",
-          "texto": "Cada estrella es una casa de una enorme ciudad."
-        },
-        {
-          "titulo": "Luz antigua",
-          "texto": "Ves las estrellas como eran hace muchos años."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es el Sol?",
-          "respuesta": "Una estrella."
-        },
-        {
-          "ejercicio": "¿Qué mide un año luz?",
-          "respuesta": "Distancia."
-        },
-        {
-          "ejercicio": "Di una constelación.",
-          "respuesta": "Orión."
-        }
-      ],
-      "idea": "El Sol es una estrella entre miles de millones, y todas viven en grandes ciudades llamadas galaxias.",
-      "pizarron": "**Qué es:** una estrella es una esfera de gas que produce luz. Una galaxia es un enorme grupo de estrellas.\n\n**Sol:** estrella mediana.\n\n**Vía Láctea:** nuestra galaxia.\n\n**Andrómeda:** galaxia cercana.\n\n**Año luz:** distancia que recorre la luz en un año.\n\n**Constelaciones:** dibujos imaginarios entre estrellas.",
-      "truco": "Estrellas forman galaxias.",
-      "practica": {
-        "ejercicio": "¿Cómo se llama nuestra galaxia?",
-        "respuesta": "Vía Láctea."
-      }
-    }
-  },
-  {
-    "nodo_id": "f5-044",
-    "titulo": "Exploración espacial",
-    "slug": "exploracion-espacial-primaria",
-    "palabras": [
-      "exploración espacial",
-      "Luna",
-      "Apolo",
-      "Rodolfo Neri Vela"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Exploradores modernos",
-          "texto": "Antes cruzaban mares, y hoy cruzan el espacio."
-        },
-        {
-          "titulo": "Robots mensajeros",
-          "texto": "Mandan fotos de lugares a donde aún no podemos ir."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Quién fue el primer mexicano en el espacio?",
-          "respuesta": "Rodolfo Neri Vela."
-        },
-        {
-          "ejercicio": "¿Qué fue el *Sputnik*?",
-          "respuesta": "El primer satélite."
-        },
-        {
-          "ejercicio": "¿En qué año se llegó a la Luna?",
-          "respuesta": "En 1969."
-        }
-      ],
-      "idea": "El ser humano salió de su planeta y caminó en la Luna. Hoy envía robots a otros mundos.",
-      "pizarron": "**Qué es:** la exploración espacial es el estudio del espacio con naves y telescopios.\n\n- **1957:** *Sputnik*, primer satélite.\n- **1961:** Yuri Gagarin, primer humano en el espacio.\n- **1969:** *Apolo 11*: Neil Armstrong camina en la Luna.\n- **1985:** Rodolfo Neri Vela, primer astronauta mexicano.\n- Hoy: robots en Marte y telescopio James Webb.",
-      "truco": "Sputnik, Gagarin y Apolo.",
-      "practica": {
-        "ejercicio": "¿Quién caminó primero en la Luna?",
-        "respuesta": "Neil Armstrong."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-026",
-    "titulo": "Sólido, líquido y gas",
-    "slug": "solido-liquido-y-gas-primaria",
-    "palabras": [
-      "estados de la materia",
-      "sólido",
-      "líquido",
-      "gas"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Niños en filas",
-          "texto": "En el sólido están quietos, y en el gas corren por el patio."
-        },
-        {
-          "titulo": "Recreo",
-          "texto": "Con más energía hay más movimiento, como a la hora del recreo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué estado es el aire?",
-          "respuesta": "Gas."
-        },
-        {
-          "ejercicio": "¿Qué estado es una piedra?",
-          "respuesta": "Sólido."
-        },
-        {
-          "ejercicio": "¿Qué estado tiene forma fija?",
-          "respuesta": "Sólido."
-        }
-      ],
-      "idea": "Un hielo, agua y vapor son lo mismo. Cambia cómo se acomodan sus partículas.",
-      "pizarron": "**Qué es:** la materia se encuentra en tres estados comunes: sólido, líquido y gas.\n\n**Sólido:** forma fija. Partículas muy juntas. Ejemplo: piedra.\n\n**Líquido:** toma la forma del recipiente. Ejemplo: agua.\n\n**Gas:** se expande y llena todo. Ejemplo: aire.",
-      "truco": "Forma fija, se adapta o se expande.",
-      "practica": {
-        "ejercicio": "¿Qué estado toma la forma del vaso?",
-        "respuesta": "Líquido."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-026",
-    "titulo": "Cambios de estado",
-    "slug": "cambios-de-estado-primaria",
-    "palabras": [
-      "cambios de estado",
-      "fusión",
-      "evaporación",
-      "condensación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Helado",
-          "texto": "Se derrite con el calor, y si lo enfrías, se vuelve duro."
-        },
-        {
-          "titulo": "Espejo del baño",
-          "texto": "El vapor se vuelve gotas en el espejo frío."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué cambio forma gotas en un vaso frío?",
-          "respuesta": "Condensación."
-        },
-        {
-          "ejercicio": "¿De líquido a gas?",
-          "respuesta": "Evaporación."
-        },
-        {
-          "ejercicio": "¿De líquido a sólido?",
-          "respuesta": "Solidificación."
-        }
-      ],
-      "idea": "Saca un helado al sol y se derrite. El calor cambia el estado de la materia.",
-      "pizarron": "**Qué es:** un cambio de estado ocurre cuando la materia gana o pierde calor.\n\n**Fusión:** sólido a líquido.\n\n**Solidificación:** líquido a sólido.\n\n**Evaporación:** líquido a gas.\n\n**Condensación:** gas a líquido.\n\n**Sublimación:** sólido a gas.\n\n**Ejemplo:** agua en congelador se solidifica.",
-      "truco": "Con calor se aflojan; con frío se aprietan.",
-      "practica": {
-        "ejercicio": "¿Cómo se llama de hielo a agua?",
-        "respuesta": "Fusión."
-      }
-    }
-  },
-  {
-    "nodo_id": "f5-041",
-    "titulo": "Circuito eléctrico sencillo",
-    "slug": "circuito-electrico-sencillo-primaria",
-    "palabras": [
-      "circuito",
-      "pila",
-      "foco",
-      "interruptor"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Pista de carreras",
-          "texto": "Si se rompe un tramo, nadie termina la vuelta."
-        },
-        {
-          "titulo": "Puente levadizo",
-          "texto": "El interruptor abre o cierra el paso, como un puente."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué hace el interruptor?",
-          "respuesta": "Abre o cierra el circuito."
-        },
-        {
-          "ejercicio": "¿Prende el foco en circuito abierto?",
-          "respuesta": "No."
-        },
-        {
-          "ejercicio": "¿Qué conduce la corriente?",
-          "respuesta": "Los cables."
-        }
-      ],
-      "idea": "Un foco prende si la electricidad puede dar una vuelta completa.",
-      "pizarron": "**Qué es:** un circuito eléctrico es un camino cerrado por donde pasa la corriente.\n\n**Partes:**\n\n- **Pila:** da energía.\n- **Cables:** conducen.\n- **Foco:** usa la energía.\n- **Interruptor:** abre o cierra.\n\n**Cerrado:** pasa corriente.\n\n**Abierto:** no pasa.\n\nNunca juegues con enchufes.",
-      "truco": "Círculo cerrado, foco prendido.",
-      "practica": {
-        "ejercicio": "¿Qué parte da energía?",
-        "respuesta": "La pila."
-      }
-    }
-  },
-  {
-    "nodo_id": "f5-041",
-    "titulo": "Fuentes de energía renovables y no renovables",
-    "slug": "fuentes-de-energia-renovables-y-no-renovables-primaria",
-    "palabras": [
-      "energía",
-      "renovable",
-      "solar",
-      "petróleo"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Lata y manantial",
-          "texto": "La lata de agua se acaba; el manantial sigue dando."
-        },
-        {
-          "titulo": "Abanico gigante",
-          "texto": "Los molinos atrapan al viento para dar luz."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di una fuente renovable.",
-          "respuesta": "La solar."
-        },
-        {
-          "ejercicio": "Di una no renovable.",
-          "respuesta": "El petróleo."
-        },
-        {
-          "ejercicio": "¿Qué produce quemar combustibles?",
-          "respuesta": "$\\ce{CO2}$."
-        }
-      ],
-      "idea": "Algunas fuentes de energía se acaban y contaminan. Otras vienen del Sol y del viento.",
-      "pizarron": "**Qué es:** las fuentes de energía son recursos para producir electricidad, calor o movimiento.\n\n**Renovables:** no se agotan.\n\n- Solar, eólica, hidráulica, geotérmica, biomasa.\n\n**No renovables:** se agotan.\n\n- Petróleo, carbón, gas natural, uranio.\n\nQuemar combustibles libera $\\ce{CO2}$ y calienta el planeta.",
-      "truco": "Sol y viento no se acaban.",
-      "practica": {
-        "ejercicio": "¿Es renovable el carbón?",
-        "respuesta": "No."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-018",
-    "titulo": "Plantas: raíz, tallo, hoja y flor",
-    "slug": "plantas-raiz-tallo-hoja-y-flor-primaria",
-    "palabras": [
-      "plantas",
-      "raíz",
-      "tallo",
-      "hoja",
-      "flor"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Popote",
-          "texto": "El tallo lleva el agua hasta arriba, como un popote."
-        },
-        {
-          "titulo": "Paneles solares",
-          "texto": "Las hojas captan luz para fabricar comida."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué guarda las semillas?",
-          "respuesta": "El fruto."
-        },
-        {
-          "ejercicio": "¿Qué necesita una planta?",
-          "respuesta": "Agua, luz, aire y suelo."
-        },
-        {
-          "ejercicio": "¿Qué hace la flor?",
-          "respuesta": "Ayuda a la reproducción."
-        }
-      ],
-      "idea": "Una planta es un equipo: unas partes beben, otras cargan y otras fabrican comida.",
-      "pizarron": "**Qué es:** las plantas tienen partes con funciones.\n\n**Raíz:** sujeta y absorbe agua.\n\n**Tallo:** sostiene y transporta.\n\n**Hojas:** hacen fotosíntesis.\n\n**Flor:** reproducción.\n\n**Fruto:** guarda semillas.\n\nLas plantas necesitan agua, luz, aire y suelo.",
-      "truco": "Raíz bebe, hoja cocina.",
-      "practica": {
-        "ejercicio": "¿Qué parte absorbe agua?",
-        "respuesta": "La raíz."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-018",
-    "titulo": "Vertebrados e invertebrados",
-    "slug": "vertebrados-e-invertebrados-primaria",
-    "palabras": [
-      "vertebrados",
-      "invertebrados",
-      "animales"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Varilla",
-          "texto": "La columna funciona como una varilla que sostiene."
-        },
-        {
-          "titulo": "Mayoría pequeña",
-          "texto": "Son pequeños, pero son casi todos los animales del mundo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di un vertebrado.",
-          "respuesta": "El perro."
-        },
-        {
-          "ejercicio": "Di un invertebrado.",
-          "respuesta": "La mariposa."
-        },
-        {
-          "ejercicio": "Di los cinco grupos de vertebrados.",
-          "respuesta": "Peces, anfibios, reptiles, aves y mamíferos."
-        }
-      ],
-      "idea": "Tócate la espalda: esa columna te hace vertebrado. Una lombriz no la tiene.",
-      "pizarron": "**Qué es:** los animales se dividen según si tienen columna vertebral.\n\n**Vertebrados:** con columna.\n\n- Peces, anfibios, reptiles, aves, mamíferos.\n\n**Invertebrados:** sin columna.\n\n- Insectos, arañas, gusanos, moluscos, medusas.\n\nCasi el 95 % de los animales son invertebrados.",
-      "truco": "Con columna, vertebrado.",
-      "practica": {
-        "ejercicio": "¿Un pulpo es vertebrado?",
-        "respuesta": "No, es invertebrado."
-      }
-    }
-  },
-  {
-    "nodo_id": "f4-018",
-    "titulo": "Herbívoros, carnívoros y omnívoros",
-    "slug": "herbivoros-carnivoros-y-omnivoros-primaria",
-    "palabras": [
-      "herbívoros",
-      "carnívoros",
-      "omnívoros"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Menú",
-          "texto": "Cada animal tiene su propio menú en el restaurante de la naturaleza."
-        },
-        {
-          "titulo": "Herramientas",
-          "texto": "Los dientes son herramientas para cada comida."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tipo es la vaca?",
-          "respuesta": "Herbívoro."
-        },
-        {
-          "ejercicio": "¿Qué tipo es el humano?",
-          "respuesta": "Omnívoro."
-        },
-        {
-          "ejercicio": "¿Qué dientes cortan carne?",
-          "respuesta": "Los colmillos."
-        }
-      ],
-      "idea": "Unos animales solo comen plantas, otros carne y otros un poco de todo.",
-      "pizarron": "**Qué es:** es la clasificación de animales según lo que comen.\n\n**Herbívoros:** plantas. Vaca, conejo.\n\n**Carnívoros:** carne. León, águila.\n\n**Omnívoros:** ambas. Cerdo, oso, humano.\n\nSus dientes dan pistas:\n\n- Muelas planas: mastican plantas.\n- Colmillos: cortan carne.",
-      "truco": "Dientes dicen la dieta.",
-      "practica": {
-        "ejercicio": "¿Qué come un carnívoro?",
-        "respuesta": "Carne."
-      }
-    }
-  }
+{
+"nodo_id": "f6-111",
+"titulo": "Tres poderes de la Unión",
+"slug": "tres-poderes-de-la-union-secundaria",
+"palabras": [
+"Ejecutivo",
+"Legislativo",
+"Judicial",
+"división de poderes"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Partido",
+"texto": "Unos escriben reglas, otros juegan y otros arbitran."
+},
+{
+"titulo": "Tres patas",
+"texto": "Si a la mesa le falta una pata, todo se cae."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién encabeza el Ejecutivo?",
+"respuesta": "La presidenta o presidente."
+},
+{
+"ejercicio": "¿Qué poder juzga?",
+"respuesta": "El Judicial."
+},
+{
+"ejercicio": "¿Para qué se dividen?",
+"respuesta": "Para evitar abusos."
+}
+],
+"idea": "Si una sola persona hiciera las reglas, las aplicara y juzgara, sería injusto. Por eso el poder se reparte.",
+"pizarron": "**Qué es:** el Supremo Poder de la Federación se divide en Ejecutivo, Legislativo y Judicial.\n\n**Ejecutivo:** aplica las leyes. Presidencia.\n\n**Legislativo:** hace las leyes. Congreso de la Unión.\n\n**Judicial:** interpreta las leyes y juzga. Suprema Corte.\n\nSe vigilan entre sí. Esto evita abusos.\n\n**Para tu escuela:** dibuja los tres poderes y qué hace cada uno.",
+"truco": "Hace, aplica y juzga.",
+"practica": {
+"ejercicio": "¿Quién hace las leyes?",
+"respuesta": "El Poder Legislativo."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "Estructura de la Constitución",
+"slug": "estructura-de-la-constitucion-secundaria",
+"palabras": [
+"Constitución",
+"parte dogmática",
+"parte orgánica"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dos libros en uno",
+"texto": "Uno dice lo que tienes y otro dice quién manda."
+},
+{
+"titulo": "Pirámide",
+"texto": "La Constitución está arriba de todas las leyes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué parte trata derechos?",
+"respuesta": "La dogmática."
+},
+{
+"ejercicio": "¿Qué parte trata del gobierno?",
+"respuesta": "La orgánica."
+},
+{
+"ejercicio": "¿Puede una ley ir contra ella?",
+"respuesta": "No."
+}
+],
+"idea": "La Constitución es como un libro con dos partes: tus derechos y cómo se organiza el país.",
+"pizarron": "**Qué es:** la Constitución es la ley suprema de México, con 136 artículos.\n\n**Parte dogmática:** derechos humanos y garantías.\n\n**Parte orgánica:** organización del poder y del gobierno.\n\n**Transitorios:** normas temporales.\n\nNinguna ley puede ir contra ella.\n\n**Para tu escuela:** busca un derecho tuyo en la Constitución.",
+"truco": "136 artículos, dos partes.",
+"practica": {
+"ejercicio": "¿Cuántos artículos tiene?",
+"respuesta": "136."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "Artículos clave de la Constitución",
+"slug": "articulos-clave-de-la-constitucion-secundaria",
+"palabras": [
+"artículos",
+"Constitución",
+"derechos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Llaves",
+"texto": "Cada artículo abre una puerta de derechos."
+},
+{
+"titulo": "Lista de contacto",
+"texto": "Conviene tener los números más importantes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué artículo trata del trabajo?",
+"respuesta": "El 123."
+},
+{
+"ejercicio": "¿Qué artículo reconoce a pueblos indígenas?",
+"respuesta": "El 2."
+},
+{
+"ejercicio": "¿Qué artículo habla de la tierra?",
+"respuesta": "El 27."
+}
+],
+"idea": "Unos pocos artículos concentran derechos que usas todos los días, aunque no lo notes.",
+"pizarron": "**Qué es:** son los artículos de la Constitución que más se usan. La Constitución es la ley más importante de México.\n\n| Artículo | Habla de |\n|---|---|\n| 1 | Derechos humanos |\n| 2 | Pueblos indígenas |\n| 3 | Educación |\n| 4 | Igualdad y salud |\n| 6 y 7 | Libertad de expresión |\n| 27 | Tierra y recursos |\n| 39 | El poder es del pueblo |\n| 40 | República federal |\n| 123 | Trabajo |\n| 130 | Estado e iglesias |\n\n**Ejemplo:** tu derecho a ir a la escuela está en el artículo 3.\n\n**Para tu escuela:** escribe qué artículo protege a tu mamá o papá en su trabajo.",
+"truco": "3 estudia, 27 tierra, 123 trabajo.",
+"practica": {
+"ejercicio": "¿Qué artículo trata de educación?",
+"respuesta": "El 3."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "Cómo se hace una ley",
+"slug": "como-se-hace-una-ley-secundaria",
+"palabras": [
+"proceso legislativo",
+"iniciativa",
+"Congreso"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Filtros",
+"texto": "Solo llega al final lo que pasa cada revisión."
+},
+{
+"titulo": "Tarea corregida",
+"texto": "Dos maestros la revisan antes de la calificación."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién propone?",
+"respuesta": "Quien presenta la iniciativa."
+},
+{
+"ejercicio": "¿Cuántas Cámaras participan?",
+"respuesta": "Dos."
+},
+{
+"ejercicio": "¿Quién la promulga?",
+"respuesta": "El Ejecutivo."
+}
+],
+"idea": "Una ley empieza con una idea, y debe pasar varios filtros, como un proyecto de escuela.",
+"pizarron": "**Qué es:** el proceso legislativo es el camino para crear una ley.\n\n1. **Iniciativa:** alguien la propone.\n2. **Comisión:** se estudia.\n3. **Debate y votación** en una Cámara.\n4. Pasa a la otra Cámara.\n5. **Promulgación:** la firma el Ejecutivo.\n6. **Publicación** en el Diario Oficial.\n7. **Entra en vigor.**\n\n**Para tu escuela:** propón una regla para tu salón y vótenla.",
+"truco": "Proponer, discutir, aprobar y publicar.",
+"practica": {
+"ejercicio": "¿Dónde se publica?",
+"respuesta": "En el Diario Oficial."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "Federación, estados y municipios",
+"slug": "federacion-estados-y-municipios-secundaria",
+"palabras": [
+"federalismo",
+"municipio",
+"gobierno"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Casa, edificio, colonia",
+"texto": "Cada problema se atiende donde corresponde."
+},
+{
+"titulo": "Equipo por niveles",
+"texto": "Cada nivel del equipo tiene su propio capitán."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién gobierna un estado?",
+"respuesta": "La gubernatura."
+},
+{
+"ejercicio": "¿Quién gobierna un municipio?",
+"respuesta": "La presidencia municipal."
+},
+{
+"ejercicio": "Di quién da agua en tu ciudad.",
+"respuesta": "Normalmente, el municipio."
+}
+],
+"idea": "Tu colonia, tu estado y tu país tienen autoridades distintas para atender problemas distintos.",
+"pizarron": "**Qué es:** México es una república federal con tres órdenes de gobierno.\n\n**Federal:** todo el país. Presidencia, Congreso, Corte.\n\n**Estatal:** gubernatura y congreso local.\n\n**Municipal:** presidencia municipal y cabildo. Da agua, basura y alumbrado.\n\nLa Ciudad de México tiene alcaldías.\n\n**Para tu escuela:** di quién gobierna tu municipio y tu estado.",
+"truco": "País, estado y municipio.",
+"practica": {
+"ejercicio": "¿Quién atiende la basura?",
+"respuesta": "El municipio."
+}
+}
+},
+{
+"nodo_id": "f6-090",
+"titulo": "Derechos humanos: características y generaciones",
+"slug": "derechos-humanos-caracteristicas-y-generaciones-secundaria",
+"palabras": [
+"derechos humanos",
+"universales",
+"generaciones"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Equipaje",
+"texto": "Viajan contigo adonde vayas, como tu propia sombra."
+},
+{
+"titulo": "Sin precio",
+"texto": "No se ganan por buenas notas ni por tener dinero."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di un derecho civil.",
+"respuesta": "El derecho a la vida."
+},
+{
+"ejercicio": "Di un derecho social.",
+"respuesta": "La salud."
+},
+{
+"ejercicio": "¿Qué significa inalienable?",
+"respuesta": "Que no se puede quitar."
+}
+],
+"idea": "Tienes derechos por el solo hecho de ser persona. Nadie te los regala y nadie te los puede quitar.",
+"pizarron": "**Qué es:** los derechos humanos son facultades que protegen la dignidad de toda persona.\n\n**Características:**\n\n- **Universales:** para todos.\n- **Inalienables:** no se quitan.\n- **Indivisibles:** van juntos.\n\n**Generaciones:**\n\n1. Civiles y políticos: vida, voto.\n2. Económicos y sociales: trabajo, salud.\n3. Colectivos: paz y medio ambiente.\n\n**Para tu escuela:** da un ejemplo de cada generación.",
+"truco": "Por ser persona, ya los tienes.",
+"practica": {
+"ejercicio": "¿Qué significa universales?",
+"respuesta": "Que son para todas las personas."
+}
+}
+},
+{
+"nodo_id": "f6-090",
+"titulo": "Garantías y amparo",
+"slug": "garantias-y-amparo-secundaria",
+"palabras": [
+"garantías",
+"amparo",
+"derechos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Escudo",
+"texto": "Te protege cuando una autoridad te pega."
+},
+{
+"titulo": "Árbitro",
+"texto": "Detiene la jugada injusta del más fuerte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa CNDH?",
+"respuesta": "Comisión Nacional de los Derechos Humanos."
+},
+{
+"ejercicio": "¿Quién creó el amparo?",
+"respuesta": "Rejón y Otero."
+},
+{
+"ejercicio": "Di una garantía.",
+"respuesta": "La igualdad."
+}
+],
+"idea": "Si una autoridad viola tus derechos, existe un escudo legal para defenderte.",
+"pizarron": "**Qué es:** las garantías son medios que protegen los derechos. El **amparo** es un juicio para defenderte de actos de autoridad.\n\n**Garantías:** igualdad, libertad, seguridad jurídica y propiedad.\n\n**Amparo:** lo resuelve un juez federal.\n\nLo crearon Manuel Crescencio Rejón y Mariano Otero.\n\n**CNDH:** recibe quejas.\n\n**CNDH** significa Comisión Nacional de los Derechos Humanos.\n\n**Para tu escuela:** explica qué haría un amparo con un ejemplo.",
+"truco": "Amparo: el escudo ante la autoridad.",
+"practica": {
+"ejercicio": "¿Quién resuelve el amparo?",
+"respuesta": "Un juez federal."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "Presidencia y gabinete",
+"slug": "presidencia-y-gabinete-secundaria",
+"palabras": [
+"presidencia",
+"gabinete",
+"secretarías"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Capitán y equipo",
+"texto": "Cada secretaría es un especialista en su tema."
+},
+{
+"titulo": "Director y maestros",
+"texto": "El director dirige, pero cada maestro da su materia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué edad se requiere?",
+"respuesta": "35 años."
+},
+{
+"ejercicio": "Di dos secretarías.",
+"respuesta": "Educación y Salud."
+},
+{
+"ejercicio": "¿Puede reelegirse?",
+"respuesta": "No."
+}
+],
+"idea": "Quien preside no gobierna sola: tiene un equipo de secretarías, una para cada tema.",
+"pizarron": "**Qué es:** la presidencia encabeza el Ejecutivo federal por seis años, sin reelección. El gabinete son las secretarías que ayudan.\n\n**Requisitos:** mexicano por nacimiento y al menos 35 años.\n\n**Ejemplos:** Educación, Salud, Hacienda, Defensa, Relaciones Exteriores.\n\n**Funciones:** aplicar leyes, dirigir relaciones exteriores y mandar las Fuerzas Armadas.\n\n**Para tu escuela:** busca quién encabeza la SEP.",
+"truco": "Seis años, sin reelección.",
+"practica": {
+"ejercicio": "¿Cuánto dura el cargo?",
+"respuesta": "Seis años."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "Congreso de la Unión",
+"slug": "congreso-de-la-union-secundaria",
+"palabras": [
+"Congreso",
+"diputados",
+"senadores"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dos filtros",
+"texto": "Dos Cámaras revisan una misma propuesta."
+},
+{
+"titulo": "Voz de todos",
+"texto": "Cada persona electa lleva la voz de quienes votaron."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántos diputados hay?",
+"respuesta": "500."
+},
+{
+"ejercicio": "¿Cuánto duran los senadores?",
+"respuesta": "Seis años."
+},
+{
+"ejercicio": "¿Quién aprueba el presupuesto?",
+"respuesta": "La Cámara de Diputados."
+}
+],
+"idea": "En México hay dos salones donde se discuten las leyes: la Cámara de Diputados y la de Senadores.",
+"pizarron": "**Qué es:** el Congreso de la Unión es el Poder Legislativo federal, con dos Cámaras.\n\n**Diputados:** 500. Duran 3 años.\n\n**Senadores:** 128. Duran 6 años.\n\nRepresentan al pueblo y a los estados.\n\n**Funciones:** hacer leyes, aprobar presupuesto y vigilar al gobierno.\n\n**Para tu escuela:** compara diputados y senadores.",
+"truco": "500 diputados; 128 senadores.",
+"practica": {
+"ejercicio": "¿Cuántos senadores hay?",
+"respuesta": "128."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "Suprema Corte de Justicia",
+"slug": "suprema-corte-de-justicia-secundaria",
+"palabras": [
+"Suprema Corte",
+"ministros",
+"Poder Judicial"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Árbitro final",
+"texto": "Cuando hay duda sobre las reglas, la Corte decide."
+},
+{
+"titulo": "Último piso",
+"texto": "Es el escalón más alto de los tribunales."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significan las siglas SCJN?",
+"respuesta": "Suprema Corte de Justicia de la Nación."
+},
+{
+"ejercicio": "¿Cómo se llaman sus integrantes?",
+"respuesta": "Ministras y ministros."
+},
+{
+"ejercicio": "¿A qué poder pertenece?",
+"respuesta": "Al Judicial."
+}
+],
+"idea": "Cuando hay dudas sobre si algo respeta la Constitución, la última palabra la tiene la Corte.",
+"pizarron": "**Qué es:** la Suprema Corte de Justicia de la Nación es el tribunal más alto de México.\n\n**Qué hace:** decide si algo respeta la Constitución, y resuelve conflictos entre autoridades.\n\nEs como el árbitro final. Si hay duda con las reglas, ella decide.\n\nLa integran ministras y ministros. Tras la reforma de 2024, se eligen por voto popular.\n\n**Para tu escuela:** explica por qué un país necesita un árbitro final.",
+"truco": "Última palabra sobre la Constitución.",
+"practica": {
+"ejercicio": "¿Qué hace la Corte?",
+"respuesta": "Interpreta la Constitución."
+}
+}
+},
+{
+"nodo_id": "f6-111",
+"titulo": "INE y elecciones",
+"slug": "ine-y-elecciones-secundaria",
+"palabras": [
+"INE",
+"elecciones",
+"voto"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Árbitro electoral",
+"texto": "Cuida que nadie haga trampa en el juego de votar."
+},
+{
+"titulo": "Vecinos en la casilla",
+"texto": "Tus propios vecinos cuentan los votos de tu colonia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué documento da el INE?",
+"respuesta": "La credencial para votar."
+},
+{
+"ejercicio": "Di dos rasgos del voto.",
+"respuesta": "Libre y secreto."
+},
+{
+"ejercicio": "¿Quién atiende las casillas?",
+"respuesta": "Ciudadanos sorteados."
+}
+],
+"idea": "Para que tu voto cuente, alguien debe organizar y cuidar la elección.",
+"pizarron": "**Qué es:** el Instituto Nacional Electoral (INE) organiza las elecciones federales.\n\n**Funciones:** credencial para votar, casillas, conteo y promoción del voto.\n\n**Voto:** universal, libre, secreto y directo.\n\n**Edad:** 18 años.\n\nQuienes atienden las casillas son ciudadanos sorteados.\n\n**Para tu escuela:** organiza una elección en tu salón.",
+"truco": "Libre y secreto.",
+"practica": {
+"ejercicio": "¿A qué edad votas?",
+"respuesta": "A los 18 años."
+}
+}
+},
+{
+"nodo_id": "f6-090",
+"titulo": "ONU y sus organismos",
+"slug": "onu-y-sus-organismos-secundaria",
+"palabras": [
+"ONU",
+"UNICEF",
+"UNESCO",
+"OMS"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Departamentos",
+"texto": "Una empresa enorme con oficinas para cada tema."
+},
+{
+"titulo": "Médicos del mundo",
+"texto": "La OMS atiende problemas de salud mundial."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué hace la UNESCO?",
+"respuesta": "Educación y cultura."
+},
+{
+"ejercicio": "¿Qué hace la OMS?",
+"respuesta": "Salud."
+},
+{
+"ejercicio": "¿Qué organismo ayuda a refugiados?",
+"respuesta": "ACNUR."
+}
+],
+"idea": "La ONU tiene oficinas especializadas: una para niños, otra para salud y otra para educación.",
+"pizarron": "**Qué es:** los organismos de la ONU se especializan en problemas mundiales.\n\n- **UNICEF:** niñez.\n- **UNESCO:** educación y cultura.\n- **OMS:** salud.\n- **FAO:** alimentación.\n- **ACNUR:** refugiados.\n- **Corte Internacional de Justicia:** disputas.\n\n**Para tu escuela:** busca qué hace UNICEF en México.",
+"truco": "UNICEF niños; OMS salud.",
+"practica": {
+"ejercicio": "¿Qué organismo cuida a la niñez?",
+"respuesta": "UNICEF."
+}
+}
+},
+{
+"nodo_id": "f6-090",
+"titulo": "Declaración Universal de los Derechos Humanos",
+"slug": "declaracion-universal-de-los-derechos-humanos-secundaria",
+"palabras": [
+"Declaración Universal",
+"1948",
+"ONU"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Promesa mundial",
+"texto": "Los países prometieron respetar a toda persona."
+},
+{
+"titulo": "Nunca más",
+"texto": "Nunca más: esa promesa nació del dolor de la guerra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién la aprobó?",
+"respuesta": "La ONU."
+},
+{
+"ejercicio": "¿Qué dice el artículo 1?",
+"respuesta": "Todos nacen libres e iguales."
+},
+{
+"ejercicio": "¿Qué día se celebra?",
+"respuesta": "El 10 de diciembre."
+}
+],
+"idea": "Tras la Segunda Guerra Mundial, los países escribieron una lista de derechos para todas las personas.",
+"pizarron": "**Qué es:** es un documento de la ONU, aprobado el 10 de diciembre de 1948, con los derechos de todas las personas.\n\nTras la Segunda Guerra Mundial, los países prometieron que algo así no debía repetirse.\n\nTiene 30 artículos.\n\n**Artículo 1:** todos nacen libres e iguales en dignidad y derechos.\n\nIncluye derecho a la vida, la educación, la libertad y el trabajo.\n\nEl 10 de diciembre es el Día de los Derechos Humanos.\n\n**Para tu escuela:** elige un derecho y di cómo se cumple en tu escuela.",
+"truco": "10 de diciembre de 1948.",
+"practica": {
+"ejercicio": "¿Cuántos artículos tiene?",
+"respuesta": "30."
+}
+}
+},
+{
+"nodo_id": "f4-038",
+"titulo": "Rotación y traslación de la Tierra",
+"slug": "rotacion-y-traslacion-de-la-tierra-primaria",
+"palabras": [
+"rotación",
+"traslación",
+"día",
+"año"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Trompo",
+"texto": "La Tierra gira como un trompo mientras avanza."
+},
+{
+"titulo": "Lámpara",
+"texto": "Solo la cara de la Tierra que mira al Sol tiene luz."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuánto dura la traslación?",
+"respuesta": "Unos 365 días."
+},
+{
+"ejercicio": "¿Qué es un bisiesto?",
+"respuesta": "Un año con 366 días."
+},
+{
+"ejercicio": "¿Cuánto dura la rotación?",
+"respuesta": "Unas 24 horas."
+}
+],
+"idea": "Gira sobre ti mismo y camina alrededor de una lámpara. La Tierra hace ambas cosas.",
+"pizarron": "**Qué es:** la rotación es el giro de la Tierra sobre su eje. La traslación es su viaje alrededor del Sol.\n\n**Rotación:** dura unas 24 horas. Da el día y la noche.\n\n**Traslación:** dura unos 365 días. Da el año.\n\nCada cuatro años hay un año **bisiesto**.\n\n**Para tu escuela:** gira una pelota junto a una lámpara.",
+"truco": "Rotación, día; traslación, año.",
+"practica": {
+"ejercicio": "¿Qué movimiento causa el día y la noche?",
+"respuesta": "La rotación."
+}
+}
+},
+{
+"nodo_id": "f4-038",
+"titulo": "Fases de la Luna",
+"slug": "fases-de-la-luna-primaria",
+"palabras": [
+"fases de la Luna",
+"luna llena",
+"luna nueva"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Pelota con linterna",
+"texto": "Ilumina una pelota y muévela: verás las fases."
+},
+{
+"titulo": "Espejo",
+"texto": "La Luna refleja el Sol, como un espejo en la noche."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué fase no se ve?",
+"respuesta": "La luna nueva."
+},
+{
+"ejercicio": "¿Tiene luz propia?",
+"respuesta": "No."
+},
+{
+"ejercicio": "Observa la Luna una semana y dibújala.",
+"respuesta": "Debe mostrar cómo cambia."
+}
+],
+"idea": "La Luna parece cambiar de forma, pero es igual. Solo vemos distintas partes iluminadas.",
+"pizarron": "**Qué es:** las fases de la Luna son las formas que vemos según su posición con el Sol y la Tierra.\n\n1. **Luna nueva:** no se ve.\n2. **Cuarto creciente.**\n3. **Luna llena:** se ve redonda.\n4. **Cuarto menguante.**\n\nEl ciclo dura cerca de 29 días y medio.\n\nLa Luna no tiene luz propia: refleja la del Sol.\n\n**Para tu escuela:** dibuja la Luna durante una semana.",
+"truco": "Nueva, creciente, llena y menguante.",
+"practica": {
+"ejercicio": "¿Cuánto dura el ciclo?",
+"respuesta": "Cerca de 29 días y medio."
+}
+}
+},
+{
+"nodo_id": "f4-038",
+"titulo": "Eclipses de Sol y de Luna",
+"slug": "eclipses-de-sol-y-de-luna-primaria",
+"palabras": [
+"eclipses",
+"solar",
+"lunar"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tres en línea",
+"texto": "Tres personas alineadas se tapan una a otra la luz."
+},
+{
+"titulo": "Mano y lámpara",
+"texto": "Tu mano tapa la lámpara y hace sombra en la pared."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién queda en medio en un eclipse lunar?",
+"respuesta": "La Tierra."
+},
+{
+"ejercicio": "¿Se puede ver directo el Sol?",
+"respuesta": "No, sin filtros especiales."
+},
+{
+"ejercicio": "¿Qué se forma en un eclipse?",
+"respuesta": "Una sombra."
+}
+],
+"idea": "A veces la sombra de la Luna cae en la Tierra, o la sombra de la Tierra cae en la Luna.",
+"pizarron": "**Qué es:** un eclipse ocurre cuando un astro tapa la luz de otro.\n\n**Eclipse solar:** la Luna se pone entre el Sol y la Tierra.\n\nSol, **Luna**, Tierra.\n\n**Eclipse lunar:** la Tierra se pone entre el Sol y la Luna.\n\nSol, **Tierra**, Luna.\n\nNunca veas un eclipse solar directamente sin filtros especiales: puede dañar tus ojos.\n\n**Para tu escuela:** representa un eclipse con tres pelotas y una lámpara.",
+"truco": "En medio está quien tapa.",
+"practica": {
+"ejercicio": "¿Quién queda en medio en un eclipse solar?",
+"respuesta": "La Luna."
+}
+}
+},
+{
+"nodo_id": "f4-038",
+"titulo": "Estaciones del año",
+"slug": "estaciones-del-ano-primaria",
+"palabras": [
+"estaciones",
+"inclinación",
+"traslación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Trompo ladeado",
+"texto": "Un trompo inclinado da más luz a un lado."
+},
+{
+"titulo": "Linterna de lado",
+"texto": "La luz que llega inclinada calienta menos el suelo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué hay en Argentina en diciembre?",
+"respuesta": "Verano."
+},
+{
+"ejercicio": "¿Cuántas estaciones hay?",
+"respuesta": "Cuatro."
+},
+{
+"ejercicio": "¿Causa la distancia al Sol las estaciones?",
+"respuesta": "No."
+}
+],
+"idea": "En diciembre hace frío en México y calor en Argentina. La culpa la tiene la inclinación de la Tierra.",
+"pizarron": "**Qué es:** las estaciones son cuatro periodos del año causados por la inclinación de la Tierra y su traslación.\n\n**Hemisferio norte:**\n\n- Primavera: marzo.\n- Verano: junio.\n- Otoño: septiembre.\n- Invierno: diciembre.\n\nCuando el norte se inclina al Sol, recibe más luz y es verano.\n\nEn el hemisferio sur es lo opuesto.\n\nNo se debe a la distancia al Sol.\n\n**Para tu escuela:** di en qué estación es tu cumpleaños.",
+"truco": "Inclinación, no distancia.",
+"practica": {
+"ejercicio": "¿Qué estación empieza en diciembre en México?",
+"respuesta": "Invierno."
+}
+}
+},
+{
+"nodo_id": "f5-044",
+"titulo": "Planetas del Sistema Solar",
+"slug": "planetas-del-sistema-solar-primaria",
+"palabras": [
+"planetas",
+"Sistema Solar"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Carrusel",
+"texto": "Cada planeta da vueltas en su propio carril."
+},
+{
+"titulo": "Familia",
+"texto": "El Sol es el centro y cada planeta tiene su propia personalidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué planeta tiene grandes anillos?",
+"respuesta": "Saturno."
+},
+{
+"ejercicio": "¿Qué planeta está más cerca del Sol?",
+"respuesta": "Mercurio."
+},
+{
+"ejercicio": "¿Plutón es planeta?",
+"respuesta": "Es un planeta enano."
+}
+],
+"idea": "Ocho planetas giran alrededor del Sol, como niños alrededor de una fogata.",
+"pizarron": "**Qué es:** el Sistema Solar tiene al Sol y a los cuerpos que giran a su alrededor.\n\n**Rocosos:** Mercurio, Venus, Tierra, Marte.\n\n**Gigantes:** Júpiter, Saturno, Urano, Neptuno.\n\n**Datos:**\n\n- Júpiter: el más grande.\n- Saturno: anillos.\n- Marte: rojo.\n- Plutón: es un planeta enano.\n\n**Para tu escuela:** dibuja los planetas en orden.",
+"truco": "Mi Vieja Tía Marta Jamás Supo Usar Números.",
+"practica": {
+"ejercicio": "¿Cuál es el planeta más grande?",
+"respuesta": "Júpiter."
+}
+}
+},
+{
+"nodo_id": "f5-044",
+"titulo": "Estrellas y galaxias",
+"slug": "estrellas-y-galaxias-primaria",
+"palabras": [
+"estrellas",
+"galaxias",
+"Vía Láctea"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Ciudad de estrellas",
+"texto": "Cada estrella es una casa de una enorme ciudad."
+},
+{
+"titulo": "Luz antigua",
+"texto": "Ves las estrellas como eran hace muchos años."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es el Sol?",
+"respuesta": "Una estrella."
+},
+{
+"ejercicio": "¿Qué mide un año luz?",
+"respuesta": "Distancia."
+},
+{
+"ejercicio": "Di una constelación.",
+"respuesta": "Orión."
+}
+],
+"idea": "El Sol es una estrella entre miles de millones, y todas viven en grandes ciudades llamadas galaxias.",
+"pizarron": "**Qué es:** una estrella es una esfera de gas que produce luz. Una galaxia es un enorme grupo de estrellas.\n\n**Sol:** estrella mediana.\n\n**Vía Láctea:** nuestra galaxia.\n\n**Andrómeda:** galaxia cercana.\n\n**Año luz:** distancia que recorre la luz en un año.\n\n**Constelaciones:** dibujos imaginarios entre estrellas.\n\n**Para tu escuela:** observa de noche y dibuja lo que veas.",
+"truco": "Estrellas forman galaxias.",
+"practica": {
+"ejercicio": "¿Cómo se llama nuestra galaxia?",
+"respuesta": "Vía Láctea."
+}
+}
+},
+{
+"nodo_id": "f5-044",
+"titulo": "Exploración espacial",
+"slug": "exploracion-espacial-primaria",
+"palabras": [
+"exploración espacial",
+"Luna",
+"Apolo",
+"Rodolfo Neri Vela"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Exploradores modernos",
+"texto": "Antes cruzaban mares, y hoy cruzan el espacio."
+},
+{
+"titulo": "Robots mensajeros",
+"texto": "Mandan fotos de lugares a donde aún no podemos ir."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién fue el primer mexicano en el espacio?",
+"respuesta": "Rodolfo Neri Vela."
+},
+{
+"ejercicio": "¿Qué fue el *Sputnik*?",
+"respuesta": "El primer satélite."
+},
+{
+"ejercicio": "¿En qué año se llegó a la Luna?",
+"respuesta": "En 1969."
+}
+],
+"idea": "El ser humano salió de su planeta y caminó en la Luna. Hoy envía robots a otros mundos.",
+"pizarron": "**Qué es:** la exploración espacial es el estudio del espacio con naves y telescopios.\n\n- **1957:** *Sputnik*, primer satélite.\n- **1961:** Yuri Gagarin, primer humano en el espacio.\n- **1969:** *Apolo 11*: Neil Armstrong camina en la Luna.\n- **1985:** Rodolfo Neri Vela, primer astronauta mexicano.\n- Hoy: robots en Marte y telescopio James Webb.\n\n**Para tu escuela:** busca quién fue el primer humano en la Luna.",
+"truco": "Sputnik, Gagarin y Apolo.",
+"practica": {
+"ejercicio": "¿Quién caminó primero en la Luna?",
+"respuesta": "Neil Armstrong."
+}
+}
+},
+{
+"nodo_id": "f4-026",
+"titulo": "Sólido, líquido y gas",
+"slug": "solido-liquido-y-gas-primaria",
+"palabras": [
+"estados de la materia",
+"sólido",
+"líquido",
+"gas"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Niños en filas",
+"texto": "En el sólido están quietos, y en el gas corren por el patio."
+},
+{
+"titulo": "Recreo",
+"texto": "Con más energía hay más movimiento, como a la hora del recreo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué estado es el aire?",
+"respuesta": "Gas."
+},
+{
+"ejercicio": "¿Qué estado es una piedra?",
+"respuesta": "Sólido."
+},
+{
+"ejercicio": "¿Qué estado tiene forma fija?",
+"respuesta": "Sólido."
+}
+],
+"idea": "Un hielo, agua y vapor son lo mismo. Cambia cómo se acomodan sus partículas.",
+"pizarron": "**Qué es:** la materia se encuentra en tres estados comunes: sólido, líquido y gas.\n\n**Sólido:** forma fija. Partículas muy juntas. Ejemplo: piedra.\n\n**Líquido:** toma la forma del recipiente. Ejemplo: agua.\n\n**Gas:** se expande y llena todo. Ejemplo: aire.\n\n**Para tu escuela:** busca un ejemplo de cada uno en tu lunch.",
+"truco": "Forma fija, se adapta o se expande.",
+"practica": {
+"ejercicio": "¿Qué estado toma la forma del vaso?",
+"respuesta": "Líquido."
+}
+}
+},
+{
+"nodo_id": "f4-026",
+"titulo": "Cambios de estado",
+"slug": "cambios-de-estado-primaria",
+"palabras": [
+"cambios de estado",
+"fusión",
+"evaporación",
+"condensación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Helado",
+"texto": "Se derrite con el calor, y si lo enfrías, se vuelve duro."
+},
+{
+"titulo": "Espejo del baño",
+"texto": "El vapor se vuelve gotas en el espejo frío."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué cambio forma gotas en un vaso frío?",
+"respuesta": "Condensación."
+},
+{
+"ejercicio": "¿De líquido a gas?",
+"respuesta": "Evaporación."
+},
+{
+"ejercicio": "¿De líquido a sólido?",
+"respuesta": "Solidificación."
+}
+],
+"idea": "Saca un helado al sol y se derrite. El calor cambia el estado de la materia.",
+"pizarron": "**Qué es:** un cambio de estado ocurre cuando la materia gana o pierde calor.\n\n**Fusión:** sólido a líquido.\n\n**Solidificación:** líquido a sólido.\n\n**Evaporación:** líquido a gas.\n\n**Condensación:** gas a líquido.\n\n**Sublimación:** sólido a gas.\n\n**Ejemplo:** agua en congelador se solidifica.\n\n**Para tu escuela:** observa cómo se derrite un hielo.",
+"truco": "Con calor se aflojan; con frío se aprietan.",
+"practica": {
+"ejercicio": "¿Cómo se llama de hielo a agua?",
+"respuesta": "Fusión."
+}
+}
+},
+{
+"nodo_id": "f5-041",
+"titulo": "Circuito eléctrico sencillo",
+"slug": "circuito-electrico-sencillo-primaria",
+"palabras": [
+"circuito",
+"pila",
+"foco",
+"interruptor"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Pista de carreras",
+"texto": "Si se rompe un tramo, nadie termina la vuelta."
+},
+{
+"titulo": "Puente levadizo",
+"texto": "El interruptor abre o cierra el paso, como un puente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué hace el interruptor?",
+"respuesta": "Abre o cierra el circuito."
+},
+{
+"ejercicio": "¿Prende el foco en circuito abierto?",
+"respuesta": "No."
+},
+{
+"ejercicio": "¿Qué conduce la corriente?",
+"respuesta": "Los cables."
+}
+],
+"idea": "Un foco prende si la electricidad puede dar una vuelta completa.",
+"pizarron": "**Qué es:** un circuito eléctrico es un camino cerrado por donde pasa la corriente.\n\n**Partes:**\n\n- **Pila:** da energía.\n- **Cables:** conducen.\n- **Foco:** usa la energía.\n- **Interruptor:** abre o cierra.\n\n**Cerrado:** pasa corriente.\n\n**Abierto:** no pasa.\n\nNunca juegues con enchufes.\n\n**Para tu escuela:** dibuja un circuito con pila y foco.",
+"truco": "Círculo cerrado, foco prendido.",
+"practica": {
+"ejercicio": "¿Qué parte da energía?",
+"respuesta": "La pila."
+}
+}
+},
+{
+"nodo_id": "f5-041",
+"titulo": "Fuentes de energía renovables y no renovables",
+"slug": "fuentes-de-energia-renovables-y-no-renovables-primaria",
+"palabras": [
+"energía",
+"renovable",
+"solar",
+"petróleo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Lata y manantial",
+"texto": "La lata de agua se acaba; el manantial sigue dando."
+},
+{
+"titulo": "Abanico gigante",
+"texto": "Los molinos atrapan al viento para dar luz."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di una fuente renovable.",
+"respuesta": "La solar."
+},
+{
+"ejercicio": "Di una no renovable.",
+"respuesta": "El petróleo."
+},
+{
+"ejercicio": "¿Qué produce quemar combustibles?",
+"respuesta": "$\\ce{CO2}$."
+}
+],
+"idea": "Algunas fuentes de energía se acaban y contaminan. Otras vienen del Sol y del viento.",
+"pizarron": "**Qué es:** las fuentes de energía son recursos para producir electricidad, calor o movimiento.\n\n**Imagínalo:** una es un pozo que se rellena. Otra es una cubeta que se acaba.\n\n**Renovables:** no se agotan. Sol, viento, agua y calor de la Tierra.\n\n**No renovables:** se agotan. Petróleo, carbón y gas.\n\nQuemar combustibles libera dióxido de carbono y calienta el planeta.\n\n**Para tu escuela:** busca en casa qué aparatos usan energía del sol.",
+"truco": "Sol y viento no se acaban.",
+"practica": {
+"ejercicio": "¿Es renovable el carbón?",
+"respuesta": "No."
+}
+}
+},
+{
+"nodo_id": "f4-018",
+"titulo": "Plantas: raíz, tallo, hoja y flor",
+"slug": "plantas-raiz-tallo-hoja-y-flor-primaria",
+"palabras": [
+"plantas",
+"raíz",
+"tallo",
+"hoja",
+"flor"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Popote",
+"texto": "El tallo lleva el agua hasta arriba, como un popote."
+},
+{
+"titulo": "Paneles solares",
+"texto": "Las hojas captan luz para fabricar comida."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué guarda las semillas?",
+"respuesta": "El fruto."
+},
+{
+"ejercicio": "¿Qué necesita una planta?",
+"respuesta": "Agua, luz, aire y suelo."
+},
+{
+"ejercicio": "¿Qué hace la flor?",
+"respuesta": "Ayuda a la reproducción."
+}
+],
+"idea": "Una planta es un equipo: unas partes beben, otras cargan y otras fabrican comida.",
+"pizarron": "**Qué es:** las plantas tienen partes con funciones.\n\n**Raíz:** sujeta y absorbe agua.\n\n**Tallo:** sostiene y transporta.\n\n**Hojas:** hacen fotosíntesis.\n\n**Flor:** reproducción.\n\n**Fruto:** guarda semillas.\n\nLas plantas necesitan agua, luz, aire y suelo.\n\n**Para tu escuela:** dibuja una planta y nombra sus partes.",
+"truco": "Raíz bebe, hoja cocina.",
+"practica": {
+"ejercicio": "¿Qué parte absorbe agua?",
+"respuesta": "La raíz."
+}
+}
+},
+{
+"nodo_id": "f4-018",
+"titulo": "Vertebrados e invertebrados",
+"slug": "vertebrados-e-invertebrados-primaria",
+"palabras": [
+"vertebrados",
+"invertebrados",
+"animales"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Varilla",
+"texto": "La columna funciona como una varilla que sostiene."
+},
+{
+"titulo": "Mayoría pequeña",
+"texto": "Son pequeños, pero son casi todos los animales del mundo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di un vertebrado.",
+"respuesta": "El perro."
+},
+{
+"ejercicio": "Di un invertebrado.",
+"respuesta": "La mariposa."
+},
+{
+"ejercicio": "Di los cinco grupos de vertebrados.",
+"respuesta": "Peces, anfibios, reptiles, aves y mamíferos."
+}
+],
+"idea": "Tócate la espalda: esa columna te hace vertebrado. Una lombriz no la tiene.",
+"pizarron": "**Qué es:** los animales se dividen según si tienen columna vertebral.\n\n**Vertebrados:** con columna.\n\n- Peces, anfibios, reptiles, aves, mamíferos.\n\n**Invertebrados:** sin columna.\n\n- Insectos, arañas, gusanos, moluscos, medusas.\n\nCasi el 95 % de los animales son invertebrados.\n\n**Para tu escuela:** clasifica cinco animales de tu región.",
+"truco": "Con columna, vertebrado.",
+"practica": {
+"ejercicio": "¿Un pulpo es vertebrado?",
+"respuesta": "No, es invertebrado."
+}
+}
+},
+{
+"nodo_id": "f4-018",
+"titulo": "Herbívoros, carnívoros y omnívoros",
+"slug": "herbivoros-carnivoros-y-omnivoros-primaria",
+"palabras": [
+"herbívoros",
+"carnívoros",
+"omnívoros"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Menú",
+"texto": "Cada animal tiene su propio menú en el restaurante de la naturaleza."
+},
+{
+"titulo": "Herramientas",
+"texto": "Los dientes son herramientas para cada comida."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo es la vaca?",
+"respuesta": "Herbívoro."
+},
+{
+"ejercicio": "¿Qué tipo es el humano?",
+"respuesta": "Omnívoro."
+},
+{
+"ejercicio": "¿Qué dientes cortan carne?",
+"respuesta": "Los colmillos."
+}
+],
+"idea": "Unos animales solo comen plantas, otros carne y otros un poco de todo.",
+"pizarron": "**Qué es:** es la clasificación de animales según lo que comen.\n\n**Herbívoros:** plantas. Vaca, conejo.\n\n**Carnívoros:** carne. León, águila.\n\n**Omnívoros:** ambas. Cerdo, oso, humano.\n\nSus dientes dan pistas:\n\n- Muelas planas: mastican plantas.\n- Colmillos: cortan carne.\n\n**Para tu escuela:** clasifica los animales de una granja.",
+"truco": "Dientes dicen la dieta.",
+"practica": {
+"ejercicio": "¿Qué come un carnívoro?",
+"respuesta": "Carne."
+}
+}
+}
 ]

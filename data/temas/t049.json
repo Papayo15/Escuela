@@ -1,455 +1,455 @@
 [
-  {
-    "nodo_id": "f4-056",
-    "titulo": "Estilos de vida activos y saludables (primaria)",
-    "slug": "estilos-vida-activos-saludables-primaria",
-    "palabras": [
-      "vida sana",
-      "ejercicio",
-      "actividad física",
-      "salud",
-      "hábitos"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como una bicicleta: si la usas, la cuidas y le pones aire, funciona muy bien; si la dejas guardada mucho tiempo, se oxida y cuesta moverla.",
-      "pizarron": "**Qué es:** es vivir con hábitos que cuidan tu cuerpo.\n\nJuega, come variado, toma agua y duerme bien.\n\nNo necesitas gimnasio.\n\n**Para tu escuela:** anota cuánto te mueves hoy.",
-      "truco": "Muévete, come natural, duerme bien y toma agua.",
-      "practica": {
-        "ejercicio": "Escribe tres actividades activas que puedas hacer entre semana y una que harías en familia el fin de semana.",
-        "respuesta": "Respuesta libre. Ejemplo: caminar a la escuela, jugar futbol en el recreo, saltar la cuerda; en familia, pasear en bicicleta en el parque."
-      },
-      "analogias": [
-        {
-          "titulo": "El celular",
-          "texto": "Para que un celular dure, lo cargas y no lo dejas apagado mucho tiempo. Tu cuerpo se carga con comida, sueño y movimiento."
-        },
-        {
-          "titulo": "La planta",
-          "texto": "Una planta necesita agua, luz y espacio para crecer. Tú necesitas agua, aire libre y juego para crecer fuerte."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Si un niño juega 20 minutos en la mañana y 40 en la tarde, ¿cumple los 60 minutos diarios?",
-          "respuesta": "Sí, 20 + 40 = 60 minutos."
-        },
-        {
-          "ejercicio": "Menciona dos beneficios de dormir bien.",
-          "respuesta": "Más energía y mejor atención en clase; también ayuda a crecer y a tener mejor ánimo."
-        },
-        {
-          "ejercicio": "Clasifica: caminar, ver televisión cuatro horas, bailar. ¿Cuáles son activas?",
-          "respuesta": "Caminar y bailar son activas; ver televisión cuatro horas es sedentaria."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-063",
-    "titulo": "Interacción motriz en juegos (primaria)",
-    "slug": "interaccion-motriz-primaria",
-    "palabras": [
-      "juego",
-      "equipo",
-      "cooperación",
-      "movimiento",
-      "reglas"
-    ],
-    "contenido": {
-      "idea": "Cuando juegas a pasar una pelota con tus amigos, cada quien se mueve y se pone de acuerdo sin hablar mucho. Eso es una orquesta donde el instrumento es el cuerpo.",
-      "pizarron": "**Qué es:** es moverte y jugar con otras personas.\n\n**Cooperar:** todos juntos.\n\n**Oponerse:** uno contra otro.\n\nLas reglas hacen justo el juego.\n\n**Para tu escuela:** elige un juego y di si es de cooperar u oponerse.",
-      "truco": "Mira, escucha, coopera y respeta las reglas.",
-      "practica": {
-        "ejercicio": "Clasifica este juego: dos equipos de cuatro niños intentan llevar un balón a la portería contraria. ¿Qué tipo de interacción es?",
-        "respuesta": "Cooperación-oposición: cooperan con su equipo y se oponen al contrario."
-      },
-      "analogias": [
-        {
-          "titulo": "El rompecabezas",
-          "texto": "Cada persona del equipo es una pieza. Solo cuando todas encajan y se mueven juntas se arma la jugada."
-        },
-        {
-          "titulo": "El tráfico",
-          "texto": "Al caminar entre muchos compañeros en el patio, cuidas no chocar. Así también en el juego: observas y te ajustas a los demás."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "En una carrera de relevos, ¿hay cooperación, oposición o ambas?",
-          "respuesta": "Ambas: cooperas con tu equipo al pasar el testigo y te opones a los otros equipos."
-        },
-        {
-          "ejercicio": "Da dos conductas que muestren respeto en un juego.",
-          "respuesta": "Seguir las reglas, no empujar y felicitar al otro equipo, entre otras."
-        },
-        {
-          "ejercicio": "Si un compañero se equivoca en la jugada, ¿qué puedes decirle?",
-          "respuesta": "Algo amable como: tranquilo, la próxima lo logramos, sin burlarte ni gritarle."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-067",
-    "titulo": "Hábitos saludables para el bienestar de los seres vivos (primaria)",
-    "slug": "habitos-saludables-seres-vivos-primaria",
-    "palabras": [
-      "bienestar",
-      "cuidado",
-      "plantas",
-      "animales",
-      "personas",
-      "hábitos"
-    ],
-    "contenido": {
-      "idea": "Una mascota, una planta y tú necesitan cuidados diarios: agua, alimento, limpieza y cariño. Si faltan, se enferman o se ponen tristes.",
-      "pizarron": "**Qué es:** un hábito es algo que repites. Si es bueno, cuida tu salud, y también ayuda a otros seres vivos.\n\nLavarse las manos te protege. No tirar basura cuida a los animales.\n\n**Para recordar:**\n- **¿Qué pasa si una planta recibe agua en exceso?** Sus raíces se pudren; necesita agua en cantidad adecuada, no demasiada.\n\n**Para tu escuela:** elige un hábito nuevo para cuidar a un ser vivo.",
-      "truco": "Agua, alimento, limpieza y cariño cada día.",
-      "practica": {
-        "ejercicio": "Escribe tres cuidados que necesita una planta y tres que necesita una mascota.",
-        "respuesta": "Planta: luz, agua, tierra sana. Mascota: alimento, agua limpia, lugar seguro y cariño (u otros razonables)."
-      },
-      "analogias": [
-        {
-          "titulo": "El jardín",
-          "texto": "Un jardín florece cuando todos lo riegan. Un hábito es regar un poco cada día, no mucho un solo día."
-        },
-        {
-          "titulo": "El cuaderno",
-          "texto": "Escribir con letra clara requiere práctica diaria. Los hábitos de salud también se mejoran repitiéndolos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué pasa si una planta recibe agua en exceso?",
-          "respuesta": "Sus raíces se pudren; necesita agua en cantidad adecuada, no demasiada."
-        },
-        {
-          "ejercicio": "Menciona un hábito que cuide a las personas y otro que cuide a los animales.",
-          "respuesta": "Personas: lavarse las manos. Animales: darles agua limpia (otras respuestas válidas)."
-        },
-        {
-          "ejercicio": "¿Por qué no tirar basura en el río ayuda a todos los seres vivos?",
-          "respuesta": "Porque mantiene limpia el agua que usan personas, animales y plantas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-071",
-    "titulo": "Higiene para una vida saludable (primaria)",
-    "slug": "higiene-vida-saludable-primaria",
-    "palabras": [
-      "aseo",
-      "lavado de manos",
-      "limpieza",
-      "dientes",
-      "salud"
-    ],
-    "contenido": {
-      "idea": "Los gérmenes son tan pequeños que no los ves, como polvo invisible. El agua y el jabón los sacan de tu piel igual que el jabón quita lo pegajoso de tus manos.",
-      "pizarron": "**Qué es:** la higiene es mantener limpio tu cuerpo para evitar enfermedades.\n\nLávate las manos 20 segundos. Báñate. Cepilla tus dientes.\n\n**Para recordar:**\n- **¿Cuántas veces al día es recomendable cepillarte los dientes?** Después de cada comida, al menos tres veces al día, incluyendo antes de dormir.\n\n**Para tu escuela:** haz un cartel con los pasos para lavarte las manos.",
-      "truco": "Manos, dientes, cuerpo y entorno: siempre limpios.",
-      "practica": {
-        "ejercicio": "Ordena los pasos para lavarte las manos: secar, mojar, enjuagar, enjabonar y tallar 20 segundos.",
-        "respuesta": "Mojar, enjabonar, tallar 20 segundos, enjuagar, secar."
-      },
-      "analogias": [
-        {
-          "titulo": "El escudo",
-          "texto": "Cada hábito de limpieza es un escudo que impide que los gérmenes entren a tu cuerpo."
-        },
-        {
-          "titulo": "La casa ordenada",
-          "texto": "Si no barres, se junta polvo. Si no te aseas, se juntan gérmenes en tu piel y dientes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona tres momentos para lavarte las manos.",
-          "respuesta": "Antes de comer, después de ir al baño y después de jugar con tierra o toser."
-        },
-        {
-          "ejercicio": "¿Cuántas veces al día es recomendable cepillarte los dientes?",
-          "respuesta": "Después de cada comida, al menos tres veces al día, incluyendo antes de dormir."
-        },
-        {
-          "ejercicio": "¿Por qué lavamos las frutas antes de comerlas?",
-          "respuesta": "Para quitar tierra y gérmenes que pueden enfermarnos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-074",
-    "titulo": "Situaciones de riesgo social en la comunidad (primaria)",
-    "slug": "situaciones-riesgo-social-comunidad-primaria",
-    "palabras": [
-      "peligros",
-      "prevención",
-      "seguridad",
-      "comunidad",
-      "protección"
-    ],
-    "contenido": {
-      "idea": "Antes de cruzar la calle miras a ambos lados. Reconocer un peligro a tiempo te ayuda a cuidarte, igual que mirar antes de cruzar.",
-      "pizarron": "**Qué es:** una situación de riesgo es algo que puede dañarte.\n\nCalles oscuras, desconocidos o peleas.\n\n**Qué hacer:** no vayas solo, avisa y pide ayuda.\n\n**Para tu escuela:** dibuja lugares seguros cerca de tu casa.",
-      "truco": "Identifica, aléjate y avisa a un adulto de confianza.",
-      "practica": {
-        "ejercicio": "Un desconocido te ofrece dulces para que te subas a su auto. ¿Qué haces?",
-        "respuesta": "No aceptar, alejarte rápido hacia un lugar con personas y avisar de inmediato a un adulto de confianza."
-      },
-      "analogias": [
-        {
-          "titulo": "El semáforo",
-          "texto": "El rojo avisa un peligro. Identificar riesgos es como ver el semáforo antes de decidir si avanzas."
-        },
-        {
-          "titulo": "El mapa del tesoro",
-          "texto": "Dibujar un mapa con lugares seguros y peligrosos de tu colonia te ayuda a saber por dónde caminar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos riesgos que puedan existir en tu comunidad.",
-          "respuesta": "Por ejemplo: calles sin luz y basura acumulada (otras respuestas válidas)."
-        },
-        {
-          "ejercicio": "¿A quién puedes pedir ayuda si te sientes en peligro?",
-          "respuesta": "A un familiar, maestro, vecino de confianza o a la policía llamando al 911."
-        },
-        {
-          "ejercicio": "Propón una acción de tu comunidad para prevenir un riesgo.",
-          "respuesta": "Por ejemplo: organizar una jornada de limpieza o reportar una lámpara descompuesta."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-076",
-    "titulo": "Los afectos y su influencia en el bienestar (primaria)",
-    "slug": "afectos-bienestar-primaria",
-    "palabras": [
-      "emociones",
-      "cariño",
-      "amistad",
-      "sentimientos",
-      "bienestar emocional"
-    ],
-    "contenido": {
-      "idea": "Un abrazo de alguien que te quiere es como una cobija en un día frío: te hace sentir protegido y tranquilo.",
-      "pizarron": "**Qué es:** los afectos son sentimientos como el cariño, la amistad y la confianza.\n\nSentirte querido te da seguridad y te ayuda a aprender.\n\n**Cómo mostrarlos:** palabras amables, ayuda y dar las gracias.\n\n**Cómo cuidarlos:** pide perdón y no te burles.\n\nEnojarse es normal. Lo importante es no lastimar.\n\n**Para tu escuela:** escribe una nota de agradecimiento a alguien.",
-      "truco": "Escucha, agradece y expresa con respeto.",
-      "practica": {
-        "ejercicio": "Escribe tres formas de demostrar cariño a un amigo que está triste.",
-        "respuesta": "Escucharlo, acompañarlo y decirle palabras amables; también ofrecerle ayuda. Respuestas libres válidas."
-      },
-      "analogias": [
-        {
-          "titulo": "La planta y el sol",
-          "texto": "Las plantas crecen con sol. Las personas crecen mejor con cariño y atención."
-        },
-        {
-          "titulo": "El banco de abrazos",
-          "texto": "Cada gesto amable es como un ahorro: cuando lo necesitas, hay afecto guardado que te sostiene."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cómo puede ayudarte tu bienestar que alguien te escuche?",
-          "respuesta": "Te sientes comprendido, disminuye la tristeza o el enojo y ganas confianza."
-        },
-        {
-          "ejercicio": "Menciona dos palabras o gestos que muestren respeto a un compañero.",
-          "respuesta": "Por favor, gracias, saludar o esperar su turno, entre otros."
-        },
-        {
-          "ejercicio": "Si lastimas a un amigo con un comentario, ¿qué haces para reparar la relación?",
-          "respuesta": "Reconocer el error, pedir una disculpa sincera y procurar no repetirlo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-004",
-    "titulo": "Las familias: pertenencia, autonomía y convivencia (primaria)",
-    "slug": "familias-pertenencia-autonomia-primaria",
-    "palabras": [
-      "familia",
-      "autonomía",
-      "sentido de pertenencia",
-      "convivencia",
-      "responsabilidades"
-    ],
-    "contenido": {
-      "idea": "Tu familia es como un equipo: todos tienen un lugar y una tarea, y juntos hacen que la casa funcione y que cada uno se sienta parte de algo.",
-      "pizarron": "**Qué es:** la autonomía es hacer cosas por ti mismo. Tu familia te da pertenencia y apoyo.\n\nAl crecer, tienes más tareas y decisiones.\n\n**Para recordar:**\n- **Sentido de pertenencia:** Sentirte aceptado y parte importante de tu familia o grupo.\n\n**Para tu escuela:** escribe tres cosas que ya haces solo.",
-      "truco": "Pertenezco, decido con responsabilidad y convivo con respeto.",
-      "practica": {
-        "ejercicio": "Escribe dos tareas que puedes hacer solo en casa y un acuerdo que ayude a la convivencia familiar.",
-        "respuesta": "Por ejemplo: tender tu cama y preparar tu mochila; acuerdo: todos recogen su plato. Respuestas libres válidas."
-      },
-      "analogias": [
-        {
-          "titulo": "El árbol",
-          "texto": "La familia es la raíz que te sostiene; la autonomía son las ramas que crecen solas hacia donde tú decides."
-        },
-        {
-          "titulo": "El equipo de futbol",
-          "texto": "Cada jugador tiene una función y reglas. Si todos cumplen, el equipo gana y todos se sienten parte."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa sentido de pertenencia?",
-          "respuesta": "Sentirte aceptado y parte importante de tu familia o grupo."
-        },
-        {
-          "ejercicio": "Da un ejemplo de autonomía adecuado para un niño de 11 años.",
-          "respuesta": "Organizar su tiempo para hacer la tarea o preparar un desayuno sencillo."
-        },
-        {
-          "ejercicio": "Hay un desacuerdo por usar la tele. ¿Cómo lo resuelves con respeto?",
-          "respuesta": "Dialogando, escuchando a todos y poniendo turnos acordados."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-008",
-    "titulo": "Alternativas ante conflictos en la comunidad (primaria)",
-    "slug": "alternativas-conflictos-comunidad-primaria",
-    "palabras": [
-      "conflicto",
-      "diálogo",
-      "mediación",
-      "acuerdos",
-      "paz",
-      "resolver problemas"
-    ],
-    "contenido": {
-      "idea": "Si dos niños quieren el mismo columpio y gritan, nadie se columpia. Si se turnan, los dos ganan. Resolver bien un conflicto es encontrar una forma en que ambos ganen.",
-      "pizarron": "**Qué es:** un conflicto es un desacuerdo. Es normal, y se resuelve sin violencia.\n\n**Pasos:**\n\n1. Respira.\n2. Escucha al otro.\n3. Di lo que sientes sin ofender.\n4. Busquen opciones.\n5. Lleguen a un acuerdo.\n\nSi no pueden, pidan ayuda a alguien neutral.\n\n**Para recordar:**\n- **¿Quién puede actuar como mediador en un conflicto escolar?** Un maestro, director u otra persona neutral que ayude a dialogar.\n- **¿Por qué gritar no resuelve un conflicto?** Porque impide escuchar, aumenta el enojo y no genera acuerdos.\n\n**Para tu escuela:** dos vecinos discuten por la música. Propón un acuerdo.",
-      "truco": "Calma, escucha, propón y acuerda.",
-      "practica": {
-        "ejercicio": "Dos vecinos discuten porque uno pone música alta. Propón una solución con acuerdo.",
-        "respuesta": "Dialogar y acordar un horario para la música, con un volumen que no moleste; si no pueden, acudir a un mediador del comité vecinal."
-      },
-      "analogias": [
-        {
-          "titulo": "El nudo",
-          "texto": "Un nudo se desata con paciencia y sin jalar fuerte. Los conflictos se resuelven con calma y escuchando."
-        },
-        {
-          "titulo": "El puente",
-          "texto": "El diálogo es un puente entre dos orillas distintas: permite encontrarse a la mitad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Ordena: proponer opciones, calmarse, escuchar, llegar a un acuerdo.",
-          "respuesta": "Calmarse, escuchar, proponer opciones, llegar a un acuerdo."
-        },
-        {
-          "ejercicio": "¿Quién puede actuar como mediador en un conflicto escolar?",
-          "respuesta": "Un maestro, director u otra persona neutral que ayude a dialogar."
-        },
-        {
-          "ejercicio": "¿Por qué gritar no resuelve un conflicto?",
-          "respuesta": "Porque impide escuchar, aumenta el enojo y no genera acuerdos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-012",
-    "titulo": "La escuela como ventana hacia el futuro (primaria)",
-    "slug": "escuela-ventana-futuro-primaria",
-    "palabras": [
-      "escuela",
-      "futuro",
-      "proyecto de vida",
-      "metas",
-      "aprendizaje",
-      "oportunidades"
-    ],
-    "contenido": {
-      "idea": "Una ventana te deja ver lo que hay afuera. La escuela te muestra un mundo de posibilidades: oficios, ciencias, artes, para que decidas qué quieres ser.",
-      "pizarron": "**Qué es:** lo que aprendes hoy te abre puertas mañana.\n\nLeer te sirve para todo. Las matemáticas te ayudan a manejar dinero.\n\nLa escuela también te enseña a convivir.\n\n**Para tu escuela:** di qué quieres ser y qué materia te ayudará.",
-      "truco": "Sueña, fija una meta y da pasos pequeños.",
-      "practica": {
-        "ejercicio": "Escribe una meta que tengas para el futuro y dos cosas que puedes hacer este año para acercarte.",
-        "respuesta": "Respuesta libre con criterios: meta clara y dos acciones concretas. Ejemplo: ser veterinario; leer sobre animales y mejorar en ciencias."
-      },
-      "analogias": [
-        {
-          "titulo": "El camino",
-          "texto": "Cada grado es un tramo del camino. Si caminas paso a paso, llegas más lejos de lo que imaginas."
-        },
-        {
-          "titulo": "La caja de herramientas",
-          "texto": "La escuela llena tu caja con herramientas, como leer y calcular, para construir lo que quieras."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos habilidades que desarrollas en la escuela y para qué sirven.",
-          "respuesta": "Leer, para comprender información; trabajar en equipo, para colaborar en la vida (otras válidas)."
-        },
-        {
-          "ejercicio": "¿Qué es un proyecto de vida?",
-          "respuesta": "Un plan de metas y pasos para lograr lo que quieres en tu futuro."
-        },
-        {
-          "ejercicio": "Si tu meta cambia, ¿es un error?",
-          "respuesta": "No; con nuevos intereses y experiencias es normal ajustar tus metas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f5-016",
-    "titulo": "La comunidad como espacio de aprendizaje y bienestar común (primaria)",
-    "slug": "comunidad-aprendizaje-bienestar-primaria",
-    "palabras": [
-      "comunidad",
-      "bien común",
-      "participación",
-      "colaboración",
-      "vecinos"
-    ],
-    "contenido": {
-      "idea": "Una comunidad es como una casa grande compartida: si todos barren su parte, la casa está limpia y todos viven mejor.",
-      "pizarron": "**Qué es:** una comunidad es un grupo que comparte un lugar. También ahí aprendes.\n\nAprendes en mercados, bibliotecas, fiestas y con los abuelos.\n\n**Bienestar común:** lo que ayuda a todos, como un parque limpio.\n\n**Para participar:**\n\n1. Ve qué hace falta.\n2. Platica con vecinos.\n3. Propón algo.\n4. Háganlo juntos.\n\n**Para recordar:**\n- **¿Por qué es importante escuchar a los vecinos antes de proponer una mejora?** Porque así la propuesta atiende necesidades reales y se logra el apoyo de todos.\n\n**Para tu escuela:** organiza una limpieza del patio.",
-      "truco": "Identifica, propón y colabora por el bien de todos.",
-      "practica": {
-        "ejercicio": "Elige una necesidad de tu comunidad y escribe una acción que tú y tus compañeros podrían hacer.",
-        "respuesta": "Respuesta libre con criterios: necesidad real y acción concreta. Ejemplo: basura en el parque; organizar una jornada de limpieza."
-      },
-      "analogias": [
-        {
-          "titulo": "El hormiguero",
-          "texto": "Cada hormiga hace una tarea; juntas construyen un hogar fuerte. Así funciona una comunidad que colabora."
-        },
-        {
-          "titulo": "La olla comunitaria",
-          "texto": "Cuando cada quien lleva un ingrediente, alcanza para todos. El bienestar común se hace con aportaciones de cada persona."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es el bien común? Da un ejemplo.",
-          "respuesta": "Lo que beneficia a todos; por ejemplo, un parque limpio o el servicio de agua."
-        },
-        {
-          "ejercicio": "Menciona dos lugares de tu comunidad donde puedes aprender.",
-          "respuesta": "Biblioteca y mercado, o museo, plaza o taller local."
-        },
-        {
-          "ejercicio": "¿Por qué es importante escuchar a los vecinos antes de proponer una mejora?",
-          "respuesta": "Porque así la propuesta atiende necesidades reales y se logra el apoyo de todos."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f4-056",
+"titulo": "Estilos de vida activos y saludables (primaria)",
+"slug": "estilos-vida-activos-saludables-primaria",
+"palabras": [
+"vida sana",
+"ejercicio",
+"actividad física",
+"salud",
+"hábitos"
+],
+"contenido": {
+"idea": "Tu cuerpo es como una bicicleta: si la usas, la cuidas y le pones aire, funciona muy bien; si la dejas guardada mucho tiempo, se oxida y cuesta moverla.",
+"pizarron": "**Qué es:** es vivir con hábitos que cuidan tu cuerpo.\n\nJuega, come variado, toma agua y duerme bien.\n\nNo necesitas gimnasio.\n\n**Para tu escuela:** anota cuánto te mueves hoy.",
+"truco": "Muévete, come natural, duerme bien y toma agua.",
+"practica": {
+"ejercicio": "Escribe tres actividades activas que puedas hacer entre semana y una que harías en familia el fin de semana.",
+"respuesta": "Respuesta libre. Ejemplo: caminar a la escuela, jugar futbol en el recreo, saltar la cuerda; en familia, pasear en bicicleta en el parque."
+},
+"analogias": [
+{
+"titulo": "El celular",
+"texto": "Para que un celular dure, lo cargas y no lo dejas apagado mucho tiempo. Tu cuerpo se carga con comida, sueño y movimiento."
+},
+{
+"titulo": "La planta",
+"texto": "Una planta necesita agua, luz y espacio para crecer. Tú necesitas agua, aire libre y juego para crecer fuerte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Si un niño juega 20 minutos en la mañana y 40 en la tarde, ¿cumple los 60 minutos diarios?",
+"respuesta": "Sí, 20 + 40 = 60 minutos."
+},
+{
+"ejercicio": "Menciona dos beneficios de dormir bien.",
+"respuesta": "Más energía y mejor atención en clase; también ayuda a crecer y a tener mejor ánimo."
+},
+{
+"ejercicio": "Clasifica: caminar, ver televisión cuatro horas, bailar. ¿Cuáles son activas?",
+"respuesta": "Caminar y bailar son activas; ver televisión cuatro horas es sedentaria."
+}
+]
+}
+},
+{
+"nodo_id": "f4-063",
+"titulo": "Interacción motriz en juegos (primaria)",
+"slug": "interaccion-motriz-primaria",
+"palabras": [
+"juego",
+"equipo",
+"cooperación",
+"movimiento",
+"reglas"
+],
+"contenido": {
+"idea": "Cuando juegas a pasar una pelota con tus amigos, cada quien se mueve y se pone de acuerdo sin hablar mucho. Eso es una orquesta donde el instrumento es el cuerpo.",
+"pizarron": "**Qué es:** es moverte y jugar con otras personas.\n\n**Cooperar:** todos juntos.\n\n**Oponerse:** uno contra otro.\n\nLas reglas hacen justo el juego.\n\n**Para tu escuela:** elige un juego y di si es de cooperar u oponerse.",
+"truco": "Mira, escucha, coopera y respeta las reglas.",
+"practica": {
+"ejercicio": "Clasifica este juego: dos equipos de cuatro niños intentan llevar un balón a la portería contraria. ¿Qué tipo de interacción es?",
+"respuesta": "Cooperación-oposición: cooperan con su equipo y se oponen al contrario."
+},
+"analogias": [
+{
+"titulo": "El rompecabezas",
+"texto": "Cada persona del equipo es una pieza. Solo cuando todas encajan y se mueven juntas se arma la jugada."
+},
+{
+"titulo": "El tráfico",
+"texto": "Al caminar entre muchos compañeros en el patio, cuidas no chocar. Así también en el juego: observas y te ajustas a los demás."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "En una carrera de relevos, ¿hay cooperación, oposición o ambas?",
+"respuesta": "Ambas: cooperas con tu equipo al pasar el testigo y te opones a los otros equipos."
+},
+{
+"ejercicio": "Da dos conductas que muestren respeto en un juego.",
+"respuesta": "Seguir las reglas, no empujar y felicitar al otro equipo, entre otras."
+},
+{
+"ejercicio": "Si un compañero se equivoca en la jugada, ¿qué puedes decirle?",
+"respuesta": "Algo amable como: tranquilo, la próxima lo logramos, sin burlarte ni gritarle."
+}
+]
+}
+},
+{
+"nodo_id": "f4-067",
+"titulo": "Hábitos saludables para el bienestar de los seres vivos (primaria)",
+"slug": "habitos-saludables-seres-vivos-primaria",
+"palabras": [
+"bienestar",
+"cuidado",
+"plantas",
+"animales",
+"personas",
+"hábitos"
+],
+"contenido": {
+"idea": "Una mascota, una planta y tú necesitan cuidados diarios: agua, alimento, limpieza y cariño. Si faltan, se enferman o se ponen tristes.",
+"pizarron": "**Qué es:** un hábito es algo que repites. Si es bueno, cuida tu salud, y también ayuda a otros seres vivos.\n\nLavarse las manos te protege. No tirar basura cuida a los animales.\n\n**Plantas:** con agua de más, sus raíces se pudren.\n\n**Para tu escuela:** elige un hábito nuevo para cuidar a un ser vivo.",
+"truco": "Agua, alimento, limpieza y cariño cada día.",
+"practica": {
+"ejercicio": "Escribe tres cuidados que necesita una planta y tres que necesita una mascota.",
+"respuesta": "Planta: luz, agua, tierra sana. Mascota: alimento, agua limpia, lugar seguro y cariño (u otros razonables)."
+},
+"analogias": [
+{
+"titulo": "El jardín",
+"texto": "Un jardín florece cuando todos lo riegan. Un hábito es regar un poco cada día, no mucho un solo día."
+},
+{
+"titulo": "El cuaderno",
+"texto": "Escribir con letra clara requiere práctica diaria. Los hábitos de salud también se mejoran repitiéndolos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué pasa si una planta recibe agua en exceso?",
+"respuesta": "Sus raíces se pudren; necesita agua en cantidad adecuada, no demasiada."
+},
+{
+"ejercicio": "Menciona un hábito que cuide a las personas y otro que cuide a los animales.",
+"respuesta": "Personas: lavarse las manos. Animales: darles agua limpia (otras respuestas válidas)."
+},
+{
+"ejercicio": "¿Por qué no tirar basura en el río ayuda a todos los seres vivos?",
+"respuesta": "Porque mantiene limpia el agua que usan personas, animales y plantas."
+}
+]
+}
+},
+{
+"nodo_id": "f4-071",
+"titulo": "Higiene para una vida saludable (primaria)",
+"slug": "higiene-vida-saludable-primaria",
+"palabras": [
+"aseo",
+"lavado de manos",
+"limpieza",
+"dientes",
+"salud"
+],
+"contenido": {
+"idea": "Los gérmenes son tan pequeños que no los ves, como polvo invisible. El agua y el jabón los sacan de tu piel igual que el jabón quita lo pegajoso de tus manos.",
+"pizarron": "**Qué es:** la higiene es mantener limpio tu cuerpo para evitar enfermedades.\n\nLávate las manos 20 segundos. Báñate. Cepilla tus dientes.\n\n**Dientes:** cepíllalos después de cada comida, tres veces al día.\n\n**Para tu escuela:** haz un cartel con los pasos para lavarte las manos.",
+"truco": "Manos, dientes, cuerpo y entorno: siempre limpios.",
+"practica": {
+"ejercicio": "Ordena los pasos para lavarte las manos: secar, mojar, enjuagar, enjabonar y tallar 20 segundos.",
+"respuesta": "Mojar, enjabonar, tallar 20 segundos, enjuagar, secar."
+},
+"analogias": [
+{
+"titulo": "El escudo",
+"texto": "Cada hábito de limpieza es un escudo que impide que los gérmenes entren a tu cuerpo."
+},
+{
+"titulo": "La casa ordenada",
+"texto": "Si no barres, se junta polvo. Si no te aseas, se juntan gérmenes en tu piel y dientes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona tres momentos para lavarte las manos.",
+"respuesta": "Antes de comer, después de ir al baño y después de jugar con tierra o toser."
+},
+{
+"ejercicio": "¿Cuántas veces al día es recomendable cepillarte los dientes?",
+"respuesta": "Después de cada comida, al menos tres veces al día, incluyendo antes de dormir."
+},
+{
+"ejercicio": "¿Por qué lavamos las frutas antes de comerlas?",
+"respuesta": "Para quitar tierra y gérmenes que pueden enfermarnos."
+}
+]
+}
+},
+{
+"nodo_id": "f4-074",
+"titulo": "Situaciones de riesgo social en la comunidad (primaria)",
+"slug": "situaciones-riesgo-social-comunidad-primaria",
+"palabras": [
+"peligros",
+"prevención",
+"seguridad",
+"comunidad",
+"protección"
+],
+"contenido": {
+"idea": "Antes de cruzar la calle miras a ambos lados. Reconocer un peligro a tiempo te ayuda a cuidarte, igual que mirar antes de cruzar.",
+"pizarron": "**Qué es:** una situación de riesgo es algo que puede dañarte.\n\nCalles oscuras, desconocidos o peleas.\n\n**Qué hacer:** no vayas solo, avisa y pide ayuda.\n\n**Para tu escuela:** dibuja lugares seguros cerca de tu casa.",
+"truco": "Identifica, aléjate y avisa a un adulto de confianza.",
+"practica": {
+"ejercicio": "Un desconocido te ofrece dulces para que te subas a su auto. ¿Qué haces?",
+"respuesta": "No aceptar, alejarte rápido hacia un lugar con personas y avisar de inmediato a un adulto de confianza."
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "El rojo avisa un peligro. Identificar riesgos es como ver el semáforo antes de decidir si avanzas."
+},
+{
+"titulo": "El mapa del tesoro",
+"texto": "Dibujar un mapa con lugares seguros y peligrosos de tu colonia te ayuda a saber por dónde caminar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos riesgos que puedan existir en tu comunidad.",
+"respuesta": "Por ejemplo: calles sin luz y basura acumulada (otras respuestas válidas)."
+},
+{
+"ejercicio": "¿A quién puedes pedir ayuda si te sientes en peligro?",
+"respuesta": "A un familiar, maestro, vecino de confianza o a la policía llamando al 911."
+},
+{
+"ejercicio": "Propón una acción de tu comunidad para prevenir un riesgo.",
+"respuesta": "Por ejemplo: organizar una jornada de limpieza o reportar una lámpara descompuesta."
+}
+]
+}
+},
+{
+"nodo_id": "f4-076",
+"titulo": "Los afectos y su influencia en el bienestar (primaria)",
+"slug": "afectos-bienestar-primaria",
+"palabras": [
+"emociones",
+"cariño",
+"amistad",
+"sentimientos",
+"bienestar emocional"
+],
+"contenido": {
+"idea": "Un abrazo de alguien que te quiere es como una cobija en un día frío: te hace sentir protegido y tranquilo.",
+"pizarron": "**Qué es:** los afectos son sentimientos como el cariño, la amistad y la confianza.\n\nSentirte querido te da seguridad y te ayuda a aprender.\n\n**Cómo mostrarlos:** palabras amables, ayuda y dar las gracias.\n\n**Cómo cuidarlos:** pide perdón y no te burles.\n\nEnojarse es normal. Lo importante es no lastimar.\n\n**Para tu escuela:** escribe una nota de agradecimiento a alguien.",
+"truco": "Escucha, agradece y expresa con respeto.",
+"practica": {
+"ejercicio": "Escribe tres formas de demostrar cariño a un amigo que está triste.",
+"respuesta": "Escucharlo, acompañarlo y decirle palabras amables; también ofrecerle ayuda. Respuestas libres válidas."
+},
+"analogias": [
+{
+"titulo": "La planta y el sol",
+"texto": "Las plantas crecen con sol. Las personas crecen mejor con cariño y atención."
+},
+{
+"titulo": "El banco de abrazos",
+"texto": "Cada gesto amable es como un ahorro: cuando lo necesitas, hay afecto guardado que te sostiene."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cómo puede ayudarte tu bienestar que alguien te escuche?",
+"respuesta": "Te sientes comprendido, disminuye la tristeza o el enojo y ganas confianza."
+},
+{
+"ejercicio": "Menciona dos palabras o gestos que muestren respeto a un compañero.",
+"respuesta": "Por favor, gracias, saludar o esperar su turno, entre otros."
+},
+{
+"ejercicio": "Si lastimas a un amigo con un comentario, ¿qué haces para reparar la relación?",
+"respuesta": "Reconocer el error, pedir una disculpa sincera y procurar no repetirlo."
+}
+]
+}
+},
+{
+"nodo_id": "f5-004",
+"titulo": "Las familias: pertenencia, autonomía y convivencia (primaria)",
+"slug": "familias-pertenencia-autonomia-primaria",
+"palabras": [
+"familia",
+"autonomía",
+"sentido de pertenencia",
+"convivencia",
+"responsabilidades"
+],
+"contenido": {
+"idea": "Tu familia es como un equipo: todos tienen un lugar y una tarea, y juntos hacen que la casa funcione y que cada uno se sienta parte de algo.",
+"pizarron": "**Qué es:** la autonomía es hacer cosas por ti mismo. Tu familia te da pertenencia y apoyo.\n\nAl crecer, tienes más tareas y decisiones.\n\n**Pertenencia:** sentirte aceptado y parte de tu familia.\n\n**Para tu escuela:** escribe tres cosas que ya haces solo.",
+"truco": "Pertenezco, decido con responsabilidad y convivo con respeto.",
+"practica": {
+"ejercicio": "Escribe dos tareas que puedes hacer solo en casa y un acuerdo que ayude a la convivencia familiar.",
+"respuesta": "Por ejemplo: tender tu cama y preparar tu mochila; acuerdo: todos recogen su plato. Respuestas libres válidas."
+},
+"analogias": [
+{
+"titulo": "El árbol",
+"texto": "La familia es la raíz que te sostiene; la autonomía son las ramas que crecen solas hacia donde tú decides."
+},
+{
+"titulo": "El equipo de futbol",
+"texto": "Cada jugador tiene una función y reglas. Si todos cumplen, el equipo gana y todos se sienten parte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa sentido de pertenencia?",
+"respuesta": "Sentirte aceptado y parte importante de tu familia o grupo."
+},
+{
+"ejercicio": "Da un ejemplo de autonomía adecuado para un niño de 11 años.",
+"respuesta": "Organizar su tiempo para hacer la tarea o preparar un desayuno sencillo."
+},
+{
+"ejercicio": "Hay un desacuerdo por usar la tele. ¿Cómo lo resuelves con respeto?",
+"respuesta": "Dialogando, escuchando a todos y poniendo turnos acordados."
+}
+]
+}
+},
+{
+"nodo_id": "f5-008",
+"titulo": "Alternativas ante conflictos en la comunidad (primaria)",
+"slug": "alternativas-conflictos-comunidad-primaria",
+"palabras": [
+"conflicto",
+"diálogo",
+"mediación",
+"acuerdos",
+"paz",
+"resolver problemas"
+],
+"contenido": {
+"idea": "Si dos niños quieren el mismo columpio y gritan, nadie se columpia. Si se turnan, los dos ganan. Resolver bien un conflicto es encontrar una forma en que ambos ganen.",
+"pizarron": "**Qué es:** un conflicto es un desacuerdo. Es normal, y se resuelve sin violencia.\n\n**Pasos:**\n\n1. Respira.\n2. Escucha al otro.\n3. Di lo que sientes sin ofender.\n4. Busquen opciones.\n5. Lleguen a un acuerdo.\n\nSi no pueden, pidan ayuda a alguien neutral.\n\n**Mediador:** alguien neutral, como un maestro, ayuda a dialogar.\n\n**Gritar:** aumenta el enojo y no deja escuchar.\n\n**Para tu escuela:** dos vecinos discuten por la música. Propón un acuerdo.",
+"truco": "Calma, escucha, propón y acuerda.",
+"practica": {
+"ejercicio": "Dos vecinos discuten porque uno pone música alta. Propón una solución con acuerdo.",
+"respuesta": "Dialogar y acordar un horario para la música, con un volumen que no moleste; si no pueden, acudir a un mediador del comité vecinal."
+},
+"analogias": [
+{
+"titulo": "El nudo",
+"texto": "Un nudo se desata con paciencia y sin jalar fuerte. Los conflictos se resuelven con calma y escuchando."
+},
+{
+"titulo": "El puente",
+"texto": "El diálogo es un puente entre dos orillas distintas: permite encontrarse a la mitad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Ordena: proponer opciones, calmarse, escuchar, llegar a un acuerdo.",
+"respuesta": "Calmarse, escuchar, proponer opciones, llegar a un acuerdo."
+},
+{
+"ejercicio": "¿Quién puede actuar como mediador en un conflicto escolar?",
+"respuesta": "Un maestro, director u otra persona neutral que ayude a dialogar."
+},
+{
+"ejercicio": "¿Por qué gritar no resuelve un conflicto?",
+"respuesta": "Porque impide escuchar, aumenta el enojo y no genera acuerdos."
+}
+]
+}
+},
+{
+"nodo_id": "f5-012",
+"titulo": "La escuela como ventana hacia el futuro (primaria)",
+"slug": "escuela-ventana-futuro-primaria",
+"palabras": [
+"escuela",
+"futuro",
+"proyecto de vida",
+"metas",
+"aprendizaje",
+"oportunidades"
+],
+"contenido": {
+"idea": "Una ventana te deja ver lo que hay afuera. La escuela te muestra un mundo de posibilidades: oficios, ciencias, artes, para que decidas qué quieres ser.",
+"pizarron": "**Qué es:** lo que aprendes hoy te abre puertas mañana.\n\nLeer te sirve para todo. Las matemáticas te ayudan a manejar dinero.\n\nLa escuela también te enseña a convivir.\n\n**Para tu escuela:** di qué quieres ser y qué materia te ayudará.",
+"truco": "Sueña, fija una meta y da pasos pequeños.",
+"practica": {
+"ejercicio": "Escribe una meta que tengas para el futuro y dos cosas que puedes hacer este año para acercarte.",
+"respuesta": "Respuesta libre con criterios: meta clara y dos acciones concretas. Ejemplo: ser veterinario; leer sobre animales y mejorar en ciencias."
+},
+"analogias": [
+{
+"titulo": "El camino",
+"texto": "Cada grado es un tramo del camino. Si caminas paso a paso, llegas más lejos de lo que imaginas."
+},
+{
+"titulo": "La caja de herramientas",
+"texto": "La escuela llena tu caja con herramientas, como leer y calcular, para construir lo que quieras."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos habilidades que desarrollas en la escuela y para qué sirven.",
+"respuesta": "Leer, para comprender información; trabajar en equipo, para colaborar en la vida (otras válidas)."
+},
+{
+"ejercicio": "¿Qué es un proyecto de vida?",
+"respuesta": "Un plan de metas y pasos para lograr lo que quieres en tu futuro."
+},
+{
+"ejercicio": "Si tu meta cambia, ¿es un error?",
+"respuesta": "No; con nuevos intereses y experiencias es normal ajustar tus metas."
+}
+]
+}
+},
+{
+"nodo_id": "f5-016",
+"titulo": "La comunidad como espacio de aprendizaje y bienestar común (primaria)",
+"slug": "comunidad-aprendizaje-bienestar-primaria",
+"palabras": [
+"comunidad",
+"bien común",
+"participación",
+"colaboración",
+"vecinos"
+],
+"contenido": {
+"idea": "Una comunidad es como una casa grande compartida: si todos barren su parte, la casa está limpia y todos viven mejor.",
+"pizarron": "**Qué es:** una comunidad es un grupo que comparte un lugar. También ahí aprendes.\n\nAprendes en mercados, bibliotecas, fiestas y con los abuelos.\n\n**Bienestar común:** lo que ayuda a todos, como un parque limpio.\n\n**Para participar:**\n\n1. Ve qué hace falta.\n2. Platica con vecinos.\n3. Propón algo.\n4. Háganlo juntos.\n\n**Escucha a los vecinos:** así tu propuesta atiende lo que de verdad necesitan.\n\n**Para tu escuela:** organiza una limpieza del patio.",
+"truco": "Identifica, propón y colabora por el bien de todos.",
+"practica": {
+"ejercicio": "Elige una necesidad de tu comunidad y escribe una acción que tú y tus compañeros podrían hacer.",
+"respuesta": "Respuesta libre con criterios: necesidad real y acción concreta. Ejemplo: basura en el parque; organizar una jornada de limpieza."
+},
+"analogias": [
+{
+"titulo": "El hormiguero",
+"texto": "Cada hormiga hace una tarea; juntas construyen un hogar fuerte. Así funciona una comunidad que colabora."
+},
+{
+"titulo": "La olla comunitaria",
+"texto": "Cuando cada quien lleva un ingrediente, alcanza para todos. El bienestar común se hace con aportaciones de cada persona."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es el bien común? Da un ejemplo.",
+"respuesta": "Lo que beneficia a todos; por ejemplo, un parque limpio o el servicio de agua."
+},
+{
+"ejercicio": "Menciona dos lugares de tu comunidad donde puedes aprender.",
+"respuesta": "Biblioteca y mercado, o museo, plaza o taller local."
+},
+{
+"ejercicio": "¿Por qué es importante escuchar a los vecinos antes de proponer una mejora?",
+"respuesta": "Porque así la propuesta atiende necesidades reales y se logra el apoyo de todos."
+}
+]
+}
+}
 ]

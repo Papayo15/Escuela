@@ -1,464 +1,464 @@
 [
-  {
-    "nodo_id": "ems-067",
-    "titulo": "Biomoléculas y su función en los seres vivos",
-    "slug": "biomoleculas-preparatoria",
-    "palabras": [
-      "carbohidratos",
-      "lípidos",
-      "proteínas",
-      "ácidos nucleicos",
-      "compuestos orgánicos"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como una casa: unas biomoléculas son el combustible (leña), otras los ladrillos, otras las herramientas y otra es el plano que dice cómo construir todo.",
-      "pizarron": "**Qué es:** las biomoléculas son carbohidratos, lípidos, proteínas y ácidos nucleicos.\n\nLas biomoléculas son compuestos orgánicos (basados en carbono) de los seres vivos.\n\n1. **Carbohidratos**: azúcares y almidones. Dan energía rápida. Ejemplo: glucosa $\\ce{C6H12O6}$.\n2. **Lípidos**: grasas y aceites. Reserva de energía y membranas celulares.\n3. **Proteínas**: cadenas de aminoácidos. Forman músculos, enzimas y anticuerpos.\n4. **Ácidos nucleicos** (ADN y ARN): guardan y transmiten la información genética.\n\nLas moléculas grandes (polímeros) se forman al unir unidades pequeñas (monómeros): los aminoácidos forman proteínas y los nucleótidos forman ácidos nucleicos.",
-      "truco": "CLPA: Carbohidratos = combustible, Lípidos = reserva, Proteínas = construcción, Ácidos nucleicos = plano.",
-      "practica": {
-        "ejercicio": "¿Qué biomolécula es la enzima amilasa de la saliva?",
-        "respuesta": "Una proteína, porque está formada por aminoácidos y funciona como enzima."
-      },
-      "analogias": [
-        {
-          "titulo": "La cocina",
-          "texto": "Los carbohidratos son el gas que enciende la estufa, los lípidos la despensa guardada, las proteínas los utensilios y el ADN el libro de recetas."
-        },
-        {
-          "titulo": "El lenguaje",
-          "texto": "Los monómeros son letras; los polímeros son palabras largas. Con pocas letras se escriben miles de palabras distintas, igual que con 20 aminoácidos se arman muchas proteínas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona la función principal de los carbohidratos.",
-          "respuesta": "Proporcionar energía de uso rápido a las células."
-        },
-        {
-          "ejercicio": "¿Qué unidades forman a las proteínas?",
-          "respuesta": "Los aminoácidos."
-        },
-        {
-          "ejercicio": "¿Qué biomolécula guarda la información genética?",
-          "respuesta": "Los ácidos nucleicos, principalmente el ADN."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-068",
-    "titulo": "Caída libre, movimiento uniforme y leyes de Newton",
-    "slug": "caida-libre-mru-newton-1-2",
-    "palabras": [
-      "caída libre",
-      "MRU",
-      "aceleración",
-      "primera ley",
-      "segunda ley",
-      "inercia"
-    ],
-    "contenido": {
-      "idea": "Si empujas un carrito de juguete sobre un piso muy liso, sigue rodando sin que lo empujes más. Y si lo sueltas desde una mesa, cae cada vez más rápido.",
-      "pizarron": "**La ley:** sin fuerza neta, un cuerpo sigue igual; con fuerza, acelera: $F = ma$.\n\n**Primera ley (inercia)**: un cuerpo sin fuerza neta se queda en reposo o sigue con velocidad constante. Eso es el movimiento rectilíneo uniforme (MRU): $d = v\\,t$.\n\n**Segunda ley**: si hay fuerza neta, el cuerpo acelera: $F = m\\,a$.\n\n**Caída libre**: sin resistencia del aire, todo cae con aceleración $g \\approx 10\\ \\text{m/s}^2$ (usamos 10 para simplificar). Desde el reposo:\n\n$$v = g\\,t \\qquad d = \\tfrac{1}{2} g\\,t^2$$\n\nEjemplo: a los 3 s, $v = 10 \\cdot 3 = 30$ m/s y $d = \\tfrac{1}{2}\\cdot 10 \\cdot 9 = 45$ m.",
-      "truco": "Sin fuerza, velocidad constante; con fuerza, F = m·a.",
-      "practica": {
-        "ejercicio": "Un objeto cae desde el reposo durante 2 s. ¿Qué velocidad lleva? (g = 10 m/s²)",
-        "respuesta": "v = 10 · 2 = 20 m/s."
-      },
-      "analogias": [
-        {
-          "titulo": "Patinar en hielo",
-          "texto": "Sobre hielo casi no hay fricción: te deslizas lejos sin pedalear. Eso es inercia, un MRU casi perfecto."
-        },
-        {
-          "titulo": "Empujar un mueble",
-          "texto": "Un mueble vacío se mueve fácil y uno lleno cuesta trabajo: con la misma fuerza, más masa significa menos aceleración."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Un ciclista va a 20 m/s con MRU durante 5 s. ¿Qué distancia recorre?",
-          "respuesta": "d = 20 · 5 = 100 m."
-        },
-        {
-          "ejercicio": "¿Qué fuerza se necesita para acelerar una masa de 2 kg a 3 m/s²?",
-          "respuesta": "F = 2 · 3 = 6 N."
-        },
-        {
-          "ejercicio": "Una piedra cae 3 s desde el reposo. ¿Qué distancia recorre? (g = 10 m/s²)",
-          "respuesta": "d = ½ · 10 · 9 = 45 m."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-069",
-    "titulo": "Tercera ley de Newton: acción y reacción",
-    "slug": "tercera-ley-newton-accion-reaccion",
-    "palabras": [
-      "acción y reacción",
-      "tercera ley",
-      "fuerzas",
-      "interacción",
-      "Newton"
-    ],
-    "contenido": {
-      "idea": "Si empujas una pared estando en patines, la pared también te empuja a ti y sales rodando hacia atrás.",
-      "pizarron": "**La ley:** a toda acción corresponde una reacción igual y en sentido contrario.\n\nSi A empuja a B, B empuja a A con la misma fuerza.\n\nActúan sobre cuerpos distintos, por eso no se cancelan.\n\n**Ejemplos:** un cohete avienta gases y los gases lo empujan. Al caminar, empujas el suelo y el suelo te empuja.\n\nEl efecto puede ser distinto, porque depende de la masa: $a = \\frac{F}{m}$.\n\nUn camión y una bici chocan con la misma fuerza, pero la bici sale peor.\n\n**Para tu escuela:** explica el movimiento de un globo que se desinfla.",
-      "truco": "Toda acción tiene su reacción: igual, contraria y en cuerpos distintos.",
-      "practica": {
-        "ejercicio": "Empujas una pared con 50 N. ¿Qué fuerza ejerce la pared sobre ti?",
-        "respuesta": "50 N, en sentido contrario al de tu empuje."
-      },
-      "analogias": [
-        {
-          "titulo": "El globo",
-          "texto": "Al soltar un globo inflado, el aire sale hacia atrás y el globo sale disparado hacia adelante."
-        },
-        {
-          "titulo": "La lancha",
-          "texto": "Si saltas de una lancha pequeña hacia la orilla, la lancha se aleja en sentido contrario porque tú la empujaste al saltar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuál es la reacción a la fuerza con que la Tierra atrae a una manzana?",
-          "respuesta": "La manzana atrae a la Tierra con la misma fuerza y en sentido opuesto."
-        },
-        {
-          "ejercicio": "¿Por qué las fuerzas de acción y reacción no se anulan?",
-          "respuesta": "Porque actúan sobre cuerpos diferentes, no sobre el mismo."
-        },
-        {
-          "ejercicio": "Un nadador empuja el agua hacia atrás. ¿Qué lo mueve hacia adelante?",
-          "respuesta": "La reacción del agua, que lo empuja hacia adelante."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-070",
-    "titulo": "Ondas: propiedades y comportamiento",
-    "slug": "ondas-propiedades-preparatoria",
-    "palabras": [
-      "ondas",
-      "frecuencia",
-      "longitud de onda",
-      "amplitud",
-      "sonido",
-      "periodo"
-    ],
-    "contenido": {
-      "idea": "Si lanzas una piedra a un charco, se forman círculos que viajan, pero el agua solo sube y baja; lo que viaja es la perturbación.",
-      "pizarron": "**La regla:** una onda lleva energía sin llevar materia: $v = \\lambda f$.\n\nEn la ola del estadio la gente no se mueve de lugar.\n\n**Amplitud:** altura.\n\n**Longitud $\\lambda$:** distancia entre crestas.\n\n**Frecuencia $f$:** ciclos por segundo.\n\n**Periodo $T$:** tiempo de un ciclo.\n\n**Tipos:** mecánicas, como el sonido; electromagnéticas, como la luz.\n\n**Ejemplo:** $\\lambda = 2$ m y $f = 5$ Hz dan $v = 10$ m/s.\n\n**Para tu escuela:** calcula $v$ con $\\lambda = 3$ m y $f = 4$ Hz.",
-      "truco": "v = λ·f: velocidad igual a longitud por frecuencia.",
-      "practica": {
-        "ejercicio": "Una onda tiene $\\lambda = 2$ m y $f = 170$ Hz. ¿Cuál es su velocidad?",
-        "respuesta": "v = 2 · 170 = 340 m/s."
-      },
-      "analogias": [
-        {
-          "titulo": "La ola del estadio",
-          "texto": "Las personas solo se levantan y se sientan, pero la ola recorre todo el estadio: viaja la forma, no la gente."
-        },
-        {
-          "titulo": "El resorte",
-          "texto": "Si empujas un extremo de un resorte largo, el pulso viaja hasta el otro lado sin que el resorte se mueva de lugar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Una onda de 0.5 m de longitud viaja a 340 m/s. ¿Cuál es su frecuencia?",
-          "respuesta": "f = 340 / 0.5 = 680 Hz."
-        },
-        {
-          "ejercicio": "Si f = 50 Hz, ¿cuál es el periodo?",
-          "respuesta": "T = 1/50 = 0.02 s."
-        },
-        {
-          "ejercicio": "¿El sonido puede viajar en el vacío? Explica.",
-          "respuesta": "No, es una onda mecánica y necesita un medio material."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-071",
-    "titulo": "Comportamiento de la luz",
-    "slug": "luz-reflexion-refraccion",
-    "palabras": [
-      "luz",
-      "reflexión",
-      "refracción",
-      "óptica",
-      "espejo",
-      "lente",
-      "arcoíris"
-    ],
-    "contenido": {
-      "idea": "Cuando te ves en un espejo, la luz rebota como una pelota contra la pared. En una alberca, el fondo parece más cerca porque la luz se dobla al salir del agua.",
-      "pizarron": "**Qué es:** la luz es una onda que viaja en línea recta y muy rápido.\n\n**Reflexión:** rebota. Sale con el mismo ángulo con que llegó.\n\n**Refracción:** se desvía al cambiar de material.\n\n**Dispersión:** se separa en colores. Así sale el arcoíris.\n\n**Absorción:** por eso vemos colores.\n\nLas sombras existen porque la luz va recta.\n\n**Para tu escuela:** con una linterna, haz una sombra y di por qué se forma.",
-      "truco": "Rebota = reflexión; se dobla = refracción; se separa en colores = dispersión.",
-      "practica": {
-        "ejercicio": "Un rayo incide sobre un espejo con 30°. ¿Con qué ángulo se refleja?",
-        "respuesta": "Con 30°, porque el ángulo de reflexión es igual al de incidencia."
-      },
-      "analogias": [
-        {
-          "titulo": "Carrito en el lodo",
-          "texto": "Si un carrito entra en diagonal del pavimento al lodo, una rueda frena antes y el carrito gira. La luz también se desvía al cambiar de medio."
-        },
-        {
-          "titulo": "Pelota en el frontón",
-          "texto": "La pelota sale de la pared con el mismo ángulo con que llegó, igual que la luz en un espejo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Por qué un popote en un vaso con agua se ve quebrado?",
-          "respuesta": "Por la refracción: la luz cambia de dirección al pasar del agua al aire."
-        },
-        {
-          "ejercicio": "La luz del Sol tarda unos 500 s en llegar a la Tierra. ¿Cuántos minutos son aproximadamente?",
-          "respuesta": "500 / 60 ≈ 8.3 minutos."
-        },
-        {
-          "ejercicio": "¿Qué fenómeno de la luz explica el arcoíris?",
-          "respuesta": "La dispersión (con refracción y reflexión) de la luz en las gotas de agua."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-072",
-    "titulo": "Fluidos: presión, Pascal y Arquímedes",
-    "slug": "fluidos-presion-pascal-arquimedes",
-    "palabras": [
-      "fluidos",
-      "presión",
-      "densidad",
-      "principio de Pascal",
-      "principio de Arquímedes",
-      "flotación"
-    ],
-    "contenido": {
-      "idea": "Un clavo penetra la madera porque toda tu fuerza se concentra en una punta diminuta; en cambio, un elefante no se hunde en la arena si tiene patas anchas.",
-      "pizarron": "**La ley:** la presión se transmite por igual, y el empuje iguala el peso del fluido desalojado.\n\nUn fluido es un líquido o un gas: no tiene forma propia y fluye.\n\n- **Densidad**: $\\rho = m/V$. El agua tiene $1000\\ \\text{kg/m}^3$.\n- **Presión**: $P = F/A$, en pascales (Pa). A igual fuerza, menor área da mayor presión.\n- **Presión hidrostática**: $P = \\rho\\,g\\,h$; crece con la profundidad.\n- **Principio de Pascal**: la presión aplicada a un fluido encerrado se transmite igual en todos sus puntos. Es la base de los frenos y gatos hidráulicos.\n- **Principio de Arquímedes**: todo cuerpo sumergido recibe un empuje igual al peso del fluido que desplaza: $E = \\rho\\,g\\,V$.\n\nUn objeto flota si su densidad es menor que la del fluido.",
-      "truco": "P = F/A; Pascal reparte la presión; Arquímedes empuja hacia arriba.",
-      "practica": {
-        "ejercicio": "Una fuerza de 600 N actúa sobre 0.3 m². ¿Qué presión genera?",
-        "respuesta": "P = 600 / 0.3 = 2000 Pa."
-      },
-      "analogias": [
-        {
-          "titulo": "Tacones y tenis",
-          "texto": "Una persona con tacón delgado se hunde más en el pasto que con tenis, aunque pese lo mismo: menor área, mayor presión."
-        },
-        {
-          "titulo": "Tubo de pasta dental",
-          "texto": "Si aprietas la pasta por un lado, sale por la punta: la presión se transmite por todo el fluido."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "En un gato hidráulico, el pistón pequeño tiene 10 cm² y recibe 20 N; el grande tiene 100 cm². ¿Qué fuerza da el grande?",
-          "respuesta": "Misma presión: F = 20 · (100/10) = 200 N."
-        },
-        {
-          "ejercicio": "Un objeto sumerge 0.002 m³ de agua. ¿Cuál es el empuje? (ρ = 1000 kg/m³, g = 10 m/s²)",
-          "respuesta": "E = 1000 · 10 · 0.002 = 20 N."
-        },
-        {
-          "ejercicio": "¿Por qué un barco de acero flota?",
-          "respuesta": "Porque su forma hueca desplaza mucha agua y su densidad promedio es menor que la del agua."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-073",
-    "titulo": "Electricidad, magnetismo y electromagnetismo",
-    "slug": "electricidad-magnetismo-electromagnetismo",
-    "palabras": [
-      "electricidad",
-      "magnetismo",
-      "corriente",
-      "ley de Ohm",
-      "inducción",
-      "motor",
-      "generador"
-    ],
-    "contenido": {
-      "idea": "Un imán atrae al refrigerador sin tocarlo, y un cable conectado a una pila enciende un foco. Ambos fenómenos están emparentados.",
-      "pizarron": "**La ley:** una corriente crea magnetismo, y un imán que se mueve crea corriente. Además, $V = IR$.\n\n**Electricidad:** cargas iguales se repelen y distintas se atraen. La corriente es el paso de cargas.\n\n**Magnetismo:** polos iguales se repelen y distintos se atraen.\n\n**Juntos:**\n\n**Motor:** de electricidad a movimiento.\n\n**Generador:** de movimiento a electricidad.\n\n**Para tu escuela:** di qué hace una licuadora: ¿motor o generador?",
-      "truco": "Corriente crea imán; imán en movimiento crea corriente.",
-      "practica": {
-        "ejercicio": "Un circuito tiene 12 V y 4 ohms. ¿Qué corriente circula?",
-        "respuesta": "I = V/R = 12/4 = 3 A."
-      },
-      "analogias": [
-        {
-          "titulo": "Tubería de agua",
-          "texto": "El voltaje es la presión del agua, la corriente es el caudal y la resistencia es lo angosto del tubo."
-        },
-        {
-          "titulo": "Bicicleta con dinamo",
-          "texto": "Al pedalear giras un imán dentro de una bobina y se enciende la luz: movimiento convertido en electricidad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Con 6 V y una resistencia de 2 ohms, ¿cuánta corriente fluye?",
-          "respuesta": "I = 6/2 = 3 A."
-        },
-        {
-          "ejercicio": "Si acercas dos polos norte de imanes, ¿qué ocurre?",
-          "respuesta": "Se repelen, porque polos iguales se repelen."
-        },
-        {
-          "ejercicio": "¿Cómo funciona un generador eléctrico?",
-          "respuesta": "Al mover un imán dentro de una bobina (o al revés), el campo cambiante induce una corriente."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-074",
-    "titulo": "Física moderna y contemporánea: divulgación",
-    "slug": "fisica-moderna-divulgacion",
-    "palabras": [
-      "relatividad",
-      "mecánica cuántica",
-      "fotón",
-      "Einstein",
-      "física moderna",
-      "partículas"
-    ],
-    "contenido": {
-      "idea": "La física clásica explica una pelota que rueda, pero para entender lo muy rápido, lo muy grande o lo muy pequeño se necesitaron ideas nuevas.",
-      "pizarron": "**Qué es:** la física moderna estudia lo muy rápido, lo muy pequeño y lo muy grande.\n\n**Relatividad (Einstein):** nada va más rápido que la luz, y $E = mc^2$: masa y energía están relacionadas.\n\n**Mecánica cuántica:** en lo muy pequeño, la energía viene en paquetes y solo hay probabilidades.\n\n**Usos:** GPS, láser, paneles solares y resonancias.\n\n**Para recordar:**\n- **¿Qué dice la relatividad sobre la rapidez de la luz?** Que es la máxima rapidez posible en el universo.\n\n**Para tu escuela:** busca un aparato de tu casa que use física moderna.",
-      "truco": "Relatividad: lo muy rápido y grande. Cuántica: lo muy pequeño.",
-      "practica": {
-        "ejercicio": "Con $E = mc^2$, ¿cuánta energía equivale a 1 kg de masa?",
-        "respuesta": "E = 1 · (3×10^8)² = 9×10^16 joules."
-      },
-      "analogias": [
-        {
-          "titulo": "El mapa y el territorio",
-          "texto": "Un mapa de tu colonia sirve para caminar, pero no para viajar al espacio; las teorías clásicas funcionan en lo cotidiano y las modernas amplían el mapa."
-        },
-        {
-          "titulo": "Escalones y rampa",
-          "texto": "La energía cuántica es como subir escalones: solo hay niveles fijos, no puntos intermedios como en una rampa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona una aplicación tecnológica de la física moderna.",
-          "respuesta": "Por ejemplo: láser, GPS, paneles solares o resonancia magnética."
-        },
-        {
-          "ejercicio": "¿Qué dice la relatividad sobre la rapidez de la luz?",
-          "respuesta": "Que es la máxima rapidez posible en el universo."
-        },
-        {
-          "ejercicio": "Reflexión: ¿por qué es útil que un tema científico se divulgue? Da dos ideas.",
-          "respuesta": "Criterios: menciona que ayuda a decidir informado sobre tecnología y salud, y que combate la desinformación o despierta vocaciones científicas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-075",
-    "titulo": "Gravitación universal y órbitas",
-    "slug": "gravitacion-universal-orbitas",
-    "palabras": [
-      "gravitación",
-      "Newton",
-      "Kepler",
-      "órbitas",
-      "planetas",
-      "gravedad",
-      "caída libre"
-    ],
-    "contenido": {
-      "idea": "Si giras una piedra atada a un cordel, el cordel la jala hacia ti y no sale volando. Así la gravedad del Sol mantiene a la Tierra en su camino.",
-      "pizarron": "**La ley:** dos masas se atraen con una fuerza $F = G\\frac{m_1 m_2}{r^2}$.\n\nMás masa, más fuerza.\n\nMás distancia, mucho menos fuerza. Si $r$ se duplica, $F$ baja a la cuarta parte.\n\n**Caída libre:** en la Tierra, todo cae con $g = 9.8$ m/s².\n\n**Órbitas:** la Luna cae hacia la Tierra, pero avanza tan rápido que nunca llega.\n\n**Kepler:** los planetas giran en elipses, y van más rápido cerca del Sol.\n\n**Para tu escuela:** si la distancia se triplica, ¿qué pasa con la fuerza?",
-      "truco": "Doble distancia, un cuarto de fuerza; en el vacío todo cae igual.",
-      "practica": {
-        "ejercicio": "Si la distancia entre dos cuerpos se triplica, ¿cómo cambia la fuerza gravitacional?",
-        "respuesta": "Se divide entre 3² = 9; queda una novena parte."
-      },
-      "analogias": [
-        {
-          "titulo": "Lanzar una pelota",
-          "texto": "Si la lanzas más fuerte, cae más lejos. Con velocidad suficiente cae alrededor de la Tierra sin tocar el suelo: es una órbita."
-        },
-        {
-          "titulo": "Linterna",
-          "texto": "La luz de una linterna se dispersa al alejarte y se ve más débil; la gravedad también se debilita con la distancia."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Si la distancia se duplica, ¿cuántas veces menor es la fuerza?",
-          "respuesta": "4 veces menor, porque 2² = 4."
-        },
-        {
-          "ejercicio": "En el vacío, ¿cae más rápido una piedra de 5 kg que una de 1 kg?",
-          "respuesta": "No, ambas caen con la misma aceleración, unos 9.8 m/s²."
-        },
-        {
-          "ejercicio": "¿Qué forma tiene la órbita de un planeta según Kepler?",
-          "respuesta": "Una elipse, con el Sol en uno de sus focos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "ems-076",
-    "titulo": "Origen de la vida: teoría quimiosintética",
-    "slug": "origen-vida-quimiosintetica",
-    "palabras": [
-      "Oparin",
-      "Haldane",
-      "Miller",
-      "Urey",
-      "sopa primitiva",
-      "Tierra primitiva",
-      "biomoléculas"
-    ],
-    "contenido": {
-      "idea": "Imagina una sopa con ingredientes simples que, calentada y con chispas por mucho tiempo, se transforma poco a poco en algo más complejo.",
-      "pizarron": "**Qué es:** la teoría quimiosintética dice que la vida surgió poco a poco, a partir de sustancias simples de la Tierra antigua.\n\n**Pasos:**\n\n1. No había oxígeno libre.\n2. Rayos y calor dieron energía.\n3. Se formaron moléculas simples en el mar: la sopa primitiva.\n4. Se unieron en moléculas grandes.\n5. Se rodearon de una membrana.\n\n**Miller y Urey (1953):** imitaron esas condiciones y obtuvieron aminoácidos.\n\n**Para recordar:**\n- **¿Qué fuentes de energía existían en la Tierra primitiva?** Rayos, radiación ultravioleta y calor volcánico.\n\n**Para tu escuela:** ordena los pasos en un dibujo.",
-      "truco": "Gases + energía = moléculas orgánicas; moléculas = coacervados; coacervados = células.",
-      "practica": {
-        "ejercicio": "¿Qué demostró el experimento de Miller y Urey?",
-        "respuesta": "Que con gases de la atmósfera primitiva y descargas eléctricas pueden formarse aminoácidos."
-      },
-      "analogias": [
-        {
-          "titulo": "Pasta de galletas",
-          "texto": "Con harina, huevo y azúcar mezclados y horneados aparece algo nuevo; con ingredientes simples y energía surgieron moléculas más complejas."
-        },
-        {
-          "titulo": "Piezas de construcción",
-          "texto": "Con pocas piezas sueltas se arman estructuras cada vez más grandes: primero moléculas pequeñas y luego polímeros."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos gases de la atmósfera primitiva propuestos en esta teoría.",
-          "respuesta": "Por ejemplo: metano, amoníaco, hidrógeno o vapor de agua."
-        },
-        {
-          "ejercicio": "¿Qué fuentes de energía existían en la Tierra primitiva?",
-          "respuesta": "Rayos, radiación ultravioleta y calor volcánico."
-        },
-        {
-          "ejercicio": "Reflexión: ¿por qué es una teoría científica y no una creencia? Da dos criterios.",
-          "respuesta": "Criterios: se basa en evidencia, puede probarse con experimentos (como el de Miller y Urey) y puede revisarse con nuevos datos."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "ems-067",
+"titulo": "Biomoléculas y su función en los seres vivos",
+"slug": "biomoleculas-preparatoria",
+"palabras": [
+"carbohidratos",
+"lípidos",
+"proteínas",
+"ácidos nucleicos",
+"compuestos orgánicos"
+],
+"contenido": {
+"idea": "Tu cuerpo es como una casa: unas biomoléculas son el combustible (leña), otras los ladrillos, otras las herramientas y otra es el plano que dice cómo construir todo.",
+"pizarron": "**Qué es:** las biomoléculas son las moléculas de los seres vivos: carbohidratos, lípidos, proteínas y ácidos nucleicos.\n\n**Imagínalo:** tu cuerpo es una casa en obra.\n\n1. **Carbohidratos:** son la gasolina. Dan energía rápida. Pan, arroz y azúcar.\n2. **Lípidos:** son la despensa. Guardan energía. Grasas y aceites.\n3. **Proteínas:** son los ladrillos y los trabajadores. Forman músculos. Están hechas de aminoácidos. Las enzimas son proteínas que ayudan a trabajar, como la amilasa de la saliva.\n4. **Ácidos nucleicos:** son los planos. Guardan las instrucciones. El ADN es uno.\n\nLas moléculas grandes se arman con piezas chicas, como un collar con cuentas.\n\n**Para tu escuela:** clasifica tu desayuno en estos cuatro grupos.",
+"truco": "CLPA: Carbohidratos = combustible, Lípidos = reserva, Proteínas = construcción, Ácidos nucleicos = plano.",
+"practica": {
+"ejercicio": "¿Qué biomolécula es la enzima amilasa de la saliva?",
+"respuesta": "Una proteína, porque está formada por aminoácidos y funciona como enzima."
+},
+"analogias": [
+{
+"titulo": "La cocina",
+"texto": "Los carbohidratos son el gas que enciende la estufa, los lípidos la despensa guardada, las proteínas los utensilios y el ADN el libro de recetas."
+},
+{
+"titulo": "El lenguaje",
+"texto": "Los monómeros son letras; los polímeros son palabras largas. Con pocas letras se escriben miles de palabras distintas, igual que con 20 aminoácidos se arman muchas proteínas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona la función principal de los carbohidratos.",
+"respuesta": "Proporcionar energía de uso rápido a las células."
+},
+{
+"ejercicio": "¿Qué unidades forman a las proteínas?",
+"respuesta": "Los aminoácidos."
+},
+{
+"ejercicio": "¿Qué biomolécula guarda la información genética?",
+"respuesta": "Los ácidos nucleicos, principalmente el ADN."
+}
+]
+}
+},
+{
+"nodo_id": "ems-068",
+"titulo": "Caída libre, movimiento uniforme y leyes de Newton",
+"slug": "caida-libre-mru-newton-1-2",
+"palabras": [
+"caída libre",
+"MRU",
+"aceleración",
+"primera ley",
+"segunda ley",
+"inercia"
+],
+"contenido": {
+"idea": "Si empujas un carrito de juguete sobre un piso muy liso, sigue rodando sin que lo empujes más. Y si lo sueltas desde una mesa, cae cada vez más rápido.",
+"pizarron": "**La ley:** sin fuerza neta, un cuerpo sigue igual. Con fuerza neta, acelera.\n\n**Primera ley:** una pelota quieta se queda quieta hasta que la empujas. Si nada la frena, sigue igual. Eso es movimiento uniforme.\n\n$$d = v\\,t$$\n\n**En palabras:** distancia es velocidad por tiempo. A 3 m/s durante 4 s avanzas 12 m.\n\n**Segunda ley:** $F = m\\,a$. **En palabras:** fuerza es masa por aceleración. Mover un carrito lleno cuesta más que uno vacío.\n\nLa fuerza se mide en newtons (N). Con 4 kg y 2 m/s², son 8 N.\n\n**Caída libre:** sin aire, todo cae igual. Cada segundo gana 10 m/s de velocidad. Por eso $g = 10$.\n\n$$v = g\\,t \\qquad d = \\tfrac{1}{2} g\\,t^2$$\n\n**En palabras:** velocidad es 10 por el tiempo. Distancia es la mitad de 10 por el tiempo dos veces.\n\nA los 4 s: $v = 40$ m/s y $d = 5 \\times 4 \\times 4 = 80$ m.\n\n**Para tu escuela:** suelta una hoja y una pelota, y di por qué el aire cambia el resultado.",
+"truco": "Sin fuerza, velocidad constante; con fuerza, F = m·a.",
+"practica": {
+"ejercicio": "Un objeto cae desde el reposo durante 2 s. ¿Qué velocidad lleva? (g = 10 m/s²)",
+"respuesta": "v = 10 · 2 = 20 m/s."
+},
+"analogias": [
+{
+"titulo": "Patinar en hielo",
+"texto": "Sobre hielo casi no hay fricción: te deslizas lejos sin pedalear. Eso es inercia, un MRU casi perfecto."
+},
+{
+"titulo": "Empujar un mueble",
+"texto": "Un mueble vacío se mueve fácil y uno lleno cuesta trabajo: con la misma fuerza, más masa significa menos aceleración."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Un ciclista va a 20 m/s con MRU durante 5 s. ¿Qué distancia recorre?",
+"respuesta": "d = 20 · 5 = 100 m."
+},
+{
+"ejercicio": "¿Qué fuerza se necesita para acelerar una masa de 2 kg a 3 m/s²?",
+"respuesta": "F = 2 · 3 = 6 N."
+},
+{
+"ejercicio": "Una piedra cae 3 s desde el reposo. ¿Qué distancia recorre? (g = 10 m/s²)",
+"respuesta": "d = ½ · 10 · 9 = 45 m."
+}
+]
+}
+},
+{
+"nodo_id": "ems-069",
+"titulo": "Tercera ley de Newton: acción y reacción",
+"slug": "tercera-ley-newton-accion-reaccion",
+"palabras": [
+"acción y reacción",
+"tercera ley",
+"fuerzas",
+"interacción",
+"Newton"
+],
+"contenido": {
+"idea": "Si empujas una pared estando en patines, la pared también te empuja a ti y sales rodando hacia atrás.",
+"pizarron": "**La ley:** a toda acción corresponde una reacción igual y en sentido contrario.\n\n**Imagínalo:** empujas la pared y la pared te empuja. Si traes patines, sales hacia atrás.\n\n**Las dos fuerzas son iguales.** Actúan sobre cuerpos distintos, por eso no se cancelan.\n\n**Ejemplos:**\n\n- Un cohete avienta gases, y los gases lo empujan.\n- Al nadar, empujas agua hacia atrás y el agua te empuja adelante.\n- La Tierra jala a la manzana, y la manzana jala a la Tierra.\n\n**Masa:** la misma fuerza mueve más a lo ligero. Un camión y una bici chocan igual, pero la bici sale peor.\n\n**Para tu escuela:** infla un globo, suéltalo y explica por qué vuela.",
+"truco": "Toda acción tiene su reacción: igual, contraria y en cuerpos distintos.",
+"practica": {
+"ejercicio": "Empujas una pared con 50 N. ¿Qué fuerza ejerce la pared sobre ti?",
+"respuesta": "50 N, en sentido contrario al de tu empuje."
+},
+"analogias": [
+{
+"titulo": "El globo",
+"texto": "Al soltar un globo inflado, el aire sale hacia atrás y el globo sale disparado hacia adelante."
+},
+{
+"titulo": "La lancha",
+"texto": "Si saltas de una lancha pequeña hacia la orilla, la lancha se aleja en sentido contrario porque tú la empujaste al saltar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es la reacción a la fuerza con que la Tierra atrae a una manzana?",
+"respuesta": "La manzana atrae a la Tierra con la misma fuerza y en sentido opuesto."
+},
+{
+"ejercicio": "¿Por qué las fuerzas de acción y reacción no se anulan?",
+"respuesta": "Porque actúan sobre cuerpos diferentes, no sobre el mismo."
+},
+{
+"ejercicio": "Un nadador empuja el agua hacia atrás. ¿Qué lo mueve hacia adelante?",
+"respuesta": "La reacción del agua, que lo empuja hacia adelante."
+}
+]
+}
+},
+{
+"nodo_id": "ems-070",
+"titulo": "Ondas: propiedades y comportamiento",
+"slug": "ondas-propiedades-preparatoria",
+"palabras": [
+"ondas",
+"frecuencia",
+"longitud de onda",
+"amplitud",
+"sonido",
+"periodo"
+],
+"contenido": {
+"idea": "Si lanzas una piedra a un charco, se forman círculos que viajan, pero el agua solo sube y baja; lo que viaja es la perturbación.",
+"pizarron": "**La regla:** una onda lleva energía sin llevar materia: $v = \\lambda f$.\n\n**Imagínalo:** en la ola del estadio, la gente no cambia de lugar, pero la ola avanza.\n\n**Partes:**\n\n- **Amplitud:** altura.\n- **Longitud $\\lambda$:** distancia entre dos crestas.\n- **Frecuencia $f$:** ciclos por segundo.\n- **Periodo $T$:** tiempo de un ciclo. $T = \\frac{1}{f}$.\n\n**En palabras:** velocidad es longitud por frecuencia. Con 2 m y 5 Hz: 10 m/s. También, $f = \\frac{v}{\\lambda}$.\n\n**Tipos:** las mecánicas necesitan materia, como el sonido. Por eso en el vacío no se oye nada. Las electromagnéticas no la necesitan, como la luz.\n\n**Para tu escuela:** haz una ola con una cuerda.",
+"truco": "v = λ·f: velocidad igual a longitud por frecuencia.",
+"practica": {
+"ejercicio": "Una onda tiene $\\lambda = 2$ m y $f = 170$ Hz. ¿Cuál es su velocidad?",
+"respuesta": "v = 2 · 170 = 340 m/s."
+},
+"analogias": [
+{
+"titulo": "La ola del estadio",
+"texto": "Las personas solo se levantan y se sientan, pero la ola recorre todo el estadio: viaja la forma, no la gente."
+},
+{
+"titulo": "El resorte",
+"texto": "Si empujas un extremo de un resorte largo, el pulso viaja hasta el otro lado sin que el resorte se mueva de lugar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Una onda de 0.5 m de longitud viaja a 340 m/s. ¿Cuál es su frecuencia?",
+"respuesta": "f = 340 / 0.5 = 680 Hz."
+},
+{
+"ejercicio": "Si f = 50 Hz, ¿cuál es el periodo?",
+"respuesta": "T = 1/50 = 0.02 s."
+},
+{
+"ejercicio": "¿El sonido puede viajar en el vacío? Explica.",
+"respuesta": "No, es una onda mecánica y necesita un medio material."
+}
+]
+}
+},
+{
+"nodo_id": "ems-071",
+"titulo": "Comportamiento de la luz",
+"slug": "luz-reflexion-refraccion",
+"palabras": [
+"luz",
+"reflexión",
+"refracción",
+"óptica",
+"espejo",
+"lente",
+"arcoíris"
+],
+"contenido": {
+"idea": "Cuando te ves en un espejo, la luz rebota como una pelota contra la pared. En una alberca, el fondo parece más cerca porque la luz se dobla al salir del agua.",
+"pizarron": "**Qué es:** la luz es una onda que viaja en línea recta y muy rápido.\n\n**Reflexión:** rebota. Sale con el mismo ángulo con que llegó.\n\n**Refracción:** se desvía al cambiar de material.\n\n**Dispersión:** se separa en colores. Así sale el arcoíris.\n\n**Absorción:** por eso vemos colores.\n\nLas sombras existen porque la luz va recta.\n\n**Para tu escuela:** con una linterna, haz una sombra y di por qué se forma.",
+"truco": "Rebota = reflexión; se dobla = refracción; se separa en colores = dispersión.",
+"practica": {
+"ejercicio": "Un rayo incide sobre un espejo con 30°. ¿Con qué ángulo se refleja?",
+"respuesta": "Con 30°, porque el ángulo de reflexión es igual al de incidencia."
+},
+"analogias": [
+{
+"titulo": "Carrito en el lodo",
+"texto": "Si un carrito entra en diagonal del pavimento al lodo, una rueda frena antes y el carrito gira. La luz también se desvía al cambiar de medio."
+},
+{
+"titulo": "Pelota en el frontón",
+"texto": "La pelota sale de la pared con el mismo ángulo con que llegó, igual que la luz en un espejo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué un popote en un vaso con agua se ve quebrado?",
+"respuesta": "Por la refracción: la luz cambia de dirección al pasar del agua al aire."
+},
+{
+"ejercicio": "La luz del Sol tarda unos 500 s en llegar a la Tierra. ¿Cuántos minutos son aproximadamente?",
+"respuesta": "500 / 60 ≈ 8.3 minutos."
+},
+{
+"ejercicio": "¿Qué fenómeno de la luz explica el arcoíris?",
+"respuesta": "La dispersión (con refracción y reflexión) de la luz en las gotas de agua."
+}
+]
+}
+},
+{
+"nodo_id": "ems-072",
+"titulo": "Fluidos: presión, Pascal y Arquímedes",
+"slug": "fluidos-presion-pascal-arquimedes",
+"palabras": [
+"fluidos",
+"presión",
+"densidad",
+"principio de Pascal",
+"principio de Arquímedes",
+"flotación"
+],
+"contenido": {
+"idea": "Un clavo penetra la madera porque toda tu fuerza se concentra en una punta diminuta; en cambio, un elefante no se hunde en la arena si tiene patas anchas.",
+"pizarron": "**La ley:** la presión se transmite por igual en un fluido encerrado, y el empuje iguala el peso del fluido desalojado.\n\n**Imagínalo:** un fluido es lo que corre, como agua o aire.\n\n**Presión:** $P = \\frac{F}{A}$. **En palabras:** fuerza entre área. Con 100 N sobre 0.5 m² son 200 Pa.\n\n**Principio de Pascal:** si aprietas agua encerrada, el apretón llega igual a todos lados. Un pistón grande recibe más fuerza. Con 5 veces más área, da 5 veces más fuerza. Así funciona un gato hidráulico.\n\n**Principio de Arquímedes:** en la alberca te sientes ligero porque el agua te empuja.\n\n$$E = \\rho\\,g\\,V$$\n\n**En palabras:** empuje es densidad, por $g$, por el volumen hundido. Con 0.001 m³: $1000 \\times 10 \\times 0.001 = 10$ N.\n\n**Flotar:** un barco de acero flota porque es hueco. Contando el aire, es menos denso que el agua.\n\n**Para tu escuela:** mete una pelota en una tina y siente cómo te empuja.",
+"truco": "P = F/A; Pascal reparte la presión; Arquímedes empuja hacia arriba.",
+"practica": {
+"ejercicio": "Una fuerza de 600 N actúa sobre 0.3 m². ¿Qué presión genera?",
+"respuesta": "P = 600 / 0.3 = 2000 Pa."
+},
+"analogias": [
+{
+"titulo": "Tacones y tenis",
+"texto": "Una persona con tacón delgado se hunde más en el pasto que con tenis, aunque pese lo mismo: menor área, mayor presión."
+},
+{
+"titulo": "Tubo de pasta dental",
+"texto": "Si aprietas la pasta por un lado, sale por la punta: la presión se transmite por todo el fluido."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "En un gato hidráulico, el pistón pequeño tiene 10 cm² y recibe 20 N; el grande tiene 100 cm². ¿Qué fuerza da el grande?",
+"respuesta": "Misma presión: F = 20 · (100/10) = 200 N."
+},
+{
+"ejercicio": "Un objeto sumerge 0.002 m³ de agua. ¿Cuál es el empuje? (ρ = 1000 kg/m³, g = 10 m/s²)",
+"respuesta": "E = 1000 · 10 · 0.002 = 20 N."
+},
+{
+"ejercicio": "¿Por qué un barco de acero flota?",
+"respuesta": "Porque su forma hueca desplaza mucha agua y su densidad promedio es menor que la del agua."
+}
+]
+}
+},
+{
+"nodo_id": "ems-073",
+"titulo": "Electricidad, magnetismo y electromagnetismo",
+"slug": "electricidad-magnetismo-electromagnetismo",
+"palabras": [
+"electricidad",
+"magnetismo",
+"corriente",
+"ley de Ohm",
+"inducción",
+"motor",
+"generador"
+],
+"contenido": {
+"idea": "Un imán atrae al refrigerador sin tocarlo, y un cable conectado a una pila enciende un foco. Ambos fenómenos están emparentados.",
+"pizarron": "**La ley:** una corriente crea magnetismo, y un imán que se mueve crea corriente. Además, $V = IR$.\n\n**Electricidad:** cargas iguales se repelen y distintas se atraen. La corriente es el paso de cargas.\n\n**Magnetismo:** polos iguales se repelen y distintos se atraen.\n\n**Juntos:**\n\n**Motor:** de electricidad a movimiento.\n\n**Generador:** de movimiento a electricidad.\n\n**Para tu escuela:** di qué hace una licuadora: ¿motor o generador?",
+"truco": "Corriente crea imán; imán en movimiento crea corriente.",
+"practica": {
+"ejercicio": "Un circuito tiene 12 V y 4 ohms. ¿Qué corriente circula?",
+"respuesta": "I = V/R = 12/4 = 3 A."
+},
+"analogias": [
+{
+"titulo": "Tubería de agua",
+"texto": "El voltaje es la presión del agua, la corriente es el caudal y la resistencia es lo angosto del tubo."
+},
+{
+"titulo": "Bicicleta con dinamo",
+"texto": "Al pedalear giras un imán dentro de una bobina y se enciende la luz: movimiento convertido en electricidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Con 6 V y una resistencia de 2 ohms, ¿cuánta corriente fluye?",
+"respuesta": "I = 6/2 = 3 A."
+},
+{
+"ejercicio": "Si acercas dos polos norte de imanes, ¿qué ocurre?",
+"respuesta": "Se repelen, porque polos iguales se repelen."
+},
+{
+"ejercicio": "¿Cómo funciona un generador eléctrico?",
+"respuesta": "Al mover un imán dentro de una bobina (o al revés), el campo cambiante induce una corriente."
+}
+]
+}
+},
+{
+"nodo_id": "ems-074",
+"titulo": "Física moderna y contemporánea: divulgación",
+"slug": "fisica-moderna-divulgacion",
+"palabras": [
+"relatividad",
+"mecánica cuántica",
+"fotón",
+"Einstein",
+"física moderna",
+"partículas"
+],
+"contenido": {
+"idea": "La física clásica explica una pelota que rueda, pero para entender lo muy rápido, lo muy grande o lo muy pequeño se necesitaron ideas nuevas.",
+"pizarron": "**Qué es:** la física moderna estudia lo muy rápido, lo muy pequeño y lo muy grande.\n\n**Relatividad (Einstein):** nada va más rápido que la luz, y $E = mc^2$: masa y energía están relacionadas.\n\n**Mecánica cuántica:** en lo muy pequeño, la energía viene en paquetes y solo hay probabilidades.\n\n**Usos:** GPS, láser, paneles solares y resonancias.\n\n**Relatividad:** nada puede ir más rápido que la luz.\n\n**Para tu escuela:** busca un aparato de tu casa que use física moderna.",
+"truco": "Relatividad: lo muy rápido y grande. Cuántica: lo muy pequeño.",
+"practica": {
+"ejercicio": "Con $E = mc^2$, ¿cuánta energía equivale a 1 kg de masa?",
+"respuesta": "E = 1 · (3×10^8)² = 9×10^16 joules."
+},
+"analogias": [
+{
+"titulo": "El mapa y el territorio",
+"texto": "Un mapa de tu colonia sirve para caminar, pero no para viajar al espacio; las teorías clásicas funcionan en lo cotidiano y las modernas amplían el mapa."
+},
+{
+"titulo": "Escalones y rampa",
+"texto": "La energía cuántica es como subir escalones: solo hay niveles fijos, no puntos intermedios como en una rampa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona una aplicación tecnológica de la física moderna.",
+"respuesta": "Por ejemplo: láser, GPS, paneles solares o resonancia magnética."
+},
+{
+"ejercicio": "¿Qué dice la relatividad sobre la rapidez de la luz?",
+"respuesta": "Que es la máxima rapidez posible en el universo."
+},
+{
+"ejercicio": "Reflexión: ¿por qué es útil que un tema científico se divulgue? Da dos ideas.",
+"respuesta": "Criterios: menciona que ayuda a decidir informado sobre tecnología y salud, y que combate la desinformación o despierta vocaciones científicas."
+}
+]
+}
+},
+{
+"nodo_id": "ems-075",
+"titulo": "Gravitación universal y órbitas",
+"slug": "gravitacion-universal-orbitas",
+"palabras": [
+"gravitación",
+"Newton",
+"Kepler",
+"órbitas",
+"planetas",
+"gravedad",
+"caída libre"
+],
+"contenido": {
+"idea": "Si giras una piedra atada a un cordel, el cordel la jala hacia ti y no sale volando. Así la gravedad del Sol mantiene a la Tierra en su camino.",
+"pizarron": "**La ley:** dos masas se atraen con una fuerza $F = G\\frac{m_1 m_2}{r^2}$.\n\n**En palabras:** $G$ es un número fijo. Multiplica las dos masas y divide entre la distancia dos veces.\n\n**Imagínalo:** más masa jala más. Más lejos jala muchísimo menos.\n\n**Distancia:** se multiplica por sí misma. Al doble: $2 \\times 2 = 4$, cuatro veces menos fuerza. Al cuádruple: 16 veces menos.\n\n**Caída:** sin aire, todo cae igual. Pesado o ligero, a 9.8 m/s².\n\n**Órbitas:** la Luna cae hacia la Tierra, pero avanza tan rápido que nunca llega.\n\n**Kepler:** los planetas giran en elipses, un círculo aplastado, con el Sol en un punto llamado foco.\n\n**Para tu escuela:** dibuja una elipse con dos chinches y un hilo.",
+"truco": "Doble distancia, un cuarto de fuerza; en el vacío todo cae igual.",
+"practica": {
+"ejercicio": "Si la distancia entre dos cuerpos se triplica, ¿cómo cambia la fuerza gravitacional?",
+"respuesta": "Se divide entre 3² = 9; queda una novena parte."
+},
+"analogias": [
+{
+"titulo": "Lanzar una pelota",
+"texto": "Si la lanzas más fuerte, cae más lejos. Con velocidad suficiente cae alrededor de la Tierra sin tocar el suelo: es una órbita."
+},
+{
+"titulo": "Linterna",
+"texto": "La luz de una linterna se dispersa al alejarte y se ve más débil; la gravedad también se debilita con la distancia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Si la distancia se duplica, ¿cuántas veces menor es la fuerza?",
+"respuesta": "4 veces menor, porque 2² = 4."
+},
+{
+"ejercicio": "En el vacío, ¿cae más rápido una piedra de 5 kg que una de 1 kg?",
+"respuesta": "No, ambas caen con la misma aceleración, unos 9.8 m/s²."
+},
+{
+"ejercicio": "¿Qué forma tiene la órbita de un planeta según Kepler?",
+"respuesta": "Una elipse, con el Sol en uno de sus focos."
+}
+]
+}
+},
+{
+"nodo_id": "ems-076",
+"titulo": "Origen de la vida: teoría quimiosintética",
+"slug": "origen-vida-quimiosintetica",
+"palabras": [
+"Oparin",
+"Haldane",
+"Miller",
+"Urey",
+"sopa primitiva",
+"Tierra primitiva",
+"biomoléculas"
+],
+"contenido": {
+"idea": "Imagina una sopa con ingredientes simples que, calentada y con chispas por mucho tiempo, se transforma poco a poco en algo más complejo.",
+"pizarron": "**Qué es:** la teoría quimiosintética dice que la vida surgió poco a poco, a partir de sustancias simples de la Tierra antigua.\n\n**Pasos:**\n\n1. No había oxígeno libre.\n2. Rayos y calor dieron energía.\n3. Se formaron moléculas simples en el mar: la sopa primitiva.\n4. Se unieron en moléculas grandes.\n5. Se rodearon de una membrana.\n\n**Miller y Urey (1953):** imitaron esas condiciones y obtuvieron aminoácidos.\n\n**Energía de entonces:** rayos, luz ultravioleta y calor de volcanes.\n\n**Para tu escuela:** ordena los pasos en un dibujo.",
+"truco": "Gases + energía = moléculas orgánicas; moléculas = coacervados; coacervados = células.",
+"practica": {
+"ejercicio": "¿Qué demostró el experimento de Miller y Urey?",
+"respuesta": "Que con gases de la atmósfera primitiva y descargas eléctricas pueden formarse aminoácidos."
+},
+"analogias": [
+{
+"titulo": "Pasta de galletas",
+"texto": "Con harina, huevo y azúcar mezclados y horneados aparece algo nuevo; con ingredientes simples y energía surgieron moléculas más complejas."
+},
+{
+"titulo": "Piezas de construcción",
+"texto": "Con pocas piezas sueltas se arman estructuras cada vez más grandes: primero moléculas pequeñas y luego polímeros."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos gases de la atmósfera primitiva propuestos en esta teoría.",
+"respuesta": "Por ejemplo: metano, amoníaco, hidrógeno o vapor de agua."
+},
+{
+"ejercicio": "¿Qué fuentes de energía existían en la Tierra primitiva?",
+"respuesta": "Rayos, radiación ultravioleta y calor volcánico."
+},
+{
+"ejercicio": "Reflexión: ¿por qué es una teoría científica y no una creencia? Da dos criterios.",
+"respuesta": "Criterios: se basa en evidencia, puede probarse con experimentos (como el de Miller y Urey) y puede revisarse con nuevos datos."
+}
+]
+}
+}
 ]

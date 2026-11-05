@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "En la cima de una montaña dejas de subir y aún no bajas: justo ahí la pendiente es cero. Por eso la derivada encuentra máximos y mínimos.",
-"pizarron": "**La regla:** los máximos y mínimos están donde $f'(x) = 0$, y la segunda derivada dice cuál es cuál.\n\nPasos:\n\n1. Calcula $f'(x)$.\n2. Resuelve $f'(x) = 0$: **puntos críticos**.\n3. Usa $f''$ para clasificar.\n\nEjemplo: $f(x) = x^3 - 3x$.\n\n- $f'(x) = 3x^2 - 3 = 0 \\Rightarrow x = \\pm 1$.\n- $f''(x) = 6x$.\n- En $x = 1$: $f'' > 0$, **mínimo**; $f(1) = -2$.\n- En $x = -1$: $f'' < 0$, **máximo**; $f(-1) = 2$.\n\nProblema: un corral con 40 m de cerca. Área $A = x(20 - x)$.\n\n- $A' = 20 - 2x = 0 \\Rightarrow x = 10$.\n- Mayor área: 100 m².",
+"pizarron": "**La regla:** los máximos y mínimos están donde $f'(x) = 0$, y la segunda derivada dice cuál es cuál.\n\n**Imagínalo:** en la cima de una montaña, un instante no subes ni bajas. Ahí la derivada es 0.\n\n**Pasos:**\n\n1. Deriva.\n2. Iguala a 0 y resuelve. Son los puntos críticos.\n3. Deriva otra vez. Si da positivo, es mínimo, un valle. Si da negativo, es máximo, una cima.\n\n**Ejemplo:** $f(x) = x^3 - 3x$. $f' = 3x^2 - 3 = 0$ da $x = \\pm 1$. $f'' = 6x$: en 1 es mínimo y en $-1$ es máximo.\n\n**Problema:** corral con 40 m. $A = x(20 - x)$. $A' = 20 - 2x = 0$, y $x = 10$.\n\n**Dos números que suman algo:** el mayor producto sale con números iguales.\n\n**Para tu escuela:** dibuja una montaña y marca dónde el camino queda plano.",
 "truco": "Deriva, iguala a cero y revisa con la segunda.",
 "practica": {
 "ejercicio": "Encuentra el mínimo de $f(x) = x^2 - 6x$.",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Derivar es desarmar un mueble; integrar es armarlo de nuevo. La integral busca la función que produjo una derivada.",
-"pizarron": "**Qué es:** la integral es lo contrario de la derivada: buscas la función que al derivarse da la original.\n\nLa **integral indefinida** es la operación inversa de derivar.\n\n$$\\int f(x)\\,dx = F(x) + C \\quad \\text{si } F'(x) = f(x)$$\n\nEjemplo:\n\n$$\\int 2x\\,dx = x^2 + C$$\n\nporque $(x^2)' = 2x$.\n\n$C$ es la **constante de integración**: al derivar, cualquier constante desaparece.\n\nComprueba derivando tu resultado.\n\nCon condición: si $F' = 2x$ y $F(1) = 3$:\n\n$$1 + C = 3 \\Rightarrow C = 2$$",
+"pizarron": "**Qué es:** la integral es lo contrario de la derivada: buscas la función que al derivarse da la original.\n\n**Imagínalo:** alguien desarmó un juguete y tú lo vuelves a armar.\n\n**Regla:** sube el exponente y divide entre el nuevo.\n\n$$\\int x^2\\,dx = \\frac{x^3}{3} + C$$\n\n**En palabras:** $+C$ es un número desconocido. Al derivar, los números solos desaparecen, así que no sabemos cuál era.\n\n**Número solo:** $\\int 4\\,dx = 4x + C$.\n\n**Coseno:** como $(\\sin x)' = \\cos x$, $\\int \\cos x\\,dx$ da $\\sin x + C$.\n\n**Con condición:** si $F = x^2 + C$ y $F(1) = 3$: $1 + C = 3$, y $C = 2$.\n\n**Comprueba:** deriva tu resultado.\n\n**Para tu escuela:** deriva $x^2$ y luego regresa con la integral.",
 "truco": "Pregunta: ¿qué función al derivarla da esto?",
 "practica": {
 "ejercicio": "Calcula $\\int 3x^2\\,dx$.",
@@ -98,7 +98,7 @@
 ],
 "contenido": {
 "idea": "Integrar una potencia es derivar al revés: en lugar de bajar el exponente y restar, sumas uno y divides.",
-"pizarron": "**La regla:** la integral de $x^n$ es $\\frac{x^{n+1}}{n+1} + C$, si $n \\neq -1$.\n\nReglas:\n\n$$\\int x^n\\,dx = \\frac{x^{n+1}}{n + 1} + C \\quad (n \\ne -1)$$\n\n$$\\int \\frac{1}{x}\\,dx = \\ln|x| + C$$\n\n$$\\int e^x\\,dx = e^x + C$$\n\n$$\\int \\sin x\\,dx = -\\cos x + C$$\n\n$$\\int \\cos x\\,dx = \\sin x + C$$\n\nLa suma se integra término por término:\n\n$$\\int (3x^2 + 4x - 1)\\,dx = x^3 + 2x^2 - x + C$$\n\nLos coeficientes salen de la integral.",
+"pizarron": "**La regla:** la integral de $x^n$ es $\\frac{x^{n+1}}{n+1} + C$, si $n \\neq -1$.\n\n**En palabras:** sube el exponente uno y divide entre el nuevo.\n\n**Imagínalo:** es la derivada de reversa. Vas caminando hacia atrás.\n\n**Lista:**\n\n- $\\int e^x\\,dx = e^x + C$.\n- $\\int \\sin x\\,dx = -\\cos x + C$.\n- $\\int \\cos x\\,dx = \\sin x + C$.\n- $\\int \\frac{1}{x}\\,dx = \\ln|x| + C$.\n\n**Suma:** término por término. $\\int (3x^2 + 4x)\\,dx = x^3 + 2x^2 + C$.\n\n**Raíz y fracción:** pásalas a potencia. $\\sqrt{x} = x^{\\frac{1}{2}}$ y $\\frac{1}{x^2} = x^{-2}$.\n\n**Para tu escuela:** integra $x^3$ y compruébalo derivando.",
 "truco": "Suma uno al exponente y divide entre el nuevo.",
 "practica": {
 "ejercicio": "Calcula $\\int x^4\\,dx$.",
@@ -141,7 +141,7 @@
 ],
 "contenido": {
 "idea": "La integral definida no da una función, da un número: lo que se acumuló entre dos momentos, como litros que entraron a un tinaco.",
-"pizarron": "**La regla:** $\\int_a^b f(x)\\,dx = F(b) - F(a)$.\n\n**Teorema fundamental del cálculo**:\n\n$$\\int_a^b f(x)\\,dx = F(b) - F(a)$$\n\nEjemplo:\n\n$$\\int_1^3 2x\\,dx = [x^2]_1^3 = 9 - 1 = 8$$\n\nPasos:\n\n1. Encuentra la antiderivada.\n2. Evalúa arriba.\n3. Evalúa abajo.\n4. Resta.\n\nAquí no se escribe $+C$, porque se cancela.\n\nPropiedad: $\\int_a^a f\\,dx = 0$.\n\nInvertir límites cambia el signo.",
+"pizarron": "**La regla:** $\\int_a^b f(x)\\,dx = F(b) - F(a)$.\n\n**Imagínalo:** sabes qué tan rápido se llena una tina cada minuto. La integral dice cuánta agua juntó en total.\n\n**Pasos:**\n\n1. Busca la función que al derivarse da la tuya. Esa es $F$.\n2. Pon el número de arriba.\n3. Pon el de abajo.\n4. Resta.\n\n**Ejemplo:** $\\int_1^3 2x\\,dx$. Aquí $F = x^2$. $9 - 1 = 8$.\n\n**Regla:** sube el exponente y divide entre el nuevo. $x$ pasa a $\\frac{x^2}{2}$.\n\n**Seno:** la $F$ de $\\sin x$ es $-\\cos x$.\n\nSi los números son iguales, da 0.\n\n**Para tu escuela:** explica con una tina qué mide la integral.",
 "truco": "La de arriba menos la de abajo.",
 "practica": {
 "ejercicio": "Calcula $\\int_0^2 3x^2\\,dx$.",
@@ -185,7 +185,7 @@
 ],
 "contenido": {
 "idea": "Una región curva se puede rellenar con muchísimos rectángulos delgados. La integral suma todos esos rectángulos.",
-"pizarron": "**La regla:** el área bajo una curva entre $a$ y $b$ es la integral definida entre esos valores.\n\nSi $f(x) \\ge 0$ en $[a, b]$, el área es:\n\n$$A = \\int_a^b f(x)\\,dx$$\n\nEjemplo: área bajo $y = x^2$ entre 0 y 3.\n\n$$A = \\left[\\frac{x^3}{3}\\right]_0^3 = 9$$\n\nSi la curva está bajo el eje X, la integral sale negativa: usa valor absoluto.\n\nEntre dos curvas:\n\n$$A = \\int_a^b (\\text{arriba} - \\text{abajo})\\,dx$$\n\nEjemplo: entre $y = x$ y $y = x^2$, de 0 a 1:\n\n$$A = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$$",
+"pizarron": "**La regla:** el área bajo una curva entre $a$ y $b$ es la integral definida entre esos valores.\n\n**Imagínalo:** quieres medir un terreno con borde curvo. Lo partes en tiras delgaditas y sumas todas. Eso hace la integral.\n\n$$A = \\int_a^b f(x)\\,dx$$\n\n**En palabras:** suma de tiras desde $a$ hasta $b$.\n\n**Cómo se calcula:** busca la función de arriba, sube el exponente y divide entre el nuevo. Pon $b$, pon $a$ y resta.\n\n**Ejemplo:** $y = x^2$ de 0 a 3. Sube a $\\frac{x^3}{3}$. Con 3: 9. Con 0: 0. Área: 9.\n\n**Línea recta:** bajo $y = 3$ de 1 a 4 es un rectángulo: $3 \\times 3 = 9$.\n\n**Entre dos curvas:** la de arriba menos la de abajo, y luego integra.\n\n**Para tu escuela:** dibuja una curva en cuadros y cuenta los cuadros debajo.",
 "truco": "La de arriba menos la de abajo, e integra.",
 "practica": {
 "ejercicio": "Área bajo $y = 2x$ de 0 a 3.",
@@ -229,7 +229,7 @@
 ],
 "contenido": {
 "idea": "Si tienes 200 estaturas, no las listas todas: las agrupas por rangos. Después calculas con el centro de cada rango.",
-"pizarron": "**Qué es:** agrupar datos es juntarlos en intervalos, y usar la marca de clase como representante.\n\nPasos para agrupar:\n\n1. Rango: $R = $ máximo - mínimo.\n2. Elige número de clases $k$.\n3. Amplitud: $A = \\frac{R}{k}$.\n4. Cuenta frecuencias.\n\n**Marca de clase** ($x_c$): punto medio.\n\n**Media agrupada**:\n\n$$\\bar{x} = \\frac{\\sum f_i x_i}{n}$$\n\nEjemplo:\n\n| Clase | $f$ | $x_c$ | $f x_c$ |\n|---|---|---|---|\n| 10-20 | 3 | 15 | 45 |\n| 20-30 | 5 | 25 | 125 |\n| 30-40 | 2 | 35 | 70 |\n\n$$\\bar{x} = \\frac{240}{10} = 24$$\n\nEs una aproximación.",
+"pizarron": "**Qué es:** agrupar datos es juntarlos en intervalos, y usar la marca de clase como representante.\n\n**Imagínalo:** en vez de ver 100 calificaciones, las pones en cajas: de 10 a 20, de 20 a 30.\n\n**Pasos:**\n\n1. **Rango:** mayor menos menor.\n2. Elige cuántas cajas.\n3. **Amplitud:** rango entre cajas. 40 entre 4 dan 10.\n4. Cuenta cuántos hay en cada caja. Eso es la frecuencia $f$.\n\n**Marca de clase:** el punto medio. De 20 a 30 es 25.\n\n**Media agrupada:**\n\n$$\\bar{x} = \\frac{\\sum f\\,x}{n}$$\n\n**En palabras:** multiplica frecuencia por marca, suma todo y divide entre el total.\n\n**Ejemplo:** 3 datos con marca 10 y 1 con marca 30: $\\frac{30 + 30}{4} = 15$.\n\nEs aproximada, porque no se usan los datos exactos.\n\n**Para tu escuela:** agrupa las edades de tu familia en cajas de 10 años.",
 "truco": "Cada clase se representa con su punto medio.",
 "practica": {
 "ejercicio": "Marca de clase de 40-50.",
@@ -273,7 +273,7 @@
 ],
 "contenido": {
 "idea": "Dos grupos pueden tener el mismo promedio, pero uno muy parejo y otro muy disperso. La desviación estándar mide esa diferencia.",
-"pizarron": "**Qué es:** la varianza mide qué tan dispersos están los datos, y la desviación estándar es su raíz cuadrada.\n\n**Varianza poblacional**:\n\n$$\\sigma^2 = \\frac{\\sum (x_i - \\bar{x})^2}{n}$$\n\n**Desviación estándar**: $\\sigma = \\sqrt{\\sigma^2}$.\n\nEjemplo: 2, 4, 6.\n\n- Media 4.\n- Diferencias: -2, 0, 2.\n- Cuadrados: 4, 0, 4.\n- $\\sigma^2 = \\frac{8}{3} \\approx 2.67$.\n- $\\sigma \\approx 1.63$.\n\nPara **muestras** se divide entre $n - 1$.\n\nLa desviación está en las mismas unidades que los datos.",
+"pizarron": "**Qué es:** la varianza mide qué tan dispersos están los datos, y la desviación estándar es su raíz cuadrada.\n\n**Imagínalo:** dos salones promedian 8. En uno todos sacan 8. En otro hay 10 y 6. El segundo está más disperso.\n\n**Pasos con 2, 4, 6:**\n\n1. Promedio: 4.\n2. Diferencias: $-2, 0, 2$.\n3. Al cuadrado: 4, 0, 4.\n4. Promedio de eso: $\\frac{8}{3}$. Es la varianza.\n5. Raíz: 1.63. Es la desviación.\n\n**Si son iguales,** da 0.\n\n**En una muestra** se divide entre $n - 1$.\n\n**Para tu escuela:** compara las calificaciones de dos materias.",
 "truco": "Diferencias, cuadrados, promedio y raíz.",
 "practica": {
 "ejercicio": "Calcula $\\sigma^2$ de 1, 3.",
@@ -317,7 +317,7 @@
 ],
 "contenido": {
 "idea": "Cuando te preguntan si pasa una cosa u otra, sumas probabilidades. Pero si hay lugares que cuentan doble, los restas una vez.",
-"pizarron": "**La regla:** $P(A \\text{ o } B) = P(A) + P(B) - P(A \\text{ y } B)$.\n\n**Regla general**:\n\n$$P(A \\cup B) = P(A) + P(B) - P(A \\cap B)$$\n\nSi son excluyentes, $P(A \\cap B) = 0$.\n\nEjemplo: una carta sea as o corazón (baraja de 52).\n\n$$\\frac{4}{52} + \\frac{13}{52} - \\frac{1}{52} = \\frac{16}{52} = \\frac{4}{13}$$\n\nSe resta el as de corazones, que se contó dos veces.\n\nCon una tabla o un diagrama de Venn es más fácil ver la intersección.",
+"pizarron": "**La regla:** $P(A \\text{ o } B) = P(A) + P(B) - P(A \\text{ y } B)$.\n\n**Imagínalo:** cuentas niños con lentes o con gorra. A quien trae los dos lo contaste doble. Por eso se resta una vez.\n\n**Ejemplo:** una carta sea as o corazón.\n\n$$\\frac{4}{52} + \\frac{13}{52} - \\frac{1}{52} = \\frac{16}{52}$$\n\n**Excluyentes:** no pueden pasar juntos. Solo suma. $0.2 + 0.1 = 0.3$.\n\n**Con personas:** 10 van a futbol, 5 a música y 3 a ambos: $10 + 5 - 3 = 12$.\n\n**Con dado:** lista los números que cumplen y cuéntalos sin repetir.\n\n**Para tu escuela:** cuenta en tu salón quién trae lentes o suéter.",
 "truco": "Suma y quita lo contado dos veces.",
 "practica": {
 "ejercicio": "$P(A) = 0.5$, $P(B) = 0.4$ y $P(A \\cap B) = 0.2$. Calcula $P(A \\cup B)$.",
@@ -361,7 +361,7 @@
 ],
 "contenido": {
 "idea": "Que salga sol dos veces seguidas es más difícil que una vez. Cuando necesitas que pasen dos cosas, las probabilidades se multiplican y se hacen más chicas.",
-"pizarron": "**La regla:** para eventos independientes, $P(A \\text{ y } B) = P(A) \\cdot P(B)$.\n\n**Independientes**: uno no afecta al otro.\n\n$$P(A \\cap B) = P(A)P(B)$$\n\nEjemplo: dos soles.\n\n$$\\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$$\n\n**Dependientes**: el primero cambia el segundo.\n\n$$P(A \\cap B) = P(A)P(B|A)$$\n\nEjemplo: 2 ases sin devolución.\n\n$$\\frac{4}{52} \\times \\frac{3}{51} = \\frac{1}{221}$$\n\nPregunta clave: ¿hubo devolución?",
+"pizarron": "**La regla:** para eventos independientes, $P(A \\text{ y } B) = P(A) \\cdot P(B)$.\n\n**Imagínalo:** una moneda no se acuerda de lo que salió antes. Cada tiro es nuevo.\n\n**Independientes:** uno no afecta al otro. Dos soles: $\\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$.\n\n**Dependientes:** el primero cambia el segundo. Sacas una bola y no la devuelves: queda una menos.\n\nCon 4 rojas y 1 azul, dos rojas: $\\frac{4}{5} \\times \\frac{3}{4} = \\frac{3}{5}$.\n\n**Pregunta clave:** ¿hubo devolución?\n\n**Para tu escuela:** lanza dos monedas 20 veces y cuenta cuántas salen dos soles.",
 "truco": "Y multiplica; O suma.",
 "practica": {
 "ejercicio": "Probabilidad de sacar 6 en dos dados.",
@@ -405,7 +405,7 @@
 ],
 "contenido": {
 "idea": "Si ya sabes que está nublado, la probabilidad de lluvia cambia. La condicional actualiza lo que esperas según lo que ya ocurrió.",
-"pizarron": "**La regla:** $P(A|B) = \\frac{P(A \\text{ y } B)}{P(B)}$: la probabilidad de $A$ sabiendo que ya pasó $B$.\n\n$$P(A|B) = \\frac{P(A \\cap B)}{P(B)}$$\n\nSe lee: probabilidad de $A$ **dado que** ocurrió $B$.\n\nEjemplo:\n\n| | Aprobó | Reprobó | Total |\n|---|---|---|---|\n| Estudió | 40 | 10 | 50 |\n| No estudió | 15 | 35 | 50 |\n\n$P(\\text{aprobó}|\\text{estudió}) = \\frac{40}{50} = 0.8$.\n\nEl total se reduce al grupo que ya sabes.\n\nDos eventos son independientes si $P(A|B) = P(A)$.",
+"pizarron": "**La regla:** $P(A|B) = \\frac{P(A \\text{ y } B)}{P(B)}$: la probabilidad de $A$ sabiendo que ya pasó $B$.\n\n**Imagínalo:** alguien lanzó un dado y te dice *salió impar*. Ya no hay 6 opciones. Solo 1, 3 y 5.\n\n**En palabras:** ya no cuentas a todos, solo al grupo que sabes.\n\n**Ejemplo con tabla:** de 50 que estudiaron, 40 aprobaron. De 50 que no, 15 aprobaron.\n\n$P(\\text{aprobó}|\\text{estudió}) = \\frac{40}{50} = 0.8$.\n\n**Con números:** $P(A \\text{ y } B) = 0.3$ y $P(B) = 0.6$ dan 0.5.\n\n**Independientes:** si saber $B$ no cambia nada, $P(A|B) = P(A)$.\n\n**Para tu escuela:** con un dado escondido, calcula la probabilidad de 5 si sabes que es impar.",
 "truco": "Dado que reduce tu universo.",
 "practica": {
 "ejercicio": "$P(A \\cap B) = 0.2$ y $P(B) = 0.5$. Calcula $P(A|B)$.",
@@ -449,7 +449,7 @@
 ],
 "contenido": {
 "idea": "Sacar 80 en un examen fácil no es lo mismo que en uno difícil. El puntaje z dice qué tan lejos estás del promedio, usando la desviación como regla.",
-"pizarron": "**La regla:** $z = \\frac{x - \\mu}{\\sigma}$: dice a cuántas desviaciones está un dato de la media.\n\n$$z = \\frac{x - \\mu}{\\sigma}$$\n\nEjemplo: promedio 70, desviación 10, resultado 85.\n\n$$z = \\frac{85 - 70}{10} = 1.5$$\n\nEstás 1.5 desviaciones sobre la media.\n\nComparar: A sacó 85 ($\\mu = 70$, $\\sigma = 10$), $z = 1.5$. B sacó 90 ($\\mu = 80$, $\\sigma = 5$), $z = 2$. B fue mejor.\n\nRegla empírica en distribución normal:\n\n- 68 % entre $\\pm 1\\sigma$.\n- 95 % entre $\\pm 2\\sigma$.\n- 99.7 % entre $\\pm 3\\sigma$.",
+"pizarron": "**La regla:** $z = \\frac{x - \\mu}{\\sigma}$: dice a cuántas desviaciones está un dato de la media.\n\n**Imagínalo:** el salón promedia 70. Cada escalón mide 10. Sacaste 85: estás a escalón y medio arriba.\n\n**En palabras:** tu dato, menos el promedio, entre el tamaño del escalón. $\\mu$ es el promedio y $\\sigma$ el escalón.\n\n**Ejemplo:** $\\frac{85 - 70}{10} = 1.5$.\n\n**Negativo:** estás debajo del promedio.\n\n**Al revés:** $x = \\mu + z\\sigma$. Con 50, $z = 2$ y $\\sigma = 3$: 56.\n\n**Reparto:** 68 % queda a un escalón, 95 % a dos y 99.7 % a tres.\n\n**Para tu escuela:** calcula tu $z$ con el promedio de tu grupo.",
 "truco": "Tu dato menos el promedio, entre la desviación.",
 "practica": {
 "ejercicio": "$x = 60$, $\\mu = 50$, $\\sigma = 5$.",

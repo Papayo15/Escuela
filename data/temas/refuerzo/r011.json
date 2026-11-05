@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Un decimal ya te dice cómo escribirse como fracción: su nombre lo revela. 0.7 se lee siete décimos, y eso es justo $\\frac{7}{10}$.",
-"pizarron": "**La regla:** escribe el número sin punto sobre 10, 100 o 1000 según sus cifras decimales, y simplifica.\n\nPasos:\n\n1. Escribe las cifras decimales arriba, sin el punto.\n2. Abajo pon un 1 seguido de tantos ceros como cifras decimales.\n3. Simplifica.\n\nEjemplos:\n\n- $0.7 = \\frac{7}{10}$\n- $0.25 = \\frac{25}{100} = \\frac{1}{4}$\n- $0.125 = \\frac{125}{1000} = \\frac{1}{8}$\n\nCon parte entera, conserva el entero:\n\n$$2.5 = 2\\frac{5}{10} = 2\\frac{1}{2}$$\n\nO como fracción impropia: $\\frac{25}{10} = \\frac{5}{2}$.",
+"pizarron": "**La regla:** escribe el número sin punto sobre 10, 100 o 1000 según sus cifras decimales, y simplifica.\n\n**Imagínalo:** 0.7 se lee *siete décimos*, y así ya tienes la fracción.\n\n**Pasos:**\n\n1. Arriba, las cifras sin el punto.\n2. Abajo, un 1 con un cero por cada cifra decimal.\n3. Simplifica.\n\n**Ejemplos:**\n\n- $0.7 = \\frac{7}{10}$.\n- $0.25 = \\frac{25}{100} = \\frac{1}{4}$.\n\n**Con entero:** consérvalo. $2.5 = 2\\frac{5}{10} = 2\\frac{1}{2}$.\n\n**Para tu escuela:** escribe 0.5 como fracción.",
 "truco": "Cuantas cifras decimales, tantos ceros abajo.",
 "practica": {
 "ejercicio": "Convierte 0.6 a fracción simplificada.",
@@ -56,7 +56,7 @@
 ],
 "contenido": {
 "idea": "Si comes 7 rebanadas de pizzas partidas en 4, comiste una pizza completa y 3 rebanadas más. Son dos formas de decir lo mismo.",
-"pizarron": "**Qué es:** una fracción impropia tiene el numerador mayor que el denominador. Una mixta une un entero y una fracción.\n\nTipos:\n\n- **Propia**: numerador menor que denominador, $\\frac{3}{4}$.\n- **Impropia**: numerador mayor o igual, $\\frac{7}{4}$.\n- **Mixta**: entero y fracción, $1\\frac{3}{4}$.\n\n**De impropia a mixta**: divide.\n\n$\\frac{7}{4}$: 7 ÷ 4 = 1, residuo 3. Resultado $1\\frac{3}{4}$.\n\n**De mixta a impropia**: multiplica y suma.\n\n$2\\frac{1}{3}$:\n\n1. 2 × 3 = 6.\n2. 6 + 1 = 7.\n3. Conserva el denominador: $\\frac{7}{3}$.",
+"pizarron": "**Qué es:** una fracción impropia tiene el numerador mayor que el denominador. Una mixta une un entero y una fracción.\n\n**Imagínalo:** $\\frac{7}{4}$ son 7 rebanadas de pizzas de 4. Es 1 pizza entera y 3 rebanadas.\n\n**Propia:** arriba menor. **Impropia:** arriba mayor o igual. $\\frac{4}{4}$ vale 1.\n\n**De impropia a mixta:** divide. $7 \\div 4 = 1$ y sobran 3: $1\\frac{3}{4}$.\n\n**De mixta a impropia:** multiplica y suma. $2\\frac{1}{3}$: $2 \\times 3 + 1 = 7$. Queda $\\frac{7}{3}$.\n\n**Para tu escuela:** dibuja $\\frac{5}{2}$ con pizzas.",
 "truco": "Del entero al numerador: multiplica por abajo y suma el de arriba.",
 "practica": {
 "ejercicio": "Convierte $\\frac{11}{3}$ a mixta.",
@@ -100,7 +100,7 @@
 ],
 "contenido": {
 "idea": "Decir cuatro octavos de pizza es complicado si puedes decir media pizza. Simplificar es usar los números más pequeños sin cambiar la cantidad.",
-"pizarron": "**La regla:** para simplificar, divide el numerador y el denominador entre el mismo número hasta que ya no se pueda.\n\n**Simplificar** es dividir numerador y denominador entre el mismo número.\n\nEjemplo:\n\n$$\\frac{12}{18} = \\frac{12\\div2}{18\\div2} = \\frac{6}{9} = \\frac{6\\div3}{9\\div3} = \\frac{2}{3}$$\n\nPasos:\n\n1. Busca un número que divida a ambos.\n2. Divide los dos.\n3. Repite hasta que no se pueda más.\n\nLa fracción final es **irreducible**.\n\nDe una sola vez: divide entre el máximo común divisor. El MCD de 12 y 18 es 6: $\\frac{12}{18} = \\frac{2}{3}$.\n\nPistas: dos números pares se dividen entre 2; dos que terminan en 0 o 5, entre 5.",
+"pizarron": "**La regla:** para simplificar, divide el numerador y el denominador entre el mismo número hasta que ya no se pueda.\n\n**Imagínalo:** es la misma pizza con pedazos más grandes. $\\frac{2}{4}$ es lo mismo que $\\frac{1}{2}$.\n\n**Ejemplo:** $\\frac{12}{18} = \\frac{6}{9} = \\frac{2}{3}$.\n\n**Pistas:** dos pares, entre 2. Dos que terminan en 0 o 5, entre 5.\n\nCuando solo el 1 divide a ambos, ya no se puede. Se llama **irreducible**.\n\n**Para tu escuela:** simplifica $\\frac{4}{8}$ doblando una hoja.",
 "truco": "Divide arriba y abajo por el mismo número hasta que ya no se pueda.",
 "practica": {
 "ejercicio": "Simplifica $\\frac{8}{12}$.",
@@ -145,7 +145,7 @@
 ],
 "contenido": {
 "idea": "Los números primos son como ladrillos que no se pueden romper. Con ellos se construyen todos los demás, que son los compuestos.",
-"pizarron": "**Qué es:** un número primo solo se divide entre 1 y entre sí mismo. Un número compuesto tiene más divisores.\n\n- **Primo**: solo tiene 2 divisores, el 1 y él mismo.\n- **Compuesto**: tiene más de 2 divisores.\n- El **1** no es primo ni compuesto.\n\nPrimos hasta 50:\n\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47.\n\nEl 2 es el único primo par.\n\n**Descomposición en factores primos**: divide entre primos hasta llegar a 1.\n\nEjemplo con 60:\n\n- 60 ÷ 2 = 30\n- 30 ÷ 2 = 15\n- 15 ÷ 3 = 5\n- 5 ÷ 5 = 1\n\nEntonces $60 = 2 \\times 2 \\times 3 \\times 5$.",
+"pizarron": "**Qué es:** un número primo solo se divide entre 1 y entre sí mismo. Un número compuesto tiene más divisores.\n\n**Imagínalo:** con 7 fichas solo formas una fila. Con 6 fichas formas 2 filas de 3. El 7 es primo y el 6 es compuesto.\n\nEl **1** no es primo ni compuesto. El 2 es el único primo par.\n\n**Primos hasta 30:** 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.\n\n**Factores primos:** divide entre primos hasta llegar a 1.\n\n$60 = 2 \\times 2 \\times 3 \\times 5$.\n\n**Para tu escuela:** acomoda 12 fichas en filas iguales de varias formas.",
 "truco": "Primo solo se divide entre 1 y entre él mismo.",
 "practica": {
 "ejercicio": "¿Es 21 primo o compuesto?",
@@ -191,7 +191,7 @@
 ],
 "contenido": {
 "idea": "Hay trucos para saber si un número se divide exacto sin hacer la división. Es como saber si un pan está listo con solo mirarlo.",
-"pizarron": "**La regla:** un número se divide entre 2 si es par; entre 3 si sus cifras suman múltiplo de 3; entre 5 si termina en 0 o 5; entre 10 si termina en 0.\n\nUn número es divisible:\n\n| Entre | Regla | Ejemplo |\n|---|---|---|\n| 2 | Termina en 0, 2, 4, 6 u 8 | 348 |\n| 3 | La suma de cifras es múltiplo de 3 | 411 → 6 |\n| 4 | Sus dos últimas cifras son múltiplo de 4 | 716 → 16 |\n| 5 | Termina en 0 o 5 | 235 |\n| 6 | Es divisible entre 2 y entre 3 | 126 |\n| 9 | La suma de cifras es múltiplo de 9 | 729 → 18 |\n| 10 | Termina en 0 | 450 |\n\nEjemplo: ¿2 358 es divisible entre 9?\n\n2 + 3 + 5 + 8 = 18. Como 18 es múltiplo de 9, sí lo es.",
+"pizarron": "**La regla:** un número se divide entre 2 si es par; entre 3 si sus cifras suman múltiplo de 3; entre 5 si termina en 0 o 5; entre 10 si termina en 0.\n\nUn número es divisible:\n\n| Entre | Regla | Ejemplo |\n|---|---|---|\n| 2 | Termina en 0, 2, 4, 6 u 8 | 348 |\n| 3 | La suma de cifras es múltiplo de 3 | 411 → 6 |\n| 4 | Sus dos últimas cifras son múltiplo de 4 | 716 → 16 |\n| 5 | Termina en 0 o 5 | 235 |\n| 6 | Es divisible entre 2 y entre 3 | 126 |\n| 9 | La suma de cifras es múltiplo de 9 | 729 → 18 |\n| 10 | Termina en 0 | 450 |\n\nEjemplo: ¿2 358 es divisible entre 9?\n\n2 + 3 + 5 + 8 = 18. Como 18 es múltiplo de 9, sí lo es.\n\n**Para tu escuela:** revisa si tu grupo se puede partir en equipos de 3.",
 "truco": "Para 3 y para 9, suma las cifras.",
 "practica": {
 "ejercicio": "¿Es 531 divisible entre 3?",
@@ -235,7 +235,7 @@
 ],
 "contenido": {
 "idea": "Un camión pasa cada 4 minutos y otro cada 6. ¿Cuándo vuelven a coincidir? A los 12 minutos. Ese encuentro es el mínimo común múltiplo.",
-"pizarron": "**Qué es:** el mínimo común múltiplo es el múltiplo más pequeño que tienen en común dos o más números.\n\nEl **mcm** es el número más pequeño, distinto de cero, que es múltiplo de dos o más números.\n\n**Método 1: listas**. mcm de 4 y 6.\n\n- Múltiplos de 4: 4, 8, **12**, 16...\n- Múltiplos de 6: 6, **12**, 18...\n- mcm = 12.\n\n**Método 2: tabla**. mcm de 12 y 18.\n\n```\n12  18 | 2\n 6   9 | 2\n 3   9 | 3\n 1   3 | 3\n 1   1 |\n```\n\nMultiplica la columna derecha: 2 × 2 × 3 × 3 = **36**.\n\nSirve para sumar fracciones con distinto denominador y para problemas de cosas que coinciden.",
+"pizarron": "**Qué es:** el mínimo común múltiplo es el múltiplo más pequeño que tienen en común dos o más números.\n\nEl **mcm** es el número más pequeño, distinto de cero, que es múltiplo de dos o más números.\n\n**Método 1: listas**. mcm de 4 y 6.\n\n- Múltiplos de 4: 4, 8, **12**, 16...\n- Múltiplos de 6: 6, **12**, 18...\n- mcm = 12.\n\n**Método 2: tabla**. mcm de 12 y 18.\n\n```\n12  18 | 2\n 6   9 | 2\n 3   9 | 3\n 1   3 | 3\n 1   1 |\n```\n\nMultiplica la columna derecha: 2 × 2 × 3 × 3 = **36**.\n\nSirve para sumar fracciones con distinto denominador y para problemas de cosas que coinciden.\n\n**Para tu escuela:** calcula cuándo coinciden dos eventos que se repiten cada 2 y cada 3 días.",
 "truco": "Si la pregunta habla de coincidir otra vez, usa mcm.",
 "practica": {
 "ejercicio": "Calcula el mcm de 3 y 5.",
@@ -280,7 +280,7 @@
 ],
 "contenido": {
 "idea": "Tienes 12 manzanas y 18 peras, y quieres armar canastas iguales sin que sobre nada. El número máximo de canastas posibles es el máximo común divisor.",
-"pizarron": "**Qué es:** el máximo común divisor es el divisor más grande que tienen en común dos o más números.\n\nEl **MCD** es el número más grande que divide exacto a dos o más números.\n\n**Método 1: listas**. MCD de 12 y 18.\n\n- Divisores de 12: 1, 2, 3, 4, **6**, 12.\n- Divisores de 18: 1, 2, 3, **6**, 9, 18.\n- MCD = 6.\n\n**Método 2: tabla**, dividiendo ambos solo entre números comunes:\n\n```\n24  36 | 2\n12  18 | 2\n 6   9 | 3\n 2   3 |\n```\n\nMCD = 2 × 2 × 3 = **12**.\n\nSirve para simplificar fracciones y para repartir en grupos iguales lo más grandes posible.",
+"pizarron": "**Qué es:** el máximo común divisor es el divisor más grande que tienen en común dos o más números.\n\nEl **MCD** es el número más grande que divide exacto a dos o más números.\n\n**Método 1: listas**. MCD de 12 y 18.\n\n- Divisores de 12: 1, 2, 3, 4, **6**, 12.\n- Divisores de 18: 1, 2, 3, **6**, 9, 18.\n- MCD = 6.\n\n**Método 2: tabla**, dividiendo ambos solo entre números comunes:\n\n```\n24  36 | 2\n12  18 | 2\n 6   9 | 3\n 2   3 |\n```\n\nMCD = 2 × 2 × 3 = **12**.\n\nSirve para simplificar fracciones y para repartir en grupos iguales lo más grandes posible.\n\n**Para tu escuela:** reparte 12 lápices y 18 gomas en paquetes iguales.",
 "truco": "MCD reparte y simplifica; mcm hace coincidir.",
 "practica": {
 "ejercicio": "Calcula el MCD de 20 y 30.",
@@ -324,7 +324,7 @@
 ],
 "contenido": {
 "idea": "Para saber quién es más alto, ambos se paran en el mismo piso. Para comparar fracciones, primero las pones en el mismo denominador.",
-"pizarron": "**La regla:** primero convierte las fracciones a un mismo denominador y luego compara los numeradores.\n\n**Método 1: común denominador**. Compara $\\frac{2}{3}$ y $\\frac{3}{5}$.\n\n1. mcm de 3 y 5: 15.\n2. $\\frac{2}{3} = \\frac{10}{15}$ y $\\frac{3}{5} = \\frac{9}{15}$.\n3. Compara numeradores: 10 > 9.\n\nEntonces $\\frac{2}{3} > \\frac{3}{5}$.\n\n**Método 2: cruzado**. Multiplica en cruz:\n\n- 2 × 5 = 10\n- 3 × 3 = 9\n- El lado con 10 es mayor.\n\n**Método 3: decimales**. $\\frac{2}{3} \\approx 0.67$ y $\\frac{3}{5} = 0.6$.",
+"pizarron": "**La regla:** primero convierte las fracciones a un mismo denominador y luego compara los numeradores.\n\n**Imagínalo:** no puedes comparar rebanadas de distinto tamaño. Primero las cortas igual.\n\n**Ejemplo:** $\\frac{2}{3}$ y $\\frac{3}{5}$.\n\n1. Denominador común: 15.\n2. $\\frac{10}{15}$ y $\\frac{9}{15}$.\n3. 10 es mayor, así que gana $\\frac{2}{3}$.\n\n**Atajo en cruz:** $2 \\times 5 = 10$ y $3 \\times 3 = 9$. Cada resultado queda del lado de su numerador.\n\n**Para ordenar varias,** compáralas de dos en dos.\n\n**Para tu escuela:** dobla dos hojas y compara $\\frac{1}{2}$ con $\\frac{1}{3}$.",
 "truco": "Multiplica en cruz y cada resultado queda del lado de su numerador.",
 "practica": {
 "ejercicio": "Compara $\\frac{3}{4}$ y $\\frac{5}{7}$.",
@@ -368,7 +368,7 @@
 ],
 "contenido": {
 "idea": "No puedes juntar pesos con dólares sin convertirlos. Tampoco tercios con cuartos: primero los conviertes a piezas del mismo tamaño.",
-"pizarron": "**La regla:** busca un denominador común, convierte las fracciones y suma los numeradores.\n\nPasos para $\\frac{2}{3} + \\frac{1}{4}$:\n\n1. Busca el mcm de los denominadores: mcm(3, 4) = 12.\n2. Convierte cada fracción:\n\n$$\\frac{2}{3} = \\frac{8}{12} \\qquad \\frac{1}{4} = \\frac{3}{12}$$\n\n3. Suma los numeradores:\n\n$$\\frac{8}{12} + \\frac{3}{12} = \\frac{11}{12}$$\n\nAl convertir: divide el denominador común entre el de abajo y multiplica por el de arriba. Para $\\frac{2}{3}$: 12 ÷ 3 = 4 y 4 × 2 = 8.\n\nAl final, simplifica si se puede y convierte a mixta si se pasa de 1.\n\nError común: sumar $\\frac{2+1}{3+4}$. Eso no es correcto.",
+"pizarron": "**La regla:** busca un denominador común, convierte las fracciones y suma los numeradores.\n\n**Imagínalo:** para sumar medias y tercios, córtalos en sextos.\n\n**Ejemplo:** $\\frac{2}{3} + \\frac{1}{4}$.\n\n1. Común: 12.\n2. $\\frac{2}{3} = \\frac{8}{12}$ y $\\frac{1}{4} = \\frac{3}{12}$.\n3. Suma: $\\frac{11}{12}$.\n\n**Convertir:** divide el común entre el de abajo y multiplica por el de arriba.\n\n**Si se pasa de 1:** conviértela a mixta. $\\frac{5}{4} = 1\\frac{1}{4}$.\n\n**Error común:** sumar también abajo.\n\n**Para tu escuela:** suma $\\frac{1}{2} + \\frac{1}{4}$ con una hoja doblada.",
 "truco": "Primero mismo denominador; después sumas arriba.",
 "practica": {
 "ejercicio": "Resuelve $\\frac{1}{2} + \\frac{1}{3}$",

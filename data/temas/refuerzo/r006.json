@@ -13,7 +13,7 @@
 ],
 "contenido": {
 "idea": "Partes una barra de chocolate en 4 trozos iguales y te comes 1. Te comiste 1/4. Una fracción dice cuántas partes tomas de un todo dividido en partes iguales.",
-"pizarron": "**Qué es:** una fracción indica una o varias partes iguales de un entero.\n\nUna **fracción** representa partes iguales de un entero.\n\n$$\\frac{3}{4}$$\n\n- **Denominador** (4, abajo): en cuántas partes iguales se divide.\n- **Numerador** (3, arriba): cuántas partes se toman.\n\nEjemplos:\n\n- Pizza en 8 rebanadas, comes 3: $\\frac{3}{8}$.\n- Grupo de 5 alumnos, 2 son niñas: $\\frac{2}{5}$ del grupo.\n\nCondición clave: **las partes deben ser iguales**.\n\nCasos especiales:\n\n- $\\frac{4}{4}$ es un entero completo.\n- $\\frac{0}{4}$ es nada.",
+"pizarron": "**Qué es:** una fracción indica una o varias partes iguales de un entero.\n\n**Imagínalo:** cortas una pizza en 8 rebanadas iguales y comes 3: $\\frac{3}{8}$.\n\n**Denominador (abajo):** en cuántas partes iguales se dividió.\n\n**Numerador (arriba):** cuántas partes se toman.\n\nLas partes deben ser iguales.\n\n**También con grupos:** de 5 niños, 2 son niñas: $\\frac{2}{5}$.\n\n**Lo que falta:** de 8 rebanadas, si quedan 3, se comieron $\\frac{5}{8}$.\n\n**Para tu escuela:** dobla una hoja en 4 y colorea $\\frac{3}{4}$.",
 "truco": "Denominador abajo, en cuántas se dividió; numerador arriba, cuántas tomaste.",
 "practica": {
 "ejercicio": "Un pastel se corta en 6 partes iguales y sobran 5. ¿Qué fracción se comió?",
@@ -60,7 +60,7 @@
 ],
 "contenido": {
 "idea": "Cada fracción tiene su apellido según en cuántas partes se divide. Una pizza en 4 son cuartos, en 8 son octavos. Primero dices cuántas, luego el apellido.",
-"pizarron": "**La regla:** una fracción se lee diciendo primero el numerador y después el nombre del denominador: $\\frac{3}{4}$ es tres cuartos.\n\nSe lee primero el **numerador** y después el nombre del **denominador**.\n\n| Denominador | Nombre |\n|---|---|\n| 2 | medios |\n| 3 | tercios |\n| 4 | cuartos |\n| 5 | quintos |\n| 6 | sextos |\n| 7 | séptimos |\n| 8 | octavos |\n| 9 | novenos |\n| 10 | décimos |\n\nDel 11 en adelante se agrega **-avos**: onceavos, doceavos.\n\nEjemplos:\n\n- $\\frac{3}{5}$: tres quintos.\n- $\\frac{1}{2}$: un medio.\n- $\\frac{7}{10}$: siete décimos.\n- $\\frac{5}{12}$: cinco doceavos.\n- $\\frac{3}{100}$: tres centésimos.",
+"pizarron": "**La regla:** una fracción se lee diciendo primero el numerador y después el nombre del denominador: $\\frac{3}{4}$ es tres cuartos.\n\n**Nombres:** 2 medios, 3 tercios, 4 cuartos, 5 quintos, 6 sextos, 7 séptimos, 8 octavos, 9 novenos, 10 décimos.\n\nDel 11 en adelante se agrega **-avos**: onceavos, doceavos.\n\n**Ejemplos:**\n\n- $\\frac{1}{2}$: un medio.\n- $\\frac{3}{5}$: tres quintos.\n- $\\frac{5}{12}$: cinco doceavos.\n\n**Para tu escuela:** lee en voz alta cinco fracciones de tu libro.",
 "truco": "Después del 10, solo agrega -avos.",
 "practica": {
 "ejercicio": "¿Cómo se lee $\\frac{4}{7}$?",
@@ -105,7 +105,7 @@
 ],
 "contenido": {
 "idea": "Si tú comes 3 rebanadas iguales y yo 2, comiste más. Pero entre partir una pizza en 4 o en 8, cada trozo de 4 es mayor. El tamaño de los trozos importa.",
-"pizarron": "**La regla:** con el mismo denominador, es mayor la que tiene mayor numerador. Con el mismo numerador, es mayor la que tiene menor denominador.\n\n**Caso 1: mismo denominador.** Los trozos son iguales, gana quien tiene más.\n\n$$\\frac{5}{8} > \\frac{3}{8}$$\n\n**Caso 2: mismo numerador.** Se toma el mismo número de trozos, pero con más divisiones los trozos son más chicos. Gana el **denominador menor**.\n\n$$\\frac{1}{3} > \\frac{1}{5}$$\n\n**Caso 3: comparar con 1/2.** Si el numerador es más de la mitad del denominador, la fracción es mayor que un medio.\n\n- $\\frac{5}{8}$ es mayor que $\\frac{1}{2}$.\n- $\\frac{2}{7}$ es menor que $\\frac{1}{2}$.\n\nAsí sabes que $\\frac{5}{8} > \\frac{2}{7}$.",
+"pizarron": "**La regla:** con el mismo denominador, es mayor la que tiene mayor numerador. Con el mismo numerador, es mayor la que tiene menor denominador.\n\n**Mismo denominador:** las rebanadas son iguales. Gana quien tiene más.\n\n$$\\frac{5}{8} > \\frac{3}{8}$$\n\n**Mismo numerador:** entre más cortes, rebanada más chica.\n\n$$\\frac{1}{3} > \\frac{1}{5}$$\n\nUna pizza entre 3 da más que entre 5.\n\n**Para tu escuela:** dobla una hoja en 2 y otra en 4, y compara.",
 "truco": "Abajo más grande, trozo más chico.",
 "practica": {
 "ejercicio": "¿Qué es mayor: $\\frac{1}{2}$ o $\\frac{1}{4}$?",
@@ -150,7 +150,7 @@
 ],
 "contenido": {
 "idea": "Media pizza partida en dos trozos o en cuatro sigue siendo media pizza. Cambian los trozos, pero la cantidad que comes es la misma.",
-"pizarron": "**Qué es:** dos fracciones son equivalentes cuando representan la misma cantidad aunque tengan números distintos.\n\nDos fracciones son **equivalentes** si representan la misma cantidad.\n\nCon una barra:\n\n```\n[#####|     ]        1/2\n[##|##|  |  ]        2/4\n[#|#|#|#| | | | ]    4/8\n```\n\nSe obtienen multiplicando arriba y abajo por el mismo número:\n\n$$\\frac{1}{2} = \\frac{1\\times2}{2\\times2} = \\frac{2}{4}$$\n\nTambién se puede dividir arriba y abajo:\n\n$$\\frac{6}{8} = \\frac{6\\div2}{8\\div2} = \\frac{3}{4}$$\n\nEjemplos de $\\frac{1}{3}$: $\\frac{2}{6}$, $\\frac{3}{9}$, $\\frac{4}{12}$.",
+"pizarron": "**Qué es:** dos fracciones son equivalentes cuando representan la misma cantidad aunque tengan números distintos.\n\n**Imagínalo:** media barra de chocolate es lo mismo que 2 de 4 cuadritos.\n\n```\n[#####|     ]        1/2\n[##|##|  |  ]        2/4\n```\n\n**Multiplica** arriba y abajo por lo mismo: $\\frac{1}{2} = \\frac{2}{4}$.\n\n**Divide** arriba y abajo: $\\frac{6}{8} = \\frac{3}{4}$.\n\n**Para completar:** mira por cuánto se multiplicó abajo, y haz igual arriba.\n\n**Para tu escuela:** colorea una barra y dóblala para ver equivalentes.",
 "truco": "Lo que haces arriba, hazlo abajo y la fracción vale igual.",
 "practica": {
 "ejercicio": "Encuentra una fracción equivalente a $\\frac{2}{3}$.",
@@ -194,7 +194,7 @@
 ],
 "contenido": {
 "idea": "Una fracción también es un lugar en un camino. Si caminas de tu casa a la escuela y llevas la mitad del camino, estás en 1/2.",
-"pizarron": "**La regla:** para ubicar una fracción, parte el espacio entre 0 y 1 en tantas partes como diga el denominador y avanza las que diga el numerador.\n\nPara ubicar una fracción:\n\n1. Marca el 0 y el 1.\n2. Divide el espacio en partes iguales según el **denominador**.\n3. Cuenta desde el 0 tantos saltos como diga el **numerador**.\n\nEjemplo: $\\frac{3}{4}$\n\n```\n0    1/4   2/4   3/4    1\n|-----|-----|-----|-----|\n                  ^\n```\n\nCuatro partes, tres saltos.\n\nLas fracciones pueden ser mayores que 1: $\\frac{5}{4}$ está un cuarto después del 1.\n\nDos fracciones equivalentes caen en el **mismo punto**: $\\frac{2}{4}$ y $\\frac{1}{2}$.",
+"pizarron": "**La regla:** para ubicar una fracción, parte el espacio entre 0 y 1 en tantas partes como diga el denominador y avanza las que diga el numerador.\n\n**Imagínalo:** el de abajo corta el camino, y el de arriba lo camina.\n\n**Ejemplo:** $\\frac{3}{4}$.\n\n```\n0    1/4   2/4   3/4    1\n|-----|-----|-----|-----|\n```\n\n**Primera marca:** con 3 partes, $\\frac{1}{3}$.\n\n**Mayores que 1:** si arriba es mayor, queda después del 1. $\\frac{5}{4}$ está un cuarto después.\n\n**Equivalentes:** caen en el mismo punto. $\\frac{2}{4}$ y $\\frac{1}{2}$.\n\n**Para tu escuela:** dibuja una recta y ubica $\\frac{1}{2}$.",
 "truco": "El denominador corta el camino; el numerador lo camina.",
 "practica": {
 "ejercicio": "¿Cuántas partes debes marcar entre 0 y 1 para ubicar $\\frac{2}{5}$?",
@@ -238,7 +238,7 @@
 ],
 "contenido": {
 "idea": "Sumar con miles es lo mismo que sumar con decenas, solo que la columna es más alta. Cada lugar trabaja con su propio equipo, de derecha a izquierda.",
-"pizarron": "**La regla:** se acomodan los números por columnas y se suma de derecha a izquierda, llevando cuando la columna da 10 o más.\n\nPasos:\n\n1. Acomoda los números por columnas, alineados a la derecha.\n2. Suma de derecha a izquierda.\n3. Si una columna da 10 o más, lleva 1 a la siguiente.\n\nEjemplo: 3 478 + 2 756\n\n```\n  1 1 1\n  3 4 7 8\n+ 2 7 5 6\n---------\n  6 2 3 4\n```\n\n- Unidades: 8 + 6 = 14, escribe 4, lleva 1.\n- Decenas: 1 + 7 + 5 = 13, escribe 3, lleva 1.\n- Centenas: 1 + 4 + 7 = 12, escribe 2, lleva 1.\n- Millares: 1 + 3 + 2 = 6.\n\nResultado: 6 234.\n\nRevisa estimando: 3 500 + 2 800 es cerca de 6 300.",
+"pizarron": "**La regla:** se acomodan los números por columnas y se suma de derecha a izquierda, llevando cuando la columna da 10 o más.\n\nPasos:\n\n1. Acomoda los números por columnas, alineados a la derecha.\n2. Suma de derecha a izquierda.\n3. Si una columna da 10 o más, lleva 1 a la siguiente.\n\nEjemplo: 3 478 + 2 756\n\n```\n  1 1 1\n  3 4 7 8\n+ 2 7 5 6\n---------\n  6 2 3 4\n```\n\n- Unidades: 8 + 6 = 14, escribe 4, lleva 1.\n- Decenas: 1 + 7 + 5 = 13, escribe 3, lleva 1.\n- Centenas: 1 + 4 + 7 = 12, escribe 2, lleva 1.\n- Millares: 1 + 3 + 2 = 6.\n\nResultado: 6 234.\n\nRevisa estimando: 3 500 + 2 800 es cerca de 6 300.\n\n**Para tu escuela:** suma las páginas de tus libros.",
 "truco": "Alinea a la derecha, nunca a la izquierda.",
 "practica": {
 "ejercicio": "Resuelve 4 562 + 1 379",
@@ -282,7 +282,7 @@
 ],
 "contenido": {
 "idea": "Una resta grande es igual a una pequeña: cada columna resuelve su parte y, si le falta, le pide a la de su izquierda.",
-"pizarron": "**La regla:** se acomodan los números por columnas y se resta de derecha a izquierda, pidiendo prestado cuando haga falta.\n\nPasos:\n\n1. Coloca el número mayor arriba y alinea a la derecha.\n2. Resta de derecha a izquierda.\n3. Si la cifra de arriba es menor, pide prestado.\n\nEjemplo: 5 243 - 2 678\n\n- Unidades: 3 - 8 no se puede. Pide: 13 - 8 = 5. El 4 baja a 3.\n- Decenas: 3 - 7 no se puede. Pide: 13 - 7 = 6. El 2 baja a 1.\n- Centenas: 1 - 6 no se puede. Pide: 11 - 6 = 5. El 5 baja a 4.\n- Millares: 4 - 2 = 2.\n\nResultado: **2 565**.\n\nComprueba: 2 565 + 2 678 = 5 243.",
+"pizarron": "**La regla:** se acomodan los números por columnas y se resta de derecha a izquierda, pidiendo prestado cuando haga falta.\n\nPasos:\n\n1. Coloca el número mayor arriba y alinea a la derecha.\n2. Resta de derecha a izquierda.\n3. Si la cifra de arriba es menor, pide prestado.\n\nEjemplo: 5 243 - 2 678\n\n- Unidades: 3 - 8 no se puede. Pide: 13 - 8 = 5. El 4 baja a 3.\n- Decenas: 3 - 7 no se puede. Pide: 13 - 7 = 6. El 2 baja a 1.\n- Centenas: 1 - 6 no se puede. Pide: 11 - 6 = 5. El 5 baja a 4.\n- Millares: 4 - 2 = 2.\n\nResultado: **2 565**.\n\nComprueba: 2 565 + 2 678 = 5 243.\n\n**Para tu escuela:** calcula cuántos años pasaron desde 1810.",
 "truco": "Si no alcanza, pide a la izquierda y comprueba sumando.",
 "practica": {
 "ejercicio": "Resuelve 7 320 - 4 158",
@@ -326,7 +326,7 @@
 ],
 "contenido": {
 "idea": "Si te comes 2 rebanadas de pizza y tu hermano 3 de la misma pizza, juntos comieron 5 rebanadas. El tamaño de la rebanada no cambia.",
-"pizarron": "**La regla:** si las fracciones tienen el mismo denominador, se suman los numeradores y el denominador se queda igual.\n\nCuando dos fracciones tienen el mismo denominador:\n\n1. **Suma los numeradores**.\n2. **Deja el denominador igual**.\n\n$$\\frac{2}{8} + \\frac{3}{8} = \\frac{5}{8}$$\n\nEl denominador dice de qué tamaño son las partes y ese tamaño no cambia.\n\nError común: sumar también el denominador. $\\frac{2}{8}+\\frac{3}{8}$ no es $\\frac{5}{16}$.\n\nSi el resultado se pasa de un entero:\n\n$$\\frac{3}{4} + \\frac{2}{4} = \\frac{5}{4} = 1\\frac{1}{4}$$\n\nSi se puede, simplifica: $\\frac{2}{6}+\\frac{1}{6} = \\frac{3}{6} = \\frac{1}{2}$.",
+"pizarron": "**La regla:** si las fracciones tienen el mismo denominador, se suman los numeradores y el denominador se queda igual.\n\n**Imagínalo:** 2 rebanadas de 8 y 3 rebanadas de 8 son 5 rebanadas de 8. El tamaño no cambió.\n\n$$\\frac{2}{8} + \\frac{3}{8} = \\frac{5}{8}$$\n\n**Error común:** sumar también abajo.\n\n**Si se pasa de 1:** $\\frac{5}{4} = 1\\frac{1}{4}$.\n\n**Simplifica:** $\\frac{3}{6} = \\frac{1}{2}$.\n\n**Para tu escuela:** suma rebanadas de una pizza de papel.",
 "truco": "Mismo apellido abajo: solo suma arriba.",
 "practica": {
 "ejercicio": "Resuelve $\\frac{1}{5} + \\frac{3}{5}$",

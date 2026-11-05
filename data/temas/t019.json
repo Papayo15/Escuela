@@ -1,466 +1,466 @@
 [
-  {
-    "nodo_id": "f3-073",
-    "titulo": "Propuestas de mejora en casa y en la escuela",
-    "slug": "propuestas-mejora-entorno-primaria-1-2",
-    "palabras": [
-      "mejorar mi escuela",
-      "ideas",
-      "problemas",
-      "familia",
-      "propuesta"
-    ],
-    "contenido": {
-      "idea": "Si tu cuarto está desordenado, no basta con quejarte: piensas en un plan, como poner una caja para los juguetes, y lo haces. Mejorar casa y escuela es igual.",
-      "pizarron": "**Qué es:** una propuesta es una idea para mejorar tu lugar.\n\n**Pasos:**\n\n1. Observa el problema. Hay basura en el patio.\n2. Piensa qué se puede hacer.\n3. Di tu propuesta: *Propongo poner un bote y turnarnos para vaciarlo*.\n\n**Una buena propuesta** dice qué hacer, se puede cumplir y no lastima a nadie.\n\n*Que nadie ensucie* no dice qué hacer.\n\n**Para tu escuela:** di cómo mejorar tu salón.",
-      "truco": "Observo, imagino, elijo, hago.",
-      "practica": {
-        "ejercicio": "En tu salón hay mucho ruido a la hora de la salida. Escribe una propuesta de mejora.",
-        "respuesta": "Ejemplo: \"Propongo que salgamos en fila y en silencio, un grupo a la vez\". Es buena si dice qué hacer, es posible y no lastima a nadie."
-      },
-      "analogias": [
-        {
-          "titulo": "El jardín",
-          "texto": "Un jardín mejora cuando alguien nota la hierba seca y decide regar. Tu escuela también mejora cuando alguien nota un problema y actúa."
-        },
-        {
-          "titulo": "El equipo de futbol",
-          "texto": "Si el equipo pierde, se cambia la estrategia. Así, cuando algo no funciona en casa, se prueba una idea nueva entre todos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Nombra un problema que veas en tu casa y una propuesta para resolverlo.",
-          "respuesta": "Respuesta libre. Ejemplo: los zapatos están tirados; propongo un lugar fijo para guardarlos."
-        },
-        {
-          "ejercicio": "¿Cuál es el primer paso para proponer una mejora?",
-          "respuesta": "Observar el problema."
-        },
-        {
-          "ejercicio": "¿Cuál propuesta es mejor: \"Que nadie ensucie\" o \"Poner un bote en el patio y turnarnos para vaciarlo\"? Explica.",
-          "respuesta": "La segunda, porque es concreta y posible de hacer."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-074",
-    "titulo": "Canciones, rondas, arrullos y cuentos",
-    "slug": "canciones-rondas-arrullos-cuentos-primaria-1-2",
-    "palabras": [
-      "rondas infantiles",
-      "arrullo",
-      "cuentos",
-      "canciones",
-      "rima",
-      "apreciar"
-    ],
-    "contenido": {
-      "idea": "Cuando te cantan para dormir, la voz suave te tranquiliza. Las canciones, rondas y cuentos son juegos con palabras que se escuchan y se disfrutan.",
-      "pizarron": "**Qué es:** son textos con ritmo que se comparten en familia.\n\n**Ronda:** se canta en círculo.\n\n**Arrullo:** para dormir.\n\n**Para recordar:**\n- **Estribillo de una canción:** La parte que se repite.\n\n**Para tu escuela:** canta una ronda y dibújala.",
-      "truco": "Escucho, noto, siento y comparto.",
-      "practica": {
-        "ejercicio": "Di dos palabras que rimen con \"luna\" y para qué sirve un arrullo.",
-        "respuesta": "Cuna y una (también tuna). El arrullo sirve para calmar y dormir a un bebé."
-      },
-      "analogias": [
-        {
-          "titulo": "Comer algo rico",
-          "texto": "Apreciar una canción es como saborear tu comida favorita: vas despacio y notas lo que más te gusta."
-        },
-        {
-          "titulo": "Un abrazo",
-          "texto": "Un arrullo es un abrazo hecho de sonidos: suave, cálido y lento."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es el estribillo de una canción?",
-          "respuesta": "La parte que se repite."
-        },
-        {
-          "ejercicio": "¿Qué ronda conoces? Di una parte y cómo se juega.",
-          "respuesta": "Respuesta libre. Ejemplo: \"A la rueda de San Miguel\"; se juega en círculo tomados de las manos."
-        },
-        {
-          "ejercicio": "¿Cuál es un cuento: una lista de compras o una historia con inicio, problema y final?",
-          "respuesta": "La historia con inicio, problema y final."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-075",
-    "titulo": "Sonidos en poemas, rimas y canciones",
-    "slug": "elementos-sonoros-composiciones-literarias-primaria-1-2",
-    "palabras": [
-      "rima",
-      "ritmo",
-      "repetición",
-      "onomatopeya",
-      "juego de palabras",
-      "poema"
-    ],
-    "contenido": {
-      "idea": "Las palabras también suenan, como instrumentos. Con ellas puedes hacer tamborazos, susurros y cosquillas en el oído.",
-      "pizarron": "**Qué es:** el ritmo y la rima hacen que un texto suene bonito.\n\n**Rima:** *sol* y *caracol*.\n\n**Para recordar:**\n- **Repetición en un poema:** Decir varias veces palabras o sonidos para darles fuerza.\n\n**Para tu escuela:** busca palabras que rimen con *gato*.",
-      "truco": "Rima, ritmo, repito y suena.",
-      "practica": {
-        "ejercicio": "Escribe una palabra que rime con \"lluvia\" o con \"gota\".",
-        "respuesta": "Por ejemplo: \"bota\", \"nota\" o \"pelota\" riman con \"gota\"."
-      },
-      "analogias": [
-        {
-          "titulo": "La banda",
-          "texto": "Un poema es como una banda: cada palabra toca su instrumento y juntas hacen música."
-        },
-        {
-          "titulo": "Las olas",
-          "texto": "El ritmo va y viene como las olas del mar, siempre con el mismo vaivén."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe dos palabras que rimen con \"sol\".",
-          "respuesta": "Por ejemplo: farol, caracol, rol."
-        },
-        {
-          "ejercicio": "Di una onomatopeya del reloj.",
-          "respuesta": "Tic, tac."
-        },
-        {
-          "ejercicio": "¿Qué es la repetición en un poema?",
-          "respuesta": "Decir varias veces palabras o sonidos para darles fuerza."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-076",
-    "titulo": "Manifestaciones culturales y artísticas",
-    "slug": "manifestaciones-culturales-artisticas-primaria-1-2",
-    "palabras": [
-      "arte",
-      "cultura",
-      "fiestas",
-      "danza",
-      "música",
-      "artesanías",
-      "museo"
-    ],
-    "contenido": {
-      "idea": "Tu comunidad guarda tesoros que no son de oro: bailes, canciones, comidas y dibujos que cuentan cómo vive la gente.",
-      "pizarron": "**Qué es:** son fiestas, bailes, música y artesanías de tu comunidad.\n\n**Artesanías mexicanas:** alebrijes, barro y textiles bordados.\n\n**Un mural** es una pintura que cuenta ideas o historias.\n\n**Si ves algo que no conoces:** observa, pregunta y respeta.\n\n**Para tu escuela:** dibuja una fiesta de tu pueblo.",
-      "truco": "Miro, pregunto, respeto y participo.",
-      "practica": {
-        "ejercicio": "Menciona una tradición de tu familia o comunidad y di qué te hace sentir.",
-        "respuesta": "Respuesta libre. Es correcta si nombra una tradición real y explica un sentimiento."
-      },
-      "analogias": [
-        {
-          "titulo": "El álbum",
-          "texto": "La cultura es como un álbum familiar: guarda recuerdos de quienes vivieron antes y cómo celebraban."
-        },
-        {
-          "titulo": "El mercado",
-          "texto": "Un mercado tiene muchos colores y olores distintos; así, la cultura tiene muchas formas de expresarse."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe dos ejemplos de artesanías mexicanas.",
-          "respuesta": "Por ejemplo: alebrijes, alfarería, textiles bordados."
-        },
-        {
-          "ejercicio": "¿Qué haces al ver un baile de otra región que no conoces?",
-          "respuesta": "Observar con atención, preguntar y respetar."
-        },
-        {
-          "ejercicio": "¿Un mural es una manifestación artística? Explica.",
-          "respuesta": "Sí, porque es una pintura que expresa ideas o historias."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-077",
-    "titulo": "Recrear historias con palabras y cuerpo",
-    "slug": "recrear-historias-palabras-cuerpo-primaria-1-2",
-    "palabras": [
-      "teatro",
-      "dramatización",
-      "cuento",
-      "títeres",
-      "voz",
-      "gestos",
-      "escenario"
-    ],
-    "contenido": {
-      "idea": "Cuando juegas a ser un dragón, usas la voz, el cuerpo y el espacio para que otros lo imaginen contigo. Eso es recrear una historia.",
-      "pizarron": "**Qué es:** recrear una historia es contarla otra vez con palabras y con tu cuerpo.\n\n**Usa tu cuerpo:** gestos, movimientos y postura.\n\nPara mostrar miedo: voz temblorosa, ojos abiertos y cuerpo encogido.\n\n**El espacio** es el lugar donde te mueves al actuar.\n\n**Pasos:** elige el cuento, ensaya y presenta.\n\n**Para tu escuela:** actúa un cuento.",
-      "truco": "Voz, cuerpo, espacio y tiempo.",
-      "practica": {
-        "ejercicio": "¿Cómo mostrarías a un personaje asustado sin decir \"tengo miedo\"?",
-        "respuesta": "Con voz temblorosa, ojos abiertos, cuerpo encogido y pasos lentos hacia atrás."
-      },
-      "analogias": [
-        {
-          "titulo": "La película en vivo",
-          "texto": "Recrear un cuento es como hacer una película en vivo, y tú eres la cámara, el actor y la música."
-        },
-        {
-          "titulo": "Plastilina",
-          "texto": "La historia es una plastilina: con tu voz y movimientos le das nuevas formas sin perder lo importante."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Nombra dos recursos del cuerpo para actuar.",
-          "respuesta": "Gestos y movimientos (también postura)."
-        },
-        {
-          "ejercicio": "¿Qué es el espacio en una dramatización?",
-          "respuesta": "El lugar donde ocurre la acción y por donde se mueven los personajes."
-        },
-        {
-          "ejercicio": "Ordena: presentar, ensayar, elegir el cuento.",
-          "respuesta": "Elegir el cuento, ensayar, presentar."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f3-078",
-    "titulo": "Formas de ser y estar en el mundo en la ficción",
-    "slug": "formas-de-ser-ficcion-primaria-1-2",
-    "palabras": [
-      "personajes",
-      "diversidad",
-      "empatía",
-      "cuentos",
-      "ponerse en el lugar de otro",
-      "ficción"
-    ],
-    "contenido": {
-      "idea": "En un cuento puedes ser un niño, una abeja o un robot y ver el mundo con sus ojos. Así entiendes que cada quien vive distinto.",
-      "pizarron": "**Qué es:** en los cuentos hay personajes con su forma de ser.\n\nUno valiente, otro miedoso.\n\n**Para recordar:**\n- **Empatía:** Entender lo que otra persona siente.\n\n**Para tu escuela:** dibuja a tu personaje favorito y di cómo es.",
-      "truco": "Si me pongo en sus zapatos, lo entiendo.",
-      "practica": {
-        "ejercicio": "Un niño nuevo llega a la escuela y no conoce a nadie. ¿Cómo se siente y qué le dirías?",
-        "respuesta": "Se siente nervioso o solo. Una buena respuesta lo invita a jugar o a presentarse con amabilidad."
-      },
-      "analogias": [
-        {
-          "titulo": "Los lentes",
-          "texto": "Cada personaje es un par de lentes distinto: con cada uno ves el mundo de otro color."
-        },
-        {
-          "titulo": "Un viaje",
-          "texto": "Leer una historia es viajar a otro lugar sin salir de tu silla, y conocer gente diferente."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa empatía?",
-          "respuesta": "Entender lo que otra persona siente."
-        },
-        {
-          "ejercicio": "Inventa un personaje diferente a ti y di una cosa que lo hace especial.",
-          "respuesta": "Respuesta libre; debe describir una característica del personaje con respeto."
-        },
-        {
-          "ejercicio": "Si un compañero habla distinto a ti, ¿qué haces?",
-          "respuesta": "Lo escucho con respeto y no me burlo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-001",
-    "titulo": "Narrar sucesos del pasado y del presente",
-    "slug": "narracion-sucesos-pasado-presente-primaria-3-4",
-    "palabras": [
-      "narrar",
-      "relato",
-      "tiempos verbales",
-      "pasado",
-      "presente",
-      "anécdota",
-      "orden de los hechos"
-    ],
-    "contenido": {
-      "idea": "Cuando cuentas qué hiciste ayer o qué estás viendo ahora, haces como un reportero: dices qué pasó, a quién y cuándo.",
-      "pizarron": "**La regla:** usa pasado para lo que ya ocurrió y presente para lo de ahora.\n\n*Ayer llovió. Hoy hace sol.*\n\n**Para tu escuela:** escribe dos oraciones: una en pasado y una en presente.",
-      "truco": "Quién, dónde, cuándo y en qué orden.",
-      "practica": {
-        "ejercicio": "Cambia al pasado: \"Camino a la escuela y saludo a mi maestra\".",
-        "respuesta": "Caminé a la escuela y saludé a mi maestra."
-      },
-      "analogias": [
-        {
-          "titulo": "El collar",
-          "texto": "Una narración es un collar: cada hecho es una cuenta y el orden las mantiene unidas."
-        },
-        {
-          "titulo": "El video",
-          "texto": "El pasado es un video grabado que cuentas, y el presente es una transmisión en vivo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Subraya el verbo en pasado: \"Mi tío cocinó mole\".",
-          "respuesta": "Cocinó."
-        },
-        {
-          "ejercicio": "Escribe en presente: \"Ayer corrimos en el parque\".",
-          "respuesta": "Hoy corremos en el parque."
-        },
-        {
-          "ejercicio": "Ordena con conectores: se durmió, cenó, llegó a casa.",
-          "respuesta": "Primero llegó a casa, luego cenó y al final se durmió."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-005",
-    "titulo": "Descripción de personas, lugares, hechos y procesos",
-    "slug": "descripcion-personas-lugares-hechos-procesos-primaria-3-4",
-    "palabras": [
-      "describir",
-      "adjetivos",
-      "características",
-      "proceso",
-      "detalles",
-      "sentidos"
-    ],
-    "contenido": {
-      "idea": "Describir es dibujar con palabras para que otra persona vea en su mente lo que tú ves, aunque no esté ahí.",
-      "pizarron": "**Qué es:** describir es dar detalles para que otro imagine algo.\n\n**Persona:** cómo es.\n\n**Lugar:** qué hay.\n\n**Proceso:** pasos.\n\n**Para tu escuela:** describe cómo se hace una quesadilla.",
-      "truco": "Veo, huelo, toco y cuento paso a paso.",
-      "practica": {
-        "ejercicio": "Describe tu salón con tres adjetivos.",
-        "respuesta": "Respuesta libre. Ejemplo: amplio, luminoso y ordenado."
-      },
-      "analogias": [
-        {
-          "titulo": "El mapa",
-          "texto": "Una descripción es un mapa hecho con palabras, que guía a quien lee por cada rincón."
-        },
-        {
-          "titulo": "La receta",
-          "texto": "Describir un proceso es como escribir una receta: si faltan pasos, el resultado cambia."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Subraya los adjetivos: \"El perro peludo ladra fuerte\".",
-          "respuesta": "Peludo."
-        },
-        {
-          "ejercicio": "Ordena el proceso: regar la semilla, sembrar, brota la planta.",
-          "respuesta": "Sembrar, regar la semilla, brota la planta."
-        },
-        {
-          "ejercicio": "Describe a un familiar en dos oraciones.",
-          "respuesta": "Respuesta libre; debe incluir aspecto y forma de ser."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-009",
-    "titulo": "Diálogo para tomar acuerdos y compartir puntos de vista",
-    "slug": "dialogo-acuerdos-puntos-de-vista-primaria-3-4",
-    "palabras": [
-      "dialogar",
-      "acuerdos",
-      "opinión",
-      "escuchar",
-      "respeto",
-      "turnos",
-      "debate"
-    ],
-    "contenido": {
-      "idea": "Si dos amigos quieren jugar a cosas distintas, hablan y escuchan hasta encontrar un juego que a ambos les guste. Eso es dialogar.",
-      "pizarron": "**Qué es:** dialogar es hablar y escuchar para llegar a un acuerdo.\n\nCada quien dice su idea, por turnos.\n\n**Para recordar:**\n- **¿Qué frase da una opinión con razón?** \"Creo que deberíamos reciclar, porque cuidamos el ambiente\".\n- **¿Por qué es importante repetir el acuerdo al final?** Para confirmar que todos entendieron lo mismo.\n\n**Para tu escuela:** acuerden un juego para el recreo.",
-      "truco": "Escucho, opino con razones y acordamos.",
-      "practica": {
-        "ejercicio": "Tu grupo debe elegir entre excursión al museo o al parque. Escribe cómo darías tu opinión.",
-        "respuesta": "Ejemplo: \"Pienso que el museo es mejor porque aprenderemos de la historia\". Es correcta si tiene opinión y razón respetuosa."
-      },
-      "analogias": [
-        {
-          "titulo": "El puente",
-          "texto": "El diálogo es un puente: cada persona construye su lado y se encuentran en el centro."
-        },
-        {
-          "titulo": "La pelota",
-          "texto": "Conversar es pasar una pelota: uno habla, otro recibe, y luego se la devuelve."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué frase da una opinión con razón?",
-          "respuesta": "\"Creo que deberíamos reciclar, porque cuidamos el ambiente\"."
-        },
-        {
-          "ejercicio": "Si alguien habla, ¿qué debes hacer?",
-          "respuesta": "Escuchar sin interrumpir y esperar mi turno."
-        },
-        {
-          "ejercicio": "¿Por qué es importante repetir el acuerdo al final?",
-          "respuesta": "Para confirmar que todos entendieron lo mismo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f4-013",
-    "titulo": "Textos expositivos: comprensión y producción",
-    "slug": "textos-expositivos-primaria-3-4",
-    "palabras": [
-      "exponer",
-      "informar",
-      "tema",
-      "subtema",
-      "resumen",
-      "datos",
-      "explicación"
-    ],
-    "contenido": {
-      "idea": "Cuando le explicas a un amigo cómo funciona tu juego favorito, le das información clara. Un texto expositivo hace lo mismo por escrito.",
-      "pizarron": "**Qué es:** un texto expositivo explica un tema con información clara.\n\nTiene introducción, desarrollo y cierre.\n\n**Para tu escuela:** escribe un párrafo sobre un animal.",
-      "truco": "Presento, explico con datos y resumo.",
-      "practica": {
-        "ejercicio": "Escribe una oración de introducción para un texto sobre las abejas.",
-        "respuesta": "Ejemplo: \"Las abejas son insectos que producen miel y ayudan a las plantas a reproducirse\"."
-      },
-      "analogias": [
-        {
-          "titulo": "La guía turística",
-          "texto": "Un texto expositivo es una guía turística: te lleva paso a paso para que conozcas un lugar sin perderte."
-        },
-        {
-          "titulo": "El rompecabezas",
-          "texto": "Cada dato es una pieza; ordenadas bien, forman una imagen completa del tema."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuál es el propósito de un texto expositivo?",
-          "respuesta": "Informar y explicar un tema."
-        },
-        {
-          "ejercicio": "Ordena: cierre, introducción, desarrollo.",
-          "respuesta": "Introducción, desarrollo, cierre."
-        },
-        {
-          "ejercicio": "¿Es expositivo: \"El Sol es una estrella\" o \"¡Qué bonito es el Sol!\"?",
-          "respuesta": "\"El Sol es una estrella\", porque da un dato objetivo."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f3-073",
+"titulo": "Propuestas de mejora en casa y en la escuela",
+"slug": "propuestas-mejora-entorno-primaria-1-2",
+"palabras": [
+"mejorar mi escuela",
+"ideas",
+"problemas",
+"familia",
+"propuesta"
+],
+"contenido": {
+"idea": "Si tu cuarto está desordenado, no basta con quejarte: piensas en un plan, como poner una caja para los juguetes, y lo haces. Mejorar casa y escuela es igual.",
+"pizarron": "**Qué es:** una propuesta es una idea para mejorar tu lugar.\n\n**Pasos:**\n\n1. Observa el problema. Hay basura en el patio.\n2. Piensa qué se puede hacer.\n3. Di tu propuesta: *Propongo poner un bote y turnarnos para vaciarlo*.\n\n**Una buena propuesta** dice qué hacer, se puede cumplir y no lastima a nadie.\n\n*Que nadie ensucie* no dice qué hacer.\n\n**Para tu escuela:** di cómo mejorar tu salón.",
+"truco": "Observo, imagino, elijo, hago.",
+"practica": {
+"ejercicio": "En tu salón hay mucho ruido a la hora de la salida. Escribe una propuesta de mejora.",
+"respuesta": "Ejemplo: \"Propongo que salgamos en fila y en silencio, un grupo a la vez\". Es buena si dice qué hacer, es posible y no lastima a nadie."
+},
+"analogias": [
+{
+"titulo": "El jardín",
+"texto": "Un jardín mejora cuando alguien nota la hierba seca y decide regar. Tu escuela también mejora cuando alguien nota un problema y actúa."
+},
+{
+"titulo": "El equipo de futbol",
+"texto": "Si el equipo pierde, se cambia la estrategia. Así, cuando algo no funciona en casa, se prueba una idea nueva entre todos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra un problema que veas en tu casa y una propuesta para resolverlo.",
+"respuesta": "Respuesta libre. Ejemplo: los zapatos están tirados; propongo un lugar fijo para guardarlos."
+},
+{
+"ejercicio": "¿Cuál es el primer paso para proponer una mejora?",
+"respuesta": "Observar el problema."
+},
+{
+"ejercicio": "¿Cuál propuesta es mejor: \"Que nadie ensucie\" o \"Poner un bote en el patio y turnarnos para vaciarlo\"? Explica.",
+"respuesta": "La segunda, porque es concreta y posible de hacer."
+}
+]
+}
+},
+{
+"nodo_id": "f3-074",
+"titulo": "Canciones, rondas, arrullos y cuentos",
+"slug": "canciones-rondas-arrullos-cuentos-primaria-1-2",
+"palabras": [
+"rondas infantiles",
+"arrullo",
+"cuentos",
+"canciones",
+"rima",
+"apreciar"
+],
+"contenido": {
+"idea": "Cuando te cantan para dormir, la voz suave te tranquiliza. Las canciones, rondas y cuentos son juegos con palabras que se escuchan y se disfrutan.",
+"pizarron": "**Qué es:** son textos con ritmo que se comparten en familia.\n\n**Ronda:** se canta en círculo.\n\n**Arrullo:** para dormir.\n\n**Estribillo:** la parte de la canción que se repite.\n\n**Para tu escuela:** canta una ronda y dibújala.",
+"truco": "Escucho, noto, siento y comparto.",
+"practica": {
+"ejercicio": "Di dos palabras que rimen con \"luna\" y para qué sirve un arrullo.",
+"respuesta": "Cuna y una (también tuna). El arrullo sirve para calmar y dormir a un bebé."
+},
+"analogias": [
+{
+"titulo": "Comer algo rico",
+"texto": "Apreciar una canción es como saborear tu comida favorita: vas despacio y notas lo que más te gusta."
+},
+{
+"titulo": "Un abrazo",
+"texto": "Un arrullo es un abrazo hecho de sonidos: suave, cálido y lento."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es el estribillo de una canción?",
+"respuesta": "La parte que se repite."
+},
+{
+"ejercicio": "¿Qué ronda conoces? Di una parte y cómo se juega.",
+"respuesta": "Respuesta libre. Ejemplo: \"A la rueda de San Miguel\"; se juega en círculo tomados de las manos."
+},
+{
+"ejercicio": "¿Cuál es un cuento: una lista de compras o una historia con inicio, problema y final?",
+"respuesta": "La historia con inicio, problema y final."
+}
+]
+}
+},
+{
+"nodo_id": "f3-075",
+"titulo": "Sonidos en poemas, rimas y canciones",
+"slug": "elementos-sonoros-composiciones-literarias-primaria-1-2",
+"palabras": [
+"rima",
+"ritmo",
+"repetición",
+"onomatopeya",
+"juego de palabras",
+"poema"
+],
+"contenido": {
+"idea": "Las palabras también suenan, como instrumentos. Con ellas puedes hacer tamborazos, susurros y cosquillas en el oído.",
+"pizarron": "**Qué es:** el ritmo y la rima hacen que un texto suene bonito.\n\n**Rima:** *sol* y *caracol*.\n\n**Repetición:** decir varias veces una palabra o sonido para darle fuerza.\n\n**Para tu escuela:** busca palabras que rimen con *gato*.",
+"truco": "Rima, ritmo, repito y suena.",
+"practica": {
+"ejercicio": "Escribe una palabra que rime con \"lluvia\" o con \"gota\".",
+"respuesta": "Por ejemplo: \"bota\", \"nota\" o \"pelota\" riman con \"gota\"."
+},
+"analogias": [
+{
+"titulo": "La banda",
+"texto": "Un poema es como una banda: cada palabra toca su instrumento y juntas hacen música."
+},
+{
+"titulo": "Las olas",
+"texto": "El ritmo va y viene como las olas del mar, siempre con el mismo vaivén."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe dos palabras que rimen con \"sol\".",
+"respuesta": "Por ejemplo: farol, caracol, rol."
+},
+{
+"ejercicio": "Di una onomatopeya del reloj.",
+"respuesta": "Tic, tac."
+},
+{
+"ejercicio": "¿Qué es la repetición en un poema?",
+"respuesta": "Decir varias veces palabras o sonidos para darles fuerza."
+}
+]
+}
+},
+{
+"nodo_id": "f3-076",
+"titulo": "Manifestaciones culturales y artísticas",
+"slug": "manifestaciones-culturales-artisticas-primaria-1-2",
+"palabras": [
+"arte",
+"cultura",
+"fiestas",
+"danza",
+"música",
+"artesanías",
+"museo"
+],
+"contenido": {
+"idea": "Tu comunidad guarda tesoros que no son de oro: bailes, canciones, comidas y dibujos que cuentan cómo vive la gente.",
+"pizarron": "**Qué es:** son fiestas, bailes, música y artesanías de tu comunidad.\n\n**Artesanías mexicanas:** alebrijes, barro y textiles bordados.\n\n**Un mural** es una pintura que cuenta ideas o historias.\n\n**Si ves algo que no conoces:** observa, pregunta y respeta.\n\n**Para tu escuela:** dibuja una fiesta de tu pueblo.",
+"truco": "Miro, pregunto, respeto y participo.",
+"practica": {
+"ejercicio": "Menciona una tradición de tu familia o comunidad y di qué te hace sentir.",
+"respuesta": "Respuesta libre. Es correcta si nombra una tradición real y explica un sentimiento."
+},
+"analogias": [
+{
+"titulo": "El álbum",
+"texto": "La cultura es como un álbum familiar: guarda recuerdos de quienes vivieron antes y cómo celebraban."
+},
+{
+"titulo": "El mercado",
+"texto": "Un mercado tiene muchos colores y olores distintos; así, la cultura tiene muchas formas de expresarse."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe dos ejemplos de artesanías mexicanas.",
+"respuesta": "Por ejemplo: alebrijes, alfarería, textiles bordados."
+},
+{
+"ejercicio": "¿Qué haces al ver un baile de otra región que no conoces?",
+"respuesta": "Observar con atención, preguntar y respetar."
+},
+{
+"ejercicio": "¿Un mural es una manifestación artística? Explica.",
+"respuesta": "Sí, porque es una pintura que expresa ideas o historias."
+}
+]
+}
+},
+{
+"nodo_id": "f3-077",
+"titulo": "Recrear historias con palabras y cuerpo",
+"slug": "recrear-historias-palabras-cuerpo-primaria-1-2",
+"palabras": [
+"teatro",
+"dramatización",
+"cuento",
+"títeres",
+"voz",
+"gestos",
+"escenario"
+],
+"contenido": {
+"idea": "Cuando juegas a ser un dragón, usas la voz, el cuerpo y el espacio para que otros lo imaginen contigo. Eso es recrear una historia.",
+"pizarron": "**Qué es:** recrear una historia es contarla otra vez con palabras y con tu cuerpo.\n\n**Usa tu cuerpo:** gestos, movimientos y postura.\n\nPara mostrar miedo: voz temblorosa, ojos abiertos y cuerpo encogido.\n\n**El espacio** es el lugar donde te mueves al actuar.\n\n**Pasos:** elige el cuento, ensaya y presenta.\n\n**Para tu escuela:** actúa un cuento.",
+"truco": "Voz, cuerpo, espacio y tiempo.",
+"practica": {
+"ejercicio": "¿Cómo mostrarías a un personaje asustado sin decir \"tengo miedo\"?",
+"respuesta": "Con voz temblorosa, ojos abiertos, cuerpo encogido y pasos lentos hacia atrás."
+},
+"analogias": [
+{
+"titulo": "La película en vivo",
+"texto": "Recrear un cuento es como hacer una película en vivo, y tú eres la cámara, el actor y la música."
+},
+{
+"titulo": "Plastilina",
+"texto": "La historia es una plastilina: con tu voz y movimientos le das nuevas formas sin perder lo importante."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra dos recursos del cuerpo para actuar.",
+"respuesta": "Gestos y movimientos (también postura)."
+},
+{
+"ejercicio": "¿Qué es el espacio en una dramatización?",
+"respuesta": "El lugar donde ocurre la acción y por donde se mueven los personajes."
+},
+{
+"ejercicio": "Ordena: presentar, ensayar, elegir el cuento.",
+"respuesta": "Elegir el cuento, ensayar, presentar."
+}
+]
+}
+},
+{
+"nodo_id": "f3-078",
+"titulo": "Formas de ser y estar en el mundo en la ficción",
+"slug": "formas-de-ser-ficcion-primaria-1-2",
+"palabras": [
+"personajes",
+"diversidad",
+"empatía",
+"cuentos",
+"ponerse en el lugar de otro",
+"ficción"
+],
+"contenido": {
+"idea": "En un cuento puedes ser un niño, una abeja o un robot y ver el mundo con sus ojos. Así entiendes que cada quien vive distinto.",
+"pizarron": "**Qué es:** en los cuentos hay personajes con su forma de ser.\n\nUno valiente, otro miedoso.\n\n**Empatía:** entender lo que otra persona siente.\n\n**Para tu escuela:** dibuja a tu personaje favorito y di cómo es.",
+"truco": "Si me pongo en sus zapatos, lo entiendo.",
+"practica": {
+"ejercicio": "Un niño nuevo llega a la escuela y no conoce a nadie. ¿Cómo se siente y qué le dirías?",
+"respuesta": "Se siente nervioso o solo. Una buena respuesta lo invita a jugar o a presentarse con amabilidad."
+},
+"analogias": [
+{
+"titulo": "Los lentes",
+"texto": "Cada personaje es un par de lentes distinto: con cada uno ves el mundo de otro color."
+},
+{
+"titulo": "Un viaje",
+"texto": "Leer una historia es viajar a otro lugar sin salir de tu silla, y conocer gente diferente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa empatía?",
+"respuesta": "Entender lo que otra persona siente."
+},
+{
+"ejercicio": "Inventa un personaje diferente a ti y di una cosa que lo hace especial.",
+"respuesta": "Respuesta libre; debe describir una característica del personaje con respeto."
+},
+{
+"ejercicio": "Si un compañero habla distinto a ti, ¿qué haces?",
+"respuesta": "Lo escucho con respeto y no me burlo."
+}
+]
+}
+},
+{
+"nodo_id": "f4-001",
+"titulo": "Narrar sucesos del pasado y del presente",
+"slug": "narracion-sucesos-pasado-presente-primaria-3-4",
+"palabras": [
+"narrar",
+"relato",
+"tiempos verbales",
+"pasado",
+"presente",
+"anécdota",
+"orden de los hechos"
+],
+"contenido": {
+"idea": "Cuando cuentas qué hiciste ayer o qué estás viendo ahora, haces como un reportero: dices qué pasó, a quién y cuándo.",
+"pizarron": "**La regla:** usa pasado para lo que ya ocurrió y presente para lo de ahora.\n\n*Ayer llovió. Hoy hace sol.*\n\n**Para tu escuela:** escribe dos oraciones: una en pasado y una en presente.",
+"truco": "Quién, dónde, cuándo y en qué orden.",
+"practica": {
+"ejercicio": "Cambia al pasado: \"Camino a la escuela y saludo a mi maestra\".",
+"respuesta": "Caminé a la escuela y saludé a mi maestra."
+},
+"analogias": [
+{
+"titulo": "El collar",
+"texto": "Una narración es un collar: cada hecho es una cuenta y el orden las mantiene unidas."
+},
+{
+"titulo": "El video",
+"texto": "El pasado es un video grabado que cuentas, y el presente es una transmisión en vivo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Subraya el verbo en pasado: \"Mi tío cocinó mole\".",
+"respuesta": "Cocinó."
+},
+{
+"ejercicio": "Escribe en presente: \"Ayer corrimos en el parque\".",
+"respuesta": "Hoy corremos en el parque."
+},
+{
+"ejercicio": "Ordena con conectores: se durmió, cenó, llegó a casa.",
+"respuesta": "Primero llegó a casa, luego cenó y al final se durmió."
+}
+]
+}
+},
+{
+"nodo_id": "f4-005",
+"titulo": "Descripción de personas, lugares, hechos y procesos",
+"slug": "descripcion-personas-lugares-hechos-procesos-primaria-3-4",
+"palabras": [
+"describir",
+"adjetivos",
+"características",
+"proceso",
+"detalles",
+"sentidos"
+],
+"contenido": {
+"idea": "Describir es dibujar con palabras para que otra persona vea en su mente lo que tú ves, aunque no esté ahí.",
+"pizarron": "**Qué es:** describir es dar detalles para que otro imagine algo.\n\n**Persona:** cómo es.\n\n**Lugar:** qué hay.\n\n**Proceso:** pasos.\n\n**Para tu escuela:** describe cómo se hace una quesadilla.",
+"truco": "Veo, huelo, toco y cuento paso a paso.",
+"practica": {
+"ejercicio": "Describe tu salón con tres adjetivos.",
+"respuesta": "Respuesta libre. Ejemplo: amplio, luminoso y ordenado."
+},
+"analogias": [
+{
+"titulo": "El mapa",
+"texto": "Una descripción es un mapa hecho con palabras, que guía a quien lee por cada rincón."
+},
+{
+"titulo": "La receta",
+"texto": "Describir un proceso es como escribir una receta: si faltan pasos, el resultado cambia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Subraya los adjetivos: \"El perro peludo ladra fuerte\".",
+"respuesta": "Peludo."
+},
+{
+"ejercicio": "Ordena el proceso: regar la semilla, sembrar, brota la planta.",
+"respuesta": "Sembrar, regar la semilla, brota la planta."
+},
+{
+"ejercicio": "Describe a un familiar en dos oraciones.",
+"respuesta": "Respuesta libre; debe incluir aspecto y forma de ser."
+}
+]
+}
+},
+{
+"nodo_id": "f4-009",
+"titulo": "Diálogo para tomar acuerdos y compartir puntos de vista",
+"slug": "dialogo-acuerdos-puntos-de-vista-primaria-3-4",
+"palabras": [
+"dialogar",
+"acuerdos",
+"opinión",
+"escuchar",
+"respeto",
+"turnos",
+"debate"
+],
+"contenido": {
+"idea": "Si dos amigos quieren jugar a cosas distintas, hablan y escuchan hasta encontrar un juego que a ambos les guste. Eso es dialogar.",
+"pizarron": "**Qué es:** dialogar es hablar y escuchar para llegar a un acuerdo.\n\nCada quien dice su idea, por turnos.\n\n**Opinión con razón:** usa *porque*. *Creo que debemos reciclar, porque cuidamos el ambiente.*\n\nAl final repite el acuerdo, para que todos entiendan lo mismo.\n\n**Para tu escuela:** acuerden un juego para el recreo.",
+"truco": "Escucho, opino con razones y acordamos.",
+"practica": {
+"ejercicio": "Tu grupo debe elegir entre excursión al museo o al parque. Escribe cómo darías tu opinión.",
+"respuesta": "Ejemplo: \"Pienso que el museo es mejor porque aprenderemos de la historia\". Es correcta si tiene opinión y razón respetuosa."
+},
+"analogias": [
+{
+"titulo": "El puente",
+"texto": "El diálogo es un puente: cada persona construye su lado y se encuentran en el centro."
+},
+{
+"titulo": "La pelota",
+"texto": "Conversar es pasar una pelota: uno habla, otro recibe, y luego se la devuelve."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué frase da una opinión con razón?",
+"respuesta": "\"Creo que deberíamos reciclar, porque cuidamos el ambiente\"."
+},
+{
+"ejercicio": "Si alguien habla, ¿qué debes hacer?",
+"respuesta": "Escuchar sin interrumpir y esperar mi turno."
+},
+{
+"ejercicio": "¿Por qué es importante repetir el acuerdo al final?",
+"respuesta": "Para confirmar que todos entendieron lo mismo."
+}
+]
+}
+},
+{
+"nodo_id": "f4-013",
+"titulo": "Textos expositivos: comprensión y producción",
+"slug": "textos-expositivos-primaria-3-4",
+"palabras": [
+"exponer",
+"informar",
+"tema",
+"subtema",
+"resumen",
+"datos",
+"explicación"
+],
+"contenido": {
+"idea": "Cuando le explicas a un amigo cómo funciona tu juego favorito, le das información clara. Un texto expositivo hace lo mismo por escrito.",
+"pizarron": "**Qué es:** un texto expositivo explica un tema con información clara.\n\nTiene introducción, desarrollo y cierre.\n\n**Para tu escuela:** escribe un párrafo sobre un animal.",
+"truco": "Presento, explico con datos y resumo.",
+"practica": {
+"ejercicio": "Escribe una oración de introducción para un texto sobre las abejas.",
+"respuesta": "Ejemplo: \"Las abejas son insectos que producen miel y ayudan a las plantas a reproducirse\"."
+},
+"analogias": [
+{
+"titulo": "La guía turística",
+"texto": "Un texto expositivo es una guía turística: te lleva paso a paso para que conozcas un lugar sin perderte."
+},
+{
+"titulo": "El rompecabezas",
+"texto": "Cada dato es una pieza; ordenadas bien, forman una imagen completa del tema."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es el propósito de un texto expositivo?",
+"respuesta": "Informar y explicar un tema."
+},
+{
+"ejercicio": "Ordena: cierre, introducción, desarrollo.",
+"respuesta": "Introducción, desarrollo, cierre."
+},
+{
+"ejercicio": "¿Es expositivo: \"El Sol es una estrella\" o \"¡Qué bonito es el Sol!\"?",
+"respuesta": "\"El Sol es una estrella\", porque da un dato objetivo."
+}
+]
+}
+}
 ]

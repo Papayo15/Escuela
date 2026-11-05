@@ -1,453 +1,453 @@
 [
-  {
-    "nodo_id": "f6-039",
-    "titulo": "Educación socioemocional y tutoría en secundaria",
-    "slug": "educacion-socioemocional-tutoria-secundaria",
-    "palabras": [
-      "emociones",
-      "autorregulación",
-      "tutoría",
-      "empatía",
-      "manejo del enojo"
-    ],
-    "contenido": {
-      "idea": "Tus emociones son como el tablero de un coche: te avisan qué pasa por dentro. Si el foco de enojo se prende, no lo tapas; revisas qué ocurre y decides qué hacer.",
-      "pizarron": "**Qué es:** la educación socioemocional te enseña a entender lo que sientes y a convivir mejor.\n\n**Pasos:**\n\n1. Ponle nombre a la emoción.\n2. Ubica qué la causó.\n3. Respira o cuenta hasta diez.\n4. Elige qué hacer sin dañar a nadie.\n5. Piensa qué siente la otra persona.\n\n**Ejemplo:** te sacaste mala nota. Sientes enojo. Respiras. Pides ayuda en lugar de romper el examen.\n\n**Tutoría:** es el espacio con tu grupo y docente para hablar de metas y dudas.\n\n**Para tu escuela:** escribe qué te ayuda a calmarte.",
-      "truco": "Nombra, respira, piensa, actúa.",
-      "practica": {
-        "ejercicio": "Te regañan injustamente y sientes mucho enojo. Describe los pasos que seguirías.",
-        "respuesta": "Nombro el enojo, respiro profundo, me calmo unos minutos, y después explico con calma mi versión sin gritar ni insultar."
-      },
-      "analogias": [
-        {
-          "titulo": "El semáforo",
-          "texto": "Rojo: detente y respira. Amarillo: piensa en opciones. Verde: actúa con la mejor opción."
-        },
-        {
-          "titulo": "La olla exprés",
-          "texto": "Si no dejas salir el vapor poco a poco, explota. Hablar y respirar es soltar vapor de manera segura."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Escribe una emoción que sientas antes de un examen y una forma sana de manejarla.",
-          "respuesta": "Ejemplo: nervios; respirar profundo, repasar con calma y dormir bien. Vale cualquier estrategia sana y justificada."
-        },
-        {
-          "ejercicio": "¿Qué es empatía? Da un ejemplo.",
-          "respuesta": "Entender lo que otra persona siente. Ejemplo: notar que un compañero está triste y preguntarle cómo está."
-        },
-        {
-          "ejercicio": "¿Para qué sirve la tutoría?",
-          "respuesta": "Para hablar con el grupo y el docente de metas, problemas escolares y convivencia, y recibir orientación."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-086",
-    "titulo": "Formación Cívica y Ética en secundaria",
-    "slug": "formacion-civica-etica-secundaria",
-    "palabras": [
-      "civismo",
-      "ética",
-      "valores",
-      "ciudadanía",
-      "convivencia"
-    ],
-    "contenido": {
-      "idea": "Imagina un juego en el que todos inventan sus reglas al momento: habría pleitos. La ética y el civismo son los acuerdos que hacen que jugar juntos sea justo y seguro.",
-      "pizarron": "**Qué es:** esta materia te ayuda a convivir con derechos, deberes y valores.\n\n**Ética:** pensar qué está bien y por qué.\n\n**Civismo:** conocer tus derechos y deberes.\n\n**Dignidad:** toda persona vale.\n\n**Para resolver un dilema:**\n\n1. Di qué pasa.\n2. Di qué valores chocan.\n3. Piensa qué le pasa a cada quien.\n4. Elige y explica por qué.\n\n**Ejemplo:** encuentras una cartera. Honestidad contra ganas de quedártela.\n\n**Para recordar:**\n- **Diferencia derecho de deber.** Derecho: lo que puedes exigir o ejercer. Deber: lo que debes cumplir. Ejemplo: derecho a educación, deber de respetar a los demás.\n- **¿Por qué ser ciudadano es más que votar?** Porque implica participar, cuidar lo común, respetar normas y a las demás personas todos los días.\n\n**Para tu escuela:** resuelve ese dilema con los cuatro pasos.",
-      "truco": "Valor, consecuencia, decisión.",
-      "practica": {
-        "ejercicio": "Encuentras una cartera con dinero e identificación. Aplica los cuatro pasos del dilema.",
-        "respuesta": "Situación: cartera ajena. Valores: honestidad y respeto. Consecuencia: su dueño la necesita. Acción: devolverla o entregarla a una autoridad."
-      },
-      "analogias": [
-        {
-          "titulo": "El árbol",
-          "texto": "Los valores son las raíces; las acciones, los frutos. Sin buenas raíces, los frutos no son sanos."
-        },
-        {
-          "titulo": "La brújula",
-          "texto": "La ética no da el camino hecho, pero te orienta cuando debes decidir."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos valores cívicos y un ejemplo de cada uno.",
-          "respuesta": "Respeto: escuchar sin burlarte. Responsabilidad: entregar tus tareas a tiempo. Valen otros ejemplos."
-        },
-        {
-          "ejercicio": "Diferencia derecho de deber.",
-          "respuesta": "Derecho: lo que puedes exigir o ejercer. Deber: lo que debes cumplir. Ejemplo: derecho a educación, deber de respetar a los demás."
-        },
-        {
-          "ejercicio": "¿Por qué ser ciudadano es más que votar?",
-          "respuesta": "Porque implica participar, cuidar lo común, respetar normas y a las demás personas todos los días."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-088",
-    "titulo": "Grupos sociales y culturales en las identidades juveniles",
-    "slug": "grupos-culturales-identidades-juveniles-secundaria",
-    "palabras": [
-      "identidad",
-      "adolescentes",
-      "tribus urbanas",
-      "cultura juvenil",
-      "pertenencia"
-    ],
-    "contenido": {
-      "idea": "Tu identidad es como un collage: lo armas con recortes de tu familia, tus amigos, la música que te gusta y lo que piensas. Cada quien lo hace distinto y sigue cambiando.",
-      "pizarron": "**Qué es:** tu identidad se forma con los grupos donde convives: familia, escuela, amigos y comunidad.\n\nLos jóvenes se juntan por música, deporte o arte.\n\nEso da pertenencia, y está bien si hay respeto.\n\n**Cuidado con la presión de grupo:** es cuando te piden hacer algo que no quieres o que te daña.\n\n**Regla:** no discrimines a nadie por cómo viste, habla o piensa.\n\n**Para recordar:**\n- **Presión de grupo:** Influencia de un grupo para que alguien actúe de cierta forma, aunque no quiera.\n\n**Para tu escuela:** escribe a qué grupos perteneces y qué te aporta cada uno.",
-      "truco": "Pertenezco, pero sigo siendo yo.",
-      "practica": {
-        "ejercicio": "Un grupo te pide hacer algo que te incomoda para aceptarte. ¿Qué haces?",
-        "respuesta": "Digo que no con firmeza, explico mi razón y busco grupos donde me respeten tal como soy."
-      },
-      "analogias": [
-        {
-          "titulo": "La orquesta",
-          "texto": "Cada instrumento suena distinto, pero juntos forman música. Los grupos juveniles forman la cultura con voces diversas."
-        },
-        {
-          "titulo": "El mosaico",
-          "texto": "Cada pieza tiene su color, y juntas forman una imagen mayor. Así es una sociedad diversa."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Nombra tres grupos que influyen en tu identidad.",
-          "respuesta": "Por ejemplo: familia, escuela, amigos, comunidad. Vale cualquier grupo real."
-        },
-        {
-          "ejercicio": "¿Qué es la presión de grupo?",
-          "respuesta": "Influencia de un grupo para que alguien actúe de cierta forma, aunque no quiera."
-        },
-        {
-          "ejercicio": "¿Cómo respetas a un grupo cultural distinto al tuyo?",
-          "respuesta": "Sin burlarme ni discriminar, escuchando y aceptando que pueden pensar o vestir distinto."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-090",
-    "titulo": "Derechos humanos en México y en el mundo",
-    "slug": "derechos-humanos-mexico-mundo-secundaria",
-    "palabras": [
-      "derechos humanos",
-      "dignidad",
-      "declaración universal",
-      "constitución",
-      "universalidad"
-    ],
-    "contenido": {
-      "idea": "Los derechos humanos son como un escudo invisible que cada persona trae desde que nace, sin importar dónde viva ni cómo sea.",
-      "pizarron": "**Qué es:** los derechos humanos son lo que toda persona tiene, solo por ser persona.\n\n**Cómo son:**\n\n- **Universales:** para todos.\n- **Inalienables:** nadie te los quita.\n- **Indivisibles:** van juntos.\n- **Progresivos:** crecen con el tiempo.\n\n**En el mundo:** Declaración Universal, 1948.\n\n**En México:** artículo 1 de la Constitución. Las autoridades deben respetarlos.\n\n**Ejemplos:** vida, educación, salud e igualdad.\n\n**Para recordar:**\n- **Que sean universales:** Que corresponden a todas las personas, sin importar origen, sexo, religión ni condición.\n\n**Para tu escuela:** escribe un derecho y quién debe cuidarlo.",
-      "truco": "Humanos todos, derechos todos.",
-      "practica": {
-        "ejercicio": "Un niño no puede ir a la escuela por su origen. ¿Qué derecho se afecta?",
-        "respuesta": "El derecho a la educación y a la no discriminación, que son derechos de todas las personas."
-      },
-      "analogias": [
-        {
-          "titulo": "El piso parejo",
-          "texto": "Los derechos son como una cancha nivelada: nadie empieza más abajo por ser distinto."
-        },
-        {
-          "titulo": "La mochila",
-          "texto": "Naces con ella y nadie puede quitártela; dentro vienen tus derechos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa que sean universales?",
-          "respuesta": "Que corresponden a todas las personas, sin importar origen, sexo, religión ni condición."
-        },
-        {
-          "ejercicio": "¿En qué año se aprobó la Declaración Universal?",
-          "respuesta": "En 1948, en la Organización de las Naciones Unidas."
-        },
-        {
-          "ejercicio": "Menciona tres derechos humanos.",
-          "respuesta": "Por ejemplo: educación, salud e igualdad. Vale cualquier derecho humano reconocido."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-091",
-    "titulo": "Movimientos sociales por los derechos humanos",
-    "slug": "movimientos-sociales-derechos-humanos-secundaria",
-    "palabras": [
-      "movimientos sociales",
-      "derechos civiles",
-      "sufragio",
-      "protesta pacífica",
-      "lucha social"
-    ],
-    "contenido": {
-      "idea": "Cuando un grupo de niños se junta para pedir que el recreo sea más justo, está haciendo un movimiento. Los derechos casi siempre se consiguieron porque muchas personas se organizaron.",
-      "pizarron": "**Qué es:** un movimiento social es gente organizada que busca un cambio para ganar o defender derechos.\n\n**En el mundo:**\n\n- Derechos civiles en Estados Unidos, con Martin Luther King.\n- El voto de las mujeres.\n- Lucha contra el apartheid en Sudáfrica.\n\n**En México:**\n\n- Reconocimiento del voto femenino en 1953.\n- Movimientos indígenas.\n\nUsan marchas, peticiones y campañas.\n\n**Idea clave:** los derechos no se regalan, se defienden.\n\n**Para recordar:**\n- **¿Qué logró el movimiento sufragista en México y en qué año?** Que las mujeres pudieran votar a nivel federal, en 1953.\n\n**Para tu escuela:** investiga un movimiento social y di qué logró.",
-      "truco": "Unidos exigimos, organizados logramos.",
-      "practica": {
-        "ejercicio": "¿Qué logró el movimiento sufragista en México y en qué año?",
-        "respuesta": "Que las mujeres pudieran votar a nivel federal, en 1953."
-      },
-      "analogias": [
-        {
-          "titulo": "La cuerda",
-          "texto": "Una persona jala poco, pero muchas jalando juntas mueven lo que parecía imposible."
-        },
-        {
-          "titulo": "La gota y la piedra",
-          "texto": "Una gota no hace nada, pero miles constantes cambian la piedra."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define movimiento social.",
-          "respuesta": "Acción colectiva organizada para lograr un cambio o defender derechos."
-        },
-        {
-          "ejercicio": "Menciona dos formas pacíficas de protesta.",
-          "respuesta": "Marchas, peticiones, campañas informativas, foros o huelgas pacíficas."
-        },
-        {
-          "ejercicio": "¿Qué lucha encabezó Martin Luther King Jr.?",
-          "respuesta": "La lucha por los derechos civiles y contra la discriminación racial en Estados Unidos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-093",
-    "titulo": "Desigualdad y calidad de vida",
-    "slug": "consecuencias-desigualdad-calidad-vida-secundaria",
-    "palabras": [
-      "desigualdad",
-      "pobreza",
-      "calidad de vida",
-      "discriminación",
-      "justicia social"
-    ],
-    "contenido": {
-      "idea": "Si en una carrera unos salen desde la meta y otros desde muy atrás, no es una competencia justa. La desigualdad es esa salida dispareja en la vida.",
-      "pizarron": "**Qué es:** la desigualdad es que unas personas tengan menos oportunidades que otras, sin que sea justo.\n\nImagina una carrera donde unos salen desde la meta y otros desde muy atrás.\n\n**Qué causa:**\n\n- Menos escuela y salud.\n- Trabajos mal pagados.\n- Casas sin servicios.\n- Discriminación.\n\n**Equidad** es dar a cada quien lo que necesita para tener una oportunidad parecida. Una rampa ayuda a quien usa silla de ruedas.\n\n**Para recordar:**\n- **Desigualdad:** Diferencia injusta en acceso a oportunidades y recursos entre personas o grupos.\n\n**Para tu escuela:** propón una acción para que nadie se quede fuera en tu salón.",
-      "truco": "Igualdad de derechos, equidad de oportunidades.",
-      "practica": {
-        "ejercicio": "Una comunidad sin clínica cercana. ¿Qué derecho y qué consecuencia se ven?",
-        "respuesta": "Derecho a la salud; la consecuencia es que enfermedades se atienden tarde y baja la calidad de vida."
-      },
-      "analogias": [
-        {
-          "titulo": "Los zapatos",
-          "texto": "Dar a todos el mismo número de zapato no es justo; equidad es dar a cada quien su talla."
-        },
-        {
-          "titulo": "La escalera",
-          "texto": "Si a unos les quitan escalones, tardan más en subir; la desigualdad quita escalones."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define desigualdad.",
-          "respuesta": "Diferencia injusta en acceso a oportunidades y recursos entre personas o grupos."
-        },
-        {
-          "ejercicio": "Menciona dos consecuencias de la desigualdad.",
-          "respuesta": "Menos acceso a educación y salud, discriminación, empleos precarios o exclusión."
-        },
-        {
-          "ejercicio": "¿Qué es equidad?",
-          "respuesta": "Dar a cada persona lo que necesita para tener oportunidades similares."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-094",
-    "titulo": "Instituciones que protegen los derechos humanos",
-    "slug": "normas-leyes-instituciones-derechos-humanos-secundaria",
-    "palabras": [
-      "CNDH",
-      "constitución",
-      "reglamento escolar",
-      "ombudsman",
-      "amparo"
-    ],
-    "contenido": {
-      "idea": "Si alguien te quita tu lugar en la fila, puedes acudir al maestro. Para los derechos pasa igual: hay normas y personas a quienes acudir cuando alguien los violenta.",
-      "pizarron": "**Qué es:** las leyes dicen qué derechos tienes, y las instituciones te ayudan a que se cumplan.\n\n**Normas:** la Constitución, las leyes y el reglamento escolar.\n\n**Instituciones:**\n\n- **CNDH:** recibe quejas contra autoridades.\n- **Jueces:** resuelven con el juicio de amparo.\n- **Procuradurías:** protegen a la niñez.\n\n**Para exigir un derecho:**\n\n1. Junta información.\n2. Ve a la institución correcta.\n3. Presenta tu queja.\n4. Da seguimiento.\n\n**Para tu escuela:** di a quién acudir si un adulto te maltrata.",
-      "truco": "Detecto, documento, denuncio.",
-      "practica": {
-        "ejercicio": "Una autoridad violó el derecho de una persona. ¿A qué institución puede acudir?",
-        "respuesta": "A la Comisión de Derechos Humanos, nacional o estatal, para presentar una queja."
-      },
-      "analogias": [
-        {
-          "titulo": "Los guardianes",
-          "texto": "Cada institución es un guardia en una puerta distinta; tú eliges a cuál tocar."
-        },
-        {
-          "titulo": "El árbitro",
-          "texto": "Las leyes son las reglas del juego y las instituciones, los árbitros que las hacen respetar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué artículo constitucional reconoce los derechos humanos?",
-          "respuesta": "El artículo 1."
-        },
-        {
-          "ejercicio": "¿Para qué sirve la CNDH?",
-          "respuesta": "Para recibir quejas por violaciones a derechos humanos por parte de autoridades y emitir recomendaciones."
-        },
-        {
-          "ejercicio": "Menciona una acción a tu alcance ante una injusticia escolar.",
-          "respuesta": "Informar al docente o a la dirección y pedir que se aplique el reglamento de convivencia."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-096",
-    "titulo": "El conflicto en la convivencia desde la cultura de paz",
-    "slug": "conflicto-convivencia-cultura-de-paz-secundaria",
-    "palabras": [
-      "conflicto",
-      "mediación",
-      "negociación",
-      "diálogo",
-      "resolución pacífica"
-    ],
-    "contenido": {
-      "idea": "Dos niños quieren el mismo columpio. Pueden pelear, o platicar y turnarse. El conflicto no es malo; lo importante es cómo se resuelve.",
-      "pizarron": "**Qué es:** un conflicto es un desacuerdo entre personas. Es normal. La cultura de paz lo resuelve hablando.\n\nLa violencia no es el conflicto, sino una mala forma de responder.\n\n**Pasos:**\n\n1. Cálmate.\n2. Escucha sin interrumpir.\n3. Di: *Me molesta que...*\n4. Busquen opciones.\n5. Acuerden y cumplan.\n\nSi no se puede, pidan ayuda a alguien neutral. Eso se llama **mediación**.\n\n**Para tu escuela:** dos compañeros quieren el mismo balón. Escribe un acuerdo justo.",
-      "truco": "Calma, escucha, propón, acuerda.",
-      "practica": {
-        "ejercicio": "Un compañero usó tu material sin permiso. Escribe un mensaje en primera persona.",
-        "respuesta": "Ejemplo: \"Me molesta que tomes mis cosas sin preguntar; me gustaría que me pidas permiso\"."
-      },
-      "analogias": [
-        {
-          "titulo": "El nudo",
-          "texto": "Un conflicto es un nudo: jalar con fuerza lo aprieta; con paciencia se desata."
-        },
-        {
-          "titulo": "La cocina",
-          "texto": "Dos cocineros quieren la misma estufa; si se organizan por turnos, ambos comen."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Es lo mismo conflicto que violencia?",
-          "respuesta": "No. El conflicto es una diferencia natural; la violencia es una forma dañina de responder."
-        },
-        {
-          "ejercicio": "Menciona dos pasos para resolver un conflicto.",
-          "respuesta": "Escuchar con atención y proponer opciones donde ambas partes ganen; también calmarse y acordar."
-        },
-        {
-          "ejercicio": "¿Qué es la mediación?",
-          "respuesta": "Intervención de una persona neutral que ayuda a las partes a dialogar y llegar a un acuerdo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-097",
-    "titulo": "Cultura de paz, respeto a la vida y dignidad",
-    "slug": "cultura-de-paz-vida-dignidad-secundaria",
-    "palabras": [
-      "paz",
-      "dignidad humana",
-      "no violencia",
-      "respeto",
-      "convivencia pacífica"
-    ],
-    "contenido": {
-      "idea": "Un jardín sano no solo no tiene plagas: también tiene agua, sol y cuidado. La paz tampoco es solo la ausencia de golpes, sino cuidar que todos puedan vivir bien.",
-      "pizarron": "**Qué es:** la cultura de paz es resolver los problemas sin violencia. Respeta la dignidad de todos.\n\n**Dignidad:** es el valor que tienes por ser persona. Nadie debe humillarte.\n\n**Paz negativa:** no hay golpes.\n\n**Paz positiva:** además hay justicia y oportunidades.\n\n**Qué hacer:**\n\n- Habla con respeto.\n- No uses apodos que lastiman.\n- Escucha otras opiniones.\n- Avisa a un adulto si hay violencia.\n\n**Para tu escuela:** escribe tres acuerdos de respeto para tu salón.",
-      "truco": "Paz es respeto más justicia.",
-      "practica": {
-        "ejercicio": "Ves que molestan a un compañero con burlas. ¿Qué haces desde la cultura de paz?",
-        "respuesta": "No participo, apoyo al compañero y aviso a un docente, porque nadie merece ser humillado."
-      },
-      "analogias": [
-        {
-          "titulo": "El jardín",
-          "texto": "La paz se cultiva todos los días regando respeto y arrancando la violencia."
-        },
-        {
-          "titulo": "El puente",
-          "texto": "Cada acto amable une personas distintas, como un ladrillo en un puente."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Define dignidad humana.",
-          "respuesta": "Valor que toda persona tiene por serlo, que exige trato respetuoso."
-        },
-        {
-          "ejercicio": "¿Qué diferencia hay entre paz negativa y positiva?",
-          "respuesta": "La negativa es ausencia de violencia; la positiva incluye justicia, igualdad y oportunidades."
-        },
-        {
-          "ejercicio": "Da dos acciones para un ambiente de paz en tu escuela.",
-          "respuesta": "Usar lenguaje respetuoso y rechazar el acoso; también escuchar opiniones distintas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-099",
-    "titulo": "Personas y organizaciones a favor de la paz",
-    "slug": "personas-organizaciones-cultura-de-paz-secundaria",
-    "palabras": [
-      "ONU",
-      "UNICEF",
-      "Malala",
-      "Gandhi",
-      "paz",
-      "organizaciones civiles"
-    ],
-    "contenido": {
-      "idea": "Cuando hay un derrumbe, vecinos y rescatistas se juntan a ayudar. Algunas personas y grupos dedican su vida a ayudar a que haya menos violencia y más justicia.",
-      "pizarron": "**Qué es:** son personas y grupos que trabajan para que haya paz.\n\n**Personas:**\n\n- **Gandhi:** resistencia sin violencia en India.\n- **Martin Luther King:** derechos civiles.\n- **Malala Yousafzai:** derecho de las niñas a estudiar. Nobel de la Paz en 2014.\n- **Nelson Mandela:** contra el apartheid.\n\n**Organizaciones:** ONU, UNICEF y Cruz Roja.\n\nTú también puedes participar, ayudando a resolver peleas o cuidando tu comunidad.\n\n**Para recordar:**\n- **¿Qué hace UNICEF?** Protege los derechos de la infancia y adolescencia en el mundo.\n\n**Para tu escuela:** elige a una de estas personas y di qué aprendes de ella.",
-      "truco": "Paz se hace en grupo, empezando por ti.",
-      "practica": {
-        "ejercicio": "Investiga una persona por la paz y di qué hizo. Ejemplo con Malala.",
-        "respuesta": "Malala defiende el derecho de las niñas a la educación y ganó el Nobel de la Paz en 2014."
-      },
-      "analogias": [
-        {
-          "titulo": "El equipo",
-          "texto": "La paz es como un equipo: cada integrante aporta y todos ganan."
-        },
-        {
-          "titulo": "La semilla",
-          "texto": "Una acción pequeña de paz crece cuando otros la imitan."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué promovió Gandhi?",
-          "respuesta": "La resistencia no violenta para lograr cambios sociales en la India."
-        },
-        {
-          "ejercicio": "¿Qué hace UNICEF?",
-          "respuesta": "Protege los derechos de la infancia y adolescencia en el mundo."
-        },
-        {
-          "ejercicio": "Menciona una acción tuya para promover la paz.",
-          "respuesta": "Por ejemplo: participar en mediación escolar, rechazar el acoso o hacer voluntariado."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-039",
+"titulo": "Educación socioemocional y tutoría en secundaria",
+"slug": "educacion-socioemocional-tutoria-secundaria",
+"palabras": [
+"emociones",
+"autorregulación",
+"tutoría",
+"empatía",
+"manejo del enojo"
+],
+"contenido": {
+"idea": "Tus emociones son como el tablero de un coche: te avisan qué pasa por dentro. Si el foco de enojo se prende, no lo tapas; revisas qué ocurre y decides qué hacer.",
+"pizarron": "**Qué es:** la educación socioemocional te enseña a entender lo que sientes y a convivir mejor.\n\n**Pasos:**\n\n1. Ponle nombre a la emoción.\n2. Ubica qué la causó.\n3. Respira o cuenta hasta diez.\n4. Elige qué hacer sin dañar a nadie.\n5. Piensa qué siente la otra persona.\n\n**Ejemplo:** te sacaste mala nota. Sientes enojo. Respiras. Pides ayuda en lugar de romper el examen.\n\n**Tutoría:** es el espacio con tu grupo y docente para hablar de metas y dudas.\n\n**Para tu escuela:** escribe qué te ayuda a calmarte.",
+"truco": "Nombra, respira, piensa, actúa.",
+"practica": {
+"ejercicio": "Te regañan injustamente y sientes mucho enojo. Describe los pasos que seguirías.",
+"respuesta": "Nombro el enojo, respiro profundo, me calmo unos minutos, y después explico con calma mi versión sin gritar ni insultar."
+},
+"analogias": [
+{
+"titulo": "El semáforo",
+"texto": "Rojo: detente y respira. Amarillo: piensa en opciones. Verde: actúa con la mejor opción."
+},
+{
+"titulo": "La olla exprés",
+"texto": "Si no dejas salir el vapor poco a poco, explota. Hablar y respirar es soltar vapor de manera segura."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe una emoción que sientas antes de un examen y una forma sana de manejarla.",
+"respuesta": "Ejemplo: nervios; respirar profundo, repasar con calma y dormir bien. Vale cualquier estrategia sana y justificada."
+},
+{
+"ejercicio": "¿Qué es empatía? Da un ejemplo.",
+"respuesta": "Entender lo que otra persona siente. Ejemplo: notar que un compañero está triste y preguntarle cómo está."
+},
+{
+"ejercicio": "¿Para qué sirve la tutoría?",
+"respuesta": "Para hablar con el grupo y el docente de metas, problemas escolares y convivencia, y recibir orientación."
+}
+]
+}
+},
+{
+"nodo_id": "f6-086",
+"titulo": "Formación Cívica y Ética en secundaria",
+"slug": "formacion-civica-etica-secundaria",
+"palabras": [
+"civismo",
+"ética",
+"valores",
+"ciudadanía",
+"convivencia"
+],
+"contenido": {
+"idea": "Imagina un juego en el que todos inventan sus reglas al momento: habría pleitos. La ética y el civismo son los acuerdos que hacen que jugar juntos sea justo y seguro.",
+"pizarron": "**Qué es:** esta materia te ayuda a convivir con derechos, deberes y valores.\n\n**Ética:** pensar qué está bien y por qué.\n\n**Civismo:** conocer tus derechos y deberes.\n\n**Dignidad:** toda persona vale.\n\n**Para resolver un dilema:**\n\n1. Di qué pasa.\n2. Di qué valores chocan.\n3. Piensa qué le pasa a cada quien.\n4. Elige y explica por qué.\n\n**Ejemplo:** encuentras una cartera. Honestidad contra ganas de quedártela.\n\n**Derecho:** lo que puedes exigir. **Deber:** lo que debes cumplir.\n\n**Ser ciudadano:** es más que votar: es participar y cuidar lo común cada día.\n\n**Para tu escuela:** resuelve ese dilema con los cuatro pasos.",
+"truco": "Valor, consecuencia, decisión.",
+"practica": {
+"ejercicio": "Encuentras una cartera con dinero e identificación. Aplica los cuatro pasos del dilema.",
+"respuesta": "Situación: cartera ajena. Valores: honestidad y respeto. Consecuencia: su dueño la necesita. Acción: devolverla o entregarla a una autoridad."
+},
+"analogias": [
+{
+"titulo": "El árbol",
+"texto": "Los valores son las raíces; las acciones, los frutos. Sin buenas raíces, los frutos no son sanos."
+},
+{
+"titulo": "La brújula",
+"texto": "La ética no da el camino hecho, pero te orienta cuando debes decidir."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos valores cívicos y un ejemplo de cada uno.",
+"respuesta": "Respeto: escuchar sin burlarte. Responsabilidad: entregar tus tareas a tiempo. Valen otros ejemplos."
+},
+{
+"ejercicio": "Diferencia derecho de deber.",
+"respuesta": "Derecho: lo que puedes exigir o ejercer. Deber: lo que debes cumplir. Ejemplo: derecho a educación, deber de respetar a los demás."
+},
+{
+"ejercicio": "¿Por qué ser ciudadano es más que votar?",
+"respuesta": "Porque implica participar, cuidar lo común, respetar normas y a las demás personas todos los días."
+}
+]
+}
+},
+{
+"nodo_id": "f6-088",
+"titulo": "Grupos sociales y culturales en las identidades juveniles",
+"slug": "grupos-culturales-identidades-juveniles-secundaria",
+"palabras": [
+"identidad",
+"adolescentes",
+"tribus urbanas",
+"cultura juvenil",
+"pertenencia"
+],
+"contenido": {
+"idea": "Tu identidad es como un collage: lo armas con recortes de tu familia, tus amigos, la música que te gusta y lo que piensas. Cada quien lo hace distinto y sigue cambiando.",
+"pizarron": "**Qué es:** tu identidad se forma con los grupos donde convives: familia, escuela, amigos y comunidad.\n\nLos jóvenes se juntan por música, deporte o arte.\n\nEso da pertenencia, y está bien si hay respeto.\n\n**Cuidado con la presión de grupo:** es cuando te piden hacer algo que no quieres o que te daña.\n\n**Regla:** no discrimines a nadie por cómo viste, habla o piensa.\n\n**Presión de grupo:** cuando otros te empujan a hacer algo que no quieres.\n\n**Para tu escuela:** escribe a qué grupos perteneces y qué te aporta cada uno.",
+"truco": "Pertenezco, pero sigo siendo yo.",
+"practica": {
+"ejercicio": "Un grupo te pide hacer algo que te incomoda para aceptarte. ¿Qué haces?",
+"respuesta": "Digo que no con firmeza, explico mi razón y busco grupos donde me respeten tal como soy."
+},
+"analogias": [
+{
+"titulo": "La orquesta",
+"texto": "Cada instrumento suena distinto, pero juntos forman música. Los grupos juveniles forman la cultura con voces diversas."
+},
+{
+"titulo": "El mosaico",
+"texto": "Cada pieza tiene su color, y juntas forman una imagen mayor. Así es una sociedad diversa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Nombra tres grupos que influyen en tu identidad.",
+"respuesta": "Por ejemplo: familia, escuela, amigos, comunidad. Vale cualquier grupo real."
+},
+{
+"ejercicio": "¿Qué es la presión de grupo?",
+"respuesta": "Influencia de un grupo para que alguien actúe de cierta forma, aunque no quiera."
+},
+{
+"ejercicio": "¿Cómo respetas a un grupo cultural distinto al tuyo?",
+"respuesta": "Sin burlarme ni discriminar, escuchando y aceptando que pueden pensar o vestir distinto."
+}
+]
+}
+},
+{
+"nodo_id": "f6-090",
+"titulo": "Derechos humanos en México y en el mundo",
+"slug": "derechos-humanos-mexico-mundo-secundaria",
+"palabras": [
+"derechos humanos",
+"dignidad",
+"declaración universal",
+"constitución",
+"universalidad"
+],
+"contenido": {
+"idea": "Los derechos humanos son como un escudo invisible que cada persona trae desde que nace, sin importar dónde viva ni cómo sea.",
+"pizarron": "**Qué es:** los derechos humanos son lo que toda persona tiene, solo por ser persona.\n\n**Cómo son:**\n\n- **Universales:** para todos.\n- **Inalienables:** nadie te los quita.\n- **Indivisibles:** van juntos.\n- **Progresivos:** crecen con el tiempo.\n\n**En el mundo:** Declaración Universal, 1948.\n\n**En México:** artículo 1 de la Constitución. Las autoridades deben respetarlos.\n\n**Ejemplos:** vida, educación, salud e igualdad.\n\n**Universales:** son de todas las personas, sin importar su origen.\n\n**Para tu escuela:** escribe un derecho y quién debe cuidarlo.",
+"truco": "Humanos todos, derechos todos.",
+"practica": {
+"ejercicio": "Un niño no puede ir a la escuela por su origen. ¿Qué derecho se afecta?",
+"respuesta": "El derecho a la educación y a la no discriminación, que son derechos de todas las personas."
+},
+"analogias": [
+{
+"titulo": "El piso parejo",
+"texto": "Los derechos son como una cancha nivelada: nadie empieza más abajo por ser distinto."
+},
+{
+"titulo": "La mochila",
+"texto": "Naces con ella y nadie puede quitártela; dentro vienen tus derechos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa que sean universales?",
+"respuesta": "Que corresponden a todas las personas, sin importar origen, sexo, religión ni condición."
+},
+{
+"ejercicio": "¿En qué año se aprobó la Declaración Universal?",
+"respuesta": "En 1948, en la Organización de las Naciones Unidas."
+},
+{
+"ejercicio": "Menciona tres derechos humanos.",
+"respuesta": "Por ejemplo: educación, salud e igualdad. Vale cualquier derecho humano reconocido."
+}
+]
+}
+},
+{
+"nodo_id": "f6-091",
+"titulo": "Movimientos sociales por los derechos humanos",
+"slug": "movimientos-sociales-derechos-humanos-secundaria",
+"palabras": [
+"movimientos sociales",
+"derechos civiles",
+"sufragio",
+"protesta pacífica",
+"lucha social"
+],
+"contenido": {
+"idea": "Cuando un grupo de niños se junta para pedir que el recreo sea más justo, está haciendo un movimiento. Los derechos casi siempre se consiguieron porque muchas personas se organizaron.",
+"pizarron": "**Qué es:** un movimiento social es gente organizada que busca un cambio para ganar o defender derechos.\n\n**En el mundo:**\n\n- Derechos civiles en Estados Unidos, con Martin Luther King.\n- El voto de las mujeres.\n- Lucha contra el apartheid en Sudáfrica.\n\n**En México:**\n\n- Reconocimiento del voto femenino en 1953.\n- Movimientos indígenas.\n\nUsan marchas, peticiones y campañas.\n\n**Idea clave:** los derechos no se regalan, se defienden.\n\n**Sufragistas:** en México lograron en 1953 el voto federal de las mujeres.\n\n**Para tu escuela:** investiga un movimiento social y di qué logró.",
+"truco": "Unidos exigimos, organizados logramos.",
+"practica": {
+"ejercicio": "¿Qué logró el movimiento sufragista en México y en qué año?",
+"respuesta": "Que las mujeres pudieran votar a nivel federal, en 1953."
+},
+"analogias": [
+{
+"titulo": "La cuerda",
+"texto": "Una persona jala poco, pero muchas jalando juntas mueven lo que parecía imposible."
+},
+{
+"titulo": "La gota y la piedra",
+"texto": "Una gota no hace nada, pero miles constantes cambian la piedra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define movimiento social.",
+"respuesta": "Acción colectiva organizada para lograr un cambio o defender derechos."
+},
+{
+"ejercicio": "Menciona dos formas pacíficas de protesta.",
+"respuesta": "Marchas, peticiones, campañas informativas, foros o huelgas pacíficas."
+},
+{
+"ejercicio": "¿Qué lucha encabezó Martin Luther King Jr.?",
+"respuesta": "La lucha por los derechos civiles y contra la discriminación racial en Estados Unidos."
+}
+]
+}
+},
+{
+"nodo_id": "f6-093",
+"titulo": "Desigualdad y calidad de vida",
+"slug": "consecuencias-desigualdad-calidad-vida-secundaria",
+"palabras": [
+"desigualdad",
+"pobreza",
+"calidad de vida",
+"discriminación",
+"justicia social"
+],
+"contenido": {
+"idea": "Si en una carrera unos salen desde la meta y otros desde muy atrás, no es una competencia justa. La desigualdad es esa salida dispareja en la vida.",
+"pizarron": "**Qué es:** la desigualdad es que unas personas tengan menos oportunidades que otras, sin que sea justo.\n\nImagina una carrera donde unos salen desde la meta y otros desde muy atrás.\n\n**Qué causa:**\n\n- Menos escuela y salud.\n- Trabajos mal pagados.\n- Casas sin servicios.\n- Discriminación.\n\n**Equidad** es dar a cada quien lo que necesita para tener una oportunidad parecida. Una rampa ayuda a quien usa silla de ruedas.\n\n**Desigualdad:** diferencia injusta en oportunidades y recursos.\n\n**Para tu escuela:** propón una acción para que nadie se quede fuera en tu salón.",
+"truco": "Igualdad de derechos, equidad de oportunidades.",
+"practica": {
+"ejercicio": "Una comunidad sin clínica cercana. ¿Qué derecho y qué consecuencia se ven?",
+"respuesta": "Derecho a la salud; la consecuencia es que enfermedades se atienden tarde y baja la calidad de vida."
+},
+"analogias": [
+{
+"titulo": "Los zapatos",
+"texto": "Dar a todos el mismo número de zapato no es justo; equidad es dar a cada quien su talla."
+},
+{
+"titulo": "La escalera",
+"texto": "Si a unos les quitan escalones, tardan más en subir; la desigualdad quita escalones."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define desigualdad.",
+"respuesta": "Diferencia injusta en acceso a oportunidades y recursos entre personas o grupos."
+},
+{
+"ejercicio": "Menciona dos consecuencias de la desigualdad.",
+"respuesta": "Menos acceso a educación y salud, discriminación, empleos precarios o exclusión."
+},
+{
+"ejercicio": "¿Qué es equidad?",
+"respuesta": "Dar a cada persona lo que necesita para tener oportunidades similares."
+}
+]
+}
+},
+{
+"nodo_id": "f6-094",
+"titulo": "Instituciones que protegen los derechos humanos",
+"slug": "normas-leyes-instituciones-derechos-humanos-secundaria",
+"palabras": [
+"CNDH",
+"constitución",
+"reglamento escolar",
+"ombudsman",
+"amparo"
+],
+"contenido": {
+"idea": "Si alguien te quita tu lugar en la fila, puedes acudir al maestro. Para los derechos pasa igual: hay normas y personas a quienes acudir cuando alguien los violenta.",
+"pizarron": "**Qué es:** las leyes dicen qué derechos tienes, y las instituciones te ayudan a que se cumplan.\n\n**Normas:** la Constitución, las leyes y el reglamento escolar.\n\n**Instituciones:**\n\n- **CNDH:** recibe quejas contra autoridades.\n- **Jueces:** resuelven con el juicio de amparo.\n- **Procuradurías:** protegen a la niñez.\n\n**Para exigir un derecho:**\n\n1. Junta información.\n2. Ve a la institución correcta.\n3. Presenta tu queja.\n4. Da seguimiento.\n\n**Para tu escuela:** di a quién acudir si un adulto te maltrata.",
+"truco": "Detecto, documento, denuncio.",
+"practica": {
+"ejercicio": "Una autoridad violó el derecho de una persona. ¿A qué institución puede acudir?",
+"respuesta": "A la Comisión de Derechos Humanos, nacional o estatal, para presentar una queja."
+},
+"analogias": [
+{
+"titulo": "Los guardianes",
+"texto": "Cada institución es un guardia en una puerta distinta; tú eliges a cuál tocar."
+},
+{
+"titulo": "El árbitro",
+"texto": "Las leyes son las reglas del juego y las instituciones, los árbitros que las hacen respetar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué artículo constitucional reconoce los derechos humanos?",
+"respuesta": "El artículo 1."
+},
+{
+"ejercicio": "¿Para qué sirve la CNDH?",
+"respuesta": "Para recibir quejas por violaciones a derechos humanos por parte de autoridades y emitir recomendaciones."
+},
+{
+"ejercicio": "Menciona una acción a tu alcance ante una injusticia escolar.",
+"respuesta": "Informar al docente o a la dirección y pedir que se aplique el reglamento de convivencia."
+}
+]
+}
+},
+{
+"nodo_id": "f6-096",
+"titulo": "El conflicto en la convivencia desde la cultura de paz",
+"slug": "conflicto-convivencia-cultura-de-paz-secundaria",
+"palabras": [
+"conflicto",
+"mediación",
+"negociación",
+"diálogo",
+"resolución pacífica"
+],
+"contenido": {
+"idea": "Dos niños quieren el mismo columpio. Pueden pelear, o platicar y turnarse. El conflicto no es malo; lo importante es cómo se resuelve.",
+"pizarron": "**Qué es:** un conflicto es un desacuerdo entre personas. Es normal. La cultura de paz lo resuelve hablando.\n\nLa violencia no es el conflicto, sino una mala forma de responder.\n\n**Pasos:**\n\n1. Cálmate.\n2. Escucha sin interrumpir.\n3. Di: *Me molesta que...*\n4. Busquen opciones.\n5. Acuerden y cumplan.\n\nSi no se puede, pidan ayuda a alguien neutral. Eso se llama **mediación**.\n\n**Para tu escuela:** dos compañeros quieren el mismo balón. Escribe un acuerdo justo.",
+"truco": "Calma, escucha, propón, acuerda.",
+"practica": {
+"ejercicio": "Un compañero usó tu material sin permiso. Escribe un mensaje en primera persona.",
+"respuesta": "Ejemplo: \"Me molesta que tomes mis cosas sin preguntar; me gustaría que me pidas permiso\"."
+},
+"analogias": [
+{
+"titulo": "El nudo",
+"texto": "Un conflicto es un nudo: jalar con fuerza lo aprieta; con paciencia se desata."
+},
+{
+"titulo": "La cocina",
+"texto": "Dos cocineros quieren la misma estufa; si se organizan por turnos, ambos comen."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Es lo mismo conflicto que violencia?",
+"respuesta": "No. El conflicto es una diferencia natural; la violencia es una forma dañina de responder."
+},
+{
+"ejercicio": "Menciona dos pasos para resolver un conflicto.",
+"respuesta": "Escuchar con atención y proponer opciones donde ambas partes ganen; también calmarse y acordar."
+},
+{
+"ejercicio": "¿Qué es la mediación?",
+"respuesta": "Intervención de una persona neutral que ayuda a las partes a dialogar y llegar a un acuerdo."
+}
+]
+}
+},
+{
+"nodo_id": "f6-097",
+"titulo": "Cultura de paz, respeto a la vida y dignidad",
+"slug": "cultura-de-paz-vida-dignidad-secundaria",
+"palabras": [
+"paz",
+"dignidad humana",
+"no violencia",
+"respeto",
+"convivencia pacífica"
+],
+"contenido": {
+"idea": "Un jardín sano no solo no tiene plagas: también tiene agua, sol y cuidado. La paz tampoco es solo la ausencia de golpes, sino cuidar que todos puedan vivir bien.",
+"pizarron": "**Qué es:** la cultura de paz es resolver los problemas sin violencia. Respeta la dignidad de todos.\n\n**Dignidad:** es el valor que tienes por ser persona. Nadie debe humillarte.\n\n**Paz negativa:** no hay golpes.\n\n**Paz positiva:** además hay justicia y oportunidades.\n\n**Qué hacer:**\n\n- Habla con respeto.\n- No uses apodos que lastiman.\n- Escucha otras opiniones.\n- Avisa a un adulto si hay violencia.\n\n**Para tu escuela:** escribe tres acuerdos de respeto para tu salón.",
+"truco": "Paz es respeto más justicia.",
+"practica": {
+"ejercicio": "Ves que molestan a un compañero con burlas. ¿Qué haces desde la cultura de paz?",
+"respuesta": "No participo, apoyo al compañero y aviso a un docente, porque nadie merece ser humillado."
+},
+"analogias": [
+{
+"titulo": "El jardín",
+"texto": "La paz se cultiva todos los días regando respeto y arrancando la violencia."
+},
+{
+"titulo": "El puente",
+"texto": "Cada acto amable une personas distintas, como un ladrillo en un puente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Define dignidad humana.",
+"respuesta": "Valor que toda persona tiene por serlo, que exige trato respetuoso."
+},
+{
+"ejercicio": "¿Qué diferencia hay entre paz negativa y positiva?",
+"respuesta": "La negativa es ausencia de violencia; la positiva incluye justicia, igualdad y oportunidades."
+},
+{
+"ejercicio": "Da dos acciones para un ambiente de paz en tu escuela.",
+"respuesta": "Usar lenguaje respetuoso y rechazar el acoso; también escuchar opiniones distintas."
+}
+]
+}
+},
+{
+"nodo_id": "f6-099",
+"titulo": "Personas y organizaciones a favor de la paz",
+"slug": "personas-organizaciones-cultura-de-paz-secundaria",
+"palabras": [
+"ONU",
+"UNICEF",
+"Malala",
+"Gandhi",
+"paz",
+"organizaciones civiles"
+],
+"contenido": {
+"idea": "Cuando hay un derrumbe, vecinos y rescatistas se juntan a ayudar. Algunas personas y grupos dedican su vida a ayudar a que haya menos violencia y más justicia.",
+"pizarron": "**Qué es:** son personas y grupos que trabajan para que haya paz.\n\n**Personas:**\n\n- **Gandhi:** resistencia sin violencia en India.\n- **Martin Luther King:** derechos civiles.\n- **Malala Yousafzai:** derecho de las niñas a estudiar. Nobel de la Paz en 2014.\n- **Nelson Mandela:** contra el apartheid.\n\n**Organizaciones:** ONU, UNICEF y Cruz Roja.\n\nTú también puedes participar, ayudando a resolver peleas o cuidando tu comunidad.\n\n**UNICEF:** protege los derechos de la infancia en el mundo.\n\n**Para tu escuela:** elige a una de estas personas y di qué aprendes de ella.",
+"truco": "Paz se hace en grupo, empezando por ti.",
+"practica": {
+"ejercicio": "Investiga una persona por la paz y di qué hizo. Ejemplo con Malala.",
+"respuesta": "Malala defiende el derecho de las niñas a la educación y ganó el Nobel de la Paz en 2014."
+},
+"analogias": [
+{
+"titulo": "El equipo",
+"texto": "La paz es como un equipo: cada integrante aporta y todos ganan."
+},
+{
+"titulo": "La semilla",
+"texto": "Una acción pequeña de paz crece cuando otros la imitan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué promovió Gandhi?",
+"respuesta": "La resistencia no violenta para lograr cambios sociales en la India."
+},
+{
+"ejercicio": "¿Qué hace UNICEF?",
+"respuesta": "Protege los derechos de la infancia y adolescencia en el mundo."
+},
+{
+"ejercicio": "Menciona una acción tuya para promover la paz.",
+"respuesta": "Por ejemplo: participar en mediación escolar, rechazar el acoso o hacer voluntariado."
+}
+]
+}
+}
 ]

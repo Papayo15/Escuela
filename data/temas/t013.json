@@ -1,407 +1,407 @@
 [
-  {
-    "nodo_id": "f6-061",
-    "titulo": "Sistemas nervioso y endocrino: la coordinación del cuerpo",
-    "slug": "nervioso-endocrino-coordinacion-secundaria",
-    "palabras": [
-      "sistema nervioso",
-      "hormonas",
-      "endocrino",
-      "neuronas",
-      "coordinación"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como una escuela: el sistema nervioso es el timbre que suena al instante y avisa a todos, y el sistema endocrino son las circulares que llegan a casa y tardan más, pero sus efectos duran días.",
-      "pizarron": "**Qué es:** son dos sistemas que dan órdenes al cuerpo. El nervioso usa señales eléctricas. El endocrino usa hormonas por la sangre.\n\n**Nervioso:** como un mensaje de texto: llega en un instante y dura poco. Quitas la mano de lo caliente.\n\n**Endocrino:** como una carta: tarda, pero dura. Te hace crecer.\n\n**Trabajan juntos:** te asustas. El nervioso reacciona en segundos, y la adrenalina te mantiene alerta.\n\nLos dos mantienen el cuerpo en equilibrio. Eso se llama **homeostasis**.\n\n**Para tu escuela:** clasifica: parpadear y crecer. ¿Cuál es nervioso y cuál hormonal?",
-      "truco": "Nervioso = rápido y eléctrico; endocrino = lento y químico.",
-      "practica": {
-        "ejercicio": "¿Qué sistema participa al apartar la mano de una estufa caliente y cuál al regular el azúcar en la sangre después de comer?",
-        "respuesta": "Apartar la mano: sistema nervioso. Regular el azúcar: sistema endocrino, mediante la insulina del páncreas."
-      },
-      "analogias": [
-        {
-          "titulo": "Teléfono y correo",
-          "texto": "El sistema nervioso es una llamada telefónica: llega al momento y a un destino preciso. El endocrino es una carta repartida por el correo: tarda más, pero llega a muchos lugares y se queda."
-        },
-        {
-          "titulo": "Semáforo y plan de la ciudad",
-          "texto": "El nervioso es el semáforo que cambia de inmediato para ordenar el tránsito. El endocrino es el plan de la ciudad, que regula a largo plazo cómo crece y funciona todo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué sustancias liberan las glándulas endocrinas y por dónde viajan?",
-          "respuesta": "Hormonas, que viajan por la sangre."
-        },
-        {
-          "ejercicio": "Clasifica como nervioso o endocrino: parpadear ante una luz fuerte; crecimiento durante la adolescencia.",
-          "respuesta": "Parpadear: nervioso. Crecimiento: endocrino."
-        },
-        {
-          "ejercicio": "Explica con tus palabras qué función cumple la homeostasis.",
-          "respuesta": "Mantener estable el medio interno (temperatura, glucosa, agua) para que el cuerpo funcione bien, con ayuda de ambos sistemas."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-063",
-    "titulo": "Salud sexual y reproductiva: prevención de ITS y embarazo adolescente",
-    "slug": "salud-sexual-prevencion-its-embarazo-secundaria",
-    "palabras": [
-      "ITS",
-      "embarazo adolescente",
-      "prevención",
-      "anticonceptivos",
-      "salud reproductiva"
-    ],
-    "contenido": {
-      "idea": "Cuidar tu salud es como revisar tu mochila antes de salir: si tomas información confiable y planeas con tiempo, evitas problemas y decides con tranquilidad.",
-      "pizarron": "**Qué es:** la salud sexual es cuidar tu cuerpo y tus decisiones, con información verdadera y respeto.\n\n**Consentimiento:** nadie debe presionarte. Tampoco tú a nadie.\n\n**ITS:** son infecciones de transmisión sexual, como el VIH o el virus del papiloma. Algunas no se notan al inicio.\n\n**Cómo prevenir:**\n\n1. Posponer el inicio de la vida sexual.\n2. Usar condón correctamente en cada relación.\n3. Ponerse las vacunas, como la del papiloma.\n4. Ir al médico.\n\n**Embarazo adolescente:** puede afectar tu salud y tus estudios. Se previene con información y orientación del personal de salud.\n\n**Para tu escuela:** anota a qué adulto de confianza o centro de salud le preguntarías tus dudas.",
-      "truco": "Informarte, decidir, cuidarte y pedir ayuda.",
-      "practica": {
-        "ejercicio": "Un amigo cree que solo se contagia una ITS si hay síntomas visibles. ¿Es cierto? Explica.",
-        "respuesta": "No. Muchas ITS no presentan síntomas al inicio; por eso la prevención y las pruebas médicas son importantes."
-      },
-      "analogias": [
-        {
-          "titulo": "Cinturón de seguridad",
-          "texto": "Igual que el cinturón se usa siempre, no solo en viajes largos, los métodos de protección se usan en cada ocasión para reducir riesgos."
-        },
-        {
-          "titulo": "Mapa antes del viaje",
-          "texto": "Quien consulta un mapa llega mejor a su destino. Informarte con fuentes confiables te ayuda a decidir sobre tu futuro con claridad."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos formas de prevenir una ITS.",
-          "respuesta": "Por ejemplo: uso correcto del condón, vacunación, posponer el inicio sexual, revisiones médicas."
-        },
-        {
-          "ejercicio": "¿A quién puedes acudir para recibir orientación confiable?",
-          "respuesta": "Personal de salud de un centro de salud, docentes, madre, padre o adultos de confianza."
-        },
-        {
-          "ejercicio": "Reflexiona: una persona te presiona para hacer algo con lo que no estás de acuerdo. ¿Qué haces?",
-          "respuesta": "Decir no con firmeza, alejarte y avisar a un adulto de confianza. Criterio: reconoces tu derecho a decidir y buscas apoyo."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-066",
-    "titulo": "Alimentación saludable y alimentos ultraprocesados",
-    "slug": "alimentacion-ultraprocesados-enfermedades-secundaria",
-    "palabras": [
-      "ultraprocesados",
-      "obesidad",
-      "diabetes",
-      "plato del bien comer",
-      "nutrición"
-    ],
-    "contenido": {
-      "idea": "Tu cuerpo es como un coche: con buen combustible rinde y dura. Si siempre le pones mezclas llenas de azúcar y grasa, empieza a fallar.",
-      "pizarron": "**La regla:** come variado y suficiente, con agua simple y pocos alimentos ultraprocesados.\n\n**Ultraprocesados:** son productos de fábrica con mucha azúcar, sal o grasa. Refrescos, botanas y galletas.\n\nDan energía, pero casi no nutren. Como llenar un coche con gasolina mala.\n\n**Si se comen mucho:** pueden causar obesidad, diabetes, caries y problemas del corazón.\n\n**Qué hacer:**\n\n- Lee los sellos negros del empaque.\n- Toma agua.\n- Prefiere comida fresca.\n- Muévete.\n\nNo se trata de prohibir, sino de comerlos poco.\n\n**Para tu escuela:** revisa los sellos de tres productos de tu lonchera.",
-      "truco": "Mientras menos etiquetas con sellos, mejor para tu plato.",
-      "practica": {
-        "ejercicio": "Un producto trae sellos de exceso de azúcares y exceso de calorías. ¿Conviene consumirlo todos los días?",
-        "respuesta": "No. Debe ser ocasional; conviene sustituirlo por fruta y agua."
-      },
-      "analogias": [
-        {
-          "titulo": "Alcancía",
-          "texto": "El azúcar de más es como meter monedas a una alcancía sin parar: el cuerpo la guarda como grasa hasta que ya no cabe."
-        },
-        {
-          "titulo": "Ladrillos de una casa",
-          "texto": "Los alimentos frescos son ladrillos fuertes para construir tu cuerpo; los ultraprocesados son relleno barato que no sostiene la pared."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos enfermedades asociadas con una mala alimentación.",
-          "respuesta": "Obesidad y diabetes tipo 2, entre otras."
-        },
-        {
-          "ejercicio": "¿Qué indican los sellos negros del etiquetado frontal?",
-          "respuesta": "Que el producto tiene exceso de calorías, azúcares, grasas o sodio, según el sello."
-        },
-        {
-          "ejercicio": "Propón un refrigerio saludable para sustituir unas papas fritas.",
-          "respuesta": "Por ejemplo: jícama con limón, fruta o cacahuates naturales. Criterio: alimento fresco, sin sellos."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-067",
-    "titulo": "Diversidad de saberes sobre los seres vivos y el medio ambiente",
-    "slug": "diversidad-saberes-seres-vivos-secundaria",
-    "palabras": [
-      "saberes tradicionales",
-      "pueblos originarios",
-      "biodiversidad",
-      "conocimiento comunitario",
-      "medio ambiente"
-    ],
-    "contenido": {
-      "idea": "Es como una receta familiar: cada casa la prepara distinta y todas saben bien. Cuando se comparten, la cocina de todos mejora.",
-      "pizarron": "**Qué es:** son conocimientos sobre la naturaleza que los pueblos guardan y pasan de abuelos a nietos.\n\n**Ejemplo, la milpa:** se siembran juntos maíz, frijol y calabaza.\n\nEl maíz sube.\n\nEl frijol da nitrógeno al suelo.\n\nLa calabaza cubre la tierra y guarda humedad.\n\nEs un equipo de plantas.\n\n**Otros saberes:** plantas medicinales y calendarios para sembrar.\n\nLa ciencia de la escuela y estos saberes se ayudan. Las plantas medicinales deben usarse con orientación médica.\n\n**Para recordar:**\n- **¿Por qué una planta medicinal tradicional requiere precaución?** Porque la dosis o la combinación pueden dañar; conviene consultar a personal de salud.\n\n**Para tu escuela:** pregunta a un abuelo qué sabe de plantas o de la lluvia.",
-      "truco": "Escuchar, comparar, respetar y cuidar.",
-      "practica": {
-        "ejercicio": "Explica por qué la milpa es un ejemplo de relación sostenible con el medio.",
-        "respuesta": "Porque combina cultivos que se benefician entre sí: el frijol fija nitrógeno, la calabaza protege el suelo y el maíz da soporte."
-      },
-      "analogias": [
-        {
-          "titulo": "Rompecabezas",
-          "texto": "Cada saber es una pieza. Con solo una se ve media imagen; al unir las de la ciencia y las de las comunidades, la imagen de la naturaleza se completa."
-        },
-        {
-          "titulo": "Biblioteca viva",
-          "texto": "Los abuelos son libros que se cuentan en voz alta. Si nadie los escucha, esa biblioteca se pierde."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué cultivos forman la milpa?",
-          "respuesta": "Maíz, frijol y calabaza."
-        },
-        {
-          "ejercicio": "¿Por qué una planta medicinal tradicional requiere precaución?",
-          "respuesta": "Porque la dosis o la combinación pueden dañar; conviene consultar a personal de salud."
-        },
-        {
-          "ejercicio": "Reflexiona: entrevista a un familiar sobre una planta que use. ¿Qué preguntas harías?",
-          "respuesta": "Criterios: preguntas sobre nombre, uso, cuidado y origen del saber, y registro respetuoso de la fuente."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-070",
-    "titulo": "Procesos vitales: nutrición, relación con el medio y reproducción",
-    "slug": "procesos-vitales-seres-vivos-secundaria",
-    "palabras": [
-      "nutrición",
-      "reproducción",
-      "irritabilidad",
-      "seres vivos",
-      "funciones vitales"
-    ],
-    "contenido": {
-      "idea": "Un ser vivo es como un teléfono celular que se carga, responde cuando lo tocas y puede crear copias de sus fotos: obtiene energía, reacciona y se perpetúa.",
-      "pizarron": "**La regla:** todo ser vivo se nutre, se relaciona con su medio y se reproduce.\n\n**Nutrición:** conseguir energía. Las plantas hacen su comida. Los animales comen a otros.\n\n**Relación:** notar lo que pasa y responder. Una planta gira hacia la luz. Un perro corre si oyes su nombre.\n\n**Reproducción:** tener descendencia.\n\nCon un solo progenitor es **asexual**, como una bacteria que se parte en dos.\n\nCon dos es **sexual**, y las crías salen distintas.\n\n**Para recordar:**\n- **¿Qué diferencia hay entre un organismo autótrofo y uno heterótrofo?** El autótrofo fabrica su alimento (fotosíntesis); el heterótrofo debe consumir otros seres vivos.\n- **¿Por qué la reproducción sexual genera más variabilidad que la asexual?** Porque combina material genético de dos progenitores, así los descendientes difieren entre sí.\n\n**Para tu escuela:** elige un ser vivo y da un ejemplo de cada proceso.",
-      "truco": "Nutrirse, relacionarse y reproducirse: N-R-R.",
-      "practica": {
-        "ejercicio": "Una planta crece hacia la ventana. ¿Qué proceso vital ilustra?",
-        "respuesta": "La relación con el medio: responde al estímulo de la luz."
-      },
-      "analogias": [
-        {
-          "titulo": "Panadería",
-          "texto": "La nutrición es conseguir ingredientes y hornear para tener energía; la relación es atender a los clientes; la reproducción es abrir una sucursal."
-        },
-        {
-          "titulo": "Radio",
-          "texto": "Un ser vivo es como un radio: se alimenta de pilas, capta señales del ambiente y puede fabricarse otro igual."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué diferencia hay entre un organismo autótrofo y uno heterótrofo?",
-          "respuesta": "El autótrofo fabrica su alimento (fotosíntesis); el heterótrofo debe consumir otros seres vivos."
-        },
-        {
-          "ejercicio": "Clasifica: una lagartija huye de un gato; una bacteria se divide en dos.",
-          "respuesta": "Huir: relación con el medio. División: reproducción asexual."
-        },
-        {
-          "ejercicio": "¿Por qué la reproducción sexual genera más variabilidad que la asexual?",
-          "respuesta": "Porque combina material genético de dos progenitores, así los descendientes difieren entre sí."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-072",
-    "titulo": "La biodiversidad como resultado del cambio en el tiempo",
-    "slug": "biodiversidad-cambio-tiempo-evolucion-secundaria",
-    "palabras": [
-      "biodiversidad",
-      "evolución",
-      "selección natural",
-      "adaptación",
-      "Darwin"
-    ],
-    "contenido": {
-      "idea": "Imagina una familia con muchos primos: todos se parecen, pero con los años cada rama de la familia se volvió distinta. Así pasó con los seres vivos.",
-      "pizarron": "**Qué es:** la biodiversidad es la variedad de seres vivos. Es el resultado de la evolución: los seres vivos cambian poco a poco, en muchas generaciones.\n\nMéxico es **megadiverso**: tiene muchísimas especies.\n\n**Cómo pasa, según Darwin:**\n\n1. Los individuos no son iguales.\n2. Algunos rasgos se heredan.\n3. Nacen más crías de las que sobreviven.\n4. Los mejor adaptados dejan más crías.\n5. Con el tiempo, ese rasgo se vuelve común.\n\n**Ejemplo:** en arbustos oscuros, las polillas oscuras se esconden mejor. Dejan más crías, y al final casi todas son oscuras.\n\n**Para recordar:**\n- **Adaptación:** Característica heredada que aumenta la probabilidad de sobrevivir y reproducirse en un ambiente.\n- **¿Qué tres niveles abarca la biodiversidad?** Genes, especies y ecosistemas.\n\n**Para tu escuela:** explica con tus palabras por qué ganó la polilla oscura.",
-      "truco": "Variación, herencia, selección: sobreviven los mejor adaptados.",
-      "practica": {
-        "ejercicio": "En una población de insectos, unos son verdes y otros cafés; las aves ven mejor a los verdes en un tronco café. ¿Qué pasará con el tiempo?",
-        "respuesta": "Los cafés sobrevivirán más, se reproducirán más y serán más comunes en la población."
-      },
-      "analogias": [
-        {
-          "titulo": "Árbol genealógico",
-          "texto": "Como una familia se ramifica en generaciones, las especies se ramifican desde ancestros comunes y producen nuevas formas."
-        },
-        {
-          "titulo": "Filtro de café",
-          "texto": "El ambiente actúa como un filtro: deja pasar las características que ayudan a sobrevivir y detiene las que no."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tres niveles abarca la biodiversidad?",
-          "respuesta": "Genes, especies y ecosistemas."
-        },
-        {
-          "ejercicio": "Define adaptación.",
-          "respuesta": "Característica heredada que aumenta la probabilidad de sobrevivir y reproducirse en un ambiente."
-        },
-        {
-          "ejercicio": "Menciona dos evidencias de la evolución.",
-          "respuesta": "Fósiles, anatomía comparada, semejanzas en el ADN, entre otras."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-074",
-    "titulo": "Calentamiento global y ciclos biogeoquímicos",
-    "slug": "calentamiento-global-ciclos-biogeoquimicos-secundaria",
-    "palabras": [
-      "calentamiento global",
-      "ciclo del carbono",
-      "efecto invernadero",
-      "cambio climático",
-      "dióxido de carbono"
-    ],
-    "contenido": {
-      "idea": "La Tierra es como un coche cerrado bajo el sol: si se acumulan los gases que atrapan el calor, adentro la temperatura sube cada vez más.",
-      "pizarron": "**Qué es:** el calentamiento global es el aumento de la temperatura de la Tierra, por gases que atrapan calor.\n\nImagina una cobija sobre el planeta. Una cobija delgada es buena, porque sin ella haría mucho frío. Si se hace muy gruesa, sobra calor.\n\n**Por qué pasa:** al quemar petróleo, gas y carbón, y al talar árboles, hay más $\\ce{CO2}$ en el aire.\n\n**Ciclo del carbono:** las plantas toman $\\ce{CO2}$, y los seres vivos lo devuelven al respirar.\n\n**Qué causa:** se derrite el hielo, sube el mar, hay más sequías y lluvias fuertes.\n\n**Qué hacer:** ahorrar luz, usar transporte público y plantar árboles.\n\n**Para recordar:**\n- **¿Por qué la deforestación contribuye al calentamiento global?** Hay menos plantas que absorban dióxido de carbono y, si se queman, liberan el carbono que guardaban.\n\n**Para tu escuela:** escribe tres acciones que tu familia puede hacer.",
-      "truco": "Más gases invernadero, más calor atrapado.",
-      "practica": {
-        "ejercicio": "¿Por qué la deforestación contribuye al calentamiento global?",
-        "respuesta": "Hay menos plantas que absorban dióxido de carbono y, si se queman, liberan el carbono que guardaban."
-      },
-      "analogias": [
-        {
-          "titulo": "Cobija",
-          "texto": "Los gases invernadero son una cobija: una ligera abriga, pero si le echas diez encima, el calor ya no puede salir."
-        },
-        {
-          "titulo": "Cuenta bancaria",
-          "texto": "El carbono es como dinero: si gastas más del que ingresa, la atmósfera acumula deuda en forma de gases."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Menciona dos gases de efecto invernadero.",
-          "respuesta": "Dióxido de carbono y metano (también óxido nitroso, vapor de agua)."
-        },
-        {
-          "ejercicio": "¿Qué proceso quita dióxido de carbono del aire?",
-          "respuesta": "La fotosíntesis."
-        },
-        {
-          "ejercicio": "Propón dos acciones personales para reducir tu huella de carbono.",
-          "respuesta": "Por ejemplo: caminar o usar transporte público, apagar luces, reducir desperdicio de alimentos, plantar árboles."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-076",
-    "titulo": "El microscopio y la unidad y diversidad de los seres vivos",
-    "slug": "microscopio-unidad-diversidad-seres-vivos-secundaria",
-    "palabras": [
-      "microscopio",
-      "célula",
-      "teoría celular",
-      "Hooke",
-      "Leeuwenhoek"
-    ],
-    "contenido": {
-      "idea": "El microscopio es como unos lentes mágicos que dejan ver el mundo diminuto, igual que una lupa muy poderosa que muestra los ladrillos de los que estamos hechos.",
-      "pizarron": "**La ley (teoría celular):** todos los seres vivos están hechos de células, y toda célula viene de otra célula.\n\nEl **microscopio** sirve para ver lo muy pequeño. Robert Hooke vio células en un corcho.\n\n**Unidad:** todos tenemos células.\n\n**Diversidad:** hay seres de una sola célula, como las bacterias, y seres de muchas, como tú.\n\nHay células sin núcleo, las **procariotas**, y con núcleo, las **eucariotas**.\n\n**Cómo calcular el aumento:** ocular por objetivo.\n\n$$10 \\times 40 = 400 \\text{ aumentos}$$\n\n**Para recordar:**\n- **¿Qué diferencia hay entre una célula procariota y una eucariota?** La procariota no tiene núcleo definido; la eucariota sí.\n\n**Para tu escuela:** calcula el aumento con ocular 10 y objetivo 100.",
-      "truco": "Ocular por objetivo: multiplica para el aumento.",
-      "practica": {
-        "ejercicio": "Un microscopio tiene ocular de 10× y objetivo de 10×. ¿Cuál es el aumento total?",
-        "respuesta": "10 × 10 = 100 aumentos."
-      },
-      "analogias": [
-        {
-          "titulo": "Piezas de Lego",
-          "texto": "Todos los seres vivos están hechos de células, como distintas construcciones están hechas de las mismas piezas de Lego."
-        },
-        {
-          "titulo": "Mapa con zoom",
-          "texto": "Acercar el mapa revela calles que no se veían; el microscopio acerca la vida para descubrir los detalles escondidos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Con ocular de 10× y objetivo de 40×, ¿cuántos aumentos se obtienen?",
-          "respuesta": "400 aumentos."
-        },
-        {
-          "ejercicio": "¿Qué diferencia hay entre una célula procariota y una eucariota?",
-          "respuesta": "La procariota no tiene núcleo definido; la eucariota sí."
-        },
-        {
-          "ejercicio": "Enuncia dos ideas de la teoría celular.",
-          "respuesta": "Los seres vivos están formados por células; toda célula proviene de otra célula."
-        }
-      ]
-    }
-  },
-  {
-    "nodo_id": "f6-078",
-    "titulo": "Las vacunas y el control de enfermedades infecciosas",
-    "slug": "vacunas-enfermedades-infecciosas-secundaria",
-    "palabras": [
-      "vacunas",
-      "inmunidad",
-      "anticuerpos",
-      "infecciones",
-      "esquema de vacunación"
-    ],
-    "contenido": {
-      "idea": "Una vacuna es como un simulacro de temblor: practicas con un aviso falso para saber qué hacer cuando llegue el temblor de verdad.",
-      "pizarron": "**Qué es:** una vacuna enseña al cuerpo a reconocer un microbio, sin enfermarlo.\n\nEs un simulacro. El cuerpo practica para saber qué hacer si llega el peligro real.\n\n**Cómo funciona:**\n\n1. La vacuna trae el microbio debilitado, muerto o una parte.\n2. El cuerpo fabrica **anticuerpos**.\n3. El cuerpo recuerda al microbio.\n4. Si llega el real, responde rápido.\n\n**Por qué importa:** la viruela desapareció gracias a las vacunas.\n\nSi casi todos se vacunan, también se protege a quien no puede. Eso es **inmunidad de grupo**.\n\nPuede dar dolor en el brazo o algo de fiebre, y se pasa.\n\n**Para recordar:**\n- **Inmunidad de grupo:** La protección indirecta que se logra cuando la mayoría está vacunada y se frena la propagación.\n- **¿Por qué una persona vacunada se enferma menos al encontrar el microbio real?** Porque su sistema inmunitario ya tiene memoria y produce anticuerpos con rapidez.\n\n**Para tu escuela:** revisa tu cartilla y anota tu última vacuna.",
-      "truco": "Vacuna = entrenamiento sin enfermedad.",
-      "practica": {
-        "ejercicio": "¿Por qué una persona vacunada se enferma menos al encontrar el microbio real?",
-        "respuesta": "Porque su sistema inmunitario ya tiene memoria y produce anticuerpos con rapidez."
-      },
-      "analogias": [
-        {
-          "titulo": "Foto de un ladrón",
-          "texto": "La vacuna le muestra a tu cuerpo la foto del ladrón; así lo reconoce y lo detiene en cuanto aparece."
-        },
-        {
-          "titulo": "Muro de grupo",
-          "texto": "Cuando muchos están vacunados forman un muro que la enfermedad no puede cruzar, y protegen a los más vulnerables."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué contiene una vacuna?",
-          "respuesta": "El patógeno debilitado o muerto, o una parte de él, que no causa la enfermedad."
-        },
-        {
-          "ejercicio": "Explica qué es la inmunidad de grupo.",
-          "respuesta": "La protección indirecta que se logra cuando la mayoría está vacunada y se frena la propagación."
-        },
-        {
-          "ejercicio": "Menciona una enfermedad controlada gracias a la vacunación.",
-          "respuesta": "Por ejemplo: poliomielitis, sarampión o tétanos; la viruela fue erradicada."
-        }
-      ]
-    }
-  }
+{
+"nodo_id": "f6-061",
+"titulo": "Sistemas nervioso y endocrino: la coordinación del cuerpo",
+"slug": "nervioso-endocrino-coordinacion-secundaria",
+"palabras": [
+"sistema nervioso",
+"hormonas",
+"endocrino",
+"neuronas",
+"coordinación"
+],
+"contenido": {
+"idea": "Tu cuerpo es como una escuela: el sistema nervioso es el timbre que suena al instante y avisa a todos, y el sistema endocrino son las circulares que llegan a casa y tardan más, pero sus efectos duran días.",
+"pizarron": "**Qué es:** son dos sistemas que dan órdenes al cuerpo. El nervioso usa señales eléctricas. El endocrino usa hormonas por la sangre.\n\n**Nervioso:** como un mensaje de texto: llega en un instante y dura poco. Quitas la mano de lo caliente.\n\n**Endocrino:** como una carta: tarda, pero dura. Te hace crecer.\n\n**Trabajan juntos:** te asustas. El nervioso reacciona en segundos, y la adrenalina te mantiene alerta.\n\nLos dos mantienen el cuerpo en equilibrio. Eso se llama **homeostasis**.\n\n**Sistema nervioso:** responde rápido. Aparta tu mano de una estufa caliente.\n\n**Sistema endocrino:** trabaja con hormonas. La insulina del páncreas regula el azúcar.\n\n**Para tu escuela:** clasifica: parpadear y crecer. ¿Cuál es nervioso y cuál hormonal?",
+"truco": "Nervioso = rápido y eléctrico; endocrino = lento y químico.",
+"practica": {
+"ejercicio": "¿Qué sistema participa al apartar la mano de una estufa caliente y cuál al regular el azúcar en la sangre después de comer?",
+"respuesta": "Apartar la mano: sistema nervioso. Regular el azúcar: sistema endocrino, mediante la insulina del páncreas."
+},
+"analogias": [
+{
+"titulo": "Teléfono y correo",
+"texto": "El sistema nervioso es una llamada telefónica: llega al momento y a un destino preciso. El endocrino es una carta repartida por el correo: tarda más, pero llega a muchos lugares y se queda."
+},
+{
+"titulo": "Semáforo y plan de la ciudad",
+"texto": "El nervioso es el semáforo que cambia de inmediato para ordenar el tránsito. El endocrino es el plan de la ciudad, que regula a largo plazo cómo crece y funciona todo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué sustancias liberan las glándulas endocrinas y por dónde viajan?",
+"respuesta": "Hormonas, que viajan por la sangre."
+},
+{
+"ejercicio": "Clasifica como nervioso o endocrino: parpadear ante una luz fuerte; crecimiento durante la adolescencia.",
+"respuesta": "Parpadear: nervioso. Crecimiento: endocrino."
+},
+{
+"ejercicio": "Explica con tus palabras qué función cumple la homeostasis.",
+"respuesta": "Mantener estable el medio interno (temperatura, glucosa, agua) para que el cuerpo funcione bien, con ayuda de ambos sistemas."
+}
+]
+}
+},
+{
+"nodo_id": "f6-063",
+"titulo": "Salud sexual y reproductiva: prevención de ITS y embarazo adolescente",
+"slug": "salud-sexual-prevencion-its-embarazo-secundaria",
+"palabras": [
+"ITS",
+"embarazo adolescente",
+"prevención",
+"anticonceptivos",
+"salud reproductiva"
+],
+"contenido": {
+"idea": "Cuidar tu salud es como revisar tu mochila antes de salir: si tomas información confiable y planeas con tiempo, evitas problemas y decides con tranquilidad.",
+"pizarron": "**Qué es:** la salud sexual es cuidar tu cuerpo y tus decisiones, con información verdadera y respeto.\n\n**Consentimiento:** nadie debe presionarte. Tampoco tú a nadie.\n\n**ITS:** son infecciones de transmisión sexual, como el VIH o el virus del papiloma. Algunas no se notan al inicio.\n\n**Cómo prevenir:**\n\n1. Posponer el inicio de la vida sexual.\n2. Usar condón correctamente en cada relación.\n3. Ponerse las vacunas, como la del papiloma.\n4. Ir al médico.\n\n**Embarazo adolescente:** puede afectar tu salud y tus estudios. Se previene con información y orientación del personal de salud.\n\n**Para tu escuela:** anota a qué adulto de confianza o centro de salud le preguntarías tus dudas.",
+"truco": "Informarte, decidir, cuidarte y pedir ayuda.",
+"practica": {
+"ejercicio": "Un amigo cree que solo se contagia una ITS si hay síntomas visibles. ¿Es cierto? Explica.",
+"respuesta": "No. Muchas ITS no presentan síntomas al inicio; por eso la prevención y las pruebas médicas son importantes."
+},
+"analogias": [
+{
+"titulo": "Cinturón de seguridad",
+"texto": "Igual que el cinturón se usa siempre, no solo en viajes largos, los métodos de protección se usan en cada ocasión para reducir riesgos."
+},
+{
+"titulo": "Mapa antes del viaje",
+"texto": "Quien consulta un mapa llega mejor a su destino. Informarte con fuentes confiables te ayuda a decidir sobre tu futuro con claridad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos formas de prevenir una ITS.",
+"respuesta": "Por ejemplo: uso correcto del condón, vacunación, posponer el inicio sexual, revisiones médicas."
+},
+{
+"ejercicio": "¿A quién puedes acudir para recibir orientación confiable?",
+"respuesta": "Personal de salud de un centro de salud, docentes, madre, padre o adultos de confianza."
+},
+{
+"ejercicio": "Reflexiona: una persona te presiona para hacer algo con lo que no estás de acuerdo. ¿Qué haces?",
+"respuesta": "Decir no con firmeza, alejarte y avisar a un adulto de confianza. Criterio: reconoces tu derecho a decidir y buscas apoyo."
+}
+]
+}
+},
+{
+"nodo_id": "f6-066",
+"titulo": "Alimentación saludable y alimentos ultraprocesados",
+"slug": "alimentacion-ultraprocesados-enfermedades-secundaria",
+"palabras": [
+"ultraprocesados",
+"obesidad",
+"diabetes",
+"plato del bien comer",
+"nutrición"
+],
+"contenido": {
+"idea": "Tu cuerpo es como un coche: con buen combustible rinde y dura. Si siempre le pones mezclas llenas de azúcar y grasa, empieza a fallar.",
+"pizarron": "**La regla:** come variado y suficiente, con agua simple y pocos alimentos ultraprocesados.\n\n**Ultraprocesados:** son productos de fábrica con mucha azúcar, sal o grasa. Refrescos, botanas y galletas.\n\nDan energía, pero casi no nutren. Como llenar un coche con gasolina mala.\n\n**Si se comen mucho:** pueden causar obesidad, diabetes, caries y problemas del corazón.\n\n**Qué hacer:**\n\n- Lee los sellos negros del empaque.\n- Toma agua.\n- Prefiere comida fresca.\n- Muévete.\n\nNo se trata de prohibir, sino de comerlos poco.\n\n**Para tu escuela:** revisa los sellos de tres productos de tu lonchera.",
+"truco": "Mientras menos etiquetas con sellos, mejor para tu plato.",
+"practica": {
+"ejercicio": "Un producto trae sellos de exceso de azúcares y exceso de calorías. ¿Conviene consumirlo todos los días?",
+"respuesta": "No. Debe ser ocasional; conviene sustituirlo por fruta y agua."
+},
+"analogias": [
+{
+"titulo": "Alcancía",
+"texto": "El azúcar de más es como meter monedas a una alcancía sin parar: el cuerpo la guarda como grasa hasta que ya no cabe."
+},
+{
+"titulo": "Ladrillos de una casa",
+"texto": "Los alimentos frescos son ladrillos fuertes para construir tu cuerpo; los ultraprocesados son relleno barato que no sostiene la pared."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos enfermedades asociadas con una mala alimentación.",
+"respuesta": "Obesidad y diabetes tipo 2, entre otras."
+},
+{
+"ejercicio": "¿Qué indican los sellos negros del etiquetado frontal?",
+"respuesta": "Que el producto tiene exceso de calorías, azúcares, grasas o sodio, según el sello."
+},
+{
+"ejercicio": "Propón un refrigerio saludable para sustituir unas papas fritas.",
+"respuesta": "Por ejemplo: jícama con limón, fruta o cacahuates naturales. Criterio: alimento fresco, sin sellos."
+}
+]
+}
+},
+{
+"nodo_id": "f6-067",
+"titulo": "Diversidad de saberes sobre los seres vivos y el medio ambiente",
+"slug": "diversidad-saberes-seres-vivos-secundaria",
+"palabras": [
+"saberes tradicionales",
+"pueblos originarios",
+"biodiversidad",
+"conocimiento comunitario",
+"medio ambiente"
+],
+"contenido": {
+"idea": "Es como una receta familiar: cada casa la prepara distinta y todas saben bien. Cuando se comparten, la cocina de todos mejora.",
+"pizarron": "**Qué es:** son conocimientos sobre la naturaleza que los pueblos guardan y pasan de abuelos a nietos.\n\n**Ejemplo, la milpa:** se siembran juntos maíz, frijol y calabaza.\n\nEl maíz sube.\n\nEl frijol da nitrógeno al suelo.\n\nLa calabaza cubre la tierra y guarda humedad.\n\nEs un equipo de plantas.\n\n**Otros saberes:** plantas medicinales y calendarios para sembrar.\n\nLa ciencia de la escuela y estos saberes se ayudan. Las plantas medicinales deben usarse con orientación médica.\n\n**Precaución:** una planta medicinal puede dañar si se usa de más. Consulta a personal de salud.\n\n**Para tu escuela:** pregunta a un abuelo qué sabe de plantas o de la lluvia.",
+"truco": "Escuchar, comparar, respetar y cuidar.",
+"practica": {
+"ejercicio": "Explica por qué la milpa es un ejemplo de relación sostenible con el medio.",
+"respuesta": "Porque combina cultivos que se benefician entre sí: el frijol fija nitrógeno, la calabaza protege el suelo y el maíz da soporte."
+},
+"analogias": [
+{
+"titulo": "Rompecabezas",
+"texto": "Cada saber es una pieza. Con solo una se ve media imagen; al unir las de la ciencia y las de las comunidades, la imagen de la naturaleza se completa."
+},
+{
+"titulo": "Biblioteca viva",
+"texto": "Los abuelos son libros que se cuentan en voz alta. Si nadie los escucha, esa biblioteca se pierde."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué cultivos forman la milpa?",
+"respuesta": "Maíz, frijol y calabaza."
+},
+{
+"ejercicio": "¿Por qué una planta medicinal tradicional requiere precaución?",
+"respuesta": "Porque la dosis o la combinación pueden dañar; conviene consultar a personal de salud."
+},
+{
+"ejercicio": "Reflexiona: entrevista a un familiar sobre una planta que use. ¿Qué preguntas harías?",
+"respuesta": "Criterios: preguntas sobre nombre, uso, cuidado y origen del saber, y registro respetuoso de la fuente."
+}
+]
+}
+},
+{
+"nodo_id": "f6-070",
+"titulo": "Procesos vitales: nutrición, relación con el medio y reproducción",
+"slug": "procesos-vitales-seres-vivos-secundaria",
+"palabras": [
+"nutrición",
+"reproducción",
+"irritabilidad",
+"seres vivos",
+"funciones vitales"
+],
+"contenido": {
+"idea": "Un ser vivo es como un teléfono celular que se carga, responde cuando lo tocas y puede crear copias de sus fotos: obtiene energía, reacciona y se perpetúa.",
+"pizarron": "**La regla:** todo ser vivo se nutre, se relaciona con su medio y se reproduce.\n\n**Nutrición:** conseguir energía. Las plantas hacen su comida. Los animales comen a otros.\n\n**Relación:** notar lo que pasa y responder. Una planta gira hacia la luz. Un perro corre si oyes su nombre.\n\n**Reproducción:** tener descendencia.\n\nCon un solo progenitor es **asexual**, como una bacteria que se parte en dos.\n\nCon dos es **sexual**, y las crías salen distintas.\n\n**Autótrofo:** fabrica su alimento. **Heterótrofo:** come a otros seres vivos.\n\n**Reproducción sexual:** mezcla los genes de dos padres. Por eso los hijos son distintos entre sí.\n\n**Para tu escuela:** elige un ser vivo y da un ejemplo de cada proceso.",
+"truco": "Nutrirse, relacionarse y reproducirse: N-R-R.",
+"practica": {
+"ejercicio": "Una planta crece hacia la ventana. ¿Qué proceso vital ilustra?",
+"respuesta": "La relación con el medio: responde al estímulo de la luz."
+},
+"analogias": [
+{
+"titulo": "Panadería",
+"texto": "La nutrición es conseguir ingredientes y hornear para tener energía; la relación es atender a los clientes; la reproducción es abrir una sucursal."
+},
+{
+"titulo": "Radio",
+"texto": "Un ser vivo es como un radio: se alimenta de pilas, capta señales del ambiente y puede fabricarse otro igual."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué diferencia hay entre un organismo autótrofo y uno heterótrofo?",
+"respuesta": "El autótrofo fabrica su alimento (fotosíntesis); el heterótrofo debe consumir otros seres vivos."
+},
+{
+"ejercicio": "Clasifica: una lagartija huye de un gato; una bacteria se divide en dos.",
+"respuesta": "Huir: relación con el medio. División: reproducción asexual."
+},
+{
+"ejercicio": "¿Por qué la reproducción sexual genera más variabilidad que la asexual?",
+"respuesta": "Porque combina material genético de dos progenitores, así los descendientes difieren entre sí."
+}
+]
+}
+},
+{
+"nodo_id": "f6-072",
+"titulo": "La biodiversidad como resultado del cambio en el tiempo",
+"slug": "biodiversidad-cambio-tiempo-evolucion-secundaria",
+"palabras": [
+"biodiversidad",
+"evolución",
+"selección natural",
+"adaptación",
+"Darwin"
+],
+"contenido": {
+"idea": "Imagina una familia con muchos primos: todos se parecen, pero con los años cada rama de la familia se volvió distinta. Así pasó con los seres vivos.",
+"pizarron": "**Qué es:** la biodiversidad es la variedad de seres vivos. Es el resultado de la evolución: los seres vivos cambian poco a poco, en muchas generaciones.\n\nMéxico es **megadiverso**: tiene muchísimas especies.\n\n**Cómo pasa, según Darwin:**\n\n1. Los individuos no son iguales.\n2. Algunos rasgos se heredan.\n3. Nacen más crías de las que sobreviven.\n4. Los mejor adaptados dejan más crías.\n5. Con el tiempo, ese rasgo se vuelve común.\n\n**Ejemplo:** en arbustos oscuros, las polillas oscuras se esconden mejor. Dejan más crías, y al final casi todas son oscuras.\n\n**Adaptación:** rasgo heredado que ayuda a sobrevivir.\n\nLa biodiversidad abarca tres niveles: genes, especies y ecosistemas.\n\n**Para tu escuela:** explica con tus palabras por qué ganó la polilla oscura.",
+"truco": "Variación, herencia, selección: sobreviven los mejor adaptados.",
+"practica": {
+"ejercicio": "En una población de insectos, unos son verdes y otros cafés; las aves ven mejor a los verdes en un tronco café. ¿Qué pasará con el tiempo?",
+"respuesta": "Los cafés sobrevivirán más, se reproducirán más y serán más comunes en la población."
+},
+"analogias": [
+{
+"titulo": "Árbol genealógico",
+"texto": "Como una familia se ramifica en generaciones, las especies se ramifican desde ancestros comunes y producen nuevas formas."
+},
+{
+"titulo": "Filtro de café",
+"texto": "El ambiente actúa como un filtro: deja pasar las características que ayudan a sobrevivir y detiene las que no."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tres niveles abarca la biodiversidad?",
+"respuesta": "Genes, especies y ecosistemas."
+},
+{
+"ejercicio": "Define adaptación.",
+"respuesta": "Característica heredada que aumenta la probabilidad de sobrevivir y reproducirse en un ambiente."
+},
+{
+"ejercicio": "Menciona dos evidencias de la evolución.",
+"respuesta": "Fósiles, anatomía comparada, semejanzas en el ADN, entre otras."
+}
+]
+}
+},
+{
+"nodo_id": "f6-074",
+"titulo": "Calentamiento global y ciclos biogeoquímicos",
+"slug": "calentamiento-global-ciclos-biogeoquimicos-secundaria",
+"palabras": [
+"calentamiento global",
+"ciclo del carbono",
+"efecto invernadero",
+"cambio climático",
+"dióxido de carbono"
+],
+"contenido": {
+"idea": "La Tierra es como un coche cerrado bajo el sol: si se acumulan los gases que atrapan el calor, adentro la temperatura sube cada vez más.",
+"pizarron": "**Qué es:** el calentamiento global es el aumento de la temperatura de la Tierra, por gases que atrapan calor.\n\n**Imagínalo:** una cobija sobre el planeta. Una delgada es buena. Si es muy gruesa, sobra calor.\n\n**Gases:** dióxido de carbono y metano.\n\n**Por qué pasa:** al quemar petróleo, gas y carbón, hay más $\\ce{CO2}$.\n\n**Árboles:** con la fotosíntesis quitan $\\ce{CO2}$ del aire. Al talarlos, se quita menos, y si se queman sueltan lo que guardaban.\n\n**Efectos:** se derrite el hielo y hay más sequías.\n\n**Qué hacer:** ahorrar luz, caminar y plantar árboles.\n\n**Para tu escuela:** escribe tres acciones que tu familia puede hacer.",
+"truco": "Más gases invernadero, más calor atrapado.",
+"practica": {
+"ejercicio": "¿Por qué la deforestación contribuye al calentamiento global?",
+"respuesta": "Hay menos plantas que absorban dióxido de carbono y, si se queman, liberan el carbono que guardaban."
+},
+"analogias": [
+{
+"titulo": "Cobija",
+"texto": "Los gases invernadero son una cobija: una ligera abriga, pero si le echas diez encima, el calor ya no puede salir."
+},
+{
+"titulo": "Cuenta bancaria",
+"texto": "El carbono es como dinero: si gastas más del que ingresa, la atmósfera acumula deuda en forma de gases."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Menciona dos gases de efecto invernadero.",
+"respuesta": "Dióxido de carbono y metano (también óxido nitroso, vapor de agua)."
+},
+{
+"ejercicio": "¿Qué proceso quita dióxido de carbono del aire?",
+"respuesta": "La fotosíntesis."
+},
+{
+"ejercicio": "Propón dos acciones personales para reducir tu huella de carbono.",
+"respuesta": "Por ejemplo: caminar o usar transporte público, apagar luces, reducir desperdicio de alimentos, plantar árboles."
+}
+]
+}
+},
+{
+"nodo_id": "f6-076",
+"titulo": "El microscopio y la unidad y diversidad de los seres vivos",
+"slug": "microscopio-unidad-diversidad-seres-vivos-secundaria",
+"palabras": [
+"microscopio",
+"célula",
+"teoría celular",
+"Hooke",
+"Leeuwenhoek"
+],
+"contenido": {
+"idea": "El microscopio es como unos lentes mágicos que dejan ver el mundo diminuto, igual que una lupa muy poderosa que muestra los ladrillos de los que estamos hechos.",
+"pizarron": "**La ley (teoría celular):** todos los seres vivos están hechos de células, y toda célula viene de otra célula.\n\n**Imagínalo:** los seres vivos son casas de ladrillos. Cada ladrillo es una célula.\n\nEl **microscopio** sirve para ver lo muy pequeño. Robert Hooke vio células en un corcho.\n\n**Unidad:** todos tenemos células.\n\n**Diversidad:** hay seres de una célula, como las bacterias, y de muchas, como tú.\n\n**Procariota:** sin núcleo. **Eucariota:** con núcleo.\n\n**Aumento:** ocular por objetivo. Con 5 y 20: 100 aumentos.\n\n**Para tu escuela:** observa una hoja con lupa y dibújala.",
+"truco": "Ocular por objetivo: multiplica para el aumento.",
+"practica": {
+"ejercicio": "Un microscopio tiene ocular de 10× y objetivo de 10×. ¿Cuál es el aumento total?",
+"respuesta": "10 × 10 = 100 aumentos."
+},
+"analogias": [
+{
+"titulo": "Piezas de Lego",
+"texto": "Todos los seres vivos están hechos de células, como distintas construcciones están hechas de las mismas piezas de Lego."
+},
+{
+"titulo": "Mapa con zoom",
+"texto": "Acercar el mapa revela calles que no se veían; el microscopio acerca la vida para descubrir los detalles escondidos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Con ocular de 10× y objetivo de 40×, ¿cuántos aumentos se obtienen?",
+"respuesta": "400 aumentos."
+},
+{
+"ejercicio": "¿Qué diferencia hay entre una célula procariota y una eucariota?",
+"respuesta": "La procariota no tiene núcleo definido; la eucariota sí."
+},
+{
+"ejercicio": "Enuncia dos ideas de la teoría celular.",
+"respuesta": "Los seres vivos están formados por células; toda célula proviene de otra célula."
+}
+]
+}
+},
+{
+"nodo_id": "f6-078",
+"titulo": "Las vacunas y el control de enfermedades infecciosas",
+"slug": "vacunas-enfermedades-infecciosas-secundaria",
+"palabras": [
+"vacunas",
+"inmunidad",
+"anticuerpos",
+"infecciones",
+"esquema de vacunación"
+],
+"contenido": {
+"idea": "Una vacuna es como un simulacro de temblor: practicas con un aviso falso para saber qué hacer cuando llegue el temblor de verdad.",
+"pizarron": "**Qué es:** una vacuna enseña al cuerpo a reconocer un microbio, sin enfermarlo.\n\nEs un simulacro. El cuerpo practica para saber qué hacer si llega el peligro real.\n\n**Cómo funciona:**\n\n1. La vacuna trae el microbio debilitado, muerto o una parte.\n2. El cuerpo fabrica **anticuerpos**.\n3. El cuerpo recuerda al microbio.\n4. Si llega el real, responde rápido.\n\n**Por qué importa:** la viruela desapareció gracias a las vacunas.\n\nSi casi todos se vacunan, también se protege a quien no puede. Eso es **inmunidad de grupo**.\n\nPuede dar dolor en el brazo o algo de fiebre, y se pasa.\n\n**Inmunidad de grupo:** si casi todos se vacunan, el microbio ya no se contagia y protege también a quien no pudo vacunarse.\n\n**Memoria:** tu cuerpo ya conoce al microbio y hace anticuerpos rápido.\n\n**Para tu escuela:** revisa tu cartilla y anota tu última vacuna.",
+"truco": "Vacuna = entrenamiento sin enfermedad.",
+"practica": {
+"ejercicio": "¿Por qué una persona vacunada se enferma menos al encontrar el microbio real?",
+"respuesta": "Porque su sistema inmunitario ya tiene memoria y produce anticuerpos con rapidez."
+},
+"analogias": [
+{
+"titulo": "Foto de un ladrón",
+"texto": "La vacuna le muestra a tu cuerpo la foto del ladrón; así lo reconoce y lo detiene en cuanto aparece."
+},
+{
+"titulo": "Muro de grupo",
+"texto": "Cuando muchos están vacunados forman un muro que la enfermedad no puede cruzar, y protegen a los más vulnerables."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué contiene una vacuna?",
+"respuesta": "El patógeno debilitado o muerto, o una parte de él, que no causa la enfermedad."
+},
+{
+"ejercicio": "Explica qué es la inmunidad de grupo.",
+"respuesta": "La protección indirecta que se logra cuando la mayoría está vacunada y se frena la propagación."
+},
+{
+"ejercicio": "Menciona una enfermedad controlada gracias a la vacunación.",
+"respuesta": "Por ejemplo: poliomielitis, sarampión o tétanos; la viruela fue erradicada."
+}
+]
+}
+}
 ]

@@ -10,7 +10,7 @@
 ],
 "contenido": {
 "idea": "Cruza dos palitos formando una X. Los ángulos que quedan frente a frente son iguales, como dos espejos enfrentados.",
-"pizarron": "**La regla:** los ángulos opuestos por el vértice son iguales.\n\nCuando dos rectas se cruzan forman 4 ángulos.\n\n- **Opuestos por el vértice**: quedan enfrente uno del otro y son **iguales**.\n- **Adyacentes**: están lado a lado y suman **180°**.\n\nEjemplo: si un ángulo mide 40°:\n\n- Su opuesto mide 40°.\n- Sus vecinos miden 140°.\n- Su otro opuesto mide 140°.\n\nSuma total: 40 + 140 + 40 + 140 = 360°.\n\nCon álgebra: $3x + 10$ y $2x + 30$ son opuestos.\n\n$$3x + 10 = 2x + 30 \\Rightarrow x = 20$$\n\nCada uno mide 70°.",
+"pizarron": "**La regla:** los ángulos opuestos por el vértice son iguales.\n\n**Imagínalo:** unas tijeras abiertas. Las dos aberturas enfrentadas son iguales.\n\nAl cruzarse dos rectas salen 4 ángulos.\n\n- **Opuestos:** quedan enfrente y son iguales.\n- **Adyacentes:** están lado a lado y suman 180°.\n- Los cuatro suman 360°.\n\n**Ejemplo:** si uno mide 40°, su opuesto mide 40° y su vecino 140°.\n\n**Con álgebra:** $3x + 10 = 2x + 30$, y $x = 20$.\n\n**Para tu escuela:** cruza dos lápices y mide los cuatro ángulos.",
 "truco": "Frente a frente, iguales; lado a lado, 180.",
 "practica": {
 "ejercicio": "Un ángulo mide 115°. ¿Cuánto mide su opuesto por el vértice?",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "Una calle diagonal corta dos avenidas paralelas. En cada cruce se forma la misma figura, por eso los ángulos se repiten.",
-"pizarron": "**La regla:** si una recta corta a dos paralelas, los ángulos alternos internos son iguales.\n\nUna **transversal** corta dos paralelas y forma 8 ángulos.\n\nÁngulos **iguales**:\n\n- **Correspondientes**: misma posición en cada cruce.\n- **Alternos internos**: entre las paralelas, en lados opuestos.\n- **Alternos externos**: fuera de las paralelas, en lados opuestos.\n\nÁngulos que suman 180°:\n\n- **Colaterales internos**: entre las paralelas, del mismo lado.\n\nEjemplo: un ángulo mide 70°.\n\n- Su correspondiente mide 70°.\n- Su alterno interno mide 70°.\n- Su colateral interno mide 110°.\n\nEsto solo se cumple si las rectas son paralelas.",
+"pizarron": "**La regla:** si una recta corta a dos paralelas, los ángulos alternos internos son iguales.\n\nUna **transversal** corta dos paralelas y forma 8 ángulos.\n\nÁngulos **iguales**:\n\n- **Correspondientes**: misma posición en cada cruce.\n- **Alternos internos**: entre las paralelas, en lados opuestos.\n- **Alternos externos**: fuera de las paralelas, en lados opuestos.\n\nÁngulos que suman 180°:\n\n- **Colaterales internos**: entre las paralelas, del mismo lado.\n\nEjemplo: un ángulo mide 70°.\n\n- Su correspondiente mide 70°.\n- Su alterno interno mide 70°.\n- Su colateral interno mide 110°.\n\nEsto solo se cumple si las rectas son paralelas.\n\n**Para tu escuela:** busca estos ángulos en las líneas de tu cuaderno.",
 "truco": "En una Z, los ángulos son iguales; en una F, también.",
 "practica": {
 "ejercicio": "Un ángulo alterno interno mide 55°. ¿Cuánto mide el otro?",
@@ -97,7 +97,7 @@
 ],
 "contenido": {
 "idea": "Todo polígono se puede partir en triángulos desde una esquina. Cada triángulo aporta 180°, y por eso se puede saber la suma total.",
-"pizarron": "**La regla:** los ángulos internos de un polígono de $n$ lados suman $180°(n - 2)$.\n\nSuma de ángulos internos de un polígono de $n$ lados:\n\n$$S = 180° (n - 2)$$\n\n| Polígono | $n$ | Suma |\n|---|---|---|\n| Triángulo | 3 | 180° |\n| Cuadrilátero | 4 | 360° |\n| Pentágono | 5 | 540° |\n| Hexágono | 6 | 720° |\n\nCada ángulo de un **polígono regular**:\n\n$$\\text{ángulo} = \\frac{180°(n - 2)}{n}$$\n\nEjemplo: hexágono regular.\n\n$$\\frac{720}{6} = 120°$$\n\nLos ángulos **externos** de cualquier polígono convexo suman 360°.",
+"pizarron": "**La regla:** los ángulos internos de un polígono de $n$ lados suman $180°(n - 2)$.\n\n**Imagínalo:** partes el polígono en triángulos desde una esquina. Salen 2 menos que los lados, y cada uno vale 180°.\n\n**Ejemplos:**\n\n- Triángulo: 180°.\n- Cuadrilátero: 360°.\n- Pentágono: 540°.\n- Hexágono: 720°.\n\n**Regular:** todos sus ángulos son iguales. Divide la suma entre $n$. Hexágono: $720 \\div 6 = 120°$.\n\n**Al revés:** si suma 720°, $720 \\div 180 = 4$ triángulos, y $n = 6$.\n\n**Falta uno:** resta los que tienes de la suma total.\n\n**Para tu escuela:** divide un pentágono en triángulos.",
 "truco": "Cuenta triángulos: lados menos dos.",
 "practica": {
 "ejercicio": "¿Cuánto suman los ángulos de un octágono?",
@@ -142,7 +142,7 @@
 ],
 "contenido": {
 "idea": "Dos triángulos son congruentes si uno cabe exacto sobre el otro. No necesitas medir todo: con tres datos correctos ya lo sabes.",
-"pizarron": "**La regla:** dos triángulos son congruentes si coinciden en LLL, LAL o ALA.\n\nDos figuras son **congruentes** si tienen igual forma y tamaño.\n\nPara triángulos, basta con:\n\n| Criterio | Qué se compara |\n|---|---|\n| **LLL** | Los 3 lados iguales |\n| **LAL** | 2 lados y el ángulo entre ellos |\n| **ALA** | 2 ángulos y el lado entre ellos |\n\nEl símbolo es $\\cong$: $\\triangle ABC \\cong \\triangle DEF$.\n\nEjemplo: lados de 3, 4 y 5 cm en ambos triángulos: son congruentes por LLL.\n\nCuidado: tres ángulos iguales (AAA) solo garantizan misma forma, no mismo tamaño.",
+"pizarron": "**La regla:** dos triángulos son congruentes si coinciden en LLL, LAL o ALA.\n\n**Imagínalo:** congruentes son dos galletas del mismo molde. Encimadas coinciden.\n\n**Criterios:**\n\n- **LLL:** los tres lados iguales.\n- **LAL:** dos lados y el ángulo entre ellos.\n- **ALA:** dos ángulos y el lado entre ellos.\n\n**Símbolo:** $\\cong$ significa congruente.\n\n**Cuidado:** tres ángulos iguales (AAA) solo dan semejanza: misma forma, otro tamaño.\n\n**Para tu escuela:** recorta dos triángulos iguales y encímalos.",
 "truco": "Lado-ángulo-lado: el ángulo va en medio.",
 "practica": {
 "ejercicio": "Dos triángulos tienen dos lados iguales y el ángulo entre ellos. ¿Qué criterio aplica?",
@@ -186,7 +186,7 @@
 ],
 "contenido": {
 "idea": "Una foto ampliada conserva la forma, aunque cambie el tamaño. Dos triángulos semejantes son como esa foto y su ampliación.",
-"pizarron": "**La regla:** dos triángulos son semejantes si sus ángulos son iguales y sus lados proporcionales.\n\nDos triángulos son **semejantes** ($\\sim$) si tienen ángulos iguales y lados proporcionales.\n\nCriterios:\n\n- **AA**: dos ángulos iguales.\n- **LLL**: tres lados proporcionales.\n- **LAL**: dos lados proporcionales y el ángulo entre ellos.\n\n**Razón de semejanza**: lado grande entre lado correspondiente chico.\n\nEjemplo: lados 3, 4, 5 y 6, 8, 10. Razón 2.\n\nCalcular un lado:\n\n$$\\frac{x}{6} = \\frac{4}{3} \\Rightarrow x = 8$$\n\nAplicación: un poste da sombra de 6 m y una persona de 1.5 m da sombra de 2 m.\n\n$$\\frac{h}{6} = \\frac{1.5}{2} \\Rightarrow h = 4.5 \\text{ m}$$",
+"pizarron": "**La regla:** dos triángulos son semejantes si sus ángulos son iguales y sus lados proporcionales.\n\n**Imagínalo:** una foto ampliada: misma forma y otro tamaño.\n\n**Criterios:**\n\n- **AA:** dos ángulos iguales.\n- **LLL:** tres lados proporcionales.\n- **LAL:** dos lados proporcionales y el ángulo entre ellos.\n\n**Razón:** lado grande entre lado chico. 3, 4, 5 y 6, 8, 10: razón 2.\n\n**Calcular:** multiplica por la razón. Con razón 3, un lado de 4 pasa a 12.\n\n**Sombras:** $\\frac{h}{6} = \\frac{1.5}{2}$ da $h = 4.5$ m.\n\n**Para tu escuela:** mide tu sombra y la de un poste.",
 "truco": "Misma forma, distinto tamaño: lados en proporción.",
 "practica": {
 "ejercicio": "Lados 2, 3, 4 y otro triángulo semejante con lado menor 6. ¿Cuál es su razón?",
@@ -229,7 +229,7 @@
 ],
 "contenido": {
 "idea": "Si varias rectas paralelas cortan dos caminos, dividen a ambos en la misma proporción. Es como los renglones que cortan por igual dos líneas inclinadas.",
-"pizarron": "**La ley:** si varias rectas paralelas cortan a dos rectas, los segmentos que forman son proporcionales.\n\n**Teorema de Tales**: si varias paralelas cortan a dos transversales, los segmentos formados son proporcionales.\n\n$$\\frac{AB}{BC} = \\frac{DE}{EF}$$\n\nEjemplo: $AB = 4$, $BC = 6$, $DE = 2$.\n\n$$\\frac{4}{6} = \\frac{2}{EF}$$\n\n$$4 \\times EF = 12 \\Rightarrow EF = 3$$\n\nEn triángulos: una recta paralela a un lado corta a los otros dos en partes proporcionales y forma un triángulo semejante.\n\nSegún la tradición, Tales calculó la altura de una pirámide usando sombras.",
+"pizarron": "**La ley:** si varias rectas paralelas cortan a dos rectas, los segmentos que forman son proporcionales.\n\n**Imagínalo:** las rayas de un cuaderno cortan dos lápices cruzados. Las partes de uno guardan la misma proporción que las del otro.\n\n$$\\frac{AB}{BC} = \\frac{DE}{EF}$$\n\n**Ejemplo:** $AB = 4$, $BC = 6$, $DE = 2$.\n\n$$\\frac{4}{6} = \\frac{2}{EF}, \\quad EF = 3$$\n\n**Cómo se resuelve:** multiplica en cruz y divide.\n\nSegún la tradición, Tales calculó la altura de una pirámide con sombras.\n\n**Para tu escuela:** pon un lápiz cruzado sobre un cuaderno y mide las partes.",
 "truco": "Paralelas cortan parejo: forma la proporción.",
 "practica": {
 "ejercicio": "$\\frac{3}{5} = \\frac{x}{10}$. Encuentra $x$.",
@@ -274,7 +274,7 @@
 ],
 "contenido": {
 "idea": "El contorno de un plato y lo que cubre son dos cosas distintas. Una se mide con hilo y la otra con cuadritos, pero ambas se calculan con pi.",
-"pizarron": "**La regla:** la longitud es $C = 2\\pi r$ y el área es $A = \\pi r^2$.\n\nFórmulas:\n\n$$C = 2 \\pi r \\qquad A = \\pi r^2$$\n\nEjemplo con $r = 6$ cm:\n\n- $C = 2(3.14)(6) = 37.68$ cm\n- $A = 3.14(36) = 113.04$ cm²\n\nEn términos de $\\pi$: $C = 12\\pi$ cm, $A = 36\\pi$ cm².\n\n**Sector circular**: una parte del círculo.\n\n$$A_s = \\frac{\\theta}{360} \\pi r^2$$\n\nEjemplo: 90° y $r = 4$:\n\n$$A_s = \\frac{1}{4}(3.14)(16) = 12.56$$\n\n**Corona circular**: $A = \\pi(R^2 - r^2)$.",
+"pizarron": "**La regla:** la longitud es $C = 2\\pi r$ y el área es $A = \\pi r^2$.\n\n**Imagínalo:** la longitud es el hilo de la orilla. El área es la pizza completa.\n\n**Ejemplo con $r = 6$:**\n\n- $C = 2(3.14)(6) = 37.68$ cm.\n- $A = 3.14(36) = 113.04$ cm².\n\n**Sacar radio:** divide $C$ entre $2\\pi$. 31.4 da 5.\n\n**Sector:** una rebanada. Con 90° es un cuarto. $A = \\frac{\\theta}{360}\\pi r^2$. Con 180° es la mitad.\n\n**Corona:** círculo grande menos chico: $\\pi(R^2 - r^2)$.\n\n**Para tu escuela:** mide un plato y calcula su área.",
 "truco": "Contorno lleva 2; área lleva cuadrado.",
 "practica": {
 "ejercicio": "Calcula área y circunferencia con $r = 10$ cm.",
@@ -318,7 +318,7 @@
 ],
 "contenido": {
 "idea": "Una lata es una pila de monedas circulares. Si conoces el área de una moneda, multiplicas por la altura de la pila.",
-"pizarron": "**La regla:** el volumen del cilindro es $V = \\pi r^2 h$.\n\nFórmula:\n\n$$V = \\pi r^2 h$$\n\nEjemplo: lata de radio 3 cm y altura 10 cm.\n\n$$V = 3.14 \\times 9 \\times 10 = 282.6 \\text{ cm}^3$$\n\nEn litros: 1 000 cm³ = 1 L, entonces 0.2826 L.\n\nSi te dan el diámetro, divídelo entre 2.\n\n**Área total**:\n\n$$A = 2\\pi r h + 2 \\pi r^2$$\n\nLa pared desenrollada es un rectángulo de base $2 \\pi r$.\n\nDespejar altura: $h = \\frac{V}{\\pi r^2}$.",
+"pizarron": "**La regla:** el volumen del cilindro es $V = \\pi r^2 h$.\n\n**Imagínalo:** una pila de monedas iguales. Área de la moneda por altura de la pila.\n\n**Ejemplo:** radio 3 y altura 10: $3.14 \\times 9 \\times 10 = 282.6$ cm³.\n\n**Si te dan el diámetro,** divide entre 2.\n\n**Litros:** 1000 cm³ son 1 L. 1 m³ son 1000 L.\n\n**Para tu escuela:** mide una lata y calcula cuánto le cabe.",
 "truco": "Área de la base por altura.",
 "practica": {
 "ejercicio": "Radio 2 m y altura 5 m. Calcula el volumen.",
@@ -362,7 +362,7 @@
 ],
 "contenido": {
 "idea": "Con tres conos llenos de agua, llenas exactamente un cilindro de la misma base y altura. Por eso el cono es un tercio del cilindro.",
-"pizarron": "**La regla:** el volumen del cono es $V = \\frac{\\pi r^2 h}{3}$.\n\nFórmula:\n\n$$V = \\frac{1}{3} \\pi r^2 h$$\n\nEjemplo: radio 3 cm y altura 8 cm.\n\n$$V = \\frac{1}{3}(3.14)(9)(8) = 75.36 \\text{ cm}^3$$\n\nLa altura es perpendicular a la base, no la orilla inclinada (generatriz $g$).\n\nRelación:\n\n$$g^2 = r^2 + h^2$$\n\nEjemplo: $r = 3$, $h = 4$, entonces $g = 5$.\n\nSi te dan $g$ y $r$, usa Pitágoras para hallar la altura.",
+"pizarron": "**La regla:** el volumen del cono es $V = \\frac{\\pi r^2 h}{3}$.\n\n**Imagínalo:** con 3 conos de helado llenas un vaso igual de ancho y alto.\n\n**Ejemplo:** radio 3 y altura 8: $\\frac{3.14 \\times 9 \\times 8}{3} = 75.36$ cm³.\n\n**Comparar:** un cono tiene la tercera parte del cilindro igual.\n\n**Generatriz $g$:** la orilla inclinada. No es la altura.\n\n$$g^2 = r^2 + h^2$$\n\n**En palabras:** es Pitágoras. Con $r = 3$ y $g = 5$: $h = 4$.\n\n**Para tu escuela:** haz un cono de papel y mide su altura.",
 "truco": "Cono es cilindro entre 3.",
 "practica": {
 "ejercicio": "Radio 3 cm y altura 10 cm. Calcula el volumen.",
@@ -407,7 +407,7 @@
 ],
 "contenido": {
 "idea": "Una naranja completa no tiene aristas ni caras planas, pero su volumen se calcula solo con el radio. Basta saber la distancia del centro a la cáscara.",
-"pizarron": "**La regla:** el volumen de la esfera es $V = \\frac{4}{3}\\pi r^3$.\n\nFórmulas:\n\n$$V = \\frac{4}{3} \\pi r^3 \\qquad A = 4 \\pi r^2$$\n\nEjemplo: radio 3 cm.\n\n$$V = \\frac{4}{3}(3.14)(27) = 113.04 \\text{ cm}^3$$\n\n$$A = 4(3.14)(9) = 113.04 \\text{ cm}^2$$\n\nCon radio 3, los números salen iguales, pero las unidades son distintas.\n\nDuplicar el radio multiplica el volumen por 8.\n\n**Semiesfera**: $V = \\frac{2}{3}\\pi r^3$.",
+"pizarron": "**La regla:** el volumen de la esfera es $V = \\frac{4}{3}\\pi r^3$.\n\n**Imagínalo:** cuánta agua cabe en una pelota.\n\n**En palabras:** cuatro tercios, por 3.14, por el radio tres veces.\n\n**Ejemplo:** radio 3 cm: $\\frac{4}{3}(3.14)(27) = 113.04$ cm³.\n\n**Área de su piel:** $A = 4\\pi r^2$. Con radio 1: 12.56.\n\n**Crecer:** con doble radio, 8 veces más volumen, porque $2 \\times 2 \\times 2 = 8$. Con 4 veces el radio, 64 veces.\n\n**Para tu escuela:** mide una pelota y calcula su volumen.",
 "truco": "Cuatro tercios pi r al cubo.",
 "practica": {
 "ejercicio": "Calcula el volumen con $r = 6$ cm.",

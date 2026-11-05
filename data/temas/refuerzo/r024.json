@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Cada término de un paréntesis saluda de mano a cada término del otro. Si son dos y dos, hay cuatro saludos.",
-"pizarron": "**La regla:** cada término del primero multiplica a cada término del segundo.\n\nPara $(a + b)(c + d)$, multiplica cada término por cada término:\n\n$$(a + b)(c + d) = ac + ad + bc + bd$$\n\nEjemplo:\n\n$$(2x + 3)(x - 5)$$\n\n1. $2x \\cdot x = 2x^2$\n2. $2x \\cdot (-5) = -10x$\n3. $3 \\cdot x = 3x$\n4. $3 \\cdot (-5) = -15$\n\nReduce:\n\n$$2x^2 - 7x - 15$$\n\nEl orden se recuerda como primeros, externos, internos y últimos.\n\nCada término conserva su signo.",
+"pizarron": "**La regla:** cada término del primero multiplica a cada término del segundo.\n\n**Imagínalo:** dos niños saludan a dos niñas. Hay cuatro saludos.\n\n$$(a + b)(c + d) = ac + ad + bc + bd$$\n\n**Ejemplo:** $(2x + 3)(x - 5)$.\n\n1. $2x \\cdot x = 2x^2$.\n2. $2x \\cdot (-5) = -10x$.\n3. $3 \\cdot x = 3x$.\n4. $3 \\cdot (-5) = -15$.\n\nJunta: $2x^2 - 7x - 15$.\n\n**Cuidado:** cada término conserva su signo. Menos por menos da más.\n\n**Con dos letras:** $(a + b)(a + 2b) = a^2 + 3ab + 2b^2$.\n\n**Para tu escuela:** dibuja las flechas de los cuatro saludos.",
 "truco": "Cuatro saludos: primeros, externos, internos y últimos.",
 "practica": {
 "ejercicio": "Desarrolla $(x + 2)(x + 7)$.",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "Un cuadrado de lado $a+b$ se parte en un cuadrado grande, uno chico y dos rectángulos. Por eso el resultado tiene tres términos, no dos.",
-"pizarron": "**La regla:** $(a + b)^2 = a^2 + 2ab + b^2$.\n\nFórmulas:\n\n$$(a + b)^2 = a^2 + 2ab + b^2$$\n\n$$(a - b)^2 = a^2 - 2ab + b^2$$\n\nEn palabras: cuadrado del primero, doble del primero por el segundo, cuadrado del segundo.\n\nEjemplo:\n\n$$(3x + 5)^2 = 9x^2 + 30x + 25$$\n\nEjemplo:\n\n$$(2y - 3)^2 = 4y^2 - 12y + 9$$\n\nError muy común: $(a + b)^2$ **no** es $a^2 + b^2$. Falta el doble producto.",
+"pizarron": "**La regla:** $(a + b)^2 = a^2 + 2ab + b^2$.\n\nFórmulas:\n\n$$(a + b)^2 = a^2 + 2ab + b^2$$\n\n$$(a - b)^2 = a^2 - 2ab + b^2$$\n\nEn palabras: cuadrado del primero, doble del primero por el segundo, cuadrado del segundo.\n\nEjemplo:\n\n$$(3x + 5)^2 = 9x^2 + 30x + 25$$\n\nEjemplo:\n\n$$(2y - 3)^2 = 4y^2 - 12y + 9$$\n\nError muy común: $(a + b)^2$ **no** es $a^2 + b^2$. Falta el doble producto.\n\n**Para tu escuela:** arma con papel el cuadrado de $(x + 2)$.",
 "truco": "Cuadrado, doble y cuadrado.",
 "practica": {
 "ejercicio": "Desarrolla $(x + 4)^2$.",
@@ -97,7 +97,7 @@
 ],
 "contenido": {
 "idea": "Multiplicar una suma por su resta hace que los términos de en medio se cancelen, como dos personas que caminan en sentido contrario.",
-"pizarron": "**La regla:** $(a + b)(a - b) = a^2 - b^2$.\n\nLos **conjugados** son binomios con los mismos términos y distinto signo en medio.\n\n$$(a + b)(a - b) = a^2 - b^2$$\n\nEjemplo:\n\n$$(x + 6)(x - 6) = x^2 - 36$$\n\nEjemplo:\n\n$$(3y + 2)(3y - 2) = 9y^2 - 4$$\n\nPor qué: $ab$ y $-ab$ se cancelan.\n\nCálculo mental:\n\n$$21 \\times 19 = (20 + 1)(20 - 1) = 400 - 1 = 399$$",
+"pizarron": "**La regla:** $(a + b)(a - b) = a^2 - b^2$.\n\n**Imagínalo:** dos parejas iguales, una con más y otra con menos. Los del centro se cancelan, porque $+ab$ y $-ab$ dan cero.\n\n**En palabras:** primero al cuadrado, menos segundo al cuadrado.\n\n**Ejemplo:** $(x + 6)(x - 6) = x^2 - 36$.\n\n**Ejemplo:** $(3y + 2)(3y - 2) = 9y^2 - 4$.\n\n**Con potencias:** $(a^3)^2 = a^6$.\n\n**Cálculo mental:** $21 \\times 19 = (20 + 1)(20 - 1) = 400 - 1 = 399$.\n\n**Para tu escuela:** calcula $31 \\times 29$ de cabeza.",
 "truco": "Cuadrado del primero menos cuadrado del segundo.",
 "practica": {
 "ejercicio": "Desarrolla $(x + 9)(x - 9)$.",
@@ -140,7 +140,7 @@
 ],
 "contenido": {
 "idea": "Si dos binomios tienen la misma $x$, el resultado se forma con solo sumar y multiplicar los números que acompañan.",
-"pizarron": "**La regla:** $(x + a)(x + b) = x^2 + (a + b)x + ab$.\n\nFórmula:\n\n$$(x + a)(x + b) = x^2 + (a + b)x + ab$$\n\nEjemplo:\n\n$$(x + 3)(x + 5) = x^2 + 8x + 15$$\n\n- Suma: 3 + 5 = 8.\n- Producto: 3 × 5 = 15.\n\nCon negativos:\n\n$$(x - 4)(x + 7) = x^2 + 3x - 28$$\n\nFunciona con cualquier término común:\n\n$$(2y + 1)(2y - 3) = 4y^2 - 4y - 3$$",
+"pizarron": "**La regla:** $(x + a)(x + b) = x^2 + (a + b)x + ab$.\n\n**Imagínalo:** es un rectángulo de lados $x + a$ y $x + b$, partido en cuatro cuartos.\n\n**En palabras:** el primero al cuadrado, luego la suma por $x$, y al final el producto.\n\n**Ejemplo:** $(x + 3)(x + 5)$.\n\n- Suma: $3 + 5 = 8$.\n- Producto: $3 \\times 5 = 15$.\n- Resultado: $x^2 + 8x + 15$.\n\n**Con negativos:** cuida los signos. $(x - 4)(x + 7) = x^2 + 3x - 28$.\n\n**Otro término común:** $(2y + 1)(2y - 3) = 4y^2 - 4y - 3$. La suma, $1 - 3 = -2$, se multiplica por $2y$.\n\n**Para tu escuela:** dibuja el rectángulo de $(x + 1)(x + 2)$.",
 "truco": "Medio: suma. Final: producto.",
 "practica": {
 "ejercicio": "Desarrolla $(x + 2)(x - 9)$.",
@@ -183,7 +183,7 @@
 ],
 "contenido": {
 "idea": "Un cubo de lado $a+b$ se parte en ocho bloques: dos cubos y seis prismas agrupados en dos tríos. De ahí salen los cuatro términos.",
-"pizarron": "**La regla:** $(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$.\n\nFórmulas:\n\n$$(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$\n\n$$(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$\n\nCoeficientes: 1, 3, 3, 1.\n\nEl exponente de $a$ baja y el de $b$ sube.\n\nEjemplo:\n\n$$(x + 2)^3 = x^3 + 6x^2 + 12x + 8$$\n\nEjemplo:\n\n$$(2y - 1)^3 = 8y^3 - 12y^2 + 6y - 1$$\n\nCon resta, los signos se alternan.",
+"pizarron": "**La regla:** $(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$.\n\n**Imagínalo:** es un cubo de lado $a + b$, partido en 8 piezas: 1 grande, 3 medianas, 3 chicas y 1 chiquita. Por eso los números son 1, 3, 3, 1.\n\n**En palabras:** el exponente de $a$ baja: 3, 2, 1, 0. El de $b$ sube: 0, 1, 2, 3. Son 4 términos.\n\n**Ejemplo:** $(x + 2)^3 = x^3 + 6x^2 + 12x + 8$.\n\n**Con resta:** los signos cambian: $+, -, +, -$.\n\n$$(x - 2)^3 = x^3 - 6x^2 + 12x - 8$$\n\n**Si hay número con letra:** eleva todo. $(2y)^3 = 8y^3$.\n\n**Para tu escuela:** arma un cubo con bloques y cuenta las piezas.",
 "truco": "Uno, tres, tres, uno; exponentes bajan y suben.",
 "practica": {
 "ejercicio": "Desarrolla $(x + 1)^3$.",
@@ -227,7 +227,7 @@
 ],
 "contenido": {
 "idea": "Dividir polinomios se hace igual que la división en casita: divides, multiplicas, restas y bajas. Solo cambian los números por expresiones.",
-"pizarron": "**La regla:** divide el primer término, multiplica, resta y baja, igual que en una división normal.\n\nOrdena de mayor a menor exponente.\n\nEjemplo: $(x^2 + 5x + 6) \\div (x + 2)$.\n\n1. Divide primeros: $x^2 \\div x = x$.\n2. Multiplica: $x(x + 2) = x^2 + 2x$.\n3. Resta: $3x + 6$.\n4. Divide: $3x \\div x = 3$.\n5. Multiplica: $3(x + 2) = 3x + 6$.\n6. Resta: 0.\n\nCociente: $x + 3$. Residuo: 0.\n\nComprueba: $(x + 2)(x + 3) = x^2 + 5x + 6$.\n\nSi falta una potencia, deja el espacio con 0: $x^3 + 1 = x^3 + 0x^2 + 0x + 1$.",
+"pizarron": "**La regla:** divide el primer término, multiplica, resta y baja, igual que en una división normal.\n\n**Imagínalo:** es la división de casita, pero con letras. Repites hasta acabar.\n\n**Ejemplo:** $(x^2 + 5x + 6) \\div (x + 2)$.\n\n1. $x^2 \\div x = x$.\n2. $x(x + 2) = x^2 + 2x$.\n3. Resta: queda $3x + 6$.\n4. $3x \\div x = 3$.\n5. $3(x + 2) = 3x + 6$.\n6. Resta: queda 0.\n\n**Resultado:** $x + 3$. Lo que sobra es el residuo.\n\n**Si falta una potencia,** deja su lugar con 0. $x^2 - 4 = x^2 + 0x - 4$.\n\n**Comprueba:** multiplica el resultado por el divisor.\n\n**Para tu escuela:** haz una división de casita y compara los pasos.",
 "truco": "Divide primeros, multiplica, resta y baja.",
 "practica": {
 "ejercicio": "Divide $(x^2 - 9) \\div (x - 3)$.",
@@ -271,7 +271,7 @@
 ],
 "contenido": {
 "idea": "La división sintética es el atajo para dividir entre $x - a$: solo usas coeficientes y un par de sumas, sin escribir las letras.",
-"pizarron": "**Qué es:** la división sintética es un atajo para dividir un polinomio entre $x - a$ usando solo coeficientes.\n\nPara dividir $x^3 - 6x^2 + 11x - 6$ entre $x - 2$:\n\n1. Escribe los coeficientes: 1, -6, 11, -6.\n2. Usa $a = 2$.\n\n```\n2 | 1  -6  11  -6\n  |     2  -8   6\n  ----------------\n    1  -4   3   0\n```\n\n3. Baja el 1.\n4. Multiplica por 2 y suma a la siguiente columna.\n\nResultado: $x^2 - 4x + 3$, residuo 0.\n\nComo el residuo es 0, $x = 2$ es **raíz**.\n\nPara $x + 3$, usa $a = -3$.\n\nPon 0 en potencias faltantes.",
+"pizarron": "**Qué es:** la división sintética es un atajo para dividir un polinomio entre $x - a$ usando solo coeficientes.\n\n**Imagínalo:** es la división sin letras, solo con números.\n\n**Ejemplo:** $x^3 - 6x^2 + 11x - 6$ entre $x - 2$. Aquí $a = 2$.\n\n```\n2 | 1  -6  11  -6\n  |     2  -8   6\n  ----------------\n    1  -4   3   0\n```\n\n**Pasos:** baja el 1. Multiplica por 2. Súmalo a la siguiente columna. Repite.\n\n**Resultado:** $x^2 - 4x + 3$. El último número es el residuo.\n\n**Residuo 0:** significa que $a$ es raíz: el polinomio da 0 con ese número.\n\n**Con $x + 3$:** usa $a = -3$.\n\nSi falta una potencia, pon 0.\n\n**Para tu escuela:** divide con este método $x^2 + 3x + 2$ entre $x + 1$.",
 "truco": "Baja, multiplica y suma.",
 "practica": {
 "ejercicio": "Divide $x^2 + 5x + 6$ entre $x + 2$ con sintética.",
@@ -315,7 +315,7 @@
 ],
 "contenido": {
 "idea": "Si varias personas traen la misma mochila, la puedes sacar del grupo y decir: todos traen esto. Factor común es sacar lo que se repite.",
-"pizarron": "**La regla:** busca lo que se repite en todos los términos y sácalo fuera del paréntesis.\n\nFactorizar es escribir como producto. El primer paso siempre es buscar **factor común**.\n\nPasos:\n\n1. Encuentra el MCD de los coeficientes.\n2. Toma cada literal común con su **menor** exponente.\n3. Divide cada término.\n\nEjemplo:\n\n$$6x^3 + 9x^2 = 3x^2(2x + 3)$$\n\nEjemplo:\n\n$$12a^2b - 18ab^2 + 6ab = 6ab(2a - 3b + 1)$$\n\nNota el **1**: siempre queda algo donde sacaste todo.\n\nComprueba multiplicando.",
+"pizarron": "**La regla:** busca lo que se repite en todos los términos y sácalo fuera del paréntesis.\n\n**Imagínalo:** a tres amigos les das un dulce a cada uno. Di *un dulce para todos*, en vez de repetirlo.\n\n**Pasos:**\n\n1. Busca el número más grande que divide a todos.\n2. Toma las letras comunes con su menor exponente.\n3. Divide cada término.\n\n**Ejemplo:** $6x^3 + 9x^2 = 3x^2(2x + 3)$.\n\n**Ejemplo:** $12ab + 6a = 6a(2b + 1)$. Queda 1 donde sacaste todo.\n\n**Paréntesis repetido:** también sale. $a(x + 1) + b(x + 1) = (x + 1)(a + b)$.\n\n**Comprueba:** multiplica y debe regresar.\n\n**Para tu escuela:** saca factor común de $4x + 8$.",
 "truco": "Lo que se repite sale con el menor exponente.",
 "practica": {
 "ejercicio": "Factoriza $5x^2 + 10x$.",
@@ -358,7 +358,7 @@
 ],
 "contenido": {
 "idea": "Con cuatro términos, formas parejas. Cada pareja saca su factor común y, si quedan igual, aparece el factor final.",
-"pizarron": "**La regla:** agrupa los términos de dos en dos y saca el factor común de cada grupo.\n\nPara cuatro términos:\n\n$$ax + ay + bx + by$$\n\n1. Agrupa: $(ax + ay) + (bx + by)$.\n2. Saca factor: $a(x + y) + b(x + y)$.\n3. Saca el binomio: $(x + y)(a + b)$.\n\nEjemplo:\n\n$$x^3 + 3x^2 + 2x + 6$$\n\n- $x^2(x + 3) + 2(x + 3)$\n- $(x + 3)(x^2 + 2)$\n\nCuidado con signos:\n\n$$x^2 - 2x - 3x + 6 = x(x - 2) - 3(x - 2) = (x - 2)(x - 3)$$",
+"pizarron": "**La regla:** agrupa los términos de dos en dos y saca el factor común de cada grupo.\n\n**Imagínalo:** cuatro niños en parejas. Cada pareja saca lo suyo. Debe sobrar el mismo paréntesis.\n\n**Pasos con $ax + ay + bx + by$:**\n\n1. Agrupa: $(ax + ay) + (bx + by)$.\n2. Saca factor: $a(x + y) + b(x + y)$.\n3. Saca el paréntesis: $(x + y)(a + b)$.\n\n**Ejemplo:** $x^3 + 3x^2 + 2x + 6 = x^2(x + 3) + 2(x + 3) = (x + 3)(x^2 + 2)$.\n\n**Con menos:** al sacar un negativo, los signos cambian.\n\n$x^2 - 2x - 3x + 6 = x(x - 2) - 3(x - 2)$.\n\n**Para tu escuela:** factoriza $ax + 2a + 3x + 6$.",
 "truco": "Haz parejas y busca que se repita el paréntesis.",
 "practica": {
 "ejercicio": "Factoriza $ab + 2a + 3b + 6$.",
@@ -401,7 +401,7 @@
 ],
 "contenido": {
 "idea": "Cuando ves un cuadrado menos otro cuadrado, siempre se puede abrir en dos paréntesis casi gemelos que solo difieren en el signo.",
-"pizarron": "**La regla:** $a^2 - b^2 = (a + b)(a - b)$.\n\nFórmula:\n\n$$a^2 - b^2 = (a + b)(a - b)$$\n\nPasos:\n\n1. Revisa que sea **resta** de dos cuadrados.\n2. Saca la raíz de cada uno.\n3. Escribe los conjugados.\n\nEjemplos:\n\n- $x^2 - 49 = (x + 7)(x - 7)$\n- $4y^2 - 25 = (2y + 5)(2y - 5)$\n- $16x^4 - 1 = (4x^2 + 1)(2x + 1)(2x - 1)$\n\nPrimero saca factor común si lo hay:\n\n$$2x^2 - 18 = 2(x + 3)(x - 3)$$\n\nLa suma de cuadrados $a^2 + b^2$ no se factoriza en los reales.",
+"pizarron": "**La regla:** $a^2 - b^2 = (a + b)(a - b)$.\n\n**Imagínalo:** a un cuadrado grande le quitas una esquina cuadrada. Lo que queda se reacomoda en un rectángulo.\n\n**Pasos:**\n\n1. Revisa que sea resta de dos cuadrados.\n2. Saca raíz de cada uno.\n3. Escribe uno con más y otro con menos.\n\n**Ejemplo:** $x^2 - 49 = (x + 7)(x - 7)$.\n\n**Ejemplo:** $4y^2 - 25 = (2y + 5)(2y - 5)$.\n\n**Factor común primero:** $2x^2 - 18 = 2(x + 3)(x - 3)$.\n\n**Repite si se puede:** $x^4 - 16 = (x^2 + 4)(x + 2)(x - 2)$.\n\n**Para tu escuela:** recorta un cuadrado de papel y quítale una esquina.",
 "truco": "Dos raíces y dos signos.",
 "practica": {
 "ejercicio": "Factoriza $x^2 - 16$.",

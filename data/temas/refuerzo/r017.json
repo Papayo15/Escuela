@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "Piensa que más es verdad y menos es mentira. Decir una mentira de una mentira equivale a decir la verdad: por eso menos por menos da más.",
-"pizarron": "**La regla:** signos iguales dan positivo, y signos distintos dan negativo.\n\nRegla:\n\n| Signos | Resultado |\n|---|---|\n| $(+)(+)$ | $+$ |\n| $(-)(-)$ | $+$ |\n| $(+)(-)$ | $-$ |\n| $(-)(+)$ | $-$ |\n\nSignos iguales dan positivo; signos distintos dan negativo.\n\nEjemplos:\n\n- $(-4)(-6) = 24$\n- $(-7)(3) = -21$\n- $(5)(-2) = -10$\n\nCon varios factores, cuenta los negativos:\n\n- Cantidad par de negativos: resultado positivo.\n- Cantidad impar: resultado negativo.\n\n$(-1)(-2)(-3) = -6$, porque hay tres negativos.\n\nCuidado: esta ley es para multiplicar. $-3 - 2$ es $-5$, no $+5$.",
+"pizarron": "**La regla:** signos iguales dan positivo, y signos distintos dan negativo.\n\n**Imagínalo:** el amigo de mi amigo es mi amigo. El enemigo de mi enemigo es mi amigo. El enemigo de mi amigo es mi enemigo.\n\n**Ejemplos:**\n\n- $(-4)(-6) = 24$.\n- $(-7)(3) = -21$.\n- $(5)(-2) = -10$.\n\n**Varios factores:** cuenta los negativos. Par da positivo. Impar da negativo.\n\n$(-1)(-2)(-3) = -6$.\n\n**Deudas:** perder 5 pesos por 3 días es $(3)(-5) = -15$.\n\n**Cuidado:** esta ley es para multiplicar. $-3 - 2$ es $-5$.\n\n**Para tu escuela:** representa una deuda con multiplicaciones.",
 "truco": "Iguales, más; distintos, menos.",
 "practica": {
 "ejercicio": "Resuelve $(-8)(-5)$.",
@@ -54,7 +54,7 @@
 ],
 "contenido": {
 "idea": "La división sigue las mismas reglas que la multiplicación, porque una deshace a la otra. Si signos iguales multiplican a positivo, también dividen a positivo.",
-"pizarron": "**La regla:** al dividir, signos iguales dan positivo y signos distintos dan negativo.\n\nRegla:\n\n- Signos **iguales**: resultado **positivo**.\n- Signos **distintos**: resultado **negativo**.\n\nEjemplos:\n\n- $(-20) \\div (-4) = 5$\n- $(-20) \\div 4 = -5$\n- $20 \\div (-4) = -5$\n\nEn forma de fracción:\n\n$$\\frac{-12}{-3} = 4 \\qquad \\frac{-12}{3} = -4$$\n\nUn signo negativo puede ir en tres lugares con el mismo valor:\n\n$$-\\frac{1}{2} = \\frac{-1}{2} = \\frac{1}{-2}$$\n\nComprueba multiplicando: $(-5)(-4) = 20$ no es $-20$, por eso $-20 \\div -4$ no es $-5$.\n\nDividir entre 0 no está definido.",
+"pizarron": "**La regla:** al dividir, signos iguales dan positivo y signos distintos dan negativo.\n\n**Imagínalo:** es igual que al multiplicar.\n\n**Ejemplos:**\n\n- $(-20) \\div (-4) = 5$.\n- $(-20) \\div 4 = -5$.\n- $20 \\div (-4) = -5$.\n\n**En fracción:** $\\frac{-12}{-3} = 4$.\n\n**Temperatura:** si baja 12 °C en 4 horas, cambia $-3$ °C por hora.\n\n**Comprueba** multiplicando. Dividir entre 0 no se puede.\n\n**Para tu escuela:** reparte una deuda de 12 pesos entre 3.",
 "truco": "Multiplicar o dividir: misma ley de signos.",
 "practica": {
 "ejercicio": "Resuelve $(-36) \\div (-6)$.",
@@ -99,7 +99,7 @@
 ],
 "contenido": {
 "idea": "Primero te pones calcetines y después zapatos. Las operaciones también tienen un orden, y si lo cambias, el resultado sale mal.",
-"pizarron": "**La regla:** primero paréntesis, luego potencias y raíces, después multiplicaciones y divisiones, y al final sumas y restas.\n\nOrden:\n\n1. **Paréntesis** y otros signos de agrupación.\n2. **Potencias y raíces**.\n3. **Multiplicaciones y divisiones**, de izquierda a derecha.\n4. **Sumas y restas**, de izquierda a derecha.\n\nEjemplo: $3 + 4 \\times 2$\n\n- Primero $4 \\times 2 = 8$.\n- Luego $3 + 8 = 11$. No es 14.\n\nEjemplo: $18 \\div 3 \\times 2$\n\n- Se hace de izquierda a derecha: $6 \\times 2 = 12$.\n\nEjemplo completo: $2 + 3 \\times (8 - 5)^2$\n\n- Paréntesis: $(3)^2$\n- Potencia: 9\n- Multiplicación: $3 \\times 9 = 27$\n- Suma: $2 + 27 = 29$",
+"pizarron": "**La regla:** primero paréntesis, luego potencias y raíces, después multiplicaciones y divisiones, y al final sumas y restas.\n\n**Imagínalo:** es la fila para entrar: cada operación tiene su turno.\n\n**Orden:**\n\n1. Paréntesis.\n2. Potencias y raíces.\n3. Por y entre, de izquierda a derecha.\n4. Más y menos, de izquierda a derecha.\n\n**Ejemplo:** $3 + 4 \\times 2$. Primero $8$, luego 11. No es 14.\n\n**Mismo turno:** $18 \\div 3 \\times 2 = 6 \\times 2 = 12$.\n\n**Completo:** $2 + 3 \\times (8 - 5)^2 = 2 + 3 \\times 9 = 29$.\n\n**Para tu escuela:** explica por qué $2 + 3 \\times 4$ no es 20.",
 "truco": "Paréntesis, potencias, por y entre, más y menos.",
 "practica": {
 "ejercicio": "Resuelve $10 - 2 \\times 3$.",
@@ -144,7 +144,7 @@
 ],
 "contenido": {
 "idea": "Imagina una caja pequeña dentro de una mediana y esta dentro de una grande. En los signos de agrupación, primero resuelves lo que está en la caja más pequeña.",
-"pizarron": "**La regla:** se resuelve de adentro hacia afuera: primero paréntesis, luego corchetes y al final llaves.\n\nLos signos de agrupación indican qué resolver primero:\n\n- Paréntesis ( )\n- Corchetes [ ]\n- Llaves { }\n\nSe resuelven **del más interno al más externo**.\n\nEjemplo:\n\n$$2 + \\{3 \\times [4 + (6 - 2)]\\}$$\n\n1. Paréntesis: $6 - 2 = 4$.\n2. Corchetes: $4 + 4 = 8$.\n3. Llaves: $3 \\times 8 = 24$.\n4. Final: $2 + 24 = 26$.\n\nUn signo menos delante de un paréntesis cambia los signos de adentro:\n\n$$10 - (3 - 5) = 10 - 3 + 5 = 12$$\n\nDentro de cada signo se respeta la jerarquía.",
+"pizarron": "**La regla:** se resuelve de adentro hacia afuera: primero paréntesis, luego corchetes y al final llaves.\n\n**Imagínalo:** cajas dentro de cajas. Abres primero la más chica.\n\n**Ejemplo:** $2 + \\{3 \\times [4 + (6 - 2)]\\}$.\n\n1. Paréntesis: $6 - 2 = 4$.\n2. Corchetes: $4 + 4 = 8$.\n3. Llaves: $3 \\times 8 = 24$.\n4. Final: 26.\n\n**Con menos:** cambia los signos de adentro. $10 - (3 - 5) = 12$.\n\n**Para tu escuela:** dibuja tres cajas, una dentro de otra, con una operación.",
 "truco": "Empieza por el signo más interno y sal hacia afuera.",
 "practica": {
 "ejercicio": "Resuelve $[5 + (7 - 3)] \\times 2$.",
@@ -189,7 +189,7 @@
 ],
 "contenido": {
 "idea": "Una potencia es una multiplicación abreviada. En vez de escribir 2 × 2 × 2 × 2 × 2, escribes $2^5$, como quien usa un apodo.",
-"pizarron": "**Qué es:** una potencia es multiplicar un número por sí mismo varias veces: el exponente dice cuántas.\n\nEn $2^5$:\n\n- **Base** (2): el número que se multiplica.\n- **Exponente** (5): cuántas veces aparece.\n\n$$2^5 = 2 \\times 2 \\times 2 \\times 2 \\times 2 = 32$$\n\nError común: $2^5$ no es $2 \\times 5$.\n\nCasos:\n\n- Exponente 2: al cuadrado, $5^2 = 25$.\n- Exponente 3: al cubo, $4^3 = 64$.\n- Exponente 1: $7^1 = 7$.\n- Exponente 0: $9^0 = 1$.\n\nCon negativos:\n\n- $(-3)^2 = 9$, porque se multiplica el signo también.\n- $-3^2 = -9$, porque el exponente solo afecta al 3.\n- $(-2)^3 = -8$.",
+"pizarron": "**Qué es:** una potencia es multiplicar un número por sí mismo varias veces: el exponente dice cuántas.\n\n**Imagínalo:** en $2^5$, escribes el 2 cinco veces y multiplicas.\n\n**Base:** el número que se multiplica. **Exponente:** cuántas veces aparece.\n\n$$2^5 = 2 \\times 2 \\times 2 \\times 2 \\times 2 = 32$$\n\n**Error común:** $2^5$ no es $2 \\times 5$.\n\n**Casos:** $5^2 = 25$. $4^3 = 64$. $7^1 = 7$. $9^0 = 1$. $10^3 = 1000$.\n\n**Con negativos:** exponente par da positivo. $(-3)^2 = 9$. Exponente impar da negativo. $(-2)^3 = -8$.\n\n**Para tu escuela:** dobla una hoja y cuenta las capas con potencias de 2.",
 "truco": "El exponente dice cuántas veces escribes la base.",
 "practica": {
 "ejercicio": "Calcula $3^4$.",
@@ -233,7 +233,7 @@
 ],
 "contenido": {
 "idea": "Si un cuadrado tiene 25 cuadritos en total, ¿cuánto mide su lado? 5. La raíz cuadrada encuentra el lado a partir del área.",
-"pizarron": "**Qué es:** la raíz cuadrada de un número es el número que, multiplicado por sí mismo, da ese número.\n\nLa **raíz cuadrada** de un número es otro número que, multiplicado por sí mismo, lo da.\n\n$$\\sqrt{49} = 7 \\text{ porque } 7^2 = 49$$\n\nCuadrados perfectos: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144.\n\nCuando no es exacta, se estima:\n\n- $\\sqrt{20}$ está entre $\\sqrt{16} = 4$ y $\\sqrt{25} = 5$.\n- Como 20 está más cerca de 16, es aproximadamente 4.5.\n\nCon negativos:\n\n- $\\sqrt{-4}$ no es un número real.\n- En cambio, $x^2 = 16$ tiene dos soluciones: $x = 4$ y $x = -4$.",
+"pizarron": "**Qué es:** la raíz cuadrada de un número es el número que, multiplicado por sí mismo, da ese número.\n\n**Imagínalo:** con 49 cuadritos armas un cuadrado. Cada lado mide 7.\n\n$$\\sqrt{49} = 7$$\n\n**Cuadrados perfectos:** 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144.\n\n**Estimar:** $\\sqrt{20}$ está entre 4 y 5, porque 20 está entre 16 y 25.\n\n**Área:** el lado de un cuadrado es la raíz de su área. Con 100 m²: 10 m.\n\n**Para tu escuela:** arma un cuadrado con 16 cuadritos.",
 "truco": "Pregúntate: ¿qué número por sí mismo da esto?",
 "practica": {
 "ejercicio": "Calcula $\\sqrt{81}$.",
@@ -277,7 +277,7 @@
 ],
 "contenido": {
 "idea": "Las potencias tienen atajos. Si juntas dos grupos de la misma base, no tienes que multiplicar todo: solo sumas cuántas veces aparece.",
-"pizarron": "**La regla:** al multiplicar con igual base se suman exponentes; al dividir se restan; y una potencia de potencia los multiplica.\n\nLeyes principales:\n\n| Ley | Ejemplo |\n|---|---|\n| $a^m \\cdot a^n = a^{m+n}$ | $2^3 \\cdot 2^4 = 2^7$ |\n| $\\frac{a^m}{a^n} = a^{m-n}$ | $\\frac{5^6}{5^2} = 5^4$ |\n| $(a^m)^n = a^{m \\cdot n}$ | $(3^2)^4 = 3^8$ |\n| $(ab)^n = a^n b^n$ | $(2x)^3 = 8x^3$ |\n| $a^0 = 1$ | $7^0 = 1$ |\n| $a^{-n} = \\frac{1}{a^n}$ | $2^{-3} = \\frac{1}{8}$ |\n\nLa base debe ser la misma para sumar o restar exponentes.\n\nError común: $(a + b)^2$ no es $a^2 + b^2$.",
+"pizarron": "**La regla:** al multiplicar con igual base se suman exponentes; al dividir se restan; y una potencia de potencia los multiplica.\n\n**Imagínalo:** $2^3$ son 3 doses juntos. Si juntas 3 y 4 doses, tienes 7.\n\n**Leyes:**\n\n- $2^3 \\cdot 2^4 = 2^7$.\n- $\\frac{5^6}{5^2} = 5^4$.\n- $(3^2)^4 = 3^8$.\n- $(2x)^3 = 8x^3$.\n- $7^0 = 1$.\n- $2^{-3} = \\frac{1}{8}$.\n\nLa base debe ser la misma para sumar o restar exponentes.\n\n**Para tu escuela:** escribe $2^2 \\cdot 2^2$ con todos sus doses.",
 "truco": "Multiplicas: suma exponentes. Divides: resta. Potencia de potencia: multiplica.",
 "practica": {
 "ejercicio": "Simplifica $x^5 \\cdot x^3$.",
@@ -321,7 +321,7 @@
 ],
 "contenido": {
 "idea": "Escribir la distancia a una estrella con muchos ceros es tardado y fácil de equivocar. La notación científica guarda esos ceros dentro de una potencia de 10.",
-"pizarron": "**La regla:** un número se escribe como $a \\times 10^n$, con $a$ entre 1 y 10.\n\nForma:\n\n$$a \\times 10^n$$\n\ndonde $1 \\le a < 10$.\n\n**Número grande**: 45 000 000.\n\n- Mueve el punto hasta tener un número entre 1 y 10: 4.5.\n- Moviste 7 lugares a la izquierda.\n- $4.5 \\times 10^7$.\n\n**Número pequeño**: 0.00032.\n\n- Mueve el punto: 3.2.\n- Moviste 4 lugares a la derecha.\n- $3.2 \\times 10^{-4}$.\n\n**Multiplicar**:\n\n$$(2 \\times 10^3)(3 \\times 10^4) = 6 \\times 10^7$$\n\nDivide o suma con cuidado: para sumar, los exponentes deben ser iguales.",
+"pizarron": "**La regla:** un número se escribe como $a \\times 10^n$, con $a$ entre 1 y 10.\n\n**Imagínalo:** es una forma corta de escribir números enormes o chiquitos.\n\n**Grande:** 45 000 000. Mueve el punto 7 lugares: $4.5 \\times 10^7$.\n\n**Pequeño:** 0.00032. Mueve el punto 4 lugares: $3.2 \\times 10^{-4}$.\n\n**Regresar:** $2.5 \\times 10^3$ es 2500. Mueve el punto a la derecha.\n\n**Multiplicar:** multiplica números y suma exponentes.\n\n$$(2 \\times 10^3)(3 \\times 10^4) = 6 \\times 10^7$$\n\n**Para tu escuela:** escribe la distancia de la Tierra al Sol, 150 000 000 km.",
 "truco": "Número grande, exponente positivo; pequeño, negativo.",
 "practica": {
 "ejercicio": "Escribe 6 200 en notación científica.",
@@ -365,7 +365,7 @@
 ],
 "contenido": {
 "idea": "Si ahorras 50 pesos cada semana, tu dinero crece siempre igual. Una sucesión aritmética es una lista de números con el mismo salto.",
-"pizarron": "**Qué es:** en una sucesión aritmética, cada término se obtiene sumando siempre la misma cantidad.\n\nUna **sucesión aritmética** tiene una **diferencia** constante $d$.\n\n3, 7, 11, 15, 19... tiene $d = 4$.\n\nTambién puede disminuir: 20, 17, 14 tiene $d = -3$.\n\nFórmula del término $n$:\n\n$$a_n = a_1 + (n - 1)d$$\n\nEjemplo: encuentra el término 10 de 3, 7, 11...\n\n$$a_{10} = 3 + (10 - 1) \\times 4 = 3 + 36 = 39$$\n\nPara saber si es aritmética, resta términos seguidos: si siempre da lo mismo, lo es.",
+"pizarron": "**Qué es:** en una sucesión aritmética, cada término se obtiene sumando siempre la misma cantidad.\n\n**Imagínalo:** subes una escalera con saltos iguales. El salto se llama **diferencia** $d$.\n\n3, 7, 11, 15 tiene $d = 4$. 20, 17, 14 tiene $d = -3$.\n\n$$a_n = a_1 + (n - 1)d$$\n\n**En palabras:** el primero, más el salto repetido las veces que faltan.\n\n**Ejemplo:** término 10 de 3, 7, 11: $3 + 9 \\times 4 = 39$.\n\n**Prueba:** resta vecinos. Si siempre da igual, es aritmética. Si cambia, no.\n\n**Para tu escuela:** escribe tu propia sucesión con saltos de 5.",
 "truco": "Resta dos vecinos: ese es el salto.",
 "practica": {
 "ejercicio": "Encuentra el siguiente término de 5, 12, 19, 26.",
@@ -409,7 +409,7 @@
 ],
 "contenido": {
 "idea": "Una regla general es una máquina: metes la posición del término y sale su valor. Así conoces el término 100 sin escribir los otros 99.",
-"pizarron": "**La regla:** la diferencia constante multiplica a $n$, y luego ajustas sumando o restando lo necesario.\n\nPara una sucesión aritmética la regla tiene forma:\n\n$$a_n = dn + c$$\n\nPasos con 5, 8, 11, 14:\n\n1. Encuentra la diferencia: $d = 3$, entonces $3n$.\n2. Compara con el primer término: si $n = 1$, $3n = 3$.\n3. ¿Cuánto falta para llegar a 5? 2.\n4. Regla: **$3n + 2$**.\n\nComprueba: si $n = 4$, $3(4) + 2 = 14$. Correcto.\n\nCon figuras: si la figura 1 tiene 4 palillos, la 2 tiene 7 y la 3 tiene 10, la regla es $3n + 1$.",
+"pizarron": "**La regla:** la diferencia constante multiplica a $n$, y luego ajustas sumando o restando lo necesario.\n\n**Imagínalo:** subes una escalera con saltos iguales. La regla dice en qué escalón estarás.\n\n**Pasos con 5, 8, 11, 14:**\n\n1. Salto: 3. Escribe $3n$.\n2. Con $n = 1$, $3n = 3$.\n3. Para llegar a 5, faltan 2.\n4. Regla: $3n + 2$.\n\n**Si te pasas,** resta. 1, 3, 5: salto 2. $2n$ da 2, y debe dar 1. Regla: $2n - 1$.\n\n**Término 10:** cambia $n$ por 10. $3(10) + 2 = 32$.\n\n**¿Qué lugar ocupa?:** $2n = 20$ da $n = 10$.\n\n**Para tu escuela:** arma cuadritos con palillos y busca la regla.",
 "truco": "El salto va pegado a la n; el resto ajusta el primer término.",
 "practica": {
 "ejercicio": "Encuentra la regla de 2, 6, 10, 14.",

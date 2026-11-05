@@ -1,1175 +1,1175 @@
 [
-  {
-    "nodo_id": "f6-008",
-    "titulo": "Máquinas simples en la vida diaria",
-    "slug": "maquinas-simples-en-la-vida-diaria-secundaria",
-    "palabras": [
-      "máquinas simples",
-      "palanca",
-      "polea",
-      "rampa"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Ayudantes invisibles",
-          "texto": "Cada día tienes pequeñas máquinas que te ayudan sin que lo notes."
-        },
-        {
-          "titulo": "Atajo de fuerza",
-          "texto": "Te dejan hacer con poca fuerza lo que sería muy pesado."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué máquina es un cuchillo?",
-          "respuesta": "Una cuña."
-        },
-        {
-          "ejercicio": "¿Qué máquina son las tijeras?",
-          "respuesta": "Dos palancas."
-        },
-        {
-          "ejercicio": "Encuentra tres máquinas simples en tu casa.",
-          "respuesta": "Di cuál es y qué tipo es."
-        }
-      ],
-      "idea": "Abres una lata, subes por una rampa y usas tijeras: estás usando máquinas simples todo el día.",
-      "pizarron": "**Qué es:** las máquinas simples son herramientas que hacen más fácil un trabajo.\n\n**En tu vida:**\n\n- **Palanca:** tijeras, destapador.\n- **Polea:** cortinas, grúas.\n- **Plano inclinado:** rampas.\n- **Cuña:** cuchillo.\n- **Tornillo:** tapa de frasco.\n- **Rueda y eje:** bicicleta.",
-      "truco": "Mira a tu alrededor y las encontrarás.",
-      "practica": {
-        "ejercicio": "¿Qué máquina simple es una rampa?",
-        "respuesta": "Un plano inclinado."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-008",
-    "titulo": "Inventos que cambiaron el mundo",
-    "slug": "inventos-que-cambiaron-el-mundo-secundaria",
-    "palabras": [
-      "inventos",
-      "rueda",
-      "imprenta",
-      "internet"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Escalones",
-          "texto": "Cada invento se apoya en otros anteriores para subir."
-        },
-        {
-          "titulo": "Puerta nueva",
-          "texto": "Un invento abre caminos que antes no existían."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué invento difundió libros?",
-          "respuesta": "La imprenta."
-        },
-        {
-          "ejercicio": "¿Qué nos permite estar conectados?",
-          "respuesta": "Internet."
-        },
-        {
-          "ejercicio": "Di un invento que usas cada día.",
-          "respuesta": "Depende: por ejemplo, el teléfono."
-        }
-      ],
-      "idea": "Unos pocos inventos cambiaron cómo comemos, hablamos y viajamos.",
-      "pizarron": "**Qué es:** un invento es una creación nueva que resuelve un problema.\n\n- **Rueda:** transporte.\n- **Imprenta:** libros.\n- **Máquina de vapor:** industria.\n- **Foco:** Edison mejoró la luz eléctrica.\n- **Teléfono:** Bell.\n- **Penicilina:** Fleming, 1928.\n- **Internet:** años 60 a 90.",
-      "truco": "Un invento resuelve un problema.",
-      "practica": {
-        "ejercicio": "¿Quién descubrió la penicilina?",
-        "respuesta": "Alexander Fleming."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-008",
-    "titulo": "Inventos mexicanos",
-    "slug": "inventos-mexicanos-secundaria",
-    "palabras": [
-      "inventos mexicanos",
-      "televisión a color",
-      "píldora"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Orgullo",
-          "texto": "Una idea mexicana llegó a pantallas de muchos países."
-        },
-        {
-          "titulo": "Tradición larga",
-          "texto": "Inventar en México viene desde las chinampas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué premio ganó Mario Molina?",
-          "respuesta": "El Nobel de Química."
-        },
-        {
-          "ejercicio": "¿Qué sistema agrícola crearon los mexicas?",
-          "respuesta": "Las chinampas."
-        },
-        {
-          "ejercicio": "Di un científico mexicano.",
-          "respuesta": "Mario Molina."
-        }
-      ],
-      "idea": "¿Sabías que varios inventos importantes nacieron en México?",
-      "pizarron": "**Qué es:** son creaciones de personas mexicanas.\n\n- **Guillermo González Camarena:** sistema de televisión a color.\n- **Luis Miramontes:** participó en la creación de la píldora anticonceptiva.\n- **Mario Molina:** Premio Nobel de Química por estudiar la capa de ozono.\n- **Victor Celorio:** tecnología de impresión a demanda.\n- Los mexicas: **chinampas**.",
-      "truco": "González Camarena y la tele a color.",
-      "practica": {
-        "ejercicio": "¿Quién ideó la televisión a color?",
-        "respuesta": "Guillermo González Camarena."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-028",
-    "titulo": "Dibujo técnico básico",
-    "slug": "dibujo-tecnico-basico-secundaria",
-    "palabras": [
-      "dibujo técnico",
-      "escala",
-      "cotas"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Receta exacta",
-          "texto": "Cualquiera puede repetir el objeto siguiendo el plano."
-        },
-        {
-          "titulo": "Idioma común",
-          "texto": "Las mismas líneas se entienden en todo el mundo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa escala 1:2?",
-          "respuesta": "El dibujo mide la mitad del objeto real."
-        },
-        {
-          "ejercicio": "¿Qué indica una línea punteada?",
-          "respuesta": "Algo oculto."
-        },
-        {
-          "ejercicio": "Dibuja tu cuaderno con sus medidas.",
-          "respuesta": "Debe incluir cotas."
-        }
-      ],
-      "idea": "Para construir algo, otra persona debe entender tu idea sin preguntar. Eso hace un dibujo técnico.",
-      "pizarron": "**Qué es:** el dibujo técnico representa objetos con medidas y normas, para fabricarlos.\n\n**Herramientas:** regla, escuadras, compás, lápiz.\n\n**Elementos:**\n\n- **Líneas:** gruesa para contorno y punteada para lo oculto.\n- **Cotas:** medidas.\n- **Escala:** proporción.\n\nEjemplo: 1:2 significa que el dibujo mide la mitad.",
-      "truco": "Medidas claras, sin dudas.",
-      "practica": {
-        "ejercicio": "¿Qué son las cotas?",
-        "respuesta": "Las medidas del dibujo."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-028",
-    "titulo": "Vistas de un objeto",
-    "slug": "vistas-de-un-objeto-secundaria",
-    "palabras": [
-      "vistas",
-      "frontal",
-      "superior",
-      "lateral"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Foto desde tres lados",
-          "texto": "Cada foto muestra algo que la otra no."
-        },
-        {
-          "titulo": "Mapa de la casa",
-          "texto": "Ves el plano como si quitaras el techo."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuántas vistas básicas hay?",
-          "respuesta": "Tres."
-        },
-        {
-          "ejercicio": "¿Cómo se ve un vaso desde arriba?",
-          "respuesta": "Como un círculo."
-        },
-        {
-          "ejercicio": "Dibuja tres vistas de un dado.",
-          "respuesta": "Debe mostrar frente, arriba y lado."
-        }
-      ],
-      "idea": "Para saber cómo es una caja, la miras de frente, de arriba y de lado.",
-      "pizarron": "**Qué es:** las vistas son dibujos de un objeto desde distintos lados.\n\n**Vista frontal:** de frente.\n\n**Vista superior:** desde arriba.\n\n**Vista lateral:** de lado.\n\nJuntas muestran la forma completa.\n\nSe usan en planos de casas y máquinas.",
-      "truco": "Frente, arriba y lado.",
-      "practica": {
-        "ejercicio": "¿Qué vista se ve desde arriba?",
-        "respuesta": "La superior."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-028",
-    "titulo": "Diagramas de flujo de un proceso",
-    "slug": "diagramas-de-flujo-de-un-proceso-secundaria",
-    "palabras": [
-      "diagramas de flujo",
-      "procesos",
-      "pasos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Mapa de pasos",
-          "texto": "Te guía para que no te pierdas."
-        },
-        {
-          "titulo": "Juego de elige",
-          "texto": "Cada rombo abre dos caminos."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué figura es una acción?",
-          "respuesta": "El rectángulo."
-        },
-        {
-          "ejercicio": "¿Qué figura marca inicio?",
-          "respuesta": "El óvalo."
-        },
-        {
-          "ejercicio": "Haz un diagrama para lavarte las manos.",
-          "respuesta": "Debe tener inicio, pasos y fin."
-        }
-      ],
-      "idea": "Hacer un sándwich tiene pasos y decisiones. Un diagrama los muestra con flechas.",
-      "pizarron": "**Qué es:** un diagrama de flujo representa los pasos de un proceso con figuras y flechas.\n\n**Figuras:**\n\n- **Óvalo:** inicio y fin.\n- **Rectángulo:** acción.\n- **Rombo:** decisión, sí o no.\n- **Flecha:** orden.\n\n**Ejemplo:** ¿Hay pan? Sí: unta. No: compra.",
-      "truco": "Óvalo, cuadro y rombo.",
-      "practica": {
-        "ejercicio": "¿Qué figura es una decisión?",
-        "respuesta": "El rombo."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-035",
-    "titulo": "Diseño de un proyecto técnico",
-    "slug": "diseno-de-un-proyecto-tecnico-secundaria",
-    "palabras": [
-      "proyecto técnico",
-      "diseño",
-      "prototipo"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Receta nueva",
-          "texto": "Pruebas, ajustas la sal y vuelves a probar."
-        },
-        {
-          "titulo": "Maqueta",
-          "texto": "Se hace pequeña para ver si funciona."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuál es el primer paso?",
-          "respuesta": "Identificar el problema."
-        },
-        {
-          "ejercicio": "¿Qué se hace tras probar?",
-          "respuesta": "Mejorar."
-        },
-        {
-          "ejercicio": "Diseña algo para guardar tus lápices.",
-          "respuesta": "Debe incluir dibujo y materiales."
-        }
-      ],
-      "idea": "Para resolver un problema con tus manos, primero hay que pensar, dibujar y probar.",
-      "pizarron": "**Qué es:** un proyecto técnico es un plan para crear un producto que resuelva un problema.\n\n**Pasos:**\n\n1. Identificar el problema.\n2. Investigar.\n3. Proponer ideas.\n4. Diseñar.\n5. Crear un **prototipo**.\n6. Probar y mejorar.\n7. Presentar.",
-      "truco": "Piensa, dibuja, haz y prueba.",
-      "practica": {
-        "ejercicio": "¿Qué es prototipo?",
-        "respuesta": "Un primer modelo de prueba."
-      }
-    }
-  },
-  {
-    "nodo_id": "f6-035",
-    "titulo": "Impacto ambiental de una tecnología",
-    "slug": "impacto-ambiental-de-una-tecnologia-secundaria",
-    "palabras": [
-      "impacto ambiental",
-      "reciclaje",
-      "ciclo de vida"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Huella",
-          "texto": "Cada objeto deja una huella al pasar por el planeta."
-        },
-        {
-          "titulo": "Cuenta oculta",
-          "texto": "El precio no incluye el daño que deja."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es basura electrónica?",
-          "respuesta": "Aparatos desechados."
-        },
-        {
-          "ejercicio": "Di una etapa del ciclo de vida.",
-          "respuesta": "Fabricación."
-        },
-        {
-          "ejercicio": "Analiza el impacto de una botella de plástico.",
-          "respuesta": "Debe decir de dónde sale y a dónde va."
-        }
-      ],
-      "idea": "Tu teléfono nuevo nace en una mina y acaba como basura. Toda tecnología deja huella.",
-      "pizarron": "**Qué es:** el impacto ambiental es el efecto de una actividad humana en la naturaleza.\n\n**Ciclo de vida:** materia prima, fábrica, transporte, uso y desecho.\n\n**Problemas:** contaminación, basura electrónica, gasto de energía.\n\n**Soluciones:**\n\n- Reducir, reutilizar, reciclar.\n- Energías limpias.\n- Reparar.",
-      "truco": "Reduce, reutiliza y recicla.",
-      "practica": {
-        "ejercicio": "Di una solución.",
-        "respuesta": "Reciclar."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-129",
-    "titulo": "Partes de una computadora",
-    "slug": "partes-de-una-computadora-prepa",
-    "palabras": [
-      "computadora",
-      "CPU",
-      "memoria",
-      "hardware",
-      "software"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Escritorio",
-          "texto": "La RAM es la mesa de trabajo y el disco, el archivero."
-        },
-        {
-          "titulo": "Cuerpo y pensamiento",
-          "texto": "Hardware es el cuerpo; software, las ideas."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es software?",
-          "respuesta": "Los programas."
-        },
-        {
-          "ejercicio": "¿La bocina es entrada o salida?",
-          "respuesta": "Salida."
-        },
-        {
-          "ejercicio": "¿Qué memoria se borra al apagar?",
-          "respuesta": "La RAM."
-        }
-      ],
-      "idea": "Una computadora es como una persona: tiene cerebro, memoria, ojos y manos.",
-      "pizarron": "**Qué es:** una computadora es una máquina que recibe datos, los procesa y da resultados.\n\n**Hardware:** partes físicas.\n\n- **CPU:** procesa.\n- **RAM:** memoria de trabajo.\n- **Disco:** guarda.\n- **Entrada:** teclado, ratón.\n- **Salida:** pantalla, bocina.\n\n**Software:** programas.",
-      "truco": "Hardware se toca; software no.",
-      "practica": {
-        "ejercicio": "¿Qué parte es el cerebro?",
-        "respuesta": "La CPU."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-129",
-    "titulo": "Sistema binario",
-    "slug": "sistema-binario-prepa",
-    "palabras": [
-      "binario",
-      "bits",
-      "ceros y unos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Focos",
-          "texto": "Cada foco prendido suma su valor."
-        },
-        {
-          "titulo": "Monedas",
-          "texto": "Pagas con monedas de 1, 2, 4 y 8."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Convierte 1000 a decimal.",
-          "respuesta": "8."
-        },
-        {
-          "ejercicio": "Convierte 3 a binario.",
-          "respuesta": "11"
-        },
-        {
-          "ejercicio": "Convierte 111 a decimal.",
-          "respuesta": "7."
-        }
-      ],
-      "idea": "Una computadora solo entiende prendido y apagado. Con eso escribe todo.",
-      "pizarron": "**Qué es:** el sistema binario usa solo dos dígitos: 0 y 1.\n\nCada lugar vale el doble: 1, 2, 4, 8.\n\n**Binario a decimal:** 1011.\n\n$$8 + 0 + 2 + 1 = 11$$\n\n**Decimal a binario:** divide entre 2 y guarda residuos.\n\n$$6 = 110$$\n\nCada 0 o 1 es un **bit**.",
-      "truco": "Cada lugar vale el doble.",
-      "practica": {
-        "ejercicio": "Convierte 101 a decimal.",
-        "respuesta": "5."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-129",
-    "titulo": "Almacenamiento y unidades de información",
-    "slug": "almacenamiento-y-unidades-de-informacion-prepa",
-    "palabras": [
-      "bits",
-      "bytes",
-      "megabyte",
-      "gigabyte"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Cajones",
-          "texto": "Un disco es un mueble con cajones de tamaños crecientes."
-        },
-        {
-          "titulo": "Escalera",
-          "texto": "Cada unidad es mil veces mayor que la anterior."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Cuántos MB son 3 GB?",
-          "respuesta": "3000 MB."
-        },
-        {
-          "ejercicio": "¿Qué es mayor: 1 GB o 500 MB?",
-          "respuesta": "1 GB."
-        },
-        {
-          "ejercicio": "¿Cuántos GB son 2 TB?",
-          "respuesta": "2000 GB."
-        }
-      ],
-      "idea": "Una foto ocupa espacio en tu teléfono, como la ropa en un cajón.",
-      "pizarron": "**Qué es:** las unidades miden información.\n\n**Bit:** 0 o 1.\n\n**Byte:** 8 bits.\n\n**Kilobyte (KB):** mil bytes.\n\n**Megabyte (MB):** mil KB.\n\n**Gigabyte (GB):** mil MB.\n\n**Terabyte (TB):** mil GB.\n\n**Ejemplo:** 2 GB son 2000 MB.\n\nUna foto ocupa unos MB.",
-      "truco": "Cada escalón multiplica por mil.",
-      "practica": {
-        "ejercicio": "¿Cuántos bits tiene un byte?",
-        "respuesta": "8."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-129",
-    "titulo": "Internet y cómo funciona",
-    "slug": "internet-y-como-funciona-prepa",
-    "palabras": [
-      "internet",
-      "IP",
-      "servidor",
-      "navegador"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Correo postal",
-          "texto": "Los datos viajan con dirección, como cartas."
-        },
-        {
-          "titulo": "Restaurante",
-          "texto": "Tú pides y el servidor te trae la comida."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué hace un navegador?",
-          "respuesta": "Muestra páginas."
-        },
-        {
-          "ejercicio": "¿Qué hace un router?",
-          "respuesta": "Dirige datos."
-        },
-        {
-          "ejercicio": "¿Cómo viajan los datos?",
-          "respuesta": "En paquetes."
-        }
-      ],
-      "idea": "Cuando abres un video, tu teléfono le pide datos a una computadora lejana.",
-      "pizarron": "**Qué es:** internet es una red mundial de computadoras conectadas.\n\n**Partes:**\n\n- **Dirección IP:** identifica a cada aparato.\n- **Servidor:** guarda páginas.\n- **Navegador:** muestra páginas.\n- **Router:** dirige datos.\n- **DNS:** traduce nombres a IP.\n\nLos datos viajan en **paquetes**.",
-      "truco": "Pides, el servidor responde.",
-      "practica": {
-        "ejercicio": "¿Qué identifica a un aparato?",
-        "respuesta": "La dirección IP."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-131",
-    "titulo": "Variables y tipos de datos",
-    "slug": "variables-y-tipos-de-datos-prepa",
-    "palabras": [
-      "variables",
-      "tipos de datos",
-      "programación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Caja con etiqueta",
-          "texto": "La etiqueta es el nombre y adentro va el dato."
-        },
-        {
-          "titulo": "Pizarrón",
-          "texto": "Borras un valor y escribes otro."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué tipo es 3.5?",
-          "respuesta": "Decimal."
-        },
-        {
-          "ejercicio": "¿Qué tipo es True?",
-          "respuesta": "Booleano."
-        },
-        {
-          "ejercicio": "Crea una variable con tu edad.",
-          "respuesta": "`edad = 15`"
-        }
-      ],
-      "idea": "Una variable es una caja con etiqueta donde guardas un dato.",
-      "pizarron": "**Qué es:** una variable es un espacio con nombre donde un programa guarda un valor.\n\n```python\nedad = 15\nnombre = \"Ana\"\n```\n\n**Tipos:**\n\n- **Entero:** 5.\n- **Decimal:** 3.14.\n- **Texto:** \"hola\".\n- **Booleano:** True o False.\n\nPuedes cambiar el valor: `edad = 16`.",
-      "truco": "Nombre, igual y valor.",
-      "practica": {
-        "ejercicio": "¿Qué tipo es \"hola\"?",
-        "respuesta": "Texto."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-131",
-    "titulo": "Condicionales",
-    "slug": "condicionales-prepa",
-    "palabras": [
-      "if",
-      "else",
-      "condicionales",
-      "programación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Bifurcación",
-          "texto": "Un camino se parte y solo tomas uno."
-        },
-        {
-          "titulo": "Portero",
-          "texto": "Pregunta algo antes de dejarte pasar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué significa `==`?",
-          "respuesta": "Es igual a."
-        },
-        {
-          "ejercicio": "¿Qué palabra es para el caso contrario?",
-          "respuesta": "`else`"
-        },
-        {
-          "ejercicio": "Escribe un `if` para saber si `x` es mayor que 10.",
-          "respuesta": "`if x > 10:`"
-        }
-      ],
-      "idea": "Si llueve, llevas paraguas; si no, no. Los programas deciden igual.",
-      "pizarron": "**Qué es:** un condicional ejecuta código según si algo es verdadero.\n\n```python\nedad = 18\nif edad >= 18:\n    print(\"Adulto\")\nelse:\n    print(\"Menor\")\n```\n\n**Comparadores:** `==`, `!=`, `>`, `<`.\n\nLa sangría indica lo que va dentro.",
-      "truco": "Si pasa, haz esto; si no, aquello.",
-      "practica": {
-        "ejercicio": "¿Qué imprime con edad = 12?",
-        "respuesta": "Menor."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-131",
-    "titulo": "Ciclos",
-    "slug": "ciclos-prepa",
-    "palabras": [
-      "for",
-      "while",
-      "ciclos",
-      "programación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Dar vueltas",
-          "texto": "Corres vueltas a la pista hasta terminar."
-        },
-        {
-          "titulo": "Lavar platos",
-          "texto": "Mientras haya platos, sigue lavando."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es un ciclo infinito?",
-          "respuesta": "Uno que nunca termina."
-        },
-        {
-          "ejercicio": "¿Qué ciclo usarías para 10 veces?",
-          "respuesta": "`for`"
-        },
-        {
-          "ejercicio": "Escribe un ciclo que imprima 5 veces Hola.",
-          "respuesta": "`for i in range(5): print(\"Hola\")`"
-        }
-      ],
-      "idea": "Para escribir 100 veces una frase, le pides a la computadora que repita sola.",
-      "pizarron": "**Qué es:** un ciclo repite instrucciones.\n\n**For:** veces conocidas.\n\n```python\nfor i in range(3):\n    print(\"Hola\")\n```\n\n**While:** mientras se cumpla algo.\n\n```python\nn = 0\nwhile n < 3:\n    n = n + 1\n```\n\nCuidado: un ciclo que nunca acaba se llama **infinito**.",
-      "truco": "For cuenta; while vigila.",
-      "practica": {
-        "ejercicio": "¿Cuántas veces imprime el `for` anterior?",
-        "respuesta": "3 veces."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-131",
-    "titulo": "Funciones en programación",
-    "slug": "funciones-en-programacion-prepa",
-    "palabras": [
-      "funciones",
-      "def",
-      "return",
-      "programación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Licuadora",
-          "texto": "Entra fruta y sale licuado."
-        },
-        {
-          "titulo": "Receta guardada",
-          "texto": "La escribes una vez y la usas siempre."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué palabra crea una función?",
-          "respuesta": "`def`"
-        },
-        {
-          "ejercicio": "¿Qué devuelve `suma(4, 5)`?",
-          "respuesta": "9"
-        },
-        {
-          "ejercicio": "Escribe una función que duplique un número.",
-          "respuesta": "`def doble(n): return n * 2`"
-        }
-      ],
-      "idea": "Una licuadora recibe fruta y regresa licuado. Una función recibe datos y regresa un resultado.",
-      "pizarron": "**Qué es:** una función es un bloque de código con nombre que se puede reutilizar.\n\n```python\ndef suma(a, b):\n    return a + b\n\nprint(suma(2, 3))\n```\n\nImprime 5.\n\n**Parámetros:** datos de entrada.\n\n**Return:** resultado.\n\nEvitan repetir código.",
-      "truco": "Entra dato, sale resultado.",
-      "practica": {
-        "ejercicio": "¿Qué hace `return`?",
-        "respuesta": "Devuelve el resultado."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-131",
-    "titulo": "Diagramas de flujo",
-    "slug": "diagramas-de-flujo-prepa",
-    "palabras": [
-      "diagramas de flujo",
-      "algoritmos",
-      "programación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Mapa del programa",
-          "texto": "Te dice por dónde va cada dato."
-        },
-        {
-          "titulo": "Receta con opciones",
-          "texto": "Si no hay huevo, toma otro camino."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué es un algoritmo?",
-          "respuesta": "Pasos para resolver un problema."
-        },
-        {
-          "ejercicio": "¿Qué figura es una decisión?",
-          "respuesta": "El rombo."
-        },
-        {
-          "ejercicio": "Dibuja un diagrama que diga si un número es par.",
-          "respuesta": "Debe tener inicio, decisión y fin."
-        }
-      ],
-      "idea": "Antes de programar, dibuja tu idea. Un diagrama muestra cada paso y cada decisión.",
-      "pizarron": "**Qué es:** un diagrama de flujo representa un algoritmo con figuras.\n\n**Algoritmo:** pasos ordenados para resolver un problema.\n\n**Figuras:**\n\n- Óvalo: inicio y fin.\n- Rectángulo: proceso.\n- Rombo: decisión.\n- Paralelogramo: entrada o salida.\n\n**Ejemplo:** pedir número, ¿es par?, imprimir.",
-      "truco": "Dibuja antes de programar.",
-      "practica": {
-        "ejercicio": "¿Qué figura es entrada o salida?",
-        "respuesta": "El paralelogramo."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-131",
-    "titulo": "Primer programa en Python",
-    "slug": "primer-programa-en-python-prepa",
-    "palabras": [
-      "Python",
-      "print",
-      "input",
-      "programación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Conversación",
-          "texto": "Input pregunta y print responde."
-        },
-        {
-          "titulo": "Instrucciones",
-          "texto": "Le dices exactamente qué hacer, paso a paso."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué hace `input`?",
-          "respuesta": "Pide un dato."
-        },
-        {
-          "ejercicio": "¿Qué hace `int()`?",
-          "respuesta": "Convierte a número entero."
-        },
-        {
-          "ejercicio": "Escribe un programa que pida tu edad y sume 1.",
-          "respuesta": "Debe usar `input`, `int` y `print`."
-        }
-      ],
-      "idea": "Unas pocas líneas bastan para que la computadora te salude por tu nombre.",
-      "pizarron": "**Qué es:** Python es un lenguaje de programación fácil de leer.\n\n```python\nnombre = input(\"¿Cómo te llamas? \")\nprint(\"Hola\", nombre)\n```\n\n**Print:** muestra en pantalla.\n\n**Input:** pide un dato.\n\nPara sumar, convierte a número:\n\n```python\nn = int(input(\"Número: \"))\nprint(n + 1)\n```\n\nPrueba en un sitio como Python.org o en tu computadora.",
-      "truco": "Input pide y print muestra.",
-      "practica": {
-        "ejercicio": "¿Qué hace `print`?",
-        "respuesta": "Muestra en pantalla."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-133",
-    "titulo": "Contraseñas seguras",
-    "slug": "contrasenas-seguras-prepa",
-    "palabras": [
-      "contraseñas",
-      "seguridad",
-      "verificación"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Llave",
-          "texto": "Si la prestas, te pueden entrar a casa."
-        },
-        {
-          "titulo": "Doble cerradura",
-          "texto": "El segundo paso es un candado extra."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Debe usar tu cumpleaños?",
-          "respuesta": "No."
-        },
-        {
-          "ejercicio": "¿Por qué una distinta por cuenta?",
-          "respuesta": "Para que no entren a todas si roban una."
-        },
-        {
-          "ejercicio": "Crea una frase secreta de ejemplo.",
-          "respuesta": "Debe ser larga y sin datos personales."
-        }
-      ],
-      "idea": "Tu contraseña es la llave de tu casa digital. No la dejes bajo el tapete.",
-      "pizarron": "**Qué es:** una contraseña segura es difícil de adivinar.\n\n**Reglas:**\n\n- Al menos 12 caracteres.\n- Letras, números y signos.\n- Sin datos personales.\n- Una distinta por cuenta.\n\n**Frase secreta:** *MiGato!ComeTacos7*.\n\nActiva la **verificación en dos pasos**.\n\nNo la compartas.\n\n**Para recordar:**\n- **¿Por qué una distinta por cuenta?** Para que no entren a todas si roban una.",
-      "truco": "Larga, rara y única.",
-      "practica": {
-        "ejercicio": "¿Es segura 123456?",
-        "respuesta": "No."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-133",
-    "titulo": "Fraudes y phishing",
-    "slug": "fraudes-y-phishing-prepa",
-    "palabras": [
-      "phishing",
-      "fraude",
-      "seguridad"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Anzuelo",
-          "texto": "El mensaje es la carnada y tú el pez."
-        },
-        {
-          "titulo": "Lobo disfrazado",
-          "texto": "Se viste de banco para que confíes."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di una señal.",
-          "respuesta": "Mucha urgencia."
-        },
-        {
-          "ejercicio": "¿Qué haces con un enlace raro?",
-          "respuesta": "No abrirlo."
-        },
-        {
-          "ejercicio": "¿Un banco pide tu NIP por mensaje?",
-          "respuesta": "No."
-        }
-      ],
-      "idea": "Un mensaje dice que ganaste un premio y pide tus datos. Es una trampa.",
-      "pizarron": "**Qué es:** el phishing es un engaño para robar datos, haciéndose pasar por alguien confiable.\n\n**Señales:**\n\n- Mucha urgencia.\n- Errores.\n- Enlaces raros.\n- Piden contraseña.\n\n**Qué hacer:**\n\n- No des clic.\n- Verifica en la página oficial.\n- Avisa a un adulto.",
-      "truco": "Si suena demasiado bueno, desconfía.",
-      "practica": {
-        "ejercicio": "¿Das tu contraseña por mensaje?",
-        "respuesta": "No."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-133",
-    "titulo": "Privacidad en redes sociales",
-    "slug": "privacidad-en-redes-sociales-prepa",
-    "palabras": [
-      "privacidad",
-      "redes sociales",
-      "datos personales"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Ventana abierta",
-          "texto": "Publicar es abrir la ventana de tu casa."
-        },
-        {
-          "titulo": "Tatuaje digital",
-          "texto": "Lo que subes es difícil de borrar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué haces si un desconocido te escribe?",
-          "respuesta": "No responder y avisar."
-        },
-        {
-          "ejercicio": "¿Debes pedir permiso para subir fotos?",
-          "respuesta": "Sí."
-        },
-        {
-          "ejercicio": "Revisa la privacidad de una cuenta.",
-          "respuesta": "Debe quedar privada."
-        }
-      ],
-      "idea": "Lo que subes puede quedarse para siempre. Antes de publicar, piensa quién lo verá.",
-      "pizarron": "**Qué es:** la privacidad es el control sobre quién ve tu información.\n\n**Reglas:**\n\n- Cuenta privada.\n- No publiques dirección, escuela o rutinas.\n- No aceptes desconocidos.\n- Piensa antes de subir.\n- Pide permiso para subir fotos de otros.\n\nAvisa a un adulto si alguien te incomoda.",
-      "truco": "Piensa antes de publicar.",
-      "practica": {
-        "ejercicio": "¿Publicarías tu dirección?",
-        "respuesta": "No."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-138",
-    "titulo": "Hojas de cálculo: fórmulas básicas",
-    "slug": "hojas-de-calculo-formulas-basicas-prepa",
-    "palabras": [
-      "hoja de cálculo",
-      "fórmulas",
-      "SUMA",
-      "PROMEDIO"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Calculadora gigante",
-          "texto": "Cambias un dato y todo se recalcula."
-        },
-        {
-          "titulo": "Batalla naval",
-          "texto": "Cada celda tiene letra y número."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué fórmula da el promedio de B1 a B4?",
-          "respuesta": "`=PROMEDIO(B1:B4)`"
-        },
-        {
-          "ejercicio": "¿Cómo inicia una fórmula?",
-          "respuesta": "Con `=`."
-        },
-        {
-          "ejercicio": "Haz una tabla de tus gastos con suma total.",
-          "respuesta": "Debe usar `=SUMA`."
-        }
-      ],
-      "idea": "Una hoja de cálculo hace cuentas sola. Solo le dices qué sumar.",
-      "pizarron": "**Qué es:** una hoja de cálculo organiza datos en filas y columnas, y usa fórmulas.\n\n**Celda:** A1.\n\nToda fórmula inicia con `=`.\n\n`=A1+B1`: suma.\n\n`=SUMA(A1:A10)`: suma un rango.\n\n`=PROMEDIO(A1:A10)`.\n\n`=MAX(A1:A10)`.\n\n`=SI(A1>=6,\"Aprobado\",\"Reprobado\")`.",
-      "truco": "Toda fórmula empieza con igual.",
-      "practica": {
-        "ejercicio": "¿Cómo sumas de A1 a A5?",
-        "respuesta": "`=SUMA(A1:A5)`"
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-138",
-    "titulo": "Hojas de cálculo: gráficas",
-    "slug": "hojas-de-calculo-graficas-prepa",
-    "palabras": [
-      "gráficas",
-      "hoja de cálculo",
-      "datos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Dibujar números",
-          "texto": "Convierte números en una imagen que se entiende."
-        },
-        {
-          "titulo": "Foto de datos",
-          "texto": "Se ve en un segundo lo que costaría leer."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué gráfica muestra cambios en el tiempo?",
-          "respuesta": "La de líneas."
-        },
-        {
-          "ejercicio": "¿Qué gráfica compara categorías?",
-          "respuesta": "La de barras."
-        },
-        {
-          "ejercicio": "Haz una gráfica de tus horas de estudio.",
-          "respuesta": "Debe tener título y ejes."
-        }
-      ],
-      "idea": "Los números solos cuestan. Una gráfica te muestra la historia en un vistazo.",
-      "pizarron": "**Qué es:** una gráfica es una representación visual de datos.\n\n**Pasos:** selecciona datos, inserta gráfica y pon título.\n\n**Tipos:**\n\n- **Barras:** comparar.\n- **Líneas:** cambios en el tiempo.\n- **Circular:** partes de un todo.\n\nPon título y etiquetas de ejes.",
-      "truco": "Barras comparan; líneas cambian.",
-      "practica": {
-        "ejercicio": "¿Qué gráfica usas para partes de un todo?",
-        "respuesta": "La circular."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-138",
-    "titulo": "Procesador de textos",
-    "slug": "procesador-de-textos-prepa",
-    "palabras": [
-      "procesador de textos",
-      "Word",
-      "formato"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Ropa del texto",
-          "texto": "El formato viste tus palabras."
-        },
-        {
-          "titulo": "Mapa del documento",
-          "texto": "Los títulos ayudan a navegar."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Qué formato evita cambios?",
-          "respuesta": "PDF."
-        },
-        {
-          "ejercicio": "¿Qué hace un índice automático?",
-          "respuesta": "Lista los títulos y sus páginas."
-        },
-        {
-          "ejercicio": "Da formato a un trabajo con título y lista.",
-          "respuesta": "Debe usar estilos."
-        }
-      ],
-      "idea": "Escribir bien no basta: un documento ordenado se lee mejor.",
-      "pizarron": "**Qué es:** un procesador de textos permite escribir y dar formato a documentos.\n\n**Funciones:**\n\n- Títulos con **estilos**.\n- Negritas y cursivas.\n- Listas y tablas.\n- Numeración.\n- Índice automático.\n- Revisar ortografía.\n- Guardar como PDF.",
-      "truco": "Usa estilos, no tamaños a mano.",
-      "practica": {
-        "ejercicio": "¿Para qué sirven los estilos?",
-        "respuesta": "Para dar formato uniforme."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-138",
-    "titulo": "Presentaciones eficaces",
-    "slug": "presentaciones-eficaces-prepa",
-    "palabras": [
-      "presentaciones",
-      "diapositivas",
-      "exponer"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Cartel",
-          "texto": "Tu diapositiva se lee como un cartel."
-        },
-        {
-          "titulo": "Muleta",
-          "texto": "Te apoya; no habla por ti."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "¿Debes leer todo?",
-          "respuesta": "No."
-        },
-        {
-          "ejercicio": "¿Qué letra conviene?",
-          "respuesta": "Grande."
-        },
-        {
-          "ejercicio": "Haz tres diapositivas sobre tu tema favorito.",
-          "respuesta": "Una idea en cada una."
-        }
-      ],
-      "idea": "Una diapositiva llena de letras aburre. Una buena apoya lo que dices.",
-      "pizarron": "**Qué es:** una presentación apoya una exposición con imágenes y pocas palabras.\n\n**Reglas:**\n\n- Una idea por diapositiva.\n- Pocas palabras.\n- Letra grande.\n- Imágenes claras.\n- Citar fuentes.\n\n**Al exponer:** mira al público y practica.",
-      "truco": "Una idea, pocas palabras.",
-      "practica": {
-        "ejercicio": "¿Cuántas ideas por diapositiva?",
-        "respuesta": "Una."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-140",
-    "titulo": "Qué es la inteligencia artificial",
-    "slug": "que-es-la-inteligencia-artificial-prepa",
-    "palabras": [
-      "inteligencia artificial",
-      "IA",
-      "algoritmos"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Practicar mucho",
-          "texto": "Mejora con ejemplos, como quien aprende por repetición."
-        },
-        {
-          "titulo": "Ayudante, no jefe",
-          "texto": "Te ayuda, pero tú decides."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di un uso.",
-          "respuesta": "Traductores."
-        },
-        {
-          "ejercicio": "¿Puede equivocarse?",
-          "respuesta": "Sí."
-        },
-        {
-          "ejercicio": "¿Qué es un sesgo?",
-          "respuesta": "Una preferencia injusta aprendida de los datos."
-        }
-      ],
-      "idea": "Un programa aprende a reconocer gatos viendo miles de fotos. Eso es inteligencia artificial.",
-      "pizarron": "**Qué es:** la inteligencia artificial (IA) es el área de la computación que crea sistemas capaces de hacer tareas que parecen requerir inteligencia.\n\n**Aprendizaje automático:** aprende con datos.\n\n**Usos:** traductores, asistentes, recomendaciones.\n\n**Cuidados:**\n\n- Puede equivocarse.\n- Puede tener sesgos.\n- Verifica lo que dice.",
-      "truco": "Útil, pero verifícala.",
-      "practica": {
-        "ejercicio": "¿Con qué aprende una IA?",
-        "respuesta": "Con datos."
-      }
-    }
-  },
-  {
-    "nodo_id": "ems-140",
-    "titulo": "Detectar noticias falsas",
-    "slug": "detectar-noticias-falsas-prepa",
-    "palabras": [
-      "noticias falsas",
-      "desinformación",
-      "verificar"
-    ],
-    "contenido": {
-      "analogias": [
-        {
-          "titulo": "Teléfono descompuesto",
-          "texto": "Un mensaje se deforma al pasar."
-        },
-        {
-          "titulo": "Detective",
-          "texto": "Busca pruebas antes de creer."
-        }
-      ],
-      "ejercicios": [
-        {
-          "ejercicio": "Di una señal de alerta.",
-          "respuesta": "Sin fuentes."
-        },
-        {
-          "ejercicio": "¿Qué compruebas de la fuente?",
-          "respuesta": "Quién la publica."
-        },
-        {
-          "ejercicio": "Revisa una noticia en dos medios.",
-          "respuesta": "Compara lo que dicen."
-        }
-      ],
-      "idea": "Una noticia increíble corre por los chats. Antes de compartirla, revísala.",
-      "pizarron": "**Qué es:** una noticia falsa es información engañosa presentada como cierta.\n\n**Cómo revisar:**\n\n1. ¿Quién lo publica?\n2. ¿Tiene fecha y fuentes?\n3. ¿Otros medios lo dicen?\n4. ¿Busca enojarte?\n5. Busca la imagen.",
-      "truco": "Revisa antes de compartir.",
-      "practica": {
-        "ejercicio": "¿Qué haces antes de compartir?",
-        "respuesta": "Verificar la fuente."
-      }
-    }
-  }
+{
+"nodo_id": "f6-008",
+"titulo": "Máquinas simples en la vida diaria",
+"slug": "maquinas-simples-en-la-vida-diaria-secundaria",
+"palabras": [
+"máquinas simples",
+"palanca",
+"polea",
+"rampa"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Ayudantes invisibles",
+"texto": "Cada día tienes pequeñas máquinas que te ayudan sin que lo notes."
+},
+{
+"titulo": "Atajo de fuerza",
+"texto": "Te dejan hacer con poca fuerza lo que sería muy pesado."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué máquina es un cuchillo?",
+"respuesta": "Una cuña."
+},
+{
+"ejercicio": "¿Qué máquina son las tijeras?",
+"respuesta": "Dos palancas."
+},
+{
+"ejercicio": "Encuentra tres máquinas simples en tu casa.",
+"respuesta": "Di cuál es y qué tipo es."
+}
+],
+"idea": "Abres una lata, subes por una rampa y usas tijeras: estás usando máquinas simples todo el día.",
+"pizarron": "**Qué es:** las máquinas simples son herramientas que hacen más fácil un trabajo.\n\n**En tu vida:**\n\n- **Palanca:** tijeras, destapador.\n- **Polea:** cortinas, grúas.\n- **Plano inclinado:** rampas.\n- **Cuña:** cuchillo.\n- **Tornillo:** tapa de frasco.\n- **Rueda y eje:** bicicleta.\n\n**Para tu escuela:** busca tres máquinas simples en tu casa.",
+"truco": "Mira a tu alrededor y las encontrarás.",
+"practica": {
+"ejercicio": "¿Qué máquina simple es una rampa?",
+"respuesta": "Un plano inclinado."
+}
+}
+},
+{
+"nodo_id": "f6-008",
+"titulo": "Inventos que cambiaron el mundo",
+"slug": "inventos-que-cambiaron-el-mundo-secundaria",
+"palabras": [
+"inventos",
+"rueda",
+"imprenta",
+"internet"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Escalones",
+"texto": "Cada invento se apoya en otros anteriores para subir."
+},
+{
+"titulo": "Puerta nueva",
+"texto": "Un invento abre caminos que antes no existían."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué invento difundió libros?",
+"respuesta": "La imprenta."
+},
+{
+"ejercicio": "¿Qué nos permite estar conectados?",
+"respuesta": "Internet."
+},
+{
+"ejercicio": "Di un invento que usas cada día.",
+"respuesta": "Depende: por ejemplo, el teléfono."
+}
+],
+"idea": "Unos pocos inventos cambiaron cómo comemos, hablamos y viajamos.",
+"pizarron": "**Qué es:** un invento es una creación nueva que resuelve un problema.\n\n- **Rueda:** transporte.\n- **Imprenta:** libros.\n- **Máquina de vapor:** industria.\n- **Foco:** Edison mejoró la luz eléctrica.\n- **Teléfono:** Bell.\n- **Penicilina:** Fleming, 1928.\n- **Internet:** años 60 a 90.\n\n**Para tu escuela:** elige un invento y di cómo cambió tu vida.",
+"truco": "Un invento resuelve un problema.",
+"practica": {
+"ejercicio": "¿Quién descubrió la penicilina?",
+"respuesta": "Alexander Fleming."
+}
+}
+},
+{
+"nodo_id": "f6-008",
+"titulo": "Inventos mexicanos",
+"slug": "inventos-mexicanos-secundaria",
+"palabras": [
+"inventos mexicanos",
+"televisión a color",
+"píldora"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Orgullo",
+"texto": "Una idea mexicana llegó a pantallas de muchos países."
+},
+{
+"titulo": "Tradición larga",
+"texto": "Inventar en México viene desde las chinampas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué premio ganó Mario Molina?",
+"respuesta": "El Nobel de Química."
+},
+{
+"ejercicio": "¿Qué sistema agrícola crearon los mexicas?",
+"respuesta": "Las chinampas."
+},
+{
+"ejercicio": "Di un científico mexicano.",
+"respuesta": "Mario Molina."
+}
+],
+"idea": "¿Sabías que varios inventos importantes nacieron en México?",
+"pizarron": "**Qué es:** son creaciones de personas mexicanas.\n\n- **Guillermo González Camarena:** sistema de televisión a color.\n- **Luis Miramontes:** participó en la creación de la píldora anticonceptiva.\n- **Mario Molina:** Premio Nobel de Química por estudiar la capa de ozono.\n- **Victor Celorio:** tecnología de impresión a demanda.\n- Los mexicas: **chinampas**.\n\n**Para tu escuela:** investiga la televisión a color de González Camarena.",
+"truco": "González Camarena y la tele a color.",
+"practica": {
+"ejercicio": "¿Quién ideó la televisión a color?",
+"respuesta": "Guillermo González Camarena."
+}
+}
+},
+{
+"nodo_id": "f6-028",
+"titulo": "Dibujo técnico básico",
+"slug": "dibujo-tecnico-basico-secundaria",
+"palabras": [
+"dibujo técnico",
+"escala",
+"cotas"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Receta exacta",
+"texto": "Cualquiera puede repetir el objeto siguiendo el plano."
+},
+{
+"titulo": "Idioma común",
+"texto": "Las mismas líneas se entienden en todo el mundo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa escala 1:2?",
+"respuesta": "El dibujo mide la mitad del objeto real."
+},
+{
+"ejercicio": "¿Qué indica una línea punteada?",
+"respuesta": "Algo oculto."
+},
+{
+"ejercicio": "Dibuja tu cuaderno con sus medidas.",
+"respuesta": "Debe incluir cotas."
+}
+],
+"idea": "Para construir algo, otra persona debe entender tu idea sin preguntar. Eso hace un dibujo técnico.",
+"pizarron": "**Qué es:** el dibujo técnico representa objetos con medidas y normas, para fabricarlos.\n\n**Herramientas:** regla, escuadras, compás, lápiz.\n\n**Elementos:**\n\n- **Líneas:** gruesa para contorno y punteada para lo oculto.\n- **Cotas:** medidas.\n- **Escala:** proporción.\n\nEjemplo: 1:2 significa que el dibujo mide la mitad.\n\n**Para tu escuela:** dibuja tu lápiz con medidas.",
+"truco": "Medidas claras, sin dudas.",
+"practica": {
+"ejercicio": "¿Qué son las cotas?",
+"respuesta": "Las medidas del dibujo."
+}
+}
+},
+{
+"nodo_id": "f6-028",
+"titulo": "Vistas de un objeto",
+"slug": "vistas-de-un-objeto-secundaria",
+"palabras": [
+"vistas",
+"frontal",
+"superior",
+"lateral"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Foto desde tres lados",
+"texto": "Cada foto muestra algo que la otra no."
+},
+{
+"titulo": "Mapa de la casa",
+"texto": "Ves el plano como si quitaras el techo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántas vistas básicas hay?",
+"respuesta": "Tres."
+},
+{
+"ejercicio": "¿Cómo se ve un vaso desde arriba?",
+"respuesta": "Como un círculo."
+},
+{
+"ejercicio": "Dibuja tres vistas de un dado.",
+"respuesta": "Debe mostrar frente, arriba y lado."
+}
+],
+"idea": "Para saber cómo es una caja, la miras de frente, de arriba y de lado.",
+"pizarron": "**Qué es:** las vistas son dibujos de un objeto desde distintos lados.\n\n**Vista frontal:** de frente.\n\n**Vista superior:** desde arriba.\n\n**Vista lateral:** de lado.\n\nJuntas muestran la forma completa.\n\nSe usan en planos de casas y máquinas.\n\n**Para tu escuela:** dibuja una caja de frente, de lado y desde arriba.",
+"truco": "Frente, arriba y lado.",
+"practica": {
+"ejercicio": "¿Qué vista se ve desde arriba?",
+"respuesta": "La superior."
+}
+}
+},
+{
+"nodo_id": "f6-028",
+"titulo": "Diagramas de flujo de un proceso",
+"slug": "diagramas-de-flujo-de-un-proceso-secundaria",
+"palabras": [
+"diagramas de flujo",
+"procesos",
+"pasos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Mapa de pasos",
+"texto": "Te guía para que no te pierdas."
+},
+{
+"titulo": "Juego de elige",
+"texto": "Cada rombo abre dos caminos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué figura es una acción?",
+"respuesta": "El rectángulo."
+},
+{
+"ejercicio": "¿Qué figura marca inicio?",
+"respuesta": "El óvalo."
+},
+{
+"ejercicio": "Haz un diagrama para lavarte las manos.",
+"respuesta": "Debe tener inicio, pasos y fin."
+}
+],
+"idea": "Hacer un sándwich tiene pasos y decisiones. Un diagrama los muestra con flechas.",
+"pizarron": "**Qué es:** un diagrama de flujo representa los pasos de un proceso con figuras y flechas.\n\n**Figuras:**\n\n- **Óvalo:** inicio y fin.\n- **Rectángulo:** acción.\n- **Rombo:** decisión, sí o no.\n- **Flecha:** orden.\n\n**Ejemplo:** ¿Hay pan? Sí: unta. No: compra.\n\n**Para tu escuela:** haz el diagrama de lavar tus manos.",
+"truco": "Óvalo, cuadro y rombo.",
+"practica": {
+"ejercicio": "¿Qué figura es una decisión?",
+"respuesta": "El rombo."
+}
+}
+},
+{
+"nodo_id": "f6-035",
+"titulo": "Diseño de un proyecto técnico",
+"slug": "diseno-de-un-proyecto-tecnico-secundaria",
+"palabras": [
+"proyecto técnico",
+"diseño",
+"prototipo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Receta nueva",
+"texto": "Pruebas, ajustas la sal y vuelves a probar."
+},
+{
+"titulo": "Maqueta",
+"texto": "Se hace pequeña para ver si funciona."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es el primer paso?",
+"respuesta": "Identificar el problema."
+},
+{
+"ejercicio": "¿Qué se hace tras probar?",
+"respuesta": "Mejorar."
+},
+{
+"ejercicio": "Diseña algo para guardar tus lápices.",
+"respuesta": "Debe incluir dibujo y materiales."
+}
+],
+"idea": "Para resolver un problema con tus manos, primero hay que pensar, dibujar y probar.",
+"pizarron": "**Qué es:** un proyecto técnico es un plan para crear un producto que resuelva un problema.\n\n**Pasos:**\n\n1. Identificar el problema.\n2. Investigar.\n3. Proponer ideas.\n4. Diseñar.\n5. Crear un **prototipo**.\n6. Probar y mejorar.\n7. Presentar.\n\n**Para tu escuela:** diseña un organizador para tu banca.",
+"truco": "Piensa, dibuja, haz y prueba.",
+"practica": {
+"ejercicio": "¿Qué es prototipo?",
+"respuesta": "Un primer modelo de prueba."
+}
+}
+},
+{
+"nodo_id": "f6-035",
+"titulo": "Impacto ambiental de una tecnología",
+"slug": "impacto-ambiental-de-una-tecnologia-secundaria",
+"palabras": [
+"impacto ambiental",
+"reciclaje",
+"ciclo de vida"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Huella",
+"texto": "Cada objeto deja una huella al pasar por el planeta."
+},
+{
+"titulo": "Cuenta oculta",
+"texto": "El precio no incluye el daño que deja."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es basura electrónica?",
+"respuesta": "Aparatos desechados."
+},
+{
+"ejercicio": "Di una etapa del ciclo de vida.",
+"respuesta": "Fabricación."
+},
+{
+"ejercicio": "Analiza el impacto de una botella de plástico.",
+"respuesta": "Debe decir de dónde sale y a dónde va."
+}
+],
+"idea": "Tu teléfono nuevo nace en una mina y acaba como basura. Toda tecnología deja huella.",
+"pizarron": "**Qué es:** el impacto ambiental es el efecto de una actividad humana en la naturaleza.\n\n**Ciclo de vida:** materia prima, fábrica, transporte, uso y desecho.\n\n**Problemas:** contaminación, basura electrónica, gasto de energía.\n\n**Soluciones:**\n\n- Reducir, reutilizar, reciclar.\n- Energías limpias.\n- Reparar.\n\n**Para tu escuela:** evalúa el impacto de un celular.",
+"truco": "Reduce, reutiliza y recicla.",
+"practica": {
+"ejercicio": "Di una solución.",
+"respuesta": "Reciclar."
+}
+}
+},
+{
+"nodo_id": "ems-129",
+"titulo": "Partes de una computadora",
+"slug": "partes-de-una-computadora-prepa",
+"palabras": [
+"computadora",
+"CPU",
+"memoria",
+"hardware",
+"software"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Escritorio",
+"texto": "La RAM es la mesa de trabajo y el disco, el archivero."
+},
+{
+"titulo": "Cuerpo y pensamiento",
+"texto": "Hardware es el cuerpo; software, las ideas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es software?",
+"respuesta": "Los programas."
+},
+{
+"ejercicio": "¿La bocina es entrada o salida?",
+"respuesta": "Salida."
+},
+{
+"ejercicio": "¿Qué memoria se borra al apagar?",
+"respuesta": "La RAM."
+}
+],
+"idea": "Una computadora es como una persona: tiene cerebro, memoria, ojos y manos.",
+"pizarron": "**Qué es:** una computadora es una máquina que recibe datos, los procesa y da resultados.\n\n**Hardware:** partes físicas.\n\n- **CPU:** procesa.\n- **RAM:** memoria de trabajo.\n- **Disco:** guarda.\n- **Entrada:** teclado, ratón.\n- **Salida:** pantalla, bocina.\n\n**Software:** programas.\n\n**Para tu escuela:** nombra las partes de una computadora de tu escuela.",
+"truco": "Hardware se toca; software no.",
+"practica": {
+"ejercicio": "¿Qué parte es el cerebro?",
+"respuesta": "La CPU."
+}
+}
+},
+{
+"nodo_id": "ems-129",
+"titulo": "Sistema binario",
+"slug": "sistema-binario-prepa",
+"palabras": [
+"binario",
+"bits",
+"ceros y unos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Focos",
+"texto": "Cada foco prendido suma su valor."
+},
+{
+"titulo": "Monedas",
+"texto": "Pagas con monedas de 1, 2, 4 y 8."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Convierte 1000 a decimal.",
+"respuesta": "8."
+},
+{
+"ejercicio": "Convierte 3 a binario.",
+"respuesta": "11"
+},
+{
+"ejercicio": "Convierte 111 a decimal.",
+"respuesta": "7."
+}
+],
+"idea": "Una computadora solo entiende prendido y apagado. Con eso escribe todo.",
+"pizarron": "**Qué es:** el sistema binario usa solo dos dígitos: 0 y 1.\n\n**Imagínalo:** son focos: prendido es 1, apagado es 0. Las computadoras cuentan así. Cada 0 o 1 es un **bit**.\n\n**Cada lugar vale el doble:** 1, 2, 4, 8, de derecha a izquierda.\n\n**Binario a decimal:** suma los lugares con 1. En 1011: $8 + 2 + 1 = 11$.\n\n**Decimal a binario:** busca qué lugares suman. $6 = 4 + 2$, así que es 110.\n\n**Para tu escuela:** con cuatro papeles prendido o apagado, escribe tu edad.",
+"truco": "Cada lugar vale el doble.",
+"practica": {
+"ejercicio": "Convierte 101 a decimal.",
+"respuesta": "5."
+}
+}
+},
+{
+"nodo_id": "ems-129",
+"titulo": "Almacenamiento y unidades de información",
+"slug": "almacenamiento-y-unidades-de-informacion-prepa",
+"palabras": [
+"bits",
+"bytes",
+"megabyte",
+"gigabyte"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cajones",
+"texto": "Un disco es un mueble con cajones de tamaños crecientes."
+},
+{
+"titulo": "Escalera",
+"texto": "Cada unidad es mil veces mayor que la anterior."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántos MB son 3 GB?",
+"respuesta": "3000 MB."
+},
+{
+"ejercicio": "¿Qué es mayor: 1 GB o 500 MB?",
+"respuesta": "1 GB."
+},
+{
+"ejercicio": "¿Cuántos GB son 2 TB?",
+"respuesta": "2000 GB."
+}
+],
+"idea": "Una foto ocupa espacio en tu teléfono, como la ropa en un cajón.",
+"pizarron": "**Qué es:** las unidades miden información.\n\n**Bit:** 0 o 1.\n\n**Byte:** 8 bits.\n\n**Kilobyte (KB):** mil bytes.\n\n**Megabyte (MB):** mil KB.\n\n**Gigabyte (GB):** mil MB.\n\n**Terabyte (TB):** mil GB.\n\n**Ejemplo:** 2 GB son 2000 MB.\n\nUna foto ocupa unos MB.\n\n**Para tu escuela:** revisa cuánto espacio tiene tu celular.",
+"truco": "Cada escalón multiplica por mil.",
+"practica": {
+"ejercicio": "¿Cuántos bits tiene un byte?",
+"respuesta": "8."
+}
+}
+},
+{
+"nodo_id": "ems-129",
+"titulo": "Internet y cómo funciona",
+"slug": "internet-y-como-funciona-prepa",
+"palabras": [
+"internet",
+"IP",
+"servidor",
+"navegador"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Correo postal",
+"texto": "Los datos viajan con dirección, como cartas."
+},
+{
+"titulo": "Restaurante",
+"texto": "Tú pides y el servidor te trae la comida."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué hace un navegador?",
+"respuesta": "Muestra páginas."
+},
+{
+"ejercicio": "¿Qué hace un router?",
+"respuesta": "Dirige datos."
+},
+{
+"ejercicio": "¿Cómo viajan los datos?",
+"respuesta": "En paquetes."
+}
+],
+"idea": "Cuando abres un video, tu teléfono le pide datos a una computadora lejana.",
+"pizarron": "**Qué es:** internet es una red mundial de computadoras conectadas.\n\n**Partes:**\n\n- **Dirección IP:** identifica a cada aparato.\n- **Servidor:** guarda páginas.\n- **Navegador:** muestra páginas.\n- **Router:** dirige datos.\n- **DNS:** traduce nombres a IP.\n\nLos datos viajan en **paquetes**.\n\n**Para tu escuela:** explica con un dibujo cómo viaja un mensaje.",
+"truco": "Pides, el servidor responde.",
+"practica": {
+"ejercicio": "¿Qué identifica a un aparato?",
+"respuesta": "La dirección IP."
+}
+}
+},
+{
+"nodo_id": "ems-131",
+"titulo": "Variables y tipos de datos",
+"slug": "variables-y-tipos-de-datos-prepa",
+"palabras": [
+"variables",
+"tipos de datos",
+"programación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Caja con etiqueta",
+"texto": "La etiqueta es el nombre y adentro va el dato."
+},
+{
+"titulo": "Pizarrón",
+"texto": "Borras un valor y escribes otro."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo es 3.5?",
+"respuesta": "Decimal."
+},
+{
+"ejercicio": "¿Qué tipo es True?",
+"respuesta": "Booleano."
+},
+{
+"ejercicio": "Crea una variable con tu edad.",
+"respuesta": "`edad = 15`"
+}
+],
+"idea": "Una variable es una caja con etiqueta donde guardas un dato.",
+"pizarron": "**Qué es:** una variable es un espacio con nombre donde un programa guarda un valor.\n\n```python\nedad = 15\nnombre = \"Ana\"\n```\n\n**Tipos:**\n\n- **Entero:** 5.\n- **Decimal:** 3.14.\n- **Texto:** \"hola\".\n- **Booleano:** True o False.\n\nPuedes cambiar el valor: `edad = 16`.\n\n**Para tu escuela:** guarda tu edad y tu nombre como variables.",
+"truco": "Nombre, igual y valor.",
+"practica": {
+"ejercicio": "¿Qué tipo es \"hola\"?",
+"respuesta": "Texto."
+}
+}
+},
+{
+"nodo_id": "ems-131",
+"titulo": "Condicionales",
+"slug": "condicionales-prepa",
+"palabras": [
+"if",
+"else",
+"condicionales",
+"programación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Bifurcación",
+"texto": "Un camino se parte y solo tomas uno."
+},
+{
+"titulo": "Portero",
+"texto": "Pregunta algo antes de dejarte pasar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué significa `==`?",
+"respuesta": "Es igual a."
+},
+{
+"ejercicio": "¿Qué palabra es para el caso contrario?",
+"respuesta": "`else`"
+},
+{
+"ejercicio": "Escribe un `if` para saber si `x` es mayor que 10.",
+"respuesta": "`if x > 10:`"
+}
+],
+"idea": "Si llueve, llevas paraguas; si no, no. Los programas deciden igual.",
+"pizarron": "**Qué es:** un condicional ejecuta código según si algo es verdadero.\n\n```python\nedad = 18\nif edad >= 18:\n    print(\"Adulto\")\nelse:\n    print(\"Menor\")\n```\n\n**Comparadores:** `==`, `!=`, `>`, `<`.\n\nLa sangría indica lo que va dentro.\n\n**Para tu escuela:** escribe un *si... entonces* de tu día.",
+"truco": "Si pasa, haz esto; si no, aquello.",
+"practica": {
+"ejercicio": "¿Qué imprime con edad = 12?",
+"respuesta": "Menor."
+}
+}
+},
+{
+"nodo_id": "ems-131",
+"titulo": "Ciclos",
+"slug": "ciclos-prepa",
+"palabras": [
+"for",
+"while",
+"ciclos",
+"programación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dar vueltas",
+"texto": "Corres vueltas a la pista hasta terminar."
+},
+{
+"titulo": "Lavar platos",
+"texto": "Mientras haya platos, sigue lavando."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es un ciclo infinito?",
+"respuesta": "Uno que nunca termina."
+},
+{
+"ejercicio": "¿Qué ciclo usarías para 10 veces?",
+"respuesta": "`for`"
+},
+{
+"ejercicio": "Escribe un ciclo que imprima 5 veces Hola.",
+"respuesta": "`for i in range(5): print(\"Hola\")`"
+}
+],
+"idea": "Para escribir 100 veces una frase, le pides a la computadora que repita sola.",
+"pizarron": "**Qué es:** un ciclo repite instrucciones.\n\n**For:** veces conocidas.\n\n```python\nfor i in range(3):\n    print(\"Hola\")\n```\n\n**While:** mientras se cumpla algo.\n\n```python\nn = 0\nwhile n < 3:\n    n = n + 1\n```\n\nCuidado: un ciclo que nunca acaba se llama **infinito**.\n\n**Para tu escuela:** escribe un ciclo para repartir hojas.",
+"truco": "For cuenta; while vigila.",
+"practica": {
+"ejercicio": "¿Cuántas veces imprime el `for` anterior?",
+"respuesta": "3 veces."
+}
+}
+},
+{
+"nodo_id": "ems-131",
+"titulo": "Funciones en programación",
+"slug": "funciones-en-programacion-prepa",
+"palabras": [
+"funciones",
+"def",
+"return",
+"programación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Licuadora",
+"texto": "Entra fruta y sale licuado."
+},
+{
+"titulo": "Receta guardada",
+"texto": "La escribes una vez y la usas siempre."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué palabra crea una función?",
+"respuesta": "`def`"
+},
+{
+"ejercicio": "¿Qué devuelve `suma(4, 5)`?",
+"respuesta": "9"
+},
+{
+"ejercicio": "Escribe una función que duplique un número.",
+"respuesta": "`def doble(n): return n * 2`"
+}
+],
+"idea": "Una licuadora recibe fruta y regresa licuado. Una función recibe datos y regresa un resultado.",
+"pizarron": "**Qué es:** una función es un bloque de código con nombre que se puede reutilizar.\n\n```python\ndef suma(a, b):\n    return a + b\n\nprint(suma(2, 3))\n```\n\nImprime 5.\n\n**Parámetros:** datos de entrada.\n\n**Return:** resultado.\n\nEvitan repetir código.\n\n**Para tu escuela:** escribe una función que salude.",
+"truco": "Entra dato, sale resultado.",
+"practica": {
+"ejercicio": "¿Qué hace `return`?",
+"respuesta": "Devuelve el resultado."
+}
+}
+},
+{
+"nodo_id": "ems-131",
+"titulo": "Diagramas de flujo",
+"slug": "diagramas-de-flujo-prepa",
+"palabras": [
+"diagramas de flujo",
+"algoritmos",
+"programación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Mapa del programa",
+"texto": "Te dice por dónde va cada dato."
+},
+{
+"titulo": "Receta con opciones",
+"texto": "Si no hay huevo, toma otro camino."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es un algoritmo?",
+"respuesta": "Pasos para resolver un problema."
+},
+{
+"ejercicio": "¿Qué figura es una decisión?",
+"respuesta": "El rombo."
+},
+{
+"ejercicio": "Dibuja un diagrama que diga si un número es par.",
+"respuesta": "Debe tener inicio, decisión y fin."
+}
+],
+"idea": "Antes de programar, dibuja tu idea. Un diagrama muestra cada paso y cada decisión.",
+"pizarron": "**Qué es:** un diagrama de flujo representa un algoritmo con figuras.\n\n**Algoritmo:** pasos ordenados para resolver un problema.\n\n**Figuras:**\n\n- Óvalo: inicio y fin.\n- Rectángulo: proceso.\n- Rombo: decisión.\n- Paralelogramo: entrada o salida.\n\n**Ejemplo:** pedir número, ¿es par?, imprimir.\n\n**Para tu escuela:** dibuja el diagrama de cruzar la calle.",
+"truco": "Dibuja antes de programar.",
+"practica": {
+"ejercicio": "¿Qué figura es entrada o salida?",
+"respuesta": "El paralelogramo."
+}
+}
+},
+{
+"nodo_id": "ems-131",
+"titulo": "Primer programa en Python",
+"slug": "primer-programa-en-python-prepa",
+"palabras": [
+"Python",
+"print",
+"input",
+"programación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Conversación",
+"texto": "Input pregunta y print responde."
+},
+{
+"titulo": "Instrucciones",
+"texto": "Le dices exactamente qué hacer, paso a paso."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué hace `input`?",
+"respuesta": "Pide un dato."
+},
+{
+"ejercicio": "¿Qué hace `int()`?",
+"respuesta": "Convierte a número entero."
+},
+{
+"ejercicio": "Escribe un programa que pida tu edad y sume 1.",
+"respuesta": "Debe usar `input`, `int` y `print`."
+}
+],
+"idea": "Unas pocas líneas bastan para que la computadora te salude por tu nombre.",
+"pizarron": "**Qué es:** Python es un lenguaje de programación fácil de leer.\n\n```python\nnombre = input(\"¿Cómo te llamas? \")\nprint(\"Hola\", nombre)\n```\n\n**Print:** muestra en pantalla.\n\n**Input:** pide un dato.\n\nPara sumar, convierte a número:\n\n```python\nn = int(input(\"Número: \"))\nprint(n + 1)\n```\n\nPrueba en un sitio como Python.org o en tu computadora.\n\n**Para tu escuela:** escribe un programa que diga tu nombre.",
+"truco": "Input pide y print muestra.",
+"practica": {
+"ejercicio": "¿Qué hace `print`?",
+"respuesta": "Muestra en pantalla."
+}
+}
+},
+{
+"nodo_id": "ems-133",
+"titulo": "Contraseñas seguras",
+"slug": "contrasenas-seguras-prepa",
+"palabras": [
+"contraseñas",
+"seguridad",
+"verificación"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Llave",
+"texto": "Si la prestas, te pueden entrar a casa."
+},
+{
+"titulo": "Doble cerradura",
+"texto": "El segundo paso es un candado extra."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Debe usar tu cumpleaños?",
+"respuesta": "No."
+},
+{
+"ejercicio": "¿Por qué una distinta por cuenta?",
+"respuesta": "Para que no entren a todas si roban una."
+},
+{
+"ejercicio": "Crea una frase secreta de ejemplo.",
+"respuesta": "Debe ser larga y sin datos personales."
+}
+],
+"idea": "Tu contraseña es la llave de tu casa digital. No la dejes bajo el tapete.",
+"pizarron": "**Qué es:** una contraseña segura es difícil de adivinar.\n\n**Reglas:**\n\n- Al menos 12 caracteres.\n- Letras, números y signos.\n- Sin datos personales.\n- Una distinta por cuenta.\n\n**Frase secreta:** *MiGato!ComeTacos7*.\n\nActiva la **verificación en dos pasos**.\n\nNo la compartas.\n\nUsa una contraseña distinta en cada cuenta. Si roban una, no entran a las demás.\n\n**Para tu escuela:** revisa si tus contraseñas son seguras.",
+"truco": "Larga, rara y única.",
+"practica": {
+"ejercicio": "¿Es segura 123456?",
+"respuesta": "No."
+}
+}
+},
+{
+"nodo_id": "ems-133",
+"titulo": "Fraudes y phishing",
+"slug": "fraudes-y-phishing-prepa",
+"palabras": [
+"phishing",
+"fraude",
+"seguridad"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Anzuelo",
+"texto": "El mensaje es la carnada y tú el pez."
+},
+{
+"titulo": "Lobo disfrazado",
+"texto": "Se viste de banco para que confíes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di una señal.",
+"respuesta": "Mucha urgencia."
+},
+{
+"ejercicio": "¿Qué haces con un enlace raro?",
+"respuesta": "No abrirlo."
+},
+{
+"ejercicio": "¿Un banco pide tu NIP por mensaje?",
+"respuesta": "No."
+}
+],
+"idea": "Un mensaje dice que ganaste un premio y pide tus datos. Es una trampa.",
+"pizarron": "**Qué es:** el phishing es un engaño para robar datos, haciéndose pasar por alguien confiable.\n\n**Señales:**\n\n- Mucha urgencia.\n- Errores.\n- Enlaces raros.\n- Piden contraseña.\n\n**Qué hacer:**\n\n- No des clic.\n- Verifica en la página oficial.\n- Avisa a un adulto.\n\n**Para tu escuela:** busca señales de engaño en un mensaje sospechoso.",
+"truco": "Si suena demasiado bueno, desconfía.",
+"practica": {
+"ejercicio": "¿Das tu contraseña por mensaje?",
+"respuesta": "No."
+}
+}
+},
+{
+"nodo_id": "ems-133",
+"titulo": "Privacidad en redes sociales",
+"slug": "privacidad-en-redes-sociales-prepa",
+"palabras": [
+"privacidad",
+"redes sociales",
+"datos personales"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Ventana abierta",
+"texto": "Publicar es abrir la ventana de tu casa."
+},
+{
+"titulo": "Tatuaje digital",
+"texto": "Lo que subes es difícil de borrar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué haces si un desconocido te escribe?",
+"respuesta": "No responder y avisar."
+},
+{
+"ejercicio": "¿Debes pedir permiso para subir fotos?",
+"respuesta": "Sí."
+},
+{
+"ejercicio": "Revisa la privacidad de una cuenta.",
+"respuesta": "Debe quedar privada."
+}
+],
+"idea": "Lo que subes puede quedarse para siempre. Antes de publicar, piensa quién lo verá.",
+"pizarron": "**Qué es:** la privacidad es el control sobre quién ve tu información.\n\n**Reglas:**\n\n- Cuenta privada.\n- No publiques dirección, escuela o rutinas.\n- No aceptes desconocidos.\n- Piensa antes de subir.\n- Pide permiso para subir fotos de otros.\n\nAvisa a un adulto si alguien te incomoda.\n\n**Para tu escuela:** revisa quién puede ver tus publicaciones.",
+"truco": "Piensa antes de publicar.",
+"practica": {
+"ejercicio": "¿Publicarías tu dirección?",
+"respuesta": "No."
+}
+}
+},
+{
+"nodo_id": "ems-138",
+"titulo": "Hojas de cálculo: fórmulas básicas",
+"slug": "hojas-de-calculo-formulas-basicas-prepa",
+"palabras": [
+"hoja de cálculo",
+"fórmulas",
+"SUMA",
+"PROMEDIO"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Calculadora gigante",
+"texto": "Cambias un dato y todo se recalcula."
+},
+{
+"titulo": "Batalla naval",
+"texto": "Cada celda tiene letra y número."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué fórmula da el promedio de B1 a B4?",
+"respuesta": "`=PROMEDIO(B1:B4)`"
+},
+{
+"ejercicio": "¿Cómo inicia una fórmula?",
+"respuesta": "Con `=`."
+},
+{
+"ejercicio": "Haz una tabla de tus gastos con suma total.",
+"respuesta": "Debe usar `=SUMA`."
+}
+],
+"idea": "Una hoja de cálculo hace cuentas sola. Solo le dices qué sumar.",
+"pizarron": "**Qué es:** una hoja de cálculo organiza datos en filas y columnas, y usa fórmulas.\n\n**Celda:** A1.\n\nToda fórmula inicia con `=`.\n\n`=A1+B1`: suma.\n\n`=SUMA(A1:A10)`: suma un rango.\n\n`=PROMEDIO(A1:A10)`.\n\n`=MAX(A1:A10)`.\n\n`=SI(A1>=6,\"Aprobado\",\"Reprobado\")`.\n\n**Para tu escuela:** saca tu promedio con una fórmula.",
+"truco": "Toda fórmula empieza con igual.",
+"practica": {
+"ejercicio": "¿Cómo sumas de A1 a A5?",
+"respuesta": "`=SUMA(A1:A5)`"
+}
+}
+},
+{
+"nodo_id": "ems-138",
+"titulo": "Hojas de cálculo: gráficas",
+"slug": "hojas-de-calculo-graficas-prepa",
+"palabras": [
+"gráficas",
+"hoja de cálculo",
+"datos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dibujar números",
+"texto": "Convierte números en una imagen que se entiende."
+},
+{
+"titulo": "Foto de datos",
+"texto": "Se ve en un segundo lo que costaría leer."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué gráfica muestra cambios en el tiempo?",
+"respuesta": "La de líneas."
+},
+{
+"ejercicio": "¿Qué gráfica compara categorías?",
+"respuesta": "La de barras."
+},
+{
+"ejercicio": "Haz una gráfica de tus horas de estudio.",
+"respuesta": "Debe tener título y ejes."
+}
+],
+"idea": "Los números solos cuestan. Una gráfica te muestra la historia en un vistazo.",
+"pizarron": "**Qué es:** una gráfica es una representación visual de datos.\n\n**Pasos:** selecciona datos, inserta gráfica y pon título.\n\n**Tipos:**\n\n- **Barras:** comparar.\n- **Líneas:** cambios en el tiempo.\n- **Circular:** partes de un todo.\n\nPon título y etiquetas de ejes.\n\n**Para tu escuela:** haz una gráfica con tus calificaciones.",
+"truco": "Barras comparan; líneas cambian.",
+"practica": {
+"ejercicio": "¿Qué gráfica usas para partes de un todo?",
+"respuesta": "La circular."
+}
+}
+},
+{
+"nodo_id": "ems-138",
+"titulo": "Procesador de textos",
+"slug": "procesador-de-textos-prepa",
+"palabras": [
+"procesador de textos",
+"Word",
+"formato"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Ropa del texto",
+"texto": "El formato viste tus palabras."
+},
+{
+"titulo": "Mapa del documento",
+"texto": "Los títulos ayudan a navegar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué formato evita cambios?",
+"respuesta": "PDF."
+},
+{
+"ejercicio": "¿Qué hace un índice automático?",
+"respuesta": "Lista los títulos y sus páginas."
+},
+{
+"ejercicio": "Da formato a un trabajo con título y lista.",
+"respuesta": "Debe usar estilos."
+}
+],
+"idea": "Escribir bien no basta: un documento ordenado se lee mejor.",
+"pizarron": "**Qué es:** un procesador de textos permite escribir y dar formato a documentos.\n\n**Funciones:**\n\n- Títulos con **estilos**.\n- Negritas y cursivas.\n- Listas y tablas.\n- Numeración.\n- Índice automático.\n- Revisar ortografía.\n- Guardar como PDF.\n\n**Para tu escuela:** da formato a tu siguiente tarea.",
+"truco": "Usa estilos, no tamaños a mano.",
+"practica": {
+"ejercicio": "¿Para qué sirven los estilos?",
+"respuesta": "Para dar formato uniforme."
+}
+}
+},
+{
+"nodo_id": "ems-138",
+"titulo": "Presentaciones eficaces",
+"slug": "presentaciones-eficaces-prepa",
+"palabras": [
+"presentaciones",
+"diapositivas",
+"exponer"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cartel",
+"texto": "Tu diapositiva se lee como un cartel."
+},
+{
+"titulo": "Muleta",
+"texto": "Te apoya; no habla por ti."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Debes leer todo?",
+"respuesta": "No."
+},
+{
+"ejercicio": "¿Qué letra conviene?",
+"respuesta": "Grande."
+},
+{
+"ejercicio": "Haz tres diapositivas sobre tu tema favorito.",
+"respuesta": "Una idea en cada una."
+}
+],
+"idea": "Una diapositiva llena de letras aburre. Una buena apoya lo que dices.",
+"pizarron": "**Qué es:** una presentación apoya una exposición con imágenes y pocas palabras.\n\n**Reglas:**\n\n- Una idea por diapositiva.\n- Pocas palabras.\n- Letra grande.\n- Imágenes claras.\n- Citar fuentes.\n\n**Al exponer:** mira al público y practica.\n\n**Para tu escuela:** haz tres diapositivas con poco texto.",
+"truco": "Una idea, pocas palabras.",
+"practica": {
+"ejercicio": "¿Cuántas ideas por diapositiva?",
+"respuesta": "Una."
+}
+}
+},
+{
+"nodo_id": "ems-140",
+"titulo": "Qué es la inteligencia artificial",
+"slug": "que-es-la-inteligencia-artificial-prepa",
+"palabras": [
+"inteligencia artificial",
+"IA",
+"algoritmos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Practicar mucho",
+"texto": "Mejora con ejemplos, como quien aprende por repetición."
+},
+{
+"titulo": "Ayudante, no jefe",
+"texto": "Te ayuda, pero tú decides."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di un uso.",
+"respuesta": "Traductores."
+},
+{
+"ejercicio": "¿Puede equivocarse?",
+"respuesta": "Sí."
+},
+{
+"ejercicio": "¿Qué es un sesgo?",
+"respuesta": "Una preferencia injusta aprendida de los datos."
+}
+],
+"idea": "Un programa aprende a reconocer gatos viendo miles de fotos. Eso es inteligencia artificial.",
+"pizarron": "**Qué es:** la inteligencia artificial (IA) es el área de la computación que crea sistemas capaces de hacer tareas que parecen requerir inteligencia.\n\n**Aprendizaje automático:** aprende con datos.\n\n**Usos:** traductores, asistentes, recomendaciones.\n\n**Cuidados:**\n\n- Puede equivocarse.\n- Puede tener sesgos.\n- Verifica lo que dice.\n\n**Para tu escuela:** busca tres usos de la IA en tu celular.",
+"truco": "Útil, pero verifícala.",
+"practica": {
+"ejercicio": "¿Con qué aprende una IA?",
+"respuesta": "Con datos."
+}
+}
+},
+{
+"nodo_id": "ems-140",
+"titulo": "Detectar noticias falsas",
+"slug": "detectar-noticias-falsas-prepa",
+"palabras": [
+"noticias falsas",
+"desinformación",
+"verificar"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Teléfono descompuesto",
+"texto": "Un mensaje se deforma al pasar."
+},
+{
+"titulo": "Detective",
+"texto": "Busca pruebas antes de creer."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di una señal de alerta.",
+"respuesta": "Sin fuentes."
+},
+{
+"ejercicio": "¿Qué compruebas de la fuente?",
+"respuesta": "Quién la publica."
+},
+{
+"ejercicio": "Revisa una noticia en dos medios.",
+"respuesta": "Compara lo que dicen."
+}
+],
+"idea": "Una noticia increíble corre por los chats. Antes de compartirla, revísala.",
+"pizarron": "**Qué es:** una noticia falsa es información engañosa presentada como cierta.\n\n**Cómo revisar:**\n\n1. ¿Quién lo publica?\n2. ¿Tiene fecha y fuentes?\n3. ¿Otros medios lo dicen?\n4. ¿Busca enojarte?\n5. Busca la imagen.\n\n**Para tu escuela:** revisa una noticia en dos fuentes.",
+"truco": "Revisa antes de compartir.",
+"practica": {
+"ejercicio": "¿Qué haces antes de compartir?",
+"respuesta": "Verificar la fuente."
+}
+}
+}
 ]

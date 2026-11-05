@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Un compuesto puede tener varios nombres, como una persona con nombre oficial y apodo. Saber los tres sistemas evita confusiones.",
-"pizarron": "**La regla:** un óxido une oxígeno con otro elemento, y se nombra *óxido de* más ese elemento.\n\n**Óxido básico**: metal + O.\n\n| Fórmula | Tradicional | Stock | Sistemática |\n|---|---|---|---|\n| $\\ce{FeO}$ | Óxido ferroso | Óxido de hierro (II) | Monóxido de hierro |\n| $\\ce{Fe2O3}$ | Óxido férrico | Óxido de hierro (III) | Trióxido de dihierro |\n\nTradicional: **-oso** menor valencia; **-ico** mayor.\n\n**Óxido ácido** o anhídrido: no metal + O.\n\n- $\\ce{SO2}$: dióxido de azufre.\n- $\\ce{SO3}$: trióxido de azufre.\n\nFórmula por cruce: Al³⁺ y O²⁻ dan $\\ce{Al2O3}$.",
+"pizarron": "**La regla:** un óxido une oxígeno con otro elemento, y se nombra *óxido de* más ese elemento.\n\n**Imagínalo:** el oxígeno se toma de la mano con otro elemento.\n\n**Stock:** el número romano dice la carga del elemento. $\\ce{FeO}$ es óxido de hierro (II).\n\n**Sistemática:** los prefijos cuentan átomos. Mono 1, di 2, tri 3, tetra 4 y penta 5.\n\n$\\ce{SO3}$ es trióxido de azufre. $\\ce{N2O3}$ es trióxido de dinitrógeno.\n\n**Fórmula por cruce:** la carga de uno es el numerito del otro. Al³⁺ y O²⁻ dan $\\ce{Al2O3}$.\n\nSi los numeritos se pueden simplificar, se simplifican. Con +4 y −2, queda 1 y 2: $\\ce{SnO2}$.\n\n**Para tu escuela:** con tarjetas, cruza las cargas del sodio y el oxígeno.",
 "truco": "Cruza las cargas para formar la fórmula.",
 "practica": {
 "ejercicio": "Fórmula del óxido de cobre (II).",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "El hidrógeno puede portarse de dos maneras: como positivo o como negativo. De eso depende si hablamos de un hidruro o de un ácido.",
-"pizarron": "**La regla:** los hidruros llevan hidrógeno, y los hidróxidos llevan el grupo $\\ce{OH}$.\n\n**Hidruros metálicos** (metal + H, con H como -1):\n\n- $\\ce{NaH}$: hidruro de sodio.\n- $\\ce{CaH2}$: hidruro de calcio.\n\n**Hidruros no metálicos**:\n\n- $\\ce{NH3}$: amoniaco.\n- $\\ce{CH4}$: metano.\n- $\\ce{PH3}$: fosfina.\n\n**Hidróxidos** (metal + OH):\n\n| Fórmula | Stock | Tradicional |\n|---|---|---|\n| $\\ce{Fe(OH)2}$ | Hidróxido de hierro (II) | Ferroso |\n| $\\ce{Fe(OH)3}$ | Hidróxido de hierro (III) | Férrico |\n\nFormación: óxido básico + agua = hidróxido.\n\n$$\\ce{CaO + H2O -> Ca(OH)2}$$",
+"pizarron": "**La regla:** los hidruros llevan hidrógeno, y los hidróxidos llevan el grupo $\\ce{OH}$.\n\n**Imagínalo:** el metal es el apellido y lo demás es el nombre.\n\n**Hidruros:** metal más H. NaH es hidruro de sodio.\n\nAlgunos tienen nombre común: $\\ce{NH3}$ es amoniaco y $\\ce{CH4}$ es metano.\n\n**Hidróxidos:** metal más OH.\n\n$\\ce{Fe(OH)2}$ es hidróxido de hierro (II). El (II) dice cuántos OH lleva, y ese número va como numerito afuera del paréntesis.\n\n**Cómo se forman:** óxido del metal más agua.\n\n$$\\ce{CaO + H2O -> Ca(OH)2}$$\n\n**Para tu escuela:** escribe el nombre del hidróxido de sodio, que se usa en jabones.",
 "truco": "Metal con H es hidruro; metal con OH es hidróxido.",
 "practica": {
 "ejercicio": "Nombra $\\ce{KH}$.",
@@ -100,7 +100,7 @@
 ],
 "contenido": {
 "idea": "Los nombres de los oxiácidos son una escalera: de menos a más oxígeno, los prefijos y terminaciones te dicen en qué escalón estás.",
-"pizarron": "**La regla:** los ácidos empiezan con H, y se nombran con la palabra ácido.\n\n**Oxiácidos** con cuatro valencias, ejemplo cloro:\n\n| Fórmula | Nombre |\n|---|---|\n| $\\ce{HClO}$ | Ácido hipocloroso |\n| $\\ce{HClO2}$ | Ácido cloroso |\n| $\\ce{HClO3}$ | Ácido clórico |\n| $\\ce{HClO4}$ | Ácido perclórico |\n\nDe menor a mayor oxígeno: **hipo...oso**, **...oso**, **...ico**, **per...ico**.\n\nFormación: óxido ácido + agua.\n\n$$\\ce{SO3 + H2O -> H2SO4}$$\n\nHidrácidos: $\\ce{HF}$, ácido fluorhídrico.",
+"pizarron": "**La regla:** los ácidos empiezan con H, y se nombran con la palabra ácido.\n\n**Imagínalo:** es una escalera de oxígenos. Cada escalón tiene su nombre.\n\n**Con el cloro:**\n\n- $\\ce{HClO}$: ácido hipocloroso. Un oxígeno.\n- $\\ce{HClO2}$: ácido cloroso. Dos.\n- $\\ce{HClO3}$: ácido clórico. Tres.\n- $\\ce{HClO4}$: ácido perclórico. Cuatro.\n\n**Con el yodo** es igual: ácido hipoyodoso, yodoso, yódico y peryódico.\n\n**En palabras:** hipo es el más chico y per es el más grande.\n\n**Cómo se forman:** óxido del no metal más agua.\n\n$$\\ce{SO3 + H2O -> H2SO4}$$\n\n**Para tu escuela:** dibuja la escalera con sus cuatro nombres.",
 "truco": "Hipo chiquito; per muy grande.",
 "practica": {
 "ejercicio": "Nombra $\\ce{HBrO4}$.",
@@ -144,7 +144,7 @@
 ],
 "contenido": {
 "idea": "Una sal hereda su nombre del ácido del que viene. Si conoces al ácido, conoces a la sal.",
-"pizarron": "**La regla:** las sales unen un catión con un anión, y se nombra primero el anión.\n\nCambio de terminación:\n\n| Ácido | Sal |\n|---|---|\n| -hídrico | -uro |\n| hipo-oso | hipo-ito |\n| -oso | -ito |\n| -ico | -ato |\n| per-ico | per-ato |\n\nEjemplos:\n\n- $\\ce{NaClO}$: hipoclorito de sodio.\n- $\\ce{KNO3}$: nitrato de potasio.\n- $\\ce{Fe2(SO4)3}$: sulfato de hierro (III).\n\n**Sal ácida**: conserva H.\n\n- $\\ce{NaHCO3}$: bicarbonato de sodio.\n\nReacción de neutralización:\n\n$$\\ce{HCl + NaOH -> NaCl + H2O}$$",
+"pizarron": "**La regla:** las sales unen un catión con un anión, y se nombra primero el anión.\n\n**Imagínalo:** el catión es la parte positiva, un metal. El anión es la parte negativa. Es como un apellido al revés: *cloruro de sodio*.\n\n**La terminación cambia:**\n\n- *-hídrico* pasa a *-uro*: cloruro.\n- *-oso* pasa a *-ito*: nitrito.\n- *-ico* pasa a *-ato*: sulfato.\n- *per-ico* pasa a *per-ato*: perclorato.\n\n**Aniones:** nitrato $\\ce{NO3-}$, sulfato $\\ce{SO4^2-}$, carbonato $\\ce{CO3^2-}$ y perclorato $\\ce{ClO4-}$.\n\n**Fórmula:** las cargas deben sumar cero. Calcio +2 con cloruro −1 da $\\ce{CaCl2}$.\n\n**Número romano:** dice la carga del metal. $\\ce{CuCl2}$ es cloruro de cobre (II).\n\n**Para tu escuela:** busca en casa el bicarbonato de sodio y la sal, y compara sus nombres.",
 "truco": "Ico da ato, oso da ito, hídrico da uro.",
 "practica": {
 "ejercicio": "Nombra $\\ce{CaSO4}$.",
@@ -189,7 +189,7 @@
 ],
 "contenido": {
 "idea": "En un café con azúcar, el azúcar desaparece a la vista pero sigue ahí. Lo que se disuelve es el soluto y lo que disuelve, el disolvente.",
-"pizarron": "**Qué es:** una disolución es una mezcla uniforme: el soluto se disuelve en el disolvente.\n\nUna **disolución** es una mezcla homogénea.\n\n- **Soluto**: en menor cantidad.\n- **Disolvente**: en mayor cantidad; agua es el más común.\n\nTipos por cantidad de soluto:\n\n- **Diluida**: poco soluto.\n- **Concentrada**: mucho soluto.\n- **Saturada**: ya no admite más.\n- **Sobresaturada**: tiene más de lo normal; es inestable.\n\n**Solubilidad**: cuánto soluto se disuelve a cierta temperatura.\n\nEn general, en líquidos sube con la temperatura. En gases, baja: por eso un refresco caliente pierde gas.",
+"pizarron": "**Qué es:** una disolución es una mezcla uniforme: el soluto se disuelve en el disolvente.\n\nUna **disolución** es una mezcla homogénea.\n\n- **Soluto**: en menor cantidad.\n- **Disolvente**: en mayor cantidad; agua es el más común.\n\nTipos por cantidad de soluto:\n\n- **Diluida**: poco soluto.\n- **Concentrada**: mucho soluto.\n- **Saturada**: ya no admite más.\n- **Sobresaturada**: tiene más de lo normal; es inestable.\n\n**Solubilidad**: cuánto soluto se disuelve a cierta temperatura.\n\nEn general, en líquidos sube con la temperatura. En gases, baja: por eso un refresco caliente pierde gas.\n\n**Para tu escuela:** identifica soluto y disolvente en tu agua de sabor.",
 "truco": "Soluto se disuelve; disolvente lo disuelve.",
 "practica": {
 "ejercicio": "En agua con sal, ¿cuál es el soluto?",
@@ -233,7 +233,7 @@
 ],
 "contenido": {
 "idea": "La molaridad dice cuántos paquetes de moléculas hay en cada litro. Es la medida más usada en laboratorio.",
-"pizarron": "**La regla:** molaridad es moles de soluto entre litros de disolución: $M = \\frac{n}{V}$.\n\n$$M = \\frac{n}{V}$$\n\ndonde $n$ son moles y $V$ litros de disolución.\n\nEjemplo: 58.5 g de NaCl en 2 L.\n\n- $n = \\frac{58.5}{58.5} = 1$ mol.\n- $M = 0.5$ M.\n\nPreparar: ¿cuánta sal para 500 mL de 0.2 M?\n\n- $n = 0.2 \\times 0.5 = 0.1$ mol.\n- $m = 0.1 \\times 58.5 = 5.85$ g.\n\nConvierte mL a L antes de calcular.",
+"pizarron": "**La regla:** molaridad es moles de soluto entre litros de disolución: $M = \\frac{n}{V}$.\n\n**Imagínalo:** cuántas cucharadas de azúcar hay en cada litro de agua de sabor. Más cucharadas, más concentrada.\n\n**En palabras:** $n$ son moles y $V$ son litros de la mezcla.\n\n**Ejemplo:** 3 mol en 6 L dan 0.5 M.\n\n**Si te dan gramos:** pasa a moles. 58.5 g de NaCl, que pesa 58.5, son 1 mol.\n\n**Si te dan mL:** divide entre 1000. 500 mL son 0.5 L.\n\n**Para sacar moles:** $n = M \\times V$. Con 2 M y 0.5 L: 1 mol.\n\n**Para tu escuela:** haz dos vasos de agua de sabor con distinta cantidad de polvo.",
 "truco": "Moles entre litros.",
 "practica": {
 "ejercicio": "2 mol en 4 L.",
@@ -276,7 +276,7 @@
 ],
 "contenido": {
 "idea": "La molaridad se fija en el volumen, que cambia con el calor. La molalidad se fija en la masa del disolvente, que no cambia.",
-"pizarron": "**La regla:** molalidad es moles de soluto entre kilogramos de disolvente.\n\n$$m = \\frac{n}{\\text{kg de disolvente}}$$\n\nEjemplo: 18 g de glucosa (180 g/mol) en 500 g de agua.\n\n- $n = 0.1$ mol.\n- $m = \\frac{0.1}{0.5} = 0.2$ mol/kg.\n\nDiferencia:\n\n- **Molaridad**: litros de **disolución**.\n- **Molalidad**: kilogramos de **disolvente**.\n\nSe usa para propiedades coligativas, como el aumento del punto de ebullición.\n\nComo la masa no cambia con la temperatura, es útil cuando esta varía.",
+"pizarron": "**La regla:** molalidad es moles de soluto entre kilogramos de disolvente.\n\n**Imagínalo:** el soluto es el azúcar. El disolvente es el agua. La molalidad dice cuánta azúcar hay por cada kilo de agua.\n\n$$m = \\frac{n}{\\text{kg de disolvente}}$$\n\n**En palabras:** moles entre kilos de agua.\n\n**Ejemplo:** 0.1 mol en 500 g de agua. 500 g son 0.5 kg.\n\n$$m = \\frac{0.1}{0.5} = 0.2 \\text{ mol/kg}$$\n\n**Si te dan gramos:** primero pásalos a moles. 90 g de glucosa, que pesa 180, son 0.5 mol.\n\n**Diferencia:** molaridad usa litros de toda la mezcla. Molalidad usa kilos de disolvente.\n\n**Para tu escuela:** explica la diferencia con agua de limón.",
 "truco": "Molalidad: masa de disolvente, en kilos.",
 "practica": {
 "ejercicio": "1 mol en 2 kg de agua.",
@@ -320,7 +320,7 @@
 ],
 "contenido": {
 "idea": "Un ácido puede soltar uno, dos o tres hidrógenos. La normalidad cuenta cuánta capacidad de reacción tiene una disolución.",
-"pizarron": "**La regla:** normalidad es equivalentes de soluto entre litros de disolución.\n\n$$N = \\frac{\\text{equivalentes}}{\\text{litros}}$$\n\nTambién:\n\n$$N = M \\times k$$\n\ndonde $k$ es:\n\n- Ácidos: número de H que suelta.\n- Bases: número de OH.\n- Sales: carga total positiva.\n\nEjemplos:\n\n- $\\ce{HCl}$ 1 M = 1 N.\n- $\\ce{H2SO4}$ 1 M = 2 N.\n- $\\ce{Ca(OH)2}$ 0.5 M = 1 N.\n\nEn titulaciones:\n\n$$N_1V_1 = N_2V_2$$",
+"pizarron": "**La regla:** normalidad es equivalentes de soluto entre litros de disolución.\n\n**Imagínalo:** cuenta cuántas manos da cada molécula. Algunas sueltan un H, otras dos. Normalidad cuenta manos, no moléculas.\n\n$$N = M \\times k$$\n\n**En palabras:** multiplica la molaridad por $k$, y $k$ cuenta las manos.\n\n- Ácidos: los H que suelta. HCl es 1, $\\ce{H2SO4}$ es 2 y $\\ce{H3PO4}$ es 3.\n- Bases: los OH. NaOH es 1 y $\\ce{Ca(OH)2}$ es 2.\n\n**Ejemplos:** $\\ce{H2SO4}$ 1 M es 2 N. $\\ce{Ca(OH)2}$ 0.5 M es 1 N.\n\n**Para tu escuela:** dibuja un HCl con una mano y un $\\ce{H2SO4}$ con dos.",
 "truco": "Normalidad es molaridad por sus H u OH.",
 "practica": {
 "ejercicio": "$\\ce{H3PO4}$ 2 M. ¿Normalidad?",
@@ -364,7 +364,7 @@
 ],
 "contenido": {
 "idea": "Si un jugo concentrado es muy fuerte, le agregas agua. El jugo no cambia, solo se reparte en más agua.",
-"pizarron": "**La regla:** al diluir se cumple $C_1 V_1 = C_2 V_2$.\n\nAl diluir, los moles de soluto no cambian:\n\n$$M_1V_1 = M_2V_2$$\n\nEjemplo: 100 mL de HCl 6 M a 2 M.\n\n$$V_2 = \\frac{6 \\times 100}{2} = 300 \\text{ mL}$$\n\nSe agregan 200 mL de agua.\n\nEjemplo: preparar 500 mL de 0.5 M desde 5 M.\n\n$$V_1 = \\frac{0.5 \\times 500}{5} = 50 \\text{ mL}$$\n\nSeguridad: **siempre agrega ácido al agua**, no agua al ácido.",
+"pizarron": "**La regla:** al diluir se cumple $C_1 V_1 = C_2 V_2$.\n\n**Imagínalo:** agua de limón muy fuerte. Le agregas agua. Los limones son los mismos, pero sabe menos.\n\n**En palabras:** concentración por volumen da lo mismo antes y después. La concentración $M$ dice cuánto hay en cada litro.\n\n**Ejemplo:** 100 mL de 6 M bajan a 2 M.\n\n$$V_2 = \\frac{6 \\times 100}{2} = 300 \\text{ mL}$$\n\nAgregas 200 mL de agua.\n\n**Ejemplo:** ¿cuánto tomar de 5 M para hacer 500 mL de 0.5 M?\n\n$$V_1 = \\frac{0.5 \\times 500}{5} = 50 \\text{ mL}$$\n\n**Seguridad:** el ácido se agrega al agua, nunca el agua al ácido. Puede salpicar y quemar.\n\n**Para tu escuela:** prepara dos vasos de agua de sabor y compara cuál sabe más.",
 "truco": "Concentración por volumen se conserva.",
 "practica": {
 "ejercicio": "50 mL de 4 M se llevan a 200 mL. ¿Qué concentración?",
@@ -408,7 +408,7 @@
 ],
 "contenido": {
 "idea": "Si aprietas una jeringa con el orificio tapado, cuesta más: menos espacio, más presión. Es la ley de Boyle.",
-"pizarron": "**La ley:** a temperatura constante, si aumenta la presión de un gas, baja su volumen: $P_1 V_1 = P_2 V_2$.\n\nA **temperatura constante**, presión y volumen son inversamente proporcionales.\n\n$$P_1V_1 = P_2V_2$$\n\nEjemplo: 2 L a 1 atm se comprimen a 0.5 L.\n\n$$P_2 = \\frac{1 \\times 2}{0.5} = 4 \\text{ atm}$$\n\nUsos:\n\n- Respiración: los pulmones aumentan volumen y baja la presión.\n- Buzos: al subir, el aire en los pulmones se expande.\n\nUnidades: 1 atm = 760 mmHg = 101.3 kPa.",
+"pizarron": "**La ley:** a temperatura constante, si aumenta la presión de un gas, baja su volumen: $P_1 V_1 = P_2 V_2$.\n\n**Imagínalo:** tapas una jeringa y empujas. El aire se aprieta y cada vez cuesta más.\n\n**En palabras:** presión por volumen da lo mismo antes y después.\n\n**Ejemplo:** 2 L a 1 atm se aprietan a 0.5 L.\n\n$$P_2 = \\frac{1 \\times 2}{0.5} = 4 \\text{ atm}$$\n\n**Unidades:** 1 atm son 760 mmHg.\n\n**En tu cuerpo:** al inhalar, tus pulmones crecen, baja la presión y entra aire.\n\n**Para tu escuela:** aprieta una botella cerrada y siente cómo empuja el aire.",
 "truco": "Menos espacio, más presión.",
 "practica": {
 "ejercicio": "5 L a 2 atm pasan a 10 L. ¿Qué presión?",
