@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { ErrorOpenRouter, leerSSE, modelos, type EventoSSE } from "./openrouter";
+import { ErrorOpenRouter, esModeloPrincipal, leerSSE, modelos, type EventoSSE } from "./openrouter";
 
 function flujo(...trozos: string[]): ReadableStream<Uint8Array> {
   const c = new TextEncoder();
@@ -58,6 +58,12 @@ describe("modelos", () => {
   it("usa la lista de respaldo por defecto", () => {
     vi.stubEnv("OPENROUTER_MODELS", "");
     expect(modelos()).toHaveLength(3);
+  });
+  it("reconoce la versión real detrás del alias", () => {
+    vi.stubEnv("OPENROUTER_MODELS", "");
+    expect(esModeloPrincipal("anthropic/claude-sonnet-6")).toBe(true);
+    expect(esModeloPrincipal("google/gemini-3.8-flash")).toBe(false);
+    expect(esModeloPrincipal(undefined)).toBe(false);
   });
   it("permite cambiar el orden", () => {
     vi.stubEnv("OPENROUTER_MODELS", "a/b, c/d");

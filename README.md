@@ -26,7 +26,7 @@ Crea `.env.local` a partir de `.env.example`. El chat aparece cuando además exi
 1. Crea la clave en OpenRouter, carga saldo, fija un límite y activa la recarga automática.
 2. Para que los temas nuevos se guarden, crea una base en Neon, ejecuta `npm run cargar` con `DATABASE_URL` en `.env.local`, y solo después agrégala en Vercel. Una base vacía deja el sitio sin temas.
 
-Los modelos de respaldo están en `src/lib/openrouter.ts`. Cubren fallas y límites de tasa, pero no la falta de saldo: sin saldo fallan todos, y la biblioteca sigue funcionando.
+Los modelos están en `src/lib/openrouter.ts`. Son alias de OpenRouter, que pasan solos a la versión vigente de cada familia, y llevan un tope de 3 / 15 dólares por millón de tokens. Si un alias desaparece, responde el siguiente; para cambiarlos sin tocar el código, usa `OPENROUTER_MODELS`. Los respaldos cubren fallas y límites de tasa, pero no la falta de saldo: sin saldo fallan todos, y la biblioteca sigue funcionando.
 
 Las fotos se reducen en el navegador, no se guardan y se envían solo a proveedores sin retención de datos.
 

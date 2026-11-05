@@ -1,7 +1,7 @@
 import { cookies } from "next/headers";
 import { chatDisponible, COOKIE_ACCESO, planDeCookie } from "@/lib/acceso";
 import { guardarTemaVivo } from "@/lib/guardar-tema-vivo";
-import { modelos, type MensajeChat } from "@/lib/openrouter";
+import { esModeloPrincipal, type MensajeChat } from "@/lib/openrouter";
 import { PROMPT } from "@/lib/pedagogical-prompt";
 import { respuestaEnVivo } from "@/lib/stream-chat";
 import { buscarTemas, obtenerTema } from "@/lib/temas";
@@ -68,7 +68,7 @@ export async function POST(request: Request) {
     mensajes: [{ role: "system", content: PROMPT }, ...mensajes],
     signal: request.signal,
     alTerminar: async (texto, modelo, enviar) => {
-      if (solicitud.modo !== "tema-nuevo" || !modelo?.startsWith(modelos()[0])) return;
+      if (solicitud.modo !== "tema-nuevo" || !esModeloPrincipal(modelo)) return;
       try {
         const slug = await guardarTemaVivo(solicitud.messages[0].content, texto);
         if (slug) enviar({ tipo: "guardado", slug });

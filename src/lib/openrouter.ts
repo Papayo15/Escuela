@@ -1,16 +1,26 @@
 const URL_CHAT = "https://openrouter.ai/api/v1/chat/completions";
 
+/** Alias de OpenRouter: siempre apuntan a la versión vigente de cada familia. */
 const MODELOS_BASE = [
-  "anthropic/claude-sonnet-5.5",
-  "google/gemini-3.5-flash-lite",
-  "openai/gpt-4o-mini",
+  "~anthropic/claude-sonnet-latest",
+  "~google/gemini-flash-latest",
+  "~openai/gpt-mini-latest",
 ];
+
+/** Dólares por millón de tokens. Evita que una versión nueva suba el costo sin avisar. */
+const TOPE_PRECIO = { prompt: 3, completion: 15 };
 
 export function modelos(): string[] {
   const lista = process.env.OPENROUTER_MODELS?.split(",")
     .map((m) => m.trim())
     .filter(Boolean);
   return lista?.length ? lista : MODELOS_BASE;
+}
+
+/** Con un alias, el modelo que responde trae otro nombre: se compara la familia. */
+export function esModeloPrincipal(modelo: string | undefined): boolean {
+  const familia = modelos()[0].replace(/^~/, "").replace(/-latest$/, "");
+  return Boolean(modelo?.startsWith(familia));
 }
 
 export type Parte =
@@ -134,7 +144,7 @@ export async function* abrirStream(opciones: {
       stream: true,
       max_tokens: 4000,
       messages: opciones.mensajes,
-      ...(opciones.sinRetencion ? { provider: { zdr: true } } : {}),
+      provider: { max_price: TOPE_PRECIO, ...(opciones.sinRetencion ? { zdr: true } : {}) },
     },
     opciones.signal,
   );
@@ -156,7 +166,7 @@ export async function pedirJson(opciones: {
       { role: "system", content: opciones.sistema },
       { role: "user", content: opciones.usuario },
     ],
-    provider: { require_parameters: true },
+    provider: { require_parameters: true, max_price: TOPE_PRECIO },
     response_format: {
       type: "json_schema",
       json_schema: { name: opciones.nombre, strict: true, schema: opciones.esquema },
