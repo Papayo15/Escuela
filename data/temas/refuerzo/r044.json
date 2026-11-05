@@ -1,0 +1,531 @@
+[
+{
+"nodo_id": "f6-083",
+"titulo": "Primera ley de Newton",
+"slug": "primera-ley-de-newton-secundaria",
+"palabras": [
+"inercia",
+"primera ley",
+"Newton",
+"reposo"
+],
+"contenido": {
+"idea": "Vas parado en el camión y frena de golpe. Tu cuerpo se va hacia adelante porque quería seguir avanzando.",
+"pizarron": "**La ley:** todo cuerpo sigue quieto, o sigue moviéndose en línea recta a la misma velocidad, mientras ninguna fuerza neta lo obligue a cambiar. También se llama **ley de la inercia**.\n\n**Qué quiere decir:** las cosas son flojas para cambiar. Lo que está quieto quiere seguir quieto. Lo que se mueve quiere seguir moviéndose igual.\n\nEsa flojera se llama **inercia**. Entre más masa tiene algo, más inercia tiene.\n\n**Ejemplos:**\n\nUn libro en la mesa no se mueve solo. Nadie lo empuja.\n\nCuando el camión frena, tu cuerpo sigue hacia adelante. Por eso usamos cinturón.\n\nUn balón que rueda se detiene porque el piso lo frena. Esa fuerza se llama fricción. Sin ella, seguiría rodando.",
+"truco": "Sin fuerza neta, todo sigue como estaba.",
+"practica": {
+"ejercicio": "¿Por qué sales hacia adelante cuando un coche frena?",
+"respuesta": "Por la inercia: tu cuerpo tiende a seguir moviéndose."
+},
+"analogias": [
+{
+"titulo": "El mantel",
+"texto": "Si jalas rápido el mantel, los platos se quedan porque tienden a seguir en reposo."
+},
+{
+"titulo": "El disco de hockey",
+"texto": "Sobre hielo liso, el disco casi no se frena y sigue en línea recta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tiene más inercia, un balón o un camión?",
+"respuesta": "El camión, porque tiene más masa."
+},
+{
+"ejercicio": "¿Qué frena a un balón que rueda?",
+"respuesta": "La fricción."
+},
+{
+"ejercicio": "¿Para qué sirve el cinturón de seguridad?",
+"respuesta": "Para detener tu cuerpo, que por inercia sigue avanzando."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Segunda ley de Newton",
+"slug": "segunda-ley-de-newton-secundaria",
+"palabras": [
+"F = ma",
+"segunda ley",
+"fuerza",
+"masa",
+"aceleración"
+],
+"contenido": {
+"idea": "Empuja un carrito vacío: sale volando. Empuja uno lleno: casi no se mueve. Mismo empujón, distinto resultado.",
+"pizarron": "**La ley:** la aceleración de un cuerpo es directamente proporcional a la fuerza neta que recibe, e inversamente proporcional a su masa.\n\n$$F = m \\times a$$\n\n**Qué quiere decir:**\n\n**F** es qué tan fuerte empujas.\n\n**m** es la masa: cuánta cosa hay que mover.\n\n**a** es la aceleración: qué tan rápido agarra velocidad.\n\nMás fuerza, acelera más. Eso significa «directamente proporcional».\n\nMás masa, acelera menos. Eso significa «inversamente proporcional».\n\n**Ejemplo.** Una caja tiene 10 kilos. La empujas con 30 newtons.\n\n$$a = \\frac{F}{m} = \\frac{30}{10} = 3$$\n\nCada segundo va 3 metros por segundo más rápido.\n\nSi empujas el doble, acelera el doble. Si la caja tiene el doble de masa, acelera la mitad.",
+"truco": "Más fuerza acelera más; más masa acelera menos.",
+"practica": {
+"ejercicio": "Un objeto de 4 kg recibe 20 N. ¿Cuál es su aceleración?",
+"respuesta": "5 m/s²."
+},
+"analogias": [
+{
+"titulo": "El carrito del súper",
+"texto": "Empujas igual, pero el carrito vacío acelera mucho más que el lleno."
+},
+{
+"titulo": "El balón y la bola de boliche",
+"texto": "Con la misma patada el balón sale volando, y la bola de boliche casi no se mueve."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué fuerza necesitas para acelerar 3 m/s² a 5 kg?",
+"respuesta": "15 N."
+},
+{
+"ejercicio": "¿Cuál es la masa si $F=40$ N y $a=8$ m/s²?",
+"respuesta": "5 kg."
+},
+{
+"ejercicio": "Si duplicas la masa con igual fuerza, ¿qué pasa con $a$?",
+"respuesta": "Se reduce a la mitad."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Tercera ley de Newton",
+"slug": "tercera-ley-de-newton-secundaria",
+"palabras": [
+"acción y reacción",
+"tercera ley",
+"pares de fuerzas",
+"cohete"
+],
+"contenido": {
+"idea": "Empuja a un amigo mientras los dos traen patines. Él se va hacia atrás, y tú también. No puedes empujar sin que te empujen.",
+"pizarron": "**La ley:** a toda acción corresponde una reacción igual y en sentido contrario. También se llama **ley de acción y reacción**.\n\n$$F_{A \\to B} = -F_{B \\to A}$$\n\n**Qué quiere decir:** las fuerzas siempre vienen en pareja. Si tú empujas algo, eso te empuja a ti con la misma fuerza.\n\n**Acción** es tu empujón. **Reacción** es el empujón de regreso.\n\nFíjate en tres cosas:\n\n1. Las dos fuerzas son del mismo tamaño.\n2. Van en sentidos contrarios.\n3. Cada una actúa sobre un cuerpo distinto. Por eso no se cancelan.\n\n**Ejemplos:**\n\nAl caminar, tu pie empuja el suelo hacia atrás. El suelo te empuja hacia adelante.\n\nUn cohete avienta gases hacia abajo. Los gases empujan al cohete hacia arriba.",
+"truco": "Toda fuerza viene en pareja y sobre cuerpos distintos.",
+"practica": {
+"ejercicio": "Empujas una pared con 50 N. ¿Qué fuerza te aplica la pared?",
+"respuesta": "50 N en sentido contrario."
+},
+"analogias": [
+{
+"titulo": "El globo suelto",
+"texto": "Al salir, el aire empuja al globo en sentido contrario y lo lanza por el cuarto."
+},
+{
+"titulo": "Bajarse de una lancha",
+"texto": "Al saltar a la orilla empujas la lancha hacia atrás y ella te impulsa hacia adelante."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué no se cancelan acción y reacción?",
+"respuesta": "Porque actúan sobre cuerpos distintos."
+},
+{
+"ejercicio": "¿Qué impulsa a un cohete?",
+"respuesta": "Los gases expulsados lo empujan en sentido contrario."
+},
+{
+"ejercicio": "Al caminar, ¿quién te empuja hacia adelante?",
+"respuesta": "El suelo."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Peso y masa",
+"slug": "peso-y-masa-secundaria",
+"palabras": [
+"peso",
+"masa",
+"gravedad",
+"Luna",
+"P = mg"
+],
+"contenido": {
+"idea": "Un astronauta pesa mucho menos en la Luna, pero su cuerpo no adelgazó. Su masa es igual y su peso cambió por la gravedad.",
+"pizarron": "**Masa**: cantidad de materia. Se mide en kg y no cambia de lugar a lugar.\n\n**Peso**: fuerza con que la gravedad atrae a un cuerpo. Se mide en newtons y sí cambia.\n\n$$P = m\\,g$$\n\nEn la Tierra, $g = 9.8$ m/s².\n\nEjemplo: una persona de 50 kg.\n\n$$P = 50 \\times 9.8 = 490\\ \\text{N}$$\n\nEn la Luna, $g \\approx 1.6$ m/s²:\n\n$$P = 50 \\times 1.6 = 80\\ \\text{N}$$\n\nLa masa sigue siendo 50 kg.\n\nEn la vida diaria decimos pesar para dar los kilos, aunque en física eso es la masa.",
+"truco": "Masa viaja contigo; el peso depende del lugar.",
+"practica": {
+"ejercicio": "¿Cuánto pesa en la Tierra un objeto de 10 kg?",
+"respuesta": "98 N."
+},
+"analogias": [
+{
+"titulo": "La mochila",
+"texto": "Tu mochila tiene las mismas cosas en todos lados; lo que cambia es qué tan fuerte la jala el planeta."
+},
+{
+"titulo": "El imán fuerte y el débil",
+"texto": "Un imán fuerte jala más el mismo clip, como un planeta grande jala más el mismo cuerpo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿En qué unidad se mide el peso?",
+"respuesta": "En newtons."
+},
+{
+"ejercicio": "¿Cuál es la masa de un cuerpo que pesa 196 N en la Tierra?",
+"respuesta": "20 kg."
+},
+{
+"ejercicio": "¿Cuál es la masa en la Luna de 30 kg terrestres?",
+"respuesta": "30 kg, no cambia."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Fricción",
+"slug": "friccion-secundaria",
+"palabras": [
+"fricción",
+"rozamiento",
+"superficie",
+"fuerza normal"
+],
+"contenido": {
+"idea": "Frota tus manos y se calientan. Esa resistencia al deslizar una superficie sobre otra es la fricción, y sin ella no podrías caminar.",
+"pizarron": "La **fricción** es una fuerza que se opone al deslizamiento entre superficies.\n\nDepende de:\n\n- El tipo de superficies.\n- Qué tanto se aprietan entre sí.\n\n**Estática**: impide que un objeto empiece a moverse.\n\n**Cinética**: actúa mientras ya se desliza. Suele ser menor.\n\nEfectos:\n\n- **Útil**: permite caminar, frenar y escribir con lápiz.\n- **Problema**: desgasta piezas y gasta energía como calor.\n\nPara reducirla: aceite, ruedas, superficies lisas.\n\nPara aumentarla: suelas con dibujo, arena en el hielo.\n\nEjemplo: empujas con 20 N y la fricción es 5 N.\n\n$$F_{neta} = 20 - 5 = 15\\ \\text{N}$$",
+"truco": "La fricción siempre va contra el deslizamiento.",
+"practica": {
+"ejercicio": "Empujas con 12 N y la fricción es 4 N. ¿Cuál es la fuerza neta?",
+"respuesta": "8 N."
+},
+"analogias": [
+{
+"titulo": "Velcro diminuto",
+"texto": "Las superficies parecen lisas, pero sus irregularidades se enganchan como el velcro."
+},
+{
+"titulo": "Piso mojado",
+"texto": "Con agua en el piso hay menos fricción, y por eso resbalas con facilidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Por qué se usa aceite en un motor?",
+"respuesta": "Para reducir la fricción y el desgaste."
+},
+{
+"ejercicio": "¿Qué fricción impide que un objeto empiece a moverse?",
+"respuesta": "La estática."
+},
+{
+"ejercicio": "¿En qué se transforma parte de la energía por fricción?",
+"respuesta": "En calor."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Trabajo",
+"slug": "trabajo-secundaria",
+"palabras": [
+"trabajo mecánico",
+"joule",
+"fuerza por distancia"
+],
+"contenido": {
+"idea": "Cargar una mochila parado te cansa, pero en física no haces trabajo. Solo hay trabajo si la fuerza mueve algo en su dirección.",
+"pizarron": "**Trabajo** mecánico es la fuerza por el desplazamiento en la misma dirección:\n\n$$W = F\\,d$$\n\nUnidad: **joule**, $1\\ \\text{J} = 1\\ \\text{N·m}$.\n\nEjemplo: empujas una caja con 50 N a lo largo de 4 m.\n\n$$W = 50 \\times 4 = 200\\ \\text{J}$$\n\nLevantar: la fuerza es igual al peso.\n\nUna caja de 2 kg subida 3 m:\n\n$$W = (2)(9.8)(3) = 58.8\\ \\text{J}$$\n\n**Sin trabajo**:\n\n- Si no hay movimiento.\n- Si la fuerza es perpendicular al movimiento, como sostener una maleta mientras caminas en plano.",
+"truco": "Sin movimiento en la dirección de la fuerza, no hay trabajo.",
+"practica": {
+"ejercicio": "Empujas con 30 N por 5 m. ¿Cuánto trabajo haces?",
+"respuesta": "150 J."
+},
+"analogias": [
+{
+"titulo": "Empujar la pared",
+"texto": "Sudas por empujar una pared, pero no se mueve: en física el trabajo es cero."
+},
+{
+"titulo": "Pago por mudanza",
+"texto": "Te pagan por llevar cajas de un lugar a otro, no por quedarte cargándolas quieto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál es la unidad del trabajo?",
+"respuesta": "El joule."
+},
+{
+"ejercicio": "Si $W=100$ J y $d=4$ m, ¿cuál es $F$?",
+"respuesta": "25 N."
+},
+{
+"ejercicio": "Sostienes un libro sin moverlo. ¿Cuánto trabajo haces?",
+"respuesta": "Cero."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Potencia",
+"slug": "potencia-secundaria",
+"palabras": [
+"potencia",
+"watt",
+"trabajo entre tiempo",
+"caballos de fuerza"
+],
+"contenido": {
+"idea": "Dos personas suben la misma escalera, una corriendo y otra despacio. Hacen el mismo trabajo, pero quien corre desarrolla más potencia.",
+"pizarron": "**Potencia**: rapidez con que se hace un trabajo.\n\n$$P = \\frac{W}{t}$$\n\nUnidad: **watt**, $1\\ \\text{W} = 1\\ \\text{J/s}$.\n\nEjemplo: haces 600 J en 3 s.\n\n$$P = \\frac{600}{3} = 200\\ \\text{W}$$\n\nEjemplo con escalera: alguien de 60 kg sube 5 m en 10 s.\n\n$$W = (60)(9.8)(5) = 2940\\ \\text{J}$$\n\n$$P = \\frac{2940}{10} = 294\\ \\text{W}$$\n\nOtra unidad común es el caballo de fuerza: $1\\ \\text{hp} \\approx 746\\ \\text{W}$.",
+"truco": "Potencia es trabajo dividido entre tiempo.",
+"practica": {
+"ejercicio": "Un motor hace 1500 J en 5 s. ¿Cuál es su potencia?",
+"respuesta": "300 W."
+},
+"analogias": [
+{
+"titulo": "Licuadora potente",
+"texto": "Dos licuadoras muelen lo mismo; la de más watts lo hace en menos tiempo."
+},
+{
+"titulo": "Llenar la cubeta",
+"texto": "La cantidad de agua es el trabajo; qué tan rápido se llena es la potencia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuánto trabajo hace un foco de 60 W en 10 s?",
+"respuesta": "600 J."
+},
+{
+"ejercicio": "¿Cuánto tarda un motor de 200 W en hacer 1000 J?",
+"respuesta": "5 s."
+},
+{
+"ejercicio": "¿A cuántos joules por segundo equivale 1 W?",
+"respuesta": "A 1 J/s."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Energía cinética",
+"slug": "energia-cinetica-secundaria",
+"palabras": [
+"energía cinética",
+"movimiento",
+"Ec",
+"velocidad al cuadrado"
+],
+"contenido": {
+"idea": "Una bola de boliche rápida tira todos los pinos. Lo que tiene por estar en movimiento se llama energía cinética.",
+"pizarron": "La **energía cinética** es la energía del movimiento.\n\n$$E_c = \\frac{1}{2} m v^2$$\n\nDepende de la masa y, sobre todo, de la velocidad.\n\nEjemplo: un balón de 2 kg a 3 m/s.\n\n$$E_c = \\frac{1}{2}(2)(3)^2 = 9\\ \\text{J}$$\n\nEjemplo: un coche de 1000 kg a 20 m/s.\n\n$$E_c = \\frac{1}{2}(1000)(20)^2 = 200\\,000\\ \\text{J}$$\n\nSi la velocidad se duplica, la energía se **cuadruplica**.\n\nPor eso un choque a 80 km/h es mucho más grave que uno a 40 km/h.",
+"truco": "Doble velocidad, cuatro veces la energía.",
+"practica": {
+"ejercicio": "Calcula la $E_c$ de 4 kg a 5 m/s.",
+"respuesta": "50 J."
+},
+"analogias": [
+{
+"titulo": "El martillo",
+"texto": "Un martillo quieto no clava; al moverse rápido entrega su energía al clavo."
+},
+{
+"titulo": "Bicicleta en bajada",
+"texto": "Entre más rápido vas, más difícil es frenar, porque tienes más energía que quitar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula la $E_c$ de 10 kg a 2 m/s.",
+"respuesta": "20 J."
+},
+{
+"ejercicio": "Si triplicas $v$, ¿cuántas veces aumenta $E_c$?",
+"respuesta": "9 veces."
+},
+{
+"ejercicio": "¿Cuánta $E_c$ tiene un objeto en reposo?",
+"respuesta": "Cero."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Energía potencial",
+"slug": "energia-potencial-secundaria",
+"palabras": [
+"energía potencial",
+"altura",
+"gravitacional",
+"Ep"
+],
+"contenido": {
+"idea": "Una piedra en lo alto de un cerro parece tranquila, pero guarda energía lista para liberarse si empieza a caer.",
+"pizarron": "La **energía potencial gravitacional** es la energía guardada por la altura.\n\n$$E_p = m\\,g\\,h$$\n\nDonde:\n\n- $m$: masa en kg.\n- $g$: 9.8 m/s².\n- $h$: altura en m.\n\nEjemplo: un libro de 1 kg a 2 m de altura.\n\n$$E_p = (1)(9.8)(2) = 19.6\\ \\text{J}$$\n\nEjemplo: un niño de 30 kg en una resbaladilla de 3 m.\n\n$$E_p = (30)(9.8)(3) = 882\\ \\text{J}$$\n\nA mayor altura o masa, mayor energía.\n\nTambién existe la energía potencial elástica, guardada en resortes y ligas estiradas.",
+"truco": "Más alto y más pesado, más energía guardada.",
+"practica": {
+"ejercicio": "Calcula la $E_p$ de 5 kg a 10 m de altura.",
+"respuesta": "490 J."
+},
+"analogias": [
+{
+"titulo": "La presa",
+"texto": "El agua arriba de una presa guarda energía que se usa al caer por las turbinas."
+},
+{
+"titulo": "La liga estirada",
+"texto": "Mientras más la estiras, más energía guarda para salir disparada."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Si duplicas la altura, ¿qué pasa con $E_p$?",
+"respuesta": "Se duplica."
+},
+{
+"ejercicio": "Calcula la $E_p$ de 2 kg a 4 m.",
+"respuesta": "78.4 J."
+},
+{
+"ejercicio": "¿Cuánta $E_p$ tiene un objeto en el nivel de referencia?",
+"respuesta": "Cero."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Conservación de la energía",
+"slug": "conservacion-de-la-energia-secundaria",
+"palabras": [
+"conservación de la energía",
+"transformación",
+"montaña rusa",
+"energía mecánica"
+],
+"contenido": {
+"idea": "En la montaña rusa, el carrito sube lento y baja a toda velocidad. La energía no aparece ni se pierde: solo cambia de forma.",
+"pizarron": "**Principio de conservación**: la energía no se crea ni se destruye, solo se transforma.\n\n**Energía mecánica**:\n\n$$E_m = E_c + E_p$$\n\nSin fricción, $E_m$ se mantiene constante.\n\nEjemplo: una pelota de 1 kg cae desde 5 m.\n\nArriba: $E_p = (1)(9.8)(5) = 49$ J y $E_c = 0$.\n\nAbajo: $E_p = 0$ y $E_c = 49$ J.\n\n$$\\frac{1}{2}(1)v^2 = 49 \\Rightarrow v = \\sqrt{98} \\approx 9.9\\ \\text{m/s}$$\n\nCon fricción, una parte pasa a calor y sonido. Se conserva el total, pero ya no como energía mecánica.\n\nOtros cambios: eléctrica a luz en un foco, química a movimiento en el cuerpo.",
+"truco": "La energía cambia de traje, pero no desaparece.",
+"practica": {
+"ejercicio": "Un objeto tiene 30 J de $E_p$ arriba. Sin fricción, ¿cuánta $E_c$ tiene al llegar al suelo?",
+"respuesta": "30 J."
+},
+"analogias": [
+{
+"titulo": "El dinero en monedas",
+"texto": "Cambias un billete por monedas: el total sigue igual aunque tenga otra forma."
+},
+{
+"titulo": "El columpio",
+"texto": "Arriba casi te detienes con energía potencial; abajo vas rápido con energía cinética."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿En qué se transforma la energía eléctrica de un foco?",
+"respuesta": "En luz y calor."
+},
+{
+"ejercicio": "Si $E_c=20$ J y $E_p=30$ J, ¿cuánto vale $E_m$?",
+"respuesta": "50 J."
+},
+{
+"ejercicio": "¿Qué pasa con la energía que pierde un coche al frenar?",
+"respuesta": "Se convierte principalmente en calor."
+}
+]
+}
+},
+{
+"nodo_id": "f6-083",
+"titulo": "Máquinas simples",
+"slug": "maquinas-simples-secundaria",
+"palabras": [
+"palanca",
+"polea",
+"plano inclinado",
+"ventaja mecánica"
+],
+"contenido": {
+"idea": "Con una barra puedes levantar una piedra que tus brazos solos no moverían. Las máquinas simples hacen rendir mejor tu fuerza.",
+"pizarron": "Una **máquina simple** cambia la magnitud o dirección de una fuerza.\n\n**Tipos**:\n\n- Palanca: subibaja, tijeras.\n- Polea: pozo, grúa.\n- Plano inclinado: rampa.\n- Cuña: hacha.\n- Tornillo.\n- Rueda y eje.\n\n**Ley de la palanca**:\n\n$$F_1 \\, d_1 = F_2 \\, d_2$$\n\nEjemplo: para levantar 300 N a 1 m del apoyo, aplicas fuerza a 3 m.\n\n$$F = \\frac{300 \\times 1}{3} = 100\\ \\text{N}$$\n\nLa **ventaja mecánica** es carga entre fuerza: $300/100 = 3$.\n\nNo se gana energía: usas menos fuerza, pero a lo largo de más distancia.",
+"truco": "Menos fuerza a cambio de más distancia.",
+"practica": {
+"ejercicio": "Una carga de 200 N está a 1 m del apoyo y empujas a 4 m. ¿Qué fuerza necesitas?",
+"respuesta": "50 N."
+},
+"analogias": [
+{
+"titulo": "La rampa",
+"texto": "Subir por la rampa es más largo, pero cada paso cuesta menos que por una escalera empinada."
+},
+{
+"titulo": "El subibaja",
+"texto": "Un niño pequeño levanta a un adulto si se sienta más lejos del centro."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué máquina simple es un hacha?",
+"respuesta": "Una cuña."
+},
+{
+"ejercicio": "¿Cuál es la ventaja mecánica si cargas 600 N con 200 N?",
+"respuesta": "3."
+},
+{
+"ejercicio": "¿Las máquinas simples crean energía?",
+"respuesta": "No."
+}
+]
+}
+},
+{
+"nodo_id": "f6-087",
+"titulo": "Densidad",
+"slug": "densidad-secundaria",
+"palabras": [
+"densidad",
+"masa entre volumen",
+"flotar",
+"kg/m³"
+],
+"contenido": {
+"idea": "Un kilo de plumas ocupa muchísimo más espacio que un kilo de plomo. La densidad dice qué tan apretada está la masa de un material.",
+"pizarron": "La **densidad** relaciona masa y volumen:\n\n$$\\rho = \\frac{m}{V}$$\n\nUnidades: kg/m³ o g/cm³.\n\nValores comunes:\n\n| Material | Densidad (g/cm³) |\n|---|---|\n| Agua | 1 |\n| Aceite | cerca de 0.9 |\n| Hielo | cerca de 0.92 |\n| Aluminio | 2.7 |\n| Hierro | 7.9 |\n\nEjemplo: un trozo de 54 g ocupa 20 cm³.\n\n$$\\rho = \\frac{54}{20} = 2.7\\ \\text{g/cm}^3$$\n\nEs aluminio.\n\nLo menos denso **flota** sobre lo más denso. Por eso el aceite queda sobre el agua.",
+"truco": "Lo menos denso flota sobre lo más denso.",
+"practica": {
+"ejercicio": "Un objeto de 30 g ocupa 10 cm³. ¿Cuál es su densidad?",
+"respuesta": "3 g/cm³."
+},
+"analogias": [
+{
+"titulo": "Camión lleno",
+"texto": "El mismo camión con muchas personas apretadas está más denso que con pocas."
+},
+{
+"titulo": "Masa de pan",
+"texto": "Si aprietas una bola de masa, la cantidad es igual, pero ocupa menos y queda más densa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Flota el hielo en agua?",
+"respuesta": "Sí, es menos denso."
+},
+{
+"ejercicio": "¿Qué masa tienen 5 cm³ de agua?",
+"respuesta": "5 g."
+},
+{
+"ejercicio": "¿Qué volumen ocupan 79 g de hierro?",
+"respuesta": "10 cm³."
+}
+]
+}
+}
+]

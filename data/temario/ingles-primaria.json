@@ -1,0 +1,32 @@
+[
+ {
+  "id": "f3-ing",
+  "nivel": "Primaria",
+  "etapa": "1.º y 2.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Inglés",
+  "contenido": "Inglés como lengua extranjera",
+  "fuente": "programa-sintetico-fase-3",
+  "pagina": 19
+ },
+ {
+  "id": "f4-ing",
+  "nivel": "Primaria",
+  "etapa": "3.º y 4.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Inglés",
+  "contenido": "Inglés como lengua extranjera",
+  "fuente": "programa-sintetico-fase-4",
+  "pagina": 21
+ },
+ {
+  "id": "f5-ing",
+  "nivel": "Primaria",
+  "etapa": "5.º y 6.º de primaria",
+  "campo": "Lenguajes",
+  "materia": "Inglés",
+  "contenido": "Inglés como lengua extranjera",
+  "fuente": "programa-sintetico-fase-5",
+  "pagina": 19
+ }
+]

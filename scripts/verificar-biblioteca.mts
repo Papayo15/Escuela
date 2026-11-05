@@ -8,7 +8,7 @@ import type { ContenidoTema } from "../src/lib/schema-tema";
 
 const normaliza = (t: string) =>
   t
-    .replace(/-\s*\n\s*/g, "")
+    .replace(/\s*-\s*\n\s*/g, "")
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^\p{L}\p{N}]+/gu, " ")

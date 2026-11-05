@@ -1,6 +1,6 @@
 {
-  "nodos": 566,
-  "temas": 933,
+  "nodos": 569,
+  "temas": 1176,
   "faltan": 0,
   "avance": {
     "Preparatoria | Ciencias": {
@@ -50,6 +50,10 @@
     "Primaria | Ética, Naturaleza y Sociedades": {
       "nodos": 56,
       "con_tema": 56
+    },
+    "Primaria | Inglés": {
+      "nodos": 3,
+      "con_tema": 3
     },
     "Primaria | Matemáticas": {
       "nodos": 27,

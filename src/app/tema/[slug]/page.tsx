@@ -50,6 +50,22 @@ export default async function PaginaTema({ params }: { params: Promise<{ slug: s
         </details>
       </section>
 
+      <section className="bloque tarea">
+        <h2>✏️ Tu tarea</h2>
+        <p>Resuélvela en tu cuaderno y después revisa cada respuesta.</p>
+        <ol>
+          {ejercicios.map((e) => (
+            <li key={e.ejercicio}>
+              <Mensaje texto={e.ejercicio} />
+              <details>
+                <summary>Ver respuesta</summary>
+                <Mensaje texto={e.respuesta} />
+              </details>
+            </li>
+          ))}
+        </ol>
+      </section>
+
       <section className="apoyo">
         <details>
           <summary>No entendí, explícalo de otra forma</summary>
@@ -59,20 +75,6 @@ export default async function PaginaTema({ params }: { params: Promise<{ slug: s
               <Mensaje texto={a.texto} />
             </div>
           ))}
-        </details>
-        <details>
-          <summary>Dame otro ejercicio</summary>
-          <ol>
-            {ejercicios.map((e) => (
-              <li key={e.ejercicio}>
-                <Mensaje texto={e.ejercicio} />
-                <details>
-                  <summary>Ver respuesta</summary>
-                  <Mensaje texto={e.respuesta} />
-                </details>
-              </li>
-            ))}
-          </ol>
         </details>
       </section>
 
