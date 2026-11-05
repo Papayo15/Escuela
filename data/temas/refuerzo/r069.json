@@ -601,7 +601,7 @@
 }
 ],
 "idea": "Si llueve, llevas paraguas; si no, no. Los programas deciden igual.",
-"pizarron": "**Qué es:** un condicional ejecuta código según si algo es verdadero.\n\n**Imagínalo:** si llueve, llevas paraguas. Si no, no.\n\n```python\nedad = 18\nif edad >= 18:\n    print(\"Adulto\")\nelse:\n    print(\"Menor\")\n```\n\n**Comparadores:** `==`, `!=`, `>`, `<`.\n\nLa sangría indica lo que va dentro.\n\n**Para tu escuela:** escribe un *si... entonces* de tu día.",
+"pizarron": "**Qué es:** un condicional ejecuta código según si algo es verdadero.\n\n**Imagínalo:** un semáforo: si está en verde avanzas, y si está en rojo te detienes.\n\n```python\nedad = 18\nif edad >= 18:\n    print(\"Adulto\")\nelse:\n    print(\"Menor\")\n```\n\n**Comparadores:** `==`, `!=`, `>`, `<`.\n\nLa sangría indica lo que va dentro.\n\n**Para tu escuela:** escribe un *si... entonces* de tu día.",
 "truco": "Si pasa, haz esto; si no, aquello.",
 "practica": {
 "ejercicio": "¿Qué imprime con edad = 12?",
