@@ -104,7 +104,7 @@
 ],
 "contenido": {
 "idea": "Si dejas una cuchara en la sopa caliente, el mango se calienta. Las partículas calientes empujan a sus vecinas, como niños que se pasan un balón de mano en mano en una fila.",
-"pizarron": "**La regla:** el calor viaja por conducción, convección o radiación.\n\n**Conducción:** por contacto. Partícula a partícula.\n\n**Convección:** el fluido caliente sube y el frío baja.\n\n**Radiación:** en ondas, sin necesitar materia. Así llega el Sol.\n\n**Aislantes:** plástico y madera conducen mal el calor. Por eso las asas de las ollas no queman.\n\n**Aire frío:** pesa más y baja. Por eso el aire acondicionado va arriba.\n\n**Para tu escuela:** explica por qué el calentador se pone abajo y el aire acondicionado arriba.",
+"pizarron": "**La regla:** el calor viaja por conducción, convección o radiación.\n\n**Imagínalo:** una cuchara en la sopa se calienta, el agua da vueltas y el sol te abriga.\n\n**Conducción:** por contacto. Partícula a partícula.\n\n**Convección:** el fluido caliente sube y el frío baja.\n\n**Radiación:** en ondas, sin necesitar materia. Así llega el Sol.\n\n**Aislantes:** plástico y madera conducen mal el calor. Por eso las asas de las ollas no queman.\n\n**Aire frío:** pesa más y baja. Por eso el aire acondicionado va arriba.\n\n**Para tu escuela:** explica por qué el calentador se pone abajo y el aire acondicionado arriba.",
 "truco": "Contacto = conducción; corrientes = convección; ondas = radiación.",
 "practica": {
 "ejercicio": "Identifica la forma de propagación: sentir el calor de una fogata a un metro de distancia.",
@@ -288,7 +288,7 @@
 ],
 "contenido": {
 "idea": "La Tierra tiene una cobija de aire (atmósfera) y una gran alberca de agua (hidrósfera). Las dos se mezclan todo el tiempo: el agua sube al aire y regresa en forma de lluvia.",
-"pizarron": "**Qué es:** la atmósfera es el aire que rodea la Tierra. La hidrosfera es toda el agua.\n\n**Atmósfera:** 78 % nitrógeno, 21 % oxígeno y 1 % otros gases.\n\n**Capas:** troposfera, donde pasa el clima; estratosfera, con la capa de ozono; mesosfera, termosfera y exosfera.\n\n**Hidrosfera:** cubre cerca del 71 % de la Tierra, y casi toda es salada.\n\n**Juntas:** el Sol evapora agua, el vapor forma nubes y luego llueve.\n\n**Condensación:** el vapor pasa de gas a líquido y forma nubes.\n\n**Para tu escuela:** di en qué capa vuelan los aviones y dónde está el ozono.",
+"pizarron": "**Qué es:** la atmósfera es el aire que rodea la Tierra. La hidrosfera es toda el agua.\n\n**Imagínalo:** la Tierra lleva una cobija de aire y un gran manto de agua.\n\n**Atmósfera:** 78 % nitrógeno, 21 % oxígeno y 1 % otros gases.\n\n**Capas:** troposfera, donde pasa el clima; estratosfera, con la capa de ozono; mesosfera, termosfera y exosfera.\n\n**Hidrosfera:** cubre cerca del 71 % de la Tierra, y casi toda es salada.\n\n**Juntas:** el Sol evapora agua, el vapor forma nubes y luego llueve.\n\n**Condensación:** el vapor pasa de gas a líquido y forma nubes.\n\n**Para tu escuela:** di en qué capa vuelan los aviones y dónde está el ozono.",
 "truco": "Troposfera = tiempo (clima); estratosfera = ozono.",
 "practica": {
 "ejercicio": "Si el aire es 78 % nitrógeno y 21 % oxígeno, ¿qué porcentaje queda para otros gases?",
@@ -334,7 +334,7 @@
 ],
 "contenido": {
 "idea": "Tu cuerpo es un sistema: corazón, pulmones y estómago trabajan juntos y si uno falla, todos lo notan. La Tierra también funciona así, con partes conectadas.",
-"pizarron": "**Qué es:** la Tierra es un sistema: cuatro partes conectadas que se afectan entre sí.\n\n**Geosfera:** rocas y suelo.\n\n**Hidrosfera:** agua.\n\n**Atmósfera:** aire.\n\n**Biosfera:** seres vivos.\n\n**Ejemplos:** un volcán lanza ceniza al aire. La lluvia desgasta la roca. Las plantas toman aire y agua.\n\nSi talas un bosque, cambian el agua y el clima.\n\nSe dice que es un sistema porque sus partes se afectan entre sí. Si una cambia, las otras también.\n\n**Para tu escuela:** pon un ejemplo donde el agua afecte a un ser vivo.",
+"pizarron": "**Qué es:** la Tierra es un sistema: cuatro partes conectadas que se afectan entre sí.\n\n**Imagínalo:** un equipo donde, si uno falla, los demás lo sienten.\n\n**Geosfera:** rocas y suelo.\n\n**Hidrosfera:** agua.\n\n**Atmósfera:** aire.\n\n**Biosfera:** seres vivos.\n\n**Ejemplos:** un volcán lanza ceniza al aire. La lluvia desgasta la roca. Las plantas toman aire y agua.\n\nSi talas un bosque, cambian el agua y el clima.\n\nSe dice que es un sistema porque sus partes se afectan entre sí. Si una cambia, las otras también.\n\n**Para tu escuela:** pon un ejemplo donde el agua afecte a un ser vivo.",
 "truco": "Geo, hidro, atmo, bio: cuatro esferas que se tocan.",
 "practica": {
 "ejercicio": "Explica qué subsistemas intervienen cuando un río arrastra tierra y la deposita en el mar.",
@@ -402,8 +402,8 @@
 "respuesta": "Reactivos: $\\ce{CH4}$ y $\\ce{O2}$; productos: $\\ce{CO2}$ y $\\ce{H2O}$."
 },
 {
-"ejercicio": "Balancea: $\\ce{Fe + O2 -> Fe2O3}$",
-"respuesta": "$\\ce{4Fe + 3O2 -> 2Fe2O3}$ (4 Fe y 6 O en cada lado)."
+"ejercicio": "Balancea: $\\ce{Na + Cl2 -> NaCl}$",
+"respuesta": "$\\ce{2Na + Cl2 -> 2NaCl}$ (2 Na y 2 Cl en cada lado)."
 },
 {
 "ejercicio": "Se mezclan 10 g de A con 5 g de B y reaccionan por completo. ¿Cuántos gramos de productos se forman?",
@@ -426,7 +426,7 @@
 ],
 "contenido": {
 "idea": "Imagina que las plantas son pequeñas fábricas de aire limpio: toman luz y agua y sueltan oxígeno. Hace muchísimo tiempo, casi no había oxígeno en el aire y fueron seres diminutos quienes lo fabricaron.",
-"pizarron": "**Qué es:** al principio casi no había oxígeno en el aire. Lo liberaron unas bacterias que hacían fotosíntesis.\n\nHace unos 2400 millones de años, las **cianobacterias** soltaron oxígeno. Se llama **Gran Oxidación**.\n\n**Qué cambió:**\n\n- Surgió la respiración con oxígeno.\n- Se formó la capa de ozono.\n- Muchos organismos sin oxígeno desaparecieron.\n\n**Capa de ozono:** filtra los rayos ultravioleta dañinos. Gracias a ella hubo vida en tierra firme.\n\n**Para tu escuela:** explica por qué las plantas importan para respirar.",
+"pizarron": "**Qué es:** al principio casi no había oxígeno en el aire. Lo liberaron unas bacterias que hacían fotosíntesis.\n\n**Imagínalo:** unas bacterias diminutas llenaron de oxígeno todo el aire.\n\nHace unos 2400 millones de años, las **cianobacterias** soltaron oxígeno. Se llama **Gran Oxidación**.\n\n**Qué cambió:**\n\n- Surgió la respiración con oxígeno.\n- Se formó la capa de ozono.\n- Muchos organismos sin oxígeno desaparecieron.\n\n**Capa de ozono:** filtra los rayos ultravioleta dañinos. Gracias a ella hubo vida en tierra firme.\n\nPor cada molécula de $\\ce{CO2}$ que usa una planta, libera una de $\\ce{O2}$.\n\n**Para tu escuela:** explica por qué las plantas importan para respirar.",
 "truco": "Luz, agua y CO2 entran; azúcar y oxígeno salen.",
 "practica": {
 "ejercicio": "Si una planta usa 6 moléculas de $\\ce{CO2}$, ¿cuántas moléculas de $\\ce{O2}$ libera?",

@@ -57,8 +57,8 @@
 "pizarron": "**La regla:** las fracciones solo se suman si tienen el mismo denominador. Los decimales se suman alineando el punto.\n\n**Fracciones distintas:** no puedes sumar medios con cuartos, igual que no sumas manzanas con peras. Primero hazlos iguales.\n\n$\\frac{1}{2}$ es lo mismo que $\\frac{2}{4}$.\n\n$$\\frac{2}{4} + \\frac{1}{4} = \\frac{3}{4}$$\n\n**Decimales:** pon un punto debajo del otro.\n\n$$12.50 + 3.75 = 16.25$$\n\nSi te falta una cifra, agrega un cero, como en $12.50$.\n\n**Para tu escuela:** suma el precio de dos cosas de la cooperativa.",
 "truco": "**Fracciones: iguala abajo. Decimales: alinea el punto.**",
 "practica": {
-"ejercicio": "Resuelve $\\frac{2}{3} + \\frac{1}{6}$.",
-"respuesta": "$\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}$."
+"ejercicio": "Resuelve $\\frac{3}{4} - \\frac{1}{2}$.",
+"respuesta": "$\\frac{1}{4}$."
 },
 "analogias": [
 {
@@ -247,8 +247,8 @@
 ],
 "ejercicios": [
 {
-"ejercicio": "¿Cuántos ejes de simetría tiene un cuadrado?",
-"respuesta": "4."
+"ejercicio": "¿Cuántos ejes de simetría tiene un rectángulo?",
+"respuesta": "2."
 },
 {
 "ejercicio": "¿Cómo se llama un polígono regular de 6 lados?",

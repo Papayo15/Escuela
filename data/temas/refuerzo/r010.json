@@ -15,8 +15,8 @@
 "pizarron": "**La regla:** 1 hora tiene 60 minutos y 1 minuto tiene 60 segundos.\n\nEquivalencias:\n\n- 1 minuto = 60 segundos\n- 1 hora = 60 minutos\n- 1 día = 24 horas\n- 1 hora = 3 600 segundos\n\nConvertir:\n\n- De horas a minutos: multiplica por 60. 3 h = 180 min.\n- De minutos a horas: divide entre 60. 90 min = 1 h 30 min.\n\nEjemplo: 200 minutos.\n\n- 200 ÷ 60 = 3, residuo 20.\n- Son 3 h 20 min.\n\nReloj de 24 horas: después de las 12 sigue 13.\n\n- 15:00 son las 3 de la tarde.\n- 20:30 son las 8:30 de la noche.\n\nPara saber la hora de la tarde, resta 12.\n\n**Para tu escuela:** convierte tu recreo a segundos.",
 "truco": "En el reloj se cuenta de 60 en 60: al llegar a 60, cambia.",
 "practica": {
-"ejercicio": "¿Cuántos minutos son 2 horas y media?",
-"respuesta": "150 minutos: 2 × 60 + 30."
+"ejercicio": "¿Cuántos minutos son 3 horas y media?",
+"respuesta": "210 minutos."
 },
 "analogias": [
 {

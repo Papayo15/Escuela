@@ -150,7 +150,7 @@
 ],
 "contenido": {
 "idea": "Mira una caja de cereal, una pelota y una lata. Puedes tomarlos con las manos porque ocupan lugar: son cuerpos geométricos. La pelota rueda hacia todos lados, la lata rueda solo de lado y la caja se queda quieta. Su forma decide cómo se comportan.",
-"pizarron": "**Qué es:** un cuerpo geométrico es una figura con volumen, que puedes tomar con la mano, como una caja o una pelota.\n\nSus partes son:\n\n**Caras:** las superficies, como los lados de una caja.\n\n**Aristas:** las líneas donde se juntan dos caras.\n\n**Vértices:** las puntas donde se unen las aristas.\n\n**Ejemplo:** toma un dado, que tiene forma de cubo. Tiene 6 caras, 12 aristas y 8 vértices.\n\nUna pelota es una esfera: no tiene aristas ni vértices.\n\n**Para tu escuela:** busca en tu salón una caja, una pelota y un bote, y nómbralos.",
+"pizarron": "**Qué es:** un cuerpo geométrico es una figura con volumen, que puedes tomar con la mano, como una caja o una pelota.\n\nSus partes son:\n\n**Caras:** las superficies, como los lados de una caja.\n\n**Aristas:** las líneas donde se juntan dos caras.\n\n**Vértices:** las puntas donde se unen las aristas.\n\n**Ejemplo:** toma un dado, que tiene forma de cubo. Tiene 6 caras, 12 aristas y 8 vértices.\n\nUna pelota es una esfera: no tiene aristas ni vértices.\n\n**Cilindro:** tiene dos bases redondas, como una lata. **Cono:** una base redonda y una punta, como un gorro de fiesta. Los dos ruedan por su parte curva.\n\n**Para tu escuela:** busca en tu salón una caja, una pelota y un bote, y nómbralos.",
 "truco": "Si **rueda**, tiene una parte curva. Si **no rueda** por ningún lado, solo tiene caras planas.",
 "practica": {
 "ejercicio": "¿Qué cuerpo se parece a un dado y cuántas caras tiene?",

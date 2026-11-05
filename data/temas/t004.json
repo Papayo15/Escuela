@@ -56,7 +56,7 @@
 ],
 "contenido": {
 "idea": "Para saber si la sopa tiene sal no te tomas toda la olla: pruebas una cucharada bien revuelta. Con los datos pasa igual: miras una parte para entender el todo.",
-"pizarron": "**Qué es:** muestrear es estudiar una parte, elegida al azar, para conocer a todos.\n\n**Población:** todos. **Muestra:** una parte.\n\nComo probar una cucharada de sopa.\n\n**Tipos:**\n\n- **Simple:** sorteo.\n- **Sistemático:** uno de cada $k$.\n- **Estratificado:** por grupos.\n\nPreguntar solo a tus amigos da **sesgo**.\n\n**Para tu escuela:** elige al azar a 5 compañeros con papelitos.",
+"pizarron": "**Qué es:** muestrear es estudiar una parte, elegida al azar, para conocer a todos.\n\n**Población:** todos. **Muestra:** una parte.\n\nComo probar una cucharada de sopa.\n\n**Tipos:**\n\n- **Simple:** sorteo.\n- **Sistemático:** uno de cada $k$.\n- **Estratificado:** por grupos.\n\nPreguntar solo a tus amigos da **sesgo**.\n\n**Sistemático:** divide el total entre la muestra. Con 600 y 30, eliges uno de cada 20.\n\n**Sesgo:** aparece cuando dejas fuera a una parte, como preguntar solo en la cafetería.\n\n**Para tu escuela:** elige al azar a 5 compañeros con papelitos.",
 "truco": "Sortea parejo: si todos caben, todos cuentan.",
 "practica": {
 "ejercicio": "En una escuela hay 800 alumnos y quieres una muestra sistemática de 40. ¿Cada cuántos eliges?",

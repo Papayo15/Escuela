@@ -11,7 +11,7 @@
 ],
 "contenido": {
 "idea": "La tabla periódica es un edificio ordenado. Las columnas son familias con características parecidas y las filas son pisos.",
-"pizarron": "**La regla:** las columnas de la tabla periódica son grupos y las filas son periodos.\n\n- **Periodos**: filas horizontales, 7 en total. Indican niveles de energía ocupados.\n- **Grupos**: columnas verticales, 18 en total. Sus elementos tienen propiedades parecidas.\n\nFamilias importantes:\n\n| Grupo | Nombre | Ejemplos |\n|---|---|---|\n| 1 | Metales alcalinos | Na, K |\n| 2 | Alcalinotérreos | Mg, Ca |\n| 17 | Halógenos | F, Cl |\n| 18 | Gases nobles | He, Ne |\n\nDentro de un grupo, los elementos del bloque principal suelen tener los mismos electrones de valencia.\n\nEl hidrógeno está en el grupo 1, pero no es metal.\n\n**Para tu escuela:** busca en la tabla periódica el grupo del oxígeno.",
+"pizarron": "**La regla:** las columnas de la tabla periódica son grupos y las filas son periodos.\n\n**Imagínalo:** la tabla es un edificio. Las columnas son familias y los pisos son renglones.\n\n- **Periodos**: filas horizontales, 7 en total. Indican niveles de energía ocupados.\n- **Grupos**: columnas verticales, 18 en total. Sus elementos tienen propiedades parecidas.\n\nFamilias importantes:\n\n| Grupo | Nombre | Ejemplos |\n|---|---|---|\n| 1 | Metales alcalinos | Na, K |\n| 2 | Alcalinotérreos | Mg, Ca |\n| 17 | Halógenos | F, Cl |\n| 18 | Gases nobles | He, Ne |\n\nDentro de un grupo, los elementos del bloque principal suelen tener los mismos electrones de valencia.\n\nEl hidrógeno está en el grupo 1, pero no es metal.\n\n**Para tu escuela:** busca en la tabla periódica el grupo del oxígeno.",
 "truco": "Grupo es columna; periodo es fila.",
 "practica": {
 "ejercicio": "¿A qué familia pertenece el cloro?",
@@ -55,7 +55,7 @@
 ],
 "contenido": {
 "idea": "Un cable de cobre conduce la luz en tu casa, y el plástico que lo cubre no. Los elementos se clasifican según cómo se comportan.",
-"pizarron": "**Qué es:** los metales conducen y brillan, los no metales no, y los metaloides están entre ambos.\n\n| Tipo | Propiedades | Ejemplos |\n|---|---|---|\n| **Metales** | Brillo, conducen calor y electricidad, maleables | Cu, Fe, Al |\n| **No metales** | Malos conductores, frágiles si son sólidos | C, O, N, S |\n| **Metaloides** | Propiedades intermedias | Si, B, As |\n\nEn la tabla periódica:\n\n- Metales a la izquierda y centro.\n- No metales arriba a la derecha.\n- Metaloides en la línea de escalera.\n\nEl mercurio es metal líquido a temperatura ambiente.\n\nEl silicio es un metaloide clave para fabricar chips.\n\n**Para tu escuela:** clasifica cinco materiales de tu casa.",
+"pizarron": "**Qué es:** los metales conducen y brillan, los no metales no, y los metaloides están entre ambos.\n\n**Imagínalo:** una cuchara brilla y conduce el calor. Eso hace un metal.\n\n| Tipo | Propiedades | Ejemplos |\n|---|---|---|\n| **Metales** | Brillo, conducen calor y electricidad, maleables | Cu, Fe, Al |\n| **No metales** | Malos conductores, frágiles si son sólidos | C, O, N, S |\n| **Metaloides** | Propiedades intermedias | Si, B, As |\n\nEn la tabla periódica:\n\n- Metales a la izquierda y centro.\n- No metales arriba a la derecha.\n- Metaloides en la línea de escalera.\n\nEl mercurio es metal líquido a temperatura ambiente.\n\nEl silicio es un metaloide clave para fabricar chips.\n\n**Para tu escuela:** clasifica cinco materiales de tu casa.",
 "truco": "Izquierda metal; derecha no metal; escalera metaloide.",
 "practica": {
 "ejercicio": "¿Qué tipo de elemento es el aluminio?",
@@ -143,7 +143,7 @@
 ],
 "contenido": {
 "idea": "En el modelo de Bohr, los electrones ocupan pisos de energía, como en un edificio: no se quedan entre un piso y otro.",
-"pizarron": "**Qué es:** el modelo de Bohr dice que los electrones giran en niveles fijos de energía.\n\n**Modelo de Bohr** (1913):\n\n1. Los electrones giran en **niveles de energía** fijos.\n2. Cada nivel tiene una energía determinada.\n3. Al absorber energía, suben; al emitirla, bajan y liberan luz.\n\nCapacidad máxima:\n\n| Nivel | Electrones |\n|---|---|\n| 1 | 2 |\n| 2 | 8 |\n| 3 | 18 |\n\nEjemplo: sodio, 11 electrones.\n\n- Nivel 1: 2\n- Nivel 2: 8\n- Nivel 3: 1\n\nEl último nivel tiene los electrones de valencia.\n\nModelos más nuevos cambian las órbitas por regiones de probabilidad.\n\n**Para tu escuela:** dibuja el átomo de carbono con sus capas.",
+"pizarron": "**Qué es:** el modelo de Bohr dice que los electrones giran en niveles fijos de energía.\n\n**Imagínalo:** los electrones dan vueltas en pistas, como corredores alrededor de una cancha.\n\n**Modelo de Bohr** (1913):\n\n1. Los electrones giran en **niveles de energía** fijos.\n2. Cada nivel tiene una energía determinada.\n3. Al absorber energía, suben; al emitirla, bajan y liberan luz.\n\nCapacidad máxima:\n\n| Nivel | Electrones |\n|---|---|\n| 1 | 2 |\n| 2 | 8 |\n| 3 | 18 |\n\nEjemplo: sodio, 11 electrones.\n\n- Nivel 1: 2\n- Nivel 2: 8\n- Nivel 3: 1\n\nEl último nivel tiene los electrones de valencia.\n\nModelos más nuevos cambian las órbitas por regiones de probabilidad.\n\n**Para tu escuela:** dibuja el átomo de carbono con sus capas.",
 "truco": "2, 8, 8: así suelen llenarse los primeros niveles.",
 "practica": {
 "ejercicio": "Distribuye los 6 electrones del carbono.",
@@ -361,7 +361,7 @@
 ],
 "contenido": {
 "idea": "Imagina bolas de metal flotando en una alberca de electrones que se mueven libres. Ese mar mantiene todo unido y permite el paso de la corriente.",
-"pizarron": "**Qué es:** en un metal, los átomos comparten sus electrones, que se mueven libres como un mar.\n\nImagina canicas en un mar de electrones.\n\n**Por eso los metales:**\n\n- Conducen electricidad y calor.\n- Se doblan sin romperse.\n- Se hacen alambres.\n- Brillan.\n\n**Aleación:** mezcla de metales. El bronce es cobre con estaño.\n\n**Dúctil** significa que se puede estirar en hilos, como un alambre.\n\n**Para tu escuela:** dobla un alambre y di por qué no se rompe.",
+"pizarron": "**Qué es:** en un metal, los átomos comparten sus electrones, que se mueven libres como un mar.\n\n**Imagínalo:** muchas personas comparten una alberca común. Los electrones son el agua.\n\nImagina canicas en un mar de electrones.\n\n**Por eso los metales:**\n\n- Conducen electricidad y calor.\n- Se doblan sin romperse.\n- Se hacen alambres.\n- Brillan.\n\n**Aleación:** mezcla de metales. El bronce es cobre con estaño.\n\n**Dúctil** significa que se puede estirar en hilos, como un alambre.\n\n**Para tu escuela:** dobla un alambre y di por qué no se rompe.",
 "truco": "Mar de electrones: por eso conduce.",
 "practica": {
 "ejercicio": "¿Por qué los cables son de cobre?",
@@ -405,7 +405,7 @@
 ],
 "contenido": {
 "idea": "Muchos átomos quieren tener ocho electrones afuera, como los gases nobles. Es su forma de sentirse completos.",
-"pizarron": "**La regla:** los átomos tienden a ganar, perder o compartir electrones hasta tener 8 en su última capa.\n\nEs como completar un equipo de ocho jugadores.\n\n**Ejemplos:**\n\nEl sodio pierde 1.\n\nEl cloro gana 1.\n\nEl carbono comparte 4.\n\n**Excepción:** el hidrógeno se completa con 2.\n\nLos gases nobles ya están completos. Por eso casi no reaccionan.\n\n**Para tu escuela:** di cuántos electrones le faltan al oxígeno, que tiene 6.",
+"pizarron": "**La regla:** los átomos tienden a ganar, perder o compartir electrones hasta tener 8 en su última capa.\n\n**Imagínalo:** cada átomo quiere 8 lugares llenos en su mesa.\n\nEs como completar un equipo de ocho jugadores.\n\n**Ejemplos:**\n\nEl sodio pierde 1.\n\nEl cloro gana 1.\n\nEl carbono comparte 4.\n\n**Excepción:** el hidrógeno se completa con 2.\n\nLos gases nobles ya están completos. Por eso casi no reaccionan.\n\n**Para tu escuela:** di cuántos electrones le faltan al oxígeno, que tiene 6.",
 "truco": "Ocho es el número feliz, salvo el hidrógeno.",
 "practica": {
 "ejercicio": "¿Cuántos electrones debe ganar el oxígeno?",

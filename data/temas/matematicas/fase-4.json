@@ -146,7 +146,7 @@
 ],
 "contenido": {
 "idea": "Si abres una caja de cartón y la aplanas, ves varias figuras pegadas. Dobladas otra vez forman un cuerpo. Los prismas son como edificios: la misma forma arriba y abajo. Las pirámides son como carpas: abajo una forma y las paredes terminan en una punta.",
-"pizarron": "**Qué es:** un prisma tiene dos bases iguales, una arriba y otra abajo, y caras laterales rectangulares. Una pirámide tiene una base y caras triangulares que se juntan en una punta.\n\n**Prisma:** como una caja de cereal.\n\n**Pirámide:** como las de Teotihuacán.\n\nEl nombre viene de la forma de la base.\n\nBase con 3 lados: triangular.\n\nBase con 4 lados: cuadrangular.\n\n| Cuerpo | Caras | Vértices | Aristas |\n|---|---|---|---|\n| Prisma triangular | 5 | 6 | 9 |\n| Pirámide cuadrangular | 5 | 5 | 8 |\n\n**Para tu escuela:** cuenta caras, aristas y vértices de una caja.",
+"pizarron": "**Qué es:** un prisma tiene dos bases iguales, una arriba y otra abajo, y caras laterales rectangulares. Una pirámide tiene una base y caras triangulares que se juntan en una punta.\n\n**Prisma:** como una caja de cereal.\n\n**Pirámide:** como las de Teotihuacán.\n\nEl nombre viene de la forma de la base.\n\nBase con 3 lados: triangular.\n\nBase con 4 lados: cuadrangular.\n\n| Cuerpo | Caras | Vértices | Aristas |\n|---|---|---|---|\n| Prisma triangular | 5 | 6 | 9 |\n| Pirámide cuadrangular | 5 | 5 | 8 |\n\n**Cuenta rápido:** una pirámide tiene tantas caras laterales como lados su base, más la base.\n\n**Para tu escuela:** cuenta caras, aristas y vértices de una caja.",
 "truco": "**Prisma = dos tapas; pirámide = una tapa y punta.** Mira la base y ya tienes el apellido.",
 "practica": {
 "ejercicio": "¿Cuántas caras tiene una pirámide de base hexagonal?",
@@ -371,7 +371,7 @@
 ],
 "contenido": {
 "idea": "Una gráfica es una foto de muchos datos. En vez de leer 30 respuestas, miras las barras y sabes cuál ganó. La moda es exactamente eso: lo que más se repite, igual que la ropa que usa casi todo el mundo se llama \"de moda\".",
-"pizarron": "**Qué es:** la frecuencia es cuántas veces aparece un dato. La moda es el dato que más se repite.\n\n**Ejemplo:** estos son los hermanos de seis niños: 3, 5, 3, 2, 3, 5.\n\nCuenta cuántas veces sale cada número.\n\n| Dato | Frecuencia |\n|---|---|\n| 2 | 1 |\n| 3 | 3 |\n| 5 | 2 |\n\nEl 3 sale más veces. La **moda** es 3.\n\nEn una gráfica de barras, cada barra es un dato. La barra más alta muestra la moda.\n\n**Para tu escuela:** haz una gráfica del deporte favorito de tu salón.",
+"pizarron": "**Qué es:** la frecuencia es cuántas veces aparece un dato. La moda es el dato que más se repite.\n\n**Ejemplo:** estos son los hermanos de seis niños: 3, 5, 3, 2, 3, 5.\n\nCuenta cuántas veces sale cada número.\n\n| Dato | Frecuencia |\n|---|---|\n| 2 | 1 |\n| 3 | 3 |\n| 5 | 2 |\n\nEl 3 sale más veces. La **moda** es 3.\n\nEn una gráfica de barras, cada barra es un dato. La barra más alta muestra la moda.\n\nLa moda también sirve con palabras, como un color. Puede haber dos modas si dos datos empatan.\n\n**Para tu escuela:** haz una gráfica del deporte favorito de tu salón.",
 "truco": "**Moda = lo que más se usa.** Busca el dato más repetido, no el más grande.",
 "practica": {
 "ejercicio": "Halla la moda de: 7, 8, 8, 9, 8, 7.",

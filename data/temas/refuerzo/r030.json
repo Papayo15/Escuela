@@ -57,11 +57,11 @@
 ],
 "contenido": {
 "idea": "En un laboratorio todos deben medir igual, como en una receta que comparte el mundo entero. Por eso se usan unidades internacionales.",
-"pizarron": "**Qué es:** en química se usan unidades como gramo, mililitro y mol para medir cuánta materia hay.\n\nUnidades frecuentes:\n\n| Magnitud | Unidad | Equivalencia |\n|---|---|---|\n| Masa | g, kg | 1 kg = 1000 g |\n| Volumen | L, mL | 1 L = 1000 mL |\n| Temperatura | °C, K | K = °C + 273 |\n| Cantidad | mol | - |\n\nEquivalencia útil: 1 mL = 1 cm³.\n\nEjemplo: 25 °C son 298 K.\n\nEjemplo: 0.5 L son 500 mL.\n\nPara convertir:\n\n- De unidad grande a chica: multiplica.\n- De chica a grande: divide.\n\n**Para tu escuela:** lee las unidades en la etiqueta de un jugo.",
+"pizarron": "**Qué es:** en química se usan unidades como gramo, mililitro y mol para medir cuánta materia hay.\n\n**Imagínalo:** una receta dice cuánto de cada cosa. En química también se mide todo.\n\nUnidades frecuentes:\n\n| Magnitud | Unidad | Equivalencia |\n|---|---|---|\n| Masa | g, kg | 1 kg = 1000 g |\n| Volumen | L, mL | 1 L = 1000 mL |\n| Temperatura | °C, K | K = °C + 273 |\n| Cantidad | mol | - |\n\nEquivalencia útil: 1 mL = 1 cm³.\n\nEjemplo: 25 °C son 298 K.\n\nEjemplo: 0.5 L son 500 mL.\n\nPara convertir:\n\n- De unidad grande a chica: multiplica.\n- De chica a grande: divide.\n\n**Para tu escuela:** lee las unidades en la etiqueta de un jugo.",
 "truco": "Kelvin es Celsius más 273.",
 "practica": {
-"ejercicio": "Convierte 2.5 kg a gramos.",
-"respuesta": "2500 g"
+"ejercicio": "Convierte 1.5 kg a gramos.",
+"respuesta": "1500 g."
 },
 "analogias": [
 {
@@ -101,7 +101,7 @@
 ],
 "contenido": {
 "idea": "Colar el café, esperar que el lodo se asiente en un vaso y secar agua salada al sol son métodos para separar mezclas que ya usas en casa.",
-"pizarron": "**Qué es:** son métodos físicos para separar mezclas: filtrar, dejar asentar y evaporar.\n\nEstos métodos separan mezclas sin cambiar las sustancias.\n\n**Filtración**: sólido insoluble y líquido. Un filtro retiene el sólido.\n\n- Ejemplo: arena y agua.\n\n**Decantación**: líquidos inmiscibles, o sólido asentado. Se aprovecha la diferencia de densidad.\n\n- Ejemplo: agua y aceite con embudo de separación.\n\n**Evaporación**: sólido disuelto en líquido. El líquido se evapora y el sólido queda.\n\n- Ejemplo: sal en agua, en las salinas.\n\nElige el método según las propiedades de los componentes.\n\n**Para tu escuela:** separa arena y agua con un filtro de café.",
+"pizarron": "**Qué es:** son métodos físicos para separar mezclas: filtrar, dejar asentar y evaporar.\n\n**Imagínalo:** un colador deja pasar el agua y atrapa la pasta.\n\nEstos métodos separan mezclas sin cambiar las sustancias.\n\n**Filtración**: sólido insoluble y líquido. Un filtro retiene el sólido.\n\n- Ejemplo: arena y agua.\n\n**Decantación**: líquidos inmiscibles, o sólido asentado. Se aprovecha la diferencia de densidad.\n\n- Ejemplo: agua y aceite con embudo de separación.\n\n**Evaporación**: sólido disuelto en líquido. El líquido se evapora y el sólido queda.\n\n- Ejemplo: sal en agua, en las salinas.\n\nElige el método según las propiedades de los componentes.\n\n**Para tu escuela:** separa arena y agua con un filtro de café.",
 "truco": "Colar, esperar y secar.",
 "practica": {
 "ejercicio": "¿Qué método separa arena de agua?",
@@ -145,7 +145,7 @@
 ],
 "contenido": {
 "idea": "Si dibujas con plumón en papel y lo mojas, los colores corren y se separan. Es una cromatografía casera.",
-"pizarron": "**Qué es:** la destilación separa por punto de ebullición, y la cromatografía por cómo avanza cada sustancia.\n\n**Destilación**: separa líquidos con distinto **punto de ebullición**.\n\n1. Se calienta la mezcla.\n2. El líquido más volátil se evapora primero.\n3. El vapor se enfría y se condensa.\n\nEjemplo: separar alcohol y agua; el alcohol hierve cerca de 78 °C y el agua a 100 °C.\n\nTambién se obtiene agua destilada y se refina petróleo.\n\n**Cromatografía**: separa componentes según cuánto se desplazan sobre un material.\n\nEjemplo: pigmentos de una tinta sobre papel, usando un disolvente.\n\nCada componente avanza a distinta velocidad.\n\n**Para tu escuela:** separa los colores de un plumón con papel y agua.",
+"pizarron": "**Qué es:** la destilación separa por punto de ebullición, y la cromatografía por cómo avanza cada sustancia.\n\n**Imagínalo:** el agua hierve, sube como vapor y gotea limpia en otro lado.\n\n**Destilación**: separa líquidos con distinto **punto de ebullición**.\n\n1. Se calienta la mezcla.\n2. El líquido más volátil se evapora primero.\n3. El vapor se enfría y se condensa.\n\nEjemplo: separar alcohol y agua; el alcohol hierve cerca de 78 °C y el agua a 100 °C.\n\nTambién se obtiene agua destilada y se refina petróleo.\n\n**Cromatografía**: separa componentes según cuánto se desplazan sobre un material.\n\nEjemplo: pigmentos de una tinta sobre papel, usando un disolvente.\n\nCada componente avanza a distinta velocidad.\n\n**Para tu escuela:** separa los colores de un plumón con papel y agua.",
 "truco": "Destilar es hervir y volver a enfriar.",
 "practica": {
 "ejercicio": "¿Qué propiedad aprovecha la destilación?",
@@ -322,7 +322,7 @@
 ],
 "contenido": {
 "idea": "Un hielo se derrite, el agua hierve y el vapor empaña un espejo. Es la misma sustancia, pero sus partículas se mueven más o menos.",
-"pizarron": "**Qué es:** un cambio de estado ocurre cuando la materia gana o pierde calor y pasa de sólido a líquido o gas.\n\nNombres de los cambios:\n\n| De | A | Se llama |\n|---|---|---|\n| Sólido | Líquido | Fusión |\n| Líquido | Gas | Vaporización |\n| Gas | Líquido | Condensación |\n| Líquido | Sólido | Solidificación |\n| Sólido | Gas | Sublimación |\n| Gas | Sólido | Sublimación inversa |\n\nModelo de partículas: al calentar, las partículas se mueven más y se separan.\n\nEl agua pura funde a 0 °C y hierve a 100 °C a nivel del mar.\n\nEs un cambio **físico**: no aparecen sustancias nuevas.\n\n**Para tu escuela:** observa un hielo derretirse y nombra el cambio.",
+"pizarron": "**Qué es:** un cambio de estado ocurre cuando la materia gana o pierde calor y pasa de sólido a líquido o gas.\n\n**Imagínalo:** una paleta se derrite al sol, y en el congelador se vuelve a endurecer.\n\nNombres de los cambios:\n\n| De | A | Se llama |\n|---|---|---|\n| Sólido | Líquido | Fusión |\n| Líquido | Gas | Vaporización |\n| Gas | Líquido | Condensación |\n| Líquido | Sólido | Solidificación |\n| Sólido | Gas | Sublimación |\n| Gas | Sólido | Sublimación inversa |\n\nModelo de partículas: al calentar, las partículas se mueven más y se separan.\n\nEl agua pura funde a 0 °C y hierve a 100 °C a nivel del mar.\n\nEs un cambio **físico**: no aparecen sustancias nuevas.\n\n**Para tu escuela:** observa un hielo derretirse y nombra el cambio.",
 "truco": "Si absorbe calor, las partículas se sueltan.",
 "practica": {
 "ejercicio": "¿Cómo se llama el paso de vapor a líquido?",

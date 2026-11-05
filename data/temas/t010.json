@@ -59,7 +59,7 @@
 ],
 "contenido": {
 "idea": "La Tierra es como una casa con cuatro cuartos conectados: si tiras basura en uno, el mal olor llega a los demás.",
-"pizarron": "**Qué es:** el deterioro ambiental es el daño al aire, agua, suelo y seres vivos por lo que hacemos.\n\nLa Tierra tiene cuatro partes conectadas: atmósfera, hidrosfera, litosfera y biosfera.\n\nTocas una y se mueven las demás.\n\nSi talas un bosque, se erosiona el suelo y se ensucia el río.\n\n**Escalas:**\n\n- Local: un río sucio.\n- Regional: una sequía.\n- Global: calentamiento.\n\n**Para tu escuela:** describe un daño ambiental cerca de ti y a qué parte afecta.",
+"pizarron": "**Qué es:** el deterioro ambiental es el daño al aire, agua, suelo y seres vivos por lo que hacemos.\n\n**Imagínalo:** tu casa, si nadie la limpia y todos ensucian.\n\nLa Tierra tiene cuatro partes conectadas: atmósfera, hidrosfera, litosfera y biosfera.\n\nTocas una y se mueven las demás.\n\nSi talas un bosque, se erosiona el suelo y se ensucia el río.\n\n**Escalas:**\n\n- Local: un río sucio.\n- Regional: una sequía.\n- Global: calentamiento.\n\nUn derrame daña primero el agua. Luego daña a los seres vivos, como peces y aves.\n\n**Para tu escuela:** describe un daño ambiental cerca de ti y a qué parte afecta.",
 "truco": "Aire, agua, suelo, vida: todo conectado.",
 "practica": {
 "ejercicio": "Un derrame de aceite llega al mar. ¿Qué subsistema se daña primero y cuál más?",
@@ -214,16 +214,16 @@
 ],
 "ejercicios": [
 {
-"ejercicio": "Balancea: $\\ce{H2 + O2 -> H2O}$.",
-"respuesta": "$\\ce{2H2 + O2 -> 2H2O}$"
+"ejercicio": "Balancea: $\\ce{Ca + O2 -> CaO}$.",
+"respuesta": "$\\ce{2Ca + O2 -> 2CaO}$"
 },
 {
-"ejercicio": "Balancea: $\\ce{N2 + H2 -> NH3}$.",
-"respuesta": "$\\ce{N2 + 3H2 -> 2NH3}$"
+"ejercicio": "Balancea: $\\ce{H2 + Cl2 -> HCl}$.",
+"respuesta": "$\\ce{H2 + Cl2 -> 2HCl}$"
 },
 {
-"ejercicio": "Balancea: $\\ce{Fe + O2 -> Fe2O3}$.",
-"respuesta": "$\\ce{4Fe + 3O2 -> 2Fe2O3}$"
+"ejercicio": "Balancea: $\\ce{Al + O2 -> Al2O3}$.",
+"respuesta": "$\\ce{4Al + 3O2 -> 2Al2O3}$"
 }
 ]
 }

@@ -16,8 +16,8 @@
 "pizarron": "**Qué es:** una reacción química transforma unas sustancias, los reactivos, en otras, los productos.\n\n**Imagínalo:** hacer un pastel. Al hornear, ya no regresas a huevo y harina.\n\n$$\\ce{2H2 + O2 -> 2H2O}$$\n\n**En palabras:** hidrógeno y oxígeno producen agua.\n\n**Coeficiente:** el número grande de adelante. **Subíndice:** el pequeño, que no se cambia.\n\n**Para balancear:**\n\n1. Cuenta los átomos de cada lado.\n2. Cambia solo los coeficientes.\n3. Deja oxígeno e hidrógeno al final.\n\n**Para revisar:** multiplica coeficiente por subíndice.\n\n**Señales:** cambio de color, burbujas, luz o calor.\n\n**Para tu escuela:** busca una reacción en tu cocina.",
 "truco": "Lo que entra es lo que sale: mismos átomos antes y después.",
 "practica": {
-"ejercicio": "Balancea: $\\ce{N2 + H2 -> NH3}$",
-"respuesta": "$\\ce{N2 + 3H2 -> 2NH3}$. Hay 2 átomos de N y 6 de H en cada lado."
+"ejercicio": "Balancea: $\\ce{Mg + O2 -> MgO}$",
+"respuesta": "$\\ce{2Mg + O2 -> 2MgO}$. Hay 2 Mg y 2 O en cada lado."
 },
 "analogias": [
 {

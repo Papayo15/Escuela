@@ -12,7 +12,7 @@
 ],
 "contenido": {
 "idea": "Tu cuerpo es como un coche que necesita distintos tipos de combustible. Si solo le das dulces, se atora; si le das de todo un poco, corre bien todo el día.",
-"pizarron": "**Qué es:** el Plato del Bien Comer muestra tres grupos de alimentos.\n\n1. **Verduras y frutas:** vitaminas.\n2. **Cereales:** energía.\n3. **Leguminosas y origen animal:** construyen tu cuerpo.\n\nCome de los tres en cada comida.\n\n**Ejemplo:** tortilla, frijoles y ensalada.\n\n**Para tu escuela:** clasifica tu desayuno en los tres grupos.",
+"pizarron": "**Qué es:** el Plato del Bien Comer muestra tres grupos de alimentos.\n\n1. **Verduras y frutas:** vitaminas.\n2. **Cereales:** energía.\n3. **Leguminosas y origen animal:** construyen tu cuerpo.\n\nCome de los tres en cada comida.\n\n**Ejemplo:** tortilla, frijoles y ensalada.\n\n**Fruta de temporada:** cuesta menos porque abunda, y viaja menos.\n\n**Para tu escuela:** clasifica tu desayuno en los tres grupos.",
 "truco": "Tres grupos en cada comida: color, energía y fuerza.",
 "practica": {
 "ejercicio": "Arma un desayuno con un alimento de cada grupo del Plato del Bien Comer.",
@@ -76,8 +76,8 @@
 ],
 "ejercicios": [
 {
-"ejercicio": "¿Qué necesita una planta para realizar la fotosíntesis?",
-"respuesta": "Luz solar, agua y dióxido de carbono."
+"ejercicio": "¿Por dónde toma agua una planta?",
+"respuesta": "Por sus raíces."
 },
 {
 "ejercicio": "Menciona un animal que vuela, uno que nada y uno que camina.",
@@ -149,7 +149,7 @@
 ],
 "contenido": {
 "idea": "Si en tu casa tiras basura al piso, pronto huele mal y te enfermas. La Tierra es una casa más grande: lo que ensuciamos regresa a nosotros.",
-"pizarron": "**Qué es:** algunas cosas que hacemos dañan la naturaleza y también nuestra salud.\n\n**Tala:** los animales se quedan sin casa.\n\n**Agua sucia:** causa enfermedades.\n\n**Humo:** daña los pulmones.\n\n**Basura:** atrae plagas.\n\n**Las 3 R:** reduce, reutiliza y recicla.\n\n**Para tu escuela:** separa la basura de tu salón por un día.",
+"pizarron": "**Qué es:** algunas cosas que hacemos dañan la naturaleza y también nuestra salud.\n\n**Tala:** los animales se quedan sin casa.\n\n**Agua sucia:** causa enfermedades.\n\n**Humo:** daña los pulmones.\n\n**Basura:** atrae plagas.\n\n**Las 3 R:** reduce, reutiliza y recicla.\n\nEl aire sucio causa tos y asma.\n\n**Para tu escuela:** separa la basura de tu salón por un día.",
 "truco": "Reducir, reutilizar, reciclar: las 3R.",
 "practica": {
 "ejercicio": "Escribe tres acciones que puedes hacer en casa para cuidar el agua.",
@@ -223,8 +223,8 @@
 "respuesta": "Evaporación."
 },
 {
-"ejercicio": "Convierte 250 cm a metros.",
-"respuesta": "250 ÷ 100 = 2.5 m."
+"ejercicio": "Convierte 150 cm a metros.",
+"respuesta": "150 ÷ 100 = 1.5 m."
 }
 ]
 }
@@ -335,7 +335,7 @@
 ],
 "contenido": {
 "idea": "Imagina que giras con una linterna: la pared que alumbras tiene luz y la otra queda oscura. La Tierra gira frente al Sol y por eso hay día y noche.",
-"pizarron": "**La regla:** la Tierra gira sobre sí misma y alrededor del Sol, y la Luna gira alrededor de la Tierra.\n\n**Rotación:** da una vuelta en 24 horas. Causa el día y la noche.\n\n**Traslación:** da la vuelta al Sol en 365 días. Es un año.\n\n**Luna:** cambia de fase en unos 29 días y medio. Refleja luz del Sol.\n\n**Eclipse:** se alinean los tres.\n\n**Eclipse de Sol:** la Luna se pone entre el Sol y la Tierra, y tapa la luz.\n\n**Para tu escuela:** usa una pelota y una lámpara para mostrar el día y la noche.",
+"pizarron": "**La regla:** la Tierra gira sobre sí misma y alrededor del Sol, y la Luna gira alrededor de la Tierra.\n\n**Rotación:** da una vuelta en 24 horas. Causa el día y la noche.\n\n**Traslación:** da la vuelta al Sol en 365 días. Es un año.\n\n**Luna:** cambia de fase en unos 29 días y medio. Refleja luz del Sol.\n\n**Eclipse:** se alinean los tres.\n\n**Eclipse de Sol:** la Luna se pone entre el Sol y la Tierra, y tapa la luz.\n\nUna rotación dura un día. Una traslación dura cerca de 365 días.\n\n**Para tu escuela:** usa una pelota y una lámpara para mostrar el día y la noche.",
 "truco": "Rotación = día y noche; traslación = año y estaciones.",
 "practica": {
 "ejercicio": "¿Cuántos días de rotación hay en una traslación completa aproximadamente?",
@@ -404,8 +404,8 @@
 "respuesta": "El corazón."
 },
 {
-"ejercicio": "¿Para qué sirven las vacunas?",
-"respuesta": "Preparan al sistema inmunológico para defenderse de ciertas enfermedades."
+"ejercicio": "¿Qué sistema defiende al cuerpo de los microbios?",
+"respuesta": "El sistema inmune."
 },
 {
 "ejercicio": "Menciona dos acciones que cuidan tus pulmones.",

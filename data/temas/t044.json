@@ -13,7 +13,7 @@
 ],
 "contenido": {
 "idea": "Un celular es como una persona: el hardware es su cuerpo (pantalla, batería, chip) y el software es lo que sabe hacer (las instrucciones). Un cuerpo sin ideas no hace nada, y las ideas sin cuerpo no se pueden usar.",
-"pizarron": "**Qué es:** el hardware es lo que puedes tocar. El software son los programas.\n\nComo cuerpo y mente.\n\n**Hardware:** procesador, memoria y pantalla.\n\n**Software:** sistema operativo y aplicaciones.\n\n**Evolución:** las primeras computadoras llenaban un cuarto. Hoy caben en tu mano, gracias a los transistores.\n\n**Sistema operativo:** administra el equipo. **Aplicación:** hace una tarea para ti.\n\n**Para tu escuela:** clasifica: teclado, navegador, memoria y Android.",
+"pizarron": "**Qué es:** el hardware es lo que puedes tocar. El software son los programas.\n\n**Imagínalo:** el hardware es tu cuerpo y el software lo que sabes hacer.\n\nComo cuerpo y mente.\n\n**Hardware:** procesador, memoria y pantalla.\n\n**Software:** sistema operativo y aplicaciones.\n\n**Evolución:** las primeras computadoras llenaban un cuarto. Hoy caben en tu mano, gracias a los transistores.\n\n**Sistema operativo:** administra el equipo. **Aplicación:** hace una tarea para ti.\n\n**Equipos que envejecen rápido:** dan más funciones, pero dejan más basura electrónica.\n\n**Para tu escuela:** clasifica: teclado, navegador, memoria y Android.",
 "truco": "Hardware se golpea, software se maldice.",
 "practica": {
 "ejercicio": "Clasifica como hardware o software: memoria USB, Excel, ratón, Android.",
@@ -60,7 +60,7 @@
 ],
 "contenido": {
 "idea": "Una licencia es como las reglas para usar un juguete prestado. Algunos juguetes solo puedes usarlos, sin abrirlos; otros te dejan abrirlos, cambiarlos y compartirlos con tus amigos.",
-"pizarron": "**Qué es:** una licencia es el permiso que dice qué puedes hacer con un programa.\n\n**Privativa:** no puedes ver ni cambiar el código.\n\n**Libre:** puedes usar, estudiar, copiar y mejorar. Linux y LibreOffice.\n\nLibre no siempre significa gratis.\n\nAntes de instalar, revisa si tu equipo cumple los requisitos.\n\n**Antes de aceptar:** revisa qué usos permite, su costo y qué datos pide.\n\n**Para tu escuela:** busca un programa libre para hacer presentaciones.",
+"pizarron": "**Qué es:** una licencia es el permiso que dice qué puedes hacer con un programa.\n\n**Imagínalo:** una licencia es el reglamento de un juego prestado.\n\n**Privativa:** no puedes ver ni cambiar el código.\n\n**Libre:** puedes usar, estudiar, copiar y mejorar. Linux y LibreOffice.\n\nLibre no siempre significa gratis.\n\nAntes de instalar, revisa si tu equipo cumple los requisitos.\n\n**Antes de aceptar:** revisa qué usos permite, su costo y qué datos pide.\n\n**Libre** no significa gratis: habla de tu libertad de usar el programa.\n\n**Requerimientos:** si una app pide más memoria de la que tienes, falla el hardware.\n\n**Para tu escuela:** busca un programa libre para hacer presentaciones.",
 "truco": "Privativo: solo usar. Libre: usar, estudiar, copiar y mejorar.",
 "practica": {
 "ejercicio": "¿Puede alguien vender un programa de licencia libre?",
@@ -107,7 +107,7 @@
 ],
 "contenido": {
 "idea": "Un algoritmo es como las instrucciones para hacer un sándwich: primero el pan, luego el jamón, al final lo cierras. Si cambias el orden o te saltas un paso, no sale bien.",
-"pizarron": "**Qué es:** un algoritmo son pasos ordenados para resolver un problema, como una receta.\n\n1. **Entrada:** los datos.\n2. **Proceso:** lo que se hace.\n3. **Salida:** el resultado.\n\n**Condicional:** si pasa algo, haz esto. Si no, haz lo otro. En un diagrama de flujo se dibuja como un rombo.\n\n**Ciclo:** repite.\n\n**Ejemplo, promedio:** entrada 8 y 10. Proceso: $18 \\div 2$. Salida: 9.\n\n**Ejemplo con condicional:** si tengo hambre, como. Si no, sigo jugando.\n\n**Par o impar:** si al dividir entre 2 sobra 0, es par.\n\n**Para tu escuela:** escribe el algoritmo para hacer un sándwich.",
+"pizarron": "**Qué es:** un algoritmo son pasos ordenados para resolver un problema, como una receta.\n\n**Imagínalo:** una receta para que la entienda una computadora.\n\n1. **Entrada:** los datos.\n2. **Proceso:** lo que se hace.\n3. **Salida:** el resultado.\n\n**Condicional:** si pasa algo, haz esto. Si no, haz lo otro. En un diagrama de flujo se dibuja como un rombo.\n\n**Ciclo:** repite.\n\n**Ejemplo, promedio:** entrada 8 y 10. Proceso: $18 \\div 2$. Salida: 9.\n\n**Ejemplo con condicional:** si tengo hambre, como. Si no, sigo jugando.\n\n**Par o impar:** si al dividir entre 2 sobra 0, es par.\n\n**Para tu escuela:** escribe el algoritmo para hacer un sándwich.",
 "truco": "Entrada, proceso, salida: tres pasos y listo.",
 "practica": {
 "ejercicio": "Escribe un algoritmo para decidir si llevas paraguas.",
@@ -154,7 +154,7 @@
 ],
 "contenido": {
 "idea": "Es como elegir entre comprar siempre en una tienda de marca o probar el mercado de la colonia, donde hay cosas igual de buenas y que puedes usar sin pedir permiso.",
-"pizarron": "**Qué es:** el software libre es una alternativa a los programas de pago.\n\n**Ejemplos:**\n\n- Office: **LibreOffice**.\n- Photoshop: **GIMP**.\n- Windows: **Linux**.\n\n**SaaS:** programas que usas por internet, a veces con pago mensual.\n\n**Compara:** costo, facilidad y privacidad.\n\n**Software como servicio:** programa que usas por internet, casi siempre con suscripción.\n\n**Para tu escuela:** abre un archivo en dos programas y compara.",
+"pizarron": "**Qué es:** el software libre es una alternativa a los programas de pago.\n\n**Imagínalo:** una receta que todos pueden leer y mejorar.\n\n**Ejemplos:**\n\n- Office: **LibreOffice**.\n- Photoshop: **GIMP**.\n- Windows: **Linux**.\n\n**SaaS:** programas que usas por internet, a veces con pago mensual.\n\n**Compara:** costo, facilidad y privacidad.\n\n**Software como servicio:** programa que usas por internet, casi siempre con suscripción.\n\nMuchas opciones libres cubren lo básico y no cuestan.\n\n**Para tu escuela:** abre un archivo en dos programas y compara.",
 "truco": "Antes de pagar, busca la alternativa libre.",
 "practica": {
 "ejercicio": "Nombra una alternativa libre para editar imágenes y otra para escribir documentos.",
@@ -201,7 +201,7 @@
 ],
 "contenido": {
 "idea": "Internet es como una gran plaza pública: hay reglas para convivir y cuidarnos. No entrarías a la casa de otro sin permiso, y en línea tampoco debes tomar lo que no es tuyo.",
-"pizarron": "**Qué es:** en internet también hay reglas. Protegen tus datos y a las demás personas.\n\n**Buenas prácticas:**\n\n1. Contraseñas largas y distintas.\n2. Lee el aviso de privacidad.\n3. No subas fotos de otros sin permiso.\n4. Desconfía de enlaces raros.\n5. Reporta el acoso y guarda pruebas.\n\n**Fotos:** no publiques la de otra persona sin su permiso. Puedes dañarla.\n\n**Para tu escuela:** revisa una aplicación y di qué datos te pide.",
+"pizarron": "**Qué es:** en internet también hay reglas. Protegen tus datos y a las demás personas.\n\n**Imagínalo:** internet es una ciudad, y también tiene reglas.\n\n**Buenas prácticas:**\n\n1. Contraseñas largas y distintas.\n2. Lee el aviso de privacidad.\n3. No subas fotos de otros sin permiso.\n4. Desconfía de enlaces raros.\n5. Reporta el acoso y guarda pruebas.\n\n**Fotos:** no publiques la de otra persona sin su permiso. Puedes dañarla.\n\n**Phishing:** engaño para robar datos. No respondas y repórtalo.\n\n**Contraseña:** larga, con letras, números y símbolos, y distinta en cada cuenta.\n\n**Para tu escuela:** revisa una aplicación y di qué datos te pide.",
 "truco": "Piensa, verifica y pide permiso antes de compartir.",
 "practica": {
 "ejercicio": "Recibes un mensaje que dice que ganaste un premio y pide tu contraseña. ¿Qué haces?",
@@ -247,7 +247,7 @@
 ],
 "contenido": {
 "idea": "Usar la tecnología es como usar la regadera: sirve mucho, pero si la dejas abierta sin necesidad desperdicias agua. Se aprovecha, pero con cuidado de ti y del planeta.",
-"pizarron": "**Qué es:** es usar aplicaciones y redes con provecho, con seguridad y cuidando el ambiente.\n\n**Para qué:** comunicarte, estudiar y participar.\n\n**Seguridad:** cuida tus datos, verifica fuentes y cierra sesión.\n\n**Ambiente:** los aparatos gastan energía y dejan basura. Apaga lo que no uses y repara antes de cambiar.\n\n**Reparar:** hay menos basura electrónica y se gastan menos materiales.\n\n**Para tu escuela:** anota cuánto usas el teléfono hoy y pon un límite.",
+"pizarron": "**Qué es:** es usar aplicaciones y redes con provecho, con seguridad y cuidando el ambiente.\n\n**Imagínalo:** tu celular también deja basura cuando lo tiras.\n\n**Para qué:** comunicarte, estudiar y participar.\n\n**Seguridad:** cuida tus datos, verifica fuentes y cierra sesión.\n\n**Ambiente:** los aparatos gastan energía y dejan basura. Apaga lo que no uses y repara antes de cambiar.\n\n**Reparar:** hay menos basura electrónica y se gastan menos materiales.\n\n**Para tu escuela:** anota cuánto usas el teléfono hoy y pon un límite.",
 "truco": "Úsalo con cuidado: tú, los demás y el planeta.",
 "practica": {
 "ejercicio": "Da una acción digital para cuidar el ambiente.",
@@ -339,7 +339,7 @@
 ],
 "contenido": {
 "idea": "La tecnología es como una carretera nueva en el pueblo: acerca a la gente y trae cosas buenas, pero si solo llega a unas colonias, otras se quedan atrás.",
-"pizarron": "**Qué es:** la tecnología cambia cómo trabajamos, estudiamos y convivimos.\n\n**Lo bueno:** información, educación a distancia y trámites.\n\n**Lo malo:** noticias falsas, adicción y ciberacoso.\n\n**Brecha digital:** no todos tienen internet.\n\n**Pregunta:** ¿a quién beneficia?, ¿a quién deja fuera?\n\n**Brecha digital:** unos tienen internet y otros no. Una comunidad sin conexión no puede tomar clases en línea.\n\n**Política de información:** reglas sobre cómo se comparte y se protege la información.\n\n**Para tu escuela:** anota un beneficio y un riesgo de tu teléfono.",
+"pizarron": "**Qué es:** la tecnología cambia cómo trabajamos, estudiamos y convivimos.\n\n**Imagínalo:** tus abuelos mandaban cartas. Tú mandas un mensaje en un segundo.\n\n**Lo bueno:** información, educación a distancia y trámites.\n\n**Lo malo:** noticias falsas, adicción y ciberacoso.\n\n**Brecha digital:** no todos tienen internet.\n\n**Pregunta:** ¿a quién beneficia?, ¿a quién deja fuera?\n\n**Brecha digital:** unos tienen internet y otros no. Una comunidad sin conexión no puede tomar clases en línea.\n\n**Política de información:** reglas sobre cómo se comparte y se protege la información.\n\n**Para tu escuela:** anota un beneficio y un riesgo de tu teléfono.",
 "truco": "Pregunta siempre: ¿a quién ayuda y a quién deja fuera?",
 "practica": {
 "ejercicio": "Define brecha digital con un ejemplo.",
@@ -387,7 +387,7 @@
 ],
 "contenido": {
 "idea": "Internet es como un sistema de carreteras entre pueblos: las redes son los caminos, las plataformas son las plazas donde nos encontramos y la IA es un ayudante muy rápido que hay que saber dirigir.",
-"pizarron": "**Qué es:** una red une aparatos para pasar datos. Las plataformas sirven para comunicarse. La IA genera textos o imágenes.\n\n**Reglas para usarlas:**\n\n1. Compara con varias fuentes.\n2. Cita a los autores y avisa si usaste IA.\n3. No des datos personales.\n4. Respeta a los demás.\n\nLa IA puede equivocarse.\n\n**Para tu escuela:** pide un dato a una IA y compruébalo en otra fuente.",
+"pizarron": "**Qué es:** una red une aparatos para pasar datos. Las plataformas sirven para comunicarse. La IA genera textos o imágenes.\n\n**Imagínalo:** carreteras que unen aparatos para pasar datos.\n\n**Reglas para usarlas:**\n\n1. Compara con varias fuentes.\n2. Cita a los autores y avisa si usaste IA.\n3. No des datos personales.\n4. Respeta a los demás.\n\nLa IA puede equivocarse.\n\n**Para tu escuela:** pide un dato a una IA y compruébalo en otra fuente.",
 "truco": "Verifica, cita y cuida los datos.",
 "practica": {
 "ejercicio": "Una IA te da un dato. ¿Qué debes hacer antes de usarlo en una tarea?",

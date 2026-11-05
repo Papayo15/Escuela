@@ -58,7 +58,7 @@
 ],
 "contenido": {
 "idea": "Si empujas un carrito de juguete sobre un piso muy liso, sigue rodando sin que lo empujes más. Y si lo sueltas desde una mesa, cae cada vez más rápido.",
-"pizarron": "**La ley:** sin fuerza neta, un cuerpo sigue igual. Con fuerza neta, acelera.\n\n**Primera ley:** una pelota quieta se queda quieta hasta que la empujas. Si nada la frena, sigue igual. Eso es movimiento uniforme.\n\n$$d = v\\,t$$\n\n**En palabras:** distancia es velocidad por tiempo. A 3 m/s durante 4 s avanzas 12 m.\n\n**Segunda ley:** $F = m\\,a$. **En palabras:** fuerza es masa por aceleración. Mover un carrito lleno cuesta más que uno vacío.\n\nLa fuerza se mide en newtons (N). Con 4 kg y 2 m/s², son 8 N.\n\n**Caída libre:** sin aire, todo cae igual. Cada segundo gana 10 m/s de velocidad. Por eso $g = 10$.\n\n$$v = g\\,t \\qquad d = \\tfrac{1}{2} g\\,t^2$$\n\n**En palabras:** velocidad es 10 por el tiempo. Distancia es la mitad de 10 por el tiempo dos veces.\n\nA los 4 s: $v = 40$ m/s y $d = 5 \\times 4 \\times 4 = 80$ m.\n\n**Para tu escuela:** suelta una hoja y una pelota, y di por qué el aire cambia el resultado.",
+"pizarron": "**La ley:** sin fuerza neta, un cuerpo sigue igual. Con fuerza neta, acelera.\n\n**Imagínalo:** una pelota quieta, otra empujada y otra que cae.\n\n**Primera ley:** una pelota quieta se queda quieta hasta que la empujas. Si nada la frena, sigue igual. Eso es movimiento uniforme.\n\n$$d = v\\,t$$\n\n**En palabras:** distancia es velocidad por tiempo. A 3 m/s durante 4 s avanzas 12 m.\n\n**Segunda ley:** $F = m\\,a$. **En palabras:** fuerza es masa por aceleración. Mover un carrito lleno cuesta más que uno vacío.\n\nLa fuerza se mide en newtons (N). Con 4 kg y 2 m/s², son 8 N.\n\n**Caída libre:** sin aire, todo cae igual. Cada segundo gana 10 m/s de velocidad. Por eso $g = 10$.\n\n$$v = g\\,t \\qquad d = \\tfrac{1}{2} g\\,t^2$$\n\n**En palabras:** velocidad es 10 por el tiempo. Distancia es la mitad de 10 por el tiempo dos veces.\n\nA los 4 s: $v = 40$ m/s y $d = 5 \\times 4 \\times 4 = 80$ m.\n\n**Para tu escuela:** suelta una hoja y una pelota, y di por qué el aire cambia el resultado.",
 "truco": "Sin fuerza, velocidad constante; con fuerza, F = m·a.",
 "practica": {
 "ejercicio": "Un objeto cae desde el reposo durante 2 s. ¿Qué velocidad lleva? (g = 10 m/s²)",
@@ -196,7 +196,7 @@
 ],
 "contenido": {
 "idea": "Cuando te ves en un espejo, la luz rebota como una pelota contra la pared. En una alberca, el fondo parece más cerca porque la luz se dobla al salir del agua.",
-"pizarron": "**Qué es:** la luz es una onda que viaja en línea recta y muy rápido.\n\n**Reflexión:** rebota. Sale con el mismo ángulo con que llegó.\n\n**Refracción:** se desvía al cambiar de material.\n\n**Dispersión:** se separa en colores. Así sale el arcoíris.\n\n**Absorción:** por eso vemos colores.\n\nLas sombras existen porque la luz va recta.\n\n**Para tu escuela:** con una linterna, haz una sombra y di por qué se forma.",
+"pizarron": "**Qué es:** la luz es una onda que viaja en línea recta y muy rápido.\n\n**Imagínalo:** la luz rebota en un espejo y se dobla al entrar al agua.\n\n**Reflexión:** rebota. Sale con el mismo ángulo con que llegó.\n\n**Refracción:** se desvía al cambiar de material.\n\n**Dispersión:** se separa en colores. Así sale el arcoíris.\n\n**Absorción:** por eso vemos colores.\n\nLas sombras existen porque la luz va recta.\n\n**Refracción:** la luz cambia de dirección al pasar del agua al aire. Por eso un popote se ve quebrado.\n\n**Para tu escuela:** con una linterna, haz una sombra y di por qué se forma.",
 "truco": "Rebota = reflexión; se dobla = refracción; se separa en colores = dispersión.",
 "practica": {
 "ejercicio": "Un rayo incide sobre un espejo con 30°. ¿Con qué ángulo se refleja?",
@@ -289,7 +289,7 @@
 ],
 "contenido": {
 "idea": "Un imán atrae al refrigerador sin tocarlo, y un cable conectado a una pila enciende un foco. Ambos fenómenos están emparentados.",
-"pizarron": "**La ley:** una corriente crea magnetismo, y un imán que se mueve crea corriente. Además, $V = IR$.\n\n**Electricidad:** cargas iguales se repelen y distintas se atraen. La corriente es el paso de cargas.\n\n**Magnetismo:** polos iguales se repelen y distintos se atraen.\n\n**Juntos:**\n\n**Motor:** de electricidad a movimiento.\n\n**Generador:** de movimiento a electricidad.\n\n**Para tu escuela:** di qué hace una licuadora: ¿motor o generador?",
+"pizarron": "**La ley:** una corriente crea magnetismo, y un imán que se mueve crea corriente. Además, $V = IR$.\n\n**Imagínalo:** electricidad e imanes son dos caras de la misma moneda.\n\n**Electricidad:** cargas iguales se repelen y distintas se atraen. La corriente es el paso de cargas.\n\n**Magnetismo:** polos iguales se repelen y distintos se atraen.\n\n**Juntos:**\n\n**Motor:** de electricidad a movimiento.\n\n**Generador:** de movimiento a electricidad.\n\n**Generador:** al mover un imán dentro de una bobina se produce corriente.\n\n**Para tu escuela:** di qué hace una licuadora: ¿motor o generador?",
 "truco": "Corriente crea imán; imán en movimiento crea corriente.",
 "practica": {
 "ejercicio": "Un circuito tiene 12 V y 4 ohms. ¿Qué corriente circula?",
@@ -335,7 +335,7 @@
 ],
 "contenido": {
 "idea": "La física clásica explica una pelota que rueda, pero para entender lo muy rápido, lo muy grande o lo muy pequeño se necesitaron ideas nuevas.",
-"pizarron": "**Qué es:** la física moderna estudia lo muy rápido, lo muy pequeño y lo muy grande.\n\n**Relatividad (Einstein):** nada va más rápido que la luz, y $E = mc^2$: masa y energía están relacionadas.\n\n**Mecánica cuántica:** en lo muy pequeño, la energía viene en paquetes y solo hay probabilidades.\n\n**Usos:** GPS, láser, paneles solares y resonancias.\n\n**Relatividad:** nada puede ir más rápido que la luz.\n\n**Para tu escuela:** busca un aparato de tu casa que use física moderna.",
+"pizarron": "**Qué es:** la física moderna estudia lo muy rápido, lo muy pequeño y lo muy grande.\n\n**Imagínalo:** lo muy chico y lo muy rápido no se comportan como lo de todos los días.\n\n**Relatividad (Einstein):** nada va más rápido que la luz, y $E = mc^2$: masa y energía están relacionadas.\n\n**Mecánica cuántica:** en lo muy pequeño, la energía viene en paquetes y solo hay probabilidades.\n\n**Usos:** GPS, láser, paneles solares y resonancias.\n\n**Relatividad:** nada puede ir más rápido que la luz.\n\n**Para tu escuela:** busca un aparato de tu casa que use física moderna.",
 "truco": "Relatividad: lo muy rápido y grande. Cuántica: lo muy pequeño.",
 "practica": {
 "ejercicio": "Con $E = mc^2$, ¿cuánta energía equivale a 1 kg de masa?",
@@ -429,7 +429,7 @@
 ],
 "contenido": {
 "idea": "Imagina una sopa con ingredientes simples que, calentada y con chispas por mucho tiempo, se transforma poco a poco en algo más complejo.",
-"pizarron": "**Qué es:** la teoría quimiosintética dice que la vida surgió poco a poco, a partir de sustancias simples de la Tierra antigua.\n\n**Pasos:**\n\n1. No había oxígeno libre.\n2. Rayos y calor dieron energía.\n3. Se formaron moléculas simples en el mar: la sopa primitiva.\n4. Se unieron en moléculas grandes.\n5. Se rodearon de una membrana.\n\n**Miller y Urey (1953):** imitaron esas condiciones y obtuvieron aminoácidos.\n\n**Energía de entonces:** rayos, luz ultravioleta y calor de volcanes.\n\n**Para tu escuela:** ordena los pasos en un dibujo.",
+"pizarron": "**Qué es:** la teoría quimiosintética dice que la vida surgió poco a poco, a partir de sustancias simples de la Tierra antigua.\n\n**Imagínalo:** ingredientes simples que, con mucho tiempo y energía, formaron algo vivo.\n\n**Pasos:**\n\n1. No había oxígeno libre.\n2. Rayos y calor dieron energía.\n3. Se formaron moléculas simples en el mar: la sopa primitiva.\n4. Se unieron en moléculas grandes.\n5. Se rodearon de una membrana.\n\n**Miller y Urey (1953):** imitaron esas condiciones y obtuvieron aminoácidos.\n\n**Energía de entonces:** rayos, luz ultravioleta y calor de volcanes.\n\n**Para tu escuela:** ordena los pasos en un dibujo.",
 "truco": "Gases + energía = moléculas orgánicas; moléculas = coacervados; coacervados = células.",
 "practica": {
 "ejercicio": "¿Qué demostró el experimento de Miller y Urey?",
