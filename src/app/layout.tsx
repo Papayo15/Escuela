@@ -6,7 +6,7 @@ const letra = Atkinson_Hyperlegible({ subsets: ["latin"], weight: ["400", "700"]
 
 export const metadata: Metadata = {
   title: "Escuela de regularización",
-  description: "Explicaciones claras de los temas de la SEP, con apoyo de Claude.",
+  description: "Explicaciones claras de los temas de la SEP, con Maestro en vivo.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

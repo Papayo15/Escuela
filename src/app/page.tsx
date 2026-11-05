@@ -1,6 +1,7 @@
 import Link from "next/link";
+import { AyudaTema } from "@/components/AyudaTema";
 import { ChatEnVivo } from "@/components/ChatEnVivo";
-import { chatDisponible } from "@/lib/acceso";
+import { estadoMaestro } from "@/lib/plan";
 import { NIVELES, type Nivel } from "@/lib/pedagogical-prompt";
 import { buscarTemas, listarMaterias, listarTemas, type TemaResumen } from "@/lib/temas";
 
@@ -28,7 +29,8 @@ export default async function Inicio({ searchParams }: Props) {
   const q = parametros.q?.trim().slice(0, 300) ?? "";
   const nivel = NIVELES.find((n) => n === parametros.nivel) as Nivel | undefined;
   const resultados = q ? await buscarTemas(q, nivel) : [];
-  const hayChat = chatDisponible();
+  const maestro = await estadoMaestro();
+  const hayChat = maestro === "activo";
   const generar = Boolean(hayChat && q && parametros.nuevo === "1");
   const materia = parametros.materia?.slice(0, 100);
   const enMateria = !q && nivel && materia ? materia : undefined;
@@ -68,7 +70,7 @@ export default async function Inicio({ searchParams }: Props) {
               className="enlace-fuerte"
               href={`/?${new URLSearchParams({ q, nuevo: "1", ...(nivel ? { nivel } : {}) })}`}
             >
-              Preguntarle a Claude
+              Preguntarle al maestro
             </Link>
           </p>}
         </section>
@@ -82,6 +84,13 @@ export default async function Inicio({ searchParams }: Props) {
           preguntaInicial={q}
           sugerencias={["No entendí, explícamelo de otra forma"]}
         />
+      )}
+
+      {!q && !enMateria && maestro !== "oculto" && (
+        <section className="sin-imprimir">
+          <h2>Maestro en vivo</h2>
+          <AyudaTema nivel={nivel} estado={maestro} />
+        </section>
       )}
 
       {enMateria && (

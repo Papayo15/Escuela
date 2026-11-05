@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import { AyudaTema } from "@/components/AyudaTema";
 import { Imprimir } from "@/components/Imprimir";
 import { Mensaje } from "@/components/Mensaje";
-import { chatDisponible } from "@/lib/acceso";
 import { obtenerTema } from "@/lib/temas";
 
 export const revalidate = 3600;
@@ -79,13 +78,13 @@ export default async function PaginaTema({ params }: { params: Promise<{ slug: s
       </section>
 
       <div className="acciones sin-imprimir">
-        {chatDisponible() && <AyudaTema slug={tema.slug} nivel={tema.nivel} />}
+        <AyudaTema slug={tema.slug} nivel={tema.nivel} />
         <Imprimir />
         {reporte && <a className="boton-secundario" href={reporte}>Reportar error</a>}
       </div>
 
       <p className="fuente">
-        Temario: {tema.campo}. {tema.origen === "vivo" ? "Tema agregado con ayuda de Claude y revisado automáticamente." : "Explicación generada con IA y revisada automáticamente."} Fuente: {tema.fuente}, p. {tema.pagina}.
+        Temario: {tema.campo}. {tema.origen === "vivo" ? "Tema agregado con ayuda de IA y revisado automáticamente." : "Explicación generada con IA y revisada automáticamente."} Fuente: {tema.fuente}, p. {tema.pagina}.
       </p>
     </main>
   );

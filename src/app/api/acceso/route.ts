@@ -1,23 +1,30 @@
 import { NextResponse } from "next/server";
-import { COOKIE_ACCESO, firmaAcceso, igualesSeguro } from "@/lib/acceso";
+import {
+  accesoActivo,
+  COOKIE_ACCESO,
+  cookieDePlan,
+  DURACION_ACCESO,
+  planDeCodigo,
+} from "@/lib/acceso";
 
 export async function POST(request: Request) {
-  const { ACCESS_CODE, COOKIE_SECRET } = process.env;
-  if (!ACCESS_CODE || !COOKIE_SECRET) {
+  if (!accesoActivo()) {
     return Response.json({ error: "Falta configurar el acceso." }, { status: 500 });
   }
   const datos = (await request.json().catch(() => null)) as { codigo?: unknown } | null;
   const codigo = typeof datos?.codigo === "string" ? datos.codigo.trim() : "";
-  if (!igualesSeguro(codigo, ACCESS_CODE)) {
+  const plan = planDeCodigo(codigo);
+  const valor = plan && (await cookieDePlan(plan));
+  if (!valor) {
     return Response.json({ error: "Ese código no es correcto." }, { status: 401 });
   }
-  const respuesta = NextResponse.json({ ok: true });
-  respuesta.cookies.set(COOKIE_ACCESO, await firmaAcceso(COOKIE_SECRET), {
+  const respuesta = NextResponse.json({ ok: true, plan });
+  respuesta.cookies.set(COOKIE_ACCESO, valor, {
     httpOnly: true,
     sameSite: "lax",
     secure: process.env.NODE_ENV === "production",
     path: "/",
-    maxAge: 60 * 60 * 24 * 180,
+    maxAge: DURACION_ACCESO,
   });
   return respuesta;
 }

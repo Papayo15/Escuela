@@ -1,6 +1,6 @@
 # Escuela de regularización
 
-Biblioteca de explicaciones basada en el temario oficial de la SEP, con chat opcional de Claude.
+Biblioteca de explicaciones basada en el temario oficial de la SEP, con Maestro en vivo opcional.
 
 ## Funciona sin claves
 
@@ -11,12 +11,24 @@ npm install
 npm run dev
 ```
 
-## Activar el chat
+## Planes de acceso
 
-Crea `.env.local` a partir de `.env.example`. El chat aparece cuando existen `ANTHROPIC_API_KEY`, `ACCESS_CODE` y `COOKIE_SECRET`. Desde ese momento, la app pide el código.
+- Con `ACCESS_CODE` y `COOKIE_SECRET`, la biblioteca pide código.
+- `ACCESS_CODE` abre la biblioteca. `PREMIUM_CODE` abre además el Maestro en vivo y las fotos de tareas.
+- Cambia los códigos cada mes: la cookie incluye el código, así que los accesos anteriores expiran.
 
-1. Crea la clave en la Claude Console, carga saldo y fija un tope mensual.
-2. Para que los temas nuevos se guarden, crea una base en Neon, define `DATABASE_URL` y ejecuta `npm run cargar`.
+El cobro es manual. Un código compartido se puede pasar a otras personas.
+
+## Activar el Maestro en vivo
+
+Crea `.env.local` a partir de `.env.example`. El chat aparece cuando además existen `OPENROUTER_API_KEY` y `PREMIUM_CODE`.
+
+1. Crea la clave en OpenRouter, carga saldo, fija un límite y activa la recarga automática.
+2. Para que los temas nuevos se guarden, crea una base en Neon, ejecuta `npm run cargar` con `DATABASE_URL` en `.env.local`, y solo después agrégala en Vercel. Una base vacía deja el sitio sin temas.
+
+Los modelos de respaldo están en `src/lib/openrouter.ts`. Cubren fallas y límites de tasa, pero no la falta de saldo: sin saldo fallan todos, y la biblioteca sigue funcionando.
+
+Las fotos se reducen en el navegador, no se guardan y se envían solo a proveedores sin retención de datos.
 
 Sin `DATABASE_URL`, la biblioteca vive en memoria: los temas creados en el chat se pierden al reiniciar.
 

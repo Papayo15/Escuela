@@ -1,4 +1,4 @@
-import Anthropic from "@anthropic-ai/sdk";
+import { pedirJson } from "./openrouter";
 import { aSlug, existeNodo, guardarTema, nodosCandidatos, obtenerTema } from "./temas";
 import { contenidoTema } from "./schema-tema";
 
@@ -52,39 +52,21 @@ Decide con criterio estricto:
 - titulo: título académico breve y neutro. No copies la pregunta del alumno.
 - contenido: reorganiza la explicación en el formato pedido. analogias lleva exactamente dos analogías distintas de la principal; ejercicios lleva exactamente tres ejercicios con respuesta. Usa Markdown y LaTeX ($...$, \\ce{...}).`;
 
-export async function guardarTemaVivo(
-  cliente: Anthropic,
-  pregunta: string,
-  explicacion: string,
-): Promise<string | null> {
+export async function guardarTemaVivo(pregunta: string, explicacion: string): Promise<string | null> {
   const candidatos = await nodosCandidatos(`${pregunta} ${explicacion.slice(0, 300)}`);
   if (candidatos.length === 0) return null;
 
-  const respuesta = await cliente.messages.create({
-    model: "claude-opus-5-5",
-    max_tokens: 16000,
-    output_config: {
-      effort: "medium",
-      format: {
-        type: "json_schema",
-        schema: esquema(candidatos.map((n) => n.id)),
-      },
-    },
-    system: INSTRUCCIONES,
-    messages: [
-      {
-        role: "user",
-        content: `<nodos>\n${candidatos
-          .map((n) => `${n.id} | ${n.nivel} ${n.etapa} | ${n.materia} | ${n.contenido}`)
-          .join("\n")}\n</nodos>\n\n<pregunta_del_alumno>\n${pregunta}\n</pregunta_del_alumno>\n\n<explicacion>\n${explicacion}\n</explicacion>`,
-      },
-    ],
+  const texto = await pedirJson({
+    sistema: INSTRUCCIONES,
+    nombre: "tema_revisado",
+    esquema: esquema(candidatos.map((n) => n.id)),
+    usuario: `<nodos>\n${candidatos
+      .map((n) => `${n.id} | ${n.nivel} ${n.etapa} | ${n.materia} | ${n.contenido}`)
+      .join("\n")}\n</nodos>\n\n<pregunta_del_alumno>\n${pregunta}\n</pregunta_del_alumno>\n\n<explicacion>\n${explicacion}\n</explicacion>`,
   });
-  if (respuesta.stop_reason !== "end_turn") return null;
+  if (!texto) return null;
 
-  const bloque = respuesta.content.find((b) => b.type === "text");
-  if (!bloque || bloque.type !== "text") return null;
-  const r = JSON.parse(bloque.text) as {
+  const r = JSON.parse(texto) as {
     nodo_id: string;
     apto: boolean;
     titulo: string;

@@ -3,9 +3,10 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { reducirFoto } from "@/lib/foto";
 import { Mensaje } from "./Mensaje";
 
-type Turno = { role: "user" | "assistant"; content: string };
+type Turno = { role: "user" | "assistant"; content: string; foto?: string };
 type Props = {
   modoInicial: "tema-nuevo" | "seguimiento";
   slug?: string;
@@ -22,6 +23,7 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
   const [aviso, setAviso] = useState<{ texto: string; reintentar: boolean } | null>(null);
   const [cortado, setCortado] = useState(false);
   const [guardado, setGuardado] = useState<string | null>(null);
+  const [foto, setFoto] = useState<string | null>(null);
   const inicio = useRef(false);
   const final = useRef<HTMLDivElement>(null);
 
@@ -33,10 +35,21 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
       setTurnos(historial);
       let acumulado = "";
       try {
-        const r = await fetch("/api/explain", {
+        const primero = historial[0];
+        const conFoto = historial.length === 1 && primero.foto;
+        const r = await fetch(conFoto ? "/api/vision" : "/api/explain", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ modo, slug, nivel: nivel || undefined, messages: historial }),
+          body: JSON.stringify(
+            conFoto
+              ? { nivel: nivel || undefined, pregunta: primero.content, imagen: primero.foto }
+              : {
+                  modo,
+                  slug,
+                  nivel: nivel || undefined,
+                  messages: historial.map(({ role, content }) => ({ role, content })),
+                },
+          ),
         });
         if ((r.headers.get("content-type") ?? "").includes("application/json")) {
           const datos = (await r.json()) as { existente?: string; error?: string };
@@ -102,9 +115,22 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
 
   const mandar = (texto: string) => {
     const limpio = texto.trim();
-    if (!limpio || enviando) return;
+    if ((!limpio && !foto) || enviando) return;
     setBorrador("");
-    void enviar([...turnos, { role: "user", content: limpio }], "seguimiento");
+    const turno: Turno = { role: "user", content: limpio || "Ayúdame con esta tarea." };
+    if (foto) turno.foto = foto;
+    setFoto(null);
+    void enviar([...turnos, turno], "seguimiento");
+  };
+
+  const elegirFoto = async (archivo: File | undefined) => {
+    if (!archivo) return;
+    setAviso(null);
+    try {
+      setFoto(await reducirFoto(archivo));
+    } catch {
+      setAviso({ texto: "No pudimos abrir esa foto. Prueba con otra.", reintentar: false });
+    }
   };
 
   const reintentar = () => {
@@ -118,11 +144,15 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
   const pendiente = enviando && turnos.at(-1)?.role === "user";
 
   return (
-    <section className="chat" aria-label="Chat con Claude">
+    <section className="chat" aria-label="Maestro en vivo">
       <div aria-live="polite">
         {turnos.map((t, i) =>
           t.role === "user" ? (
-            <p key={i} className="burbuja-alumno">{t.content}</p>
+            <div key={i} className="burbuja-alumno">
+              {/* eslint-disable-next-line @next/next/no-img-element -- la foto solo existe en el navegador */}
+              {t.foto && <img className="foto-tarea" src={t.foto} alt="Foto de la tarea" />}
+              <p>{t.content}</p>
+            </div>
           ) : (
             <Mensaje key={i} texto={t.content} />
           ),
@@ -158,6 +188,31 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
               ))}
             </div>
           )}
+          {turnos.length === 0 && (
+            <div className="subir-foto">
+              {foto ? (
+                <>
+                  {/* eslint-disable-next-line @next/next/no-img-element -- la foto solo existe en el navegador */}
+                  <img className="foto-tarea" src={foto} alt="Foto elegida" />
+                  <button type="button" className="boton-secundario" onClick={() => setFoto(null)}>Quitar foto</button>
+                </>
+              ) : (
+                <label className="boton-secundario">
+                  Subir foto de tarea
+                  <input
+                    className="oculto"
+                    type="file"
+                    accept="image/*"
+                    onChange={(e) => {
+                      void elegirFoto(e.target.files?.[0]);
+                      e.target.value = "";
+                    }}
+                  />
+                </label>
+              )}
+              <p className="nota">Fotografía solo el ejercicio, sin nombres ni rostros. La foto no se guarda.</p>
+            </div>
+          )}
           <form
             className="campo-chat"
             onSubmit={(e) => {
@@ -171,10 +226,10 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
               rows={2}
               maxLength={2000}
               value={borrador}
-              placeholder="Escribe tu duda aquí"
+              placeholder={foto ? "Escribe qué no entiendes (opcional)" : "Escribe tu duda aquí"}
               onChange={(e) => setBorrador(e.target.value)}
             />
-            <button className="boton" disabled={enviando || !borrador.trim()}>Enviar</button>
+            <button className="boton" disabled={enviando || (!borrador.trim() && !foto)}>Enviar</button>
           </form>
         </>
       )}

@@ -3,6 +3,8 @@ import { NIVELES } from "./pedagogical-prompt";
 
 export const MAX_PREGUNTA = 2000;
 export const MAX_CUERPO = 200_000;
+export const MAX_IMAGEN = 4_000_000;
+export const MAX_CUERPO_FOTO = MAX_IMAGEN + 4_000;
 
 const mensaje = z.object({
   role: z.enum(["user", "assistant"]),
@@ -44,5 +46,24 @@ export function validarSolicitud(
   const r = solicitud.safeParse(datos);
   if (r.success) return { ok: true, datos: r.data };
   const propio = r.error.issues.find((i) => i.code === "custom");
+  return { ok: false, error: propio?.message ?? "Solicitud inválida." };
+}
+
+const IMAGEN = /^data:image\/(jpeg|png|webp);base64,[A-Za-z0-9+/]+={0,2}$/;
+
+const solicitudFoto = z.object({
+  nivel: z.enum(NIVELES).optional(),
+  pregunta: z.string().trim().min(1).max(MAX_PREGUNTA),
+  imagen: z.string().max(MAX_IMAGEN, "La foto es demasiado grande.").regex(IMAGEN, "Esa foto no se puede leer."),
+});
+
+export type SolicitudFoto = z.infer<typeof solicitudFoto>;
+
+export function validarFoto(
+  datos: unknown,
+): { ok: true; datos: SolicitudFoto } | { ok: false; error: string } {
+  const r = solicitudFoto.safeParse(datos);
+  if (r.success) return { ok: true, datos: r.data };
+  const propio = r.error.issues.find((i) => i.path[0] === "imagen" && i.code !== "invalid_type");
   return { ok: false, error: propio?.message ?? "Solicitud inválida." };
 }

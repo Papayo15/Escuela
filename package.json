@@ -13,7 +13,6 @@
     "vigilar": "tsx scripts/vigilar-fuentes.mts"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^1.4.0",
     "@electric-sql/pglite": "^0.5.15",
     "@neondatabase/serverless": "^1.2.0",
     "katex": "^0.19.1",
