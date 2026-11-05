@@ -1,0 +1,1090 @@
+[
+{
+"nodo_id": "ems-119",
+"titulo": "Prehistoria",
+"slug": "prehistoria-prepa",
+"palabras": [
+"Prehistoria",
+"Paleolítico",
+"Neolítico",
+"escritura"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Antes del diario",
+"texto": "Es la vida de la humanidad antes de que alguien escribiera un diario."
+},
+{
+"titulo": "De acampar a la casa",
+"texto": "Las personas pasaron de moverse siempre a quedarse en una aldea."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué periodo trajo la agricultura?",
+"respuesta": "El Neolítico."
+},
+{
+"ejercicio": "¿Qué significa nómada?",
+"respuesta": "Que se mueve de lugar en lugar."
+},
+{
+"ejercicio": "Di tres metales usados.",
+"respuesta": "Cobre, bronce y hierro."
+}
+],
+"idea": "Hubo un tiempo larguísimo sin escuelas ni libros, en que las personas aprendieron a hacer fuego y sembrar.",
+"pizarron": "**Qué es:** la Prehistoria es el periodo desde la aparición del ser humano hasta la invención de la escritura, cerca de 3300 a. C.\n\n**Paleolítico:** piedra tallada, cazadores y nómadas, dominio del fuego.\n\n**Neolítico:** piedra pulida, agricultura, ganadería y primeras aldeas.\n\n**Edad de los Metales:** cobre, bronce y hierro.\n\nAl sembrar, las personas dejaron de ser nómadas.",
+"truco": "Sin escritura, es Prehistoria.",
+"practica": {
+"ejercicio": "¿Qué marca el fin de la Prehistoria?",
+"respuesta": "La invención de la escritura."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Mesopotamia",
+"slug": "mesopotamia-prepa",
+"palabras": [
+"Mesopotamia",
+"sumerios",
+"escritura cuneiforme",
+"Hammurabi"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Primer cuaderno",
+"texto": "Las tablillas de barro fueron los primeros cuadernos de la historia."
+},
+{
+"titulo": "Reglas a la vista",
+"texto": "Hammurabi puso las reglas en piedra para que todos las conocieran."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué escritura usaron?",
+"respuesta": "Cuneiforme."
+},
+{
+"ejercicio": "¿Qué país ocupa hoy esa región?",
+"respuesta": "Irak."
+},
+{
+"ejercicio": "¿Quién escribió un famoso código?",
+"respuesta": "Hammurabi."
+}
+],
+"idea": "Entre dos ríos nació la primera escritura y una de las primeras leyes del mundo.",
+"pizarron": "**Qué fue:** Mesopotamia fue la región entre los ríos Tigris y Éufrates, en el actual Irak.\n\nSu nombre significa *entre ríos*.\n\n**Aportes:**\n\n- Escritura **cuneiforme**, en tablillas de barro.\n- La rueda.\n- Primeras ciudades como Ur y Babilonia.\n- **Código de Hammurabi**: leyes escritas.\n\nPueblos: sumerios, acadios, babilonios y asirios.",
+"truco": "Tigris y Éufrates: entre ríos.",
+"practica": {
+"ejercicio": "¿Qué significa Mesopotamia?",
+"respuesta": "Entre ríos."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Antiguo Egipto",
+"slug": "antiguo-egipto-prepa",
+"palabras": [
+"Egipto",
+"faraones",
+"Nilo",
+"pirámides"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Regalo del río",
+"texto": "Cada crecida dejaba tierra buena, como un regalo cada año."
+},
+{
+"titulo": "Casa eterna",
+"texto": "La pirámide era una casa para la vida después de la muerte."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es un jeroglífico?",
+"respuesta": "Un signo de escritura con dibujos."
+},
+{
+"ejercicio": "¿Qué río atraviesa Egipto?",
+"respuesta": "El Nilo."
+},
+{
+"ejercicio": "¿Quién fue la última reina?",
+"respuesta": "Cleopatra."
+}
+],
+"idea": "Sin el Nilo, Egipto sería desierto. Ese río hizo posible una de las civilizaciones más famosas.",
+"pizarron": "**Qué fue:** el antiguo Egipto fue una civilización en el valle del río Nilo, durante unos 3000 años.\n\n**Características:**\n\n- **Faraón:** rey considerado divino.\n- **Jeroglíficos:** escritura con dibujos.\n- **Pirámides:** tumbas, como Guiza.\n- **Momificación.**\n\nLas crecidas del Nilo dejaban tierra fértil.\n\nCleopatra fue su última reina.",
+"truco": "Nilo, faraón y pirámide.",
+"practica": {
+"ejercicio": "¿Cómo se llamaba el rey?",
+"respuesta": "Faraón."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "China e India antiguas",
+"slug": "china-e-india-antiguas-prepa",
+"palabras": [
+"China antigua",
+"India antigua",
+"seda",
+"budismo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Camino de seda",
+"texto": "Una ruta larga llevó telas, ideas y especias a otros pueblos."
+},
+{
+"titulo": "Números viajeros",
+"texto": "Los números que usas viajaron de India a Arabia y a Europa."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di un invento chino.",
+"respuesta": "El papel."
+},
+{
+"ejercicio": "¿Quién fue Confucio?",
+"respuesta": "Un filósofo chino."
+},
+{
+"ejercicio": "¿Qué construcción famosa tiene China?",
+"respuesta": "La Gran Muralla."
+}
+],
+"idea": "Muy lejos de Europa, dos grandes civilizaciones inventaban el papel, los números y nuevas religiones.",
+"pizarron": "**Qué fue:** China e India son dos de las civilizaciones más antiguas de Asia.\n\n**China:**\n\n- Dinastías, como Han.\n- Gran Muralla.\n- Papel, pólvora y brújula.\n- Confucio.\n- Ruta de la Seda.\n\n**India:**\n\n- Valle del Indo.\n- Hinduismo y budismo.\n- Números que hoy usamos y el cero.\n- Sistema de castas.",
+"truco": "Muralla, seda y números.",
+"practica": {
+"ejercicio": "¿Qué religión nació en India?",
+"respuesta": "El hinduismo y el budismo."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Grecia antigua",
+"slug": "grecia-antigua-prepa",
+"palabras": [
+"Grecia",
+"polis",
+"democracia",
+"Atenas",
+"Esparta"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Votar en la plaza",
+"texto": "Los ciudadanos decidían a mano alzada lo que haría la ciudad."
+},
+{
+"titulo": "Dos hermanos",
+"texto": "Atenas se dedicaba a pensar y Esparta a entrenar soldados."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es polis?",
+"respuesta": "Ciudad-Estado."
+},
+{
+"ejercicio": "Di un filósofo griego.",
+"respuesta": "Sócrates."
+},
+{
+"ejercicio": "¿Quién extendió la cultura griega?",
+"respuesta": "Alejandro Magno."
+}
+],
+"idea": "En Atenas, los ciudadanos votaban en la plaza. Muchas ideas que usamos hoy nacieron ahí.",
+"pizarron": "**Qué fue:** la antigua Grecia fue una civilización del Mediterráneo, organizada en ciudades-Estado llamadas **polis**.\n\n**Atenas:** democracia, filosofía y arte.\n\n**Esparta:** ciudad militar.\n\n**Aportes:**\n\n- Democracia.\n- Filosofía: Sócrates, Platón y Aristóteles.\n- Teatro.\n- Juegos Olímpicos.\n\nAlejandro Magno extendió su cultura.",
+"truco": "Polis, democracia y filosofía.",
+"practica": {
+"ejercicio": "¿Qué ciudad creó la democracia?",
+"respuesta": "Atenas."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Imperio romano",
+"slug": "imperio-romano-prepa",
+"palabras": [
+"Roma",
+"imperio",
+"latín",
+"Julio César"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Madre de lenguas",
+"texto": "El latín es la madre de español, francés e italiano."
+},
+{
+"titulo": "Red de caminos",
+"texto": "Todos los caminos llevaban a Roma, como carreteras a una capital."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién fue el primer emperador?",
+"respuesta": "Augusto."
+},
+{
+"ejercicio": "¿En qué año cayó el imperio de Occidente?",
+"respuesta": "En 476."
+},
+{
+"ejercicio": "Di un aporte de Roma.",
+"respuesta": "El derecho romano."
+}
+],
+"idea": "De una ciudad pequeña nació un imperio que abarcó casi todo el Mediterráneo y nos dejó el español.",
+"pizarron": "**Qué fue:** Roma fue una civilización surgida en Italia, que pasó de reino a república y a imperio.\n\n**Etapas:** Monarquía, República e Imperio.\n\n**Personajes:** Julio César, Augusto.\n\n**Aportes:**\n\n- Latín, origen del español.\n- Derecho romano.\n- Acueductos y caminos.\n\nEn 476 cayó el Imperio romano de Occidente.",
+"truco": "Latín, leyes y caminos.",
+"practica": {
+"ejercicio": "¿De qué lengua viene el español?",
+"respuesta": "Del latín."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Imperio bizantino",
+"slug": "imperio-bizantino-prepa",
+"palabras": [
+"Bizancio",
+"Constantinopla",
+"Justiniano"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Medio pastel",
+"texto": "La otra mitad de Roma siguió sola por mil años."
+},
+{
+"titulo": "Puente",
+"texto": "Constantinopla unía a Europa y Asia en un solo lugar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué emperador ordenó las leyes?",
+"respuesta": "Justiniano."
+},
+{
+"ejercicio": "¿Quién la conquistó?",
+"respuesta": "Los turcos otomanos."
+},
+{
+"ejercicio": "¿Qué templo famoso tuvo?",
+"respuesta": "Santa Sofía."
+}
+],
+"idea": "Cuando cayó Roma en Occidente, la mitad oriental siguió viva mil años más.",
+"pizarron": "**Qué fue:** el Imperio bizantino fue la parte oriental del Imperio romano. Su capital fue **Constantinopla**, hoy Estambul.\n\n**Justiniano** ordenó las leyes romanas.\n\n**Santa Sofía:** gran templo.\n\nUnió cultura griega, romana y cristiana.\n\nCayó en 1453 ante los turcos otomanos.",
+"truco": "Constantinopla cayó en 1453.",
+"practica": {
+"ejercicio": "¿Cómo se llama hoy Constantinopla?",
+"respuesta": "Estambul."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Surgimiento del islam",
+"slug": "surgimiento-del-islam-prepa",
+"palabras": [
+"islam",
+"Mahoma",
+"Corán",
+"La Meca"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Calendario nuevo",
+"texto": "El viaje de 622 marca el inicio del calendario musulmán."
+},
+{
+"titulo": "Puente de saberes",
+"texto": "Los árabes guardaron y mejoraron saberes de muchos pueblos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué libro es sagrado?",
+"respuesta": "El Corán."
+},
+{
+"ejercicio": "¿Qué es la Hégira?",
+"respuesta": "El viaje de Mahoma a Medina en 622."
+},
+{
+"ejercicio": "Di un aporte árabe.",
+"respuesta": "El álgebra."
+}
+],
+"idea": "En la península arábiga, un profeta inició una religión que hoy siguen muchos millones de personas.",
+"pizarron": "**Qué fue:** el islam es una religión monoteísta fundada por **Mahoma** en Arabia, en el siglo VII.\n\n**Claves:**\n\n- **Corán:** libro sagrado.\n- **La Meca:** ciudad santa.\n- **Hégira:** viaje de Mahoma a Medina en 622.\n- Cinco pilares.\n\nLos árabes difundieron ciencia, álgebra y medicina.\n\nEstuvieron en España durante siglos.",
+"truco": "Mahoma, Corán y La Meca.",
+"practica": {
+"ejercicio": "¿Quién fundó el islam?",
+"respuesta": "Mahoma."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Edad Media y feudalismo",
+"slug": "edad-media-y-feudalismo-prepa",
+"palabras": [
+"Edad Media",
+"feudalismo",
+"siervos",
+"señores"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Pirámide",
+"texto": "Pocos arriba, muchos abajo sosteniendo todo."
+},
+{
+"titulo": "Trato",
+"texto": "El señor decía: te cuido si trabajas para mí."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuándo empezó?",
+"respuesta": "En 476."
+},
+{
+"ejercicio": "¿Qué enfermedad golpeó a Europa?",
+"respuesta": "La peste negra."
+},
+{
+"ejercicio": "¿Quién tuvo mucho poder?",
+"respuesta": "La Iglesia."
+}
+],
+"idea": "Después de Roma, muchos europeos vivían cerca de un castillo y trabajaban la tierra de un señor.",
+"pizarron": "**Qué fue:** la Edad Media es el periodo en Europa entre 476 y 1453.\n\n**Feudalismo:** sistema donde el señor daba tierra y protección a cambio de lealtad y trabajo.\n\n**Niveles:**\n\n- Rey.\n- Nobles y clero.\n- Caballeros.\n- Campesinos y siervos.\n\nLa Iglesia tuvo gran poder.\n\nLa **peste negra** mató a gran parte de Europa en el siglo XIV.",
+"truco": "Tierra a cambio de lealtad.",
+"practica": {
+"ejercicio": "¿Qué recibían los campesinos?",
+"respuesta": "Protección."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Las Cruzadas",
+"slug": "las-cruzadas-prepa",
+"palabras": [
+"Cruzadas",
+"Jerusalén",
+"Edad Media"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Larga pelea",
+"texto": "Fueron ocho grandes campañas durante doscientos años."
+},
+{
+"titulo": "Contacto y comercio",
+"texto": "La guerra también abrió rutas para especias y telas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién llamó a la primera?",
+"respuesta": "El papa Urbano II."
+},
+{
+"ejercicio": "¿Quién fue Saladino?",
+"respuesta": "Un líder musulmán."
+},
+{
+"ejercicio": "¿Qué creció después?",
+"respuesta": "El comercio."
+}
+],
+"idea": "Durante dos siglos, ejércitos europeos viajaron a Tierra Santa para pelear por Jerusalén.",
+"pizarron": "**Qué fue:** las Cruzadas fueron expediciones militares cristianas a Tierra Santa, entre 1096 y 1291.\n\n**Motivos:**\n\n- Religiosos.\n- Tierras y comercio.\n\nLas convocó la Iglesia; Urbano II llamó a la primera.\n\nSe enfrentaron a pueblos musulmanes, como los de Saladino.\n\n**Consecuencias:** creció el comercio entre Europa y Oriente.",
+"truco": "Jerusalén fue el objetivo.",
+"practica": {
+"ejercicio": "¿Qué ciudad buscaban?",
+"respuesta": "Jerusalén."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Imperio mongol",
+"slug": "imperio-mongol-prepa",
+"palabras": [
+"mongoles",
+"Gengis Kan",
+"Asia"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Jinetes veloces",
+"texto": "Se movían por las estepas como una tormenta que nadie frenaba."
+},
+{
+"titulo": "Mapa enorme",
+"texto": "Unieron casi todo un continente de una sola vez."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién gobernó China?",
+"respuesta": "Kublai Kan."
+},
+{
+"ejercicio": "¿Qué viajero fue a Asia?",
+"respuesta": "Marco Polo."
+},
+{
+"ejercicio": "¿Qué ruta se benefició?",
+"respuesta": "La Ruta de la Seda."
+}
+],
+"idea": "Jinetes de las estepas crearon el imperio de tierra continua más grande de la historia.",
+"pizarron": "**Qué fue:** el Imperio mongol fue fundado por **Gengis Kan** en 1206.\n\nSe extendió de China a Europa oriental.\n\n**Claves:**\n\n- Jinetes y arqueros.\n- Unió rutas comerciales.\n- Facilitó la **Ruta de la Seda**.\n\n**Kublai Kan** gobernó China.\n\nMarco Polo viajó en esos años.",
+"truco": "Gengis Kan, 1206.",
+"practica": {
+"ejercicio": "¿Quién fundó el imperio?",
+"respuesta": "Gengis Kan."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Renacimiento",
+"slug": "renacimiento-prepa",
+"palabras": [
+"Renacimiento",
+"humanismo",
+"imprenta",
+"Leonardo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Despertar",
+"texto": "Europa despertó tras un sueño muy largo."
+},
+{
+"titulo": "Fotocopias de siglos",
+"texto": "La imprenta multiplicó ideas por miles en muy poco tiempo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde nació?",
+"respuesta": "En Italia."
+},
+{
+"ejercicio": "Di dos artistas.",
+"respuesta": "Leonardo y Miguel Ángel."
+},
+{
+"ejercicio": "¿Quién dijo que la Tierra gira alrededor del Sol?",
+"respuesta": "Copérnico."
+}
+],
+"idea": "Tras siglos, Europa volvió a mirar a Grecia y Roma. El arte y la ciencia renacieron.",
+"pizarron": "**Qué fue:** el Renacimiento fue un movimiento cultural que nació en Italia, entre los siglos XIV y XVI.\n\n**Humanismo:** pone al ser humano en el centro.\n\n**Personajes:** Leonardo da Vinci, Miguel Ángel, Galileo.\n\n**Inventos:** **imprenta** de Gutenberg, cerca de 1450.\n\n**Copérnico:** la Tierra gira alrededor del Sol.",
+"truco": "Volver a Grecia y Roma.",
+"practica": {
+"ejercicio": "¿Qué invento difundió libros?",
+"respuesta": "La imprenta."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Viajes de exploración y Cristóbal Colón",
+"slug": "viajes-de-exploracion-y-cristobal-colon-prepa",
+"palabras": [
+"Colón",
+"1492",
+"exploración",
+"Magallanes"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Mapa nuevo",
+"texto": "Cada viaje agregó tierras nuevas al mapa conocido."
+},
+{
+"titulo": "Intercambio",
+"texto": "El maíz fue a Europa y el caballo a América."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién dio la primera vuelta al mundo?",
+"respuesta": "Magallanes y Elcano."
+},
+{
+"ejercicio": "¿Qué buscaban?",
+"respuesta": "Especias y una ruta a Asia."
+},
+{
+"ejercicio": "Di un instrumento usado.",
+"respuesta": "El astrolabio."
+}
+],
+"idea": "Europa buscaba especias y una ruta a Asia. Colón llegó a un continente que no esperaba.",
+"pizarron": "**Qué fue:** los viajes de exploración fueron expediciones europeas de los siglos XV y XVI.\n\n**Cristóbal Colón:** el 12 de octubre de 1492 llegó a América.\n\n**Vasco da Gama:** rodeó África.\n\n**Magallanes y Elcano:** primera vuelta al mundo.\n\n**Por qué:** especias, oro y expandir la fe.\n\n**Inventos:** brújula, astrolabio y carabela.\n\nHubo un intercambio de plantas, animales y enfermedades.",
+"truco": "12 de octubre de 1492.",
+"practica": {
+"ejercicio": "¿En qué año llegó Colón?",
+"respuesta": "En 1492."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Reforma protestante",
+"slug": "reforma-protestante-prepa",
+"palabras": [
+"Reforma",
+"Lutero",
+"protestantismo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Hoja en la puerta",
+"texto": "Un papel en una puerta movió a todo un continente."
+},
+{
+"titulo": "Dividirse",
+"texto": "Un grupo se partió en dos por cómo debía ser su fe."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué criticó?",
+"respuesta": "La venta de indulgencias."
+},
+{
+"ejercicio": "¿Qué fue la Contrarreforma?",
+"respuesta": "La respuesta católica."
+},
+{
+"ejercicio": "¿En qué año inició?",
+"respuesta": "En 1517."
+}
+],
+"idea": "Un monje alemán publicó sus quejas contra la Iglesia y dividió a la cristiandad en Europa.",
+"pizarron": "**Qué fue:** la Reforma fue un movimiento religioso del siglo XVI contra prácticas de la Iglesia católica.\n\n**Martín Lutero** publicó 95 tesis en 1517.\n\nCriticó la venta de **indulgencias**.\n\n**Otros:** Calvino y Enrique VIII.\n\n**Contrarreforma:** respuesta católica en el Concilio de Trento.\n\nLa imprenta ayudó a difundir las ideas.",
+"truco": "Lutero, 1517, 95 tesis.",
+"practica": {
+"ejercicio": "¿Quién inició la Reforma?",
+"respuesta": "Martín Lutero."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Monarquías absolutas",
+"slug": "monarquias-absolutas-prepa",
+"palabras": [
+"absolutismo",
+"Luis XIV",
+"Rey Sol"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dueño del balón",
+"texto": "Decide todas las reglas sin preguntar a nadie."
+},
+{
+"titulo": "Sol del sistema",
+"texto": "Todos en la corte giraban alrededor del rey, como planetas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué palacio construyó?",
+"respuesta": "Versalles."
+},
+{
+"ejercicio": "¿Qué es derecho divino?",
+"respuesta": "La idea de que Dios da el poder al rey."
+},
+{
+"ejercicio": "¿Quién criticó al absolutismo?",
+"respuesta": "La Ilustración."
+}
+],
+"idea": "Un rey que decía: el Estado soy yo. Tenía todo el poder y nadie le pedía cuentas.",
+"pizarron": "**Qué fue:** el absolutismo fue un sistema donde el rey concentraba todo el poder, entre los siglos XVI y XVIII en Europa.\n\nSe justificaba con el **derecho divino**.\n\n**Luis XIV**, de Francia, llamado *Rey Sol*, construyó Versalles.\n\nFrase atribuida: *El Estado soy yo.*\n\nFue criticado por la Ilustración.",
+"truco": "El rey manda en todo.",
+"practica": {
+"ejercicio": "¿Quién fue el Rey Sol?",
+"respuesta": "Luis XIV."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Ilustración",
+"slug": "ilustracion-prepa",
+"palabras": [
+"Ilustración",
+"razón",
+"Voltaire",
+"Rousseau",
+"Montesquieu"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Encender la luz",
+"texto": "Fue como prender la razón en un cuarto oscuro."
+},
+{
+"titulo": "Preguntón",
+"texto": "Ya nadie aceptaba las cosas solo porque sí, sin preguntar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién escribió *El contrato social*?",
+"respuesta": "Rousseau."
+},
+{
+"ejercicio": "¿Qué defendía Voltaire?",
+"respuesta": "La libertad y la tolerancia."
+},
+{
+"ejercicio": "¿En qué siglo ocurrió?",
+"respuesta": "En el XVIII."
+}
+],
+"idea": "Unos pensadores se preguntaron: ¿por qué obedecer sin pensar? Y pusieron a la razón por delante.",
+"pizarron": "**Qué fue:** la Ilustración fue un movimiento del siglo XVIII que defendía la razón, la ciencia y la libertad.\n\n**Pensadores:**\n\n- **Montesquieu:** división de poderes.\n- **Rousseau:** contrato social.\n- **Voltaire:** libertad y tolerancia.\n- **Diderot:** Enciclopedia.\n\nInspiró revoluciones en Francia y América.",
+"truco": "Razón contra obedecer sin pensar.",
+"practica": {
+"ejercicio": "¿Quién propuso dividir los poderes?",
+"respuesta": "Montesquieu."
+}
+}
+},
+{
+"nodo_id": "f6-064",
+"titulo": "Independencia de Estados Unidos",
+"slug": "independencia-de-estados-unidos-secundaria",
+"palabras": [
+"Independencia EU",
+"1776",
+"Washington"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cuenta sin voto",
+"texto": "Pagas la cuenta sin que te dejen opinar: nadie lo acepta."
+},
+{
+"titulo": "Hijo que crece",
+"texto": "Las colonias quisieron decidir por sí mismas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién fue el primer presidente?",
+"respuesta": "George Washington."
+},
+{
+"ejercicio": "¿Quién escribió la Declaración?",
+"respuesta": "Thomas Jefferson."
+},
+{
+"ejercicio": "¿De qué país se separaron?",
+"respuesta": "De Gran Bretaña."
+}
+],
+"idea": "Unas colonias se cansaron de pagar impuestos sin poder opinar. Nació un país nuevo.",
+"pizarron": "**Qué fue:** la independencia de las Trece Colonias respecto de Gran Bretaña, declarada el 4 de julio de 1776.\n\n**Causas:**\n\n- Impuestos sin representación.\n- Ideas ilustradas.\n\n**Personajes:** George Washington, Thomas Jefferson.\n\n**Consecuencias:** nace Estados Unidos, con la primera constitución moderna, en 1787.\n\nInspiró a otras independencias.",
+"truco": "4 de julio de 1776.",
+"practica": {
+"ejercicio": "¿Cuántas colonias eran?",
+"respuesta": "Trece."
+}
+}
+},
+{
+"nodo_id": "f6-064",
+"titulo": "Revolución francesa",
+"slug": "revolucion-francesa-secundaria",
+"palabras": [
+"Revolución francesa",
+"1789",
+"Bastilla"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Olla exprés",
+"texto": "La presión del hambre aumentó hasta que todo explotó."
+},
+{
+"titulo": "Cambiar las reglas",
+"texto": "El pueblo quitó al rey y escribió sus propias reglas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál fue su lema?",
+"respuesta": "Libertad, igualdad, fraternidad."
+},
+{
+"ejercicio": "¿Qué rey fue guillotinado?",
+"respuesta": "Luis XVI."
+},
+{
+"ejercicio": "¿Quién dirigió el Terror?",
+"respuesta": "Robespierre."
+}
+],
+"idea": "El pueblo francés tenía hambre, y sus reyes vivían en palacios. Un día tomaron una prisión.",
+"pizarron": "**Qué fue:** la Revolución francesa terminó con la monarquía absoluta en Francia. Inició en 1789.\n\n**Causas:** desigualdad, crisis e ideas ilustradas.\n\n**14 de julio de 1789:** toma de la **Bastilla**.\n\n**Declaración de los Derechos del Hombre.**\n\nLuis XVI fue guillotinado.\n\n**El Terror:** Robespierre.\n\nLema: *Libertad, igualdad, fraternidad*.",
+"truco": "14 de julio de 1789.",
+"practica": {
+"ejercicio": "¿Qué prisión tomaron?",
+"respuesta": "La Bastilla."
+}
+}
+},
+{
+"nodo_id": "f6-064",
+"titulo": "Napoleón Bonaparte",
+"slug": "napoleon-bonaparte-secundaria",
+"palabras": [
+"Napoleón",
+"imperio",
+"Waterloo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Fichas de dominó",
+"texto": "Su invasión a España empujó la independencia de América."
+},
+{
+"titulo": "Gigante caído",
+"texto": "Conquistó mucho, pero el invierno ruso lo frenó."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuándo fue emperador?",
+"respuesta": "En 1804."
+},
+{
+"ejercicio": "¿Dónde murió?",
+"respuesta": "En Santa Elena."
+},
+{
+"ejercicio": "¿Qué país invadió en 1808?",
+"respuesta": "España."
+}
+],
+"idea": "Un militar corso llegó a emperador de Francia y conquistó casi toda Europa, hasta caer.",
+"pizarron": "**Quién fue:** Napoleón Bonaparte (1769-1821) fue un general y emperador francés.\n\nFue emperador en 1804.\n\n**Logros:** Código Napoleónico y conquista de Europa.\n\n**Derrotas:** campaña de Rusia (1812) y **Waterloo** (1815).\n\nMurió exiliado en Santa Elena.\n\nInvadió España en 1808, y eso influyó en las independencias de América.",
+"truco": "Waterloo fue su fin.",
+"practica": {
+"ejercicio": "¿Dónde fue derrotado al final?",
+"respuesta": "En Waterloo."
+}
+}
+},
+{
+"nodo_id": "f6-064",
+"titulo": "Independencias de América Latina",
+"slug": "independencias-de-america-latina-secundaria",
+"palabras": [
+"independencias",
+"América Latina",
+"siglo XIX"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Efecto dominó",
+"texto": "Una independencia animó a la siguiente, como fichas que caen."
+},
+{
+"titulo": "Hijos que se van",
+"texto": "Las colonias dejaron la casa de los reinos europeos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuándo se independizó México?",
+"respuesta": "En 1821."
+},
+{
+"ejercicio": "¿De qué país se independizó Brasil?",
+"respuesta": "De Portugal."
+},
+{
+"ejercicio": "Di una causa.",
+"respuesta": "La invasión napoleónica."
+}
+],
+"idea": "Entre 1808 y 1825, casi toda América Latina se liberó de España y Portugal.",
+"pizarron": "**Qué fue:** las independencias de América Latina fueron procesos para separarse de España y Portugal, en el siglo XIX.\n\n**Causas:** Ilustración, invasión napoleónica y desigualdad.\n\n**Hechos:**\n\n- Haití, 1804: primera independencia.\n- México, 1821.\n- Argentina, 1816.\n- Brasil, 1822.",
+"truco": "Haití fue primero.",
+"practica": {
+"ejercicio": "¿Qué país se independizó primero?",
+"respuesta": "Haití."
+}
+}
+},
+{
+"nodo_id": "f6-064",
+"titulo": "Simón Bolívar y José de San Martín",
+"slug": "simon-bolivar-y-jose-de-san-martin-secundaria",
+"palabras": [
+"Bolívar",
+"San Martín",
+"libertadores"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dos alas",
+"texto": "Fueron dos alas del mismo vuelo por la libertad."
+},
+{
+"titulo": "Sueño grande",
+"texto": "Bolívar quiso unir varios países en uno."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién soñó la Gran Colombia?",
+"respuesta": "Bolívar."
+},
+{
+"ejercicio": "¿Dónde se reunieron?",
+"respuesta": "En Guayaquil."
+},
+{
+"ejercicio": "Di dos países liberados por Bolívar.",
+"respuesta": "Venezuela y Colombia."
+}
+],
+"idea": "Dos generales recorrieron montañas y selvas para liberar a Sudamérica.",
+"pizarron": "**Quién fue:** Simón Bolívar liberó el norte de Sudamérica. José de San Martín liberó el sur.\n\n**Bolívar:** Venezuela, Colombia, Ecuador, Perú y Bolivia.\n\nSoñaba con la **Gran Colombia**.\n\n**San Martín:** Argentina, Chile y Perú. Cruzó los Andes.\n\nSe reunieron en Guayaquil en 1822.",
+"truco": "Bolívar norte; San Martín sur.",
+"practica": {
+"ejercicio": "¿Quién cruzó los Andes?",
+"respuesta": "San Martín."
+}
+}
+},
+{
+"nodo_id": "f6-064",
+"titulo": "Revolución industrial",
+"slug": "revolucion-industrial-secundaria",
+"palabras": [
+"Revolución industrial",
+"máquina de vapor",
+"fábricas"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Manos de metal",
+"texto": "Una máquina hacía el trabajo de muchas personas."
+},
+{
+"titulo": "Tren a toda marcha",
+"texto": "El mundo aceleró de golpe, como un tren que sube la velocidad."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién mejoró la máquina de vapor?",
+"respuesta": "James Watt."
+},
+{
+"ejercicio": "¿Qué grupo nació?",
+"respuesta": "Los obreros."
+},
+{
+"ejercicio": "Di un problema.",
+"respuesta": "El trabajo infantil."
+}
+],
+"idea": "Las máquinas empezaron a hacer el trabajo de muchas manos. Las ciudades y la vida cambiaron.",
+"pizarron": "**Qué fue:** la Revolución industrial fue el paso del trabajo manual a la producción en fábricas, que inició en Gran Bretaña a fines del siglo XVIII.\n\n**Claves:**\n\n- **Máquina de vapor**, de James Watt.\n- Tren.\n- Carbón y hierro.\n- Fábricas.\n\n**Consecuencias:**\n\n- Crecen ciudades.\n- Aparecen obreros.\n- Largas jornadas y trabajo infantil.\n- Nacen los sindicatos.",
+"truco": "Vapor, fábricas y obreros.",
+"practica": {
+"ejercicio": "¿Dónde inició?",
+"respuesta": "En Gran Bretaña."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Unificación de Italia y Alemania",
+"slug": "unificacion-de-italia-y-alemania-prepa",
+"palabras": [
+"unificación",
+"Garibaldi",
+"Bismarck"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Rompecabezas",
+"texto": "Muchas piezas pequeñas se unieron para formar un país."
+},
+{
+"titulo": "Hermanos separados",
+"texto": "Pueblos con la misma lengua volvieron a reunirse en un solo país."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién encabezó a los camisas rojas?",
+"respuesta": "Garibaldi."
+},
+{
+"ejercicio": "¿Qué estado alemán dirigió la unión?",
+"respuesta": "Prusia."
+},
+{
+"ejercicio": "¿En qué año se unió Alemania?",
+"respuesta": "En 1871."
+}
+],
+"idea": "Italia y Alemania no siempre fueron países: eran muchos reinos pequeños que se unieron en el siglo XIX.",
+"pizarron": "**Qué fue:** fueron los procesos que formaron Italia y Alemania como países en el siglo XIX.\n\n**Italia:** Cavour y **Garibaldi**, terminó en 1870.\n\n**Alemania:** **Bismarck**, Prusia, 1871.\n\nEse nacionalismo también causó tensiones en Europa.",
+"truco": "1870 Italia; 1871 Alemania.",
+"practica": {
+"ejercicio": "¿Quién unificó Alemania?",
+"respuesta": "Bismarck."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Guerra Civil de Estados Unidos",
+"slug": "guerra-civil-de-estados-unidos-prepa",
+"palabras": [
+"Guerra de Secesión",
+"Lincoln",
+"esclavitud"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Casa dividida",
+"texto": "Una casa dividida no se mantiene en pie."
+},
+{
+"titulo": "Herida profunda",
+"texto": "Terminó la esclavitud, pero el racismo continuó."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién ganó?",
+"respuesta": "El Norte."
+},
+{
+"ejercicio": "¿Qué abolió la Enmienda 13?",
+"respuesta": "La esclavitud."
+},
+{
+"ejercicio": "¿Qué le pasó a Lincoln?",
+"respuesta": "Fue asesinado."
+}
+],
+"idea": "Un país se partió en dos por la esclavitud. La guerra costó cientos de miles de vidas.",
+"pizarron": "**Qué fue:** la Guerra Civil fue un conflicto en Estados Unidos entre 1861 y 1865, entre el Norte y el Sur.\n\n**Causa principal:** la esclavitud.\n\n**Abraham Lincoln** era presidente.\n\nGanó el Norte.\n\n**Decimotercera Enmienda (1865):** abolió la esclavitud.\n\nLincoln fue asesinado en 1865.",
+"truco": "Norte contra Sur, 1861-1865.",
+"practica": {
+"ejercicio": "¿Quién fue presidente?",
+"respuesta": "Abraham Lincoln."
+}
+}
+},
+{
+"nodo_id": "ems-119",
+"titulo": "Imperialismo y reparto de África",
+"slug": "imperialismo-y-reparto-de-africa-prepa",
+"palabras": [
+"imperialismo",
+"Conferencia de Berlín",
+"África"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Pastel ajeno",
+"texto": "Partieron un pastel que no era suyo y sin invitar a sus dueños."
+},
+{
+"titulo": "Líneas rectas",
+"texto": "Las fronteras se trazaron con regla y sin mirar a los pueblos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué buscaban?",
+"respuesta": "Materias primas y mercados."
+},
+{
+"ejercicio": "Di dos potencias.",
+"respuesta": "Gran Bretaña y Francia."
+},
+{
+"ejercicio": "Di una consecuencia.",
+"respuesta": "Fronteras artificiales."
+}
+],
+"idea": "Unas potencias europeas se sentaron a una mesa y repartieron África sin preguntar a los africanos.",
+"pizarron": "**Qué fue:** el imperialismo fue la dominación de potencias sobre otros territorios, en el siglo XIX.\n\n**Causas:** materias primas, mercados y poder.\n\n**Conferencia de Berlín (1884-1885):** Europa repartió África.\n\n**Potencias:** Gran Bretaña, Francia, Bélgica, Alemania.\n\n**Consecuencias:** fronteras artificiales y explotación.",
+"truco": "Berlín, 1884: repartieron África.",
+"practica": {
+"ejercicio": "¿Qué conferencia repartió África?",
+"respuesta": "La de Berlín."
+}
+}
+}
+]

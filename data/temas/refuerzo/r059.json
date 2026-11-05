@@ -1,0 +1,1129 @@
+[
+{
+"nodo_id": "ems-086",
+"titulo": "Cómo se redacta un ensayo",
+"slug": "como-se-redacta-un-ensayo-prepa",
+"palabras": [
+"ensayo",
+"redacción",
+"estructura"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Juicio",
+"texto": "Tu tesis es el caso y cada argumento es una prueba ante el jurado."
+},
+{
+"titulo": "Puente",
+"texto": "La introducción y la conclusión son los extremos que sostiene el desarrollo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué se hace antes de redactar?",
+"respuesta": "Un esquema."
+},
+{
+"ejercicio": "¿Cuántos argumentos lleva cada párrafo?",
+"respuesta": "Uno."
+},
+{
+"ejercicio": "Haz el esquema de un ensayo sobre redes sociales.",
+"respuesta": "Debe tener tesis, tres argumentos y conclusión."
+}
+],
+"idea": "Un ensayo es tu opinión bien pensada: dices qué crees, lo demuestras y cierras. Como un buen discurso.",
+"pizarron": "**Qué es:** el ensayo es un texto argumentativo en prosa donde el autor analiza un tema y defiende una postura propia.\n\n**Estructura:**\n\n1. **Introducción:** presenta el tema y la tesis.\n2. **Desarrollo:** un párrafo por argumento, con evidencia.\n3. **Conclusión:** retoma la tesis y cierra.\n\n**Pasos:** delimita el tema, investiga, haz un esquema, redacta y revisa.\n\nEscribe en lenguaje formal. Cita tus fuentes.",
+"truco": "Tesis, pruebas y cierre.",
+"practica": {
+"ejercicio": "¿Dónde va la tesis?",
+"respuesta": "En la introducción."
+}
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Tesis, argumentos y conclusión",
+"slug": "tesis-argumentos-y-conclusion-prepa",
+"palabras": [
+"tesis",
+"argumentos",
+"conclusión"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Mesa",
+"texto": "La tesis es la tabla y los argumentos son las patas que la sostienen."
+},
+{
+"titulo": "Fórmula",
+"texto": "Afirmar, probar y cerrar: tres pasos en cualquier discusión."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe una tesis sobre tareas escolares.",
+"respuesta": "Debe ser una postura debatible."
+},
+{
+"ejercicio": "¿De qué se compone un argumento?",
+"respuesta": "De razón y evidencia."
+},
+{
+"ejercicio": "¿Se agregan ideas nuevas en la conclusión?",
+"respuesta": "No."
+}
+],
+"idea": "Quieres convencer a tus amigos de ir a un lugar. Dices tu idea, das razones y cierras. Eso es argumentar.",
+"pizarron": "**Qué es:** la tesis es la idea que se defiende. Los argumentos son las razones que la sostienen. La conclusión es la idea final que se desprende de ellos.\n\n**Tesis:** debe ser debatible y clara.\n\nMala: *Los árboles son verdes.*\n\nBuena: *Las ciudades deben plantar más árboles.*\n\n**Argumento:** razón + evidencia.\n\n*Los árboles bajan la temperatura; un estudio mostró...*\n\n**Conclusión:** no agregues ideas nuevas.",
+"truco": "Si nadie puede discutirla, no es tesis.",
+"practica": {
+"ejercicio": "¿Es tesis *El agua moja*?",
+"respuesta": "No, no se puede debatir."
+}
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Tipos de argumentos",
+"slug": "tipos-de-argumentos-prepa",
+"palabras": [
+"argumentos",
+"autoridad",
+"datos",
+"analogía"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Herramientas",
+"texto": "Cada tipo de argumento es una herramienta para un caso distinto."
+},
+{
+"titulo": "Testigos",
+"texto": "Un juicio se gana con varios testigos, no con uno solo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo usa cifras?",
+"respuesta": "De datos."
+},
+{
+"ejercicio": "Escribe una analogía sobre estudiar.",
+"respuesta": "Debe comparar con algo parecido."
+},
+{
+"ejercicio": "Da un argumento ético a favor de reciclar.",
+"respuesta": "Ejemplo: cuidar el planeta es nuestra responsabilidad."
+}
+],
+"idea": "No todas las razones son iguales. Puedes convencer con datos, con un experto o con una comparación.",
+"pizarron": "**Qué es:** un argumento es una razón para sostener una idea. Se clasifica por el tipo de apoyo que usa.\n\n**Datos:** cifras comprobables.\n\n**Autoridad:** lo dice un experto.\n\n**Ejemplo:** un caso concreto.\n\n**Analogía:** compara con algo parecido.\n\n**Causa y efecto:** muestra consecuencias.\n\n**Ético:** apela a valores.\n\nEjemplo de datos: *El 70 % de la Tierra está cubierta de agua.*\n\nEjemplo de analogía: *Una ciudad sin árboles es como un cuerpo sin pulmones.*",
+"truco": "Mejor varias clases de argumentos.",
+"practica": {
+"ejercicio": "¿Qué tipo es *La OMS recomienda dormir ocho horas*?",
+"respuesta": "De autoridad."
+}
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Falacias",
+"slug": "falacias-prepa",
+"palabras": [
+"falacias",
+"argumentación",
+"ad hominem"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Trampa en el juego",
+"texto": "Parece que ganaste, pero rompiste las reglas."
+},
+{
+"titulo": "Monedas falsas",
+"texto": "Se ven reales, hasta que las revisas con cuidado una por una."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué falacia es *Todos lo compran, cómpralo*?",
+"respuesta": "Apelación a la mayoría."
+},
+{
+"ejercicio": "¿Qué falacia es *O vienes o no eres mi amigo*?",
+"respuesta": "Falsa disyuntiva."
+},
+{
+"ejercicio": "Da un ejemplo de hombre de paja.",
+"respuesta": "Debe deformar la idea del otro para atacarla."
+}
+],
+"idea": "A veces alguien gana una discusión con trampas. Esas trampas se llaman falacias, y aprendes a detectarlas.",
+"pizarron": "**Qué es:** una falacia es un razonamiento que parece válido, pero tiene un error.\n\n**Ad hominem:** ataca a la persona.\n\n*No le creas, es muy joven.*\n\n**Hombre de paja:** deforma la idea del otro.\n\n**Falsa disyuntiva:** da solo dos opciones.\n\n*O estás conmigo o contra mí.*\n\n**Apelación a la mayoría:**\n\n*Todos lo hacen, debe estar bien.*\n\n**Pendiente resbaladiza:** exagera consecuencias.",
+"truco": "Ataca la idea, no a quien la dice.",
+"practica": {
+"ejercicio": "¿Qué falacia es *Es feo, no tiene razón*?",
+"respuesta": "Ad hominem."
+}
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Ficha bibliográfica",
+"slug": "ficha-bibliografica-prepa",
+"palabras": [
+"ficha bibliográfica",
+"referencias",
+"fuentes"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Credencial",
+"texto": "Identifica al libro como tu credencial te identifica a ti."
+},
+{
+"titulo": "Direcciones",
+"texto": "Es una dirección para llegar al texto original."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di tres datos de una ficha.",
+"respuesta": "Autor, título y año."
+},
+{
+"ejercicio": "Haz la ficha de un libro de tu casa.",
+"respuesta": "Debe tener autor, año, título y editorial."
+},
+{
+"ejercicio": "¿Cuándo se anota la ficha?",
+"respuesta": "Mientras se consulta la fuente."
+}
+],
+"idea": "Es la credencial de un libro: dice quién lo escribió, cuándo y dónde. Así cualquiera puede encontrarlo.",
+"pizarron": "**Qué es:** la ficha bibliográfica registra los datos de una fuente para localizarla.\n\n**Datos de un libro:**\n\n- Autor.\n- Año.\n- Título.\n- Editorial.\n- Ciudad.\n\nEjemplo:\n\n*Paz, O. (1950). El laberinto de la soledad. Cuadernos Americanos.*\n\n**Página web:** autor, fecha, título y dirección.\n\nAnótala cuando consultes, no al final.",
+"truco": "Autor, año, título y editorial.",
+"practica": {
+"ejercicio": "¿Qué dato va primero?",
+"respuesta": "El autor."
+}
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Citar en APA",
+"slug": "citar-en-apa-prepa",
+"palabras": [
+"APA",
+"citas",
+"referencias"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Reglamento",
+"texto": "Como en futbol, todos siguen las mismas reglas."
+},
+{
+"titulo": "Rastro",
+"texto": "Tus citas dejan migajas para volver a la fuente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Cita con paráfrasis a López (2019).",
+"respuesta": "*López (2019) afirma que...*"
+},
+{
+"ejercicio": "¿Cómo se ordenan las referencias?",
+"respuesta": "Alfabéticamente por apellido."
+},
+{
+"ejercicio": "¿Lleva comillas una cita larga?",
+"respuesta": "No."
+}
+],
+"idea": "APA es un reglamento para citar. Si todos siguen las mismas reglas, cualquiera puede revisar tus fuentes.",
+"pizarron": "**Qué es:** APA es un sistema de citación que pone autor y año en el texto, y la referencia completa al final.\n\n**Cita corta (menos de 40 palabras):**\n\n*«Leer abre puertas» (Pérez, 2021, p. 15).*\n\n**Paráfrasis:**\n\n*Pérez (2021) afirma que leer ayuda a pensar.*\n\n**Cita larga:** bloque aparte, sin comillas.\n\n**Referencia:**\n\n*Pérez, A. (2021). Leer hoy. Editorial Luz.*\n\nOrdena las referencias alfabéticamente por apellido.",
+"truco": "Autor, año y página.",
+"practica": {
+"ejercicio": "¿Qué se pone en una cita corta?",
+"respuesta": "Autor, año y página."
+}
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Paráfrasis y plagio",
+"slug": "parafrasis-y-plagio-prepa",
+"palabras": [
+"paráfrasis",
+"plagio",
+"honestidad académica"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Contar la película",
+"texto": "La cuentas con tus palabras, pero dices quién la hizo."
+},
+{
+"titulo": "Firma ajena",
+"texto": "Plagiar es poner tu firma en el dibujo que hizo otra persona."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Parafrasea: *El deporte mejora la salud.*",
+"respuesta": "Ejemplo: *Hacer ejercicio ayuda a estar sano.*"
+},
+{
+"ejercicio": "¿Qué es plagio?",
+"respuesta": "Presentar ideas ajenas como propias."
+},
+{
+"ejercicio": "¿Basta cambiar una palabra?",
+"respuesta": "No."
+}
+],
+"idea": "Contar con tus palabras lo que leíste está bien. Copiar y decir que es tuyo no: se llama plagio.",
+"pizarron": "**Qué es:** la paráfrasis reescribe una idea ajena con palabras propias, citando la fuente. El plagio presenta ideas ajenas como propias.\n\n**Original:** *La lectura amplía el vocabulario.*\n\n**Mal:** *La lectura aumenta el vocabulario.* Solo cambiaste una palabra y no citaste.\n\n**Bien:** *Según Ruiz (2020), quien lee conoce más palabras.*\n\n**Pasos:**\n\n1. Lee y cierra el texto.\n2. Escribe lo que entendiste.\n3. Compara.\n4. Cita.\n\nEl plagio puede tener consecuencias académicas.",
+"truco": "Con tus palabras y siempre con cita.",
+"practica": {
+"ejercicio": "¿Parafrasear evita citar?",
+"respuesta": "No, también se cita."
+}
+}
+},
+{
+"nodo_id": "ems-086",
+"titulo": "Vicios del lenguaje",
+"slug": "vicios-del-lenguaje-prepa",
+"palabras": [
+"vicios del lenguaje",
+"pleonasmo",
+"muletillas"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Maleza",
+"texto": "Los vicios crecen como hierbas que estorban en el jardín."
+},
+{
+"titulo": "Equipaje de más",
+"texto": "Quitar palabras extras hace más ligero tu texto."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *Fuistes al cine.*",
+"respuesta": "*Fuiste al cine.*"
+},
+{
+"ejercicio": "¿Qué vicio es *subir arriba*?",
+"respuesta": "Pleonasmo."
+},
+{
+"ejercicio": "Da una muletilla común.",
+"respuesta": "*o sea*"
+}
+],
+"idea": "Son malos hábitos al hablar y escribir, como subir arriba o decir o sea cada cinco palabras.",
+"pizarron": "**Qué es:** los vicios del lenguaje son errores que dañan la claridad o corrección.\n\n**Pleonasmo:** palabras que sobran.\n\n*Subir arriba.*\n\n**Muletilla:** repetir sin necesidad.\n\n*O sea, este, ¿no?*\n\n**Barbarismo:** palabra mal dicha.\n\n*Haiga, fuistes.*\n\n**Cacofonía:** sonidos repetidos que suenan mal.\n\n**Ambigüedad:** con dos sentidos.\n\n*Vi al perro de Juan corriendo.*",
+"truco": "Si la palabra no aporta, quítala.",
+"practica": {
+"ejercicio": "Corrige: *Sal afuera.*",
+"respuesta": "*Sal.*"
+}
+}
+},
+{
+"nodo_id": "ems-087",
+"titulo": "Lectura literal, inferencial y crítica",
+"slug": "lectura-literal-inferencial-y-critica-prepa",
+"palabras": [
+"niveles de lectura",
+"literal",
+"inferencial",
+"crítica"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tres pisos",
+"texto": "Cada nivel es un piso más alto del mismo edificio."
+},
+{
+"titulo": "Película",
+"texto": "Ves la trama, deduces los motivos y juzgas si fue buena."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué nivel responde *¿Quién llegó?*?",
+"respuesta": "Literal."
+},
+{
+"ejercicio": "¿Qué nivel responde *¿Qué sentía?*?",
+"respuesta": "Inferencial."
+},
+{
+"ejercicio": "Lee una noticia y responde una pregunta de cada nivel.",
+"respuesta": "Debe haber tres respuestas."
+}
+],
+"idea": "Ves nubes: es lo literal. Deduces que lloverá: es inferir. Decides si fue buena idea salir: es crítica.",
+"pizarron": "**Qué es:** los niveles de lectura van de entender lo que dice el texto a evaluarlo.\n\n**Literal:** lo que dice.\n\n*¿Qué pasó? ¿Quién?*\n\n**Inferencial:** lo que da a entender.\n\n*¿Por qué lo hizo?*\n\n**Crítica:** lo que opinas y por qué.\n\n*¿Estoy de acuerdo? ¿Qué fuentes usa?*\n\nPregúntate en orden: ¿qué dice?, ¿qué quiere decir?, ¿qué pienso?",
+"truco": "Dice, quiere decir y pienso.",
+"practica": {
+"ejercicio": "¿Qué nivel responde *¿Estoy de acuerdo?*?",
+"respuesta": "Crítico."
+}
+}
+},
+{
+"nodo_id": "ems-087",
+"titulo": "Estrategias antes, durante y después de leer",
+"slug": "estrategias-antes-durante-y-despues-de-leer-prepa",
+"palabras": [
+"estrategias de lectura",
+"comprensión"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Viaje",
+"texto": "Mapa antes, brújula durante y fotos después."
+},
+{
+"titulo": "Entrenamiento",
+"texto": "Calientas, juegas y luego repasas la jugada."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué haces si no entiendes un párrafo?",
+"respuesta": "Lo relees."
+},
+{
+"ejercicio": "Di una estrategia para después de leer.",
+"respuesta": "Resumir."
+},
+{
+"ejercicio": "Aplica las tres etapas a un capítulo de tu libro.",
+"respuesta": "Anota qué hiciste en cada una."
+}
+],
+"idea": "Antes de un viaje miras el mapa, durante el camino te orientas y al final recuerdas lo vivido. Leer es igual.",
+"pizarron": "**Qué es:** las estrategias de lectura son acciones que ayudan a entender un texto.\n\n**Antes:**\n\n- Define tu propósito.\n- Mira títulos e imágenes.\n- Predice.\n\n**Durante:**\n\n- Subraya.\n- Haz preguntas.\n- Busca palabras nuevas.\n- Relee.\n\n**Después:**\n\n- Resume.\n- Haz un esquema.\n- Explícalo a alguien.",
+"truco": "Predice, subraya y resume.",
+"practica": {
+"ejercicio": "¿Qué se hace antes de leer?",
+"respuesta": "Definir un propósito y predecir."
+}
+}
+},
+{
+"nodo_id": "ems-087",
+"titulo": "Resumen, síntesis y mapa conceptual",
+"slug": "resumen-sintesis-y-mapa-conceptual-prepa",
+"palabras": [
+"resumen",
+"síntesis",
+"mapa conceptual"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Mapa",
+"texto": "Muestra el camino entre ideas de un vistazo."
+},
+{
+"titulo": "Licuado",
+"texto": "La síntesis mezcla varias frutas en una bebida."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuál puede unir varias fuentes?",
+"respuesta": "La síntesis."
+},
+{
+"ejercicio": "Haz un mapa conceptual de los estados del agua.",
+"respuesta": "Debe tener conceptos y enlaces."
+},
+{
+"ejercicio": "Resume un texto en tres oraciones.",
+"respuesta": "Debe conservar las ideas principales."
+}
+],
+"idea": "Hay tres formas de quedarte con lo importante: en corto, con tus palabras o con un dibujo de ideas.",
+"pizarron": "**Qué es:** el resumen reduce un texto a sus ideas principales. La síntesis las reorganiza con tus palabras y conclusiones. El mapa conceptual muestra conceptos unidos por enlaces.\n\n**Resumen:** fiel al orden del autor.\n\n**Síntesis:** puede unir varias fuentes.\n\n**Mapa conceptual:**\n\n- Tema arriba.\n- Conceptos en cajas.\n- Líneas con palabras de enlace.\n\nEjemplo: *Agua* → *es* → *líquido*.",
+"truco": "Resumir recorta; sintetizar reconstruye.",
+"practica": {
+"ejercicio": "¿Qué une los conceptos?",
+"respuesta": "Líneas con palabras de enlace."
+}
+}
+},
+{
+"nodo_id": "ems-088",
+"titulo": "Cohesión y coherencia",
+"slug": "cohesion-y-coherencia-prepa",
+"palabras": [
+"cohesión",
+"coherencia",
+"texto"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Rompecabezas",
+"texto": "Coherencia es la imagen; cohesión, cómo embonan las piezas."
+},
+{
+"titulo": "Collar",
+"texto": "Las cuentas son ideas y el hilo es la cohesión."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Es coherente *Estoy feliz porque estoy triste*?",
+"respuesta": "No, se contradice."
+},
+{
+"ejercicio": "Une: *Ana estudió. Ana aprobó.*",
+"respuesta": "*Ana estudió; por eso, aprobó.*"
+},
+{
+"ejercicio": "Di un recurso de cohesión.",
+"respuesta": "Los pronombres."
+}
+],
+"idea": "Coherencia es que el texto tenga sentido. Cohesión es que sus partes estén bien unidas.",
+"pizarron": "**Qué es:** la coherencia es la relación lógica de las ideas de un texto. La cohesión son los recursos que enlazan sus oraciones.\n\n**Coherencia:** un tema, un orden y sin contradicciones.\n\n**Cohesión:**\n\n- Conectores: *además, por eso*.\n- Pronombres: *Ana llegó. Ella...*\n- Sinónimos para no repetir.\n\nSin coherencia:\n\n*Me gusta el pan. Marte es rojo.*",
+"truco": "Coherencia es sentido; cohesión es unión.",
+"practica": {
+"ejercicio": "¿Los conectores dan cohesión o coherencia?",
+"respuesta": "Cohesión."
+}
+}
+},
+{
+"nodo_id": "ems-088",
+"titulo": "Tipos de conectores",
+"slug": "tipos-de-conectores-prepa",
+"palabras": [
+"conectores",
+"marcadores",
+"cohesión"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Señales",
+"texto": "Avisan si sigues recto, das vuelta o llegas."
+},
+{
+"titulo": "Bisagras",
+"texto": "Unen dos ideas y dejan que el texto se mueva."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué función tiene *por ende*?",
+"respuesta": "Consecuencia."
+},
+{
+"ejercicio": "Da un conector para sumar.",
+"respuesta": "*además*"
+},
+{
+"ejercicio": "Completa: *Llovió; ___, salimos.*",
+"respuesta": "*sin embargo*"
+}
+],
+"idea": "Los conectores son señales que dicen hacia dónde va tu idea: suma, contrasta o concluye.",
+"pizarron": "**Qué es:** los conectores son palabras que relacionan ideas y muestran su sentido.\n\n| Función | Conectores |\n|---|---|\n| Suma | además, asimismo |\n| Contraste | sin embargo, no obstante |\n| Causa | porque, ya que |\n| Consecuencia | por lo tanto, por ende |\n| Ejemplo | por ejemplo, es decir |\n| Orden | primero, finalmente |\n| Conclusión | en conclusión, en suma |\n\nUsa el que diga la relación correcta, no el que suene más elegante.",
+"truco": "Elige el conector por su función.",
+"practica": {
+"ejercicio": "¿Qué función tiene *sin embargo*?",
+"respuesta": "Contraste."
+}
+}
+},
+{
+"nodo_id": "ems-088",
+"titulo": "Oraciones subordinadas",
+"slug": "oraciones-subordinadas-prepa",
+"palabras": [
+"subordinadas",
+"sustantivas",
+"adjetivas",
+"adverbiales"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Sustitutos",
+"texto": "Un grupo de palabras ocupa el lugar de una sola."
+},
+{
+"titulo": "Muñecas rusas",
+"texto": "Una oración cabe dentro de otra, como las muñecas que se guardan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Clasifica: *El niño que corre es Luis.*",
+"respuesta": "Adjetiva."
+},
+{
+"ejercicio": "Clasifica: *Si llueve, no salgo.*",
+"respuesta": "Adverbial condicional."
+},
+{
+"ejercicio": "Clasifica: *Dijo que sí.*",
+"respuesta": "Sustantiva."
+}
+],
+"idea": "Una subordinada funciona como una palabra de la oración principal: como sustantivo, adjetivo o adverbio.",
+"pizarron": "**Qué es:** la oración subordinada depende de otra y cumple una función dentro de ella.\n\n**Sustantiva:** funciona como sustantivo.\n\n*Quiero que vengas.* Equivale a *Quiero eso.*\n\n**Adjetiva o de relativo:** describe a un sustantivo.\n\n*El libro que leí es bueno.*\n\n**Adverbial:** indica tiempo, lugar, causa, condición.\n\n*Saldré cuando pare la lluvia.*",
+"truco": "Cámbiala por eso, tal o entonces.",
+"practica": {
+"ejercicio": "¿Qué tipo es *que vengas*?",
+"respuesta": "Sustantiva."
+}
+}
+},
+{
+"nodo_id": "ems-088",
+"titulo": "Signos de puntuación avanzados",
+"slug": "signos-de-puntuacion-avanzados-prepa",
+"palabras": [
+"puntos suspensivos",
+"paréntesis",
+"comillas",
+"guiones"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Gestos",
+"texto": "Los signos son los gestos del texto escrito."
+},
+{
+"titulo": "Notas de música",
+"texto": "Marcan pausas y tonos como una partitura."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué signo inicia un diálogo?",
+"respuesta": "La raya."
+},
+{
+"ejercicio": "¿Qué signo usarías para una aclaración?",
+"respuesta": "Paréntesis."
+},
+{
+"ejercicio": "Une con guion: *teórico* y *práctico*.",
+"respuesta": "*teórico-práctico*"
+}
+],
+"idea": "Más allá del punto y la coma hay signos que dan matices, como las pausas y los gestos al hablar.",
+"pizarron": "**Qué es:** estos signos organizan aclaraciones, citas e intenciones.\n\n**Puntos suspensivos:** dejan algo en duda. Son tres.\n\n*Quizá...*\n\n**Paréntesis:** aclaran.\n\n*Juárez (1806-1872).*\n\n**Comillas:** citas o sentido especial.\n\n**Raya:** diálogos y aclaraciones.\n\n—*Ven* —dijo Ana.\n\n**Guion:** une palabras: *teórico-práctico*.\n\n**Punto y coma:** separa ideas relacionadas.\n\n**Dos puntos:** anuncian.",
+"truco": "Tres puntos, ni más ni menos.",
+"practica": {
+"ejercicio": "¿Cuántos puntos suspensivos son?",
+"respuesta": "Tres."
+}
+}
+},
+{
+"nodo_id": "ems-088",
+"titulo": "Formas verbales y correlación",
+"slug": "formas-verbales-y-correlacion-prepa",
+"palabras": [
+"correlación verbal",
+"tiempos",
+"subjuntivo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tren",
+"texto": "Todos los vagones del tren deben ir sobre la misma vía del tiempo."
+},
+{
+"titulo": "Baile",
+"texto": "Todos siguen el mismo compás para no chocar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Corrige: *Si hubiera sabido, venía.*",
+"respuesta": "*Si hubiera sabido, habría venido.*"
+},
+{
+"ejercicio": "¿Qué expresa *había comido*?",
+"respuesta": "Un pasado anterior a otro."
+},
+{
+"ejercicio": "Completa: *Si llueve, ___ en casa.* (quedarse, yo)",
+"respuesta": "*me quedaré*"
+}
+],
+"idea": "En una historia los tiempos deben ir parejos. Si mezclas sin razón, el lector se confunde.",
+"pizarron": "**Qué es:** la correlación verbal es la relación lógica entre los tiempos de una oración o texto.\n\n**Mal:** *Ayer llegó y dice que vendrá.*\n\n**Bien:** *Ayer llegó y dijo que vendría.*\n\n**Pasados:**\n\n- *Comí:* terminado.\n- *Comía:* duraba.\n- *Había comido:* antes de otro pasado.\n\n**Condiciones:**\n\n*Si estudias, aprobarás.*\n\n*Si estudiaras, aprobarías.*\n\n*Si hubieras estudiado, habrías aprobado.*",
+"truco": "Si cuentas en pasado, quédate en pasado.",
+"practica": {
+"ejercicio": "Corrige: *Si tendría dinero, viajaría.*",
+"respuesta": "*Si tuviera dinero, viajaría.*"
+}
+}
+},
+{
+"nodo_id": "ems-091",
+"titulo": "Modos discursivos: narrar, describir, exponer y argumentar",
+"slug": "modos-discursivos-narrar-describir-exponer-y-argumentar-prepa",
+"palabras": [
+"modos discursivos",
+"narrar",
+"describir"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cuatro herramientas",
+"texto": "Cada propósito pide una herramienta distinta."
+},
+{
+"titulo": "Película",
+"texto": "Un mismo tema se puede contar, explicar o debatir."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué modo domina en un cuento?",
+"respuesta": "Narrar."
+},
+{
+"ejercicio": "¿Qué modo domina en un anuncio político?",
+"respuesta": "Argumentar."
+},
+{
+"ejercicio": "Describe tu calle en tres oraciones.",
+"respuesta": "Debe decir cómo es."
+}
+],
+"idea": "Cuando hablas, a veces cuentas, a veces pintas, a veces explicas y a veces convences.",
+"pizarron": "**Qué es:** los modos discursivos son las formas de organizar un texto según su propósito.\n\n**Narrar:** contar hechos en el tiempo.\n\n**Describir:** decir cómo es algo.\n\n**Exponer:** explicar información.\n\n**Argumentar:** convencer con razones.\n\nUn texto puede combinar varios. Un artículo puede narrar un caso y luego argumentar.\n\nPregunta: ¿qué quiere lograr el autor?",
+"truco": "Cuenta, pinta, explica o convence.",
+"practica": {
+"ejercicio": "¿Qué modo domina en una enciclopedia?",
+"respuesta": "Exponer."
+}
+}
+},
+{
+"nodo_id": "ems-091",
+"titulo": "Textos funcionales: carta formal, currículum y solicitud",
+"slug": "textos-funcionales-carta-formal-curriculum-y-solicitud-prepa",
+"palabras": [
+"carta formal",
+"currículum",
+"solicitud"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Traje",
+"texto": "Te vistes formal por escrito, como para ir a una entrevista."
+},
+{
+"titulo": "Tarjeta de presentación",
+"texto": "El currículum habla por ti antes de la entrevista."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Escribe un saludo formal.",
+"respuesta": "*Estimado señor Pérez:*"
+},
+{
+"ejercicio": "¿Qué secciones tiene un currículum?",
+"respuesta": "Datos, estudios, experiencia y habilidades."
+},
+{
+"ejercicio": "Redacta una carta para pedir una constancia.",
+"respuesta": "Debe tener fecha, saludo, motivo y despedida."
+}
+],
+"idea": "Para pedir un trabajo o un trámite no basta hablar. Hay textos con formatos que todos entienden.",
+"pizarron": "**Qué es:** los textos funcionales sirven para resolver trámites o tareas de la vida diaria.\n\n**Carta formal:**\n\n1. Lugar y fecha.\n2. Destinatario.\n3. Saludo: *Estimada licenciada:*\n4. Motivo.\n5. Despedida: *Atentamente,*\n6. Firma.\n\n**Currículum:** datos, estudios, experiencia y habilidades.\n\n**Solicitud:** pide algo con datos claros.\n\nSé breve, formal y sin errores.",
+"truco": "Claro, breve y formal.",
+"practica": {
+"ejercicio": "¿Con qué se despide una carta formal?",
+"respuesta": "*Atentamente*."
+}
+}
+},
+{
+"nodo_id": "ems-100",
+"titulo": "Literatura prehispánica",
+"slug": "literatura-prehispanica-prepa",
+"palabras": [
+"literatura prehispánica",
+"Popol Vuh",
+"Nezahualcóyotl"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Memoria viva",
+"texto": "Las historias pasaban de abuelos a nietos."
+},
+{
+"titulo": "Pinturas que hablan",
+"texto": "Los códices guardaban historias en imágenes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién fue Nezahualcóyotl?",
+"respuesta": "Poeta y gobernante de Texcoco."
+},
+{
+"ejercicio": "¿Qué significa *flor y canto*?",
+"respuesta": "Poesía."
+},
+{
+"ejercicio": "¿Cómo se transmitían las obras?",
+"respuesta": "Oralmente y en códices."
+}
+],
+"idea": "Antes de la Conquista ya había poetas y libros en México. Sus historias siguen vivas.",
+"pizarron": "**Qué es:** la literatura prehispánica son las obras creadas por pueblos originarios de Mesoamérica antes de la llegada de los españoles.\n\nSe transmitía de forma oral y en códices.\n\n**Obras y autores:**\n\n- *Popol Vuh*: libro sagrado maya k'iche'.\n- *Rabinal Achí*: drama maya.\n- *Chilam Balam*: textos mayas.\n- **Nezahualcóyotl**: poeta y gobernante de Texcoco.\n\nTemas: dioses, origen del mundo, guerra y lo breve de la vida.\n\nEn náhuatl, la poesía se llamaba *flor y canto*.",
+"truco": "Flor y canto era poesía.",
+"practica": {
+"ejercicio": "¿Qué libro sagrado es maya?",
+"respuesta": "El *Popol Vuh*."
+}
+}
+},
+{
+"nodo_id": "ems-100",
+"titulo": "Siglo de Oro",
+"slug": "siglo-de-oro-prepa",
+"palabras": [
+"Siglo de Oro",
+"Cervantes",
+"Lope de Vega",
+"Quevedo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Temporada dorada",
+"texto": "Un equipo con todas sus estrellas al mismo tiempo."
+},
+{
+"titulo": "Banquete",
+"texto": "Hubo de todo y de gran calidad en la mesa de las letras."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Quién escribió *Fuenteovejuna*?",
+"respuesta": "Lope de Vega."
+},
+{
+"ejercicio": "¿En qué siglos ocurrió?",
+"respuesta": "XVI y XVII."
+},
+{
+"ejercicio": "¿Qué autora novohispana destaca?",
+"respuesta": "Sor Juana Inés de la Cruz."
+}
+],
+"idea": "Durante unos cien años, España tuvo a algunos de sus mejores escritores al mismo tiempo.",
+"pizarron": "**Qué es:** el Siglo de Oro es la época de esplendor de las letras españolas, en los siglos XVI y XVII.\n\n**Autores:**\n\n- **Cervantes**: *Don Quijote*.\n- **Lope de Vega**: *Fuenteovejuna*.\n- **Calderón**: *La vida es sueño*.\n- **Quevedo**: poesía satírica.\n- **Góngora**: poesía culta.\n- **Sor Juana**: la gran figura de la Nueva España.\n\nDesarrolló la novela, el teatro y la poesía.",
+"truco": "Quijote, Lope y Calderón.",
+"practica": {
+"ejercicio": "¿Quién escribió *La vida es sueño*?",
+"respuesta": "Calderón de la Barca."
+}
+}
+},
+{
+"nodo_id": "ems-100",
+"titulo": "Romanticismo",
+"slug": "romanticismo-prepa",
+"palabras": [
+"Romanticismo",
+"sentimiento",
+"libertad"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tormenta",
+"texto": "Los sentimientos se parecen a un cielo agitado."
+},
+{
+"titulo": "Rebelde",
+"texto": "Se rebela contra reglas que limitan lo que siente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué valora el Romanticismo?",
+"respuesta": "Sentimiento y libertad."
+},
+{
+"ejercicio": "Di un romántico mexicano.",
+"respuesta": "Manuel Acuña."
+},
+{
+"ejercicio": "¿Qué sentimiento es frecuente?",
+"respuesta": "El amor imposible."
+}
+],
+"idea": "Tras tanta razón, unos escritores dijeron: lo importante es lo que sientes. Así nació el Romanticismo.",
+"pizarron": "**Qué es:** el Romanticismo es un movimiento artístico de fines del siglo XVIII y del XIX que valora el sentimiento, la libertad y la individualidad.\n\n**Rasgos:**\n\n- Emoción sobre razón.\n- Amor imposible.\n- Naturaleza intensa.\n- Interés por lo nacional.\n\n**Autores:**\n\n- Goethe, Alemania.\n- Bécquer, España: *Rimas*.\n- Víctor Hugo, Francia.\n- Manuel Acuña, México.",
+"truco": "Corazón sobre razón.",
+"practica": {
+"ejercicio": "¿Quién escribió las *Rimas*?",
+"respuesta": "Gustavo Adolfo Bécquer."
+}
+}
+},
+{
+"nodo_id": "ems-100",
+"titulo": "Realismo",
+"slug": "realismo-prepa",
+"palabras": [
+"Realismo",
+"novela",
+"Galdós",
+"Flaubert"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Fotografía",
+"texto": "Como una foto de su tiempo, sin retoques."
+},
+{
+"titulo": "Periodista",
+"texto": "Observa, anota y cuenta lo que ve en la calle, sin inventar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo de personajes usa?",
+"respuesta": "Personas comunes."
+},
+{
+"ejercicio": "¿Quién escribió *Crimen y castigo*?",
+"respuesta": "Dostoievski."
+},
+{
+"ejercicio": "¿En qué siglo surgió?",
+"respuesta": "En el XIX."
+}
+],
+"idea": "Unos escritores dijeron: basta de fantasías, contemos la vida como es. Y salieron a observar la calle.",
+"pizarron": "**Qué es:** el Realismo es un movimiento literario del siglo XIX que busca retratar la realidad social con objetividad.\n\n**Rasgos:**\n\n- Observación detallada.\n- Personajes comunes.\n- Crítica social.\n- Narrador objetivo.\n\n**Autores:**\n\n- Flaubert: *Madame Bovary*.\n- Galdós: *Fortunata y Jacinta*.\n- Dostoievski: *Crimen y castigo*.\n- Tolstói: *Guerra y paz*.\n- Federico Gamboa: *Santa*, en México, cercana al naturalismo.",
+"truco": "Mira la calle y escríbela.",
+"practica": {
+"ejercicio": "¿Quién escribió *Madame Bovary*?",
+"respuesta": "Gustave Flaubert."
+}
+}
+},
+{
+"nodo_id": "ems-100",
+"titulo": "Modernismo",
+"slug": "modernismo-prepa",
+"palabras": [
+"Modernismo",
+"Rubén Darío",
+"Nervo",
+"Gutiérrez Nájera"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Joyería",
+"texto": "Trabaja las palabras como un joyero sus piedras."
+},
+{
+"titulo": "Partitura",
+"texto": "El poema se escucha como una canción aunque lo leas en silencio."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di un modernista mexicano.",
+"respuesta": "Amado Nervo."
+},
+{
+"ejercicio": "¿Qué busca el Modernismo?",
+"respuesta": "La belleza del lenguaje."
+},
+{
+"ejercicio": "¿De qué país era Rubén Darío?",
+"respuesta": "De Nicaragua."
+}
+],
+"idea": "Rubén Darío cambió el español: palabras musicales, colores y ritmos nuevos. Así nació un movimiento americano.",
+"pizarron": "**Qué es:** el Modernismo es un movimiento literario hispanoamericano de fines del siglo XIX y principios del XX que busca la belleza del lenguaje.\n\n**Rasgos:**\n\n- Musicalidad.\n- Imágenes refinadas.\n- Temas exóticos.\n- Renovación del verso.\n\n**Autores:**\n\n- **Rubén Darío**, Nicaragua: *Azul...*\n- **José Martí**, Cuba.\n- **Manuel Gutiérrez Nájera**, México.\n- **Amado Nervo**, México.",
+"truco": "Música en cada palabra.",
+"practica": {
+"ejercicio": "¿Quién encabezó el Modernismo?",
+"respuesta": "Rubén Darío."
+}
+}
+},
+{
+"nodo_id": "ems-100",
+"titulo": "Boom latinoamericano",
+"slug": "boom-latinoamericano-prepa",
+"palabras": [
+"Boom",
+"García Márquez",
+"Cortázar",
+"Vargas Llosa"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Fuegos artificiales",
+"texto": "Fue una explosión de libros que se oyó en todo el mundo."
+},
+{
+"titulo": "Sueño en la cocina",
+"texto": "Lo fantástico aparece como algo diario, igual que preparar el desayuno."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es realismo mágico?",
+"respuesta": "Mezcla de lo real con lo fantástico."
+},
+{
+"ejercicio": "Di un autor mexicano del Boom.",
+"respuesta": "Carlos Fuentes."
+},
+{
+"ejercicio": "¿En qué décadas ocurrió?",
+"respuesta": "1960 y 1970."
+}
+],
+"idea": "En los años 60, las novelas de América Latina llegaron a todo el mundo. Fue una explosión de talento.",
+"pizarron": "**Qué es:** el Boom es el auge internacional de la narrativa latinoamericana en las décadas de 1960 y 1970.\n\n**Autores:**\n\n- **Gabriel García Márquez**: *Cien años de soledad*.\n- **Julio Cortázar**: *Rayuela*.\n- **Mario Vargas Llosa**: *La ciudad y los perros*.\n- **Carlos Fuentes**: *La muerte de Artemio Cruz*.\n\n**Rasgos:** experimentos narrativos, tiempos revueltos y **realismo mágico**, que mezcla lo real con lo fantástico.",
+"truco": "Lo mágico se cuenta como real.",
+"practica": {
+"ejercicio": "¿Quién escribió *Rayuela*?",
+"respuesta": "Julio Cortázar."
+}
+}
+},
+{
+"nodo_id": "ems-104",
+"titulo": "Figuras retóricas por ejemplos",
+"slug": "figuras-retoricas-por-ejemplos-prepa",
+"palabras": [
+"figuras retóricas",
+"antítesis",
+"ironía",
+"aliteración"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Especias",
+"texto": "Cada figura da un sabor diferente al texto."
+},
+{
+"titulo": "Trucos de cámara",
+"texto": "Cambian cómo se ve la misma escena sin cambiar lo que ocurre."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué figura es *Vivo sin vivir*?",
+"respuesta": "Paradoja."
+},
+{
+"ejercicio": "¿Qué figura repite sonidos?",
+"respuesta": "Aliteración."
+},
+{
+"ejercicio": "Escribe una antítesis sobre el amor.",
+"respuesta": "Debe unir ideas opuestas."
+}
+],
+"idea": "Los escritores usan trucos para que las palabras peguen más. Aquí aprendes a reconocerlos con ejemplos.",
+"pizarron": "**Qué es:** las figuras retóricas son recursos que alteran el lenguaje común para dar belleza o fuerza.\n\n**Metáfora:** *Tus ojos son soles.*\n\n**Hipérbaton:** cambia el orden. *Del salón en el ángulo oscuro.*\n\n**Aliteración:** repite sonidos. *El ruido con que rueda la ronca tempestad.*\n\n**Antítesis:** ideas opuestas. *Es hielo abrasador.*\n\n**Ironía:** dice lo contrario. *¡Qué listo!*, a quien se equivocó.\n\n**Paradoja:** parece contradecirse. *Vivo sin vivir en mí.*\n\n**Metonimia:** nombra una cosa por otra cercana. *Leí a Cervantes.*",
+"truco": "Pregunta qué truco hace el sonido o sentido.",
+"practica": {
+"ejercicio": "¿Qué figura es *Leí a Rulfo*?",
+"respuesta": "Metonimia."
+}
+}
+},
+{
+"nodo_id": "ems-104",
+"titulo": "Métrica y rima",
+"slug": "metrica-y-rima-prepa",
+"palabras": [
+"métrica",
+"sílabas métricas",
+"rima",
+"soneto"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Compases",
+"texto": "Cada verso dura lo mismo, como un compás."
+},
+{
+"titulo": "Palmas",
+"texto": "Da una palmada por cada sílaba del verso."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué tipo de rima tienen *casa* y *alma*?",
+"respuesta": "Asonante."
+},
+{
+"ejercicio": "Un verso termina en palabra aguda y tiene 7 sílabas. ¿Cuántas cuenta?",
+"respuesta": "8."
+},
+{
+"ejercicio": "¿Cuántas sílabas tiene un endecasílabo?",
+"respuesta": "11."
+}
+],
+"idea": "Los versos tienen ritmo, como una canción con compases. Para medirlo se cuentan sus sílabas.",
+"pizarron": "**Qué es:** la métrica estudia la medida de los versos. La rima es la repetición de sonidos finales.\n\n**Sílabas métricas:**\n\n- **Sinalefa:** une vocales entre palabras.\n- Si el verso termina en aguda, suma 1.\n- Si termina en esdrújula, resta 1.\n\n**Rima:**\n\n- Consonante: iguales vocales y consonantes. *Flor, amor.*\n- Asonante: solo vocales. *Casa, alma.*\n\n**Soneto:** 14 versos de 11 sílabas: 2 cuartetos y 2 tercetos.",
+"truco": "Aguda suma, esdrújula resta.",
+"practica": {
+"ejercicio": "¿Cuántos versos tiene un soneto?",
+"respuesta": "14."
+}
+}
+}
+]

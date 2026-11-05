@@ -1,0 +1,1302 @@
+[
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Norteamérica",
+"slug": "paises-y-capitales-de-norteamerica-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Norteamérica"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tres vecinos",
+"texto": "Tres casas grandes en la misma calle del continente."
+},
+{
+"titulo": "La trampa",
+"texto": "La ciudad más famosa no siempre es la capital."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Estados Unidos?",
+"respuesta": "Washington D. C."
+},
+{
+"ejercicio": "¿Qué país es muy extenso al norte?",
+"respuesta": "Canadá."
+},
+{
+"ejercicio": "¿Es Toronto capital?",
+"respuesta": "No, es Ottawa."
+}
+],
+"idea": "Norteamérica tiene países enormes. México comparte el continente con vecinos muy grandes.",
+"pizarron": "**Qué es:** América del Norte es una parte del continente americano, con tres países principales.\n\n| País | Capital |\n|---|---|\n| Canadá | Ottawa |\n| Estados Unidos | Washington D. C. |\n| México | Ciudad de México |\n\nCanadá es el segundo país más grande del mundo.\n\nNueva York no es la capital de Estados Unidos.\n\nToronto no es la capital de Canadá.",
+"truco": "Ottawa, no Toronto; Washington, no Nueva York.",
+"practica": {
+"ejercicio": "¿Capital de Canadá?",
+"respuesta": "Ottawa."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Centroamérica y el Caribe",
+"slug": "paises-y-capitales-de-centroamerica-y-el-caribe-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Centroamérica",
+"Caribe"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Puente de tierra",
+"texto": "Centroamérica une dos partes del continente."
+},
+{
+"titulo": "Collar de islas",
+"texto": "El Caribe parece un collar de cuentas en el mar."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Costa Rica?",
+"respuesta": "San José."
+},
+{
+"ejercicio": "¿Capital de Nicaragua?",
+"respuesta": "Managua."
+},
+{
+"ejercicio": "¿Capital de Jamaica?",
+"respuesta": "Kingston."
+}
+],
+"idea": "Entre dos océanos hay países pequeños e islas llenas de historia y mar azul.",
+"pizarron": "**Qué es:** Centroamérica une Norte y Sudamérica. El Caribe agrupa islas.\n\n| País | Capital |\n|---|---|\n| Guatemala | Ciudad de Guatemala |\n| Belice | Belmopán |\n| El Salvador | San Salvador |\n| Honduras | Tegucigalpa |\n| Nicaragua | Managua |\n| Costa Rica | San José |\n| Panamá | Ciudad de Panamá |\n| Cuba | La Habana |\n| Haití | Puerto Príncipe |\n| República Dominicana | Santo Domingo |\n| Jamaica | Kingston |",
+"truco": "Tegucigalpa es de Honduras.",
+"practica": {
+"ejercicio": "¿Capital de Cuba?",
+"respuesta": "La Habana."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Sudamérica",
+"slug": "paises-y-capitales-de-sudamerica-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Sudamérica"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dos casas",
+"texto": "Bolivia reparte su capital entre dos ciudades."
+},
+{
+"titulo": "Hermanos del sur",
+"texto": "Comparten casi todos el español, salvo Brasil y unos pocos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Perú?",
+"respuesta": "Lima."
+},
+{
+"ejercicio": "¿Capital de Ecuador?",
+"respuesta": "Quito."
+},
+{
+"ejercicio": "¿Capital de Argentina?",
+"respuesta": "Buenos Aires."
+}
+],
+"idea": "De los Andes a la Amazonia, Sudamérica tiene doce países y grandes ríos.",
+"pizarron": "**Qué es:** América del Sur tiene 12 países independientes.\n\n| País | Capital |\n|---|---|\n| Colombia | Bogotá |\n| Venezuela | Caracas |\n| Ecuador | Quito |\n| Perú | Lima |\n| Bolivia | Sucre y La Paz |\n| Chile | Santiago |\n| Argentina | Buenos Aires |\n| Uruguay | Montevideo |\n| Paraguay | Asunción |\n| Brasil | Brasilia |\n| Guyana | Georgetown |\n| Surinam | Paramaribo |\n\nBolivia tiene capital constitucional en Sucre y sede de gobierno en La Paz.\n\nBrasil habla portugués.",
+"truco": "Brasilia, no Río.",
+"practica": {
+"ejercicio": "¿Capital de Brasil?",
+"respuesta": "Brasilia."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Europa occidental",
+"slug": "paises-y-capitales-de-europa-occidental-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Europa occidental"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tren entre países",
+"texto": "Cruzas fronteras en tren casi sin darte cuenta."
+},
+{
+"titulo": "Mesa de vecinos",
+"texto": "La Unión Europea une a muchos países europeos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Portugal?",
+"respuesta": "Lisboa."
+},
+{
+"ejercicio": "¿Capital de Italia?",
+"respuesta": "Roma."
+},
+{
+"ejercicio": "¿Capital de Suiza?",
+"respuesta": "Berna."
+}
+],
+"idea": "En pocos días de tren recorres muchos países, cada uno con idioma propio.",
+"pizarron": "**Qué es:** Europa occidental reúne países de gran historia y economía.\n\n| País | Capital |\n|---|---|\n| España | Madrid |\n| Portugal | Lisboa |\n| Francia | París |\n| Reino Unido | Londres |\n| Irlanda | Dublín |\n| Alemania | Berlín |\n| Países Bajos | Ámsterdam |\n| Bélgica | Bruselas |\n| Suiza | Berna |\n| Italia | Roma |\n| Austria | Viena |\n| Noruega | Oslo |\n| Suecia | Estocolmo |\n| Dinamarca | Copenhague |",
+"truco": "Berna, no Zúrich.",
+"practica": {
+"ejercicio": "¿Capital de Francia?",
+"respuesta": "París."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Europa oriental",
+"slug": "paises-y-capitales-de-europa-oriental-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Europa oriental"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Gemelas confusas",
+"texto": "Budapest y Bucarest suenan parecido, pero son distintas."
+},
+{
+"titulo": "Gigante",
+"texto": "Rusia ocupa Europa y Asia, y es el país más grande."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Rusia?",
+"respuesta": "Moscú."
+},
+{
+"ejercicio": "¿Capital de Grecia?",
+"respuesta": "Atenas."
+},
+{
+"ejercicio": "¿Capital de Ucrania?",
+"respuesta": "Kiev."
+}
+],
+"idea": "Europa oriental fue muy marcada por la Guerra Fría, y hoy tiene países independientes.",
+"pizarron": "**Qué es:** Europa oriental reúne países entre Alemania y Rusia, y los Balcanes.\n\n| País | Capital |\n|---|---|\n| Polonia | Varsovia |\n| República Checa | Praga |\n| Hungría | Budapest |\n| Rumania | Bucarest |\n| Bulgaria | Sofía |\n| Grecia | Atenas |\n| Serbia | Belgrado |\n| Croacia | Zagreb |\n| Ucrania | Kiev |\n| Rusia | Moscú |\n| Finlandia | Helsinki |",
+"truco": "Bucarest es de Rumania; Budapest, de Hungría.",
+"practica": {
+"ejercicio": "¿Capital de Polonia?",
+"respuesta": "Varsovia."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Asia oriental y meridional",
+"slug": "paises-y-capitales-de-asia-oriental-y-meridional-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Asia"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Mitad del mundo",
+"texto": "Más de la mitad de la gente vive en Asia."
+},
+{
+"titulo": "Vecinos enormes",
+"texto": "India y China son los gigantes de población."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de China?",
+"respuesta": "Pekín."
+},
+{
+"ejercicio": "¿Capital de India?",
+"respuesta": "Nueva Delhi."
+},
+{
+"ejercicio": "¿Capital de Corea del Sur?",
+"respuesta": "Seúl."
+}
+],
+"idea": "En Asia vive más de la mitad del mundo. Tiene los países con más población.",
+"pizarron": "**Qué es:** Asia oriental y meridional reúne a las poblaciones más grandes.\n\n| País | Capital |\n|---|---|\n| China | Pekín |\n| Japón | Tokio |\n| Corea del Sur | Seúl |\n| Corea del Norte | Pionyang |\n| India | Nueva Delhi |\n| Pakistán | Islamabad |\n| Bangladés | Daca |\n| Vietnam | Hanói |\n| Tailandia | Bangkok |\n| Filipinas | Manila |\n| Indonesia | Yakarta |",
+"truco": "Tokio, Pekín y Seúl.",
+"practica": {
+"ejercicio": "¿Capital de Japón?",
+"respuesta": "Tokio."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Medio Oriente y Asia central",
+"slug": "paises-y-capitales-de-medio-oriente-y-asia-central-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Medio Oriente"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cruce de caminos",
+"texto": "Ahí se tocan Europa, Asia y África, como un cruce de caminos."
+},
+{
+"titulo": "Mar negro bajo tierra",
+"texto": "Mucho petróleo llena el subsuelo de esta región."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Turquía?",
+"respuesta": "Ankara."
+},
+{
+"ejercicio": "¿Capital de Irak?",
+"respuesta": "Bagdad."
+},
+{
+"ejercicio": "¿Capital de Arabia Saudita?",
+"respuesta": "Riad."
+}
+],
+"idea": "Entre Europa y Asia hay desiertos, petróleo y ciudades muy antiguas.",
+"pizarron": "**Qué es:** Medio Oriente y Asia central unen tres continentes.\n\n| País | Capital |\n|---|---|\n| Turquía | Ankara |\n| Israel | Jerusalén |\n| Arabia Saudita | Riad |\n| Irán | Teherán |\n| Irak | Bagdad |\n| Siria | Damasco |\n| Líbano | Beirut |\n| Afganistán | Kabul |\n| Kazajistán | Astaná |\n| Uzbekistán | Taskent |\n\nEstambul no es capital de Turquía.\n\nEl estatus de Jerusalén es disputado internacionalmente.",
+"truco": "Ankara, no Estambul.",
+"practica": {
+"ejercicio": "¿Capital de Irán?",
+"respuesta": "Teherán."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales del norte de África",
+"slug": "paises-y-capitales-del-norte-de-africa-secundaria",
+"palabras": [
+"países",
+"capitales",
+"África del norte"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Dos mundos",
+"texto": "El mar está al norte y el desierto al sur."
+},
+{
+"titulo": "Río en el desierto",
+"texto": "El Nilo da vida a los campos en medio de la arena."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Marruecos?",
+"respuesta": "Rabat."
+},
+{
+"ejercicio": "¿Qué desierto ocupa la región?",
+"respuesta": "El Sahara."
+},
+{
+"ejercicio": "¿Capital de Argelia?",
+"respuesta": "Argel."
+}
+],
+"idea": "En el norte de África está el desierto más grande y caliente del mundo.",
+"pizarron": "**Qué es:** el norte de África une al Sahara con el Mediterráneo.\n\n| País | Capital |\n|---|---|\n| Marruecos | Rabat |\n| Argelia | Argel |\n| Túnez | Túnez |\n| Libia | Trípoli |\n| Egipto | El Cairo |\n| Sudán | Jartum |\n\nSe habla árabe. Predomina el islam.\n\nCasablanca no es la capital de Marruecos.",
+"truco": "Rabat, no Casablanca.",
+"practica": {
+"ejercicio": "¿Capital de Egipto?",
+"respuesta": "El Cairo."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de África subsahariana",
+"slug": "paises-y-capitales-de-africa-subsahariana-secundaria",
+"palabras": [
+"países",
+"capitales",
+"África"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tres capitales",
+"texto": "Sudáfrica reparte su gobierno entre tres ciudades."
+},
+{
+"titulo": "Mosaico",
+"texto": "Cada país aporta mil culturas y lenguas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Nigeria?",
+"respuesta": "Abuya."
+},
+{
+"ejercicio": "¿Capital de Etiopía?",
+"respuesta": "Adís Abeba."
+},
+{
+"ejercicio": "¿Qué país es el más poblado de África?",
+"respuesta": "Nigeria."
+}
+],
+"idea": "Al sur del Sahara hay selvas, sabanas y más de cuarenta países llenos de culturas.",
+"pizarron": "**Qué es:** África subsahariana es la región al sur del Sahara.\n\n| País | Capital |\n|---|---|\n| Nigeria | Abuya |\n| Ghana | Acra |\n| Senegal | Dakar |\n| Etiopía | Adís Abeba |\n| Kenia | Nairobi |\n| Tanzania | Dodoma |\n| República Democrática del Congo | Kinsasa |\n| Angola | Luanda |\n| Sudáfrica | Pretoria, Ciudad del Cabo y Bloemfontein |\n| Mozambique | Maputo |\n\nSudáfrica tiene tres capitales con funciones distintas.\n\nNigeria es el país más poblado de África.",
+"truco": "Abuya, no Lagos.",
+"practica": {
+"ejercicio": "¿Capital de Kenia?",
+"respuesta": "Nairobi."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Países y capitales de Oceanía",
+"slug": "paises-y-capitales-de-oceania-secundaria",
+"palabras": [
+"países",
+"capitales",
+"Oceanía"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Isla continente",
+"texto": "Australia es tan grande que parece una isla gigante."
+},
+{
+"titulo": "Mil gotas",
+"texto": "Las islas se reparten como gotas en un mar enorme."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Capital de Nueva Zelanda?",
+"respuesta": "Wellington."
+},
+{
+"ejercicio": "¿Es Sídney capital?",
+"respuesta": "No."
+},
+{
+"ejercicio": "¿Capital de Fiyi?",
+"respuesta": "Suva."
+}
+],
+"idea": "Oceanía es un continente casi todo de mar, con miles de islas y un país gigante.",
+"pizarron": "**Qué es:** Oceanía reúne a Australia y a muchas islas del Pacífico.\n\n| País | Capital |\n|---|---|\n| Australia | Canberra |\n| Nueva Zelanda | Wellington |\n| Papúa Nueva Guinea | Port Moresby |\n| Fiyi | Suva |\n| Samoa | Apia |\n\nSídney no es la capital de Australia.",
+"truco": "Canberra, no Sídney.",
+"practica": {
+"ejercicio": "¿Capital de Australia?",
+"respuesta": "Canberra."
+}
+}
+},
+{
+"nodo_id": "f6-007",
+"titulo": "Banderas del mundo por continente",
+"slug": "banderas-del-mundo-por-continente-secundaria",
+"palabras": [
+"banderas",
+"países"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Camiseta de equipo",
+"texto": "Cada país porta una camiseta distinta, como en un mundial."
+},
+{
+"titulo": "Dibujo con historia",
+"texto": "Cada color significa algo para su gente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué figura tiene la de Japón?",
+"respuesta": "Un círculo rojo."
+},
+{
+"ejercicio": "¿Qué diferencia hay entre México e Italia?",
+"respuesta": "El escudo de México."
+},
+{
+"ejercicio": "Dibuja la bandera de tres países.",
+"respuesta": "Debe mostrar sus colores correctos."
+}
+],
+"idea": "Cada bandera cuenta la historia de su país con colores y figuras.",
+"pizarron": "**Qué es:** una bandera es un símbolo de identidad de un país.\n\n**América:**\n\n- México: verde, blanco, rojo y escudo.\n- Brasil: verde con rombo amarillo.\n- Canadá: hoja de arce.\n\n**Europa:**\n\n- Francia: azul, blanco y rojo.\n- Italia: verde, blanco y rojo.\n\n**Asia:**\n\n- Japón: círculo rojo.\n\n**África:**\n\n- Sudáfrica: seis colores.\n\nItalia y México tienen colores iguales, pero en México hay escudo.",
+"truco": "Mira colores y figuras.",
+"practica": {
+"ejercicio": "¿Qué país tiene hoja de arce?",
+"respuesta": "Canadá."
+}
+}
+},
+{
+"nodo_id": "f6-015",
+"titulo": "Ríos más importantes del mundo",
+"slug": "rios-mas-importantes-del-mundo-secundaria",
+"palabras": [
+"ríos",
+"Amazonas",
+"Nilo",
+"Yangtsé"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Carreteras",
+"texto": "Antes de los trenes, los ríos eran las rutas más usadas."
+},
+{
+"titulo": "Sangre de la tierra",
+"texto": "Llevan agua y vida por todos los lugares donde pasan."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿En qué continente está el Nilo?",
+"respuesta": "África."
+},
+{
+"ejercicio": "¿Río más largo de Europa?",
+"respuesta": "El Volga."
+},
+{
+"ejercicio": "¿En qué país está el Yangtsé?",
+"respuesta": "En China."
+}
+],
+"idea": "Los grandes ríos son carreteras de agua. Civilizaciones enteras nacieron cerca de ellos.",
+"pizarron": "**Qué es:** los grandes ríos son corrientes de gran longitud o caudal.\n\n- **Nilo:** África; uno de los más largos.\n- **Amazonas:** Sudamérica; el más caudaloso.\n- **Yangtsé:** China; el más largo de Asia.\n- **Misisipi:** Estados Unidos.\n- **Volga:** Rusia; el más largo de Europa.\n- **Danubio:** cruza muchos países europeos.\n- **Ganges:** India.\n- **Congo:** África.",
+"truco": "Amazonas mayor caudal; Nilo muy largo.",
+"practica": {
+"ejercicio": "¿Cuál es el más caudaloso?",
+"respuesta": "El Amazonas."
+}
+}
+},
+{
+"nodo_id": "f6-015",
+"titulo": "Lagos más importantes del mundo",
+"slug": "lagos-mas-importantes-del-mundo-secundaria",
+"palabras": [
+"lagos",
+"Baikal",
+"Superior",
+"Victoria"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Mar encerrado",
+"texto": "El Caspio parece mar, pero no toca el océano."
+},
+{
+"titulo": "Reserva de agua",
+"texto": "Los lagos son tinacos enormes de agua dulce."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué lago está entre Perú y Bolivia?",
+"respuesta": "El Titicaca."
+},
+{
+"ejercicio": "¿Mayor lago de África?",
+"respuesta": "El Victoria."
+},
+{
+"ejercicio": "¿El Caspio es dulce?",
+"respuesta": "No, es salado."
+}
+],
+"idea": "Algunos lagos son tan grandes que parecen mar, y uno guarda muchísima agua dulce.",
+"pizarron": "**Qué es:** los grandes lagos son enormes masas de agua dentro de los continentes.\n\n- **Caspio:** el mayor, salado.\n- **Superior:** el mayor de agua dulce en superficie.\n- **Victoria:** el mayor de África.\n- **Baikal:** el más profundo, en Rusia.\n- **Titicaca:** entre Perú y Bolivia.\n- **Grandes Lagos:** entre Canadá y Estados Unidos.",
+"truco": "Baikal es el más profundo.",
+"practica": {
+"ejercicio": "¿Qué lago es el más profundo?",
+"respuesta": "El Baikal."
+}
+}
+},
+{
+"nodo_id": "f6-015",
+"titulo": "Mares del mundo",
+"slug": "mares-del-mundo-secundaria",
+"palabras": [
+"mares",
+"Mediterráneo",
+"Caribe",
+"Rojo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cuarto y casa",
+"texto": "El océano es la casa y cada mar un cuarto."
+},
+{
+"titulo": "Flotar sin nadar",
+"texto": "En el Mar Muerto la sal hace que flotes."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué mar está en Arabia?",
+"respuesta": "El Rojo."
+},
+{
+"ejercicio": "¿Qué mar baña Cuba?",
+"respuesta": "El Caribe."
+},
+{
+"ejercicio": "¿Por qué se llama mal el Mar Muerto?",
+"respuesta": "Porque es un lago."
+}
+],
+"idea": "Un mar es una parte del océano cercana a la tierra, y muchos cuentan historias.",
+"pizarron": "**Qué es:** un mar es una masa de agua salada más pequeña que un océano, cerca de la costa.\n\n- **Mediterráneo:** entre Europa y África.\n- **Caribe:** América.\n- **Rojo:** entre África y Arabia.\n- **Negro:** entre Europa y Asia.\n- **Báltico:** norte de Europa.\n- **Muerto:** en realidad es un lago muy salado.",
+"truco": "El Muerto no es mar: es lago.",
+"practica": {
+"ejercicio": "¿Qué mar separa Europa de África?",
+"respuesta": "El Mediterráneo."
+}
+}
+},
+{
+"nodo_id": "f6-019",
+"titulo": "Capas de la Tierra",
+"slug": "capas-de-la-tierra-secundaria",
+"palabras": [
+"capas de la Tierra",
+"corteza",
+"manto",
+"núcleo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Durazno",
+"texto": "Piel, pulpa y hueso son las tres partes."
+},
+{
+"titulo": "Huevo",
+"texto": "Cascarón delgado, clara y yema: como la Tierra por dentro."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué capa es más gruesa?",
+"respuesta": "El manto."
+},
+{
+"ejercicio": "¿De qué está hecho el núcleo?",
+"respuesta": "De hierro y níquel."
+},
+{
+"ejercicio": "¿Qué son las placas tectónicas?",
+"respuesta": "Partes en que se divide la corteza."
+}
+],
+"idea": "La Tierra es como un durazno: piel delgada, pulpa gruesa y hueso duro en medio.",
+"pizarron": "**Qué es:** la Tierra tiene tres capas principales.\n\n**Corteza:** capa exterior, sólida y delgada. Vivimos en ella.\n\n**Manto:** roca caliente, parte fundida. La capa más gruesa.\n\n**Núcleo:** centro de hierro y níquel.\n\n- Externo: líquido.\n- Interno: sólido.\n\nLa corteza se divide en **placas tectónicas**.",
+"truco": "Corteza, manto y núcleo.",
+"practica": {
+"ejercicio": "¿En qué capa vivimos?",
+"respuesta": "En la corteza."
+}
+}
+},
+{
+"nodo_id": "f6-019",
+"titulo": "Tipos de relieve",
+"slug": "tipos-de-relieve-secundaria",
+"palabras": [
+"relieve",
+"montaña",
+"llanura",
+"meseta"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Sábana arrugada",
+"texto": "Las arrugas de una sábana son las montañas y los valles."
+},
+{
+"titulo": "Mesa en el campo",
+"texto": "Una meseta es como una mesa muy grande en medio del campo."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué es un valle?",
+"respuesta": "Terreno entre montañas."
+},
+{
+"ejercicio": "¿Qué es cordillera?",
+"respuesta": "Cadena de montañas."
+},
+{
+"ejercicio": "¿Qué es llanura?",
+"respuesta": "Terreno bajo y plano."
+}
+],
+"idea": "La superficie de la Tierra no es plana. Tiene subidas, bajadas y mesas gigantes.",
+"pizarron": "**Qué es:** el relieve son las formas de la superficie terrestre.\n\n- **Montaña:** elevación alta.\n- **Cordillera:** cadena de montañas.\n- **Meseta:** terreno alto y plano.\n- **Llanura:** terreno bajo y plano.\n- **Valle:** terreno entre montañas.\n- **Depresión:** por debajo de lo que la rodea.\n- **Costa, cabo, isla.**",
+"truco": "Meseta alta; llanura baja.",
+"practica": {
+"ejercicio": "¿Qué es meseta?",
+"respuesta": "Terreno alto y plano."
+}
+}
+},
+{
+"nodo_id": "f6-019",
+"titulo": "Montañas y cordilleras del mundo",
+"slug": "montanas-y-cordilleras-del-mundo-secundaria",
+"palabras": [
+"montañas",
+"Everest",
+"Andes",
+"Himalaya"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Choque de coches",
+"texto": "Al chocar, las placas se doblan y crecen."
+},
+{
+"titulo": "Espina dorsal",
+"texto": "Los Andes recorren Sudamérica como una espalda."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde están los Alpes?",
+"respuesta": "En Europa."
+},
+{
+"ejercicio": "¿Qué cordillera es la más larga?",
+"respuesta": "Los Andes."
+},
+{
+"ejercicio": "¿Dónde está el Kilimanjaro?",
+"respuesta": "En África."
+}
+],
+"idea": "Las montañas más altas nacieron cuando dos pedazos de la Tierra chocaron.",
+"pizarron": "**Qué es:** son las mayores elevaciones del planeta.\n\n- **Himalaya:** Asia. **Everest**, 8849 m, el pico más alto.\n- **Andes:** Sudamérica, la cordillera más larga. **Aconcagua**.\n- **Rocallosas:** Norteamérica.\n- **Alpes:** Europa.\n- **Kilimanjaro:** África.",
+"truco": "Everest el más alto; Andes los más largos.",
+"practica": {
+"ejercicio": "¿Cuál es el pico más alto?",
+"respuesta": "El Everest."
+}
+}
+},
+{
+"nodo_id": "f6-019",
+"titulo": "Volcanes famosos del mundo",
+"slug": "volcanes-famosos-del-mundo-secundaria",
+"palabras": [
+"volcanes",
+"Vesubio",
+"Fuji",
+"Krakatoa"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Foto antigua",
+"texto": "Pompeya quedó congelada en el tiempo por la ceniza."
+},
+{
+"titulo": "Cañón gigante",
+"texto": "El sonido del Krakatoa llegó a miles de kilómetros de distancia."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde está el Fuji?",
+"respuesta": "En Japón."
+},
+{
+"ejercicio": "¿Dónde está el Etna?",
+"respuesta": "En Italia."
+},
+{
+"ejercicio": "¿En qué año hizo erupción Santa Helena?",
+"respuesta": "En 1980."
+}
+],
+"idea": "Un volcán sepultó una ciudad romana, y otro se oyó a miles de kilómetros.",
+"pizarron": "**Qué es:** son volcanes conocidos por su historia o sus erupciones.\n\n- **Vesubio:** Italia; destruyó Pompeya en el año 79.\n- **Etna:** Italia, muy activo.\n- **Fuji:** símbolo de Japón.\n- **Krakatoa:** Indonesia, 1883.\n- **Mauna Loa:** Hawái.\n- **Santa Helena:** Estados Unidos, 1980.",
+"truco": "Vesubio sepultó Pompeya.",
+"practica": {
+"ejercicio": "¿Qué ciudad destruyó el Vesubio?",
+"respuesta": "Pompeya."
+}
+}
+},
+{
+"nodo_id": "f6-019",
+"titulo": "Cinturón de Fuego del Pacífico",
+"slug": "cinturon-de-fuego-del-pacifico-secundaria",
+"palabras": [
+"Cinturón de Fuego",
+"volcanes",
+"sismos"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Anillo",
+"texto": "Es un anillo de lumbre alrededor del mar."
+},
+{
+"titulo": "Bordes de plato",
+"texto": "Los choques ocurren en los bordes de las placas."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Está México dentro?",
+"respuesta": "Sí."
+},
+{
+"ejercicio": "Di dos países más.",
+"respuesta": "Japón y Chile."
+},
+{
+"ejercicio": "¿Qué es un tsunami?",
+"respuesta": "Una ola gigante causada por un sismo."
+}
+],
+"idea": "Alrededor del Pacífico hay un anillo de volcanes y temblores, y México está en él.",
+"pizarron": "**Qué es:** el Cinturón de Fuego es una zona que rodea al océano Pacífico, con muchos volcanes y sismos.\n\nSe debe al choque de placas tectónicas.\n\n**Países:** Chile, México, Estados Unidos, Japón, Filipinas e Indonesia.\n\nConcentra cerca del 75 % de los volcanes activos.\n\nLos maremotos o **tsunamis** pueden ocurrir ahí.",
+"truco": "Pacífico rodeado de fuego.",
+"practica": {
+"ejercicio": "¿Qué océano rodea?",
+"respuesta": "El Pacífico."
+}
+}
+},
+{
+"nodo_id": "f6-019",
+"titulo": "Desiertos del mundo",
+"slug": "desiertos-del-mundo-secundaria",
+"palabras": [
+"desiertos",
+"Sahara",
+"Atacama",
+"Antártida"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Sed del suelo",
+"texto": "El suelo casi nunca recibe agua y siempre tiene sed."
+},
+{
+"titulo": "Hielo seco",
+"texto": "La Antártida es un desierto de hielo porque casi no nieva."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde está Atacama?",
+"respuesta": "En Chile."
+},
+{
+"ejercicio": "¿Hay desiertos fríos?",
+"respuesta": "Sí, como la Antártida."
+},
+{
+"ejercicio": "¿Qué desierto hay en México?",
+"respuesta": "El de Sonora."
+}
+],
+"idea": "No todos los desiertos son calientes. Algunos están llenos de hielo.",
+"pizarron": "**Qué es:** un desierto es una región con muy poca lluvia, menos de 250 mm al año.\n\n- **Sahara:** África; el mayor cálido.\n- **Atacama:** Chile; uno de los más secos.\n- **Gobi:** Asia.\n- **Antártida:** el mayor, frío.\n- **Sonora:** México y Estados Unidos.\n- **Kalahari:** África.",
+"truco": "Desierto es falta de lluvia, no calor.",
+"practica": {
+"ejercicio": "¿Cuál es el mayor desierto cálido?",
+"respuesta": "El Sahara."
+}
+}
+},
+{
+"nodo_id": "f6-054",
+"titulo": "Climas del mundo",
+"slug": "climas-del-mundo-secundaria",
+"palabras": [
+"climas del mundo",
+"tropical",
+"polar"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Abrigo",
+"texto": "Mientras más al polo, más abrigo necesitas."
+},
+{
+"titulo": "Zonas de un refrigerador",
+"texto": "Unas zonas del planeta están más frías que otras."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué clima hay en el Sahara?",
+"respuesta": "Seco."
+},
+{
+"ejercicio": "¿Qué clima tiene cuatro estaciones?",
+"respuesta": "Templado."
+},
+{
+"ejercicio": "¿Qué clima hay cerca de los polos?",
+"respuesta": "Polar."
+}
+],
+"idea": "Mientras en un lugar nieva, en otro hace un calor sofocante. El clima cambia con la latitud.",
+"pizarron": "**Qué es:** los climas del mundo se agrupan según temperatura y lluvia.\n\n**Tropical:** calor y lluvia. Cerca del ecuador.\n\n**Seco:** muy poca lluvia. Sahara.\n\n**Templado:** cuatro estaciones. Europa.\n\n**Continental:** gran variación. Rusia.\n\n**Polar:** mucho frío. Ártico.\n\n**De montaña:** frío por altitud.",
+"truco": "Más lejos del ecuador, más frío.",
+"practica": {
+"ejercicio": "¿Dónde hay clima tropical?",
+"respuesta": "Cerca del ecuador."
+}
+}
+},
+{
+"nodo_id": "f6-054",
+"titulo": "Grandes biomas del mundo",
+"slug": "grandes-biomas-del-mundo-secundaria",
+"palabras": [
+"biomas",
+"selva",
+"sabana",
+"taiga",
+"tundra"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Pisos del mundo",
+"texto": "Cada latitud tiene su propio piso, como un edificio."
+},
+{
+"titulo": "Colecciones",
+"texto": "Plantas y animales se agrupan según el clima."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Dónde hay taiga?",
+"respuesta": "En Rusia y Canadá."
+},
+{
+"ejercicio": "¿Qué bioma tiene musgos?",
+"respuesta": "La tundra."
+},
+{
+"ejercicio": "¿Dónde está la Amazonia?",
+"respuesta": "En Sudamérica."
+}
+],
+"idea": "Si viajas del ecuador al polo, verás cambiar selvas, sabanas, bosques y hielo.",
+"pizarron": "**Qué es:** un bioma es una gran región con clima y seres vivos característicos.\n\n- **Selva:** Amazonia.\n- **Sabana:** África, leones.\n- **Desierto:** cactus.\n- **Bosque templado:** Europa.\n- **Taiga:** bosque frío, Rusia y Canadá.\n- **Tundra:** muy fría, musgos.\n- **Océanos.**",
+"truco": "Taiga con pinos; tundra sin árboles.",
+"practica": {
+"ejercicio": "¿Qué bioma tiene leones?",
+"respuesta": "La sabana."
+}
+}
+},
+{
+"nodo_id": "f6-027",
+"titulo": "Pirámide de población",
+"slug": "piramide-de-poblacion-secundaria",
+"palabras": [
+"pirámide de población",
+"edades"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Foto grupal",
+"texto": "Muestra a todos los habitantes por edades."
+},
+{
+"titulo": "Plan de escuelas",
+"texto": "Ayuda a saber cuántas escuelas harán falta."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué dos datos muestra?",
+"respuesta": "Edad y sexo."
+},
+{
+"ejercicio": "¿Para qué sirve?",
+"respuesta": "Para planear servicios."
+},
+{
+"ejercicio": "¿Cómo es la de un país con pocos nacimientos?",
+"respuesta": "Tiene base angosta."
+}
+],
+"idea": "Si dibujas cuántos jóvenes y viejos hay, sale una figura que cuenta el futuro de un país.",
+"pizarron": "**Qué es:** una pirámide de población es una gráfica que muestra población por edad y sexo.\n\n**Base ancha:** muchos jóvenes. Países en desarrollo.\n\n**Forma de urna:** pocos nacimientos. Países ricos.\n\nMéxico cambia de una pirámide ancha a una forma más recta.\n\nSirve para planear escuelas, trabajos y salud.",
+"truco": "Base ancha, país joven.",
+"practica": {
+"ejercicio": "¿Qué indica una base ancha?",
+"respuesta": "Muchos jóvenes."
+}
+}
+},
+{
+"nodo_id": "f6-027",
+"titulo": "Densidad de población",
+"slug": "densidad-de-poblacion-secundaria",
+"palabras": [
+"densidad de población",
+"habitantes por km2"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Camión lleno",
+"texto": "Más personas en el mismo camión, más apretados."
+},
+{
+"titulo": "Mantequilla en el pan",
+"texto": "Se reparte igual entre todo el terreno, como mantequilla."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula con 2000 personas en 4 km².",
+"respuesta": "500 hab/km²."
+},
+{
+"ejercicio": "¿Dónde es alta?",
+"respuesta": "En las ciudades."
+},
+{
+"ejercicio": "¿Dónde es baja?",
+"respuesta": "En los desiertos."
+}
+],
+"idea": "Dos cuartos del mismo tamaño pueden tener 2 o 20 personas. Eso mide la densidad.",
+"pizarron": "**Qué es:** la densidad de población indica cuántas personas viven por kilómetro cuadrado.\n\n$$\\text{densidad} = \\frac{\\text{habitantes}}{\\text{km}^2}$$\n\n**Ejemplo:** 1000 personas en 10 km².\n\n$$\\frac{1000}{10} = 100\\ \\text{hab/km}^2$$\n\nLas ciudades tienen alta densidad.\n\nEl desierto tiene baja densidad.",
+"truco": "Personas entre superficie.",
+"practica": {
+"ejercicio": "Calcula con 500 personas en 5 km².",
+"respuesta": "100 hab/km²."
+}
+}
+},
+{
+"nodo_id": "f6-027",
+"titulo": "Tasas de natalidad y mortalidad",
+"slug": "tasas-de-natalidad-y-mortalidad-secundaria",
+"palabras": [
+"natalidad",
+"mortalidad",
+"crecimiento natural"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Tinaco",
+"texto": "Entra agua por una llave y sale por otra."
+},
+{
+"titulo": "Saldo",
+"texto": "Es como tu cuenta: ingresos menos gastos."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Natalidad 10 y mortalidad 12. ¿Crecimiento?",
+"respuesta": "$-2$ por cada 1000."
+},
+{
+"ejercicio": "¿Qué mide la natalidad?",
+"respuesta": "Los nacimientos."
+},
+{
+"ejercicio": "¿Qué reduce la mortalidad?",
+"respuesta": "La salud."
+}
+],
+"idea": "Cuántos nacen y cuántos mueren dice si un país crece o se encoge.",
+"pizarron": "**Qué es:** la natalidad cuenta nacimientos por cada 1000 habitantes. La mortalidad cuenta muertes por cada 1000.\n\n**Crecimiento natural:**\n\n$$\\text{natalidad} - \\text{mortalidad}$$\n\n**Ejemplo:** 20 nacimientos y 7 muertes por cada 1000.\n\nCrecimiento natural: 13 por cada 1000.\n\nSalud y educación reducen mortalidad.",
+"truco": "Nacen menos mueren.",
+"practica": {
+"ejercicio": "Natalidad 15 y mortalidad 5. ¿Crecimiento?",
+"respuesta": "10 por cada 1000."
+}
+}
+},
+{
+"nodo_id": "f6-027",
+"titulo": "Países y ciudades más poblados",
+"slug": "paises-y-ciudades-mas-poblados-secundaria",
+"palabras": [
+"países poblados",
+"ciudades",
+"población mundial"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Gran salón",
+"texto": "Dos países juntan a más de un tercio de todos."
+},
+{
+"titulo": "Imanes",
+"texto": "Las ciudades atraen a millones de personas cada año."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Cuántas personas hay en el mundo?",
+"respuesta": "Más de 8000 millones."
+},
+{
+"ejercicio": "Di una ciudad muy poblada.",
+"respuesta": "Tokio."
+},
+{
+"ejercicio": "¿Qué país sigue a India?",
+"respuesta": "China."
+}
+],
+"idea": "Más de 8 mil millones de personas viven en el planeta, y muchas en unas cuantas ciudades.",
+"pizarron": "**Qué es:** son los lugares con más habitantes.\n\n**Países:**\n\n1. India.\n2. China.\n3. Estados Unidos.\n4. Indonesia.\n5. Pakistán.\n\n**Ciudades:** Tokio, Delhi, Shanghái, São Paulo, Ciudad de México.\n\nEl mundo supera los 8000 millones de personas.\n\nMéxico está entre los 11 más poblados.",
+"truco": "India y China van primero.",
+"practica": {
+"ejercicio": "¿Qué país es el más poblado?",
+"respuesta": "India."
+}
+}
+},
+{
+"nodo_id": "f6-031",
+"titulo": "Sectores económicos",
+"slug": "sectores-economicos-secundaria",
+"palabras": [
+"sectores económicos",
+"primario",
+"secundario",
+"terciario"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Del campo al pan",
+"texto": "Trigo, harina y panadería muestran los tres."
+},
+{
+"titulo": "Carrera de relevos",
+"texto": "Cada sector pasa el producto al siguiente."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué sector es un hospital?",
+"respuesta": "Terciario."
+},
+{
+"ejercicio": "¿Qué sector es una fábrica de coches?",
+"respuesta": "Secundario."
+},
+{
+"ejercicio": "¿En qué sector trabaja un maestro?",
+"respuesta": "Terciario."
+}
+],
+"idea": "Un panadero necesita al campesino, al molino y a la tienda. Esos son los tres sectores.",
+"pizarron": "**Qué es:** los sectores económicos agrupan actividades.\n\n**Primario:** obtiene de la naturaleza. Agricultura, pesca, minería.\n\n**Secundario:** transforma. Industria.\n\n**Terciario:** ofrece servicios. Comercio, salud, educación.\n\n**Ejemplo:** trigo, pan, panadería.",
+"truco": "Saca, transforma y vende.",
+"practica": {
+"ejercicio": "¿Qué sector es la pesca?",
+"respuesta": "Primario."
+}
+}
+},
+{
+"nodo_id": "f6-031",
+"titulo": "Globalización económica",
+"slug": "globalizacion-economica-secundaria",
+"palabras": [
+"globalización económica",
+"multinacionales",
+"comercio"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cadena larga",
+"texto": "Un producto cruza varios países antes de llegar."
+},
+{
+"titulo": "Mercado gigante",
+"texto": "El mundo funciona como un solo tianguis."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Di una ventaja.",
+"respuesta": "Productos más baratos."
+},
+{
+"ejercicio": "Di una desventaja.",
+"respuesta": "Desigualdad."
+},
+{
+"ejercicio": "Revisa de dónde vino tu ropa.",
+"respuesta": "Lee las etiquetas."
+}
+],
+"idea": "Una camisa puede tener tela de un país, costura de otro y marca de un tercero.",
+"pizarron": "**Qué es:** la globalización económica es la integración de las economías del mundo.\n\n**Claves:**\n\n- Comercio internacional.\n- Empresas multinacionales.\n- Tecnología y transporte.\n\n**Ventajas:** productos más baratos.\n\n**Desventajas:** desigualdad, pérdida de empleos locales, daño ambiental.",
+"truco": "Producir en muchas partes.",
+"practica": {
+"ejercicio": "¿Qué es una multinacional?",
+"respuesta": "Una empresa en varios países."
+}
+}
+},
+{
+"nodo_id": "f6-031",
+"titulo": "PIB e IDH",
+"slug": "pib-e-idh-secundaria",
+"palabras": [
+"PIB",
+"IDH",
+"desarrollo"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Termómetros",
+"texto": "Un termómetro mide dinero y el otro mide bienestar."
+},
+{
+"titulo": "Reparto",
+"texto": "El PIB per cápita es repartir en partes iguales."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "Calcula per cápita con PIB 500 y población 50.",
+"respuesta": "10."
+},
+{
+"ejercicio": "¿El IDH va de 0 a qué número?",
+"respuesta": "A 1."
+},
+{
+"ejercicio": "¿Qué mide el PIB?",
+"respuesta": "El valor de lo producido."
+}
+],
+"idea": "Un país puede tener mucho dinero y gente mal atendida. Por eso hay dos formas de medir.",
+"pizarron": "**Qué es:** el Producto Interno Bruto (PIB) mide el valor de lo que produce un país en un año. El Índice de Desarrollo Humano (IDH) mide salud, educación e ingresos.\n\n**PIB per cápita:** PIB entre población.\n\n**IDH:** de 0 a 1. Más cerca de 1 es mejor.\n\n**Ejemplo:** PIB 1000 y población 10.\n\n$$\\frac{1000}{10} = 100$$",
+"truco": "PIB cuenta dinero; IDH cuenta vida.",
+"practica": {
+"ejercicio": "¿Qué mide el IDH?",
+"respuesta": "Salud, educación e ingresos."
+}
+}
+},
+{
+"nodo_id": "f6-031",
+"titulo": "Bloques económicos y organismos internacionales",
+"slug": "bloques-economicos-y-organismos-internacionales-secundaria",
+"palabras": [
+"bloques económicos",
+"Unión Europea",
+"T-MEC",
+"OMC"
+],
+"contenido": {
+"analogias": [
+{
+"titulo": "Cooperativa",
+"texto": "Compran y venden juntos para salir ganando."
+},
+{
+"titulo": "Vecinos",
+"texto": "Las reglas compartidas hacen más fácil el trato."
+}
+],
+"ejercicios": [
+{
+"ejercicio": "¿Qué organismo se ocupa del comercio?",
+"respuesta": "La OMC."
+},
+{
+"ejercicio": "¿Dónde está Mercosur?",
+"respuesta": "En Sudamérica."
+},
+{
+"ejercicio": "¿Qué significa FMI?",
+"respuesta": "Fondo Monetario Internacional."
+}
+],
+"idea": "Los países se juntan para comerciar mejor, como vecinos que hacen una cooperativa.",
+"pizarron": "**Qué es:** los bloques económicos son acuerdos entre países para comerciar.\n\n- **Unión Europea.**\n- **T-MEC:** México, Estados Unidos y Canadá.\n- **Mercosur:** Sudamérica.\n- **ASEAN:** Asia.\n\n**Organismos:**\n\n- **OMC:** comercio.\n- **FMI:** finanzas.\n- **Banco Mundial.**\n- **OCDE.**",
+"truco": "UE, T-MEC y Mercosur.",
+"practica": {
+"ejercicio": "¿En qué bloque está México?",
+"respuesta": "En el T-MEC."
+}
+}
+}
+]

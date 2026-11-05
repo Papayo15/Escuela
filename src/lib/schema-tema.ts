@@ -11,7 +11,7 @@ export const contenidoTema = z.object({
   truco: z.string().min(15),
   practica: ejercicio,
   analogias: z
-    .array(z.object({ titulo: z.string().min(3), texto: z.string().min(40) }))
+    .array(z.object({ titulo: z.string().min(3), texto: z.string().min(20) }))
     .length(2),
   ejercicios: z.array(ejercicio).length(3),
 });

@@ -20,7 +20,7 @@ Audiencia: alumnos de México en regularización. Español de México, trato de 
 "ejercicios":[{"ejercicio":"...","respuesta":"..."},{"ejercicio":"...","respuesta":"..."},{"ejercicio":"...","respuesta":"..."}]}}
 ```
 
-Exactamente 2 analogías y 3 ejercicios. Mínimos: `idea` y `pizarron` 40 caracteres, `truco` 15, cada analogía 40.
+Exactamente 2 analogías y 3 ejercicios. Mínimos: `idea` y `pizarron` 40 caracteres, `truco` 15, cada analogía 20.
 
 ## Reglas
 
