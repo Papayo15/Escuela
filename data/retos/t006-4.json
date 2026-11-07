@@ -1,0 +1,418 @@
+{
+"guion-teatral-analisis-representacion-primaria": [
+{
+"pregunta": "¿Qué son las acotaciones en un guion?",
+"opciones": [
+"Las palabras que el público repite.",
+"Indicaciones de cómo actuar o decir las líneas.",
+"El nombre de todos los personajes."
+],
+"correcta": 1,
+"porque": "Las acotaciones no se dicen en voz alta."
+},
+{
+"pregunta": "En «LUIS. (Triste.) Perdí mi balón.», ¿cuál es la acotación?",
+"opciones": [
+"Perdí mi balón.",
+"Triste.",
+"LUIS."
+],
+"correcta": 1,
+"porque": "La acotación va entre paréntesis y dice cómo actuar."
+},
+{
+"pregunta": "¿Qué lleva un guion teatral?",
+"opciones": [
+"Una lista de útiles escolares.",
+"Diálogos e indicaciones para actuar.",
+"Solo dibujos de los personajes."
+],
+"correcta": 1,
+"porque": "El guion dice qué decir y cómo actuar."
+},
+{
+"pregunta": "En el guion, ¿quién dice las líneas con su nombre al inicio?",
+"opciones": [
+"El público.",
+"El personaje.",
+"El maestro que mira."
+],
+"correcta": 1,
+"porque": "Cada personaje habla en su línea."
+},
+{
+"pregunta": "Tu grupo prepara una obra. ¿Qué ayuda a ensayar bien?",
+"opciones": [
+"Que todos hablen a la vez.",
+"Que nadie lea su parte.",
+"Escuchar y turnarse para hablar."
+],
+"correcta": 2,
+"porque": "Ensayar en orden ayuda a que salga bien."
+}
+],
+"hecho-y-opinion-primaria": [
+{
+"pregunta": "¿Qué palabra suele avisarte que viene una opinión?",
+"opciones": [
+"Hay",
+"Pienso",
+"Mide"
+],
+"correcta": 1,
+"porque": "Pienso es una palabra pista de opinión."
+},
+{
+"pregunta": "Para saber si algo es un hecho, ¿qué te preguntas?",
+"opciones": [
+"¿Se puede comprobar?",
+"¿Lo dijo alguien?",
+"¿Le gusta a todos?"
+],
+"correcta": 0,
+"porque": "Un hecho es algo que se puede comprobar."
+},
+{
+"pregunta": "¿Qué palabras pista indican una opinión?",
+"opciones": [
+"Uno, dos y tres.",
+"Hoy, ayer y mañana.",
+"Creo, pienso y me parece."
+],
+"correcta": 2,
+"porque": "Esas palabras muestran lo que alguien piensa."
+},
+{
+"pregunta": "¿Qué pregunta ayuda a saber si es un hecho?",
+"opciones": [
+"¿Es muy largo el texto?",
+"¿Se puede comprobar?",
+"¿Me gusta a mí?"
+],
+"correcta": 1,
+"porque": "Si se puede comprobar, es un hecho."
+},
+{
+"pregunta": "¿Es un hecho «El agua hierve a 100 °C al nivel del mar»?",
+"opciones": [
+"Sí, se puede comprobar.",
+"No, porque a nadie le importa.",
+"No, es lo que opina el maestro."
+],
+"correcta": 0,
+"porque": "Los datos medibles son hechos."
+}
+],
+"intervencion-artistica-comunitaria-primaria": [
+{
+"pregunta": "¿Qué debes hacer antes de pintar un mural en la barda de la colonia?",
+"opciones": [
+"Pedir permiso y acordar el diseño.",
+"Empezar a pintar sin avisar.",
+"Comprar pintura de todos los colores."
+],
+"correcta": 0,
+"porque": "Hay que respetar el lugar y a la comunidad."
+},
+{
+"pregunta": "¿Qué es una intervención artística?",
+"opciones": [
+"Hacer un examen de arte en el salón.",
+"Usar el arte para mejorar un lugar.",
+"Copiar un cuadro de otro país."
+],
+"correcta": 1,
+"porque": "El arte puede cambiar un lugar para bien."
+},
+{
+"pregunta": "¿Cuál es otra forma de intervención, además del mural?",
+"opciones": [
+"Hacer una resta.",
+"Barrer el patio.",
+"Teatro en la plaza."
+],
+"correcta": 2,
+"porque": "El teatro en la plaza también usa arte para la comunidad."
+},
+{
+"pregunta": "¿Por qué hay que cuidar la obra después?",
+"opciones": [
+"Para que se ensucie y se pinte otra vez.",
+"Para que no se dañe y todos la disfruten.",
+"Para que nadie la vea."
+],
+"correcta": 1,
+"porque": "Cuidarla mantiene el trabajo del equipo."
+},
+{
+"pregunta": "¿Qué dice toda intervención?",
+"opciones": [
+"Solo el precio de los materiales.",
+"Solo el nombre del pintor.",
+"Lugar, tipo de arte y mensaje."
+],
+"correcta": 2,
+"porque": "Se pregunta dónde, con qué arte y para decir qué."
+}
+],
+"manifestaciones-culturales-artisticas-primaria": [
+{
+"pregunta": "¿Cuál es una manifestación cultural?",
+"opciones": [
+"Una tabla de multiplicar.",
+"Una receta de laboratorio.",
+"La danza de una fiesta."
+],
+"correcta": 2,
+"porque": "La danza expresa algo de la comunidad."
+},
+{
+"pregunta": "¿Qué significa valorar una obra con razones?",
+"opciones": [
+"Decir solo «me gusta».",
+"Copiar lo que opina otro.",
+"Decir qué opinas y por qué."
+],
+"correcta": 2,
+"porque": "Con razones se explica la opinión."
+},
+{
+"pregunta": "Para interpretar un mural, ¿qué preguntas ayudan?",
+"opciones": [
+"¿Quién se sienta atrás?",
+"¿Qué colores usa y qué historia cuenta?",
+"¿Cuánto cuesta la pintura?"
+],
+"correcta": 1,
+"porque": "Esas preguntas ayudan a entender el mensaje."
+},
+{
+"pregunta": "¿Qué comunican las artesanías?",
+"opciones": [
+"Solo cuánto cuestan en el mercado.",
+"Nada, porque son solo adornos.",
+"Algo sobre quiénes son las personas de la comunidad."
+],
+"correcta": 2,
+"porque": "Cada manifestación habla de su comunidad."
+},
+{
+"pregunta": "Tu comunidad celebra una fiesta con música. ¿Qué haces para valorarla?",
+"opciones": [
+"Me burlo de las personas.",
+"Describo qué siento y por qué.",
+"Digo que es aburrida sin explicar."
+],
+"correcta": 1,
+"porque": "Valorar es opinar con razones y respeto."
+}
+],
+"mitos-leyendas-lectura-analisis-primaria": [
+{
+"pregunta": "¿Qué explica un mito?",
+"opciones": [
+"La lista de compras.",
+"El origen de algo.",
+"Los pasos de un juego."
+],
+"correcta": 1,
+"porque": "Un mito explica de dónde viene el mundo o algo importante."
+},
+{
+"pregunta": "¿Qué mezcla una leyenda?",
+"opciones": [
+"Solo reglas de un juego.",
+"Solo números y datos de laboratorio.",
+"Hechos reales e imaginación."
+],
+"correcta": 2,
+"porque": "Una leyenda parte de un lugar real y suma fantasía."
+},
+{
+"pregunta": "¿Qué explica la leyenda de Popocatépetl e Iztaccíhuatl?",
+"opciones": [
+"La forma de dos volcanes.",
+"Cómo se hace el pan.",
+"Por qué llueve en verano."
+],
+"correcta": 0,
+"porque": "Cuenta de un guerrero y una princesa dormida."
+},
+{
+"pregunta": "Un cuento habla de dioses que crean el mundo. ¿Qué es?",
+"opciones": [
+"Una leyenda de tu colonia",
+"Un mito, porque explica el mundo",
+"Una nota informativa del día"
+],
+"correcta": 1,
+"porque": "Un mito habla de dioses y del origen del mundo."
+},
+{
+"pregunta": "¿Por qué conviene conservar mitos y leyendas?",
+"opciones": [
+"Para cambiarlos por noticias.",
+"Para que nadie los vuelva a contar.",
+"Guardan la cultura de un pueblo."
+],
+"correcta": 2,
+"porque": "Contarlos mantiene vivas nuestras historias."
+}
+],
+"modos-verbales-primaria": [
+{
+"pregunta": "¿Qué modo indica una orden?",
+"opciones": [
+"Indicativo.",
+"Imperativo.",
+"Subjuntivo."
+],
+"correcta": 1,
+"porque": "El imperativo se usa para órdenes o peticiones."
+},
+{
+"pregunta": "¿Qué modo es *Ojalá Ana gane*?",
+"opciones": [
+"Subjuntivo.",
+"Indicativo.",
+"Imperativo."
+],
+"correcta": 0,
+"porque": "Ojalá expresa un deseo, y eso va en subjuntivo."
+},
+{
+"pregunta": "¿Qué modo es *Luis come una manzana*?",
+"opciones": [
+"Indicativo.",
+"Subjuntivo.",
+"Imperativo."
+],
+"correcta": 0,
+"porque": "Cuenta un hecho real."
+},
+{
+"pregunta": "¿Cuál oración es una orden?",
+"opciones": [
+"Ojalá guardes tus útiles.",
+"Guardas tus útiles.",
+"¡Guarda tus útiles!"
+],
+"correcta": 2,
+"porque": "Las órdenes llevan imperativo."
+},
+{
+"pregunta": "¿Cuál oración expresa un deseo?",
+"opciones": [
+"¡Llueve ahora!",
+"Espero que llueva mañana.",
+"Llovió ayer."
+],
+"correcta": 1,
+"porque": "Espero que lleva al subjuntivo y expresa deseo."
+}
+],
+"narracion-autobiografica-primaria": [
+{
+"pregunta": "¿En qué persona se escribe una autobiografía?",
+"opciones": [
+"Primera persona, con *yo*.",
+"Tercera persona, con *él*.",
+"Segunda persona, con *tú*."
+],
+"correcta": 0,
+"porque": "En una autobiografía cuentas tu vida con yo."
+},
+{
+"pregunta": "Convierte a primera persona: «Ana se cayó».",
+"opciones": [
+"Se cayó.",
+"Te caíste.",
+"Me caí."
+],
+"correcta": 2,
+"porque": "En primera persona se usa me caí."
+},
+{
+"pregunta": "¿Qué palabras ordenan los sucesos?",
+"opciones": [
+"Rojo, azul y verde.",
+"Primero, después y al final.",
+"Ojalá, quizá y tal vez."
+],
+"correcta": 1,
+"porque": "Los conectores de orden ayudan a seguir la historia."
+},
+{
+"pregunta": "¿Qué tiempo usas para contar lo que ya pasó?",
+"opciones": [
+"Futuro.",
+"Presente.",
+"Pasado."
+],
+"correcta": 2,
+"porque": "Una autobiografía cuenta hechos que ya ocurrieron."
+},
+{
+"pregunta": "Quieres contar tu primer día de escuela. ¿Qué oración sirve?",
+"opciones": [
+"Llegué temprano y conocí a mi maestra.",
+"Ella llegó temprano y conoció a su maestra.",
+"Llegaré mañana a la escuela."
+],
+"correcta": 0,
+"porque": "Usa yo y verbos en pasado."
+}
+],
+"narrativas-comunidad-recursos-primaria": [
+{
+"pregunta": "¿Quién puede ser una fuente para conocer la historia de tu comunidad?",
+"opciones": [
+"Una persona mayor.",
+"Un cuaderno en blanco.",
+"Un videojuego nuevo."
+],
+"correcta": 0,
+"porque": "Las personas mayores recuerdan hechos importantes."
+},
+{
+"pregunta": "¿Qué partes tiene una narrativa?",
+"opciones": [
+"Saludo, mensaje y firma.",
+"Título, materiales y pasos.",
+"Inicio, desarrollo y final."
+],
+"correcta": 2,
+"porque": "Así se ordena una historia."
+},
+{
+"pregunta": "¿Qué debes hacer con los hechos reales al narrar?",
+"opciones": [
+"Cambiarlos para que sean más graciosos.",
+"Inventarlos a tu gusto.",
+"No cambiarlos."
+],
+"correcta": 2,
+"porque": "Hay que respetar a las personas y la verdad."
+},
+{
+"pregunta": "¿Cuál es un recurso visual?",
+"opciones": [
+"Un gesto.",
+"Una canción.",
+"Un dibujo."
+],
+"correcta": 2,
+"porque": "Los dibujos se ven."
+},
+{
+"pregunta": "¿Cuál es una fuente para investigar un acontecimiento?",
+"opciones": [
+"Fotos antiguas.",
+"Un chiste.",
+"Una adivinanza."
+],
+"correcta": 0,
+"porque": "Las fotos antiguas muestran cómo era el lugar."
+}
+]
+}

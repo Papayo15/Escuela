@@ -1,0 +1,574 @@
+{
+"adverbios-con-ly-secundaria": [
+{
+"pregunta": "¿Cuál es el adverbio de *loud* (fuerte)?",
+"opciones": [
+"louder",
+"loud",
+"loudly"
+],
+"correcta": 2,
+"porque": "A muchos adjetivos se les agrega -ly para decir cómo se hace algo."
+},
+{
+"pregunta": "Elige la frase correcta:",
+"opciones": [
+"The teacher speaks clearness.",
+"The teacher speaks clear.",
+"The teacher speaks clearly."
+],
+"correcta": 2,
+"porque": "Hablar es una acción, así que pide adverbio: clearly."
+},
+{
+"pregunta": "¿Cuál es el adverbio de *good* (bueno)?",
+"opciones": [
+"gooder",
+"goodly",
+"well"
+],
+"correcta": 2,
+"porque": "Good es especial: su adverbio es well, no lleva -ly."
+},
+{
+"pregunta": "Completa: *The bus is fast. It goes ___.*",
+"opciones": [
+"fast",
+"fastily",
+"fastly"
+],
+"correcta": 0,
+"porque": "Fast no cambia: es adjetivo y adverbio a la vez."
+},
+{
+"pregunta": "¿Cuál es el adverbio de *happy* (feliz)?",
+"opciones": [
+"happy-ly",
+"happyly",
+"happily"
+],
+"correcta": 2,
+"porque": "Si termina en y, la y cambia a i y se agrega -ly."
+}
+],
+"articulos-a-an-y-the-secundaria": [
+{
+"pregunta": "Completa: *I have ___ idea.*",
+"opciones": [
+"an",
+"a",
+"the"
+],
+"correcta": 0,
+"porque": "Idea empieza con sonido de vocal, así que se usa an."
+},
+{
+"pregunta": "Completa: *She is ___ honest girl.*",
+"opciones": [
+"some",
+"an",
+"a"
+],
+"correcta": 1,
+"porque": "La h de honest no suena; suena como vocal, por eso an."
+},
+{
+"pregunta": "Completa: *There is a cat in the yard. ___ cat is black.*",
+"opciones": [
+"A",
+"An",
+"The"
+],
+"correcta": 2,
+"porque": "Ya sabemos cuál gato es, por eso se usa the."
+},
+{
+"pregunta": "Completa: *He eats ___ egg at lunch.*",
+"opciones": [
+"a",
+"an",
+"the"
+],
+"correcta": 1,
+"porque": "Egg empieza con sonido de vocal: an egg."
+},
+{
+"pregunta": "Completa: *My brother has ___ unicorn poster.*",
+"opciones": [
+"the, porque es muy grande",
+"a, porque suena a consonante",
+"an, porque empieza con vocal"
+],
+"correcta": 1,
+"porque": "Unicorn suena como \"yu\", un sonido de consonante, y lleva a."
+}
+],
+"can-para-habilidades-secundaria": [
+{
+"pregunta": "¿Cuál es una pregunta bien hecha con *can*?",
+"opciones": [
+"Does she can drive?",
+"Can she drive a car?",
+"Can she drives a car?"
+],
+"correcta": 1,
+"porque": "Can no usa do y el verbo va en forma base, sin -s."
+},
+{
+"pregunta": "¿Cómo preguntas si Ana puede cantar?",
+"opciones": [
+"Ana can sing?",
+"Can Ana sing?",
+"Does Ana can sing?"
+],
+"correcta": 1,
+"porque": "Con can, la pregunta se hace poniendo can al principio."
+},
+{
+"pregunta": "Elige la forma de pasado de *can*:",
+"opciones": [
+"could",
+"canned",
+"coulded"
+],
+"correcta": 0,
+"porque": "El pasado de can es could."
+},
+{
+"pregunta": "Completa: *Tom ___ play chess. He is too young.* (no puede)",
+"opciones": [
+"can't",
+"doesn't can",
+"don't can"
+],
+"correcta": 0,
+"porque": "Para negar se usa can't, sin do ni does."
+},
+{
+"pregunta": "¿Qué significa *Can I go out?* en el salón?",
+"opciones": [
+"¿Puedo salir?",
+"¿Salí ya?",
+"¿Voy a salir?"
+],
+"correcta": 0,
+"porque": "Can también sirve para pedir permiso."
+}
+],
+"comida-y-ropa-secundaria": [
+{
+"pregunta": "¿Qué significa *cheese*?",
+"opciones": [
+"huevo",
+"queso",
+"pollo"
+],
+"correcta": 1,
+"porque": "Cheese es queso, un alimento de leche."
+},
+{
+"pregunta": "¿Cuál frase sirve para pedir un jugo?",
+"opciones": [
+"I am wearing juice.",
+"Can I have juice, please?",
+"How much is juice?"
+],
+"correcta": 1,
+"porque": "Con Can I have... please? pides algo con cortesía."
+},
+{
+"pregunta": "¿Qué significa *jacket*?",
+"opciones": [
+"chamarra",
+"falda",
+"calcetines"
+],
+"correcta": 0,
+"porque": "Jacket es la chamarra que te pones cuando hace frío."
+},
+{
+"pregunta": "Completa: *These ___ are new.*",
+"opciones": [
+"shoe",
+"shoes",
+"a shoe"
+],
+"correcta": 1,
+"porque": "Shoes va en plural, por eso se usa con These."
+},
+{
+"pregunta": "¿Cómo dices «Traigo puesto un sombrero»?",
+"opciones": [
+"I am eating a hat.",
+"I have a hat water.",
+"I am wearing a hat."
+],
+"correcta": 2,
+"porque": "Para ropa puesta se usa I am wearing."
+}
+],
+"conectores-and-but-because-y-so-secundaria": [
+{
+"pregunta": "Elige: *I like apples, ___ I don't like grapes.*",
+"opciones": [
+"so",
+"but",
+"because"
+],
+"correcta": 1,
+"porque": "Las dos ideas se contrastan, por eso va but."
+},
+{
+"pregunta": "Elige: *I was thirsty, ___ I drank water.*",
+"opciones": [
+"but",
+"because",
+"so"
+],
+"correcta": 2,
+"porque": "Tener sed es la causa y beber es el resultado; el resultado va con so."
+},
+{
+"pregunta": "Elige: *I drank water ___ I was thirsty.*",
+"opciones": [
+"but, da un contraste",
+"so, da el resultado",
+"because, da la causa"
+],
+"correcta": 2,
+"porque": "Tener sed es la causa de tomar agua, y because da la causa."
+},
+{
+"pregunta": "Elige: *Mia has a pencil ___ a notebook.*",
+"opciones": [
+"but",
+"and",
+"so"
+],
+"correcta": 1,
+"porque": "Se suman dos cosas, por eso se usa and."
+},
+{
+"pregunta": "Elige: *We stayed inside ___ it was raining.*",
+"opciones": [
+"because, da la causa",
+"and, solo suma ideas",
+"so, da el resultado"
+],
+"correcta": 0,
+"porque": "La lluvia es la causa de quedarse adentro."
+}
+],
+"conversaciones-utiles-en-ingles-secundaria": [
+{
+"pregunta": "Quieres pagar en un restaurante. ¿Qué dices?",
+"opciones": [
+"Go straight, please.",
+"I'm just looking.",
+"The check, please."
+],
+"correcta": 2,
+"porque": "The check, please significa \"La cuenta, por favor\"."
+},
+{
+"pregunta": "No entendiste lo que dijo tu maestro. ¿Qué dices?",
+"opciones": [
+"Turn left, please.",
+"Sorry, I don't understand.",
+"How much is it?"
+],
+"correcta": 1,
+"porque": "Con esa frase avisas con cortesía que no entendiste."
+},
+{
+"pregunta": "En una tienda solo quieres mirar. ¿Qué dices?",
+"opciones": [
+"I'm just looking, thanks.",
+"The check, please.",
+"Where is the station?"
+],
+"correcta": 0,
+"porque": "Esa frase significa \"Solo estoy viendo, gracias\"."
+},
+{
+"pregunta": "¿Qué significa *Go straight and turn left*?",
+"opciones": [
+"Regresa y camina a la derecha.",
+"Para y da vuelta a la derecha.",
+"Sigue derecho y da vuelta a la izquierda."
+],
+"correcta": 2,
+"porque": "Straight es derecho y left es izquierda."
+},
+{
+"pregunta": "Quieres pedirle a alguien que repita. ¿Qué dices?",
+"opciones": [
+"Excuse me, how much?",
+"Could you say that again?",
+"Do you have this in blue?"
+],
+"correcta": 1,
+"porque": "Esa frase pide con cortesía que lo digan otra vez."
+}
+],
+"creaciones-literarias-tradicionales-contemporaneas-ingles": [
+{
+"pregunta": "¿Cuál es una creación literaria tradicional en inglés?",
+"opciones": [
+"a fairy tale",
+"a school bell",
+"a text message"
+],
+"correcta": 0,
+"porque": "Los cuentos de hadas pasan de abuelos a nietos desde hace mucho."
+},
+{
+"pregunta": "¿Qué significa *setting* en una historia?",
+"opciones": [
+"los personajes",
+"lo que pasa",
+"el lugar y el tiempo"
+],
+"correcta": 2,
+"porque": "Setting dice dónde y cuándo ocurre la historia."
+},
+{
+"pregunta": "¿Qué significa *plot*?",
+"opciones": [
+"lo que pasa en la historia",
+"el nombre del autor",
+"el lugar donde ocurre"
+],
+"correcta": 0,
+"porque": "Plot es la trama, la serie de sucesos del relato."
+},
+{
+"pregunta": "Elige la oración en pasado:",
+"opciones": [
+"The boy opened the box.",
+"The boy opening the box.",
+"The boy opens the box."
+],
+"correcta": 0,
+"porque": "Opened es pasado de open y sirve para contar un cuento."
+},
+{
+"pregunta": "En un cuento, *characters* son:",
+"opciones": [
+"las personas o animales de la historia",
+"las páginas del libro",
+"los dibujos del libro"
+],
+"correcta": 0,
+"porque": "Characters significa personajes."
+}
+],
+"did-y-didnt-en-pasado-simple-secundaria": [
+{
+"pregunta": "Completa: *They ___ go to the park yesterday.* (negación)",
+"opciones": [
+"doesn't",
+"don't",
+"didn't"
+],
+"correcta": 2,
+"porque": "Con ayer se usa el pasado, y didn't niega en pasado."
+},
+{
+"pregunta": "Completa: *Where ___ you go yesterday?*",
+"opciones": [
+"does",
+"did",
+"do"
+],
+"correcta": 1,
+"porque": "Con ayer se pregunta en pasado, con did."
+},
+{
+"pregunta": "Completa: *What ___ she buy yesterday?*",
+"opciones": [
+"does",
+"did",
+"was"
+],
+"correcta": 1,
+"porque": "En preguntas de pasado con what se usa did."
+},
+{
+"pregunta": "¿Cuál oración con *to be* está bien?",
+"opciones": [
+"I didn't be at home.",
+"I didn't was at home.",
+"I wasn't at home."
+],
+"correcta": 2,
+"porque": "To be no usa did; se niega con wasn't."
+},
+{
+"pregunta": "Niega: *They played soccer.*",
+"opciones": [
+"They don't played soccer.",
+"They didn't played soccer.",
+"They didn't play soccer."
+],
+"correcta": 2,
+"porque": "Didn't ya marca el pasado, así que play queda en forma base."
+}
+],
+"escribir-un-parrafo-en-ingles-secundaria": [
+{
+"pregunta": "La primera oración de un párrafo dice:",
+"opciones": [
+"un detalle chiquito",
+"de qué vas a hablar",
+"cómo termina todo"
+],
+"correcta": 1,
+"porque": "Esa oración de tema es el pan de arriba del párrafo."
+},
+{
+"pregunta": "¿Cuál es una oración final buena?",
+"opciones": [
+"She is funny and kind.",
+"I am happy to have her as a friend.",
+"My friend is Sofia."
+],
+"correcta": 1,
+"porque": "Una oración de cierre termina la idea del párrafo."
+},
+{
+"pregunta": "¿Qué conector sirve para dar una razón?",
+"opciones": [
+"first",
+"because",
+"finally"
+],
+"correcta": 1,
+"porque": "Because explica por qué pasa algo."
+},
+{
+"pregunta": "¿Qué debes revisar al terminar de escribir?",
+"opciones": [
+"el color del lápiz",
+"el tamaño de la hoja",
+"las mayúsculas y los puntos"
+],
+"correcta": 2,
+"porque": "Revisar mayúsculas, puntos y la -s de he y she evita errores."
+},
+{
+"pregunta": "¿Qué conector sirve para cerrar un párrafo?",
+"opciones": [
+"because",
+"but",
+"finally"
+],
+"correcta": 2,
+"porque": "Finally significa \"por último\" y se usa al terminar."
+}
+],
+"escuchar-en-ingles-estrategias-secundaria": [
+{
+"pregunta": "Antes de escuchar un audio, lo mejor es:",
+"opciones": [
+"leer las preguntas y adivinar el tema",
+"apagar el audio",
+"traducir cada palabra"
+],
+"correcta": 0,
+"porque": "Leer antes te prepara para saber qué buscar."
+},
+{
+"pregunta": "Si oyes una palabra difícil, debes:",
+"opciones": [
+"seguir escuchando sin detenerte",
+"dejar de poner atención",
+"parar todo el audio"
+],
+"correcta": 0,
+"porque": "Si te detienes en una palabra, pierdes lo que sigue."
+},
+{
+"pregunta": "¿Qué quiere decir *wanna* al hablar?",
+"opciones": [
+"want to",
+"was not",
+"went to"
+],
+"correcta": 0,
+"porque": "Wanna es la forma que suena rápido de want to."
+},
+{
+"pregunta": "¿A qué palabras debes ponerles más atención?",
+"opciones": [
+"las palabras que no suenan",
+"solo las palabras cortas",
+"nombres, números y lugares"
+],
+"correcta": 2,
+"porque": "Esas palabras traen datos importantes del audio."
+},
+{
+"pregunta": "¿Qué haces después de escuchar?",
+"opciones": [
+"vuelves a oír para revisar",
+"borras tus notas",
+"olvidas lo que oíste"
+],
+"correcta": 0,
+"porque": "Oír de nuevo ayuda a revisar lo que entendiste."
+}
+],
+"expresiones-de-tiempo-en-ingles-secundaria": [
+{
+"pregunta": "¿Qué significa *yesterday*?",
+"opciones": [
+"hoy",
+"mañana",
+"ayer"
+],
+"correcta": 2,
+"porque": "Yesterday habla del día pasado."
+},
+{
+"pregunta": "¿Qué significa *last week*?",
+"opciones": [
+"La semana pasada",
+"La próxima semana",
+"Todas las semanas"
+],
+"correcta": 0,
+"porque": "*Last week* se usa para hablar del pasado."
+},
+{
+"pregunta": "¿Qué significa *next year*?",
+"opciones": [
+"todos los años",
+"el próximo año",
+"el año pasado"
+],
+"correcta": 1,
+"porque": "Next mira adelante, hacia el futuro."
+},
+{
+"pregunta": "¿Qué significa *every day*?",
+"opciones": [
+"todos los días",
+"en dos días",
+"ayer por la tarde"
+],
+"correcta": 0,
+"porque": "Every day habla de algo que se repite como hábito."
+},
+{
+"pregunta": "Elige: *We have a test ___ week.* (la semana que viene)",
+"opciones": [
+"last",
+"next",
+"ago"
+],
+"correcta": 1,
+"porque": "Next week es la semana próxima, en el futuro."
+}
+]
+}

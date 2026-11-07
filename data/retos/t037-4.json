@@ -1,0 +1,522 @@
+{
+"silogismos-prepa": [
+{
+"pregunta": "Todos los gatos maúllan. Mimi es gato. Entonces...",
+"opciones": [
+"Mimi es un perro",
+"Mimi maúlla",
+"Todos son Mimi"
+],
+"correcta": 1,
+"porque": "Si las dos premisas son ciertas, Mimi maúlla."
+},
+{
+"pregunta": "¿Cuántas premisas tiene un silogismo?",
+"opciones": [
+"Dos",
+"Cuatro",
+"Una"
+],
+"correcta": 0,
+"porque": "Un silogismo tiene dos premisas y una conclusión."
+},
+{
+"pregunta": "¿Quién sistematizó el silogismo?",
+"opciones": [
+"Descartes de Francia",
+"Aristóteles",
+"Nietzsche el alemán"
+],
+"correcta": 1,
+"porque": "Aristóteles lo organizó como parte de la lógica."
+},
+{
+"pregunta": "Todos los perros son mamíferos. Fido es perro. ¿Cuál es la premisa menor?",
+"opciones": [
+"Fido es perro",
+"Fido es mamífero",
+"Todos son mamíferos"
+],
+"correcta": 0,
+"porque": "La premisa menor habla del caso particular."
+},
+{
+"pregunta": "Todos los alumnos tienen mochila. Ana es alumna. ¿Qué concluyes?",
+"opciones": [
+"Ana no es alumna",
+"Ana tiene mochila",
+"Nadie tiene mochila"
+],
+"correcta": 1,
+"porque": "Si las premisas son ciertas, Ana tiene mochila."
+}
+],
+"tablas-de-verdad-prepa": [
+{
+"pregunta": "¿Cuándo es verdadero $p \\land q$?",
+"opciones": [
+"Si ambas son ciertas",
+"Si solo una es cierta",
+"Si las dos son falsas"
+],
+"correcta": 0,
+"porque": "La y solo es cierta cuando las dos lo son."
+},
+{
+"pregunta": "¿Cuándo es falso $p \\lor q$?",
+"opciones": [
+"Si ambas son ciertas",
+"Si una es cierta",
+"Si ambas son falsas"
+],
+"correcta": 2,
+"porque": "La o solo es falsa cuando las dos son falsas."
+},
+{
+"pregunta": "¿Cuántas filas tiene una tabla con 3 frases?",
+"opciones": [
+"Ocho",
+"Cuatro",
+"Seis"
+],
+"correcta": 0,
+"porque": "Cada frase duplica las filas: 2, 4 y 8."
+},
+{
+"pregunta": "¿Cuándo es falso $p \\to q$?",
+"opciones": [
+"Si ambas son ciertas a la vez",
+"Si prometes y no cumples",
+"Si ambas son falsas a la vez"
+],
+"correcta": 1,
+"porque": "El si entonces falla cuando $p$ es verdadera y $q$ falsa."
+},
+{
+"pregunta": "Prometes traer el libro y traes la tarea. ¿Qué tabla usas para hice la tarea y traje el libro?",
+"opciones": [
+"La de y",
+"La de no",
+"La de o"
+],
+"correcta": 0,
+"porque": "Pide que las dos cosas sean ciertas, como la y."
+}
+],
+"desafios-eticos-ciencia-tecnologia-mexico-prepa": [
+{
+"pregunta": "¿Qué significa que poder no es deber?",
+"opciones": [
+"Nadie puede hacer ya nada",
+"No todo lo posible se debe hacer",
+"Todo lo posible es siempre bueno"
+],
+"correcta": 1,
+"porque": "Antes de hacer algo hay que pensar en sus consecuencias."
+},
+{
+"pregunta": "Una app te pide tu ubicación para funcionar. ¿Qué criterio ético aplicas?",
+"opciones": [
+"Si es de moda",
+"Si tiene colores bonitos",
+"Si respeta mi privacidad"
+],
+"correcta": 2,
+"porque": "Se debe cuidar que se respeten tus datos y derechos."
+},
+{
+"pregunta": "¿Cuál es un desafío ético de la inteligencia artificial?",
+"opciones": [
+"Gastar más luz",
+"Decidir con sesgos",
+"Ocupar menos espacio"
+],
+"correcta": 1,
+"porque": "Una IA puede repetir sesgos de sus datos."
+},
+{
+"pregunta": "¿Cuál es una pregunta ética sobre una nueva tecnología?",
+"opciones": [
+"¿A quién beneficia y daña?",
+"¿Qué color tiene su pantalla?",
+"¿Cuánto pesa la caja nueva?"
+],
+"correcta": 0,
+"porque": "Se pregunta a quién beneficia y a quién daña."
+},
+{
+"pregunta": "Hay cámaras en tu calle. ¿Qué pregunta ética haces?",
+"opciones": [
+"¿Se respetan mis derechos?",
+"¿Cuántas hay en total hoy?",
+"¿De qué marca son las cámaras?"
+],
+"correcta": 0,
+"porque": "Se piensa si se cuida la privacidad de las personas."
+}
+],
+"desigualdades-genero-feminismos-filosofia-prepa": [
+{
+"pregunta": "¿Qué es una desigualdad de género?",
+"opciones": [
+"Una regla de cortesía social",
+"Un juego de equipo escolar",
+"Trato injusto por lo esperado"
+],
+"correcta": 2,
+"porque": "Quita oportunidades por lo que se espera de mujeres y hombres."
+},
+{
+"pregunta": "¿Qué diferencia hay entre igualdad y equidad?",
+"opciones": [
+"Una es de ropa y otra de comida",
+"Ninguna, son idénticas",
+"Misma escalera o una según altura"
+],
+"correcta": 2,
+"porque": "La igualdad da lo mismo y la equidad da según la necesidad."
+},
+{
+"pregunta": "En una casa solo las niñas lavan los platos. ¿Qué se puede hacer?",
+"opciones": [
+"Repartir las tareas igual",
+"Dejar todo como está ahora",
+"Pedirles que laven más platos"
+],
+"correcta": 0,
+"porque": "Revisar costumbres injustas ayuda a repartir de forma justa."
+},
+{
+"pregunta": "¿Qué conviene hacer ante una costumbre que quita oportunidades?",
+"opciones": [
+"Prohibir que se hable del tema",
+"Aceptarla porque siempre fue así",
+"Revisarla con una mirada crítica"
+],
+"correcta": 2,
+"porque": "La crítica revisa las costumbres injustas."
+},
+{
+"pregunta": "¿Qué hacemos al analizar una desigualdad?",
+"opciones": [
+"Culpar a una sola persona",
+"Inventar datos que me sirvan",
+"Ver hechos y dar razones"
+],
+"correcta": 2,
+"porque": "Se dicen los hechos, se comparan razones y se da una postura."
+}
+],
+"etica-de-las-virtudes-prepa": [
+{
+"pregunta": "¿En qué se fija la ética de las virtudes?",
+"opciones": [
+"En el color del uniforme escolar",
+"En el carácter de la persona",
+"En el precio de todas las cosas"
+],
+"correcta": 1,
+"porque": "Esta ética juzga según el carácter de la persona."
+},
+{
+"pregunta": "¿Qué es una virtud para Aristóteles?",
+"opciones": [
+"Un premio escolar",
+"Un hábito bueno",
+"Un don de nacimiento"
+],
+"correcta": 1,
+"porque": "La virtud es un hábito que se practica."
+},
+{
+"pregunta": "La valentía está entre miedo y exceso de riesgo. ¿Qué es eso?",
+"opciones": [
+"La buena suerte",
+"El término medio",
+"El extremo del riesgo"
+],
+"correcta": 1,
+"porque": "La virtud está en el equilibrio entre dos excesos."
+},
+{
+"pregunta": "¿Cuál es una virtud?",
+"opciones": [
+"La pereza y la flojera",
+"La honestidad",
+"La envidia de otros"
+],
+"correcta": 1,
+"porque": "La honestidad es una virtud, como la valentía y la generosidad."
+},
+{
+"pregunta": "¿Qué es la eudaimonía?",
+"opciones": [
+"Vivir bien",
+"Estar solo",
+"Ganar dinero"
+],
+"correcta": 0,
+"porque": "La eudaimonía es la felicidad de vivir bien."
+}
+],
+"etica-del-deber-prepa": [
+{
+"pregunta": "¿Qué juzga la ética del deber?",
+"opciones": [
+"Los actos por la regla",
+"Los actos por su precio",
+"Los actos por su éxito"
+],
+"correcta": 0,
+"porque": "La ética del deber juzga por la regla y no por las consecuencias."
+},
+{
+"pregunta": "¿Quién es su autor principal?",
+"opciones": [
+"Hume",
+"Marx",
+"Kant"
+],
+"correcta": 2,
+"porque": "Kant es el principal autor de la ética del deber."
+},
+{
+"pregunta": "Dices la verdad aunque te regañen. ¿Qué ética sigues?",
+"opciones": [
+"La del gusto",
+"La del deber",
+"La de la suerte"
+],
+"correcta": 1,
+"porque": "Cumples la regla de no mentir aunque cueste."
+},
+{
+"pregunta": "Para esta ética, ¿importan las consecuencias?",
+"opciones": [
+"Sí, importan más que nada",
+"No, importa la regla",
+"Sí, solo importan ellas"
+],
+"correcta": 1,
+"porque": "Se juzga el acto por la regla y no por sus resultados."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de deber?",
+"opciones": [
+"Copiar si nadie ve",
+"No mentir aunque ayude",
+"Mentir para salir bien"
+],
+"correcta": 1,
+"porque": "Es un deber no mentir, aunque mentir ayude."
+}
+],
+"etica-dilemas-morales-decisiones-prepa": [
+{
+"pregunta": "¿Qué es un dilema moral?",
+"opciones": [
+"Una tarea de clase larga",
+"Elegir entre dos valores",
+"Un juego de mesa con dados"
+],
+"correcta": 1,
+"porque": "Es elegir entre dos cosas buenas que chocan."
+},
+{
+"pregunta": "Tu amigo copió y te pide silencio. ¿Qué valores chocan?",
+"opciones": [
+"Honestidad y lealtad",
+"Juego y largo descanso",
+"Dinero y mucha fama"
+],
+"correcta": 0,
+"porque": "Chocan decir la verdad y cuidar a tu amigo."
+},
+{
+"pregunta": "¿Qué diferencia hay entre ética y moral?",
+"opciones": [
+"La ética piensa las normas",
+"La moral se estudia en libros",
+"Son idénticas siempre"
+],
+"correcta": 0,
+"porque": "La moral son normas, y la ética piensa si son justas."
+},
+{
+"pregunta": "¿Qué haces primero ante un dilema?",
+"opciones": [
+"Decidir al azar con una moneda",
+"Ver qué pasa y a quién afecta",
+"Esperar a que pase solo todo"
+],
+"correcta": 1,
+"porque": "El primer paso es decir qué pasa y a quién afecta."
+},
+{
+"pregunta": "Encuentras una cartera con dinero e identificación. ¿Qué paso sigue tras ver los hechos?",
+"opciones": [
+"Quedarme el dinero",
+"Dejarla tirada",
+"Nombrar los valores"
+],
+"correcta": 2,
+"porque": "Después de ver los hechos se nombran los valores."
+}
+],
+"ontologia-ser-existencia-conocimiento-prepa": [
+{
+"pregunta": "¿Qué estudia la ontología?",
+"opciones": [
+"Cuánto cuesta algo",
+"Cómo se canta bien",
+"Qué existe y cómo es"
+],
+"correcta": 2,
+"porque": "La ontología pregunta qué existe y cómo es."
+},
+{
+"pregunta": "¿Existe igual una mesa que el número 7?",
+"opciones": [
+"Sí, exactamente igual",
+"No, de modos distintos",
+"Ninguno de los dos existe"
+],
+"correcta": 1,
+"porque": "Una mesa es material y el 7 es una idea abstracta."
+},
+{
+"pregunta": "¿Qué es la existencia?",
+"opciones": [
+"Cuánto pesa algo",
+"Que algo es",
+"Qué color tiene algo"
+],
+"correcta": 1,
+"porque": "La existencia es que algo es."
+},
+{
+"pregunta": "¿Qué es el ser?",
+"opciones": [
+"Qué es algo, su naturaleza",
+"Cuántos años tiene algo",
+"Si algo está roto o nuevo"
+],
+"correcta": 0,
+"porque": "El ser es lo que algo es, su naturaleza."
+},
+{
+"pregunta": "Sientes miedo antes de un examen. ¿Cómo existe?",
+"opciones": [
+"Se cuenta como número",
+"Se siente por dentro",
+"Se toca como mesa"
+],
+"correcta": 1,
+"porque": "El miedo existe porque se siente, no es un objeto."
+}
+],
+"utilitarismo-prepa": [
+{
+"pregunta": "¿Qué juzga el utilitarismo?",
+"opciones": [
+"Los actos por su regla escrita",
+"Los actos por su dueño o autor",
+"Los actos por sus efectos"
+],
+"correcta": 2,
+"porque": "Juzga los actos por sus consecuencias."
+},
+{
+"pregunta": "¿Quién fue un autor utilitarista?",
+"opciones": [
+"Jeremy Bentham",
+"René Descartes",
+"Karl Marx"
+],
+"correcta": 0,
+"porque": "Bentham y Mill defendieron el utilitarismo."
+},
+{
+"pregunta": "¿Cuál es un problema del utilitarismo?",
+"opciones": [
+"Puede dañar a pocos",
+"Es muy caro",
+"Nadie lo entiende"
+],
+"correcta": 0,
+"porque": "Puede sacrificar a pocos por el bien de muchos."
+},
+{
+"pregunta": "Eliges el juego que divierte a más compañeros. ¿Qué teoría aplicas?",
+"opciones": [
+"El utilitarismo",
+"La mayéutica griega",
+"El arjé de Tales"
+],
+"correcta": 0,
+"porque": "Eliges lo que da mayor bienestar al mayor número."
+},
+{
+"pregunta": "Para esta teoría, ¿qué es lo bueno?",
+"opciones": [
+"Lo que da más bienestar",
+"Lo que cuesta más dinero",
+"Lo que gusta solo a uno"
+],
+"correcta": 0,
+"porque": "Es bueno lo que da bienestar al mayor número."
+}
+],
+"antiguo-egipto-prepa": [
+{
+"pregunta": "¿Cómo se llamaba el rey de Egipto?",
+"opciones": [
+"Faraón",
+"Emperador",
+"Sultán"
+],
+"correcta": 0,
+"porque": "El rey de Egipto era el faraón, considerado divino."
+},
+{
+"pregunta": "¿Qué es un jeroglífico?",
+"opciones": [
+"Una tumba muy grande",
+"Un tipo de barco antiguo",
+"Escritura con dibujos"
+],
+"correcta": 2,
+"porque": "Los jeroglíficos eran la escritura egipcia con dibujos."
+},
+{
+"pregunta": "¿Qué río atraviesa Egipto?",
+"opciones": [
+"El Danubio",
+"El Támesis",
+"El Nilo"
+],
+"correcta": 2,
+"porque": "Egipto vivió junto al río Nilo."
+},
+{
+"pregunta": "¿Para qué servían las crecidas del Nilo?",
+"opciones": [
+"Quitaban toda el agua",
+"Dejaban tierra fértil",
+"Rompían todas las casas"
+],
+"correcta": 1,
+"porque": "Las crecidas dejaban tierra buena para sembrar."
+},
+{
+"pregunta": "¿Quién fue la última reina de Egipto?",
+"opciones": [
+"Nefertiti",
+"Hatshepsut",
+"Cleopatra"
+],
+"correcta": 2,
+"porque": "Cleopatra fue la última reina de Egipto."
+}
+]
+}

@@ -1,0 +1,470 @@
+{
+"la-terminacion-ing-lo-que-pasa-ahora-primaria": [
+{
+"pregunta": "¿Cómo dices «Estoy comiendo»? Comer es eat.",
+"opciones": [
+"I am eat",
+"I am eating",
+"I eating"
+],
+"correcta": 1,
+"porque": "Se necesita am y el verbo con ing."
+},
+{
+"pregunta": "¿Qué le agregas a read para decir que está pasando ahora?",
+"opciones": [
+"ed",
+"ing",
+"es"
+],
+"correcta": 1,
+"porque": "Read se vuelve reading."
+},
+{
+"pregunta": "Completa: You ___ eating.",
+"opciones": [
+"are",
+"am",
+"is"
+],
+"correcta": 0,
+"porque": "Con you se usa are."
+},
+{
+"pregunta": "¿Qué pasa con dance al agregar ing?",
+"opciones": [
+"Queda dancering",
+"Queda danceing",
+"Pierde la e: dancing"
+],
+"correcta": 2,
+"porque": "Si termina en e, la e se va antes de ing."
+},
+{
+"pregunta": "En el recreo ves jugar a Ana. ¿Cómo dices «Ella está jugando»? Jugar es play.",
+"opciones": [
+"She is playing",
+"She is play",
+"She playing"
+],
+"correcta": 0,
+"porque": "Se usa is y el verbo con ing."
+}
+],
+"los-sonidos-th-sh-y-ch-primaria": [
+{
+"pregunta": "¿Qué sonido tiene sh?",
+"opciones": [
+"Como una d fuerte",
+"Como una k",
+"Como cuando pides silencio, shhh"
+],
+"correcta": 2,
+"porque": "Sh suena como shhh."
+},
+{
+"pregunta": "¿Qué haces con la lengua para decir three?",
+"opciones": [
+"La sacas entre los dientes y soplas",
+"La escondes y cierras la boca",
+"La pegas al paladar sin soplar"
+],
+"correcta": 0,
+"porque": "En th se saca la puntita de la lengua."
+},
+{
+"pregunta": "¿Qué sonido tiene la palabra chair al empezar?",
+"opciones": [
+"ch",
+"th",
+"sh"
+],
+"correcta": 0,
+"porque": "Chair empieza como nuestra ch."
+},
+{
+"pregunta": "¿Qué palabra termina con el sonido sh?",
+"opciones": [
+"lunch",
+"fish",
+"three"
+],
+"correcta": 1,
+"porque": "Fish termina en sh; lunch termina en ch."
+},
+{
+"pregunta": "¿Cómo suena th en mother?",
+"opciones": [
+"Casi como d",
+"Como sh",
+"Como ch"
+],
+"correcta": 0,
+"porque": "A veces th vibra y suena casi como d."
+}
+],
+"numeros-del-21-al-100-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice 47 en inglés?",
+"opciones": [
+"fourteen-seven",
+"fourty-seven",
+"forty-seven"
+],
+"correcta": 2,
+"porque": "Forty se escribe sin la u de four."
+},
+{
+"pregunta": "¿Qué número es sixty-two?",
+"opciones": [
+"26",
+"16",
+"62"
+],
+"correcta": 2,
+"porque": "Sixty es 60 y two es 2, así que son 62."
+},
+{
+"pregunta": "¿Cómo se dice 85?",
+"opciones": [
+"eight-fifty",
+"eighty-five",
+"eighteen-five"
+],
+"correcta": 1,
+"porque": "Eighty es 80 y five es 5."
+},
+{
+"pregunta": "En tu salón hay 30 alumnos. ¿Cómo se dice 30?",
+"opciones": [
+"thirteen",
+"thirty",
+"three-ty"
+],
+"correcta": 1,
+"porque": "Thirty es 30; thirteen es 13."
+},
+{
+"pregunta": "¿Cómo se dice 100?",
+"opciones": [
+"one thousand",
+"one hundred",
+"ten ty"
+],
+"correcta": 1,
+"porque": "One hundred es cien."
+}
+],
+"oraciones-cortas-en-ingles-primaria": [
+{
+"pregunta": "Ordena: apples / eat / I.",
+"opciones": [
+"I eat apples",
+"Apples I eat",
+"Eat I apples"
+],
+"correcta": 0,
+"porque": "El orden es quién, qué hace y qué cosa."
+},
+{
+"pregunta": "Corrige: i like dogs",
+"opciones": [
+"I like dogs.",
+"i like dogs.",
+"I Like dogs"
+],
+"correcta": 0,
+"porque": "La I va en mayúscula, la oración empieza con mayúscula y termina con punto."
+},
+{
+"pregunta": "Ordena: a / have / blue / I / car.",
+"opciones": [
+"I have a blue car",
+"I a blue have car",
+"I have a car blue"
+],
+"correcta": 0,
+"porque": "El adjetivo blue va antes de la cosa."
+},
+{
+"pregunta": "¿Qué va al final de una oración al escribir?",
+"opciones": [
+"Un punto",
+"Una mayúscula",
+"Una coma"
+],
+"correcta": 0,
+"porque": "Al final de la oración se escribe un punto."
+},
+{
+"pregunta": "Ordena: soccer / play / we.",
+"opciones": [
+"We play soccer",
+"Soccer play we",
+"Play we soccer"
+],
+"correcta": 0,
+"porque": "Primero quién, luego qué hace y al final qué cosa."
+}
+],
+"ropa-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice falda en inglés?",
+"opciones": [
+"shirt",
+"dress",
+"skirt"
+],
+"correcta": 2,
+"porque": "Skirt es falda y shirt es camisa."
+},
+{
+"pregunta": "¿Qué significa socks?",
+"opciones": [
+"Zapatos",
+"Calcetines",
+"Gorra"
+],
+"correcta": 1,
+"porque": "Socks son calcetines."
+},
+{
+"pregunta": "¿Cómo dices «traigo unos zapatos negros»?",
+"opciones": [
+"I am wearing black shoes",
+"I am wearing shoes black",
+"I am wear black shoes"
+],
+"correcta": 0,
+"porque": "Primero va el color y luego la prenda."
+},
+{
+"pregunta": "¿Cuál palabra siempre va en plural?",
+"opciones": [
+"cap",
+"pants",
+"dress"
+],
+"correcta": 1,
+"porque": "Pants va en plural aunque sea un solo pantalón."
+},
+{
+"pregunta": "¿Qué significa I am wearing a jacket?",
+"opciones": [
+"Traigo una chamarra",
+"Compré una chamarra",
+"Quiero una chamarra"
+],
+"correcta": 0,
+"porque": "I am wearing significa traigo puesto."
+}
+],
+"there-is-y-there-are-para-principiantes-primaria": [
+{
+"pregunta": "Completa: There ___ a cat.",
+"opciones": [
+"is",
+"are",
+"am"
+],
+"correcta": 0,
+"porque": "Con uno se usa there is."
+},
+{
+"pregunta": "Completa: There ___ four apples.",
+"opciones": [
+"are",
+"is",
+"am"
+],
+"correcta": 0,
+"porque": "Con varios se usa there are."
+},
+{
+"pregunta": "¿Cómo dices «Hay tres libros»? Libro es book.",
+"opciones": [
+"There are three books",
+"There are three book",
+"There is three books"
+],
+"correcta": 0,
+"porque": "Con tres se usa there are y books lleva s."
+},
+{
+"pregunta": "¿Cómo preguntas «¿Hay una mesa?» Mesa es table.",
+"opciones": [
+"There is a table?",
+"Are there a table?",
+"Is there a table?"
+],
+"correcta": 2,
+"porque": "Para preguntar, is pasa al frente."
+},
+{
+"pregunta": "En tu salón no hay un perro. ¿Cómo lo dices? Perro es dog.",
+"opciones": [
+"There aren't a dog",
+"There no is a dog",
+"There isn't a dog"
+],
+"correcta": 2,
+"porque": "Para negar uno se usa there isn't."
+}
+],
+"was-y-were-el-pasado-de-to-be-primaria": [
+{
+"pregunta": "Completa: I ___ happy yesterday.",
+"opciones": [
+"were",
+"am",
+"was"
+],
+"correcta": 2,
+"porque": "Con I en pasado se usa was."
+},
+{
+"pregunta": "Completa: We ___ at school yesterday.",
+"opciones": [
+"are",
+"were",
+"was"
+],
+"correcta": 1,
+"porque": "Con varios en pasado se usa were."
+},
+{
+"pregunta": "Completa: He ___ sad yesterday.",
+"opciones": [
+"were",
+"is",
+"was"
+],
+"correcta": 2,
+"porque": "Con he en pasado se usa was."
+},
+{
+"pregunta": "Completa: You ___ tired yesterday.",
+"opciones": [
+"was",
+"are",
+"were"
+],
+"correcta": 2,
+"porque": "Con you siempre va were en pasado."
+},
+{
+"pregunta": "¿Qué significa She was happy?",
+"opciones": [
+"Ella estará feliz",
+"Ella está feliz",
+"Ella estaba feliz"
+],
+"correcta": 2,
+"porque": "Was habla del pasado: estaba."
+}
+],
+"adjetivos-para-describir-primaria": [
+{
+"pregunta": "¿Cómo dices «un gato pequeño»? Gato es cat.",
+"opciones": [
+"a cat small",
+"a small cat",
+"a smalls cat"
+],
+"correcta": 1,
+"porque": "El adjetivo va antes de la cosa."
+},
+{
+"pregunta": "¿Cuál es el opuesto de happy?",
+"opciones": [
+"sad",
+"fast",
+"old"
+],
+"correcta": 0,
+"porque": "Happy es feliz y sad es triste."
+},
+{
+"pregunta": "Corrige: three talls boys.",
+"opciones": [
+"three tall boys",
+"three talls boys",
+"three tall boyses"
+],
+"correcta": 0,
+"porque": "El adjetivo no lleva s."
+},
+{
+"pregunta": "Ordena: is / old / car / the.",
+"opciones": [
+"Old the car is",
+"The car is old",
+"Car old is the"
+],
+"correcta": 1,
+"porque": "Primero la cosa, luego is y al final el adjetivo."
+},
+{
+"pregunta": "¿Qué significa slow?",
+"opciones": [
+"Rápido",
+"Viejo",
+"Lento"
+],
+"correcta": 2,
+"porque": "Slow es lento y fast es rápido."
+}
+],
+"comparar-con-er-y-than-primaria": [
+{
+"pregunta": "¿Cómo dices «Un perro es más grande que un gato»?",
+"opciones": [
+"A dog is biger than a cat",
+"A dog is bigger than a cat",
+"A dog is bigger a cat"
+],
+"correcta": 1,
+"porque": "Big repite la g, lleva er y después va than."
+},
+{
+"pregunta": "¿Cuál es comparativo de small?",
+"opciones": [
+"smaller",
+"more small",
+"smallest"
+],
+"correcta": 0,
+"porque": "Se agrega er a small."
+},
+{
+"pregunta": "Completa: I am taller ___ you.",
+"opciones": [
+"that",
+"than",
+"then"
+],
+"correcta": 1,
+"porque": "Than significa que."
+},
+{
+"pregunta": "¿Cómo se dice «más bonito»? Beautiful es una palabra larga.",
+"opciones": [
+"beautiful than more",
+"more beautiful",
+"beautifuler"
+],
+"correcta": 1,
+"porque": "Las palabras largas usan more."
+},
+{
+"pregunta": "Luis mide más que Ana. ¿Cuál es correcta?",
+"opciones": [
+"Ana is taller than Luis",
+"Luis is tall than Ana",
+"Luis is taller than Ana"
+],
+"correcta": 2,
+"porque": "Se agrega er a tall y se usa than."
+}
+]
+}

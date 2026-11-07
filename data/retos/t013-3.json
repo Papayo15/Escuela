@@ -1,0 +1,522 @@
+{
+"guerra-de-los-pasteles-primaria": [
+{
+"pregunta": "¿Por qué se llama Guerra de los Pasteles?",
+"opciones": [
+"Porque los franceses vendían pasteles",
+"Un pastelero francés reclamó daños",
+"Porque se peleó por un pastel en una fiesta"
+],
+"correcta": 1,
+"porque": "Un pastelero y otros comerciantes franceses hicieron reclamos."
+},
+{
+"pregunta": "¿Qué fue la Guerra de los Pasteles?",
+"opciones": [
+"Una pelea entre dos pueblos de Oaxaca",
+"La segunda guerra contra Estados Unidos",
+"La primera intervención francesa"
+],
+"correcta": 2,
+"porque": "Francia atacó a México entre 1838 y 1839."
+},
+{
+"pregunta": "¿Qué fortaleza atacaron los franceses?",
+"opciones": [
+"San Juan de Ulúa",
+"El Castillo de Chapultepec",
+"El Palacio Nacional de Puebla"
+],
+"correcta": 0,
+"porque": "Atacaron San Juan de Ulúa, en Veracruz."
+},
+{
+"pregunta": "¿Cuánto debía pagar México al final?",
+"opciones": [
+"Todo el territorio del norte",
+"Un solo peso",
+"600 mil pesos"
+],
+"correcta": 2,
+"porque": "México aceptó pagar 600 mil pesos para terminar el conflicto."
+},
+{
+"pregunta": "¿Qué puerto bloquearon los barcos franceses para presionar a México?",
+"opciones": [
+"Acapulco",
+"Veracruz",
+"Ensenada"
+],
+"correcta": 1,
+"porque": "Francia bloqueó el puerto de Veracruz."
+}
+],
+"guerra-de-reforma-primaria": [
+{
+"pregunta": "¿Quiénes pelearon en la Guerra de Reforma?",
+"opciones": [
+"Mexicanos contra estadounidenses",
+"Liberales y conservadores",
+"Franceses contra españoles"
+],
+"correcta": 1,
+"porque": "Fue una guerra entre dos grupos de mexicanos."
+},
+{
+"pregunta": "¿Qué defendían los liberales?",
+"opciones": [
+"La Constitución de 1857",
+"El orden de antes sin cambios",
+"Un imperio con un rey europeo"
+],
+"correcta": 0,
+"porque": "Juárez y los liberales defendían esa Constitución."
+},
+{
+"pregunta": "¿Dónde ganaron los liberales en 1861?",
+"opciones": [
+"En Puebla, el 5 de mayo",
+"En Calpulalpan",
+"En Zacatecas, contra Huerta"
+],
+"correcta": 1,
+"porque": "Con esa batalla ganaron la guerra."
+},
+{
+"pregunta": "¿Cuántos gobiernos hubo al mismo tiempo?",
+"opciones": [
+"Dos",
+"Cuatro",
+"Uno"
+],
+"correcta": 0,
+"porque": "Hubo dos gobiernos al mismo tiempo, el liberal y el conservador."
+},
+{
+"pregunta": "Al final de la guerra, ¿cómo estaba el país?",
+"opciones": [
+"Sin deudas",
+"Sin dinero",
+"Muy rico"
+],
+"correcta": 1,
+"porque": "El país estaba en bancarrota."
+}
+],
+"huelgas-de-cananea-y-rio-blanco-primaria": [
+{
+"pregunta": "¿Qué hicieron los trabajadores en una huelga?",
+"opciones": [
+"Dejaron de trabajar",
+"Trabajaron más horas sin descanso",
+"Quemaron todas las fábricas del pueblo"
+],
+"correcta": 0,
+"porque": "Pararon para pedir mejoras."
+},
+{
+"pregunta": "¿Quiénes eran los de Cananea?",
+"opciones": [
+"Maestros",
+"Mineros",
+"Pescadores"
+],
+"correcta": 1,
+"porque": "Cananea fue una huelga de mineros de Sonora."
+},
+{
+"pregunta": "¿Qué jornada pedían los mineros de Cananea?",
+"opciones": [
+"De cuatro días seguidos sin comer",
+"De ocho horas",
+"De veinte horas diarias"
+],
+"correcta": 1,
+"porque": "Querían trabajar menos horas."
+},
+{
+"pregunta": "¿Qué industria tenía Río Blanco?",
+"opciones": [
+"La minera",
+"La pesquera",
+"La textil"
+],
+"correcta": 2,
+"porque": "En Río Blanco protestaron obreros textiles."
+},
+{
+"pregunta": "En tu salón, ¿qué se parece a pedir mejoras con calma?",
+"opciones": [
+"Hacer una petición en grupo",
+"Romper las cosas del salón",
+"Esconderse para no hablar"
+],
+"correcta": 0,
+"porque": "Los trabajadores pedían cambios porque había injusticias."
+}
+],
+"independencia-revolucion-movimientos-sociales-primaria": [
+{
+"pregunta": "¿De qué se separó México en 1821?",
+"opciones": [
+"De España",
+"De Francia",
+"De Estados Unidos"
+],
+"correcta": 0,
+"porque": "La Independencia terminó con el dominio español."
+},
+{
+"pregunta": "¿Contra quién fue la Revolución de 1910?",
+"opciones": [
+"Contra el virrey de España",
+"Contra el ejército francés",
+"Contra Porfirio Díaz"
+],
+"correcta": 2,
+"porque": "La Revolución inició por el gobierno de Díaz."
+},
+{
+"pregunta": "¿Qué llamado hizo Miguel Hidalgo?",
+"opciones": [
+"Levantarse contra el gobierno español",
+"Escribir la Constitución de 1917",
+"Votar en las elecciones del INE"
+],
+"correcta": 0,
+"porque": "Su llamado empezó la lucha por la Independencia."
+},
+{
+"pregunta": "¿Qué querían las dos luchas en general?",
+"opciones": [
+"Más impuestos y menos derechos",
+"Un rey nuevo y más poder",
+"Libertad y justicia"
+],
+"correcta": 2,
+"porque": "Mucha gente luchó por vivir con libertad y justicia."
+},
+{
+"pregunta": "Haces una línea del tiempo. ¿Qué año va primero?",
+"opciones": [
+"1917",
+"1810",
+"1910"
+],
+"correcta": 1,
+"porque": "1810 fue antes que 1910 y 1917."
+}
+],
+"intervencion-francesa-y-batalla-de-puebla-primaria": [
+{
+"pregunta": "¿Qué se recuerda el 5 de mayo?",
+"opciones": [
+"La victoria en Puebla",
+"La Constitución de 1917",
+"El inicio de la Independencia"
+],
+"correcta": 0,
+"porque": "En 1862 México venció a los franceses en Puebla."
+},
+{
+"pregunta": "¿Qué país invadió México en 1862?",
+"opciones": [
+"España",
+"Estados Unidos",
+"Francia"
+],
+"correcta": 2,
+"porque": "La intervención francesa fue una invasión de Francia."
+},
+{
+"pregunta": "¿Qué hecho de 1863 siguió a la victoria de Puebla?",
+"opciones": [
+"Francia tomó la capital",
+"Francia pidió perdón y se fue",
+"México firmó un tratado de paz con Francia"
+],
+"correcta": 0,
+"porque": "Los franceses volvieron con más tropas."
+},
+{
+"pregunta": "¿Qué querían conseguir los franceses?",
+"opciones": [
+"Un tratado de paz sin territorio",
+"Una escuela más grande",
+"Un imperio en América"
+],
+"correcta": 2,
+"porque": "Napoleón III quería un imperio."
+},
+{
+"pregunta": "Tu equipo gana un partido, pero luego pierde otro. ¿Qué pasó con México después de Puebla?",
+"opciones": [
+"Francia se fue para siempre",
+"México ganó todas las batallas",
+"Francia volvió y tomó la capital"
+],
+"correcta": 2,
+"porque": "Ganar una batalla no fue ganar la guerra."
+}
+],
+"jose-maria-morelos-y-los-sentimientos-de-la-nacion-primaria": [
+{
+"pregunta": "¿Qué fue José María Morelos antes de luchar?",
+"opciones": [
+"Un presidente",
+"Un pastelero",
+"Un cura"
+],
+"correcta": 2,
+"porque": "Morelos era un cura antes de continuar la Independencia."
+},
+{
+"pregunta": "¿Qué idea tenían los Sentimientos de la Nación?",
+"opciones": [
+"Que unos nacen con más derechos",
+"Que el rey manda para siempre",
+"Que el pueblo es soberano"
+],
+"correcta": 2,
+"porque": "Decían que la soberanía viene del pueblo."
+},
+{
+"pregunta": "¿Qué querían terminar los Sentimientos de la Nación?",
+"opciones": [
+"Los mercados",
+"Las escuelas del pueblo",
+"La esclavitud"
+],
+"correcta": 2,
+"porque": "Morelos pedía acabar con la esclavitud."
+},
+{
+"pregunta": "¿Cuál fue su idea para todas las personas?",
+"opciones": [
+"Mandar sin consultar",
+"Igualdad para todos",
+"Derechos para pocos"
+],
+"correcta": 1,
+"porque": "Los Sentimientos de la Nación pedían igualdad."
+},
+{
+"pregunta": "En tu salón, ¿qué idea de Morelos aplicas si todos opinan por igual?",
+"opciones": [
+"Esclavitud",
+"Igualdad",
+"Que mande solo uno"
+],
+"correcta": 1,
+"porque": "Todos valen lo mismo y pueden opinar."
+}
+],
+"lazaro-cardenas-y-la-expropiacion-petrolera-primaria": [
+{
+"pregunta": "¿Qué pasó el 18 de marzo de 1938?",
+"opciones": [
+"Se dio el Grito de Dolores",
+"Se firmó la Constitución de 1857",
+"Se expropió el petróleo"
+],
+"correcta": 2,
+"porque": "Cárdenas nacionalizó el petróleo ese día."
+},
+{
+"pregunta": "¿Por qué expropió el petróleo?",
+"opciones": [
+"Porque quería regalarlo a otro país",
+"Las compañías no obedecieron a la Corte",
+"Porque no había petróleo en México"
+],
+"correcta": 1,
+"porque": "Habían desobedecido a la Suprema Corte."
+},
+{
+"pregunta": "¿Qué recibió Cárdenas en México en esos años?",
+"opciones": [
+"A exiliados españoles",
+"A los reyes de Francia",
+"A ninguna persona de otros países"
+],
+"correcta": 0,
+"porque": "Cárdenas dio refugio a personas que huían de España."
+},
+{
+"pregunta": "¿De cuándo a cuándo gobernó Cárdenas?",
+"opciones": [
+"De 1876 a 1911",
+"De 1858 a 1861",
+"De 1934 a 1940"
+],
+"correcta": 2,
+"porque": "Gobernó seis años, de 1934 a 1940."
+},
+{
+"pregunta": "Quieres saber más de 1938. ¿A quién le preguntas?",
+"opciones": [
+"A un compañero que no sepa",
+"A un adulto de tu familia",
+"A nadie, porque no se puede"
+],
+"correcta": 1,
+"porque": "Preguntar en casa te ayuda a investigar."
+}
+],
+"lucha-derechos-humanos-dignidad-primaria": [
+{
+"pregunta": "¿Quién abolió la esclavitud en 1829?",
+"opciones": [
+"Francisco Madero",
+"Benito Juárez",
+"Vicente Guerrero"
+],
+"correcta": 2,
+"porque": "Guerrero abolió la esclavitud en México."
+},
+{
+"pregunta": "Dos compañeros son distintos, pero ¿quién tiene dignidad?",
+"opciones": [
+"Solo el que tiene más cosas que otros",
+"Solo el que gana en los juegos",
+"Los dos por igual"
+],
+"correcta": 2,
+"porque": "La dignidad es de toda persona por ser persona."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de discriminación?",
+"opciones": [
+"Ayudar a cargar una mochila pesada a un amigo",
+"Compartir tu lonche con otro alumno nuevo",
+"No dejar jugar a alguien por cómo habla"
+],
+"correcta": 2,
+"porque": "Excluir a alguien por una característica suya es discriminar."
+},
+{
+"pregunta": "Un niño habla otra lengua en el recreo. ¿Qué haces?",
+"opciones": [
+"Lo invito a jugar",
+"Me burlo de cómo habla",
+"Le digo que se vaya lejos"
+],
+"correcta": 0,
+"porque": "Invitar respeta su dignidad."
+},
+{
+"pregunta": "¿Quién puede luchar por los derechos?",
+"opciones": [
+"Solo los presidentes",
+"Cualquier persona",
+"Solo los adultos mayores"
+],
+"correcta": 1,
+"porque": "Todas las personas pueden defender derechos."
+}
+],
+"maximato-primaria": [
+{
+"pregunta": "¿Qué presidente fue parte del Maximato?",
+"opciones": [
+"Pascual Ortiz Rubio",
+"Benito Juárez, de la Reforma",
+"Francisco Madero, de 1911"
+],
+"correcta": 0,
+"porque": "Ortiz Rubio gobernó mientras Calles mandaba."
+},
+{
+"pregunta": "¿Qué periodo cubre el Maximato?",
+"opciones": [
+"De 1846 a 1848",
+"De 1928 a 1934",
+"De 1858 a 1861"
+],
+"correcta": 1,
+"porque": "Fue una etapa de seis años."
+},
+{
+"pregunta": "¿Qué hizo Cárdenas con Calles en 1936?",
+"opciones": [
+"Le dio las llaves de Pemex",
+"Lo nombró presidente de nuevo",
+"Lo expulsó del país"
+],
+"correcta": 2,
+"porque": "Así terminó el poder del Jefe Máximo."
+},
+{
+"pregunta": "Un niño no es jefe del equipo, pero todos lo obedecen. ¿Qué se parece?",
+"opciones": [
+"Maximato",
+"Democracia",
+"Igualdad"
+],
+"correcta": 0,
+"porque": "Mandaba alguien que no era presidente."
+},
+{
+"pregunta": "¿Qué significa jefe máximo?",
+"opciones": [
+"Quien siempre obedece",
+"Quien manda más",
+"Quien trabaja menos"
+],
+"correcta": 1,
+"porque": "Era el líder más poderoso detrás del gobierno."
+}
+],
+"megadiversidad-mexico-culturas-primaria": [
+{
+"pregunta": "¿Qué significa megadiversidad?",
+"opciones": [
+"Muy pocos animales y plantas",
+"Un solo ecosistema en todo el país",
+"Mucha variedad de especies"
+],
+"correcta": 2,
+"porque": "México tiene muchas especies y ecosistemas."
+},
+{
+"pregunta": "¿Qué planta nació en México?",
+"opciones": [
+"El trigo",
+"El maíz",
+"El arroz"
+],
+"correcta": 1,
+"porque": "El maíz nació aquí y se conecta con muchos pueblos."
+},
+{
+"pregunta": "¿Qué tiene México además de muchas especies?",
+"opciones": [
+"Nada de tradiciones",
+"Una sola lengua",
+"Muchas culturas"
+],
+"correcta": 2,
+"porque": "También tiene muchos pueblos y formas de vivir."
+},
+{
+"pregunta": "Tu amigo respeta otras formas de cuidar la naturaleza. ¿Qué hace?",
+"opciones": [
+"Se burla de ellas",
+"Las prohíbe sin saber",
+"Escucha y aprende"
+],
+"correcta": 2,
+"porque": "Respetar ayuda a convivir y cuidar la naturaleza."
+},
+{
+"pregunta": "Para conocer plantas de tu estado, ¿qué haces?",
+"opciones": [
+"Pongo plástico en el patio",
+"Busco una planta típica",
+"Arranco plantas del jardín vecino"
+],
+"correcta": 1,
+"porque": "Investigar permite conocer la naturaleza local."
+}
+]
+}

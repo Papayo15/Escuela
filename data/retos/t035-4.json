@@ -1,0 +1,522 @@
+{
+"ciudadania-devenir-preparatoria": [
+{
+"pregunta": "¿Quiénes eran ciudadanos en la antigua Grecia?",
+"opciones": [
+"Mujeres y esclavos",
+"Todas las personas",
+"Algunos varones libres"
+],
+"correcta": 2,
+"porque": "En Grecia solo algunos varones libres eran ciudadanos."
+},
+{
+"pregunta": "¿En qué año ganaron las mujeres el voto en México?",
+"opciones": [
+"En 1955",
+"En 1855",
+"En 1953"
+],
+"correcta": 2,
+"porque": "Las mujeres ganaron el voto en 1953 y votaron por primera vez en 1955."
+},
+{
+"pregunta": "¿Qué significa ser ciudadano?",
+"opciones": [
+"Tener solo deberes",
+"Tener solo derechos",
+"Tener derechos y deberes"
+],
+"correcta": 2,
+"porque": "La ciudadanía es pertenecer a una comunidad con derechos y deberes."
+},
+{
+"pregunta": "¿Qué pasó en el siglo XVIII?",
+"opciones": [
+"Se terminó la ciudadanía",
+"Se prohibió votar a todos",
+"Hubo revoluciones por derechos"
+],
+"correcta": 2,
+"porque": "En ese siglo hubo revoluciones para pedir derechos."
+},
+{
+"pregunta": "Hoy, ¿qué busca la ciudadanía?",
+"opciones": [
+"Dar derechos solo a hombres",
+"Dejar fuera a algunos",
+"Incluir a todos"
+],
+"correcta": 2,
+"porque": "Hoy se busca incluir a todas las personas, sin discriminar."
+}
+],
+"diversidad-democracia-preparatoria": [
+{
+"pregunta": "¿Cuál es un ejemplo de diversidad?",
+"opciones": [
+"Hablar lenguas distintas",
+"Vestir todos el mismo color",
+"Pensar todos exactamente igual"
+],
+"correcta": 0,
+"porque": "La diversidad son diferencias de cultura, lengua u opinión."
+},
+{
+"pregunta": "En una democracia, ¿cuántos votos tiene cada persona?",
+"opciones": [
+"Tres votos",
+"Un voto",
+"Dos votos"
+],
+"correcta": 1,
+"porque": "En un salón con muchas ideas, hay un solo voto por persona."
+},
+{
+"pregunta": "Eligen una película en familia. ¿Qué muestra esto?",
+"opciones": [
+"Se prohíbe opinar a los chicos",
+"Siempre gana quien más grita",
+"Alguien gana y nadie queda fuera"
+],
+"correcta": 2,
+"porque": "Decide la mayoría, pero se respeta a todos."
+},
+{
+"pregunta": "¿Qué hace falta para poder debatir?",
+"opciones": [
+"Silencio total",
+"Una sola idea",
+"Ideas diferentes"
+],
+"correcta": 2,
+"porque": "Sin ideas diferentes no hay debate."
+},
+{
+"pregunta": "En tu grupo quieren que todos opinen. ¿Qué regla ayuda?",
+"opciones": [
+"Opinar solo los más grandes",
+"Hablar solo el más fuerte",
+"Dar turno a cada persona"
+],
+"correcta": 2,
+"porque": "Si cada persona tiene su turno, todos pueden opinar."
+}
+],
+"division-de-poderes-prepa": [
+{
+"pregunta": "¿En cuántos poderes se reparte el poder del Estado?",
+"opciones": [
+"En cuatro poderes",
+"En tres poderes",
+"En dos poderes"
+],
+"correcta": 1,
+"porque": "Se reparte en Ejecutivo, Legislativo y Judicial."
+},
+{
+"pregunta": "Si un poder hiciera las reglas, jugara y arbitrara a la vez, ¿qué pasaría?",
+"opciones": [
+"Nada cambiaría",
+"Podría abusar",
+"Habría más justicia"
+],
+"correcta": 1,
+"porque": "Por eso se divide el poder: para evitar abusos."
+},
+{
+"pregunta": "¿Qué son los pesos y contrapesos?",
+"opciones": [
+"Cada poder vigila a los otros",
+"Un poder manda a los otros",
+"Los poderes no se conocen"
+],
+"correcta": 0,
+"porque": "Con ellos ningún poder puede hacer todo solo."
+},
+{
+"pregunta": "¿Cómo se llama la obra de Montesquieu sobre este tema?",
+"opciones": [
+"*El contrato social*",
+"*Los tres mosqueteros*",
+"*El espíritu de las leyes*"
+],
+"correcta": 2,
+"porque": "Montesquieu propuso la división de poderes en *El espíritu de las leyes*."
+},
+{
+"pregunta": "La Corte anula una ley. ¿Qué es eso?",
+"opciones": [
+"Un permiso",
+"Un contrapeso",
+"Un abuso"
+],
+"correcta": 1,
+"porque": "Si un poder frena a otro, es un contrapeso."
+}
+],
+"estado-concepto-preparatoria": [
+{
+"pregunta": "¿Qué elemento del Estado es la gente que vive ahí?",
+"opciones": [
+"El territorio",
+"La población",
+"El gobierno"
+],
+"correcta": 1,
+"porque": "La población son las personas que forman el Estado."
+},
+{
+"pregunta": "¿Cuál es un caso de soberanía?",
+"opciones": [
+"Un país obedece leyes ajenas",
+"Un país hace sus propias leyes",
+"Un país no tiene territorio"
+],
+"correcta": 1,
+"porque": "Soberanía es decidir sin depender de otro país."
+},
+{
+"pregunta": "En un equipo de futbol, ¿a quién se parece el gobierno?",
+"opciones": [
+"Al equipo",
+"A la cancha",
+"Al entrenador"
+],
+"correcta": 2,
+"porque": "El entrenador cambia, igual que el gobierno, pero el equipo sigue."
+},
+{
+"pregunta": "Llega un nuevo gobierno. ¿Qué sigue igual?",
+"opciones": [
+"El territorio desaparece",
+"El Estado",
+"Todo cambia"
+],
+"correcta": 1,
+"porque": "El gobierno cambia y el Estado sigue."
+},
+{
+"pregunta": "¿Qué elemento del Estado son quienes dirigen?",
+"opciones": [
+"La población",
+"La soberanía",
+"El gobierno"
+],
+"correcta": 2,
+"porque": "El gobierno son quienes dirigen el Estado."
+}
+],
+"estado-nacion-y-gobierno-prepa": [
+{
+"pregunta": "En la casa del ejemplo, ¿qué es la nación?",
+"opciones": [
+"La familia",
+"La casa",
+"Quien administra"
+],
+"correcta": 0,
+"porque": "La nación es un pueblo con historia y cultura común, como una familia."
+},
+{
+"pregunta": "¿Quiénes administran el Estado?",
+"opciones": [
+"El gobierno",
+"La nación",
+"La soberanía"
+],
+"correcta": 0,
+"porque": "El gobierno son quienes administran el Estado."
+},
+{
+"pregunta": "¿Qué une a una nación?",
+"opciones": [
+"Un solo presidente",
+"Cultura e historia",
+"Un solo mapa"
+],
+"correcta": 1,
+"porque": "Una nación es un pueblo con historia y cultura común."
+},
+{
+"pregunta": "¿Cuál es un elemento del Estado?",
+"opciones": [
+"La moneda",
+"El mercado",
+"La soberanía"
+],
+"correcta": 2,
+"porque": "La soberanía es uno de los cuatro elementos del Estado."
+},
+{
+"pregunta": "¿Qué dura más tiempo?",
+"opciones": [
+"Un periodo",
+"El Estado",
+"El gobierno"
+],
+"correcta": 1,
+"porque": "Un gobierno cambia, pero el Estado permanece."
+}
+],
+"formas-de-gobierno-prepa": [
+{
+"pregunta": "En una república, ¿cómo llegan los gobernantes?",
+"opciones": [
+"Son elegidos",
+"Toman el poder por la fuerza",
+"Heredan el cargo"
+],
+"correcta": 0,
+"porque": "En una república los gobernantes son elegidos."
+},
+{
+"pregunta": "En una monarquía, ¿quién gobierna?",
+"opciones": [
+"Un grupo elegido",
+"Todo el pueblo",
+"Un rey o una reina"
+],
+"correcta": 2,
+"porque": "La monarquía es el gobierno de un rey o una reina."
+},
+{
+"pregunta": "¿Qué indican las palabras federal y centralista?",
+"opciones": [
+"Quién hereda la corona",
+"Cómo se reparte el poder",
+"Cuánto dura el gobierno"
+],
+"correcta": 1,
+"porque": "Hablan de cómo se reparte el poder en un país."
+},
+{
+"pregunta": "En tu salón eligen jefe de grupo con votos. ¿A qué se parece?",
+"opciones": [
+"A una república",
+"A una dictadura",
+"A una monarquía"
+],
+"correcta": 0,
+"porque": "En una república los gobernantes son elegidos."
+},
+{
+"pregunta": "¿Qué forma de gobierno no tiene elecciones libres?",
+"opciones": [
+"La dictadura",
+"La república",
+"La democracia"
+],
+"correcta": 0,
+"porque": "En una dictadura no hay elecciones libres."
+}
+],
+"normas-sociales-preparatoria": [
+{
+"pregunta": "Clasifica: ceder el asiento a una persona mayor.",
+"opciones": [
+"Norma social",
+"Norma jurídica",
+"Norma religiosa"
+],
+"correcta": 0,
+"porque": "Es una costumbre y su sanción es el rechazo del grupo."
+},
+{
+"pregunta": "¿Qué sanción puede tener una norma jurídica?",
+"opciones": [
+"Una multa",
+"El rechazo del grupo",
+"La culpa"
+],
+"correcta": 0,
+"porque": "Las leyes tienen sanción legal, como una multa."
+},
+{
+"pregunta": "¿Cuál es la sanción de una norma moral?",
+"opciones": [
+"Una multa",
+"El rechazo del grupo",
+"La culpa"
+],
+"correcta": 2,
+"porque": "La moral se basa en la conciencia, y su sanción es la culpa."
+},
+{
+"pregunta": "¿Cómo es el cumplimiento de las normas religiosas?",
+"opciones": [
+"Con una multa",
+"Voluntario",
+"Obligatorio por ley"
+],
+"correcta": 1,
+"porque": "Las normas religiosas vienen de creencias y se cumplen voluntariamente."
+},
+{
+"pregunta": "¿Para qué sirven las normas sociales?",
+"opciones": [
+"Evitar que se hable",
+"Crear más problemas",
+"Dar orden y convivencia"
+],
+"correcta": 2,
+"porque": "Las normas dan orden, previsibilidad y convivencia."
+}
+],
+"antropologia-que-estudia-prepa": [
+{
+"pregunta": "Una antropóloga vive un mes con una comunidad. ¿Qué método usa?",
+"opciones": [
+"Arqueología",
+"Lingüística",
+"Etnografía"
+],
+"correcta": 2,
+"porque": "Vivir con la comunidad se llama etnografía."
+},
+{
+"pregunta": "¿Qué libro escribió Guillermo Bonfil Batalla?",
+"opciones": [
+"*México profundo*",
+"*El laberinto*",
+"*Pedro Páramo*"
+],
+"correcta": 0,
+"porque": "Bonfil Batalla es un autor mexicano que escribió *México profundo*."
+},
+{
+"pregunta": "¿Quién fue Guillermo Bonfil Batalla?",
+"opciones": [
+"Un antropólogo mexicano",
+"Un presidente de México",
+"Un rey de Grecia"
+],
+"correcta": 0,
+"porque": "Es un autor mexicano de antropología que escribió *México profundo*."
+},
+{
+"pregunta": "Quieres conocer cómo celebra sus fiestas cada pueblo. ¿Qué ciencia te sirve?",
+"opciones": [
+"La química",
+"La geometría",
+"La antropología"
+],
+"correcta": 2,
+"porque": "La antropología estudia al ser humano y sus culturas."
+},
+{
+"pregunta": "¿Qué rama de la antropología estudia las costumbres de un pueblo?",
+"opciones": [
+"La física",
+"La lingüística",
+"La cultural"
+],
+"correcta": 2,
+"porque": "La antropología cultural estudia cómo vive cada pueblo."
+}
+],
+"derecho-que-estudia-prepa": [
+{
+"pregunta": "¿Qué rama del derecho trata de la Constitución?",
+"opciones": [
+"La constitucional",
+"La mercantil",
+"La laboral"
+],
+"correcta": 0,
+"porque": "La rama constitucional es la que trata de la Constitución."
+},
+{
+"pregunta": "¿Qué hace una persona que estudia derecho?",
+"opciones": [
+"Cura enfermos con medicinas",
+"Defiende, juzga o asesora",
+"Construye casas y puentes"
+],
+"correcta": 1,
+"porque": "Quien estudia derecho defiende, juzga o asesora."
+},
+{
+"pregunta": "¿Qué es el derecho?",
+"opciones": [
+"Un juego de mesa",
+"Una lista de precios",
+"Normas para convivir"
+],
+"correcta": 2,
+"porque": "El derecho es el conjunto de normas que regulan la vida en sociedad."
+},
+{
+"pregunta": "Una regla de tu escuela dice cuándo entrar. ¿Cómo es una norma?",
+"opciones": [
+"Un consejo opcional",
+"Un juego libre",
+"Una regla obligatoria"
+],
+"correcta": 2,
+"porque": "Una norma es una regla obligatoria."
+},
+{
+"pregunta": "En el ejemplo, ¿con qué se compara el derecho?",
+"opciones": [
+"Con un trofeo",
+"Con las reglas del juego",
+"Con un balón"
+],
+"correcta": 1,
+"porque": "El derecho son las reglas del juego de toda una sociedad."
+}
+],
+"dinero-bancos-y-credito-prepa": [
+{
+"pregunta": "Un préstamo de 500 pesos al $10\\%$ por 2 años. ¿Cuánto es el interés?",
+"opciones": [
+"50 pesos",
+"100 pesos",
+"1000 pesos"
+],
+"correcta": 1,
+"porque": "$I = 500 \\times 0.10 \\times 2 = 100$."
+},
+{
+"pregunta": "Un préstamo de 800 pesos al $10\\%$ por 1 año. ¿Cuánto es el interés?",
+"opciones": [
+"80 pesos",
+"8 pesos",
+"800 pesos"
+],
+"correcta": 0,
+"porque": "$I = 800 \\times 0.10 \\times 1 = 80$."
+},
+{
+"pregunta": "Al devolver la bicicleta, das algo extra. ¿Cómo se llama?",
+"opciones": [
+"El interés",
+"El ahorro",
+"El banco"
+],
+"correcta": 0,
+"porque": "Ese extra por usar lo prestado es el interés."
+},
+{
+"pregunta": "Quieres pedir un crédito. ¿Qué conviene hacer?",
+"opciones": [
+"Pedir solo lo que puedas pagar",
+"Pagar siempre tarde",
+"Pedir lo más posible"
+],
+"correcta": 0,
+"porque": "No pidas más de lo que puedas pagar, y paga a tiempo."
+},
+{
+"pregunta": "¿Qué es el dinero?",
+"opciones": [
+"Un préstamo con interés",
+"Un medio de pago",
+"Un lugar que presta"
+],
+"correcta": 1,
+"porque": "El dinero sirve como medio de pago."
+}
+]
+}

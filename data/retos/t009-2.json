@@ -1,0 +1,522 @@
+{
+"entendimiento-mutuo-escuela-primaria-3-4": [
+{
+"pregunta": "¿Qué es el entendimiento mutuo?",
+"opciones": [
+"Escucharse y comprenderse aunque piensen distinto",
+"Que todos piensen exactamente igual",
+"Que gane siempre el más fuerte"
+],
+"correcta": 0,
+"porque": "Es escucharse y comprenderse, aunque se piense distinto."
+},
+{
+"pregunta": "Tu compañero habla y tú quieres opinar. ¿Qué haces primero?",
+"opciones": [
+"Lo interrumpo para ganar la idea",
+"Lo escucho sin interrumpir",
+"Me tapo los oídos y miro a otro lado"
+],
+"correcta": 1,
+"porque": "Escuchar sin interrumpir es el primer paso para entenderse."
+},
+{
+"pregunta": "¿Qué es la empatía?",
+"opciones": [
+"Imaginar lo que siente otra persona",
+"Reírte cuando alguien se cae",
+"Querer siempre tener la razón"
+],
+"correcta": 0,
+"porque": "La empatía es ponerte en el lugar de otra persona."
+},
+{
+"pregunta": "Dos niños quieren la misma tableta al mismo tiempo. ¿Qué ayuda más?",
+"opciones": [
+"Hablar con respeto y llegar a un acuerdo",
+"Quitársela al más pequeño y salir corriendo",
+"Gritar hasta que alguno se rinda"
+],
+"correcta": 0,
+"porque": "El diálogo con respeto lleva a acuerdos que sirven a todos."
+},
+{
+"pregunta": "Un compañero no entendió tus palabras. ¿Qué haces?",
+"opciones": [
+"Dejo de hablarle toda la semana",
+"Se lo explico con calma",
+"Me enojo y levanto la voz"
+],
+"correcta": 1,
+"porque": "Explicar con calma ayuda a que se entiendan."
+}
+],
+"equidad-de-genero-primaria": [
+{
+"pregunta": "¿Qué es la equidad de género?",
+"opciones": [
+"Que niñas y niños tengan las mismas oportunidades",
+"Que solo los niños elijan los juegos",
+"Que todos hagan exactamente lo mismo siempre"
+],
+"correcta": 0,
+"porque": "La equidad busca las mismas oportunidades para niñas y niños."
+},
+{
+"pregunta": "¿Qué es un estereotipo?",
+"opciones": [
+"Un juego de mesa muy viejo",
+"Una regla de gramática",
+"Una idea fija sobre cómo debe ser alguien"
+],
+"correcta": 2,
+"porque": "Los estereotipos limitan las opciones de las personas."
+},
+{
+"pregunta": "Escuchas \"bailar es de niñas\". ¿Qué respondes?",
+"opciones": [
+"Mejor no digo nada y me río",
+"Tienes razón, los niños no bailan",
+"Cualquiera puede bailar si le gusta"
+],
+"correcta": 2,
+"porque": "Bailar no depende de ser niña o niño."
+},
+{
+"pregunta": "En tu casa, ¿cómo se reparten las tareas con equidad?",
+"opciones": [
+"Todos ayudan según sus posibilidades",
+"Solo la mamá trabaja en la casa",
+"Solo los hijos varones descansan siempre"
+],
+"correcta": 0,
+"porque": "Cuando todos ayudan, hay equidad en casa."
+},
+{
+"pregunta": "En el recreo una niña quiere jugar basquetbol con niños. ¿Qué es lo justo?",
+"opciones": [
+"Dejar que juegue como los demás",
+"Pedirle que mejor juegue a las muñecas",
+"Decirle que espere hasta que terminen"
+],
+"correcta": 0,
+"porque": "En la escuela todos juegan a todo; es lo justo."
+}
+],
+"escuela-convivencia-colaboracion-primaria": [
+{
+"pregunta": "¿Para qué sirve la escuela?",
+"opciones": [
+"Para aprender y convivir",
+"Solo para jugar en el patio",
+"Para competir sin reglas"
+],
+"correcta": 0,
+"porque": "La escuela es un lugar para aprender y convivir."
+},
+{
+"pregunta": "¿Qué significa colaborar?",
+"opciones": [
+"Trabajar juntos",
+"Copiar la tarea de otro",
+"Hacer todo yo solo mientras otros miran"
+],
+"correcta": 0,
+"porque": "Colaborar es trabajar juntos para lograr algo."
+},
+{
+"pregunta": "Dos compañeros quieren la misma pelota en el recreo. ¿Qué es lo mejor?",
+"opciones": [
+"Turnarse y llegar a un acuerdo",
+"Esconder la pelota para que nadie juegue",
+"Pelear hasta que uno se vaya llorando"
+],
+"correcta": 0,
+"porque": "Con acuerdos como turnarse, todos están mejor."
+},
+{
+"pregunta": "¿Cuál es un acuerdo para el salón?",
+"opciones": [
+"Gritar para pedir lo que quiero",
+"Tirar basura al piso cuando nadie ve",
+"Levantar la mano para hablar"
+],
+"correcta": 2,
+"porque": "Levantar la mano ayuda a que todos puedan escuchar."
+},
+{
+"pregunta": "Un compañero no entiende la clase. ¿Qué haces?",
+"opciones": [
+"Me burlo de él en voz baja",
+"Le digo que es muy lento y me voy",
+"Le ayudo a entender con paciencia"
+],
+"correcta": 2,
+"porque": "Ayudar es colaborar y hace que todos aprendan."
+}
+],
+"estilos-vida-activos-saludables-primaria": [
+{
+"pregunta": "¿Qué es un estilo de vida saludable?",
+"opciones": [
+"Tener hábitos que cuidan mi cuerpo",
+"Comer solo golosinas cada día",
+"Dormir muy poco para jugar más"
+],
+"correcta": 0,
+"porque": "Es vivir con hábitos que cuidan tu cuerpo."
+},
+{
+"pregunta": "¿Necesitas un gimnasio para moverte?",
+"opciones": [
+"Sí, sin gimnasio no se puede hacer nada",
+"Sí, y además es obligatorio pagar uno",
+"No, puedes jugar y correr en cualquier lugar"
+],
+"correcta": 2,
+"porque": "Para moverte basta con jugar, correr o bailar."
+},
+{
+"pregunta": "Dormir bien en la noche te ayuda a...",
+"opciones": [
+"Tener energía y poner atención",
+"Olvidar todo lo que aprendiste",
+"Tener más sueño en la mañana"
+],
+"correcta": 0,
+"porque": "Dormir bien da energía y ayuda a poner atención en clase."
+},
+{
+"pregunta": "¿Cuál es una actividad activa?",
+"opciones": [
+"Ver mucha televisión",
+"Quedarte sentado",
+"Bailar un rato"
+],
+"correcta": 2,
+"porque": "Bailar mueve tu cuerpo y es una actividad activa."
+},
+{
+"pregunta": "¿Qué bebida elegir para hidratarte en la escuela?",
+"opciones": [
+"Refresco dulce",
+"Agua simple",
+"Jugo con azúcar"
+],
+"correcta": 1,
+"porque": "El agua simple te hidrata sin azúcar."
+}
+],
+"familia-proteccion-cuidado-primaria-3-4": [
+{
+"pregunta": "¿Quiénes son tu familia?",
+"opciones": [
+"Únicamente los que tienen hijos",
+"Solo las personas que viven lejos",
+"Quienes te cuidan y te dan cariño"
+],
+"correcta": 2,
+"porque": "La familia es quien te cuida y te quiere."
+},
+{
+"pregunta": "Una niña vive con su abuelita. ¿Es una familia?",
+"opciones": [
+"Sí, hay muchos tipos de familias",
+"No, una familia debe tener cuatro personas",
+"No, una familia siempre necesita papá y mamá"
+],
+"correcta": 0,
+"porque": "Hay muchos tipos de familia si hay cuidado y cariño."
+},
+{
+"pregunta": "Alguien te lastima en casa. ¿Qué haces?",
+"opciones": [
+"Pienso que me lo merezco",
+"Se lo cuento a un adulto de confianza",
+"Me quedo callado para evitar problemas"
+],
+"correcta": 1,
+"porque": "Debes contarlo a un adulto de confianza para estar a salvo."
+},
+{
+"pregunta": "¿Cómo puedes ayudar en tu familia?",
+"opciones": [
+"Haciendo mis tareas de casa",
+"No haciendo nada y esperar",
+"Dejando mi ropa tirada para que otros la levanten"
+],
+"correcta": 0,
+"porque": "Cada quien tiene tareas y ayudar hace más fuerte a la familia."
+},
+{
+"pregunta": "¿Qué te da tu familia además de cuidado?",
+"opciones": [
+"Cariño y apoyo",
+"Solo tareas pesadas",
+"Silencio y distancia"
+],
+"correcta": 0,
+"porque": "La familia protege, cuida y quiere."
+}
+],
+"formas-de-ser-pensar-actuar-primaria": [
+{
+"pregunta": "¿Todas las personas piensan igual?",
+"opciones": [
+"No, cada persona es distinta",
+"Sí, todos pensamos lo mismo",
+"Sí, pero solo los adultos"
+],
+"correcta": 0,
+"porque": "Cada persona piensa, siente y hace de forma distinta."
+},
+{
+"pregunta": "Tu amigo quiere leer y tú quieres correr en el recreo. ¿Qué haces?",
+"opciones": [
+"Busco algo que ambos disfrutemos",
+"Lo obligo a correr conmigo",
+"Le digo que leer es aburrido y me voy"
+],
+"correcta": 0,
+"porque": "Buscar un acuerdo ayuda a convivir con las diferencias."
+},
+{
+"pregunta": "Dos niños reaccionan distinto ante el mismo problema. ¿Qué es lo mejor?",
+"opciones": [
+"Pedir que todos reaccionen igual",
+"Burlarme del que reacciona distinto",
+"Respetar que cada quien es distinto"
+],
+"correcta": 2,
+"porque": "Cada persona reacciona distinto y respetarlo ayuda a convivir."
+},
+{
+"pregunta": "En clase alguien opina distinto a ti. ¿Qué haces?",
+"opciones": [
+"Me enojo y dejo de hablarle",
+"Lo escucho con respeto",
+"Le digo que está equivocado y no lo dejo hablar"
+],
+"correcta": 1,
+"porque": "Respetar las diferencias ayuda a convivir."
+},
+{
+"pregunta": "¿Ser distinto a otros es algo malo?",
+"opciones": [
+"Sí, quien es distinto debe quedarse solo",
+"Sí, hay que ser idénticos a los demás",
+"No, somos distintos, no mejores ni peores"
+],
+"correcta": 2,
+"porque": "Ser distinto no es peor ni mejor; solo es diferente."
+}
+],
+"habitos-saludables-seres-vivos-primaria": [
+{
+"pregunta": "Una planta tiene tanta agua que sus raíces se pudren. ¿Qué hábito la cuida?",
+"opciones": [
+"Taparla sin que respire",
+"Echarle agua cada hora",
+"Darle el agua necesaria"
+],
+"correcta": 2,
+"porque": "Con agua de más las raíces se pudren, así que hay que darle solo lo necesario."
+},
+{
+"pregunta": "¿Qué pasa si una planta recibe demasiada agua?",
+"opciones": [
+"Se vuelve de plástico",
+"Crece el doble de rápido siempre",
+"Sus raíces se pudren"
+],
+"correcta": 2,
+"porque": "El exceso de agua pudre las raíces."
+},
+{
+"pregunta": "¿Qué hábito cuida a los animales?",
+"opciones": [
+"Tirar plástico en el campo",
+"No tirar basura",
+"Dejar basura en el río"
+],
+"correcta": 1,
+"porque": "No tirar basura evita que los animales se lastimen."
+},
+{
+"pregunta": "¿Qué hábito te protege de enfermedades?",
+"opciones": [
+"Lavarte las manos",
+"Comer sin lavarte las manos",
+"Compartir cubiertos sin lavarlos"
+],
+"correcta": 0,
+"porque": "Lavarte las manos elimina gérmenes y te protege."
+},
+{
+"pregunta": "Quieres cuidar a tu mascota. ¿Qué haces cada día?",
+"opciones": [
+"Solo juego con ella cuando quiero",
+"Le doy agua, alimento y cariño",
+"La dejo sin agua para que aprenda"
+],
+"correcta": 1,
+"porque": "Todos los seres vivos necesitan agua, alimento, limpieza y cariño."
+}
+],
+"higiene-vida-saludable-primaria": [
+{
+"pregunta": "¿Cuántos segundos debes lavarte las manos?",
+"opciones": [
+"Un segundo y medio",
+"Veinte segundos",
+"Dos segundos"
+],
+"correcta": 1,
+"porque": "Veinte segundos permiten quitar bien los gérmenes."
+},
+{
+"pregunta": "¿Cuándo debes cepillarte los dientes?",
+"opciones": [
+"Una vez a la semana",
+"Solo cuando huele mal la boca",
+"Después de cada comida"
+],
+"correcta": 2,
+"porque": "Cepillarte después de comer protege tus dientes."
+},
+{
+"pregunta": "¿Cuántas veces al día es bueno cepillarte los dientes?",
+"opciones": [
+"Tres veces al día",
+"Una vez al mes",
+"Una vez a la semana"
+],
+"correcta": 0,
+"porque": "Los dientes se cepillan después de cada comida, tres veces al día."
+},
+{
+"pregunta": "En tu escuela vas a comer fruta. ¿Qué haces antes?",
+"opciones": [
+"La seco con mi ropa",
+"La lavo con agua",
+"La como así nomás"
+],
+"correcta": 1,
+"porque": "Las frutas se lavan antes de comerlas."
+},
+{
+"pregunta": "¿Para qué sirve la higiene?",
+"opciones": [
+"Para ensuciarme menos nada más",
+"Para que otros me vean",
+"Para evitar enfermedades"
+],
+"correcta": 2,
+"porque": "La higiene mantiene limpio tu cuerpo y evita enfermedades."
+}
+],
+"interaccion-motriz-primaria": [
+{
+"pregunta": "¿Qué es la interacción motriz?",
+"opciones": [
+"Moverte y jugar con otras personas",
+"Dormir sin moverte",
+"Jugar solo a una sola cosa siempre"
+],
+"correcta": 0,
+"porque": "Es moverte y jugar con otras personas."
+},
+{
+"pregunta": "En un juego cooperas cuando...",
+"opciones": [
+"Un equipo intenta ganarle al otro",
+"Cada quien hace lo que quiere sin escuchar",
+"Todos juntos buscan lograr la meta"
+],
+"correcta": 2,
+"porque": "Cooperar es que todos trabajen juntos."
+},
+{
+"pregunta": "En un partido de futbol hay dos equipos. ¿Qué es eso?",
+"opciones": [
+"Cooperación y oposición",
+"Un juego sin reglas",
+"Solo cooperación sin nadie contra nadie"
+],
+"correcta": 0,
+"porque": "Cooperas con tu equipo y te opones al otro."
+},
+{
+"pregunta": "En un juego, todos juntos arman una torre de bloques. ¿Qué hacen?",
+"opciones": [
+"Compiten",
+"Se oponen",
+"Cooperan"
+],
+"correcta": 2,
+"porque": "Cooperar es trabajar todos juntos."
+},
+{
+"pregunta": "Un compañero se equivoca en la jugada. ¿Qué le dices?",
+"opciones": [
+"Nada, pero lo miro enojado",
+"\"Eres muy malo, sal del juego\"",
+"\"No pasa nada, sigamos\""
+],
+"correcta": 2,
+"porque": "Decir algo amable es mostrar respeto en el juego."
+}
+],
+"necesidades-y-caracteristicas-propias-ajenas-primaria": [
+{
+"pregunta": "Una compañera ve mal el pizarrón. ¿Qué necesita?",
+"opciones": [
+"Que le quiten la libreta",
+"Lentes o sentarse más cerca",
+"Que la dejen sin ver nada"
+],
+"correcta": 1,
+"porque": "Reconocer su necesidad ayuda a que aprenda mejor."
+},
+{
+"pregunta": "¿Cuál es una necesidad?",
+"opciones": [
+"Tener un juguete nuevo",
+"Ser alta",
+"Comer y descansar"
+],
+"correcta": 2,
+"porque": "Una necesidad es lo que requieres para estar bien, como comer y descansar."
+},
+{
+"pregunta": "¿Cuál es una característica?",
+"opciones": [
+"Ser alto",
+"Necesitar dormir",
+"Tener hambre"
+],
+"correcta": 0,
+"porque": "Una característica es un rasgo tuyo, como ser alto."
+},
+{
+"pregunta": "Algunos compañeros necesitan más tiempo para terminar. ¿Qué haces?",
+"opciones": [
+"Les quito su hoja para acabar rápido",
+"Me burlo de lo lento que son",
+"Los espero y los ayudo si lo piden"
+],
+"correcta": 2,
+"porque": "Reconocer lo que otros necesitan es respetar sus diferencias."
+},
+{
+"pregunta": "¿Qué necesitas para aprender mejor en la escuela?",
+"opciones": [
+"Dormir bien y comer",
+"Estar con sueño y sin desayunar",
+"Hablar todo el tiempo en clase"
+],
+"correcta": 0,
+"porque": "Descansar y comer te ayuda a poner atención."
+}
+]
+}

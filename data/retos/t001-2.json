@@ -1,0 +1,522 @@
+{
+"problemas-de-resta-primaria": [
+{
+"pregunta": "Tenías 90 pesos y gastaste 40. ¿Cuántos pesos te quedan?",
+"opciones": [
+"130 pesos",
+"60 pesos",
+"50 pesos"
+],
+"correcta": 2,
+"porque": "Gastar es quitar: 90 - 40 = 50."
+},
+{
+"pregunta": "Un libro cuesta 85 pesos y tienes 60. ¿Cuánto te falta?",
+"opciones": [
+"25 pesos",
+"145 pesos",
+"35 pesos"
+],
+"correcta": 0,
+"porque": "Para completar se resta: 85 - 60 = 25."
+},
+{
+"pregunta": "Luis mide 140 cm y Eva 133 cm. ¿Cuántos centímetros más mide Luis?",
+"opciones": [
+"13 cm",
+"273 cm",
+"7 cm"
+],
+"correcta": 2,
+"porque": "Para comparar se resta: 140 - 133 = 7."
+},
+{
+"pregunta": "En tu salón había 32 alumnos y hoy faltaron 5. ¿Cuántos vinieron?",
+"opciones": [
+"27",
+"37",
+"28"
+],
+"correcta": 0,
+"porque": "Faltaron se quita: 32 - 5 = 27."
+},
+{
+"pregunta": "¿Cómo compruebas que 95 - 60 = 35?",
+"opciones": [
+"Multiplicando 60 × 35",
+"Sumando 60 + 35",
+"Restando 95 - 35 otra vez"
+],
+"correcta": 1,
+"porque": "Si sumas 60 + 35 regresas a 95."
+}
+],
+"problemas-de-suma-primaria": [
+{
+"pregunta": "Ana tiene 24 estampas y le regalan 15. ¿Cuántas tiene ahora?",
+"opciones": [
+"39",
+"49",
+"9"
+],
+"correcta": 0,
+"porque": "Se juntan: 24 + 15 = 39."
+},
+{
+"pregunta": "En la cooperativa se vendieron 56 jugos y 30 aguas. ¿Cuántas bebidas se vendieron en total?",
+"opciones": [
+"86",
+"26",
+"76"
+],
+"correcta": 0,
+"porque": "En total se suma: 56 + 30 = 86."
+},
+{
+"pregunta": "¿Qué haces primero para resolver un problema?",
+"opciones": [
+"Escribir la respuesta",
+"Sumar todo",
+"Leerlo dos veces"
+],
+"correcta": 2,
+"porque": "Primero lees para entender qué pasa en la historia."
+},
+{
+"pregunta": "Una caja tiene 125 pesos y otra 150 pesos. ¿Cuánto hay juntas?",
+"opciones": [
+"275 pesos",
+"265 pesos",
+"25 pesos"
+],
+"correcta": 0,
+"porque": "Juntar es sumar: 125 + 150 = 275."
+},
+{
+"pregunta": "¿Qué palabras suelen indicar suma?",
+"opciones": [
+"Quedan, faltan, gastó",
+"Cada uno, repartir",
+"En total, juntos, le dieron"
+],
+"correcta": 2,
+"porque": "Esas palabras hablan de juntar cantidades."
+}
+],
+"resta-con-ceros-primaria": [
+{
+"pregunta": "Resuelve 400 - 123.",
+"opciones": [
+"287",
+"323",
+"277"
+],
+"correcta": 2,
+"porque": "Los ceros prestan y se vuelven 9: 10 - 3 = 7, 9 - 2 = 7 y 3 - 1 = 2, da 277."
+},
+{
+"pregunta": "Resuelve 700 - 56.",
+"opciones": [
+"744",
+"656",
+"644"
+],
+"correcta": 2,
+"porque": "Los ceros prestados se hacen nueves: 700 - 56 = 644."
+},
+{
+"pregunta": "Había 300 hojas en la papelería de la escuela y se vendieron 145. ¿Cuántas quedan?",
+"opciones": [
+"155",
+"165",
+"245"
+],
+"correcta": 0,
+"porque": "300 - 145 = 155, porque 155 + 145 = 300."
+},
+{
+"pregunta": "Resuelve 504 - 235.",
+"opciones": [
+"331",
+"279",
+"269"
+],
+"correcta": 2,
+"porque": "Con 4 - 5 pides prestado al 5 y quedan 4 y 9: 504 - 235 = 269."
+},
+{
+"pregunta": "En una resta con ceros, ¿en qué se vuelve el cero que presta?",
+"opciones": [
+"En uno",
+"En cero otra vez",
+"En nueve"
+],
+"correcta": 2,
+"porque": "Los ceros que ayudan se vuelven nueves."
+}
+],
+"resta-pidiendo-prestado-primaria": [
+{
+"pregunta": "Resuelve 52 - 18.",
+"opciones": [
+"46",
+"34",
+"44"
+],
+"correcta": 1,
+"porque": "Pides una decena: 12 - 8 = 4 y 4 - 1 = 3, da 34."
+},
+{
+"pregunta": "Resuelve 71 - 29.",
+"opciones": [
+"58",
+"42",
+"52"
+],
+"correcta": 1,
+"porque": "11 - 9 = 2 y 6 - 2 = 4, da 42."
+},
+{
+"pregunta": "¿Cuándo pides prestado en una resta?",
+"opciones": [
+"Cuando la cifra de arriba es mayor",
+"Cuando la cifra de arriba es menor que la de abajo",
+"Cuando las dos cifras son iguales"
+],
+"correcta": 1,
+"porque": "Si arriba hay menos, pides 1 decena al vecino."
+},
+{
+"pregunta": "Tenías 83 pesos y gastaste 47. ¿Cuánto te queda?",
+"opciones": [
+"44 pesos",
+"46 pesos",
+"36 pesos"
+],
+"correcta": 2,
+"porque": "13 - 7 = 6 y 7 - 4 = 3, da 36."
+},
+{
+"pregunta": "Al pedir prestado, la decena prestada vale...",
+"opciones": [
+"1 unidad",
+"100 unidades",
+"10 unidades"
+],
+"correcta": 2,
+"porque": "Una decena son 10 unidades y se suman a la columna de la derecha."
+}
+],
+"resta-sin-pedir-prestado-primaria": [
+{
+"pregunta": "Resuelve 87 - 25.",
+"opciones": [
+"68",
+"112",
+"62"
+],
+"correcta": 2,
+"porque": "7 - 5 = 2 y 8 - 2 = 6, da 62."
+},
+{
+"pregunta": "Resuelve 98 - 53.",
+"opciones": [
+"55",
+"45",
+"151"
+],
+"correcta": 1,
+"porque": "8 - 3 = 5 y 9 - 5 = 4, da 45."
+},
+{
+"pregunta": "En una resta, ¿cómo se llama el número del que se quita?",
+"opciones": [
+"Sustraendo",
+"Minuendo",
+"Diferencia"
+],
+"correcta": 1,
+"porque": "El minuendo es el número grande, del que quitas."
+},
+{
+"pregunta": "Hay 59 sillas en la escuela y 24 están en el patio. ¿Cuántas están dentro?",
+"opciones": [
+"45",
+"35",
+"83"
+],
+"correcta": 1,
+"porque": "9 - 4 = 5 y 5 - 2 = 3, da 35."
+},
+{
+"pregunta": "¿Por qué columna empiezas a restar?",
+"opciones": [
+"Por las decenas, a la izquierda",
+"Por la que quieras",
+"Por las unidades, a la derecha"
+],
+"correcta": 2,
+"porque": "Se resta de derecha a izquierda, empezando por las unidades."
+}
+],
+"suma-llevando-primaria": [
+{
+"pregunta": "Resuelve 38 + 47.",
+"opciones": [
+"715",
+"85",
+"75"
+],
+"correcta": 1,
+"porque": "8 + 7 = 15, escribes 5 y llevas 1; 1 + 3 + 4 = 8, da 85."
+},
+{
+"pregunta": "Resuelve 59 + 27.",
+"opciones": [
+"86",
+"716",
+"76"
+],
+"correcta": 0,
+"porque": "9 + 7 = 16, escribes 6 y llevas 1; 1 + 5 + 2 = 8."
+},
+{
+"pregunta": "En una caja hay 36 lápices y en otra 29. ¿Cuántos lápices hay?",
+"opciones": [
+"515",
+"55",
+"65"
+],
+"correcta": 2,
+"porque": "6 + 9 = 15, escribes 5 y llevas 1; 1 + 3 + 2 = 6."
+},
+{
+"pregunta": "Si en las unidades te sale 13, ¿qué escribes?",
+"opciones": [
+"Escribes 3 y llevas 1",
+"Escribes 1 y llevas 3",
+"Escribes 13"
+],
+"correcta": 0,
+"porque": "En cada lugar solo cabe una cifra: 3 se queda y 1 decena se lleva."
+},
+{
+"pregunta": "Resuelve 148 + 85.",
+"opciones": [
+"133",
+"233",
+"223"
+],
+"correcta": 1,
+"porque": "8 + 5 = 13, llevas 1; 1 + 4 + 8 = 13, llevas 1; 1 + 1 = 2, da 233."
+}
+],
+"suma-sin-llevar-primaria": [
+{
+"pregunta": "Resuelve 31 + 46.",
+"opciones": [
+"77",
+"67",
+"87"
+],
+"correcta": 0,
+"porque": "1 + 6 = 7 y 3 + 4 = 7, da 77."
+},
+{
+"pregunta": "Resuelve 52 + 24.",
+"opciones": [
+"76",
+"28",
+"66"
+],
+"correcta": 0,
+"porque": "2 + 4 = 6 y 5 + 2 = 7, da 76."
+},
+{
+"pregunta": "Carla tiene 43 estampas y su amiga 35. ¿Cuántas tienen juntas?",
+"opciones": [
+"68",
+"78",
+"8"
+],
+"correcta": 1,
+"porque": "3 + 5 = 8 y 4 + 3 = 7, da 78."
+},
+{
+"pregunta": "¿Por qué columna empiezas a sumar?",
+"opciones": [
+"Por la más grande",
+"Por las unidades",
+"Por las decenas"
+],
+"correcta": 1,
+"porque": "Se empieza a la derecha, con las unidades."
+},
+{
+"pregunta": "Resuelve 126 + 53.",
+"opciones": [
+"169",
+"179",
+"79"
+],
+"correcta": 1,
+"porque": "6 + 3 = 9, 2 + 5 = 7 y queda el 1: 179."
+}
+],
+"suma-y-resta-operaciones-inversas": [
+{
+"pregunta": "Si $7 + 6 = 13$, ¿cuál resta sale de esa suma?",
+"opciones": [
+"$13 - 13 = 7$",
+"$13 - 6 = 7$",
+"$13 + 6 = 7$"
+],
+"correcta": 1,
+"porque": "Restar uno de los sumandos del total da el otro."
+},
+{
+"pregunta": "¿Qué número falta? $\\square + 5 = 12$",
+"opciones": [
+"7",
+"6",
+"17"
+],
+"correcta": 0,
+"porque": "Si quitas 5 a 12 queda 7, y 7 + 5 = 12."
+},
+{
+"pregunta": "Hiciste $30 - 12 = 18$. ¿Cómo lo revisas?",
+"opciones": [
+"Sumas $18 + 12$ y da 30",
+"Sumas $30 + 12$ y da 42",
+"Restas $30 - 18$ y da 48"
+],
+"correcta": 0,
+"porque": "Si al sumar regresas al 30, la resta está bien."
+},
+{
+"pregunta": "En tu mochila había 14 lápices y regalaste 5. ¿Qué suma comprueba cuántos quedan?",
+"opciones": [
+"$14 + 5 = 19$",
+"$9 + 14 = 23$",
+"$9 + 5 = 14$"
+],
+"correcta": 2,
+"porque": "Quedan 9 y al sumar los 5 regalados vuelves a 14."
+},
+{
+"pregunta": "La suma y la resta son operaciones...",
+"opciones": [
+"Inversas, una deshace a la otra",
+"Iguales siempre",
+"Que no se relacionan"
+],
+"correcta": 0,
+"porque": "Lo que suma una, lo quita la otra."
+}
+],
+"tabla-del-2-primaria": [
+{
+"pregunta": "¿Cuánto es 2 × 6?",
+"opciones": [
+"8",
+"12",
+"26"
+],
+"correcta": 1,
+"porque": "Es el doble de 6, y 6 + 6 = 12."
+},
+{
+"pregunta": "¿Cuánto es 2 × 9?",
+"opciones": [
+"11",
+"18",
+"29"
+],
+"correcta": 1,
+"porque": "El doble de 9 es 18."
+},
+{
+"pregunta": "Hay 7 niños en una mesa. ¿Cuántas manos tienen entre todos?",
+"opciones": [
+"9",
+"14",
+"27"
+],
+"correcta": 1,
+"porque": "Cada niño tiene 2 manos: 7 × 2 = 14."
+},
+{
+"pregunta": "Completa: 2 × ___ = 16",
+"opciones": [
+"6",
+"8",
+"14"
+],
+"correcta": 1,
+"porque": "El doble de 8 es 16."
+},
+{
+"pregunta": "¿Cómo terminan los resultados de la tabla del 2?",
+"opciones": [
+"En 1, 3, 5, 7 o 9",
+"Solo en 5",
+"En 0, 2, 4, 6 u 8"
+],
+"correcta": 2,
+"porque": "Doble siempre da un número par."
+}
+],
+"tabla-del-3-primaria": [
+{
+"pregunta": "¿Cuánto es 3 × 5?",
+"opciones": [
+"15",
+"8",
+"35"
+],
+"correcta": 0,
+"porque": "Son 5 + 5 + 5 = 15."
+},
+{
+"pregunta": "¿Cuánto es 3 × 9?",
+"opciones": [
+"27",
+"24",
+"12"
+],
+"correcta": 0,
+"porque": "Tres veces 9 es 9 + 9 + 9 = 27."
+},
+{
+"pregunta": "Hay 8 triciclos en la escuela. ¿Cuántas llantas hay en total?",
+"opciones": [
+"38",
+"24",
+"11"
+],
+"correcta": 1,
+"porque": "Cada triciclo tiene 3 llantas: 8 × 3 = 24."
+},
+{
+"pregunta": "Completa: 3 × ___ = 21",
+"opciones": [
+"8",
+"7",
+"6"
+],
+"correcta": 1,
+"porque": "3 × 7 = 21."
+},
+{
+"pregunta": "Si sumas las cifras de 18, ¿cuánto da?",
+"opciones": [
+"8",
+"18",
+"9"
+],
+"correcta": 2,
+"porque": "1 + 8 = 9, y en la tabla del 3 las cifras suman 3, 6 o 9."
+}
+]
+}

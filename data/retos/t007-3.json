@@ -1,0 +1,418 @@
+{
+"impacto-actividades-humanas-cuidado-entorno-primaria-1-2": [
+{
+"pregunta": "¿Qué acción cuida el agua?",
+"opciones": [
+"Cerrar la llave",
+"Dejarla abierta",
+"Dejarla goteando"
+],
+"correcta": 0,
+"porque": "Cerrar la llave evita gastar agua de más."
+},
+{
+"pregunta": "¿Qué le pasa a los animales si talan su árbol sin cuidado?",
+"opciones": [
+"Comen más fruta que antes",
+"Pierden su hogar",
+"Tienen una casa más grande"
+],
+"correcta": 1,
+"porque": "Los árboles son el hogar de muchos animales."
+},
+{
+"pregunta": "¿Qué puedes hacer con la basura de tu salón?",
+"opciones": [
+"Quemarla",
+"Esconderla",
+"Separarla"
+],
+"correcta": 2,
+"porque": "Separar la basura cuida la naturaleza."
+},
+{
+"pregunta": "¿Cuál acción cuida la naturaleza?",
+"opciones": [
+"Gastar agua sin necesidad",
+"Plantar un árbol",
+"Tirar basura en el río"
+],
+"correcta": 1,
+"porque": "Un árbol da sombra, aire limpio y casa a los animales."
+},
+{
+"pregunta": "¿Una acción pequeña ayuda a la naturaleza?",
+"opciones": [
+"No, solo los adultos pueden ayudar",
+"No, solo ayudan las acciones grandes",
+"Sí, cada acción ayuda"
+],
+"correcta": 2,
+"porque": "Muchas acciones pequeñas hacen una gran diferencia."
+}
+],
+"objetos-propiedades-estados-fisicos-primaria-1-2": [
+{
+"pregunta": "¿Cuál es un sólido?",
+"opciones": [
+"El aire del globo",
+"Una piedra",
+"El agua del vaso"
+],
+"correcta": 1,
+"porque": "La piedra tiene forma propia."
+},
+{
+"pregunta": "¿Cuál es un líquido?",
+"opciones": [
+"La madera",
+"El agua",
+"El aire"
+],
+"correcta": 1,
+"porque": "El agua toma la forma del vaso."
+},
+{
+"pregunta": "¿Qué estado tiene el aire?",
+"opciones": [
+"Líquido, porque toma forma de vaso",
+"Gas, porque se esparce siempre",
+"Sólido, porque tiene forma propia"
+],
+"correcta": 1,
+"porque": "El aire es un gas porque se esparce por todos lados."
+},
+{
+"pregunta": "¿Por qué las ventanas se hacen de vidrio?",
+"opciones": [
+"Porque es transparente y deja ver",
+"Porque es muy pesado y oscuro",
+"Porque se derrite con el sol"
+],
+"correcta": 0,
+"porque": "El vidrio deja pasar la luz."
+},
+{
+"pregunta": "¿Para qué sirve el metal en una olla?",
+"opciones": [
+"Resiste el calor y es fuerte",
+"Se rompe fácil al cocinar",
+"Se vuelve blando con el calor"
+],
+"correcta": 0,
+"porque": "Por eso las ollas son de metal."
+}
+],
+"sonido-luz-caracteristicas-primaria-1-2": [
+{
+"pregunta": "¿Qué produce un sonido?",
+"opciones": [
+"Un color",
+"Una sombra",
+"Una vibración"
+],
+"correcta": 2,
+"porque": "El sonido nace cuando algo vibra."
+},
+{
+"pregunta": "¿Cuál es una fuente de luz?",
+"opciones": [
+"Una piedra",
+"El Sol",
+"Una caja"
+],
+"correcta": 1,
+"porque": "El Sol da luz propia."
+},
+{
+"pregunta": "¿Qué se forma cuando la luz choca con un objeto opaco?",
+"opciones": [
+"Un sonido más fuerte",
+"Un tambor",
+"Una sombra"
+],
+"correcta": 2,
+"porque": "Un objeto opaco no deja pasar la luz."
+},
+{
+"pregunta": "¿Cuál objeto es transparente?",
+"opciones": [
+"El cartón",
+"La madera",
+"El vidrio"
+],
+"correcta": 2,
+"porque": "El vidrio deja pasar la luz."
+},
+{
+"pregunta": "¿Cómo cuidas tus oídos del ruido fuerte?",
+"opciones": [
+"Me alejo o me tapo los oídos",
+"Subo el volumen todavía más",
+"Me acerco más al ruido para oír mejor"
+],
+"correcta": 0,
+"porque": "Los ruidos muy fuertes pueden dañar los oídos."
+}
+],
+"cambios-de-estado-primaria": [
+{
+"pregunta": "¿Cómo se llama el paso de sólido a líquido?",
+"opciones": [
+"Fusión",
+"Condensación",
+"Evaporación"
+],
+"correcta": 0,
+"porque": "Un hielo que se derrite está en fusión."
+},
+{
+"pregunta": "El agua en el congelador se hace hielo. ¿Qué cambio es?",
+"opciones": [
+"Evaporación",
+"Solidificación",
+"Fusión"
+],
+"correcta": 1,
+"porque": "Pasa de líquido a sólido."
+},
+{
+"pregunta": "¿Qué cambio pasa cuando el agua hirviendo se vuelve vapor?",
+"opciones": [
+"Evaporación",
+"Condensación",
+"Solidificación"
+],
+"correcta": 0,
+"porque": "Pasa de líquido a gas."
+},
+{
+"pregunta": "¿Por qué se forman gotas afuera de un vaso con agua fría?",
+"opciones": [
+"El vaso suelta agua por dentro",
+"El vapor del aire se condensa",
+"El agua del vaso se evapora"
+],
+"correcta": 1,
+"porque": "El gas del aire se enfría y vuelve a líquido."
+},
+{
+"pregunta": "¿Qué necesita la materia para cambiar de estado?",
+"opciones": [
+"Estar siempre quieta",
+"Cambiar de color",
+"Ganar o perder calor"
+],
+"correcta": 2,
+"porque": "Un cambio de estado ocurre con calor o con frío."
+}
+],
+"eclipses-de-sol-y-de-luna-primaria": [
+{
+"pregunta": "¿Qué pasa en un eclipse?",
+"opciones": [
+"La Luna se hace más grande",
+"El Sol se apaga para siempre",
+"Un astro tapa la luz de otro"
+],
+"correcta": 2,
+"porque": "Un eclipse es cuando un astro tapa la luz de otro."
+},
+{
+"pregunta": "¿Quién está en medio en un eclipse de Sol?",
+"opciones": [
+"Una estrella",
+"La Luna",
+"La Tierra"
+],
+"correcta": 1,
+"porque": "Va Sol, Luna y Tierra."
+},
+{
+"pregunta": "¿Quién está en medio en un eclipse de Luna?",
+"opciones": [
+"Un cometa",
+"El Sol",
+"La Tierra"
+],
+"correcta": 2,
+"porque": "Va Sol, Tierra y Luna."
+},
+{
+"pregunta": "¿Cómo puedes ver un eclipse solar con seguridad?",
+"opciones": [
+"Con filtros especiales",
+"Con lentes de sol comunes",
+"Mirando directo al Sol un ratito"
+],
+"correcta": 0,
+"porque": "Mirar el Sol sin filtros puede dañar tus ojos."
+},
+{
+"pregunta": "En tu escuela usas tres pelotas y una lámpara. ¿Qué representa la lámpara?",
+"opciones": [
+"La Tierra",
+"La Luna",
+"El Sol"
+],
+"correcta": 2,
+"porque": "La lámpara da luz como el Sol."
+}
+],
+"estaciones-del-ano-primaria": [
+{
+"pregunta": "¿Qué causa las estaciones?",
+"opciones": [
+"La distancia al Sol",
+"Las nubes del cielo",
+"La inclinación de la Tierra"
+],
+"correcta": 2,
+"porque": "La Tierra inclinada recibe luz distinta durante el año."
+},
+{
+"pregunta": "¿Cuántas estaciones tiene el año?",
+"opciones": [
+"Dos",
+"Cuatro",
+"Seis"
+],
+"correcta": 1,
+"porque": "Primavera, verano, otoño e invierno."
+},
+{
+"pregunta": "¿Qué estación empieza en junio en México?",
+"opciones": [
+"Verano",
+"Invierno",
+"Primavera"
+],
+"correcta": 0,
+"porque": "En el hemisferio norte el verano empieza en junio."
+},
+{
+"pregunta": "¿En diciembre es invierno en el hemisferio sur?",
+"opciones": [
+"Sí, igual que en México",
+"No, es otoño",
+"No, es verano"
+],
+"correcta": 2,
+"porque": "En el sur las estaciones son opuestas."
+},
+{
+"pregunta": "¿Las estaciones se deben a que la Tierra se acerca al Sol?",
+"opciones": [
+"Sí, en verano está más cerca",
+"No, se deben a la inclinación",
+"Sí, y en invierno se aleja mucho"
+],
+"correcta": 1,
+"porque": "La inclinación cambia la luz que recibe cada lugar."
+}
+],
+"factores-ecosistemas-primaria": [
+{
+"pregunta": "¿Cuál es un factor físico?",
+"opciones": [
+"El conejo",
+"El hongo",
+"El agua"
+],
+"correcta": 2,
+"porque": "El agua no tiene vida y rodea a los seres vivos."
+},
+{
+"pregunta": "¿Cuál es un factor biológico?",
+"opciones": [
+"Una planta",
+"La luz del Sol",
+"El suelo"
+],
+"correcta": 0,
+"porque": "Las plantas son seres vivos."
+},
+{
+"pregunta": "¿Qué hacen los hongos en un ecosistema?",
+"opciones": [
+"Dan luz a las plantas",
+"Se comen a los coyotes",
+"Deshacen restos y alimentan el suelo"
+],
+"correcta": 2,
+"porque": "Los hongos ayudan a reciclar los restos."
+},
+{
+"pregunta": "¿Quién come a quién? Planta, conejo, coyote.",
+"opciones": [
+"La planta come conejo y el conejo come coyote",
+"El conejo come planta y el coyote come conejo",
+"El coyote come planta y el conejo come coyote"
+],
+"correcta": 1,
+"porque": "Es una cadena alimentaria."
+},
+{
+"pregunta": "¿Qué pasa si falta una especie?",
+"opciones": [
+"Nada cambia nunca",
+"Todo el ecosistema cambia",
+"Solo cambia el clima del lugar"
+],
+"correcta": 1,
+"porque": "Todo está conectado."
+}
+],
+"fases-de-la-luna-primaria": [
+{
+"pregunta": "¿Cuál fase de la Luna se ve redonda?",
+"opciones": [
+"Luna llena",
+"Cuarto creciente",
+"Luna nueva"
+],
+"correcta": 0,
+"porque": "En luna llena vemos toda la cara iluminada."
+},
+{
+"pregunta": "¿Qué fase de la Luna casi no se ve?",
+"opciones": [
+"Luna nueva",
+"Cuarto menguante",
+"Luna llena"
+],
+"correcta": 0,
+"porque": "En luna nueva no se ve."
+},
+{
+"pregunta": "¿Por qué brilla la Luna?",
+"opciones": [
+"Refleja la luz del Sol",
+"Tiene su propia luz",
+"Se prende por las noches"
+],
+"correcta": 0,
+"porque": "La Luna no tiene luz propia."
+},
+{
+"pregunta": "¿Cuánto dura aproximadamente el ciclo de la Luna?",
+"opciones": [
+"Cerca de una semana",
+"Cerca de 29 días y medio",
+"Cerca de un año"
+],
+"correcta": 1,
+"porque": "El ciclo de fases dura casi un mes."
+},
+{
+"pregunta": "¿Qué fase de la Luna no se ve en el cielo?",
+"opciones": [
+"Luna nueva",
+"Luna llena",
+"Cuarto menguante"
+],
+"correcta": 0,
+"porque": "En la Luna nueva no se ve la parte iluminada."
+}
+]
+}

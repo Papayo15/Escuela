@@ -1,0 +1,574 @@
+{
+"lectura-escritura-oralidad-proyecto-creativo-prepa": [
+{
+"pregunta": "¿Qué haces con los modelos al empezar un proyecto creativo?",
+"opciones": [
+"Los lees",
+"Los presentas ya",
+"Los borras"
+],
+"correcta": 0,
+"porque": "Lees modelos para aprender cómo se hace."
+},
+{
+"pregunta": "¿Para qué sirve ensayar antes de presentar?",
+"opciones": [
+"Hace que olvides el texto",
+"Evita que escribas el borrador",
+"Da seguridad y controla el tiempo"
+],
+"correcta": 2,
+"porque": "Ensayar ayuda a hablar con confianza y a cuidar el tiempo."
+},
+{
+"pregunta": "¿Qué parte del proyecto va al final?",
+"opciones": [
+"Escribir el primer borrador",
+"Presentarlo ante un público",
+"Leer los modelos"
+],
+"correcta": 1,
+"porque": "Primero lees, escribes y ensayas; al final presentas."
+},
+{
+"pregunta": "Presentar tu leyenda ante el grupo es práctica de...",
+"opciones": [
+"Oralidad",
+"Escritura",
+"Lectura"
+],
+"correcta": 0,
+"porque": "Hablar en voz alta ante otros es oralidad."
+},
+{
+"pregunta": "Terminaste de escribir tu leyenda. ¿Qué haces?",
+"opciones": [
+"La escondes",
+"La cambias por otra",
+"La revisas"
+],
+"correcta": 2,
+"porque": "Escribir y revisar van juntos."
+}
+],
+"narrar-historia-de-vida-huella": [
+{
+"pregunta": "¿Qué palabra usas para contar tu propia experiencia?",
+"opciones": [
+"La palabra yo",
+"La palabra usted",
+"La palabra ellos"
+],
+"correcta": 0,
+"porque": "Al narrar lo que viviste hablas en primera persona."
+},
+{
+"pregunta": "¿Qué debe incluir tu historia?",
+"opciones": [
+"Quién, dónde, qué pasó, qué sentiste y qué aprendiste",
+"Solo fechas y nombres de calles",
+"Solo lo que le gustaría al maestro"
+],
+"correcta": 0,
+"porque": "Estos datos hacen que se entienda la experiencia."
+},
+{
+"pregunta": "¿Tienes que contar todo lo que viviste?",
+"opciones": [
+"Solo lo que otros pidan",
+"No, solo lo que quieras",
+"Sí, todo sin excepción"
+],
+"correcta": 1,
+"porque": "Cuentas solo lo que tú decidas compartir."
+},
+{
+"pregunta": "¿Qué oración está en pasado, como pide la narración?",
+"opciones": [
+"Aquel día aprenderé a andar en bici.",
+"Aquel día aprendo a andar en bici.",
+"Aquel día aprendí a andar en bici."
+],
+"correcta": 2,
+"porque": "Una experiencia que ya pasó se cuenta con verbos en pasado."
+},
+{
+"pregunta": "¿Qué parte cuenta cómo cambiaste?",
+"opciones": [
+"El nombre del lugar",
+"Lo que aprendiste",
+"La fecha del suceso"
+],
+"correcta": 1,
+"porque": "La huella es lo que cambió en ti."
+}
+],
+"personajes-escenarios-narrativa-popular-prepa": [
+{
+"pregunta": "En un cuento, el lobo se opone a Caperucita. ¿Qué es el lobo?",
+"opciones": [
+"Protagonista",
+"Antagonista",
+"Escenario"
+],
+"correcta": 1,
+"porque": "El antagonista es quien se opone al protagonista."
+},
+{
+"pregunta": "¿Qué es el escenario de una historia?",
+"opciones": [
+"Dónde y cuándo ocurre",
+"Quién hace las acciones",
+"Lo que se aprende al final"
+],
+"correcta": 0,
+"porque": "El escenario es el lugar y el tiempo."
+},
+{
+"pregunta": "¿Quién hace las acciones en un relato?",
+"opciones": [
+"Los títulos",
+"Los personajes",
+"Los escenarios"
+],
+"correcta": 1,
+"porque": "Los personajes son quienes actúan."
+},
+{
+"pregunta": "Una historia pasa de noche en un panteón. ¿Qué ambiente crea?",
+"opciones": [
+"De risa",
+"De fiesta",
+"De miedo"
+],
+"correcta": 2,
+"porque": "El escenario da el ambiente: un panteón de noche asusta."
+},
+{
+"pregunta": "¿Quién es el centro de la historia?",
+"opciones": [
+"El escenario",
+"El antagonista",
+"El protagonista"
+],
+"correcta": 2,
+"porque": "El protagonista es el personaje principal."
+}
+],
+"reescribir-texto-elementos-narrativos-prepa": [
+{
+"pregunta": "¿Qué significa reescribir un texto?",
+"opciones": [
+"Copiarlo palabra por palabra",
+"Crear otra versión transformándolo",
+"Borrarlo para siempre"
+],
+"correcta": 1,
+"porque": "No copias: transformas el texto en otra versión."
+},
+{
+"pregunta": "¿Cuántos pasos tiene el proceso de reescribir?",
+"opciones": [
+"Cuatro",
+"Diez",
+"Dos"
+],
+"correcta": 0,
+"porque": "Son cuatro: identificar, decidir, escribir y revisar."
+},
+{
+"pregunta": "Quieres cambiar el final de un cuento. ¿Qué haces primero?",
+"opciones": [
+"Revisar la ortografía",
+"Entregarlo ya",
+"Identificar sus partes"
+],
+"correcta": 2,
+"porque": "Primero conoces las partes y luego decides qué cambiar."
+},
+{
+"pregunta": "Ya decidiste qué cambiar. ¿Qué sigue?",
+"opciones": [
+"Identificar las partes",
+"Revisar el texto final",
+"Escribir la nueva versión"
+],
+"correcta": 2,
+"porque": "Después de decidir, escribes."
+},
+{
+"pregunta": "¿Qué haces con el texto original al reescribir?",
+"opciones": [
+"Lo copias igual",
+"Lo ignoras por completo",
+"Lo transformas"
+],
+"correcta": 2,
+"porque": "Reescribir es transformar, no repetir."
+}
+],
+"tema-ideas-central-secundarias-narrativas-populares-prepa": [
+{
+"pregunta": "¿Qué es el tema de un relato?",
+"opciones": [
+"Quién lo escribió",
+"Cómo termina",
+"De qué trata"
+],
+"correcta": 2,
+"porque": "El tema dice de qué trata el texto."
+},
+{
+"pregunta": "¿Qué pasa si quitas una idea secundaria?",
+"opciones": [
+"Cambia la idea central por completo",
+"Ya no se entiende nada del texto",
+"El texto todavía se entiende igual"
+],
+"correcta": 2,
+"porque": "Las ideas secundarias solo apoyan, por eso se puede entender sin ellas."
+},
+{
+"pregunta": "Una leyenda cuenta que una niña devolvió una moneda ajena. ¿Qué tema puede tener?",
+"opciones": [
+"La honestidad",
+"El clima",
+"La comida"
+],
+"correcta": 0,
+"porque": "Devolver lo ajeno trata de ser honesto."
+},
+{
+"pregunta": "¿Cómo se llama la idea más importante del texto?",
+"opciones": [
+"Idea central",
+"Idea secundaria",
+"Idea suelta"
+],
+"correcta": 0,
+"porque": "La central es lo más importante."
+},
+{
+"pregunta": "Quitas una frase y el relato se entiende igual. ¿Qué era?",
+"opciones": [
+"Secundaria",
+"El tema",
+"Central"
+],
+"correcta": 0,
+"porque": "Si se entiende igual, era secundaria."
+}
+],
+"analizar-texto-tomar-postura-prepa": [
+{
+"pregunta": "Antes de dar tu postura, ¿qué debes hacer?",
+"opciones": [
+"Copiar al autor",
+"Entender el texto",
+"Opinar sin leer"
+],
+"correcta": 1,
+"porque": "Primero entiendes y después das tu postura."
+},
+{
+"pregunta": "¿Qué es una tesis?",
+"opciones": [
+"Una lista de palabras raras",
+"La idea que el autor defiende",
+"Un dato que se puede medir"
+],
+"correcta": 1,
+"porque": "La tesis es la idea principal que el autor defiende."
+},
+{
+"pregunta": "¿Qué necesitas para decir \"Estoy de acuerdo porque...\"?",
+"opciones": [
+"Un dibujo",
+"Un gusto",
+"Razones"
+],
+"correcta": 2,
+"porque": "Sin razones, tu postura sería solo un gusto."
+},
+{
+"pregunta": "¿Qué evalúas en los argumentos de un autor?",
+"opciones": [
+"Si son confiables",
+"Si tienen colores",
+"Si son muy cortos"
+],
+"correcta": 0,
+"porque": "Evalúas si puedes confiar en sus razones."
+},
+{
+"pregunta": "¿Cuál es el primer paso para analizar un texto?",
+"opciones": [
+"Buscar la idea principal",
+"Dar tu opinión",
+"Evaluar las fuentes"
+],
+"correcta": 0,
+"porque": "Primero buscas la idea principal y después sus argumentos."
+}
+],
+"boom-latinoamericano-prepa": [
+{
+"pregunta": "¿Quién escribió \"La ciudad y los perros\"?",
+"opciones": [
+"Julio Cortázar",
+"Carlos Fuentes",
+"Mario Vargas Llosa"
+],
+"correcta": 2,
+"porque": "Es una novela de Vargas Llosa, autor del Boom."
+},
+{
+"pregunta": "¿Quién escribió \"La muerte de Artemio Cruz\"?",
+"opciones": [
+"Carlos Fuentes",
+"Gabriel García Márquez",
+"Mario Vargas Llosa"
+],
+"correcta": 0,
+"porque": "Es una novela del mexicano Carlos Fuentes."
+},
+{
+"pregunta": "¿Qué fue el Boom latinoamericano?",
+"opciones": [
+"Un concurso de poemas escolar",
+"El auge mundial de su narrativa",
+"Una feria de libros antiguos"
+],
+"correcta": 1,
+"porque": "Fue cuando el mundo empezó a leer a autores latinoamericanos."
+},
+{
+"pregunta": "¿Cómo se cuenta lo mágico en el realismo mágico?",
+"opciones": [
+"Como si fuera real",
+"Como una mentira",
+"Como un sueño dudoso"
+],
+"correcta": 0,
+"porque": "Lo mágico se cuenta como algo normal."
+},
+{
+"pregunta": "¿Cuál es un rasgo de las novelas del Boom?",
+"opciones": [
+"Frases siempre iguales",
+"Solo datos y cifras",
+"Experimentos y tiempos revueltos"
+],
+"correcta": 2,
+"porque": "Los autores jugaban con el orden del tiempo."
+}
+],
+"carlos-fuentes-prepa": [
+{
+"pregunta": "¿De qué país era Carlos Fuentes?",
+"opciones": [
+"De México",
+"De Colombia",
+"De Argentina"
+],
+"correcta": 0,
+"porque": "Fue un novelista mexicano del Boom."
+},
+{
+"pregunta": "¿Quién escribió \"Gringo viejo\"?",
+"opciones": [
+"Juan Rulfo",
+"Jorge Luis Borges",
+"Carlos Fuentes"
+],
+"correcta": 2,
+"porque": "Es una novela de Fuentes."
+},
+{
+"pregunta": "¿Qué personaje de Fuentes recuerda su vida?",
+"opciones": [
+"Pedro Páramo",
+"Don Quijote",
+"Artemio Cruz"
+],
+"correcta": 2,
+"porque": "Artemio Cruz recuerda su vida en la novela."
+},
+{
+"pregunta": "¿Cuál de estas obras es de Fuentes?",
+"opciones": [
+"Ficciones",
+"Rayuela",
+"Aura"
+],
+"correcta": 2,
+"porque": "Aura es una de sus obras."
+},
+{
+"pregunta": "¿Qué ciudad convirtió en personaje?",
+"opciones": [
+"La Ciudad de México",
+"Buenos Aires",
+"Macondo"
+],
+"correcta": 0,
+"porque": "Contó a la capital como si fuera un personaje."
+}
+],
+"cervantes-y-el-quijote-prepa": [
+{
+"pregunta": "¿Por qué Alonso Quijano cree ser caballero?",
+"opciones": [
+"Un rey lo nombró caballero",
+"Ganó un torneo famoso",
+"Leyó muchos libros de caballeros"
+],
+"correcta": 2,
+"porque": "Leyó tantos libros que creyó ser uno."
+},
+{
+"pregunta": "¿Qué cree ver en los molinos de viento?",
+"opciones": [
+"Castillos",
+"Barcos",
+"Gigantes"
+],
+"correcta": 2,
+"porque": "Don Quijote los confunde con gigantes."
+},
+{
+"pregunta": "¿Cuál es el tema de la novela?",
+"opciones": [
+"Un viaje por el mar",
+"Una guerra de reinos",
+"Sueño contra realidad"
+],
+"correcta": 2,
+"porque": "Quijote sueña y Sancho aterriza."
+},
+{
+"pregunta": "¿En qué años se publicaron sus dos partes?",
+"opciones": [
+"1605 y 1615",
+"1705 y 1715",
+"1505 y 1515"
+],
+"correcta": 0,
+"porque": "Se publicó en 1605 y 1615."
+},
+{
+"pregunta": "¿Por qué se considera importante la novela?",
+"opciones": [
+"Es el primer libro de ciencias",
+"Es la primera novela moderna",
+"Es el libro más corto"
+],
+"correcta": 1,
+"porque": "Se considera la primera novela moderna."
+}
+],
+"dante-y-la-divina-comedia-prepa": [
+{
+"pregunta": "¿Qué tipo de obra es la Divina Comedia?",
+"opciones": [
+"Un diario de viaje",
+"Un libro de ciencias",
+"Un poema largo"
+],
+"correcta": 2,
+"porque": "Es un poema de Dante Alighieri."
+},
+{
+"pregunta": "¿Cuáles son los tres lugares del viaje?",
+"opciones": [
+"Infierno, Purgatorio y Paraíso",
+"Bosque, río y montaña",
+"Cielo, mar y tierra"
+],
+"correcta": 0,
+"porque": "El viaje recorre esos tres lugares del más allá."
+},
+{
+"pregunta": "¿En qué siglo se escribió?",
+"opciones": [
+"En el siglo XIV",
+"En el siglo XX",
+"En el siglo X"
+],
+"correcta": 0,
+"porque": "Se escribió en italiano en el siglo XIV."
+},
+{
+"pregunta": "¿Qué ayudó a formar la obra?",
+"opciones": [
+"La lengua griega",
+"La lengua italiana",
+"La lengua latina antigua"
+],
+"correcta": 1,
+"porque": "Ayudó a formar el italiano porque se escribió en esa lengua."
+},
+{
+"pregunta": "¿Cuál de estos nombres es guía de Dante?",
+"opciones": [
+"Aquiles",
+"Sancho",
+"Virgilio"
+],
+"correcta": 2,
+"porque": "Virgilio y Beatriz lo acompañan en el viaje."
+}
+],
+"exposicion-oral-resena-preparatoria": [
+{
+"pregunta": "¿Qué haces primero para exponer una reseña?",
+"opciones": [
+"Cerrar la sesión",
+"Pedir las preguntas",
+"Preparar un guion"
+],
+"correcta": 2,
+"porque": "Primero preparas un guion con ideas clave."
+},
+{
+"pregunta": "¿Cómo abres tu exposición?",
+"opciones": [
+"Con las preguntas del público",
+"Con la obra y el autor",
+"Con la conclusión final"
+],
+"correcta": 1,
+"porque": "Abres presentando la obra y a su autor."
+},
+{
+"pregunta": "¿Qué conviene usar en las diapositivas?",
+"opciones": [
+"Pocas, con ideas clave",
+"Muchas, con párrafos largos",
+"Ninguna palabra escrita"
+],
+"correcta": 0,
+"porque": "Pocas diapositivas ayudan a que te escuchen."
+},
+{
+"pregunta": "Alguien pregunta algo al final. ¿Qué haces?",
+"opciones": [
+"Respondo con calma y respeto",
+"Cambio de tema",
+"Me quedo callado"
+],
+"correcta": 0,
+"porque": "El cierre incluye recibir preguntas."
+},
+{
+"pregunta": "¿Qué cuidas al hablar frente al grupo?",
+"opciones": [
+"Solo el color de la ropa",
+"Volumen, ritmo y contacto visual",
+"Solo la velocidad más alta"
+],
+"correcta": 1,
+"porque": "Hablar bien ayuda a que te entiendan."
+}
+]
+}

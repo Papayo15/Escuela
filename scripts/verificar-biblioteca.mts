@@ -20,6 +20,7 @@ function textos(c: ContenidoTema): string[] {
     c.idea, c.pizarron, c.truco, c.practica.ejercicio, c.practica.respuesta,
     ...c.analogias.map((a) => a.texto),
     ...c.ejercicios.flatMap((e) => [e.ejercicio, e.respuesta]),
+    ...(c.reto ?? []).flatMap((p) => [p.pregunta, ...p.opciones, p.porque]),
   ];
 }
 
@@ -63,6 +64,9 @@ for (const t of temas) {
     errores.push(...erroresFormula(x).map((e) => `${t.slug}: ${e}`));
   }
 }
+
+const retos = temas.filter((t) => t.contenido.reto).length;
+console.log(`temas con reto rápido: ${retos} de ${temas.length}`);
 
 const cubiertos = new Set(temas.map((t) => t.nodo_id));
 const faltan = nodos.filter((n) => !cubiertos.has(n.id));

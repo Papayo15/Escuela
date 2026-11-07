@@ -1,0 +1,522 @@
+{
+"palabras-con-m-antes-de-p-y-b-primaria": [
+{
+"pregunta": "Completa con m o n: lá___para",
+"opciones": [
+"ñ, porque suena parecido a la m",
+"m",
+"n"
+],
+"correcta": 1,
+"porque": "Antes de p se escribe m: lámpara."
+},
+{
+"pregunta": "¿Qué letra va antes de la b?",
+"opciones": [
+"v, porque se parece mucho a la b",
+"n",
+"m"
+],
+"correcta": 2,
+"porque": "Antes de p y de b se escribe m."
+},
+{
+"pregunta": "Completa con m o n: so___bra",
+"opciones": [
+"n",
+"h, porque no suena fuerte en la palabra",
+"m"
+],
+"correcta": 2,
+"porque": "Antes de b se escribe m: sombra."
+},
+{
+"pregunta": "Completa con m o n: tie___po",
+"opciones": [
+"b, porque la palabra tiene una p",
+"n",
+"m"
+],
+"correcta": 2,
+"porque": "Antes de p se escribe m: tiempo."
+},
+{
+"pregunta": "Completa con m o n: ca___to, de cantar",
+"opciones": [
+"ñ, porque se canta con la boca abierta",
+"m",
+"n"
+],
+"correcta": 2,
+"porque": "Después de a va n porque la letra que sigue es t, no p ni b."
+}
+],
+"personajes-de-un-cuento-primaria": [
+{
+"pregunta": "En Caperucita Roja, ¿qué tipo de personaje es el cazador?",
+"opciones": [
+"Protagonista, porque es el personaje principal",
+"Antagonista",
+"Secundario"
+],
+"correcta": 2,
+"porque": "El cazador ayuda a los demás, por eso es secundario."
+},
+{
+"pregunta": "En Caperucita Roja, ¿quién es el antagonista?",
+"opciones": [
+"El lobo",
+"El cazador que llega al final",
+"La abuela"
+],
+"correcta": 0,
+"porque": "El antagonista es quien le causa problemas a la protagonista."
+},
+{
+"pregunta": "¿Qué pregunta te ayuda a conocer a un personaje?",
+"opciones": [
+"¿Cuántas hojas tiene el libro completo?",
+"¿Qué quiere y qué hace el personaje?",
+"¿De qué color es la portada del libro?"
+],
+"correcta": 1,
+"porque": "Para conocer a un personaje preguntas cómo es, qué quiere y qué hace."
+},
+{
+"pregunta": "¿Qué es un antagonista?",
+"opciones": [
+"Quien ayuda o acompaña al personaje principal en su camino",
+"El personaje principal de la historia",
+"Quien causa problemas al personaje principal"
+],
+"correcta": 2,
+"porque": "El antagonista estorba a quien es el protagonista."
+},
+{
+"pregunta": "En tu cuento, un niño busca a su perro, pero un vecino lo esconde. ¿Quién es el antagonista?",
+"opciones": [
+"El niño",
+"El vecino",
+"El perro que se perdió en la calle"
+],
+"correcta": 1,
+"porque": "El vecino causa el problema al niño que busca a su perro."
+}
+],
+"propuestas-mejora-entorno-primaria-1-2": [
+{
+"pregunta": "En tu salón se pierden lápices. ¿Cuál es una buena propuesta?",
+"opciones": [
+"Poner una caja para guardarlos",
+"Regañar a quien se le pierda un lápiz delante de todos",
+"Que nadie pierda nada"
+],
+"correcta": 0,
+"porque": "Una buena propuesta dice qué hacer y no lastima a nadie."
+},
+{
+"pregunta": "¿Qué debe tener una buena propuesta?",
+"opciones": [
+"Decir qué hacer y poder cumplirse",
+"Decir quién tiene la culpa del problema en el salón",
+"Ser muy larga y difícil de cumplir"
+],
+"correcta": 0,
+"porque": "Debe decir qué hacer, poderse cumplir y no lastimar."
+},
+{
+"pregunta": "¿Cuál es el segundo paso para proponer una mejora?",
+"opciones": [
+"Decir la propuesta frente a todos los compañeros",
+"Observar el problema",
+"Pensar qué se puede hacer"
+],
+"correcta": 2,
+"porque": "Primero observas, luego piensas qué hacer y después lo dices."
+},
+{
+"pregunta": "¿Cuál frase no dice qué hacer?",
+"opciones": [
+"Propongo turnarnos el balón.",
+"Que todos se porten bien.",
+"Propongo poner un horario para el patio."
+],
+"correcta": 1,
+"porque": "Esa frase no dice qué acción se debe hacer."
+},
+{
+"pregunta": "¿Para qué sirve una propuesta?",
+"opciones": [
+"Para decir que algo está mal y nada más",
+"Para ganar un premio en la escuela",
+"Para mejorar tu lugar"
+],
+"correcta": 2,
+"porque": "Es una idea para mejorar tu casa o tu escuela."
+}
+],
+"recrear-historias-palabras-cuerpo-primaria-1-2": [
+{
+"pregunta": "¿Qué es recrear una historia?",
+"opciones": [
+"Contarla otra vez con palabras y cuerpo",
+"Leerla en silencio para que nadie te escuche",
+"Copiarla en el cuaderno sin cambiar nada"
+],
+"correcta": 0,
+"porque": "Recrear es contar una historia de nuevo con palabras y cuerpo."
+},
+{
+"pregunta": "¿Qué usas para mostrar miedo al actuar?",
+"opciones": [
+"Una sonrisa grande y saltos por todo el salón",
+"Voz temblorosa y cuerpo encogido",
+"Voz fuerte y brazos abiertos"
+],
+"correcta": 1,
+"porque": "Miedo se muestra con voz temblorosa, ojos abiertos y cuerpo encogido."
+},
+{
+"pregunta": "¿Cuál es un recurso del cuerpo para actuar?",
+"opciones": [
+"Los gestos",
+"El pizarrón",
+"Las hojas del cuaderno de la clase"
+],
+"correcta": 0,
+"porque": "Los gestos, los movimientos y la postura son recursos del cuerpo."
+},
+{
+"pregunta": "¿Qué haces antes de presentar tu cuento a otros?",
+"opciones": [
+"Cambio de cuento a cada rato",
+"Ensayo, para practicar tu cuento",
+"Presento sin practicar nada"
+],
+"correcta": 1,
+"porque": "Los pasos son elegir el cuento, ensayar y presentar."
+},
+{
+"pregunta": "Tu equipo cuenta Los tres cochinitos con voz y movimientos. ¿Qué hace?",
+"opciones": [
+"Recrea la historia",
+"Hace un instructivo para armar una casa",
+"Escribe una nota informativa"
+],
+"correcta": 0,
+"porque": "Contar con palabras y cuerpo es recrear una historia."
+}
+],
+"registro-resumen-informacion-consultada-primaria": [
+{
+"pregunta": "¿Qué es registrar información?",
+"opciones": [
+"Dibujar sin escribir ni una palabra",
+"Copiar todo el libro sin saltarte nada",
+"Anotar lo importante que consultaste"
+],
+"correcta": 2,
+"porque": "Registrar es anotar lo importante de lo que consultaste."
+},
+{
+"pregunta": "Lees: Los delfines nadan en el mar. ¿Cuál es una palabra clave?",
+"opciones": [
+"el, porque se repite en muchas frases",
+"en",
+"delfines"
+],
+"correcta": 2,
+"porque": "Las palabras clave son las más importantes, como delfines."
+},
+{
+"pregunta": "¿Cuál es una fuente de información?",
+"opciones": [
+"Un libro",
+"Un borrador de goma para el pizarrón",
+"Un sacapuntas"
+],
+"correcta": 0,
+"porque": "Los libros, los videos y las personas son fuentes."
+},
+{
+"pregunta": "Tu maestra te pide anotar de dónde sacaste un dato. Escribes: libro de ciencias. ¿Qué anotaste?",
+"opciones": [
+"El nombre de tu mejor amigo del salón",
+"Tu opinión",
+"La fuente"
+],
+"correcta": 2,
+"porque": "La fuente dice de dónde viene la información."
+},
+{
+"pregunta": "Al resumir, ¿cuántas palabras usas?",
+"opciones": [
+"Pocas, solo las importantes",
+"Más que las del texto original",
+"Todas las del texto completo"
+],
+"correcta": 0,
+"porque": "Un resumen usa pocas palabras con lo más importante."
+}
+],
+"silabas-primaria": [
+{
+"pregunta": "¿Cuántas sílabas tiene mariposa?",
+"opciones": [
+"4",
+"5, porque tiene cinco vocales",
+"3"
+],
+"correcta": 0,
+"porque": "Ma-ri-po-sa tiene cuatro golpes de voz, o cuatro palmadas."
+},
+{
+"pregunta": "Separa en sílabas la palabra pelota.",
+"opciones": [
+"p-e-l-o-t-a, cada letra sola",
+"pe-lo-ta",
+"pel-ot-a"
+],
+"correcta": 1,
+"porque": "Al aplaudir pe-lo-ta se escuchan tres sílabas."
+},
+{
+"pregunta": "¿Cuántas sílabas tiene la palabra sol?",
+"opciones": [
+"3, una por cada letra de la palabra",
+"1",
+"2"
+],
+"correcta": 1,
+"porque": "Sol se dice con un solo golpe de voz."
+},
+{
+"pregunta": "¿Qué tiene toda sílaba?",
+"opciones": [
+"Siempre dos consonantes y una vocal al final",
+"Solo consonantes",
+"Al menos una vocal"
+],
+"correcta": 2,
+"porque": "Cada sílaba tiene al menos una vocal."
+},
+{
+"pregunta": "Aplaudes las sílabas de me-sa. ¿Cuántas palmadas das?",
+"opciones": [
+"1, porque es una sola palabra",
+"3",
+"2"
+],
+"correcta": 2,
+"porque": "Hay dos sílabas, así que das dos palmadas."
+}
+],
+"sustantivos-primaria": [
+{
+"pregunta": "¿Cuál de estas palabras es un sustantivo?",
+"opciones": [
+"rápido, porque se dice mucho en el salón",
+"saltar",
+"silla"
+],
+"correcta": 2,
+"porque": "Silla nombra una cosa, por eso es sustantivo."
+},
+{
+"pregunta": "¿Qué nombra un sustantivo?",
+"opciones": [
+"Solo cómo son las cosas, como grande o pequeño",
+"Solo acciones, como correr y saltar",
+"Personas, animales, cosas, lugares o ideas"
+],
+"correcta": 2,
+"porque": "Un sustantivo nombra, y un verbo dice la acción."
+},
+{
+"pregunta": "¿Cuál es un sustantivo propio?",
+"opciones": [
+"niño, porque habla de una persona cualquiera",
+"Oaxaca",
+"ciudad"
+],
+"correcta": 1,
+"porque": "Oaxaca es el nombre exacto de un lugar y va con mayúscula."
+},
+{
+"pregunta": "¿Con cuál palabra puedes decir la antes?",
+"opciones": [
+"mesa",
+"cantar",
+"bonito, porque describe cómo es algo"
+],
+"correcta": 0,
+"porque": "La mesa se puede decir con la, así que es un sustantivo."
+},
+{
+"pregunta": "La palabra amor nombra algo. ¿Qué nombra?",
+"opciones": [
+"Un lugar",
+"Un animal que vive en el campo",
+"Una idea"
+],
+"correcta": 2,
+"porque": "Los sustantivos también pueden nombrar ideas."
+}
+],
+"testimonios-del-pasado-primaria": [
+{
+"pregunta": "¿Qué es un testimonio oral?",
+"opciones": [
+"Una carta guardada en una caja",
+"Lo que alguien cuenta",
+"Un retrato colgado en la pared de la casa"
+],
+"correcta": 1,
+"porque": "El testimonio oral es lo que una persona cuenta con su voz."
+},
+{
+"pregunta": "Tienes una carta vieja de tu bisabuela. ¿Qué tipo de testimonio es?",
+"opciones": [
+"Escrito",
+"Oral",
+"Fotográfico, porque tiene letras y dibujos"
+],
+"correcta": 0,
+"porque": "Una carta es un testimonio escrito."
+},
+{
+"pregunta": "Tu familia guarda un retrato de hace muchos años. ¿Qué testimonio es?",
+"opciones": [
+"Oral",
+"Fotográfico",
+"Escrito, porque se guarda en un sobre"
+],
+"correcta": 1,
+"porque": "Un retrato es un testimonio fotográfico."
+},
+{
+"pregunta": "Miras una foto vieja y quieres saber el lugar. ¿Qué te preguntas?",
+"opciones": [
+"¿Dónde está?",
+"¿Cuándo se tomó?",
+"¿Quién aparece en la foto antigua?"
+],
+"correcta": 0,
+"porque": "Dónde está te dice el lugar de la foto."
+},
+{
+"pregunta": "Encuentras una foto vieja de tu familia. ¿Qué haces con ella?",
+"opciones": [
+"La uso para dibujar encima con lápiz",
+"La guardo con cuidado",
+"La dejo en el patio para que se ponga bonita"
+],
+"correcta": 1,
+"porque": "Los testimonios guardan el pasado y se pueden perder."
+}
+],
+"textos-con-instrucciones-primaria": [
+{
+"pregunta": "Lees: Corta el papel. ¿Cuál es el verbo de acción?",
+"opciones": [
+"el, porque va antes del papel",
+"papel",
+"Corta"
+],
+"correcta": 2,
+"porque": "El verbo de acción dice qué debes hacer: corta."
+},
+{
+"pregunta": "¿Para qué se usan números en un instructivo?",
+"opciones": [
+"Para contar cuántas hojas tiene el libro",
+"Para marcar el orden de los pasos",
+"Para decir cuántos años tiene quien lo escribió"
+],
+"correcta": 1,
+"porque": "Los números muestran qué paso va primero y cuál sigue."
+},
+{
+"pregunta": "¿Qué parte del instructivo dice lo que necesitas para hacerlo?",
+"opciones": [
+"Final, donde dice los resultados",
+"Materiales",
+"Título"
+],
+"correcta": 1,
+"porque": "Los materiales dicen qué necesitas antes de empezar."
+},
+{
+"pregunta": "Vas a seguir un instructivo. ¿Qué haces antes de empezar?",
+"opciones": [
+"Empiezo por el último paso",
+"Hago solo los pasos que me parecen más fáciles",
+"Lo leo todo y junto materiales"
+],
+"correcta": 2,
+"porque": "Conviene leer todo, juntar materiales y seguir los pasos en orden."
+},
+{
+"pregunta": "¿Cuál de estos es un instructivo?",
+"opciones": [
+"Pasos para hacer un avión de papel",
+"Un cuento de un conejo que se pierde",
+"Una opinión sobre tu comida favorita del recreo"
+],
+"correcta": 0,
+"porque": "Un instructivo dice paso a paso cómo hacer algo."
+}
+],
+"textos-para-autoridades-primaria": [
+{
+"pregunta": "¿Cuál es un saludo respetuoso para el director?",
+"opciones": [
+"Estimado director:",
+"Oye, director",
+"Hola amigo, ¿qué onda?"
+],
+"correcta": 0,
+"porque": "Un saludo respetuoso es parte de un escrito para autoridades."
+},
+{
+"pregunta": "¿Qué va al final de una carta para una autoridad?",
+"opciones": [
+"Una burla",
+"Agradecimiento y firma",
+"Una orden para que haga lo que pides ya"
+],
+"correcta": 1,
+"porque": "Al final se agradece y se firma."
+},
+{
+"pregunta": "Quieres pedir que pinten tu salón. ¿Cuál frase es más amable?",
+"opciones": [
+"Quiero que pinten mi salón hoy mismo.",
+"Le pedimos, por favor, que pinte el salón.",
+"Pinte el salón ya."
+],
+"correcta": 1,
+"porque": "Pedir por favor muestra respeto y amabilidad."
+},
+{
+"pregunta": "¿Para qué sirve un texto para una autoridad?",
+"opciones": [
+"Para contar un cuento inventado",
+"Para dar órdenes a la persona que lo lee",
+"Para pedir algo con respeto"
+],
+"correcta": 2,
+"porque": "Es un escrito respetuoso para pedir algo a una autoridad."
+},
+{
+"pregunta": "Ya saludaste y explicaste tu petición en la carta. ¿Qué sigue?",
+"opciones": [
+"Agradecer y firmar",
+"Pedir lo mismo con una voz de enojo",
+"Volver a saludar"
+],
+"correcta": 0,
+"porque": "Después de la petición se agradece y se firma."
+}
+]
+}

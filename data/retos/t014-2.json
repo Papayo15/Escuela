@@ -1,0 +1,522 @@
+{
+"comparar-numeros-negativos-secundaria": [
+{
+"pregunta": "¿Cuál número es mayor: $-1$ o $-8$?",
+"opciones": [
+"El $-1$",
+"El $-8$",
+"Son iguales"
+],
+"correcta": 0,
+"porque": "Entre negativos, es mayor el más cercano al cero."
+},
+{
+"pregunta": "¿Cuál número es menor: 0 o $-4$?",
+"opciones": [
+"El $-4$",
+"Son iguales",
+"El 0"
+],
+"correcta": 0,
+"porque": "Todo negativo es menor que 0."
+},
+{
+"pregunta": "Ordena de menor a mayor: $-1$, 3, $-9$, 0.",
+"opciones": [
+"$-9$, $-1$, 0, 3",
+"$-1$, $-9$, 0, 3",
+"0, $-1$, $-9$, 3, empezando por el cero"
+],
+"correcta": 0,
+"porque": "En la recta, el de más a la izquierda es el menor: $-9$."
+},
+{
+"pregunta": "¿Cuál es mayor: $-50$ o $1$?",
+"opciones": [
+"El 1, porque es positivo",
+"Son iguales, porque los dos son enteros",
+"El $-50$, porque tiene más cifras"
+],
+"correcta": 0,
+"porque": "Todo número positivo es mayor que cualquier negativo."
+},
+{
+"pregunta": "En tu escuela miden tres ciudades: $-4$ °C, $-9$ °C y $-1$ °C. ¿Cuál es la más fría?",
+"opciones": [
+"$-4$ °C",
+"$-9$ °C",
+"$-1$ °C"
+],
+"correcta": 1,
+"porque": "El $-9$ está más lejos del cero, así que es el menor."
+}
+],
+"construccion-figuras-congruencia-semejanza": [
+{
+"pregunta": "Un triángulo rectángulo tiene catetos de 9 y 12 cm. ¿Cuánto mide la hipotenusa?",
+"opciones": [
+"21 cm, sumando los catetos",
+"15 cm, con Pitágoras",
+"225 cm, sin sacar la raíz"
+],
+"correcta": 1,
+"porque": "$9^2 + 12^2 = 225$, y la raíz de 225 es 15."
+},
+{
+"pregunta": "La hipotenusa mide 15 y un cateto mide 12. ¿Cuánto mide el otro cateto?",
+"opciones": [
+"27, sumando los dos números",
+"9, porque la raíz de 81 es 9",
+"3, restando solamente 15 menos 12"
+],
+"correcta": 1,
+"porque": "$15^2 - 12^2 = 81$, y su raíz es 9."
+},
+{
+"pregunta": "Dos figuras semejantes tienen lados de 2 y 8. ¿Cuál es la razón entre ellos?",
+"opciones": [
+"$\\frac{2}{4}$, dividiendo mal los números",
+"$\\frac{1}{6}$, restando 8 menos 2",
+"$\\frac{1}{4}$, simplificando 2 entre 8"
+],
+"correcta": 2,
+"porque": "La razón $\\frac{2}{8}$ se simplifica a $\\frac{1}{4}$."
+},
+{
+"pregunta": "¿Qué recta parte un lado de un triángulo por la mitad, en cruz?",
+"opciones": [
+"La mediatriz, que lo parte en cruz",
+"La bisectriz, que parte un ángulo",
+"La hipotenusa, el lado más largo"
+],
+"correcta": 0,
+"porque": "La mediatriz parte un lado por la mitad, en cruz."
+},
+{
+"pregunta": "En la escuela amplías un dibujo al doble en cuadros. ¿Cómo son el dibujo y su ampliación?",
+"opciones": [
+"Semejantes, igual forma y otro tamaño",
+"Distintos, porque la forma cambió",
+"Congruentes, porque son idénticos"
+],
+"correcta": 0,
+"porque": "Al ampliar, la forma se queda y el tamaño cambia."
+}
+],
+"criterios-de-congruencia-de-triangulos-secundaria": [
+{
+"pregunta": "Dos triángulos tienen sus tres lados iguales. ¿Qué criterio es?",
+"opciones": [
+"LLL, tres lados iguales",
+"ALA, dos ángulos y un lado",
+"LAL, dos lados y un ángulo"
+],
+"correcta": 0,
+"porque": "LLL significa que los tres lados son iguales."
+},
+{
+"pregunta": "¿Qué tiene que ser igual en el criterio LAL?",
+"opciones": [
+"Dos lados y cualquier ángulo del triángulo",
+"Dos lados y el ángulo entre ellos",
+"Tres ángulos, sin importar los lados"
+],
+"correcta": 1,
+"porque": "En LAL el ángulo va en medio de los dos lados iguales."
+},
+{
+"pregunta": "Dos triángulos tienen los tres ángulos iguales (AAA). ¿Qué sabes de ellos?",
+"opciones": [
+"Son semejantes, de otro tamaño",
+"Son congruentes, porque son iguales",
+"Son el mismo triángulo, girado"
+],
+"correcta": 0,
+"porque": "AAA solo da semejanza: misma forma, otro tamaño."
+},
+{
+"pregunta": "Un triángulo mide 3, 4 y 5 cm de lado. Otro mide también 3, 4 y 5 cm. ¿Son congruentes?",
+"opciones": [
+"Sí, por LLL: lados iguales",
+"No, porque solo cuentan los lados de 6 cm",
+"No, porque falta saber sus ángulos"
+],
+"correcta": 0,
+"porque": "Con los tres lados iguales se cumple el criterio LLL."
+},
+{
+"pregunta": "Recortas dos triángulos iguales y los encimas. ¿Qué ves?",
+"opciones": [
+"Que coinciden por completo",
+"Que uno sale más grande que el otro",
+"Que solo coincide un lado de cada uno"
+],
+"correcta": 0,
+"porque": "Los triángulos congruentes son como galletas del mismo molde."
+}
+],
+"cuadraticas-incompletas-secundaria": [
+{
+"pregunta": "Resuelve $x^2 = 81$.",
+"opciones": [
+"$x = 9$ solamente, porque la raíz es positiva",
+"$x = 9$ o $x = -9$",
+"$x = 40.5$, dividiendo 81 entre 2"
+],
+"correcta": 1,
+"porque": "Hay dos números que al cuadrado dan 81: 9 y $-9$."
+},
+{
+"pregunta": "Resuelve $5x^2 = 20$.",
+"opciones": [
+"$x = 4$ o $x = -4$, sin dividir entre 5",
+"$x = 15$, restando 5 de 20",
+"$x = 2$ o $x = -2$"
+],
+"correcta": 2,
+"porque": "Divide entre 5 y queda $x^2 = 4$, que da 2 y $-2$."
+},
+{
+"pregunta": "Resuelve $x^2 - 7x = 0$.",
+"opciones": [
+"$x = -7$ o $x = 7$, sacando raíz",
+"$x = 7$ solamente, quitando la $x$",
+"$x = 0$ o $x = 7$, sacando factor común"
+],
+"correcta": 2,
+"porque": "Queda $x(x - 7) = 0$, y salen 0 y 7."
+},
+{
+"pregunta": "Resuelve $2x^2 - 10x = 0$.",
+"opciones": [
+"$x = 2$ o $x = 10$, con los números de adelante",
+"$x = 5$ solamente, quitando la $x$",
+"$x = 0$ o $x = 5$, sacando factor común"
+],
+"correcta": 2,
+"porque": "Queda $2x(x - 5) = 0$, y salen 0 y 5."
+},
+{
+"pregunta": "¿Por qué no debes dividir entre $x$ en $x^2 - 6x = 0$?",
+"opciones": [
+"Porque pierdes la solución 0",
+"Porque la $x$ no se puede dividir nunca entre nada",
+"Porque el resultado siempre sale negativo"
+],
+"correcta": 0,
+"porque": "Al dividir entre $x$ se pierde la solución $x = 0$."
+}
+],
+"cuadraticas-por-factorizacion-secundaria": [
+{
+"pregunta": "Resuelve $x^2 + 6x + 8 = 0$.",
+"opciones": [
+"$x = -2$ o $x = -4$, con factores 2 y 4",
+"$x = 2$ o $x = 4$, sin cambiar los signos",
+"$x = 6$ o $x = 8$, con los números dados"
+],
+"correcta": 0,
+"porque": "Queda $(x + 2)(x + 4) = 0$, y $x = -2$ o $x = -4$."
+},
+{
+"pregunta": "Resuelve $x^2 - 7x + 12 = 0$.",
+"opciones": [
+"$x = 3$ o $x = 4$, con factores $-3$ y $-4$",
+"$x = -3$ o $x = -4$, con signos de factores",
+"$x = 7$ o $x = 12$, con los números dados"
+],
+"correcta": 0,
+"porque": "Queda $(x - 3)(x - 4) = 0$, y $x = 3$ o $x = 4$."
+},
+{
+"pregunta": "Resuelve $x^2 + x - 12 = 0$.",
+"opciones": [
+"$x = 3$ o $x = -4$, con factores $-3$ y $+4$",
+"$x = -3$ o $x = 4$, con los signos al revés",
+"$x = 1$ o $x = 12$, con los números dados"
+],
+"correcta": 0,
+"porque": "Queda $(x - 3)(x + 4) = 0$, y $x = 3$ o $x = -4$."
+},
+{
+"pregunta": "Resuelve $x^2 - 25 = 0$ por factores.",
+"opciones": [
+"$x = 5$ o $x = -5$, con $(x-5)(x+5)$",
+"$x = 5$ solamente, como si fuera suma",
+"$x = 25$ o $x = -25$, sin sacar raíz"
+],
+"correcta": 0,
+"porque": "Queda $(x - 5)(x + 5) = 0$, y salen 5 y $-5$."
+},
+{
+"pregunta": "Si un producto de dos factores da cero, ¿qué pasa?",
+"opciones": [
+"Los dos factores son iguales a uno",
+"Alguno de los factores es cero",
+"Los dos factores deben sumar cero siempre"
+],
+"correcta": 1,
+"porque": "Esa es la regla del producto cero y por eso se igualan los factores a cero."
+}
+],
+"decimales-periodicos-y-fracciones-secundaria": [
+{
+"pregunta": "Convierte $0.\\overline{7}$ a fracción.",
+"opciones": [
+"$\\frac{7}{99}$, con dos nueves por una cifra",
+"$\\frac{7}{9}$, un nueve por una cifra",
+"$\\frac{7}{10}$, como un decimal normal"
+],
+"correcta": 1,
+"porque": "El periodo va arriba y abajo un 9 por cada cifra."
+},
+{
+"pregunta": "Convierte $0.\\overline{45}$ a fracción simplificada.",
+"opciones": [
+"$\\frac{45}{9}$, con un solo nueve abajo",
+"$\\frac{45}{99}$, sin simplificar",
+"$\\frac{5}{11}$, simplificando $\\frac{45}{99}$"
+],
+"correcta": 2,
+"porque": "$\\frac{45}{99}$ se simplifica entre 9 y queda $\\frac{5}{11}$."
+},
+{
+"pregunta": "Un periodo tiene tres cifras. ¿Cuántos nueves van abajo en la fracción?",
+"opciones": [
+"Un solo nueve, como en $\\frac{1}{9}$",
+"Tres nueves, uno por cada cifra",
+"Tres ceros, como en un decimal normal"
+],
+"correcta": 1,
+"porque": "Abajo va un 9 por cada cifra del periodo."
+},
+{
+"pregunta": "¿Cuál es el periodo de $0.181818...$?",
+"opciones": [
+"1, porque es la primera cifra",
+"0.18, con el cero adelante",
+"18, las cifras que se repiten"
+],
+"correcta": 2,
+"porque": "El periodo es la parte que se repite: 18."
+},
+{
+"pregunta": "Divides 1 entre 9 en tu escuela. ¿Qué resultado sale?",
+"opciones": [
+"$0.\\overline{1}$",
+"$0.9$, porque el número de abajo es 9",
+"$0.19$, y ya termina ahí"
+],
+"correcta": 0,
+"porque": "Los unos se repiten sin fin, así que sale $0.111...$."
+}
+],
+"desviacion-media-secundaria": [
+{
+"pregunta": "¿Qué dice la desviación media?",
+"opciones": [
+"Cuál es el dato mayor menos el dato menor",
+"Cuál es el dato que más se repite en la lista",
+"Qué tan lejos están los datos de la media, en promedio"
+],
+"correcta": 2,
+"porque": "Mide la distancia promedio entre los datos y la media."
+},
+{
+"pregunta": "¿Cuál es el primer paso para calcular la desviación media?",
+"opciones": [
+"Sumar distancias sin saber la media",
+"Ordenar y tomar el dato central",
+"Calcular la media de los datos"
+],
+"correcta": 2,
+"porque": "Primero se necesita la media para medir distancias."
+},
+{
+"pregunta": "Calcula la desviación media de 2, 5 y 8.",
+"opciones": [
+"3, que es la distancia más grande",
+"5, que es la media de los datos",
+"2, porque las distancias suman 6"
+],
+"correcta": 2,
+"porque": "La media es 5, las distancias son 3, 0 y 3, y 6 entre 3 es 2."
+},
+{
+"pregunta": "Tus calificaciones fueron 8 y 10. ¿Cuál es la desviación media?",
+"opciones": [
+"2, que es la diferencia entre ambos",
+"1, cada dato está a 1 de la media",
+"9, que es la media de las dos"
+],
+"correcta": 1,
+"porque": "La media es 9 y cada dato está a 1 de ella."
+},
+{
+"pregunta": "Una lista de datos tiene desviación media 0. ¿Cómo son los datos?",
+"opciones": [
+"Todos negativos, con media cero",
+"Todos muy distintos entre sí",
+"Todos iguales, sin distancias"
+],
+"correcta": 2,
+"porque": "Si todos son iguales, la desviación media da 0."
+}
+],
+"dividir-ley-de-los-signos-secundaria": [
+{
+"pregunta": "Resuelve $(-30) \\div 5$.",
+"opciones": [
+"$6$, porque 30 y 5 son grandes",
+"$-35$, restando en lugar de dividir",
+"$-6$, porque los signos son distintos"
+],
+"correcta": 2,
+"porque": "Signos distintos dan negativo, y 30 entre 5 es 6."
+},
+{
+"pregunta": "Resuelve $28 \\div (-7)$.",
+"opciones": [
+"$4$, quitando el signo negativo",
+"$-4$, porque los signos son distintos",
+"$-21$, restando en lugar de dividir"
+],
+"correcta": 1,
+"porque": "Signos distintos dan negativo, y 28 entre 7 es 4."
+},
+{
+"pregunta": "Resuelve $(-45) \\div (-9)$.",
+"opciones": [
+"$-54$, multiplicando en vez de dividir",
+"$5$, porque dos negativos dan positivo",
+"$-5$, porque hay dos negativos"
+],
+"correcta": 1,
+"porque": "Signos iguales dan positivo, y 45 entre 9 es 5."
+},
+{
+"pregunta": "Al dividir, ¿qué resultado dan dos números con el mismo signo?",
+"opciones": [
+"Cero, porque se cancelan entre sí",
+"Negativo, porque se juntan dos signos",
+"Positivo, porque los signos se igualan"
+],
+"correcta": 2,
+"porque": "Signos iguales dan positivo al dividir."
+},
+{
+"pregunta": "Quieres repartir 12 dulces entre 0 amigos. ¿Qué pasa?",
+"opciones": [
+"Cada amigo recibe 12 dulces",
+"No se puede dividir entre 0",
+"Cada amigo recibe 0 dulces y sobran todos"
+],
+"correcta": 1,
+"porque": "Dividir entre cero no tiene sentido y no existe un resultado."
+}
+],
+"ecuaciones-ax-b-secundaria": [
+{
+"pregunta": "Resuelve $8x = 72$.",
+"opciones": [
+"$x = 64$, restando 8 de 72",
+"$x = 576$, multiplicando 8 por 72",
+"$x = 9$, dividiendo 72 entre 8"
+],
+"correcta": 2,
+"porque": "Lo que multiplica pasa dividiendo: 72 entre 8 es 9."
+},
+{
+"pregunta": "Resuelve $-5x = 35$.",
+"opciones": [
+"$x = 7$, porque ambos son positivos",
+"$x = 30$, restando 5 de 35",
+"$x = -7$, dividiendo 35 entre $-5$"
+],
+"correcta": 2,
+"porque": "35 entre $-5$ da $-7$, porque los signos son distintos."
+},
+{
+"pregunta": "Resuelve $\\frac{x}{6} = 4$.",
+"opciones": [
+"$x = 10$, sumando 6 y 4",
+"$x = \\frac{2}{3}$, dividiendo 4 entre 6",
+"$x = 24$, multiplicando por 6"
+],
+"correcta": 2,
+"porque": "Si está dividida, se multiplica: 4 por 6 es 24."
+},
+{
+"pregunta": "Resuelve $\\frac{2}{3}x = 10$.",
+"opciones": [
+"$x = 12$, sumando 2 y 10",
+"$x = 15$, por la fracción volteada",
+"$x = \\frac{20}{3}$, multiplicando por $\\frac{2}{3}$"
+],
+"correcta": 1,
+"porque": "Se multiplica por la fracción volteada: $10 \\times \\frac{3}{2} = 15$."
+},
+{
+"pregunta": "Cuatro cuadernos cuestan 80 pesos. ¿Qué ecuación y qué resultado dan el precio de uno?",
+"opciones": [
+"$4x = 80$, entonces $x = 20$",
+"$\\frac{x}{4} = 80$, entonces $x = 320$",
+"$x + 4 = 80$, entonces $x = 76$"
+],
+"correcta": 0,
+"porque": "Cuatro cuadernos iguales dan $4x = 80$, y $80 \\div 4 = 20$."
+}
+],
+"ecuaciones-con-fracciones-secundaria": [
+{
+"pregunta": "¿Para qué se multiplica toda la ecuación por el denominador común?",
+"opciones": [
+"Para quitar las fracciones",
+"Para que la ecuación tenga más soluciones",
+"Para que el resultado salga siempre negativo"
+],
+"correcta": 0,
+"porque": "Así quedan números enteros y es más fácil resolver."
+},
+{
+"pregunta": "¿Cuál es un denominador común de $\\frac{1}{3}$ y $\\frac{1}{4}$?",
+"opciones": [
+"12, porque 3 y 4 caben en 12",
+"1, porque es el más pequeño",
+"7, sumando los números de abajo"
+],
+"correcta": 0,
+"porque": "El 12 se divide entre 3 y entre 4."
+},
+{
+"pregunta": "Resuelve $\\frac{x}{2} + \\frac{x}{3} = 10$.",
+"opciones": [
+"$x = 50$, sumando las fracciones mal",
+"$x = 12$, multiplicando todo por 6",
+"$x = 60$, sin juntar las $x$"
+],
+"correcta": 1,
+"porque": "Por 6 queda $3x + 2x = 60$, y $x = 12$."
+},
+{
+"pregunta": "Resuelve $\\frac{x + 2}{5} = 2$.",
+"opciones": [
+"$x = 8$, multiplicando por 5 y restando 2",
+"$x = 0$, quitando el 2 de los dos lados",
+"$x = 12$, multiplicando y sumando 2"
+],
+"correcta": 0,
+"porque": "Por 5 queda $x + 2 = 10$, y $x = 8$."
+},
+{
+"pregunta": "Repartes dulces entre 3 amigos y a cada uno le toca 5. ¿Cuántos dulces repartiste?",
+"opciones": [
+"8, sumando 3 y 5",
+"15, porque 3 × 5 = 15",
+"$\\frac{5}{3}$, dividiendo 5 entre 3"
+],
+"correcta": 1,
+"porque": "Repartir entre 3 y dar 5 a cada uno son 3 × 5 dulces."
+}
+]
+}

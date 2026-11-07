@@ -1,0 +1,522 @@
+{
+"comida-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice leche en inglés?",
+"opciones": [
+"juice",
+"meat",
+"milk"
+],
+"correcta": 2,
+"porque": "Milk es leche; juice es jugo."
+},
+{
+"pregunta": "¿Qué significa breakfast?",
+"opciones": [
+"Cena",
+"Comida",
+"Desayuno"
+],
+"correcta": 2,
+"porque": "Breakfast es el desayuno."
+},
+{
+"pregunta": "Quieres pedir una manzana con cortesía. ¿Qué dices?",
+"opciones": [
+"Apple I would, thank",
+"I am an apple, please",
+"I would like an apple, please"
+],
+"correcta": 2,
+"porque": "I would like significa quisiera, y se remata con please."
+},
+{
+"pregunta": "En la tienda de la escuela quieres queso. ¿Cómo se dice queso?",
+"opciones": [
+"cheese",
+"chicken",
+"rice"
+],
+"correcta": 0,
+"porque": "Cheese es queso."
+},
+{
+"pregunta": "¿Qué comida del día es dinner?",
+"opciones": [
+"El desayuno",
+"La cena",
+"La comida"
+],
+"correcta": 1,
+"porque": "Dinner es la cena."
+}
+],
+"dias-y-meses-en-ingles-primaria": [
+{
+"pregunta": "Completa: I swim ___ Saturday.",
+"opciones": [
+"on",
+"in",
+"at"
+],
+"correcta": 0,
+"porque": "Con los días de la semana se usa on."
+},
+{
+"pregunta": "Completa: My birthday is ___ June.",
+"opciones": [
+"to",
+"on",
+"in"
+],
+"correcta": 2,
+"porque": "Con los meses se usa in."
+},
+{
+"pregunta": "¿Cómo se dice viernes en inglés?",
+"opciones": [
+"Sunday",
+"Friday",
+"Thursday"
+],
+"correcta": 1,
+"porque": "Friday es viernes."
+},
+{
+"pregunta": "¿Cómo debes escribir el día lunes en inglés?",
+"opciones": [
+"Monday",
+"monday",
+"monday con minúscula"
+],
+"correcta": 0,
+"porque": "En inglés los días siempre llevan mayúscula inicial."
+},
+{
+"pregunta": "¿Qué mes es October?",
+"opciones": [
+"Noviembre",
+"Agosto",
+"Octubre"
+],
+"correcta": 2,
+"porque": "October es octubre."
+}
+],
+"do-y-does-para-preguntar-primaria": [
+{
+"pregunta": "Completa: ___ you like pizza?",
+"opciones": [
+"Does",
+"Are",
+"Do"
+],
+"correcta": 2,
+"porque": "Con you se usa do para preguntar."
+},
+{
+"pregunta": "Completa: ___ she like milk?",
+"opciones": [
+"Is, que no va con *like*",
+"Do, porque va con *you*",
+"Does, porque va con *she*"
+],
+"correcta": 2,
+"porque": "Con he o she se pregunta con does."
+},
+{
+"pregunta": "¿Cómo respondes que sí a Do you like cats?",
+"opciones": [
+"Yes, I like do",
+"Yes, I does",
+"Yes, I do"
+],
+"correcta": 2,
+"porque": "La respuesta corta es Yes, I do."
+},
+{
+"pregunta": "Quieres saber si tu amigo Luis juega futbol. ¿Qué preguntas?",
+"opciones": [
+"Do he play soccer?",
+"He does play soccer?",
+"Does he play soccer?"
+],
+"correcta": 2,
+"porque": "Con he se usa does y va al principio."
+},
+{
+"pregunta": "¿Qué significa No, she doesn't?",
+"opciones": [
+"No, yo no",
+"No, ella no",
+"Sí, ella sí"
+],
+"correcta": 1,
+"porque": "Doesn't habla de ella y dice que no."
+}
+],
+"estaciones-y-clima-en-ingles-primaria": [
+{
+"pregunta": "Está lloviendo. ¿Qué dices?",
+"opciones": [
+"It is cold and windy",
+"It is rainy",
+"It is sunny"
+],
+"correcta": 1,
+"porque": "Rainy significa lluvioso."
+},
+{
+"pregunta": "¿Qué estación es winter?",
+"opciones": [
+"Invierno",
+"Primavera",
+"Verano"
+],
+"correcta": 0,
+"porque": "Winter es invierno."
+},
+{
+"pregunta": "¿Qué significa cloudy?",
+"opciones": [
+"Soleado",
+"Nublado",
+"Con viento"
+],
+"correcta": 1,
+"porque": "Cloudy viene de cloud, nube, y significa nublado."
+},
+{
+"pregunta": "¿Cómo se dice verano en inglés?",
+"opciones": [
+"winter",
+"summer",
+"spring"
+],
+"correcta": 1,
+"porque": "Summer es verano."
+},
+{
+"pregunta": "Preguntas cómo está el clima. ¿Qué dices?",
+"opciones": [
+"What color is it?",
+"How old are you?",
+"What is the weather like?"
+],
+"correcta": 2,
+"porque": "What is the weather like? significa ¿cómo está el clima?"
+}
+],
+"he-she-it-we-y-they-primaria": [
+{
+"pregunta": "Completa: ___ is my sister. Hablas de Ana.",
+"opciones": [
+"It",
+"She",
+"He"
+],
+"correcta": 1,
+"porque": "Ana es una niña, así que usas she."
+},
+{
+"pregunta": "Hablas de una pelota roja. ¿Qué pronombre usas?",
+"opciones": [
+"He",
+"They",
+"It"
+],
+"correcta": 2,
+"porque": "It se usa para cosas y animales."
+},
+{
+"pregunta": "Hablas de Ana y Luis juntos. ¿Qué pronombre usas?",
+"opciones": [
+"She",
+"They",
+"We"
+],
+"correcta": 1,
+"porque": "They significa ellos o ellas."
+},
+{
+"pregunta": "Tú y tu amigo están en el patio. ¿Qué dices de ustedes?",
+"opciones": [
+"He is in the yard",
+"We are in the yard",
+"They are in the yard"
+],
+"correcta": 1,
+"porque": "We significa nosotros, y tú estás incluido."
+},
+{
+"pregunta": "¿Qué pronombre usas para Pedro, un niño?",
+"opciones": [
+"He",
+"She",
+"It"
+],
+"correcta": 0,
+"porque": "He se usa para un niño o un señor."
+}
+],
+"how-many-para-contar-primaria": [
+{
+"pregunta": "¿Qué significa How many?",
+"opciones": [
+"¿Cómo estás?",
+"¿Cuántos?",
+"¿Dónde está?"
+],
+"correcta": 1,
+"porque": "How many pregunta cuántos o cuántas."
+},
+{
+"pregunta": "Completa: How many ___ do you have?",
+"opciones": [
+"pen",
+"a pen",
+"pens"
+],
+"correcta": 2,
+"porque": "Después de how many va la cosa en plural."
+},
+{
+"pregunta": "Te preguntan How many books do you have? y tienes cinco. ¿Qué respondes?",
+"opciones": [
+"I am five books",
+"I have five books",
+"I have five book"
+],
+"correcta": 1,
+"porque": "Con cinco, books va en plural."
+},
+{
+"pregunta": "Quieres saber cuántas sillas hay en el salón. ¿Qué preguntas?",
+"opciones": [
+"How many chairs are there?",
+"How many chair are there?",
+"How many are chairs there?"
+],
+"correcta": 0,
+"porque": "How many va con la cosa en plural: chairs."
+},
+{
+"pregunta": "¿Cómo dices «Hay dos gatos»?",
+"opciones": [
+"There is two cats",
+"There are two cats",
+"There are two cat"
+],
+"correcta": 1,
+"porque": "Con varios se usa there are y la s en cats."
+}
+],
+"i-am-you-are-primeros-pasos-primaria": [
+{
+"pregunta": "Completa: She ___ my sister.",
+"opciones": [
+"am",
+"is",
+"are"
+],
+"correcta": 1,
+"porque": "Con she se usa is."
+},
+{
+"pregunta": "Completa: I ___ nine.",
+"opciones": [
+"are",
+"is",
+"am"
+],
+"correcta": 2,
+"porque": "Con I siempre va am."
+},
+{
+"pregunta": "Completa: You ___ my friend.",
+"opciones": [
+"is",
+"are",
+"am"
+],
+"correcta": 1,
+"porque": "Con you se usa are."
+},
+{
+"pregunta": "¿Cómo se dice «Él es alto»?",
+"opciones": [
+"Is tall",
+"He is tall",
+"He are tall"
+],
+"correcta": 1,
+"porque": "En inglés no puedes quitar a la persona y con he va is."
+},
+{
+"pregunta": "¿Cómo se acorta I am?",
+"opciones": [
+"Iam",
+"I'm",
+"I's"
+],
+"correcta": 1,
+"porque": "I am se acorta como I'm."
+}
+],
+"i-have-decir-lo-que-tengo-primaria": [
+{
+"pregunta": "Completa: He ___ a bike.",
+"opciones": [
+"have",
+"has",
+"haves"
+],
+"correcta": 1,
+"porque": "Con he se usa has."
+},
+{
+"pregunta": "Completa: I ___ two brothers.",
+"opciones": [
+"am",
+"have",
+"has"
+],
+"correcta": 1,
+"porque": "Con I se usa have."
+},
+{
+"pregunta": "¿Cómo dices «No tengo gato»? Gato es cat.",
+"opciones": [
+"I don't have a cat",
+"I have don't a cat",
+"I no have a cat"
+],
+"correcta": 0,
+"porque": "Para negar se usa don't antes de have."
+},
+{
+"pregunta": "Quieres saber si tu compañera tiene una pluma. ¿Qué preguntas?",
+"opciones": [
+"Does you have a pen?",
+"Do you have a pen?",
+"You have do a pen?"
+],
+"correcta": 1,
+"porque": "Con you se pregunta con do."
+},
+{
+"pregunta": "Te preguntan Do you have a pencil? y no tienes. ¿Qué respondes?",
+"opciones": [
+"No, I don't",
+"Yes, I don't",
+"No, I doesn't"
+],
+"correcta": 0,
+"porque": "La respuesta corta negativa es No, I don't."
+}
+],
+"i-like-y-i-dont-like-primaria": [
+{
+"pregunta": "¿Cómo dices que no te gusta el arroz?",
+"opciones": [
+"I don't like rice",
+"I no like rice",
+"I like don't rice"
+],
+"correcta": 0,
+"porque": "Don't va antes de like para negar."
+},
+{
+"pregunta": "¿Qué significa I like apples?",
+"opciones": [
+"Me gustan las manzanas",
+"No me gustan las manzanas",
+"Tengo manzanas"
+],
+"correcta": 0,
+"porque": "I like significa me gusta o me gustan."
+},
+{
+"pregunta": "Preguntas si a tu amigo le gusta el futbol. ¿Qué dices?",
+"opciones": [
+"You like do soccer?",
+"Do you like soccer?",
+"Does like you soccer?"
+],
+"correcta": 1,
+"porque": "Con you se pregunta con Do you like...?"
+},
+{
+"pregunta": "Te preguntan Do you like milk? y no te gusta. ¿Qué respondes?",
+"opciones": [
+"No, I do",
+"Yes, I do",
+"No, I don't"
+],
+"correcta": 2,
+"porque": "Si no te gusta, dices No, I don't."
+},
+{
+"pregunta": "Quieres decir que te gustan los gatos en general. ¿Cuál es correcta?",
+"opciones": [
+"I like cat",
+"I like cats",
+"I likes cats"
+],
+"correcta": 1,
+"porque": "Para hablar en general se usa el plural: cats."
+}
+],
+"la-casa-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice cocina en inglés?",
+"opciones": [
+"kitchen",
+"bathroom",
+"bedroom"
+],
+"correcta": 0,
+"porque": "Kitchen es cocina."
+},
+{
+"pregunta": "¿Qué significa window?",
+"opciones": [
+"Ventana",
+"Mesa",
+"Puerta"
+],
+"correcta": 0,
+"porque": "Window es ventana y door es puerta."
+},
+{
+"pregunta": "Completa: The table is ___ the kitchen.",
+"opciones": [
+"at",
+"on",
+"in"
+],
+"correcta": 2,
+"porque": "Para decir dónde está algo se usa in."
+},
+{
+"pregunta": "¿Cómo se dice baño en inglés?",
+"opciones": [
+"bedroom",
+"living room",
+"bathroom"
+],
+"correcta": 2,
+"porque": "Bathroom es baño."
+},
+{
+"pregunta": "¿Qué significa bedroom?",
+"opciones": [
+"Sala",
+"Comedor",
+"Recámara"
+],
+"correcta": 2,
+"porque": "Bedroom es el cuarto de la cama, la recámara."
+}
+]
+}

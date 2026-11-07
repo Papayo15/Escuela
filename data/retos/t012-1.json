@@ -1,0 +1,522 @@
+{
+"conquista-del-norte-y-de-otras-regiones-primaria": [
+{
+"pregunta": "¿Quiénes avanzaron hacia otras regiones después de 1521?",
+"opciones": [
+"Los mayas, que salieron de sus ciudades",
+"Los españoles, con armas y alianzas",
+"Los mexicas, que habían ganado la guerra"
+],
+"correcta": 1,
+"porque": "Tras 1521 los españoles avanzaron hacia otras regiones."
+},
+{
+"pregunta": "¿Qué región del sureste resistió mucho tiempo a los españoles?",
+"opciones": [
+"El área maya, con larga resistencia",
+"El occidente, en Michoacán y Nueva Galicia",
+"El norte, donde viven los chichimecas"
+],
+"correcta": 0,
+"porque": "El área maya está en el sureste y resistió mucho tiempo."
+},
+{
+"pregunta": "¿Qué descubrimiento en 1546 impulsó la expansión hacia el norte?",
+"opciones": [
+"Oro en el sureste de México",
+"Petróleo en las costas del golfo",
+"Plata en Zacatecas"
+],
+"correcta": 2,
+"porque": "El hallazgo de plata hizo que los españoles quisieran ir al norte."
+},
+{
+"pregunta": "Luis dice que la guerra chichimeca duró unos 5 años. ¿Cuánto duró en realidad?",
+"opciones": [
+"Cerca de 5 años como dice Luis",
+"Cerca de 50 años",
+"Más de 500 años seguidos"
+],
+"correcta": 1,
+"porque": "Los chichimecas resistieron por décadas, cerca de 50 años."
+},
+{
+"pregunta": "Tu maestra pide investigar cómo fue la conquista en tu región. ¿Qué dos cosas usaron los españoles?",
+"opciones": [
+"Armas, alianzas y misiones",
+"Solo barcos que cruzaban los ríos",
+"Solo cartas y regalos para los pueblos"
+],
+"correcta": 0,
+"porque": "Avanzaron por las armas, las alianzas y las misiones."
+}
+],
+"construccion-colectiva-paz-primaria": [
+{
+"pregunta": "¿Cómo se construye la paz?",
+"opciones": [
+"Solo cuando los maestros castigan a todos",
+"Entre todos, con respeto y diálogo",
+"Cuando cada niño juega solo y no habla con nadie"
+],
+"correcta": 1,
+"porque": "La paz se construye entre todos con respeto y diálogo."
+},
+{
+"pregunta": "Ana y Beto discuten por un balón. ¿Qué es lo mejor para tener paz?",
+"opciones": [
+"Escuchar y acordar cómo turnarse",
+"Gritar más fuerte para ganar el balón",
+"Guardar el balón y no dejar jugar a nadie"
+],
+"correcta": 0,
+"porque": "Escuchar y acordar ayuda a resolver el problema con buen trato."
+},
+{
+"pregunta": "¿Qué más incluye la paz además de no pelear?",
+"opciones": [
+"Justicia y buen trato",
+"Silencio total en todo momento",
+"Que nadie dé su opinión"
+],
+"correcta": 0,
+"porque": "La paz también es justicia y buen trato."
+},
+{
+"pregunta": "¿Qué significa que la paz no es solo que no haya golpes?",
+"opciones": [
+"Que los golpes se permiten si nadie ve",
+"Que se vale pelear con palabras feas",
+"Que también se necesita respeto y justicia"
+],
+"correcta": 2,
+"porque": "Sin golpes aún puede haber burlas; la paz pide respeto y justicia."
+},
+{
+"pregunta": "Para tener un salón en paz, ¿qué acción ayuda?",
+"opciones": [
+"Pedir la palabra y escuchar a los demás",
+"Quitar el lugar a quien llegó tarde al salón",
+"Hacer burla de quien se equivoca en clase"
+],
+"correcta": 0,
+"porque": "Escuchar y hablar con respeto ayuda a convivir en paz."
+}
+],
+"cuidado-ecosistemas-regeneracion-primaria": [
+{
+"pregunta": "¿Qué es regenerar un lugar dañado?",
+"opciones": [
+"Ayudar a que se recupere",
+"Taparlo para que no se vea",
+"Dejarlo igual para siempre"
+],
+"correcta": 0,
+"porque": "Regenerar es ayudar a que un lugar dañado se recupere."
+},
+{
+"pregunta": "¿Cuál de estas acciones ayuda a regenerar?",
+"opciones": [
+"Cortar árboles que están sanos",
+"Plantar árboles en un lugar dañado",
+"Tirar basura en el patio de la escuela"
+],
+"correcta": 1,
+"porque": "Plantar árboles ayuda a que un lugar se recupere."
+},
+{
+"pregunta": "¿Qué hace la palabra preservar?",
+"opciones": [
+"Reparar lo que ya se rompió por completo",
+"Cambiar un lugar por otro distinto y nuevo",
+"Proteger lo que está sano"
+],
+"correcta": 2,
+"porque": "Preservar protege lo sano y regenerar repara lo dañado."
+},
+{
+"pregunta": "Un río de tu colonia tiene basura. ¿Qué acción lo regenera?",
+"opciones": [
+"Tirar más bolsas en la orilla",
+"Limpiar el río y sacar la basura",
+"Poner un letrero y no limpiar nada"
+],
+"correcta": 1,
+"porque": "Limpiar el río ayuda a que se recupere."
+},
+{
+"pregunta": "En un área verde de tu escuela hay animales sanos. ¿Qué acción es preservar?",
+"opciones": [
+"Sacar los árboles para hacer una cancha grande",
+"Pintar las bardas del patio de rojo",
+"Proteger a los animales"
+],
+"correcta": 2,
+"porque": "Preservar es proteger lo que ya está sano."
+}
+],
+"decisiones-responsables-riesgos-primaria": [
+{
+"pregunta": "¿Qué hace una decisión responsable?",
+"opciones": [
+"Se toma sin pensar porque es más rápido",
+"Piensa en lo que puede pasar",
+"Elige lo que hacen todos aunque cause daño"
+],
+"correcta": 1,
+"porque": "Una decisión responsable piensa antes en lo que puede pasar."
+},
+{
+"pregunta": "¿Cuál es el orden de los pasos para decidir?",
+"opciones": [
+"Para, piensa, pregunta y decide",
+"Decide, para, piensa y pregunta después de actuar",
+"Pregunta, decide y piensa cuando ya pasó todo"
+],
+"correcta": 0,
+"porque": "Primero te detienes, piensas y preguntas; luego decides."
+},
+{
+"pregunta": "Unos niños te invitan a jugar en una azotea sin reja. ¿Qué haces?",
+"opciones": [
+"Digo que no y aviso a un adulto",
+"Voy rápido para que no se rían de mí",
+"Subo despacio y no cuento nada a nadie"
+],
+"correcta": 0,
+"porque": "Decir que no y avisar a un adulto te cuida."
+},
+{
+"pregunta": "En la escuela, un alumno corre junto a una escalera mojada. ¿Qué decisión es responsable?",
+"opciones": [
+"Correr también para alcanzarlo en las escaleras",
+"Mojar más el piso para que resbale otro",
+"Avisar a un maestro para evitar un golpe"
+],
+"correcta": 2,
+"porque": "Avisar ayuda a evitar un accidente."
+},
+{
+"pregunta": "¿Para qué sirve pensar antes de decidir?",
+"opciones": [
+"Para cuidar a ti y a otros",
+"Para que otros decidan siempre por ti y no pienses",
+"Para tardar mucho en cada cosa que haces"
+],
+"correcta": 0,
+"porque": "Pensar antes ayuda a evitar riesgos para ti y para otros."
+}
+],
+"democracia-vida-cotidiana-primaria": [
+{
+"pregunta": "En la vida diaria, ¿qué es democracia?",
+"opciones": [
+"Escuchar a todos y decidir en común",
+"Que decida siempre la persona más grande",
+"Que nadie hable para evitar problemas"
+],
+"correcta": 0,
+"porque": "Democracia es escuchar a todos y decidir en común."
+},
+{
+"pregunta": "En tu casa quieren decidir qué comer el domingo. ¿Qué es democrático?",
+"opciones": [
+"Que nadie coma lo que quiere y todos lo acepten",
+"Que el más fuerte elija sin preguntar a nadie",
+"Escuchar a todos y votar"
+],
+"correcta": 2,
+"porque": "Escuchar a todos y votar es decidir en común."
+},
+{
+"pregunta": "¿Qué quiere decir que las normas valen para todos?",
+"opciones": [
+"Solo los niños pequeños deben cumplirlas",
+"Los alumnos con más amigos pueden saltárselas",
+"Nadie está por encima de ellas"
+],
+"correcta": 2,
+"porque": "Las normas valen para todos; nadie está por encima."
+},
+{
+"pregunta": "En tu salón acuerdan que cada quien recoja su basura. ¿Quién debe cumplirlo?",
+"opciones": [
+"Solo los que se sientan adelante",
+"Todos los del grupo, sin excepción",
+"Solo quien no tiene amigos en él"
+],
+"correcta": 1,
+"porque": "Las normas valen para todos y nadie está por encima."
+},
+{
+"pregunta": "¿Qué es un buen ejemplo de decidir con votos?",
+"opciones": [
+"Elegir entre todos el juego del recreo",
+"Que una niña mande y los demás obedezcan siempre",
+"Decidir en secreto sin avisar al grupo"
+],
+"correcta": 0,
+"porque": "Votar permite que todos opinen y se cuente cada voto."
+}
+],
+"derechos-humanos-necesidades-basicas-primaria": [
+{
+"pregunta": "¿Qué protegen los derechos de la niñez?",
+"opciones": [
+"Solo los juguetes más caros del mercado",
+"Solo lo que decide el adulto más grande de casa",
+"Lo que necesitas para vivir bien"
+],
+"correcta": 2,
+"porque": "Los derechos protegen lo que toda persona necesita para vivir bien."
+},
+{
+"pregunta": "¿Cuál de estas es una necesidad básica?",
+"opciones": [
+"Una colección de calcomanías",
+"Un celular nuevo cada mes",
+"Comida, que necesitas para vivir"
+],
+"correcta": 2,
+"porque": "La comida es una necesidad básica para vivir."
+},
+{
+"pregunta": "Un niño trabaja todo el día y no va a la escuela. ¿Qué derecho se afecta?",
+"opciones": [
+"Elegir su ropa para la fiesta",
+"La educación, ir a la escuela",
+"Tener una mascota en casa"
+],
+"correcta": 1,
+"porque": "Si no va a la escuela, se afecta su derecho a la educación."
+},
+{
+"pregunta": "¿Qué derecho se respeta cuando dejas jugar a un compañero en el recreo?",
+"opciones": [
+"El derecho a manejar un coche",
+"El derecho al juego",
+"El derecho a no hacer tarea en toda la primaria"
+],
+"correcta": 1,
+"porque": "Dejar jugar respeta el derecho al juego de otros."
+},
+{
+"pregunta": "¿Qué necesidad cubre ir al doctor cuando estás enfermo?",
+"opciones": [
+"La salud, que cuida el doctor",
+"La necesidad de tener un coche",
+"El juego con amigos en el parque"
+],
+"correcta": 0,
+"porque": "Ir al doctor cuida tu salud."
+}
+],
+"desigualdades-genero-igualdad-primaria": [
+{
+"pregunta": "¿Cuándo hay desigualdad entre niñas y niños?",
+"opciones": [
+"Cuando se les trata distinto sin razón",
+"Cuando cada niño tiene un nombre diferente",
+"Cuando a todos se les da las mismas oportunidades"
+],
+"correcta": 0,
+"porque": "Hay desigualdad si se trata distinto a niñas o niños sin razón."
+},
+{
+"pregunta": "¿Qué es un estereotipo de género?",
+"opciones": [
+"Un juego que se practica solo en equipos mixtos",
+"Una ley que permite que todos estudien por igual",
+"Una idea fija de lo que deben hacer mujeres u hombres"
+],
+"correcta": 2,
+"porque": "Es una idea fija sobre lo que deben hacer mujeres u hombres."
+},
+{
+"pregunta": "Un niño quiere bailar y le dicen que eso es de niñas. ¿Qué es lo correcto?",
+"opciones": [
+"Decirle que solo puede jugar futbol con los niños",
+"Reírse de él para que no lo vuelva a hacer",
+"Todos pueden bailar y jugar"
+],
+"correcta": 2,
+"porque": "Todos pueden estudiar, jugar y decidir sin importar si son niñas o niños."
+},
+{
+"pregunta": "En la escuela, solo los niños levantan las cajas y las niñas solo cuentan. ¿Qué propones?",
+"opciones": [
+"Que cada quien haga lo que dicen los demás de su género",
+"Que todos participen en las dos tareas",
+"Que las niñas no entren a ayudar para evitar problemas"
+],
+"correcta": 1,
+"porque": "Para la igualdad, niñas y niños participan en todas las tareas."
+},
+{
+"pregunta": "¿Qué significa tener mismos derechos y mismas oportunidades?",
+"opciones": [
+"Cada quien tiene derechos según lo que le toca ser",
+"Solo los niños eligen el juego del recreo",
+"Todos pueden estudiar, jugar y decidir"
+],
+"correcta": 2,
+"porque": "Niñas y niños tienen los mismos derechos y oportunidades."
+}
+],
+"discriminacion-escuela-comunidad-primaria": [
+{
+"pregunta": "Un compañero habla distinto y se burlan de él. ¿Qué haces?",
+"opciones": [
+"Acompañarlo y avisar a un adulto",
+"Quedarte callado y seguir mirando",
+"Reírte para que no se burlen de ti"
+],
+"correcta": 0,
+"porque": "Si ves discriminación, no te rías y avisa."
+},
+{
+"pregunta": "Una niña habla diferente porque viene de otro pueblo y algunos se ríen. ¿Qué haces?",
+"opciones": [
+"Me río también para no quedarme solo con ella",
+"Imito su forma de hablar para hacer reír a todos",
+"No me río y aviso a un adulto"
+],
+"correcta": 2,
+"porque": "Si ves discriminación, no te rías y avisa a un adulto."
+},
+{
+"pregunta": "¿Por qué motivo no está bien tratar mal a alguien?",
+"opciones": [
+"Por compartir la merienda con los demás en el recreo",
+"Por su piel, su lengua o cómo habla",
+"Por haber llegado temprano a la escuela cada día"
+],
+"correcta": 1,
+"porque": "Nadie debe ser tratado mal por su piel, su lengua o su forma de hablar."
+},
+{
+"pregunta": "¿Cuál frase está contra la discriminación?",
+"opciones": [
+"Diferentes, pero iguales en derechos",
+"Cada quien debe juntarse solo con los que son iguales",
+"Quien habla distinto no debe participar en clase"
+],
+"correcta": 0,
+"porque": "Todas las personas son diferentes pero tienen los mismos derechos."
+},
+{
+"pregunta": "Si ves que a un compañero no lo dejan jugar por ser diferente, ¿qué haces?",
+"opciones": [
+"Lo invito a jugar y aviso a un maestro",
+"Me quedo viendo en silencio y no hago nada",
+"Me uno al grupo que no lo deja jugar con ellos"
+],
+"correcta": 0,
+"porque": "Invitarlo y avisar ayuda a frenar la discriminación."
+}
+],
+"estados-y-capitales-del-centro-de-mexico-primaria": [
+{
+"pregunta": "¿Cuál es la capital del Estado de México?",
+"opciones": [
+"Cuernavaca",
+"Pachuca",
+"Toluca"
+],
+"correcta": 2,
+"porque": "La capital del Estado de México es Toluca."
+},
+{
+"pregunta": "¿Cuál es la capital de Guanajuato?",
+"opciones": [
+"Querétaro",
+"Guanajuato",
+"León"
+],
+"correcta": 1,
+"porque": "Guanajuato lleva el mismo nombre que su estado."
+},
+{
+"pregunta": "Ana vive en Tepic. ¿En qué estado vive?",
+"opciones": [
+"Jalisco",
+"Colima",
+"Nayarit"
+],
+"correcta": 2,
+"porque": "Tepic es la capital de Nayarit."
+},
+{
+"pregunta": "¿Cuál es la capital de Puebla?",
+"opciones": [
+"Cholula",
+"Tlaxcala",
+"Puebla"
+],
+"correcta": 2,
+"porque": "La capital de Puebla se llama igual que el estado."
+},
+{
+"pregunta": "¿Cuál es la capital del país?",
+"opciones": [
+"Toluca, capital del Estado de México",
+"La Ciudad de México",
+"Guadalajara, capital de Jalisco"
+],
+"correcta": 1,
+"porque": "La Ciudad de México es la capital del país."
+}
+],
+"estados-y-capitales-del-norte-de-mexico-primaria": [
+{
+"pregunta": "¿Cuál es la capital de Chihuahua?",
+"opciones": [
+"Chihuahua",
+"Ciudad Juárez",
+"Hermosillo"
+],
+"correcta": 0,
+"porque": "La capital de Chihuahua se llama igual que el estado."
+},
+{
+"pregunta": "¿Cuál es la capital de Sinaloa?",
+"opciones": [
+"Culiacán",
+"Mazatlán, la ciudad del puerto",
+"Durango"
+],
+"correcta": 0,
+"porque": "Culiacán es la capital de Sinaloa."
+},
+{
+"pregunta": "¿Cuál es el estado más grande de México?",
+"opciones": [
+"Zacatecas",
+"Chihuahua",
+"Sonora"
+],
+"correcta": 1,
+"porque": "Chihuahua es el estado más grande de México."
+},
+{
+"pregunta": "Tu primo vive en La Paz. ¿En qué estado vive?",
+"opciones": [
+"Baja California Sur",
+"Baja California",
+"Sonora"
+],
+"correcta": 0,
+"porque": "La Paz es la capital de Baja California Sur."
+},
+{
+"pregunta": "¿Cuál es la capital de Tamaulipas?",
+"opciones": [
+"Ciudad Victoria",
+"Monterrey",
+"Tampico, una ciudad muy conocida del estado"
+],
+"correcta": 0,
+"porque": "Ciudad Victoria es la capital de Tamaulipas."
+}
+]
+}

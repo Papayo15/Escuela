@@ -1,0 +1,522 @@
+{
+"there-is-y-there-are-secundaria": [
+{
+"pregunta": "Completa: *___ a ball in the box.*",
+"opciones": [
+"There is",
+"There are",
+"There be"
+],
+"correcta": 0,
+"porque": "A ball es una sola cosa, así que va there is."
+},
+{
+"pregunta": "Completa: *___ five students in class.*",
+"opciones": [
+"It are",
+"There are",
+"There is"
+],
+"correcta": 1,
+"porque": "Five students es plural, así que va there are."
+},
+{
+"pregunta": "Completa: *___ some water in the bottle.*",
+"opciones": [
+"There were",
+"There are",
+"There is"
+],
+"correcta": 2,
+"porque": "Water es incontable y usa there is."
+},
+{
+"pregunta": "¿Cómo preguntas «¿Hay libros?»",
+"opciones": [
+"Is there books?",
+"There are books?",
+"Are there books?"
+],
+"correcta": 2,
+"porque": "Con plural se pregunta con Are there."
+},
+{
+"pregunta": "Pasa a pasado: *There is a bird.*",
+"opciones": [
+"There were a bird.",
+"There are a bird.",
+"There was a bird."
+],
+"correcta": 2,
+"porque": "Singular en pasado usa there was."
+}
+],
+"this-that-these-y-those-secundaria": [
+{
+"pregunta": "Completa: *___ is my pencil.* (en tu mano)",
+"opciones": [
+"That",
+"This",
+"Those"
+],
+"correcta": 1,
+"porque": "This señala una cosa cercana."
+},
+{
+"pregunta": "Completa: *___ are my friends.* (varios, lejos)",
+"opciones": [
+"This",
+"Those",
+"That"
+],
+"correcta": 1,
+"porque": "Those señala varios lejos."
+},
+{
+"pregunta": "Completa: *___ chair over there is new.*",
+"opciones": [
+"These",
+"That",
+"This"
+],
+"correcta": 1,
+"porque": "Chair es una sola y está lejos: that."
+},
+{
+"pregunta": "Señalas unos zapatos lejos de ti. ¿Qué dices?",
+"opciones": [
+"Those are my shoes.",
+"This are my shoes.",
+"That are my shoes."
+],
+"correcta": 0,
+"porque": "*Those* se usa para varios objetos que están lejos."
+},
+{
+"pregunta": "Señalas tus zapatos, que traes puestos. ¿Qué dices?",
+"opciones": [
+"These are my shoes.",
+"That are my shoes.",
+"This are my shoes."
+],
+"correcta": 0,
+"porque": "Son varios y están cerca, así que va these."
+}
+],
+"verb-to-be-secundaria": [
+{
+"pregunta": "Completa: *I ___ a student.*",
+"opciones": [
+"am",
+"are",
+"is"
+],
+"correcta": 0,
+"porque": "Con I se usa la forma am."
+},
+{
+"pregunta": "Completa: *She ___ in the library.*",
+"opciones": [
+"are",
+"is",
+"am"
+],
+"correcta": 1,
+"porque": "Con she, he o it se usa is."
+},
+{
+"pregunta": "Completa: *We ___ friends.*",
+"opciones": [
+"is",
+"are",
+"am"
+],
+"correcta": 1,
+"porque": "Con we, you y they se usa are."
+},
+{
+"pregunta": "¿Cómo niegas *He is tall*?",
+"opciones": [
+"He not is tall.",
+"He are not tall.",
+"He is not tall."
+],
+"correcta": 2,
+"porque": "Not va después de is."
+},
+{
+"pregunta": "¿Cómo preguntas *You are ready*?",
+"opciones": [
+"You are ready?",
+"Is you ready?",
+"Are you ready?"
+],
+"correcta": 2,
+"porque": "Para preguntar, to be pasa al inicio."
+}
+],
+"verbos-que-llevan-ing-like-love-y-hate-secundaria": [
+{
+"pregunta": "Completa: *I enjoy ___.* (swim)",
+"opciones": [
+"swim",
+"to swim",
+"swimming"
+],
+"correcta": 2,
+"porque": "Después de enjoy la acción lleva -ing."
+},
+{
+"pregunta": "Completa: *She loves ___.* (read)",
+"opciones": [
+"reads",
+"readed",
+"reading"
+],
+"correcta": 2,
+"porque": "Después de love se puede usar -ing."
+},
+{
+"pregunta": "¿Cómo dices «Él odia correr»?",
+"opciones": [
+"He hate running.",
+"He hates running.",
+"He hates runs."
+],
+"correcta": 1,
+"porque": "Hates lleva s con he y la acción lleva -ing."
+},
+{
+"pregunta": "Completa: *She loves ___ books.* (leer)",
+"opciones": [
+"reads",
+"read",
+"reading"
+],
+"correcta": 2,
+"porque": "Después de *love* la acción lleva -ing."
+},
+{
+"pregunta": "Quieres decir que te gusta dibujar en la escuela. ¿Cuál sirve?",
+"opciones": [
+"I like drawed.",
+"I like draws.",
+"I like drawing."
+],
+"correcta": 2,
+"porque": "Like va con la acción en -ing: drawing."
+}
+],
+"acidos-bases-neutralizacion-arrhenius-secundaria": [
+{
+"pregunta": "Según Arrhenius, ¿qué libera un ácido en agua?",
+"opciones": [
+"$\\ce{OH-}$",
+"$\\ce{Na+}$",
+"$\\ce{H+}$"
+],
+"correcta": 2,
+"porque": "Un ácido libera hidrógeno con carga positiva."
+},
+{
+"pregunta": "¿Qué se forma al juntar un ácido con una base?",
+"opciones": [
+"Solo gas",
+"Solo sal",
+"Sal y agua"
+],
+"correcta": 2,
+"porque": "La neutralización forma sal más agua."
+},
+{
+"pregunta": "El vinagre sabe agrio. ¿Qué es?",
+"opciones": [
+"Una base",
+"Un ácido",
+"Un neutro"
+],
+"correcta": 1,
+"porque": "Lo agrio es característico de los ácidos."
+},
+{
+"pregunta": "Un jabón resbala y tiene pH 10. ¿Qué es?",
+"opciones": [
+"Un neutro",
+"Una base",
+"Un ácido"
+],
+"correcta": 1,
+"porque": "Con pH mayor que 7 es una base."
+},
+{
+"pregunta": "Completa: $\\ce{HCl + KOH -> ? + H2O}$",
+"opciones": [
+"$\\ce{KCl}$",
+"$\\ce{HK}$",
+"$\\ce{KOH}$"
+],
+"correcta": 0,
+"porque": "El metal del hidróxido y el cloro forman la sal."
+}
+],
+"alimentos-energia-carbohidratos-proteinas-lipidos-secundaria": [
+{
+"pregunta": "¿Qué nutriente da energía más rápido?",
+"opciones": [
+"Carbohidratos",
+"Lípidos",
+"Proteínas"
+],
+"correcta": 0,
+"porque": "Los carbohidratos, como el pan, dan energía rápida."
+},
+{
+"pregunta": "¿Cuántas kcal aportan 5 g de lípidos?",
+"opciones": [
+"20 kcal",
+"45 kcal",
+"5 kcal"
+],
+"correcta": 1,
+"porque": "Cada gramo de lípido da 9 kcal, y 5 por 9 es 45."
+},
+{
+"pregunta": "¿Cuántas kcal dan 25 g de carbohidratos?",
+"opciones": [
+"225 kcal",
+"29 kcal",
+"100 kcal"
+],
+"correcta": 2,
+"porque": "Cada gramo da 4 kcal, y 25 por 4 es 100."
+},
+{
+"pregunta": "¿Qué hacen principalmente las proteínas?",
+"opciones": [
+"Guardan agua",
+"Construyen el cuerpo",
+"Dan sabor"
+],
+"correcta": 1,
+"porque": "Las proteínas, como el huevo, ayudan a construir."
+},
+{
+"pregunta": "¿Cuál es un lípido de la comida?",
+"opciones": [
+"Manzana",
+"Aguacate",
+"Tortilla"
+],
+"correcta": 1,
+"porque": "El aguacate tiene mucha grasa, que es un lípido."
+}
+],
+"balancear-por-tanteo-paso-a-paso-secundaria": [
+{
+"pregunta": "Balancea: $\\ce{H2 + O2 -> H2O}$",
+"opciones": [
+"$\\ce{2H2 + 2O2 -> 2H2O}$",
+"$\\ce{H2 + O2 -> 2H2O}$",
+"$\\ce{2H2 + O2 -> 2H2O}$"
+],
+"correcta": 2,
+"porque": "Quedan 4 H y 2 O de cada lado."
+},
+{
+"pregunta": "¿Qué números se pueden cambiar al balancear?",
+"opciones": [
+"Los de adelante",
+"Los de abajo",
+"Ninguno"
+],
+"correcta": 0,
+"porque": "Los coeficientes de adelante se cambian y los subíndices no."
+},
+{
+"pregunta": "Balancea: $\\ce{N2 + 3H2 -> ?NH3}$",
+"opciones": [
+"1",
+"2",
+"3"
+],
+"correcta": 1,
+"porque": "Hay 2 N a la izquierda y 6 H, por eso 2NH3."
+},
+{
+"pregunta": "En la ecuación $\\ce{CH4 + O2 -> CO2 + H2O}$, ¿qué átomos se dejan para el final?",
+"opciones": [
+"H y O",
+"C",
+"Todos juntos"
+],
+"correcta": 0,
+"porque": "Los H y O aparecen en varias fórmulas."
+},
+{
+"pregunta": "Balancea: $\\ce{Mg + O2 -> MgO}$",
+"opciones": [
+"$\\ce{Mg + O2 -> 2MgO}$",
+"$\\ce{2Mg + 2O2 -> 2MgO}$",
+"$\\ce{2Mg + O2 -> 2MgO}$"
+],
+"correcta": 2,
+"porque": "Quedan 2 Mg y 2 O de cada lado."
+}
+],
+"cambios-de-estado-secundaria": [
+{
+"pregunta": "El agua de un charco del patio se seca con el sol. ¿Qué cambio de estado es?",
+"opciones": [
+"Vaporización",
+"Fusión",
+"Condensación"
+],
+"correcta": 0,
+"porque": "Al secarse, el agua líquida pasa a gas: es vaporización."
+},
+{
+"pregunta": "Un vidrio frío del baño se llena de gotas. ¿Qué cambio es?",
+"opciones": [
+"Vaporización",
+"Fusión",
+"Condensación"
+],
+"correcta": 2,
+"porque": "El vapor del agua se enfría y se vuelve líquido."
+},
+{
+"pregunta": "Un vaso frío se llena de gotitas por fuera. ¿Qué cambio de estado es?",
+"opciones": [
+"Vaporización",
+"Solidificación",
+"Condensación"
+],
+"correcta": 2,
+"porque": "El vapor del aire se enfría y se vuelve líquido."
+},
+{
+"pregunta": "¿Cuál es el cambio de líquido a sólido?",
+"opciones": [
+"Sublimación",
+"Evaporación",
+"Solidificación"
+],
+"correcta": 2,
+"porque": "El agua se congela y se vuelve hielo."
+},
+{
+"pregunta": "Un cambio de estado, ¿forma sustancias nuevas?",
+"opciones": [
+"No, es un cambio físico",
+"Sí, un químico",
+"Sí, siempre"
+],
+"correcta": 0,
+"porque": "Solo cambia la forma, no la sustancia."
+}
+],
+"compuestos-ionicos-moleculares-secundaria": [
+{
+"pregunta": "¿Cuál es un compuesto iónico?",
+"opciones": [
+"$\\ce{H2O}$",
+"$\\ce{NaCl}$",
+"$\\ce{CO2}$"
+],
+"correcta": 1,
+"porque": "NaCl une un metal con un no metal."
+},
+{
+"pregunta": "¿Qué compuesto conduce electricidad al disolverse?",
+"opciones": [
+"El alcohol",
+"La sal",
+"El azúcar"
+],
+"correcta": 1,
+"porque": "Los iones de la sal quedan libres en el agua."
+},
+{
+"pregunta": "¿Qué hacen los átomos en un compuesto molecular?",
+"opciones": [
+"Comparten electrones",
+"Se dan electrones",
+"Pierden protones"
+],
+"correcta": 0,
+"porque": "Los no metales comparten electrones."
+},
+{
+"pregunta": "¿Cuál se funde más fácil?",
+"opciones": [
+"Los dos igual",
+"La sal",
+"El azúcar"
+],
+"correcta": 2,
+"porque": "Los moleculares se funden fácil y los iónicos necesitan más calor."
+},
+{
+"pregunta": "¿Qué compuesto es molecular?",
+"opciones": [
+"$\\ce{NaF}$",
+"$\\ce{KCl}$",
+"$\\ce{CO2}$"
+],
+"correcta": 2,
+"porque": "CO2 une solo no metales."
+}
+],
+"concentracion-mezclas-cotidianas-secundaria": [
+{
+"pregunta": "Hay 10 g de azúcar en 100 g de mezcla. ¿Cuál es el porcentaje?",
+"opciones": [
+"10 por ciento",
+"100 por ciento",
+"1 por ciento"
+],
+"correcta": 0,
+"porque": "Se divide 10 entre 100 y se multiplica por 100."
+},
+{
+"pregunta": "En agua con sal, ¿cuál es el soluto?",
+"opciones": [
+"La sal",
+"La mezcla",
+"El agua"
+],
+"correcta": 0,
+"porque": "El soluto es lo que se disuelve."
+},
+{
+"pregunta": "Se disuelven 40 g de azúcar en 160 g de agua. ¿Cuál es la masa total?",
+"opciones": [
+"200 g",
+"160 g",
+"120 g"
+],
+"correcta": 0,
+"porque": "Total es soluto más disolvente: 40 más 160."
+},
+{
+"pregunta": "Disuelves 20 g de sal en 180 g de agua. ¿Qué porcentaje es?",
+"opciones": [
+"20 por ciento",
+"10 por ciento",
+"9 por ciento"
+],
+"correcta": 1,
+"porque": "El total es 200 g, y 20 entre 200 por 100 es 10."
+},
+{
+"pregunta": "¿Por qué no usar más cloro del que dice la etiqueta?",
+"opciones": [
+"Huele mucho mejor en toda la casa",
+"Irrita la piel y suelta gases dañinos",
+"Hace mucha más espuma al limpiar"
+],
+"correcta": 1,
+"porque": "Mucho cloro irrita la piel y suelta gases dañinos."
+}
+]
+}

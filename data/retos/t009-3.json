@@ -1,0 +1,522 @@
+{
+"pertenencia-identidad-personal-social-primaria": [
+{
+"pregunta": "¿Qué es la identidad personal?",
+"opciones": [
+"Lo que todos los niños tienen igual",
+"Solo el nombre de tu escuela",
+"Lo que te hace único, como tus gustos y carácter"
+],
+"correcta": 2,
+"porque": "Tu identidad personal incluye tu nombre, gustos, habilidades e historia."
+},
+{
+"pregunta": "¿Cuál es un grupo que forma tu identidad social?",
+"opciones": [
+"Un número de lista",
+"Tu familia",
+"Una piedra del patio"
+],
+"correcta": 1,
+"porque": "La familia, la escuela y el barrio forman tu identidad social."
+},
+{
+"pregunta": "¿Qué es el sentido de pertenencia?",
+"opciones": [
+"Mandar a todos los demás",
+"Estar solo en un rincón",
+"Sentirte aceptado y parte de un grupo"
+],
+"correcta": 2,
+"porque": "Es sentirte aceptado y parte de un grupo."
+},
+{
+"pregunta": "Un compañero viene de otro pueblo y habla distinto. ¿Qué haces?",
+"opciones": [
+"Me burlo de su forma de hablar",
+"Lo respeto y lo invito a participar",
+"Lo dejo solo en el recreo"
+],
+"correcta": 1,
+"porque": "Respetar a quienes son de otros grupos fortalece la convivencia."
+},
+{
+"pregunta": "¿Puedes pertenecer a varios grupos a la vez?",
+"opciones": [
+"No, solo a uno en toda la vida",
+"Sí, sin dejar de ser tú",
+"Sí, pero entonces dejas de ser tú mismo"
+],
+"correcta": 1,
+"porque": "Puedes ser de tu familia, tu escuela y tu barrio a la vez."
+}
+],
+"posibilidades-cognitivas-expresivas-motrices-primaria": [
+{
+"pregunta": "Cuentas una historia solo con gestos. ¿Qué posibilidad usas?",
+"opciones": [
+"Ninguna, porque no hablas",
+"Solo la cognitiva, sin gestos",
+"Expresiva, porque usas gestos"
+],
+"correcta": 2,
+"porque": "Los gestos sirven para expresar lo que quieres decir."
+},
+{
+"pregunta": "Piensas qué jugada hacer en un juego. ¿Qué usas?",
+"opciones": [
+"Mi posibilidad de dormir",
+"Mi posibilidad de mirar la tele",
+"Mi posibilidad cognitiva"
+],
+"correcta": 2,
+"porque": "Pensar y decidir usa tu posibilidad cognitiva."
+},
+{
+"pregunta": "Al armar un cartel en equipo, ¿cuál posibilidad usas al colaborar con otros?",
+"opciones": [
+"De relación, porque colaboras",
+"Solo mi posibilidad de saltar",
+"Ninguna, lo hace uno solo"
+],
+"correcta": 0,
+"porque": "Trabajar con otros usa tu posibilidad de relación."
+},
+{
+"pregunta": "Al correr y saltar usas tu posibilidad...",
+"opciones": [
+"Solo la cognitiva, de pensar",
+"Solo la creativa, de inventar",
+"Motriz, porque mueves tu cuerpo"
+],
+"correcta": 2,
+"porque": "Correr y saltar son movimientos, por eso usas la posibilidad motriz."
+},
+{
+"pregunta": "Inventas un juego nuevo con tus amigos. ¿Qué posibilidad usas?",
+"opciones": [
+"Creativa, porque inventas",
+"Ninguna, porque ya existía",
+"Solo la motriz y nada más"
+],
+"correcta": 0,
+"porque": "Inventar un juego nuevo usa tu posibilidad creativa."
+}
+],
+"proyecto-de-vida-primaria": [
+{
+"pregunta": "¿Qué es un proyecto de vida?",
+"opciones": [
+"Pensar qué quieres ser y cómo lograrlo",
+"Hacer solo lo que otros dicen",
+"Esperar sin hacer nada"
+],
+"correcta": 0,
+"porque": "Es pensar en lo que quieres ser y los pasos para lograrlo."
+},
+{
+"pregunta": "Quieres aprender a tocar la flauta. ¿Cuál es el primer paso?",
+"opciones": [
+"Dejar la flauta guardada para siempre",
+"Practicar un poco cada día",
+"Esperar a ser grande para empezar"
+],
+"correcta": 1,
+"porque": "Practicar poco a poco te permite avanzar."
+},
+{
+"pregunta": "¿Por qué conviene dividir una meta en pasos?",
+"opciones": [
+"Es más fácil y ves tu avance",
+"Para que nunca la termines",
+"Porque así cuesta más trabajo"
+],
+"correcta": 0,
+"porque": "Una meta en partes se logra mejor y ves lo que avanzas."
+},
+{
+"pregunta": "¿Qué debe tener tu proyecto de vida además de la meta?",
+"opciones": [
+"Solo la fecha de tu cumpleaños",
+"Un juguete nuevo",
+"Los pasos que darás"
+],
+"correcta": 2,
+"porque": "Para lograr tu meta, necesitas pasos concretos."
+},
+{
+"pregunta": "¿Qué preguntas te ayudan a empezar tu proyecto?",
+"opciones": [
+"Cuántos años tiene mi escuela",
+"Qué me gusta y qué sé hacer",
+"Qué hacen todos mis vecinos"
+],
+"correcta": 1,
+"porque": "Empieza por pensar en lo que te gusta y lo que sabes hacer."
+}
+],
+"situaciones-riesgo-social-comunidad-primaria": [
+{
+"pregunta": "¿Qué es una situación de riesgo?",
+"opciones": [
+"Un juego de mesa",
+"Algo que puede dañarte",
+"Un regalo de cumpleaños"
+],
+"correcta": 1,
+"porque": "Es algo que puede dañarte, como un desconocido o una pelea."
+},
+{
+"pregunta": "Un desconocido te ofrece dulces para subirte a su auto. ¿Qué haces?",
+"opciones": [
+"Me alejo y aviso a un adulto",
+"Me subo si son muchos dulces",
+"Me subo si dice que conoce a mi mamá"
+],
+"correcta": 0,
+"porque": "No debes ir con desconocidos; aléjate y avisa a un adulto."
+},
+{
+"pregunta": "¿Qué número puedes llamar si estás en peligro?",
+"opciones": [
+"Ninguno, porque no sirve de nada",
+"El número de mi casa de hace años",
+"El 911, que es de emergencias"
+],
+"correcta": 2,
+"porque": "El 911 es el número para pedir ayuda en una emergencia."
+},
+{
+"pregunta": "La calle está oscura y quieres ir a la tienda. ¿Qué haces?",
+"opciones": [
+"Voy si tengo ganas de aventura",
+"No voy solo y aviso a un adulto",
+"Voy rápido sin decir a nadie"
+],
+"correcta": 1,
+"porque": "No vayas solo y avisa, para evitar riesgos."
+},
+{
+"pregunta": "¿A quién puedes pedir ayuda si te sientes en peligro?",
+"opciones": [
+"A nadie, para no causar problemas",
+"A cualquier persona que no conozco",
+"A un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Un adulto de confianza puede ayudarte a estar seguro."
+}
+],
+"acciones-individuales-cuidado-salud-primaria-5-6": [
+{
+"pregunta": "¿Cuándo debes lavarte las manos con seguridad?",
+"opciones": [
+"Solo cuando juegas futbol",
+"Solo antes de dormir",
+"Antes de comer y después de ir al baño"
+],
+"correcta": 2,
+"porque": "Estos son momentos clave para evitar gérmenes."
+},
+{
+"pregunta": "¿Para qué sirven las vacunas?",
+"opciones": [
+"Sirven solo para curar la gripa",
+"Hacen que no necesites dormir",
+"Previenen enfermedades graves y protegen a otros"
+],
+"correcta": 2,
+"porque": "Las vacunas previenen enfermedades graves y también protegen a los demás."
+},
+{
+"pregunta": "¿Cuál es el orden correcto para lavarte las manos?",
+"opciones": [
+"Secar, mojar, enjabonar, enjuagar",
+"Mojar, enjabonar, enjuagar, secar",
+"Enjuagar, secar, mojar, enjabonar"
+],
+"correcta": 1,
+"porque": "Primero mojas y enjabonas; luego enjuagas y secas."
+},
+{
+"pregunta": "Quieres cuidar tu salud toda la semana. ¿Qué acción ayuda?",
+"opciones": [
+"Saltarme el desayuno para llegar rápido",
+"Dormir lo necesario y moverme",
+"Quedarme toda la tarde viendo pantallas"
+],
+"correcta": 1,
+"porque": "Descansar y moverte cuida tu salud."
+},
+{
+"pregunta": "¿Qué puedes hacer si te sientes muy triste?",
+"opciones": [
+"Hacer como que no me importa",
+"Hablar de lo que siento con alguien",
+"Guardármelo todo sin decir nada"
+],
+"correcta": 1,
+"porque": "Hablar de lo que sientes es una acción de cuidado de tu salud."
+}
+],
+"alternativas-conflictos-comunidad-primaria": [
+{
+"pregunta": "¿Qué es un conflicto?",
+"opciones": [
+"Un desacuerdo",
+"Un tipo de fruta",
+"Una canción de moda"
+],
+"correcta": 0,
+"porque": "Un conflicto es un desacuerdo y se puede resolver sin violencia."
+},
+{
+"pregunta": "¿Cuál es el primer paso para resolver un conflicto?",
+"opciones": [
+"Culpar al otro",
+"Respirar y calmarme",
+"Gritar más fuerte"
+],
+"correcta": 1,
+"porque": "Calmarte primero te ayuda a pensar y dialogar."
+},
+{
+"pregunta": "Dos vecinos discuten por la música alta. ¿Qué ayuda?",
+"opciones": [
+"Dejar de saludarse",
+"Poner la música todavía más alta",
+"Hablar y llegar a un acuerdo de horarios"
+],
+"correcta": 2,
+"porque": "Buscar opciones y acordar horarios resuelve el conflicto sin violencia."
+},
+{
+"pregunta": "¿Quién puede ser un mediador en la escuela?",
+"opciones": [
+"Una maestra o maestro",
+"Quien grite más fuerte",
+"Un compañero que esté enojado también"
+],
+"correcta": 0,
+"porque": "Un mediador es alguien neutral que ayuda a dialogar."
+},
+{
+"pregunta": "¿Por qué gritar no resuelve un conflicto?",
+"opciones": [
+"Aumenta el enojo y no deja escuchar",
+"Porque los gritos cansan la garganta",
+"Porque así siempre se gana"
+],
+"correcta": 0,
+"porque": "Gritar aumenta el enojo y no deja escuchar al otro."
+}
+],
+"capacidades-habilidades-destrezas-motrices-primaria-5-6": [
+{
+"pregunta": "¿Qué es una capacidad motriz?",
+"opciones": [
+"Un movimiento que ya domino",
+"Una cualidad de tu cuerpo, como la fuerza",
+"Una regla del juego"
+],
+"correcta": 1,
+"porque": "Las capacidades son cualidades del cuerpo, como fuerza, velocidad y flexibilidad."
+},
+{
+"pregunta": "¿Qué es una destreza?",
+"opciones": [
+"Una habilidad muy practicada",
+"Una habilidad que nunca he practicado",
+"Un tipo de capacidad que no se mejora"
+],
+"correcta": 0,
+"porque": "Las destrezas son habilidades que ya dominas por mucha práctica."
+},
+{
+"pregunta": "Mantenerte en un pie es una habilidad...",
+"opciones": [
+"Locomotriz",
+"Manipulativa",
+"De estabilidad"
+],
+"correcta": 2,
+"porque": "Mantener el cuerpo en equilibrio es de estabilidad."
+},
+{
+"pregunta": "Lanzar una pelota es una habilidad...",
+"opciones": [
+"De estabilidad",
+"Locomotriz",
+"Manipulativa"
+],
+"correcta": 2,
+"porque": "Lanzar usa un objeto, por eso es manipulativa."
+},
+{
+"pregunta": "Quieres mejorar tu manera de driblar sin mirar el balón. ¿Qué haces?",
+"opciones": [
+"Practico unos minutos cada día",
+"Dejo de intentarlo",
+"Lo hago solo una vez al mes"
+],
+"correcta": 0,
+"porque": "Las destrezas mejoran si practicas con constancia."
+}
+],
+"comunidad-aprendizaje-bienestar-primaria": [
+{
+"pregunta": "¿Qué es el bien común?",
+"opciones": [
+"Lo que beneficia a todos",
+"Algo que nadie puede usar",
+"Lo que me gusta solo a mí"
+],
+"correcta": 0,
+"porque": "El bien común es lo que beneficia a todos, como un parque limpio."
+},
+{
+"pregunta": "¿Dónde puedes aprender además de la escuela?",
+"opciones": [
+"En ningún lugar fuera de la escuela",
+"Solo en tu casa",
+"En mercados, bibliotecas y con los abuelos"
+],
+"correcta": 2,
+"porque": "Se aprende en muchos lugares de la comunidad."
+},
+{
+"pregunta": "Quieres proponer algo para tu colonia. ¿Qué haces primero?",
+"opciones": [
+"Hacer lo que yo quiero sin avisar",
+"Platicar con los vecinos",
+"Esperar a que otros lo hagan"
+],
+"correcta": 1,
+"porque": "Escuchar a los vecinos hace que tu propuesta atienda lo que necesitan."
+},
+{
+"pregunta": "Tu escuela organiza limpiar el patio. ¿Qué beneficio tiene?",
+"opciones": [
+"Todos tienen un lugar limpio",
+"Solo ganan los más fuertes",
+"Nadie usa el patio después"
+],
+"correcta": 0,
+"porque": "Limpiar el patio mejora el bienestar de todos."
+},
+{
+"pregunta": "¿Cuál es un paso para participar en tu comunidad?",
+"opciones": [
+"Culpar a los vecinos",
+"Esperar sin mirar nada",
+"Ver qué hace falta"
+],
+"correcta": 2,
+"porque": "Primero ves qué hace falta, luego propones y lo hacen juntos."
+}
+],
+"decisiones-y-creatividad-primaria-5-6": [
+{
+"pregunta": "¿Cuál es el primer paso para decidir bien?",
+"opciones": [
+"Elegir al azar sin pensar",
+"Hacer lo que haga mi amigo",
+"Decir qué problema hay"
+],
+"correcta": 2,
+"porque": "Primero debes entender cuál es el problema."
+},
+{
+"pregunta": "¿Para qué sirve la creatividad al decidir?",
+"opciones": [
+"Para encontrar ideas nuevas",
+"Para copiar a otros siempre",
+"Para dejar de pensar"
+],
+"correcta": 0,
+"porque": "La creatividad te ayuda a hallar más opciones."
+},
+{
+"pregunta": "Se perdió el balón del salón. ¿Qué haces?",
+"opciones": [
+"Pienso varias ideas y elijo una",
+"Culpo al primero que veo",
+"No hago nada para evitar problemas"
+],
+"correcta": 0,
+"porque": "Escribir ideas y elegir la mejor ayuda a resolver."
+},
+{
+"pregunta": "¿Por qué piensas en las consecuencias antes de elegir?",
+"opciones": [
+"Porque no importa lo que pase",
+"Para no dañarme ni dañar a otros",
+"Para tardarme más en decidir"
+],
+"correcta": 1,
+"porque": "Pensar en las consecuencias evita daños."
+},
+{
+"pregunta": "¿Qué haces al final de tomar una decisión?",
+"opciones": [
+"Culpo a otros",
+"Me olvido de lo que hice",
+"Reviso si funcionó"
+],
+"correcta": 2,
+"porque": "Revisar te permite aprender y corregir si hace falta."
+}
+],
+"educacion-integral-sexualidad-primaria-5-6": [
+{
+"pregunta": "Notas que tu cuerpo cambia en la pubertad. ¿Qué es correcto pensar?",
+"opciones": [
+"Es una enfermedad que contagia",
+"Es normal y le pasa a todos",
+"Es raro y debo esconderlo"
+],
+"correcta": 1,
+"porque": "En la pubertad el cuerpo y las emociones cambian y es normal."
+},
+{
+"pregunta": "Un compañero cambió de voz y se burlan. ¿Cuál respuesta es respetuosa?",
+"opciones": [
+"Decir que los cambios son normales y no burlarse",
+"Reírme con los demás",
+"Imitar su voz para que se calle"
+],
+"correcta": 0,
+"porque": "Los cambios son normales y debemos respetarnos."
+},
+{
+"pregunta": "Alguien te presiona para un contacto físico que no quieres. ¿Qué haces?",
+"opciones": [
+"Lo permito para no quedar mal",
+"Me quedo callado y me aguanto",
+"Digo no, me alejo y lo cuento"
+],
+"correcta": 2,
+"porque": "Tienes derecho a decir no y buscar ayuda."
+},
+{
+"pregunta": "¿Qué hábito de autocuidado conviene en la pubertad?",
+"opciones": [
+"No cambiarme de ropa nunca",
+"Bañarme todos los días",
+"Bañarme solo en vacaciones"
+],
+"correcta": 1,
+"porque": "El baño diario ayuda a cuidar la higiene."
+},
+{
+"pregunta": "Tienes una duda sobre tu cuerpo. ¿A quién puedes preguntar?",
+"opciones": [
+"A cualquier persona desconocida",
+"A mi familia o a personal de salud",
+"A nadie, mejor la ignoro"
+],
+"correcta": 1,
+"porque": "Un adulto de confianza o personal de salud puede orientarte bien."
+}
+]
+}

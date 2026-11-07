@@ -1,0 +1,522 @@
+{
+"crisis-de-1929-secundaria": [
+{
+"pregunta": "En 1929 muchos sacaron su dinero del banco a la vez. ¿Qué pasó con los bancos?",
+"opciones": [
+"Quebraron porque no alcanzaba el dinero",
+"Les sobró dinero para todos",
+"Regalaron dinero a la gente"
+],
+"correcta": 0,
+"porque": "Los bancos quebraron porque no podían devolver tanto dinero a la vez."
+},
+{
+"pregunta": "¿Cuál fue una causa de la Crisis de 1929?",
+"opciones": [
+"Que faltaran escuelas",
+"Comprar acciones a crédito",
+"Que sobrara el desempleo"
+],
+"correcta": 1,
+"porque": "Mucha gente compraba acciones prestando dinero y luego no pudo pagar."
+},
+{
+"pregunta": "¿Qué le pasó a mucha gente después de la caída de la bolsa?",
+"opciones": [
+"Dejó de usar el banco por gusto",
+"Ganó mucho dinero fácil",
+"Perdió su trabajo y quedó sin dinero"
+],
+"correcta": 2,
+"porque": "Cerraron fábricas y bancos, y millones se quedaron sin empleo."
+},
+{
+"pregunta": "¿Qué quiere decir sobreproducción?",
+"opciones": [
+"Se hace más de lo que se vende",
+"Se hace menos de lo que piden",
+"Se vende todo muy caro"
+],
+"correcta": 0,
+"porque": "Si sobran productos que nadie compra, las fábricas pierden dinero."
+},
+{
+"pregunta": "Si en tu escuela todos sacan su dinero de la cooperativa el mismo día, ¿qué puede pasar?",
+"opciones": [
+"No alcanzará para todos",
+"Habrá dinero de sobra",
+"Se duplicará el dinero"
+],
+"correcta": 0,
+"porque": "Es como los bancos en 1929: guardan solo una parte del dinero y no alcanza para todos."
+}
+],
+"crisis-economicas-de-1976-a-1994-secundaria": [
+{
+"pregunta": "En una devaluación del peso, ¿qué pasa con el peso frente al dólar?",
+"opciones": [
+"Vale más que antes",
+"Vale menos que antes",
+"Vale exactamente igual"
+],
+"correcta": 1,
+"porque": "Devaluar significa que tu moneda compra menos frente a otra."
+},
+{
+"pregunta": "Si suben mucho los precios y tu dinero alcanza para menos, ¿qué hay?",
+"opciones": [
+"Inflación",
+"Intercambio",
+"Ahorro"
+],
+"correcta": 0,
+"porque": "La inflación es la subida general de precios, y el dinero rinde menos."
+},
+{
+"pregunta": "¿Qué hizo el gobierno con los bancos en 1982?",
+"opciones": [
+"Los cerró para siempre",
+"Los nacionalizó",
+"Los regaló a niños"
+],
+"correcta": 1,
+"porque": "Nacionalizar es que el gobierno se queda con algo que era privado."
+},
+{
+"pregunta": "¿Cómo se le llamó a la crisis que empezó en diciembre de 1994?",
+"opciones": [
+"El milagro de diciembre",
+"El error de diciembre",
+"La fiesta de diciembre"
+],
+"correcta": 1,
+"porque": "Así se le dijo por la mala decisión que causó una fuerte devaluación."
+},
+{
+"pregunta": "Tu mamá compra con el mismo dinero menos cosas que el año pasado. ¿Qué crisis se parece?",
+"opciones": [
+"La de inflación de 1987",
+"La de la independencia",
+"La del Milagro mexicano"
+],
+"correcta": 0,
+"porque": "En 1987 los precios subían muy rápido y el dinero alcanzaba para menos."
+}
+],
+"descolonizacion-de-africa-y-asia-secundaria": [
+{
+"pregunta": "¿Qué fue la descolonización?",
+"opciones": [
+"Colonias que lograron su independencia",
+"Pueblos que cambiaron de idioma",
+"Países que conquistaron más tierras"
+],
+"correcta": 0,
+"porque": "Después de 1945 muchas colonias de África y Asia se hicieron libres."
+},
+{
+"pregunta": "¿Quién encabezó la lucha no violenta en India?",
+"opciones": [
+"Gandhi",
+"Napoleón",
+"Mandela"
+],
+"correcta": 0,
+"porque": "Gandhi lideró a India hacia su independencia sin usar armas."
+},
+{
+"pregunta": "¿Qué fue el apartheid en Sudáfrica?",
+"opciones": [
+"Una ley que separaba por color de piel",
+"Una fiesta del campo",
+"Un festival de música"
+],
+"correcta": 0,
+"porque": "Era un sistema injusto que trataba distinto a las personas por su piel."
+},
+{
+"pregunta": "¿Quién fue líder cuando cayó el apartheid?",
+"opciones": [
+"Simón Bolívar",
+"Nelson Mandela",
+"Mao Zedong"
+],
+"correcta": 1,
+"porque": "Mandela encabezó a Sudáfrica cuando terminó el apartheid, en los años 90."
+},
+{
+"pregunta": "Si en tu escuela eligieras un país africano y buscaras su independencia, ¿qué buscarías?",
+"opciones": [
+"Cuántos alumnos tiene",
+"En qué año se hizo libre",
+"Qué comida vende hoy"
+],
+"correcta": 1,
+"porque": "La descolonización trata de cuándo y cómo se independizaron los países."
+}
+],
+"discriminacion-racismo-prejuicios-historia-secundaria": [
+{
+"pregunta": "¿Qué es un prejuicio?",
+"opciones": [
+"Saludar a alguien nuevo",
+"Ayudar a un compañero",
+"Pensar mal de alguien sin conocerlo"
+],
+"correcta": 2,
+"porque": "Un prejuicio es una idea negativa que se tiene antes de conocer a la persona."
+},
+{
+"pregunta": "¿Qué es el racismo?",
+"opciones": [
+"Creer que alguien vale menos por su piel",
+"Respetar las costumbres de otros pueblos",
+"Conocer a una persona antes de opinar"
+],
+"correcta": 0,
+"porque": "El racismo es creer que alguien vale menos por su piel u origen."
+},
+{
+"pregunta": "¿Qué significa que el racismo es una construcción histórica?",
+"opciones": [
+"Se aprendió y se mantuvo en ciertas épocas",
+"Nació con las personas",
+"Viene de la naturaleza"
+],
+"correcta": 0,
+"porque": "Como se aprendió, también se puede cambiar con educación y respeto."
+},
+{
+"pregunta": "En la Nueva España, ¿qué daba privilegios según el origen de las personas?",
+"opciones": [
+"El sistema escolar",
+"El sistema de castas",
+"El sistema solar"
+],
+"correcta": 1,
+"porque": "Las castas clasificaban a las personas, y unas tenían más ventajas que otras."
+},
+{
+"pregunta": "Si un compañero dice que los de otro pueblo son flojos, ¿qué conviene hacer?",
+"opciones": [
+"Reírse con él para no pelear",
+"Repetirlo a todos los demás",
+"Decirle que es un prejuicio falso"
+],
+"correcta": 2,
+"porque": "Un prejuicio se corrige explicando con respeto."
+}
+],
+"disolucion-de-la-urss-secundaria": [
+{
+"pregunta": "¿En qué año se disolvió la URSS?",
+"opciones": [
+"1991",
+"1914",
+"1945"
+],
+"correcta": 0,
+"porque": "La URSS terminó en diciembre de 1991 y se partió en países."
+},
+{
+"pregunta": "¿Cuántos países surgieron de la URSS?",
+"opciones": [
+"Quince",
+"Tres",
+"Cuarenta"
+],
+"correcta": 0,
+"porque": "La URSS se dividió en quince países, como Rusia, Ucrania y Lituania."
+},
+{
+"pregunta": "¿Qué significa glasnost?",
+"opciones": [
+"Apertura o transparencia",
+"Guerra total",
+"Ley del miedo"
+],
+"correcta": 0,
+"porque": "Gorbachov impulsó la glasnost para que se hablara con más libertad."
+},
+{
+"pregunta": "¿Cuál de estos países nació de la URSS?",
+"opciones": [
+"Ucrania",
+"Francia",
+"México"
+],
+"correcta": 0,
+"porque": "Ucrania fue una de las quince repúblicas que quedaron independientes."
+},
+{
+"pregunta": "Si tu escuela se partiera en quince escuelas nuevas, ¿a qué se parecería?",
+"opciones": [
+"A la disolución de la URSS",
+"A la Guerra de Corea",
+"A la Revolución industrial"
+],
+"correcta": 0,
+"porque": "Un país enorme se dividió en quince países nuevos, como una escuela en quince."
+}
+],
+"fascismo-y-nazismo-secundaria": [
+{
+"pregunta": "¿Quién encabezó el fascismo en Italia?",
+"opciones": [
+"Lenin",
+"Benito Mussolini",
+"Adolf Hitler"
+],
+"correcta": 1,
+"porque": "Mussolini llegó al poder en Italia en 1922."
+},
+{
+"pregunta": "¿Quién encabezó el nazismo en Alemania?",
+"opciones": [
+"Stalin",
+"Napoleón",
+"Adolf Hitler"
+],
+"correcta": 2,
+"porque": "Hitler gobernó Alemania desde 1933."
+},
+{
+"pregunta": "¿Cuál es un rasgo del fascismo y el nazismo?",
+"opciones": [
+"Un solo partido y culto al líder",
+"Muchos partidos libres",
+"Elecciones sin presión"
+],
+"correcta": 0,
+"porque": "Estos regímenes no permitían otras ideas y adoraban a su líder."
+},
+{
+"pregunta": "¿Qué es la propaganda?",
+"opciones": [
+"Un juego de mesa para toda la familia",
+"Una tarea de clase que se entrega",
+"Mensajes que controlan lo que piensas"
+],
+"correcta": 2,
+"porque": "La propaganda son mensajes para controlar lo que piensa la gente."
+},
+{
+"pregunta": "Si un líder castiga a quien piensa distinto, ¿qué falta?",
+"opciones": [
+"Tarea",
+"Libertad",
+"Descanso"
+],
+"correcta": 1,
+"porque": "En el fascismo y el nazismo no había libertades para opinar distinto."
+}
+],
+"gestas-resistencia-independencias-secundaria": [
+{
+"pregunta": "¿Qué país de América logró su independencia en 1804 tras una rebelión de personas esclavizadas?",
+"opciones": [
+"Chile",
+"Haití",
+"México"
+],
+"correcta": 1,
+"porque": "Haití fue el primer país latinoamericano en independizarse."
+},
+{
+"pregunta": "¿Qué suceso inició la independencia de México en 1810?",
+"opciones": [
+"La toma de Saigón",
+"El Grito de Dolores",
+"La Bastilla"
+],
+"correcta": 1,
+"porque": "El 16 de septiembre de 1810 Hidalgo llamó a luchar en Dolores."
+},
+{
+"pregunta": "¿En qué año terminó la guerra de independencia de México?",
+"opciones": [
+"1821",
+"1776",
+"1910"
+],
+"correcta": 0,
+"porque": "Con la Independencia consumada en 1821 México fue libre de España."
+},
+{
+"pregunta": "¿Qué querían los pueblos que se rebelaron?",
+"opciones": [
+"Tener más vacaciones",
+"Cambiar su comida",
+"Gobernarse y decidir por sí mismos"
+],
+"correcta": 2,
+"porque": "Querían dejar de ser dominados y tomar sus propias decisiones."
+},
+{
+"pregunta": "Si dibujas una línea del tiempo en tu salón con 1791, 1804, 1810 y 1821, ¿qué muestras?",
+"opciones": [
+"Los recreos del año",
+"Luchas por independencia en América",
+"Cambios del clima"
+],
+"correcta": 1,
+"porque": "Esas fechas son de rebeliones e independencias en Haití y México."
+}
+],
+"globalizacion-secundaria": [
+{
+"pregunta": "¿Qué es la globalización?",
+"opciones": [
+"Que cada país viva aislado",
+"Mayor conexión entre países",
+"Cerrar las fronteras"
+],
+"correcta": 1,
+"porque": "Países conectados en economía, cultura y tecnología."
+},
+{
+"pregunta": "¿Qué tecnología impulsó la globalización?",
+"opciones": [
+"Internet",
+"El telégrafo de madera",
+"La carreta"
+],
+"correcta": 0,
+"porque": "Internet conecta a personas y empresas de todo el mundo."
+},
+{
+"pregunta": "¿Cuál es un riesgo de la globalización?",
+"opciones": [
+"Que no haya comercio mundial",
+"Que todos tengan más dinero",
+"La pérdida de culturas propias"
+],
+"correcta": 2,
+"porque": "Uno de los riesgos es perder culturas y aumentar la desigualdad."
+},
+{
+"pregunta": "Una enfermedad pasa rápido de un país a otro por los viajes. ¿De qué es ejemplo?",
+"opciones": [
+"Un riesgo de la globalización",
+"Un efecto del clima frío",
+"Una ventaja del comercio local"
+],
+"correcta": 0,
+"porque": "Con tantos viajes entre países, los contagios se mueven más rápido."
+},
+{
+"pregunta": "Tu playera dice hecha en otro país. ¿Qué ejemplo es de globalización?",
+"opciones": [
+"Que la compraste usada",
+"Que viaje de lejos hasta tu tienda",
+"Que la hizo tu abuela"
+],
+"correcta": 1,
+"porque": "Los productos viajan y se comercian entre países."
+}
+],
+"guerra-de-corea-secundaria": [
+{
+"pregunta": "¿Entre qué años ocurrió la Guerra de Corea?",
+"opciones": [
+"1950 a 1953",
+"1914 a 1918",
+"1939 a 1945"
+],
+"correcta": 0,
+"porque": "Duró tres años, de 1950 a 1953."
+},
+{
+"pregunta": "¿Quién apoyó a Corea del Sur?",
+"opciones": [
+"Francia y España",
+"China y la URSS",
+"Estados Unidos y la ONU"
+],
+"correcta": 2,
+"porque": "El Sur recibió ayuda de Estados Unidos y la ONU."
+},
+{
+"pregunta": "¿Quién apoyó a Corea del Norte?",
+"opciones": [
+"Estados Unidos",
+"China y la URSS",
+"Canadá y México"
+],
+"correcta": 1,
+"porque": "El Norte tuvo el apoyo de China y la Unión Soviética."
+},
+{
+"pregunta": "¿Cómo terminó la Guerra de Corea?",
+"opciones": [
+"Con un tratado de paz firmado",
+"Con un armisticio",
+"Con una sola Corea"
+],
+"correcta": 1,
+"porque": "Un armisticio frena los combates, pero no hay tratado de paz."
+},
+{
+"pregunta": "Si en un mapa marcas el paralelo 38, ¿qué señalas?",
+"opciones": [
+"La frontera de México",
+"Cerca de la frontera entre las dos Coreas",
+"El límite de tu escuela"
+],
+"correcta": 1,
+"porque": "Esa línea divide al Norte del Sur, como una familia partida."
+}
+],
+"guerra-de-vietnam-secundaria": [
+{
+"pregunta": "¿Qué país apoyó a Vietnam del Sur?",
+"opciones": [
+"Unión Soviética",
+"Corea del Norte",
+"Estados Unidos"
+],
+"correcta": 2,
+"porque": "Estados Unidos apoyó al Sur en la guerra."
+},
+{
+"pregunta": "¿Qué ciudad cayó en 1975?",
+"opciones": [
+"Saigón",
+"Moscú",
+"Berlín"
+],
+"correcta": 0,
+"porque": "Con la caída de Saigón terminó la guerra."
+},
+{
+"pregunta": "¿Quién era el Vietcong?",
+"opciones": [
+"Un ejército de Francia",
+"Guerrilla comunista del Sur",
+"Un grupo de científicos"
+],
+"correcta": 1,
+"porque": "Peleaban con guerrilla en la selva a favor del Norte."
+},
+{
+"pregunta": "¿Cómo terminó la Guerra de Vietnam?",
+"opciones": [
+"Quedó dividido otra vez",
+"Ganó el Sur",
+"El país se unificó bajo el Norte"
+],
+"correcta": 2,
+"porque": "En 1975 el Norte tomó Saigón y todo el país quedó unido."
+},
+{
+"pregunta": "¿Por qué protestaron muchas personas en Estados Unidos?",
+"opciones": [
+"Querían más bombas",
+"No querían que la guerra siguiera",
+"No les gustaba el clima"
+],
+"correcta": 1,
+"porque": "Muchas personas veían la guerra como injusta y dolorosa."
+}
+]
+}

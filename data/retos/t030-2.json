@@ -1,0 +1,522 @@
+{
+"signos-de-puntuacion-avanzados-prepa": [
+{
+"pregunta": "¿Cuántos puntos tienen los puntos suspensivos?",
+"opciones": [
+"Cuatro",
+"Tres",
+"Dos"
+],
+"correcta": 1,
+"porque": "Los puntos suspensivos son tres y dejan algo en duda."
+},
+{
+"pregunta": "¿Para qué sirven las comillas?",
+"opciones": [
+"Citar o dar sentido especial",
+"Unir dos palabras sueltas",
+"Abrir un diálogo largo"
+],
+"correcta": 0,
+"porque": "Las comillas marcan citas o un sentido especial."
+},
+{
+"pregunta": "¿Qué signo anuncia una lista o una explicación?",
+"opciones": [
+"Punto y coma",
+"Dos puntos",
+"Los paréntesis"
+],
+"correcta": 1,
+"porque": "Los dos puntos anuncian lo que viene."
+},
+{
+"pregunta": "¿Qué efecto dan los puntos suspensivos en \"Quizá...\"?",
+"opciones": [
+"Inician una cita textual",
+"Cierran la idea del todo",
+"Dejan algo en duda"
+],
+"correcta": 2,
+"porque": "Los tres puntos dejan la frase en duda."
+},
+{
+"pregunta": "Escribes en tu cuaderno \"Hidalgo (1753-1811)\". ¿Qué hacen los paréntesis?",
+"opciones": [
+"Dejan algo en duda",
+"Citan palabras ajenas",
+"Aclaran datos"
+],
+"correcta": 2,
+"porque": "Los paréntesis aclaran."
+}
+],
+"tesis-argumentos-y-conclusion-prepa": [
+{
+"pregunta": "¿Cuál es una buena tesis?",
+"opciones": [
+"Los uniformes son de tela.",
+"Los uniformes deben ser opcionales.",
+"Hoy hace calor en el patio."
+],
+"correcta": 1,
+"porque": "Una tesis debe poder debatirse y ser clara."
+},
+{
+"pregunta": "En la imagen de la mesa, ¿qué son las patas?",
+"opciones": [
+"La conclusión",
+"La tesis",
+"Los argumentos"
+],
+"correcta": 2,
+"porque": "Los argumentos sostienen la tesis, como patas."
+},
+{
+"pregunta": "Un buen argumento lleva una razón y también...",
+"opciones": [
+"Un chiste",
+"Evidencia",
+"Una pregunta"
+],
+"correcta": 1,
+"porque": "Argumento es razón más evidencia."
+},
+{
+"pregunta": "Tesis: \"Hay que plantar árboles.\" ¿Cuál es un buen argumento?",
+"opciones": [
+"Mi vecino tiene un perro muy grande.",
+"Los árboles bajan la temperatura del lugar.",
+"Los árboles están en muchas calles."
+],
+"correcta": 1,
+"porque": "Un argumento da una razón que apoya la tesis."
+},
+{
+"pregunta": "¿Qué idea defiende el autor desde el inicio?",
+"opciones": [
+"Un ejemplo",
+"La conclusión",
+"La tesis"
+],
+"correcta": 2,
+"porque": "La tesis es la idea que se defiende."
+}
+],
+"textos-funcionales-carta-formal-curriculum-y-solicitud-prepa": [
+{
+"pregunta": "¿Con qué saludo empieza una carta formal?",
+"opciones": [
+"Hola, hola, licenciada.",
+"Estimada licenciada:",
+"¡Qué onda, licenciada!"
+],
+"correcta": 1,
+"porque": "En una carta formal el saludo es respetuoso."
+},
+{
+"pregunta": "¿Qué datos lleva un currículum?",
+"opciones": [
+"Estudios, experiencia y habilidades",
+"Secretos, quejas y rumores",
+"Chistes, apodos y juegos"
+],
+"correcta": 0,
+"porque": "El currículum muestra tu preparación."
+},
+{
+"pregunta": "¿Cómo debe ser una solicitud?",
+"opciones": [
+"Breve, formal y sin errores",
+"Larga y llena de bromas",
+"Escrita con letras de colores"
+],
+"correcta": 0,
+"porque": "Los textos formales son claros y cuidados."
+},
+{
+"pregunta": "¿Qué va primero en una carta formal?",
+"opciones": [
+"La firma",
+"Lugar y fecha",
+"La despedida"
+],
+"correcta": 1,
+"porque": "Primero van el lugar y la fecha; la firma va al final."
+},
+{
+"pregunta": "¿Para qué sirve una solicitud?",
+"opciones": [
+"Para contar un chiste a todos",
+"Para pedir algo con datos claros",
+"Para presumir tus calificaciones"
+],
+"correcta": 1,
+"porque": "La solicitud pide algo y da los datos necesarios."
+}
+],
+"tipos-de-argumentos-prepa": [
+{
+"pregunta": "\"Una doctora dice que lavarse las manos evita enfermedades.\" ¿Qué tipo es?",
+"opciones": [
+"De autoridad",
+"De ejemplo",
+"De analogía"
+],
+"correcta": 0,
+"porque": "Se apoya en lo que dice una experta."
+},
+{
+"pregunta": "\"En mi grupo, quienes leen diez minutos al día escriben mejor.\" ¿Qué tipo es?",
+"opciones": [
+"De ejemplo",
+"De datos",
+"De autoridad"
+],
+"correcta": 0,
+"porque": "Usa un caso concreto para apoyar la idea."
+},
+{
+"pregunta": "\"Un libro sin lectores es como un jardín sin flores.\" ¿Qué tipo es?",
+"opciones": [
+"De analogía",
+"De datos",
+"De autoridad"
+],
+"correcta": 0,
+"porque": "Compara con algo parecido."
+},
+{
+"pregunta": "\"Si no duermes, mañana no pondrás atención.\" ¿Qué tipo es?",
+"opciones": [
+"De analogía",
+"Causa y efecto",
+"De ejemplo"
+],
+"correcta": 1,
+"porque": "Muestra la consecuencia de una causa."
+},
+{
+"pregunta": "\"Es justo compartir el material porque todos merecen aprender.\" ¿Qué tipo es?",
+"opciones": [
+"De autoridad",
+"De datos",
+"Ético"
+],
+"correcta": 2,
+"porque": "Apela a valores como la justicia."
+}
+],
+"tipos-de-conectores-prepa": [
+{
+"pregunta": "¿Qué función tiene \"por ejemplo\"?",
+"opciones": [
+"Dar un ejemplo",
+"Marcar contraste",
+"Mostrar una causa"
+],
+"correcta": 0,
+"porque": "Introduce un caso que aclara la idea."
+},
+{
+"pregunta": "Completa: \"Estudié mucho; ___, aprobé.\"",
+"opciones": [
+"por lo tanto",
+"no obstante",
+"sin embargo"
+],
+"correcta": 0,
+"porque": "Aprobar es consecuencia de estudiar."
+},
+{
+"pregunta": "Completa: \"Falté a clase ___ estaba enfermo.\"",
+"opciones": [
+"ya que",
+"sin embargo",
+"por lo tanto"
+],
+"correcta": 0,
+"porque": "\"Ya que\" indica la causa de faltar."
+},
+{
+"pregunta": "¿Qué conector sirve para cerrar un texto?",
+"opciones": [
+"Por ejemplo",
+"En conclusión",
+"Sin embargo"
+],
+"correcta": 1,
+"porque": "En conclusión marca el cierre."
+},
+{
+"pregunta": "¿Qué función tiene \"además\"?",
+"opciones": [
+"Oponer dos ideas",
+"Sumar otra idea",
+"Cerrar el texto"
+],
+"correcta": 1,
+"porque": "Además agrega una idea más."
+}
+],
+"tipos-de-parrafos-estructura": [
+{
+"pregunta": "¿Cuáles son los tipos de párrafo por su función?",
+"opciones": [
+"Introducción, desarrollo y conclusión",
+"Título, firma y fecha",
+"Inicio, rima y estribillo"
+],
+"correcta": 0,
+"porque": "Por función se abren, se desarrollan y se cierran las ideas."
+},
+{
+"pregunta": "Si la idea principal va al inicio del párrafo, ¿cómo es?",
+"opciones": [
+"Narrativo",
+"Deductivo",
+"Inductivo"
+],
+"correcta": 1,
+"porque": "Deductivo: la idea va primero."
+},
+{
+"pregunta": "Si la idea principal va al final del párrafo, ¿cómo es?",
+"opciones": [
+"Deductivo",
+"Inductivo",
+"Descriptivo"
+],
+"correcta": 1,
+"porque": "Inductivo: la idea llega al final."
+},
+{
+"pregunta": "¿Cuántas ideas lleva un párrafo?",
+"opciones": [
+"Todas las del texto",
+"Una sola idea",
+"Una por renglón"
+],
+"correcta": 1,
+"porque": "Cada párrafo es una caja con una sola idea."
+},
+{
+"pregunta": "¿Qué párrafo cierra tu texto?",
+"opciones": [
+"La introducción",
+"La conclusión",
+"El desarrollo"
+],
+"correcta": 1,
+"porque": "La conclusión resume la idea principal al final."
+}
+],
+"vicios-del-lenguaje-prepa": [
+{
+"pregunta": "\"Vi al perro de Juan corriendo.\" ¿Qué vicio tiene?",
+"opciones": [
+"Ambigüedad",
+"Barbarismo",
+"Cacofonía"
+],
+"correcta": 0,
+"porque": "No se sabe quién corría: tiene dos sentidos."
+},
+{
+"pregunta": "¿Qué vicio es decir \"haiga\"?",
+"opciones": [
+"Muletilla",
+"Barbarismo",
+"Pleonasmo"
+],
+"correcta": 1,
+"porque": "Es una palabra mal dicha; se dice \"haya\"."
+},
+{
+"pregunta": "Alguien dice \"o sea\" en cada frase. ¿Qué vicio es?",
+"opciones": [
+"Cacofonía",
+"Barbarismo",
+"Muletilla"
+],
+"correcta": 2,
+"porque": "Repetir sin necesidad es una muletilla."
+},
+{
+"pregunta": "¿Qué oración tiene palabras que sobran?",
+"opciones": [
+"Voy a estudiar el tema con calma.",
+"Voy a repetir el tema con calma.",
+"Voy a volver a repetir el tema."
+],
+"correcta": 2,
+"porque": "\"Volver a repetir\" es pleonasmo: repetir ya incluye volver a hacerlo."
+},
+{
+"pregunta": "¿Qué es una cacofonía?",
+"opciones": [
+"Palabras que sobran en la frase",
+"Sonidos repetidos que suenan mal",
+"Una palabra mal dicha"
+],
+"correcta": 1,
+"porque": "Es cuando los sonidos se repiten y molestan al oído."
+}
+],
+"analisis-colaborativo-procedimientos-narrativos-prepa": [
+{
+"pregunta": "¿Qué hacen primero al analizar un cuento en equipo?",
+"opciones": [
+"Leen el mismo texto",
+"Votan al mejor cuento",
+"Escriben otro final"
+],
+"correcta": 0,
+"porque": "Todos deben conocer el mismo texto antes de comentar."
+},
+{
+"pregunta": "¿Cuál es una crítica útil?",
+"opciones": [
+"Tu cuento es muy aburrido y no me gusta nada.",
+"Me gustó cómo describes el patio; podrías contar qué siente Ana.",
+"No sirve así, cámbialo todo desde cero."
+],
+"correcta": 1,
+"porque": "La crítica útil es específica, amable y propone algo."
+},
+{
+"pregunta": "¿Qué parte de una buena crítica ayuda a mejorar?",
+"opciones": [
+"Una burla",
+"Una propuesta",
+"Un regaño"
+],
+"correcta": 1,
+"porque": "Proponer algo da una ruta para mejorar el texto."
+},
+{
+"pregunta": "Ya marcaron lo que notan en el cuento. ¿Qué sigue?",
+"opciones": [
+"Cambian la historia",
+"Eligen un ganador",
+"Comentan qué efecto causa"
+],
+"correcta": 2,
+"porque": "Después de marcar, comentan el efecto que produce."
+},
+{
+"pregunta": "Se preguntan qué pasaría si otro personaje narrara. ¿Qué analizan?",
+"opciones": [
+"Quién narra y desde dónde",
+"El tamaño de las letras",
+"La ortografía del título"
+],
+"correcta": 0,
+"porque": "Analizar quién narra cambia cómo se cuenta la historia."
+}
+],
+"caracteristicas-linguisticas-narrativas-populares-prepa": [
+{
+"pregunta": "¿Cuál es un inicio típico de un cuento popular?",
+"opciones": [
+"Atentamente",
+"Querido diario",
+"Había una vez"
+],
+"correcta": 2,
+"porque": "Es una fórmula de inicio muy común en relatos populares."
+},
+{
+"pregunta": "¿Cuál es un refrán?",
+"opciones": [
+"Más vale tarde que nunca",
+"Mañana habrá una tarea",
+"Hoy toca clase de ciencias"
+],
+"correcta": 0,
+"porque": "Los refranes son dichos populares que dan una enseñanza."
+},
+{
+"pregunta": "¿Qué hace el narrador de una leyenda popular?",
+"opciones": [
+"Le habla al oyente",
+"Se esconde y no habla",
+"Solo da cifras y fechas"
+],
+"correcta": 0,
+"porque": "En lo popular, el narrador platica con quien escucha."
+},
+{
+"pregunta": "¿Cómo suena una narrativa popular?",
+"opciones": [
+"Como un contrato",
+"Como una plática",
+"Como un reglamento"
+],
+"correcta": 1,
+"porque": "Si suena a plática, es popular."
+},
+{
+"pregunta": "¿Qué rasgo tiene un relato popular?",
+"opciones": [
+"Tablas con muchas cifras",
+"Palabras propias de la región",
+"Palabras técnicas de ciencia"
+],
+"correcta": 1,
+"porque": "Usa el habla de la gente de cada lugar."
+}
+],
+"escribir-texto-descriptivo-narrativo": [
+{
+"pregunta": "¿Qué cuenta un texto narrativo?",
+"opciones": [
+"Hechos con personajes y final",
+"Cifras y tablas",
+"Solo colores y olores"
+],
+"correcta": 0,
+"porque": "Narrar es contar qué pasó en el tiempo."
+},
+{
+"pregunta": "\"El gato, pequeño y gris, tenía ojos verdes.\" ¿Qué texto es?",
+"opciones": [
+"Narrativo",
+"Argumentativo",
+"Descriptivo"
+],
+"correcta": 2,
+"porque": "Dice cómo es el gato, no qué pasó."
+},
+{
+"pregunta": "Ya elegiste tema y tipo de texto. ¿Qué sigue?",
+"opciones": [
+"Escribir la versión final",
+"Hacer un plan con ideas",
+"Revisar la ortografía"
+],
+"correcta": 1,
+"porque": "Después de elegir, planeas tus ideas."
+},
+{
+"pregunta": "¿Qué significa autoría?",
+"opciones": [
+"Otra persona escribe por ti",
+"Copias un libro completo",
+"Las ideas y palabras son tuyas"
+],
+"correcta": 2,
+"porque": "Si usas ideas ajenas, mencionas la fuente."
+},
+{
+"pregunta": "¿Qué lleva un texto narrativo?",
+"opciones": [
+"Solo adjetivos y comparaciones",
+"Cifras, tablas y gráficas",
+"Personajes, lugar, inicio, conflicto y final"
+],
+"correcta": 2,
+"porque": "Estos elementos forman una historia completa."
+}
+]
+}

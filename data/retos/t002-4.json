@@ -1,0 +1,522 @@
+{
+"suma-de-fracciones-con-igual-denominador-primaria": [
+{
+"pregunta": "Resuelve $\\frac{2}{9} + \\frac{5}{9}$.",
+"opciones": [
+"$\\frac{7}{9}$",
+"$\\frac{7}{18}$",
+"$\\frac{10}{9}$"
+],
+"correcta": 0,
+"porque": "Se suman los numeradores, 2 + 5 = 7, y el 9 se queda igual."
+},
+{
+"pregunta": "Resuelve $\\frac{4}{5} + \\frac{3}{5}$.",
+"opciones": [
+"$1\\frac{2}{5}$",
+"$\\frac{7}{10}$",
+"$\\frac{1}{5}$"
+],
+"correcta": 0,
+"porque": "La suma es $\\frac{7}{5}$, que es 1 entero y $\\frac{2}{5}$."
+},
+{
+"pregunta": "Lees $\\frac{2}{8}$ de un libro el lunes y $\\frac{3}{8}$ el martes. ¿Cuánto llevas?",
+"opciones": [
+"$\\frac{5}{16}$",
+"$\\frac{6}{8}$",
+"$\\frac{5}{8}$"
+],
+"correcta": 2,
+"porque": "2 + 3 = 5 octavos, porque los pedazos son del mismo tamaño."
+},
+{
+"pregunta": "¿Cuál suma está bien hecha?",
+"opciones": [
+"$\\frac{1}{4} + \\frac{2}{4} = \\frac{2}{4}$",
+"$\\frac{1}{4} + \\frac{2}{4} = \\frac{3}{4}$",
+"$\\frac{1}{4} + \\frac{2}{4} = \\frac{3}{8}$"
+],
+"correcta": 1,
+"porque": "El error común es sumar también los denominadores."
+},
+{
+"pregunta": "Resuelve $\\frac{4}{10} + \\frac{3}{10}$.",
+"opciones": [
+"$\\frac{7}{10}$",
+"$\\frac{12}{10}$",
+"$\\frac{7}{20}$"
+],
+"correcta": 0,
+"porque": "Sumas 4 + 3 = 7 y dejas el 10 abajo."
+}
+],
+"suma-de-numeros-con-miles-primaria": [
+{
+"pregunta": "Resuelve 3 685 + 2 748.",
+"opciones": [
+"6 323",
+"6 433",
+"5 433"
+],
+"correcta": 1,
+"porque": "Sumas por columnas y llevas: 5 + 8 = 13, 8 + 4 + 1 = 13, y así sigue."
+},
+{
+"pregunta": "Resuelve 9 999 + 1.",
+"opciones": [
+"10 999",
+"10 000",
+"9 000"
+],
+"correcta": 1,
+"porque": "Llevas 1 en cada columna hasta llegar a las decenas de millar."
+},
+{
+"pregunta": "Resuelve 15 230 + 4 875.",
+"opciones": [
+"20 105",
+"20 005",
+"19 105"
+],
+"correcta": 0,
+"porque": "0 + 5 = 5, 3 + 7 = 10, 2 + 8 + 1 = 11 y así sigue hasta 20 105."
+},
+{
+"pregunta": "La biblioteca tiene 1 450 libros y recibe 2 380 más. ¿Cuántos hay ahora?",
+"opciones": [
+"3 730",
+"3 830",
+"4 830"
+],
+"correcta": 1,
+"porque": "1 450 + 2 380 = 3 830."
+},
+{
+"pregunta": "Estima 3 900 + 2 100 redondeando al millar. ¿Cuánto da?",
+"opciones": [
+"7 000",
+"6 000",
+"5 000"
+],
+"correcta": 1,
+"porque": "3 900 se vuelve 4 000, 2 100 se vuelve 2 000, y suman 6 000."
+}
+],
+"suma-resta-numeros-grandes-fracciones": [
+{
+"pregunta": "Resuelve 5 367 + 2 845.",
+"opciones": [
+"7 212",
+"8 212",
+"8 102"
+],
+"correcta": 1,
+"porque": "Sumas por columnas: 7 + 5 = 12, 6 + 4 + 1 = 11, y así sigue."
+},
+{
+"pregunta": "Resuelve 7 004 - 2 589.",
+"opciones": [
+"5 585",
+"4 415",
+"5 415"
+],
+"correcta": 1,
+"porque": "Pides prestado en cada columna, y 4 415 + 2 589 = 7 004."
+},
+{
+"pregunta": "Resuelve $\\frac{3}{8} + \\frac{4}{8}$.",
+"opciones": [
+"$\\frac{12}{8}$",
+"$\\frac{7}{8}$",
+"$\\frac{7}{16}$"
+],
+"correcta": 1,
+"porque": "Se suma arriba, 3 + 4 = 7, y el 8 se queda igual."
+},
+{
+"pregunta": "Resuelve $\\frac{9}{11} - \\frac{4}{11}$.",
+"opciones": [
+"$\\frac{5}{11}$",
+"$\\frac{5}{0}$",
+"$\\frac{13}{11}$"
+],
+"correcta": 0,
+"porque": "Se resta arriba, 9 - 4 = 5, y el denominador no cambia."
+},
+{
+"pregunta": "Un rollo de listón tiene 2 500 m y se usan 1 175 m. ¿Cuántos metros quedan?",
+"opciones": [
+"3 675",
+"1 425",
+"1 325"
+],
+"correcta": 2,
+"porque": "2 500 - 1 175 = 1 325, y 1 325 + 1 175 = 2 500."
+}
+],
+"tipos-de-angulos-recto-agudo-y-obtuso-primaria": [
+{
+"pregunta": "¿Qué tipo de ángulo mide 150°?",
+"opciones": [
+"Obtuso",
+"Agudo",
+"Recto"
+],
+"correcta": 0,
+"porque": "Un ángulo mayor que 90° y menor que 180° es obtuso."
+},
+{
+"pregunta": "¿Qué tipo de ángulo mide 30°?",
+"opciones": [
+"Llano",
+"Obtuso",
+"Agudo"
+],
+"correcta": 2,
+"porque": "Un ángulo menor que 90° es agudo, como pico de pájaro."
+},
+{
+"pregunta": "Las manecillas del reloj marcan las 3 en punto. ¿Qué ángulo forman?",
+"opciones": [
+"Obtuso, porque está muy abierto",
+"Recto",
+"Agudo"
+],
+"correcta": 1,
+"porque": "A las 3 hacen una esquina como la de una hoja, de 90°."
+},
+{
+"pregunta": "¿Cuánto mide un ángulo llano?",
+"opciones": [
+"180°",
+"360°",
+"90°"
+],
+"correcta": 0,
+"porque": "El ángulo llano es una línea recta, que mide 180°."
+},
+{
+"pregunta": "Una puerta se abre solo un poquito. ¿Qué ángulo forma?",
+"opciones": [
+"Obtuso",
+"Recto",
+"Agudo"
+],
+"correcta": 2,
+"porque": "Poco abierta es menos de 90°, y eso es un ángulo agudo."
+}
+],
+"tipos-de-cuadrilateros-primaria": [
+{
+"pregunta": "¿Qué figura tiene 4 lados iguales y sin ángulos rectos?",
+"opciones": [
+"Cuadrado",
+"Rombo",
+"Rectángulo"
+],
+"correcta": 1,
+"porque": "El rombo tiene lados iguales, pero está aplastado, sin esquinas rectas."
+},
+{
+"pregunta": "¿Cuántos pares de lados paralelos tiene un paralelogramo?",
+"opciones": [
+"Ninguno",
+"Uno",
+"Dos"
+],
+"correcta": 2,
+"porque": "Los paralelogramos tienen dos pares de lados paralelos."
+},
+{
+"pregunta": "Tres ángulos de un cuadrilátero miden 110°, 80° y 100°. ¿Cuánto mide el cuarto?",
+"opciones": [
+"290°",
+"70°",
+"90°"
+],
+"correcta": 1,
+"porque": "Los ángulos suman 360° y 110 + 80 + 100 = 290; 360 - 290 = 70."
+},
+{
+"pregunta": "Tu cuaderno tiene lados opuestos iguales y 4 esquinas rectas. ¿Qué figura es?",
+"opciones": [
+"Rectángulo",
+"Trapecio, porque tiene un par de lados paralelos",
+"Rombo"
+],
+"correcta": 0,
+"porque": "El rectángulo tiene lados opuestos iguales y 4 ángulos rectos."
+},
+{
+"pregunta": "¿Cuál cuadrilátero tiene solo un par de lados paralelos?",
+"opciones": [
+"Cuadrado",
+"Romboide",
+"Trapecio"
+],
+"correcta": 2,
+"porque": "El trapecio tiene un solo par paralelo, y el cuadrado tiene dos."
+}
+],
+"triangulos-cuadrilateros-angulos": [
+{
+"pregunta": "Un triángulo tiene lados de 6, 6 y 6 cm. ¿Cómo se llama?",
+"opciones": [
+"Isósceles",
+"Escaleno",
+"Equilátero"
+],
+"correcta": 2,
+"porque": "Equi significa igual: sus tres lados miden lo mismo."
+},
+{
+"pregunta": "Un triángulo tiene lados de 4, 7 y 9 cm. ¿Cómo se llama?",
+"opciones": [
+"Equilátero",
+"Isósceles, porque tiene dos lados iguales",
+"Escaleno"
+],
+"correcta": 2,
+"porque": "Todos sus lados son distintos, y eso es un escaleno."
+},
+{
+"pregunta": "Un triángulo tiene lados de 3, 3 y 5 cm. ¿Cómo se llama?",
+"opciones": [
+"Escaleno",
+"Isósceles",
+"Equilátero"
+],
+"correcta": 1,
+"porque": "Tiene dos lados iguales, y eso es un isósceles."
+},
+{
+"pregunta": "Un ángulo mide 30°. ¿De qué tipo es?",
+"opciones": [
+"Recto",
+"Obtuso",
+"Agudo"
+],
+"correcta": 2,
+"porque": "Los ángulos menores de 90° son agudos."
+},
+{
+"pregunta": "¿Cuánto mide cada esquina de una hoja cuadrada?",
+"opciones": [
+"90°",
+"45°",
+"180°"
+],
+"correcta": 0,
+"porque": "Cada esquina de un cuadrado es un ángulo recto de 90°."
+}
+],
+"triangulos-segun-sus-angulos-primaria": [
+{
+"pregunta": "Un triángulo tiene ángulos de 90° y 40°. ¿Cuánto mide el tercero?",
+"opciones": [
+"130°",
+"50°",
+"140°"
+],
+"correcta": 1,
+"porque": "Los ángulos suman 180°: 90 + 40 = 130 y 180 - 130 = 50."
+},
+{
+"pregunta": "Un triángulo tiene ángulos de 100°, 50° y 30°. ¿Qué tipo es?",
+"opciones": [
+"Obtusángulo",
+"Acutángulo",
+"Rectángulo"
+],
+"correcta": 0,
+"porque": "Tiene un ángulo obtuso, el de 100°."
+},
+{
+"pregunta": "Un triángulo tiene ángulos de 70°, 60° y 50°. ¿Qué tipo es?",
+"opciones": [
+"Obtusángulo",
+"Acutángulo",
+"Rectángulo"
+],
+"correcta": 1,
+"porque": "Sus tres ángulos son agudos."
+},
+{
+"pregunta": "Dos ángulos de un triángulo miden 45° y 65°. ¿Cuánto mide el tercero?",
+"opciones": [
+"90°",
+"70°",
+"110°"
+],
+"correcta": 1,
+"porque": "45 + 65 = 110 y 180 - 110 = 70."
+},
+{
+"pregunta": "¿Puede un triángulo tener dos ángulos obtusos?",
+"opciones": [
+"No, porque pasarían de 180°",
+"Sí, siempre que el tercero sea recto",
+"Sí, si los lados son iguales"
+],
+"correcta": 0,
+"porque": "Dos ángulos de más de 90° ya pasan de 180°, y no cabe el tercero."
+}
+],
+"triangulos-segun-sus-lados-primaria": [
+{
+"pregunta": "Un triángulo mide 8, 8 y 3 cm. ¿Qué tipo es?",
+"opciones": [
+"Isósceles",
+"Escaleno",
+"Equilátero"
+],
+"correcta": 0,
+"porque": "Tiene exactamente dos lados iguales."
+},
+{
+"pregunta": "Un triángulo mide 4, 5 y 6 cm. ¿Qué tipo es?",
+"opciones": [
+"Isósceles",
+"Escaleno",
+"Equilátero"
+],
+"correcta": 1,
+"porque": "Los tres lados son diferentes."
+},
+{
+"pregunta": "¿Cuánto mide cada ángulo de un triángulo equilátero?",
+"opciones": [
+"180°",
+"90°",
+"60°"
+],
+"correcta": 2,
+"porque": "Los tres ángulos son iguales y suman 180°: 180 ÷ 3 = 60."
+},
+{
+"pregunta": "¿Se puede formar un triángulo con lados de 3, 3 y 10 cm?",
+"opciones": [
+"Sí, porque dos lados son iguales",
+"No, porque 3 + 3 es menor que 10",
+"Sí, porque 10 es el lado más largo de todos"
+],
+"correcta": 1,
+"porque": "Dos lados juntos deben ser mayores que el tercero."
+},
+{
+"pregunta": "Un triángulo mide 2, 2 y 2 cm. ¿Qué tipo es?",
+"opciones": [
+"Equilátero",
+"Isósceles",
+"Escaleno"
+],
+"correcta": 0,
+"porque": "Los tres lados iguales hacen un equilátero."
+}
+],
+"valor-posicional-de-millares-y-millones-primaria": [
+{
+"pregunta": "En 72 140, ¿cuánto vale el 2?",
+"opciones": [
+"2 000",
+"20 000",
+"200"
+],
+"correcta": 0,
+"porque": "El 2 está en las unidades de millar, y vale 2 000."
+},
+{
+"pregunta": "¿Cómo se descompone 305 200?",
+"opciones": [
+"300 000 + 50 000 + 200",
+"30 000 + 5 000 + 200",
+"300 000 + 5 000 + 200"
+],
+"correcta": 2,
+"porque": "El 3 son centenas de millar, el 5 son unidades de millar y el 2 son centenas."
+},
+{
+"pregunta": "En 4 650 000, ¿cuánto vale el 4?",
+"opciones": [
+"4 000 000",
+"40 000",
+"400 000"
+],
+"correcta": 0,
+"porque": "El 4 está en las unidades de millón."
+},
+{
+"pregunta": "Cada lugar hacia la izquierda vale...",
+"opciones": [
+"2 veces más",
+"100 veces más",
+"10 veces más"
+],
+"correcta": 2,
+"porque": "Cada lugar vale diez veces el de su derecha."
+},
+{
+"pregunta": "¿Qué vale más: el 3 de 3 400 o el 3 de 30 400?",
+"opciones": [
+"El 3 de 3 400",
+"El 3 de 30 400",
+"Valen lo mismo, porque es la misma cifra"
+],
+"correcta": 1,
+"porque": "El primero vale 3 000 y el segundo vale 30 000."
+}
+],
+"area-de-poligonos-regulares-primaria": [
+{
+"pregunta": "¿Qué fórmula sirve para el área de un polígono regular?",
+"opciones": [
+"$A = P + a$",
+"$A = P \\times a \\times 2$",
+"$A = \\frac{P \\times a}{2}$"
+],
+"correcta": 2,
+"porque": "Perímetro por apotema, entre dos."
+},
+{
+"pregunta": "¿Qué es la apotema?",
+"opciones": [
+"La distancia del centro a una esquina del polígono",
+"El largo de un lado del polígono",
+"La distancia del centro al punto medio de un lado"
+],
+"correcta": 2,
+"porque": "La apotema baja al medio de un lado, sin llegar a la esquina."
+},
+{
+"pregunta": "Un pentágono regular tiene lado 6 cm y apotema 4.1 cm. ¿Cuál es su área?",
+"opciones": [
+"24.6 cm²",
+"123 cm²",
+"61.5 cm²"
+],
+"correcta": 2,
+"porque": "P = 5 × 6 = 30 y $\\frac{30 \\times 4.1}{2} = 61.5$."
+},
+{
+"pregunta": "Un polígono regular tiene perímetro 24 cm y apotema 3.5 cm. ¿Cuál es su área?",
+"opciones": [
+"42 cm²",
+"27.5 cm²",
+"84 cm²"
+],
+"correcta": 0,
+"porque": "24 × 3.5 = 84 y se divide entre 2: 42."
+},
+{
+"pregunta": "Un cuadrado de lado 10 cm tiene apotema 5 cm. ¿Cuál es su área?",
+"opciones": [
+"50 cm²",
+"100 cm²",
+"200 cm²"
+],
+"correcta": 1,
+"porque": "P = 40 y $\\frac{40 \\times 5}{2} = 100$, igual que 10 × 10."
+}
+]
+}

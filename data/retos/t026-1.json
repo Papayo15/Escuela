@@ -1,0 +1,522 @@
+{
+"mezclas-homogeneas-heterogeneas-separacion-secundaria": [
+{
+"pregunta": "¿Qué mezcla es homogénea?",
+"opciones": [
+"Agua con piedritas",
+"Sopa con verduras",
+"Té con azúcar disuelta"
+],
+"correcta": 2,
+"porque": "En el té no se ven partes distintas, se ve una sola."
+},
+{
+"pregunta": "¿Qué método separa los colores de la tinta de un plumón?",
+"opciones": [
+"Evaporación al sol",
+"Decantación en vaso",
+"Cromatografía en papel"
+],
+"correcta": 2,
+"porque": "La cromatografía separa colores con un papel que absorbe."
+},
+{
+"pregunta": "¿Cómo se ve una mezcla heterogénea?",
+"opciones": [
+"Se ve igual en todo",
+"Se ve una sola parte",
+"Se ven varias partes"
+],
+"correcta": 2,
+"porque": "En la heterogénea puedes distinguir sus partes a simple vista."
+},
+{
+"pregunta": "Hay lodo en el fondo de un frasco y agua clara arriba. ¿Qué método usas?",
+"opciones": [
+"Evaporar todo el frasco",
+"Hacer cromatografía",
+"Decantar el agua clara"
+],
+"correcta": 2,
+"porque": "Decantar es dejar que se asiente y pasar el líquido a otro vaso."
+},
+{
+"pregunta": "¿Qué les pasa a las sustancias de una mezcla?",
+"opciones": [
+"Se vuelven otra sustancia",
+"Desaparecen al juntarse",
+"Solo se juntan, no cambian"
+],
+"correcta": 2,
+"porque": "En una mezcla las sustancias siguen siendo las mismas."
+}
+],
+"modelo-corpuscular-materia-secundaria": [
+{
+"pregunta": "Calientas un gas. ¿Qué pasa con sus partículas?",
+"opciones": [
+"Se mueven más rápido",
+"Se quedan completamente quietas",
+"Se pegan unas con otras"
+],
+"correcta": 0,
+"porque": "Si calientas, las partículas se mueven más rápido."
+},
+{
+"pregunta": "¿Qué pasa con las partículas del agua al calentarla?",
+"opciones": [
+"Se hacen más grandes",
+"Se mueven más rápido",
+"Se quedan quietas"
+],
+"correcta": 1,
+"porque": "Con calor, las partículas ganan energía y se mueven más rápido."
+},
+{
+"pregunta": "Las partículas están juntas pero se deslizan. ¿Qué estado es?",
+"opciones": [
+"Líquido",
+"Gas",
+"Sólido"
+],
+"correcta": 0,
+"porque": "En el líquido las partículas están juntas pero pueden resbalar."
+},
+{
+"pregunta": "Un dibujo muestra átomos distintos pegados en grupos iguales. ¿Qué es?",
+"opciones": [
+"Un compuesto",
+"Una mezcla",
+"Un elemento"
+],
+"correcta": 0,
+"porque": "Un compuesto tiene átomos distintos unidos formando grupos iguales."
+},
+{
+"pregunta": "¿Por qué una gota de tinta se reparte sola en el agua?",
+"opciones": [
+"El agua aplasta la tinta",
+"Las partículas se mueven y se mezclan",
+"Las partículas están quietas"
+],
+"correcta": 1,
+"porque": "Las partículas siempre están en movimiento y se esparcen."
+}
+],
+"modelo-de-bohr-secundaria": [
+{
+"pregunta": "¿Cómo giran los electrones en el modelo de Bohr?",
+"opciones": [
+"En niveles fijos de energía",
+"Quietos dentro del núcleo",
+"Por cualquier camino libre"
+],
+"correcta": 0,
+"porque": "Bohr dijo que los electrones van en niveles con energía fija."
+},
+{
+"pregunta": "Un electrón sube de nivel. ¿Qué pasó?",
+"opciones": [
+"Emitió luz",
+"Perdió su carga",
+"Absorbió energía"
+],
+"correcta": 2,
+"porque": "Para subir de nivel el electrón necesita absorber energía."
+},
+{
+"pregunta": "Distribuye los 3 electrones del litio.",
+"opciones": [
+"Nivel 1: 2 y nivel 2: 1",
+"Nivel 1: 1 y nivel 2: 2",
+"Nivel 1: 3 y nivel 2: 0"
+],
+"correcta": 0,
+"porque": "El nivel 1 solo admite 2 electrones, el que sobra va al nivel 2."
+},
+{
+"pregunta": "¿Cuántos electrones caben en el nivel 3?",
+"opciones": [
+"18 electrones",
+"8 electrones",
+"10 electrones"
+],
+"correcta": 0,
+"porque": "Según la tabla, el nivel 3 admite hasta 18 electrones."
+},
+{
+"pregunta": "El sodio tiene 11 electrones. ¿Cuántos son de valencia?",
+"opciones": [
+"2 electrones",
+"8 electrones",
+"1 electrón"
+],
+"correcta": 2,
+"porque": "Se reparten 2, 8 y 1, y el último nivel tiene 1 electrón."
+}
+],
+"nombres-de-acidos-secundaria": [
+{
+"pregunta": "¿Cómo se llama el $\\ce{HF}$ en disolución?",
+"opciones": [
+"Ácido fluorhídrico",
+"Ácido fluoroso",
+"Ácido fluórico"
+],
+"correcta": 0,
+"porque": "Sin oxígeno, el nombre del ácido termina en hídrico."
+},
+{
+"pregunta": "¿Cómo se llama el $\\ce{H2SO3}$?",
+"opciones": [
+"Ácido sulfhídrico",
+"Ácido sulfuroso",
+"Ácido sulfúrico"
+],
+"correcta": 1,
+"porque": "Tiene menos oxígeno que el sulfúrico, por eso termina en oso."
+},
+{
+"pregunta": "¿Cómo terminan los ácidos sin oxígeno?",
+"opciones": [
+"En hídrico",
+"En ico",
+"En oso"
+],
+"correcta": 0,
+"porque": "Los ácidos sin oxígeno llevan la terminación hídrico."
+},
+{
+"pregunta": "¿Cuál es la fórmula del ácido sulfúrico?",
+"opciones": [
+"$\\ce{H2SO4}$",
+"$\\ce{H2SO3}$",
+"$\\ce{HNO3}$"
+],
+"correcta": 0,
+"porque": "El sulfúrico es el que tiene más oxígeno, cuatro."
+},
+{
+"pregunta": "¿Qué palabra va al inicio del nombre de un ácido?",
+"opciones": [
+"Sal",
+"Óxido",
+"Ácido"
+],
+"correcta": 2,
+"porque": "Todos los ácidos empiezan con la palabra ácido."
+}
+],
+"nombres-de-hidroxidos-secundaria": [
+{
+"pregunta": "¿Cómo se llama el $\\ce{KOH}$?",
+"opciones": [
+"Óxido de potasio",
+"Hidruro de potasio",
+"Hidróxido de potasio"
+],
+"correcta": 2,
+"porque": "Se nombra hidróxido de y luego el metal, aquí potasio."
+},
+{
+"pregunta": "¿Cuál es la fórmula del hidróxido de sodio?",
+"opciones": [
+"$\\ce{NaO}$",
+"$\\ce{Na(OH)2}$",
+"$\\ce{NaOH}$"
+],
+"correcta": 2,
+"porque": "El sodio tiene carga 1, así que lleva un solo OH."
+},
+{
+"pregunta": "¿Cómo se llama el $\\ce{Fe(OH)2}$?",
+"opciones": [
+"Hidróxido de hierro (II)",
+"Hidróxido de hierro (I)",
+"Hidróxido de hierro (III)"
+],
+"correcta": 0,
+"porque": "Hay dos OH, así que el hierro tiene carga 2."
+},
+{
+"pregunta": "Un metal tiene carga 2. ¿Cuántos OH lleva su hidróxido?",
+"opciones": [
+"Dos",
+"Tres",
+"Uno"
+],
+"correcta": 0,
+"porque": "Cada mano del metal agarra un OH, y tiene dos manos."
+},
+{
+"pregunta": "¿Qué dice el número romano en el nombre?",
+"opciones": [
+"La carga del metal",
+"Cuántos átomos hay",
+"Cuántos oxígenos hay"
+],
+"correcta": 0,
+"porque": "El número romano indica la carga del metal."
+}
+],
+"nombres-de-oxidos-secundaria": [
+{
+"pregunta": "¿Cómo se llama el $\\ce{Na2O}$?",
+"opciones": [
+"Cloruro de sodio",
+"Monóxido de sodio",
+"Óxido de sodio"
+],
+"correcta": 2,
+"porque": "Con un metal se dice óxido de y el nombre del metal."
+},
+{
+"pregunta": "¿Cómo se llama el $\\ce{CO2}$?",
+"opciones": [
+"Trióxido de carbono",
+"Dióxido de carbono",
+"Monóxido de carbono"
+],
+"correcta": 1,
+"porque": "Hay 2 oxígenos y el prefijo di significa dos."
+},
+{
+"pregunta": "¿Qué lleva el nombre de un óxido de metal con varias cargas?",
+"opciones": [
+"Un número romano",
+"Un final en uro",
+"Un prefijo como di"
+],
+"correcta": 0,
+"porque": "El metal con varias cargas usa número romano."
+},
+{
+"pregunta": "Mg tiene carga 2+ y O tiene carga 2-. ¿Qué fórmula resulta?",
+"opciones": [
+"$\\ce{Mg2O}$",
+"$\\ce{Mg2O2}$",
+"$\\ce{MgO}$"
+],
+"correcta": 2,
+"porque": "Las cargas ya son iguales, así que se cancelan sin cruzar nada."
+},
+{
+"pregunta": "¿Cuál es la fórmula del trióxido de azufre?",
+"opciones": [
+"$\\ce{SO3}$",
+"$\\ce{S3O}$",
+"$\\ce{SO2}$"
+],
+"correcta": 0,
+"porque": "El prefijo tri indica tres oxígenos."
+}
+],
+"nombres-de-sales-secundaria": [
+{
+"pregunta": "¿Cómo se llama el $\\ce{KCl}$?",
+"opciones": [
+"Cloruro de potasio",
+"Clorito de potasio",
+"Clorato de potasio"
+],
+"correcta": 0,
+"porque": "Sin oxígeno, el nombre de la sal termina en uro."
+},
+{
+"pregunta": "¿Cómo se llama el $\\ce{CaCO3}$?",
+"opciones": [
+"Sulfato de calcio",
+"Carbonato de calcio",
+"Nitrato de calcio"
+],
+"correcta": 1,
+"porque": "El grupo $\\ce{CO3}$ se llama carbonato."
+},
+{
+"pregunta": "¿Cuál es la fórmula del sulfato de sodio?",
+"opciones": [
+"$\\ce{Na2SO3}$",
+"$\\ce{Na2SO4}$",
+"$\\ce{NaSO4}$"
+],
+"correcta": 1,
+"porque": "El sulfato vale -2, así que necesita 2 átomos de sodio."
+},
+{
+"pregunta": "¿Qué final tiene una sal sin oxígeno?",
+"opciones": [
+"Ito",
+"Uro",
+"Ato"
+],
+"correcta": 1,
+"porque": "Las sales sin oxígeno terminan en uro, como cloruro."
+},
+{
+"pregunta": "¿Cómo se llama el $\\ce{FeCl3}$?",
+"opciones": [
+"Cloruro de hierro (II)",
+"Cloruro de hierro (III)",
+"Cloruro de hierro (I)"
+],
+"correcta": 1,
+"porque": "Tres cloros suman carga 3, y el hierro tiene la misma."
+}
+],
+"numero-atomico-y-masa-atomica-secundaria": [
+{
+"pregunta": "Un átomo tiene $Z = 17$ y $A = 35$. ¿Cuántos neutrones tiene?",
+"opciones": [
+"18 neutrones",
+"17 neutrones",
+"52 neutrones"
+],
+"correcta": 0,
+"porque": "Los neutrones son $A - Z$, es decir $35 - 17 = 18$."
+},
+{
+"pregunta": "Un átomo tiene $Z = 20$ y $A = 40$. ¿Cuántos protones tiene?",
+"opciones": [
+"60 protones",
+"20 protones",
+"40 protones"
+],
+"correcta": 1,
+"porque": "El número atómico $Z$ es la cantidad de protones."
+},
+{
+"pregunta": "Un átomo neutro tiene $Z = 9$. ¿Cuántos electrones tiene?",
+"opciones": [
+"10 electrones",
+"9 electrones",
+"18 electrones"
+],
+"correcta": 1,
+"porque": "Si es neutro, hay tantos electrones como protones."
+},
+{
+"pregunta": "Un átomo tiene 5 protones y 6 neutrones. ¿Cuánto vale $A$?",
+"opciones": [
+"11",
+"6",
+"30"
+],
+"correcta": 0,
+"porque": "El número de masa suma protones y neutrones: $5 + 6 = 11$."
+},
+{
+"pregunta": "¿Qué te dice $Z$ de un átomo?",
+"opciones": [
+"Cuántos neutrones tiene",
+"Cuántos electrones perdió",
+"Cuántos protones tiene"
+],
+"correcta": 2,
+"porque": "$Z$ es la credencial del átomo: dice qué elemento es."
+}
+],
+"numero-de-oxidacion-secundaria": [
+{
+"pregunta": "¿Cuál es el número de oxidación del N en $\\ce{NO2}$?",
+"opciones": [
+"-4",
+"+4",
+"+2"
+],
+"correcta": 1,
+"porque": "Dos oxígenos dan -4, y para sumar cero el N vale +4."
+},
+{
+"pregunta": "¿Cuál es el número de oxidación del Cl en $\\ce{HClO}$?",
+"opciones": [
+"-1",
+"+1",
+"+3"
+],
+"correcta": 1,
+"porque": "El H da +1 y el O da -2, así que el Cl vale +1."
+},
+{
+"pregunta": "¿Cuánto vale el número de oxidación del $\\ce{O2}$?",
+"opciones": [
+"Vale 0",
+"Vale +2",
+"Vale -2"
+],
+"correcta": 0,
+"porque": "Un elemento solo, sin unirse a otro, vale siempre 0."
+},
+{
+"pregunta": "¿Cuál es el número de oxidación del Na en NaCl?",
+"opciones": [
+"0",
+"-1",
+"+1"
+],
+"correcta": 2,
+"porque": "Los elementos del grupo 1, como el sodio, valen +1."
+},
+{
+"pregunta": "¿Cuál es el número de oxidación del C en $\\ce{CO3^2-}$?",
+"opciones": [
+"-2",
+"+4",
+"+2"
+],
+"correcta": 1,
+"porque": "En un ion la suma da su carga: $x - 6 = -2$, entonces $x = +4$."
+}
+],
+"partes-por-millon-secundaria": [
+{
+"pregunta": "Hay 6 mg de plomo en 3 L de agua. ¿Cuántas ppm son?",
+"opciones": [
+"2 ppm",
+"18 ppm",
+"0.5 ppm"
+],
+"correcta": 0,
+"porque": "Se divide: $6 \\div 3 = 2$ mg por litro, es decir 2 ppm."
+},
+{
+"pregunta": "¿Cuántos mg hay en 5 L de agua con 3 ppm?",
+"opciones": [
+"0.6 mg",
+"8 mg",
+"15 mg"
+],
+"correcta": 2,
+"porque": "Se multiplica ppm por litros: $3 \\times 5 = 15$ mg."
+},
+{
+"pregunta": "En agua, 1 ppm es casi igual a...",
+"opciones": [
+"1 kg en cada litro",
+"1 mg en cada litro",
+"1 g en cada litro"
+],
+"correcta": 1,
+"porque": "En agua, una parte por millón es casi 1 mg por litro."
+},
+{
+"pregunta": "¿Por qué se usan las ppm?",
+"opciones": [
+"Miden cantidades muy grandes",
+"Miden cantidades muy pequeñas",
+"Miden solo colores"
+],
+"correcta": 1,
+"porque": "Las ppm sirven para medir contaminantes o minerales en poca cantidad."
+},
+{
+"pregunta": "Un garrafón tiene 12 mg de minerales en 4 L de agua. ¿Cuántas ppm son?",
+"opciones": [
+"3 ppm",
+"8 ppm",
+"48 ppm"
+],
+"correcta": 0,
+"porque": "Se divide: $12 \\div 4 = 3$ mg por litro, o sea 3 ppm."
+}
+]
+}

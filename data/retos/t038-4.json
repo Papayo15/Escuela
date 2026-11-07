@@ -1,0 +1,522 @@
+{
+"both-either-y-neither-prepa": [
+{
+"pregunta": "Completa: ___ my parents work. (los dos)",
+"opciones": [
+"Both",
+"Either",
+"Neither"
+],
+"correcta": 0,
+"porque": "Both significa los dos y va con dos personas."
+},
+{
+"pregunta": "Completa: ___ Ana nor Luis came. (ninguno)",
+"opciones": [
+"Neither",
+"Both",
+"Either"
+],
+"correcta": 0,
+"porque": "Neither ... nor significa ninguno de los dos."
+},
+{
+"pregunta": "Completa: You can go ___ today ___ tomorrow.",
+"opciones": [
+"either / or",
+"both / and",
+"neither / nor"
+],
+"correcta": 0,
+"porque": "Either ... or significa una cosa u otra."
+},
+{
+"pregunta": "Corrige: Neither book isn't good.",
+"opciones": [
+"Neither book is good",
+"Neither books isn't good",
+"Neither book not good"
+],
+"correcta": 0,
+"porque": "Neither ya es negativo, así que no agregas not."
+},
+{
+"pregunta": "En tu escuela hay dos libros y los dos sirven. ¿Qué dices?",
+"opciones": [
+"Either books are useful",
+"Both books are useful",
+"Neither book is useful"
+],
+"correcta": 1,
+"porque": "Both se usa para decir los dos."
+}
+],
+"conectores-avanzados-prepa": [
+{
+"pregunta": "Completa: ___ the cold, she swam.",
+"opciones": [
+"Although",
+"However",
+"Despite"
+],
+"correcta": 2,
+"porque": "Despite va con una cosa, como the cold."
+},
+{
+"pregunta": "Completa: ___ he was tired, he worked.",
+"opciones": [
+"Although",
+"Despite",
+"Therefore"
+],
+"correcta": 0,
+"porque": "Although va con una oración completa."
+},
+{
+"pregunta": "¿Qué significa therefore?",
+"opciones": [
+"Sin embargo",
+"Por ejemplo",
+"Por lo tanto"
+],
+"correcta": 2,
+"porque": "Therefore indica un resultado: por lo tanto."
+},
+{
+"pregunta": "Une con un conector: It was hard. ___, I finished.",
+"opciones": [
+"Moreover",
+"Therefore",
+"However"
+],
+"correcta": 2,
+"porque": "However marca contraste: fue difícil, sin embargo terminé."
+},
+{
+"pregunta": "¿Cuál conector sirve para dar un ejemplo?",
+"opciones": [
+"As a result",
+"For instance",
+"In addition"
+],
+"correcta": 1,
+"porque": "For instance significa por ejemplo."
+}
+],
+"consejos-empatia-ingles-prepa": [
+{
+"pregunta": "Un amigo duerme poco. ¿Qué consejo le das?",
+"opciones": [
+"You should sleeps more",
+"You should sleep more",
+"You should to sleep more"
+],
+"correcta": 1,
+"porque": "Should va seguido del verbo base."
+},
+{
+"pregunta": "¿Cómo dices \"Deberías estudiar cada día\"?",
+"opciones": [
+"You are study every day",
+"You must studied every day",
+"You should study every day"
+],
+"correcta": 2,
+"porque": "Should + verbo base da un consejo."
+},
+{
+"pregunta": "¿Qué frase muestra empatía primero?",
+"opciones": [
+"You should relax now",
+"I'm sorry you feel stressed",
+"Why don't you leave"
+],
+"correcta": 1,
+"porque": "La empatía va antes del consejo."
+},
+{
+"pregunta": "¿Cuál suaviza un consejo?",
+"opciones": [
+"Maybe you could rest",
+"You must rest now",
+"Rest right now"
+],
+"correcta": 0,
+"porque": "Maybe suaviza el consejo."
+},
+{
+"pregunta": "Completa: ___ you talk to your teacher?",
+"opciones": [
+"Why didn't",
+"Why don't",
+"Why not"
+],
+"correcta": 1,
+"porque": "Why don't you + verbo base sugiere algo."
+}
+],
+"conversaciones-cortesia-ingles-prepa": [
+{
+"pregunta": "Quieres saludar a alguien. ¿Qué dices?",
+"opciones": [
+"Take care",
+"Hi, how are you?",
+"See you later"
+],
+"correcta": 1,
+"porque": "Hi, how are you? sirve para iniciar la plática."
+},
+{
+"pregunta": "¿Cuál es una despedida cortés?",
+"opciones": [
+"It was nice talking to you",
+"Nice to meet you",
+"Excuse me, please"
+],
+"correcta": 0,
+"porque": "Sirve para cerrar la conversación con cortesía."
+},
+{
+"pregunta": "¿Qué respondes si te dicen \"I'm tired today\"?",
+"opciones": [
+"Nice to meet you",
+"I'm sorry to hear that",
+"That sounds great"
+],
+"correcta": 1,
+"porque": "Muestra empatía con quien se siente mal."
+},
+{
+"pregunta": "¿Para qué sirve And you?",
+"opciones": [
+"Para despedirte",
+"Para devolver la pregunta",
+"Para pedir perdón"
+],
+"correcta": 1,
+"porque": "Con And you? mantienes la plática."
+},
+{
+"pregunta": "¿Qué frase usas para pedir ayuda con cortesía?",
+"opciones": [
+"Could you help, please?",
+"Help me right now",
+"You help me today"
+],
+"correcta": 0,
+"porque": "Could y please hacen la petición amable."
+}
+],
+"escribir-un-correo-en-ingles-prepa": [
+{
+"pregunta": "¿Qué saludo usas para escribirle a una directora?",
+"opciones": [
+"Hi Ana,",
+"Dear Ms. Lopez,",
+"Talk soon!"
+],
+"correcta": 1,
+"porque": "Dear es el saludo formal."
+},
+{
+"pregunta": "¿Qué significa subject en un correo?",
+"opciones": [
+"Cierre",
+"Saludo",
+"Asunto"
+],
+"correcta": 2,
+"porque": "Subject es el asunto breve del mensaje."
+},
+{
+"pregunta": "¿Cómo haces formal: Can you send it?",
+"opciones": [
+"Just send it now",
+"Could you please send it?",
+"Can you send it, pal?"
+],
+"correcta": 1,
+"porque": "Could you please suena más formal y cortés."
+},
+{
+"pregunta": "¿Debes usar contracciones en un correo formal?",
+"opciones": [
+"Sí, siempre",
+"No, escribe I am",
+"Sí, escribe I'm"
+],
+"correcta": 1,
+"porque": "En lo formal evitas contracciones."
+},
+{
+"pregunta": "¿Cuál es un cierre formal?",
+"opciones": [
+"Sincerely,",
+"Talk soon!",
+"Best,"
+],
+"correcta": 0,
+"porque": "Sincerely cierra los correos formales."
+}
+],
+"estilo-indirecto-prepa": [
+{
+"pregunta": "Reporta: \"I like tea.\"",
+"opciones": [
+"She said she liked tea",
+"She said she likes tea",
+"She said I liked tea"
+],
+"correcta": 0,
+"porque": "El verbo retrocede un tiempo: like pasa a liked."
+},
+{
+"pregunta": "Reporta: \"I will go.\"",
+"opciones": [
+"He said he would go",
+"He said I would go",
+"He said he will go"
+],
+"correcta": 0,
+"porque": "Will cambia a would."
+},
+{
+"pregunta": "Completa: He ___ me he was sick.",
+"opciones": [
+"told",
+"said",
+"says"
+],
+"correcta": 0,
+"porque": "Tell va con persona: told me."
+},
+{
+"pregunta": "Reporta: \"I can swim.\"",
+"opciones": [
+"She said she could swim",
+"She said she can swim",
+"She said she cans swim"
+],
+"correcta": 0,
+"porque": "Can cambia a could."
+},
+{
+"pregunta": "¿Cómo cambia tomorrow al reportar?",
+"opciones": [
+"the day before",
+"that day",
+"the next day"
+],
+"correcta": 2,
+"porque": "Tomorrow cambia a the next day."
+}
+],
+"estrategias-comprension-expresion-ingles-prepa": [
+{
+"pregunta": "Antes de leer, ves el título y las imágenes. ¿Qué estrategia usas?",
+"opciones": [
+"Pedir que repitan",
+"Revisar ortografía",
+"Predecir el tema"
+],
+"correcta": 2,
+"porque": "Se predice el tema con título e imágenes."
+},
+{
+"pregunta": "¿Qué frase sirve para pedir que repitan?",
+"opciones": [
+"I don't like English",
+"Could you repeat that, please?",
+"See you later"
+],
+"correcta": 1,
+"porque": "Es la forma cortés de pedir que repitan."
+},
+{
+"pregunta": "Elige: I was tired, ___ I finished my homework.",
+"opciones": [
+"because",
+"also",
+"but"
+],
+"correcta": 2,
+"porque": "But muestra contraste: cansado pero terminé."
+},
+{
+"pregunta": "¿Qué conector explica la razón?",
+"opciones": [
+"because",
+"however",
+"but"
+],
+"correcta": 0,
+"porque": "Because significa porque."
+},
+{
+"pregunta": "¿Qué haces al revisar un texto escrito?",
+"opciones": [
+"Revisar los tiempos verbales",
+"Cambiar el tema",
+"Borrar todo"
+],
+"correcta": 0,
+"porque": "Revisar tiempos y ortografía es parte de la revisión."
+}
+],
+"experiencias-pasadas-detalle-ingles-prepa": [
+{
+"pregunta": "Completa: While we ___ eating, the lights went out.",
+"opciones": [
+"was",
+"were",
+"did"
+],
+"correcta": 1,
+"porque": "Con we se usa were en pasado continuo."
+},
+{
+"pregunta": "¿Qué tiempo usas para el fondo de la escena?",
+"opciones": [
+"Futuro simple",
+"Pasado simple",
+"Pasado continuo"
+],
+"correcta": 2,
+"porque": "El fondo se describe con was/were + -ing."
+},
+{
+"pregunta": "Completa: I ___ the party at eight. (llegué)",
+"opciones": [
+"am arriving",
+"was arriving",
+"arrived"
+],
+"correcta": 2,
+"porque": "Una acción terminada va en pasado simple."
+},
+{
+"pregunta": "¿Cómo dices en negativo: They were playing?",
+"opciones": [
+"They weren't playing",
+"They wasn't playing",
+"They don't playing"
+],
+"correcta": 0,
+"porque": "La negativa de were es weren't."
+},
+{
+"pregunta": "¿Qué conector va con una acción larga?",
+"opciones": [
+"then",
+"while",
+"when"
+],
+"correcta": 1,
+"porque": "While significa mientras."
+}
+],
+"falsos-amigos-del-ingles-prepa": [
+{
+"pregunta": "¿Qué significa exit?",
+"opciones": [
+"Éxito",
+"Salida",
+"Entrada"
+],
+"correcta": 1,
+"porque": "Exit es salida, no éxito."
+},
+{
+"pregunta": "¿Cómo se dice éxito en inglés?",
+"opciones": [
+"Exit",
+"Suceso",
+"Success"
+],
+"correcta": 2,
+"porque": "Success significa éxito."
+},
+{
+"pregunta": "¿Qué significa large?",
+"opciones": [
+"Grande",
+"Largo",
+"Lejos"
+],
+"correcta": 0,
+"porque": "Large es grande, no largo."
+},
+{
+"pregunta": "¿Qué significa actually?",
+"opciones": [
+"En realidad",
+"Actualmente",
+"Después"
+],
+"correcta": 0,
+"porque": "Actually es en realidad."
+},
+{
+"pregunta": "Vas a la library de tu escuela. ¿Qué es?",
+"opciones": [
+"Una biblioteca",
+"Una librería",
+"Una carpeta"
+],
+"correcta": 0,
+"porque": "Library es biblioteca, no librería."
+}
+],
+"future-continuous-y-future-perfect-prepa": [
+{
+"pregunta": "Di \"Para las 5 habré comido\".",
+"opciones": [
+"By 5, I will be eating",
+"By 5, I eat",
+"By 5, I will have eaten"
+],
+"correcta": 2,
+"porque": "Will have + participio dice que ya habrá terminado."
+},
+{
+"pregunta": "Completa: This time tomorrow, I ___ studying.",
+"opciones": [
+"would",
+"will have",
+"will be"
+],
+"correcta": 2,
+"porque": "Will be + -ing es lo que estará pasando."
+},
+{
+"pregunta": "Completa: By June, she ___ graduated.",
+"opciones": [
+"will be",
+"will have",
+"is"
+],
+"correcta": 1,
+"porque": "Will have + participio es lo que ya habrá pasado."
+},
+{
+"pregunta": "Di \"A las 9 estaré durmiendo\".",
+"opciones": [
+"At 9, I slept",
+"At 9, I will be sleeping",
+"At 9, I will have slept"
+],
+"correcta": 1,
+"porque": "Will be + -ing dice que algo estará en marcha."
+},
+{
+"pregunta": "¿Qué significa by en esta lección?",
+"opciones": [
+"Para o antes de",
+"Mientras tanto",
+"Después de eso"
+],
+"correcta": 0,
+"porque": "By marca un límite de tiempo."
+}
+]
+}

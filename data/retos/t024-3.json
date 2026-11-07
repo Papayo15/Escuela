@@ -1,0 +1,522 @@
+{
+"manifestaciones-artisticas-culturales-ingles": [
+{
+"pregunta": "¿Cuál es una manifestación artística en inglés?",
+"opciones": [
+"a calculator",
+"a ruler",
+"a poem"
+],
+"correcta": 2,
+"porque": "Un poema es una obra que muestra la vida de un pueblo."
+},
+{
+"pregunta": "¿Cómo dices de qué trata una obra?",
+"opciones": [
+"It is a red book.",
+"It is about friendship.",
+"I am at school."
+],
+"correcta": 1,
+"porque": "It is about... dice de qué trata algo."
+},
+{
+"pregunta": "Completa: *I like this movie ___ it is funny.*",
+"opciones": [
+"because",
+"unless",
+"before"
+],
+"correcta": 0,
+"porque": "Because sirve para dar la razón de tu opinión."
+},
+{
+"pregunta": "¿Qué significa *It is a song*?",
+"opciones": [
+"Es una canción.",
+"Es una película.",
+"Es un poema."
+],
+"correcta": 0,
+"porque": "Song es canción."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de teatro en inglés?",
+"opciones": [
+"un mapa",
+"un recibo",
+"Shakespeare"
+],
+"correcta": 2,
+"porque": "Las obras de Shakespeare son teatro famoso en inglés."
+}
+],
+"manifestaciones-culturales-interculturalidad-ingles": [
+{
+"pregunta": "¿Qué debes hacer al hablar con alguien de otra cultura?",
+"opciones": [
+"Escuchar y preguntar con respeto",
+"Pensar que todos son iguales",
+"Decir que tu cultura es mejor"
+],
+"correcta": 0,
+"porque": "Se escucha, se pregunta con respeto y no se generaliza."
+},
+{
+"pregunta": "¿Cómo presentas un baile de tu región?",
+"opciones": [
+"Dance is where region.",
+"This is a traditional dance from my region.",
+"I have a dance sandwich."
+],
+"correcta": 1,
+"porque": "Esa frase presenta con claridad una tradición propia."
+},
+{
+"pregunta": "¿Qué haces al conocer una cultura distinta?",
+"opciones": [
+"burlarte de sus costumbres",
+"escuchar y preguntar con respeto",
+"decir que es rara"
+],
+"correcta": 1,
+"porque": "Escuchar y preguntar ayuda a convivir."
+},
+{
+"pregunta": "¿Qué significa *We can learn from each other*?",
+"opciones": [
+"Podemos pelear unos con otros.",
+"Podemos aprender unos de otros.",
+"Podemos ignorarnos."
+],
+"correcta": 1,
+"porque": "Each other significa uno al otro."
+},
+{
+"pregunta": "¿Qué significa *customs*?",
+"opciones": [
+"colores",
+"cuentos",
+"costumbres"
+],
+"correcta": 2,
+"porque": "Customs son las costumbres de un pueblo."
+}
+],
+"mensajes-inclusion-ingles-secundaria": [
+{
+"pregunta": "¿Cuál mensaje incluye a todos?",
+"opciones": [
+"Everyone can play.",
+"Only girls can play.",
+"Boys can play."
+],
+"correcta": 0,
+"porque": "Everyone incluye a todas las personas."
+},
+{
+"pregunta": "¿Qué significa *Welcome!*?",
+"opciones": [
+"¡Bienvenido!",
+"¡Cuidado!",
+"¡Adiós!"
+],
+"correcta": 0,
+"porque": "Welcome sirve para recibir bien a alguien."
+},
+{
+"pregunta": "Elige un mensaje para invitar a un compañero nuevo:",
+"opciones": [
+"Join us!",
+"Go away!",
+"Stay out!"
+],
+"correcta": 0,
+"porque": "Join us significa \"Únete a nosotros\"."
+},
+{
+"pregunta": "Completa: *We ___ every voice in our class.* (escuchamos)",
+"opciones": [
+"skip",
+"listen to",
+"ignore"
+],
+"correcta": 1,
+"porque": "Listen to es escuchar; ayuda a que todos se sientan incluidos."
+},
+{
+"pregunta": "¿Qué palabra incluye a todas las personas?",
+"opciones": [
+"everyone",
+"only",
+"nobody"
+],
+"correcta": 0,
+"porque": "Everyone significa \"todos\" sin dejar a nadie fuera."
+}
+],
+"mensajes-ingles-vida-saludable-medios": [
+{
+"pregunta": "¿Cuál es un mensaje saludable?",
+"opciones": [
+"Sleep very little.",
+"Skip breakfast.",
+"Drink water every day."
+],
+"correcta": 2,
+"porque": "Drink water every day usa un imperativo y un buen hábito."
+},
+{
+"pregunta": "¿Qué verbo en imperativo hay en *Eat fruits and vegetables*?",
+"opciones": [
+"fruits",
+"Eat",
+"and"
+],
+"correcta": 1,
+"porque": "Eat va al principio y da la orden."
+},
+{
+"pregunta": "¿Cómo dices «No te saltes el desayuno»?",
+"opciones": [
+"Not skip breakfast.",
+"Don't skip breakfast.",
+"Skip don't breakfast."
+],
+"correcta": 1,
+"porque": "Don't más verbo sirve para negar una orden."
+},
+{
+"pregunta": "Un mensaje saludable lleva:",
+"opciones": [
+"solo un dibujo",
+"un hábito y una razón corta",
+"un chiste largo"
+],
+"correcta": 1,
+"porque": "Hábito más razón hace el mensaje claro."
+},
+{
+"pregunta": "¿Cuál mensaje promueve el ejercicio?",
+"opciones": [
+"Exercise every day.",
+"Watch TV all day.",
+"Eat only candy now."
+],
+"correcta": 0,
+"porque": "Exercise every day promueve el ejercicio."
+}
+],
+"much-many-a-lot-of-a-few-y-a-little-secundaria": [
+{
+"pregunta": "Completa: *How ___ students are in class?*",
+"opciones": [
+"many",
+"a little",
+"much"
+],
+"correcta": 0,
+"porque": "Students se cuentan, por eso se usa many."
+},
+{
+"pregunta": "Completa: *I drink ___ juice in the morning.* (un poco)",
+"opciones": [
+"a little",
+"many",
+"a few"
+],
+"correcta": 0,
+"porque": "Juice no se cuenta; a little va con cosas incontables."
+},
+{
+"pregunta": "Completa: *She has ___ pencils in her bag.* (unos pocos)",
+"opciones": [
+"a few",
+"much",
+"a little"
+],
+"correcta": 0,
+"porque": "Pencils se cuentan, y a few va con ellos."
+},
+{
+"pregunta": "Completa: *We don't have ___ time.*",
+"opciones": [
+"a few",
+"much",
+"many"
+],
+"correcta": 1,
+"porque": "Time no se cuenta; much va con cosas incontables."
+},
+{
+"pregunta": "Completa: *There is ___ milk in the fridge.* (mucha)",
+"opciones": [
+"many",
+"a few",
+"a lot of"
+],
+"correcta": 2,
+"porque": "A lot of sirve para cosas que se cuentan y que no."
+}
+],
+"numeros-colores-y-dias-secundaria": [
+{
+"pregunta": "¿Cómo se escribe 20 en inglés?",
+"opciones": [
+"twelve",
+"twenty",
+"thirty"
+],
+"correcta": 1,
+"porque": "Twenty es veinte."
+},
+{
+"pregunta": "¿Cuál frase está bien?",
+"opciones": [
+"a bag green",
+"a greens bag",
+"a green bag"
+],
+"correcta": 2,
+"porque": "En inglés el color va antes de la cosa."
+},
+{
+"pregunta": "¿Qué día viene después de *Friday*?",
+"opciones": [
+"Monday",
+"Saturday",
+"Thursday"
+],
+"correcta": 1,
+"porque": "Después del viernes viene el sábado."
+},
+{
+"pregunta": "¿Cómo escribes el día lunes?",
+"opciones": [
+"monDay",
+"monday",
+"Monday"
+],
+"correcta": 2,
+"porque": "Los días de la semana se escriben con mayúscula."
+},
+{
+"pregunta": "¿Qué color es *yellow*?",
+"opciones": [
+"amarillo",
+"azul",
+"verde"
+],
+"correcta": 0,
+"porque": "Yellow es amarillo, como el sol."
+}
+],
+"orden-de-las-palabras-en-ingles-secundaria": [
+{
+"pregunta": "¿Cuál oración está en buen orden?",
+"opciones": [
+"Eats she at school an apple.",
+"She eats an apple at school.",
+"An apple eats she school at."
+],
+"correcta": 1,
+"porque": "El orden es sujeto, verbo, objeto y lugar."
+},
+{
+"pregunta": "Corrige: *Is hot today.*",
+"opciones": [
+"Hot is today it.",
+"It is hot today.",
+"Is it hot today."
+],
+"correcta": 1,
+"porque": "En inglés el sujeto no se puede quitar: It."
+},
+{
+"pregunta": "¿Dónde va *always* con un verbo normal?",
+"opciones": [
+"después del objeto",
+"antes del verbo",
+"al final de la frase"
+],
+"correcta": 1,
+"porque": "Se dice She always eats, con always antes del verbo."
+},
+{
+"pregunta": "¿Dónde va *always* con *to be*?",
+"opciones": [
+"después de to be",
+"antes de to be",
+"al principio"
+],
+"correcta": 0,
+"porque": "Se dice She is always happy."
+},
+{
+"pregunta": "Ordena: *plays / Tom / soccer*",
+"opciones": [
+"Plays Tom soccer.",
+"Tom plays soccer.",
+"Soccer Tom plays."
+],
+"correcta": 1,
+"porque": "Primero va quién, luego qué hace y luego qué."
+}
+],
+"palabras-interrogativas-secundaria": [
+{
+"pregunta": "¿Qué significa *where*?",
+"opciones": [
+"quién",
+"cuándo",
+"dónde"
+],
+"correcta": 2,
+"porque": "Where pregunta por un lugar."
+},
+{
+"pregunta": "¿Qué palabra usas para preguntar por una persona?",
+"opciones": [
+"Who",
+"When",
+"Why"
+],
+"correcta": 0,
+"porque": "Who significa quién."
+},
+{
+"pregunta": "¿Cuál palabra en inglés sirve para preguntar dónde?",
+"opciones": [
+"Where, que significa dónde",
+"When, que significa cuándo",
+"Why, que significa por qué"
+],
+"correcta": 0,
+"porque": "*Where* significa dónde y se usa para preguntar lugares."
+},
+{
+"pregunta": "Responde con *because* a la pregunta:",
+"opciones": [
+"Where are you?",
+"Who is she?",
+"Why are you sad?"
+],
+"correcta": 2,
+"porque": "Because da la razón, y why pregunta la razón."
+},
+{
+"pregunta": "¿Qué significa *how many*?",
+"opciones": [
+"cuál",
+"cuántos",
+"cuándo"
+],
+"correcta": 1,
+"porque": "How many pregunta por cantidades que se cuentan."
+}
+],
+"participio-pasado-secundaria": [
+{
+"pregunta": "¿Cuál es el participio de *see*?",
+"opciones": [
+"saw",
+"seen",
+"seed"
+],
+"correcta": 1,
+"porque": "See, saw, seen: la tercera forma es seen."
+},
+{
+"pregunta": "¿Cuál es el participio de *do*?",
+"opciones": [
+"did",
+"doed",
+"done"
+],
+"correcta": 2,
+"porque": "Do, did, done: la tercera forma es done."
+},
+{
+"pregunta": "¿Cuál es el participio de *walk*?",
+"opciones": [
+"walken",
+"walked",
+"walks"
+],
+"correcta": 1,
+"porque": "Un verbo regular lleva -ed en la tercera forma."
+},
+{
+"pregunta": "Completa: *I have ___ my homework.* (hecho)",
+"opciones": [
+"did",
+"do",
+"done"
+],
+"correcta": 2,
+"porque": "Después de have se usa el participio: done."
+},
+{
+"pregunta": "¿Cuál es el participio de *go*?",
+"opciones": [
+"went",
+"gone",
+"goed"
+],
+"correcta": 1,
+"porque": "Go, went, gone: la tercera forma es gone."
+}
+],
+"pasado-simple-irregular-secundaria": [
+{
+"pregunta": "¿Cuál es el pasado de *make*?",
+"opciones": [
+"maked",
+"made",
+"makes"
+],
+"correcta": 1,
+"porque": "Make es irregular: su pasado es made."
+},
+{
+"pregunta": "¿Cuál es el pasado de *have*?",
+"opciones": [
+"had",
+"haved",
+"has"
+],
+"correcta": 0,
+"porque": "Have cambia a had en pasado."
+},
+{
+"pregunta": "Pasa a pasado: *She eats rice.*",
+"opciones": [
+"She ate rice.",
+"She eaten rice.",
+"She eated rice."
+],
+"correcta": 0,
+"porque": "El pasado irregular de eat es ate."
+},
+{
+"pregunta": "¿Cuál es el pasado de *go*?",
+"opciones": [
+"goed, porque se agrega -ed",
+"went, porque cambia completo",
+"goes, porque lleva una -s"
+],
+"correcta": 1,
+"porque": "El pasado de *go* es *went*, una forma propia que se aprende de memoria."
+},
+{
+"pregunta": "Completa: *Yesterday I ___ to school by bus.*",
+"opciones": [
+"went",
+"gone",
+"goed"
+],
+"correcta": 0,
+"porque": "El pasado de go es irregular: went."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"respiracion-en-seres-vivos-secundaria": [
+{
+"pregunta": "¿Qué libera la respiración celular?",
+"opciones": [
+"Energía, que sale de la comida",
+"Azúcar nueva para las células",
+"Solo oxígeno nuevo para el aire"
+],
+"correcta": 0,
+"porque": "La respiración libera la energía de los alimentos."
+},
+{
+"pregunta": "¿Con qué órganos respiran los insectos?",
+"opciones": [
+"Con tráqueas, tubos en su cuerpo",
+"Con branquias, como los peces",
+"Con pulmones, como las aves"
+],
+"correcta": 0,
+"porque": "Los insectos respiran por tráqueas."
+},
+{
+"pregunta": "Una lombriz sale a la tierra mojada. ¿Por dónde respira?",
+"opciones": [
+"Por branquias en la cabeza",
+"Por la piel húmeda",
+"Por pulmones pequeños dentro de su cuerpo"
+],
+"correcta": 1,
+"porque": "Las lombrices respiran por la piel, y por eso la necesitan húmeda."
+},
+{
+"pregunta": "¿Por dónde entra el aire a las hojas de una planta?",
+"opciones": [
+"Por las raíces bajo la tierra",
+"Por la flor, que tiene pétalos",
+"Por los estomas, poros de la hoja"
+],
+"correcta": 2,
+"porque": "Las plantas respiran por los estomas de las hojas."
+},
+{
+"pregunta": "¿Cuándo respiran las plantas?",
+"opciones": [
+"Solo de día, cuando hacen fotosíntesis",
+"Solo de noche, cuando no hay luz",
+"De día y de noche"
+],
+"correcta": 2,
+"porque": "Las plantas respiran siempre, igual que los animales."
+}
+],
+"salud-sexual-prevencion-its-embarazo-secundaria": [
+{
+"pregunta": "¿Qué es el consentimiento?",
+"opciones": [
+"Hacer lo que la mayoría del grupo está haciendo",
+"Aceptar algo para que tus amigos no se burlen de ti",
+"Que nadie te presione ni tú presiones"
+],
+"correcta": 2,
+"porque": "Nadie debe presionarte, y tampoco tú debes presionar a nadie."
+},
+{
+"pregunta": "¿Qué son las ITS?",
+"opciones": [
+"Instrucciones para una salud sana",
+"Instrumentos de tratamiento sencillo",
+"Infecciones de transmisión sexual"
+],
+"correcta": 2,
+"porque": "ITS significa infecciones de transmisión sexual, como el VIH."
+},
+{
+"pregunta": "Una compañera dice que sin síntomas no hay ninguna ITS. ¿Qué le respondes?",
+"opciones": [
+"Tienes razón, siempre se notan desde el primer día",
+"Muchas no dan síntomas al inicio",
+"Solo se notan si te vacunas contra el papiloma"
+],
+"correcta": 1,
+"porque": "Algunas ITS no se notan al inicio, por eso importa prevenir."
+},
+{
+"pregunta": "¿Qué vacuna ayuda a prevenir una ITS?",
+"opciones": [
+"La del sarampión, para niños",
+"La del papiloma, que previene el VPH",
+"La de la gripe, de cada invierno"
+],
+"correcta": 1,
+"porque": "La vacuna del papiloma previene una ITS."
+},
+{
+"pregunta": "Tienes dudas sobre tu salud sexual. ¿A dónde puedes ir?",
+"opciones": [
+"A esperar a que se te quiten solas",
+"A preguntarle a cualquier persona que no conoces en internet",
+"Con personal de un centro de salud"
+],
+"correcta": 2,
+"porque": "El personal de salud da información verdadera y confiable."
+}
+],
+"sistema-inmunologico-secundaria": [
+{
+"pregunta": "¿Qué células producen anticuerpos?",
+"opciones": [
+"Las células de memoria, que recuerdan",
+"Los fagocitos, que engullen microbios",
+"Los linfocitos B, que los fabrican"
+],
+"correcta": 2,
+"porque": "Los linfocitos B producen anticuerpos."
+},
+{
+"pregunta": "¿Qué es un antígeno?",
+"opciones": [
+"Una molécula extraña para el cuerpo",
+"Una vitamina que te ayuda a crecer sano",
+"Una defensa que produce el cuerpo para protegerse"
+],
+"correcta": 0,
+"porque": "El antígeno es la señal que el cuerpo reconoce como extraña."
+},
+{
+"pregunta": "Te sale una espinilla en la cara y se pone roja. ¿Qué inmunidad actúa primero?",
+"opciones": [
+"La innata, porque actúa rápido",
+"Ninguna, no hay microbios cerca",
+"La adaptativa, que es más lenta"
+],
+"correcta": 0,
+"porque": "La inmunidad innata es rápida y general, como la inflamación."
+},
+{
+"pregunta": "¿Qué hace una vacuna?",
+"opciones": [
+"Genera memoria contra un antígeno",
+"Quita todos los antígenos del cuerpo para siempre",
+"Cura al instante cualquier enfermedad que ya tienes"
+],
+"correcta": 0,
+"porque": "La vacuna presenta un antígeno de forma segura y genera memoria."
+},
+{
+"pregunta": "¿Qué es una alergia?",
+"opciones": [
+"Una defensa muy débil contra los microbios",
+"Una infección que producen las bacterias",
+"Una respuesta exagerada a algo inofensivo"
+],
+"correcta": 2,
+"porque": "Las alergias son respuestas exageradas a sustancias que no hacen daño."
+}
+],
+"usar-el-microscopio-secundaria": [
+{
+"pregunta": "¿Con qué objetivo empiezas a observar?",
+"opciones": [
+"Con cualquiera, da igual cuál",
+"Con el más grande, para ir rápido",
+"Con el más pequeño, es más seguro"
+],
+"correcta": 2,
+"porque": "Se empieza con el objetivo menor y luego se cambia."
+},
+{
+"pregunta": "Un microscopio tiene ocular de 10x y objetivo de 20x. ¿Cuánto aumenta?",
+"opciones": [
+"30x, porque se suman los dos",
+"20x, el número del objetivo",
+"200x, porque se multiplican"
+],
+"correcta": 2,
+"porque": "El aumento total es ocular por objetivo: 10 por 20 es 200."
+},
+{
+"pregunta": "¿Qué tornillo usas para afinar la imagen?",
+"opciones": [
+"El micrométrico, el más chico",
+"La platina, donde va la muestra",
+"El macrométrico, el grande"
+],
+"correcta": 0,
+"porque": "El tornillo micrométrico afina la imagen."
+},
+{
+"pregunta": "¿Dónde pones la laminilla con tu muestra?",
+"opciones": [
+"En el ocular, por donde se mira",
+"En la platina, debajo del objetivo",
+"En el objetivo, junto a la lente"
+],
+"correcta": 1,
+"porque": "La muestra va en la platina."
+},
+{
+"pregunta": "Se te ensució la lente. ¿Qué no debes hacer?",
+"opciones": [
+"Tocarla con los dedos",
+"Cuidarla de golpes y de polvo",
+"Pedir ayuda a tu maestra para limpiarla"
+],
+"correcta": 0,
+"porque": "Los dedos dejan grasa en la lente y no deja ver bien."
+}
+],
+"vacunas-enfermedades-infecciosas-secundaria": [
+{
+"pregunta": "¿Qué le enseña una vacuna al cuerpo?",
+"opciones": [
+"A volverse inmune sin hacer anticuerpos",
+"A producir más microbios dentro de la sangre",
+"A reconocer un microbio"
+],
+"correcta": 2,
+"porque": "La vacuna es un simulacro: el cuerpo aprende a reconocer al microbio."
+},
+{
+"pregunta": "¿Qué enfermedad desapareció gracias a las vacunas?",
+"opciones": [
+"La gripe, que aparece cada año",
+"La viruela, que ya no existe hoy",
+"El resfriado, común en niños"
+],
+"correcta": 1,
+"porque": "La viruela desapareció gracias a las vacunas."
+},
+{
+"pregunta": "Casi todo tu salón se vacuna contra una enfermedad. ¿Qué pasa con quien no pudo vacunarse?",
+"opciones": [
+"Queda igual que antes de que los demás se vacunaran",
+"Se enferma siempre, porque nadie lo protege",
+"También queda protegido"
+],
+"correcta": 2,
+"porque": "Eso es la inmunidad de grupo: el microbio casi no se contagia."
+},
+{
+"pregunta": "¿Qué puede pasar después de una vacuna?",
+"opciones": [
+"Que se te olviden las vacunas anteriores",
+"Dolor en el brazo o poca fiebre",
+"Una enfermedad muy grave que dura meses"
+],
+"correcta": 1,
+"porque": "Son molestias leves, y se pasan pronto."
+},
+{
+"pregunta": "¿Dónde anotas tus vacunas?",
+"opciones": [
+"En un cuaderno de tarea, para que no se pierda",
+"En la cartilla de vacunación",
+"En el boletín de calificaciones"
+],
+"correcta": 1,
+"porque": "En la cartilla se anotan las vacunas que has recibido."
+}
+],
+"virus-y-bacterias-secundaria": [
+{
+"pregunta": "¿Cuál de estos seres es una célula viva?",
+"opciones": [
+"Los dos, porque causan males",
+"El virus, porque se multiplica",
+"La bacteria, que es una célula"
+],
+"correcta": 2,
+"porque": "La bacteria es una célula viva y el virus no lo es."
+},
+{
+"pregunta": "¿Cómo se multiplica un virus?",
+"opciones": [
+"Dentro de una célula ajena",
+"Partiéndose en dos, como las bacterias",
+"Solo en el agua, sin necesitar nada más"
+],
+"correcta": 0,
+"porque": "El virus necesita meterse en una célula para multiplicarse."
+},
+{
+"pregunta": "Tienes gripe y te dan un antibiótico sin receta. ¿Qué pasa?",
+"opciones": [
+"No sirve, porque la gripe es un virus",
+"Te cura más rápido porque mata al virus",
+"Sirve igual de bien que contra una bacteria"
+],
+"correcta": 0,
+"porque": "Los antibióticos solo sirven contra bacterias, nunca contra virus."
+},
+{
+"pregunta": "¿Qué bacteria ayuda a hacer yogur?",
+"opciones": [
+"Una bacteria que siempre causa enfermedades",
+"Una bacteria útil",
+"Un virus que vive en la leche"
+],
+"correcta": 1,
+"porque": "Algunas bacterias son útiles, como las que ayudan a hacer yogur."
+},
+{
+"pregunta": "¿Cuándo se toma un antibiótico?",
+"opciones": [
+"Cada vez que te duele algo",
+"Cuando un amigo te lo ofrece",
+"Solo con receta de un médico"
+],
+"correcta": 2,
+"porque": "Los antibióticos se toman solo si un médico los receta."
+}
+],
+"atletismo-secundaria": [
+{
+"pregunta": "¿Cuánto mide un maratón?",
+"opciones": [
+"400 metros",
+"100 metros",
+"42.195 km"
+],
+"correcta": 2,
+"porque": "El maratón mide 42.195 km."
+},
+{
+"pregunta": "¿Cuál es un lanzamiento?",
+"opciones": [
+"La jabalina",
+"Los relevos",
+"La pértiga"
+],
+"correcta": 0,
+"porque": "La jabalina se lanza; los otros son carrera o salto."
+},
+{
+"pregunta": "En una competencia saltas lo más lejos posible. ¿Qué salto es?",
+"opciones": [
+"De altura",
+"De longitud",
+"De pértiga"
+],
+"correcta": 1,
+"porque": "El salto de longitud mide qué tan lejos llegas."
+},
+{
+"pregunta": "¿Qué se pasa de un corredor a otro en los relevos?",
+"opciones": [
+"La pértiga",
+"La bala",
+"El testigo"
+],
+"correcta": 2,
+"porque": "En los relevos se pasa el testigo."
+},
+{
+"pregunta": "Quieres saber qué tan rápido corres en tu escuela. ¿Qué mides?",
+"opciones": [
+"La distancia que lanzas la jabalina",
+"Tu estatura en el patio",
+"Tu tiempo en 50 metros"
+],
+"correcta": 2,
+"porque": "Medir tu tiempo en una distancia fija muestra tu velocidad."
+}
+],
+"calentamiento-y-estiramiento-secundaria": [
+{
+"pregunta": "¿Cuánto debe durar el calentamiento?",
+"opciones": [
+"De 5 a 10 minutos",
+"Una hora entera",
+"Solo 10 segundos"
+],
+"correcta": 0,
+"porque": "El calentamiento dura de 5 a 10 minutos."
+},
+{
+"pregunta": "¿Para qué sirve calentar antes de hacer ejercicio?",
+"opciones": [
+"Para preparar el cuerpo y evitar lesiones",
+"Para cansarte antes de empezar el juego",
+"Para que los músculos queden duros y firmes"
+],
+"correcta": 0,
+"porque": "Con el calentamiento, tus músculos se preparan y se lastiman menos."
+},
+{
+"pregunta": "Al estirar la pierna, ¿qué haces?",
+"opciones": [
+"Estiras sin rebotar",
+"Rebotas rápido para llegar más lejos",
+"Jalas con fuerza hasta que te duela mucho"
+],
+"correcta": 0,
+"porque": "Estirar sin rebotar mejora la flexibilidad y cuida el músculo."
+},
+{
+"pregunta": "¿Cuándo se hace el estiramiento?",
+"opciones": [
+"Antes de calentar, cuando estás muy frío",
+"Después del ejercicio",
+"Nunca, porque no sirve de nada"
+],
+"correcta": 1,
+"porque": "Después del ejercicio, estiras para mejorar la flexibilidad."
+},
+{
+"pregunta": "¿Qué ejercicio sirve para calentar?",
+"opciones": [
+"Cargar algo muy pesado",
+"Trotar un poco",
+"Sentarte en la banca a ver a los demás"
+],
+"correcta": 1,
+"porque": "El trote y mover brazos y articulaciones preparan al cuerpo."
+}
+],
+"capacidades-fisicas-secundaria": [
+{
+"pregunta": "¿Qué capacidad usa un corredor de maratón?",
+"opciones": [
+"Fuerza",
+"Equilibrio",
+"Resistencia"
+],
+"correcta": 2,
+"porque": "El maratón es largo y pide mucha resistencia."
+},
+{
+"pregunta": "¿Qué capacidad usa una persona que corre los 100 metros?",
+"opciones": [
+"Resistencia",
+"Flexibilidad",
+"Velocidad"
+],
+"correcta": 2,
+"porque": "Los 100 metros son una carrera corta y rápida."
+},
+{
+"pregunta": "Tu compañero se para en un pie sin caerse. ¿Qué capacidad usa?",
+"opciones": [
+"Resistencia",
+"Equilibrio",
+"Fuerza"
+],
+"correcta": 1,
+"porque": "Pararte sin caerte es equilibrio."
+},
+{
+"pregunta": "¿Qué capacidad mejora cuando estiras tus músculos?",
+"opciones": [
+"Fuerza",
+"Flexibilidad",
+"Velocidad"
+],
+"correcta": 1,
+"porque": "Estirar ayuda a que tu cuerpo se doble mejor."
+},
+{
+"pregunta": "¿Qué capacidad usas al lanzar la bala?",
+"opciones": [
+"Equilibrio",
+"Fuerza",
+"Resistencia"
+],
+"correcta": 1,
+"porque": "Lanzar la bala pide mucha fuerza."
+}
+],
+"estilos-de-vida-activos-saludables-secundaria": [
+{
+"pregunta": "¿Cuántos minutos al día conviene moverte?",
+"opciones": [
+"5 minutos",
+"60 minutos",
+"10 horas"
+],
+"correcta": 1,
+"porque": "Conviene moverte 60 minutos al día."
+},
+{
+"pregunta": "¿Cuántas horas conviene dormir a esta edad?",
+"opciones": [
+"De 3 a 4 horas",
+"De 8 a 10 horas",
+"Más de 14 horas"
+],
+"correcta": 1,
+"porque": "Dormir de 8 a 10 horas cuida tu cuerpo y tu mente."
+},
+{
+"pregunta": "Pasaste toda la tarde viendo una pantalla. ¿Qué haces?",
+"opciones": [
+"Comes botanas sin parar frente a la pantalla",
+"Te levantas y te mueves un rato",
+"Sigues sentado hasta la hora de la cena"
+],
+"correcta": 1,
+"porque": "Dejar la pantalla un rato y moverte cuida tu cuerpo."
+},
+{
+"pregunta": "¿Qué hábito cuida tu salud antes del ejercicio?",
+"opciones": [
+"Calentar tu cuerpo",
+"Quedarte quieto",
+"Comer mucho antes"
+],
+"correcta": 0,
+"porque": "Calentar antes del ejercicio evita lastimarte."
+},
+{
+"pregunta": "¿Necesitas ir a un gimnasio para ser activo?",
+"opciones": [
+"No, basta con jugar, caminar o bailar",
+"Sí, es la única forma de hacer ejercicio",
+"Sí, y además hay que pagar mucho dinero"
+],
+"correcta": 0,
+"porque": "Pequeñas decisiones diarias, como caminar o bailar, también te mantienen activo."
+}
+]
+}

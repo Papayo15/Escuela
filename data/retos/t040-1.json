@@ -1,0 +1,522 @@
+{
+"comparativos-adjetivos-ingles-prepa": [
+{
+"pregunta": "¿Cuál frase compara bien a dos perros? \"Max is small.\" no compara.",
+"opciones": [
+"Max is smaller than Rex.",
+"Max is more small than Rex.",
+"Max is smallest than Rex."
+],
+"correcta": 0,
+"porque": "Small es corto, así que lleva -er y después than."
+},
+{
+"pregunta": "¿Cómo se compara \"big\" con -er?",
+"opciones": [
+"more big",
+"biger",
+"bigger"
+],
+"correcta": 2,
+"porque": "Big termina en consonante-vocal-consonante, así que se duplica la g."
+},
+{
+"pregunta": "¿Cuál es correcta para hablar de dos mochilas?",
+"opciones": [
+"This bag is more expensive that one.",
+"This bag is expensiver than that one.",
+"This bag is more expensive than that one."
+],
+"correcta": 2,
+"porque": "Expensive es largo: lleva more antes y than después."
+},
+{
+"pregunta": "En el recreo, Luis dice algo de Ana. ¿Cuál frase es respetuosa y compara?",
+"opciones": [
+"Her house is bigger as mine.",
+"Her house is bigger than mine.",
+"She is more ugly than me."
+],
+"correcta": 1,
+"porque": "Comparamos objetos o lugares y evitamos burlarnos de las personas."
+},
+{
+"pregunta": "¿Cuál es el comparativo de \"good\"?",
+"opciones": [
+"more good",
+"better",
+"gooder"
+],
+"correcta": 1,
+"porque": "Good es irregular: no lleva -er ni more, cambia a better."
+}
+],
+"comparativos-prepa": [
+{
+"pregunta": "¿Cómo dices que Ana es más alta que Eva?",
+"opciones": [
+"Ana is tallest than Eva.",
+"Ana is taller than Eva.",
+"Ana is more tall than Eva."
+],
+"correcta": 1,
+"porque": "Tall es corto: lleva -er y luego than."
+},
+{
+"pregunta": "¿Cuál es el comparativo de \"easy\"?",
+"opciones": [
+"easyer",
+"more easy",
+"easier"
+],
+"correcta": 2,
+"porque": "Si termina en -y, cambia la y por i y agrega -er."
+},
+{
+"pregunta": "En tu escuela, el libro de español cuesta mucho. ¿Cuál es correcta?",
+"opciones": [
+"This book is more expensive than that one.",
+"This book is most expensive than that one.",
+"This book is expensiver than that one."
+],
+"correcta": 0,
+"porque": "Expensive es largo, así que usa more y luego than."
+},
+{
+"pregunta": "¿Cuál es el comparativo de \"bad\"?",
+"opciones": [
+"badder",
+"more bad",
+"worse"
+],
+"correcta": 2,
+"porque": "Bad es irregular: su comparativo es worse."
+},
+{
+"pregunta": "¿Cuál frase dice que dos amigos miden igual?",
+"opciones": [
+"Tom is more tall than Leo.",
+"Tom is taller as Leo.",
+"Tom is as tall as Leo."
+],
+"correcta": 2,
+"porque": "Para igualdad se usa as, el adjetivo y otra vez as."
+}
+],
+"describir-personas-ropa-clima-prepa": [
+{
+"pregunta": "¿Qué frase dice qué ropa trae Ana puesta hoy?",
+"opciones": [
+"She wears a red sweater now.",
+"She is wearing a red sweater.",
+"She has wearing a red sweater."
+],
+"correcta": 1,
+"porque": "Para la ropa que traes ahora se usa is wearing y la prenda."
+},
+{
+"pregunta": "¿Cómo dices que tu amigo tiene cabello corto?",
+"opciones": [
+"He is short hair.",
+"He wears short hair.",
+"He has short hair."
+],
+"correcta": 2,
+"porque": "Para rasgos como el cabello se usa has o have."
+},
+{
+"pregunta": "Hoy llueve en tu escuela. ¿Cuál frase es correcta?",
+"opciones": [
+"He is rainy today.",
+"It is rainy today.",
+"It has rainy today."
+],
+"correcta": 1,
+"porque": "Para el clima se usa It is y una palabra como rainy."
+},
+{
+"pregunta": "Ves a una compañera con un vestido tradicional. ¿Cuál frase es respetuosa?",
+"opciones": [
+"She is wearing a traditional dress.",
+"She is wearing a strange dress.",
+"She is wearing a dress funny."
+],
+"correcta": 0,
+"porque": "Describimos lo que vemos sin juzgar, porque todas las culturas merecen respeto."
+},
+{
+"pregunta": "Completa: They ___ friendly.",
+"opciones": [
+"are",
+"have",
+"wearing"
+],
+"correcta": 0,
+"porque": "Para describir cómo son las personas se usa to be: they are."
+}
+],
+"deseos-elecciones-empatia-ingles-prepa": [
+{
+"pregunta": "Quieres pedir agua de forma amable. ¿Qué dices?",
+"opciones": [
+"I would like some water.",
+"Give me some water.",
+"I want some water now."
+],
+"correcta": 0,
+"porque": "I would like es la forma cortés de pedir algo."
+},
+{
+"pregunta": "Un amigo dice: \"I lost my pencil.\" ¿Cuál respuesta muestra empatía?",
+"opciones": [
+"Oh no, I do not care.",
+"Oh no, I'm sorry. Can I help you?",
+"Oh no, that is your problem."
+],
+"correcta": 1,
+"porque": "Mostrar empatía es reconocer su sentimiento y ofrecer ayuda."
+},
+{
+"pregunta": "¿Cuál pregunta ofrece elegir entre dos bebidas?",
+"opciones": [
+"Do you would like tea or coffee?",
+"You like tea or coffee please?",
+"Would you like tea or coffee?"
+],
+"correcta": 2,
+"porque": "Would you like ... or ...? sirve para ofrecer opciones con cortesía."
+},
+{
+"pregunta": "Una compañera dice: \"My grandmother is sick.\" ¿Cuál es buena respuesta?",
+"opciones": [
+"I want my lunch now.",
+"That sounds very funny.",
+"I'm sorry to hear that."
+],
+"correcta": 2,
+"porque": "Es una frase amable que reconoce que ella está triste."
+},
+{
+"pregunta": "¿Qué frase dice una necesidad?",
+"opciones": [
+"We would chairs more.",
+"We are chairs more.",
+"We need more chairs."
+],
+"correcta": 2,
+"porque": "I need o we need dicen algo que hace falta."
+}
+],
+"indicaciones-ciudad-ingles-prepa": [
+{
+"pregunta": "¿Cuál es una indicación correcta para ir al frente?",
+"opciones": [
+"You go straight.",
+"Go straight.",
+"Going straight you."
+],
+"correcta": 1,
+"porque": "Las indicaciones usan el verbo base, sin sujeto."
+},
+{
+"pregunta": "La biblioteca está junto al banco. ¿Cómo lo dices?",
+"opciones": [
+"The library is next to the bank.",
+"The library is into the bank.",
+"The library is across the bank."
+],
+"correcta": 0,
+"porque": "Next to significa junto a."
+},
+{
+"pregunta": "Quieres decir que hay dos mercados cerca. ¿Cuál es correcta?",
+"opciones": [
+"There are a market near here.",
+"There are two markets near here.",
+"There is two markets near here."
+],
+"correcta": 1,
+"porque": "Con dos o más cosas se usa There are."
+},
+{
+"pregunta": "¿Cómo le dices a alguien que no gire a la derecha?",
+"opciones": [
+"Not turn right.",
+"Don't turn right.",
+"Don't turns right."
+],
+"correcta": 1,
+"porque": "Para prohibir se usa Don't y el verbo base."
+},
+{
+"pregunta": "¿Cuál palabra significa \"al otro lado\"?",
+"opciones": [
+"across",
+"between",
+"into"
+],
+"correcta": 0,
+"porque": "Across se usa para cruzar al otro lado, como across the street."
+}
+],
+"preguntar-como-llegar-ingles-prepa": [
+{
+"pregunta": "Quieres llegar a la biblioteca. ¿Qué preguntas con cortesía?",
+"opciones": [
+"You tell me the library now.",
+"Excuse me, how do I get to the library?",
+"Where I go the library?"
+],
+"correcta": 1,
+"porque": "Excuse me y how do I get to...? son la forma amable de preguntar."
+},
+{
+"pregunta": "Quieres saber si hay una farmacia cerca. ¿Cuál frase usas?",
+"opciones": [
+"Is a pharmacy near here there?",
+"Is there a pharmacy near here?",
+"Are there a pharmacy near here?"
+],
+"correcta": 1,
+"porque": "Con una sola cosa se pregunta Is there...?"
+},
+{
+"pregunta": "Alguien dice: \"Turn right at the traffic light.\" ¿Qué debes hacer?",
+"opciones": [
+"Girar a la derecha en el semáforo.",
+"Seguir derecho hasta el puente.",
+"Girar a la izquierda en la esquina."
+],
+"correcta": 0,
+"porque": "Traffic light es semáforo y turn right es girar a la derecha."
+},
+{
+"pregunta": "¿Cómo preguntas qué tan lejos está un lugar?",
+"opciones": [
+"What far is it?",
+"How far is it?",
+"How long is far?"
+],
+"correcta": 1,
+"porque": "How far is it? pregunta por la distancia."
+},
+{
+"pregunta": "Un señor no entiende tu indicación. ¿Qué haces?",
+"opciones": [
+"Hablo despacio y lo ayudo con calma.",
+"Me voy sin decir nada.",
+"Hablo muy rápido para terminar."
+],
+"correcta": 0,
+"porque": "Ayudar con calma y despacio es amable y facilita entender."
+}
+],
+"repaso-ingles-segundo-semestre-prepa": [
+{
+"pregunta": "¿Cuál frase usa bien can para una habilidad?",
+"opciones": [
+"I can help you.",
+"I can to help you.",
+"I can helps you."
+],
+"correcta": 0,
+"porque": "Después de can va el verbo base, sin -s ni to."
+},
+{
+"pregunta": "¿Cuál frase compara dos escuelas?",
+"opciones": [
+"The school is more big the clinic.",
+"The school is biggest than the clinic.",
+"The school is bigger than the clinic."
+],
+"correcta": 2,
+"porque": "Big es corto: lleva -er y luego than."
+},
+{
+"pregunta": "¿Cuál indicación es correcta para llegar al parque?",
+"opciones": [
+"Goes straight and turning left.",
+"You going straight and turn left.",
+"Go straight and turn left."
+],
+"correcta": 2,
+"porque": "Las indicaciones usan el verbo base sin sujeto."
+},
+{
+"pregunta": "¿Cómo dices que hoy está lluvioso?",
+"opciones": [
+"It has rainy.",
+"It is rainy.",
+"He is rainy."
+],
+"correcta": 1,
+"porque": "Para el clima se usa It is y un adjetivo."
+},
+{
+"pregunta": "Hoy estás triste y un amigo quiere ayudarte. ¿Qué frase te dice a ti?",
+"opciones": [
+"I'm sorry to hear that.",
+"It is more rainy.",
+"I want your lunch now."
+],
+"correcta": 0,
+"porque": "Es una frase de empatía que reconoce lo que sientes."
+}
+],
+"rutinas-diarias-presente-simple-ingles-prepa": [
+{
+"pregunta": "¿Cuál frase está bien para una niña?",
+"opciones": [
+"She wake up at six.",
+"She waking up at six.",
+"She wakes up at six."
+],
+"correcta": 2,
+"porque": "Con she el verbo lleva -s en presente simple."
+},
+{
+"pregunta": "¿Cuál frase es negativa y correcta?",
+"opciones": [
+"He doesn't walks to school.",
+"He doesn't walk to school.",
+"He not walk to school."
+],
+"correcta": 1,
+"porque": "Con doesn't el verbo regresa a su forma base."
+},
+{
+"pregunta": "¿Dónde va la palabra \"usually\"?",
+"opciones": [
+"I take usually the bus.",
+"I take the bus usually.",
+"I usually take the bus."
+],
+"correcta": 2,
+"porque": "Los adverbios de frecuencia van antes del verbo."
+},
+{
+"pregunta": "¿Cuál pregunta es correcta para un amigo?",
+"opciones": [
+"Does he studies at night?",
+"Do he study at night?",
+"Does he study at night?"
+],
+"correcta": 2,
+"porque": "Con he se usa Does y el verbo en forma base."
+},
+{
+"pregunta": "¿Qué palabra ordena el último paso de tu mañana?",
+"opciones": [
+"finally",
+"never",
+"always"
+],
+"correcta": 0,
+"porque": "Finally significa por último y cierra una secuencia."
+}
+],
+"superlativos-prepa": [
+{
+"pregunta": "¿Cómo dices que Luis es el más alto del salón?",
+"opciones": [
+"Luis is taller.",
+"Luis is the tallest.",
+"Luis is the most tall."
+],
+"correcta": 1,
+"porque": "Tall es corto: lleva the y -est."
+},
+{
+"pregunta": "¿Cuál es el superlativo de \"happy\"?",
+"opciones": [
+"the happyest",
+"the happiest",
+"the most happy"
+],
+"correcta": 1,
+"porque": "Si termina en -y, cambia la y por i y agrega -est."
+},
+{
+"pregunta": "¿Cuál frase habla de la comida más cara de la cooperativa?",
+"opciones": [
+"It is more expensive.",
+"It is the expensivest.",
+"It is the most expensive."
+],
+"correcta": 2,
+"porque": "Expensive es largo: lleva the most."
+},
+{
+"pregunta": "¿Cuál es el superlativo de \"good\"?",
+"opciones": [
+"the most good",
+"the goodest",
+"the best"
+],
+"correcta": 2,
+"porque": "Good es irregular: su superlativo es the best."
+},
+{
+"pregunta": "¿Cuál frase habla del peor examen?",
+"opciones": [
+"It was the worst test.",
+"It was the most bad test.",
+"It was the baddest test."
+],
+"correcta": 0,
+"porque": "Bad es irregular: su superlativo es the worst."
+}
+],
+"tiempo-libre-otras-personas-ingles-prepa": [
+{
+"pregunta": "¿Cuál frase cuenta lo que hace Carlos?",
+"opciones": [
+"Carlos plays video games.",
+"Carlos play video games.",
+"Carlos playing video games."
+],
+"correcta": 0,
+"porque": "Con he, she o un nombre, el verbo lleva -s."
+},
+{
+"pregunta": "¿Cómo se escribe go con she?",
+"opciones": [
+"She gos to the park.",
+"She goes to the park.",
+"She go to the park."
+],
+"correcta": 1,
+"porque": "Los verbos que terminan en -o llevan -es."
+},
+{
+"pregunta": "¿Cómo se escribe study con he?",
+"opciones": [
+"He studys at night.",
+"He studies at night.",
+"He studyes at night."
+],
+"correcta": 1,
+"porque": "Consonante más y cambia a -ies."
+},
+{
+"pregunta": "¿Cuál pregunta es correcta sobre tu amiga?",
+"opciones": [
+"What does she does on weekends?",
+"What does she do on weekends?",
+"What do she do on weekends?"
+],
+"correcta": 1,
+"porque": "Con she se usa does y el verbo queda en base."
+},
+{
+"pregunta": "Completa: *My sister ___ in the park on Sundays.*",
+"opciones": [
+"walkes",
+"walks",
+"walk"
+],
+"correcta": 1,
+"porque": "Con *she* o *my sister* el verbo normal lleva -s."
+}
+]
+}

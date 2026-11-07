@@ -1,0 +1,522 @@
+{
+"formulas-quimicas-leer-y-contar-atomos-secundaria": [
+{
+"pregunta": "¿Cuántos átomos de H hay en $\\ce{H2SO4}$?",
+"opciones": [
+"4",
+"2",
+"7"
+],
+"correcta": 1,
+"porque": "El subíndice 2 está pegado a la H."
+},
+{
+"pregunta": "¿Cuántos átomos de O hay en $\\ce{3H2O}$?",
+"opciones": [
+"6",
+"3",
+"1"
+],
+"correcta": 1,
+"porque": "El coeficiente 3 multiplica un O."
+},
+{
+"pregunta": "¿Cuántos átomos tiene en total $\\ce{CO2}$?",
+"opciones": [
+"2",
+"4",
+"3"
+],
+"correcta": 2,
+"porque": "Suma 1 C más 2 O."
+},
+{
+"pregunta": "¿Cuántos átomos de H hay en $\\ce{Ca(OH)2}$?",
+"opciones": [
+"4",
+"1",
+"2"
+],
+"correcta": 2,
+"porque": "El 2 de afuera multiplica lo de adentro del paréntesis."
+},
+{
+"pregunta": "¿Qué indica el coeficiente 2 en $\\ce{2NaCl}$?",
+"opciones": [
+"Hay 2 Cl solamente",
+"Hay 2 de toda la fórmula",
+"Hay 2 Na solamente"
+],
+"correcta": 1,
+"porque": "El número de adelante multiplica todo."
+}
+],
+"grupos-y-periodos-secundaria": [
+{
+"pregunta": "¿Qué son los grupos en la tabla periódica?",
+"opciones": [
+"Las columnas",
+"Los colores",
+"Las filas"
+],
+"correcta": 0,
+"porque": "Los grupos van de arriba abajo."
+},
+{
+"pregunta": "¿Cuántos periodos, o filas, tiene la tabla periódica?",
+"opciones": [
+"10 filas",
+"18 filas",
+"7 filas"
+],
+"correcta": 2,
+"porque": "La tabla tiene 7 periodos, que son sus filas."
+},
+{
+"pregunta": "¿A qué familia pertenece el flúor?",
+"opciones": [
+"Alcalinos",
+"Gases nobles",
+"Halógenos"
+],
+"correcta": 2,
+"porque": "Está en el grupo 17."
+},
+{
+"pregunta": "¿Cuál es un gas noble?",
+"opciones": [
+"Calcio",
+"Sodio",
+"Neón"
+],
+"correcta": 2,
+"porque": "El neón está en el grupo 18."
+},
+{
+"pregunta": "El litio y el sodio están en el mismo grupo. ¿Cómo son?",
+"opciones": [
+"Con propiedades parecidas",
+"Totalmente distintos",
+"Siempre gases"
+],
+"correcta": 0,
+"porque": "Los de un mismo grupo se parecen mucho."
+}
+],
+"hitos-ciencia-tecnologia-quimica-secundaria": [
+{
+"pregunta": "¿Qué aportó Mendeléyev?",
+"opciones": [
+"Descubrió el fuego",
+"Ordenó la tabla periódica",
+"Inventó el plástico"
+],
+"correcta": 1,
+"porque": "Mendeléyev acomodó los elementos en 1869."
+},
+{
+"pregunta": "¿Qué descubrió Lavoisier?",
+"opciones": [
+"La masa se conserva",
+"La tabla periódica",
+"El ozono"
+],
+"correcta": 0,
+"porque": "En una reacción nada se pierde, solo se reacomoda."
+},
+{
+"pregunta": "¿Qué problema tienen los plásticos?",
+"opciones": [
+"Tardan mucho en degradarse",
+"Se acaban rápido",
+"Son muy pesados"
+],
+"correcta": 0,
+"porque": "Ensucian suelo y agua por muchos años."
+},
+{
+"pregunta": "¿Quién explicó el daño a la capa de ozono?",
+"opciones": [
+"Lavoisier",
+"Mario Molina",
+"Mendeléyev"
+],
+"correcta": 1,
+"porque": "Mario Molina ganó el Nobel en 1995 por eso."
+},
+{
+"pregunta": "¿Para qué ayudaron los fertilizantes?",
+"opciones": [
+"Hacer plásticos",
+"Producir más comida",
+"Fabricar vidrio"
+],
+"correcta": 1,
+"porque": "Los fertilizantes ayudan a que las plantas crezcan mejor."
+}
+],
+"indicadores-acido-base-secundaria": [
+{
+"pregunta": "¿Qué color da el tornasol con limón?",
+"opciones": [
+"Rojo",
+"Azul",
+"Verde"
+],
+"correcta": 0,
+"porque": "El tornasol se vuelve rojo en un ácido."
+},
+{
+"pregunta": "¿Qué color tiene la fenolftaleína en una base?",
+"opciones": [
+"Incoloro",
+"Rojo",
+"Rosa"
+],
+"correcta": 2,
+"porque": "En una base se pone rosa."
+},
+{
+"pregunta": "¿Para qué sirve un indicador?",
+"opciones": [
+"Para saber si algo es ácido o base",
+"Para pesar cuánto tiene una sustancia",
+"Para medir qué tan caliente está algo"
+],
+"correcta": 0,
+"porque": "Un indicador cambia de color según el pH."
+},
+{
+"pregunta": "¿Qué puedes usar en casa como indicador?",
+"opciones": [
+"Aceite",
+"Agua con sal",
+"Agua de col morada"
+],
+"correcta": 2,
+"porque": "La col morada cambia de color con ácidos y bases."
+},
+{
+"pregunta": "¿Qué da el papel pH?",
+"opciones": [
+"Un color por cada valor",
+"Un olor",
+"Una temperatura"
+],
+"correcta": 0,
+"porque": "Cada color del papel corresponde a un pH."
+}
+],
+"isotopos-secundaria": [
+{
+"pregunta": "¿Qué tienen igual los isótopos de un elemento?",
+"opciones": [
+"La masa",
+"Los neutrones",
+"Los protones"
+],
+"correcta": 2,
+"porque": "Un mismo elemento siempre tiene igual número de protones."
+},
+{
+"pregunta": "¿Cuántos neutrones tiene C-13, con 6 protones?",
+"opciones": [
+"7",
+"13",
+"6"
+],
+"correcta": 0,
+"porque": "Se resta: 13 menos 6."
+},
+{
+"pregunta": "¿Cuántos neutrones tiene O-17, con 8 protones?",
+"opciones": [
+"17",
+"8",
+"9"
+],
+"correcta": 2,
+"porque": "Se resta: 17 menos 8."
+},
+{
+"pregunta": "¿Para qué sirve el C-14?",
+"opciones": [
+"Para hacer jabón",
+"Para endulzar",
+"Para fechar restos antiguos"
+],
+"correcta": 2,
+"porque": "Su cantidad ayuda a saber qué tan viejo es algo."
+},
+{
+"pregunta": "¿En qué se diferencian dos isótopos?",
+"opciones": [
+"En protones",
+"En el nombre",
+"En neutrones"
+],
+"correcta": 2,
+"porque": "Cambia el número de neutrones y el átomo pesa distinto."
+}
+],
+"leer-una-ecuacion-quimica-secundaria": [
+{
+"pregunta": "En $\\ce{2H2 + O2 -> 2H2O}$, ¿cuál es el producto?",
+"opciones": [
+"$\\ce{O2}$",
+"$\\ce{H2}$",
+"$\\ce{H2O}$"
+],
+"correcta": 2,
+"porque": "El producto está a la derecha de la flecha."
+},
+{
+"pregunta": "¿Qué significa (g) junto a una fórmula?",
+"opciones": [
+"Es un gas",
+"Está en agua",
+"Es un sólido"
+],
+"correcta": 0,
+"porque": "(g) viene de gas."
+},
+{
+"pregunta": "En $\\ce{3O2}$, ¿qué indica el 3?",
+"opciones": [
+"Hay 3 átomos en cada molécula",
+"Hay 6 productos",
+"Hay 3 moléculas de oxígeno"
+],
+"correcta": 2,
+"porque": "El número de adelante dice cuántas moléculas."
+},
+{
+"pregunta": "¿Cuántos reactivos tiene $\\ce{Zn + 2HCl -> ZnCl2 + H2}$?",
+"opciones": [
+"1",
+"3",
+"2"
+],
+"correcta": 2,
+"porque": "Los reactivos están a la izquierda: Zn y HCl."
+},
+{
+"pregunta": "¿Qué indica el subíndice 2 en $\\ce{O2}$?",
+"opciones": [
+"Hay 2 moléculas",
+"Hay 2 átomos de oxígeno",
+"Es el producto"
+],
+"correcta": 1,
+"porque": "El número de abajo cuenta los átomos de la fórmula."
+}
+],
+"ley-de-conservacion-de-la-masa-secundaria": [
+{
+"pregunta": "Reaccionan 8 g de A con 2 g de B. ¿Cuánto pesa lo que sale?",
+"opciones": [
+"10 g",
+"6 g",
+"16 g"
+],
+"correcta": 0,
+"porque": "La masa total no cambia: 8 más 2."
+},
+{
+"pregunta": "Salen 30 g de producto y entraron 20 g de un reactivo. ¿Cuánto era el otro?",
+"opciones": [
+"50 g",
+"10 g",
+"30 g"
+],
+"correcta": 1,
+"porque": "Se resta: 30 menos 20."
+},
+{
+"pregunta": "¿Quién enunció la ley de la conservación de la masa?",
+"opciones": [
+"Lavoisier",
+"Molina",
+"Mendeléyev"
+],
+"correcta": 0,
+"porque": "Antoine Lavoisier la enunció."
+},
+{
+"pregunta": "En un vaso abierto la masa parece bajar. ¿Por qué?",
+"opciones": [
+"Se escapa un gas",
+"La balanza falla siempre",
+"Desaparece materia"
+],
+"correcta": 0,
+"porque": "El gas que se fue también pesa."
+},
+{
+"pregunta": "¿Qué le pasa a la masa total en una reacción?",
+"opciones": [
+"Desaparece",
+"Se queda igual",
+"Aumenta"
+],
+"correcta": 1,
+"porque": "Lo que entra es lo que sale."
+}
+],
+"masa-molar-secundaria": [
+{
+"pregunta": "¿Cuál es la masa molar del $\\ce{H2O}$?",
+"opciones": [
+"17 g/mol",
+"10 g/mol",
+"18 g/mol"
+],
+"correcta": 2,
+"porque": "Se suma 2 por 1 más 16."
+},
+{
+"pregunta": "¿Cuál es la masa molar del $\\ce{CO2}$?",
+"opciones": [
+"44 g/mol",
+"60 g/mol",
+"28 g/mol"
+],
+"correcta": 0,
+"porque": "Se suma 12 más 2 por 16."
+},
+{
+"pregunta": "¿Cuántos moles son 36 g de agua?",
+"opciones": [
+"2 mol",
+"18 mol",
+"0.5 mol"
+],
+"correcta": 0,
+"porque": "Se divide 36 entre 18."
+},
+{
+"pregunta": "¿Cuántos gramos son 2 mol de agua?",
+"opciones": [
+"9 g",
+"36 g",
+"20 g"
+],
+"correcta": 1,
+"porque": "Se multiplica 2 por 18."
+},
+{
+"pregunta": "¿Cuál es la masa molar del $\\ce{O2}$?",
+"opciones": [
+"32 g/mol",
+"16 g/mol",
+"8 g/mol"
+],
+"correcta": 0,
+"porque": "Son 2 átomos de oxígeno: 2 por 16."
+}
+],
+"masa-volumen-y-densidad-secundaria": [
+{
+"pregunta": "Un objeto pesa 60 g y ocupa 20 mL. ¿Cuál es su densidad?",
+"opciones": [
+"0.3 g/mL",
+"40 g/mL",
+"3 g/mL"
+],
+"correcta": 2,
+"porque": "Se divide 60 entre 20."
+},
+{
+"pregunta": "¿Cuánta masa tienen 5 mL con densidad 2 g/mL?",
+"opciones": [
+"7 g",
+"10 g",
+"2.5 g"
+],
+"correcta": 1,
+"porque": "Se multiplica densidad por volumen."
+},
+{
+"pregunta": "Un objeto tiene densidad 0.5 g/mL. ¿Flota en agua?",
+"opciones": [
+"Depende del color",
+"Sí",
+"No"
+],
+"correcta": 1,
+"porque": "El agua tiene 1 g/mL y 0.5 es menor."
+},
+{
+"pregunta": "¿Qué pasa con la densidad si partes un trozo de metal?",
+"opciones": [
+"Aumenta",
+"Baja a la mitad",
+"Se queda igual"
+],
+"correcta": 2,
+"porque": "La densidad no depende del tamaño del trozo."
+},
+{
+"pregunta": "Una piedra de 3 g/mL cae al agua. ¿Qué hace?",
+"opciones": [
+"Se disuelve",
+"Flota",
+"Se hunde"
+],
+"correcta": 2,
+"porque": "Es más densa que el agua."
+}
+],
+"metales-no-metales-y-metaloides-secundaria": [
+{
+"pregunta": "¿Qué tipo de elemento es el cobre?",
+"opciones": [
+"No metal",
+"Metal",
+"Metaloide"
+],
+"correcta": 1,
+"porque": "Brilla y conduce la electricidad."
+},
+{
+"pregunta": "¿Qué tipo de elemento es el azufre?",
+"opciones": [
+"Metaloide",
+"Metal",
+"No metal"
+],
+"correcta": 2,
+"porque": "Es un mal conductor y frágil."
+},
+{
+"pregunta": "¿Cuál es un metaloide?",
+"opciones": [
+"Oxígeno",
+"Hierro",
+"Silicio"
+],
+"correcta": 2,
+"porque": "El silicio tiene propiedades intermedias y se usa en chips."
+},
+{
+"pregunta": "¿Dónde están los metaloides en la tabla periódica?",
+"opciones": [
+"A la izquierda",
+"Arriba a la derecha",
+"En la línea de escalera"
+],
+"correcta": 2,
+"porque": "Están entre los metales y los no metales."
+},
+{
+"pregunta": "Una cuchara se calienta rápido en una sopa. ¿Qué es?",
+"opciones": [
+"Un metal",
+"Un metaloide",
+"Un no metal"
+],
+"correcta": 0,
+"porque": "Los metales conducen bien el calor."
+}
+]
+}

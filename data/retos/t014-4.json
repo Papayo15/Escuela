@@ -1,0 +1,522 @@
+{
+"fracciones-a-decimales-secundaria": [
+{
+"pregunta": "Convierte $\\frac{3}{4}$ a decimal.",
+"opciones": [
+"0.34",
+"1.33",
+"0.75"
+],
+"correcta": 2,
+"porque": "Se divide 3 entre 4 y da 0.75."
+},
+{
+"pregunta": "Convierte 0.6 a fracción simplificada.",
+"opciones": [
+"$\\frac{6}{10}$",
+"$\\frac{6}{100}$",
+"$\\frac{3}{5}$"
+],
+"correcta": 2,
+"porque": "Es $\\frac{6}{10}$, y al simplificar entre 2 queda $\\frac{3}{5}$."
+},
+{
+"pregunta": "¿$\\frac{1}{8}$ es un decimal finito o periódico?",
+"opciones": [
+"Periódico, porque cualquier fracción se repite",
+"Finito, porque abajo solo hay factores 2",
+"Periódico, porque el 8 es un número grande"
+],
+"correcta": 1,
+"porque": "El 8 es $2 \\times 2 \\times 2$, y por eso $\\frac{1}{8} = 0.125$ termina."
+},
+{
+"pregunta": "Convierte $0.\\overline{2}$ a fracción.",
+"opciones": [
+"$\\frac{2}{99}$",
+"$\\frac{2}{9}$",
+"$\\frac{2}{10}$"
+],
+"correcta": 1,
+"porque": "Una cifra que se repite lleva un 9 abajo."
+},
+{
+"pregunta": "Quieres pasar 0.25 a fracción. ¿Qué denominador usas primero?",
+"opciones": [
+"25",
+"100",
+"10"
+],
+"correcta": 1,
+"porque": "0.25 tiene dos cifras, así que va sobre 100."
+}
+],
+"funciones-lineales-cuadraticas": [
+{
+"pregunta": "¿Cuál es la pendiente de $y = 3x + 5$?",
+"opciones": [
+"3",
+"5",
+"8"
+],
+"correcta": 0,
+"porque": "La pendiente es el número que acompaña a $x$."
+},
+{
+"pregunta": "¿En qué punto cruza el eje $y$ la recta $y = -2x + 9$?",
+"opciones": [
+"En $(9, 0)$",
+"En $(0, -2)$",
+"En $(0, 9)$"
+],
+"correcta": 2,
+"porque": "Cruza en $(0, b)$ y aquí $b = 9$."
+},
+{
+"pregunta": "Evalúa $y = x^2 + 2$ cuando $x = 4$.",
+"opciones": [
+"12",
+"18",
+"10"
+],
+"correcta": 1,
+"porque": "$4^2 = 16$ y $16 + 2 = 18$."
+},
+{
+"pregunta": "Un parque cobra 15 pesos de entrada y 5 pesos por juego. ¿Cuánto pagas por 3 juegos?",
+"opciones": [
+"23 pesos",
+"30 pesos",
+"45 pesos"
+],
+"correcta": 1,
+"porque": "Son $5 \\times 3 = 15$ pesos de juegos más 15 de entrada, o sea 30."
+},
+{
+"pregunta": "¿Qué forma tiene la gráfica de una función cuadrática?",
+"opciones": [
+"Una parábola",
+"Una recta inclinada",
+"Un círculo cerrado"
+],
+"correcta": 0,
+"porque": "La función cuadrática da una curva, como el camino de un balón."
+}
+],
+"graficar-una-funcion-lineal-secundaria": [
+{
+"pregunta": "En $y = 2x + 3$, ¿cuánto vale $y$ cuando $x = 2$?",
+"opciones": [
+"5",
+"7",
+"10"
+],
+"correcta": 1,
+"porque": "$2(2) + 3 = 7$."
+},
+{
+"pregunta": "Para graficar $y = -x + 5$, ¿en qué punto empiezas?",
+"opciones": [
+"En $(0, 5)$",
+"En $(5, 0)$",
+"En $(0, -1)$"
+],
+"correcta": 0,
+"porque": "Empiezas en $(0, b)$ y aquí $b = 5$."
+},
+{
+"pregunta": "Empiezas en $(0, 1)$ con $m = 3$. ¿Cuál es el siguiente punto?",
+"opciones": [
+"$(3, 1)$",
+"$(1, 4)$",
+"$(1, 3)$"
+],
+"correcta": 1,
+"porque": "Avanzas 1 y subes 3: de 1 pasas a 4."
+},
+{
+"pregunta": "¿Cuántos puntos bastan para trazar una recta?",
+"opciones": [
+"Dos puntos",
+"Cinco puntos",
+"Un punto"
+],
+"correcta": 0,
+"porque": "Con dos puntos y una regla ya sabes por dónde va la recta."
+},
+{
+"pregunta": "Con $m = \\frac{2}{3}$, ¿cómo te mueves desde un punto?",
+"opciones": [
+"Subes 3 y avanzas 2",
+"Subes 2 y retrocedes 3",
+"Subes 2 y avanzas 3"
+],
+"correcta": 2,
+"porque": "El número de arriba es lo que subes y el de abajo lo que avanzas."
+}
+],
+"graficar-una-parabola-secundaria": [
+{
+"pregunta": "¿La parábola $y = 3x^2$ abre hacia arriba o hacia abajo?",
+"opciones": [
+"Hacia abajo",
+"Hacia los lados",
+"Hacia arriba"
+],
+"correcta": 2,
+"porque": "Como $a = 3$ es positiva, la parábola abre hacia arriba."
+},
+{
+"pregunta": "¿La parábola $y = -x^2 + 4$ abre hacia arriba o hacia abajo?",
+"opciones": [
+"Hacia arriba, porque el 4 es positivo",
+"No abre, porque es una línea recta",
+"Hacia abajo, porque $a$ es negativa"
+],
+"correcta": 2,
+"porque": "Si $a$ es negativa, la parábola abre hacia abajo."
+},
+{
+"pregunta": "Encuentra $x_v$ en $y = x^2 - 8x$.",
+"opciones": [
+"8",
+"$-4$",
+"4"
+],
+"correcta": 2,
+"porque": "Se usa $x_v = \\frac{-b}{2a} = \\frac{8}{2} = 4$."
+},
+{
+"pregunta": "Evalúa $y = x^2 - 2x$ cuando $x = 3$.",
+"opciones": [
+"12",
+"3",
+"7"
+],
+"correcta": 1,
+"porque": "Se calcula $9 - 6 = 3$."
+},
+{
+"pregunta": "El vértice está en $x = 2$ y el punto $(1, 0)$ está en la parábola. ¿Qué otro punto con $y = 0$ también está en ella?",
+"opciones": [
+"$(0, 1)$",
+"$(3, 0)$",
+"$(2, 0)$"
+],
+"correcta": 1,
+"porque": "La parábola es igual a ambos lados del vértice, y 3 está tan lejos de 2 como 1."
+}
+],
+"histogramas-y-poligonos-de-frecuencia-secundaria": [
+{
+"pregunta": "¿Cuál es el punto medio del intervalo 60-70?",
+"opciones": [
+"65",
+"10",
+"130"
+],
+"correcta": 0,
+"porque": "Se suma 60 más 70 y se divide entre 2."
+},
+{
+"pregunta": "¿Cuál es el punto medio del intervalo 100-120?",
+"opciones": [
+"220",
+"110",
+"20"
+],
+"correcta": 1,
+"porque": "Se suma 100 más 120 y se divide entre 2."
+},
+{
+"pregunta": "¿Qué une el polígono de frecuencia con líneas?",
+"opciones": [
+"Los nombres de las categorías del eje",
+"Los puntos medios de las barras",
+"Las esquinas de abajo de las barras"
+],
+"correcta": 1,
+"porque": "Se pone un punto en medio de cada barra y se unen con líneas."
+},
+{
+"pregunta": "Quieres mostrar las estaturas de tu salón agrupadas en intervalos. ¿Qué gráfica sirve mejor?",
+"opciones": [
+"Un histograma, con barras pegadas",
+"Una gráfica de pastel de nombres",
+"Un mapa con las calles de tu casa"
+],
+"correcta": 0,
+"porque": "El histograma muestra números agrupados en intervalos."
+},
+{
+"pregunta": "¿En qué se diferencia una gráfica de barras de un histograma?",
+"opciones": [
+"La de barras siempre tiene las barras pegadas",
+"La de barras solo se usa para datos con decimales",
+"La de barras compara categorías"
+],
+"correcta": 2,
+"porque": "El histograma tiene barras pegadas, y la de barras compara categorías separadas."
+}
+],
+"incognita-en-ambos-lados-secundaria": [
+{
+"pregunta": "Resuelve $6x + 2 = 2x + 18$.",
+"opciones": [
+"$x = 5$",
+"$x = 20$",
+"$x = 4$"
+],
+"correcta": 2,
+"porque": "Resta $2x$ y 2: $4x = 16$, entonces $x = 4$."
+},
+{
+"pregunta": "Resuelve $5x - 3 = 3x + 7$.",
+"opciones": [
+"$x = 10$",
+"$x = 2$",
+"$x = 5$"
+],
+"correcta": 2,
+"porque": "Resta $3x$ y suma 3: $2x = 10$, entonces $x = 5$."
+},
+{
+"pregunta": "Resuelve $x + 9 = 3x + 3$.",
+"opciones": [
+"$x = 3$",
+"$x = 4$",
+"$x = 6$"
+],
+"correcta": 0,
+"porque": "Resta $x$ y 3: $6 = 2x$, entonces $x = 3$."
+},
+{
+"pregunta": "Al resolver $2x + 7 = 2x + 1$ queda $7 = 1$. ¿Qué significa?",
+"opciones": [
+"No hay solución",
+"La solución es $x = 6$",
+"Hay infinitas soluciones"
+],
+"correcta": 0,
+"porque": "Queda algo falso, así que ningún número lo cumple."
+},
+{
+"pregunta": "Al resolver $4x + 5 = 4x + 5$ queda $5 = 5$. ¿Qué significa?",
+"opciones": [
+"No hay solución, porque la $x$ desapareció",
+"La solución es $x = 5$, el número que quedó",
+"Hay infinitas soluciones"
+],
+"correcta": 2,
+"porque": "Queda algo siempre cierto, así que cualquier número sirve."
+}
+],
+"introduccion-algebra": [
+{
+"pregunta": "Simplifica $6x + 2y + x$.",
+"opciones": [
+"$8x + y$",
+"$7x + 2y$",
+"$9xy$"
+],
+"correcta": 1,
+"porque": "Solo se suman términos iguales: $6x + x = 7x$."
+},
+{
+"pregunta": "Simplifica $3(x + 5)$.",
+"opciones": [
+"$3x + 5$",
+"$3x + 15$",
+"$x + 15$"
+],
+"correcta": 1,
+"porque": "El 3 multiplica a todo lo de adentro."
+},
+{
+"pregunta": "Simplifica $(x + 2)^2$.",
+"opciones": [
+"$x^2 + 2x + 4$",
+"$x^2 + 4x + 4$",
+"$x^2 + 4$"
+],
+"correcta": 1,
+"porque": "Se usa $(a + b)^2 = a^2 + 2ab + b^2$."
+},
+{
+"pregunta": "Evalúa $5x^2$ con $x = 2$.",
+"opciones": [
+"12",
+"100",
+"20"
+],
+"correcta": 2,
+"porque": "Primero $2^2 = 4$ y luego $5 \\times 4 = 20$."
+},
+{
+"pregunta": "¿Cuál pareja de términos se puede sumar directamente?",
+"opciones": [
+"$5y$ y $8x$",
+"$5y$ y $8$",
+"$5y$ y $8y$"
+],
+"correcta": 2,
+"porque": "Solo se suman términos con la misma letra."
+}
+],
+"jerarquia-de-operaciones-secundaria": [
+{
+"pregunta": "Resuelve $4 + 6 \\times 3$.",
+"opciones": [
+"13",
+"30",
+"22"
+],
+"correcta": 2,
+"porque": "Primero $6 \\times 3 = 18$ y luego $4 + 18 = 22$."
+},
+{
+"pregunta": "Resuelve $(9 - 3) \\times 2$.",
+"opciones": [
+"15",
+"3",
+"12"
+],
+"correcta": 2,
+"porque": "Primero el paréntesis: $6 \\times 2 = 12$."
+},
+{
+"pregunta": "Resuelve $24 \\div 6 \\times 2$.",
+"opciones": [
+"8",
+"2",
+"12"
+],
+"correcta": 0,
+"porque": "Con el mismo turno se va de izquierda a derecha: $4 \\times 2 = 8$."
+},
+{
+"pregunta": "Resuelve $3 + 2^2 \\times 5$.",
+"opciones": [
+"50",
+"25",
+"23"
+],
+"correcta": 2,
+"porque": "Primero la potencia 4, luego $4 \\times 5 = 20$ y al final $3 + 20 = 23$."
+},
+{
+"pregunta": "¿Qué se resuelve primero cuando hay paréntesis, potencias y sumas juntos?",
+"opciones": [
+"Las sumas",
+"Las potencias",
+"Los paréntesis"
+],
+"correcta": 2,
+"porque": "Los paréntesis siempre van primero."
+}
+],
+"leyes-de-los-exponentes-secundaria": [
+{
+"pregunta": "Simplifica $m^2 \\cdot m^6$.",
+"opciones": [
+"$m^8$",
+"$m^4$",
+"$m^{12}$"
+],
+"correcta": 0,
+"porque": "Al multiplicar con igual base se suman los exponentes."
+},
+{
+"pregunta": "Simplifica $\\frac{b^7}{b^3}$.",
+"opciones": [
+"$b^{10}$",
+"$b^{21}$",
+"$b^4$"
+],
+"correcta": 2,
+"porque": "Al dividir con igual base se restan los exponentes."
+},
+{
+"pregunta": "Simplifica $(z^2)^4$.",
+"opciones": [
+"$z^8$",
+"$z^{16}$",
+"$z^6$"
+],
+"correcta": 0,
+"porque": "En una potencia de potencia se multiplican los exponentes."
+},
+{
+"pregunta": "¿Cuánto vale $5^0$?",
+"opciones": [
+"5",
+"0",
+"1"
+],
+"correcta": 2,
+"porque": "Cualquier número distinto de cero elevado a 0 vale 1."
+},
+{
+"pregunta": "Simplifica $(3a)^2$.",
+"opciones": [
+"$6a^2$",
+"$9a^2$",
+"$3a^2$"
+],
+"correcta": 1,
+"porque": "El exponente afecta al 3 y a la letra: $9a^2$."
+}
+],
+"longitud-de-la-circunferencia-y-area-del-circulo-secundaria": [
+{
+"pregunta": "Un círculo tiene $r = 4$ cm. Usa 3.14. ¿Cuánto mide su circunferencia?",
+"opciones": [
+"12.56 cm",
+"50.24 cm",
+"25.12 cm"
+],
+"correcta": 2,
+"porque": "Se calcula $C = 2(3.14)(4) = 25.12$ cm."
+},
+{
+"pregunta": "Un círculo tiene $r = 3$ cm. Usa 3.14. ¿Cuánto mide su área?",
+"opciones": [
+"28.26 cm²",
+"18.84 cm²",
+"56.52 cm²"
+],
+"correcta": 0,
+"porque": "Se calcula $A = 3.14(9) = 28.26$ cm²."
+},
+{
+"pregunta": "Una circunferencia mide 62.8 cm. ¿Cuánto mide el radio?",
+"opciones": [
+"10 cm",
+"20 cm",
+"31.4 cm"
+],
+"correcta": 0,
+"porque": "Se divide 62.8 entre $2\\pi$ y sale 10."
+},
+{
+"pregunta": "Un círculo tiene área de 50.24 cm². ¿Cuánto mide el sector de 90°?",
+"opciones": [
+"12.56 cm²",
+"25.12 cm²",
+"90 cm²"
+],
+"correcta": 0,
+"porque": "Con 90° es un cuarto: 50.24 entre 4 da 12.56."
+},
+{
+"pregunta": "¿Cómo se calcula el área de una corona circular?",
+"opciones": [
+"$\\pi(R - r)^2$",
+"$\\pi(R^2 - r^2)$",
+"$2\\pi(R + r)$"
+],
+"correcta": 1,
+"porque": "Es el círculo grande menos el chico."
+}
+]
+}

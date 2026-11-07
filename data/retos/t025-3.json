@@ -1,0 +1,522 @@
+{
+"configuracion-electronica-basica-secundaria": [
+{
+"pregunta": "¿Cuántos electrones caben en un nivel s?",
+"opciones": [
+"2",
+"10",
+"6"
+],
+"correcta": 0,
+"porque": "El nivel s tiene cupo para 2 electrones."
+},
+{
+"pregunta": "Configuración del nitrógeno, con 7 electrones",
+"opciones": [
+"$1s^2\\, 2s^3\\, 2p^2$",
+"$1s^2\\, 2s^2\\, 2p^5$",
+"$1s^2\\, 2s^2\\, 2p^3$"
+],
+"correcta": 2,
+"porque": "Los exponentes suman 7: 2 más 2 más 3."
+},
+{
+"pregunta": "¿Qué nivel se llena primero?",
+"opciones": [
+"$1s$",
+"$3s$",
+"$2p$"
+],
+"correcta": 0,
+"porque": "Los electrones ocupan primero los pisos de menor energía."
+},
+{
+"pregunta": "¿Qué elemento tiene $1s^2\\, 2s^2\\, 2p^6\\, 3s^2$?",
+"opciones": [
+"Neón",
+"Magnesio",
+"Sodio"
+],
+"correcta": 1,
+"porque": "Suma 12 electrones, y eso corresponde al magnesio."
+},
+{
+"pregunta": "Quieres dibujar el edificio del berilio, con 4 electrones. ¿Cuál es?",
+"opciones": [
+"$1s^2\\, 2s^2$",
+"$1s^2\\, 2p^2$",
+"$1s^4$"
+],
+"correcta": 0,
+"porque": "Primero se llena 1s con 2 y los otros 2 van en 2s."
+}
+],
+"contaminantes-concentracion-ambiente-secundaria": [
+{
+"pregunta": "¿Qué significa 3 ppm?",
+"opciones": [
+"3 partes por cada cien",
+"3 gramos por kilo",
+"3 partes por cada millón"
+],
+"correcta": 2,
+"porque": "Ppm cuenta partes de contaminante en un millón."
+},
+{
+"pregunta": "¿Cuál es un contaminante del agua?",
+"opciones": [
+"Detergente del drenaje",
+"Agua de lluvia",
+"Aire limpio"
+],
+"correcta": 0,
+"porque": "Los detergentes llegan al agua y la ensucian."
+},
+{
+"pregunta": "¿Por qué hay límites de concentración?",
+"opciones": [
+"Porque mucha cantidad daña",
+"Porque todo es malo",
+"Porque el agua es cara"
+],
+"correcta": 0,
+"porque": "La cantidad decide si algo hace daño o no."
+},
+{
+"pregunta": "¿Qué puedes hacer en tu escuela para contaminar menos?",
+"opciones": [
+"Tirar aceite al drenaje",
+"Separar la basura",
+"Quemar papel"
+],
+"correcta": 1,
+"porque": "Separar la basura evita que se mezcle y ensucie."
+},
+{
+"pregunta": "¿Cuál contamina el suelo?",
+"opciones": [
+"Plaguicidas",
+"Vapor de agua",
+"Brisa fresca"
+],
+"correcta": 0,
+"porque": "Los plaguicidas se quedan en la tierra y la dañan."
+}
+],
+"destilacion-y-cromatografia-secundaria": [
+{
+"pregunta": "¿Qué propiedad usa la destilación?",
+"opciones": [
+"El punto de ebullición",
+"El color de los líquidos",
+"El sabor de cada líquido"
+],
+"correcta": 0,
+"porque": "La destilación separa por punto de ebullición."
+},
+{
+"pregunta": "¿Qué método separa los colores de un plumón?",
+"opciones": [
+"Cromatografía",
+"Destilación",
+"Evaporación"
+],
+"correcta": 0,
+"porque": "Cada color avanza distinto sobre el papel."
+},
+{
+"pregunta": "Alcohol hierve a 78 grados y agua a 100. ¿Cuál sale primero?",
+"opciones": [
+"El agua",
+"Los dos igual",
+"El alcohol"
+],
+"correcta": 2,
+"porque": "El que hierve a menos temperatura se evapora primero."
+},
+{
+"pregunta": "¿Qué pasa con el vapor en la destilación?",
+"opciones": [
+"Se vuelve sólido",
+"Se enfría y se condensa",
+"Se queda en el aire"
+],
+"correcta": 1,
+"porque": "El vapor frío vuelve a ser líquido limpio."
+},
+{
+"pregunta": "¿Con qué método se obtiene agua destilada?",
+"opciones": [
+"Destilación",
+"Decantación",
+"Cromatografía"
+],
+"correcta": 0,
+"porque": "Se hierve el agua y el vapor se junta de nuevo."
+}
+],
+"el-mol-y-el-numero-de-avogadro-secundaria": [
+{
+"pregunta": "¿Cuántas partículas tiene un mol?",
+"opciones": [
+"$6.02 \\times 10^{23}$",
+"$6.02 \\times 10^{3}$",
+"$1 \\times 10^{12}$"
+],
+"correcta": 0,
+"porque": "Un mol es una cantidad enorme de partículas."
+},
+{
+"pregunta": "¿Qué mide el mol?",
+"opciones": [
+"El tamaño",
+"La temperatura",
+"La cantidad de sustancia"
+],
+"correcta": 2,
+"porque": "El mol cuenta partículas, como una docena cuenta huevos."
+},
+{
+"pregunta": "¿Cuántos átomos hay en 2 mol de hierro?",
+"opciones": [
+"$3.01 \\times 10^{23}$",
+"$12.04 \\times 10^{23}$",
+"$6.02 \\times 10^{23}$"
+],
+"correcta": 1,
+"porque": "Se multiplica 2 por el número de Avogadro."
+},
+{
+"pregunta": "¿Cuántos moles son $3.01 \\times 10^{23}$ átomos?",
+"opciones": [
+"5 mol",
+"2 mol",
+"0.5 mol"
+],
+"correcta": 2,
+"porque": "Se divide entre $6.02 \\times 10^{23}$ y sale la mitad."
+},
+{
+"pregunta": "Una docena son 12 huevos. ¿Cuántos huevos hay en 2 docenas?",
+"opciones": [
+"24",
+"14",
+"12"
+],
+"correcta": 0,
+"porque": "Dos veces 12 son 24, y el mol funciona parecido."
+}
+],
+"electrones-de-valencia-y-estructura-de-lewis-secundaria": [
+{
+"pregunta": "¿Cuántos electrones de valencia tiene el sodio, grupo 1?",
+"opciones": [
+"11",
+"1",
+"8"
+],
+"correcta": 1,
+"porque": "El grupo 1 tiene un electrón en su última capa."
+},
+{
+"pregunta": "¿Cuántos electrones de valencia tiene el flúor, grupo 17?",
+"opciones": [
+"2",
+"7",
+"17"
+],
+"correcta": 1,
+"porque": "Del grupo 13 al 18 se resta 10: 17 menos 10."
+},
+{
+"pregunta": "¿Dónde están los electrones de valencia?",
+"opciones": [
+"En la primera capa",
+"En el núcleo",
+"En la última capa"
+],
+"correcta": 2,
+"porque": "Son los que están más lejos del centro."
+},
+{
+"pregunta": "En Lewis, ¿qué representa cada línea entre átomos?",
+"opciones": [
+"Un par compartido",
+"Un neutrón",
+"Un protón"
+],
+"correcta": 0,
+"porque": "La línea une dos átomos y marca electrones compartidos."
+},
+{
+"pregunta": "¿Cuántos puntos dibujas en el oxígeno, grupo 16?",
+"opciones": [
+"6",
+"2",
+"16"
+],
+"correcta": 0,
+"porque": "Del grupo 16 se resta 10 y quedan 6 puntos."
+}
+],
+"enlace-covalente-secundaria": [
+{
+"pregunta": "¿Qué hacen los átomos en un enlace covalente?",
+"opciones": [
+"Se regalan electrones",
+"Pierden neutrones",
+"Comparten electrones"
+],
+"correcta": 2,
+"porque": "Los dos átomos comparten para estar estables."
+},
+{
+"pregunta": "¿Entre qué elementos se forma?",
+"opciones": [
+"Entre no metales",
+"Entre metales",
+"Entre un metal y un gas noble"
+],
+"correcta": 0,
+"porque": "Los no metales se unen compartiendo."
+},
+{
+"pregunta": "¿Cuántos pares comparte un enlace triple?",
+"opciones": [
+"3",
+"2",
+"1"
+],
+"correcta": 0,
+"porque": "Triple significa tres pares compartidos."
+},
+{
+"pregunta": "¿Qué enlace tiene $\\ce{O2}$, que es $\\ce{O=O}$?",
+"opciones": [
+"Doble",
+"Triple",
+"Simple"
+],
+"correcta": 0,
+"porque": "Hay dos líneas, o sea dos pares compartidos."
+},
+{
+"pregunta": "¿Cuál tiene enlaces covalentes?",
+"opciones": [
+"La sal de mesa",
+"El cobre",
+"El agua"
+],
+"correcta": 2,
+"porque": "El agua une no metales: hidrógeno y oxígeno."
+}
+],
+"enlace-ionico-secundaria": [
+{
+"pregunta": "¿Qué hace el sodio en el NaCl?",
+"opciones": [
+"Pierde un electrón",
+"Comparte un electrón",
+"Gana un electrón"
+],
+"correcta": 0,
+"porque": "Los metales pierden electrones y quedan positivos."
+},
+{
+"pregunta": "¿Entre qué se forma un enlace iónico?",
+"opciones": [
+"Dos no metales",
+"Dos metales",
+"Un metal y un no metal"
+],
+"correcta": 2,
+"porque": "Uno da electrones y el otro los recibe."
+},
+{
+"pregunta": "¿Cómo se llama un átomo con carga positiva?",
+"opciones": [
+"Catión",
+"Anión",
+"Neutrón"
+],
+"correcta": 0,
+"porque": "El catión es el que perdió electrones."
+},
+{
+"pregunta": "Si el calcio pierde 2 electrones, ¿qué carga queda?",
+"opciones": [
+"$-2$",
+"$+1$",
+"$+2$"
+],
+"correcta": 2,
+"porque": "Al perder dos cargas negativas queda con carga positiva 2."
+},
+{
+"pregunta": "¿El agua con sal conduce electricidad?",
+"opciones": [
+"Sí, porque sus iones se mueven libres",
+"No, porque la sal es azúcar",
+"No, porque no hay cargas"
+],
+"correcta": 0,
+"porque": "Los iones sueltos llevan la corriente."
+}
+],
+"enlace-metalico-secundaria": [
+{
+"pregunta": "¿Qué forman los electrones en un metal?",
+"opciones": [
+"Una pared",
+"Un mar de electrones",
+"Un gas noble"
+],
+"correcta": 1,
+"porque": "Los electrones se mueven libres entre los átomos."
+},
+{
+"pregunta": "¿Por qué los cables son de cobre?",
+"opciones": [
+"Es un plástico que no conduce",
+"Se rompe muy fácil y no brilla",
+"Conduce bien la electricidad"
+],
+"correcta": 2,
+"porque": "El cobre es un metal y sus electrones libres llevan la corriente."
+},
+{
+"pregunta": "¿Qué es una aleación?",
+"opciones": [
+"Una mezcla de metales",
+"Un gas",
+"Un metal puro"
+],
+"correcta": 0,
+"porque": "El bronce es cobre con estaño, por ejemplo."
+},
+{
+"pregunta": "¿Qué significa dúctil?",
+"opciones": [
+"Que flota",
+"Que se puede estirar en hilos",
+"Que se rompe fácil"
+],
+"correcta": 1,
+"porque": "Con los metales dúctiles se hacen alambres."
+},
+{
+"pregunta": "Doblas un alambre y no se rompe. ¿Por qué?",
+"opciones": [
+"Sus átomos se deslizan entre electrones libres",
+"Es de plástico y por eso se dobla sin romperse",
+"Está vacío por dentro y por eso es muy blando"
+],
+"correcta": 0,
+"porque": "Los átomos del metal se deslizan en el mar de electrones sin separarse."
+}
+],
+"escala-de-ph-secundaria": [
+{
+"pregunta": "Una sustancia tiene pH 4. ¿Qué es?",
+"opciones": [
+"Una base",
+"Neutra",
+"Un ácido"
+],
+"correcta": 2,
+"porque": "Menos de 7 es ácido."
+},
+{
+"pregunta": "¿Qué pH tiene el agua pura?",
+"opciones": [
+"0",
+"7",
+"14"
+],
+"correcta": 1,
+"porque": "En el centro de la escala está lo neutro."
+},
+{
+"pregunta": "El jabón tiene pH 10. ¿Qué es?",
+"opciones": [
+"Ácido",
+"Neutro",
+"Básico"
+],
+"correcta": 2,
+"porque": "Más de 7 es básico."
+},
+{
+"pregunta": "¿Cuántas veces más ácido es pH 3 que pH 4?",
+"opciones": [
+"10 veces",
+"1 vez",
+"2 veces"
+],
+"correcta": 0,
+"porque": "Cada unidad de pH cambia diez veces."
+},
+{
+"pregunta": "¿Entre qué números va la escala de pH?",
+"opciones": [
+"1 y 100",
+"0 y 14",
+"7 y 21"
+],
+"correcta": 1,
+"porque": "La escala va de 0 a 14."
+}
+],
+"filtracion-decantacion-y-evaporacion-secundaria": [
+{
+"pregunta": "¿Qué método separa arena y agua?",
+"opciones": [
+"Filtración",
+"Evaporación",
+"Decantación"
+],
+"correcta": 0,
+"porque": "Un filtro retiene la arena y deja pasar el agua."
+},
+{
+"pregunta": "¿Qué método separa agua y aceite?",
+"opciones": [
+"Evaporación",
+"Decantación",
+"Filtración"
+],
+"correcta": 1,
+"porque": "El aceite flota y se saca con un embudo de separación."
+},
+{
+"pregunta": "¿Qué método recupera la sal del agua?",
+"opciones": [
+"Decantación",
+"Filtración",
+"Evaporación"
+],
+"correcta": 2,
+"porque": "El agua se va como vapor y la sal se queda."
+},
+{
+"pregunta": "Quieres separar café molido del agua con filtro. ¿Qué método es?",
+"opciones": [
+"Destilación",
+"Evaporación",
+"Filtración"
+],
+"correcta": 2,
+"porque": "El filtro de café atrapa el sólido."
+},
+{
+"pregunta": "Estos métodos, ¿cambian las sustancias?",
+"opciones": [
+"No, son métodos físicos",
+"Sí, forman otras",
+"Sí, las queman"
+],
+"correcta": 0,
+"porque": "Solo separan, y cada sustancia sigue siendo la misma."
+}
+]
+}

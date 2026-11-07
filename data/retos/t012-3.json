@@ -1,0 +1,574 @@
+{
+"organizacion-comunitaria-colaboracion-primaria": [
+{
+"pregunta": "¿Qué es organizarse en comunidad?",
+"opciones": [
+"Esperar a que otros lo arreglen todo",
+"Hacer cada quien lo que quiera sin avisar",
+"Trabajar juntos para resolver algo"
+],
+"correcta": 2,
+"porque": "Organizarse es trabajar juntos para resolver algo."
+},
+{
+"pregunta": "Los vecinos limpian un parque un sábado. ¿Qué muestra esto?",
+"opciones": [
+"Que solo una persona trabaja",
+"Que el parque no es de nadie",
+"Colaboración, trabajar juntos"
+],
+"correcta": 2,
+"porque": "Limpiar juntos para resolver algo es colaboración."
+},
+{
+"pregunta": "¿Qué es la reciprocidad?",
+"opciones": [
+"Guardar para ti todo lo que te regalan",
+"Pedir ayuda y nunca ayudar a nadie después",
+"Devolver la ayuda que recibes"
+],
+"correcta": 2,
+"porque": "La reciprocidad es devolver la ayuda que has recibido."
+},
+{
+"pregunta": "Tu grupo quiere limpiar el salón. ¿Qué hacen para organizarse?",
+"opciones": [
+"Esperar a que llegue el conserje y lo haga",
+"Que una sola persona limpie todo el salón",
+"Repartir tareas entre todos"
+],
+"correcta": 2,
+"porque": "Repartir tareas ayuda a que todos colaboren."
+},
+{
+"pregunta": "Si tu vecino te ayudó con la mochila, ¿cómo puedes devolverle la ayuda?",
+"opciones": [
+"Ayudándolo cuando él lo necesite",
+"Dejando de hablarle para siempre",
+"Pidiéndole más cosas sin dar nada a cambio"
+],
+"correcta": 0,
+"porque": "Devolver la ayuda cuando se necesita es reciprocidad."
+}
+],
+"prevencion-fenomenos-naturales-primaria": [
+{
+"pregunta": "¿Para qué sirve prepararte ante un sismo?",
+"opciones": [
+"Para dejar de ir a la escuela",
+"Para que el sismo ya no ocurra",
+"Para reducir el daño"
+],
+"correcta": 2,
+"porque": "Estar preparado reduce el daño ante sismos o huracanes."
+},
+{
+"pregunta": "¿Qué debe llevar una mochila de emergencia?",
+"opciones": [
+"Solo juguetes y dulces",
+"Un balón y una bicicleta grande",
+"Agua, linterna y botiquín"
+],
+"correcta": 2,
+"porque": "Una mochila de emergencia ayuda a cuidarte en un peligro."
+},
+{
+"pregunta": "En un simulacro en tu escuela, ¿cómo sales?",
+"opciones": [
+"Regresando por tus cosas al salón",
+"Con calma y siguiendo indicaciones",
+"Corriendo y empujando para salir primero"
+],
+"correcta": 1,
+"porque": "Sigue las indicaciones y mantén la calma para cuidarte."
+},
+{
+"pregunta": "¿Qué es la autoprotección?",
+"opciones": [
+"Esperar a que alguien más resuelva el peligro",
+"Salir a ver el peligro de cerca para entender",
+"Practicar cómo cuidarte a ti y a otros"
+],
+"correcta": 2,
+"porque": "La autoprotección es practicar cómo cuidarte ante un peligro."
+},
+{
+"pregunta": "¿Por qué es bueno conocer las salidas de tu escuela?",
+"opciones": [
+"Para salir rápido si hay peligro",
+"Para no entrar nunca al salón de clases",
+"Para jugar escondidas durante la clase"
+],
+"correcta": 0,
+"porque": "Conocer las salidas ayuda a evacuar con seguridad."
+}
+],
+"proteccion-integridad-derecho-primaria": [
+{
+"pregunta": "¿Qué protege tu derecho a la integridad?",
+"opciones": [
+"Tu cuerpo y tus sentimientos",
+"Solo tu tarea del día de hoy",
+"Solo tus juguetes y tus útiles"
+],
+"correcta": 0,
+"porque": "Tienes derecho a que cuiden tu cuerpo y tus sentimientos."
+},
+{
+"pregunta": "Alguien te hace sentir incómodo y te dice que es un secreto. ¿Qué haces?",
+"opciones": [
+"Hago lo que me pide para que me deje en paz",
+"Lo guardo para que no se enoje conmigo",
+"Se lo cuento a un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Un secreto que te da miedo debe contarse a un adulto de confianza."
+},
+{
+"pregunta": "¿A cuál número puedes llamar en una emergencia en México?",
+"opciones": [
+"Al número de tu mejor amigo del salón",
+"Al 911, el de emergencias de México",
+"Al 123456789 que usan en la tele"
+],
+"correcta": 1,
+"porque": "El 911 es el número para pedir ayuda en una emergencia."
+},
+{
+"pregunta": "Un compañero te empuja y se burla cada día. ¿Qué es lo mejor?",
+"opciones": [
+"Empujarlo más fuerte para que aprenda",
+"Quedarte callado para no causar problemas",
+"Contarlo a un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Nadie debe lastimarte, y si pasa debes contarlo."
+},
+{
+"pregunta": "Si algo te incomoda, ¿qué puedes hacer?",
+"opciones": [
+"Fingir que no pasó para que no se note",
+"Decir no, alejarte y avisar",
+"Quedarte quieto y no decir nada a nadie"
+],
+"correcta": 1,
+"porque": "Puedes decir no, alejarte y contar a un adulto de confianza."
+}
+],
+"pueblos-mesoamericanos-panorama-primaria": [
+{
+"pregunta": "¿Qué fue Mesoamérica?",
+"opciones": [
+"Una región cultural anterior a los españoles",
+"Un país con presidente actual",
+"Un barco que llegó de España"
+],
+"correcta": 0,
+"porque": "Mesoamérica fue una región cultural de México y Centroamérica antes de los españoles."
+},
+{
+"pregunta": "¿Cuál de estos cultivos era básico en Mesoamérica?",
+"opciones": [
+"El maíz, junto con frijol y calabaza",
+"El trigo que trajeron los españoles",
+"El arroz de Asia que llegó después"
+],
+"correcta": 0,
+"porque": "El maíz era la base de la comida en Mesoamérica."
+},
+{
+"pregunta": "¿Qué cultura pertenece al Preclásico?",
+"opciones": [
+"Los toltecas, que vivieron en Tula",
+"Los olmecas",
+"Los mexicas"
+],
+"correcta": 1,
+"porque": "Los olmecas son del periodo Preclásico."
+},
+{
+"pregunta": "¿A qué periodo pertenecen los mexicas?",
+"opciones": [
+"Clásico, el de Teotihuacán y mayas",
+"Preclásico, el de los olmecas antiguos",
+"Posclásico, junto a toltecas y mixtecos"
+],
+"correcta": 2,
+"porque": "Los mexicas son del Posclásico, el último periodo antes de los españoles."
+},
+{
+"pregunta": "Haces una línea del tiempo con tres pueblos. ¿Cuál orden es correcto?",
+"opciones": [
+"Mexicas, mayas y olmecas",
+"Mayas, mexicas y olmecas",
+"Olmecas, mayas y mexicas"
+],
+"correcta": 2,
+"porque": "Primero van los olmecas, luego los mayas y al final los mexicas."
+}
+],
+"puntos-cardinales-primaria": [
+{
+"pregunta": "¿Por dónde sale el Sol?",
+"opciones": [
+"Por el oeste",
+"Por el este",
+"Por el norte, donde está la brújula"
+],
+"correcta": 1,
+"porque": "El Sol sale por el este y se oculta por el oeste."
+},
+{
+"pregunta": "Pones tu brazo derecho hacia el este. ¿Qué tienes enfrente?",
+"opciones": [
+"El sur",
+"El norte",
+"El oeste"
+],
+"correcta": 1,
+"porque": "Con el brazo derecho al este, frente a ti queda el norte."
+},
+{
+"pregunta": "Tu brazo derecho apunta al este. ¿Qué queda frente a ti?",
+"opciones": [
+"El oeste, justo a tu espalda",
+"El sur",
+"El norte"
+],
+"correcta": 2,
+"porque": "Con el brazo derecho al este, el norte queda al frente."
+},
+{
+"pregunta": "¿Qué punto queda entre el sur y el oeste?",
+"opciones": [
+"Sureste, que queda hacia el sol de la mañana",
+"Noreste",
+"Suroeste"
+],
+"correcta": 2,
+"porque": "Entre el sur y el oeste está el suroeste."
+},
+{
+"pregunta": "Desde tu salón ves el Sol ocultarse por la ventana. ¿Hacia dónde mira la ventana?",
+"opciones": [
+"Hacia el oeste",
+"Hacia el norte, donde apunta la brújula",
+"Hacia el este"
+],
+"correcta": 0,
+"porque": "El Sol se oculta por el oeste."
+}
+],
+"regiones-de-mexico-primaria": [
+{
+"pregunta": "¿Qué es una región?",
+"opciones": [
+"Una parte del país con características parecidas",
+"Un país que está muy lejos de México",
+"Una sola casa de una colonia"
+],
+"correcta": 0,
+"porque": "Una región es una parte del país con clima, relieve o economía parecidos."
+},
+{
+"pregunta": "¿Qué región tiene desiertos y minería?",
+"opciones": [
+"El centro, con más personas",
+"El sur, donde hay selvas",
+"El norte, donde hay desiertos"
+],
+"correcta": 2,
+"porque": "El norte tiene desiertos, minería e industria."
+},
+{
+"pregunta": "¿En qué región se encuentra la mayor población?",
+"opciones": [
+"En el norte, donde hay desiertos",
+"En el centro, donde está el gobierno",
+"En el sur, donde hay selvas y ríos"
+],
+"correcta": 1,
+"porque": "El centro tiene la mayor población y el gobierno."
+},
+{
+"pregunta": "Visitas el Caribe para ir a la playa. ¿A qué región vas?",
+"opciones": [
+"Sureste y península",
+"Occidente, donde hay mucha agricultura",
+"Norte"
+],
+"correcta": 0,
+"porque": "El sureste y la península tienen turismo y mayas."
+},
+{
+"pregunta": "¿Qué actividad destaca en la región del Golfo?",
+"opciones": [
+"Desiertos y mucha plata",
+"Turismo de nieve y montañas",
+"Petróleo y ganadería"
+],
+"correcta": 2,
+"porque": "En el Golfo destacan el petróleo y la ganadería."
+}
+],
+"representaciones-cartograficas-comunidad-ecosistemas-primaria": [
+{
+"pregunta": "¿Qué son los símbolos de un mapa?",
+"opciones": [
+"Dibujos chicos que representan lugares",
+"Colores que solo sirven de adorno",
+"Letras grandes que dicen la hora"
+],
+"correcta": 0,
+"porque": "Los símbolos son dibujos chicos que representan una escuela o un río."
+},
+{
+"pregunta": "¿Para qué sirve el título de un mapa?",
+"opciones": [
+"Para adornar las orillas del papel",
+"Para saber de qué trata",
+"Para que los símbolos no se vean"
+],
+"correcta": 1,
+"porque": "El título dice de qué trata el mapa."
+},
+{
+"pregunta": "Quieres dibujar tu escuela y un río en un mapa. ¿Qué usas?",
+"opciones": [
+"Símbolos, dibujos chicos",
+"Solo una lista de números largos",
+"Una foto de tu cara y tus útiles"
+],
+"correcta": 0,
+"porque": "Los símbolos son dibujos chicos que representan escuelas o ríos."
+},
+{
+"pregunta": "¿Cuál orden va de lo más pequeño a lo más grande?",
+"opciones": [
+"País, entidad y localidad",
+"Localidad, entidad y país",
+"Entidad, país y localidad"
+],
+"correcta": 1,
+"porque": "Una localidad está dentro de una entidad y la entidad dentro del país."
+},
+{
+"pregunta": "Quieres cuidar un río cercano. ¿Qué haces?",
+"opciones": [
+"Usas toda el agua que puedas sin pensar",
+"Tiras tu basura para que se la lleve la corriente",
+"No tiras basura y ahorras agua"
+],
+"correcta": 2,
+"porque": "Para cuidar un río no se tira basura y se ahorra agua."
+}
+],
+"simbolos-identidad-pertenencia-primaria": [
+{
+"pregunta": "¿Cuáles son los símbolos patrios de México?",
+"opciones": [
+"La bandera, el escudo y el himno",
+"El balón, el trompo y la piñata",
+"El sombrero, el mapa y los colores de la escuela"
+],
+"correcta": 0,
+"porque": "Los símbolos patrios son la bandera, el escudo y el himno."
+},
+{
+"pregunta": "¿Qué aparece en el escudo nacional?",
+"opciones": [
+"Un águila sobre un nopal",
+"Un jaguar sobre una pirámide muy alta",
+"Un caballo con una serpiente de plata"
+],
+"correcta": 0,
+"porque": "El escudo tiene un águila sobre un nopal, con una serpiente."
+},
+{
+"pregunta": "¿Qué da un símbolo a un grupo?",
+"opciones": [
+"Ganas de pelear con otros grupos",
+"Identidad y pertenencia",
+"Más tarea para la casa"
+],
+"correcta": 1,
+"porque": "Los símbolos dan identidad y unen a quienes los comparten."
+},
+{
+"pregunta": "Tu salón tiene una mascota dibujada en su cartel. ¿Para qué sirve?",
+"opciones": [
+"Para esconderla y que nadie la vea",
+"Para sentir que pertenecemos al grupo",
+"Para que los demás grupos no puedan entrar"
+],
+"correcta": 1,
+"porque": "Un símbolo ayuda a sentir identidad y pertenencia."
+},
+{
+"pregunta": "¿Qué hacen los símbolos patrios?",
+"opciones": [
+"Representan solo a una familia del país",
+"Marcan el precio de las cosas en las tiendas",
+"Representan a México"
+],
+"correcta": 2,
+"porque": "Los símbolos patrios representan a México."
+}
+],
+"sociedad-de-castas-primaria": [
+{
+"pregunta": "¿Qué fue la sociedad de castas?",
+"opciones": [
+"Un juego del tiempo de los mexicas",
+"Una escuela donde todos aprendían igual",
+"Un orden social que dividía por origen"
+],
+"correcta": 2,
+"porque": "Dividía a las personas por su origen."
+},
+{
+"pregunta": "¿Quiénes eran los peninsulares?",
+"opciones": [
+"Hijos de españoles nacidos en América",
+"Hijos de español y de indígena",
+"Nacidos en España"
+],
+"correcta": 2,
+"porque": "Los peninsulares nacieron en España y tenían altos cargos."
+},
+{
+"pregunta": "¿Quiénes eran los criollos?",
+"opciones": [
+"Hijos de españoles nacidos en América",
+"Personas nacidas en España que llegaban en barco",
+"Personas traídas de África como esclavizadas"
+],
+"correcta": 0,
+"porque": "Los criollos eran hijos de españoles nacidos en América."
+},
+{
+"pregunta": "¿Quiénes eran los mestizos?",
+"opciones": [
+"Personas que mandaban en la Audiencia",
+"Hijos de dos personas nacidas en España",
+"Hijos de español e indígena"
+],
+"correcta": 2,
+"porque": "Mestizos son los hijos de español e indígena."
+},
+{
+"pregunta": "Una niña dice que tratar distinto por su origen era injusto. ¿Por qué tiene razón?",
+"opciones": [
+"Todas las personas merecen el mismo trato",
+"Porque cada quien debía quedarse con su casta",
+"Porque los de arriba sabían más que los demás"
+],
+"correcta": 0,
+"porque": "Esa desigualdad causó tensiones porque no era justa."
+}
+],
+"sor-juana-ines-de-la-cruz-primaria": [
+{
+"pregunta": "¿Quién fue Sor Juana Inés de la Cruz?",
+"opciones": [
+"Una monja y escritora novohispana",
+"Una virreina de la Nueva España",
+"Una capitana del ejército de Cortés"
+],
+"correcta": 0,
+"porque": "Sor Juana fue una monja y escritora de la Nueva España."
+},
+{
+"pregunta": "¿Qué derecho defendió Sor Juana?",
+"opciones": [
+"El de gobernar la Nueva España",
+"El de cobrar tributo a los pueblos",
+"El de las mujeres a saber"
+],
+"correcta": 2,
+"porque": "Sor Juana defendió el derecho de las mujeres a saber."
+},
+{
+"pregunta": "¿Por qué entró al convento?",
+"opciones": [
+"Para ganar mucho dinero con la plata",
+"Para huir de la ciudad por un sismo",
+"Para seguir leyendo y estudiando"
+],
+"correcta": 2,
+"porque": "Entró al convento para poder seguir leyendo."
+},
+{
+"pregunta": "¿Cuál es una obra de Sor Juana?",
+"opciones": [
+"El Diario de Cortés",
+"Primero sueño",
+"La Ley de los virreyes"
+],
+"correcta": 1,
+"porque": "Primero sueño es un poema de Sor Juana."
+},
+{
+"pregunta": "Vas a leer un verso de Sor Juana. ¿Qué lees?",
+"opciones": [
+"Un mapa del norte de México",
+"Una receta de cocina",
+"Un poema escrito por ella"
+],
+"correcta": 2,
+"porque": "Sor Juana escribió poemas y sus versos son parte de ellos."
+}
+],
+"teotihuacan-primaria": [
+{
+"pregunta": "¿Qué significa Teotihuacán?",
+"opciones": [
+"Casa del rey de los mexicas",
+"Lugar donde se hacen los dioses",
+"Ciudad de la plata y del oro"
+],
+"correcta": 1,
+"porque": "Su nombre significa lugar donde se hacen los dioses."
+},
+{
+"pregunta": "¿Cuál es una pirámide de Teotihuacán?",
+"opciones": [
+"La de Monte Albán, en Oaxaca",
+"La del Sol, en Teotihuacán",
+"La de Tula, con sus atlantes"
+],
+"correcta": 1,
+"porque": "Teotihuacán tiene las pirámides del Sol y de la Luna."
+},
+{
+"pregunta": "¿Cómo se llama su avenida principal?",
+"opciones": [
+"Calzada de los Muertos",
+"Camino de la Plata Antigua",
+"Calle de los Reyes Mexicas"
+],
+"correcta": 0,
+"porque": "La Calzada de los Muertos es su avenida principal."
+},
+{
+"pregunta": "¿Qué se ve en las paredes de Teotihuacán?",
+"opciones": [
+"Pinturas murales",
+"Letreros de la escuela",
+"Anuncios de tiendas"
+],
+"correcta": 0,
+"porque": "Teotihuacán tiene pinturas murales."
+},
+{
+"pregunta": "Ubicas Teotihuacán en un mapa. ¿En qué parte de México está?",
+"opciones": [
+"En el centro, lejos del mar",
+"En la península del sureste",
+"En el desierto del norte"
+],
+"correcta": 0,
+"porque": "Teotihuacán fue una gran ciudad del centro de México."
+}
+]
+}

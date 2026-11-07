@@ -1,0 +1,522 @@
+{
+"convertir-unidades-secundaria": [
+{
+"pregunta": "Convierte 7 km a metros.",
+"opciones": [
+"7000 m",
+"700 m",
+"70 000 m"
+],
+"correcta": 0,
+"porque": "1 km son 1000 m, así que $7 \\times 1000 = 7000$."
+},
+{
+"pregunta": "Convierte 5 min a segundos.",
+"opciones": [
+"65 s",
+"500 s",
+"300 s"
+],
+"correcta": 2,
+"porque": "1 min son 60 s, y $5 \\times 60 = 300$."
+},
+{
+"pregunta": "Convierte 108 km/h a m/s.",
+"opciones": [
+"3 m/s",
+"388.8 m/s",
+"30 m/s"
+],
+"correcta": 2,
+"porque": "De km/h a m/s se divide entre 3.6: $108 \\div 3.6 = 30$."
+},
+{
+"pregunta": "Convierte 450 cm a metros.",
+"opciones": [
+"4500 m",
+"4.5 m",
+"45 m"
+],
+"correcta": 1,
+"porque": "100 cm son 1 m, así que $450 \\div 100 = 4.5$."
+},
+{
+"pregunta": "Tu clase de deporte dura 2 horas. ¿Cuántos segundos son?",
+"opciones": [
+"3600 s",
+"120 s",
+"7200 s"
+],
+"correcta": 2,
+"porque": "1 h son 3600 s, y $2 \\times 3600 = 7200$."
+}
+],
+"corriente-voltaje-y-resistencia-secundaria": [
+{
+"pregunta": "¿En qué unidad se mide el voltaje?",
+"opciones": [
+"Volts",
+"Ohms",
+"Amperes"
+],
+"correcta": 0,
+"porque": "El voltaje se mide en volts."
+},
+{
+"pregunta": "Pasan 30 C en 5 s por un cable. ¿Cuál es la corriente?",
+"opciones": [
+"150 A",
+"6 A",
+"35 A"
+],
+"correcta": 1,
+"porque": "La corriente es carga entre tiempo: $\\frac{30}{5} = 6$."
+},
+{
+"pregunta": "En la manguera de agua, ¿a qué se parece la resistencia?",
+"opciones": [
+"A lo angosto de la manguera",
+"A la presión del agua",
+"Al agua que pasa"
+],
+"correcta": 0,
+"porque": "La resistencia estorba el paso, como una manguera angosta."
+},
+{
+"pregunta": "¿Cuál de estos materiales es un aislante?",
+"opciones": [
+"El aluminio",
+"El cobre",
+"El hule"
+],
+"correcta": 2,
+"porque": "Los aislantes no dejan pasar la corriente, como el hule."
+},
+{
+"pregunta": "Los cables de tu casa van forrados de plástico. ¿Por qué?",
+"opciones": [
+"Porque el plástico empuja las cargas",
+"Porque el plástico produce voltaje",
+"Porque el plástico aísla y no deja pasar la corriente"
+],
+"correcta": 2,
+"porque": "El forro evita que la corriente llegue a ti."
+}
+],
+"densidad-secundaria": [
+{
+"pregunta": "Un objeto de 80 g ocupa 20 cm³. ¿Cuál es su densidad?",
+"opciones": [
+"60 g/cm³",
+"0.25 g/cm³",
+"4 g/cm³"
+],
+"correcta": 2,
+"porque": "Densidad es masa entre volumen: $\\frac{80}{20} = 4$."
+},
+{
+"pregunta": "¿Cuál es la densidad del agua?",
+"opciones": [
+"1 g/cm³",
+"10 g/cm³",
+"0.1 g/cm³"
+],
+"correcta": 0,
+"porque": "El agua tiene densidad 1 g/cm³."
+},
+{
+"pregunta": "¿Qué masa tienen 10 cm³ de aluminio, que tiene densidad 2.7 g/cm³?",
+"opciones": [
+"27 g",
+"2.7 g",
+"12.7 g"
+],
+"correcta": 0,
+"porque": "Masa es densidad por volumen: $2.7 \\times 10 = 27$."
+},
+{
+"pregunta": "Un bloque de hierro de 158 g tiene densidad 7.9 g/cm³. ¿Qué volumen ocupa?",
+"opciones": [
+"1248 cm³",
+"150 cm³",
+"20 cm³"
+],
+"correcta": 2,
+"porque": "Volumen es masa entre densidad: $\\frac{158}{7.9} = 20$."
+},
+{
+"pregunta": "Pones aceite en un vaso con agua. ¿Qué queda arriba?",
+"opciones": [
+"Se mezclan siempre",
+"El agua",
+"El aceite"
+],
+"correcta": 2,
+"porque": "El aceite es menos denso y flota sobre el agua."
+}
+],
+"electricidad-magnetismo-interacciones-fisica-secundaria": [
+{
+"pregunta": "Acercas el polo norte de un imán al polo sur de otro. ¿Qué pasa?",
+"opciones": [
+"No pasa nada",
+"Se repelen",
+"Se atraen"
+],
+"correcta": 2,
+"porque": "Los polos distintos se atraen."
+},
+{
+"pregunta": "¿Qué es el campo magnético?",
+"opciones": [
+"El polo norte de un imán",
+"La zona donde actúa la fuerza del imán",
+"El cable de un electroimán"
+],
+"correcta": 1,
+"porque": "Es la zona de fuerza que rodea al imán."
+},
+{
+"pregunta": "¿Qué crea una corriente eléctrica que pasa por un alambre?",
+"opciones": [
+"Magnetismo",
+"Sonido",
+"Frío"
+],
+"correcta": 0,
+"porque": "Una corriente crea magnetismo, como en un electroimán."
+},
+{
+"pregunta": "Mueves un imán junto a un alambre enrollado. ¿Qué se produce en el alambre?",
+"opciones": [
+"Un nuevo imán",
+"Nada, siempre",
+"Corriente eléctrica"
+],
+"correcta": 2,
+"porque": "Un imán en movimiento crea corriente, como en un generador."
+},
+{
+"pregunta": "Un globo frotado jala tu cabello sin tocarlo. ¿Qué interacción es?",
+"opciones": [
+"Térmica",
+"Eléctrica",
+"De sonido"
+],
+"correcta": 1,
+"porque": "Las cargas del globo atraen el cabello."
+}
+],
+"energia-cinetica-secundaria": [
+{
+"pregunta": "Calcula la $E_c$ de 6 kg a 2 m/s.",
+"opciones": [
+"12 J",
+"24 J",
+"36 J"
+],
+"correcta": 0,
+"porque": "$E_c = \\frac{1}{2} \\times 6 \\times 4 = 12$ J."
+},
+{
+"pregunta": "Un niño de 40 kg va en bici a 5 m/s. ¿Cuál es su $E_c$?",
+"opciones": [
+"500 J",
+"1000 J",
+"200 J"
+],
+"correcta": 0,
+"porque": "$\\frac{1}{2} \\times 40 \\times 25 = 500$ J."
+},
+{
+"pregunta": "Un coche duplica su velocidad. ¿Cuántas veces aumenta su $E_c$?",
+"opciones": [
+"4 veces",
+"8 veces",
+"2 veces"
+],
+"correcta": 0,
+"porque": "La velocidad va al cuadrado: $2 \\times 2 = 4$."
+},
+{
+"pregunta": "¿De qué dos cosas depende la energía cinética?",
+"opciones": [
+"De la masa y de la velocidad",
+"De la altura y del color",
+"Del tiempo y de la temperatura"
+],
+"correcta": 0,
+"porque": "Aparecen $m$ y $v$ en la fórmula."
+},
+{
+"pregunta": "Un choque rápido es más grave que uno lento. ¿Por qué?",
+"opciones": [
+"La energía baja al ir más rápido",
+"La energía crece mucho más que la velocidad",
+"La velocidad no cambia la energía"
+],
+"correcta": 1,
+"porque": "Al doble de velocidad hay 4 veces la energía."
+}
+],
+"energia-potencial-secundaria": [
+{
+"pregunta": "Calcula la $E_p$ de 3 kg a 5 m de altura.",
+"opciones": [
+"147 J",
+"14.7 J",
+"15 J"
+],
+"correcta": 0,
+"porque": "$3 \\times 9.8 \\times 5 = 147$ J."
+},
+{
+"pregunta": "Dos cajas están a la misma altura, pero una pesa el doble. ¿Cuál guarda más energía?",
+"opciones": [
+"La más pesada",
+"La más ligera",
+"Guardan igual"
+],
+"correcta": 0,
+"porque": "A más masa, más energía guardada."
+},
+{
+"pregunta": "Calcula la $E_p$ de 2 kg a 3 m de altura.",
+"opciones": [
+"6 J",
+"58.8 J",
+"19.6 J"
+],
+"correcta": 1,
+"porque": "$2 \\times 9.8 \\times 3 = 58.8$ J."
+},
+{
+"pregunta": "Una liga estirada guarda energía. ¿Cómo se llama esa energía potencial?",
+"opciones": [
+"Elástica",
+"De altura",
+"Cinética"
+],
+"correcta": 0,
+"porque": "La liga estirada guarda energía elástica."
+},
+{
+"pregunta": "Tu mochila puede estar sobre una mesa alta o sobre una silla baja. ¿Dónde guarda más energía?",
+"opciones": [
+"Sobre la mesa alta",
+"Sobre la silla baja",
+"Guarda igual en ambas"
+],
+"correcta": 0,
+"porque": "Más altura da más energía guardada."
+}
+],
+"estados-agregacion-materia-fisica-secundaria": [
+{
+"pregunta": "¿Qué estado toma la forma del vaso, pero no llena todo el espacio?",
+"opciones": [
+"El líquido",
+"El gas",
+"El sólido"
+],
+"correcta": 0,
+"porque": "Un líquido toma la forma del recipiente."
+},
+{
+"pregunta": "¿Cómo se llama el paso de líquido a gas?",
+"opciones": [
+"Condensación",
+"Evaporación",
+"Solidificación"
+],
+"correcta": 1,
+"porque": "La evaporación es cuando un líquido se vuelve gas."
+},
+{
+"pregunta": "¿A qué temperatura hierve el agua al nivel del mar?",
+"opciones": [
+"50 °C",
+"0 °C",
+"100 °C"
+],
+"correcta": 2,
+"porque": "El agua hierve a 100 °C al nivel del mar."
+},
+{
+"pregunta": "¿Dónde hay plasma, un gas muy caliente?",
+"opciones": [
+"En un cubo de hielo grande",
+"En un vaso de agua fría",
+"En el Sol o en una estrella"
+],
+"correcta": 2,
+"porque": "El plasma es gas muy caliente, como el del Sol."
+},
+{
+"pregunta": "Pones agua en el congelador y se vuelve hielo. ¿Qué cambio ocurre?",
+"opciones": [
+"Fusión",
+"Solidificación",
+"Evaporación"
+],
+"correcta": 1,
+"porque": "En la solidificación un líquido pasa a sólido."
+}
+],
+"estructura-propiedades-materia-fisica-secundaria": [
+{
+"pregunta": "¿De qué están hechos todos los cuerpos?",
+"opciones": [
+"De sombras",
+"De átomos",
+"De burbujas"
+],
+"correcta": 1,
+"porque": "La materia está hecha de átomos, partículas muy pequeñas."
+},
+{
+"pregunta": "Un objeto tiene 90 g y ocupa 30 cm³. ¿Cuál es su densidad?",
+"opciones": [
+"3 g/cm³",
+"0.33 g/cm³",
+"2700 g/cm³"
+],
+"correcta": 0,
+"porque": "Densidad es masa entre volumen: $\\frac{90}{30} = 3$."
+},
+{
+"pregunta": "Un objeto tiene densidad de 4 g/cm³ y ocupa 5 cm³. ¿Cuál es su masa?",
+"opciones": [
+"20 g",
+"0.8 g",
+"9 g"
+],
+"correcta": 0,
+"porque": "Masa es densidad por volumen: $4 \\times 5 = 20$."
+},
+{
+"pregunta": "¿Qué es la materia?",
+"opciones": [
+"Solo lo que se puede ver",
+"Solo lo que se puede tocar",
+"Todo lo que tiene masa y ocupa un lugar"
+],
+"correcta": 2,
+"porque": "Materia es todo lo que tiene masa y ocupa un lugar."
+},
+{
+"pregunta": "Un cubo de madera y uno de metal tienen el mismo tamaño. ¿Qué propiedad ayuda a distinguir el material?",
+"opciones": [
+"La densidad",
+"El volumen",
+"La forma de cubo"
+],
+"correcta": 0,
+"porque": "La densidad ayuda a reconocer una sustancia."
+}
+],
+"fisica-secundaria-segundo-grado-panorama": [
+{
+"pregunta": "¿Qué pasos sigue siempre la física?",
+"opciones": [
+"Observar, medir y explicar",
+"Copiar, pegar y borrar",
+"Dormir, soñar y olvidar"
+],
+"correcta": 0,
+"porque": "La física observa, mide y explica."
+},
+{
+"pregunta": "¿Qué tema explica por qué prende un foco?",
+"opciones": [
+"Fluidos",
+"Electricidad",
+"Medición"
+],
+"correcta": 1,
+"porque": "Un foco prende cuando pasa corriente eléctrica."
+},
+{
+"pregunta": "¿Qué tema explica por qué cambia el clima?",
+"opciones": [
+"Las máquinas simples",
+"Las unidades de medida",
+"El cambio climático"
+],
+"correcta": 2,
+"porque": "El clima cambia por procesos de la atmósfera y sus gases."
+},
+{
+"pregunta": "¿Qué hace la física?",
+"opciones": [
+"Explica cómo funciona el mundo",
+"Solo estudia estrellas",
+"Solo hace cuentas"
+],
+"correcta": 0,
+"porque": "La física explica por qué caen las cosas y por qué prende un foco."
+},
+{
+"pregunta": "Quieres escribir una pregunta de física sobre tu casa. ¿Cuál sirve?",
+"opciones": [
+"¿Cuál es tu color favorito?",
+"¿Por qué se calienta una olla en la estufa?",
+"¿Qué cenaste ayer?"
+],
+"correcta": 1,
+"porque": "Una buena pregunta de física se puede observar y medir."
+}
+],
+"friccion-secundaria": [
+{
+"pregunta": "Empujas con 20 N y la fricción es de 8 N. ¿Cuál es la fuerza neta?",
+"opciones": [
+"28 N",
+"12 N",
+"160 N"
+],
+"correcta": 1,
+"porque": "La fricción resta: $20 - 8 = 12$."
+},
+{
+"pregunta": "Un libro ya se desliza por la mesa. ¿Qué fricción actúa?",
+"opciones": [
+"La estática",
+"La cinética",
+"Ninguna"
+],
+"correcta": 1,
+"porque": "La cinética actúa mientras algo se desliza."
+},
+{
+"pregunta": "¿Para qué sirve la fricción cuando caminas?",
+"opciones": [
+"Para calentar el piso",
+"Para desgastar tus zapatos",
+"Para no resbalar y poder avanzar"
+],
+"correcta": 2,
+"porque": "La fricción te deja caminar y frenar."
+},
+{
+"pregunta": "Deslizas un libro por una mesa y por una alfombra. ¿Dónde se frena más rápido?",
+"opciones": [
+"En la alfombra",
+"En la mesa lisa",
+"Se frena igual en ambas"
+],
+"correcta": 0,
+"porque": "La fricción depende de las superficies."
+},
+{
+"pregunta": "¿Hacia dónde apunta la fricción?",
+"opciones": [
+"Hacia arriba siempre",
+"A favor del deslizamiento",
+"En contra del deslizamiento"
+],
+"correcta": 2,
+"porque": "La fricción siempre va contra el deslizamiento."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"sociologia-que-estudia-prepa": [
+{
+"pregunta": "Quieres saber cómo se agrupan tus compañeros en el recreo. ¿Qué ciencia lo estudia?",
+"opciones": [
+"La química orgánica",
+"La sociología",
+"La biología marina"
+],
+"correcta": 1,
+"porque": "La sociología estudia la sociedad y cómo se relaciona la gente."
+},
+{
+"pregunta": "¿Cuál de estos es un autor de la sociología?",
+"opciones": [
+"Galileo",
+"Pasteur",
+"Weber"
+],
+"correcta": 2,
+"porque": "Comte, Durkheim, Weber y Marx son autores de sociología."
+},
+{
+"pregunta": "¿Qué usa un sociólogo para conocer opiniones de la gente?",
+"opciones": [
+"Un microscopio de laboratorio",
+"Encuestas y entrevistas",
+"Un telescopio de observatorio"
+],
+"correcta": 1,
+"porque": "Los métodos de la sociología son las encuestas y las entrevistas."
+},
+{
+"pregunta": "¿Cuál es un tema que estudia la sociología?",
+"opciones": [
+"Los eclipses",
+"La fotosíntesis",
+"La migración"
+],
+"correcta": 2,
+"porque": "La sociología estudia familia, clases, migración y educación."
+},
+{
+"pregunta": "¿Qué observa la sociología?",
+"opciones": [
+"Cómo se relacionan las personas",
+"Cómo funcionan los motores",
+"Cómo se forman las nubes"
+],
+"correcta": 0,
+"porque": "La sociología observa a la sociedad y sus relaciones."
+}
+],
+"almacenamiento-y-unidades-de-informacion-prepa": [
+{
+"pregunta": "¿Cuántos KB tiene 1 MB?",
+"opciones": [
+"100 KB",
+"1000 KB",
+"8 KB"
+],
+"correcta": 1,
+"porque": "Cada escalón multiplica por mil, así que 1 MB son 1000 KB."
+},
+{
+"pregunta": "¿Cuántos MB son 5 GB?",
+"opciones": [
+"5000 MB",
+"500 MB",
+"50 MB"
+],
+"correcta": 0,
+"porque": "Un GB son 1000 MB, entonces 5 GB son 5000 MB."
+},
+{
+"pregunta": "¿Qué es mayor, 1 TB u 800 GB?",
+"opciones": [
+"Son iguales",
+"800 GB",
+"1 TB"
+],
+"correcta": 2,
+"porque": "Un TB son 1000 GB, y eso es más que 800 GB."
+},
+{
+"pregunta": "¿Qué valores puede tener un bit?",
+"opciones": [
+"0 o 1",
+"A o B",
+"De 0 a 9"
+],
+"correcta": 0,
+"porque": "Un bit es la unidad más pequeña y solo vale 0 o 1."
+},
+{
+"pregunta": "Una foto de tu celular ocupa más o menos...",
+"opciones": [
+"Unos TB",
+"Unos MB",
+"Un solo bit"
+],
+"correcta": 1,
+"porque": "Una foto ocupa unos MB, y tu celular guarda muchas."
+}
+],
+"ciclos-prepa": [
+{
+"pregunta": "¿Qué hace un ciclo en un programa?",
+"opciones": [
+"Borra el programa",
+"Repite instrucciones",
+"Guarda un archivo"
+],
+"correcta": 1,
+"porque": "Un ciclo repite instrucciones sin escribirlas muchas veces."
+},
+{
+"pregunta": "En `for i in range(4): print(\"Hola\")`, ¿cuántas veces sale Hola?",
+"opciones": [
+"4 veces",
+"5 veces",
+"3 veces"
+],
+"correcta": 0,
+"porque": "range(4) repite el ciclo cuatro veces."
+},
+{
+"pregunta": "Si n empieza en 0 y el ciclo `while n < 3` suma 1 a n, ¿cuánto vale n al terminar?",
+"opciones": [
+"2",
+"0",
+"3"
+],
+"correcta": 2,
+"porque": "Cuando n llega a 3, ya no se cumple n < 3 y el ciclo para."
+},
+{
+"pregunta": "Repites mientras no termine una tarea, sin saber cuántas veces. ¿Qué ciclo usas?",
+"opciones": [
+"if",
+"while",
+"for"
+],
+"correcta": 1,
+"porque": "While repite mientras algo se cumpla, aunque no sepas cuántas veces."
+},
+{
+"pregunta": "Quieres dar una hoja a cada uno de 30 alumnos. ¿Qué conviene?",
+"opciones": [
+"Un for de 30 vueltas",
+"Un if que decide una vez",
+"Nada, no se repite"
+],
+"correcta": 0,
+"porque": "El for sirve cuando conoces cuántas veces repetir."
+}
+],
+"condicionales-prepa": [
+{
+"pregunta": "Con `edad = 20`, `if edad >= 18` imprime Adulto y `else` imprime Menor. ¿Qué sale?",
+"opciones": [
+"Menor",
+"Nada",
+"Adulto"
+],
+"correcta": 2,
+"porque": "20 es mayor o igual que 18, así que se cumple el if."
+},
+{
+"pregunta": "¿Qué indica la sangría en un condicional?",
+"opciones": [
+"El color del texto",
+"El nombre de la variable",
+"Lo que va dentro del if"
+],
+"correcta": 2,
+"porque": "La sangría muestra qué instrucciones pertenecen al if."
+},
+{
+"pregunta": "¿Qué comparador significa \"es distinto de\"?",
+"opciones": [
+"!=",
+"==",
+">"
+],
+"correcta": 0,
+"porque": "El signo != quiere decir distinto de."
+},
+{
+"pregunta": "Si el semáforo está en verde avanzas y si no, te detienes. ¿Qué estructura es?",
+"opciones": [
+"Variable de texto",
+"Ciclo for",
+"Condicional if y else"
+],
+"correcta": 2,
+"porque": "Un condicional elige qué hacer según algo verdadero o falso."
+},
+{
+"pregunta": "Con `x = 5`, si `x < 3` imprime A y si no imprime B. ¿Qué sale?",
+"opciones": [
+"A",
+"A y B",
+"B"
+],
+"correcta": 2,
+"porque": "5 no es menor que 3, así que se ejecuta el else."
+}
+],
+"contrasenas-seguras-prepa": [
+{
+"pregunta": "¿Cuál contraseña es más segura?",
+"opciones": [
+"maria2010",
+"12345678",
+"Luna#Vuela9Rapido"
+],
+"correcta": 2,
+"porque": "Es larga, mezcla letras, números y signos, y no tiene datos personales."
+},
+{
+"pregunta": "¿Cuántos caracteres debe tener al menos una contraseña segura?",
+"opciones": [
+"12 caracteres",
+"4 caracteres",
+"6 caracteres"
+],
+"correcta": 0,
+"porque": "Mientras más larga, más difícil es adivinarla."
+},
+{
+"pregunta": "¿Para qué sirve la verificación en dos pasos?",
+"opciones": [
+"Comparte tu clave con amigos",
+"Pide otra prueba además de la clave",
+"Acorta tu contraseña"
+],
+"correcta": 1,
+"porque": "Aunque alguien tenga tu clave, necesita un segundo paso."
+},
+{
+"pregunta": "Un amigo te pide tu contraseña \"para ayudarte\". ¿Qué haces?",
+"opciones": [
+"Se la doy si es mi amigo",
+"Se la mando por mensaje",
+"No se la doy a nadie"
+],
+"correcta": 2,
+"porque": "La contraseña es como la llave de tu cuenta y no se presta."
+},
+{
+"pregunta": "¿Qué debes evitar en una contraseña?",
+"opciones": [
+"Letras y números mezclados",
+"Datos personales, como tu nombre",
+"Signos como ! y #"
+],
+"correcta": 1,
+"porque": "Los datos personales son fáciles de adivinar."
+}
+],
+"diagramas-de-flujo-prepa": [
+{
+"pregunta": "¿Qué figura representa una decisión?",
+"opciones": [
+"El rombo",
+"El óvalo",
+"El rectángulo"
+],
+"correcta": 0,
+"porque": "El rombo plantea una pregunta con respuestas distintas."
+},
+{
+"pregunta": "¿Qué se pone en un rectángulo?",
+"opciones": [
+"Un proceso, como sumar",
+"Un inicio del diagrama",
+"Una pregunta de sí o no"
+],
+"correcta": 0,
+"porque": "El rectángulo sirve para mostrar un proceso o paso."
+},
+{
+"pregunta": "¿Para qué sirve un diagrama de flujo?",
+"opciones": [
+"Para dibujar un algoritmo",
+"Para guardar fotografías",
+"Para escribir una carta"
+],
+"correcta": 0,
+"porque": "Representa con figuras los pasos de un algoritmo."
+},
+{
+"pregunta": "Pides un número al usuario. ¿Qué figura usas?",
+"opciones": [
+"El paralelogramo",
+"El rombo de decisión",
+"El óvalo de inicio"
+],
+"correcta": 0,
+"porque": "El paralelogramo marca una entrada o una salida."
+},
+{
+"pregunta": "Antes de programar dibujas el diagrama. ¿Por qué ayuda?",
+"opciones": [
+"Hace correr el programa",
+"Ves los pasos como mapa",
+"Borra los errores solo"
+],
+"correcta": 1,
+"porque": "El diagrama es un mapa que muestra los pasos antes de programar."
+}
+],
+"fraudes-y-phishing-prepa": [
+{
+"pregunta": "Un mensaje dice \"¡Gana ya, solo por hoy!\". ¿Qué señal tiene?",
+"opciones": [
+"Letra muy clara",
+"Mucha urgencia",
+"Un saludo amable"
+],
+"correcta": 1,
+"porque": "La urgencia presiona para que no pienses y caigas en el engaño."
+},
+{
+"pregunta": "Un correo del banco trae errores de ortografía y pide tu contraseña. ¿Qué es?",
+"opciones": [
+"Un aviso oficial del banco",
+"Un premio seguro para ti",
+"Un posible phishing"
+],
+"correcta": 2,
+"porque": "Los errores y pedir contraseñas son señales de phishing."
+},
+{
+"pregunta": "¿Qué es el phishing?",
+"opciones": [
+"Un programa de dibujo",
+"Un juego en línea",
+"Un engaño para robar datos"
+],
+"correcta": 2,
+"porque": "El phishing finge ser alguien confiable para robar tus datos."
+},
+{
+"pregunta": "Dudas de un mensaje que dice ser del banco. ¿Qué haces?",
+"opciones": [
+"Reviso en la página oficial",
+"Contesto con mis datos",
+"Doy clic al enlace"
+],
+"correcta": 0,
+"porque": "Verificar en la página oficial evita caer en el engaño."
+},
+{
+"pregunta": "Te llega un mensaje sospechoso en el celular. ¿A quién avisas?",
+"opciones": [
+"A un desconocido",
+"A un adulto de confianza",
+"A nadie"
+],
+"correcta": 1,
+"porque": "Avisar a un adulto ayuda a evitar el fraude."
+}
+],
+"funciones-en-programacion-prepa": [
+{
+"pregunta": "Si `saludo()` hace `print(\"Hola\")`, ¿qué pasa al llamarla?",
+"opciones": [
+"No hace nada",
+"Muestra Hola",
+"Suma dos números"
+],
+"correcta": 1,
+"porque": "Llamar a la función ejecuta su código, que imprime Hola."
+},
+{
+"pregunta": "Si `doble(n)` regresa `n * 2`, ¿qué devuelve `doble(6)`?",
+"opciones": [
+"12",
+"36",
+"8"
+],
+"correcta": 0,
+"porque": "Seis por dos es doce."
+},
+{
+"pregunta": "¿Qué es un parámetro?",
+"opciones": [
+"Un dato de entrada",
+"El resultado final",
+"Un error del código"
+],
+"correcta": 0,
+"porque": "Los parámetros son los datos que entran a la función."
+},
+{
+"pregunta": "¿Para qué sirven las funciones?",
+"opciones": [
+"Para reutilizar código",
+"Para dibujar un teclado",
+"Para apagar la computadora"
+],
+"correcta": 0,
+"porque": "Una función se escribe una vez y se usa muchas veces."
+},
+{
+"pregunta": "En la licuadora, el jugo es como...",
+"opciones": [
+"El dato de entrada",
+"El nombre de la función",
+"El resultado que devuelve"
+],
+"correcta": 2,
+"porque": "El resultado que sale de la función se llama return."
+}
+],
+"hardware-software-evolucion-prepa": [
+{
+"pregunta": "¿La pantalla es hardware o software?",
+"opciones": [
+"Ninguno de los dos",
+"Software",
+"Hardware"
+],
+"correcta": 2,
+"porque": "La pantalla es una parte física que puedes tocar."
+},
+{
+"pregunta": "¿Qué es un navegador?",
+"opciones": [
+"Una aplicación, o sea software",
+"Una pieza del procesador",
+"Un cable de red"
+],
+"correcta": 0,
+"porque": "El navegador es un programa que muestra páginas."
+},
+{
+"pregunta": "Las primeras computadoras llenaban un cuarto. ¿Qué permitió hacerlas pequeñas?",
+"opciones": [
+"Las bicicletas",
+"Los pizarrones",
+"Los transistores"
+],
+"correcta": 2,
+"porque": "Con los transistores las computadoras se hicieron pequeñas y rápidas."
+},
+{
+"pregunta": "Si los equipos envejecen muy rápido, ¿qué problema crece?",
+"opciones": [
+"La basura electrónica",
+"El ruido del recreo",
+"La cantidad de arena"
+],
+"correcta": 0,
+"porque": "Cambiar equipos seguido deja más basura electrónica."
+},
+{
+"pregunta": "Android en un celular es...",
+"opciones": [
+"Una memoria USB",
+"Un juego de mesa",
+"Un sistema operativo"
+],
+"correcta": 2,
+"porque": "Android administra el equipo, y eso es un sistema operativo."
+}
+],
+"impacto-tecnologias-digitales-prepa": [
+{
+"pregunta": "Un pueblo no tiene internet y sus alumnos no toman clases en línea. ¿Qué problema es?",
+"opciones": [
+"Brecha digital",
+"Noticia falsa",
+"Ciberacoso"
+],
+"correcta": 0,
+"porque": "La brecha digital es cuando unos tienen internet y otros no."
+},
+{
+"pregunta": "¿Cuál es un beneficio de las tecnologías digitales?",
+"opciones": [
+"El ciberacoso",
+"La educación a distancia",
+"La adicción al celular"
+],
+"correcta": 1,
+"porque": "Estudiar a distancia es un beneficio de la tecnología."
+},
+{
+"pregunta": "¿Cuál es un riesgo de las tecnologías digitales?",
+"opciones": [
+"La información rápida",
+"Los trámites en línea",
+"Las noticias falsas"
+],
+"correcta": 2,
+"porque": "Las noticias falsas engañan a la gente y son un riesgo."
+},
+{
+"pregunta": "¿Qué pregunta ayuda a analizar una tecnología?",
+"opciones": [
+"¿A quién ayuda y a quién deja fuera?",
+"¿Cuántos botones tiene el aparato?",
+"¿De qué color y cuánto pesa?"
+],
+"correcta": 0,
+"porque": "Hay que pensar a quién beneficia y a quién deja fuera."
+},
+{
+"pregunta": "Tus abuelos mandaban cartas y tú mandas mensajes. ¿Qué cambió?",
+"opciones": [
+"La rapidez para comunicarnos",
+"Solo el color del papel",
+"Que ya nadie se comunica"
+],
+"correcta": 0,
+"porque": "La tecnología cambia cómo convivimos y nos comunicamos."
+}
+]
+}

@@ -1,0 +1,569 @@
+{
+"mediana-y-rango-secundaria": [
+{
+"pregunta": "¿Cuál es la mediana de 3, 7, 9, 11, 15?",
+"opciones": [
+"$9$",
+"$3$",
+"$12$, porque es el promedio de todos los datos",
+"$15$"
+],
+"correcta": 0,
+"porque": "Los datos ya están en orden y el de en medio es 9."
+},
+{
+"pregunta": "¿Cuál es el rango de 8, 21, 14, 5?",
+"opciones": [
+"$5$",
+"$16$",
+"$13$, porque restas los dos primeros",
+"$21$"
+],
+"correcta": 1,
+"porque": "El rango es el mayor menos el menor: $21 - 5 = 16$."
+},
+{
+"pregunta": "¿Cuál es la mediana de 10, 20, 30, 40?",
+"opciones": [
+"$30$, porque es el tercer dato de la lista",
+"$25$",
+"$20$",
+"$100$"
+],
+"correcta": 1,
+"porque": "Son cuatro datos, así que promedias los dos de en medio: 20 y 30 dan 25."
+},
+{
+"pregunta": "Si todos los datos de una lista son iguales, ¿cuánto vale el rango?",
+"opciones": [
+"$1$, porque hay un solo valor repetido",
+"el mismo dato",
+"$0$",
+"$10$"
+],
+"correcta": 2,
+"porque": "El mayor y el menor son el mismo número, y su resta da 0."
+},
+{
+"pregunta": "Un rango muy grande en las calificaciones de tu salón indica que los datos están...",
+"opciones": [
+"muy separados",
+"ordenados de menor a mayor",
+"todos exactamente iguales",
+"todos muy juntos y casi iguales entre sí"
+],
+"correcta": 0,
+"porque": "Un rango grande quiere decir que hay mucha distancia entre el mayor y el menor."
+}
+],
+"medicion-calculo-contextos": [
+{
+"pregunta": "Una caja es un prisma con base de $8\\text{ cm}^2$ y altura de 3 cm. ¿Cuál es su volumen?",
+"opciones": [
+"$8\\text{ cm}^3$",
+"$24\\text{ cm}^3$",
+"$3\\text{ cm}^3$",
+"$11\\text{ cm}^3$, porque sumaste los dos números"
+],
+"correcta": 1,
+"porque": "En un prisma, el volumen es base por altura: $8 \\times 3 = 24$."
+},
+{
+"pregunta": "Una pirámide tiene base de $12\\text{ cm}^2$ y altura de 5 cm. ¿Cuál es su volumen?",
+"opciones": [
+"$4\\text{ cm}^3$",
+"$20\\text{ cm}^3$",
+"$60\\text{ cm}^3$, porque solo multiplicaste base por altura",
+"$17\\text{ cm}^3$"
+],
+"correcta": 1,
+"porque": "La pirámide llena la tercera parte: $\\frac{12 \\times 5}{3} = 20$."
+},
+{
+"pregunta": "Una escalera de 10 m forma $60°$ con el piso y $\\sin 60° = 0.866$. ¿A qué altura llega?",
+"opciones": [
+"$8.66$ m",
+"$0.866$ m",
+"$6$ m",
+"$10.866$ m, porque sumaste el seno al largo"
+],
+"correcta": 0,
+"porque": "La altura es el largo por el seno: $10 \\times 0.866 = 8.66$."
+},
+{
+"pregunta": "En un triángulo rectángulo, ¿cuál es el cateto opuesto a un ángulo?",
+"opciones": [
+"El lado que está enfrente",
+"El lado que toca al ángulo",
+"Siempre el lado de abajo",
+"El lado más largo, que es el de la esquina recta"
+],
+"correcta": 0,
+"porque": "El cateto opuesto es el que queda enfrente del ángulo que miras."
+},
+{
+"pregunta": "Según SOH-CAH-TOA, ¿qué razón es la tangente?",
+"opciones": [
+"Hipotenusa entre opuesto",
+"Opuesto entre adyacente",
+"Adyacente entre hipotenusa",
+"Opuesto entre hipotenusa, igual que el seno"
+],
+"correcta": 1,
+"porque": "TOA dice Tangente igual a Opuesto entre Adyacente."
+}
+],
+"multiplicar-ley-de-los-signos-secundaria": [
+{
+"pregunta": "¿Cuánto es $(-6)(-7)$?",
+"opciones": [
+"$-13$",
+"$42$",
+"$-42$, porque hay signos menos",
+"$13$"
+],
+"correcta": 1,
+"porque": "Signos iguales dan positivo, así que $6 \\times 7 = 42$."
+},
+{
+"pregunta": "¿Cuánto es $(8)(-3)$?",
+"opciones": [
+"$-24$",
+"$24$, porque los números son grandes",
+"$-5$",
+"$5$"
+],
+"correcta": 0,
+"porque": "Signos distintos dan negativo: $8 \\times 3 = 24$, con signo menos."
+},
+{
+"pregunta": "¿Cuánto es $(-1)(-2)(-3)(-4)$?",
+"opciones": [
+"$-10$",
+"$-24$, porque todos los factores traen menos",
+"$10$",
+"$24$"
+],
+"correcta": 3,
+"porque": "Hay cuatro negativos, que son pares, y por eso el resultado es positivo."
+},
+{
+"pregunta": "Pierdes 4 pesos al día durante 5 días. ¿Cuál es tu cambio total?",
+"opciones": [
+"$-9$ pesos",
+"$-20$ pesos",
+"$9$ pesos",
+"$20$ pesos, porque cuentas los días como ganancia"
+],
+"correcta": 1,
+"porque": "Perder es negativo: $(5)(-4) = -20$."
+},
+{
+"pregunta": "En la tarea tienes $-5 - 4$. ¿Cuánto es?",
+"opciones": [
+"$-1$",
+"$1$",
+"$-9$",
+"$9$, porque dos signos menos dan positivo"
+],
+"correcta": 2,
+"porque": "La ley de los signos es para multiplicar. Aquí sumas deudas: $-5$ y $-4$ dan $-9$."
+}
+],
+"multiplicar-monomios-secundaria": [
+{
+"pregunta": "¿Cuánto es $(4x^3)(2x^4)$?",
+"opciones": [
+"$6x^7$",
+"$8x^7$",
+"$8x^{12}$, porque multiplicas los exponentes",
+"$8x^{3}$"
+],
+"correcta": 1,
+"porque": "Multiplicas los coeficientes y sumas los exponentes: $3 + 4 = 7$."
+},
+{
+"pregunta": "¿Cuánto es $(-3m^2)(-6m^3)$?",
+"opciones": [
+"$18m^5$",
+"$18m^6$",
+"$-18m^5$, porque los dos números traen menos",
+"$-9m^5$"
+],
+"correcta": 0,
+"porque": "Menos por menos da más, y los exponentes se suman: $2 + 3 = 5$."
+},
+{
+"pregunta": "¿Cuánto es $(7x)(x)$?",
+"opciones": [
+"$7x^{0}$",
+"$8x^2$",
+"$7x^2$",
+"$7x$, porque la segunda equis no tiene número"
+],
+"correcta": 2,
+"porque": "Una letra sola tiene exponente 1, y $1 + 1 = 2$."
+},
+{
+"pregunta": "¿Cuánto es $(4x)(5x)$?",
+"opciones": [
+"$9x$, porque sumas los coeficientes y dejas la letra",
+"$9x^2$",
+"$20x^2$",
+"$20x$"
+],
+"correcta": 2,
+"porque": "Al multiplicar, los números se multiplican y las equis suman exponentes."
+},
+{
+"pregunta": "¿Cuánto es $\\frac{18y^7}{6y^3}$?",
+"opciones": [
+"$3y^4$",
+"$12y^4$, porque restas los números",
+"$3y^{21}$",
+"$3y^{10}$"
+],
+"correcta": 0,
+"porque": "Divides los números y restas los exponentes: $7 - 3 = 4$."
+}
+],
+"negativos-en-la-recta-numerica-secundaria": [
+{
+"pregunta": "¿Cuál es menor, $-7$ o $-2$?",
+"opciones": [
+"Son iguales, porque los dos son negativos",
+"$-7$",
+"$0$",
+"$-2$, porque su número es más chico que el otro"
+],
+"correcta": 1,
+"porque": "Cuanto más a la izquierda en la recta, menor es el número."
+},
+{
+"pregunta": "Estás en $-6$ en la recta y avanzas 4 lugares a la derecha. ¿A dónde llegas?",
+"opciones": [
+"$-10$, porque sigues a la izquierda",
+"$2$",
+"$-2$",
+"$10$"
+],
+"correcta": 2,
+"porque": "Sumar es ir a la derecha: $-6 + 4 = -2$."
+},
+{
+"pregunta": "Escribe con signo: la temperatura es de 5 grados bajo cero.",
+"opciones": [
+"$0$ °C",
+"$5$ °C, porque los grados son números normales",
+"$-5$ °C",
+"$+5$ °C bajo cero"
+],
+"correcta": 2,
+"porque": "Bajo cero se escribe con signo menos."
+},
+{
+"pregunta": "En la recta numérica, ¿cómo es el número 0?",
+"opciones": [
+"Siempre mayor que todos los demás",
+"Negativo, porque está en medio",
+"Positivo, porque está al inicio de la recta",
+"Ni positivo ni negativo"
+],
+"correcta": 3,
+"porque": "El cero es el punto que separa a los positivos de los negativos."
+},
+{
+"pregunta": "Vives en un edificio y bajas 3 pisos al sótano desde la planta baja. ¿Qué piso es?",
+"opciones": [
+"$-30$",
+"$3$, porque cuentas los pisos como siempre",
+"$0$",
+"$-3$"
+],
+"correcta": 3,
+"porque": "Los pisos bajo la planta baja se escriben con negativos."
+}
+],
+"notacion-cientifica-secundaria": [
+{
+"pregunta": "Escribe 83 000 en notación científica.",
+"opciones": [
+"$0.83 \\times 10^4$",
+"$83 \\times 10^3$, porque mantienes los dos primeros números",
+"$8.3 \\times 10^4$",
+"$8.3 \\times 10^5$"
+],
+"correcta": 2,
+"porque": "Mueves el punto 4 lugares y queda un número entre 1 y 10."
+},
+{
+"pregunta": "Escribe 0.0052 en notación científica.",
+"opciones": [
+"$5.2 \\times 10^{-4}$",
+"$5.2 \\times 10^{-3}$",
+"$52 \\times 10^{-4}$",
+"$5.2 \\times 10^{3}$, porque el exponente siempre es positivo"
+],
+"correcta": 1,
+"porque": "Mueves el punto 3 lugares a la derecha, y en números chiquitos el exponente es negativo."
+},
+{
+"pregunta": "Convierte $7.6 \\times 10^2$ a número normal.",
+"opciones": [
+"$7600$",
+"$760$",
+"$76$",
+"$7.62$, porque pegas el exponente al final"
+],
+"correcta": 1,
+"porque": "El exponente 2 manda mover el punto 2 lugares a la derecha."
+},
+{
+"pregunta": "¿Cuánto es $(3 \\times 10^2)(2 \\times 10^5)$?",
+"opciones": [
+"$6 \\times 10^{10}$, porque multiplicas los exponentes",
+"$5 \\times 10^7$",
+"$6 \\times 10^7$",
+"$6 \\times 10^3$"
+],
+"correcta": 2,
+"porque": "Multiplicas los números y sumas los exponentes: $2 + 5 = 7$."
+},
+{
+"pregunta": "Un número muy chiquito como 0.0009, ¿qué signo lleva su exponente de 10?",
+"opciones": [
+"Positivo, porque el número empieza con cero",
+"No lleva exponente, porque es menor que uno",
+"Siempre cero",
+"Negativo"
+],
+"correcta": 3,
+"porque": "Los números chiquitos llevan exponente negativo."
+}
+],
+"numeros-positivos-negativos": [
+{
+"pregunta": "¿Cuál es mayor, $-1$ o $-10$?",
+"opciones": [
+"$-10$, porque tiene más números",
+"$-1$",
+"$0$",
+"Son iguales"
+],
+"correcta": 1,
+"porque": "Entre negativos gana el que está más cerca del cero."
+},
+{
+"pregunta": "¿Cuánto vale $|-15|$?",
+"opciones": [
+"$1.5$",
+"$0$",
+"$-15$, porque conserva su signo menos",
+"$15$"
+],
+"correcta": 3,
+"porque": "El valor absoluto es la distancia al cero y nunca es negativo."
+},
+{
+"pregunta": "¿Cuál es el opuesto de $6$?",
+"opciones": [
+"$\\frac{1}{6}$, porque se voltea el número",
+"$-6$",
+"$0$",
+"$6$, porque no cambia"
+],
+"correcta": 1,
+"porque": "El opuesto está al otro lado del cero a la misma distancia."
+},
+{
+"pregunta": "Ordena de menor a mayor: $5, -4, -9, 0$.",
+"opciones": [
+"$0, 5, -4, -9$",
+"$5, 0, -4, -9$",
+"$-9, -4, 0, 5$",
+"$-4, -9, 0, 5$, porque 4 es menor que 9"
+],
+"correcta": 2,
+"porque": "Los negativos van primero, y el más lejos del cero es el menor."
+},
+{
+"pregunta": "Un termómetro marca $-8$ en una ciudad y $-3$ en otra. ¿Cuál tiene más frío?",
+"opciones": [
+"Ninguna, porque son menos que cero",
+"La de $-8$, porque está más abajo",
+"Las dos igual, porque son negativas"
+],
+"correcta": 1,
+"porque": "Entre negativos, $-8$ está más a la izquierda y es más frío."
+}
+],
+"obtencion-representacion-informacion": [
+{
+"pregunta": "En tu escuela, 6 de 24 alumnos usan mochila roja. ¿Cuál es la frecuencia relativa?",
+"opciones": [
+"$6$, porque es la cantidad que contaste",
+"$\\frac{24}{6} = 4$, porque divides el total entre la parte",
+"$\\frac{6}{24} = 0.25$",
+"$30$, porque sumas los dos números"
+],
+"correcta": 2,
+"porque": "La frecuencia relativa es la frecuencia entre el total."
+},
+{
+"pregunta": "Quieres mostrar cuántos alumnos prefieren cada fruta. ¿Qué gráfica sirve?",
+"opciones": [
+"Una gráfica de líneas, porque hay muchos datos",
+"Ninguna sirve para frutas",
+"Barras separadas",
+"Un histograma, porque las barras son más bonitas"
+],
+"correcta": 2,
+"porque": "Las frutas son categorías, y las categorías van en barras separadas."
+},
+{
+"pregunta": "Para saber qué deporte prefiere toda la escuela, preguntas solo a tu equipo de futbol. ¿Es buena muestra?",
+"opciones": [
+"Sí, si preguntas a todos dos veces",
+"No, porque su muestra está sesgada",
+"Sí, porque es una muestra pequeña"
+],
+"correcta": 1,
+"porque": "Una muestra buena debe ser variada, no solo tus amigos."
+},
+{
+"pregunta": "¿Qué es la población en estadística?",
+"opciones": [
+"Todos los que quieres estudiar",
+"El número de veces que sale un dato",
+"Solo la parte a la que le preguntas",
+"La gráfica que dibujas al final"
+],
+"correcta": 0,
+"porque": "La población es el grupo completo, y la muestra es una parte."
+},
+{
+"pregunta": "¿Qué gráfica usas para mostrar cómo cambia tu altura cada año?",
+"opciones": [
+"Una tabla sin ningún número",
+"Ninguna, porque la altura no cambia",
+"De líneas, porque muestra cambios"
+],
+"correcta": 2,
+"porque": "Las gráficas de líneas muestran cambios en el tiempo."
+}
+],
+"operaciones-con-signo": [
+{
+"pregunta": "¿Cuánto es $-7 + 3$?",
+"opciones": [
+"$10$",
+"$-10$, porque sumas los dos números",
+"$-4$",
+"$4$"
+],
+"correcta": 2,
+"porque": "Estabas 7 abajo y subes 3, entonces quedas en $-4$."
+},
+{
+"pregunta": "¿Cuánto es $6 - (-4)$?",
+"opciones": [
+"$-10$",
+"$2$, porque restas 4 de 6",
+"$10$",
+"$-2$"
+],
+"correcta": 2,
+"porque": "Restar un negativo es sumar: $6 + 4 = 10$."
+},
+{
+"pregunta": "¿Cuánto es $(-20) \\div 4$?",
+"opciones": [
+"$-80$",
+"$-5$",
+"$5$, porque 20 entre 4 es positivo",
+"$16$"
+],
+"correcta": 1,
+"porque": "Signos diferentes dan negativo, y $20 \\div 4 = 5$."
+},
+{
+"pregunta": "¿Cuánto es $(-4)^2$?",
+"opciones": [
+"$8$",
+"$-8$",
+"$16$",
+"$-16$, porque el número es negativo"
+],
+"correcta": 2,
+"porque": "El exponente es par, y $(-4)(-4) = 16$."
+},
+{
+"pregunta": "¿Cuánto es $2 + 3 \\times (6 - 2)$?",
+"opciones": [
+"$14$",
+"$20$, porque sumas antes de multiplicar",
+"$24$",
+"$10$"
+],
+"correcta": 0,
+"porque": "Primero el paréntesis: 4. Luego $3 \\times 4 = 12$, y al final $2 + 12 = 14$."
+}
+],
+"ordenada-al-origen-secundaria": [
+{
+"pregunta": "¿Cuál es la ordenada al origen de $y = 3x + 8$?",
+"opciones": [
+"$8$",
+"$0$",
+"$3$, porque es el número junto a la equis",
+"$11$, porque sumas los dos números"
+],
+"correcta": 0,
+"porque": "La ordenada al origen es $b$, el número que va solo."
+},
+{
+"pregunta": "¿En qué punto cruza el eje $y$ la recta $y = 2x - 7$?",
+"opciones": [
+"$(7, 0)$",
+"$(0, -7)$",
+"$(0, 2)$, porque es el número junto a $x$",
+"$(-7, 0)$, porque el $y$ va primero"
+],
+"correcta": 1,
+"porque": "Con $x = 0$ queda $y = -7$, así que cruza en $(0, -7)$."
+},
+{
+"pregunta": "¿Cuál es $b$ en $y = 5x$?",
+"opciones": [
+"$0$",
+"No existe, porque falta el número solo",
+"$1$",
+"$5$, porque es el único número que se ve"
+],
+"correcta": 0,
+"porque": "Si no hay número solo, es como sumar cero, y $b = 0$."
+},
+{
+"pregunta": "Una bici se renta con 30 pesos fijos y 5 pesos por hora. ¿Cuál es la ecuación?",
+"opciones": [
+"$y = 5x + 30$",
+"$y = 35x$, porque juntas los dos precios",
+"$y = 30x + 5$, porque pones primero lo fijo",
+"$y = 5x - 30$"
+],
+"correcta": 0,
+"porque": "Lo fijo es $b$ y lo que cambia con las horas va con $x$."
+},
+{
+"pregunta": "¿Qué significa $b$ en un problema de taxi?",
+"opciones": [
+"El banderazo, lo que pagas al empezar",
+"El precio por cada kilómetro que recorres",
+"El número de kilómetros del viaje",
+"El total que pagas al terminar el viaje"
+],
+"correcta": 0,
+"porque": "La ordenada al origen es el valor fijo con $x = 0$."
+}
+]
+}

@@ -1,0 +1,626 @@
+{
+"metrica-y-rima-prepa": [
+{
+"pregunta": "Un verso termina en palabra esdrújula y tiene 9 sílabas gramaticales. ¿Cuántas sílabas métricas cuenta?",
+"opciones": [
+"10",
+"8",
+"9"
+],
+"correcta": 1,
+"porque": "Si el verso termina en esdrújula, se resta 1 sílaba."
+},
+{
+"pregunta": "¿Qué rima tienen las palabras *gato* y *pato*?",
+"opciones": [
+"Sin rima",
+"Consonante",
+"Asonante"
+],
+"correcta": 1,
+"porque": "Repiten vocales y consonantes desde la vocal acentuada."
+},
+{
+"pregunta": "¿Qué hace la sinalefa entre dos palabras?",
+"opciones": [
+"Quita la última sílaba del verso",
+"Une vocales vecinas en una sílaba",
+"Separa vocales en dos sílabas"
+],
+"correcta": 1,
+"porque": "La sinalefa junta vocales de palabras vecinas y cuenta una sola sílaba."
+},
+{
+"pregunta": "Un soneto tiene 14 versos. ¿Cómo se reparten?",
+"opciones": [
+"2 cuartetos y 2 tercetos",
+"3 cuartetos y 2 tercetos",
+"2 cuartetos y 3 tercetos"
+],
+"correcta": 0,
+"porque": "Cuatro más cuatro más tres más tres suman 14 versos."
+},
+{
+"pregunta": "Tu maestra pide una palabra que rime en consonante con *flor*. ¿Cuál sirve?",
+"opciones": [
+"casa",
+"alma",
+"amor"
+],
+"correcta": 2,
+"porque": "Amor repite las mismas vocales y consonantes finales que flor."
+}
+],
+"modernismo-prepa": [
+{
+"pregunta": "¿Qué rasgo tiene un poema modernista?",
+"opciones": [
+"Frases secas sin ritmo alguno",
+"Música y palabras muy cuidadas",
+"Datos de noticias sin belleza"
+],
+"correcta": 1,
+"porque": "El Modernismo busca la musicalidad y las imágenes refinadas."
+},
+{
+"pregunta": "¿Quién escribió *Azul...*?",
+"opciones": [
+"Rubén Darío",
+"Amado Nervo",
+"José Martí"
+],
+"correcta": 0,
+"porque": "Azul... es una obra de Rubén Darío, de Nicaragua."
+},
+{
+"pregunta": "¿De qué país era Manuel Gutiérrez Nájera?",
+"opciones": [
+"Nicaragua",
+"México",
+"Cuba"
+],
+"correcta": 1,
+"porque": "Gutiérrez Nájera fue un modernista mexicano."
+},
+{
+"pregunta": "Tu maestra lee un poema con palabras elegidas como joyas. ¿Qué movimiento es?",
+"opciones": [
+"Modernismo",
+"Realismo",
+"Romanticismo"
+],
+"correcta": 0,
+"porque": "El Modernismo cuida la belleza del lenguaje como si fueran joyas."
+},
+{
+"pregunta": "¿Qué hace el Modernismo con el verso?",
+"opciones": [
+"Lo evita y solo usa prosa",
+"Lo copia igual que antes",
+"Lo renueva con formas nuevas"
+],
+"correcta": 2,
+"porque": "Una de sus ideas es renovar el verso."
+}
+],
+"movimientos-literarios-particularidades-prepa": [
+{
+"pregunta": "Un cuento habla del dolor del corazón de un joven enamorado. ¿Qué movimiento es?",
+"opciones": [
+"Realismo",
+"Vanguardias",
+"Romanticismo"
+],
+"correcta": 2,
+"porque": "El Romanticismo pone las emociones en primer lugar."
+},
+{
+"pregunta": "¿Qué busca mostrar el Realismo?",
+"opciones": [
+"La vida diaria de la gente",
+"Solo sueños y fantasías",
+"Reglas rotas a propósito"
+],
+"correcta": 0,
+"porque": "El Realismo muestra la vida diaria tal como es."
+},
+{
+"pregunta": "En tu escuela leen un poema que busca solo la belleza de las palabras. ¿Qué movimiento es?",
+"opciones": [
+"Modernismo",
+"Vanguardias",
+"Realismo"
+],
+"correcta": 0,
+"porque": "El Modernismo se enfoca en la belleza del lenguaje."
+},
+{
+"pregunta": "¿Qué tienen en común las obras de un mismo movimiento?",
+"opciones": [
+"El mismo número de hojas",
+"Época e ideas parecidas",
+"Un mismo autor y título"
+],
+"correcta": 1,
+"porque": "Un movimiento junta obras de una época con ideas parecidas."
+},
+{
+"pregunta": "¿Qué tres cosas forman el sello de un movimiento?",
+"opciones": [
+"Autor, editorial y portada",
+"Precio, tamaño y color",
+"Época, tema y estilo"
+],
+"correcta": 2,
+"porque": "La época, el tema y el estilo identifican a cada movimiento."
+}
+],
+"octavio-paz-prepa": [
+{
+"pregunta": "*Piedra de sol* es una obra de Octavio Paz. ¿Qué tipo de obra es?",
+"opciones": [
+"Una novela",
+"Un poema",
+"Una obra de teatro"
+],
+"correcta": 1,
+"porque": "Piedra de sol es un poema de Octavio Paz."
+},
+{
+"pregunta": "¿Qué premio ganó Octavio Paz en 1990?",
+"opciones": [
+"Nobel de la Paz",
+"Nobel de Medicina",
+"Nobel de Literatura"
+],
+"correcta": 2,
+"porque": "Paz ganó el Premio Nobel de Literatura en 1990."
+},
+{
+"pregunta": "¿De qué trata *El laberinto de la soledad*?",
+"opciones": [
+"De cómo somos los mexicanos",
+"De un viaje por la India",
+"De la vida de un diplomático"
+],
+"correcta": 0,
+"porque": "Es un ensayo sobre la identidad mexicana."
+},
+{
+"pregunta": "Octavio Paz fue poeta y también escribió como...",
+"opciones": [
+"Ensayista",
+"Dramaturgo",
+"Novelista"
+],
+"correcta": 0,
+"porque": "Paz fue poeta y ensayista."
+},
+{
+"pregunta": "¿En qué años vivió Octavio Paz?",
+"opciones": [
+"De 1889 a 1957",
+"De 1914 a 1998",
+"De 1925 a 1974"
+],
+"correcta": 1,
+"porque": "Paz nació en 1914 y murió en 1998."
+}
+],
+"pablo-neruda-y-gabriela-mistral-prepa": [
+{
+"pregunta": "¿En qué año ganó Neruda el Nobel de Literatura?",
+"opciones": [
+"1971",
+"1945",
+"1990"
+],
+"correcta": 0,
+"porque": "Neruda ganó el Nobel en 1971; Mistral lo ganó en 1945."
+},
+{
+"pregunta": "¿Cuál libro es de Gabriela Mistral?",
+"opciones": [
+"*Canto general*",
+"*Piedra de sol*",
+"*Desolación*"
+],
+"correcta": 2,
+"porque": "Desolación es una obra de Gabriela Mistral."
+},
+{
+"pregunta": "¿Quién escribió *Canto general*?",
+"opciones": [
+"Octavio Paz",
+"Gabriela Mistral",
+"Pablo Neruda"
+],
+"correcta": 2,
+"porque": "Canto general es una obra de Neruda."
+},
+{
+"pregunta": "¿En qué área trabajó Mistral cuando estuvo en México?",
+"opciones": [
+"Cocina",
+"Educación",
+"Deportes"
+],
+"correcta": 1,
+"porque": "Mistral trabajó en México en educación."
+},
+{
+"pregunta": "Tu maestra dice que dos poetas chilenos ganaron el Nobel. ¿Quiénes son?",
+"opciones": [
+"Paz y Neruda",
+"Mistral y Neruda",
+"Mistral y Castellanos"
+],
+"correcta": 1,
+"porque": "Gabriela Mistral y Pablo Neruda son poetas chilenos con Nobel."
+}
+],
+"realismo-prepa": [
+{
+"pregunta": "¿Quién escribió *Guerra y paz*?",
+"opciones": [
+"Tolstói",
+"Flaubert",
+"Galdós"
+],
+"correcta": 0,
+"porque": "Guerra y paz es una novela realista de Tolstói."
+},
+{
+"pregunta": "¿Cómo es el narrador de una obra realista?",
+"opciones": [
+"Soñador y exagerado",
+"Misterioso y mágico",
+"Objetivo y observador"
+],
+"correcta": 2,
+"porque": "El Realismo usa un narrador objetivo."
+},
+{
+"pregunta": "¿Qué obra mexicana escribió Federico Gamboa?",
+"opciones": [
+"*Balún Canán*",
+"*Santa*",
+"*Madame Bovary*"
+],
+"correcta": 1,
+"porque": "Santa es la novela de Gamboa, cercana al naturalismo."
+},
+{
+"pregunta": "Describes con detalle tu patio y a los niños que juegan, sin exagerar. ¿Qué estilo usas?",
+"opciones": [
+"Modernismo",
+"Romanticismo",
+"Realismo"
+],
+"correcta": 2,
+"porque": "El Realismo retrata la vida diaria con observación detallada."
+},
+{
+"pregunta": "¿Quién escribió *Fortunata y Jacinta*?",
+"opciones": [
+"Gamboa",
+"Dostoievski",
+"Galdós"
+],
+"correcta": 2,
+"porque": "Fortunata y Jacinta es una novela de Galdós."
+}
+],
+"resena-critica-movimientos-literarios-preparatoria": [
+{
+"pregunta": "¿Qué va en la parte de valoración de una reseña?",
+"opciones": [
+"Tu juicio con razones",
+"El resumen de la historia",
+"Los datos del libro"
+],
+"correcta": 0,
+"porque": "La valoración es tu opinión explicada con razones."
+},
+{
+"pregunta": "¿Qué datos van al inicio de una reseña?",
+"opciones": [
+"Título y autor de la obra",
+"Una cita larga del texto",
+"Tu opinión final del libro"
+],
+"correcta": 0,
+"porque": "Los datos son lo básico para identificar la obra."
+},
+{
+"pregunta": "¿Qué es el resumen dentro de una reseña?",
+"opciones": [
+"Dar tu opinión final",
+"Copiar toda la obra",
+"Contar de qué trata la obra"
+],
+"correcta": 2,
+"porque": "El resumen cuenta de qué trata la obra en pocas palabras."
+},
+{
+"pregunta": "¿Qué parte de la reseña explica cómo está hecha la obra?",
+"opciones": [
+"El análisis",
+"Los datos",
+"El resumen"
+],
+"correcta": 0,
+"porque": "En el análisis revisas personajes, estilo y movimiento."
+},
+{
+"pregunta": "Vas a reseñar un cuento romántico para tu clase. ¿Qué debe llevar cada juicio?",
+"opciones": [
+"La fecha de hoy",
+"Un ejemplo del cuento",
+"El nombre de tu escuela"
+],
+"correcta": 1,
+"porque": "Cada juicio lleva un ejemplo que lo pruebe."
+}
+],
+"romanticismo-prepa": [
+{
+"pregunta": "¿De qué país era Víctor Hugo?",
+"opciones": [
+"España",
+"Francia",
+"Alemania"
+],
+"correcta": 1,
+"porque": "Víctor Hugo fue un escritor romántico francés."
+},
+{
+"pregunta": "Un poema habla de un amor imposible y de una tormenta. ¿Qué movimiento es?",
+"opciones": [
+"Romanticismo",
+"Realismo",
+"Modernismo"
+],
+"correcta": 0,
+"porque": "Amor imposible y naturaleza intensa son rasgos románticos."
+},
+{
+"pregunta": "Las *Rimas* de Bécquer son poemas sobre...",
+"opciones": [
+"Guerra",
+"Ciencia",
+"Amor"
+],
+"correcta": 2,
+"porque": "Las Rimas son poemas de amor."
+},
+{
+"pregunta": "¿Cómo es la naturaleza en el Romanticismo?",
+"opciones": [
+"Ausente por completo",
+"Intensa y poderosa",
+"Sencilla y aburrida"
+],
+"correcta": 1,
+"porque": "El Romanticismo muestra una naturaleza intensa."
+},
+{
+"pregunta": "¿En qué siglos surgió el Romanticismo?",
+"opciones": [
+"Fines del XVIII y XIX",
+"Siglos XVI y XVII",
+"Siglos XX y XXI"
+],
+"correcta": 0,
+"porque": "Nació a fines del siglo XVIII y creció en el XIX."
+}
+],
+"rosario-castellanos-prepa": [
+{
+"pregunta": "¿Qué es *Mujer que sabe latín*?",
+"opciones": [
+"Una novela corta",
+"Un libro de ensayos",
+"Un poemario"
+],
+"correcta": 1,
+"porque": "Mujer que sabe latín es un libro de ensayos."
+},
+{
+"pregunta": "¿Qué tipo de obra es *Balún Canán*?",
+"opciones": [
+"Una obra de teatro",
+"Un poema",
+"Una novela"
+],
+"correcta": 2,
+"porque": "Balún Canán es una novela sobre Chiapas."
+},
+{
+"pregunta": "¿En qué país fue embajadora Rosario Castellanos?",
+"opciones": [
+"India",
+"Israel",
+"Chile"
+],
+"correcta": 1,
+"porque": "Castellanos fue embajadora en Israel."
+},
+{
+"pregunta": "Un cuento habla con respeto de una niña indígena de Chiapas. ¿A qué autora recuerda?",
+"opciones": [
+"Gabriela Mistral",
+"Sor Juana",
+"Rosario Castellanos"
+],
+"correcta": 2,
+"porque": "Castellanos escribió sobre mujeres y pueblos indígenas de Chiapas."
+},
+{
+"pregunta": "¿De qué país era Rosario Castellanos?",
+"opciones": [
+"Chile",
+"México",
+"España"
+],
+"correcta": 1,
+"porque": "Rosario Castellanos fue una escritora mexicana."
+}
+],
+"shakespeare-prepa": [
+{
+"pregunta": "¿Cuál de estas obras es de Shakespeare?",
+"opciones": [
+"*Fuenteovejuna*",
+"*Macbeth*",
+"*Don Quijote*"
+],
+"correcta": 1,
+"porque": "Macbeth es una tragedia de Shakespeare."
+},
+{
+"pregunta": "¿Entre qué años vivió Shakespeare?",
+"opciones": [
+"1925 a 1974",
+"1564 a 1616",
+"1914 a 1998"
+],
+"correcta": 1,
+"porque": "Shakespeare nació en 1564 y murió en 1616."
+},
+{
+"pregunta": "¿Quién escribió *Hamlet*?",
+"opciones": [
+"Cervantes",
+"Calderón",
+"Shakespeare"
+],
+"correcta": 2,
+"porque": "Hamlet es una obra de William Shakespeare."
+},
+{
+"pregunta": "¿Qué tipo de escritor fue Shakespeare?",
+"opciones": [
+"Cronista",
+"Dramaturgo",
+"Ensayista"
+],
+"correcta": 1,
+"porque": "Un dramaturgo escribe obras de teatro, como hizo Shakespeare."
+},
+{
+"pregunta": "Tu grupo actúa una escena de *Romeo y Julieta*. ¿Quién la escribió?",
+"opciones": [
+"Shakespeare",
+"Lope de Vega",
+"Quevedo"
+],
+"correcta": 0,
+"porque": "Romeo y Julieta es una obra de Shakespeare."
+}
+],
+"siglo-de-oro-prepa": [
+{
+"pregunta": "¿Quién escribió *Don Quijote*?",
+"opciones": [
+"Calderón",
+"Lope de Vega",
+"Cervantes"
+],
+"correcta": 2,
+"porque": "Don Quijote es la gran obra de Cervantes."
+},
+{
+"pregunta": "¿Qué tipo de poesía hacía Quevedo?",
+"opciones": [
+"Religiosa",
+"Culta",
+"Satírica"
+],
+"correcta": 2,
+"porque": "Quevedo escribió poesía satírica."
+},
+{
+"pregunta": "¿Qué tipo de poesía hacía Góngora?",
+"opciones": [
+"Culta",
+"Sencilla",
+"Satírica"
+],
+"correcta": 0,
+"porque": "Góngora escribió poesía culta."
+},
+{
+"pregunta": "¿Qué fue el Siglo de Oro?",
+"opciones": [
+"Una colección de libros dorados",
+"Un premio dado a un autor",
+"Una época brillante de las letras"
+],
+"correcta": 2,
+"porque": "Fue la época de esplendor de las letras españolas."
+},
+{
+"pregunta": "Tu clase lee a Sor Juana. ¿Dónde fue ella una gran figura?",
+"opciones": [
+"En la Nueva España",
+"En la Francia vieja",
+"En la España antigua"
+],
+"correcta": 0,
+"porque": "Sor Juana fue la gran figura de la Nueva España."
+}
+],
+"sor-juana-y-la-literatura-novohispana-prepa": [
+{
+"pregunta": "¿Qué defiende el poema *Hombres necios*?",
+"opciones": [
+"A los cronistas de Indias",
+"A los reyes de España",
+"A las mujeres, con razones"
+],
+"correcta": 2,
+"porque": "Hombres necios acusa a quienes culpan a la mujer sin razón."
+},
+{
+"pregunta": "¿Qué escribió Juan Ruiz de Alarcón?",
+"opciones": [
+"Cartas",
+"Crónicas",
+"Teatro"
+],
+"correcta": 2,
+"porque": "Ruiz de Alarcón fue autor de teatro."
+},
+{
+"pregunta": "¿Cuándo se escribió la literatura novohispana?",
+"opciones": [
+"Durante el virreinato",
+"Después de la Independencia",
+"Antes de la Conquista"
+],
+"correcta": 0,
+"porque": "Se escribió en México durante el virreinato."
+},
+{
+"pregunta": "¿Cuál es un género de la literatura novohispana?",
+"opciones": [
+"Guiones de cine",
+"Cuentos de ciencia ficción",
+"Poesía religiosa"
+],
+"correcta": 2,
+"porque": "Los géneros eran crónicas, poesía religiosa y teatro."
+},
+{
+"pregunta": "Una niña quiere estudiar cuando casi no se permitía a las mujeres. ¿A quién recuerda?",
+"opciones": [
+"A Sor Juana",
+"A Bernal Díaz",
+"A Ruiz de Alarcón"
+],
+"correcta": 0,
+"porque": "Sor Juana quiso estudiar en una época difícil para las mujeres."
+}
+]
+}

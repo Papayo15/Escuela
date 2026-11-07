@@ -50,7 +50,7 @@ Decide con criterio estricto:
 - nodo_id: elige solo un nodo de la lista si la explicación desarrolla ese contenido o un subtema directo de él. Si no corresponde claramente, usa "ninguno".
 - apto: true solo si es un tema académico general, no contiene datos personales ni anécdotas del alumno, y los cálculos, respuestas y afirmaciones son correctos y adecuados al nivel.
 - titulo: título académico breve y neutro. No copies la pregunta del alumno.
-- contenido: reorganiza la explicación en el formato pedido. analogias lleva exactamente dos analogías distintas de la principal; ejercicios lleva exactamente tres ejercicios con respuesta. Usa Markdown y LaTeX ($...$, \\ce{...}).`;
+- contenido: reorganiza la explicación en el formato pedido. analogias lleva exactamente dos analogías distintas de la principal; ejercicios lleva exactamente tres ejercicios con respuesta. La explicación no trae la respuesta de la práctica: calcúlala y verifícala tú. Usa Markdown y LaTeX ($...$, \\ce{...}).`;
 
 export async function guardarTemaVivo(pregunta: string, explicacion: string): Promise<string | null> {
   const candidatos = await nodosCandidatos(`${pregunta} ${explicacion.slice(0, 300)}`);

@@ -1,0 +1,522 @@
+{
+"china-e-india-antiguas-prepa": [
+{
+"pregunta": "¿Qué invento chino usas cuando haces tu tarea en el cuaderno?",
+"opciones": [
+"La brújula",
+"La pólvora",
+"El papel"
+],
+"correcta": 2,
+"porque": "El papel nació en China y hoy lo usas para escribir."
+},
+{
+"pregunta": "¿Cuál de estos aportes viene de la India antigua?",
+"opciones": [
+"El papel",
+"El número cero",
+"La Gran Muralla"
+],
+"correcta": 1,
+"porque": "El cero y los números que usamos vienen de la India."
+},
+{
+"pregunta": "¿Quién fue Confucio?",
+"opciones": [
+"Un inventor del papel",
+"Un filósofo que enseñó respeto",
+"Un emperador guerrero"
+],
+"correcta": 1,
+"porque": "Confucio fue un filósofo chino que enseñaba respeto y orden."
+},
+{
+"pregunta": "Una maestra enseña la Ruta de la Seda. ¿De qué país venía la seda?",
+"opciones": [
+"De Grecia",
+"De China",
+"De la India"
+],
+"correcta": 1,
+"porque": "La seda se hacía en China y viajaba por esa ruta."
+},
+{
+"pregunta": "¿Cómo se llama el río donde nació una civilización de la India?",
+"opciones": [
+"Valle del Indo",
+"Río Nilo",
+"Río Amarillo"
+],
+"correcta": 0,
+"porque": "En el Valle del Indo surgió una de las primeras civilizaciones de la India."
+}
+],
+"conexiones-historicas-preparatoria": [
+{
+"pregunta": "En clase dicen: \"La Revolución duró muchos años\". ¿Qué es eso?",
+"opciones": [
+"Un proceso",
+"Una fecha",
+"Un acontecimiento"
+],
+"correcta": 0,
+"porque": "Un proceso son cambios encadenados que duran años."
+},
+{
+"pregunta": "¿Cuál es un acontecimiento?",
+"opciones": [
+"Firmar la Constitución de 1917",
+"Una crisis larga",
+"La Revolución completa"
+],
+"correcta": 0,
+"porque": "Un acontecimiento pasa en un momento puntual, como una firma."
+},
+{
+"pregunta": "Si una ficha de dominó empuja a otra, ¿qué muestra esto en historia?",
+"opciones": [
+"Causas y consecuencias",
+"Un solo hecho aislado",
+"Fechas sueltas"
+],
+"correcta": 0,
+"porque": "Un hecho provoca otro, igual que una ficha empuja a la siguiente."
+},
+{
+"pregunta": "¿Por qué importa ver qué pasaba al mismo tiempo en otros países?",
+"opciones": [
+"Porque un país influye en otro",
+"Porque así se aprenden fechas",
+"Porque cada país vive aislado"
+],
+"correcta": 0,
+"porque": "Lo que pasa en un país puede influir en otro."
+},
+{
+"pregunta": "Casi todo hecho histórico tiene varias causas. ¿Cuáles pueden ser?",
+"opciones": [
+"Solo el clima de un día",
+"Solo una causa económica",
+"Economía, política y sociedad"
+],
+"correcta": 2,
+"porque": "Las causas suelen venir de economía, política y sociedad a la vez."
+}
+],
+"continuidad-y-cambio-preparatoria": [
+{
+"pregunta": "Tu colonia tiene la misma plaza que hace 30 años. ¿Qué es eso?",
+"opciones": [
+"Una continuidad",
+"Un cambio",
+"Una causa"
+],
+"correcta": 0,
+"porque": "Continuidad es algo que sigue igual con los años."
+},
+{
+"pregunta": "Creces y cambias, pero sigues siendo tú. ¿Qué enseña esto?",
+"opciones": [
+"Todo cambia siempre",
+"Nada cambia nunca",
+"Hay cambios y continuidades a la vez"
+],
+"correcta": 2,
+"porque": "Con el tiempo algo cambia y algo sigue igual."
+},
+{
+"pregunta": "¿Cuál es un buen primer paso para estudiar continuidad y cambio?",
+"opciones": [
+"Elegir un tema, como la tierra",
+"Copiar un libro",
+"Memorizar una fecha"
+],
+"correcta": 0,
+"porque": "Se empieza eligiendo un tema para comparar antes y ahora."
+},
+{
+"pregunta": "Después de ver qué cambió, ¿qué pregunta sigue?",
+"opciones": [
+"¿Cuántas hojas tiene?",
+"¿Quién lo copió?",
+"¿Por qué cambió?"
+],
+"correcta": 2,
+"porque": "Después de ver el cambio, se busca la razón por la que pasó."
+},
+{
+"pregunta": "Un niño compara su escuela de hoy con la de hace 30 años. ¿Qué hace?",
+"opciones": [
+"Solo cuenta los alumnos",
+"Inventa cómo era",
+"Busca qué sigue igual y qué cambió"
+],
+"correcta": 2,
+"porque": "Comparar antes y ahora muestra cambios y continuidades."
+}
+],
+"diversidad-de-discursos-preparatoria": [
+{
+"pregunta": "Dos niños pelean y cada uno cuenta algo distinto. ¿Qué enseña esto?",
+"opciones": [
+"Se cuenta de varias formas",
+"Nadie vio nada",
+"Uno siempre miente"
+],
+"correcta": 0,
+"porque": "Cada quien cuenta según su punto de vista."
+},
+{
+"pregunta": "¿Qué es un discurso histórico?",
+"opciones": [
+"Cómo alguien cuenta el pasado",
+"Una fecha muy importante",
+"Un edificio muy antiguo"
+],
+"correcta": 0,
+"porque": "Es el relato del pasado desde el punto de vista de quien lo cuenta."
+},
+{
+"pregunta": "¿Cuál es la primera pregunta para analizar un relato?",
+"opciones": [
+"¿Quién habla?",
+"¿De qué color es?",
+"¿Cuántas páginas tiene?"
+],
+"correcta": 0,
+"porque": "Primero se pregunta quién habla para entender su punto de vista."
+},
+{
+"pregunta": "Un español y un mexica cuentan la Conquista. ¿Qué conviene hacer?",
+"opciones": [
+"Ignorar a uno de los dos",
+"Comparar las dos versiones",
+"Quedarse con la más larga"
+],
+"correcta": 1,
+"porque": "Oír a varios da una historia más completa."
+},
+{
+"pregunta": "¿Por qué conviene oír varias voces sobre un hecho?",
+"opciones": [
+"Así hay menos que estudiar",
+"Para que todos coincidan",
+"Da una historia más completa"
+],
+"correcta": 2,
+"porque": "Cada voz aporta algo distinto que la otra calla."
+}
+],
+"edad-media-y-feudalismo-prepa": [
+{
+"pregunta": "¿Qué daba el señor feudal al campesino?",
+"opciones": [
+"Tierra y protección",
+"Dinero y un castillo",
+"Libros y escuela"
+],
+"correcta": 0,
+"porque": "El señor daba tierra y protección a cambio de lealtad y trabajo."
+},
+{
+"pregunta": "¿Quién estaba hasta arriba de la pirámide feudal?",
+"opciones": [
+"El rey",
+"El siervo",
+"El campesino"
+],
+"correcta": 0,
+"porque": "El rey ocupaba el nivel más alto de la pirámide."
+},
+{
+"pregunta": "¿Qué nombre tuvo la enfermedad que mató a gran parte de Europa en el siglo XIV?",
+"opciones": [
+"Gripe roja",
+"Peste negra",
+"Viruela azul"
+],
+"correcta": 1,
+"porque": "La peste negra mató a muchísimas personas en Europa."
+},
+{
+"pregunta": "Al dibujar la pirámide feudal, ¿quién va junto a los campesinos al fondo?",
+"opciones": [
+"Los siervos",
+"Los nobles",
+"Los reyes"
+],
+"correcta": 0,
+"porque": "Campesinos y siervos formaban el nivel de abajo."
+},
+{
+"pregunta": "La Edad Media en Europa va de 476 a...",
+"opciones": [
+"1810",
+"1453",
+"1200"
+],
+"correcta": 1,
+"porque": "Esa etapa terminó en 1453, según el tema."
+}
+],
+"grecia-antigua-prepa": [
+{
+"pregunta": "¿Cómo se llamaba cada ciudad-Estado griega?",
+"opciones": [
+"Polis",
+"Faraón",
+"Imperio"
+],
+"correcta": 0,
+"porque": "Polis es el nombre de las ciudades-Estado de Grecia."
+},
+{
+"pregunta": "¿Qué ciudad griega fue famosa por su ejército?",
+"opciones": [
+"Atenas",
+"Esparta",
+"Olimpia"
+],
+"correcta": 1,
+"porque": "Esparta era una ciudad militar."
+},
+{
+"pregunta": "¿Cuál de estos aportes viene de Grecia?",
+"opciones": [
+"Las pirámides",
+"Los Juegos Olímpicos",
+"Los papiros"
+],
+"correcta": 1,
+"porque": "Los Juegos Olímpicos nacieron en la antigua Grecia."
+},
+{
+"pregunta": "En la plaza de Atenas la gente votaba. ¿Cómo se llama eso?",
+"opciones": [
+"Monarquía",
+"Feudalismo",
+"Democracia"
+],
+"correcta": 2,
+"porque": "Atenas creó la democracia, donde los ciudadanos votan."
+},
+{
+"pregunta": "¿Qué filósofo griego fue maestro de Aristóteles?",
+"opciones": [
+"Platón",
+"Galileo",
+"Lutero"
+],
+"correcta": 0,
+"porque": "Platón fue discípulo de Sócrates y maestro de Aristóteles."
+}
+],
+"guerra-civil-de-estados-unidos-prepa": [
+{
+"pregunta": "¿Entre qué dos partes fue la Guerra Civil de Estados Unidos?",
+"opciones": [
+"México y Texas",
+"Este y Oeste",
+"Norte y Sur"
+],
+"correcta": 2,
+"porque": "Fue un conflicto entre el Norte y el Sur del país."
+},
+{
+"pregunta": "¿Cuál fue la causa principal de la guerra?",
+"opciones": [
+"La esclavitud",
+"El comercio de seda",
+"Un deporte"
+],
+"correcta": 0,
+"porque": "El tema principal del conflicto fue la esclavitud."
+},
+{
+"pregunta": "¿Quién ganó la Guerra Civil?",
+"opciones": [
+"Nadie",
+"El Norte",
+"El Sur"
+],
+"correcta": 1,
+"porque": "El Norte ganó y la guerra terminó en 1865."
+},
+{
+"pregunta": "¿Qué hizo la Decimotercera Enmienda en 1865?",
+"opciones": [
+"Creó la democracia",
+"Abolió la esclavitud",
+"Empezó la guerra"
+],
+"correcta": 1,
+"porque": "Esa enmienda terminó con la esclavitud en el país."
+},
+{
+"pregunta": "En clase explicas la guerra. ¿Qué años dices que duró?",
+"opciones": [
+"De 1810 a 1821",
+"De 1861 a 1865",
+"De 1914 a 1918"
+],
+"correcta": 1,
+"porque": "La Guerra Civil de Estados Unidos fue de 1861 a 1865."
+}
+],
+"ilustracion-prepa": [
+{
+"pregunta": "¿Qué defendía la Ilustración?",
+"opciones": [
+"El poder de un rey",
+"La obediencia ciega",
+"La razón y la libertad"
+],
+"correcta": 2,
+"porque": "La Ilustración defendía pensar con la razón, la ciencia y la libertad."
+},
+{
+"pregunta": "¿Quién propuso dividir el poder en tres partes?",
+"opciones": [
+"Voltaire",
+"Montesquieu",
+"Diderot"
+],
+"correcta": 1,
+"porque": "Montesquieu planteó la división de poderes."
+},
+{
+"pregunta": "Piensas con luz propia y no solo obedeces. ¿Qué siglo es el de este movimiento?",
+"opciones": [
+"El siglo XVIII",
+"El siglo V",
+"El siglo XXI"
+],
+"correcta": 0,
+"porque": "La Ilustración fue un movimiento del siglo XVIII."
+},
+{
+"pregunta": "¿Quién hizo la Enciclopedia?",
+"opciones": [
+"Montesquieu",
+"Rousseau",
+"Diderot"
+],
+"correcta": 2,
+"porque": "Diderot impulsó la Enciclopedia, que reunía el saber de su tiempo."
+},
+{
+"pregunta": "Si en tu escuela alguien respeta otras ideas, ¿qué ideal ilustrado practica?",
+"opciones": [
+"La tolerancia",
+"La obediencia",
+"El absolutismo"
+],
+"correcta": 0,
+"porque": "Voltaire defendía la libertad y la tolerancia."
+}
+],
+"imperialismo-y-reparto-de-africa-prepa": [
+{
+"pregunta": "¿Qué es el imperialismo?",
+"opciones": [
+"Hacer una fiesta nacional",
+"Vender dulces a otros países",
+"Dominar territorios de otros pueblos"
+],
+"correcta": 2,
+"porque": "Es cuando potencias dominan otros territorios."
+},
+{
+"pregunta": "¿Cuál fue una causa del imperialismo?",
+"opciones": [
+"Aprender nuevos idiomas",
+"Conseguir materias primas",
+"Ayudar a las escuelas"
+],
+"correcta": 1,
+"porque": "Las potencias buscaban materias primas, mercados y poder."
+},
+{
+"pregunta": "Al mirar un mapa de África ves fronteras rectas. ¿Por qué?",
+"opciones": [
+"Europa las trazó sin preguntar",
+"Los ríos las dibujaron",
+"Los pueblos las pidieron"
+],
+"correcta": 0,
+"porque": "Las fronteras artificiales vienen del reparto europeo."
+},
+{
+"pregunta": "¿En qué ciudad se repartió África entre potencias?",
+"opciones": [
+"Madrid",
+"Berlín",
+"Roma"
+],
+"correcta": 1,
+"porque": "La Conferencia de Berlín fue en 1884 y 1885."
+},
+{
+"pregunta": "¿Cuál fue una consecuencia del reparto?",
+"opciones": [
+"Fronteras naturales",
+"Más libertad para todos",
+"Explotación de los pueblos africanos"
+],
+"correcta": 2,
+"porque": "El reparto trajo fronteras artificiales y explotación."
+}
+],
+"imperio-bizantino-prepa": [
+{
+"pregunta": "¿Cuál fue la capital del Imperio bizantino?",
+"opciones": [
+"Alejandría",
+"Cartago",
+"Constantinopla"
+],
+"correcta": 2,
+"porque": "Constantinopla era su capital, hoy Estambul."
+},
+{
+"pregunta": "¿Qué emperador ordenó reunir las leyes romanas?",
+"opciones": [
+"Justiniano",
+"Augusto",
+"Julio César"
+],
+"correcta": 0,
+"porque": "Justiniano ordenó las leyes romanas."
+},
+{
+"pregunta": "¿En qué año cayó el Imperio bizantino?",
+"opciones": [
+"1453",
+"476",
+"1517"
+],
+"correcta": 0,
+"porque": "Cayó en 1453 ante los turcos otomanos."
+},
+{
+"pregunta": "Si dices que Roma siguió viva otros mil años en el este, ¿de qué hablas?",
+"opciones": [
+"De la Edad de Piedra",
+"Del Imperio bizantino",
+"De Mesopotamia"
+],
+"correcta": 1,
+"porque": "El imperio bizantino fue la mitad oriental de Roma."
+},
+{
+"pregunta": "¿Qué tres culturas unió el Imperio bizantino?",
+"opciones": [
+"Griega, romana y cristiana",
+"China, india y maya",
+"Azteca, inca y maya"
+],
+"correcta": 0,
+"porque": "Unió cultura griega, romana y cristiana."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"paises-y-capitales-de-africa-subsahariana-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de Ghana?",
+"opciones": [
+"Acra",
+"Dakar",
+"Lagos"
+],
+"correcta": 0,
+"porque": "Acra es la capital de Ghana, un país de África occidental."
+},
+{
+"pregunta": "Para ubicar Tanzania en el mapa de la escuela, ¿qué capital marcas?",
+"opciones": [
+"Dodoma",
+"Kinsasa",
+"Nairobi"
+],
+"correcta": 0,
+"porque": "Dodoma es la capital de Tanzania."
+},
+{
+"pregunta": "¿Cuántas capitales tiene Sudáfrica?",
+"opciones": [
+"Una",
+"Tres",
+"Dos"
+],
+"correcta": 1,
+"porque": "Sudáfrica reparte funciones entre Pretoria, Ciudad del Cabo y Bloemfontein."
+},
+{
+"pregunta": "¿Cuál es la capital de la República Democrática del Congo?",
+"opciones": [
+"Luanda",
+"Maputo",
+"Kinsasa"
+],
+"correcta": 2,
+"porque": "Kinsasa es la capital de ese país; Luanda es de Angola."
+},
+{
+"pregunta": "Tu amigo busca la capital de Senegal para su tarjeta. ¿Cuál escribe?",
+"opciones": [
+"Nairobi",
+"Dakar",
+"Acra"
+],
+"correcta": 1,
+"porque": "Dakar es la capital de Senegal."
+}
+],
+"paises-y-capitales-de-asia-oriental-y-meridional-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de Pakistán?",
+"opciones": [
+"Islamabad",
+"Manila",
+"Daca"
+],
+"correcta": 0,
+"porque": "Islamabad es la capital de Pakistán."
+},
+{
+"pregunta": "¿Qué ciudad es la capital de Vietnam?",
+"opciones": [
+"Bangkok",
+"Yakarta",
+"Hanói"
+],
+"correcta": 2,
+"porque": "Hanói es la capital de Vietnam."
+},
+{
+"pregunta": "Tu maestra te pide ubicar Filipinas. ¿Qué capital escribes?",
+"opciones": [
+"Yakarta",
+"Daca",
+"Manila"
+],
+"correcta": 2,
+"porque": "Manila es la capital de Filipinas."
+},
+{
+"pregunta": "¿Cuál es la capital de Bangladés?",
+"opciones": [
+"Pekín",
+"Daca",
+"Nueva Delhi"
+],
+"correcta": 1,
+"porque": "Daca es la capital de Bangladés."
+},
+{
+"pregunta": "Una tarjeta dice Yakarta. ¿De qué país es capital?",
+"opciones": [
+"Vietnam",
+"Indonesia",
+"Filipinas"
+],
+"correcta": 1,
+"porque": "Yakarta es la capital de Indonesia."
+}
+],
+"paises-y-capitales-de-centroamerica-y-el-caribe-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de El Salvador?",
+"opciones": [
+"San Salvador",
+"Kingston",
+"Tegucigalpa"
+],
+"correcta": 0,
+"porque": "San Salvador es la capital de El Salvador."
+},
+{
+"pregunta": "Una tarjeta dice Belmopán. ¿De qué país es capital?",
+"opciones": [
+"Belice",
+"Guatemala",
+"Honduras"
+],
+"correcta": 0,
+"porque": "Belmopán es la capital de Belice."
+},
+{
+"pregunta": "¿Cuál es la capital de Haití?",
+"opciones": [
+"Santo Domingo",
+"Puerto Príncipe",
+"La Habana"
+],
+"correcta": 1,
+"porque": "Puerto Príncipe es la capital de Haití."
+},
+{
+"pregunta": "Al colorear la República Dominicana, ¿qué capital anotas?",
+"opciones": [
+"Puerto Príncipe",
+"San Juan",
+"Santo Domingo"
+],
+"correcta": 2,
+"porque": "Santo Domingo es la capital de la República Dominicana."
+},
+{
+"pregunta": "¿Cuál es la capital de Panamá?",
+"opciones": [
+"Belmopán, capital de Belice",
+"Colón, un puerto de Panamá",
+"Ciudad de Panamá, en Panamá"
+],
+"correcta": 2,
+"porque": "La capital de Panamá es Ciudad de Panamá."
+}
+],
+"paises-y-capitales-de-europa-occidental-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de Irlanda?",
+"opciones": [
+"Berna",
+"Dublín",
+"Londres"
+],
+"correcta": 1,
+"porque": "Dublín es la capital de Irlanda."
+},
+{
+"pregunta": "¿Cuál es la capital de Dinamarca?",
+"opciones": [
+"Copenhague",
+"Estocolmo",
+"Oslo"
+],
+"correcta": 0,
+"porque": "Copenhague es la capital de Dinamarca."
+},
+{
+"pregunta": "Un compañero dice tres datos de Austria. ¿Cuál es su capital?",
+"opciones": [
+"Bruselas",
+"Viena",
+"Berlín"
+],
+"correcta": 1,
+"porque": "Viena es la capital de Austria."
+},
+{
+"pregunta": "¿Cuál es la capital de Bélgica?",
+"opciones": [
+"Bruselas",
+"Ámsterdam",
+"Berna"
+],
+"correcta": 0,
+"porque": "Bruselas es la capital de Bélgica."
+},
+{
+"pregunta": "Eliges Noruega para tu tarjeta. ¿Qué capital escribes?",
+"opciones": [
+"Copenhague, de Dinamarca",
+"Estocolmo, de Suecia",
+"Oslo, capital de Noruega"
+],
+"correcta": 2,
+"porque": "La capital de Noruega es Oslo."
+}
+],
+"paises-y-capitales-de-europa-oriental-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de la República Checa?",
+"opciones": [
+"Sofía",
+"Praga",
+"Zagreb"
+],
+"correcta": 1,
+"porque": "Praga es la capital de la República Checa."
+},
+{
+"pregunta": "¿Cuál es la capital de Hungría?",
+"opciones": [
+"Praga",
+"Budapest",
+"Sofía"
+],
+"correcta": 1,
+"porque": "Budapest es la capital de Hungría."
+},
+{
+"pregunta": "Ubicas Bulgaria en el mapa de tu escuela. ¿Qué capital marcas?",
+"opciones": [
+"Sofía",
+"Belgrado",
+"Bucarest"
+],
+"correcta": 0,
+"porque": "Sofía es la capital de Bulgaria."
+},
+{
+"pregunta": "¿Cuál es la capital de Croacia?",
+"opciones": [
+"Zagreb",
+"Helsinki",
+"Varsovia"
+],
+"correcta": 0,
+"porque": "Zagreb es la capital de Croacia."
+},
+{
+"pregunta": "¿Cuál es la capital de Finlandia?",
+"opciones": [
+"Estocolmo",
+"Helsinki",
+"Moscú"
+],
+"correcta": 1,
+"porque": "Helsinki es la capital de Finlandia."
+}
+],
+"paises-y-capitales-de-medio-oriente-y-asia-central-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de Líbano?",
+"opciones": [
+"Beirut",
+"Teherán",
+"Bagdad"
+],
+"correcta": 0,
+"porque": "Beirut es la capital del Líbano."
+},
+{
+"pregunta": "¿Cuál es la capital de Siria?",
+"opciones": [
+"Damasco",
+"Riad",
+"Kabul"
+],
+"correcta": 0,
+"porque": "Damasco es la capital de Siria."
+},
+{
+"pregunta": "Buscas Afganistán en el mapa. ¿Qué capital marcas?",
+"opciones": [
+"Kabul",
+"Ankara",
+"Damasco"
+],
+"correcta": 0,
+"porque": "Kabul es la capital de Afganistán."
+},
+{
+"pregunta": "¿Cuál es la capital de Kazajistán?",
+"opciones": [
+"Taskent",
+"Astaná",
+"Teherán"
+],
+"correcta": 1,
+"porque": "Astaná es la capital de Kazajistán."
+},
+{
+"pregunta": "¿Cuál es la capital de Uzbekistán?",
+"opciones": [
+"Astaná",
+"Bagdad",
+"Taskent"
+],
+"correcta": 2,
+"porque": "Taskent es la capital de Uzbekistán."
+}
+],
+"paises-y-capitales-de-norteamerica-secundaria": [
+{
+"pregunta": "Tu amigo ve Washington D. C. en un mapa. ¿De qué país es capital?",
+"opciones": [
+"Estados Unidos, país del norte",
+"México, vecino del sur de EU",
+"Canadá, país vecino del norte"
+],
+"correcta": 0,
+"porque": "Washington D. C. es la capital de Estados Unidos."
+},
+{
+"pregunta": "¿Qué país tiene por capital Ottawa?",
+"opciones": [
+"México",
+"Estados Unidos",
+"Canadá"
+],
+"correcta": 2,
+"porque": "Ottawa es la capital de Canadá."
+},
+{
+"pregunta": "¿Cuál es la capital de México?",
+"opciones": [
+"Ottawa",
+"Ciudad de México",
+"Washington D. C."
+],
+"correcta": 1,
+"porque": "La capital de México es la Ciudad de México."
+},
+{
+"pregunta": "¿Qué dato sobre Canadá es verdadero?",
+"opciones": [
+"Es el país más pequeño de América",
+"Es la capital de Estados Unidos",
+"Es el segundo país más grande del mundo"
+],
+"correcta": 2,
+"porque": "Canadá es enorme: el segundo país más grande del mundo."
+},
+{
+"pregunta": "Haces tarjetas de país y capital. ¿Cuál tarjeta está bien?",
+"opciones": [
+"Canadá, Toronto",
+"México, Washington",
+"Canadá, Ottawa"
+],
+"correcta": 2,
+"porque": "La capital de Canadá es Ottawa, no Toronto."
+}
+],
+"paises-y-capitales-de-oceania-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de Papúa Nueva Guinea?",
+"opciones": [
+"Port Moresby",
+"Suva, de Fiyi",
+"Apia, de Samoa"
+],
+"correcta": 0,
+"porque": "Port Moresby es la capital de Papúa Nueva Guinea."
+},
+{
+"pregunta": "¿Qué país tiene por capital Apia?",
+"opciones": [
+"Australia",
+"Samoa",
+"Fiyi"
+],
+"correcta": 1,
+"porque": "Apia es la capital de Samoa."
+},
+{
+"pregunta": "¿En qué océano están muchas de las islas de Oceanía?",
+"opciones": [
+"Océano Ártico",
+"Océano Atlántico",
+"Océano Pacífico"
+],
+"correcta": 2,
+"porque": "Oceanía reúne a Australia y a muchas islas del Pacífico."
+},
+{
+"pregunta": "¿Cuál pareja de país y capital está bien?",
+"opciones": [
+"Samoa y Suva",
+"Fiyi y Apia",
+"Samoa y Apia"
+],
+"correcta": 2,
+"porque": "Samoa tiene como capital a Apia; Suva es de Fiyi."
+},
+{
+"pregunta": "En una tarjeta dice Wellington. ¿De qué país es capital?",
+"opciones": [
+"Australia",
+"Nueva Zelanda",
+"Samoa"
+],
+"correcta": 1,
+"porque": "Wellington es la capital de Nueva Zelanda."
+}
+],
+"paises-y-capitales-de-sudamerica-secundaria": [
+{
+"pregunta": "¿Cuántos países independientes tiene Sudamérica?",
+"opciones": [
+"Doce",
+"Catorce",
+"Diez"
+],
+"correcta": 0,
+"porque": "América del Sur tiene 12 países independientes."
+},
+{
+"pregunta": "¿Cuál es la capital de Uruguay?",
+"opciones": [
+"Lima",
+"Montevideo",
+"Asunción"
+],
+"correcta": 1,
+"porque": "Montevideo es la capital de Uruguay."
+},
+{
+"pregunta": "¿Cuál es la capital de Colombia?",
+"opciones": [
+"Bogotá",
+"Caracas",
+"Quito"
+],
+"correcta": 0,
+"porque": "Bogotá es la capital de Colombia."
+},
+{
+"pregunta": "¿Qué idioma se habla en Brasil?",
+"opciones": [
+"Español",
+"Inglés",
+"Portugués"
+],
+"correcta": 2,
+"porque": "En Brasil se habla portugués, no español."
+},
+{
+"pregunta": "¿Cuál es la sede de gobierno de Bolivia?",
+"opciones": [
+"La Paz",
+"Sucre",
+"Santiago"
+],
+"correcta": 0,
+"porque": "Bolivia tiene capital constitucional en Sucre y gobierno en La Paz."
+}
+],
+"paises-y-capitales-del-norte-de-africa-secundaria": [
+{
+"pregunta": "¿Cuál es la capital de Libia?",
+"opciones": [
+"Trípoli",
+"Rabat",
+"Argel"
+],
+"correcta": 0,
+"porque": "Trípoli es la capital de Libia."
+},
+{
+"pregunta": "¿Cuál es la capital de Sudán?",
+"opciones": [
+"El Cairo",
+"Jartum",
+"Túnez"
+],
+"correcta": 1,
+"porque": "Jartum es la capital de Sudán."
+},
+{
+"pregunta": "¿Qué idioma se habla en el norte de África?",
+"opciones": [
+"Hindi",
+"Árabe",
+"Inglés"
+],
+"correcta": 1,
+"porque": "En esta región se habla árabe."
+},
+{
+"pregunta": "¿Qué mar queda al norte de esta región?",
+"opciones": [
+"Mar Caribe",
+"Mar Báltico",
+"Mar Mediterráneo"
+],
+"correcta": 2,
+"porque": "Estos países están entre el Mediterráneo y el gran desierto."
+},
+{
+"pregunta": "¿Qué religión predomina en la región?",
+"opciones": [
+"El budismo",
+"El hinduismo",
+"El islam"
+],
+"correcta": 2,
+"porque": "En el norte de África predomina el islam."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"regla-de-la-suma-prepa": [
+{
+"pregunta": "Si $P(A) = 0.6$, $P(B) = 0.3$ y $P(A \\text{ y } B) = 0.1$, ¿cuánto vale $P(A \\text{ o } B)$?",
+"opciones": [
+"0.8, porque $0.6 + 0.3 - 0.1$",
+"0.7, porque resta de más",
+"0.9, porque suma todo"
+],
+"correcta": 0,
+"porque": "Sumas y quitas lo contado dos veces."
+},
+{
+"pregunta": "Dos eventos excluyentes tienen probabilidades 0.25 y 0.35. ¿Cuál es la de que pase alguno?",
+"opciones": [
+"0.09",
+"0.6",
+"0.1"
+],
+"correcta": 1,
+"porque": "Si no pueden pasar juntos, solo se suman."
+},
+{
+"pregunta": "Con un dado, ¿cuál es la probabilidad de sacar impar o mayor que 4?",
+"opciones": [
+"$\\frac{5}{6}$",
+"$\\frac{3}{6}$",
+"$\\frac{4}{6}$"
+],
+"correcta": 2,
+"porque": "Cumplen 1, 3, 5 y 6, sin contar el 5 dos veces."
+},
+{
+"pregunta": "En tu escuela, 12 van a pintura, 8 a teatro y 4 a ambos. ¿Cuántos van a alguno?",
+"opciones": [
+"16",
+"24",
+"20"
+],
+"correcta": 0,
+"porque": "Haces $12 + 8 - 4 = 16$."
+},
+{
+"pregunta": "¿Por qué se resta $P(A \\text{ y } B)$ en la regla de la suma?",
+"opciones": [
+"Porque son excluyentes",
+"Porque es muy pequeño",
+"Porque se contó dos veces"
+],
+"correcta": 2,
+"porque": "Quien cumple los dos se cuenta en A y en B."
+}
+],
+"regla-del-producto-en-probabilidad-prepa": [
+{
+"pregunta": "Lanzas una moneda y un dado. ¿Cuál es la probabilidad de águila y 6?",
+"opciones": [
+"$\\frac{2}{3}$",
+"$\\frac{1}{12}$",
+"$\\frac{1}{8}$"
+],
+"correcta": 1,
+"porque": "Son independientes: $\\frac{1}{2} \\cdot \\frac{1}{6} = \\frac{1}{12}$."
+},
+{
+"pregunta": "Si $P(A) = 0.4$ y $P(B) = 0.5$ son independientes, ¿cuánto vale $P(A \\text{ y } B)$?",
+"opciones": [
+"0.1",
+"0.9",
+"0.2"
+],
+"correcta": 2,
+"porque": "Multiplicas $0.4 \\cdot 0.5 = 0.2$."
+},
+{
+"pregunta": "Una bolsa tiene 3 bolas azules y 2 verdes. Sacas dos azules sin devolver. ¿Cuál es la probabilidad?",
+"opciones": [
+"$\\frac{3}{5}$",
+"$\\frac{9}{25}$",
+"$\\frac{3}{10}$"
+],
+"correcta": 2,
+"porque": "Haces $\\frac{3}{5} \\cdot \\frac{2}{4} = \\frac{3}{10}$, porque queda una menos."
+},
+{
+"pregunta": "¿Qué pregunta te ayuda a saber si los eventos son dependientes?",
+"opciones": [
+"¿Hubo devolución?",
+"¿De qué color es?",
+"¿Cuántas bolas hay?"
+],
+"correcta": 0,
+"porque": "Sin devolución, el primer resultado cambia el segundo."
+},
+{
+"pregunta": "En probabilidad, ¿qué operación pide la palabra y?",
+"opciones": [
+"Multiplicar",
+"Restar",
+"Sumar"
+],
+"correcta": 0,
+"porque": "Para que pasen los dos, multiplicas las probabilidades."
+}
+],
+"varianza-y-desviacion-estandar-prepa": [
+{
+"pregunta": "¿Cuál es la varianza de los datos 4 y 8?",
+"opciones": [
+"2",
+"4",
+"16"
+],
+"correcta": 1,
+"porque": "El promedio es 6, las diferencias son $-2$ y 2, y los cuadrados dan promedio 4."
+},
+{
+"pregunta": "Si la varianza es 25, ¿cuál es la desviación estándar?",
+"opciones": [
+"12.5, la mitad",
+"25, igual que antes",
+"5, la raíz de 25"
+],
+"correcta": 2,
+"porque": "La desviación es la raíz cuadrada de la varianza."
+},
+{
+"pregunta": "Todos los datos son 7, 7 y 7. ¿Cuánto vale la varianza?",
+"opciones": [
+"0",
+"1",
+"7"
+],
+"correcta": 0,
+"porque": "Si son iguales no hay dispersión, y da 0."
+},
+{
+"pregunta": "Dos salones promedian 9. En A todos sacan 9, y en B sacan 10 y 8. ¿Cuál tiene más desviación?",
+"opciones": [
+"El salón B",
+"Los dos igual",
+"El salón A"
+],
+"correcta": 0,
+"porque": "En B los datos se separan del promedio."
+},
+{
+"pregunta": "¿Qué haces primero para calcular la varianza?",
+"opciones": [
+"Sacar la raíz",
+"Sacar el promedio",
+"Dividir entre $n - 1$"
+],
+"correcta": 1,
+"porque": "Primero necesitas el promedio para ver las diferencias."
+}
+],
+"desigualdades-lineales-prepa": [
+{
+"pregunta": "Resuelve $3x + 2 > 11$.",
+"opciones": [
+"$x > 13$",
+"$x < 3$",
+"$x > 3$"
+],
+"correcta": 2,
+"porque": "Restas 2 y divides entre 3, sin voltear el signo."
+},
+{
+"pregunta": "Resuelve $-4x \\le 12$.",
+"opciones": [
+"$x \\ge -3$",
+"$x \\ge 3$",
+"$x \\le -3$"
+],
+"correcta": 0,
+"porque": "Dividir entre $-4$ voltea el signo."
+},
+{
+"pregunta": "Escribe $x \\ge 5$ como intervalo.",
+"opciones": [
+"$(-\\infty, 5]$",
+"$[5, \\infty)$",
+"$(5, \\infty)$"
+],
+"correcta": 1,
+"porque": "El corchete incluye al 5, y va hacia los mayores."
+},
+{
+"pregunta": "¿Cuándo se voltea el signo de una desigualdad?",
+"opciones": [
+"Al sumar un positivo",
+"Al pasar un número sumando",
+"Al dividir entre un negativo"
+],
+"correcta": 2,
+"porque": "Multiplicar o dividir entre negativos cambia el orden."
+},
+{
+"pregunta": "Para entrar a un juego se pide al menos 8 años. ¿Cómo lo escribes con la edad $e$?",
+"opciones": [
+"$e \\ge 8$",
+"$e \\le 8$",
+"$e > 8$"
+],
+"correcta": 0,
+"porque": "Al menos 8 incluye el 8 y los mayores."
+}
+],
+"despejar-una-variable-de-una-formula-prepa": [
+{
+"pregunta": "Despeja $b$ de $A = bh$.",
+"opciones": [
+"$b = A - h$",
+"$b = Ah$",
+"$b = \\frac{A}{h}$"
+],
+"correcta": 2,
+"porque": "Deshaces la multiplicación dividiendo entre $h$."
+},
+{
+"pregunta": "Despeja $b$ de $y = mx + b$.",
+"opciones": [
+"$b = y + mx$",
+"$b = \\frac{y}{mx}$",
+"$b = y - mx$"
+],
+"correcta": 2,
+"porque": "Deshaces la suma restando $mx$ en ambos lados."
+},
+{
+"pregunta": "Despeja $d$ de $v = \\frac{d}{t}$.",
+"opciones": [
+"$d = v - t$",
+"$d = vt$",
+"$d = \\frac{v}{t}$"
+],
+"correcta": 1,
+"porque": "Deshaces la división multiplicando por $t$."
+},
+{
+"pregunta": "Despeja $s$ de $A = s^2$.",
+"opciones": [
+"$s = \\frac{A}{2}$",
+"$s = A^2$",
+"$s = \\sqrt{A}$"
+],
+"correcta": 2,
+"porque": "La raíz deshace el cuadrado."
+},
+{
+"pregunta": "Al despejar, ¿qué operación deshace una resta?",
+"opciones": [
+"Una raíz cuadrada",
+"Otra resta igual",
+"Una suma del mismo número"
+],
+"correcta": 2,
+"porque": "Los opuestos se deshacen entre sí: suma con resta."
+}
+],
+"determinantes-2x2-prepa": [
+{
+"pregunta": "Calcula $\\begin{vmatrix} 2 & 3 \\\\ 1 & 5 \\end{vmatrix}$.",
+"opciones": [
+"5",
+"13",
+"7"
+],
+"correcta": 2,
+"porque": "Haces $2 \\cdot 5 - 3 \\cdot 1 = 7$."
+},
+{
+"pregunta": "Calcula $\\begin{vmatrix} 4 & 2 \\\\ 3 & 1 \\end{vmatrix}$.",
+"opciones": [
+"10, sumando todo",
+"2, sin el signo",
+"$-2$, queda negativo"
+],
+"correcta": 2,
+"porque": "Haces $4 \\cdot 1 - 2 \\cdot 3 = -2$."
+},
+{
+"pregunta": "Con Cramer, $x + y = 7$ y $x - y = 3$. ¿Cuánto vale $x$?",
+"opciones": [
+"10",
+"2",
+"5"
+],
+"correcta": 2,
+"porque": "$D = -2$ y $D_x = -10$, así que $x = 5$."
+},
+{
+"pregunta": "En $ad - bc$, ¿qué producto se resta?",
+"opciones": [
+"El de $b$ por $c$",
+"El de $a$ por $d$",
+"La suma de $b$ y $c$"
+],
+"correcta": 0,
+"porque": "La diagonal que sube se resta a la que baja."
+},
+{
+"pregunta": "Calcula $\\begin{vmatrix} 1 & 0 \\\\ 0 & 6 \\end{vmatrix}$.",
+"opciones": [
+"7",
+"0",
+"6"
+],
+"correcta": 2,
+"porque": "Haces $1 \\cdot 6 - 0 \\cdot 0 = 6$."
+}
+],
+"ecuaciones-cuadraticas-preparatoria": [
+{
+"pregunta": "¿Cuáles son las soluciones de $x^2 = 49$?",
+"opciones": [
+"$x = 7$ o $x = -7$",
+"$x = 24.5$ o $x = -24.5$",
+"solo $x = 7$"
+],
+"correcta": 0,
+"porque": "Dos números elevados al cuadrado dan 49: el 7 y el $-7$."
+},
+{
+"pregunta": "Resuelve $x^2 = 49$.",
+"opciones": [
+"Solo $x = 7$",
+"$x = 24.5$",
+"$x = 7$ y $x = -7$"
+],
+"correcta": 2,
+"porque": "Dos números dan 49 al cuadrado: 7 y $-7$."
+},
+{
+"pregunta": "Resuelve $(x - 1)(x + 6) = 0$.",
+"opciones": [
+"$x = 6$ o $x = 1$",
+"$x = 1$ o $x = -6$",
+"$x = -1$ o $x = 6$"
+],
+"correcta": 1,
+"porque": "Cada factor se iguala a cero por separado."
+},
+{
+"pregunta": "Si lo de la raíz en la fórmula general sale negativo, ¿qué pasa?",
+"opciones": [
+"Hay una solución",
+"No hay solución real",
+"Hay dos soluciones"
+],
+"correcta": 1,
+"porque": "No existe raíz real de un negativo."
+},
+{
+"pregunta": "Resuelve $x^2 + x - 6 = 0$.",
+"opciones": [
+"$x = 2$ o $x = -3$",
+"$x = 6$ o $x = -1$",
+"$x = -2$ o $x = 3$"
+],
+"correcta": 0,
+"porque": "Queda $(x + 3)(x - 2) = 0$, porque 3 por $-2$ es $-6$."
+}
+],
+"ecuaciones-lineales-con-fracciones-prepa": [
+{
+"pregunta": "Resuelve $\\frac{x}{5} + \\frac{x}{2} = 7$.",
+"opciones": [
+"$x = 14$",
+"$x = 10$",
+"$x = 35$"
+],
+"correcta": 1,
+"porque": "Multiplicas por 10: $2x + 5x = 70$."
+},
+{
+"pregunta": "Resuelve $\\frac{x + 2}{4} = 3$.",
+"opciones": [
+"$x = 1$",
+"$x = 10$",
+"$x = 14$"
+],
+"correcta": 1,
+"porque": "Multiplicas por 4: $x + 2 = 12$."
+},
+{
+"pregunta": "Resuelve $\\frac{3}{x} = \\frac{1}{2}$.",
+"opciones": [
+"$x = 6$",
+"$x = 3$",
+"$x = 1.5$"
+],
+"correcta": 0,
+"porque": "Cruzas: $3 \\cdot 2 = x \\cdot 1$."
+},
+{
+"pregunta": "Para $\\frac{x}{2} + \\frac{x}{4} = 6$, ¿por cuánto multiplicas todo?",
+"opciones": [
+"Por 6, la suma",
+"Por 3, la mitad",
+"Por 4, el menor común"
+],
+"correcta": 2,
+"porque": "El 4 es el menor número que dividen el 2 y el 4."
+},
+{
+"pregunta": "En $\\frac{5}{x} = 2$, ¿qué valor no puede tener $x$?",
+"opciones": [
+"0",
+"5",
+"2"
+],
+"correcta": 0,
+"porque": "El de abajo nunca puede ser 0."
+}
+],
+"ecuaciones-lineales-dos-incognitas-preparatoria": [
+{
+"pregunta": "Resuelve $x + y = 11$ y $x - y = 5$.",
+"opciones": [
+"$x = 8$, $y = 3$",
+"$x = 6$, $y = 5$",
+"$x = 3$, $y = 8$"
+],
+"correcta": 0,
+"porque": "Sumas: $2x = 16$, luego $y = 11 - 8 = 3$."
+},
+{
+"pregunta": "Resuelve $2x + y = 9$ y $x + y = 5$.",
+"opciones": [
+"$x = 1$, $y = 4$",
+"$x = 4$, $y = 1$",
+"$x = 3$, $y = 2$"
+],
+"correcta": 1,
+"porque": "Restas y queda $x = 4$; luego $y = 5 - 4 = 1$."
+},
+{
+"pregunta": "Con $x + y = 6$ y $x - y = 2$, ¿qué queda al sumarlas?",
+"opciones": [
+"$x = 8$",
+"$2x = 8$",
+"$2y = 8$"
+],
+"correcta": 1,
+"porque": "Las $y$ se cancelan y queda $2x = 8$."
+},
+{
+"pregunta": "¿Cuántas soluciones tiene una sola ecuación como $x + y = 10$?",
+"opciones": [
+"Ninguna pareja",
+"Solo una pareja",
+"Muchas parejas distintas"
+],
+"correcta": 2,
+"porque": "Hay muchas parejas: 1 y 9, 2 y 8, y más."
+},
+{
+"pregunta": "Un cuaderno y un lápiz cuestan 30 pesos. Dos cuadernos y un lápiz, 50. ¿Cuánto cuesta el cuaderno?",
+"opciones": [
+"25 pesos",
+"10 pesos",
+"20 pesos"
+],
+"correcta": 2,
+"porque": "La diferencia, 20, es un cuaderno."
+}
+],
+"ecuaciones-lineales-una-incognita-preparatoria": [
+{
+"pregunta": "Resuelve $4x + 3 = 19$.",
+"opciones": [
+"$x = 16$",
+"$x = 5.5$",
+"$x = 4$"
+],
+"correcta": 2,
+"porque": "Restas 3 y divides entre 4."
+},
+{
+"pregunta": "Resuelve $7x - 5 = 4x + 10$.",
+"opciones": [
+"$x = 15$",
+"$x = 3$",
+"$x = 5$"
+],
+"correcta": 2,
+"porque": "Pasas $4x$ y 5: queda $3x = 15$."
+},
+{
+"pregunta": "Resuelve $\\frac{x}{4} + 1 = 5$.",
+"opciones": [
+"$x = 16$",
+"$x = 20$",
+"$x = 4$"
+],
+"correcta": 0,
+"porque": "Restas 1 y multiplicas por 4."
+},
+{
+"pregunta": "Cuatro boletos y 15 pesos de dulces cuestan 95 pesos. ¿Cuánto cuesta un boleto?",
+"opciones": [
+"80 pesos",
+"20 pesos",
+"25 pesos"
+],
+"correcta": 1,
+"porque": "Haces $4b + 15 = 95$, así que $b = 20$."
+},
+{
+"pregunta": "Si $5x = 40$, ¿qué haces para dejar sola a la $x$?",
+"opciones": [
+"Multiplicas por 5",
+"Divides entre 5",
+"Restas 5"
+],
+"correcta": 1,
+"porque": "Dividir deshace la multiplicación."
+}
+]
+}

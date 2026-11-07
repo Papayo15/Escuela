@@ -1,0 +1,522 @@
+{
+"aguas-continentales-oceanicas-secundaria": [
+{
+"pregunta": "Si toda el agua cupiera en una jarra, ¿cuánta sería el agua dulce para beber?",
+"opciones": [
+"Apenas unas gotas",
+"La mitad de la jarra",
+"Casi toda la jarra"
+],
+"correcta": 0,
+"porque": "El agua dulce disponible es muy poca frente al agua salada."
+},
+{
+"pregunta": "Hay un río cerca de tu escuela. ¿Qué tipo de agua es?",
+"opciones": [
+"Agua oceánica",
+"Agua de mar",
+"Agua continental"
+],
+"correcta": 2,
+"porque": "Los ríos, lagos y aguas bajo tierra son aguas continentales."
+},
+{
+"pregunta": "¿Dónde está casi toda el agua dulce del planeta?",
+"opciones": [
+"En los ríos",
+"En las nubes",
+"Congelada"
+],
+"correcta": 2,
+"porque": "Casi toda la dulce está congelada y no se puede beber fácil."
+},
+{
+"pregunta": "¿Qué mueve el agua entre mar, aire y tierra sin parar?",
+"opciones": [
+"El ciclo de la luna",
+"El ciclo del agua",
+"El ciclo de las rocas"
+],
+"correcta": 1,
+"porque": "El ciclo del agua la lleva de un lugar a otro todo el tiempo."
+},
+{
+"pregunta": "¿Qué influyen las corrientes del mar?",
+"opciones": [
+"El tamaño de las islas",
+"El clima de las costas",
+"El color de la arena"
+],
+"correcta": 1,
+"porque": "Las corrientes mueven el agua y el calor, y cambian el clima."
+}
+],
+"banderas-del-mundo-por-continente-secundaria": [
+{
+"pregunta": "¿Qué bandera tiene un círculo rojo en el centro?",
+"opciones": [
+"La de Canadá",
+"La de Japón",
+"La de Francia"
+],
+"correcta": 1,
+"porque": "La bandera de Japón es blanca con un círculo rojo."
+},
+{
+"pregunta": "México e Italia tienen verde, blanco y rojo. ¿Qué los distingue?",
+"opciones": [
+"El escudo de México",
+"El círculo de Italia",
+"La hoja de Italia"
+],
+"correcta": 0,
+"porque": "La bandera de México lleva escudo en medio."
+},
+{
+"pregunta": "¿Qué colores tiene la bandera de Francia?",
+"opciones": [
+"Verde, blanco y rojo",
+"Verde y amarillo",
+"Azul, blanco y rojo"
+],
+"correcta": 2,
+"porque": "Francia lleva franjas azul, blanca y roja."
+},
+{
+"pregunta": "¿Cómo es la bandera de Brasil?",
+"opciones": [
+"Verde con rombo amarillo",
+"Roja con círculo blanco",
+"Blanca con hoja de arce"
+],
+"correcta": 0,
+"porque": "Brasil es verde con un rombo amarillo."
+},
+{
+"pregunta": "Dibujarás banderas de tres continentes distintos. ¿Qué grupo sirve?",
+"opciones": [
+"Francia, Italia y Japón",
+"Japón, Canadá y Sudáfrica",
+"México, Brasil y Canadá"
+],
+"correcta": 1,
+"porque": "Japón es de Asia, Canadá de América y Sudáfrica de África."
+}
+],
+"bloques-economicos-y-organismos-internacionales-secundaria": [
+{
+"pregunta": "¿Qué países forman el T-MEC?",
+"opciones": [
+"Canadá, Francia e Italia",
+"México, Estados Unidos y Canadá",
+"México, Brasil y Chile"
+],
+"correcta": 1,
+"porque": "El T-MEC es un acuerdo de comercio entre esos tres países."
+},
+{
+"pregunta": "¿De qué se ocupa el FMI?",
+"opciones": [
+"De las finanzas",
+"De las escuelas",
+"Del deporte"
+],
+"correcta": 0,
+"porque": "El Fondo Monetario Internacional trabaja con temas de dinero."
+},
+{
+"pregunta": "¿En qué continente están los países de ASEAN?",
+"opciones": [
+"África",
+"Asia",
+"Europa"
+],
+"correcta": 1,
+"porque": "ASEAN es un bloque de países de Asia."
+},
+{
+"pregunta": "¿Qué es un bloque económico?",
+"opciones": [
+"Un grupo de escuelas de un país",
+"Una pared en la frontera",
+"Un acuerdo entre países para comerciar"
+],
+"correcta": 2,
+"porque": "Los países se juntan como un club para comerciar mejor."
+},
+{
+"pregunta": "Tu escuela compra libros de un país del T-MEC. ¿Cuál puede ser?",
+"opciones": [
+"Canadá",
+"Brasil",
+"Japón"
+],
+"correcta": 0,
+"porque": "Canadá es socio de México en el T-MEC."
+}
+],
+"capas-de-la-tierra-secundaria": [
+{
+"pregunta": "¿Cuál es la capa más delgada y sólida de la Tierra?",
+"opciones": [
+"El manto",
+"La corteza",
+"El núcleo"
+],
+"correcta": 1,
+"porque": "La corteza es la capa exterior, sólida y delgada."
+},
+{
+"pregunta": "¿Cómo es el núcleo externo?",
+"opciones": [
+"Sólido",
+"De aire",
+"Líquido"
+],
+"correcta": 2,
+"porque": "El núcleo externo es líquido y el interno es sólido."
+},
+{
+"pregunta": "¿Cómo es el manto?",
+"opciones": [
+"Roca caliente, en parte fundida",
+"Solo aire caliente",
+"Hielo muy duro"
+],
+"correcta": 0,
+"porque": "El manto es la capa más gruesa, de roca caliente."
+},
+{
+"pregunta": "En el modelo del huevo, ¿qué capa es como la yema?",
+"opciones": [
+"La corteza",
+"El núcleo",
+"El manto"
+],
+"correcta": 1,
+"porque": "La yema está al centro, igual que el núcleo."
+},
+{
+"pregunta": "Haces un modelo con plastilina de colores. ¿Cuántas capas principales pones?",
+"opciones": [
+"Cinco",
+"Dos",
+"Tres"
+],
+"correcta": 2,
+"porque": "La Tierra tiene corteza, manto y núcleo."
+}
+],
+"categorias-analisis-espacial-representaciones-secundaria": [
+{
+"pregunta": "En tu colonia, ¿qué categoría responde a \"¿qué se conecta con qué?\"",
+"opciones": [
+"Localización",
+"Relación",
+"Cambio"
+],
+"correcta": 1,
+"porque": "Relación une, por ejemplo, un río con la población cercana."
+},
+{
+"pregunta": "Las tiendas de tu colonia se juntan cerca de la entrada de la escuela. ¿Qué categoría es?",
+"opciones": [
+"Localización",
+"Distribución",
+"Diversidad"
+],
+"correcta": 1,
+"porque": "La distribución dice cómo se reparten las cosas en un lugar."
+},
+{
+"pregunta": "Antes había menos casas en tu colonia. ¿Qué categoría usas para decirlo?",
+"opciones": [
+"Distribución",
+"Relación",
+"Cambio"
+],
+"correcta": 2,
+"porque": "El cambio compara cómo era un lugar antes y cómo es ahora."
+},
+{
+"pregunta": "Comparas dos colonias: una tiene parques y la otra mercados. ¿Qué categoría usas?",
+"opciones": [
+"Diversidad",
+"Cambio",
+"Localización"
+],
+"correcta": 0,
+"porque": "La diversidad mira qué diferencias hay entre lugares."
+},
+{
+"pregunta": "¿Qué representación muestra tu escuela vista desde el espacio?",
+"opciones": [
+"Un croquis a mano",
+"Una tabla de datos",
+"Una imagen de satélite"
+],
+"correcta": 2,
+"porque": "Las imágenes de satélite muestran los lugares desde arriba."
+}
+],
+"ciclo-del-agua-secundaria": [
+{
+"pregunta": "¿Cómo se llama el paso en que el Sol convierte agua en vapor?",
+"opciones": [
+"Evaporación",
+"Precipitación",
+"Condensación"
+],
+"correcta": 0,
+"porque": "En la evaporación el agua líquida pasa a vapor por el calor."
+},
+{
+"pregunta": "Después de llover, el agua del patio entra a la tierra. ¿Cómo se llama?",
+"opciones": [
+"Infiltración",
+"Condensación",
+"Evaporación"
+],
+"correcta": 0,
+"porque": "La infiltración es cuando el agua se mete al suelo."
+},
+{
+"pregunta": "¿Qué paso sigue después de la evaporación?",
+"opciones": [
+"La precipitación",
+"La condensación",
+"La infiltración"
+],
+"correcta": 1,
+"porque": "El vapor sube, se enfría y forma nubes."
+},
+{
+"pregunta": "¿Cuál de estas cosas es precipitación?",
+"opciones": [
+"Sube vapor",
+"Se forma una nube",
+"Cae nieve"
+],
+"correcta": 2,
+"porque": "La precipitación es lluvia o nieve que cae."
+},
+{
+"pregunta": "¿Qué pasa con el agua al final del recorrido?",
+"opciones": [
+"Se queda en las nubes",
+"Vuelve al mar y empieza de nuevo",
+"Se acaba para siempre"
+],
+"correcta": 1,
+"porque": "El ciclo nunca termina: el agua da vueltas sin parar."
+}
+],
+"cinturon-de-fuego-del-pacifico-secundaria": [
+{
+"pregunta": "¿Por qué hay tantos volcanes y sismos en el Cinturón de Fuego?",
+"opciones": [
+"Hace mucho calor",
+"Hay muchos ríos",
+"Chocan placas tectónicas"
+],
+"correcta": 2,
+"porque": "El choque de placas causa sismos y hace salir volcanes."
+},
+{
+"pregunta": "¿Cuánto de los volcanes activos concentra el Cinturón de Fuego?",
+"opciones": [
+"Cerca del 20 %",
+"Cerca del 5 %",
+"Cerca del 75 %"
+],
+"correcta": 2,
+"porque": "Casi tres cuartas partes de los volcanes activos están ahí."
+},
+{
+"pregunta": "¿Cuál de estos países está en el Cinturón de Fuego?",
+"opciones": [
+"España",
+"Japón",
+"Egipto"
+],
+"correcta": 1,
+"porque": "Japón rodea el Pacífico, igual que Chile y México."
+},
+{
+"pregunta": "Hay un sismo bajo el mar cerca de la costa. ¿Qué ola gigante puede aparecer?",
+"opciones": [
+"Una marea suave",
+"Un tsunami",
+"Una ola de calor"
+],
+"correcta": 1,
+"porque": "Los tsunamis nacen de sismos bajo el mar."
+},
+{
+"pregunta": "Trazas el cinturón en un mapa de tu salón. ¿Qué forma dibujas?",
+"opciones": [
+"Una línea en el Atlántico",
+"Un círculo en el Ártico",
+"Un anillo alrededor del Pacífico"
+],
+"correcta": 2,
+"porque": "El cinturón rodea el océano Pacífico como un anillo."
+}
+],
+"ciudades-mas-pobladas-de-mexico-secundaria": [
+{
+"pregunta": "¿Qué zona metropolitana tiene más de 20 millones de personas?",
+"opciones": [
+"Guadalajara",
+"Monterrey",
+"El Valle de México"
+],
+"correcta": 2,
+"porque": "El Valle de México es la mayor zona del país."
+},
+{
+"pregunta": "¿Cuál de estas es una de las mayores zonas metropolitanas?",
+"opciones": [
+"Guadalajara",
+"Tapachula",
+"Chetumal"
+],
+"correcta": 0,
+"porque": "Guadalajara está entre las más pobladas del país."
+},
+{
+"pregunta": "Un municipio se junta con la ciudad grande y comparten calles. ¿Qué forman?",
+"opciones": [
+"Zona metropolitana",
+"Un desierto grande",
+"Una cuenca de agua"
+],
+"correcta": 0,
+"porque": "Una ciudad y sus municipios unidos forman una zona metropolitana."
+},
+{
+"pregunta": "Tardas dos horas en llegar a la escuela por mucho tráfico. ¿Qué problema es?",
+"opciones": [
+"Uno de las ciudades grandes",
+"Uno de los pueblos chicos",
+"Uno de los campos"
+],
+"correcta": 0,
+"porque": "El tráfico es un problema común en ciudades con mucha gente."
+},
+{
+"pregunta": "Muchas familias no encuentran una casa barata. ¿Qué problema es?",
+"opciones": [
+"Tráfico",
+"Vivienda",
+"Contaminación"
+],
+"correcta": 1,
+"porque": "La vivienda es uno de los problemas de las ciudades grandes."
+}
+],
+"climas-de-mexico-secundaria": [
+{
+"pregunta": "¿Qué clima hay en las selvas del sur de México?",
+"opciones": [
+"Frío de cumbres",
+"Seco del desierto",
+"Cálido húmedo"
+],
+"correcta": 2,
+"porque": "Las selvas del sur son calientes y con mucha lluvia."
+},
+{
+"pregunta": "¿Qué clima hay en muchas costas de México?",
+"opciones": [
+"Cálido subhúmedo",
+"Frío de cumbre",
+"Seco extremo"
+],
+"correcta": 0,
+"porque": "Las costas son cálidas y con lluvia en parte del año."
+},
+{
+"pregunta": "¿Qué clima hay en las cumbres más altas?",
+"opciones": [
+"Cálido húmedo",
+"Seco",
+"Frío"
+],
+"correcta": 2,
+"porque": "En las cumbres altas hace frío por la altitud."
+},
+{
+"pregunta": "Subes a una montaña muy alta y hace frío. ¿Qué factor influye?",
+"opciones": [
+"La altitud",
+"El color del suelo",
+"La latitud del mar"
+],
+"correcta": 0,
+"porque": "Mientras más alto estás, más baja la temperatura."
+},
+{
+"pregunta": "Hoy llovió en tu escuela. ¿Eso es clima o tiempo atmosférico?",
+"opciones": [
+"Clima",
+"Tiempo atmosférico",
+"Las dos cosas siempre"
+],
+"correcta": 1,
+"porque": "El clima es el promedio; la lluvia de hoy es el tiempo."
+}
+],
+"climas-del-mundo-secundaria": [
+{
+"pregunta": "¿Qué clima tiene Rusia, con gran variación entre estaciones?",
+"opciones": [
+"Tropical",
+"Polar",
+"Continental"
+],
+"correcta": 2,
+"porque": "El clima continental cambia mucho entre verano e invierno."
+},
+{
+"pregunta": "¿Qué clima es de mucho calor y lluvia?",
+"opciones": [
+"Seco",
+"Polar",
+"Tropical"
+],
+"correcta": 2,
+"porque": "El clima tropical es cálido y lluvioso, cerca del ecuador."
+},
+{
+"pregunta": "Un lugar casi no recibe lluvia, como el Sahara. ¿Qué clima es?",
+"opciones": [
+"Polar, con mucho frío",
+"Seco, de desierto",
+"Tropical, con lluvia"
+],
+"correcta": 1,
+"porque": "El clima seco casi no tiene lluvia."
+},
+{
+"pregunta": "¿Por qué hace frío en la cima de una montaña alta?",
+"opciones": [
+"Por el ecuador",
+"Por la altitud",
+"Por la lluvia"
+],
+"correcta": 1,
+"porque": "El clima de montaña es frío porque el lugar está muy alto."
+},
+{
+"pregunta": "Comparas tu clima con un lugar lejos del ecuador. ¿Qué esperas?",
+"opciones": [
+"Lo mismo siempre",
+"Más calor",
+"Más frío"
+],
+"correcta": 2,
+"porque": "Mientras más lejos del ecuador, más frío suele hacer."
+}
+]
+}

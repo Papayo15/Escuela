@@ -1,0 +1,522 @@
+{
+"trinomio-cuadrado-perfecto-prepa": [
+{
+"pregunta": "¿Cuál de estos es un trinomio cuadrado perfecto?",
+"opciones": [
+"$x^2 + 8x + 8$",
+"$x^2 + 8x + 16$",
+"$x^2 + 4x + 16$"
+],
+"correcta": 1,
+"porque": "Las raíces son $x$ y 4, y el doble es $8x$, que coincide."
+},
+{
+"pregunta": "Factoriza $y^2 - 10y + 25$.",
+"opciones": [
+"$(y + 5)^2$",
+"$(y - 25)^2$",
+"$(y - 5)^2$"
+],
+"correcta": 2,
+"porque": "Las raíces son $y$ y 5, y el signo del medio es resta."
+},
+{
+"pregunta": "¿Qué número falta en $x^2 + 12x + \\square$ para que sea cuadrado perfecto?",
+"opciones": [
+"24, el doble de 12",
+"36, porque $6^2$ es 36",
+"12, la mitad de 24"
+],
+"correcta": 1,
+"porque": "El doble de 6 es 12, y 6 al cuadrado es 36."
+},
+{
+"pregunta": "En $4a^2 + 20a + 25$, ¿cuál es el doble de las raíces $2a$ y 5?",
+"opciones": [
+"$20a$",
+"$7a$",
+"$10a$"
+],
+"correcta": 0,
+"porque": "Doble de $2a$ por 5 es $20a$, y es el término de en medio."
+},
+{
+"pregunta": "Dibujas un cuadrado de lado $x + 2$. ¿Cuál es su área total?",
+"opciones": [
+"$x^2 + 4x + 4$",
+"$x^2 + 2x + 4$",
+"$x^2 + 4$"
+],
+"correcta": 0,
+"porque": "Hay un cuadrado grande, dos rectángulos de $2x$ y un cuadrito de 4."
+}
+],
+"trinomio-x2-bx-c-prepa": [
+{
+"pregunta": "¿Qué dos números multiplican 18 y suman 9?",
+"opciones": [
+"1 y 18",
+"3 y 6",
+"2 y 9"
+],
+"correcta": 1,
+"porque": "3 por 6 es 18, y 3 más 6 es 9."
+},
+{
+"pregunta": "Factoriza $x^2 + 7x + 10$.",
+"opciones": [
+"$(x - 2)(x - 5)$",
+"$(x + 1)(x + 10)$",
+"$(x + 2)(x + 5)$"
+],
+"correcta": 2,
+"porque": "2 por 5 es 10, y 2 más 5 es 7."
+},
+{
+"pregunta": "Factoriza $x^2 - 3x - 10$.",
+"opciones": [
+"$(x + 5)(x - 2)$",
+"$(x - 5)(x - 2)$",
+"$(x - 5)(x + 2)$"
+],
+"correcta": 2,
+"porque": "$-5$ por 2 es $-10$, y $-5$ más 2 es $-3$."
+},
+{
+"pregunta": "En $x^2 - 8x + 15$, ¿qué signo llevan los dos números buscados?",
+"opciones": [
+"Uno de cada signo",
+"Los dos positivos",
+"Los dos negativos"
+],
+"correcta": 2,
+"porque": "El último es positivo, así que usan el signo del medio."
+},
+{
+"pregunta": "¿Cómo compruebas que $(x + 4)(x + 3)$ es $x^2 + 7x + 12$?",
+"opciones": [
+"Quitando los paréntesis",
+"Sumando solo los números",
+"Multiplicando los paréntesis"
+],
+"correcta": 2,
+"porque": "Al multiplicar debe regresar el trinomio de al inicio."
+}
+],
+"analisis-datos-estadistica-preparatoria": [
+{
+"pregunta": "Datos: 3, 6, 9. ¿Cuál es la media?",
+"opciones": [
+"9, el dato mayor",
+"18, solo la suma",
+"6, de sumar y dividir"
+],
+"correcta": 2,
+"porque": "Sumas 18 y divides entre 3 datos."
+},
+{
+"pregunta": "Tus calificaciones son 6, 8 y 10. ¿Cuál es el rango?",
+"opciones": [
+"4",
+"10",
+"8"
+],
+"correcta": 0,
+"porque": "El rango es el mayor menos el menor: 10 menos 6."
+},
+{
+"pregunta": "¿Qué mide la desviación estándar?",
+"opciones": [
+"Qué tan separados están los datos",
+"Cuál dato se repite más",
+"Cuál dato queda en medio"
+],
+"correcta": 0,
+"porque": "La variación dice qué tan separados están los datos."
+},
+{
+"pregunta": "¿Cuál de estas es una gráfica estadística?",
+"opciones": [
+"Tabla de multiplicar",
+"Gráfica de caja",
+"Regla de tres"
+],
+"correcta": 1,
+"porque": "Histograma, barras y caja son gráficas para datos."
+},
+{
+"pregunta": "El grupo A saca 8, 8, 8 y el B saca 6, 8, 10. ¿Cuál está más disperso?",
+"opciones": [
+"El grupo B",
+"Los dos igual",
+"El grupo A"
+],
+"correcta": 0,
+"porque": "En B los datos están más separados, y en A son iguales."
+}
+],
+"calcular-el-puntaje-z-prepa": [
+{
+"pregunta": "Si $x = 80$, $\\mu = 70$ y $\\sigma = 5$, ¿cuánto vale $z$?",
+"opciones": [
+"$z = 0.5$",
+"$z = 10$",
+"$z = 2$"
+],
+"correcta": 2,
+"porque": "Haces $\\frac{80 - 70}{5} = 2$."
+},
+{
+"pregunta": "Si $x = 45$, $\\mu = 50$ y $\\sigma = 5$, ¿cuánto vale $z$?",
+"opciones": [
+"$-1$",
+"1",
+"$-5$"
+],
+"correcta": 0,
+"porque": "Haces $\\frac{45 - 50}{5}$, y es negativo porque estás debajo."
+},
+{
+"pregunta": "Si $\\mu = 60$, $\\sigma = 4$ y $z = 2$, ¿cuánto vale $x$?",
+"opciones": [
+"62",
+"64",
+"68"
+],
+"correcta": 2,
+"porque": "Haces $60 + 2 \\cdot 4 = 68$."
+},
+{
+"pregunta": "¿Qué indica un puntaje $z = -2$?",
+"opciones": [
+"Dos escalones arriba del promedio",
+"Dos escalones debajo del promedio",
+"Justo en el promedio"
+],
+"correcta": 1,
+"porque": "El signo negativo dice que el dato está debajo del promedio."
+},
+{
+"pregunta": "¿Qué porcentaje de datos queda a menos de tres escalones del promedio?",
+"opciones": [
+"99.7 %",
+"95 %",
+"68 %"
+],
+"correcta": 0,
+"porque": "A tres escalones de cada lado queda casi todo, 99.7 %."
+}
+],
+"datos-agrupados-prepa": [
+{
+"pregunta": "¿Cuál es la marca de clase del intervalo de 30 a 50?",
+"opciones": [
+"40",
+"20",
+"80"
+],
+"correcta": 0,
+"porque": "La marca de clase es el punto medio del intervalo."
+},
+{
+"pregunta": "El rango es 50 y quieres 5 cajas. ¿Cuál es la amplitud?",
+"opciones": [
+"10",
+"5",
+"250"
+],
+"correcta": 0,
+"porque": "Se divide el rango entre las cajas: 50 entre 5."
+},
+{
+"pregunta": "¿Qué es la frecuencia $f$ de una caja?",
+"opciones": [
+"Cuántos datos hay en ella",
+"Cuál es su punto medio",
+"Cuánto mide de ancho"
+],
+"correcta": 0,
+"porque": "La frecuencia es la cuenta de datos en cada caja."
+},
+{
+"pregunta": "Dos datos tienen marca 10 y dos tienen marca 20. ¿Cuál es la media agrupada?",
+"opciones": [
+"30",
+"15",
+"60"
+],
+"correcta": 1,
+"porque": "Haces $\\frac{20 + 40}{4} = 15$."
+},
+{
+"pregunta": "Si agrupas edades en cajas de 10 años, ¿en cuál cae una persona de 34 años?",
+"opciones": [
+"De 30 a 40",
+"De 40 a 50",
+"De 20 a 30"
+],
+"correcta": 0,
+"porque": "El 34 está entre 30 y 40."
+}
+],
+"distribucion-normal-preparatoria": [
+{
+"pregunta": "¿Qué forma tiene la distribución normal?",
+"opciones": [
+"De línea recta",
+"De escalera",
+"De campana"
+],
+"correcta": 2,
+"porque": "Casi todos quedan cerca del promedio, y eso forma una campana."
+},
+{
+"pregunta": "Con $\\mu = 50$ y $\\sigma = 10$, ¿qué porcentaje queda entre 40 y 60?",
+"opciones": [
+"95 %",
+"68 %",
+"99.7 %"
+],
+"correcta": 1,
+"porque": "De 40 a 60 es un escalón hacia cada lado, y eso es 68 %."
+},
+{
+"pregunta": "¿Qué porcentaje queda arriba de dos escalones sobre el promedio?",
+"opciones": [
+"2.5 %",
+"5 %",
+"95 %"
+],
+"correcta": 0,
+"porque": "Fuera de dos escalones queda 5 %, y se reparte en dos lados."
+},
+{
+"pregunta": "En las estaturas de tu salón, ¿dónde queda la mayoría de los datos?",
+"opciones": [
+"En los extremos",
+"Cerca del promedio",
+"Lejos del promedio"
+],
+"correcta": 1,
+"porque": "En una campana, pocos son muy altos o muy bajos."
+},
+{
+"pregunta": "Con $\\mu = 80$, $\\sigma = 4$ y $x = 88$, ¿cuánto vale $z$?",
+"opciones": [
+"2",
+"0.5",
+"8"
+],
+"correcta": 0,
+"porque": "Haces $\\frac{88 - 80}{4} = 2$."
+}
+],
+"eventos-aleatorios-simulacion-preparatoria": [
+{
+"pregunta": "¿Cuál de estos es un fenómeno aleatorio?",
+"opciones": [
+"Sumar cinco más tres",
+"Restar cuatro a diez",
+"Sacar un número al tirar un dado"
+],
+"correcta": 2,
+"porque": "En un fenómeno aleatorio el resultado puede variar."
+},
+{
+"pregunta": "En una moneda tiras 25 veces y salen 10 águilas. ¿Cuál es $f_r$?",
+"opciones": [
+"$\\frac{15}{25}$",
+"$\\frac{10}{25}$",
+"$\\frac{25}{10}$"
+],
+"correcta": 1,
+"porque": "Son las veces que pasó entre las veces que probaste."
+},
+{
+"pregunta": "¿Qué pasa con la frecuencia al hacer muchas repeticiones?",
+"opciones": [
+"Se aleja de la teórica",
+"Siempre sale igual",
+"Se acerca a la teórica"
+],
+"correcta": 2,
+"porque": "Con muchos tiros, la frecuencia se acerca a lo esperado."
+},
+{
+"pregunta": "¿Cuál es la probabilidad teórica de sacar 3 en un dado?",
+"opciones": [
+"$\\frac{3}{6}$",
+"$\\frac{1}{6}$",
+"$\\frac{1}{3}$"
+],
+"correcta": 1,
+"porque": "Una cara de las seis es el 3."
+},
+{
+"pregunta": "¿Qué es una simulación?",
+"opciones": [
+"Repetir muchas veces y observar",
+"Adivinar sin probar nada",
+"Hacer un solo intento y parar"
+],
+"correcta": 0,
+"porque": "Se repite muchas veces para ver qué pasa."
+}
+],
+"muestreo-aleatorio-preparatoria": [
+{
+"pregunta": "Hay 500 alumnos y quieres una muestra sistemática de 25. ¿Cada cuántos eliges?",
+"opciones": [
+"475",
+"20",
+"25"
+],
+"correcta": 1,
+"porque": "Divides el total entre la muestra: 500 entre 25."
+},
+{
+"pregunta": "¿Qué es la población en un estudio?",
+"opciones": [
+"Todos los que quieres conocer",
+"Solo la parte que elegiste",
+"Los amigos de quien pregunta"
+],
+"correcta": 0,
+"porque": "La población son todos, y la muestra es una parte."
+},
+{
+"pregunta": "Preguntas sobre deporte favorito solo a la banda de música. ¿Qué problema hay?",
+"opciones": [
+"No hay problema, porque es parejo",
+"Hay sesgo, porque dejas fuera a otros",
+"La muestra es demasiado grande"
+],
+"correcta": 1,
+"porque": "Dejaste fuera a una parte del grupo."
+},
+{
+"pregunta": "¿Cuál tipo de muestreo es un sorteo?",
+"opciones": [
+"El estratificado",
+"El sistemático",
+"El simple"
+],
+"correcta": 2,
+"porque": "En el simple todos entran a un sorteo, como con papelitos."
+},
+{
+"pregunta": "Hay 300 de primero y 200 de segundo, y haces una muestra estratificada de 50. ¿Cuántos son de primero?",
+"opciones": [
+"25",
+"50",
+"30"
+],
+"correcta": 2,
+"porque": "Primero es 60 % del total, y 60 % de 50 es 30."
+}
+],
+"probabilidad-condicional-prepa": [
+{
+"pregunta": "Si $P(A \\text{ y } B) = 0.15$ y $P(B) = 0.5$, ¿cuánto vale $P(A|B)$?",
+"opciones": [
+"0.3",
+"0.65",
+"0.075"
+],
+"correcta": 0,
+"porque": "Divides $\\frac{0.15}{0.5} = 0.3$."
+},
+{
+"pregunta": "Sabes que un dado salió par. ¿Cuál es la probabilidad de que sea 4?",
+"opciones": [
+"$\\frac{1}{3}$",
+"$\\frac{1}{6}$",
+"$\\frac{1}{2}$"
+],
+"correcta": 0,
+"porque": "Solo quedan 2, 4 y 6, y el 4 es uno de tres."
+},
+{
+"pregunta": "De 20 alumnos que leyeron, 15 aprobaron. ¿Cuál es $P(\\text{aprobó}|\\text{leyó})$?",
+"opciones": [
+"0.25",
+"0.15",
+"0.75"
+],
+"correcta": 2,
+"porque": "Solo cuentas a los que leyeron: $\\frac{15}{20}$."
+},
+{
+"pregunta": "¿Qué significa $P(A|B)$?",
+"opciones": [
+"Probabilidad de A sabiendo que pasó B",
+"Probabilidad de que no pase A",
+"Probabilidad de B sabiendo que pasó A"
+],
+"correcta": 0,
+"porque": "La raya se lee como sabiendo que ya pasó."
+},
+{
+"pregunta": "Sabes que un dado salió mayor que 4. ¿Cuál es la probabilidad de que sea 6?",
+"opciones": [
+"$\\frac{1}{3}$",
+"$\\frac{1}{6}$",
+"$\\frac{1}{2}$"
+],
+"correcta": 2,
+"porque": "Solo quedan 5 y 6, y el 6 es uno de dos."
+}
+],
+"probabilidad-conteo-preparatoria": [
+{
+"pregunta": "Una bolsa tiene 2 dulces rojos y 3 verdes. ¿Cuál es la probabilidad de sacar rojo?",
+"opciones": [
+"$\\frac{2}{5}$",
+"$\\frac{2}{3}$",
+"$\\frac{3}{5}$"
+],
+"correcta": 0,
+"porque": "Hay 2 favorables entre 5 posibles."
+},
+{
+"pregunta": "Lanzas dos monedas. ¿Cuántos resultados posibles hay?",
+"opciones": [
+"4",
+"6",
+"2"
+],
+"correcta": 0,
+"porque": "Son $2 \\cdot 2 = 4$: AA, AS, SA y SS."
+},
+{
+"pregunta": "¿De cuántas formas puedes formar en fila a 3 amigos?",
+"opciones": [
+"6",
+"9",
+"3"
+],
+"correcta": 0,
+"porque": "Importa el orden, así que $3! = 6$."
+},
+{
+"pregunta": "De 3 niños eliges 2 para un equipo. ¿Cuántos equipos distintos hay?",
+"opciones": [
+"3",
+"6",
+"2"
+],
+"correcta": 0,
+"porque": "Aquí no importa el orden: AB, AC y BC."
+},
+{
+"pregunta": "Con dos dados, ¿cuál es la probabilidad de que sumen 5?",
+"opciones": [
+"$\\frac{5}{36}$",
+"$\\frac{4}{36}$",
+"$\\frac{4}{6}$"
+],
+"correcta": 1,
+"porque": "Sale de 4 formas: 1 y 4, 2 y 3, 3 y 2, 4 y 1."
+}
+]
+}

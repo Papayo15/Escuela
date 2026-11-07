@@ -1,0 +1,522 @@
+{
+"movimiento-rectilineo-uniforme-prepa": [
+{
+"pregunta": "Un niño sale de 60 m con $v = -6$ m/s. ¿Cuándo llega a $x = 0$?",
+"opciones": [
+"A los 10 segundos",
+"A los 360 segundos",
+"A los 54 segundos"
+],
+"correcta": 0,
+"porque": "Se divide $60 \\div 6 = 10$ s; el signo menos solo dice que regresa."
+},
+{
+"pregunta": "Dos amigos a 200 m se acercan a 3 m/s y 5 m/s. ¿Cuándo se encuentran?",
+"opciones": [
+"A los 100 segundos",
+"A los 40 segundos",
+"A los 25 segundos"
+],
+"correcta": 2,
+"porque": "Suma las velocidades, $3 + 5 = 8$, y divide: $200 \\div 8 = 25$ s."
+},
+{
+"pregunta": "Un coche va a 54 km/h. ¿Cuánto es en m/s?",
+"opciones": [
+"150 m/s",
+"15 m/s",
+"54 m/s"
+],
+"correcta": 1,
+"porque": "De km/h a m/s se divide entre 3.6: $54 \\div 3.6 = 15$."
+},
+{
+"pregunta": "Si la velocidad es constante, ¿cómo se ve la gráfica de $x$ contra $t$?",
+"opciones": [
+"Como un círculo cerrado",
+"Como una curva que sube más",
+"Como una recta inclinada"
+],
+"correcta": 2,
+"porque": "Con velocidad constante, la posición crece parejo y forma una recta."
+},
+{
+"pregunta": "Si vas de regreso por la línea, ¿cómo es tu velocidad?",
+"opciones": [
+"Positiva, porque vuelves",
+"Cero, porque ya no avanzas",
+"Negativa, porque vuelves"
+],
+"correcta": 2,
+"porque": "En este tema, regresar se marca con velocidad negativa."
+}
+],
+"movimiento-uniformemente-acelerado-prepa": [
+{
+"pregunta": "Con $v_0 = 4$ m/s y $a = 3$ m/s², ¿cuánto vale $v$ a los 5 s?",
+"opciones": [
+"12 m/s",
+"60 m/s",
+"19 m/s"
+],
+"correcta": 2,
+"porque": "$v = v_0 + at = 4 + 3 \\times 5 = 19$ m/s."
+},
+{
+"pregunta": "Del reposo con $a = 2$ m/s², ¿cuánto avanza en 6 s?",
+"opciones": [
+"12 m",
+"36 m",
+"72 m"
+],
+"correcta": 1,
+"porque": "$\\Delta x = \\frac{1}{2} \\times 2 \\times 36 = 36$ m."
+},
+{
+"pregunta": "Una moto a 20 m/s frena con $-4$ m/s². ¿Cuánto tarda en parar?",
+"opciones": [
+"5 segundos",
+"16 segundos",
+"80 segundos"
+],
+"correcta": 0,
+"porque": "Se divide $20 \\div 4 = 5$ s."
+},
+{
+"pregunta": "¿Qué distancia recorre esa moto al frenar de 20 m/s con $-4$ m/s²?",
+"opciones": [
+"100 m",
+"50 m",
+"80 m"
+],
+"correcta": 1,
+"porque": "$\\Delta x = \\frac{400}{8} = 50$ m."
+},
+{
+"pregunta": "¿Cuándo conviene usar $v^2 = v_0^2 + 2a\\Delta x$?",
+"opciones": [
+"Cuando te falta el dato de la distancia",
+"Cuando te falta el dato del tiempo",
+"Cuando te falta el dato de la aceleración"
+],
+"correcta": 1,
+"porque": "Esa ecuación no lleva $t$, así que sirve si no conoces el tiempo."
+}
+],
+"primera-ley-termodinamica-gas-ideal": [
+{
+"pregunta": "Un gas recibe 300 J de calor y hace 120 J de trabajo. ¿Cuánto cambia su energía?",
+"opciones": [
+"Sube 420 J",
+"Baja 180 J",
+"Sube 180 J"
+],
+"correcta": 2,
+"porque": "$\\Delta U = Q - W = 300 - 120 = 180$ J."
+},
+{
+"pregunta": "Un gas sin calor ($Q = 0$) hace 50 J de trabajo. ¿Cuánto vale $\\Delta U$?",
+"opciones": [
+"$+50$ J, y se calienta mucho",
+"$0$ J, y sigue igual que antes",
+"$-50$ J, y se enfría"
+],
+"correcta": 2,
+"porque": "Si trabaja sin recibir calor, gasta su propia energía y se enfría."
+},
+{
+"pregunta": "Un gas mantiene su temperatura y absorbe 250 J. ¿Cuánto trabajo hace?",
+"opciones": [
+"250 J, porque $\\Delta U = 0$",
+"500 J, porque $\\Delta U = 0$",
+"0 J, porque $\\Delta U = 0$"
+],
+"correcta": 0,
+"porque": "Con la misma temperatura, todo el calor que entra sale como trabajo."
+},
+{
+"pregunta": "Un gas recibe 100 J de calor y sobre él se hacen 40 J de trabajo. ¿Cuánto vale $\\Delta U$?",
+"opciones": [
+"4000 J",
+"140 J",
+"60 J"
+],
+"correcta": 1,
+"porque": "Si le hacen trabajo, $W$ es negativo y suma: $100 - (-40) = 140$."
+},
+{
+"pregunta": "En $PV = nRT$, ¿en qué unidad va la temperatura?",
+"opciones": [
+"En grados Celsius",
+"En kelvin",
+"En grados Fahrenheit"
+],
+"correcta": 1,
+"porque": "La ecuación del gas ideal siempre usa la temperatura en kelvin."
+}
+],
+"propagacion-del-calor-conduccion-conveccion-radiacion": [
+{
+"pregunta": "Dejas una cuchara en la sopa y el mango se calienta. ¿Qué forma de propagación es?",
+"opciones": [
+"Conducción, por contacto",
+"Convección, por corrientes",
+"Radiación, por ondas"
+],
+"correcta": 0,
+"porque": "El calor pasa partícula a partícula por el metal, y eso es conducción."
+},
+{
+"pregunta": "El agua de una olla hirviendo da vueltas. ¿Qué forma de propagación es?",
+"opciones": [
+"Conducción, por contacto",
+"Convección, por corrientes",
+"Radiación, por ondas"
+],
+"correcta": 1,
+"porque": "El agua caliente sube y la fría baja: así se forman corrientes."
+},
+{
+"pregunta": "¿Qué forma de propagación viaja sin necesitar materia?",
+"opciones": [
+"La convección",
+"La radiación",
+"La conducción"
+],
+"correcta": 1,
+"porque": "La radiación viaja en ondas y puede cruzar el vacío."
+},
+{
+"pregunta": "¿Qué pasa con el aire frío de un cuarto?",
+"opciones": [
+"Pesa menos y sube",
+"Se queda quieto",
+"Pesa más y baja"
+],
+"correcta": 2,
+"porque": "El aire frío pesa más y baja, por eso el aire acondicionado va arriba."
+},
+{
+"pregunta": "¿Cuál cuchara conduce peor el calor?",
+"opciones": [
+"La cuchara de aluminio nueva",
+"La cuchara de madera",
+"La cuchara de metal brillante"
+],
+"correcta": 1,
+"porque": "La madera es aislante y conduce mal el calor."
+}
+],
+"suma-de-vectores-por-componentes-prepa": [
+{
+"pregunta": "Suma $(1, 4)$ y $(5, 2)$.",
+"opciones": [
+"$(5, 8)$",
+"$(4, 2)$",
+"$(6, 6)$"
+],
+"correcta": 2,
+"porque": "Suma $x$ con $x$ y $y$ con $y$: $1 + 5 = 6$ y $4 + 2 = 6$."
+},
+{
+"pregunta": "Suma $(7, -3)$ y $(-2, 5)$.",
+"opciones": [
+"$(5, 2)$",
+"$(5, -8)$",
+"$(9, 2)$"
+],
+"correcta": 0,
+"porque": "Suma cada columna: $7 - 2 = 5$ y $-3 + 5 = 2$."
+},
+{
+"pregunta": "Halla la magnitud de $(9, 12)$.",
+"opciones": [
+"21",
+"3",
+"15"
+],
+"correcta": 2,
+"porque": "$\\sqrt{81 + 144} = \\sqrt{225} = 15$."
+},
+{
+"pregunta": "Caminas 8 pasos al este y 6 al norte. ¿Cuánto mide el tamaño final?",
+"opciones": [
+"2 pasos",
+"10 pasos",
+"14 pasos"
+],
+"correcta": 1,
+"porque": "$\\sqrt{64 + 36} = \\sqrt{100} = 10$ pasos."
+},
+{
+"pregunta": "¿Cómo se suman dos vectores por componentes?",
+"opciones": [
+"Suma las $x$ con las $x$ y las $y$ con las $y$",
+"Multiplica las $x$ por las $y$ de cada vector",
+"Suma las $x$ con las $y$ de cada vector"
+],
+"correcta": 0,
+"porque": "Cada columna se suma por separado, y luego se usa Pitágoras."
+}
+],
+"tipos-de-energia-y-aplicaciones-tecnologicas": [
+{
+"pregunta": "Calcula la energía cinética de 6 kg que van a 2 m/s.",
+"opciones": [
+"24 J",
+"6 J",
+"12 J"
+],
+"correcta": 2,
+"porque": "$E_c = \\frac{1}{2} \\times 6 \\times 4 = 12$ J."
+},
+{
+"pregunta": "Calcula la energía potencial de 4 kg a 3 m de altura, con $g = 10$.",
+"opciones": [
+"60 J",
+"120 J",
+"12 J"
+],
+"correcta": 1,
+"porque": "$E_p = mgh = 4 \\times 10 \\times 3 = 120$ J."
+},
+{
+"pregunta": "En una presa se genera electricidad. ¿Cuál es la cadena de energía?",
+"opciones": [
+"Química, luego calor, luego luz y sonido",
+"Luz, luego electricidad, luego calor y sonido",
+"Altura, luego movimiento, luego electricidad"
+],
+"correcta": 2,
+"porque": "El agua alta cae, mueve la turbina y se produce electricidad."
+},
+{
+"pregunta": "¿Qué tipo de energía usa tu cuerpo de la comida?",
+"opciones": [
+"Química",
+"Luminosa",
+"Nuclear"
+],
+"correcta": 0,
+"porque": "Los alimentos guardan energía química que tu cuerpo aprovecha."
+},
+{
+"pregunta": "¿Cuál es la cadena de energía de una linterna?",
+"opciones": [
+"Calor, luego luz, luego química y también sonido",
+"Luz, luego eléctrica, luego química y calor",
+"Química, luego eléctrica, luego luz y calor"
+],
+"correcta": 2,
+"porque": "La pila guarda energía química y la convierte en electricidad, luz y calor."
+}
+],
+"tiro-parabolico-prepa": [
+{
+"pregunta": "Con $v_0 = 20$ m/s a $30°$, calcula $v_{0y}$.",
+"opciones": [
+"5 m/s",
+"10 m/s",
+"20 m/s"
+],
+"correcta": 1,
+"porque": "$v_{0y} = v_0 \\sin\\theta = 20 \\times 0.5 = 10$ m/s."
+},
+{
+"pregunta": "Con 40 m/s a $30°$ y $g = 10$, ¿cuánto tiempo está en el aire?",
+"opciones": [
+"2 segundos",
+"4 segundos",
+"8 segundos"
+],
+"correcta": 1,
+"porque": "$t = \\frac{2 \\times 40 \\times 0.5}{10} = 4$ s."
+},
+{
+"pregunta": "Con $v_0 = 30$ m/s a $45°$ y $g = 10$, calcula el alcance.",
+"opciones": [
+"90 m",
+"900 m",
+"9 m"
+],
+"correcta": 0,
+"porque": "$R = \\frac{900 \\times 1}{10} = 90$ m."
+},
+{
+"pregunta": "¿Cómo avanza un balón hacia adelante, sin aire?",
+"opciones": [
+"Cada vez más rápido",
+"Cada vez más lento",
+"Parejo, porque nada lo frena"
+],
+"correcta": 2,
+"porque": "Hacia adelante no hay aceleración, así que la velocidad es pareja."
+},
+{
+"pregunta": "Lanzas con la misma rapidez a $30°$ y a $45°$. ¿Cuál llega más lejos?",
+"opciones": [
+"Llegan igual",
+"El de $45°$",
+"El de $30°$"
+],
+"correcta": 1,
+"porque": "El mayor alcance se logra a $45°$."
+}
+],
+"tiro-vertical-prepa": [
+{
+"pregunta": "Se lanza a 39.2 m/s con $g = 9.8$. ¿Cuánto tarda en llegar arriba?",
+"opciones": [
+"4 segundos",
+"8 segundos",
+"2 segundos"
+],
+"correcta": 0,
+"porque": "$t = \\frac{v_0}{g} = \\frac{39.2}{9.8} = 4$ s."
+},
+{
+"pregunta": "Con $v_0 = 14.7$ m/s y $g = 9.8$, ¿cuál es el tiempo de vuelo?",
+"opciones": [
+"6 segundos",
+"3 segundos",
+"1.5 segundos"
+],
+"correcta": 1,
+"porque": "Son $t_v = \\frac{2 \\times 14.7}{9.8} = 3$ s."
+},
+{
+"pregunta": "Con $v_0 = 39.2$ m/s y $g = 9.8$, ¿cuál es la altura máxima?",
+"opciones": [
+"156.8 m",
+"39.2 m",
+"78.4 m"
+],
+"correcta": 2,
+"porque": "$h = \\frac{39.2^2}{2 \\times 9.8} = 78.4$ m."
+},
+{
+"pregunta": "¿Cuánto vale la velocidad en el punto más alto?",
+"opciones": [
+"9.8 m/s hacia arriba",
+"La misma que al lanzar",
+"Cero, por un instante"
+],
+"correcta": 2,
+"porque": "Arriba se detiene un instante antes de regresar."
+},
+{
+"pregunta": "¿Cuánta velocidad pierde la pelota cada segundo al subir?",
+"opciones": [
+"0.98 m/s de velocidad",
+"9.8 m de altura",
+"9.8 m/s de velocidad"
+],
+"correcta": 2,
+"porque": "La gravedad le quita 9.8 m/s cada segundo."
+}
+],
+"trabajo-mecanico-y-calor-termodinamica": [
+{
+"pregunta": "Convierte 209 J a calorías.",
+"opciones": [
+"874 cal",
+"50 cal",
+"5 cal"
+],
+"correcta": 1,
+"porque": "De joules a calorías se divide entre 4.18: $209 \\div 4.18 = 50$."
+},
+{
+"pregunta": "Convierte 20 cal a joules.",
+"opciones": [
+"836 J",
+"4.78 J",
+"83.6 J"
+],
+"correcta": 2,
+"porque": "De calorías a joules se multiplica por 4.18: $20 \\times 4.18 = 83.6$."
+},
+{
+"pregunta": "Una fuerza de 40 N mueve una caja 5 m. ¿Cuánto trabajo hace?",
+"opciones": [
+"45 J",
+"8 J",
+"200 J"
+],
+"correcta": 2,
+"porque": "El trabajo es fuerza por distancia: $40 \\times 5 = 200$ J."
+},
+{
+"pregunta": "Frotas tus manos y se calientan. ¿Qué pasó con tu trabajo?",
+"opciones": [
+"Se volvió frío",
+"Se volvió calor",
+"Desapareció"
+],
+"correcta": 1,
+"porque": "El trabajo de frotar se transfiere como calor."
+},
+{
+"pregunta": "¿Qué demostró Joule al agitar agua?",
+"opciones": [
+"Que agitarla la calienta",
+"Que agitarla la enfría mucho",
+"Que agitarla no cambia nada"
+],
+"correcta": 0,
+"porque": "Joule mostró que el trabajo se convierte en calor."
+}
+],
+"trabajo-y-potencia-prepa": [
+{
+"pregunta": "Calcula $W$ con $F = 30$ N, $d = 10$ m y $\\theta = 0°$.",
+"opciones": [
+"150 J",
+"300 J",
+"40 J"
+],
+"correcta": 1,
+"porque": "Con $0°$ todo sirve: $30 \\times 10 \\times 1 = 300$ J."
+},
+{
+"pregunta": "Calcula $W$ con $F = 100$ N, $d = 4$ m y $\\theta = 60°$.",
+"opciones": [
+"200 J",
+"400 J",
+"25 J"
+],
+"correcta": 0,
+"porque": "$100 \\times 4 \\times 0.5 = 200$ J."
+},
+{
+"pregunta": "¿Cuál es la potencia para hacer 900 J en 30 s?",
+"opciones": [
+"0.03 W",
+"270 W",
+"30 W"
+],
+"correcta": 2,
+"porque": "Potencia es trabajo entre tiempo: $900 \\div 30 = 30$ W."
+},
+{
+"pregunta": "Cargas una mochila y caminas recto. La fuerza va hacia arriba. ¿Cuánto trabajo haces al avanzar?",
+"opciones": [
+"Negativo, porque la mochila es pesada",
+"Cero, porque forman $90°$",
+"Mucho, porque cargas todo ese peso"
+],
+"correcta": 1,
+"porque": "Con $90°$ el número es 0, así que la fuerza no hace trabajo."
+},
+{
+"pregunta": "Calcula $P$ con $F = 100$ N a 4 m/s.",
+"opciones": [
+"400 W",
+"25 W",
+"104 W"
+],
+"correcta": 0,
+"porque": "Potencia es $P = Fv = 100 \\times 4 = 400$ W."
+}
+]
+}

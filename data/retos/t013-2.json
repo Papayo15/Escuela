@@ -1,0 +1,522 @@
+{
+"democracia-mexico-primaria": [
+{
+"pregunta": "¿Quién organiza las elecciones en México?",
+"opciones": [
+"La directora de tu propia escuela",
+"El INE, el instituto de elecciones",
+"Una tienda de la esquina de tu casa"
+],
+"correcta": 1,
+"porque": "El INE organiza las elecciones."
+},
+{
+"pregunta": "¿Cómo es el voto en México?",
+"opciones": [
+"Libre y secreto, sin presiones",
+"Solo para quien tenga más dinero",
+"Obligatorio y a la vista de todos"
+],
+"correcta": 0,
+"porque": "El voto es libre y secreto."
+},
+{
+"pregunta": "En democracia, ¿de quién viene el poder?",
+"opciones": [
+"De una sola persona que manda siempre",
+"Del pueblo, que elige con su voto",
+"De los más ricos del país entero"
+],
+"correcta": 1,
+"porque": "En democracia el poder viene del pueblo."
+},
+{
+"pregunta": "Tu grupo elige a su jefe de grupo. ¿Cuántos votos tiene cada alumno?",
+"opciones": [
+"Dos, si es el más grande del grupo",
+"Uno solo, igual que los demás",
+"Ninguno, lo decide la maestra"
+],
+"correcta": 1,
+"porque": "Es un voto por persona, y todos valen lo mismo."
+},
+{
+"pregunta": "¿Qué hace el pueblo en una democracia?",
+"opciones": [
+"Se queda callado en las elecciones",
+"Elige a sus gobernantes",
+"Obedece sin opinar nunca"
+],
+"correcta": 1,
+"porque": "Participar con el voto es la base de la democracia."
+}
+],
+"derecho-ambiente-sano-agua-primaria": [
+{
+"pregunta": "¿Qué es agua potable?",
+"opciones": [
+"Agua que se puede beber sin riesgo",
+"Agua que solo sirve para regar las plantas",
+"Agua sucia de un charco cerca de tu casa"
+],
+"correcta": 0,
+"porque": "Potable es la que no te enferma al tomarla."
+},
+{
+"pregunta": "¿Qué derecho tenemos sobre el ambiente?",
+"opciones": [
+"Usar todo el agua sin pensar",
+"Vivir en un ambiente sano",
+"Tirar basura donde queramos"
+],
+"correcta": 1,
+"porque": "Toda persona tiene derecho a un ambiente sano."
+},
+{
+"pregunta": "En casa, ¿cómo ahorras agua?",
+"opciones": [
+"Cerrando la llave al lavarte los dientes",
+"Lavando el coche cada día con cubetas llenas",
+"Dejando la manguera abierta toda la tarde"
+],
+"correcta": 0,
+"porque": "Cerrar la llave evita desperdiciar agua."
+},
+{
+"pregunta": "Además del derecho, ¿qué nos toca hacer?",
+"opciones": [
+"Ensuciar para que otros limpien",
+"Cuidar el agua y el aire",
+"Esperar a que otros los cuiden"
+],
+"correcta": 1,
+"porque": "Los derechos van acompañados de cuidado."
+},
+{
+"pregunta": "Un vecino tira aceite en el drenaje del arroyo. ¿Qué se daña?",
+"opciones": [
+"El agua limpia",
+"Nada, porque el aceite desaparece",
+"Solo la ropa del vecino"
+],
+"correcta": 0,
+"porque": "El aceite contamina y afecta el derecho a un agua sana."
+}
+],
+"emiliano-zapata-y-el-plan-de-ayala-primaria": [
+{
+"pregunta": "¿Quién fue Emiliano Zapata?",
+"opciones": [
+"Líder campesino del sur",
+"Un presidente de México muy rico",
+"Un rey de España que llegó en barco"
+],
+"correcta": 0,
+"porque": "Zapata encabezó a los campesinos de Morelos y el sur."
+},
+{
+"pregunta": "¿Qué quería lograr Zapata?",
+"opciones": [
+"Más impuestos para los campesinos",
+"Un imperio nuevo en México",
+"Tierras para los pueblos"
+],
+"correcta": 2,
+"porque": "Pedía devolver la tierra a los pueblos."
+},
+{
+"pregunta": "¿Cómo se llamó su ejército?",
+"opciones": [
+"Ejército Libertador del Sur",
+"Ejército Imperial de Francia",
+"División del Norte, con Villa"
+],
+"correcta": 0,
+"porque": "Fue el Ejército Libertador del Sur."
+},
+{
+"pregunta": "En 1911 Zapata publicó...",
+"opciones": [
+"El Plan de Ayala",
+"La Constitución de 1917 completa",
+"El Plan de San Luis"
+],
+"correcta": 0,
+"porque": "El Plan de Ayala exigía devolver las tierras."
+},
+{
+"pregunta": "Si a un grupo le quitan sus tierras de siembra, ¿qué frase de Zapata se parece?",
+"opciones": [
+"La tierra es de quien más dinero tenga",
+"La tierra es de quien la trabaja",
+"Las tierras no sirven para nada"
+],
+"correcta": 1,
+"porque": "Zapata creía que quien trabaja la tierra debe tenerla."
+}
+],
+"estilos-vida-desarrollo-biodiversidad-primaria": [
+{
+"pregunta": "¿Qué pasa si compramos mucho de todo?",
+"opciones": [
+"Se produce más basura",
+"Se acaba la basura del mundo",
+"Las plantas crecen más rápido siempre"
+],
+"correcta": 0,
+"porque": "Comprar de más llena todo de desechos."
+},
+{
+"pregunta": "¿Qué es la deforestación?",
+"opciones": [
+"Talar muchos árboles",
+"Regar plantas en macetas",
+"Sembrar un bosque muy grande"
+],
+"correcta": 0,
+"porque": "Al talar, muchos animales pierden su casa."
+},
+{
+"pregunta": "Tu familia quiere cuidar el planeta. ¿Qué cambio pequeño ayuda?",
+"opciones": [
+"Comprar cosas que no necesitan",
+"Llevar bolsa de tela al mercado",
+"Usar una bolsa nueva de plástico cada vez"
+],
+"correcta": 1,
+"porque": "Una bolsa reutilizable evita basura."
+},
+{
+"pregunta": "¿Qué afecta nuestra forma de vivir?",
+"opciones": [
+"A nadie, porque es algo privado",
+"A los seres vivos",
+"Solo a los seres humanos de la ciudad"
+],
+"correcta": 1,
+"porque": "Nuestros hábitos cambian el lugar donde viven plantas y animales."
+},
+{
+"pregunta": "Un árbol cae en el bosque y un nido se queda sin hogar. Esto muestra que...",
+"opciones": [
+"Talar daña la biodiversidad",
+"Los pájaros no necesitan árboles",
+"Talar ayuda a los animales"
+],
+"correcta": 0,
+"porque": "Perder árboles hace que las especies pierdan su hogar."
+}
+],
+"etapas-de-la-revolucion-mexicana-primaria": [
+{
+"pregunta": "¿En qué año comenzó la Revolución Mexicana?",
+"opciones": [
+"1910",
+"1917, cuando se escribió la Constitución",
+"1810"
+],
+"correcta": 0,
+"porque": "La Revolución inició en 1910 contra Porfirio Díaz."
+},
+{
+"pregunta": "¿Quién fue presidente después de que cayó Díaz?",
+"opciones": [
+"Victoriano Huerta, desde el primer día",
+"Francisco I. Madero",
+"Benito Juárez, que gobernó antes"
+],
+"correcta": 1,
+"porque": "Madero llegó a la presidencia en 1911."
+},
+{
+"pregunta": "¿Contra quién luchó la gente en la etapa del huertismo?",
+"opciones": [
+"Contra el rey de España",
+"Contra el ejército francés",
+"Contra Huerta"
+],
+"correcta": 2,
+"porque": "En 1913 y 1914 se luchó contra Victoriano Huerta."
+},
+{
+"pregunta": "¿Cuánto tiempo hay entre 1910 y 1917?",
+"opciones": [
+"Diez años",
+"Un año solamente",
+"Siete años"
+],
+"correcta": 2,
+"porque": "De 1910 a 1917 pasaron siete años."
+},
+{
+"pregunta": "Haces una línea del tiempo en clase. ¿Qué pones en 1917?",
+"opciones": [
+"La caída de Díaz",
+"La Constitución",
+"El inicio de la Independencia"
+],
+"correcta": 1,
+"porque": "En 1917 se promulgó la Constitución que cerró la etapa."
+}
+],
+"etica-biodiversidad-primaria": [
+{
+"pregunta": "¿Por qué se debe cuidar a los seres vivos?",
+"opciones": [
+"Es nuestra responsabilidad",
+"Porque nadie nos mira cuando los dañamos",
+"Porque son baratos de conseguir"
+],
+"correcta": 0,
+"porque": "Cuidar la vida es un deber de todos."
+},
+{
+"pregunta": "Un compañero lastima a un insecto sin necesidad. ¿Qué conviene decirle?",
+"opciones": [
+"Que no está bien dañarlo",
+"Que lo haga otra vez más fuerte",
+"Que no importa porque es pequeño"
+],
+"correcta": 0,
+"porque": "No se debe dañar a ningún ser vivo sin necesidad."
+},
+{
+"pregunta": "¿Qué valor muestra quien cuida el río?",
+"opciones": [
+"Responsabilidad",
+"Egoísmo de querer todo para sí",
+"Pereza con el medio ambiente"
+],
+"correcta": 0,
+"porque": "Cuidar lo que sirve a todos muestra responsabilidad."
+},
+{
+"pregunta": "Ves a un niño lastimando a un insecto sin necesidad. ¿Qué es lo correcto?",
+"opciones": [
+"Reírme para que siga haciéndolo",
+"Decirle que no hay que dañar sin necesidad",
+"No decir nada porque es solo un insecto"
+],
+"correcta": 1,
+"porque": "No es correcto dañar a los seres vivos sin necesidad."
+},
+{
+"pregunta": "En la escuela, ¿qué acción cuida a los animales?",
+"opciones": [
+"Quitarles su comida a las hormigas",
+"No maltratarlos ni hacerles daño",
+"Asustar a los pájaros del patio"
+],
+"correcta": 1,
+"porque": "Cuidar a los seres vivos es una responsabilidad."
+}
+],
+"francisco-i-madero-primaria": [
+{
+"pregunta": "¿Cuál fue el lema de Madero?",
+"opciones": [
+"Sufragio efectivo, no reelección",
+"Tierra y Libertad",
+"Orden y progreso"
+],
+"correcta": 0,
+"porque": "Pedía que el voto valiera y que no se repitiera el presidente."
+},
+{
+"pregunta": "¿Qué día de noviembre de 1910 se llamó a la lucha?",
+"opciones": [
+"El 5",
+"El 16",
+"El 20"
+],
+"correcta": 2,
+"porque": "El Plan de San Luis marcó el 20 de noviembre de 1910."
+},
+{
+"pregunta": "¿Qué libro escribió Madero?",
+"opciones": [
+"El Quijote de la Mancha",
+"La Constitución de 1917",
+"La sucesión presidencial en 1910"
+],
+"correcta": 2,
+"porque": "Ese libro criticaba que Díaz siguiera en el poder."
+},
+{
+"pregunta": "¿Qué pasó con Madero en 1913?",
+"opciones": [
+"Ganó otra guerra contra Francia",
+"Fue traicionado y asesinado",
+"Se fue a vivir al campo sin problemas"
+],
+"correcta": 1,
+"porque": "Huerta lo traicionó en la Decena Trágica."
+},
+{
+"pregunta": "En la escuela eligen jefe de grupo, pero siempre es el mismo. ¿Qué pediría Madero?",
+"opciones": [
+"Que gobierne para siempre",
+"Que cambie con votos",
+"Que lo elija un solo alumno"
+],
+"correcta": 1,
+"porque": "No reelección significa que el cargo no debe repetirse siempre."
+}
+],
+"francisco-villa-primaria": [
+{
+"pregunta": "¿De qué región era líder Francisco Villa?",
+"opciones": [
+"Del puerto de Veracruz",
+"Del sur, en Morelos",
+"Del norte de México"
+],
+"correcta": 2,
+"porque": "Francisco Villa fue líder de la División del Norte."
+},
+{
+"pregunta": "¿Qué batalla fue importante contra Huerta en 1914?",
+"opciones": [
+"Zacatecas",
+"Chapultepec",
+"Puebla, contra Francia"
+],
+"correcta": 0,
+"porque": "En Zacatecas la División del Norte ganó."
+},
+{
+"pregunta": "¿Qué ejército de Villa fue de los más fuertes de la Revolución?",
+"opciones": [
+"La División del Norte",
+"El Ejército Libertador del Sur",
+"El ejército de Francia en Puebla"
+],
+"correcta": 0,
+"porque": "Era muy fuerte y peleó en varias batallas importantes."
+},
+{
+"pregunta": "¿En qué ciudad lo asesinaron?",
+"opciones": [
+"Celaya, donde perdió",
+"Columbus",
+"Parral"
+],
+"correcta": 2,
+"porque": "Villa murió en Parral, Chihuahua, en 1923."
+},
+{
+"pregunta": "Quieres ubicar su ejército en un mapa de México. ¿Dónde lo marcas?",
+"opciones": [
+"En el norte",
+"En la península de Yucatán",
+"En la costa del sur"
+],
+"correcta": 0,
+"porque": "La División del Norte actuó sobre todo en el norte."
+}
+],
+"guerra-con-estados-unidos-primaria": [
+{
+"pregunta": "¿Qué país invadió México en esta guerra?",
+"opciones": [
+"España, con su rey",
+"Francia, con Napoleón III",
+"Estados Unidos"
+],
+"correcta": 2,
+"porque": "Fue una guerra entre México y Estados Unidos."
+},
+{
+"pregunta": "¿Cuánto territorio perdió México con el tratado?",
+"opciones": [
+"Casi la mitad",
+"Nada, lo recuperó todo",
+"Muy poquito, solo un pueblo"
+],
+"correcta": 0,
+"porque": "Perdió cerca de la mitad de su territorio."
+},
+{
+"pregunta": "¿Cuántos años duró la guerra, de 1846 a 1848?",
+"opciones": [
+"Diez años",
+"Dos años",
+"Un mes"
+],
+"correcta": 1,
+"porque": "De 1846 a 1848 pasaron dos años."
+},
+{
+"pregunta": "¿Qué territorio anexado por Estados Unidos fue causa de la guerra?",
+"opciones": [
+"Veracruz",
+"Yucatán",
+"Texas"
+],
+"correcta": 2,
+"porque": "La guerra empezó tras la anexión de Texas a Estados Unidos."
+},
+{
+"pregunta": "Comparas un mapa antiguo con uno de hoy. ¿Qué verías en el de hoy?",
+"opciones": [
+"El mismo tamaño exacto",
+"Más territorio al norte",
+"Menos territorio al norte"
+],
+"correcta": 2,
+"porque": "México cedió Alta California y Nuevo México."
+}
+],
+"guerra-cristera-primaria": [
+{
+"pregunta": "¿Cómo se llamaron las personas que tomaron las armas?",
+"opciones": [
+"Cristeros",
+"Maderistas",
+"Zapatistas"
+],
+"correcta": 0,
+"porque": "Los católicos que tomaron las armas se llamaron cristeros."
+},
+{
+"pregunta": "¿Entre quiénes fue este conflicto?",
+"opciones": [
+"Liberales y franceses",
+"México y Estados Unidos",
+"El gobierno y los católicos"
+],
+"correcta": 2,
+"porque": "Fue una lucha dentro de México por el culto."
+},
+{
+"pregunta": "¿Qué gritaban los cristeros?",
+"opciones": [
+"¡Tierra y Libertad!",
+"¡Viva la República restaurada!",
+"¡Viva Cristo Rey!"
+],
+"correcta": 2,
+"porque": "Ese era su lema durante la guerra."
+},
+{
+"pregunta": "¿Cuándo terminó la guerra?",
+"opciones": [
+"En 1929",
+"En 1857",
+"En 1910"
+],
+"correcta": 0,
+"porque": "Terminó con arreglos en 1929."
+},
+{
+"pregunta": "Dos grupos pelean por una regla. ¿Qué habría evitado una guerra como esa?",
+"opciones": [
+"No hablar nunca entre ellos",
+"Pelear más fuerte para ganar",
+"Dialogar y llegar a acuerdos"
+],
+"correcta": 2,
+"porque": "El diálogo permite resolver desacuerdos sin armas."
+}
+]
+}

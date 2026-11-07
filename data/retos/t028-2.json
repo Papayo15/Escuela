@@ -1,0 +1,522 @@
+{
+"recta-tangente-cambio-instantaneo": [
+{
+"pregunta": "Halla la tangente a $f(x)=x^2$ en $x=4$.",
+"opciones": [
+"$y=8x+16$",
+"$y=4x-16$",
+"$y=8x-16$"
+],
+"correcta": 2,
+"porque": "El punto es $(4,16)$, la pendiente es $2x=8$ y $16-32=-16$."
+},
+{
+"pregunta": "¿Cuál es la pendiente de la tangente a $f(x)=x^2$ en $x=5$?",
+"opciones": [
+"$m=5$",
+"$m=25$",
+"$m=10$"
+],
+"correcta": 2,
+"porque": "La pendiente es la derivada $2x$ y con $x=5$ da 10."
+},
+{
+"pregunta": "¿Qué fórmula usas para escribir la recta tangente?",
+"opciones": [
+"$y+y_0=m(x+x_0)$",
+"$y-y_0=m(x-x_0)$",
+"$y-x_0=m(y-y_0)$"
+],
+"correcta": 1,
+"porque": "Usas el punto $(x_0,y_0)$ y la pendiente $m$."
+},
+{
+"pregunta": "Una curva tiene pendiente 2 en el punto $(3,1)$. Escribe su tangente.",
+"opciones": [
+"$y=2x-5$",
+"$y=2x+1$",
+"$y=2x-2$"
+],
+"correcta": 0,
+"porque": "$y-1=2(x-3)$ da $y=2x-5$."
+},
+{
+"pregunta": "Si $s=t^2$ metros, ¿qué velocidad lleva a los 4 segundos?",
+"opciones": [
+"8 m/s",
+"4 m/s",
+"16 m/s"
+],
+"correcta": 0,
+"porque": "La velocidad es $2t$ y con $t=4$ da 8."
+}
+],
+"regla-de-la-cadena-prepa": [
+{
+"pregunta": "Deriva $(5x+2)^3$.",
+"opciones": [
+"$3(5x+2)^2$",
+"$15(5x+2)^2$",
+"$5(5x+2)^3$"
+],
+"correcta": 1,
+"porque": "Derivas afuera y multiplicas por la derivada de adentro, que es 5."
+},
+{
+"pregunta": "Deriva $\\sin 4x$.",
+"opciones": [
+"$\\cos 4x$",
+"$-4\\cos 4x$",
+"$4\\cos 4x$"
+],
+"correcta": 2,
+"porque": "La derivada del seno es coseno y se multiplica por 4."
+},
+{
+"pregunta": "Deriva $e^{-x}$.",
+"opciones": [
+"$-e^{-x}$",
+"$-xe^{-x}$",
+"$e^{-x}$"
+],
+"correcta": 0,
+"porque": "La derivada de adentro, $-x$, es $-1$ y se multiplica."
+},
+{
+"pregunta": "¿Qué error común hay en la regla de la cadena?",
+"opciones": [
+"Sumar el exponente",
+"Derivar solo lo de adentro",
+"Olvidar la derivada de adentro"
+],
+"correcta": 2,
+"porque": "Siempre hay que multiplicar por la derivada de lo de adentro."
+},
+{
+"pregunta": "Deriva $(4x-3)^2$.",
+"opciones": [
+"$2(4x-3)$",
+"$4(4x-3)$",
+"$8(4x-3)$"
+],
+"correcta": 2,
+"porque": "Baja el 2 y multiplica por 4: $2\\cdot4=8$."
+}
+],
+"regla-de-la-potencia-prepa": [
+{
+"pregunta": "Deriva $x^5$.",
+"opciones": [
+"$4x^5$",
+"$5x^4$",
+"$x^4$"
+],
+"correcta": 1,
+"porque": "El 5 baja a multiplicar y el exponente queda en 4."
+},
+{
+"pregunta": "Deriva $6x^2$.",
+"opciones": [
+"$6x$",
+"$12x^2$",
+"$12x$"
+],
+"correcta": 2,
+"porque": "Baja el 2 y multiplícalo por 6, y el exponente queda en 1."
+},
+{
+"pregunta": "Deriva $3x^4-2x^3+x$.",
+"opciones": [
+"$12x^4-6x^3+1$",
+"$12x^3-6x^2+x$",
+"$12x^3-6x^2+1$"
+],
+"correcta": 2,
+"porque": "Se deriva término por término, y la derivada de $x$ es 1."
+},
+{
+"pregunta": "¿Cuánto da la derivada de $x$?",
+"opciones": [
+"0",
+"$x$",
+"1"
+],
+"correcta": 2,
+"porque": "Es $x^1$, baja el 1 y queda $x^0=1$."
+},
+{
+"pregunta": "Deriva $\\frac{1}{x}$.",
+"opciones": [
+"$-\\frac{1}{x}$",
+"$\\frac{1}{x^2}$",
+"$-\\frac{1}{x^2}$"
+],
+"correcta": 2,
+"porque": "Se escribe $x^{-1}$ y baja el $-1$."
+}
+],
+"regla-del-cociente-prepa": [
+{
+"pregunta": "Deriva $\\frac{x}{x-2}$.",
+"opciones": [
+"$\\frac{2}{(x-2)^2}$",
+"$\\frac{-2}{(x-2)^2}$",
+"$\\frac{-2}{x-2}$"
+],
+"correcta": 1,
+"porque": "Arriba queda $(x-2)-x=-2$ y abajo va al cuadrado."
+},
+{
+"pregunta": "Deriva $\\frac{3}{x}$.",
+"opciones": [
+"$\\frac{3}{x^2}$",
+"$-\\frac{3}{x^2}$",
+"$-\\frac{1}{x^2}$"
+],
+"correcta": 1,
+"porque": "La derivada del 3 es 0, así que solo queda $-3\\cdot1$ entre $x^2$."
+},
+{
+"pregunta": "Deriva $\\frac{x^2}{x-1}$.",
+"opciones": [
+"$\\frac{2x-1}{(x-1)^2}$",
+"$\\frac{x^2+2x}{(x-1)^2}$",
+"$\\frac{x^2-2x}{(x-1)^2}$"
+],
+"correcta": 2,
+"porque": "Arriba queda $2x(x-1)-x^2=x^2-2x$."
+},
+{
+"pregunta": "En la regla del cociente, ¿qué lleva abajo el resultado?",
+"opciones": [
+"El de abajo por dos",
+"Solo su derivada",
+"El de abajo al cuadrado"
+],
+"correcta": 2,
+"porque": "Abajo siempre va $v^2$."
+},
+{
+"pregunta": "Deriva $\\frac{x+1}{x+2}$.",
+"opciones": [
+"$\\frac{-1}{(x+2)^2}$",
+"$\\frac{1}{(x+2)^2}$",
+"$\\frac{2x+3}{(x+2)^2}$"
+],
+"correcta": 1,
+"porque": "Arriba queda $(x+2)-(x+1)=1$."
+}
+],
+"regla-del-producto-prepa": [
+{
+"pregunta": "Deriva $x^3(x+2)$.",
+"opciones": [
+"$3x^3+6x^2$",
+"$4x^3+2x^2$",
+"$4x^3+6x^2$"
+],
+"correcta": 2,
+"porque": "Da $3x^2(x+2)+x^3\\cdot1$ y al juntar sale $4x^3+6x^2$."
+},
+{
+"pregunta": "Deriva $x\\cos x$.",
+"opciones": [
+"$\\cos x+x\\sin x$",
+"$-x\\sin x$",
+"$\\cos x-x\\sin x$"
+],
+"correcta": 2,
+"porque": "Es $1\\cdot\\cos x+x\\cdot(-\\sin x)$."
+},
+{
+"pregunta": "Deriva $(x+1)(x+3)$.",
+"opciones": [
+"$2x+4$",
+"$x+4$",
+"$2x+3$"
+],
+"correcta": 0,
+"porque": "Es $1(x+3)+(x+1)1=2x+4$."
+},
+{
+"pregunta": "¿Qué error común hay al derivar un producto?",
+"opciones": [
+"Restar los dos turnos",
+"Derivar cada una y multiplicarlas",
+"No derivar nada y multiplicar"
+],
+"correcta": 1,
+"porque": "Primero cambia uno y luego el otro, y se suman."
+},
+{
+"pregunta": "Deriva $e^x\\sin x$.",
+"opciones": [
+"$e^x\\sin x-e^x\\cos x$",
+"$e^x\\cos x+\\sin x$",
+"$e^x\\sin x+e^x\\cos x$"
+],
+"correcta": 2,
+"porque": "Cada factor toma su turno y los resultados se suman."
+}
+],
+"reglas-basicas-de-integracion-prepa": [
+{
+"pregunta": "Calcula $\\int x^5\\,dx$.",
+"opciones": [
+"$5x^4+C$",
+"$\\frac{x^5}{5}+C$",
+"$\\frac{x^6}{6}+C$"
+],
+"correcta": 2,
+"porque": "Sube el exponente a 6 y divide entre 6."
+},
+{
+"pregunta": "Calcula $\\int (6x^2+2x)\\,dx$.",
+"opciones": [
+"$2x^3+x^2+C$",
+"$12x+2+C$",
+"$6x^3+2x^2+C$"
+],
+"correcta": 0,
+"porque": "Cada término sube su exponente y se divide entre el nuevo."
+},
+{
+"pregunta": "Calcula $\\int e^x\\,dx$.",
+"opciones": [
+"$xe^x+C$",
+"$e^x+C$",
+"$\\ln x+C$"
+],
+"correcta": 1,
+"porque": "La integral de $e^x$ es ella misma."
+},
+{
+"pregunta": "Calcula $\\int \\frac{1}{x}\\,dx$.",
+"opciones": [
+"$\\frac{1}{x^2}+C$",
+"$\\ln|x|+C$",
+"$x^{-1}+C$"
+],
+"correcta": 1,
+"porque": "Es el caso especial donde la regla de la potencia no sirve."
+},
+{
+"pregunta": "Calcula $\\int \\sin x\\,dx$.",
+"opciones": [
+"$-\\cos x+C$",
+"$\\cos x+C$",
+"$-\\sin x+C$"
+],
+"correcta": 0,
+"porque": "Al derivar $-\\cos x$ sale $\\sin x$."
+}
+],
+"segunda-derivada-prepa": [
+{
+"pregunta": "Calcula $f''$ si $f=x^4-2x$.",
+"opciones": [
+"$12x^2$",
+"$12x$",
+"$4x^3-2$"
+],
+"correcta": 0,
+"porque": "$f'=4x^3-2$ y al derivar otra vez queda $12x^2$."
+},
+{
+"pregunta": "Calcula $f''$ de $\\cos x$.",
+"opciones": [
+"$-\\cos x$",
+"$\\cos x$",
+"$-\\sin x$"
+],
+"correcta": 0,
+"porque": "$f'=-\\sin x$ y su derivada es $-\\cos x$."
+},
+{
+"pregunta": "Si $f''>0$, ¿cómo se curva la gráfica?",
+"opciones": [
+"Como una sonrisa",
+"Queda plana",
+"Como un techo"
+],
+"correcta": 0,
+"porque": "Positiva significa que la curva se abre hacia arriba."
+},
+{
+"pregunta": "Si $s=3t^2$ metros, ¿cuál es la aceleración?",
+"opciones": [
+"3",
+"$6t$",
+"6"
+],
+"correcta": 2,
+"porque": "La velocidad es $6t$ y su derivada, la aceleración, es 6."
+},
+{
+"pregunta": "Si $f''$ cambia de signo en un punto, ¿qué es ese punto?",
+"opciones": [
+"Siempre un máximo",
+"Un punto de inflexión",
+"Siempre un mínimo"
+],
+"correcta": 1,
+"porque": "Ahí la curva pasa de sonrisa a tristeza o al revés."
+}
+],
+"variacion-promedio-instantanea-calculo": [
+{
+"pregunta": "Si $f(x)=x^2$, calcula la variación promedio entre $x=1$ y $x=5$.",
+"opciones": [
+"6",
+"24",
+"4"
+],
+"correcta": 0,
+"porque": "Es $\\frac{25-1}{5-1}=6$."
+},
+{
+"pregunta": "Caminas 300 m a la tienda en 5 minutos. ¿Cuál es tu velocidad promedio?",
+"opciones": [
+"300 m por minuto",
+"60 m por minuto",
+"5 m por minuto"
+],
+"correcta": 1,
+"porque": "Divides la distancia entre el tiempo: $300\\div5=60$."
+},
+{
+"pregunta": "Con $f(x)=x^2$ desde 1, el promedio hasta 1.1 es 2.1. Si acercas más los puntos, ¿a qué valor se acerca?",
+"opciones": [
+"1",
+"2",
+"3"
+],
+"correcta": 1,
+"porque": "Al juntarse los puntos, el valor se acerca al cambio instantáneo, 2."
+},
+{
+"pregunta": "¿Qué es el cambio instantáneo?",
+"opciones": [
+"El cambio entre dos puntos",
+"El cambio justo en un punto",
+"El cambio de todo el viaje"
+],
+"correcta": 1,
+"porque": "Es lo que marca el velocímetro en ese instante."
+},
+{
+"pregunta": "Si $f(x)=x^2$, calcula la variación promedio entre $x=2$ y $x=3$.",
+"opciones": [
+"4",
+"5",
+"6"
+],
+"correcta": 1,
+"porque": "Es $\\frac{9-4}{3-2}=5$."
+}
+],
+"algebra-situaciones-reales-preparatoria": [
+{
+"pregunta": "Con $C=100+3n$, ¿cuánto cuesta enviar 40 mensajes?",
+"opciones": [
+"120 pesos",
+"220 pesos",
+"143 pesos"
+],
+"correcta": 1,
+"porque": "Sustituyes: $100+3\\cdot40=100+120=220$."
+},
+{
+"pregunta": "Un auto va a 60 km/h durante 2 horas. ¿Qué distancia recorre con $d=vt$?",
+"opciones": [
+"30 km",
+"120 km",
+"62 km"
+],
+"correcta": 1,
+"porque": "Se multiplica la velocidad por el tiempo: $60\\cdot2=120$."
+},
+{
+"pregunta": "Convierte 20 grados Celsius con $F=1.8C+32$.",
+"opciones": [
+"36 grados",
+"68 grados",
+"52 grados"
+],
+"correcta": 1,
+"porque": "Sustituyes: $1.8\\cdot20+32=36+32=68$."
+},
+{
+"pregunta": "Cada lápiz cuesta 7 pesos. ¿Qué fórmula da el costo $C$ de $n$ lápices?",
+"opciones": [
+"$C=7+n$",
+"$C=7n$",
+"$C=n\\div7$"
+],
+"correcta": 1,
+"porque": "Cada lápiz suma 7 pesos, así que se multiplica por $n$."
+},
+{
+"pregunta": "Con $C=100+3n$, pagaste 130 pesos. ¿Cuántos mensajes enviaste?",
+"opciones": [
+"43",
+"10",
+"90"
+],
+"correcta": 1,
+"porque": "Resuelves $3n=130-100=30$ y $n=10$."
+}
+],
+"binomio-al-cuadrado-prepa": [
+{
+"pregunta": "Desarrolla $(x+6)^2$.",
+"opciones": [
+"$x^2+6x+36$",
+"$x^2+12x+36$",
+"$x^2+36$"
+],
+"correcta": 1,
+"porque": "Cuadrado del primero, doble producto $2\\cdot6x$ y cuadrado del segundo."
+},
+{
+"pregunta": "Desarrolla $(x-5)^2$.",
+"opciones": [
+"$x^2-5x+25$",
+"$x^2-10x+25$",
+"$x^2+10x+25$"
+],
+"correcta": 1,
+"porque": "El doble producto lleva menos, y el último término siempre es positivo."
+},
+{
+"pregunta": "Desarrolla $(3y+1)^2$.",
+"opciones": [
+"$9y^2+1$",
+"$3y^2+6y+1$",
+"$9y^2+6y+1$"
+],
+"correcta": 2,
+"porque": "$(3y)^2=9y^2$, el doble es $2\\cdot3y\\cdot1=6y$ y el último es 1."
+},
+{
+"pregunta": "¿Qué falta si piensas que $(a+b)^2=a^2+b^2$?",
+"opciones": [
+"Un cuadrado más",
+"Una resta de $a$ y $b$",
+"El doble producto $2ab$"
+],
+"correcta": 2,
+"porque": "Falta el término de en medio, que es $2ab$."
+},
+{
+"pregunta": "Un cuadrado de papel mide $x+3$ de lado. ¿Cuál es su área?",
+"opciones": [
+"$x^2+9$",
+"$x^2+6x+9$",
+"$x^2+3x+9$"
+],
+"correcta": 1,
+"porque": "El área es $(x+3)^2$, que son cuatro pedazos de papel."
+}
+]
+}

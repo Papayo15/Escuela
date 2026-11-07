@@ -1,0 +1,522 @@
+{
+"pronombres-objeto-y-posesivos-secundaria": [
+{
+"pregunta": "Completa: *The teacher helps ___.* (a nosotros)",
+"opciones": [
+"us",
+"we",
+"our"
+],
+"correcta": 0,
+"porque": "Después del verbo va la forma que recibe la acción: us."
+},
+{
+"pregunta": "Completa: *The red backpack is ___.* (de él)",
+"opciones": [
+"him",
+"he",
+"his"
+],
+"correcta": 2,
+"porque": "His indica de quién es la cosa."
+},
+{
+"pregunta": "¿Cuál oración usa bien *mine*?",
+"opciones": [
+"This pen is mine.",
+"Mine pen is here.",
+"I mine this pen."
+],
+"correcta": 0,
+"porque": "*Mine* sustituye a la cosa: *This pen is mine* es este lápiz es mío."
+},
+{
+"pregunta": "¿Cuál es la forma de dueño de *they*?",
+"opciones": [
+"theirs",
+"they",
+"them"
+],
+"correcta": 0,
+"porque": "Theirs significa \"de ellos\" y sustituye a la cosa."
+},
+{
+"pregunta": "*The pencil case is mine.* ¿Qué significa?",
+"opciones": [
+"El estuche es mío.",
+"Yo soy el estuche.",
+"El estuche me gusta."
+],
+"correcta": 0,
+"porque": "Mine significa \"mío\" y dice quién es el dueño."
+}
+],
+"pronombres-personales-secundaria": [
+{
+"pregunta": "Maria is my friend. Completa: *___ is nice.*",
+"opciones": [
+"She",
+"He",
+"It"
+],
+"correcta": 0,
+"porque": "She sustituye a una mujer."
+},
+{
+"pregunta": "Completa: *Tom and Ana are in class. ___ are happy.*",
+"opciones": [
+"We",
+"She",
+"They"
+],
+"correcta": 2,
+"porque": "They sustituye a varias personas que no hablan."
+},
+{
+"pregunta": "¿Qué pronombre usas para tu mascota, un gato?",
+"opciones": [
+"they",
+"she",
+"it"
+],
+"correcta": 2,
+"porque": "It se usa para animales y cosas."
+},
+{
+"pregunta": "¿Qué pronombre usas para hablar de un libro?",
+"opciones": [
+"He",
+"It",
+"We"
+],
+"correcta": 1,
+"porque": "*It* se usa para cosas y animales."
+},
+{
+"pregunta": "Hablas de ti y de un compañero: *Ana and I* se cambia por...",
+"opciones": [
+"they",
+"you",
+"we"
+],
+"correcta": 2,
+"porque": "We incluye a quien habla y a otra persona."
+}
+],
+"recursos-esteticos-ingles-simil-metafora": [
+{
+"pregunta": "¿Qué recurso es *as brave as a lion*?",
+"opciones": [
+"Rhyme",
+"Metaphor",
+"Simile"
+],
+"correcta": 2,
+"porque": "Usa *as... as* para comparar, y eso es un símil."
+},
+{
+"pregunta": "¿Qué recurso es *The classroom is a zoo*?",
+"opciones": [
+"Alliteration",
+"Simile",
+"Metaphor"
+],
+"correcta": 2,
+"porque": "Dice directo que una cosa es otra, sin like ni as."
+},
+{
+"pregunta": "¿Cuál palabra rima con *cat*?",
+"opciones": [
+"hat",
+"cup",
+"dog"
+],
+"correcta": 0,
+"porque": "Rima porque termina con el mismo sonido: -at."
+},
+{
+"pregunta": "¿Cuál frase es una aliteración?",
+"opciones": [
+"The sun is hot.",
+"Big blue bears bounce.",
+"She runs fast."
+],
+"correcta": 1,
+"porque": "Repite el sonido inicial de B en varias palabras."
+},
+{
+"pregunta": "Quieres escribir un símil sobre un amigo veloz. ¿Cuál sirve?",
+"opciones": [
+"He is a fast runner.",
+"He runs very much.",
+"He runs like the wind."
+],
+"correcta": 2,
+"porque": "Un símil compara con like o as."
+}
+],
+"relatos-ingles-sucesos-significativos": [
+{
+"pregunta": "Pasa a pasado: *We play soccer.*",
+"opciones": [
+"We plays soccer.",
+"We played soccer.",
+"We playing soccer."
+],
+"correcta": 1,
+"porque": "Los verbos regulares agregan -ed en pasado."
+},
+{
+"pregunta": "Completa: *Last Saturday we ___ soccer in the park.*",
+"opciones": [
+"plays",
+"plaied",
+"played"
+],
+"correcta": 2,
+"porque": "Last Saturday pide pasado: play se vuelve played."
+},
+{
+"pregunta": "¿Qué conector usas para cerrar tu relato?",
+"opciones": [
+"Finally",
+"Then",
+"First"
+],
+"correcta": 0,
+"porque": "Finally indica el final de lo que pasó."
+},
+{
+"pregunta": "Ordena: ¿cuál oración va primero en un relato?",
+"opciones": [
+"Then, I ate lunch.",
+"First, I woke up.",
+"Finally, I slept."
+],
+"correcta": 1,
+"porque": "First marca el inicio del relato."
+},
+{
+"pregunta": "En la escuela tuviste un buen día. ¿Cuál oración está bien?",
+"opciones": [
+"Yesterday, I seeing my friends.",
+"Yesterday, I saw my friends.",
+"Yesterday, I see my friends."
+],
+"correcta": 1,
+"porque": "Con *yesterday* se usa pasado: saw."
+}
+],
+"saludos-y-frases-utiles-secundaria": [
+{
+"pregunta": "Quieres pedir ayuda a un compañero. ¿Qué dices?",
+"opciones": [
+"See you later.",
+"Can you help me?",
+"Nice to meet you."
+],
+"correcta": 1,
+"porque": "*Can you help me?* significa ¿puedes ayudarme?"
+},
+{
+"pregunta": "Conoces a un compañero nuevo. ¿Qué dices?",
+"opciones": [
+"Excuse me.",
+"See you later.",
+"Nice to meet you."
+],
+"correcta": 2,
+"porque": "Nice to meet you significa \"mucho gusto\"."
+},
+{
+"pregunta": "No entendiste la clase. ¿Qué dices?",
+"opciones": [
+"Hello.",
+"I don't understand.",
+"I'm fine, thanks."
+],
+"correcta": 1,
+"porque": "Esa frase dice que no entiendes."
+},
+{
+"pregunta": "Alguien pregunta *How are you?* ¿Cuál respuesta sirve?",
+"opciones": [
+"Good night.",
+"I'm fine, thanks.",
+"Nice to meet you."
+],
+"correcta": 1,
+"porque": "Se responde cómo estás: fine significa bien."
+},
+{
+"pregunta": "Chocas con un compañero sin querer. ¿Qué dices?",
+"opciones": [
+"What's your name?",
+"How are you?",
+"I'm sorry."
+],
+"correcta": 2,
+"porque": "I'm sorry significa \"lo siento\"."
+}
+],
+"some-y-any-secundaria": [
+{
+"pregunta": "Completa: *I have ___ pencils.*",
+"opciones": [
+"much",
+"some",
+"any"
+],
+"correcta": 1,
+"porque": "En una afirmación se usa some."
+},
+{
+"pregunta": "Completa: *We don't have ___ chairs.*",
+"opciones": [
+"a",
+"some",
+"any"
+],
+"correcta": 2,
+"porque": "Con una negación se usa any."
+},
+{
+"pregunta": "Completa: *Do you have ___ paper?*",
+"opciones": [
+"some",
+"an",
+"any"
+],
+"correcta": 2,
+"porque": "En una pregunta normal se usa any."
+},
+{
+"pregunta": "Ofreces algo. Completa: *Would you like ___ water?*",
+"opciones": [
+"any",
+"no",
+"some"
+],
+"correcta": 2,
+"porque": "Al ofrecer se usa some, aunque sea pregunta."
+},
+{
+"pregunta": "Completa: *I don't have ___ pencils.*",
+"opciones": [
+"any",
+"a",
+"some"
+],
+"correcta": 0,
+"porque": "En las negaciones se usa *any* con plurales."
+}
+],
+"someone-anything-y-nothing-secundaria": [
+{
+"pregunta": "Completa: *I see ___ in the hall.* (alguien)",
+"opciones": [
+"no one",
+"someone",
+"anyone"
+],
+"correcta": 1,
+"porque": "En una afirmación se usa some-: someone."
+},
+{
+"pregunta": "Completa: *I didn't hear ___.* (nada)",
+"opciones": [
+"anything",
+"nothing",
+"something"
+],
+"correcta": 0,
+"porque": "Con didn't ya hay negación, así que va anything."
+},
+{
+"pregunta": "Completa: *There is ___ in the box. It is empty.*",
+"opciones": [
+"everything",
+"something",
+"nothing"
+],
+"correcta": 2,
+"porque": "*Nothing* ya es negativo y significa que no hay nada."
+},
+{
+"pregunta": "Completa: *Did you go ___ yesterday?* (a algún lugar)",
+"opciones": [
+"somewhere",
+"anywhere",
+"nowhere"
+],
+"correcta": 1,
+"porque": "En una pregunta se usa any-: anywhere."
+},
+{
+"pregunta": "¿Cómo se dice «todos están aquí»?",
+"opciones": [
+"Someone is here.",
+"Everyone is here.",
+"No one is here."
+],
+"correcta": 1,
+"porque": "Everyone significa todos."
+}
+],
+"sonidos-dificiles-para-quien-habla-espanol-secundaria": [
+{
+"pregunta": "¿Cómo suena *school* al empezar?",
+"opciones": [
+"es-chool, con e al inicio",
+"ay-chool, con una a larga",
+"sss-chool, sin e al inicio"
+],
+"correcta": 2,
+"porque": "En inglés la S inicial no lleva e antes."
+},
+{
+"pregunta": "Para decir bien la V de *very*, ¿qué haces?",
+"opciones": [
+"Juntar los dos labios",
+"Dientes arriba sobre el labio de abajo",
+"Subir la lengua al paladar"
+],
+"correcta": 1,
+"porque": "La V se hace con dientes y labio de abajo."
+},
+{
+"pregunta": "¿Qué palabra suena con i larga?",
+"opciones": [
+"sheep",
+"sit",
+"ship"
+],
+"correcta": 0,
+"porque": "Sheep (oveja) tiene el sonido largo."
+},
+{
+"pregunta": "Dices *hand*. ¿Qué haces al final?",
+"opciones": [
+"Digo una a",
+"La callo",
+"Pronuncio la d"
+],
+"correcta": 2,
+"porque": "En inglés se pronuncian las consonantes finales."
+},
+{
+"pregunta": "No sabes cómo suena una palabra nueva. ¿Qué haces?",
+"opciones": [
+"Escucho cómo se dice",
+"Adivino el sonido",
+"La leo como en español"
+],
+"correcta": 0,
+"porque": "En inglés la letra no siempre dice cómo suena."
+}
+],
+"sustantivos-contables-e-incontables-secundaria": [
+{
+"pregunta": "¿Cuál es incontable?",
+"opciones": [
+"friend",
+"water",
+"book"
+],
+"correcta": 1,
+"porque": "Water no se cuenta con números, se usan medidas."
+},
+{
+"pregunta": "Completa: *I have two ___.*",
+"opciones": [
+"water",
+"rice",
+"apples"
+],
+"correcta": 2,
+"porque": "Apples es contable y por eso lleva número y plural."
+},
+{
+"pregunta": "¿Cómo se dice «un consejo»?",
+"opciones": [
+"a piece of advice",
+"an advices",
+"an advice"
+],
+"correcta": 0,
+"porque": "Advice es incontable y se mide con a piece of."
+},
+{
+"pregunta": "¿Cuál de estas palabras en inglés es incontable?",
+"opciones": [
+"rice",
+"book",
+"friend"
+],
+"correcta": 0,
+"porque": "*Rice* no se cuenta con números, es incontable."
+},
+{
+"pregunta": "Hay leche en la escuela. ¿Cómo dices «un vaso de leche»?",
+"opciones": [
+"a milk",
+"a glass of milk",
+"two milks"
+],
+"correcta": 1,
+"porque": "Se usa una medida para contar un incontable."
+}
+],
+"textos-ingles-preservar-lenguas": [
+{
+"pregunta": "¿Qué significa *heritage*?",
+"opciones": [
+"tarea que se deja para casa",
+"herencia o patrimonio cultural",
+"maestro que enseña idiomas"
+],
+"correcta": 1,
+"porque": "*Heritage* significa herencia o patrimonio."
+},
+{
+"pregunta": "¿Cuál verbo invita a hacer algo en un cartel?",
+"opciones": [
+"Speak",
+"Speaks",
+"Spoke"
+],
+"correcta": 0,
+"porque": "Speak es el imperativo y sirve para dar una invitación."
+},
+{
+"pregunta": "¿Cuál es un buen mensaje para un cartel?",
+"opciones": [
+"The language was.",
+"Languages is yesterday.",
+"Protect our languages."
+],
+"correcta": 2,
+"porque": "Es una frase corta y clara que invita a cuidar."
+},
+{
+"pregunta": "¿Qué significa «preservar una lengua»?",
+"opciones": [
+"Dejar de usarla",
+"Guardarla en un cajón",
+"Seguir hablándola y enseñándola"
+],
+"correcta": 2,
+"porque": "Una lengua se preserva cuando la gente la usa."
+},
+{
+"pregunta": "Quieres un cartel para tu escuela. ¿Qué palabra clave sirve?",
+"opciones": [
+"window",
+"language",
+"pencil"
+],
+"correcta": 1,
+"porque": "Language significa lengua y va con el tema."
+}
+]
+}

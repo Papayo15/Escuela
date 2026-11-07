@@ -1,0 +1,522 @@
+{
+"numeros-romanos-primaria": [
+{
+"pregunta": "¿Qué número es XVI?",
+"opciones": [
+"15",
+"14",
+"16"
+],
+"correcta": 2,
+"porque": "X vale 10 y VI vale 6: 10 + 6 = 16."
+},
+{
+"pregunta": "Escribe 24 en números romanos.",
+"opciones": [
+"IVXX",
+"XXIV",
+"XXIIII"
+],
+"correcta": 1,
+"porque": "XX es 20 y IV es 4, porque I antes de V resta."
+},
+{
+"pregunta": "¿Qué número es XC?",
+"opciones": [
+"90",
+"110",
+"60"
+],
+"correcta": 0,
+"porque": "X antes de C resta: 100 - 10 = 90."
+},
+{
+"pregunta": "¿Por qué no se escribe VV para el 10?",
+"opciones": [
+"Porque VV vale 5 y no 10",
+"Porque la V solo se usa con números pares",
+"Porque la V no se repite y se usa X"
+],
+"correcta": 2,
+"porque": "V, L y D no se repiten; el 10 se escribe con X."
+},
+{
+"pregunta": "¿Qué número es CXL?",
+"opciones": [
+"140",
+"160",
+"111"
+],
+"correcta": 0,
+"porque": "C vale 100 y XL vale 40, porque X antes de L resta."
+}
+],
+"perimetro-del-cuadrado-y-del-rectangulo-primaria": [
+{
+"pregunta": "Un cuadrado mide 7 cm por lado. ¿Cuál es su perímetro?",
+"opciones": [
+"28 cm",
+"49 cm",
+"14 cm"
+],
+"correcta": 0,
+"porque": "Se suman los 4 lados iguales: 4 × 7 = 28."
+},
+{
+"pregunta": "Un rectángulo mide 12 cm de largo y 5 cm de ancho. ¿Cuál es su perímetro?",
+"opciones": [
+"17 cm",
+"60 cm",
+"34 cm"
+],
+"correcta": 2,
+"porque": "Se calcula 12 + 12 + 5 + 5 = 34."
+},
+{
+"pregunta": "El perímetro de un cuadrado es 48 cm. ¿Cuánto mide cada lado?",
+"opciones": [
+"12 cm",
+"192 cm",
+"44 cm"
+],
+"correcta": 0,
+"porque": "Se divide entre 4: 48 ÷ 4 = 12."
+},
+{
+"pregunta": "El patio de la escuela mide 30 m por 20 m. ¿Cuántos metros de cerca necesita?",
+"opciones": [
+"600 m",
+"100 m",
+"50 m"
+],
+"correcta": 1,
+"porque": "Se calcula 30 + 20 + 30 + 20 = 100 metros."
+},
+{
+"pregunta": "¿Qué fórmula sirve para el perímetro de un cuadrado?",
+"opciones": [
+"$P = 2l$",
+"$P = l \\times l$",
+"$P = 4l$"
+],
+"correcta": 2,
+"porque": "El cuadrado tiene 4 lados iguales, por eso se multiplica por 4."
+}
+],
+"perimetro-y-area": [
+{
+"pregunta": "Un jardín mide 7 m por 3 m. ¿Cuál es su área?",
+"opciones": [
+"20 m²",
+"10 m²",
+"21 m²"
+],
+"correcta": 2,
+"porque": "El área es base por altura: 7 × 3 = 21."
+},
+{
+"pregunta": "Un cuadrado mide 6 cm por lado. ¿Cuál es su perímetro?",
+"opciones": [
+"12 cm",
+"24 cm",
+"36 cm"
+],
+"correcta": 1,
+"porque": "Son 4 lados de 6, y 4 × 6 = 24."
+},
+{
+"pregunta": "¿En qué se mide el área de un patio?",
+"opciones": [
+"En cualquier número sin unidad",
+"En metros cuadrados",
+"En metros"
+],
+"correcta": 1,
+"porque": "El área cuenta cuadritos de 1 metro por lado."
+},
+{
+"pregunta": "Se pondrá malla alrededor de un patio de 9 m por 6 m. ¿Cuántos metros se necesitan?",
+"opciones": [
+"54 m",
+"15 m",
+"30 m"
+],
+"correcta": 2,
+"porque": "Rodear es perímetro: 9 + 6 + 9 + 6 = 30."
+},
+{
+"pregunta": "Quieres saber cuánto pasto cubre un jardín. ¿Qué calculas?",
+"opciones": [
+"El perímetro",
+"La orilla completa del jardín",
+"El área"
+],
+"correcta": 2,
+"porque": "El pasto está adentro, y lo de adentro es el área."
+}
+],
+"prismas-y-piramides": [
+{
+"pregunta": "¿Cuántas caras tiene una pirámide de base pentagonal?",
+"opciones": [
+"10",
+"5",
+"6"
+],
+"correcta": 2,
+"porque": "Tiene 5 caras triangulares más la base."
+},
+{
+"pregunta": "¿Qué cuerpo tiene 2 bases triangulares y 3 caras rectangulares?",
+"opciones": [
+"Pirámide con base rectangular",
+"Prisma triangular",
+"Pirámide triangular"
+],
+"correcta": 1,
+"porque": "Un prisma tiene dos bases iguales y caras laterales rectangulares."
+},
+{
+"pregunta": "¿Cuántos vértices tiene una pirámide de base cuadrada?",
+"opciones": [
+"4",
+"8",
+"5"
+],
+"correcta": 2,
+"porque": "Tiene 4 vértices en la base y 1 en la punta."
+},
+{
+"pregunta": "Una caja de cereal tiene forma de...",
+"opciones": [
+"Pirámide",
+"Pirámide con punta arriba",
+"Prisma"
+],
+"correcta": 2,
+"porque": "Tiene dos tapas iguales, arriba y abajo, como un prisma."
+},
+{
+"pregunta": "¿Cuántas aristas tiene un prisma triangular?",
+"opciones": [
+"6",
+"5",
+"9"
+],
+"correcta": 2,
+"porque": "Tiene 3 aristas arriba, 3 abajo y 3 laterales."
+}
+],
+"problemas-de-dos-pasos-primaria": [
+{
+"pregunta": "Compras 3 sándwiches de 20 pesos y un jugo de 12 pesos. ¿Cuánto pagas?",
+"opciones": [
+"72 pesos",
+"60 pesos",
+"32 pesos"
+],
+"correcta": 0,
+"porque": "Primero 3 × 20 = 60, y luego 60 + 12 = 72."
+},
+{
+"pregunta": "Pagas con 100 pesos y compras 4 lápices de 15 pesos. ¿Cuánto te devuelven?",
+"opciones": [
+"85 pesos",
+"60 pesos",
+"40 pesos"
+],
+"correcta": 2,
+"porque": "Primero 4 × 15 = 60 y luego 100 - 60 = 40."
+},
+{
+"pregunta": "Hay 5 filas de 8 alumnos y se van 6. ¿Cuántos quedan?",
+"opciones": [
+"46",
+"34",
+"40"
+],
+"correcta": 1,
+"porque": "Primero 5 × 8 = 40 y luego 40 - 6 = 34."
+},
+{
+"pregunta": "Hay 36 galletas en 6 bolsas iguales. Un niño recibe 3 bolsas. ¿Cuántas galletas recibe?",
+"opciones": [
+"12",
+"18",
+"6"
+],
+"correcta": 1,
+"porque": "Primero 36 ÷ 6 = 6 por bolsa y luego 6 × 3 = 18."
+},
+{
+"pregunta": "Al terminar un problema de cambio, ¿qué debes revisar?",
+"opciones": [
+"Que hayas usado la suma en los dos pasos",
+"Que la respuesta sea un número muy grande",
+"Que el cambio no sea mayor que lo que pagaste"
+],
+"correcta": 2,
+"porque": "Revisar si la respuesta tiene sentido ayuda a encontrar errores."
+}
+],
+"problemas-de-multiplicacion-y-division-primaria": [
+{
+"pregunta": "Hay 6 cajas con 24 lápices cada una. ¿Cuántos lápices hay?",
+"opciones": [
+"144",
+"4",
+"30"
+],
+"correcta": 0,
+"porque": "Se conocen los grupos y lo de cada grupo, así que se multiplica 6 × 24."
+},
+{
+"pregunta": "Tienes 144 lápices y los guardas en cajas de 24. ¿Cuántas cajas llenas hay?",
+"opciones": [
+"6 cajas",
+"3 456 cajas",
+"120 cajas"
+],
+"correcta": 0,
+"porque": "Tienes el total y buscas cuántas cajas, así que divides: 144 ÷ 24 = 6."
+},
+{
+"pregunta": "Van 85 alumnos y en cada autobús caben 20. ¿Cuántos autobuses necesitan?",
+"opciones": [
+"4",
+"105",
+"5"
+],
+"correcta": 2,
+"porque": "85 ÷ 20 = 4 y sobran 5 alumnos, que necesitan otro autobús."
+},
+{
+"pregunta": "Reparten 560 pesos entre 8 personas. ¿Cuánto recibe cada una?",
+"opciones": [
+"568 pesos",
+"70 pesos",
+"4 480 pesos"
+],
+"correcta": 1,
+"porque": "Se conoce el total y se divide: 560 ÷ 8 = 70."
+},
+{
+"pregunta": "Si conoces cuántos grupos hay y cuánto lleva cada uno, y buscas el total, ¿qué haces?",
+"opciones": [
+"Restar los dos datos",
+"Multiplicar",
+"Dividir"
+],
+"correcta": 1,
+"porque": "De partes a total se multiplica."
+}
+],
+"rectas-paralelas-y-perpendiculares-primaria": [
+{
+"pregunta": "Las vías de un tren, ¿qué tipo de rectas forman?",
+"opciones": [
+"Paralelas",
+"Secantes que se cruzan en un punto",
+"Perpendiculares"
+],
+"correcta": 0,
+"porque": "Las vías van siempre a la misma distancia y nunca se tocan."
+},
+{
+"pregunta": "¿Qué ángulo forman dos rectas perpendiculares?",
+"opciones": [
+"90°",
+"180°",
+"45°"
+],
+"correcta": 0,
+"porque": "Las perpendiculares se cruzan formando una esquina recta."
+},
+{
+"pregunta": "En la letra L, ¿cómo son sus dos palos?",
+"opciones": [
+"Paralelos",
+"Perpendiculares",
+"Dos rectas que nunca se tocan"
+],
+"correcta": 1,
+"porque": "Los dos palos se unen en una esquina de 90°."
+},
+{
+"pregunta": "¿Las rectas paralelas se llegan a cruzar?",
+"opciones": [
+"No, nunca se tocan",
+"Sí, si las alargas mucho",
+"Sí, siempre en un solo punto"
+],
+"correcta": 0,
+"porque": "Paralelas son rectas que van siempre separadas."
+},
+{
+"pregunta": "¿Qué instrumento se desliza para trazar una paralela?",
+"opciones": [
+"El compás para hacer círculos",
+"La escuadra",
+"El transportador"
+],
+"correcta": 1,
+"porque": "Se apoya la escuadra en una regla y se desliza para trazar la otra línea."
+}
+],
+"redondear-numeros-primaria": [
+{
+"pregunta": "Redondea 374 a la decena.",
+"opciones": [
+"380",
+"400",
+"370"
+],
+"correcta": 2,
+"porque": "La cifra de la derecha es 4, así que el 7 se queda igual."
+},
+{
+"pregunta": "Redondea 85 a la decena.",
+"opciones": [
+"80",
+"100",
+"90"
+],
+"correcta": 2,
+"porque": "La cifra de la derecha es 5, y con 5 o más se sube."
+},
+{
+"pregunta": "Redondea 2 650 al millar.",
+"opciones": [
+"2 700",
+"3 000",
+"2 000"
+],
+"correcta": 1,
+"porque": "La cifra de la derecha es 6, así que el 2 sube a 3."
+},
+{
+"pregunta": "Estima 51 + 28 redondeando a la decena.",
+"opciones": [
+"80",
+"90",
+"70"
+],
+"correcta": 0,
+"porque": "51 se vuelve 50, 28 se vuelve 30 y 50 + 30 = 80."
+},
+{
+"pregunta": "Redondea 4 520 a la centena.",
+"opciones": [
+"4 500",
+"4 600",
+"5 000"
+],
+"correcta": 0,
+"porque": "La cifra de la derecha es 2, así que el 5 se queda igual."
+}
+],
+"resta-de-fracciones-con-igual-denominador-primaria": [
+{
+"pregunta": "Resuelve $\\frac{8}{9} - \\frac{3}{9}$.",
+"opciones": [
+"$\\frac{11}{9}$",
+"$\\frac{5}{0}$",
+"$\\frac{5}{9}$"
+],
+"correcta": 2,
+"porque": "Se restan los numeradores, 8 - 3 = 5, y el 9 se queda igual."
+},
+{
+"pregunta": "Resuelve $\\frac{11}{12} - \\frac{4}{12}$.",
+"opciones": [
+"$\\frac{7}{12}$",
+"$\\frac{15}{12}$",
+"$\\frac{7}{8}$"
+],
+"correcta": 0,
+"porque": "11 - 4 = 7 y el denominador no cambia."
+},
+{
+"pregunta": "Resuelve $1 - \\frac{2}{5}$.",
+"opciones": [
+"$\\frac{2}{5}$",
+"$\\frac{3}{5}$",
+"$\\frac{1}{5}$"
+],
+"correcta": 1,
+"porque": "El 1 es $\\frac{5}{5}$, y 5 - 2 = 3."
+},
+{
+"pregunta": "Queda $\\frac{5}{6}$ de un pastel y comes $\\frac{2}{6}$. ¿Cuánto queda?",
+"opciones": [
+"$\\frac{3}{6}$",
+"$\\frac{7}{6}$",
+"$\\frac{3}{0}$"
+],
+"correcta": 0,
+"porque": "5 - 2 = 3 y las rebanadas siguen siendo sextos."
+},
+{
+"pregunta": "Al restar fracciones con igual denominador, ¿qué pasa con el denominador?",
+"opciones": [
+"Se vuelve cero siempre",
+"Se resta también",
+"Se queda igual"
+],
+"correcta": 2,
+"porque": "Dice el tamaño del pedazo, y ese no cambia."
+}
+],
+"resta-de-numeros-con-miles-primaria": [
+{
+"pregunta": "Resuelve 8 241 - 3 658.",
+"opciones": [
+"5 583",
+"5 417",
+"4 583"
+],
+"correcta": 2,
+"porque": "Pides prestado en cada columna, y 4 583 + 3 658 = 8 241."
+},
+{
+"pregunta": "Resuelve 7 000 - 3 456.",
+"opciones": [
+"3 544",
+"3 456",
+"4 544"
+],
+"correcta": 0,
+"porque": "Pides prestado hasta el millar, y 3 544 + 3 456 = 7 000."
+},
+{
+"pregunta": "Resuelve 20 314 - 8 425.",
+"opciones": [
+"11 889",
+"11 911",
+"12 111"
+],
+"correcta": 0,
+"porque": "Con préstamos queda 11 889, y sumando 8 425 vuelves al 20 314."
+},
+{
+"pregunta": "La biblioteca tenía 3 400 libros y prestó 1 650. ¿Cuántos quedan?",
+"opciones": [
+"5 050",
+"2 850",
+"1 750"
+],
+"correcta": 2,
+"porque": "3 400 - 1 650 = 1 750, y 1 750 + 1 650 = 3 400."
+},
+{
+"pregunta": "¿Cómo compruebas una resta?",
+"opciones": [
+"Multiplicando el resultado por el otro número",
+"Sumando el resultado y el número que restaste",
+"Restando otra vez los mismos dos números"
+],
+"correcta": 1,
+"porque": "La suma debe regresarte al número de arriba."
+}
+]
+}

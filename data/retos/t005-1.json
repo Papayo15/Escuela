@@ -1,0 +1,522 @@
+{
+"lectura-compartida-en-voz-alta-primaria": [
+{
+"pregunta": "¿Qué pausa haces cuando llegas a un punto al leer?",
+"opciones": [
+"No hago pausa",
+"Una pausa larga",
+"Una pausa corta"
+],
+"correcta": 1,
+"porque": "El punto pide una pausa larga."
+},
+{
+"pregunta": "Lees en voz alta: ¡Cuidado con el escalón! ¿Cómo lo lees?",
+"opciones": [
+"Muy bajito y sin ganas",
+"Con fuerza y emoción",
+"Con voz de pregunta"
+],
+"correcta": 1,
+"porque": "Los signos de exclamación piden fuerza y emoción."
+},
+{
+"pregunta": "Lees: ¿Quieres jugar conmigo? ¿Qué voz usas?",
+"opciones": [
+"Voz plana, igual que si leyeras una lista de compras",
+"Voz de pregunta",
+"Voz de grito fuerte y enojado"
+],
+"correcta": 1,
+"porque": "Los signos ¿ ? piden voz de pregunta."
+},
+{
+"pregunta": "Una compañera lee en voz alta y tú esperas tu turno. ¿Qué haces mientras tanto?",
+"opciones": [
+"Platico con otro niño",
+"Leo al mismo tiempo",
+"Escucho con atención"
+],
+"correcta": 2,
+"porque": "En grupo se espera el turno y se escucha."
+},
+{
+"pregunta": "Lees: Compré pan, leche y huevos. ¿Qué haces después de la palabra pan?",
+"opciones": [
+"Una pausa corta",
+"Sigo sin pausa",
+"Una pausa larga"
+],
+"correcta": 0,
+"porque": "La coma pide una pausa corta."
+}
+],
+"lenguajes-artisticos-cotidianos-primaria": [
+{
+"pregunta": "Pintas un paisaje con colores. ¿Qué lenguaje artístico usas?",
+"opciones": [
+"Música",
+"Teatro con voces de personajes y mucho movimiento",
+"Imágenes"
+],
+"correcta": 2,
+"porque": "Pintar usa imágenes, color y formas para expresar ideas."
+},
+{
+"pregunta": "Aplaudes al ritmo de una canción en el salón. ¿Qué lenguaje usas?",
+"opciones": [
+"Dibujo y color",
+"Teatro con personajes",
+"Sonido y música"
+],
+"correcta": 2,
+"porque": "El ritmo es parte de la música, que usa sonidos."
+},
+{
+"pregunta": "En la obra de tu escuela, un niño hace de lobo. ¿Qué lenguaje usa?",
+"opciones": [
+"Pintura de paisajes y retratos en una pared grande",
+"Teatro",
+"Música"
+],
+"correcta": 1,
+"porque": "En el teatro actúas un personaje y cuentas una historia."
+},
+{
+"pregunta": "¿Con qué expresa ideas una persona que baila?",
+"opciones": [
+"Con movimientos del cuerpo",
+"Con sonidos que salen de un instrumento",
+"Solo con colores sobre un papel"
+],
+"correcta": 0,
+"porque": "La danza usa el cuerpo y el movimiento para expresar."
+},
+{
+"pregunta": "¿Para qué sirven los lenguajes artísticos?",
+"opciones": [
+"Para hacer cuentas de sumas y restas",
+"Para usarse solo en museos grandes y no en el día a día",
+"Para expresar ideas"
+],
+"correcta": 2,
+"porque": "Expresan ideas con imágenes, sonidos, movimientos y teatro."
+}
+],
+"lenguajes-en-la-familia-primaria": [
+{
+"pregunta": "Tu mamá sonríe cuando te ve llegar a casa. ¿Qué te dice?",
+"opciones": [
+"Que ya debes hacer la tarea",
+"Que está contenta de verte",
+"Que está muy enojada contigo por algo que hiciste"
+],
+"correcta": 1,
+"porque": "Una sonrisa también dice algo, aunque no use palabras."
+},
+{
+"pregunta": "¿Cuál de estos es un texto que se lee en casa?",
+"opciones": [
+"Un cartel de cine",
+"Una receta de cocina",
+"Un mapa de otro país"
+],
+"correcta": 1,
+"porque": "Las recetas son textos de casa."
+},
+{
+"pregunta": "Tu hermano te muestra el pulgar arriba para decir que está bien. ¿Qué lenguaje usa?",
+"opciones": [
+"Gestos del cuerpo",
+"Un dibujo hecho con lápices de colores",
+"Solo palabras escritas"
+],
+"correcta": 0,
+"porque": "Los gestos son lenguaje corporal y comunican sin hablar."
+},
+{
+"pregunta": "Tu familia pega en el refri lo que hay que comprar: leche, huevos y pan. ¿Qué texto es?",
+"opciones": [
+"Una lista",
+"Un anuncio de radio para vender cosas",
+"Un cuento"
+],
+"correcta": 0,
+"porque": "Una lista anota cosas una por una para no olvidarlas."
+},
+{
+"pregunta": "¿Cómo dice cariño alguien sin hablar?",
+"opciones": [
+"Con un grito fuerte",
+"Con un abrazo",
+"Con una etiqueta pegada en la ropa de la persona"
+],
+"correcta": 1,
+"porque": "Un abrazo comunica cariño sin necesidad de palabras."
+}
+],
+"manifestaciones-culturales-artisticas-primaria-1-2": [
+{
+"pregunta": "¿Cuál de estos es una artesanía mexicana?",
+"opciones": [
+"Un teléfono celular que se compra en una tienda",
+"Un alebrije",
+"Un videojuego"
+],
+"correcta": 1,
+"porque": "Los alebrijes, el barro y los textiles bordados son artesanías."
+},
+{
+"pregunta": "¿Qué es un mural?",
+"opciones": [
+"Una canción que se canta en una fiesta grande",
+"Un baile con trajes de fiesta de un pueblo",
+"Una pintura que cuenta una historia"
+],
+"correcta": 2,
+"porque": "Un mural es una pintura que cuenta ideas o historias."
+},
+{
+"pregunta": "Una compañera trae a la escuela un textil bordado de su pueblo. ¿Qué haces?",
+"opciones": [
+"Observo, pregunto y respeto",
+"Le digo que mejor traiga algo que yo ya conozca",
+"Me burlo porque no lo conozco"
+],
+"correcta": 0,
+"porque": "Ante algo nuevo se observa, se pregunta y se respeta."
+},
+{
+"pregunta": "¿Qué son las manifestaciones culturales de tu comunidad?",
+"opciones": [
+"Reglas que todos deben copiar en el cuaderno de la escuela",
+"Solo juguetes comprados en tiendas grandes",
+"Fiestas, bailes, música y artesanías"
+],
+"correcta": 2,
+"porque": "Son las formas con las que tu comunidad celebra y expresa su cultura."
+},
+{
+"pregunta": "Dibujas la fiesta de tu pueblo para tu escuela. ¿Qué estás mostrando?",
+"opciones": [
+"Una manifestación cultural",
+"Un instructivo con pasos",
+"Una nota informativa del periódico"
+],
+"correcta": 0,
+"porque": "La fiesta del pueblo es una manifestación cultural."
+}
+],
+"mayusculas-en-nombres-propios-primaria": [
+{
+"pregunta": "¿Cuál de estas palabras es un nombre propio?",
+"opciones": [
+"maestra",
+"niña",
+"Sofía"
+],
+"correcta": 2,
+"porque": "Sofía es el nombre exacto de una persona y lleva mayúscula."
+},
+{
+"pregunta": "Tu mascota se llama luna. ¿Cómo escribes su nombre?",
+"opciones": [
+"luna",
+"Luna",
+"lUna"
+],
+"correcta": 1,
+"porque": "Los nombres propios llevan mayúscula inicial."
+},
+{
+"pregunta": "Después de un punto, ¿cómo empieza la siguiente palabra?",
+"opciones": [
+"Con mayúscula",
+"Con minúscula",
+"Con un número, para saber el orden de las oraciones"
+],
+"correcta": 0,
+"porque": "La palabra que sigue a un punto lleva mayúscula inicial."
+},
+{
+"pregunta": "¿La palabra país es un nombre propio?",
+"opciones": [
+"Sí, es muy importante",
+"Sí, nombra un lugar",
+"No, México sí lo es"
+],
+"correcta": 2,
+"porque": "País es un nombre común y México es un nombre propio."
+},
+{
+"pregunta": "Tu gata se llama Luna. ¿Cuál es la forma correcta de escribir su nombre?",
+"opciones": [
+"Con l minúscula, porque es una mascota",
+"Con todas las letras minúsculas y unas rayitas abajo",
+"Con L mayúscula inicial"
+],
+"correcta": 2,
+"porque": "El nombre de una mascota es propio y lleva mayúscula inicial."
+}
+],
+"medios-de-comunicacion-primaria": [
+{
+"pregunta": "¿Cuál de estos es un medio de comunicación?",
+"opciones": [
+"Un lápiz de colores para dibujar",
+"La radio",
+"Una mochila"
+],
+"correcta": 1,
+"porque": "La radio, la televisión e internet llevan mensajes a mucha gente."
+},
+{
+"pregunta": "Un anuncio de refresco dice que es el mejor. ¿Qué quiere?",
+"opciones": [
+"Que aprendas matemáticas",
+"Que la gente lo compre",
+"Que cuides el agua de tu escuela y tu casa"
+],
+"correcta": 1,
+"porque": "Un anuncio quiere que la gente compre un producto."
+},
+{
+"pregunta": "Antes de creer un mensaje de internet, ¿qué te preguntas?",
+"opciones": [
+"¿Qué tan grande es la letra del mensaje?",
+"¿Quién lo dice y para qué?",
+"¿Cuántos colores tiene la imagen que vi en la pantalla?"
+],
+"correcta": 1,
+"porque": "Preguntar quién lo dice y para qué ayuda a revisar si es cierto."
+},
+{
+"pregunta": "¿Todo lo que dice un medio de comunicación es cierto?",
+"opciones": [
+"Sí, porque lo dicen muchas personas",
+"No, hay que revisar",
+"Sí, siempre, si sale en la tele"
+],
+"correcta": 1,
+"porque": "No todo es cierto, por eso conviene revisar."
+},
+{
+"pregunta": "Tu abuelo ve noticias en una pantalla con imágenes y sonido. ¿Qué medio usa?",
+"opciones": [
+"Televisión",
+"Un periódico de papel con fotos",
+"Radio"
+],
+"correcta": 0,
+"porque": "La televisión muestra imágenes y sonido a la vez."
+}
+],
+"narracion-de-eventos-familia-escuela-primaria": [
+{
+"pregunta": "¿Qué es narrar?",
+"opciones": [
+"Dibujar sin decir nada",
+"Copiar un texto de otro libro sin cambiar nada",
+"Contar lo que pasó, en orden"
+],
+"correcta": 2,
+"porque": "Narrar es contar lo que pasó, siguiendo un orden."
+},
+{
+"pregunta": "¿Qué palabra te sirve para hablar del final?",
+"opciones": [
+"Primero",
+"Luego, porque casi siempre va después del inicio",
+"Al final"
+],
+"correcta": 2,
+"porque": "Al final indica lo último que pasó."
+},
+{
+"pregunta": "Cuentas: Primero fuimos al parque. Después comimos. ¿Qué pasó en segundo lugar?",
+"opciones": [
+"Después comimos",
+"Fuimos al parque",
+"Regresamos a casa"
+],
+"correcta": 0,
+"porque": "Primero fue el parque y en segundo lugar comieron."
+},
+{
+"pregunta": "¿Cuál es la parte de en medio de una narración?",
+"opciones": [
+"El final",
+"El desarrollo",
+"El inicio"
+],
+"correcta": 1,
+"porque": "Las tres partes son inicio, desarrollo y final."
+},
+{
+"pregunta": "Cuentas tu excursión a la escuela. ¿Con qué palabra de orden empiezas?",
+"opciones": [
+"Al final",
+"Primero",
+"Por último, porque eso fue lo que más me gustó"
+],
+"correcta": 1,
+"porque": "Primero marca el inicio de lo que pasó."
+}
+],
+"nota-informativa-primaria": [
+{
+"pregunta": "¿Qué cuenta una nota informativa?",
+"opciones": [
+"Un cuento inventado de dragones",
+"Un hecho real, que sucedió",
+"Lo que alguien quisiera que pasara"
+],
+"correcta": 1,
+"porque": "Una nota informativa cuenta un hecho real que se puede comprobar."
+},
+{
+"pregunta": "¿Cómo sabes que algo es información y no opinión?",
+"opciones": [
+"Siempre trae un dibujo grande de colores",
+"Es lo que alguien piensa",
+"Se puede comprobar"
+],
+"correcta": 2,
+"porque": "La información se comprueba; la opinión es lo que alguien piensa."
+},
+{
+"pregunta": "Una nota dice: El lunes hubo simulacro en el patio. ¿Qué pregunta responde en el patio?",
+"opciones": [
+"¿Dónde?",
+"¿Cuándo?",
+"¿Quién lo organizó para toda la escuela?"
+],
+"correcta": 0,
+"porque": "En el patio dice el lugar, y eso responde dónde."
+},
+{
+"pregunta": "¿Cuál frase es una opinión?",
+"opciones": [
+"La obra tuvo cuatro actores en el escenario.",
+"La obra estuvo muy bonita.",
+"La obra fue el viernes."
+],
+"correcta": 1,
+"porque": "Muy bonita es lo que alguien piensa, no se puede comprobar."
+},
+{
+"pregunta": "¿Dónde puedes publicar una nota informativa de tu escuela?",
+"opciones": [
+"En el periódico mural",
+"En el fondo de una mochila cerrada",
+"En un cajón donde nadie la pueda ver"
+],
+"correcta": 0,
+"porque": "El periódico mural permite que todos lean la nota."
+}
+],
+"palabras-con-ca-que-qui-co-cu-primaria": [
+{
+"pregunta": "Completa: ___sa (el lugar donde vives)",
+"opciones": [
+"que",
+"qui",
+"ca"
+],
+"correcta": 2,
+"porque": "El sonido ka antes de a se escribe ca: casa."
+},
+{
+"pregunta": "Completa: ___na (donde duerme un bebé)",
+"opciones": [
+"cu",
+"co",
+"ca"
+],
+"correcta": 0,
+"porque": "El sonido ku se escribe cu: cuna."
+},
+{
+"pregunta": "¿Cómo se escribe el sonido ke?",
+"opciones": [
+"que",
+"ce, igual que en la palabra cena",
+"cue"
+],
+"correcta": 0,
+"porque": "El sonido ke se escribe qu con e: que."
+},
+{
+"pregunta": "¿Suena la u en la palabra queso?",
+"opciones": [
+"Sí, suena fuerte como en uva",
+"Sí, pero solo cuando la palabra está al final",
+"No, se queda callada"
+],
+"correcta": 2,
+"porque": "En que y qui la u no suena."
+},
+{
+"pregunta": "Completa: ___mer (lo que haces con la comida)",
+"opciones": [
+"co",
+"cu",
+"qui"
+],
+"correcta": 0,
+"porque": "El sonido ko se escribe co: comer."
+}
+],
+"palabras-con-ga-gue-gui-go-gu-primaria": [
+{
+"pregunta": "Completa: ___llo (ave de granja que canta en la mañana)",
+"opciones": [
+"gui",
+"ga",
+"gue"
+],
+"correcta": 1,
+"porque": "El sonido ga se escribe ga: gallo."
+},
+{
+"pregunta": "Completa: ci___ña (ave grande que vuela mucho)",
+"opciones": [
+"go",
+"gü",
+"gu"
+],
+"correcta": 1,
+"porque": "Con diéresis la u suena: cigüeña."
+},
+{
+"pregunta": "¿Cómo se escribe el sonido gue?",
+"opciones": [
+"ge",
+"gue",
+"gü, con los dos puntitos sobre la letra u"
+],
+"correcta": 1,
+"porque": "Con e se escribe gu y suena gue."
+},
+{
+"pregunta": "¿Para qué sirve la diéresis, los dos puntitos sobre la u?",
+"opciones": [
+"Para que la u se quede callada",
+"Para que la u suene",
+"Para que la palabra se lea más rápido y más fuerte"
+],
+"correcta": 1,
+"porque": "Con diéresis la u sí suena, como en pingüino."
+},
+{
+"pregunta": "Completa: ___rra (pelea entre países)",
+"opciones": [
+"gui",
+"ge",
+"gue"
+],
+"correcta": 2,
+"porque": "El sonido gue con e se escribe gue: guerra."
+}
+]
+}

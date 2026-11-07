@@ -1,0 +1,522 @@
+{
+"paises-y-ciudades-mas-poblados-secundaria": [
+{
+"pregunta": "¿Qué país ocupa el tercer lugar en población?",
+"opciones": [
+"Indonesia",
+"Estados Unidos",
+"Pakistán"
+],
+"correcta": 1,
+"porque": "Estados Unidos va después de India y China."
+},
+{
+"pregunta": "¿Cuál de estas ciudades está entre las más pobladas?",
+"opciones": [
+"Tokio",
+"Lima",
+"Berlín"
+],
+"correcta": 0,
+"porque": "Tokio es una de las ciudades con más habitantes del mundo."
+},
+{
+"pregunta": "¿Cuántas personas hay más o menos en el mundo?",
+"opciones": [
+"Casi 800 millones",
+"Unos 80 millones",
+"Más de 8000 millones"
+],
+"correcta": 2,
+"porque": "El mundo supera los 8000 millones de personas."
+},
+{
+"pregunta": "¿En qué lugar está México entre los países por población?",
+"opciones": [
+"Está fuera de los 100",
+"Entre los 11 más poblados",
+"Es el número 1 del mundo"
+],
+"correcta": 1,
+"porque": "México está entre los 11 países con más gente."
+},
+{
+"pregunta": "Comparas la población de México con la de India. ¿Cuál tiene más habitantes?",
+"opciones": [
+"Tiene más gente México",
+"Tienen la misma gente",
+"Tiene más gente la India"
+],
+"correcta": 2,
+"porque": "India es de los países más poblados del mundo, mucho más que México."
+}
+],
+"peninsulas-e-islas-de-mexico-secundaria": [
+{
+"pregunta": "¿Cómo se llama una tierra rodeada de agua por todos lados?",
+"opciones": [
+"Península",
+"Costa",
+"Isla"
+],
+"correcta": 2,
+"porque": "Una isla tiene agua por todos sus lados."
+},
+{
+"pregunta": "¿Cuál de estas es una isla de Quintana Roo?",
+"opciones": [
+"Isla Guadalupe",
+"Cozumel",
+"Islas Marías"
+],
+"correcta": 1,
+"porque": "Cozumel está frente a la costa de Quintana Roo."
+},
+{
+"pregunta": "¿Por qué Yucatán es una península?",
+"opciones": [
+"Tiene agua por todos lados",
+"No tiene agua cerca",
+"Tiene agua por tres lados"
+],
+"correcta": 2,
+"porque": "Una península es tierra rodeada de agua por tres lados."
+},
+{
+"pregunta": "¿Qué es Baja California?",
+"opciones": [
+"Un volcán",
+"Una península",
+"Una isla"
+],
+"correcta": 1,
+"porque": "Baja California es una larga península."
+},
+{
+"pregunta": "Marcas Yucatán y Baja California en el mapa. ¿Qué tienen en común?",
+"opciones": [
+"Las dos son islas",
+"Las dos son ríos",
+"Las dos son penínsulas"
+],
+"correcta": 2,
+"porque": "Yucatán y Baja California son las penínsulas de México."
+}
+],
+"pib-e-idh-secundaria": [
+{
+"pregunta": "Un país produce 900 y tiene 30 habitantes. ¿Cuál es su PIB per cápita?",
+"opciones": [
+"30",
+"930",
+"270"
+],
+"correcta": 0,
+"porque": "Se divide el PIB entre la población: 900 entre 30 da 30."
+},
+{
+"pregunta": "¿Cuál valor del IDH indica un mejor desarrollo?",
+"opciones": [
+"0.2",
+"0.9",
+"0.5"
+],
+"correcta": 1,
+"porque": "El IDH va de 0 a 1 y mientras más cerca de 1, mejor."
+},
+{
+"pregunta": "¿Cuál índice se parece a preguntar si una familia está sana y estudia?",
+"opciones": [
+"El PIB per cápita",
+"El IDH",
+"El PIB"
+],
+"correcta": 1,
+"porque": "El IDH mide salud, educación e ingresos."
+},
+{
+"pregunta": "Un pueblo produce 2000 y tiene 100 personas. ¿Cuánto es su PIB per cápita?",
+"opciones": [
+"20",
+"2100",
+"200"
+],
+"correcta": 0,
+"porque": "Dividimos 2000 entre 100 y sale 20."
+},
+{
+"pregunta": "¿Cómo se calcula el PIB per cápita?",
+"opciones": [
+"Sumar el PIB y la población",
+"Dividir el PIB entre la población",
+"Restar la población al PIB"
+],
+"correcta": 1,
+"porque": "El PIB per cápita es el PIB entre el número de habitantes."
+}
+],
+"piramide-de-poblacion-secundaria": [
+{
+"pregunta": "En una pirámide de población, ¿quiénes van en la parte de abajo?",
+"opciones": [
+"Los adultos",
+"Los abuelos",
+"Los niños"
+],
+"correcta": 2,
+"porque": "Abajo se ponen los más jóvenes y arriba los mayores."
+},
+{
+"pregunta": "Una ciudad quiere saber si necesita más escuelas o más clínicas. ¿Qué gráfica le ayuda?",
+"opciones": [
+"Mapa del clima",
+"Gráfica de lluvias",
+"Pirámide de población"
+],
+"correcta": 2,
+"porque": "La pirámide muestra cuántas personas hay de cada edad."
+},
+{
+"pregunta": "¿Qué pasa en un país donde la pirámide tiene forma de urna?",
+"opciones": [
+"Nadie vive ahí",
+"Nacen pocos niños",
+"Nacen muchísimos niños"
+],
+"correcta": 1,
+"porque": "La forma de urna indica pocos nacimientos."
+},
+{
+"pregunta": "La pirámide de México se vuelve más recta. ¿Qué significa?",
+"opciones": [
+"Que ya no hay adultos mayores",
+"Que ya nacen menos niños que antes",
+"Que hoy nacen más niños que antes"
+],
+"correcta": 1,
+"porque": "Una forma más recta muestra menos nacimientos que antes."
+},
+{
+"pregunta": "Tu maestra hace la pirámide de tu salón. ¿Qué junta cada barra?",
+"opciones": [
+"Personas de la misma edad",
+"Personas del mismo color",
+"Personas de la misma colonia"
+],
+"correcta": 0,
+"porque": "Cada barra agrupa personas por edad y sexo."
+}
+],
+"placas-tectonicas-relieve-sismos-vulcanismo-secundaria": [
+{
+"pregunta": "¿Qué sale cuando dos placas se separan?",
+"opciones": [
+"Magma",
+"Arena",
+"Hielo"
+],
+"correcta": 0,
+"porque": "Al separarse las placas, sube magma desde abajo."
+},
+{
+"pregunta": "Cuando se junta tensión y se suelta de golpe, ¿qué ocurre?",
+"opciones": [
+"Un sismo",
+"Un volcán",
+"Una isla"
+],
+"correcta": 0,
+"porque": "El sismo es la tensión que se suelta de golpe."
+},
+{
+"pregunta": "Empujas dos hojas una contra otra en tu escuela. ¿Qué pasa con ellas?",
+"opciones": [
+"Se vuelven como agua",
+"Se levantan como montañas",
+"Se hunden como un lago"
+],
+"correcta": 1,
+"porque": "Cuando las placas chocan, la tierra se levanta y forma montañas."
+},
+{
+"pregunta": "¿Qué sube por un volcán cuando hace erupción?",
+"opciones": [
+"Hielo",
+"Magma",
+"Arena"
+],
+"correcta": 1,
+"porque": "En un volcán sube magma desde adentro de la Tierra."
+},
+{
+"pregunta": "En México, ¿qué placa se mete bajo la de Norteamérica?",
+"opciones": [
+"La placa Africana",
+"La placa Euroasiática",
+"La placa de Cocos"
+],
+"correcta": 2,
+"porque": "La placa de Cocos se hunde bajo la de Norteamérica."
+}
+],
+"poblacion-crecimiento-distribucion-migracion-secundaria": [
+{
+"pregunta": "Natalidad de 22 por mil y mortalidad de 10 por mil. ¿Cuánto es el crecimiento natural?",
+"opciones": [
+"32 por mil",
+"12 por mil",
+"8 por mil"
+],
+"correcta": 1,
+"porque": "Se restan: 22 menos 10 da 12 por cada mil."
+},
+{
+"pregunta": "Una zona de 20 km² tiene 800 habitantes. ¿Cuál es su densidad?",
+"opciones": [
+"40 hab/km²",
+"820 hab/km²",
+"160 hab/km²"
+],
+"correcta": 0,
+"porque": "Se divide: 800 entre 20 da 40 habitantes por km²."
+},
+{
+"pregunta": "Una familia llega a vivir a tu colonia desde otro estado. ¿Qué hace?",
+"opciones": [
+"Nace",
+"Inmigra",
+"Emigra"
+],
+"correcta": 1,
+"porque": "Inmigrar es llegar a un lugar nuevo."
+},
+{
+"pregunta": "¿Qué estudia la demografía?",
+"opciones": [
+"Cuántos somos y dónde vivimos",
+"Cuántos ríos hay en un país",
+"Qué tan altas son las montañas"
+],
+"correcta": 0,
+"porque": "La demografía estudia a la población y cómo cambia."
+},
+{
+"pregunta": "¿Cómo se calcula el crecimiento natural?",
+"opciones": [
+"Nacimientos menos muertes",
+"Nacimientos más muertes",
+"Muertes menos habitantes"
+],
+"correcta": 0,
+"porque": "El crecimiento natural resta las muertes a los nacimientos."
+}
+],
+"procesos-productivos-consecuencias-secundaria": [
+{
+"pregunta": "Un granjero cría vacas. ¿En qué sector está su trabajo?",
+"opciones": [
+"Secundario",
+"Primario",
+"Terciario"
+],
+"correcta": 1,
+"porque": "El sector primario obtiene cosas de la naturaleza."
+},
+{
+"pregunta": "Una fábrica hace jugo de naranja. ¿En qué sector está?",
+"opciones": [
+"Terciario",
+"Secundario",
+"Primario"
+],
+"correcta": 1,
+"porque": "El sector secundario transforma lo que se obtiene de la naturaleza."
+},
+{
+"pregunta": "Un cine ofrece un servicio. ¿En qué sector está?",
+"opciones": [
+"Secundario",
+"Primario",
+"Terciario"
+],
+"correcta": 2,
+"porque": "Los servicios y la venta son del sector terciario."
+},
+{
+"pregunta": "¿Cuál es una consecuencia mala de algunos procesos productivos?",
+"opciones": [
+"Más empleos y productos",
+"Más árboles y agua limpia",
+"Tala y contaminación"
+],
+"correcta": 2,
+"porque": "Algunos procesos dañan la naturaleza con tala y contaminación."
+},
+{
+"pregunta": "¿Cuál pareja de sector y ejemplo está bien?",
+"opciones": [
+"Terciario: sembrar maíz en el campo",
+"Secundario: coser playeras en fábrica",
+"Primario: vender playeras en tienda"
+],
+"correcta": 1,
+"porque": "Coser playeras es transformar, por eso es secundario."
+}
+],
+"produccion-consumo-sustentable-secundaria": [
+{
+"pregunta": "¿Qué significa la primera R, Reduce?",
+"opciones": [
+"Separar la basura",
+"Comprar solo lo necesario",
+"Usar las cosas otra vez"
+],
+"correcta": 1,
+"porque": "Reducir es comprar solo lo que realmente necesitas."
+},
+{
+"pregunta": "Te sobraron botes de plástico. ¿Cuál es una forma de reutilizar?",
+"opciones": [
+"Usarlos como macetas",
+"Quemarlos en el patio",
+"Tirarlos con la basura"
+],
+"correcta": 0,
+"porque": "Reutilizar es darle otro uso a las cosas."
+},
+{
+"pregunta": "¿Cuál energía es renovable?",
+"opciones": [
+"La energía del viento",
+"La energía del petróleo",
+"La energía del carbón"
+],
+"correcta": 0,
+"porque": "La energía solar, eólica e hidráulica son renovables."
+},
+{
+"pregunta": "¿Qué significa reciclar?",
+"opciones": [
+"Separar la basura",
+"Tirar todo junto",
+"Comprar cosas nuevas"
+],
+"correcta": 0,
+"porque": "Reciclar empieza por separar la basura para volver a usarla."
+},
+{
+"pregunta": "¿Para qué sirve comprar productos locales?",
+"opciones": [
+"Para que duren menos",
+"Para que cuesten más",
+"Para que viajen menos"
+],
+"correcta": 2,
+"porque": "Lo local se mueve poco y gasta menos energía."
+}
+],
+"pueblos-indigenas-y-lenguas-de-mexico-secundaria": [
+{
+"pregunta": "¿Cuántas lenguas indígenas nacionales hay en México?",
+"opciones": [
+"250 lenguas",
+"68 lenguas",
+"12 lenguas"
+],
+"correcta": 1,
+"porque": "En México hay 68 lenguas indígenas nacionales."
+},
+{
+"pregunta": "¿Quiénes son los pueblos indígenas?",
+"opciones": [
+"Turistas de otros países",
+"Personas que llegaron hace poco",
+"Descendientes de pueblos originarios"
+],
+"correcta": 2,
+"porque": "Son descendientes de los pueblos que vivían aquí desde antes."
+},
+{
+"pregunta": "¿Qué tienen los pueblos indígenas?",
+"opciones": [
+"Solo una lengua extranjera",
+"Lengua y cultura propias",
+"Ninguna cultura propia"
+],
+"correcta": 1,
+"porque": "Cada pueblo indígena tiene su lengua y su cultura."
+},
+{
+"pregunta": "Para saber qué lengua indígena se habla en tu estado, ¿qué haces?",
+"opciones": [
+"Inventar un nombre de lengua",
+"Buscarlo y preguntar en tu comunidad",
+"Pensar que no hay ninguna"
+],
+"correcta": 1,
+"porque": "Se puede investigar y preguntar a las personas de tu comunidad."
+},
+{
+"pregunta": "Un compañero habla tsotsil en casa. ¿Cómo lo tratas?",
+"opciones": [
+"Le dices que hable solo español",
+"Con respeto, es una lengua de México",
+"Le pides que mejor la olvide"
+],
+"correcta": 1,
+"porque": "El tsotsil es una lengua nacional y merece respeto."
+}
+],
+"recursos-naturales-de-mexico-secundaria": [
+{
+"pregunta": "¿Cuál de estos recursos es renovable?",
+"opciones": [
+"El viento",
+"Los minerales",
+"El petróleo"
+],
+"correcta": 0,
+"porque": "El viento vuelve a soplar, por eso es renovable."
+},
+{
+"pregunta": "¿Cuál de estos recursos es no renovable?",
+"opciones": [
+"Los bosques",
+"El viento",
+"Los minerales"
+],
+"correcta": 2,
+"porque": "Los minerales se acaban si los gastamos todos."
+},
+{
+"pregunta": "¿Qué lugar ocupa México en producción de plata?",
+"opciones": [
+"Último lugar mundial",
+"Primer lugar mundial",
+"Segundo lugar mundial"
+],
+"correcta": 1,
+"porque": "México es primer lugar mundial en plata."
+},
+{
+"pregunta": "¿Dónde hay petróleo en México?",
+"opciones": [
+"En el Atlántico Norte",
+"En el Golfo de México",
+"En el mar Caribe"
+],
+"correcta": 1,
+"porque": "México tiene petróleo en el Golfo."
+},
+{
+"pregunta": "Haces la lista de recursos naturales de tu estado. ¿Cuál lista está bien?",
+"opciones": [
+"Plástico, vidrio y cemento",
+"Libros, mesas y sillas",
+"Agua, bosque y sol"
+],
+"correcta": 2,
+"porque": "Agua, bosque y sol son regalos de la naturaleza."
+}
+]
+}

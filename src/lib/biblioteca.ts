@@ -2,6 +2,7 @@ import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
 import type { Bd } from "./db";
 import {
+  archivoRetos,
   archivoTema,
   nodoCurricular,
   type ArchivoTema,
@@ -32,7 +33,16 @@ export async function leerBiblioteca(raiz = process.cwd()): Promise<Biblioteca> 
   for (const ruta of await jsonEn(path.join(datos, "temas"))) {
     temas.push(...archivoTema.array().parse(JSON.parse(await readFile(ruta, "utf8"))));
   }
-  return { nodos, temas };
+  const retos: Record<string, ArchivoTema["contenido"]["reto"]> = {};
+  for (const ruta of await jsonEn(path.join(datos, "retos"))) {
+    Object.assign(retos, archivoRetos.parse(JSON.parse(await readFile(ruta, "utf8"))));
+  }
+  const conReto = temas.map((t) =>
+    retos[t.slug] ? { ...t, contenido: { ...t.contenido, reto: retos[t.slug] } } : t,
+  );
+  const sobran = Object.keys(retos).filter((s) => !temas.some((t) => t.slug === s));
+  if (sobran.length) throw new Error(`Retos sin tema: ${sobran.slice(0, 5).join(", ")}`);
+  return { nodos, temas: conReto };
 }
 
 export async function sembrar(db: Bd, { nodos, temas }: Biblioteca): Promise<void> {

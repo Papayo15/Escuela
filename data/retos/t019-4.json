@@ -1,0 +1,522 @@
+{
+"igualdad-sustantiva-secundaria": [
+{
+"pregunta": "¿Qué es la inclusión?",
+"opciones": [
+"Quitar barreras para que todos participen",
+"Dar privilegios a unos pocos",
+"Separar a quienes son distintos"
+],
+"correcta": 0,
+"porque": "Incluir es quitar barreras para que todos puedan participar."
+},
+{
+"pregunta": "¿Qué busca la perspectiva de género?",
+"opciones": [
+"Que unos tengan más que otros",
+"Que haya las mismas oportunidades",
+"Que nadie pueda participar"
+],
+"correcta": 1,
+"porque": "Busca que todas las personas tengan oportunidades parecidas."
+},
+{
+"pregunta": "¿Qué hace una rampa en la escuela?",
+"opciones": [
+"Quita una barrera para entrar",
+"Es un adorno de la entrada",
+"Da un premio a unos cuantos"
+],
+"correcta": 0,
+"porque": "La rampa quita una barrera para quien la necesita."
+},
+{
+"pregunta": "Tener el derecho no basta. ¿Qué falta?",
+"opciones": [
+"Que nadie lo conozca",
+"Que se cumpla en la vida real",
+"Que se escriba más grande"
+],
+"correcta": 1,
+"porque": "La igualdad sustantiva ocurre en la vida diaria y no solo en papel."
+},
+{
+"pregunta": "La igualdad sustantiva se nota en...",
+"opciones": [
+"Solo en los discursos",
+"La escuela y el trabajo, en la vida real",
+"Solo en el papel de la ley"
+],
+"correcta": 1,
+"porque": "Es cuando los derechos de verdad se cumplen."
+}
+],
+"ine-y-elecciones-secundaria": [
+{
+"pregunta": "¿Qué organiza el INE?",
+"opciones": [
+"Las elecciones federales",
+"Los juicios de amparo",
+"Las clases de la SEP"
+],
+"correcta": 0,
+"porque": "El INE organiza las elecciones federales."
+},
+{
+"pregunta": "¿Qué significa que el voto sea secreto?",
+"opciones": [
+"Nadie debe saber por quién votas si tú no quieres",
+"Tu familia decide por ti",
+"Debes decirlo en voz alta"
+],
+"correcta": 0,
+"porque": "El voto secreto protege tu libertad de elegir."
+},
+{
+"pregunta": "Organizas una elección en tu salón. ¿Qué haces como el INE?",
+"opciones": [
+"Cuentas los votos con reglas parejas",
+"Eliges tú al ganador",
+"Dejas votar solo a tus amigos"
+],
+"correcta": 0,
+"porque": "El INE cuenta los votos con reglas iguales para todos."
+},
+{
+"pregunta": "¿Qué quiere decir que el voto sea libre?",
+"opciones": [
+"Se vota por quien pide el jefe",
+"Cada quien elige sin que lo obliguen",
+"Se vota por quien regale cosas"
+],
+"correcta": 1,
+"porque": "Libre significa que nadie te obliga a votar por alguien."
+},
+{
+"pregunta": "¿Qué otra función tiene el INE?",
+"opciones": [
+"Promover el voto",
+"Dar clases",
+"Hacer leyes"
+],
+"correcta": 0,
+"porque": "El INE también promueve que la gente participe votando."
+}
+],
+"movimientos-sociales-derechos-humanos-secundaria": [
+{
+"pregunta": "¿Qué lucha hubo en Sudáfrica?",
+"opciones": [
+"Por el cambio de moneda",
+"Por el uso del internet",
+"Contra el apartheid"
+],
+"correcta": 2,
+"porque": "Fue una lucha por la igualdad de derechos de todas las personas."
+},
+{
+"pregunta": "¿Qué idea clave muestran estos movimientos?",
+"opciones": [
+"Los derechos llegan solos",
+"Los derechos se defienden, no se regalan",
+"Los derechos solo se logran con violencia"
+],
+"correcta": 1,
+"porque": "La gente organizada logra cambios para sus derechos."
+},
+{
+"pregunta": "Tu salón quiere cambiar una regla injusta. ¿Qué se parece a un movimiento social?",
+"opciones": [
+"Romper el pizarrón",
+"Esperar sin decir nada",
+"Reunir firmas y pedirlo a la dirección"
+],
+"correcta": 2,
+"porque": "Organizarse y pedir con respeto es una forma de movimiento."
+},
+{
+"pregunta": "¿Qué usan los movimientos para pedir cambios?",
+"opciones": [
+"Silencio total",
+"Marchas, peticiones y campañas",
+"Insultos y golpes"
+],
+"correcta": 1,
+"porque": "Son formas pacíficas de pedir algo justo."
+},
+{
+"pregunta": "El movimiento por el voto de las mujeres buscaba...",
+"opciones": [
+"Que las mujeres pudieran votar",
+"Que solo votaran los jóvenes",
+"Que no hubiera elecciones"
+],
+"correcta": 0,
+"porque": "Las mujeres lucharon para tener derecho a votar."
+}
+],
+"normas-leyes-instituciones-derechos-humanos-secundaria": [
+{
+"pregunta": "¿Quién resuelve con el juicio de amparo?",
+"opciones": [
+"Los comerciantes",
+"Los jueces",
+"Los vecinos"
+],
+"correcta": 1,
+"porque": "Los jueces resuelven con el juicio de amparo."
+},
+{
+"pregunta": "¿A quiénes protegen las procuradurías?",
+"opciones": [
+"A las empresas",
+"A los comerciantes",
+"A la niñez"
+],
+"correcta": 2,
+"porque": "Las procuradurías protegen a niñas y niños."
+},
+{
+"pregunta": "¿Cuál es el primer paso para exigir un derecho?",
+"opciones": [
+"Juntar información",
+"Esperar a que se arregle solo",
+"Gritar sin decir qué quieres"
+],
+"correcta": 0,
+"porque": "Primero necesitas saber qué pasó y qué derecho se afecta."
+},
+{
+"pregunta": "Un adulto te maltrata. ¿A quién acudes en tu escuela?",
+"opciones": [
+"Solo a otro compañero",
+"A un maestro o a la dirección",
+"A nadie, para evitar problemas"
+],
+"correcta": 1,
+"porque": "Un adulto de la escuela puede ayudarte."
+},
+{
+"pregunta": "¿Qué son las normas?",
+"opciones": [
+"Solo los chismes de la escuela",
+"Solo los consejos de los amigos",
+"La Constitución, las leyes y el reglamento escolar"
+],
+"correcta": 2,
+"porque": "Las normas dicen qué derechos y deberes tienes."
+}
+],
+"onu-y-sus-organismos-secundaria": [
+{
+"pregunta": "¿Qué organismo se ocupa de la alimentación?",
+"opciones": [
+"UNICEF",
+"La FAO",
+"La UNESCO"
+],
+"correcta": 1,
+"porque": "La FAO trabaja para que haya comida para todos."
+},
+{
+"pregunta": "¿Qué organismo resuelve disputas entre países?",
+"opciones": [
+"La Corte Internacional de Justicia",
+"La FAO, que cuida la alimentación",
+"La OMS, que cuida la salud mundial"
+],
+"correcta": 0,
+"porque": "La Corte Internacional de Justicia resuelve disputas entre países."
+},
+{
+"pregunta": "¿Qué es la ONU?",
+"opciones": [
+"Un club de amigos de un solo país",
+"Una empresa que vende comida",
+"Países reunidos para ayudar al mundo"
+],
+"correcta": 2,
+"porque": "La ONU reúne a países con equipos para problemas del mundo."
+},
+{
+"pregunta": "En un país hay una epidemia. ¿Qué organismo ayuda?",
+"opciones": [
+"ACNUR",
+"La OMS",
+"La FAO"
+],
+"correcta": 1,
+"porque": "La OMS se ocupa de la salud en el mundo."
+},
+{
+"pregunta": "ACNUR y FAO son...",
+"opciones": [
+"Organismos de la ONU",
+"Escuelas de México",
+"Partidos políticos"
+],
+"correcta": 0,
+"porque": "Cada organismo atiende un problema distinto del mundo."
+}
+],
+"personas-organizaciones-cultura-de-paz-secundaria": [
+{
+"pregunta": "¿Quién luchó contra el apartheid?",
+"opciones": [
+"Mahatma Gandhi",
+"Malala Yousafzai",
+"Nelson Mandela"
+],
+"correcta": 2,
+"porque": "Mandela luchó contra el apartheid en Sudáfrica."
+},
+{
+"pregunta": "¿Qué premio ganó Malala en 2014?",
+"opciones": [
+"Un Óscar de cine",
+"El Nobel de la Paz",
+"Un Premio de Matemáticas"
+],
+"correcta": 1,
+"porque": "Malala defiende el derecho de las niñas a estudiar."
+},
+{
+"pregunta": "¿Cuál es una organización que ayuda a la paz?",
+"opciones": [
+"Una tienda de ropa",
+"Un equipo de futbol",
+"La Cruz Roja"
+],
+"correcta": 2,
+"porque": "La Cruz Roja es una de las organizaciones por la paz."
+},
+{
+"pregunta": "Dos compañeros pelean. ¿Cómo participas por la paz?",
+"opciones": [
+"Gritas para que paren",
+"Los dejas pelear solos",
+"Ayudas a que hablen y se pongan de acuerdo"
+],
+"correcta": 2,
+"porque": "Tú también puedes ayudar a resolver peleas."
+},
+{
+"pregunta": "¿Qué hizo Martin Luther King?",
+"opciones": [
+"Luchó por los derechos civiles",
+"Fundó la organización UNICEF",
+"Dirigió a la ONU en Nueva York"
+],
+"correcta": 0,
+"porque": "Martin Luther King luchó por los derechos civiles."
+}
+],
+"presidencia-y-gabinete-secundaria": [
+{
+"pregunta": "La presidencia es como la capitana. ¿Y el gabinete?",
+"opciones": [
+"Su rival",
+"Su equipo",
+"Su público"
+],
+"correcta": 1,
+"porque": "El gabinete son las secretarías que ayudan a la presidencia."
+},
+{
+"pregunta": "¿Qué función tiene la presidencia?",
+"opciones": [
+"Aplicar las leyes",
+"Hacer las leyes",
+"Juzgar los casos"
+],
+"correcta": 0,
+"porque": "La presidencia encabeza el Ejecutivo y aplica las leyes."
+},
+{
+"pregunta": "¿Qué otra función tiene la presidencia?",
+"opciones": [
+"Resolver los amparos",
+"Contar los votos en las elecciones",
+"Mandar las Fuerzas Armadas"
+],
+"correcta": 2,
+"porque": "Dirige las Fuerzas Armadas y las relaciones exteriores."
+},
+{
+"pregunta": "¿Qué es el gabinete?",
+"opciones": [
+"Un salón de la Cámara de Diputados",
+"La lista de personas que votan",
+"Las secretarías que ayudan a la presidencia"
+],
+"correcta": 2,
+"porque": "Cada secretaría atiende un tema como salud o educación."
+},
+{
+"pregunta": "Quieres saber qué secretaría atiende las escuelas. ¿Cuál es?",
+"opciones": [
+"Defensa",
+"Educación",
+"Hacienda"
+],
+"correcta": 1,
+"porque": "La Secretaría de Educación se ocupa de las escuelas."
+}
+],
+"proteccion-denuncia-violencia-genero-secundaria": [
+{
+"pregunta": "¿Qué es la violencia sexual?",
+"opciones": [
+"Cualquier acto sexual sin consentimiento",
+"Un juego entre amigos",
+"Una pelea de palabras"
+],
+"correcta": 0,
+"porque": "Si no hay consentimiento, es violencia y no es culpa de quien la vive."
+},
+{
+"pregunta": "¿Cuál es una señal de violencia?",
+"opciones": [
+"Que te feliciten por algo",
+"Que te alejen de tu familia",
+"Que te inviten a un cumpleaños"
+],
+"correcta": 1,
+"porque": "Aislarte de tu familia es una señal de control."
+},
+{
+"pregunta": "Si estás en peligro, ¿qué número puedes marcar?",
+"opciones": [
+"911",
+"070",
+"099"
+],
+"correcta": 0,
+"porque": "El 911 es el número de emergencias."
+},
+{
+"pregunta": "¿Cómo puedes protegerte?",
+"opciones": [
+"Aceptando regalos de personas extrañas",
+"Compartiendo tu ubicación con todos",
+"Cuidando tus datos y evitando citas con desconocidos"
+],
+"correcta": 2,
+"porque": "Cuidar tus datos te protege de personas que quieren engañarte."
+},
+{
+"pregunta": "¿Qué es la violencia de género?",
+"opciones": [
+"Un desacuerdo normal entre amigos",
+"Daño físico, emocional, sexual o económico por el género",
+"Una competencia deportiva"
+],
+"correcta": 1,
+"porque": "Es cualquier daño que se hace a una persona por su género."
+}
+],
+"proyectos-ciudadania-democratica-secundaria": [
+{
+"pregunta": "El parque está oscuro. ¿Cuál es un buen objetivo?",
+"opciones": [
+"Que alguien lo arregle",
+"Que todo mejore algún día",
+"Poner dos lámparas en el parque"
+],
+"correcta": 2,
+"porque": "Un buen objetivo es claro y se puede lograr."
+},
+{
+"pregunta": "Después de elegir el problema, ¿qué haces?",
+"opciones": [
+"Revisas si ya funcionó",
+"Haces el proyecto sin pensar",
+"Averiguas por qué pasa y a quién afecta"
+],
+"correcta": 2,
+"porque": "Primero entiendes el problema para poder resolverlo."
+},
+{
+"pregunta": "¿Qué se hace al final del proyecto?",
+"opciones": [
+"Elegir el problema",
+"Cancelarlo sin avisar",
+"Revisar si funcionó"
+],
+"correcta": 2,
+"porque": "Al final revisas si lo que hiciste resolvió el problema."
+},
+{
+"pregunta": "¿A quién puedes pedir apoyo en un proyecto comunitario?",
+"opciones": [
+"A nadie, está prohibido",
+"Solo a personas famosas",
+"A las autoridades"
+],
+"correcta": 2,
+"porque": "Las autoridades pueden ayudar a resolver un problema común."
+},
+{
+"pregunta": "Planear significa...",
+"opciones": [
+"Decidir quién hace qué y cuándo",
+"Dejarlo para después",
+"Hacerlo todo tú solo"
+],
+"correcta": 0,
+"porque": "Un plan reparte tareas y tiempos."
+}
+],
+"representacion-democratica-instituciones-secundaria": [
+{
+"pregunta": "El jefe de grupo habla por todo el salón. ¿A quién se parece?",
+"opciones": [
+"A un juez",
+"A quien da las calificaciones",
+"A un representante elegido"
+],
+"correcta": 2,
+"porque": "Un representante es elegido para hablar por todos."
+},
+{
+"pregunta": "¿Cómo se elige a los representantes?",
+"opciones": [
+"Por quien paga más",
+"Por sorteo entre amigos",
+"Con voto libre y secreto"
+],
+"correcta": 2,
+"porque": "Se elige en elecciones con voto libre y secreto."
+},
+{
+"pregunta": "¿Quiénes pueden participar en las elecciones?",
+"opciones": [
+"Solo quien tenga más dinero",
+"Solo un partido",
+"Partidos y candidaturas independientes"
+],
+"correcta": 2,
+"porque": "Hay partidos y candidaturas independientes."
+},
+{
+"pregunta": "¿Quién hace las leyes?",
+"opciones": [
+"El Congreso",
+"La escuela",
+"El INE"
+],
+"correcta": 0,
+"porque": "El Congreso es el que hace las leyes."
+},
+{
+"pregunta": "Haces una elección de jefe de grupo con boletas. ¿Qué cuidas?",
+"opciones": [
+"Que gane tu amigo",
+"Que el voto sea libre y secreto",
+"Que todos voten en voz alta"
+],
+"correcta": 1,
+"porque": "Cuidas que cada quien vote sin presión y sin que lo vean."
+}
+]
+}

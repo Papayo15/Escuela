@@ -1,0 +1,522 @@
+{
+"replicacion-del-adn-prepa": [
+{
+"pregunta": "Un molde de ADN dice CCG. ¿Qué cadena nueva se forma?",
+"opciones": [
+"GGC",
+"GGA",
+"CCG"
+],
+"correcta": 0,
+"porque": "C se une con G y G con C, así que CCG forma GGC."
+},
+{
+"pregunta": "Al terminar la replicación, ¿cuántas moléculas de ADN hay?",
+"opciones": [
+"Cuatro moléculas distintas",
+"Dos moléculas totalmente nuevas",
+"Dos moléculas iguales"
+],
+"correcta": 2,
+"porque": "De una molécula salen dos iguales entre sí."
+},
+{
+"pregunta": "¿Qué tiene cada molécula de ADN después de copiarse?",
+"opciones": [
+"Una cadena vieja y una nueva",
+"Dos cadenas viejas sin cambios",
+"Dos cadenas nuevas sin molde"
+],
+"correcta": 0,
+"porque": "Es semiconservativa: guarda una mitad vieja y completa la otra."
+},
+{
+"pregunta": "¿Qué hace la helicasa?",
+"opciones": [
+"Abre la doble hélice",
+"Une las dos copias nuevas",
+"Revisa errores al copiar"
+],
+"correcta": 0,
+"porque": "La helicasa abre el cierre del ADN para que cada lado sirva de molde."
+},
+{
+"pregunta": "¿Cuándo se copia el ADN de una célula?",
+"opciones": [
+"Antes de la división",
+"Después de la división celular",
+"Cuando la célula ya murió"
+],
+"correcta": 0,
+"porque": "La célula copia su ADN antes de dividirse, para dar una copia a cada hija."
+}
+],
+"segunda-ley-de-mendel-prepa": [
+{
+"pregunta": "¿Qué gametos da una planta AaBB?",
+"opciones": [
+"Ab y ab",
+"AB y ab",
+"AB y aB"
+],
+"correcta": 2,
+"porque": "La B no cambia, y la A se separa de la a, así que salen AB y aB."
+},
+{
+"pregunta": "¿Qué quiere decir distribución independiente?",
+"opciones": [
+"Solo se reparte un gen a la vez",
+"Los rasgos siempre viajan juntos",
+"Un rasgo no arrastra al otro"
+],
+"correcta": 2,
+"porque": "Los alelos de genes distintos se reparten sin depender uno del otro."
+},
+{
+"pregunta": "Dos padres AaBb tienen 16 hijos. ¿Cuántos muestran los dos rasgos fuertes?",
+"opciones": [
+"9 hijos",
+"1 hijo",
+"3 hijos"
+],
+"correcta": 0,
+"porque": "La razón $9:3:3:1$ dice que 9 de cada 16 muestran los dos rasgos fuertes."
+},
+{
+"pregunta": "Lanzas dos monedas. ¿En qué se parecen a dos genes?",
+"opciones": [
+"Siempre salen las dos iguales",
+"Cada una sale por separado",
+"Una moneda decide la otra"
+],
+"correcta": 1,
+"porque": "Lo que sale en una moneda no cambia lo que sale en la otra."
+},
+{
+"pregunta": "¿Qué tomas de cada par para formar un gameto de AaBb?",
+"opciones": [
+"Las dos letras del primer par",
+"Una letra de cada par",
+"Todas las letras juntas"
+],
+"correcta": 1,
+"porque": "Del par Aa tomas una letra y del par Bb otra, como AB o ab."
+}
+],
+"seleccion-natural-preparatoria": [
+{
+"pregunta": "¿Quiénes sobreviven y se reproducen más?",
+"opciones": [
+"Los que quieren cambiar",
+"Los más grandes siempre",
+"Los mejor adaptados"
+],
+"correcta": 2,
+"porque": "Los mejor adaptados al ambiente dejan más crías."
+},
+{
+"pregunta": "En la selección natural, ¿qué cambia con el tiempo?",
+"opciones": [
+"Cada individuo en su vida",
+"La población entera",
+"Solo el ambiente"
+],
+"correcta": 1,
+"porque": "Nadie cambia porque quiera: cambia la población."
+},
+{
+"pregunta": "En tu escuela hablan de los antibióticos. ¿Qué pasa si se abusa de ellos?",
+"opciones": [
+"Se hacen bacterias resistentes",
+"Se vuelven bacterias más débiles",
+"Se acaban las bacterias buenas"
+],
+"correcta": 0,
+"porque": "Las bacterias resistentes sobreviven y dejan más crías."
+},
+{
+"pregunta": "¿Qué dice el paso 3 de la selección natural?",
+"opciones": [
+"Todos son iguales",
+"No todos sobreviven",
+"Nadie se reproduce"
+],
+"correcta": 1,
+"porque": "No todos los individuos sobreviven, y por eso el ambiente elige."
+},
+{
+"pregunta": "En VHR, la V es variación. ¿Qué es la H?",
+"opciones": [
+"Herencia",
+"Hambre",
+"Hábitat"
+],
+"correcta": 0,
+"porque": "La H es herencia: parte de los rasgos pasa de padres a hijos."
+}
+],
+"taxonomia-y-nomenclatura-binomial-prepa": [
+{
+"pregunta": "En *Canis lupus*, ¿cuál es la especie?",
+"opciones": [
+"*Canis*",
+"*Canis lupus*",
+"*lupus*"
+],
+"correcta": 2,
+"porque": "El nombre tiene género primero y especie después, así que la especie es *lupus*."
+},
+{
+"pregunta": "¿Qué ser vivo es *Canis lupus*?",
+"opciones": [
+"El maíz",
+"El lobo",
+"El ser humano"
+],
+"correcta": 1,
+"porque": "*Canis lupus* es el nombre científico del lobo."
+},
+{
+"pregunta": "¿Cuál es el nivel más grande de la clasificación?",
+"opciones": [
+"El género",
+"El dominio",
+"La especie"
+],
+"correcta": 1,
+"porque": "Los niveles van de mayor a menor, y el dominio es el primero."
+},
+{
+"pregunta": "¿Qué dos palabras forman un nombre binomial?",
+"opciones": [
+"Género y especie",
+"Familia y orden",
+"Reino y filo"
+],
+"correcta": 0,
+"porque": "Binomial quiere decir dos nombres: el género y la especie."
+},
+{
+"pregunta": "¿Qué ser vivo es *Zea mays*?",
+"opciones": [
+"El maíz",
+"El ser humano",
+"El lobo"
+],
+"correcta": 0,
+"porque": "*Zea mays* es el nombre científico del maíz."
+}
+],
+"teoria-celular-preparatoria": [
+{
+"pregunta": "¿Quién vio células vivas en 1674?",
+"opciones": [
+"Virchow",
+"Leeuwenhoek",
+"Hooke"
+],
+"correcta": 1,
+"porque": "Leeuwenhoek vio células vivas, y Hooke había visto las del corcho."
+},
+{
+"pregunta": "¿Qué descubrieron Schleiden y Schwann?",
+"opciones": [
+"Plantas y animales tienen células",
+"Solo las plantas tienen células",
+"Las células vienen del aire"
+],
+"correcta": 0,
+"porque": "Schleiden vio células en plantas y Schwann en animales."
+},
+{
+"pregunta": "Según la teoría, ¿qué es la célula?",
+"opciones": [
+"Un órgano del cuerpo",
+"La unidad básica de la vida",
+"Un tipo de microscopio"
+],
+"correcta": 1,
+"porque": "Todo ser vivo está hecho de células, que son su unidad básica."
+},
+{
+"pregunta": "¿Qué instrumento ayudó a descubrir las células?",
+"opciones": [
+"La balanza",
+"El telescopio",
+"El microscopio"
+],
+"correcta": 2,
+"porque": "Las células son tan chicas que sin microscopio nadie las habría visto."
+},
+{
+"pregunta": "Una célula de tu piel se acaba de formar. ¿De dónde vino?",
+"opciones": [
+"De la tierra mojada",
+"De la nada, de pronto",
+"De otra célula anterior"
+],
+"correcta": 2,
+"porque": "Virchow dijo que toda célula viene de otra célula."
+}
+],
+"traduccion-y-codigo-genetico-prepa": [
+{
+"pregunta": "¿Dónde se lee el ARN mensajero para hacer proteínas?",
+"opciones": [
+"En el núcleo",
+"En el ribosoma",
+"En el cloroplasto"
+],
+"correcta": 1,
+"porque": "El ribosoma lee el ARN mensajero y une aminoácidos."
+},
+{
+"pregunta": "¿Cuál de estos es un codón de paro?",
+"opciones": [
+"AUG",
+"GCA",
+"UAA"
+],
+"correcta": 2,
+"porque": "UAA, UAG y UGA terminan la proteína. AUG es de inicio."
+},
+{
+"pregunta": "El ribosoma lee AUG UUU. ¿Cuántos aminoácidos une?",
+"opciones": [
+"Tres aminoácidos",
+"Dos aminoácidos",
+"Seis aminoácidos"
+],
+"correcta": 1,
+"porque": "Cada codón indica un aminoácido: AUG y UUU son dos codones."
+},
+{
+"pregunta": "Hay 64 codones y unos 20 aminoácidos. ¿Por qué?",
+"opciones": [
+"Varios codones dicen lo mismo",
+"Hay aminoácidos sin codón",
+"Los codones dicen dos cosas"
+],
+"correcta": 0,
+"porque": "Como sobran codones, varios indican el mismo aminoácido."
+},
+{
+"pregunta": "¿Qué se forma al unirse los aminoácidos en cadena?",
+"opciones": [
+"Una proteína",
+"Un codón de paro",
+"Un ADN nuevo"
+],
+"correcta": 0,
+"porque": "La traducción termina con una proteína, como el platillo de la receta."
+}
+],
+"transcripcion-prepa": [
+{
+"pregunta": "Transcribe el molde CGT. ¿Qué ARN sale?",
+"opciones": [
+"GCU",
+"CGA",
+"GCA"
+],
+"correcta": 2,
+"porque": "C va con G, G con C y T con A, así que CGT da GCA."
+},
+{
+"pregunta": "¿Qué base está en el ARN y no en el ADN?",
+"opciones": [
+"La base G",
+"La base T",
+"La base U"
+],
+"correcta": 2,
+"porque": "En el ARN se pone U en lugar de T."
+},
+{
+"pregunta": "¿Se copia todo el ADN durante la transcripción?",
+"opciones": [
+"Sí, todo el ADN completo",
+"Sí, solo la mitad de los genes",
+"No, solo un gen"
+],
+"correcta": 2,
+"porque": "Solo se copia una parte del ADN, como una receta del libro."
+},
+{
+"pregunta": "¿A dónde va el ARN mensajero al salir del núcleo?",
+"opciones": [
+"A la mitocondria",
+"A los ribosomas",
+"A otro núcleo"
+],
+"correcta": 1,
+"porque": "El ARN mensajero lleva la receta a los ribosomas."
+},
+{
+"pregunta": "En el ejemplo de la receta, ¿qué es la hoja copiada?",
+"opciones": [
+"La proteína, el platillo",
+"El ARN, la copia",
+"El ADN, el libro"
+],
+"correcta": 1,
+"porque": "No sacas el libro: copias la receta en una hoja, que es el ARN."
+}
+],
+"virus-seres-vivos-o-no-prepa": [
+{
+"pregunta": "¿Qué necesita un virus para multiplicarse?",
+"opciones": [
+"Recibir luz del sol",
+"Entrar a una célula",
+"Comer alimento solo"
+],
+"correcta": 1,
+"porque": "Un virus solo se reproduce dentro de una célula."
+},
+{
+"pregunta": "¿Qué ayuda a prevenir muchos virus?",
+"opciones": [
+"Las vitaminas",
+"Los antibióticos",
+"Las vacunas"
+],
+"correcta": 2,
+"porque": "Las vacunas previenen muchos virus, y los antibióticos no sirven contra ellos."
+},
+{
+"pregunta": "¿Qué dato apoya que un virus esté vivo?",
+"opciones": [
+"Tiene genes y evoluciona",
+"Come y crece solo",
+"Tiene células propias"
+],
+"correcta": 0,
+"porque": "Los virus tienen genes y evolucionan, aunque no tienen células."
+},
+{
+"pregunta": "En el ciclo lítico, ¿qué pasa primero?",
+"opciones": [
+"La célula revienta",
+"La célula fabrica virus",
+"Se pega a la célula"
+],
+"correcta": 2,
+"porque": "Primero el virus se pega a la célula y luego mete su material."
+},
+{
+"pregunta": "¿Tiene células un virus?",
+"opciones": [
+"No, no tiene células",
+"Sí, miles de células",
+"Sí, una sola célula"
+],
+"correcta": 0,
+"porque": "Un virus es solo una partícula con material genético y cápside."
+}
+],
+"deterioro-ambiental-subsistemas-prepa": [
+{
+"pregunta": "Talan un bosque cerca de un río. ¿Qué otras partes se dañan?",
+"opciones": [
+"El suelo y el río",
+"Solo el aire",
+"Ninguna otra parte"
+],
+"correcta": 0,
+"porque": "Sin árboles el suelo se erosiona y el río se ensucia."
+},
+{
+"pregunta": "Una sequía que afecta a varios estados, ¿de qué escala es?",
+"opciones": [
+"Regional",
+"Global",
+"Local"
+],
+"correcta": 0,
+"porque": "Una sequía de varios lugares juntos es un daño regional."
+},
+{
+"pregunta": "Los peces y las aves, ¿a qué parte de la Tierra pertenecen?",
+"opciones": [
+"A la litosfera",
+"A la biosfera",
+"A la atmósfera"
+],
+"correcta": 1,
+"porque": "La biosfera es la parte de los seres vivos."
+},
+{
+"pregunta": "En el patio de tu escuela alguien tira basura al suelo. ¿Qué parte se daña?",
+"opciones": [
+"La hidrosfera",
+"La atmósfera",
+"La litosfera"
+],
+"correcta": 2,
+"porque": "El suelo es la litosfera, y la basura daña esa parte."
+},
+{
+"pregunta": "¿Qué es el deterioro ambiental?",
+"opciones": [
+"Algo que nadie provoca",
+"Un cambio solo de las lluvias",
+"Daño por lo que hacemos"
+],
+"correcta": 2,
+"porque": "Es el daño al aire, agua, suelo y seres vivos por nuestras acciones."
+}
+],
+"fases-de-la-fotosintesis-prepa": [
+{
+"pregunta": "¿Qué sale del ciclo de Calvin?",
+"opciones": [
+"Azúcar",
+"Agua",
+"Oxígeno"
+],
+"correcta": 0,
+"porque": "El ciclo de Calvin usa dióxido de carbono para hacer azúcar."
+},
+{
+"pregunta": "¿Qué atrapa la luz en el cloroplasto?",
+"opciones": [
+"El estroma",
+"El azúcar",
+"La clorofila"
+],
+"correcta": 2,
+"porque": "La clorofila atrapa la luz en la fase luminosa."
+},
+{
+"pregunta": "¿Qué es el estroma?",
+"opciones": [
+"El líquido alrededor de las bolsitas",
+"El pigmento que atrapa luz",
+"Las bolsitas de la fase luminosa"
+],
+"correcta": 0,
+"porque": "En el estroma ocurre el ciclo de Calvin, fuera de los tilacoides."
+},
+{
+"pregunta": "¿Qué entra a la fotosíntesis?",
+"opciones": [
+"Luz, azúcar y $\\ce{O2}$",
+"Luz, agua y $\\ce{CO2}$",
+"Agua, azúcar y $\\ce{O2}$"
+],
+"correcta": 1,
+"porque": "La planta usa luz, agua y dióxido de carbono para hacer azúcar."
+},
+{
+"pregunta": "¿Qué hace la fase luminosa?",
+"opciones": [
+"Carga pilas con luz",
+"Toma dióxido del aire",
+"Hace azúcar con las pilas"
+],
+"correcta": 0,
+"porque": "La fase luminosa carga las pilas que luego usa el ciclo de Calvin."
+}
+]
+}

@@ -1,0 +1,366 @@
+{
+"antecesor-y-sucesor-primaria": [
+{
+"pregunta": "¿Qué número va justo después de 48?",
+"opciones": [
+"49",
+"47",
+"58"
+],
+"correcta": 0,
+"porque": "El sucesor se obtiene sumando 1: 48 + 1 = 49."
+},
+{
+"pregunta": "¿Qué número va justo antes de 30?",
+"opciones": [
+"20",
+"31",
+"29"
+],
+"correcta": 2,
+"porque": "El antecesor se obtiene restando 1: 30 - 1 = 29."
+},
+{
+"pregunta": "En tu salón hay 25 mochilas y llega una más. ¿Cuántas hay?",
+"opciones": [
+"24",
+"35",
+"26"
+],
+"correcta": 2,
+"porque": "Llegar una más es sumar 1, así que es el sucesor de 25."
+},
+{
+"pregunta": "¿Cuál es el sucesor de 99?",
+"opciones": [
+"98",
+"100",
+"90"
+],
+"correcta": 1,
+"porque": "Después del 99 empieza una nueva centena: 99 + 1 = 100."
+},
+{
+"pregunta": "¿Qué número está entre 56 y 58?",
+"opciones": [
+"59",
+"55",
+"57"
+],
+"correcta": 2,
+"porque": "57 es el sucesor de 56 y el antecesor de 58."
+}
+],
+"calculo-mental-sumar-y-restar-decenas-primaria": [
+{
+"pregunta": "¿Cuánto es 34 + 20?",
+"opciones": [
+"74",
+"54",
+"36"
+],
+"correcta": 1,
+"porque": "Solo cambian las decenas: 3 + 2 = 5, y el 4 se queda."
+},
+{
+"pregunta": "¿Cuánto es 86 - 30?",
+"opciones": [
+"16",
+"83",
+"56"
+],
+"correcta": 2,
+"porque": "Solo cambian las decenas: 8 - 3 = 5, y el 6 se queda."
+},
+{
+"pregunta": "Tienes 17 estampas y te regalan 10. ¿Cuántas tienes ahora?",
+"opciones": [
+"27",
+"18",
+"37"
+],
+"correcta": 0,
+"porque": "Sumas una decena: 1 + 1 = 2, y el 7 se queda."
+},
+{
+"pregunta": "¿Cuánto es 72 + 10?",
+"opciones": [
+"73",
+"62",
+"82"
+],
+"correcta": 2,
+"porque": "Las decenas pasan de 7 a 8 y las unidades no cambian."
+},
+{
+"pregunta": "Hay 45 sillas en el patio y se llevan 20. ¿Cuántas quedan?",
+"opciones": [
+"43",
+"65",
+"25"
+],
+"correcta": 2,
+"porque": "4 decenas menos 2 son 2 decenas, y el 5 se queda."
+}
+],
+"comparar-numeros-mayor-menor-e-igual-primaria": [
+{
+"pregunta": "¿Qué signo va en 8 ___ 3?",
+"opciones": [
+">",
+"<",
+"="
+],
+"correcta": 0,
+"porque": "8 es mayor que 3, y la boca abierta mira al número mayor."
+},
+{
+"pregunta": "¿Cuál número es mayor?",
+"opciones": [
+"98",
+"102",
+"89"
+],
+"correcta": 1,
+"porque": "102 tiene tres cifras y los otros dos; el que tiene más cifras es mayor."
+},
+{
+"pregunta": "¿Qué signo va en 47 ___ 74?",
+"opciones": [
+"=",
+">",
+"<"
+],
+"correcta": 2,
+"porque": "Tienen dos cifras. Decide la primera: 4 es menor que 7."
+},
+{
+"pregunta": "El grupo A tiene 31 alumnos y el grupo B tiene 31. ¿Qué signo va?",
+"opciones": [
+"<",
+">",
+"="
+],
+"correcta": 2,
+"porque": "Los dos números son iguales."
+},
+{
+"pregunta": "¿Cuál es verdadero?",
+"opciones": [
+"56 = 53",
+"56 > 53",
+"56 < 53"
+],
+"correcta": 1,
+"porque": "Las decenas son iguales; decide la cifra de la derecha: 6 es mayor que 3."
+}
+],
+"comprobar-una-resta-con-una-suma-primaria": [
+{
+"pregunta": "¿Cómo compruebas 84 - 37 = 47?",
+"opciones": [
+"47 + 37",
+"84 + 37",
+"84 + 47"
+],
+"correcta": 0,
+"porque": "Resultado más lo que quitaste debe dar el número inicial."
+},
+{
+"pregunta": "Si 50 - 20 = 30, ¿qué suma lo comprueba?",
+"opciones": [
+"30 + 20 = 50",
+"30 + 50 = 80",
+"50 + 20 = 70"
+],
+"correcta": 0,
+"porque": "30 es el resultado y 20 lo que quitaste; juntos dan 50."
+},
+{
+"pregunta": "Ana escribió 65 - 25 = 40. ¿Está bien?",
+"opciones": [
+"No, porque 40 + 25 = 75",
+"No, porque 65 + 25 = 90",
+"Sí, porque 40 + 25 = 65"
+],
+"correcta": 2,
+"porque": "La suma da el número inicial, entonces la resta está bien."
+},
+{
+"pregunta": "Luis escribió 70 - 30 = 50. ¿Está bien?",
+"opciones": [
+"No, porque 50 + 30 = 80",
+"Sí, porque 50 + 30 = 70",
+"Sí, porque 70 + 30 = 100"
+],
+"correcta": 0,
+"porque": "La suma no da 70, así que la resta tiene un error."
+},
+{
+"pregunta": "Tenías 28 lápices, regalaste 8 y te quedaron 20. ¿Qué haces para comprobarlo?",
+"opciones": [
+"28 + 20",
+"28 + 8",
+"20 + 8"
+],
+"correcta": 2,
+"porque": "Sumas lo que quedó más lo que regalaste y debe dar 28."
+}
+],
+"contar-de-2-en-2-de-5-en-5-y-de-10-en-10-primaria": [
+{
+"pregunta": "¿Qué número sigue? 2, 4, 6, 8, ___",
+"opciones": [
+"12",
+"10",
+"9"
+],
+"correcta": 1,
+"porque": "La serie salta de 2 en 2: 8 + 2 = 10."
+},
+{
+"pregunta": "¿Qué número sigue? 5, 10, 15, 20, ___",
+"opciones": [
+"21",
+"25",
+"30"
+],
+"correcta": 1,
+"porque": "La serie salta de 5 en 5: 20 + 5 = 25."
+},
+{
+"pregunta": "¿Qué número sigue? 10, 20, 30, ___",
+"opciones": [
+"50",
+"40",
+"31"
+],
+"correcta": 1,
+"porque": "La serie salta de 10 en 10: 30 + 10 = 40."
+},
+{
+"pregunta": "Al contar de 5 en 5 desde el 5, ¿en qué terminan los números?",
+"opciones": [
+"En 2 o 4",
+"En 1 o 3",
+"En 5 o 0"
+],
+"correcta": 2,
+"porque": "Contando de 5 en 5 se alternan el 5 y el 0."
+},
+{
+"pregunta": "Cuentas pares de zapatos en tu salón: 2, 4, 6. ¿De cuánto en cuánto vas?",
+"opciones": [
+"De 2 en 2",
+"De 5 en 5",
+"De 10 en 10"
+],
+"correcta": 0,
+"porque": "Cada par tiene 2 zapatos, y el salto es siempre 2."
+}
+],
+"contar-y-escribir-numeros-hasta-el-100-primaria": [
+{
+"pregunta": "¿Qué número sigue después de 19?",
+"opciones": [
+"10",
+"20",
+"29"
+],
+"correcta": 1,
+"porque": "Después del 9 empieza una nueva decena."
+},
+{
+"pregunta": "¿Cuántas decenas tiene el 60?",
+"opciones": [
+"60",
+"6",
+"0"
+],
+"correcta": 1,
+"porque": "La cifra de la izquierda dice cuántas decenas hay."
+},
+{
+"pregunta": "¿Cómo se escribe \"treinta y cinco\"?",
+"opciones": [
+"35",
+"305",
+"53"
+],
+"correcta": 0,
+"porque": "Treinta son 3 decenas y cinco son 5 unidades."
+},
+{
+"pregunta": "¿Qué número sigue después de 89?",
+"opciones": [
+"80",
+"100",
+"90"
+],
+"correcta": 2,
+"porque": "Al llegar al 9 empieza la siguiente decena."
+},
+{
+"pregunta": "Tienes 4 cajas con 10 gises y 2 gises sueltos. ¿Cuántos son?",
+"opciones": [
+"6",
+"24",
+"42"
+],
+"correcta": 2,
+"porque": "4 decenas y 2 unidades forman el 42."
+}
+],
+"datos-personales-transparencia-rendicion-cuentas": [
+{
+"pregunta": "¿Cuál de estos es un dato personal?",
+"opciones": [
+"El himno que cantan en tu escuela",
+"Tu CURP, la clave que te identifica",
+"El nombre de tu estado o país"
+],
+"correcta": 1,
+"porque": "La CURP te identifica y es un dato personal."
+},
+{
+"pregunta": "Una app de juego te pide tu dirección sin necesitarla. ¿Qué haces?",
+"opciones": [
+"La escribo rápido",
+"No la doy y aviso a un adulto",
+"Le doy la de un amigo"
+],
+"correcta": 1,
+"porque": "Tus datos solo se dan cuando hacen falta y con cuidado."
+},
+{
+"pregunta": "¿Qué es la transparencia?",
+"opciones": [
+"Que el gobierno guarde secretos",
+"Que el gobierno muestre lo que hace y gasta",
+"Que todos usen ropa clara"
+],
+"correcta": 1,
+"porque": "La información pública debe poder verse."
+},
+{
+"pregunta": "¿Qué es la rendición de cuentas?",
+"opciones": [
+"Explicar lo que se hizo y responder por ello",
+"Pedir un préstamo",
+"Contar dinero en una caja"
+],
+"correcta": 0,
+"porque": "Quien tiene un cargo debe explicar sus decisiones."
+},
+{
+"pregunta": "La directora publica en qué se gastó el dinero de la escuela. ¿Qué está haciendo?",
+"opciones": [
+"Guardar datos personales",
+"Rendir cuentas",
+"Pedir tarea"
+],
+"correcta": 1,
+"porque": "Explica cómo usó un dinero que no es suyo."
+}
+]
+}

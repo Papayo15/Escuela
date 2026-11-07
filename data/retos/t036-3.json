@@ -1,0 +1,522 @@
+{
+"internet-y-como-funciona-prepa": [
+{
+"pregunta": "¿Qué traduce el nombre de una página a una dirección IP?",
+"opciones": [
+"El router de casa",
+"El navegador web",
+"El DNS de internet"
+],
+"correcta": 2,
+"porque": "El DNS convierte nombres de páginas en direcciones IP."
+},
+{
+"pregunta": "¿Dónde se guardan las páginas que ves en internet?",
+"opciones": [
+"En el teclado",
+"En el router",
+"En un servidor"
+],
+"correcta": 2,
+"porque": "Un servidor guarda las páginas y las manda cuando las pides."
+},
+{
+"pregunta": "Los datos viajan por internet en...",
+"opciones": [
+"Hojas de papel impresas",
+"Un solo bloque enorme",
+"Paquetes pequeños"
+],
+"correcta": 2,
+"porque": "La información se divide en paquetes que viajan por separado."
+},
+{
+"pregunta": "¿Qué hace el DNS?",
+"opciones": [
+"Muestra las páginas en pantalla",
+"Guarda todas las páginas web",
+"Traduce nombres a direcciones IP"
+],
+"correcta": 2,
+"porque": "El DNS traduce nombres a direcciones IP."
+},
+{
+"pregunta": "Pides una página desde tu salón. ¿Quién te responde?",
+"opciones": [
+"El teclado",
+"La impresora",
+"El servidor"
+],
+"correcta": 2,
+"porque": "Tú pides con el navegador y el servidor responde con la página."
+}
+],
+"lenguaje-algoritmico-prepa": [
+{
+"pregunta": "La entrada es 6 y 10 y el proceso es sumar y dividir entre 2. ¿Cuál es la salida?",
+"opciones": [
+"8",
+"16",
+"6"
+],
+"correcta": 0,
+"porque": "Seis más diez da 16, y 16 entre 2 es 8."
+},
+{
+"pregunta": "En un algoritmo, ¿qué es la salida?",
+"opciones": [
+"Lo que se repite",
+"El resultado final",
+"Los datos de inicio"
+],
+"correcta": 1,
+"porque": "La salida es el resultado que entrega el algoritmo."
+},
+{
+"pregunta": "Si al dividir 9 entre 2 sobra 1, ¿qué número es?",
+"opciones": [
+"Impar",
+"Par",
+"Ninguno de los dos"
+],
+"correcta": 0,
+"porque": "Si sobra algo al dividir entre 2, el número es impar."
+},
+{
+"pregunta": "Si tengo sed tomo agua, y si no, sigo jugando. ¿Qué estructura es?",
+"opciones": [
+"Un condicional",
+"Un ciclo",
+"Una entrada"
+],
+"correcta": 0,
+"porque": "Un condicional elige qué hacer según se cumpla algo."
+},
+{
+"pregunta": "En el algoritmo del sándwich, el pan y el jamón son...",
+"opciones": [
+"El ciclo",
+"La salida",
+"La entrada"
+],
+"correcta": 2,
+"porque": "La entrada son los datos o materiales con los que empiezas."
+}
+],
+"licencias-software-privativo-libre-prepa": [
+{
+"pregunta": "Un programa de licencia libre, ¿es siempre gratis?",
+"opciones": [
+"Siempre cuesta dinero",
+"Siempre es gratis",
+"No siempre es gratis"
+],
+"correcta": 2,
+"porque": "Libre habla de tu libertad de uso, no de que sea gratis."
+},
+{
+"pregunta": "¿Qué es una licencia de software?",
+"opciones": [
+"Una copia de seguridad de archivos",
+"Un cable para conectar la computadora",
+"El permiso sobre qué puedes hacer con un programa"
+],
+"correcta": 2,
+"porque": "La licencia es como el reglamento de un juego prestado."
+},
+{
+"pregunta": "¿Cuál de estos es un programa libre?",
+"opciones": [
+"Linux",
+"Photoshop",
+"Windows"
+],
+"correcta": 0,
+"porque": "Linux es software libre: puedes usarlo, estudiarlo y mejorarlo."
+},
+{
+"pregunta": "¿Qué no puedes hacer con una licencia privativa?",
+"opciones": [
+"Abrir el programa",
+"Ver ni cambiar el código",
+"Usarlo en tu casa"
+],
+"correcta": 1,
+"porque": "Con licencia privativa solo puedes usar el programa."
+},
+{
+"pregunta": "Una app pide 8 GB de memoria y tu compu tiene 4 GB. ¿Qué pasa?",
+"opciones": [
+"La app es libre y gratis",
+"No cumple el requisito del equipo",
+"Tu licencia ya venció"
+],
+"correcta": 1,
+"porque": "Si el equipo tiene menos memoria de la requerida, la app falla."
+}
+],
+"normatividad-ciberespacio-seguridad-prepa": [
+{
+"pregunta": "Un compañero recibe mensajes de burla en línea. ¿Qué guardas para reportarlo?",
+"opciones": [
+"Nada, mejor olvidarlo",
+"Los reenvías a todos",
+"Capturas como pruebas"
+],
+"correcta": 2,
+"porque": "Guardar pruebas ayuda a que el reporte se tome en serio."
+},
+{
+"pregunta": "¿Para qué lees el aviso de privacidad?",
+"opciones": [
+"Para cambiar tu contraseña",
+"Para saber qué hacen con tus datos",
+"Para que la app sea más rápida"
+],
+"correcta": 1,
+"porque": "El aviso dice qué datos pide y cómo los usa la aplicación."
+},
+{
+"pregunta": "Te llega un enlace raro de alguien desconocido. ¿Qué haces?",
+"opciones": [
+"Desconfío y no doy clic",
+"Lo abro rápido para ver",
+"Se lo mando a mis amigos"
+],
+"correcta": 0,
+"porque": "Los enlaces raros pueden ser un engaño para robar datos."
+},
+{
+"pregunta": "¿Para qué hay reglas en internet?",
+"opciones": [
+"Para proteger datos y personas",
+"Para cobrar de más",
+"Para hacerlo más lento"
+],
+"correcta": 0,
+"porque": "En internet también hay reglas que protegen tus datos y a los demás."
+},
+{
+"pregunta": "Usas la misma contraseña en todas tus cuentas. ¿Qué riesgo tienes?",
+"opciones": [
+"Ninguno, es más fácil",
+"Se vuelve más fuerte",
+"Si roban una, entran a todas"
+],
+"correcta": 2,
+"porque": "Una contraseña distinta por cuenta evita que roben todas juntas."
+}
+],
+"partes-de-una-computadora-prepa": [
+{
+"pregunta": "¿Cuál de estos aparatos es de salida?",
+"opciones": [
+"El teclado",
+"El ratón",
+"La pantalla"
+],
+"correcta": 2,
+"porque": "La pantalla muestra resultados, y por eso es de salida."
+},
+{
+"pregunta": "¿Qué parte guarda tus archivos aunque apagues la computadora?",
+"opciones": [
+"El disco",
+"La RAM",
+"La pantalla"
+],
+"correcta": 0,
+"porque": "El disco guarda archivos, y la RAM se borra al apagar."
+},
+{
+"pregunta": "En el ejemplo del escritorio y el librero, ¿qué es el disco?",
+"opciones": [
+"El librero",
+"La silla",
+"El escritorio"
+],
+"correcta": 0,
+"porque": "El disco guarda las cosas como un librero, y la memoria es el escritorio."
+},
+{
+"pregunta": "Un procesador de textos, ¿es hardware o software?",
+"opciones": [
+"Hardware",
+"Una pieza física",
+"Software"
+],
+"correcta": 2,
+"porque": "El software son los programas, y no se tocan."
+},
+{
+"pregunta": "¿Qué hace el CPU de la computadora?",
+"opciones": [
+"Guarda tus fotos",
+"Procesa los datos",
+"Muestra la imagen"
+],
+"correcta": 1,
+"porque": "El CPU procesa, y por eso se parece a un cerebro."
+}
+],
+"primer-programa-en-python-prepa": [
+{
+"pregunta": "Si nombre vale Luis, ¿qué muestra `print(\"Hola\", nombre)`?",
+"opciones": [
+"Hola nombre",
+"Hola Luis",
+"nombre Hola"
+],
+"correcta": 1,
+"porque": "Print muestra el texto y el valor que guarda la variable."
+},
+{
+"pregunta": "¿Por qué se usa `int(input())` para sumar?",
+"opciones": [
+"Convierte el dato en número",
+"Hace el texto más largo",
+"Borra lo que escribes"
+],
+"correcta": 0,
+"porque": "Lo que pide input es texto, y int lo convierte a número."
+},
+{
+"pregunta": "Si escribes 4 en `n = int(input())` y se muestra `n + 1`, ¿qué sale?",
+"opciones": [
+"5",
+"4",
+"41"
+],
+"correcta": 0,
+"porque": "Cuatro más uno es cinco."
+},
+{
+"pregunta": "¿Qué es Python?",
+"opciones": [
+"Un tipo de computadora",
+"Una aplicación para dibujar",
+"Un lenguaje de programación fácil de leer"
+],
+"correcta": 2,
+"porque": "Python es un lenguaje con el que le das órdenes a la computadora."
+},
+{
+"pregunta": "¿Dónde puedes probar Python?",
+"opciones": [
+"Solo en un cuaderno",
+"En un sitio como Python.org",
+"En una calculadora de bolsillo"
+],
+"correcta": 1,
+"porque": "Puedes probarlo en un sitio como Python.org o en tu computadora."
+}
+],
+"privacidad-en-redes-sociales-prepa": [
+{
+"pregunta": "¿Qué dato es mejor no publicar?",
+"opciones": [
+"Una foto de tu dibujo",
+"Tu rutina de cada día",
+"El nombre de tu mascota"
+],
+"correcta": 1,
+"porque": "Publicar tus rutinas puede dar pistas de dónde estás."
+},
+{
+"pregunta": "¿Qué tipo de cuenta cuida más tu privacidad?",
+"opciones": [
+"Una sin contraseña",
+"Una cuenta privada",
+"Una cuenta pública"
+],
+"correcta": 1,
+"porque": "Una cuenta privada deja que veas quién entra a tus publicaciones."
+},
+{
+"pregunta": "¿Qué es la privacidad?",
+"opciones": [
+"Controlar quién ve tu información",
+"Publicar todo lo que haces",
+"Tener muchos seguidores"
+],
+"correcta": 0,
+"porque": "La privacidad es tener control sobre quién ve tus datos."
+},
+{
+"pregunta": "Alguien te incomoda en una red social. ¿Qué haces?",
+"opciones": [
+"No cuento a nadie",
+"Aviso a un adulto",
+"Le contesto con mis datos"
+],
+"correcta": 1,
+"porque": "Avisar a un adulto de confianza te protege."
+},
+{
+"pregunta": "Publicar es como hablar en una plaza llena de gente. ¿Qué enseña?",
+"opciones": [
+"Que solo te ven amigos",
+"Que nadie te escucha",
+"Piensa antes de publicar"
+],
+"correcta": 2,
+"porque": "Lo que publicas lo puede ver mucha gente, así que piénsalo."
+}
+],
+"problemas-algoritmicos-estrategia-prepa": [
+{
+"pregunta": "Reparte 42 galletas entre 6 personas en partes iguales. ¿Cuántas recibe cada una?",
+"opciones": [
+"7",
+"8",
+"6"
+],
+"correcta": 0,
+"porque": "Cuarenta y dos entre seis es siete."
+},
+{
+"pregunta": "¿Cuál es el primer paso para resolver un problema?",
+"opciones": [
+"Entender qué tengo y qué busco",
+"Probar con varios casos",
+"Escribir los pasos finales"
+],
+"correcta": 0,
+"porque": "Primero entiendes el problema y después lo divides."
+},
+{
+"pregunta": "Si a es 9 y b es 4, ¿qué elige el algoritmo del mayor?",
+"opciones": [
+"El 13",
+"El 4",
+"El 9"
+],
+"correcta": 2,
+"porque": "Como 9 es mayor que 4, elige a."
+},
+{
+"pregunta": "Tienes un problema muy grande. ¿Qué haces?",
+"opciones": [
+"Lo resuelvo de golpe",
+"Lo parto en pasos pequeños",
+"Lo dejo para después"
+],
+"correcta": 1,
+"porque": "Los problemas grandes se resuelven partiéndolos en pasos pequeños."
+},
+{
+"pregunta": "Para comprobar que 42 entre 6 es 7, ¿qué haces?",
+"opciones": [
+"Restar 7 de 6",
+"Sumar 42 y 6",
+"Multiplicar 7 por 6"
+],
+"correcta": 2,
+"porque": "Multiplicar 7 por 6 da 42, y eso comprueba la división."
+}
+],
+"recursos-digitales-seguros-ambiente-prepa": [
+{
+"pregunta": "Usas la compu de la escuela y terminas tu tarea. ¿Qué haces?",
+"opciones": [
+"Dejo mi clave a la vista",
+"Cierro mi sesión",
+"Dejo abierta mi cuenta"
+],
+"correcta": 1,
+"porque": "Cerrar sesión evita que otra persona entre a tus datos."
+},
+{
+"pregunta": "¿Qué cuida apagar lo que no usas?",
+"opciones": [
+"La energía y el ambiente",
+"El color de la pantalla",
+"El tamaño de la letra"
+],
+"correcta": 0,
+"porque": "Los aparatos gastan energía, y apagarlos ayuda al ambiente."
+},
+{
+"pregunta": "¿Por qué es un problema tirar un celular a la basura?",
+"opciones": [
+"Gasta menos energía",
+"Deja basura electrónica",
+"Se vuelve más rápido"
+],
+"correcta": 1,
+"porque": "Los aparatos tirados dejan basura electrónica que contamina."
+},
+{
+"pregunta": "¿Cuál acción cuida tu seguridad digital?",
+"opciones": [
+"Verificar las fuentes",
+"Aceptar a desconocidos",
+"Compartir tu contraseña"
+],
+"correcta": 0,
+"porque": "Verificar fuentes y cuidar tus datos te protege."
+},
+{
+"pregunta": "Pones un límite de uso al teléfono. ¿Para qué sirve?",
+"opciones": [
+"Gastar más batería",
+"Usarlo con provecho y sin exceso",
+"Que nadie te hable"
+],
+"correcta": 1,
+"porque": "Un límite te ayuda a usar la tecnología con provecho."
+}
+],
+"sistema-binario-prepa": [
+{
+"pregunta": "¿Cuánto vale 110 en decimal?",
+"opciones": [
+"6",
+"11",
+"3"
+],
+"correcta": 0,
+"porque": "Cuatro más dos es seis, porque el cero no suma nada."
+},
+{
+"pregunta": "¿Cuánto vale 1001 en decimal?",
+"opciones": [
+"5",
+"9",
+"10"
+],
+"correcta": 1,
+"porque": "El lugar del 8 y el del 1 suman 9."
+},
+{
+"pregunta": "¿Cómo se escribe 5 en binario?",
+"opciones": [
+"110",
+"11",
+"101"
+],
+"correcta": 2,
+"porque": "Cinco es cuatro más uno, y eso es 101."
+},
+{
+"pregunta": "En binario, ¿cuánto vale el cuarto lugar de derecha a izquierda?",
+"opciones": [
+"8",
+"16",
+"4"
+],
+"correcta": 0,
+"porque": "Los lugares valen 1, 2, 4 y 8, así que el cuarto vale 8."
+},
+{
+"pregunta": "En el ejemplo de los focos, ¿qué número es un foco prendido?",
+"opciones": [
+"0",
+"1",
+"2"
+],
+"correcta": 1,
+"porque": "Prendido es 1 y apagado es 0."
+}
+]
+}

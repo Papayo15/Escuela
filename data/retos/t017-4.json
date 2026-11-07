@@ -1,0 +1,522 @@
+{
+"musica-y-danza-tradicional-mexicana-secundaria": [
+{
+"pregunta": "¿Qué música tradicional destaca por el acordeón?",
+"opciones": [
+"Mariachi",
+"Marimba",
+"Norteña"
+],
+"correcta": 2,
+"porque": "La música norteña usa acordeón."
+},
+{
+"pregunta": "¿Cuál de estas es una danza tradicional?",
+"opciones": [
+"Voladores de Papantla",
+"Norteña, con acordeón",
+"Marimba, de Chiapas"
+],
+"correcta": 0,
+"porque": "Los Voladores de Papantla son una danza; las otras son música."
+},
+{
+"pregunta": "¿Qué danza es de Michoacán?",
+"opciones": [
+"Danza de los Viejitos",
+"Jarabe tapatío",
+"Voladores de Papantla"
+],
+"correcta": 0,
+"porque": "Los Viejitos son una danza michoacana."
+},
+{
+"pregunta": "¿Qué son la música y la danza tradicional?",
+"opciones": [
+"Música inventada hace pocos meses",
+"Bailes que solo se hacen en escuelas",
+"Expresiones populares de cada región"
+],
+"correcta": 2,
+"porque": "Cada región tiene la suya."
+},
+{
+"pregunta": "Tu escuela celebra a Veracruz con música. ¿Cuál eligen?",
+"opciones": [
+"Mariachi",
+"Norteña",
+"Son jarocho"
+],
+"correcta": 2,
+"porque": "El son jarocho es de Veracruz."
+}
+],
+"patrimonio-cultural-comunidad-secundaria": [
+{
+"pregunta": "Tu escuela visita un templo antiguo. ¿Qué tipo de patrimonio es?",
+"opciones": [
+"Intangible",
+"Tangible",
+"Ninguno de los dos"
+],
+"correcta": 1,
+"porque": "Un templo se puede tocar, es tangible."
+},
+{
+"pregunta": "La lengua que hablan tus abuelos es patrimonio...",
+"opciones": [
+"De un solo objeto",
+"Tangible",
+"Intangible"
+],
+"correcta": 2,
+"porque": "Una lengua no se puede tocar."
+},
+{
+"pregunta": "Una artesanía de barro es patrimonio...",
+"opciones": [
+"Tangible",
+"Intangible",
+"De ningún tipo"
+],
+"correcta": 0,
+"porque": "Una artesanía se puede tocar."
+},
+{
+"pregunta": "¿Qué pasa con una receta de familia si nadie la prepara?",
+"opciones": [
+"Se pierde con el tiempo",
+"Se vuelve más rica sola",
+"Se guarda sola para siempre"
+],
+"correcta": 0,
+"porque": "Si nadie la prepara, la receta se pierde, como el patrimonio intangible."
+},
+{
+"pregunta": "¿Qué ayuda a cuidar el patrimonio?",
+"opciones": [
+"Esconderlo para que no se gaste",
+"Conocerlo y participar en él",
+"Venderlo al mejor postor"
+],
+"correcta": 1,
+"porque": "Se cuida conociéndolo y viviéndolo."
+}
+],
+"renacimiento-leonardo-y-miguel-angel-secundaria": [
+{
+"pregunta": "¿Quién pintó *La última cena*?",
+"opciones": [
+"Miguel Ángel",
+"Leonardo da Vinci",
+"Rafael"
+],
+"correcta": 1,
+"porque": "La última cena es de Leonardo."
+},
+{
+"pregunta": "¿Quién pintó *La escuela de Atenas*?",
+"opciones": [
+"Rafael, autor de esa pintura",
+"Miguel Ángel, el de la Sixtina",
+"Leonardo da Vinci, el de Mona Lisa"
+],
+"correcta": 0,
+"porque": "*La escuela de Atenas* es obra de Rafael."
+},
+{
+"pregunta": "¿Qué buscó el arte renacentista?",
+"opciones": [
+"Solo mucho adorno y dorado",
+"Romper con todas las reglas",
+"Proporción, realismo y belleza clásica"
+],
+"correcta": 2,
+"porque": "Los artistas querían copiar la realidad con belleza."
+},
+{
+"pregunta": "Dibujas una calle donde las casas se ven más pequeñas a lo lejos. ¿Qué técnica usas?",
+"opciones": [
+"Mimetismo",
+"Claroscuro",
+"Perspectiva"
+],
+"correcta": 2,
+"porque": "La perspectiva da sensación de profundidad."
+},
+{
+"pregunta": "¿Qué estudiaban los artistas para pintar real?",
+"opciones": [
+"Las estrellas del cielo nocturno",
+"Las recetas de cocina de la época",
+"El cuerpo humano, para pintarlo real"
+],
+"correcta": 2,
+"porque": "Estudiaban el cuerpo para pintarlo con realismo."
+}
+],
+"ritmo-melodia-y-armonia-secundaria": [
+{
+"pregunta": "¿Qué es la armonía?",
+"opciones": [
+"Una sucesión de notas",
+"Notas que suenan al mismo tiempo",
+"Solo las palmadas de una canción"
+],
+"correcta": 1,
+"porque": "La armonía son notas juntas, como en un acorde."
+},
+{
+"pregunta": "Cantas una canción. ¿Qué parte haces?",
+"opciones": [
+"La melodía",
+"La armonía",
+"El acorde"
+],
+"correcta": 0,
+"porque": "La melodía es una sucesión de notas."
+},
+{
+"pregunta": "Marcas con palmadas el compás de una canción. ¿Qué elemento haces?",
+"opciones": [
+"Ritmo",
+"Melodía",
+"Armonía"
+],
+"correcta": 0,
+"porque": "El ritmo es la duración organizada de los sonidos."
+},
+{
+"pregunta": "¿Cuántos de estos elementos usa una canción?",
+"opciones": [
+"Solo melodía y armonía",
+"Los tres",
+"Solo uno"
+],
+"correcta": 1,
+"porque": "Una canción usa ritmo, melodía y armonía."
+},
+{
+"pregunta": "¿Qué parte de la música es la duración organizada de los sonidos?",
+"opciones": [
+"La melodía",
+"El ritmo",
+"La armonía"
+],
+"correcta": 1,
+"porque": "Ritmo es cuánto dura cada sonido."
+}
+],
+"sistemas-alternativos-aumentativos-comunicacion-secundaria": [
+{
+"pregunta": "¿Qué es el braille?",
+"opciones": [
+"Letras que se leen con los dedos",
+"Un tipo de canción con señas",
+"Un idioma que se habla en voz baja"
+],
+"correcta": 0,
+"porque": "El braille usa puntos en relieve para leer con las manos."
+},
+{
+"pregunta": "El sistema que complementa el habla se llama...",
+"opciones": [
+"Aumentativo",
+"Alternativo",
+"Silencioso"
+],
+"correcta": 0,
+"porque": "Aumentativo ayuda al habla; alternativo la sustituye."
+},
+{
+"pregunta": "¿Cómo respetas a una persona que usa un sistema de comunicación?",
+"opciones": [
+"Elijo yo el sistema que me parezca mejor",
+"Hablo por ella para ir más rápido",
+"Le pregunto qué forma prefiere"
+],
+"correcta": 2,
+"porque": "Cada persona decide cómo comunicarse."
+},
+{
+"pregunta": "Un compañero no puede hablar. ¿Qué le ayuda a pedir agua?",
+"opciones": [
+"Que espere sin pedir nada",
+"Que grite más fuerte",
+"Un tablero con dibujos"
+],
+"correcta": 2,
+"porque": "El tablero le permite señalar lo que necesita."
+},
+{
+"pregunta": "¿Cuál es un sistema alternativo de comunicación?",
+"opciones": [
+"Un micrófono grande",
+"Una campana de la escuela",
+"Lengua de señas mexicana"
+],
+"correcta": 2,
+"porque": "La lengua de señas sustituye al habla."
+}
+],
+"valor-estetico-naturaleza-cotidiano-secundaria": [
+{
+"pregunta": "¿A todas las personas les gusta lo mismo?",
+"opciones": [
+"Solo si tienen la misma edad",
+"No, depende de la cultura y de lo vivido",
+"Sí, todos tenemos los mismos gustos"
+],
+"correcta": 1,
+"porque": "Los gustos cambian y se respetan."
+},
+{
+"pregunta": "¿Dónde puede haber valor estético?",
+"opciones": [
+"En un plato bien servido",
+"Solo en los museos",
+"Solo en las pinturas famosas"
+],
+"correcta": 0,
+"porque": "Puede estar en la montaña, en un plato o en un cuaderno."
+},
+{
+"pregunta": "¿Qué haces primero para apreciar algo?",
+"opciones": [
+"Lo comparo con mi celular favorito",
+"Digo si me gusta sin verlo",
+"Lo miro con calma"
+],
+"correcta": 2,
+"porque": "Primero se observa con calma."
+},
+{
+"pregunta": "Después de mirar algo bello, ¿qué dices?",
+"opciones": [
+"Que es feo si no es famoso",
+"Nada, para no equivocarte",
+"Qué te gusta y por qué"
+],
+"correcta": 2,
+"porque": "Das razones de lo que te gusta."
+},
+{
+"pregunta": "Tu compañero dice que un dibujo es feo y tú que es bonito. ¿Qué haces?",
+"opciones": [
+"Dejo de hablarle",
+"Respeto su gusto y doy mis razones",
+"Lo obligo a cambiar de opinión"
+],
+"correcta": 1,
+"porque": "Los gustos son distintos y se respetan."
+}
+],
+"vanguardias-y-picasso-secundaria": [
+{
+"pregunta": "¿Qué buscaron las vanguardias?",
+"opciones": [
+"Pintar solo paisajes tranquilos",
+"Copiar igual a los pintores antiguos",
+"Romper con lo anterior"
+],
+"correcta": 2,
+"porque": "Fueron movimientos que rompían reglas."
+},
+{
+"pregunta": "¿Quién es un pintor surrealista?",
+"opciones": [
+"Kandinsky",
+"Dalí",
+"Picasso"
+],
+"correcta": 1,
+"porque": "Dalí pintó sueños, como en el surrealismo."
+},
+{
+"pregunta": "¿Qué muestra el expresionismo?",
+"opciones": [
+"Emociones, a veces muy fuertes",
+"Solo formas geométricas exactas",
+"Paisajes idénticos a una foto"
+],
+"correcta": 0,
+"porque": "El expresionismo busca mostrar emociones."
+},
+{
+"pregunta": "Dibujas un rostro con cuadros y triángulos. ¿Qué movimiento imitas?",
+"opciones": [
+"Surrealismo",
+"Impresionismo",
+"Cubismo"
+],
+"correcta": 2,
+"porque": "El cubismo usa figuras geométricas."
+},
+{
+"pregunta": "¿De qué siglo son las vanguardias?",
+"opciones": [
+"Siglo XVII",
+"Siglo XX",
+"Siglo XV"
+],
+"correcta": 1,
+"porque": "Fueron movimientos del siglo XX."
+}
+],
+"vida-saludable-mensajes-artisticos-secundaria": [
+{
+"pregunta": "¿Cuál es el primer paso de un mensaje de salud?",
+"opciones": [
+"Elegir un hábito",
+"Imprimir cien carteles",
+"Buscar dónde pegarlo"
+],
+"correcta": 0,
+"porque": "Primero se escoge el hábito que quieres promover."
+},
+{
+"pregunta": "Antes de escribir la frase, ¿qué decides?",
+"opciones": [
+"Qué color de lápiz te gusta más",
+"Cuántos carteles harás",
+"A quién le hablas"
+],
+"correcta": 2,
+"porque": "Un mensaje es mejor si sabes quién lo leerá."
+},
+{
+"pregunta": "¿Cómo debe ser la frase de tu cartel?",
+"opciones": [
+"Escrita en letras diminutas",
+"Corta, clara y fácil de recordar",
+"Muy larga y con muchos datos"
+],
+"correcta": 1,
+"porque": "Una frase corta se recuerda mejor en un cartel."
+},
+{
+"pregunta": "¿Qué debes revisar antes de difundir tu mensaje?",
+"opciones": [
+"Que sea el más largo",
+"Que tenga muchos colores",
+"Que el dato sea cierto"
+],
+"correcta": 2,
+"porque": "Un mensaje de salud falso puede dañar."
+},
+{
+"pregunta": "Para el periódico mural haces un cartel de dormir bien. ¿Cuál sirve más?",
+"opciones": [
+"Una luna y la frase corta Duerme bien",
+"Un texto largo con letra pequeña",
+"Un dibujo sin ninguna frase"
+],
+"correcta": 0,
+"porque": "Imagen y frase corta se entienden rápido."
+}
+],
+"adaptacion-secundaria": [
+{
+"pregunta": "¿Qué es una adaptación?",
+"opciones": [
+"Un cambio que solo dura un día",
+"Un truco que aprendes en clase",
+"Un rasgo heredado que ayuda a sobrevivir"
+],
+"correcta": 2,
+"porque": "Se hereda y ayuda a vivir en un lugar."
+},
+{
+"pregunta": "La grasa del oso polar es una adaptación...",
+"opciones": [
+"De conducta",
+"Del cuerpo",
+"De funcionamiento"
+],
+"correcta": 1,
+"porque": "Es parte de su cuerpo."
+},
+{
+"pregunta": "Una rana verde entre hojas verdes casi no se ve. ¿Cómo se llama?",
+"opciones": [
+"Migración",
+"Camuflaje",
+"Mimetismo"
+],
+"correcta": 1,
+"porque": "Camuflaje es parecerse al lugar donde vives."
+},
+{
+"pregunta": "Una mosca inofensiva parece avispa peligrosa. ¿Cómo se llama?",
+"opciones": [
+"Mimetismo",
+"Migración",
+"Camuflaje"
+],
+"correcta": 0,
+"porque": "Mimetismo es parecerse a otra especie peligrosa."
+},
+{
+"pregunta": "Subes a una montaña y tu cuerpo se ajusta. ¿Es adaptación?",
+"opciones": [
+"Sí, porque ayuda a sobrevivir",
+"Sí, porque ocurre en poco tiempo",
+"No, porque no se hereda"
+],
+"correcta": 2,
+"porque": "Una adaptación debe heredarse."
+}
+],
+"alimentacion-ultraprocesados-enfermedades-secundaria": [
+{
+"pregunta": "¿Qué son los ultraprocesados?",
+"opciones": [
+"Productos de fábrica con mucha azúcar, sal o grasa",
+"Comidas hechas en casa con verduras",
+"Frutas frescas recién cortadas"
+],
+"correcta": 0,
+"porque": "Dan energía, pero casi no nutren."
+},
+{
+"pregunta": "Tu lonchera tiene una botana con sellos negros. ¿Cada cuándo conviene comerla?",
+"opciones": [
+"En ocasiones",
+"En cada recreo",
+"Todos los días"
+],
+"correcta": 0,
+"porque": "Esos productos son para ocasiones, no diario."
+},
+{
+"pregunta": "¿Qué te ayuda a saber si un producto es ultraprocesado?",
+"opciones": [
+"Mirar el dibujo del empaque",
+"Leer los sellos del empaque",
+"Ver cuánto cuesta el paquete"
+],
+"correcta": 1,
+"porque": "Los sellos del empaque avisan si tiene mucha azúcar, sal o grasa."
+},
+{
+"pregunta": "¿Cuál es una comida fresca?",
+"opciones": [
+"Papas fritas de bolsa",
+"Galletas de paquete",
+"Una naranja entera"
+],
+"correcta": 2,
+"porque": "La naranja no viene procesada en fábrica."
+},
+{
+"pregunta": "Sobre los ultraprocesados, no se trata de prohibirlos sino de...",
+"opciones": [
+"Darles solo a los niños",
+"Comerlos en cada comida",
+"Comerlos poco"
+],
+"correcta": 2,
+"porque": "Se puede comer algo, pero muy poco."
+}
+]
+}

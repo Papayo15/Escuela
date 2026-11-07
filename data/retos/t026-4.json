@@ -1,0 +1,522 @@
+{
+"herramientas-maquinas-extension-corporal-secundaria": [
+{
+"pregunta": "Una licuadora transforma energía. ¿Qué es?",
+"opciones": [
+"Una máquina",
+"Una herramienta",
+"Un instrumento"
+],
+"correcta": 0,
+"porque": "Las máquinas transforman energía para hacer un trabajo."
+},
+{
+"pregunta": "¿Qué parte de tu cuerpo amplía un microscopio?",
+"opciones": [
+"Tu velocidad",
+"Tu vista",
+"Tu fuerza"
+],
+"correcta": 1,
+"porque": "El microscopio es un instrumento que amplía lo que ves."
+},
+{
+"pregunta": "¿Qué es una herramienta?",
+"opciones": [
+"Algo que usa tu fuerza para trabajar",
+"Algo que solo mide cosas",
+"Algo que transforma energía sola"
+],
+"correcta": 0,
+"porque": "La herramienta usa tu fuerza, como el martillo."
+},
+{
+"pregunta": "Un termómetro mide la temperatura. ¿Qué es?",
+"opciones": [
+"Un instrumento",
+"Una máquina",
+"Una herramienta"
+],
+"correcta": 0,
+"porque": "Los instrumentos miden u observan, y extienden un sentido."
+},
+{
+"pregunta": "¿Qué te permite hacer la bicicleta?",
+"opciones": [
+"Medir la temperatura",
+"Ver cosas más pequeñas",
+"Ir más rápido que a pie"
+],
+"correcta": 2,
+"porque": "La bicicleta es una máquina que amplía tu velocidad."
+}
+],
+"impacto-ambiental-de-una-tecnologia-secundaria": [
+{
+"pregunta": "¿Qué es el impacto ambiental?",
+"opciones": [
+"El efecto de una actividad humana en la naturaleza",
+"El precio de un invento nuevo",
+"El tamaño de una fábrica"
+],
+"correcta": 0,
+"porque": "Todo invento deja huella en la naturaleza, como pisadas en la arena."
+},
+{
+"pregunta": "Un celular roto se tira a la basura. ¿Qué se genera?",
+"opciones": [
+"Basura electrónica",
+"Materia prima",
+"Energía limpia"
+],
+"correcta": 0,
+"porque": "Los aparatos electrónicos desechados forman basura electrónica."
+},
+{
+"pregunta": "¿Qué etapa del ciclo de vida sigue después de la fábrica?",
+"opciones": [
+"El transporte",
+"El desecho",
+"La materia prima"
+],
+"correcta": 0,
+"porque": "El orden es materia prima, fábrica, transporte, uso y desecho."
+},
+{
+"pregunta": "¿Cuál es una buena solución para cuidar la naturaleza?",
+"opciones": [
+"Tirar todo junto",
+"Reparar lo que se descompone",
+"Comprar uno nuevo cada mes"
+],
+"correcta": 1,
+"porque": "Reparar ayuda a reducir basura y a gastar menos recursos."
+},
+{
+"pregunta": "¿Cuál es una energía limpia?",
+"opciones": [
+"La del humo",
+"La del carbón",
+"La del sol"
+],
+"correcta": 2,
+"porque": "Las energías limpias contaminan menos que el carbón o el petróleo."
+}
+],
+"inventos-mexicanos-secundaria": [
+{
+"pregunta": "¿Quién creó la tecnología de impresión a demanda?",
+"opciones": [
+"Victor Celorio",
+"Mario Molina",
+"Luis Miramontes"
+],
+"correcta": 0,
+"porque": "Victor Celorio es un inventor mexicano de esta tecnología."
+},
+{
+"pregunta": "Ves una caricatura a todo color. ¿A qué inventor mexicano se lo debes?",
+"opciones": [
+"Mario Molina",
+"Luis Miramontes",
+"Guillermo González Camarena"
+],
+"correcta": 2,
+"porque": "González Camarena creó un sistema de televisión a color."
+},
+{
+"pregunta": "¿Qué estudió Mario Molina para ganar el Nobel?",
+"opciones": [
+"Los volcanes",
+"Los dinosaurios",
+"La capa de ozono"
+],
+"correcta": 2,
+"porque": "Molina ganó el Nobel de Química por estudiar la capa de ozono."
+},
+{
+"pregunta": "¿Qué pueblo creó las chinampas?",
+"opciones": [
+"Los mexicas",
+"Los vikingos",
+"Los romanos"
+],
+"correcta": 0,
+"porque": "Las chinampas son islas de cultivo que hicieron los mexicas."
+},
+{
+"pregunta": "¿Qué hizo Luis Miramontes?",
+"opciones": [
+"Inventó la televisión",
+"Ganó un premio por la capa de ozono",
+"Participó en crear un medicamento"
+],
+"correcta": 2,
+"porque": "Miramontes fue un científico mexicano que participó en un invento médico."
+}
+],
+"inventos-que-cambiaron-el-mundo-secundaria": [
+{
+"pregunta": "¿Qué inventó Bell?",
+"opciones": [
+"La imprenta",
+"El teléfono",
+"El foco"
+],
+"correcta": 1,
+"porque": "Bell es el inventor del teléfono."
+},
+{
+"pregunta": "¿Qué mejoró Edison?",
+"opciones": [
+"La luz eléctrica",
+"La rueda",
+"La imprenta"
+],
+"correcta": 0,
+"porque": "Edison mejoró el foco, y así hubo luz eléctrica en las casas."
+},
+{
+"pregunta": "La máquina de vapor impulsó...",
+"opciones": [
+"La industria",
+"Los libros",
+"La medicina"
+],
+"correcta": 0,
+"porque": "Con el vapor las fábricas pudieron mover máquinas grandes."
+},
+{
+"pregunta": "¿Para qué sirve la rueda?",
+"opciones": [
+"Para dar luz",
+"Para el transporte",
+"Para imprimir libros"
+],
+"correcta": 1,
+"porque": "Sin la rueda no habría coches ni carretas."
+},
+{
+"pregunta": "¿En qué año se descubrió la penicilina?",
+"opciones": [
+"1928",
+"1828",
+"1958"
+],
+"correcta": 0,
+"porque": "Fleming descubrió la penicilina en 1928."
+}
+],
+"maquinas-simples-en-la-vida-diaria-secundaria": [
+{
+"pregunta": "Un destapador de refrescos es una...",
+"opciones": [
+"Palanca",
+"Polea",
+"Cuña"
+],
+"correcta": 0,
+"porque": "El destapador es una palanca que levanta la tapa."
+},
+{
+"pregunta": "La tapa de un frasco funciona como...",
+"opciones": [
+"Un tornillo",
+"Una rampa",
+"Una cuña"
+],
+"correcta": 0,
+"porque": "La tapa gira en espiral, igual que un tornillo."
+},
+{
+"pregunta": "Una bicicleta usa ruedas con ejes. ¿Qué máquina simple es?",
+"opciones": [
+"Palanca",
+"Plano inclinado",
+"Rueda y eje"
+],
+"correcta": 2,
+"porque": "La rueda gira sobre un eje, por eso es rueda y eje."
+},
+{
+"pregunta": "Una cortina se jala con una cuerda. ¿Qué máquina simple usa?",
+"opciones": [
+"Un tornillo",
+"Una polea",
+"Una cuña"
+],
+"correcta": 1,
+"porque": "La polea ayuda a mover cosas con una cuerda."
+},
+{
+"pregunta": "¿Para qué sirven las máquinas simples?",
+"opciones": [
+"Para hacer más fácil un trabajo",
+"Para medir cosas",
+"Para gastar más fuerza"
+],
+"correcta": 0,
+"porque": "Una máquina simple te ayuda a trabajar con menos esfuerzo."
+}
+],
+"materiales-procesos-tecnicos-comunidad-secundaria": [
+{
+"pregunta": "¿Cuál es un material natural?",
+"opciones": [
+"La madera",
+"El nylon",
+"El plástico"
+],
+"correcta": 0,
+"porque": "La madera viene de la naturaleza, y el plástico es sintético."
+},
+{
+"pregunta": "Al hacer una olla de barro, ¿qué sigue después de moldear?",
+"opciones": [
+"El secado",
+"El horneado",
+"La extracción"
+],
+"correcta": 0,
+"porque": "El orden es barro, moldeado, secado y horneado."
+},
+{
+"pregunta": "¿Por qué el mango de un sartén suele ser de madera?",
+"opciones": [
+"Conduce mucho calor",
+"Pesa muchísimo",
+"Conduce poco calor"
+],
+"correcta": 2,
+"porque": "Como la madera calienta poco, no te quemas la mano."
+},
+{
+"pregunta": "¿Qué materiales usa cada comunidad?",
+"opciones": [
+"Los más caros",
+"Los que están lejos",
+"Los que tiene cerca"
+],
+"correcta": 2,
+"porque": "Cada lugar construye con lo que tiene a la mano."
+},
+{
+"pregunta": "El plástico, ¿es de origen natural o sintético?",
+"opciones": [
+"Natural",
+"Sintético",
+"De origen vivo"
+],
+"correcta": 1,
+"porque": "El plástico lo fabrica el ser humano, por eso es sintético."
+}
+],
+"procesos-tecnicos-secundaria": [
+{
+"pregunta": "Haces pan. ¿Cuál es la salida del proceso?",
+"opciones": [
+"El pan",
+"La harina",
+"El horno"
+],
+"correcta": 0,
+"porque": "La salida es el producto que se obtiene al final."
+},
+{
+"pregunta": "¿Cuál es una transformación?",
+"opciones": [
+"Guardar en la alacena",
+"Mezclar o calentar",
+"Comprar en la tienda"
+],
+"correcta": 1,
+"porque": "La transformación cambia los materiales, como cortar o mezclar."
+},
+{
+"pregunta": "¿Qué se revisa para mejorar un proceso?",
+"opciones": [
+"Qué se desperdicia",
+"Cuánto pesa la mesa",
+"De qué color es"
+],
+"correcta": 0,
+"porque": "Si se ve lo que sobra, se puede ahorrar y mejorar."
+},
+{
+"pregunta": "¿Qué es la entrada de un proceso?",
+"opciones": [
+"Los materiales y la energía",
+"El producto final",
+"El empaque nuevo"
+],
+"correcta": 0,
+"porque": "La entrada es lo que necesitas para empezar."
+},
+{
+"pregunta": "¿Qué es un proceso técnico?",
+"opciones": [
+"Un objeto ya terminado",
+"Una herramienta muy cara",
+"Pasos ordenados para hacer algo"
+],
+"correcta": 2,
+"porque": "Es como hacer tortillas: un paso tras otro."
+}
+],
+"vistas-de-un-objeto-secundaria": [
+{
+"pregunta": "Miras una caja de frente. ¿Qué vista dibujas?",
+"opciones": [
+"La superior",
+"La lateral",
+"La frontal"
+],
+"correcta": 2,
+"porque": "La vista frontal es la que ves de frente."
+},
+{
+"pregunta": "Miras una caja desde un costado. ¿Qué vista dibujas?",
+"opciones": [
+"La lateral",
+"La superior",
+"La frontal"
+],
+"correcta": 0,
+"porque": "La vista lateral se ve de lado."
+},
+{
+"pregunta": "¿Qué muestran las vistas juntas?",
+"opciones": [
+"La forma completa",
+"Solo el color",
+"Solo el peso"
+],
+"correcta": 0,
+"porque": "Con varias vistas se entiende el objeto por todos lados."
+},
+{
+"pregunta": "¿Dónde se usan las vistas de un objeto?",
+"opciones": [
+"En recetas de cocina",
+"En planos de casas y máquinas",
+"En listas de útiles"
+],
+"correcta": 1,
+"porque": "Los planos usan vistas para que otros puedan construir."
+},
+{
+"pregunta": "Quieres ver la tapa de una caja. ¿Qué vista usas?",
+"opciones": [
+"La frontal",
+"La lateral",
+"La superior"
+],
+"correcta": 2,
+"porque": "La tapa se ve desde arriba, en la vista superior."
+}
+],
+"circulo-unitario-prepa": [
+{
+"pregunta": "¿Cuánto vale $\\sin 90°$?",
+"opciones": [
+"-1",
+"0",
+"1"
+],
+"correcta": 2,
+"porque": "A 90° el punto está arriba del todo, a altura 1."
+},
+{
+"pregunta": "¿Cuánto vale $\\cos 180°$?",
+"opciones": [
+"Vale -1",
+"Vale 0",
+"Vale 1"
+],
+"correcta": 0,
+"porque": "A 180° el punto está en el extremo izquierdo, y avanzó -1."
+},
+{
+"pregunta": "¿Cuánto vale $\\sin 150°$?",
+"opciones": [
+"1",
+"$\\frac{1}{2}$",
+"$-\\frac{1}{2}$"
+],
+"correcta": 1,
+"porque": "Es espejo de 30°, y está arriba, por eso es positivo."
+},
+{
+"pregunta": "¿Qué signo tiene $\\sin 200°$?",
+"opciones": [
+"Cero",
+"Positivo",
+"Negativo"
+],
+"correcta": 2,
+"porque": "A 200° el punto está abajo, y abajo el seno es negativo."
+},
+{
+"pregunta": "¿Qué signo tiene $\\cos 330°$?",
+"opciones": [
+"Positivo",
+"Cero",
+"Negativo"
+],
+"correcta": 0,
+"porque": "A 330° el punto está a la derecha, y ahí el coseno es positivo."
+}
+],
+"circunferencia-kepler-movimiento-orbital": [
+{
+"pregunta": "Escribe la ecuación con centro $(-3,1)$ y radio 2.",
+"opciones": [
+"$(x-3)^2 + (y+1)^2 = 4$",
+"$(x+3)^2 + (y-1)^2 = 4$",
+"$(x+3)^2 + (y-1)^2 = 2$"
+],
+"correcta": 1,
+"porque": "El signo del centro se voltea y el radio se eleva al cuadrado."
+},
+{
+"pregunta": "Escribe la ecuación con centro $(0,4)$ y radio 3.",
+"opciones": [
+"$x^2 + (y-4)^2 = 3$",
+"$x^2 + (y+4)^2 = 9$",
+"$x^2 + (y-4)^2 = 9$"
+],
+"correcta": 2,
+"porque": "Con $h = 0$ queda $x^2$, y $r^2$ vale 9."
+},
+{
+"pregunta": "Un cuerpo tiene $a = 16$ UA. ¿Qué periodo tiene según Kepler?",
+"opciones": [
+"64 años",
+"16 años",
+"256 años"
+],
+"correcta": 0,
+"porque": "Con $T^2 = a^3 = 4096$, entonces $T = 64$."
+},
+{
+"pregunta": "En la órbita elíptica de un planeta, ¿dónde está el Sol?",
+"opciones": [
+"En el centro exacto",
+"En el borde de la elipse",
+"En un foco de la elipse"
+],
+"correcta": 2,
+"porque": "Kepler dijo que el Sol está en un foco, no en el centro."
+},
+{
+"pregunta": "¿Cuándo va más rápido un planeta?",
+"opciones": [
+"Cuando está cerca del Sol",
+"Cuando está lejos del Sol",
+"Siempre va igual"
+],
+"correcta": 0,
+"porque": "Cerca del Sol los planetas aceleran, según Kepler."
+}
+]
+}

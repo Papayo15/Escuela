@@ -1,0 +1,524 @@
+{
+"distancia-entre-dos-puntos-prepa": [
+{
+"pregunta": "Distancia entre $(1, 2)$ y $(6, 14)$.",
+"opciones": [
+"15",
+"17",
+"13",
+"7"
+],
+"correcta": 2,
+"porque": "Restas 5 y 12, elevas, sumas 169 y la raíz da 13."
+},
+{
+"pregunta": "Para la distancia, ¿qué haces con $x_1$ y $x_2$?",
+"opciones": [
+"Los restas y elevas al cuadrado",
+"Los sumas y sacas la raíz",
+"Los multiplicas entre ellos"
+],
+"correcta": 0,
+"porque": "Se resta la diferencia y se eleva al cuadrado, como en Pitágoras."
+},
+{
+"pregunta": "Distancia entre $(-2, -1)$ y $(1, 3)$.",
+"opciones": [
+"25",
+"1",
+"5",
+"7"
+],
+"correcta": 2,
+"porque": "Las diferencias son 3 y 4, y $\\sqrt{9 + 16} = 5$."
+},
+{
+"pregunta": "Si cambias el orden de los dos puntos, ¿cambia la distancia?",
+"opciones": [
+"Sí, porque sale negativa",
+"No, porque el cuadrado quita el signo",
+"Sí, porque cambia la raíz"
+],
+"correcta": 1,
+"porque": "Al elevar al cuadrado el signo desaparece, así que sale igual."
+},
+{
+"pregunta": "En tu cuaderno, dos puntos están a 9 cuadros de lado y 12 hacia arriba. ¿Cuánto mide la línea recta?",
+"opciones": [
+"3 cuadros",
+"21 cuadros",
+"15 cuadros"
+],
+"correcta": 2,
+"porque": "Es Pitágoras: $\\sqrt{81 + 144} = 15$."
+}
+],
+"ecuacion-de-la-circunferencia-prepa": [
+{
+"pregunta": "Centro $(-2, 4)$ y radio 3. ¿Cuál es la ecuación?",
+"opciones": [
+"$(x + 2)^2 + (y - 4)^2 = 3$",
+"$(x - 2)^2 + (y + 4)^2 = 9$",
+"$(x + 2)^2 + (y - 4)^2 = 9$"
+],
+"correcta": 2,
+"porque": "El centro va con signo contrario y el radio se eleva al cuadrado."
+},
+{
+"pregunta": "En $(x - 5)^2 + (y + 1)^2 = 16$, ¿cuál es el centro y el radio?",
+"opciones": [
+"Centro $(-5, 1)$ y radio 4",
+"Centro $(5, -1)$ y radio 16",
+"Centro $(5, -1)$ y radio 4"
+],
+"correcta": 2,
+"porque": "El centro cambia el signo y 16 es $r^2$, así que $r = 4$."
+},
+{
+"pregunta": "¿Cuánto mide el radio de $x^2 + y^2 = 81$?",
+"opciones": [
+"Mide 9",
+"Mide 40.5",
+"Mide 81"
+],
+"correcta": 0,
+"porque": "El radio es la raíz de 81, que es 9."
+},
+{
+"pregunta": "¿El punto $(0, 5)$ está en $x^2 + y^2 = 25$?",
+"opciones": [
+"No, porque da 10",
+"Sí, porque da 25",
+"No, porque da 5"
+],
+"correcta": 1,
+"porque": "Al sustituir queda $0 + 25 = 25$, y se cumple."
+},
+{
+"pregunta": "Atas un hilo de 7 cm a un clavo y giras el lápiz. ¿Cuánto vale $r^2$?",
+"opciones": [
+"14",
+"49",
+"7"
+],
+"correcta": 1,
+"porque": "El radio es 7, y $7 \\times 7 = 49$."
+}
+],
+"ecuacion-de-la-elipse-prepa": [
+{
+"pregunta": "En $\\frac{x^2}{49} + \\frac{y^2}{16} = 1$, ¿cuánto valen $a$ y $b$?",
+"opciones": [
+"$a = 49$ y $b = 16$",
+"$a = 7$ y $b = 4$",
+"$a = 4$ y $b = 7$"
+],
+"correcta": 1,
+"porque": "Se saca raíz a cada número, y el mayor es $a$."
+},
+{
+"pregunta": "En $\\frac{x^2}{169} + \\frac{y^2}{25} = 1$, ¿cuánto vale $c$?",
+"opciones": [
+"8",
+"144",
+"12"
+],
+"correcta": 2,
+"porque": "$c^2 = 169 - 25 = 144$, y la raíz es 12."
+},
+{
+"pregunta": "En $\\frac{x^2}{4} + \\frac{y^2}{36} = 1$, ¿cómo es el eje mayor?",
+"opciones": [
+"Horizontal, porque 4 está bajo $x$",
+"Vertical, porque 36 está bajo $y$",
+"Horizontal, porque $x$ va primero"
+],
+"correcta": 1,
+"porque": "El número grande está bajo $y$, así que el eje es vertical."
+},
+{
+"pregunta": "¿Cuánto vale la excentricidad con $c = 2$ y $a = 4$?",
+"opciones": [
+"0.5",
+"2",
+"0.8"
+],
+"correcta": 0,
+"porque": "Se divide $e = \\frac{c}{a} = \\frac{2}{4} = 0.5$."
+},
+{
+"pregunta": "Dibujas una elipse con dos chinches y un hilo. ¿Cómo se llaman las chinches?",
+"opciones": [
+"Los vértices",
+"Los radios",
+"Los focos"
+],
+"correcta": 2,
+"porque": "Los dos puntos fijos de la elipse se llaman focos."
+}
+],
+"ecuacion-de-la-hiperbola-prepa": [
+{
+"pregunta": "En $\\frac{x^2}{36} - \\frac{y^2}{64} = 1$, ¿cuánto vale $c$?",
+"opciones": [
+"14",
+"100",
+"10"
+],
+"correcta": 2,
+"porque": "En la hipérbola se suma: $c^2 = 36 + 64 = 100$."
+},
+{
+"pregunta": "¿Cuáles son las asíntotas de $\\frac{x^2}{9} - \\frac{y^2}{36} = 1$?",
+"opciones": [
+"$y = \\pm 2x$",
+"$y = \\pm 4x$",
+"$y = \\pm\\frac{1}{2}x$"
+],
+"correcta": 0,
+"porque": "Aquí $b = 6$ y $a = 3$, así que $\\frac{b}{a} = 2$."
+},
+{
+"pregunta": "¿Hacia dónde abre $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$?",
+"opciones": [
+"A los lados, porque $x^2$ es positiva",
+"Arriba y abajo, porque 9 es menor",
+"Arriba y abajo, porque $y$ resta"
+],
+"correcta": 0,
+"porque": "Abre hacia la letra positiva, y aquí es la $x$."
+},
+{
+"pregunta": "¿Cuáles son los vértices de $\\frac{x^2}{36} - \\frac{y^2}{4} = 1$?",
+"opciones": [
+"$(\\pm 6, 0)$",
+"$(0, \\pm 6)$",
+"$(\\pm 2, 0)$"
+],
+"correcta": 0,
+"porque": "Los vértices están en $\\pm a$ sobre el eje $x$, y $a = 6$."
+},
+{
+"pregunta": "La sombra de una lámpara en la pared forma dos curvas. ¿Qué figura es?",
+"opciones": [
+"Una circunferencia",
+"Una hipérbola",
+"Una elipse"
+],
+"correcta": 1,
+"porque": "Dos curvas abiertas de espaldas son una hipérbola."
+}
+],
+"ecuacion-de-la-parabola-prepa": [
+{
+"pregunta": "¿Cuánto vale $p$ en $x^2 = 20y$?",
+"opciones": [
+"Vale 5",
+"Vale 80",
+"Vale 20"
+],
+"correcta": 0,
+"porque": "Se divide entre 4: $\\frac{20}{4} = 5$."
+},
+{
+"pregunta": "¿Cuál es el foco de $y^2 = 12x$?",
+"opciones": [
+"$(0, 3)$",
+"$(3, 0)$",
+"$(12, 0)$"
+],
+"correcta": 1,
+"porque": "Aquí $p = 3$, y como abre a la derecha el foco es $(p, 0)$."
+},
+{
+"pregunta": "¿Cuál es la directriz de $x^2 = 8y$?",
+"opciones": [
+"$x = -2$",
+"$y = 2$",
+"$y = -2$"
+],
+"correcta": 2,
+"porque": "Aquí $p = 2$, y la directriz es $y = -p$."
+},
+{
+"pregunta": "Foco en $(3, 0)$ y vértice en el origen. ¿Cuál es la ecuación?",
+"opciones": [
+"$x^2 = 12y$",
+"$y^2 = 12x$",
+"$y^2 = 3x$"
+],
+"correcta": 1,
+"porque": "Con $p = 3$ y abriendo a la derecha, $y^2 = 4px = 12x$."
+},
+{
+"pregunta": "Lanzas un balón al aire. ¿Qué forma dibuja su camino?",
+"opciones": [
+"Una recta",
+"Una parábola",
+"Un círculo"
+],
+"correcta": 1,
+"porque": "El camino de un balón lanzado es una parábola."
+}
+],
+"ecuacion-de-la-recta-punto-pendiente-prepa": [
+{
+"pregunta": "Pendiente 3 y pasa por $(2, 4)$. ¿Cuál es la ecuación?",
+"opciones": [
+"$y - 2 = 3(x - 4)$",
+"$y + 4 = 3(x + 2)$",
+"$y - 4 = 3(x - 2)$"
+],
+"correcta": 2,
+"porque": "Se usa $y - y_1 = m(x - x_1)$ con $x_1 = 2$ y $y_1 = 4$."
+},
+{
+"pregunta": "¿Cuál es la pendiente de la recta por $(0, 1)$ y $(2, 7)$?",
+"opciones": [
+"3",
+"6",
+"4"
+],
+"correcta": 0,
+"porque": "Sube 6 y avanza 2, así que $m = \\frac{6}{2} = 3$."
+},
+{
+"pregunta": "Despeja $y$ en $y - 2 = 5(x - 1)$.",
+"opciones": [
+"$y = 5x + 1$",
+"$y = 5x - 7$",
+"$y = 5x - 3$"
+],
+"correcta": 2,
+"porque": "Primero $y - 2 = 5x - 5$, y luego sumas 2 en los dos lados."
+},
+{
+"pregunta": "En $y - y_1 = m(x - x_1)$, ¿qué es $m$?",
+"opciones": [
+"Un punto de la recta",
+"Donde cruza el eje $y$",
+"La pendiente de la recta"
+],
+"correcta": 2,
+"porque": "La letra $m$ es la pendiente, y $(x_1, y_1)$ es el punto."
+},
+{
+"pregunta": "Una rampa sube 1 por cada 2 pasos y pasa por el origen. ¿Cuál es su ecuación?",
+"opciones": [
+"$y = x + 2$",
+"$y = 2x$",
+"$y = \\frac{1}{2}x$"
+],
+"correcta": 2,
+"porque": "La pendiente es $\\frac{1}{2}$ y no hay número suelto porque pasa por $(0, 0)$."
+}
+],
+"forma-general-de-la-recta-prepa": [
+{
+"pregunta": "Pasa $y = 4x + 5$ a forma general.",
+"opciones": [
+"$4x + y + 5 = 0$",
+"$4x - y + 5 = 0$",
+"$x - 4y + 5 = 0$"
+],
+"correcta": 1,
+"porque": "Pasas la $y$ al otro lado y todo queda igual a 0."
+},
+{
+"pregunta": "Halla la pendiente de $6x + 3y - 12 = 0$.",
+"opciones": [
+"$-2$",
+"$-\\frac{1}{2}$",
+"$2$"
+],
+"correcta": 0,
+"porque": "Se usa $m = -\\frac{A}{B} = -\\frac{6}{3} = -2$."
+},
+{
+"pregunta": "Pasa $y = \\frac{1}{2}x + 3$ a forma general.",
+"opciones": [
+"$x - 2y + 3 = 0$",
+"$2x - y + 6 = 0$",
+"$x - 2y + 6 = 0$"
+],
+"correcta": 2,
+"porque": "Multiplicas todo por 2 para quitar la fracción: $2y = x + 6$."
+},
+{
+"pregunta": "¿Dónde cruza el eje $y$ la recta $2x - 4y + 8 = 0$?",
+"opciones": [
+"En 2",
+"En $-2$",
+"En 4"
+],
+"correcta": 0,
+"porque": "Se usa $b = -\\frac{C}{B} = -\\frac{8}{-4} = 2$."
+},
+{
+"pregunta": "En tu cuaderno dibujas $y = x + 1$. ¿Cuál es su forma general?",
+"opciones": [
+"$x - y - 1 = 0$",
+"$x - y + 1 = 0$",
+"$x + y + 1 = 0$"
+],
+"correcta": 1,
+"porque": "Pasas la $y$ al lado izquierdo y queda igual a 0."
+}
+],
+"funcion-cuadratica-parabola-preparatoria": [
+{
+"pregunta": "¿Cuál es el vértice de $y = x^2 - 2x - 3$?",
+"opciones": [
+"$(1, -4)$",
+"$(1, -3)$",
+"$(-1, -4)$"
+],
+"correcta": 0,
+"porque": "$x = \\frac{2}{2} = 1$, y $y = 1 - 2 - 3 = -4$."
+},
+{
+"pregunta": "¿Hacia dónde abre $y = 3x^2 - 5$?",
+"opciones": [
+"Hacia arriba, porque $a = 3$ es positivo",
+"Hacia abajo, porque aparece $-5$",
+"Hacia abajo, porque $a$ es impar"
+],
+"correcta": 0,
+"porque": "Si $a$ es positivo, la parábola abre hacia arriba."
+},
+{
+"pregunta": "¿Cuáles son las raíces de $y = x^2 - 5x + 6$?",
+"opciones": [
+"1 y 6",
+"$-2$ y $-3$",
+"2 y 3"
+],
+"correcta": 2,
+"porque": "Se factoriza $(x - 2)(x - 3) = 0$."
+},
+{
+"pregunta": "¿Cuál es el vértice de $y = -x^2 + 6x$?",
+"opciones": [
+"$(3, -9)$",
+"$(3, 9)$",
+"$(-3, 9)$"
+],
+"correcta": 1,
+"porque": "$x = -\\frac{6}{-2} = 3$, y $y = -9 + 18 = 9$."
+},
+{
+"pregunta": "Lanzas una pelota y marcas su punto más alto. ¿Cómo se llama?",
+"opciones": [
+"La raíz",
+"El eje $x$",
+"El vértice"
+],
+"correcta": 2,
+"porque": "El punto más alto o más bajo de una parábola es el vértice."
+}
+],
+"grados-y-radianes-prepa": [
+{
+"pregunta": "Convierte 135° a radianes.",
+"opciones": [
+"$\\frac{\\pi}{4}$",
+"$\\frac{3\\pi}{2}$",
+"$\\frac{3\\pi}{4}$"
+],
+"correcta": 2,
+"porque": "Se multiplica por $\\frac{\\pi}{180}$, y $\\frac{135}{180} = \\frac{3}{4}$."
+},
+{
+"pregunta": "Convierte $\\frac{3\\pi}{2}$ radianes a grados.",
+"opciones": [
+"135°",
+"90°",
+"270°"
+],
+"correcta": 2,
+"porque": "Cambias $\\pi$ por 180, y $\\frac{3 \\times 180}{2} = 270$."
+},
+{
+"pregunta": "Un arco tiene $r = 5$ y $\\theta = 3$ rad. ¿Cuánto mide?",
+"opciones": [
+"53",
+"15",
+"8"
+],
+"correcta": 1,
+"porque": "Se usa $s = r\\theta = 5 \\times 3 = 15$."
+},
+{
+"pregunta": "¿A cuántos radianes equivale media vuelta?",
+"opciones": [
+"$\\pi$",
+"$2\\pi$",
+"$\\frac{\\pi}{2}$"
+],
+"correcta": 0,
+"porque": "Media vuelta son 180°, que es lo mismo que $\\pi$."
+},
+{
+"pregunta": "Un radián es el ángulo cuyo arco mide lo mismo que...",
+"opciones": [
+"El diámetro",
+"La circunferencia",
+"El radio"
+],
+"correcta": 2,
+"porque": "Un radián es el ángulo donde el arco es igual al radio."
+}
+],
+"graficas-de-seno-y-coseno-prepa": [
+{
+"pregunta": "¿Cuál es la amplitud de $y = 4\\sin x$?",
+"opciones": [
+"4",
+"8",
+"1"
+],
+"correcta": 0,
+"porque": "La amplitud es el número $A$ que multiplica al seno."
+},
+{
+"pregunta": "¿Cuál es el periodo de $y = \\cos(3x)$?",
+"opciones": [
+"Mide $3$",
+"Mide $\\frac{2\\pi}{3}$",
+"Mide $6\\pi$"
+],
+"correcta": 1,
+"porque": "El periodo es $\\frac{2\\pi}{B}$, y aquí $B = 3$."
+},
+{
+"pregunta": "¿Cuánto vale $\\sin 0$?",
+"opciones": [
+"1",
+"$-1$",
+"0"
+],
+"correcta": 2,
+"porque": "El seno empieza en 0, y el coseno empieza en 1."
+},
+{
+"pregunta": "¿Cuál es el valor máximo de $y = 6\\cos x$?",
+"opciones": [
+"1",
+"3",
+"6"
+],
+"correcta": 2,
+"porque": "El coseno llega hasta 1, y multiplicado por 6 da 6."
+},
+{
+"pregunta": "¿Cuál función empieza en 1 cuando $x = 0$?",
+"opciones": [
+"El seno",
+"Ninguna",
+"El coseno"
+],
+"correcta": 2,
+"porque": "Seno empieza en 0 y coseno empieza en 1, en lo más alto."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"numeros-complejos-en-las-raices-prepa": [
+{
+"pregunta": "Calcula $\\sqrt{-49}$.",
+"opciones": [
+"$-7$, el negativo simple",
+"$49i$, sin sacar raíz",
+"$7i$, porque saca el $i$"
+],
+"correcta": 2,
+"porque": "Sacas la raíz de 49 y el menos se vuelve $i$."
+},
+{
+"pregunta": "Resuelve $x^2 + 16 = 0$.",
+"opciones": [
+"$x = \\pm 16i$",
+"$x = \\pm 4i$",
+"$x = \\pm 4$"
+],
+"correcta": 1,
+"porque": "Queda $x^2 = -16$, y la raíz es $4i$ con más y con menos."
+},
+{
+"pregunta": "¿Qué número es $i$?",
+"opciones": [
+"El cuadrado de 1",
+"La raíz de 1",
+"La raíz de $-1$"
+],
+"correcta": 2,
+"porque": "Se inventó $i$ para que $\\sqrt{-1}$ tenga respuesta."
+},
+{
+"pregunta": "Si el discriminante es negativo, ¿cómo son las raíces?",
+"opciones": [
+"Reales iguales",
+"Reales distintas",
+"Complejas"
+],
+"correcta": 2,
+"porque": "La raíz de un negativo da números con $i$."
+},
+{
+"pregunta": "Resuelve $x = \\frac{-2 \\pm \\sqrt{-36}}{2}$.",
+"opciones": [
+"$-1 \\pm 3i$",
+"$-1 \\pm 6i$",
+"$-2 \\pm 3i$"
+],
+"correcta": 0,
+"porque": "$\\sqrt{-36} = 6i$, y todo se divide entre 2."
+}
+],
+"plantear-ecuaciones-problemas-preparatoria": [
+{
+"pregunta": "Dos números consecutivos suman 41. ¿Cuáles son?",
+"opciones": [
+"19 y 22",
+"20 y 21",
+"21 y 22"
+],
+"correcta": 1,
+"porque": "Son $x$ y $x + 1$, y $2x + 1 = 41$ da $x = 20$."
+},
+{
+"pregunta": "El doble de un número más 5 es 17. ¿Cuál es el número?",
+"opciones": [
+"12, solo restó 5 y sumó",
+"11, solo restó 5",
+"6, tras restar y dividir"
+],
+"correcta": 2,
+"porque": "Escribes $2x + 5 = 17$, y $x = 6$."
+},
+{
+"pregunta": "Un rectángulo mide $x$ de ancho y $x + 2$ de largo, con área 24. ¿Cuál es la ecuación?",
+"opciones": [
+"$x(x + 2) = 24$",
+"$2x + 2 = 24$",
+"$x + (x + 2) = 24$"
+],
+"correcta": 0,
+"porque": "El área es ancho por largo."
+},
+{
+"pregunta": "Al resolver un ancho salen 5 y $-3$. ¿Cuál sirve?",
+"opciones": [
+"El $-3$, porque es el menor",
+"El 5, porque no hay medidas negativas",
+"Los dos sirven"
+],
+"correcta": 1,
+"porque": "Una medida no puede ser negativa."
+},
+{
+"pregunta": "Se compraron 6 boletos, $a$ de adulto y $n$ de niño. ¿Cuál ecuación dice el total?",
+"opciones": [
+"$a \\cdot n = 6$",
+"$a + n = 6$",
+"$a - n = 6$"
+],
+"correcta": 1,
+"porque": "Los boletos se juntan, así que se suman."
+}
+],
+"resolver-cuadraticas-completando-el-trinomio-prepa": [
+{
+"pregunta": "¿Qué número completa $x^2 + 8x$?",
+"opciones": [
+"8",
+"16",
+"64"
+],
+"correcta": 1,
+"porque": "La mitad de 8 es 4, y 4 al cuadrado es 16."
+},
+{
+"pregunta": "¿Qué número completa $x^2 - 10x$?",
+"opciones": [
+"5",
+"100",
+"25"
+],
+"correcta": 2,
+"porque": "La mitad de 10 es 5, y 5 al cuadrado es 25."
+},
+{
+"pregunta": "Resuelve $x^2 + 2x - 3 = 0$.",
+"opciones": [
+"$x = 2$ o $x = -2$",
+"$x = 1$ o $x = -3$",
+"$x = -1$ o $x = 3$"
+],
+"correcta": 1,
+"porque": "Sumas 1: $(x + 1)^2 = 4$, y $x + 1 = \\pm 2$."
+},
+{
+"pregunta": "Ya completaste y tienes $x^2 + 4x + 4$. ¿Cómo queda factorizado?",
+"opciones": [
+"$(x + 4)^2$",
+"$(x + 8)^2$",
+"$(x + 2)^2$"
+],
+"correcta": 2,
+"porque": "La raíz de 4 es 2, y 4 es el doble de 2."
+},
+{
+"pregunta": "Resuelve $x^2 - 6x + 5 = 0$.",
+"opciones": [
+"$x = 5$ o $x = 1$",
+"$x = 3$ o $x = 2$",
+"$x = -5$ o $x = -1$"
+],
+"correcta": 0,
+"porque": "Queda $(x - 3)^2 = 4$, y $x - 3 = \\pm 2$."
+}
+],
+"resolver-cuadraticas-con-formula-general-prepa": [
+{
+"pregunta": "En $2x^2 - 5x + 3 = 0$, ¿cuáles son $a$, $b$ y $c$?",
+"opciones": [
+"$a = 2$, $b = 5$, $c = 3$",
+"$a = 2$, $b = -5$, $c = -3$",
+"$a = 2$, $b = -5$, $c = 3$"
+],
+"correcta": 2,
+"porque": "Cada número se toma con su signo."
+},
+{
+"pregunta": "Resuelve $x^2 + 3x - 4 = 0$ con la fórmula general.",
+"opciones": [
+"$x = 1$ o $x = -4$",
+"$x = -1$ o $x = 4$",
+"$x = 4$ o $x = 1$"
+],
+"correcta": 0,
+"porque": "$\\sqrt{9 + 16} = 5$, y $\\frac{-3 \\pm 5}{2}$ da 1 y $-4$."
+},
+{
+"pregunta": "Resuelve $x^2 - x - 6 = 0$ con la fórmula general.",
+"opciones": [
+"$x = 6$ o $x = -1$",
+"$x = 3$ o $x = -2$",
+"$x = -3$ o $x = 2$"
+],
+"correcta": 1,
+"porque": "$\\sqrt{1 + 24} = 5$, y $\\frac{1 \\pm 5}{2}$ da 3 y $-2$."
+},
+{
+"pregunta": "Si $2x^2 = x + 3$, ¿cuánto vale $c$ al igualar a 0?",
+"opciones": [
+"0, no hay número",
+"$-3$, con su signo",
+"3, sin el signo"
+],
+"correcta": 1,
+"porque": "Queda $2x^2 - x - 3 = 0$."
+},
+{
+"pregunta": "¿Qué hace el signo $\\pm$ de la fórmula?",
+"opciones": [
+"Calcula una vez con más y otra con menos",
+"Quita las soluciones negativas",
+"Hace siempre la suma"
+],
+"correcta": 0,
+"porque": "Por eso salen dos soluciones."
+}
+],
+"resolver-cuadraticas-por-factorizacion-prepa": [
+{
+"pregunta": "Resuelve $x^2 + 3x - 10 = 0$.",
+"opciones": [
+"$x = -2$ o $x = 5$",
+"$x = 2$ o $x = -5$",
+"$x = 10$ o $x = -1$"
+],
+"correcta": 1,
+"porque": "Queda $(x + 5)(x - 2) = 0$."
+},
+{
+"pregunta": "Resuelve $x^2 = 5x$.",
+"opciones": [
+"Solo $x = 5$",
+"$x = 0$ o $x = -5$",
+"$x = 0$ o $x = 5$"
+],
+"correcta": 2,
+"porque": "Sacas $x(x - 5) = 0$, y no divides entre $x$."
+},
+{
+"pregunta": "Resuelve $2x^2 + 7x + 3 = 0$.",
+"opciones": [
+"$x = -2$ o $x = -3$",
+"$x = -\\frac{1}{2}$ o $x = -3$",
+"$x = \\frac{1}{2}$ o $x = 3$"
+],
+"correcta": 1,
+"porque": "Queda $(2x + 1)(x + 3) = 0$."
+},
+{
+"pregunta": "Si $(x - 4)(x + 9) = 0$, ¿qué haces?",
+"opciones": [
+"Igualas cada factor a 0",
+"Multiplicas por 4",
+"Sumas los dos factores"
+],
+"correcta": 0,
+"porque": "Si un producto da cero, uno de los factores es cero."
+},
+{
+"pregunta": "Resuelve $x^2 - 2x - 15 = 0$.",
+"opciones": [
+"$x = -5$ o $x = 3$",
+"$x = 5$ o $x = -3$",
+"$x = 15$ o $x = -1$"
+],
+"correcta": 1,
+"porque": "Queda $(x - 5)(x + 3) = 0$."
+}
+],
+"sistemas-3x3-con-determinantes-prepa": [
+{
+"pregunta": "Calcula $\\begin{vmatrix} 1 & 0 & 0 \\\\ 0 & 5 & 0 \\\\ 0 & 0 & 2 \\end{vmatrix}$.",
+"opciones": [
+"8, sumando mal",
+"7, sumando todo",
+"10, la diagonal"
+],
+"correcta": 2,
+"porque": "Con ceros fuera de la diagonal, multiplicas $1 \\cdot 5 \\cdot 2$."
+},
+{
+"pregunta": "Resuelve $x + y + z = 7$, $y + z = 4$ y $z = 1$. ¿Cuánto vale $x$?",
+"opciones": [
+"4",
+"3",
+"1"
+],
+"correcta": 1,
+"porque": "Con $z = 1$ sale $y = 3$, y luego $x = 7 - 3 - 1 = 3$."
+},
+{
+"pregunta": "En la regla de Sarrus, ¿cuántas diagonales se suman?",
+"opciones": [
+"Tres",
+"Dos",
+"Seis"
+],
+"correcta": 0,
+"porque": "Tres diagonales suman y tres restan."
+},
+{
+"pregunta": "Para $D_z$, ¿qué columna se reemplaza?",
+"opciones": [
+"La de $z$ por los resultados",
+"La de $x$ por los resultados",
+"La de $y$ por los resultados"
+],
+"correcta": 0,
+"porque": "Cambias la columna de la letra que buscas."
+},
+{
+"pregunta": "Calcula $\\begin{vmatrix} 2 & 0 & 0 \\\\ 0 & 3 & 0 \\\\ 0 & 0 & 3 \\end{vmatrix}$.",
+"opciones": [
+"18, la diagonal",
+"6, sin el último",
+"8, sumando mal"
+],
+"correcta": 0,
+"porque": "Multiplicas la diagonal: $2 \\cdot 3 \\cdot 3 = 18$."
+}
+],
+"sistemas-ecuaciones-lineales-preparatoria": [
+{
+"pregunta": "Resuelve $x + y = 9$ y $x - y = 3$.",
+"opciones": [
+"$x = 3$, $y = 6$",
+"$x = 5$, $y = 4$",
+"$x = 6$, $y = 3$"
+],
+"correcta": 2,
+"porque": "Sumas: $2x = 12$, y $y = 9 - 6 = 3$."
+},
+{
+"pregunta": "Resuelve por sustitución $y = 4x$ y $x + y = 10$.",
+"opciones": [
+"$x = 5$, $y = 5$",
+"$x = 8$, $y = 2$",
+"$x = 2$, $y = 8$"
+],
+"correcta": 2,
+"porque": "Queda $5x = 10$, así que $x = 2$ y $y = 8$."
+},
+{
+"pregunta": "En el método gráfico, ¿dónde se cruzan las rectas?",
+"opciones": [
+"En la solución del sistema",
+"En el origen siempre",
+"En el número mayor"
+],
+"correcta": 0,
+"porque": "El punto de cruce sirve en las dos ecuaciones."
+},
+{
+"pregunta": "Resuelve $2x + y = 10$ y $x + y = 6$.",
+"opciones": [
+"$x = 4$, $y = 2$",
+"$x = 2$, $y = 4$",
+"$x = 3$, $y = 3$"
+],
+"correcta": 0,
+"porque": "Restas y queda $x = 4$, y luego $y = 2$."
+},
+{
+"pregunta": "¿Cómo compruebas una solución de un sistema?",
+"opciones": [
+"Sumando las dos ecuaciones",
+"Sustituyéndola en una sola",
+"Sustituyéndola en las dos ecuaciones"
+],
+"correcta": 2,
+"porque": "Debe cumplir ambas al mismo tiempo."
+}
+],
+"sistemas-por-igualacion-prepa": [
+{
+"pregunta": "Resuelve $y = x + 2$ y $y = 2x - 1$.",
+"opciones": [
+"$x = 2$",
+"$x = 1$",
+"$x = 3$"
+],
+"correcta": 2,
+"porque": "Igualas $x + 2 = 2x - 1$, y queda $x = 3$."
+},
+{
+"pregunta": "Resuelve $y = 5 - x$ y $y = x + 1$.",
+"opciones": [
+"$x = 2$, $y = 3$",
+"$x = 4$, $y = 1$",
+"$x = 3$, $y = 2$"
+],
+"correcta": 0,
+"porque": "Igualas $5 - x = x + 1$, y $x = 2$."
+},
+{
+"pregunta": "Plan A cuesta $10 + 4m$ y plan B cuesta $22 + m$. ¿Con cuántos mensajes cuestan igual?",
+"opciones": [
+"12 mensajes",
+"4 mensajes",
+"3 mensajes"
+],
+"correcta": 1,
+"porque": "Igualas: $3m = 12$, y $m = 4$."
+},
+{
+"pregunta": "¿Cuál es el primer paso de igualación?",
+"opciones": [
+"Despejar la misma letra en las dos ecuaciones",
+"Multiplicar por cero",
+"Sumar las dos ecuaciones"
+],
+"correcta": 0,
+"porque": "Primero la misma letra debe quedar sola."
+},
+{
+"pregunta": "Resuelve $3x + y = 11$ y $x + y = 5$ por igualación.",
+"opciones": [
+"$x = 2$, $y = 3$",
+"$x = 3$, $y = 2$",
+"$x = 6$, $y = -7$"
+],
+"correcta": 1,
+"porque": "Igualas $11 - 3x = 5 - x$, y $x = 3$."
+}
+],
+"sistemas-por-suma-y-resta-prepa": [
+{
+"pregunta": "Resuelve $x + y = 14$ y $x - y = 6$.",
+"opciones": [
+"$x = 10$, $y = 4$",
+"$x = 4$, $y = 10$",
+"$x = 8$, $y = 6$"
+],
+"correcta": 0,
+"porque": "Sumas: $2x = 20$, y $y = 14 - 10 = 4$."
+},
+{
+"pregunta": "Resuelve $2x + 3y = 13$ y $2x - 3y = -5$.",
+"opciones": [
+"$x = 4$, $y = 1$",
+"$x = 3$, $y = 2$",
+"$x = 2$, $y = 3$"
+],
+"correcta": 2,
+"porque": "Sumas: $4x = 8$, y $y = 3$."
+},
+{
+"pregunta": "Con $x + 2y = 7$ y $3x - 2y = 5$, ¿qué queda al sumar?",
+"opciones": [
+"$4x = 2$",
+"$4x = 12$",
+"$2x = 12$"
+],
+"correcta": 1,
+"porque": "Las $y$ se cancelan y queda $4x = 12$."
+},
+{
+"pregunta": "Al resolver queda $0 = 0$. ¿Qué significa?",
+"opciones": [
+"Hay una sola solución",
+"Hay infinitas soluciones",
+"No hay solución"
+],
+"correcta": 1,
+"porque": "Son la misma recta."
+},
+{
+"pregunta": "Para cancelar $y$ en $2x + 3y = 5$ y $4x - y = 1$, ¿por cuánto multiplicas la segunda?",
+"opciones": [
+"Por 5",
+"Por 3",
+"Por 2"
+],
+"correcta": 1,
+"porque": "Así queda $-3y$, que cancela a $+3y$."
+}
+],
+"sistemas-por-sustitucion-prepa": [
+{
+"pregunta": "Resuelve $y = x + 3$ y $x + y = 11$.",
+"opciones": [
+"$x = 7$, $y = 4$",
+"$x = 3$, $y = 8$",
+"$x = 4$, $y = 7$"
+],
+"correcta": 2,
+"porque": "Queda $2x + 3 = 11$, y $x = 4$."
+},
+{
+"pregunta": "Resuelve $x = 2y$ y $x + y = 9$.",
+"opciones": [
+"$x = 3$, $y = 6$",
+"$x = 4$, $y = 5$",
+"$x = 6$, $y = 3$"
+],
+"correcta": 2,
+"porque": "Queda $3y = 9$, así que $y = 3$ y $x = 6$."
+},
+{
+"pregunta": "Resuelve $2x + y = 9$ y $y = x + 3$.",
+"opciones": [
+"$x = 2$, $y = 5$",
+"$x = 3$, $y = 6$",
+"$x = 5$, $y = 2$"
+],
+"correcta": 0,
+"porque": "Queda $3x + 3 = 9$, y $x = 2$."
+},
+{
+"pregunta": "En $3x + y = 10$ y $2x + 5y = 4$, ¿qué conviene despejar?",
+"opciones": [
+"La $y$ de la segunda",
+"La $x$ de la segunda",
+"La $y$ de la primera"
+],
+"correcta": 2,
+"porque": "La $y$ de la primera no tiene número adelante."
+},
+{
+"pregunta": "Luis tiene 2 más que Ana, y juntos tienen 12. ¿Cuántos tiene Ana?",
+"opciones": [
+"7",
+"6",
+"5"
+],
+"correcta": 2,
+"porque": "Escribes $x + (x + 2) = 12$, y $x = 5$."
+}
+]
+}

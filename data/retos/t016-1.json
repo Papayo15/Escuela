@@ -1,0 +1,522 @@
+{
+"traducir-frases-a-lenguaje-algebraico-secundaria": [
+{
+"pregunta": "¿Cómo se escribe «el doble de un número, más 8»?",
+"opciones": [
+"$x^2 + 8$",
+"$2(x + 8)$",
+"$2x + 8$"
+],
+"correcta": 2,
+"porque": "El doble solo multiplica al número, y el 8 se suma aparte."
+},
+{
+"pregunta": "¿Cómo se escribe «la mitad de un número»?",
+"opciones": [
+"$\\frac{x}{2}$",
+"$2x$",
+"$x + \\frac{1}{2}$"
+],
+"correcta": 0,
+"porque": "La mitad es dividir entre 2, por eso se escribe $\\frac{x}{2}$."
+},
+{
+"pregunta": "¿Cómo se escriben un número y su consecutivo?",
+"opciones": [
+"$x$ y $2x$",
+"$x$ y $x + 1$",
+"$x$ y $x + 2$, que saltan un número"
+],
+"correcta": 1,
+"porque": "El consecutivo es el que sigue, así que se le suma 1."
+},
+{
+"pregunta": "Tu edad es $e$. ¿Cómo escribes «el cuádruple de tu edad, más 1»?",
+"opciones": [
+"$e + 4 + 1$",
+"$4(e + 1)$",
+"$4e + 1$"
+],
+"correcta": 2,
+"porque": "El cuádruple es $4e$ y luego se suma 1, sin paréntesis."
+},
+{
+"pregunta": "¿Cómo se escribe «el cuadrado de un número aumentado en 3»?",
+"opciones": [
+"$(x + 3)^2$",
+"$2x + 3$",
+"$x^2 + 3$"
+],
+"correcta": 2,
+"porque": "Primero se eleva el número al cuadrado y a ese resultado se le suma 3."
+}
+],
+"valor-absoluto-secundaria": [
+{
+"pregunta": "¿Cuánto vale $|-9|$?",
+"opciones": [
+"$-9$",
+"0",
+"9"
+],
+"correcta": 2,
+"porque": "El valor absoluto es la distancia al cero, y una distancia no es negativa."
+},
+{
+"pregunta": "¿Cuál número tiene el mismo valor absoluto que 8?",
+"opciones": [
+"$-8$, también está a 8 del cero",
+"$-\\frac{1}{8}$, su inverso negativo",
+"$\\frac{1}{8}$, es su inverso"
+],
+"correcta": 0,
+"porque": "$-8$ y 8 están a la misma distancia del cero."
+},
+{
+"pregunta": "Calcula $|4 - 10|$.",
+"opciones": [
+"14, porque sumas 4 con 10",
+"$-6$, porque 4 menos 10 es $-6$",
+"6, porque $|-6|$ es igual a 6"
+],
+"correcta": 2,
+"porque": "Primero resuelves adentro y da $-6$; su valor absoluto es 6."
+},
+{
+"pregunta": "¿Cuánto vale $-|7|$?",
+"opciones": [
+"$-7$",
+"0",
+"7, porque las barras quitan todos los signos"
+],
+"correcta": 0,
+"porque": "Las barras solo afectan lo de adentro; el signo menos de afuera se queda."
+},
+{
+"pregunta": "Juan camina 6 pasos a la izquierda del cero y Ana 6 a la derecha. ¿Cuánto caminó cada uno?",
+"opciones": [
+"Los dos, 6 pasos",
+"Juan $-6$ pasos y Ana 6 pasos",
+"Entre los dos, 0 pasos"
+],
+"correcta": 0,
+"porque": "La distancia nunca es negativa, así que los dos caminaron 6."
+}
+],
+"valor-numerico-de-una-expresion-secundaria": [
+{
+"pregunta": "¿Cuánto vale $3x - 4$ con $x = 5$?",
+"opciones": [
+"3",
+"11",
+"31, porque juntas 3 y 5 como 35"
+],
+"correcta": 1,
+"porque": "Cambias $x$ por 5: $3(5) - 4 = 15 - 4 = 11$."
+},
+{
+"pregunta": "¿Cuánto vale $x^2 - 1$ con $x = -3$?",
+"opciones": [
+"$-10$, si el cuadrado queda negativo",
+"10, porque sumas el 9 con el 1",
+"8, porque $(-3)^2 = 9$ y $9 - 1 = 8$"
+],
+"correcta": 2,
+"porque": "El cuadrado de $-3$ es 9, y 9 menos 1 es 8."
+},
+{
+"pregunta": "Un triángulo tiene base 8 y altura 3. ¿Cuánto vale $A = \\frac{bh}{2}$?",
+"opciones": [
+"11",
+"24",
+"12"
+],
+"correcta": 2,
+"porque": "Multiplicas $8 \\times 3 = 24$ y lo divides entre 2."
+},
+{
+"pregunta": "Un salón tiene forma de cuadrado de lado 7 m. ¿Cuánto vale su perímetro $4l$?",
+"opciones": [
+"49 m",
+"11 m",
+"28 m"
+],
+"correcta": 2,
+"porque": "Cambias $l$ por 7 y multiplicas: $4 \\times 7 = 28$."
+},
+{
+"pregunta": "¿Cuánto vale $5 - 2a$ con $a = -3$?",
+"opciones": [
+"$-1$, si olvidas el signo de $a$",
+"1",
+"11"
+],
+"correcta": 2,
+"porque": "Con paréntesis: $5 - 2(-3) = 5 + 6 = 11$."
+}
+],
+"volumen-de-la-esfera-secundaria": [
+{
+"pregunta": "¿Cuál es la fórmula del volumen de la esfera?",
+"opciones": [
+"$\\frac{4}{3}\\pi r^3$",
+"$\\pi r^2 h$",
+"$\\frac{4}{3}\\pi r^2$ con el radio dos veces"
+],
+"correcta": 0,
+"porque": "Es cuatro tercios, por pi, por el radio tres veces."
+},
+{
+"pregunta": "Una pelota tiene radio 5 cm. Con 3.14, ¿cuál es su área $4\\pi r^2$?",
+"opciones": [
+"314 cm²",
+"78.5 cm²",
+"1256 cm², si usas el diámetro 10"
+],
+"correcta": 0,
+"porque": "$4 \\times 3.14 \\times 25 = 314$."
+},
+{
+"pregunta": "El radio de una esfera se hace 4 veces mayor. ¿Qué pasa con su volumen?",
+"opciones": [
+"Se hace 4 veces mayor",
+"Se hace 64 veces mayor",
+"Se hace 16 veces mayor, porque 4 por 4"
+],
+"correcta": 1,
+"porque": "El radio va al cubo: $4 \\times 4 \\times 4 = 64$."
+},
+{
+"pregunta": "¿Qué se multiplica tres veces en el volumen de la esfera?",
+"opciones": [
+"El número 4",
+"El tercio junto con el 4",
+"El radio"
+],
+"correcta": 2,
+"porque": "En $r^3$ el radio se multiplica por sí mismo tres veces."
+},
+{
+"pregunta": "El volumen de una pelota se mide en cm. ¿Qué unidad usas?",
+"opciones": [
+"cm",
+"cm², como la piel de la pelota",
+"cm³"
+],
+"correcta": 2,
+"porque": "El volumen es cuánto cabe adentro, y se mide en unidades cúbicas."
+}
+],
+"volumen-de-la-piramide-secundaria": [
+{
+"pregunta": "Una pirámide tiene base de 24 cm² y altura de 6 cm. ¿Cuál es su volumen?",
+"opciones": [
+"144 cm³",
+"48 cm³",
+"24 cm³"
+],
+"correcta": 1,
+"porque": "$\\frac{24 \\times 6}{3} = 48$."
+},
+{
+"pregunta": "Un prisma tiene 240 cm³. ¿Cuánto tiene una pirámide con la misma base y altura?",
+"opciones": [
+"80 cm³",
+"720 cm³",
+"120 cm³, la mitad del prisma"
+],
+"correcta": 0,
+"porque": "La pirámide es la tercera parte: $240 \\div 3 = 80$."
+},
+{
+"pregunta": "¿Cuántas pirámides llenas de arena llenan una caja con la misma base y altura?",
+"opciones": [
+"2, porque cada una es la mitad",
+"3",
+"2"
+],
+"correcta": 1,
+"porque": "Cada pirámide es la tercera parte de la caja."
+},
+{
+"pregunta": "Una pirámide tiene base cuadrada de 3 m y altura de 8 m. ¿Cuál es su volumen?",
+"opciones": [
+"24 m³",
+"8 m³",
+"72 m³"
+],
+"correcta": 0,
+"porque": "La base mide $3 \\times 3 = 9$, y $\\frac{9 \\times 8}{3} = 24$."
+},
+{
+"pregunta": "¿Qué altura se usa en la fórmula de la pirámide?",
+"opciones": [
+"La que baja derecho",
+"La que mide el borde de la base",
+"La orilla inclinada de la cara"
+],
+"correcta": 0,
+"porque": "La altura va derecho desde la punta hasta la base, no por la cara."
+}
+],
+"volumen-del-cilindro-secundaria": [
+{
+"pregunta": "Un cilindro tiene radio 2 cm y altura 7 cm. Con 3.14, ¿cuál es su volumen?",
+"opciones": [
+"87.92 cm³",
+"43.96 cm³",
+"175.84 cm³, si usas el diámetro como radio"
+],
+"correcta": 0,
+"porque": "$3.14 \\times 4 \\times 7 = 87.92$."
+},
+{
+"pregunta": "Una lata tiene diámetro de 8 cm. ¿Qué radio usas en la fórmula?",
+"opciones": [
+"8 cm",
+"16 cm, porque el radio es el doble",
+"4 cm"
+],
+"correcta": 2,
+"porque": "El radio es la mitad del diámetro."
+},
+{
+"pregunta": "Una jarra de 3000 cm³ está llena. ¿Cuántos litros son?",
+"opciones": [
+"3 L",
+"300 L",
+"30 L"
+],
+"correcta": 0,
+"porque": "1000 cm³ son 1 L, así que 3000 cm³ son 3 L."
+},
+{
+"pregunta": "En $V = \\pi r^2 h$, ¿qué es $\\pi r^2$?",
+"opciones": [
+"La altura",
+"El volumen de toda la pila de monedas",
+"El área de la base"
+],
+"correcta": 2,
+"porque": "Es el área de la moneda; luego se multiplica por la altura."
+},
+{
+"pregunta": "Un depósito tiene radio 1 m y altura 1 m. Con 3.14, ¿cuántos litros caben?",
+"opciones": [
+"3140 L",
+"3.14 L, porque no cambias de unidad",
+"314 L"
+],
+"correcta": 0,
+"porque": "$3.14 \\times 1 \\times 1 = 3.14$ m³, y 1 m³ son 1000 L."
+}
+],
+"volumen-del-cono-secundaria": [
+{
+"pregunta": "Un cono tiene radio 2 cm y altura 9 cm. Con 3.14, ¿cuál es su volumen?",
+"opciones": [
+"37.68 cm³",
+"12.56 cm³",
+"113.04 cm³"
+],
+"correcta": 0,
+"porque": "$\\frac{3.14 \\times 4 \\times 9}{3} = 37.68$."
+},
+{
+"pregunta": "Un cilindro tiene 60 cm³. ¿Cuánto tiene un cono con la misma base y altura?",
+"opciones": [
+"180 cm³",
+"20 cm³",
+"30 cm³"
+],
+"correcta": 1,
+"porque": "El cono es la tercera parte del cilindro: $60 \\div 3 = 20$."
+},
+{
+"pregunta": "Un cono tiene radio 5 y generatriz 13. ¿Cuánto mide su altura?",
+"opciones": [
+"12",
+"18, porque sumas el radio y la generatriz",
+"8"
+],
+"correcta": 0,
+"porque": "$h^2 = 13^2 - 5^2 = 144$, y la raíz de 144 es 12."
+},
+{
+"pregunta": "¿Qué es la generatriz de un cono?",
+"opciones": [
+"El radio de la base",
+"La altura que baja desde la punta hasta el centro",
+"La orilla inclinada"
+],
+"correcta": 2,
+"porque": "Es la línea inclinada de la punta a la orilla; no es la altura."
+},
+{
+"pregunta": "¿Cuántos conos de helado llenan un vaso igual de ancho y alto?",
+"opciones": [
+"2, porque el cono es la mitad",
+"3",
+"2"
+],
+"correcta": 1,
+"porque": "El cono tiene la tercera parte del volumen del cilindro."
+}
+],
+"acentuacion-de-interrogativos-secundaria": [
+{
+"pregunta": "Elige: «No sé ___ se llama» (quién/quien).",
+"opciones": [
+"quien",
+"quien, porque no hay signos de pregunta",
+"quién"
+],
+"correcta": 2,
+"porque": "Hay una pregunta escondida: ¿quién se llama?"
+},
+{
+"pregunta": "Elige: «Llámame ___ llegues» (cuando/cuándo).",
+"opciones": [
+"cuando",
+"cuándo, porque lleva tilde siempre",
+"cuándo"
+],
+"correcta": 0,
+"porque": "Aquí solo une ideas y no pregunta, así que va sin tilde."
+},
+{
+"pregunta": "¿Cuál oración tiene bien la tilde?",
+"opciones": [
+"Es el libro qué compré",
+"¡Qué susto!",
+"Dijo qué iba"
+],
+"correcta": 1,
+"porque": "En una exclamación, qué lleva tilde."
+},
+{
+"pregunta": "«Quiero saber cuánto cuesta». ¿Por qué lleva tilde cuánto?",
+"opciones": [
+"Hay una pregunta escondida",
+"Porque va después del verbo",
+"Porque es la última palabra"
+],
+"correcta": 0,
+"porque": "Se puede preguntar: ¿cuánto cuesta?"
+},
+{
+"pregunta": "Elige: «La niña ___ canta es mi prima» (que/qué).",
+"opciones": [
+"qué, porque parece una pregunta",
+"qué",
+"que"
+],
+"correcta": 2,
+"porque": "Aquí solo une ideas: no puedes preguntar «¿qué canta?»."
+}
+],
+"articulo-de-opinion-secundaria": [
+{
+"pregunta": "¿Qué es la tesis de un artículo de opinión?",
+"opciones": [
+"La idea que defiende el autor",
+"Un dato de un libro",
+"El último párrafo donde se despide el autor"
+],
+"correcta": 0,
+"porque": "La tesis es lo que piensa el autor y quiere que otros entiendan."
+},
+{
+"pregunta": "Tesis: «Debe haber más bancas en el patio». ¿Cuál es una buena razón?",
+"opciones": [
+"Me caen bien las bancas del parque de mi tío",
+"Porque yo lo digo y ya",
+"Muchos niños se cansan"
+],
+"correcta": 2,
+"porque": "Una razón explica por qué la idea es buena."
+},
+{
+"pregunta": "¿Qué va en la introducción?",
+"opciones": [
+"Las razones con todos los datos y ejemplos",
+"Solo los datos",
+"El tema y la tesis"
+],
+"correcta": 2,
+"porque": "La introducción presenta de qué se habla y qué piensas."
+},
+{
+"pregunta": "¿Cuál es una buena frase de cierre?",
+"opciones": [
+"Por eso conviene poner más bancas",
+"Hoy hablaré de las bancas del patio",
+"Las bancas son de madera"
+],
+"correcta": 0,
+"porque": "El cierre repite la idea con fuerza y da una conclusión."
+},
+{
+"pregunta": "¿Qué pasa si das una opinión sin razones?",
+"opciones": [
+"No convence",
+"Convence más porque suena más fuerte",
+"Convence más"
+],
+"correcta": 0,
+"porque": "Sin razones, nadie sabe por qué debería creerte."
+}
+],
+"citas-y-referencias-secundaria": [
+{
+"pregunta": "¿Cuál es una cita indirecta?",
+"opciones": [
+"Según Pérez (2019), leer ayuda a pensar",
+"«Leer ayuda a pensar y a ser libre», dijo Pérez (2019)",
+"Leer ayuda a pensar, y ya"
+],
+"correcta": 0,
+"porque": "La cita indirecta usa tus palabras y dice de quién es la idea."
+},
+{
+"pregunta": "Copias exacto una frase de un libro. ¿Qué haces?",
+"opciones": [
+"La pones entre comillas",
+"Cambias algunas palabras y no dices de quién",
+"La escribes sin comillas para que se vea tuya"
+],
+"correcta": 0,
+"porque": "Lo copiado exacto va entre comillas y con el autor."
+},
+{
+"pregunta": "¿Para qué sirve la referencia?",
+"opciones": [
+"Para escribir las ideas con tus palabras",
+"Para hallar la fuente",
+"Para hacer más larga la tarea y que se vea bonita"
+],
+"correcta": 1,
+"porque": "La referencia da los datos para que otros encuentren el libro."
+},
+{
+"pregunta": "¿Cuál dato aparece en la referencia de un libro?",
+"opciones": [
+"El autor y el título",
+"La hora en que lo leíste",
+"El nombre de tu maestro que revisa la tarea"
+],
+"correcta": 0,
+"porque": "La referencia lleva autor, año, título y editorial."
+},
+{
+"pregunta": "Una alumna copia un párrafo de internet y no dice de quién es. ¿Cómo se llama eso?",
+"opciones": [
+"Plagio, copiar sin avisar",
+"Una cita indirecta",
+"Una referencia completa"
+],
+"correcta": 0,
+"porque": "Usar ideas ajenas sin decirlo es plagio."
+}
+]
+}

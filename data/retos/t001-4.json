@@ -1,0 +1,522 @@
+{
+"area-del-triangulo-primaria": [
+{
+"pregunta": "Un triángulo tiene base de 6 cm y altura de 4 cm. ¿Cuál es su área?",
+"opciones": [
+"10 cm²",
+"24 cm²",
+"12 cm²"
+],
+"correcta": 2,
+"porque": "Base por altura entre dos: 6 × 4 = 24 y 24 ÷ 2 = 12."
+},
+{
+"pregunta": "Un triángulo tiene base de 14 m y altura de 5 m. ¿Cuál es su área?",
+"opciones": [
+"35 m²",
+"19 m²",
+"70 m²"
+],
+"correcta": 0,
+"porque": "14 × 5 = 70 y la mitad es 35."
+},
+{
+"pregunta": "Un triángulo tiene área de 24 cm² y base de 8 cm. ¿Cuánto mide su altura?",
+"opciones": [
+"6 cm",
+"3 cm",
+"16 cm"
+],
+"correcta": 0,
+"porque": "Altura es dos veces el área entre la base: 48 ÷ 8 = 6."
+},
+{
+"pregunta": "Cortas por la diagonal un rectángulo de papel de 8 cm por 6 cm. ¿Cuál es el área de cada triángulo?",
+"opciones": [
+"24 cm²",
+"14 cm²",
+"48 cm²"
+],
+"correcta": 0,
+"porque": "El rectángulo tiene 48 cm² y cada triángulo es la mitad."
+},
+{
+"pregunta": "¿Qué es la altura de un triángulo?",
+"opciones": [
+"El lado inclinado",
+"La distancia derecha de la base a la punta",
+"La suma de los tres lados"
+],
+"correcta": 1,
+"porque": "La altura baja recta, no es un lado inclinado."
+}
+],
+"calcular-cuanto-duro-algo-primaria": [
+{
+"pregunta": "Una clase empieza a la 1:15 y termina a las 2:45. ¿Cuánto dura?",
+"opciones": [
+"1 h 15 min",
+"1 h 30 min",
+"2 h 30 min"
+],
+"correcta": 1,
+"porque": "De 1:15 a 2:15 es 1 h y de 2:15 a 2:45 son 30 min."
+},
+{
+"pregunta": "Un juego empieza a las 3:20 y dura 50 minutos. ¿A qué hora termina?",
+"opciones": [
+"4:10",
+"3:70",
+"4:30"
+],
+"correcta": 0,
+"porque": "3:20 + 40 min = 4:00 y faltan 10 min, queda 4:10."
+},
+{
+"pregunta": "Un recreo va de 10:30 a 11:10. ¿Cuánto dura?",
+"opciones": [
+"40 min",
+"1 h 40 min",
+"30 min"
+],
+"correcta": 0,
+"porque": "De 10:30 a 11:00 son 30 min y 10 más, 40 min."
+},
+{
+"pregunta": "Lees 40 minutos y luego 35 minutos más. ¿Cuánto tiempo leíste?",
+"opciones": [
+"1 h 15 min",
+"1 h 5 min",
+"75 h"
+],
+"correcta": 0,
+"porque": "40 + 35 = 75 min, y 60 min son 1 hora, quedan 15 min."
+},
+{
+"pregunta": "¿Qué conviene hacer primero al calcular una duración?",
+"opciones": [
+"Sumar las dos horas",
+"Restar las horas sin pensar",
+"Saltar a la hora en punto"
+],
+"correcta": 2,
+"porque": "Saltar a la hora en punto hace más fácil contar el resto."
+}
+],
+"comparar-fracciones-sencillas-primaria": [
+{
+"pregunta": "¿Cuál es mayor: $\\frac{2}{3}$ o $\\frac{1}{3}$?",
+"opciones": [
+"Son iguales",
+"$\\frac{2}{3}$",
+"$\\frac{1}{3}$"
+],
+"correcta": 1,
+"porque": "Con el mismo denominador es mayor la que tiene más rebanadas."
+},
+{
+"pregunta": "¿Cuál es mayor: $\\frac{1}{8}$ o $\\frac{1}{5}$?",
+"opciones": [
+"$\\frac{1}{8}$",
+"$\\frac{1}{5}$",
+"Son iguales"
+],
+"correcta": 1,
+"porque": "Con el mismo numerador, si cortas en menos partes, cada parte es más grande."
+},
+{
+"pregunta": "Pon el signo: $\\frac{5}{6}$ ___ $\\frac{1}{6}$",
+"opciones": [
+"$<$",
+"$=$",
+"$>$"
+],
+"correcta": 2,
+"porque": "Cinco sextos son más que un sexto."
+},
+{
+"pregunta": "Dos niños comparten barras iguales: Ana comió $\\frac{3}{5}$ y Beto $\\frac{4}{5}$. ¿Quién comió más?",
+"opciones": [
+"Beto",
+"Comieron igual",
+"Ana"
+],
+"correcta": 0,
+"porque": "Con el mismo denominador, 4 rebanadas son más que 3."
+},
+{
+"pregunta": "¿Por qué $\\frac{1}{4}$ es mayor que $\\frac{1}{10}$?",
+"opciones": [
+"Porque 4 es menor que 10 y vale menos",
+"Porque 10 es mayor",
+"Porque 4 partes son más grandes que 10 partes"
+],
+"correcta": 2,
+"porque": "Entre más cortes, cada trozo es más chico."
+}
+],
+"comprobar-una-division-primaria": [
+{
+"pregunta": "Si $85 \\div 4 = 21$, residuo 1, ¿qué operación lo comprueba?",
+"opciones": [
+"$21 \\times 4 + 1 = 85$",
+"$85 \\times 4 = 340$",
+"$21 + 4 + 1 = 26$"
+],
+"correcta": 0,
+"porque": "Cociente por divisor más residuo debe dar el dividendo: 84 + 1 = 85."
+},
+{
+"pregunta": "¿Está bien $72 \\div 8 = 9$?",
+"opciones": [
+"Sí, porque $9 \\times 8 = 72$",
+"No, porque $9 \\times 8 = 81$",
+"No, porque $9 \\times 8 = 17$"
+],
+"correcta": 0,
+"porque": "9 × 8 da 72, igual al dividendo."
+},
+{
+"pregunta": "Alguien dice que $60 \\div 7 = 7$, residuo 11. ¿Qué error tiene?",
+"opciones": [
+"El residuo es mayor que el divisor",
+"No tiene ningún error",
+"El cociente es muy chico"
+],
+"correcta": 0,
+"porque": "El residuo siempre debe ser menor que el divisor."
+},
+{
+"pregunta": "Repartes 59 hojas entre 6 niños y a cada uno le tocan 9, sobran 5. ¿Cuál comprobación sirve?",
+"opciones": [
+"$59 + 9 = 68$",
+"$9 \\times 5 + 6 = 51$",
+"$9 \\times 6 + 5 = 59$"
+],
+"correcta": 2,
+"porque": "54 hojas repartidas más 5 que sobran son 59."
+},
+{
+"pregunta": "¿Cuál es la fórmula para comprobar una división?",
+"opciones": [
+"Residuo menos cociente es el divisor",
+"Dividendo más divisor es el cociente",
+"Cociente por divisor más residuo es el dividendo"
+],
+"correcta": 2,
+"porque": "Con esta cuenta vuelves al número del que partiste."
+}
+],
+"conversiones-longitud-masa-capacidad": [
+{
+"pregunta": "¿Cuántos metros son 3.5 km?",
+"opciones": [
+"350 m",
+"35 m",
+"3 500 m"
+],
+"correcta": 2,
+"porque": "De unidad grande a chica se multiplica: 3.5 × 1 000 = 3 500."
+},
+{
+"pregunta": "¿Cuántos kilogramos son 6 000 g?",
+"opciones": [
+"60 kg",
+"6 kg",
+"600 kg"
+],
+"correcta": 1,
+"porque": "De gramos a kilos se divide entre 1 000."
+},
+{
+"pregunta": "Una botella tiene 5 L. ¿Cuántos mililitros son?",
+"opciones": [
+"500 mL",
+"50 mL",
+"5 000 mL"
+],
+"correcta": 2,
+"porque": "1 L son 1 000 mL, entonces 5 × 1 000 = 5 000."
+},
+{
+"pregunta": "Tu mesa mide 150 cm. ¿Cuántos metros son?",
+"opciones": [
+"1.5 m",
+"15 m",
+"150 m"
+],
+"correcta": 0,
+"porque": "De chica a grande se divide entre 100: 150 ÷ 100 = 1.5."
+},
+{
+"pregunta": "Si cambias de metros a centímetros, ¿el número sale...?",
+"opciones": [
+"Más chico",
+"Más grande",
+"Igual"
+],
+"correcta": 1,
+"porque": "Con una unidad más chica necesitas más piezas."
+}
+],
+"convertir-kilogramos-y-gramos-primaria": [
+{
+"pregunta": "¿Cuántos gramos son 4.5 kg?",
+"opciones": [
+"450 g",
+"45 g",
+"4 500 g"
+],
+"correcta": 2,
+"porque": "De kilos a gramos se multiplica por 1 000."
+},
+{
+"pregunta": "Convierte 2 500 g a kilogramos.",
+"opciones": [
+"250 kg",
+"25 kg",
+"2.5 kg"
+],
+"correcta": 2,
+"porque": "De gramos a kilos se divide entre 1 000."
+},
+{
+"pregunta": "Un camión carga 6 t. ¿Cuántos kilogramos son?",
+"opciones": [
+"6 000 kg",
+"60 kg",
+"600 kg"
+],
+"correcta": 0,
+"porque": "1 tonelada son 1 000 kg."
+},
+{
+"pregunta": "Compras 300 g de arroz y 700 g de frijol. ¿Cuántos kilogramos son en total?",
+"opciones": [
+"1 kg",
+"10 kg",
+"0.1 kg"
+],
+"correcta": 0,
+"porque": "300 + 700 = 1 000 g y 1 000 g son 1 kg."
+},
+{
+"pregunta": "¿Qué significa la palabra kilo?",
+"opciones": [
+"Mil",
+"Cien",
+"Diez"
+],
+"correcta": 0,
+"porque": "Kilogramo son mil gramos."
+}
+],
+"convertir-litros-y-mililitros-primaria": [
+{
+"pregunta": "¿Cuántos mililitros son 4 L?",
+"opciones": [
+"400 mL",
+"40 mL",
+"4 000 mL"
+],
+"correcta": 2,
+"porque": "1 L son 1 000 mL, y 4 × 1 000 = 4 000."
+},
+{
+"pregunta": "Convierte 3 000 mL a litros.",
+"opciones": [
+"300 L",
+"30 L",
+"3 L"
+],
+"correcta": 2,
+"porque": "De mililitros a litros se divide entre 1 000."
+},
+{
+"pregunta": "Convierte 0.75 L a mililitros.",
+"opciones": [
+"75 mL",
+"7 500 mL",
+"750 mL"
+],
+"correcta": 2,
+"porque": "0.75 × 1 000 = 750."
+},
+{
+"pregunta": "Una jarra de 3 L se sirve en vasos de 250 mL. ¿Cuántos vasos salen?",
+"opciones": [
+"12",
+"15",
+"8"
+],
+"correcta": 0,
+"porque": "3 L son 3 000 mL y 3 000 ÷ 250 = 12."
+},
+{
+"pregunta": "¿Cuántos mililitros hacen 1 L?",
+"opciones": [
+"1 000",
+"10",
+"100"
+],
+"correcta": 0,
+"porque": "Mili quiere decir milésima: mil mL hacen un litro."
+}
+],
+"convertir-metros-centimetros-y-kilometros-primaria": [
+{
+"pregunta": "¿Cuántos metros son 4.5 km?",
+"opciones": [
+"450 m",
+"45 m",
+"4 500 m"
+],
+"correcta": 2,
+"porque": "De grande a chica se multiplica: 4.5 × 1 000 = 4 500."
+},
+{
+"pregunta": "Convierte 600 cm a metros.",
+"opciones": [
+"600 m",
+"6 m",
+"60 m"
+],
+"correcta": 1,
+"porque": "De centímetros a metros se divide entre 100."
+},
+{
+"pregunta": "Una goma mide 8 cm. ¿Cuántos milímetros son?",
+"opciones": [
+"80 mm",
+"800 mm",
+"8 mm"
+],
+"correcta": 0,
+"porque": "1 cm son 10 mm y 8 × 10 = 80."
+},
+{
+"pregunta": "Una caminata de 2 000 m llega a la escuela. ¿Cuántos kilómetros son?",
+"opciones": [
+"200 km",
+"2 km",
+"20 km"
+],
+"correcta": 1,
+"porque": "De metros a kilómetros se divide entre 1 000."
+},
+{
+"pregunta": "Una niña mide 120 cm. ¿Cuántos metros son?",
+"opciones": [
+"1.2 m",
+"0.12 m",
+"12 m"
+],
+"correcta": 0,
+"porque": "120 ÷ 100 = 1.2."
+}
+],
+"dividir-entre-10-100-y-1000-primaria": [
+{
+"pregunta": "Calcula 6 400 ÷ 100.",
+"opciones": [
+"64",
+"640",
+"6.4"
+],
+"correcta": 0,
+"porque": "Quitas dos ceros: 6 400 ÷ 100 = 64."
+},
+{
+"pregunta": "Calcula 5 000 ÷ 10.",
+"opciones": [
+"5",
+"500",
+"50"
+],
+"correcta": 1,
+"porque": "Quitas un cero."
+},
+{
+"pregunta": "Calcula 38 ÷ 10.",
+"opciones": [
+"38",
+"3.8",
+"0.38"
+],
+"correcta": 1,
+"porque": "El punto se mueve un lugar a la izquierda: 3.8."
+},
+{
+"pregunta": "Calcula 900 ÷ 30.",
+"opciones": [
+"3",
+"300",
+"30"
+],
+"correcta": 2,
+"porque": "Quitas un cero a cada número: 90 ÷ 3 = 30."
+},
+{
+"pregunta": "Quieres cambiar 700 centavos a pesos, que es dividir entre 100. ¿Cuántos pesos son?",
+"opciones": [
+"70 pesos",
+"0.7 pesos",
+"7 pesos"
+],
+"correcta": 2,
+"porque": "700 ÷ 100 = 7."
+}
+],
+"division-con-residuo-primaria": [
+{
+"pregunta": "Resuelve 23 ÷ 5.",
+"opciones": [
+"4, residuo 5",
+"3, residuo 8",
+"4, residuo 3"
+],
+"correcta": 2,
+"porque": "5 × 4 = 20 y sobran 3."
+},
+{
+"pregunta": "Resuelve 41 ÷ 6.",
+"opciones": [
+"6, residuo 5",
+"7, residuo 1",
+"5, residuo 11"
+],
+"correcta": 0,
+"porque": "6 × 6 = 36 y sobran 5, que es menor que 6."
+},
+{
+"pregunta": "Repartes 30 lápices entre 4 compañeros. ¿Cuántos le tocan a cada uno y cuántos sobran?",
+"opciones": [
+"7 y sobran 2",
+"6 y sobran 6",
+"8 y sobran 2"
+],
+"correcta": 0,
+"porque": "4 × 7 = 28 y sobran 2."
+},
+{
+"pregunta": "Si divides entre 6, ¿cuál residuo es posible?",
+"opciones": [
+"8",
+"6",
+"4"
+],
+"correcta": 2,
+"porque": "El residuo siempre es menor que el divisor."
+},
+{
+"pregunta": "¿Cómo comprobar $17 \\div 5 = 3$, residuo 2?",
+"opciones": [
+"$3 \\times 5 + 2 = 17$",
+"$3 + 5 + 2 = 10$",
+"$17 \\times 3 = 51$"
+],
+"correcta": 0,
+"porque": "Cociente por divisor más residuo debe dar el dividendo."
+}
+]
+}

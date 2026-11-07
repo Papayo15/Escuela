@@ -1,0 +1,522 @@
+{
+"guerra-fria-secundaria": [
+{
+"pregunta": "¿Qué tipo de guerra fue la Guerra Fría?",
+"opciones": [
+"Una guerra de nieve",
+"Una rivalidad sin pelea directa",
+"Una pelea de vecinos"
+],
+"correcta": 1,
+"porque": "Estados Unidos y la URSS se amenazaron, pero no pelearon de frente."
+},
+{
+"pregunta": "¿Qué alianza militar formó el bloque capitalista?",
+"opciones": [
+"La Liga de Naciones, de 1920",
+"La OTAN, de países capitalistas",
+"El Pacto de Varsovia, de la URSS"
+],
+"correcta": 1,
+"porque": "El bloque capitalista formó la OTAN."
+},
+{
+"pregunta": "¿Qué pasó en 1962 en Cuba?",
+"opciones": [
+"La crisis de los misiles",
+"La toma de la Bastilla",
+"El Grito de Dolores"
+],
+"correcta": 0,
+"porque": "Los misiles soviéticos casi provocan una guerra nuclear."
+},
+{
+"pregunta": "¿Qué fue la carrera espacial?",
+"opciones": [
+"Un juego de la escuela",
+"Una carrera de autos",
+"Competir por llegar primero al espacio"
+],
+"correcta": 2,
+"porque": "Las dos potencias querían demostrar quién tenía mejor tecnología."
+},
+{
+"pregunta": "Si en tu salón hay dos equipos que compiten sin pelear, ¿a qué se parece?",
+"opciones": [
+"A la Guerra Fría",
+"A la Primera Guerra",
+"A la Revolución francesa"
+],
+"correcta": 0,
+"porque": "Los dos bloques competían con amenazas y no con choque directo."
+}
+],
+"holocausto-secundaria": [
+{
+"pregunta": "¿Qué fue el Holocausto?",
+"opciones": [
+"Una guerra entre dos pueblos de Europa",
+"Un festival de música de toda Europa",
+"Un asesinato masivo de judíos por los nazis"
+],
+"correcta": 2,
+"porque": "Fue el asesinato sistemático de unos seis millones de judíos."
+},
+{
+"pregunta": "¿Qué nos enseña recordar el Holocausto?",
+"opciones": [
+"Que hay que obedecer a cualquiera",
+"Que la guerra es un juego",
+"Rechazar el odio y el racismo"
+],
+"correcta": 2,
+"porque": "Se recuerda para que nunca se repita."
+},
+{
+"pregunta": "¿Cuál era un campo de exterminio?",
+"opciones": [
+"Saigón",
+"Auschwitz",
+"Stalingrado"
+],
+"correcta": 1,
+"porque": "Auschwitz fue uno de los lugares donde asesinaron a millones de personas."
+},
+{
+"pregunta": "¿Qué cuenta el diario de Ana Frank?",
+"opciones": [
+"Un viaje de vacaciones",
+"Una receta de cocina",
+"La vida escondida de una niña"
+],
+"correcta": 2,
+"porque": "Ana Frank se ocultó con su familia para escapar de la persecución."
+},
+{
+"pregunta": "Si un compañero ve burlas por su religión, ¿qué enseña el Holocausto?",
+"opciones": [
+"Callarse siempre",
+"Defender el respeto y detener el odio",
+"Unirse a las burlas"
+],
+"correcta": 1,
+"porque": "El odio crece cuando nadie lo detiene, por eso hay que respetar a todos."
+}
+],
+"ideas-infancias-juventudes-historia-secundaria": [
+{
+"pregunta": "¿Qué documento de 1989 reconoce los derechos de niñas y niños?",
+"opciones": [
+"La Declaración de 1776",
+"El Tratado de Versalles",
+"La Convención sobre los Derechos del Niño"
+],
+"correcta": 2,
+"porque": "La ONU aprobó la Convención para proteger a la niñez."
+},
+{
+"pregunta": "¿Cómo era la vida de muchos niños hace siglos?",
+"opciones": [
+"Solo jugaban todo el día",
+"Todos iban a la escuela",
+"Trabajaban como adultos"
+],
+"correcta": 2,
+"porque": "Muchos trabajaban en el campo o en minas."
+},
+{
+"pregunta": "¿Qué llegó después a muchos países para la niñez?",
+"opciones": [
+"La escuela obligatoria",
+"El trabajo en minas",
+"La prohibición de jugar"
+],
+"correcta": 0,
+"porque": "La escuela obligatoria ayudó a que los niños aprendieran y no trabajaran."
+},
+{
+"pregunta": "¿Por qué decimos que la idea de juventud es histórica?",
+"opciones": [
+"No cambia nunca, es igual para todos",
+"Cambia según la época y la sociedad",
+"Siempre fue igual en todas las épocas"
+],
+"correcta": 1,
+"porque": "La idea de juventud cambia con la época y la sociedad."
+},
+{
+"pregunta": "Si le preguntas a tu abuelo cómo fue su niñez, ¿qué descubres?",
+"opciones": [
+"Que todo siempre fue igual",
+"Que la niñez cambia con el tiempo",
+"Que no existían niños"
+],
+"correcta": 1,
+"porque": "Compararás cómo era antes y cómo es ahora."
+}
+],
+"independencia-de-estados-unidos-secundaria": [
+{
+"pregunta": "¿De qué país se separaron las Trece Colonias?",
+"opciones": [
+"Francia",
+"España",
+"Gran Bretaña"
+],
+"correcta": 2,
+"porque": "Las colonias declararon su independencia de Gran Bretaña el 4 de julio de 1776."
+},
+{
+"pregunta": "¿En qué año se declaró la independencia de Estados Unidos?",
+"opciones": [
+"1810",
+"1776",
+"1917"
+],
+"correcta": 1,
+"porque": "Fue el 4 de julio de 1776."
+},
+{
+"pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+"opciones": [
+"Thomas Jefferson",
+"Napoleón",
+"George Washington"
+],
+"correcta": 2,
+"porque": "Washington dirigió la guerra y luego gobernó el nuevo país."
+},
+{
+"pregunta": "¿Qué causa pesó en la independencia?",
+"opciones": [
+"Exceso de lluvia",
+"Falta de escuelas",
+"Impuestos sin representación"
+],
+"correcta": 2,
+"porque": "Las colonias pagaban impuestos sin poder opinar en el gobierno."
+},
+{
+"pregunta": "Si en tu escuela te cobraran una cuota sin dejarte opinar, ¿a qué causa se parece?",
+"opciones": [
+"A impuestos sin representación",
+"Al armisticio",
+"A la carrera espacial"
+],
+"correcta": 0,
+"porque": "Las colonias protestaron por pagar sin tener voz."
+}
+],
+"independencias-de-america-latina-secundaria": [
+{
+"pregunta": "¿Qué país latinoamericano se independizó primero, en 1804?",
+"opciones": [
+"Brasil",
+"Argentina",
+"Haití"
+],
+"correcta": 2,
+"porque": "Haití fue el primero, tras la rebelión de personas esclavizadas."
+},
+{
+"pregunta": "¿En qué año se independizó México de España?",
+"opciones": [
+"1822",
+"1821",
+"1804"
+],
+"correcta": 1,
+"porque": "México logró su independencia en 1821."
+},
+{
+"pregunta": "¿De qué país se independizó Brasil en 1822?",
+"opciones": [
+"España",
+"Francia",
+"Portugal"
+],
+"correcta": 2,
+"porque": "Brasil era colonia portuguesa."
+},
+{
+"pregunta": "¿Qué fue una causa de las independencias?",
+"opciones": [
+"La invasión napoleónica a España",
+"La construcción del tren",
+"El descubrimiento de América"
+],
+"correcta": 0,
+"porque": "Napoleón invadió España y las colonias quedaron sin su rey."
+},
+{
+"pregunta": "Si haces una línea del tiempo con Haití, Argentina, México y Brasil, ¿cuál va primero?",
+"opciones": [
+"Brasil",
+"México",
+"Haití"
+],
+"correcta": 2,
+"porque": "Haití se independizó en 1804, antes que los demás."
+}
+],
+"levantamiento-del-ezln-en-1994-secundaria": [
+{
+"pregunta": "¿En qué estado se levantó el EZLN?",
+"opciones": [
+"Sonora",
+"Chiapas",
+"Yucatán"
+],
+"correcta": 1,
+"porque": "El 1 de enero de 1994 el EZLN apareció en Chiapas."
+},
+{
+"pregunta": "¿Qué pedían los zapatistas?",
+"opciones": [
+"Más días de vacaciones",
+"Tierra, salud y derechos",
+"Un estadio nuevo y lujoso"
+],
+"correcta": 1,
+"porque": "Pedían tierra, salud, educación y derechos para los pueblos indígenas."
+},
+{
+"pregunta": "¿Quién fue el vocero del EZLN?",
+"opciones": [
+"El subcomandante Marcos",
+"Benito Mussolini",
+"Gustavo Díaz Ordaz"
+],
+"correcta": 0,
+"porque": "Marcos hablaba a nombre del movimiento zapatista."
+},
+{
+"pregunta": "¿Cómo se llaman los acuerdos firmados en 1996?",
+"opciones": [
+"Acuerdos de Tlatelolco",
+"Acuerdos de San Andrés",
+"Acuerdos de Versalles"
+],
+"correcta": 1,
+"porque": "Fueron fruto del diálogo después de los combates."
+},
+{
+"pregunta": "Si tus compañeros piden que los escuchen en la escuela, ¿a qué se parece el EZLN?",
+"opciones": [
+"A una fiesta",
+"A pueblos que pidieron ser escuchados",
+"A un partido de futbol"
+],
+"correcta": 1,
+"porque": "El EZLN alzó la voz para que se atendieran sus peticiones."
+}
+],
+"luchas-mujeres-derechos-historia-secundaria": [
+{
+"pregunta": "¿En qué año votaron las mujeres mexicanas por primera vez en elecciones federales?",
+"opciones": [
+"1955",
+"1893",
+"1910"
+],
+"correcta": 0,
+"porque": "Se reconoció su ciudadanía en 1953 y votaron en 1955."
+},
+{
+"pregunta": "¿Qué significa sufragio?",
+"opciones": [
+"Una fiesta cívica",
+"Un tipo de impuesto",
+"El derecho a votar"
+],
+"correcta": 2,
+"porque": "Sufragio es votar para elegir a quienes gobiernan."
+},
+{
+"pregunta": "¿Qué país reconoció el voto femenino en 1893?",
+"opciones": [
+"Argentina",
+"Nueva Zelanda",
+"México"
+],
+"correcta": 1,
+"porque": "Fue de los primeros países en dar el voto a las mujeres."
+},
+{
+"pregunta": "¿Quién pidió el voto durante la Revolución Mexicana?",
+"opciones": [
+"Sor Juana",
+"Leona Vicario",
+"Hermila Galindo"
+],
+"correcta": 2,
+"porque": "Hermila Galindo escribió y pidió derechos políticos para las mujeres."
+},
+{
+"pregunta": "Si todas las niñas de tu salón piden participar igual, ¿qué lucha recuerdan?",
+"opciones": [
+"La lucha por un tesoro",
+"La carrera nuclear",
+"La lucha por los mismos derechos"
+],
+"correcta": 2,
+"porque": "Las mujeres lucharon para tener los mismos derechos que los hombres."
+}
+],
+"metropolis-sistemas-historia-secundaria": [
+{
+"pregunta": "¿Qué es una metrópoli?",
+"opciones": [
+"Un rancho aislado",
+"Un pueblo muy pequeño",
+"Una ciudad muy grande conectada con otras"
+],
+"correcta": 2,
+"porque": "Es una gran ciudad que se une con las poblaciones cercanas."
+},
+{
+"pregunta": "¿Qué necesitó una ciudad al crecer?",
+"opciones": [
+"Agua, drenaje, luz y transporte",
+"Más cuevas",
+"Más campos de cultivo"
+],
+"correcta": 0,
+"porque": "Esos sistemas ayudan a que mucha gente viva en la ciudad."
+},
+{
+"pregunta": "¿Qué llevó a mucha gente del campo a la ciudad?",
+"opciones": [
+"La caída del muro",
+"La industrialización",
+"La llegada de la Luna"
+],
+"correcta": 1,
+"porque": "Las fábricas daban trabajo, y la gente dejó el campo."
+},
+{
+"pregunta": "¿Qué medio ayudó a conectar ciudades en el siglo XIX?",
+"opciones": [
+"La televisión",
+"El telégrafo",
+"El celular"
+],
+"correcta": 1,
+"porque": "El telégrafo mandaba mensajes rápido a distancia."
+},
+{
+"pregunta": "Si en tu casa haces una lista de lo que usas en un día, ¿qué servicio es de metrópoli?",
+"opciones": [
+"La leña del campo",
+"El pozo del vecino",
+"El agua de la llave"
+],
+"correcta": 2,
+"porque": "Una ciudad grande lleva agua a las casas por tubos."
+}
+],
+"mexico-en-el-siglo-xxi-secundaria": [
+{
+"pregunta": "¿Quién fue la primera presidenta de México?",
+"opciones": [
+"Leona Vicario",
+"Hermila Galindo",
+"Claudia Sheinbaum"
+],
+"correcta": 2,
+"porque": "Fue electa y asumió en 2024."
+},
+{
+"pregunta": "¿Qué son las remesas?",
+"opciones": [
+"Un juego de mesa muy famoso",
+"Un tipo de fruta tropical",
+"Dinero que mandan los migrantes"
+],
+"correcta": 2,
+"porque": "Las remesas son el dinero que los migrantes mandan a sus familias."
+},
+{
+"pregunta": "¿En qué año fue la pandemia de COVID-19?",
+"opciones": [
+"2020",
+"1968",
+"1994"
+],
+"correcta": 0,
+"porque": "En 2020 se cerraron escuelas y cambió la vida de muchas familias."
+},
+{
+"pregunta": "¿Cuál es un reto actual de México?",
+"opciones": [
+"La Revolución industrial",
+"La llegada del telégrafo",
+"El cambio climático"
+],
+"correcta": 2,
+"porque": "Hoy se buscan soluciones al cambio climático."
+},
+{
+"pregunta": "Si tus abuelos no tenían celular y tú sí, ¿qué cambio muestra?",
+"opciones": [
+"La nieve",
+"La tecnología",
+"El uniforme"
+],
+"correcta": 1,
+"porque": "La tecnología cambió muy rápido en el siglo XXI."
+}
+],
+"milagro-mexicano-secundaria": [
+{
+"pregunta": "¿Entre qué años ocurrió el milagro mexicano?",
+"opciones": [
+"1994 y 2000",
+"1940 y 1970",
+"1810 y 1821"
+],
+"correcta": 1,
+"porque": "Fue un periodo largo de crecimiento económico."
+},
+{
+"pregunta": "¿Qué significa sustituir importaciones?",
+"opciones": [
+"Dejar de fabricar cosas",
+"Comprar todo en otros países",
+"Producir aquí lo que antes se compraba fuera"
+],
+"correcta": 2,
+"porque": "Así la industria nacional creció."
+},
+{
+"pregunta": "¿Qué sector se quedó rezagado?",
+"opciones": [
+"Las ciudades",
+"Las fábricas",
+"El campo"
+],
+"correcta": 2,
+"porque": "Mientras crecían las ciudades, el campo quedó olvidado."
+},
+{
+"pregunta": "¿Qué resultado tuvo el milagro mexicano?",
+"opciones": [
+"Desapareció la desigualdad",
+"Se cerraron las fábricas",
+"Creció la clase media"
+],
+"correcta": 2,
+"porque": "Con más empleo y ciudades surgió una clase media."
+},
+{
+"pregunta": "Si en tu escuela solo mejora el salón de adelante y no el de atrás, ¿qué problema se parece?",
+"opciones": [
+"Un armisticio",
+"Crecer sin repartir",
+"Un prejuicio"
+],
+"correcta": 1,
+"porque": "En el milagro, hubo crecimiento pero con desigualdad."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"volcanes-de-mexico-secundaria": [
+{
+"pregunta": "¿Cuál volcán de México está dormido?",
+"opciones": [
+"Iztaccíhuatl",
+"Paricutín",
+"Popocatépetl"
+],
+"correcta": 0,
+"porque": "El Iztaccíhuatl es un volcán dormido."
+},
+{
+"pregunta": "¿Cuál de estos volcanes es muy activo?",
+"opciones": [
+"Iztaccíhuatl",
+"Nevado de Toluca",
+"Volcán de Colima"
+],
+"correcta": 2,
+"porque": "El Volcán de Colima es muy activo."
+},
+{
+"pregunta": "¿Dónde están la mayoría de los volcanes de México?",
+"opciones": [
+"En la costa del Golfo",
+"En la península de Yucatán",
+"En el Eje Neovolcánico"
+],
+"correcta": 2,
+"porque": "La mayoría está en el Eje Neovolcánico, que cruza el centro."
+},
+{
+"pregunta": "¿Cuántos metros mide el Pico de Orizaba?",
+"opciones": [
+"4636 m",
+"5636 m",
+"6536 m"
+],
+"correcta": 1,
+"porque": "El Pico de Orizaba mide 5636 m."
+},
+{
+"pregunta": "¿A qué se parece un volcán?",
+"opciones": [
+"A una mesa con cuatro patas",
+"A una alberca llena de agua tibia",
+"A una olla con tapa que suelta presión"
+],
+"correcta": 2,
+"porque": "El volcán suelta presión como una olla con tapa."
+}
+],
+"volcanes-famosos-del-mundo-secundaria": [
+{
+"pregunta": "¿En qué país está el volcán Krakatoa?",
+"opciones": [
+"Indonesia",
+"Japón",
+"Italia"
+],
+"correcta": 0,
+"porque": "El Krakatoa hizo erupción en 1883, en Indonesia."
+},
+{
+"pregunta": "¿En qué lugar está el volcán Mauna Loa?",
+"opciones": [
+"Hawái",
+"Indonesia",
+"Italia"
+],
+"correcta": 0,
+"porque": "El Mauna Loa está en Hawái."
+},
+{
+"pregunta": "¿En qué año el Vesubio destruyó Pompeya?",
+"opciones": [
+"En el año 79",
+"En el año 1883",
+"En el año 1980"
+],
+"correcta": 0,
+"porque": "El Vesubio destruyó Pompeya en el año 79."
+},
+{
+"pregunta": "¿Cuál volcán muy activo está en Italia?",
+"opciones": [
+"El Fuji",
+"El Krakatoa",
+"El Etna"
+],
+"correcta": 2,
+"porque": "El Etna es un volcán muy activo de Italia."
+},
+{
+"pregunta": "Ubicas tres volcanes en un mapa. ¿Cuál pareja de volcán y país está bien?",
+"opciones": [
+"Krakatoa e Italia",
+"Fuji y Japón",
+"Etna y Japón"
+],
+"correcta": 1,
+"porque": "El Fuji es el símbolo de Japón."
+}
+],
+"zonas-sismicas-de-mexico-secundaria": [
+{
+"pregunta": "¿Por qué la Ciudad de México sufre más con los sismos?",
+"opciones": [
+"Está pegada a la costa",
+"Tiene muchos volcanes",
+"Su suelo es de antiguo lago"
+],
+"correcta": 2,
+"porque": "El suelo de antiguo lago hace que el temblor se sienta más fuerte."
+},
+{
+"pregunta": "¿Qué es una zona sísmica?",
+"opciones": [
+"Región donde nunca llueve",
+"Región con muchos ríos",
+"Región donde ocurren muchos temblores"
+],
+"correcta": 2,
+"porque": "Una zona sísmica es un lugar donde tiembla con frecuencia."
+},
+{
+"pregunta": "Suena la alarma en tu salón y hay tiempo. ¿Qué haces?",
+"opciones": [
+"Te quedas jugando",
+"Te escondes en el baño",
+"Evacúas con calma"
+],
+"correcta": 2,
+"porque": "En un sismo, evacúa si hay tiempo."
+},
+{
+"pregunta": "¿Por qué tiembla?",
+"opciones": [
+"Las nubes pesan mucho",
+"Las piezas grandes del suelo se mueven y chocan",
+"El viento mueve las casas"
+],
+"correcta": 1,
+"porque": "Las placas se mueven despacio y, al chocar, tiembla."
+},
+{
+"pregunta": "¿Qué par de estados tiene riesgo alto de sismos?",
+"opciones": [
+"Oaxaca y Chiapas",
+"Campeche y Quintana Roo",
+"Yucatán y el noreste"
+],
+"correcta": 0,
+"porque": "Oaxaca y Chiapas están cerca de donde chocan las placas."
+}
+],
+"alternancia-politica-del-ano-2000-secundaria": [
+{
+"pregunta": "¿Quién ganó la presidencia en 2006?",
+"opciones": [
+"Peña Nieto",
+"Felipe Calderón",
+"Vicente Fox"
+],
+"correcta": 1,
+"porque": "Felipe Calderón, del PAN, ganó en 2006."
+},
+{
+"pregunta": "¿Quién ganó la presidencia en 2012?",
+"opciones": [
+"Vicente Fox",
+"Felipe Calderón",
+"Enrique Peña Nieto"
+],
+"correcta": 2,
+"porque": "Enrique Peña Nieto, del PRI, ganó en 2012."
+},
+{
+"pregunta": "¿De qué partido es Andrés Manuel López Obrador?",
+"opciones": [
+"PRI, desde 2012",
+"Morena, desde 2018",
+"PAN, desde 2006"
+],
+"correcta": 1,
+"porque": "Andrés Manuel López Obrador ganó en 2018 con Morena."
+},
+{
+"pregunta": "¿En qué año se creó el IFE?",
+"opciones": [
+"En 1990",
+"En 2000",
+"En 2018"
+],
+"correcta": 0,
+"porque": "El IFE se creó en 1990 y hoy se llama INE."
+},
+{
+"pregunta": "¿Qué significa alternancia política?",
+"opciones": [
+"Que siempre gane el mismo equipo",
+"Que no haya elecciones",
+"Cambio de partido en el gobierno"
+],
+"correcta": 2,
+"porque": "Alternancia es cuando otro partido llega a gobernar."
+}
+],
+"amor-amistad-familias-historia-secundaria": [
+{
+"pregunta": "¿Quiénes forman una familia nuclear?",
+"opciones": [
+"Abuelos, tíos y primos",
+"Solo los vecinos",
+"Padres e hijos"
+],
+"correcta": 2,
+"porque": "La familia nuclear son padres e hijos."
+},
+{
+"pregunta": "Un niño vive con su mamá y su abuela. ¿Es una familia?",
+"opciones": [
+"No, falta un papá",
+"No, solo cuenta si son diez",
+"Sí, hay muchos tipos de familia"
+],
+"correcta": 2,
+"porque": "Hoy hay familias con un solo adulto, con abuelos y más."
+},
+{
+"pregunta": "¿Qué cosa no cambia entre las familias de antes y de hoy?",
+"opciones": [
+"El apoyo y el cariño",
+"El tipo de familia",
+"La forma de elegir pareja"
+],
+"correcta": 0,
+"porque": "Lo que se mantiene es el apoyo y el cariño."
+},
+{
+"pregunta": "En tu tarea, ¿qué le preguntas a tus abuelos?",
+"opciones": [
+"Cuánto cuesta su casa",
+"Qué número de zapato usan",
+"Cómo se conocieron"
+],
+"correcta": 2,
+"porque": "Así sabes cómo era el amor y la familia antes."
+},
+{
+"pregunta": "¿Por qué cambian las formas de familia?",
+"opciones": [
+"Cambian solo cuando llueve",
+"Nunca han cambiado",
+"Cambian con la época y la cultura"
+],
+"correcta": 2,
+"porque": "Cada época y cultura tiene sus propias formas de familia."
+}
+],
+"atentados-del-11-de-septiembre-secundaria": [
+{
+"pregunta": "¿En qué año ocurrieron los atentados del 11 de septiembre?",
+"opciones": [
+"En 2001",
+"En 2011",
+"En 1991"
+],
+"correcta": 0,
+"porque": "Los atentados fueron el 11 de septiembre de 2001."
+},
+{
+"pregunta": "Además de las Torres Gemelas, ¿qué edificio fue atacado?",
+"opciones": [
+"La Casa Blanca",
+"El Pentágono",
+"La Estatua de la Libertad"
+],
+"correcta": 1,
+"porque": "Los terroristas también atacaron el Pentágono."
+},
+{
+"pregunta": "¿Qué hicieron los terroristas con los aviones?",
+"opciones": [
+"Los compraron",
+"Los secuestraron",
+"Los repararon"
+],
+"correcta": 1,
+"porque": "Secuestraron aviones y los usaron para atacar."
+},
+{
+"pregunta": "¿Qué cambió en los aeropuertos después del ataque?",
+"opciones": [
+"Hubo más seguridad",
+"Hubo menos revisiones",
+"Se cerraron para siempre"
+],
+"correcta": 0,
+"porque": "Después de los atentados aumentó la seguridad en aeropuertos."
+},
+{
+"pregunta": "¿Cómo debemos recordar ese día?",
+"opciones": [
+"Con burlas hacia las víctimas",
+"Sin hablar de lo ocurrido",
+"Con respeto a las personas inocentes"
+],
+"correcta": 2,
+"porque": "Fue un ataque contra personas inocentes y se recuerda con respeto."
+}
+],
+"bombas-de-hiroshima-y-nagasaki-secundaria": [
+{
+"pregunta": "¿Qué fecha cayó la bomba sobre Hiroshima?",
+"opciones": [
+"6 de agosto de 1945",
+"6 de septiembre de 1945",
+"9 de agosto de 1945"
+],
+"correcta": 0,
+"porque": "Hiroshima fue atacada el 6 de agosto de 1945."
+},
+{
+"pregunta": "¿Qué ciudad fue atacada el 9 de agosto de 1945?",
+"opciones": [
+"Hiroshima",
+"Nagasaki",
+"Tokio"
+],
+"correcta": 1,
+"porque": "Nagasaki fue la segunda ciudad atacada, el 9 de agosto."
+},
+{
+"pregunta": "¿Cuántas bombas atómicas se lanzaron sobre Japón?",
+"opciones": [
+"Una",
+"Dos",
+"Cinco"
+],
+"correcta": 1,
+"porque": "Se lanzaron dos bombas: una en Hiroshima y otra en Nagasaki."
+},
+{
+"pregunta": "¿Por qué murieron muchas personas después de las bombas?",
+"opciones": [
+"Por falta de escuelas",
+"Por una tormenta",
+"Por la radiación"
+],
+"correcta": 2,
+"porque": "La radiación causó muertes y enfermedades años después."
+},
+{
+"pregunta": "¿Qué comenzó después de estas bombas?",
+"opciones": [
+"La era nuclear",
+"La era de los dinosaurios",
+"La era del hielo"
+],
+"correcta": 0,
+"porque": "Con las bombas atómicas inició la era nuclear."
+}
+],
+"caida-del-muro-de-berlin-secundaria": [
+{
+"pregunta": "¿Qué separaba el Muro de Berlín?",
+"opciones": [
+"México y Estados Unidos",
+"Alemania Oriental y Occidental",
+"Francia y España"
+],
+"correcta": 1,
+"porque": "El muro dividía a las dos partes de Alemania."
+},
+{
+"pregunta": "¿Cuántos años estuvo en pie el muro?",
+"opciones": [
+"18 años",
+"28 años",
+"38 años"
+],
+"correcta": 1,
+"porque": "De 1961 a 1989 pasaron 28 años."
+},
+{
+"pregunta": "¿Qué provocó la caída del muro?",
+"opciones": [
+"Una guerra con México",
+"Crisis en países comunistas y protestas",
+"Un terremoto muy fuerte"
+],
+"correcta": 1,
+"porque": "La crisis y las protestas llevaron a la caída del muro."
+},
+{
+"pregunta": "¿Qué hizo la gente un día de noviembre de 1989?",
+"opciones": [
+"Construyó otro muro",
+"Derribó el muro",
+"Cerró las fronteras"
+],
+"correcta": 1,
+"porque": "La gente derribó el muro que separaba familias."
+},
+{
+"pregunta": "¿Con qué fin se asocia la caída del muro?",
+"opciones": [
+"El fin de la Guerra Fría",
+"El fin de la escuela",
+"El inicio de la Guerra Fría"
+],
+"correcta": 0,
+"porque": "La caída del muro fue símbolo del fin de la Guerra Fría."
+}
+],
+"conflicto-arabe-israeli-secundaria": [
+{
+"pregunta": "¿Cómo se debe estudiar este conflicto?",
+"opciones": [
+"Con odio hacia un solo lado",
+"Sin leer ni escuchar a nadie",
+"Con respeto y varios puntos de vista"
+],
+"correcta": 2,
+"porque": "Hay dolor en ambos lados y se estudia con respeto."
+},
+{
+"pregunta": "¿En qué década fueron los Acuerdos de Oslo?",
+"opciones": [
+"En los años 40",
+"En los años 90",
+"En los años 2020"
+],
+"correcta": 1,
+"porque": "Los Acuerdos de Oslo fueron en los años 90."
+},
+{
+"pregunta": "¿Cuántos años pasaron entre 1948 y 1967?",
+"opciones": [
+"29 años",
+"19 años",
+"9 años"
+],
+"correcta": 1,
+"porque": "De 1948 a 1967 pasaron 19 años."
+},
+{
+"pregunta": "¿A quiénes afecta este conflicto?",
+"opciones": [
+"A millones de personas, con refugiados y violencia",
+"A nadie, ya terminó por completo",
+"Solo a unos pocos turistas"
+],
+"correcta": 0,
+"porque": "Muchas personas han sufrido por este conflicto."
+},
+{
+"pregunta": "Explicas el conflicto en tu salón. ¿Qué te ayuda a mostrar el lugar?",
+"opciones": [
+"Un mapa",
+"Un dibujo de dinosaurios",
+"Una receta"
+],
+"correcta": 0,
+"porque": "Un mapa ayuda a ubicar los territorios del conflicto."
+}
+],
+"creacion-de-la-onu-secundaria": [
+{
+"pregunta": "¿A qué organización reemplazó la ONU?",
+"opciones": [
+"A la Liga de las Naciones",
+"A la OPEP",
+"A la Unión Europea"
+],
+"correcta": 0,
+"porque": "La ONU reemplazó a la Liga de las Naciones."
+},
+{
+"pregunta": "¿Cuántos miembros permanentes tiene el Consejo de Seguridad?",
+"opciones": [
+"Tres",
+"Cinco",
+"Diez"
+],
+"correcta": 1,
+"porque": "China, Francia, Rusia, Reino Unido y Estados Unidos son cinco."
+},
+{
+"pregunta": "¿En qué ciudad se creó la ONU en 1945?",
+"opciones": [
+"San Francisco",
+"Nueva York",
+"París"
+],
+"correcta": 0,
+"porque": "La ONU se creó en San Francisco, en 1945."
+},
+{
+"pregunta": "¿Para qué se creó la ONU?",
+"opciones": [
+"Para mantener la paz",
+"Para ganar guerras",
+"Para vender productos"
+],
+"correcta": 0,
+"porque": "Los países se sientan a platicar para mantener la paz."
+},
+{
+"pregunta": "¿Cuál es uno de los órganos de la ONU?",
+"opciones": [
+"El Congreso Mundial",
+"La Liga de Reyes",
+"La Asamblea General"
+],
+"correcta": 2,
+"porque": "La Asamblea General y el Consejo de Seguridad son sus órganos."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"tabla-del-4-primaria": [
+{
+"pregunta": "¿Cuánto es 4 × 6?",
+"opciones": [
+"46",
+"24",
+"10"
+],
+"correcta": 1,
+"porque": "El doble de 6 es 12 y el doble de 12 es 24."
+},
+{
+"pregunta": "¿Cuánto es 4 × 8?",
+"opciones": [
+"28",
+"32",
+"12"
+],
+"correcta": 1,
+"porque": "El doble de 8 es 16 y el doble de 16 es 32."
+},
+{
+"pregunta": "Una mesa tiene 4 patas. ¿Cuántas patas tienen 5 mesas del salón?",
+"opciones": [
+"20",
+"45",
+"9"
+],
+"correcta": 0,
+"porque": "Son 5 veces 4, y 5 × 4 = 20."
+},
+{
+"pregunta": "Completa: 4 × ___ = 36",
+"opciones": [
+"7",
+"9",
+"8"
+],
+"correcta": 1,
+"porque": "4 × 9 = 36."
+},
+{
+"pregunta": "Si 2 × 6 = 12, ¿cuánto es 4 × 6?",
+"opciones": [
+"18",
+"16",
+"24"
+],
+"correcta": 2,
+"porque": "La tabla del 4 es el doble de la del 2: el doble de 12 es 24."
+}
+],
+"tabla-del-5-primaria": [
+{
+"pregunta": "¿Cuánto es 5 × 6?",
+"opciones": [
+"11",
+"56",
+"30"
+],
+"correcta": 2,
+"porque": "Cinco veces 6 es 30, y termina en 0."
+},
+{
+"pregunta": "¿Cuánto es 5 × 9?",
+"opciones": [
+"40",
+"14",
+"45"
+],
+"correcta": 2,
+"porque": "5 × 9 = 45, y los resultados terminan en 5 o en 0."
+},
+{
+"pregunta": "En tu salón 7 niños levantan una mano. ¿Cuántos dedos ven en total?",
+"opciones": [
+"75",
+"12",
+"35"
+],
+"correcta": 2,
+"porque": "Cada mano tiene 5 dedos: 7 × 5 = 35."
+},
+{
+"pregunta": "Completa: 5 × ___ = 40",
+"opciones": [
+"9",
+"8",
+"7"
+],
+"correcta": 1,
+"porque": "5 × 8 = 40."
+},
+{
+"pregunta": "¿Cómo terminan los resultados de la tabla del 5?",
+"opciones": [
+"En 2 o en 4",
+"En 1 o en 9",
+"En 5 o en 0"
+],
+"correcta": 2,
+"porque": "Cada resultado es 5 más que el anterior, y eso termina en 5 o en 0."
+}
+],
+"tabla-del-6-primaria": [
+{
+"pregunta": "¿Cuánto es 6 × 8?",
+"opciones": [
+"68",
+"14",
+"48"
+],
+"correcta": 2,
+"porque": "Es el doble de 3 × 8 = 24, es decir 48."
+},
+{
+"pregunta": "¿Cuánto es 6 × 9?",
+"opciones": [
+"54",
+"15",
+"56"
+],
+"correcta": 0,
+"porque": "6 × 9 = 54, que es el doble de 27."
+},
+{
+"pregunta": "Compras 4 cajas de media docena de huevos, y cada caja trae 6. ¿Cuántos huevos son?",
+"opciones": [
+"46",
+"10",
+"24"
+],
+"correcta": 2,
+"porque": "Son 4 veces 6, y 4 × 6 = 24."
+},
+{
+"pregunta": "Completa: 6 × ___ = 42",
+"opciones": [
+"6",
+"8",
+"7"
+],
+"correcta": 2,
+"porque": "6 × 7 = 42."
+},
+{
+"pregunta": "Si 3 × 5 = 15, ¿cuánto es 6 × 5?",
+"opciones": [
+"21",
+"20",
+"30"
+],
+"correcta": 2,
+"porque": "La tabla del 6 es el doble de la del 3: el doble de 15 es 30."
+}
+],
+"tabla-del-7-primaria": [
+{
+"pregunta": "¿Cuánto es 7 × 6?",
+"opciones": [
+"42",
+"13",
+"36"
+],
+"correcta": 0,
+"porque": "7 × 5 = 35 y 35 + 7 = 42."
+},
+{
+"pregunta": "¿Cuánto es 7 × 8?",
+"opciones": [
+"15",
+"54",
+"56"
+],
+"correcta": 2,
+"porque": "7 × 8 = 56."
+},
+{
+"pregunta": "Una semana tiene 7 días. ¿Cuántos días hay en 5 semanas?",
+"opciones": [
+"75",
+"12",
+"35"
+],
+"correcta": 2,
+"porque": "Son 5 veces 7, y 5 × 7 = 35."
+},
+{
+"pregunta": "Completa: 7 × ___ = 63",
+"opciones": [
+"8",
+"9",
+"7"
+],
+"correcta": 1,
+"porque": "7 × 9 = 63."
+},
+{
+"pregunta": "Si 7 × 7 = 49, ¿cuánto es 7 × 8?",
+"opciones": [
+"57",
+"54",
+"56"
+],
+"correcta": 2,
+"porque": "Cada resultado es 7 más que el anterior: 49 + 7 = 56."
+}
+],
+"tabla-del-8-primaria": [
+{
+"pregunta": "¿Cuánto es 8 × 6?",
+"opciones": [
+"56",
+"14",
+"48"
+],
+"correcta": 2,
+"porque": "El doble de 4 × 6 = 24 es 48."
+},
+{
+"pregunta": "¿Cuánto es 8 × 9?",
+"opciones": [
+"64",
+"17",
+"72"
+],
+"correcta": 2,
+"porque": "8 × 9 = 72."
+},
+{
+"pregunta": "Una araña tiene 8 patas. ¿Cuántas patas tienen 4 arañas?",
+"opciones": [
+"48",
+"12",
+"32"
+],
+"correcta": 2,
+"porque": "Son 4 veces 8, y 4 × 8 = 32."
+},
+{
+"pregunta": "Completa: 8 × ___ = 56",
+"opciones": [
+"6",
+"8",
+"7"
+],
+"correcta": 2,
+"porque": "8 × 7 = 56."
+},
+{
+"pregunta": "Si 4 × 5 = 20, ¿cuánto es 8 × 5?",
+"opciones": [
+"25",
+"40",
+"28"
+],
+"correcta": 1,
+"porque": "La tabla del 8 es el doble de la del 4: el doble de 20 es 40."
+}
+],
+"tabla-del-9-primaria": [
+{
+"pregunta": "¿Cuánto es 9 × 8?",
+"opciones": [
+"81",
+"17",
+"72"
+],
+"correcta": 2,
+"porque": "9 × 8 = 72, y 7 + 2 = 9."
+},
+{
+"pregunta": "¿Cuánto es 9 × 4?",
+"opciones": [
+"13",
+"36",
+"45"
+],
+"correcta": 1,
+"porque": "9 × 4 = 36, y 3 + 6 = 9."
+},
+{
+"pregunta": "Hay 5 bolsas con 9 canicas cada una. ¿Cuántas canicas hay?",
+"opciones": [
+"54",
+"14",
+"45"
+],
+"correcta": 2,
+"porque": "Son 5 veces 9, y 5 × 9 = 45."
+},
+{
+"pregunta": "Completa: 9 × ___ = 63",
+"opciones": [
+"8",
+"7",
+"6"
+],
+"correcta": 1,
+"porque": "9 × 7 = 63."
+},
+{
+"pregunta": "En los resultados de la tabla del 9, ¿cuánto suman las dos cifras?",
+"opciones": [
+"Suman 9, como en 63: 6 + 3",
+"Suman 10, siempre un poco más",
+"Suman 18, el doble de nueve"
+],
+"correcta": 0,
+"porque": "Las cifras de cada resultado de la tabla del 9 suman 9."
+}
+],
+"tablas-de-conteo-primaria": [
+{
+"pregunta": "En una tabla de conteo, ¿cuántas rayitas forman un grupo completo?",
+"opciones": [
+"4",
+"10",
+"5"
+],
+"correcta": 2,
+"porque": "Se marcan cuatro rayitas y la quinta las cruza."
+},
+{
+"pregunta": "Votos de fruta: uva 8, pera 3, melón 6. ¿Qué fruta ganó?",
+"opciones": [
+"Pera",
+"Melón",
+"Uva"
+],
+"correcta": 2,
+"porque": "La uva tiene 8 votos, el número más alto."
+},
+{
+"pregunta": "Con uva 8, pera 3 y melón 6, ¿cuántos votaron en total?",
+"opciones": [
+"9",
+"17",
+"11"
+],
+"correcta": 1,
+"porque": "Se suma: 8 + 3 + 6 = 17."
+},
+{
+"pregunta": "Para contar los lápices rojos del salón haces 2 grupos completos de 5 rayitas. ¿Cuántos lápices son?",
+"opciones": [
+"10",
+"7",
+"25"
+],
+"correcta": 0,
+"porque": "Cada grupo completo vale 5, y 5 + 5 = 10."
+},
+{
+"pregunta": "¿Por qué se agrupan las marcas de 5 en 5?",
+"opciones": [
+"Para contar más rápido",
+"Para que se vean más bonitas",
+"Para borrar menos"
+],
+"correcta": 0,
+"porque": "Contar de 5 en 5 evita errores y ahorra tiempo."
+}
+],
+"tablas-del-1-y-del-10-primaria": [
+{
+"pregunta": "¿Cuánto es 1 × 17?",
+"opciones": [
+"17",
+"1",
+"18"
+],
+"correcta": 0,
+"porque": "Todo número por 1 queda igual."
+},
+{
+"pregunta": "¿Cuánto es 10 × 6?",
+"opciones": [
+"16",
+"60",
+"66"
+],
+"correcta": 1,
+"porque": "Por 10 se agrega un cero al 6."
+},
+{
+"pregunta": "Un lápiz cuesta 10 pesos. ¿Cuánto cuestan 7 lápices?",
+"opciones": [
+"17 pesos",
+"70 pesos",
+"107 pesos"
+],
+"correcta": 1,
+"porque": "Por 10 se agrega un cero: 7 × 10 = 70."
+},
+{
+"pregunta": "¿Cuánto es 10 × 45?",
+"opciones": [
+"405",
+"450",
+"55"
+],
+"correcta": 1,
+"porque": "Al 45 se le agrega un cero al final."
+},
+{
+"pregunta": "En tu salón 10 equipos tienen 1 balón cada uno. ¿Cuántos balones hay?",
+"opciones": [
+"100",
+"11",
+"10"
+],
+"correcta": 2,
+"porque": "10 × 1 = 10, porque por 1 nada cambia."
+}
+],
+"unidades-decenas-y-centenas-primaria": [
+{
+"pregunta": "En el número 573, ¿cuánto vale el 7?",
+"opciones": [
+"700",
+"7",
+"70"
+],
+"correcta": 2,
+"porque": "El 7 está en las decenas, así que vale 70."
+},
+{
+"pregunta": "¿Cómo se descompone 614?",
+"opciones": [
+"60 + 10 + 4",
+"600 + 10 + 4",
+"600 + 1 + 4"
+],
+"correcta": 1,
+"porque": "Seis centenas son 600, una decena es 10 y cuatro unidades son 4."
+},
+{
+"pregunta": "¿Cuántas unidades forman una decena?",
+"opciones": [
+"100",
+"10",
+"1"
+],
+"correcta": 1,
+"porque": "Diez unidades forman una decena."
+},
+{
+"pregunta": "Tienes 3 paquetes de 100 hojas y 2 hojas sueltas. ¿Qué número es?",
+"opciones": [
+"302",
+"32",
+"320"
+],
+"correcta": 0,
+"porque": "Son 3 centenas, 0 decenas y 2 unidades: 302."
+},
+{
+"pregunta": "¿Cuántas decenas hay en 1 centena?",
+"opciones": [
+"1",
+"100",
+"10"
+],
+"correcta": 2,
+"porque": "Diez decenas forman una centena."
+}
+],
+"area-del-cuadrado-y-del-rectangulo-primaria": [
+{
+"pregunta": "Una mesa mide 9 cm de largo y 4 cm de ancho. ¿Cuál es su área?",
+"opciones": [
+"13 cm²",
+"26 cm²",
+"36 cm²"
+],
+"correcta": 2,
+"porque": "Área del rectángulo es base por altura: 9 × 4 = 36."
+},
+{
+"pregunta": "¿Cuál es el área de un cuadrado de lado 6 m?",
+"opciones": [
+"36 m²",
+"12 m²",
+"24 m²"
+],
+"correcta": 0,
+"porque": "Lado por lado: 6 × 6 = 36."
+},
+{
+"pregunta": "Un patio mide 10 m por 5 m. ¿Cuál es su área?",
+"opciones": [
+"50 m²",
+"15 m²",
+"30 m²"
+],
+"correcta": 0,
+"porque": "Se multiplica: 10 × 5 = 50."
+},
+{
+"pregunta": "Un rectángulo tiene área de 36 cm² y base de 9 cm. ¿Cuánto mide su altura?",
+"opciones": [
+"4 cm",
+"27 cm",
+"45 cm"
+],
+"correcta": 0,
+"porque": "Se divide: 36 ÷ 9 = 4."
+},
+{
+"pregunta": "¿Qué mide el área?",
+"opciones": [
+"Qué tan alta es la figura",
+"El borde de la figura",
+"Los cuadritos que cubren adentro"
+],
+"correcta": 2,
+"porque": "El área cuenta cuántos cuadritos cubren la superficie."
+}
+]
+}

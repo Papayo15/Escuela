@@ -1,0 +1,522 @@
+{
+"my-your-his-y-her-primaria": [
+{
+"pregunta": "Mario habla de sus lápices: *Mario and ___ pencils.*",
+"opciones": [
+"he",
+"his",
+"her"
+],
+"correcta": 1,
+"porque": "El dueño es Mario, un niño, así que se usa *his*."
+},
+{
+"pregunta": "¿Qué significa *my*?",
+"opciones": [
+"tu",
+"mi",
+"su de ella"
+],
+"correcta": 1,
+"porque": "*My* es lo mío: *my book* es mi libro."
+},
+{
+"pregunta": "¿Cuál está bien escrita?",
+"opciones": [
+"*mys books*",
+"*mines books*",
+"*my books*"
+],
+"correcta": 2,
+"porque": "El posesivo no cambia en plural."
+},
+{
+"pregunta": "¿Cuál significa «de él»?",
+"opciones": [
+"her",
+"he",
+"his"
+],
+"correcta": 2,
+"porque": "*His* dice de quién es algo; *he* significa él."
+},
+{
+"pregunta": "¿Cómo dices «su pluma» si la pluma es de una niña?",
+"opciones": [
+"*her pen*",
+"*she pen*",
+"*his pen*"
+],
+"correcta": 0,
+"porque": "Si el dueño es mujer, se usa *her*."
+}
+],
+"pasado-con-ed-para-principiantes-primaria": [
+{
+"pregunta": "¿Cuál es el pasado de *clean*?",
+"opciones": [
+"cleanned",
+"cleaned",
+"cleaning"
+],
+"correcta": 1,
+"porque": "A *clean* solo se le agrega *-ed*."
+},
+{
+"pregunta": "¿Cuál es el pasado de *like*?",
+"opciones": [
+"liking",
+"liked",
+"likeed"
+],
+"correcta": 1,
+"porque": "Como termina en *e*, solo se agrega *d*."
+},
+{
+"pregunta": "¿Qué palabra te avisa que algo ya pasó?",
+"opciones": [
+"*yesterday*",
+"*right now*",
+"*tomorrow*"
+],
+"correcta": 0,
+"porque": "*Yesterday* significa ayer."
+},
+{
+"pregunta": "¿Cuál oración está bien?",
+"opciones": [
+"*They plays soccer yesterday.*",
+"*They playeds soccer.*",
+"*They played soccer.*"
+],
+"correcta": 2,
+"porque": "El pasado con -ed se escribe igual para todos."
+},
+{
+"pregunta": "Completa: *Yesterday I ___ my teacher.*",
+"opciones": [
+"help",
+"helped",
+"helping"
+],
+"correcta": 1,
+"porque": "Como fue ayer, a *help* se le agrega *-ed*."
+}
+],
+"pasado-irregular-para-principiantes-primaria": [
+{
+"pregunta": "¿Cuál es el pasado de *do*?",
+"opciones": [
+"did",
+"does",
+"doed"
+],
+"correcta": 0,
+"porque": "*Do* cambia por completo a *did*."
+},
+{
+"pregunta": "¿Qué significa *I went to school*?",
+"opciones": [
+"Voy a la escuela",
+"Fui a la escuela",
+"Iré a la escuela mañana"
+],
+"correcta": 1,
+"porque": "*Went* es el pasado de *go*."
+},
+{
+"pregunta": "¿Cómo se aprenden los verbos irregulares?",
+"opciones": [
+"De memoria, poquito a poco",
+"Quitando la última letra del verbo",
+"Agregando siempre -ed al final"
+],
+"correcta": 0,
+"porque": "No tienen regla, hay que memorizarlos."
+},
+{
+"pregunta": "Completa: Yesterday I ___ pizza. (comer)",
+"opciones": [
+"ate, el pasado de eat",
+"eat, la forma del presente",
+"eated, con -ed al final"
+],
+"correcta": 0,
+"porque": "El pasado irregular de *eat* es *ate*, no lleva -ed."
+},
+{
+"pregunta": "¿Qué significa *had*?",
+"opciones": [
+"tuve",
+"fui",
+"hice"
+],
+"correcta": 0,
+"porque": "*Had* es el pasado de *have*."
+}
+],
+"preguntas-con-what-where-y-who-primaria": [
+{
+"pregunta": "¿Cómo preguntas «¿Quién es él?»",
+"opciones": [
+"*Where is he?*",
+"*Who is he?*",
+"*What is he?*"
+],
+"correcta": 1,
+"porque": "*Who* se usa para preguntar por una persona."
+},
+{
+"pregunta": "¿Qué palabra usas para preguntar por un lugar?",
+"opciones": [
+"*who*",
+"*when*",
+"*where*"
+],
+"correcta": 2,
+"porque": "*Where* significa dónde."
+},
+{
+"pregunta": "¿Cuál pregunta significa «¿Cuándo es la fiesta?»",
+"opciones": [
+"*What is the party?*",
+"*When is the party?*",
+"*Where is the party?*"
+],
+"correcta": 1,
+"porque": "*When* significa cuándo."
+},
+{
+"pregunta": "¿Dónde va el signo de interrogación en inglés?",
+"opciones": [
+"Solo al inicio de la pregunta",
+"Solo al final",
+"Al inicio y al final"
+],
+"correcta": 1,
+"porque": "En inglés no se pone el signo al inicio."
+},
+{
+"pregunta": "¿Qué significa *How are you?*",
+"opciones": [
+"¿Cómo estás?",
+"¿Dónde estás tú ahora?",
+"¿Quién eres?"
+],
+"correcta": 0,
+"porque": "*How* significa cómo."
+}
+],
+"presente-continuo-para-principiantes-primaria": [
+{
+"pregunta": "¿Qué significa *She is running*?",
+"opciones": [
+"Ella corre todos los días",
+"Ella está corriendo",
+"Ella corrió ayer por la tarde"
+],
+"correcta": 1,
+"porque": "*Is running* habla de lo que pasa ahora."
+},
+{
+"pregunta": "¿Cómo se escribe *dance* con -ing?",
+"opciones": [
+"dancking",
+"danceing",
+"dancing"
+],
+"correcta": 2,
+"porque": "Si termina en *e*, se quita antes de agregar *-ing*."
+},
+{
+"pregunta": "¿Qué palabras van antes del verbo con -ing?",
+"opciones": [
+"*am*, *is* o *are*",
+"*will* o *won't*",
+"*do* o *does*"
+],
+"correcta": 0,
+"porque": "El presente continuo usa *am*, *is* o *are*."
+},
+{
+"pregunta": "¿Cómo dices «No estoy comiendo»?",
+"opciones": [
+"*I am not eating.*",
+"*I not am eating.*",
+"*I am not eat food.*"
+],
+"correcta": 0,
+"porque": "*Not* va después de *am*."
+},
+{
+"pregunta": "¿Qué significa *right now*?",
+"opciones": [
+"ayer",
+"todos los días",
+"ahora mismo"
+],
+"correcta": 2,
+"porque": "*Right now* es una palabra clave del presente continuo."
+}
+],
+"presente-simple-para-principiantes-primaria": [
+{
+"pregunta": "Completa: *The dog ___ (run) in the park.*",
+"opciones": [
+"run",
+"runs",
+"running"
+],
+"correcta": 1,
+"porque": "Con *it* el verbo lleva *-s*."
+},
+{
+"pregunta": "Completa: She ___ soccer every day.",
+"opciones": [
+"play, porque queda igual",
+"playing, porque lleva -ing",
+"plays, porque lleva -s"
+],
+"correcta": 2,
+"porque": "Con *she* el verbo lleva -s en presente simple."
+},
+{
+"pregunta": "¿Cuál pregunta está bien?",
+"opciones": [
+"*Does she read books?*",
+"*Do she read books?*",
+"*Does she reads books?*"
+],
+"correcta": 0,
+"porque": "Con *she* se usa *does* y el verbo queda normal."
+},
+{
+"pregunta": "¿Qué significa *always*?",
+"opciones": [
+"nunca",
+"siempre",
+"ayer"
+],
+"correcta": 1,
+"porque": "*Always* te ayuda a reconocer el presente simple."
+},
+{
+"pregunta": "¿Para qué sirve el presente simple?",
+"opciones": [
+"Para decir lo que pasa ahora mismo",
+"Para decir lo que pasó ayer",
+"Para hablar de cosas que se repiten"
+],
+"correcta": 2,
+"porque": "Cuenta costumbres, como lo que haces cada día."
+}
+],
+"profesiones-en-ingles-primaria": [
+{
+"pregunta": "¿Qué significa *teacher*?",
+"opciones": [
+"cocinera o cocinero",
+"maestra o maestro",
+"doctora o doctor"
+],
+"correcta": 1,
+"porque": "*Teacher* es quien enseña."
+},
+{
+"pregunta": "Completa: *She is ___ nurse.*",
+"opciones": [
+"a, porque nurse empieza con consonante",
+"are, porque habla de varias personas",
+"an, porque se usa con vocales"
+],
+"correcta": 0,
+"porque": "Con profesiones se usa *a* antes de una palabra que empieza con consonante."
+},
+{
+"pregunta": "¿Cómo se dice policía en inglés?",
+"opciones": [
+"*driver*",
+"*police officer*",
+"*firefighter*"
+],
+"correcta": 1,
+"porque": "*Police officer* es policía."
+},
+{
+"pregunta": "En inglés se dice *He is a doctor* y *She is a doctor*. ¿Por qué no cambia?",
+"opciones": [
+"La palabra no cambia si es mujer o hombre",
+"Porque las mujeres no pueden ser doctoras",
+"Porque *doctor* solo se escribe de una forma en cada lugar del mundo"
+],
+"correcta": 0,
+"porque": "En inglés la profesión se dice igual."
+},
+{
+"pregunta": "¿Qué significa *What do you want to be?*",
+"opciones": [
+"¿Dónde quieres estar?",
+"¿Quién quieres que seas?",
+"¿Qué quieres ser?"
+],
+"correcta": 2,
+"porque": "Sirve para preguntar qué quieres ser de grande."
+}
+],
+"should-y-must-para-principiantes-primaria": [
+{
+"pregunta": "¿Cuál palabra sirve para dar un consejo?",
+"opciones": [
+"*must*",
+"*should*",
+"*mustn't*"
+],
+"correcta": 1,
+"porque": "*Should* aconseja; *must* obliga."
+},
+{
+"pregunta": "Un letrero dice que tienes que lavarte las manos. ¿Cuál frase es correcta?",
+"opciones": [
+"*You must wash your hands.*",
+"*You should washes your hands.*",
+"*You must to wash your hands.*"
+],
+"correcta": 0,
+"porque": "*Must* es una regla fuerte y el verbo queda normal."
+},
+{
+"pregunta": "¿Qué significa *You shouldn't eat too much candy*?",
+"opciones": [
+"Comiste muchos dulces ayer",
+"No deberías comer tantos dulces",
+"No debes comer ningún dulce nunca"
+],
+"correcta": 1,
+"porque": "*Shouldn't* es un consejo para no hacer algo."
+},
+{
+"pregunta": "Completa el consejo: *You ___ drink water.*",
+"opciones": [
+"should",
+"to should",
+"shoulds"
+],
+"correcta": 0,
+"porque": "*Should* aconseja y la acción no cambia."
+},
+{
+"pregunta": "¿Cuál es una regla fuerte?",
+"opciones": [
+"*You should rest.*",
+"*You must stop.*",
+"*You shouldn't run.*"
+],
+"correcta": 1,
+"porque": "*Must* es para algo que se debe hacer."
+}
+],
+"will-para-hablar-del-futuro-primaria": [
+{
+"pregunta": "¿Cómo dices «Nosotros bailaremos»?",
+"opciones": [
+"*We will dance.*",
+"*We wills dance.*",
+"*We will dances.*"
+],
+"correcta": 0,
+"porque": "Después de *will* la acción no cambia."
+},
+{
+"pregunta": "¿Cómo dices «Ella no vendrá»?",
+"opciones": [
+"*She won't come.*",
+"*She doesn't will come.*",
+"*She won't comes.*"
+],
+"correcta": 0,
+"porque": "*Won't* es la forma corta de decir que no."
+},
+{
+"pregunta": "¿Qué significa *Will you help me?*",
+"opciones": [
+"¿Me estás ayudando ahora mismo?",
+"¿Me ayudaste?",
+"¿Me ayudarás?"
+],
+"correcta": 2,
+"porque": "*Will* va primero en la pregunta del futuro."
+},
+{
+"pregunta": "¿Qué palabra te avisa que hablas del futuro?",
+"opciones": [
+"*right now*",
+"*yesterday*",
+"*tomorrow*"
+],
+"correcta": 2,
+"porque": "*Tomorrow* significa mañana."
+},
+{
+"pregunta": "¿Qué pasa con el verbo después de *will*?",
+"opciones": [
+"Se queda igual",
+"Lleva -ed al final",
+"Lleva -ing al final"
+],
+"correcta": 0,
+"porque": "Con *will* no le pones nada más al verbo."
+}
+],
+"antes-durante-despues-ciclos-festividades-primaria-1-2": [
+{
+"pregunta": "Terminó una posada en tu escuela. ¿Qué pasa después de la fiesta?",
+"opciones": [
+"Se recoge y se limpia el lugar",
+"Se compran los dulces y se prepara la piñata",
+"Todos bailan y cantan con la música"
+],
+"correcta": 0,
+"porque": "Después es cuando ya terminó todo."
+},
+{
+"pregunta": "En la escuela, ¿qué va antes de comer en el recreo?",
+"opciones": [
+"Volver al salón",
+"Lavarte las manos",
+"Tirar la basura"
+],
+"correcta": 1,
+"porque": "Antes de comer nos lavamos las manos."
+},
+{
+"pregunta": "Suena la música y todos bailan en la fiesta. ¿En qué momento está pasando?",
+"opciones": [
+"Después de la fiesta",
+"Antes de la fiesta",
+"Durante la fiesta"
+],
+"correcta": 2,
+"porque": "Durante es mientras algo sucede."
+},
+{
+"pregunta": "¿Cuál es un ciclo de la naturaleza?",
+"opciones": [
+"Un viaje que haces una sola vez",
+"Un juguete nuevo que te regalan",
+"El día y la noche"
+],
+"correcta": 2,
+"porque": "Un ciclo es algo que se repite."
+},
+{
+"pregunta": "Una fiesta de tu comunidad se repite. ¿Cuándo vuelve?",
+"opciones": [
+"Cada hora",
+"Cada año",
+"Solo una vez"
+],
+"correcta": 1,
+"porque": "Las fiestas se repiten cada año."
+}
+]
+}

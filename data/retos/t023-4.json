@@ -1,0 +1,522 @@
+{
+"revolucion-industrial-secundaria": [
+{
+"pregunta": "¿Dónde inició la Revolución industrial?",
+"opciones": [
+"En Japón",
+"En México",
+"En Gran Bretaña"
+],
+"correcta": 2,
+"porque": "Empezó ahí a fines del siglo XVIII."
+},
+{
+"pregunta": "¿Quién mejoró la máquina de vapor?",
+"opciones": [
+"Gandhi",
+"Napoleón",
+"James Watt"
+],
+"correcta": 2,
+"porque": "Su máquina movió fábricas y trenes."
+},
+{
+"pregunta": "¿Qué grupo nació con las fábricas?",
+"opciones": [
+"Los zares",
+"Los reyes",
+"Los obreros"
+],
+"correcta": 2,
+"porque": "Mucha gente dejó el campo para trabajar en fábricas."
+},
+{
+"pregunta": "¿Cuál fue un problema de aquella época?",
+"opciones": [
+"Falta de máquinas",
+"Trabajo infantil y jornadas largas",
+"Exceso de vacaciones"
+],
+"correcta": 1,
+"porque": "Los obreros trabajaban muchas horas, incluso los niños."
+},
+{
+"pregunta": "Si comparas cómo se hacía la ropa antes y después, ¿qué cambió?",
+"opciones": [
+"Las máquinas la hacen más rápido",
+"Ya no se usa",
+"Se hace más lento"
+],
+"correcta": 0,
+"porque": "Las fábricas producen mucho en poco tiempo."
+}
+],
+"revolucion-rusa-secundaria": [
+{
+"pregunta": "¿Quién dirigió a los bolcheviques en 1917?",
+"opciones": [
+"Lenin",
+"Mao",
+"Stalin"
+],
+"correcta": 0,
+"porque": "Lenin tomó el poder en octubre de 1917."
+},
+{
+"pregunta": "¿Qué zar cayó en la Revolución rusa?",
+"opciones": [
+"Napoleón",
+"Nicolás II",
+"Luis XVI"
+],
+"correcta": 1,
+"porque": "El zar cayó en febrero de 1917."
+},
+{
+"pregunta": "¿Qué país nació en 1922?",
+"opciones": [
+"Brasil",
+"Haití",
+"La URSS"
+],
+"correcta": 2,
+"porque": "Se formó tras la revolución."
+},
+{
+"pregunta": "¿Quién gobernó después de Lenin?",
+"opciones": [
+"Stalin",
+"Mandela",
+"Gorbachov"
+],
+"correcta": 0,
+"porque": "Stalin gobernó con mano dura."
+},
+{
+"pregunta": "Si comparas al zar con el nuevo gobierno, ¿qué cambió?",
+"opciones": [
+"Quién gobernaba al país",
+"El clima de todo el país",
+"El idioma que hablaban"
+],
+"correcta": 0,
+"porque": "Cambió quién mandaba en Rusia: del zar a un nuevo gobierno."
+}
+],
+"segunda-guerra-mundial-causas-secundaria": [
+{
+"pregunta": "¿Qué país invadió Alemania el 1 de septiembre de 1939?",
+"opciones": [
+"Francia",
+"España",
+"Polonia"
+],
+"correcta": 2,
+"porque": "Esa invasión inició la guerra."
+},
+{
+"pregunta": "¿Quiénes declararon la guerra a Alemania por esa invasión?",
+"opciones": [
+"China y Corea",
+"Francia y Reino Unido",
+"México y Cuba"
+],
+"correcta": 1,
+"porque": "Respondieron a la invasión de Polonia."
+},
+{
+"pregunta": "¿Qué organización fracasó en evitar la guerra?",
+"opciones": [
+"La ONU, que nació después",
+"La OTAN, creada en 1949",
+"La Liga de las Naciones"
+],
+"correcta": 2,
+"porque": "La Liga de las Naciones fracasó en evitar la guerra."
+},
+{
+"pregunta": "¿Cuál fue una causa de la guerra?",
+"opciones": [
+"El Internet",
+"La carrera espacial",
+"El fascismo y el nazismo"
+],
+"correcta": 2,
+"porque": "Estos movimientos buscaban expandirse."
+},
+{
+"pregunta": "Si haces un cuadro con las causas, ¿cuál escribes?",
+"opciones": [
+"La crisis de 1929",
+"El sismo de 1985",
+"El Milagro mexicano"
+],
+"correcta": 0,
+"porque": "La crisis dejó pobreza y enojo en muchos países."
+}
+],
+"segunda-guerra-mundial-desarrollo-secundaria": [
+{
+"pregunta": "¿Qué ataque hizo que Estados Unidos entrara a la guerra en 1941?",
+"opciones": [
+"Saigón",
+"La Bastilla",
+"Pearl Harbor"
+],
+"correcta": 2,
+"porque": "Japón atacó Pearl Harbor y Estados Unidos entró a la guerra."
+},
+{
+"pregunta": "¿Quiénes formaban el Eje?",
+"opciones": [
+"México y Cuba",
+"Alemania, Italia y Japón",
+"Reino Unido y Francia"
+],
+"correcta": 1,
+"porque": "Eran los países que peleaban contra los Aliados."
+},
+{
+"pregunta": "¿Qué escuadrón envió México?",
+"opciones": [
+"El Escuadrón 201",
+"El Escuadrón 1968",
+"El Escuadrón Zapata"
+],
+"correcta": 0,
+"porque": "México apoyó a los Aliados con pilotos."
+},
+{
+"pregunta": "¿Qué pasó en Normandía en 1944?",
+"opciones": [
+"Un sismo",
+"Un desembarco de los Aliados",
+"Un tratado de paz"
+],
+"correcta": 1,
+"porque": "Fue clave para liberar Europa."
+},
+{
+"pregunta": "Si haces una línea del tiempo de la guerra, ¿qué años pones?",
+"opciones": [
+"De 1914 a 1918",
+"De 1947 a 1991",
+"De 1939 a 1945"
+],
+"correcta": 2,
+"porque": "Esa guerra duró seis años."
+}
+],
+"simon-bolivar-y-jose-de-san-martin-secundaria": [
+{
+"pregunta": "¿Quién cruzó los Andes para liberar Chile?",
+"opciones": [
+"José de San Martín",
+"Napoleón",
+"Simón Bolívar"
+],
+"correcta": 0,
+"porque": "Su ejército cruzó las montañas."
+},
+{
+"pregunta": "¿Quién soñó con la Gran Colombia?",
+"opciones": [
+"Hidalgo",
+"Simón Bolívar",
+"San Martín"
+],
+"correcta": 1,
+"porque": "Quería unir países del norte de Sudamérica."
+},
+{
+"pregunta": "¿Dónde se reunieron los dos libertadores en 1822?",
+"opciones": [
+"En Dolores",
+"En Guayaquil",
+"En Versalles"
+],
+"correcta": 1,
+"porque": "Allí conversaron sobre cómo seguir."
+},
+{
+"pregunta": "¿Qué dos países liberó Bolívar?",
+"opciones": [
+"Argentina y Chile",
+"Venezuela y Colombia",
+"México y Cuba"
+],
+"correcta": 1,
+"porque": "Bolívar liberó el norte de Sudamérica."
+},
+{
+"pregunta": "Si ubicas en un mapa los países que liberaron, ¿dónde están?",
+"opciones": [
+"En Asia",
+"En Sudamérica",
+"En Europa"
+],
+"correcta": 1,
+"porque": "Son países de América del Sur."
+}
+],
+"sismo-de-1985-secundaria": [
+{
+"pregunta": "¿Qué magnitud tuvo el sismo de 1985?",
+"opciones": [
+"8.1",
+"5.0",
+"3.2"
+],
+"correcta": 0,
+"porque": "Fue un sismo muy fuerte."
+},
+{
+"pregunta": "¿Qué fecha ocurrió?",
+"opciones": [
+"2 de octubre de 1968",
+"1 de enero de 1994",
+"19 de septiembre de 1985"
+],
+"correcta": 2,
+"porque": "Por eso se hace simulacro cada año."
+},
+{
+"pregunta": "¿Qué se creó después del sismo?",
+"opciones": [
+"Protección Civil, para emergencias",
+"El Tratado de Libre Comercio",
+"El Ejército Zapatista de 1994"
+],
+"correcta": 0,
+"porque": "Después del sismo se creó Protección Civil."
+},
+{
+"pregunta": "¿Cómo ayudó la gente?",
+"opciones": [
+"Esperó sin hacer nada",
+"Organizó rescates",
+"Cerró las calles"
+],
+"correcta": 1,
+"porque": "Los vecinos se unieron para rescatar."
+},
+{
+"pregunta": "Si identificas las rutas de evacuación de tu escuela, ¿qué haces?",
+"opciones": [
+"Haces tarea",
+"Juegas en el patio",
+"Te preparas para un sismo"
+],
+"correcta": 2,
+"porque": "Saber cómo salir ayuda a salvarse."
+}
+],
+"tensiones-siglo-xx-historia-secundaria": [
+{
+"pregunta": "¿Qué años abarcó la Segunda Guerra Mundial?",
+"opciones": [
+"1910 a 1920",
+"1939 a 1945",
+"1914 a 1918"
+],
+"correcta": 1,
+"porque": "Duró seis años."
+},
+{
+"pregunta": "¿En qué año inició la Revolución Mexicana?",
+"opciones": [
+"1910",
+"1945",
+"1939"
+],
+"correcta": 0,
+"porque": "Empezó en 1910."
+},
+{
+"pregunta": "¿Qué organismo se creó en 1945 para buscar la paz?",
+"opciones": [
+"La ONU",
+"La URSS",
+"La OTAN"
+],
+"correcta": 0,
+"porque": "Nació al terminar la guerra."
+},
+{
+"pregunta": "¿Entre qué dos potencias se dio la Guerra Fría?",
+"opciones": [
+"Francia y Alemania",
+"Estados Unidos y la URSS",
+"México y Cuba"
+],
+"correcta": 1,
+"porque": "Fue una rivalidad mundial."
+},
+{
+"pregunta": "Si dibujas la línea del tiempo del siglo XX, ¿qué va primero?",
+"opciones": [
+"La ONU",
+"La Guerra Fría",
+"La Revolución Mexicana"
+],
+"correcta": 2,
+"porque": "Es el hecho más antiguo de la línea."
+}
+],
+"tratado-de-libre-comercio-secundaria": [
+{
+"pregunta": "¿Qué países firmaron el TLCAN?",
+"opciones": [
+"Francia y España",
+"México, Estados Unidos y Canadá",
+"México y Cuba"
+],
+"correcta": 1,
+"porque": "Fue un acuerdo de América del Norte."
+},
+{
+"pregunta": "¿Qué es un arancel?",
+"opciones": [
+"Un tipo de juego",
+"Un impuesto a mercancías",
+"Una fruta"
+],
+"correcta": 1,
+"porque": "El tratado los redujo."
+},
+{
+"pregunta": "¿Qué sustituyó al TLCAN en 2020?",
+"opciones": [
+"La OTAN",
+"El T-MEC",
+"La ONU"
+],
+"correcta": 1,
+"porque": "Es el nuevo tratado."
+},
+{
+"pregunta": "¿Qué sector resultó afectado?",
+"opciones": [
+"Las fábricas",
+"Las escuelas",
+"El campo"
+],
+"correcta": 2,
+"porque": "Muchos campesinos no pudieron competir."
+},
+{
+"pregunta": "Si buscas en tu casa productos de otro país, ¿qué ves?",
+"opciones": [
+"Los restos de una vieja guerra",
+"Los daños de un fuerte sismo",
+"Comercio entre países distintos"
+],
+"correcta": 2,
+"porque": "Los productos de otros países llegan por el comercio."
+}
+],
+"voto-de-las-mujeres-en-mexico-secundaria": [
+{
+"pregunta": "¿En qué año se reconoció el voto de las mujeres?",
+"opciones": [
+"1910",
+"1994",
+"1953"
+],
+"correcta": 2,
+"porque": "Se reconoció el 17 de octubre de 1953."
+},
+{
+"pregunta": "¿Cuándo votaron por primera vez a nivel federal?",
+"opciones": [
+"1955",
+"1923",
+"1968"
+],
+"correcta": 0,
+"porque": "Votaron en 1955."
+},
+{
+"pregunta": "¿Quién era presidente cuando se reconoció?",
+"opciones": [
+"Gustavo Díaz Ordaz",
+"Adolfo Ruiz Cortines",
+"Napoleón"
+],
+"correcta": 1,
+"porque": "Gobernó de 1952 a 1958."
+},
+{
+"pregunta": "¿Quién luchó por este derecho?",
+"opciones": [
+"Hermila Galindo",
+"Sor Juana",
+"Leona Vicario"
+],
+"correcta": 0,
+"porque": "Ella luchó por el voto femenino."
+},
+{
+"pregunta": "Si a una abuela le preguntas cuándo votó por primera vez, ¿qué aprendes?",
+"opciones": [
+"Cómo viajar",
+"Cómo cambió el derecho al voto",
+"Cómo se hace pan"
+],
+"correcta": 1,
+"porque": "Muchas votaron por primera vez en 1955."
+}
+],
+"adjetivos-posesivos-secundaria": [
+{
+"pregunta": "Completa: The cat likes ___ food.",
+"opciones": [
+"it's",
+"its",
+"their"
+],
+"correcta": 1,
+"porque": "Its es posesivo de it, y no lleva apóstrofo."
+},
+{
+"pregunta": "Completa: Maria loves ___ father.",
+"opciones": [
+"his",
+"her",
+"their"
+],
+"correcta": 1,
+"porque": "Her va con una mujer como dueña."
+},
+{
+"pregunta": "Elige: ___ going to school (they're / their).",
+"opciones": [
+"Their",
+"They're",
+"There"
+],
+"correcta": 1,
+"porque": "They're quiere decir they are."
+},
+{
+"pregunta": "Completa: We clean ___ classroom.",
+"opciones": [
+"my",
+"your",
+"our"
+],
+"correcta": 2,
+"porque": "Our se usa con we."
+},
+{
+"pregunta": "Completa: I forgot ___ pencil.",
+"opciones": [
+"my",
+"me",
+"mine"
+],
+"correcta": 0,
+"porque": "My va antes del sustantivo."
+}
+]
+}

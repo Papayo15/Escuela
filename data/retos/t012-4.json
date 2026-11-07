@@ -1,0 +1,418 @@
+{
+"territorio-entidad-localizacion-primaria": [
+{
+"pregunta": "¿Qué es tu entidad?",
+"opciones": [
+"El nombre de tu calle y tu número",
+"El país vecino del norte de México",
+"El estado donde vives"
+],
+"correcta": 2,
+"porque": "Tu entidad es el estado donde vives y tiene límites, municipios y capital."
+},
+{
+"pregunta": "¿De cuántas entidades se forma México?",
+"opciones": [
+"21 entre estados y municipios",
+"31, sin contar a la Ciudad de México",
+"32, contando la Ciudad de México"
+],
+"correcta": 2,
+"porque": "México tiene 31 estados y la Ciudad de México, o sea 32."
+},
+{
+"pregunta": "En un mapa, ¿qué queda a la izquierda?",
+"opciones": [
+"El este",
+"El sur, donde termina el mapa",
+"El oeste"
+],
+"correcta": 2,
+"porque": "En un mapa, arriba está el norte y a la izquierda el oeste."
+},
+{
+"pregunta": "Quieres describir tu entidad. ¿Qué puedes decir?",
+"opciones": [
+"Su relieve, su clima y sus ríos",
+"Cuántas tareas dejan en tu escuela",
+"Cuántos juguetes hay en cada casa"
+],
+"correcta": 0,
+"porque": "Para describirla usas relieve, clima, ríos y actividades de la gente."
+},
+{
+"pregunta": "Tu estado queda arriba de otro en el mapa. ¿Cómo está respecto a él?",
+"opciones": [
+"Al norte",
+"Al sur",
+"Al oeste, justo del lado izquierdo del otro"
+],
+"correcta": 0,
+"porque": "Arriba en el mapa está el norte."
+}
+],
+"toltecas-primaria": [
+{
+"pregunta": "¿Cuál fue la capital de los toltecas?",
+"opciones": [
+"Tula, en el estado de Hidalgo",
+"Monte Albán, en Oaxaca",
+"Tenochtitlan, en un lago"
+],
+"correcta": 0,
+"porque": "La capital de los toltecas fue Tula, en Hidalgo."
+},
+{
+"pregunta": "¿Qué son los atlantes de Tula?",
+"opciones": [
+"Guerreros de piedra",
+"Ciudades flotantes en el lago",
+"Barcos de madera de los frailes"
+],
+"correcta": 0,
+"porque": "Los atlantes son guerreros de piedra en Tula."
+},
+{
+"pregunta": "¿A qué dios veneraban los toltecas?",
+"opciones": [
+"A Quetzalcóatl",
+"Al jaguar de los olmecas",
+"A la Virgen de Guadalupe, venerada en el Tepeyac"
+],
+"correcta": 0,
+"porque": "Los toltecas tenían culto a Quetzalcóatl."
+},
+{
+"pregunta": "¿En qué estado está Tula?",
+"opciones": [
+"Hidalgo",
+"Veracruz, que está en el golfo de México",
+"Oaxaca"
+],
+"correcta": 0,
+"porque": "Tula, la capital tolteca, está en Hidalgo."
+},
+{
+"pregunta": "Quieres dibujar un atlante. ¿Qué dibujas?",
+"opciones": [
+"Una chinampa con flores",
+"Un guerrero de piedra",
+"Un barco con velas grandes"
+],
+"correcta": 1,
+"porque": "Los atlantes de Tula son guerreros hechos de piedra."
+}
+],
+"valoracion-ecosistemas-territorio-primaria": [
+{
+"pregunta": "¿Qué es un ecosistema?",
+"opciones": [
+"Solo un grupo de piedras en el campo",
+"Seres vivos y su ambiente",
+"Una casa con muchos cuartos grandes"
+],
+"correcta": 1,
+"porque": "Un ecosistema son seres vivos y su ambiente."
+},
+{
+"pregunta": "¿Qué nos da un ecosistema?",
+"opciones": [
+"Agua, aire y comida",
+"Solo computadoras y teléfonos celulares",
+"Solo juguetes y ropa nueva"
+],
+"correcta": 0,
+"porque": "Los ecosistemas nos dan agua, aire y comida."
+},
+{
+"pregunta": "¿Qué es un territorio?",
+"opciones": [
+"Un animal que vive en el río",
+"Un tipo de planta que da frutos",
+"El espacio donde vive una comunidad"
+],
+"correcta": 2,
+"porque": "El territorio es el espacio donde vive una comunidad."
+},
+{
+"pregunta": "¿Cuál es un ser sin vida de un ecosistema?",
+"opciones": [
+"El suelo",
+"El conejo",
+"El árbol que da sombra en la escuela"
+],
+"correcta": 0,
+"porque": "Suelo, aire y agua no tienen vida; árbol y conejo sí."
+},
+{
+"pregunta": "Quieres cuidar el ecosistema de tu comunidad. ¿Qué acción sirve?",
+"opciones": [
+"Gastar todo el agua sin pensar",
+"Tirar basura en el campo",
+"Usar con cuidado y devolver"
+],
+"correcta": 2,
+"porque": "Observar, usar con cuidado y devolver ayuda a preservar."
+}
+],
+"vida-cotidiana-prehispanica-colonia-primaria": [
+{
+"pregunta": "¿Qué es la vida cotidiana?",
+"opciones": [
+"Una fiesta que ocurre una vez al año",
+"Lo que la gente hace cada día",
+"Una guerra entre dos pueblos antiguos"
+],
+"correcta": 1,
+"porque": "La vida cotidiana es lo que la gente hace cada día."
+},
+{
+"pregunta": "¿Cuál de estos alimentos ya existía antes de los europeos?",
+"opciones": [
+"El maíz",
+"El trigo",
+"La carne de res de las haciendas"
+],
+"correcta": 0,
+"porque": "El maíz ya existía; el trigo llegó con los españoles."
+},
+{
+"pregunta": "¿Qué llegó con la Colonia?",
+"opciones": [
+"La pirámide",
+"El caballo",
+"La milpa con calabaza y frijol"
+],
+"correcta": 1,
+"porque": "En la Colonia llegaron el trigo, el caballo y la Iglesia."
+},
+{
+"pregunta": "¿Qué había antes de la Conquista en las ciudades?",
+"opciones": [
+"Trenes y carreteras",
+"Mercados y templos",
+"Fábricas con máquinas de vapor"
+],
+"correcta": 1,
+"porque": "Antes de la Conquista había milpa, mercados y templos."
+},
+{
+"pregunta": "Comparas el día de un niño mexica con el tuyo. ¿Qué haces?",
+"opciones": [
+"Escribo solo lo que no me gusta de él",
+"Digo que todo es igual sin mirar",
+"Busco qué es igual y qué cambió"
+],
+"correcta": 2,
+"porque": "Comparar ayuda a ver cómo vivía la gente antes y ahora."
+}
+],
+"virreinato-de-la-nueva-espana-primaria": [
+{
+"pregunta": "¿Qué era el virrey?",
+"opciones": [
+"El representante del rey",
+"Un soldado de Tenochtitlan",
+"Un maestro de las escuelas de frailes"
+],
+"correcta": 0,
+"porque": "El virrey representaba al rey de España en la Nueva España."
+},
+{
+"pregunta": "¿Quién fue el primer virrey de la Nueva España?",
+"opciones": [
+"Moctezuma, el tlatoani mexica",
+"Hernán Cortés, el conquistador",
+"Antonio de Mendoza, el primero"
+],
+"correcta": 2,
+"porque": "Antonio de Mendoza fue el primer virrey."
+},
+{
+"pregunta": "¿Cuál fue la capital de la Nueva España?",
+"opciones": [
+"Veracruz, el puerto principal",
+"Acapulco, el puerto de Asia",
+"La Ciudad de México"
+],
+"correcta": 2,
+"porque": "La capital fue la Ciudad de México."
+},
+{
+"pregunta": "¿Quién gobernaba la Nueva España en nombre del rey?",
+"opciones": [
+"El presidente",
+"El tlatoani",
+"El virrey"
+],
+"correcta": 2,
+"porque": "El virrey representaba al rey de España."
+},
+{
+"pregunta": "Dibujas quién mandaba en la Nueva España. ¿Cuál orden va de arriba hacia abajo?",
+"opciones": [
+"Rey, virrey y ayuntamientos",
+"Virrey, ayuntamientos y rey",
+"Ayuntamientos, virrey y rey"
+],
+"correcta": 0,
+"porque": "El rey estaba arriba, el virrey lo representaba y los ayuntamientos gobernaban lo local."
+}
+],
+"zapotecas-y-mixtecos-primaria": [
+{
+"pregunta": "¿Cuál fue la capital zapoteca?",
+"opciones": [
+"Mitla, famosa por sus grecas de piedra",
+"Tula",
+"Monte Albán"
+],
+"correcta": 2,
+"porque": "Monte Albán fue la capital de los zapotecas."
+},
+{
+"pregunta": "¿En qué estado vivieron los zapotecas y mixtecos?",
+"opciones": [
+"Yucatán",
+"Oaxaca",
+"Veracruz, en la costa del golfo"
+],
+"correcta": 1,
+"porque": "Estos pueblos vivieron en la región de Oaxaca."
+},
+{
+"pregunta": "¿Qué trabajo destacaba en los mixtecos?",
+"opciones": [
+"La construcción de chinampas",
+"La pesca con redes grandes",
+"La orfebrería de oro"
+],
+"correcta": 2,
+"porque": "Los mixtecos eran excelentes orfebres y trabajaron oro."
+},
+{
+"pregunta": "¿Qué destaca de Mitla?",
+"opciones": [
+"Sus grecas de piedra",
+"Sus cabezas colosales",
+"Sus pirámides del Sol y de la Luna"
+],
+"correcta": 0,
+"porque": "Mitla destaca por las grecas de piedra."
+},
+{
+"pregunta": "¿Siguen vivas las lenguas de estos pueblos?",
+"opciones": [
+"Solo se guardan en museos y no se hablan",
+"No, ya nadie las habla",
+"Sí, hoy se siguen hablando"
+],
+"correcta": 2,
+"porque": "Las lenguas zapoteca y mixteca siguen vivas hoy."
+}
+],
+"agustin-de-iturbide-y-la-consumacion-primaria": [
+{
+"pregunta": "¿Qué plan se firmó en 1821?",
+"opciones": [
+"El Plan de Ayala",
+"El Plan de Veracruz y Acapulco",
+"El Plan de Iguala"
+],
+"correcta": 2,
+"porque": "Iturbide impulsó el Plan de Iguala en 1821."
+},
+{
+"pregunta": "¿Cuáles eran las tres garantías?",
+"opciones": [
+"Rey, virrey y Audiencia",
+"Plata, tierra y comercio",
+"Religión, independencia y unión"
+],
+"correcta": 2,
+"porque": "Las tres garantías fueron religión, independencia y unión."
+},
+{
+"pregunta": "¿Cómo se llamó el ejército que unió a realistas e insurgentes?",
+"opciones": [
+"Ejército de los toltecas de Tula",
+"Ejército Trigarante",
+"Ejército de los chichimecas"
+],
+"correcta": 1,
+"porque": "El Trigarante unió a realistas e insurgentes."
+},
+{
+"pregunta": "¿Qué reconocieron los Tratados de Córdoba?",
+"opciones": [
+"La llegada de Cortés a Veracruz",
+"El poder del virrey",
+"La independencia de México"
+],
+"correcta": 2,
+"porque": "Con los Tratados de Córdoba, España reconocía la independencia."
+},
+{
+"pregunta": "¿Qué día de 1821 entró el Ejército Trigarante a la Ciudad de México?",
+"opciones": [
+"5 de mayo",
+"16 de septiembre",
+"27 de septiembre"
+],
+"correcta": 2,
+"porque": "Ese día de 1821 se consumó la Independencia."
+}
+],
+"alvaro-obregon-y-plutarco-elias-calles-primaria": [
+{
+"pregunta": "¿Quién creó la SEP en 1921?",
+"opciones": [
+"José Vasconcelos",
+"Plutarco Elías Calles",
+"Agustín de Iturbide, que vivió antes"
+],
+"correcta": 0,
+"porque": "Vasconcelos impulsó la educación y creó la SEP en 1921."
+},
+{
+"pregunta": "¿Qué banco creó Calles en 1925?",
+"opciones": [
+"El Banco de la Plata",
+"El Banco de Veracruz de Acapulco",
+"El Banco de México"
+],
+"correcta": 2,
+"porque": "Calles creó el Banco de México en 1925."
+},
+{
+"pregunta": "¿Qué partido fundó Calles en 1929?",
+"opciones": [
+"El PAN",
+"El Partido de los Virreyes",
+"El PNR"
+],
+"correcta": 2,
+"porque": "Calles fundó el PNR en 1929."
+},
+{
+"pregunta": "¿Qué le pasó a Obregón en 1928?",
+"opciones": [
+"Fue asesinado",
+"Fundó el Banco de México",
+"Fue nombrado virrey"
+],
+"correcta": 0,
+"porque": "Obregón fue asesinado en 1928, recién reelecto."
+},
+{
+"pregunta": "Haces un cuadro para comparar a los dos presidentes. ¿Quién gobernó de 1924 a 1928?",
+"opciones": [
+"Calles",
+"Vasconcelos, que creó la SEP",
+"Obregón"
+],
+"correcta": 0,
+"porque": "Calles gobernó de 1924 a 1928 y Obregón de 1920 a 1924."
+}
+]
+}

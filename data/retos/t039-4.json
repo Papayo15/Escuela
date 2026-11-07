@@ -1,0 +1,522 @@
+{
+"curriculum-y-entrevista-en-ingles-prepa": [
+{
+"pregunta": "¿Qué sección del CV lleva tus idiomas?",
+"opciones": [
+"Languages",
+"Education",
+"Experience"
+],
+"correcta": 0,
+"porque": "*Languages* es la parte donde escribes los idiomas que hablas."
+},
+{
+"pregunta": "¿Qué significa *Experience* en un CV?",
+"opciones": [
+"educación",
+"habilidades",
+"experiencia"
+],
+"correcta": 2,
+"porque": "*Experience* es lo que ya hiciste, como un trabajo o un voluntariado."
+},
+{
+"pregunta": "Al terminar la entrevista, ¿qué dices?",
+"opciones": [
+"I want it today.",
+"Please wait for me now.",
+"Thank you for your time."
+],
+"correcta": 2,
+"porque": "Es una forma cortés de despedirte y dar las gracias."
+},
+{
+"pregunta": "Te preguntan tus fortalezas. ¿Qué respondes?",
+"opciones": [
+"I am from Mexico City.",
+"I am seventeen years old.",
+"I am responsible and organized."
+],
+"correcta": 2,
+"porque": "*Strengths* son tus cualidades, como ser responsable."
+},
+{
+"pregunta": "¿Qué verbo fuerte puedes usar para un CV?",
+"opciones": [
+"was nice",
+"it is",
+"organized"
+],
+"correcta": 2,
+"porque": "*Organized* muestra algo que hiciste, como organizar un evento."
+}
+],
+"dar-tu-opinion-en-ingles-prepa": [
+{
+"pregunta": "¿Cuál frase da una opinión?",
+"opciones": [
+"Good morning, class.",
+"In my opinion, it is useful.",
+"Thank you for your time."
+],
+"correcta": 1,
+"porque": "*In my opinion* sirve para dar tu punto de vista."
+},
+{
+"pregunta": "¿Cómo muestras desacuerdo con respeto?",
+"opciones": [
+"I see your point, but I disagree.",
+"You are wrong, period.",
+"That is a silly idea."
+],
+"correcta": 0,
+"porque": "Primero reconoces la idea del otro y luego explicas tu punto."
+},
+{
+"pregunta": "Completa: *I think ___ homework helps us learn.*",
+"opciones": [
+"that",
+"which",
+"what"
+],
+"correcta": 0,
+"porque": "*I think that* introduce tu opinión."
+},
+{
+"pregunta": "¿Qué palabra introduce un ejemplo?",
+"opciones": [
+"for example",
+"however",
+"in conclusion"
+],
+"correcta": 0,
+"porque": "*For example* sirve para dar un caso que apoye tu idea."
+},
+{
+"pregunta": "Corrige: *She are agree with me.*",
+"opciones": [
+"She is agree with me.",
+"She agree with me.",
+"She agrees with me."
+],
+"correcta": 2,
+"porque": "*Agree* es un verbo, así que no lleva *to be*, y con *she* lleva -s."
+}
+],
+"ensayo-corto-en-ingles-prepa": [
+{
+"pregunta": "¿Dónde va la *thesis* en un ensayo?",
+"opciones": [
+"En la conclusión",
+"En la introducción",
+"En el título"
+],
+"correcta": 1,
+"porque": "La *thesis* es tu idea principal y abre el ensayo."
+},
+{
+"pregunta": "¿Qué hace la conclusión?",
+"opciones": [
+"Da un ejemplo extra",
+"Presenta un tema nuevo",
+"Repite tu idea con otras palabras"
+],
+"correcta": 2,
+"porque": "La conclusión cierra el ensayo recordando la idea principal."
+},
+{
+"pregunta": "¿Cuántos párrafos tiene el ensayo corto modelo?",
+"opciones": [
+"Siete",
+"Tres",
+"Cinco"
+],
+"correcta": 2,
+"porque": "El modelo tiene introducción, tres de desarrollo y conclusión."
+},
+{
+"pregunta": "¿Qué palabra sirve para sumar otra razón?",
+"opciones": [
+"In conclusion",
+"In addition",
+"However"
+],
+"correcta": 1,
+"porque": "*In addition* significa además y añade una razón."
+},
+{
+"pregunta": "¿Qué lleva cada párrafo de desarrollo?",
+"opciones": [
+"Tres ideas distintas",
+"Solo un título",
+"Una razón con ejemplo"
+],
+"correcta": 2,
+"porque": "Cada párrafo de desarrollo apoya la *thesis* con una razón y un ejemplo."
+}
+],
+"jovenes-agentes-cambio-opinion-ingles": [
+{
+"pregunta": "Completa: *We could ___ a clean-up day.*",
+"opciones": [
+"organizes",
+"organize",
+"organizing"
+],
+"correcta": 1,
+"porque": "Después de *could* va el verbo base: organize."
+},
+{
+"pregunta": "Completa: *I'm worried ___ pollution.*",
+"opciones": [
+"with",
+"about",
+"from"
+],
+"correcta": 1,
+"porque": "El adjetivo *worried* va con *about*."
+},
+{
+"pregunta": "¿Qué frase propone una acción?",
+"opciones": [
+"I am tired today.",
+"It was sunny.",
+"We could plant trees."
+],
+"correcta": 2,
+"porque": "*We could* sirve para hacer una propuesta."
+},
+{
+"pregunta": "Estás en desacuerdo con un compañero. ¿Qué dices?",
+"opciones": [
+"Nobody likes you.",
+"I see your point, but...",
+"That's a dumb idea."
+],
+"correcta": 1,
+"porque": "Se escucha al otro y se opina sin atacar."
+},
+{
+"pregunta": "¿Qué estructura sigue una buena opinión?",
+"opciones": [
+"ejemplo, grito, razón",
+"opinión, razón, ejemplo",
+"título, nombre, fecha"
+],
+"correcta": 1,
+"porque": "Dices tu idea, por qué la piensas y un caso real."
+}
+],
+"modismos-comunes-en-ingles-prepa": [
+{
+"pregunta": "¿Qué significa *call it a day*?",
+"opciones": [
+"llamar a alguien",
+"terminar por hoy",
+"pedir un día libre"
+],
+"correcta": 1,
+"porque": "Es un modismo que significa dejar de trabajar por ahora."
+},
+{
+"pregunta": "¿Qué significa *once in a blue moon*?",
+"opciones": [
+"todos los meses",
+"cada noche",
+"casi nunca"
+],
+"correcta": 2,
+"porque": "Se usa para algo que pasa muy pocas veces."
+},
+{
+"pregunta": "Estás enfermo. ¿Qué modismo dices?",
+"opciones": [
+"I'm under the weather.",
+"I'm hitting the books.",
+"I'm a piece of cake."
+],
+"correcta": 0,
+"porque": "*Under the weather* significa sentirse mal."
+},
+{
+"pregunta": "¿Qué significa *it's raining cats and dogs*?",
+"opciones": [
+"hace frío",
+"llueve mucho",
+"hay gatos y perros"
+],
+"correcta": 1,
+"porque": "Es un modismo y no habla de animales."
+},
+{
+"pregunta": "¿Por qué no traduces un modismo palabra por palabra?",
+"opciones": [
+"Cambia de significado",
+"Es muy corto",
+"Es solo para niños"
+],
+"correcta": 0,
+"porque": "Sus palabras no dicen lo que de verdad quiere decir."
+}
+],
+"prefijos-y-sufijos-en-ingles-prepa": [
+{
+"pregunta": "¿Qué significa *misunderstand*?",
+"opciones": [
+"entender otra vez",
+"entender mal",
+"entender mucho"
+],
+"correcta": 1,
+"porque": "El prefijo *mis-* significa mal."
+},
+{
+"pregunta": "¿Qué significa *careful*?",
+"opciones": [
+"cuidar otra vez",
+"con cuidado",
+"sin cuidado"
+],
+"correcta": 1,
+"porque": "El sufijo *-ful* significa con."
+},
+{
+"pregunta": "Forma una palabra con *un-* para *kind*.",
+"opciones": [
+"kindless",
+"unkind",
+"kindful"
+],
+"correcta": 1,
+"porque": "El prefijo *un-* cambia la palabra a no amable."
+},
+{
+"pregunta": "¿Qué sufijo forma una persona de *work*?",
+"opciones": [
+"-er",
+"-ness",
+"-less"
+],
+"correcta": 0,
+"porque": "Con *-er*, *work* se vuelve *worker*, quien trabaja."
+},
+{
+"pregunta": "¿Qué significa *happiness*?",
+"opciones": [
+"feliz",
+"infelicidad",
+"felicidad"
+],
+"correcta": 2,
+"porque": "El sufijo *-ness* forma una cualidad: felicidad."
+}
+],
+"prepararte-para-un-examen-de-ingles-prepa": [
+{
+"pregunta": "¿Qué nivel es más bajo?",
+"opciones": [
+"A1",
+"B2",
+"C1"
+],
+"correcta": 0,
+"porque": "Los niveles van de menor a mayor, y A1 es el primero."
+},
+{
+"pregunta": "¿Cuál es una parte de un examen de inglés?",
+"opciones": [
+"Drawing",
+"Listening",
+"Cooking"
+],
+"correcta": 1,
+"porque": "*Listening* es la parte de escuchar."
+},
+{
+"pregunta": "¿Cuál es un examen conocido?",
+"opciones": [
+"TOEFL",
+"ENG-MX",
+"SEP-ING"
+],
+"correcta": 0,
+"porque": "*TOEFL* es un examen reconocido, igual que IELTS."
+},
+{
+"pregunta": "¿Qué haces primero en el plan de estudio?",
+"opciones": [
+"Memorizar todo",
+"Dejarlo para el final",
+"Un examen de práctica"
+],
+"correcta": 2,
+"porque": "Así descubres tu parte más débil."
+},
+{
+"pregunta": "¿Qué nivel dice que te defiendes en viajes?",
+"opciones": [
+"C2",
+"B1",
+"A1"
+],
+"correcta": 1,
+"porque": "B1 significa que te defiendes en viajes y pláticas sencillas."
+}
+],
+"procesos-sistemas-ingles-quinto-semestre": [
+{
+"pregunta": "¿Qué palabra marca el último paso?",
+"opciones": [
+"Finally",
+"First",
+"Next"
+],
+"correcta": 0,
+"porque": "*Finally* significa por último."
+},
+{
+"pregunta": "¿Cuál pregunta pide el propósito de algo?",
+"opciones": [
+"Where is it used?",
+"Who is it used?",
+"What is it used for?"
+],
+"correcta": 2,
+"porque": "*What is it used for?* pregunta para qué sirve."
+},
+{
+"pregunta": "Pasa a pasiva: *Students clean the classroom.*",
+"opciones": [
+"The classroom is cleaned.",
+"The classroom is clean.",
+"The classroom cleans."
+],
+"correcta": 0,
+"porque": "La pasiva usa *to be* más participio: is cleaned."
+},
+{
+"pregunta": "Completa: *___, the water is heated.* (primero)",
+"opciones": [
+"Finally",
+"First",
+"However"
+],
+"correcta": 1,
+"porque": "*First* abre la lista de pasos del proceso."
+},
+{
+"pregunta": "¿Qué tiempo usas para explicar un proceso?",
+"opciones": [
+"presente simple",
+"futuro con going to",
+"pasado simple"
+],
+"correcta": 0,
+"porque": "Los procesos se explican en presente simple."
+}
+],
+"adverbios-de-frecuencia-prepa": [
+{
+"pregunta": "Ordena: *always / early / she / arrives*",
+"opciones": [
+"She always arrives early.",
+"She arrives always early.",
+"Always she arrives early."
+],
+"correcta": 0,
+"porque": "El adverbio va antes del verbo."
+},
+{
+"pregunta": "Ordena: *is / tired / usually / he*",
+"opciones": [
+"He usually is tired.",
+"Usually he tired is.",
+"He is usually tired."
+],
+"correcta": 2,
+"porque": "Con *to be* el adverbio va después: is usually."
+},
+{
+"pregunta": "¿Qué adverbio significa 0 %?",
+"opciones": [
+"rarely",
+"never",
+"sometimes"
+],
+"correcta": 1,
+"porque": "*Never* significa nunca."
+},
+{
+"pregunta": "Completa: *How ___ do you read?*",
+"opciones": [
+"much",
+"long",
+"often"
+],
+"correcta": 2,
+"porque": "*How often* pregunta cada cuánto haces algo."
+},
+{
+"pregunta": "¿Qué significa *usually*?",
+"opciones": [
+"casi siempre",
+"a veces",
+"casi nunca"
+],
+"correcta": 0,
+"porque": "*Usually* es una frecuencia alta, cerca del 80 %."
+}
+],
+"can-habilidades-permisos-prepa": [
+{
+"pregunta": "Completa: *She can ___ very fast.*",
+"opciones": [
+"run",
+"to run",
+"runs"
+],
+"correcta": 0,
+"porque": "Después de *can* va el verbo base."
+},
+{
+"pregunta": "¿Cómo pides permiso con cortesía?",
+"opciones": [
+"Do I can your pen?",
+"Can I to use your pen?",
+"Could I use your pen?"
+],
+"correcta": 2,
+"porque": "*Could* es más cortés que *can* para pedir permiso."
+},
+{
+"pregunta": "Responde: *Can you swim?* (no sabes)",
+"opciones": [
+"No, I cannot to.",
+"No, I don't can.",
+"No, I can't."
+],
+"correcta": 2,
+"porque": "La respuesta corta usa *can't*."
+},
+{
+"pregunta": "¿Qué significa *You can't run here*?",
+"opciones": [
+"Corres muy rápido",
+"No está permitido correr aquí",
+"Puedes correr aquí"
+],
+"correcta": 1,
+"porque": "*Can't* también dice lo que no está permitido."
+},
+{
+"pregunta": "Corrige: *He cans play chess.*",
+"opciones": [
+"He can plays chess.",
+"He can play chess.",
+"He cans plays chess."
+],
+"correcta": 1,
+"porque": "*Can* no cambia en tercera persona ni se le agrega -s."
+}
+]
+}

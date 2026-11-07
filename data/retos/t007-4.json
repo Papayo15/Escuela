@@ -1,0 +1,418 @@
+{
+"fuerzas-calor-efectos-primaria": [
+{
+"pregunta": "¿Qué es el calor?",
+"opciones": [
+"Energía que pasa de lo caliente a lo frío",
+"Un color que tienen las cosas",
+"Una fuerza que empuja objetos pesados"
+],
+"correcta": 0,
+"porque": "El calor pasa del cuerpo más caliente al más frío."
+},
+{
+"pregunta": "¿Qué efecto tiene el calor en el metal?",
+"opciones": [
+"Se vuelve más frío siempre",
+"Se hace mucho más pequeño",
+"Crece un poquito"
+],
+"correcta": 2,
+"porque": "Con calor el metal se dilata un poco."
+},
+{
+"pregunta": "¿Para qué se dejan espacios entre los rieles del tren?",
+"opciones": [
+"Para ahorrar metal en la obra",
+"Para que el metal crezca con el calor",
+"Para que pase el aire entre ellos"
+],
+"correcta": 1,
+"porque": "Sin esos espacios, los rieles se doblarían."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de fuerza que mueve algo?",
+"opciones": [
+"Patear una pelota",
+"Dejar un hielo al sol",
+"Mirar una pelota quieta"
+],
+"correcta": 0,
+"porque": "Patear empuja la pelota y la mueve."
+},
+{
+"pregunta": "Un helado se derrite en tu mano. ¿Qué lo causa?",
+"opciones": [
+"El calor de tu mano",
+"El frío del aire de fuera",
+"Una fuerza que lo aprieta"
+],
+"correcta": 0,
+"porque": "El calor pasa de lo caliente a lo frío y derrite el helado."
+}
+],
+"herbivoros-carnivoros-y-omnivoros-primaria": [
+{
+"pregunta": "¿Qué come un herbívoro?",
+"opciones": [
+"Plantas y carne",
+"Carne",
+"Plantas"
+],
+"correcta": 2,
+"porque": "Herbívoro significa que come plantas."
+},
+{
+"pregunta": "¿Cuál animal es carnívoro?",
+"opciones": [
+"La vaca",
+"El león",
+"El conejo"
+],
+"correcta": 1,
+"porque": "El león se alimenta de carne."
+},
+{
+"pregunta": "¿Cuál animal es omnívoro?",
+"opciones": [
+"El águila",
+"La vaca",
+"El oso"
+],
+"correcta": 2,
+"porque": "El oso come plantas y carne."
+},
+{
+"pregunta": "¿Qué indican las muelas planas?",
+"opciones": [
+"Que el animal corta carne",
+"Que el animal mastica plantas",
+"Que el animal vive en el agua"
+],
+"correcta": 1,
+"porque": "Las muelas planas sirven para masticar plantas."
+},
+{
+"pregunta": "En una granja hay vaca, gallina y perro. ¿Cuál come plantas casi siempre?",
+"opciones": [
+"El perro",
+"El perro y la gallina",
+"La vaca"
+],
+"correcta": 2,
+"porque": "La vaca es herbívora y come pasto."
+}
+],
+"huesos-principales-primaria": [
+{
+"pregunta": "¿Qué protegen las costillas?",
+"opciones": [
+"El corazón y los pulmones",
+"Las piernas y los brazos",
+"El cerebro"
+],
+"correcta": 0,
+"porque": "Las costillas forman una jaula."
+},
+{
+"pregunta": "¿Qué hueso protege el cerebro?",
+"opciones": [
+"El cráneo",
+"La pelvis",
+"El fémur"
+],
+"correcta": 0,
+"porque": "El cráneo cubre el cerebro."
+},
+{
+"pregunta": "¿Dónde está el fémur?",
+"opciones": [
+"En el muslo",
+"En el brazo",
+"En la espalda"
+],
+"correcta": 0,
+"porque": "El fémur es el hueso más largo del cuerpo."
+},
+{
+"pregunta": "¿Cuántos huesos tiene un adulto?",
+"opciones": [
+"100",
+"600",
+"206"
+],
+"correcta": 2,
+"porque": "Un esqueleto adulto tiene 206 huesos."
+},
+{
+"pregunta": "¿Qué son las articulaciones?",
+"opciones": [
+"Huesos que protegen el cerebro",
+"Lugares donde se unen los huesos",
+"Músculos del brazo"
+],
+"correcta": 1,
+"porque": "La rodilla y el codo son articulaciones."
+}
+],
+"impacto-actividades-humanas-primaria": [
+{
+"pregunta": "¿Qué pasa cuando talan muchos árboles?",
+"opciones": [
+"Salen más frutas",
+"Hay más aire limpio",
+"Los animales se quedan sin casa"
+],
+"correcta": 2,
+"porque": "Los animales viven en los árboles."
+},
+{
+"pregunta": "¿Qué puede causar el agua sucia?",
+"opciones": [
+"Más energía",
+"Más aire limpio",
+"Enfermedades"
+],
+"correcta": 2,
+"porque": "El agua sucia enferma a las personas."
+},
+{
+"pregunta": "¿Qué daña el humo en tus pulmones?",
+"opciones": [
+"Los hace más fuertes",
+"Les da más aire fresco",
+"Causa tos y asma"
+],
+"correcta": 2,
+"porque": "El aire sucio es malo para respirar."
+},
+{
+"pregunta": "¿Qué significan las 3 R?",
+"opciones": [
+"Rápido, ruidoso y rojo",
+"Regala, rompe y repite",
+"Reduce, reutiliza y recicla"
+],
+"correcta": 2,
+"porque": "Son tres acciones para cuidar la naturaleza."
+},
+{
+"pregunta": "Quieres cuidar el planeta en tu salón. ¿Qué haces?",
+"opciones": [
+"Separo la basura",
+"Uso más papel sin necesidad",
+"Tiro la basura en el patio"
+],
+"correcta": 0,
+"porque": "Separar la basura ayuda a reciclar."
+}
+],
+"masa-longitud-estados-fisicos-primaria": [
+{
+"pregunta": "¿Qué instrumento mide la masa?",
+"opciones": [
+"El termómetro",
+"La regla",
+"La balanza"
+],
+"correcta": 2,
+"porque": "La balanza dice cuánta materia hay."
+},
+{
+"pregunta": "¿Cuántos gramos son 2 kg?",
+"opciones": [
+"2000 g",
+"20 g",
+"200 g"
+],
+"correcta": 0,
+"porque": "Cada kilo tiene 1000 g."
+},
+{
+"pregunta": "¿A cuántos centímetros equivale 1 m?",
+"opciones": [
+"10 cm",
+"1000 cm",
+"100 cm"
+],
+"correcta": 2,
+"porque": "Un metro tiene 100 centímetros."
+},
+{
+"pregunta": "¿A qué temperatura hierve el agua?",
+"opciones": [
+"0 °C",
+"50 °C",
+"100 °C"
+],
+"correcta": 2,
+"porque": "El agua hierve a 100 grados Celsius."
+},
+{
+"pregunta": "Mides tu mesa con una regla. ¿Qué mides?",
+"opciones": [
+"La longitud",
+"La temperatura",
+"La masa"
+],
+"correcta": 0,
+"porque": "La regla mide cuánto mide algo."
+}
+],
+"mezclas-propiedades-primaria": [
+{
+"pregunta": "¿Qué es una mezcla?",
+"opciones": [
+"Cosas juntas sin que cambien",
+"Cosas que siempre se disuelven",
+"Cosas que se vuelven una sola"
+],
+"correcta": 0,
+"porque": "En una mezcla cada cosa sigue siendo la misma."
+},
+{
+"pregunta": "¿Cuál es una mezcla homogénea?",
+"opciones": [
+"La ensalada",
+"El agua de limón",
+"Las piedras con arena"
+],
+"correcta": 1,
+"porque": "En el agua de limón no distingues las partes."
+},
+{
+"pregunta": "¿Cómo separas arena y clavos de hierro?",
+"opciones": [
+"Con un colador",
+"Con un imán",
+"Esperando a que se evapore"
+],
+"correcta": 1,
+"porque": "El imán atrae solo el hierro."
+},
+{
+"pregunta": "¿Cómo recuperas la sal del agua salada?",
+"opciones": [
+"Con una regla",
+"Dejando evaporar el agua",
+"Usando un colador"
+],
+"correcta": 1,
+"porque": "Al evaporarse el agua, queda la sal."
+},
+{
+"pregunta": "¿Cuál es una mezcla heterogénea?",
+"opciones": [
+"El agua de jamaica",
+"Una ensalada",
+"El aire limpio"
+],
+"correcta": 1,
+"porque": "En la ensalada se ven las partes."
+}
+],
+"musculos-y-movimiento-primaria": [
+{
+"pregunta": "¿Qué hacen los músculos?",
+"opciones": [
+"Jalan los huesos para moverte",
+"Empujan los huesos para moverte",
+"Protegen el cerebro"
+],
+"correcta": 0,
+"porque": "Los músculos se contraen y jalan."
+},
+{
+"pregunta": "¿Qué une los músculos con los huesos?",
+"opciones": [
+"Las costillas",
+"Los tendones",
+"Los pulmones"
+],
+"correcta": 1,
+"porque": "Los tendones sostienen los músculos con los huesos."
+},
+{
+"pregunta": "¿El corazón es un músculo?",
+"opciones": [
+"Sí, pero descansa de noche",
+"Sí, y nunca descansa",
+"No, porque es muy blando"
+],
+"correcta": 1,
+"porque": "El corazón late siempre."
+},
+{
+"pregunta": "¿Qué músculo se contrae al estirar el brazo?",
+"opciones": [
+"El cráneo",
+"El bíceps",
+"El tríceps"
+],
+"correcta": 2,
+"porque": "Al estirar, el tríceps se contrae."
+},
+{
+"pregunta": "¿Qué ayuda a fortalecer tus músculos?",
+"opciones": [
+"No comer ni dormir",
+"Estar sentado todo el día",
+"Ejercicio, comida sana y descanso"
+],
+"correcta": 2,
+"porque": "Cuida tus músculos con hábitos sanos."
+}
+],
+"nutricion-locomocion-plantas-animales-primaria": [
+{
+"pregunta": "¿Cómo consiguen su comida las plantas?",
+"opciones": [
+"La cazan con sus hojas",
+"La buscan caminando por el suelo",
+"La fabrican con luz, agua y dióxido de carbono"
+],
+"correcta": 2,
+"porque": "Hacen su comida con fotosíntesis."
+},
+{
+"pregunta": "¿Por dónde toma agua una planta?",
+"opciones": [
+"Por las flores",
+"Por el tallo seco",
+"Por las raíces"
+],
+"correcta": 2,
+"porque": "Las raíces absorben agua del suelo."
+},
+{
+"pregunta": "¿Qué animal vuela?",
+"opciones": [
+"La vaca",
+"La abeja",
+"El pez"
+],
+"correcta": 1,
+"porque": "La abeja vuela para buscar néctar."
+},
+{
+"pregunta": "¿Cómo ayudan las abejas a las plantas?",
+"opciones": [
+"Les echan agua con sus alas",
+"Llevan polen de una flor a otra",
+"Les quitan las hojas"
+],
+"correcta": 1,
+"porque": "Las abejas llevan polen y las plantas dan néctar."
+},
+{
+"pregunta": "¿Cuál es un animal omnívoro?",
+"opciones": [
+"El conejo",
+"El oso",
+"La vaca"
+],
+"correcta": 1,
+"porque": "El oso come plantas y carne."
+}
+]
+}

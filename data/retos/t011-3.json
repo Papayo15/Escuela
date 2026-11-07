@@ -1,0 +1,522 @@
+{
+"cambios-continuidades-contextos-primaria-1-2": [
+{
+"pregunta": "¿Qué significa que algo es una continuidad?",
+"opciones": [
+"Que ya no existe hoy en ningún lugar",
+"Que sigue igual con el tiempo",
+"Que cambió por completo"
+],
+"correcta": 1,
+"porque": "Continuidad es lo que continúa igual."
+},
+{
+"pregunta": "Antes había un campo de maíz y hoy hay una tienda. ¿Qué es esto?",
+"opciones": [
+"Algo que sigue igual desde antes",
+"Una continuidad",
+"Un cambio"
+],
+"correcta": 2,
+"porque": "El lugar es diferente de como era."
+},
+{
+"pregunta": "Antes se escribían cartas y hoy hay mensajes. ¿Qué sigue igual?",
+"opciones": [
+"Seguimos usando solo papel y sobres",
+"Seguimos comunicándonos",
+"Seguimos esperando días para recibir respuesta"
+],
+"correcta": 1,
+"porque": "Cambió la forma, pero la comunicación continúa."
+},
+{
+"pregunta": "La fiesta del pueblo se hace casi igual que hace muchos años. ¿Qué es?",
+"opciones": [
+"Algo que dejó de existir",
+"Un cambio",
+"Una continuidad"
+],
+"correcta": 2,
+"porque": "La fiesta sigue igual con el tiempo."
+},
+{
+"pregunta": "Quieres saber cómo era la escuela hace muchos años. ¿A quién le preguntas?",
+"opciones": [
+"A un juguete nuevo del salón",
+"A un abuelo o abuela",
+"A un compañero que acaba de llegar"
+],
+"correcta": 1,
+"porque": "Los abuelos vivieron esos años y pueden contarte."
+}
+],
+"decisiones-ayuda-limites-riesgos-primaria": [
+{
+"pregunta": "¿Qué haces antes de decidir algo?",
+"opciones": [
+"Esperar a que otro decida por ti sin preguntar nada",
+"Hacerlo rápido sin pensar",
+"Pensar qué puede pasar"
+],
+"correcta": 2,
+"porque": "Pensar primero te ayuda a cuidarte."
+},
+{
+"pregunta": "Ves un cable pelado que echa chispas. ¿Qué haces?",
+"opciones": [
+"Se lo enseño a mis amigos para ver qué pasa",
+"Aviso a un adulto",
+"Lo toco con cuidado para apagarlo"
+],
+"correcta": 1,
+"porque": "Si hay riesgo, pides ayuda a un adulto."
+},
+{
+"pregunta": "¿Qué son tus límites?",
+"opciones": [
+"Las tareas que te deja la maestra para la casa",
+"Las cosas que te gustan comer",
+"Lo que no quieres que te hagan"
+],
+"correcta": 2,
+"porque": "Los límites cuidan tu cuerpo y tus sentimientos."
+},
+{
+"pregunta": "Un compañero te pide algo que a ti no te gusta. ¿Qué puedes hacer?",
+"opciones": [
+"Decir no y avisar a un adulto",
+"Callarte y hacerlo para caerle bien",
+"Hacerlo para que no se enoje"
+],
+"correcta": 0,
+"porque": "Puedes decir no, porque tus límites te cuidan."
+},
+{
+"pregunta": "¿Cuál decisión puedes tomar tú solo sin riesgo?",
+"opciones": [
+"Subirte a la azotea",
+"Encender la estufa",
+"Elegir qué fruta comer"
+],
+"correcta": 2,
+"porque": "Elegir una fruta no pone en peligro a nadie."
+}
+],
+"democracia-forma-de-vida-primaria": [
+{
+"pregunta": "¿Qué es la democracia?",
+"opciones": [
+"Decidir juntos y respetar a todos",
+"Que decida siempre el más grande",
+"Que solo opinen los que hablan más fuerte"
+],
+"correcta": 0,
+"porque": "En la democracia todos cuentan."
+},
+{
+"pregunta": "En el salón votan por una canción y gana la que tiene más votos. ¿Qué haces?",
+"opciones": [
+"Pedir que se repita hasta que gane la mía",
+"Enojarte y no cantar con el grupo",
+"Respetar el resultado"
+],
+"correcta": 2,
+"porque": "Aceptar el resultado es parte de la democracia."
+},
+{
+"pregunta": "En una democracia, ¿quién puede opinar?",
+"opciones": [
+"Solo el maestro, porque manda",
+"Todos, sin importar quién seas",
+"Solo los que tienen más amigos"
+],
+"correcta": 1,
+"porque": "En la democracia todos opinan y se respeta a todos."
+},
+{
+"pregunta": "Tu grupo elige al jefe de grupo con votos. ¿Es democrático?",
+"opciones": [
+"Sí, porque todos participan",
+"No, porque votar es una forma de pelear",
+"No, porque hay que preguntarle solo a la maestra"
+],
+"correcta": 0,
+"porque": "Votar permite que todos opinen."
+},
+{
+"pregunta": "Perdiste una votación para el juego del recreo. ¿Qué es lo mejor?",
+"opciones": [
+"Gritar que votaron mal",
+"Aceptar y jugar con tus compañeros",
+"Dejar de hablarles hoy a todos"
+],
+"correcta": 1,
+"porque": "En democracia se respeta lo que decide el grupo."
+}
+],
+"diversidad-valor-derechos-humanos-primaria-1-2": [
+{
+"pregunta": "¿Cómo es el valor de todas las personas?",
+"opciones": [
+"Todas las personas valen lo mismo",
+"Valen más quienes sacan diez",
+"Valen más las personas mayores"
+],
+"correcta": 0,
+"porque": "Todos somos distintos y valemos igual."
+},
+{
+"pregunta": "¿Qué derecho tienen todos los niños?",
+"opciones": [
+"Que otros hagan su tarea",
+"Ir a la escuela",
+"Mandar a sus compañeros en el recreo"
+],
+"correcta": 1,
+"porque": "Ir a la escuela es un derecho de todos."
+},
+{
+"pregunta": "Llega un compañero que habla otra lengua. ¿Qué puedes hacer?",
+"opciones": [
+"Dejarlo solo hasta que aprenda",
+"Invitarlo a jugar y ayudarlo",
+"Reírte cuando diga una palabra"
+],
+"correcta": 1,
+"porque": "Invitarlo a jugar lo hace sentir bienvenido."
+},
+{
+"pregunta": "Alguien se burla de una niña por sus lentes. ¿Qué haces?",
+"opciones": [
+"Reírte para que no se burlen de ti",
+"Decir con respeto que no está bien y avisar a un adulto",
+"No decir nada y salir corriendo del salón"
+],
+"correcta": 1,
+"porque": "Ayudas al compañero y avisas a un adulto."
+},
+{
+"pregunta": "¿Qué cosa cambia de una persona a otra?",
+"opciones": [
+"Los gustos",
+"El valor como persona",
+"Los derechos"
+],
+"correcta": 0,
+"porque": "Los gustos son diferentes, pero los derechos son iguales."
+}
+],
+"funciones-responsabilidades-autoridades-familia-primaria": [
+{
+"pregunta": "¿Quiénes cuidan el orden?",
+"opciones": [
+"Los juguetes del salón",
+"Los animales del patio",
+"Las autoridades"
+],
+"correcta": 2,
+"porque": "Las autoridades cuidan el orden."
+},
+{
+"pregunta": "En casa, ¿cómo ayudas tú?",
+"opciones": [
+"Escondiéndome para no ayudar",
+"Recogiendo mis juguetes",
+"Mandando a los adultos a hacerlo todo"
+],
+"correcta": 1,
+"porque": "Tú también tienes tareas en casa."
+},
+{
+"pregunta": "¿Quién es una autoridad en tu escuela?",
+"opciones": [
+"La directora",
+"Un compañero del salón",
+"El cuaderno de tareas"
+],
+"correcta": 0,
+"porque": "La directora cuida el orden de la escuela."
+},
+{
+"pregunta": "¿Qué pasa si cada persona hace su tarea?",
+"opciones": [
+"Solo gana el que trabaja más rápido que todos",
+"Todos ganamos",
+"Nadie sale ganando"
+],
+"correcta": 1,
+"porque": "Cuando cada quien cumple su tarea, todos salimos beneficiados."
+},
+{
+"pregunta": "¿Quién cuida de los niños en casa?",
+"opciones": [
+"Solo los vecinos de la calle",
+"Los adultos de la familia",
+"Los niños más grandes del barrio"
+],
+"correcta": 1,
+"porque": "En casa, los adultos cuidan y tú ayudas."
+}
+],
+"historia-personal-familiar-primaria-1-2": [
+{
+"pregunta": "¿Qué es tu historia personal?",
+"opciones": [
+"Solo lo que pasará mañana",
+"Lo que le pasó a otra persona que no conoces",
+"Lo que has vivido con tu familia"
+],
+"correcta": 2,
+"porque": "Tu historia está hecha de lo que has vivido."
+},
+{
+"pregunta": "¿Cuál sirve para conocer tu historia?",
+"opciones": [
+"Una foto de cuando eras bebé",
+"Un dibujo de un animal que nunca viste",
+"Un juguete de otra persona"
+],
+"correcta": 0,
+"porque": "Las fotos muestran momentos que ya pasaron."
+},
+{
+"pregunta": "¿Cuál es el orden correcto de tu historia?",
+"opciones": [
+"Creciste, naciste y luego aprendiste a hablar",
+"Aprendiste cosas, creciste y luego naciste",
+"Naciste, creciste y aprendiste cosas"
+],
+"correcta": 2,
+"porque": "Primero naces y después creces."
+},
+{
+"pregunta": "¿Quién puede contarte cosas de cuando eras pequeño?",
+"opciones": [
+"Tu lápiz",
+"Tu familia",
+"Tu mochila nueva"
+],
+"correcta": 1,
+"porque": "Tu familia estuvo contigo y lo recuerda."
+},
+{
+"pregunta": "¿Cuál es un momento de tu vida para dibujar?",
+"opciones": [
+"Un día que no recuerdas ni sabes si pasó",
+"El primer día de escuela de un famoso",
+"Tu primer día de escuela"
+],
+"correcta": 2,
+"porque": "Es un momento que viviste tú."
+}
+],
+"historia-personal-familias-diversas-primaria": [
+{
+"pregunta": "¿Qué hace que un grupo de personas sea una familia?",
+"opciones": [
+"Se cuidan y se quieren",
+"Todos se visten igual",
+"Todos tienen el mismo número de hermanos"
+],
+"correcta": 0,
+"porque": "Familia son quienes me cuidan y me quieren."
+},
+{
+"pregunta": "Pablo vive con sus tíos y sus primos. ¿Es una familia?",
+"opciones": [
+"No, porque los tíos no pueden cuidar a un niño",
+"Sí, porque se cuidan y se quieren",
+"No, porque solo hay familia con papá y mamá"
+],
+"correcta": 1,
+"porque": "Hay muchas formas de familia."
+},
+{
+"pregunta": "¿Cuáles familias merecen respeto?",
+"opciones": [
+"Todas las familias",
+"Solo las numerosas",
+"Solo las ricas"
+],
+"correcta": 0,
+"porque": "Todas las familias son distintas y merecen respeto."
+},
+{
+"pregunta": "¿Para qué sirve una línea del tiempo de tu vida?",
+"opciones": [
+"Para saber qué pasará mañana",
+"Para ordenar lo que te ha pasado",
+"Para dibujar tus juguetes favoritos"
+],
+"correcta": 1,
+"porque": "Ordena tus momentos desde que naciste."
+},
+{
+"pregunta": "Una familia tiene un solo adulto y tres hijos. ¿Qué piensas?",
+"opciones": [
+"Es una familia incompleta que no merece respeto",
+"No es una familia porque faltan más adultos",
+"Es una familia como cualquier otra"
+],
+"correcta": 2,
+"porque": "Hay familias de muchos tamaños y todas valen."
+}
+],
+"historia-vida-cotidiana-cambios-comunidad-primaria": [
+{
+"pregunta": "Antes se iba a pie y hoy hay camiones. ¿Qué cambió?",
+"opciones": [
+"La forma de hablar español",
+"La forma de transportarse",
+"La forma de dormir"
+],
+"correcta": 1,
+"porque": "Los camiones cambiaron cómo se viaja."
+},
+{
+"pregunta": "Antes se mandaban cartas y hoy hay celulares. ¿Qué cambió?",
+"opciones": [
+"Cómo nos comunicamos",
+"Cuántas horas tiene el día",
+"Cómo cuidamos una planta"
+],
+"correcta": 0,
+"porque": "Los celulares cambiaron la comunicación."
+},
+{
+"pregunta": "Quieres saber cómo era tu comunidad antes. ¿Qué haces?",
+"opciones": [
+"Preguntar a abuelos y vecinos",
+"Adivinar sin preguntar a nadie",
+"Pedir a un compañero que lo invente"
+],
+"correcta": 0,
+"porque": "Ellos vivieron esos años y te cuentan."
+},
+{
+"pregunta": "¿Qué puede seguir igual con los años en una comunidad?",
+"opciones": [
+"Un celular de moda",
+"Una fiesta",
+"Un camión nuevo"
+],
+"correcta": 1,
+"porque": "Hay fiestas que se celebran igual por mucho tiempo."
+},
+{
+"pregunta": "¿Qué haces para encontrar un cambio?",
+"opciones": [
+"Comparar antes y ahora",
+"Mirar solo cómo es hoy",
+"Preguntar solo lo que pasará mañana"
+],
+"correcta": 0,
+"porque": "Al comparar ves qué es diferente."
+}
+],
+"igualdad-genero-vida-sin-violencia-primaria": [
+{
+"pregunta": "¿Qué derechos tienen niñas y niños?",
+"opciones": [
+"Los mismos",
+"Más las niñas",
+"Más los niños"
+],
+"correcta": 0,
+"porque": "Niñas y niños tienen los mismos derechos."
+},
+{
+"pregunta": "¿Quién puede gritarte o golpearte?",
+"opciones": [
+"Nadie",
+"Un compañero",
+"Un adulto"
+],
+"correcta": 0,
+"porque": "Nadie debe gritarte ni golpearte."
+},
+{
+"pregunta": "Un compañero dice que el rosa es solo para niñas. ¿Qué puedes decir?",
+"opciones": [
+"Mejor ríete de quien lo use",
+"Tiene razón, no debes usarlo",
+"Cada quien elige sus gustos"
+],
+"correcta": 2,
+"porque": "Los gustos son de cada persona."
+},
+{
+"pregunta": "Si alguien te molesta, ¿qué haces?",
+"opciones": [
+"Aviso a un adulto de confianza",
+"Molesto a alguien más para sentirme mejor",
+"Me quedo callado para no causar problemas"
+],
+"correcta": 0,
+"porque": "Un adulto de confianza puede ayudarte."
+},
+{
+"pregunta": "¿Qué es verdad?",
+"opciones": [
+"Solo algunos niños tienen derecho a ser respetados",
+"Los derechos cambian si cambian los gustos",
+"Gustos distintos, derechos iguales"
+],
+"correcta": 2,
+"porque": "Todos tenemos los mismos derechos aunque nos gusten cosas distintas."
+}
+],
+"impacto-actividades-humanas-sustentabilidad-primaria-1-2": [
+{
+"pregunta": "¿Qué es la sustentabilidad?",
+"opciones": [
+"Gastar todo lo que podamos rápido",
+"Tirar lo que ya no usamos",
+"Usar lo que necesitamos sin acabarlo"
+],
+"correcta": 2,
+"porque": "Se trata de cuidar los recursos para que sigan."
+},
+{
+"pregunta": "Te lavas los dientes. ¿Qué haces para cuidar el agua?",
+"opciones": [
+"Dejo la llave abierta todo el rato",
+"Abro la llave más fuerte para terminar rápido",
+"Cierro la llave mientras me cepillo"
+],
+"correcta": 2,
+"porque": "Cerrar la llave evita desperdiciar agua."
+},
+{
+"pregunta": "¿Cuál acción daña la naturaleza?",
+"opciones": [
+"Regar una planta con poca agua",
+"Tirar basura al suelo",
+"Poner la basura en su bote"
+],
+"correcta": 1,
+"porque": "La basura en el suelo ensucia y lastima a los animales."
+},
+{
+"pregunta": "¿Cuáles son las tres R?",
+"opciones": [
+"Reducir, reutilizar y reciclar",
+"Romper, regalar y reírse",
+"Rascar, robar y recoger solo lo mío"
+],
+"correcta": 0,
+"porque": "Las tres R ayudan a cuidar el lugar donde vivimos."
+},
+{
+"pregunta": "Quieres hacer un compromiso para tu salón. ¿Cuál sirve?",
+"opciones": [
+"Dejar las luces prendidas siempre",
+"Apagar la luz cuando salimos",
+"Tirar el papel que sobra al patio"
+],
+"correcta": 1,
+"porque": "Apagar la luz ahorra energía."
+}
+]
+}

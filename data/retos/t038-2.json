@@ -1,0 +1,522 @@
+{
+"imperio-mongol-prepa": [
+{
+"pregunta": "¿En qué año fundó Gengis Kan el imperio mongol?",
+"opciones": [
+"En el año 1453",
+"En el año 1206",
+"En el año 1517"
+],
+"correcta": 1,
+"porque": "Gengis Kan lo fundó en 1206."
+},
+{
+"pregunta": "¿Cómo viajaban y peleaban los mongoles?",
+"opciones": [
+"En barcos grandes",
+"En carros de piedra",
+"Sobre caballos"
+],
+"correcta": 2,
+"porque": "Eran jinetes y arqueros muy rápidos."
+},
+{
+"pregunta": "¿Qué gobernó Kublai Kan?",
+"opciones": [
+"El país de China",
+"La ciudad de Atenas",
+"El imperio de Roma"
+],
+"correcta": 0,
+"porque": "Kublai Kan gobernó China."
+},
+{
+"pregunta": "¿Qué ruta comercial se facilitó con el imperio mongol?",
+"opciones": [
+"La Ruta de la Seda",
+"El camino de los acueductos",
+"La ruta de las especias del mar"
+],
+"correcta": 0,
+"porque": "El imperio unió rutas y ayudó a la Ruta de la Seda."
+},
+{
+"pregunta": "Marco Polo viajó en esos años. ¿A qué continente fue?",
+"opciones": [
+"Asia",
+"Oceanía",
+"Antártida"
+],
+"correcta": 0,
+"porque": "Marco Polo viajó a Asia, en tiempos de los mongoles."
+}
+],
+"imperio-romano-prepa": [
+{
+"pregunta": "¿De qué lengua viene el español?",
+"opciones": [
+"Del griego antiguo",
+"Del latín",
+"Del idioma chino"
+],
+"correcta": 1,
+"porque": "El latín de Roma dio origen al español."
+},
+{
+"pregunta": "¿Cuáles son las tres etapas de Roma?",
+"opciones": [
+"Reino, Feudo y Ciudad",
+"Monarquía, República e Imperio",
+"Polis, Aldea e Imperio"
+],
+"correcta": 1,
+"porque": "Roma pasó de monarquía a república y luego a imperio."
+},
+{
+"pregunta": "En una excursión ves un acueducto. ¿Quién lo usó mucho?",
+"opciones": [
+"Los mongoles",
+"Los mexicas",
+"Los romanos"
+],
+"correcta": 2,
+"porque": "Los romanos hicieron acueductos y caminos."
+},
+{
+"pregunta": "¿En qué año cayó el Imperio romano de Occidente?",
+"opciones": [
+"1492",
+"1453",
+"476"
+],
+"correcta": 2,
+"porque": "El imperio de Occidente cayó en el año 476."
+},
+{
+"pregunta": "¿Qué heredamos del derecho romano?",
+"opciones": [
+"Un tipo de moneda",
+"Un idioma nuevo",
+"Ideas de leyes"
+],
+"correcta": 2,
+"porque": "Roma dejó el derecho como aporte."
+}
+],
+"las-cruzadas-prepa": [
+{
+"pregunta": "¿Qué ciudad querían alcanzar los cruzados?",
+"opciones": [
+"Constantinopla",
+"Jerusalén",
+"Roma"
+],
+"correcta": 1,
+"porque": "Los cruzados peleaban por Jerusalén, en Tierra Santa."
+},
+{
+"pregunta": "¿Quién llamó a la primera Cruzada?",
+"opciones": [
+"Julio César",
+"Gengis Kan",
+"Urbano II"
+],
+"correcta": 2,
+"porque": "Urbano II llamó a la primera Cruzada."
+},
+{
+"pregunta": "¿Quién fue Saladino?",
+"opciones": [
+"Un rey de Francia",
+"Un filósofo griego",
+"Un líder musulmán"
+],
+"correcta": 2,
+"porque": "Saladino lideró pueblos musulmanes frente a los cruzados."
+},
+{
+"pregunta": "¿Qué creció entre Europa y Oriente después?",
+"opciones": [
+"El comercio",
+"La imprenta",
+"El latín"
+],
+"correcta": 0,
+"porque": "Las Cruzadas hicieron crecer el comercio entre Europa y Oriente."
+},
+{
+"pregunta": "Una maestra traza la ruta en un mapa. ¿En qué años fueron las Cruzadas?",
+"opciones": [
+"De 1914 a 1918",
+"De 1096 a 1291",
+"De 1810 a 1821"
+],
+"correcta": 1,
+"porque": "Fueron expediciones entre 1096 y 1291."
+}
+],
+"mesopotamia-prepa": [
+{
+"pregunta": "¿Qué significa Mesopotamia?",
+"opciones": [
+"Entre montañas altas",
+"Entre ríos",
+"Tierra del desierto"
+],
+"correcta": 1,
+"porque": "Su nombre significa entre ríos: el Tigris y el Éufrates."
+},
+{
+"pregunta": "¿Cómo se llama su escritura en tablillas de barro?",
+"opciones": [
+"Jeroglífica",
+"Con alfabeto latino",
+"Cuneiforme"
+],
+"correcta": 2,
+"porque": "Escribían en tablillas de barro con escritura cuneiforme."
+},
+{
+"pregunta": "¿Qué país ocupa hoy esa región?",
+"opciones": [
+"Grecia",
+"Italia",
+"Irak"
+],
+"correcta": 2,
+"porque": "Mesopotamia estaba en el actual Irak."
+},
+{
+"pregunta": "¿Qué tenía el Código de Hammurabi?",
+"opciones": [
+"Leyes escritas",
+"Mapas de rutas",
+"Recetas de cocina"
+],
+"correcta": 0,
+"porque": "Fue un código de leyes escritas."
+},
+{
+"pregunta": "¿Cuál de estas ciudades nació en Mesopotamia?",
+"opciones": [
+"Esparta",
+"Babilonia",
+"Roma"
+],
+"correcta": 1,
+"porque": "Ur y Babilonia fueron de las primeras ciudades."
+}
+],
+"monarquias-absolutas-prepa": [
+{
+"pregunta": "¿Quién fue llamado el Rey Sol?",
+"opciones": [
+"Luis XIV",
+"Justiniano",
+"Julio César"
+],
+"correcta": 0,
+"porque": "Luis XIV de Francia fue el Rey Sol."
+},
+{
+"pregunta": "¿Qué palacio mandó construir Luis XIV?",
+"opciones": [
+"La Alhambra",
+"Versalles",
+"Santa Sofía"
+],
+"correcta": 1,
+"porque": "Luis XIV construyó el palacio de Versalles."
+},
+{
+"pregunta": "¿Qué idea justificaba el poder del rey absoluto?",
+"opciones": [
+"El voto de todos",
+"El derecho divino",
+"Un contrato escrito"
+],
+"correcta": 1,
+"porque": "Se creía que Dios le daba el poder al rey."
+},
+{
+"pregunta": "En un juego un solo niño decide todas las reglas. ¿A qué se parece?",
+"opciones": [
+"A la democracia",
+"A la Ilustración",
+"Al absolutismo"
+],
+"correcta": 2,
+"porque": "En el absolutismo el rey concentra todo el poder."
+},
+{
+"pregunta": "¿Quién criticó al absolutismo?",
+"opciones": [
+"Los mongoles",
+"La peste negra",
+"La Ilustración"
+],
+"correcta": 2,
+"porque": "Los ilustrados criticaron el poder total del rey."
+}
+],
+"preguntas-historicas-actuales-preparatoria": [
+{
+"pregunta": "¿Cuál es una buena pregunta histórica?",
+"opciones": [
+"¿Hay agua en mi ciudad?",
+"¿Por qué falta agua en mi ciudad?",
+"¿Es grande mi ciudad?"
+],
+"correcta": 1,
+"porque": "Pide explicar causas y se investiga con fuentes."
+},
+{
+"pregunta": "¿Cómo empieza una pregunta histórica?",
+"opciones": [
+"Con por qué o cómo",
+"Con un solo dato",
+"Con sí o no"
+],
+"correcta": 0,
+"porque": "Las buenas preguntas empiezan con por qué, cómo o desde cuándo."
+},
+{
+"pregunta": "En clase eliges la contaminación del aire. ¿Qué preguntas haces?",
+"opciones": [
+"¿Qué color tiene el cielo?",
+"¿Desde cuándo y a quién afecta?",
+"¿Cuántas hojas tiene el libro?"
+],
+"correcta": 1,
+"porque": "Las preguntas buscan causas, cambios y a quién afecta."
+},
+{
+"pregunta": "¿Qué NO pide una buena pregunta histórica?",
+"opciones": [
+"Explicar causas",
+"Solo un dato",
+"Explicar cambios"
+],
+"correcta": 1,
+"porque": "Una buena pregunta pide explicar, no solo dar un dato."
+},
+{
+"pregunta": "¿Con qué se investiga una buena pregunta histórica?",
+"opciones": [
+"Con fuentes",
+"Con rumores",
+"Con adivinanzas"
+],
+"correcta": 0,
+"porque": "Una buena pregunta se responde buscando fuentes."
+}
+],
+"prehistoria-prepa": [
+{
+"pregunta": "¿Qué marca el fin de la Prehistoria?",
+"opciones": [
+"El fuego",
+"La agricultura",
+"La escritura"
+],
+"correcta": 2,
+"porque": "Con la escritura, cerca de 3300 a. C., termina la Prehistoria."
+},
+{
+"pregunta": "¿En qué periodo aparecieron la agricultura y las aldeas?",
+"opciones": [
+"Paleolítico",
+"Edad Media",
+"Neolítico"
+],
+"correcta": 2,
+"porque": "En el Neolítico se sembró y se hicieron las primeras aldeas."
+},
+{
+"pregunta": "¿Qué significa nómada?",
+"opciones": [
+"Vive en un castillo",
+"Vive junto a un río",
+"Se mueve buscando comida"
+],
+"correcta": 2,
+"porque": "El nómada se mueve de lugar en lugar buscando comida."
+},
+{
+"pregunta": "¿Cuál es una herramienta del Paleolítico?",
+"opciones": [
+"Piedra tallada",
+"Un arado de bronce",
+"Un hacha de hierro"
+],
+"correcta": 0,
+"porque": "En el Paleolítico se usaba piedra tallada."
+},
+{
+"pregunta": "Al sembrar, ¿qué dejaron de ser las personas?",
+"opciones": [
+"Cazadores de fuego",
+"Nómadas",
+"Humanos"
+],
+"correcta": 1,
+"porque": "Al sembrar se quedaron en un lugar y dejaron de ser nómadas."
+}
+],
+"reforma-protestante-prepa": [
+{
+"pregunta": "¿Quién publicó 95 tesis en 1517?",
+"opciones": [
+"Enrique VIII",
+"Urbano II",
+"Martín Lutero"
+],
+"correcta": 2,
+"porque": "Martín Lutero publicó las 95 tesis."
+},
+{
+"pregunta": "¿Qué criticó Lutero?",
+"opciones": [
+"La venta de indulgencias",
+"El uso de la imprenta",
+"Los viajes por mar"
+],
+"correcta": 0,
+"porque": "Lutero criticó que la Iglesia vendiera indulgencias."
+},
+{
+"pregunta": "¿Qué fue la Contrarreforma?",
+"opciones": [
+"Una guerra en China",
+"Un viaje de Colón",
+"La respuesta católica"
+],
+"correcta": 2,
+"porque": "Fue la respuesta católica en el Concilio de Trento."
+},
+{
+"pregunta": "¿Qué invento ayudó a difundir sus ideas?",
+"opciones": [
+"La brújula",
+"La rueda",
+"La imprenta"
+],
+"correcta": 2,
+"porque": "La imprenta difundió las ideas de la Reforma."
+},
+{
+"pregunta": "La Reforma ocurrió en el siglo...",
+"opciones": [
+"V",
+"XVI",
+"XX"
+],
+"correcta": 1,
+"porque": "Fue un movimiento religioso del siglo XVI."
+}
+],
+"renacimiento-prepa": [
+{
+"pregunta": "¿Dónde nació el Renacimiento?",
+"opciones": [
+"En Egipto",
+"En Mongolia",
+"En Italia"
+],
+"correcta": 2,
+"porque": "Nació en Italia y se extendió a Europa."
+},
+{
+"pregunta": "¿Quién inventó la imprenta hacia 1450?",
+"opciones": [
+"Gutenberg",
+"Copérnico",
+"Galileo"
+],
+"correcta": 0,
+"porque": "Gutenberg creó la imprenta cerca de 1450."
+},
+{
+"pregunta": "¿Qué puso en el centro el humanismo?",
+"opciones": [
+"Al ser humano",
+"A los castillos",
+"Al rey"
+],
+"correcta": 0,
+"porque": "El humanismo pone al ser humano en el centro."
+},
+{
+"pregunta": "¿Cuál de estos fue un artista del Renacimiento?",
+"opciones": [
+"Leonardo da Vinci",
+"Hammurabi",
+"Gengis Kan"
+],
+"correcta": 0,
+"porque": "Leonardo y Miguel Ángel fueron artistas renacentistas."
+},
+{
+"pregunta": "¿Quién dijo que la Tierra gira alrededor del Sol?",
+"opciones": [
+"Copérnico",
+"Montesquieu",
+"Confucio"
+],
+"correcta": 0,
+"porque": "Copérnico planteó que la Tierra gira alrededor del Sol."
+}
+],
+"surgimiento-del-islam-prepa": [
+{
+"pregunta": "¿Quién fundó el islam?",
+"opciones": [
+"Confucio",
+"Lutero",
+"Mahoma"
+],
+"correcta": 2,
+"porque": "Mahoma lo fundó en Arabia en el siglo VII."
+},
+{
+"pregunta": "¿Cómo se llama el libro sagrado del islam?",
+"opciones": [
+"Corán",
+"Código",
+"Biblia"
+],
+"correcta": 0,
+"porque": "El Corán es el libro sagrado del islam."
+},
+{
+"pregunta": "¿Qué fue la Hégira?",
+"opciones": [
+"Un libro de leyes",
+"Una gran batalla",
+"Viaje a Medina"
+],
+"correcta": 2,
+"porque": "Fue el viaje de Mahoma a Medina, en 622."
+},
+{
+"pregunta": "¿Qué ciudad es santa para el islam?",
+"opciones": [
+"La Meca",
+"Berlín",
+"Atenas"
+],
+"correcta": 0,
+"porque": "La Meca es la ciudad santa."
+},
+{
+"pregunta": "Buscas palabras del español que vienen del árabe. ¿Qué difundieron los árabes?",
+"opciones": [
+"Latín y derecho",
+"Álgebra y medicina",
+"Imprenta y pólvora"
+],
+"correcta": 1,
+"porque": "Los árabes difundieron ciencia, álgebra y medicina."
+}
+]
+}

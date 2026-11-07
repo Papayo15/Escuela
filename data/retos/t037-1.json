@@ -1,0 +1,522 @@
+{
+"que-es-la-inteligencia-artificial-prepa": [
+{
+"pregunta": "Un programa de IA aprende viendo muchos ejemplos. ¿Cómo se llama eso?",
+"opciones": [
+"Copiar y pegar todo",
+"Memoria de papeles",
+"Aprendizaje automático"
+],
+"correcta": 2,
+"porque": "La IA aprende de datos, o sea de muchos ejemplos."
+},
+{
+"pregunta": "¿Cuál de estos es un uso de la IA en tu celular?",
+"opciones": [
+"El cable que carga el celular",
+"El traductor que cambia idiomas",
+"La batería que dura mucho"
+],
+"correcta": 1,
+"porque": "Los traductores y asistentes usan IA para ayudarte."
+},
+{
+"pregunta": "Una IA te dice un dato que suena raro. ¿Qué haces?",
+"opciones": [
+"Lo copio sin leerlo",
+"Lo reviso en otra fuente",
+"Le creo por ser máquina"
+],
+"correcta": 1,
+"porque": "La IA puede equivocarse, así que se verifica."
+},
+{
+"pregunta": "¿Por qué una IA puede dar respuestas injustas con algunas personas?",
+"opciones": [
+"Aprendió de datos con sesgos",
+"Porque no tiene pantalla",
+"Porque se enoja con algunos"
+],
+"correcta": 0,
+"porque": "Si los datos tienen sesgos, la IA los repite."
+},
+{
+"pregunta": "En clase, una amiga pregunta qué es la IA. ¿Cuál es la mejor respuesta?",
+"opciones": [
+"Un sistema que hace tareas inteligentes",
+"Un robot que siempre dice la verdad",
+"Un libro que se escribe solo"
+],
+"correcta": 0,
+"porque": "La IA hace tareas que parecen necesitar inteligencia."
+}
+],
+"redes-plataformas-ia-etica-prepa": [
+{
+"pregunta": "Usaste una IA para una tarea de la escuela. ¿Qué debes hacer?",
+"opciones": [
+"Avisar que usé IA",
+"Esconder que la usé",
+"Decir que lo hice yo solo"
+],
+"correcta": 0,
+"porque": "Es ético avisar cuando usas IA."
+},
+{
+"pregunta": "¿Qué es una red de computadoras?",
+"opciones": [
+"Una sola computadora muy grande",
+"Aparatos unidos para pasar datos",
+"Un cable sin conexión alguna"
+],
+"correcta": 1,
+"porque": "Una red une aparatos para que se pasen datos."
+},
+{
+"pregunta": "Un chat te pide tu dirección y tu teléfono. ¿Qué haces?",
+"opciones": [
+"Los escribo rápido",
+"No doy datos personales",
+"Los mando a todos"
+],
+"correcta": 1,
+"porque": "Cuidar tus datos personales es una regla importante."
+},
+{
+"pregunta": "Para una tarea encuentras un dato en un sitio. ¿Qué es mejor?",
+"opciones": [
+"Compararlo con otras fuentes",
+"Copiarlo sin leerlo antes",
+"Creerlo porque salió primero"
+],
+"correcta": 0,
+"porque": "Comparar con varias fuentes evita errores."
+},
+{
+"pregunta": "Usas un texto de otra persona en tu trabajo. ¿Qué debes hacer?",
+"opciones": [
+"Citar a su autor",
+"Cambiar el nombre",
+"Decir que es mío"
+],
+"correcta": 0,
+"porque": "Citar a los autores es dar crédito a quien lo hizo."
+}
+],
+"violencias-digitales-bienestar-preparatoria": [
+{
+"pregunta": "Un compañero recibe insultos en un chat. ¿Qué haces?",
+"opciones": [
+"Me río con todos ellos",
+"Comparto los insultos",
+"Lo apoyo sin compartir"
+],
+"correcta": 2,
+"porque": "Si ves violencia digital, no la compartas y apoya."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de violencia digital?",
+"opciones": [
+"Subir tu propia tarea hecha",
+"Difundir una foto sin permiso",
+"Mandar un saludo amable"
+],
+"correcta": 1,
+"porque": "Difundir fotos sin permiso es hacer daño por internet."
+},
+{
+"pregunta": "Te llega un mensaje feo. ¿Por qué guardas la captura de pantalla?",
+"opciones": [
+"Para ver más mensajes después",
+"Para mandarla a todos tus amigos",
+"Sirve como prueba para reportar"
+],
+"correcta": 2,
+"porque": "La captura es prueba para reportar la agresión."
+},
+{
+"pregunta": "Alguien te insulta por internet. ¿Qué haces primero?",
+"opciones": [
+"Respondo con otro insulto fuerte",
+"Borro todo sin guardar nada",
+"No respondo y guardo pruebas"
+],
+"correcta": 2,
+"porque": "No respondas, guarda pruebas, bloquea y pide ayuda."
+},
+{
+"pregunta": "¿Qué ayuda a cuidar tu bienestar digital?",
+"opciones": [
+"Poner horarios y dormir bien",
+"Dormir abrazando el celular",
+"Dejar todas las alertas puestas"
+],
+"correcta": 0,
+"porque": "Poner horarios y quitar notificaciones ayuda a descansar."
+}
+],
+"aristoteles-prepa": [
+{
+"pregunta": "¿Qué escuela fundó Aristóteles?",
+"opciones": [
+"El Museo",
+"La Academia",
+"El Liceo"
+],
+"correcta": 2,
+"porque": "Aristóteles fundó el Liceo para enseñar."
+},
+{
+"pregunta": "¿De quién fue maestro Aristóteles?",
+"opciones": [
+"De Alejandro Magno",
+"De Platón",
+"De Sócrates"
+],
+"correcta": 0,
+"porque": "Aristóteles fue maestro de Alejandro Magno."
+},
+{
+"pregunta": "Ana sabe nadar y no le da miedo, pero no se avienta sin pensar. ¿Qué ejemplifica?",
+"opciones": [
+"El término medio",
+"Un exceso de miedo y susto",
+"Un exceso de riesgo y prisa"
+],
+"correcta": 0,
+"porque": "El término medio está entre miedoso e imprudente."
+},
+{
+"pregunta": "¿Qué ciencia creó Aristóteles?",
+"opciones": [
+"La química",
+"La lógica",
+"La geometría"
+],
+"correcta": 1,
+"porque": "Aristóteles creó la lógica, el arte de razonar bien."
+},
+{
+"pregunta": "Aristóteles observaba todo y lo ordenaba en grupos. ¿Qué hizo con los seres vivos?",
+"opciones": [
+"Los ignoró",
+"Los dibujó solo",
+"Los clasificó"
+],
+"correcta": 2,
+"porque": "Clasificó a los seres vivos por sus características."
+}
+],
+"comunidades-dialogo-preguntas-prepa": [
+{
+"pregunta": "¿Cuál es la meta de una comunidad de diálogo?",
+"opciones": [
+"Ganarle siempre a los demás",
+"Entender mejor entre todos",
+"Hablar más fuerte que todos"
+],
+"correcta": 1,
+"porque": "La meta no es ganar, sino entender mejor."
+},
+{
+"pregunta": "En un diálogo, Luis habla. ¿Qué haces tú?",
+"opciones": [
+"Escucho y repito su idea",
+"Lo interrumpo a cada rato",
+"Hablo con mi vecino de banca"
+],
+"correcta": 0,
+"porque": "Escuchar y repetir lo que dijo el otro es una regla del diálogo."
+},
+{
+"pregunta": "¿Cuál es una pregunta clara para dialogar?",
+"opciones": [
+"¿Por qué usamos tanto el celular?",
+"¿Verdad que siempre tengo razón?",
+"¿Quién es el mejor de todos?"
+],
+"correcta": 0,
+"porque": "Una pregunta clara abre la plática y se puede razonar."
+},
+{
+"pregunta": "Alguien muestra mejores razones que tú. ¿Qué haces?",
+"opciones": [
+"Me enojo y me voy del salón",
+"Repito más fuerte lo mío",
+"Cambio de opinión"
+],
+"correcta": 2,
+"porque": "En un diálogo se cambia de opinión si hay mejores razones."
+},
+{
+"pregunta": "Tu idea en el diálogo lleva tres partes. ¿Cuáles son?",
+"opciones": [
+"Idea, razón y ejemplo",
+"Silencio, risa y salida",
+"Grito, enojo y burla"
+],
+"correcta": 0,
+"porque": "Das tu idea, tu razón y un ejemplo."
+}
+],
+"conocimiento-ciencia-verdad-prepa": [
+{
+"pregunta": "¿Qué pregunta ayuda a revisar una afirmación?",
+"opciones": [
+"¿Cómo lo sé? ¿Qué prueba hay?",
+"¿A cuántas personas les gusta?",
+"¿Quién lo dijo más fuerte?"
+],
+"correcta": 0,
+"porque": "Pedir pruebas ayuda a distinguir opinión de conocimiento."
+},
+{
+"pregunta": "¿Qué tiene el conocimiento que no tiene una opinión?",
+"opciones": [
+"Más gritos al hablar",
+"Más amigos que opinen igual",
+"Razones y evidencia"
+],
+"correcta": 2,
+"porque": "El conocimiento es creencia verdadera con razones."
+},
+{
+"pregunta": "¿Por qué la ciencia es provisional?",
+"opciones": [
+"Siempre se equivoca en todo",
+"Nunca cambia por nada",
+"Se corrige con nueva evidencia"
+],
+"correcta": 2,
+"porque": "La ciencia cambia cuando aparecen mejores pruebas."
+},
+{
+"pregunta": "Ves una noticia viral. ¿Qué pregunta haces primero?",
+"opciones": [
+"¿Quién la subió primero?",
+"¿Cuántos la compartieron ya?",
+"¿Qué prueba hay de eso?"
+],
+"correcta": 2,
+"porque": "Preguntar qué prueba hay ayuda a saber si es cierta."
+},
+{
+"pregunta": "¿Qué estudia la epistemología?",
+"opciones": [
+"Cómo sabemos lo que sabemos",
+"Cómo viajan los barcos grandes",
+"Cómo se cocina el pan dulce"
+],
+"correcta": 0,
+"porque": "La epistemología estudia cómo conocemos las cosas."
+}
+],
+"cotidianidad-normas-valores-creencias-prepa": [
+{
+"pregunta": "En la escuela no se copia en el examen. ¿Qué es eso?",
+"opciones": [
+"Un juego",
+"Una norma",
+"Una creencia"
+],
+"correcta": 1,
+"porque": "Una norma es una regla, como no copiar."
+},
+{
+"pregunta": "¿Qué valor sostiene la norma de no copiar?",
+"opciones": [
+"La honestidad",
+"La prisa",
+"La suerte"
+],
+"correcta": 0,
+"porque": "La honestidad es la razón detrás de esa regla."
+},
+{
+"pregunta": "Preguntar por qué usamos uniforme sin rechazarlo es...",
+"opciones": [
+"Obedecer sin pensar nada",
+"Cuestionar lo dado",
+"Romper las reglas"
+],
+"correcta": 1,
+"porque": "Cuestionar es preguntar por qué, para entender."
+},
+{
+"pregunta": "¿Qué es una creencia?",
+"opciones": [
+"Lo que das por cierto",
+"Una regla escrita",
+"Un premio escolar"
+],
+"correcta": 0,
+"porque": "Una creencia es lo que das por cierto."
+},
+{
+"pregunta": "¿Qué estudia la filosofía de lo cotidiano?",
+"opciones": [
+"Qué comida cuesta más en casa",
+"Por qué hacemos lo de siempre",
+"Cuántos pasos das al día"
+],
+"correcta": 1,
+"porque": "Pregunta por qué hacemos sin pensar lo de cada día."
+}
+],
+"descartes-prepa": [
+{
+"pregunta": "¿Qué frase dijo Descartes?",
+"opciones": [
+"Todo cambia siempre",
+"Solo sé que no sé nada",
+"Pienso, luego existo"
+],
+"correcta": 2,
+"porque": "Aunque dudes de todo, pensar prueba que existes."
+},
+{
+"pregunta": "¿Qué corriente fundó Descartes?",
+"opciones": [
+"El empirismo",
+"El racionalismo",
+"El existencialismo"
+],
+"correcta": 1,
+"porque": "Descartes fue el padre del racionalismo."
+},
+{
+"pregunta": "Según Descartes, ¿de dónde viene el saber?",
+"opciones": [
+"De la suerte",
+"Solo de probar",
+"De la razón"
+],
+"correcta": 2,
+"porque": "El racionalismo dice que el conocimiento viene de la razón."
+},
+{
+"pregunta": "¿Qué creó Descartes en matemáticas?",
+"opciones": [
+"El reloj de sol",
+"La tabla del cinco",
+"El plano cartesiano"
+],
+"correcta": 2,
+"porque": "El plano cartesiano lleva su nombre."
+},
+{
+"pregunta": "¿Cuál es el método de Descartes?",
+"opciones": [
+"Dudar de lo incierto",
+"Creer todo muy rápido",
+"Copiar lo que dicen otros"
+],
+"correcta": 0,
+"porque": "Dudaba de todo hasta hallar algo seguro."
+}
+],
+"existencialismo-sartre-y-beauvoir-prepa": [
+{
+"pregunta": "¿Quién escribió El segundo sexo?",
+"opciones": [
+"Jean-Paul Sartre",
+"Simone de Beauvoir",
+"Aristóteles"
+],
+"correcta": 1,
+"porque": "El segundo sexo es obra de Beauvoir."
+},
+{
+"pregunta": "Según el existencialismo, ¿quién construye lo que eres?",
+"opciones": [
+"Tus decisiones",
+"Tu horóscopo del mes",
+"Tu apellido de familia"
+],
+"correcta": 0,
+"porque": "Cada persona se hace con lo que decide."
+},
+{
+"pregunta": "¿Qué quiso decir Sartre con estar condenados a ser libres?",
+"opciones": [
+"Nadie decide absolutamente nada",
+"Todo está escrito de antes",
+"Siempre hay que elegir"
+],
+"correcta": 2,
+"porque": "No poder dejar de elegir nos hace responsables."
+},
+{
+"pregunta": "Pedro decide estudiar y asume sus resultados. ¿Qué idea muestra?",
+"opciones": [
+"Un destino fijo",
+"Responsabilidad al elegir",
+"Pura mala suerte"
+],
+"correcta": 1,
+"porque": "A cada quien le toca elegir y responsabilizarse."
+},
+{
+"pregunta": "¿Qué frase es de Sartre?",
+"opciones": [
+"Todo fluye y cambia",
+"Pienso, luego existo siempre",
+"La existencia precede a la esencia"
+],
+"correcta": 2,
+"porque": "Sartre dijo que primero existes y luego te defines."
+}
+],
+"filosofia-mexicana-y-latinoamericana-prepa": [
+{
+"pregunta": "¿Quién escribió La raza cósmica?",
+"opciones": [
+"Samuel Ramos",
+"José Vasconcelos",
+"Luis Villoro"
+],
+"correcta": 1,
+"porque": "La raza cósmica es de José Vasconcelos."
+},
+{
+"pregunta": "¿Quién propuso la filosofía de la liberación?",
+"opciones": [
+"Platón de Atenas",
+"Leopoldo Zea",
+"Enrique Dussel"
+],
+"correcta": 2,
+"porque": "Enrique Dussel habló de filosofía de la liberación."
+},
+{
+"pregunta": "¿Quién estudió al mexicano en El perfil del hombre?",
+"opciones": [
+"Immanuel Kant",
+"Enrique Dussel",
+"Samuel Ramos"
+],
+"correcta": 2,
+"porque": "Samuel Ramos escribió sobre el hombre y la cultura en México."
+},
+{
+"pregunta": "¿Qué temas trata esta filosofía?",
+"opciones": [
+"Solo deportes y juegos",
+"Solo recetas de cocina",
+"Identidad y libertad"
+],
+"correcta": 2,
+"porque": "Reflexiona sobre identidad, libertad e historia de la región."
+},
+{
+"pregunta": "¿Qué estudió Luis Villoro?",
+"opciones": [
+"Los planetas lejanos",
+"Los pueblos indígenas",
+"Los átomos del aire"
+],
+"correcta": 1,
+"porque": "Luis Villoro reflexionó sobre los pueblos indígenas."
+}
+]
+}

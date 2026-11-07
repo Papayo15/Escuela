@@ -1,0 +1,522 @@
+{
+"interaccion-motriz-secundaria": [
+{
+"pregunta": "¿Qué tipo de interacción hay cuando tu equipo juega contra otro?",
+"opciones": [
+"Solo oposición, porque hay un rival",
+"Solo cooperación, porque todos juegan juntos",
+"Cooperación y oposición"
+],
+"correcta": 2,
+"porque": "En tu equipo cooperas y contra el otro te opones."
+},
+{
+"pregunta": "Haces una cuerda larga con tus compañeros para saltar todos. ¿Qué es?",
+"opciones": [
+"Ambas, hay otro equipo",
+"Cooperación, todos ayudan",
+"Oposición, compiten entre sí"
+],
+"correcta": 1,
+"porque": "Todos ayudan y no hay rival, es cooperación."
+},
+{
+"pregunta": "¿Qué tipo de interacción son las vencidas?",
+"opciones": [
+"Ambas, son dos equipos",
+"Cooperación, se ayudan",
+"Oposición, uno contra otro"
+],
+"correcta": 2,
+"porque": "En las vencidas compites contra una persona."
+},
+{
+"pregunta": "¿Qué te ayuda a jugar bien en equipo?",
+"opciones": [
+"Comunicarte con señas o palabras",
+"Cambiar las reglas cuando vas perdiendo",
+"Callarte y hacer todo tú solo en el juego"
+],
+"correcta": 0,
+"porque": "Comunicarte ayuda a que todos sepan qué hacer en el juego."
+},
+{
+"pregunta": "Alguien comete una falta sin querer. ¿Qué haces?",
+"opciones": [
+"Respetas las reglas y sigues jugando",
+"Le gritas para que sienta culpa delante de todos",
+"Dejas de jugar y te vas enojado a tu salón"
+],
+"correcta": 0,
+"porque": "Respetar las reglas y a tus compañeros hace que el juego sea sano."
+}
+],
+"juegos-tradicionales-mexicanos-secundaria": [
+{
+"pregunta": "¿Cuál es un juego tradicional mexicano?",
+"opciones": [
+"Un videojuego nuevo",
+"Una app de carreras",
+"El trompo de madera"
+],
+"correcta": 2,
+"porque": "El trompo es un juego tradicional mexicano."
+},
+{
+"pregunta": "¿Qué es la ulama?",
+"opciones": [
+"Un tipo de lotería con cartas de dibujos",
+"Un juego de pelota prehispánico",
+"Un trompo que gira con una cuerda larga"
+],
+"correcta": 1,
+"porque": "La ulama es un juego de pelota que viene de tiempos prehispánicos."
+},
+{
+"pregunta": "Quieres jugar con tus compañeros en el recreo con un cuadro de gis en el piso. ¿Qué juego es?",
+"opciones": [
+"Rayuela o avión, con gis",
+"Canicas, con bolitas",
+"Balero, con palo y bola"
+],
+"correcta": 0,
+"porque": "La rayuela se dibuja con gis en el piso."
+},
+{
+"pregunta": "¿Cómo se transmiten los juegos tradicionales?",
+"opciones": [
+"Solo con libros de la escuela",
+"De una generación a otra",
+"Solo por la televisión"
+],
+"correcta": 1,
+"porque": "Los juegos tradicionales pasan de abuelos a padres, y a ti."
+},
+{
+"pregunta": "¿Qué puedes hacer para conocer un juego tradicional de tu familia?",
+"opciones": [
+"Preguntar a un adulto a qué jugaba",
+"Esperar a que el juego aparezca en el celular",
+"Inventar un nombre y decir que es antiguo"
+],
+"correcta": 0,
+"porque": "Un adulto te puede enseñar juegos que jugaba cuando era niño."
+}
+],
+"olimpiadas-secundaria": [
+{
+"pregunta": "¿Cada cuántos años son los Juegos Olímpicos?",
+"opciones": [
+"Cada cuatro años, entre muchos países",
+"Cada diez años, entre pocos países",
+"Cada año, siempre entre los mismos"
+],
+"correcta": 0,
+"porque": "Los Juegos Olímpicos son competencias mundiales cada cuatro años."
+},
+{
+"pregunta": "¿Qué significan los cinco anillos?",
+"opciones": [
+"Cinco países ganadores del primer año",
+"Los cinco continentes",
+"Los cinco deportes más antiguos de Grecia"
+],
+"correcta": 1,
+"porque": "Los cinco anillos representan cinco continentes unidos."
+},
+{
+"pregunta": "¿En qué año México fue sede de los Juegos Olímpicos?",
+"opciones": [
+"2000, cuando cambió el siglo",
+"1896, primeros juegos modernos",
+"1968, en la Ciudad de México"
+],
+"correcta": 2,
+"porque": "México fue sede de los Juegos Olímpicos en 1968."
+},
+{
+"pregunta": "¿Dónde fueron los Juegos Olímpicos antiguos?",
+"opciones": [
+"En Atenas, en el año 1896",
+"En Olimpia, Grecia",
+"En México, en la Ciudad de México"
+],
+"correcta": 1,
+"porque": "Los antiguos fueron en Olimpia, Grecia."
+},
+{
+"pregunta": "Tu grupo quiere hacer miniolimpiadas. ¿Qué haces?",
+"opciones": [
+"Organizas varias pruebas para todos",
+"Compites solo con los mejores del salón",
+"Dejas fuera a los que corren más lento"
+],
+"correcta": 0,
+"porque": "Un evento escolar tiene pruebas donde todos pueden participar."
+}
+],
+"reglas-del-basquetbol-secundaria": [
+{
+"pregunta": "¿Cuántos puntos vale un tiro libre?",
+"opciones": [
+"3 puntos, como un tiro lejano",
+"2 puntos, como una canasta",
+"1 punto, por cada tiro libre"
+],
+"correcta": 2,
+"porque": "El tiro libre vale 1 punto."
+},
+{
+"pregunta": "¿Cuántos jugadores de cada equipo juegan en la cancha?",
+"opciones": [
+"5 jugadores por cada equipo",
+"11 jugadores, como en futbol",
+"6 jugadores, como en voleibol"
+],
+"correcta": 0,
+"porque": "El basquetbol se juega entre dos equipos de 5."
+},
+{
+"pregunta": "Metes una canasta cerca del aro. ¿Cuántos puntos sumas?",
+"opciones": [
+"1 punto, porque fue fácil",
+"3 puntos, porque entró limpia",
+"2 puntos, por canasta normal"
+],
+"correcta": 2,
+"porque": "Una canasta normal vale 2 puntos."
+},
+{
+"pregunta": "Recibes el balón. ¿Qué debes hacer para moverte?",
+"opciones": [
+"Lanzarlo al aire y atraparlo",
+"Correr con él en las manos",
+"Botarlo mientras caminas"
+],
+"correcta": 2,
+"porque": "Para moverte con el balón tienes que botarlo."
+},
+{
+"pregunta": "Tu equipo anota un tiro desde muy lejos. ¿Qué puntaje es?",
+"opciones": [
+"3 puntos, por ser tiro lejano",
+"2 puntos, como una canasta cerca",
+"1 punto, porque fue desde lejos"
+],
+"correcta": 0,
+"porque": "El tiro lejano vale 3 puntos."
+}
+],
+"reglas-del-futbol-secundaria": [
+{
+"pregunta": "¿Cuántos jugadores tiene cada equipo en la cancha?",
+"opciones": [
+"5 jugadores, como en basquetbol",
+"6 jugadores, como en voleibol",
+"11 jugadores, como en futbol"
+],
+"correcta": 2,
+"porque": "El futbol se juega entre dos equipos de 11."
+},
+{
+"pregunta": "¿Cuánto dura un partido normal?",
+"opciones": [
+"90 minutos, en dos tiempos",
+"45 minutos en un solo tiempo",
+"120 minutos sin descanso"
+],
+"correcta": 0,
+"porque": "Un partido dura 90 minutos, dos tiempos de 45."
+},
+{
+"pregunta": "El balón toca la mano de un jugador que no es portero. ¿Qué pasa?",
+"opciones": [
+"Se vale, porque la mano no importa",
+"El partido se acaba al instante",
+"Es falta y se da tiro libre"
+],
+"correcta": 2,
+"porque": "Solo el portero puede usar las manos, y solo dentro de su área."
+},
+{
+"pregunta": "Hay una falta dentro del área. ¿Qué se marca?",
+"opciones": [
+"Un penal, por falta en el área",
+"Un tiro de esquina para atacar",
+"Un saque de banda con las manos"
+],
+"correcta": 0,
+"porque": "El penal se marca cuando hay falta dentro del área."
+},
+{
+"pregunta": "¿Quién gana el partido?",
+"opciones": [
+"El que anota más goles que el rival",
+"Quien tiene más jugadores en la cancha",
+"Quien recibe más tarjetas rojas"
+],
+"correcta": 0,
+"porque": "Gana quien anota más goles."
+}
+],
+"reglas-del-voleibol-secundaria": [
+{
+"pregunta": "¿Cuántos toques puede dar tu equipo antes de pasar el balón?",
+"opciones": [
+"Cinco, para que todos lo toquen",
+"Uno solo, siempre el mismo jugador",
+"Tres toques como máximo por lado"
+],
+"correcta": 2,
+"porque": "En voleibol hay máximo 3 toques por lado."
+},
+{
+"pregunta": "¿Cuántos jugadores hay por lado en voleibol?",
+"opciones": [
+"11 jugadores, como en futbol",
+"5 jugadores, como en basquetbol",
+"6 jugadores, como dice la regla"
+],
+"correcta": 2,
+"porque": "El voleibol se juega entre dos equipos de 6."
+},
+{
+"pregunta": "Tu compañero toca la red con la mano mientras juega. ¿Qué pasa?",
+"opciones": [
+"Se gana un punto extra de regalo",
+"Es falta, y pierdes el punto",
+"Nada, la red es parte del juego"
+],
+"correcta": 1,
+"porque": "En voleibol no se debe tocar la red."
+},
+{
+"pregunta": "¿Qué no debe pasar con el balón?",
+"opciones": [
+"Que el balón caiga en tu piso",
+"Que pase por encima de la red",
+"Que lo toque alguien de tu equipo"
+],
+"correcta": 0,
+"porque": "El balón no debe caer en tu piso."
+},
+{
+"pregunta": "Ganas el saque y tu equipo cambia de lugar. ¿Qué es?",
+"opciones": [
+"Marcar fuera de lugar en la red",
+"Rotar de posición en la cancha",
+"Hacer un penal como en futbol"
+],
+"correcta": 1,
+"porque": "Tras ganar el saque, el equipo rota de posición."
+}
+],
+"acoso-escolar-que-hacer-secundaria": [
+{
+"pregunta": "¿Qué es el acoso escolar?",
+"opciones": [
+"Un juego que a todos les divierte",
+"Una pelea que sucede solo una vez en el recreo",
+"Maltrato repetido a un compañero"
+],
+"correcta": 2,
+"porque": "El acoso escolar es maltrato repetido, y no es un juego."
+},
+{
+"pregunta": "Un compañero te empuja todos los días. ¿Qué haces?",
+"opciones": [
+"Se lo cuentas a un adulto de confianza",
+"Lo empujas más fuerte para que se detenga",
+"Te quedas callado para que no empeore"
+],
+"correcta": 0,
+"porque": "Contarlo a un adulto de confianza te ayuda y te protege."
+},
+{
+"pregunta": "¿Es tu culpa si alguien te lastima?",
+"opciones": [
+"Sí, algo hiciste mal",
+"Sí, si no respondes",
+"No, nunca es tu culpa"
+],
+"correcta": 2,
+"porque": "El maltrato nunca es culpa de quien lo recibe."
+},
+{
+"pregunta": "Ves que se burlan de una compañera en el chat del grupo. ¿Qué haces?",
+"opciones": [
+"Compartes el mensaje con los demás",
+"Avisas a un adulto",
+"Te ríes para que no se burlen de ti"
+],
+"correcta": 1,
+"porque": "No te rías: avisar ayuda a que pare el maltrato."
+},
+{
+"pregunta": "¿Qué puedes guardar si te acosan por internet?",
+"opciones": [
+"Pruebas, como capturas de pantalla",
+"Nada, porque conviene olvidar los mensajes",
+"Solo las respuestas que tú escribiste"
+],
+"correcta": 0,
+"porque": "Las pruebas ayudan a que un adulto pueda ayudarte."
+}
+],
+"ansiedad-antes-de-un-examen-secundaria": [
+{
+"pregunta": "¿Qué haces primero cuando empiezas tu examen?",
+"opciones": [
+"Respiras y lees con calma",
+"Contestas muy rápido sin leer nada",
+"Empiezas por la pregunta más difícil del examen"
+],
+"correcta": 0,
+"porque": "Respirar y leer con calma te ayuda a pensar mejor."
+},
+{
+"pregunta": "¿Con qué preguntas conviene empezar?",
+"opciones": [
+"Con las que no entiendes nada",
+"Con las más largas del examen",
+"Con las fáciles"
+],
+"correcta": 2,
+"porque": "Empezar por lo fácil te da confianza y ahorra tiempo."
+},
+{
+"pregunta": "Tienes examen mañana. ¿Qué haces hoy?",
+"opciones": [
+"No estudiar nada para no ponerte nervioso",
+"Estudiar toda la noche sin dormir ni un rato",
+"Estudiar por partes y dormir bien"
+],
+"correcta": 2,
+"porque": "Estudiar por partes y dormir bien ayuda a tu cuerpo y tu mente."
+},
+{
+"pregunta": "¿Es normal sentir nervios antes de un examen?",
+"opciones": [
+"No, y significa que algo está muy mal contigo",
+"Sí, es una preocupación común",
+"No, solo les pasa a quienes no estudian"
+],
+"correcta": 1,
+"porque": "La ansiedad es una sensación de preocupación ante algo que viene."
+},
+{
+"pregunta": "Estás muy preocupado y no se te quita. ¿Qué haces?",
+"opciones": [
+"Lo ignoras hasta que se te pase solo para siempre",
+"Te lo guardas y no se lo dices a nadie",
+"Pides ayuda a un adulto"
+],
+"correcta": 2,
+"porque": "Si te dura mucho, un adulto de confianza puede ayudarte."
+}
+],
+"autoestima-secundaria": [
+{
+"pregunta": "¿Qué es la autoestima?",
+"opciones": [
+"Lo que otras personas piensan de tu ropa",
+"El dinero que tienes para gastar",
+"La valoración que tienes de ti"
+],
+"correcta": 2,
+"porque": "La autoestima es cómo te valoras a ti mismo."
+},
+{
+"pregunta": "Sacas una mala calificación. ¿Qué te dices?",
+"opciones": [
+"Fue un error y puedo mejorar",
+"Soy un fracaso y nunca lo lograré",
+"Mis compañeros se van a burlar de mí siempre"
+],
+"correcta": 0,
+"porque": "Aceptar tus errores y aprender de ellos cuida tu autoestima."
+},
+{
+"pregunta": "¿Te conviene compararte con tus compañeros?",
+"opciones": [
+"Sí, para ver quién vale más",
+"No, cada quien es distinto",
+"Sí, para ser siempre mejor"
+],
+"correcta": 1,
+"porque": "Compararte daña tu autoestima; cada persona es diferente."
+},
+{
+"pregunta": "¿Con quién conviene estar para cuidar tu autoestima?",
+"opciones": [
+"Con quien te dice que no vales nada",
+"Con gente que te respete",
+"Con quien siempre se burla de tus errores"
+],
+"correcta": 1,
+"porque": "Estar con gente que te respeta ayuda a sentirte bien."
+},
+{
+"pregunta": "Quieres hablarte como un buen entrenador interno. ¿Qué dices?",
+"opciones": [
+"Lo hiciste bien, sigue así",
+"Eres lo peor, ya no lo intentes",
+"Nadie te aprecia, déjalo ya"
+],
+"correcta": 0,
+"porque": "Hablarte con cariño, como a un amigo, cuida tu autoestima."
+}
+],
+"decir-que-no-con-respeto-secundaria": [
+{
+"pregunta": "¿Qué es ser asertivo?",
+"opciones": [
+"Quedarte callado aunque no estés de acuerdo",
+"Gritar para que todos te obedezcan",
+"Decir lo que piensas con respeto"
+],
+"correcta": 2,
+"porque": "Ser asertivo es decir lo que piensas, pero sin lastimar a nadie."
+},
+{
+"pregunta": "Un amigo te ofrece algo que no quieres. ¿Qué puedes decir?",
+"opciones": [
+"Sí, aunque no quiera, para no pelear",
+"No, gracias, prefiero otra cosa",
+"Eres tonto por ofrecerme eso"
+],
+"correcta": 1,
+"porque": "Decir no con claridad y amabilidad cuida tu espacio."
+},
+{
+"pregunta": "¿Es grosero decir que no?",
+"opciones": [
+"No, si lo dices con respeto",
+"Sí, siempre, aunque lo digas con calma",
+"Sí, porque debes aceptar todo lo que te piden"
+],
+"correcta": 0,
+"porque": "Se puede decir no con calma y de forma amable, sin ser grosero."
+},
+{
+"pregunta": "Insisten mucho y te siguen presionando. ¿Qué haces?",
+"opciones": [
+"Los insultas para que se vayan",
+"Buscas a un adulto",
+"Cedes para que dejen de molestarte"
+],
+"correcta": 1,
+"porque": "Si te presionan, un adulto de confianza puede ayudarte."
+},
+{
+"pregunta": "¿Qué puedes hacer después de decir que no?",
+"opciones": [
+"Dar muchas excusas largas y confusas",
+"Enojarte con quienes te lo pidieron",
+"Proponer otra cosa"
+],
+"correcta": 2,
+"porque": "Proponer otra cosa mantiene la amistad y respeta tu decisión."
+}
+]
+}

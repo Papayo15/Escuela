@@ -1,0 +1,522 @@
+{
+"arte-problemas-comunidad-secundaria": [
+{
+"pregunta": "¿Cuál es el primer paso para hacer tu obra?",
+"opciones": [
+"Escoger el medio sin pensar en el mensaje",
+"Presentarla a quienes la verán",
+"Elegir un problema cercano"
+],
+"correcta": 2,
+"porque": "Primero eliges un problema de tu comunidad."
+},
+{
+"pregunta": "Al mostrar un problema, ¿qué debes hacer?",
+"opciones": [
+"Esconder el problema",
+"Invitar a mejorar",
+"Culpar a una persona"
+],
+"correcta": 1,
+"porque": "El arte busca que la gente piense y ayude a mejorar."
+},
+{
+"pregunta": "¿Cuál sirve como medio para mostrar un problema?",
+"opciones": [
+"Un mural pintado",
+"Un recibo de luz",
+"Una lista de súper"
+],
+"correcta": 0,
+"porque": "Un mural hace que todos vean el problema."
+},
+{
+"pregunta": "El patio de tu escuela tiene charcos grandes. ¿Qué cartel ayuda más?",
+"opciones": [
+"El que no dice nada",
+"El que muestra el charco y propone una solución",
+"El que culpa a un niño del grupo"
+],
+"correcta": 1,
+"porque": "Un buen cartel muestra el problema y una idea para mejorar."
+},
+{
+"pregunta": "Después de elegir el problema, ¿qué preguntas?",
+"opciones": [
+"Cuánto tiempo falta para el recreo",
+"Por qué pasa y a quién afecta",
+"Quién dibuja mejor en el salón"
+],
+"correcta": 1,
+"porque": "Así entiendes mejor el problema antes de crear."
+}
+],
+"barroco-secundaria": [
+{
+"pregunta": "¿En qué siglos floreció el Barroco?",
+"opciones": [
+"XIX y XX",
+"XVII y XVIII",
+"XV y XVI"
+],
+"correcta": 1,
+"porque": "El Barroco fue de los siglos XVII y XVIII."
+},
+{
+"pregunta": "¿Quién hizo esculturas barrocas?",
+"opciones": [
+"Bernini",
+"Rembrandt",
+"Vivaldi"
+],
+"correcta": 0,
+"porque": "Bernini fue el gran escultor del Barroco."
+},
+{
+"pregunta": "¿Cuál de estos pintores es barroco?",
+"opciones": [
+"Monet",
+"Rembrandt",
+"Cézanne"
+],
+"correcta": 1,
+"porque": "Rembrandt jugaba con luz y sombra."
+},
+{
+"pregunta": "En clase ves una pintura casi oscura donde solo una cara brilla. ¿Qué estilo parece?",
+"opciones": [
+"Abstracto",
+"Barroco",
+"Impresionista"
+],
+"correcta": 1,
+"porque": "El gran contraste de luz y sombra es barroco."
+},
+{
+"pregunta": "El Barroco se caracteriza por mucha...",
+"opciones": [
+"Líneas rectas sin ningún adorno",
+"Calma y pocos detalles",
+"Emoción y detalles"
+],
+"correcta": 2,
+"porque": "Es un estilo adornado y lleno de movimiento."
+}
+],
+"color-y-composicion-secundaria": [
+{
+"pregunta": "Mezclas rojo con azul. ¿Qué color sale?",
+"opciones": [
+"Verde",
+"Naranja",
+"Morado"
+],
+"correcta": 2,
+"porque": "El morado es secundario y sale de rojo y azul."
+},
+{
+"pregunta": "¿Cuál es un color primario?",
+"opciones": [
+"Verde",
+"Naranja",
+"Amarillo"
+],
+"correcta": 2,
+"porque": "Los primarios son rojo, amarillo y azul."
+},
+{
+"pregunta": "¿Cuál es un color cálido?",
+"opciones": [
+"Verde",
+"Azul",
+"Naranja"
+],
+"correcta": 2,
+"porque": "Rojo y naranja son colores cálidos."
+},
+{
+"pregunta": "¿Qué es la composición?",
+"opciones": [
+"La forma de acomodar los elementos",
+"Mezclar los colores primarios",
+"Elegir solo colores cálidos para pintar"
+],
+"correcta": 0,
+"porque": "Es cómo acomodas lo que hay en tu obra."
+},
+{
+"pregunta": "Pintas el mar y el cielo con azul y verde. ¿Qué colores usas?",
+"opciones": [
+"Colores fríos",
+"Colores cálidos",
+"Colores neutros"
+],
+"correcta": 0,
+"porque": "El azul y el verde son colores fríos."
+}
+],
+"compositores-de-la-musica-clasica-secundaria": [
+{
+"pregunta": "Tu maestra pone una pieza de Mozart. ¿De qué estilo es?",
+"opciones": [
+"Barroco",
+"Clasicismo",
+"Romanticismo"
+],
+"correcta": 1,
+"porque": "Mozart es del Clasicismo."
+},
+{
+"pregunta": "¿Qué instrumento tocaba Chopin en sus obras?",
+"opciones": [
+"Guitarra",
+"Piano",
+"Marimba"
+],
+"correcta": 1,
+"porque": "Chopin escribió música para piano."
+},
+{
+"pregunta": "¿Cuál es un compositor mexicano?",
+"opciones": [
+"Silvestre Revueltas",
+"Beethoven",
+"Tchaikovsky"
+],
+"correcta": 0,
+"porque": "Revueltas fue uno de los grandes compositores de México."
+},
+{
+"pregunta": "Un compositor del Barroco es...",
+"opciones": [
+"Chopin",
+"Bach",
+"Moncayo"
+],
+"correcta": 1,
+"porque": "Bach compuso en la época barroca."
+},
+{
+"pregunta": "¿Qué obra compuso Beethoven?",
+"opciones": [
+"El lago de los cisnes",
+"Novena Sinfonía",
+"La flauta mágica"
+],
+"correcta": 1,
+"porque": "Beethoven compuso la Novena Sinfonía."
+}
+],
+"comunicacion-dialogica-arte-secundaria": [
+{
+"pregunta": "Un compañero cuenta cómo vive las burlas. ¿Qué haces?",
+"opciones": [
+"Le contesto enseguida para corregirlo",
+"Platico con quien está a mi lado",
+"Lo escucho sin interrumpir"
+],
+"correcta": 2,
+"porque": "Dialogar incluye escuchar con respeto."
+},
+{
+"pregunta": "En tu grupo hay apodos que lastiman. ¿Qué conviene hacer?",
+"opciones": [
+"Reírme para no ser el siguiente",
+"Hablarlo y crear algo juntos",
+"Ignorarlo hasta que pase solo"
+],
+"correcta": 1,
+"porque": "Hablarlo en grupo y crear una obra ayuda a cambiar."
+},
+{
+"pregunta": "¿Cuál es un mensaje que pueden acordar?",
+"opciones": [
+"Nos respetamos",
+"El más fuerte manda en el salón",
+"Cada quien por su lado"
+],
+"correcta": 0,
+"porque": "El mensaje debe cuidar a todos."
+},
+{
+"pregunta": "¿Cuál es una forma de arte para presentar el mensaje?",
+"opciones": [
+"Un dibujo",
+"Un regaño",
+"Una pelea"
+],
+"correcta": 0,
+"porque": "El dibujo es una forma de arte para comunicar un mensaje."
+},
+{
+"pregunta": "Después de crear la obra entre todos, ¿qué sigue?",
+"opciones": [
+"Guardarla sin mostrarla a nadie",
+"Presentarla y platicar con el público",
+"Cambiar el mensaje por uno más duro"
+],
+"correcta": 1,
+"porque": "Se presenta y se platica con quienes la vieron."
+}
+],
+"creaciones-artisticas-textos-literarios-secundaria": [
+{
+"pregunta": "Creas una obra a partir de un cuento. ¿Cómo se llama?",
+"opciones": [
+"Adaptación",
+"Copia exacta",
+"Traducción al inglés"
+],
+"correcta": 0,
+"porque": "Una adaptación convierte un texto en otra forma de arte."
+},
+{
+"pregunta": "¿Qué haces primero para adaptar un texto?",
+"opciones": [
+"Dibujar sin haberlo leído",
+"Compartir la obra terminada",
+"Leer el texto"
+],
+"correcta": 2,
+"porque": "Primero se lee para entender la historia."
+},
+{
+"pregunta": "¿Qué no debes hacer al adaptar?",
+"opciones": [
+"Decir quién escribió el texto",
+"Copiar palabra por palabra",
+"Decidir qué cambias"
+],
+"correcta": 1,
+"porque": "Interpretar es contar a tu manera, sin copiar."
+},
+{
+"pregunta": "Conviertes un poema de la lluvia en canción. ¿Qué haces con el autor?",
+"opciones": [
+"Lo callo para que parezca mío",
+"Digo quién lo escribió",
+"Cambio el nombre por el mío"
+],
+"correcta": 1,
+"porque": "Siempre se debe decir quién escribió el texto."
+},
+{
+"pregunta": "¿Qué buscas en el texto antes de crear?",
+"opciones": [
+"Solo la última palabra",
+"Solo el título del libro",
+"Personajes, lugares y emociones"
+],
+"correcta": 2,
+"porque": "Eso te da ideas para tu obra."
+}
+],
+"elementos-artes-recursos-esteticos-secundaria": [
+{
+"pregunta": "¿Cuál es un elemento de la danza?",
+"opciones": [
+"Movimiento",
+"Melodía",
+"Textura"
+],
+"correcta": 0,
+"porque": "La danza usa cuerpo, movimiento, espacio y tiempo."
+},
+{
+"pregunta": "¿Cuál es un elemento del teatro?",
+"opciones": [
+"Personaje",
+"Melodía",
+"Textura"
+],
+"correcta": 0,
+"porque": "El teatro usa personaje, problema, voz y escenario."
+},
+{
+"pregunta": "¿Qué son los recursos estéticos?",
+"opciones": [
+"Instrumentos de una orquesta",
+"Formas de combinar los elementos",
+"Pinturas hechas solo con óleo"
+],
+"correcta": 1,
+"porque": "Combinan las piezas con repetición, contraste o simetría."
+},
+{
+"pregunta": "¿Cuál es un recurso estético?",
+"opciones": [
+"Simetría",
+"Textura",
+"Melodía"
+],
+"correcta": 0,
+"porque": "Repetir, hacer contraste o buscar simetría son recursos."
+},
+{
+"pregunta": "Dibujas con línea, color, forma y textura. ¿Qué arte usas?",
+"opciones": [
+"Música y canto",
+"Dibujo y pintura",
+"Danza y baile"
+],
+"correcta": 1,
+"porque": "Línea, color, forma y textura son piezas del dibujo y la pintura."
+}
+],
+"elementos-de-la-danza-secundaria": [
+{
+"pregunta": "En el patio bailas en círculo y luego en fila. ¿Qué elemento cambias?",
+"opciones": [
+"Espacio",
+"Cuerpo",
+"Energía"
+],
+"correcta": 0,
+"porque": "El espacio es dónde te mueves."
+},
+{
+"pregunta": "Mueves brazos y piernas al bailar. ¿Qué elemento usas?",
+"opciones": [
+"Espacio",
+"Tiempo",
+"Cuerpo"
+],
+"correcta": 2,
+"porque": "El cuerpo son las partes y sus movimientos."
+},
+{
+"pregunta": "¿Cuántos elementos tiene la danza?",
+"opciones": [
+"Cinco",
+"Cuatro",
+"Tres"
+],
+"correcta": 1,
+"porque": "Son cuerpo, espacio, tiempo y energía."
+},
+{
+"pregunta": "Bailas primero lento y luego rápido. ¿Qué elemento cambias?",
+"opciones": [
+"Espacio",
+"Cuerpo",
+"Tiempo"
+],
+"correcta": 2,
+"porque": "El tiempo es el ritmo, rápido o lento."
+},
+{
+"pregunta": "Bailas con mucha fuerza y luego suave. ¿Qué elemento cambias?",
+"opciones": [
+"Espacio",
+"Tiempo",
+"Energía"
+],
+"correcta": 2,
+"porque": "La energía puede ser suave o fuerte."
+}
+],
+"elementos-de-las-artes-visuales-secundaria": [
+{
+"pregunta": "¿Cuál es el elemento más pequeño de una imagen?",
+"opciones": [
+"El punto",
+"La línea",
+"La forma"
+],
+"correcta": 0,
+"porque": "El punto es lo más pequeño de todos."
+},
+{
+"pregunta": "¿Qué elemento es el trazo de un lápiz?",
+"opciones": [
+"La línea",
+"El punto",
+"El espacio"
+],
+"correcta": 0,
+"porque": "La línea es el trazo."
+},
+{
+"pregunta": "Un círculo y un cuadrado son ejemplos de...",
+"opciones": [
+"Texturas",
+"Puntos",
+"Formas"
+],
+"correcta": 2,
+"porque": "La forma es la figura de las cosas."
+},
+{
+"pregunta": "¿Cómo se llama el lugar que ocupa un dibujo?",
+"opciones": [
+"Espacio",
+"Textura",
+"Punto"
+],
+"correcta": 0,
+"porque": "El espacio es el lugar ocupado."
+},
+{
+"pregunta": "Dibujas una pelota redonda y roja. ¿Qué elementos usaste?",
+"opciones": [
+"Solo textura",
+"Forma y color",
+"Solo punto"
+],
+"correcta": 1,
+"porque": "Lo redondo es forma y lo rojo es color."
+}
+],
+"elementos-del-teatro-secundaria": [
+{
+"pregunta": "¿Quiénes son indispensables en el teatro?",
+"opciones": [
+"Solo la escenografía y las luces",
+"Actores y público",
+"Solo el director de la obra"
+],
+"correcta": 1,
+"porque": "Sin actores y sin público no hay teatro."
+},
+{
+"pregunta": "Las luces y la música de una obra son...",
+"opciones": [
+"Dirección",
+"Iluminación y sonido",
+"Vestuario y maquillaje"
+],
+"correcta": 1,
+"porque": "Son parte de lo que ambienta la obra."
+},
+{
+"pregunta": "La ropa que usan los actores se llama...",
+"opciones": [
+"Escenografía",
+"Guion",
+"Vestuario"
+],
+"correcta": 2,
+"porque": "El vestuario es la ropa del personaje."
+},
+{
+"pregunta": "Tu grupo pinta un fondo de bosque para la obra. ¿Qué elemento hacen?",
+"opciones": [
+"Dirección",
+"Escenografía",
+"Guion"
+],
+"correcta": 1,
+"porque": "La escenografía son los objetos y fondos del escenario."
+},
+{
+"pregunta": "El teatro es una historia que...",
+"opciones": [
+"Solo se escucha por la radio",
+"Solo se lee en silencio",
+"Se ve en vez de leerse"
+],
+"correcta": 2,
+"porque": "En el teatro la historia se actúa frente al público."
+}
+]
+}

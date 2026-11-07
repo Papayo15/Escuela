@@ -1,0 +1,522 @@
+{
+"regiones-naturales-de-mexico-secundaria": [
+{
+"pregunta": "¿En qué región natural hay pinos y venados?",
+"opciones": [
+"Selva",
+"Desierto",
+"Bosque templado"
+],
+"correcta": 2,
+"porque": "Los pinos y los venados viven en el bosque templado de las sierras."
+},
+{
+"pregunta": "¿Qué región natural se encuentra en Chihuahua?",
+"opciones": [
+"Pastizal",
+"Selva",
+"Manglar"
+],
+"correcta": 0,
+"porque": "En Chihuahua abunda el pastizal."
+},
+{
+"pregunta": "¿Qué es una región natural?",
+"opciones": [
+"Zona con la misma cantidad de coches",
+"Zona con clima y seres vivos parecidos",
+"Zona con el mismo número de escuelas"
+],
+"correcta": 1,
+"porque": "Una región natural tiene clima, plantas y animales parecidos."
+},
+{
+"pregunta": "¿En qué estados hay selva?",
+"opciones": [
+"Chihuahua y Sonora",
+"Chiapas y Tabasco",
+"Zacatecas y Durango"
+],
+"correcta": 1,
+"porque": "La selva está en Chiapas y Tabasco, donde vive el jaguar."
+},
+{
+"pregunta": "¿Qué hay en la región de mar y costa?",
+"opciones": [
+"Pinos y venados",
+"Manglares y arrecifes",
+"Cactus y matorral"
+],
+"correcta": 1,
+"porque": "En las costas se forman manglares y arrecifes."
+}
+],
+"retos-sociales-ambientales-secundaria": [
+{
+"pregunta": "¿Cuál es un reto social?",
+"opciones": [
+"La tala de bosques",
+"La pobreza",
+"La contaminación"
+],
+"correcta": 1,
+"porque": "La pobreza afecta a las personas, por eso es un reto social."
+},
+{
+"pregunta": "¿Cuál es un reto ambiental?",
+"opciones": [
+"La contaminación del aire",
+"La falta de escuelas",
+"La falta de empleo"
+],
+"correcta": 0,
+"porque": "La contaminación daña la naturaleza, por eso es un reto ambiental."
+},
+{
+"pregunta": "Si talan un bosque, ¿qué puede pasar?",
+"opciones": [
+"No pasa nada",
+"Habrá menos agua",
+"Habrá más agua"
+],
+"correcta": 1,
+"porque": "Con menos bosque hay menos agua y se afecta más a quien tiene menos."
+},
+{
+"pregunta": "Al estudiar un problema, ¿cuál es la primera pregunta?",
+"opciones": [
+"¿Cuál es el problema y dónde está?",
+"¿Quién tiene la culpa del problema?",
+"¿Cuánto tiempo falta para el recreo?"
+],
+"correcta": 0,
+"porque": "Primero hay que identificar el problema y dónde ocurre."
+},
+{
+"pregunta": "En ICCA, ¿qué letra pregunta qué podemos hacer?",
+"opciones": [
+"La C de Causas",
+"La I de Identifica",
+"La A de Acciones"
+],
+"correcta": 2,
+"porque": "La A de ICCA es de Acciones: qué podemos hacer."
+}
+],
+"riesgos-desastre-vulnerabilidad-secundaria": [
+{
+"pregunta": "¿Cómo se forma el riesgo?",
+"opciones": [
+"Peligro más vulnerabilidad",
+"Peligro menos vulnerabilidad",
+"Solo lluvia y viento"
+],
+"correcta": 0,
+"porque": "El riesgo suma el peligro y la vulnerabilidad."
+},
+{
+"pregunta": "Dos casas reciben la misma lluvia. ¿Cuál sufre más?",
+"opciones": [
+"Las dos sufren igual",
+"La casa fuerte",
+"La casa frágil"
+],
+"correcta": 2,
+"porque": "La casa frágil es más vulnerable, así que sufre más."
+},
+{
+"pregunta": "¿Cuándo un fenómeno natural se vuelve desastre?",
+"opciones": [
+"Cuando afecta a gente no preparada",
+"Cuando nadie vive cerca",
+"Cuando ocurre solo en el mar"
+],
+"correcta": 0,
+"porque": "Un fenómeno es desastre si daña a gente que no está preparada."
+},
+{
+"pregunta": "¿Cuál ayuda a prevenir daños en una escuela?",
+"opciones": [
+"Esperar a que pase todo",
+"Hacer un simulacro con tu salón",
+"Ignorar la alarma"
+],
+"correcta": 1,
+"porque": "Los simulacros enseñan qué hacer antes de que pase algo."
+},
+{
+"pregunta": "Haces el plan familiar para un sismo. ¿Qué debe decir?",
+"opciones": [
+"Qué película ver después",
+"A dónde salir y dónde reunirse",
+"Quién tiene el mejor celular"
+],
+"correcta": 1,
+"porque": "Un buen plan dice a dónde salir y dónde reunirse."
+}
+],
+"rios-de-mexico-secundaria": [
+{
+"pregunta": "¿Por qué estados pasa el río Grijalva?",
+"opciones": [
+"Yucatán y Campeche",
+"Sonora y Chihuahua",
+"Chiapas y Tabasco"
+],
+"correcta": 2,
+"porque": "El Grijalva corre por Chiapas y Tabasco."
+},
+{
+"pregunta": "¿En qué estados está el río Balsas?",
+"opciones": [
+"Guerrero y Michoacán",
+"Sonora y Sinaloa",
+"Chiapas y Tabasco"
+],
+"correcta": 0,
+"porque": "El Balsas recorre Guerrero y Michoacán."
+},
+{
+"pregunta": "¿Cuál de estos ríos desemboca en el Golfo?",
+"opciones": [
+"Pánuco",
+"Yaqui",
+"Balsas"
+],
+"correcta": 0,
+"porque": "El Pánuco lleva su agua al Golfo de México."
+},
+{
+"pregunta": "¿Qué zona de México tiene mucha agua?",
+"opciones": [
+"El sureste",
+"El desierto",
+"El norte"
+],
+"correcta": 0,
+"porque": "El sureste tiene mucha agua y el norte, poca."
+},
+{
+"pregunta": "¿Qué es un río?",
+"opciones": [
+"Una corriente de agua que va a otro río, lago o mar",
+"Un terreno plano que no tiene agua",
+"Una montaña llena de nieve y rocas"
+],
+"correcta": 0,
+"porque": "Un río es agua que corre hacia otro río, lago o mar."
+}
+],
+"rios-mas-importantes-del-mundo-secundaria": [
+{
+"pregunta": "¿Qué río cruza muchos países europeos?",
+"opciones": [
+"Danubio",
+"Ganges",
+"Misisipi"
+],
+"correcta": 0,
+"porque": "El Danubio atraviesa muchos países de Europa."
+},
+{
+"pregunta": "¿En qué país está el río Ganges?",
+"opciones": [
+"China",
+"Rusia",
+"India"
+],
+"correcta": 2,
+"porque": "El Ganges es un río importante de la India."
+},
+{
+"pregunta": "¿En qué país está el río Misisipi?",
+"opciones": [
+"Rusia, donde está el Volga",
+"India, donde está el Ganges",
+"Estados Unidos, en Norteamérica"
+],
+"correcta": 2,
+"porque": "El Misisipi está en Estados Unidos."
+},
+{
+"pregunta": "¿Cuál de estos ríos está en África?",
+"opciones": [
+"El Congo",
+"El Volga",
+"El Ganges"
+],
+"correcta": 0,
+"porque": "El Congo y el Nilo son ríos de África."
+},
+{
+"pregunta": "Marcas el Amazonas en tu mapa. ¿En qué continente va?",
+"opciones": [
+"Asia",
+"Sudamérica",
+"África"
+],
+"correcta": 1,
+"porque": "El Amazonas es el río más caudaloso de Sudamérica."
+}
+],
+"sectores-economicos-secundaria": [
+{
+"pregunta": "Un campesino cultiva trigo. ¿En qué sector trabaja?",
+"opciones": [
+"Terciario",
+"Secundario",
+"Primario"
+],
+"correcta": 2,
+"porque": "Cultivar es obtener algo de la naturaleza: sector primario."
+},
+{
+"pregunta": "Un panadero hace pan con harina. ¿En qué sector trabaja?",
+"opciones": [
+"Terciario",
+"Primario",
+"Secundario"
+],
+"correcta": 2,
+"porque": "Hacer pan transforma la harina: sector secundario."
+},
+{
+"pregunta": "¿Cuál es el orden de trigo, pan y panadería?",
+"opciones": [
+"Primario, secundario, terciario",
+"Secundario, terciario, primario",
+"Terciario, primario, secundario"
+],
+"correcta": 0,
+"porque": "Se saca el trigo, se transforma en pan y se vende."
+},
+{
+"pregunta": "¿En qué sector está la minería?",
+"opciones": [
+"Primario",
+"Secundario",
+"Terciario"
+],
+"correcta": 0,
+"porque": "La minería saca recursos de la naturaleza."
+},
+{
+"pregunta": "Tu vecina vende frutas en un mercado. ¿Qué sector es?",
+"opciones": [
+"Terciario",
+"Secundario",
+"Primario"
+],
+"correcta": 0,
+"porque": "Vender y dar servicios es del sector terciario."
+}
+],
+"sierras-y-montanas-de-mexico-secundaria": [
+{
+"pregunta": "¿Dónde está la Sierra Madre Oriental?",
+"opciones": [
+"En Yucatán",
+"Al este",
+"Al oeste"
+],
+"correcta": 1,
+"porque": "La Sierra Madre Oriental queda en el este del país."
+},
+{
+"pregunta": "¿Qué zona está entre las sierras?",
+"opciones": [
+"El desierto",
+"El Altiplano",
+"El mar"
+],
+"correcta": 1,
+"porque": "Entre las sierras se encuentra el Altiplano."
+},
+{
+"pregunta": "¿A qué se parecen las sierras de México?",
+"opciones": [
+"A un río largo",
+"A una isla chica",
+"A la espalda del país"
+],
+"correcta": 2,
+"porque": "Las sierras son como la espalda de México."
+},
+{
+"pregunta": "¿Cuál de estas es una sierra de México?",
+"opciones": [
+"Sierra del Nilo",
+"Sierra de España",
+"Sierra de Chiapas"
+],
+"correcta": 2,
+"porque": "La Sierra de Chiapas está en el sur del país."
+},
+{
+"pregunta": "Un amigo dice que el Altiplano es una sierra. ¿Qué le dices?",
+"opciones": [
+"No, es un mar muy grande",
+"Es una zona entre las sierras",
+"Sí, es la sierra más alta"
+],
+"correcta": 1,
+"porque": "El Altiplano no es una sierra: queda entre ellas."
+}
+],
+"suelo-seguridad-alimentaria-secundaria": [
+{
+"pregunta": "¿Cómo se llama cuando el viento y el agua se llevan el suelo?",
+"opciones": [
+"Reciclaje",
+"Sequía",
+"Erosión"
+],
+"correcta": 2,
+"porque": "La erosión arrastra el suelo cuando no está protegido."
+},
+{
+"pregunta": "¿Qué es sembrar sin dejar descansar el suelo?",
+"opciones": [
+"Abono, que le da nutrientes",
+"Composta, hecha de restos",
+"Sobreexplotación del suelo"
+],
+"correcta": 2,
+"porque": "Sembrar sin descanso gasta el suelo y se llama sobreexplotación."
+},
+{
+"pregunta": "¿Cuál acción cuida el suelo?",
+"opciones": [
+"Cambiar de cultivo",
+"Quemar la basura",
+"Tirar químicos"
+],
+"correcta": 0,
+"porque": "Cambiar de cultivo ayuda a que el suelo se recupere."
+},
+{
+"pregunta": "Juntas cáscaras en un bote en tu escuela. ¿Qué haces?",
+"opciones": [
+"Composta",
+"Basura",
+"Cemento"
+],
+"correcta": 0,
+"porque": "Las cáscaras se vuelven abono orgánico para el suelo."
+},
+{
+"pregunta": "Cubrimos el suelo con cemento. ¿Qué problema causa?",
+"opciones": [
+"Hace más comida",
+"No deja crecer plantas",
+"Limpia la tierra"
+],
+"correcta": 1,
+"porque": "El cemento tapa el suelo y las plantas no crecen."
+}
+],
+"tasas-de-natalidad-y-mortalidad-secundaria": [
+{
+"pregunta": "Natalidad de 25 y mortalidad de 9 por mil. ¿Cuánto es el crecimiento?",
+"opciones": [
+"34 por mil",
+"9 por mil",
+"16 por mil"
+],
+"correcta": 2,
+"porque": "Se restan: 25 menos 9 da 16 por cada mil."
+},
+{
+"pregunta": "Natalidad de 9 y mortalidad de 14. ¿Cuánto es el crecimiento natural?",
+"opciones": [
+"$-5$ por mil",
+"5 por mil",
+"23 por mil"
+],
+"correcta": 0,
+"porque": "Mueren más de los que nacen: 9 menos 14 da $-5$."
+},
+{
+"pregunta": "¿Qué cuenta la mortalidad?",
+"opciones": [
+"Las escuelas por cada 1000 niños",
+"Los nacimientos por cada 100 casas",
+"Las muertes por cada 1000 habitantes"
+],
+"correcta": 2,
+"porque": "La mortalidad cuenta muertes por cada 1000 habitantes."
+},
+{
+"pregunta": "En la tina, la llave son los nacimientos. ¿Qué es el desagüe?",
+"opciones": [
+"Las escuelas",
+"Los viajes",
+"Las muertes"
+],
+"correcta": 2,
+"porque": "El agua que sale de la tina se parece a las muertes."
+},
+{
+"pregunta": "Las tasas se cuentan por cada cuántos habitantes?",
+"opciones": [
+"10",
+"100",
+"1000"
+],
+"correcta": 2,
+"porque": "Las tasas de natalidad y mortalidad se calculan por cada 1000 habitantes."
+}
+],
+"tipos-de-relieve-secundaria": [
+{
+"pregunta": "¿Qué es una depresión?",
+"opciones": [
+"Terreno más alto que sus vecinos",
+"Terreno más bajo que lo que lo rodea",
+"Terreno plano en las montañas"
+],
+"correcta": 1,
+"porque": "La depresión queda por debajo de lo que la rodea."
+},
+{
+"pregunta": "¿Qué es una montaña?",
+"opciones": [
+"Un camino plano",
+"Un terreno bajo",
+"Una elevación alta"
+],
+"correcta": 2,
+"porque": "La montaña es una elevación alta de la tierra."
+},
+{
+"pregunta": "¿Qué es el relieve?",
+"opciones": [
+"La ropa de las personas",
+"Las formas de la superficie terrestre",
+"Las nubes que hay en el cielo"
+],
+"correcta": 1,
+"porque": "El relieve son las formas que tiene la superficie de la Tierra."
+},
+{
+"pregunta": "Arrugas una sábana. ¿Qué formas salen?",
+"opciones": [
+"Montañas, valles y llanos",
+"Solo nubes y viento",
+"Solo ríos y mares"
+],
+"correcta": 0,
+"porque": "La sábana arrugada se parece al relieve con sus altos y bajos."
+},
+{
+"pregunta": "¿Cuál de estos es una forma de relieve?",
+"opciones": [
+"Nube",
+"Océano",
+"Cordillera"
+],
+"correcta": 2,
+"porque": "La cordillera es una cadena de montañas."
+}
+]
+}

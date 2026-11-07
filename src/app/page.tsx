@@ -1,7 +1,10 @@
 import Link from "next/link";
 import { AyudaTema } from "@/components/AyudaTema";
 import { ChatEnVivo } from "@/components/ChatEnVivo";
+import { etiquetaGrado } from "@/lib/grado";
+import { ASISTENTE, ESCUELA } from "@/lib/marca";
 import { estadoMaestro } from "@/lib/plan";
+import { progresoActivo } from "@/lib/progreso";
 import { NIVELES, type Nivel } from "@/lib/pedagogical-prompt";
 import { buscarTemas, listarMaterias, listarTemas, type TemaResumen } from "@/lib/temas";
 
@@ -16,7 +19,7 @@ function Lista({ temas }: { temas: TemaResumen[] }) {
         <li key={t.slug}>
           <Link href={`/tema/${t.slug}`}>
             <strong>{t.titulo}</strong>
-            <span>{t.materia} · {t.nivel}, {t.etapa}</span>
+            <span>{t.materia} · {etiquetaGrado(t.nivel, t.etapa)}</span>
           </Link>
         </li>
       ))}
@@ -42,7 +45,10 @@ export default async function Inicio({ searchParams }: Props) {
   return (
     <main className="pagina">
       <header className="portada">
-        <p className="marca">Escuela de regularización</p>
+        <p className="marca">{ESCUELA}</p>
+        {progresoActivo() && (
+          <p className="sin-imprimir"><Link className="enlace-fuerte" href="/progreso">Mi progreso</Link></p>
+        )}
         <h1>¿Qué tema quieres entender hoy?</h1>
       </header>
 
@@ -70,7 +76,7 @@ export default async function Inicio({ searchParams }: Props) {
               className="enlace-fuerte"
               href={`/?${new URLSearchParams({ q, nuevo: "1", ...(nivel ? { nivel } : {}) })}`}
             >
-              Preguntarle al maestro
+              Preguntarle a {ASISTENTE}
             </Link>
           </p>}
         </section>
@@ -88,7 +94,7 @@ export default async function Inicio({ searchParams }: Props) {
 
       {!q && !enMateria && maestro !== "oculto" && (
         <section className="sin-imprimir">
-          <h2>Maestro en vivo</h2>
+          <h2>{ASISTENTE}</h2>
           <AyudaTema nivel={nivel} estado={maestro} />
         </section>
       )}

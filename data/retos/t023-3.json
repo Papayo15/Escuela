@@ -1,0 +1,522 @@
+{
+"movilidad-migraciones-historia-secundaria": [
+{
+"pregunta": "Una familia sale de Oaxaca y llega a Monterrey. ¿Cómo se llama su movimiento?",
+"opciones": [
+"Migración",
+"Descolonización",
+"Devaluación"
+],
+"correcta": 0,
+"porque": "Migrar es irse a vivir a otro lugar."
+},
+{
+"pregunta": "¿Qué significa inmigrar?",
+"opciones": [
+"Salir de un lugar",
+"Volver a casa de visita",
+"Llegar a vivir a otro lugar"
+],
+"correcta": 2,
+"porque": "Inmigrar es llegar, y emigrar es salir."
+},
+{
+"pregunta": "¿Qué fue el Programa Bracero?",
+"opciones": [
+"Un plan para construir escuelas",
+"Un concurso de comida",
+"Llevó trabajadores mexicanos a Estados Unidos"
+],
+"correcta": 2,
+"porque": "Funcionó de 1942 a 1964."
+},
+{
+"pregunta": "¿Qué aportan las personas migrantes a un lugar?",
+"opciones": [
+"Solo problemas",
+"Nada nuevo",
+"Comida, lengua y costumbres"
+],
+"correcta": 2,
+"porque": "Al llegar traen su cultura y la comparten."
+},
+{
+"pregunta": "Si en tu escuela hay un platillo que vino de otra región, ¿qué muestra?",
+"opciones": [
+"Que en esta región no hay cultura",
+"Que los migrantes traen su cultura",
+"Que nadie se mudó a esta región"
+],
+"correcta": 1,
+"porque": "Los migrantes llevan consigo su comida, su lengua y sus costumbres."
+}
+],
+"movimiento-de-1968-en-mexico-secundaria": [
+{
+"pregunta": "¿Qué pasó el 2 de octubre de 1968 en México?",
+"opciones": [
+"Se firmó la paz con Corea",
+"Cayó el muro de Berlín",
+"El Ejército disparó contra manifestantes"
+],
+"correcta": 2,
+"porque": "Fue la matanza de Tlatelolco, en la Plaza de las Tres Culturas."
+},
+{
+"pregunta": "¿Quién protestaba en el movimiento de 1968?",
+"opciones": [
+"Solo comerciantes",
+"Estudiantes y maestros",
+"Solo soldados"
+],
+"correcta": 1,
+"porque": "Las marchas fueron de jóvenes y maestros que pedían libertades."
+},
+{
+"pregunta": "¿Quién era presidente de México en 1968?",
+"opciones": [
+"Claudia Sheinbaum",
+"Adolfo Ruiz Cortines",
+"Gustavo Díaz Ordaz"
+],
+"correcta": 2,
+"porque": "Díaz Ordaz gobernaba cuando ocurrió Tlatelolco."
+},
+{
+"pregunta": "¿Qué pedía el pliego petitorio?",
+"opciones": [
+"Libertades y diálogo",
+"Un nuevo estadio",
+"Más tareas"
+],
+"correcta": 0,
+"porque": "Eran seis puntos para que el gobierno escuchara a los estudiantes."
+},
+{
+"pregunta": "Si los alumnos de tu escuela piden ser escuchados y reciben violencia, ¿qué se recordaría?",
+"opciones": [
+"La Revolución industrial",
+"El 2 de octubre de 1968",
+"El Grito de Dolores"
+],
+"correcta": 1,
+"porque": "Se recuerda porque una protesta pacífica terminó en violencia."
+}
+],
+"mujeres-historias-historia-secundaria": [
+{
+"pregunta": "¿Quién apoyó a los insurgentes en la Independencia?",
+"opciones": [
+"Leona Vicario",
+"Hermila Galindo",
+"Sor Juana"
+],
+"correcta": 0,
+"porque": "Leona Vicario ayudó a los insurgentes."
+},
+{
+"pregunta": "¿Por qué se dice que la participación de las mujeres fue poco visible?",
+"opciones": [
+"Ellas no hicieron nada",
+"Muchos relatos solo hablaban de hombres",
+"No existían mujeres"
+],
+"correcta": 1,
+"porque": "Por mucho tiempo casi no se escribió sobre ellas."
+},
+{
+"pregunta": "¿Quién fue Sor Juana?",
+"opciones": [
+"Una presidenta",
+"Una exploradora del mar",
+"Una escritora de la Nueva España"
+],
+"correcta": 2,
+"porque": "Sor Juana escribió poemas y obras en la época colonial."
+},
+{
+"pregunta": "¿Qué logra la historia si cuenta lo que hicieron las mujeres?",
+"opciones": [
+"Queda más corta",
+"Queda completa",
+"Queda sin personajes"
+],
+"correcta": 1,
+"porque": "Sin ellas, la historia estaría incompleta."
+},
+{
+"pregunta": "Si en una foto de tu grupo recortan a la mitad de los niños, ¿qué se parece?",
+"opciones": [
+"A una historia sin mujeres",
+"A un mapa completo",
+"A una línea del tiempo"
+],
+"correcta": 0,
+"porque": "Contar solo a unos deja fuera a muchas personas."
+}
+],
+"napoleon-bonaparte-secundaria": [
+{
+"pregunta": "¿Dónde fue derrotado Napoleón al final?",
+"opciones": [
+"En Sarajevo",
+"En Waterloo",
+"En Saigón"
+],
+"correcta": 1,
+"porque": "Su derrota en Waterloo fue en 1815."
+},
+{
+"pregunta": "¿En qué año fue emperador de Francia?",
+"opciones": [
+"1917",
+"1804",
+"1776"
+],
+"correcta": 1,
+"porque": "Napoleón se coronó emperador en 1804."
+},
+{
+"pregunta": "¿Dónde murió Napoleón?",
+"opciones": [
+"En Moscú",
+"En Santa Elena",
+"En París"
+],
+"correcta": 1,
+"porque": "Murió exiliado en la isla de Santa Elena."
+},
+{
+"pregunta": "¿Qué país invadió Napoleón en 1808?",
+"opciones": [
+"España",
+"Brasil",
+"Estados Unidos"
+],
+"correcta": 0,
+"porque": "Eso influyó en las independencias de América."
+},
+{
+"pregunta": "Si marcas en un mapa las conquistas de Napoleón, ¿qué región ocupa casi todo?",
+"opciones": [
+"Oceanía",
+"Antártida",
+"Europa"
+],
+"correcta": 2,
+"porque": "Napoleón conquistó gran parte de Europa."
+}
+],
+"poder-derechos-grupos-discriminados-secundaria": [
+{
+"pregunta": "¿Qué abolió el decreto de Vicente Guerrero de 1829?",
+"opciones": [
+"Los impuestos",
+"La esclavitud",
+"Las escuelas"
+],
+"correcta": 1,
+"porque": "Guerrero la prohibió en México."
+},
+{
+"pregunta": "¿Qué es una relación de poder?",
+"opciones": [
+"Cuando un grupo decide y controla más que otro",
+"Cuando todos deciden igual",
+"Cuando nadie manda"
+],
+"correcta": 0,
+"porque": "Hay poder desigual si un grupo manda más."
+},
+{
+"pregunta": "¿Qué grupo ha sido históricamente discriminado?",
+"opciones": [
+"Pueblos indígenas",
+"Los reyes",
+"Los presidentes"
+],
+"correcta": 0,
+"porque": "Han sufrido prejuicios y pocos derechos."
+},
+{
+"pregunta": "¿Qué dicen hoy los derechos humanos?",
+"opciones": [
+"Que mandan los más fuertes",
+"Que unos valen más",
+"Que todos valemos igual"
+],
+"correcta": 2,
+"porque": "Los derechos buscan equilibrar el poder."
+},
+{
+"pregunta": "Si en tu escuela algunos niños nunca pueden elegir el juego, ¿qué se necesita?",
+"opciones": [
+"Que todos tengan voz",
+"Que nadie juegue",
+"Que mande el más fuerte"
+],
+"correcta": 0,
+"porque": "Los derechos ayudan a que todos participen."
+}
+],
+"primera-guerra-mundial-causas-secundaria": [
+{
+"pregunta": "¿Qué hecho inició la Primera Guerra Mundial?",
+"opciones": [
+"El asesinato de Francisco Fernando",
+"La caída de la bolsa en Nueva York",
+"La toma de la Bastilla en Francia"
+],
+"correcta": 0,
+"porque": "El asesinato del archiduque en Sarajevo fue el detonante de la guerra."
+},
+{
+"pregunta": "¿En qué ciudad fue el asesinato del archiduque?",
+"opciones": [
+"Berlín",
+"Sarajevo",
+"Madrid"
+],
+"correcta": 1,
+"porque": "Ocurrió en Sarajevo, y las alianzas hicieron el resto."
+},
+{
+"pregunta": "¿Cuál fue una causa de fondo de la guerra?",
+"opciones": [
+"La carrera armamentista",
+"El cambio climático",
+"El Internet"
+],
+"correcta": 0,
+"porque": "Los países se armaban y se preparaban para pelear."
+},
+{
+"pregunta": "¿Quiénes formaban la Triple Entente?",
+"opciones": [
+"Alemania e Italia",
+"Francia, Reino Unido y Rusia",
+"México y Cuba"
+],
+"correcta": 1,
+"porque": "Era uno de los dos bloques de aliados."
+},
+{
+"pregunta": "Si dos equipos de tu escuela se arman con alianzas y una chispa los enfrenta, ¿qué se parece?",
+"opciones": [
+"Al voto de las mujeres",
+"A la carrera espacial",
+"A las causas de la guerra de 1914"
+],
+"correcta": 2,
+"porque": "Las alianzas y la tensión llevaron a una guerra grande."
+}
+],
+"primera-guerra-mundial-desarrollo-y-consecuencias-secundaria": [
+{
+"pregunta": "¿Qué tratado terminó la Primera Guerra Mundial?",
+"opciones": [
+"El de Tlatelolco",
+"El Tratado de Versalles",
+"El de San Andrés"
+],
+"correcta": 1,
+"porque": "Se firmó en 1919 y fue duro con Alemania."
+},
+{
+"pregunta": "¿Qué día de 1918 se firmó el armisticio que detuvo los combates?",
+"opciones": [
+"4 de julio",
+"11 de noviembre",
+"1 de enero"
+],
+"correcta": 1,
+"porque": "Ese día se detuvieron los combates de la Primera Guerra Mundial."
+},
+{
+"pregunta": "¿Qué país entró a la guerra en 1917?",
+"opciones": [
+"Estados Unidos, en América",
+"México, país vecino de EU",
+"Cuba, una isla del Caribe"
+],
+"correcta": 0,
+"porque": "Estados Unidos entró a la Primera Guerra Mundial en 1917."
+},
+{
+"pregunta": "¿Qué organización nació después de la guerra para cuidar la paz?",
+"opciones": [
+"La Liga de las Naciones",
+"La Alianza de los Imperios",
+"La Unión Europea de hoy"
+],
+"correcta": 0,
+"porque": "La Liga de las Naciones nació en 1919 para evitar nuevas guerras."
+},
+{
+"pregunta": "Si en un cuaderno haces una línea del tiempo, ¿qué años cubre la guerra?",
+"opciones": [
+"De 1914 a 1918",
+"De 1947 a 1991",
+"De 1939 a 1945"
+],
+"correcta": 0,
+"porque": "La Primera Guerra duró cuatro años."
+}
+],
+"revolucion-china-secundaria": [
+{
+"pregunta": "¿Quién llevó al poder al Partido Comunista en China?",
+"opciones": [
+"Chiang Kai-shek",
+"Gandhi",
+"Mao Zedong"
+],
+"correcta": 2,
+"porque": "Mao proclamó la República Popular China en 1949."
+},
+{
+"pregunta": "¿En qué año nació la República Popular China?",
+"opciones": [
+"1949",
+"1959",
+"1917"
+],
+"correcta": 0,
+"porque": "Fue el 1 de octubre de 1949."
+},
+{
+"pregunta": "¿A dónde se fueron los nacionalistas derrotados?",
+"opciones": [
+"A Taiwán",
+"A Japón",
+"A Corea"
+],
+"correcta": 0,
+"porque": "Chiang Kai-shek y los suyos huyeron a esa isla."
+},
+{
+"pregunta": "¿Quién encabezó a los nacionalistas?",
+"opciones": [
+"Lenin",
+"Napoleón",
+"Chiang Kai-shek"
+],
+"correcta": 2,
+"porque": "Peleaban contra los comunistas en la guerra civil."
+},
+{
+"pregunta": "Si ubicas China en un mapa, ¿qué país se ve?",
+"opciones": [
+"Un país sin gente",
+"Una isla pequeña",
+"El más poblado de esos años"
+],
+"correcta": 2,
+"porque": "China era el país más poblado cuando cambió su gobierno."
+}
+],
+"revolucion-cubana-secundaria": [
+{
+"pregunta": "¿Qué dictador cayó en la Revolución cubana?",
+"opciones": [
+"Napoleón",
+"Fulgencio Batista",
+"Mussolini"
+],
+"correcta": 1,
+"porque": "Batista fue derrocado en 1959."
+},
+{
+"pregunta": "¿Quiénes fueron líderes de la revolución?",
+"opciones": [
+"Lenin y Stalin",
+"Fidel Castro y el Che Guevara",
+"Bolívar y San Martín"
+],
+"correcta": 1,
+"porque": "Ellos encabezaron el movimiento."
+},
+{
+"pregunta": "¿Desde qué país salió el yate Granma?",
+"opciones": [
+"España",
+"Cuba",
+"México"
+],
+"correcta": 2,
+"porque": "Los revolucionarios salieron desde México."
+},
+{
+"pregunta": "¿Qué medida aplicó Estados Unidos contra Cuba?",
+"opciones": [
+"Un bloqueo",
+"Un regalo",
+"Un tratado"
+],
+"correcta": 0,
+"porque": "El bloqueo limitó el comercio con la isla."
+},
+{
+"pregunta": "Si ubicas Cuba en un mapa, ¿qué es?",
+"opciones": [
+"Una isla",
+"Un desierto",
+"Una montaña"
+],
+"correcta": 0,
+"porque": "Cuba es una isla en el mar Caribe."
+}
+],
+"revolucion-francesa-secundaria": [
+{
+"pregunta": "¿Qué prisión tomaron el 14 de julio de 1789?",
+"opciones": [
+"La Bastilla",
+"Auschwitz",
+"Alcatraz"
+],
+"correcta": 0,
+"porque": "La toma de la Bastilla fue un símbolo de la Revolución."
+},
+{
+"pregunta": "¿Cuál fue el lema de la Revolución francesa?",
+"opciones": [
+"Libertad, igualdad, fraternidad",
+"Orden y progreso",
+"Paz y trabajo"
+],
+"correcta": 0,
+"porque": "El lema resumía lo que buscaba el pueblo."
+},
+{
+"pregunta": "¿Qué rey fue guillotinado?",
+"opciones": [
+"Luis XVI",
+"Nicolás II",
+"Napoleón"
+],
+"correcta": 0,
+"porque": "Fue ejecutado durante la Revolución."
+},
+{
+"pregunta": "¿Quién dirigió el periodo llamado el Terror?",
+"opciones": [
+"Luis XVI, el rey de Francia",
+"Napoleón, el futuro emperador",
+"Robespierre, un líder jacobino"
+],
+"correcta": 2,
+"porque": "Robespierre dirigió el periodo del Terror."
+},
+{
+"pregunta": "Si en tu salón todos tienen los mismos derechos, ¿qué idea aplicas?",
+"opciones": [
+"Igualdad",
+"Guerra",
+"Monarquía"
+],
+"correcta": 0,
+"porque": "La igualdad es parte del lema francés."
+}
+]
+}

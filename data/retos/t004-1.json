@@ -1,0 +1,522 @@
+{
+"poligonos-circulos-simetria": [
+{
+"pregunta": "Una rueda tiene radio de 12 cm. ¿Cuánto mide su diámetro?",
+"opciones": [
+"12 cm, porque el diámetro es igual al radio",
+"6 cm",
+"24 cm"
+],
+"correcta": 2,
+"porque": "El diámetro es el doble del radio: 12 por 2 son 24 cm."
+},
+{
+"pregunta": "¿Cuántos ejes de simetría tiene un triángulo con lados iguales?",
+"opciones": [
+"3",
+"6",
+"1"
+],
+"correcta": 0,
+"porque": "Un polígono regular de n lados tiene n ejes, y el triángulo tiene 3 lados."
+},
+{
+"pregunta": "Una pizza redonda mide 20 cm de diámetro. ¿Cuánto mide su radio?",
+"opciones": [
+"20 cm, porque el radio y el diámetro miden lo mismo",
+"40 cm",
+"10 cm"
+],
+"correcta": 2,
+"porque": "El radio es la mitad del diámetro: 20 entre 2 son 10 cm."
+},
+{
+"pregunta": "Doblas una hoja y las dos partes coinciden. ¿Cómo se llama la línea del doblez?",
+"opciones": [
+"Diámetro",
+"Radio de la figura, porque va hasta la orilla",
+"Eje de simetría"
+],
+"correcta": 2,
+"porque": "Si al doblar las dos partes coinciden, esa línea es un eje de simetría."
+},
+{
+"pregunta": "Un círculo tiene radio de 4 cm. ¿Cuánto mide su diámetro?",
+"opciones": [
+"8 cm, el doble del radio",
+"16 cm, el radio por cuatro",
+"2 cm, la mitad del radio"
+],
+"correcta": 0,
+"porque": "El diámetro es dos radios: $d = 2r = 8$ cm."
+}
+],
+"poligonos-regulares-e-irregulares-primaria": [
+{
+"pregunta": "La señal de ALTO es un octágono regular. ¿Cuántos lados tiene?",
+"opciones": [
+"8",
+"6",
+"10"
+],
+"correcta": 0,
+"porque": "Octo quiere decir ocho, así que el octágono tiene 8 lados."
+},
+{
+"pregunta": "Un hexágono regular tiene lados de 7 cm. ¿Cuánto mide su perímetro?",
+"opciones": [
+"13 cm",
+"42 cm",
+"49 cm, porque se multiplica 7 por 7"
+],
+"correcta": 1,
+"porque": "En un polígono regular se multiplican los lados por la medida: 6 por 7 son 42."
+},
+{
+"pregunta": "¿Cuál de estas figuras NO es un polígono?",
+"opciones": [
+"El círculo",
+"El triángulo con lados desiguales, porque no es regular",
+"El pentágono"
+],
+"correcta": 0,
+"porque": "Un polígono es una figura cerrada de lados rectos, y el círculo es curvo."
+},
+{
+"pregunta": "Un pentágono regular tiene perímetro de 35 cm. ¿Cuánto mide cada lado?",
+"opciones": [
+"30 cm",
+"175 cm",
+"7 cm"
+],
+"correcta": 2,
+"porque": "Se divide el perímetro entre los lados: 35 entre 5 son 7 cm."
+},
+{
+"pregunta": "¿Cómo se llama el polígono de 9 lados?",
+"opciones": [
+"Eneágono",
+"Decágono",
+"Heptágono"
+],
+"correcta": 0,
+"porque": "El polígono de 9 lados se llama eneágono, y el decágono tiene 10."
+}
+],
+"probabilidad-de-un-evento-simple-primaria": [
+{
+"pregunta": "En una bolsa hay 2 canicas rojas y 8 azules. ¿Cuál es la probabilidad de sacar una roja?",
+"opciones": [
+"$\\frac{8}{10}$",
+"$\\frac{2}{10}$",
+"$\\frac{2}{8}$, porque se comparan solo las rojas con las azules"
+],
+"correcta": 1,
+"porque": "Se cuentan los casos favorables entre todos los posibles: 2 de 10."
+},
+{
+"pregunta": "En un dado, ¿cuál es la probabilidad de sacar un número impar?",
+"opciones": [
+"$\\frac{1}{6}$",
+"$\\frac{1}{3}$",
+"$\\frac{1}{2}$"
+],
+"correcta": 2,
+"porque": "Los impares son 1, 3 y 5, o sea 3 de 6, que es $\\frac{1}{2}$."
+},
+{
+"pregunta": "¿Qué número usamos para decir que algo es imposible?",
+"opciones": [
+"0",
+"$\\frac{1}{2}$",
+"1"
+],
+"correcta": 0,
+"porque": "La probabilidad 0 significa que nunca puede pasar."
+},
+{
+"pregunta": "En el salón escriben 10 nombres en papelitos y 4 son de niñas. ¿Probabilidad de sacar el papel de una niña?",
+"opciones": [
+"$\\frac{4}{6}$, porque se compara con los niños",
+"$\\frac{4}{10}$",
+"$\\frac{6}{10}$"
+],
+"correcta": 1,
+"porque": "Hay 4 casos favorables de 10 posibles, así que es $\\frac{4}{10}$."
+},
+{
+"pregunta": "La probabilidad $\\frac{1}{2}$ ¿a qué porcentaje equivale?",
+"opciones": [
+"50 %",
+"12 %",
+"100 %"
+],
+"correcta": 0,
+"porque": "La mitad de 100 es 50, por eso $\\frac{1}{2}$ es 50 %."
+}
+],
+"problemas-con-fracciones-y-decimales-primaria": [
+{
+"pregunta": "Tomas 0.5 L de agua en la mañana y $\\frac{1}{4}$ L en la tarde. ¿Cuántos litros tomaste?",
+"opciones": [
+"0.5 L, porque la fracción no se puede sumar",
+"0.75 L",
+"0.6 L"
+],
+"correcta": 1,
+"porque": "Se convierte $\\frac{1}{4}$ en 0.25 y se suma: 0.5 más 0.25 son 0.75."
+},
+{
+"pregunta": "Una cinta mide 3.5 m y cortas $\\frac{1}{2}$ m. ¿Cuánto queda?",
+"opciones": [
+"3.4 m",
+"3 m",
+"2.5 m, porque se resta 1 en lugar de 0.5"
+],
+"correcta": 1,
+"porque": "$\\frac{1}{2}$ es 0.5, y 3.5 menos 0.5 son 3 m."
+},
+{
+"pregunta": "¿Cuál es el decimal de $\\frac{3}{4}$?",
+"opciones": [
+"3.4",
+"0.75",
+"0.34"
+],
+"correcta": 1,
+"porque": "Un cuarto es 0.25, así que tres cuartos son 0.75."
+},
+{
+"pregunta": "Quieres sumar $\\frac{1}{4}$ y 0.5. ¿Qué haces primero?",
+"opciones": [
+"Los resto",
+"Sumo los números de arriba y los de abajo sin cambiar nada",
+"Escribo los dos con la misma forma"
+],
+"correcta": 2,
+"porque": "Antes de operar, los datos deben estar como decimales o como fracciones."
+},
+{
+"pregunta": "Compras 2.25 kg de papa y $\\frac{1}{2}$ kg de cebolla. ¿Cuántos kilos llevas?",
+"opciones": [
+"2.75 kg",
+"3.25 kg",
+"2.30 kg"
+],
+"correcta": 0,
+"porque": "$\\frac{1}{2}$ es 0.5, y 2.25 más 0.5 son 2.75 kg."
+}
+],
+"proporcionalidad-y-porcentajes": [
+{
+"pregunta": "Si 4 paletas cuestan 20 pesos, ¿cuánto cuestan 6 paletas?",
+"opciones": [
+"26 pesos, porque se suman 6 pesos",
+"24 pesos",
+"30 pesos"
+],
+"correcta": 2,
+"porque": "Cada paleta cuesta 5 pesos, y 6 por 5 son 30 pesos."
+},
+{
+"pregunta": "¿Cuánto es el 50 % de 90?",
+"opciones": [
+"40",
+"45",
+"50"
+],
+"correcta": 1,
+"porque": "El 50 % es la mitad, y la mitad de 90 es 45."
+},
+{
+"pregunta": "Una mochila de 200 pesos tiene 10 % de descuento. ¿Cuánto pagas?",
+"opciones": [
+"180 pesos",
+"20 pesos, que es solo lo que se descuenta",
+"190 pesos"
+],
+"correcta": 0,
+"porque": "El 10 % de 200 es 20, y se resta: 200 menos 20 son 180 pesos."
+},
+{
+"pregunta": "¿Qué porcentaje de 20 es 5?",
+"opciones": [
+"25 %",
+"20 %",
+"5 %"
+],
+"correcta": 0,
+"porque": "Se divide 5 entre 20 y da 0.25, que es 25 %."
+},
+{
+"pregunta": "¿Cuánto es el 10 % de 70?",
+"opciones": [
+"70, porque es el total entero",
+"7, porque es la décima parte",
+"10, porque el porcentaje es 10"
+],
+"correcta": 1,
+"porque": "El 10 % es la décima parte, y 70 entre 10 es 7."
+}
+],
+"que-es-una-razon-primaria": [
+{
+"pregunta": "Hay 4 niñas por cada 3 niños. ¿Cuál es la razón de niñas a niños?",
+"opciones": [
+"7 : 4, porque se juntan niñas y niños",
+"3 : 4",
+"4 : 3"
+],
+"correcta": 2,
+"porque": "El orden importa: primero van las niñas, luego los niños."
+},
+{
+"pregunta": "Simplifica la razón 10 : 4.",
+"opciones": [
+"10 : 2",
+"2 : 5",
+"5 : 2"
+],
+"correcta": 2,
+"porque": "Se divide cada número entre 2 y queda 5 : 2."
+},
+{
+"pregunta": "La razón de niñas a niños es 3 : 2 y hay 9 niñas. ¿Cuántos niños hay?",
+"opciones": [
+"6",
+"7",
+"11"
+],
+"correcta": 0,
+"porque": "9 es 3 veces 3, así que los niños son 3 veces 2, o sea 6."
+},
+{
+"pregunta": "Una moto recorre 120 km en 2 horas. ¿Cuántos km recorre por hora?",
+"opciones": [
+"240 km",
+"60 km",
+"118 km, porque se restan los números"
+],
+"correcta": 1,
+"porque": "Se divide 120 entre 2 y da 60 km por hora."
+},
+{
+"pregunta": "¿Cómo se lee la razón 2 : 5?",
+"opciones": [
+"Por cada 2 de una cosa hay 5 de otra",
+"Dos menos cinco",
+"Dos más cinco son siete"
+],
+"correcta": 0,
+"porque": "Razón se lee como por cada, y compara dos cantidades."
+}
+],
+"que-porcentaje-es-una-cantidad-de-otra-primaria": [
+{
+"pregunta": "¿Qué porcentaje es 12 de 48?",
+"opciones": [
+"25 %",
+"48 %",
+"12 %"
+],
+"correcta": 0,
+"porque": "Se divide 12 entre 48, da 0.25, y por 100 es 25 %."
+},
+{
+"pregunta": "Sacaste 8 aciertos de 10 preguntas. ¿Qué porcentaje es?",
+"opciones": [
+"80 %",
+"20 %",
+"8 %"
+],
+"correcta": 0,
+"porque": "Se divide 8 entre 10, da 0.8, y por 100 es 80 %."
+},
+{
+"pregunta": "10 alumnos son el 20 % del grupo. ¿Cuántos alumnos hay en total?",
+"opciones": [
+"200, porque se multiplica por 20",
+"50",
+"30"
+],
+"correcta": 1,
+"porque": "Se divide 10 entre 0.2 y da 50 alumnos."
+},
+{
+"pregunta": "¿Cuál es el primer paso para saber qué porcentaje es una parte?",
+"opciones": [
+"Multiplicar la parte por el total y luego sumar 100",
+"Dividir la parte entre el total",
+"Restar el total a la parte"
+],
+"correcta": 1,
+"porque": "Primero se divide la parte entre el total, y después se multiplica por 100."
+},
+{
+"pregunta": "En una caja hay 50 lápices y 5 son rojos. ¿Qué porcentaje son rojos?",
+"opciones": [
+"10 %",
+"50 %",
+"5 %"
+],
+"correcta": 0,
+"porque": "Se divide 5 entre 50 y da 0.1, que es 10 %."
+}
+],
+"redondear-decimales-primaria": [
+{
+"pregunta": "Redondea 4.26 al décimo.",
+"opciones": [
+"4.26",
+"4.2",
+"4.3"
+],
+"correcta": 2,
+"porque": "La cifra de la derecha es 6, que es 5 o más, así que sube."
+},
+{
+"pregunta": "Redondea 9.5 al entero.",
+"opciones": [
+"9.5",
+"9",
+"10"
+],
+"correcta": 2,
+"porque": "La cifra de la derecha es 5, así que el 9 sube y queda 10."
+},
+{
+"pregunta": "Redondea 3.141 al centésimo.",
+"opciones": [
+"3.15",
+"3.14",
+"3.1"
+],
+"correcta": 1,
+"porque": "La cifra de la derecha es 1, que es menor que 5, y el 4 se queda."
+},
+{
+"pregunta": "Redondea 6.98 al décimo.",
+"opciones": [
+"6.9",
+"6.10",
+"7.0"
+],
+"correcta": 2,
+"porque": "El 8 hace subir al 9, que se vuelve 10, y queda 7.0."
+},
+{
+"pregunta": "Tu promedio es 8.35. ¿Cómo queda redondeado al décimo?",
+"opciones": [
+"8.0",
+"8.4",
+"8.3"
+],
+"correcta": 1,
+"porque": "La cifra de la derecha es 5, así que el 3 sube a 4."
+}
+],
+"regla-de-tres-primaria": [
+{
+"pregunta": "Si 2 dulces cuestan 6 pesos, ¿cuánto cuestan 5 dulces?",
+"opciones": [
+"12 pesos",
+"30 pesos, porque se multiplica por 6",
+"15 pesos"
+],
+"correcta": 2,
+"porque": "Se multiplica en cruz 5 por 6, que da 30, y se divide entre 2: 15."
+},
+{
+"pregunta": "5 cuadernos cuestan 75 pesos. ¿Cuánto cuestan 8 cuadernos?",
+"opciones": [
+"600 pesos",
+"120 pesos",
+"115 pesos"
+],
+"correcta": 1,
+"porque": "Se multiplica 8 por 75 y se divide entre 5: da 120 pesos."
+},
+{
+"pregunta": "¿Qué haces primero en una regla de tres?",
+"opciones": [
+"Acomodo los datos en dos columnas",
+"Sumo todos los números",
+"Divido el primer número entre el último sin acomodar los datos"
+],
+"correcta": 0,
+"porque": "Lo primero es acomodar los datos en dos columnas."
+},
+{
+"pregunta": "En 3 horas se hacen 120 piezas. ¿Cuántas piezas se hacen en 7 horas?",
+"opciones": [
+"840 piezas",
+"280 piezas",
+"160 piezas"
+],
+"correcta": 1,
+"porque": "Se multiplica 7 por 120 y se divide entre 3: da 280."
+},
+{
+"pregunta": "4 L de gasolina rinden 60 km. ¿Cuántos km rinden 6 L?",
+"opciones": [
+"64 km",
+"15 km",
+"90 km"
+],
+"correcta": 2,
+"porque": "Se multiplica 6 por 60, que es 360, y se divide entre 4: 90 km."
+}
+],
+"resta-de-decimales-primaria": [
+{
+"pregunta": "Resuelve 7.8 - 2.35",
+"opciones": [
+"5.55",
+"5.35",
+"5.45"
+],
+"correcta": 2,
+"porque": "Se escribe 7.80 menos 2.35 y se resta con los puntos alineados: 5.45."
+},
+{
+"pregunta": "Resuelve 12 - 4.5",
+"opciones": [
+"7.5",
+"7.05",
+"8.5"
+],
+"correcta": 0,
+"porque": "Se escribe 12.0 menos 4.5 y se pide prestado: 7.5."
+},
+{
+"pregunta": "Un lápiz cuesta 6.75 y pagas con 10. ¿Cuánto te dan de cambio?",
+"opciones": [
+"3.75",
+"4.25",
+"3.25"
+],
+"correcta": 2,
+"porque": "Se resta 10.00 menos 6.75 y da 3.25."
+},
+{
+"pregunta": "¿Qué hay que alinear al restar decimales?",
+"opciones": [
+"Los puntos decimales",
+"Solo los ceros",
+"Los números de la derecha sin importar el punto"
+],
+"correcta": 0,
+"porque": "Los puntos van uno debajo del otro, para restar cifras del mismo valor."
+},
+{
+"pregunta": "Resuelve 5 - 0.4",
+"opciones": [
+"4.96",
+"4.6",
+"4.1"
+],
+"correcta": 1,
+"porque": "Se escribe 5.0 menos 0.4 y da 4.6."
+}
+]
+}

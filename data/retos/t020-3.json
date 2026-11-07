@@ -1,0 +1,522 @@
+{
+"fuerza-y-sus-efectos-secundaria": [
+{
+"pregunta": "Una caja recibe 9 N a la derecha y 4 N a la izquierda. ¿Cuál es la fuerza neta?",
+"opciones": [
+"5 N a la derecha",
+"13 N a la derecha",
+"5 N a la izquierda"
+],
+"correcta": 0,
+"porque": "Se resta: $9 - 4 = 5$, hacia donde empuja la mayor."
+},
+{
+"pregunta": "¿Cuál de estos es un efecto de una fuerza?",
+"opciones": [
+"Deformar un objeto",
+"Cambiar su color",
+"Cambiar su nombre"
+],
+"correcta": 0,
+"porque": "Una fuerza puede mover, frenar, cambiar la dirección o deformar."
+},
+{
+"pregunta": "¿Cuál es una fuerza de contacto?",
+"opciones": [
+"La atracción de un imán",
+"Patear un balón",
+"La gravedad"
+],
+"correcta": 1,
+"porque": "En la fuerza de contacto tocas el objeto."
+},
+{
+"pregunta": "En una competencia de cuerda, un equipo jala con 50 N y el otro con 30 N. ¿Cuál es la fuerza neta?",
+"opciones": [
+"0 N, hay equilibrio",
+"20 N hacia el equipo de 50 N",
+"80 N hacia el equipo de 30 N"
+],
+"correcta": 1,
+"porque": "Se resta: $50 - 30 = 20$ hacia el más fuerte."
+},
+{
+"pregunta": "¿Cómo se llama el estado cuando la fuerza neta vale cero?",
+"opciones": [
+"Aceleración",
+"Fricción",
+"Equilibrio"
+],
+"correcta": 2,
+"porque": "Si las fuerzas se cancelan, hay equilibrio."
+}
+],
+"graficas-de-movimiento-secundaria": [
+{
+"pregunta": "En una gráfica de posición contra tiempo, la línea sube. ¿Qué haces?",
+"opciones": [
+"Regresas",
+"Estás detenido",
+"Avanzas"
+],
+"correcta": 2,
+"porque": "Si la posición sube, te alejas del inicio."
+},
+{
+"pregunta": "Una gráfica pasa de $(0, 0)$ a $(3, 12)$. ¿Cuál es la velocidad?",
+"opciones": [
+"15 m/s",
+"4 m/s",
+"36 m/s"
+],
+"correcta": 1,
+"porque": "Lo que subió entre lo que avanzó: $\\frac{12}{3} = 4$."
+},
+{
+"pregunta": "En velocidad contra tiempo, un objeto va a 4 m/s durante 5 s. ¿Cuánto se desplazó?",
+"opciones": [
+"9 m",
+"1.25 m",
+"20 m"
+],
+"correcta": 2,
+"porque": "El área debajo es el desplazamiento: $4 \\times 5 = 20$."
+},
+{
+"pregunta": "En una gráfica de posición contra tiempo, la línea baja. ¿Qué haces?",
+"opciones": [
+"Avanzas",
+"Estás detenido",
+"Regresas"
+],
+"correcta": 2,
+"porque": "Si la posición baja, vuelves hacia el inicio."
+},
+{
+"pregunta": "Vas a dibujar la gráfica de tu camino a la tienda. ¿Qué debes leer primero?",
+"opciones": [
+"El color",
+"Los ejes",
+"El grosor"
+],
+"correcta": 1,
+"porque": "Los ejes dicen qué mide cada dirección de la gráfica."
+}
+],
+"imanes-y-campo-magnetico-secundaria": [
+{
+"pregunta": "¿Cuál de estos objetos atrae un imán?",
+"opciones": [
+"Una hoja de papel",
+"Un vaso de plástico",
+"Un clavo de hierro"
+],
+"correcta": 2,
+"porque": "Un imán atrae hierro, níquel y cobalto."
+},
+{
+"pregunta": "Un compañero acerca dos imanes y se empujan. ¿Qué polos acercó?",
+"opciones": [
+"Polos iguales",
+"Ningún polo",
+"Polos opuestos"
+],
+"correcta": 0,
+"porque": "Los polos iguales se repelen."
+},
+{
+"pregunta": "¿Hacia dónde apunta casi siempre la aguja de una brújula?",
+"opciones": [
+"Hacia el suelo siempre",
+"Al norte de la Tierra",
+"Hacia el Sol de día"
+],
+"correcta": 1,
+"porque": "La Tierra actúa como un imán y la aguja apunta al norte."
+},
+{
+"pregunta": "¿Cómo se dibujan las líneas del campo magnético?",
+"opciones": [
+"Salen del norte y entran al sur",
+"Giran sin salir del imán",
+"Salen del sur y entran al norte"
+],
+"correcta": 0,
+"porque": "Las líneas salen del polo norte y entran al polo sur."
+},
+{
+"pregunta": "¿Cuál de estos aparatos usa un electroimán?",
+"opciones": [
+"Un timbre de casa",
+"Una cuchara de palo",
+"Un vaso de plástico"
+],
+"correcta": 0,
+"porque": "El timbre usa un electroimán para sonar."
+}
+],
+"induccion-electromagnetica-secundaria": [
+{
+"pregunta": "¿Qué se necesita para inducir corriente en un conductor?",
+"opciones": [
+"Un cable sin alambre",
+"Un imán que no se mueve",
+"Un campo magnético que cambia"
+],
+"correcta": 2,
+"porque": "Si el campo no cambia, no hay corriente."
+},
+{
+"pregunta": "¿Qué hace que el voltaje inducido aumente?",
+"opciones": [
+"Menos vueltas de alambre",
+"Más vueltas de alambre",
+"Un imán más débil"
+],
+"correcta": 1,
+"porque": "Más vueltas, más rapidez y un imán más fuerte dan más voltaje."
+},
+{
+"pregunta": "Según el texto, ¿en qué año descubrió Faraday la inducción?",
+"opciones": [
+"1831",
+"1931",
+"1731"
+],
+"correcta": 0,
+"porque": "Michael Faraday la descubrió en 1831."
+},
+{
+"pregunta": "¿Cuál de estos aparatos usa inducción?",
+"opciones": [
+"Un cargador inalámbrico",
+"Una vela de cumpleaños",
+"Una cuchara de metal"
+],
+"correcta": 0,
+"porque": "El cargador inalámbrico usa inducción electromagnética."
+},
+{
+"pregunta": "¿Cómo se produce casi toda la electricidad de las centrales?",
+"opciones": [
+"Con imanes quietos",
+"Con pilas pequeñas",
+"Por inducción"
+],
+"correcta": 2,
+"porque": "Los generadores de las centrales funcionan por inducción."
+}
+],
+"lentes-y-espejos-secundaria": [
+{
+"pregunta": "¿Qué hace una lente convergente?",
+"opciones": [
+"Detiene los rayos de luz",
+"Junta los rayos de luz",
+"Separa los rayos de luz"
+],
+"correcta": 1,
+"porque": "La convergente junta los rayos en un foco."
+},
+{
+"pregunta": "Una persona ve mal de cerca. ¿Qué lente le sirve?",
+"opciones": [
+"Un espejo plano",
+"Una divergente",
+"Una convergente"
+],
+"correcta": 2,
+"porque": "La hipermetropía se corrige con lentes convergentes."
+},
+{
+"pregunta": "¿Qué espejo concentra la luz?",
+"opciones": [
+"El plano",
+"El convexo",
+"El cóncavo"
+],
+"correcta": 2,
+"porque": "El espejo cóncavo concentra la luz."
+},
+{
+"pregunta": "¿Qué es la miopía?",
+"opciones": [
+"No distinguir los colores",
+"Ver mal de cerca",
+"Ver mal de lejos"
+],
+"correcta": 2,
+"porque": "En la miopía se ve mal de lejos."
+},
+{
+"pregunta": "¿Cómo es una lente divergente?",
+"opciones": [
+"Más delgada en el centro",
+"Más gruesa en el centro",
+"Igual de gruesa en todos lados"
+],
+"correcta": 0,
+"porque": "La divergente es más delgada en el centro y separa los rayos."
+}
+],
+"ley-de-ohm-secundaria": [
+{
+"pregunta": "¿Qué voltaje hay con una corriente de 5 A y una resistencia de 8 $\\Omega$?",
+"opciones": [
+"40 V",
+"3 V",
+"13 V"
+],
+"correcta": 0,
+"porque": "$V = IR = 5 \\times 8 = 40$."
+},
+{
+"pregunta": "¿Cuál es la corriente con 18 V y 3 $\\Omega$?",
+"opciones": [
+"15 A",
+"6 A",
+"54 A"
+],
+"correcta": 1,
+"porque": "$I = \\frac{18}{3} = 6$ A."
+},
+{
+"pregunta": "¿Cuál es la resistencia con 30 V y 5 A?",
+"opciones": [
+"150 $\\Omega$",
+"6 $\\Omega$",
+"35 $\\Omega$"
+],
+"correcta": 1,
+"porque": "$R = \\frac{30}{5} = 6$."
+},
+{
+"pregunta": "Subes el voltaje y la resistencia queda igual. ¿Qué pasa con la corriente?",
+"opciones": [
+"Disminuye",
+"Se queda igual",
+"Aumenta"
+],
+"correcta": 2,
+"porque": "Más empuje da más corriente."
+},
+{
+"pregunta": "Para hallar la corriente, ¿qué haces?",
+"opciones": [
+"Restas la resistencia al voltaje",
+"Multiplicas voltaje por resistencia",
+"Divides el voltaje entre la resistencia"
+],
+"correcta": 2,
+"porque": "La fórmula es $I = \\frac{V}{R}$."
+}
+],
+"luz-reflexion-y-refraccion-secundaria": [
+{
+"pregunta": "Un rayo llega a un espejo con 45°. ¿Con qué ángulo se refleja?",
+"opciones": [
+"45°",
+"135°",
+"90°"
+],
+"correcta": 0,
+"porque": "La luz sale con el mismo ángulo con que llegó."
+},
+{
+"pregunta": "La luz pasa del aire al agua y se tuerce. ¿Cómo se llama esto?",
+"opciones": [
+"Inercia",
+"Refracción",
+"Reflexión"
+],
+"correcta": 1,
+"porque": "En la refracción la luz se desvía al cambiar de material."
+},
+{
+"pregunta": "Te ves en un espejo. ¿Qué pasa con la luz?",
+"opciones": [
+"Se apaga",
+"Rebota",
+"Se tuerce en el vidrio"
+],
+"correcta": 1,
+"porque": "La reflexión es cuando la luz rebota."
+},
+{
+"pregunta": "¿Por qué una alberca parece menos honda de lo que es?",
+"opciones": [
+"Porque la luz se desvía al salir del agua",
+"Porque el agua es más fría",
+"Porque el agua no tiene luz"
+],
+"correcta": 0,
+"porque": "La refracción desvía la luz y engaña a tus ojos."
+},
+{
+"pregunta": "¿Por qué cambia de dirección la luz al pasar de aire a agua?",
+"opciones": [
+"Porque el agua la atrae como imán",
+"Porque se cansa",
+"Porque cambia de velocidad"
+],
+"correcta": 2,
+"porque": "La luz cambia de velocidad al cambiar de material."
+}
+],
+"maquinas-simples-secundaria": [
+{
+"pregunta": "Una carga de 400 N está a 1 m del apoyo y empujas a 2 m. ¿Qué fuerza necesitas?",
+"opciones": [
+"800 N",
+"400 N",
+"200 N"
+],
+"correcta": 2,
+"porque": "$F = \\frac{400 \\times 1}{2} = 200$ N."
+},
+{
+"pregunta": "Con 300 N levantas una carga de 900 N. ¿Cuál es la ventaja mecánica?",
+"opciones": [
+"600 veces",
+"0.33 veces",
+"3 veces"
+],
+"correcta": 2,
+"porque": "Ventaja mecánica es carga entre fuerza: 900 ÷ 300 = 3."
+},
+{
+"pregunta": "¿Qué máquina simple es un cuchillo?",
+"opciones": [
+"Un tornillo",
+"Una polea",
+"Una cuña"
+],
+"correcta": 2,
+"porque": "El hacha y el cuchillo son cuñas."
+},
+{
+"pregunta": "¿Qué pierdes cuando usas menos fuerza con una máquina simple?",
+"opciones": [
+"Pierdes energía para siempre",
+"Ganas distancia: recorres más",
+"Pierdes toda la carga"
+],
+"correcta": 1,
+"porque": "Usas menos fuerza, pero a lo largo de más distancia."
+},
+{
+"pregunta": "Abres una lata con una cuchara. ¿Qué máquina simple usas?",
+"opciones": [
+"Una polea",
+"Una rampa",
+"Una palanca"
+],
+"correcta": 2,
+"porque": "La cuchara gira sobre un apoyo, como una palanca."
+}
+],
+"medicion-y-error-secundaria": [
+{
+"pregunta": "Mides 103 cm y el valor real es 100 cm. ¿Cuál es el error absoluto?",
+"opciones": [
+"0.03 cm",
+"3 cm",
+"103 cm"
+],
+"correcta": 1,
+"porque": "Es la resta sin signo: $103 - 100 = 3$."
+},
+{
+"pregunta": "Promedia 7, 8 y 9 cm.",
+"opciones": [
+"8 cm",
+"24 cm",
+"9 cm"
+],
+"correcta": 0,
+"porque": "Se suman y se dividen: $\\frac{24}{3} = 8$."
+},
+{
+"pregunta": "Con $E_a = 2$ m y valor real de 50 m, ¿cuánto es el error relativo?",
+"opciones": [
+"2 %",
+"25 %",
+"4 %"
+],
+"correcta": 2,
+"porque": "$\\frac{2}{50} \\times 100 = 4$."
+},
+{
+"pregunta": "Tus dardos quedan juntos en una esquina, lejos del centro. ¿Qué eres?",
+"opciones": [
+"Exacto, pero no preciso",
+"Ni preciso ni exacto",
+"Preciso, pero no exacto"
+],
+"correcta": 2,
+"porque": "Preciso es repetir el mismo punto; exacto es dar en el blanco."
+},
+{
+"pregunta": "Mides 98 cm y el valor real es 100 cm. ¿Cuál es el error absoluto?",
+"opciones": [
+"98 cm",
+"2 cm",
+"198 cm"
+],
+"correcta": 1,
+"porque": "El error absoluto es la resta sin signo: 100 menos 98."
+}
+],
+"movimiento-posicion-distancia-y-desplazamiento-secundaria": [
+{
+"pregunta": "Caminas 3 m al este y luego 8 m al oeste. ¿Qué distancia recorriste?",
+"opciones": [
+"11 m",
+"24 m",
+"5 m"
+],
+"correcta": 0,
+"porque": "La distancia suma todo: $3 + 8 = 11$."
+},
+{
+"pregunta": "En ese mismo recorrido, ¿cuál es tu desplazamiento?",
+"opciones": [
+"5 m al este",
+"5 m al oeste",
+"11 m al oeste"
+],
+"correcta": 1,
+"porque": "Quedaste 5 m al oeste del inicio."
+},
+{
+"pregunta": "Si $x_i = 12$ m y $x_f = 5$ m, ¿cuánto vale $\\Delta x$?",
+"opciones": [
+"$-7$ m",
+"7 m",
+"17 m"
+],
+"correcta": 0,
+"porque": "$\\Delta x = 5 - 12 = -7$."
+},
+{
+"pregunta": "¿Qué es la trayectoria?",
+"opciones": [
+"La distancia en línea recta",
+"El tiempo que tardas",
+"El camino que sigues"
+],
+"correcta": 2,
+"porque": "La trayectoria es el camino completo."
+},
+{
+"pregunta": "Sales de tu banca, das una vuelta al salón y regresas. ¿Cuál es tu desplazamiento?",
+"opciones": [
+"Una vuelta completa al salón",
+"El largo del salón de clases",
+"Cero, porque regresaste al inicio"
+],
+"correcta": 2,
+"porque": "El desplazamiento es final menos inicio, y si vuelves al inicio es cero."
+}
+]
+}

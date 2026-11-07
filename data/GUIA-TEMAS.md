@@ -59,3 +59,17 @@ Los tres `ejercicios` son la tarea del alumno y se muestran siempre: deben poder
 ## Inglés
 
 La materia enseña a usar el idioma: -ing, pasado, perfect, futuro y demás gramática. Se explica en español, con ejemplos en inglés. El vocabulario solo es apoyo.
+
+## Reto rápido
+
+Cada tema lleva 5 preguntas de opción múltiple en `data/retos/`. Se escriben en un archivo de texto y se convierten con `scripts/aplicar-retos.py entrada.txt data/retos/lote-NNN.json`:
+
+```text
+# slug-del-tema
+pregunta || respuesta correcta || mala || mala || por qué es correcta
+```
+
+- La respuesta correcta va primero; el script revuelve las opciones.
+- Pueden ir 2 o 3 opciones malas, creíbles y basadas en errores comunes.
+- Usa solo lo que enseña el tema, con el mismo estilo sencillo y ejemplos de la escuela.
+- No repitas los ejercicios de la tarea ni de la práctica.

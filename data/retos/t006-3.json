@@ -1,0 +1,626 @@
+{
+"anuncios-publicitarios-comunidad-primaria": [
+{
+"pregunta": "¿Para qué sirve un anuncio?",
+"opciones": [
+"Para convencerte de comprar o hacer algo.",
+"Para contar la historia de un animal muy antiguo.",
+"Para enseñarte las reglas de un juego de mesa."
+],
+"correcta": 0,
+"porque": "Un anuncio quiere convencerte."
+},
+{
+"pregunta": "La tiendita dice «¡Las paletas más ricas del mundo!». ¿Qué debes preguntarte?",
+"opciones": [
+"¿Cuántas letras tiene la frase?",
+"¿Es cierto lo que dice?",
+"¿De qué color es el papel?"
+],
+"correcta": 1,
+"porque": "Es bueno revisar si un anuncio dice la verdad."
+},
+{
+"pregunta": "¿Qué usa un anuncio para llamar la atención?",
+"opciones": [
+"Imágenes, colores y frases cortas.",
+"Solo números pequeños en una tabla.",
+"Párrafos largos con muchos datos difíciles."
+],
+"correcta": 0,
+"porque": "Los anuncios usan cosas que se ven y se recuerdan."
+},
+{
+"pregunta": "¿Qué datos debe llevar el anuncio de la tiendita?",
+"opciones": [
+"El horario de clases de la escuela.",
+"Solo el nombre del dueño de la tienda.",
+"Nombre, eslogan y datos para encontrarla."
+],
+"correcta": 2,
+"porque": "Así la gente sabe qué venden y dónde ir."
+},
+{
+"pregunta": "¿Qué es un eslogan?",
+"opciones": [
+"Una lista larga de precios.",
+"Un dibujo muy grande de un producto.",
+"Una frase corta que ayuda a recordar."
+],
+"correcta": 2,
+"porque": "Un eslogan es breve y fácil de recordar."
+}
+],
+"cartas-personales-primaria": [
+{
+"pregunta": "¿Quién es el remitente de una carta?",
+"opciones": [
+"Quien la recibe.",
+"Quien la envía.",
+"Quien la reparte."
+],
+"correcta": 1,
+"porque": "El remitente es quien manda la carta."
+},
+{
+"pregunta": "¿Cuál es un saludo de carta?",
+"opciones": [
+"Con cariño, Ana",
+"Ciudad de México, 5 de mayo",
+"Querida abuela:"
+],
+"correcta": 2,
+"porque": "El saludo va al inicio y nombra a quien recibe la carta."
+},
+{
+"pregunta": "¿Qué va al final de la carta?",
+"opciones": [
+"Lugar y dirección.",
+"Despedida y firma.",
+"Fecha y saludo."
+],
+"correcta": 1,
+"porque": "Al final te despides y firmas."
+},
+{
+"pregunta": "¿Qué datos lleva la dirección del destinatario?",
+"opciones": [
+"Nombre, calle y número, colonia, código postal, ciudad y estado.",
+"Solo el teléfono y la fecha de hoy.",
+"Solo el nombre de quien la recibe."
+],
+"correcta": 0,
+"porque": "Con todos los datos, la carta llega a su destino."
+},
+{
+"pregunta": "Escribes una carta a tu tía. ¿Qué va primero?",
+"opciones": [
+"Lugar y fecha.",
+"La despedida.",
+"La firma."
+],
+"correcta": 0,
+"porque": "La carta empieza con lugar y fecha."
+}
+],
+"composiciones-artisticas-colectivas-identidad-primaria": [
+{
+"pregunta": "¿Qué es identidad colectiva?",
+"opciones": [
+"Un color que te gusta mucho.",
+"Lo que comparte un grupo.",
+"Lo que te caracteriza solo a ti."
+],
+"correcta": 1,
+"porque": "La identidad colectiva es de todo el grupo."
+},
+{
+"pregunta": "¿Qué tres tipos de elementos puede combinar una obra en grupo?",
+"opciones": [
+"Visuales, sonoros y corporales.",
+"Matemáticos, químicos y geográficos.",
+"Solo palabras, números y letras."
+],
+"correcta": 0,
+"porque": "Una obra en grupo mezcla lo que se ve, se oye y se mueve."
+},
+{
+"pregunta": "Tu salón quiere hacer un mural. ¿Qué conviene hacer?",
+"opciones": [
+"Que cada quien aporte algo.",
+"Que nadie opine para terminar rápido.",
+"Que solo una persona dibuje todo."
+],
+"correcta": 0,
+"porque": "En una obra colectiva todos participan."
+},
+{
+"pregunta": "¿Qué es identidad personal?",
+"opciones": [
+"El nombre del grupo completo.",
+"Lo que te caracteriza a ti.",
+"Lo que comparte toda la escuela."
+],
+"correcta": 1,
+"porque": "Identidad personal es lo que te hace ser tú."
+},
+{
+"pregunta": "Un compañero propone una idea distinta a la tuya. ¿Qué haces?",
+"opciones": [
+"Le digo que no participe.",
+"Me burlo de su idea.",
+"Lo escucho con respeto."
+],
+"correcta": 2,
+"porque": "Escuchar con respeto ayuda a trabajar en grupo."
+}
+],
+"comprension-lectora-inferir-primaria": [
+{
+"pregunta": "¿Qué es inferir?",
+"opciones": [
+"Copiar el texto palabra por palabra.",
+"Descubrir lo que el texto no dice directamente.",
+"Contar cuántas palabras tiene el texto."
+],
+"correcta": 1,
+"porque": "Inferir es usar pistas para entender más."
+},
+{
+"pregunta": "¿Qué usas para inferir?",
+"opciones": [
+"El número de renglones de la hoja.",
+"Solo lo que tú quieres que pase.",
+"Pistas del texto y lo que ya sabes."
+],
+"correcta": 2,
+"porque": "Pistas más lo que sabes dan una inferencia."
+},
+{
+"pregunta": "*Pedro llegó mojado y dejó su paraguas roto.* ¿Qué infieres?",
+"opciones": [
+"Que llovió mucho.",
+"Que hacía mucho calor.",
+"Que Pedro fue a nadar a la alberca."
+],
+"correcta": 0,
+"porque": "Mojado y paraguas son pistas de lluvia."
+},
+{
+"pregunta": "*Marta abrazó a su mamá y sonrió al ver su calificación.* ¿Qué siente Marta?",
+"opciones": [
+"Alegría.",
+"Miedo.",
+"Enojo."
+],
+"correcta": 0,
+"porque": "Abrazar y sonreír son pistas de que está contenta."
+},
+{
+"pregunta": "¿Qué debes poder señalar al inferir?",
+"opciones": [
+"La última página del libro.",
+"La pista que usaste.",
+"El nombre del autor."
+],
+"correcta": 1,
+"porque": "Una inferencia siempre se apoya en una pista del texto."
+}
+],
+"conectores-para-argumentar-primaria": [
+{
+"pregunta": "Completa: *Uso suéter ___ hace frío.*",
+"opciones": [
+"además",
+"porque",
+"pero"
+],
+"correcta": 1,
+"porque": "Porque da la razón."
+},
+{
+"pregunta": "¿Qué conector sirve para concluir?",
+"opciones": [
+"pero, muestra un contraste",
+"por lo tanto, cierra la idea",
+"además, suma otra idea"
+],
+"correcta": 1,
+"porque": "Por lo tanto sirve para concluir."
+},
+{
+"pregunta": "Completa: *Me gusta jugar; ___, también leo.*",
+"opciones": [
+"sin embargo",
+"en conclusión",
+"además"
+],
+"correcta": 2,
+"porque": "Además suma otra idea."
+},
+{
+"pregunta": "Completa: *Quiero salir, ___ debo hacer la tarea.*",
+"opciones": [
+"porque",
+"además",
+"pero"
+],
+"correcta": 2,
+"porque": "Pero muestra un contraste entre dos ideas."
+},
+{
+"pregunta": "¿Cuál oración da una razón sobre el recreo?",
+"opciones": [
+"Debe haber más recreo porque nos ayuda a concentrarnos.",
+"Debe haber más recreo y ya.",
+"El recreo es una palabra que tiene seis letras."
+],
+"correcta": 0,
+"porque": "La razón con porque apoya tu opinión."
+}
+],
+"conjunciones-primaria": [
+{
+"pregunta": "Completa: *Pan ___ leche.*",
+"opciones": [
+"o",
+"pero",
+"y"
+],
+"correcta": 2,
+"porque": "Y suma dos cosas."
+},
+{
+"pregunta": "Completa: *Padres ___ hijos.*",
+"opciones": [
+"e",
+"y",
+"o"
+],
+"correcta": 0,
+"porque": "Y cambia a e antes de i."
+},
+{
+"pregunta": "Completa: *Siete ___ ocho.*",
+"opciones": [
+"u",
+"o",
+"e"
+],
+"correcta": 0,
+"porque": "O cambia a u antes de o."
+},
+{
+"pregunta": "¿Cuál es la conjunción en *Lloró porque se cayó*?",
+"opciones": [
+"porque",
+"lloró",
+"cayó"
+],
+"correcta": 0,
+"porque": "Porque une la causa con la acción."
+},
+{
+"pregunta": "Completa: *Quiero ir al parque, ___ está lloviendo.*",
+"opciones": [
+"o, da a elegir",
+"pero, contrasta ideas",
+"y, solo suma"
+],
+"correcta": 1,
+"porque": "Pero muestra que lo que quieres choca con la lluvia."
+}
+],
+"cuentos-poemas-analisis-primaria": [
+{
+"pregunta": "¿Qué es una comparación?",
+"opciones": [
+"Contar el problema de un cuento",
+"Unir dos cosas con la palabra *como*",
+"Repetir el sonido final de dos versos"
+],
+"correcta": 1,
+"porque": "Una comparación une dos cosas con como, como en rápido como el viento."
+},
+{
+"pregunta": "¿Qué es el desenlace?",
+"opciones": [
+"La solución del problema.",
+"El título de la historia.",
+"El inicio del cuento."
+],
+"correcta": 0,
+"porque": "El desenlace resuelve lo que pasó en el nudo."
+},
+{
+"pregunta": "¿Qué palabras riman?",
+"opciones": [
+"sol y luna",
+"luz y cruz",
+"mesa y libro"
+],
+"correcta": 1,
+"porque": "Riman porque terminan con sonido igual."
+},
+{
+"pregunta": "¿Cuál es una comparación?",
+"opciones": [
+"El viento es veloz.",
+"Rápido como el viento.",
+"El viento corre."
+],
+"correcta": 1,
+"porque": "La comparación une dos cosas con como."
+},
+{
+"pregunta": "¿Qué tiene un poema?",
+"opciones": [
+"Preguntas y respuestas con números",
+"Versos, con sonidos que riman al final",
+"Personajes y diálogos de teatro"
+],
+"correcta": 1,
+"porque": "Un poema tiene versos y rima."
+}
+],
+"debate-temas-comunes-primaria": [
+{
+"pregunta": "¿Qué hace el moderador de un debate?",
+"opciones": [
+"Habla más que todos los demás.",
+"Da la palabra y cuida el tiempo.",
+"Decide quién tiene la razón."
+],
+"correcta": 1,
+"porque": "El moderador mantiene el orden."
+},
+{
+"pregunta": "¿Qué es un argumento?",
+"opciones": [
+"Un grito para ganar la palabra.",
+"Un dibujo para el cartel.",
+"Una idea con su razón."
+],
+"correcta": 2,
+"porque": "Un argumento explica por qué piensas algo."
+},
+{
+"pregunta": "¿Cuál es mejor argumento?",
+"opciones": [
+"Hay que cuidar el agua.",
+"El agua es bonita.",
+"Hay que cuidar el agua porque se acaba."
+],
+"correcta": 2,
+"porque": "Un buen argumento incluye porque y la razón."
+},
+{
+"pregunta": "En un debate, otro compañero habla. ¿Qué haces?",
+"opciones": [
+"Me burlo de su idea.",
+"Lo interrumpo para ganar.",
+"Escucho y espero mi turno."
+],
+"correcta": 2,
+"porque": "En un debate se escucha y se respetan turnos."
+},
+{
+"pregunta": "¿Qué conector da la razón de tu opinión?",
+"opciones": [
+"además de ahí",
+"pero ya",
+"porque"
+],
+"correcta": 2,
+"porque": "Porque introduce el motivo de lo que piensas."
+}
+],
+"diversidad-linguistica-mexico-primaria": [
+{
+"pregunta": "¿Cuántas lenguas indígenas tiene México, según el texto?",
+"opciones": [
+"680",
+"68",
+"6"
+],
+"correcta": 1,
+"porque": "El texto dice que México tiene 68 lenguas indígenas."
+},
+{
+"pregunta": "¿Cuál es una lengua indígena de México?",
+"opciones": [
+"Latín",
+"Inglés",
+"Náhuatl"
+],
+"correcta": 2,
+"porque": "El náhuatl es una de las lenguas indígenas de México."
+},
+{
+"pregunta": "¿Qué es una lengua en riesgo?",
+"opciones": [
+"Una que todos hablan en el país entero.",
+"Una que cada vez menos niños aprenden y usan.",
+"Una que solo se escribe en libros nuevos."
+],
+"correcta": 1,
+"porque": "Si se deja de usar, puede desaparecer."
+},
+{
+"pregunta": "Una compañera habla maya con su abuela. ¿Cómo actúas?",
+"opciones": [
+"Con respeto y curiosidad.",
+"Le pido que no la use.",
+"Me burlo de cómo suena."
+],
+"correcta": 0,
+"porque": "Respetar las lenguas ayuda a conservarlas."
+},
+{
+"pregunta": "¿Qué otra lengua se usa en México, además del español?",
+"opciones": [
+"El latín antiguo.",
+"El idioma de las computadoras.",
+"La lengua de señas."
+],
+"correcta": 2,
+"porque": "El texto dice que México tiene lengua de señas."
+}
+],
+"experiencias-esteticas-naturaleza-primaria": [
+{
+"pregunta": "¿Con qué puedes expresar lo que sientes de la naturaleza?",
+"opciones": [
+"Música, pintura o poesía.",
+"Con un reglamento de juego.",
+"Solo con una tabla de datos."
+],
+"correcta": 0,
+"porque": "El arte permite expresar lo que percibes."
+},
+{
+"pregunta": "En el patio oyes el viento. ¿Qué haces?",
+"opciones": [
+"Percibo y lo expreso con arte.",
+"Lo ignoro por completo.",
+"Lo anoto como pendiente."
+],
+"correcta": 0,
+"porque": "Observar y sentir es el primer paso."
+},
+{
+"pregunta": "¿Cómo puedes expresar una tormenta con música?",
+"opciones": [
+"Con una flauta muy suave y lenta",
+"Con puro silencio y sin sonidos",
+"Con tambores que suenan fuerte"
+],
+"correcta": 2,
+"porque": "Una tormenta se toca con tambores."
+},
+{
+"pregunta": "¿Cómo puedes tocar una tormenta con música?",
+"opciones": [
+"Con un silencio total.",
+"Con una flauta muy suave.",
+"Con tambores."
+],
+"correcta": 2,
+"porque": "Los tambores suenan fuertes como truenos."
+},
+{
+"pregunta": "¿Qué sentidos usas para percibir la naturaleza?",
+"opciones": [
+"Oído, olfato, vista y tacto.",
+"Solo la memoria.",
+"Solo los números."
+],
+"correcta": 0,
+"porque": "Percibes con los sentidos antes de expresarte."
+}
+],
+"exposicion-cuidado-salud-primaria": [
+{
+"pregunta": "¿Qué puedes usar al exponer?",
+"opciones": [
+"Un cuaderno de tarea.",
+"Un cartel y fichas.",
+"Un libro leído palabra por palabra."
+],
+"correcta": 1,
+"porque": "El cartel y las fichas te ayudan a hablar natural."
+},
+{
+"pregunta": "¿Para qué sirven las fichas?",
+"opciones": [
+"Para leer todo el texto sin mirar.",
+"Para hablar natural con pocas palabras.",
+"Para pegarlas en el pizarrón."
+],
+"correcta": 1,
+"porque": "Con fichas miras al público."
+},
+{
+"pregunta": "Vas a exponer sobre lavarse las manos. ¿Qué va primero?",
+"opciones": [
+"El cierre.",
+"La introducción.",
+"Los aplausos."
+],
+"correcta": 1,
+"porque": "Primero presentas el tema."
+},
+{
+"pregunta": "¿Qué debes hacer al hablar?",
+"opciones": [
+"Hablar claro y mirar al público.",
+"Hablar muy rápido para terminar.",
+"Hablar muy bajito sin mirar."
+],
+"correcta": 0,
+"porque": "Así todos te entienden."
+},
+{
+"pregunta": "¿Cuál es un tema de salud?",
+"opciones": [
+"Lavarse las manos.",
+"Dibujar un paisaje.",
+"Armar un rompecabezas."
+],
+"correcta": 0,
+"porque": "Lavarse las manos ayuda a cuidar la salud."
+}
+],
+"figuras-literarias-basicas-primaria": [
+{
+"pregunta": "¿Qué figura es *Tus ojos son estrellas*?",
+"opciones": [
+"Metáfora.",
+"Personificación.",
+"Símil."
+],
+"correcta": 0,
+"porque": "La metáfora dice que algo es otra cosa."
+},
+{
+"pregunta": "¿Qué figura es *Corre como el viento*?",
+"opciones": [
+"Metáfora.",
+"Hipérbole.",
+"Símil."
+],
+"correcta": 2,
+"porque": "Compara usando como."
+},
+{
+"pregunta": "¿Qué figura es *El viento canta*?",
+"opciones": [
+"Personificación.",
+"Metáfora.",
+"Rima."
+],
+"correcta": 0,
+"porque": "Da una acción humana al viento."
+},
+{
+"pregunta": "¿Qué figura es *Te lo dije un millón de veces*?",
+"opciones": [
+"Personificación.",
+"Hipérbole.",
+"Símil."
+],
+"correcta": 1,
+"porque": "Exagera para dar fuerza."
+},
+{
+"pregunta": "¿Cuál oración es un símil de tu escuela?",
+"opciones": [
+"Mi escuela tiene un patio.",
+"Mi escuela es un castillo.",
+"Mi escuela es grande como un castillo."
+],
+"correcta": 2,
+"porque": "El símil usa la palabra como."
+}
+]
+}

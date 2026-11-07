@@ -1,0 +1,522 @@
+{
+"redaccion-de-un-parrafo-secundaria": [
+{
+"pregunta": "¿Cuántas ideas desarrolla un párrafo?",
+"opciones": [
+"Tres ideas, cada una aparte",
+"Todas las que se te ocurran",
+"Una sola, la idea central"
+],
+"correcta": 2,
+"porque": "Un párrafo desarrolla una sola idea."
+},
+{
+"pregunta": "¿Qué conector sirve para dar un ejemplo?",
+"opciones": [
+"Por ejemplo, que introduce un caso",
+"Sin embargo, que sirve para oponer",
+"Por lo tanto, que sirve para cerrar"
+],
+"correcta": 0,
+"porque": "*Por ejemplo* introduce un caso que explica la idea."
+},
+{
+"pregunta": "Escribes: \"El recreo es importante. Nos deja jugar y descansar. Por eso lo cuidamos.\" ¿Cuál es el cierre?",
+"opciones": [
+"Por eso lo cuidamos",
+"Nos deja jugar y descansar",
+"El recreo es importante"
+],
+"correcta": 0,
+"porque": "El cierre termina el párrafo con una conclusión."
+},
+{
+"pregunta": "¿Qué hace la oración temática al inicio?",
+"opciones": [
+"Dice la idea central",
+"Da solo un dato suelto sin relación",
+"Cierra el párrafo con una conclusión final"
+],
+"correcta": 0,
+"porque": "La oración temática presenta la idea que se explicará."
+},
+{
+"pregunta": "En \"La tarea ayuda a aprender. Repasas lo que viste en clase.\" ¿cuál es la oración de apoyo?",
+"opciones": [
+"Ninguna, porque son iguales",
+"La tarea ayuda a aprender",
+"Repasas lo que viste en clase"
+],
+"correcta": 2,
+"porque": "La de apoyo explica la idea con un detalle."
+}
+],
+"texto-expositivo-secundaria": [
+{
+"pregunta": "¿Dónde puedes encontrar un texto expositivo?",
+"opciones": [
+"En una canción de cuna",
+"En un libro de texto de ciencias",
+"En una obra de teatro con actores"
+],
+"correcta": 1,
+"porque": "Los textos expositivos explican temas y están en libros de texto."
+},
+{
+"pregunta": "¿Cuáles son las tres partes de su estructura?",
+"opciones": [
+"Saludo, mensaje y despedida",
+"Introducción, desarrollo y conclusión",
+"Inicio, nudo y desenlace de una historia"
+],
+"correcta": 1,
+"porque": "Así se organiza un texto que explica."
+},
+{
+"pregunta": "\"Un volcán es una montaña por donde sale lava.\" ¿Qué recurso expositivo usa?",
+"opciones": [
+"Comparación con otra cosa",
+"Causa y efecto",
+"Definición"
+],
+"correcta": 2,
+"porque": "Dice qué es el volcán, y eso es definir."
+},
+{
+"pregunta": "¿Qué tiempo verbal se usa normalmente?",
+"opciones": [
+"Pasado, como en los cuentos",
+"Futuro, lleno de suposiciones",
+"Presente, porque explica hechos"
+],
+"correcta": 2,
+"porque": "El texto expositivo usa verbos en presente para explicar."
+},
+{
+"pregunta": "Quieres saber cómo se forman las nubes. ¿Dónde buscas un texto expositivo?",
+"opciones": [
+"En un cuento de hadas de fantasía",
+"En un anuncio que vende refrescos",
+"En un libro de ciencias"
+],
+"correcta": 2,
+"porque": "Los libros de texto explican temas con información clara."
+}
+],
+"textos-divulgacion-cientifica-secundaria": [
+{
+"pregunta": "¿Para qué sirve un texto de divulgación científica?",
+"opciones": [
+"Para vender un producto nuevo",
+"Para que solo lo lean especialistas con palabras difíciles",
+"Para que cualquiera entienda la ciencia"
+],
+"correcta": 2,
+"porque": "Explica la ciencia con palabras sencillas."
+},
+{
+"pregunta": "Escribes un dato sobre los planetas. ¿Qué debes decir al final?",
+"opciones": [
+"Que todos lo saben, sin más",
+"Que lo inventaste tú sin revisar",
+"De dónde lo sacaste"
+],
+"correcta": 2,
+"porque": "Decir la fuente hace que el dato sea confiable."
+},
+{
+"pregunta": "Encuentras una palabra nueva al leer. ¿Qué haces?",
+"opciones": [
+"La busco en el diccionario",
+"La ignoro y sigo leyendo sin entender",
+"Cambio de texto para no esforzarme"
+],
+"correcta": 0,
+"porque": "Buscar palabras nuevas ayuda a comprender mejor."
+},
+{
+"pregunta": "¿Qué recursos ayudan a entender un texto de divulgación?",
+"opciones": [
+"Solo números sin ninguna explicación",
+"Ejemplos e imágenes",
+"Frases largas con términos técnicos sin explicar"
+],
+"correcta": 1,
+"porque": "Los ejemplos e imágenes hacen fácil la idea."
+},
+{
+"pregunta": "Tu maestra pide explicar por qué llueve a un niño de primero. ¿Qué respuesta sirve?",
+"opciones": [
+"Ocurre una precipitación por condensación del vapor atmosférico",
+"El agua sube, se enfría y cae",
+"No se puede explicar, es muy difícil"
+],
+"correcta": 1,
+"porque": "Se explica con palabras sencillas que todos conocen."
+}
+],
+"textos-literarios-espanol-traducidos-secundaria": [
+{
+"pregunta": "¿Qué género literario cuenta una historia?",
+"opciones": [
+"Dramático, el que se actúa en vivo",
+"Narrativo, el que cuenta hechos",
+"Lírico, el que expresa emociones"
+],
+"correcta": 1,
+"porque": "El género narrativo cuenta una historia."
+},
+{
+"pregunta": "Un poema expresa lo que siente quien lo escribe. ¿De qué género es?",
+"opciones": [
+"Lírico, porque expresa emociones",
+"Narrativo, porque cuenta hechos",
+"Dramático, porque se actúa en teatro"
+],
+"correcta": 0,
+"porque": "El género lírico expresa emociones y sentimientos."
+},
+{
+"pregunta": "¿En qué idioma escribió Edgar Allan Poe?",
+"opciones": [
+"En español, como Juan Rulfo",
+"En inglés, su lengua original",
+"En francés, como se lee aquí"
+],
+"correcta": 1,
+"porque": "Poe escribió en inglés y por eso lo leemos traducido."
+},
+{
+"pregunta": "Lees en español un cuento que se escribió en inglés. ¿Qué tipo de texto es?",
+"opciones": [
+"Escrito originalmente en español",
+"Dramático, aunque sea un cuento",
+"Traducido, porque cambió de idioma"
+],
+"correcta": 2,
+"porque": "Un texto que pasa de una lengua a otra es traducido."
+},
+{
+"pregunta": "¿Cuál autor escribió originalmente en español?",
+"opciones": [
+"Un autor que siempre fue traducido",
+"Juan Rulfo, que escribió en español",
+"Edgar Allan Poe, que escribió en inglés"
+],
+"correcta": 1,
+"porque": "Juan Rulfo escribió originalmente en español."
+}
+],
+"uso-de-la-coma-secundaria": [
+{
+"pregunta": "En \"Traje lápiz goma y sacapuntas\", ¿dónde va la coma?",
+"opciones": [
+"Después de Traje",
+"Después de lápiz",
+"Después de la palabra y"
+],
+"correcta": 1,
+"porque": "En una lista se separan los elementos con coma, y antes de y no va."
+},
+{
+"pregunta": "¿Cuál oración tiene bien puesta la coma de aclaración?",
+"opciones": [
+"Luis, mi hermano, llegó tarde",
+"Luis, mi hermano llegó, tarde",
+"Luis mi hermano, llegó, tarde"
+],
+"correcta": 0,
+"porque": "La aclaración *mi hermano* va entre comas."
+},
+{
+"pregunta": "¿Cuál oración usa bien la coma con pero?",
+"opciones": [
+"Quería jugar pero, llovió",
+"Quería jugar, pero llovió",
+"Quería, jugar pero llovió"
+],
+"correcta": 1,
+"porque": "La coma va antes de pero."
+},
+{
+"pregunta": "¿En qué caso no va coma?",
+"opciones": [
+"Después del nombre de quien llamas",
+"Antes de pero en una oración",
+"Entre sujeto y verbo"
+],
+"correcta": 2,
+"porque": "Sujeto y verbo nunca se separan con coma."
+},
+{
+"pregunta": "¿Cuál oración tiene bien la aclaración?",
+"opciones": [
+"Luis, mi primo, canta bien",
+"Luis, mi primo canta, bien siempre",
+"Luis mi primo, canta bien"
+],
+"correcta": 0,
+"porque": "La aclaración va entre dos comas."
+}
+],
+"uso-de-mayusculas-secundaria": [
+{
+"pregunta": "¿Cuál sigla está bien escrita?",
+"opciones": [
+"unam",
+"UnAm",
+"UNAM"
+],
+"correcta": 2,
+"porque": "Las siglas se escriben con todas las letras en mayúscula."
+},
+{
+"pregunta": "¿Cuál es una sigla bien escrita?",
+"opciones": [
+"sep",
+"Sep",
+"SEP"
+],
+"correcta": 2,
+"porque": "Las siglas se escriben con todas sus letras en mayúscula."
+},
+{
+"pregunta": "¿Cuál palabra lleva mayúscula inicial?",
+"opciones": [
+"Puebla",
+"lunes",
+"enero"
+],
+"correcta": 0,
+"porque": "Los nombres de lugares llevan mayúscula inicial."
+},
+{
+"pregunta": "¿Cuál palabra va con minúscula?",
+"opciones": [
+"Ana",
+"español",
+"México"
+],
+"correcta": 1,
+"porque": "Los idiomas se escriben con minúscula."
+},
+{
+"pregunta": "¿Qué letra va después de un punto?",
+"opciones": [
+"Mayúscula, porque empieza otra frase",
+"Cualquiera, la que tú prefieras",
+"Minúscula, porque es la misma idea"
+],
+"correcta": 0,
+"porque": "Después de un punto se escribe con mayúscula."
+}
+],
+"verbos-irregulares-secundaria": [
+{
+"pregunta": "¿Cuál es el pasado de yo con tener?",
+"opciones": [
+"Tengué",
+"Tuve",
+"Tené"
+],
+"correcta": 1,
+"porque": "Tener cambia su raíz: yo tuve."
+},
+{
+"pregunta": "¿Cuál es el futuro de yo con hacer?",
+"opciones": [
+"Haré",
+"Haceré",
+"Hacería"
+],
+"correcta": 0,
+"porque": "Hacer es irregular: yo haré."
+},
+{
+"pregunta": "¿Cuál es el presente de yo con decir?",
+"opciones": [
+"Dizo",
+"Decío",
+"Digo"
+],
+"correcta": 2,
+"porque": "Decir cambia su raíz: yo digo."
+},
+{
+"pregunta": "En clase dices: \"Ayer yo ___ a la biblioteca.\" ¿Qué va?",
+"opciones": [
+"Ié",
+"Vi",
+"Fui"
+],
+"correcta": 2,
+"porque": "El pasado de yo con ir es fui."
+},
+{
+"pregunta": "¿Cuál es el presente de yo con hacer?",
+"opciones": [
+"Hacé",
+"Hago",
+"Hazo"
+],
+"correcta": 1,
+"porque": "Hacer cambia: yo hago, no hazo."
+}
+],
+"voz-activa-y-pasiva-secundaria": [
+{
+"pregunta": "En la voz pasiva, ¿qué hace el sujeto?",
+"opciones": [
+"No tiene ninguna relación con el verbo",
+"Hace la acción",
+"Recibe la acción"
+],
+"correcta": 2,
+"porque": "En la pasiva, el sujeto recibe la acción."
+},
+{
+"pregunta": "¿Cuál oración está en voz pasiva?",
+"opciones": [
+"Los obreros construyeron la casa",
+"La casa fue construida por obreros",
+"Los obreros construirán la casa"
+],
+"correcta": 1,
+"porque": "La pasiva usa ser más participio."
+},
+{
+"pregunta": "Pasa a pasiva: \"Juan abrió la puerta.\"",
+"opciones": [
+"La puerta fue abierta por Juan",
+"Juan fue abierto por la puerta",
+"La puerta abrió a Juan"
+],
+"correcta": 0,
+"porque": "El objeto pasa a sujeto y usa ser, participio y por."
+},
+{
+"pregunta": "Pasa a activa: \"El gol fue anotado por Sara.\"",
+"opciones": [
+"El gol anotó a Sara",
+"Sara anotó el gol",
+"Sara fue anotada por el gol"
+],
+"correcta": 1,
+"porque": "En la activa, Sara es quien hace la acción."
+},
+{
+"pregunta": "\"El maestro revisó la tarea.\" ¿Quién recibe la acción?",
+"opciones": [
+"El verbo revisó",
+"El maestro",
+"La tarea"
+],
+"correcta": 2,
+"porque": "La tarea es lo que se revisa, o sea, recibe la acción."
+}
+],
+"arte-novohispano-secundaria": [
+{
+"pregunta": "¿Cuándo se creó el arte novohispano?",
+"opciones": [
+"Durante el virreinato",
+"Después de la Independencia, hace pocos años",
+"Antes de la llegada de los españoles"
+],
+"correcta": 0,
+"porque": "Se hizo en la época del virreinato."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de arte novohispano?",
+"opciones": [
+"Piedra del Sol",
+"Murales de Bonampak",
+"Catedral Metropolitana"
+],
+"correcta": 2,
+"porque": "La Catedral Metropolitana es del virreinato."
+},
+{
+"pregunta": "¿Qué tema predomina en este arte?",
+"opciones": [
+"Religioso",
+"Viajes al espacio",
+"Deportes y juegos modernos"
+],
+"correcta": 0,
+"porque": "Casi todo el arte era religioso."
+},
+{
+"pregunta": "Los retablos de las iglesias estaban cubiertos de algo brillante. ¿De qué?",
+"opciones": [
+"Hielo",
+"Oro",
+"Papel de china"
+],
+"correcta": 1,
+"porque": "Los retablos eran dorados."
+},
+{
+"pregunta": "Cerca de tu escuela hay una iglesia con retablo dorado y santos. ¿Qué arte es?",
+"opciones": [
+"Novohispano",
+"Prehispánico",
+"De hace muy pocos años"
+],
+"correcta": 0,
+"porque": "Es del virreinato por su estilo barroco y religioso."
+}
+],
+"arte-prehispanico-secundaria": [
+{
+"pregunta": "¿Cuándo se creó el arte prehispánico?",
+"opciones": [
+"Antes de la Conquista",
+"Durante el virreinato novohispano",
+"Después de la Conquista"
+],
+"correcta": 0,
+"porque": "Prehispánico significa antes de los españoles."
+},
+{
+"pregunta": "¿Cuál es una obra prehispánica?",
+"opciones": [
+"Cabezas olmecas",
+"Retablos dorados de iglesias",
+"Autorretratos de Frida Kahlo"
+],
+"correcta": 0,
+"porque": "Las cabezas olmecas son muy antiguas."
+},
+{
+"pregunta": "¿Qué sentido tenía este arte?",
+"opciones": [
+"Solo de juego para niños",
+"Solo de adorno para casas",
+"Religioso y político"
+],
+"correcta": 2,
+"porque": "Las piezas hablaban de dioses y gobernantes."
+},
+{
+"pregunta": "¿Cuál obra es de los mexicas?",
+"opciones": [
+"Murales de Bonampak",
+"Piedra del Sol",
+"Cabezas olmecas"
+],
+"correcta": 1,
+"porque": "La Piedra del Sol es mexica."
+},
+{
+"pregunta": "En un museo ves una máscara de jade con dioses. ¿Qué arte es?",
+"opciones": [
+"Prehispánico",
+"Novohispano",
+"De vanguardia moderna"
+],
+"correcta": 0,
+"porque": "Las máscaras de jade son de Mesoamérica antigua."
+}
+]
+}

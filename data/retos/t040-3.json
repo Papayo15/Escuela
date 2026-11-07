@@ -1,0 +1,626 @@
+{
+"pasado-continuo-prepa": [
+{
+"pregunta": "¿Cómo dices \"Yo estaba leyendo\"?",
+"opciones": [
+"I was reading.",
+"I was read.",
+"I were reading."
+],
+"correcta": 0,
+"porque": "Con I se usa was y el verbo con -ing."
+},
+{
+"pregunta": "Completa: They ___ running in the yard.",
+"opciones": [
+"are",
+"was",
+"were"
+],
+"correcta": 2,
+"porque": "They va con were en pasado continuo."
+},
+{
+"pregunta": "¿Cuál es la pregunta correcta sobre ayer?",
+"opciones": [
+"Were you working at eight?",
+"Was you working at eight?",
+"Did you working at eight?"
+],
+"correcta": 0,
+"porque": "Con you se usa were al preguntar."
+},
+{
+"pregunta": "Completa: At eight, I ___ studying.",
+"opciones": [
+"was, porque el sujeto es I",
+"were, porque es plural",
+"am, porque estudio ahora"
+],
+"correcta": 0,
+"porque": "Con *I* en pasado continuo se usa *was* más el verbo con -ing."
+},
+{
+"pregunta": "¿Para qué sirve el pasado continuo?",
+"opciones": [
+"Para decir qué estaba pasando.",
+"Para decir una acción ya terminada.",
+"Para decir un plan de mañana."
+],
+"correcta": 0,
+"porque": "Muestra una acción en progreso en el pasado."
+}
+],
+"pasado-simple-contra-pasado-continuo-prepa": [
+{
+"pregunta": "Completa: I ___ when the bell rang.",
+"opciones": [
+"slept",
+"was sleeping",
+"sleeping"
+],
+"correcta": 1,
+"porque": "La acción larga va en pasado continuo y la corta en pasado simple."
+},
+{
+"pregunta": "Completa: ___ I was eating, it rained.",
+"opciones": [
+"When",
+"Because",
+"While"
+],
+"correcta": 2,
+"porque": "While se usa con una acción larga en pasado continuo."
+},
+{
+"pregunta": "Completa: She was crying when he ___.",
+"opciones": [
+"arrived",
+"was arriving",
+"arriving"
+],
+"correcta": 0,
+"porque": "La acción corta va en pasado simple."
+},
+{
+"pregunta": "¿Cuál frase dice dos acciones al mismo tiempo?",
+"opciones": [
+"I was reading when she cooking.",
+"I was reading while she was cooking.",
+"I read while she cooked then."
+],
+"correcta": 1,
+"porque": "Dos acciones largas se unen con while y pasado continuo."
+},
+{
+"pregunta": "Completa: They were playing when the teacher ___.",
+"opciones": [
+"came",
+"coming",
+"was coming"
+],
+"correcta": 0,
+"porque": "When va con una acción corta en pasado simple."
+}
+],
+"pasado-simple-rutinas-ingles-prepa": [
+{
+"pregunta": "¿Cuál es el pasado de \"go\"?",
+"opciones": [
+"went",
+"gone",
+"goed"
+],
+"correcta": 0,
+"porque": "Go es irregular y su pasado es went."
+},
+{
+"pregunta": "¿Cuál es la negativa correcta?",
+"opciones": [
+"I didn't went to school.",
+"I didn't go to school.",
+"I not go to school."
+],
+"correcta": 1,
+"porque": "Después de didn't el verbo vuelve a su forma base."
+},
+{
+"pregunta": "¿Cuál es la pregunta correcta?",
+"opciones": [
+"Did you studied last night?",
+"Did you study last night?",
+"Do you studied last night?"
+],
+"correcta": 1,
+"porque": "Con did, el verbo queda en forma base."
+},
+{
+"pregunta": "¿Cuál es el pasado de \"study\"?",
+"opciones": [
+"studyed",
+"studied",
+"studdied"
+],
+"correcta": 1,
+"porque": "Consonante más y cambia a -ied."
+},
+{
+"pregunta": "¿Cuál palabra indica pasado?",
+"opciones": [
+"yesterday",
+"usually",
+"tomorrow"
+],
+"correcta": 0,
+"porque": "Yesterday significa ayer y marca algo terminado."
+}
+],
+"past-perfect-continuous-prepa": [
+{
+"pregunta": "Completa: They ___ waiting for two hours.",
+"opciones": [
+"had been",
+"were been",
+"have been"
+],
+"correcta": 0,
+"porque": "Had been más -ing dice cuánto duró algo antes de otro pasado."
+},
+{
+"pregunta": "¿Cómo dices \"Había estado estudiando\"?",
+"opciones": [
+"I have been studying.",
+"I had studying.",
+"I had been studying."
+],
+"correcta": 2,
+"porque": "Had been más verbo con -ing es la fórmula."
+},
+{
+"pregunta": "Completa: He was wet because he ___ swimming.",
+"opciones": [
+"has been",
+"had been",
+"was been"
+],
+"correcta": 1,
+"porque": "Explica una causa que venía de antes."
+},
+{
+"pregunta": "¿Qué forma resalta la duración?",
+"opciones": [
+"had read",
+"had been reading",
+"have read"
+],
+"correcta": 1,
+"porque": "Had been -ing se enfoca en cuánto duró la acción."
+},
+{
+"pregunta": "¿Cuál frase está bien escrita?",
+"opciones": [
+"I had been running for an hour.",
+"I had been run for an hour.",
+"I had be running for an hour."
+],
+"correcta": 0,
+"porque": "Se escribe had been y el verbo con -ing."
+}
+],
+"past-perfect-prepa": [
+{
+"pregunta": "¿Qué pasó primero en \"The train had left when I arrived\"?",
+"opciones": [
+"Pasaron a la vez.",
+"El tren se fue.",
+"Yo llegué."
+],
+"correcta": 1,
+"porque": "Had left marca la acción que ocurrió antes."
+},
+{
+"pregunta": "Completa: She ___ left when we came.",
+"opciones": [
+"had",
+"has",
+"was"
+],
+"correcta": 0,
+"porque": "Past perfect lleva had y participio."
+},
+{
+"pregunta": "¿Cómo dices \"Ya había comido\"?",
+"opciones": [
+"I had already eat.",
+"I had already eaten.",
+"I have already eating."
+],
+"correcta": 1,
+"porque": "Had más participio, y already refuerza el orden."
+},
+{
+"pregunta": "Completa: They had ___ the movie before.",
+"opciones": [
+"seen",
+"see",
+"saw"
+],
+"correcta": 0,
+"porque": "Después de had va el participio: seen."
+},
+{
+"pregunta": "¿Cambia had con las personas?",
+"opciones": [
+"Sí, con they se usa have.",
+"No, es igual con todas.",
+"Sí, con he se usa hads."
+],
+"correcta": 1,
+"porque": "Had se usa igual con I, you, he, she, we y they."
+}
+],
+"present-perfect-continuous-prepa": [
+{
+"pregunta": "Completa: He has ___ working all day.",
+"opciones": [
+"was",
+"be",
+"been"
+],
+"correcta": 2,
+"porque": "La fórmula es has been más verbo con -ing."
+},
+{
+"pregunta": "¿Cómo dices \"He estado estudiando\"?",
+"opciones": [
+"I am been studying.",
+"I had been studying.",
+"I have been studying."
+],
+"correcta": 2,
+"porque": "Have been -ing muestra algo que empezó y sigue."
+},
+{
+"pregunta": "Completa: It ___ been raining all day.",
+"opciones": [
+"has",
+"had",
+"have"
+],
+"correcta": 0,
+"porque": "Con it se usa has been."
+},
+{
+"pregunta": "¿Terminó la acción en \"I have been reading\"?",
+"opciones": [
+"Sí, ya terminó el libro.",
+"Sí, la terminó ayer.",
+"No, todavía sigue o acaba de parar."
+],
+"correcta": 2,
+"porque": "Have been -ing se enfoca en el proceso, no en el final."
+},
+{
+"pregunta": "Completa: I ___ been waiting for an hour.",
+"opciones": [
+"was, porque es pasado",
+"has, porque lleva una -s",
+"have, porque el sujeto es I"
+],
+"correcta": 2,
+"porque": "Con *I* se usa *have been* más el verbo con -ing."
+}
+],
+"present-perfect-contra-pasado-simple-prepa": [
+{
+"pregunta": "Elige: I ___ him last week.",
+"opciones": [
+"sees",
+"seen",
+"saw"
+],
+"correcta": 2,
+"porque": "Last week es un tiempo terminado, así que va pasado simple."
+},
+{
+"pregunta": "Elige: She ___ Oaxaca in 2019.",
+"opciones": [
+"visited",
+"has visited",
+"have visited"
+],
+"correcta": 0,
+"porque": "Con una fecha exacta se usa pasado simple."
+},
+{
+"pregunta": "Elige: I ___ eaten sushi.",
+"opciones": [
+"am never",
+"have never",
+"never have"
+],
+"correcta": 1,
+"porque": "Never va después de have en present perfect."
+},
+{
+"pregunta": "Completa: Have you ___ been to Cancún?",
+"opciones": [
+"ever",
+"yesterday",
+"ago"
+],
+"correcta": 0,
+"porque": "Ever significa alguna vez y va con present perfect."
+},
+{
+"pregunta": "¿Cuál pista indica pasado simple?",
+"opciones": [
+"yet",
+"two days ago",
+"already"
+],
+"correcta": 1,
+"porque": "Ago marca un momento terminado en el pasado."
+}
+],
+"present-perfect-experiencias-ingles-prepa": [
+{
+"pregunta": "Completa: She ___ finished her homework.",
+"opciones": [
+"is",
+"has",
+"have"
+],
+"correcta": 1,
+"porque": "Con she se usa has más participio."
+},
+{
+"pregunta": "¿Cuál es el participio de \"eat\"?",
+"opciones": [
+"ate",
+"eated",
+"eaten"
+],
+"correcta": 2,
+"porque": "Eat es irregular y su participio es eaten."
+},
+{
+"pregunta": "¿Cómo preguntas si alguien ha visitado la playa?",
+"opciones": [
+"Have you ever visited the beach?",
+"Did you ever visited the beach?",
+"Have you ever visit the beach?"
+],
+"correcta": 0,
+"porque": "Have más sujeto y participio."
+},
+{
+"pregunta": "¿Cuál frase es negativa?",
+"opciones": [
+"We haven't visited Mexico City.",
+"We hasn't visited Mexico City.",
+"We don't have visited Mexico City."
+],
+"correcta": 0,
+"porque": "Haven't más participio niega la experiencia."
+},
+{
+"pregunta": "¿Cuál frase está mal?",
+"opciones": [
+"I have never seen it.",
+"I have seen it.",
+"I have seen it yesterday."
+],
+"correcta": 2,
+"porque": "Con yesterday se usa pasado simple, no present perfect."
+}
+],
+"reglas-responsabilidades-ingles-prepa": [
+{
+"pregunta": "¿Cuál frase dice una prohibición?",
+"opciones": [
+"You mustn't run in the hall.",
+"You don't have to run in the hall.",
+"You have to run in the hall."
+],
+"correcta": 0,
+"porque": "Mustn't significa que está prohibido."
+},
+{
+"pregunta": "¿Cuál frase dice una obligación para ella?",
+"opciones": [
+"She must studies.",
+"She have to study.",
+"She has to study."
+],
+"correcta": 2,
+"porque": "Con she se usa has to."
+},
+{
+"pregunta": "¿Qué significa \"You don't have to bring lunch\"?",
+"opciones": [
+"Está prohibido traer comida.",
+"No es necesario traer comida.",
+"Debes traer comida."
+],
+"correcta": 1,
+"porque": "Don't have to dice que no hace falta, pero se permite."
+},
+{
+"pregunta": "¿Cuál frase dice un permiso?",
+"opciones": [
+"You must sit here.",
+"You mustn't sit here.",
+"You can sit here."
+],
+"correcta": 2,
+"porque": "Can sirve para dar permiso."
+},
+{
+"pregunta": "Completa: We ___ use phones in class.",
+"opciones": [
+"can't",
+"has to",
+"don't have"
+],
+"correcta": 0,
+"porque": "Can't dice que no se permite."
+}
+],
+"relatar-eventos-secuencia-ingles-prepa": [
+{
+"pregunta": "¿Cuál es el pasado de \"buy\"?",
+"opciones": [
+"bought",
+"buyed",
+"boughted"
+],
+"correcta": 0,
+"porque": "Buy es irregular y su pasado es bought."
+},
+{
+"pregunta": "¿Cuál frase está en pasado?",
+"opciones": [
+"Yesterday I took the bus.",
+"Yesterday I take the bus.",
+"Yesterday I taking the bus."
+],
+"correcta": 0,
+"porque": "Took es el pasado de take."
+},
+{
+"pregunta": "¿Qué conector cierra un relato?",
+"opciones": [
+"Finally",
+"Then",
+"First"
+],
+"correcta": 0,
+"porque": "Finally significa por último."
+},
+{
+"pregunta": "¿Cuál conector sirve para cerrar tu relato?",
+"opciones": [
+"Because",
+"Finally",
+"First"
+],
+"correcta": 1,
+"porque": "*Finally* significa por último y cierra la secuencia."
+},
+{
+"pregunta": "¿Qué palabra explica una razón?",
+"opciones": [
+"because",
+"then",
+"but"
+],
+"correcta": 0,
+"porque": "Because significa porque y da una razón."
+}
+],
+"should-have-y-must-have-prepa": [
+{
+"pregunta": "¿Cómo dices \"Debí llamar\"?",
+"opciones": [
+"I should have called.",
+"I should of called.",
+"I should call have."
+],
+"correcta": 0,
+"porque": "Se usa should have más participio."
+},
+{
+"pregunta": "La calle está mojada. ¿Qué frase deduce lo que pasó?",
+"opciones": [
+"It should have rained.",
+"It must have rained.",
+"It can't have rained."
+],
+"correcta": 1,
+"porque": "Must have dice que estás casi seguro de lo pasado."
+},
+{
+"pregunta": "Corrige: \"I should of gone.\"",
+"opciones": [
+"I should had gone.",
+"I should has gone.",
+"I should have gone."
+],
+"correcta": 2,
+"porque": "Al hablar se oye should've, pero se escribe should have."
+},
+{
+"pregunta": "¿Cómo dices \"Pudimos perder\"?",
+"opciones": [
+"We can have lost.",
+"We could lost have.",
+"We could have lost."
+],
+"correcta": 2,
+"porque": "Could have más participio habla de algo posible."
+},
+{
+"pregunta": "¿Qué significa \"He can't have seen it\"?",
+"opciones": [
+"Seguro lo vio.",
+"Es imposible que lo viera.",
+"Debió verlo."
+],
+"correcta": 1,
+"porque": "Can't have dice que no pudo pasar."
+}
+],
+"used-to-prepa": [
+{
+"pregunta": "¿Cómo dices que antes jugabas futbol?",
+"opciones": [
+"I used to play soccer.",
+"I use to playing soccer.",
+"I used to played soccer."
+],
+"correcta": 0,
+"porque": "Used to más verbo base habla de hábitos pasados."
+},
+{
+"pregunta": "Corrige: \"He used to smokes.\"",
+"opciones": [
+"He used to smoke.",
+"He used to smoking.",
+"He uses to smoke."
+],
+"correcta": 0,
+"porque": "Después de used to va el verbo base."
+},
+{
+"pregunta": "¿Cómo preguntas si alguien nadaba antes?",
+"opciones": [
+"Did you use to swim?",
+"Do you used to swim?",
+"Did you used to swim?"
+],
+"correcta": 0,
+"porque": "Con did, used pierde la d."
+},
+{
+"pregunta": "¿Significa lo mismo \"be used to\"?",
+"opciones": [
+"Sí, habla de hábitos pasados.",
+"No, significa estar acostumbrado.",
+"Sí, significa prohibido."
+],
+"correcta": 1,
+"porque": "Be used to dice que ya estás acostumbrado a algo."
+},
+{
+"pregunta": "¿Qué idea expresa \"She used to live in Monterrey\"?",
+"opciones": [
+"Quizá vivirá allí.",
+"Antes vivía allí, ahora ya no.",
+"Vive allí ahora."
+],
+"correcta": 1,
+"porque": "Used to habla de algo pasado que ya no ocurre."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"expresion-artistica-emociones-experiencias-secundaria": [
+{
+"pregunta": "¿Qué haces primero para expresar una emoción?",
+"opciones": [
+"Comparto mi obra con todo el grupo",
+"Recuerdo algo que viví",
+"Busco cuál obra es mejor"
+],
+"correcta": 1,
+"porque": "Primero se recuerda la experiencia."
+},
+{
+"pregunta": "¿Qué colores usas para la tristeza?",
+"opciones": [
+"Colores cálidos y brillantes",
+"Colores fríos, como el azul",
+"Solo rojo y amarillo fuerte"
+],
+"correcta": 1,
+"porque": "Los colores fríos se usan para la tristeza."
+},
+{
+"pregunta": "¿Qué ritmo usas para mostrar calma?",
+"opciones": [
+"Muy fuerte y veloz",
+"Rápido",
+"Lento"
+],
+"correcta": 2,
+"porque": "El ritmo lento da sensación de calma."
+},
+{
+"pregunta": "¿Hay obras buenas o malas en este ejercicio?",
+"opciones": [
+"Solo es buena si a todos les gusta",
+"Solo es buena la que sale perfecta",
+"Lo importante es que sea sincera"
+],
+"correcta": 2,
+"porque": "Lo que importa es expresar lo que sientes."
+},
+{
+"pregunta": "¿Quién decide si compartes tu obra?",
+"opciones": [
+"Todo el grupo votando",
+"Siempre la maestra",
+"Tú, que la creaste"
+],
+"correcta": 2,
+"porque": "Compartir tu obra es tu decisión."
+}
+],
+"frida-kahlo-secundaria": [
+{
+"pregunta": "¿Quién fue Frida Kahlo?",
+"opciones": [
+"Una cantante de música clásica",
+"Una pintora mexicana",
+"Una escultora francesa"
+],
+"correcta": 1,
+"porque": "Frida fue una pintora de México."
+},
+{
+"pregunta": "¿Qué marcó la vida de Frida?",
+"opciones": [
+"Un accidente de camión",
+"Un premio muy famoso",
+"Un viaje largo en barco"
+],
+"correcta": 0,
+"porque": "Ese accidente cambió su vida."
+},
+{
+"pregunta": "¿Quién pintó *La columna rota*?",
+"opciones": [
+"Frida Kahlo",
+"Diego Rivera",
+"José Clemente Orozco"
+],
+"correcta": 0,
+"porque": "La columna rota es una obra de Frida."
+},
+{
+"pregunta": "Quieres pintarte a ti mismo en una hoja. ¿Cómo se llama esa obra?",
+"opciones": [
+"Retablo dorado de iglesia",
+"Autorretrato",
+"Paisaje"
+],
+"correcta": 1,
+"porque": "Un autorretrato es pintarte a ti mismo, como hacía Frida."
+},
+{
+"pregunta": "¿En qué años vivió Frida Kahlo?",
+"opciones": [
+"De 1957 a 2004",
+"De 1807 a 1854",
+"De 1907 a 1954"
+],
+"correcta": 2,
+"porque": "Vivió en el siglo XX."
+}
+],
+"identidad-pertenencia-arte-secundaria": [
+{
+"pregunta": "¿Qué es tu identidad?",
+"opciones": [
+"El grupo al que te unes por un rato",
+"Lo que otros piensan de ti",
+"Lo que te hace ser tú"
+],
+"correcta": 2,
+"porque": "La identidad es lo que te hace ser tú."
+},
+{
+"pregunta": "La camiseta de tu equipo te hace sentir...",
+"opciones": [
+"Parte del equipo",
+"Distinto a todos los demás",
+"Sin ningún grupo"
+],
+"correcta": 0,
+"porque": "Eso es pertenencia: sentirte parte de un grupo."
+},
+{
+"pregunta": "¿Cuál es una pregunta para analizar una obra?",
+"opciones": [
+"¿Qué símbolos aparecen?",
+"¿Quién llegó primero al museo?",
+"¿Cuánto tardó el artista en comerse el lunch?"
+],
+"correcta": 0,
+"porque": "Los símbolos muestran identidad y grupo."
+},
+{
+"pregunta": "¿Tu identidad puede cambiar?",
+"opciones": [
+"No, nunca cambia",
+"Solo cambia al crecer mucho",
+"Sí, y tiene muchas partes"
+],
+"correcta": 2,
+"porque": "La identidad puede cambiar y tener muchas partes."
+},
+{
+"pregunta": "Dibujas un escudo con el pastel de tu abuela y tu equipo. ¿Qué muestra?",
+"opciones": [
+"Quién eres",
+"Cuánto vale tu casa",
+"Qué tarea te dejaron"
+],
+"correcta": 0,
+"porque": "Un escudo con tus cosas dice quién eres."
+}
+],
+"impresionismo-secundaria": [
+{
+"pregunta": "¿Cuál de estos pintores fue impresionista?",
+"opciones": [
+"Renoir",
+"Rembrandt",
+"Picasso"
+],
+"correcta": 0,
+"porque": "Renoir pintó con pinceladas sueltas y luz."
+},
+{
+"pregunta": "¿Qué querían pintar los impresionistas?",
+"opciones": [
+"Historias de dioses y gobernantes",
+"Figuras geométricas",
+"La luz de un momento"
+],
+"correcta": 2,
+"porque": "Querían captar un instante con luz."
+},
+{
+"pregunta": "¿De qué siglo es el Impresionismo?",
+"opciones": [
+"Siglo XV",
+"Siglo XIX",
+"Siglo XXI"
+],
+"correcta": 1,
+"porque": "Fue un movimiento francés del siglo XIX."
+},
+{
+"pregunta": "Miras de cerca una pintura impresionista. ¿Qué ves?",
+"opciones": [
+"Letras y números",
+"Manchas de color",
+"Fotos nítidas"
+],
+"correcta": 1,
+"porque": "De cerca, una pintura impresionista se ve como manchas."
+},
+{
+"pregunta": "¿Quiénes vinieron después de los impresionistas?",
+"opciones": [
+"Monet y Renoir",
+"Bach y Mozart",
+"Van Gogh y Cézanne"
+],
+"correcta": 2,
+"porque": "Esos pintores siguieron después del movimiento."
+}
+],
+"lectura-basica-de-musica-secundaria": [
+{
+"pregunta": "¿Qué nota sigue después de sol?",
+"opciones": [
+"La",
+"Fa",
+"Si"
+],
+"correcta": 0,
+"porque": "El orden es do, re, mi, fa, sol, la, si."
+},
+{
+"pregunta": "¿Cuántos tiempos dura una redonda?",
+"opciones": [
+"1 tiempo",
+"2 tiempos",
+"4 tiempos"
+],
+"correcta": 2,
+"porque": "La redonda dura 4 tiempos."
+},
+{
+"pregunta": "¿Cuánto dura una corchea?",
+"opciones": [
+"Un tiempo",
+"Medio tiempo",
+"Dos tiempos"
+],
+"correcta": 1,
+"porque": "La corchea dura medio tiempo."
+},
+{
+"pregunta": "¿Para qué sirve la clave de sol?",
+"opciones": [
+"Dice qué tan fuerte tocar",
+"Indica las notas",
+"Cuenta los tiempos del compás"
+],
+"correcta": 1,
+"porque": "La clave ayuda a saber qué notas son."
+},
+{
+"pregunta": "Tocas una blanca y una negra. ¿Cuántos tiempos son en total?",
+"opciones": [
+"Cuatro",
+"Dos",
+"Tres"
+],
+"correcta": 2,
+"porque": "La blanca dura dos y la negra uno, suman tres."
+}
+],
+"lenguajes-artisticos-diversidad-secundaria": [
+{
+"pregunta": "¿Con qué se expresa la música?",
+"opciones": [
+"Con color",
+"Con movimiento del cuerpo",
+"Con sonido"
+],
+"correcta": 2,
+"porque": "La música usa sonido."
+},
+{
+"pregunta": "¿Qué lenguaje artístico usa personajes?",
+"opciones": [
+"Pintura",
+"Música",
+"Teatro"
+],
+"correcta": 2,
+"porque": "El teatro usa personajes, voz, gesto y escenografía."
+},
+{
+"pregunta": "¿Por qué hay tantos sones, danzas y artesanías en México?",
+"opciones": [
+"Porque hay muchas culturas",
+"Porque solo hay una cultura grande",
+"Porque todas las culturas son iguales"
+],
+"correcta": 0,
+"porque": "Cada cultura crea su propio arte."
+},
+{
+"pregunta": "Ves una danza de tu estado. ¿Qué haces primero para analizarla?",
+"opciones": [
+"Digo quién ganó el concurso",
+"Digo cuánto costó el vestuario",
+"Digo qué lenguaje es"
+],
+"correcta": 2,
+"porque": "Primero se identifica el lenguaje artístico."
+},
+{
+"pregunta": "¿Qué usa la danza para expresarse?",
+"opciones": [
+"Sonido solamente",
+"Color",
+"Movimiento"
+],
+"correcta": 2,
+"porque": "La danza usa movimiento."
+}
+],
+"manifestaciones-artisticas-saac-discapacidad-secundaria": [
+{
+"pregunta": "¿Qué libros sirven a personas que no ven?",
+"opciones": [
+"Los que se leen en voz baja",
+"Los que tienen más dibujos",
+"Los de braille"
+],
+"correcta": 2,
+"porque": "El braille se lee con los dedos."
+},
+{
+"pregunta": "Una persona no oye. ¿Cómo disfruta una canción?",
+"opciones": [
+"Con el volumen más alto del mundo",
+"Con lengua de señas",
+"No puede disfrutarla de ninguna manera"
+],
+"correcta": 1,
+"porque": "La lengua de señas lleva la canción a quien no oye."
+},
+{
+"pregunta": "Una persona no ve. ¿Cómo disfruta una escultura?",
+"opciones": [
+"Tocándola con las manos",
+"Mirándola desde lejos",
+"No puede disfrutarla"
+],
+"correcta": 0,
+"porque": "Una persona que no ve puede tocar una escultura."
+},
+{
+"pregunta": "¿Qué necesita una persona con discapacidad para mostrar su talento?",
+"opciones": [
+"Que otra persona la haga",
+"Oportunidades y apoyos",
+"Que deje de ser distinta"
+],
+"correcta": 1,
+"porque": "Con oportunidades y apoyos todas las personas muestran su talento."
+},
+{
+"pregunta": "Haces teatro y un compañero no oye. ¿Qué puedes agregar?",
+"opciones": [
+"Un intérprete de señas",
+"Más volumen en las bocinas",
+"Quitar su personaje de la obra"
+],
+"correcta": 0,
+"porque": "El intérprete hace accesible la obra."
+}
+],
+"manifestaciones-culturales-diversidad-secundaria": [
+{
+"pregunta": "¿Cuántas lenguas indígenas hay en México?",
+"opciones": [
+"168",
+"68",
+"18"
+],
+"correcta": 1,
+"porque": "Además del español, hay 68 lenguas indígenas."
+},
+{
+"pregunta": "¿Qué significa diversidad étnica?",
+"opciones": [
+"Que hay muchos pueblos",
+"Que hay un solo pueblo",
+"Que hay muchas lenguas"
+],
+"correcta": 0,
+"porque": "Étnica habla de los pueblos."
+},
+{
+"pregunta": "Quieres usar un traje tradicional como disfraz. ¿Qué haces?",
+"opciones": [
+"Lo uso porque se ve bonito, y ya",
+"No lo uso de disfraz y pregunto su significado",
+"Lo uso sin preguntar a nadie"
+],
+"correcta": 1,
+"porque": "Se respeta preguntando y no usándolo como disfraz."
+},
+{
+"pregunta": "¿Qué es una manifestación cultural?",
+"opciones": [
+"Algo que solo se hace en museos",
+"Algo que crea un pueblo",
+"Algo que se compra en una tienda"
+],
+"correcta": 1,
+"porque": "Danzas, música y bordados son creaciones de un pueblo."
+},
+{
+"pregunta": "¿Qué puede contar un bordado?",
+"opciones": [
+"La historia de un pueblo",
+"El precio de la tela",
+"La tarea de matemáticas"
+],
+"correcta": 0,
+"porque": "Sus símbolos cuentan la historia de la gente."
+}
+],
+"memoria-colectiva-arte-comunitario-secundaria": [
+{
+"pregunta": "¿Cuál es un ejemplo de memoria colectiva?",
+"opciones": [
+"Lo que desayunaste hoy",
+"Cómo nació el pueblo",
+"Tu juguete favorito"
+],
+"correcta": 1,
+"porque": "Es un recuerdo que comparte todo un grupo."
+},
+{
+"pregunta": "¿Cuál es el primer paso para tu obra?",
+"opciones": [
+"Presentarla en la plaza",
+"Elegir los colores de la pared",
+"Preguntar a vecinos y familiares"
+],
+"correcta": 2,
+"porque": "Primero se recogen los recuerdos de la gente."
+},
+{
+"pregunta": "¿Qué sirve para guardar los recuerdos de un pueblo?",
+"opciones": [
+"Una lista de útiles",
+"Un corrido",
+"Un recibo de luz"
+],
+"correcta": 1,
+"porque": "Los corridos y los murales guardan memoria."
+},
+{
+"pregunta": "Dos vecinos cuentan distinto la misma inundación. ¿Qué haces?",
+"opciones": [
+"Elijo solo el que me gusta",
+"Invento un tercer relato",
+"Comparo sus relatos"
+],
+"correcta": 2,
+"porque": "Cada persona recuerda distinto y se comparan."
+},
+{
+"pregunta": "¿Dónde presentas tu obra comunitaria?",
+"opciones": [
+"Donde todos la vean",
+"Solo en mi casa",
+"En un cajón cerrado"
+],
+"correcta": 0,
+"porque": "Se presenta donde la comunidad pueda verla."
+}
+],
+"muralismo-rivera-orozco-y-siqueiros-secundaria": [
+{
+"pregunta": "¿Desde cuándo pintaron murales estos artistas?",
+"opciones": [
+"Desde los años 20",
+"Desde el año 1200",
+"Desde el año 2010"
+],
+"correcta": 0,
+"porque": "El muralismo mexicano comenzó en los años 20."
+},
+{
+"pregunta": "¿Dónde pintó Siqueiros?",
+"opciones": [
+"En el Hospicio Cabañas",
+"En el Palacio Nacional",
+"En el Polyforum"
+],
+"correcta": 2,
+"porque": "Siqueiros pintó en el Polyforum."
+},
+{
+"pregunta": "¿Por qué servía un mural para enseñar historia?",
+"opciones": [
+"Solo lo veían los estudiantes",
+"Se entendía con solo mirar",
+"Era más pequeño que un libro"
+],
+"correcta": 1,
+"porque": "Muchos no sabían leer y los murales les contaban la historia."
+},
+{
+"pregunta": "¿Cuál de estos fue muralista?",
+"opciones": [
+"Miguel Cabrera, pintor novohispano",
+"Leonardo da Vinci, pintor italiano",
+"José Clemente Orozco"
+],
+"correcta": 2,
+"porque": "Orozco pintó en el Hospicio Cabañas."
+},
+{
+"pregunta": "Pintas un mural en la barda con un hecho de la historia. ¿Qué movimiento imitas?",
+"opciones": [
+"Barroco, de iglesias muy adornadas",
+"Muralismo, de pintar grandes muros",
+"Cubismo, de figuras partidas en cubos"
+],
+"correcta": 1,
+"porque": "El muralismo mexicano pintó grandes muros con la historia del país."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"partes-del-aparato-digestivo-primaria": [
+{
+"pregunta": "¿Qué órgano mezcla la comida con jugos gástricos?",
+"opciones": [
+"El estómago",
+"El ano",
+"El esófago, que solo la lleva hacia abajo"
+],
+"correcta": 0,
+"porque": "El estómago mezcla la comida con jugos que ayudan a digerirla."
+},
+{
+"pregunta": "Comes una torta en el recreo. ¿Qué parte la parte primero con dientes y saliva?",
+"opciones": [
+"La boca",
+"El hígado",
+"El intestino delgado, porque es muy largo"
+],
+"correcta": 0,
+"porque": "Los dientes y la saliva de la boca parten la comida."
+},
+{
+"pregunta": "¿Qué hace el ano en la digestión?",
+"opciones": [
+"Saca lo que el cuerpo no sirve",
+"Absorbe los nutrientes hacia la sangre",
+"Produce bilis para digerir"
+],
+"correcta": 0,
+"porque": "El ano expulsa lo que sobra después de la digestión."
+},
+{
+"pregunta": "¿Qué órgano ayuda a digerir al producir jugos?",
+"opciones": [
+"La boca",
+"El páncreas",
+"El esófago, que es un tubo"
+],
+"correcta": 1,
+"porque": "El páncreas produce jugos que ayudan a digerir la comida."
+},
+{
+"pregunta": "Después del estómago, ¿cuál es la siguiente parte del recorrido?",
+"opciones": [
+"El esófago, porque lleva la comida",
+"La boca",
+"El intestino delgado"
+],
+"correcta": 2,
+"porque": "Primero va la boca, luego el esófago, el estómago y el intestino delgado."
+}
+],
+"plantas-raiz-tallo-hoja-y-flor-primaria": [
+{
+"pregunta": "¿Qué parte de la planta sujeta la planta a la tierra?",
+"opciones": [
+"La hoja, porque está arriba",
+"La raíz",
+"La flor"
+],
+"correcta": 1,
+"porque": "La raíz sujeta la planta y absorbe agua del suelo."
+},
+{
+"pregunta": "¿Qué parte de la planta hace fotosíntesis para fabricar su alimento?",
+"opciones": [
+"El tallo, porque sostiene la planta",
+"La raíz",
+"Las hojas"
+],
+"correcta": 2,
+"porque": "Las hojas hacen fotosíntesis con luz, agua y aire."
+},
+{
+"pregunta": "En el jardín de la escuela, un tallo de girasol se ve alto y firme. ¿Qué hace el tallo?",
+"opciones": [
+"Guarda las semillas",
+"Sostiene y transporta",
+"Absorbe agua del suelo"
+],
+"correcta": 1,
+"porque": "El tallo sostiene la planta y transporta lo que necesita."
+},
+{
+"pregunta": "¿Para qué sirve la flor de una planta?",
+"opciones": [
+"Para guardar agua en la tierra",
+"Para sujetar la planta al suelo",
+"Para la reproducción"
+],
+"correcta": 2,
+"porque": "La flor sirve para que la planta se reproduzca."
+},
+{
+"pregunta": "¿Qué cosa necesita una planta para vivir?",
+"opciones": [
+"Agua, luz, aire y suelo",
+"Solo agua, aunque no tenga luz",
+"Solo tierra y nada más"
+],
+"correcta": 0,
+"porque": "Las plantas necesitan agua, luz, aire y suelo."
+}
+],
+"plato-del-bien-comer-primaria": [
+{
+"pregunta": "¿Qué grupo del Plato del Bien Comer te da vitaminas?",
+"opciones": [
+"Verduras y frutas",
+"Cereales, como la tortilla",
+"Leguminosas y origen animal"
+],
+"correcta": 0,
+"porque": "Las verduras y frutas te dan vitaminas."
+},
+{
+"pregunta": "¿Qué grupo te da energía?",
+"opciones": [
+"Los cereales, como la tortilla",
+"Los refrescos y las galletas",
+"Las verduras y frutas, por colores"
+],
+"correcta": 0,
+"porque": "Los cereales te dan energía, como la tortilla."
+},
+{
+"pregunta": "En el lunch llevas lentejas y un huevo. ¿A qué grupo pertenecen?",
+"opciones": [
+"Leguminosas y origen animal",
+"Cereales",
+"Verduras y frutas"
+],
+"correcta": 0,
+"porque": "Las lentejas y el huevo ayudan a construir tu cuerpo."
+},
+{
+"pregunta": "¿Cuál comida tiene un alimento de cada uno de los tres grupos?",
+"opciones": [
+"Tortillas, pan y arroz, todos juntos",
+"Solo pan dulce con refresco",
+"Sopa de verduras, arroz y pollo"
+],
+"correcta": 2,
+"porque": "Tiene verdura, cereal y origen animal, los tres grupos."
+},
+{
+"pregunta": "¿Por qué conviene comer fruta de temporada?",
+"opciones": [
+"Es la única fruta que tiene vitaminas",
+"Cuesta menos porque abunda",
+"Cuesta más porque es especial"
+],
+"correcta": 1,
+"porque": "La fruta de temporada abunda, por eso cuesta menos."
+}
+],
+"rotacion-y-traslacion-de-la-tierra-primaria": [
+{
+"pregunta": "¿Qué es la rotación de la Tierra?",
+"opciones": [
+"El viaje alrededor del Sol",
+"El giro sobre su eje",
+"El giro de la Luna alrededor de ella"
+],
+"correcta": 1,
+"porque": "La rotación es cuando la Tierra gira sobre su eje."
+},
+{
+"pregunta": "Tardas un año en dar una vuelta completa al Sol. ¿Qué movimiento es?",
+"opciones": [
+"La fase de la Luna",
+"La rotación, que dura 24 horas",
+"La traslación"
+],
+"correcta": 2,
+"porque": "La traslación es el viaje de la Tierra alrededor del Sol."
+},
+{
+"pregunta": "En la escuela ves que ya anocheció. ¿Qué movimiento lo causa?",
+"opciones": [
+"El año bisiesto",
+"La rotación",
+"La traslación, porque dura todo el año"
+],
+"correcta": 1,
+"porque": "La rotación da el día y la noche."
+},
+{
+"pregunta": "¿Cuántas horas dura una rotación aproximadamente?",
+"opciones": [
+"12 horas, solo la noche",
+"365 horas, igual que el año",
+"24 horas, un día completo"
+],
+"correcta": 2,
+"porque": "La rotación dura unas 24 horas y da el día y la noche."
+},
+{
+"pregunta": "¿Cada cuánto hay un año bisiesto?",
+"opciones": [
+"Cada año, sin falta",
+"Cada cuatro años",
+"Cada día, cuando gira la Tierra"
+],
+"correcta": 1,
+"porque": "Cada cuatro años hay un año bisiesto."
+}
+],
+"sistema-locomotor-digestivo-primaria-3-4": [
+{
+"pregunta": "¿Qué hacen los huesos en el sistema locomotor?",
+"opciones": [
+"Absorben nutrientes de la comida",
+"Jalan para mover el cuerpo",
+"Sostienen el cuerpo"
+],
+"correcta": 2,
+"porque": "Los huesos sostienen tu cuerpo y los músculos lo mueven."
+},
+{
+"pregunta": "¿Qué parte jala los huesos para que te muevas?",
+"opciones": [
+"Los jugos del estómago",
+"Los huesos, porque son duros",
+"Los músculos"
+],
+"correcta": 2,
+"porque": "Los músculos jalan y por eso puedes moverte."
+},
+{
+"pregunta": "Por la mañana desayunas un plátano. ¿Qué parte lo lleva de la boca al estómago?",
+"opciones": [
+"El intestino delgado, que es muy largo",
+"El esófago",
+"La tráquea"
+],
+"correcta": 1,
+"porque": "El esófago es el tubo que lleva la comida al estómago."
+},
+{
+"pregunta": "¿Qué alimento ayuda a tener huesos fuertes?",
+"opciones": [
+"Los que solo tienen azúcar, como los dulces",
+"Los refrescos, porque tienen gas",
+"Los que tienen calcio, como la leche"
+],
+"correcta": 2,
+"porque": "Los alimentos con calcio ayudan a los huesos."
+},
+{
+"pregunta": "¿Qué hace bien al sistema digestivo?",
+"opciones": [
+"Masticar bien y tomar agua",
+"Comer muy rápido para no perder tiempo",
+"Tragar la comida sin masticar"
+],
+"correcta": 0,
+"porque": "Masticar bien y tomar agua ayuda a digerir mejor."
+}
+],
+"sistema-sexual-pubertad-primaria-3-4": [
+{
+"pregunta": "¿Qué es la pubertad?",
+"opciones": [
+"Un juego que solo se juega de noche",
+"La etapa en que el cuerpo cambia para hacerse adulto",
+"Una enfermedad que se pasa con medicina"
+],
+"correcta": 1,
+"porque": "La pubertad es una etapa normal de cambios en el cuerpo."
+},
+{
+"pregunta": "¿Cuál es un cambio normal de la pubertad?",
+"opciones": [
+"Crecer rápido y que cambie la voz",
+"Que se caigan todos los dientes",
+"Que los huesos desaparezcan"
+],
+"correcta": 0,
+"porque": "En la pubertad creces rápido y cambia tu voz."
+},
+{
+"pregunta": "Un compañero del salón ya cambió de voz y tú todavía no. ¿Qué piensas?",
+"opciones": [
+"Debes burlarte de él para sentirte mejor",
+"Algo anda mal contigo y debes avergonzarte",
+"Cada persona cambia a su ritmo"
+],
+"correcta": 2,
+"porque": "Cada persona cambia a su propio ritmo."
+},
+{
+"pregunta": "¿Con quién puedes platicar si tienes dudas sobre tu cuerpo?",
+"opciones": [
+"Solo con quien se burla de ti",
+"Con un adulto de confianza",
+"Con nadie, porque es mejor callar siempre"
+],
+"correcta": 1,
+"porque": "Un adulto de confianza puede responder tus dudas."
+},
+{
+"pregunta": "¿Qué ayuda a cuidar tu cuerpo en la pubertad?",
+"opciones": [
+"Dejar de bañarte para no resfriarte",
+"Bañarte y dormir bien",
+"Dormir muy poco todos los días"
+],
+"correcta": 1,
+"porque": "Bañarte y dormir bien cuida tu cuerpo."
+}
+],
+"solido-liquido-y-gas-primaria": [
+{
+"pregunta": "¿Qué estado de la materia tiene forma fija?",
+"opciones": [
+"El gas, como el aire",
+"El líquido, como el agua",
+"El sólido, como una piedra"
+],
+"correcta": 2,
+"porque": "El sólido tiene forma fija y sus partículas están muy juntas."
+},
+{
+"pregunta": "En tu lunch llevas jugo en un termo. ¿Qué estado es el jugo?",
+"opciones": [
+"Sólido, porque está en el termo",
+"Líquido, porque se vierte",
+"Gas, porque se puede tomar"
+],
+"correcta": 1,
+"porque": "El líquido toma la forma del recipiente y se puede verter."
+},
+{
+"pregunta": "¿Qué estado se expande y llena todo el espacio?",
+"opciones": [
+"El líquido que está en un vaso",
+"El sólido, porque es muy duro",
+"El gas, porque llena el espacio"
+],
+"correcta": 2,
+"porque": "El gas se expande y llena todo el espacio que encuentra."
+},
+{
+"pregunta": "¿Cuál de estos es un sólido?",
+"opciones": [
+"Un lápiz de madera",
+"La leche del vaso",
+"El aire del salón"
+],
+"correcta": 0,
+"porque": "El lápiz tiene forma fija, por eso es un sólido."
+},
+{
+"pregunta": "¿Cómo están las partículas de un sólido?",
+"opciones": [
+"Muy juntas, casi sin espacio",
+"Moviéndose por todo el salón",
+"Muy separadas, como en el aire"
+],
+"correcta": 0,
+"porque": "En un sólido las partículas están muy juntas."
+}
+],
+"tierra-luna-sol-primaria": [
+{
+"pregunta": "¿Qué gira alrededor de la Tierra?",
+"opciones": [
+"La Luna, nuestro satélite",
+"Marte, con sus dos lunas",
+"El Sol, porque es muy grande"
+],
+"correcta": 0,
+"porque": "La Luna gira alrededor de la Tierra."
+},
+{
+"pregunta": "¿Cuánto tarda la Tierra en dar una vuelta alrededor del Sol?",
+"opciones": [
+"24 horas, igual que un día completo",
+"Unos 29 días y medio",
+"Unos 365 días"
+],
+"correcta": 2,
+"porque": "La traslación dura cerca de 365 días, o sea un año."
+},
+{
+"pregunta": "Una lámpara y una pelota en el salón muestran el día y la noche. ¿Qué movimiento representa girar la pelota?",
+"opciones": [
+"La rotación",
+"Un eclipse de Luna",
+"La traslación alrededor del Sol"
+],
+"correcta": 0,
+"porque": "Al girar sobre sí misma, la pelota muestra la rotación."
+},
+{
+"pregunta": "¿Cuánto tarda la Tierra en dar una vuelta sobre sí misma?",
+"opciones": [
+"29 días, o sea un mes",
+"24 horas, o sea un día",
+"365 días, o sea un año"
+],
+"correcta": 1,
+"porque": "La rotación de la Tierra dura un día y causa el día y la noche."
+},
+{
+"pregunta": "En un eclipse de Sol, ¿qué se pone entre el Sol y la Tierra?",
+"opciones": [
+"Una nube de gas enorme",
+"Otro planeta muy grande",
+"La Luna, que tapa la luz"
+],
+"correcta": 2,
+"porque": "En un eclipse de Sol la Luna tapa la luz del Sol."
+}
+],
+"vertebrados-e-invertebrados-primaria": [
+{
+"pregunta": "¿Qué tienen los animales vertebrados?",
+"opciones": [
+"Una concha dura siempre",
+"Columna vertebral",
+"Seis patas siempre"
+],
+"correcta": 1,
+"porque": "Los vertebrados tienen columna vertebral."
+},
+{
+"pregunta": "¿Cuál de estos animales es invertebrado?",
+"opciones": [
+"La gallina",
+"El perro, porque es muy común",
+"La araña"
+],
+"correcta": 2,
+"porque": "La araña no tiene columna, por eso es invertebrada."
+},
+{
+"pregunta": "En el patio de la escuela ves una lagartija. ¿Qué grupo de vertebrados es?",
+"opciones": [
+"Ave, porque se mueve muy rápido",
+"Reptil, tiene escamas y columna",
+"Pez, porque es pequeña y rápida"
+],
+"correcta": 1,
+"porque": "La lagartija es un reptil, un vertebrado con columna."
+},
+{
+"pregunta": "¿Cuál de estos grupos es de vertebrados?",
+"opciones": [
+"Los mamíferos",
+"Las medusas",
+"Los gusanos"
+],
+"correcta": 0,
+"porque": "Los mamíferos tienen columna, por eso son vertebrados."
+},
+{
+"pregunta": "¿Cuáles animales son la mayoría en el mundo?",
+"opciones": [
+"Los invertebrados",
+"Los mamíferos, como las vacas",
+"Los vertebrados, como los perros y los peces"
+],
+"correcta": 0,
+"porque": "Casi todos los animales son invertebrados."
+}
+],
+"alimentacion-saludable-primaria": [
+{
+"pregunta": "¿Qué conviene tomar en vez de refresco?",
+"opciones": [
+"Jugo azucarado",
+"Otro refresco",
+"Agua natural"
+],
+"correcta": 2,
+"porque": "El agua no lleva azúcar y es lo mejor para tu cuerpo."
+},
+{
+"pregunta": "¿Cuál de estos es un ultraprocesado?",
+"opciones": [
+"Las frituras de bolsa",
+"Las zanahorias",
+"El frijol cocido"
+],
+"correcta": 0,
+"porque": "Las frituras son ultraprocesados con mucha sal y grasa."
+},
+{
+"pregunta": "En la tiendita de la escuela eliges algo saludable. ¿Qué compras?",
+"opciones": [
+"Una fruta fresca",
+"Frituras grandes",
+"Galletas dulces"
+],
+"correcta": 0,
+"porque": "La fruta es saludable y las demás tienen mucha azúcar o grasa."
+},
+{
+"pregunta": "¿Por qué es mala idea comer solo un tipo de alimento?",
+"opciones": [
+"Porque el cuerpo necesita de todo",
+"Porque ese alimento siempre sabe feo",
+"Porque comer es malo para todos"
+],
+"correcta": 0,
+"porque": "Una dieta correcta lleva verduras, cereales, frijoles y más."
+},
+{
+"pregunta": "¿Qué te dice leer la etiqueta de un producto?",
+"opciones": [
+"Si te va a gustar su sabor siempre",
+"Solo cuánto cuesta en la tienda",
+"Cuánta azúcar, sal y grasa tiene"
+],
+"correcta": 2,
+"porque": "Las etiquetas te ayudan a elegir mejor lo que comes."
+}
+]
+}

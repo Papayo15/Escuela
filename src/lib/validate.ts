@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { NIVELES } from "./pedagogical-prompt";
+import { CLAVES_SECCION } from "./secciones";
 
 export const MAX_PREGUNTA = 2000;
 export const MAX_CUERPO = 200_000;
@@ -15,6 +16,7 @@ const solicitud = z
   .object({
     modo: z.enum(["tema-nuevo", "seguimiento"]),
     slug: z.string().regex(/^[a-z0-9-]+$/).max(100).optional(),
+    seccion: z.enum(CLAVES_SECCION).optional(),
     nivel: z.enum(NIVELES).optional(),
     messages: z.array(mensaje).min(1).max(200),
   })
@@ -52,6 +54,8 @@ export function validarSolicitud(
 const IMAGEN = /^data:image\/(jpeg|png|webp);base64,[A-Za-z0-9+/]+={0,2}$/;
 
 const solicitudFoto = z.object({
+  slug: z.string().regex(/^[a-z0-9-]+$/).max(100).optional(),
+  seccion: z.enum(CLAVES_SECCION).optional(),
   nivel: z.enum(NIVELES).optional(),
   pregunta: z.string().trim().min(1).max(MAX_PREGUNTA),
   imagen: z.string().max(MAX_IMAGEN, "La foto es demasiado grande.").regex(IMAGEN, "Esa foto no se puede leer."),

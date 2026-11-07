@@ -1,0 +1,522 @@
+{
+"materia-energia-corpusculos-prepa": [
+{
+"pregunta": "El olor de la comida llega a otro cuarto. ¿Por qué?",
+"opciones": [
+"El olor es un sólido",
+"Sus partículas se mueven",
+"Las partículas están quietas"
+],
+"correcta": 1,
+"porque": "Las partículas nunca se quedan quietas y viajan por el aire."
+},
+{
+"pregunta": "¿Qué hace el microondas con el agua de la comida?",
+"opciones": [
+"La quita",
+"La congela",
+"La hace vibrar"
+],
+"correcta": 2,
+"porque": "El microondas hace vibrar el agua y por eso se calienta."
+},
+{
+"pregunta": "¿Por qué se puede apretar un gas?",
+"opciones": [
+"Hay espacio entre sus partículas",
+"Sus partículas son muy grandes",
+"No tiene partículas"
+],
+"correcta": 0,
+"porque": "Entre las partículas hay espacio, y al apretar se acercan."
+},
+{
+"pregunta": "Calientas un líquido. ¿Qué pasa con sus partículas?",
+"opciones": [
+"Se mueven más rápido",
+"Se mueven más lento",
+"Se quedan quietas"
+],
+"correcta": 0,
+"porque": "Al calentar sube la energía, y las partículas se mueven más rápido."
+},
+{
+"pregunta": "Inflas un globo. ¿Por qué empuja las paredes?",
+"opciones": [
+"El globo se llena de nada",
+"El aire se vuelve sólido",
+"Las partículas de aire chocan con ellas"
+],
+"correcta": 2,
+"porque": "Al inflarlo entran más partículas, que chocan con la pared y la empujan."
+}
+],
+"materia-masa-densidad-prepa": [
+{
+"pregunta": "Una piedra tiene 120 g de masa y 40 cm³ de volumen. ¿Cuál es su densidad?",
+"opciones": [
+"80 g/cm³",
+"0.33 g/cm³",
+"3 g/cm³"
+],
+"correcta": 2,
+"porque": "$\\rho = \\frac{120}{40} = 3$ g/cm³."
+},
+{
+"pregunta": "Un jugo tiene densidad de 0.5 g/cm³. ¿Qué masa tienen 30 cm³?",
+"opciones": [
+"0.017 g",
+"15 g",
+"60 g"
+],
+"correcta": 1,
+"porque": "$m = \\rho V = 0.5 \\times 30 = 15$ g."
+},
+{
+"pregunta": "Un objeto de 60 g tiene densidad de 1.5 g/cm³. ¿Qué volumen ocupa?",
+"opciones": [
+"0.025 cm³",
+"90 cm³",
+"40 cm³"
+],
+"correcta": 2,
+"porque": "$V = \\frac{60}{1.5} = 40$ cm³."
+},
+{
+"pregunta": "Un objeto tiene densidad de 0.9 g/cm³. ¿Qué pasa en agua?",
+"opciones": [
+"Se disuelve",
+"Flota",
+"Se hunde"
+],
+"correcta": 1,
+"porque": "El agua tiene 1 g/cm³, y lo que tenga menos flota."
+},
+{
+"pregunta": "¿Qué mide la masa?",
+"opciones": [
+"Qué tan caliente está",
+"Cuánta materia hay",
+"Cuánto espacio ocupa"
+],
+"correcta": 1,
+"porque": "La masa es cuánta materia hay en un cuerpo."
+}
+],
+"modelos-atomicos-de-dalton-a-bohr-prepa": [
+{
+"pregunta": "¿Quién descubrió el electrón?",
+"opciones": [
+"Thomson",
+"Dalton",
+"Rutherford"
+],
+"correcta": 0,
+"porque": "Thomson descubrió el electrón en 1897."
+},
+{
+"pregunta": "¿Qué idea agregó Bohr?",
+"opciones": [
+"Un núcleo con pasas",
+"Una esfera sólida",
+"Electrones en niveles de energía"
+],
+"correcta": 2,
+"porque": "Bohr puso a los electrones en niveles de energía."
+},
+{
+"pregunta": "¿Cómo veía Dalton al átomo?",
+"opciones": [
+"Como un núcleo con niveles",
+"Como una esfera sólida e indivisible",
+"Como un budín con pasas"
+],
+"correcta": 1,
+"porque": "Dalton lo imaginó como una esfera sólida que no se divide."
+},
+{
+"pregunta": "En el experimento de la hoja de oro, casi todas las partículas pasaron. ¿Qué concluyó Rutherford?",
+"opciones": [
+"El átomo no tiene núcleo",
+"El átomo es casi espacio vacío",
+"El átomo es sólido por completo"
+],
+"correcta": 1,
+"porque": "Si casi todo pasa, el átomo está casi vacío, con un núcleo pequeño."
+},
+{
+"pregunta": "¿Qué son los orbitales del modelo cuántico?",
+"opciones": [
+"Esferas sólidas",
+"Regiones de probabilidad",
+"Pasas en un budín"
+],
+"correcta": 1,
+"porque": "Los orbitales son regiones donde es probable encontrar al electrón."
+}
+],
+"molalidad-prepa": [
+{
+"pregunta": "Tienes 2 mol de soluto en 4 kg de agua. ¿Cuál es la molalidad?",
+"opciones": [
+"0.5 mol/kg",
+"2 mol/kg",
+"8 mol/kg"
+],
+"correcta": 0,
+"porque": "$m = \\frac{2}{4} = 0.5$ mol/kg."
+},
+{
+"pregunta": "Tienes 0.3 mol de soluto en 600 g de agua. ¿Cuál es la molalidad?",
+"opciones": [
+"0.05 mol/kg",
+"2 mol/kg",
+"0.5 mol/kg"
+],
+"correcta": 2,
+"porque": "600 g son 0.6 kg, y $\\frac{0.3}{0.6} = 0.5$."
+},
+{
+"pregunta": "Disuelves 90 g de glucosa, que pesa 180, en 1 kg de agua. ¿Cuál es la molalidad?",
+"opciones": [
+"90 mol/kg",
+"0.5 mol/kg",
+"2 mol/kg"
+],
+"correcta": 1,
+"porque": "90 g son 0.5 mol, y 0.5 mol entre 1 kg da 0.5."
+},
+{
+"pregunta": "¿Qué usa la molalidad en el denominador?",
+"opciones": [
+"Gramos de soluto",
+"Litros de disolución",
+"Kilos de disolvente"
+],
+"correcta": 2,
+"porque": "La molalidad divide entre los kilos del disolvente, no de toda la mezcla."
+},
+{
+"pregunta": "Tienes 1 mol de soluto en 500 g de agua. ¿Cuál es la molalidad?",
+"opciones": [
+"2 mol/kg",
+"0.5 mol/kg",
+"1 mol/kg"
+],
+"correcta": 0,
+"porque": "500 g son 0.5 kg, y $\\frac{1}{0.5} = 2$."
+}
+],
+"molaridad-prepa": [
+{
+"pregunta": "Tienes 4 mol de soluto en 2 L de disolución. ¿Cuál es la molaridad?",
+"opciones": [
+"8 M",
+"2 M",
+"0.5 M"
+],
+"correcta": 1,
+"porque": "$M = \\frac{4}{2} = 2$ M."
+},
+{
+"pregunta": "Disuelves 20 g de NaOH (40 g/mol) en 1 L. ¿Cuál es la molaridad?",
+"opciones": [
+"0.5 M",
+"2 M",
+"20 M"
+],
+"correcta": 0,
+"porque": "20 g son 0.5 mol, y 0.5 mol en 1 L dan 0.5 M."
+},
+{
+"pregunta": "¿Cuántos moles hay en 500 mL de una disolución 4 M?",
+"opciones": [
+"0.5 mol",
+"2 mol",
+"8 mol"
+],
+"correcta": 1,
+"porque": "$n = M \\times V = 4 \\times 0.5 = 2$ mol."
+},
+{
+"pregunta": "¿A cuántos litros equivalen 300 mL?",
+"opciones": [
+"3 L",
+"30 L",
+"0.3 L"
+],
+"correcta": 2,
+"porque": "Divides entre 1000 y 300 mL son 0.3 L."
+},
+{
+"pregunta": "Disuelves 117 g de NaCl (58.5 g/mol) en 2 L. ¿Cuál es la molaridad?",
+"opciones": [
+"0.5 M",
+"2 M",
+"1 M"
+],
+"correcta": 2,
+"porque": "117 g son 2 mol, y $\\frac{2}{2} = 1$ M."
+}
+],
+"nomenclatura-inorganica-acidos-prepa": [
+{
+"pregunta": "Nombra $\\ce{HIO2}$.",
+"opciones": [
+"Ácido yódico",
+"Ácido yodoso",
+"Ácido hipoyodoso"
+],
+"correcta": 1,
+"porque": "Con dos oxígenos es la terminación -oso, igual que el ácido cloroso."
+},
+{
+"pregunta": "¿Cuál es la fórmula del ácido hipoyodoso?",
+"opciones": [
+"$\\ce{HIO4}$",
+"$\\ce{HIO3}$",
+"$\\ce{HIO}$"
+],
+"correcta": 2,
+"porque": "Hipo es el más chico y lleva un solo oxígeno."
+},
+{
+"pregunta": "Nombra $\\ce{HIO4}$.",
+"opciones": [
+"Ácido peryódico",
+"Ácido yodoso",
+"Ácido yódico"
+],
+"correcta": 0,
+"porque": "Con cuatro oxígenos va *per*, el más grande."
+},
+{
+"pregunta": "¿Qué prefijo marca al ácido con más oxígenos?",
+"opciones": [
+"Per",
+"Hipo",
+"Ninguno"
+],
+"correcta": 0,
+"porque": "Hipo es el más chico y per es el más grande."
+},
+{
+"pregunta": "¿Qué se forma con $\\ce{SO3 + H2O}$?",
+"opciones": [
+"Ácido hipocloroso",
+"Hidróxido de azufre",
+"Ácido sulfúrico, $\\ce{H2SO4}$"
+],
+"correcta": 2,
+"porque": "Un óxido de no metal con agua forma un ácido."
+}
+],
+"nomenclatura-inorganica-hidruros-e-hidroxidos-prepa": [
+{
+"pregunta": "Nombra $\\ce{LiH}$.",
+"opciones": [
+"Hidróxido de litio",
+"Hidruro de litio",
+"Óxido de litio"
+],
+"correcta": 1,
+"porque": "Metal más H es un hidruro."
+},
+{
+"pregunta": "¿Cuál es el nombre común del $\\ce{CH4}$?",
+"opciones": [
+"Metano",
+"Hidruro de carbono",
+"Amoniaco"
+],
+"correcta": 0,
+"porque": "El $\\ce{CH4}$ tiene nombre común: metano."
+},
+{
+"pregunta": "Nombra $\\ce{Ca(OH)2}$.",
+"opciones": [
+"Óxido de calcio",
+"Hidruro de calcio",
+"Hidróxido de calcio"
+],
+"correcta": 2,
+"porque": "Metal más OH es un hidróxido."
+},
+{
+"pregunta": "¿Qué se forma con $\\ce{K2O + H2O}$?",
+"opciones": [
+"Hidróxido de potasio",
+"Hidruro de potasio",
+"Ácido de potasio"
+],
+"correcta": 0,
+"porque": "Un óxido del metal más agua forma un hidróxido."
+},
+{
+"pregunta": "Escribe la fórmula del hidróxido de sodio, el de los jabones.",
+"opciones": [
+"$\\ce{NaH}$",
+"$\\ce{NaOH}$",
+"$\\ce{Na2O}$"
+],
+"correcta": 1,
+"porque": "El hidróxido de sodio lleva sodio y un grupo OH."
+}
+],
+"nomenclatura-inorganica-oxidos-prepa": [
+{
+"pregunta": "El hierro con carga 3+ se une al oxígeno 2−. ¿Cuál es la fórmula?",
+"opciones": [
+"$\\ce{Fe2O3}$",
+"$\\ce{FeO}$",
+"$\\ce{Fe3O2}$"
+],
+"correcta": 0,
+"porque": "Cruzas las cargas: el 3 del hierro va al oxígeno y el 2 del oxígeno va al hierro."
+},
+{
+"pregunta": "Nombra $\\ce{FeO}$ por Stock.",
+"opciones": [
+"Óxido de hierro (III)",
+"Óxido de hierro (II)",
+"Monóxido de dihierro"
+],
+"correcta": 1,
+"porque": "El hierro tiene carga 2+, y ese número va en romano."
+},
+{
+"pregunta": "Nombra $\\ce{N2O4}$ sistemáticamente.",
+"opciones": [
+"Tetraóxido de dinitrógeno",
+"Dióxido de dinitrógeno",
+"Tetraóxido de nitrógeno"
+],
+"correcta": 0,
+"porque": "Los prefijos cuentan átomos: di 2 para el nitrógeno y tetra 4 para el oxígeno."
+},
+{
+"pregunta": "¿Qué prefijo se usa para 3 átomos?",
+"opciones": [
+"Di",
+"Tri",
+"Tetra"
+],
+"correcta": 1,
+"porque": "Mono es 1, di 2, tri 3, tetra 4 y penta 5."
+},
+{
+"pregunta": "El sodio con carga 1+ se une al oxígeno 2−. ¿Cuál es la fórmula?",
+"opciones": [
+"$\\ce{NaO}$",
+"$\\ce{Na2O}$",
+"$\\ce{NaO2}$"
+],
+"correcta": 1,
+"porque": "Cruzas las cargas: 2 sodios por cada oxígeno."
+}
+],
+"nomenclatura-inorganica-sales-prepa": [
+{
+"pregunta": "Nombra $\\ce{Na2CO3}$.",
+"opciones": [
+"Carbonito de sodio",
+"Carbonato de sodio",
+"Carburo de sodio"
+],
+"correcta": 1,
+"porque": "El anión $\\ce{CO3^2-}$ es carbonato, y se nombra primero."
+},
+{
+"pregunta": "¿Cuál es la fórmula del cloruro de calcio?",
+"opciones": [
+"$\\ce{Ca2Cl}$",
+"$\\ce{CaCl}$",
+"$\\ce{CaCl2}$"
+],
+"correcta": 2,
+"porque": "Calcio +2 con cloruro −1: necesitas 2 cloruros para que sume cero."
+},
+{
+"pregunta": "El ácido sulfúrico termina en -ico. ¿Cómo termina el nombre de su sal?",
+"opciones": [
+"-uro",
+"-ato",
+"-ito"
+],
+"correcta": 1,
+"porque": "-ico pasa a -ato y da sulfato."
+},
+{
+"pregunta": "Nombra $\\ce{KNO3}$.",
+"opciones": [
+"Nitruro de potasio",
+"Nitrato de potasio",
+"Nitrito de potasio"
+],
+"correcta": 1,
+"porque": "El anión $\\ce{NO3-}$ es nitrato y el metal va después."
+},
+{
+"pregunta": "El ácido nitroso termina en -oso. ¿Cómo termina el nombre de su sal?",
+"opciones": [
+"-ato",
+"-ito",
+"-uro"
+],
+"correcta": 1,
+"porque": "-oso pasa a -ito, como en nitrito."
+}
+],
+"normalidad-prepa": [
+{
+"pregunta": "¿Qué normalidad tiene $\\ce{H2SO4}$ 3 M?",
+"opciones": [
+"1 N",
+"3 N",
+"6 N"
+],
+"correcta": 2,
+"porque": "$N = M \\times k = 3 \\times 2 = 6$."
+},
+{
+"pregunta": "¿Qué normalidad tiene $\\ce{Ca(OH)2}$ 2 M?",
+"opciones": [
+"4 N",
+"1 N",
+"2 N"
+],
+"correcta": 0,
+"porque": "Lleva 2 OH, así que $N = 2 \\times 2 = 4$."
+},
+{
+"pregunta": "¿Qué normalidad tiene HCl 0.5 M?",
+"opciones": [
+"1 N",
+"0.25 N",
+"0.5 N"
+],
+"correcta": 2,
+"porque": "El HCl suelta 1 H, así que $k = 1$ y $N = 0.5$."
+},
+{
+"pregunta": "¿Cuánto vale $k$ para el $\\ce{H3PO4}$?",
+"opciones": [
+"4",
+"1",
+"3"
+],
+"correcta": 2,
+"porque": "$k$ cuenta los H que suelta, y el $\\ce{H3PO4}$ tiene 3."
+},
+{
+"pregunta": "¿Qué cuenta la normalidad?",
+"opciones": [
+"Los kilos de disolvente",
+"Las manos de cada molécula, o sea equivalentes",
+"Solo cuántas moléculas hay"
+],
+"correcta": 1,
+"porque": "Normalidad cuenta equivalentes por litro, no moléculas."
+}
+]
+}

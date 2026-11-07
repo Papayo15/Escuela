@@ -1,0 +1,522 @@
+{
+"division-entre-dos-cifras-primaria": [
+{
+"pregunta": "Resuelve 576 ÷ 24.",
+"opciones": [
+"32",
+"23 con residuo de 24",
+"24"
+],
+"correcta": 2,
+"porque": "Estimas, multiplicas y restas: 24 × 24 = 576 y no sobra nada."
+},
+{
+"pregunta": "Al dividir 150 entre 25 probaste 7 y 25 × 7 = 175. ¿Qué haces?",
+"opciones": [
+"Subes el número a 8 y sigues igual",
+"Dejas el 7 y restas al revés",
+"Bajas el número a 6"
+],
+"correcta": 2,
+"porque": "Si la multiplicación se pasa, tu número fue grande y se baja 1."
+},
+{
+"pregunta": "Hay 84 niños y en cada mesa caben 12. ¿Cuántas mesas se llenan?",
+"opciones": [
+"12 mesas, que es lo que cabe en una",
+"7 mesas, porque 84 ÷ 12 = 7",
+"6 mesas, con un niño sobrando"
+],
+"correcta": 1,
+"porque": "12 × 7 = 84, así que se llenan 7 mesas."
+},
+{
+"pregunta": "Resuelve 936 ÷ 52.",
+"opciones": [
+"17 con residuo de 52",
+"81",
+"18"
+],
+"correcta": 2,
+"porque": "Estima 936 ÷ 52 con 900 ÷ 50 y comprueba: 52 × 18 = 936."
+},
+{
+"pregunta": "Al dividir 86 entre 24 restaste y te dio 30. ¿Qué significa?",
+"opciones": [
+"Que el resultado ya es correcto",
+"Que debes bajar el número 1",
+"Tu número fue pequeño y debes subirlo"
+],
+"correcta": 2,
+"porque": "Una resta mayor que el divisor indica que cabía una vez más."
+}
+],
+"division-entre-una-cifra-primaria": [
+{
+"pregunta": "Resuelve 744 ÷ 3.",
+"opciones": [
+"248",
+"258 con residuo de 3",
+"428"
+],
+"correcta": 0,
+"porque": "Divides 7 ÷ 3 = 2, bajas, y sigues: el resultado es 248."
+},
+{
+"pregunta": "Resuelve 306 ÷ 3.",
+"opciones": [
+"120",
+"102",
+"12 porque el 0 no cuenta en la división"
+],
+"correcta": 1,
+"porque": "En 0 ÷ 3 el cociente es 0, y ese 0 se escribe: 102."
+},
+{
+"pregunta": "En 275 ÷ 5, ¿con qué cifras empiezas a dividir?",
+"opciones": [
+"Con solo el 2, aunque no cabe el 5",
+"Con las tres cifras juntas, 275",
+"Con 27, porque 2 es menor que 5"
+],
+"correcta": 2,
+"porque": "Si la primera cifra es menor que el divisor, se toman dos."
+},
+{
+"pregunta": "Hay 128 cuadernos y se reparten en 4 mesas iguales. ¿Cuántos van en cada mesa?",
+"opciones": [
+"32",
+"34 porque sobran dos",
+"23"
+],
+"correcta": 0,
+"porque": "128 ÷ 4 = 32, y 32 × 4 = 128 lo comprueba."
+},
+{
+"pregunta": "En una división, ¿qué paso va después de restar?",
+"opciones": [
+"Sumar todo el resultado antes de seguir",
+"Bajar la siguiente cifra",
+"Volver a dividir la primera cifra"
+],
+"correcta": 1,
+"porque": "Divide, multiplica, resta y baja: se repite hasta terminar."
+}
+],
+"duracion-eventos-tiempo": [
+{
+"pregunta": "Una clase empieza a las 14:50 y termina a las 16:20. ¿Cuánto dura?",
+"opciones": [
+"1 hora 30 minutos",
+"1 hora 70 minutos",
+"2 horas 30 minutos"
+],
+"correcta": 0,
+"porque": "De 14:50 a 15:00 son 10, luego 60 y luego 20: 90 minutos."
+},
+{
+"pregunta": "¿Qué hora es 6:00 p. m. en reloj de 24 horas?",
+"opciones": [
+"18:00",
+"16:00",
+"06:00 de la tarde"
+],
+"correcta": 0,
+"porque": "Después del mediodía se suma 12: 6 + 12 = 18."
+},
+{
+"pregunta": "Un recreo empieza a las 10:40 y termina a las 11:10. ¿Cuántos minutos dura?",
+"opciones": [
+"130 minutos",
+"70 minutos",
+"30 minutos"
+],
+"correcta": 2,
+"porque": "De 10:40 a 11:00 son 20 minutos, y de 11:00 a 11:10 son 10 más."
+},
+{
+"pregunta": "¿Qué hora es 21:00?",
+"opciones": [
+"9 de la noche",
+"1 de la mañana",
+"11 de la noche"
+],
+"correcta": 0,
+"porque": "Se resta 12 a 21 y queda 9: son las 9 de la noche."
+},
+{
+"pregunta": "Para calcular cuánto dura algo, ¿qué conviene hacer primero?",
+"opciones": [
+"Restar solo los minutos sin ver las horas",
+"Saltar a la hora en punto",
+"Sumar las dos horas del reloj"
+],
+"correcta": 1,
+"porque": "Llegar a una hora completa vuelve fácil el cálculo."
+}
+],
+"escribir-numeros-grandes-con-letra-primaria": [
+{
+"pregunta": "¿Cómo se escribe con letra 5 800?",
+"opciones": [
+"Cinco miles ochocientos",
+"Quinientos mil ochocientos",
+"Cinco mil ochocientos"
+],
+"correcta": 2,
+"porque": "Mil no cambia: nunca se dice miles, solo cinco mil."
+},
+{
+"pregunta": "¿Cómo se escribe con letra 1 500 000?",
+"opciones": [
+"Quince millones",
+"Un millón quinientos mil",
+"Un millones quinientos mil"
+],
+"correcta": 1,
+"porque": "Un millón va en singular y 500 000 es quinientos mil."
+},
+{
+"pregunta": "¿Cómo se escribe con letra 36?",
+"opciones": [
+"Treinta seis",
+"Treinta y seis",
+"Trece y seis"
+],
+"correcta": 1,
+"porque": "Del 31 en adelante se une con la palabra y."
+},
+{
+"pregunta": "Una escuela tiene 4 350 libros. ¿Cómo se lee?",
+"opciones": [
+"Cuatro mil trescientos cincuenta",
+"Cuarenta y tres mil cincuenta",
+"Cuatro mil tres cientos cinco cero"
+],
+"correcta": 0,
+"porque": "Se lee 4 mil, luego 350 como trescientos cincuenta."
+},
+{
+"pregunta": "¿Cuál palabra está bien escrita?",
+"opciones": [
+"Cincocientos",
+"Quinientos",
+"Quinentos"
+],
+"correcta": 1,
+"porque": "El 500 es irregular: se dice quinientos y no cincocientos."
+}
+],
+"fracciones-en-la-recta-numerica-primaria": [
+{
+"pregunta": "Para ubicar $\\frac{3}{5}$ en la recta, ¿qué haces?",
+"opciones": [
+"Partes de 0 a 5 y marcas el 3",
+"Partes 0 a 1 en 3 y avanzas 5",
+"Partes 0 a 1 en 5 y avanzas 3"
+],
+"correcta": 2,
+"porque": "El denominador corta el camino y el numerador lo camina."
+},
+{
+"pregunta": "¿Dónde queda $\\frac{4}{3}$ en la recta?",
+"opciones": [
+"Antes del 1",
+"Justo en el 1",
+"Después del 1"
+],
+"correcta": 2,
+"porque": "Si el numerador es mayor que el denominador, pasa del 1."
+},
+{
+"pregunta": "Partes de 0 a 1 en 8 partes. ¿Qué fracción está en la tercera marca?",
+"opciones": [
+"$\\frac{8}{3}$",
+"$\\frac{3}{3}$",
+"$\\frac{3}{8}$"
+],
+"correcta": 2,
+"porque": "Son 8 partes iguales y avanzaste 3."
+},
+{
+"pregunta": "¿Qué fracción cae en el mismo punto que $\\frac{1}{2}$ al partir en cuartos?",
+"opciones": [
+"$\\frac{1}{4}$",
+"$\\frac{2}{4}$",
+"$\\frac{1}{3}$"
+],
+"correcta": 1,
+"porque": "Dos cuartos y un medio caen en el mismo lugar de la recta."
+},
+{
+"pregunta": "¿Qué dice el denominador al ubicar una fracción en la recta?",
+"opciones": [
+"Cuántas partes avanzas desde el cero",
+"En cuántas partes cortar de 0 a 1",
+"Dónde termina toda la recta numérica"
+],
+"correcta": 1,
+"porque": "Es el número de abajo y marca las partes iguales entre 0 y 1."
+}
+],
+"fracciones-equivalentes-con-dibujos-primaria": [
+{
+"pregunta": "Completa: $\\frac{1}{3} = \\frac{?}{6}$",
+"opciones": [
+"2",
+"3",
+"6"
+],
+"correcta": 0,
+"porque": "Abajo se multiplicó por 2, así que arriba también: 1 × 2 = 2."
+},
+{
+"pregunta": "¿Qué fracción es equivalente a $\\frac{6}{9}$ al dividir arriba y abajo entre 3?",
+"opciones": [
+"$\\frac{3}{6}$",
+"$\\frac{2}{3}$",
+"$\\frac{6}{3}$"
+],
+"correcta": 1,
+"porque": "6 ÷ 3 = 2 y 9 ÷ 3 = 3, y vale lo mismo."
+},
+{
+"pregunta": "Completa: $\\frac{3}{4} = \\frac{?}{12}$",
+"opciones": [
+"7",
+"9",
+"12"
+],
+"correcta": 1,
+"porque": "Abajo se multiplicó por 3, así que arriba: 3 × 3 = 9."
+},
+{
+"pregunta": "¿Son equivalentes $\\frac{1}{2}$ y $\\frac{4}{8}$?",
+"opciones": [
+"Sí, porque arriba y abajo se multiplicó por 4",
+"No, porque 4 y 8 son mayores que 1 y 2",
+"No, porque los números son distintos"
+],
+"correcta": 0,
+"porque": "Equivalentes tienen números distintos pero la misma cantidad."
+},
+{
+"pregunta": "Una barra de chocolate tiene 10 cuadritos. ¿Cuántos son la mitad?",
+"opciones": [
+"2",
+"5",
+"10"
+],
+"correcta": 1,
+"porque": "La mitad es $\\frac{1}{2}$, que equivale a $\\frac{5}{10}$."
+}
+],
+"graficas-de-barras-primaria": [
+{
+"pregunta": "Barras: manzana 9 y pera 4. ¿Cuántas manzanas más que peras hay?",
+"opciones": [
+"5",
+"9",
+"13"
+],
+"correcta": 0,
+"porque": "Se compara restando: 9 - 4 = 5."
+},
+{
+"pregunta": "Cumpleaños: enero 3, febrero 6, marzo 2. ¿Cuántos son en total?",
+"opciones": [
+"36",
+"6",
+"11"
+],
+"correcta": 2,
+"porque": "Se suman todas las barras: 3 + 6 + 2 = 11."
+},
+{
+"pregunta": "La escala va de 10 en 10 y una barra llega a la mitad entre 20 y 30. ¿Cuánto vale?",
+"opciones": [
+"15",
+"20",
+"25"
+],
+"correcta": 2,
+"porque": "A la mitad entre 20 y 30 está el 25."
+},
+{
+"pregunta": "¿Qué muestra el eje horizontal en una gráfica de barras?",
+"opciones": [
+"Las categorías, como materias",
+"Solamente el título de la gráfica",
+"Las cantidades de cada barra"
+],
+"correcta": 0,
+"porque": "El eje horizontal nombra cada barra, y el vertical da el valor."
+},
+{
+"pregunta": "Antes de leer las barras de una gráfica, ¿qué debes revisar?",
+"opciones": [
+"El ancho de las barras",
+"La escala de los números",
+"El color de las barras"
+],
+"correcta": 1,
+"porque": "La escala dice cuánto vale cada rayita de la gráfica."
+}
+],
+"graficas-tablas-moda": [
+{
+"pregunta": "Halla la moda de: 4, 6, 4, 4, 2, 6.",
+"opciones": [
+"4",
+"2",
+"6"
+],
+"correcta": 0,
+"porque": "El 4 sale tres veces, más que cualquier otro dato."
+},
+{
+"pregunta": "Colores favoritos: rojo, azul, rojo, verde, azul, azul. ¿Cuál es la moda?",
+"opciones": [
+"Verde",
+"Rojo",
+"Azul"
+],
+"correcta": 2,
+"porque": "El azul se repite tres veces y es el que más sale."
+},
+{
+"pregunta": "¿Qué es la frecuencia de un dato?",
+"opciones": [
+"Cuántas veces aparece",
+"La suma de todos los datos",
+"El dato más grande de la lista"
+],
+"correcta": 0,
+"porque": "La frecuencia se cuenta en una tabla marcando cada vez que sale."
+},
+{
+"pregunta": "Datos: 2, 2, 5, 5, 7. ¿Cuántas modas hay?",
+"opciones": [
+"Ninguna porque hay un empate",
+"Solo una: 7",
+"Dos: 2 y 5"
+],
+"correcta": 2,
+"porque": "Cuando dos datos empatan, ambos son moda."
+},
+{
+"pregunta": "En una tabla, el 1 sale 2 veces, el 3 sale 5 veces y el 4 sale 1 vez. ¿Cuál es la moda?",
+"opciones": [
+"4",
+"5",
+"3"
+],
+"correcta": 2,
+"porque": "La moda es el dato que más sale, no el número de veces."
+}
+],
+"horas-minutos-y-segundos-primaria": [
+{
+"pregunta": "¿Cuántos minutos son 4 horas?",
+"opciones": [
+"240",
+"400",
+"64"
+],
+"correcta": 0,
+"porque": "Cada hora tiene 60 minutos: 4 × 60 = 240."
+},
+{
+"pregunta": "¿Cuántos minutos son 300 segundos?",
+"opciones": [
+"30 minutos",
+"50 minutos",
+"5 minutos"
+],
+"correcta": 2,
+"porque": "Cada minuto tiene 60 segundos, y 300 ÷ 60 = 5."
+},
+{
+"pregunta": "Convierte 150 minutos a horas y minutos.",
+"opciones": [
+"1 hora 50 minutos",
+"15 horas",
+"2 horas 30 minutos"
+],
+"correcta": 2,
+"porque": "150 ÷ 60 = 2 y sobran 30 minutos."
+},
+{
+"pregunta": "¿Qué hora de la noche son las 22:00?",
+"opciones": [
+"10 de la noche",
+"2 de la mañana",
+"12 de la noche"
+],
+"correcta": 0,
+"porque": "Se resta 12 a 22 y queda 10."
+},
+{
+"pregunta": "El recreo dura 30 minutos. ¿Cuántos segundos son?",
+"opciones": [
+"3 000",
+"1 800",
+"90"
+],
+"correcta": 1,
+"porque": "Se multiplica 30 × 60 = 1 800 segundos."
+}
+],
+"la-fraccion-como-parte-de-un-todo-primaria": [
+{
+"pregunta": "Una barra se divide en 5 partes iguales y coloreas 2. ¿Qué fracción coloreaste?",
+"opciones": [
+"$\\frac{2}{3}$",
+"$\\frac{5}{2}$",
+"$\\frac{2}{5}$"
+],
+"correcta": 2,
+"porque": "Abajo van las partes totales, 5, y arriba las que tomas, 2."
+},
+{
+"pregunta": "En $\\frac{7}{10}$, ¿qué número es el numerador?",
+"opciones": [
+"El 10, el de abajo",
+"El 7, el de arriba",
+"El 17, la suma"
+],
+"correcta": 1,
+"porque": "El numerador va arriba y dice cuántas partes tomas."
+},
+{
+"pregunta": "En un grupo de 9 alumnos, 4 traen gorra. ¿Qué fracción trae gorra?",
+"opciones": [
+"$\\frac{9}{4}$",
+"$\\frac{4}{5}$",
+"$\\frac{4}{9}$"
+],
+"correcta": 2,
+"porque": "Son 4 de un total de 9 alumnos."
+},
+{
+"pregunta": "Una pizza tiene 8 rebanadas y quedan 2. ¿Qué fracción se comió?",
+"opciones": [
+"$\\frac{2}{8}$",
+"$\\frac{6}{8}$",
+"$\\frac{8}{6}$"
+],
+"correcta": 1,
+"porque": "Se comieron 8 - 2 = 6 rebanadas de las 8."
+},
+{
+"pregunta": "Cortas un pastel en 4 trozos, unos grandes y otros chicos. ¿Cada uno es $\\frac{1}{4}$?",
+"opciones": [
+"Sí, porque el pastel es uno solo",
+"Sí, porque son 4 trozos en total",
+"No, porque las partes deben ser iguales"
+],
+"correcta": 2,
+"porque": "Una fracción necesita partes del mismo tamaño."
+}
+]
+}

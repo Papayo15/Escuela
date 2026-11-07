@@ -1,5 +1,6 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { accesoActivo, COOKIE_ACCESO, planDeCookie } from "./lib/acceso";
+import { ASISTENTE } from "./lib/marca";
 
 const RUTAS_PREMIUM = ["/api/explain", "/api/vision"];
 
@@ -14,7 +15,7 @@ export async function proxy(request: NextRequest) {
     return NextResponse.redirect(new URL("/acceso", request.url));
   }
   if (plan !== "premium" && RUTAS_PREMIUM.includes(pathname)) {
-    return Response.json({ error: "El Maestro en vivo es del plan completo." }, { status: 403 });
+    return Response.json({ error: `${ASISTENTE} es del plan completo.` }, { status: 403 });
   }
   return NextResponse.next();
 }

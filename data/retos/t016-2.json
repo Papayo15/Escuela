@@ -1,0 +1,522 @@
+{
+"complemento-circunstancial-secundaria": [
+{
+"pregunta": "En «Luis juega en el patio», ¿qué indica «en el patio»?",
+"opciones": [
+"Tiempo",
+"Compañía, porque hay otras personas",
+"Lugar"
+],
+"correcta": 2,
+"porque": "Dice dónde pasa la acción, así que es lugar."
+},
+{
+"pregunta": "En «Salimos mañana temprano», ¿qué indica «mañana temprano»?",
+"opciones": [
+"Causa",
+"Lugar, porque dice dónde salimos",
+"Tiempo"
+],
+"correcta": 2,
+"porque": "Dice cuándo pasa la acción, así que es tiempo."
+},
+{
+"pregunta": "En «Fui al museo con mi hermano», ¿qué indica «con mi hermano»?",
+"opciones": [
+"Compañía",
+"Lugar",
+"Modo"
+],
+"correcta": 0,
+"porque": "Dice con quién vas, y eso es compañía."
+},
+{
+"pregunta": "En «Se cayó por el piso mojado», ¿qué indica «por el piso mojado»?",
+"opciones": [
+"Lugar, porque dice dónde pasó",
+"Causa",
+"Modo"
+],
+"correcta": 1,
+"porque": "Dice por qué se cayó, y eso es la causa."
+},
+{
+"pregunta": "¿Qué pasa si quitas un complemento circunstancial de una oración?",
+"opciones": [
+"La oración queda bien",
+"El verbo cambia solo",
+"La oración se rompe"
+],
+"correcta": 0,
+"porque": "El complemento circunstancial se puede quitar sin romper la oración."
+}
+],
+"complemento-directo-e-indirecto-secundaria": [
+{
+"pregunta": "En «Mi mamá compró fruta», ¿cuál es el complemento directo?",
+"opciones": [
+"Mi mamá",
+"compró",
+"fruta"
+],
+"correcta": 2,
+"porque": "Es lo que recibe la acción: ¿qué compró? Fruta."
+},
+{
+"pregunta": "En «Presté mi regla a Pedro», ¿cuál es el complemento indirecto?",
+"opciones": [
+"mi regla",
+"a Pedro",
+"Presté"
+],
+"correcta": 1,
+"porque": "Indirecto es a quién se da algo: a Pedro."
+},
+{
+"pregunta": "Cambia por pronombre: «Leí los cuentos».",
+"opciones": [
+"Le leí",
+"Los leí",
+"Les leí los cuentos"
+],
+"correcta": 1,
+"porque": "El directo se cambia por lo, la, los o las; aquí son «los cuentos»."
+},
+{
+"pregunta": "¿Qué pronombres reemplazan al complemento indirecto?",
+"opciones": [
+"lo o la",
+"los o las",
+"le o les"
+],
+"correcta": 2,
+"porque": "El indirecto se cambia por le o les."
+},
+{
+"pregunta": "¿Cuál es el complemento directo de «Ana cantó una canción a su abuela»?",
+"opciones": [
+"a su abuela",
+"una canción",
+"Ana cantó"
+],
+"correcta": 1,
+"porque": "Pregunta ¿qué cantó?, y la respuesta es el directo."
+}
+],
+"comunicacion-asertiva-dialogica-secundaria": [
+{
+"pregunta": "¿Cuál frase es asertiva?",
+"opciones": [
+"Mejor me quedo callado y ya no digo nada.",
+"Me gustaría que me escuches",
+"¡Nunca escuchas, qué molesto eres con todos!"
+],
+"correcta": 1,
+"porque": "Dice lo que necesitas con respeto, sin gritar ni callar."
+},
+{
+"pregunta": "Alguien te grita y tú te quedas callado aunque te molesta. ¿Qué estilo es?",
+"opciones": [
+"Asertivo, porque no hubo pelea",
+"Pasivo",
+"Agresivo"
+],
+"correcta": 1,
+"porque": "Pasivo es callarse lo que sientes."
+},
+{
+"pregunta": "¿Cuál es el primer paso de la comunicación asertiva?",
+"opciones": [
+"Decir cómo es esa persona de mala",
+"Gritar para que te oigan",
+"Contar el hecho"
+],
+"correcta": 2,
+"porque": "Primero dices lo que pasó, sin insultar."
+},
+{
+"pregunta": "Tu amigo llegó tarde dos veces. ¿Qué dice una persona asertiva?",
+"opciones": [
+"No digo nada y me aguanto",
+"Eres un irresponsable total",
+"Me sentí ignorado; avísame"
+],
+"correcta": 2,
+"porque": "Ser asertivo es decir lo que sientes y necesitas con respeto."
+},
+{
+"pregunta": "Un compañero manchó tu cuaderno. ¿Cuál frase es asertiva?",
+"opciones": [
+"Me molestó la mancha; ten cuidado",
+"No le digo nada aunque me enoje",
+"¡Eres un torpe y siempre arruinas todo!"
+],
+"correcta": 0,
+"porque": "Dice lo que sientes y lo que necesitas, sin atacar."
+}
+],
+"concordancia-secundaria": [
+{
+"pregunta": "Elige: «Las flores ___ bonitas» (es/son).",
+"opciones": [
+"son",
+"es, porque flor es una palabra singular",
+"es"
+],
+"correcta": 0,
+"porque": "«Las flores» es plural, así que el verbo va en plural."
+},
+{
+"pregunta": "¿Cuál frase concuerda bien?",
+"opciones": [
+"Los mochilas rojas",
+"Las mochilas rojas",
+"Las mochilas rojo"
+],
+"correcta": 1,
+"porque": "Artículo, sustantivo y adjetivo deben ir en femenino plural."
+},
+{
+"pregunta": "Elige: «Pedro y Rosa ___ en el patio» (juega/juegan).",
+"opciones": [
+"juega",
+"jugamos",
+"juegan"
+],
+"correcta": 2,
+"porque": "Con dos sujetos el verbo va en plural."
+},
+{
+"pregunta": "Elige: «La clase ___ en silencio» (trabaja/trabajan).",
+"opciones": [
+"trabaja",
+"trabajan, porque hay muchos niños",
+"trabajamos"
+],
+"correcta": 0,
+"porque": "«La clase» es una sola palabra en singular."
+},
+{
+"pregunta": "¿Qué debe coincidir entre el sujeto y el verbo?",
+"opciones": [
+"El número y la persona",
+"La rima y el acento",
+"El color y el tamaño"
+],
+"correcta": 0,
+"porque": "Si el sujeto es plural, el verbo también lo es."
+}
+],
+"creaciones-literarias-tradicionales-contemporaneas-secundaria": [
+{
+"pregunta": "¿Cuál es literatura tradicional?",
+"opciones": [
+"Un cuento nuevo con autor conocido",
+"Una novela firmada que salió este año",
+"Una leyenda de los abuelos"
+],
+"correcta": 2,
+"porque": "La tradicional viene de la gente y se cuenta de generación en generación."
+},
+{
+"pregunta": "¿Cómo se transmite la literatura tradicional?",
+"opciones": [
+"Con un contrato de edición",
+"Solo en libros con autor firmado",
+"De boca en boca"
+],
+"correcta": 2,
+"porque": "Se cuenta de abuelos a nietos."
+},
+{
+"pregunta": "Un poema recién publicado con el nombre de su autora es literatura...",
+"opciones": [
+"contemporánea",
+"anónima",
+"tradicional, porque es un poema"
+],
+"correcta": 0,
+"porque": "Tiene autora y es reciente, así que es contemporánea."
+},
+{
+"pregunta": "¿Qué tienen en común la literatura tradicional y la contemporánea?",
+"opciones": [
+"Los dos cambian de boca en boca",
+"Cuentan historias",
+"Los dos tienen autor conocido y se firman"
+],
+"correcta": 1,
+"porque": "Las dos cuentan historias y muestran cómo piensa la gente."
+},
+{
+"pregunta": "¿Por qué cambia una leyenda al repetirse?",
+"opciones": [
+"Cada quien la cuenta distinto",
+"Porque se imprime en libros",
+"Su autor la corrige cada año"
+],
+"correcta": 0,
+"porque": "Al pasar de boca en boca, cada persona le cambia algo."
+}
+],
+"debate-y-mesa-redonda-secundaria": [
+{
+"pregunta": "Quieres hablar en un debate. ¿Qué haces primero?",
+"opciones": [
+"Interrumpir al que habla",
+"Pedir la palabra",
+"Hablar más fuerte que los demás para ganar"
+],
+"correcta": 1,
+"porque": "Una regla del debate es pedir la palabra y esperar tu turno."
+},
+{
+"pregunta": "¿En cuál hay dos lados que defienden ideas opuestas?",
+"opciones": [
+"En la mesa redonda, donde todos opinan",
+"En ninguno",
+"En el debate"
+],
+"correcta": 2,
+"porque": "En el debate los lados se oponen; la mesa redonda comparte puntos de vista."
+},
+{
+"pregunta": "Tu equipo dice que el uniforme es barato. El otro responde que se rompe pronto. Esa respuesta es...",
+"opciones": [
+"una conclusión",
+"una réplica",
+"una presentación del tema"
+],
+"correcta": 1,
+"porque": "La réplica es lo que contestas al argumento del otro."
+},
+{
+"pregunta": "¿Cómo es una mesa redonda?",
+"opciones": [
+"Varios hablan y el público pregunta",
+"Una persona lee sola en voz alta",
+"Dos equipos pelean para ver quién gana"
+],
+"correcta": 0,
+"porque": "Cada quien da su punto de vista y luego el público pregunta."
+},
+{
+"pregunta": "En un debate, ¿qué paso va al final?",
+"opciones": [
+"Se cierra con las conclusiones",
+"Se presenta el tema al inicio",
+"Cada lado da sus primeras razones"
+],
+"correcta": 0,
+"porque": "El debate termina con el cierre."
+}
+],
+"dequeismo-y-queismo-secundaria": [
+{
+"pregunta": "¿Qué tipo de error es *Pienso de que vendrá*?",
+"opciones": [
+"Dequeísmo, porque sobra *de*",
+"Queísmo, porque falta *de*",
+"Ningún error, está bien escrita"
+],
+"correcta": 0,
+"porque": "Se pregunta ¿qué pienso?, y no lleva *de*."
+},
+{
+"pregunta": "¿Qué tipo de error es *Estoy seguro que vendrá*?",
+"opciones": [
+"Ningún error, está bien escrita",
+"Queísmo, porque falta *de*",
+"Dequeísmo, porque sobra *de*"
+],
+"correcta": 1,
+"porque": "Se pregunta ¿de qué estoy seguro?, y sí lleva *de*."
+},
+{
+"pregunta": "Elige: «Me alegro ___ vinieras» (que/de que).",
+"opciones": [
+"que",
+"de que",
+"que, porque no hay pregunta"
+],
+"correcta": 1,
+"porque": "¿De qué me alegro? Sí lleva «de»."
+},
+{
+"pregunta": "«Dijo que vendría». ¿Qué pregunta te sirve para revisar?",
+"opciones": [
+"¿Qué dijo?",
+"¿Dónde dijo?",
+"¿De qué dijo?"
+],
+"correcta": 0,
+"porque": "La respuesta es «que vendría», así que no lleva «de»."
+},
+{
+"pregunta": "¿Cuál oración tiene queísmo, o sea, le falta un «de»?",
+"opciones": [
+"Dije que llegó tarde",
+"Me di cuenta que llegó tarde",
+"Me di cuenta de que llegó tarde"
+],
+"correcta": 1,
+"porque": "Se pregunta ¿de qué me di cuenta?, así que debe llevar «de»."
+}
+],
+"dinamismo-lenguas-patrimonio-secundaria": [
+{
+"pregunta": "¿De qué lengua viene la palabra «aguacate»?",
+"opciones": [
+"Del inglés, como futbol",
+"Del náhuatl",
+"Del latín"
+],
+"correcta": 1,
+"porque": "Aguacate es un préstamo del náhuatl."
+},
+{
+"pregunta": "¿Qué quiere decir que una lengua es dinámica?",
+"opciones": [
+"No cambia porque está escrita",
+"Solo cambia en los libros",
+"Cambia con el tiempo"
+],
+"correcta": 2,
+"porque": "Las lenguas cambian porque la gente las usa."
+},
+{
+"pregunta": "En México se dice «camión» y en Cuba «guagua». ¿Qué son?",
+"opciones": [
+"Errores de quienes hablan mal",
+"Palabras que ya no sirven",
+"Variantes de una misma lengua"
+],
+"correcta": 2,
+"porque": "Son variantes: formas distintas de decir lo mismo."
+},
+{
+"pregunta": "¿Qué se pierde si una lengua deja de hablarse?",
+"opciones": [
+"Solo algunas palabras, pero los saberes siguen igual",
+"Los saberes que guardaba",
+"Nada"
+],
+"correcta": 1,
+"porque": "La lengua es patrimonio: guarda lo que sabe un pueblo."
+},
+{
+"pregunta": "¿Cómo se llama una palabra que viene de otra lengua?",
+"opciones": [
+"Préstamo",
+"Variante, porque cambia de región",
+"Rima"
+],
+"correcta": 0,
+"porque": "Préstamo, como «tomate», que viene del náhuatl."
+}
+],
+"diversidad-etnica-cultural-intercultural-secundaria": [
+{
+"pregunta": "¿Qué es la interculturalidad?",
+"opciones": [
+"Respetar y aprender de otros",
+"Hacer que todos tengan la misma comida y fiestas",
+"Quedarse solo con gente de tu cultura"
+],
+"correcta": 0,
+"porque": "Es convivir con respeto entre culturas distintas."
+},
+{
+"pregunta": "Según el tema, muchas lenguas en un país son diversidad...",
+"opciones": [
+"lingüística",
+"cultural, porque son costumbres",
+"étnica"
+],
+"correcta": 0,
+"porque": "La variedad de lenguas se llama diversidad lingüística."
+},
+{
+"pregunta": "Un compañero trae tamales de su pueblo. ¿Cómo muestras interculturalidad?",
+"opciones": [
+"Le dices que tu comida es mejor",
+"Le dices que mejor traiga comida como la tuya",
+"Los pruebas y le preguntas"
+],
+"correcta": 2,
+"porque": "Interculturalidad es conocer, respetar y aprender del otro."
+},
+{
+"pregunta": "La diversidad cultural es la variedad de...",
+"opciones": [
+"costumbres, fiestas y comidas",
+"lenguas que se hablan",
+"tamaños de las escuelas"
+],
+"correcta": 0,
+"porque": "Incluye costumbres, fiestas, comidas y creencias."
+},
+{
+"pregunta": "¿Quiénes forman la diversidad de México?",
+"opciones": [
+"Solo personas de las ciudades grandes",
+"Solo un grupo, con la misma costumbre",
+"Muchos pueblos y comunidades"
+],
+"correcta": 2,
+"porque": "Hay pueblos indígenas, afrodescendientes, mestizos y migrantes."
+}
+],
+"diversidad-lenguas-comunicacion-secundaria": [
+{
+"pregunta": "Una persona que habla dos lenguas es...",
+"opciones": [
+"monolingüe, porque usa una a la vez",
+"sorda",
+"bilingüe"
+],
+"correcta": 2,
+"porque": "Bilingüe es quien habla dos lenguas y escoge cuál usar."
+},
+{
+"pregunta": "Para pedir un lápiz a tu directora, ¿qué frase usas?",
+"opciones": [
+"¿Me presta un lápiz, por favor?",
+"¿Qué onda, me pasas un lápiz?",
+"¡Oye, dame un lápiz ya, rapidito!"
+],
+"correcta": 0,
+"porque": "Con una directora hablas con más cuidado."
+},
+{
+"pregunta": "¿Qué es el registro?",
+"opciones": [
+"Las palabras que solo se escriben",
+"El libro donde se anotan las lenguas del país",
+"Tu forma de hablar según con quién estés"
+],
+"correcta": 2,
+"porque": "Cambias tu forma de hablar según el lugar y la persona."
+},
+{
+"pregunta": "¿Qué lenguas se hablan en México?",
+"opciones": [
+"Español, lenguas indígenas y señas",
+"Solo inglés y español",
+"Solo español, porque es la lengua oficial de todos"
+],
+"correcta": 0,
+"porque": "En México conviven muchas lenguas, y la de señas también cuenta."
+},
+{
+"pregunta": "¿Cuál lengua vale más?",
+"opciones": [
+"El español, porque la hablan más",
+"Las que más gente habla, porque se usan mucho",
+"Todas valen igual"
+],
+"correcta": 2,
+"porque": "Todas las lenguas valen lo mismo, hablen pocas o muchas personas."
+}
+]
+}

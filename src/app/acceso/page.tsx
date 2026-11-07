@@ -1,5 +1,6 @@
 "use client";
 
+import { ESCUELA } from "@/lib/marca";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 
@@ -29,7 +30,7 @@ export default function Acceso() {
 
   return (
     <main className="acceso">
-      <h1>Escuela de regularización</h1>
+      <h1>{ESCUELA}</h1>
       <p>Escribe el código que te dio tu escuela.</p>
       <form onSubmit={entrar}>
         <label className="oculto" htmlFor="codigo">Código de acceso</label>

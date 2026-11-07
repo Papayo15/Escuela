@@ -1,0 +1,678 @@
+{
+"palabras-agudas-graves-y-esdrujulas-primaria": [
+{
+"pregunta": "¿Cómo es *camisa*, si la fuerza está en *mi*?",
+"opciones": [
+"Grave, porque la fuerza es penúltima",
+"Aguda, porque tiene tres sílabas",
+"Esdrújula, porque termina en vocal"
+],
+"correcta": 0,
+"porque": "Una palabra es grave si la fuerza cae en la penúltima sílaba."
+},
+{
+"pregunta": "¿Cuál palabra es esdrújula?",
+"opciones": [
+"*Pared*, porque termina en d",
+"*Sillón*, porque lleva tilde",
+"*Pétalo*, fuerza en antepenúltima"
+],
+"correcta": 2,
+"porque": "En *pétalo* la fuerza cae en la antepenúltima sílaba, por eso es esdrújula."
+},
+{
+"pregunta": "¿Cuál palabra es aguda?",
+"opciones": [
+"*Cuaderno*, porque tiene tres sílabas",
+"*Pastel*, fuerza en la última sílaba",
+"*Zapato*, porque termina en vocal"
+],
+"correcta": 1,
+"porque": "En *pastel* la fuerza cae en la última sílaba, por eso es aguda."
+},
+{
+"pregunta": "Para saber la sílaba fuerte, ¿qué haces?",
+"opciones": [
+"Cuento las letras de la palabra completa",
+"Busco la primera vocal que aparece",
+"Digo la palabra como si llamara a alguien"
+],
+"correcta": 2,
+"porque": "Al llamar a alguien, la voz se oye más fuerte en la sílaba tónica."
+},
+{
+"pregunta": "En tu libro hay la palabra *sábado*. ¿Qué tipo es?",
+"opciones": [
+"Grave, porque tiene dos a",
+"Esdrújula, fuerza en antepenúltima",
+"Aguda, porque lleva tilde en sá"
+],
+"correcta": 1,
+"porque": "En *sábado* la fuerza está en la antepenúltima sílaba."
+}
+],
+"preposiciones-primaria": [
+{
+"pregunta": "¿Cuál es la preposición en *Libro de cuentos*?",
+"opciones": [
+"cuentos, porque va al final",
+"libro, porque va primero",
+"de, porque enlaza libro y cuentos"
+],
+"correcta": 2,
+"porque": "La palabra *de* enlaza las otras dos, por eso es preposición."
+},
+{
+"pregunta": "Completa: *Voy ___ la escuela.* (a dónde)",
+"opciones": [
+"sobre, porque va arriba",
+"tras, porque va detrás",
+"a, porque indica a dónde voy"
+],
+"correcta": 2,
+"porque": "*Voy a la escuela* usa la preposición *a* para indicar lugar."
+},
+{
+"pregunta": "¿Qué característica tiene una preposición?",
+"opciones": [
+"Siempre dice una acción",
+"Cambia según el número de personas",
+"Nunca cambia"
+],
+"correcta": 2,
+"porque": "Las preposiciones siempre se escriben igual."
+},
+{
+"pregunta": "¿Cuál palabra es preposición?",
+"opciones": [
+"*sin*",
+"*corre*",
+"*mesa*"
+],
+"correcta": 0,
+"porque": "*Sin* enlaza palabras, como en *dulces sin azúcar*."
+},
+{
+"pregunta": "En *Mi mochila está sobre la silla*, ¿qué preposición hay?",
+"opciones": [
+"sobre",
+"está sobre la silla",
+"mochila"
+],
+"correcta": 0,
+"porque": "*Sobre* dice dónde está la mochila y enlaza las palabras."
+}
+],
+"pronombres-primaria": [
+{
+"pregunta": "¿Para qué sirve un pronombre?",
+"opciones": [
+"Para sustituir a un sustantivo",
+"Para decir una acción que haces",
+"Para decir cómo es una cosa o persona"
+],
+"correcta": 0,
+"porque": "Un pronombre ocupa el lugar de un nombre y evita repetirlo."
+},
+{
+"pregunta": "Cambia por pronombre: *María lee un cuento.*",
+"opciones": [
+"Nosotros leemos un cuento.",
+"Ellos leen un cuento.",
+"Ella lee un cuento."
+],
+"correcta": 2,
+"porque": "*María* es una sola mujer, por eso se cambia por *ella*."
+},
+{
+"pregunta": "¿Cuál es un pronombre demostrativo?",
+"opciones": [
+"*mío*",
+"*aquel*",
+"*yo*, porque señala algo lejano"
+],
+"correcta": 1,
+"porque": "*Aquel* sirve para señalar algo, como en *Quiero aquel*."
+},
+{
+"pregunta": "En *La mochila es tuya*, ¿qué palabra es pronombre posesivo?",
+"opciones": [
+"mochila",
+"tuya",
+"es"
+],
+"correcta": 1,
+"porque": "*Tuya* dice de quién es la mochila."
+},
+{
+"pregunta": "En México, ¿cuál es el plural de *tú*?",
+"opciones": [
+"nosotros, porque incluye a todos",
+"ustedes, porque se usa en México",
+"vosotros, porque se usa siempre"
+],
+"correcta": 1,
+"porque": "En México *ustedes* es el plural de tú."
+}
+],
+"punto-y-coma-y-dos-puntos-primaria": [
+{
+"pregunta": "¿Qué signo va después de *Querido Pedro* en una carta?",
+"opciones": [
+"Un punto final, porque ya terminó",
+"Punto y coma, porque separa ideas",
+"Dos puntos, porque es un saludo"
+],
+"correcta": 2,
+"porque": "Después del saludo en una carta van dos puntos."
+},
+{
+"pregunta": "¿Cuál oración usa bien los dos puntos?",
+"opciones": [
+"Traigo: tres útiles lápiz, goma y regla.",
+"Traigo tres útiles: lápiz, goma y regla.",
+"Traigo tres útiles lápiz: goma y regla."
+],
+"correcta": 1,
+"porque": "Los dos puntos anuncian la lista que sigue."
+},
+{
+"pregunta": "¿Para qué sirve el punto y coma?",
+"opciones": [
+"Para cerrar siempre un párrafo completo",
+"Para anunciar una lista que sigue",
+"Para separar ideas relacionadas con una pausa mayor que la coma"
+],
+"correcta": 2,
+"porque": "El punto y coma separa ideas que van juntas, con una pausa más larga."
+},
+{
+"pregunta": "¿Cuál oración usa bien el punto y coma?",
+"opciones": [
+"Quería jugar sin; embargo, llovió.",
+"Quería; jugar sin embargo llovió.",
+"Quería jugar; sin embargo, llovió."
+],
+"correcta": 2,
+"porque": "Antes de *sin embargo* va punto y coma, y después va coma."
+},
+{
+"pregunta": "¿Qué signo anuncia lo que alguien dijo?",
+"opciones": [
+"Dos puntos",
+"Punto y coma",
+"Una coma antes de cada palabra"
+],
+"correcta": 0,
+"porque": "Los dos puntos anuncian una cita, como *Dijo: «Ya voy»*."
+}
+],
+"realidad-ficcion-simbolos-identidad-primaria": [
+{
+"pregunta": "¿Qué es un símbolo?",
+"opciones": [
+"Un dibujo que nadie debe cambiar nunca",
+"Algo que solo existe en los cuentos",
+"Algo que representa una idea"
+],
+"correcta": 2,
+"porque": "Un símbolo representa una idea, como la bandera representa a México."
+},
+{
+"pregunta": "En un alebrije, ¿qué parte es imaginada?",
+"opciones": [
+"Los colores, que se ven en la pintura",
+"La criatura, que salió de la mente",
+"La madera, que viene de un árbol"
+],
+"correcta": 1,
+"porque": "Los colores y la madera son reales, pero la criatura es imaginada."
+},
+{
+"pregunta": "¿Qué simbolizan las flores de cempasúchil en la ofrenda?",
+"opciones": [
+"La fiesta de cumpleaños",
+"El camino de las almas",
+"El inicio de las clases"
+],
+"correcta": 1,
+"porque": "En la ofrenda, estas flores señalan el camino de las almas."
+},
+{
+"pregunta": "¿Qué es la identidad cultural?",
+"opciones": [
+"Las cosas que solo una persona sabe hacer",
+"Los datos que vienen en tu acta de nacimiento",
+"Las costumbres, símbolos y lenguas que comparte un grupo"
+],
+"correcta": 2,
+"porque": "La identidad cultural es lo que un grupo comparte y lo hace sentir unido."
+},
+{
+"pregunta": "En tu escuela, dibujas un símbolo de tu familia. ¿Qué haces?",
+"opciones": [
+"Copio exactamente el símbolo de otro compañero",
+"Dibujo un animal que nunca he visto",
+"Dibujo algo que representa a mi familia"
+],
+"correcta": 2,
+"porque": "Un símbolo de tu familia representa lo que ustedes comparten."
+}
+],
+"reglamentos-convivencia-primaria": [
+{
+"pregunta": "¿Qué es un reglamento?",
+"opciones": [
+"Una lista de castigos que solo usan los maestros",
+"Un cuento sobre cómo se porta la gente",
+"Un conjunto de normas para convivir"
+],
+"correcta": 2,
+"porque": "Un reglamento tiene reglas claras que ayudan a convivir."
+},
+{
+"pregunta": "¿Cuál regla está escrita en positivo?",
+"opciones": [
+"No corras en los pasillos.",
+"Camina despacio en los pasillos.",
+"Nunca corran por los pasillos de la escuela."
+],
+"correcta": 1,
+"porque": "En positivo se dice lo que sí se hace."
+},
+{
+"pregunta": "¿Por qué un parque y una biblioteca tienen reglas distintas?",
+"opciones": [
+"Porque en un lugar importa más que en otro",
+"Porque cada lugar tiene actividades distintas",
+"Porque las reglas se eligen al azar cada día"
+],
+"correcta": 1,
+"porque": "Cada lugar tiene sus actividades, por eso necesita sus propias reglas."
+},
+{
+"pregunta": "¿Cómo debe ser una regla de un reglamento?",
+"opciones": [
+"Solo para los alumnos más pequeños",
+"Clara, breve y justa para todos",
+"Larga y con muchas palabras difíciles"
+],
+"correcta": 1,
+"porque": "Una regla clara y justa se entiende y se cumple mejor."
+},
+{
+"pregunta": "En tu salón haces un reglamento de cinco reglas. ¿Cómo las escribes?",
+"opciones": [
+"Todas juntas en un solo párrafo largo",
+"Sin ponerlas por escrito",
+"En una lista, una debajo de otra"
+],
+"correcta": 2,
+"porque": "Un reglamento tiene reglas claras, en lista, para leerlas fácil."
+}
+],
+"reglas-de-acentuacion-primaria": [
+{
+"pregunta": "¿Lleva tilde *camion*?",
+"opciones": [
+"No, porque termina en consonante",
+"Sí, es aguda y termina en n",
+"No, porque tiene solo dos sílabas"
+],
+"correcta": 1,
+"porque": "Las agudas que terminan en n llevan tilde: *camión*."
+},
+{
+"pregunta": "¿Cuál palabra se escribe bien?",
+"opciones": [
+"*marmol*",
+"*mármol*",
+"*mármól*"
+],
+"correcta": 1,
+"porque": "*Mármol* es grave y no termina en vocal, n ni s, por eso lleva tilde."
+},
+{
+"pregunta": "¿Cuál palabra esdrújula está bien escrita?",
+"opciones": [
+"*miercolés*",
+"*miercoles*",
+"*miércoles*"
+],
+"correcta": 2,
+"porque": "Las esdrújulas llevan tilde siempre."
+},
+{
+"pregunta": "¿Lleva tilde *mesa*?",
+"opciones": [
+"Sí, porque tiene dos sílabas",
+"No, es grave y termina en vocal",
+"Sí, porque la fuerza está en la primera"
+],
+"correcta": 1,
+"porque": "Las graves que terminan en vocal no llevan tilde."
+},
+{
+"pregunta": "¿Cuál es el primer paso para saber si una palabra lleva tilde?",
+"opciones": [
+"Contar cuántas letras tiene",
+"Buscar la sílaba fuerte",
+"Ver si empieza con mayúscula"
+],
+"correcta": 1,
+"porque": "Primero buscas la sílaba fuerte, luego miras cómo termina."
+}
+],
+"resenas-textos-audiovisuales-primaria": [
+{
+"pregunta": "¿Qué es una reseña?",
+"opciones": [
+"Una lista de los actores de la obra",
+"Un resumen de una obra con tu opinión",
+"Una copia completa de la película"
+],
+"correcta": 1,
+"porque": "La reseña cuenta de qué trata y dice qué opinas."
+},
+{
+"pregunta": "¿Qué palabra ayuda a dar una opinión con razón?",
+"opciones": [
+"*porque*",
+"*entonces*",
+"*ayer*"
+],
+"correcta": 0,
+"porque": "*Porque* une tu opinión con la razón."
+},
+{
+"pregunta": "¿Cuál opinión tiene una razón?",
+"opciones": [
+"Me gustó porque los personajes eran graciosos.",
+"Me gustó mucho.",
+"Estuvo bien y ya, ni modo."
+],
+"correcta": 0,
+"porque": "La razón responde por qué te gustó."
+},
+{
+"pregunta": "¿Qué debes evitar en una reseña?",
+"opciones": [
+"Dar tu opinión sincera",
+"Contar el final",
+"Decir de qué trata"
+],
+"correcta": 1,
+"porque": "Si cuentas el final, arruinas la sorpresa a quien lea."
+},
+{
+"pregunta": "Haces la reseña de tu película favorita. ¿Qué incluyes al final?",
+"opciones": [
+"El nombre de tu mejor amigo",
+"Todas las escenas en orden",
+"Si la recomiendas"
+],
+"correcta": 2,
+"porque": "Una reseña cierra diciendo si recomiendas la obra."
+}
+],
+"resumen-y-parafrasis-primaria": [
+{
+"pregunta": "¿Qué es una paráfrasis?",
+"opciones": [
+"Copiar el texto palabra por palabra",
+"Decir las ideas de un texto con otras palabras",
+"Hacer el texto mucho más largo"
+],
+"correcta": 1,
+"porque": "En una paráfrasis cambias las palabras, pero no la idea."
+},
+{
+"pregunta": "¿Qué pasa con la longitud de un resumen?",
+"opciones": [
+"Es más largo que el original",
+"Es más corto que el original",
+"Es igual de largo que el original"
+],
+"correcta": 1,
+"porque": "Un resumen presenta lo importante en menos palabras."
+},
+{
+"pregunta": "¿Cuál es el primer paso para resumir?",
+"opciones": [
+"Escribir con pocas oraciones",
+"Leer todo el texto",
+"Quitar ejemplos sin haber leído"
+],
+"correcta": 1,
+"porque": "Primero lees todo, luego subrayas lo importante."
+},
+{
+"pregunta": "¿Cuál es una paráfrasis de *El sol da luz y calor*?",
+"opciones": [
+"Gracias al sol tenemos claridad y calidez.",
+"El sol está muy lejos de la Tierra.",
+"El sol da luz y calor."
+],
+"correcta": 0,
+"porque": "Dice la misma idea con otras palabras."
+},
+{
+"pregunta": "Al resumir un párrafo de tu libro, ¿qué quitas?",
+"opciones": [
+"Las ideas principales",
+"Ejemplos y repeticiones",
+"Todas las oraciones del párrafo"
+],
+"correcta": 1,
+"porque": "Lo importante se queda; los ejemplos y repeticiones se quitan."
+}
+],
+"seguimiento-critico-noticias-primaria": [
+{
+"pregunta": "¿Qué haces para revisar una noticia?",
+"opciones": [
+"La comparto sin leerla",
+"Comparo lo que dicen varios medios",
+"Creo la primera que leo"
+],
+"correcta": 1,
+"porque": "Al comparar fuentes encuentras errores y exageraciones."
+},
+{
+"pregunta": "¿Qué es un titular exagerado?",
+"opciones": [
+"Uno que es muy corto y claro",
+"Uno que promete más de lo que dice la nota",
+"Uno que lleva el nombre de un reportero"
+],
+"correcta": 1,
+"porque": "Por eso conviene leer toda la nota."
+},
+{
+"pregunta": "¿Qué pregunta ayuda a revisar una fuente?",
+"opciones": [
+"¿Cuántas personas lo compartieron ya?",
+"¿Quién lo dice y tiene pruebas?",
+"¿Cuántas letras tiene el título?"
+],
+"correcta": 1,
+"porque": "Una fuente confiable dice quién habla y muestra pruebas."
+},
+{
+"pregunta": "Un titular dice «¡La escuela cerrará para siempre!» pero la nota habla de un día de limpieza. ¿Qué pasó?",
+"opciones": [
+"La nota tiene un error de imprenta",
+"La noticia es totalmente cierta",
+"El titular exageró"
+],
+"correcta": 2,
+"porque": "El titular prometió más de lo que dice la nota."
+},
+{
+"pregunta": "¿Cuál es un hecho?",
+"opciones": [
+"El simulacro fue aburrido.",
+"Los simulacros son lo peor del año.",
+"Hoy hubo simulacro en la escuela."
+],
+"correcta": 2,
+"porque": "Un hecho se puede comprobar; las otras son opiniones."
+}
+],
+"sujeto-y-predicado-primaria": [
+{
+"pregunta": "En *Mi gato duerme en el sillón*, ¿cuál es el sujeto?",
+"opciones": [
+"el sillón",
+"Mi gato",
+"duerme en el sillón"
+],
+"correcta": 1,
+"porque": "El sujeto es de quién se habla: mi gato."
+},
+{
+"pregunta": "En *Los alumnos leen un cuento*, ¿cuál es el predicado?",
+"opciones": [
+"leen un cuento",
+"Los alumnos",
+"Los alumnos leen"
+],
+"correcta": 0,
+"porque": "El predicado dice lo que hacen los alumnos y lleva el verbo."
+},
+{
+"pregunta": "¿Qué pregunta te ayuda a hallar el sujeto?",
+"opciones": [
+"¿Cuántas palabras tiene el texto?",
+"¿Dónde está la oración?",
+"¿Quién hace lo que dice el verbo?"
+],
+"correcta": 2,
+"porque": "Preguntas quién al verbo y la respuesta es el sujeto."
+},
+{
+"pregunta": "En *Comimos pizza*, ¿cuál es el sujeto oculto?",
+"opciones": [
+"ellos",
+"nosotros",
+"pizza"
+],
+"correcta": 1,
+"porque": "El verbo *comimos* indica que el sujeto es *nosotros*."
+},
+{
+"pregunta": "¿Qué palabra lleva siempre el predicado?",
+"opciones": [
+"El nombre propio",
+"El verbo",
+"La preposición"
+],
+"correcta": 1,
+"porque": "El predicado lleva el verbo, que dice la acción."
+}
+],
+"textos-argumentativos-primaria": [
+{
+"pregunta": "¿Para qué sirve un texto argumentativo?",
+"opciones": [
+"Para contar un cuento largo",
+"Para copiar datos de un libro",
+"Para convencer con razones"
+],
+"correcta": 2,
+"porque": "El texto argumentativo defiende una opinión con razones."
+},
+{
+"pregunta": "¿Qué es la tesis?",
+"opciones": [
+"La última palabra del escrito",
+"El título que lleva el texto",
+"La opinión principal que se defiende"
+],
+"correcta": 2,
+"porque": "La tesis es la idea que quieres que otros acepten."
+},
+{
+"pregunta": "¿Cuál oración tiene una razón?",
+"opciones": [
+"Ahorrar agua es algo que ya nadie quiere hacer hoy.",
+"Debemos ahorrar agua.",
+"Debemos ahorrar agua porque se acaba."
+],
+"correcta": 2,
+"porque": "Una razón responde por qué piensas eso, y usa *porque*."
+},
+{
+"pregunta": "¿Cuál es una opinión?",
+"opciones": [
+"El libro tiene cien páginas.",
+"Leer es lo más divertido que existe.",
+"Hoy hay clase de español."
+],
+"correcta": 1,
+"porque": "Una opinión dice lo que alguien piensa, no se puede comprobar."
+},
+{
+"pregunta": "Quieres convencer a tus compañeros de leer más. ¿Qué escribes?",
+"opciones": [
+"Mi opinión y dos razones",
+"Un cuento sin mi opinión",
+"Solo la lista de tus libros"
+],
+"correcta": 0,
+"porque": "Convencer lleva tesis y razones que la apoyen."
+}
+],
+"textos-discontinuos-organizar-informacion-primaria": [
+{
+"pregunta": "¿Qué es un texto discontinuo?",
+"opciones": [
+"Un cuento dividido en capítulos largos",
+"Información en tablas, listas o gráficas",
+"Un párrafo que se corta a la mitad"
+],
+"correcta": 1,
+"porque": "Los textos discontinuos no van en párrafos corridos."
+},
+{
+"pregunta": "En una gráfica de barras, ¿qué barra es la mayor?",
+"opciones": [
+"La que está más a la izquierda",
+"La más alta",
+"La más angosta"
+],
+"correcta": 1,
+"porque": "La barra más alta muestra la cantidad más grande."
+},
+{
+"pregunta": "Una tabla dice: Pan 4, Leche 2, Huevo 6. ¿Cuántas cosas hay en total?",
+"opciones": [
+"14",
+"12",
+"10"
+],
+"correcta": 1,
+"porque": "Sumas $4 + 2 + 6 = 12$."
+},
+{
+"pregunta": "¿Qué mira primero al leer una tabla?",
+"opciones": [
+"El color de la hoja",
+"El último dato",
+"El título"
+],
+"correcta": 2,
+"porque": "El título te dice de qué trata la tabla."
+},
+{
+"pregunta": "Haces una tabla con tu horario. ¿Qué lleva?",
+"opciones": [
+"Un dibujo sin palabras",
+"Solo un párrafo largo",
+"Filas, columnas y título"
+],
+"correcta": 2,
+"porque": "Una tabla tiene filas y columnas, y un título."
+}
+]
+}

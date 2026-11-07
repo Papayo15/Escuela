@@ -1,0 +1,522 @@
+{
+"logica-matematica-preparatoria": [
+{
+"pregunta": "Si p es F y q es F, ¿qué valor tiene $p \\lor q$?",
+"opciones": [
+"Es F, pues ninguna es cierta",
+"Es V, pues son iguales",
+"Es V, pues una basta"
+],
+"correcta": 0,
+"porque": "La O solo es falsa cuando las dos frases son falsas."
+},
+{
+"pregunta": "¿\"5 es un número par\" es una proposición?",
+"opciones": [
+"No, porque tiene un número",
+"No, porque es falsa",
+"Sí, porque se puede decir si es cierta"
+],
+"correcta": 2,
+"porque": "Una proposición puede ser falsa; lo importante es que sea cierta o falsa."
+},
+{
+"pregunta": "Si p es V, ¿qué valor tiene $\\neg p$?",
+"opciones": [
+"Es V, porque se niega dos veces",
+"Es F, lo contrario",
+"Es V, igual que p"
+],
+"correcta": 1,
+"porque": "La negación cambia cierto por falso."
+},
+{
+"pregunta": "Si p es V y q es F, ¿qué valor tiene $p \\to q$?",
+"opciones": [
+"Es V, porque p es cierta",
+"Es F, porque va de V a F",
+"Es V, porque q es falsa"
+],
+"correcta": 1,
+"porque": "Si... entonces solo es falsa cuando la primera es V y la segunda F."
+},
+{
+"pregunta": "¿Cuál de estas frases es una proposición?",
+"opciones": [
+"Mi salón tiene una puerta",
+"¡Abre la puerta, por favor!",
+"¿Cuántos alumnos hay?"
+],
+"correcta": 0,
+"porque": "Solo la primera puede ser cierta o falsa."
+}
+],
+"medicion-y-unidades-preparatoria": [
+{
+"pregunta": "Convierte 320 cm a metros.",
+"opciones": [
+"3.2 m",
+"32 m",
+"320 000 m"
+],
+"correcta": 0,
+"porque": "De centímetros a metros se divide entre 100."
+},
+{
+"pregunta": "Convierte 3.5 kg a gramos.",
+"opciones": [
+"35 g",
+"3500 g",
+"350 g"
+],
+"correcta": 1,
+"porque": "De grande a chica se multiplica por 1000."
+},
+{
+"pregunta": "Convierte 1 h 45 min a minutos.",
+"opciones": [
+"105 min",
+"145 min",
+"100 min"
+],
+"correcta": 0,
+"porque": "Una hora son 60 min, y $60 + 45 = 105$."
+},
+{
+"pregunta": "Una cuerda mide 2.5 m. ¿Cuántos centímetros son?",
+"opciones": [
+"250 cm",
+"2500 cm",
+"25 cm"
+],
+"correcta": 0,
+"porque": "De metros a centímetros se multiplica por 100."
+},
+{
+"pregunta": "Pasas de metros a kilómetros. ¿Qué haces?",
+"opciones": [
+"Sumas 1000",
+"Multiplicas por 1000",
+"Divides entre 1000"
+],
+"correcta": 2,
+"porque": "De unidad chica a grande se divide."
+}
+],
+"numeros-naturales-y-enteros-preparatoria": [
+{
+"pregunta": "Calcula $4 - 9$.",
+"opciones": [
+"$-5$",
+"5",
+"$-13$"
+],
+"correcta": 0,
+"porque": "Estás en el piso 4 y bajas 9: llegas al sótano $-5$."
+},
+{
+"pregunta": "Calcula $-3 + 8$.",
+"opciones": [
+"Es 5, piso arriba",
+"Es $-5$, sótano",
+"Es 11, suma todo"
+],
+"correcta": 0,
+"porque": "Estás en $-3$ y subes 8: llegas al piso 5."
+},
+{
+"pregunta": "Calcula $(-5)(3)$.",
+"opciones": [
+"$-15$",
+"15",
+"$-8$"
+],
+"correcta": 0,
+"porque": "Signos distintos dan negativo."
+},
+{
+"pregunta": "Calcula $-20 \\div (-4)$.",
+"opciones": [
+"Es $-24$, producto",
+"Es $-5$, negativo",
+"Es 5, positivo"
+],
+"correcta": 2,
+"porque": "Signos iguales dan positivo."
+},
+{
+"pregunta": "Estás en el piso 2 del elevador y bajas 6 pisos. ¿Dónde llegas?",
+"opciones": [
+"Al piso 4",
+"Al piso $-4$",
+"Al piso $-8$"
+],
+"correcta": 1,
+"porque": "Calculas $2 - 6 = -4$, un sótano."
+}
+],
+"operaciones-con-radicales-prepa": [
+{
+"pregunta": "Simplifica $\\sqrt{50} + \\sqrt{8}$.",
+"opciones": [
+"$\\sqrt{58}$",
+"$5\\sqrt{10}$",
+"$7\\sqrt{2}$"
+],
+"correcta": 2,
+"porque": "$5\\sqrt{2} + 2\\sqrt{2} = 7\\sqrt{2}$."
+},
+{
+"pregunta": "Simplifica $9\\sqrt{3} - 4\\sqrt{3}$.",
+"opciones": [
+"$5\\sqrt{3}$",
+"$13\\sqrt{3}$",
+"$5$"
+],
+"correcta": 0,
+"porque": "Son radicales iguales, así que se restan 9 y 4."
+},
+{
+"pregunta": "Calcula $\\sqrt{5} \\times \\sqrt{20}$.",
+"opciones": [
+"10",
+"25",
+"$\\sqrt{25}$"
+],
+"correcta": 0,
+"porque": "Se multiplica adentro: $\\sqrt{100} = 10$."
+},
+{
+"pregunta": "Simplifica $\\sqrt{98} - \\sqrt{50}$.",
+"opciones": [
+"$\\sqrt{48}$",
+"$48\\sqrt{2}$",
+"$2\\sqrt{2}$"
+],
+"correcta": 2,
+"porque": "$7\\sqrt{2} - 5\\sqrt{2} = 2\\sqrt{2}$."
+},
+{
+"pregunta": "¿Cuánto vale $\\sqrt{36 + 64}$?",
+"opciones": [
+"14",
+"100",
+"10"
+],
+"correcta": 2,
+"porque": "Primero suma adentro: $\\sqrt{100} = 10$, no $6 + 8$."
+}
+],
+"permutaciones-prepa": [
+{
+"pregunta": "¿Cuántas formas hay de dar 3 premios distintos entre 7 niños?",
+"opciones": [
+"21",
+"210",
+"343"
+],
+"correcta": 1,
+"porque": "Es $7 \\times 6 \\times 5 = 210$, porque el orden importa."
+},
+{
+"pregunta": "Calcula $P(5, 2)$.",
+"opciones": [
+"25",
+"10",
+"20"
+],
+"correcta": 2,
+"porque": "Se multiplica hacia abajo: $5 \\times 4 = 20$."
+},
+{
+"pregunta": "¿Cuántos ordenamientos tiene la palabra OSO?",
+"opciones": [
+"3",
+"9",
+"6"
+],
+"correcta": 0,
+"porque": "Es $\\frac{3!}{2!} = 3$, porque la O se repite."
+},
+{
+"pregunta": "¿Cuántas claves de 2 dígitos distintos hay con los números 1 a 6?",
+"opciones": [
+"30",
+"12",
+"36"
+],
+"correcta": 0,
+"porque": "Es $6 \\times 5 = 30$, porque no se repiten."
+},
+{
+"pregunta": "4 corredores llegan a la meta. ¿Cuántas formas hay del primer y segundo lugar?",
+"opciones": [
+"16",
+"12",
+"6"
+],
+"correcta": 1,
+"porque": "Es $4 \\times 3 = 12$, y el orden importa."
+}
+],
+"potencias-y-radicales-preparatoria": [
+{
+"pregunta": "Calcula $5^2 \\cdot 5^3$.",
+"opciones": [
+"$5^5$",
+"$25^5$",
+"$5^6$"
+],
+"correcta": 0,
+"porque": "Misma base: se suman los exponentes, $2 + 3 = 5$."
+},
+{
+"pregunta": "Calcula $\\frac{7^6}{7^2}$.",
+"opciones": [
+"$1^4$",
+"$7^3$",
+"$7^4$"
+],
+"correcta": 2,
+"porque": "Al dividir misma base se restan los exponentes."
+},
+{
+"pregunta": "Calcula $\\sqrt{169}$.",
+"opciones": [
+"84",
+"13",
+"14"
+],
+"correcta": 1,
+"porque": "Como $13 \\cdot 13 = 169$, la raíz es 13."
+},
+{
+"pregunta": "Calcula $(2^3)^2$.",
+"opciones": [
+"25",
+"32",
+"64"
+],
+"correcta": 2,
+"porque": "Potencia de potencia: se multiplican, $2^6 = 64$."
+},
+{
+"pregunta": "Calcula $-3^2$.",
+"opciones": [
+"$-9$",
+"9",
+"$-6$"
+],
+"correcta": 0,
+"porque": "El cuadrado solo afecta al 3, y el menos queda afuera."
+}
+],
+"principios-de-conteo-preparatoria": [
+{
+"pregunta": "Hay 6 camisas y 4 pantalones. ¿Cuántos atuendos hay?",
+"opciones": [
+"24",
+"20",
+"10"
+],
+"correcta": 0,
+"porque": "Se multiplica: $6 \\cdot 4 = 24$."
+},
+{
+"pregunta": "Hay 3 jugos o 5 aguas, y eliges solo una cosa. ¿Cuántas opciones hay?",
+"opciones": [
+"2",
+"8",
+"15"
+],
+"correcta": 1,
+"porque": "Con O se suma: $3 + 5 = 8$."
+},
+{
+"pregunta": "¿De cuántas formas se forman 5 personas en una fila?",
+"opciones": [
+"60",
+"25",
+"120"
+],
+"correcta": 2,
+"porque": "Se calcula $5! = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 120$."
+},
+{
+"pregunta": "Con 5 letras, ¿cuántos códigos de 2 letras distintas hay?",
+"opciones": [
+"20",
+"25",
+"10"
+],
+"correcta": 0,
+"porque": "El primer lugar tiene 5 y el segundo 4: $5 \\cdot 4 = 20$."
+},
+{
+"pregunta": "Eliges una fruta O una verdura, solo una. ¿Qué haces con las opciones?",
+"opciones": [
+"Las sumas",
+"Las restas",
+"Las multiplicas"
+],
+"correcta": 0,
+"porque": "Cuando eliges una sola cosa se aplica el principio aditivo."
+}
+],
+"racionalizar-denominadores-prepa": [
+{
+"pregunta": "Racionaliza $\\frac{5}{\\sqrt{7}}$.",
+"opciones": [
+"$\\frac{5\\sqrt{7}}{49}$",
+"$\\frac{5}{7}$",
+"$\\frac{5\\sqrt{7}}{7}$"
+],
+"correcta": 2,
+"porque": "Multiplicas arriba y abajo por $\\sqrt{7}$, y $\\sqrt{7} \\cdot \\sqrt{7} = 7$."
+},
+{
+"pregunta": "Racionaliza $\\frac{8}{\\sqrt{2}}$.",
+"opciones": [
+"$8\\sqrt{2}$",
+"$\\frac{4}{2}$",
+"$4\\sqrt{2}$"
+],
+"correcta": 2,
+"porque": "Sale $\\frac{8\\sqrt{2}}{2}$, y al simplificar queda $4\\sqrt{2}$."
+},
+{
+"pregunta": "¿Cuál es el conjugado de $4 + \\sqrt{5}$?",
+"opciones": [
+"$4 - \\sqrt{5}$",
+"$-4 + \\sqrt{5}$",
+"$-4 - \\sqrt{5}$"
+],
+"correcta": 0,
+"porque": "El conjugado es el mismo número con el signo cambiado."
+},
+{
+"pregunta": "Racionaliza $\\frac{1}{\\sqrt{3} + 1}$.",
+"opciones": [
+"$\\sqrt{3} - 1$",
+"$\\frac{\\sqrt{3} + 1}{2}$",
+"$\\frac{\\sqrt{3} - 1}{2}$"
+],
+"correcta": 2,
+"porque": "Abajo queda $3 - 1 = 2$ al multiplicar por el conjugado."
+},
+{
+"pregunta": "Racionaliza $\\frac{1}{\\sqrt{5}}$.",
+"opciones": [
+"$\\frac{1}{5}$",
+"$\\frac{\\sqrt{5}}{5}$",
+"$\\frac{\\sqrt{5}}{25}$"
+],
+"correcta": 1,
+"porque": "Multiplicas arriba y abajo por $\\sqrt{5}$."
+}
+],
+"simplificar-radicales-prepa": [
+{
+"pregunta": "Simplifica $\\sqrt{45}$.",
+"opciones": [
+"$5\\sqrt{3}$",
+"$9\\sqrt{5}$",
+"$3\\sqrt{5}$"
+],
+"correcta": 2,
+"porque": "Como $45 = 9 \\times 5$, sale el 3."
+},
+{
+"pregunta": "Simplifica $\\sqrt{98}$.",
+"opciones": [
+"$49\\sqrt{2}$",
+"$7\\sqrt{2}$",
+"$2\\sqrt{7}$"
+],
+"correcta": 1,
+"porque": "Como $98 = 49 \\times 2$, sale el 7."
+},
+{
+"pregunta": "Simplifica $\\sqrt{50x^2}$.",
+"opciones": [
+"$5\\sqrt{2x}$",
+"$5x\\sqrt{2}$",
+"$25x\\sqrt{2}$"
+],
+"correcta": 1,
+"porque": "Salen 5 por el 25 y $x$ por $x^2$."
+},
+{
+"pregunta": "Simplifica $\\sqrt[3]{24}$.",
+"opciones": [
+"$2\\sqrt[3]{3}$",
+"$8\\sqrt[3]{3}$",
+"$3\\sqrt[3]{2}$"
+],
+"correcta": 0,
+"porque": "Como $24 = 8 \\times 3$, sale el 2."
+},
+{
+"pregunta": "Simplifica $\\sqrt{28}$.",
+"opciones": [
+"$2\\sqrt{7}$",
+"$4\\sqrt{7}$",
+"$7\\sqrt{2}$"
+],
+"correcta": 0,
+"porque": "Como $28 = 4 \\times 7$, sale el 2."
+}
+],
+"area-bajo-la-curva-prepa": [
+{
+"pregunta": "Área bajo $y = 3x^2$ de 0 a 2.",
+"opciones": [
+"Es 4",
+"Es 8",
+"Es 12"
+],
+"correcta": 1,
+"porque": "Sube a $x^3$: con 2 da 8 y con 0 da 0."
+},
+{
+"pregunta": "Área bajo $y = 6$ de 2 a 5.",
+"opciones": [
+"Es 30",
+"Es 12",
+"Es 18"
+],
+"correcta": 2,
+"porque": "Es un rectángulo de base 3 y altura 6."
+},
+{
+"pregunta": "Área bajo $y = x$ de 0 a 4.",
+"opciones": [
+"Es 8",
+"Es 16",
+"Es 4"
+],
+"correcta": 0,
+"porque": "Sube a $\\frac{x^2}{2}$: con 4 da 8."
+},
+{
+"pregunta": "Área entre $y = x$ y $y = x^2$ con $x$ de 0 a 1.",
+"opciones": [
+"Es $\\frac{1}{6}$",
+"Es $\\frac{1}{2}$",
+"Es $\\frac{1}{3}$"
+],
+"correcta": 0,
+"porque": "Es $\\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$."
+},
+{
+"pregunta": "Entre dos curvas, ¿qué haces antes de integrar?",
+"opciones": [
+"Sumas las dos curvas",
+"Multiplicas las curvas",
+"Restas arriba menos abajo"
+],
+"correcta": 2,
+"porque": "El área es la curva de arriba menos la de abajo."
+}
+]
+}

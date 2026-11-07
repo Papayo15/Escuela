@@ -1,0 +1,522 @@
+{
+"la-neurona-secundaria": [
+{
+"pregunta": "¿Qué parte de la neurona lleva la señal hacia otra neurona?",
+"opciones": [
+"Las dendritas, que reciben",
+"El núcleo, que guarda el ADN",
+"El axón, que lleva el impulso"
+],
+"correcta": 2,
+"porque": "El axón lleva la señal hacia otra neurona."
+},
+{
+"pregunta": "¿Para qué sirve la mielina?",
+"opciones": [
+"Para que el impulso vaya más rápido",
+"Para guardar el núcleo dentro del cuerpo celular",
+"Para producir neurotransmisores en las dendritas"
+],
+"correcta": 0,
+"porque": "La mielina cubre el axón y acelera el impulso."
+},
+{
+"pregunta": "Quieres levantar tu lápiz. ¿Qué neuronas llevan la orden al músculo?",
+"opciones": [
+"Las de asociación, que conectan",
+"Las sensoriales, que traen datos",
+"Las motoras, que envían la orden"
+],
+"correcta": 2,
+"porque": "Las neuronas motoras llevan la orden a los músculos."
+},
+{
+"pregunta": "¿Cómo se pasa el mensaje de una neurona a la siguiente?",
+"opciones": [
+"Con neurotransmisores",
+"Con la sangre, que lo lleva hasta el cerebro",
+"Con el aire que respiramos"
+],
+"correcta": 0,
+"porque": "En la sinapsis, una neurona libera neurotransmisores que estimulan a la otra."
+},
+{
+"pregunta": "¿Qué pasa si se toman alcohol u otras drogas?",
+"opciones": [
+"Las neuronas se vuelven más rápidas y fuertes",
+"Se altera la comunicación entre neuronas",
+"Las neuronas se convierten en células musculares"
+],
+"correcta": 1,
+"porque": "El alcohol y otras drogas alteran cómo se comunican las neuronas."
+}
+],
+"los-sentidos-secundaria": [
+{
+"pregunta": "¿Qué sentido capta la luz?",
+"opciones": [
+"El tacto",
+"La vista",
+"El olfato"
+],
+"correcta": 1,
+"porque": "La vista capta la luz con los ojos."
+},
+{
+"pregunta": "¿Qué células del ojo te ayudan a ver de noche con poca luz?",
+"opciones": [
+"Las papilas",
+"Los conos",
+"Los bastones"
+],
+"correcta": 2,
+"porque": "Los bastones ven con poca luz."
+},
+{
+"pregunta": "Entras a un cuarto oscuro y casi no distingues colores. ¿Qué pasa?",
+"opciones": [
+"Tu oído se encargó de ver los colores",
+"Los conos necesitan más luz",
+"Tus bastones dejaron de funcionar por completo"
+],
+"correcta": 1,
+"porque": "Los conos ven colores, pero necesitan buena luz para funcionar."
+},
+{
+"pregunta": "¿Qué capta la piel?",
+"opciones": [
+"Solo los sabores de lo que comes",
+"Presión y temperatura",
+"Los sonidos que hay en el salón"
+],
+"correcta": 1,
+"porque": "La piel es el órgano del tacto y capta presión y temperatura."
+},
+{
+"pregunta": "¿Cómo cuidas tu oído?",
+"opciones": [
+"Metiendo palitos en las orejas todos los días",
+"Poniendo música muy fuerte para acostumbrarte",
+"No subiendo mucho el volumen"
+],
+"correcta": 2,
+"porque": "Un volumen alto daña el oído, así que conviene bajarlo."
+}
+],
+"microscopio-unidad-diversidad-seres-vivos-secundaria": [
+{
+"pregunta": "Un microscopio tiene ocular de 10x y objetivo de 5x. ¿Cuántos aumentos da?",
+"opciones": [
+"15 aumentos, porque se suman",
+"10 aumentos, el del ocular",
+"50 aumentos, porque se multiplican"
+],
+"correcta": 2,
+"porque": "El aumento es el ocular por el objetivo: 10 por 5 son 50."
+},
+{
+"pregunta": "¿Qué dice la teoría celular?",
+"opciones": [
+"Todo ser vivo está hecho de células",
+"Que las células nacen de la tierra mojada",
+"Que solo los animales están hechos de células"
+],
+"correcta": 0,
+"porque": "Todos los seres vivos tienen células, y toda célula viene de otra célula."
+},
+{
+"pregunta": "¿Qué vio Robert Hooke en un corcho?",
+"opciones": [
+"Virus de color verde claro",
+"Bacterias que se movían mucho",
+"Células, parecidas a cuartitos"
+],
+"correcta": 2,
+"porque": "Hooke vio las primeras células en un corcho con su microscopio."
+},
+{
+"pregunta": "¿Qué ser vivo tiene una sola célula?",
+"opciones": [
+"Un perro, porque es pequeño",
+"Una bacteria, que es de una célula",
+"Un pino, porque es sencillo"
+],
+"correcta": 1,
+"porque": "Las bacterias son seres vivos de una sola célula."
+},
+{
+"pregunta": "¿Qué quiere decir unidad de los seres vivos?",
+"opciones": [
+"Todos son del mismo tamaño",
+"Todos tenemos células",
+"Todos tienen una sola célula"
+],
+"correcta": 1,
+"porque": "La unidad significa que todos los seres vivos tenemos células."
+}
+],
+"nervioso-endocrino-coordinacion-secundaria": [
+{
+"pregunta": "¿Qué sistema usa señales eléctricas y responde en un instante?",
+"opciones": [
+"El digestivo, con alimentos",
+"El endocrino, con hormonas",
+"El nervioso, con señales eléctricas"
+],
+"correcta": 2,
+"porque": "El sistema nervioso manda señales eléctricas muy rápidas."
+},
+{
+"pregunta": "¿Cómo viajan las hormonas?",
+"opciones": [
+"Por el aire de los pulmones",
+"Por los nervios del cuerpo",
+"Por la sangre del cuerpo"
+],
+"correcta": 2,
+"porque": "Las hormonas del sistema endocrino viajan por la sangre."
+},
+{
+"pregunta": "En clase te dan un balonazo y apartas la cara rápido. ¿Qué sistema actuó?",
+"opciones": [
+"El nervioso, porque responde rápido",
+"El endocrino, porque usa hormonas",
+"Ninguno, porque fue el aire"
+],
+"correcta": 0,
+"porque": "Apartar la cara rápido lo hace el sistema nervioso."
+},
+{
+"pregunta": "¿Qué sistema te hace crecer poco a poco?",
+"opciones": [
+"El respiratorio, por el oxígeno",
+"El endocrino, con sus hormonas",
+"El nervioso, por sus señales"
+],
+"correcta": 1,
+"porque": "El endocrino tarda, pero dura, y te hace crecer."
+},
+{
+"pregunta": "¿Qué es la homeostasis?",
+"opciones": [
+"Mantener estable lo de adentro del cuerpo",
+"Crecer más rápido que los demás compañeros",
+"Cambiar la temperatura del cuerpo todo el día"
+],
+"correcta": 0,
+"porque": "Es mantener estables cosas como la temperatura y el azúcar del cuerpo."
+}
+],
+"niveles-de-organizacion-de-los-seres-vivos-secundaria": [
+{
+"pregunta": "¿Qué nivel viene después de órgano?",
+"opciones": [
+"Organismo, el que sigue al sistema",
+"Sistema, el que sigue al órgano",
+"Tejido, el más pequeño de todos"
+],
+"correcta": 1,
+"porque": "El orden es célula, tejido, órgano, sistema y organismo."
+},
+{
+"pregunta": "¿Qué nivel es la neurona?",
+"opciones": [
+"Órgano, porque manda mensajes",
+"Célula, la unidad de la vida",
+"Tejido, porque forma el cerebro"
+],
+"correcta": 1,
+"porque": "La neurona es una célula del sistema nervioso."
+},
+{
+"pregunta": "Todos los seres vivos de la Tierra juntos forman...",
+"opciones": [
+"Una población de una especie",
+"Un ecosistema de un lugar",
+"La biosfera, toda la vida"
+],
+"correcta": 2,
+"porque": "La biosfera es el conjunto de todos los seres vivos del planeta."
+},
+{
+"pregunta": "Los alumnos de tu escuela son personas de la misma especie en un lugar. ¿Qué nivel es?",
+"opciones": [
+"Población, misma especie y lugar",
+"Ecosistema, porque comparten ambiente",
+"Comunidad, porque viven en el lugar"
+],
+"correcta": 0,
+"porque": "Una población son individuos de una especie en un lugar."
+},
+{
+"pregunta": "¿Qué nivel es el sistema circulatorio?",
+"opciones": [
+"Tejido, porque contiene sangre",
+"Sistema, formado por varios órganos",
+"Órgano, porque tiene al corazón"
+],
+"correcta": 1,
+"porque": "El sistema circulatorio es un sistema, hecho de varios órganos."
+}
+],
+"nutricion-autotrofa-y-heterotrofa-secundaria": [
+{
+"pregunta": "¿Qué ser vivo es autótrofo?",
+"opciones": [
+"Un hongo, porque crece en la tierra",
+"Una planta, que fabrica su comida",
+"Un perro, porque hace comida en casa"
+],
+"correcta": 1,
+"porque": "Las plantas fabrican su alimento con la fotosíntesis."
+},
+{
+"pregunta": "¿Qué necesitan las plantas para hacer fotosíntesis, además de luz?",
+"opciones": [
+"Oxígeno y azúcar de otras plantas",
+"Dióxido de carbono y agua",
+"Solo tierra y nutrientes del suelo"
+],
+"correcta": 1,
+"porque": "Con luz, usan dióxido de carbono y agua para hacer azúcar."
+},
+{
+"pregunta": "¿Qué producen las plantas en la fotosíntesis?",
+"opciones": [
+"Dióxido de carbono y agua",
+"Azúcar y oxígeno, usando luz",
+"Solo agua que sale por hojas"
+],
+"correcta": 1,
+"porque": "Con luz, la planta convierte dióxido de carbono y agua en azúcar y oxígeno."
+},
+{
+"pregunta": "Una vaca come pasto. ¿Qué tipo de heterótrofo es?",
+"opciones": [
+"Descomponedor, porque come del suelo",
+"Herbívoro, porque come solo plantas",
+"Carnívoro, porque es animal grande"
+],
+"correcta": 1,
+"porque": "Los herbívoros comen plantas, como la vaca con el pasto."
+},
+{
+"pregunta": "¿Qué hacen los hongos y las bacterias descomponedores?",
+"opciones": [
+"Devuelven nutrientes al suelo",
+"Cazan animales pequeños para alimentarse",
+"Hacen su propio alimento con luz del sol"
+],
+"correcta": 0,
+"porque": "Deshacen restos y devuelven nutrientes al suelo."
+}
+],
+"partes-de-la-celula-secundaria": [
+{
+"pregunta": "¿Qué organelo guarda el ADN?",
+"opciones": [
+"Los lisosomas, que digieren",
+"El núcleo, que guarda el ADN",
+"Los ribosomas, que hacen proteínas"
+],
+"correcta": 1,
+"porque": "El núcleo es la parte de la célula que guarda el ADN."
+},
+{
+"pregunta": "¿Qué hacen los lisosomas?",
+"opciones": [
+"Digieren desechos",
+"Guardan el ADN en su interior",
+"Producen energía para toda la célula"
+],
+"correcta": 0,
+"porque": "Los lisosomas digieren desechos de la célula."
+},
+{
+"pregunta": "Una célula necesita mucha energía para moverse. ¿Qué organelos tiene muchos?",
+"opciones": [
+"Vacuolas, que almacenan cosas",
+"Mitocondrias, que dan energía",
+"Aparato de Golgi, que envía"
+],
+"correcta": 1,
+"porque": "Las mitocondrias producen energía para la célula."
+},
+{
+"pregunta": "¿Qué parte controla lo que entra y sale de la célula?",
+"opciones": [
+"El citoplasma, que es un gel",
+"El núcleo, porque es el que manda",
+"La membrana, que controla el paso"
+],
+"correcta": 2,
+"porque": "La membrana controla lo que entra y sale de la célula."
+},
+{
+"pregunta": "¿Qué hace el aparato de Golgi?",
+"opciones": [
+"Fabrica proteínas con ribosomas",
+"Guarda agua dentro de la célula",
+"Empaca y envía lo que fabrica"
+],
+"correcta": 2,
+"porque": "El aparato de Golgi empaca y envía lo que fabrica la célula."
+}
+],
+"procesos-vitales-seres-vivos-secundaria": [
+{
+"pregunta": "¿Cuáles son los tres procesos vitales?",
+"opciones": [
+"Respirar, crecer y ver la televisión",
+"Nutrición, relación y reproducción",
+"Solo comer, dormir y correr por la escuela"
+],
+"correcta": 1,
+"porque": "Todo ser vivo se nutre, se relaciona con su medio y se reproduce."
+},
+{
+"pregunta": "Una bacteria se parte en dos. ¿Qué reproducción es?",
+"opciones": [
+"Sexual, porque hay dos células nuevas",
+"Ninguna, porque no se reproducen",
+"Asexual, porque hay un solo progenitor"
+],
+"correcta": 2,
+"porque": "Si solo participa un progenitor, la reproducción es asexual."
+},
+{
+"pregunta": "Un perro mueve la cola cuando llega su dueño. ¿Qué proceso vital es?",
+"opciones": [
+"Relación con el medio",
+"Nutrición, porque tiene hambre y quiere comer",
+"Reproducción, porque está contento"
+],
+"correcta": 0,
+"porque": "Relación es notar lo que pasa y responder."
+},
+{
+"pregunta": "Una planta gira hacia la luz. ¿Qué proceso vital muestra?",
+"opciones": [
+"Relación con el medio",
+"Reproducción asexual",
+"Descendencia de la planta"
+],
+"correcta": 0,
+"porque": "Notar la luz y responder es relacionarse con el medio."
+},
+{
+"pregunta": "¿Por qué hermanos hijos de los mismos padres son distintos?",
+"opciones": [
+"Porque cada uno come cosas diferentes",
+"Porque nacieron en un día distinto",
+"Se mezclan los genes de dos padres"
+],
+"correcta": 2,
+"porque": "La reproducción sexual mezcla los genes de dos padres."
+}
+],
+"reflejos-secundaria": [
+{
+"pregunta": "¿Qué es un reflejo?",
+"opciones": [
+"Una decisión que piensas con mucho cuidado",
+"Una orden del cerebro que tarda mucho en llegar",
+"Una respuesta rápida e involuntaria"
+],
+"correcta": 2,
+"porque": "Un reflejo es una respuesta rápida, sin pensar, a un estímulo."
+},
+{
+"pregunta": "¿Qué parte procesa la orden en un reflejo y da la respuesta?",
+"opciones": [
+"La médula espinal, que da la orden",
+"El cerebro, que piensa antes de mover",
+"El estómago, que recibe el aviso"
+],
+"correcta": 0,
+"porque": "En un reflejo la médula espinal procesa y da la orden."
+},
+{
+"pregunta": "Se te acerca un balón al ojo y parpadeas. ¿Qué es?",
+"opciones": [
+"Un reflejo, rápido e involuntario",
+"Un movimiento voluntario del brazo",
+"Una decisión que tomaste con calma"
+],
+"correcta": 0,
+"porque": "Parpadear es una respuesta rápida e involuntaria: un reflejo."
+},
+{
+"pregunta": "¿Qué hace la neurona motora en el arco reflejo?",
+"opciones": [
+"Detecta el calor en la piel",
+"Lleva la orden al músculo",
+"Lleva la señal del estímulo hacia la médula"
+],
+"correcta": 1,
+"porque": "La neurona motora lleva la orden y el efector responde."
+},
+{
+"pregunta": "Con mucha luz, tu pupila se hace más chica. ¿Qué tipo de respuesta es?",
+"opciones": [
+"Un reflejo, sin que lo decidas",
+"Un movimiento aprendido en clase",
+"Una decisión que tomas con calma"
+],
+"correcta": 0,
+"porque": "La pupila responde sola a la luz, así que es un reflejo."
+}
+],
+"reproduccion-sexual-y-asexual-secundaria": [
+{
+"pregunta": "¿Qué tipo de reproducción da hijos casi idénticos?",
+"opciones": [
+"La sexual, con dos progenitores",
+"La asexual, con un solo progenitor",
+"Ninguna, todos son distintos"
+],
+"correcta": 1,
+"porque": "Con un solo progenitor, los hijos son casi idénticos."
+},
+{
+"pregunta": "¿Qué se unen en la fecundación?",
+"opciones": [
+"Dos órganos de seres distintos",
+"Dos cigotos ya formados antes",
+"Dos gametos, células sexuales"
+],
+"correcta": 2,
+"porque": "En la fecundación se unen dos gametos."
+},
+{
+"pregunta": "Pones una rama de una planta en agua y echa raíz. ¿Qué reproducción es?",
+"opciones": [
+"Asexual, porque sale de una sola planta",
+"Sexual, porque nace una planta nueva",
+"Fecundación, porque la rama toca el agua"
+],
+"correcta": 0,
+"porque": "Es reproducción vegetativa, que es asexual y usa un solo progenitor."
+},
+{
+"pregunta": "¿Qué ventaja tiene la reproducción sexual?",
+"opciones": [
+"Que los hijos son copias exactas de los padres",
+"Que es muy rápida y no necesita pareja",
+"Más variabilidad genética"
+],
+"correcta": 2,
+"porque": "La variabilidad ayuda a la población a sobrevivir si cambia el ambiente."
+},
+{
+"pregunta": "¿Cómo se reproduce una estrella de mar que regenera un brazo?",
+"opciones": [
+"De forma sexual, con dos progenitores",
+"De forma asexual",
+"Por fecundación de dos gametos"
+],
+"correcta": 1,
+"porque": "La regeneración es una forma de reproducción asexual."
+}
+]
+}

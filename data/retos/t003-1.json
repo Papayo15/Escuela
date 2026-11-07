@@ -1,0 +1,522 @@
+{
+"area-del-circulo-primaria": [
+{
+"pregunta": "Un círculo tiene radio de 4 cm. Usa 3.14. ¿Cuál es su área?",
+"opciones": [
+"25.12 cm², por multiplicar el radio por 2",
+"50.24 cm²",
+"12.56 cm²"
+],
+"correcta": 1,
+"porque": "3.14 por 16 son 50.24: se multiplica el radio por sí mismo, no por 2."
+},
+{
+"pregunta": "Una tapa tiene 6 cm de diámetro. ¿Cuál es su área?",
+"opciones": [
+"113.04 cm², por usar 6 como radio",
+"18.84 cm²",
+"28.26 cm²"
+],
+"correcta": 2,
+"porque": "El radio es 3 cm: 3 por 3 es 9, y 3.14 por 9 es 28.26."
+},
+{
+"pregunta": "En la fórmula del área, ¿qué significa $r^2$?",
+"opciones": [
+"r por r",
+"r por 2",
+"r más r"
+],
+"correcta": 0,
+"porque": "El 2 pequeño dice que el radio se multiplica por sí mismo."
+},
+{
+"pregunta": "Un círculo de papel tiene radio de 1 m. Usa 3.14. ¿Cuánto mide su área?",
+"opciones": [
+"1 m²",
+"3.14 m²",
+"6.28 m², por multiplicar por 2 el radio"
+],
+"correcta": 1,
+"porque": "1 por 1 es 1, y 3.14 por 1 es 3.14."
+},
+{
+"pregunta": "En el patio hay un círculo de 20 m de diámetro. ¿Qué haces primero para sacar su área?",
+"opciones": [
+"Multiplicar 3.14 por 20 directamente",
+"Elevar 20 al cuadrado y dividir entre dos",
+"Sacar la mitad: radio de 10 m"
+],
+"correcta": 2,
+"porque": "La fórmula usa el radio, que es la mitad del diámetro."
+}
+],
+"area-del-rombo-primaria": [
+{
+"pregunta": "Un rombo tiene diagonales de 9 cm y 4 cm. ¿Cuál es su área?",
+"opciones": [
+"36 cm², porque olvidas dividir entre 2",
+"13 cm²",
+"18 cm²"
+],
+"correcta": 2,
+"porque": "9 por 4 son 36, y entre 2 son 18."
+},
+{
+"pregunta": "Un rombo tiene diagonales de 14 m y 10 m. ¿Cuál es su área?",
+"opciones": [
+"70 m²",
+"24 m²",
+"140 m², por no dividir entre 2"
+],
+"correcta": 0,
+"porque": "14 por 10 son 140, y la mitad es 70."
+},
+{
+"pregunta": "¿Qué es una diagonal del rombo?",
+"opciones": [
+"La orilla de un lado del rombo",
+"Una línea de esquina a esquina opuesta",
+"Una línea que une la mitad de dos lados cualquiera"
+],
+"correcta": 1,
+"porque": "La diagonal cruza el rombo de una esquina a la esquina de enfrente."
+},
+{
+"pregunta": "Un rombo tiene área de 40 cm² y su diagonal mayor mide 10 cm. ¿Cuánto mide la diagonal menor?",
+"opciones": [
+"8 cm",
+"4 cm, por no multiplicar el área por 2",
+"80 cm"
+],
+"correcta": 0,
+"porque": "Multiplicas 40 por 2 y obtienes 80; luego 80 entre 10 es 8."
+},
+{
+"pregunta": "Un papalote tiene palos cruzados de 30 cm y 20 cm. ¿Cuál es el área de su tela?",
+"opciones": [
+"50 cm²",
+"300 cm²",
+"600 cm², por no dividir entre 2"
+],
+"correcta": 1,
+"porque": "30 por 20 son 600, y la mitad es 300."
+}
+],
+"area-del-romboide-primaria": [
+{
+"pregunta": "Un romboide tiene base de 7 cm y altura de 3 cm. ¿Cuál es su área?",
+"opciones": [
+"21 cm²",
+"10 cm², por sumar base y altura",
+"42 cm²"
+],
+"correcta": 0,
+"porque": "El área es base por altura: 7 por 3 son 21."
+},
+{
+"pregunta": "Un romboide mide 14 m de base y 5 m de altura. ¿Cuál es su área?",
+"opciones": [
+"19 m²",
+"35 m², por dividir entre 2 como si fuera triángulo",
+"70 m²"
+],
+"correcta": 2,
+"porque": "Se multiplica base por altura: 14 por 5 son 70."
+},
+{
+"pregunta": "Un romboide tiene área de 48 cm² y base de 8 cm. ¿Cuánto mide la altura?",
+"opciones": [
+"6 cm",
+"40 cm",
+"384 cm"
+],
+"correcta": 0,
+"porque": "Se divide el área entre la base: 48 ÷ 8 = 6."
+},
+{
+"pregunta": "Un romboide tiene base de 6 cm, altura de 4 cm y lado inclinado de 5 cm. ¿Cuál es su área?",
+"opciones": [
+"24 cm²",
+"15 cm²",
+"30 cm², por usar el lado inclinado"
+],
+"correcta": 0,
+"porque": "El lado inclinado no se usa: 6 por 4 son 24."
+},
+{
+"pregunta": "¿Qué es la altura de un romboide?",
+"opciones": [
+"El lado inclinado del romboide, de esquina a esquina",
+"La línea que une dos esquinas opuestas",
+"Una línea derecha desde la base hasta el lado de enfrente"
+],
+"correcta": 2,
+"porque": "La altura va derecha, formando una esquina cuadrada con la base."
+}
+],
+"area-del-trapecio-primaria": [
+{
+"pregunta": "Un trapecio tiene $B = 10$ cm, $b = 4$ cm y $h = 5$ cm. ¿Cuál es su área?",
+"opciones": [
+"70 cm², por olvidar dividir entre 2",
+"35 cm²",
+"20 cm²"
+],
+"correcta": 1,
+"porque": "Suma 14, por 5 son 70, y la mitad es 35."
+},
+{
+"pregunta": "Un trapecio tiene bases de 7 m y 3 m, y altura de 4 m. ¿Cuál es su área?",
+"opciones": [
+"20 m²",
+"40 m², por no dividir entre 2",
+"12 m²"
+],
+"correcta": 0,
+"porque": "Suma 10, por 4 son 40, y la mitad es 20."
+},
+{
+"pregunta": "Un trapecio tiene $B = 16$, $b = 8$ y $h = 6$ cm. ¿Cuál es su área?",
+"opciones": [
+"48 cm²",
+"144 cm², por no tomar la mitad",
+"72 cm²"
+],
+"correcta": 2,
+"porque": "Suma 24, por 6 son 144, y la mitad es 72."
+},
+{
+"pregunta": "Un trapecio tiene área de 30 cm², $B = 8$ y $b = 4$. ¿Cuánto mide la altura?",
+"opciones": [
+"10 cm",
+"5 cm",
+"2.5 cm"
+],
+"correcta": 1,
+"porque": "Altura = $\\frac{2 \\times 30}{12} = 5$."
+},
+{
+"pregunta": "¿Por qué al área del trapecio se le divide entre 2?",
+"opciones": [
+"Porque dos trapecios iguales forman un romboide",
+"Porque la altura siempre es la mitad de la base",
+"Porque el trapecio siempre tiene dos lados inclinados"
+],
+"correcta": 0,
+"porque": "Dos trapecios forman un romboide de base B + b, y uno solo es la mitad."
+}
+],
+"calcular-la-media-primaria": [
+{
+"pregunta": "Calcula la media de 6, 8 y 10.",
+"opciones": [
+"9",
+"8",
+"6"
+],
+"correcta": 1,
+"porque": "Suma 24 y divide entre 3: 8."
+},
+{
+"pregunta": "Calcula el promedio de 5, 7, 9 y 7.",
+"opciones": [
+"28",
+"7",
+"8"
+],
+"correcta": 1,
+"porque": "La suma es 28 y entre 4 datos da 7."
+},
+{
+"pregunta": "Llevas 6 y 8 en dos exámenes. ¿Cuánto necesitas en el tercero para promediar 8?",
+"opciones": [
+"10",
+"12",
+"16"
+],
+"correcta": 0,
+"porque": "Necesitas sumar 24: 24 - 14 = 10."
+},
+{
+"pregunta": "Tus notas son 9, 7, 0 y 8. ¿Cuál es el promedio?",
+"opciones": [
+"8",
+"5",
+"6"
+],
+"correcta": 2,
+"porque": "Suma 24 y divide entre 4: 6. El cero cuenta."
+},
+{
+"pregunta": "¿Qué es la media?",
+"opciones": [
+"El dato que queda en medio de la lista",
+"El dato que más veces se repite en la lista",
+"Lo que toca a cada quien al repartir parejo"
+],
+"correcta": 2,
+"porque": "La media sale de juntar todo y repartirlo en partes iguales."
+}
+],
+"calcular-la-mediana-primaria": [
+{
+"pregunta": "Encuentra la mediana de 9, 2, 7, 4 y 5.",
+"opciones": [
+"5",
+"7",
+"5.4"
+],
+"correcta": 0,
+"porque": "Ordenas 2, 4, 5, 7, 9 y el de en medio es 5."
+},
+{
+"pregunta": "Encuentra la mediana de 2, 4, 6 y 12.",
+"opciones": [
+"5",
+"4",
+"6"
+],
+"correcta": 0,
+"porque": "Los centrales son 4 y 6; su promedio es 5."
+},
+{
+"pregunta": "Encuentra la mediana de 4, 4 y 90.",
+"opciones": [
+"El número 90",
+"El número 4",
+"El número 32"
+],
+"correcta": 1,
+"porque": "El dato de en medio ya ordenado es 4."
+},
+{
+"pregunta": "Las estaturas de 5 compañeros son 110, 105, 120, 108 y 115 cm. ¿Cuál es la mediana?",
+"opciones": [
+"115 cm",
+"120 cm, por no ordenar",
+"110 cm"
+],
+"correcta": 2,
+"porque": "Ordenas 105, 108, 110, 115, 120 y el de en medio es 110."
+},
+{
+"pregunta": "¿Qué haces primero para encontrar la mediana?",
+"opciones": [
+"Buscar el que más se repite en la lista",
+"Ordenar los datos",
+"Sumar todos los datos"
+],
+"correcta": 1,
+"porque": "La mediana es el de en medio, y solo se ve bien con los datos ordenados."
+}
+],
+"comparar-fracciones-con-distinto-denominador-primaria": [
+{
+"pregunta": "Compara $\\frac{2}{3}$ y $\\frac{5}{8}$. ¿Cuál es mayor?",
+"opciones": [
+"$\\frac{2}{3}$",
+"$\\frac{5}{8}$",
+"Son iguales"
+],
+"correcta": 0,
+"porque": "En cruz: 2 por 8 son 16 y 5 por 3 son 15; gana $\\frac{2}{3}$."
+},
+{
+"pregunta": "Compara $\\frac{3}{4}$ y $\\frac{4}{5}$. ¿Cuál es mayor?",
+"opciones": [
+"$\\frac{4}{5}$",
+"$\\frac{3}{4}$",
+"Son iguales"
+],
+"correcta": 0,
+"porque": "En cruz: 3 por 5 son 15 y 4 por 4 son 16; gana $\\frac{4}{5}$."
+},
+{
+"pregunta": "Ordena de menor a mayor: $\\frac{1}{3}$, $\\frac{1}{2}$ y $\\frac{1}{4}$.",
+"opciones": [
+"$\\frac{1}{2}$, $\\frac{1}{3}$, $\\frac{1}{4}$",
+"$\\frac{1}{4}$, $\\frac{1}{3}$, $\\frac{1}{2}$",
+"$\\frac{1}{3}$, $\\frac{1}{4}$, $\\frac{1}{2}$"
+],
+"correcta": 1,
+"porque": "Mientras más grande el denominador, más chicos los pedazos."
+},
+{
+"pregunta": "¿Cuál es mayor: $\\frac{5}{9}$ o $\\frac{1}{2}$?",
+"opciones": [
+"Son iguales",
+"$\\frac{1}{2}$",
+"$\\frac{5}{9}$"
+],
+"correcta": 2,
+"porque": "Con 18 como denominador: $\\frac{10}{18}$ y $\\frac{9}{18}$, y 10 es mayor."
+},
+{
+"pregunta": "Ana comió $\\frac{3}{8}$ de su torta y Luis comió $\\frac{1}{4}$ de la suya, igual de grande. ¿Quién comió más?",
+"opciones": [
+"Luis comió más",
+"Ana comió más",
+"Comieron igual"
+],
+"correcta": 1,
+"porque": "$\\frac{1}{4} = \\frac{2}{8}$ y $\\frac{3}{8}$ es mayor."
+}
+],
+"comparar-y-ordenar-decimales-primaria": [
+{
+"pregunta": "¿Qué número es mayor: 0.9 o 0.85?",
+"opciones": [
+"Son iguales",
+"El 0.85",
+"El 0.9"
+],
+"correcta": 2,
+"porque": "0.90 es mayor que 0.85."
+},
+{
+"pregunta": "¿Qué signo va en 3.07 ___ 3.7?",
+"opciones": [
+">",
+"<",
+"="
+],
+"correcta": 1,
+"porque": "Con ceros: 3.07 y 3.70; 7 es menor que 70."
+},
+{
+"pregunta": "Ordena de menor a mayor: 0.5, 0.05 y 0.55.",
+"opciones": [
+"0.55, 0.5, 0.05",
+"0.5, 0.05, 0.55",
+"0.05, 0.5, 0.55"
+],
+"correcta": 2,
+"porque": "Iguala: 0.50, 0.05, 0.55. El orden es 0.05, 0.50, 0.55."
+},
+{
+"pregunta": "Pedro corrió en 12.3 segundos y Rosa en 12.03 segundos. ¿Quién fue más rápido?",
+"opciones": [
+"Los dos igual",
+"Pedro, con 12.3",
+"Rosa, con 12.03"
+],
+"correcta": 2,
+"porque": "12.03 es menor que 12.30, así que Rosa tardó menos."
+},
+{
+"pregunta": "¿Qué haces primero para comparar 0.3 y 0.125?",
+"opciones": [
+"Comparar solo la última cifra de cada uno",
+"Igualar las cifras con ceros: 0.300 y 0.125",
+"Quitar el punto y comparar 3 contra 125"
+],
+"correcta": 1,
+"porque": "Con las mismas cifras se compara como entero: 300 es mayor que 125."
+}
+],
+"conversiones-de-unidades-de-area-primaria": [
+{
+"pregunta": "Convierte 4 m² a cm².",
+"opciones": [
+"40 000 cm²",
+"4 000 cm²",
+"400 cm², por multiplicar solo por 100"
+],
+"correcta": 0,
+"porque": "En área se multiplica por 10 000: 4 por 10 000 son 40 000."
+},
+{
+"pregunta": "Convierte 70 000 cm² a m².",
+"opciones": [
+"700 m²",
+"70 m², por dividir solo entre 1 000",
+"7 m²"
+],
+"correcta": 2,
+"porque": "Divides entre 10 000: 70 000 entre 10 000 son 7."
+},
+{
+"pregunta": "Convierte 5 ha a m².",
+"opciones": [
+"50 000 m²",
+"5 000 m²",
+"500 m², por multiplicar solo por 100"
+],
+"correcta": 0,
+"porque": "Una hectárea son 10 000 m², así que 5 son 50 000."
+},
+{
+"pregunta": "¿Cuántos m² tiene 1 km²?",
+"opciones": [
+"1 000 000 m²",
+"100 000 m²",
+"1 000 m², porque solo se usa un escalón"
+],
+"correcta": 0,
+"porque": "1 km son 1 000 m, y en área se eleva al cuadrado."
+},
+{
+"pregunta": "Un terreno de la escuela mide 25 000 m². ¿Cuántas hectáreas son?",
+"opciones": [
+"2.5 ha",
+"250 ha",
+"25 ha"
+],
+"correcta": 0,
+"porque": "Una hectárea es 10 000 m²; 25 000 entre 10 000 es 2.5."
+}
+],
+"convertir-decimal-a-fraccion-primaria": [
+{
+"pregunta": "Convierte 0.3 a fracción.",
+"opciones": [
+"$\\frac{3}{100}$",
+"$\\frac{3}{10}$",
+"$\\frac{1}{3}$"
+],
+"correcta": 1,
+"porque": "Una cifra decimal lleva un cero abajo: 10."
+},
+{
+"pregunta": "Convierte 0.5 a fracción simplificada.",
+"opciones": [
+"$\\frac{1}{2}$",
+"$\\frac{5}{100}$",
+"$\\frac{1}{5}$"
+],
+"correcta": 0,
+"porque": "0.5 es $\\frac{5}{10}$, y entre 5 queda $\\frac{1}{2}$."
+},
+{
+"pregunta": "Convierte 0.08 a fracción simplificada.",
+"opciones": [
+"$\\frac{2}{25}$",
+"$\\frac{1}{8}$",
+"$\\frac{8}{10}$"
+],
+"correcta": 0,
+"porque": "0.08 es $\\frac{8}{100}$, y entre 4 queda $\\frac{2}{25}$."
+},
+{
+"pregunta": "Convierte 3.5 a fracción mixta.",
+"opciones": [
+"$3\\frac{1}{5}$",
+"$3\\frac{1}{2}$",
+"$\\frac{35}{100}$"
+],
+"correcta": 1,
+"porque": "El entero se conserva y 0.5 es $\\frac{1}{2}$."
+},
+{
+"pregunta": "Juan lleva 0.2 de su tarea hecha. ¿Qué fracción simplificada es?",
+"opciones": [
+"$\\frac{1}{5}$",
+"$\\frac{1}{2}$",
+"$\\frac{2}{5}$"
+],
+"correcta": 0,
+"porque": "0.2 es $\\frac{2}{10}$, y entre 2 queda $\\frac{1}{5}$."
+}
+]
+}

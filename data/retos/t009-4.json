@@ -1,0 +1,470 @@
+{
+"equidad-de-genero-primaria-5-6": [
+{
+"pregunta": "¿Qué busca la equidad de género?",
+"opciones": [
+"Que los hombres decidan por todos",
+"Que nadie tenga menos oportunidades por ser mujer u hombre",
+"Que todos tengan siempre los mismos gustos"
+],
+"correcta": 1,
+"porque": "La equidad busca las mismas oportunidades para mujeres y hombres."
+},
+{
+"pregunta": "¿Cuál es un estereotipo?",
+"opciones": [
+"Las niñas no saben de futbol",
+"Hoy es lunes y hay escuela",
+"El agua moja todo lo que toca"
+],
+"correcta": 0,
+"porque": "Un estereotipo es una idea falsa sobre cómo deben ser mujeres u hombres."
+},
+{
+"pregunta": "Alguien dice \"los niños no lloran\". ¿Qué respondes?",
+"opciones": [
+"Solo es cierto en la escuela",
+"Es falso, todos podemos llorar",
+"Es cierto, llorar es de débiles"
+],
+"correcta": 1,
+"porque": "Llorar es normal en cualquier persona."
+},
+{
+"pregunta": "Excluyen a una compañera de un juego por ser niña. ¿Qué haces?",
+"opciones": [
+"Me voy para no meterme en problemas",
+"Pido que la incluyan y juego con ella",
+"Me rio y no digo nada"
+],
+"correcta": 1,
+"porque": "Incluir a todos es actuar con equidad."
+},
+{
+"pregunta": "¿Cómo pueden repartirse las tareas en casa con equidad?",
+"opciones": [
+"Solo los adultos varones deciden",
+"Siempre las mismas para las mujeres",
+"Por turnos entre todos"
+],
+"correcta": 2,
+"porque": "Repartir por turnos y respetar gustos es equitativo."
+}
+],
+"escuela-ventana-futuro-primaria": [
+{
+"pregunta": "¿Qué te enseña leer bien?",
+"opciones": [
+"Solo a contar cuentos",
+"Te sirve para todo lo que aprendes",
+"A no usar la escuela"
+],
+"correcta": 1,
+"porque": "Leer te abre puertas para aprender todas las materias."
+},
+{
+"pregunta": "¿Para qué te ayudan las matemáticas?",
+"opciones": [
+"Para manejar dinero",
+"Para dejar de escribir",
+"Para no pensar"
+],
+"correcta": 0,
+"porque": "Las matemáticas te ayudan, por ejemplo, a manejar dinero."
+},
+{
+"pregunta": "¿Qué es una meta?",
+"opciones": [
+"Un juego sin reglas",
+"Lo que quiero lograr",
+"Lo que ya terminé"
+],
+"correcta": 1,
+"porque": "Una meta es algo que quieres alcanzar."
+},
+{
+"pregunta": "Cambias de idea sobre lo que quieres ser. ¿Es un error?",
+"opciones": [
+"Sí, entonces no sirves para nada",
+"No, puedes cambiar al conocerte más",
+"Sí, tienes que decidir una sola vez"
+],
+"correcta": 1,
+"porque": "Tus metas pueden cambiar mientras aprendes y creces."
+},
+{
+"pregunta": "Además de materias, ¿qué más aprendes en la escuela?",
+"opciones": [
+"A ganar siempre sin importar qué",
+"A convivir con otros",
+"A no hablar con nadie"
+],
+"correcta": 1,
+"porque": "La escuela también te enseña a convivir con respeto."
+}
+],
+"estilos-de-vida-activos-saludables-primaria-5-6": [
+{
+"pregunta": "Haces 20 minutos de actividad en la mañana y 25 en la tarde. ¿Cuántos minutos son?",
+"opciones": [
+"55 minutos",
+"45 minutos",
+"35 minutos"
+],
+"correcta": 1,
+"porque": "20 más 25 son 45 minutos."
+},
+{
+"pregunta": "¿Cuántos minutos al día se recomienda moverse?",
+"opciones": [
+"5 minutos",
+"60 minutos",
+"600 minutos"
+],
+"correcta": 1,
+"porque": "Se recomienda moverse 60 minutos al día."
+},
+{
+"pregunta": "¿Cuál es mejor para hidratarte?",
+"opciones": [
+"Refresco",
+"Agua simple",
+"Jugo con azúcar agregada"
+],
+"correcta": 1,
+"porque": "El agua simple hidrata sin azúcar."
+},
+{
+"pregunta": "¿Qué conviene con las pantallas?",
+"opciones": [
+"Verlas sin descanso",
+"Usarlas toda la noche",
+"Limitarlas"
+],
+"correcta": 2,
+"porque": "Limitar las pantallas deja tiempo para moverte y descansar."
+},
+{
+"pregunta": "Quieres mejorar un hábito, como dormir mejor. ¿Qué haces?",
+"opciones": [
+"Duermo tarde para ver si me acostumbro",
+"Lo dejo para algún día",
+"Hago un plan y lo repito cada día"
+],
+"correcta": 2,
+"porque": "Un plan con acciones diarias ayuda a cambiar un hábito."
+}
+],
+"familias-pertenencia-autonomia-primaria": [
+{
+"pregunta": "¿Qué es la autonomía?",
+"opciones": [
+"Hacer cosas por ti mismo",
+"No hacer nada",
+"Que otros hagan todo por ti"
+],
+"correcta": 0,
+"porque": "Autonomía es hacer cosas por ti mismo."
+},
+{
+"pregunta": "¿Qué es el sentido de pertenencia en la familia?",
+"opciones": [
+"Mandar sobre los demás",
+"Vivir lejos de todos",
+"Sentirte aceptado y parte de ella"
+],
+"correcta": 2,
+"porque": "Es sentirte aceptado y apoyado por tu familia."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de autonomía para un niño de 11 años?",
+"opciones": [
+"Decidir todo sin avisar a nadie",
+"Manejar el coche familiar",
+"Preparar su mochila solo"
+],
+"correcta": 2,
+"porque": "Preparar tu mochila es una tarea adecuada para tu edad."
+},
+{
+"pregunta": "Hay un desacuerdo por usar la tele. ¿Qué haces?",
+"opciones": [
+"Grito y la apago",
+"Me llevo el control a mi cuarto",
+"Propongo turnos y hablo con respeto"
+],
+"correcta": 2,
+"porque": "Dialogar y acordar turnos resuelve con respeto."
+},
+{
+"pregunta": "Al crecer, ¿qué pasa con tus tareas en casa?",
+"opciones": [
+"Nadie te pide nada nunca",
+"Dejas de tener tareas",
+"Tienes más tareas y decisiones"
+],
+"correcta": 2,
+"porque": "Al crecer asumes más tareas y decisiones con responsabilidad."
+}
+],
+"formas-de-ser-pensar-actuar-primaria-5-6": [
+{
+"pregunta": "¿Qué es la asertividad?",
+"opciones": [
+"Decir lo que piensas sin ofender",
+"Callar siempre lo que piensas",
+"Gritar para que te escuchen"
+],
+"correcta": 0,
+"porque": "Asertividad es expresar lo que piensas con respeto."
+},
+{
+"pregunta": "Un compañero trabaja mejor solo y tú en equipo. ¿Qué haces?",
+"opciones": [
+"Le digo que está mal",
+"Busco un acuerdo para trabajar ambos",
+"Lo dejo fuera del grupo"
+],
+"correcta": 1,
+"porque": "Respetar la forma de ser del otro y acordar ayuda a convivir."
+},
+{
+"pregunta": "¿Cuál es una forma asertiva de decir lo que piensas?",
+"opciones": [
+"Me quedo callado aunque me moleste",
+"Digo lo que pienso con respeto",
+"Grito para que todos me obedezcan"
+],
+"correcta": 1,
+"porque": "Asertividad es decir lo que piensas sin ofender."
+},
+{
+"pregunta": "Dos amigos quieren juegos distintos. ¿Qué favorece la convivencia?",
+"opciones": [
+"Pelear hasta que uno ceda",
+"Dialogar y turnarse",
+"Dejar de hablarse"
+],
+"correcta": 1,
+"porque": "El diálogo y los turnos favorecen la convivencia."
+},
+{
+"pregunta": "Tus ideas y gustos cambian al crecer. ¿Eso es normal?",
+"opciones": [
+"No, debes ser siempre igual",
+"Sí, y merece respeto",
+"Solo les pasa a los adultos"
+],
+"correcta": 1,
+"porque": "Cambiar mientras creces es normal y se respeta."
+}
+],
+"higiene-y-prevencion-de-enfermedades-primaria": [
+{
+"pregunta": "¿Cuánto tiempo debes lavarte las manos con jabón?",
+"opciones": [
+"Veinte segundos",
+"Dos segundos",
+"Un segundo"
+],
+"correcta": 0,
+"porque": "Veinte segundos ayudan a quitar gérmenes."
+},
+{
+"pregunta": "¿Cuándo debes cepillar tus dientes?",
+"opciones": [
+"Solo los domingos",
+"Solo si te duelen",
+"Después de cada comida"
+],
+"correcta": 2,
+"porque": "Cepillarlos después de comer evita caries."
+},
+{
+"pregunta": "Vas a comer fruta en el lunch. ¿Qué haces antes?",
+"opciones": [
+"La froto en mi ropa",
+"La lavo con agua",
+"La como sin lavarla"
+],
+"correcta": 1,
+"porque": "Lavar las frutas previene enfermedades."
+},
+{
+"pregunta": "¿Qué agua es mejor para tomar?",
+"opciones": [
+"Agua de un charco",
+"Agua limpia",
+"Agua de un río sucio"
+],
+"correcta": 1,
+"porque": "El agua limpia evita enfermedades."
+},
+{
+"pregunta": "¿Cuál ayuda a prevenir enfermedades graves?",
+"opciones": [
+"Dejar de bañarte",
+"Ponerte vacunas",
+"No lavarte las manos"
+],
+"correcta": 1,
+"porque": "Las vacunas previenen muchas enfermedades."
+}
+],
+"interaccion-motriz-primaria-5-6": [
+{
+"pregunta": "¿Qué tipo de interacción hay en el voleibol?",
+"opciones": [
+"Cooperación y oposición",
+"Solo cooperación",
+"Ninguna interacción"
+],
+"correcta": 0,
+"porque": "En voleibol ayudas a tu equipo y te opones al otro."
+},
+{
+"pregunta": "En un juego, ¿qué es importante para el equipo?",
+"opciones": [
+"Hacer trampa",
+"Comunicación y juego limpio",
+"Gritarse sin escuchar"
+],
+"correcta": 1,
+"porque": "La comunicación y el juego limpio ayudan a jugar mejor."
+},
+{
+"pregunta": "Una carrera de relevos entre dos equipos tiene...",
+"opciones": [
+"Solo oposición",
+"Cooperación y oposición",
+"Solo cooperación"
+],
+"correcta": 1,
+"porque": "Cooperas con tu equipo y compites contra el otro."
+},
+{
+"pregunta": "Tu equipo pierde un partido. ¿Cómo reaccionas?",
+"opciones": [
+"Culpo a un compañero",
+"Felicito al otro y aprendo",
+"Me enojo y rompo el balón"
+],
+"correcta": 1,
+"porque": "Competir con respeto incluye aceptar el resultado."
+},
+{
+"pregunta": "¿Para qué puedes proponer señales en tu equipo?",
+"opciones": [
+"Para confundir a todos",
+"Para esconderlas del equipo",
+"Para comunicarnos rápido"
+],
+"correcta": 2,
+"porque": "Las señales ayudan a coordinar al equipo."
+}
+],
+"potencialidades-personales-primaria-5-6": [
+{
+"pregunta": "¿Qué son las potencialidades?",
+"opciones": [
+"Lo que puedes llegar a hacer si practicas",
+"Lo que ya sabes perfectamente",
+"Cosas que no se pueden cambiar"
+],
+"correcta": 0,
+"porque": "Son lo que puedes lograr con práctica."
+},
+{
+"pregunta": "Armas un rompecabezas. ¿Qué potencialidad usas?",
+"opciones": [
+"Ninguna",
+"Cognitiva",
+"Solo la expresiva"
+],
+"correcta": 1,
+"porque": "Armar un rompecabezas usa pensamiento."
+},
+{
+"pregunta": "Pintar un mural es una potencialidad...",
+"opciones": [
+"Solo de relación",
+"Solo motriz",
+"Expresiva y creativa"
+],
+"correcta": 2,
+"porque": "Pintar expresa ideas y usa creatividad."
+},
+{
+"pregunta": "Resolver un problema de matemáticas usa...",
+"opciones": [
+"Solo mi fuerza",
+"Mi equilibrio",
+"Mi potencialidad cognitiva"
+],
+"correcta": 2,
+"porque": "Resolver problemas requiere pensar."
+},
+{
+"pregunta": "Quieres fortalecer una potencialidad. ¿Qué haces?",
+"opciones": [
+"La practico con un plan",
+"Espero sin hacer nada",
+"La dejo de lado"
+],
+"correcta": 0,
+"porque": "Con práctica y un plan puedes mejorarla."
+}
+],
+"primeros-auxilios-basicos-primaria": [
+{
+"pregunta": "¿Qué número llamas en una emergencia?",
+"opciones": [
+"999",
+"911",
+"100"
+],
+"correcta": 1,
+"porque": "El 911 es el número de emergencia."
+},
+{
+"pregunta": "¿Qué haces primero ante un accidente?",
+"opciones": [
+"Salgo corriendo sin avisar",
+"Mantengo la calma y aviso a un adulto",
+"Grito y no hago nada"
+],
+"correcta": 1,
+"porque": "Con calma y ayuda de un adulto se actúa mejor."
+},
+{
+"pregunta": "Te quemas la mano con agua caliente. ¿Qué haces?",
+"opciones": [
+"Pongo pomada o pasta de dientes",
+"Pongo agua fresca",
+"Pongo hielo directo mucho tiempo"
+],
+"correcta": 1,
+"porque": "Con quemaduras se usa agua fresca, sin pomadas."
+},
+{
+"pregunta": "Tienes un sangrado en la mano. ¿Qué haces?",
+"opciones": [
+"Lo dejo sin cubrir",
+"Aprieto con una tela limpia",
+"Lo froto con tierra"
+],
+"correcta": 1,
+"porque": "Apretar con tela limpia ayuda a detener el sangrado."
+},
+{
+"pregunta": "Te sangra la nariz. ¿Cómo pones la cabeza?",
+"opciones": [
+"Hacia un lado acostado",
+"Hacia adelante",
+"Hacia atrás"
+],
+"correcta": 1,
+"porque": "La cabeza hacia adelante evita tragar sangre."
+}
+]
+}

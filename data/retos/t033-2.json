@@ -1,0 +1,522 @@
+{
+"ecuacion-de-continuidad-prepa": [
+{
+"pregunta": "Un tubo pasa de 8 cm² a 4 cm². Con $v_1 = 3$ m/s, halla $v_2$.",
+"opciones": [
+"1.5 m/s",
+"6 m/s",
+"24 m/s"
+],
+"correcta": 1,
+"porque": "El área baja a la mitad y la velocidad sube al doble: $\\frac{8 \\times 3}{4} = 6$."
+},
+{
+"pregunta": "Tapas la salida de una manguera con el dedo. ¿Qué pasa con el agua?",
+"opciones": [
+"Sale más rápida",
+"Sale igual que antes",
+"Sale más lenta"
+],
+"correcta": 0,
+"porque": "El agua que entra debe salir por un hueco chico, y por eso sale más rápido."
+},
+{
+"pregunta": "Una llave llena 30 L en 10 s. ¿Cuánto vale el gasto $Q$?",
+"opciones": [
+"3 L/s",
+"300 L/s",
+"0.33 L/s"
+],
+"correcta": 0,
+"porque": "El gasto es volumen entre tiempo: 30 entre 10 son 3 L/s."
+},
+{
+"pregunta": "Con $Q = 5$ L/s, ¿cuánto tardan en salir 50 L?",
+"opciones": [
+"0.1 s",
+"10 s",
+"250 s"
+],
+"correcta": 1,
+"porque": "El tiempo es volumen entre $Q$: 50 entre 5 son 10 s."
+},
+{
+"pregunta": "Si el radio de un tubo baja a la mitad, ¿qué pasa con el área?",
+"opciones": [
+"Baja 4 veces",
+"Baja 2 veces",
+"Se queda igual"
+],
+"correcta": 0,
+"porque": "El área usa el radio dos veces, así que la mitad da una cuarta parte."
+}
+],
+"electricidad-magnetismo-electromagnetismo": [
+{
+"pregunta": "Acercas un polo norte de un imán a un polo sur de otro. ¿Qué pasa?",
+"opciones": [
+"No pasa nada",
+"Se repelen",
+"Se atraen"
+],
+"correcta": 2,
+"porque": "Los polos distintos se atraen, igual que las cargas distintas."
+},
+{
+"pregunta": "Una licuadora convierte electricidad en movimiento. ¿Qué es?",
+"opciones": [
+"Un generador",
+"Una pila",
+"Un motor"
+],
+"correcta": 2,
+"porque": "Un motor pasa de electricidad a movimiento; un generador hace lo contrario."
+},
+{
+"pregunta": "¿Qué crea una corriente que pasa por un cable?",
+"opciones": [
+"Sonido",
+"Magnetismo",
+"Frío"
+],
+"correcta": 1,
+"porque": "Una corriente crea magnetismo, y por eso existen los electroimanes."
+},
+{
+"pregunta": "Un circuito tiene 20 V y 5 ohms. ¿Qué corriente circula?",
+"opciones": [
+"15 A",
+"100 A",
+"4 A"
+],
+"correcta": 2,
+"porque": "La corriente es voltaje entre resistencia: 20 entre 5 son 4 A."
+},
+{
+"pregunta": "Mueves un imán dentro de una bobina de alambre. ¿Qué se produce?",
+"opciones": [
+"Más masa del imán",
+"Corriente eléctrica",
+"Un polo nuevo"
+],
+"correcta": 1,
+"porque": "Un imán que se mueve crea corriente, y así funciona un generador."
+}
+],
+"equilibrio-y-momento-de-una-fuerza-prepa": [
+{
+"pregunta": "Empujas con 40 N a 0.5 m del eje, de forma perpendicular. ¿Cuánto vale $\\tau$?",
+"opciones": [
+"40.5 N·m",
+"20 N·m",
+"80 N·m"
+],
+"correcta": 1,
+"porque": "El torque es fuerza por distancia: 40 por 0.5 son 20 N·m."
+},
+{
+"pregunta": "En un subibaja, 300 N están a 2 m. ¿A qué distancia va un peso de 200 N para equilibrar?",
+"opciones": [
+"2 m",
+"3 m",
+"1.5 m"
+],
+"correcta": 1,
+"porque": "Los giros iguales: $300 \\times 2 = 200 \\times d$, y $d = 3$ m."
+},
+{
+"pregunta": "Quieres abrir una puerta con poco esfuerzo. ¿Dónde empujas?",
+"opciones": [
+"Justo en la bisagra",
+"Cerca de la manija",
+"Cerca de la bisagra"
+],
+"correcta": 1,
+"porque": "Un brazo más largo da más giro con la misma fuerza."
+},
+{
+"pregunta": "Empujas derecho, a 90°. ¿Cuánto vale el número del ángulo?",
+"opciones": [
+"1",
+"0",
+"90"
+],
+"correcta": 0,
+"porque": "Si empujas derecho, ese número es 1 y el giro es el mayor."
+},
+{
+"pregunta": "En un subibaja, ¿dónde se sienta el niño más ligero?",
+"opciones": [
+"Más lejos del centro",
+"Justo en el centro",
+"Más cerca del centro"
+],
+"correcta": 0,
+"porque": "Un niño ligero lejos del centro equilibra a uno pesado cerca."
+}
+],
+"espejos-y-lentes-prepa": [
+{
+"pregunta": "Con $f = 10$ cm y $d_o = 15$ cm, halla $d_i$.",
+"opciones": [
+"5 cm",
+"30 cm",
+"25 cm"
+],
+"correcta": 1,
+"porque": "$\\frac{1}{d_i} = \\frac{1}{10} - \\frac{1}{15} = \\frac{1}{30}$, y $d_i = 30$ cm."
+},
+{
+"pregunta": "Sale $M = -2$. ¿Cómo es la imagen?",
+"opciones": [
+"De cabeza y de la mitad",
+"De cabeza y el doble de grande",
+"Derecha y el doble de grande"
+],
+"correcta": 1,
+"porque": "El signo menos es de cabeza, y el 2 dice que mide el doble."
+},
+{
+"pregunta": "¿Qué potencia tiene una lente con $f = 0.2$ m?",
+"opciones": [
+"0.2 dioptrías",
+"20 dioptrías",
+"5 dioptrías"
+],
+"correcta": 2,
+"porque": "La potencia es 1 entre $f$: 1 entre 0.2 son 5."
+},
+{
+"pregunta": "Si $d_i$ sale negativa, ¿cómo es la imagen?",
+"opciones": [
+"Real, se ve en pantalla",
+"Virtual, no se ve en pantalla",
+"Más grande siempre"
+],
+"correcta": 1,
+"porque": "La imagen virtual no se forma en pantalla, como en un espejo de baño."
+},
+{
+"pregunta": "Con una lupa juntas la luz del sol en un puntito. ¿A qué distancia queda?",
+"opciones": [
+"Sobre el objeto",
+"Pegada al vidrio",
+"A la distancia focal $f$"
+],
+"correcta": 2,
+"porque": "La distancia focal es donde la lente junta la luz."
+}
+],
+"fisica-moderna-divulgacion": [
+{
+"pregunta": "¿Qué estudia la mecánica cuántica?",
+"opciones": [
+"Lo muy pequeño",
+"Lo muy grande",
+"Lo muy lento"
+],
+"correcta": 0,
+"porque": "La cuántica estudia lo muy pequeño; la relatividad, lo muy rápido y grande."
+},
+{
+"pregunta": "¿Qué dice la fórmula $E = mc^2$?",
+"opciones": [
+"Que calor y frío se anulan",
+"Que luz y sonido van igual",
+"Que masa y energía se relacionan"
+],
+"correcta": 2,
+"porque": "Einstein mostró que masa y energía están relacionadas."
+},
+{
+"pregunta": "¿Cuál de estos usa física moderna?",
+"opciones": [
+"Un vaso de plástico",
+"Una regla de madera",
+"El GPS del celular"
+],
+"correcta": 2,
+"porque": "El GPS usa ideas de la relatividad para dar bien la ubicación."
+},
+{
+"pregunta": "En mecánica cuántica, ¿cómo viene la energía en lo muy pequeño?",
+"opciones": [
+"En paquetes",
+"Siempre se pierde",
+"Fluye siempre parejo"
+],
+"correcta": 0,
+"porque": "En lo muy pequeño la energía viene en paquetes y solo hay probabilidades."
+},
+{
+"pregunta": "¿Cuál es un uso de la física moderna en un hospital?",
+"opciones": [
+"Las resonancias",
+"Las tijeras",
+"Las curitas"
+],
+"correcta": 0,
+"porque": "Las resonancias usan física moderna para ver dentro del cuerpo."
+}
+],
+"fluidos-presion-pascal-arquimedes": [
+{
+"pregunta": "Una fuerza de 300 N actúa sobre 0.5 m². ¿Qué presión da?",
+"opciones": [
+"150 Pa",
+"1500 Pa",
+"600 Pa"
+],
+"correcta": 2,
+"porque": "La presión es fuerza entre área: 300 entre 0.5 son 600 Pa."
+},
+{
+"pregunta": "Un pistón tiene 8 veces más área que otro. ¿Cuánto crece la fuerza?",
+"opciones": [
+"8 veces",
+"4 veces",
+"64 veces"
+],
+"correcta": 0,
+"porque": "Con 8 veces más área, Pascal da 8 veces más fuerza."
+},
+{
+"pregunta": "Un objeto sumerge 0.003 m³ de agua. Con $g = 10$, ¿cuál es el empuje?",
+"opciones": [
+"300 N",
+"3 N",
+"30 N"
+],
+"correcta": 2,
+"porque": "El empuje es 1000 por 10 por 0.003, que da 30 N."
+},
+{
+"pregunta": "¿Qué hace el agua de la alberca contigo?",
+"opciones": [
+"Te empuja hacia arriba",
+"Te jala hacia el fondo",
+"No te toca"
+],
+"correcta": 0,
+"porque": "En la alberca te sientes ligero porque el agua te empuja hacia arriba."
+},
+{
+"pregunta": "Aprietas agua encerrada en una jeringa. ¿Hacia dónde llega el apretón?",
+"opciones": [
+"Solo hacia donde empujas",
+"Solo hacia abajo",
+"Por igual a todos lados"
+],
+"correcta": 2,
+"porque": "Pascal dice que la presión llega igual a todos lados del fluido encerrado."
+}
+],
+"friccion-estatica-y-cinetica-prepa": [
+{
+"pregunta": "Con $\\mu_k = 0.5$ y $N = 60$ N, ¿cuánto vale $f_k$?",
+"opciones": [
+"120 N",
+"60 N",
+"30 N"
+],
+"correcta": 2,
+"porque": "La fricción cinética es áspero por $N$: 0.5 por 60 son 30 N."
+},
+{
+"pregunta": "Una caja tiene límite de 80 N y la empujas con 50 N. ¿Cuánto vale $f_s$?",
+"opciones": [
+"50 N",
+"30 N",
+"80 N"
+],
+"correcta": 0,
+"porque": "La estática iguala tu empujón hasta su límite, y no se mueve."
+},
+{
+"pregunta": "Ya empujaste un refri y se movió. ¿Qué fricción sientes ahora?",
+"opciones": [
+"Ninguna fricción",
+"La cinética, que cuesta menos",
+"La estática, que cuesta más"
+],
+"correcta": 1,
+"porque": "Ya que arranca, cuesta menos seguir: es la fricción cinética."
+},
+{
+"pregunta": "Con $\\mu_s = 0.5$ y $N = 80$ N, ¿qué fuerza máxima aguanta sin moverse?",
+"opciones": [
+"40 N",
+"130 N",
+"160 N"
+],
+"correcta": 0,
+"porque": "El límite es $\\mu_s N$: 0.5 por 80 son 40 N."
+},
+{
+"pregunta": "¿Qué mide $N$ en la fórmula de la fricción?",
+"opciones": [
+"La fuerza con que el piso sostiene",
+"Qué tan áspero es el piso",
+"Qué tan rápido va el objeto"
+],
+"correcta": 0,
+"porque": "$N$ es la fuerza con que el piso sostiene al objeto."
+}
+],
+"fuerza-magnetica-prepa": [
+{
+"pregunta": "Un cable de 2 m lleva 4 A en un campo de 0.5 T, de forma perpendicular. Halla $F$.",
+"opciones": [
+"1 N",
+"6.5 N",
+"4 N"
+],
+"correcta": 2,
+"porque": "En un cable, $F = BIL$: 0.5 por 4 por 2 son 4 N."
+},
+{
+"pregunta": "Una carga está quieta dentro de un campo magnético. ¿Cuánto vale la fuerza?",
+"opciones": [
+"Cero, no se mueve",
+"La mitad de la máxima",
+"La máxima posible"
+],
+"correcta": 0,
+"porque": "El campo solo empuja lo que se mueve, y una carga quieta no siente nada."
+},
+{
+"pregunta": "Con $q = 3$ C, $v = 2$ m/s y $B = 0.5$ T, perpendicular, halla $F$.",
+"opciones": [
+"3 N",
+"5.5 N",
+"12 N"
+],
+"correcta": 0,
+"porque": "La fuerza es $qvB$: 3 por 2 por 0.5 son 3 N."
+},
+{
+"pregunta": "La fuerza magnética sobre una carga en movimiento empuja:",
+"opciones": [
+"De lado, cambia la dirección",
+"Hacia atrás, la frena",
+"Hacia adelante, la acelera"
+],
+"correcta": 0,
+"porque": "Empuja de lado, así que cambia la dirección pero no la rapidez."
+},
+{
+"pregunta": "¿Qué hace girar a un motor de juguete?",
+"opciones": [
+"El aire dentro de él",
+"La fuerza magnética en los cables",
+"El peso de sus piezas"
+],
+"correcta": 1,
+"porque": "Los motores giran por la fuerza magnética sobre la corriente."
+}
+],
+"gravitacion-universal-orbitas": [
+{
+"pregunta": "Si la distancia entre dos cuerpos se cuadruplica, ¿cuántas veces menor es la fuerza?",
+"opciones": [
+"8 veces",
+"16 veces",
+"4 veces"
+],
+"correcta": 1,
+"porque": "La distancia se multiplica por sí misma: 4 por 4 son 16 veces menos fuerza."
+},
+{
+"pregunta": "¿Por qué la Luna no choca con la Tierra?",
+"opciones": [
+"Cae, pero avanza muy rápido",
+"Allá no hay gravedad",
+"El Sol la sostiene"
+],
+"correcta": 0,
+"porque": "La Luna cae hacia la Tierra, pero avanza tan rápido que nunca llega."
+},
+{
+"pregunta": "Si se duplica una de las masas, ¿qué pasa con la fuerza?",
+"opciones": [
+"Se cuadruplica",
+"Se hace la mitad",
+"Se duplica"
+],
+"correcta": 2,
+"porque": "La fuerza crece igual que la masa: doble masa, doble fuerza."
+},
+{
+"pregunta": "Un planeta gira en elipse. ¿Dónde está el Sol?",
+"opciones": [
+"En el centro de la elipse",
+"En la orilla de la elipse",
+"En un foco de la elipse"
+],
+"correcta": 2,
+"porque": "Kepler dice que el Sol está en un punto llamado foco."
+},
+{
+"pregunta": "Sueltas una goma y un cuaderno al mismo tiempo, sin aire. ¿Cuál cae primero?",
+"opciones": [
+"Primero el cuaderno",
+"Primero la goma",
+"Llegan al mismo tiempo"
+],
+"correcta": 2,
+"porque": "Sin aire, todo cae igual, pesado o ligero."
+}
+],
+"ley-de-coulomb-prepa": [
+{
+"pregunta": "Triplicas una sola carga y la distancia queda igual. ¿Qué pasa con $F$?",
+"opciones": [
+"Se hace nueve veces",
+"Se hace la tercera parte",
+"Se triplica"
+],
+"correcta": 2,
+"porque": "La fuerza crece igual que la carga: triple carga, triple fuerza."
+},
+{
+"pregunta": "Si la distancia entre dos cargas se duplica, ¿qué pasa con $F$?",
+"opciones": [
+"Se hace la mitad",
+"Se hace cuatro veces menor",
+"Se duplica"
+],
+"correcta": 1,
+"porque": "La distancia se multiplica por sí misma: doble distancia, cuarta parte de fuerza."
+},
+{
+"pregunta": "Dos globos frotados tienen cargas iguales. ¿Qué pasa si los acercas?",
+"opciones": [
+"Se atraen",
+"Se ignoran",
+"Se rechazan"
+],
+"correcta": 2,
+"porque": "Las cargas iguales se rechazan y las distintas se atraen."
+},
+{
+"pregunta": "Con 2 $\\mu$C y 2 $\\mu$C a 0.6 m, ¿cuánto vale $F$?",
+"opciones": [
+"0.01 N",
+"1 N",
+"0.1 N"
+],
+"correcta": 2,
+"porque": "$\\frac{9 \\times 10^9 \\times 4 \\times 10^{-12}}{0.36} = 0.1$ N."
+},
+{
+"pregunta": "¿Qué es un $\\mu$C?",
+"opciones": [
+"Una milésima de coulomb",
+"Un millón de coulombs",
+"Una millonésima de coulomb"
+],
+"correcta": 2,
+"porque": "Micro es una millonésima, o sea $10^{-6}$."
+}
+]
+}

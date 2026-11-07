@@ -1,0 +1,567 @@
+{
+"rectas-y-angulos-secundaria": [
+{
+"pregunta": "Un triángulo tiene ángulos de $40°$ y $70°$. ¿Cuánto mide el tercero?",
+"opciones": [
+"$50°$",
+"$70°$",
+"$30°$",
+"$110°$, porque solo restas 180 menos 70"
+],
+"correcta": 1,
+"porque": "Los tres ángulos suman 180°: $180 - 40 - 70 = 70$."
+},
+{
+"pregunta": "¿Cuánto mide el complemento de $25°$?",
+"opciones": [
+"$25°$",
+"$155°$, porque lo calculas con 180°",
+"$115°$",
+"$65°$"
+],
+"correcta": 3,
+"porque": "Los complementarios suman 90°: $90 - 25 = 65$."
+},
+{
+"pregunta": "¿Cuánto mide el suplemento de $100°$?",
+"opciones": [
+"$10°$, porque lo calculas con 90°",
+"$260°$",
+"$80°$",
+"$100°$"
+],
+"correcta": 2,
+"porque": "Los suplementarios suman 180°: $180 - 100 = 80$."
+},
+{
+"pregunta": "Dos rectas se cruzan y forman una X. Un ángulo mide $48°$. ¿Cuánto mide el de enfrente?",
+"opciones": [
+"$96°$",
+"$132°$, porque los dos suman 180°",
+"$42°$",
+"$48°$"
+],
+"correcta": 3,
+"porque": "Los ángulos opuestos por el vértice son iguales."
+},
+{
+"pregunta": "¿Qué son las rectas paralelas?",
+"opciones": [
+"Rectas que se cruzan formando una esquina recta",
+"Rectas que se tocan en un solo punto",
+"Rectas que forman una X",
+"Rectas que nunca se tocan"
+],
+"correcta": 3,
+"porque": "Las paralelas van siempre a la misma distancia, como las vías del tren."
+}
+],
+"reducir-terminos-semejantes-secundaria": [
+{
+"pregunta": "Reduce $5a + 3 - 2a + 4$.",
+"opciones": [
+"$7a + 3$",
+"$10a + 7$, porque sumas los coeficientes de $a$",
+"$3a^2 + 7$",
+"$3a + 7$"
+],
+"correcta": 3,
+"porque": "Juntas $5a - 2a = 3a$ y los números solos $3 + 4 = 7$."
+},
+{
+"pregunta": "Reduce $8y - 11y$.",
+"opciones": [
+"$-3y$",
+"$-3y^2$",
+"$-3$",
+"$3y$, porque 11 menos 8 es positivo"
+],
+"correcta": 0,
+"porque": "Restas los coeficientes y la letra se queda igual: $8 - 11 = -3$."
+},
+{
+"pregunta": "Reduce $3x^2 + 2x - x^2 + 4x$.",
+"opciones": [
+"$2x^2 + 6x$",
+"$2x^3 + 6x^2$",
+"$4x^2 + 3x$",
+"$8x^2$, porque juntas todo lo que tiene equis"
+],
+"correcta": 0,
+"porque": "Los $x^2$ van con los $x^2$, y las $x$ con las $x$."
+},
+{
+"pregunta": "Reduce $2m + n + 3m - 4n$.",
+"opciones": [
+"$m - 3n$",
+"$5m + 5n$",
+"$2mn$, porque juntas todas las letras",
+"$5m - 3n$"
+],
+"correcta": 3,
+"porque": "Las $m$ van con las $m$ y las $n$ con las $n$."
+},
+{
+"pregunta": "Reduce $4x + 6x$.",
+"opciones": [
+"$10x^2$, porque las dos tienen equis",
+"$10x$",
+"$24x$",
+"$10$"
+],
+"correcta": 1,
+"porque": "Los exponentes no cambian al sumar, solo se suman los coeficientes."
+}
+],
+"regularidades-y-patrones": [
+{
+"pregunta": "¿Cuál es la regla de 4, 7, 10, 13, ...?",
+"opciones": [
+"$a_n = 4n + 3$, porque empieza en 4 y crece de 3 en 3",
+"$a_n = n + 3$",
+"$a_n = 3n + 1$",
+"$a_n = 3n$"
+],
+"correcta": 2,
+"porque": "Crece de 3 en 3, entonces lleva $3n$. Al primero le falta 1."
+},
+{
+"pregunta": "Con $a_n = 4n - 1$, ¿cuánto vale el término 6?",
+"opciones": [
+"$19$",
+"$24$, porque olvidas restar el 1",
+"$5$",
+"$23$"
+],
+"correcta": 3,
+"porque": "Sustituyes: $4(6) - 1 = 23$."
+},
+{
+"pregunta": "¿Qué número sigue en 1, 8, 15, 22, ...?",
+"opciones": [
+"$30$, porque sumas 8 en vez de 7",
+"$29$",
+"$44$",
+"$27$"
+],
+"correcta": 1,
+"porque": "Cada número crece 7, entonces $22 + 7 = 29$."
+},
+{
+"pregunta": "¿Cuál es la regla de 20, 17, 14, 11, ...?",
+"opciones": [
+"$a_n = 3n + 20$, porque empieza en 20",
+"$a_n = 3n - 23$",
+"$a_n = 20 - 3n$",
+"$a_n = 23 - 3n$"
+],
+"correcta": 3,
+"porque": "Baja de 3 en 3, así que lleva $-3n$. Con $n = 1$ debe dar 20."
+},
+{
+"pregunta": "En la sucesión $n^2$, ¿cuánto vale el término 7?",
+"opciones": [
+"$27$",
+"$72$",
+"$49$",
+"$14$, porque multiplicas 7 por 2"
+],
+"correcta": 2,
+"porque": "Elevas el lugar al cuadrado: $7 \\times 7 = 49$."
+}
+],
+"resta-con-numeros-negativos-secundaria": [
+{
+"pregunta": "Resuelve $4 - (-9)$.",
+"opciones": [
+"$5$",
+"$-13$",
+"$13$",
+"$-5$, porque restas 9 de 4"
+],
+"correcta": 2,
+"porque": "Restar un negativo es sumar su opuesto: $4 + 9 = 13$."
+},
+{
+"pregunta": "Resuelve $-3 - 7$.",
+"opciones": [
+"$4$, porque dos negativos se cancelan",
+"$-10$",
+"$-4$",
+"$10$"
+],
+"correcta": 1,
+"porque": "Quedas 3 abajo del cero y bajas 7 más."
+},
+{
+"pregunta": "Resuelve $-2 - (-8)$.",
+"opciones": [
+"$-6$",
+"$6$",
+"$10$",
+"$-10$, porque juntas los dos números"
+],
+"correcta": 1,
+"porque": "Quitar una deuda de 8 es como ganar 8: $-2 + 8 = 6$."
+},
+{
+"pregunta": "En un pueblo hay 8 °C y en otro $-4$ °C. ¿Cuál es la diferencia?",
+"opciones": [
+"$-4$ °C",
+"$4$ °C, porque restas los dos números sin signo",
+"$12$ °C",
+"$-12$ °C"
+],
+"correcta": 2,
+"porque": "Se calcula $8 - (-4) = 8 + 4 = 12$."
+},
+{
+"pregunta": "Para restar un número, ¿qué haces?",
+"opciones": [
+"Sumas su opuesto, signo cambiado",
+"Solo cambias el signo del primero",
+"Sumas el mismo número sin cambio"
+],
+"correcta": 0,
+"porque": "Restar un número es sumar su opuesto."
+}
+],
+"semejanza-de-triangulos-secundaria": [
+{
+"pregunta": "Un triángulo tiene lados 3, 5 y 6. Otro semejante tiene el lado menor de 9. ¿Cuánto mide su lado mayor?",
+"opciones": [
+"$15$",
+"$9$",
+"$12$, porque sumas 6 al lado mayor",
+"$18$"
+],
+"correcta": 3,
+"porque": "La razón es $9 \\div 3 = 3$, y $6 \\times 3 = 18$."
+},
+{
+"pregunta": "Un lado de 4 cm se amplía con razón 5. ¿Cuánto mide ahora?",
+"opciones": [
+"$20$ cm",
+"$0.8$ cm",
+"$9$ cm, porque sumas los dos números",
+"$54$ cm"
+],
+"correcta": 0,
+"porque": "Multiplicas el lado por la razón: $4 \\times 5 = 20$."
+},
+{
+"pregunta": "Si dos triángulos tienen sus tres lados proporcionales, ¿qué criterio cumplen?",
+"opciones": [
+"LLL, tres lados proporcionales",
+"AA, solo hay que mirar ángulos",
+"LAL, un ángulo entre dos lados"
+],
+"correcta": 0,
+"porque": "LLL significa tres lados proporcionales."
+},
+{
+"pregunta": "Tú mides 1.5 m y tu sombra mide 2 m. Un poste tiene sombra de 8 m. ¿Cuánto mide el poste?",
+"opciones": [
+"$9.5$ m, porque sumas las dos sombras",
+"$6$ m",
+"$10.67$ m",
+"$4$ m"
+],
+"correcta": 1,
+"porque": "$\\frac{h}{1.5} = \\frac{8}{2}$ da $h = 6$."
+},
+{
+"pregunta": "Una foto y su ampliación tienen la misma forma y distinto tamaño. ¿Son semejantes?",
+"opciones": [
+"No, el tamaño es distinto",
+"Sí, tienen la misma forma",
+"Solo si tienen igual área"
+],
+"correcta": 1,
+"porque": "Semejantes significa misma forma, aunque el tamaño cambie."
+}
+],
+"seno-coseno-y-tangente-secundaria": [
+{
+"pregunta": "Un triángulo tiene cateto opuesto de 7 e hipotenusa de 25. ¿Cuánto vale $\\sin\\theta$?",
+"opciones": [
+"$\\frac{24}{25}$, porque usas el otro cateto",
+"$\\frac{7}{25}$",
+"$\\frac{25}{7}$, porque volteas la razón",
+"$\\frac{7}{24}$"
+],
+"correcta": 1,
+"porque": "El seno es opuesto entre hipotenusa."
+},
+{
+"pregunta": "Un triángulo tiene cateto adyacente de 15 e hipotenusa de 17. ¿Cuánto vale $\\cos\\theta$?",
+"opciones": [
+"$\\frac{17}{15}$, porque pones primero la hipotenusa",
+"$\\frac{15}{8}$",
+"$\\frac{8}{17}$, porque usas el otro cateto",
+"$\\frac{15}{17}$"
+],
+"correcta": 3,
+"porque": "El coseno es adyacente entre hipotenusa."
+},
+{
+"pregunta": "Un triángulo tiene cateto opuesto de 9 y adyacente de 12. ¿Cuánto vale $\\tan\\theta$?",
+"opciones": [
+"$\\frac{3}{4}$",
+"$\\frac{21}{12}$",
+"$\\frac{4}{3}$, porque pones primero el adyacente",
+"$\\frac{9}{15}$, porque usas la hipotenusa"
+],
+"correcta": 0,
+"porque": "La tangente es $\\frac{9}{12}$, que se simplifica a $\\frac{3}{4}$."
+},
+{
+"pregunta": "Si $\\sin 30° = 0.5$ y la hipotenusa mide 12, ¿cuánto mide el cateto opuesto?",
+"opciones": [
+"$0.5$",
+"$6$",
+"$12.5$, porque sumas los dos números",
+"$24$, porque divides entre el seno"
+],
+"correcta": 1,
+"porque": "El lado se calcula multiplicando: $12 \\times 0.5 = 6$."
+},
+{
+"pregunta": "En un triángulo de lados 6, 8 y 10, el ángulo está frente al lado 6. ¿Cuánto vale $\\sin\\theta$?",
+"opciones": [
+"$\\frac{3}{5}$",
+"$\\frac{4}{5}$, porque usas el lado 8",
+"$\\frac{6}{8}$, porque usas el otro cateto",
+"$\\frac{10}{6}$"
+],
+"correcta": 0,
+"porque": "Es $\\frac{6}{10}$, que se simplifica a $\\frac{3}{5}$."
+}
+],
+"sistema-2x2-por-grafica-secundaria": [
+{
+"pregunta": "Dos rectas se cruzan en el punto $(2, 5)$. ¿Cuál es la solución del sistema?",
+"opciones": [
+"No tiene solución",
+"$x = 7$, $y = 3$, porque sumas y restas",
+"$x = 2$, $y = 5$",
+"$x = 5$, $y = 2$, porque cambias el orden"
+],
+"correcta": 2,
+"porque": "La solución es el punto donde se cruzan las rectas, con $x$ primero."
+},
+{
+"pregunta": "Grafica $y = x + 2$ y $y = -x + 6$. ¿Dónde se cruzan?",
+"opciones": [
+"$(4, 2)$, porque pones la $y$ primero",
+"$(2, 4)$",
+"$(0, 6)$",
+"$(0, 2)$, porque es donde corta una recta el eje $y$"
+],
+"correcta": 1,
+"porque": "Con $x = 2$, las dos dan $y = 4$."
+},
+{
+"pregunta": "Dos ecuaciones dibujan exactamente la misma recta. ¿Cuántas soluciones tiene el sistema?",
+"opciones": [
+"Dos, una por cada ecuación",
+"Infinitas, por ser la misma recta",
+"Ninguna, porque no se cruzan"
+],
+"correcta": 1,
+"porque": "Si es la misma recta, todos sus puntos son solución."
+},
+{
+"pregunta": "Encuentra el cruce de $y = -1$ y $x = 3$.",
+"opciones": [
+"No se cruzan",
+"$(-1, 3)$, porque pones la $y$ primero",
+"$(3, -1)$",
+"$(3, 1)$, porque quitas el menos"
+],
+"correcta": 2,
+"porque": "Una es horizontal y la otra vertical, y se cruzan en $x = 3$, $y = -1$."
+},
+{
+"pregunta": "¿$(4, 1)$ resuelve $x + y = 5$ y $x - y = 3$?",
+"opciones": [
+"Sí, cumple las dos ecuaciones",
+"Solo si lo grafico en una hoja",
+"No, porque falta un tercer dato"
+],
+"correcta": 0,
+"porque": "Sustituyes: $4 + 1 = 5$ y $4 - 1 = 3$, así que sí."
+}
+],
+"sistema-2x2-por-igualacion-secundaria": [
+{
+"pregunta": "Resuelve: $y = x + 4$; $y = 2x$.",
+"opciones": [
+"$x = 8$, $y = 4$",
+"$x = 4$, $y = 4$, porque no sustituyes en la segunda",
+"$x = 4$, $y = 8$",
+"$x = 2$, $y = 6$"
+],
+"correcta": 2,
+"porque": "Igualas: $x + 4 = 2x$ da $x = 4$. Luego $y = 8$."
+},
+{
+"pregunta": "Resuelve: $y = 5x - 2$; $y = x + 6$.",
+"opciones": [
+"$x = 1.5$, $y = 7.5$, porque divides mal",
+"$x = 8$, $y = 2$",
+"$x = 2$, $y = 8$",
+"$x = 4$, $y = 10$"
+],
+"correcta": 2,
+"porque": "Igualas: $5x - 2 = x + 6$. Queda $4x = 8$, y $x = 2$."
+},
+{
+"pregunta": "Resuelve: $x = 12 - y$; $x = y + 4$.",
+"opciones": [
+"$x = 12$, $y = 0$",
+"$x = 4$, $y = 8$, porque cambias las letras",
+"$x = 8$, $y = 4$",
+"$x = 6$, $y = 6$"
+],
+"correcta": 2,
+"porque": "Igualas: $12 - y = y + 4$. Queda $8 = 2y$, entonces $y = 4$ y $x = 8$."
+},
+{
+"pregunta": "Resuelve: $x = 2y + 1$; $x = y + 5$.",
+"opciones": [
+"$x = 9$, $y = 4$",
+"$x = 5$, $y = 0$, porque haces cero la letra",
+"$x = 7$, $y = 3$",
+"$x = 4$, $y = 9$"
+],
+"correcta": 0,
+"porque": "Igualas: $2y + 1 = y + 5$ y sale $y = 4$. Luego $x = 9$."
+},
+{
+"pregunta": "¿Qué haces primero para resolver por igualación?",
+"opciones": [
+"Sumas las dos ecuaciones sin cambiar nada antes",
+"Despejas la misma letra en las dos",
+"Multiplicas todo por cero",
+"Dibujas las dos rectas en una cuadrícula"
+],
+"correcta": 1,
+"porque": "Despejas la misma incógnita en las dos ecuaciones y luego igualas."
+}
+],
+"sistema-2x2-por-suma-y-resta-secundaria": [
+{
+"pregunta": "Resuelve: $x + y = 12$; $x - y = 2$.",
+"opciones": [
+"$x = 7$, $y = 5$",
+"$x = 10$, $y = 2$",
+"$x = 6$, $y = 6$",
+"$x = 5$, $y = 7$, porque cambias el orden"
+],
+"correcta": 0,
+"porque": "Sumas: $2x = 14$, y $x = 7$. Luego $y = 5$."
+},
+{
+"pregunta": "Resuelve: $3x + y = 11$; $x - y = 1$.",
+"opciones": [
+"$x = 1$, $y = 8$",
+"$x = 2$, $y = 5$, porque restas mal",
+"$x = 3$, $y = 2$",
+"$x = 4$, $y = -1$"
+],
+"correcta": 2,
+"porque": "Sumas: $4x = 12$, y $x = 3$. Luego $y = 2$."
+},
+{
+"pregunta": "Resuelve: $x + 4y = 14$; $x + y = 5$.",
+"opciones": [
+"$x = 10$, $y = 1$",
+"$x = 2$, $y = 3$",
+"$x = 5$, $y = 0$",
+"$x = 3$, $y = 2$, porque cambias el orden"
+],
+"correcta": 1,
+"porque": "Restas: $3y = 9$, y $y = 3$. Luego $x = 2$."
+},
+{
+"pregunta": "En la papelería, 3 lápices y 1 goma cuestan 17 pesos. 1 lápiz y 1 goma cuestan 9 pesos. ¿Cuánto cuesta un lápiz?",
+"opciones": [
+"$5$ pesos, porque es el precio de la goma",
+"$6$ pesos",
+"$4$ pesos",
+"$8$ pesos, porque es la diferencia de los totales"
+],
+"correcta": 2,
+"porque": "Restas: 2 lápices cuestan 8 pesos, así que uno cuesta 4."
+},
+{
+"pregunta": "Si las ecuaciones no tienen letras opuestas ni iguales, ¿qué haces?",
+"opciones": [
+"Multiplicas una antes de sumar o restar",
+"Dices que no tiene solución",
+"Sumas de todos modos y luego ves qué pasa",
+"Borras una de las ecuaciones"
+],
+"correcta": 0,
+"porque": "Multiplicando una ecuación logras que una letra se cancele."
+}
+],
+"sistema-2x2-por-sustitucion-secundaria": [
+{
+"pregunta": "Resuelve: $y = x + 3$; $x + y = 11$.",
+"opciones": [
+"$x = 7$, $y = 4$, porque cambias el orden",
+"$x = 3$, $y = 8$",
+"$x = 4$, $y = 7$",
+"$x = 8$, $y = 11$"
+],
+"correcta": 2,
+"porque": "Sustituyes: $x + (x + 3) = 11$. Queda $2x = 8$, y $x = 4$."
+},
+{
+"pregunta": "Resuelve: $x = 3y$; $x + y = 16$.",
+"opciones": [
+"$x = 12$, $y = 4$",
+"$x = 8$, $y = 8$",
+"$x = 4$, $y = 12$, porque cambias el orden",
+"$x = 16$, $y = 0$"
+],
+"correcta": 0,
+"porque": "Sustituyes: $3y + y = 16$. Queda $4y = 16$, y $y = 4$."
+},
+{
+"pregunta": "Resuelve: $y = 2x - 4$; $x + y = 8$.",
+"opciones": [
+"$x = 2$, $y = 0$",
+"$x = 12$, $y = 20$, porque olvidas el signo",
+"$x = 4$, $y = 4$",
+"$x = 3$, $y = 5$"
+],
+"correcta": 2,
+"porque": "Sustituyes: $x + 2x - 4 = 8$. Queda $3x = 12$, y $x = 4$."
+},
+{
+"pregunta": "Resuelve: $x + y = 7$; $2x - y = 2$.",
+"opciones": [
+"$x = 2$, $y = 5$",
+"$x = 4$, $y = 3$, porque cambias el orden",
+"$x = 5$, $y = 2$",
+"$x = 3$, $y = 4$"
+],
+"correcta": 3,
+"porque": "Despejas $y = 7 - x$ y sustituyes: $2x - 7 + x = 2$. Queda $x = 3$."
+},
+{
+"pregunta": "¿Qué haces en el método de sustitución?",
+"opciones": [
+"Igualas dos ecuaciones sin despejar nada antes",
+"Sumas las dos ecuaciones para que desaparezca una letra",
+"Dibujas las rectas en una cuadrícula y lees el cruce",
+"Despejas una letra y la metes en la otra ecuación"
+],
+"correcta": 3,
+"porque": "Cambias una letra por su valor en la otra ecuación, como cambiar un jugador."
+}
+]
+}

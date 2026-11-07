@@ -1,0 +1,522 @@
+{
+"dibujo-escritura-recordar-acuerdos-escolares-primaria": [
+{
+"pregunta": "El grupo decide: *Guardamos silencio en la biblioteca*. ¿Qué es eso?",
+"opciones": [
+"Un acuerdo",
+"Un chiste",
+"Un cuento de miedo que cuenta la maestra a todo el salón"
+],
+"correcta": 0,
+"porque": "Un acuerdo es lo que el grupo decide."
+},
+{
+"pregunta": "¿Para qué escribes o dibujas un acuerdo?",
+"opciones": [
+"Para recordarlo",
+"Para que solo lo vea una persona y nadie más",
+"Para olvidarlo"
+],
+"correcta": 0,
+"porque": "Escribirlo o dibujarlo ayuda a no olvidarlo."
+},
+{
+"pregunta": "¿Cuál es un buen acuerdo para el salón?",
+"opciones": [
+"Nadie escucha a los demás cuando habla otra persona.",
+"Levantamos la mano para hablar.",
+"Cada quien grita lo que quiere."
+],
+"correcta": 1,
+"porque": "Un acuerdo ayuda a que todos se escuchen y se respeten."
+},
+{
+"pregunta": "Para no olvidar una tarea, ¿qué recordatorio sirve?",
+"opciones": [
+"Escribirla en un papel y guardarlo donde nadie lo vea",
+"Anotarla en mi agenda",
+"Pensar que ya me acordaré"
+],
+"correcta": 1,
+"porque": "Anotar en un lugar que veas ayuda a recordar."
+},
+{
+"pregunta": "Dibujas una mano levantada y escribes *Pedimos la palabra*. ¿Qué haces?",
+"opciones": [
+"Recordar un acuerdo",
+"Inventar un juego",
+"Escribir una carta a un familiar"
+],
+"correcta": 0,
+"porque": "Dibujar y escribir el acuerdo ayuda a recordarlo."
+}
+],
+"diversidad-linguistica-primaria": [
+{
+"pregunta": "¿Qué significa *chamaco* en algunas regiones de México?",
+"opciones": [
+"Una comida muy picosa que se come en las fiestas",
+"Niño",
+"Perro"
+],
+"correcta": 1,
+"porque": "Cada región tiene sus palabras, y chamaco es niño."
+},
+{
+"pregunta": "Una compañera habla una palabra distinta a la tuya. ¿Qué haces?",
+"opciones": [
+"Le digo que su forma de hablar está mal y que debe cambiarla",
+"Me burlo de ella",
+"Muestro interés y la respeto"
+],
+"correcta": 2,
+"porque": "Todas las formas de hablar merecen respeto."
+},
+{
+"pregunta": "¿Cuál de estas es una lengua indígena de México?",
+"opciones": [
+"Latín",
+"Francés",
+"Náhuatl"
+],
+"correcta": 2,
+"porque": "El náhuatl, el maya y el zapoteco se hablan en México."
+},
+{
+"pregunta": "Tu familia hace pozole cada 15 de septiembre. ¿Qué es eso?",
+"opciones": [
+"Una lengua que hablan en otro país lejano",
+"Una costumbre",
+"Un error"
+],
+"correcta": 1,
+"porque": "Una costumbre es algo que un grupo hace siempre."
+},
+{
+"pregunta": "Una persona habla distinto a ti. ¿Cómo es su forma de hablar?",
+"opciones": [
+"Distinta y se respeta",
+"Peor que la tuya",
+"Mejor que la tuya, por eso hay que copiarla"
+],
+"correcta": 0,
+"porque": "Diferente no es mejor ni peor, es distinto."
+}
+],
+"el-abecedario-primaria": [
+{
+"pregunta": "¿Qué letra va antes de la P?",
+"opciones": [
+"O",
+"Q",
+"N"
+],
+"correcta": 0,
+"porque": "En el orden del abecedario, la O va antes de la P."
+},
+{
+"pregunta": "¿Cuál es la letra que es muy nuestra y va después de la N?",
+"opciones": [
+"Ñ",
+"O",
+"M"
+],
+"correcta": 0,
+"porque": "La Ñ está entre la N y la O."
+},
+{
+"pregunta": "¿Cuál letra va primero en el abecedario: la G o la D?",
+"opciones": [
+"La G",
+"La D",
+"Va primero la que tiene el nombre más largo"
+],
+"correcta": 1,
+"porque": "La D va antes: A, B, C, D, E, F, G."
+},
+{
+"pregunta": "¿Cómo se llama la letra M?",
+"opciones": [
+"Eme",
+"Mamá, porque así suena",
+"Ene"
+],
+"correcta": 0,
+"porque": "La M se llama eme, y suena mmm."
+},
+{
+"pregunta": "¿Qué letra va entre la R y la T?",
+"opciones": [
+"Q",
+"U",
+"S"
+],
+"correcta": 2,
+"porque": "El orden es R, S, T."
+}
+],
+"el-punto-y-la-coma-primaria": [
+{
+"pregunta": "¿Cuál oración tiene bien las comas?",
+"opciones": [
+"Compré uvas peras, y, fresas.",
+"Compré, uvas peras y fresas.",
+"Compré uvas, peras y fresas."
+],
+"correcta": 2,
+"porque": "La coma separa las cosas de la lista, y antes de la última va *y*."
+},
+{
+"pregunta": "¿Qué marca la coma?",
+"opciones": [
+"Que debes empezar con mayúscula",
+"Una pausa breve",
+"El final de la oración"
+],
+"correcta": 1,
+"porque": "La coma es un respiro, una pausa corta."
+},
+{
+"pregunta": "¿Qué marca el punto?",
+"opciones": [
+"El comienzo de una lista de cosas por contar",
+"Una pausa corta para respirar",
+"El final de una oración"
+],
+"correcta": 2,
+"porque": "El punto es un alto: aquí termina la oración."
+},
+{
+"pregunta": "En una lista de útiles, ¿qué va antes de la última cosa?",
+"opciones": [
+"Un punto y una mayúscula nueva",
+"La palabra *y*, sin coma",
+"Una coma y luego la palabra *y*"
+],
+"correcta": 1,
+"porque": "Se escribe *lápiz, goma y regla*, sin coma antes de la y."
+},
+{
+"pregunta": "Quieres parar del todo al terminar una idea. ¿Qué usas?",
+"opciones": [
+"Un punto",
+"Un espacio en blanco sin ningún signo",
+"Una coma"
+],
+"correcta": 0,
+"porque": "El punto es el alto, y la coma solo es un respiro."
+}
+],
+"elementos-sonoros-composiciones-literarias-primaria-1-2": [
+{
+"pregunta": "¿Cuál palabra rima con *gato*?",
+"opciones": [
+"mesa",
+"perro",
+"pato"
+],
+"correcta": 2,
+"porque": "Gato y pato terminan con el mismo sonido: ato."
+},
+{
+"pregunta": "¿Cuál palabra rima con *flor*?",
+"opciones": [
+"flores",
+"color",
+"casa"
+],
+"correcta": 1,
+"porque": "Flor y color terminan con el mismo sonido: or."
+},
+{
+"pregunta": "¿Cuáles dos palabras riman?",
+"opciones": [
+"perro y gato, porque los dos son animales",
+"mesa y fresa",
+"luz y cielo"
+],
+"correcta": 1,
+"porque": "Mesa y fresa terminan igual, por eso riman."
+},
+{
+"pregunta": "¿Para qué sirven el ritmo y la rima en un poema?",
+"opciones": [
+"Para que sea más largo",
+"Para que nadie lo pueda leer en voz alta",
+"Para que suene bonito"
+],
+"correcta": 2,
+"porque": "El ritmo y la rima hacen que un texto suene bonito."
+},
+{
+"pregunta": "En *sol, sol, sol brillante*, ¿qué se usa?",
+"opciones": [
+"Una pregunta",
+"Un arrullo",
+"Repetición"
+],
+"correcta": 2,
+"porque": "Decir varias veces una palabra le da fuerza."
+}
+],
+"entrevista-comunidad-primaria": [
+{
+"pregunta": "¿Cuál es una pregunta abierta?",
+"opciones": [
+"¿Qué jugaba usted de niño?",
+"¿Le gustaba jugar, sí o no, y nada más?",
+"¿Jugaba usted?"
+],
+"correcta": 0,
+"porque": "Una pregunta abierta no se responde con sí o no, y da más información."
+},
+{
+"pregunta": "Al terminar una entrevista, ¿qué haces?",
+"opciones": [
+"Rompo mis notas y me olvido de todo",
+"Agradezco a la persona su tiempo",
+"Me voy sin despedirme de nadie"
+],
+"correcta": 1,
+"porque": "Al terminar se agradece a quien te contestó."
+},
+{
+"pregunta": "Vas a entrevistar a tu abuelo. ¿Qué haces primero?",
+"opciones": [
+"Empiezo a hacer preguntas sin saludar",
+"Saludo, digo quién soy y pido permiso",
+"Me quedo callado hasta que él pregunte primero"
+],
+"correcta": 1,
+"porque": "Primero se saluda, se dice quién eres y se pide permiso."
+},
+{
+"pregunta": "¿Qué es una entrevista?",
+"opciones": [
+"Platicar con preguntas para saber algo",
+"Copiar un texto de un libro con letra muy bonita",
+"Contar un chiste a todo el grupo"
+],
+"correcta": 0,
+"porque": "En una entrevista preguntas y escuchas."
+},
+{
+"pregunta": "Mientras la persona te contesta, ¿qué haces?",
+"opciones": [
+"Me pongo a jugar con otra cosa y dejo de poner atención",
+"Hablo todo el tiempo",
+"Escucho y anoto"
+],
+"correcta": 2,
+"porque": "Para entrevistar bien hay que escuchar y anotar."
+}
+],
+"escritura-colectiva-por-dictado-primaria": [
+{
+"pregunta": "En un dictado colectivo, ¿quién escribe lo que dice el grupo?",
+"opciones": [
+"Nadie",
+"El último niño de la fila, aunque no sepa lo que se dijo",
+"La maestra"
+],
+"correcta": 2,
+"porque": "El grupo piensa y la maestra escribe."
+},
+{
+"pregunta": "¿Qué es dictar?",
+"opciones": [
+"Decir tus ideas para que otra persona las escriba",
+"Escribir tú solo con letra muy pequeña",
+"Copiar un cuento de un libro sin decir nada"
+],
+"correcta": 0,
+"porque": "Al dictar, tú hablas y otra persona escribe."
+},
+{
+"pregunta": "Dictas rápido y la maestra no alcanza a escribir. ¿Qué haces?",
+"opciones": [
+"Dicto más despacio",
+"Dicto todavía más rápido",
+"Dejo de participar y me salgo del salón"
+],
+"correcta": 0,
+"porque": "Hay que dictar despacio para que alcance a escribir."
+},
+{
+"pregunta": "¿Qué hace el grupo antes de dictar?",
+"opciones": [
+"Borra el pizarrón",
+"Guarda silencio sin decir ninguna idea y espera a que la maestra invente el texto",
+"Piensa sus ideas"
+],
+"correcta": 2,
+"porque": "Primero el grupo piensa qué quiere decir."
+},
+{
+"pregunta": "Leen el texto del grupo y encuentran un error. ¿Qué hacen?",
+"opciones": [
+"Lo dejan así",
+"Lo corrigen",
+"Rompen la hoja y empiezan de nuevo sin leer ni corregir nada"
+],
+"correcta": 1,
+"porque": "Después de leer, se corrige lo que haga falta."
+}
+],
+"escritura-de-nombres-lengua-materna-primaria": [
+{
+"pregunta": "¿Cuál nombre está bien escrito?",
+"opciones": [
+"pedro ramírez",
+"Pedro Ramírez",
+"Pedro ramírez"
+],
+"correcta": 1,
+"porque": "Nombre y apellido empiezan con mayúscula."
+},
+{
+"pregunta": "¿Cuántas letras tiene el nombre Ana?",
+"opciones": [
+"2",
+"3",
+"4"
+],
+"correcta": 1,
+"porque": "Ana tiene la A, la N y otra A: son 3 letras."
+},
+{
+"pregunta": "¿Cuántas sílabas tiene el nombre Marcos?",
+"opciones": [
+"2",
+"3",
+"6"
+],
+"correcta": 0,
+"porque": "Se dice Mar-cos, y tiene 2 golpes de voz."
+},
+{
+"pregunta": "¿Cuántas sílabas tiene el nombre Fernanda?",
+"opciones": [
+"8",
+"3",
+"2"
+],
+"correcta": 1,
+"porque": "Se dice Fer-nan-da, con 3 golpes de voz."
+},
+{
+"pregunta": "¿Qué es una sílaba?",
+"opciones": [
+"Un golpe de voz al decir una palabra",
+"Una letra mayúscula",
+"Una palabra muy larga que lleva muchas letras"
+],
+"correcta": 0,
+"porque": "Las sílabas son los golpes de voz, como Ma-rí-a."
+}
+],
+"formas-de-ser-ficcion-primaria-1-2": [
+{
+"pregunta": "En un cuento, un personaje no tiene miedo a nada. ¿Cómo es?",
+"opciones": [
+"Valiente",
+"Miedoso",
+"Cansado de jugar y de hacer todas las cosas del día"
+],
+"correcta": 0,
+"porque": "Quien no tiene miedo se llama valiente."
+},
+{
+"pregunta": "Un personaje se asusta de todo. ¿Cómo es?",
+"opciones": [
+"Valiente",
+"Muy fuerte y siempre feliz",
+"Miedoso"
+],
+"correcta": 2,
+"porque": "Se asusta de todo, así que es miedoso."
+},
+{
+"pregunta": "A un niño del cuento se le perdió su perrito y llora. ¿Qué haces si tienes empatía?",
+"opciones": [
+"Sigo jugando sin mirarlo, porque no es asunto mío",
+"Me río de él",
+"Me pongo en su lugar y lo consuelo"
+],
+"correcta": 2,
+"porque": "Empatía es entender lo que otra persona siente."
+},
+{
+"pregunta": "¿Qué te ayuda a entender a un personaje?",
+"opciones": [
+"Ponerme en sus zapatos",
+"Taparme los ojos",
+"Fijarme solo en el color de su ropa, nada más"
+],
+"correcta": 0,
+"porque": "Si me pongo en su lugar, entiendo cómo se siente."
+},
+{
+"pregunta": "¿Cómo sabes cómo es un personaje?",
+"opciones": [
+"Por lo que piensa la persona que está sentada a tu lado",
+"Por el número de hojas del libro",
+"Por lo que hace y dice"
+],
+"correcta": 2,
+"porque": "En los cuentos, las acciones muestran cómo es cada personaje."
+}
+],
+"genero-y-numero-primaria": [
+{
+"pregunta": "¿Cuál es el plural de *reloj*?",
+"opciones": [
+"relojs",
+"relojes",
+"reloj"
+],
+"correcta": 1,
+"porque": "Termina en consonante, así que se agrega es."
+},
+{
+"pregunta": "Cambia a femenino: *el perro*",
+"opciones": [
+"la perro",
+"el perra",
+"la perra"
+],
+"correcta": 2,
+"porque": "El femenino lleva la y termina con a: la perra."
+},
+{
+"pregunta": "¿Cuál palabra está en singular?",
+"opciones": [
+"libros",
+"flores",
+"libro"
+],
+"correcta": 2,
+"porque": "Singular quiere decir uno, y libro es uno."
+},
+{
+"pregunta": "Corrige: *los niños pequeña*",
+"opciones": [
+"los niños pequeños",
+"los niño pequeña",
+"las niños pequeños"
+],
+"correcta": 0,
+"porque": "El adjetivo debe combinar en género y número con el sustantivo."
+},
+{
+"pregunta": "Haz plural: *cuaderno*",
+"opciones": [
+"cuadernoes",
+"cuaderno",
+"cuadernos"
+],
+"correcta": 2,
+"porque": "Termina en vocal, así que solo se agrega s."
+}
+]
+}

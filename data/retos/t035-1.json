@@ -1,0 +1,522 @@
+{
+"grupos-sanguineos-prepa": [
+{
+"pregunta": "Una persona tiene sangre tipo AB. ¿Qué etiquetas lleva en sus glóbulos rojos?",
+"opciones": [
+"Solo la etiqueta B",
+"Las etiquetas A y B",
+"Solo la etiqueta A"
+],
+"correcta": 1,
+"porque": "AB lleva las dos etiquetas, A y B."
+},
+{
+"pregunta": "¿Qué es el Rh de la sangre?",
+"opciones": [
+"Un tipo de gen sin etiquetas",
+"Otra etiqueta, positiva o negativa",
+"Otro grupo igual al grupo O"
+],
+"correcta": 1,
+"porque": "El Rh es otra etiqueta aparte, y puede ser positivo o negativo."
+},
+{
+"pregunta": "¿Qué recibe un hijo de cada papá para ser grupo O?",
+"opciones": [
+"Una $I^B$ de cada papá",
+"Una $I^A$ de cada papá",
+"Una $i$ de cada papá"
+],
+"correcta": 2,
+"porque": "O es $ii$, así que necesita una $i$ de mamá y una de papá."
+},
+{
+"pregunta": "Un niño de grupo B positivo está herido y recibe sangre O negativo. ¿Por qué no hay problema?",
+"opciones": [
+"Esa sangre no tiene etiquetas",
+"Esa sangre es igual a la de B",
+"Esa sangre tiene todas las etiquetas"
+],
+"correcta": 0,
+"porque": "La sangre O no tiene etiquetas A ni B, así que no molesta a nadie."
+},
+{
+"pregunta": "¿Cuál es el genotipo de una persona de grupo AB?",
+"opciones": [
+"$I^AI^B$",
+"$ii$",
+"$I^AI^A$"
+],
+"correcta": 0,
+"porque": "AB recibe un gen $I^A$ de un papá y un $I^B$ del otro."
+}
+],
+"herencia-ligada-al-sexo-prepa": [
+{
+"pregunta": "Un niño tiene daltonismo por un gen en su X. ¿De quién recibió ese X?",
+"opciones": [
+"De su papá, en su X",
+"De su mamá, en su X",
+"De su papá, en su Y"
+],
+"correcta": 1,
+"porque": "Un hijo varón recibe su X de su mamá y el Y de su papá."
+},
+{
+"pregunta": "¿Por qué un hombre con un gen malo en su X sí lo nota?",
+"opciones": [
+"Su Y siempre lo cambia",
+"Tiene dos X iguales",
+"No tiene un X de repuesto"
+],
+"correcta": 2,
+"porque": "Con XY tiene un solo X, así que no hay otra receta que lo cubra."
+},
+{
+"pregunta": "¿Qué cromosomas sexuales suelen tener las mujeres?",
+"opciones": [
+"Dos cromosomas Y",
+"Dos cromosomas X",
+"Un X y un Y"
+],
+"correcta": 1,
+"porque": "Las mujeres suelen ser XX, como dos libros de recetas."
+},
+{
+"pregunta": "¿Qué pasa en la hemofilia?",
+"opciones": [
+"Los huesos no crecen",
+"La sangre no coagula bien",
+"No distingues los colores"
+],
+"correcta": 1,
+"porque": "La hemofilia es un rasgo ligado al X donde la sangre no coagula bien."
+},
+{
+"pregunta": "Una mujer tiene un X con gen malo y otro X normal. ¿Cómo se le llama?",
+"opciones": [
+"Afectada en sus dos X",
+"Hombre con un solo X",
+"Portadora del gen"
+],
+"correcta": 2,
+"porque": "Su X normal la cubre, pero puede heredar el gen malo."
+}
+],
+"herencia-y-genetica-preparatoria": [
+{
+"pregunta": "¿Cuántas copias del alelo recesivo se necesitan para notar el rasgo?",
+"opciones": [
+"Dos copias, aa",
+"Una copia, Aa",
+"Ninguna copia, AA"
+],
+"correcta": 0,
+"porque": "El recesivo solo se nota con dos copias, es decir, aa."
+},
+{
+"pregunta": "¿Quién estudió chícharos y descubrió reglas de la herencia?",
+"opciones": [
+"Charles Darwin",
+"Gregor Mendel",
+"Louis Pasteur"
+],
+"correcta": 1,
+"porque": "Mendel estudió chícharos y descubrió las reglas básicas de la herencia."
+},
+{
+"pregunta": "En la cruza Aa × Aa, ¿qué porcentaje de hijos tiene genotipo Aa?",
+"opciones": [
+"75 %",
+"50 %",
+"25 %"
+],
+"correcta": 1,
+"porque": "El cuadro de Punnett da AA, Aa, Aa y aa, o sea 2 de 4 son Aa."
+},
+{
+"pregunta": "¿Qué razón de fenotipos sale en la cruza Aa × Aa?",
+"opciones": [
+"$3:1$",
+"$2:1$",
+"$1:1$"
+],
+"correcta": 0,
+"porque": "Salen 3 con el rasgo dominante por cada 1 con el recesivo."
+},
+{
+"pregunta": "Dos padres Aa tienen 8 hijos. ¿Cuántos se esperan con el rasgo recesivo aa?",
+"opciones": [
+"2 hijos",
+"4 hijos",
+"6 hijos"
+],
+"correcta": 0,
+"porque": "Un cuarto de 8 es 2, porque 1 de cada 4 hijos es aa."
+}
+],
+"membrana-celular-y-transporte-prepa": [
+{
+"pregunta": "Una célula mete agua sin gastar energía. ¿Cómo se llama ese proceso?",
+"opciones": [
+"Bomba de sodio y potasio",
+"Exocitosis, un transporte activo",
+"Ósmosis, un transporte pasivo"
+],
+"correcta": 2,
+"porque": "La ósmosis mueve agua sin gastar energía, por eso es pasivo."
+},
+{
+"pregunta": "Hay mucha sal afuera de la célula y poca adentro. ¿Hacia dónde va por difusión?",
+"opciones": [
+"De adentro hacia afuera",
+"De afuera hacia adentro",
+"Se queda quieta en la membrana"
+],
+"correcta": 1,
+"porque": "En la difusión las sustancias van de donde hay más a donde hay menos."
+},
+{
+"pregunta": "¿Qué hace la bomba de sodio y potasio?",
+"opciones": [
+"Mueve sustancias de menos a más con ATP",
+"Mete cosas grandes envolviéndolas",
+"Mueve sustancias de más a menos sin ATP"
+],
+"correcta": 0,
+"porque": "Es transporte activo: va en contra y por eso gasta ATP."
+},
+{
+"pregunta": "¿Qué hace la endocitosis?",
+"opciones": [
+"Deja pasar solo el agua",
+"Mete cosas grandes a la célula",
+"Saca cosas grandes de la célula"
+],
+"correcta": 1,
+"porque": "Endo quiere decir adentro: la célula mete cosas grandes."
+},
+{
+"pregunta": "En la difusión facilitada, ¿qué hacen las proteínas de la membrana?",
+"opciones": [
+"Ayudan a pasar sustancias, como puertas",
+"Impiden que pase cualquier sustancia",
+"Fabrican ATP para abrir la reja"
+],
+"correcta": 0,
+"porque": "Las proteínas funcionan como puertas y ayudan a pasar sin gastar energía."
+}
+],
+"mitocondria-y-cloroplasto-prepa": [
+{
+"pregunta": "¿Cuál organelo es el panel solar de la célula vegetal?",
+"opciones": [
+"La mitocondria",
+"El núcleo",
+"El cloroplasto"
+],
+"correcta": 2,
+"porque": "El cloroplasto hace fotosíntesis, como un panel solar que usa la luz."
+},
+{
+"pregunta": "¿Para qué sirven las crestas de la mitocondria?",
+"opciones": [
+"Aumentan su superficie",
+"Guardan la clorofila",
+"Fabrican tilacoides"
+],
+"correcta": 0,
+"porque": "Las crestas son pliegues que dan más superficie para producir ATP."
+},
+{
+"pregunta": "¿Qué tienen en común la mitocondria y el cloroplasto?",
+"opciones": [
+"Solo viven en plantas",
+"ADN propio y ribosomas",
+"Clorofila y tilacoides"
+],
+"correcta": 1,
+"porque": "Ambos tienen ADN propio y ribosomas, por eso se piensa que fueron bacterias."
+},
+{
+"pregunta": "¿Tiene cloroplastos una célula de animal?",
+"opciones": [
+"Sí, para hacer luz de noche",
+"Sí, todos los animales",
+"No, solo plantas y algas"
+],
+"correcta": 2,
+"porque": "Los cloroplastos solo están en plantas y algas, no en animales."
+},
+{
+"pregunta": "¿Qué es el ATP?",
+"opciones": [
+"La moneda de energía de la célula",
+"El pigmento verde de las hojas",
+"La cubierta de la mitocondria"
+],
+"correcta": 0,
+"porque": "El ATP es la moneda de energía que la célula gasta en sus trabajos."
+}
+],
+"mitosis-y-meiosis-preparatoria": [
+{
+"pregunta": "¿Cuántas células nuevas da una mitosis?",
+"opciones": [
+"Una sola célula doble",
+"Cuatro células distintas",
+"Dos células iguales"
+],
+"correcta": 2,
+"porque": "La mitosis saca dos copias iguales de la célula."
+},
+{
+"pregunta": "Te raspas la rodilla y la piel se repara. ¿Qué división ocurre?",
+"opciones": [
+"Ninguna, la piel no se divide",
+"Meiosis, con 23 cromosomas",
+"Mitosis, con 46 cromosomas"
+],
+"correcta": 2,
+"porque": "La mitosis sirve para crecer y sanar, y conserva los 46 cromosomas."
+},
+{
+"pregunta": "¿Cuántos cromosomas tiene un espermatozoide humano?",
+"opciones": [
+"92 cromosomas",
+"23 cromosomas",
+"46 cromosomas"
+],
+"correcta": 1,
+"porque": "Los gametos tienen la mitad, 23, para que al unirse den 46."
+},
+{
+"pregunta": "¿Qué fase de la mitosis va justo después de la profase?",
+"opciones": [
+"La anafase",
+"La metafase",
+"La telofase"
+],
+"correcta": 1,
+"porque": "El orden es profase, metafase, anafase y telofase."
+},
+{
+"pregunta": "¿Qué puede pasar si la mitosis se descontrola?",
+"opciones": [
+"Gametos con la mitad de cromosomas",
+"Células que dejan de copiarse",
+"Cáncer, por crecer sin control"
+],
+"correcta": 2,
+"porque": "Si la mitosis no se frena, las células se multiplican sin control y puede haber cáncer."
+}
+],
+"mutaciones-prepa": [
+{
+"pregunta": "Una letra del ADN cambia por otra. ¿Cómo se llama esa mutación?",
+"opciones": [
+"Sustitución",
+"Inserción",
+"Deleción"
+],
+"correcta": 0,
+"porque": "En la sustitución una base se cambia por otra."
+},
+{
+"pregunta": "¿De dónde viene la anemia falciforme?",
+"opciones": [
+"De una inserción en el gen del azúcar",
+"De una deleción en el gen del color de ojos",
+"De una sustitución en el gen de la hemoglobina"
+],
+"correcta": 2,
+"porque": "La anemia falciforme viene de una sustitución en el gen de la hemoglobina."
+},
+{
+"pregunta": "¿Por qué importan las mutaciones para la evolución?",
+"opciones": [
+"Siempre matan al individuo",
+"Crean variación en la población",
+"Hacen iguales a todos los seres"
+],
+"correcta": 1,
+"porque": "Las mutaciones son la fuente de variación que usa la evolución."
+},
+{
+"pregunta": "¿Qué es una mutación neutra?",
+"opciones": [
+"Siempre da una gran ventaja",
+"No daña ni ayuda al individuo",
+"Siempre causa una enfermedad"
+],
+"correcta": 1,
+"porque": "Neutra quiere decir que no cambia nada importante."
+},
+{
+"pregunta": "¿Qué es una mutación?",
+"opciones": [
+"Un cambio en la secuencia del ADN",
+"Una proteína del ribosoma",
+"Una copia perfecta del ADN"
+],
+"correcta": 0,
+"porque": "Es como una letra mal copiada en la receta del ADN."
+}
+],
+"organelos-y-moleculas-organicas-preparatoria": [
+{
+"pregunta": "¿Qué hace el ribosoma?",
+"opciones": [
+"Fabrica las proteínas de la célula",
+"Empaca lo que sale de la célula",
+"Guarda la información de la célula"
+],
+"correcta": 0,
+"porque": "El ribosoma es la fábrica de proteínas de la célula."
+},
+{
+"pregunta": "¿Qué molécula orgánica guarda la información de la célula?",
+"opciones": [
+"Los lípidos",
+"Los ácidos nucleicos",
+"Los carbohidratos"
+],
+"correcta": 1,
+"porque": "Los ácidos nucleicos, como el ADN, guardan la información."
+},
+{
+"pregunta": "¿Cómo se llama la célula que no tiene núcleo?",
+"opciones": [
+"Eucariota",
+"Vegetal",
+"Procariota"
+],
+"correcta": 2,
+"porque": "Pro quiere decir sin núcleo, y eu quiere decir núcleo verdadero."
+},
+{
+"pregunta": "Si la célula fuera tu escuela, ¿qué organelo sería la dirección?",
+"opciones": [
+"El Golgi, que empaca",
+"El núcleo, que manda",
+"La mitocondria, que da energía"
+],
+"correcta": 1,
+"porque": "El núcleo es el jefe de la célula, como la dirección de una escuela."
+},
+{
+"pregunta": "¿Qué dan los carbohidratos a la célula?",
+"opciones": [
+"Energía",
+"Información",
+"Piezas para construir"
+],
+"correcta": 0,
+"porque": "Los carbohidratos dan energía a la célula."
+}
+],
+"origen-vida-quimiosintetica": [
+{
+"pregunta": "Según la teoría, ¿dónde se formaron las moléculas simples?",
+"opciones": [
+"En el aire con oxígeno",
+"En el mar, la sopa primitiva",
+"En la tierra seca y fría"
+],
+"correcta": 1,
+"porque": "Las moléculas simples se formaron en el mar, en la sopa primitiva."
+},
+{
+"pregunta": "¿Cuánto oxígeno libre había en la Tierra antigua?",
+"opciones": [
+"Igual que hoy",
+"Casi nada de oxígeno",
+"Más que hoy"
+],
+"correcta": 1,
+"porque": "En ese tiempo no había oxígeno libre."
+},
+{
+"pregunta": "¿Qué rodeó a las moléculas grandes al final?",
+"opciones": [
+"Una concha",
+"Una membrana",
+"Una roca"
+],
+"correcta": 1,
+"porque": "Al final las moléculas grandes se rodearon de una membrana."
+},
+{
+"pregunta": "¿En qué año hicieron su experimento Miller y Urey?",
+"opciones": [
+"En 1855",
+"En 1665",
+"En 1953"
+],
+"correcta": 2,
+"porque": "Miller y Urey imitaron la Tierra antigua en 1953."
+},
+{
+"pregunta": "¿Qué se formó justo después de las moléculas simples?",
+"opciones": [
+"Los primeros animales",
+"Moléculas grandes unidas",
+"Una membrana completa"
+],
+"correcta": 1,
+"porque": "Las moléculas simples se unieron en moléculas grandes, y luego vino la membrana."
+}
+],
+"primera-ley-de-mendel-prepa": [
+{
+"pregunta": "¿Cuántos alelos de un rasgo pasa un papá a cada hijo?",
+"opciones": [
+"Sus dos alelos juntos",
+"Ninguno de sus alelos",
+"Uno de sus dos alelos"
+],
+"correcta": 2,
+"porque": "Los alelos se separan y cada gameto recibe solo uno."
+},
+{
+"pregunta": "En chícharos, en la cruza Aa × Aa, ¿cuántos salen amarillos por cada verde?",
+"opciones": [
+"2 amarillos por 2 verdes",
+"3 amarillos por 1 verde",
+"1 amarillo por 3 verdes"
+],
+"correcta": 1,
+"porque": "Salen AA, Aa, Aa y aa: 3 amarillos y 1 verde."
+},
+{
+"pregunta": "Un chícharo AA forma gametos. ¿Qué alelo lleva cada uno?",
+"opciones": [
+"Todos llevan a",
+"Mitad A y mitad a",
+"Todos llevan A"
+],
+"correcta": 2,
+"porque": "AA solo tiene alelos A, así que todos sus gametos llevan A."
+},
+{
+"pregunta": "¿Cómo se escribe un alelo dominante?",
+"opciones": [
+"Con un número",
+"Con letra minúscula",
+"Con letra mayúscula"
+],
+"correcta": 2,
+"porque": "El dominante va con mayúscula y el recesivo con minúscula."
+},
+{
+"pregunta": "Lanzas una moneda para simular un gameto de un padre Aa. ¿Qué puede salir?",
+"opciones": [
+"A o a, una sola letra",
+"AA o aa, dos letras",
+"Aa siempre, dos letras"
+],
+"correcta": 0,
+"porque": "Cada gameto lleva solo un alelo, así que sale A o a."
+}
+]
+}

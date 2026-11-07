@@ -1,0 +1,522 @@
+{
+"suprema-corte-de-justicia-secundaria": [
+{
+"pregunta": "¿Qué tribunal decide en última instancia si algo respeta la Constitución?",
+"opciones": [
+"El Congreso de la Unión",
+"La Suprema Corte de Justicia de la Nación",
+"La Presidencia de la República"
+],
+"correcta": 1,
+"porque": "La Corte tiene la última palabra sobre la Constitución."
+},
+{
+"pregunta": "Dos autoridades pelean por quién debe resolver un asunto. ¿Quién resuelve el conflicto?",
+"opciones": [
+"Cada autoridad por su lado",
+"Un juez de tu escuela",
+"La Suprema Corte"
+],
+"correcta": 2,
+"porque": "La Corte resuelve los conflictos entre autoridades."
+},
+{
+"pregunta": "Según el texto, ¿cómo se eligen ahora las ministras y los ministros?",
+"opciones": [
+"Por herencia familiar",
+"Por sorteo entre alumnos",
+"Por voto popular"
+],
+"correcta": 2,
+"porque": "Tras la reforma de 2024 se eligen por voto popular."
+},
+{
+"pregunta": "En un partido, el árbitro final decide las dudas de las reglas. ¿A quién se parece la Corte?",
+"opciones": [
+"Al jugador estrella",
+"Al entrenador de un equipo",
+"Al árbitro final"
+],
+"correcta": 2,
+"porque": "La Corte decide cuando hay duda con las reglas."
+},
+{
+"pregunta": "¿Por qué un país necesita un árbitro final como la Corte?",
+"opciones": [
+"Para escribir una ley nueva cada día",
+"Para que nadie tenga que seguir las reglas",
+"Para que alguien resuelva las dudas sobre las reglas más importantes"
+],
+"correcta": 2,
+"porque": "Sin árbitro final, las dudas sobre la Constitución no se resolverían."
+}
+],
+"tres-poderes-de-la-union-secundaria": [
+{
+"pregunta": "Un grupo del Congreso de la Unión escribe una ley nueva. ¿Qué poder está trabajando?",
+"opciones": [
+"El Legislativo",
+"El Judicial",
+"El Ejecutivo"
+],
+"correcta": 0,
+"porque": "El Congreso es el Poder Legislativo y hace las leyes."
+},
+{
+"pregunta": "¿Qué poder aplica las leyes?",
+"opciones": [
+"El Judicial",
+"El Legislativo",
+"El Ejecutivo"
+],
+"correcta": 2,
+"porque": "El Ejecutivo, con la Presidencia, aplica las leyes."
+},
+{
+"pregunta": "¿Qué pasa cuando los tres poderes se vigilan entre sí?",
+"opciones": [
+"Ninguno hace su trabajo",
+"Se evitan abusos",
+"Uno manda sobre todos"
+],
+"correcta": 1,
+"porque": "Vigilarse evita que un poder abuse."
+},
+{
+"pregunta": "La directora de tu escuela aplica las reglas del plantel. ¿A qué poder se parece?",
+"opciones": [
+"Al Legislativo",
+"Al Judicial",
+"Al Ejecutivo"
+],
+"correcta": 2,
+"porque": "El Ejecutivo es quien aplica las leyes."
+},
+{
+"pregunta": "¿Cuáles son los tres poderes de la Unión?",
+"opciones": [
+"Alumnos, maestros y directores",
+"Federal, estatal y municipal",
+"Ejecutivo, Legislativo y Judicial"
+],
+"correcta": 2,
+"porque": "Así se divide el Supremo Poder de la Federación."
+}
+],
+"aceleracion-secundaria": [
+{
+"pregunta": "Un coche pasa de 0 a 30 m/s en 6 s. ¿Cuál es su aceleración?",
+"opciones": [
+"180 m/s²",
+"24 m/s²",
+"5 m/s²"
+],
+"correcta": 2,
+"porque": "Se divide el cambio de velocidad entre el tiempo: $\\frac{30}{6} = 5$."
+},
+{
+"pregunta": "Un niño en bici lleva 3 m/s y acelera 2 m/s² durante 4 s. ¿Qué velocidad alcanza?",
+"opciones": [
+"24 m/s",
+"8 m/s",
+"11 m/s"
+],
+"correcta": 2,
+"porque": "$v_f = 3 + 2 \\times 4 = 11$ m/s."
+},
+{
+"pregunta": "Un camión baja de 24 m/s a 12 m/s en 3 s. ¿Cuál es su aceleración?",
+"opciones": [
+"$-36$ m/s²",
+"$-4$ m/s²",
+"4 m/s²"
+],
+"correcta": 1,
+"porque": "Frena: $\\frac{12 - 24}{3} = -4$ m/s²."
+},
+{
+"pregunta": "¿Qué mide la aceleración?",
+"opciones": [
+"Cuánto pesa un objeto en movimiento",
+"Cuánto mide el camino recorrido",
+"Cuánto cambia la velocidad en cada segundo"
+],
+"correcta": 2,
+"porque": "Es el cambio de velocidad entre el tiempo."
+},
+{
+"pregunta": "En el patio arrancas a correr y cada segundo vas más rápido. ¿Qué tienes?",
+"opciones": [
+"Aceleración positiva",
+"Aceleración cero",
+"Aceleración negativa"
+],
+"correcta": 0,
+"porque": "Si ganas velocidad cada segundo, la aceleración es positiva."
+}
+],
+"caida-libre-secundaria": [
+{
+"pregunta": "¿Cuánto vale la aceleración de la gravedad cerca de la Tierra?",
+"opciones": [
+"98 m/s²",
+"9.8 m/s²",
+"0.98 m/s²"
+],
+"correcta": 1,
+"porque": "Cada segundo la velocidad aumenta 9.8 m/s."
+},
+{
+"pregunta": "Sin aire, ¿qué velocidad lleva un objeto a los 5 s de soltarlo?",
+"opciones": [
+"49 m/s",
+"9.8 m/s",
+"24.5 m/s"
+],
+"correcta": 0,
+"porque": "$v = 9.8 \\times 5 = 49$ m/s."
+},
+{
+"pregunta": "Sin aire, ¿cuánto cae un objeto en 4 s desde el reposo?",
+"opciones": [
+"156.8 m",
+"78.4 m",
+"39.2 m"
+],
+"correcta": 1,
+"porque": "$d = 4.9 \\times 4 \\times 4 = 78.4$ m."
+},
+{
+"pregunta": "Sin aire, sueltas a la vez una pluma y un martillo. ¿Qué pasa?",
+"opciones": [
+"Cae primero el martillo",
+"Caen juntos",
+"Cae primero la pluma"
+],
+"correcta": 1,
+"porque": "Sin aire, todo cae con la misma aceleración."
+},
+{
+"pregunta": "Sueltas una hoja lisa y otra hecha bolita. ¿Por qué la lisa cae más lento?",
+"opciones": [
+"La gravedad no la jala",
+"El aire la frena más",
+"Pesa mucho más"
+],
+"correcta": 1,
+"porque": "Con aire, la caída ya no es libre y la forma importa."
+}
+],
+"calor-y-sus-formas-de-propagacion-secundaria": [
+{
+"pregunta": "En la convección, ¿qué pasa con el aire o el líquido caliente?",
+"opciones": [
+"Se queda quieto abajo",
+"Sube y el frío baja",
+"Se vuelve más pesado"
+],
+"correcta": 1,
+"porque": "El caliente sube y el frío baja, y así se mueve el calor."
+},
+{
+"pregunta": "Estás junto a una fogata y sientes calor sin tocarla. ¿Cómo llega?",
+"opciones": [
+"Por contacto",
+"Por conducción",
+"Por radiación"
+],
+"correcta": 2,
+"porque": "La radiación viaja sin tocar nada."
+},
+{
+"pregunta": "¿Cuál de estos materiales es un buen aislante del calor?",
+"opciones": [
+"La madera",
+"El aluminio",
+"El cobre"
+],
+"correcta": 0,
+"porque": "Los aislantes frenan el calor, como la madera y el unicel."
+},
+{
+"pregunta": "¿Hacia dónde pasa el calor entre dos cosas con distinta temperatura?",
+"opciones": [
+"De lo frío a lo caliente",
+"De lo caliente a lo frío",
+"Se queda en el mismo lugar"
+],
+"correcta": 1,
+"porque": "El calor siempre va de lo caliente a lo frío."
+},
+{
+"pregunta": "Tocas una olla caliente y te quema la mano. ¿Cómo pasó el calor?",
+"opciones": [
+"Por radiación",
+"Por conducción",
+"Por convección"
+],
+"correcta": 1,
+"porque": "La conducción pasa el calor por contacto."
+}
+],
+"cambio-climatico-fenomenos-factores-fisica-secundaria": [
+{
+"pregunta": "¿Qué es el clima?",
+"opciones": [
+"La lluvia de mañana",
+"El promedio del tiempo de muchos años",
+"El tiempo que hace hoy"
+],
+"correcta": 1,
+"porque": "El clima se mide con promedios de muchos años."
+},
+{
+"pregunta": "¿Cuál de estos gases atrapa calor en la Tierra?",
+"opciones": [
+"El dióxido de carbono",
+"El nitrógeno",
+"El oxígeno"
+],
+"correcta": 0,
+"porque": "El dióxido de carbono y el metano atrapan parte del calor."
+},
+{
+"pregunta": "¿Cuál de estas acciones aumenta los gases que calientan la Tierra?",
+"opciones": [
+"Plantar árboles",
+"Usar energía solar",
+"Quemar petróleo"
+],
+"correcta": 2,
+"porque": "Al quemar petróleo se sueltan gases de más."
+},
+{
+"pregunta": "¿Cuál es una buena solución contra el cambio climático?",
+"opciones": [
+"Usar energías limpias",
+"Talar más bosques",
+"Quemar más petróleo"
+],
+"correcta": 0,
+"porque": "Las energías limpias lanzan menos gases que calientan la Tierra."
+},
+{
+"pregunta": "Un coche cerrado al sol se calienta mucho por dentro. ¿A qué se parece?",
+"opciones": [
+"A un refrigerador",
+"A un viento fuerte",
+"Al efecto invernadero"
+],
+"correcta": 2,
+"porque": "El coche atrapa calor, como los gases en la Tierra."
+}
+],
+"carga-electrica-y-ley-de-coulomb-secundaria": [
+{
+"pregunta": "Una carga positiva y una carga negativa se acercan. ¿Qué pasa?",
+"opciones": [
+"Se repelen",
+"Se atraen",
+"No pasa nada"
+],
+"correcta": 1,
+"porque": "Las cargas opuestas se atraen."
+},
+{
+"pregunta": "¿Qué carga tienen los protones?",
+"opciones": [
+"No tienen carga",
+"Negativa",
+"Positiva"
+],
+"correcta": 2,
+"porque": "Los protones son positivos y los electrones negativos."
+},
+{
+"pregunta": "Si duplicas la distancia entre dos cargas, ¿qué pasa con la fuerza?",
+"opciones": [
+"Baja 2 veces",
+"Sube 4 veces",
+"Baja 4 veces"
+],
+"correcta": 2,
+"porque": "La distancia está al cuadrado: $2 \\times 2 = 4$."
+},
+{
+"pregunta": "Frotas un globo en tu pelo y lo acercas a la pared. ¿Qué pasa?",
+"opciones": [
+"Sale volando",
+"Se queda pegado",
+"Se cae enseguida"
+],
+"correcta": 1,
+"porque": "El globo queda cargado y la pared lo atrae."
+},
+{
+"pregunta": "En $F = k\\frac{q_1 q_2}{r^2}$, ¿qué letra es la distancia?",
+"opciones": [
+"$r$",
+"$k$",
+"$q_1$"
+],
+"correcta": 0,
+"porque": "La letra $r$ es la distancia entre las cargas."
+}
+],
+"circuitos-en-paralelo-secundaria": [
+{
+"pregunta": "Dos resistencias de 6 $\\Omega$ van en paralelo. ¿Cuál es la resistencia total?",
+"opciones": [
+"12 $\\Omega$",
+"6 $\\Omega$",
+"3 $\\Omega$"
+],
+"correcta": 2,
+"porque": "Dos iguales en paralelo dan la mitad."
+},
+{
+"pregunta": "Una rama de 3 $\\Omega$ recibe 12 V. ¿Cuánta corriente pasa por ella?",
+"opciones": [
+"36 A",
+"4 A",
+"15 A"
+],
+"correcta": 1,
+"porque": "$I = \\frac{12}{3} = 4$ A."
+},
+{
+"pregunta": "En un circuito en paralelo se funde un foco. ¿Qué pasa con los demás?",
+"opciones": [
+"Se funden también",
+"Se apagan todos",
+"Siguen encendidos"
+],
+"correcta": 2,
+"porque": "Cada rama es un camino aparte."
+},
+{
+"pregunta": "En un circuito en paralelo, ¿qué es lo que se reparte entre las ramas?",
+"opciones": [
+"La corriente",
+"El color del cable",
+"El voltaje"
+],
+"correcta": 0,
+"porque": "El voltaje es igual y la corriente se divide."
+},
+{
+"pregunta": "En tu salón se funde una lámpara y las demás siguen prendidas. ¿Cómo están conectadas?",
+"opciones": [
+"En una sola fila",
+"En serie",
+"En paralelo"
+],
+"correcta": 2,
+"porque": "En paralelo cada lámpara tiene su propio camino."
+}
+],
+"circuitos-en-serie-secundaria": [
+{
+"pregunta": "Tres resistencias de 6 $\\Omega$, 1 $\\Omega$ y 3 $\\Omega$ van en serie. ¿Cuánto suman?",
+"opciones": [
+"3 $\\Omega$",
+"18 $\\Omega$",
+"10 $\\Omega$"
+],
+"correcta": 2,
+"porque": "En serie las resistencias se suman: $6 + 1 + 3 = 10$."
+},
+{
+"pregunta": "Una pila de 24 V alimenta un circuito en serie de 8 $\\Omega$. ¿Cuál es la corriente?",
+"opciones": [
+"192 A",
+"16 A",
+"3 A"
+],
+"correcta": 2,
+"porque": "$I = \\frac{24}{8} = 3$ A."
+},
+{
+"pregunta": "En serie, un foco usa 5 V de una pila de 12 V. ¿Cuántos volts quedan para el otro foco?",
+"opciones": [
+"5 V",
+"17 V",
+"7 V"
+],
+"correcta": 2,
+"porque": "El voltaje se reparte y suma 12: $12 - 5 = 7$."
+},
+{
+"pregunta": "¿Cuántos caminos tiene la corriente en un circuito en serie?",
+"opciones": [
+"Dos",
+"Uno solo",
+"Muchos"
+],
+"correcta": 1,
+"porque": "En serie hay un solo camino."
+},
+{
+"pregunta": "Agregas otro foco en serie a un circuito. ¿Qué pasa con la resistencia total?",
+"opciones": [
+"Se queda en cero",
+"Aumenta",
+"Disminuye"
+],
+"correcta": 1,
+"porque": "Cada foco suma su resistencia."
+}
+],
+"conservacion-de-la-energia-secundaria": [
+{
+"pregunta": "¿Qué le pasa a la energía según la ley de conservación?",
+"opciones": [
+"Se crea de la nada",
+"Se destruye",
+"Se transforma"
+],
+"correcta": 2,
+"porque": "La energía no se crea ni se destruye, solo cambia."
+},
+{
+"pregunta": "Un objeto tiene $E_c = 12$ J y $E_p = 8$ J. ¿Cuánto vale su $E_m$?",
+"opciones": [
+"96 J",
+"4 J",
+"20 J"
+],
+"correcta": 2,
+"porque": "La energía mecánica es la suma: $12 + 8 = 20$."
+},
+{
+"pregunta": "Sin fricción, un objeto arriba tiene 50 J de altura. ¿Cuánta $E_c$ tiene justo abajo?",
+"opciones": [
+"50 J",
+"25 J",
+"0 J"
+],
+"correcta": 0,
+"porque": "Sin fricción el total no cambia."
+},
+{
+"pregunta": "Frotas tus manos con fuerza y se calientan. ¿En qué se convirtió el movimiento?",
+"opciones": [
+"En luz",
+"En altura",
+"En calor"
+],
+"correcta": 2,
+"porque": "Con fricción, parte del movimiento se vuelve calor."
+},
+{
+"pregunta": "Una pelota cae desde una mesa. ¿Qué pasa con su energía de altura?",
+"opciones": [
+"Se vuelve más grande",
+"Se cambia por velocidad",
+"Desaparece sin más"
+],
+"correcta": 1,
+"porque": "Al caer, la energía de altura se cambia por movimiento."
+}
+]
+}

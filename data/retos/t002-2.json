@@ -1,0 +1,522 @@
+{
+"leer-y-escribir-fracciones-primaria": [
+{
+"pregunta": "¿Cómo se lee $\\frac{5}{6}$?",
+"opciones": [
+"Cinco sextos",
+"Cinco seisavos",
+"Seis quintos"
+],
+"correcta": 0,
+"porque": "Primero va el numerador y luego el nombre del denominador: sextos."
+},
+{
+"pregunta": "Escribe con números: tres cuartos.",
+"opciones": [
+"$\\frac{3}{4}$",
+"$\\frac{4}{3}$",
+"$\\frac{3}{3}$"
+],
+"correcta": 0,
+"porque": "Tres es el numerador, y cuartos indica el denominador 4."
+},
+{
+"pregunta": "¿Cómo se lee $\\frac{7}{12}$?",
+"opciones": [
+"Doce séptimos",
+"Siete docenas",
+"Siete doceavos"
+],
+"correcta": 2,
+"porque": "Del 11 en adelante se agrega -avos al número."
+},
+{
+"pregunta": "¿Cómo se llama el denominador 9 al leer una fracción?",
+"opciones": [
+"Nonos",
+"Novenos",
+"Nueveavos"
+],
+"correcta": 1,
+"porque": "Hasta el 10 hay nombres propios, como novenos para el 9."
+},
+{
+"pregunta": "¿Cómo se escribe con números: once treceavos?",
+"opciones": [
+"$\\frac{11}{13}$",
+"$\\frac{11}{3}$",
+"$\\frac{13}{11}$"
+],
+"correcta": 0,
+"porque": "Once es el numerador y treceavos indica el denominador 13."
+}
+],
+"medir-angulos-con-transportador-primaria": [
+{
+"pregunta": "¿Dónde va el centro del transportador al medir un ángulo?",
+"opciones": [
+"En el extremo de un lado",
+"En el vértice",
+"En la mitad de la abertura"
+],
+"correcta": 1,
+"porque": "El centro se coloca justo en la esquina, donde se juntan los lados."
+},
+{
+"pregunta": "Un ángulo se ve agudo y lees 60° y 120°. ¿Cuánto mide?",
+"opciones": [
+"60°",
+"120°",
+"180°"
+],
+"correcta": 0,
+"porque": "Un ángulo agudo mide menos de 90°, así que la lectura correcta es 60°."
+},
+{
+"pregunta": "Para dibujar un ángulo de 40°, ¿qué haces después de trazar la línea?",
+"opciones": [
+"Pones el cero en el centro de la línea y marcas el 40",
+"Marcas 40 y trazas una línea paralela",
+"Pones el centro en un extremo y marcas el 40"
+],
+"correcta": 2,
+"porque": "Se une la marca del 40 con el extremo donde está el centro."
+},
+{
+"pregunta": "Un ángulo se ve obtuso y lees 80° y 100°. ¿Cuánto mide?",
+"opciones": [
+"80°",
+"90°",
+"100°"
+],
+"correcta": 2,
+"porque": "Un obtuso mide más de 90°, y por eso corresponde 100°."
+},
+{
+"pregunta": "¿Qué lado del ángulo debes alinear con el 0° del transportador?",
+"opciones": [
+"Cualquiera de los dos lados",
+"El lado que quede más largo en el dibujo",
+"Solo el lado que está más arriba en la hoja"
+],
+"correcta": 0,
+"porque": "Uno de los lados se alinea con el cero y se lee dónde cae el otro."
+}
+],
+"multiplicacion-division-varias-cifras": [
+{
+"pregunta": "Calcula $35 \\times 12$ separando el 12 en 10 y 2.",
+"opciones": [
+"105",
+"420",
+"370"
+],
+"correcta": 1,
+"porque": "35 × 10 = 350, 35 × 2 = 70 y 350 + 70 = 420."
+},
+{
+"pregunta": "Repartes 53 dulces entre 8 niños. ¿Cuántos tocan y cuántos sobran?",
+"opciones": [
+"6 y sobran 5",
+"7 y sobran 3",
+"5 y sobran 13"
+],
+"correcta": 0,
+"porque": "8 × 6 = 48, y 53 - 48 = 5 que sobran."
+},
+{
+"pregunta": "Al hacer $29 \\div 6$, ¿cuánto vale el residuo?",
+"opciones": [
+"1",
+"4",
+"5"
+],
+"correcta": 2,
+"porque": "6 × 4 = 24 y 29 - 24 = 5."
+},
+{
+"pregunta": "Cada alumno usa 15 cuadernos en un año. ¿Cuántos usan 24 alumnos?",
+"opciones": [
+"360",
+"39",
+"315"
+],
+"correcta": 0,
+"porque": "Se separa el 24: 15 × 20 = 300 y 15 × 4 = 60, que suman 360."
+},
+{
+"pregunta": "Al dividir, te sale residuo 7 con divisor 6. ¿Qué significa?",
+"opciones": [
+"Que el cociente debe aumentar",
+"Que el divisor debe cambiar a 7",
+"Que el resultado ya es correcto"
+],
+"correcta": 0,
+"porque": "El residuo debe ser menor que el divisor; si no, cabía otro reparto."
+}
+],
+"multiplicar-por-10-100-y-1000-primaria": [
+{
+"pregunta": "Calcula 53 × 100.",
+"opciones": [
+"5 300",
+"53 100",
+"530"
+],
+"correcta": 0,
+"porque": "Se agregan dos ceros porque el multiplicador tiene dos ceros."
+},
+{
+"pregunta": "Calcula 280 × 10.",
+"opciones": [
+"280",
+"28 010",
+"2 800"
+],
+"correcta": 2,
+"porque": "Se agrega un cero al final: 280 queda como 2 800."
+},
+{
+"pregunta": "Calcula 9 × 1000.",
+"opciones": [
+"9 000",
+"900",
+"1 009"
+],
+"correcta": 0,
+"porque": "Se agregan tres ceros al 9."
+},
+{
+"pregunta": "Calcula 50 × 400.",
+"opciones": [
+"20 000",
+"2 000",
+"200"
+],
+"correcta": 0,
+"porque": "Multiplicas 5 × 4 = 20 y agregas los 3 ceros que hay."
+},
+{
+"pregunta": "En la escuela, 100 alumnos pagan 5 pesos cada uno. ¿Cuántos pesos juntan?",
+"opciones": [
+"50",
+"500",
+"105"
+],
+"correcta": 1,
+"porque": "5 × 100 se calcula agregando dos ceros al 5."
+}
+],
+"multiplicar-por-tres-cifras-primaria": [
+{
+"pregunta": "Resuelve 213 × 112.",
+"opciones": [
+"2 556",
+"23 856",
+"23 750"
+],
+"correcta": 1,
+"porque": "426 + 2 130 + 21 300 = 23 856."
+},
+{
+"pregunta": "Resuelve 150 × 204.",
+"opciones": [
+"30 150",
+"30 600",
+"3 060"
+],
+"correcta": 1,
+"porque": "150 × 4 = 600 y 150 × 200 = 30 000, que suman 30 600."
+},
+{
+"pregunta": "Al multiplicar por las centenas, ¿cuántos ceros pones antes de empezar?",
+"opciones": [
+"Ninguno",
+"Uno",
+"Dos"
+],
+"correcta": 2,
+"porque": "Las centenas se mueven dos lugares a la izquierda."
+},
+{
+"pregunta": "Una fábrica hace 130 piezas al día. ¿Cuántas hace en 120 días?",
+"opciones": [
+"15 130",
+"15 600",
+"1 560"
+],
+"correcta": 1,
+"porque": "130 × 120 = 130 × 100 + 130 × 20 = 13 000 + 2 600."
+},
+{
+"pregunta": "La escuela tiene 5 horas de clase al día durante 200 días. ¿Cuántas horas son?",
+"opciones": [
+"205",
+"100",
+"1 000"
+],
+"correcta": 2,
+"porque": "5 × 200 = 1 000 porque 5 × 2 = 10 y agregas dos ceros."
+}
+],
+"multiplicar-por-un-numero-de-dos-cifras-primaria": [
+{
+"pregunta": "Resuelve 34 × 12.",
+"opciones": [
+"378",
+"408",
+"68"
+],
+"correcta": 1,
+"porque": "34 × 2 = 68 y 34 × 10 = 340, que suman 408."
+},
+{
+"pregunta": "Resuelve 45 × 21.",
+"opciones": [
+"945",
+"90",
+"135"
+],
+"correcta": 0,
+"porque": "45 × 1 = 45 y 45 × 20 = 900, que suman 945."
+},
+{
+"pregunta": "Estimas 38 × 21 y obtienes cerca de 800. Tu resultado fue 798. ¿Es razonable?",
+"opciones": [
+"Sí, porque 40 × 20 = 800",
+"No, porque debía dar cerca de 80",
+"No, porque 798 es un número impar"
+],
+"correcta": 0,
+"porque": "Redondeando, 38 × 21 es casi 40 × 20, que da 800."
+},
+{
+"pregunta": "La escuela tiene 14 salones con 25 sillas cada uno. ¿Cuántas sillas hay?",
+"opciones": [
+"39",
+"350",
+"250"
+],
+"correcta": 1,
+"porque": "25 × 4 = 100 y 25 × 10 = 250, que suman 350."
+},
+{
+"pregunta": "Al multiplicar por las decenas, ¿qué pones en el renglón antes de calcular?",
+"opciones": [
+"Dos ceros",
+"Un uno",
+"Un cero"
+],
+"correcta": 2,
+"porque": "Las decenas se mueven un lugar, y el cero cuida ese lugar."
+}
+],
+"multiplicar-por-un-numero-de-una-cifra-primaria": [
+{
+"pregunta": "Resuelve 124 × 5.",
+"opciones": [
+"6 020",
+"520",
+"620"
+],
+"correcta": 2,
+"porque": "5 × 4 = 20, 5 × 2 = 10 más 2 llevadas es 12, y 5 × 1 + 1 = 6."
+},
+{
+"pregunta": "Resuelve 76 × 8.",
+"opciones": [
+"608",
+"548",
+"568"
+],
+"correcta": 0,
+"porque": "8 × 6 = 48, escribes 8 y llevas 4; 8 × 7 = 56 más 4 es 60."
+},
+{
+"pregunta": "Compras 4 cuadernos de 35 pesos cada uno. ¿Cuánto pagas?",
+"opciones": [
+"120 pesos",
+"140 pesos",
+"39 pesos"
+],
+"correcta": 1,
+"porque": "4 × 35 = 4 × 30 + 4 × 5 = 120 + 20."
+},
+{
+"pregunta": "Resuelve 207 × 4.",
+"opciones": [
+"828",
+"8 028",
+"808"
+],
+"correcta": 0,
+"porque": "4 × 7 = 28, escribes 8 y llevas 2; 4 × 0 + 2 = 2; 4 × 2 = 8."
+},
+{
+"pregunta": "Al hacer 58 × 4, ¿qué pasa con 4 × 8 = 32?",
+"opciones": [
+"Escribes 2 y llevas 3",
+"Escribes 32 y no llevas nada",
+"Escribes 3 y llevas 2"
+],
+"correcta": 0,
+"porque": "Las unidades se quedan y las decenas se llevan a la siguiente columna."
+}
+],
+"multiplos-y-divisores-primaria": [
+{
+"pregunta": "¿Cuáles son los primeros cuatro múltiplos de 5?",
+"opciones": [
+"5, 10, 15 y 20",
+"1, 5, 10 y 15",
+"5, 6, 7 y 8"
+],
+"correcta": 0,
+"porque": "Los múltiplos salen de multiplicar 5 por 1, 2, 3 y 4."
+},
+{
+"pregunta": "¿Cuáles son todos los divisores de 16?",
+"opciones": [
+"1, 2, 4 y 8",
+"1, 2, 4, 8 y 16",
+"2, 4, 8 y 16"
+],
+"correcta": 1,
+"porque": "Cada divisor entra exacto, y también el 1 y el mismo 16."
+},
+{
+"pregunta": "¿El 7 es divisor de 42?",
+"opciones": [
+"No, porque 42 es mayor que 7",
+"No, porque 42 no termina en 7",
+"Sí, porque 7 × 6 = 42"
+],
+"correcta": 2,
+"porque": "Un divisor entra exactamente en el número, sin dejar residuo."
+},
+{
+"pregunta": "¿Es 28 múltiplo de 5?",
+"opciones": [
+"Sí, porque 2 + 8 da 10",
+"Sí, porque 28 es mayor que 5",
+"No, no aparece en la tabla del 5"
+],
+"correcta": 2,
+"porque": "Los múltiplos de 5 terminan en 0 o en 5."
+},
+{
+"pregunta": "Un grupo de 12 niños forma equipos iguales. ¿Cuál reparto sirve?",
+"opciones": [
+"5 equipos y sobran 2 niños",
+"4 equipos de 3 niños",
+"7 equipos con 2 niños en cada uno"
+],
+"correcta": 1,
+"porque": "12 ÷ 4 = 3 exacto, porque 4 es divisor de 12."
+}
+],
+"numeros-grandes-y-fracciones": [
+{
+"pregunta": "¿Cuál fracción es mayor, $\\frac{6}{9}$ o $\\frac{4}{9}$?",
+"opciones": [
+"Son iguales",
+"$\\frac{4}{9}$",
+"$\\frac{6}{9}$"
+],
+"correcta": 2,
+"porque": "Con el mismo denominador, gana el numerador mayor."
+},
+{
+"pregunta": "Escribe con cifras: cuarenta mil trescientos ocho.",
+"opciones": [
+"40 308",
+"40 380",
+"4 308"
+],
+"correcta": 0,
+"porque": "Cuarenta mil es 40 000 y trescientos ocho es 308."
+},
+{
+"pregunta": "Un listón se corta en 10 partes iguales y usas 7. ¿Qué fracción usaste?",
+"opciones": [
+"$\\frac{7}{3}$",
+"$\\frac{7}{10}$",
+"$\\frac{10}{7}$"
+],
+"correcta": 1,
+"porque": "Abajo van las partes totales y arriba las que tomas."
+},
+{
+"pregunta": "En $\\frac{5}{9}$, ¿cuál número dice cuántas partes tomas?",
+"opciones": [
+"5",
+"9",
+"14"
+],
+"correcta": 0,
+"porque": "El numerador, el de arriba, dice cuántas partes tomas."
+},
+{
+"pregunta": "¿Cómo se separa en grupos el número 1250000?",
+"opciones": [
+"125 000 0",
+"1 250 000",
+"12 500 00"
+],
+"correcta": 1,
+"porque": "Se separa de tres en tres, de derecha a izquierda."
+}
+],
+"numeros-hasta-los-millones-primaria": [
+{
+"pregunta": "¿Cómo se lee 45 300?",
+"opciones": [
+"Cuarenta y cinco millones trescientos",
+"Cuarenta y cinco mil trescientos",
+"Cuatrocientos cincuenta y tres mil"
+],
+"correcta": 1,
+"porque": "El 45 es el grupo de miles y 300 es el último grupo."
+},
+{
+"pregunta": "Escribe con número: tres millones doscientos mil.",
+"opciones": [
+"3 000 200",
+"3 200 000",
+"320 000"
+],
+"correcta": 1,
+"porque": "Tres millones es 3 000 000 y doscientos mil es 200 000."
+},
+{
+"pregunta": "¿Cómo se lee 906 004?",
+"opciones": [
+"Novecientos sesenta mil cuatro",
+"Novecientos seis mil cuatro",
+"Nueve millones seis mil cuatro"
+],
+"correcta": 1,
+"porque": "El primer grupo es 906 mil y el segundo es 004."
+},
+{
+"pregunta": "¿Qué número sigue después de 999 999?",
+"opciones": [
+"10 000",
+"999 1000",
+"1 000 000"
+],
+"correcta": 2,
+"porque": "Después de 999 999 empieza el grupo de los millones."
+},
+{
+"pregunta": "Escribe con número: un millón cincuenta mil.",
+"opciones": [
+"1 500 000",
+"150 000",
+"1 050 000"
+],
+"correcta": 2,
+"porque": "Un millón es 1 000 000 y cincuenta mil es 50 000."
+}
+]
+}

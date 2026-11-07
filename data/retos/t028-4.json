@@ -1,0 +1,470 @@
+{
+"lenguaje-algebraico-preparatoria": [
+{
+"pregunta": "Escribe con letras: el doble de un número más 4.",
+"opciones": [
+"$2x+4$",
+"$2x$",
+"$x+4$"
+],
+"correcta": 0,
+"porque": "El doble es $2x$ y luego se suma 4."
+},
+{
+"pregunta": "Evalúa $3x+1$ cuando $x=5$.",
+"opciones": [
+"18",
+"16",
+"15"
+],
+"correcta": 1,
+"porque": "Cambias la letra por 5: $3\\cdot5+1=16$."
+},
+{
+"pregunta": "Compras 4 cuadernos de $c$ pesos cada uno. ¿Cuánto pagas?",
+"opciones": [
+"$4c$",
+"$c\\div4$",
+"$c+4$"
+],
+"correcta": 0,
+"porque": "Cada cuaderno cuesta $c$, y 4 cuadernos se multiplican."
+},
+{
+"pregunta": "Escribe con letras: mi edad $e$ más 3 años.",
+"opciones": [
+"$e+3$",
+"$e-3$",
+"$3e$"
+],
+"correcta": 0,
+"porque": "Más 3 años significa sumar 3 a tu edad."
+},
+{
+"pregunta": "Escribe con letras: un número menos 6.",
+"opciones": [
+"$x-6$",
+"$6x$",
+"$6-x$"
+],
+"correcta": 0,
+"porque": "Primero va el número y luego se le resta 6."
+}
+],
+"monomios-y-binomios-preparatoria": [
+{
+"pregunta": "Calcula $4x+6x$.",
+"opciones": [
+"$10x$",
+"$10$",
+"$24$"
+],
+"correcta": 0,
+"porque": "Son términos semejantes: 4 manzanas y 6 manzanas son 10 manzanas."
+},
+{
+"pregunta": "Calcula $3x\\cdot4x^2$.",
+"opciones": [
+"$7x$",
+"$12x$",
+"$12x^3$"
+],
+"correcta": 2,
+"porque": "Multiplicas $3\\cdot4=12$ y sumas los exponentes: $1+2=3$."
+},
+{
+"pregunta": "Calcula $5(x-2)$.",
+"opciones": [
+"$x-10$",
+"$5x$",
+"$5x-10$"
+],
+"correcta": 2,
+"porque": "El 5 multiplica a los dos términos del paréntesis."
+},
+{
+"pregunta": "Calcula $(x+2)(x+6)$.",
+"opciones": [
+"$x^2+8x+12$",
+"$x^2+12$",
+"$x^2+8x$"
+],
+"correcta": 0,
+"porque": "Cada uno con cada uno: $x^2+6x+2x+12$."
+},
+{
+"pregunta": "¿Se pueden juntar $3x$ y $2y$ en un solo término?",
+"opciones": [
+"No, porque no son semejantes",
+"Sí, porque da $5xy$ siempre",
+"Sí, porque da $5x$ siempre"
+],
+"correcta": 0,
+"porque": "Es como sumar manzanas con peras: no se puede."
+}
+],
+"multiplicar-binomios-prepa": [
+{
+"pregunta": "Desarrolla $(x+3)(x-4)$.",
+"opciones": [
+"$x-12$",
+"$x^2-x-12$",
+"$x^2-12$"
+],
+"correcta": 1,
+"porque": "$x^2-4x+3x-12$ y los de en medio dan $-x$."
+},
+{
+"pregunta": "Desarrolla $(2x+1)(x+3)$.",
+"opciones": [
+"$2x^2+7x+4$",
+"$2x^2+7x+3$",
+"$2x^2+4x+3$"
+],
+"correcta": 1,
+"porque": "$2x^2+6x+x+3$ y los de en medio suman $7x$."
+},
+{
+"pregunta": "Desarrolla $(4x-2)(x+1)$.",
+"opciones": [
+"$4x^2-2x-2$",
+"$4x^2+2x-2$",
+"$4x^2+6x-2$"
+],
+"correcta": 1,
+"porque": "$4x^2+4x-2x-2$ y los de en medio dan $2x$."
+},
+{
+"pregunta": "Desarrolla $(a+b)(a+3b)$.",
+"opciones": [
+"$a^2+4ab+b^2$",
+"$a^2+3ab+3b^2$",
+"$a^2+4ab+3b^2$"
+],
+"correcta": 2,
+"porque": "Los dos de en medio son $3ab$ y $ab$, y suman $4ab$."
+},
+{
+"pregunta": "¿Cuántos productos haces al multiplicar dos binomios?",
+"opciones": [
+"Cuatro, uno por cada saludo",
+"Tres, uno por cada letra",
+"Dos, uno por cada binomio"
+],
+"correcta": 0,
+"porque": "Cada término del primero saluda a cada uno del segundo."
+}
+],
+"multiplicar-y-dividir-fracciones-algebraicas-prepa": [
+{
+"pregunta": "Multiplica $\\frac{5}{x}\\cdot\\frac{x^2}{10}$.",
+"opciones": [
+"$\\frac{x}{5}$",
+"$\\frac{2}{x}$",
+"$\\frac{x}{2}$"
+],
+"correcta": 2,
+"porque": "Arriba queda $5x^2$, abajo $10x$, y se cancela $5x$."
+},
+{
+"pregunta": "Multiplica $\\frac{x+2}{3}\\cdot\\frac{6}{x+2}$.",
+"opciones": [
+"6",
+"$x+2$",
+"2"
+],
+"correcta": 2,
+"porque": "Se cancela $x+2$ y queda $\\frac{6}{3}=2$."
+},
+{
+"pregunta": "Divide $\\frac{x}{2}\\div\\frac{x^2}{6}$.",
+"opciones": [
+"$\\frac{3}{x}$",
+"$3x$",
+"$\\frac{x}{3}$"
+],
+"correcta": 0,
+"porque": "Volteas la segunda y queda $\\frac{x}{2}\\cdot\\frac{6}{x^2}=\\frac{3}{x}$."
+},
+{
+"pregunta": "Para dividir fracciones, ¿qué haces con la segunda?",
+"opciones": [
+"La volteas y multiplicas",
+"La elevas al cuadrado",
+"La restas de la primera"
+],
+"correcta": 0,
+"porque": "Dividir es multiplicar por la fracción volteada."
+},
+{
+"pregunta": "Cancela en $\\frac{3\\times7}{7\\times4}$.",
+"opciones": [
+"$\\frac{3}{4}$",
+"$\\frac{7}{4}$",
+"$\\frac{3}{7}$"
+],
+"correcta": 0,
+"porque": "El 7 multiplica arriba y abajo, así que se cancela."
+}
+],
+"polinomios-trinomios-preparatoria": [
+{
+"pregunta": "Suma $(2x^2+x+3)+(x^2+5x+1)$.",
+"opciones": [
+"$3x^2+6x+4$",
+"$3x^4+6x+4$",
+"$3x^2+5x+4$"
+],
+"correcta": 0,
+"porque": "Juntas términos semejantes: $2x^2+x^2$, $x+5x$ y $3+1$."
+},
+{
+"pregunta": "Resta $(4x+7)-(x+2)$.",
+"opciones": [
+"$3x+5$",
+"$3x$",
+"$5x$"
+],
+"correcta": 0,
+"porque": "Al restar cambias los signos del segundo: $4x+7-x-2$."
+},
+{
+"pregunta": "Multiplica $(x+3)(x+5)$.",
+"opciones": [
+"$x^2+15x+8$",
+"$x^2+8x+8$",
+"$x^2+8x+15$"
+],
+"correcta": 2,
+"porque": "Cada uno con cada uno: $x^2+5x+3x+15$."
+},
+{
+"pregunta": "Un patio mide $(x+4)$ por $(x+6)$ metros. ¿Cuál es su área?",
+"opciones": [
+"$x^2+10x+24$",
+"$x^2+24x+10$",
+"$x^2+10x+10$"
+],
+"correcta": 0,
+"porque": "El área es largo por ancho: $x^2+6x+4x+24$."
+},
+{
+"pregunta": "¿Cuáles de estos términos son semejantes?",
+"opciones": [
+"$3x$ y $3y$",
+"$3x^2$ y $5x^2$",
+"$3x^2$ y $5x$"
+],
+"correcta": 1,
+"porque": "Semejantes tienen la misma letra y el mismo exponente."
+}
+],
+"simplificar-fracciones-algebraicas-prepa": [
+{
+"pregunta": "Simplifica $\\frac{4x+8}{x+2}$.",
+"opciones": [
+"$x$, una letra",
+"4, un número",
+"$x+2$, un binomio"
+],
+"correcta": 1,
+"porque": "Arriba sale $4(x+2)$ y se cancela $x+2$."
+},
+{
+"pregunta": "Simplifica $\\frac{x^2-25}{x+5}$.",
+"opciones": [
+"$x+5$",
+"$x-5$",
+"$x^2-5$"
+],
+"correcta": 1,
+"porque": "Arriba es $(x+5)(x-5)$ y se cancela $x+5$."
+},
+{
+"pregunta": "Simplifica $\\frac{x^2+2x}{x^2-4}$.",
+"opciones": [
+"$\\frac{x}{x+2}$",
+"$\\frac{x}{x-2}$",
+"$\\frac{2x}{4}$"
+],
+"correcta": 1,
+"porque": "Queda $\\frac{x(x+2)}{(x+2)(x-2)}$ y se cancela $x+2$."
+},
+{
+"pregunta": "¿Se puede simplificar $\\frac{x+5}{x}$?",
+"opciones": [
+"Sí, porque da el número 5",
+"Sí, porque da el número 1",
+"No, porque el 5 suma, no multiplica"
+],
+"correcta": 2,
+"porque": "Solo se cancela lo que multiplica, nunca lo que suma."
+},
+{
+"pregunta": "Simplifica $\\frac{10}{15}$ y di qué cancelaste.",
+"opciones": [
+"$\\frac{3}{2}$ cancelando 5",
+"$\\frac{2}{3}$ cancelando 5",
+"$\\frac{5}{3}$ cancelando 2"
+],
+"correcta": 1,
+"porque": "Sacas el 5 que está arriba y abajo: $\\frac{2\\cdot5}{3\\cdot5}$."
+}
+],
+"suma-y-diferencia-de-cubos-prepa": [
+{
+"pregunta": "Factoriza $x^3+64$.",
+"opciones": [
+"$(x+4)(x^2+4x+16)$",
+"$(x-4)(x^2-4x+16)$",
+"$(x+4)(x^2-4x+16)$"
+],
+"correcta": 2,
+"porque": "Las raíces son $x$ y 4, y el de en medio lleva el signo contrario."
+},
+{
+"pregunta": "Factoriza $y^3-8$.",
+"opciones": [
+"$(y+2)(y^2+2y+4)$",
+"$(y-2)(y^2-2y+4)$",
+"$(y-2)(y^2+2y+4)$"
+],
+"correcta": 2,
+"porque": "El primero igual, el de en medio contrario y el último más."
+},
+{
+"pregunta": "Factoriza $27m^3+8$.",
+"opciones": [
+"$(3m+2)(9m^2-6m+4)$",
+"$(3m+2)(9m^2+6m+4)$",
+"$(3m-2)(9m^2-6m+4)$"
+],
+"correcta": 0,
+"porque": "Las raíces son $3m$ y 2."
+},
+{
+"pregunta": "En $a^3+b^3$, ¿cómo es el segundo factor?",
+"opciones": [
+"$a^2-ab+b^2$",
+"$a^2-2ab+b^2$",
+"$a^2+ab+b^2$"
+],
+"correcta": 0,
+"porque": "En la suma, el término de en medio lleva menos."
+},
+{
+"pregunta": "¿Cuál es la raíz cúbica de 64?",
+"opciones": [
+"16",
+"8",
+"4"
+],
+"correcta": 2,
+"porque": "Porque $4\\cdot4\\cdot4=64$."
+}
+],
+"sumar-y-restar-fracciones-algebraicas-prepa": [
+{
+"pregunta": "Suma $\\frac{4}{x}+\\frac{5}{x}$.",
+"opciones": [
+"$\\frac{9}{2x}$",
+"$\\frac{9}{x}$",
+"$\\frac{20}{x}$"
+],
+"correcta": 1,
+"porque": "Con el mismo denominador, solo se suma arriba."
+},
+{
+"pregunta": "Resta $\\frac{7}{x+2}-\\frac{3}{x+2}$.",
+"opciones": [
+"$\\frac{4}{x}$",
+"$\\frac{4}{x+2}$",
+"$\\frac{10}{x+2}$"
+],
+"correcta": 1,
+"porque": "Es el mismo denominador, así que se resta arriba: $7-3=4$."
+},
+{
+"pregunta": "Suma $\\frac{1}{x}+\\frac{3}{x+1}$.",
+"opciones": [
+"$\\frac{4}{2x+1}$",
+"$\\frac{4x+3}{x(x+1)}$",
+"$\\frac{4x+1}{x(x+1)}$"
+],
+"correcta": 2,
+"porque": "Arriba queda $(x+1)+3x=4x+1$, y abajo $x(x+1)$."
+},
+{
+"pregunta": "Si los denominadores son distintos, ¿qué buscas primero?",
+"opciones": [
+"Que arriba sean iguales",
+"Que se resten los de abajo",
+"Un denominador común"
+],
+"correcta": 2,
+"porque": "Solo se suman pedazos del mismo tamaño."
+},
+{
+"pregunta": "Suma $\\frac{1}{4}+\\frac{1}{3}$ con pedazos de papel.",
+"opciones": [
+"$\\frac{2}{12}$",
+"$\\frac{7}{12}$",
+"$\\frac{2}{7}$"
+],
+"correcta": 1,
+"porque": "Los pedazos son doceavos: $\\frac{3}{12}+\\frac{4}{12}$."
+}
+],
+"trinomio-ax2-bx-c-prepa": [
+{
+"pregunta": "Factoriza $2x^2+5x+2$.",
+"opciones": [
+"$(2x+1)(x+2)$",
+"$(2x+2)(x+1)$",
+"$(2x-1)(x-2)$"
+],
+"correcta": 0,
+"porque": "$ac=4$, números 4 y 1: $2x^2+4x+x+2$."
+},
+{
+"pregunta": "Factoriza $3x^2+7x+2$.",
+"opciones": [
+"$(3x-1)(x-2)$",
+"$(3x+1)(x+2)$",
+"$(3x+2)(x+1)$"
+],
+"correcta": 1,
+"porque": "$ac=6$, números 6 y 1: $3x^2+6x+x+2$."
+},
+{
+"pregunta": "Factoriza $5x^2+8x+3$.",
+"opciones": [
+"$(x+3)(5x+1)$",
+"$(5x+1)(5x+3)$",
+"$(x+1)(5x+3)$"
+],
+"correcta": 2,
+"porque": "$ac=15$, números 5 y 3: $5x^2+5x+3x+3$."
+},
+{
+"pregunta": "Factoriza $2x^2-3x-2$.",
+"opciones": [
+"$(2x+1)(x-2)$",
+"$(2x+1)(x+2)$",
+"$(2x-1)(x+2)$"
+],
+"correcta": 0,
+"porque": "$ac=-4$, números $-4$ y 1: $2x^2-4x+x-2$."
+},
+{
+"pregunta": "En $6x^2+5x+1$, ¿qué dos números multiplican 6 y suman 5?",
+"opciones": [
+"2 y 3",
+"1 y 6",
+"1 y 5"
+],
+"correcta": 0,
+"porque": "$2\\cdot3=6$ y $2+3=5$."
+}
+]
+}

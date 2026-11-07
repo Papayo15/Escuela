@@ -35,7 +35,8 @@ create index if not exists temas_busqueda on temas using gin (busqueda gin_trgm_
 create index if not exists nodos_busqueda on nodos using gin (busqueda gin_trgm_ops);
 `;
 
-let conexion: Promise<Bd> | undefined;
+// En globalThis: cada ruta de Next se empaqueta aparte, y sin Neon todas deben ver la misma base en memoria.
+const global = globalThis as typeof globalThis & { __bdEscuela?: Promise<Bd> };
 
 async function abrirMemoria(): Promise<Bd> {
   const { PGlite } = await import("@electric-sql/pglite");
@@ -63,10 +64,10 @@ function abrirNeon(url: string): Bd {
 }
 
 export function bd(): Promise<Bd> {
-  conexion ??= process.env.DATABASE_URL
+  global.__bdEscuela ??= process.env.DATABASE_URL
     ? Promise.resolve(abrirNeon(process.env.DATABASE_URL))
     : abrirMemoria();
-  return conexion;
+  return global.__bdEscuela;
 }
 
 /** Crea o actualiza las tablas en Neon. Sin Neon, la biblioteca vive en memoria. */

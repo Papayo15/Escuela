@@ -1,0 +1,522 @@
+{
+"balanceo-algebraico-prepa": [
+{
+"pregunta": "En $a\\ce{H2} + b\\ce{Cl2} \\to c\\ce{HCl}$, ¿qué ecuación sale del hidrógeno?",
+"opciones": [
+"$a = 2c$",
+"$a = c + 2$",
+"$2a = c$"
+],
+"correcta": 2,
+"porque": "H2 tiene 2 átomos, y cada HCl tiene 1."
+},
+{
+"pregunta": "En $a\\ce{H2} + b\\ce{Cl2} \\to c\\ce{HCl}$, ¿qué ecuación sale del cloro?",
+"opciones": [
+"$2b = c$",
+"$b = c + 2$",
+"$b = 2c$"
+],
+"correcta": 0,
+"porque": "Cl2 tiene 2 átomos, y cada HCl tiene 1."
+},
+{
+"pregunta": "Si $a = 4$ en la ecuación $3a = 2c$, ¿cuánto vale $c$?",
+"opciones": [
+"12",
+"8",
+"6"
+],
+"correcta": 2,
+"porque": "Sale $3 \\times 4 = 12$, y $12 \\div 2 = 6$."
+},
+{
+"pregunta": "¿Qué se le asigna a cada compuesto de la ecuación?",
+"opciones": [
+"Un color",
+"Un peso",
+"Una letra"
+],
+"correcta": 2,
+"porque": "A cada coeficiente desconocido se le pone una letra."
+},
+{
+"pregunta": "¿Qué se plantea por cada elemento?",
+"opciones": [
+"Un dibujo",
+"Una ecuación",
+"Un promedio"
+],
+"correcta": 1,
+"porque": "Se cuenta cada elemento de los dos lados y se iguala."
+}
+],
+"balanceo-por-oxido-reduccion-prepa": [
+{
+"pregunta": "Un átomo pasa de carga 0 a +3. ¿Cuántos electrones perdió?",
+"opciones": [
+"3",
+"0",
+"2"
+],
+"correcta": 0,
+"porque": "Cada carga positiva significa un electrón perdido."
+},
+{
+"pregunta": "Uno pierde 2 electrones y otro gana 3. ¿Cuál es el número más chico donde caben?",
+"opciones": [
+"5",
+"1",
+"6"
+],
+"correcta": 2,
+"porque": "Son 6, porque $2 \\times 3 = 6$."
+},
+{
+"pregunta": "Uno pierde 4 electrones y otro gana 6. ¿Cuál es el menor número donde caben?",
+"opciones": [
+"10",
+"12",
+"24"
+],
+"correcta": 1,
+"porque": "El menor múltiplo de 4 y de 6 es 12."
+},
+{
+"pregunta": "¿Qué debe ser igual en una reacción redox?",
+"opciones": [
+"Electrones perdidos y ganados",
+"Nombres de los reactivos",
+"Colores de las sustancias"
+],
+"correcta": 0,
+"porque": "Lo que uno entrega, otro lo recibe."
+},
+{
+"pregunta": "¿Qué dice el número de oxidación?",
+"opciones": [
+"Cuánto pesa una molécula",
+"Cuántos niños hay en un salón",
+"Cuántas cargas tiene un átomo"
+],
+"correcta": 2,
+"porque": "El número de oxidación dice cuántas cargas tiene un átomo."
+}
+],
+"balanceo-tanteo-conservacion-masa-prepa": [
+{
+"pregunta": "¿Cómo queda balanceada $\\ce{Na + Cl2 -> NaCl}$?",
+"opciones": [
+"$\\ce{2Na + Cl2 -> 2NaCl}$",
+"$\\ce{2Na + 2Cl2 -> 2NaCl}$",
+"$\\ce{Na + Cl2 -> 2NaCl}$"
+],
+"correcta": 0,
+"porque": "Con 2 Na y 2 Cl hay los mismos átomos de cada lado."
+},
+{
+"pregunta": "¿Qué número se cambia al balancear por tanteo?",
+"opciones": [
+"La fórmula completa del producto",
+"El numerito de abajo de cada átomo",
+"El coeficiente grande de adelante"
+],
+"correcta": 2,
+"porque": "El numerito de abajo cambiaría la sustancia."
+},
+{
+"pregunta": "¿Qué elementos conviene dejar para el final?",
+"opciones": [
+"Sodio y potasio",
+"Oxígeno e hidrógeno",
+"Carbono y nitrógeno"
+],
+"correcta": 1,
+"porque": "Oxígeno e hidrógeno suelen estar en varios compuestos."
+},
+{
+"pregunta": "En el metano hay 4 hidrógenos contra 2 en el agua. ¿Qué haces?",
+"opciones": [
+"Quitas el hidrógeno del metano",
+"Pones un 2 antes del agua",
+"Cambias el 4 por un 2"
+],
+"correcta": 1,
+"porque": "Un 2 antes del agua da 4 hidrógenos."
+},
+{
+"pregunta": "¿Qué dice la ley de conservación de la masa?",
+"opciones": [
+"Aparecen átomos nuevos en los productos",
+"Los átomos ni se crean ni se destruyen",
+"Los átomos se destruyen al reaccionar"
+],
+"correcta": 1,
+"porque": "Debe haber los mismos átomos de cada lado."
+}
+],
+"biomoleculas-preparatoria": [
+{
+"pregunta": "¿Qué biomolécula es la gasolina rápida del cuerpo?",
+"opciones": [
+"Los carbohidratos",
+"Los lípidos",
+"Los ácidos nucleicos"
+],
+"correcta": 0,
+"porque": "Los carbohidratos dan energía rápida."
+},
+{
+"pregunta": "¿Qué hacen los lípidos?",
+"opciones": [
+"Guardan energía como reserva",
+"Dan energía de inmediato siempre",
+"Forman los planos de la célula"
+],
+"correcta": 0,
+"porque": "Los lípidos son la despensa que guarda energía."
+},
+{
+"pregunta": "El pan y el arroz son ricos en...",
+"opciones": [
+"Carbohidratos",
+"Lípidos",
+"Ácidos nucleicos"
+],
+"correcta": 0,
+"porque": "Pan, arroz y azúcar son carbohidratos."
+},
+{
+"pregunta": "En tu desayuno hay aceite. ¿A qué grupo pertenece?",
+"opciones": [
+"Proteínas",
+"Lípidos",
+"Carbohidratos"
+],
+"correcta": 1,
+"porque": "Las grasas y los aceites son lípidos."
+},
+{
+"pregunta": "¿Qué biomolécula forma los músculos?",
+"opciones": [
+"Los lípidos",
+"Las proteínas",
+"Los carbohidratos"
+],
+"correcta": 1,
+"porque": "Las proteínas son los ladrillos que forman músculos."
+}
+],
+"calcular-el-ph-prepa": [
+{
+"pregunta": "¿Cuál es el pH de HCl 0.01 M?",
+"opciones": [
+"2",
+"1",
+"12"
+],
+"correcta": 0,
+"porque": "Como $0.01 = 10^{-2}$, el pH es 2."
+},
+{
+"pregunta": "Si el pOH es 4, ¿cuál es el pH?",
+"opciones": [
+"10",
+"18",
+"4"
+],
+"correcta": 0,
+"porque": "El pH y el pOH suman 14, y $14 - 4 = 10$."
+},
+{
+"pregunta": "¿Cuál es el pH de NaOH 0.1 M?",
+"opciones": [
+"11",
+"1",
+"13"
+],
+"correcta": 2,
+"porque": "Primero el pOH es 1, y $14 - 1 = 13$."
+},
+{
+"pregunta": "Si el pH es 8, ¿cuánto vale $[\\ce{H+}]$?",
+"opciones": [
+"$10^{-6}$ M",
+"$10^{-8}$ M",
+"$10^{8}$ M"
+],
+"correcta": 1,
+"porque": "Con pH 8 hay $10^{-8}$ M de $\\ce{H+}$."
+},
+{
+"pregunta": "¿Cuánto suman el pH y el pOH?",
+"opciones": [
+"14",
+"10",
+"7"
+],
+"correcta": 0,
+"porque": "Los dos siempre suman 14."
+}
+],
+"calculos-masa-a-masa-prepa": [
+{
+"pregunta": "En $\\ce{2H2 + O2 -> 2H2O}$, ¿cuánta agua dan 8 g de $\\ce{H2}$?",
+"opciones": [
+"36 g",
+"144 g",
+"72 g"
+],
+"correcta": 2,
+"porque": "8 g son 4 moles, salen 4 moles de agua y $4 \\times 18 = 72$."
+},
+{
+"pregunta": "¿Cuántos moles son 36 g de $\\ce{H2O}$?",
+"opciones": [
+"2 moles",
+"18 moles",
+"4 moles"
+],
+"correcta": 0,
+"porque": "Se divide $36 \\div 18 = 2$."
+},
+{
+"pregunta": "En $\\ce{CH4 + 2O2 -> CO2 + 2H2O}$, ¿cuánto $\\ce{CO2}$ dan 32 g de $\\ce{CH4}$?",
+"opciones": [
+"88 g",
+"44 g",
+"64 g"
+],
+"correcta": 0,
+"porque": "Son 2 moles de metano, 2 moles de $\\ce{CO2}$ y $2 \\times 44 = 88$."
+},
+{
+"pregunta": "¿Cuál es la ruta de un cálculo masa a masa?",
+"opciones": [
+"Gramos, moles, moles, gramos",
+"Gramos, litros, grados, gramos",
+"Moles, gramos, litros, moles"
+],
+"correcta": 0,
+"porque": "Se pasa a moles, se usa la ecuación y se regresa a gramos."
+},
+{
+"pregunta": "¿Cuántos gramos pesa 0.5 mol de $\\ce{O2}$?",
+"opciones": [
+"32 g",
+"64 g",
+"16 g"
+],
+"correcta": 2,
+"porque": "Un mol pesa 32 g, y la mitad pesa 16 g."
+}
+],
+"calculos-mol-a-mol-prepa": [
+{
+"pregunta": "En $\\ce{N2 + 3H2 -> 2NH3}$, ¿cuánto $\\ce{NH3}$ sale con 9 mol de $\\ce{H2}$?",
+"opciones": [
+"6 mol",
+"3 mol",
+"18 mol"
+],
+"correcta": 0,
+"porque": "Se calcula $9 \\times \\frac{2}{3} = 6$."
+},
+{
+"pregunta": "En $\\ce{N2 + 3H2 -> 2NH3}$, ¿cuánto $\\ce{N2}$ reacciona con 6 mol de $\\ce{H2}$?",
+"opciones": [
+"18 mol",
+"2 mol",
+"3 mol"
+],
+"correcta": 1,
+"porque": "Se calcula $6 \\times \\frac{1}{3} = 2$."
+},
+{
+"pregunta": "¿Cómo se llama la proporción que dan los coeficientes?",
+"opciones": [
+"Razón de peso",
+"Razón molar",
+"Razón de color"
+],
+"correcta": 1,
+"porque": "Los coeficientes dan la razón molar entre las sustancias."
+},
+{
+"pregunta": "Una receta usa 3 huevos por 2 pasteles. ¿Cuántos pasteles salen con 9 huevos?",
+"opciones": [
+"6 pasteles",
+"3 pasteles",
+"4 pasteles"
+],
+"correcta": 0,
+"porque": "Se calcula $9 \\times \\frac{2}{3} = 6$."
+},
+{
+"pregunta": "En la razón molar, ¿dónde va lo que buscas?",
+"opciones": [
+"En medio",
+"Arriba",
+"Abajo"
+],
+"correcta": 1,
+"porque": "Lo que buscas va arriba y lo que tienes va abajo."
+}
+],
+"carbohidratos-prepa": [
+{
+"pregunta": "¿Qué tipo de carbohidrato es el almidón?",
+"opciones": [
+"Disacárido",
+"Monosacárido",
+"Polisacárido"
+],
+"correcta": 2,
+"porque": "El almidón es una cadena larga de azúcares."
+},
+{
+"pregunta": "¿Cómo guardan energía los animales?",
+"opciones": [
+"Como almidón",
+"Como celulosa",
+"Como glucógeno"
+],
+"correcta": 2,
+"porque": "Los animales guardan energía como glucógeno."
+},
+{
+"pregunta": "¿Qué carbohidrato da firmeza a las plantas?",
+"opciones": [
+"La glucosa",
+"El glucógeno",
+"La celulosa"
+],
+"correcta": 2,
+"porque": "La celulosa da firmeza a las plantas."
+},
+{
+"pregunta": "¿Cuál es el azúcar de mesa?",
+"opciones": [
+"El almidón",
+"La sacarosa",
+"La glucosa"
+],
+"correcta": 1,
+"porque": "La sacarosa es el azúcar de mesa."
+},
+{
+"pregunta": "¿Cómo se llama el carbohidrato de dos azúcares unidos?",
+"opciones": [
+"Polisacárido",
+"Disacárido",
+"Monosacárido"
+],
+"correcta": 1,
+"porque": "Di significa dos azúcares unidos."
+}
+],
+"ciclo-de-krebs-prepa": [
+{
+"pregunta": "¿Cuántas vueltas da el ciclo por cada glucosa?",
+"opciones": [
+"4",
+"2",
+"1"
+],
+"correcta": 1,
+"porque": "Una glucosa da 2 vueltas."
+},
+{
+"pregunta": "¿Cuántos ATP salen en cada vuelta?",
+"opciones": [
+"1",
+"5",
+"3"
+],
+"correcta": 0,
+"porque": "En cada vuelta sale 1 ATP."
+},
+{
+"pregunta": "Con 2 vueltas, ¿cuántos $\\ce{CO2}$ salen por glucosa?",
+"opciones": [
+"4",
+"6",
+"2"
+],
+"correcta": 0,
+"porque": "Son 2 por vuelta, y $2 \\times 2 = 4$."
+},
+{
+"pregunta": "¿Qué llevan el NADH y el $\\ce{FADH2}$?",
+"opciones": [
+"Aire, como globos",
+"Energía, como pilas",
+"Agua, como botellas"
+],
+"correcta": 1,
+"porque": "Son pilas cargadas que llevan energía al siguiente paso."
+},
+{
+"pregunta": "Imagina la rueda de la fortuna. ¿Qué entra en cada vuelta?",
+"opciones": [
+"Una gota de agua",
+"Un trozo de azúcar",
+"Un pedazo de grasa"
+],
+"correcta": 1,
+"porque": "En cada vuelta entra un trozo de azúcar."
+}
+],
+"combustion-prepa": [
+{
+"pregunta": "¿De qué color es la llama de una combustión completa?",
+"opciones": [
+"Azul",
+"Amarilla",
+"Negra"
+],
+"correcta": 0,
+"porque": "Con buen oxígeno la llama es azul."
+},
+{
+"pregunta": "¿Qué gas peligroso sale con poco oxígeno?",
+"opciones": [
+"El $\\ce{CO2}$",
+"El CO",
+"El agua"
+],
+"correcta": 1,
+"porque": "Con poco oxígeno sale monóxido de carbono, CO."
+},
+{
+"pregunta": "¿Cómo se llama una reacción que libera calor?",
+"opciones": [
+"Neutra",
+"Exotérmica",
+"Endotérmica"
+],
+"correcta": 1,
+"porque": "La combustión es exotérmica porque suelta calor."
+},
+{
+"pregunta": "Hay un boiler en tu casa. ¿Qué debes hacer?",
+"opciones": [
+"Cerrar todo",
+"Taparlo",
+"Ventilar bien"
+],
+"correcta": 2,
+"porque": "El CO no huele, por eso hay que ventilar."
+},
+{
+"pregunta": "¿Cómo queda balanceada $\\ce{C3H8 + O2 -> CO2 + H2O}$?",
+"opciones": [
+"$\\ce{C3H8 + 3O2 -> 3CO2 + 4H2O}$",
+"$\\ce{C3H8 + 5O2 -> 3CO2 + 4H2O}$",
+"$\\ce{C3H8 + 5O2 -> 3CO2 + 8H2O}$"
+],
+"correcta": 1,
+"porque": "Hay 3 C, 8 H y 10 O de cada lado."
+}
+]
+}

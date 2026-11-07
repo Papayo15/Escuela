@@ -1,0 +1,522 @@
+{
+"verbos-primaria": [
+{
+"pregunta": "¿Cuál es el verbo en La mariposa vuela?",
+"opciones": [
+"vuela",
+"mariposa",
+"la, porque es la primera palabra de la oración"
+],
+"correcta": 0,
+"porque": "El verbo dice qué hace alguien, y aquí lo que hace es volar."
+},
+{
+"pregunta": "¿Qué dice un verbo?",
+"opciones": [
+"Solo cómo se llama una persona",
+"Qué hace, qué le pasa o cómo está alguien",
+"El nombre de un lugar donde vives con tu familia"
+],
+"correcta": 1,
+"porque": "El verbo es la acción de la oración."
+},
+{
+"pregunta": "¿Cuál de estas palabras es un verbo sin cambios?",
+"opciones": [
+"rápido, porque dice cómo se mueve algo",
+"casa",
+"vivir"
+],
+"correcta": 2,
+"porque": "Los verbos sin cambios terminan en ar, er o ir."
+},
+{
+"pregunta": "Completa: Ayer yo ___ en el patio. (jugar, en pasado)",
+"opciones": [
+"juego",
+"jugaré, porque ya sé que va a pasar",
+"jugué"
+],
+"correcta": 2,
+"porque": "Ayer ya pasó, por eso el verbo va en pasado."
+},
+{
+"pregunta": "En el recreo de tu escuela, ¿cuál palabra es un verbo?",
+"opciones": [
+"patio, porque es el lugar donde juegas",
+"correr",
+"pelota"
+],
+"correcta": 1,
+"porque": "Correr dice qué haces en el recreo."
+}
+],
+"vocales-y-consonantes-primaria": [
+{
+"pregunta": "¿Cuántas vocales hay en el abecedario?",
+"opciones": [
+"Tres",
+"Siete, porque son más que las consonantes de tu nombre",
+"Cinco"
+],
+"correcta": 2,
+"porque": "Las vocales son a, e, i, o, u."
+},
+{
+"pregunta": "¿La letra m es vocal o consonante?",
+"opciones": [
+"Consonante",
+"Vocal",
+"Las dos cosas a la vez, según la palabra"
+],
+"correcta": 0,
+"porque": "Para decir m juntas los labios, y por eso es consonante."
+},
+{
+"pregunta": "¿Cuáles son las vocales de la palabra mesa?",
+"opciones": [
+"m, e, s, a, porque son todas las letras",
+"m, s",
+"e, a"
+],
+"correcta": 2,
+"porque": "En mesa las vocales son e y a."
+},
+{
+"pregunta": "¿Cómo suenan las vocales?",
+"opciones": [
+"Con los labios juntos, apretados y cerrados",
+"Con la boca abierta y sin estorbos",
+"Siempre con la lengua pegada a los dientes de arriba"
+],
+"correcta": 1,
+"porque": "En las vocales el aire sale libre."
+},
+{
+"pregunta": "¿Cuántas vocales tiene el nombre Ana?",
+"opciones": [
+"2",
+"3, porque hay tres letras en total",
+"1"
+],
+"correcta": 0,
+"porque": "Ana tiene la a al inicio y la a al final, son dos vocales."
+}
+],
+"buscar-informacion-primaria": [
+{
+"pregunta": "Quieres investigar sobre los delfines. ¿Cuál es el primer paso?",
+"opciones": [
+"Hacer una pregunta",
+"Copiar un texto del primer libro que encuentres",
+"Escribir el final del trabajo"
+],
+"correcta": 0,
+"porque": "Primero defines qué quieres saber con una pregunta."
+},
+{
+"pregunta": "Encontraste un dato en un libro de tu escuela. ¿Qué haces?",
+"opciones": [
+"Lo escribo sin decir de dónde",
+"Lo cambio para que nadie sepa que es de un libro",
+"Anoto de dónde lo saqué"
+],
+"correcta": 2,
+"porque": "Anotar la fuente permite revisar el dato y dar crédito al autor."
+},
+{
+"pregunta": "¿Cuántas fuentes conviene revisar?",
+"opciones": [
+"Ninguna fuente",
+"Solo una fuente",
+"Varias fuentes"
+],
+"correcta": 2,
+"porque": "Comparar varias fuentes ayuda a revisar los datos."
+},
+{
+"pregunta": "Ya buscaste en libros y en internet. ¿Qué sigue?",
+"opciones": [
+"Escribir lo mismo que dice el primer libro, palabra por palabra",
+"Comparar lo que encontré",
+"Borrar las notas"
+],
+"correcta": 1,
+"porque": "Después de buscar, comparas y luego escribes con tus palabras."
+},
+{
+"pregunta": "Terminas de leer una página sobre un tema. ¿Cómo escribes el dato?",
+"opciones": [
+"Copiado igual que en la página",
+"Sin decir de qué trata ni para qué sirve",
+"Con mis palabras"
+],
+"correcta": 2,
+"porque": "Escribir con tus palabras muestra que lo entendiste."
+}
+],
+"comunicacion-distancia-cartas-mensajes-primaria": [
+{
+"pregunta": "¿Cuál es más corto, una carta o un mensaje?",
+"opciones": [
+"El mensaje",
+"Los dos miden siempre exactamente lo mismo",
+"La carta"
+],
+"correcta": 0,
+"porque": "El mensaje es corto y la carta es más formal."
+},
+{
+"pregunta": "Vas a escribir a la directora de tu escuela. ¿Qué forma usas?",
+"opciones": [
+"Un mensaje de broma, como a tu primo",
+"Un mensaje con puros dibujos",
+"Una carta formal con saludo"
+],
+"correcta": 2,
+"porque": "A una directora se le escribe de forma formal y respetuosa."
+},
+{
+"pregunta": "Alguien que no conoces te pide tu dirección por internet. ¿Qué haces?",
+"opciones": [
+"No se la doy",
+"Le doy mi dirección y también mi contraseña",
+"Se la doy si es amable"
+],
+"correcta": 0,
+"porque": "No se comparte la dirección, el teléfono ni las contraseñas con desconocidos."
+},
+{
+"pregunta": "¿Qué va al final de una carta?",
+"opciones": [
+"El título del tema y la fecha de ayer de la escuela",
+"El saludo del inicio",
+"Despedida y firma"
+],
+"correcta": 2,
+"porque": "Al final se escriben la despedida y la firma."
+},
+{
+"pregunta": "¿Cuál de estos sirve para comunicarte a distancia?",
+"opciones": [
+"Un pizarrón",
+"Una mesa del salón con sillas",
+"Un correo"
+],
+"correcta": 2,
+"porque": "Cartas, correos y mensajes llevan tus palabras lejos."
+}
+],
+"croquis-y-mapas-primaria": [
+{
+"pregunta": "¿Qué es un croquis?",
+"opciones": [
+"Un dibujo sencillo de un lugar",
+"Una lista de los nombres de las calles de una ciudad",
+"Un mapa exacto de todo el país"
+],
+"correcta": 0,
+"porque": "Un croquis es un dibujo sencillo con calles y lugares conocidos."
+},
+{
+"pregunta": "¿Cuál sirve como punto de referencia en un croquis?",
+"opciones": [
+"Una farmacia",
+"Un chicle que alguien tiró en la banqueta",
+"Una nube"
+],
+"correcta": 0,
+"porque": "Un punto de referencia es un lugar fácil de reconocer."
+},
+{
+"pregunta": "¿Qué muestra un mapa?",
+"opciones": [
+"Un dibujo rápido hecho sin medir nada",
+"Solo el camino de tu casa a la tienda",
+"Todo un territorio con más detalle"
+],
+"correcta": 2,
+"porque": "El mapa es más preciso y muestra todo un territorio."
+},
+{
+"pregunta": "Dibujas el camino de tu casa a la tienda. ¿Para qué usas flechas?",
+"opciones": [
+"Para mostrar el camino",
+"Para tapar las calles que no quieres que se vean",
+"Para decorar el papel"
+],
+"correcta": 0,
+"porque": "Las flechas ayudan a seguir el camino de la salida a la llegada."
+},
+{
+"pregunta": "¿Qué debe marcar un croquis?",
+"opciones": [
+"Todos los números de teléfono de las casas del barrio",
+"Calles y lugares conocidos",
+"Solo el nombre de tu escuela"
+],
+"correcta": 1,
+"porque": "Marca las calles y los lugares conocidos para guiar a alguien."
+}
+],
+"cuentos-lectura-y-escritura-primaria": [
+{
+"pregunta": "¿Qué es el nudo de un cuento?",
+"opciones": [
+"La parte donde todo se resuelve",
+"El problema que enfrenta el personaje",
+"La presentación de los personajes"
+],
+"correcta": 1,
+"porque": "El nudo es el problema de la historia."
+},
+{
+"pregunta": "¿Qué parte del cuento resuelve el problema?",
+"opciones": [
+"El desenlace",
+"El nudo, porque es la parte más emocionante",
+"El inicio"
+],
+"correcta": 0,
+"porque": "El desenlace es la parte final donde se resuelve el problema."
+},
+{
+"pregunta": "Lees: Había una vez una niña que vivía junto al mar. ¿Qué parte es?",
+"opciones": [
+"Desenlace, porque dice cómo termina la historia",
+"Inicio",
+"Nudo"
+],
+"correcta": 1,
+"porque": "El inicio presenta al personaje y el lugar."
+},
+{
+"pregunta": "Lees: De pronto, un cangrejo se llevó el sombrero de la niña. ¿Qué parte es?",
+"opciones": [
+"Desenlace, porque ya se resolvió todo",
+"Nudo",
+"Inicio"
+],
+"correcta": 1,
+"porque": "Aparece un problema, así que es el nudo."
+},
+{
+"pregunta": "Quieres escribir un cuento en tu escuela. ¿Qué eliges primero?",
+"opciones": [
+"El número de hojas que va a tener y su color",
+"Solo el final",
+"Personaje, lugar y problema"
+],
+"correcta": 2,
+"porque": "Para escribir un cuento se elige personaje, lugar y problema."
+}
+],
+"descripcion-personas-lugares-hechos-procesos-primaria-3-4": [
+{
+"pregunta": "¿Para qué sirve describir?",
+"opciones": [
+"Para dar órdenes a los demás",
+"Para copiar un texto sin cambiar nada",
+"Para que otro imagine algo"
+],
+"correcta": 2,
+"porque": "Describir es dar detalles para que otro imagine algo."
+},
+{
+"pregunta": "¿Cuál es una descripción de una persona?",
+"opciones": [
+"Mi tío es alto y usa lentes.",
+"Mi tío fue ayer al mercado.",
+"Mi tío llegará mañana por la tarde."
+],
+"correcta": 0,
+"porque": "Describir a una persona es decir cómo es."
+},
+{
+"pregunta": "¿Cuál frase describe un lugar?",
+"opciones": [
+"Primero saca el balón y después juega.",
+"En el patio hay árboles y bancas.",
+"Mi amigo se llama Luis y tiene ocho años."
+],
+"correcta": 1,
+"porque": "Describir un lugar es decir qué hay en él."
+},
+{
+"pregunta": "Describes cómo se hace una quesadilla. ¿Qué das?",
+"opciones": [
+"Solo el color",
+"Solo el nombre de quien la come",
+"Los pasos"
+],
+"correcta": 2,
+"porque": "Describir un proceso es decir los pasos."
+},
+{
+"pregunta": "¿Cuál palabra sirve para describir?",
+"opciones": [
+"mañana, porque dice cuándo sucede algo",
+"peludo",
+"correr"
+],
+"correcta": 1,
+"porque": "Peludo dice cómo es algo."
+}
+],
+"dialogo-acuerdos-puntos-de-vista-primaria-3-4": [
+{
+"pregunta": "¿Qué es dialogar?",
+"opciones": [
+"Hablar y escuchar para llegar a un acuerdo",
+"Hablar todos al mismo tiempo para que se oiga más",
+"Decir tu idea y no escuchar a nadie más"
+],
+"correcta": 0,
+"porque": "Dialogar es hablar y escuchar para llegar a un acuerdo."
+},
+{
+"pregunta": "Completa: Creo que debemos jugar fútbol ___ todos podemos participar.",
+"opciones": [
+"aunque, porque así suena más fuerte",
+"pero",
+"porque"
+],
+"correcta": 2,
+"porque": "Porque da la razón de tu opinión."
+},
+{
+"pregunta": "En un diálogo, ¿cómo hablan las personas?",
+"opciones": [
+"Por turnos",
+"Todos a la vez",
+"Solo habla quien grita más fuerte en el grupo"
+],
+"correcta": 0,
+"porque": "Cada quien dice su idea, por turnos."
+},
+{
+"pregunta": "Tu idea no fue elegida por el grupo. ¿Qué haces?",
+"opciones": [
+"Me enojo y me salgo del salón",
+"Respeto el acuerdo",
+"Hago otro juego yo solo para demostrar que tenía razón"
+],
+"correcta": 1,
+"porque": "Dialogar es llegar a acuerdos y respetarlos."
+},
+{
+"pregunta": "Ya terminaron de hablar y eligieron un juego. ¿Qué hacen al final?",
+"opciones": [
+"Olvidar lo que se decidió para jugar sin reglas",
+"Repetir el acuerdo",
+"Empezar a hablar de otro tema"
+],
+"correcta": 1,
+"porque": "Repetir el acuerdo ayuda a que todos entiendan lo mismo."
+}
+],
+"diversidad-linguistica-comunidad-pais-primaria": [
+{
+"pregunta": "Además del español, ¿cuántas lenguas indígenas se hablan en México?",
+"opciones": [
+"68",
+"680, porque México es un país muy grande",
+"6"
+],
+"correcta": 0,
+"porque": "En México, además del español, hay 68 lenguas indígenas."
+},
+{
+"pregunta": "Camión, guagua y micro son tres palabras para el transporte. ¿Qué muestran?",
+"opciones": [
+"Errores al hablar que se deben corregir siempre",
+"Tres lenguas indígenas",
+"Variantes del español"
+],
+"correcta": 2,
+"porque": "El español cambia según la región."
+},
+{
+"pregunta": "Una compañera habla en una lengua indígena con su familia. ¿Qué haces?",
+"opciones": [
+"La respeto y le pregunto",
+"Le pido que hable solo como yo para entenderla",
+"Me burlo de cómo suena"
+],
+"correcta": 0,
+"porque": "Todas las lenguas valen igual y se respetan."
+},
+{
+"pregunta": "¿Qué lenguas valen más?",
+"opciones": [
+"Las que hablan más personas en la ciudad",
+"Solo el español",
+"Todas valen igual"
+],
+"correcta": 2,
+"porque": "En México todas las lenguas valen igual."
+},
+{
+"pregunta": "¿Cómo puede cambiar el español de una región a otra?",
+"opciones": [
+"En que todas las personas hablan idéntico",
+"En el alfabeto, que tiene otras letras",
+"En las palabras que usan"
+],
+"correcta": 2,
+"porque": "El español cambia según la región, por ejemplo, en las palabras."
+}
+],
+"elementos-visuales-sonoros-colectivo-primaria": [
+{
+"pregunta": "¿Cuál es un elemento visual?",
+"opciones": [
+"La altura de un sonido muy agudo",
+"El volumen",
+"El color"
+],
+"correcta": 2,
+"porque": "Color, línea, forma y textura son elementos visuales."
+},
+{
+"pregunta": "¿Cuál es un elemento sonoro?",
+"opciones": [
+"El volumen",
+"La forma de un dibujo en un cartel grande",
+"La línea"
+],
+"correcta": 0,
+"porque": "El volumen y la altura son elementos sonoros."
+},
+{
+"pregunta": "¿Qué indica el volumen de un sonido?",
+"opciones": [
+"De qué color es el sonido que escuchas",
+"Si es fuerte o suave",
+"Si es agudo o grave"
+],
+"correcta": 1,
+"porque": "El volumen dice qué tan fuerte o suave suena."
+},
+{
+"pregunta": "Tu equipo hace un cartel. ¿Qué actitud ayuda a crear en grupo?",
+"opciones": [
+"Hacer todo yo solo, sin avisar",
+"Escuchar ideas y respetar acuerdos",
+"Cambiar lo que hicieron los demás sin preguntarles"
+],
+"correcta": 1,
+"porque": "En equipo se escuchan las ideas y se respetan los acuerdos."
+},
+{
+"pregunta": "¿Qué es la altura de un sonido?",
+"opciones": [
+"Qué tan largo es el instrumento que lo produce",
+"Qué tan fuerte o suave suena",
+"Qué tan agudo o grave es"
+],
+"correcta": 2,
+"porque": "La altura puede ser aguda o grave."
+}
+]
+}

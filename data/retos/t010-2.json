@@ -1,0 +1,522 @@
+{
+"mi-cuerpo-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice ojos en inglés?",
+"opciones": [
+"ears",
+"arms",
+"eyes"
+],
+"correcta": 2,
+"porque": "Eyes son los ojos; ears son las orejas."
+},
+{
+"pregunta": "¿Cuál es el plural de foot?",
+"opciones": [
+"foots",
+"feets",
+"feet"
+],
+"correcta": 2,
+"porque": "Foot es una palabra especial: dos pies son feet."
+},
+{
+"pregunta": "¿Qué significa knees?",
+"opciones": [
+"Manos",
+"Rodillas",
+"Hombros"
+],
+"correcta": 1,
+"porque": "Knees son las rodillas."
+},
+{
+"pregunta": "En clase juegan a tocar la parte del cuerpo. Dicen mouth. ¿Qué tocas?",
+"opciones": [
+"La boca",
+"El pelo",
+"La nariz"
+],
+"correcta": 0,
+"porque": "Mouth significa boca."
+},
+{
+"pregunta": "¿Cómo dices «tengo dos manos»?",
+"opciones": [
+"I have two hands",
+"I have two hand",
+"I am two hands"
+],
+"correcta": 0,
+"porque": "Con dos cosas el plural lleva s: hands."
+}
+],
+"mi-familia-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice abuela en inglés?",
+"opciones": [
+"grandfather",
+"grandmother",
+"aunt"
+],
+"correcta": 1,
+"porque": "Grandmother es abuela; grandfather es abuelo."
+},
+{
+"pregunta": "¿Qué significa uncle?",
+"opciones": [
+"Tía",
+"Primo",
+"Tío"
+],
+"correcta": 2,
+"porque": "Uncle es tío y aunt es tía."
+},
+{
+"pregunta": "Quieres presentar a tu hermano. ¿Qué dices?",
+"opciones": [
+"This is my sister",
+"This is my cousin",
+"This is my brother"
+],
+"correcta": 2,
+"porque": "Brother significa hermano."
+},
+{
+"pregunta": "¿Qué palabra sirve para primo y para prima?",
+"opciones": [
+"sister",
+"cousin",
+"uncle"
+],
+"correcta": 1,
+"porque": "Cousin se usa para los dos."
+},
+{
+"pregunta": "Quieres preguntar quién es una niña en una foto. ¿Qué dices?",
+"opciones": [
+"Who is he?",
+"Who is she?",
+"Where is she?"
+],
+"correcta": 1,
+"porque": "She es ella y Who significa quién."
+}
+],
+"my-name-is-presentarme-primaria": [
+{
+"pregunta": "¿Cómo dices que tienes nueve años?",
+"opciones": [
+"I am nine",
+"My name is nine",
+"I have nine"
+],
+"correcta": 0,
+"porque": "En inglés la edad se dice con am: I am nine."
+},
+{
+"pregunta": "¿Qué significa Where are you from?",
+"opciones": [
+"¿Cómo te llamas?",
+"¿Cuántos años tienes?",
+"¿De dónde eres?"
+],
+"correcta": 2,
+"porque": "Where are you from? pregunta de dónde eres."
+},
+{
+"pregunta": "Completa: I ___ from Mexico.",
+"opciones": [
+"am",
+"is",
+"have"
+],
+"correcta": 0,
+"porque": "Con I siempre va am."
+},
+{
+"pregunta": "Te presentas con un nuevo compañero. Dices My name is Ana. ¿Qué más dices al final?",
+"opciones": [
+"Good night",
+"I am hungry",
+"Nice to meet you"
+],
+"correcta": 2,
+"porque": "Nice to meet you significa mucho gusto."
+},
+{
+"pregunta": "Te preguntan How old are you? ¿Qué te preguntan?",
+"opciones": [
+"Tu edad",
+"Tu país",
+"Tu nombre"
+],
+"correcta": 0,
+"porque": "How old are you? significa cuántos años tienes."
+}
+],
+"numeros-del-1-al-20-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice 5 en inglés?",
+"opciones": [
+"five",
+"fifteen",
+"four"
+],
+"correcta": 0,
+"porque": "Five es 5; fifteen es 15."
+},
+{
+"pregunta": "¿Qué número es eighteen?",
+"opciones": [
+"80",
+"18",
+"8"
+],
+"correcta": 1,
+"porque": "Eighteen termina en teen, así que está entre 13 y 19."
+},
+{
+"pregunta": "Tienes 3 lápices. ¿Cómo dices el número?",
+"opciones": [
+"three",
+"thirty",
+"thirteen"
+],
+"correcta": 0,
+"porque": "Three es 3 y thirteen es 13."
+},
+{
+"pregunta": "¿Cómo dices que tienes seis años?",
+"opciones": [
+"I am six",
+"I am sixteen",
+"I have six"
+],
+"correcta": 0,
+"porque": "Six es 6, y la edad usa I am."
+},
+{
+"pregunta": "¿Cómo terminan los números del 13 al 19?",
+"opciones": [
+"ty",
+"teen",
+"ing"
+],
+"correcta": 1,
+"porque": "Del 13 al 19 todos terminan en teen."
+}
+],
+"objetos-del-salon-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice cuaderno en inglés?",
+"opciones": [
+"notebook",
+"eraser",
+"ruler"
+],
+"correcta": 0,
+"porque": "Notebook es cuaderno."
+},
+{
+"pregunta": "¿Qué significa chair?",
+"opciones": [
+"Silla",
+"Mesa",
+"Regla"
+],
+"correcta": 0,
+"porque": "Chair es silla; desk es mesa o banca."
+},
+{
+"pregunta": "Completa: It is ___ eraser.",
+"opciones": [
+"an",
+"the",
+"a"
+],
+"correcta": 0,
+"porque": "Eraser empieza con sonido de vocal, así que va an."
+},
+{
+"pregunta": "Completa: It is ___ ruler.",
+"opciones": [
+"a, porque ruler empieza con r",
+"is, porque ya está en la frase",
+"an, porque suena a vocal"
+],
+"correcta": 0,
+"porque": "Ruler empieza con sonido de consonante, así que usas a."
+},
+{
+"pregunta": "Quieres pedir una pluma con cortesía. ¿Qué dices?",
+"opciones": [
+"Pen, sit down",
+"I am a pen",
+"Can I have a pen, please?"
+],
+"correcta": 2,
+"porque": "Can I have...? sirve para pedir algo con cortesía."
+}
+],
+"please-thank-you-y-sorry-primaria": [
+{
+"pregunta": "Te prestan un lápiz. ¿Qué dices?",
+"opciones": [
+"Thank you",
+"Sorry",
+"Goodbye"
+],
+"correcta": 0,
+"porque": "Thank you significa gracias."
+},
+{
+"pregunta": "Tiras sin querer el cuaderno de un compañero. ¿Qué dices?",
+"opciones": [
+"Sorry",
+"Please",
+"You are welcome"
+],
+"correcta": 0,
+"porque": "Sorry se dice cuando hiciste algo mal."
+},
+{
+"pregunta": "Alguien te dice Thank you. ¿Qué respondes?",
+"opciones": [
+"You are welcome",
+"Sorry",
+"Excuse me"
+],
+"correcta": 0,
+"porque": "You are welcome significa de nada."
+},
+{
+"pregunta": "Quieres pasar entre dos compañeros en el pasillo. ¿Qué dices?",
+"opciones": [
+"Excuse me",
+"Thank you",
+"Please"
+],
+"correcta": 0,
+"porque": "Excuse me sirve para pedir paso."
+},
+{
+"pregunta": "¿Cómo pides agua con cortesía?",
+"opciones": [
+"Water, sorry",
+"Water, welcome",
+"Water, please"
+],
+"correcta": 2,
+"porque": "Please significa por favor."
+}
+],
+"plural-con-s-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice «dos pelotas»? Pelota es ball.",
+"opciones": [
+"twos ball",
+"two balls",
+"two ball"
+],
+"correcta": 1,
+"porque": "Para decir varios se agrega s al final."
+},
+{
+"pregunta": "¿Cuál es el plural de pencil?",
+"opciones": [
+"pencilses",
+"pencil",
+"pencils"
+],
+"correcta": 2,
+"porque": "Se agrega una s: pencils."
+},
+{
+"pregunta": "¿Cuál es el plural de box?",
+"opciones": [
+"boxies",
+"boxes",
+"boxs"
+],
+"correcta": 1,
+"porque": "Si termina en x se agrega es."
+},
+{
+"pregunta": "En tu salón hay tres sillas. Chair es silla. ¿Cómo lo dices?",
+"opciones": [
+"three chair",
+"three chairs",
+"three chaires"
+],
+"correcta": 1,
+"porque": "Con tres, chair lleva s."
+},
+{
+"pregunta": "¿Cuál es el plural de watch? Watch es reloj.",
+"opciones": [
+"watchs",
+"watchies",
+"watches"
+],
+"correcta": 2,
+"porque": "Si termina en ch se agrega es."
+}
+],
+"sonidos-de-las-vocales-en-ingles-primaria": [
+{
+"pregunta": "En la palabra bike, ¿suena la e del final?",
+"opciones": [
+"No, es muda",
+"Sí, suena como i",
+"Sí, suena como a"
+],
+"correcta": 0,
+"porque": "La e final no suena, pero ayuda a la vocal a decir su nombre."
+},
+{
+"pregunta": "¿Cuál palabra tiene una a corta?",
+"opciones": [
+"cake",
+"name",
+"cat"
+],
+"correcta": 2,
+"porque": "Cat tiene a corta; en cake la vocal dice su nombre."
+},
+{
+"pregunta": "¿Cómo suena la i en bike?",
+"opciones": [
+"i corta",
+"ai",
+"e"
+],
+"correcta": 1,
+"porque": "Con e muda, la i dice su nombre: ai."
+},
+{
+"pregunta": "¿Cómo suena la u en cup?",
+"opciones": [
+"Como iu",
+"Como o",
+"Casi como a"
+],
+"correcta": 2,
+"porque": "En cup la u suena casi como a."
+},
+{
+"pregunta": "Dices home. ¿Cómo suena la o?",
+"opciones": [
+"Suena como una i corta",
+"Suena como una a abierta",
+"Dice ou, como en go"
+],
+"correcta": 2,
+"porque": "Con e muda al final, la vocal dice su nombre."
+}
+],
+"this-y-that-para-senalar-primaria": [
+{
+"pregunta": "Tienes una goma en la mano. ¿Qué dices?",
+"opciones": [
+"It are eraser",
+"This is an eraser",
+"That is an eraser"
+],
+"correcta": 1,
+"porque": "This se usa para lo cercano."
+},
+{
+"pregunta": "Ves un camión en la calle desde la ventana. ¿Qué dices?",
+"opciones": [
+"This is a bus",
+"These a bus",
+"That is a bus"
+],
+"correcta": 2,
+"porque": "That se usa para lo lejano."
+},
+{
+"pregunta": "¿Qué significa That is a dog?",
+"opciones": [
+"Eso es un perro",
+"Ese perro es mío",
+"Esto es un perro"
+],
+"correcta": 0,
+"porque": "That is quiere decir eso es."
+},
+{
+"pregunta": "Completa: ___ is my backpack. La tienes en la espalda.",
+"opciones": [
+"Them",
+"That",
+"This"
+],
+"correcta": 2,
+"porque": "La tienes cerca, así que usas this."
+},
+{
+"pregunta": "Señalas el pizarrón al fondo del salón. ¿Qué dices?",
+"opciones": [
+"This is the board",
+"Is that board",
+"That is the board"
+],
+"correcta": 2,
+"porque": "Si está lejos, usas that."
+}
+],
+"can-y-cant-para-ninos-primaria": [
+{
+"pregunta": "Corrige: She can runs.",
+"opciones": [
+"She cans run",
+"She can running",
+"She can run"
+],
+"correcta": 2,
+"porque": "Después de can el verbo no cambia."
+},
+{
+"pregunta": "¿Qué significa I can't fly?",
+"opciones": [
+"No puedo volar",
+"Quiero volar",
+"Puedo volar"
+],
+"correcta": 0,
+"porque": "Can't significa no poder."
+},
+{
+"pregunta": "¿Cómo preguntas si alguien sabe nadar?",
+"opciones": [
+"You swim can?",
+"Do you can swim?",
+"Can you swim?"
+],
+"correcta": 2,
+"porque": "Para preguntar, can va primero."
+},
+{
+"pregunta": "Tu compañero dice: I can jump. ¿Qué sabe hacer?",
+"opciones": [
+"Correr",
+"Leer",
+"Saltar"
+],
+"correcta": 2,
+"porque": "Jump es saltar."
+},
+{
+"pregunta": "Te preguntan Can you ride a bike? y no sabes. ¿Qué respondes?",
+"opciones": [
+"Yes, I can",
+"No, I can't",
+"No, I can"
+],
+"correcta": 1,
+"porque": "Si no puedes, respondes No, I can't."
+}
+]
+}

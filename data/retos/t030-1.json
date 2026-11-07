@@ -1,0 +1,522 @@
+{
+"formas-verbales-y-correlacion-prepa": [
+{
+"pregunta": "¿Qué oración cuida bien la correlación verbal?",
+"opciones": [
+"Ayer Ana llegó y dijo que vendría.",
+"Ayer Ana llegó y dice que vendrá.",
+"Ayer Ana llega y dijo que vendría."
+],
+"correcta": 0,
+"porque": "Si empiezas en pasado, sigues en pasado."
+},
+{
+"pregunta": "Completa: \"Si estudiaras, ___ el examen.\"",
+"opciones": [
+"habrías aprobado",
+"aprobarás",
+"aprobarías"
+],
+"correcta": 2,
+"porque": "Con \"estudiaras\" va el condicional simple: aprobarías."
+},
+{
+"pregunta": "En \"Ya había comido cuando llegó Luis\", ¿qué pasó primero?",
+"opciones": [
+"Luis comió antes",
+"Luis llegó primero",
+"Pasaron las dos a la vez"
+],
+"correcta": 0,
+"porque": "\"Había comido\" es un pasado anterior a otro pasado."
+},
+{
+"pregunta": "En \"Mientras yo leía, mi hermano jugaba\", ¿qué expresa \"leía\"?",
+"opciones": [
+"Una acción del futuro",
+"Una acción que duraba",
+"Una acción ya terminada"
+],
+"correcta": 1,
+"porque": "El pasado \"comía\" o \"leía\" muestra algo que duraba."
+},
+{
+"pregunta": "Completa: \"Ayer la maestra explicó el tema y todos ___.\"",
+"opciones": [
+"entendieron",
+"entenderán",
+"entienden"
+],
+"correcta": 0,
+"porque": "Si cuentas en pasado, te quedas en pasado."
+}
+],
+"gustos-lectura-comunidad-escolar": [
+{
+"pregunta": "¿Qué es lo primero al investigar qué lee tu escuela?",
+"opciones": [
+"Contar las respuestas",
+"Compartir resultados",
+"Decidir qué preguntar"
+],
+"correcta": 2,
+"porque": "Primero decides qué quieres saber y luego haces la encuesta."
+},
+{
+"pregunta": "¿A quién conviene preguntar para representar a toda la escuela?",
+"opciones": [
+"Solo a tus mejores amigos",
+"A alumnos de varios grupos",
+"Solo a los de tu salón"
+],
+"correcta": 1,
+"porque": "Si preguntas a distintos grupos, el resultado representa a todos."
+},
+{
+"pregunta": "Un compañero dice que leer cómics está mal. ¿Qué dice el texto?",
+"opciones": [
+"No hay gustos incorrectos",
+"Los cómics no cuentan",
+"Solo valen los libros gruesos"
+],
+"correcta": 0,
+"porque": "En una encuesta de lectura todos los gustos valen."
+},
+{
+"pregunta": "Ya aplicaste la encuesta. ¿Qué sigue?",
+"opciones": [
+"Borrar los papeles",
+"Contar las respuestas",
+"Cambiar las preguntas"
+],
+"correcta": 1,
+"porque": "Después de aplicarla, cuentas las respuestas y luego compartes."
+},
+{
+"pregunta": "Respondieron 10 compañeros y 4 prefieren cuentos. ¿Cuántos no prefieren cuentos?",
+"opciones": [
+"6",
+"10",
+"4"
+],
+"correcta": 0,
+"porque": "Si de 10 son 4, quedan 10 menos 4, que son 6."
+}
+],
+"identificar-informacion-relevante-texto": [
+{
+"pregunta": "Quitas una frase y el texto pierde sentido. ¿Cómo era esa frase?",
+"opciones": [
+"Sobrante",
+"Un simple adorno",
+"Importante"
+],
+"correcta": 2,
+"porque": "Si al quitarla se cae el sentido, era esencial."
+},
+{
+"pregunta": "¿Qué haces primero ante un texto nuevo?",
+"opciones": [
+"Subrayar todo",
+"Leerlo completo",
+"Copiarlo en tu cuaderno"
+],
+"correcta": 1,
+"porque": "Primero lees todo para saber de qué trata."
+},
+{
+"pregunta": "Si subrayas todo un párrafo, ¿qué pasa?",
+"opciones": [
+"Se entiende mejor",
+"Aprendes más rápido",
+"Ya no se ve lo esencial"
+],
+"correcta": 2,
+"porque": "Subrayar todo es como no subrayar nada."
+},
+{
+"pregunta": "¿Dónde puede estar la idea principal?",
+"opciones": [
+"Al inicio, en medio o al final",
+"Solo en el título",
+"Solo en el último renglón"
+],
+"correcta": 0,
+"porque": "Muchas veces está al inicio, pero puede estar en cualquier lugar."
+},
+{
+"pregunta": "\"Los perros ayudan a las personas. Guían a ciegos y cuidan casas.\" ¿Cuál es la idea principal?",
+"opciones": [
+"Los perros duermen muchas horas",
+"Los perros ayudan a las personas",
+"Las personas viven en casas"
+],
+"correcta": 1,
+"porque": "Lo demás del párrafo apoya esa idea."
+}
+],
+"lectura-en-voz-alta-opinion": [
+{
+"pregunta": "¿Qué haces antes de leer en voz alta?",
+"opciones": [
+"Leer muy rápido",
+"Leer en silencio",
+"Adivinar las palabras"
+],
+"correcta": 1,
+"porque": "Así conoces el texto y no tropiezas."
+},
+{
+"pregunta": "Al leer una coma, ¿qué haces?",
+"opciones": [
+"Una pausa larga",
+"Una pausa corta",
+"Sigues sin parar"
+],
+"correcta": 1,
+"porque": "Coma, pausa corta; punto, pausa larga."
+},
+{
+"pregunta": "¿Cómo cambias la voz al leer una pregunta?",
+"opciones": [
+"La dejas siempre plana",
+"Subes un poco el tono",
+"Hablas bajito y rápido"
+],
+"correcta": 1,
+"porque": "Las preguntas se leen con otro tono para que se note."
+},
+{
+"pregunta": "Terminas de leer un cuento. ¿Cómo das tu opinión?",
+"opciones": [
+"Me quedo callado y ya",
+"Digo qué pienso y por qué",
+"Repito el cuento completo"
+],
+"correcta": 1,
+"porque": "Una buena opinión lleva una razón."
+},
+{
+"pregunta": "Vas a leer un poema en el salón. ¿Qué conviene?",
+"opciones": [
+"Leer rápido para acabar",
+"Hablar claro y respetar pausas",
+"Murmurar para que no oigan"
+],
+"correcta": 1,
+"porque": "Pronunciar claro y respetar puntos y comas ayuda a que te entiendan."
+}
+],
+"lectura-literal-inferencial-y-critica-prepa": [
+{
+"pregunta": "¿Qué nivel responde \"¿Dónde ocurrió la historia?\"",
+"opciones": [
+"Inferencial",
+"Literal",
+"Crítico"
+],
+"correcta": 1,
+"porque": "Pregunta por algo que el texto dice directamente."
+},
+{
+"pregunta": "Luis llegó empapado a clase. ¿Qué puedes inferir?",
+"opciones": [
+"Que hacía mucho sol",
+"Que no tenía mochila",
+"Que había llovido"
+],
+"correcta": 2,
+"porque": "Inferir es adivinar lo que el texto da a entender."
+},
+{
+"pregunta": "¿Cuál es una pregunta crítica?",
+"opciones": [
+"¿Qué fuentes usa el autor?",
+"¿Qué pasó primero?",
+"¿En qué lugar sucede?"
+],
+"correcta": 0,
+"porque": "La lectura crítica evalúa el texto y sus razones."
+},
+{
+"pregunta": "Imagina tres pisos. ¿Qué haces en el primero?",
+"opciones": [
+"Ver lo que dice el texto",
+"Adivinar lo que no dice",
+"Opinar sobre el autor"
+],
+"correcta": 0,
+"porque": "El primer nivel es el literal: lo que está escrito."
+},
+{
+"pregunta": "¿Cuál es el orden correcto de las preguntas al leer?",
+"opciones": [
+"Qué pienso, qué dice, qué quiere decir",
+"Qué dice, qué quiere decir, qué pienso",
+"Qué quiere decir, qué pienso, qué dice"
+],
+"correcta": 1,
+"porque": "Primero entiendes lo escrito y al final opinas."
+}
+],
+"leer-y-escribir-comunicar-preparatoria": [
+{
+"pregunta": "¿Para qué sirve escribir una idea?",
+"opciones": [
+"Cambiarla cada vez que se lee",
+"Guardarla y enviarla lejos",
+"Hacer que solo tú la entiendas"
+],
+"correcta": 1,
+"porque": "La escritura conserva las ideas y las lleva a otros lugares y tiempos."
+},
+{
+"pregunta": "¿Qué hace la lectura con lo que alguien escribió?",
+"opciones": [
+"Lo recupera y le da sentido",
+"Lo borra del papel",
+"Lo vuelve más corto"
+],
+"correcta": 0,
+"porque": "Leer es recuperar lo escrito e interpretarlo."
+},
+{
+"pregunta": "Un lector contesta la carta de un autor. ¿Qué se vuelve?",
+"opciones": [
+"Copia",
+"Autor",
+"Papel"
+],
+"correcta": 1,
+"porque": "Cuando el lector responde, también escribe y se vuelve autor."
+},
+{
+"pregunta": "Quien lee mucho descubre...",
+"opciones": [
+"Formas de escribir",
+"Cómo no hablar",
+"Cómo dibujar mejor"
+],
+"correcta": 0,
+"porque": "Leer y escribir se alimentan entre sí."
+},
+{
+"pregunta": "Tu compañero no estará cuando lean tu nota. ¿Cómo escribes?",
+"opciones": [
+"Solo con dibujos sueltos",
+"Con claridad, para que se entienda",
+"Muy rápido y sin pensar"
+],
+"correcta": 1,
+"porque": "Si no estás presente, el texto debe explicarse solo."
+}
+],
+"modos-discursivos-narrar-describir-exponer-y-argumentar-prepa": [
+{
+"pregunta": "\"Esta mañana Pedro se levantó, desayunó y corrió al camión.\" ¿Qué modo es?",
+"opciones": [
+"Narrar",
+"Exponer",
+"Describir"
+],
+"correcta": 0,
+"porque": "Cuenta hechos en el tiempo."
+},
+{
+"pregunta": "\"Mi mochila es azul, grande y tiene dos bolsas.\" ¿Qué modo es?",
+"opciones": [
+"Describir",
+"Argumentar",
+"Narrar"
+],
+"correcta": 0,
+"porque": "Dice cómo es algo."
+},
+{
+"pregunta": "Un texto explica cómo funciona el corazón. ¿Qué modo domina?",
+"opciones": [
+"Describir",
+"Exponer",
+"Narrar"
+],
+"correcta": 1,
+"porque": "Exponer es explicar información."
+},
+{
+"pregunta": "\"Debemos cuidar el agua porque se acaba.\" ¿Qué modo es?",
+"opciones": [
+"Describir",
+"Narrar",
+"Argumentar"
+],
+"correcta": 2,
+"porque": "Da una razón para convencer."
+},
+{
+"pregunta": "¿Puede un texto combinar varios modos?",
+"opciones": [
+"No, usa un solo modo",
+"Solo si es muy corto",
+"Sí, puede narrar y luego argumentar"
+],
+"correcta": 2,
+"porque": "Un artículo puede contar un caso y después convencer."
+}
+],
+"oraciones-subordinadas-prepa": [
+{
+"pregunta": "¿Qué es una oración subordinada?",
+"opciones": [
+"Una que no tiene verbo",
+"Una que no depende de otra",
+"Una que depende de otra"
+],
+"correcta": 2,
+"porque": "Va montada en otra oración y cumple una función dentro de ella."
+},
+{
+"pregunta": "Clasifica: \"Saldremos al patio cuando suene el timbre.\"",
+"opciones": [
+"Adjetiva",
+"Adverbial",
+"Sustantiva"
+],
+"correcta": 1,
+"porque": "\"Cuando suene el timbre\" indica tiempo."
+},
+{
+"pregunta": "Clasifica \"que nos enseña inglés\": \"La maestra que nos enseña inglés es amable.\"",
+"opciones": [
+"Sustantiva",
+"Adjetiva",
+"Adverbial"
+],
+"correcta": 1,
+"porque": "Describe a \"la maestra\", como un adjetivo."
+},
+{
+"pregunta": "¿Qué palabra puede reemplazar a una subordinada sustantiva?",
+"opciones": [
+"Eso",
+"Tal",
+"Entonces"
+],
+"correcta": 0,
+"porque": "Cámbiala por \"eso\": Espero eso."
+},
+{
+"pregunta": "Una subordinada adjetiva describe a un...",
+"opciones": [
+"Sustantivo",
+"Adverbio",
+"Verbo"
+],
+"correcta": 0,
+"porque": "También se llama de relativo y describe a un sustantivo."
+}
+],
+"parafrasis-y-plagio-prepa": [
+{
+"pregunta": "¿Qué es parafrasear?",
+"opciones": [
+"Cambiar solo una palabra del texto",
+"Copiar igual el texto sin citar",
+"Reescribir con tus palabras y citar"
+],
+"correcta": 2,
+"porque": "Parafrasear es decir la idea con tus palabras y dar crédito."
+},
+{
+"pregunta": "¿Cuál es el primer paso para parafrasear?",
+"opciones": [
+"Citar la fuente",
+"Leer y cerrar el texto",
+"Comparar con el original"
+],
+"correcta": 1,
+"porque": "Primero lees, cierras el texto y escribes lo que entendiste."
+},
+{
+"pregunta": "Tomás entrega un texto de internet y dice que es suyo. ¿Qué es?",
+"opciones": [
+"Paráfrasis",
+"Plagio",
+"Una cita correcta"
+],
+"correcta": 1,
+"porque": "Presentar ideas ajenas como propias es plagio."
+},
+{
+"pregunta": "Original: \"Dormir ayuda a recordar.\" ¿Cuál es buena paráfrasis?",
+"opciones": [
+"El sueño favorece la memoria.",
+"Según Ruiz (2020), el sueño favorece la memoria.",
+"Dormir ayuda a recordar."
+],
+"correcta": 1,
+"porque": "Con tus palabras y con cita."
+},
+{
+"pregunta": "¿Qué puede pasar si plagias en la escuela?",
+"opciones": [
+"Un premio por tu trabajo",
+"Nada, porque es costumbre",
+"Consecuencias académicas"
+],
+"correcta": 2,
+"porque": "El plagio puede traer consecuencias académicas."
+}
+],
+"resumen-sintesis-y-mapa-conceptual-prepa": [
+{
+"pregunta": "¿Qué hace un resumen?",
+"opciones": [
+"Agrega ideas muy nuevas",
+"Copia todo el texto",
+"Reduce a ideas principales"
+],
+"correcta": 2,
+"porque": "Resumir es recortar a lo principal."
+},
+{
+"pregunta": "¿Qué va arriba en un mapa conceptual?",
+"opciones": [
+"El tema principal",
+"El nombre del autor",
+"Las palabras de enlace"
+],
+"correcta": 0,
+"porque": "El tema va arriba y los conceptos en cajas."
+},
+{
+"pregunta": "Un resumen es fiel a...",
+"opciones": [
+"El orden alfabético",
+"El orden del autor",
+"Tu orden preferido"
+],
+"correcta": 1,
+"porque": "A diferencia de la síntesis, el resumen respeta el orden del texto."
+},
+{
+"pregunta": "En \"Perro → es → mamífero\", ¿cuál es la palabra de enlace?",
+"opciones": [
+"La palabra mamífero",
+"La palabra es",
+"La palabra Perro"
+],
+"correcta": 1,
+"porque": "Las palabras de enlace van en las líneas entre cajas."
+},
+{
+"pregunta": "Reconstruyes ideas con tus palabras y conclusiones. ¿Qué haces?",
+"opciones": [
+"Un título",
+"Una síntesis",
+"Un resumen"
+],
+"correcta": 1,
+"porque": "Resumir recorta; sintetizar reconstruye."
+}
+]
+}

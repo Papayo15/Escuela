@@ -1,20 +1,23 @@
 import { cookies } from "next/headers";
 import { chatDisponible, COOKIE_ACCESO, planDeCookie } from "@/lib/acceso";
+import { contextoTema } from "@/lib/contexto-tema";
+import { ASISTENTE } from "@/lib/marca";
 import { PROMPT_VISION } from "@/lib/pedagogical-prompt";
 import { respuestaEnVivo } from "@/lib/stream-chat";
+import { obtenerTema } from "@/lib/temas";
 import { MAX_CUERPO_FOTO, validarFoto } from "@/lib/validate";
 
 export const maxDuration = 300;
 
 export async function POST(request: Request) {
   if (!chatDisponible()) {
-    return Response.json({ error: "El Maestro en vivo no está activado." }, { status: 503 });
+    return Response.json({ error: `${ASISTENTE} no está activado.` }, { status: 503 });
   }
   const almacen = await cookies();
   const plan = await planDeCookie(almacen.get(COOKIE_ACCESO)?.value);
   if (!plan) return Response.json({ error: "Falta el código de acceso." }, { status: 401 });
   if (plan !== "premium") {
-    return Response.json({ error: "El Maestro en vivo es del plan completo." }, { status: 403 });
+    return Response.json({ error: `${ASISTENTE} es del plan completo.` }, { status: 403 });
   }
   const texto = await request.text();
   if (texto.length > MAX_CUERPO_FOTO) {
@@ -28,7 +31,12 @@ export async function POST(request: Request) {
   }
   const validacion = validarFoto(cuerpo);
   if (!validacion.ok) return Response.json({ error: validacion.error }, { status: 400 });
-  const { nivel, pregunta, imagen } = validacion.datos;
+  const { nivel, pregunta, imagen, slug, seccion } = validacion.datos;
+  const tema = slug ? await obtenerTema(slug) : null;
+  const prefijos = [
+    ...(nivel ? [`Nivel escolar del alumno: ${nivel}.`] : []),
+    ...(tema ? [contextoTema(tema, seccion)] : []),
+  ];
 
   return respuestaEnVivo({
     signal: request.signal,
@@ -38,7 +46,7 @@ export async function POST(request: Request) {
       {
         role: "user",
         content: [
-          { type: "text", text: nivel ? `Nivel escolar del alumno: ${nivel}.\n\n${pregunta}` : pregunta },
+          { type: "text", text: [...prefijos, pregunta].join("\n\n") },
           { type: "image_url", image_url: { url: imagen } },
         ],
       },

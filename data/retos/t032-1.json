@@ -1,0 +1,522 @@
+{
+"formula-empirica-y-molecular-prepa": [
+{
+"pregunta": "¿Qué te dice la fórmula empírica?",
+"opciones": [
+"Cuántos átomos hay de verdad en la molécula",
+"Solo cuánto pesa la molécula",
+"La proporción más simple de los átomos"
+],
+"correcta": 2,
+"porque": "La fórmula empírica da la proporción más simple; la molecular da los átomos reales."
+},
+{
+"pregunta": "¿Cuál es la fórmula empírica de $\\ce{C4H8}$?",
+"opciones": [
+"$\\ce{C2H4}$",
+"$\\ce{CH2}$",
+"$\\ce{C4H8}$"
+],
+"correcta": 1,
+"porque": "Divides 4 y 8 entre 4 y queda $\\ce{CH2}$."
+},
+{
+"pregunta": "La fórmula empírica es $\\ce{CH2O}$ y la masa real es 90. Pesa 30 la simple. ¿Cuál es la molecular?",
+"opciones": [
+"$\\ce{C3H6O3}$",
+"$\\ce{C2H4O2}$",
+"$\\ce{C6H12O6}$"
+],
+"correcta": 0,
+"porque": "$k = 90 \\div 30 = 3$, y multiplicas cada numerito por 3."
+},
+{
+"pregunta": "Tienes 12 g de carbono y 4 g de hidrógeno. El C pesa 12 y el H pesa 1. ¿Cuál es la fórmula empírica?",
+"opciones": [
+"$\\ce{C4H}$",
+"$\\ce{CH4}$",
+"$\\ce{CH}$"
+],
+"correcta": 1,
+"porque": "12 g son 1 mol de C y 4 g son 4 mol de H, así que la proporción es 1 a 4."
+},
+{
+"pregunta": "En tu salón hay 8 niñas y 4 niños. ¿Cuál es la proporción simple?",
+"opciones": [
+"2 a 1",
+"1 a 2",
+"8 a 4"
+],
+"correcta": 0,
+"porque": "Divides 8 y 4 entre 4 y queda 2 a 1, como una fórmula empírica."
+}
+],
+"glucolisis-prepa": [
+{
+"pregunta": "¿Cuántos carbonos tiene cada piruvato que sale de la glucólisis?",
+"opciones": [
+"3",
+"6",
+"2"
+],
+"correcta": 0,
+"porque": "La glucosa tiene 6 carbonos y se parte en dos piruvatos de 3 carbonos cada uno."
+},
+{
+"pregunta": "En la glucólisis se gastan 2 ATP y se producen 4. ¿Cuál es la ganancia neta?",
+"opciones": [
+"2 ATP",
+"4 ATP",
+"6 ATP"
+],
+"correcta": 0,
+"porque": "Se resta lo gastado de lo producido: 4 menos 2 son 2."
+},
+{
+"pregunta": "Una célula no tiene oxígeno. ¿A dónde sigue el piruvato?",
+"opciones": [
+"A la fermentación",
+"Se convierte otra vez en glucosa",
+"A la mitocondria"
+],
+"correcta": 0,
+"porque": "Sin oxígeno el piruvato va a la fermentación; con oxígeno va a la mitocondria."
+},
+{
+"pregunta": "Si entran 3 glucosas a la glucólisis, ¿cuántos piruvatos salen?",
+"opciones": [
+"2",
+"6",
+"3"
+],
+"correcta": 1,
+"porque": "Cada glucosa da 2 piruvatos, y 3 por 2 son 6."
+},
+{
+"pregunta": "¿Cuántos NADH se forman por cada glucosa en la glucólisis?",
+"opciones": [
+"2",
+"1",
+"4"
+],
+"correcta": 0,
+"porque": "Por cada glucosa se forman 2 NADH y 2 ATP netos."
+}
+],
+"isomeros-prepa": [
+{
+"pregunta": "¿Cuáles son isómeros de posición?",
+"opciones": [
+"1-propanol y 2-propanol",
+"Butano y agua",
+"Etanol y metano"
+],
+"correcta": 0,
+"porque": "Tienen las mismas piezas, pero un grupo cambió de lugar en la cadena."
+},
+{
+"pregunta": "¿Qué significa *cis* en un enlace doble?",
+"opciones": [
+"Los grupos están del mismo lado",
+"No hay enlace doble",
+"Los grupos están de lados opuestos"
+],
+"correcta": 0,
+"porque": "*Cis* es del mismo lado y *trans* es de lados opuestos."
+},
+{
+"pregunta": "¿Cuál pareja sí son isómeros?",
+"opciones": [
+"$\\ce{CH4}$ y $\\ce{C2H6}$",
+"Dos moléculas $\\ce{C4H10}$ con distinta forma",
+"Agua y sal"
+],
+"correcta": 1,
+"porque": "Los isómeros comparten fórmula molecular y cambian en la estructura."
+},
+{
+"pregunta": "En los isómeros de cadena, ¿qué cambia?",
+"opciones": [
+"La forma del esqueleto",
+"El número de átomos",
+"La familia de la molécula"
+],
+"correcta": 0,
+"porque": "En los de cadena las piezas se acomodan en un esqueleto de otra forma."
+},
+{
+"pregunta": "Con 6 bloques armas una torre y una casa. ¿Con qué idea de química se parece?",
+"opciones": [
+"Mismas piezas, otro acomodo: isómeros",
+"Cambiar de elemento",
+"Quitar bloques"
+],
+"correcta": 0,
+"porque": "Los isómeros usan los mismos átomos acomodados de otra forma."
+}
+],
+"lipidos-prepa": [
+{
+"pregunta": "¿Qué lípidos son las grasas y los aceites que guardan energía?",
+"opciones": [
+"Ceras",
+"Fosfolípidos",
+"Triglicéridos"
+],
+"correcta": 2,
+"porque": "Los triglicéridos son la despensa de energía del cuerpo."
+},
+{
+"pregunta": "¿Para qué sirven las ceras?",
+"opciones": [
+"Para disolverse en agua",
+"Para formar el ADN",
+"Para proteger hojas y plumas"
+],
+"correcta": 2,
+"porque": "Las ceras cubren hojas y plumas y las protegen."
+},
+{
+"pregunta": "Las grasas saturadas, ¿cómo suelen ser a temperatura normal?",
+"opciones": [
+"Líquidas",
+"Gases",
+"Sólidas"
+],
+"correcta": 2,
+"porque": "Las saturadas suelen ser sólidas, como la manteca."
+},
+{
+"pregunta": "¿A qué tipo de lípido pertenecen algunas hormonas?",
+"opciones": [
+"Ceras",
+"Triglicéridos",
+"Esteroides"
+],
+"correcta": 2,
+"porque": "Los esteroides incluyen el colesterol y algunas hormonas."
+},
+{
+"pregunta": "En una etiqueta ves un aceite líquido. ¿Qué tipo de grasa suele ser?",
+"opciones": [
+"Una proteína",
+"Insaturada",
+"Saturada"
+],
+"correcta": 1,
+"porque": "Las grasas insaturadas suelen ser líquidas."
+}
+],
+"mol-y-conversion-de-gramos-a-moles-prepa": [
+{
+"pregunta": "¿Cuántos moles son 88 g de $\\ce{CO2}$ si $M = 44$?",
+"opciones": [
+"2 mol",
+"44 mol",
+"1 mol"
+],
+"correcta": 0,
+"porque": "Moles es gramos entre masa molar: $88 \\div 44 = 2$."
+},
+{
+"pregunta": "¿Cuántos gramos son 2 mol de NaCl si $M = 58.5$?",
+"opciones": [
+"117 g",
+"29.25 g",
+"58.5 g"
+],
+"correcta": 0,
+"porque": "De moles a gramos se multiplica: $2 \\times 58.5 = 117$."
+},
+{
+"pregunta": "¿Cuántas moléculas hay en 0.5 mol de agua?",
+"opciones": [
+"$3.011 \\times 10^{22}$",
+"$3.011 \\times 10^{23}$",
+"$6.022 \\times 10^{23}$"
+],
+"correcta": 1,
+"porque": "Multiplicas $0.5 \\times 6.022 \\times 10^{23}$ y sale $3.011 \\times 10^{23}$."
+},
+{
+"pregunta": "En el salón de clases hay 60 huevos. ¿Cuántas docenas son?",
+"opciones": [
+"12",
+"5",
+"6"
+],
+"correcta": 1,
+"porque": "Una docena es 12, y $60 \\div 12 = 5$. El mol cuenta igual, pero con átomos."
+},
+{
+"pregunta": "¿Qué significa la masa molar $M$?",
+"opciones": [
+"Cuántos átomos tiene una molécula",
+"Cuánto pesa un mol",
+"El volumen de un gas"
+],
+"correcta": 1,
+"porque": "La masa molar es el peso de un mol de la sustancia."
+}
+],
+"numero-de-oxidacion-paso-a-paso-prepa": [
+{
+"pregunta": "¿Cuál es el número de oxidación del azufre en $\\ce{SO2}$?",
+"opciones": [
+"−4",
+"+2",
+"+4"
+],
+"correcta": 2,
+"porque": "El oxígeno es −2 y hay dos, así que $x - 4 = 0$ y $x = +4$."
+},
+{
+"pregunta": "¿Cuál es el número de oxidación del Mn en $\\ce{KMnO4}$?",
+"opciones": [
+"+5",
+"−7",
+"+7"
+],
+"correcta": 2,
+"porque": "$+1 + x - 8 = 0$, así que $x = +7$."
+},
+{
+"pregunta": "¿Cuánto vale el número de oxidación de un elemento solo, como $\\ce{O2}$?",
+"opciones": [
+"+1, porque es del grupo 1",
+"0, porque es un elemento solo",
+"−2, porque tiene oxígeno"
+],
+"correcta": 1,
+"porque": "Un elemento solo siempre tiene número de oxidación 0."
+},
+{
+"pregunta": "¿Cuál es el número de oxidación del azufre en $\\ce{SO4^2-}$?",
+"opciones": [
+"+4",
+"+6",
+"−2"
+],
+"correcta": 1,
+"porque": "En un ion debe sumar la carga: $x - 8 = -2$, así que $x = +6$."
+},
+{
+"pregunta": "En un compuesto, ¿cuánto suman los números de oxidación?",
+"opciones": [
+"Cero",
+"Diez",
+"Uno"
+],
+"correcta": 0,
+"porque": "En un compuesto todo se cancela y suma cero, como un marcador."
+}
+],
+"oxido-reduccion-combustion-prepa": [
+{
+"pregunta": "En $\\ce{2Ca + O2 -> 2CaO}$, ¿qué se reduce?",
+"opciones": [
+"El oxígeno, porque gana electrones",
+"El calcio, porque pierde electrones",
+"El calcio, porque gana electrones"
+],
+"correcta": 0,
+"porque": "El oxígeno recibe los electrones que da el calcio, y quien gana se reduce."
+},
+{
+"pregunta": "Oxidar es...",
+"opciones": [
+"Perder electrones",
+"Perder protones",
+"Ganar electrones"
+],
+"correcta": 0,
+"porque": "Quien se oxida pierde electrones, y quien se reduce los gana."
+},
+{
+"pregunta": "¿Qué es la combustión?",
+"opciones": [
+"Una redox rápida con oxígeno que da luz y calor",
+"Una mezcla de agua y sal",
+"Un cambio de estado"
+],
+"correcta": 0,
+"porque": "En la combustión algo se quema con oxígeno y da luz y calor."
+},
+{
+"pregunta": "Dejas un clavo mojado y uno seco. ¿Cuál se oxida más?",
+"opciones": [
+"Los dos igual",
+"El mojado",
+"El seco"
+],
+"correcta": 1,
+"porque": "La humedad y el oxígeno ayudan a que el hierro pierda electrones."
+},
+{
+"pregunta": "Si el magnesio pierde electrones, ¿qué pasa con ellos?",
+"opciones": [
+"Otro átomo los gana",
+"Se quedan solos para siempre",
+"Desaparecen"
+],
+"correcta": 0,
+"porque": "Una redox siempre va en pareja: si alguien da, alguien recibe."
+}
+],
+"pilas-y-electrolisis-prepa": [
+{
+"pregunta": "¿Dónde ocurre la reducción en una pila?",
+"opciones": [
+"En el agua",
+"En el ánodo",
+"En el cátodo"
+],
+"correcta": 2,
+"porque": "Cátodo y reducción van juntos; ánodo y oxidación también."
+},
+{
+"pregunta": "¿Cuál proceso necesita que le pongas energía eléctrica?",
+"opciones": [
+"La pila, que funciona sola",
+"Ninguno, los dos van solos",
+"La electrólisis, no espontánea"
+],
+"correcta": 2,
+"porque": "La electrólisis no es espontánea y requiere energía eléctrica."
+},
+{
+"pregunta": "¿Para qué sirve la electrólisis en la industria?",
+"opciones": [
+"Para hacer que baje un tobogán",
+"Para cromar metales",
+"Para cargar una pila sola"
+],
+"correcta": 1,
+"porque": "La electrólisis se usa para cromar metales y producir hidrógeno."
+},
+{
+"pregunta": "Una linterna funciona con una pila. ¿Qué pasa dentro?",
+"opciones": [
+"No hay ninguna reacción",
+"Una reacción sola produce electricidad",
+"Se necesita electricidad para que reaccione"
+],
+"correcta": 1,
+"porque": "La pila es como un tobogán: baja sola y da energía."
+},
+{
+"pregunta": "¿Cómo se puede producir hidrógeno a partir del agua?",
+"opciones": [
+"Dejándola reposar",
+"Con electrólisis",
+"Con una pila de tobogán"
+],
+"correcta": 1,
+"porque": "La electrólisis separa el agua en hidrógeno y oxígeno."
+}
+],
+"polimeros-prepa": [
+{
+"pregunta": "¿Cuál es el monómero del PVC?",
+"opciones": [
+"Eteno, el de las bolsas de plástico",
+"Glucosa, del almidón y celulosa",
+"Cloruro de vinilo, el de los tubos"
+],
+"correcta": 2,
+"porque": "El monómero del PVC es el cloruro de vinilo."
+},
+{
+"pregunta": "Las proteínas son polímeros naturales. ¿De qué monómeros están hechas?",
+"opciones": [
+"Nucleótidos",
+"Aminoácidos",
+"Glucosas"
+],
+"correcta": 1,
+"porque": "Las proteínas son cadenas de aminoácidos."
+},
+{
+"pregunta": "En un collar largo de cuentas iguales, ¿qué son las cuentas?",
+"opciones": [
+"Los monómeros",
+"El polímero completo",
+"El agua"
+],
+"correcta": 0,
+"porque": "Las cuentas iguales son los monómeros y el collar es el polímero."
+},
+{
+"pregunta": "En una reacción de adición, ¿qué pasa?",
+"opciones": [
+"Los monómeros se rompen",
+"Se libera agua",
+"Los monómeros se unen sin perder átomos"
+],
+"correcta": 2,
+"porque": "En la adición se unen sin perder átomos; en la condensación sale una molécula pequeña."
+},
+{
+"pregunta": "En tu mochila hay un vaso de unicel. ¿De qué polímero está hecho?",
+"opciones": [
+"Polietileno",
+"Poliestireno",
+"Almidón"
+],
+"correcta": 1,
+"porque": "El poliestireno viene del estireno y se usa en unicel."
+}
+],
+"principio-de-le-chatelier-prepa": [
+{
+"pregunta": "Agregas más reactivo a un equilibrio. ¿Hacia dónde va?",
+"opciones": [
+"Hacia los reactivos",
+"Se queda igual",
+"Hacia los productos"
+],
+"correcta": 2,
+"porque": "El sistema gasta lo que le agregas y forma más productos."
+},
+{
+"pregunta": "En $\\ce{N2 + 3H2 <=> 2NH3}$ subes la presión. ¿Hacia dónde va?",
+"opciones": [
+"Hacia el $\\ce{N2}$ y el $\\ce{H2}$",
+"No se mueve",
+"Hacia el $\\ce{NH3}$"
+],
+"correcta": 2,
+"porque": "Va al lado con menos moles de gas: 2 contra 4."
+},
+{
+"pregunta": "Una reacción libera calor y subes la temperatura. ¿Hacia dónde va?",
+"opciones": [
+"Se detiene",
+"Hacia los reactivos",
+"Hacia los productos"
+],
+"correcta": 1,
+"porque": "Va hacia donde se absorbe calor, y eso ocurre en el sentido contrario."
+},
+{
+"pregunta": "Agregas producto a un equilibrio. ¿Hacia dónde va?",
+"opciones": [
+"Hacia los productos",
+"No pasa nada",
+"Hacia los reactivos"
+],
+"correcta": 2,
+"porque": "El sistema quita el producto extra y regresa hacia los reactivos."
+},
+{
+"pregunta": "¿Qué hace un sistema en equilibrio cuando le cambias algo?",
+"opciones": [
+"Se rompe siempre",
+"Hace lo contrario para compensarlo",
+"Hace lo mismo que tú"
+],
+"correcta": 1,
+"porque": "Como un niño que lleva la contraria, el sistema contrarresta el cambio."
+}
+]
+}

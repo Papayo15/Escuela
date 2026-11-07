@@ -1,0 +1,522 @@
+{
+"primer-condicional-prepa": [
+{
+"pregunta": "Completa: *If it is sunny, we ___ outside.*",
+"opciones": [
+"play will",
+"will play",
+"would play"
+],
+"correcta": 1,
+"porque": "En el primer condicional, la otra parte lleva *will* y el verbo base."
+},
+{
+"pregunta": "Completa: *If he ___ early, he will see the show.*",
+"opciones": [
+"arrives",
+"will arrive",
+"arrived"
+],
+"correcta": 0,
+"porque": "Después de *if* se usa presente simple, no *will*."
+},
+{
+"pregunta": "Corrige: *If I will see Ana, I tell her.*",
+"opciones": [
+"If I saw Ana, I tell her.",
+"If I will see Ana, I will tell her.",
+"If I see Ana, I will tell her."
+],
+"correcta": 2,
+"porque": "*If* lleva presente y la otra parte lleva *will*."
+},
+{
+"pregunta": "¿Qué oración habla de algo posible mañana?",
+"opciones": [
+"If she studies, she will pass.",
+"If she studied, she would pass.",
+"If she had studied, she would pass."
+],
+"correcta": 0,
+"porque": "El primer condicional habla de futuro posible."
+},
+{
+"pregunta": "Completa: *We will have a party if the teacher ___ yes.*",
+"opciones": [
+"says, porque va en presente",
+"will say, porque habla de futuro",
+"is saying, porque es ahora"
+],
+"correcta": 0,
+"porque": "Después de *if* no se usa *will*, se usa el presente."
+}
+],
+"pronunciacion-de-la-terminacion-ed-prepa": [
+{
+"pregunta": "¿Cómo suena la -ed de *wanted*?",
+"opciones": [
+"/d/",
+"/t/",
+"/ɪd/"
+],
+"correcta": 2,
+"porque": "Tras sonido *t* o *d*, la -ed suena /ɪd/ y agrega sílaba."
+},
+{
+"pregunta": "¿Cómo suena la -ed de *jumped*?",
+"opciones": [
+"/t/",
+"/ɪd/",
+"/d/"
+],
+"correcta": 0,
+"porque": "*Jump* acaba en sonido sordo *p*, por eso suena /t/."
+},
+{
+"pregunta": "¿Cómo suena la -ed de *opened*?",
+"opciones": [
+"/ɪd/",
+"/t/",
+"/d/"
+],
+"correcta": 2,
+"porque": "*Open* acaba en sonido *n*, que no es sordo, así que suena /d/."
+},
+{
+"pregunta": "¿Cuántas sílabas tiene *decided*?",
+"opciones": [
+"Una",
+"Tres",
+"Dos"
+],
+"correcta": 1,
+"porque": "*Decided* termina en *d*, así que agrega sílaba: de-ci-ded."
+},
+{
+"pregunta": "¿Qué verbo suena con /t/ al final?",
+"opciones": [
+"called",
+"needed",
+"washed"
+],
+"correcta": 2,
+"porque": "*Wash* acaba en sonido sordo *sh*, así que suena /t/."
+}
+],
+"question-tags-prepa": [
+{
+"pregunta": "Completa: *You are a student, ___?*",
+"opciones": [
+"are you",
+"don't you",
+"aren't you"
+],
+"correcta": 2,
+"porque": "Oración positiva con *are*, cola negativa con *are*: aren't you."
+},
+{
+"pregunta": "Completa: *Ana can't dance, ___?*",
+"opciones": [
+"does she",
+"can't she",
+"can she"
+],
+"correcta": 2,
+"porque": "Oración negativa, cola positiva con el mismo ayudante: can she."
+},
+{
+"pregunta": "Completa: *They live here, ___?*",
+"opciones": [
+"don't they",
+"aren't they",
+"do they"
+],
+"correcta": 0,
+"porque": "En presente simple positivo, la cola usa *don't* y la persona."
+},
+{
+"pregunta": "Completa: *He didn't call, ___?*",
+"opciones": [
+"didn't he",
+"did he",
+"does he"
+],
+"correcta": 1,
+"porque": "Oración negativa, cola positiva: did he."
+},
+{
+"pregunta": "Completa: *It is cold today, ___?*",
+"opciones": [
+"doesn't it",
+"isn't it",
+"is it"
+],
+"correcta": 1,
+"porque": "El ayudante es *is*; se cambia a negativo: isn't it."
+}
+],
+"reported-questions-prepa": [
+{
+"pregunta": "Pasa a indirecta: *\"Where do you study?\"*",
+"opciones": [
+"She asked where do I study.",
+"She asked where I studied.",
+"She asked where did I study."
+],
+"correcta": 1,
+"porque": "El orden vuelve normal y el presente pasa a pasado."
+},
+{
+"pregunta": "Pasa a indirecta: *\"Is it ready?\"*",
+"opciones": [
+"He asked if it was ready.",
+"He asked was it ready.",
+"He asked if was it ready."
+],
+"correcta": 0,
+"porque": "Las preguntas de sí o no usan *if* y orden normal."
+},
+{
+"pregunta": "Pasa a indirecta: *\"Will you come?\"*",
+"opciones": [
+"She asked if I would come.",
+"She asked if I will come.",
+"She asked would I come."
+],
+"correcta": 0,
+"porque": "*Will* se vuelve *would* al contar la pregunta."
+},
+{
+"pregunta": "¿Qué signo desaparece en una pregunta indirecta?",
+"opciones": [
+"La coma",
+"El de interrogación",
+"El punto final"
+],
+"correcta": 1,
+"porque": "Al contarla ya no es pregunta directa, así que no lleva signo."
+},
+{
+"pregunta": "Corrige: *He asked what time is it.*",
+"opciones": [
+"He asked what time was it.",
+"He asked what time it was.",
+"He asked what time it is was."
+],
+"correcta": 1,
+"porque": "Va en orden normal y el tiempo retrocede a *was*."
+}
+],
+"rutinas-habitos-contexto-ingles-prepa": [
+{
+"pregunta": "Completa: *She ___ to school by bike.*",
+"opciones": [
+"goes",
+"go",
+"going"
+],
+"correcta": 0,
+"porque": "Con *she* el verbo del presente lleva -s o -es: goes."
+},
+{
+"pregunta": "Completa: *I drink water ___ it keeps me healthy.*",
+"opciones": [
+"and then",
+"in order",
+"because"
+],
+"correcta": 2,
+"porque": "*Because* da la razón y va seguido de una oración."
+},
+{
+"pregunta": "Completa: *He studies every night ___ pass his exams.*",
+"opciones": [
+"to",
+"because",
+"and"
+],
+"correcta": 0,
+"porque": "*To* más verbo base dice el propósito: para pasar."
+},
+{
+"pregunta": "Corrige: *My brother don't eat meat.*",
+"opciones": [
+"My brother doesn't eat meat.",
+"My brother not eat meat.",
+"My brother doesn't eats meat."
+],
+"correcta": 0,
+"porque": "Con *he* se usa *doesn't* y el verbo base."
+},
+{
+"pregunta": "¿Qué palabras ordenan una rutina?",
+"opciones": [
+"but, or, so",
+"always, never, may",
+"first, then, after that"
+],
+"correcta": 2,
+"porque": "*First, then, after that* marcan el orden de los pasos."
+}
+],
+"segundo-condicional-prepa": [
+{
+"pregunta": "Completa: *If I ___ a bird, I would fly.*",
+"opciones": [
+"will be",
+"were",
+"am"
+],
+"correcta": 1,
+"porque": "En el segundo condicional se usa *were* con todas las personas."
+},
+{
+"pregunta": "Completa: *If we had more time, we ___ visit you.*",
+"opciones": [
+"would",
+"did",
+"will"
+],
+"correcta": 0,
+"porque": "La otra parte lleva *would* más verbo base."
+},
+{
+"pregunta": "¿Qué oración es imaginaria?",
+"opciones": [
+"If I wins, I share it.",
+"If I won, I would share it.",
+"If I win, I will share it."
+],
+"correcta": 1,
+"porque": "El segundo condicional usa pasado y *would* para algo irreal."
+},
+{
+"pregunta": "Corrige: *If she would study, she would pass.*",
+"opciones": [
+"If she studies, she would pass.",
+"If she studied, she would pass.",
+"If she would studied, she would pass."
+],
+"correcta": 1,
+"porque": "Después de *if* va pasado simple, no *would*."
+},
+{
+"pregunta": "Di «Si yo fuera maestro, daría menos tarea».",
+"opciones": [
+"If I were a teacher, I will give less homework.",
+"If I were a teacher, I would give less homework.",
+"If I am a teacher, I give less homework."
+],
+"correcta": 1,
+"porque": "Se usa *were* y *would*, porque es algo imaginario."
+}
+],
+"so-do-i-y-neither-do-i-prepa": [
+{
+"pregunta": "Responde que tú también: *I like music.*",
+"opciones": [
+"So do I.",
+"So am I.",
+"Neither do I."
+],
+"correcta": 0,
+"porque": "Es algo positivo y el ayudante es *do*: So do I."
+},
+{
+"pregunta": "Responde que tú tampoco: *I don't have a pen.*",
+"opciones": [
+"So do I.",
+"Neither do I.",
+"Neither have I."
+],
+"correcta": 1,
+"porque": "Es algo negativo y el ayudante es *do*: Neither do I."
+},
+{
+"pregunta": "Responde que tú también: *I was late.*",
+"opciones": [
+"So did I.",
+"Neither was I.",
+"So was I."
+],
+"correcta": 2,
+"porque": "El ayudante copia el verbo *was*: So was I."
+},
+{
+"pregunta": "Responde que tú también: *I can cook.*",
+"opciones": [
+"So can I.",
+"So do I.",
+"Neither can I."
+],
+"correcta": 0,
+"porque": "El ayudante es *can*: So can I."
+},
+{
+"pregunta": "¿Qué frase dice «yo tampoco» en plática?",
+"opciones": [
+"So me.",
+"Me neither.",
+"Me too."
+],
+"correcta": 1,
+"porque": "*Me neither* es la forma corta de decir yo tampoco."
+}
+],
+"tercer-condicional-prepa": [
+{
+"pregunta": "Completa: *If I had left early, I ___ have arrived on time.*",
+"opciones": [
+"had",
+"will",
+"would"
+],
+"correcta": 2,
+"porque": "El tercer condicional usa *would have* más participio."
+},
+{
+"pregunta": "Completa: *If we ___ the bus, we would have been late.*",
+"opciones": [
+"would miss",
+"had missed",
+"missed"
+],
+"correcta": 1,
+"porque": "Después de *if* va *had* más participio: had missed."
+},
+{
+"pregunta": "¿Qué habla de algo que no pasó?",
+"opciones": [
+"If he had called, I would have answered.",
+"If he called, I would answer.",
+"If he calls, I will answer."
+],
+"correcta": 0,
+"porque": "El tercer condicional habla de un pasado que ya no se puede cambiar."
+},
+{
+"pregunta": "Di «Si hubiera estudiado, habría pasado».",
+"opciones": [
+"If I had studied, I would have passed.",
+"If I would study, I had passed.",
+"If I studied, I would pass."
+],
+"correcta": 0,
+"porque": "Se usa *had* más participio y *would have* más participio."
+},
+{
+"pregunta": "*If she had eaten, she wouldn't have been hungry.* ¿Ella comió?",
+"opciones": [
+"Sí, sí comió",
+"No, no comió",
+"Comió dos veces"
+],
+"correcta": 1,
+"porque": "Es un pasado que no pasó: no comió y por eso tuvo hambre."
+}
+],
+"voz-pasiva-prepa": [
+{
+"pregunta": "Pasa a pasiva: *They paint the wall.*",
+"opciones": [
+"The wall is paint.",
+"The wall paints.",
+"The wall is painted."
+],
+"correcta": 2,
+"porque": "Se usa *to be* más participio: is painted."
+},
+{
+"pregunta": "Pasa a pasiva: *Leo broke the window.*",
+"opciones": [
+"The window was break by Leo.",
+"The window broke by Leo.",
+"The window was broken by Leo."
+],
+"correcta": 2,
+"porque": "En pasado se usa *was* más participio y *by* para quien lo hizo."
+},
+{
+"pregunta": "Completa: *English ___ spoken in many countries.*",
+"opciones": [
+"is",
+"are",
+"be"
+],
+"correcta": 0,
+"porque": "*English* es singular, así que va *is* más participio."
+},
+{
+"pregunta": "Pasa a activa: *The song was sung by Ana.*",
+"opciones": [
+"Ana was sing the song.",
+"Ana sang the song.",
+"Ana sings the song."
+],
+"correcta": 1,
+"porque": "La activa pone primero a quien hace la acción, con el verbo en pasado."
+},
+{
+"pregunta": "¿Qué forma es pasiva?",
+"opciones": [
+"The book reads.",
+"The book is reading.",
+"The book was read."
+],
+"correcta": 2,
+"porque": "La pasiva usa *to be* más participio: was read."
+}
+],
+"wish-e-if-only-prepa": [
+{
+"pregunta": "Completa: *I wish I ___ a bigger house.*",
+"opciones": [
+"will have",
+"have",
+"had"
+],
+"correcta": 2,
+"porque": "Para un deseo sobre ahora se usa pasado: had."
+},
+{
+"pregunta": "Completa: *I wish I ___ to the party.* (no fuiste)",
+"opciones": [
+"would go",
+"went",
+"had gone"
+],
+"correcta": 2,
+"porque": "Para un deseo sobre el pasado se usa *had* más participio."
+},
+{
+"pregunta": "Di «Ojalá que dejara de llover» con *rain*.",
+"opciones": [
+"I wish it stops raining.",
+"I wish it would stop raining.",
+"I wish it stopped to rain."
+],
+"correcta": 1,
+"porque": "Para quejas sobre algo se usa *would*."
+},
+{
+"pregunta": "Completa: *If only I ___ more patient.* (ahora)",
+"opciones": [
+"were",
+"will be",
+"would be"
+],
+"correcta": 0,
+"porque": "*If only* funciona como *wish* y pide pasado: were."
+},
+{
+"pregunta": "¿Qué significa *If only I had a car*?",
+"opciones": [
+"Si solo tengo un coche",
+"Tengo un coche nuevo",
+"Ojalá tuviera un coche"
+],
+"correcta": 2,
+"porque": "*If only* es ojalá, y el pasado marca algo irreal."
+}
+]
+}

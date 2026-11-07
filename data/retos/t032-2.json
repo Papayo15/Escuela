@@ -1,0 +1,522 @@
+{
+"proteinas-prepa": [
+{
+"pregunta": "¿Qué es la estructura primaria de una proteína?",
+"opciones": [
+"El orden de los aminoácidos",
+"La forma completa en 3D",
+"Varias cadenas juntas"
+],
+"correcta": 0,
+"porque": "La primaria es el orden en que van los aminoácidos, como vagones de un tren."
+},
+{
+"pregunta": "¿Qué proteína forma el pelo?",
+"opciones": [
+"Queratina",
+"Anticuerpo",
+"Hemoglobina"
+],
+"correcta": 0,
+"porque": "La queratina forma el pelo y las uñas."
+},
+{
+"pregunta": "¿Qué función tienen los anticuerpos?",
+"opciones": [
+"Llevar oxígeno",
+"Defender al cuerpo",
+"Formar el pelo"
+],
+"correcta": 1,
+"porque": "Los anticuerpos son proteínas que defienden contra lo que enferma."
+},
+{
+"pregunta": "¿Qué es la estructura cuaternaria?",
+"opciones": [
+"Una cadena recta",
+"Varias cadenas juntas",
+"Solo un aminoácido"
+],
+"correcta": 1,
+"porque": "La cuaternaria une varias cadenas en una sola proteína."
+},
+{
+"pregunta": "¿Cómo se llama la forma completa en 3D de una cadena de proteína?",
+"opciones": [
+"Estructura terciaria",
+"Estructura secundaria",
+"Estructura primaria"
+],
+"correcta": 0,
+"porque": "La terciaria es la forma completa en 3D, y de ella depende el trabajo de la proteína."
+}
+],
+"reacciones-quimicas-tipos-prepa": [
+{
+"pregunta": "Clasifica: $\\ce{CaCO3 -> CaO + CO2}$.",
+"opciones": [
+"Descomposición",
+"Síntesis",
+"Doble sustitución"
+],
+"correcta": 0,
+"porque": "Una sola sustancia se parte en dos, y eso es descomposición."
+},
+{
+"pregunta": "Clasifica: $\\ce{Mg + 2HCl -> MgCl2 + H2}$.",
+"opciones": [
+"Síntesis",
+"Sustitución simple",
+"Doble sustitución"
+],
+"correcta": 1,
+"porque": "El magnesio le quita el lugar al hidrógeno, y eso es sustitución simple."
+},
+{
+"pregunta": "Clasifica: $\\ce{KCl + AgNO3 -> AgCl + KNO3}$.",
+"opciones": [
+"Descomposición",
+"Doble sustitución",
+"Sustitución simple"
+],
+"correcta": 1,
+"porque": "Dos parejas se cambian de compañero, y eso es doble sustitución."
+},
+{
+"pregunta": "Echas vinagre al bicarbonato en el salón y salen burbujas. ¿Qué señal de reacción es?",
+"opciones": [
+"Burbujas",
+"Olor",
+"Cambio de color"
+],
+"correcta": 0,
+"porque": "Las burbujas son un gas nuevo que se formó, una señal de reacción."
+},
+{
+"pregunta": "Una vela se quema con oxígeno y da luz y calor. ¿Qué tipo de reacción es?",
+"opciones": [
+"Síntesis",
+"Descomposición",
+"Combustión"
+],
+"correcta": 2,
+"porque": "Algo que se quema con oxígeno y da calor es una combustión."
+}
+],
+"reactivo-limitante-prepa": [
+{
+"pregunta": "Cada sándwich lleva 2 panes y 1 jamón. Tienes 10 panes y 6 jamones. ¿Cuántos sándwiches salen?",
+"opciones": [
+"10",
+"5",
+"6"
+],
+"correcta": 1,
+"porque": "Con 10 panes salen 5 sándwiches, y el pan se acaba primero."
+},
+{
+"pregunta": "En $\\ce{2H2 + O2 -> 2H2O}$ hay 6 mol de $\\ce{H2}$ y 2 mol de $\\ce{O2}$. ¿Cuál es el limitante?",
+"opciones": [
+"Ninguno",
+"$\\ce{O2}$",
+"$\\ce{H2}$"
+],
+"correcta": 1,
+"porque": "$\\ce{H2}$: $6 \\div 2 = 3$; $\\ce{O2}$: $2 \\div 1 = 2$. Gana el menor."
+},
+{
+"pregunta": "Con 6 mol de $\\ce{H2}$ y 2 mol de $\\ce{O2}$, ¿cuántos mol de agua salen?",
+"opciones": [
+"6 mol",
+"2 mol",
+"4 mol"
+],
+"correcta": 2,
+"porque": "El $\\ce{O2}$ limita y la ecuación dice 1 a 2, así que salen 4 mol de agua."
+},
+{
+"pregunta": "¿Qué es el reactivo limitante?",
+"opciones": [
+"El que sobra al final",
+"El que se acaba primero",
+"El más caro"
+],
+"correcta": 1,
+"porque": "El limitante se acaba primero y detiene la reacción."
+},
+{
+"pregunta": "Cada niño necesita 1 mochila y 2 lápices. Hay 5 mochilas y 8 lápices. ¿Qué es el limitante?",
+"opciones": [
+"Las mochilas",
+"Los lápices",
+"Los niños"
+],
+"correcta": 1,
+"porque": "Con 8 lápices solo alcanza para 4 niños, y sobra una mochila."
+}
+],
+"rendimiento-de-una-reaccion-prepa": [
+{
+"pregunta": "Esperabas 40 g y obtuviste 30 g. ¿Cuál es el rendimiento?",
+"opciones": [
+"25 %",
+"133 %",
+"75 %"
+],
+"correcta": 2,
+"porque": "$\\frac{30}{40} \\times 100 = 75\\%$."
+},
+{
+"pregunta": "Esperabas 50 g y tu rendimiento fue de 90 %. ¿Cuántos gramos obtuviste?",
+"opciones": [
+"90 g",
+"55 g",
+"45 g"
+],
+"correcta": 2,
+"porque": "$0.9 \\times 50 = 45$ g reales."
+},
+{
+"pregunta": "De 10 aviones de papel, 7 vuelan bien. ¿Cuál es el rendimiento?",
+"opciones": [
+"30 %",
+"7 %",
+"70 %"
+],
+"correcta": 2,
+"porque": "$\\frac{7}{10} \\times 100 = 70\\%$."
+},
+{
+"pregunta": "¿Qué es el valor teórico?",
+"opciones": [
+"Lo que de verdad obtuviste",
+"Lo que sobró",
+"Lo que calculas que debería salir"
+],
+"correcta": 2,
+"porque": "El teórico es lo calculado y el real es lo que sale en el experimento."
+},
+{
+"pregunta": "Si el rendimiento sale de 60 %, ¿qué quiere decir?",
+"opciones": [
+"Obtuviste 40 de cada 100 esperados",
+"Obtuviste 60 de cada 100 esperados",
+"Obtuviste más de lo esperado"
+],
+"correcta": 1,
+"porque": "El rendimiento compara lo real con lo esperado, por 100."
+}
+],
+"respiracion-aerobia-anaerobia-prepa": [
+{
+"pregunta": "¿Cuántos ATP da la respiración anaerobia?",
+"opciones": [
+"6",
+"30",
+"2"
+],
+"correcta": 2,
+"porque": "Sin oxígeno solo se obtienen 2 ATP, como unas monedas."
+},
+{
+"pregunta": "Una glucosa entra a la respiración aerobia. ¿Cuántas moléculas de dióxido de carbono salen?",
+"opciones": [
+"1",
+"6",
+"12"
+],
+"correcta": 1,
+"porque": "La ecuación da 6 de $\\ce{CO2}$ y 6 de agua."
+},
+{
+"pregunta": "¿Qué respiración da más energía?",
+"opciones": [
+"La aerobia",
+"La anaerobia",
+"Dan lo mismo"
+],
+"correcta": 0,
+"porque": "La aerobia usa oxígeno y da cerca de 30 ATP."
+},
+{
+"pregunta": "Corres un minuto y te arden las piernas. ¿Qué fermentación hay?",
+"opciones": [
+"Láctica",
+"Ninguna",
+"Alcohólica"
+],
+"correcta": 0,
+"porque": "Cuando falta oxígeno en el músculo se forma ácido láctico y arde."
+},
+{
+"pregunta": "¿Qué organismos hacen la fermentación alcohólica?",
+"opciones": [
+"Las levaduras",
+"Los músculos",
+"Las hojas"
+],
+"correcta": 0,
+"porque": "Las levaduras la usan para el pan y para hacer etanol."
+}
+],
+"sintesis-y-descomposicion-prepa": [
+{
+"pregunta": "¿Qué tipo es $\\ce{2Na + Cl2 -> 2NaCl}$?",
+"opciones": [
+"Síntesis",
+"Descomposición",
+"Sustitución simple"
+],
+"correcta": 0,
+"porque": "Dos sustancias se juntan en una, y eso es síntesis."
+},
+{
+"pregunta": "¿Qué tipo es $\\ce{2H2O2 -> 2H2O + O2}$?",
+"opciones": [
+"Doble sustitución",
+"Descomposición",
+"Síntesis"
+],
+"correcta": 1,
+"porque": "Una sola sustancia se parte en dos, y eso es descomposición."
+},
+{
+"pregunta": "En una síntesis, ¿cómo están las sustancias?",
+"opciones": [
+"Una a la izquierda y varias a la derecha",
+"Una de cada lado",
+"Varias a la izquierda y una a la derecha"
+],
+"correcta": 2,
+"porque": "En la síntesis se juntan varias para formar una sola."
+},
+{
+"pregunta": "Quieres descomponer $\\ce{CaCO3}$ en $\\ce{CaO}$ y $\\ce{CO2}$. ¿Qué le das?",
+"opciones": [
+"Nada, se parte solo",
+"Calor",
+"Frío"
+],
+"correcta": 1,
+"porque": "La descomposición suele necesitar energía, como el calor."
+},
+{
+"pregunta": "Armas un Lego y luego lo desarmas. ¿Qué es desarmarlo en química?",
+"opciones": [
+"Combustión",
+"Descomposición",
+"Síntesis"
+],
+"correcta": 1,
+"porque": "Desarmar es partir algo en piezas, como en una descomposición."
+}
+],
+"sustitucion-simple-y-doble-prepa": [
+{
+"pregunta": "Clasifica $\\ce{Mg + CuSO4 -> MgSO4 + Cu}$.",
+"opciones": [
+"Doble sustitución",
+"Síntesis",
+"Sustitución simple"
+],
+"correcta": 2,
+"porque": "El magnesio toma el lugar del cobre, y eso es sustitución simple."
+},
+{
+"pregunta": "Clasifica $\\ce{Pb(NO3)2 + 2KI -> PbI2 + 2KNO3}$.",
+"opciones": [
+"Sustitución simple",
+"Doble sustitución",
+"Descomposición"
+],
+"correcta": 1,
+"porque": "Los dos compuestos intercambian partes, y eso es doble sustitución."
+},
+{
+"pregunta": "En una sustitución simple, ¿cuándo pasa la sustitución?",
+"opciones": [
+"Cuando el que llega es más activo",
+"Cuando el que llega es más pesado",
+"Siempre pasa"
+],
+"correcta": 0,
+"porque": "Solo desplaza el elemento más activo, como zinc a cobre."
+},
+{
+"pregunta": "En $\\ce{AgNO3 + NaCl -> AgCl + NaNO3}$, ¿qué aparece en el líquido?",
+"opciones": [
+"Un sólido nuevo, el precipitado",
+"Nada nuevo, todo sigue igual",
+"Un gas que sale burbujeando"
+],
+"correcta": 0,
+"porque": "El $\\ce{AgCl}$ es un sólido que se forma en el líquido."
+},
+{
+"pregunta": "Cuatro compañeros bailan y las dos parejas se cambian. ¿Qué reacción es?",
+"opciones": [
+"Síntesis",
+"Doble sustitución",
+"Sustitución simple"
+],
+"correcta": 1,
+"porque": "Dos parejas que intercambian compañeros son una doble sustitución."
+}
+],
+"titulacion-prepa": [
+{
+"pregunta": "Usas 20 mL de NaOH 0.2 M para neutralizar 10 mL de HCl. ¿Qué concentración tiene el HCl?",
+"opciones": [
+"0.4 M",
+"0.1 M",
+"0.2 M"
+],
+"correcta": 0,
+"porque": "$M_a = \\frac{0.2 \\times 20}{10} = 0.4$ M."
+},
+{
+"pregunta": "Usas 25 mL de HCl 0.4 M para neutralizar 50 mL de NaOH. ¿Qué concentración tiene el NaOH?",
+"opciones": [
+"0.2 M",
+"0.4 M",
+"0.8 M"
+],
+"correcta": 0,
+"porque": "$M_b = \\frac{0.4 \\times 25}{50} = 0.2$ M."
+},
+{
+"pregunta": "¿Qué color toma la fenolftaleína al final de la titulación con una base?",
+"opciones": [
+"Amarillo",
+"Rosa",
+"Verde"
+],
+"correcta": 1,
+"porque": "La fenolftaleína se pone rosa cuando hay base de más."
+},
+{
+"pregunta": "¿Para qué sirve el matraz?",
+"opciones": [
+"Para medir las gotas añadidas",
+"Para tener el líquido que vas a medir",
+"Para cambiar el color"
+],
+"correcta": 1,
+"porque": "El matraz es el frasco donde está el líquido; la bureta mide lo que se añade."
+},
+{
+"pregunta": "Echas bicarbonato al vinagre y dejan de salir burbujas. ¿Qué pasó?",
+"opciones": [
+"Se acabó el agua",
+"Se neutralizó el ácido",
+"Se hizo más ácido"
+],
+"correcta": 1,
+"porque": "Cuando ya no burbujea, el bicarbonato terminó de neutralizar al vinagre."
+}
+],
+"atomo-composicion-electrica-prepa": [
+{
+"pregunta": "Un átomo de fósforo tiene $Z = 15$ y $A = 31$. ¿Cuántos neutrones tiene?",
+"opciones": [
+"46",
+"16",
+"15"
+],
+"correcta": 1,
+"porque": "Restas $A - Z$: $31 - 15 = 16$."
+},
+{
+"pregunta": "¿Qué partícula del átomo se mueve alrededor del núcleo?",
+"opciones": [
+"El protón",
+"El neutrón",
+"El electrón"
+],
+"correcta": 2,
+"porque": "Los electrones rodean al núcleo."
+},
+{
+"pregunta": "Un átomo neutro tiene 9 protones. ¿Cuántos electrones tiene?",
+"opciones": [
+"9",
+"0",
+"18"
+],
+"correcta": 0,
+"porque": "En un átomo neutro cada protón se cancela con un electrón."
+},
+{
+"pregunta": "Con 11 protones, ¿de qué elemento es el átomo?",
+"opciones": [
+"Carbono",
+"Sodio",
+"Helio"
+],
+"correcta": 1,
+"porque": "El número de protones, $Z$, dice qué elemento es, y con 11 siempre es sodio."
+},
+{
+"pregunta": "¿Qué número es $A$?",
+"opciones": [
+"Protones más neutrones",
+"Solo los protones",
+"Solo los electrones"
+],
+"correcta": 0,
+"porque": "$A$ suma las partículas del núcleo: protones y neutrones."
+}
+],
+"ciencia-actividad-colectiva-prepa": [
+{
+"pregunta": "Ya tienes una hipótesis. ¿Qué sigue en el camino de la ciencia?",
+"opciones": [
+"Cambiar la pregunta sin probar",
+"Experimentar",
+"Olvidarla"
+],
+"correcta": 1,
+"porque": "Después de la hipótesis se hace un experimento para probarla."
+},
+{
+"pregunta": "¿Para qué comparte sus resultados un científico?",
+"opciones": [
+"Para que otros los revisen",
+"Para ocultar sus errores",
+"Para que nadie los conozca"
+],
+"correcta": 0,
+"porque": "Compartir permite que otros revisen y mejoren las ideas."
+},
+{
+"pregunta": "¿Por qué se comparten los resultados?",
+"opciones": [
+"Para que nadie los repita",
+"Para que otros los revisen y encuentren errores",
+"Para ganar un premio"
+],
+"correcta": 1,
+"porque": "Otros repiten el experimento y confirman o corrigen los resultados."
+},
+{
+"pregunta": "Salen datos nuevos que no cuadran con una explicación. ¿Qué puede pasar?",
+"opciones": [
+"Se ignoran los datos",
+"La ciencia se detiene",
+"La explicación puede cambiar"
+],
+"correcta": 2,
+"porque": "En la ciencia una explicación cambia si hay datos nuevos."
+},
+{
+"pregunta": "Pones una planta con luz y otra sin luz, con la misma agua. ¿Qué estás cambiando?",
+"opciones": [
+"La planta",
+"La luz",
+"El agua"
+],
+"correcta": 1,
+"porque": "Solo cambias la luz y dejas igual lo demás."
+}
+]
+}

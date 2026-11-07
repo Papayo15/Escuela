@@ -1,0 +1,522 @@
+{
+"zero-conditional-prepa": [
+{
+"pregunta": "Completa: *If you ___ a plant, it grows.*",
+"opciones": [
+"water",
+"will water",
+"watered"
+],
+"correcta": 0,
+"porque": "En el zero conditional se usa presente en las dos partes."
+},
+{
+"pregunta": "Completa: *If the sun sets, it ___ dark.*",
+"opciones": [
+"gets",
+"is get",
+"will gets"
+],
+"correcta": 0,
+"porque": "Es algo que siempre pasa, así que va presente: gets."
+},
+{
+"pregunta": "¿Qué oración es zero conditional?",
+"opciones": [
+"If you cool milk, it stays fresh.",
+"If you cool milk, it will stay fresh.",
+"If you cooled milk, it would stay fresh."
+],
+"correcta": 0,
+"porque": "Los hechos que siempre se cumplen usan presente y presente."
+},
+{
+"pregunta": "Completa: *___ you mix blue and yellow, you get green.*",
+"opciones": [
+"Although, que es aunque",
+"If, que significa si",
+"Because, que es porque"
+],
+"correcta": 1,
+"porque": "En el zero conditional se usa *if* para hechos que siempre pasan."
+},
+{
+"pregunta": "¿Cuál es un hecho siempre cierto?",
+"opciones": [
+"If you drop a ball, it will bounce.",
+"If you drop a ball, it falls.",
+"If you dropped a ball, it would fall."
+],
+"correcta": 1,
+"porque": "La gravedad siempre actúa, así que usa presente en ambas partes."
+}
+],
+"describir-personas-ropa-clima-ingles-prepa": [
+{
+"pregunta": "Completa: *My mother ___ brown eyes.*",
+"opciones": [
+"has",
+"is",
+"wears"
+],
+"correcta": 0,
+"porque": "El color de ojos se dice con *have*; con *she* es *has*."
+},
+{
+"pregunta": "Completa: *Tom is ___ a red shirt.*",
+"opciones": [
+"being",
+"wearing",
+"having"
+],
+"correcta": 1,
+"porque": "*Wearing* se usa para decir qué ropa trae puesta alguien."
+},
+{
+"pregunta": "Traduce: «Hace mucho viento».",
+"opciones": [
+"It's very windy.",
+"It's very cloudy.",
+"It's very rainy."
+],
+"correcta": 0,
+"porque": "*Windy* describe el clima con viento."
+},
+{
+"pregunta": "Completa: *She ___ tall and friendly.*",
+"opciones": [
+"has",
+"wears",
+"is"
+],
+"correcta": 2,
+"porque": "Para decir cómo es una persona se usa *to be*."
+},
+{
+"pregunta": "¿Cómo preguntas por el clima?",
+"opciones": [
+"What's the weather like?",
+"Where is the weather?",
+"What are you wearing?"
+],
+"correcta": 0,
+"porque": "Esa es la pregunta para saber cómo está el clima."
+}
+],
+"gustos-opiniones-simples-ingles-prepa": [
+{
+"pregunta": "Completa: *I like ___ with my friends.* (jugar)",
+"opciones": [
+"plays",
+"to played",
+"playing"
+],
+"correcta": 2,
+"porque": "Con *like* usamos el verbo con -ing: playing."
+},
+{
+"pregunta": "Completa: *He ___ like spicy food.*",
+"opciones": [
+"isn't",
+"don't",
+"doesn't"
+],
+"correcta": 2,
+"porque": "Con *he* se usa *doesn't* y el verbo base."
+},
+{
+"pregunta": "Responde que sí te gustan los deportes: *Do you like sports?*",
+"opciones": [
+"Yes, I like.",
+"Yes, I do.",
+"Yes, I am."
+],
+"correcta": 1,
+"porque": "La respuesta corta repite *do*: Yes, I do."
+},
+{
+"pregunta": "Di tu opinión sobre la clase de arte.",
+"opciones": [
+"I thinking art is fun.",
+"I think art is fun.",
+"I am think art is fun."
+],
+"correcta": 1,
+"porque": "*I think* más una oración da tu opinión."
+},
+{
+"pregunta": "Da la razón: *I like science ___ it is interesting.*",
+"opciones": [
+"therefore",
+"because",
+"however"
+],
+"correcta": 1,
+"porque": "*Because* introduce la razón de tu gusto."
+}
+],
+"indicaciones-aula-ingles-prepa": [
+{
+"pregunta": "¿Cómo pides permiso para entrar?",
+"opciones": [
+"Do you come in?",
+"Am I come in?",
+"May I come in?"
+],
+"correcta": 2,
+"porque": "*May I...?* es la forma cortés de pedir permiso."
+},
+{
+"pregunta": "Tu maestro dice *Close the door*. ¿Qué hacer?",
+"opciones": [
+"Tocar la puerta",
+"Cerrar la puerta",
+"Abrir la puerta"
+],
+"correcta": 1,
+"porque": "*Close* significa cerrar."
+},
+{
+"pregunta": "¿Cómo preguntas qué significa una palabra?",
+"opciones": [
+"What does this word mean?",
+"Where is this word mean?",
+"What mean this word?"
+],
+"correcta": 0,
+"porque": "Se usa *What does ... mean?* para pedir un significado."
+},
+{
+"pregunta": "¿Cómo pides prestado un lápiz?",
+"opciones": [
+"Can I lend a pencil, please?",
+"Can I borrow a pencil, please?",
+"Do I borrow a pencil, please?"
+],
+"correcta": 1,
+"porque": "*Borrow* es pedir prestado, y *please* lo hace cortés."
+},
+{
+"pregunta": "¿Qué indicación significa «Trabajen en parejas»?",
+"opciones": [
+"Work in groups.",
+"Work in pairs.",
+"Work alone."
+],
+"correcta": 1,
+"porque": "*Pairs* significa parejas, de dos personas."
+}
+],
+"informacion-personal-basica-ingles-prepa": [
+{
+"pregunta": "Pregunta el nombre de un compañero.",
+"opciones": [
+"How old is your name?",
+"Where is your name?",
+"What's your name?"
+],
+"correcta": 2,
+"porque": "*What's your name?* es la pregunta para el nombre."
+},
+{
+"pregunta": "Responde: *Where are you from?* (de Puebla)",
+"opciones": [
+"I'm from Puebla.",
+"I have Puebla.",
+"I'm Puebla."
+],
+"correcta": 0,
+"porque": "Para decir de dónde eres se usa *I'm from* más el lugar."
+},
+{
+"pregunta": "¿Cómo se dice «punto» en un correo?",
+"opciones": [
+"dot",
+"dash",
+"at"
+],
+"correcta": 0,
+"porque": "En un correo, el punto se dice *dot*."
+},
+{
+"pregunta": "Responde: *How old are you?* (tienes 15 años)",
+"opciones": [
+"I am fifteen age.",
+"I have fifteen years.",
+"I'm fifteen years old."
+],
+"correcta": 2,
+"porque": "En inglés la edad se dice con *to be*: I'm fifteen."
+},
+{
+"pregunta": "¿Cómo dices tu teléfono en inglés?",
+"opciones": [
+"digit by digit",
+"only the last two",
+"as one big number"
+],
+"correcta": 0,
+"porque": "Los teléfonos se dicen dígito por dígito."
+}
+],
+"objetos-espacios-hogar-escuela-ingles-prepa": [
+{
+"pregunta": "Completa con a o an: *___ umbrella.*",
+"opciones": [
+"A",
+"An",
+"The a"
+],
+"correcta": 1,
+"porque": "*Umbrella* empieza con sonido de vocal, por eso lleva *an*."
+},
+{
+"pregunta": "Ordena: *table / a / small / round*",
+"opciones": [
+"a round small table",
+"small a round table",
+"a small round table"
+],
+"correcta": 2,
+"porque": "Primero tamaño, luego forma y al final el objeto."
+},
+{
+"pregunta": "Completa: *___ are three chairs in the room.*",
+"opciones": [
+"This",
+"There",
+"It"
+],
+"correcta": 1,
+"porque": "Con objetos en plural se usa *There are*."
+},
+{
+"pregunta": "¿Cómo se dice «ventana» en inglés?",
+"opciones": [
+"door",
+"wall",
+"window"
+],
+"correcta": 2,
+"porque": "*Window* es ventana; *door* es puerta."
+},
+{
+"pregunta": "¿Dónde duermes en tu casa?",
+"opciones": [
+"kitchen",
+"bedroom",
+"bathroom"
+],
+"correcta": 1,
+"porque": "*Bedroom* es la recámara, donde se duerme."
+}
+],
+"posesion-genitivo-posesivos-ingles-prepa": [
+{
+"pregunta": "Escribe: el libro de Pedro.",
+"opciones": [
+"Pedro book's",
+"Pedro's book",
+"Pedros book"
+],
+"correcta": 1,
+"porque": "Para un dueño singular se agrega 's: Pedro's."
+},
+{
+"pregunta": "Escribe: los juguetes de los niños.",
+"opciones": [
+"the childrens toys",
+"the childrens' toys",
+"the children's toys"
+],
+"correcta": 2,
+"porque": "*Children* es plural irregular, así que lleva 's."
+},
+{
+"pregunta": "Completa: *This bag is ___.* (mío)",
+"opciones": [
+"mine",
+"my own",
+"mines"
+],
+"correcta": 0,
+"porque": "*Mine* va solo, sin sustantivo después."
+},
+{
+"pregunta": "Completa: *That is ___ dog.* (de ella)",
+"opciones": [
+"her",
+"hers",
+"she"
+],
+"correcta": 0,
+"porque": "*Her* va antes del sustantivo: her dog."
+},
+{
+"pregunta": "Responde: *Whose pen is this?* (es tuyo)",
+"opciones": [
+"It's your.",
+"It's yours.",
+"It's you."
+],
+"correcta": 1,
+"porque": "*Yours* va solo y sustituye al sustantivo."
+}
+],
+"preguntas-ubicacion-horarios-ingles-prepa": [
+{
+"pregunta": "Pregunta dónde están los baños.",
+"opciones": [
+"What time are the restrooms?",
+"Where are the restrooms?",
+"Where is the restrooms?"
+],
+"correcta": 1,
+"porque": "Para lugares se usa *Where*, y *restrooms* es plural: *are*."
+},
+{
+"pregunta": "Pregunta a qué hora cierra la escuela.",
+"opciones": [
+"What time does the school close?",
+"Where does the school close?",
+"What time the school closes?"
+],
+"correcta": 0,
+"porque": "Para horarios se usa *What time* y *does* con el verbo base."
+},
+{
+"pregunta": "Completa: *The class starts ___ 8:00.*",
+"opciones": [
+"at",
+"on",
+"in"
+],
+"correcta": 0,
+"porque": "Con las horas se usa *at*."
+},
+{
+"pregunta": "Completa: *We have a test ___ Monday.*",
+"opciones": [
+"at",
+"in",
+"on"
+],
+"correcta": 2,
+"porque": "Con los días se usa *on*."
+},
+{
+"pregunta": "Traduce: «Está detrás del gimnasio».",
+"opciones": [
+"It's behind the gym.",
+"It's in front of the gym.",
+"It's between the gym."
+],
+"correcta": 0,
+"porque": "*Behind* significa detrás."
+}
+],
+"presentarse-y-presentar-ingles-prepa": [
+{
+"pregunta": "Presenta a tu amiga Luz.",
+"opciones": [
+"This is Luz.",
+"I'm Luz.",
+"She is me Luz."
+],
+"correcta": 0,
+"porque": "Para presentar a otra persona se usa *This is...*."
+},
+{
+"pregunta": "¿Qué saludo usas en la mañana?",
+"opciones": [
+"Good night.",
+"Good morning.",
+"Good evening."
+],
+"correcta": 1,
+"porque": "*Good morning* se usa antes del mediodía."
+},
+{
+"pregunta": "Responde a *Nice to meet you*.",
+"opciones": [
+"Nice to meet you, too.",
+"Nice to see you, no.",
+"I meet you, too."
+],
+"correcta": 0,
+"porque": "La respuesta amable repite el saludo con *too*."
+},
+{
+"pregunta": "Completa: *___ name is Karla. I'm from Jalisco.*",
+"opciones": [
+"I",
+"Me",
+"My"
+],
+"correcta": 2,
+"porque": "*My* va antes de *name* para decir que es tu nombre."
+},
+{
+"pregunta": "¿Qué título usas con el apellido de una maestra?",
+"opciones": [
+"Hey",
+"Mr.",
+"Ms."
+],
+"correcta": 2,
+"porque": "*Ms.* es el título formal para una mujer."
+}
+],
+"campo-estudio-motivacion-ingles-quinto-semestre": [
+{
+"pregunta": "Completa: *I want to be a teacher ___ I like children.*",
+"opciones": [
+"because",
+"although",
+"however"
+],
+"correcta": 0,
+"porque": "*Because* da la razón de tu meta."
+},
+{
+"pregunta": "Traduce: «Soy buena para las matemáticas».",
+"opciones": [
+"I am good at math.",
+"I am good with math.",
+"I am good in math."
+],
+"correcta": 0,
+"porque": "La expresión correcta es *good at*."
+},
+{
+"pregunta": "Corrige: *An engineer design bridges.*",
+"opciones": [
+"An engineers designs bridges.",
+"An engineer design bridge.",
+"An engineer designs bridges."
+],
+"correcta": 2,
+"porque": "Con tercera persona el verbo lleva -s: designs."
+},
+{
+"pregunta": "¿Cómo preguntas a un compañero qué quiere estudiar?",
+"opciones": [
+"What you want study?",
+"What does you want to study?",
+"What do you want to study?"
+],
+"correcta": 2,
+"porque": "Con *you* se usa *do* y el verbo base."
+},
+{
+"pregunta": "Completa: *I am interested ___ biology.*",
+"opciones": [
+"at",
+"in",
+"on"
+],
+"correcta": 1,
+"porque": "*Interested* va con *in*."
+}
+]
+}

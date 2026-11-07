@@ -1,0 +1,522 @@
+{
+"aparato-reproductor-secundaria": [
+{
+"pregunta": "¿Qué órganos femeninos producen óvulos y hormonas?",
+"opciones": [
+"Las trompas",
+"El útero",
+"Los ovarios"
+],
+"correcta": 2,
+"porque": "Los ovarios producen óvulos y hormonas."
+},
+{
+"pregunta": "¿Qué conduce el óvulo hacia el útero?",
+"opciones": [
+"Las trompas de Falopio",
+"Los conductos deferentes",
+"La próstata, que produce líquidos para el cuerpo"
+],
+"correcta": 0,
+"porque": "Las trompas de Falopio llevan el óvulo hacia el útero."
+},
+{
+"pregunta": "Un compañero dice que los testículos producen óvulos. ¿Qué le respondes?",
+"opciones": [
+"Producen espermatozoides",
+"Producen solo líquidos como la próstata",
+"Sí, producen óvulos y también espermatozoides al mismo tiempo"
+],
+"correcta": 0,
+"porque": "Los testículos producen espermatozoides y hormonas, no óvulos."
+},
+{
+"pregunta": "¿Qué hacen la próstata y las vesículas seminales?",
+"opciones": [
+"Producen líquido seminal",
+"Producen espermatozoides",
+"Conducen espermatozoides"
+],
+"correcta": 0,
+"porque": "Estas glándulas hacen el líquido que acompaña a los espermatozoides."
+},
+{
+"pregunta": "Tienes una duda sobre los cambios de tu cuerpo. ¿Qué haces?",
+"opciones": [
+"Buscas respuestas con cualquier persona que no conoces",
+"Esperas a que alguien te cuente y no preguntas a nadie",
+"Se la preguntas a un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Un adulto de confianza o personal de salud te da información correcta."
+}
+],
+"biodiversidad-cambio-tiempo-evolucion-secundaria": [
+{
+"pregunta": "Según Darwin, ¿qué pasa con los seres vivos mejor adaptados?",
+"opciones": [
+"Mueren más jóvenes",
+"Dejan más crías",
+"No dejan crías"
+],
+"correcta": 1,
+"porque": "Los mejor adaptados dejan más crías y su rasgo se vuelve común."
+},
+{
+"pregunta": "Si un país es megadiverso, ¿qué tiene?",
+"opciones": [
+"Un solo tipo de ecosistema en todo el país",
+"Solo animales muy grandes y fuertes",
+"Muchísimas especies"
+],
+"correcta": 2,
+"porque": "Megadiverso quiere decir que tiene muchísimas especies, como México."
+},
+{
+"pregunta": "En el salón, unos peces nacen más rápidos y escapan de los depredadores. ¿Qué pasa con el tiempo?",
+"opciones": [
+"Esos rasgos se vuelven comunes",
+"Los peces lentos aprenden a correr más rápido",
+"Todos los peces se vuelven rápidos en un solo día"
+],
+"correcta": 0,
+"porque": "Los rápidos sobreviven, tienen crías y heredan ese rasgo, que se vuelve común."
+},
+{
+"pregunta": "¿Por qué ganaron las polillas oscuras en arbustos oscuros?",
+"opciones": [
+"Cada polilla se pintó de color oscuro por decisión propia",
+"Se escondían mejor y dejaban más crías",
+"Eran más grandes que todas las polillas claras"
+],
+"correcta": 1,
+"porque": "Se escondían de las aves, vivían más y dejaban más crías oscuras."
+},
+{
+"pregunta": "¿Qué prueba que dos seres vivos tienen un origen común?",
+"opciones": [
+"Que tienen el mismo nombre en español",
+"Que su ADN es parecido",
+"Que viven en el mismo lugar y comen lo mismo"
+],
+"correcta": 1,
+"porque": "El ADN parecido, igual que los fósiles, muestra parentesco entre seres vivos."
+}
+],
+"cadenas-y-redes-alimentarias-secundaria": [
+{
+"pregunta": "En la cadena maíz → ratón → serpiente → águila, ¿quién es el consumidor primario?",
+"opciones": [
+"El ratón",
+"La serpiente",
+"El maíz"
+],
+"correcta": 0,
+"porque": "El ratón come plantas, así que es consumidor primario."
+},
+{
+"pregunta": "¿Hacia dónde apunta la flecha de una cadena alimentaria?",
+"opciones": [
+"Hacia el sol, siempre",
+"Hacia quien recibe la energía",
+"Hacia el ser vivo que es comido por otro de la cadena"
+],
+"correcta": 1,
+"porque": "La flecha sigue la energía, así que apunta al que come."
+},
+{
+"pregunta": "¿Qué hacen los descomponedores como las bacterias?",
+"opciones": [
+"Fabrican su comida con la luz del sol",
+"Cazan animales grandes para alimentarse",
+"Deshacen lo que muere"
+],
+"correcta": 2,
+"porque": "Deshacen restos y devuelven nutrientes al suelo."
+},
+{
+"pregunta": "Si desaparecen las serpientes de una zona, ¿qué pasa con los ratones?",
+"opciones": [
+"Aumentan",
+"Siguen igual",
+"Desaparecen"
+],
+"correcta": 0,
+"porque": "Sin quien se los coma, los ratones aumentan."
+},
+{
+"pregunta": "¿Qué es una red alimentaria?",
+"opciones": [
+"Varias cadenas unidas",
+"Un dibujo de plantas sin animales ni descomponedores",
+"Una cadena de solo dos seres vivos"
+],
+"correcta": 0,
+"porque": "Una red une varias cadenas alimentarias de un mismo lugar."
+}
+],
+"calentamiento-global-ciclos-biogeoquimicos-secundaria": [
+{
+"pregunta": "¿Qué es el calentamiento global?",
+"opciones": [
+"El enfriamiento del planeta por la lluvia",
+"El aumento de la temperatura de la Tierra",
+"Que cada día hace más calor solo en verano"
+],
+"correcta": 1,
+"porque": "Es el aumento de la temperatura de la Tierra por gases que atrapan calor."
+},
+{
+"pregunta": "¿Qué gas sube cuando se queman petróleo y carbón?",
+"opciones": [
+"El dióxido de carbono",
+"El oxígeno que respiramos todos los días",
+"El agua en forma de vapor"
+],
+"correcta": 0,
+"porque": "Al quemar combustibles hay más $\\ce{CO2}$ en el aire."
+},
+{
+"pregunta": "¿Por qué un bosque ayuda contra el calentamiento global?",
+"opciones": [
+"Sus árboles siempre dan sombra y enfrían la ciudad",
+"Sus hojas producen más gases que atrapan calor",
+"Sus árboles quitan $\\ce{CO2}$ del aire"
+],
+"correcta": 2,
+"porque": "Con la fotosíntesis, los árboles quitan $\\ce{CO2}$ del aire."
+},
+{
+"pregunta": "¿Qué efecto tiene el calentamiento global?",
+"opciones": [
+"Se derrite el hielo",
+"Hay menos sequías en todos los lugares del mundo",
+"Los polos se vuelven más fríos"
+],
+"correcta": 0,
+"porque": "Con más calor se derrite el hielo y hay más sequías."
+},
+{
+"pregunta": "Quieres ayudar al planeta en tu casa. ¿Qué haces?",
+"opciones": [
+"Dejas todas las luces prendidas durante la noche",
+"Apagas la luz que no usas",
+"Quemas basura en el patio para deshacerte de ella"
+],
+"correcta": 1,
+"porque": "Ahorrar luz gasta menos energía y ayuda a soltar menos gases."
+}
+],
+"celula-animal-y-vegetal-secundaria": [
+{
+"pregunta": "¿Qué estructura tiene la célula vegetal y no la animal?",
+"opciones": [
+"La membrana",
+"La pared celular",
+"Las mitocondrias"
+],
+"correcta": 1,
+"porque": "Solo la célula vegetal tiene pared celular."
+},
+{
+"pregunta": "¿Qué da el color verde a las plantas?",
+"opciones": [
+"La clorofila",
+"El núcleo",
+"La vacuola"
+],
+"correcta": 0,
+"porque": "La clorofila está en los cloroplastos y es verde."
+},
+{
+"pregunta": "¿Por qué se marchita una planta sin agua?",
+"opciones": [
+"Sus mitocondrias dejan de existir por completo",
+"Su pared celular se vuelve una membrana",
+"Su vacuola ya no está llena"
+],
+"correcta": 2,
+"porque": "La vacuola guarda agua y mantiene firme la planta."
+},
+{
+"pregunta": "¿Las plantas tienen mitocondrias?",
+"opciones": [
+"Sí, porque también respiran",
+"No, porque ya hacen su comida con la luz del sol",
+"No, solo las tienen los animales y las personas"
+],
+"correcta": 0,
+"porque": "Las plantas respiran, por eso también tienen mitocondrias."
+},
+{
+"pregunta": "Dibujas una célula con pared, cloroplastos y vacuola grande. ¿Qué célula es?",
+"opciones": [
+"Una bacteria",
+"Animal",
+"Vegetal"
+],
+"correcta": 2,
+"porque": "La pared, los cloroplastos y la vacuola grande son de la célula vegetal."
+}
+],
+"celula-procariota-y-eucariota-secundaria": [
+{
+"pregunta": "¿Qué diferencia a la célula procariota de la eucariota?",
+"opciones": [
+"No tiene ADN",
+"No tiene núcleo",
+"No tiene membrana"
+],
+"correcta": 1,
+"porque": "La procariota no tiene núcleo."
+},
+{
+"pregunta": "¿Qué ser vivo tiene células procariotas?",
+"opciones": [
+"Un hongo que crece en el pan",
+"Una planta de frijol",
+"Una bacteria"
+],
+"correcta": 2,
+"porque": "Las bacterias y las arqueas son procariotas."
+},
+{
+"pregunta": "¿Dónde está el ADN en una célula eucariota?",
+"opciones": [
+"Dentro del núcleo",
+"Suelto en el citoplasma, como en las bacterias",
+"Solo en la membrana de la célula"
+],
+"correcta": 0,
+"porque": "En la eucariota, el ADN está dentro del núcleo."
+},
+{
+"pregunta": "¿Qué significa la palabra griega karyon?",
+"opciones": [
+"Núcleo",
+"Membrana",
+"Célula"
+],
+"correcta": 0,
+"porque": "Karyon significa núcleo."
+},
+{
+"pregunta": "En clase comparan dos células con núcleo. ¿Cuál puede ser?",
+"opciones": [
+"Una de bacteria y una de arquea",
+"Una de bacteria y una de planta",
+"Una de animal y una de hongo"
+],
+"correcta": 2,
+"porque": "Animales, plantas y hongos tienen células eucariotas, con núcleo."
+}
+],
+"clasificacion-de-los-seres-vivos-los-cinco-reinos-secundaria": [
+{
+"pregunta": "¿En qué reino va un champiñón?",
+"opciones": [
+"Hongos",
+"Plantas",
+"Animales"
+],
+"correcta": 0,
+"porque": "El champiñón es un hongo."
+},
+{
+"pregunta": "¿Qué reino hace su propia comida?",
+"opciones": [
+"Hongos",
+"Animales",
+"Plantas"
+],
+"correcta": 2,
+"porque": "Las plantas hacen su comida con la luz del sol."
+},
+{
+"pregunta": "Tu maestra te pide clasificar una bacteria. ¿En qué reino va?",
+"opciones": [
+"Plantas",
+"Moneras",
+"Protistas"
+],
+"correcta": 1,
+"porque": "Las bacterias pertenecen al reino de las moneras."
+},
+{
+"pregunta": "¿Cuántos reinos tiene la clasificación tradicional?",
+"opciones": [
+"Tres",
+"Siete",
+"Cinco"
+],
+"correcta": 2,
+"porque": "La clasificación tradicional usa cinco reinos."
+},
+{
+"pregunta": "¿Los virus entran en alguno de los cinco reinos?",
+"opciones": [
+"Sí, en moneras",
+"Sí, en hongos",
+"No, en ninguno"
+],
+"correcta": 2,
+"porque": "Los virus no encajan en ninguno de los cinco reinos."
+}
+],
+"darwin-y-la-seleccion-natural-secundaria": [
+{
+"pregunta": "¿Qué es la selección natural?",
+"opciones": [
+"Que un individuo cambia su cuerpo durante su vida",
+"Los mejor adaptados dejan más crías",
+"Que los animales escogen a sus parejas por su color"
+],
+"correcta": 1,
+"porque": "Los mejor adaptados sobreviven más y dejan más crías."
+},
+{
+"pregunta": "¿En qué barco viajó Charles Darwin?",
+"opciones": [
+"El Atlántico, rumbo a México",
+"El Titanic, un barco muy famoso",
+"El Beagle, el barco de Darwin"
+],
+"correcta": 2,
+"porque": "Darwin viajó en el barco Beagle."
+},
+{
+"pregunta": "En un río, las bacterias resisten un antibiótico y se multiplican. ¿Qué ejemplo es?",
+"opciones": [
+"Un reflejo del cuerpo humano",
+"Selección natural de bacterias",
+"Un cambio en una sola bacteria"
+],
+"correcta": 1,
+"porque": "Las que resisten dejan más crías, y eso es selección natural."
+},
+{
+"pregunta": "¿Por qué no se debe dejar un antibiótico a la mitad?",
+"opciones": [
+"Porque el antibiótico se vuelve más fuerte solo",
+"Pueden sobrevivir bacterias resistentes",
+"Porque el cuerpo se acostumbra a no tomar medicinas"
+],
+"correcta": 1,
+"porque": "Si quedan bacterias, las resistentes se multiplican."
+},
+{
+"pregunta": "¿Qué evoluciona con el tiempo?",
+"opciones": [
+"Solo los animales de un zoológico",
+"Un solo individuo en su vida",
+"Una población, con el tiempo"
+],
+"correcta": 2,
+"porque": "Evoluciona la población, no un individuo."
+}
+],
+"diversidad-saberes-seres-vivos-secundaria": [
+{
+"pregunta": "¿Qué cultivos se siembran juntos en la milpa?",
+"opciones": [
+"Solo maíz, en filas muy largas",
+"Maíz, frijol y calabaza",
+"Frijol, chile y jitomate"
+],
+"correcta": 1,
+"porque": "La milpa une maíz, frijol y calabaza, que se ayudan."
+},
+{
+"pregunta": "¿Qué aporta el frijol al suelo de la milpa?",
+"opciones": [
+"Agua de lluvia guardada en hojas",
+"Nitrógeno, que alimenta la tierra",
+"Sombra para el maíz y la calabaza"
+],
+"correcta": 1,
+"porque": "El frijol da nitrógeno al suelo."
+},
+{
+"pregunta": "Tu abuela te recomienda una planta para el dolor de panza. ¿Qué haces?",
+"opciones": [
+"Se la das a tus amigos sin saber la cantidad",
+"Preguntas también a personal de salud",
+"Tomas muchísimo té porque es natural y no daña"
+],
+"correcta": 1,
+"porque": "Una planta medicinal puede dañar si se usa de más."
+},
+{
+"pregunta": "¿Cómo se pasan los saberes sobre la naturaleza?",
+"opciones": [
+"Solo con libros de ciencias de la escuela",
+"De abuelos a nietos",
+"Solo con aparatos como el microscopio"
+],
+"correcta": 1,
+"porque": "Los pueblos guardan estos conocimientos y los pasan de abuelos a nietos."
+},
+{
+"pregunta": "¿Qué hace la calabaza en la milpa?",
+"opciones": [
+"Cubre el suelo y guarda humedad",
+"Sube por el tallo del maíz para tomar luz",
+"Le da nitrógeno a la tierra"
+],
+"correcta": 0,
+"porque": "La calabaza cubre la tierra y ayuda a guardar la humedad."
+}
+],
+"hormonas-principales-secundaria": [
+{
+"pregunta": "¿Qué son las hormonas?",
+"opciones": [
+"Células que cargan oxígeno por todo el cuerpo",
+"Mensajeros químicos de la sangre",
+"Alimentos que se digieren en el estómago"
+],
+"correcta": 1,
+"porque": "Las hormonas viajan por la sangre y llevan instrucciones al cuerpo."
+},
+{
+"pregunta": "¿Qué hormona ayuda a bajar el azúcar de la sangre?",
+"opciones": [
+"La adrenalina",
+"La tiroxina",
+"La insulina"
+],
+"correcta": 2,
+"porque": "La insulina baja el azúcar de la sangre."
+},
+{
+"pregunta": "Suena la alarma de temblor y tu corazón late muy rápido. ¿Qué hormona actúa?",
+"opciones": [
+"La insulina",
+"La adrenalina",
+"La del crecimiento"
+],
+"correcta": 1,
+"porque": "La adrenalina te hace reaccionar al peligro."
+},
+{
+"pregunta": "¿Qué glándula produce tiroxina?",
+"opciones": [
+"La tiroides",
+"Los ovarios",
+"El páncreas"
+],
+"correcta": 0,
+"porque": "La tiroides produce la tiroxina."
+},
+{
+"pregunta": "¿Qué hormona producen los testículos?",
+"opciones": [
+"Testosterona",
+"Estrógenos",
+"Adrenalina"
+],
+"correcta": 0,
+"porque": "Los testículos producen testosterona."
+}
+]
+}

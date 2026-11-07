@@ -1,0 +1,522 @@
+{
+"respeto-reciprocidad-pueblos-originarios-primaria": [
+{
+"pregunta": "¿Qué quiere decir reciprocidad con la naturaleza?",
+"opciones": [
+"Cuidarla a cambio de lo que recibes",
+"Dejar la naturaleza sola y no usar nada de ella",
+"Tomar todo lo que puedas antes de que otros lo tomen"
+],
+"correcta": 0,
+"porque": "Reciprocidad es dar algo a cambio de lo que la naturaleza te da."
+},
+{
+"pregunta": "Según estos pueblos originarios, ¿cuánto se toma de la naturaleza?",
+"opciones": [
+"Solo lo necesario, y se agradece",
+"Todo lo que se pueda vender",
+"Lo que sobre después de otros"
+],
+"correcta": 0,
+"porque": "Se toma lo necesario y se agradece."
+},
+{
+"pregunta": "Después de tomar algo del bosque, ¿qué haces según esta enseñanza?",
+"opciones": [
+"Cuentas a todos cuánto tomaste",
+"Te vas sin pensar en lo tomado",
+"Agradeces lo que recibiste de ahí"
+],
+"correcta": 2,
+"porque": "Según esta enseñanza, después de tomar algo se agradece."
+},
+{
+"pregunta": "En tu escuela una planta del patio se está secando. ¿Qué acción devuelve algo a la naturaleza?",
+"opciones": [
+"Arrancarle las hojas para dibujar",
+"Pisar el pasto para llegar rápido",
+"Regarla y cuidarla cada semana"
+],
+"correcta": 2,
+"porque": "Cuidar la planta es devolver algo a la naturaleza."
+},
+{
+"pregunta": "¿Para qué sirve la reciprocidad?",
+"opciones": [
+"Para mantener un equilibrio",
+"Para que la naturaleza trabaje sin recibir nada",
+"Para que una sola persona tenga más que todos"
+],
+"correcta": 0,
+"porque": "Si todos dan y reciben, ganamos todos y hay equilibrio."
+}
+],
+"santa-anna-primaria": [
+{
+"pregunta": "¿Entre qué años dominó Santa Anna la política de México?",
+"opciones": [
+"Entre 1864 y 1867, con Maximiliano",
+"Entre 1830 y 1855, en muchos gobiernos",
+"Entre 1910 y 1920, en la Revolución"
+],
+"correcta": 1,
+"porque": "Santa Anna dominó la política entre 1830 y 1855."
+},
+{
+"pregunta": "¿Cómo se hacía llamar Santa Anna?",
+"opciones": [
+"Su Alteza Serenísima, como título",
+"Su Majestad el Emperador del mundo",
+"El Gran Libertador de los pueblos"
+],
+"correcta": 0,
+"porque": "Se hacía llamar Su Alteza Serenísima."
+},
+{
+"pregunta": "¿A quién le vendió La Mesilla en 1853?",
+"opciones": [
+"A España, que gobernó antes",
+"A Estados Unidos, por La Mesilla",
+"A Francia, que quería más tierra"
+],
+"correcta": 1,
+"porque": "Santa Anna vendió La Mesilla a Estados Unidos en 1853."
+},
+{
+"pregunta": "¿Qué era Santa Anna?",
+"opciones": [
+"Un militar y político",
+"Un pintor y escultor famoso",
+"Un maestro de escuela de Tampico"
+],
+"correcta": 0,
+"porque": "Fue militar y también político, y gobernó muchas veces."
+},
+{
+"pregunta": "¿En qué lugar combatió Santa Anna antes de perder en Texas?",
+"opciones": [
+"En Tampico, un puerto del Golfo",
+"En Acapulco, junto a Morelos",
+"En el Cerro de las Campanas"
+],
+"correcta": 0,
+"porque": "Santa Anna combatió en Tampico."
+}
+],
+"segundo-imperio-de-maximiliano-primaria": [
+{
+"pregunta": "¿Quiénes gobernaron en el Segundo Imperio?",
+"opciones": [
+"Maximiliano y Carlota",
+"Benito Juárez y su esposa Margarita",
+"Santa Anna y su hijo mayor"
+],
+"correcta": 0,
+"porque": "El imperio fue de Maximiliano de Habsburgo y de Carlota."
+},
+{
+"pregunta": "¿Cuántos años duró el Segundo Imperio, de qué año a qué año?",
+"opciones": [
+"De 1810 a 1821, con Hidalgo",
+"De 1910 a 1917, con Carranza",
+"De 1864 a 1867"
+],
+"correcta": 2,
+"porque": "El Segundo Imperio duró de 1864 a 1867."
+},
+{
+"pregunta": "¿Qué país retiró sus tropas entre 1866 y 1867?",
+"opciones": [
+"España, que llegó mucho antes",
+"Estados Unidos, que le ayudaba",
+"Francia, que apoyaba al imperio"
+],
+"correcta": 2,
+"porque": "Francia retiró sus tropas en 1866-1867."
+},
+{
+"pregunta": "¿Qué hizo Maximiliano con las reformas liberales?",
+"opciones": [
+"Las eliminó todas el primer día",
+"Las cambió por reglas viejas",
+"No las eliminó, las conservó"
+],
+"correcta": 2,
+"porque": "Maximiliano fue liberal y no eliminó las reformas."
+},
+{
+"pregunta": "¿Cómo gobernó Juárez durante el imperio?",
+"opciones": [
+"Escondido en una cueva sin dar órdenes",
+"Desde un palacio grande en la capital",
+"De manera itinerante"
+],
+"correcta": 2,
+"porque": "Juárez iba de lugar en lugar y siguió gobernando."
+}
+],
+"separacion-de-texas-primaria": [
+{
+"pregunta": "¿De dónde llegaron los colonos que cambiaron la historia de Texas?",
+"opciones": [
+"De España, enviados por el rey",
+"De Francia, para fundar pueblos nuevos",
+"De Estados Unidos"
+],
+"correcta": 2,
+"porque": "Los colonos de Estados Unidos fueron una causa de la separación."
+},
+{
+"pregunta": "¿Qué cambio rechazaban los colonos sobre la esclavitud?",
+"opciones": [
+"Que se permitiera en todo el país",
+"Que se pagara un impuesto alto",
+"Que se aboliera la esclavitud"
+],
+"correcta": 2,
+"porque": "Los colonos rechazaban abolir la esclavitud."
+},
+{
+"pregunta": "¿Qué sistema de gobierno rechazaban los texanos?",
+"opciones": [
+"El centralismo, con poder en la capital",
+"La monarquía, con un rey al mando",
+"El federalismo, que daba más libertad"
+],
+"correcta": 0,
+"porque": "Los texanos rechazaban el centralismo."
+},
+{
+"pregunta": "En la batalla de El Álamo, ¿quién ganó?",
+"opciones": [
+"Los colonos de Texas, con aliados",
+"Estados Unidos, con su ejército",
+"México, con el ejército de Santa Anna"
+],
+"correcta": 2,
+"porque": "En El Álamo ganó México."
+},
+{
+"pregunta": "¿En qué batalla fue capturado Santa Anna?",
+"opciones": [
+"En Tampico, al defender el puerto",
+"En San Jacinto, cerca de Houston",
+"En El Álamo, al inicio del combate"
+],
+"correcta": 1,
+"porque": "Santa Anna fue capturado en la batalla de San Jacinto."
+}
+],
+"venustiano-carranza-primaria": [
+{
+"pregunta": "¿En qué año se publicó el Plan de Guadalupe?",
+"opciones": [
+"En 1913, contra el general Huerta",
+"En 1920, cuando murió Carranza",
+"En 1917, junto a la Constitución"
+],
+"correcta": 0,
+"porque": "El Plan de Guadalupe es de 1913."
+},
+{
+"pregunta": "¿Cuál es el año de la Constitución que salió del Congreso de Carranza?",
+"opciones": [
+"1859, el año en que nació Carranza",
+"1913, el año del Plan de Guadalupe",
+"1917, año de la nueva Constitución"
+],
+"correcta": 2,
+"porque": "La Constitución se publicó en 1917."
+},
+{
+"pregunta": "¿Entre qué años fue presidente Carranza?",
+"opciones": [
+"De 1913 a 1917, durante la lucha",
+"De 1859 a 1920, toda su vida",
+"De 1917 a 1920, ya con Constitución"
+],
+"correcta": 2,
+"porque": "Carranza fue presidente de 1917 a 1920."
+},
+{
+"pregunta": "¿Con quiénes se enfrentó Carranza?",
+"opciones": [
+"Con Hidalgo y Morelos",
+"Con Villa y Zapata",
+"Con Juárez y Maximiliano, en el imperio"
+],
+"correcta": 1,
+"porque": "Carranza tuvo diferencias y combates con Villa y Zapata."
+},
+{
+"pregunta": "¿Qué movimiento lideró Carranza?",
+"opciones": [
+"El insurgente, contra España",
+"El del Segundo Imperio, con Francia",
+"El constitucionalista"
+],
+"correcta": 2,
+"porque": "Se llamó constitucionalista porque defendía la Constitución."
+}
+],
+"vicente-guerrero-y-la-resistencia-primaria": [
+{
+"pregunta": "¿De qué fue líder Vicente Guerrero después de la muerte de Morelos?",
+"opciones": [
+"Del ejército de Maximiliano en Querétaro",
+"Del grupo que apoyaba al rey de España",
+"De la resistencia insurgente"
+],
+"correcta": 2,
+"porque": "Guerrero siguió luchando en las montañas del sur."
+},
+{
+"pregunta": "¿En qué año se reunió con Iturbide en Acatempan?",
+"opciones": [
+"En 1831, año en que fue fusilado",
+"En 1821, el Abrazo de Acatempan",
+"En 1829, año de abolir esclavitud"
+],
+"correcta": 1,
+"porque": "El Abrazo de Acatempan fue en 1821."
+},
+{
+"pregunta": "¿Qué cargo tuvo Guerrero después de la independencia?",
+"opciones": [
+"Emperador de México y de todo el sur",
+"Rey de España en América",
+"Presidente de México"
+],
+"correcta": 2,
+"porque": "Después de la independencia fue presidente de México."
+},
+{
+"pregunta": "¿Qué le pasó a Guerrero en 1831?",
+"opciones": [
+"Lo fusilaron y murió ese mismo año",
+"Se fue a vivir al campo tranquilo",
+"Se volvió emperador de México"
+],
+"correcta": 0,
+"porque": "Vicente Guerrero fue fusilado en 1831."
+},
+{
+"pregunta": "En tu escuela buscas un mapa. ¿Qué estado lleva el nombre de Vicente Guerrero?",
+"opciones": [
+"Hidalgo, porque ahí nació un héroe",
+"Guerrero, que lleva su apellido",
+"Morelos, por otro gran insurgente"
+],
+"correcta": 1,
+"porque": "El estado de Guerrero lleva el nombre de Vicente Guerrero."
+}
+],
+"angulos-complementarios-y-suplementarios-secundaria": [
+{
+"pregunta": "¿Cuánto mide el complemento de 20°?",
+"opciones": [
+"20°",
+"70°",
+"160°"
+],
+"correcta": 1,
+"porque": "Se resta de 90: 90 - 20 = 70."
+},
+{
+"pregunta": "¿Cuánto mide el suplemento de 100°?",
+"opciones": [
+"10°",
+"260°",
+"80°"
+],
+"correcta": 2,
+"porque": "Se resta de 180: 180 - 100 = 80."
+},
+{
+"pregunta": "¿Cuánto suman dos ángulos suplementarios?",
+"opciones": [
+"180°",
+"90°",
+"360°"
+],
+"correcta": 0,
+"porque": "Los suplementarios forman una línea recta de 180°."
+},
+{
+"pregunta": "Dos ángulos suplementarios miden $x$ y $x + 20$. ¿Cuánto vale $x$?",
+"opciones": [
+"90°",
+"100°",
+"80°"
+],
+"correcta": 2,
+"porque": "$2x + 20 = 180$, entonces $x = 80$."
+},
+{
+"pregunta": "En la escuela marcas una esquina de tu hoja. ¿Qué tipo de ángulos forman una esquina juntos?",
+"opciones": [
+"Suplementarios",
+"Complementarios",
+"Ninguno de los dos"
+],
+"correcta": 1,
+"porque": "Una esquina mide 90° y suman 90° los complementarios."
+}
+],
+"angulos-opuestos-por-el-vertice-secundaria": [
+{
+"pregunta": "Un ángulo mide 48°. ¿Cuánto mide su opuesto por el vértice?",
+"opciones": [
+"312°",
+"132°",
+"48°"
+],
+"correcta": 2,
+"porque": "Los ángulos opuestos por el vértice son iguales."
+},
+{
+"pregunta": "Un ángulo mide 150°. ¿Cuánto mide su ángulo adyacente?",
+"opciones": [
+"30°",
+"150°",
+"210°"
+],
+"correcta": 0,
+"porque": "Los adyacentes suman 180°: 180 - 150 = 30."
+},
+{
+"pregunta": "Al cruzarse dos rectas, ¿qué ángulos son iguales?",
+"opciones": [
+"Los opuestos por el vértice",
+"Todos los ángulos que quedan junto a una recta",
+"Los que están lado a lado"
+],
+"correcta": 0,
+"porque": "Los que quedan frente a frente tienen la misma medida."
+},
+{
+"pregunta": "Dos ángulos opuestos miden $4x$ y $2x + 30$. ¿Cuánto vale $x$?",
+"opciones": [
+"15",
+"5",
+"30"
+],
+"correcta": 0,
+"porque": "Son iguales: $4x = 2x + 30$, entonces $x = 15$."
+},
+{
+"pregunta": "Cruzas dos lápices y un ángulo mide 40°. ¿Cuánto miden los otros tres?",
+"opciones": [
+"140°, 140° y 140°",
+"40°, 40° y 140°",
+"40°, 140° y 140°"
+],
+"correcta": 2,
+"porque": "Un opuesto mide 40° y los dos vecinos miden 140° cada uno."
+}
+],
+"azar-y-probabilidad-secundaria": [
+{
+"pregunta": "Con un dado, ¿cuál es la probabilidad de sacar un número par?",
+"opciones": [
+"$\\frac{1}{6}$",
+"$\\frac{3}{12}$",
+"$\\frac{1}{2}$"
+],
+"correcta": 2,
+"porque": "Hay 3 pares (2, 4, 6) entre 6 casos: $\\frac{3}{6} = \\frac{1}{2}$."
+},
+{
+"pregunta": "En una bolsa hay 2 dulces rojos y 3 azules. ¿Cuál es la probabilidad de sacar uno azul?",
+"opciones": [
+"$\\frac{3}{2}$",
+"$\\frac{1}{3}$",
+"$\\frac{3}{5}$"
+],
+"correcta": 2,
+"porque": "Hay 3 azules entre 5 dulces en total."
+},
+{
+"pregunta": "Lanzas dos monedas. ¿Cuál es la probabilidad de que salgan dos soles?",
+"opciones": [
+"$\\frac{1}{2}$",
+"$\\frac{1}{4}$",
+"$\\frac{2}{4}$"
+],
+"correcta": 1,
+"porque": "Solo 1 de los 4 resultados posibles es sol-sol."
+},
+{
+"pregunta": "Dos eventos no pueden pasar juntos y quieres \"uno o el otro\". ¿Qué haces con sus probabilidades?",
+"opciones": [
+"Las divides",
+"Las sumas",
+"Las restas"
+],
+"correcta": 1,
+"porque": "Cuando es \"o\" y no pasan juntos, se suman."
+},
+{
+"pregunta": "En la escuela lanzas dos monedas. ¿Cuántos resultados posibles hay?",
+"opciones": [
+"3",
+"4",
+"2"
+],
+"correcta": 1,
+"porque": "Cada moneda tiene 2 resultados: $2 \\times 2 = 4$."
+}
+],
+"circunferencia-circulo-esfera": [
+{
+"pregunta": "Un plato tiene radio de 5 cm. Usa 3.14. ¿Cuánto mide el hilo alrededor, o sea la circunferencia?",
+"opciones": [
+"15.7 cm",
+"31.4 cm",
+"78.5 cm"
+],
+"correcta": 1,
+"porque": "$C = 2 \\times 3.14 \\times 5 = 31.4$."
+},
+{
+"pregunta": "¿Por qué el área del círculo lleva $r^2$?",
+"opciones": [
+"Porque se mide en cubitos que llenan algo",
+"Porque el radio siempre se tiene que repetir dos veces en cualquier fórmula",
+"Porque se mide en cuadritos"
+],
+"correcta": 2,
+"porque": "El área cubre una superficie y se cuenta en cuadritos."
+},
+{
+"pregunta": "¿Cuál es la fórmula del volumen de una esfera?",
+"opciones": [
+"$V = \\frac{4}{3}\\pi r^3$",
+"$V = 2\\pi r$, como el hilo de la orilla",
+"$V = \\pi r^2$, como el área del círculo"
+],
+"correcta": 0,
+"porque": "El volumen usa $r^3$, porque se mide en cubitos."
+},
+{
+"pregunta": "¿Cómo se llama la recta que toca un círculo en un solo punto?",
+"opciones": [
+"Tangente",
+"Secante",
+"Radio"
+],
+"correcta": 0,
+"porque": "La tangente toca el círculo en un solo punto."
+},
+{
+"pregunta": "Una pizza redonda se corta por la mitad. ¿Qué ángulo tiene ese sector?",
+"opciones": [
+"360°",
+"180°",
+"90°"
+],
+"correcta": 1,
+"porque": "La mitad de 360° es 180°."
+}
+]
+}

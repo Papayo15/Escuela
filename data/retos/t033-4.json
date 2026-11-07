@@ -1,0 +1,522 @@
+{
+"potencia-electrica-prepa": [
+{
+"pregunta": "Con 12 V y 3 A, ¿cuánta potencia da un aparato?",
+"opciones": [
+"36 W",
+"4 W",
+"15 W"
+],
+"correcta": 0,
+"porque": "La potencia es voltaje por corriente: 12 por 3 son 36 W."
+},
+{
+"pregunta": "Con 2 A y 10 ohms, halla $P$.",
+"opciones": [
+"400 W",
+"20 W",
+"40 W"
+],
+"correcta": 2,
+"porque": "$P = I^2R$: 2 por 2 por 10 son 40 W."
+},
+{
+"pregunta": "Una estufa de 2 kW funciona 3 h. ¿Cuánta energía consume?",
+"opciones": [
+"5 kWh",
+"6 kWh",
+"1.5 kWh"
+],
+"correcta": 1,
+"porque": "El consumo es potencia por tiempo: 2 por 3 son 6 kWh."
+},
+{
+"pregunta": "¿Por qué se calienta una plancha?",
+"opciones": [
+"Efecto Doppler, la onda se acerca",
+"Efecto Joule, la corriente calienta",
+"Efecto Pascal, la presión sube"
+],
+"correcta": 1,
+"porque": "La corriente calienta los cables, y eso se llama efecto Joule."
+},
+{
+"pregunta": "Un foco de 100 W y uno de 10 W están prendidos. ¿Cuál gasta energía más rápido?",
+"opciones": [
+"El de 100 W",
+"El de 10 W",
+"Los dos igual"
+],
+"correcta": 0,
+"porque": "La potencia dice qué tan rápido se gasta la energía."
+}
+],
+"potencial-electrico-prepa": [
+{
+"pregunta": "¿Cuánto trabajo mueve 4 C entre 5 V de diferencia?",
+"opciones": [
+"20 J",
+"9 J",
+"1.25 J"
+],
+"correcta": 0,
+"porque": "El trabajo es carga por diferencia de voltaje: 4 por 5 son 20 J."
+},
+{
+"pregunta": "Halla $V$ a 3 m de $Q = 3$ nC.",
+"opciones": [
+"9 V",
+"3 V",
+"27 V"
+],
+"correcta": 0,
+"porque": "$V = k\\frac{Q}{r}$: $\\frac{9 \\times 3}{3} = 9$ V."
+},
+{
+"pregunta": "Con 200 V entre placas a 0.04 m, ¿cuánto vale $E$?",
+"opciones": [
+"50 V/m",
+"8 V/m",
+"5000 V/m"
+],
+"correcta": 2,
+"porque": "El campo es voltaje entre distancia: 200 entre 0.04 son 5000 V/m."
+},
+{
+"pregunta": "¿A qué equivale un volt?",
+"opciones": [
+"A un newton por metro",
+"A un coulomb por joule",
+"A un joule por coulomb"
+],
+"correcta": 2,
+"porque": "El potencial es energía por unidad de carga, o sea joules entre coulombs."
+},
+{
+"pregunta": "¿Con qué se parece el potencial eléctrico?",
+"opciones": [
+"Con el largo de un cable",
+"Con la altura de una montaña",
+"Con el color de un foco"
+],
+"correcta": 1,
+"porque": "Una carga arriba tiene energía para bajar, igual que algo en una montaña."
+}
+],
+"primera-ley-de-newton-prepa": [
+{
+"pregunta": "Un cuerpo quieto tiene fuerza neta cero. ¿Qué hace?",
+"opciones": [
+"Sigue quieto en su lugar",
+"Se acelera solo",
+"Empieza a moverse"
+],
+"correcta": 0,
+"porque": "Si la fuerza neta es cero, un cuerpo quieto sigue quieto."
+},
+{
+"pregunta": "Un libro de 3 kg reposa en la mesa, con $g = 10$. ¿Cuánto vale la normal?",
+"opciones": [
+"3 N",
+"30 N",
+"13 N"
+],
+"correcta": 1,
+"porque": "En reposo, la normal iguala al peso: 3 por 10 son 30 N."
+},
+{
+"pregunta": "Vas en un camión que frena de golpe. ¿Qué hace tu cuerpo?",
+"opciones": [
+"Se detiene al instante",
+"Se va hacia atrás",
+"Sigue hacia adelante"
+],
+"correcta": 2,
+"porque": "Tu cuerpo quiere seguir igual, y eso se llama inercia."
+},
+{
+"pregunta": "¿Cuándo necesitas una fuerza neta?",
+"opciones": [
+"Para acelerar o frenar",
+"Para estar quieto",
+"Para ir a velocidad constante"
+],
+"correcta": 0,
+"porque": "Para moverte parejo no necesitas fuerza neta; solo para acelerar."
+},
+{
+"pregunta": "Un libro está quieto sobre la mesa. ¿Qué tipo de equilibrio tiene?",
+"opciones": [
+"Inercial",
+"Dinámico",
+"Estático"
+],
+"correcta": 2,
+"porque": "El equilibrio estático es el de un cuerpo quieto con fuerza neta cero."
+}
+],
+"principio-de-arquimedes-con-problemas-prepa": [
+{
+"pregunta": "Una madera de 0.8 g/cm³ flota en agua. ¿Qué fracción queda sumergida?",
+"opciones": [
+"20 %",
+"80 %",
+"100 %"
+],
+"correcta": 1,
+"porque": "Si flota, la fracción hundida es su densidad entre la del agua: 0.8."
+},
+{
+"pregunta": "Un objeto pesa 40 N y 25 N en agua. ¿Cuál es el empuje?",
+"opciones": [
+"25 N",
+"65 N",
+"15 N"
+],
+"correcta": 2,
+"porque": "El empuje es el peso real menos el peso en agua: 40 menos 25 son 15 N."
+},
+{
+"pregunta": "Con un empuje de 20 N y $g = 10$, ¿qué volumen tiene?",
+"opciones": [
+"0.002 m³",
+"0.02 m³",
+"2 m³"
+],
+"correcta": 0,
+"porque": "$V = \\frac{E}{\\rho g} = \\frac{20}{10\\,000} = 0.002$ m³."
+},
+{
+"pregunta": "Un objeto tiene 4 kg y ocupa 0.002 m³. ¿Cuál es su densidad?",
+"opciones": [
+"2000 kg/m³",
+"8 kg/m³",
+"500 kg/m³"
+],
+"correcta": 0,
+"porque": "La densidad es masa entre volumen: 4 entre 0.002 son 2000."
+},
+{
+"pregunta": "Cuelgas una piedra de una liga y la metes al agua. ¿Qué pasa con la liga?",
+"opciones": [
+"Se estira más",
+"Se estira igual",
+"Se estira menos que antes"
+],
+"correcta": 2,
+"porque": "El agua empuja hacia arriba, y la piedra pesa menos dentro del agua."
+}
+],
+"principio-de-bernoulli-prepa": [
+{
+"pregunta": "¿A qué velocidad sale agua por un orificio a 45 m bajo la superficie? Usa $g = 10$.",
+"opciones": [
+"9 m/s",
+"30 m/s",
+"90 m/s"
+],
+"correcta": 1,
+"porque": "$v = \\sqrt{2 \\times 10 \\times 45} = \\sqrt{900} = 30$ m/s."
+},
+{
+"pregunta": "Agua pasa de 2 a 6 m/s en un tubo plano. ¿Cuánto baja la presión?",
+"opciones": [
+"8 000 Pa",
+"20 000 Pa",
+"16 000 Pa"
+],
+"correcta": 2,
+"porque": "Es $\\frac{1}{2} \\times 1000 \\times (36 - 4) = 16\\,000$ Pa."
+},
+{
+"pregunta": "Soplas entre dos hojas de papel colgadas. ¿Qué pasa?",
+"opciones": [
+"Se juntan entre sí",
+"Se separan",
+"Se quedan quietas"
+],
+"correcta": 0,
+"porque": "El aire rápido empuja menos, y las hojas se juntan."
+},
+{
+"pregunta": "Un aire que va más rápido tiene:",
+"opciones": [
+"Menos presión",
+"Más presión",
+"La misma presión"
+],
+"correcta": 0,
+"porque": "Donde un fluido va más rápido, su presión es menor."
+},
+{
+"pregunta": "Un tanque tiene un agujero más profundo. ¿Cómo sale el agua?",
+"opciones": [
+"Más rápida que antes",
+"Más lenta",
+"Con la misma rapidez"
+],
+"correcta": 0,
+"porque": "En $v = \\sqrt{2gh}$, más profundidad da más velocidad."
+}
+],
+"principio-de-pascal-con-problemas-prepa": [
+{
+"pregunta": "Radios de 2 cm y 6 cm. ¿Cuántas veces se multiplica la fuerza?",
+"opciones": [
+"3 veces",
+"9 veces",
+"6 veces"
+],
+"correcta": 1,
+"porque": "La razón es 3, y la fuerza crece $3 \\times 3 = 9$ veces."
+},
+{
+"pregunta": "Con $A_1 = 5$ cm², $A_2 = 500$ cm² y $F_2 = 2000$ N, halla $F_1$.",
+"opciones": [
+"200 N",
+"2 N",
+"20 N"
+],
+"correcta": 2,
+"porque": "Fuerza entre área es igual: $\\frac{2000 \\times 5}{500} = 20$ N."
+},
+{
+"pregunta": "Con esos datos, si $d_2 = 2$ cm, halla $d_1$.",
+"opciones": [
+"0.02 cm",
+"20 cm",
+"200 cm"
+],
+"correcta": 2,
+"porque": "Lo que ganas en fuerza lo pierdes en recorrido: 2 por 100 son 200 cm."
+},
+{
+"pregunta": "¿Qué ganas y qué pierdes con una prensa hidráulica?",
+"opciones": [
+"Ganas recorrido, pierdes fuerza",
+"Ganas trabajo extra, no pierdes nada",
+"Ganas fuerza, pierdes recorrido"
+],
+"correcta": 2,
+"porque": "La prensa baja la fuerza que necesitas, pero no ahorra trabajo."
+},
+{
+"pregunta": "En un taller levantan un coche con poca fuerza. ¿Qué pasa el apretón?",
+"opciones": [
+"El ruido del taller",
+"El aceite entre los pistones",
+"El peso del coche"
+],
+"correcta": 1,
+"porque": "El aceite pasa el apretón de un pistón chico a uno grande."
+}
+],
+"resistencias-en-serie-y-paralelo-prepa": [
+{
+"pregunta": "Halla $R_{eq}$ de 12 $\\Omega$ y 4 $\\Omega$ en paralelo.",
+"opciones": [
+"8 $\\Omega$",
+"16 $\\Omega$",
+"3 $\\Omega$"
+],
+"correcta": 2,
+"porque": "Producto entre suma: $\\frac{48}{16} = 3$ $\\Omega$."
+},
+{
+"pregunta": "Halla $R_{eq}$ de 7 $\\Omega$ y 5 $\\Omega$ en serie.",
+"opciones": [
+"12 $\\Omega$",
+"35 $\\Omega$",
+"2.9 $\\Omega$"
+],
+"correcta": 0,
+"porque": "En serie las resistencias se suman: 7 más 5 son 12."
+},
+{
+"pregunta": "Cuatro resistencias de 8 $\\Omega$ van en paralelo. Halla $R_{eq}$.",
+"opciones": [
+"4 $\\Omega$",
+"32 $\\Omega$",
+"2 $\\Omega$"
+],
+"correcta": 2,
+"porque": "Con iguales, divide entre cuántas son: 8 entre 4 son 2."
+},
+{
+"pregunta": "3 $\\Omega$ en serie con el paralelo de 6 $\\Omega$ y 6 $\\Omega$. Halla $R_{eq}$.",
+"opciones": [
+"9 $\\Omega$",
+"6 $\\Omega$",
+"12 $\\Omega$"
+],
+"correcta": 1,
+"porque": "El paralelo da 3, y en serie 3 más 3 son 6 $\\Omega$."
+},
+{
+"pregunta": "Con 24 V en un circuito de 6 $\\Omega$, halla $I$.",
+"opciones": [
+"18 A",
+"144 A",
+"4 A"
+],
+"correcta": 2,
+"porque": "La corriente es voltaje entre resistencia: 24 entre 6 son 4 A."
+}
+],
+"segunda-ley-de-newton-f-ma-prepa": [
+{
+"pregunta": "Sobre 8 kg actúan 50 N a la derecha y 10 N a la izquierda. Halla $a$.",
+"opciones": [
+"7.5 m/s²",
+"0.2 m/s²",
+"5 m/s²"
+],
+"correcta": 2,
+"porque": "La fuerza neta es 40 N, y 40 entre 8 son 5 m/s²."
+},
+{
+"pregunta": "Una persona de 40 kg sube en un elevador con $a = 1$ m/s² y $g = 10$. Halla $N$.",
+"opciones": [
+"360 N",
+"400 N",
+"440 N"
+],
+"correcta": 2,
+"porque": "Subiendo, $N = m(g + a)$: 40 por 11 son 440 N."
+},
+{
+"pregunta": "Bloques de 2 y 3 kg, jalados con 15 N y sin fricción. Halla $a$.",
+"opciones": [
+"7.5 m/s²",
+"5 m/s²",
+"3 m/s²"
+],
+"correcta": 2,
+"porque": "Suma las masas: 15 entre 5 son 3 m/s²."
+},
+{
+"pregunta": "Empujas con igual fuerza un carrito vacío y uno lleno. ¿Cuál acelera más?",
+"opciones": [
+"Los dos igual",
+"El lleno",
+"El vacío, pesa menos"
+],
+"correcta": 2,
+"porque": "Con la misma fuerza, la masa menor acelera más."
+},
+{
+"pregunta": "Subes en un elevador que acelera hacia arriba. ¿Cómo te sientes?",
+"opciones": [
+"Más pesado",
+"Igual de pesado",
+"Más ligero"
+],
+"correcta": 0,
+"porque": "Subiendo con aceleración, $N = m(g + a)$ y te sientes pesado."
+}
+],
+"sonido-y-efecto-doppler-prepa": [
+{
+"pregunta": "Una ambulancia se acerca a ti. ¿Cómo oyes la sirena?",
+"opciones": [
+"Más grave",
+"Más aguda",
+"Sin cambio"
+],
+"correcta": 1,
+"porque": "Al acercarse, la fuente aprieta las ondas y el sonido se oye más agudo."
+},
+{
+"pregunta": "¿En cuál medio va más rápido el sonido?",
+"opciones": [
+"En el agua, mucho más",
+"En el aire",
+"Igual en los dos"
+],
+"correcta": 0,
+"porque": "El sonido va a 1500 m/s en agua y a 340 m/s en aire."
+},
+{
+"pregunta": "Una fuente de 400 Hz se acerca a 170 m/s, con $v = 340$ m/s. Halla $f'$.",
+"opciones": [
+"800 Hz",
+"200 Hz",
+"600 Hz"
+],
+"correcta": 0,
+"porque": "$400 \\times \\frac{340}{340 - 170} = 400 \\times 2 = 800$ Hz."
+},
+{
+"pregunta": "Cuando una fuente se acerca, ¿qué pasa con las ondas que llegan a ti?",
+"opciones": [
+"Se aprietan entre sí",
+"Se detienen",
+"Se estiran"
+],
+"correcta": 0,
+"porque": "Al acercarse, la fuente aprieta las ondas y sube la frecuencia."
+},
+{
+"pregunta": "¿Cuál es una aplicación del efecto Doppler?",
+"opciones": [
+"El eco en un pasillo",
+"El timbre de la escuela",
+"El radar que mide la velocidad"
+],
+"correcta": 2,
+"porque": "Los radares de velocidad usan el efecto Doppler."
+}
+],
+"tercera-ley-newton-accion-reaccion": [
+{
+"pregunta": "Una pelota empuja una raqueta con 12 N. ¿Cuánto empuja la raqueta a la pelota?",
+"opciones": [
+"12 N",
+"0 N",
+"24 N"
+],
+"correcta": 0,
+"porque": "La acción y la reacción son iguales y en sentido contrario."
+},
+{
+"pregunta": "¿Qué empuja a un cohete hacia arriba?",
+"opciones": [
+"El humo del suelo",
+"Los gases que lanza hacia abajo",
+"El aire que está arriba"
+],
+"correcta": 1,
+"porque": "El cohete avienta gases, y los gases lo empujan a él."
+},
+{
+"pregunta": "Un camión choca con una bici. ¿Qué fuerza es mayor?",
+"opciones": [
+"Son iguales",
+"La del camión",
+"La de la bici"
+],
+"correcta": 0,
+"porque": "Las fuerzas son iguales, pero la bici sale peor porque tiene menos masa."
+},
+{
+"pregunta": "Sueltas un globo inflado y sale volando. ¿Por qué?",
+"opciones": [
+"El aire de afuera lo jala",
+"El globo quiere subir",
+"El aire sale y empuja al globo"
+],
+"correcta": 2,
+"porque": "El globo avienta aire, y el aire lo empuja en sentido contrario."
+},
+{
+"pregunta": "Con patines empujas una pared. ¿Qué pasa?",
+"opciones": [
+"Sales hacia la pared",
+"Te quedas quieto",
+"Sales rodando hacia atrás"
+],
+"correcta": 2,
+"porque": "Empujas la pared y ella te empuja a ti, por eso sales hacia atrás."
+}
+]
+}

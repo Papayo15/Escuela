@@ -1,0 +1,522 @@
+{
+"entalpia-de-reaccion-prepa": [
+{
+"pregunta": "Una reacción tiene $\\Delta H = +60$ kJ. ¿Qué hace con el calor?",
+"opciones": [
+"No lo cambia en nada, queda igual",
+"Lo absorbe del ambiente",
+"Lo libera hacia todo el ambiente"
+],
+"correcta": 1,
+"porque": "Un $\\Delta H$ positivo significa que la reacción toma calor."
+},
+{
+"pregunta": "Si $H_{productos} = 40$ kJ y $H_{reactivos} = 70$ kJ, ¿cuánto vale $\\Delta H$?",
+"opciones": [
+"$+30$ kJ",
+"$+110$ kJ",
+"$-30$ kJ"
+],
+"correcta": 2,
+"porque": "Lo del final menos lo del inicio: $40 - 70 = -30$."
+},
+{
+"pregunta": "Una reacción tiene $\\Delta H = -25$ kJ. ¿Cuánto vale al invertirla?",
+"opciones": [
+"$+25$ kJ",
+"$-25$ kJ",
+"$0$ kJ"
+],
+"correcta": 0,
+"porque": "Al invertir la reacción, el signo de $\\Delta H$ cambia."
+},
+{
+"pregunta": "Una bolsa fría se enfría al usarla. ¿Qué tipo de reacción es?",
+"opciones": [
+"Exotérmica, porque suelta calor",
+"Ninguna, porque no cambia",
+"Endotérmica, porque toma calor"
+],
+"correcta": 2,
+"porque": "Una bolsa fría absorbe calor de tu piel, así que es endotérmica."
+},
+{
+"pregunta": "Si el $\\Delta H$ es negativo, ¿qué pasa con la energía de la reacción?",
+"opciones": [
+"Queda igual siempre",
+"Sube, porque toma calor",
+"Baja, porque regala calor"
+],
+"correcta": 2,
+"porque": "Es como una cuenta que baja: la reacción regaló calor."
+}
+],
+"entropia-entalpia-segunda-tercera-ley": [
+{
+"pregunta": "Un cuerpo absorbe 500 J de calor a 250 K. ¿Cuánto aumenta su entropía?",
+"opciones": [
+"750 J/K",
+"2 J/K",
+"0.5 J/K"
+],
+"correcta": 1,
+"porque": "$\\Delta S = \\frac{Q}{T} = \\frac{500}{250} = 2$ J/K."
+},
+{
+"pregunta": "Tu cuarto se desordena solo. ¿Qué dice la segunda ley?",
+"opciones": [
+"El orden sube solo sin gastar energía",
+"No baja solo en un sistema aislado",
+"El desorden baja solo si esperas"
+],
+"correcta": 1,
+"porque": "Para ordenar debes gastar energía; solo no se ordena."
+},
+{
+"pregunta": "¿Qué dice la tercera ley del cero absoluto?",
+"opciones": [
+"Ahí el calor pasa de lo frío a lo caliente",
+"Ahí cualquier cuerpo tiene entropía máxima",
+"Ahí un cristal perfecto tendría entropía cero"
+],
+"correcta": 2,
+"porque": "En el cero absoluto un cristal perfecto tendría entropía cero."
+},
+{
+"pregunta": "Una reacción tiene entalpía negativa. ¿Qué hace con el calor?",
+"opciones": [
+"No lo libera ni lo absorbe",
+"Lo libera y es exotérmica",
+"Lo absorbe y es endotérmica"
+],
+"correcta": 1,
+"porque": "Entalpía negativa significa que la reacción libera calor."
+},
+{
+"pregunta": "¿Por qué el calor va de lo caliente a lo frío?",
+"opciones": [
+"Así el desorden total nunca baja",
+"Así el orden total siempre sube",
+"Porque lo frío atrae al calor"
+],
+"correcta": 0,
+"porque": "La segunda ley dice que el desorden de un sistema aislado no baja."
+}
+],
+"escalas-celsius-fahrenheit-y-kelvin-prepa": [
+{
+"pregunta": "Convierte 30 °C a Fahrenheit.",
+"opciones": [
+"86 °F",
+"62 °F",
+"54 °F"
+],
+"correcta": 0,
+"porque": "Multiplica por 1.8 y suma 32: $54 + 32 = 86$."
+},
+{
+"pregunta": "Convierte 50 °F a Celsius.",
+"opciones": [
+"18 °C",
+"10 °C",
+"32 °C"
+],
+"correcta": 1,
+"porque": "Resta 32 y divide entre 1.8: $18 \\div 1.8 = 10$."
+},
+{
+"pregunta": "Convierte 20 °C a kelvin, sumando 273.",
+"opciones": [
+"253 K",
+"273 K",
+"293 K"
+],
+"correcta": 2,
+"porque": "De Celsius a Kelvin se suma 273: $20 + 273 = 293$."
+},
+{
+"pregunta": "Convierte 400 K a Celsius, restando 273.",
+"opciones": [
+"173 °C",
+"673 °C",
+"127 °C"
+],
+"correcta": 2,
+"porque": "De Kelvin a Celsius se resta 273: $400 - 273 = 127$."
+},
+{
+"pregunta": "Un aumento de 20 °C, ¿cuántos °F son?",
+"opciones": [
+"68 °F",
+"52 °F",
+"36 °F"
+],
+"correcta": 2,
+"porque": "Para un cambio solo multiplicas por 1.8, sin sumar 32: $20 \\times 1.8 = 36$."
+}
+],
+"fuerza-movimiento-energia-mecanica-prepa": [
+{
+"pregunta": "¿Qué fuerza acelera 6 kg a 5 m/s²?",
+"opciones": [
+"11 N",
+"30 N",
+"1.2 N"
+],
+"correcta": 1,
+"porque": "La fuerza es masa por aceleración: $6 \\times 5 = 30$ N."
+},
+{
+"pregunta": "Una fuerza de 30 N mueve una caja 6 m. ¿Cuánto trabajo realiza?",
+"opciones": [
+"180 J",
+"5 J",
+"36 J"
+],
+"correcta": 0,
+"porque": "El trabajo es fuerza por distancia: $30 \\times 6 = 180$ J."
+},
+{
+"pregunta": "Una fuerza neta de 12 N actúa sobre 3 kg. ¿Cuál es la aceleración?",
+"opciones": [
+"36 m/s²",
+"4 m/s²",
+"15 m/s²"
+],
+"correcta": 1,
+"porque": "$a = \\frac{F}{m} = \\frac{12}{3} = 4$ m/s²."
+},
+{
+"pregunta": "Calcula $E_m$ de 2 kg a 4 m/s y a 3 m de altura, con $g = 10$.",
+"opciones": [
+"16 J",
+"76 J",
+"60 J"
+],
+"correcta": 1,
+"porque": "$E_c = 16$ J y $E_p = 60$ J; juntas dan 76 J."
+},
+{
+"pregunta": "Empujas una silla por el salón. ¿Dónde están la fuerza y la distancia?",
+"opciones": [
+"La fuerza es tu empujón; la distancia, lo que avanza",
+"La fuerza es la masa; la distancia, el tiempo",
+"La fuerza es lo que avanza; la distancia, tu empujón"
+],
+"correcta": 0,
+"porque": "Trabajo es fuerza por distancia: tu empujón y lo que avanza la silla."
+}
+],
+"ley-de-boyle-prepa": [
+{
+"pregunta": "4 L a 3 atm se aprietan hasta 2 L. ¿Qué presión tiene el gas?",
+"opciones": [
+"1.5 atm",
+"9 atm",
+"6 atmósferas"
+],
+"correcta": 2,
+"porque": "$P_2 = \\frac{3 \\times 4}{2} = 6$ atm."
+},
+{
+"pregunta": "Tapas una jeringa y empujas el émbolo. ¿Qué pasa con el aire?",
+"opciones": [
+"El volumen baja y la presión baja mucho",
+"El volumen baja y la presión sube",
+"El volumen sube y la presión sube mucho"
+],
+"correcta": 1,
+"porque": "Con menos espacio, el aire empuja más fuerte."
+},
+{
+"pregunta": "6 L a 1 atm pasan a 3 atm. ¿Cuánto vale el volumen?",
+"opciones": [
+"3 L",
+"18 litros",
+"2 litros"
+],
+"correcta": 2,
+"porque": "$V_2 = \\frac{1 \\times 6}{3} = 2$ L."
+},
+{
+"pregunta": "¿Cuántos mmHg son 1 atm?",
+"opciones": [
+"100 mmHg",
+"1000 mmHg",
+"760 mmHg"
+],
+"correcta": 2,
+"porque": "Una atmósfera equivale a 760 mmHg."
+},
+{
+"pregunta": "Al inhalar, tus pulmones crecen. ¿Qué pasa con la presión?",
+"opciones": [
+"Baja, y por eso entra aire",
+"No cambia, y aun así entra aire",
+"Sube, y por eso entra aire más rápido"
+],
+"correcta": 0,
+"porque": "Si el volumen crece, la presión baja y el aire entra."
+}
+],
+"ley-de-charles-prepa": [
+{
+"pregunta": "2 L a 200 K se calientan hasta 400 K. ¿Cuál es el volumen final?",
+"opciones": [
+"6 litros",
+"4 litros",
+"1 litro"
+],
+"correcta": 1,
+"porque": "La temperatura se duplica, así que el volumen también: 4 L."
+},
+{
+"pregunta": "Convierte 30 °C a kelvin.",
+"opciones": [
+"243 K",
+"30 K",
+"303 K"
+],
+"correcta": 2,
+"porque": "A los grados Celsius se les suma 273: $30 + 273 = 303$."
+},
+{
+"pregunta": "8 L a 400 K se enfrían hasta 200 K. ¿Cuál es el volumen final?",
+"opciones": [
+"2 litros",
+"16 litros",
+"4 litros"
+],
+"correcta": 2,
+"porque": "La temperatura baja a la mitad, y el volumen también: 4 L."
+},
+{
+"pregunta": "Metes un globo inflado al refrigerador. ¿Qué le pasa?",
+"opciones": [
+"No cambia, porque está cerrado y sellado",
+"Crece, porque el aire se enfría y sube",
+"Se encoge, porque el aire se enfría"
+],
+"correcta": 2,
+"porque": "Con menos temperatura, el volumen del gas baja."
+},
+{
+"pregunta": "¿Cuál es la fórmula de la ley de Charles?",
+"opciones": [
+"$P_1 V_1 = P_2 V_2$",
+"$\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$",
+"$V_1 T_1 = V_2 T_2$"
+],
+"correcta": 1,
+"porque": "Volumen entre temperatura da lo mismo antes y después."
+}
+],
+"ley-de-gay-lussac-prepa": [
+{
+"pregunta": "2 atm a 200 K se calientan hasta 400 K. ¿Cuánta presión hay?",
+"opciones": [
+"1 atmósfera",
+"6 atm",
+"4 atmósferas"
+],
+"correcta": 2,
+"porque": "La temperatura se duplica, así que la presión también: 4 atm."
+},
+{
+"pregunta": "6 atm a 600 K bajan hasta 300 K. ¿Cuánta presión hay?",
+"opciones": [
+"2 atm",
+"12 atmósferas",
+"3 atmósferas"
+],
+"correcta": 2,
+"porque": "La temperatura baja a la mitad, y la presión también: 3 atm."
+},
+{
+"pregunta": "Una lata de aerosol se calienta mucho. ¿Qué le pasa a la presión?",
+"opciones": [
+"Sube y puede estallar",
+"No cambia aunque se caliente mucho",
+"Baja y la lata se arruga"
+],
+"correcta": 0,
+"porque": "Con más calor, el gas empuja más fuerte las paredes de la lata."
+},
+{
+"pregunta": "¿Por qué las llantas se inflan más con el calor?",
+"opciones": [
+"El calor mete aire nuevo desde afuera",
+"Más calor da menos presión adentro",
+"Más calor da más presión dentro"
+],
+"correcta": 2,
+"porque": "A volumen constante, más temperatura significa más presión."
+},
+{
+"pregunta": "Ley combinada: 2 atm, 3 L y 300 K pasan a 1 atm y 300 K. ¿Cuál es el volumen?",
+"opciones": [
+"3 L",
+"1.5 L",
+"6 litros"
+],
+"correcta": 2,
+"porque": "La temperatura es igual, así que $V_2 = \\frac{2 \\times 3}{1} = 6$ L."
+}
+],
+"ley-de-hess-prepa": [
+{
+"pregunta": "Dos pasos tienen $\\Delta H$ de $-40$ kJ y $-25$ kJ. ¿Cuál es el total?",
+"opciones": [
+"$-65$ kJ",
+"$+65$ kJ",
+"$-15$ kJ"
+],
+"correcta": 0,
+"porque": "Los $\\Delta H$ de los pasos se suman: $-40 - 25 = -65$."
+},
+{
+"pregunta": "Si $A \\to B$ tiene $\\Delta H = +30$ kJ, ¿cuánto vale $B \\to A$?",
+"opciones": [
+"$-30$ kJ",
+"$+30$ kJ",
+"$0$ kJ"
+],
+"correcta": 0,
+"porque": "Al invertir la reacción, cambia el signo de $\\Delta H$."
+},
+{
+"pregunta": "Si $A \\to B$ tiene $\\Delta H = -8$ kJ, ¿cuánto vale $3A \\to 3B$?",
+"opciones": [
+"$-11$ kJ",
+"$-24$ kJ",
+"$-8$ kJ"
+],
+"correcta": 1,
+"porque": "Al multiplicar la reacción por 3, también multiplicas $\\Delta H$."
+},
+{
+"pregunta": "Subes al quinto piso por escaleras o elevador. ¿Qué enseña eso?",
+"opciones": [
+"Solo importa dónde empiezas y dónde acabas",
+"Importa mucho el camino que tomas al subir",
+"Importa solo cuánto tiempo tardas en subir"
+],
+"correcta": 0,
+"porque": "La ley de Hess dice que el calor total no depende del camino."
+},
+{
+"pregunta": "Hay tres pasos de $-50$, $+20$ y $-10$ kJ. ¿Cuál es el total?",
+"opciones": [
+"$-80$ kJ",
+"$-20$ kJ",
+"$-40$ kJ"
+],
+"correcta": 2,
+"porque": "Suma los tres: $-50 + 20 - 10 = -40$."
+}
+],
+"magnitudes-escalares-y-vectoriales-prepa": [
+{
+"pregunta": "Camina 7 pasos al sur. ¿Qué tipo de magnitud es?",
+"opciones": [
+"Ni escalar ni vector, sino otra cosa",
+"Vector, porque dice la dirección",
+"Escalar, porque dice el número"
+],
+"correcta": 1,
+"porque": "Un vector tiene número, unidad y dirección; aquí la dirección es el sur."
+},
+{
+"pregunta": "Calcula $A_y$ si $A = 8$ a $30°$.",
+"opciones": [
+"2",
+"8",
+"4"
+],
+"correcta": 2,
+"porque": "$A_y = A \\sin\\theta = 8 \\times 0.5 = 4$."
+},
+{
+"pregunta": "Un vector tiene $A_x = 5$ y $A_y = 12$. ¿Cuál es su magnitud?",
+"opciones": [
+"7",
+"17",
+"13"
+],
+"correcta": 2,
+"porque": "$\\sqrt{25 + 144} = \\sqrt{169} = 13$."
+},
+{
+"pregunta": "¿Cuál de estas magnitudes es un vector?",
+"opciones": [
+"Un tiempo de 5 s en tu reloj de pulsera",
+"Una masa de 5 kg en una báscula",
+"Una fuerza de 5 N hacia arriba"
+],
+"correcta": 2,
+"porque": "La fuerza tiene dirección, así que es un vector."
+},
+{
+"pregunta": "¿Qué función da el tramo de lado de un vector inclinado?",
+"opciones": [
+"La raíz cuadrada",
+"El seno",
+"El coseno"
+],
+"correcta": 2,
+"porque": "$A_x = A\\cos\\theta$: el coseno da el tramo de lado."
+}
+],
+"movimiento-circular-uniforme-prepa": [
+{
+"pregunta": "Una rueda tarda 5 s en dar una vuelta. ¿Cuál es su frecuencia?",
+"opciones": [
+"0.5 Hz",
+"0.2 Hz",
+"5 Hz"
+],
+"correcta": 1,
+"porque": "La frecuencia es $\\frac{1}{T} = \\frac{1}{5} = 0.2$ Hz."
+},
+{
+"pregunta": "Con $v = 8$ m/s y $r = 4$ m, calcula $a_c$.",
+"opciones": [
+"32 m/s²",
+"2 m/s²",
+"16 m/s²"
+],
+"correcta": 2,
+"porque": "$a_c = \\frac{v^2}{r} = \\frac{64}{4} = 16$ m/s²."
+},
+{
+"pregunta": "Calcula $F_c$ para 2 kg con esa misma $a_c$ de 16 m/s².",
+"opciones": [
+"16 N",
+"8 N",
+"32 N"
+],
+"correcta": 2,
+"porque": "La fuerza es masa por aceleración: $2 \\times 16 = 32$ N."
+},
+{
+"pregunta": "Giras una pelota con cuerda y la sueltas. ¿Qué hace la pelota?",
+"opciones": [
+"Cae hacia tu mano",
+"Sale derecho",
+"Sigue en círculo"
+],
+"correcta": 1,
+"porque": "Sin la cuerda que la jala al centro, la pelota sale derecho."
+},
+{
+"pregunta": "Un coche gira a rapidez constante. ¿Tiene aceleración?",
+"opciones": [
+"Sí, hacia el centro",
+"No, porque la rapidez no cambia",
+"Sí, pero hacia afuera del círculo"
+],
+"correcta": 0,
+"porque": "Cambiar de dirección es una aceleración que apunta al centro."
+}
+]
+}

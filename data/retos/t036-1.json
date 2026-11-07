@@ -1,0 +1,522 @@
+{
+"ideologias-politicas-prepa": [
+{
+"pregunta": "¿Qué es una ideología política?",
+"opciones": [
+"Ideas sobre cómo organizar un país",
+"Un partido de futbol entre países",
+"Una ley que escribe un maestro"
+],
+"correcta": 0,
+"porque": "Es un conjunto de ideas sobre cómo debería organizarse la sociedad."
+},
+{
+"pregunta": "¿Qué ideología pone primero el cuidado del ambiente?",
+"opciones": [
+"El nacionalismo",
+"El conservadurismo",
+"El ecologismo"
+],
+"correcta": 2,
+"porque": "El ecologismo busca cuidar la naturaleza y los recursos."
+},
+{
+"pregunta": "Alguien dice: \"primero lo de nuestra nación\". ¿Qué ideología es?",
+"opciones": [
+"Socialismo",
+"Ecologismo",
+"Nacionalismo"
+],
+"correcta": 2,
+"porque": "El nacionalismo pone primero a la nación."
+},
+{
+"pregunta": "Dos compañeros opinan distinto sobre cómo debe ser un país. ¿Qué haces?",
+"opciones": [
+"Me burlo de la idea contraria",
+"Comparo sus ideas con respeto",
+"Les pido que ya no hablen"
+],
+"correcta": 1,
+"porque": "Cada ideología es una mirada distinta y se compara sin ofender."
+},
+{
+"pregunta": "¿Qué significa que las ideologías son \"lentes distintos\"?",
+"opciones": [
+"Miran el país de otra forma",
+"Todas piensan igualito",
+"Solo una puede existir"
+],
+"correcta": 0,
+"porque": "Cada ideología mira cómo debería ser un país desde otro punto de vista."
+}
+],
+"impuestos-prepa": [
+{
+"pregunta": "Algo cuesta 300 pesos sin IVA. ¿Cuánto es el IVA?",
+"opciones": [
+"30 pesos",
+"48 pesos",
+"16 pesos"
+],
+"correcta": 1,
+"porque": "El IVA es 16 %: 300 por 0.16 da 48."
+},
+{
+"pregunta": "Un cuaderno de 100 pesos lleva IVA. ¿Cuánto pagas en total?",
+"opciones": [
+"116 pesos",
+"100 pesos",
+"160 pesos"
+],
+"correcta": 0,
+"porque": "A 100 se le suman 16 de IVA y el total es 116."
+},
+{
+"pregunta": "Compras un cuaderno en la papelería. ¿Qué impuesto aparece en el ticket?",
+"opciones": [
+"El IVA",
+"El ISR",
+"El INPC"
+],
+"correcta": 0,
+"porque": "El IVA se paga al comprar y se ve en el ticket."
+},
+{
+"pregunta": "¿Cómo sacas el IVA de un precio?",
+"opciones": [
+"Divides entre 0.16",
+"Multiplicas por 16",
+"Multiplicas por 0.16"
+],
+"correcta": 2,
+"porque": "El IVA es 16 %, y 16 % es 0.16 como decimal."
+},
+{
+"pregunta": "En tu salón cada quien pone una moneda para el material de todos. ¿Con qué se parece?",
+"opciones": [
+"Con un premio",
+"Con una multa",
+"Con los impuestos"
+],
+"correcta": 2,
+"porque": "Con impuestos todos ponemos un poco para lo que usamos entre todos."
+}
+],
+"inflacion-prepa": [
+{
+"pregunta": "Con 10 pesos comprabas 2 paletas y ahora solo 1. ¿Qué pasó?",
+"opciones": [
+"Los precios no cambiaron",
+"Subieron los precios",
+"Bajaron los precios"
+],
+"correcta": 1,
+"porque": "Si compras menos con el mismo dinero, los precios subieron."
+},
+{
+"pregunta": "Algo de 100 pesos sube 5 %. ¿Cuánto cuesta ahora?",
+"opciones": [
+"95 pesos",
+"150 pesos",
+"105 pesos"
+],
+"correcta": 2,
+"porque": "El 5 % de 100 es 5, y se suma: 105."
+},
+{
+"pregunta": "¿Qué es la inflación?",
+"opciones": [
+"Que un producto cueste más un día",
+"Aumento general de precios",
+"Que todo se vuelva más barato"
+],
+"correcta": 1,
+"porque": "Es el aumento general y sostenido de los precios."
+},
+{
+"pregunta": "¿Qué lista de precios usa el INEGI para medir la inflación?",
+"opciones": [
+"El PIB",
+"El SAT",
+"El INPC"
+],
+"correcta": 2,
+"porque": "El INPC es una lista de precios que mide cuánto suben."
+},
+{
+"pregunta": "Hay inflación y tu domingo sigue igual. ¿Qué te pasa?",
+"opciones": [
+"Puedes comprar más",
+"Compras exactamente igual",
+"Puedes comprar menos"
+],
+"correcta": 2,
+"porque": "Con inflación baja el poder adquisitivo y el dinero alcanza menos."
+}
+],
+"necesidades-satisfactores-preparatoria": [
+{
+"pregunta": "Tienes sed. ¿Cuál es el satisfactor?",
+"opciones": [
+"La sed",
+"El calor",
+"Un vaso de agua"
+],
+"correcta": 2,
+"porque": "El satisfactor es lo que cubre la necesidad, y la sed es la necesidad."
+},
+{
+"pregunta": "Aprender algo nuevo es una necesidad de tipo...",
+"opciones": [
+"Material",
+"Comunitaria",
+"Personal"
+],
+"correcta": 2,
+"porque": "Aprender es una necesidad personal, como el cariño."
+},
+{
+"pregunta": "La seguridad en tu calle es una necesidad...",
+"opciones": [
+"Material",
+"Comunitaria",
+"Personal"
+],
+"correcta": 1,
+"porque": "Lo que necesitamos entre todos, como seguridad y escuela, es comunitario."
+},
+{
+"pregunta": "¿Cuál es un satisfactor de la sed?",
+"opciones": [
+"Un vaso de agua",
+"Estar muy cansado",
+"Tener mucha sed"
+],
+"correcta": 0,
+"porque": "El agua cubre la necesidad de la sed, por eso es el satisfactor."
+},
+{
+"pregunta": "Dos culturas cubren el hambre con comidas distintas. ¿Qué enseña esto?",
+"opciones": [
+"Una cultura no tiene hambre",
+"Hay varias formas de cubrirla",
+"Solo existe un satisfactor"
+],
+"correcta": 1,
+"porque": "Una necesidad se cubre de varias maneras, según la cultura."
+}
+],
+"oferta-y-demanda-prepa": [
+{
+"pregunta": "Si sube el precio de un helado, ¿qué pasa con la cantidad que compran?",
+"opciones": [
+"Sube",
+"Baja",
+"No cambia"
+],
+"correcta": 1,
+"porque": "La ley dice que si sube el precio, la cantidad demandada baja."
+},
+{
+"pregunta": "Los vendedores ofrecen más cosas cuando el precio...",
+"opciones": [
+"Baja",
+"Se queda en cero",
+"Sube"
+],
+"correcta": 2,
+"porque": "Si sube el precio, la cantidad ofrecida sube."
+},
+{
+"pregunta": "¿Qué es el equilibrio?",
+"opciones": [
+"Cuando oferta y demanda se igualan",
+"Cuando nadie compra nada",
+"Cuando todo cuesta cero"
+],
+"correcta": 0,
+"porque": "El equilibrio es el punto donde lo ofrecido y lo demandado se igualan."
+},
+{
+"pregunta": "Sale un juguete de moda y hay muy pocos. ¿Por qué sube su precio?",
+"opciones": [
+"Muchos lo quieren y hay pocos",
+"Nadie lo quiere comprar",
+"Sobran juguetes en tiendas"
+],
+"correcta": 0,
+"porque": "Mucha demanda con poca oferta hace subir el precio."
+},
+{
+"pregunta": "Hay 50 mochilas y solo 10 personas las quieren. ¿Qué pasa con el precio?",
+"opciones": [
+"No puede cambiar",
+"Sube mucho",
+"Tiende a bajar"
+],
+"correcta": 2,
+"porque": "Si hay mucho y piden poco, el precio tiende a bajar."
+}
+],
+"organizacion-social-preparatoria": [
+{
+"pregunta": "Un hospital público es un ejemplo de...",
+"opciones": [
+"Institución",
+"Grupo",
+"Persona sola"
+],
+"correcta": 0,
+"porque": "Las instituciones tienen reglas fijas, como un hospital o la escuela."
+},
+{
+"pregunta": "Personas que comparten un barrio o una identidad forman...",
+"opciones": [
+"Una comunidad",
+"Una persona",
+"Un reglamento"
+],
+"correcta": 0,
+"porque": "Las comunidades comparten lugar o identidad."
+},
+{
+"pregunta": "¿Qué tienen las instituciones?",
+"opciones": [
+"Un solo miembro",
+"Reglas fijas",
+"Ningún reglamento"
+],
+"correcta": 1,
+"porque": "Las instituciones se distinguen por tener reglas fijas."
+},
+{
+"pregunta": "Dos equipos se ponen de acuerdo para compartir la cancha. ¿Qué relación es?",
+"opciones": [
+"Conflicto",
+"Aislamiento",
+"Cooperación"
+],
+"correcta": 2,
+"porque": "Cuando se ayudan o se ponen de acuerdo, cooperan."
+},
+{
+"pregunta": "¿Cuál orden va de lo más pequeño a lo más estable?",
+"opciones": [
+"Persona, grupo, comunidad, institución",
+"Grupo, persona, institución, comunidad",
+"Institución, comunidad, grupo, persona"
+],
+"correcta": 0,
+"porque": "Va de la persona sola hasta la institución con reglas fijas."
+}
+],
+"produccion-distribucion-preparatoria": [
+{
+"pregunta": "¿Qué factor de producción son el dinero y las máquinas?",
+"opciones": [
+"Capital",
+"Tierra",
+"Trabajo"
+],
+"correcta": 0,
+"porque": "El capital incluye dinero y máquinas para producir."
+},
+{
+"pregunta": "El camión lleva el maíz a las tiendas. ¿Qué se hace?",
+"opciones": [
+"Distribuir",
+"Cosechar",
+"Producir"
+],
+"correcta": 0,
+"porque": "Distribuir es hacer llegar y repartir lo que se produjo."
+},
+{
+"pregunta": "Una persona con capital y otra que solo tiene su trabajo. ¿Quién suele ganar más?",
+"opciones": [
+"La que solo trabaja",
+"Ganan siempre lo mismo",
+"La que tiene capital"
+],
+"correcta": 2,
+"porque": "Quien tiene capital suele ganar más que quien solo tiene su trabajo."
+},
+{
+"pregunta": "¿Qué es producir?",
+"opciones": [
+"Repartir lo ganado",
+"Cobrar impuestos",
+"Hacer bienes y servicios"
+],
+"correcta": 2,
+"porque": "Producir es hacer bienes y servicios, como el pan."
+},
+{
+"pregunta": "¿Cuál es una forma de repartir lo ganado?",
+"opciones": [
+"Salarios",
+"Cosechas",
+"Herramientas"
+],
+"correcta": 0,
+"porque": "El reparto se da por salarios, ganancias, rentas e impuestos."
+}
+],
+"psicologia-que-estudia-prepa": [
+{
+"pregunta": "Te pones nervioso antes de un examen y quieres entender por qué. ¿Qué ciencia ayuda?",
+"opciones": [
+"La psicología",
+"La geología",
+"La astronomía"
+],
+"correcta": 0,
+"porque": "La psicología estudia la mente, las emociones y la conducta."
+},
+{
+"pregunta": "¿Cuál de estos es un autor de psicología?",
+"opciones": [
+"Freud",
+"Newton",
+"Pitágoras"
+],
+"correcta": 0,
+"porque": "Freud, Piaget y Skinner son autores de psicología."
+},
+{
+"pregunta": "¿Cuál es un tema de la psicología?",
+"opciones": [
+"Los volcanes",
+"Las mareas",
+"La memoria"
+],
+"correcta": 2,
+"porque": "La psicología estudia temas como memoria, aprendizaje y emociones."
+},
+{
+"pregunta": "Un psicólogo puede ayudarte a...",
+"opciones": [
+"Arreglar tu mochila",
+"Hacer una torta",
+"Sentirte mejor"
+],
+"correcta": 2,
+"porque": "Un psicólogo ayuda con las emociones y la forma de actuar."
+},
+{
+"pregunta": "Anotas qué emoción sientes hoy y qué la causó. ¿Qué practicas?",
+"opciones": [
+"Sumar números",
+"Entender tus emociones",
+"Medir distancias"
+],
+"correcta": 1,
+"porque": "Anotar emociones y causas ayuda a conocer tu mente."
+}
+],
+"relaciones-poder-preparatoria": [
+{
+"pregunta": "Una amiga te convence con buenas razones, sin obligarte. ¿Qué es?",
+"opciones": [
+"Coerción",
+"Amenaza",
+"Influencia"
+],
+"correcta": 2,
+"porque": "La influencia convence sin obligar."
+},
+{
+"pregunta": "Un compañero te amenaza para que le des tu lunch. ¿Qué es?",
+"opciones": [
+"Influencia",
+"Autoridad legítima",
+"Coerción"
+],
+"correcta": 2,
+"porque": "La coerción obliga con amenaza, y eso no es justo."
+},
+{
+"pregunta": "El árbitro usa reglas conocidas y todos lo aceptan. ¿Qué es?",
+"opciones": [
+"Una trampa",
+"Coerción",
+"Autoridad"
+],
+"correcta": 2,
+"porque": "La autoridad se acepta porque es justa y sus reglas se conocen."
+},
+{
+"pregunta": "¿Qué preguntas ayudan a analizar el poder?",
+"opciones": [
+"Quién corre más rápido",
+"Quién decide y quién gana",
+"Quién tiene más lápices"
+],
+"correcta": 1,
+"porque": "Ante el poder pregunta quién decide, quién gana y quién queda fuera."
+},
+{
+"pregunta": "¿Dónde hay relaciones de poder?",
+"opciones": [
+"Solo en el gobierno del país",
+"Solo en ciudades muy grandes",
+"En familia, escuela y gobierno"
+],
+"correcta": 2,
+"porque": "El poder está en la familia, la escuela y el gobierno."
+}
+],
+"sistemas-economicos-capitalismo-y-socialismo-prepa": [
+{
+"pregunta": "Cada persona tiene su propia tienda y se vende en libre mercado. ¿Qué sistema es?",
+"opciones": [
+"Capitalismo",
+"Socialismo",
+"Economía mixta"
+],
+"correcta": 0,
+"porque": "El capitalismo tiene propiedad privada y libre mercado."
+},
+{
+"pregunta": "Un país mezcla mercado con empresas del Estado. ¿Qué economía tiene?",
+"opciones": [
+"Economía mixta",
+"Capitalismo puro",
+"Socialismo puro"
+],
+"correcta": 0,
+"porque": "La economía mixta combina ambos sistemas, como la de México."
+},
+{
+"pregunta": "¿Qué es un sistema económico?",
+"opciones": [
+"Un conjunto de monedas y billetes",
+"Un reglamento escolar para el recreo",
+"Forma de organizar producción y reparto"
+],
+"correcta": 2,
+"porque": "Es la forma en que una sociedad organiza producir y repartir."
+},
+{
+"pregunta": "¿Qué sistema tiene propiedad colectiva y planeación del Estado?",
+"opciones": [
+"Capitalismo",
+"Libre mercado",
+"Socialismo"
+],
+"correcta": 2,
+"porque": "El socialismo tiene propiedad colectiva y el Estado planifica."
+},
+{
+"pregunta": "En el capitalismo, ¿de quién suelen ser las tiendas y fábricas?",
+"opciones": [
+"De nadie en especial",
+"De particulares",
+"Del Estado siempre"
+],
+"correcta": 1,
+"porque": "En el capitalismo hay propiedad privada de tiendas y fábricas."
+}
+]
+}

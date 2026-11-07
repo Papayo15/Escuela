@@ -1,0 +1,522 @@
+{
+"benito-juarez-primaria": [
+{
+"pregunta": "¿Qué profesión estudió Benito Juárez?",
+"opciones": [
+"Abogado",
+"Maestro",
+"Doctor"
+],
+"correcta": 0,
+"porque": "Juárez estudió leyes y fue abogado."
+},
+{
+"pregunta": "¿De qué pueblo era Benito Juárez?",
+"opciones": [
+"Maya",
+"Zapoteco",
+"Mexica"
+],
+"correcta": 1,
+"porque": "Juárez fue un abogado zapoteco de Oaxaca."
+},
+{
+"pregunta": "¿Qué hizo Juárez cuando Francia invadió México?",
+"opciones": [
+"Defendió la República",
+"Se fue del país para siempre y dejó todo",
+"Se hizo amigo del ejército francés"
+],
+"correcta": 0,
+"porque": "Defendió la República contra la intervención francesa."
+},
+{
+"pregunta": "Un compañero quiere usar tu lápiz y no te lo pide. ¿Qué enseña la frase de Juárez?",
+"opciones": [
+"Quitárselo también para estar parejos",
+"Quedarse callado para que no haya problemas en el salón",
+"Pedir permiso y respetar lo tuyo"
+],
+"correcta": 2,
+"porque": "Respetar el derecho ajeno ayuda a vivir en paz."
+},
+{
+"pregunta": "Juárez fue líder de una etapa llamada...",
+"opciones": [
+"La Reforma",
+"La Revolución Mexicana de 1910",
+"El Porfiriato"
+],
+"correcta": 0,
+"porque": "Juárez encabezó la Reforma con sus leyes."
+}
+],
+"bienestar-colectivo-primaria": [
+{
+"pregunta": "¿Quién se beneficia si todos cuidan el jardín de la escuela?",
+"opciones": [
+"Solo quien lo riega siempre cada día",
+"Solo la maestra",
+"Todo el grupo"
+],
+"correcta": 2,
+"porque": "El bienestar colectivo es para todos."
+},
+{
+"pregunta": "¿Cuál es una forma de ayudar al bienestar de todos?",
+"opciones": [
+"Esconder tus cosas para que nadie las use",
+"Recoger la basura del patio",
+"Gritar para ganar siempre el turno"
+],
+"correcta": 1,
+"porque": "Cuidar lo común ayuda a toda la comunidad."
+},
+{
+"pregunta": "El salón quedó sucio después del recreo. ¿Qué haces?",
+"opciones": [
+"Ayudo a limpiarlo con mis compañeros",
+"Me voy rápido para no ensuciarme las manos",
+"Espero a que alguien más lo haga solo"
+],
+"correcta": 0,
+"porque": "Colaborar mantiene limpio el lugar de todos."
+},
+{
+"pregunta": "Bienestar colectivo significa que...",
+"opciones": [
+"Solo unos estén bien",
+"Todos estén bien",
+"Nadie piense en otros"
+],
+"correcta": 1,
+"porque": "El bienestar colectivo es la vida buena para toda la comunidad."
+},
+{
+"pregunta": "¿Qué valor ayuda más al bienestar de todos?",
+"opciones": [
+"Engañar",
+"Colaborar",
+"Presumir"
+],
+"correcta": 1,
+"porque": "Colaborar hace que todos ganen."
+}
+],
+"biodiversidad-acciones-sustentables-primaria": [
+{
+"pregunta": "¿Qué es una acción sustentable?",
+"opciones": [
+"Una que llena todo de basura",
+"Una que no agota los recursos",
+"Una que gasta toda el agua"
+],
+"correcta": 1,
+"porque": "Una acción sustentable cuida los recursos para siempre."
+},
+{
+"pregunta": "¿Qué acción es sustentable?",
+"opciones": [
+"Cerrar la llave mientras te enjabonas",
+"Dejar la llave abierta para que corra el agua",
+"Tirar una botella de plástico al río cerca de tu casa"
+],
+"correcta": 0,
+"porque": "Ahorrar agua cuida un recurso que se puede acabar."
+},
+{
+"pregunta": "Quieres sembrar algo en el patio de la escuela. ¿Qué conviene?",
+"opciones": [
+"Una planta nativa",
+"Cemento en todo",
+"Una flor de plástico"
+],
+"correcta": 0,
+"porque": "Las plantas nativas ayudan a los seres vivos del lugar."
+},
+{
+"pregunta": "¿Qué significa sustentable?",
+"opciones": [
+"Usar sin agotar los recursos",
+"Usar todo rápido antes de que otros lo tomen",
+"Comprar cosas nuevas cada semana"
+],
+"correcta": 0,
+"porque": "Sustentable es cuidar para que haya mañana."
+},
+{
+"pregunta": "Para tener menos basura, ¿qué haces?",
+"opciones": [
+"Usar menos plástico",
+"Tirar envases al patio",
+"Comprar todo envuelto"
+],
+"correcta": 0,
+"porque": "Usar menos plástico reduce la basura."
+}
+],
+"causas-de-la-independencia-primaria": [
+{
+"pregunta": "¿Qué pasó en 1808 que influyó en la Independencia?",
+"opciones": [
+"Napoleón invadió España",
+"Juárez invadió España",
+"Inglaterra invadió España"
+],
+"correcta": 0,
+"porque": "En 1808 Napoleón invadió España y eso movió a la Nueva España."
+},
+{
+"pregunta": "¿Qué idea de la Ilustración inspiró a la gente?",
+"opciones": [
+"La pobreza para todos",
+"La libertad de las personas",
+"El poder total del rey"
+],
+"correcta": 1,
+"porque": "La Ilustración defendía la libertad."
+},
+{
+"pregunta": "¿Qué pasaba con muchos indígenas en la Nueva España?",
+"opciones": [
+"Sufrían abusos y pobreza",
+"Tenían los mejores cargos del gobierno",
+"Vivían sin trabajar y con mucho dinero"
+],
+"correcta": 0,
+"porque": "Los abusos y la pobreza hicieron crecer el enojo."
+},
+{
+"pregunta": "¿Qué país se independizó antes y dio ejemplo?",
+"opciones": [
+"Inglaterra",
+"Estados Unidos",
+"Alemania"
+],
+"correcta": 1,
+"porque": "La independencia de Estados Unidos fue un ejemplo."
+},
+{
+"pregunta": "Si en la escuela unos niños siempre tienen privilegios y otros no, ¿qué se parece a la Nueva España?",
+"opciones": [
+"La igualdad de todos",
+"El respeto parejo",
+"La desigualdad"
+],
+"correcta": 2,
+"porque": "En la Nueva España había desigualdad entre grupos."
+}
+],
+"constitucion-de-1857-y-leyes-de-reforma-primaria": [
+{
+"pregunta": "¿Qué separaron estas leyes?",
+"opciones": [
+"La Iglesia y el Estado",
+"Las escuelas y las casas de los alumnos",
+"Los estados y los municipios del país"
+],
+"correcta": 0,
+"porque": "Buscaban que la Iglesia y el gobierno fueran independientes."
+},
+{
+"pregunta": "¿Qué significa libertad de cultos?",
+"opciones": [
+"Solo se permite una religión en cada pueblo",
+"Cada quien elige su religión",
+"Todos deben tener la misma religión por ley"
+],
+"correcta": 1,
+"porque": "Cada persona puede creer lo que quiera."
+},
+{
+"pregunta": "¿Qué decía la Constitución de 1857 sobre las personas?",
+"opciones": [
+"Que tienen derechos individuales",
+"Que no tienen derechos si son pobres",
+"Que el gobierno decide qué pensar"
+],
+"correcta": 0,
+"porque": "Reconoció derechos como la libertad de expresión."
+},
+{
+"pregunta": "¿Qué permitió el matrimonio civil?",
+"opciones": [
+"Casarse solo en la iglesia con permiso especial",
+"Que nadie pudiera casarse",
+"Casarse ante el gobierno"
+],
+"correcta": 2,
+"porque": "El matrimonio civil se hace ante autoridades del Estado."
+},
+{
+"pregunta": "En tu escuela, ¿qué se parece a un Estado laico?",
+"opciones": [
+"Que se burlen de lo que cree cada quien",
+"Que nadie obligue a otros a creer algo",
+"Que todos recen lo mismo antes de entrar"
+],
+"correcta": 1,
+"porque": "Laico quiere decir que el gobierno no impone una religión."
+}
+],
+"constitucion-de-1917-primaria": [
+{
+"pregunta": "¿Qué es la Constitución de 1917?",
+"opciones": [
+"La ley suprema de México",
+"Un cuento de la Revolución",
+"Una carta del presidente a los estados de la República"
+],
+"correcta": 0,
+"porque": "Es la ley más importante y sigue vigente."
+},
+{
+"pregunta": "¿De qué trata el artículo 27?",
+"opciones": [
+"De los días de descanso en el trabajo",
+"De la educación de los niños",
+"De la tierra y los recursos"
+],
+"correcta": 2,
+"porque": "El 27 habla de la tierra y los recursos naturales."
+},
+{
+"pregunta": "Un niño quiere ir a la escuela. ¿Qué artículo le ayuda?",
+"opciones": [
+"El artículo 27, el de las tierras",
+"El artículo 3, el de educación",
+"El artículo 123, el de trabajo"
+],
+"correcta": 1,
+"porque": "El artículo 3 habla del derecho a la educación."
+},
+{
+"pregunta": "¿En qué año se promulgó esta Constitución?",
+"opciones": [
+"1810",
+"1917",
+"1857"
+],
+"correcta": 1,
+"porque": "Se promulgó en 1917 y sigue vigente hoy."
+},
+{
+"pregunta": "¿Qué derechos incluyó, algo nuevo en el mundo?",
+"opciones": [
+"Derechos solo para los gobernantes",
+"Derechos sociales",
+"Solo el derecho a tener caballos"
+],
+"correcta": 1,
+"porque": "Fue de las primeras en incluir derechos sociales."
+}
+],
+"consumo-sustentable-primaria": [
+{
+"pregunta": "Antes de comprar algo, ¿qué conviene preguntarte?",
+"opciones": [
+"¿Qué compró mi vecino la semana pasada?",
+"¿Lo necesito de verdad, o solo lo quiero?",
+"¿Cuál es el más caro de la tienda?"
+],
+"correcta": 1,
+"porque": "Antes de comprar hay que preguntarse si lo necesitas."
+},
+{
+"pregunta": "Se rompió tu mochila. ¿Qué haces primero?",
+"opciones": [
+"Tirarla a la calle sin revisarla",
+"Comprar tres mochilas nuevas ya",
+"Repararla para seguir usándola"
+],
+"correcta": 2,
+"porque": "Reparar es una forma de consumir sin desperdiciar."
+},
+{
+"pregunta": "Un amigo no usa su libro. ¿Qué puedes hacer?",
+"opciones": [
+"Guardarlo en el cajón por muchos años",
+"Compartirlo con otros",
+"Romperlo para que no sirva"
+],
+"correcta": 1,
+"porque": "Compartir ayuda a que no se compren más cosas."
+},
+{
+"pregunta": "¿Qué es consumir de forma sustentable?",
+"opciones": [
+"Comprar siempre lo más nuevo y lo más caro",
+"Usar y tirar todo rápido",
+"Usar sin dañar ni agotar"
+],
+"correcta": 2,
+"porque": "Piensa en quienes vienen después de ti."
+},
+{
+"pregunta": "En tu mochila, ¿qué puedes reutilizar?",
+"opciones": [
+"Hojas de cuaderno por el otro lado",
+"Una envoltura mojada y rota",
+"Un lápiz roto en muchos pedazos pequeños"
+],
+"correcta": 0,
+"porque": "Reutilizar hojas ahorra papel."
+}
+],
+"cultura-de-paz-primaria": [
+{
+"pregunta": "Dos amigos pelean por un balón. ¿Qué es lo mejor?",
+"opciones": [
+"Pelear hasta que uno gane el balón",
+"Hablar y llegar a un acuerdo",
+"Quitárselo y salir corriendo"
+],
+"correcta": 1,
+"porque": "La cultura de paz resuelve con diálogo."
+},
+{
+"pregunta": "¿Qué haces cuando alguien te habla enojado?",
+"opciones": [
+"Le hago la ley del hielo toda la semana",
+"Le grito más fuerte para que se calle",
+"Escucho con calma y hablo con respeto"
+],
+"correcta": 2,
+"porque": "La cultura de paz resuelve los problemas con diálogo."
+},
+{
+"pregunta": "En la cultura de paz, los conflictos...",
+"opciones": [
+"Se arreglan con golpes rápidos",
+"Se resuelven sin violencia",
+"Nunca existen en ningún lugar"
+],
+"correcta": 1,
+"porque": "Los conflictos existen, pero se resuelven con respeto."
+},
+{
+"pregunta": "¿Qué ayuda a un acuerdo?",
+"opciones": [
+"Que uno mande siempre y el otro obedezca",
+"Que nadie hable para no discutir",
+"Que ambos cedan un poco"
+],
+"correcta": 2,
+"porque": "Un acuerdo justo se logra cuando ambos aportan."
+},
+{
+"pregunta": "¿Cuál es un paso de la paz?",
+"opciones": [
+"Contar chismes sobre el otro",
+"Insultar para desahogarte",
+"Respirar y calmarte"
+],
+"correcta": 2,
+"porque": "Calmarte primero te ayuda a pensar mejor."
+}
+],
+"cultura-democratica-normas-primaria": [
+{
+"pregunta": "¿Para qué sirven las normas?",
+"opciones": [
+"Para castigar a quien nos caiga mal",
+"Para que nadie juegue en el recreo",
+"Para convivir en paz y con respeto"
+],
+"correcta": 2,
+"porque": "Las normas son reglas para convivir."
+},
+{
+"pregunta": "¿Cómo se hace un acuerdo en el grupo?",
+"opciones": [
+"Hablando y votando",
+"Eligiendo la maestra sin preguntar a nadie",
+"Gana quien grite más fuerte"
+],
+"correcta": 0,
+"porque": "Un acuerdo democrático se hace con diálogo y votos."
+},
+{
+"pregunta": "¿Cómo se hace un acuerdo en el salón?",
+"opciones": [
+"Mandando solo el más grande",
+"Hablando y votando entre todos",
+"Decidiendo el maestro sin escuchar"
+],
+"correcta": 1,
+"porque": "Un acuerdo se hace hablando y votando."
+},
+{
+"pregunta": "Un compañero con muletas necesita más tiempo para llegar al salón. Apoyarlo es...",
+"opciones": [
+"Un castigo para él por ser lento",
+"Equidad, apoyo según lo que necesita",
+"Desigualdad, trato injusto entre alumnos"
+],
+"correcta": 1,
+"porque": "La equidad da más apoyo a quien lo necesita."
+},
+{
+"pregunta": "¿Qué son las leyes?",
+"opciones": [
+"Normas de todo el país",
+"Juegos que inventan los niños",
+"Reglas solo de mi salón de clases"
+],
+"correcta": 0,
+"porque": "Las leyes valen para todo el país."
+}
+],
+"cumplimiento-derechos-humanos-primaria": [
+{
+"pregunta": "¿A quién puedes acudir si un gobierno viola un derecho?",
+"opciones": [
+"A un equipo de futbol del barrio",
+"A la CNDH, que recibe las quejas",
+"A una tienda de dulces del barrio"
+],
+"correcta": 1,
+"porque": "La CNDH recibe quejas contra autoridades por violar derechos."
+},
+{
+"pregunta": "¿Quiénes deben respetar los derechos humanos?",
+"opciones": [
+"Todas las personas",
+"Solo los niños",
+"Solo los policías"
+],
+"correcta": 0,
+"porque": "Todos debemos respetar los derechos de los demás."
+},
+{
+"pregunta": "Tienes derecho a jugar. ¿Qué responsabilidad va con él?",
+"opciones": [
+"Respetar el turno de los demás",
+"Pedir que los demás no jueguen",
+"Quedarte con todos los juguetes"
+],
+"correcta": 0,
+"porque": "Cada derecho trae una responsabilidad."
+},
+{
+"pregunta": "¿Qué es un derecho cumplido?",
+"opciones": [
+"Uno que solo está escrito en un papel guardado",
+"Uno que solo tienen algunas personas",
+"Uno que se respeta en la vida real"
+],
+"correcta": 2,
+"porque": "Se cumple cuando de verdad se respeta."
+},
+{
+"pregunta": "En tu escuela, ¿qué derecho se cumple?",
+"opciones": [
+"Estudiar y aprender",
+"Que nadie pueda hablar",
+"Que no haya recreo"
+],
+"correcta": 0,
+"porque": "Ir a la escuela es un derecho que se cumple."
+}
+]
+}

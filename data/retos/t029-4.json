@@ -1,0 +1,522 @@
+{
+"triangulo-napoleon-preparatoria": [
+{
+"pregunta": "En el teorema de Napoleón, ¿qué figura forman los tres centros?",
+"opciones": [
+"Un triángulo con lados distintos",
+"Un triángulo equilátero",
+"Un cuadrado grande"
+],
+"correcta": 1,
+"porque": "Los tres centros siempre forman un triángulo parejo."
+},
+{
+"pregunta": "Un triángulo equilátero mide 7 cm por lado. ¿Cuál es su perímetro?",
+"opciones": [
+"49 cm",
+"14 cm",
+"21 cm"
+],
+"correcta": 2,
+"porque": "Sumas tres lados iguales: $7 \\cdot 3 = 21$."
+},
+{
+"pregunta": "¿Dónde se ponen los triángulos equiláteros sobre el triángulo original?",
+"opciones": [
+"Hacia afuera de cada lado",
+"Adentro de cada esquina",
+"Solo sobre el lado más largo"
+],
+"correcta": 0,
+"porque": "Se pone uno en cada lado, hacia afuera."
+},
+{
+"pregunta": "El triángulo de los centros mide 6 cm por lado. ¿Cuál es su perímetro?",
+"opciones": [
+"36 cm",
+"12 cm",
+"18 cm"
+],
+"correcta": 2,
+"porque": "Es equilátero, así que $6 \\cdot 3 = 18$."
+},
+{
+"pregunta": "¿Funciona el teorema con un triángulo chueco?",
+"opciones": [
+"Solo con los equiláteros",
+"Solo con los rectos",
+"Sí, con cualquier triángulo"
+],
+"correcta": 2,
+"porque": "El triángulo original puede ser cualquiera."
+}
+],
+"citar-en-apa-prepa": [
+{
+"pregunta": "En APA, ¿qué datos van dentro del texto?",
+"opciones": [
+"Solo el título",
+"Autor y año",
+"Editorial y ciudad"
+],
+"correcta": 1,
+"porque": "La cita en el texto lleva autor y año."
+},
+{
+"pregunta": "¿Cuál es una paráfrasis bien citada?",
+"opciones": [
+"Un libro dice que leer ayuda a pensar.",
+"Ramírez (2020) dice que leer ayuda a pensar.",
+"Dice que leer ayuda a pensar."
+],
+"correcta": 1,
+"porque": "Debe nombrar al autor y poner el año."
+},
+{
+"pregunta": "¿Cómo se ordenan las referencias del final?",
+"opciones": [
+"Por el tamaño del título",
+"Alfabéticamente por apellido",
+"Por el número de páginas"
+],
+"correcta": 1,
+"porque": "Así es más fácil encontrar cada fuente."
+},
+{
+"pregunta": "¿Dónde va una cita corta de menos de 40 palabras?",
+"opciones": [
+"En una nota sin autor",
+"En un bloque aparte, sin comillas",
+"Dentro del texto, con comillas"
+],
+"correcta": 2,
+"porque": "Solo la cita larga va aparte."
+},
+{
+"pregunta": "En una cita corta, ¿qué dato va además del autor y el año?",
+"opciones": [
+"La página",
+"La ciudad",
+"La editorial"
+],
+"correcta": 0,
+"porque": "Así el lector encuentra la frase exacta."
+}
+],
+"claridad-ideas-textos-escritos": [
+{
+"pregunta": "\"La mesa mide un metro.\" ¿Es dato u opinión?",
+"opciones": [
+"Un dato, porque se comprueba",
+"Una duda, porque es corta",
+"Una opinión, porque se siente"
+],
+"correcta": 0,
+"porque": "Un dato se puede comprobar midiendo."
+},
+{
+"pregunta": "\"Creo que el lunes es el peor día.\" ¿Qué es?",
+"opciones": [
+"Una medida exacta",
+"Un dato comprobable",
+"Una opinión"
+],
+"correcta": 2,
+"porque": "Dice lo que piensas, y no se puede medir."
+},
+{
+"pregunta": "¿Cuál texto es más claro?",
+"opciones": [
+"Lo hice por ahí cuando pasó.",
+"Entregué la tarea el lunes en la escuela.",
+"Eso lo entregué allá hace rato."
+],
+"correcta": 1,
+"porque": "Dice qué, cuándo y dónde, sin adivinar."
+},
+{
+"pregunta": "¿Cómo sabes que un texto es claro?",
+"opciones": [
+"El lector entiende sin adivinar",
+"Tiene palabras muy largas",
+"Tiene muchas frases"
+],
+"correcta": 0,
+"porque": "Si hay que adivinar, falta claridad."
+},
+{
+"pregunta": "¿Qué haces con una opinión en un escrito?",
+"opciones": [
+"La borras siempre",
+"La explicas con razones",
+"La compruebas con una regla"
+],
+"correcta": 1,
+"porque": "Hecho se comprueba; opinión se argumenta."
+}
+],
+"cohesion-y-coherencia-prepa": [
+{
+"pregunta": "¿Cuál de estas palabras es un conector?",
+"opciones": [
+"Además",
+"Pequeño",
+"Cuaderno"
+],
+"correcta": 0,
+"porque": "Un conector une ideas, como además o por eso."
+},
+{
+"pregunta": "¿Es coherente: \"Hoy llueve. Por eso llevo paraguas\"?",
+"opciones": [
+"No, porque cambia de tema",
+"No, porque se contradice",
+"Sí, las ideas se relacionan"
+],
+"correcta": 2,
+"porque": "Una idea explica la otra."
+},
+{
+"pregunta": "¿Cuál texto no es coherente?",
+"opciones": [
+"Tengo sed. Los zapatos son de piel.",
+"Tengo sed. Voy por una botella.",
+"Tengo sed. Por eso tomo agua."
+],
+"correcta": 0,
+"porque": "Las ideas no se relacionan entre sí."
+},
+{
+"pregunta": "En \"Ana llegó. Ella saludó\", ¿qué recurso usa \"Ella\"?",
+"opciones": [
+"Un sinónimo",
+"Un pronombre",
+"Un conector"
+],
+"correcta": 1,
+"porque": "Ella ocupa el lugar de Ana para no repetir."
+},
+{
+"pregunta": "¿Qué es la coherencia?",
+"opciones": [
+"Que las ideas se relacionen con lógica",
+"Que las oraciones sean largas",
+"Que se repita mucho una palabra"
+],
+"correcta": 0,
+"porque": "Es que el texto tenga sentido."
+}
+],
+"como-se-redacta-un-ensayo-prepa": [
+{
+"pregunta": "¿Qué lleva la introducción de un ensayo?",
+"opciones": [
+"Solo las fuentes",
+"El tema y la tesis",
+"Un resumen final"
+],
+"correcta": 1,
+"porque": "Presenta de qué hablas y qué defiendes."
+},
+{
+"pregunta": "¿Qué es la tesis de un ensayo?",
+"opciones": [
+"La postura que defiendes",
+"Un dato sin importancia",
+"La lista de fuentes"
+],
+"correcta": 0,
+"porque": "Es la idea propia que el ensayo defiende."
+},
+{
+"pregunta": "¿Qué lleva cada párrafo del desarrollo?",
+"opciones": [
+"Un argumento con pruebas",
+"Solo la conclusión final",
+"Tres temas sin orden fijo"
+],
+"correcta": 0,
+"porque": "Un párrafo por argumento ayuda a ordenar."
+},
+{
+"pregunta": "¿Qué haces en la conclusión?",
+"opciones": [
+"Presentas otro tema nuevo",
+"Retomas la tesis y cierras",
+"Copias la introducción igual"
+],
+"correcta": 1,
+"porque": "La conclusión recuerda la tesis y termina."
+},
+{
+"pregunta": "¿Qué haces justo antes de redactar?",
+"opciones": [
+"Un esquema del texto",
+"Entregar el texto ya",
+"Corregir la ortografía"
+],
+"correcta": 0,
+"porque": "El esquema ordena las ideas antes de escribir."
+}
+],
+"concordancia-y-conectores-textuales": [
+{
+"pregunta": "¿Cuál oración tiene buena concordancia?",
+"opciones": [
+"Los perros corre rápido.",
+"Los perros corren rápido.",
+"Los perro corren rápido."
+],
+"correcta": 1,
+"porque": "Sujeto y verbo coinciden, igual que artículo y sustantivo."
+},
+{
+"pregunta": "Completa: \"Tengo hambre; ___ voy a comer.\"",
+"opciones": [
+"primero",
+"pero",
+"por lo tanto"
+],
+"correcta": 2,
+"porque": "Es una consecuencia de tener hambre."
+},
+{
+"pregunta": "Completa: \"Quería jugar, ___ tenía tarea.\"",
+"opciones": [
+"además",
+"pero",
+"por lo tanto"
+],
+"correcta": 1,
+"porque": "Dos ideas se oponen, y pero marca el contraste."
+},
+{
+"pregunta": "¿Qué tipo de conector es \"porque\"?",
+"opciones": [
+"De causa",
+"De orden",
+"De contraste"
+],
+"correcta": 0,
+"porque": "Porque explica la razón de algo."
+},
+{
+"pregunta": "¿Qué tipo de conector es \"primero\"?",
+"opciones": [
+"De suma",
+"De orden",
+"De causa"
+],
+"correcta": 1,
+"porque": "Primero, luego y después ordenan las ideas."
+}
+],
+"estrategias-antes-durante-y-despues-de-leer-prepa": [
+{
+"pregunta": "¿Cuál estrategia se hace antes de leer?",
+"opciones": [
+"Predecir de qué trata",
+"Resumir el texto",
+"Explicarlo a otro"
+],
+"correcta": 0,
+"porque": "Antes miras el título y adivinas el tema."
+},
+{
+"pregunta": "En medio de una lectura aparece una palabra nueva. ¿Qué haces?",
+"opciones": [
+"Cierras el libro",
+"La buscas y sigues",
+"La saltas siempre"
+],
+"correcta": 1,
+"porque": "Buscar palabras nuevas ayuda a entender."
+},
+{
+"pregunta": "¿Cuál estrategia va después de leer?",
+"opciones": [
+"Predecir el final",
+"Hacer un esquema",
+"Mirar la portada"
+],
+"correcta": 1,
+"porque": "Después organizas lo que entendiste."
+},
+{
+"pregunta": "¿Para qué sirve definir tu propósito antes de leer?",
+"opciones": [
+"Para leer sin atención",
+"Para no ver el título",
+"Para saber qué buscas"
+],
+"correcta": 2,
+"porque": "Con un propósito lees con más atención."
+},
+{
+"pregunta": "¿Cuándo subrayas las ideas importantes?",
+"opciones": [
+"Antes de abrir el libro",
+"Después de entregarlo",
+"Mientras lees"
+],
+"correcta": 2,
+"porque": "Subrayar es una estrategia para durante la lectura."
+}
+],
+"exposicion-oral-caracteristicas-preparatoria": [
+{
+"pregunta": "¿Qué va en el inicio de una exposición?",
+"opciones": [
+"El resumen de las ideas",
+"Saludo y presentación",
+"Las preguntas finales"
+],
+"correcta": 1,
+"porque": "En el inicio saludas y dices de qué hablarás."
+},
+{
+"pregunta": "¿Qué haces en el cierre de la exposición?",
+"opciones": [
+"Lees todo el guion",
+"Resumes las ideas principales",
+"Presentas un tema nuevo"
+],
+"correcta": 1,
+"porque": "El cierre recuerda lo más importante."
+},
+{
+"pregunta": "¿Qué haces con tu voz al exponer?",
+"opciones": [
+"Cuidas volumen y pausas",
+"Susurras todo el tiempo",
+"Hablas muy rápido sin parar"
+],
+"correcta": 0,
+"porque": "Una voz clara y con pausas se entiende mejor."
+},
+{
+"pregunta": "¿Para qué sirve el guion?",
+"opciones": [
+"Para recordar el orden",
+"Para leerlo completo",
+"Para esconder la cara"
+],
+"correcta": 0,
+"porque": "Tiene ideas clave que te guían."
+},
+{
+"pregunta": "¿Hacia dónde miras mientras expones?",
+"opciones": [
+"Al público",
+"Al techo",
+"Al pizarrón"
+],
+"correcta": 0,
+"porque": "Mirar al público mantiene el contacto."
+}
+],
+"falacias-prepa": [
+{
+"pregunta": "\"No escuches a Luis, repitió año.\" ¿Qué falacia es?",
+"opciones": [
+"Ad hominem",
+"Apelación a la mayoría",
+"Hombre de paja"
+],
+"correcta": 0,
+"porque": "Ataca a la persona y no a su idea."
+},
+{
+"pregunta": "\"Todos usan ese tenis, así que es el mejor.\" ¿Qué falacia es?",
+"opciones": [
+"Apelación a la mayoría",
+"Falsa disyuntiva",
+"Ad hominem"
+],
+"correcta": 0,
+"porque": "Que muchos lo hagan no prueba que esté bien."
+},
+{
+"pregunta": "\"O sacas diez o eres un fracaso.\" ¿Qué falacia es?",
+"opciones": [
+"Falsa disyuntiva",
+"Pendiente resbaladiza",
+"Hombre de paja"
+],
+"correcta": 0,
+"porque": "Da solo dos opciones, y hay más."
+},
+{
+"pregunta": "Ana dice \"cuidemos el agua\". Beto responde: \"Ana quiere que no nos bañemos nunca.\" ¿Qué falacia es?",
+"opciones": [
+"Ad hominem",
+"Apelación a la mayoría",
+"Hombre de paja"
+],
+"correcta": 2,
+"porque": "Deforma lo que dijo Ana."
+},
+{
+"pregunta": "\"Si faltas hoy, reprobarás y arruinarás tu vida.\" ¿Qué falacia es?",
+"opciones": [
+"Pendiente resbaladiza",
+"Ad hominem",
+"Falsa disyuntiva"
+],
+"correcta": 0,
+"porque": "Exagera las consecuencias de un solo hecho."
+}
+],
+"ficha-bibliografica-prepa": [
+{
+"pregunta": "¿Qué datos lleva la ficha de un libro?",
+"opciones": [
+"Autor, año, título y editorial",
+"Color, tamaño y precio",
+"Dueño, fecha y lugar de compra"
+],
+"correcta": 0,
+"porque": "Estos datos sirven para localizar la fuente."
+},
+{
+"pregunta": "¿Para qué sirve una ficha bibliográfica?",
+"opciones": [
+"Para decorar el cuaderno",
+"Para copiar el libro entero",
+"Para localizar la fuente después"
+],
+"correcta": 2,
+"porque": "Guarda los datos para volver a encontrar el libro."
+},
+{
+"pregunta": "¿Cuándo conviene anotar la ficha?",
+"opciones": [
+"Cuando consultas la fuente",
+"Al terminar todo el trabajo",
+"Un mes después"
+],
+"correcta": 0,
+"porque": "Así no se te olvidan los datos."
+},
+{
+"pregunta": "En una página web, ¿qué anotas además de autor, fecha y título?",
+"opciones": [
+"La editorial",
+"La ciudad",
+"La dirección"
+],
+"correcta": 2,
+"porque": "La dirección permite volver a abrir la página."
+},
+{
+"pregunta": "¿Cuál ficha está en orden?",
+"opciones": [
+"2020, Sol, Mis cuentos, Pérez.",
+"Mis cuentos. Pérez, A. Sol (2020).",
+"Pérez, A. (2020). Mis cuentos. Editorial Sol."
+],
+"correcta": 2,
+"porque": "Va autor, año, título y editorial."
+}
+]
+}

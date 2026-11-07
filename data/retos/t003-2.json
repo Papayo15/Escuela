@@ -1,0 +1,522 @@
+{
+"convertir-el-residuo-en-decimal-primaria": [
+{
+"pregunta": "Resuelve 5 ÷ 2 con decimales.",
+"opciones": [
+"2.1, por pegar el residuo",
+"2.5",
+"2.05"
+],
+"correcta": 1,
+"porque": "5 entre 2 es 2 y sobra 1; pones punto, bajas 0 y 10 entre 2 es 5."
+},
+{
+"pregunta": "Resuelve 1 ÷ 4 con decimales.",
+"opciones": [
+"0.4, por voltear la división",
+"0.25, siguiendo con el cero",
+"0.14, por pegar el residuo al 4"
+],
+"correcta": 1,
+"porque": "Con punto y cero, 10 ÷ 4 y luego 20 ÷ 4 dan 0.25."
+},
+{
+"pregunta": "Resuelve 5 ÷ 3 y redondea al centésimo.",
+"opciones": [
+"1.33",
+"1.67",
+"1.5, porque dejas de dividir muy pronto"
+],
+"correcta": 1,
+"porque": "Sale 1.666... y al redondear al centésimo queda 1.67."
+},
+{
+"pregunta": "Hay 13 lápices para 4 equipos y quieres repartirlos todos con decimales. ¿Cuánto toca a cada equipo?",
+"opciones": [
+"3.25",
+"3.5",
+"3.1, por pegar el residuo"
+],
+"correcta": 0,
+"porque": "13 entre 4 es 3 y sobra 1; 10 entre 4 es 2 y sobra 2; 20 entre 4 es 5."
+},
+{
+"pregunta": "Ya pusiste el punto en el cociente. ¿Qué haces con el residuo?",
+"opciones": [
+"Sumarlo al resultado como si fuera un entero",
+"Olvidarlo, porque ya terminaste la división",
+"Agregarle un cero y seguir dividiendo"
+],
+"correcta": 2,
+"porque": "El cero al residuo te deja seguir dividiendo y sacar decimales."
+}
+],
+"convertir-fraccion-a-decimal-primaria": [
+{
+"pregunta": "Convierte $\\frac{4}{5}$ a decimal.",
+"opciones": [
+"1.25",
+"0.45, por pegar los números",
+"0.8"
+],
+"correcta": 2,
+"porque": "4 entre 5 es 0.8."
+},
+{
+"pregunta": "Convierte $\\frac{7}{20}$ a decimal.",
+"opciones": [
+"2.85",
+"0.35",
+"0.27, por pegar los números al revés"
+],
+"correcta": 1,
+"porque": "7 entre 20 es 0.35; también $\\frac{35}{100}$."
+},
+{
+"pregunta": "Convierte $\\frac{5}{8}$ a decimal.",
+"opciones": [
+"0.58, por pegar los números",
+"0.625, dividiendo 5 entre 8",
+"1.6, por dividir 8 entre 5"
+],
+"correcta": 1,
+"porque": "La raya de la fracción significa entre, y 5 entre 8 da 0.625."
+},
+{
+"pregunta": "En una fracción, ¿qué significa la raya?",
+"opciones": [
+"Por, es decir, multiplicar los números",
+"Más, es decir, sumar los números",
+"Entre, es decir, dividir"
+],
+"correcta": 2,
+"porque": "La raya de la fracción es una división: arriba entre abajo."
+},
+{
+"pregunta": "En el salón, 1 de cada 5 alumnos usa lentes. ¿Cómo escribes $\\frac{1}{5}$ en decimal?",
+"opciones": [
+"0.5",
+"0.2",
+"1.5"
+],
+"correcta": 1,
+"porque": "1 entre 5 es 0.2, porque $\\frac{1}{5} = \\frac{2}{10}$."
+}
+],
+"coordenadas-en-el-plano-cartesiano-primaria": [
+{
+"pregunta": "Para ubicar el punto (4, 3), ¿qué haces desde el origen?",
+"opciones": [
+"Avanzas 4 a la derecha y subes 3",
+"Subes 4 y avanzas 3 a la derecha",
+"Avanzas 4 a la izquierda y bajas 3"
+],
+"correcta": 0,
+"porque": "Primero va lo horizontal y luego lo vertical."
+},
+{
+"pregunta": "Un punto está 7 a la derecha y 2 arriba del origen. ¿Cuáles son sus coordenadas?",
+"opciones": [
+"(7, 7)",
+"(7, 2)",
+"(2, 7)"
+],
+"correcta": 1,
+"porque": "Se escribe primero lo horizontal y luego lo vertical."
+},
+{
+"pregunta": "¿Dónde queda el punto (6, 0)?",
+"opciones": [
+"En el origen, porque tiene un cero",
+"Sobre el eje X, a 6 a la derecha",
+"Sobre el eje Y, a 6 arriba del origen"
+],
+"correcta": 1,
+"porque": "Con 0 arriba no subes nada, y te quedas en el eje X."
+},
+{
+"pregunta": "¿(1, 5) y (5, 1) son el mismo punto?",
+"opciones": [
+"No, son puntos distintos",
+"Sí, porque suman lo mismo",
+"Sí, porque tienen los mismos números"
+],
+"correcta": 0,
+"porque": "El orden importa: cambia cuánto avanzas y cuánto subes."
+},
+{
+"pregunta": "¿Cómo se llama el eje vertical del plano?",
+"opciones": [
+"Eje X",
+"Eje Y",
+"Origen"
+],
+"correcta": 1,
+"porque": "El eje Y es el vertical; el eje X es el horizontal."
+}
+],
+"criterios-de-divisibilidad-primaria": [
+{
+"pregunta": "¿Es 726 divisible entre 3?",
+"opciones": [
+"No, porque termina en 6 y no en 0",
+"No, porque 726 es un número par",
+"Sí, porque sus cifras suman 15"
+],
+"correcta": 2,
+"porque": "7 + 2 + 6 = 15, y 15 es múltiplo de 3."
+},
+{
+"pregunta": "¿Es 845 divisible entre 5?",
+"opciones": [
+"No, porque no es un número par",
+"No, porque no termina en 0",
+"Sí, porque termina en 5"
+],
+"correcta": 2,
+"porque": "Los números que terminan en 0 o en 5 se dividen entre 5."
+},
+{
+"pregunta": "¿Cuál de estos números es divisible entre 10?",
+"opciones": [
+"340",
+"134",
+"305"
+],
+"correcta": 0,
+"porque": "Un número es divisible entre 10 si termina en 0."
+},
+{
+"pregunta": "¿Es 2 574 divisible entre 9?",
+"opciones": [
+"Sí, porque sus cifras suman 18",
+"No, porque no es múltiplo de 10",
+"No, porque termina en 4 y no en 9"
+],
+"correcta": 0,
+"porque": "2 + 5 + 7 + 4 = 18, y 18 es múltiplo de 9."
+},
+{
+"pregunta": "Hay 28 alumnos y quieres hacer equipos de 3 sin que sobre nadie. ¿Se puede?",
+"opciones": [
+"Sí, porque termina en 8",
+"No, porque 2 + 8 = 10 y no es múltiplo de 3",
+"Sí, porque 28 es un número par"
+],
+"correcta": 1,
+"porque": "Las cifras suman 10, que no es múltiplo de 3, así que sobra alguien."
+}
+],
+"decimales-y-fracciones-equivalentes": [
+{
+"pregunta": "Escribe $\\frac{1}{4}$ como decimal.",
+"opciones": [
+"0.25",
+"0.4",
+"0.14"
+],
+"correcta": 0,
+"porque": "$\\frac{1}{4} = \\frac{25}{100}$, que es 0.25."
+},
+{
+"pregunta": "Simplifica $\\frac{10}{15}$.",
+"opciones": [
+"$\\frac{5}{7}$, por restar 5 a cada número",
+"$\\frac{1}{3}$",
+"$\\frac{2}{3}$"
+],
+"correcta": 2,
+"porque": "Divides arriba y abajo entre 5 y queda $\\frac{2}{3}$."
+},
+{
+"pregunta": "¿Cuál fracción es equivalente a $\\frac{2}{5}$?",
+"opciones": [
+"$\\frac{4}{10}$",
+"$\\frac{2}{10}$",
+"$\\frac{4}{25}$"
+],
+"correcta": 0,
+"porque": "Multiplicas arriba y abajo por 2: $\\frac{4}{10}$."
+},
+{
+"pregunta": "¿Qué número es mayor: 0.7 o 0.65?",
+"opciones": [
+"0.65, porque 65 es más que 7",
+"0.7, porque 0.70 es más que 0.65",
+"Son iguales, porque los dos tienen 0"
+],
+"correcta": 1,
+"porque": "Al igualar las cifras, 0.70 es mayor que 0.65."
+},
+{
+"pregunta": "Doblas una hoja en 4 partes y pintas 2. ¿Qué fracción simplificada pintaste?",
+"opciones": [
+"$\\frac{1}{2}$",
+"$\\frac{2}{2}$",
+"$\\frac{1}{4}$"
+],
+"correcta": 0,
+"porque": "$\\frac{2}{4}$ es lo mismo que $\\frac{1}{2}$, la mitad."
+}
+],
+"decimos-centesimos-y-milesimos-primaria": [
+{
+"pregunta": "En 7.842, ¿qué valor tiene el 8?",
+"opciones": [
+"8 décimos",
+"8 milésimos",
+"8 centésimos"
+],
+"correcta": 0,
+"porque": "El primer lugar después del punto son los décimos."
+},
+{
+"pregunta": "Escribe 3 centésimos como decimal.",
+"opciones": [
+"0.003",
+"0.03",
+"0.3"
+],
+"correcta": 1,
+"porque": "Los centésimos van en el segundo lugar después del punto."
+},
+{
+"pregunta": "Descompón 5.14.",
+"opciones": [
+"$5 + 0.01 + 0.4$",
+"$5 + 1 + 4$",
+"$5 + 0.1 + 0.04$"
+],
+"correcta": 2,
+"porque": "El 1 son décimos y el 4 son centésimos."
+},
+{
+"pregunta": "¿Cuántos décimos hay en 1 entero?",
+"opciones": [
+"100",
+"10",
+"1 000"
+],
+"correcta": 1,
+"porque": "Un entero partido en 10 pedacitos da 10 décimos."
+},
+{
+"pregunta": "Un lápiz cuesta 8.25 pesos. ¿Qué lugar ocupa el 5?",
+"opciones": [
+"Milésimos",
+"Centésimos",
+"Décimos"
+],
+"correcta": 1,
+"porque": "El 5 está en el segundo lugar después del punto: centésimos."
+}
+],
+"desarrollos-planos-cuerpos": [
+{
+"pregunta": "¿Cuántas figuras tiene el desarrollo de un prisma triangular?",
+"opciones": [
+"5",
+"4",
+"6"
+],
+"correcta": 0,
+"porque": "Tiene 2 triángulos de base y 3 rectángulos de lados."
+},
+{
+"pregunta": "¿Cuántas figuras tiene el desarrollo de una pirámide con base triangular?",
+"opciones": [
+"5",
+"4",
+"3"
+],
+"correcta": 1,
+"porque": "Una base triangular y un triángulo por cada uno de los 3 lados."
+},
+{
+"pregunta": "¿Qué figuras forman el desarrollo de un cubo?",
+"opciones": [
+"Cuatro cuadrados y dos triángulos",
+"Un cuadrado y cuatro triángulos grandes",
+"Seis cuadrados iguales"
+],
+"correcta": 2,
+"porque": "El cubo tiene 6 caras, y todas son cuadrados iguales."
+},
+{
+"pregunta": "Al doblar un desarrollo, ¿qué debe pasar con los bordes?",
+"opciones": [
+"Los bordes quedan sueltos para pegarlos después",
+"Cada borde se une con otro del mismo largo",
+"Los bordes se encimen sin importar su largo"
+],
+"correcta": 1,
+"porque": "Si los largos no coinciden, el cuerpo no cierra bien."
+},
+{
+"pregunta": "Desarmas una caja de zapatos, que es un prisma rectangular. ¿Cuántas figuras salen?",
+"opciones": [
+"8 rectángulos y dos cuadrados",
+"4 rectángulos",
+"6 rectángulos"
+],
+"correcta": 2,
+"porque": "Tiene dos bases y cuatro lados, todos rectángulos."
+}
+],
+"descuentos-y-aumentos-primaria": [
+{
+"pregunta": "Un libro de 200 pesos tiene 10 % de descuento. ¿Cuánto pagas?",
+"opciones": [
+"180 pesos",
+"20 pesos",
+"220 pesos"
+],
+"correcta": 0,
+"porque": "El 10 % de 200 es 20, y 200 menos 20 son 180."
+},
+{
+"pregunta": "Unos zapatos cuestan 600 pesos y tienen 50 % de descuento. ¿Cuánto pagas?",
+"opciones": [
+"900 pesos",
+"50 pesos",
+"300 pesos"
+],
+"correcta": 2,
+"porque": "La mitad de 600 es 300, que es lo que pagas."
+},
+{
+"pregunta": "Un pasaje de 20 pesos sube 10 %. ¿Cuánto cuesta ahora?",
+"opciones": [
+"2 pesos",
+"22 pesos",
+"30 pesos"
+],
+"correcta": 1,
+"porque": "El 10 % de 20 es 2, y como es aumento, se suma: 22."
+},
+{
+"pregunta": "Un celular de 1 000 pesos tiene 30 % de descuento. ¿Cuánto pagas?",
+"opciones": [
+"1 300 pesos",
+"700 pesos",
+"300 pesos, que es solo el descuento"
+],
+"correcta": 1,
+"porque": "El 30 % de 1 000 es 300, y se resta: 1 000 menos 300 son 700."
+},
+{
+"pregunta": "Con 20 % de descuento, ¿qué porcentaje del precio pagas?",
+"opciones": [
+"120 %",
+"20 %",
+"80 %"
+],
+"correcta": 2,
+"porque": "Con descuento pagas lo que queda: 100 menos 20 son 80."
+}
+],
+"division-con-punto-decimal-en-el-dividendo-primaria": [
+{
+"pregunta": "Resuelve 8.4 ÷ 2.",
+"opciones": [
+"4.02",
+"42",
+"4.2"
+],
+"correcta": 2,
+"porque": "8 entre 2 es 4, subes el punto, y 4 entre 2 es 2: queda 4.2."
+},
+{
+"pregunta": "Resuelve 15.6 ÷ 3.",
+"opciones": [
+"5.2",
+"5.02",
+"52"
+],
+"correcta": 0,
+"porque": "15 entre 3 es 5, subes el punto y 6 entre 3 es 2."
+},
+{
+"pregunta": "Resuelve 0.36 ÷ 6.",
+"opciones": [
+"0.6",
+"0.06",
+"0.006"
+],
+"correcta": 1,
+"porque": "36 entre 6 es 6, y con 0.36 el 6 queda en centésimos: 0.06."
+},
+{
+"pregunta": "Tres amigos pagan 45.60 pesos por igual. ¿Cuánto paga cada uno?",
+"opciones": [
+"15.20 pesos",
+"15.02 pesos",
+"1.52 pesos"
+],
+"correcta": 0,
+"porque": "45.60 entre 3 es 15.20, subiendo el punto."
+},
+{
+"pregunta": "Resuelve 3.5 ÷ 4.",
+"opciones": [
+"0.875",
+"8.75",
+"0.85"
+],
+"correcta": 0,
+"porque": "Sigue con ceros: 3.500 entre 4 da 0.875."
+}
+],
+"division-con-punto-decimal-en-el-divisor-primaria": [
+{
+"pregunta": "Resuelve 3.6 ÷ 0.4.",
+"opciones": [
+"90, por mover mal el punto",
+"0.9, por no mover el punto",
+"9, porque 36 ÷ 4 = 9"
+],
+"correcta": 2,
+"porque": "Se recorre el punto un lugar en ambos y queda 36 ÷ 4 = 9."
+},
+{
+"pregunta": "Resuelve 8 ÷ 0.2.",
+"opciones": [
+"4",
+"40",
+"400"
+],
+"correcta": 1,
+"porque": "Mueves un lugar: 80 entre 2 son 40."
+},
+{
+"pregunta": "Resuelve 4.5 ÷ 0.15.",
+"opciones": [
+"3",
+"30",
+"300"
+],
+"correcta": 1,
+"porque": "Mueves dos lugares: 450 entre 15 son 30."
+},
+{
+"pregunta": "Tienes 2 L de agua y llenas vasos de 0.2 L. ¿Cuántos vasos salen?",
+"opciones": [
+"10 vasos",
+"1 vaso",
+"0.1 vasos"
+],
+"correcta": 0,
+"porque": "Mueves un lugar: 20 entre 2 son 10."
+},
+{
+"pregunta": "Para resolver 5 ÷ 0.5, ¿qué división haces?",
+"opciones": [
+"50 ÷ 5",
+"0.5 ÷ 5",
+"5 ÷ 5"
+],
+"correcta": 0,
+"porque": "Mueves el punto un lugar en ambos: el 5 se vuelve 50 y 0.5 se vuelve 5."
+}
+]
+}

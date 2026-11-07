@@ -1,0 +1,522 @@
+{
+"minimo-comun-multiplo-primaria": [
+{
+"pregunta": "Calcula el mcm de 6 y 8.",
+"opciones": [
+"48",
+"2",
+"24"
+],
+"correcta": 2,
+"porque": "Múltiplos de 6: 6, 12, 18, 24. Múltiplos de 8: 8, 16, 24. El primero común es 24."
+},
+{
+"pregunta": "Calcula el mcm de 5 y 7.",
+"opciones": [
+"35",
+"12",
+"1"
+],
+"correcta": 0,
+"porque": "No comparten divisores, así que el mcm es 5 por 7: 35."
+},
+{
+"pregunta": "Calcula el mcm de 2, 3 y 4.",
+"opciones": [
+"24",
+"12",
+"9"
+],
+"correcta": 1,
+"porque": "El primer número que está en las tres listas es 12."
+},
+{
+"pregunta": "Una alarma suena cada 6 minutos y otra cada 9 minutos. Suenan juntas ahora. ¿Cuándo vuelven a sonar juntas?",
+"opciones": [
+"A los 18 minutos",
+"A los 3 minutos",
+"A los 54 minutos"
+],
+"correcta": 0,
+"porque": "El mcm de 6 y 9 es 18."
+},
+{
+"pregunta": "Un grupo tiene arte cada 4 días y otro cada 10 días. Hoy coinciden. ¿Cada cuántos días coinciden?",
+"opciones": [
+"20 días",
+"40 días",
+"2 días"
+],
+"correcta": 0,
+"porque": "El mcm de 4 y 10 es 20."
+}
+],
+"multiplicacion-de-fracciones-primaria": [
+{
+"pregunta": "Resuelve $\\frac{2}{3} \\times \\frac{3}{4}$.",
+"opciones": [
+"$\\frac{1}{2}$",
+"$\\frac{9}{8}$",
+"$\\frac{5}{7}$"
+],
+"correcta": 0,
+"porque": "Arriba 6 y abajo 12: $\\frac{6}{12} = \\frac{1}{2}$."
+},
+{
+"pregunta": "Resuelve $\\frac{1}{5} \\times \\frac{1}{2}$.",
+"opciones": [
+"$\\frac{1}{10}$",
+"$\\frac{1}{3}$",
+"$\\frac{2}{7}$"
+],
+"correcta": 0,
+"porque": "Arriba 1 por 1 y abajo 5 por 2: $\\frac{1}{10}$."
+},
+{
+"pregunta": "Resuelve $6 \\times \\frac{2}{3}$.",
+"opciones": [
+"2",
+"12",
+"4"
+],
+"correcta": 2,
+"porque": "$6 \\times \\frac{2}{3} = \\frac{12}{3} = 4$."
+},
+{
+"pregunta": "Resuelve $2\\frac{1}{2} \\times \\frac{2}{5}$.",
+"opciones": [
+"$\\frac{10}{10} = 1$",
+"$\\frac{4}{10} = \\frac{2}{5}$",
+"$\\frac{5}{10} = \\frac{1}{2}$"
+],
+"correcta": 0,
+"porque": "Pasa $2\\frac{1}{2}$ a $\\frac{5}{2}$ y multiplica: $\\frac{10}{10} = 1$."
+},
+{
+"pregunta": "Te comes la mitad de $\\frac{1}{4}$ de una pizza. ¿Qué parte de la pizza comiste?",
+"opciones": [
+"$\\frac{3}{4}$",
+"$\\frac{1}{8}$",
+"$\\frac{1}{6}$"
+],
+"correcta": 1,
+"porque": "$\\frac{1}{2} \\times \\frac{1}{4} = \\frac{1}{8}$."
+}
+],
+"multiplicar-decimales-primaria": [
+{
+"pregunta": "Resuelve 1.5 × 4.",
+"opciones": [
+"60, porque no pones el punto",
+"6, porque 15 × 4 = 60 con un decimal",
+"0.6, porque pones dos decimales"
+],
+"correcta": 1,
+"porque": "Multiplicas 15 por 4 y pones un decimal: da 6."
+},
+{
+"pregunta": "Resuelve 0.4 × 0.3.",
+"opciones": [
+"0.12",
+"0.012",
+"1.2"
+],
+"correcta": 0,
+"porque": "4 por 3 son 12, y entre los dos hay 2 decimales: 0.12."
+},
+{
+"pregunta": "Resuelve 2.5 × 2.5.",
+"opciones": [
+"6.25",
+"5",
+"625"
+],
+"correcta": 0,
+"porque": "25 por 25 son 625, y con 2 decimales queda 6.25."
+},
+{
+"pregunta": "Resuelve 0.05 × 6.",
+"opciones": [
+"0.03",
+"3",
+"0.3"
+],
+"correcta": 2,
+"porque": "5 por 6 son 30, con 2 decimales queda 0.30, que es 0.3."
+},
+{
+"pregunta": "Un kilo de fruta cuesta 30 pesos. ¿Cuánto cuestan 1.5 kg?",
+"opciones": [
+"450 pesos",
+"4.5 pesos",
+"45 pesos"
+],
+"correcta": 2,
+"porque": "15 por 30 son 450, y con un decimal queda 45."
+}
+],
+"multiplicar-dividir-fracciones-decimales": [
+{
+"pregunta": "Resuelve $\\frac{3}{7} \\times 2$.",
+"opciones": [
+"$\\frac{6}{7}$",
+"$\\frac{6}{14}$, por multiplicar también abajo",
+"$\\frac{3}{14}$"
+],
+"correcta": 0,
+"porque": "Al multiplicar por un número solo se multiplica el de arriba."
+},
+{
+"pregunta": "Resuelve $\\frac{2}{3} \\div 4$.",
+"opciones": [
+"$\\frac{8}{3}$, por multiplicar el de arriba",
+"$\\frac{1}{6}$",
+"$\\frac{2}{7}$"
+],
+"correcta": 1,
+"porque": "Al dividir entre un número se multiplica el de abajo: $\\frac{2}{12} = \\frac{1}{6}$."
+},
+{
+"pregunta": "Resuelve 0.8 ÷ 4.",
+"opciones": [
+"0.2",
+"2",
+"3.2"
+],
+"correcta": 0,
+"porque": "8 entre 4 es 2, y el punto queda en décimos: 0.2."
+},
+{
+"pregunta": "Resuelve 1.2 × 5.",
+"opciones": [
+"0.6, porque pones dos decimales",
+"6, porque 12 × 5 = 60 con un decimal",
+"60, porque no pones el punto"
+],
+"correcta": 1,
+"porque": "Multiplicas 12 por 5 y pones un decimal: da 6."
+},
+{
+"pregunta": "Quieres repartir 2.4 litros de agua en 6 vasos iguales. ¿Cuánto cae en cada vaso?",
+"opciones": [
+"4 litros",
+"14.4 litros",
+"0.4 litros"
+],
+"correcta": 2,
+"porque": "24 entre 6 es 4, y con un decimal queda 0.4."
+}
+],
+"multiplicar-y-dividir-decimales-por-10-100-y-1000-primaria": [
+{
+"pregunta": "Calcula 4.7 × 10.",
+"opciones": [
+"0.47",
+"470",
+"47"
+],
+"correcta": 2,
+"porque": "Al multiplicar por 10 el punto se recorre un lugar a la derecha."
+},
+{
+"pregunta": "Calcula 0.35 × 1000.",
+"opciones": [
+"35",
+"350",
+"3 500"
+],
+"correcta": 1,
+"porque": "Tres lugares a la derecha: 0.350 se vuelve 350."
+},
+{
+"pregunta": "Calcula 62 ÷ 100.",
+"opciones": [
+"6.2",
+"6 200",
+"0.62"
+],
+"correcta": 2,
+"porque": "Al dividir entre 100 el punto se recorre dos lugares a la izquierda."
+},
+{
+"pregunta": "Calcula 8.5 ÷ 1000.",
+"opciones": [
+"0.085",
+"0.0085",
+"8 500"
+],
+"correcta": 1,
+"porque": "Tres lugares a la izquierda, rellenando con ceros: 0.0085."
+},
+{
+"pregunta": "Una cinta mide 2.3 metros. ¿Cuántos centímetros son?",
+"opciones": [
+"2 300 cm",
+"23 cm",
+"230 cm"
+],
+"correcta": 2,
+"porque": "Un metro son 100 cm: multiplicas por 100 y el punto va dos lugares a la derecha."
+}
+],
+"nociones-probabilidad-primaria": [
+{
+"pregunta": "En una bolsa hay 2 canicas azules y 6 verdes. ¿Cuál es la probabilidad de sacar una azul?",
+"opciones": [
+"$\\frac{2}{6}$",
+"$\\frac{1}{4}$",
+"$\\frac{1}{2}$"
+],
+"correcta": 1,
+"porque": "Hay 2 favorables entre 8 posibles: $\\frac{2}{8} = \\frac{1}{4}$."
+},
+{
+"pregunta": "Lanzas un dado. ¿Cuál es la probabilidad de sacar un número mayor que 4?",
+"opciones": [
+"$\\frac{1}{3}$",
+"$\\frac{1}{6}$",
+"$\\frac{4}{6}$"
+],
+"correcta": 0,
+"porque": "Solo sirven el 5 y el 6: $\\frac{2}{6} = \\frac{1}{3}$."
+},
+{
+"pregunta": "Lanzas un dado. ¿Cuál es la probabilidad de sacar un número del 1 al 6?",
+"opciones": [
+"1",
+"0",
+"$\\frac{1}{6}$"
+],
+"correcta": 0,
+"porque": "Siempre sale uno de esos números, así que es seguro y vale 1."
+},
+{
+"pregunta": "En una bolsa solo hay canicas azules. ¿Cuál es la probabilidad de sacar una roja?",
+"opciones": [
+"1",
+"0",
+"$\\frac{1}{2}$"
+],
+"correcta": 1,
+"porque": "No hay canicas rojas, así que es imposible y vale 0."
+},
+{
+"pregunta": "Hay 10 papelitos en una bolsa y tu nombre está en 1. ¿Cuál es la probabilidad de sacarlo?",
+"opciones": [
+"$\\frac{10}{1}$",
+"$\\frac{1}{9}$",
+"$\\frac{1}{10}$"
+],
+"correcta": 2,
+"porque": "Hay 1 caso favorable entre 10 posibles."
+}
+],
+"numeros-primos-y-compuestos-primaria": [
+{
+"pregunta": "¿El 13 es primo o compuesto?",
+"opciones": [
+"Compuesto, porque es un número impar",
+"Primo, porque solo se divide entre 1 y 13",
+"Compuesto, porque se divide entre 3"
+],
+"correcta": 1,
+"porque": "El 13 solo se divide entre 1 y entre sí mismo, así que es primo."
+},
+{
+"pregunta": "¿El número 1 es primo?",
+"opciones": [
+"Sí, porque solo se divide entre 1",
+"No, porque es compuesto",
+"No, no es primo ni compuesto"
+],
+"correcta": 2,
+"porque": "El 1 tiene un solo divisor, así que no es primo ni compuesto."
+},
+{
+"pregunta": "Descompón 20 en factores primos.",
+"opciones": [
+"$4 \\times 5$",
+"$2 \\times 10$",
+"$2 \\times 2 \\times 5$"
+],
+"correcta": 2,
+"porque": "Todos los factores deben ser primos: 2, 2 y 5."
+},
+{
+"pregunta": "¿Cuál es el único número primo que es par?",
+"opciones": [
+"2",
+"4",
+"0"
+],
+"correcta": 0,
+"porque": "Los demás números pares se dividen entre 2, así que no son primos."
+},
+{
+"pregunta": "Con 15 fichas formas 3 filas de 5. ¿El 15 es primo o compuesto?",
+"opciones": [
+"Ninguno de los dos",
+"Compuesto",
+"Primo"
+],
+"correcta": 1,
+"porque": "Tiene más divisores que 1 y 15: también el 3 y el 5."
+}
+],
+"partes-de-la-circunferencia-primaria": [
+{
+"pregunta": "Un círculo tiene 14 cm de diámetro. ¿Cuánto mide su radio?",
+"opciones": [
+"28 cm",
+"14 cm",
+"7 cm"
+],
+"correcta": 2,
+"porque": "El radio es la mitad del diámetro."
+},
+{
+"pregunta": "Un círculo tiene radio de 9 m. ¿Cuánto mide su diámetro?",
+"opciones": [
+"9 m",
+"4.5 m",
+"18 m"
+],
+"correcta": 2,
+"porque": "El diámetro es el doble del radio."
+},
+{
+"pregunta": "¿Cuál es la cuerda más larga de un círculo?",
+"opciones": [
+"El arco",
+"El radio",
+"El diámetro"
+],
+"correcta": 2,
+"porque": "El diámetro va de orilla a orilla pasando por el centro."
+},
+{
+"pregunta": "¿Qué es el centro del círculo?",
+"opciones": [
+"La línea que va de orilla a orilla",
+"Un pedazo de la orilla del círculo",
+"El punto de en medio"
+],
+"correcta": 2,
+"porque": "El centro está a la misma distancia de toda la orilla."
+},
+{
+"pregunta": "Una rueda de bicicleta tiene radio de 30 cm. ¿Cuánto mide su diámetro?",
+"opciones": [
+"60 cm",
+"15 cm",
+"30 cm"
+],
+"correcta": 0,
+"porque": "El diámetro es 2 por 30."
+}
+],
+"perimetro-area-volumen-primaria": [
+{
+"pregunta": "Una caja mide 6 cm por 2 cm por 3 cm. ¿Cuál es su volumen?",
+"opciones": [
+"36 cm³",
+"72 cm³",
+"11 cm³"
+],
+"correcta": 0,
+"porque": "Multiplicas largo, ancho y alto: 6 por 2 por 3."
+},
+{
+"pregunta": "Un triángulo tiene base de 8 cm y altura de 5 cm. ¿Cuál es su área?",
+"opciones": [
+"20 cm²",
+"13 cm²",
+"40 cm², por no dividir entre 2"
+],
+"correcta": 0,
+"porque": "8 por 5 son 40, y la mitad es 20."
+},
+{
+"pregunta": "Un círculo tiene diámetro de 5 cm. ¿Cuánto mide su orilla? Usa 3.14.",
+"opciones": [
+"15.7 cm",
+"78.5 cm",
+"31.4 cm"
+],
+"correcta": 0,
+"porque": "La orilla es 3.14 por el diámetro: 3.14 por 5."
+},
+{
+"pregunta": "Un cubo mide 3 cm por lado. ¿Cuál es su volumen?",
+"opciones": [
+"9 cm³",
+"27 cm³",
+"18 cm³"
+],
+"correcta": 1,
+"porque": "Multiplicas 3 por 3 por 3."
+},
+{
+"pregunta": "Quieres saber cuánto cabe dentro de una caja de lápices. ¿Qué unidad usas?",
+"opciones": [
+"$\\text{cm}^2$",
+"$\\text{cm}^3$",
+"$\\text{cm}$"
+],
+"correcta": 1,
+"porque": "Lo que cabe adentro es volumen, y se mide en centímetros cúbicos."
+}
+],
+"perimetro-del-circulo-primaria": [
+{
+"pregunta": "Un círculo tiene diámetro de 30 cm. Usa 3.14. ¿Cuánto mide su orilla?",
+"opciones": [
+"942 cm",
+"47.1 cm",
+"94.2 cm"
+],
+"correcta": 2,
+"porque": "La orilla es 3.14 por 30, que da 94.2."
+},
+{
+"pregunta": "Un círculo tiene radio de 10 cm. Usa 3.14. ¿Cuánto mide su orilla?",
+"opciones": [
+"314 cm",
+"62.8 cm",
+"31.4 cm, por no duplicar el radio"
+],
+"correcta": 1,
+"porque": "Con radio, el diámetro es 20 y 3.14 por 20 da 62.8."
+},
+{
+"pregunta": "Un círculo tiene diámetro de 100 m. Usa 3.14. ¿Cuánto mide su orilla?",
+"opciones": [
+"628 m",
+"31.4 m",
+"314 m"
+],
+"correcta": 2,
+"porque": "3.14 por 100 es 314."
+},
+{
+"pregunta": "Un hilo rodea una tapa y mide 15.7 cm. ¿Cuánto mide el diámetro de la tapa?",
+"opciones": [
+"10 cm",
+"49.3 cm",
+"5 cm"
+],
+"correcta": 2,
+"porque": "Divides 15.7 entre 3.14 y sale 5."
+},
+{
+"pregunta": "Rodeas un plato con un hilo. ¿Cuántas veces cabe, más o menos, lo ancho del plato en el hilo?",
+"opciones": [
+"2 veces exactas",
+"6 veces exactas",
+"Un poco más de 3 veces"
+],
+"correcta": 2,
+"porque": "La orilla mide pi por el diámetro, casi 3.14 veces."
+}
+]
+}

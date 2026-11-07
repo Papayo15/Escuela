@@ -4,6 +4,11 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { reducirFoto } from "@/lib/foto";
+import { ASISTENTE } from "@/lib/marca";
+import { plantillasDe, usaReacciones } from "@/lib/plantillas";
+import type { Seccion } from "@/lib/secciones";
+import { EditorFormula } from "./EditorFormula";
+import { EditorReaccion } from "./EditorReaccion";
 import { Mensaje } from "./Mensaje";
 
 type Turno = { role: "user" | "assistant"; content: string; foto?: string };
@@ -11,11 +16,23 @@ type Props = {
   modoInicial: "tema-nuevo" | "seguimiento";
   slug?: string;
   nivel?: string;
+  materia?: string;
+  seccion?: Seccion;
   preguntaInicial?: string;
+  pedido?: { id: number; texto: string };
   sugerencias?: string[];
 };
 
-export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerencias = [] }: Props) {
+export function ChatEnVivo({
+  modoInicial,
+  slug,
+  nivel,
+  materia,
+  seccion,
+  preguntaInicial,
+  pedido,
+  sugerencias = [],
+}: Props) {
   const router = useRouter();
   const [turnos, setTurnos] = useState<Turno[]>([]);
   const [borrador, setBorrador] = useState("");
@@ -26,6 +43,13 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
   const [foto, setFoto] = useState<string | null>(null);
   const inicio = useRef(false);
   const final = useRef<HTMLDivElement>(null);
+  const cuadro = useRef<HTMLTextAreaElement>(null);
+  const seccionActual = useRef(seccion);
+  const ultimoPedido = useRef(0);
+
+  useEffect(() => {
+    seccionActual.current = seccion;
+  }, [seccion]);
 
   const enviar = useCallback(
     async (historial: Turno[], modo: "tema-nuevo" | "seguimiento") => {
@@ -42,10 +66,17 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(
             conFoto
-              ? { nivel: nivel || undefined, pregunta: primero.content, imagen: primero.foto }
+              ? {
+                  slug,
+                  seccion: seccionActual.current,
+                  nivel: nivel || undefined,
+                  pregunta: primero.content,
+                  imagen: primero.foto,
+                }
               : {
                   modo,
                   slug,
+                  seccion: seccionActual.current,
                   nivel: nivel || undefined,
                   messages: historial.map(({ role, content }) => ({ role, content })),
                 },
@@ -113,6 +144,12 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
     final.current?.scrollIntoView({ behavior: "smooth", block: "nearest" });
   }, [turnos, enviando]);
 
+  useEffect(() => {
+    if (!pedido || enviando || pedido.id === ultimoPedido.current) return;
+    ultimoPedido.current = pedido.id;
+    void enviar([...turnos, { role: "user", content: pedido.texto }], "seguimiento");
+  }, [enviando, enviar, pedido, turnos]);
+
   const mandar = (texto: string) => {
     const limpio = texto.trim();
     if ((!limpio && !foto) || enviando) return;
@@ -122,6 +159,17 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
     setFoto(null);
     void enviar([...turnos, turno], "seguimiento");
   };
+
+  const insertar = (texto: string) => {
+    const campo = cuadro.current;
+    const inicioSel = campo?.selectionStart ?? borrador.length;
+    const finSel = campo?.selectionEnd ?? borrador.length;
+    setBorrador(`${borrador.slice(0, inicioSel)}${texto}${borrador.slice(finSel)}`);
+    campo?.focus();
+  };
+
+  const ponerFormula = (latex: string) =>
+    setBorrador((b) => `${b}${b && !b.endsWith(" ") ? " " : ""}$${latex}$ `);
 
   const elegirFoto = async (archivo: File | undefined) => {
     if (!archivo) return;
@@ -144,14 +192,14 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
   const pendiente = enviando && turnos.at(-1)?.role === "user";
 
   return (
-    <section className="chat" aria-label="Maestro en vivo">
+    <section className="chat" aria-label={ASISTENTE}>
       <div aria-live="polite">
         {turnos.map((t, i) =>
           t.role === "user" ? (
             <div key={i} className="burbuja-alumno">
               {/* eslint-disable-next-line @next/next/no-img-element -- la foto solo existe en el navegador */}
               {t.foto && <img className="foto-tarea" src={t.foto} alt="Foto de la tarea" />}
-              <p>{t.content}</p>
+              <Mensaje texto={t.content} />
             </div>
           ) : (
             <Mensaje key={i} texto={t.content} />
@@ -210,8 +258,20 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
                   />
                 </label>
               )}
-              <p className="nota">Fotografía solo el ejercicio, sin nombres ni rostros. La foto no se guarda.</p>
+              <p className="nota">Fotografía solo el ejercicio, sin rostros ni nombres completos. La foto no se guarda.</p>
             </div>
+          )}
+          <div className="plantillas" aria-label="Plantillas para escribir tu duda">
+            {plantillasDe(materia).map((p) => (
+              <button key={p.etiqueta} type="button" className="plantilla" onClick={() => insertar(p.texto)}>
+                {p.etiqueta}
+              </button>
+            ))}
+            <EditorFormula alInsertar={ponerFormula} />
+            {usaReacciones(materia) && <EditorReaccion alInsertar={ponerFormula} />}
+          </div>
+          {borrador.includes("$") && (
+            <div className="vista-previa"><Mensaje texto={borrador} /></div>
           )}
           <form
             className="campo-chat"
@@ -223,6 +283,7 @@ export function ChatEnVivo({ modoInicial, slug, nivel, preguntaInicial, sugerenc
             <label className="oculto" htmlFor="duda">Escribe tu duda</label>
             <textarea
               id="duda"
+              ref={cuadro}
               rows={2}
               maxLength={2000}
               value={borrador}

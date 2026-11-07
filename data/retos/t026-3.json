@@ -1,0 +1,522 @@
+{
+"tabla-periodica-electronegatividad-radio-atomico-secundaria": [
+{
+"pregunta": "¿Quién tiene mayor electronegatividad, el cloro o el sodio?",
+"opciones": [
+"El cloro, arriba a la derecha",
+"El sodio, abajo a la izquierda",
+"Los dos igual de fuerte"
+],
+"correcta": 0,
+"porque": "El cloro está más arriba y a la derecha, y jala más los electrones."
+},
+{
+"pregunta": "Al bajar por un grupo, ¿cómo cambia el tamaño del átomo?",
+"opciones": [
+"Queda igual",
+"Disminuye",
+"Crece"
+],
+"correcta": 2,
+"porque": "Hacia abajo hay más capas, y el átomo es más grande."
+},
+{
+"pregunta": "¿Cómo se llaman las filas de la tabla periódica?",
+"opciones": [
+"Familias",
+"Grupos",
+"Periodos"
+],
+"correcta": 2,
+"porque": "Las filas son periodos y las columnas son grupos."
+},
+{
+"pregunta": "¿Hacia dónde crece la energía para quitar un electrón?",
+"opciones": [
+"Hacia arriba y a la derecha",
+"Hacia abajo y a la derecha",
+"Hacia abajo y a la izquierda"
+],
+"correcta": 0,
+"porque": "Arriba y a la derecha el átomo sujeta más fuerte sus electrones."
+},
+{
+"pregunta": "¿Cómo se ordenan los elementos en la tabla?",
+"opciones": [
+"Por su número de protones",
+"Por su color",
+"Por su peso en balanza"
+],
+"correcta": 0,
+"porque": "La tabla ordena por número de protones, de menor a mayor."
+}
+],
+"unidades-de-medida-en-quimica-secundaria": [
+{
+"pregunta": "¿Cuántos mL son 2.5 L?",
+"opciones": [
+"2500 mL",
+"250 mL",
+"25 mL"
+],
+"correcta": 0,
+"porque": "Un litro son 1000 mL, y $2.5 \\times 1000 = 2500$."
+},
+{
+"pregunta": "¿Cuántos kelvin son 27 °C?",
+"opciones": [
+"27 K",
+"300 K",
+"246 K"
+],
+"correcta": 1,
+"porque": "Se suma 273: $27 + 273 = 300$."
+},
+{
+"pregunta": "Convierte 3000 g a kilogramos.",
+"opciones": [
+"300 kg",
+"30 kg",
+"3 kg"
+],
+"correcta": 2,
+"porque": "De unidad chica a grande se divide: $3000 \\div 1000 = 3$."
+},
+{
+"pregunta": "¿Cuántos mL son 5 cm³?",
+"opciones": [
+"0.5 mL",
+"50 mL",
+"5 mL"
+],
+"correcta": 2,
+"porque": "Un mililitro equivale a un centímetro cúbico."
+},
+{
+"pregunta": "¿Qué unidad mide la cantidad de sustancia?",
+"opciones": [
+"El gramo",
+"El litro",
+"El mol"
+],
+"correcta": 2,
+"porque": "La cantidad de sustancia se mide en moles."
+}
+],
+"velocidad-de-reaccion-y-catalizadores-secundaria": [
+{
+"pregunta": "El azúcar en polvo se disuelve más rápido que un terrón. ¿Por qué?",
+"opciones": [
+"Tiene menos partículas",
+"Tiene menos concentración",
+"Tiene más superficie de contacto"
+],
+"correcta": 2,
+"porque": "Al estar molido, hay más contacto y más choques."
+},
+{
+"pregunta": "¿Qué hace un catalizador?",
+"opciones": [
+"Sube la energía de activación",
+"Acelera sin gastarse",
+"Frena y se gasta"
+],
+"correcta": 1,
+"porque": "Un catalizador es un atajo que no se consume."
+},
+{
+"pregunta": "El café se disuelve más rápido en agua caliente. ¿Qué factor actúa?",
+"opciones": [
+"La concentración",
+"La temperatura",
+"El catalizador"
+],
+"correcta": 1,
+"porque": "Con calor, las partículas se mueven más rápido."
+},
+{
+"pregunta": "¿Qué hacen las enzimas de tu cuerpo?",
+"opciones": [
+"Aceleran reacciones",
+"Frenan reacciones",
+"Gastan toda la energía"
+],
+"correcta": 0,
+"porque": "Las enzimas son catalizadores que aceleran reacciones."
+},
+{
+"pregunta": "¿Qué pasa si aumenta la concentración?",
+"opciones": [
+"Hay más choques entre partículas",
+"Las partículas van más lentas",
+"Hay menos choques"
+],
+"correcta": 0,
+"porque": "Con más partículas juntas, chocan más y reaccionan más."
+}
+],
+"comunicacion-representacion-tecnica-secundaria": [
+{
+"pregunta": "Un cuarto mide 3 m reales. ¿Cuánto mide en un plano a escala 1:100?",
+"opciones": [
+"300 cm",
+"30 cm",
+"3 cm"
+],
+"correcta": 2,
+"porque": "Son 300 cm reales, y $300 \\div 100 = 3$ cm."
+},
+{
+"pregunta": "¿Para qué sirve un instructivo?",
+"opciones": [
+"Para dibujar rápido una idea a mano",
+"Para explicar cómo armar o usar algo",
+"Para mostrar las medidas de una casa"
+],
+"correcta": 1,
+"porque": "El instructivo explica paso a paso cómo usar o armar algo."
+},
+{
+"pregunta": "¿Qué es un plano?",
+"opciones": [
+"Una lista de materiales",
+"Un dibujo sin medidas",
+"Un dibujo con medidas"
+],
+"correcta": 2,
+"porque": "El plano muestra el objeto con sus medidas."
+},
+{
+"pregunta": "Vas a armar un estante para el salón. ¿Qué documento te dice los pasos?",
+"opciones": [
+"Un instructivo",
+"Un croquis del salón",
+"Una lista de asistencia"
+],
+"correcta": 0,
+"porque": "El instructivo explica paso a paso cómo armar o usar algo."
+},
+{
+"pregunta": "Un mueble real mide 60 cm. ¿Cuánto mide en el dibujo a escala 1:20?",
+"opciones": [
+"12 cm",
+"30 cm",
+"3 cm"
+],
+"correcta": 2,
+"porque": "Se divide: $60 \\div 20 = 3$ cm."
+}
+],
+"diagramas-de-flujo-de-un-proceso-secundaria": [
+{
+"pregunta": "Quieres escribir el paso \"Abrir la llave\". ¿Qué figura usas?",
+"opciones": [
+"Un óvalo",
+"Un rombo",
+"Un rectángulo"
+],
+"correcta": 2,
+"porque": "Los pasos de acción van dentro de un rectángulo."
+},
+{
+"pregunta": "Al final de tu diagrama escribes \"Terminar\". ¿Qué figura usas?",
+"opciones": [
+"Un rectángulo",
+"Un rombo",
+"Un óvalo"
+],
+"correcta": 2,
+"porque": "El óvalo marca el inicio y también el fin."
+},
+{
+"pregunta": "¿Para qué sirven las flechas en un diagrama?",
+"opciones": [
+"Marcar decisiones",
+"Marcar el inicio",
+"Mostrar el orden"
+],
+"correcta": 2,
+"porque": "Las flechas indican qué paso sigue."
+},
+{
+"pregunta": "¿Cuántas salidas tiene un rombo?",
+"opciones": [
+"Una sola",
+"Cuatro",
+"Dos: sí y no"
+],
+"correcta": 2,
+"porque": "El rombo es una pregunta con respuesta sí o no."
+},
+{
+"pregunta": "En el diagrama del pan, ¿qué pasa si no hay pan?",
+"opciones": [
+"Se compra pan",
+"Se termina todo",
+"Se unta pan"
+],
+"correcta": 0,
+"porque": "La flecha del no lleva al paso de comprar."
+}
+],
+"dibujo-tecnico-basico-secundaria": [
+{
+"pregunta": "¿Cómo se dibuja la línea de una parte oculta?",
+"opciones": [
+"Gruesa y continua",
+"Punteada",
+"Ondulada"
+],
+"correcta": 1,
+"porque": "Las partes ocultas se dibujan con línea punteada."
+},
+{
+"pregunta": "¿Qué indica una cota?",
+"opciones": [
+"Una medida",
+"Un nombre",
+"Un color"
+],
+"correcta": 0,
+"porque": "Las cotas son las medidas del objeto en el dibujo."
+},
+{
+"pregunta": "Un objeto mide 10 cm. ¿Cuánto mide en el dibujo a escala 1:2?",
+"opciones": [
+"12 cm",
+"20 cm",
+"5 cm"
+],
+"correcta": 2,
+"porque": "La escala 1:2 hace el dibujo de la mitad: $10 \\div 2 = 5$."
+},
+{
+"pregunta": "¿Qué herramienta usas para trazar círculos?",
+"opciones": [
+"La escuadra",
+"La regla",
+"El compás"
+],
+"correcta": 2,
+"porque": "El compás traza círculos con un radio fijo."
+},
+{
+"pregunta": "¿Para qué sirve un dibujo técnico?",
+"opciones": [
+"Para decorar un cuaderno",
+"Para jugar con colores",
+"Para que otro fabrique el objeto"
+],
+"correcta": 2,
+"porque": "Tiene medidas exactas para que se pueda construir."
+}
+],
+"diseno-de-un-proyecto-tecnico-secundaria": [
+{
+"pregunta": "Ya investigaste el problema. ¿Qué paso sigue?",
+"opciones": [
+"Proponer ideas",
+"Probar",
+"Presentar"
+],
+"correcta": 0,
+"porque": "Tras investigar, se proponen ideas para resolver el problema."
+},
+{
+"pregunta": "Haces un modelo de cartón de tu organizador para probarlo. ¿Cómo se llama?",
+"opciones": [
+"Prototipo",
+"Croquis",
+"Plano"
+],
+"correcta": 0,
+"porque": "El prototipo es el primer modelo para probar la idea."
+},
+{
+"pregunta": "Tu portalápices de cartón se cae al probarlo. ¿Qué haces?",
+"opciones": [
+"Presentarlo como está",
+"Mejorarlo y probar otra vez",
+"Olvidar el problema"
+],
+"correcta": 1,
+"porque": "Probar sirve para encontrar fallas y mejorar el diseño."
+},
+{
+"pregunta": "¿Cuál es el último paso de un proyecto técnico?",
+"opciones": [
+"Investigar",
+"Presentar",
+"Identificar el problema"
+],
+"correcta": 1,
+"porque": "Al final se presenta lo que hiciste."
+},
+{
+"pregunta": "¿Para qué sirve un proyecto técnico?",
+"opciones": [
+"Resolver un problema creando un producto",
+"Decorar el salón sin plan",
+"Guardar objetos viejos"
+],
+"correcta": 0,
+"porque": "Es un plan para crear algo que resuelva un problema."
+}
+],
+"energia-procesos-tecnicos-secundaria": [
+{
+"pregunta": "El carbón, ¿es renovable o no renovable?",
+"opciones": [
+"Renovable, vuelve",
+"No renovable, se acaba",
+"Infinito, nunca se acaba"
+],
+"correcta": 1,
+"porque": "El carbón se forma en millones de años y se termina."
+},
+{
+"pregunta": "En un foco, ¿en qué se transforma la energía eléctrica?",
+"opciones": [
+"En luz y calor",
+"En sonido",
+"En movimiento"
+],
+"correcta": 0,
+"porque": "Un foco convierte la electricidad en luz y algo de calor."
+},
+{
+"pregunta": "¿Qué es la eficiencia de una máquina?",
+"opciones": [
+"Cuánto pesa la máquina",
+"Cuánta energía se aprovecha",
+"Cuánta energía se compra"
+],
+"correcta": 1,
+"porque": "Es eficiente la que desperdicia menos energía."
+},
+{
+"pregunta": "Una licuadora gira con la luz de tu casa. ¿Qué transformación hay?",
+"opciones": [
+"De calor a luz",
+"De movimiento a eléctrica",
+"De eléctrica a movimiento"
+],
+"correcta": 2,
+"porque": "El motor convierte la electricidad en movimiento."
+},
+{
+"pregunta": "¿Qué foco desperdicia menos energía?",
+"opciones": [
+"El foco LED",
+"El foco más viejo",
+"El foco incandescente"
+],
+"correcta": 0,
+"porque": "Un foco LED aprovecha más y desperdicia menos."
+}
+],
+"evaluacion-sistemas-tecnologicos-secundaria": [
+{
+"pregunta": "Un riego usaba 80 litros al día y ahora usa 60. ¿Qué porcentaje ahorra?",
+"opciones": [
+"20 %",
+"25 %",
+"75 %"
+],
+"correcta": 1,
+"porque": "Ahorra 20 litros: $\\frac{20}{80} \\times 100 = 25\\%$."
+},
+{
+"pregunta": "Antes de probar, ¿qué eliges medir?",
+"opciones": [
+"Su número de piezas",
+"Costo, seguridad o duración",
+"Su color favorito"
+],
+"correcta": 1,
+"porque": "Se eligen criterios que digan si el sistema cumple su trabajo."
+},
+{
+"pregunta": "Después de mejorar tu invento, ¿qué sigue?",
+"opciones": [
+"Probarlo otra vez",
+"Terminar sin probar",
+"Tirar el invento"
+],
+"correcta": 0,
+"porque": "Se prueba otra vez para ver si la mejora funcionó."
+},
+{
+"pregunta": "Un riego por goteo se tapa seguido. ¿Qué mejoras?",
+"opciones": [
+"No hacer nada",
+"Quitar todo el riego",
+"Cambiar el filtro"
+],
+"correcta": 2,
+"porque": "Se busca la falla y se mejora la parte que se tapa."
+},
+{
+"pregunta": "¿Para qué evalúas una tecnología?",
+"opciones": [
+"Ver si cumple y mejorarla",
+"Contar sus piezas",
+"Elegir su color"
+],
+"correcta": 0,
+"porque": "Evaluar es revisar si hace bien su trabajo."
+}
+],
+"factores-inciden-procesos-tecnicos-secundaria": [
+{
+"pregunta": "Tu escuela necesita una rampa para sillas de ruedas. ¿Qué factor es?",
+"opciones": [
+"Ambiental",
+"Histórico",
+"Social"
+],
+"correcta": 2,
+"porque": "Los factores sociales son lo que necesita la gente."
+},
+{
+"pregunta": "Hoy cocinas con estufa y antes con leña. ¿Qué factor pesa?",
+"opciones": [
+"Económico",
+"Ambiental",
+"Histórico"
+],
+"correcta": 2,
+"porque": "El factor histórico mira cómo se hacía antes."
+},
+{
+"pregunta": "No tienes las herramientas para fabricar una pieza. ¿Qué factor es?",
+"opciones": [
+"Técnico",
+"Histórico",
+"Social"
+],
+"correcta": 0,
+"porque": "Los factores técnicos son las herramientas y el saber que hay."
+},
+{
+"pregunta": "¿Por qué donde llueve mucho los techos son inclinados?",
+"opciones": [
+"Para que el agua escurra",
+"Para que se vea bonito",
+"Para que cueste más"
+],
+"correcta": 0,
+"porque": "El clima, un factor ambiental, cambia cómo se construye."
+},
+{
+"pregunta": "¿Qué significa un factor económico?",
+"opciones": [
+"Qué necesita la gente",
+"Cuánto cuesta hacerlo",
+"Cómo era antes"
+],
+"correcta": 1,
+"porque": "Lo económico es el dinero que cuesta hacer algo."
+}
+]
+}

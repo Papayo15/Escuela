@@ -1,0 +1,106 @@
+{
+"velocidad-y-rapidez-secundaria": [
+{
+"pregunta": "¿Cómo se calcula la rapidez?",
+"opciones": [
+"Distancia por tiempo",
+"Distancia entre tiempo",
+"Tiempo entre distancia"
+],
+"correcta": 1,
+"porque": "Rapidez es $v = \\frac{d}{t}$: lo que recorres entre lo que tardas."
+},
+{
+"pregunta": "¿Qué tiene la velocidad que no tiene la rapidez?",
+"opciones": [
+"La distancia",
+"La dirección",
+"El tiempo"
+],
+"correcta": 1,
+"porque": "La velocidad dice cuánto y hacia dónde, por eso es un vector."
+},
+{
+"pregunta": "Caminas 80 m por el patio en 40 s. ¿Cuál es tu rapidez?",
+"opciones": [
+"2 m/s",
+"120 m/s",
+"40 m/s"
+],
+"correcta": 0,
+"porque": "80 entre 40 da 2 metros cada segundo."
+},
+{
+"pregunta": "Un camión escolar va a 30 km/h durante 2 h. ¿Cuánto recorre?",
+"opciones": [
+"32 km",
+"60 km",
+"15 km"
+],
+"correcta": 1,
+"porque": "Distancia es rapidez por tiempo: 30 × 2 = 60."
+},
+{
+"pregunta": "¿Qué marca el velocímetro de un coche?",
+"opciones": [
+"La distancia de todo el viaje",
+"La rapidez en cada instante",
+"La dirección del camino"
+],
+"correcta": 1,
+"porque": "El velocímetro dice qué tan rápido vas en ese momento."
+}
+],
+"optimizacion-derivadas-preparatoria": [
+{
+"pregunta": "¿Qué se hace con la derivada para hallar un máximo o un mínimo?",
+"opciones": [
+"Se iguala a cero",
+"Se multiplica por dos",
+"Se suma a la función"
+],
+"correcta": 0,
+"porque": "En la cima o en el fondo la pendiente es cero."
+},
+{
+"pregunta": "Si la segunda derivada es negativa en ese punto, ¿qué es?",
+"opciones": [
+"Un mínimo",
+"Un máximo",
+"Un punto sin cambio"
+],
+"correcta": 1,
+"porque": "Negativa es como una montaña: arriba está el máximo."
+},
+{
+"pregunta": "Si la segunda derivada es positiva en ese punto, ¿qué es?",
+"opciones": [
+"Un mínimo",
+"Un máximo",
+"Una recta"
+],
+"correcta": 0,
+"porque": "Positiva es como un valle: abajo está el mínimo."
+},
+{
+"pregunta": "¿Dónde está el punto crítico de $f(x) = x^2 - 4x$?",
+"opciones": [
+"En $x = -2$",
+"En $x = 2$",
+"En $x = 4$"
+],
+"correcta": 1,
+"porque": "$f'(x) = 2x - 4$, y $2x - 4 = 0$ da $x = 2$."
+},
+{
+"pregunta": "Con 20 m de listón haces un rectángulo para el periódico mural. ¿Qué lados dan más área?",
+"opciones": [
+"5 m y 5 m",
+"9 m y 1 m",
+"8 m y 2 m"
+],
+"correcta": 0,
+"porque": "Con el mismo perímetro, el cuadrado encierra la mayor área."
+}
+]
+}

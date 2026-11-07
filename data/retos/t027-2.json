@@ -1,0 +1,522 @@
+{
+"graficas-dos-variables-simetria-extension": [
+{
+"pregunta": "¿Es $x^2 + y^2 = 49$ simétrica con el eje $y$?",
+"opciones": [
+"Sí, porque $(-x)^2$ da lo mismo",
+"No, porque cambia el signo",
+"No, porque hay una suma"
+],
+"correcta": 0,
+"porque": "Al cambiar $x$ por $-x$ la ecuación queda igual, así que sí es simétrica."
+},
+{
+"pregunta": "¿Es $y = x^2 + 1$ simétrica con el eje $x$?",
+"opciones": [
+"Sí, porque $x^2$ no cambia",
+"Sí, porque siempre da 1",
+"No, porque $-y$ cambia la ecuación"
+],
+"correcta": 2,
+"porque": "Al cambiar $y$ por $-y$ la ecuación ya no es la misma."
+},
+{
+"pregunta": "En $y^2 = x + 3$, ¿qué valores puede tomar $x$?",
+"opciones": [
+"Cualquier número real",
+"Desde $-3$ en adelante",
+"Solo números positivos"
+],
+"correcta": 1,
+"porque": "Un cuadrado nunca es negativo, así que $x + 3$ debe ser 0 o más."
+},
+{
+"pregunta": "En $x^2 + y^2 = 16$, ¿entre qué valores va $y$?",
+"opciones": [
+"De 0 a 16",
+"De $-16$ a 16",
+"De $-4$ a 4"
+],
+"correcta": 2,
+"porque": "Como $y^2$ no pasa de 16, $y$ no sale de $-4$ a 4."
+},
+{
+"pregunta": "Doblas un dibujo por la mitad y las dos partes coinciden. ¿Qué tiene?",
+"opciones": [
+"Simetría",
+"Extensión",
+"Pendiente"
+],
+"correcta": 0,
+"porque": "Si al doblar las mitades coinciden, la figura tiene simetría."
+}
+],
+"identidades-pitagoricas-prepa": [
+{
+"pregunta": "Simplifica $\\sin^2 x + \\cos^2 x + 5$.",
+"opciones": [
+"5",
+"6",
+"1"
+],
+"correcta": 1,
+"porque": "Como $\\sin^2 x + \\cos^2 x = 1$, queda $1 + 5 = 6$."
+},
+{
+"pregunta": "Si $\\sin\\theta = \\frac{4}{5}$ en el primer cuadrante, ¿cuánto vale $\\cos\\theta$?",
+"opciones": [
+"$\\frac{1}{5}$",
+"$\\frac{4}{5}$",
+"$\\frac{3}{5}$"
+],
+"correcta": 2,
+"porque": "$\\cos\\theta = \\sqrt{1 - \\frac{16}{25}} = \\frac{3}{5}$."
+},
+{
+"pregunta": "Simplifica $\\tan x \\cdot \\cos x$.",
+"opciones": [
+"$\\sec x$",
+"$\\sin x$",
+"$\\cos x$"
+],
+"correcta": 1,
+"porque": "Como $\\tan x = \\frac{\\sin x}{\\cos x}$, el coseno se cancela."
+},
+{
+"pregunta": "¿A qué es igual $1 + \\tan^2\\theta$?",
+"opciones": [
+"A $\\sec^2\\theta$",
+"A $\\cos^2\\theta$",
+"A $\\sin^2\\theta$"
+],
+"correcta": 0,
+"porque": "Es una de las identidades pitagóricas."
+},
+{
+"pregunta": "Con $\\sin 30° = 0.5$ y $\\cos 30° = 0.866$, ¿cuánto suman sus cuadrados?",
+"opciones": [
+"Suman 1.366",
+"Suman 1",
+"Suman 0.5"
+],
+"correcta": 1,
+"porque": "Da $0.25 + 0.75 = 1$, como dice la identidad."
+}
+],
+"ley-de-cosenos-prepa": [
+{
+"pregunta": "Con $a = 5$, $b = 12$ y $C = 90°$, ¿cuánto vale $c$?",
+"opciones": [
+"Vale 13",
+"Vale 7",
+"Vale 17"
+],
+"correcta": 0,
+"porque": "Con 90° el coseno es 0 y queda Pitágoras: $\\sqrt{25 + 144} = 13$."
+},
+{
+"pregunta": "Con $a = 3$, $b = 5$ y $C = 60°$, ¿cuánto vale $c^2$?",
+"opciones": [
+"Vale 19",
+"Vale 49",
+"Vale 34"
+],
+"correcta": 0,
+"porque": "$c^2 = 9 + 25 - 30(0.5) = 19$."
+},
+{
+"pregunta": "Lados 5, 6 y 7. ¿Cuánto vale $\\cos$ del ángulo opuesto a 7?",
+"opciones": [
+"Vale $\\frac{1}{2}$",
+"Vale $\\frac{12}{49}$",
+"Vale $\\frac{1}{5}$"
+],
+"correcta": 2,
+"porque": "$\\cos C = \\frac{25 + 36 - 49}{60} = \\frac{12}{60} = \\frac{1}{5}$."
+},
+{
+"pregunta": "Con $a = 4$, $b = 4$ y $C = 60°$, ¿cuánto vale $c$?",
+"opciones": [
+"Vale 8",
+"Vale 4",
+"Vale 16"
+],
+"correcta": 1,
+"porque": "$c^2 = 16 + 16 - 32(0.5) = 16$, y la raíz es 4."
+},
+{
+"pregunta": "¿Por qué con 90° la ley de cosenos queda como Pitágoras?",
+"opciones": [
+"Porque $\\cos 90°$ es 0",
+"Porque $\\cos 90°$ es $-1$",
+"Porque $\\cos 90°$ es 1"
+],
+"correcta": 0,
+"porque": "Con coseno 0 desaparece el último término y queda $a^2 + b^2$."
+}
+],
+"ley-de-senos-prepa": [
+{
+"pregunta": "Con $A = 30°$, $a = 6$ y $B = 90°$, ¿cuánto mide $b$?",
+"opciones": [
+"Mide 6",
+"Mide 12",
+"Mide 3"
+],
+"correcta": 1,
+"porque": "$b = \\frac{6 \\times 1}{0.5} = 12$."
+},
+{
+"pregunta": "Con $A = 90°$, $a = 10$ y $B = 30°$, ¿cuánto mide $b$?",
+"opciones": [
+"Mide 20",
+"Mide 5",
+"Mide 10"
+],
+"correcta": 1,
+"porque": "$b = \\frac{10 \\times 0.5}{1} = 5$."
+},
+{
+"pregunta": "En un triángulo, $A = 50°$ y $B = 60°$. ¿Cuánto mide $C$?",
+"opciones": [
+"Mide 110°",
+"Mide 90°",
+"Mide 70°"
+],
+"correcta": 2,
+"porque": "Los tres ángulos suman 180°, y $180 - 110 = 70$."
+},
+{
+"pregunta": "En la ley de senos, ¿con qué ángulo va el lado $a$?",
+"opciones": [
+"Con el ángulo $C$ de arriba",
+"Con el ángulo $A$ de enfrente",
+"Con el ángulo $B$ de al lado"
+],
+"correcta": 1,
+"porque": "Cada lado va con el seno del ángulo opuesto."
+},
+{
+"pregunta": "Dibujas un triángulo. ¿Dónde está el lado más grande?",
+"opciones": [
+"Pegado al ángulo más grande",
+"Frente al ángulo más chico",
+"Frente al ángulo más grande"
+],
+"correcta": 2,
+"porque": "El lado grande siempre queda enfrente del ángulo grande."
+}
+],
+"pendiente-entre-dos-puntos-prepa": [
+{
+"pregunta": "¿Cuál es la pendiente entre $(2, 7)$ y $(4, 1)$?",
+"opciones": [
+"Es $-3$",
+"Es $3$",
+"Es $-\\frac{1}{3}$"
+],
+"correcta": 0,
+"porque": "$m = \\frac{1 - 7}{4 - 2} = \\frac{-6}{2} = -3$."
+},
+{
+"pregunta": "¿Cuál es la pendiente entre $(1, 2)$ y $(5, 10)$?",
+"opciones": [
+"Es 2",
+"Es 8",
+"Es $\\frac{1}{2}$"
+],
+"correcta": 0,
+"porque": "$m = \\frac{8}{4} = 2$."
+},
+{
+"pregunta": "¿Cuál es la pendiente entre $(3, -1)$ y $(3, 5)$?",
+"opciones": [
+"Es 0, es plana",
+"Es 6, la diferencia",
+"No existe, es vertical"
+],
+"correcta": 2,
+"porque": "La recta es vertical y no se puede dividir entre 0."
+},
+{
+"pregunta": "¿Cuál es la pendiente entre $(0, 0)$ y $(4, 2)$?",
+"opciones": [
+"Es $\\frac{1}{2}$, sube menos",
+"Es 2, sube más",
+"Es 4, avanza todo"
+],
+"correcta": 0,
+"porque": "Sube 2 y avanza 4, así que $m = \\frac{2}{4} = \\frac{1}{2}$."
+},
+{
+"pregunta": "Una rampa sube 2 cuadros y avanza 8. ¿Cuál es su pendiente?",
+"opciones": [
+"Es $\\frac{1}{4}$, sube poco",
+"Es 4, sube mucho",
+"Es 10, suma todo"
+],
+"correcta": 0,
+"porque": "Sube entre avanza: $\\frac{2}{8} = \\frac{1}{4}$."
+}
+],
+"proporcionalidad-directa-ecuacion-recta": [
+{
+"pregunta": "5 kg de limones cuestan 60 pesos. ¿Cuál es la ecuación del precio $y$?",
+"opciones": [
+"$y = 5x$",
+"$y = 12x$",
+"$y = 60x$"
+],
+"correcta": 1,
+"porque": "$k = \\frac{60}{5} = 12$ pesos por kilo."
+},
+{
+"pregunta": "Si $y = 9x$, ¿cuánto vale $y$ cuando $x = 3$?",
+"opciones": [
+"Vale 27",
+"Vale 6",
+"Vale 12"
+],
+"correcta": 0,
+"porque": "Se multiplica $9 \\times 3 = 27$."
+},
+{
+"pregunta": "Los puntos $(2, 6)$ y $(5, 15)$, ¿están en proporcionalidad directa?",
+"opciones": [
+"Sí, los dos dan $k = 3$",
+"No, porque no suben igual",
+"No, porque no empiezan en 0"
+],
+"correcta": 0,
+"porque": "Al dividir $\\frac{6}{2}$ y $\\frac{15}{5}$ sale 3 las dos veces."
+},
+{
+"pregunta": "Una recta pasa por el origen y por $(3, 12)$. ¿Cuál es su ecuación?",
+"opciones": [
+"$y = 4x$",
+"$y = 9x$",
+"$y = 12x$"
+],
+"correcta": 0,
+"porque": "$k = \\frac{12}{3} = 4$."
+},
+{
+"pregunta": "4 cuadernos cuestan 80 pesos. ¿Cuál es la ecuación?",
+"opciones": [
+"$y = 4x$",
+"$y = 20x$",
+"$y = 80x$"
+],
+"correcta": 1,
+"porque": "Cada cuaderno cuesta $\\frac{80}{4} = 20$ pesos."
+}
+],
+"punto-medio-prepa": [
+{
+"pregunta": "¿Cuál es el punto medio de $(2, 4)$ y $(10, 8)$?",
+"opciones": [
+"$(8, 4)$",
+"$(6, 6)$",
+"$(12, 12)$"
+],
+"correcta": 1,
+"porque": "Se promedia: $\\frac{2 + 10}{2} = 6$ y $\\frac{4 + 8}{2} = 6$."
+},
+{
+"pregunta": "¿Cuál es el punto medio de $(-6, 3)$ y $(2, -1)$?",
+"opciones": [
+"$(-4, 2)$",
+"$(-2, 1)$",
+"$(2, -1)$"
+],
+"correcta": 1,
+"porque": "$\\frac{-6 + 2}{2} = -2$ y $\\frac{3 - 1}{2} = 1$."
+},
+{
+"pregunta": "¿Cuál es el punto medio de $(0, -4)$ y $(8, 6)$?",
+"opciones": [
+"$(4, 5)$",
+"$(8, 2)$",
+"$(4, 1)$"
+],
+"correcta": 2,
+"porque": "$\\frac{0 + 8}{2} = 4$ y $\\frac{-4 + 6}{2} = 1$."
+},
+{
+"pregunta": "$M(5, 2)$ es el punto medio y $A(1, 0)$ un extremo. ¿Cuál es $B$?",
+"opciones": [
+"$(6, 2)$",
+"$(9, 4)$",
+"$(3, 1)$"
+],
+"correcta": 1,
+"porque": "Con $\\frac{1 + x}{2} = 5$ sale $x = 9$, y con $y$ sale 4."
+},
+{
+"pregunta": "Dos amigos están en las posiciones 3 y 11 de una recta. ¿Dónde se ven a la mitad?",
+"opciones": [
+"En la posición 8",
+"En la posición 7",
+"En la posición 14"
+],
+"correcta": 1,
+"porque": "Se promedia: $\\frac{3 + 11}{2} = 7$."
+}
+],
+"razones-trigonometricas-preparatoria": [
+{
+"pregunta": "Catetos 9 y 12. ¿Cuánto vale $\\sin\\theta$ del ángulo opuesto al cateto 9?",
+"opciones": [
+"Vale $\\frac{4}{5}$",
+"Vale $\\frac{3}{4}$",
+"Vale $\\frac{3}{5}$"
+],
+"correcta": 2,
+"porque": "La hipotenusa es 15, y $\\frac{9}{15} = \\frac{3}{5}$."
+},
+{
+"pregunta": "Hipotenusa 13 y cateto adyacente 5. ¿Cuánto vale $\\cos\\theta$?",
+"opciones": [
+"Vale $\\frac{13}{5}$",
+"Vale $\\frac{5}{13}$",
+"Vale $\\frac{12}{13}$"
+],
+"correcta": 1,
+"porque": "El coseno es adyacente entre hipotenusa."
+},
+{
+"pregunta": "Opuesto 6 y adyacente 8. ¿Cuánto vale $\\tan\\theta$?",
+"opciones": [
+"Vale $\\frac{3}{4}$",
+"Vale $\\frac{3}{5}$",
+"Vale $\\frac{4}{3}$"
+],
+"correcta": 0,
+"porque": "La tangente es opuesto entre adyacente: $\\frac{6}{8} = \\frac{3}{4}$."
+},
+{
+"pregunta": "Si $\\tan\\theta = 2$ y el adyacente mide 5, ¿cuánto mide el opuesto?",
+"opciones": [
+"Mide 7",
+"Mide 10",
+"Mide 2.5"
+],
+"correcta": 1,
+"porque": "El opuesto es la tangente por el adyacente: $2 \\times 5 = 10$."
+},
+{
+"pregunta": "¿Qué significa la S de SOH en el seno?",
+"opciones": [
+"Opuesto entre hipotenusa",
+"Adyacente entre hipotenusa",
+"Opuesto entre adyacente"
+],
+"correcta": 0,
+"porque": "SOH quiere decir seno, opuesto y hipotenusa."
+}
+],
+"recta-y-punto-geometria-analitica-preparatoria": [
+{
+"pregunta": "¿Cuál es la distancia entre $(1, 1)$ y $(7, 9)$?",
+"opciones": [
+"Es 10",
+"Es 14",
+"Es 2"
+],
+"correcta": 0,
+"porque": "$\\sqrt{6^2 + 8^2} = \\sqrt{100} = 10$."
+},
+{
+"pregunta": "¿Cuál es la pendiente de la recta por $(2, 3)$ y $(4, 9)$?",
+"opciones": [
+"Es 3",
+"Es 6",
+"Es $\\frac{1}{3}$"
+],
+"correcta": 0,
+"porque": "Sube 6 y avanza 2, así que $m = 3$."
+},
+{
+"pregunta": "¿Cuál es la ecuación de la recta por $(1, 3)$ y $(3, 7)$?",
+"opciones": [
+"$y = 2x + 1$",
+"$y = x + 2$",
+"$y = 2x + 3$"
+],
+"correcta": 0,
+"porque": "Con $m = 2$, de $3 = 2(1) + b$ sale $b = 1$."
+},
+{
+"pregunta": "Pendiente 4 y cruza el eje $y$ en 5. ¿Cuál es la recta?",
+"opciones": [
+"$y = 4x - 5$",
+"$y = 5x + 4$",
+"$y = 4x + 5$"
+],
+"correcta": 2,
+"porque": "En $y = mx + b$, $m$ es 4 y $b$ es 5."
+},
+{
+"pregunta": "En una ciudad en cuadrícula, ¿qué representa el punto $(x, y)$?",
+"opciones": [
+"Una distancia",
+"Una esquina",
+"Una pendiente"
+],
+"correcta": 1,
+"porque": "Un punto es una esquina, con su lugar de lado y de arriba."
+}
+],
+"rectas-paralelas-y-perpendiculares-prepa": [
+{
+"pregunta": "¿Cuál es la pendiente perpendicular a $m = \\frac{3}{4}$?",
+"opciones": [
+"$\\frac{4}{3}$",
+"$-\\frac{3}{4}$",
+"$-\\frac{4}{3}$"
+],
+"correcta": 2,
+"porque": "Se voltea la fracción y se cambia el signo."
+},
+{
+"pregunta": "¿Son paralelas $y = 5x - 1$ y $y = 5x + 4$?",
+"opciones": [
+"No, tienen distinta ordenada",
+"No, porque se cruzan",
+"Sí, tienen la misma pendiente"
+],
+"correcta": 2,
+"porque": "Las paralelas tienen igual pendiente, aunque cruces distinto."
+},
+{
+"pregunta": "¿Son perpendiculares $y = 3x$ y $y = -3x$?",
+"opciones": [
+"No, porque el producto es $-9$",
+"Sí, porque son iguales",
+"Sí, porque cambia el signo"
+],
+"correcta": 0,
+"porque": "Para ser perpendiculares el producto debe ser $-1$."
+},
+{
+"pregunta": "¿Cuál es la paralela a $y = 2x + 3$ que pasa por $(1, 4)$?",
+"opciones": [
+"$y = -\\frac{1}{2}x + 4$",
+"$y = 2x + 2$",
+"$y = 2x + 4$"
+],
+"correcta": 1,
+"porque": "Copias la pendiente: $y - 4 = 2(x - 1)$ da $y = 2x + 2$."
+},
+{
+"pregunta": "En las vías de un tren, los dos rieles nunca se tocan. ¿Qué son?",
+"opciones": [
+"Rectas que se cruzan",
+"Rectas paralelas",
+"Rectas perpendiculares"
+],
+"correcta": 1,
+"porque": "Dos rectas con la misma inclinación que no se tocan son paralelas."
+}
+]
+}

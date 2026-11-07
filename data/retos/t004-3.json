@@ -1,0 +1,522 @@
+{
+"volumen-del-cubo-primaria": [
+{
+"pregunta": "¿Cuánto mide el volumen de un cubo de arista 6 cm?",
+"opciones": [
+"36 cm³, porque solo se multiplican dos lados",
+"216 cm³",
+"18 cm³"
+],
+"correcta": 1,
+"porque": "Se multiplica 6 por 6 por 6 y da 216 cm³."
+},
+{
+"pregunta": "Armas un cubo con bloques, con 2 bloques de arista. ¿Cuántos bloques usas?",
+"opciones": [
+"8",
+"4",
+"6"
+],
+"correcta": 0,
+"porque": "Son 2 capas de 4 bloques, o sea 2 por 2 por 2: 8."
+},
+{
+"pregunta": "Un cubo tiene volumen de 64 cm³. ¿Cuánto mide su arista?",
+"opciones": [
+"4 cm",
+"32 cm, porque se divide entre 2",
+"8 cm"
+],
+"correcta": 0,
+"porque": "El número que multiplicado tres veces da 64 es 4."
+},
+{
+"pregunta": "¿Cuántos litros son 3000 cm³?",
+"opciones": [
+"3 L",
+"300 L",
+"30 L"
+],
+"correcta": 0,
+"porque": "1000 cm³ son 1 L, así que 3000 cm³ son 3 L."
+},
+{
+"pregunta": "¿Cuál es la fórmula del volumen del cubo?",
+"opciones": [
+"$V = l + l + l$, porque se suman las aristas",
+"$V = l \\times 3$",
+"$V = l \\times l \\times l$"
+],
+"correcta": 2,
+"porque": "En el cubo se multiplica la arista por sí misma tres veces."
+}
+],
+"volumen-del-prisma-rectangular-primaria": [
+{
+"pregunta": "Una caja mide 5 cm de largo, 4 cm de ancho y 3 cm de alto. ¿Cuál es su volumen?",
+"opciones": [
+"60 cm³",
+"12 cm³",
+"20 cm³"
+],
+"correcta": 0,
+"porque": "Se multiplica largo por ancho por alto: 5 por 4 por 3 son 60."
+},
+{
+"pregunta": "La base de una caja tiene área de 30 cm² y su altura es 4 cm. ¿Cuál es el volumen?",
+"opciones": [
+"34 cm³",
+"120 cm³",
+"26 cm³, porque se resta la altura"
+],
+"correcta": 1,
+"porque": "Se multiplica el área de la base por la altura: 30 por 4 son 120."
+},
+{
+"pregunta": "Una caja de zapatos mide 30 cm por 20 cm por 10 cm. ¿Cuántos litros caben?",
+"opciones": [
+"6 L",
+"600 L",
+"60 L"
+],
+"correcta": 0,
+"porque": "30 por 20 por 10 son 6000 cm³, y 1000 cm³ son 1 L."
+},
+{
+"pregunta": "Una caja tiene volumen de 60 cm³, largo de 5 cm y ancho de 4 cm. ¿Cuánto mide el alto?",
+"opciones": [
+"3 cm",
+"12 cm",
+"51 cm, porque se resta 5 y 4 de 60"
+],
+"correcta": 0,
+"porque": "La base mide 20 cm², y 60 entre 20 es 3 cm."
+},
+{
+"pregunta": "¿Qué dice la fórmula del volumen del prisma rectangular?",
+"opciones": [
+"Largo más ancho más alto sin multiplicar nada",
+"Largo por ancho",
+"Largo por ancho por alto"
+],
+"correcta": 2,
+"porque": "El volumen mide cuánto cabe, y se multiplican las tres medidas."
+}
+],
+"adjetivos-primaria": [
+{
+"pregunta": "¿Cuál es el adjetivo en *El gato blanco*?",
+"opciones": [
+"El",
+"blanco",
+"gato"
+],
+"correcta": 1,
+"porque": "El adjetivo dice cómo es el gato: blanco."
+},
+{
+"pregunta": "¿Qué pregunta te ayuda a encontrar un adjetivo?",
+"opciones": [
+"¿Dónde está, y a qué hora llegó?",
+"¿Cómo es?",
+"¿Quién es?"
+],
+"correcta": 1,
+"porque": "El adjetivo dice cómo es el sustantivo."
+},
+{
+"pregunta": "Corrige: *los perros negra*",
+"opciones": [
+"las perros negras",
+"los perro negra",
+"los perros negros"
+],
+"correcta": 2,
+"porque": "El adjetivo combina con el sustantivo: perros es plural y masculino."
+},
+{
+"pregunta": "¿Cuál es el adjetivo en *La mochila nueva*?",
+"opciones": [
+"nueva",
+"La",
+"mochila"
+],
+"correcta": 0,
+"porque": "Nueva dice cómo es la mochila."
+},
+{
+"pregunta": "¿Cuál de estas palabras es un adjetivo?",
+"opciones": [
+"pequeña",
+"corre, porque dice lo que hace una persona",
+"casa"
+],
+"correcta": 0,
+"porque": "Pequeña dice cómo es algo, y casa y corre no."
+}
+],
+"arte-e-identidad-primaria": [
+{
+"pregunta": "¿Qué muestra el arte según el tema?",
+"opciones": [
+"Solo lo que otros quieren que veamos y nadie más",
+"Cuánto cuesta una pintura",
+"Quiénes somos y de dónde venimos"
+],
+"correcta": 2,
+"porque": "El arte nos ayuda a mostrar nuestra identidad."
+},
+{
+"pregunta": "¿Con qué puedes contar tu historia?",
+"opciones": [
+"Solo con una tarea escrita por otra persona",
+"Con música, danza o pintura",
+"Solo con números"
+],
+"correcta": 1,
+"porque": "Con música, danza o pintura cuentas quién eres."
+},
+{
+"pregunta": "Un mural pintado por todo el grupo muestra...",
+"opciones": [
+"Que nadie se pone de acuerdo",
+"Solo lo que le gusta a una persona",
+"Lo que el grupo comparte"
+],
+"correcta": 2,
+"porque": "Un mural en grupo expresa una identidad colectiva."
+},
+{
+"pregunta": "Dibujas algo que representa a tu familia. ¿Qué estás mostrando?",
+"opciones": [
+"Tu identidad",
+"Un letrero",
+"Una operación"
+],
+"correcta": 0,
+"porque": "El arte muestra quién eres y de dónde vienes."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de arte hecho por un grupo?",
+"opciones": [
+"Un dibujo que haces tú solo en tu cuaderno",
+"Un baile que hacen todos juntos",
+"Una lista de útiles"
+],
+"correcta": 1,
+"porque": "Cuando varias personas bailan juntas, expresan algo que comparten."
+}
+],
+"avisos-carteles-anuncios-letreros-primaria": [
+{
+"pregunta": "¿Cuál de estos textos es un aviso?",
+"opciones": [
+"¿Quién se comió mi galleta?",
+"Hoy no hay clases.",
+"Había una vez un dragón"
+],
+"correcta": 1,
+"porque": "Un aviso dice algo importante en pocas palabras."
+},
+{
+"pregunta": "¿Cómo debe ser la letra de un cartel?",
+"opciones": [
+"Grande",
+"Borrosa",
+"Muy pequeña, para que quepa más texto"
+],
+"correcta": 0,
+"porque": "Un cartel debe leerse de lejos, por eso lleva letra grande."
+},
+{
+"pregunta": "¿Qué texto es un letrero?",
+"opciones": [
+"Salida de emergencia",
+"Querida abuela, te quiero",
+"Mañana traigan colores"
+],
+"correcta": 0,
+"porque": "Un letrero es un texto corto que se lee de lejos."
+},
+{
+"pregunta": "¿Qué tiene un cartel que lo hace llamar la atención?",
+"opciones": [
+"Ninguna imagen, para que no distraiga",
+"Un dibujo grande",
+"Mucho texto en letra chica"
+],
+"correcta": 1,
+"porque": "El dibujo grande ayuda a que la gente lo vea."
+},
+{
+"pregunta": "¿Cómo debe ser un aviso?",
+"opciones": [
+"Con pocas palabras y mensaje claro",
+"Muy largo y con muchos datos que no importan",
+"Escrito en secreto"
+],
+"correcta": 0,
+"porque": "Un buen aviso se lee rápido y se entiende."
+}
+],
+"canciones-rondas-arrullos-cuentos-primaria-1-2": [
+{
+"pregunta": "¿Cómo se canta una ronda?",
+"opciones": [
+"Sin música y en silencio total",
+"En círculo",
+"Acostado en la cama"
+],
+"correcta": 1,
+"porque": "Una ronda se canta y se juega en círculo."
+},
+{
+"pregunta": "Cantas muy suave *duérmete, niño* para que un bebé se duerma. ¿Qué canción es?",
+"opciones": [
+"Un arrullo",
+"Un estribillo",
+"Una ronda"
+],
+"correcta": 0,
+"porque": "El arrullo es una canción suave para dormir a un bebé."
+},
+{
+"pregunta": "¿Con quién se comparten canciones, rondas y arrullos?",
+"opciones": [
+"Con nadie, porque son secretos",
+"Con la familia y la comunidad",
+"Solo con los maestros de la escuela"
+],
+"correcta": 1,
+"porque": "Estos textos con ritmo se comparten en familia."
+},
+{
+"pregunta": "¿Para qué sirve un arrullo?",
+"opciones": [
+"Para calmar y dormir a un bebé",
+"Para pedir permiso",
+"Para jugar en el recreo"
+],
+"correcta": 0,
+"porque": "El arrullo es una canción suave que da calma."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de ronda?",
+"opciones": [
+"Niños tomados de la mano cantando en círculo",
+"Un bebé dormido en una cuna con música suave",
+"Una lista de útiles escolares"
+],
+"correcta": 0,
+"porque": "En la ronda todos cantan y giran en círculo."
+}
+],
+"comprender-lo-que-leo-de-que-trata-primaria": [
+{
+"pregunta": "*Beto comió un mango dulce en el patio.* ¿De qué trata?",
+"opciones": [
+"De un niño que comió un mango",
+"De un niño que perdió su mochila",
+"De un mango que se cayó del árbol y nadie lo encontró"
+],
+"correcta": 0,
+"porque": "El texto cuenta quién fue Beto y qué hizo: comió un mango."
+},
+{
+"pregunta": "Si no entiendes algo de lo que lees, ¿qué haces?",
+"opciones": [
+"Cierro el libro y ya no leo más",
+"Vuelvo a leerlo",
+"Lo salto y sigo"
+],
+"correcta": 1,
+"porque": "Leer otra vez despacio ayuda a entender."
+},
+{
+"pregunta": "¿Qué preguntas ayudan a comprender un texto?",
+"opciones": [
+"¿Cuánto cuesta?",
+"¿Cuántas hojas tiene, de qué color y quién lo imprimió?",
+"¿Quién?, ¿qué pasó? y ¿dónde?"
+],
+"correcta": 2,
+"porque": "Con quién, qué pasó y dónde sabes de qué trata."
+},
+{
+"pregunta": "*Lupe regó las plantas del salón porque estaban secas.* ¿Quién regó las plantas?",
+"opciones": [
+"El salón de clases",
+"Las plantas del salón",
+"Lupe, quien las regó"
+],
+"correcta": 2,
+"porque": "El texto dice que Lupe regó las plantas."
+},
+{
+"pregunta": "¿Qué haces primero antes de leer un texto?",
+"opciones": [
+"Miro el título y los dibujos",
+"Leo solo la última palabra",
+"Cuento todas las letras del texto antes de empezar"
+],
+"correcta": 0,
+"porque": "El título y los dibujos dan pistas de qué trata."
+}
+],
+"comunicacion-a-distancia-primaria": [
+{
+"pregunta": "¿Con qué empieza un mensaje para un familiar?",
+"opciones": [
+"Con un número",
+"Con la despedida",
+"Con un saludo"
+],
+"correcta": 2,
+"porque": "Un mensaje empieza con un saludo y tu nombre."
+},
+{
+"pregunta": "¿Con qué termina un mensaje?",
+"opciones": [
+"Con el saludo",
+"Con una despedida",
+"Con otra noticia sin despedirte de nadie"
+],
+"correcta": 1,
+"porque": "Al final te despides, por ejemplo con un abrazo."
+},
+{
+"pregunta": "Llamas a tu abuela. ¿Qué dices primero?",
+"opciones": [
+"Una noticia larga, sin saludar a nadie primero",
+"Hola, abuela, soy yo",
+"Adiós, abuela"
+],
+"correcta": 1,
+"porque": "Lo primero es saludar y decir quién eres."
+},
+{
+"pregunta": "¿Cuál mensaje está en orden?",
+"opciones": [
+"Adiós. Ya entré a la escuela. Hola, abuela.",
+"Ya entré a la escuela. Adiós, abuela, y después hola",
+"Hola, abuela. Ya entré a la escuela. Te quiero. Adiós."
+],
+"correcta": 2,
+"porque": "El orden es saludo, noticia y despedida."
+},
+{
+"pregunta": "En un mensaje, ¿qué es la noticia?",
+"opciones": [
+"El nombre de quien recibe la carta, escrito al final",
+"El saludo",
+"Lo que quieres contar"
+],
+"correcta": 2,
+"porque": "La noticia es la parte donde cuentas algo."
+}
+],
+"convenciones-de-la-escritura-cotidiana-primaria": [
+{
+"pregunta": "Corrige: *mi mamá cocina*",
+"opciones": [
+"Mi mamá cocina.",
+"mi mamá cocina",
+"Mi mamá cocina,"
+],
+"correcta": 0,
+"porque": "Empieza con mayúscula y termina con punto."
+},
+{
+"pregunta": "¿En qué sentido se escribe en español?",
+"opciones": [
+"De derecha a izquierda",
+"De izquierda a derecha",
+"De abajo hacia arriba, empezando por la última letra"
+],
+"correcta": 1,
+"porque": "En español escribimos de izquierda a derecha."
+},
+{
+"pregunta": "¿Qué debe haber entre una palabra y otra?",
+"opciones": [
+"Nada, porque las palabras van pegadas siempre",
+"Un dibujo",
+"Un espacio"
+],
+"correcta": 2,
+"porque": "Los espacios ayudan a leer cada palabra."
+},
+{
+"pregunta": "¿Cuál oración está bien escrita?",
+"opciones": [
+"hoy llueve mucho",
+"Hoy llueve mucho.",
+"Hoy llueve mucho,"
+],
+"correcta": 1,
+"porque": "Lleva mayúscula al empezar y punto al terminar."
+},
+{
+"pregunta": "¿Con qué se termina una oración?",
+"opciones": [
+"Con una mayúscula",
+"Con un punto",
+"Con un espacio y una letra pequeña, sin otra marca"
+],
+"correcta": 1,
+"porque": "El punto marca el final de la oración."
+}
+],
+"descripcion-objetos-lugares-seres-vivos-primaria": [
+{
+"pregunta": "¿Cuál oración describe a un gato?",
+"opciones": [
+"Mi gato corre ayer.",
+"Mi gato es gris y suave.",
+"Fui a la escuela con mi tía y mi primo."
+],
+"correcta": 1,
+"porque": "Describir es decir cómo es algo, y gris y suave dicen cómo es."
+},
+{
+"pregunta": "¿Qué es describir?",
+"opciones": [
+"Contar un chiste",
+"Decir cuántos años tiene una persona y nada más",
+"Decir cómo es algo"
+],
+"correcta": 2,
+"porque": "Al describir dices color, forma, tamaño y más detalles."
+},
+{
+"pregunta": "En *Mi gorra es roja*, ¿qué característica se dice?",
+"opciones": [
+"La forma",
+"El tamaño",
+"El color"
+],
+"correcta": 2,
+"porque": "Roja dice de qué color es la gorra."
+},
+{
+"pregunta": "¿Cuál de estas cosas puede decir una descripción?",
+"opciones": [
+"Color, forma y tamaño",
+"Solo un número",
+"El precio de todo lo que hay en la tienda de la escuela"
+],
+"correcta": 0,
+"porque": "Para describir usas color, forma, tamaño y lo que hace."
+},
+{
+"pregunta": "¿Cuál es una característica de una pelota?",
+"opciones": [
+"Es cuadrada",
+"Tiene cuatro patas y ladra mucho",
+"Es redonda"
+],
+"correcta": 2,
+"porque": "Una pelota tiene forma redonda."
+}
+]
+}

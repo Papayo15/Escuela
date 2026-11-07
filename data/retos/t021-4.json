@@ -1,0 +1,470 @@
+{
+"golfos-mares-y-litorales-de-mexico-secundaria": [
+{
+"pregunta": "¿Qué es un golfo?",
+"opciones": [
+"Una parte de mar que entra en la tierra",
+"Una montaña dentro del mar",
+"Una isla en medio del mar"
+],
+"correcta": 0,
+"porque": "Un golfo es mar que se mete hacia la costa."
+},
+{
+"pregunta": "¿Cuál de estos puertos está en el Atlántico?",
+"opciones": [
+"Mazatlán",
+"Progreso",
+"Acapulco"
+],
+"correcta": 1,
+"porque": "Progreso da al Golfo de México, en el Atlántico."
+},
+{
+"pregunta": "¿Qué es un litoral?",
+"opciones": [
+"La franja de costa",
+"Una parte del desierto",
+"Un río muy largo"
+],
+"correcta": 0,
+"porque": "El litoral es la franja de tierra que toca el mar."
+},
+{
+"pregunta": "¿Qué dos aguas están al este de México?",
+"opciones": [
+"El Pacífico y el mar de Cortés",
+"El Golfo de México y el Caribe",
+"El Caribe y el Pacífico"
+],
+"correcta": 1,
+"porque": "Al este están el Golfo de México y el Mar Caribe."
+},
+{
+"pregunta": "Coloreas los mares que tocan México. ¿Qué océano pones al oeste?",
+"opciones": [
+"El Atlántico",
+"El Pacífico",
+"El Ártico"
+],
+"correcta": 1,
+"porque": "México tiene costa en el Pacífico, al oeste."
+}
+],
+"grandes-biomas-del-mundo-secundaria": [
+{
+"pregunta": "¿Qué bioma tiene cactus?",
+"opciones": [
+"El desierto",
+"La tundra",
+"La taiga"
+],
+"correcta": 0,
+"porque": "Los cactus viven en lugares secos como el desierto."
+},
+{
+"pregunta": "¿Cómo se llama el bosque frío de Rusia y Canadá?",
+"opciones": [
+"Taiga",
+"Selva",
+"Sabana"
+],
+"correcta": 0,
+"porque": "La taiga es un bosque frío con muchos pinos."
+},
+{
+"pregunta": "¿Qué bioma es muy frío y casi sin árboles?",
+"opciones": [
+"La tundra",
+"La selva",
+"El bosque templado"
+],
+"correcta": 0,
+"porque": "La tundra es muy fría y solo tiene musgos y plantas bajas."
+},
+{
+"pregunta": "¿En qué parte del mundo hay bosque templado, según el texto?",
+"opciones": [
+"En Europa",
+"En el Polo Sur",
+"En el Sahara"
+],
+"correcta": 0,
+"porque": "El bosque templado es típico de Europa."
+},
+{
+"pregunta": "¿Qué es un bioma?",
+"opciones": [
+"Una planta pequeña que crece en el patio",
+"Un animal muy grande que vive en el mar",
+"Una región con clima y seres vivos propios"
+],
+"correcta": 2,
+"porque": "Un bioma es una gran región con clima y seres vivos característicos."
+}
+],
+"husos-horarios-secundaria": [
+{
+"pregunta": "Si en Greenwich son las 20:00, ¿qué hora es en UTC−6?",
+"opciones": [
+"18:00",
+"2:00",
+"14:00"
+],
+"correcta": 2,
+"porque": "UTC−6 es 6 horas menos: 20 menos 6 son 14."
+},
+{
+"pregunta": "Viajas hacia el oeste. ¿Qué haces con la hora?",
+"opciones": [
+"La sumas",
+"La restas",
+"La dejas igual"
+],
+"correcta": 1,
+"porque": "Hacia el oeste se resta hora."
+},
+{
+"pregunta": "Viajas 30° hacia el este. ¿Cuántas horas cambia el reloj?",
+"opciones": [
+"Se restan 2 horas",
+"Se suman 2 horas",
+"Se suman 30 horas"
+],
+"correcta": 1,
+"porque": "Cada 15° cambia una hora y 30 entre 15 son 2."
+},
+{
+"pregunta": "¿Qué significa UTC−6?",
+"opciones": [
+"6 grados al norte",
+"6 horas más que Greenwich",
+"6 horas menos que Greenwich"
+],
+"correcta": 2,
+"porque": "El número dice cuántas horas hay de diferencia con Greenwich."
+},
+{
+"pregunta": "Japón está muy al este de México. ¿Qué pasa con su hora?",
+"opciones": [
+"Es igual a la tuya",
+"Es más temprano que la tuya",
+"Es más tarde que la tuya"
+],
+"correcta": 2,
+"porque": "Hacia el este se suma hora, así que allá es más tarde."
+}
+],
+"lagos-mas-importantes-del-mundo-secundaria": [
+{
+"pregunta": "¿Cuál es el mayor lago del mundo?",
+"opciones": [
+"El Caspio",
+"El Victoria",
+"El Superior"
+],
+"correcta": 0,
+"porque": "El Caspio es el mayor y su agua es salada."
+},
+{
+"pregunta": "¿Qué lago es el mayor de agua dulce por superficie?",
+"opciones": [
+"El Superior",
+"El Caspio",
+"El Baikal"
+],
+"correcta": 0,
+"porque": "El Superior es el más grande entre los lagos de agua dulce."
+},
+{
+"pregunta": "El lago Baikal destaca por ser el más...",
+"opciones": [
+"Pequeño",
+"Profundo",
+"Salado"
+],
+"correcta": 1,
+"porque": "El Baikal es el lago más profundo del mundo."
+},
+{
+"pregunta": "¿Entre qué países están los Grandes Lagos?",
+"opciones": [
+"Rusia y China",
+"Canadá y Estados Unidos",
+"Perú y Bolivia"
+],
+"correcta": 1,
+"porque": "Los Grandes Lagos están entre Canadá y Estados Unidos."
+},
+{
+"pregunta": "Quieres ubicar el lago más profundo en un mapa. ¿Dónde buscas?",
+"opciones": [
+"En Rusia",
+"En Perú",
+"En África"
+],
+"correcta": 0,
+"porque": "El Baikal está en Rusia."
+}
+],
+"lagos-y-lagunas-de-mexico-secundaria": [
+{
+"pregunta": "¿Entre qué estados está el lago de Chapala?",
+"opciones": [
+"Sonora y Chihuahua",
+"Yucatán y Campeche",
+"Jalisco y Michoacán"
+],
+"correcta": 2,
+"porque": "Chapala está entre Jalisco y Michoacán."
+},
+{
+"pregunta": "¿En qué estado está el lago de Cuitzeo?",
+"opciones": [
+"Jalisco",
+"Veracruz",
+"Michoacán"
+],
+"correcta": 2,
+"porque": "Cuitzeo es uno de los lagos de Michoacán."
+},
+{
+"pregunta": "¿En qué se diferencia una laguna de un lago?",
+"opciones": [
+"Siempre tiene agua salada",
+"Es más pequeña y menos profunda",
+"Es más grande y más honda"
+],
+"correcta": 1,
+"porque": "Una laguna es más chica y poco profunda."
+},
+{
+"pregunta": "¿Cuál de estas es una laguna?",
+"opciones": [
+"Pátzcuaro",
+"Bacalar",
+"Chapala"
+],
+"correcta": 1,
+"porque": "Bacalar, Catemaco y Términos son lagunas."
+},
+{
+"pregunta": "Ves un lago con mucha basura. ¿Qué problema tiene?",
+"opciones": [
+"Un tsunami",
+"Contaminación",
+"Una sequía"
+],
+"correcta": 1,
+"porque": "Los lagos sufren contaminación por la basura y el mal uso."
+}
+],
+"leer-un-mapa-secundaria": [
+{
+"pregunta": "¿Qué parte del mapa dice cuántas veces se redujo el lugar?",
+"opciones": [
+"El título",
+"La escala",
+"La rosa de los vientos"
+],
+"correcta": 1,
+"porque": "La escala relaciona la medida del mapa con la real."
+},
+{
+"pregunta": "¿Cuál de estos es un tipo de mapa?",
+"opciones": [
+"El invisible",
+"El imaginario",
+"El temático"
+],
+"correcta": 2,
+"porque": "Los mapas pueden ser físicos, políticos o temáticos."
+},
+{
+"pregunta": "¿Qué haces primero al leer un mapa?",
+"opciones": [
+"Leer el título",
+"Contar los colores",
+"Doblar el mapa"
+],
+"correcta": 0,
+"porque": "El título dice de qué trata el mapa."
+},
+{
+"pregunta": "En el mapa de tu salón hay un triángulo azul. ¿Dónde ves qué significa?",
+"opciones": [
+"En la fecha",
+"En el título",
+"En la simbología"
+],
+"correcta": 2,
+"porque": "La simbología explica cada color o signo."
+},
+{
+"pregunta": "¿Qué es un mapa?",
+"opciones": [
+"Un dibujo plano de la Tierra",
+"Un libro de cuentos y fábulas",
+"Una foto del cielo de noche"
+],
+"correcta": 0,
+"porque": "Un mapa es una representación plana y reducida de la Tierra."
+}
+],
+"mares-del-mundo-secundaria": [
+{
+"pregunta": "¿Qué mar está entre Europa y Asia?",
+"opciones": [
+"El Mar Báltico",
+"El Mar Rojo",
+"El Mar Negro"
+],
+"correcta": 2,
+"porque": "El Mar Negro queda entre Europa y Asia."
+},
+{
+"pregunta": "¿En qué parte del mundo está el Mar Báltico?",
+"opciones": [
+"En el sur de África",
+"En el norte de Europa",
+"En el centro de Asia"
+],
+"correcta": 1,
+"porque": "El Báltico está al norte de Europa."
+},
+{
+"pregunta": "¿Qué es en realidad el Mar Muerto?",
+"opciones": [
+"Un océano pequeño",
+"Un lago muy salado",
+"Un río largo"
+],
+"correcta": 1,
+"porque": "Se llama mar, pero en realidad es un lago."
+},
+{
+"pregunta": "¿Qué es un mar?",
+"opciones": [
+"Agua dulce de una laguna",
+"El agua de un río",
+"Agua salada más pequeña que un océano"
+],
+"correcta": 2,
+"porque": "Un mar es un pedazo chico de un gran océano."
+},
+{
+"pregunta": "¿En qué parte del mundo está el Mar Caribe?",
+"opciones": [
+"En Asia",
+"En Europa",
+"En América"
+],
+"correcta": 2,
+"porque": "El Caribe baña tierras de América."
+}
+],
+"montanas-y-cordilleras-del-mundo-secundaria": [
+{
+"pregunta": "¿En qué cordillera está el Everest?",
+"opciones": [
+"El Himalaya",
+"Los Alpes",
+"Los Andes"
+],
+"correcta": 0,
+"porque": "El Everest, de 8849 m, es el pico más alto del Himalaya."
+},
+{
+"pregunta": "¿En qué cordillera está el Aconcagua?",
+"opciones": [
+"Los Andes",
+"El Himalaya",
+"Las Rocallosas"
+],
+"correcta": 0,
+"porque": "El Aconcagua está en los Andes, en Sudamérica."
+},
+{
+"pregunta": "¿En qué continente están las Rocallosas?",
+"opciones": [
+"En Norteamérica",
+"En Europa",
+"En África"
+],
+"correcta": 0,
+"porque": "Las Rocallosas son montañas de Norteamérica."
+},
+{
+"pregunta": "Dos alfombras empujadas se levantan. ¿Qué muestran las montañas?",
+"opciones": [
+"El choque de placas",
+"La caída de lluvia",
+"El giro del Sol"
+],
+"correcta": 0,
+"porque": "Las placas chocan y levantan la tierra."
+},
+{
+"pregunta": "¿Cuál de estas montañas está en África?",
+"opciones": [
+"El Kilimanjaro",
+"El Aconcagua",
+"El Everest"
+],
+"correcta": 0,
+"porque": "El Kilimanjaro es una montaña africana."
+}
+],
+"oceanos-y-continentes-secundaria": [
+{
+"pregunta": "¿Cuántos continentes hay, según el texto?",
+"opciones": [
+"Seis",
+"Siete",
+"Cinco"
+],
+"correcta": 0,
+"porque": "Son América, Europa, Asia, África, Oceanía y Antártida."
+},
+{
+"pregunta": "¿Cuántos océanos hay, según el texto?",
+"opciones": [
+"Seis",
+"Cinco",
+"Tres"
+],
+"correcta": 1,
+"porque": "Son Pacífico, Atlántico, Índico, Ártico y Antártico."
+},
+{
+"pregunta": "¿Cuál de estos es un océano?",
+"opciones": [
+"El Caspio",
+"El Caribe",
+"El Índico"
+],
+"correcta": 2,
+"porque": "El Índico es uno de los cinco océanos."
+},
+{
+"pregunta": "¿Cuál de estos es un continente?",
+"opciones": [
+"Pacífico",
+"Oceanía",
+"Ártico"
+],
+"correcta": 1,
+"porque": "Oceanía es un continente; el Pacífico y el Ártico son océanos."
+},
+{
+"pregunta": "En un mapa mudo, ¿qué cubre más de la Tierra, agua o tierra?",
+"opciones": [
+"Cubren lo mismo",
+"El agua, cerca del 71 %",
+"La tierra, cerca del 71 %"
+],
+"correcta": 1,
+"porque": "Casi tres cuartas partes de la Tierra son agua."
+}
+]
+}

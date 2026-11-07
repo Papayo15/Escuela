@@ -1,3 +1,5 @@
+import { ESCUELA } from "./marca";
+
 const URL_CHAT = "https://openrouter.ai/api/v1/chat/completions";
 
 /** Alias de OpenRouter: siempre apuntan a la versión vigente de cada familia. */
@@ -57,7 +59,7 @@ async function solicitar(cuerpo: object, signal?: AbortSignal): Promise<Response
     headers: {
       Authorization: `Bearer ${process.env.OPENROUTER_API_KEY}`,
       "Content-Type": "application/json",
-      "X-Title": "Escuela de regularización",
+      "X-Title": ESCUELA,
     },
     body: JSON.stringify(cuerpo),
     signal,
@@ -144,6 +146,7 @@ export async function* abrirStream(opciones: {
       stream: true,
       max_tokens: 4000,
       messages: opciones.mensajes,
+      ...(opciones.sinRetencion ? {} : { cache_control: { type: "ephemeral" } }),
       provider: { max_price: TOPE_PRECIO, ...(opciones.sinRetencion ? { zdr: true } : {}) },
     },
     opciones.signal,

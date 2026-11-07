@@ -1,0 +1,522 @@
+{
+"subgeneros-narrativos-elementos-discursivos-prepa": [
+{
+"pregunta": "¿Qué relato es más largo y complejo?",
+"opciones": [
+"La fábula",
+"El cuento",
+"La novela"
+],
+"correcta": 2,
+"porque": "La novela es larga y más compleja."
+},
+{
+"pregunta": "¿Qué relato es breve y tiene pocos personajes?",
+"opciones": [
+"El cuento",
+"El poema",
+"La novela"
+],
+"correcta": 0,
+"porque": "El cuento es breve y lleva pocos personajes."
+},
+{
+"pregunta": "¿Cuáles son tipos de relato?",
+"opciones": [
+"Cuento, novela, leyenda y fábula",
+"Soneto, himno, oda y canción",
+"Carta, receta, aviso y mapa"
+],
+"correcta": 0,
+"porque": "Los subgéneros narrativos son cuento, novela, leyenda y fábula."
+},
+{
+"pregunta": "Tu maestra pide un relato que termine con moraleja. ¿Cuál lees?",
+"opciones": [
+"Una novela",
+"Un cuento",
+"Una fábula"
+],
+"correcta": 2,
+"porque": "La fábula deja una moraleja al final."
+},
+{
+"pregunta": "En una fábula, ¿quiénes hablan?",
+"opciones": [
+"Los animales",
+"Las piedras",
+"Los robots"
+],
+"correcta": 0,
+"porque": "La fábula tiene animales que hablan y una moraleja."
+}
+],
+"acidos-bases-ph-prepa": [
+{
+"pregunta": "¿Cómo es una sustancia con pH 4?",
+"opciones": [
+"Neutra",
+"Básica",
+"Ácida"
+],
+"correcta": 2,
+"porque": "Menos de 7 es ácido."
+},
+{
+"pregunta": "¿Cuántas veces más ácida es pH 2 que pH 3?",
+"opciones": [
+"100 veces",
+"2 veces",
+"10 veces"
+],
+"correcta": 2,
+"porque": "Una rayita de diferencia vale 10 veces."
+},
+{
+"pregunta": "¿Cuántas veces más ácida es pH 4 que pH 6?",
+"opciones": [
+"100 veces",
+"10 veces",
+"2 veces"
+],
+"correcta": 0,
+"porque": "Son dos rayitas, y $10 \\times 10 = 100$."
+},
+{
+"pregunta": "¿Qué se forma al juntar un ácido y una base?",
+"opciones": [
+"Una sal y agua",
+"Solo un gas",
+"Un metal y aceite"
+],
+"correcta": 0,
+"porque": "Al neutralizarse, un ácido y una base dan sal y agua."
+},
+{
+"pregunta": "Entre qué números va la escala de pH?",
+"opciones": [
+"7 y 21",
+"1 y 10",
+"0 y 14"
+],
+"correcta": 2,
+"porque": "El pH se mide de 0 a 14, y 7 es neutro."
+}
+],
+"acidos-carboxilicos-y-esteres-prepa": [
+{
+"pregunta": "¿Cómo terminan los nombres de estos ácidos?",
+"opciones": [
+"-ol",
+"-ano",
+"-oico"
+],
+"correcta": 2,
+"porque": "Ácido metanoico y etanoico terminan en -oico."
+},
+{
+"pregunta": "¿Qué sabor le da a la molécula el grupo $\\ce{-COOH}$?",
+"opciones": [
+"Dulce",
+"Salado",
+"Agrio"
+],
+"correcta": 2,
+"porque": "El vagón $\\ce{-COOH}$ hace agria a la molécula."
+},
+{
+"pregunta": "¿A qué huelen muchos ésteres?",
+"opciones": [
+"A pescado",
+"A fruta",
+"A humo"
+],
+"correcta": 1,
+"porque": "Muchos ésteres huelen a fruta."
+},
+{
+"pregunta": "¿Qué flecha dice que el éster puede regresar a ácido y alcohol?",
+"opciones": [
+"Una flecha sola",
+"Una flecha doble",
+"Una raya recta"
+],
+"correcta": 1,
+"porque": "La flecha doble indica que la reacción va en los dos sentidos."
+},
+{
+"pregunta": "Hueles vinagre y una fruta. ¿Cuál tendría más ésteres?",
+"opciones": [
+"La fruta",
+"Ninguno de los dos",
+"El vinagre"
+],
+"correcta": 0,
+"porque": "El vinagre tiene ácido acético, y los ésteres dan olor a fruta."
+}
+],
+"acidos-nucleicos-prepa": [
+{
+"pregunta": "Una cadena de ADN dice AAC. ¿Cuál es la complementaria?",
+"opciones": [
+"UUG",
+"TTG",
+"GGC"
+],
+"correcta": 1,
+"porque": "A se une con T, y C se une con G."
+},
+{
+"pregunta": "¿Qué azúcar tiene el ARN?",
+"opciones": [
+"Desoxirribosa",
+"Glucosa",
+"Ribosa"
+],
+"correcta": 2,
+"porque": "El ARN tiene ribosa y el ADN tiene desoxirribosa."
+},
+{
+"pregunta": "¿Cuántas piezas tiene un nucleótido?",
+"opciones": [
+"Tres",
+"Cuatro",
+"Dos"
+],
+"correcta": 0,
+"porque": "Un nucleótido tiene azúcar, fosfato y base."
+},
+{
+"pregunta": "¿Cuántas cadenas tiene el ARN?",
+"opciones": [
+"Dos",
+"Tres",
+"Una"
+],
+"correcta": 2,
+"porque": "El ARN tiene una cadena y el ADN tiene dos."
+},
+{
+"pregunta": "¿Qué bases tiene el ARN?",
+"opciones": [
+"A, U, T, G",
+"A, U, C, G",
+"A, T, C, G"
+],
+"correcta": 1,
+"porque": "En el ARN, la U entra en lugar de la T."
+}
+],
+"acidos-y-bases-fuertes-y-debiles-prepa": [
+{
+"pregunta": "¿Cuál de estas sustancias es una base fuerte?",
+"opciones": [
+"El amoniaco",
+"El KOH",
+"El vinagre"
+],
+"correcta": 1,
+"porque": "NaOH y KOH son bases fuertes."
+},
+{
+"pregunta": "¿Qué hace una base según Brønsted y Lowry?",
+"opciones": [
+"Acepta iones $\\ce{H+}$",
+"Fabrica iones $\\ce{H+}$",
+"Dona iones $\\ce{H+}$"
+],
+"correcta": 0,
+"porque": "Un ácido dona y una base acepta $\\ce{H+}$."
+},
+{
+"pregunta": "¿Qué flecha se usa para un ácido débil?",
+"opciones": [
+"Un signo de igual",
+"Una flecha doble",
+"Una flecha sola"
+],
+"correcta": 1,
+"porque": "En los débiles se separa y se vuelve a juntar."
+},
+{
+"pregunta": "Con igual cantidad en agua, ¿cuál tiene pH más bajo?",
+"opciones": [
+"$\\ce{HNO3}$",
+"El vinagre",
+"Los dos igual"
+],
+"correcta": 0,
+"porque": "El ácido fuerte suelta más $\\ce{H+}$ y baja más el pH."
+},
+{
+"pregunta": "Un ácido fuerte está muy rebajado con agua. ¿Qué pasa?",
+"opciones": [
+"Sigue siendo fuerte, pero poco concentrado",
+"Se vuelve un ácido débil",
+"Se vuelve una base"
+],
+"correcta": 0,
+"porque": "Fuerte no es lo mismo que mucho."
+}
+],
+"alcanos-prepa": [
+{
+"pregunta": "¿Cuántos hidrógenos tiene un alcano de 5 carbonos?",
+"opciones": [
+"12",
+"11",
+"10"
+],
+"correcta": 0,
+"porque": "Con la fórmula, $5 \\times 2 + 2 = 12$."
+},
+{
+"pregunta": "¿Cómo se llama el alcano de 6 carbonos?",
+"opciones": [
+"Pentano",
+"Heptano",
+"Hexano"
+],
+"correcta": 2,
+"porque": "Hex significa 6 carbonos."
+},
+{
+"pregunta": "¿Cuánto pesa el metano, $\\ce{CH4}$?",
+"opciones": [
+"20 g/mol",
+"14 g/mol",
+"16 g/mol"
+],
+"correcta": 2,
+"porque": "El carbono pesa 12 y 4 hidrógenos pesan 4, así que son 16."
+},
+{
+"pregunta": "Nombra $\\ce{C4H10}$.",
+"opciones": [
+"Propano",
+"Pentano",
+"Butano"
+],
+"correcta": 2,
+"porque": "Con 4 carbonos, el nombre es butano."
+},
+{
+"pregunta": "En el 2-metilbutano, ¿de qué carbono sale el metil?",
+"opciones": [
+"Del carbono 2",
+"Del carbono 4",
+"Del carbono 1"
+],
+"correcta": 0,
+"porque": "El número 2 dice dónde sale la rama."
+}
+],
+"alcoholes-y-eteres-prepa": [
+{
+"pregunta": "¿Cómo terminan los nombres de los alcoholes?",
+"opciones": [
+"-ano",
+"-ol",
+"-ona"
+],
+"correcta": 1,
+"porque": "Los alcoholes terminan en -ol."
+},
+{
+"pregunta": "¿Qué alcohol es venenoso?",
+"opciones": [
+"El etanol",
+"El agua",
+"El metanol"
+],
+"correcta": 2,
+"porque": "El metanol es venenoso."
+},
+{
+"pregunta": "¿Qué alcohol se usa para limpiar heridas?",
+"opciones": [
+"El metanol",
+"El etanol",
+"El dimetil éter"
+],
+"correcta": 1,
+"porque": "El etanol se usa para limpiar heridas."
+},
+{
+"pregunta": "En un éter $\\ce{R-O-R}$, ¿qué es la O?",
+"opciones": [
+"Un carbono",
+"Un hidrógeno",
+"Un oxígeno"
+],
+"correcta": 2,
+"porque": "La O es el oxígeno entre dos cadenas."
+},
+{
+"pregunta": "¿Por qué el etanol hierve a más temperatura que el dimetil éter?",
+"opciones": [
+"Sus $\\ce{-OH}$ se agarran entre sí",
+"Tiene menos carbonos",
+"No tiene oxígeno"
+],
+"correcta": 0,
+"porque": "Separar esas manitas cuesta más calor."
+}
+],
+"aldehidos-y-cetonas-prepa": [
+{
+"pregunta": "El etanal termina en -al. ¿A qué familia pertenece?",
+"opciones": [
+"Alcoholes",
+"Cetonas",
+"Aldehídos"
+],
+"correcta": 2,
+"porque": "Los aldehídos terminan en -al."
+},
+{
+"pregunta": "¿Qué da un alcohol primario al oxidarse?",
+"opciones": [
+"Una cetona",
+"Un aldehído",
+"Un éter"
+],
+"correcta": 1,
+"porque": "El $\\ce{-OH}$ al final da un aldehído."
+},
+{
+"pregunta": "¿Qué se usa como quitaesmalte?",
+"opciones": [
+"El etanol",
+"La acetona",
+"El etanal"
+],
+"correcta": 1,
+"porque": "La propanona, llamada acetona, es un quitaesmalte."
+},
+{
+"pregunta": "¿Dónde va el carbonilo en una cetona?",
+"opciones": [
+"Al final de la cadena",
+"En medio de la cadena",
+"En ningún lugar"
+],
+"correcta": 1,
+"porque": "En las cetonas el carbonilo va en medio."
+},
+{
+"pregunta": "¿Qué terminación tienen los aldehídos?",
+"opciones": [
+"-ona",
+"-ol",
+"-al"
+],
+"correcta": 2,
+"porque": "Los aldehídos terminan en -al."
+}
+],
+"alquenos-y-alquinos-prepa": [
+{
+"pregunta": "¿Cuál es la fórmula del penteno?",
+"opciones": [
+"$\\ce{C5H8}$",
+"$\\ce{C5H12}$",
+"$\\ce{C5H10}$"
+],
+"correcta": 2,
+"porque": "Un alqueno tiene el doble de hidrógenos que carbonos."
+},
+{
+"pregunta": "Nombra $\\ce{C3H4}$.",
+"opciones": [
+"Propino",
+"Propeno",
+"Propano"
+],
+"correcta": 0,
+"porque": "Es $\\ce{C_nH_{2n-2}}$ con 3 carbonos, un alquino."
+},
+{
+"pregunta": "¿Qué enlace tiene un alquino?",
+"opciones": [
+"Simple",
+"Triple",
+"Doble"
+],
+"correcta": 1,
+"porque": "Ino significa enlace triple."
+},
+{
+"pregunta": "¿Qué dice el 2 en el nombre 2-buteno?",
+"opciones": [
+"Hay 2 carbonos en total",
+"Hay 2 enlaces triples",
+"El doble enlace empieza en el carbono 2"
+],
+"correcta": 2,
+"porque": "El número dice dónde empieza el enlace doble."
+},
+{
+"pregunta": "¿Por qué reaccionan más que los alcanos?",
+"opciones": [
+"Un enlace extra se suelta fácil",
+"Tienen más hidrógenos",
+"No tienen carbono"
+],
+"correcta": 0,
+"porque": "El enlace doble o triple se suelta con facilidad."
+}
+],
+"aminas-y-amidas-prepa": [
+{
+"pregunta": "¿Qué grupo tienen las aminas?",
+"opciones": [
+"$\\ce{-OH}$",
+"$\\ce{-NH2}$",
+"$\\ce{-COOH}$"
+],
+"correcta": 1,
+"porque": "Las aminas tienen $\\ce{-NH2}$, como el amoniaco."
+},
+{
+"pregunta": "¿Cómo huelen muchas aminas?",
+"opciones": [
+"Dulce, como fruta",
+"Suave, como flores",
+"Fuerte, como pescado"
+],
+"correcta": 2,
+"porque": "Las aminas huelen fuerte, como el pescado."
+},
+{
+"pregunta": "Cada enganche entre dos aminoácidos es una...",
+"opciones": [
+"Alcohol",
+"Amina",
+"Amida"
+],
+"correcta": 2,
+"porque": "Ese enganche es una amida llamada enlace peptídico."
+},
+{
+"pregunta": "¿Qué tiene una amida junto al nitrógeno?",
+"opciones": [
+"Un grupo $\\ce{-OH}$",
+"Solo hidrógenos",
+"Un carbono con $\\ce{C=O}$"
+],
+"correcta": 2,
+"porque": "La amida lleva $\\ce{-CONH2}$."
+},
+{
+"pregunta": "Con clips unes cinco aminoácidos. ¿Qué armas?",
+"opciones": [
+"Un éster",
+"Un alcohol",
+"Una proteína"
+],
+"correcta": 2,
+"porque": "Los aminoácidos unidos forman una proteína."
+}
+]
+}

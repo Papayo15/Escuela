@@ -1,0 +1,563 @@
+{
+"sucesiones-aritmeticas-secundaria": [
+{
+"pregunta": "¿Qué número sigue en 4, 9, 14, 19, ...?",
+"opciones": [
+"$38$",
+"$24$",
+"$29$",
+"$23$, porque sumas 4 en vez de 5"
+],
+"correcta": 1,
+"porque": "La diferencia es 5, entonces $19 + 5 = 24$."
+},
+{
+"pregunta": "¿Cuál es la diferencia de 50, 44, 38, 32?",
+"opciones": [
+"$-6$",
+"$6$, porque quitas el signo de la resta",
+"$82$",
+"$-12$"
+],
+"correcta": 0,
+"porque": "Restas vecinos: $44 - 50 = -6$. Como baja, el salto es negativo."
+},
+{
+"pregunta": "¿Cuánto vale el término 6 de 7, 10, 13, ...?",
+"opciones": [
+"$42$",
+"$22$",
+"$25$, porque sumas el salto 6 veces",
+"$18$"
+],
+"correcta": 1,
+"porque": "Usas $7 + (6 - 1) \\times 3 = 7 + 15 = 22$."
+},
+{
+"pregunta": "¿La sucesión 2, 6, 10, 14 es aritmética?",
+"opciones": [
+"Solo si la suma es par",
+"No, porque crece muy rápido",
+"Sí, porque siempre suma 4"
+],
+"correcta": 2,
+"porque": "Cada término sube lo mismo, así que la diferencia es 4."
+},
+{
+"pregunta": "El primer término es 5 y el salto es 2. ¿Cuánto vale el término 20?",
+"opciones": [
+"$25$",
+"$43$",
+"$45$, porque sumas el salto 20 veces",
+"$40$"
+],
+"correcta": 1,
+"porque": "Usas $5 + 19 \\times 2 = 43$."
+}
+],
+"suma-de-angulos-internos-secundaria": [
+{
+"pregunta": "¿Cuánto suman los ángulos internos de un polígono de 7 lados?",
+"opciones": [
+"$900°$",
+"$540°$",
+"$720°$",
+"$1260°$, porque multiplicas 180 por 7"
+],
+"correcta": 0,
+"porque": "Usas $180°(7 - 2) = 900°$."
+},
+{
+"pregunta": "¿Cuánto mide cada ángulo de un decágono regular?",
+"opciones": [
+"$144°$",
+"$180°$, porque cada triángulo vale 180°",
+"$1440°$, porque es la suma total",
+"$36°$"
+],
+"correcta": 0,
+"porque": "La suma es $180 \\times 8 = 1440$, y entre 10 ángulos da 144."
+},
+{
+"pregunta": "Un polígono tiene ángulos que suman $1260°$. ¿Cuántos lados tiene?",
+"opciones": [
+"$10$",
+"$8$",
+"$9$",
+"$7$, porque 1260 entre 180 son 7 triángulos"
+],
+"correcta": 2,
+"porque": "Salen 7 triángulos, y los lados son dos más que los triángulos."
+},
+{
+"pregunta": "Tres ángulos de un cuadrilátero miden $70°$, $110°$ y $100°$. ¿Cuánto mide el cuarto?",
+"opciones": [
+"$100°$, porque repites uno de los ángulos",
+"$180°$",
+"$280°$, porque es la suma de los tres",
+"$80°$"
+],
+"correcta": 3,
+"porque": "Todos suman 360°: $360 - 280 = 80$."
+},
+{
+"pregunta": "Partes un polígono de 8 lados en triángulos desde una esquina. ¿Cuántos triángulos salen?",
+"opciones": [
+"$7$",
+"$4$",
+"$8$, porque sale uno por cada lado",
+"$6$"
+],
+"correcta": 3,
+"porque": "Salen dos triángulos menos que los lados: $8 - 2 = 6$."
+}
+],
+"suma-de-numeros-con-distinto-signo-secundaria": [
+{
+"pregunta": "Resuelve $-18 + 7$.",
+"opciones": [
+"$25$",
+"$-25$, porque sumas los dos números",
+"$-11$",
+"$11$"
+],
+"correcta": 2,
+"porque": "Signos distintos: restas 18 menos 7 y dejas el signo del mayor."
+},
+{
+"pregunta": "Resuelve $16 + (-9)$.",
+"opciones": [
+"$25$, porque sumas sin fijarte en el signo",
+"$7$",
+"$-7$",
+"$-25$"
+],
+"correcta": 1,
+"porque": "Restas $16 - 9 = 7$, y gana el signo del 16, que es positivo."
+},
+{
+"pregunta": "Resuelve $15 + (-22)$.",
+"opciones": [
+"$7$, porque 22 menos 15 es positivo",
+"$-7$",
+"$-37$",
+"$37$"
+],
+"correcta": 1,
+"porque": "Restas 22 menos 15 y dejas el signo del mayor, que es negativo."
+},
+{
+"pregunta": "Estás a $-6$ °C y la temperatura sube 10 °C. ¿Cuántos grados hay?",
+"opciones": [
+"$4$ °C",
+"$-16$ °C, porque sumas los dos números",
+"$-4$ °C",
+"$16$ °C"
+],
+"correcta": 0,
+"porque": "Resuelves $-6 + 10 = 4$."
+},
+{
+"pregunta": "Al sumar dos números con signos distintos, ¿qué signo lleva el resultado?",
+"opciones": [
+"Siempre es positivo",
+"Siempre es negativo",
+"El del número mayor",
+"El del primer número que escribiste"
+],
+"correcta": 2,
+"porque": "Ganan los que más pesan: el resultado lleva el signo del número mayor."
+}
+],
+"suma-de-numeros-con-el-mismo-signo-secundaria": [
+{
+"pregunta": "Resuelve $(-12) + (-9)$.",
+"opciones": [
+"$21$",
+"$-21$",
+"$-3$, porque restas los dos números",
+"$3$"
+],
+"correcta": 1,
+"porque": "Signos iguales: sumas 12 y 9 y conservas el signo menos."
+},
+{
+"pregunta": "Resuelve $-5 - 8$.",
+"opciones": [
+"$3$, porque restas 8 menos 5",
+"$-13$",
+"$13$",
+"$-3$"
+],
+"correcta": 1,
+"porque": "Restar 8 es sumar $-8$, y entonces $-5 + (-8) = -13$."
+},
+{
+"pregunta": "Resuelve $(-1) + (-4) + (-6)$.",
+"opciones": [
+"$-11$",
+"$-9$",
+"$11$, porque sumas todos los números",
+"$-3$"
+],
+"correcta": 0,
+"porque": "Todos son negativos, así que sumas $1 + 4 + 6 = 11$ y dejas el menos."
+},
+{
+"pregunta": "La temperatura es $-1$ °C y baja 5 °C. ¿Cuál es la nueva temperatura?",
+"opciones": [
+"$-4$ °C",
+"$4$ °C, porque restas 5 menos 1",
+"$6$ °C",
+"$-6$ °C"
+],
+"correcta": 3,
+"porque": "Resuelves $-1 - 5 = -6$."
+},
+{
+"pregunta": "Debes 7 pesos a un amigo y luego pides 4 pesos más. ¿Cómo escribes lo que debes?",
+"opciones": [
+"$-11$ pesos",
+"$11$ pesos",
+"$-3$ pesos, porque restas las dos deudas",
+"$3$ pesos"
+],
+"correcta": 0,
+"porque": "Una deuda es negativa. Dos deudas se suman: $-7 + (-4) = -11$."
+}
+],
+"tablas-de-frecuencias-secundaria": [
+{
+"pregunta": "De 25 votos, 5 son para la opción B. ¿Cuál es su frecuencia relativa?",
+"opciones": [
+"$5.0$",
+"$0.50$, porque dividiste entre 10",
+"$5$, porque es lo que contaste",
+"$0.20$"
+],
+"correcta": 3,
+"porque": "La relativa es $f$ entre el total: $\\frac{5}{25} = 0.20$."
+},
+{
+"pregunta": "Las frecuencias de una tabla son 4, 6 y 10. ¿Cuál es el total?",
+"opciones": [
+"$6.7$, porque sacas el promedio",
+"$20$",
+"$24$",
+"$10$, porque es la frecuencia mayor"
+],
+"correcta": 1,
+"porque": "El total es la suma de todas las $f$: $4 + 6 + 10 = 20$."
+},
+{
+"pregunta": "Con $f$ igual a 4, 6 y 10, ¿cuál es la frecuencia acumulada?",
+"opciones": [
+"$10, 6, 4$",
+"$20, 16, 10$, porque restas del total",
+"$4, 10, 20$",
+"$4, 6, 10$, porque son las mismas frecuencias"
+],
+"correcta": 2,
+"porque": "Vas sumando: $4$, luego $4 + 6 = 10$, luego $10 + 10 = 20$."
+},
+{
+"pregunta": "Si sumas todas las frecuencias relativas de una tabla, ¿cuánto debe dar?",
+"opciones": [
+"$100$, porque son porcentajes",
+"El total de datos, por ejemplo 20",
+"$1$, porque son partes de un todo"
+],
+"correcta": 2,
+"porque": "Las frecuencias relativas son partes del total y suman 1."
+},
+{
+"pregunta": "Con total 20, ¿cuál es la relativa de 6 votos?",
+"opciones": [
+"$0.30$",
+"$0.60$, porque divides entre 10",
+"$3.3$",
+"$0.14$"
+],
+"correcta": 0,
+"porque": "Resuelves $\\frac{6}{20} = 0.30$."
+}
+],
+"tendencia-central-dispersion": [
+{
+"pregunta": "¿Cuál es la media de 4, 6, 8, 10, 12?",
+"opciones": [
+"$40$, porque olvidas dividir",
+"$10$",
+"$8$",
+"$6$"
+],
+"correcta": 2,
+"porque": "Sumas y divides: $40 \\div 5 = 8$."
+},
+{
+"pregunta": "¿Cuál es la moda de 3, 5, 5, 7, 5, 9?",
+"opciones": [
+"$5$",
+"$9$",
+"$6$, porque es el promedio de todos los datos",
+"$7$"
+],
+"correcta": 0,
+"porque": "La moda es el dato que más se repite, y el 5 sale tres veces."
+},
+{
+"pregunta": "¿Cuál es la mediana de 1, 2, 3, 4, 100?",
+"opciones": [
+"$3$",
+"$2.5$",
+"$100$",
+"$22$, porque es el promedio de todos"
+],
+"correcta": 0,
+"porque": "Ya están ordenados y el de en medio es 3. El 100 no la afecta."
+},
+{
+"pregunta": "¿Cuál es el rango de 7, 15, 4, 10?",
+"opciones": [
+"$4$",
+"$34$, porque sumas todos los datos",
+"$11$",
+"$8.5$"
+],
+"correcta": 2,
+"porque": "El rango es mayor menos menor: $15 - 4 = 11$."
+},
+{
+"pregunta": "Si un dato muy grande se agrega a la lista, ¿qué medida cambia más?",
+"opciones": [
+"La moda, porque cambia el dato que más se repite",
+"La mediana, porque siempre es el dato central",
+"La media",
+"Ninguna cambia"
+],
+"correcta": 2,
+"porque": "La media suma todos los datos, así que un extremo la mueve mucho."
+}
+],
+"teorema-de-pitagoras-hallar-la-hipotenusa-secundaria": [
+{
+"pregunta": "Los catetos de un triángulo miden 8 y 15. ¿Cuánto mide la hipotenusa?",
+"opciones": [
+"$\\sqrt{161}$",
+"$17$",
+"$23$, porque sumas los catetos",
+"$13$"
+],
+"correcta": 1,
+"porque": "$64 + 225 = 289$, y $\\sqrt{289} = 17$."
+},
+{
+"pregunta": "Los catetos miden 7 y 24. ¿Cuánto mide la hipotenusa?",
+"opciones": [
+"$17$, porque restas 24 menos 7",
+"$625$",
+"$31$, porque sumas sin elevar al cuadrado",
+"$25$"
+],
+"correcta": 3,
+"porque": "$49 + 576 = 625$, y la raíz de 625 es 25."
+},
+{
+"pregunta": "Los catetos miden 3 y 5. ¿Cuánto mide la hipotenusa?",
+"opciones": [
+"$\\sqrt{34}$",
+"$\\sqrt{16}$, porque restas los cuadrados",
+"$34$",
+"$8$, porque sumas los catetos"
+],
+"correcta": 0,
+"porque": "$9 + 25 = 34$. No sale exacta, así que dejas la raíz."
+},
+{
+"pregunta": "Una cancha rectangular mide 30 m por 40 m. ¿Cuánto mide su diagonal?",
+"opciones": [
+"$10$ m, porque restas los lados",
+"$2500$ m",
+"$50$ m",
+"$70$ m, porque sumas los dos lados"
+],
+"correcta": 2,
+"porque": "$900 + 1600 = 2500$, y la raíz de 2500 es 50."
+},
+{
+"pregunta": "¿Cuál es la hipotenusa de un triángulo rectángulo?",
+"opciones": [
+"El lado mayor, frente a la esquina recta",
+"El lado que está a la izquierda",
+"El lado más corto, que va abajo",
+"Cualquiera de los lados que forman la esquina recta"
+],
+"correcta": 0,
+"porque": "La hipotenusa está frente al ángulo recto y es el lado más largo."
+}
+],
+"teorema-de-pitagoras-hallar-un-cateto-secundaria": [
+{
+"pregunta": "La hipotenusa mide 15 y un cateto mide 9. ¿Cuánto mide el otro cateto?",
+"opciones": [
+"$12$, porque $225 - 81 = 144$",
+"$6$, porque restas 15 menos 9",
+"$24$, porque sumas los dos lados"
+],
+"correcta": 0,
+"porque": "Se restan los cuadrados: $225 - 81 = 144$ y la raíz es 12."
+},
+{
+"pregunta": "La hipotenusa mide 41 y un cateto mide 40. ¿Cuánto mide el otro?",
+"opciones": [
+"$1$, porque restas 41 menos 40",
+"$\\sqrt{3281}$, porque sumas los cuadrados",
+"$81$",
+"$9$"
+],
+"correcta": 3,
+"porque": "$1681 - 1600 = 81$, y $\\sqrt{81} = 9$."
+},
+{
+"pregunta": "La hipotenusa mide 26 y un cateto mide 10. ¿Cuánto mide el otro?",
+"opciones": [
+"$16$, porque restas 26 menos 10",
+"$24$, porque $676 - 100 = 576$",
+"$36$, porque sumas los lados"
+],
+"correcta": 1,
+"porque": "Se restan los cuadrados: $676 - 100 = 576$ y la raíz es 24."
+},
+{
+"pregunta": "¿Un triángulo de lados 9, 12 y 15 es rectángulo?",
+"opciones": [
+"Sí, porque $9^2 + 12^2 = 15^2$",
+"Solo si todos los lados son pares",
+"No, porque los tres son distintos"
+],
+"correcta": 0,
+"porque": "Se cumple $81 + 144 = 225$, así que sí es rectángulo."
+},
+{
+"pregunta": "Una escalera de 20 m se apoya con su pie a 16 m de un edificio. ¿A qué altura llega?",
+"opciones": [
+"$4$ m, porque restas 20 menos 16",
+"$\\sqrt{656}$ m, de sumar cuadrados",
+"$12$ m, porque $400 - 256 = 144$"
+],
+"correcta": 2,
+"porque": "Se restan los cuadrados: $400 - 256 = 144$ y la raíz es 12."
+}
+],
+"teorema-de-tales-secundaria": [
+{
+"pregunta": "Resuelve $\\frac{2}{3} = \\frac{x}{9}$.",
+"opciones": [
+"$x = 13.5$",
+"$x = 8$, porque sumas 6 a 2",
+"$x = 6$",
+"$x = 4.5$"
+],
+"correcta": 2,
+"porque": "Multiplicas en cruz: $3x = 18$, y $x = 6$."
+},
+{
+"pregunta": "Si $AB = 5$, $BC = 10$ y $DE = 3$, ¿cuánto mide $EF$?",
+"opciones": [
+"$15$",
+"$6$",
+"$8$, porque sumas 5 a 3",
+"$1.5$"
+],
+"correcta": 1,
+"porque": "Planteas $\\frac{5}{10} = \\frac{3}{EF}$, y $EF = 6$."
+},
+{
+"pregunta": "Si $AB = 8$, $BC = 12$ y $EF = 9$, ¿cuánto mide $DE$?",
+"opciones": [
+"$9$, porque es igual a $EF$",
+"$5$",
+"$6$",
+"$13.5$, porque multiplicas 12 por 9 y divides entre 8"
+],
+"correcta": 2,
+"porque": "Planteas $\\frac{8}{12} = \\frac{DE}{9}$, y $DE = 6$."
+},
+{
+"pregunta": "Después de plantear la proporción en el Teorema de Tales, ¿qué haces?",
+"opciones": [
+"Multiplicas en cruz y divides",
+"Restas los números de arriba y de abajo",
+"Sumas los cuatro números de la proporción",
+"Sacas la raíz cuadrada de cada uno"
+],
+"correcta": 0,
+"porque": "Multiplicar en cruz te deja despejar el segmento que buscas."
+},
+{
+"pregunta": "Cuando varias rectas paralelas cortan a dos rectas, ¿qué segmentos forman?",
+"opciones": [
+"Perpendiculares entre sí",
+"Siempre iguales entre todas las rectas",
+"Proporcionales",
+"Distintos sin ninguna relación"
+],
+"correcta": 2,
+"porque": "Los segmentos de una recta guardan la misma proporción que los de la otra."
+}
+],
+"terminos-semejantes-secundaria": [
+{
+"pregunta": "¿Son semejantes $5xy$ y $-2xy$?",
+"opciones": [
+"No, porque los números son distintos",
+"No, porque uno de ellos es negativo",
+"Sí, porque tienen las mismas letras"
+],
+"correcta": 2,
+"porque": "Tienen las mismas letras y exponentes, y el número de adelante no importa."
+},
+{
+"pregunta": "¿Son semejantes $3a^2$ y $3a$?",
+"opciones": [
+"Sí, porque los dos tienen el número 3",
+"Solo si $a$ vale uno en los dos casos",
+"No, porque los exponentes son distintos"
+],
+"correcta": 2,
+"porque": "Para ser semejantes deben tener el mismo exponente."
+},
+{
+"pregunta": "¿Cuál es semejante a $4b^3$?",
+"opciones": [
+"$4b$, porque tiene el mismo número 4",
+"$-b^3$",
+"$4$",
+"$4b^2$, porque se parece al exponente"
+],
+"correcta": 1,
+"porque": "Solo cambia el número de adelante. Letra y exponente son los mismos."
+},
+{
+"pregunta": "¿Qué parte de un término no importa para saber si es semejante?",
+"opciones": [
+"El nombre que le pongas al término",
+"El exponente de la letra",
+"El número de adelante",
+"La letra que lleva el término"
+],
+"correcta": 2,
+"porque": "El número de adelante puede cambiar, pero letra y exponente deben ser iguales."
+},
+{
+"pregunta": "¿Son semejantes $8p$ y $8q$?",
+"opciones": [
+"Sí, porque ambos tienen exponente uno",
+"No, porque las letras son distintas",
+"Sí, porque los dos llevan el número 8"
+],
+"correcta": 1,
+"porque": "Las letras son distintas, así que no son de la misma familia."
+}
+]
+}

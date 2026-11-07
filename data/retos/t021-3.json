@@ -1,0 +1,522 @@
+{
+"conflictos-territoriales-implicaciones-secundaria": [
+{
+"pregunta": "¿Cuál de estas cosas puede causar un conflicto territorial?",
+"opciones": [
+"Un cambio de uniforme",
+"Una fiesta del pueblo",
+"Un recurso valioso como el agua"
+],
+"correcta": 2,
+"porque": "Los países pelean por recursos valiosos: agua, petróleo o minerales."
+},
+{
+"pregunta": "¿Cómo se pueden resolver estos conflictos?",
+"opciones": [
+"Con diálogo y acuerdos",
+"Con silencio y miedo",
+"Con gritos y peleas"
+],
+"correcta": 0,
+"porque": "El diálogo, los acuerdos y los tribunales ayudan a resolverlos."
+},
+{
+"pregunta": "Dos vecinos discuten por dónde pasa la barda. ¿A qué se parece?",
+"opciones": [
+"A un cambio de clima",
+"A un conflicto territorial",
+"A un viaje en tren"
+],
+"correcta": 1,
+"porque": "Un conflicto territorial es una pelea por una tierra."
+},
+{
+"pregunta": "¿Cuál es una consecuencia de estos conflictos?",
+"opciones": [
+"Más fiestas en el pueblo",
+"Gente que debe irse de su hogar",
+"Ríos que se hacen más limpios"
+],
+"correcta": 1,
+"porque": "Estos conflictos pueden obligar a las personas a irse."
+},
+{
+"pregunta": "Dos grupos pelean por el agua de un pozo. ¿Qué conviene hacer primero?",
+"opciones": [
+"Quitarle el agua al otro",
+"Hablar y llegar a un acuerdo",
+"Cerrar el pozo a todos"
+],
+"correcta": 1,
+"porque": "Con diálogo se puede repartir el agua sin hacer daño."
+}
+],
+"coordenadas-geograficas-secundaria": [
+{
+"pregunta": "¿Qué mide la latitud?",
+"opciones": [
+"La altura de un cerro",
+"La distancia al ecuador",
+"La distancia a Greenwich"
+],
+"correcta": 1,
+"porque": "La latitud dice qué tan al norte o al sur estás."
+},
+{
+"pregunta": "¿A partir de qué línea se mide la longitud?",
+"opciones": [
+"El trópico de Cáncer",
+"El meridiano de Greenwich",
+"El ecuador"
+],
+"correcta": 1,
+"porque": "La longitud va al este u oeste de Greenwich."
+},
+{
+"pregunta": "¿Cómo se llaman las líneas horizontales del mapa?",
+"opciones": [
+"Paralelos",
+"Escalas",
+"Meridianos"
+],
+"correcta": 0,
+"porque": "Los paralelos van de lado a lado y los meridianos de arriba abajo."
+},
+{
+"pregunta": "La Ciudad de México está en 19° N y 99° O. ¿Qué indica la N?",
+"opciones": [
+"Está al norte de Greenwich",
+"Está al norte del ecuador",
+"Está a 19 metros"
+],
+"correcta": 1,
+"porque": "La N en la latitud dice que está al norte del ecuador."
+},
+{
+"pregunta": "Quieres ubicar tu escuela en el mapa. ¿Qué dos datos necesitas?",
+"opciones": [
+"Latitud y longitud",
+"Título y fecha",
+"Escala y color"
+],
+"correcta": 0,
+"porque": "Con latitud y longitud ubicas cualquier punto de la Tierra."
+}
+],
+"densidad-de-poblacion-secundaria": [
+{
+"pregunta": "Viven 3000 personas en 6 km². ¿Cuál es la densidad?",
+"opciones": [
+"500 hab/km²",
+"50 hab/km²",
+"18 hab/km²"
+],
+"correcta": 0,
+"porque": "Se divide 3000 entre 6 y da 500 personas por km²."
+},
+{
+"pregunta": "Viven 800 personas en 4 km². ¿Cuál es la densidad?",
+"opciones": [
+"200 hab/km²",
+"3200 hab/km²",
+"20 hab/km²"
+],
+"correcta": 0,
+"porque": "800 entre 4 son 200 personas por km²."
+},
+{
+"pregunta": "En tu salón hay 30 niños en 15 metros cuadrados. ¿Cuántos hay por metro cuadrado?",
+"opciones": [
+"45, sumando niños y metros",
+"15, que son los metros cuadrados",
+"2, porque 30 entre 15 da 2"
+],
+"correcta": 2,
+"porque": "La densidad es personas entre superficie: 30 entre 15 es 2."
+},
+{
+"pregunta": "Una ciudad con muchas casas juntas, ¿qué densidad tiene?",
+"opciones": [
+"Baja",
+"Cero",
+"Alta"
+],
+"correcta": 2,
+"porque": "Muchas personas en poco espacio dan una densidad alta."
+},
+{
+"pregunta": "¿Qué mide la densidad de población?",
+"opciones": [
+"Agua por kilómetro",
+"Casas por persona",
+"Personas por kilómetro cuadrado"
+],
+"correcta": 2,
+"porque": "Compara cuánta gente vive en cada espacio."
+}
+],
+"desiertos-del-mundo-secundaria": [
+{
+"pregunta": "¿Cuánta lluvia al año tiene como máximo un desierto?",
+"opciones": [
+"Menos de 250 mm",
+"Más de 1000 mm",
+"Más de 2500 mm"
+],
+"correcta": 0,
+"porque": "Un desierto es una región con muy poca lluvia."
+},
+{
+"pregunta": "¿Cuál es el mayor desierto del mundo?",
+"opciones": [
+"El Gobi",
+"El Sahara",
+"La Antártida"
+],
+"correcta": 2,
+"porque": "La Antártida es el mayor, aunque es frío."
+},
+{
+"pregunta": "¿En qué continente está el desierto de Gobi?",
+"opciones": [
+"África",
+"América",
+"Asia"
+],
+"correcta": 2,
+"porque": "El Gobi está en Asia."
+},
+{
+"pregunta": "El desierto de Sonora, ¿en qué países está?",
+"opciones": [
+"México y Estados Unidos",
+"Chile y Perú",
+"África y Asia"
+],
+"correcta": 0,
+"porque": "Sonora es un desierto compartido por México y Estados Unidos."
+},
+{
+"pregunta": "Un lugar helado casi sin lluvia, ¿puede ser desierto?",
+"opciones": [
+"No, porque tiene hielo",
+"Sí, porque falta lluvia",
+"No, porque no hay calor"
+],
+"correcta": 1,
+"porque": "Desierto es falta de lluvia, no calor."
+}
+],
+"desigualdades-socioeconomicas-calidad-vida-secundaria": [
+{
+"pregunta": "Una región produce 500 000 pesos y tiene 25 habitantes. ¿Cuál es el PIB per cápita?",
+"opciones": [
+"20 000 pesos",
+"2 000 pesos",
+"200 000 pesos"
+],
+"correcta": 0,
+"porque": "Se divide lo producido entre los habitantes: 500 000 entre 25."
+},
+{
+"pregunta": "¿Por qué el PIB per cápita es solo un promedio?",
+"opciones": [
+"Algunos tienen mucho más y otros menos",
+"Todos ganan exactamente igual",
+"Solo cuenta a los niños"
+],
+"correcta": 0,
+"porque": "Un promedio no muestra cómo se reparte el dinero."
+},
+{
+"pregunta": "¿Qué es la pobreza, según el texto?",
+"opciones": [
+"Vivir lejos del mar",
+"Falta de agua, casa o escuela",
+"Tener muchos juguetes"
+],
+"correcta": 1,
+"porque": "La pobreza es no tener cosas básicas para vivir bien."
+},
+{
+"pregunta": "¿Qué efecto tiene la desigualdad en las personas?",
+"opciones": [
+"Más agua en las casas",
+"Menos acceso a salud y escuela",
+"Más tiempo de vacaciones"
+],
+"correcta": 1,
+"porque": "Quien tiene menos oportunidades llega menos a los servicios."
+},
+{
+"pregunta": "En un pueblo no hay clínica cerca, pero en la ciudad sí. ¿Qué muestra eso?",
+"opciones": [
+"Un clima distinto",
+"Igualdad en los servicios",
+"Desigualdad en los servicios"
+],
+"correcta": 2,
+"porque": "Los servicios no están repartidos parejo."
+}
+],
+"diversidad-grupos-culturales-mexico-secundaria": [
+{
+"pregunta": "¿Dónde viven muchos afromexicanos?",
+"opciones": [
+"En la Costa Chica y Veracruz",
+"Solo en el desierto",
+"Solo en las montañas"
+],
+"correcta": 0,
+"porque": "Los afromexicanos viven en la Costa Chica y en Veracruz."
+},
+{
+"pregunta": "En tu escuela hay compañeros que hablan maya, náhuatl y español. ¿Qué muestra eso?",
+"opciones": [
+"Que México es pluricultural",
+"Que todos deben hablar igual",
+"Que solo existe una cultura"
+],
+"correcta": 0,
+"porque": "En México conviven muchos pueblos, lenguas y culturas."
+},
+{
+"pregunta": "Un compañero nuevo trae comida de la fiesta de su pueblo. ¿Qué haces?",
+"opciones": [
+"Te burlas de su comida",
+"Le preguntas y la pruebas con respeto",
+"Le pides que no la traiga"
+],
+"correcta": 1,
+"porque": "Preguntar con respeto ayuda a conocer otras culturas."
+},
+{
+"pregunta": "¿Qué son los mestizos?",
+"opciones": [
+"Un solo pueblo antiguo",
+"Personas sin cultura",
+"Una mezcla de culturas"
+],
+"correcta": 2,
+"porque": "Los mestizos vienen de la mezcla de culturas."
+},
+{
+"pregunta": "Discriminar a alguien por su origen, ¿qué significa?",
+"opciones": [
+"Es una regla de la escuela",
+"Es una broma normal",
+"Va contra los derechos"
+],
+"correcta": 2,
+"porque": "Todas las personas tienen derecho a ser respetadas."
+}
+],
+"economia-por-regiones-de-mexico-secundaria": [
+{
+"pregunta": "¿Qué actividad destaca en el Norte de México?",
+"opciones": [
+"Pesca y petróleo",
+"Tequila y turismo",
+"Industria y maquiladoras"
+],
+"correcta": 2,
+"porque": "El Norte tiene industria, maquiladoras y ganadería."
+},
+{
+"pregunta": "¿Qué producto es famoso en el Occidente?",
+"opciones": [
+"Los coches",
+"El petróleo",
+"El tequila"
+],
+"correcta": 2,
+"porque": "En el Occidente destacan el tequila y la tecnología."
+},
+{
+"pregunta": "¿Qué actividades destacan en la costa del Pacífico?",
+"opciones": [
+"Pesca y turismo",
+"Coches y gobierno",
+"Petróleo y maquilas"
+],
+"correcta": 0,
+"porque": "En el Pacífico hay mucha pesca y turismo."
+},
+{
+"pregunta": "¿Qué destaca en el Centro de México?",
+"opciones": [
+"Servicios y gobierno",
+"Tequila y petróleo",
+"Selvas y pesca"
+],
+"correcta": 0,
+"porque": "En el Centro hay muchos servicios y oficinas de gobierno."
+},
+{
+"pregunta": "¿Por qué cada región produce cosas distintas?",
+"opciones": [
+"Se especializa según sus recursos",
+"Lo decide el clima del salón",
+"Todas tienen los mismos"
+],
+"correcta": 0,
+"porque": "Cada región hace lo que mejor le sale con lo que tiene."
+}
+],
+"escalas-y-proyecciones-secundaria": [
+{
+"pregunta": "En un mapa 1:100 000, ¿cuánto son 5 cm?",
+"opciones": [
+"5 km",
+"50 km",
+"500 m"
+],
+"correcta": 0,
+"porque": "5 cm por 100 000 son 500 000 cm, que son 5 km."
+},
+{
+"pregunta": "En un mapa 1:50 000, ¿cuánto son 4 cm?",
+"opciones": [
+"20 km",
+"2 km",
+"200 m"
+],
+"correcta": 1,
+"porque": "4 por 50 000 son 200 000 cm, que son 2 km."
+},
+{
+"pregunta": "¿Qué es la escala de un mapa?",
+"opciones": [
+"El color de los países",
+"El nombre del mapa",
+"La relación entre el mapa y la realidad"
+],
+"correcta": 2,
+"porque": "La escala dice cuántas veces se encogió el lugar."
+},
+{
+"pregunta": "¿Qué proyección conserva las áreas?",
+"opciones": [
+"Mercator",
+"Rosa de los vientos",
+"Peters"
+],
+"correcta": 2,
+"porque": "Peters mantiene el tamaño real de las zonas."
+},
+{
+"pregunta": "Quieres aplanar una pelota en una hoja. ¿Qué le pasa al dibujo?",
+"opciones": [
+"Se deforma",
+"Se hace más redondo",
+"Queda exacto"
+],
+"correcta": 0,
+"porque": "Pasar una esfera a un plano siempre deforma algo."
+}
+],
+"espacio-geografico-construccion-social-secundaria": [
+{
+"pregunta": "¿Cuál de estas cosas es un componente natural?",
+"opciones": [
+"Un río",
+"Un mercado",
+"Una carretera"
+],
+"correcta": 0,
+"porque": "Los ríos, el relieve y el clima son naturales."
+},
+{
+"pregunta": "¿Cuál de estas cosas es un componente económico?",
+"opciones": [
+"Un lago",
+"Una montaña",
+"Una fábrica"
+],
+"correcta": 2,
+"porque": "Las fábricas, los cultivos y las tiendas son parte de la economía."
+},
+{
+"pregunta": "Un terreno vacío se vuelve colonia. ¿Quién lo cambió?",
+"opciones": [
+"El viento solo",
+"La gente",
+"La lluvia sola"
+],
+"correcta": 1,
+"porque": "Las personas cambian el lugar con sus actividades."
+},
+{
+"pregunta": "A un cerro le ponen casas y calles. ¿Qué pasó?",
+"opciones": [
+"Siguió igual de natural",
+"Se hizo un mar",
+"Dejó de ser solo natural"
+],
+"correcta": 2,
+"porque": "La gente le agregó cosas sociales y económicas."
+},
+{
+"pregunta": "Las lenguas y las fronteras son parte de qué componente?",
+"opciones": [
+"Cultural y político",
+"Solo del clima",
+"Natural"
+],
+"correcta": 0,
+"porque": "Las lenguas son culturales y las fronteras son políticas."
+}
+],
+"globalizacion-economica-secundaria": [
+{
+"pregunta": "¿Cuál es una ventaja de la globalización?",
+"opciones": [
+"Más empleos locales siempre",
+"Productos más baratos",
+"Menos transporte"
+],
+"correcta": 1,
+"porque": "Al producir en varios países, algunos productos cuestan menos."
+},
+{
+"pregunta": "Una empresa tiene fábricas en México, China y Brasil. ¿Qué es?",
+"opciones": [
+"Una multinacional",
+"Un huso horario",
+"Una cuenca"
+],
+"correcta": 0,
+"porque": "Una multinacional trabaja en varios países."
+},
+{
+"pregunta": "¿Cuál es una desventaja de la globalización?",
+"opciones": [
+"Productos más baratos",
+"Pérdida de empleos locales",
+"Más tecnología"
+],
+"correcta": 1,
+"porque": "Algunas fábricas locales cierran frente a productos de fuera."
+},
+{
+"pregunta": "¿Qué ayuda a que las economías se integren?",
+"opciones": [
+"Los mapas mudos",
+"La tecnología y el transporte",
+"Las banderas"
+],
+"correcta": 1,
+"porque": "Con transporte y tecnología el comercio llega más lejos."
+},
+{
+"pregunta": "Tu mochila tiene piezas de varios países. ¿Qué muestra?",
+"opciones": [
+"Un cambio de clima",
+"Un conflicto territorial",
+"Globalización económica"
+],
+"correcta": 2,
+"porque": "Un producto se arma con partes de muchos lugares."
+}
+]
+}

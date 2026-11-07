@@ -1,0 +1,522 @@
+{
+"mexico-independiente-intervenciones-siglo-xix-quinto": [
+{
+"pregunta": "¿Qué se celebra el 5 de mayo de 1862?",
+"opciones": [
+"La Independencia de México",
+"El inicio de la guerra con Estados Unidos",
+"La victoria sobre los franceses"
+],
+"correcta": 2,
+"porque": "Ese día México venció a los franceses en Puebla."
+},
+{
+"pregunta": "¿Qué defendió Benito Juárez?",
+"opciones": [
+"La República",
+"El imperio de Iturbide",
+"El poder de un solo rey"
+],
+"correcta": 0,
+"porque": "Juárez defendió la República frente a invasores."
+},
+{
+"pregunta": "¿Qué guerra empezó en 1846?",
+"opciones": [
+"La Guerra de los Pasteles",
+"La Revolución Mexicana",
+"La guerra con Estados Unidos"
+],
+"correcta": 2,
+"porque": "Empezó después de la anexión de Texas."
+},
+{
+"pregunta": "¿Qué significa Estado laico?",
+"opciones": [
+"La Iglesia manda sobre el gobierno",
+"El gobierno no depende de una iglesia",
+"Todos deben tener la misma religión"
+],
+"correcta": 1,
+"porque": "Laico es separar al gobierno de las iglesias."
+},
+{
+"pregunta": "Pones fechas en una línea del tiempo. ¿Cuál va después de 1846?",
+"opciones": [
+"1862",
+"1521",
+"1810"
+],
+"correcta": 0,
+"porque": "1862 ocurrió después de 1846."
+}
+],
+"mexico-posrevolucionario-1917-1940-primaria": [
+{
+"pregunta": "¿Qué se creó en 1921 para llevar educación?",
+"opciones": [
+"La SEP",
+"El INE",
+"La CNDH"
+],
+"correcta": 0,
+"porque": "La SEP busca que más gente estudie."
+},
+{
+"pregunta": "¿Qué es un ejido?",
+"opciones": [
+"Una fábrica grande de telas",
+"Tierra repartida a campesinos",
+"Un barco de carga"
+],
+"correcta": 1,
+"porque": "Los ejidos dieron tierra a quienes la trabajan."
+},
+{
+"pregunta": "¿Qué ocurrió en 1938?",
+"opciones": [
+"El Grito de Dolores",
+"La batalla de Puebla",
+"La expropiación petrolera"
+],
+"correcta": 2,
+"porque": "En 1938 se nacionalizó el petróleo."
+},
+{
+"pregunta": "¿Cuántos años hay entre 1917 y 1921?",
+"opciones": [
+"Diez",
+"Cuatro",
+"Veinte"
+],
+"correcta": 1,
+"porque": "De 1917 a 1921 pasan cuatro años."
+},
+{
+"pregunta": "Buscas en la Constitución qué artículo habla de educación. ¿Cuál es?",
+"opciones": [
+"El 27",
+"El 123",
+"El 3"
+],
+"correcta": 2,
+"porque": "El artículo 3 habla de educación."
+}
+],
+"migracion-derechos-humanos-primaria": [
+{
+"pregunta": "¿Qué es migrar?",
+"opciones": [
+"Ir a la tienda por pan",
+"Quedarse siempre en casa",
+"Cambiar de lugar para vivir"
+],
+"correcta": 2,
+"porque": "Migrar es mudarse a otro lugar."
+},
+{
+"pregunta": "Una familia sale de México para vivir en Canadá. ¿Qué hace?",
+"opciones": [
+"Se queda quieta en su casa",
+"Inmigra, porque se va lejos",
+"Emigra, porque sale de México"
+],
+"correcta": 2,
+"porque": "Emigrar es salir de tu lugar para vivir en otro."
+},
+{
+"pregunta": "¿Qué derechos tiene una persona que migra?",
+"opciones": [
+"Los conserva",
+"Ninguno al llegar",
+"Solo la mitad"
+],
+"correcta": 0,
+"porque": "Migrar no quita derechos."
+},
+{
+"pregunta": "¿Por qué migra la gente?",
+"opciones": [
+"Por trabajo o seguridad",
+"Porque no hay lugares en el mundo",
+"Para no hablar con nadie"
+],
+"correcta": 0,
+"porque": "Se migra por trabajo, seguridad o familia."
+},
+{
+"pregunta": "Llega un compañero de otro estado. ¿Qué haces?",
+"opciones": [
+"Lo ayudo a sentirse bien",
+"Le hago burla por hablar distinto",
+"Lo dejo solo en el patio"
+],
+"correcta": 0,
+"porque": "Ayudarlo respeta sus derechos."
+}
+],
+"miguel-hidalgo-y-el-grito-de-dolores-primaria": [
+{
+"pregunta": "¿Quién fue Miguel Hidalgo?",
+"opciones": [
+"Un emperador francés",
+"El cura que inició la Independencia",
+"Un presidente de 1917"
+],
+"correcta": 1,
+"porque": "Hidalgo llamó a levantarse en 1810."
+},
+{
+"pregunta": "¿En qué pueblo dio el Grito?",
+"opciones": [
+"Dolores",
+"Cananea",
+"Chapultepec"
+],
+"correcta": 0,
+"porque": "El Grito de Dolores fue el 16 de septiembre de 1810."
+},
+{
+"pregunta": "¿Qué estandarte usó?",
+"opciones": [
+"La bandera de Estados Unidos",
+"La Virgen de Guadalupe",
+"La bandera de Francia"
+],
+"correcta": 1,
+"porque": "Ese estandarte unió a mucha gente."
+},
+{
+"pregunta": "¿Quiénes ayudaron a Hidalgo?",
+"opciones": [
+"Allende y Aldama",
+"Juárez y Lerdo",
+"Zapata y Villa"
+],
+"correcta": 0,
+"porque": "Allende, Aldama y Josefa Ortiz ayudaron."
+},
+{
+"pregunta": "¿Qué recuerda el Grito de cada 15 de septiembre?",
+"opciones": [
+"La Constitución de 1917",
+"El inicio de la Independencia",
+"La batalla de Puebla"
+],
+"correcta": 1,
+"porque": "Recuerda el llamado de Hidalgo en 1810."
+}
+],
+"porfiriato-orden-y-progreso-primaria": [
+{
+"pregunta": "¿Cuál fue el lema del Porfiriato?",
+"opciones": [
+"Orden y progreso",
+"Tierra y Libertad",
+"Sufragio efectivo"
+],
+"correcta": 0,
+"porque": "Díaz decía que quería orden y progreso."
+},
+{
+"pregunta": "¿Qué avance trajo el Porfiriato?",
+"opciones": [
+"Elecciones libres",
+"Ferrocarriles",
+"Derechos para trabajadores"
+],
+"correcta": 1,
+"porque": "Se construyeron muchos ferrocarriles."
+},
+{
+"pregunta": "¿Qué problema tuvo el Porfiriato?",
+"opciones": [
+"Dictadura y represión",
+"Muchas elecciones libres",
+"Salarios muy altos"
+],
+"correcta": 0,
+"porque": "Díaz gobernó casi sin elecciones libres."
+},
+{
+"pregunta": "¿Cómo vivían muchos peones?",
+"opciones": [
+"Con mucha tierra propia",
+"En pobreza, sin derechos",
+"Con grandes haciendas propias"
+],
+"correcta": 1,
+"porque": "Durante el Porfiriato, muchos peones vivían en pobreza."
+},
+{
+"pregunta": "En dos columnas pones lo bueno y lo malo. ¿Dónde pones el telégrafo?",
+"opciones": [
+"En lo bueno",
+"En ninguna",
+"En lo malo"
+],
+"correcta": 0,
+"porque": "El telégrafo fue un avance."
+}
+],
+"primer-imperio-de-mexico-primaria": [
+{
+"pregunta": "¿Quién fue Agustín I?",
+"opciones": [
+"Benito Juárez",
+"Miguel Hidalgo",
+"Agustín de Iturbide"
+],
+"correcta": 2,
+"porque": "Iturbide fue coronado emperador en 1822."
+},
+{
+"pregunta": "¿Qué hizo Iturbide con el Congreso?",
+"opciones": [
+"Lo copió",
+"Lo disolvió",
+"Lo fortaleció"
+],
+"correcta": 1,
+"porque": "Disolver el Congreso le quitó apoyo."
+},
+{
+"pregunta": "¿Qué plan lo derrocó?",
+"opciones": [
+"Plan de Ayala",
+"Plan de San Luis",
+"Plan de Casa Mata"
+],
+"correcta": 2,
+"porque": "Casa Mata lo hizo abdicar."
+},
+{
+"pregunta": "¿Cuánto duró el imperio?",
+"opciones": [
+"Treinta años",
+"Veinte años",
+"Menos de un año"
+],
+"correcta": 2,
+"porque": "Fue breve, de 1822 a 1823."
+},
+{
+"pregunta": "Comparas imperio y república. ¿Quién manda en el imperio?",
+"opciones": [
+"Los niños",
+"El pueblo con votos",
+"Un emperador"
+],
+"correcta": 2,
+"porque": "En un imperio manda una sola persona."
+}
+],
+"primera-republica-y-constitucion-de-1824-primaria": [
+{
+"pregunta": "¿Quién fue el primer presidente?",
+"opciones": [
+"Guadalupe Victoria",
+"Porfirio Díaz",
+"Benito Juárez"
+],
+"correcta": 0,
+"porque": "Fue el primero tras la Constitución de 1824."
+},
+{
+"pregunta": "¿Qué tipo de república creó 1824?",
+"opciones": [
+"Monárquica",
+"Federal",
+"Imperial"
+],
+"correcta": 1,
+"porque": "Los estados tenían gobierno propio."
+},
+{
+"pregunta": "¿Cuáles son los tres poderes?",
+"opciones": [
+"Ejecutivo, Legislativo y Judicial",
+"Rey, virrey y obispo",
+"Maestro, alumno y director"
+],
+"correcta": 0,
+"porque": "Los tres poderes dividen el gobierno."
+},
+{
+"pregunta": "¿Quiénes disputaban el poder?",
+"opciones": [
+"Cristeros y maximistas",
+"Zapatistas y villistas",
+"Federalistas y centralistas"
+],
+"correcta": 2,
+"porque": "Esos grupos tenían ideas distintas."
+},
+{
+"pregunta": "Comparas 1824 con hoy. ¿Qué sigue igual?",
+"opciones": [
+"El rey en el trono",
+"La religión oficial",
+"Los tres poderes"
+],
+"correcta": 2,
+"porque": "México aún tiene tres poderes."
+}
+],
+"proteccion-integridad-maltrato-primaria": [
+{
+"pregunta": "Alguien te maltrata y nadie te cree. ¿Qué haces?",
+"opciones": [
+"Me quedo callado para siempre",
+"Pienso que fue mi culpa",
+"Se lo cuento a otro adulto"
+],
+"correcta": 2,
+"porque": "Debes seguir pidiendo ayuda hasta que te escuchen."
+},
+{
+"pregunta": "¿Qué es la integridad?",
+"opciones": [
+"Ganar en todos los juegos",
+"Tener muchos juguetes",
+"Cuerpo y emociones protegidos"
+],
+"correcta": 2,
+"porque": "Nadie debe dañarte por dentro o por fuera."
+},
+{
+"pregunta": "Un adulto te pide un secreto que te incomoda. ¿Qué haces?",
+"opciones": [
+"Lo guardo aunque me dé miedo",
+"Se lo cuento a alguien de confianza",
+"Lo cuento solo a un extraño"
+],
+"correcta": 1,
+"porque": "Contar es una forma de protegerte."
+},
+{
+"pregunta": "¿Es culpa tuya si te maltratan?",
+"opciones": [
+"Sí, cuando te enojaste",
+"No, nunca es tu culpa",
+"Sí, si no te defendiste"
+],
+"correcta": 1,
+"porque": "Nadie merece maltrato, y nunca es culpa de quien lo recibe."
+},
+{
+"pregunta": "¿A quién puedes anotar como adulto de confianza?",
+"opciones": [
+"A nadie, porque no hay",
+"A cualquier persona que no conoces",
+"A tu maestra o a un familiar"
+],
+"correcta": 2,
+"porque": "Anota adultos que te escuchan y cuidan."
+}
+],
+"republica-restaurada-primaria": [
+{
+"pregunta": "¿Qué años abarca la República Restaurada?",
+"opciones": [
+"De 1867 a 1876",
+"De 1910 a 1917",
+"De 1810 a 1821"
+],
+"correcta": 0,
+"porque": "Empezó con el triunfo de Juárez."
+},
+{
+"pregunta": "¿Quién siguió a Juárez?",
+"opciones": [
+"Porfirio Díaz",
+"Guadalupe Victoria",
+"Sebastián Lerdo de Tejada"
+],
+"correcta": 2,
+"porque": "Lerdo gobernó tras Juárez."
+},
+{
+"pregunta": "¿Qué escuela creó Gabino Barreda?",
+"opciones": [
+"El Instituto Politécnico Nacional",
+"La Secretaría de Educación Pública",
+"La Escuela Nacional Preparatoria"
+],
+"correcta": 2,
+"porque": "Gabino Barreda creó la Escuela Nacional Preparatoria."
+},
+{
+"pregunta": "¿Qué se inauguró en 1873?",
+"opciones": [
+"El ferrocarril México-Veracruz",
+"El metro de la capital",
+"El Banco de México"
+],
+"correcta": 0,
+"porque": "Fue el primer gran ferrocarril del país."
+},
+{
+"pregunta": "¿Qué cambió cuando volvió la república?",
+"opciones": [
+"Se acabaron las leyes",
+"Se restableció la Constitución de 1857",
+"Volvió un emperador"
+],
+"correcta": 1,
+"porque": "La república volvió a regirse por esa Constitución."
+}
+],
+"respeto-culturas-america-mundo-primaria": [
+{
+"pregunta": "¿Qué es una cultura?",
+"opciones": [
+"Costumbres y lenguas de un pueblo",
+"Una tarea de matemáticas",
+"Un juguete caro"
+],
+"correcta": 0,
+"porque": "Incluye tradiciones, comida y fiestas."
+},
+{
+"pregunta": "Un compañero nuevo trae otra comida. ¿Qué haces?",
+"opciones": [
+"Le digo que es feo",
+"Pregunto con interés",
+"Me burlo de su lonche"
+],
+"correcta": 1,
+"porque": "Preguntar muestra respeto."
+},
+{
+"pregunta": "Si una costumbre es distinta a la tuya, ¿qué haces?",
+"opciones": [
+"Pides que la dejen de hacer",
+"Preguntas con interés y respeto",
+"Te burlas para hacer reír"
+],
+"correcta": 1,
+"porque": "Si algo es distinto, preguntas con interés y no te burlas."
+},
+{
+"pregunta": "Alguien dice que todos los de otro país son flojos. ¿Qué es?",
+"opciones": [
+"Un estereotipo",
+"Un dato verdadero",
+"Una fiesta"
+],
+"correcta": 0,
+"porque": "No todas las personas son iguales."
+},
+{
+"pregunta": "Para recibir a un alumno de otra cultura, ¿qué haces?",
+"opciones": [
+"Lo ignoro en el salón",
+"Lo escucho y lo invito",
+"Le pido que sea igual a mí"
+],
+"correcta": 1,
+"porque": "Recibirlo bien ayuda a que se sienta incluido."
+}
+]
+}

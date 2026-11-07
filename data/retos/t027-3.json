@@ -1,0 +1,522 @@
+{
+"resolver-triangulos-rectangulos-prepa": [
+{
+"pregunta": "Hipotenusa 30 y ángulo 30°. ¿Cuánto mide el cateto opuesto?",
+"opciones": [
+"Mide 15",
+"Mide 60",
+"Mide 30"
+],
+"correcta": 0,
+"porque": "Se usa $30 \\times \\sin 30° = 30 \\times 0.5 = 15$."
+},
+{
+"pregunta": "Cateto adyacente 6 y ángulo 45°. ¿Cuánto mide el opuesto?",
+"opciones": [
+"Mide 3, la mitad",
+"Mide 12, el doble",
+"Mide 6, igual al otro"
+],
+"correcta": 2,
+"porque": "A 45° la tangente es 1, y los dos catetos son iguales."
+},
+{
+"pregunta": "Un ángulo agudo mide 35°. ¿Cuánto mide el otro?",
+"opciones": [
+"Mide 55°",
+"Mide 145°",
+"Mide 35°"
+],
+"correcta": 0,
+"porque": "Los dos ángulos agudos suman 90°, y $90 - 35 = 55$."
+},
+{
+"pregunta": "Catetos 5 y 5. ¿Cuánto mide cada ángulo agudo?",
+"opciones": [
+"Mide 30°",
+"Mide 45°",
+"Mide 60°"
+],
+"correcta": 1,
+"porque": "Con catetos iguales los ángulos son iguales y suman 90°."
+},
+{
+"pregunta": "Con el sol a 45°, la sombra de un árbol mide 12 m. ¿Cuánto mide el árbol?",
+"opciones": [
+"Mide 6 m",
+"Mide 12 m",
+"Mide 24 m"
+],
+"correcta": 1,
+"porque": "A 45° la altura y la sombra son iguales."
+}
+],
+"secciones-conicas-modelado-estimacion": [
+{
+"pregunta": "¿Qué cónica es $x^2 + y^2 = 64$ y cuánto mide su radio?",
+"opciones": [
+"Circunferencia de radio 64",
+"Circunferencia de radio 8",
+"Elipse de radio 8"
+],
+"correcta": 1,
+"porque": "Es una suma con números iguales, y el radio es la raíz de 64."
+},
+{
+"pregunta": "Identifica $x^2 - y^2 = 9$.",
+"opciones": [
+"Es una hipérbola",
+"Es una elipse",
+"Es una parábola"
+],
+"correcta": 0,
+"porque": "Una resta de dos cuadrados da una hipérbola."
+},
+{
+"pregunta": "Identifica $y = 2x^2$.",
+"opciones": [
+"Es una hipérbola",
+"Es una parábola",
+"Es una circunferencia"
+],
+"correcta": 1,
+"porque": "Solo una letra está al cuadrado, y eso da una parábola."
+},
+{
+"pregunta": "Estima el área de $\\frac{x^2}{9} + \\frac{y^2}{4} = 1$.",
+"opciones": [
+"Es $36\\pi$",
+"Es $6\\pi$",
+"Es $13\\pi$"
+],
+"correcta": 1,
+"porque": "Se usa $\\pi ab$ con $a = 3$ y $b = 2$."
+},
+{
+"pregunta": "Cortas un cono de helado derecho y parejo. ¿Qué figura sale?",
+"opciones": [
+"Una hipérbola",
+"Un cuadrado",
+"Un círculo"
+],
+"correcta": 2,
+"porque": "Si el corte es parejo, sale una circunferencia."
+}
+],
+"calculos-combinados-preparatoria": [
+{
+"pregunta": "Calcula $3 + 5 \\cdot 4$.",
+"opciones": [
+"12",
+"23",
+"32"
+],
+"correcta": 1,
+"porque": "Primero se multiplica $5 \\cdot 4 = 20$ y luego se suma 3."
+},
+{
+"pregunta": "Calcula $(3 + 5) \\cdot 4$.",
+"opciones": [
+"23",
+"32",
+"20"
+],
+"correcta": 1,
+"porque": "Primero va el paréntesis: $8 \\cdot 4 = 32$."
+},
+{
+"pregunta": "Calcula $20 \\div 4 + 3^2$.",
+"opciones": [
+"14",
+"8",
+"64"
+],
+"correcta": 0,
+"porque": "Primero la potencia y la división: $5 + 9 = 14$."
+},
+{
+"pregunta": "Calcula $36 \\div 6 \\cdot 3$.",
+"opciones": [
+"Es 2, se hace primero $6 \\cdot 3$",
+"Es 9, se omite un paso",
+"Es 18, de izquierda a derecha"
+],
+"correcta": 2,
+"porque": "Por y entre van de izquierda a derecha: $6 \\cdot 3 = 18$."
+},
+{
+"pregunta": "Calcula $2 + (9 - 6)^2 \\cdot 2$.",
+"opciones": [
+"20",
+"14",
+"38"
+],
+"correcta": 0,
+"porque": "Paréntesis 3, potencia 9, por 2 da 18, y suma 2."
+}
+],
+"combinaciones-prepa": [
+{
+"pregunta": "Calcula $C(9, 2)$.",
+"opciones": [
+"18",
+"36",
+"72"
+],
+"correcta": 1,
+"porque": "Se usa $\\frac{9 \\times 8}{2} = 36$."
+},
+{
+"pregunta": "¿Cuántos equipos de 3 se forman con 6 alumnos?",
+"opciones": [
+"20",
+"120",
+"18"
+],
+"correcta": 0,
+"porque": "$C(6, 3) = \\frac{720}{6 \\times 6} = 20$."
+},
+{
+"pregunta": "¿Cuántos saludos hay entre 8 personas si todas se saludan una vez?",
+"opciones": [
+"56",
+"28",
+"16"
+],
+"correcta": 1,
+"porque": "Es elegir 2: $\\frac{8 \\times 7}{2} = 28$."
+},
+{
+"pregunta": "Eliges 3 alumnos para un equipo, sin cargos. ¿Qué cuenta se usa?",
+"opciones": [
+"Una suma",
+"Una permutación",
+"Una combinación"
+],
+"correcta": 2,
+"porque": "Como el orden no importa, se usa una combinación."
+},
+{
+"pregunta": "¿Cuántas parejas se forman con 5 alumnos de tu salón?",
+"opciones": [
+"25",
+"10",
+"20"
+],
+"correcta": 1,
+"porque": "Es elegir 2: $\\frac{5 \\times 4}{2} = 10$."
+}
+],
+"diagrama-de-arbol-prepa": [
+{
+"pregunta": "Un menú tiene 5 sopas y 2 postres. ¿Cuántas comidas hay?",
+"opciones": [
+"25",
+"10",
+"7"
+],
+"correcta": 1,
+"porque": "Se multiplica: $5 \\times 2 = 10$."
+},
+{
+"pregunta": "¿Cuántos resultados hay al lanzar 2 dados?",
+"opciones": [
+"12",
+"8",
+"36"
+],
+"correcta": 2,
+"porque": "Cada dado tiene 6 caras, y $6 \\times 6 = 36$."
+},
+{
+"pregunta": "Hay 4 camisas, 3 pantalones y 2 pares de zapatos. ¿Cuántos atuendos hay?",
+"opciones": [
+"24",
+"12",
+"9"
+],
+"correcta": 0,
+"porque": "Se multiplica: $4 \\times 3 \\times 2 = 24$."
+},
+{
+"pregunta": "En un árbol de probabilidad, ¿qué haces a lo largo de un camino?",
+"opciones": [
+"Multiplicas las probabilidades",
+"Restas las probabilidades",
+"Sumas las probabilidades"
+],
+"correcta": 0,
+"porque": "Para un camino completo se multiplica rama por rama."
+},
+{
+"pregunta": "Una rama se abre en 3 y cada una se abre en 2. ¿Cuántas puntas hay?",
+"opciones": [
+"6",
+"5",
+"9"
+],
+"correcta": 0,
+"porque": "Se multiplica: $3 \\times 2 = 6$."
+}
+],
+"ecuaciones-exponenciales-y-logaritmicas-prepa": [
+{
+"pregunta": "Resuelve $3^x = 81$.",
+"opciones": [
+"$x = 27$",
+"$x = 4$",
+"$x = 3$"
+],
+"correcta": 1,
+"porque": "Como $81 = 3^4$, los exponentes son iguales."
+},
+{
+"pregunta": "Resuelve $25^x = 5$.",
+"opciones": [
+"$x = \\frac{1}{2}$, porque es la raíz",
+"$x = 2$, porque es el cuadrado",
+"$x = 5$, porque es la base"
+],
+"correcta": 0,
+"porque": "Como $25^{\\frac{1}{2}} = \\sqrt{25} = 5$."
+},
+{
+"pregunta": "Resuelve $\\log_5 x = 2$.",
+"opciones": [
+"$x = 25$",
+"$x = 7$",
+"$x = 10$"
+],
+"correcta": 0,
+"porque": "Se pasa a potencia: $x = 5^2 = 25$."
+},
+{
+"pregunta": "Resuelve $5^x = 30$.",
+"opciones": [
+"$x = 30 - 5$",
+"$x = \\frac{30}{5}$",
+"$x = \\frac{\\log 30}{\\log 5}$"
+],
+"correcta": 2,
+"porque": "Con distinta base se usan logaritmos para bajar la $x$."
+},
+{
+"pregunta": "¿Cómo debe ser el número dentro de un logaritmo?",
+"opciones": [
+"Negativo",
+"Cero",
+"Positivo"
+],
+"correcta": 2,
+"porque": "No existe el logaritmo de 0 ni de un negativo."
+}
+],
+"exponentes-negativos-y-fraccionarios-prepa": [
+{
+"pregunta": "Calcula $16^{\\frac{3}{4}}$.",
+"opciones": [
+"Vale 8",
+"Vale 12",
+"Vale 64"
+],
+"correcta": 0,
+"porque": "La raíz cuarta de 16 es 2, y $2^3 = 8$."
+},
+{
+"pregunta": "Calcula $2^{-4}$.",
+"opciones": [
+"Es $\\frac{1}{16}$, una fracción",
+"Es $-8$, un doble negativo",
+"Es $-16$, un negativo"
+],
+"correcta": 0,
+"porque": "El exponente negativo voltea: $\\frac{1}{2^4} = \\frac{1}{16}$."
+},
+{
+"pregunta": "Calcula $125^{\\frac{1}{3}}$.",
+"opciones": [
+"Vale 25",
+"Vale 5",
+"Vale 42"
+],
+"correcta": 1,
+"porque": "Es la raíz cúbica de 125, porque $5^3 = 125$."
+},
+{
+"pregunta": "Simplifica $x^{\\frac{1}{3}} \\cdot x^{\\frac{2}{3}}$.",
+"opciones": [
+"Queda $x$",
+"Queda $x^{2}$",
+"Queda $x^{\\frac{2}{9}}$"
+],
+"correcta": 0,
+"porque": "Se suman los exponentes: $\\frac{1}{3} + \\frac{2}{3} = 1$."
+},
+{
+"pregunta": "¿Cómo se escribe $\\frac{1}{8}$ como potencia de 2?",
+"opciones": [
+"$2^{-3}$",
+"$-2^{3}$",
+"$2^{3}$"
+],
+"correcta": 0,
+"porque": "Como $2^3 = 8$, el exponente negativo da $\\frac{1}{8}$."
+}
+],
+"factorial-prepa": [
+{
+"pregunta": "Calcula $\\frac{9!}{7!}$.",
+"opciones": [
+"Vale 2",
+"Vale 72",
+"Vale 9"
+],
+"correcta": 1,
+"porque": "Se cancela $7!$ y queda $9 \\times 8 = 72$."
+},
+{
+"pregunta": "Calcula $\\frac{6!}{4!}$.",
+"opciones": [
+"2",
+"30",
+"24"
+],
+"correcta": 1,
+"porque": "Queda $6 \\times 5 = 30$."
+},
+{
+"pregunta": "Simplifica $\\frac{8!}{7!}$.",
+"opciones": [
+"8",
+"1",
+"7"
+],
+"correcta": 0,
+"porque": "Como son seguidos, queda el número mayor."
+},
+{
+"pregunta": "¿De cuántas formas se forman 5 niños en una fila?",
+"opciones": [
+"15",
+"25",
+"120"
+],
+"correcta": 2,
+"porque": "Se multiplica $5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$."
+},
+{
+"pregunta": "¿Cuánto vale $0!$?",
+"opciones": [
+"No existe",
+"Vale 0",
+"Vale 1"
+],
+"correcta": 2,
+"porque": "Por acuerdo, $0! = 1$."
+}
+],
+"fracciones-y-porcentajes-preparatoria": [
+{
+"pregunta": "Calcula $\\frac{1}{4} + \\frac{1}{6}$.",
+"opciones": [
+"$\\frac{1}{10}$",
+"$\\frac{2}{10}$",
+"$\\frac{5}{12}$"
+],
+"correcta": 2,
+"porque": "Con denominador 12: $\\frac{3}{12} + \\frac{2}{12} = \\frac{5}{12}$."
+},
+{
+"pregunta": "Calcula el 30% de 150.",
+"opciones": [
+"30",
+"50",
+"45"
+],
+"correcta": 2,
+"porque": "Es $150 \\times 0.30 = 45$."
+},
+{
+"pregunta": "Una playera de 300 pesos tiene 20% de descuento. ¿Cuánto pagas?",
+"opciones": [
+"240 pesos",
+"280 pesos",
+"60 pesos"
+],
+"correcta": 0,
+"porque": "El descuento es 60, y $300 - 60 = 240$."
+},
+{
+"pregunta": "Convierte $35\\%$ a decimal.",
+"opciones": [
+"3.5",
+"0.035",
+"0.35"
+],
+"correcta": 2,
+"porque": "$35\\%$ es $\\frac{35}{100}$, o sea 0.35."
+},
+{
+"pregunta": "Calcula $\\frac{2}{3} + \\frac{1}{6}$.",
+"opciones": [
+"$\\frac{3}{9}$",
+"$\\frac{2}{18}$",
+"$\\frac{5}{6}$"
+],
+"correcta": 2,
+"porque": "Con denominador 6: $\\frac{4}{6} + \\frac{1}{6} = \\frac{5}{6}$."
+}
+],
+"logaritmos-y-sus-propiedades-prepa": [
+{
+"pregunta": "Calcula $\\log_2 64$.",
+"opciones": [
+"8",
+"6",
+"32"
+],
+"correcta": 1,
+"porque": "Se multiplican seis 2 para llegar a 64."
+},
+{
+"pregunta": "Calcula $\\log_5 125$.",
+"opciones": [
+"25",
+"3",
+"5"
+],
+"correcta": 1,
+"porque": "Como $5^3 = 125$, el logaritmo es 3."
+},
+{
+"pregunta": "Expande $\\log\\frac{a}{b^2}$.",
+"opciones": [
+"$\\log a - 2\\log b$",
+"$2\\log a - \\log b$",
+"$\\log a - \\log 2b$"
+],
+"correcta": 0,
+"porque": "La división resta y la potencia baja como multiplicación."
+},
+{
+"pregunta": "Calcula $\\log_{10} 0.001$.",
+"opciones": [
+"$-3$",
+"3",
+"$-1$"
+],
+"correcta": 0,
+"porque": "Como $10^{-3} = 0.001$, el logaritmo es $-3$."
+},
+{
+"pregunta": "¿A cuánto es igual $\\log 2 + \\log 5$ en base 10?",
+"opciones": [
+"A 1",
+"A 10",
+"A 7"
+],
+"correcta": 0,
+"porque": "Sumar logaritmos multiplica: $\\log 10 = 1$."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"derivada-polinomios-preparatoria": [
+{
+"pregunta": "Deriva $f(x)=2x^5$.",
+"opciones": [
+"$10x^5$",
+"$10x^4$",
+"$2x^4$"
+],
+"correcta": 1,
+"porque": "Baja el 5 a multiplicar por 2 y réstale 1 al exponente."
+},
+{
+"pregunta": "Deriva $f(x)=x^2-8x+3$.",
+"opciones": [
+"$2x+3$",
+"$2x-8$",
+"$2x-5$"
+],
+"correcta": 1,
+"porque": "Se deriva término por término y el número solo desaparece."
+},
+{
+"pregunta": "¿Cuánto da la derivada del número solo $9$?",
+"opciones": [
+"1",
+"0",
+"9"
+],
+"correcta": 1,
+"porque": "Un número solo no cambia, así que su derivada es 0."
+},
+{
+"pregunta": "Si $s(t)=t^2$ metros, ¿qué velocidad lleva a los 5 segundos?",
+"opciones": [
+"5 m/s",
+"25 m/s",
+"10 m/s"
+],
+"correcta": 2,
+"porque": "La velocidad es $s'(t)=2t$ y con $t=5$ da 10."
+},
+{
+"pregunta": "¿Qué dice la derivada, como el velocímetro de un coche?",
+"opciones": [
+"Dónde está el coche en total",
+"Cuánto camino ya recorrió el coche",
+"Qué tan rápido cambia algo en ese instante"
+],
+"correcta": 2,
+"porque": "El velocímetro marca la rapidez justo ahora, igual que la derivada."
+}
+],
+"derivadas-exponenciales-y-logaritmicas-prepa": [
+{
+"pregunta": "Deriva $e^x$.",
+"opciones": [
+"$e^x$",
+"$e^{-x}$",
+"$xe^x$"
+],
+"correcta": 0,
+"porque": "La derivada de $e^x$ es ella misma."
+},
+{
+"pregunta": "Deriva $e^{4x}$.",
+"opciones": [
+"$4e^{4x}$",
+"$e^{4x}$",
+"$4e^{x}$"
+],
+"correcta": 0,
+"porque": "Se multiplica por la derivada de adentro, que es 4."
+},
+{
+"pregunta": "Deriva $\\ln x$.",
+"opciones": [
+"$\\ln x$",
+"$e^x$",
+"$\\frac{1}{x}$"
+],
+"correcta": 2,
+"porque": "La derivada del logaritmo natural es uno entre $x$."
+},
+{
+"pregunta": "Deriva $\\ln(7x)$.",
+"opciones": [
+"$\\frac{1}{7x}$",
+"$\\frac{7}{x}$",
+"$\\frac{1}{x}$"
+],
+"correcta": 2,
+"porque": "El 7 se cancela: la derivada de $7x$ es 7 y se divide entre $7x$."
+},
+{
+"pregunta": "Deriva $3^x$.",
+"opciones": [
+"$3^x\\ln 3$",
+"$x3^{x-1}$",
+"$3^x$"
+],
+"correcta": 0,
+"porque": "En $a^x$ se agrega $\\ln a$ al derivar."
+}
+],
+"derivadas-trigonometricas-prepa": [
+{
+"pregunta": "Deriva $\\cos x$.",
+"opciones": [
+"$-\\cos x$",
+"$-\\sin x$",
+"$\\sin x$"
+],
+"correcta": 1,
+"porque": "Lo que empieza con co lleva menos al derivar."
+},
+{
+"pregunta": "Deriva $4\\cos x$.",
+"opciones": [
+"$-4\\sin x$",
+"$-\\sin x$",
+"$4\\sin x$"
+],
+"correcta": 0,
+"porque": "El 4 se queda y el coseno se vuelve menos seno."
+},
+{
+"pregunta": "Deriva $\\sin 5x$.",
+"opciones": [
+"$\\cos 5x$",
+"$5\\cos 5x$",
+"$-5\\cos 5x$"
+],
+"correcta": 1,
+"porque": "Se multiplica por la derivada de adentro, que es 5."
+},
+{
+"pregunta": "Deriva $\\tan x$.",
+"opciones": [
+"$\\sec^2 x$",
+"$-\\sec^2 x$",
+"$\\sec x$"
+],
+"correcta": 0,
+"porque": "La derivada de tangente es secante al cuadrado."
+},
+{
+"pregunta": "Deriva $\\sin^2 x$.",
+"opciones": [
+"$2\\sin x\\cos x$",
+"$\\cos^2 x$",
+"$2\\sin x$"
+],
+"correcta": 0,
+"porque": "Baja el 2 y multiplica por la derivada del seno, que es coseno."
+}
+],
+"integral-definida-prepa": [
+{
+"pregunta": "Calcula $\\int_0^3 2x\\,dx$.",
+"opciones": [
+"18",
+"9",
+"6"
+],
+"correcta": 1,
+"porque": "$F=x^2$ y $9-0=9$."
+},
+{
+"pregunta": "Calcula $\\int_1^2 3x^2\\,dx$.",
+"opciones": [
+"8",
+"7",
+"3"
+],
+"correcta": 1,
+"porque": "$F=x^3$ y $8-1=7$."
+},
+{
+"pregunta": "Calcula $\\int_0^2 x\\,dx$.",
+"opciones": [
+"1",
+"2",
+"4"
+],
+"correcta": 1,
+"porque": "$F=\\frac{x^2}{2}$ y $\\frac{4}{2}-0=2$."
+},
+{
+"pregunta": "Calcula $\\int_2^2 5x\\,dx$.",
+"opciones": [
+"10",
+"0",
+"5"
+],
+"correcta": 1,
+"porque": "Si los dos números son iguales, no hay nada que sumar y da 0."
+},
+{
+"pregunta": "En una integral definida, ¿qué haces con $F(b)$ y $F(a)$?",
+"opciones": [
+"Restas $F(b)$ menos $F(a)$",
+"Sumas $F(b)$ con $F(a)$",
+"Multiplicas $F(b)$ por $F(a)$"
+],
+"correcta": 0,
+"porque": "Se pone el número de arriba y se resta el de abajo."
+}
+],
+"integral-indefinida-prepa": [
+{
+"pregunta": "Calcula $\\int 2x\\,dx$.",
+"opciones": [
+"$x+C$",
+"$x^2+C$",
+"$2x^2+C$"
+],
+"correcta": 1,
+"porque": "Al derivar $x^2$ sale $2x$."
+},
+{
+"pregunta": "Calcula $\\int 6\\,dx$.",
+"opciones": [
+"$6x+C$",
+"$6+C$",
+"$3x^2+C$"
+],
+"correcta": 0,
+"porque": "Al derivar $6x$ sale 6."
+},
+{
+"pregunta": "Calcula $\\int x^3\\,dx$.",
+"opciones": [
+"$\\frac{x^3}{3}+C$",
+"$\\frac{x^4}{4}+C$",
+"$3x^2+C$"
+],
+"correcta": 1,
+"porque": "Sube el exponente a 4 y divide entre 4."
+},
+{
+"pregunta": "Si $F=x^2+C$ y $F(2)=7$, ¿cuánto vale $C$?",
+"opciones": [
+"3",
+"11",
+"5"
+],
+"correcta": 0,
+"porque": "Queda $4+C=7$, así que $C=3$."
+},
+{
+"pregunta": "¿Por qué se escribe $+C$ al final?",
+"opciones": [
+"Al derivar, los números solos desaparecen",
+"Porque siempre hay que sumar uno más",
+"Porque la integral siempre crece un poco"
+],
+"correcta": 0,
+"porque": "No sabemos qué número solo había antes de derivar."
+}
+],
+"limite-continuidad-funciones": [
+{
+"pregunta": "Calcula $\\lim_{x\\to 5}(x+4)$.",
+"opciones": [
+"9",
+"5",
+"4"
+],
+"correcta": 0,
+"porque": "Se sustituye $x$ por 5 y da 9."
+},
+{
+"pregunta": "Calcula $\\lim_{x\\to 3}\\frac{x^2-9}{x-3}$.",
+"opciones": [
+"3",
+"0",
+"6"
+],
+"correcta": 2,
+"porque": "Queda $x+3$ al factorizar, y con 3 da 6."
+},
+{
+"pregunta": "¿Qué significa que una función sea continua?",
+"opciones": [
+"Su gráfica es una línea recta",
+"La dibujas sin levantar el lápiz",
+"Solo tiene valores positivos"
+],
+"correcta": 1,
+"porque": "Continua es que no tiene saltos ni huecos."
+},
+{
+"pregunta": "¿Es continua $f(x)=\\frac{1}{x-2}$ en $x=2$?",
+"opciones": [
+"Sí, porque 2 es un número entero",
+"No, porque queda dividido entre 0",
+"Sí, porque la gráfica sube siempre"
+],
+"correcta": 1,
+"porque": "En $x=2$ la función no existe, así que se rompe."
+},
+{
+"pregunta": "Caminas a la pared dando cada vez medio paso. ¿Cuál es el límite?",
+"opciones": [
+"El lugar donde empezaste",
+"La pared, a donde te acercas",
+"El último paso que diste"
+],
+"correcta": 1,
+"porque": "El límite es el valor al que te acercas cada vez más."
+}
+],
+"limites-al-infinito-prepa": [
+{
+"pregunta": "Calcula $\\lim_{x \\to \\infty} \\frac{6x+1}{3x}$.",
+"opciones": [
+"3",
+"6",
+"2"
+],
+"correcta": 2,
+"porque": "Las potencias son iguales, así que divides $6\\div3=2$."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to \\infty} \\frac{7}{x}$.",
+"opciones": [
+"0",
+"7",
+"Crece sin fin"
+],
+"correcta": 0,
+"porque": "Un número entre algo gigante se vuelve casi nada."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to \\infty} \\frac{x^2+3}{x}$.",
+"opciones": [
+"Crece sin fin",
+"Vale uno",
+"Llega a cero"
+],
+"correcta": 0,
+"porque": "Arriba tiene la potencia más grande y gana."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to \\infty} \\frac{5x^2+1}{x^2-2}$.",
+"opciones": [
+"5",
+"0",
+"1"
+],
+"correcta": 0,
+"porque": "Las potencias son iguales y se dividen $5\\div1$."
+},
+{
+"pregunta": "Si arriba hay menor potencia que abajo, ¿cuánto da el límite al infinito?",
+"opciones": [
+"0",
+"Crece sin fin",
+"1"
+],
+"correcta": 0,
+"porque": "Abajo crece más rápido, así que la fracción se achica hasta 0."
+}
+],
+"limites-por-factorizacion-prepa": [
+{
+"pregunta": "Calcula $\\lim_{x \\to 5} \\frac{x^2-25}{x-5}$.",
+"opciones": [
+"10",
+"15",
+"25"
+],
+"correcta": 0,
+"porque": "Queda $x+5$ y con 5 da 10."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to 0} \\frac{x^2+7x}{x}$.",
+"opciones": [
+"1",
+"0",
+"7"
+],
+"correcta": 2,
+"porque": "Sacas $x$ de factor común, queda $x+7$ y con 0 da 7."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to 1} \\frac{x^2-3x+2}{x-1}$.",
+"opciones": [
+"$-1$",
+"$+2$",
+"$-2$"
+],
+"correcta": 0,
+"porque": "Queda $x-2$ y con 1 da $-1$."
+},
+{
+"pregunta": "Al sustituir sale $\\frac{0}{0}$. ¿Qué haces primero?",
+"opciones": [
+"Factorizar y cancelar",
+"Cambiar $x$ por infinito",
+"Decir que no existe"
+],
+"correcta": 0,
+"porque": "Quitas el factor que estorba y luego sustituyes."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to -2} \\frac{x^2-4}{x+2}$.",
+"opciones": [
+"$+4$",
+"$-2$",
+"$-4$"
+],
+"correcta": 2,
+"porque": "Queda $x-2$ y con $-2$ da $-4$."
+}
+],
+"limites-por-sustitucion-directa-prepa": [
+{
+"pregunta": "Calcula $\\lim_{x \\to 3}(4x-2)$.",
+"opciones": [
+"12",
+"2",
+"10"
+],
+"correcta": 2,
+"porque": "Cambias $x$ por 3: $12-2=10$."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to 2}\\frac{x^2+1}{x+3}$.",
+"opciones": [
+"5",
+"1",
+"$\\frac{5}{3}$"
+],
+"correcta": 1,
+"porque": "Arriba da 5 y abajo da 5, entonces el resultado es 1."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to -2}x^2$.",
+"opciones": [
+"$-4$",
+"2",
+"4"
+],
+"correcta": 2,
+"porque": "$(-2)(-2)=4$, porque menos por menos da más."
+},
+{
+"pregunta": "Al sustituir sale $\\frac{0}{0}$. ¿Ya terminaste?",
+"opciones": [
+"No, hay que trabajar más",
+"Sí, la respuesta es 1",
+"Sí, la respuesta es 0"
+],
+"correcta": 0,
+"porque": "El cero entre cero no es una respuesta, hay que factorizar."
+},
+{
+"pregunta": "Calcula $\\lim_{x \\to 0}\\frac{x+6}{2}$.",
+"opciones": [
+"3",
+"6",
+"0"
+],
+"correcta": 0,
+"porque": "Sustituyes: $\\frac{0+6}{2}=3$."
+}
+],
+"maximos-y-minimos-prepa": [
+{
+"pregunta": "Halla dónde está el mínimo de $f(x)=x^2-10x$.",
+"opciones": [
+"$x=5$",
+"$x=10$",
+"$x=-5$"
+],
+"correcta": 0,
+"porque": "$f'=2x-10=0$ da $x=5$."
+},
+{
+"pregunta": "Halla dónde está el máximo de $f(x)=-x^2+6x$.",
+"opciones": [
+"$x=-3$",
+"$x=3$",
+"$x=6$"
+],
+"correcta": 1,
+"porque": "$f'=-2x+6=0$ da $x=3$."
+},
+{
+"pregunta": "En un punto crítico, $f''$ da positivo. ¿Qué es?",
+"opciones": [
+"Un mínimo, como un valle",
+"Un máximo, como una cima",
+"Ni mínimo ni máximo"
+],
+"correcta": 0,
+"porque": "Positivo significa curva de sonrisa, y abajo está el valle."
+},
+{
+"pregunta": "Dos números suman 20. ¿Cuáles dan el mayor producto?",
+"opciones": [
+"5 y 15",
+"10 y 10",
+"8 y 12"
+],
+"correcta": 1,
+"porque": "El mayor producto sale con números iguales."
+},
+{
+"pregunta": "Con 60 m de malla haces un rectángulo. ¿Qué medidas dan más área?",
+"opciones": [
+"15 m por 15 m",
+"5 m por 25 m",
+"10 m por 20 m"
+],
+"correcta": 0,
+"porque": "$A=x(30-x)$ y $A'=30-2x=0$ da $x=15$."
+}
+]
+}

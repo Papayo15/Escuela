@@ -1,0 +1,470 @@
+{
+"figuras-retoricas-poesia-preparatoria": [
+{
+"pregunta": "\"El sol es una moneda de oro.\" ¿Qué figura es?",
+"opciones": [
+"Metáfora",
+"Símil",
+"Hipérbole"
+],
+"correcta": 0,
+"porque": "Dice una cosa con otra sin usar \"como\"."
+},
+{
+"pregunta": "\"Corrí tan rápido como el viento.\" ¿Qué figura es?",
+"opciones": [
+"Símil",
+"Metáfora",
+"Personificación"
+],
+"correcta": 0,
+"porque": "Compara usando \"como\"."
+},
+{
+"pregunta": "\"Te lo repetí un millón de veces.\" ¿Qué figura es?",
+"opciones": [
+"Personificación",
+"Hipérbole",
+"Metáfora"
+],
+"correcta": 1,
+"porque": "Exagera para dar fuerza."
+},
+{
+"pregunta": "\"El viento susurra en la ventana.\" ¿Qué figura es?",
+"opciones": [
+"Hipérbole",
+"Símil",
+"Personificación"
+],
+"correcta": 2,
+"porque": "El viento hace algo humano: susurrar."
+},
+{
+"pregunta": "¿En qué se diferencia el símil de la metáfora?",
+"opciones": [
+"La metáfora usa \"como\"",
+"El símil usa \"como\"",
+"Ninguna compara cosas"
+],
+"correcta": 1,
+"porque": "Con \"como\" es símil; sin \"como\", metáfora."
+}
+],
+"figuras-retoricas-por-ejemplos-prepa": [
+{
+"pregunta": "\"Ríe por fuera y llora por dentro.\" ¿Qué figura es?",
+"opciones": [
+"Antítesis",
+"Metonimia",
+"Aliteración"
+],
+"correcta": 0,
+"porque": "Junta ideas opuestas: reír y llorar."
+},
+{
+"pregunta": "Ves el pastel quemado y dices \"¡Qué buen cocinero!\" ¿Qué figura es?",
+"opciones": [
+"Metáfora",
+"Antítesis",
+"Ironía"
+],
+"correcta": 2,
+"porque": "La ironía dice lo contrario de lo que piensas."
+},
+{
+"pregunta": "\"Pablito clavó un clavito.\" ¿Qué figura repite sonidos?",
+"opciones": [
+"Aliteración",
+"Hipérbaton",
+"Paradoja"
+],
+"correcta": 0,
+"porque": "Repetir sonidos como \"cl\" es aliteración."
+},
+{
+"pregunta": "\"Escuché a Beethoven toda la tarde.\" ¿Qué figura es?",
+"opciones": [
+"Metonimia",
+"Ironía",
+"Antítesis"
+],
+"correcta": 0,
+"porque": "Nombra al autor en lugar de su música."
+},
+{
+"pregunta": "¿Qué figura cambia el orden normal de las palabras?",
+"opciones": [
+"Hipérbaton",
+"Metáfora",
+"Ironía"
+],
+"correcta": 0,
+"porque": "El hipérbaton altera el orden, como en \"Del salón en el ángulo oscuro\"."
+}
+],
+"gabriel-garcia-marquez-prepa": [
+{
+"pregunta": "¿Quién escribió \"El coronel no tiene quien le escriba\"?",
+"opciones": [
+"Juan Rulfo",
+"Gabriel García Márquez",
+"Jorge Luis Borges"
+],
+"correcta": 1,
+"porque": "Es una obra del escritor colombiano García Márquez."
+},
+{
+"pregunta": "¿Qué premio ganó en 1982?",
+"opciones": [
+"La Copa Mundial",
+"El Premio Cervantes",
+"El Premio Nobel"
+],
+"correcta": 2,
+"porque": "Gabriel García Márquez recibió el Nobel en 1982."
+},
+{
+"pregunta": "¿Dónde vivió muchos años?",
+"opciones": [
+"En Italia",
+"En Argentina",
+"En México"
+],
+"correcta": 2,
+"porque": "Vivió muchos años en México."
+},
+{
+"pregunta": "¿Cómo aparece lo mágico en sus historias?",
+"opciones": [
+"Siempre da mucho miedo",
+"Se explica con ciencia",
+"Pasa como si nada"
+],
+"correcta": 2,
+"porque": "Lo mágico ocurre con naturalidad."
+},
+{
+"pregunta": "¿Qué libro suyo trata de un crimen anunciado?",
+"opciones": [
+"Ficciones",
+"Crónica de una muerte anunciada",
+"Cien años de soledad"
+],
+"correcta": 1,
+"porque": "Ese título es de García Márquez."
+}
+],
+"generos-literarios-perspectivas-prepa": [
+{
+"pregunta": "¿Qué hace el género narrativo?",
+"opciones": [
+"Solo rima",
+"Cuenta",
+"Se actúa"
+],
+"correcta": 1,
+"porque": "El género narrativo cuenta hechos."
+},
+{
+"pregunta": "Una canción expresa lo que siente quien canta. ¿Qué género es?",
+"opciones": [
+"Narrativo",
+"Dramático",
+"Lírico"
+],
+"correcta": 2,
+"porque": "El género lírico expresa sentimientos."
+},
+{
+"pregunta": "Tu grupo prepara una obra de teatro escolar. ¿Qué género es?",
+"opciones": [
+"Narrativo",
+"Dramático",
+"Lírico"
+],
+"correcta": 1,
+"porque": "El dramático se escribe para actuarse."
+},
+{
+"pregunta": "¿Cómo se escribe una obra para actuarse?",
+"opciones": [
+"Sin personajes",
+"Con diálogos",
+"Solo con versos"
+],
+"correcta": 1,
+"porque": "El género dramático usa diálogos."
+},
+{
+"pregunta": "Leíste una novela sobre un viaje. ¿Qué género es?",
+"opciones": [
+"Dramático",
+"Narrativo",
+"Lírico"
+],
+"correcta": 1,
+"porque": "Cuenta una historia, así que es narrativo."
+}
+],
+"jorge-luis-borges-prepa": [
+{
+"pregunta": "¿Quién escribió \"Ficciones\"?",
+"opciones": [
+"Carlos Fuentes",
+"Juan Rulfo",
+"Jorge Luis Borges"
+],
+"correcta": 2,
+"porque": "Es una obra del argentino Borges."
+},
+{
+"pregunta": "¿Qué objetos aparecen en sus cuentos?",
+"opciones": [
+"Relojes y trenes",
+"Espejos y bibliotecas",
+"Barcos y volcanes"
+],
+"correcta": 1,
+"porque": "Sus cuentos están llenos de espejos y bibliotecas."
+},
+{
+"pregunta": "¿Cómo son sus cuentos?",
+"opciones": [
+"Como noticias",
+"Como recetas",
+"Como laberintos"
+],
+"correcta": 2,
+"porque": "Son cuentos llenos de laberintos."
+},
+{
+"pregunta": "¿Qué siguió haciendo tras perder la vista?",
+"opciones": [
+"Dejó de escribir",
+"Siguió creando",
+"Se hizo pintor"
+],
+"correcta": 1,
+"porque": "Perdió la vista y siguió creando."
+},
+{
+"pregunta": "¿En qué años vivió?",
+"opciones": [
+"De 1927 a 2014",
+"De 1917 a 1986",
+"De 1899 a 1986"
+],
+"correcta": 2,
+"porque": "Borges vivió de 1899 a 1986."
+}
+],
+"juan-rulfo-prepa": [
+{
+"pregunta": "¿A dónde va Juan Preciado?",
+"opciones": [
+"A Comala",
+"A Texcoco",
+"A Macondo"
+],
+"correcta": 0,
+"porque": "Va a Comala y encuentra un pueblo lleno de muertos."
+},
+{
+"pregunta": "¿Qué descubre Juan Preciado en el pueblo?",
+"opciones": [
+"Que está lleno de muertos",
+"Que hay una fiesta",
+"Que es una gran ciudad"
+],
+"correcta": 0,
+"porque": "Comala es un pueblo donde los muertos hablan."
+},
+{
+"pregunta": "¿A qué escritor inspiró Rulfo?",
+"opciones": [
+"A Dante",
+"A Cervantes",
+"A García Márquez"
+],
+"correcta": 2,
+"porque": "Su estilo inspiró a García Márquez."
+},
+{
+"pregunta": "¿Cuál de sus obras salió en 1953?",
+"opciones": [
+"El llano en llamas",
+"Pedro Páramo",
+"Aura"
+],
+"correcta": 0,
+"porque": "Es su libro de cuentos de 1953."
+},
+{
+"pregunta": "¿Qué rasgo tienen sus historias?",
+"opciones": [
+"Mares y barcos",
+"Campo mexicano y soledad",
+"Ciudades modernas"
+],
+"correcta": 1,
+"porque": "Cuenta lugares solos del campo mexicano."
+}
+],
+"la-iliada-y-la-odisea-prepa": [
+{
+"pregunta": "¿A quién se atribuyen la Ilíada y la Odisea?",
+"opciones": [
+"A Dante",
+"A Homero",
+"A Cervantes"
+],
+"correcta": 1,
+"porque": "Son poemas épicos de Homero."
+},
+{
+"pregunta": "¿Qué poema cuenta la ira de Aquiles?",
+"opciones": [
+"La Odisea",
+"La Ilíada",
+"La Eneida"
+],
+"correcta": 1,
+"porque": "La Ilíada cuenta la guerra de Troya."
+},
+{
+"pregunta": "¿A dónde regresa Ulises en la Odisea?",
+"opciones": [
+"A Atenas",
+"A Troya",
+"A Ítaca"
+],
+"correcta": 2,
+"porque": "Ulises vuelve a Ítaca tras un largo viaje."
+},
+{
+"pregunta": "¿Cuántos años dura el viaje de Ulises?",
+"opciones": [
+"Dos años",
+"Diez años",
+"Un año"
+],
+"correcta": 1,
+"porque": "El viaje de regreso dura diez años."
+},
+{
+"pregunta": "¿Qué fue el caballo de Troya?",
+"opciones": [
+"Un engaño griego",
+"Un barco veloz",
+"Un regalo sincero"
+],
+"correcta": 0,
+"porque": "Fue un engaño de los griegos."
+}
+],
+"literatura-de-la-revolucion-mexicana-prepa": [
+{
+"pregunta": "¿Quién escribió \"El águila y la serpiente\"?",
+"opciones": [
+"Martín Luis Guzmán",
+"Rafael F. Muñoz",
+"Mariano Azuela"
+],
+"correcta": 0,
+"porque": "Es una obra de Martín Luis Guzmán."
+},
+{
+"pregunta": "¿Quién escribió \"Se llevaron el cañón para Bachimba\"?",
+"opciones": [
+"Nellie Campobello",
+"Mariano Azuela",
+"Rafael F. Muñoz"
+],
+"correcta": 2,
+"porque": "Es una obra de Rafael F. Muñoz."
+},
+{
+"pregunta": "¿Entre qué años narra esta literatura la lucha armada?",
+"opciones": [
+"Entre 1915 y 1940",
+"Entre 1965 y 1990",
+"Entre 1815 y 1840"
+],
+"correcta": 0,
+"porque": "Es la literatura de la lucha armada de 1915 a 1940."
+},
+{
+"pregunta": "¿Qué personajes aparecen mucho en estas obras?",
+"opciones": [
+"Gente del pueblo",
+"Reyes y reinas",
+"Robots y magos"
+],
+"correcta": 0,
+"porque": "Retrata a personas del pueblo."
+},
+{
+"pregunta": "¿Cómo contaron la guerra estos escritores?",
+"opciones": [
+"Sin hablar de personas",
+"Como la vieron",
+"Como un cuento de hadas"
+],
+"correcta": 1,
+"porque": "Eran escritores que contaron lo que vieron."
+}
+],
+"literatura-prehispanica-prepa": [
+{
+"pregunta": "¿Qué es el Rabinal Achí?",
+"opciones": [
+"Un drama maya",
+"Un poema náhuatl",
+"Un libro de cuentas"
+],
+"correcta": 0,
+"porque": "Es un drama maya."
+},
+{
+"pregunta": "¿De qué pueblo es el Popol Vuh?",
+"opciones": [
+"Español",
+"Maya k'iche'",
+"Griego"
+],
+"correcta": 1,
+"porque": "Es el libro sagrado de los mayas k'iche'."
+},
+{
+"pregunta": "¿Quién fue Nezahualcóyotl?",
+"opciones": [
+"Un pintor de murales",
+"Un escritor de España",
+"Poeta y gobernante de Texcoco"
+],
+"correcta": 2,
+"porque": "Fue poeta y gobernante de Texcoco."
+},
+{
+"pregunta": "¿Qué tema aparece en esta literatura?",
+"opciones": [
+"El origen del mundo",
+"Los videojuegos",
+"Los viajes en avión"
+],
+"correcta": 0,
+"porque": "Hablaba de dioses y del origen del mundo."
+},
+{
+"pregunta": "¿Qué es el Chilam Balam?",
+"opciones": [
+"Una novela moderna",
+"Un poema griego",
+"Textos mayas"
+],
+"correcta": 2,
+"porque": "Son textos mayas que se conservan."
+}
+]
+}

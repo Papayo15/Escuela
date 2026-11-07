@@ -1,0 +1,522 @@
+{
+"resta-de-fracciones-con-distinto-denominador-primaria": [
+{
+"pregunta": "Resuelve $\\frac{5}{6} - \\frac{1}{3}$",
+"opciones": [
+"$\\frac{4}{6}$, porque se resta arriba y también abajo",
+"$\\frac{1}{2}$",
+"$\\frac{4}{3}$"
+],
+"correcta": 1,
+"porque": "Se cambia $\\frac{1}{3}$ por $\\frac{2}{6}$ y se resta: $\\frac{3}{6}$, que es $\\frac{1}{2}$."
+},
+{
+"pregunta": "Resuelve $\\frac{2}{3} - \\frac{1}{4}$",
+"opciones": [
+"$\\frac{1}{1}$, porque se restan los números de arriba y de abajo",
+"$\\frac{1}{12}$",
+"$\\frac{5}{12}$"
+],
+"correcta": 2,
+"porque": "El común es 12: $\\frac{8}{12}$ menos $\\frac{3}{12}$ son $\\frac{5}{12}$."
+},
+{
+"pregunta": "¿Qué haces primero para restar fracciones con distinto denominador?",
+"opciones": [
+"Resto los numeradores sin cambiar nada",
+"Resto los denominadores",
+"Busco un denominador común"
+],
+"correcta": 2,
+"porque": "Primero se cortan los pedazos del mismo tamaño y después se resta."
+},
+{
+"pregunta": "Tienes media hoja y le quitas un cuarto. ¿Cuánto queda de la hoja?",
+"opciones": [
+"$\\frac{1}{4}$",
+"$\\frac{1}{8}$",
+"$\\frac{2}{4}$"
+],
+"correcta": 0,
+"porque": "$\\frac{1}{2}$ es $\\frac{2}{4}$, y $\\frac{2}{4}$ menos $\\frac{1}{4}$ es $\\frac{1}{4}$."
+},
+{
+"pregunta": "Resuelve $\\frac{3}{4} - \\frac{1}{8}$",
+"opciones": [
+"$\\frac{2}{8}$",
+"$\\frac{2}{4}$",
+"$\\frac{5}{8}$"
+],
+"correcta": 2,
+"porque": "$\\frac{3}{4}$ es $\\frac{6}{8}$, y $\\frac{6}{8}$ menos $\\frac{1}{8}$ son $\\frac{5}{8}$."
+}
+],
+"sacar-el-porcentaje-de-un-numero-primaria": [
+{
+"pregunta": "Calcula 10 % de 340.",
+"opciones": [
+"3 400",
+"34",
+"10"
+],
+"correcta": 1,
+"porque": "El 10 % es dividir entre 10, y 340 entre 10 son 34."
+},
+{
+"pregunta": "Calcula 50 % de 70.",
+"opciones": [
+"35",
+"7",
+"50"
+],
+"correcta": 0,
+"porque": "El 50 % es la mitad, y la mitad de 70 es 35."
+},
+{
+"pregunta": "Calcula 75 % de 40.",
+"opciones": [
+"75",
+"30",
+"10"
+],
+"correcta": 1,
+"porque": "El 25 % de 40 es 10, y tres veces 10 son 30."
+},
+{
+"pregunta": "En tu escuela hay 90 alumnos y el 30 % usa bicicleta. ¿Cuántos usan bicicleta?",
+"opciones": [
+"30",
+"27",
+"270, porque solo se multiplica 90 por 3"
+],
+"correcta": 1,
+"porque": "El 10 % es 9, y tres veces 9 son 27 alumnos."
+},
+{
+"pregunta": "Calcula 5 % de 60.",
+"opciones": [
+"30",
+"3",
+"5"
+],
+"correcta": 1,
+"porque": "El 10 % de 60 es 6, y el 5 % es la mitad: 3."
+}
+],
+"simplificar-fracciones-primaria": [
+{
+"pregunta": "Simplifica $\\frac{10}{20}$.",
+"opciones": [
+"$\\frac{2}{4}$",
+"$\\frac{1}{2}$",
+"$\\frac{5}{10}$, porque se divide solo entre 2"
+],
+"correcta": 1,
+"porque": "Se divide arriba y abajo entre 10 y queda $\\frac{1}{2}$."
+},
+{
+"pregunta": "Simplifica $\\frac{18}{24}$.",
+"opciones": [
+"$\\frac{9}{12}$",
+"$\\frac{3}{4}$",
+"$\\frac{6}{8}$"
+],
+"correcta": 1,
+"porque": "Se divide entre 6 y queda $\\frac{3}{4}$, que ya no se puede simplificar."
+},
+{
+"pregunta": "Simplifica $\\frac{14}{21}$.",
+"opciones": [
+"$\\frac{2}{3}$",
+"$\\frac{7}{10}$",
+"$\\frac{1}{2}$"
+],
+"correcta": 0,
+"porque": "Se divide arriba y abajo entre 7 y queda $\\frac{2}{3}$."
+},
+{
+"pregunta": "¿Cuál de estas fracciones ya no se puede simplificar?",
+"opciones": [
+"$\\frac{5}{9}$",
+"$\\frac{4}{10}$",
+"$\\frac{6}{9}$"
+],
+"correcta": 0,
+"porque": "Solo el 1 divide a 5 y a 9, así que es irreducible."
+},
+{
+"pregunta": "Simplifica $\\frac{20}{50}$.",
+"opciones": [
+"$\\frac{10}{25}$, porque aún se puede simplificar más",
+"$\\frac{2}{5}$",
+"$\\frac{1}{3}$"
+],
+"correcta": 1,
+"porque": "Se divide entre 10 y queda $\\frac{2}{5}$."
+}
+],
+"suma-de-decimales-primaria": [
+{
+"pregunta": "Resuelve 3.4 + 5.27",
+"opciones": [
+"8.67",
+"8.61",
+"8.31"
+],
+"correcta": 0,
+"porque": "Se escribe 3.40 más 5.27 con los puntos alineados y da 8.67."
+},
+{
+"pregunta": "Resuelve 6 + 1.45",
+"opciones": [
+"7.45",
+"1.51",
+"6.145"
+],
+"correcta": 0,
+"porque": "El 6 se escribe como 6.00, y 6.00 más 1.45 son 7.45."
+},
+{
+"pregunta": "Resuelve 0.9 + 0.35",
+"opciones": [
+"1.05",
+"0.44",
+"1.25"
+],
+"correcta": 2,
+"porque": "Se escribe 0.90 más 0.35 y da 1.25."
+},
+{
+"pregunta": "En la cooperativa gastas 7.50 y luego 12.25. ¿Cuánto gastaste en total?",
+"opciones": [
+"19.75",
+"19.25",
+"84.75, porque se juntan las cifras sin punto"
+],
+"correcta": 0,
+"porque": "Se suma 7.50 más 12.25 con los puntos alineados: 19.75."
+},
+{
+"pregunta": "¿Qué hay que alinear al sumar decimales?",
+"opciones": [
+"El último número de cada cantidad aunque el punto quede movido",
+"Solo los enteros",
+"El punto decimal"
+],
+"correcta": 2,
+"porque": "El punto va debajo del punto, para sumar cifras del mismo valor."
+}
+],
+"suma-de-fracciones-con-distinto-denominador-primaria": [
+{
+"pregunta": "Resuelve $\\frac{1}{6} + \\frac{1}{2}$",
+"opciones": [
+"$\\frac{2}{3}$",
+"$\\frac{2}{8}$",
+"$\\frac{1}{3}$"
+],
+"correcta": 0,
+"porque": "$\\frac{1}{2}$ es $\\frac{3}{6}$, y $\\frac{1}{6}$ más $\\frac{3}{6}$ son $\\frac{4}{6}$, que es $\\frac{2}{3}$."
+},
+{
+"pregunta": "Resuelve $\\frac{1}{3} + \\frac{1}{5}$",
+"opciones": [
+"$\\frac{2}{8}$",
+"$\\frac{8}{15}$",
+"$\\frac{2}{15}$"
+],
+"correcta": 1,
+"porque": "El común es 15: $\\frac{5}{15}$ más $\\frac{3}{15}$ son $\\frac{8}{15}$."
+},
+{
+"pregunta": "Resuelve $\\frac{1}{5} + \\frac{2}{5}$",
+"opciones": [
+"$\\frac{2}{5}$",
+"$\\frac{3}{10}$, porque también se suma abajo",
+"$\\frac{3}{5}$"
+],
+"correcta": 2,
+"porque": "Si el denominador es igual, solo se suman los numeradores: $\\frac{3}{5}$."
+},
+{
+"pregunta": "Resuelve $\\frac{3}{4} + \\frac{3}{4}$",
+"opciones": [
+"$1\\frac{1}{2}$",
+"$1\\frac{1}{4}$",
+"$\\frac{6}{8}$"
+],
+"correcta": 0,
+"porque": "La suma es $\\frac{6}{4}$, que es $1\\frac{2}{4}$, o sea $1\\frac{1}{2}$."
+},
+{
+"pregunta": "¿Qué denominador común sirve para $\\frac{1}{2}$ y $\\frac{1}{3}$?",
+"opciones": [
+"5",
+"2",
+"6"
+],
+"correcta": 2,
+"porque": "El 6 se puede dividir entre 2 y entre 3."
+}
+],
+"suma-resta-fracciones-decimales": [
+{
+"pregunta": "Resuelve $\\frac{4}{5} - \\frac{3}{5}$",
+"opciones": [
+"$\\frac{1}{10}$, porque también se restan los de abajo",
+"$\\frac{1}{5}$",
+"$\\frac{1}{0}$"
+],
+"correcta": 1,
+"porque": "Con el mismo denominador solo se resta arriba: 4 menos 3 es 1."
+},
+{
+"pregunta": "Resuelve $\\frac{1}{2} + \\frac{1}{4}$",
+"opciones": [
+"$\\frac{2}{6}$",
+"$\\frac{3}{4}$",
+"$\\frac{2}{4}$"
+],
+"correcta": 1,
+"porque": "$\\frac{1}{2}$ es $\\frac{2}{4}$, y $\\frac{2}{4}$ más $\\frac{1}{4}$ son $\\frac{3}{4}$."
+},
+{
+"pregunta": "Resuelve 9.5 + 3.25",
+"opciones": [
+"12.25",
+"12.75",
+"12.30"
+],
+"correcta": 1,
+"porque": "Se escribe 9.50 más 3.25 con los puntos alineados y da 12.75."
+},
+{
+"pregunta": "Resuelve 10.5 - 4.25",
+"opciones": [
+"6.75",
+"6.35",
+"6.25"
+],
+"correcta": 2,
+"porque": "Se escribe 10.50 menos 4.25 y da 6.25."
+},
+{
+"pregunta": "Quieres sumar medios con cuartos. ¿Qué haces antes de sumar?",
+"opciones": [
+"Los paso a decimales y los resto",
+"Sumo los de arriba y los de abajo sin cambiar nada",
+"Hago que tengan el mismo denominador"
+],
+"correcta": 2,
+"porque": "Las fracciones solo se suman si tienen el mismo denominador."
+}
+],
+"suma-y-resta-de-fracciones-mixtas-primaria": [
+{
+"pregunta": "Resuelve $2\\frac{1}{3} + 1\\frac{1}{3}$",
+"opciones": [
+"$3\\frac{2}{6}$",
+"$3\\frac{2}{3}$",
+"$2\\frac{2}{3}$"
+],
+"correcta": 1,
+"porque": "Enteros: 3. Fracciones: $\\frac{2}{3}$. Resultado: $3\\frac{2}{3}$."
+},
+{
+"pregunta": "Resuelve $5\\frac{1}{2} - 2\\frac{1}{4}$",
+"opciones": [
+"$3\\frac{1}{4}$",
+"$3\\frac{3}{4}$",
+"$3\\frac{1}{2}$"
+],
+"correcta": 0,
+"porque": "$\\frac{1}{2}$ es $\\frac{2}{4}$; enteros: 3; fracciones: $\\frac{1}{4}$."
+},
+{
+"pregunta": "Resuelve $3 - 1\\frac{1}{4}$",
+"opciones": [
+"$2\\frac{3}{4}$, porque se resta solo el entero",
+"$1\\frac{3}{4}$",
+"$2\\frac{1}{4}$"
+],
+"correcta": 1,
+"porque": "Se pasa 3 a $\\frac{12}{4}$ y se resta $\\frac{5}{4}$: $\\frac{7}{4}$, o sea $1\\frac{3}{4}$."
+},
+{
+"pregunta": "¿Cómo se escribe $2\\frac{1}{3}$ como fracción impropia?",
+"opciones": [
+"$\\frac{3}{3}$",
+"$\\frac{3}{7}$",
+"$\\frac{7}{3}$"
+],
+"correcta": 2,
+"porque": "Dos enteros son $\\frac{6}{3}$, y con $\\frac{1}{3}$ más son $\\frac{7}{3}$."
+},
+{
+"pregunta": "Resuelve $1\\frac{3}{4} + 2\\frac{3}{4}$",
+"opciones": [
+"$4\\frac{1}{4}$",
+"$4\\frac{1}{2}$",
+"$3\\frac{3}{4}$"
+],
+"correcta": 1,
+"porque": "Enteros: 3. Fracciones: $\\frac{6}{4}$, que es $1\\frac{1}{2}$. Total: $4\\frac{1}{2}$."
+}
+],
+"tablas-de-proporcionalidad-primaria": [
+{
+"pregunta": "En una tabla, 1 → 4, 2 → 8 y 3 → 12. ¿Cuál es la constante de proporcionalidad?",
+"opciones": [
+"8",
+"4",
+"12, porque es el último número de la tabla"
+],
+"correcta": 1,
+"porque": "Cada número de arriba se multiplica por 4 para dar el de abajo."
+},
+{
+"pregunta": "Una paleta cuesta 6 pesos. ¿Cuánto cuestan 3 paletas en la tabla?",
+"opciones": [
+"9 pesos",
+"18 pesos",
+"36 pesos"
+],
+"correcta": 1,
+"porque": "Se multiplica 3 por la constante 6 y da 18 pesos."
+},
+{
+"pregunta": "¿Es proporcional la tabla 1 → 2, 2 → 4, 3 → 7?",
+"opciones": [
+"Sí, porque los números van subiendo",
+"Sí, porque empieza igual que una tabla proporcional",
+"No, porque 3 debería dar 6"
+],
+"correcta": 2,
+"porque": "Si el triple no da el triple, la tabla no es proporcional."
+},
+{
+"pregunta": "En una tabla proporcional, 3 → 21. ¿Cuánto es 5 → ?",
+"opciones": [
+"105",
+"35",
+"23"
+],
+"correcta": 1,
+"porque": "La constante es 21 entre 3, que es 7, y 5 por 7 son 35."
+},
+{
+"pregunta": "Si al doblar una cantidad la otra también se dobla, ¿cómo se llaman?",
+"opciones": [
+"Cantidades que no cambian nunca, aunque se dupliquen",
+"Directamente proporcionales",
+"Desiguales"
+],
+"correcta": 1,
+"porque": "Cuando una se duplica y la otra también, son directamente proporcionales."
+}
+],
+"ubicacion-espacial-coordenadas": [
+{
+"pregunta": "¿Qué punto está 4 lugares a la derecha y 2 arriba del origen?",
+"opciones": [
+"$(4, 2)$",
+"$(2, 4)$",
+"$(0, 0)$"
+],
+"correcta": 0,
+"porque": "El primer número es hacia la derecha y el segundo hacia arriba."
+},
+{
+"pregunta": "Para llegar a $(6, 0)$ desde el origen, ¿qué haces?",
+"opciones": [
+"Avanzo 6 a la derecha y luego subo 6 más",
+"Avanzo 6 a la derecha y no subo",
+"Subo 6 y no avanzo a la derecha"
+],
+"correcta": 1,
+"porque": "El 6 es hacia la derecha, y el 0 significa que no subes nada."
+},
+{
+"pregunta": "En el punto $(3, 7)$, ¿qué dice el primer número?",
+"opciones": [
+"Cuánto avanzas a la derecha",
+"El punto donde terminas, sin importar el camino",
+"Cuánto subes, porque siempre se sube primero"
+],
+"correcta": 0,
+"porque": "El primer número es la $x$: primero caminas."
+},
+{
+"pregunta": "Tu banca está en $(2, 3)$. ¿Cuántos lugares subes desde el origen?",
+"opciones": [
+"5",
+"3",
+"2"
+],
+"correcta": 1,
+"porque": "El segundo número dice cuánto subes, y aquí es 3."
+},
+{
+"pregunta": "Desde el origen, ¿cuál punto queda más arriba: $(1, 5)$ o $(5, 1)$?",
+"opciones": [
+"$(1, 5)$",
+"Los dos quedan igual de arriba, porque tienen los mismos números",
+"$(5, 1)$"
+],
+"correcta": 0,
+"porque": "Subir es el segundo número, y 5 es mayor que 1."
+}
+],
+"valor-unitario-primaria": [
+{
+"pregunta": "4 chocolates cuestan 36 pesos. ¿Cuánto cuesta uno?",
+"opciones": [
+"9 pesos",
+"32 pesos",
+"144 pesos"
+],
+"correcta": 0,
+"porque": "Se divide 36 entre 4 y da 9 pesos por chocolate."
+},
+{
+"pregunta": "6 galletas cuestan 18 pesos. ¿Cuánto cuestan 10 galletas?",
+"opciones": [
+"28 pesos, porque se suman 10 pesos",
+"30 pesos",
+"24 pesos"
+],
+"correcta": 1,
+"porque": "Cada galleta cuesta 3 pesos, y 10 por 3 son 30."
+},
+{
+"pregunta": "¿Qué conviene más: 2 jugos por 30 pesos o 3 jugos por 42 pesos?",
+"opciones": [
+"3 jugos por 42 pesos",
+"2 jugos por 30 pesos",
+"Los dos conviene igual, porque tienen precios cercanos"
+],
+"correcta": 0,
+"porque": "Un jugo sale en 15 pesos en el primero y en 14 pesos en el segundo."
+},
+{
+"pregunta": "Un camión recorre 360 km en 4 horas. ¿Cuántos km recorre por hora?",
+"opciones": [
+"356 km",
+"90 km",
+"1 440 km"
+],
+"correcta": 1,
+"porque": "Se divide 360 entre 4 y da 90 km por hora."
+},
+{
+"pregunta": "¿Cómo se obtiene el valor unitario?",
+"opciones": [
+"Dividiendo el total entre la cantidad",
+"Sumando el total y la cantidad",
+"Multiplicando el total por la cantidad de piezas que hay"
+],
+"correcta": 0,
+"porque": "El valor unitario es lo que vale una sola pieza: total entre cantidad."
+}
+]
+}

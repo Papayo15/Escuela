@@ -1,0 +1,418 @@
+{
+"composicion-porcentual-prepa": [
+{
+"pregunta": "¿Qué porcentaje de hidrógeno tiene el $\\ce{CH4}$?",
+"opciones": [
+"75 %",
+"4 %",
+"25 %"
+],
+"correcta": 2,
+"porque": "Se calcula $\\frac{4}{16} \\times 100 = 25\\%$."
+},
+{
+"pregunta": "En $\\ce{CO2}$, ¿qué porcentaje es carbono? (C 12, O 16)",
+"opciones": [
+"37.5 %",
+"27.3 %",
+"72.7 %"
+],
+"correcta": 1,
+"porque": "La masa es $12 + 32 = 44$, y $\\frac{12}{44} \\times 100 = 27.3\\%$."
+},
+{
+"pregunta": "¿Cuánto deben sumar todos los porcentajes de un compuesto?",
+"opciones": [
+"50 %",
+"100 %",
+"10 %"
+],
+"correcta": 1,
+"porque": "Todas las partes suman el pastel completo."
+},
+{
+"pregunta": "En tu salón hay 20 niños y 5 usan lentes. ¿Qué porcentaje usa lentes?",
+"opciones": [
+"5 %",
+"50 %",
+"25 %"
+],
+"correcta": 2,
+"porque": "Se calcula $\\frac{5}{20} \\times 100 = 25\\%$."
+},
+{
+"pregunta": "¿Cómo se calcula el porcentaje de un elemento?",
+"opciones": [
+"Su masa entre la total, por 100",
+"Su masa más la total, entre 100",
+"La masa total entre su masa, por 10"
+],
+"correcta": 0,
+"porque": "Es la parte entre el total, multiplicada por 100."
+}
+],
+"compuestos-aromaticos-prepa": [
+{
+"pregunta": "¿Cuántos carbonos forman el anillo del benceno?",
+"opciones": [
+"8",
+"6",
+"4"
+],
+"correcta": 1,
+"porque": "El benceno es $\\ce{C6H6}$, con 6 carbonos en círculo."
+},
+{
+"pregunta": "Si cambias un hidrógeno del benceno por $\\ce{NH2}$, ¿qué compuesto sale?",
+"opciones": [
+"Fenol",
+"Tolueno",
+"Anilina"
+],
+"correcta": 2,
+"porque": "Con $\\ce{NH2}$ se forma anilina."
+},
+{
+"pregunta": "Dos piezas en el anillo tienen un lugar entre ellas. ¿Qué posición es?",
+"opciones": [
+"Orto",
+"Meta",
+"Para"
+],
+"correcta": 1,
+"porque": "Meta es con un lugar entre las piezas."
+},
+{
+"pregunta": "Dos piezas en el anillo están juntas. ¿Qué posición es?",
+"opciones": [
+"Meta",
+"Orto",
+"Para"
+],
+"correcta": 1,
+"porque": "Orto significa piezas juntas o cerca."
+},
+{
+"pregunta": "¿Cómo se dibuja el benceno?",
+"opciones": [
+"Un hexágono con círculo",
+"Una línea recta con círculo",
+"Un cuadrado con una cruz dentro"
+],
+"correcta": 0,
+"porque": "Se dibuja como hexágono con un círculo adentro."
+}
+],
+"compuestos-organicos-nomenclatura-prepa": [
+{
+"pregunta": "¿Cuántos hidrógenos tiene el heptano, de 7 carbonos?",
+"opciones": [
+"14",
+"16",
+"15"
+],
+"correcta": 1,
+"porque": "Con la fórmula, $7 \\times 2 + 2 = 16$."
+},
+{
+"pregunta": "¿Cómo se llama el alcano de un solo carbono?",
+"opciones": [
+"Metano",
+"Etano",
+"Propano"
+],
+"correcta": 0,
+"porque": "Met significa un carbono."
+},
+{
+"pregunta": "¿Qué dice el inicio del nombre de un compuesto orgánico?",
+"opciones": [
+"Cuánto pesa cada hidrógeno",
+"Cuántos carbonos tiene la cadena",
+"Qué color tiene el compuesto"
+],
+"correcta": 1,
+"porque": "El inicio cuenta los carbonos."
+},
+{
+"pregunta": "¿Qué dice el final -ano?",
+"opciones": [
+"Enlaces simples",
+"Enlaces triples",
+"Enlaces dobles"
+],
+"correcta": 0,
+"porque": "El final -ano indica enlaces simples."
+},
+{
+"pregunta": "¿Cómo se llama el alcano de 5 carbonos?",
+"opciones": [
+"Hexano",
+"Pentano",
+"Butano"
+],
+"correcta": 1,
+"porque": "Pent significa 5 carbonos."
+}
+],
+"constante-de-equilibrio-prepa": [
+{
+"pregunta": "En $\\ce{A <=> B}$ hay 5 de A y 10 de B. ¿Cuánto vale $K$?",
+"opciones": [
+"$K = 2$",
+"$K = 0.5$",
+"$K = 15$"
+],
+"correcta": 0,
+"porque": "$K$ es productos entre reactivos, $10 \\div 5 = 2$."
+},
+{
+"pregunta": "¿Cómo se escribe $K_c$ de $\\ce{N2 + O2 <=> 2NO}$?",
+"opciones": [
+"$\\frac{[\\ce{N2}][\\ce{O2}]}{[\\ce{NO}]^2}$",
+"$\\frac{[\\ce{NO}]}{[\\ce{N2}][\\ce{O2}]}$",
+"$\\frac{[\\ce{NO}]^2}{[\\ce{N2}][\\ce{O2}]}$"
+],
+"correcta": 2,
+"porque": "Los productos van arriba y el coeficiente 2 pasa a potencia."
+},
+{
+"pregunta": "Si $K$ es muy grande, ¿qué hay más en el equilibrio?",
+"opciones": [
+"Lo mismo de cada uno",
+"Productos",
+"Reactivos"
+],
+"correcta": 1,
+"porque": "Una $K$ grande dice que hay más productos."
+},
+{
+"pregunta": "¿Qué cambia el valor de $K$?",
+"opciones": [
+"La marca del reactivo",
+"Solo la temperatura",
+"El color del frasco"
+],
+"correcta": 1,
+"porque": "Solo la temperatura cambia el valor de $K$."
+},
+{
+"pregunta": "Si $K$ es muy chica, ¿qué hay más en el equilibrio?",
+"opciones": [
+"Reactivos",
+"Agua pura",
+"Productos"
+],
+"correcta": 0,
+"porque": "Una $K$ chica dice que hay más reactivos."
+}
+],
+"enzimas-prepa": [
+{
+"pregunta": "¿Cómo se llama el hueco de la enzima donde entra el sustrato?",
+"opciones": [
+"Sitio final",
+"Sitio activo",
+"Sitio pasivo"
+],
+"correcta": 1,
+"porque": "El sustrato entra en el sitio activo."
+},
+{
+"pregunta": "¿Qué pasa con la enzima al terminar la reacción?",
+"opciones": [
+"Se vuelve parte del producto",
+"Se gasta y desaparece",
+"Queda libre"
+],
+"correcta": 2,
+"porque": "Las enzimas no se gastan."
+},
+{
+"pregunta": "¿Qué tipo de biomolécula es casi siempre una enzima?",
+"opciones": [
+"Proteína",
+"Azúcar",
+"Grasa"
+],
+"correcta": 0,
+"porque": "Las enzimas son casi siempre proteínas."
+},
+{
+"pregunta": "Una enzima solo sirve para ciertas sustancias. ¿Cómo es?",
+"opciones": [
+"Específica",
+"Gastable",
+"General"
+],
+"correcta": 0,
+"porque": "Cada enzima es específica, como una llave y su cerradura."
+},
+{
+"pregunta": "¿Qué dos cosas cambian el trabajo de las enzimas?",
+"opciones": [
+"La temperatura y el pH",
+"El peso y la forma",
+"El color y el sabor"
+],
+"correcta": 0,
+"porque": "Las enzimas dependen de la temperatura y el pH."
+}
+],
+"equilibrio-quimico-reversibles-prepa": [
+{
+"pregunta": "¿Qué dice la doble flecha en una reacción?",
+"opciones": [
+"Que solo va hacia un lado",
+"Que va en los dos sentidos",
+"Que ya se detuvo"
+],
+"correcta": 1,
+"porque": "La doble flecha indica una reacción reversible."
+},
+{
+"pregunta": "En el equilibrio, ¿qué es igual?",
+"opciones": [
+"El color de las sustancias",
+"La cantidad de cada sustancia",
+"La velocidad de ida y vuelta"
+],
+"correcta": 2,
+"porque": "Como subir una escalera que baja, te mueves y te quedas igual."
+},
+{
+"pregunta": "¿Qué es una reacción reversible?",
+"opciones": [
+"Una que nunca empieza",
+"Una que puede regresar",
+"Una que no suelta nada"
+],
+"correcta": 1,
+"porque": "Reversible significa que puede regresar."
+},
+{
+"pregunta": "Si alteras un equilibrio, ¿cómo responde el sistema?",
+"opciones": [
+"Se queda igual siempre",
+"Se rompe sin remedio",
+"Se mueve para compensar"
+],
+"correcta": 2,
+"porque": "Eso explica el principio de Le Châtelier."
+},
+{
+"pregunta": "Abres un refresco y salen burbujas. ¿Qué pasó con el equilibrio?",
+"opciones": [
+"Se volvió irreversible",
+"Se quedó igual",
+"Se alteró y se movió para compensar"
+],
+"correcta": 2,
+"porque": "Escapa gas y el sistema se mueve para compensar."
+}
+],
+"factores-que-afectan-la-velocidad-de-reaccion-prepa": [
+{
+"pregunta": "Si calientas una reacción, ¿qué pasa con las moléculas?",
+"opciones": [
+"Se quedan quietas",
+"Se pegan sin moverse",
+"Chocan más fuerte y más seguido"
+],
+"correcta": 2,
+"porque": "Con más temperatura corren más y chocan más fuerte."
+},
+{
+"pregunta": "¿Qué pastilla se disuelve primero en agua?",
+"opciones": [
+"La molida",
+"Las dos igual",
+"La entera"
+],
+"correcta": 0,
+"porque": "Lo partido toca más y reacciona más rápido."
+},
+{
+"pregunta": "¿Qué pasa con los choques si hay más niños en el patio?",
+"opciones": [
+"Hay más choques",
+"Hay menos choques",
+"No cambia nada"
+],
+"correcta": 0,
+"porque": "Con más concentración hay más choques."
+},
+{
+"pregunta": "¿Qué es la energía de activación?",
+"opciones": [
+"El calor que guarda el vaso",
+"El empujón para empezar la reacción",
+"La energía que sobra al final"
+],
+"correcta": 1,
+"porque": "Es el empujón que hace falta para empezar."
+},
+{
+"pregunta": "Disuelves azúcar en agua fría y en agua caliente. ¿Dónde es más rápido?",
+"opciones": [
+"En las dos igual",
+"En la caliente",
+"En la fría"
+],
+"correcta": 1,
+"porque": "El calor hace que las moléculas choquen más."
+}
+],
+"fermentacion-prepa": [
+{
+"pregunta": "¿Qué gas esponja el pan?",
+"opciones": [
+"Oxígeno puro",
+"Dióxido de carbono",
+"Monóxido de carbono"
+],
+"correcta": 1,
+"porque": "La fermentación alcohólica suelta dióxido de carbono."
+},
+{
+"pregunta": "¿Qué produce la fermentación láctica?",
+"opciones": [
+"Etanol",
+"Ácido láctico",
+"Oxígeno"
+],
+"correcta": 1,
+"porque": "La láctica produce ácido láctico."
+},
+{
+"pregunta": "¿Cuándo pasa la fermentación láctica en tus músculos?",
+"opciones": [
+"Cuando comes pan",
+"Cuando corres mucho",
+"Cuando duermes"
+],
+"correcta": 1,
+"porque": "Pasa en los músculos al correr mucho."
+},
+{
+"pregunta": "¿La fermentación necesita oxígeno?",
+"opciones": [
+"Sí, un poco de oxígeno",
+"No, ocurre sin oxígeno",
+"Sí, mucho oxígeno"
+],
+"correcta": 1,
+"porque": "Es un proceso sin oxígeno."
+},
+{
+"pregunta": "En la botella con levadura, ¿qué infla el globo?",
+"opciones": [
+"Oxígeno",
+"Dióxido de carbono",
+"Ácido láctico"
+],
+"correcta": 1,
+"porque": "Las levaduras sueltan dióxido de carbono."
+}
+]
+}

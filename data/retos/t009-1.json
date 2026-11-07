@@ -1,0 +1,575 @@
+{
+"prevencion-desastres-ambientales-primaria-1-2": [
+{
+"pregunta": "Empieza a temblar fuerte en tu salón. ¿Qué haces?",
+"opciones": [
+"Salgo corriendo solo hacia la calle",
+"Gritar fuerte y esperar sin moverme",
+"Empujo a mis compañeros para llegar primero",
+"Sigo a mi maestra a la zona segura"
+],
+"correcta": 3,
+"porque": "Ante un sismo, no corres ni empujas; sigues a tu maestra a la zona segura."
+},
+{
+"pregunta": "¿Qué debes tener a la mano por si hay una emergencia?",
+"opciones": [
+"Solo mis juguetes favoritos y dulces",
+"Ninguna lista porque nunca pasa nada",
+"Teléfonos de emergencia"
+],
+"correcta": 2,
+"porque": "Los teléfonos de emergencia ayudan a pedir ayuda rápido."
+},
+{
+"pregunta": "Tu mamá ve que la coladera de la calle está llena de basura. ¿Por qué es un problema?",
+"opciones": [
+"El agua no puede correr",
+"Porque el agua se pone más limpia",
+"Porque así sale más rápido la basura"
+],
+"correcta": 0,
+"porque": "Si la basura tapa la coladera, el agua se queda y puede inundar."
+},
+{
+"pregunta": "¿Qué debes hacer ante un peligro?",
+"opciones": [
+"Conservar la calma y seguir el plan",
+"Ponerme muy nervioso y correr sin rumbo",
+"Esconderme debajo de la cama toda la tarde"
+],
+"correcta": 0,
+"porque": "Con calma piensas mejor y puedes seguir el plan de tu familia o escuela."
+},
+{
+"pregunta": "En tu escuela practican la ruta de salida de cada salón. ¿Para qué sirve?",
+"opciones": [
+"Para saber por dónde salir cuando hay peligro",
+"Para jugar carreras con todos los grupos",
+"Para llegar antes al recreo cada día"
+],
+"correcta": 0,
+"porque": "Practicar la ruta te ayuda a saber qué hacer cuando pasa algo de verdad."
+}
+],
+"proyecto-de-vida-primaria-1-2": [
+{
+"pregunta": "Quieres leer un cuento completo. ¿Qué es eso?",
+"opciones": [
+"Un juguete nuevo para jugar",
+"Un paso que no sirve para nada",
+"Una meta, lo que quieres lograr"
+],
+"correcta": 2,
+"porque": "Una meta es lo que quieres lograr."
+},
+{
+"pregunta": "Para llegar a tu meta de leer, ¿cuál es un buen paso?",
+"opciones": [
+"Leer una vez al año y descansar mucho",
+"Leer diez minutos al día",
+"Esperar a ver si ya sé leer solo"
+],
+"correcta": 1,
+"porque": "Los pasos pequeños y diarios te acercan a tu meta."
+},
+{
+"pregunta": "A Sofía le gustan mucho los animales. ¿Qué podría ser de grande?",
+"opciones": [
+"Piloto de aviones en el cielo",
+"Nada, eso no sirve para el futuro",
+"Veterinaria, para cuidar animales"
+],
+"correcta": 2,
+"porque": "Lo que te gusta hoy te puede ayudar mañana a elegir tu futuro."
+},
+{
+"pregunta": "Intentaste atarte las agujetas y no te salió. ¿Qué haces?",
+"opciones": [
+"Me enojo y rompo las agujetas",
+"Lo intento otra vez",
+"Decido que nunca podré hacerlo"
+],
+"correcta": 1,
+"porque": "Si no sale a la primera, practicas otra vez y mejoras."
+},
+{
+"pregunta": "¿Quién puede ayudarte a lograr una meta difícil?",
+"opciones": [
+"Solo alguien que me diga que no puedo",
+"Un adulto o un amigo",
+"Nadie, siempre debo hacerlo todo solo"
+],
+"correcta": 1,
+"porque": "Pedir ayuda es parte de los pasos para lograr una meta."
+}
+],
+"situaciones-riesgo-social-primaria-1-2": [
+{
+"pregunta": "¿Qué es un riesgo?",
+"opciones": [
+"Un juego divertido del recreo",
+"Algo que te puede lastimar",
+"Un regalo que te dan en tu cumpleaños"
+],
+"correcta": 1,
+"porque": "Un riesgo es algo que puede lastimarte, por eso debes cuidarte."
+},
+{
+"pregunta": "Un desconocido te dice que vayas con él a ver cachorritos. ¿Qué haces?",
+"opciones": [
+"No voy y le aviso a un adulto",
+"Voy si me promete que será poquito tiempo",
+"Voy rápido porque me gustan los perros"
+],
+"correcta": 0,
+"porque": "No debes ir con desconocidos; avisa a un adulto."
+},
+{
+"pregunta": "Un extraño te ofrece una paleta afuera de la escuela. ¿Qué haces?",
+"opciones": [
+"La acepto si nadie me ve",
+"La acepto y me la como rápido",
+"No la acepto, aviso a un adulto"
+],
+"correcta": 2,
+"porque": "No se aceptan cosas de extraños y se avisa a un adulto."
+},
+{
+"pregunta": "Algo te asustó en el recreo. ¿Qué haces?",
+"opciones": [
+"Me quedo callado para que nadie se entere",
+"Se lo cuento a un adulto",
+"Se lo cuento solo a mi muñeco"
+],
+"correcta": 1,
+"porque": "Contarle a un adulto te ayuda a estar seguro."
+},
+{
+"pregunta": "¿Qué dato de tu casa conviene que te aprendas?",
+"opciones": [
+"El número de mi juguete favorito",
+"El color de mi cobija",
+"El teléfono de mi casa"
+],
+"correcta": 2,
+"porque": "Si sabes el teléfono de tu casa, pueden ayudarte a volver con tu familia."
+}
+],
+"tecnologias-informacion-comunicacion-primaria-1-2": [
+{
+"pregunta": "¿Cuál de estos es un aparato para comunicarte?",
+"opciones": [
+"La cuchara",
+"El teléfono",
+"Una pelota de hule"
+],
+"correcta": 1,
+"porque": "El teléfono sirve para hablar con otras personas."
+},
+{
+"pregunta": "Quieres usar la computadora. ¿Qué es lo mejor?",
+"opciones": [
+"Prestársela a un desconocido",
+"Usarla con un adulto",
+"Usarla solo toda la noche"
+],
+"correcta": 1,
+"porque": "Con un adulto usas las tecnologías de forma segura."
+},
+{
+"pregunta": "En un juego en línea alguien te pregunta dónde vives. ¿Qué haces?",
+"opciones": [
+"Le doy mi dirección para ser amable",
+"No lo digo y aviso a un adulto",
+"Le digo solo la calle y no el número"
+],
+"correcta": 1,
+"porque": "Tu nombre y tu dirección son datos que debes guardar en secreto."
+},
+{
+"pregunta": "¿Por qué no debes pasar todo el día en pantallas?",
+"opciones": [
+"Porque en la escuela está prohibido tener ojos",
+"Necesito moverme, jugar y convivir",
+"Porque las pantallas se gastan muy rápido"
+],
+"correcta": 1,
+"porque": "Tu cuerpo necesita movimiento, juego y estar con otras personas."
+},
+{
+"pregunta": "¿Qué es internet?",
+"opciones": [
+"Una forma de informarme y comunicarme",
+"Un lugar donde nunca hay reglas",
+"Un juguete que se come"
+],
+"correcta": 0,
+"porque": "Internet sirve para informarte y comunicarte, siempre con cuidado."
+}
+],
+"trato-igual-mujeres-hombres-primaria-1-2": [
+{
+"pregunta": "¿Qué significa igualdad entre niñas y niños?",
+"opciones": [
+"Que las niñas siempre manden",
+"Que cada quien haga solo lo que otros digan",
+"Mismos derechos y mismo respeto"
+],
+"correcta": 2,
+"porque": "Igualdad es que niñas y niños tengan los mismos derechos y respeto."
+},
+{
+"pregunta": "Una niña quiere jugar futbol en el recreo. ¿Qué haces?",
+"opciones": [
+"Le pido que mejor se siente a mirar",
+"La invito a jugar",
+"Le digo que ese juego es de niños"
+],
+"correcta": 1,
+"porque": "Todos pueden jugar; la invitación muestra trato igual."
+},
+{
+"pregunta": "¿Quién puede poner la mesa en casa?",
+"opciones": [
+"Solo los niños mayores",
+"Niñas y niños por turnos",
+"Solo las niñas"
+],
+"correcta": 1,
+"porque": "En casa todos pueden ayudar y repartir las tareas por turnos."
+},
+{
+"pregunta": "En tu casa solo tu hermana barre. ¿Qué sería más justo?",
+"opciones": [
+"Que ella barra y los demás descansen",
+"Que barran por turnos",
+"Que nadie barra nunca más"
+],
+"correcta": 1,
+"porque": "Repartir las tareas por turnos es lo más justo."
+},
+{
+"pregunta": "¿Quién puede estudiar y aprender?",
+"opciones": [
+"Todas las personas",
+"Solo los niños",
+"Solo las niñas que sacan diez"
+],
+"correcta": 0,
+"porque": "Estudiar es un derecho de niñas y niños por igual."
+}
+],
+"vida-activa-saludable-primaria-1-2": [
+{
+"pregunta": "¿Cuál es la mejor bebida para tu cuerpo?",
+"opciones": [
+"Jugo con mucha azúcar añadida",
+"Agua simple, sin azúcar agregada",
+"Refresco de botella grande"
+],
+"correcta": 1,
+"porque": "El agua simple es la mejor bebida para tu cuerpo."
+},
+{
+"pregunta": "¿Cuál te ayuda a estar activo?",
+"opciones": [
+"Saltar la cuerda",
+"Dormirte en el pasto todo el recreo",
+"Mirar la tele sin parar"
+],
+"correcta": 0,
+"porque": "Saltar la cuerda mueve tu cuerpo y lo fortalece."
+},
+{
+"pregunta": "Después de jugar mucho, ¿qué necesita tu cuerpo?",
+"opciones": [
+"Jugar sin parar sin tomar agua",
+"Descansar y dormir bien",
+"Quedarse despierto toda la noche"
+],
+"correcta": 1,
+"porque": "Al dormir tu cuerpo descansa, crece y recupera energía."
+},
+{
+"pregunta": "¿Qué es un hábito saludable?",
+"opciones": [
+"Un juego que no se puede ganar",
+"Algo que haces solo en tu cumpleaños",
+"Algo que haces para cuidar tu cuerpo"
+],
+"correcta": 2,
+"porque": "Los hábitos son cosas que repites y que cuidan tu salud."
+},
+{
+"pregunta": "En el recreo, ¿qué haces para cuidar tu salud?",
+"opciones": [
+"Corro y juego con mis amigos",
+"Me quedo sentado todo el recreo sin moverme",
+"Solo como dulces"
+],
+"correcta": 0,
+"porque": "Moverte en el recreo ayuda a que tu cuerpo esté fuerte."
+}
+],
+"afectos-bienestar-primaria": [
+{
+"pregunta": "Tu amigo está triste. ¿Qué haces para mostrarle cariño?",
+"opciones": [
+"Me burlo para que se le pase",
+"Lo escucho y le hablo con amabilidad",
+"Me alejo para no ver su cara"
+],
+"correcta": 1,
+"porque": "Escuchar y hablar con amabilidad es una forma de cariño."
+},
+{
+"pregunta": "¿Qué puedes hacer para mostrar cariño a un amigo?",
+"opciones": [
+"Burlarte de sus errores",
+"Decirle palabras amables",
+"Dejar de hablarle"
+],
+"correcta": 1,
+"porque": "Las palabras amables muestran cariño."
+},
+{
+"pregunta": "Le dijiste algo feo a tu compañera sin querer. ¿Qué haces?",
+"opciones": [
+"Le digo que ella tuvo la culpa por escucharme",
+"Le pido perdón",
+"Hago como si no pasó nada"
+],
+"correcta": 1,
+"porque": "Pedir perdón ayuda a reparar la relación."
+},
+{
+"pregunta": "Te dieron una ayuda con tu tarea. ¿Qué haces?",
+"opciones": [
+"Doy las gracias",
+"No digo nada para no molestar",
+"Pido todavía más cosas sin decir nada"
+],
+"correcta": 0,
+"porque": "Dar las gracias muestra afecto y respeto."
+},
+{
+"pregunta": "Estás muy enojado. ¿Qué es lo correcto?",
+"opciones": [
+"Gritarle a quien esté cerca para sentirme mejor",
+"Enojarme es normal, pero no lastimar",
+"Fingir que nunca me enojo con nadie"
+],
+"correcta": 1,
+"porque": "Enojarte es normal; lo importante es no lastimar a otros."
+}
+],
+"cambios-sociales-culturales-salud-primaria": [
+{
+"pregunta": "¿Qué cambió en la pandemia?",
+"opciones": [
+"Hubo clases en línea y cubrebocas",
+"Se acabaron todas las escuelas del mundo para siempre",
+"Nadie volvió a salir de su casa por años"
+],
+"correcta": 0,
+"porque": "En la pandemia hubo clases en línea y se usó cubrebocas."
+},
+{
+"pregunta": "Llega un cambio nuevo a tu vida. ¿Qué te ayuda?",
+"opciones": [
+"Esconder lo que siento y no preguntar nada",
+"Culpar a otros por lo que pasa",
+"Informarme y hablar de lo que siento"
+],
+"correcta": 2,
+"porque": "Informarte y hablar de tus sentimientos te ayuda a enfrentar un cambio."
+},
+{
+"pregunta": "¿Cuál es un cambio cultural?",
+"opciones": [
+"Una piedra pesa lo mismo siempre",
+"Sale el sol por la mañana",
+"Cambian la música o los juegos"
+],
+"correcta": 2,
+"porque": "Los juegos, la música y las formas de celebrar son parte de la cultura y cambian."
+},
+{
+"pregunta": "Un cambio puede venir de...",
+"opciones": [
+"Solo de los cuentos de hadas",
+"Nuevas leyes, tecnología o costumbres",
+"Únicamente de la lluvia fuerte"
+],
+"correcta": 1,
+"porque": "La vida cambia por leyes, tecnología, costumbres y salud."
+},
+{
+"pregunta": "En tu salón se pasa a clases con tableta y todos se ponen nerviosos. ¿Qué haces?",
+"opciones": [
+"Me quejo todo el día y no la toco",
+"Me adapto y ayudo a quien no entienda",
+"Digo que es mejor no aprender nada nuevo"
+],
+"correcta": 1,
+"porque": "Adaptarte y ayudar a otros es una buena forma de enfrentar un cambio."
+}
+],
+"capacidades-habilidades-motrices-primaria": [
+{
+"pregunta": "¿Qué son las capacidades?",
+"opciones": [
+"Lo que tu cuerpo puede hacer",
+"Los nombres de tus amigos",
+"Los juguetes que guardas en casa"
+],
+"correcta": 0,
+"porque": "Las capacidades son lo que tu cuerpo puede hacer."
+},
+{
+"pregunta": "¿Cuál es una habilidad de usar objetos?",
+"opciones": [
+"Correr sin nada en las manos",
+"Estar quieto sin hacer nada",
+"Lanzar y atrapar una pelota"
+],
+"correcta": 2,
+"porque": "Lanzar y atrapar usa un objeto, como una pelota."
+},
+{
+"pregunta": "Correr y saltar son movimientos para...",
+"opciones": [
+"Nada, no son habilidades",
+"Moverse de un lugar a otro",
+"Mantener el equilibrio en un solo pie"
+],
+"correcta": 1,
+"porque": "Correr y saltar son habilidades para moverte de lugar."
+},
+{
+"pregunta": "Antes de hacer ejercicio en la clase de educación física, ¿qué conviene?",
+"opciones": [
+"Comer mucho de golpe",
+"Quedarte dormido un rato",
+"Calentar el cuerpo"
+],
+"correcta": 2,
+"porque": "Calentar prepara tu cuerpo y ayuda a evitar lesiones."
+},
+{
+"pregunta": "¿Qué haces para mejorar una habilidad?",
+"opciones": [
+"Espero a que mágicamente salga",
+"La practico poco a poco",
+"Nunca la intento otra vez"
+],
+"correcta": 1,
+"porque": "Las habilidades se aprenden y mejoran si practicas."
+}
+],
+"comunidad-espacio-escuela-primaria-3-4": [
+{
+"pregunta": "¿Qué es tu comunidad?",
+"opciones": [
+"Un juego de la computadora",
+"Solo tu casa y nada más",
+"El lugar donde vives y conviven personas"
+],
+"correcta": 2,
+"porque": "La comunidad es el lugar donde conviven personas con servicios y costumbres."
+},
+{
+"pregunta": "¿Cuál es un servicio de la comunidad?",
+"opciones": [
+"El agua y la luz",
+"Un dibujo en tu cuaderno",
+"Tu mochila nueva"
+],
+"correcta": 0,
+"porque": "El agua y la luz son servicios que usa toda la comunidad."
+},
+{
+"pregunta": "¿Cómo se ayudan la escuela y la comunidad?",
+"opciones": [
+"Se apoyan entre sí",
+"Compiten por tener más cosas",
+"No se conocen"
+],
+"correcta": 0,
+"porque": "La escuela y la comunidad se ayudan, por ejemplo con fiestas y limpieza."
+},
+{
+"pregunta": "Vas a hacer un mapa de tu colonia. ¿Qué pones?",
+"opciones": [
+"Solo el nombre de tu mascota",
+"Nada, porque no hay lugares importantes",
+"Lugares importantes, como el parque o el mercado"
+],
+"correcta": 2,
+"porque": "Un mapa muestra los lugares importantes de tu comunidad."
+},
+{
+"pregunta": "¿Cuál es una costumbre de una comunidad?",
+"opciones": [
+"Un número de tarea",
+"Una regla de matemáticas",
+"Una fiesta del barrio"
+],
+"correcta": 2,
+"porque": "Las fiestas son costumbres que comparte una comunidad."
+}
+],
+"educacion-integral-sexualidad-primaria": [
+{
+"pregunta": "Alguien te pide un secreto que te incomoda. ¿Qué haces?",
+"opciones": [
+"Hago lo que me pida para no discutir",
+"Se lo cuento a un adulto de confianza",
+"Lo guardo para que no se enoje"
+],
+"correcta": 1,
+"porque": "Si un secreto te incomoda, debes contarlo a un adulto de confianza."
+},
+{
+"pregunta": "¿Para qué sirve educación integral en sexualidad?",
+"opciones": [
+"Para conocer, cuidar y respetar mi cuerpo y emociones",
+"Para esconder lo que siento siempre",
+"Para burlarme de otros por su cuerpo"
+],
+"correcta": 0,
+"porque": "Te enseña a cuidar y respetar tu cuerpo y tus emociones."
+},
+{
+"pregunta": "Un adulto te pide guardar un secreto sobre tu cuerpo. ¿Qué haces?",
+"opciones": [
+"Lo guardo para siempre",
+"No digo nada por miedo",
+"Le cuento a un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Los secretos sobre tu cuerpo no se guardan: se cuentan a alguien de confianza."
+},
+{
+"pregunta": "Algo te hace sentir incómodo. ¿Qué haces?",
+"opciones": [
+"Me quedo callado y espero",
+"Me río para que no se note",
+"Digo no, me alejo y lo cuento"
+],
+"correcta": 2,
+"porque": "Puedes decir no, alejarte y contarlo a alguien de confianza."
+},
+{
+"pregunta": "¿Quiénes son adultos de confianza?",
+"opciones": [
+"Quien me pida guardar secretos",
+"Cualquier desconocido amable",
+"Personas que me cuidan y me escuchan"
+],
+"correcta": 2,
+"porque": "Un adulto de confianza te cuida y te escucha cuando lo necesitas."
+}
+]
+}

@@ -1,0 +1,522 @@
+{
+"numeros-cuanticos-prepa": [
+{
+"pregunta": "¿Qué letra corresponde a $l = 1$?",
+"opciones": [
+"La letra p",
+"La letra f",
+"La letra s"
+],
+"correcta": 0,
+"porque": "Con l igual a 0 es s, con 1 es p, con 2 es d y con 3 es f."
+},
+{
+"pregunta": "¿Qué número cuántico dice en qué nivel está el electrón?",
+"opciones": [
+"$n$",
+"$m_s$",
+"$l$"
+],
+"correcta": 0,
+"porque": "$n$ es la ciudad del domicilio, o sea el nivel."
+},
+{
+"pregunta": "¿Qué valores puede tener $m_s$?",
+"opciones": [
+"$-1$, $0$ o $+1$ como máximo",
+"$+\\frac{1}{2}$ o $-\\frac{1}{2}$",
+"$0$ o $1$, según el nivel"
+],
+"correcta": 1,
+"porque": "El sentido del electrón solo tiene dos valores: más un medio o menos un medio."
+},
+{
+"pregunta": "¿Qué valor de $l$ es posible cuando $n = 1$?",
+"opciones": [
+"2",
+"0",
+"1"
+],
+"correcta": 1,
+"porque": "$l$ va de 0 a $n - 1$, y con $n = 1$ solo queda el 0."
+},
+{
+"pregunta": "Dos electrones están en el mismo orbital. ¿Qué número cuántico es distinto en ellos?",
+"opciones": [
+"Su sentido, $m_s$",
+"Su subnivel, $l$",
+"Su nivel, $n$"
+],
+"correcta": 0,
+"porque": "Pauli dice que no pueden tener los 4 iguales, así que cambia el sentido."
+}
+],
+"particulas-subatomicas-prepa": [
+{
+"pregunta": "¿Qué partícula del átomo dice de qué elemento es?",
+"opciones": [
+"El protón, por su número $Z$",
+"El neutrón, por su masa",
+"El electrón, por su carga"
+],
+"correcta": 0,
+"porque": "El número de protones es lo que define a cada elemento."
+},
+{
+"pregunta": "El ion $\\ce{Mg^2+}$ tiene $Z = 12$. ¿Cuántos electrones tiene?",
+"opciones": [
+"14",
+"12",
+"10"
+],
+"correcta": 2,
+"porque": "La carga positiva significa que faltan electrones: 12 menos 2 son 10."
+},
+{
+"pregunta": "El ion $\\ce{S^2-}$ tiene $Z = 16$. ¿Cuántos electrones tiene?",
+"opciones": [
+"18",
+"16",
+"14"
+],
+"correcta": 0,
+"porque": "La carga negativa significa que sobran electrones: 16 más 2 son 18."
+},
+{
+"pregunta": "Un átomo tiene $A = 40$ y $Z = 18$. ¿Cuántos neutrones tiene?",
+"opciones": [
+"18",
+"22",
+"58"
+],
+"correcta": 1,
+"porque": "Los neutrones son $A - Z$: 40 menos 18 son 22."
+},
+{
+"pregunta": "¿Dónde están los protones y los neutrones?",
+"opciones": [
+"Alrededor, como polvito",
+"Afuera, muy lejos",
+"En el centro, juntos"
+],
+"correcta": 2,
+"porque": "Protones y neutrones son canicas pesadas en el centro; los electrones van alrededor."
+}
+],
+"polaridad-prepa": [
+{
+"pregunta": "¿Cuál de estas moléculas es polar?",
+"opciones": [
+"$\\ce{H2O}$",
+"$\\ce{CO2}$",
+"$\\ce{CH4}$"
+],
+"correcta": 0,
+"porque": "El agua tiene forma de V y sus jalones no se cancelan."
+},
+{
+"pregunta": "Mezclas agua con aceite sin jabón. ¿Qué pasa?",
+"opciones": [
+"Se mezclan por completo",
+"Quedan en capas separadas",
+"Todo se vuelve espuma"
+],
+"correcta": 1,
+"porque": "El agua es polar y el aceite no, y lo semejante disuelve lo semejante."
+},
+{
+"pregunta": "Dos niños jalan una cuerda igual y en sentidos contrarios. ¿Qué pasa con los jalones?",
+"opciones": [
+"Los jalones se cancelan",
+"Gana el niño de la izquierda",
+"La cuerda se va a un lado"
+],
+"correcta": 0,
+"porque": "En una molécula simétrica los jalones se cancelan y queda no polar."
+},
+{
+"pregunta": "¿Cuál de estas sustancias se disuelve en agua?",
+"opciones": [
+"La sal",
+"La cera de vela",
+"El aceite"
+],
+"correcta": 0,
+"porque": "La sal es como el agua y se disuelve; el aceite y la cera no."
+},
+{
+"pregunta": "¿Qué dos cosas deciden si una molécula es polar?",
+"opciones": [
+"Enlaces disparejos y forma",
+"Color y tamaño",
+"Peso y olor"
+],
+"correcta": 0,
+"porque": "Si los enlaces son disparejos y la forma no los cancela, la molécula es polar."
+}
+],
+"propiedades-periodicas-radio-y-energia-de-ionizacion-prepa": [
+{
+"pregunta": "¿Cuál es más grande: Cl o Br?",
+"opciones": [
+"Br",
+"Cl",
+"Los dos miden igual"
+],
+"correcta": 0,
+"porque": "El radio crece hacia abajo, porque hay más niveles."
+},
+{
+"pregunta": "¿A cuál cuesta más quitarle un electrón: Ne o Li?",
+"opciones": [
+"A los dos igual",
+"Al Ne",
+"Al Li"
+],
+"correcta": 1,
+"porque": "La energía de ionización crece hacia la derecha, y el Ne está más a la derecha."
+},
+{
+"pregunta": "¿Hacia dónde crece el radio atómico en la tabla?",
+"opciones": [
+"Hacia abajo y a la derecha",
+"Hacia abajo y a la izquierda",
+"Hacia arriba y a la derecha"
+],
+"correcta": 1,
+"porque": "El radio crece hacia abajo y a la izquierda; lo demás crece hacia arriba y a la derecha."
+},
+{
+"pregunta": "¿Por qué el radio aumenta hacia abajo en un grupo?",
+"opciones": [
+"Hay menos protones",
+"Hay más niveles de electrones",
+"Hay menos electrones"
+],
+"correcta": 1,
+"porque": "Cada fila de abajo agrega un nivel y el átomo se hace más grande."
+},
+{
+"pregunta": "¿Qué grupo pierde electrones con facilidad?",
+"opciones": [
+"Los alcalinos",
+"Los halógenos",
+"Los gases nobles"
+],
+"correcta": 0,
+"porque": "Los alcalinos tienen poca energía de ionización, y por eso sueltan electrones fácil."
+}
+],
+"sustancias-elementos-compuestos-mezclas-prepa": [
+{
+"pregunta": "El hierro tiene un solo tipo de átomo. ¿Qué es?",
+"opciones": [
+"Un compuesto",
+"Un elemento",
+"Una mezcla"
+],
+"correcta": 1,
+"porque": "Una sustancia con un solo tipo de átomo es un elemento."
+},
+{
+"pregunta": "Una ensalada tiene partes que se ven. ¿Qué tipo de mezcla es?",
+"opciones": [
+"Compuesto, está pegada",
+"Homogénea, se ve una sola",
+"Heterogénea, se ven las partes"
+],
+"correcta": 2,
+"porque": "En una mezcla heterogénea se ven las partes, como la ensalada."
+},
+{
+"pregunta": "¿Cómo sacas la sal de un vaso de agua con sal?",
+"opciones": [
+"Evaporando el agua",
+"Poniendo un papel",
+"Con una reacción química"
+],
+"correcta": 0,
+"porque": "Al evaporar el agua, la sal queda en el fondo."
+},
+{
+"pregunta": "Una manzana cortada se pone café con el aire. ¿Qué propiedad es?",
+"opciones": [
+"Física, porque se mide igual",
+"Química, porque la sustancia cambia",
+"De mezcla, porque se separa"
+],
+"correcta": 1,
+"porque": "Una propiedad química aparece al cambiar la sustancia, como oxidarse."
+},
+{
+"pregunta": "¿Qué necesitas para separar los átomos de un compuesto?",
+"opciones": [
+"Un colador",
+"Dejarlo reposar",
+"Una reacción química"
+],
+"correcta": 2,
+"porque": "Los átomos de un compuesto están unidos, y solo se separan con reacciones."
+}
+],
+"caida-libre-mru-newton-1-2": [
+{
+"pregunta": "Un camión va a 5 m/s durante 6 s con velocidad constante. ¿Qué distancia recorre?",
+"opciones": [
+"36 m",
+"30 m",
+"11 m"
+],
+"correcta": 1,
+"porque": "La distancia es velocidad por tiempo: 5 por 6 son 30 m."
+},
+{
+"pregunta": "¿Qué fuerza se necesita para acelerar 5 kg a 4 m/s²?",
+"opciones": [
+"9 N",
+"20 N",
+"1 N"
+],
+"correcta": 1,
+"porque": "La fuerza es masa por aceleración: 5 por 4 son 20 N."
+},
+{
+"pregunta": "Una moneda cae 5 s desde el reposo. Con $g = 10$, ¿qué velocidad lleva?",
+"opciones": [
+"50 m/s",
+"25 m/s",
+"15 m/s"
+],
+"correcta": 0,
+"porque": "La velocidad es 10 por el tiempo: 10 por 5 son 50 m/s."
+},
+{
+"pregunta": "Una pelota está quieta en el patio y nadie la empuja. ¿Qué pasa?",
+"opciones": [
+"Se acelera poco a poco",
+"Se queda quieta",
+"Empieza a rodar sola"
+],
+"correcta": 1,
+"porque": "Sin fuerza neta, un cuerpo quieto sigue quieto."
+},
+{
+"pregunta": "Una piedra cae 2 s desde el reposo, con $g = 10$. ¿Qué distancia baja?",
+"opciones": [
+"10 m",
+"20 m",
+"40 m"
+],
+"correcta": 1,
+"porque": "La distancia es 5 por el tiempo dos veces: 5 por 2 por 2 son 20 m."
+}
+],
+"campo-electrico-prepa": [
+{
+"pregunta": "Una carga de 5 C recibe una fuerza de 20 N. ¿Cuánto vale $E$?",
+"opciones": [
+"4 N/C",
+"100 N/C",
+"15 N/C"
+],
+"correcta": 0,
+"porque": "El campo es fuerza entre carga: 20 entre 5 son 4."
+},
+{
+"pregunta": "¿De dónde salen las líneas de campo?",
+"opciones": [
+"De las cargas neutras",
+"De las cargas positivas",
+"De las cargas negativas"
+],
+"correcta": 1,
+"porque": "Las líneas salen de lo positivo y entran a lo negativo."
+},
+{
+"pregunta": "¿A cuánto equivalen 5 $\\mu$C?",
+"opciones": [
+"$5 \\times 10^{-6}$ C",
+"$5 \\times 10^{-9}$ C",
+"$5 \\times 10^{6}$ C"
+],
+"correcta": 0,
+"porque": "Micro es una millonésima, o sea $10^{-6}$."
+},
+{
+"pregunta": "Te alejas de una carga en el patio. ¿Qué pasa con el campo que sientes?",
+"opciones": [
+"Sube, porque $r$ crece",
+"Baja, porque $r$ crece",
+"Queda igual siempre"
+],
+"correcta": 1,
+"porque": "La distancia está abajo de la fórmula, y lejos se siente menos."
+},
+{
+"pregunta": "Con $q = 4$ C y $E = 5$ N/C, ¿cuánto vale la fuerza?",
+"opciones": [
+"1.25 N",
+"20 N",
+"9 N"
+],
+"correcta": 1,
+"porque": "La fuerza es carga por campo: 4 por 5 son 20 N."
+}
+],
+"capacitores-prepa": [
+{
+"pregunta": "Un capacitor tiene $C = 4$ F y $V = 5$ V. ¿Cuánta carga guarda?",
+"opciones": [
+"9 C",
+"20 C",
+"1.25 C"
+],
+"correcta": 1,
+"porque": "La carga es capacidad por voltaje: 4 por 5 son 20 C."
+},
+{
+"pregunta": "Halla la capacidad total de 3 $\\mu$F y 7 $\\mu$F en paralelo.",
+"opciones": [
+"21 $\\mu$F",
+"10 $\\mu$F",
+"2.1 $\\mu$F"
+],
+"correcta": 1,
+"porque": "En paralelo las capacidades se suman: 3 más 7 son 10."
+},
+{
+"pregunta": "Dos capacitores iguales de 10 $\\mu$F están en serie. ¿Cuánto da el conjunto?",
+"opciones": [
+"10 $\\mu$F",
+"20 $\\mu$F",
+"5 $\\mu$F"
+],
+"correcta": 2,
+"porque": "En serie, dos iguales dan la mitad: 10 entre 2 son 5."
+},
+{
+"pregunta": "¿Cuánta energía guarda un capacitor de 2 F con 4 V?",
+"opciones": [
+"8 J",
+"16 J",
+"32 J"
+],
+"correcta": 1,
+"porque": "La energía es la mitad de $C$ por $V$ dos veces: 1 por 16 son 16 J."
+},
+{
+"pregunta": "¿Por qué el flash de una cámara brilla tanto?",
+"opciones": [
+"Su carga sale de golpe",
+"Su carga sale poco a poco",
+"Su carga nunca sale"
+],
+"correcta": 0,
+"porque": "El capacitor se llena y se vacía de golpe, como una cubeta."
+}
+],
+"densidad-y-presion-prepa": [
+{
+"pregunta": "Halla la presión manométrica a 3 m de agua, con $g = 10$ m/s².",
+"opciones": [
+"30 000 Pa",
+"3 000 Pa",
+"300 000 Pa"
+],
+"correcta": 0,
+"porque": "Es densidad por 10 por profundidad: 1000 por 10 por 3 son 30 000 Pa."
+},
+{
+"pregunta": "Una caja tiene 10 kg y ocupa 2 m³. ¿Cuál es su densidad?",
+"opciones": [
+"5 kg/m³",
+"12 kg/m³",
+"20 kg/m³"
+],
+"correcta": 0,
+"porque": "La densidad es masa entre volumen: 10 entre 2 son 5."
+},
+{
+"pregunta": "¿Por qué una aguja se clava fácil en la tela?",
+"opciones": [
+"Concentra la fuerza en poca área",
+"Es más pesada que el dedo",
+"Tiene más fuerza que el dedo"
+],
+"correcta": 0,
+"porque": "La misma fuerza en menos área aprieta más."
+},
+{
+"pregunta": "Con $P_{atm} = 100\\,000$ Pa y $P_m = 20\\,000$ Pa, halla $P_{abs}$.",
+"opciones": [
+"80 000 Pa",
+"20 000 Pa",
+"120 000 Pa"
+],
+"correcta": 2,
+"porque": "La presión absoluta es la manométrica más la del aire."
+},
+{
+"pregunta": "Subes a una montaña. ¿Qué pasa con la presión del aire?",
+"opciones": [
+"Sube, hay más aire arriba",
+"Baja, hay menos aire arriba",
+"Queda igual que abajo"
+],
+"correcta": 1,
+"porque": "Arriba hay menos aire encima y la presión es menor."
+}
+],
+"diagramas-de-cuerpo-libre-prepa": [
+{
+"pregunta": "¿Qué representa cada flecha en un diagrama de cuerpo libre?",
+"opciones": [
+"El camino del objeto",
+"Una fuerza sobre el objeto",
+"La velocidad del objeto"
+],
+"correcta": 1,
+"porque": "Cada flecha es alguien que empuja o jala al objeto."
+},
+{
+"pregunta": "¿Hacia dónde apunta el peso de una mochila?",
+"opciones": [
+"Hacia arriba",
+"Hacia un lado",
+"Hacia abajo"
+],
+"correcta": 2,
+"porque": "El peso siempre jala hacia abajo."
+},
+{
+"pregunta": "Un bloque de 4 kg recibe 18 N y tiene fricción de 6 N. Halla $a$.",
+"opciones": [
+"6 m/s²",
+"3 m/s²",
+"4.5 m/s²"
+],
+"correcta": 1,
+"porque": "Resta la fricción y divide entre la masa: 12 entre 4 son 3."
+},
+{
+"pregunta": "Tu mochila cuelga quieta de un gancho. ¿Qué pasa con las fuerzas?",
+"opciones": [
+"Se cancelan",
+"El peso gana",
+"La tensión gana"
+],
+"correcta": 0,
+"porque": "Si está quieta, las fuerzas se cancelan y la suma es cero."
+},
+{
+"pregunta": "Una caja se desliza hacia la derecha. ¿Hacia dónde apunta la fricción?",
+"opciones": [
+"A la izquierda",
+"A la derecha",
+"Hacia arriba"
+],
+"correcta": 0,
+"porque": "La fricción va en contra del movimiento."
+}
+]
+}

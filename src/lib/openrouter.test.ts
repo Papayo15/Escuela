@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
-import { ErrorOpenRouter, esModeloPrincipal, leerSSE, modelos, type EventoSSE } from "./openrouter";
+import { abrirStream, ErrorOpenRouter, esModeloPrincipal, leerSSE, modelos, type EventoSSE } from "./openrouter";
 
 function flujo(...trozos: string[]): ReadableStream<Uint8Array> {
   const c = new TextEncoder();
@@ -68,5 +68,33 @@ describe("modelos", () => {
   it("permite cambiar el orden", () => {
     vi.stubEnv("OPENROUTER_MODELS", "a/b, c/d");
     expect(modelos()).toEqual(["a/b", "c/d"]);
+  });
+});
+
+describe("abrirStream: retención de datos", () => {
+  const cuerpoEnviado = async (sinRetencion: boolean) => {
+    const espia = vi.fn(async () => new Response('data: {"choices":[{"finish_reason":"stop"}]}\n\ndata: [DONE]\n\n'));
+    vi.stubGlobal("fetch", espia);
+    for await (const evento of abrirStream({
+      mensajes: [{ role: "user", content: "hola" }],
+      sinRetencion,
+    })) {
+      void evento;
+    }
+    vi.unstubAllGlobals();
+    const [, init] = espia.mock.calls[0] as unknown as [string, RequestInit];
+    return JSON.parse(init.body as string);
+  };
+
+  it("una foto va con zdr y sin caché", async () => {
+    const cuerpo = await cuerpoEnviado(true);
+    expect(cuerpo.provider.zdr).toBe(true);
+    expect(cuerpo.cache_control).toBeUndefined();
+  });
+
+  it("el texto usa caché y no exige zdr", async () => {
+    const cuerpo = await cuerpoEnviado(false);
+    expect(cuerpo.provider.zdr).toBeUndefined();
+    expect(cuerpo.cache_control).toEqual({ type: "ephemeral" });
   });
 });

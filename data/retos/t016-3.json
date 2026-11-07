@@ -1,0 +1,522 @@
+{
+"estructura-de-la-obra-de-teatro-secundaria": [
+{
+"pregunta": "En «LUIS. (Susurrando.) Ven acá», ¿qué es «Susurrando»?",
+"opciones": [
+"Un diálogo",
+"Una acotación",
+"Un acto completo de la obra"
+],
+"correcta": 1,
+"porque": "Está entre paréntesis y le dice al actor cómo actuar."
+},
+{
+"pregunta": "¿Qué parte de la obra cambia cuando baja el telón?",
+"opciones": [
+"La escena, porque entra un personaje",
+"La acotación",
+"El acto"
+],
+"correcta": 2,
+"porque": "El acto es la parte grande y cambia al bajar el telón."
+},
+{
+"pregunta": "Sale un personaje y entra otro. ¿Qué cambia?",
+"opciones": [
+"El acto",
+"El título",
+"La escena"
+],
+"correcta": 2,
+"porque": "La escena cambia cuando entra o sale un personaje."
+},
+{
+"pregunta": "¿Qué dice el actor en voz alta?",
+"opciones": [
+"El diálogo",
+"La acotación entre paréntesis",
+"El número del acto"
+],
+"correcta": 0,
+"porque": "La acotación se actúa, pero el diálogo sí se dice."
+},
+{
+"pregunta": "Un acto en una obra es como un...",
+"opciones": [
+"renglón de la carta",
+"capítulo de un libro",
+"dibujo de la portada"
+],
+"correcta": 1,
+"porque": "Los actos son partes grandes, como los capítulos."
+}
+],
+"ficha-de-trabajo-secundaria": [
+{
+"pregunta": "Lees un libro y escribes con tus palabras lo principal. ¿Qué ficha haces?",
+"opciones": [
+"De cita, porque viene de un libro",
+"De comentario",
+"De resumen"
+],
+"correcta": 2,
+"porque": "El resumen usa tus palabras para decir lo importante."
+},
+{
+"pregunta": "¿Qué lleva una ficha de trabajo?",
+"opciones": [
+"Un dibujo y la opinión del maestro",
+"Tema, fuente y dato",
+"Solo tu nombre y la fecha de hoy"
+],
+"correcta": 1,
+"porque": "Lleva el tema, de dónde sacaste el dato y la información."
+},
+{
+"pregunta": "¿Por qué se pone una sola idea en cada ficha?",
+"opciones": [
+"Para ordenarlas como cartas",
+"Para que la tarea parezca más larga y bonita",
+"Para gastar más hojas"
+],
+"correcta": 0,
+"porque": "Así puedes mover y ordenar las fichas fácilmente."
+},
+{
+"pregunta": "Piensas: «El texto me pareció aburrido». ¿Qué ficha haces?",
+"opciones": [
+"De cita",
+"De resumen",
+"De comentario"
+],
+"correcta": 2,
+"porque": "La ficha de comentario guarda lo que tú opinas."
+},
+{
+"pregunta": "¿Para qué anotas de dónde sacaste el dato?",
+"opciones": [
+"Para no tener que leerlo otra vez",
+"Para que la ficha quede más llena de letras",
+"Para saber su fuente"
+],
+"correcta": 2,
+"porque": "La fuente te dice dónde volver a encontrar el dato."
+}
+],
+"funcion-creativa-espanol-comunidad-secundaria": [
+{
+"pregunta": "¿Cuál frase es más creativa para invitar a cuidar la luz?",
+"opciones": [
+"Está prohibido dejar luces prendidas",
+"Apaga un foco y enciende una idea",
+"Se solicita apagar la luz al salir del salón"
+],
+"correcta": 1,
+"porque": "Juega con las palabras y llama la atención."
+},
+{
+"pregunta": "¿Cuál es el primer paso para escribir un buen texto?",
+"opciones": [
+"Revisar la ortografía de todo al terminar",
+"Agregar algo original",
+"Pensar para qué escribes"
+],
+"correcta": 2,
+"porque": "Primero decides para qué escribes y luego sigues los demás pasos."
+},
+{
+"pregunta": "¿Qué textos usan la función creativa del español?",
+"opciones": [
+"Los avisos de precio y las facturas",
+"Solo las tablas de multiplicar",
+"Carteles, canciones y versos"
+],
+"correcta": 2,
+"porque": "Con la lengua puedes crear carteles, canciones, versos y anuncios."
+},
+{
+"pregunta": "Antes de hacer un cartel, ¿qué piensas?",
+"opciones": [
+"Quién lo leerá",
+"Cuántas hojas me quedan en la mochila",
+"De qué color es mi lápiz"
+],
+"correcta": 0,
+"porque": "Debes pensar en quién lo va a leer para que el mensaje le llegue."
+},
+{
+"pregunta": "¿Qué paso se hace al final de un texto creativo?",
+"opciones": [
+"Pensar quién lo leerá, antes de escribir nada",
+"Revisar la ortografía",
+"Decidir para qué se escribe"
+],
+"correcta": 1,
+"porque": "Al terminar se revisa para que no queden errores."
+}
+],
+"generos-literarios-secundaria": [
+{
+"pregunta": "¿A qué género pertenece una leyenda?",
+"opciones": [
+"Narrativo",
+"Dramático",
+"Lírico"
+],
+"correcta": 0,
+"porque": "Una leyenda cuenta una historia, así que es narrativa."
+},
+{
+"pregunta": "Un guion para actuar en el festival de la escuela es del género...",
+"opciones": [
+"dramático",
+"narrativo, porque cuenta una historia",
+"lírico"
+],
+"correcta": 0,
+"porque": "Lo dramático se escribe para actuarse."
+},
+{
+"pregunta": "Un poema donde alguien expresa lo que siente por su mamá es...",
+"opciones": [
+"narrativo",
+"lírico",
+"dramático, porque tiene personajes"
+],
+"correcta": 1,
+"porque": "El género lírico expresa sentimientos."
+},
+{
+"pregunta": "¿Qué pregunta te ayuda a saber si una obra es narrativa?",
+"opciones": [
+"¿Tiene muchas rimas y versos?",
+"¿Se actúa en un teatro?",
+"¿Cuenta una historia?"
+],
+"correcta": 2,
+"porque": "Lo narrativo es lo que cuenta una historia."
+},
+{
+"pregunta": "¿Cuál es un ejemplo del género lírico?",
+"opciones": [
+"Una oda, que expresa sentimientos",
+"Una novela que cuenta aventuras",
+"Una comedia para actuar en teatro"
+],
+"correcta": 0,
+"porque": "El género lírico expresa sentimientos, como una oda."
+}
+],
+"generos-periodisticos-sucesos-secundaria": [
+{
+"pregunta": "¿Qué género investiga a fondo un tema?",
+"opciones": [
+"La noticia breve del día",
+"El reportaje",
+"La entrevista"
+],
+"correcta": 1,
+"porque": "El reportaje usa datos, testimonios y varias fuentes."
+},
+{
+"pregunta": "¿Qué género son preguntas y respuestas a una persona?",
+"opciones": [
+"La crónica",
+"La entrevista",
+"El artículo de opinión"
+],
+"correcta": 1,
+"porque": "La entrevista se hace con preguntas y respuestas."
+},
+{
+"pregunta": "Un texto cuenta en orden y con detalles lo que pasó en el desfile. Es...",
+"opciones": [
+"una entrevista",
+"un artículo de opinión",
+"una crónica"
+],
+"correcta": 2,
+"porque": "La crónica cuenta un hecho en orden y con detalles."
+},
+{
+"pregunta": "¿Cuál oración es un hecho y no una opinión?",
+"opciones": [
+"El torneo empezó a las 10",
+"El torneo estuvo aburrido",
+"Fue el mejor torneo que ha habido en la escuela"
+],
+"correcta": 0,
+"porque": "Un hecho se puede comprobar; lo demás es opinión."
+},
+{
+"pregunta": "¿Qué género sirve para dar tu opinión?",
+"opciones": [
+"La noticia, que cuenta lo que pasó",
+"El artículo de opinión",
+"El reportaje"
+],
+"correcta": 1,
+"porque": "En el artículo de opinión se defiende una idea con razones."
+}
+],
+"gerundio-participio-e-infinitivo-secundaria": [
+{
+"pregunta": "¿Cuál es el gerundio de «correr»?",
+"opciones": [
+"corriendo",
+"correr",
+"corrido, que ya pasó"
+],
+"correcta": 0,
+"porque": "El gerundio termina en -ando o -iendo y muestra algo que está pasando."
+},
+{
+"pregunta": "¿Cuál es el participio de «ver»?",
+"opciones": [
+"visto",
+"viendo, que sigue pasando",
+"veído"
+],
+"correcta": 0,
+"porque": "Visto es un participio irregular, como escrito o roto."
+},
+{
+"pregunta": "¿Qué forma es «escrito» en «He escrito una carta»?",
+"opciones": [
+"Participio",
+"Infinitivo",
+"Gerundio"
+],
+"correcta": 0,
+"porque": "Escrito es el participio irregular de escribir."
+},
+{
+"pregunta": "¿Cuál es el participio de *escribir*?",
+"opciones": [
+"Escrito",
+"Escribido",
+"Escribiendo"
+],
+"correcta": 0,
+"porque": "*Escrito* es un participio irregular, como *roto* o *visto*."
+},
+{
+"pregunta": "¿Qué terminación tiene el gerundio?",
+"opciones": [
+"-ado o -ido",
+"-ar, -er o -ir",
+"-ando o -iendo"
+],
+"correcta": 2,
+"porque": "Como en cantando y comiendo."
+}
+],
+"hiperbole-personificacion-y-anafora-secundaria": [
+{
+"pregunta": "¿Qué figura es «Esta mochila pesa una tonelada»?",
+"opciones": [
+"Anáfora",
+"Hipérbole",
+"Personificación"
+],
+"correcta": 1,
+"porque": "Exagera mucho para dar fuerza, y eso es una hipérbole."
+},
+{
+"pregunta": "¿Qué figura es «El sol sonríe sobre el patio»?",
+"opciones": [
+"Anáfora",
+"Hipérbole, porque exagera",
+"Personificación"
+],
+"correcta": 2,
+"porque": "Le da un rasgo humano, sonreír, al sol."
+},
+{
+"pregunta": "¿Qué figura es «Hoy canto, hoy bailo, hoy sueño»?",
+"opciones": [
+"Hipérbole",
+"Anáfora",
+"Personificación"
+],
+"correcta": 1,
+"porque": "Repite «hoy» al inicio de cada verso."
+},
+{
+"pregunta": "¿Qué hace la personificación?",
+"opciones": [
+"Exagera una cosa para impresionar",
+"Da vida humana a una cosa",
+"Repite una palabra al inicio de cada verso"
+],
+"correcta": 1,
+"porque": "Por ejemplo, «la luna me mira» da ojos a la luna."
+},
+{
+"pregunta": "¿Para qué sirven estas figuras?",
+"opciones": [
+"Para hacer cuentas",
+"Para dar datos exactos en una noticia",
+"Para emocionar"
+],
+"correcta": 2,
+"porque": "Dan emoción y ritmo a lo que se escribe."
+}
+],
+"homofonos-haber-a-ver-hay-ahi-ay-secundaria": [
+{
+"pregunta": "Elige: «Mañana ___ examen» (hay/ahí/ay).",
+"opciones": [
+"hay",
+"ay, porque suena como un grito",
+"ahí"
+],
+"correcta": 0,
+"porque": "Hay quiere decir que existe."
+},
+{
+"pregunta": "Elige: «¡___, me pisaste!» (hay/ahí/ay).",
+"opciones": [
+"Hay",
+"Ay",
+"Ahí, porque señala un lugar"
+],
+"correcta": 1,
+"porque": "Ay expresa dolor o sorpresa."
+},
+{
+"pregunta": "Elige: «Voy ___ qué trajiste» (haber/a ver).",
+"opciones": [
+"a ver y haber son lo mismo, da igual",
+"haber",
+"a ver"
+],
+"correcta": 2,
+"porque": "A ver significa mirar o probar."
+},
+{
+"pregunta": "Elige: «Mañana va a ___ junta» (haber/a ver).",
+"opciones": [
+"a ver",
+"haber",
+"a ver, porque voy a mirar"
+],
+"correcta": 1,
+"porque": "Haber es un verbo: va a existir una junta."
+},
+{
+"pregunta": "Elige: «Tu mochila está ___, junto a la puerta» (hay/ahí/ay).",
+"opciones": [
+"hay",
+"ahí",
+"ay, porque duele"
+],
+"correcta": 1,
+"porque": "Ahí señala un lugar."
+}
+],
+"lenguas-identidad-pertenencia-secundaria": [
+{
+"pregunta": "Aprendiste zapoteco con tu mamá antes de ir a la escuela. Ese es tu...",
+"opciones": [
+"idioma de la escuela",
+"lengua extranjera, porque es de otra región",
+"lengua materna"
+],
+"correcta": 2,
+"porque": "La lengua materna es la primera que aprendes en casa."
+},
+{
+"pregunta": "¿Qué es la pertenencia?",
+"opciones": [
+"Tener muchas cosas que otros no tienen",
+"Sentirte parte de un grupo",
+"Mudarte a otro lugar"
+],
+"correcta": 1,
+"porque": "Es sentir que eres parte de tu familia, tu pueblo o tu grupo."
+},
+{
+"pregunta": "¿Qué es la identidad?",
+"opciones": [
+"Lo que te hace ser tú",
+"Tu nombre escrito en la libreta y nada más",
+"Lo que opinan los demás de ti"
+],
+"correcta": 0,
+"porque": "La identidad es lo que te hace ser quien eres."
+},
+{
+"pregunta": "Oyes una palabra de tu pueblo lejos de casa y te alegras. ¿Qué sientes?",
+"opciones": [
+"Que estás con los tuyos",
+"Que debes olvidarla",
+"Que no la entiendes bien"
+],
+"correcta": 0,
+"porque": "Una palabra de tu lengua te hace sentir que perteneces."
+},
+{
+"pregunta": "¿Puede una persona tener varias identidades?",
+"opciones": [
+"Solo si cambia de lengua cada año",
+"No, solo puede tener una identidad en toda su vida",
+"Sí, varias a la vez"
+],
+"correcta": 2,
+"porque": "Puedes ser oaxaqueña, hablar zapoteco y ser estudiante."
+}
+],
+"manifestaciones-culturales-incluyentes-secundaria": [
+{
+"pregunta": "Quieres que un niño que no oye participe en un festival. ¿Qué ayuda?",
+"opciones": [
+"Poner la música más fuerte",
+"Un intérprete de señas",
+"Hacerlo solo para quienes ya conocen el tema"
+],
+"correcta": 1,
+"porque": "Con señas puede entender y participar."
+},
+{
+"pregunta": "¿Qué pregunta sirve para analizar una manifestación cultural?",
+"opciones": [
+"¿Quién puede participar?",
+"¿De qué color es el escenario?",
+"¿Cuántos boletos se vendieron el año pasado?"
+],
+"correcta": 0,
+"porque": "Ayuda a ver si en ella cabe todo mundo."
+},
+{
+"pregunta": "¿Qué significa que una manifestación sea incluyente?",
+"opciones": [
+"Que cabe todo mundo",
+"Que solo entran los que ya saben del tema",
+"Que se prohíbe a algunos"
+],
+"correcta": 0,
+"porque": "Nadie se queda fuera."
+},
+{
+"pregunta": "¿Cómo ayudan las manifestaciones culturales incluyentes?",
+"opciones": [
+"Dan voz a grupos distintos",
+"Hacen que todos piensen exactamente igual",
+"Dejan fuera a quienes opinan distinto"
+],
+"correcta": 0,
+"porque": "Muestran que hay muchas formas de ver el mundo."
+},
+{
+"pregunta": "Un compañero dice que su baile tradicional es raro. ¿Qué haces?",
+"opciones": [
+"Le dices que es mejor no bailarlo frente a todos",
+"Te ríes con otros",
+"Le preguntas por su baile con respeto"
+],
+"correcta": 2,
+"porque": "Respetar y conocer lo distinto hace más grande la cultura de todos."
+}
+]
+}

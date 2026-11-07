@@ -1,0 +1,522 @@
+{
+"medir-con-metro-y-centimetro-primaria": [
+{
+"pregunta": "¿Con qué unidad mides mejor el largo de una goma de borrar?",
+"opciones": [
+"Metros",
+"Centímetros",
+"Kilómetros"
+],
+"correcta": 1,
+"porque": "La goma es pequeña, por eso se mide en centímetros."
+},
+{
+"pregunta": "¿Cuántos centímetros son 3 metros?",
+"opciones": [
+"30 cm",
+"300 cm",
+"103 cm"
+],
+"correcta": 1,
+"porque": "Cada metro tiene 100 cm, así que 3 metros son 300 cm."
+},
+{
+"pregunta": "Una cuerda mide 2 m y 50 cm. ¿Cuántos centímetros mide?",
+"opciones": [
+"250 cm",
+"52 cm",
+"150 cm"
+],
+"correcta": 0,
+"porque": "2 m son 200 cm y 200 más 50 son 250 cm."
+},
+{
+"pregunta": "Mides tu cuaderno con una regla. ¿Dónde pones el cuaderno?",
+"opciones": [
+"En el número 1",
+"En el 0 de la regla",
+"En la orilla de la regla"
+],
+"correcta": 1,
+"porque": "La medida empieza a contar desde el 0, no desde la orilla."
+},
+{
+"pregunta": "¿Qué mide más: 80 cm o 1 m?",
+"opciones": [
+"Miden lo mismo",
+"1 m",
+"80 cm"
+],
+"correcta": 1,
+"porque": "1 m son 100 cm y 100 es más que 80."
+}
+],
+"multiplicacion-y-division-nocion": [
+{
+"pregunta": "Hay 4 bolsas con 5 dulces cada una. ¿Cuántos dulces hay?",
+"opciones": [
+"20",
+"9",
+"25"
+],
+"correcta": 0,
+"porque": "Son 4 veces 5, es decir 5 + 5 + 5 + 5 = 20."
+},
+{
+"pregunta": "Repartes 20 dulces entre 4 niños por igual. ¿Cuántos le tocan a cada uno?",
+"opciones": [
+"5 dulces a cada niño",
+"80 dulces a cada niño",
+"16 dulces a cada niño"
+],
+"correcta": 0,
+"porque": "Repartir es dividir: 20 entre 4 es 5."
+},
+{
+"pregunta": "Si $4 \\times 5 = 20$, ¿qué división sale de esa multiplicación?",
+"opciones": [
+"$20 \\div 4 = 16$",
+"$20 \\div 20 = 5$",
+"$20 \\div 5 = 4$"
+],
+"correcta": 2,
+"porque": "Dividir deshace multiplicar: 20 entre 5 vuelve al 4."
+},
+{
+"pregunta": "En tu salón hay 24 colores y 6 equipos. ¿Cuántos colores le tocan a cada equipo?",
+"opciones": [
+"30 colores a cada equipo",
+"4 colores a cada equipo",
+"18 colores a cada equipo"
+],
+"correcta": 1,
+"porque": "Repartir es dividir: 24 entre 6 es 4."
+},
+{
+"pregunta": "¿Cómo compruebas que $14 \\div 2 = 7$?",
+"opciones": [
+"Sumas $7 + 2$ y da 9",
+"Restas $14 - 2$ y da 12",
+"Multiplicas $7 \\times 2$ y da 14"
+],
+"correcta": 2,
+"porque": "Al multiplicar el resultado por el divisor vuelves al número inicial."
+}
+],
+"multiplicar-es-sumar-varias-veces-primaria": [
+{
+"pregunta": "¿Cómo se escribe 4 + 4 + 4 como multiplicación?",
+"opciones": [
+"$3 \\times 4$",
+"$3 + 4$",
+"$4 \\times 4$"
+],
+"correcta": 0,
+"porque": "Hay tres veces el 4, por eso se escribe 3 × 4."
+},
+{
+"pregunta": "¿Cuánto es 2 + 2 + 2 + 2 + 2?",
+"opciones": [
+"10",
+"22",
+"7"
+],
+"correcta": 0,
+"porque": "Cinco veces 2 es 5 × 2 = 10."
+},
+{
+"pregunta": "En la fila de bancas hay 4 filas con 3 bancas cada una. ¿Cuántas bancas son?",
+"opciones": [
+"34",
+"7",
+"12"
+],
+"correcta": 2,
+"porque": "Son 4 veces 3, y 4 × 3 = 12."
+},
+{
+"pregunta": "¿Cómo se llama el resultado de una multiplicación?",
+"opciones": [
+"Sumando",
+"Factor",
+"Producto"
+],
+"correcta": 2,
+"porque": "En 3 × 4 = 12 el 12 es el producto."
+},
+{
+"pregunta": "¿Cuánto es 9 × 0?",
+"opciones": [
+"0",
+"9",
+"90"
+],
+"correcta": 0,
+"porque": "Todo número por 0 da 0."
+}
+],
+"numeros-ordinales-primaria": [
+{
+"pregunta": "En la fila del recreo eres la tercera. ¿Qué lugar ocupas?",
+"opciones": [
+"Tres lugares",
+"Cuarto lugar",
+"Tercer lugar"
+],
+"correcta": 2,
+"porque": "Ordinal dice el lugar: tercero es el lugar número 3."
+},
+{
+"pregunta": "¿Cómo se escribe con número el sexto?",
+"opciones": [
+"8.º",
+"5.º",
+"6.º"
+],
+"correcta": 2,
+"porque": "Sexto es el lugar 6 y se escribe 6.º."
+},
+{
+"pregunta": "¿Qué lugar va antes del décimo?",
+"opciones": [
+"Séptimo",
+"Octavo",
+"Noveno"
+],
+"correcta": 2,
+"porque": "Antes del lugar 10 está el lugar 9, el noveno."
+},
+{
+"pregunta": "En un edificio vives en el piso 5. ¿Cómo se dice ese lugar?",
+"opciones": [
+"Sexto piso",
+"Cinco pisos",
+"Quinto piso"
+],
+"correcta": 2,
+"porque": "El quinto indica el lugar del piso, no cuántos hay."
+},
+{
+"pregunta": "¿Qué pregunta se responde con un número ordinal?",
+"opciones": [
+"¿En qué lugar quedó?",
+"¿Cuántos hay?",
+"¿Cuánto pesa?"
+],
+"correcta": 0,
+"porque": "Los ordinales dicen el lugar u orden de algo."
+}
+],
+"numeros-pares-e-impares-primaria": [
+{
+"pregunta": "¿Cuál número es par?",
+"opciones": [
+"77",
+"48",
+"53"
+],
+"correcta": 1,
+"porque": "Termina en 8, y los pares terminan en 0, 2, 4, 6 u 8."
+},
+{
+"pregunta": "¿El número 91 es par o impar?",
+"opciones": [
+"Ninguno",
+"Impar",
+"Par"
+],
+"correcta": 1,
+"porque": "Termina en 1, y si termina en 1, 3, 5, 7 o 9 es impar."
+},
+{
+"pregunta": "En tu grupo hay 18 niños y forman parejas. ¿Sobra alguien?",
+"opciones": [
+"Sí, sobran dos",
+"Sí, sobra uno",
+"No, 18 es par"
+],
+"correcta": 2,
+"porque": "18 termina en 8, es par y se reparte en parejas sin que sobre nadie."
+},
+{
+"pregunta": "Entre los números 1, 2, 3 y 4, ¿cuáles son impares?",
+"opciones": [
+"1 y 2",
+"1 y 3",
+"2 y 4"
+],
+"correcta": 1,
+"porque": "Impares son los que dejan 1 sobrando: 1 y 3."
+},
+{
+"pregunta": "¿Cómo sabes rápido si un número grande es par?",
+"opciones": [
+"Miras la primera cifra",
+"Miras la última cifra",
+"Cuentas todas las cifras"
+],
+"correcta": 1,
+"porque": "La última cifra decide si es par o impar."
+}
+],
+"numeros-y-valor-posicional": [
+{
+"pregunta": "En el número 482, ¿cuánto vale el 8?",
+"opciones": [
+"80",
+"800",
+"8"
+],
+"correcta": 0,
+"porque": "El 8 está en las decenas: son 8 bolsitas de 10, es decir 80."
+},
+{
+"pregunta": "¿Qué número es 300 + 20 + 5?",
+"opciones": [
+"352",
+"235",
+"325"
+],
+"correcta": 2,
+"porque": "Tres centenas, dos decenas y cinco unidades forman 325."
+},
+{
+"pregunta": "¿En qué lugar está el 7 en el número 174?",
+"opciones": [
+"Decenas",
+"Centenas",
+"Unidades"
+],
+"correcta": 0,
+"porque": "De derecha a izquierda: 4 unidades, 7 decenas, 1 centena."
+},
+{
+"pregunta": "En tu lista eres el número 36. ¿Cuántas decenas tiene?",
+"opciones": [
+"6 decenas",
+"3 decenas",
+"36 decenas"
+],
+"correcta": 1,
+"porque": "El 3 está en las decenas y vale 30."
+},
+{
+"pregunta": "¿Cuánto vale el 4 en el número 243?",
+"opciones": [
+"400, porque son 4 centenas",
+"4, porque son 4 unidades",
+"40, porque son 4 decenas"
+],
+"correcta": 2,
+"porque": "El 4 está en las decenas: son 4 bolsitas de 10, o sea 40."
+}
+],
+"organizacion-de-datos-primaria": [
+{
+"pregunta": "En una tabla: perro 6, gato 4, pez 2. ¿Qué animal ganó?",
+"opciones": [
+"Perro",
+"Pez",
+"Gato"
+],
+"correcta": 0,
+"porque": "El perro tiene 6 votos, el número más grande."
+},
+{
+"pregunta": "Con perro 6, gato 4 y pez 2, ¿cuántos votaron en total?",
+"opciones": [
+"10",
+"12",
+"24"
+],
+"correcta": 1,
+"porque": "Se suma: 6 + 4 + 2 = 12."
+},
+{
+"pregunta": "¿Qué haces primero para organizar datos?",
+"opciones": [
+"Sumar los votos",
+"Hacer la gráfica",
+"Hacer una pregunta"
+],
+"correcta": 2,
+"porque": "Primero preguntas, después anotas, cuentas y haces la tabla."
+},
+{
+"pregunta": "En tu salón 9 niños traen lunch y 5 compran. ¿Cuántos más traen lunch?",
+"opciones": [
+"5",
+"14",
+"4"
+],
+"correcta": 2,
+"porque": "Se resta: 9 - 5 = 4."
+},
+{
+"pregunta": "¿Para qué sirve una tabla de datos?",
+"opciones": [
+"Para pintar dibujos",
+"Para entender mejor la información",
+"Para dibujar números grandes"
+],
+"correcta": 1,
+"porque": "La tabla acomoda los datos y se leen más fácil."
+}
+],
+"pictogramas-primaria": [
+{
+"pregunta": "Clave: una flor = 2 niños. Hay 5 flores. ¿Cuántos niños son?",
+"opciones": [
+"7",
+"10",
+"25"
+],
+"correcta": 1,
+"porque": "Cada flor vale 2, entonces 5 × 2 = 10."
+},
+{
+"pregunta": "Clave: un círculo = 10 pesos. Hay 4 círculos. ¿Cuántos pesos son?",
+"opciones": [
+"14 pesos",
+"40 pesos",
+"4 pesos"
+],
+"correcta": 1,
+"porque": "Cada dibujo vale 10 y 4 × 10 = 40."
+},
+{
+"pregunta": "Clave: una estrella = 6 libros. Hay 1 estrella y media. ¿Cuántos libros son?",
+"opciones": [
+"12",
+"7",
+"9"
+],
+"correcta": 2,
+"porque": "Una estrella son 6 y media son 3, y 6 + 3 = 9."
+},
+{
+"pregunta": "¿Qué debes leer antes de contar los dibujos de un pictograma?",
+"opciones": [
+"El nombre del autor",
+"La última fila",
+"La clave"
+],
+"correcta": 2,
+"porque": "La clave dice cuánto vale cada dibujo."
+},
+{
+"pregunta": "En el pictograma de tu salón, lunes tiene 3 dibujos y martes 5 con clave de 1. ¿Cuál día tiene más?",
+"opciones": [
+"Martes",
+"Lunes",
+"Son iguales"
+],
+"correcta": 0,
+"porque": "Cinco dibujos son más que tres."
+}
+],
+"problemas-de-multiplicacion-primaria": [
+{
+"pregunta": "Hay 6 mesas con 4 niños cada una. ¿Cuántos niños hay?",
+"opciones": [
+"24",
+"10",
+"46"
+],
+"correcta": 0,
+"porque": "Son 6 grupos de 4, y 6 × 4 = 24."
+},
+{
+"pregunta": "Un cuaderno cuesta 7 pesos. ¿Cuánto cuestan 3 cuadernos?",
+"opciones": [
+"73 pesos",
+"21 pesos",
+"10 pesos"
+],
+"correcta": 1,
+"porque": "Se multiplica: 3 × 7 = 21 pesos."
+},
+{
+"pregunta": "¿Qué palabras te dan pista de multiplicar?",
+"opciones": [
+"Reparte, en partes iguales",
+"Cada caja, filas de, veces",
+"Quedan, faltan, perdió"
+],
+"correcta": 1,
+"porque": "Esas palabras hablan de varios grupos iguales."
+},
+{
+"pregunta": "Una araña tiene 8 patas. ¿Cuántas patas tienen 5 arañas?",
+"opciones": [
+"13",
+"40",
+"85"
+],
+"correcta": 1,
+"porque": "Son 5 grupos de 8, y 5 × 8 = 40."
+},
+{
+"pregunta": "En el patio hay 3 filas de 9 niños. ¿Cuál operación sirve?",
+"opciones": [
+"$3 \\times 9$",
+"$9 \\div 3$",
+"$9 - 3$"
+],
+"correcta": 0,
+"porque": "Hay 3 filas con la misma cantidad, por eso se multiplica."
+}
+],
+"problemas-de-reparto-primaria": [
+{
+"pregunta": "Reparte 30 galletas entre 5 niños por igual. ¿Cuántas le tocan a cada uno?",
+"opciones": [
+"6 galletas",
+"25 galletas",
+"35 galletas"
+],
+"correcta": 0,
+"porque": "Se divide: 30 ÷ 5 = 6 galletas para cada niño."
+},
+{
+"pregunta": "Tienes 24 crayones y los guardas en cajas de 4. ¿Cuántas cajas salen?",
+"opciones": [
+"20 cajas",
+"6 cajas",
+"28 cajas"
+],
+"correcta": 1,
+"porque": "Se divide el total entre lo que cabe en cada caja: 24 ÷ 4 = 6."
+},
+{
+"pregunta": "¿Cómo compruebas que $20 \\div 4 = 5$?",
+"opciones": [
+"$5 \\times 4 = 20$",
+"$5 + 4 = 9$",
+"$20 - 4 = 16$"
+],
+"correcta": 0,
+"porque": "Multiplicar el resultado por el divisor regresa al total."
+},
+{
+"pregunta": "La maestra tiene 18 hojas para 3 equipos iguales. ¿Cuántas hojas toca a cada equipo?",
+"opciones": [
+"6 hojas",
+"21 hojas",
+"15 hojas"
+],
+"correcta": 0,
+"porque": "Repartes en partes iguales: 18 ÷ 3 = 6 hojas."
+},
+{
+"pregunta": "¿Qué palabras te dan pista de dividir?",
+"opciones": [
+"Más, en total, juntos",
+"A cada uno, en partes iguales",
+"Veces, cada caja"
+],
+"correcta": 1,
+"porque": "Esas palabras hablan de repartir un total."
+}
+]
+}

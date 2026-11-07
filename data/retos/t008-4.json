@@ -1,0 +1,522 @@
+{
+"afectos-bienestar-primaria-1-2": [
+{
+"pregunta": "¿Qué son los afectos?",
+"opciones": [
+"Las tareas de la escuela",
+"Lo que sentimos por las personas",
+"Los juguetes que más nos gustan"
+],
+"correcta": 1,
+"porque": "Los afectos son cariño, amor y amistad hacia otras personas."
+},
+{
+"pregunta": "Te peleaste con tu amigo y ya no estás enojado. ¿Qué puedes hacer?",
+"opciones": [
+"Decirle cosas feas para que se vaya",
+"Pedir perdón",
+"Ignorarlo para siempre"
+],
+"correcta": 1,
+"porque": "Pedir perdón ayuda a cuidar la amistad."
+},
+{
+"pregunta": "¿Cómo te sientes cuando te tratan bien?",
+"opciones": [
+"Triste y solo",
+"Con mucho miedo",
+"Seguro y contento"
+],
+"correcta": 2,
+"porque": "El buen trato te hace sentir seguro."
+},
+{
+"pregunta": "Un compañero te presta su color. ¿Qué dices?",
+"opciones": [
+"Es mío y no lo doy",
+"Gracias, ya te lo doy",
+"No digo nada a nadie"
+],
+"correcta": 1,
+"porque": "Dar las gracias muestra aprecio."
+},
+{
+"pregunta": "¿Qué haces para cuidar un afecto?",
+"opciones": [
+"Escuchar a la otra persona",
+"Hablar siempre sin escuchar",
+"Guardar todo lo que sientes sin decirlo"
+],
+"correcta": 0,
+"porque": "Escuchar y decir lo que sientes cuida tus afectos."
+}
+],
+"apoyo-mutuo-aula-diversa-primaria-1-2": [
+{
+"pregunta": "¿Qué es el apoyo mutuo?",
+"opciones": [
+"Ayudarnos unos a otros",
+"Hacer todo solo sin ayuda",
+"Competir para ser el mejor"
+],
+"correcta": 0,
+"porque": "El apoyo mutuo es ayudarnos en el salón."
+},
+{
+"pregunta": "Una compañera necesita más tiempo para terminar su dibujo. ¿Qué haces?",
+"opciones": [
+"Esperar con calma",
+"Burlarte porque es lenta",
+"Quitarle el dibujo y terminarlo tú"
+],
+"correcta": 0,
+"porque": "Esperar a quien necesita más tiempo es apoyar."
+},
+{
+"pregunta": "¿Cuál es una forma de ayudar sin hacer la tarea del otro?",
+"opciones": [
+"Darle todas las respuestas escritas",
+"Hacer su tarea mientras él juega",
+"Explicar con calma"
+],
+"correcta": 2,
+"porque": "Ayudar es acompañar para que el otro lo logre."
+},
+{
+"pregunta": "¿Por qué pedir ayuda no es de débiles?",
+"opciones": [
+"Porque no se debe preguntar nada",
+"Solo los tontos necesitan ayuda",
+"Todos damos y recibimos ayuda"
+],
+"correcta": 2,
+"porque": "Hoy tú ayudas y mañana te ayudan a ti."
+},
+{
+"pregunta": "¿Qué es un aula diversa?",
+"opciones": [
+"Un salón donde todos son iguales",
+"Un salón sin maestros ni niños",
+"Un salón con niñas y niños distintos"
+],
+"correcta": 2,
+"porque": "En un aula diversa hay ritmos, gustos y formas de aprender distintas."
+}
+],
+"capacidades-habilidades-motrices-primaria-1-2": [
+{
+"pregunta": "¿Qué es pararte en un pie?",
+"opciones": [
+"Equilibrio",
+"Lanzar una pelota",
+"Correr rápido"
+],
+"correcta": 0,
+"porque": "Pararte en un pie es una habilidad de equilibrio."
+},
+{
+"pregunta": "¿Cuál es una habilidad para moverte de un lugar a otro?",
+"opciones": [
+"Equilibrarte",
+"Lanzar",
+"Saltar"
+],
+"correcta": 2,
+"porque": "Saltar te mueve de un lugar a otro."
+},
+{
+"pregunta": "En la clase de educación física tiras una pelota a un amigo. ¿Qué usas?",
+"opciones": [
+"Ninguna habilidad",
+"Solo equilibrio, sin mover nada",
+"Una habilidad para usar objetos"
+],
+"correcta": 2,
+"porque": "Lanzar y atrapar son habilidades con objetos."
+},
+{
+"pregunta": "¿Por qué conviene calentar antes de moverte?",
+"opciones": [
+"Sirve para dormirte mejor",
+"Prepara tus músculos",
+"Cansa tus músculos antes de jugar"
+],
+"correcta": 1,
+"porque": "Calentar prepara los músculos y evita lesiones."
+},
+{
+"pregunta": "Fallaste al lanzar una pelota. ¿Qué piensas?",
+"opciones": [
+"Practicando mejoro",
+"Nunca voy a poder hacerlo",
+"No vuelvo a intentarlo jamás"
+],
+"correcta": 0,
+"porque": "Equivocarte es normal y practicando mejoras."
+}
+],
+"comunidad-necesidades-humanas-primaria-1-2": [
+{
+"pregunta": "¿Qué es una comunidad?",
+"opciones": [
+"Una persona que vive sola en un lugar",
+"Un lugar sin nadie y muy lejano",
+"Un grupo que vive en un lugar y se ayuda"
+],
+"correcta": 2,
+"porque": "Una comunidad es un grupo que vive junto y se ayuda."
+},
+{
+"pregunta": "¿Qué necesidad cubre el mercado?",
+"opciones": [
+"La salud",
+"La enseñanza",
+"La comida"
+],
+"correcta": 2,
+"porque": "El mercado da comida a las familias."
+},
+{
+"pregunta": "Te duele la panza y vas con tu mamá. ¿Qué lugar de la comunidad te ayuda?",
+"opciones": [
+"La clínica, que cuida la salud",
+"El parque, porque ahí juegas",
+"El mercado, porque vende frutas"
+],
+"correcta": 0,
+"porque": "La clínica cuida la salud de la comunidad."
+},
+{
+"pregunta": "¿Cómo ayudas tú a tu comunidad?",
+"opciones": [
+"Tirando la basura en su lugar",
+"Dejando todo sucio para que otro limpie",
+"Tirando la basura en el parque"
+],
+"correcta": 0,
+"porque": "Tirar la basura en su lugar cuida tu comunidad."
+},
+{
+"pregunta": "¿Qué necesita toda persona?",
+"opciones": [
+"Solo juguetes y dulces",
+"Nada, porque se puede vivir sin todo",
+"Comida, casa, cariño y escuela"
+],
+"correcta": 2,
+"porque": "Todos necesitamos comida, casa, cariño y escuela."
+}
+],
+"comunidad-y-escuela-primaria-1-2": [
+{
+"pregunta": "¿Dónde está tu escuela?",
+"opciones": [
+"En otro planeta lejano",
+"Dentro de tu comunidad",
+"Fuera de todas las comunidades"
+],
+"correcta": 1,
+"porque": "Tu escuela es parte de tu comunidad."
+},
+{
+"pregunta": "¿Quién ayuda en la escuela?",
+"opciones": [
+"Solo los niños de otro salón",
+"Nadie, porque cada quien está solo",
+"Maestros y personal de limpieza"
+],
+"correcta": 2,
+"porque": "Maestros, vecinos y personal de limpieza ayudan a la comunidad."
+},
+{
+"pregunta": "Ves un papel en el patio de la escuela. ¿Qué haces?",
+"opciones": [
+"Lo dejo ahí para que otro lo levante",
+"Lo aviento a la calle",
+"Lo tiro al bote"
+],
+"correcta": 2,
+"porque": "Tirar la basura en su bote cuida tu comunidad."
+},
+{
+"pregunta": "¿Cuál de estos lugares hay en una comunidad?",
+"opciones": [
+"Casas, tiendas y parques",
+"Ninguno, porque está vacía",
+"Solo una gran fábrica"
+],
+"correcta": 0,
+"porque": "Una comunidad tiene casas, tiendas y parques."
+},
+{
+"pregunta": "¿Qué puedes hacer al llegar a la escuela?",
+"opciones": [
+"Saludar a los demás",
+"Gritar sin saludar",
+"Ignorar a todos"
+],
+"correcta": 0,
+"porque": "Saludar es una forma de cuidar tu comunidad."
+}
+],
+"educacion-integral-sexualidad-primaria-1-2": [
+{
+"pregunta": "¿De quién es tu cuerpo?",
+"opciones": [
+"De cualquier adulto que lo pida",
+"De tu mejor amigo del salón",
+"Es tuyo, y tú lo cuidas y respetas"
+],
+"correcta": 2,
+"porque": "Tu cuerpo es tuyo y tú lo cuidas."
+},
+{
+"pregunta": "Alguien te pide guardar un secreto que te da miedo. ¿Qué haces?",
+"opciones": [
+"Lo guardas para siempre",
+"Se lo cuentas solo a un desconocido",
+"Se lo cuentas a un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Los secretos que dan miedo siempre se cuentan."
+},
+{
+"pregunta": "Si alguien intenta tocar tus partes privadas, ¿qué haces?",
+"opciones": [
+"Lo guardo porque me da pena",
+"Me quedo quieto para no molestar",
+"Digo no, me alejo y lo cuento"
+],
+"correcta": 2,
+"porque": "Puedes decir no, alejarte y contarlo hasta que te crean."
+},
+{
+"pregunta": "¿Por qué conviene llamar a las partes del cuerpo por su nombre?",
+"opciones": [
+"Para que otros se rían de ti",
+"Para explicar con claridad si algo pasa",
+"Porque está prohibido saberlo"
+],
+"correcta": 1,
+"porque": "Con el nombre correcto puedes explicar claramente."
+},
+{
+"pregunta": "¿Con quién puedes platicar si algo te hace sentir mal?",
+"opciones": [
+"Con nadie, porque debes callar",
+"Solo con quien te lo pidió en secreto",
+"Con un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Un adulto de confianza te puede escuchar y ayudar."
+}
+],
+"formas-de-ser-pensar-actuar-primaria-1-2": [
+{
+"pregunta": "¿Cómo son todas las niñas y los niños?",
+"opciones": [
+"Diferentes y todos merecen respeto",
+"Algunos no merecen respeto",
+"Todos iguales en todo"
+],
+"correcta": 0,
+"porque": "Cada persona es distinta, y eso está bien."
+},
+{
+"pregunta": "A un amigo le gusta dibujar y a ti correr. ¿Qué piensas?",
+"opciones": [
+"Está bien ser diferentes",
+"Uno de los dos está mal",
+"Ya no podemos ser amigos"
+],
+"correcta": 0,
+"porque": "Cada niño tiene gustos distintos, y se respetan."
+},
+{
+"pregunta": "Un compañero opina distinto que tú. ¿Qué haces?",
+"opciones": [
+"Me burlo de lo que opina",
+"Dejo de hablarle para siempre",
+"Lo escucho con respeto"
+],
+"correcta": 2,
+"porque": "Escuchar con respeto ayuda a convivir bien."
+},
+{
+"pregunta": "Dos amigos quieren jugar a cosas distintas. ¿Qué pueden hacer?",
+"opciones": [
+"Jugar primero a uno y luego al otro",
+"Jugar cada quien solo y enojados",
+"Pelear hasta que uno gane"
+],
+"correcta": 0,
+"porque": "Turnarse es una solución respetuosa."
+},
+{
+"pregunta": "¿Qué regla ayuda a convivir bien en el salón?",
+"opciones": [
+"Respetar a los demás",
+"Quitar cosas sin pedir permiso",
+"Gritar para que me escuchen"
+],
+"correcta": 0,
+"porque": "Respetar a todos ayuda a que el salón sea un lugar sano."
+}
+],
+"interaccion-motriz-primaria-1-2": [
+{
+"pregunta": "¿Qué es un juego cooperativo?",
+"opciones": [
+"Cada quien gana contra los demás",
+"Todos trabajan juntos por una meta",
+"Un juego sin reglas ni equipo"
+],
+"correcta": 1,
+"porque": "En un juego cooperativo todos buscan la misma meta."
+},
+{
+"pregunta": "Si pierdes un juego en el recreo, ¿qué haces?",
+"opciones": [
+"Me enojo y rompo la pelota",
+"Lo acepto con calma y felicito",
+"Dejo de jugar con todos para siempre"
+],
+"correcta": 1,
+"porque": "Perder con calma y felicitar es respeto."
+},
+{
+"pregunta": "Un compañero falla un pase en tu equipo. ¿Qué dices?",
+"opciones": [
+"Nada, y le das la espalda",
+"Ánimo, la próxima sale",
+"Tú siempre fallas, ya no juegues"
+],
+"correcta": 1,
+"porque": "Animar a los compañeros ayuda al equipo."
+},
+{
+"pregunta": "¿Para qué sirven las reglas de un juego?",
+"opciones": [
+"Para jugar sin lastimar a nadie",
+"Para que solo gane el más fuerte",
+"Para que nadie pueda jugar"
+],
+"correcta": 0,
+"porque": "Las reglas cuidan a todos mientras juegan."
+},
+{
+"pregunta": "Si dos equipos compiten, ¿qué hacen?",
+"opciones": [
+"Trabajan juntos por una sola meta",
+"No juegan, solo miran",
+"Se oponen para ganar"
+],
+"correcta": 2,
+"porque": "Competir es jugar uno contra otro con reglas."
+}
+],
+"pertenencia-familia-comunidad-primaria-1-2": [
+{
+"pregunta": "¿Qué es pertenecer a un grupo?",
+"opciones": [
+"Ser parte de un grupo que te quiere",
+"No tener ningún amigo",
+"Estar solo sin nadie cerca"
+],
+"correcta": 0,
+"porque": "Pertenecer es ser parte de un grupo que te quiere."
+},
+{
+"pregunta": "¿A qué grupos perteneces?",
+"opciones": [
+"Solo a un grupo muy lejano",
+"Familia, escuela y colonia",
+"Solo a ninguno"
+],
+"correcta": 1,
+"porque": "Eres parte de tu familia, tu escuela y tu colonia."
+},
+{
+"pregunta": "Tu escuela hace una fiesta y piden ayuda para adornar. ¿Qué haces?",
+"opciones": [
+"Participo y ayudo",
+"Me escondo para no trabajar",
+"No voy, porque no me toca"
+],
+"correcta": 0,
+"porque": "Participar ayuda a sentirte parte del grupo."
+},
+{
+"pregunta": "¿Cómo puedes participar en tu familia?",
+"opciones": [
+"Dejando todo para después",
+"Diciendo que nadie te importa",
+"Ayudando con algo de la casa"
+],
+"correcta": 2,
+"porque": "Ayudar en casa es una forma de participar."
+},
+{
+"pregunta": "¿Qué es una costumbre de familia?",
+"opciones": [
+"Algo que solo hace un extraño",
+"Algo que hacen juntos siempre",
+"Algo que nadie hace nunca"
+],
+"correcta": 1,
+"porque": "Una costumbre es algo que se repite y une a la familia."
+}
+],
+"posibilidades-cognitivas-expresivas-motrices-primaria-1-2": [
+{
+"pregunta": "¿Qué posibilidad usas al armar un rompecabezas?",
+"opciones": [
+"De relación, solo con otros",
+"Cognitiva, porque piensas",
+"Motriz, sin pensar nada"
+],
+"correcta": 1,
+"porque": "Armar un rompecabezas es pensar, o sea, posibilidad cognitiva."
+},
+{
+"pregunta": "¿Qué posibilidad usas al cantar una canción alegre?",
+"opciones": [
+"Cognitiva, porque haces sumas",
+"Motriz, porque corres mucho",
+"Expresiva, muestras lo que sientes"
+],
+"correcta": 2,
+"porque": "Cantar muestra lo que sientes, por eso es expresiva."
+},
+{
+"pregunta": "En el patio saltas la cuerda. ¿Qué posibilidad usas?",
+"opciones": [
+"Cognitiva, porque piensas poquito",
+"Creativa, porque inventas un juego",
+"Motriz, porque mueves el cuerpo"
+],
+"correcta": 2,
+"porque": "Saltar es moverte, y eso es la posibilidad motriz."
+},
+{
+"pregunta": "Inventas un juego nuevo para tu salón. ¿Qué posibilidad usas?",
+"opciones": [
+"Creativa, porque inventas algo",
+"Motriz solamente, al correr",
+"Ninguna, porque ya existe"
+],
+"correcta": 0,
+"porque": "Inventar es usar tu posibilidad creativa."
+},
+{
+"pregunta": "¿Qué posibilidad usas al jugar con tus amigos?",
+"opciones": [
+"De relación",
+"Cognitiva solamente",
+"Expresiva solamente"
+],
+"correcta": 0,
+"porque": "Jugar con otros es convivir, y eso es relación."
+}
+]
+}

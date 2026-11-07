@@ -1,0 +1,522 @@
+{
+"declaracion-universal-de-los-derechos-humanos-secundaria": [
+{
+"pregunta": "¿Después de qué hecho los países hicieron esta Declaración?",
+"opciones": [
+"La Segunda Guerra Mundial",
+"La llegada de internet",
+"La Revolución Mexicana"
+],
+"correcta": 0,
+"porque": "Prometieron que algo así no debía repetirse."
+},
+{
+"pregunta": "¿En qué año se aprobó la Declaración Universal?",
+"opciones": [
+"1989",
+"1948",
+"1910"
+],
+"correcta": 1,
+"porque": "Se aprobó el 10 de diciembre de 1948."
+},
+{
+"pregunta": "¿Cuál de estos es un derecho que incluye la Declaración?",
+"opciones": [
+"Ganar siempre",
+"La educación",
+"Tener celular"
+],
+"correcta": 1,
+"porque": "La educación es uno de los derechos de todas las personas."
+},
+{
+"pregunta": "Tu escuela hace un cartel el 10 de diciembre. ¿De qué trata?",
+"opciones": [
+"Del Día de los Derechos Humanos",
+"Del Día del Maestro",
+"Del Día de la Constitución"
+],
+"correcta": 0,
+"porque": "El 10 de diciembre es el Día de los Derechos Humanos."
+},
+{
+"pregunta": "La Declaración es como una lista que el mundo firmó. ¿Para qué?",
+"opciones": [
+"Para elegir presidentes",
+"Para cobrar impuestos",
+"Para cuidar a todas las personas"
+],
+"correcta": 2,
+"porque": "Sus derechos protegen a todas las personas."
+}
+],
+"derecho-salud-prevencion-drogas-secundaria": [
+{
+"pregunta": "Salud es estar bien de...",
+"opciones": [
+"Cuerpo, mente y con los demás",
+"Solo la mente y los estudios",
+"Solo el cuerpo, sin enfermedad"
+],
+"correcta": 0,
+"porque": "La salud incluye cuerpo, mente y convivencia."
+},
+{
+"pregunta": "¿Qué son las drogas?",
+"opciones": [
+"Alimentos que dan mucha energía",
+"Medicinas que siempre te hacen bien",
+"Sustancias que cambian cómo funcionan cuerpo y mente"
+],
+"correcta": 2,
+"porque": "Pueden crear dependencia y dañar el cuerpo y la mente."
+},
+{
+"pregunta": "¿Por qué dañan más en la adolescencia?",
+"opciones": [
+"Se usan siempre en menor cantidad",
+"Los adolescentes nunca se enferman",
+"El cerebro todavía está creciendo"
+],
+"correcta": 2,
+"porque": "En la adolescencia el cerebro aún crece y se daña más."
+},
+{
+"pregunta": "Te ofrecen alcohol en una fiesta. ¿Qué respuesta te cuida?",
+"opciones": [
+"Si todos beben, yo también",
+"Solo un poquito, para probar",
+"No, gracias, y me alejo"
+],
+"correcta": 2,
+"porque": "Decir no y alejarte te protege."
+},
+{
+"pregunta": "¿Qué pone en riesgo tu salud?",
+"opciones": [
+"La plática en familia",
+"El deporte",
+"La presión de grupo"
+],
+"correcta": 2,
+"porque": "La presión de grupo puede llevarte a hacer algo que te daña."
+}
+],
+"derechos-humanos-caracteristicas-y-generaciones-secundaria": [
+{
+"pregunta": "¿Qué significa que sean indivisibles?",
+"opciones": [
+"Que se pueden repartir en partes",
+"Que solo algunas personas los tienen",
+"Que van juntos y ninguno se separa"
+],
+"correcta": 2,
+"porque": "Todos los derechos se necesitan unos a otros."
+},
+{
+"pregunta": "El derecho a la paz y a un ambiente sano es de...",
+"opciones": [
+"Primera generación, civiles",
+"Tercera generación, colectivos",
+"Segunda generación, laborales"
+],
+"correcta": 1,
+"porque": "Los derechos colectivos cuidan a toda la comunidad."
+},
+{
+"pregunta": "El derecho a votar es de...",
+"opciones": [
+"Primera generación, civiles y políticos",
+"Segunda generación, económicos y sociales",
+"Tercera generación, colectivos"
+],
+"correcta": 0,
+"porque": "Votar es un derecho civil y político."
+},
+{
+"pregunta": "El derecho al trabajo y a la salud es de...",
+"opciones": [
+"La segunda generación",
+"La tercera generación",
+"La primera generación"
+],
+"correcta": 0,
+"porque": "Trabajo y salud son derechos económicos y sociales."
+},
+{
+"pregunta": "Los derechos humanos los tienes...",
+"opciones": [
+"Solo cuando cumples 18 años",
+"Por ser persona, desde que naces",
+"Solo si las autoridades te los dan"
+],
+"correcta": 1,
+"porque": "Vienen contigo al nacer y nadie te los quita."
+}
+],
+"derechos-humanos-mexico-mundo-secundaria": [
+{
+"pregunta": "¿Qué significa que sean progresivos?",
+"opciones": [
+"Que crecen y se amplían con el tiempo",
+"Que se pierden con los años",
+"Que solo valen en un país"
+],
+"correcta": 0,
+"porque": "Progresivo quiere decir que van avanzando y creciendo."
+},
+{
+"pregunta": "¿Dónde se reconocen en México los derechos humanos?",
+"opciones": [
+"En el artículo 1 de la Constitución",
+"En el artículo 27 de la Constitución",
+"En el artículo 130 de la Constitución"
+],
+"correcta": 0,
+"porque": "El artículo 1 de la Constitución los reconoce."
+},
+{
+"pregunta": "¿Qué deben hacer las autoridades con los derechos humanos?",
+"opciones": [
+"Elegir cuáles dar",
+"Quitarlos a quien se porte mal",
+"Respetarlos"
+],
+"correcta": 2,
+"porque": "Las autoridades tienen la obligación de respetarlos."
+},
+{
+"pregunta": "Alguien dice: \"Mis derechos no me los puede quitar nadie\". ¿Qué característica es?",
+"opciones": [
+"Condicionales",
+"Inalienables",
+"Progresivos"
+],
+"correcta": 1,
+"porque": "Inalienable significa que no se pueden quitar."
+},
+{
+"pregunta": "La Declaración Universal es un documento de...",
+"opciones": [
+"La ONU",
+"La SEP",
+"El INE"
+],
+"correcta": 0,
+"porque": "La ONU aprobó la Declaración en 1948."
+}
+],
+"educacion-socioemocional-tutoria-secundaria": [
+{
+"pregunta": "Sacaste mala nota y sientes enojo. ¿Qué haces?",
+"opciones": [
+"Rompes el examen",
+"Culpas al maestro gritando",
+"Respiras y pides ayuda"
+],
+"correcta": 2,
+"porque": "Respirar y pedir ayuda te ayuda a manejar el enojo sin dañar."
+},
+{
+"pregunta": "¿Cuál es el primer paso para manejar una emoción?",
+"opciones": [
+"Culpar a quien está cerca",
+"Guardarla sin decir nada",
+"Ponerle nombre a la emoción"
+],
+"correcta": 2,
+"porque": "Primero reconoces lo que sientes y luego eliges qué hacer."
+},
+{
+"pregunta": "Aprender a manejar emociones es como...",
+"opciones": [
+"Aprender a no sentir nada",
+"Aprender a andar en bici",
+"Aprender a hacer magia"
+],
+"correcta": 1,
+"porque": "Se aprende poco a poco, practicando."
+},
+{
+"pregunta": "¿Qué se hace en la tutoría?",
+"opciones": [
+"Hablar de metas y dudas con tu grupo y docente",
+"Jugar sin ninguna regla",
+"Presentar solo exámenes difíciles"
+],
+"correcta": 0,
+"porque": "La tutoría es un espacio para hablar con tu grupo."
+},
+{
+"pregunta": "Antes de elegir qué hacer con una emoción fuerte, conviene...",
+"opciones": [
+"Hacer lo primero que se te ocurra",
+"Esperar a que alguien más actúe",
+"Pensar qué siente la otra persona"
+],
+"correcta": 2,
+"porque": "Pensar en el otro te ayuda a no dañar a nadie."
+}
+],
+"estructura-de-la-constitucion-secundaria": [
+{
+"pregunta": "¿Qué son los transitorios de la Constitución?",
+"opciones": [
+"Derechos humanos",
+"Normas temporales",
+"Reglas del gobierno"
+],
+"correcta": 1,
+"porque": "Los transitorios son normas que valen por un tiempo."
+},
+{
+"pregunta": "¿Cómo es la Constitución de México?",
+"opciones": [
+"Una ley que cambia cada día",
+"La ley suprema del país",
+"Un reglamento de un solo estado"
+],
+"correcta": 1,
+"porque": "Es la ley más importante y ninguna otra puede ir contra ella."
+},
+{
+"pregunta": "La parte dogmática y la parte orgánica son...",
+"opciones": [
+"Dos leyes distintas de cada estado",
+"Las dos partes principales de la Constitución",
+"Dos artículos del mismo capítulo"
+],
+"correcta": 1,
+"porque": "La Constitución tiene dos partes principales."
+},
+{
+"pregunta": "Buscas tu derecho a la educación en la Constitución. ¿Qué parte lo contiene?",
+"opciones": [
+"La dogmática",
+"Los transitorios",
+"La orgánica"
+],
+"correcta": 0,
+"porque": "La parte dogmática trata de los derechos humanos."
+},
+{
+"pregunta": "¿Cómo puedes imaginar la Constitución?",
+"opciones": [
+"Como el reglamento más importante del país",
+"Como el reglamento de una tienda",
+"Como un cuento sin reglas"
+],
+"correcta": 0,
+"porque": "Todas las demás leyes deben respetarla."
+}
+],
+"federacion-estados-y-municipios-secundaria": [
+{
+"pregunta": "¿Cuántos órdenes de gobierno hay en México?",
+"opciones": [
+"Dos",
+"Tres",
+"Cinco"
+],
+"correcta": 1,
+"porque": "Son el federal, el estatal y el municipal."
+},
+{
+"pregunta": "¿Cuál gobierno atiende a todo el país?",
+"opciones": [
+"El gobierno federal",
+"El gobierno municipal",
+"El gobierno estatal"
+],
+"correcta": 0,
+"porque": "El gobierno federal incluye Presidencia, Congreso y Corte."
+},
+{
+"pregunta": "¿Quién se encarga del alumbrado de las calles de tu colonia?",
+"opciones": [
+"La Presidencia de la República",
+"El municipio",
+"La Corte"
+],
+"correcta": 1,
+"porque": "El municipio da servicios como agua, basura y alumbrado."
+},
+{
+"pregunta": "En la Ciudad de México, ¿cómo se llaman las divisiones parecidas a municipios?",
+"opciones": [
+"Alcaldías",
+"Cabildos",
+"Gubernaturas"
+],
+"correcta": 0,
+"porque": "La Ciudad de México tiene alcaldías."
+},
+{
+"pregunta": "¿Qué forma el gobierno federal?",
+"opciones": [
+"Gubernatura y congreso local",
+"Presidencia municipal y cabildo",
+"Presidencia, Congreso y Corte"
+],
+"correcta": 2,
+"porque": "Son los tres poderes que gobiernan al país."
+}
+],
+"formacion-civica-etica-secundaria": [
+{
+"pregunta": "¿Qué es la ética?",
+"opciones": [
+"Ganar todas las discusiones",
+"Pensar qué está bien y por qué",
+"Memorizar los artículos de la ley"
+],
+"correcta": 1,
+"porque": "La ética te ayuda a decidir con valores."
+},
+{
+"pregunta": "¿Cuál es el primer paso para resolver un dilema?",
+"opciones": [
+"Elegir sin pensarlo",
+"Esperar a que se resuelva solo",
+"Decir qué pasa"
+],
+"correcta": 2,
+"porque": "Primero entiendes la situación y luego piensas qué valores chocan."
+},
+{
+"pregunta": "Un amigo te pide copiar en el examen. ¿Qué valores chocan?",
+"opciones": [
+"Amistad y honestidad",
+"Alegría y sorpresa",
+"Hambre y sueño"
+],
+"correcta": 0,
+"porque": "Quieres apoyar a tu amigo, pero copiar no es honesto."
+},
+{
+"pregunta": "Entregar tu tarea a tiempo es un...",
+"opciones": [
+"Derecho",
+"Privilegio",
+"Deber"
+],
+"correcta": 2,
+"porque": "Un deber es lo que debes cumplir."
+},
+{
+"pregunta": "¿Qué es la dignidad?",
+"opciones": [
+"Un premio de la escuela",
+"El valor que tiene toda persona",
+"Un tipo de ley"
+],
+"correcta": 1,
+"porque": "La dignidad es que toda persona vale."
+}
+],
+"garantias-y-amparo-secundaria": [
+{
+"pregunta": "¿Para qué sirve el amparo?",
+"opciones": [
+"Para elegir a los diputados",
+"Para pagar impuestos al gobierno",
+"Para defenderte de actos injustos de una autoridad"
+],
+"correcta": 2,
+"porque": "El amparo es un escudo ante una autoridad que te trata injustamente."
+},
+{
+"pregunta": "Una autoridad te trata de forma injusta. ¿Qué es tu escudo?",
+"opciones": [
+"El amparo",
+"El horario",
+"El recreo"
+],
+"correcta": 0,
+"porque": "El amparo es un juicio que te defiende."
+},
+{
+"pregunta": "¿Qué hace la CNDH?",
+"opciones": [
+"Resuelve amparos",
+"Recibe quejas",
+"Hace las leyes"
+],
+"correcta": 1,
+"porque": "La CNDH recibe quejas por violaciones a los derechos humanos."
+},
+{
+"pregunta": "Las garantías son...",
+"opciones": [
+"Castigos para las autoridades",
+"Medios que protegen los derechos",
+"Premios por buena conducta"
+],
+"correcta": 1,
+"porque": "Las garantías sirven para proteger los derechos."
+},
+{
+"pregunta": "Una autoridad quita tu casa sin motivo. ¿Qué garantía se afecta?",
+"opciones": [
+"El descanso",
+"La propiedad",
+"La cultura"
+],
+"correcta": 1,
+"porque": "La garantía de propiedad protege lo que es tuyo."
+}
+],
+"grupos-culturales-identidades-juveniles-secundaria": [
+{
+"pregunta": "¿Qué te da pertenecer a un grupo?",
+"opciones": [
+"Obligación de hacer todo lo que digan",
+"Permiso de discriminar a otros",
+"Pertenencia, si hay respeto"
+],
+"correcta": 2,
+"porque": "Pertenecer está bien si hay respeto."
+},
+{
+"pregunta": "No debes discriminar a nadie por...",
+"opciones": [
+"Cómo viste, habla o piensa",
+"Si llegó temprano",
+"Si hizo la tarea"
+],
+"correcta": 0,
+"porque": "La regla es respetar a todos sin importar cómo vistan o hablen."
+},
+{
+"pregunta": "¿Cuáles son grupos que forman tu identidad?",
+"opciones": [
+"Familia, escuela, amigos y comunidad",
+"Solo las personas famosas",
+"Solo los de internet"
+],
+"correcta": 0,
+"porque": "Tu identidad se forma donde convives."
+},
+{
+"pregunta": "Algunos jóvenes se juntan por música, deporte o arte. Eso...",
+"opciones": [
+"Está bien si hay respeto",
+"Siempre es malo",
+"Obliga a todos a pensar igual"
+],
+"correcta": 0,
+"porque": "Juntarte por gustos da pertenencia."
+},
+{
+"pregunta": "\"Pertenezco, pero sigo siendo yo\" quiere decir que...",
+"opciones": [
+"Debes cambiar para encajar",
+"Puedes estar en un grupo sin dejar de ser tú",
+"Nunca debes tener un grupo"
+],
+"correcta": 1,
+"porque": "Un grupo no debe quitarte tu forma de ser."
+}
+]
+}

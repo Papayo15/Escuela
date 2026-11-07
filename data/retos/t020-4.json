@@ -1,0 +1,522 @@
+{
+"movimiento-rectilineo-uniforme-secundaria": [
+{
+"pregunta": "Un tren va a 15 m/s en línea recta durante 20 s. ¿Qué distancia recorre?",
+"opciones": [
+"3000 m",
+"35 m",
+"300 m"
+],
+"correcta": 2,
+"porque": "$d = vt = 15 \\times 20 = 300$."
+},
+{
+"pregunta": "¿Cuánto tarda en recorrer 200 m a 8 m/s?",
+"opciones": [
+"208 s",
+"1600 s",
+"25 s"
+],
+"correcta": 2,
+"porque": "$t = \\frac{200}{8} = 25$."
+},
+{
+"pregunta": "Si $x_0 = 4$ m y $v = 5$ m/s, ¿dónde está a los 3 s?",
+"opciones": [
+"19 m",
+"60 m",
+"15 m"
+],
+"correcta": 0,
+"porque": "$x = 4 + 5 \\times 3 = 19$."
+},
+{
+"pregunta": "¿Cuál de estos es un movimiento rectilíneo uniforme?",
+"opciones": [
+"Una pelota que cae",
+"Un coche que arranca y acelera",
+"Un tren que va parejo por una vía recta"
+],
+"correcta": 2,
+"porque": "En el MRU la velocidad no cambia y la línea es recta."
+},
+{
+"pregunta": "Caminas 10 m en 5 s con paso parejo. ¿Cuál es tu velocidad?",
+"opciones": [
+"2 m/s",
+"50 m/s",
+"0.5 m/s"
+],
+"correcta": 0,
+"porque": "$v = \\frac{10}{5} = 2$ m/s."
+}
+],
+"notacion-cientifica-en-fisica-secundaria": [
+{
+"pregunta": "Escribe 80 000 en notación científica.",
+"opciones": [
+"$8 \\times 10^{4}$",
+"$8 \\times 10^{3}$",
+"$8 \\times 10^{5}$"
+],
+"correcta": 0,
+"porque": "El punto se mueve 4 lugares: $8 \\times 10^{4}$."
+},
+{
+"pregunta": "Escribe 0.03 en notación científica.",
+"opciones": [
+"$3 \\times 10^{-2}$",
+"$3 \\times 10^{-3}$",
+"$3 \\times 10^{2}$"
+],
+"correcta": 0,
+"porque": "El punto se mueve 2 lugares a la derecha, y el exponente es $-2$."
+},
+{
+"pregunta": "Calcula $(2 \\times 10^{3})(3 \\times 10^{2})$.",
+"opciones": [
+"$6 \\times 10^{6}$",
+"$6 \\times 10^{5}$",
+"$5 \\times 10^{5}$"
+],
+"correcta": 1,
+"porque": "Multiplica $2 \\times 3 = 6$ y suma exponentes: $3 + 2 = 5$."
+},
+{
+"pregunta": "Calcula $\\frac{9 \\times 10^{8}}{3 \\times 10^{2}}$.",
+"opciones": [
+"$3 \\times 10^{10}$",
+"$3 \\times 10^{6}$",
+"$6 \\times 10^{6}$"
+],
+"correcta": 1,
+"porque": "Divide $9 \\div 3 = 3$ y resta exponentes: $8 - 2 = 6$."
+},
+{
+"pregunta": "¿Qué número es $3.5 \\times 10^{4}$?",
+"opciones": [
+"350 000",
+"3500",
+"35 000"
+],
+"correcta": 2,
+"porque": "Mueves el punto 4 lugares a la derecha."
+}
+],
+"ondas-y-sonido-secundaria": [
+{
+"pregunta": "¿Qué transporta una onda?",
+"opciones": [
+"Energía, sin transportar materia",
+"Materia, sin energía",
+"Solo agua"
+],
+"correcta": 0,
+"porque": "Una onda lleva energía y la materia solo vibra."
+},
+{
+"pregunta": "Con $\\lambda = 4$ m y $f = 85$ Hz, ¿cuánto vale $v$?",
+"opciones": [
+"21.25 m/s",
+"89 m/s",
+"340 m/s"
+],
+"correcta": 2,
+"porque": "$v = \\lambda f = 4 \\times 85 = 340$."
+},
+{
+"pregunta": "¿De qué depende que un sonido sea agudo o grave?",
+"opciones": [
+"De la amplitud",
+"De la frecuencia",
+"De la distancia"
+],
+"correcta": 1,
+"porque": "El tono depende de la frecuencia."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de onda transversal?",
+"opciones": [
+"Una piedra que cae",
+"Una cuerda que vibra de lado",
+"El sonido en el aire"
+],
+"correcta": 1,
+"porque": "En la transversal la vibración va de lado."
+},
+{
+"pregunta": "Tocas tu garganta al hablar. ¿Qué sientes?",
+"opciones": [
+"Un imán",
+"Una luz",
+"Una vibración"
+],
+"correcta": 2,
+"porque": "El sonido nace de una vibración."
+}
+],
+"pensamiento-cientifico-sociedad-fisica-secundaria": [
+{
+"pregunta": "¿Cuál de estas frases es una hipótesis que se puede probar?",
+"opciones": [
+"Si riego más una planta, crecerá más rápido",
+"Las plantas son verdes",
+"Mi planta es muy bonita"
+],
+"correcta": 0,
+"porque": "Una hipótesis dice \"si pasa esto, pasará aquello\"."
+},
+{
+"pregunta": "¿Cuál es el primer paso para pensar como científico?",
+"opciones": [
+"Observar",
+"Compartir",
+"Concluir"
+],
+"correcta": 0,
+"porque": "Primero observas, después preguntas y pruebas."
+},
+{
+"pregunta": "En un experimento, ¿cuántas cosas debes cambiar a la vez?",
+"opciones": [
+"Todas",
+"Dos o tres",
+"Solo una"
+],
+"correcta": 2,
+"porque": "Si cambias una sola, sabes cuál causó el cambio."
+},
+{
+"pregunta": "Pruebas qué papel absorbe más agua. ¿Qué debe ser igual en todos?",
+"opciones": [
+"Nada, puede variar todo",
+"La cantidad de agua",
+"El tipo de papel"
+],
+"correcta": 1,
+"porque": "Solo debe cambiar el tipo de papel."
+},
+{
+"pregunta": "Después de experimentar, ¿qué haces?",
+"opciones": [
+"Comparas lo que pasó",
+"Inventas el resultado",
+"Cambias la pregunta sin probar"
+],
+"correcta": 0,
+"porque": "Comparas y luego concluyes y compartes."
+}
+],
+"peso-y-masa-secundaria": [
+{
+"pregunta": "¿Cuánto pesa en la Tierra un objeto de 20 kg?",
+"opciones": [
+"29.8 N",
+"196 N",
+"20 N"
+],
+"correcta": 1,
+"porque": "$P = mg = 20 \\times 9.8 = 196$ N."
+},
+{
+"pregunta": "Una persona de 60 kg está en la Luna, donde $g = 1.6$. ¿Cuánto pesa?",
+"opciones": [
+"96 N",
+"60 N",
+"588 N"
+],
+"correcta": 0,
+"porque": "$P = 60 \\times 1.6 = 96$ N."
+},
+{
+"pregunta": "Un objeto pesa 49 N en la Tierra. ¿Cuál es su masa?",
+"opciones": [
+"5 kg",
+"49 kg",
+"0.2 kg"
+],
+"correcta": 0,
+"porque": "$m = \\frac{49}{9.8} = 5$ kg."
+},
+{
+"pregunta": "¿Por qué saltas más alto en la Luna?",
+"opciones": [
+"Porque en la Luna no hay peso",
+"Porque tu masa baja",
+"Porque la Luna jala menos"
+],
+"correcta": 2,
+"porque": "La gravedad es menor, aunque tu masa es igual."
+},
+{
+"pregunta": "¿Qué es el peso?",
+"opciones": [
+"La cantidad de materia que tienes",
+"La fuerza con que la gravedad te jala",
+"El tamaño de tu cuerpo"
+],
+"correcta": 1,
+"porque": "El peso es una fuerza y se mide en newtons."
+}
+],
+"potencia-electrica-y-consumo-en-casa-secundaria": [
+{
+"pregunta": "¿Cuál es la potencia con 127 V y 5 A?",
+"opciones": [
+"635 W",
+"25.4 W",
+"132 W"
+],
+"correcta": 0,
+"porque": "$P = VI = 127 \\times 5 = 635$."
+},
+{
+"pregunta": "Un foco de 60 W está prendido 5 h. ¿Cuántos kWh consume?",
+"opciones": [
+"0.3 kWh",
+"300 kWh",
+"12 kWh"
+],
+"correcta": 0,
+"porque": "$0.06 \\text{ kW} \\times 5 = 0.3$."
+},
+{
+"pregunta": "Una plancha usa 1500 W. ¿Cuántos kW son?",
+"opciones": [
+"150 kW",
+"1.5 kW",
+"15 kW"
+],
+"correcta": 1,
+"porque": "Se divide entre 1000: $1500 \\div 1000 = 1.5$."
+},
+{
+"pregunta": "Consumes 10 kWh y cada uno cuesta 2 pesos. ¿Cuánto pagas?",
+"opciones": [
+"20 pesos",
+"5 pesos",
+"12 pesos"
+],
+"correcta": 0,
+"porque": "Costo es kWh por precio: $10 \\times 2 = 20$."
+},
+{
+"pregunta": "¿En qué unidad cobra el recibo de luz de tu casa?",
+"opciones": [
+"En volts",
+"En kilowatts hora",
+"En amperes"
+],
+"correcta": 1,
+"porque": "El recibo cobra los kWh que usaste."
+}
+],
+"potencia-secundaria": [
+{
+"pregunta": "Un motor hace 800 J de trabajo en 4 s. ¿Cuál es su potencia?",
+"opciones": [
+"3200 W",
+"200 W",
+"204 W"
+],
+"correcta": 1,
+"porque": "$P = \\frac{800}{4} = 200$ W."
+},
+{
+"pregunta": "Un foco de 50 W funciona 6 s. ¿Cuánto trabajo hace?",
+"opciones": [
+"8.3 J",
+"300 J",
+"56 J"
+],
+"correcta": 1,
+"porque": "$W = Pt = 50 \\times 6 = 300$."
+},
+{
+"pregunta": "Un motor de 300 W debe hacer 900 J. ¿Cuánto tarda?",
+"opciones": [
+"270 000 s, porque multiplicas",
+"3 s, porque 900 ÷ 300 = 3",
+"1200 s, porque los sumas"
+],
+"correcta": 1,
+"porque": "El tiempo es trabajo entre potencia: $t = \\frac{W}{P} = 3$ s."
+},
+{
+"pregunta": "Dos niños suben la misma escalera, pero uno sube más rápido. ¿Quién tiene más potencia?",
+"opciones": [
+"El que sube más lento",
+"El que sube más rápido",
+"Los dos igual"
+],
+"correcta": 1,
+"porque": "Mismo trabajo en menos tiempo da más potencia."
+},
+{
+"pregunta": "¿En qué unidad se mide la potencia?",
+"opciones": [
+"En newtons",
+"En joules",
+"En watts"
+],
+"correcta": 2,
+"porque": "Un watt es un joule por segundo."
+}
+],
+"presion-hidrostatica-secundaria": [
+{
+"pregunta": "En una alberca, ¿dónde sientes más presión?",
+"opciones": [
+"A 1 m de profundidad",
+"Es igual en todas partes",
+"A 3 m de profundidad"
+],
+"correcta": 2,
+"porque": "Más hondo hay más agua encima."
+},
+{
+"pregunta": "¿Cuál es la presión del agua a 5 m de profundidad?",
+"opciones": [
+"4900 Pa",
+"49 000 Pa",
+"490 000 Pa"
+],
+"correcta": 1,
+"porque": "$1000 \\times 9.8 \\times 5 = 49\\,000$ Pa."
+},
+{
+"pregunta": "Si triplicas la profundidad, ¿qué pasa con la presión?",
+"opciones": [
+"Se duplica",
+"Se queda igual",
+"Se triplica"
+],
+"correcta": 2,
+"porque": "La presión es proporcional a la profundidad."
+},
+{
+"pregunta": "En $P = \\rho g h$, ¿qué letra es la profundidad?",
+"opciones": [
+"$\\rho$",
+"$g$",
+"$h$"
+],
+"correcta": 2,
+"porque": "La letra $h$ es la profundidad."
+},
+{
+"pregunta": "Haces tres agujeros a una botella con agua. ¿Cuál chorro sale más lejos?",
+"opciones": [
+"El del agujero más bajo",
+"Todos llegan igual",
+"El del agujero más alto"
+],
+"correcta": 0,
+"porque": "Abajo hay más agua arriba y más presión."
+}
+],
+"presion-secundaria": [
+{
+"pregunta": "Una fuerza de 90 N actúa sobre 3 m². ¿Cuál es la presión?",
+"opciones": [
+"30 Pa",
+"93 Pa",
+"270 Pa"
+],
+"correcta": 0,
+"porque": "$P = \\frac{90}{3} = 30$ Pa."
+},
+{
+"pregunta": "Una presión de 5 Pa actúa sobre 4 m². ¿Cuál es la fuerza?",
+"opciones": [
+"20 N",
+"1.25 N",
+"9 N"
+],
+"correcta": 0,
+"porque": "$F = PA = 5 \\times 4 = 20$ N."
+},
+{
+"pregunta": "Caminas por nieve blanda. ¿Con qué te hundes más?",
+"opciones": [
+"Con raquetas",
+"Te hundes igual",
+"Con tacones"
+],
+"correcta": 2,
+"porque": "El tacón tiene menos área y más presión."
+},
+{
+"pregunta": "Aprietas plastilina con la misma fuerza, con un dedo y con una aguja. ¿Dónde hay más presión?",
+"opciones": [
+"Es igual en ambos",
+"En la aguja",
+"En el dedo"
+],
+"correcta": 1,
+"porque": "La aguja tiene menos área."
+},
+{
+"pregunta": "Si duplicas el área y la fuerza queda igual, ¿qué pasa con la presión?",
+"opciones": [
+"Se queda igual",
+"Baja a la mitad",
+"Sube al doble"
+],
+"correcta": 1,
+"porque": "Al haber más área, la fuerza se reparte."
+}
+],
+"primera-ley-de-newton-secundaria": [
+{
+"pregunta": "¿Qué es la inercia?",
+"opciones": [
+"La velocidad de un balón",
+"Una fuerza que empuja siempre",
+"La tendencia de las cosas a seguir como están"
+],
+"correcta": 2,
+"porque": "Lo quieto sigue quieto y lo que se mueve sigue igual."
+},
+{
+"pregunta": "Un libro está en tu mesa y no se mueve solo. ¿Por qué?",
+"opciones": [
+"Porque no hay fuerza neta que lo mueva",
+"Porque no tiene inercia",
+"Porque la mesa lo jala"
+],
+"correcta": 0,
+"porque": "Sin fuerza neta, lo quieto sigue quieto."
+},
+{
+"pregunta": "Un balón rueda en un piso sin fricción. ¿Qué pasa?",
+"opciones": [
+"Se detiene de golpe",
+"Gira hacia atrás",
+"Sigue rodando sin parar"
+],
+"correcta": 2,
+"porque": "Sin fuerza que lo frene, sigue igual."
+},
+{
+"pregunta": "Una caja tiene el doble de masa que otra. ¿Qué pasa con su inercia?",
+"opciones": [
+"Es igual",
+"Es mayor",
+"Es menor"
+],
+"correcta": 1,
+"porque": "Más masa significa más inercia."
+},
+{
+"pregunta": "El autobús escolar frena de golpe y tu mochila se va hacia adelante. ¿Qué lo explica?",
+"opciones": [
+"La inercia",
+"Que no tiene masa",
+"Que el autobús la jala hacia atrás"
+],
+"correcta": 0,
+"porque": "La mochila sigue moviéndose como antes."
+}
+]
+}

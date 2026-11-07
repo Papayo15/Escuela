@@ -1,0 +1,522 @@
+{
+"division-de-fracciones-primaria": [
+{
+"pregunta": "Resuelve $\\frac{1}{3} \\div \\frac{1}{6}$.",
+"opciones": [
+"$\\frac{1}{18}$, por multiplicar sin voltear",
+"$\\frac{1}{2}$, por voltear la primera",
+"2, porque $\\frac{1}{3} \\times 6 = 2$"
+],
+"correcta": 2,
+"porque": "Se voltea la segunda fracción y se multiplica, y da 2."
+},
+{
+"pregunta": "Resuelve $\\frac{3}{4} \\div \\frac{1}{2}$.",
+"opciones": [
+"$\\frac{2}{3}$",
+"$\\frac{3}{2}$",
+"$\\frac{3}{8}$"
+],
+"correcta": 1,
+"porque": "$\\frac{3}{4} \\times \\frac{2}{1} = \\frac{6}{4} = \\frac{3}{2}$."
+},
+{
+"pregunta": "Resuelve $5 \\div \\frac{1}{3}$.",
+"opciones": [
+"8",
+"$\\frac{5}{3}$, por no voltear la fracción",
+"15"
+],
+"correcta": 2,
+"porque": "Voltea $\\frac{1}{3}$ y multiplica: $5 \\times 3 = 15$."
+},
+{
+"pregunta": "Resuelve $\\frac{2}{5} \\div \\frac{3}{4}$.",
+"opciones": [
+"$\\frac{8}{15}$",
+"$\\frac{6}{20}$",
+"$\\frac{3}{10}$, por no voltear la segunda"
+],
+"correcta": 0,
+"porque": "$\\frac{2}{5} \\times \\frac{4}{3} = \\frac{8}{15}$."
+},
+{
+"pregunta": "Tienes $\\frac{3}{4}$ de litro de agua y llenas vasos de $\\frac{1}{4}$ de litro. ¿Cuántos vasos salen?",
+"opciones": [
+"1 vaso",
+"3 vasos",
+"$\\frac{3}{16}$ de vaso"
+],
+"correcta": 1,
+"porque": "$\\frac{3}{4} \\times 4 = 3$; caben tres cuartos."
+}
+],
+"ejes-de-simetria-primaria": [
+{
+"pregunta": "¿Cuántos ejes de simetría tiene un triángulo equilátero?",
+"opciones": [
+"6",
+"1",
+"3"
+],
+"correcta": 2,
+"porque": "Tiene tantos ejes como lados: 3."
+},
+{
+"pregunta": "¿Cuántos ejes de simetría tiene un rectángulo que no es cuadrado?",
+"opciones": [
+"2",
+"1",
+"4, como el cuadrado"
+],
+"correcta": 0,
+"porque": "Solo se puede doblar a lo largo y a lo ancho."
+},
+{
+"pregunta": "¿Cuántos ejes de simetría tiene un pentágono regular?",
+"opciones": [
+"10",
+"5",
+"1"
+],
+"correcta": 1,
+"porque": "Un polígono regular tiene tantos ejes como lados."
+},
+{
+"pregunta": "¿La letra M tiene eje de simetría?",
+"opciones": [
+"No, porque no tiene líneas horizontales",
+"No, porque tiene picos en medio",
+"Sí, uno vertical"
+],
+"correcta": 2,
+"porque": "Si la doblas por el centro, las dos mitades coinciden."
+},
+{
+"pregunta": "Doblas un dibujo de mariposa y las dos mitades coinciden. ¿Qué es el doblez?",
+"opciones": [
+"El centro de la mariposa",
+"Un eje de simetría",
+"Una diagonal del dibujo"
+],
+"correcta": 1,
+"porque": "El doblez que hace coincidir las mitades es un eje."
+}
+],
+"encontrar-la-moda-primaria": [
+{
+"pregunta": "Encuentra la moda de 2, 5, 2, 7, 2 y 9.",
+"opciones": [
+"3",
+"2",
+"9, por ser el mayor"
+],
+"correcta": 1,
+"porque": "El 2 aparece 3 veces, más que cualquier otro."
+},
+{
+"pregunta": "Encuentra la moda de 6, 6, 8, 8 y 9.",
+"opciones": [
+"Solo 6",
+"No hay moda",
+"6 y 8"
+],
+"correcta": 2,
+"porque": "El 6 y el 8 se repiten dos veces cada uno."
+},
+{
+"pregunta": "Encuentra la moda de 10, 20 y 30.",
+"opciones": [
+"No tiene moda",
+"20, porque está en medio",
+"10"
+],
+"correcta": 0,
+"porque": "Todos aparecen una sola vez, así que ninguno gana."
+},
+{
+"pregunta": "En la tienda escolar se vendieron paletas de fresa, limón, fresa, mango, limón, fresa y mango. ¿Cuál es la moda?",
+"opciones": [
+"Mango",
+"Fresa",
+"Limón"
+],
+"correcta": 1,
+"porque": "La fresa se vendió 3 veces, más que las demás."
+},
+{
+"pregunta": "Los números de calzado de una fila son 20, 21, 21, 22, 21 y 20. ¿Cuál es la moda?",
+"opciones": [
+"22, por ser el mayor",
+"21",
+"20"
+],
+"correcta": 1,
+"porque": "El 21 aparece 3 veces, más que los demás."
+}
+],
+"escalas-en-mapas-y-dibujos-primaria": [
+{
+"pregunta": "En un plano a escala 1 : 1000, una línea mide 2 cm. ¿Cuánto mide en la realidad?",
+"opciones": [
+"200 m",
+"20 m",
+"2 m, por no multiplicar por 1 000"
+],
+"correcta": 1,
+"porque": "2 por 1 000 son 2 000 cm, que son 20 m."
+},
+{
+"pregunta": "En un mapa, 1 cm = 10 km. Dos pueblos están a 4 cm. ¿Qué distancia real hay?",
+"opciones": [
+"40 km",
+"4 km, por no multiplicar",
+"400 km"
+],
+"correcta": 0,
+"porque": "4 cm por 10 km son 40 km."
+},
+{
+"pregunta": "En un plano 1 : 50, una pared mide 400 cm en la realidad. ¿Cuánto mide en el plano?",
+"opciones": [
+"8 cm",
+"350 cm",
+"20 000 cm"
+],
+"correcta": 0,
+"porque": "Se divide: $400 \\div 50 = 8$ cm."
+},
+{
+"pregunta": "En un mapa, 1 cm = 5 km. Un camino real mide 35 km. ¿Cuánto mide en el mapa?",
+"opciones": [
+"30 cm",
+"175 cm",
+"7 cm"
+],
+"correcta": 2,
+"porque": "Se divide: $35 \\div 5 = 7$ cm."
+},
+{
+"pregunta": "Tu salón mide 8 m de largo. En un plano a escala 1 : 100, ¿cuánto mide?",
+"opciones": [
+"80 cm",
+"8 cm",
+"800 cm, por multiplicar en vez de dividir"
+],
+"correcta": 1,
+"porque": "8 m son 800 cm, y 800 entre 100 son 8 cm."
+}
+],
+"fraccion-de-un-numero-primaria": [
+{
+"pregunta": "Calcula $\\frac{3}{5}$ de 40.",
+"opciones": [
+"13",
+"8, porque no multiplicas por el 3",
+"24"
+],
+"correcta": 2,
+"porque": "40 entre 5 son 8, y 8 por 3 son 24."
+},
+{
+"pregunta": "Calcula $\\frac{1}{4}$ de 36.",
+"opciones": [
+"4",
+"9",
+"144"
+],
+"correcta": 1,
+"porque": "Divide 36 entre 4 y obtienes 9."
+},
+{
+"pregunta": "Calcula $\\frac{7}{8}$ de 32.",
+"opciones": [
+"4, porque no multiplicas por el 7",
+"28",
+"224"
+],
+"correcta": 1,
+"porque": "32 entre 8 son 4, y 4 por 7 son 28."
+},
+{
+"pregunta": "En un grupo de 24 alumnos, $\\frac{3}{4}$ traen su libro. ¿Cuántos son?",
+"opciones": [
+"18 alumnos",
+"6 alumnos, porque no multiplicas por el 3",
+"72 alumnos"
+],
+"correcta": 0,
+"porque": "24 entre 4 son 6, y 6 por 3 son 18."
+},
+{
+"pregunta": "Tienes 50 pesos y gastas $\\frac{2}{5}$. ¿Cuánto gastas?",
+"opciones": [
+"10 pesos, porque no multiplicas por el 2",
+"20 pesos",
+"30 pesos"
+],
+"correcta": 1,
+"porque": "50 entre 5 son 10, y 10 por 2 son 20."
+}
+],
+"fracciones-mixtas-e-impropias-primaria": [
+{
+"pregunta": "Convierte $\\frac{13}{4}$ a número mixto.",
+"opciones": [
+"$3\\frac{1}{3}$",
+"$1\\frac{3}{4}$",
+"$3\\frac{1}{4}$"
+],
+"correcta": 2,
+"porque": "13 entre 4 es 3 y sobra 1."
+},
+{
+"pregunta": "Convierte $4\\frac{1}{2}$ a fracción impropia.",
+"opciones": [
+"$\\frac{5}{2}$",
+"$\\frac{41}{2}$",
+"$\\frac{9}{2}$"
+],
+"correcta": 2,
+"porque": "4 por 2 son 8, y más 1 son 9."
+},
+{
+"pregunta": "Convierte $2\\frac{3}{5}$ a fracción impropia.",
+"opciones": [
+"$\\frac{6}{5}$",
+"$\\frac{23}{5}$",
+"$\\frac{13}{5}$"
+],
+"correcta": 2,
+"porque": "2 por 5 son 10, y más 3 son 13."
+},
+{
+"pregunta": "¿Cuál de estas fracciones es impropia?",
+"opciones": [
+"$\\frac{2}{9}$",
+"$\\frac{7}{3}$",
+"$\\frac{3}{7}$"
+],
+"correcta": 1,
+"porque": "Es impropia cuando el de arriba es mayor que el de abajo."
+},
+{
+"pregunta": "Se comieron 9 rebanadas de pizzas de 4 rebanadas cada una. ¿Cuántas pizzas son?",
+"opciones": [
+"$4\\frac{1}{9}$",
+"$2\\frac{1}{4}$",
+"$9\\frac{1}{4}$"
+],
+"correcta": 1,
+"porque": "9 entre 4 es 2 y sobra 1: dos pizzas y un cuarto."
+}
+],
+"leer-graficas-circulares-primaria": [
+{
+"pregunta": "Una gráfica tiene sectores de 20 %, 50 % y uno que no sabes. ¿Cuánto vale ese sector?",
+"opciones": [
+"70 %",
+"30 %",
+"20 %"
+],
+"correcta": 1,
+"porque": "Todo suma 100 %: 20 más 50 son 70, y faltan 30."
+},
+{
+"pregunta": "De 300 alumnos, 40 % juega futbol. ¿Cuántos alumnos son?",
+"opciones": [
+"120 alumnos",
+"40 alumnos",
+"12 alumnos"
+],
+"correcta": 0,
+"porque": "El 40 % de 300 es 0.40 por 300, que son 120."
+},
+{
+"pregunta": "¿Cuántos grados tiene un sector de 10 % en una gráfica circular?",
+"opciones": [
+"10 grados",
+"90 grados",
+"36 grados"
+],
+"correcta": 2,
+"porque": "1 % son 3.6 grados, así que 10 % son 36 grados."
+},
+{
+"pregunta": "En una gráfica circular, un sector ocupa un cuarto del círculo. ¿Qué porcentaje es?",
+"opciones": [
+"50 %",
+"25 %",
+"40 %"
+],
+"correcta": 1,
+"porque": "Un cuarto de 100 % es 25 %."
+},
+{
+"pregunta": "De 500 alumnos, 20 % llega en bicicleta. ¿Cuántos alumnos son?",
+"opciones": [
+"400 alumnos",
+"20 alumnos",
+"100 alumnos"
+],
+"correcta": 2,
+"porque": "El 20 % de 500 es 0.20 por 500, que son 100."
+}
+],
+"leer-y-escribir-decimales-primaria": [
+{
+"pregunta": "¿Cómo se lee 5.6?",
+"opciones": [
+"Cinco enteros, seis décimos",
+"Cinco enteros, seis centésimos",
+"Cincuenta y seis enteros"
+],
+"correcta": 0,
+"porque": "Una cifra decimal se lee en décimos."
+},
+{
+"pregunta": "Escribe con número: ocho enteros, siete centésimos.",
+"opciones": [
+"8.7",
+"8.007",
+"8.07"
+],
+"correcta": 2,
+"porque": "Siete centésimos ocupan el segundo lugar: 8.07."
+},
+{
+"pregunta": "Escribe con número: veinticinco milésimos.",
+"opciones": [
+"0.25",
+"0.025",
+"0.205"
+],
+"correcta": 1,
+"porque": "Milésimos son tres cifras decimales: 0.025."
+},
+{
+"pregunta": "¿Son iguales 6.5 y 6.05?",
+"opciones": [
+"Sí, porque tienen las mismas cifras",
+"No, son distintos",
+"Sí, porque el cero no cuenta aquí"
+],
+"correcta": 1,
+"porque": "6.5 son cinco décimos y 6.05 son cinco centésimos."
+},
+{
+"pregunta": "Un cuaderno cuesta 24.75 pesos. ¿Cómo lees la parte decimal?",
+"opciones": [
+"Setenta y cinco milésimos",
+"Setenta y cinco décimos",
+"Setenta y cinco centésimos"
+],
+"correcta": 2,
+"porque": "Dos cifras decimales se leen en centésimos."
+}
+],
+"maximo-comun-divisor-primaria": [
+{
+"pregunta": "Calcula el MCD de 16 y 24.",
+"opciones": [
+"8",
+"2",
+"48"
+],
+"correcta": 0,
+"porque": "El mayor número que divide a 16 y a 24 es 8."
+},
+{
+"pregunta": "Calcula el MCD de 9 y 12.",
+"opciones": [
+"36",
+"3",
+"1"
+],
+"correcta": 1,
+"porque": "Los divisores comunes son 1 y 3; el mayor es 3."
+},
+{
+"pregunta": "Calcula el MCD de 8 y 15.",
+"opciones": [
+"8",
+"1",
+"120"
+],
+"correcta": 1,
+"porque": "Solo comparten el 1 como divisor."
+},
+{
+"pregunta": "Hay 24 lápices y 36 gomas. ¿Cuántos paquetes iguales máximos armas sin que sobre nada?",
+"opciones": [
+"72 paquetes",
+"12 paquetes",
+"6 paquetes"
+],
+"correcta": 1,
+"porque": "El MCD de 24 y 36 es 12: cada paquete lleva 2 lápices y 3 gomas."
+},
+{
+"pregunta": "Para simplificar $\\frac{12}{30}$ en un solo paso, ¿entre qué número divides arriba y abajo?",
+"opciones": [
+"Entre 6",
+"Entre 2",
+"Entre 60"
+],
+"correcta": 0,
+"porque": "El MCD de 12 y 30 es 6, y queda $\\frac{2}{5}$."
+}
+],
+"media-moda-graficas-circulares": [
+{
+"pregunta": "Calcula la media de 3, 6 y 9.",
+"opciones": [
+"18",
+"9",
+"6"
+],
+"correcta": 2,
+"porque": "La suma es 18 y entre 3 datos da 6."
+},
+{
+"pregunta": "Encuentra la moda de 1, 3, 3, 3 y 8.",
+"opciones": [
+"8",
+"1",
+"3"
+],
+"correcta": 2,
+"porque": "El 3 es el que más veces se repite."
+},
+{
+"pregunta": "En una gráfica circular, el rojo ocupa un cuarto del círculo. ¿Qué porcentaje es?",
+"opciones": [
+"75 %",
+"25 %",
+"50 %"
+],
+"correcta": 1,
+"porque": "Un cuarto de 100 % es 25 %."
+},
+{
+"pregunta": "En una gráfica circular, ¿cuánto suman todos los sectores?",
+"opciones": [
+"Depende de cuántos sectores haya",
+"100 %",
+"50 %"
+],
+"correcta": 1,
+"porque": "El círculo completo es el total y siempre vale 100 %."
+},
+{
+"pregunta": "Las playeras de un grupo son CH, M, M, G, M y CH. ¿Cuál es la moda?",
+"opciones": [
+"G",
+"CH",
+"M"
+],
+"correcta": 2,
+"porque": "La M aparece 3 veces, más que las demás."
+}
+]
+}

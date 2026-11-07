@@ -1,0 +1,522 @@
+{
+"notas-informativas-opinion-primaria": [
+{
+"pregunta": "¿Cuál oración es un hecho?",
+"opciones": [
+"La junta fue aburridísima.",
+"Hoy hubo junta de padres.",
+"La junta estuvo mejor que la del año pasado."
+],
+"correcta": 1,
+"porque": "Un hecho se puede comprobar; una opinión dice lo que alguien piensa."
+},
+{
+"pregunta": "¿Cuál oración es una opinión?",
+"opciones": [
+"El recreo se hizo en el patio grande.",
+"El recreo de hoy fue divertidísimo.",
+"El recreo empezó a las 11:00."
+],
+"correcta": 1,
+"porque": "«Divertidísimo» es lo que siente una persona, no se puede comprobar."
+},
+{
+"pregunta": "¿Qué dice la entrada de una nota informativa?",
+"opciones": [
+"Qué, quién, cuándo, dónde, cómo y por qué.",
+"Solo lo que piensa el reportero sobre el tema.",
+"El final del suceso y la despedida del autor del texto."
+],
+"correcta": 0,
+"porque": "La entrada resume los datos principales del hecho."
+},
+{
+"pregunta": "En una nota sobre el festival de la escuela, ¿qué va primero?",
+"opciones": [
+"Tu opinión sobre si te gustó.",
+"Los hechos: qué pasó, cuándo y dónde.",
+"Un chiste para que la gente se ría."
+],
+"correcta": 1,
+"porque": "Primero se cuentan los hechos y después se da la opinión."
+},
+{
+"pregunta": "¿Qué dato de la nota es un hecho?",
+"opciones": [
+"El festival fue el viernes en el patio.",
+"A todos les pareció muy largo el festival.",
+"El festival fue el mejor del mundo."
+],
+"correcta": 0,
+"porque": "El día y el lugar se pueden comprobar."
+}
+],
+"orden-alfabetico-y-uso-del-diccionario-primaria": [
+{
+"pregunta": "¿Qué palabra va primero en orden alfabético?",
+"opciones": [
+"barco",
+"árbol",
+"casa"
+],
+"correcta": 1,
+"porque": "Va primero la que empieza con la letra más cercana al inicio del abecedario: a."
+},
+{
+"pregunta": "Ordena *mano, mesa, mono*. ¿Cuál va en medio?",
+"opciones": [
+"mano",
+"mesa",
+"mono"
+],
+"correcta": 1,
+"porque": "Las tres empiezan con m; se mira la segunda letra: a, e, o."
+},
+{
+"pregunta": "¿Para qué sirven las palabras guía de arriba de la página del diccionario?",
+"opciones": [
+"Para ver cuál es la palabra más difícil de todas.",
+"Para saber si tu palabra está en esa página.",
+"Para saber cuántas páginas tiene el libro completo."
+],
+"correcta": 1,
+"porque": "Las guías muestran la primera y la última palabra de la página."
+},
+{
+"pregunta": "Quieres saber qué es *niñas* en el diccionario. ¿Qué buscas?",
+"opciones": [
+"niñas",
+"niñitas",
+"niño"
+],
+"correcta": 2,
+"porque": "Se busca la forma básica de la palabra."
+},
+{
+"pregunta": "Tu maestra te pide ordenar los nombres *Luis, Lola, Luz*. ¿Cuál va primero?",
+"opciones": [
+"Luis",
+"Luz",
+"Lola"
+],
+"correcta": 2,
+"porque": "Todas empiezan con L; en la segunda letra, o va antes que u."
+}
+],
+"poemas-canciones-juegos-palabras-primaria": [
+{
+"pregunta": "¿Qué es una estrofa?",
+"opciones": [
+"Un grupo de versos de un poema.",
+"Un solo verso muy largo.",
+"El título de la canción o del poema."
+],
+"correcta": 0,
+"porque": "La estrofa es una parte del poema formada por varios versos."
+},
+{
+"pregunta": "¿Qué es un trabalenguas?",
+"opciones": [
+"Una canción que siempre se canta despacio.",
+"Un cuento muy largo con muchos personajes.",
+"Un juego de palabras difícil de decir rápido."
+],
+"correcta": 2,
+"porque": "Un trabalenguas, como *Tres tristes tigres*, se juega con sonidos parecidos."
+},
+{
+"pregunta": "¿Qué palabra rima con *corazón*?",
+"opciones": [
+"corazas",
+"camino",
+"canción"
+],
+"correcta": 2,
+"porque": "Rimar es tener sonidos iguales al final: corazón y canción."
+},
+{
+"pregunta": "Tu grupo quiere inventar un trabalenguas. ¿Cuál lo es?",
+"opciones": [
+"La maestra llegó muy temprano.",
+"Pablito clavó un clavito.",
+"Hoy fuimos al patio a jugar."
+],
+"correcta": 1,
+"porque": "Repite sonidos parecidos como *p* y *cl*, y cuesta decirlo rápido."
+},
+{
+"pregunta": "¿Qué hay en un poema?",
+"opciones": [
+"Solo números y dibujos.",
+"Preguntas con respuestas de opción múltiple.",
+"Versos que forman estrofas."
+],
+"correcta": 2,
+"porque": "Un poema se escribe en versos, y los versos forman estrofas."
+}
+],
+"prefijos-y-sufijos-primaria": [
+{
+"pregunta": "¿Qué significa el prefijo *re-* en *rehacer*?",
+"opciones": [
+"Otra vez.",
+"Debajo.",
+"No."
+],
+"correcta": 0,
+"porque": "Rehacer es hacer algo otra vez."
+},
+{
+"pregunta": "¿Cuál palabra tiene el sufijo *-ito*?",
+"opciones": [
+"prehistoria",
+"perrito",
+"subterráneo"
+],
+"correcta": 1,
+"porque": "El sufijo -ito va al final y significa pequeño."
+},
+{
+"pregunta": "En *inútil*, ¿qué significa *in-*?",
+"opciones": [
+"Antes, como en *prehistoria*",
+"Con mucho, como en *gracioso*",
+"No, como en la palabra *inútil*"
+],
+"correcta": 2,
+"porque": "El prefijo *in-* significa no: inútil es que no sirve."
+},
+{
+"pregunta": "¿Qué significa *panadero*?",
+"opciones": [
+"Un pan que sale antes.",
+"Un pan muy pequeñito.",
+"La persona que hace pan."
+],
+"correcta": 2,
+"porque": "El sufijo -ero indica oficio."
+},
+{
+"pregunta": "Tu maestra dice «prehistoria». ¿Qué significa *pre-*?",
+"opciones": [
+"Debajo.",
+"Otra vez.",
+"Antes."
+],
+"correcta": 2,
+"porque": "Prehistoria es el tiempo antes de la historia escrita."
+}
+],
+"propuestas-artisticas-comunidad-primaria": [
+{
+"pregunta": "¿Qué es la intención de tu obra?",
+"opciones": [
+"El precio de los materiales que usarás.",
+"Lo que quieres lograr o decir con ella.",
+"El nombre del compañero que la pinta."
+],
+"correcta": 1,
+"porque": "La intención es el mensaje o propósito de tu propuesta."
+},
+{
+"pregunta": "¿Cuál es un lenguaje artístico?",
+"opciones": [
+"La danza.",
+"La suma.",
+"El recreo largo."
+],
+"correcta": 0,
+"porque": "Las artes visuales, la música, la danza y el teatro son lenguajes artísticos."
+},
+{
+"pregunta": "¿Qué haces primero para una propuesta artística?",
+"opciones": [
+"Detectar una necesidad.",
+"Presentar la obra terminada.",
+"Comprar todos los materiales."
+],
+"correcta": 0,
+"porque": "Primero ves qué necesita tu escuela o comunidad."
+},
+{
+"pregunta": "En el patio hay una barda sucia. ¿Qué propuesta usa arte?",
+"opciones": [
+"Cerrar el patio durante una semana.",
+"Poner un letrero que diga «no ensuciar».",
+"Pintar un mural entre todos."
+],
+"correcta": 2,
+"porque": "Un mural usa artes visuales para mejorar el lugar."
+},
+{
+"pregunta": "Para trabajar en equipo, ¿qué conviene hacer?",
+"opciones": [
+"Escuchar todas las ideas y repartir el trabajo.",
+"Hacer solo mi idea porque es la mejor.",
+"Dejar que un compañero haga todo el trabajo."
+],
+"correcta": 0,
+"porque": "En equipo todos opinan y todos ayudan."
+}
+],
+"representar-experiencias-recursos-primaria": [
+{
+"pregunta": "¿Qué recurso es un dibujo?",
+"opciones": [
+"Visual.",
+"Corporal.",
+"Sonoro."
+],
+"correcta": 0,
+"porque": "Los dibujos se ven, por eso son recursos visuales."
+},
+{
+"pregunta": "¿Qué recurso son los gestos?",
+"opciones": [
+"Textual.",
+"Sonoro.",
+"Corporal."
+],
+"correcta": 2,
+"porque": "Los gestos se hacen con el cuerpo."
+},
+{
+"pregunta": "¿Cuál es el orden de una representación?",
+"opciones": [
+"Final, inicio y desarrollo.",
+"Inicio, desarrollo y final.",
+"Desarrollo, final y después el inicio."
+],
+"correcta": 1,
+"porque": "Primero se presenta, luego se cuenta y al final se cierra."
+},
+{
+"pregunta": "En una historieta, ¿qué es un recurso textual?",
+"opciones": [
+"La música de fondo.",
+"Los dibujos de los personajes.",
+"Las palabras de los globos."
+],
+"correcta": 2,
+"porque": "Los globos llevan palabras o diálogos, que son texto."
+},
+{
+"pregunta": "Quieres representar tu cumpleaños con ruidos y música. ¿Qué recurso usas?",
+"opciones": [
+"Sonoro.",
+"Textual.",
+"Visual."
+],
+"correcta": 0,
+"porque": "La música y los ruidos se escuchan."
+}
+],
+"resumen-primaria": [
+{
+"pregunta": "¿Qué se hace primero para resumir?",
+"opciones": [
+"Leer el texto.",
+"Escribir el final.",
+"Copiar todas las oraciones."
+],
+"correcta": 0,
+"porque": "Primero lees, luego subrayas y después escribes con tus palabras."
+},
+{
+"pregunta": "¿Un resumen es más corto o más largo que el texto original?",
+"opciones": [
+"Más largo.",
+"Más corto.",
+"Igual de largo."
+],
+"correcta": 1,
+"porque": "Un resumen cuenta lo importante con menos palabras."
+},
+{
+"pregunta": "¿Qué debes subrayar antes de resumir?",
+"opciones": [
+"Solo los números de página.",
+"Todas las palabras del texto.",
+"Las ideas principales."
+],
+"correcta": 2,
+"porque": "Las ideas principales son lo importante."
+},
+{
+"pregunta": "Tu maestra te pide resumir un cuento en tres oraciones. ¿Cómo lo escribes?",
+"opciones": [
+"Agregando mi opinión sobre el final.",
+"Con mis propias palabras.",
+"Copiando el cuento completo."
+],
+"correcta": 1,
+"porque": "Resumir es decir lo importante con tus palabras."
+},
+{
+"pregunta": "Resume: «Las abejas hacen miel. La miel se guarda en panales.» ¿Cuál es el mejor resumen?",
+"opciones": [
+"Las abejas viven en lugares muy lejanos.",
+"Las abejas hacen miel y la guardan.",
+"Las abejas son bonitas y me gustan."
+],
+"correcta": 1,
+"porque": "El resumen conserva solo las ideas importantes del texto."
+}
+],
+"signos-de-interrogacion-y-exclamacion-primaria": [
+{
+"pregunta": "¿Cómo se escribe correctamente una pregunta?",
+"opciones": [
+"Cómo estás?",
+"¿Cómo estás",
+"¿Cómo estás?"
+],
+"correcta": 2,
+"porque": "En español la pregunta lleva signo de apertura y de cierre."
+},
+{
+"pregunta": "¿Cuál pregunta está bien escrita?",
+"opciones": [
+"Cómo te llamas?",
+"¿Como te llamas?",
+"¿Cómo te llamas?"
+],
+"correcta": 2,
+"porque": "Una pregunta lleva signo de apertura y cierre, y *cómo* lleva acento."
+},
+{
+"pregunta": "¿Qué palabra de pregunta lleva acento?",
+"opciones": [
+"cuanto",
+"cuándo",
+"cuando"
+],
+"correcta": 1,
+"porque": "En las preguntas se escribe cuándo con tilde."
+},
+{
+"pregunta": "Quieres preguntarle a tu maestra la hora. ¿Qué escribes?",
+"opciones": [
+"¡Qué hora es?",
+"¿Qué hora es.",
+"¿Qué hora es?"
+],
+"correcta": 2,
+"porque": "La pregunta lleva ¿ al inicio y ? al final."
+},
+{
+"pregunta": "¿Se pone punto después del signo de cierre?",
+"opciones": [
+"No, no lleva punto después",
+"Sí, siempre se pone punto",
+"Sí, solo en las preguntas"
+],
+"correcta": 0,
+"porque": "Después del signo de cierre no va punto."
+}
+],
+"sinonimos-y-antonimos-primaria": [
+{
+"pregunta": "¿Qué son los sinónimos?",
+"opciones": [
+"Palabras que se escriben igual.",
+"Palabras con significado contrario.",
+"Palabras con significado parecido."
+],
+"correcta": 2,
+"porque": "Los sinónimos, como rápido y veloz, significan casi lo mismo."
+},
+{
+"pregunta": "¿Cuál es un antónimo de *día*?",
+"opciones": [
+"tarde",
+"mañana",
+"noche"
+],
+"correcta": 2,
+"porque": "Antónimo es lo contrario, y lo contrario de día es noche."
+},
+{
+"pregunta": "¿Cuál pareja son sinónimos?",
+"opciones": [
+"bonito y hermoso",
+"frío y caliente",
+"grande y pequeño"
+],
+"correcta": 0,
+"porque": "Bonito y hermoso significan algo parecido."
+},
+{
+"pregunta": "Tu maestra dice que no repitas «feliz». ¿Qué palabra puedes usar?",
+"opciones": [
+"contento",
+"triste",
+"enojado"
+],
+"correcta": 0,
+"porque": "Contento es sinónimo de feliz."
+},
+{
+"pregunta": "¿Qué antónimo de *grande* eliges?",
+"opciones": [
+"pequeño",
+"gigante",
+"enorme"
+],
+"correcta": 0,
+"porque": "Lo contrario de grande es pequeño."
+}
+],
+"textos-discontinuos-primaria": [
+{
+"pregunta": "¿Qué tiene una tabla?",
+"opciones": [
+"Dibujos sin ningún texto.",
+"Filas y columnas.",
+"Solo una línea de palabras."
+],
+"correcta": 1,
+"porque": "La tabla ordena datos en filas y columnas para comparar."
+},
+{
+"pregunta": "¿Qué formato sirve para recordar cumpleaños?",
+"opciones": [
+"Un calendario.",
+"Un cuento largo.",
+"Un poema con rima."
+],
+"correcta": 0,
+"porque": "El calendario ordena los datos por fecha."
+},
+{
+"pregunta": "Para leer un horario, ¿dónde está el dato?",
+"opciones": [
+"Donde se cruzan la fila y la columna.",
+"Solo en el título de arriba.",
+"En la última línea de la tabla."
+],
+"correcta": 0,
+"porque": "Buscas la hora en la fila y el día en la columna."
+},
+{
+"pregunta": "¿Cómo se acomoda una lista?",
+"opciones": [
+"Una cosa debajo de otra.",
+"En filas y columnas.",
+"Por fechas y meses."
+],
+"correcta": 0,
+"porque": "La lista pone un elemento debajo del otro."
+},
+{
+"pregunta": "Quieres anotar los útiles que debes llevar mañana. ¿Qué haces?",
+"opciones": [
+"Una carta larga.",
+"Un cuento.",
+"Una lista."
+],
+"correcta": 2,
+"porque": "Una lista sirve para anotar pendientes o cosas que necesitas."
+}
+]
+}

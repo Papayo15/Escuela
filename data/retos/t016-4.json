@@ -1,0 +1,522 @@
+{
+"mensajes-vida-saludable-secundaria": [
+{
+"pregunta": "¿Cómo debe ser un cartel de salud?",
+"opciones": [
+"Solo sonido",
+"Imagen y texto breve",
+"Un párrafo muy largo sin imagen"
+],
+"correcta": 1,
+"porque": "En un cartel se mira, así que usa imagen y pocas palabras."
+},
+{
+"pregunta": "¿Qué usa un mensaje de radio porque no hay imagen?",
+"opciones": [
+"Dibujos grandes con muchos colores",
+"Letras de colores",
+"Voz, sonido y repetición"
+],
+"correcta": 2,
+"porque": "En la radio solo se oye, así que el sonido hace todo."
+},
+{
+"pregunta": "¿Cuál es una buena invitación para terminar un mensaje de salud?",
+"opciones": [
+"Hoy hablaremos de las manos y de los gérmenes",
+"Muchos niños se enferman en invierno cada año",
+"Lávate las manos antes de comer"
+],
+"correcta": 2,
+"porque": "El final invita a hacer algo concreto."
+},
+{
+"pregunta": "¿Qué haces primero al escribir un mensaje de salud?",
+"opciones": [
+"Elegir tema y público",
+"Pegar el cartel en el patio",
+"Imprimir el mensaje en una hoja grande"
+],
+"correcta": 0,
+"porque": "Primero decides de qué hablas y a quién le hablas."
+},
+{
+"pregunta": "¿Por qué conviene agregar un dato confiable?",
+"opciones": [
+"Para que sea creíble",
+"Para que el mensaje sea más largo y llene la hoja",
+"Para que rime mejor"
+],
+"correcta": 0,
+"porque": "Un dato confiable hace que la gente crea el mensaje."
+}
+],
+"metafora-y-simil-secundaria": [
+{
+"pregunta": "¿Qué figura es «Sus ojos brillan como estrellas»?",
+"opciones": [
+"Símil, porque usa la palabra como",
+"Metáfora, porque habla de estrellas",
+"Personificación, porque hablan estrellas"
+],
+"correcta": 0,
+"porque": "El símil compara dos cosas con un nexo como la palabra como."
+},
+{
+"pregunta": "¿Qué figura es «El recreo es un mar de risas»?",
+"opciones": [
+"Hipérbole",
+"Símil",
+"Metáfora"
+],
+"correcta": 2,
+"porque": "Dice que una cosa es otra, sin usar «como»."
+},
+{
+"pregunta": "¿Qué palabra suele usar el símil para comparar?",
+"opciones": [
+"como",
+"pero, para unir ideas",
+"y"
+],
+"correcta": 0,
+"porque": "El símil usa un nexo como «como»."
+},
+{
+"pregunta": "En «Mis manos son hielo», ¿qué tienen en común manos y hielo?",
+"opciones": [
+"Son redondas y grandes",
+"Se derriten con el sol",
+"Están muy frías"
+],
+"correcta": 2,
+"porque": "En una metáfora buscas qué tienen en común las dos cosas."
+},
+{
+"pregunta": "¿Cuál es un símil?",
+"opciones": [
+"El cielo es una manta de estrellas",
+"Eres mi sol",
+"Rápido como el viento"
+],
+"correcta": 2,
+"porque": "Tiene la palabra «como» para comparar."
+}
+],
+"monografia-secundaria": [
+{
+"pregunta": "¿Cuál es un tema mejor para una monografía?",
+"opciones": [
+"Todos los animales del mundo y su vida",
+"La naturaleza",
+"La mariposa monarca"
+],
+"correcta": 2,
+"porque": "Un tema pequeño se puede investigar bien."
+},
+{
+"pregunta": "¿Qué parte de la monografía va primero?",
+"opciones": [
+"Las referencias con todas las fuentes",
+"La portada",
+"La conclusión"
+],
+"correcta": 1,
+"porque": "Primero van la portada y el índice, y al final las referencias."
+},
+{
+"pregunta": "¿Cuántas fuentes usa una monografía?",
+"opciones": [
+"Ninguna, solo tus ideas",
+"Varias, de distintos lugares",
+"Una sola, para no confundirte"
+],
+"correcta": 1,
+"porque": "Una monografía junta información de varias fuentes."
+},
+{
+"pregunta": "Después de investigar un tema, ¿qué haces?",
+"opciones": [
+"Entregar la monografía a la maestra",
+"Elegir el tema",
+"Hacer fichas"
+],
+"correcta": 2,
+"porque": "Los pasos son: elegir, investigar, hacer fichas y escribir."
+},
+{
+"pregunta": "¿Qué parte cierra con lo que aprendiste?",
+"opciones": [
+"El índice con las páginas",
+"La portada",
+"Las conclusiones"
+],
+"correcta": 2,
+"porque": "Las conclusiones resumen lo que se aprendió del tema."
+}
+],
+"narrador-y-punto-de-vista-secundaria": [
+{
+"pregunta": "«Yo abrí la puerta y vi a mi gato». ¿Qué narrador es?",
+"opciones": [
+"En segunda persona",
+"En primera persona",
+"En tercera persona, que lo sabe todo"
+],
+"correcta": 1,
+"porque": "Usa «yo», así que quien cuenta vive la historia."
+},
+{
+"pregunta": "«Ana pensó que Luis mentía, y Luis temía que lo descubriera». ¿Qué narrador es?",
+"opciones": [
+"Observador, que solo cuenta lo que se ve",
+"Omnisciente",
+"En primera persona"
+],
+"correcta": 1,
+"porque": "Sabe lo que piensan los dos personajes."
+},
+{
+"pregunta": "¿Qué narrador solo cuenta lo que se puede ver?",
+"opciones": [
+"El omnisciente",
+"El de primera persona",
+"El observador"
+],
+"correcta": 2,
+"porque": "No sabe lo que piensan los personajes, solo lo que hacen."
+},
+{
+"pregunta": "«Tú entras al salón y te sientas». ¿Qué narrador es?",
+"opciones": [
+"Omnisciente",
+"En segunda persona",
+"En primera persona, porque habla alguien"
+],
+"correcta": 1,
+"porque": "Habla directamente a «tú»; es poco común."
+},
+{
+"pregunta": "Un autor escribe como si fuera un niño que cuenta. ¿Quién es ese niño?",
+"opciones": [
+"El autor",
+"El narrador",
+"El lector"
+],
+"correcta": 1,
+"porque": "El narrador es una voz creada, no es el autor."
+}
+],
+"noticia-y-reportaje-secundaria": [
+{
+"pregunta": "¿Qué es el titular de una noticia?",
+"opciones": [
+"Los detalles menos importantes del final",
+"La despedida del periodista",
+"La idea en una frase"
+],
+"correcta": 2,
+"porque": "El titular resume la noticia en pocas palabras."
+},
+{
+"pregunta": "¿Qué es la pirámide invertida?",
+"opciones": [
+"Lo importante va primero",
+"Solo se escribe el título",
+"Se empieza por los detalles y lo importante queda al final"
+],
+"correcta": 0,
+"porque": "Va de lo más importante a lo menos importante."
+},
+{
+"pregunta": "«El lunes por la mañana hubo un simulacro». ¿Qué pregunta responde «el lunes por la mañana»?",
+"opciones": [
+"Quién",
+"Dónde, porque dice el lugar",
+"Cuándo"
+],
+"correcta": 2,
+"porque": "Dice el momento en que pasó."
+},
+{
+"pregunta": "¿Qué diferencia hay entre noticia y reportaje?",
+"opciones": [
+"El reportaje investiga más",
+"La noticia es más larga y tiene más entrevistas",
+"No hay diferencia"
+],
+"correcta": 0,
+"porque": "La noticia informa breve; el reportaje investiga a fondo."
+},
+{
+"pregunta": "¿Cuál es una buena entrada de noticia?",
+"opciones": [
+"La biblioteca es lo mejor del mundo",
+"Ojalá todos vayamos a la biblioteca",
+"Hoy abrió la biblioteca escolar"
+],
+"correcta": 2,
+"porque": "La entrada dice lo más importante y de forma objetiva."
+}
+],
+"oraciones-coordinadas-y-subordinadas-secundaria": [
+{
+"pregunta": "Clasifica: «Ana corre y Luis camina».",
+"opciones": [
+"Subordinada",
+"Coordinada",
+"Simple"
+],
+"correcta": 1,
+"porque": "Cada parte tiene sentido sola, unidas con «y»."
+},
+{
+"pregunta": "Clasifica: «Salí porque tenía hambre».",
+"opciones": [
+"Subordinada",
+"Coordinada, porque tiene dos verbos",
+"Simple"
+],
+"correcta": 0,
+"porque": "«Porque tenía hambre» depende de la principal."
+},
+{
+"pregunta": "¿Cuál es un nexo coordinante?",
+"opciones": [
+"pero",
+"cuando",
+"porque, que une una causa"
+],
+"correcta": 0,
+"porque": "Los nexos coordinantes son y, o, pero y sino."
+},
+{
+"pregunta": "Si separas una oración y las dos partes funcionan solas, son...",
+"opciones": [
+"simples",
+"subordinadas",
+"coordinadas"
+],
+"correcta": 2,
+"porque": "Si ambas se sostienen solas, son coordinadas."
+},
+{
+"pregunta": "En «Dime si vas», ¿qué parte no se sostiene sola?",
+"opciones": [
+"si vas",
+"Las dos partes, porque no hay punto",
+"Dime"
+],
+"correcta": 0,
+"porque": "«Si vas» depende de la principal, y por eso es subordinada."
+}
+],
+"oraciones-simples-y-compuestas-secundaria": [
+{
+"pregunta": "¿Cuántos verbos conjugados tiene una oración simple?",
+"opciones": [
+"Uno, porque tiene un solo verbo",
+"Dos, uno por cada sujeto que hay",
+"Ninguno, porque no tiene verbos"
+],
+"correcta": 0,
+"porque": "Una oración simple tiene un solo verbo conjugado."
+},
+{
+"pregunta": "Clasifica: «Los niños juegan futbol».",
+"opciones": [
+"Compuesta, porque hay varios niños",
+"Simple",
+"Subordinada"
+],
+"correcta": 1,
+"porque": "Solo tiene un verbo conjugado: juegan."
+},
+{
+"pregunta": "Clasifica: «Mi mamá cocina y mi papá lava».",
+"opciones": [
+"Sin verbo",
+"Compuesta",
+"Simple"
+],
+"correcta": 1,
+"porque": "Tiene dos verbos conjugados: cocina y lava."
+},
+{
+"pregunta": "¿Cuántos verbos conjugados tiene «Quiero cantar»?",
+"opciones": [
+"Ninguno, porque no está conjugado",
+"Uno, porque cantar es infinitivo",
+"Dos, porque cuentan quiero y cantar"
+],
+"correcta": 1,
+"porque": "Solo quiero está conjugado; cantar es infinitivo y no cuenta."
+},
+{
+"pregunta": "Clasifica: «Veo que lloras».",
+"opciones": [
+"Simple, porque tiene un solo sujeto",
+"Sin verbo",
+"Compuesta"
+],
+"correcta": 2,
+"porque": "Tiene dos verbos conjugados: veo y lloras."
+}
+],
+"por-que-porque-porque-y-por-que-secundaria": [
+{
+"pregunta": "Elige: «¿___ llegaste tarde?» (Por qué/Porque/Porqué).",
+"opciones": [
+"Porque",
+"Porqué",
+"Por qué"
+],
+"correcta": 2,
+"porque": "Es una pregunta, así que se escribe separado y con tilde."
+},
+{
+"pregunta": "Elige: «Llegué tarde ___ perdí el camión» (por qué/porque/porqué).",
+"opciones": [
+"porque",
+"por qué",
+"porqué"
+],
+"correcta": 0,
+"porque": "Da una causa, así que va junto y sin tilde."
+},
+{
+"pregunta": "Elige: «No entiendo el ___ de su enojo» (por qué/porque/porqué).",
+"opciones": [
+"por qué",
+"porqué",
+"porque"
+],
+"correcta": 1,
+"porque": "Con «el» significa motivo y se escribe junto con tilde."
+},
+{
+"pregunta": "Elige: «Esa es la razón ___ vine» (por que/porque/por qué).",
+"opciones": [
+"porque",
+"por qué",
+"por que"
+],
+"correcta": 2,
+"porque": "Se puede cambiar por «por la que»: por que va separado y sin tilde."
+},
+{
+"pregunta": "¿Cuál palabra se escribe con «el» antes y significa motivo?",
+"opciones": [
+"porqué",
+"por que",
+"porque"
+],
+"correcta": 0,
+"porque": "Es un sustantivo: «el porqué»."
+}
+],
+"recursos-esteticos-literatura-oral-escrita-secundaria": [
+{
+"pregunta": "¿Qué recurso es «Tus ojos son luceros»?",
+"opciones": [
+"Rima",
+"Símil",
+"Metáfora"
+],
+"correcta": 2,
+"porque": "Dice que una cosa es otra, sin usar «como»."
+},
+{
+"pregunta": "¿Qué recurso es «Fuerte como un roble»?",
+"opciones": [
+"Personificación, porque le da vida",
+"Metáfora, porque no usa «como»",
+"Símil, porque compara con «como»"
+],
+"correcta": 2,
+"porque": "Un símil compara dos cosas usando la palabra «como»."
+},
+{
+"pregunta": "¿Qué recurso es «La puerta se quejó al abrirse»?",
+"opciones": [
+"Hipérbole",
+"Personificación",
+"Símil"
+],
+"correcta": 1,
+"porque": "Le da una acción humana a una cosa."
+},
+{
+"pregunta": "¿Cuál par de palabras rima?",
+"opciones": [
+"flor y color",
+"sol y luna",
+"plaza y camino"
+],
+"correcta": 0,
+"porque": "La rima es tener sonidos iguales al final."
+},
+{
+"pregunta": "¿Qué recurso es «Tengo un millón de cosas que hacer»?",
+"opciones": [
+"Símil",
+"Hipérbole",
+"Rima"
+],
+"correcta": 1,
+"porque": "Exagera para dar fuerza."
+}
+],
+"recursos-literarios-emociones-familia-escuela-comunidad-secundaria": [
+{
+"pregunta": "¿Cuál frase hace sentir la tristeza sin decir la palabra?",
+"opciones": [
+"Estoy triste porque ya no estás",
+"Sin ti, el patio parece más grande",
+"Hoy estoy muy, muy triste"
+],
+"correcta": 1,
+"porque": "Muestra la emoción con algo concreto, en vez de nombrarla."
+},
+{
+"pregunta": "¿Qué recurso es «Mi mamá es un abrigo»?",
+"opciones": [
+"Símil",
+"Metáfora",
+"Personificación"
+],
+"correcta": 1,
+"porque": "Dice que una cosa es otra, sin usar «como»."
+},
+{
+"pregunta": "¿Qué figura es «La escuela bosteza por las tardes»?",
+"opciones": [
+"Personificación",
+"Metáfora, porque dice que es otra cosa",
+"Hipérbole"
+],
+"correcta": 0,
+"porque": "Da una acción humana, bostezar, a la escuela."
+},
+{
+"pregunta": "¿Cuál es el primer paso para escribir sobre una emoción?",
+"opciones": [
+"Revisar el texto ya terminado",
+"Elegir una emoción que sientes",
+"Elegir si será poema o canción"
+],
+"correcta": 1,
+"porque": "El primer paso es elegir la emoción que quieres expresar."
+},
+{
+"pregunta": "¿Qué detalle concreto puede ayudarte a hacer sentir?",
+"opciones": [
+"El olor del pan de mi casa",
+"Un número largo",
+"Una palabra muy elegante que nadie usa"
+],
+"correcta": 0,
+"porque": "Un detalle que puedes ver, oler u oír hace que el lector sienta."
+}
+]
+}

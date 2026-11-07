@@ -1,0 +1,574 @@
+{
+"estados-y-capitales-del-sur-y-sureste-de-mexico-primaria": [
+{
+"pregunta": "¿Cuál es la capital de Veracruz?",
+"opciones": [
+"Coatzacoalcos",
+"Xalapa",
+"Veracruz"
+],
+"correcta": 1,
+"porque": "La capital de Veracruz es Xalapa."
+},
+{
+"pregunta": "¿Cuál es la capital de Guerrero?",
+"opciones": [
+"Taxco",
+"Chilpancingo",
+"Acapulco"
+],
+"correcta": 1,
+"porque": "La capital de Guerrero es Chilpancingo."
+},
+{
+"pregunta": "Marta viaja a Mérida. ¿A qué estado va?",
+"opciones": [
+"Quintana Roo",
+"Campeche",
+"Yucatán"
+],
+"correcta": 2,
+"porque": "Mérida es la capital de Yucatán."
+},
+{
+"pregunta": "¿Cuántas entidades federativas tiene México?",
+"opciones": [
+"30",
+"32",
+"31"
+],
+"correcta": 1,
+"porque": "Son 31 estados más la Ciudad de México, o sea 32."
+},
+{
+"pregunta": "¿Cuál es la capital de Tabasco?",
+"opciones": [
+"Villahermosa",
+"Tuxtla Gutiérrez, que es de otro estado",
+"Chetumal"
+],
+"correcta": 0,
+"porque": "Villahermosa es la capital de Tabasco."
+}
+],
+"evangelizacion-y-misiones-primaria": [
+{
+"pregunta": "¿Qué fue la evangelización?",
+"opciones": [
+"Cobrar impuestos a los comerciantes de España",
+"Construir caminos para llevar plata al puerto",
+"Enseñar el cristianismo a los pueblos indígenas"
+],
+"correcta": 2,
+"porque": "La evangelización fue enseñar el cristianismo a los pueblos indígenas."
+},
+{
+"pregunta": "¿Cuál de estas es una orden religiosa que llegó a la Nueva España?",
+"opciones": [
+"Los franciscanos",
+"Los tlatoanis",
+"Los conquistadores del imperio mexica"
+],
+"correcta": 0,
+"porque": "Franciscanos, dominicos, agustinos y jesuitas fueron órdenes religiosas."
+},
+{
+"pregunta": "Los frailes aprendieron lenguas indígenas. ¿Para qué les sirvió?",
+"opciones": [
+"Para escribir cartas solo al rey de España",
+"Para enseñar a la gente en su propia lengua",
+"Para que nadie entendiera lo que ellos decían"
+],
+"correcta": 1,
+"porque": "Aprender las lenguas les ayudó a comunicarse y enseñar."
+},
+{
+"pregunta": "¿Qué es el sincretismo?",
+"opciones": [
+"La separación total de dos religiones",
+"Una escuela que se construía en el norte",
+"Una mezcla de creencias"
+],
+"correcta": 2,
+"porque": "El sincretismo es la mezcla de creencias de distintas culturas."
+},
+{
+"pregunta": "Al ir a una iglesia antigua de tu región, ¿qué podrías encontrar que muestre la mezcla de culturas?",
+"opciones": [
+"Solo pirámides sin ninguna construcción más",
+"Música y arte con rasgos indígenas y españoles",
+"Solo aparatos modernos hechos hace pocos años"
+],
+"correcta": 1,
+"porque": "Los frailes usaron teatro y música y mezclaron las creencias."
+}
+],
+"formas-elegir-representantes-primaria": [
+{
+"pregunta": "¿Qué hace un representante?",
+"opciones": [
+"Habla por el grupo y lo representa",
+"Decide solo sin preguntarle a nadie",
+"Hace todas las tareas del salón"
+],
+"correcta": 0,
+"porque": "Un representante habla por el grupo."
+},
+{
+"pregunta": "¿Cuál es una forma de elegir representantes?",
+"opciones": [
+"Que el más alto del salón mande",
+"Votando o por acuerdo del grupo",
+"Que gane quien grite más fuerte"
+],
+"correcta": 1,
+"porque": "Se elige votando o por acuerdo."
+},
+{
+"pregunta": "Para jefe de grupo, Pedro tiene 10 votos, Lola 8 y Juan 6. ¿Quién gana?",
+"opciones": [
+"Pedro",
+"Juan, porque habló más fuerte en la clase",
+"Lola"
+],
+"correcta": 0,
+"porque": "Gana quien tiene más votos, y Pedro tiene 10."
+},
+{
+"pregunta": "¿Para qué sirve el voto secreto?",
+"opciones": [
+"Para votar más de una vez en la misma elección",
+"Para que todos sepan por quién votaste y te digan algo",
+"Para que nadie te presione"
+],
+"correcta": 2,
+"porque": "Con voto secreto nadie se entera de tu elección ni te presiona."
+},
+{
+"pregunta": "Hay un empate entre dos alumnos para jefe de grupo. ¿Qué pueden hacer?",
+"opciones": [
+"Hablar y votar otra vez",
+"Elegir al que cae mejor a la maestra sin preguntar",
+"Quitar el cargo y que nadie lo tenga"
+],
+"correcta": 0,
+"porque": "Pueden proponer, escuchar y votar de nuevo para decidir."
+}
+],
+"fronteras-y-extension-de-mexico-primaria": [
+{
+"pregunta": "¿Con cuántos países limita México?",
+"opciones": [
+"Con uno solo",
+"Con diez países de todo el continente",
+"Con tres"
+],
+"correcta": 2,
+"porque": "México limita con Estados Unidos, Guatemala y Belice."
+},
+{
+"pregunta": "¿Qué país queda en la frontera norte?",
+"opciones": [
+"Estados Unidos",
+"Guatemala",
+"Belice, que es muy pequeño"
+],
+"correcta": 0,
+"porque": "Al norte de México está Estados Unidos."
+},
+{
+"pregunta": "Un barco sale por el este de México. ¿Qué mar encuentra?",
+"opciones": [
+"El golfo de México y el mar Caribe",
+"Un desierto muy seco y grande",
+"El océano Pacífico y el golfo de California"
+],
+"correcta": 0,
+"porque": "Al este están el golfo de México y el mar Caribe."
+},
+{
+"pregunta": "¿Qué países están en la frontera sur?",
+"opciones": [
+"Cuba y Honduras",
+"Guatemala y Belice",
+"Estados Unidos y Canadá"
+],
+"correcta": 1,
+"porque": "Al sur limita con Guatemala y Belice."
+},
+{
+"pregunta": "¿En qué parte de América está México?",
+"opciones": [
+"En Europa, cerca de España",
+"En América del Sur",
+"En América del Norte"
+],
+"correcta": 2,
+"porque": "México está en América del Norte."
+}
+],
+"hernan-cortes-y-la-llegada-de-los-espanoles-primaria": [
+{
+"pregunta": "¿Dónde llegó Hernán Cortés en 1519?",
+"opciones": [
+"A las montañas del norte de México",
+"A la costa de Yucatán, en el sureste",
+"A la costa de Veracruz"
+],
+"correcta": 2,
+"porque": "En 1519 Cortés llegó a la costa de Veracruz."
+},
+{
+"pregunta": "¿Qué hizo Malintzin con los españoles?",
+"opciones": [
+"Fue su intérprete",
+"Fue el capitán de todos los soldados",
+"Fue la gobernante de los mexicas"
+],
+"correcta": 0,
+"porque": "Malintzin fue una mujer indígena que sirvió de intérprete."
+},
+{
+"pregunta": "¿Por qué se aliaron los tlaxcaltecas con los españoles?",
+"opciones": [
+"Para pelear contra los mexicas",
+"Para regresar a España con Cortés",
+"Para quemar sus propias ciudades"
+],
+"correcta": 0,
+"porque": "Los tlaxcaltecas se aliaron con los españoles contra los mexicas."
+},
+{
+"pregunta": "¿Qué hizo Cortés con sus barcos?",
+"opciones": [
+"Los regaló a Moctezuma para hacer la paz",
+"Los llenó de plata y los mandó a Asia",
+"Mandó inutilizarlos para evitar el regreso"
+],
+"correcta": 2,
+"porque": "Inutilizó sus barcos para que nadie quisiera regresar."
+},
+{
+"pregunta": "Quieres marcar en un mapa el camino de los españoles. ¿De dónde a dónde va?",
+"opciones": [
+"De Mérida a Monterrey, por el norte",
+"De Acapulco a Zacatecas",
+"De Veracruz a Tenochtitlan"
+],
+"correcta": 2,
+"porque": "El camino va de la costa de Veracruz a Tenochtitlan."
+}
+],
+"interculturalidad-sustentabilidad-primaria": [
+{
+"pregunta": "¿Qué saben hacer las distintas culturas?",
+"opciones": [
+"Solo guardar objetos viejos en casa",
+"Nada, porque solo una cultura sabe",
+"Cuidar la naturaleza con sus saberes"
+],
+"correcta": 2,
+"porque": "Distintas culturas tienen saberes para cuidar la naturaleza."
+},
+{
+"pregunta": "¿Cómo cuida el suelo la milpa?",
+"opciones": [
+"Solo deja piedras en el campo vacío",
+"Quita todas las plantas cada mes",
+"Siembra varias plantas juntas"
+],
+"correcta": 2,
+"porque": "La milpa mezcla maíz, frijol y calabaza y cuida el suelo."
+},
+{
+"pregunta": "¿Por qué debemos pensar en quienes nacerán después?",
+"opciones": [
+"Para que los recursos les alcancen",
+"Porque ellos no necesitarán agua ni comida",
+"Para gastar todo hoy y no dejar nada"
+],
+"correcta": 0,
+"porque": "La sustentabilidad cuida los recursos para las generaciones futuras."
+},
+{
+"pregunta": "Un compañero de otra cultura te cuenta cómo cuida las plantas. ¿Qué haces?",
+"opciones": [
+"Escucho y comparto lo que sé",
+"Me burlo de su forma de hacerlo en el salón",
+"Le digo que no cuenta porque yo sé más"
+],
+"correcta": 0,
+"porque": "Escuchar y compartir saberes ayuda a cuidar la Tierra."
+},
+{
+"pregunta": "Quieres saber más de plantas. ¿A quién puedes preguntar de tu familia?",
+"opciones": [
+"Solo a quien no tenga planta en casa",
+"A nadie, porque ya lo sabes todo",
+"A abuelos o adultos que conozcan plantas"
+],
+"correcta": 2,
+"porque": "Los saberes de tu familia pueden ayudarte a cuidar la naturaleza."
+}
+],
+"mayas-primaria": [
+{
+"pregunta": "¿En qué parte de México vivieron los mayas?",
+"opciones": [
+"En el centro del país",
+"En el sureste de México",
+"En el norte desértico"
+],
+"correcta": 1,
+"porque": "Los mayas vivieron en el sureste de México."
+},
+{
+"pregunta": "¿Cómo se llama la escritura maya?",
+"opciones": [
+"Glifos en piedra",
+"Solo números",
+"El abecedario"
+],
+"correcta": 0,
+"porque": "La escritura maya usa glifos."
+},
+{
+"pregunta": "¿Qué concepto matemático usaron los mayas?",
+"opciones": [
+"Los números negativos",
+"Los números romanos",
+"El concepto del cero"
+],
+"correcta": 2,
+"porque": "Los mayas usaron el concepto del cero."
+},
+{
+"pregunta": "¿Cuál de estas es una ciudad maya?",
+"opciones": [
+"Tenochtitlan, mexica",
+"Palenque, en Chiapas",
+"Monte Albán, zapoteca"
+],
+"correcta": 1,
+"porque": "Palenque es una ciudad maya."
+},
+{
+"pregunta": "¿Los mayas siguen vivos hoy?",
+"opciones": [
+"No, ya no queda nadie",
+"Sí, y hablan sus lenguas",
+"Solo existen en los libros"
+],
+"correcta": 1,
+"porque": "Los mayas siguen vivos y hablan sus lenguas hoy."
+}
+],
+"mexicas-primaria": [
+{
+"pregunta": "¿Qué ciudad fundaron los mexicas en 1325?",
+"opciones": [
+"Palenque",
+"Tenochtitlan",
+"Monte Albán, en el estado de Oaxaca"
+],
+"correcta": 1,
+"porque": "Los mexicas fundaron Tenochtitlan sobre un islote del lago de Texcoco."
+},
+{
+"pregunta": "¿Qué eran las chinampas?",
+"opciones": [
+"Barcos para cruzar el mar",
+"Casas hechas de plata",
+"Huertos en el agua"
+],
+"correcta": 2,
+"porque": "Las chinampas eran huertos que cultivaban sobre el agua."
+},
+{
+"pregunta": "¿Cómo se llamaba el gobernante mexica?",
+"opciones": [
+"Cacique de un pueblo del sur",
+"Virrey",
+"Tlatoani"
+],
+"correcta": 2,
+"porque": "El gobernante de los mexicas era el tlatoani."
+},
+{
+"pregunta": "¿Qué idioma hablaban los mexicas?",
+"opciones": [
+"Náhuatl",
+"Inglés, el idioma de los comerciantes",
+"Maya"
+],
+"correcta": 0,
+"porque": "Los mexicas hablaban náhuatl."
+},
+{
+"pregunta": "Si dibujas el escudo mexica, ¿qué animales y planta pones?",
+"opciones": [
+"Perro, gato y rosal",
+"Jaguar, venado y maíz",
+"Águila, serpiente y nopal"
+],
+"correcta": 2,
+"porque": "El escudo muestra un águila sobre un nopal con una serpiente."
+}
+],
+"mexico-pluricultural-pueblos-primaria": [
+{
+"pregunta": "¿Qué significa que México sea pluricultural?",
+"opciones": [
+"Que solo existe una lengua en todo el país",
+"Que todos tienen la misma cultura y lengua",
+"Que viven muchos pueblos y culturas"
+],
+"correcta": 2,
+"porque": "Pluricultural quiere decir que en México viven muchos pueblos."
+},
+{
+"pregunta": "¿Cuál es un pueblo que vive en México?",
+"opciones": [
+"Los romanos de Italia",
+"Los vikingos de Europa",
+"Los zapotecos de Oaxaca"
+],
+"correcta": 2,
+"porque": "Los zapotecos son uno de los pueblos que viven en México."
+},
+{
+"pregunta": "¿Cuántas lenguas indígenas hay en México, según el tema?",
+"opciones": [
+"6",
+"68",
+"680, una por cada pueblo del país"
+],
+"correcta": 1,
+"porque": "En México hay 68 lenguas indígenas."
+},
+{
+"pregunta": "Un compañero habla una lengua indígena. ¿Qué haces?",
+"opciones": [
+"Lo escucho y le pregunto con respeto",
+"Le pido que no hable así porque no entiendo",
+"Me burlo para que me hagan caso mis amigos"
+],
+"correcta": 0,
+"porque": "Todas las culturas valen igual y merecen respeto."
+},
+{
+"pregunta": "Vas a investigar un pueblo de tu estado. ¿Qué buscas?",
+"opciones": [
+"Su lengua y sus costumbres",
+"Solo el color de la ropa de sus vecinos",
+"Cuántos coches pasan por su calle"
+],
+"correcta": 0,
+"porque": "Cada pueblo tiene su lengua y su forma de vivir."
+}
+],
+"mineria-y-comercio-en-la-colonia-primaria": [
+{
+"pregunta": "¿Cuál fue la actividad económica principal de la Nueva España?",
+"opciones": [
+"La pesca en los ríos del norte",
+"La venta de coches y camiones",
+"La minería de plata"
+],
+"correcta": 2,
+"porque": "La minería de plata fue la actividad principal de la Nueva España."
+},
+{
+"pregunta": "¿Cuál de estas es una ciudad minera?",
+"opciones": [
+"Villahermosa, ciudad de Tabasco",
+"Zacatecas, famosa por su plata",
+"Mérida, capital de Yucatán"
+],
+"correcta": 1,
+"porque": "Zacatecas fue una de las ciudades mineras de plata de la Colonia."
+},
+{
+"pregunta": "¿Qué puerto conectaba la Nueva España con Europa?",
+"opciones": [
+"Mazatlán, en el Pacífico",
+"Veracruz",
+"Acapulco"
+],
+"correcta": 1,
+"porque": "Veracruz conectaba con Europa."
+},
+{
+"pregunta": "¿Qué traía la Nao de China a Acapulco?",
+"opciones": [
+"Maíz, frijol y calabaza para sembrar",
+"Autos y teléfonos de última moda",
+"Sedas, porcelana y especias"
+],
+"correcta": 2,
+"porque": "La Nao de China llegaba con sedas, porcelana y especias."
+},
+{
+"pregunta": "En un mapa buscas Guanajuato. ¿Qué se hacía ahí en la Colonia?",
+"opciones": [
+"Se fabricaban barcos para Asia",
+"Se cuidaba la selva con los mayas",
+"Se sacaba plata de las minas"
+],
+"correcta": 2,
+"porque": "Guanajuato era una ciudad minera donde se sacaba plata."
+}
+],
+"olmecas-la-cultura-madre-primaria": [
+{
+"pregunta": "¿Dónde vivieron los olmecas?",
+"opciones": [
+"En la costa del golfo de México",
+"En el desierto del norte, cerca de la frontera",
+"En las montañas de Oaxaca, junto a Monte Albán"
+],
+"correcta": 0,
+"porque": "Los olmecas vivieron en lo que hoy es Veracruz y Tabasco."
+},
+{
+"pregunta": "¿Qué esculturas famosas hicieron?",
+"opciones": [
+"Estatuas de plata de los virreyes",
+"Torres de cristal muy altas",
+"Cabezas colosales de piedra"
+],
+"correcta": 2,
+"porque": "Los olmecas hicieron cabezas colosales de piedra."
+},
+{
+"pregunta": "¿Qué animal veneraban los olmecas?",
+"opciones": [
+"El jaguar, su animal sagrado",
+"La vaca, de las haciendas",
+"El caballo, que traían españoles"
+],
+"correcta": 0,
+"porque": "Los olmecas tenían culto al jaguar."
+},
+{
+"pregunta": "¿Por qué se llama a los olmecas la cultura madre?",
+"opciones": [
+"Muchas ideas suyas pasaron a otros pueblos",
+"Porque fueron la última cultura de Mesoamérica",
+"Porque solo había mujeres en su ciudad"
+],
+"correcta": 0,
+"porque": "Se llama así porque sus ideas pasaron a pueblos posteriores."
+},
+{
+"pregunta": "¿Cuál es un centro olmeca?",
+"opciones": [
+"Teotihuacán, con sus dos pirámides",
+"Tula",
+"La Venta"
+],
+"correcta": 2,
+"porque": "La Venta y San Lorenzo fueron centros olmecas."
+}
+]
+}

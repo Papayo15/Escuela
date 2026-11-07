@@ -1,0 +1,522 @@
+{
+"san-agustin-y-santo-tomas-prepa": [
+{
+"pregunta": "¿Qué obra escribió Santo Tomás?",
+"opciones": [
+"Las Confesiones de Roma",
+"La Crítica de la razón",
+"Suma teológica"
+],
+"correcta": 2,
+"porque": "Santo Tomás escribió la Suma teológica."
+},
+{
+"pregunta": "¿Qué obra escribió San Agustín?",
+"opciones": [
+"La República",
+"Suma teológica",
+"Confesiones"
+],
+"correcta": 2,
+"porque": "San Agustín escribió Confesiones."
+},
+{
+"pregunta": "¿Cuántas vías propuso Santo Tomás para demostrar a Dios?",
+"opciones": [
+"Cinco",
+"Diez",
+"Tres"
+],
+"correcta": 0,
+"porque": "Santo Tomás propuso cinco vías."
+},
+{
+"pregunta": "¿De qué filósofo partió Santo Tomás?",
+"opciones": [
+"De Platón",
+"De Aristóteles",
+"De Descartes"
+],
+"correcta": 1,
+"porque": "Santo Tomás unió la fe con Aristóteles."
+},
+{
+"pregunta": "En una tabla pones fe y razón en dos columnas. ¿Qué intentaban unir ellos?",
+"opciones": [
+"El juego y el deporte",
+"La ciencia y la magia",
+"La fe y la razón"
+],
+"correcta": 2,
+"porque": "Estos pensadores trataron de unir la fe y la razón."
+}
+],
+"socrates-prepa": [
+{
+"pregunta": "¿Cómo conocemos las ideas de Sócrates?",
+"opciones": [
+"Por lo que escribió Platón",
+"Por cartas a sus hijos",
+"Por libros que él escribió"
+],
+"correcta": 0,
+"porque": "Sócrates no escribió nada; lo conocemos por Platón."
+},
+{
+"pregunta": "¿Qué es la mayéutica?",
+"opciones": [
+"Dar respuestas ya hechas",
+"Preguntar para que otro descubra",
+"Escribir un gran libro"
+],
+"correcta": 1,
+"porque": "La mayéutica usa preguntas para descubrir la verdad."
+},
+{
+"pregunta": "¿Cómo murió Sócrates?",
+"opciones": [
+"De viejo y en su casa",
+"Bebió cicuta",
+"En una guerra lejana"
+],
+"correcta": 1,
+"porque": "Fue condenado a beber cicuta."
+},
+{
+"pregunta": "¿Qué frase dijo Sócrates?",
+"opciones": [
+"Pienso, luego existo",
+"Solo sé que no sé nada",
+"Todo fluye siempre"
+],
+"correcta": 1,
+"porque": "Aceptar que no sabes te abre a aprender."
+},
+{
+"pregunta": "Le haces preguntas a un amigo sobre la justicia para que piense. ¿Qué usas?",
+"opciones": [
+"El arjé",
+"La mayéutica",
+"La plusvalía"
+],
+"correcta": 1,
+"porque": "Preguntar para que el otro descubra es mayéutica."
+}
+],
+"argumentacion-filosofica-preparatoria": [
+{
+"pregunta": "¿Qué es una premisa?",
+"opciones": [
+"Una burla contra el que opina",
+"Una razón que apoya la idea",
+"La idea final de un texto"
+],
+"correcta": 1,
+"porque": "Las premisas son las razones que apoyan una conclusión."
+},
+{
+"pregunta": "Todos los humanos necesitan agua. Tú eres humano. ¿Cuál es la conclusión?",
+"opciones": [
+"Hay mucha agua",
+"Necesitas agua",
+"Eres un humano"
+],
+"correcta": 1,
+"porque": "La conclusión es la que sale de las dos premisas."
+},
+{
+"pregunta": "Dices: No le hagas caso, es muy joven para opinar. ¿Qué falacia es?",
+"opciones": [
+"Autoridad válida",
+"Ataque a la persona",
+"Causa falsa"
+],
+"correcta": 1,
+"porque": "Ataca a quien opina y no a sus razones."
+},
+{
+"pregunta": "¿Qué haces cuando evalúas un argumento?",
+"opciones": [
+"Veo si es cierto y se sigue",
+"Cuento cuántos hablan",
+"Elijo la voz más fuerte"
+],
+"correcta": 0,
+"porque": "Se revisa si las razones son ciertas y llevan a la conclusión."
+},
+{
+"pregunta": "Quieres defender que dejen menos tarea. ¿Cómo argumentas bien?",
+"opciones": [
+"Con burlas al maestro",
+"Con gritos y enojo",
+"Con razones y ejemplos"
+],
+"correcta": 2,
+"porque": "Un buen argumento usa razones, no gritos."
+}
+],
+"arte-estetica-cultura-contemporanea-preparatoria": [
+{
+"pregunta": "¿Qué estudia la estética?",
+"opciones": [
+"Los planetas y soles",
+"Los números y reglas",
+"El arte y la belleza"
+],
+"correcta": 2,
+"porque": "La estética es la rama que estudia arte y belleza."
+},
+{
+"pregunta": "Ves un video viral. ¿Qué haces primero para analizarlo?",
+"opciones": [
+"Doy me gusta rápido",
+"Lo describo con calma",
+"Lo borro y me olvido"
+],
+"correcta": 1,
+"porque": "El primer paso es describir lo que ves."
+},
+{
+"pregunta": "Al analizar una obra, ¿qué preguntas sobre quién la hizo?",
+"opciones": [
+"¿Cuánto costó la tinta?",
+"¿Cuántos colores hay?",
+"¿Quién lo hizo y para quién?"
+],
+"correcta": 2,
+"porque": "Preguntar quién lo hizo y para quién da contexto."
+},
+{
+"pregunta": "Relacionar una obra con su época es...",
+"opciones": [
+"Describir nada más",
+"Olvidar la fecha de la obra",
+"Contextualizar"
+],
+"correcta": 2,
+"porque": "Contextualizar es ver cómo la época influye en la obra."
+},
+{
+"pregunta": "¿Cuál es una categoría estética?",
+"opciones": [
+"Lo largo y ancho",
+"Lo hueco y vacío",
+"Lo bello y lo feo"
+],
+"correcta": 2,
+"porque": "Lo bello, lo feo o lo gracioso son categorías estéticas."
+}
+],
+"deduccion-e-induccion-prepa": [
+{
+"pregunta": "¿Cuál da una conclusión segura?",
+"opciones": [
+"La deducción",
+"La simple adivinanza",
+"La inducción"
+],
+"correcta": 0,
+"porque": "En la deducción, si las premisas son ciertas, la conclusión es segura."
+},
+{
+"pregunta": "El Sol salió todos los días, así que saldrá mañana. ¿Qué razonamiento es?",
+"opciones": [
+"Deducción",
+"Inducción",
+"Silogismo"
+],
+"correcta": 1,
+"porque": "Va de casos particulares a una regla general."
+},
+{
+"pregunta": "¿Cómo es la conclusión de una inducción?",
+"opciones": [
+"Segura siempre",
+"Imposible",
+"Probable"
+],
+"correcta": 2,
+"porque": "En la inducción la conclusión es solo probable."
+},
+{
+"pregunta": "Todos los humanos mueren. Ana es humana. Entonces...",
+"opciones": [
+"Ana morirá",
+"Ana no muere",
+"Ana es un robot"
+],
+"correcta": 0,
+"porque": "Con premisas ciertas, la deducción lleva a una conclusión segura."
+},
+{
+"pregunta": "¿Hacia dónde va la deducción?",
+"opciones": [
+"De lo general a lo particular",
+"De lo particular a lo general",
+"De lo difícil a lo fácil"
+],
+"correcta": 0,
+"porque": "Va de la regla al caso."
+}
+],
+"falacias-formales-e-informales-prepa": [
+{
+"pregunta": "Un perro te mordió y dices que todos los perros muerden. ¿Qué falacia es?",
+"opciones": [
+"Ad hominem",
+"Autoridad falsa",
+"Generalización apresurada"
+],
+"correcta": 2,
+"porque": "Se generaliza con un solo caso."
+},
+{
+"pregunta": "¿Qué falacia ataca a la persona y no a sus razones?",
+"opciones": [
+"Afirmar el consecuente",
+"Causa falsa",
+"Ad hominem"
+],
+"correcta": 2,
+"porque": "Ad hominem ataca a quien habla y no a lo que dice."
+},
+{
+"pregunta": "Se mojó la calle, ¿seguro llovió?",
+"opciones": [
+"Sí, por el agua",
+"Sí, siempre es lluvia",
+"No, pudo ser otra causa"
+],
+"correcta": 2,
+"porque": "Pudo mojarse por una manguera, así que afirmar el consecuente es falaz."
+},
+{
+"pregunta": "Sacaste mala nota el día que estrenaste zapatos y culpas a los zapatos. ¿Qué falacia es?",
+"opciones": [
+"Generalización apresurada",
+"Causa falsa",
+"Ad hominem"
+],
+"correcta": 1,
+"porque": "Dos cosas ocurren juntas, pero una no causa la otra."
+},
+{
+"pregunta": "¿Qué diferencia hay entre falacias formales e informales?",
+"opciones": [
+"Forma lógica o contenido",
+"Su color o su tamaño",
+"Si son largas o cortas"
+],
+"correcta": 0,
+"porque": "Las formales fallan en la forma y las informales en el contenido."
+}
+],
+"filosofia-politica-realidad-social-preparatoria": [
+{
+"pregunta": "¿Qué estudia la filosofía política?",
+"opciones": [
+"Cómo organizar la sociedad",
+"Cómo cocinar rápido",
+"Cómo bailar mejor"
+],
+"correcta": 0,
+"porque": "Pregunta cómo debería organizarse una sociedad."
+},
+{
+"pregunta": "Repartir un premio del grupo de forma justa toca el tema de...",
+"opciones": [
+"La moda del año",
+"La justicia",
+"El clima de hoy"
+],
+"correcta": 1,
+"porque": "La justicia se refiere al reparto justo."
+},
+{
+"pregunta": "Algunas comunidades casi no tienen internet. ¿Qué problema político es?",
+"opciones": [
+"Exceso de lluvia",
+"Desigualdad de acceso",
+"Falta de música"
+],
+"correcta": 1,
+"porque": "Se trata de una desigualdad social."
+},
+{
+"pregunta": "¿Cuál es una pregunta política?",
+"opciones": [
+"¿Por qué obedecemos?",
+"¿De qué color es?",
+"¿Qué hora es ahora?"
+],
+"correcta": 0,
+"porque": "La filosofía política pregunta por qué obedecemos."
+},
+{
+"pregunta": "¿Qué haces para analizar un problema social?",
+"opciones": [
+"Describir, comparar y argumentar",
+"Gritar mi opinión",
+"Copiar la noticia"
+],
+"correcta": 0,
+"porque": "Se describe, se buscan posturas y se da un argumento."
+}
+],
+"logica-proposicional-prepa": [
+{
+"pregunta": "¿Qué símbolo representa la palabra y?",
+"opciones": [
+"$\\lor$",
+"$\\land$",
+"$\\neg$"
+],
+"correcta": 1,
+"porque": "El símbolo $\\land$ es la conjunción, la y."
+},
+{
+"pregunta": "¿Qué significa $\\neg p$ si $p$ es llueve?",
+"opciones": [
+"Llueve mucho",
+"Llueve o no",
+"No llueve"
+],
+"correcta": 2,
+"porque": "El símbolo $\\neg$ significa no."
+},
+{
+"pregunta": "¿Es proposición ¡Ven! ?",
+"opciones": [
+"Sí, es falsa",
+"Sí, es cierta",
+"No, no es cierta ni falsa"
+],
+"correcta": 2,
+"porque": "Una orden no es verdadera ni falsa."
+},
+{
+"pregunta": "¿Cómo escribes llueve o hace frío?",
+"opciones": [
+"$p \\to q$",
+"$p \\lor q$",
+"$p \\land q$"
+],
+"correcta": 1,
+"porque": "La letra o se escribe con $\\lor$."
+},
+{
+"pregunta": "¿Cómo escribes si estudio, entonces apruebo?",
+"opciones": [
+"$p \\to q$",
+"$p \\land q$",
+"$p \\lor q$"
+],
+"correcta": 0,
+"porque": "El si entonces se escribe con la flecha $\\to$."
+}
+],
+"premisas-y-conclusion-prepa": [
+{
+"pregunta": "¿Qué palabras señalan una conclusión?",
+"opciones": [
+"Por lo tanto, señala conclusión",
+"Ya que, señala premisa",
+"Porque, señala una premisa"
+],
+"correcta": 0,
+"porque": "Por lo tanto y entonces señalan la conclusión del argumento."
+},
+{
+"pregunta": "Llueve, por lo tanto, llevo paraguas. ¿Cuál es la conclusión?",
+"opciones": [
+"Llevo paraguas",
+"Llueve",
+"Por lo tanto"
+],
+"correcta": 0,
+"porque": "La conclusión viene después de por lo tanto."
+},
+{
+"pregunta": "¿Qué palabra señala una premisa?",
+"opciones": [
+"Por lo tanto",
+"Porque",
+"Entonces"
+],
+"correcta": 1,
+"porque": "Porque y ya que señalan premisas."
+},
+{
+"pregunta": "¿Qué palabra anuncia una conclusión?",
+"opciones": [
+"Por lo tanto",
+"Porque sí",
+"Ya que sí"
+],
+"correcta": 0,
+"porque": "Por lo tanto y entonces anuncian la conclusión."
+},
+{
+"pregunta": "Todos los mamíferos respiran aire y las ballenas son mamíferos. ¿Qué concluyes?",
+"opciones": [
+"Viven en el aire",
+"Respiran aire",
+"Son peces"
+],
+"correcta": 1,
+"porque": "Las dos premisas llevan a esa conclusión."
+}
+],
+"reflexion-filosofica-problemas-contemporaneos-preparatoria": [
+{
+"pregunta": "¿Qué es una tesis argumentada?",
+"opciones": [
+"Lo que piensas sin pruebas",
+"Lo que piensas, con razones",
+"Lo que dijo el vecino"
+],
+"correcta": 1,
+"porque": "La tesis argumentada lleva razones y ejemplos."
+},
+{
+"pregunta": "¿Qué paso va primero al reflexionar?",
+"opciones": [
+"Plantear el problema",
+"Dar mi tesis final",
+"Responder a los otros"
+],
+"correcta": 0,
+"porque": "Primero se plantea el problema."
+},
+{
+"pregunta": "Piensas sobre el celular en clase. ¿Qué haces después de plantear el problema?",
+"opciones": [
+"Reúno puntos de vista",
+"Me quedo callado",
+"Prohíbo todo ya"
+],
+"correcta": 0,
+"porque": "Después se reúnen distintos puntos de vista."
+},
+{
+"pregunta": "¿Qué mira el tercer paso de la reflexión?",
+"opciones": [
+"El color del salón",
+"Lo ético, social y cultural",
+"La hora de salida"
+],
+"correcta": 1,
+"porque": "Se miran las consecuencias éticas, sociales y culturales."
+},
+{
+"pregunta": "¿Qué haces con quien piensa distinto?",
+"opciones": [
+"Me burlo de su idea",
+"Respondo con razones",
+"Lo ignoro del todo"
+],
+"correcta": 1,
+"porque": "El último paso es responder a quien piensa distinto."
+}
+]
+}

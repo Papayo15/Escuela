@@ -1,0 +1,522 @@
+{
+"too-y-enough-prepa": [
+{
+"pregunta": "¿Cuál frase dice que la sopa quema demasiado?",
+"opciones": [
+"The soup is hot too.",
+"The soup is too hot.",
+"The soup is enough hot."
+],
+"correcta": 1,
+"porque": "Too va antes del adjetivo y significa demasiado."
+},
+{
+"pregunta": "¿Dónde va enough con un adjetivo?",
+"opciones": [
+"He is tall enough.",
+"He is enough tall.",
+"He enough is tall."
+],
+"correcta": 0,
+"porque": "Enough va después del adjetivo."
+},
+{
+"pregunta": "¿Cuál frase dice que hay suficiente tiempo?",
+"opciones": [
+"We have too time.",
+"We have time enough of.",
+"We have enough time."
+],
+"correcta": 2,
+"porque": "Con un sustantivo, enough va antes: enough time."
+},
+{
+"pregunta": "¿Qué significa \"too young to drive\"?",
+"opciones": [
+"Es suficientemente joven para manejar.",
+"Es demasiado joven para manejar.",
+"Es joven y sabe manejar."
+],
+"correcta": 1,
+"porque": "Too tiene un sentido negativo: algo sobra y causa problema."
+},
+{
+"pregunta": "¿Cuál frase dice que Ana ya tiene edad suficiente?",
+"opciones": [
+"Ana is old enough.",
+"Ana is too old.",
+"Ana is enough old."
+],
+"correcta": 0,
+"porque": "Old enough va después del adjetivo y dice que alcanza."
+}
+],
+"consolidar-ingles-produccion-guiada-prepa": [
+{
+"pregunta": "¿Qué es producción guiada?",
+"opciones": [
+"Escribir sin leer ningún modelo.",
+"Seguir un modelo y cambiar los datos.",
+"Copiar el modelo sin cambiar nada."
+],
+"correcta": 1,
+"porque": "Cambias personas, lugares y verbos para crear tu propia versión."
+},
+{
+"pregunta": "Modelo: \"Yesterday I went to the clinic.\" ¿Cuál es una versión tuya?",
+"opciones": [
+"Last Sunday I goed to my aunt's house.",
+"Last Sunday I went to my aunt's house.",
+"Last Sunday I go to my aunt's house."
+],
+"correcta": 1,
+"porque": "Went es el pasado irregular de go."
+},
+{
+"pregunta": "Quieres decir que está prohibido correr en el pasillo. ¿Qué usas?",
+"opciones": [
+"You don't must run in the hall.",
+"You must run in the hall.",
+"You mustn't run in the hall."
+],
+"correcta": 2,
+"porque": "Mustn't expresa una prohibición."
+},
+{
+"pregunta": "¿Qué conectores ayudan a ordenar pasos?",
+"opciones": [
+"must, can, should",
+"but, because, can",
+"first, then, finally"
+],
+"correcta": 2,
+"porque": "First, then y finally marcan el orden de los pasos."
+},
+{
+"pregunta": "¿Qué ayuda a fijar el sonido del inglés?",
+"opciones": [
+"Solo leer en silencio.",
+"Hablar en voz alta.",
+"Solo copiar palabras."
+],
+"correcta": 1,
+"porque": "Hablar fija el sonido, y escribir fija la forma."
+}
+],
+"could-y-would-prepa": [
+{
+"pregunta": "¿Cuál frase pide algo de forma amable?",
+"opciones": [
+"Help me could you.",
+"Could you help me?",
+"You could help me now."
+],
+"correcta": 1,
+"porque": "Could you...? es una petición cortés."
+},
+{
+"pregunta": "¿Cuál frase dice una habilidad en el pasado?",
+"opciones": [
+"I would swam at five.",
+"I can swim at five years ago.",
+"I could swim at five."
+],
+"correcta": 2,
+"porque": "Could también habla de lo que sabías hacer antes."
+},
+{
+"pregunta": "Quieres pedir un jugo con cortesía. ¿Qué dices?",
+"opciones": [
+"I would like some juice.",
+"I am wanting some juice.",
+"I would likes some juice."
+],
+"correcta": 0,
+"porque": "Would like es una forma amable de pedir."
+},
+{
+"pregunta": "Un compañero necesita abrir la puerta. ¿Qué le pides con cortesía?",
+"opciones": [
+"Would you open the door?",
+"Would you opening the door?",
+"You open the door now."
+],
+"correcta": 0,
+"porque": "Would you + verbo base suena amable."
+},
+{
+"pregunta": "Completa: I ___ go if I had time.",
+"opciones": [
+"could to",
+"am",
+"would"
+],
+"correcta": 2,
+"porque": "Would va con una condición y después va el verbo base."
+}
+],
+"describir-lugares-recomendaciones-ingles-prepa": [
+{
+"pregunta": "¿Qué frase recomienda un lugar?",
+"opciones": [
+"You should visit the museum.",
+"You should to visit the museum.",
+"You visit should the museum."
+],
+"correcta": 0,
+"porque": "Should se usa con el verbo base, sin to."
+},
+{
+"pregunta": "¿Cuál frase describe un parque con muchos árboles?",
+"opciones": [
+"It are many trees in the park.",
+"There is many trees in the park.",
+"There are many trees in the park."
+],
+"correcta": 2,
+"porque": "Con muchos árboles se usa There are."
+},
+{
+"pregunta": "¿Cómo dices que en el mercado puedes caminar?",
+"opciones": [
+"You can to walk in the market.",
+"You can walks in the market.",
+"You can walk in the market."
+],
+"correcta": 2,
+"porque": "Can se usa con el verbo base."
+},
+{
+"pregunta": "¿Cuál frase da información básica de un lugar?",
+"opciones": [
+"It's open since nine five.",
+"It's open from nine to five.",
+"It open from nine to five."
+],
+"correcta": 1,
+"porque": "It's open from... to... dice el horario."
+},
+{
+"pregunta": "¿Cuál es una recomendación amable?",
+"opciones": [
+"I recommends visiting library.",
+"I recommend visiting the library.",
+"I recommend visit the library."
+],
+"correcta": 1,
+"porque": "Después de recommend se usa el verbo con -ing."
+}
+],
+"for-y-since-prepa": [
+{
+"pregunta": "Completa: I have studied English ___ three years.",
+"opciones": [
+"ago",
+"for",
+"since"
+],
+"correcta": 1,
+"porque": "For se usa con una duración, como three years."
+},
+{
+"pregunta": "Completa: She has lived here ___ 2018.",
+"opciones": [
+"for",
+"during",
+"since"
+],
+"correcta": 2,
+"porque": "Since se usa con un punto de inicio, como 2018."
+},
+{
+"pregunta": "Completa: We have waited ___ Monday.",
+"opciones": [
+"for",
+"at",
+"since"
+],
+"correcta": 2,
+"porque": "Monday es el momento en que empezó, así que va since."
+},
+{
+"pregunta": "¿Cuál pregunta dice cuánto tiempo llevas estudiando?",
+"opciones": [
+"How long you studied?",
+"How long have you studied?",
+"How many have you studied?"
+],
+"correcta": 1,
+"porque": "How long have you...? pregunta por la duración."
+},
+{
+"pregunta": "Completa: Luis has been in my class ___ two weeks.",
+"opciones": [
+"since",
+"for",
+"from"
+],
+"correcta": 1,
+"porque": "Two weeks es duración, por eso se usa for."
+}
+],
+"habitos-frecuencia-preferencias-ingles-prepa": [
+{
+"pregunta": "¿Cuál frase está bien ordenada?",
+"opciones": [
+"I usually do my homework at night.",
+"Usually I does my homework at night.",
+"I do usually my homework at night."
+],
+"correcta": 0,
+"porque": "El adverbio de frecuencia va antes del verbo."
+},
+{
+"pregunta": "¿Cuál frase dice que ella nunca llega tarde?",
+"opciones": [
+"She never is late.",
+"She is never late.",
+"She is late never."
+],
+"correcta": 1,
+"porque": "Con to be, el adverbio va después: is never."
+},
+{
+"pregunta": "¿Cómo preguntas cuántas veces por semana hace ejercicio?",
+"opciones": [
+"How often do you exercise?",
+"How often you exercise?",
+"How many do you exercise?"
+],
+"correcta": 0,
+"porque": "How often pregunta por la frecuencia."
+},
+{
+"pregunta": "¿Cuál frase dice que prefieres té al café?",
+"opciones": [
+"I prefers tea to coffee.",
+"I prefer tea than coffee.",
+"I prefer tea to coffee."
+],
+"correcta": 2,
+"porque": "Con prefer se usa to para comparar dos opciones."
+},
+{
+"pregunta": "¿Cuál frase está bien en negativa?",
+"opciones": [
+"He doesn't like football.",
+"He doesn't likes football.",
+"He don't like football."
+],
+"correcta": 0,
+"porque": "Con doesn't el verbo queda en forma base."
+}
+],
+"instrucciones-direcciones-ingles-prepa": [
+{
+"pregunta": "¿Cuál frase pide cómo llegar de forma cortés?",
+"opciones": [
+"Excuse me, library how I get?",
+"Excuse me, how do I get to the library?",
+"You tell me library where now."
+],
+"correcta": 1,
+"porque": "Excuse me ayuda a pedir con cortesía."
+},
+{
+"pregunta": "¿Cuál instrucción es correcta?",
+"opciones": [
+"You go straight and crossing the street.",
+"Going straight and cross street.",
+"Go straight and cross the street."
+],
+"correcta": 2,
+"porque": "Las instrucciones usan el verbo base sin sujeto."
+},
+{
+"pregunta": "¿Qué significa \"across from\"?",
+"opciones": [
+"entre",
+"enfrente de",
+"junto a"
+],
+"correcta": 1,
+"porque": "Across from dice que algo está del otro lado."
+},
+{
+"pregunta": "¿Qué conector va primero en una secuencia?",
+"opciones": [
+"After that",
+"Finally",
+"First"
+],
+"correcta": 2,
+"porque": "First significa primero y abre los pasos."
+},
+{
+"pregunta": "Quieres decir que no olviden su identificación. ¿Qué frase usas?",
+"opciones": [
+"Don't forgets your ID.",
+"No forget your ID.",
+"Don't forget your ID."
+],
+"correcta": 2,
+"porque": "Don't y el verbo base forman una orden negativa."
+}
+],
+"might-y-may-prepa": [
+{
+"pregunta": "¿Cuál frase dice que quizá llueve?",
+"opciones": [
+"It might to rain.",
+"It might rains.",
+"It might rain."
+],
+"correcta": 2,
+"porque": "Después de might va el verbo base."
+},
+{
+"pregunta": "¿Cuál frase pide permiso formal?",
+"opciones": [
+"I may come in you?",
+"May I come in?",
+"Do I may come in?"
+],
+"correcta": 1,
+"porque": "May I...? es una forma formal de pedir permiso."
+},
+{
+"pregunta": "Corrige: \"She mights go.\"",
+"opciones": [
+"She might go.",
+"She might goes.",
+"She mights goes."
+],
+"correcta": 0,
+"porque": "Might no cambia con she ni lleva -s."
+},
+{
+"pregunta": "¿Cómo dices que quizá no vengas?",
+"opciones": [
+"I might not come.",
+"I not might come.",
+"I might don't come."
+],
+"correcta": 0,
+"porque": "Para negar se agrega not después de might."
+},
+{
+"pregunta": "¿Qué significa \"He may come\"?",
+"opciones": [
+"Seguro viene.",
+"Quizá venga.",
+"No puede venir."
+],
+"correcta": 1,
+"porque": "May expresa una posibilidad."
+}
+],
+"must-be-y-cant-be-para-deducir-prepa": [
+{
+"pregunta": "Tu amiga bosteza mucho. ¿Qué frase deduce algo casi seguro?",
+"opciones": [
+"She can't be tired.",
+"She might to be tired.",
+"She must be tired."
+],
+"correcta": 2,
+"porque": "Must be dice que es casi seguro que sí."
+},
+{
+"pregunta": "Dices: \"That can't be Tom.\" ¿Qué significa?",
+"opciones": [
+"Ese quizá sea Tom.",
+"Ese debe ser Tom.",
+"Ese no puede ser Tom."
+],
+"correcta": 2,
+"porque": "Can't be significa que casi seguro que no."
+},
+{
+"pregunta": "Quizá tu maestro está en la oficina. ¿Cuál frase usas?",
+"opciones": [
+"He might be in the office.",
+"He must be in the office.",
+"He can't be in the office."
+],
+"correcta": 0,
+"porque": "Might be significa quizá."
+},
+{
+"pregunta": "¿\"You must be tired\" es una orden?",
+"opciones": [
+"Sí, debes descansar ahora.",
+"No, significa debes de estar cansado.",
+"Sí, está prohibido cansarte."
+],
+"correcta": 1,
+"porque": "Al deducir, must be no manda, solo dice que es casi seguro."
+},
+{
+"pregunta": "Tu amigo acaba de comer mucho. ¿Qué frase es lógica?",
+"opciones": [
+"He can't be hungry.",
+"He must be hungry.",
+"He might hungry be."
+],
+"correcta": 0,
+"porque": "Si comió mucho, casi seguro que no tiene hambre."
+}
+],
+"must-have-to-y-should-prepa": [
+{
+"pregunta": "¿Qué frase da un consejo?",
+"opciones": [
+"You should drink water.",
+"You must drink water.",
+"You mustn't drink water."
+],
+"correcta": 0,
+"porque": "Should sirve para aconsejar."
+},
+{
+"pregunta": "¿Qué significa \"You mustn't run here\"?",
+"opciones": [
+"Está prohibido correr aquí.",
+"Debes correr aquí.",
+"No es necesario correr aquí."
+],
+"correcta": 0,
+"porque": "Mustn't expresa una prohibición."
+},
+{
+"pregunta": "¿Qué significa \"You don't have to come\"?",
+"opciones": [
+"Está prohibido que vengas.",
+"No es necesario que vengas.",
+"Debes venir ya."
+],
+"correcta": 1,
+"porque": "Don't have to dice que no hace falta, pero se permite."
+},
+{
+"pregunta": "¿Cuál frase dice una obligación externa?",
+"opciones": [
+"I should to work on Sunday.",
+"I have to work on Sunday.",
+"I mustn't work on Sunday."
+],
+"correcta": 1,
+"porque": "Have to se usa para obligaciones que vienen de fuera."
+},
+{
+"pregunta": "¿Cuál frase usa must para una regla?",
+"opciones": [
+"You must to wear a seat belt.",
+"You must wearing a seat belt.",
+"You must wear a seat belt."
+],
+"correcta": 2,
+"porque": "Después de must va el verbo base."
+}
+]
+}

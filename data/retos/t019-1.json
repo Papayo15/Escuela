@@ -1,0 +1,522 @@
+{
+"educacion-integral-sexualidad-secundaria": [
+{
+"pregunta": "Un compañero te presiona para algo que no quieres. ¿Qué haces?",
+"opciones": [
+"Dices que no y avisas a un adulto de confianza",
+"Te quedas callado y no cuentas a nadie",
+"Lo haces para que no se enoje contigo"
+],
+"correcta": 0,
+"porque": "Decir que no y avisar a un adulto te protege y es tu derecho."
+},
+{
+"pregunta": "Los cambios de la pubertad son...",
+"opciones": [
+"un castigo que debes esconder siempre",
+"algo raro que solo te pasa a ti",
+"normales y les pasan a todas las personas"
+],
+"correcta": 2,
+"porque": "La pubertad es una etapa normal por la que pasamos todos."
+},
+{
+"pregunta": "Si tienes una duda sobre tu cuerpo, ¿a quién le preguntas?",
+"opciones": [
+"A cualquier desconocido que encuentres en internet",
+"Solo a lo que dicen las redes sociales",
+"A tu familia, docentes o personal de salud"
+],
+"correcta": 2,
+"porque": "Las personas de confianza y de salud te dan información correcta."
+},
+{
+"pregunta": "¿Quién puede tocarte o presionarte si tú no quieres?",
+"opciones": [
+"Cualquier persona que lo pida bien",
+"Un amigo, si insiste mucho",
+"Nadie, y tú tampoco a los demás"
+],
+"correcta": 2,
+"porque": "Tu cuerpo es tuyo y se respeta, igual que el de los demás."
+},
+{
+"pregunta": "¿Qué quiere decir \"mi cuerpo, mis límites\"?",
+"opciones": [
+"Solo los adultos tienen límites en su cuerpo",
+"Tú decides qué te hace sentir cómodo",
+"Los límites cuentan únicamente cuando estás en casa"
+],
+"correcta": 1,
+"porque": "Cada persona decide sobre su cuerpo y los demás lo respetan."
+}
+],
+"elegir-carrera-u-oficio-secundaria": [
+{
+"pregunta": "¿Qué puedes preguntarte para elegir una carrera u oficio?",
+"opciones": [
+"¿Qué eligió mi vecino hace años?",
+"¿Cuál es el más fácil de todos?",
+"¿Qué me gusta y en qué soy bueno?"
+],
+"correcta": 2,
+"porque": "Pensar en lo que te gusta y lo que haces bien te guía mejor."
+},
+{
+"pregunta": "¿Cuánto vale un oficio frente a una carrera?",
+"opciones": [
+"Vale mucho menos que una carrera",
+"Vale igual de importante que una carrera",
+"Vale solo si tu familia lo aprueba"
+],
+"correcta": 1,
+"porque": "Un oficio es un trabajo valioso, igual que una carrera."
+},
+{
+"pregunta": "Elegiste un oficio, pero luego te gustó otra cosa. ¿Qué pasa?",
+"opciones": [
+"Debes seguir aunque no te guste nada",
+"Ya nunca puedes cambiar de decisión",
+"Puedes cambiar de idea y buscar otra opción"
+],
+"correcta": 2,
+"porque": "Está bien cambiar de idea mientras sigues aprendiendo."
+},
+{
+"pregunta": "¿Cómo averiguas cómo es un trabajo?",
+"opciones": [
+"Esperas a que alguien te lo cuente solo",
+"Hablas con alguien que lo hace",
+"Lo adivinas viendo la tele un rato"
+],
+"correcta": 1,
+"porque": "Quien hace el trabajo te cuenta cómo es en la realidad."
+},
+{
+"pregunta": "¿Qué cosas ayudan a elegir qué hacer de grande?",
+"opciones": [
+"Solo lo que escogen todos tus amigos",
+"Lo que te gusta, lo que haces bien y lo que la gente necesita",
+"Solo lo que está de moda esta semana"
+],
+"correcta": 1,
+"porque": "Se elige juntando gusto, habilidad y necesidad."
+}
+],
+"empatia-secundaria": [
+{
+"pregunta": "Tu compañero llora porque perdió su juguete. ¿Qué haces con empatía?",
+"opciones": [
+"Le digo que no es para tanto",
+"Me río para que se le pase",
+"Le pregunto cómo está y lo escucho"
+],
+"correcta": 2,
+"porque": "La empatía es entender lo que siente el otro y acompañarlo."
+},
+{
+"pregunta": "Tu compañero está triste en el recreo. ¿Qué haces?",
+"opciones": [
+"Le preguntas cómo está y lo escuchas",
+"Te ríes para animarlo rápido",
+"Le dices que no es para tanto"
+],
+"correcta": 0,
+"porque": "Preguntar y escuchar muestra que te importa cómo se siente."
+},
+{
+"pregunta": "Una amiga te cuenta algo difícil. ¿Qué es empatía?",
+"opciones": [
+"Ver tu celular mientras habla",
+"Contar tu historia enseguida",
+"Escuchar sin interrumpir"
+],
+"correcta": 2,
+"porque": "Escuchar con atención hace que la otra persona se sienta apoyada."
+},
+{
+"pregunta": "¿Cuál es una muestra de empatía?",
+"opciones": [
+"Ofrecer ayuda a quien la necesita",
+"Burlarte de quien se equivoca",
+"Ignorar a quien llora en clase"
+],
+"correcta": 0,
+"porque": "Ayudar es una forma de demostrar que entiendes al otro."
+},
+{
+"pregunta": "\"Ponerte en los zapatos del otro\" quiere decir...",
+"opciones": [
+"Hacer exactamente lo que ella hace",
+"Prestarle tus zapatos de verdad",
+"Imaginar cómo se siente esa persona"
+],
+"correcta": 2,
+"porque": "Es imaginar la situación como si te pasara a ti."
+}
+],
+"formas-de-ser-pensar-actuar-secundaria": [
+{
+"pregunta": "Dos niños pierden un partido: uno se enoja y el otro se ríe. ¿Qué muestra?",
+"opciones": [
+"Cada persona reacciona distinto",
+"Los dos sienten exactamente lo mismo",
+"Uno de los dos está equivocado"
+],
+"correcta": 0,
+"porque": "Con lo mismo que pasa, cada quien puede reaccionar a su manera."
+},
+{
+"pregunta": "¿Qué es \"actuar\"?",
+"opciones": [
+"Lo que haces ante lo que pasa",
+"Lo que te gusta de tu persona",
+"Lo que piensas sobre lo que pasa"
+],
+"correcta": 0,
+"porque": "Actuar es lo que haces, y pensar es cómo entiendes las cosas."
+},
+{
+"pregunta": "¿Qué es \"relacionarte\"?",
+"opciones": [
+"Cómo tratas a otras personas",
+"Qué materias te gustan más",
+"Cómo te ves en el espejo"
+],
+"correcta": 0,
+"porque": "Relacionarte es la forma en que tratas a los demás."
+},
+{
+"pregunta": "Para convivir con personas distintas conviene...",
+"opciones": [
+"Callar siempre lo que piensas",
+"Escuchar y decir lo que piensas sin ofender",
+"Convencerlos de pensar como tú"
+],
+"correcta": 1,
+"porque": "Escuchar y hablar con respeto ayuda a convivir mejor."
+},
+{
+"pregunta": "Notas a tu amiga triste y le preguntas cómo está. Eso es...",
+"opciones": [
+"Empatía, comprender lo que siente otra persona",
+"Enojo, porque te metes en su vida",
+"Chisme, porque quieres saber de más"
+],
+"correcta": 0,
+"porque": "Preguntar con interés por cómo está alguien es empatía."
+}
+],
+"manejar-el-enojo-secundaria": [
+{
+"pregunta": "Estás muy enojado con un compañero. ¿Qué haces primero?",
+"opciones": [
+"Le contestas lo más rápido posible",
+"Le gritas lo que piensas",
+"Te detienes y respiras hondo"
+],
+"correcta": 2,
+"porque": "Detenerte y respirar baja el enojo antes de actuar."
+},
+{
+"pregunta": "¿Cuántas veces respiras hondo para calmarte?",
+"opciones": [
+"2 veces",
+"5 veces",
+"9 veces"
+],
+"correcta": 1,
+"porque": "Respirar hondo cinco veces ayuda a que el cuerpo se calme."
+},
+{
+"pregunta": "¿Cuál frase dice tu enojo sin dañar?",
+"opciones": [
+"Siempre haces lo mismo, ya no te hablo",
+"Me siento enojado porque me quitaron mi lápiz",
+"Eres un tonto por quitarme mi lápiz"
+],
+"correcta": 1,
+"porque": "Decir cómo te sientes y por qué expresa el enojo sin ofender."
+},
+{
+"pregunta": "El enojo es como una olla hirviendo. ¿Qué haces?",
+"opciones": [
+"La destapas de golpe para que salga",
+"Le subes más fuego para que pase",
+"Le bajas el fuego antes de destaparla"
+],
+"correcta": 2,
+"porque": "Bajarle al enojo antes de hablar evita que te desborde."
+},
+{
+"pregunta": "¿Está bien golpear o insultar cuando te enojas?",
+"opciones": [
+"Sí, así te desahogas más rápido",
+"No, puedes alejarte un momento para calmarte",
+"Sí, si la otra persona empezó primero"
+],
+"correcta": 1,
+"porque": "Golpear o insultar daña, mejor aléjate y cálmate."
+}
+],
+"metas-a-corto-y-largo-plazo-secundaria": [
+{
+"pregunta": "¿Qué es una meta a largo plazo?",
+"opciones": [
+"Algo que harás hoy en la tarde",
+"Algo que ya lograste ayer",
+"Algo que lograrás en meses o años"
+],
+"correcta": 2,
+"porque": "Largo plazo significa que tarda meses o años en lograrse."
+},
+{
+"pregunta": "¿Cuál es una buena meta?",
+"opciones": [
+"Leer 10 páginas diarias esta semana",
+"Leer más cosas en la escuela",
+"Leer bien algún día"
+],
+"correcta": 0,
+"porque": "Es clara, medible y tiene fecha."
+},
+{
+"pregunta": "Haz medible esta meta: \"Hacer más ejercicio\".",
+"opciones": [
+"Correr 15 minutos tres veces por semana",
+"Correr cuando tenga muchas ganas",
+"Moverme bastante cuando pueda"
+],
+"correcta": 0,
+"porque": "Los números y los días hacen que la meta se pueda medir."
+},
+{
+"pregunta": "¿Cuánto tiempo dura una meta a corto plazo?",
+"opciones": [
+"Más de diez años",
+"Varios años seguidos",
+"Unos días o semanas"
+],
+"correcta": 2,
+"porque": "Corto plazo es lo que logras en días o semanas."
+},
+{
+"pregunta": "Una buena meta debe ser...",
+"opciones": [
+"Secreta y sin pasos",
+"Clara, medible y con fecha",
+"Muy grande y sin fecha"
+],
+"correcta": 1,
+"porque": "Con esas tres cosas sabes si la lograste."
+}
+],
+"organizar-mi-tiempo-secundaria": [
+{
+"pregunta": "¿Qué haces primero para organizar tu tiempo?",
+"opciones": [
+"Una lista de lo que debes hacer",
+"Ver tele hasta cansarte",
+"Dejar la tarea para el final"
+],
+"correcta": 0,
+"porque": "La lista te ayuda a ver todo lo que tienes pendiente."
+},
+{
+"pregunta": "Tienes una tarea importante y ganas de jugar. ¿Qué va primero?",
+"opciones": [
+"La tarea, y después juegas un rato",
+"Ninguna, esperas a que te avisen",
+"El juego, y la tarea al final"
+],
+"correcta": 0,
+"porque": "Primero va lo importante y luego lo que más disfrutas."
+},
+{
+"pregunta": "¿Tu horario debe tener tiempo para descansar?",
+"opciones": [
+"Sí, para recuperar energía",
+"No, descansar es perder tiempo",
+"Solo los domingos del mes"
+],
+"correcta": 0,
+"porque": "Descansar te ayuda a rendir mejor después."
+},
+{
+"pregunta": "Tu día es como una mochila. ¿Qué acomodas primero?",
+"opciones": [
+"Lo que menos pesa",
+"Lo más importante",
+"Lo más fácil de hacer"
+],
+"correcta": 1,
+"porque": "Lo importante se acomoda primero para que no falte."
+},
+{
+"pregunta": "¿Para qué sirve un horario semanal?",
+"opciones": [
+"Para saber cuándo hacer cada actividad",
+"Para tener más horas en el día",
+"Para que el tiempo pase más lento"
+],
+"correcta": 0,
+"porque": "Un horario ordena tus actividades para que alcance el tiempo."
+}
+],
+"prevencion-situaciones-de-riesgo-secundaria": [
+{
+"pregunta": "Un desconocido en internet te pide tu dirección. ¿Qué haces?",
+"opciones": [
+"No la das y avisas a un adulto",
+"La das si parece muy amable",
+"La das, pero solo la calle"
+],
+"correcta": 0,
+"porque": "Tus datos no se comparten y un adulto te puede cuidar."
+},
+{
+"pregunta": "¿Cuál es una señal de riesgo?",
+"opciones": [
+"Te felicitan por tu tarea",
+"Te piden guardar un secreto",
+"Te invitan a jugar en equipo"
+],
+"correcta": 1,
+"porque": "Un secreto que te incomoda es una señal para pedir ayuda."
+},
+{
+"pregunta": "Te presionan para probar algo peligroso. ¿Qué dices?",
+"opciones": [
+"Bueno, solo una vez",
+"No quiero, me voy",
+"Déjame pensarlo hasta el sábado"
+],
+"correcta": 1,
+"porque": "Decir no con firmeza y alejarte te protege."
+},
+{
+"pregunta": "Prevenir es como ver un semáforo en rojo. ¿Qué significa?",
+"opciones": [
+"Esperar a que el peligro te alcance",
+"Notar el peligro antes de que te dañe",
+"Cruzar rápido para ganar tiempo"
+],
+"correcta": 1,
+"porque": "Prevenir es ver el peligro y evitarlo a tiempo."
+},
+{
+"pregunta": "Pedir ayuda a un adulto de confianza es...",
+"opciones": [
+"Una muestra de valentía",
+"Una pérdida de tiempo",
+"Una muestra de debilidad"
+],
+"correcta": 0,
+"porque": "Pedir ayuda es de valientes y te mantiene a salvo."
+}
+],
+"proyecto-de-vida-secundaria": [
+{
+"pregunta": "¿Cómo debe ser una buena meta del proyecto de vida?",
+"opciones": [
+"Que se pueda medir con números",
+"Que sea vaga para no fallar",
+"Que no tenga ningún plazo"
+],
+"correcta": 0,
+"porque": "Una buena meta se puede medir, como subir a 8 en matemáticas."
+},
+{
+"pregunta": "¿Cuál es el primer paso para armarlo?",
+"opciones": [
+"Elegir lo que más ganó tu vecino",
+"Copiar el plan de un amigo",
+"Conocerte: qué te gusta y qué se te da"
+],
+"correcta": 2,
+"porque": "Empiezas conociéndote para decidir mejor tus metas."
+},
+{
+"pregunta": "¿Puede cambiar tu proyecto de vida?",
+"opciones": [
+"No, debes seguirlo igual siempre",
+"Solo si tu maestro lo permite",
+"Sí, lo revisas y lo ajustas"
+],
+"correcta": 2,
+"porque": "Con el tiempo cambias y tu plan también puede cambiar."
+},
+{
+"pregunta": "¿Cuál meta se puede medir?",
+"opciones": [
+"Subir a 8 en mate estudiando 30 minutos diarios",
+"Que las matemáticas me gusten más",
+"Ser mejor en mate algún día"
+],
+"correcta": 0,
+"porque": "Tiene número y acción clara, así sabes si la lograste."
+},
+{
+"pregunta": "Hacer un proyecto de vida es como planear un viaje. ¿Qué decides?",
+"opciones": [
+"Nada, vas improvisando",
+"Solo qué maleta compras",
+"A dónde vas y qué necesitas"
+],
+"correcta": 2,
+"porque": "Defines el destino y lo que necesitas para llegar."
+}
+],
+"reconocer-mis-emociones-secundaria": [
+{
+"pregunta": "¿Las emociones son malas?",
+"opciones": [
+"Sí, hay que evitarlas todas",
+"Solo las de tristeza y enojo",
+"No, todas son válidas"
+],
+"correcta": 2,
+"porque": "Todas las emociones son válidas, lo importante es qué haces con ellas."
+},
+{
+"pregunta": "¿Dónde puedes sentir el miedo en el cuerpo?",
+"opciones": [
+"Solo en las uñas de la mano",
+"En ninguna parte del cuerpo",
+"En el estómago o en el pecho"
+],
+"correcta": 2,
+"porque": "Cada quien siente las emociones en un lugar distinto del cuerpo."
+},
+{
+"pregunta": "¿Cuál es una emoción básica?",
+"opciones": [
+"Mochila",
+"Lunes",
+"Sorpresa"
+],
+"correcta": 2,
+"porque": "La sorpresa es una de las emociones básicas junto con alegría y miedo."
+},
+{
+"pregunta": "Sientes mariposas en la panza antes de exponer. ¿Qué haces primero?",
+"opciones": [
+"Salirte del salón sin avisar",
+"Fingir que no sientes nada",
+"Ponerle nombre a lo que sientes"
+],
+"correcta": 2,
+"porque": "Nombrar la emoción es el primer paso para manejarla."
+},
+{
+"pregunta": "Lo más importante de una emoción es...",
+"opciones": [
+"Que nadie la note",
+"Qué haces con ella",
+"Que dure muy poco"
+],
+"correcta": 1,
+"porque": "Sentir no es malo, lo que importa es cómo actúas."
+}
+]
+}

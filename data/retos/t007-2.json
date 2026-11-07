@@ -1,0 +1,574 @@
+{
+"textos-explicativos-primaria": [
+{
+"pregunta": "¿Qué dice un texto explicativo?",
+"opciones": [
+"Un cuento con final feliz",
+"Solo opiniones de quien escribe",
+"Por qué o cómo pasa algo"
+],
+"correcta": 2,
+"porque": "El texto explicativo aclara por qué o cómo ocurre algo."
+},
+{
+"pregunta": "¿Cuáles son las tres partes de un texto explicativo?",
+"opciones": [
+"Introducción, desarrollo y cierre",
+"Título, dibujo y rima",
+"Saludo, tesis y firma"
+],
+"correcta": 0,
+"porque": "Primero presentas, luego explicas y al final cierras."
+},
+{
+"pregunta": "Completa: *Hacía frío, ___ me puse suéter.*",
+"opciones": [
+"aunque",
+"por eso",
+"porque"
+],
+"correcta": 1,
+"porque": "*Por eso* une la causa con lo que pasó después."
+},
+{
+"pregunta": "Completa: *El hielo se derrite ___ le llega calor.*",
+"opciones": [
+"pero no",
+"porque",
+"por eso"
+],
+"correcta": 1,
+"porque": "*Porque* introduce la razón de que el hielo se derrita."
+},
+{
+"pregunta": "Explicas en tu escuela por qué se forman las nubes. ¿Qué parte presenta el tema?",
+"opciones": [
+"El cierre",
+"El desarrollo",
+"La introducción"
+],
+"correcta": 2,
+"porque": "La introducción presenta el tema antes de explicarlo."
+}
+],
+"textos-informativos-primaria": [
+{
+"pregunta": "¿Cuál oración es un dato?",
+"opciones": [
+"El sapo es un anfibio.",
+"Mi sapo es el más bonito.",
+"Los sapos dan mucho miedo."
+],
+"correcta": 0,
+"porque": "Un dato se puede comprobar."
+},
+{
+"pregunta": "¿Para qué sirven los subtítulos?",
+"opciones": [
+"Para decorar la hoja del texto",
+"Para separar el tema en partes y encontrar lo que buscas",
+"Para decir quién escribió el texto"
+],
+"correcta": 1,
+"porque": "Los subtítulos organizan la información."
+},
+{
+"pregunta": "Quieres saber qué comen las tortugas. ¿Qué haces primero?",
+"opciones": [
+"Pregunto solo a un amigo y ya",
+"Escribo una pregunta y busco la respuesta",
+"Copio todo un libro completo"
+],
+"correcta": 1,
+"porque": "Una pregunta clara guía tu búsqueda."
+},
+{
+"pregunta": "¿Qué te dice el título de un texto informativo?",
+"opciones": [
+"Quién lo leyó antes",
+"Cuántas hojas tiene",
+"De qué trata"
+],
+"correcta": 2,
+"porque": "El título dice de qué trata el texto."
+},
+{
+"pregunta": "Buscas dos datos de un volcán. ¿Cuál sirve?",
+"opciones": [
+"Me da miedo verlo de cerca.",
+"Está formado por roca y lava.",
+"Es el más bonito de todos."
+],
+"correcta": 1,
+"porque": "Es un dato que puedes comprobar."
+}
+],
+"textos-servicios-publicos-primaria": [
+{
+"pregunta": "¿Qué es un formulario?",
+"opciones": [
+"Un cuento sobre los servicios públicos",
+"Una canción para pedir ayuda",
+"Una hoja donde llenas tus datos para un trámite"
+],
+"correcta": 2,
+"porque": "Los formularios sirven para trámites como pagar luz o agua."
+},
+{
+"pregunta": "¿Qué servicio público trae el agua a tu casa?",
+"opciones": [
+"La tienda de la esquina",
+"El servicio de correo de mascotas",
+"El servicio de agua potable"
+],
+"correcta": 2,
+"porque": "El agua potable es un servicio público."
+},
+{
+"pregunta": "¿Por qué se usa lenguaje formal en una solicitud?",
+"opciones": [
+"Para que nadie lo entienda",
+"Para mostrar respeto y que te tomen en serio",
+"Para que el texto sea más largo"
+],
+"correcta": 1,
+"porque": "El lenguaje formal se entiende claro y muestra respeto."
+},
+{
+"pregunta": "¿Qué debe llevar una solicitud completa?",
+"opciones": [
+"Qué pasa, dónde, desde cuándo, fecha y firma",
+"Solo el nombre de quien escribe",
+"Un dibujo y una canción"
+],
+"correcta": 0,
+"porque": "Con esos datos, quien la lea sabe cómo ayudarte."
+},
+{
+"pregunta": "¿Cuál petición está bien escrita?",
+"opciones": [
+"La calle está muy fea y nadie hace nada.",
+"Solicito que reparen la lámpara de la calle Sol.",
+"Arréglenla ya."
+],
+"correcta": 1,
+"porque": "Dice qué pides y dónde, con respeto."
+}
+],
+"tiempos-verbales-presente-pasado-y-futuro-primaria": [
+{
+"pregunta": "¿En qué tiempo está *jugaré*?",
+"opciones": [
+"Pasado",
+"Presente",
+"Futuro"
+],
+"correcta": 2,
+"porque": "*Jugaré* dice lo que va a ocurrir después."
+},
+{
+"pregunta": "¿Qué palabra pista indica que algo va a ocurrir?",
+"opciones": [
+"mañana",
+"hoy",
+"ayer"
+],
+"correcta": 0,
+"porque": "*Mañana* es una palabra pista de futuro."
+},
+{
+"pregunta": "Pasa a presente: *Ayer leí un libro.*",
+"opciones": [
+"Mañana leeré un libro.",
+"Hoy leo un libro.",
+"Hoy leí un libro."
+],
+"correcta": 1,
+"porque": "En presente la acción ocurre ahora, con *hoy*."
+},
+{
+"pregunta": "¿Qué palabra es pista de futuro?",
+"opciones": [
+"anoche",
+"mañana",
+"ayer"
+],
+"correcta": 1,
+"porque": "*Mañana* indica que algo va a ocurrir."
+},
+{
+"pregunta": "¿Cuál oración está en futuro?",
+"opciones": [
+"El viernes pasado fui a la biblioteca.",
+"Voy ahora a la biblioteca.",
+"Este viernes iré a la biblioteca."
+],
+"correcta": 2,
+"porque": "*Iré* es futuro porque aún no ocurre."
+}
+],
+"triptico-informativo-prevencion-primaria": [
+{
+"pregunta": "¿Qué es un tríptico?",
+"opciones": [
+"Una hoja doblada en tres partes",
+"Un libro de muchas páginas",
+"Un cartel de una sola hoja grande"
+],
+"correcta": 0,
+"porque": "Tríptico significa que tiene tres partes al doblarse."
+},
+{
+"pregunta": "¿Qué lleva la portada de un tríptico?",
+"opciones": [
+"Solo la firma de quien lo hizo",
+"Todas las explicaciones largas",
+"Un título llamativo y una imagen"
+],
+"correcta": 2,
+"porque": "La portada atrae a quien lo ve."
+},
+{
+"pregunta": "¿Cómo debe ser el texto de un tríptico?",
+"opciones": [
+"Escrito solo con palabras difíciles",
+"Muy largo y con letra pequeña",
+"Breve, para leerse rápido"
+],
+"correcta": 2,
+"porque": "El texto breve se lee rápido y se recuerda."
+},
+{
+"pregunta": "¿Cuál es un buen título para un tríptico sobre el dengue?",
+"opciones": [
+"¡Cuida tu casa del mosquito!",
+"Los mosquitos y otros temas",
+"Un texto sobre mosquitos"
+],
+"correcta": 0,
+"porque": "Es corto, llamativo y avisa del tema."
+},
+{
+"pregunta": "¿Qué medida pondrías en un tríptico sobre el dengue?",
+"opciones": [
+"Comprar más recipientes para guardar agua",
+"Tapar los recipientes con agua",
+"Dejar agua quieta en cubetas"
+],
+"correcta": 1,
+"porque": "Los mosquitos ponen huevos en agua quieta, así que tapa los recipientes."
+}
+],
+"verso-estrofa-y-rima-primaria": [
+{
+"pregunta": "¿Qué es un verso?",
+"opciones": [
+"Cada línea de un poema",
+"El título del poema completo",
+"Un grupo de líneas del poema"
+],
+"correcta": 0,
+"porque": "El verso es una sola línea del poema."
+},
+{
+"pregunta": "Un poema tiene cuatro líneas. ¿Cuántos versos tiene?",
+"opciones": [
+"2 versos",
+"1 verso",
+"4 versos"
+],
+"correcta": 2,
+"porque": "Cada línea de un poema es un verso."
+},
+{
+"pregunta": "¿Con qué rima *ladrillo*?",
+"opciones": [
+"ladrón",
+"ladrar",
+"amarillo"
+],
+"correcta": 2,
+"porque": "Terminan con el mismo sonido, *illo*."
+},
+{
+"pregunta": "Un poema tiene dos estrofas de dos versos cada una. ¿Cuántos versos tiene?",
+"opciones": [
+"4",
+"2",
+"6"
+],
+"correcta": 0,
+"porque": "Sumas $2 + 2 = 4$ versos."
+},
+{
+"pregunta": "Escribes dos versos con rima. ¿Cuál par rima?",
+"opciones": [
+"Tengo un lápiz / y mucho calor del sol",
+"Veo una flor / que corre veloz",
+"Veo una flor / que huele a color"
+],
+"correcta": 2,
+"porque": "*Flor* y *color* terminan con el mismo sonido."
+}
+],
+"alimentos-saludables-agua-actividad-fisica-primaria-1-2": [
+{
+"pregunta": "¿Qué bebida es mejor para tu cuerpo?",
+"opciones": [
+"El agua simple",
+"El refresco de botella",
+"El jugo con mucha azúcar"
+],
+"correcta": 0,
+"porque": "El agua ayuda a tu cuerpo a funcionar."
+},
+{
+"pregunta": "¿Cuál es una verdura?",
+"opciones": [
+"El huevo",
+"La zanahoria",
+"La tortilla"
+],
+"correcta": 1,
+"porque": "La zanahoria es una verdura, del grupo de verduras y frutas."
+},
+{
+"pregunta": "¿Para qué sirve moverte cada día?",
+"opciones": [
+"Para no necesitar tomar agua",
+"Para hacer fuertes tus huesos y estar contento",
+"Para que te dé más sueño en la mañana"
+],
+"correcta": 1,
+"porque": "Moverte te hace fuerte y feliz."
+},
+{
+"pregunta": "En tu plato quieres comida de tres grupos. ¿Cuál plato sirve?",
+"opciones": [
+"Tortilla, frijoles y manzana",
+"Solo papas fritas y dulces",
+"Solo galletas y refresco"
+],
+"correcta": 0,
+"porque": "Lleva cereal, frijoles y fruta, es decir, los tres grupos."
+},
+{
+"pregunta": "¿Qué te da energía?",
+"opciones": [
+"Ver la tele",
+"Estar sentado",
+"La comida sana"
+],
+"correcta": 2,
+"porque": "La comida le da energía a tu cuerpo."
+}
+],
+"cambios-regularidades-fenomenos-naturales-primaria-1-2": [
+{
+"pregunta": "¿Qué es una regularidad?",
+"opciones": [
+"Algo que se repite siempre en el mismo orden",
+"Algo que pasa solo una vez",
+"Algo que nadie puede ver"
+],
+"correcta": 0,
+"porque": "Se repite igual, como el día y la noche."
+},
+{
+"pregunta": "¿Cada cuánto cambian las estaciones?",
+"opciones": [
+"Cada día",
+"Cada hora",
+"Cada año"
+],
+"correcta": 2,
+"porque": "Las cuatro estaciones se repiten cada año."
+},
+{
+"pregunta": "¿Cuál se repite cada 24 horas?",
+"opciones": [
+"Las estaciones del año",
+"El día y la noche",
+"Las fases de la Luna"
+],
+"correcta": 1,
+"porque": "El día y la noche se repiten cada 24 horas."
+},
+{
+"pregunta": "¿Por qué se siembra cuando llegan las lluvias?",
+"opciones": [
+"Porque las plantas necesitan agua para crecer",
+"Porque la lluvia da miedo a los animales",
+"Porque en seca la tierra siempre está húmeda"
+],
+"correcta": 0,
+"porque": "Las lluvias llegan en el mismo orden cada año y dan agua."
+},
+{
+"pregunta": "¿Cuál es el orden correcto?",
+"opciones": [
+"Amanecer, mediodía, tarde, noche",
+"Mediodía, noche, amanecer, tarde",
+"Noche, tarde, mediodía, amanecer"
+],
+"correcta": 0,
+"porque": "El día sigue ese orden cada vez."
+}
+],
+"cuerpo-humano-exterior-primaria-1-2": [
+{
+"pregunta": "¿Qué parte tiene el pecho, la panza y la espalda?",
+"opciones": [
+"La cabeza",
+"El tronco",
+"Las extremidades"
+],
+"correcta": 1,
+"porque": "El tronco incluye pecho, panza y espalda."
+},
+{
+"pregunta": "¿Qué son las extremidades?",
+"opciones": [
+"Cara y cabello",
+"Brazos y piernas",
+"Pecho y espalda"
+],
+"correcta": 1,
+"porque": "Las extremidades son brazos y piernas."
+},
+{
+"pregunta": "¿Qué haces para cuidar tus dientes?",
+"opciones": [
+"Cepillarlos",
+"Comer solo dulces",
+"No lavarlos nunca"
+],
+"correcta": 0,
+"porque": "Cepillar los dientes los mantiene sanos."
+},
+{
+"pregunta": "¿Es normal que se te caigan dientes al crecer?",
+"opciones": [
+"Sí, salen otros",
+"No, es un problema grave",
+"Solo pasa a los adultos"
+],
+"correcta": 0,
+"porque": "Los dientes de leche se caen y salen los nuevos."
+},
+{
+"pregunta": "¿Cuáles son las tres partes de tu cuerpo por fuera?",
+"opciones": [
+"Cabeza, tronco y extremidades",
+"Cara, manos y pies",
+"Pecho, panza y espalda"
+],
+"correcta": 0,
+"porque": "Esas tres partes forman tu cuerpo por fuera."
+}
+],
+"entorno-natural-sociocultural-primaria-1-2": [
+{
+"pregunta": "¿Cuál es natural?",
+"opciones": [
+"Una casa",
+"Una calle",
+"Un árbol"
+],
+"correcta": 2,
+"porque": "El árbol no lo hizo la gente."
+},
+{
+"pregunta": "¿Cuál es sociocultural?",
+"opciones": [
+"Un lago",
+"Una montaña",
+"Una fiesta del pueblo"
+],
+"correcta": 2,
+"porque": "Las fiestas las hace la gente."
+},
+{
+"pregunta": "¿Qué cosa hecha por personas hay en tu escuela?",
+"opciones": [
+"El viento del patio",
+"La lluvia de la tarde",
+"El salón de clases"
+],
+"correcta": 2,
+"porque": "El salón lo construyó la gente."
+},
+{
+"pregunta": "¿Qué quiere decir que lo natural y lo sociocultural están unidos?",
+"opciones": [
+"Siempre están en lugares distintos",
+"Nunca se mezclan en ningún lugar",
+"Usamos plantas para cocinar y celebrar"
+],
+"correcta": 2,
+"porque": "Usamos la naturaleza en nuestras costumbres."
+},
+{
+"pregunta": "¿Cuál es un elemento natural?",
+"opciones": [
+"Un puente",
+"Un mercado",
+"Un río"
+],
+"correcta": 2,
+"porque": "El río es del entorno natural."
+}
+],
+"fuerzas-movimiento-deformacion-primaria-1-2": [
+{
+"pregunta": "¿Qué es una fuerza?",
+"opciones": [
+"Un sonido muy fuerte",
+"Un empujón o un jalón",
+"Un color brillante"
+],
+"correcta": 1,
+"porque": "La fuerza empuja o jala."
+},
+{
+"pregunta": "¿Qué pasa si aprietas plastilina?",
+"opciones": [
+"Cambia de forma",
+"Se vuelve más ligera",
+"Se hace transparente"
+],
+"correcta": 0,
+"porque": "Una fuerza deforma los objetos."
+},
+{
+"pregunta": "¿Qué haces para abrir un cajón?",
+"opciones": [
+"Lo miro fijamente",
+"Le hablo",
+"Lo jalo"
+],
+"correcta": 2,
+"porque": "Jalar es una fuerza."
+},
+{
+"pregunta": "Si pateas un balón más fuerte, ¿qué pasa?",
+"opciones": [
+"Llega más lejos",
+"Se queda quieto",
+"Llega más cerca"
+],
+"correcta": 0,
+"porque": "Más fuerza, más efecto."
+},
+{
+"pregunta": "¿Qué objeto regresa a su forma después de estirarlo?",
+"opciones": [
+"Una liga",
+"Una hoja arrugada",
+"La plastilina"
+],
+"correcta": 0,
+"porque": "La liga regresa a su forma."
+}
+]
+}

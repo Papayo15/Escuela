@@ -1,0 +1,522 @@
+{
+"fotosintesis-cadena-trofica-prepa": [
+{
+"pregunta": "En la cadena maíz, ratón y búho, ¿quién es el herbívoro?",
+"opciones": [
+"El maíz",
+"El búho",
+"El ratón"
+],
+"correcta": 2,
+"porque": "El ratón come maíz, así que es el herbívoro de la cadena."
+},
+{
+"pregunta": "¿Qué pasa con la energía en cada paso de la cadena?",
+"opciones": [
+"Se gana mucha",
+"Se queda igual",
+"Se pierde mucha"
+],
+"correcta": 2,
+"porque": "En cada paso se pierde mucha energía."
+},
+{
+"pregunta": "¿Por dónde entra el dióxido de carbono a la hoja?",
+"opciones": [
+"Por las raíces de la planta",
+"Por las flores de la planta",
+"Por los poros de la hoja"
+],
+"correcta": 2,
+"porque": "Por los poros entra el dióxido de carbono y sale el oxígeno."
+},
+{
+"pregunta": "¿Qué son los cloroplastos?",
+"opciones": [
+"Poros por donde sale el aire",
+"Partes verdes de la célula",
+"Raíces que toman el agua"
+],
+"correcta": 1,
+"porque": "Los cloroplastos son partes verdes con clorofila, donde se cocina con luz."
+},
+{
+"pregunta": "En tu jardín escribes una cadena. ¿Cuál está en orden?",
+"opciones": [
+"Grillo, pasto y lagartija",
+"Lagartija, grillo y pasto",
+"Pasto, grillo y lagartija"
+],
+"correcta": 2,
+"porque": "La cadena empieza con el productor, sigue el herbívoro y luego el carnívoro."
+}
+],
+"hidrosfera-y-atmosfera-preparatoria": [
+{
+"pregunta": "¿En qué capa de la atmósfera pasa el clima?",
+"opciones": [
+"En la troposfera",
+"En la exosfera",
+"En la estratosfera"
+],
+"correcta": 0,
+"porque": "La troposfera es la capa donde ocurre el clima."
+},
+{
+"pregunta": "¿Cuánto de la Tierra cubre la hidrosfera?",
+"opciones": [
+"Cerca del 21 %",
+"Cerca del 71 %",
+"Cerca del 78 %"
+],
+"correcta": 1,
+"porque": "La hidrosfera cubre cerca del 71 % de la Tierra."
+},
+{
+"pregunta": "¿Qué hace el Sol con el agua del mar en el ciclo del agua?",
+"opciones": [
+"La evapora",
+"La condensa",
+"La congela"
+],
+"correcta": 0,
+"porque": "El Sol evapora el agua, el vapor forma nubes y luego llueve."
+},
+{
+"pregunta": "¿Qué gas es el 78 % del aire?",
+"opciones": [
+"El nitrógeno",
+"El ozono",
+"El oxígeno"
+],
+"correcta": 0,
+"porque": "El aire tiene 78 % de nitrógeno y 21 % de oxígeno."
+},
+{
+"pregunta": "¿Cómo es casi toda el agua de la hidrosfera?",
+"opciones": [
+"Es agua congelada",
+"Es agua salada",
+"Es agua dulce"
+],
+"correcta": 1,
+"porque": "Casi toda el agua del planeta es salada."
+}
+],
+"niveles-troficos-y-flujo-de-energia-prepa": [
+{
+"pregunta": "Los productores tienen 3000 unidades de energía. ¿Cuántas llegan a los herbívoros?",
+"opciones": [
+"300 unidades",
+"30 unidades",
+"2700 unidades"
+],
+"correcta": 0,
+"porque": "Solo pasa cerca del 10 %, y el 10 % de 3000 es 300."
+},
+{
+"pregunta": "Los herbívoros tienen 400 unidades. ¿Cuántas llegan a los carnívoros?",
+"opciones": [
+"40 unidades",
+"4 unidades",
+"360 unidades"
+],
+"correcta": 0,
+"porque": "Pasa el 10 %, y el 10 % de 400 es 40."
+},
+{
+"pregunta": "¿Por qué hay menos depredadores que plantas?",
+"opciones": [
+"Las plantas son más fuertes",
+"Pasa solo el 10 % de energía",
+"Los depredadores comen poco"
+],
+"correcta": 1,
+"porque": "En cada nivel llega mucha menos energía, así que arriba cabe menos gente."
+},
+{
+"pregunta": "¿Qué se recicla en un ecosistema?",
+"opciones": [
+"La energía",
+"La materia",
+"El calor"
+],
+"correcta": 1,
+"porque": "La energía fluye en una sola dirección, pero la materia se recicla."
+},
+{
+"pregunta": "¿Qué nivel trófico son los herbívoros?",
+"opciones": [
+"Consumidores terciarios",
+"Productores",
+"Consumidores primarios"
+],
+"correcta": 2,
+"porque": "Los herbívoros son el segundo nivel: consumidores primarios."
+}
+],
+"oxigeno-fotosintesis-atmosfera-primitiva": [
+{
+"pregunta": "¿Cómo se llama el momento en que el aire se llenó de oxígeno?",
+"opciones": [
+"La Gran Oxidación",
+"La Gran Evolución",
+"La Gran Sequía"
+],
+"correcta": 0,
+"porque": "Las cianobacterias soltaron oxígeno en la Gran Oxidación."
+},
+{
+"pregunta": "¿Hace cuánto ocurrió la Gran Oxidación?",
+"opciones": [
+"Hace 240 millones de años",
+"Hace 2400 millones de años",
+"Hace 24 mil años"
+],
+"correcta": 1,
+"porque": "Ocurrió hace unos 2400 millones de años."
+},
+{
+"pregunta": "¿Qué filtra la capa de ozono?",
+"opciones": [
+"El oxígeno del aire",
+"El agua de la lluvia",
+"Los rayos ultravioleta dañinos"
+],
+"correcta": 2,
+"porque": "La capa de ozono filtra los rayos ultravioleta dañinos."
+},
+{
+"pregunta": "Una planta usa 8 moléculas de $\\ce{CO2}$. ¿Cuántas de $\\ce{O2}$ libera?",
+"opciones": [
+"8 moléculas",
+"4 moléculas",
+"16 moléculas"
+],
+"correcta": 0,
+"porque": "Por cada molécula de $\\ce{CO2}$ libera una de $\\ce{O2}$."
+},
+{
+"pregunta": "¿Qué pasó con muchos organismos sin oxígeno al llenarse el aire?",
+"opciones": [
+"Muchos desaparecieron",
+"Se fueron a la tierra",
+"Se volvieron más grandes"
+],
+"correcta": 0,
+"porque": "Para ellos el oxígeno era dañino, así que muchos desaparecieron."
+}
+],
+"reaccion-quimica-estructura-preparatoria": [
+{
+"pregunta": "Balancea: $\\ce{Mg + O2 -> MgO}$. ¿Cuál queda bien?",
+"opciones": [
+"$\\ce{2Mg + 2O2 -> 2MgO}$",
+"$\\ce{2Mg + O2 -> 2MgO}$",
+"$\\ce{Mg + O2 -> 2MgO}$"
+],
+"correcta": 1,
+"porque": "Hay 2 Mg y 2 O a cada lado, y los átomos no se pierden."
+},
+{
+"pregunta": "En una reacción, ¿qué dice la flecha?",
+"opciones": [
+"Es igual a",
+"Se resta de",
+"Produce"
+],
+"correcta": 2,
+"porque": "La flecha dice produce: de lo que entra sale algo nuevo."
+},
+{
+"pregunta": "Se mezclan 6 g de A con 4 g de B y reaccionan por completo. ¿Cuántos gramos se forman?",
+"opciones": [
+"2 g",
+"10 g",
+"24 g"
+],
+"correcta": 1,
+"porque": "La masa no cambia: lo que pesa al inicio pesa al final."
+},
+{
+"pregunta": "En $\\ce{CH4 + 2O2 -> CO2 + 2H2O}$, ¿qué es el $\\ce{CO2}$?",
+"opciones": [
+"Un reactivo",
+"Un bloque perdido",
+"Un producto"
+],
+"correcta": 2,
+"porque": "El $\\ce{CO2}$ está a la derecha de la flecha, es decir, lo que sale."
+},
+{
+"pregunta": "Usas plastilina para $\\ce{CH4 + 2O2 -> CO2 + 2H2O}$. ¿Cuántas bolitas de O hay a la izquierda?",
+"opciones": [
+"2 bolitas",
+"1 bolita",
+"4 bolitas"
+],
+"correcta": 2,
+"porque": "El 2 de adelante duplica $\\ce{O2}$, y $2 \\times 2 = 4$."
+}
+],
+"tecnologia-reducir-deterioro-ambiental-prepa": [
+{
+"pregunta": "Una planta limpia agua sucia. ¿Qué subsistema cuida?",
+"opciones": [
+"La atmósfera",
+"La litosfera",
+"La hidrosfera"
+],
+"correcta": 2,
+"porque": "El agua es la hidrosfera, y esa planta la limpia."
+},
+{
+"pregunta": "¿Qué parte cuida plantar árboles nativos?",
+"opciones": [
+"La biosfera",
+"La hidrosfera",
+"La atmósfera"
+],
+"correcta": 0,
+"porque": "Los árboles nativos cuidan a los seres vivos, o sea la biosfera."
+},
+{
+"pregunta": "Para explicar un invento, ¿qué dices primero?",
+"opciones": [
+"Quién lo vende",
+"Qué problema atiende",
+"De qué color es"
+],
+"correcta": 1,
+"porque": "Los cuatro pasos empiezan con el problema que atiende."
+},
+{
+"pregunta": "¿Qué logra la composta en el suelo?",
+"opciones": [
+"Más humo y más basura",
+"Menos basura y más nutrientes",
+"Menos agua y menos plantas"
+],
+"correcta": 1,
+"porque": "La composta aprovecha restos y le da nutrientes al suelo."
+},
+{
+"pregunta": "¿Qué puede ser el límite de una tecnología verde?",
+"opciones": [
+"Su color o su tamaño",
+"Su costo o sus materiales",
+"Su nombre o su logo"
+],
+"correcta": 1,
+"porque": "Un límite real puede ser su costo o los materiales que usa."
+}
+],
+"tierra-como-sistema-subsistemas": [
+{
+"pregunta": "¿Qué esfera es toda el agua de la Tierra?",
+"opciones": [
+"La hidrosfera",
+"La atmósfera",
+"La geosfera"
+],
+"correcta": 0,
+"porque": "Hidro quiere decir agua, así que la hidrosfera es toda el agua."
+},
+{
+"pregunta": "Un volcán lanza ceniza al aire. ¿Qué esferas se tocan?",
+"opciones": [
+"Geosfera y atmósfera",
+"Biosfera y geosfera",
+"Hidrosfera y biosfera"
+],
+"correcta": 0,
+"porque": "El volcán es parte de la geosfera y la ceniza llega a la atmósfera."
+},
+{
+"pregunta": "¿Qué esfera incluye las rocas y el suelo?",
+"opciones": [
+"La biosfera",
+"La atmósfera",
+"La geosfera"
+],
+"correcta": 2,
+"porque": "Geo quiere decir tierra: la geosfera tiene rocas y suelo."
+},
+{
+"pregunta": "Si talas un bosque, ¿qué más cambia?",
+"opciones": [
+"Nada, está aislado",
+"El agua y el clima",
+"Solo el color del suelo"
+],
+"correcta": 1,
+"porque": "Las partes de la Tierra se afectan entre sí, por eso cambian el agua y el clima."
+},
+{
+"pregunta": "¿Cuál es un ejemplo donde el agua afecta a un ser vivo?",
+"opciones": [
+"El viento sube una montaña",
+"La lluvia ayuda a crecer a una planta",
+"Un volcán lanza ceniza al aire"
+],
+"correcta": 1,
+"porque": "La lluvia es agua y la planta es un ser vivo, así que las esferas se afectan."
+}
+],
+"actores-sociales-preparatoria": [
+{
+"pregunta": "¿Qué es un actor social?",
+"opciones": [
+"Quien solo mira las noticias",
+"Quien nunca opina nada",
+"Quien influye en la sociedad"
+],
+"correcta": 2,
+"porque": "Un actor social es una persona o grupo que influye en lo que pasa."
+},
+{
+"pregunta": "Para entender una noticia, ¿qué preguntas primero?",
+"opciones": [
+"¿Quién participa?",
+"¿Dónde la imprimieron?",
+"¿Cuánto vale?"
+],
+"correcta": 0,
+"porque": "La primera pregunta es quién participa en el suceso."
+},
+{
+"pregunta": "¿Cuál de estos es un actor social?",
+"opciones": [
+"Un grupo de vecinos organizados",
+"Una nube de lluvia pasajera",
+"Un reloj de pared grande"
+],
+"correcta": 0,
+"porque": "Los ciudadanos organizados influyen en lo que pasa."
+},
+{
+"pregunta": "¿Una escuela puede ser un actor social?",
+"opciones": [
+"Sí, influye en la sociedad",
+"No, solo es un edificio",
+"No, solo da clases"
+],
+"correcta": 0,
+"porque": "Las escuelas también son actores porque influyen en lo que pasa."
+},
+{
+"pregunta": "¿Qué pregunta ayuda a saber lo que busca un actor?",
+"opciones": [
+"¿Cuánto mide el titular?",
+"¿Qué quiere cada quien?",
+"¿Quién dibujó la foto?"
+],
+"correcta": 1,
+"porque": "Cada actor tiene intereses, y esta pregunta ayuda a conocerlos."
+}
+],
+"juventudes-transformacion-social-preparatoria": [
+{
+"pregunta": "¿Qué haces primero para transformar tu entorno?",
+"opciones": [
+"Observar tu contexto",
+"Repetir lo que oyes",
+"Esperar a que otros actúen"
+],
+"correcta": 0,
+"porque": "Primero observas tu escuela, tu colonia y tu entorno."
+},
+{
+"pregunta": "¿Qué hace un agente crítico?",
+"opciones": [
+"Repite lo que dicen otros",
+"Se queda callado siempre",
+"Cuestiona y no repite sin pensar"
+],
+"correcta": 2,
+"porque": "Ser crítico es investigar y comparar, no solo repetir."
+},
+{
+"pregunta": "¿Cuál es una acción colectiva y respetuosa?",
+"opciones": [
+"Una campaña de limpieza",
+"Ignorar el problema",
+"Pelear con las autoridades"
+],
+"correcta": 0,
+"porque": "Las campañas, el voluntariado y el diálogo son acciones respetuosas."
+},
+{
+"pregunta": "¿Qué influye en cómo vive una persona su juventud?",
+"opciones": [
+"Solo el número de su edad",
+"Su lugar, familia y cultura",
+"Solo lo que ve en redes"
+],
+"correcta": 1,
+"porque": "Cada joven vive su etapa distinto por su lugar, su familia y su cultura."
+},
+{
+"pregunta": "¿Cuál es un problema real de una colonia?",
+"opciones": [
+"Hoy llovió un poco",
+"Mi lápiz es azul",
+"No hay canchas para el deporte"
+],
+"correcta": 2,
+"porque": "Un problema real afecta a muchas personas, como la falta de espacios para deporte."
+}
+],
+"politicas-publicas-preparatoria": [
+{
+"pregunta": "¿Qué se hace primero en una política pública?",
+"opciones": [
+"Revisar los resultados",
+"Aplicarla con dinero",
+"Ver el problema"
+],
+"correcta": 2,
+"porque": "Primero se ve el problema, luego se diseña la solución."
+},
+{
+"pregunta": "¿Cuál es una política pública?",
+"opciones": [
+"Una fiesta de cumpleaños",
+"Un partido entre amigos",
+"Una beca para seguir estudiando"
+],
+"correcta": 2,
+"porque": "Una beca es un plan del gobierno para resolver un problema común."
+},
+{
+"pregunta": "¿Qué pregunta ayuda a analizar una política?",
+"opciones": [
+"¿Quién la nombró?",
+"¿De qué color es?",
+"¿A quién ayuda?"
+],
+"correcta": 2,
+"porque": "Hay que preguntar a quién ayuda, qué cubre y qué omite."
+},
+{
+"pregunta": "¿Cuál es la última etapa de una política pública?",
+"opciones": [
+"Revisar resultados",
+"Diseñar la solución",
+"Ver el problema"
+],
+"correcta": 0,
+"porque": "Al final se revisan los resultados para saber si funcionó."
+},
+{
+"pregunta": "Hay becas, pero no llegan a quienes viven lejos. ¿Qué hay que preguntar?",
+"opciones": [
+"Dónde se imprimió",
+"Cuántos lápices usa",
+"A quién deja fuera"
+],
+"correcta": 2,
+"porque": "Toda política debe revisarse: a quién ayuda y a quién deja fuera."
+}
+]
+}

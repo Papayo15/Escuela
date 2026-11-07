@@ -1,0 +1,522 @@
+{
+"resolver-conflictos-con-amigos-secundaria": [
+{
+"pregunta": "¿Qué haces primero ante un conflicto con un amigo?",
+"opciones": [
+"Te calmas antes de hablar",
+"Le reclamas frente a todos",
+"Dejas de hablarle para siempre"
+],
+"correcta": 0,
+"porque": "Calmarte primero evita que digas cosas que lastiman."
+},
+{
+"pregunta": "¿Con qué frase empiezas a hablar?",
+"opciones": [
+"Tú siempre me haces...",
+"Yo me siento mal cuando...",
+"Todos dicen que tú..."
+],
+"correcta": 1,
+"porque": "Hablar de lo que tú sientes evita culpar al otro."
+},
+{
+"pregunta": "Mientras tu amigo explica su lado, ¿qué haces?",
+"opciones": [
+"Lo interrumpes para defenderte",
+"Escuchas y esperas tu turno",
+"Miras a otro lado y te ríes"
+],
+"correcta": 1,
+"porque": "Escuchar sin interrumpir ayuda a encontrar un acuerdo."
+},
+{
+"pregunta": "Dos amigos quieren la misma pelota. ¿Qué solución sirve?",
+"opciones": [
+"Romperla para que nadie juegue",
+"Turnarse o jugar juntos",
+"Quitársela al más pequeño"
+],
+"correcta": 1,
+"porque": "Turnarse es una solución en la que los dos ganan."
+},
+{
+"pregunta": "Cuando ya hay un acuerdo, ¿qué sigue?",
+"opciones": [
+"Olvidarlo al día siguiente",
+"Buscar otro pleito después",
+"Cumplirlo, lo que acordaron"
+],
+"correcta": 2,
+"porque": "El último paso para resolver un conflicto es cumplir el acuerdo."
+}
+],
+"sentimientos-toma-decisiones-secundaria": [
+{
+"pregunta": "Estás muy enojado porque un amigo no llegó. ¿Qué haces con el mensaje?",
+"opciones": [
+"Lo mandas ya con todo tu enojo",
+"Esperas a calmarte antes de escribirlo",
+"Escribes insultos y lo mandas"
+],
+"correcta": 1,
+"porque": "Calmarte antes evita decir algo de lo que luego te arrepientas."
+},
+{
+"pregunta": "¿Por qué decidir muy enojado es riesgoso?",
+"opciones": [
+"El enojo nubla tu juicio y puedes arrepentirte",
+"Nadie se arrepiente de lo que hace enojado",
+"El enojo siempre te hace decidir mejor"
+],
+"correcta": 0,
+"porque": "Con mucho enojo no piensas bien y puedes arrepentirte."
+},
+{
+"pregunta": "Ya le pusiste nombre a lo que sientes. ¿Qué haces después?",
+"opciones": [
+"Culpas a alguien",
+"Respiras y esperas",
+"Decides al instante"
+],
+"correcta": 1,
+"porque": "Después de nombrar la emoción conviene calmarte y esperar."
+},
+{
+"pregunta": "¿Está mal sentir enojo?",
+"opciones": [
+"Sí, debes esconderlo siempre",
+"No, solo no dejes que decida por ti",
+"Sí, es de personas malas"
+],
+"correcta": 1,
+"porque": "Sentir no es malo, lo importante es qué decides hacer."
+},
+{
+"pregunta": "Ya tomaste una decisión. ¿Qué haces al final?",
+"opciones": [
+"Revisas qué aprendiste",
+"Culpas a otros del resultado",
+"Olvidas lo que pasó"
+],
+"correcta": 0,
+"porque": "Revisar lo que pasó te ayuda a decidir mejor la próxima vez."
+}
+],
+"tecnicas-de-estudio-secundaria": [
+{
+"pregunta": "¿Cómo funciona la técnica Pomodoro?",
+"opciones": [
+"2 horas seguidas sin parar",
+"5 minutos de estudio y 25 de juego",
+"25 minutos de estudio y 5 de descanso"
+],
+"correcta": 2,
+"porque": "Estudias un rato corto y descansas para rendir más."
+},
+{
+"pregunta": "Para aprender mejor conviene repasar...",
+"opciones": [
+"Solo el día del examen",
+"En días distintos",
+"Toda la noche antes"
+],
+"correcta": 1,
+"porque": "Repasar poco en varios días ayuda a recordar más."
+},
+{
+"pregunta": "Quieres aprender las capitales de los estados. ¿Qué técnica sirve?",
+"opciones": [
+"Copiar todo el libro sin leerlo",
+"Hacer tarjetas con pregunta y respuesta",
+"Mirar el libro sin hacer nada"
+],
+"correcta": 1,
+"porque": "Las tarjetas te hacen practicar y recordar."
+},
+{
+"pregunta": "¿Cuál es una buena forma de estudiar?",
+"opciones": [
+"Esperar a tener suerte",
+"Dormir con el libro encima",
+"Enseñarle el tema a alguien"
+],
+"correcta": 2,
+"porque": "Al explicar a otra persona te das cuenta de lo que sabes."
+},
+{
+"pregunta": "\"Pregúntate; no solo leas\" se refiere a...",
+"opciones": [
+"Leer más rápido que nadie",
+"Subrayar todo el libro",
+"Practicar preguntas sobre el tema"
+],
+"correcta": 2,
+"porque": "Contestar preguntas te muestra qué ya aprendiste."
+}
+],
+"articulos-clave-de-la-constitucion-secundaria": [
+{
+"pregunta": "Quieres opinar libremente en tu escuela. ¿Qué artículos hablan de libertad de expresión?",
+"opciones": [
+"Los artículos 39 y 123",
+"Los artículos 6 y 7",
+"Los artículos 27 y 40"
+],
+"correcta": 1,
+"porque": "Los artículos 6 y 7 protegen la libertad de expresión."
+},
+{
+"pregunta": "¿Qué artículo dice que el poder es del pueblo?",
+"opciones": [
+"El 39",
+"El 130",
+"El 27"
+],
+"correcta": 0,
+"porque": "El artículo 39 dice que el poder viene del pueblo."
+},
+{
+"pregunta": "¿Qué artículo habla de la igualdad y la salud?",
+"opciones": [
+"El 123",
+"El 40",
+"El 4"
+],
+"correcta": 2,
+"porque": "El artículo 4 trata de la igualdad y la salud."
+},
+{
+"pregunta": "¿Qué es la Constitución?",
+"opciones": [
+"Un reglamento solo de la escuela",
+"Un libro de historia sin reglas",
+"La ley más importante de México"
+],
+"correcta": 2,
+"porque": "Ninguna ley puede ir contra la Constitución."
+},
+{
+"pregunta": "¿Qué artículo habla de los derechos humanos?",
+"opciones": [
+"El 1",
+"El 40",
+"El 130"
+],
+"correcta": 0,
+"porque": "El artículo 1 reconoce los derechos humanos."
+}
+],
+"como-se-hace-una-ley-secundaria": [
+{
+"pregunta": "Un grupo quiere una ley nueva. ¿Cuál es el primer paso?",
+"opciones": [
+"Publicarla en el Diario Oficial",
+"Presentar la iniciativa",
+"Esperar a que entre en vigor"
+],
+"correcta": 1,
+"porque": "La iniciativa es la propuesta con la que empieza todo."
+},
+{
+"pregunta": "¿Qué pasa en la comisión?",
+"opciones": [
+"Se firma la ley",
+"Se publica en el diario",
+"Se estudia la propuesta"
+],
+"correcta": 2,
+"porque": "En la comisión se revisa la propuesta antes de votarla."
+},
+{
+"pregunta": "Después del debate y la votación en una Cámara, ¿qué sigue?",
+"opciones": [
+"Pasa a la otra Cámara",
+"Entra en vigor",
+"Se promulga de inmediato"
+],
+"correcta": 0,
+"porque": "La propuesta debe aprobarse también en la otra Cámara."
+},
+{
+"pregunta": "En tu salón proponen una regla y la votan. ¿Qué paso se parece a votar?",
+"opciones": [
+"Promulgación",
+"Debate y votación",
+"Publicación"
+],
+"correcta": 1,
+"porque": "Votar es decidir con el debate y la votación."
+},
+{
+"pregunta": "¿Cuándo empieza a aplicarse una ley?",
+"opciones": [
+"Cuando se estudia en comisión",
+"Cuando alguien la propone",
+"Cuando entra en vigor"
+],
+"correcta": 2,
+"porque": "Después de publicarse, la ley entra en vigor y se aplica."
+}
+],
+"conflicto-convivencia-cultura-de-paz-secundaria": [
+{
+"pregunta": "¿Los conflictos son normales?",
+"opciones": [
+"No, solo pasan con gente enojona",
+"Sí, y se pueden resolver hablando",
+"Sí, y se resuelven con golpes"
+],
+"correcta": 1,
+"porque": "Un conflicto es un desacuerdo normal que se arregla dialogando."
+},
+{
+"pregunta": "La violencia es...",
+"opciones": [
+"Una forma normal de ponerse de acuerdo",
+"El desacuerdo mismo entre dos personas",
+"Una forma dañina de responder a un conflicto"
+],
+"correcta": 2,
+"porque": "La violencia es una mala respuesta, no es el conflicto."
+},
+{
+"pregunta": "Dos compañeros quieren el mismo balón. ¿Qué acuerdo es justo?",
+"opciones": [
+"Que lo tome quien llegó gritando",
+"Turnarse cada diez minutos",
+"Que se lo quede el más fuerte"
+],
+"correcta": 1,
+"porque": "Un turno parejo es justo para los dos."
+},
+{
+"pregunta": "¿Qué frase sirve para decir lo que te molesta?",
+"opciones": [
+"Eres insoportable...",
+"Nunca cambiarás...",
+"Me molesta que..."
+],
+"correcta": 2,
+"porque": "Decir qué te molesta, sin ofender, ayuda a dialogar."
+},
+{
+"pregunta": "Si no logran resolverlo solos, ¿qué pueden hacer?",
+"opciones": [
+"Buscar más gente para pelear",
+"Pedir ayuda a alguien neutral",
+"Dejar de hablarse para siempre"
+],
+"correcta": 1,
+"porque": "Esa ayuda se llama mediación y ayuda a llegar a un acuerdo."
+}
+],
+"congreso-de-la-union-secundaria": [
+{
+"pregunta": "¿Cuántos años dura un diputado en el cargo?",
+"opciones": [
+"3 años",
+"6 años",
+"9 años"
+],
+"correcta": 0,
+"porque": "Los diputados duran 3 años y los senadores 6."
+},
+{
+"pregunta": "¿Qué poder es el Congreso de la Unión?",
+"opciones": [
+"El Poder Ejecutivo",
+"El Poder Judicial",
+"El Poder Legislativo"
+],
+"correcta": 2,
+"porque": "El Congreso hace las leyes, por eso es Legislativo."
+},
+{
+"pregunta": "¿Qué hace el Congreso?",
+"opciones": [
+"Dirigir a las Fuerzas Armadas",
+"Hacer leyes y vigilar al gobierno",
+"Dar clases en las escuelas"
+],
+"correcta": 1,
+"porque": "Sus funciones son hacer leyes, aprobar presupuesto y vigilar."
+},
+{
+"pregunta": "El Congreso es como...",
+"opciones": [
+"Una oficina que cobra los impuestos",
+"Dos salones de personas que discuten las leyes",
+"Un salón donde solo manda una persona"
+],
+"correcta": 1,
+"porque": "Tiene dos Cámaras donde se discuten las leyes."
+},
+{
+"pregunta": "¿Quién dura más años en el cargo?",
+"opciones": [
+"Los dos duran 3 años",
+"Los diputados, 6 años",
+"Los senadores, 6 años"
+],
+"correcta": 2,
+"porque": "Los senadores duran 6 años y los diputados 3."
+}
+],
+"consecuencias-desigualdad-calidad-vida-secundaria": [
+{
+"pregunta": "Dos niños corren una carrera y uno sale desde muy atrás. ¿Qué muestra?",
+"opciones": [
+"Que el de atrás no se esfuerza",
+"Que no tienen las mismas oportunidades",
+"Que los dos tienen la misma ventaja"
+],
+"correcta": 1,
+"porque": "Desigualdad es que algunos empiecen con menos oportunidades."
+},
+{
+"pregunta": "¿Qué ayuda a tener una oportunidad parecida?",
+"opciones": [
+"Una rampa para quien usa silla de ruedas",
+"Dar lo mismo a todos sin pensar",
+"Que cada quien se las arregle solo"
+],
+"correcta": 0,
+"porque": "La equidad da a cada quien lo que necesita."
+},
+{
+"pregunta": "¿Cuál es una causa de la desigualdad?",
+"opciones": [
+"Tener muchos amigos",
+"Trabajos mal pagados",
+"Que haga mucho calor"
+],
+"correcta": 1,
+"porque": "Un trabajo mal pagado deja a las familias con menos oportunidades."
+},
+{
+"pregunta": "¿Qué acción ayuda a que nadie se quede fuera en tu salón?",
+"opciones": [
+"Elegir equipos solo con tus amigos",
+"No hablar con los compañeros nuevos",
+"Invitar a jugar al compañero que está solo"
+],
+"correcta": 2,
+"porque": "Incluir a todos reduce la desigualdad en tu grupo."
+},
+{
+"pregunta": "La discriminación...",
+"opciones": [
+"No afecta las oportunidades",
+"Ayuda a que todos tengan más",
+"Es una causa de desigualdad"
+],
+"correcta": 2,
+"porque": "Discriminar quita oportunidades a algunas personas."
+}
+],
+"cultura-de-paz-vida-dignidad-secundaria": [
+{
+"pregunta": "En una escuela no hay golpes, pero algunos alumnos no tienen las mismas oportunidades. ¿Qué paz hay?",
+"opciones": [
+"Solo paz negativa",
+"Ninguna paz posible",
+"Paz positiva completa"
+],
+"correcta": 0,
+"porque": "Paz positiva también necesita justicia y oportunidades."
+},
+{
+"pregunta": "¿Qué debes evitar para cuidar la dignidad de otros?",
+"opciones": [
+"Escuchar otras opiniones",
+"Poner apodos que lastiman",
+"Hablar con respeto"
+],
+"correcta": 1,
+"porque": "Los apodos que lastiman humillan y dañan la dignidad."
+},
+{
+"pregunta": "Ves que golpean a un compañero. ¿Qué haces?",
+"opciones": [
+"Lo grabas para burlarte",
+"Avisas a un adulto",
+"Te vas sin decir nada"
+],
+"correcta": 1,
+"porque": "Avisar a un adulto ayuda a detener la violencia."
+},
+{
+"pregunta": "¿Qué es una cultura de paz?",
+"opciones": [
+"Que nadie opine distinto",
+"Resolver los problemas sin violencia",
+"Evitar hablar de los problemas"
+],
+"correcta": 1,
+"porque": "La cultura de paz resuelve problemas con respeto y diálogo."
+},
+{
+"pregunta": "¿Cuándo vale la dignidad de una persona?",
+"opciones": [
+"Solo si tiene dinero",
+"Siempre, por ser persona",
+"Solo si saca buenas notas"
+],
+"correcta": 1,
+"porque": "La dignidad es el valor que tienes por ser persona."
+}
+],
+"cultura-democratica-valores-secundaria": [
+{
+"pregunta": "¿Qué regla importante tiene la democracia?",
+"opciones": [
+"Decide la mayoría, pero se respetan los derechos de todos",
+"Decide solo una persona",
+"Decide quien grita más fuerte"
+],
+"correcta": 0,
+"porque": "Se vota, pero nadie pierde sus derechos."
+},
+{
+"pregunta": "¿De quién viene el poder en una democracia?",
+"opciones": [
+"Del más rico",
+"Del más fuerte",
+"Del pueblo"
+],
+"correcta": 2,
+"porque": "En democracia el poder viene del pueblo."
+},
+{
+"pregunta": "¿Cuál es un valor de la cultura democrática?",
+"opciones": [
+"Engaño",
+"Castigo",
+"Diálogo"
+],
+"correcta": 2,
+"porque": "El diálogo permite decidir juntos y con respeto."
+},
+{
+"pregunta": "En tu salón votan a qué jugar y nadie se burla de quien perdió. ¿Qué valor muestran?",
+"opciones": [
+"Presión",
+"Desorden",
+"Respeto"
+],
+"correcta": 2,
+"porque": "Respetar a quien perdió es parte de vivir en democracia."
+},
+{
+"pregunta": "¿Qué quiere decir que \"nadie está sobre la ley\"?",
+"opciones": [
+"Que quien manda puede cambiarla a su gusto",
+"Que todos deben cumplirla, incluso quien manda",
+"Que las leyes solo son para estudiantes"
+],
+"correcta": 1,
+"porque": "Todas las personas, sin excepción, deben cumplir las leyes."
+}
+]
+}

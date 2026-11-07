@@ -1,0 +1,522 @@
+{
+"empaques-anuncios-publicitarios-primaria": [
+{
+"pregunta": "¿Qué parte del empaque te dice de qué está hecho el producto?",
+"opciones": [
+"El eslogan",
+"Los ingredientes",
+"El dibujo de la portada que más se ve"
+],
+"correcta": 1,
+"porque": "Los ingredientes dicen de qué está hecho el producto."
+},
+{
+"pregunta": "¿Qué dice la información nutrimental?",
+"opciones": [
+"Cuándo se hizo la publicidad del producto",
+"Qué tan bonito es el empaque que lo cubre",
+"Cuánta azúcar, sal y grasa tiene"
+],
+"correcta": 2,
+"porque": "La información nutrimental muestra azúcar, sal y grasa."
+},
+{
+"pregunta": "Quieres comer unas galletas y ves que su fecha de caducidad ya pasó. ¿Qué haces?",
+"opciones": [
+"Las como, pero sin el empaque",
+"Las como si huelen rico",
+"No las como, ya caducaron"
+],
+"correcta": 2,
+"porque": "Pasada la fecha de caducidad ya no es seguro comerlas."
+},
+{
+"pregunta": "¿Para qué hacen los anuncios?",
+"opciones": [
+"Para que compres",
+"Para decirte siempre toda la verdad del producto",
+"Para enseñarte matemáticas"
+],
+"correcta": 0,
+"porque": "Los anuncios y empaques quieren que compres."
+},
+{
+"pregunta": "Un empaque dice que el jugo es el más rico. ¿Qué haces?",
+"opciones": [
+"Lo compro porque tiene muchos colores",
+"Creo todo lo que dice",
+"Reviso los ingredientes y comparo"
+],
+"correcta": 2,
+"porque": "Si un empaque promete algo, conviene comprobarlo."
+}
+],
+"entrevista-personas-comunidad-primaria": [
+{
+"pregunta": "En una entrevista, ¿qué haces mientras la persona responde?",
+"opciones": [
+"Dibujo sin poner atención",
+"Escucho y anoto lo que dice",
+"Hablo de otra cosa con mi amigo"
+],
+"correcta": 1,
+"porque": "Después de preguntar se escucha y se anota."
+},
+{
+"pregunta": "Quieres entrevistar a alguien. ¿Qué haces primero?",
+"opciones": [
+"Anoto las respuestas antes de hablar con la persona",
+"Hago preguntas a todos",
+"Elijo a quién"
+],
+"correcta": 2,
+"porque": "Primero se elige a quién entrevistar y luego se escriben preguntas."
+},
+{
+"pregunta": "Quieres saber del trabajo de un panadero. ¿Cuál es una pregunta abierta?",
+"opciones": [
+"¿Trabaja todos los días de la semana?",
+"¿Le gusta su trabajo, sí o no?",
+"¿Cómo es un día de su trabajo?"
+],
+"correcta": 2,
+"porque": "Una pregunta abierta no se contesta solo con sí o no."
+},
+{
+"pregunta": "Mientras la persona responde, ¿qué haces?",
+"opciones": [
+"Escucho y anoto",
+"Hablo yo al mismo tiempo",
+"Interrumpo para contar mi propia historia"
+],
+"correcta": 0,
+"porque": "En una entrevista se escucha y se anota lo importante."
+},
+{
+"pregunta": "Terminó la entrevista con el señor de la tienda. ¿Qué haces?",
+"opciones": [
+"Le pregunto lo mismo otra vez para cansarlo",
+"Me voy sin decir nada",
+"Le agradezco"
+],
+"correcta": 2,
+"porque": "Agradecer es una buena forma de terminar."
+}
+],
+"experiencias-esteticas-cotidianas-primaria": [
+{
+"pregunta": "¿Cuál es una experiencia estética?",
+"opciones": [
+"Revisar la fecha de caducidad de un producto",
+"Ver un atardecer que te emociona",
+"Contar cuántos pupitres hay"
+],
+"correcta": 1,
+"porque": "Es algo bonito que ves u oyes y te emociona."
+},
+{
+"pregunta": "Dos niños pintan el mismo paisaje y sus dibujos salen distintos. ¿Por qué?",
+"opciones": [
+"Uno de ellos copió el dibujo de otro para ganar",
+"Uno de los dos se equivocó",
+"Cada persona siente distinto"
+],
+"correcta": 2,
+"porque": "Cada persona siente y recrea las cosas a su manera."
+},
+{
+"pregunta": "Te gustó mucho una canción en el recreo. ¿Qué es eso?",
+"opciones": [
+"Una experiencia estética",
+"Una nota informativa",
+"Un instructivo"
+],
+"correcta": 0,
+"porque": "Una canción que te emociona es una experiencia estética."
+},
+{
+"pregunta": "Viste algo bonito hoy y quieres compartirlo. ¿Qué puedes hacer?",
+"opciones": [
+"Esconderlo para que nadie lo vea",
+"Pedir que otros no lo disfruten",
+"Dibujarlo o contárselo a alguien"
+],
+"correcta": 2,
+"porque": "Puedes expresar lo bonito que viste con un dibujo o platicándolo."
+},
+{
+"pregunta": "¿Qué puede ser una experiencia estética de la vida diaria?",
+"opciones": [
+"Una fecha de caducidad vencida",
+"Una fila larga para entrar",
+"Un atardecer que te emociona"
+],
+"correcta": 2,
+"porque": "Es algo que ves u oyes y te emociona."
+}
+],
+"exposicion-oral-primaria": [
+{
+"pregunta": "Tu cartel tiene mucho texto y letra pequeña. ¿Qué cambias?",
+"opciones": [
+"Quito todas las imágenes para que no estorben",
+"Pongo poco texto y letra grande",
+"Agrego más texto en letra chica"
+],
+"correcta": 1,
+"porque": "Un cartel claro lleva poco texto, letra grande e imágenes claras."
+},
+{
+"pregunta": "¿Qué haces después de investigar el tema?",
+"opciones": [
+"Me quedo callado y espero que otros hablen",
+"Doy las gracias y termino",
+"Hago un cartel"
+],
+"correcta": 2,
+"porque": "Los pasos son elegir, investigar, hacer un cartel y ensayar."
+},
+{
+"pregunta": "¿Cómo debes hablar en una exposición?",
+"opciones": [
+"Rápido, para terminar cuanto antes y sentarte",
+"Muy bajito",
+"Fuerte y claro"
+],
+"correcta": 2,
+"porque": "Para que todos te entiendan hablas fuerte y claro."
+},
+{
+"pregunta": "¿Qué es una exposición?",
+"opciones": [
+"Explicar un tema ante un grupo",
+"Copiar un texto del pizarrón en el cuaderno",
+"Leer un cuento solo en casa"
+],
+"correcta": 0,
+"porque": "Exponer es explicar un tema ante un grupo."
+},
+{
+"pregunta": "Te preguntan algo que no sabes. ¿Qué dices?",
+"opciones": [
+"Que lo investigaré",
+"Que te equivocaste al hacer el cartel",
+"Que no importa"
+],
+"correcta": 0,
+"porque": "Si no sabes, di que lo investigarás."
+}
+],
+"fantasia-y-realidad-cultura-primaria": [
+{
+"pregunta": "¿Cuál de estas cosas es fantasía?",
+"opciones": [
+"Un perro",
+"Un dragón",
+"Una montaña que se ve desde la escuela"
+],
+"correcta": 1,
+"porque": "Un dragón se imagina; no existe de verdad."
+},
+{
+"pregunta": "¿Cuál es real?",
+"opciones": [
+"Un árbol que cuenta chistes",
+"Un perro que ladra",
+"Una casa que camina sola por el pueblo"
+],
+"correcta": 1,
+"porque": "Un perro existe y ladra, por eso es real."
+},
+{
+"pregunta": "¿Qué te preguntas para saber si algo es fantasía?",
+"opciones": [
+"¿Es muy grande?",
+"¿Aparece en un libro con muchas letras?",
+"¿Puede pasar de verdad?"
+],
+"correcta": 2,
+"porque": "Si no puede pasar de verdad, es fantasía."
+},
+{
+"pregunta": "¿Qué mezclan muchas leyendas de tu región?",
+"opciones": [
+"Lugares reales y cosas fantásticas",
+"Solo datos comprobados",
+"Solo historias inventadas sin lugares conocidos"
+],
+"correcta": 0,
+"porque": "Las leyendas mezclan lugares reales con cosas fantásticas."
+},
+{
+"pregunta": "Lees: Una niña habló con la luna. ¿Es real o fantasía?",
+"opciones": [
+"Real",
+"Fantasía",
+"Información de una nota"
+],
+"correcta": 1,
+"porque": "La luna no habla, así que es fantasía."
+}
+],
+"idea-principal-de-un-parrafo-primaria": [
+{
+"pregunta": "Lees: Los gatos son buenos cazadores. Ven bien de noche. Caminan sin hacer ruido. ¿Cuál es la idea principal?",
+"opciones": [
+"Los gatos caminan.",
+"Algunos gatos ven bien de noche en casa.",
+"Los gatos son buenos cazadores."
+],
+"correcta": 2,
+"porque": "Las demás oraciones explican por qué son buenos cazadores."
+},
+{
+"pregunta": "¿Qué es la idea principal de un párrafo?",
+"opciones": [
+"El detalle más pequeño que aparece en el texto",
+"Lo más importante que dice",
+"Una oración elegida al azar"
+],
+"correcta": 1,
+"porque": "Es lo más importante; las demás oraciones la explican."
+},
+{
+"pregunta": "¿Qué hacen las ideas secundarias?",
+"opciones": [
+"Explican la idea principal",
+"Reemplazan a la idea principal del párrafo",
+"Cambian de tema"
+],
+"correcta": 0,
+"porque": "Las ideas secundarias dan más detalles de la principal."
+},
+{
+"pregunta": "¿Qué pregunta ayuda a empezar a buscar la idea principal?",
+"opciones": [
+"¿Cuántas líneas tiene?",
+"¿De qué habla?",
+"¿Cuál es la primera letra del párrafo?"
+],
+"correcta": 1,
+"porque": "Primero preguntas de qué habla el párrafo."
+},
+{
+"pregunta": "Lees: La escuela cuida el agua. Cierra las llaves. Usa cubetas para regar. ¿De qué habla?",
+"opciones": [
+"De la hora de entrada a la escuela",
+"De las cubetas solamente",
+"Del cuidado del agua"
+],
+"correcta": 2,
+"porque": "Todo el párrafo habla de cómo cuidar el agua."
+}
+],
+"inicio-desarrollo-y-final-de-un-cuento-primaria": [
+{
+"pregunta": "¿Qué palabras ayudan a empezar un cuento?",
+"opciones": [
+"Al final",
+"Había una vez",
+"De pronto"
+],
+"correcta": 1,
+"porque": "Había una vez presenta personajes y lugar al inicio."
+},
+{
+"pregunta": "Lees: Al final, la ardilla lo llevó a casa. ¿Qué parte es?",
+"opciones": [
+"Desarrollo",
+"Final",
+"Inicio"
+],
+"correcta": 1,
+"porque": "En el final se resuelve el problema."
+},
+{
+"pregunta": "Lees: Un día, el conejo se perdió en la tormenta. ¿Qué parte es?",
+"opciones": [
+"Final",
+"Inicio",
+"Desarrollo"
+],
+"correcta": 2,
+"porque": "En el desarrollo aparece el problema."
+},
+{
+"pregunta": "¿Qué otro nombre tiene el final de un cuento?",
+"opciones": [
+"Nudo",
+"Presentación de los personajes",
+"Desenlace"
+],
+"correcta": 2,
+"porque": "El final también se llama desenlace."
+},
+{
+"pregunta": "Dividirás un cuento en dibujos. ¿Cuántos haces?",
+"opciones": [
+"Diez, uno por cada palabra que aparece en el cuento",
+"Uno",
+"Tres"
+],
+"correcta": 2,
+"porque": "Hay tres partes: inicio, desarrollo y final."
+}
+],
+"lectura-dramatizada-teatro-primaria": [
+{
+"pregunta": "¿Qué cambia tu voz al leer dramatizado?",
+"opciones": [
+"Volumen, velocidad y tono",
+"El título del texto que lees",
+"Solo el color"
+],
+"correcta": 0,
+"porque": "Con la voz cambias el volumen, la velocidad y el tono."
+},
+{
+"pregunta": "En el guion dice: (susurrando). ¿Qué te indica?",
+"opciones": [
+"Qué personaje debe dejar de hablar",
+"Que debes leer más fuerte para toda la escuela",
+"Cómo actuar o decir la línea"
+],
+"correcta": 2,
+"porque": "Es una acotación, una indicación sobre cómo actuar."
+},
+{
+"pregunta": "¿Cómo actúas en una representación?",
+"opciones": [
+"Leyendo sentado con el guion",
+"Sin hablar, solo con la cara",
+"De memoria y moviéndome"
+],
+"correcta": 2,
+"porque": "En la representación actúas de memoria y te mueves."
+},
+{
+"pregunta": "¿Cuál es un elemento de una obra de teatro?",
+"opciones": [
+"La fecha de caducidad",
+"La etiqueta de un producto",
+"El guion con los diálogos"
+],
+"correcta": 2,
+"porque": "Una obra de teatro tiene guion, personajes y escenografía."
+},
+{
+"pregunta": "En tu grupo leen un diálogo con voces distintas. ¿Qué hacen?",
+"opciones": [
+"Una entrevista",
+"Una exposición con cartel grande",
+"Una lectura dramatizada"
+],
+"correcta": 2,
+"porque": "Dar voz y emoción a cada personaje es leer dramatizado."
+}
+],
+"lenguajes-artisticos-manifestaciones-primaria": [
+{
+"pregunta": "¿Cuál es un elemento de las artes visuales?",
+"opciones": [
+"El ritmo de una melodía muy alegre",
+"El timbre",
+"El color"
+],
+"correcta": 2,
+"porque": "Color, línea y forma son elementos visuales."
+},
+{
+"pregunta": "En el Día de Muertos hay altares. ¿Qué lenguaje artístico es un altar?",
+"opciones": [
+"Visual",
+"Sonoro",
+"Teatro, porque se actúa una historia"
+],
+"correcta": 0,
+"porque": "El altar se ve, por eso pertenece a las artes visuales."
+},
+{
+"pregunta": "¿Qué hace el teatro?",
+"opciones": [
+"Solo usa música sin personajes y sin voz",
+"Solo pinta paisajes",
+"Actúa una historia"
+],
+"correcta": 2,
+"porque": "El teatro actúa una historia."
+},
+{
+"pregunta": "¿Cuál es un elemento de la música?",
+"opciones": [
+"El timbre",
+"La línea",
+"La forma de un dibujo en una pared"
+],
+"correcta": 0,
+"porque": "Ritmo, melodía, volumen y timbre son elementos de la música."
+},
+{
+"pregunta": "Una fiesta de tu comunidad tiene baile y música. ¿Qué lenguajes usa?",
+"opciones": [
+"Solo artes visuales",
+"Danza y música",
+"Solo textos escritos como cartas"
+],
+"correcta": 1,
+"porque": "Baile es danza y los sonidos son música."
+}
+],
+"narracion-sucesos-pasado-presente-primaria-3-4": [
+{
+"pregunta": "Lees: Ayer llovió. ¿Cuándo pasó?",
+"opciones": [
+"En el presente",
+"En el futuro, porque aún no sucede",
+"En el pasado"
+],
+"correcta": 2,
+"porque": "Ayer indica algo que ya ocurrió."
+},
+{
+"pregunta": "Lees: Hoy hace sol. ¿Qué tiempo usa?",
+"opciones": [
+"Presente",
+"Pasado",
+"Un tiempo que nadie usa al hablar"
+],
+"correcta": 0,
+"porque": "Hoy habla de lo de ahora, es presente."
+},
+{
+"pregunta": "¿Cuál oración está en pasado?",
+"opciones": [
+"Mi mamá cocina ahora.",
+"Mi mamá cocinará mañana en la tarde.",
+"Mi mamá cocinó ayer."
+],
+"correcta": 2,
+"porque": "Cocinó ya ocurrió, por eso está en pasado."
+},
+{
+"pregunta": "¿Cuál oración está en presente?",
+"opciones": [
+"Dibujé toda la tarde de ayer en mi casa.",
+"Ahora dibujo.",
+"Ayer dibujé."
+],
+"correcta": 1,
+"porque": "Dibujo pasa ahora, por eso es presente."
+},
+{
+"pregunta": "Cuentas lo que hiciste ayer en la escuela. ¿Qué tiempo usas?",
+"opciones": [
+"Uno que sirve para lo que harás mañana",
+"Presente",
+"Pasado"
+],
+"correcta": 2,
+"porque": "Ayer ya pasó, por eso se cuenta en pasado."
+}
+]
+}

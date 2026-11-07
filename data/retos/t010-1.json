@@ -1,0 +1,574 @@
+{
+"proyecto-de-vida-primaria-5-6": [
+{
+"pregunta": "¿Cómo es una meta clara?",
+"opciones": [
+"Que nunca puedes cambiar",
+"Específica y con fecha",
+"Vaga y sin ninguna fecha"
+],
+"correcta": 1,
+"porque": "Una meta clara dice qué quieres y para cuándo, como aprender a nadar este año."
+},
+{
+"pregunta": "¿Cuál meta es clara?",
+"opciones": [
+"Quiero tener mucho dinero algún día",
+"Ahorrar 100 pesos en tres meses",
+"Quiero ser alguien muy importante"
+],
+"correcta": 1,
+"porque": "Una meta clara dice qué quieres lograr y para cuándo."
+},
+{
+"pregunta": "¿Cuál es el primer paso del truco?",
+"opciones": [
+"Revisar",
+"Actuar",
+"Conocerte"
+],
+"correcta": 2,
+"porque": "Primero te conoces para saber qué te gusta y qué se te da bien."
+},
+{
+"pregunta": "Tu meta es sacar 9 en Ciencias este bimestre. Ya la lograste. ¿Qué haces en el paso final?",
+"opciones": [
+"Cambiar tu meta sin pensar en lo que pasó",
+"Olvidarte de las metas para siempre",
+"Revisar qué funcionó y soñar otra meta"
+],
+"correcta": 2,
+"porque": "Al revisar ves qué te sirvió y puedes plantear una nueva meta."
+},
+{
+"pregunta": "¿Una meta puede cambiar con el tiempo?",
+"opciones": [
+"Sí, porque tú creces y cambias",
+"Solo cambia si otra persona lo decide",
+"No, una meta nunca se cambia"
+],
+"correcta": 0,
+"porque": "Tus gustos y tus ganas cambian, así que tu meta también puede cambiar."
+}
+],
+"sentido-de-comunidad-necesidades-humanas-primaria-5-6": [
+{
+"pregunta": "¿Qué es el sentido de comunidad?",
+"opciones": [
+"Sentirte parte de un grupo y ayudar",
+"Vivir lejos de los demás",
+"Querer ganar siempre tú solo"
+],
+"correcta": 0,
+"porque": "Sentirte parte de un grupo te lleva a ayudar a los demás."
+},
+{
+"pregunta": "Si todos colaboran en una comunidad, ¿qué pasa con las necesidades?",
+"opciones": [
+"Ya no existen",
+"Se cubren peor",
+"Se cubren mejor"
+],
+"correcta": 2,
+"porque": "Cuando todos ayudan, es más fácil que a todos les alcance lo necesario."
+},
+{
+"pregunta": "Tu colonia no tiene botes de basura. ¿Qué acción ayuda más a la comunidad?",
+"opciones": [
+"Tirar tu basura en la calle porque no hay botes",
+"Juntar vecinos para pedir y poner botes",
+"Esperar a que alguien más lo resuelva sin decir nada"
+],
+"correcta": 1,
+"porque": "Cuando los vecinos se unen, resuelven una necesidad de todos."
+},
+{
+"pregunta": "¿Cuál es una necesidad humana básica?",
+"opciones": [
+"Tener un videojuego nuevo",
+"Tener muchos juguetes",
+"Tener agua para beber"
+],
+"correcta": 2,
+"porque": "El agua es necesaria para vivir; lo demás es un gusto."
+},
+{
+"pregunta": "En tu salón, un compañero no trae colores. ¿Qué haces por el bien común?",
+"opciones": [
+"Te burlas de que no los trae",
+"Escondes los tuyos para que no te los pida",
+"Le prestas algunos de los tuyos"
+],
+"correcta": 2,
+"porque": "Compartir ayuda a que todos puedan trabajar en el salón."
+}
+],
+"sueno-y-descanso-primaria": [
+{
+"pregunta": "¿Cuántas horas debe dormir un niño de 8 años?",
+"opciones": [
+"De 4 a 5 horas",
+"De 9 a 12 horas",
+"De 14 a 16 horas seguidas"
+],
+"correcta": 1,
+"porque": "A los niños de 6 a 12 años les toca dormir entre 9 y 12 horas."
+},
+{
+"pregunta": "¿Qué conviene evitar antes de dormir?",
+"opciones": [
+"Tener horario fijo",
+"Las pantallas",
+"Un cuarto oscuro"
+],
+"correcta": 1,
+"porque": "Las pantallas hacen que cueste más trabajo quedarte dormido."
+},
+{
+"pregunta": "Un amigo de 15 años duerme 9 horas. ¿Está dentro de lo recomendado?",
+"opciones": [
+"No, necesita dormir solo 5 horas",
+"No, debería dormir 14 horas o más",
+"Sí, de 8 a 10 horas es lo adecuado"
+],
+"correcta": 2,
+"porque": "De los 13 a los 18 años se recomiendan de 8 a 10 horas."
+},
+{
+"pregunta": "¿Cuál consejo ayuda a dormir mejor?",
+"opciones": [
+"Ver el celular en la cama hasta cansarte",
+"Acostarte a la misma hora",
+"Dormir cada día a una hora distinta"
+],
+"correcta": 1,
+"porque": "Un horario fijo acostumbra al cuerpo a dormir a tiempo."
+},
+{
+"pregunta": "Mañana hay escuela y te duermes a las 8 de la noche; te levantas a las 6 y media. ¿Cuántas horas dormiste?",
+"opciones": [
+"10 horas y media",
+"14 horas y media",
+"8 horas y media"
+],
+"correcta": 0,
+"porque": "De las 8 de la noche a las 6:30 de la mañana hay 10 horas y media."
+}
+],
+"animales-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice vaca en inglés?",
+"opciones": [
+"horse",
+"cat",
+"cow"
+],
+"correcta": 2,
+"porque": "Vaca se dice cow; cat es gato y horse es caballo."
+},
+{
+"pregunta": "¿Qué significa snake?",
+"opciones": [
+"Pez",
+"Serpiente",
+"Elefante"
+],
+"correcta": 1,
+"porque": "Snake es serpiente, un animal de la selva."
+},
+{
+"pregunta": "Ves un león en el zoológico y dices:",
+"opciones": [
+"It is a lion",
+"What is it a lion",
+"It is a lions"
+],
+"correcta": 0,
+"porque": "Para decir qué es se usa It is a más el animal."
+},
+{
+"pregunta": "¿Qué pregunta usas para saber qué animal es?",
+"opciones": [
+"How are you?",
+"It is a dog",
+"What is it?"
+],
+"correcta": 2,
+"porque": "What is it? significa ¿qué es? y la respuesta empieza con It is a."
+},
+{
+"pregunta": "En la granja ves un pollo. ¿Cómo se dice pollo o gallina?",
+"opciones": [
+"monkey",
+"fish",
+"chicken"
+],
+"correcta": 2,
+"porque": "Chicken es pollo o gallina y vive en la granja."
+}
+],
+"colores-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice azul en inglés?",
+"opciones": [
+"brown",
+"blue",
+"green"
+],
+"correcta": 1,
+"porque": "Blue es azul; green es verde y brown es café."
+},
+{
+"pregunta": "¿Qué quiere decir purple?",
+"opciones": [
+"Morado",
+"Rosa",
+"Naranja"
+],
+"correcta": 0,
+"porque": "Purple es el color morado."
+},
+{
+"pregunta": "¿Cómo dices «una mochila verde»?",
+"opciones": [
+"green a backpack",
+"a green backpack",
+"a backpack green"
+],
+"correcta": 1,
+"porque": "En inglés primero va el color y luego la cosa."
+},
+{
+"pregunta": "¿Qué preguntas para saber el color de algo?",
+"opciones": [
+"How old are you?",
+"Where is it?",
+"What color is it?"
+],
+"correcta": 2,
+"porque": "What color is it? significa ¿de qué color es?"
+},
+{
+"pregunta": "Tu compañero dice: It is white. ¿De qué color es?",
+"opciones": [
+"Negro",
+"Gris",
+"Blanco"
+],
+"correcta": 2,
+"porque": "White es blanco, como una hoja."
+}
+],
+"como-me-siento-en-ingles-primaria": [
+{
+"pregunta": "¿Qué significa I am sad?",
+"opciones": [
+"Estoy feliz",
+"Estoy triste",
+"Estoy enojado"
+],
+"correcta": 1,
+"porque": "Sad es triste."
+},
+{
+"pregunta": "¿Cómo respondes si te preguntan How are you? y estás feliz?",
+"opciones": [
+"You are happy",
+"I am happy",
+"I happy am"
+],
+"correcta": 1,
+"porque": "Respondes con I am y la emoción."
+},
+{
+"pregunta": "Tienes mucho miedo en una tormenta. ¿Qué dices?",
+"opciones": [
+"I am scared",
+"I am hungry",
+"I am tired"
+],
+"correcta": 0,
+"porque": "Scared significa tener miedo."
+},
+{
+"pregunta": "En inglés, ¿cómo se dice «tengo hambre»?",
+"opciones": [
+"I hungry am",
+"I am hungry",
+"I have hungry"
+],
+"correcta": 1,
+"porque": "En inglés se dice estoy hambriento: I am hungry."
+},
+{
+"pregunta": "Llegas de correr y te sientes sin fuerzas. ¿Qué dices?",
+"opciones": [
+"I am happy",
+"I am tired",
+"I am angry"
+],
+"correcta": 1,
+"porque": "Tired significa cansado."
+}
+],
+"el-abecedario-en-ingles-primaria": [
+{
+"pregunta": "¿Cuántas letras tiene el abecedario en inglés?",
+"opciones": [
+"27",
+"26",
+"30"
+],
+"correcta": 1,
+"porque": "El abecedario inglés tiene 26 letras porque no lleva la ñ."
+},
+{
+"pregunta": "¿Cómo suena la letra E en inglés?",
+"opciones": [
+"i",
+"ei",
+"e"
+],
+"correcta": 0,
+"porque": "En inglés la E suena i."
+},
+{
+"pregunta": "¿Cómo suena la letra I en inglés?",
+"opciones": [
+"i",
+"ei",
+"ai"
+],
+"correcta": 2,
+"porque": "La I suena ai; la E y la I están cambiadas."
+},
+{
+"pregunta": "Tu nombre es Ana y lo deletreas en inglés. ¿Cómo suena la primera letra?",
+"opciones": [
+"a",
+"ei",
+"ai"
+],
+"correcta": 1,
+"porque": "La letra A suena ei en inglés."
+},
+{
+"pregunta": "¿Qué pregunta usas para saber cómo se escribe una palabra?",
+"opciones": [
+"Where are you from?",
+"What is your name?",
+"How do you spell it?"
+],
+"correcta": 2,
+"porque": "How do you spell it? significa ¿cómo se deletrea?"
+}
+],
+"hello-y-goodbye-primaria": [
+{
+"pregunta": "Llegas a la escuela por la mañana. ¿Qué dices?",
+"opciones": [
+"Good morning",
+"Goodbye",
+"Good night"
+],
+"correcta": 0,
+"porque": "Good morning significa buenos días."
+},
+{
+"pregunta": "¿Qué significa See you?",
+"opciones": [
+"Nos vemos",
+"Buenas tardes",
+"Mucho gusto"
+],
+"correcta": 0,
+"porque": "See you es una forma de despedirte."
+},
+{
+"pregunta": "Te vas a dormir. ¿Qué dices?",
+"opciones": [
+"Good evening",
+"Hello",
+"Good night"
+],
+"correcta": 2,
+"porque": "Good night se dice al irte o al dormir."
+},
+{
+"pregunta": "¿Cómo respondes a How are you? si estás bien?",
+"opciones": [
+"I am fine, thank you",
+"Good morning, I am",
+"Goodbye, thank you"
+],
+"correcta": 0,
+"porque": "Respondes diciendo que estás bien y das las gracias."
+},
+{
+"pregunta": "Llegas a una fiesta por la noche. ¿Qué saludo usas?",
+"opciones": [
+"Good night",
+"Good evening",
+"Bye"
+],
+"correcta": 1,
+"porque": "Good evening se usa para saludar al llegar por la noche."
+}
+],
+"in-on-y-under-primaria": [
+{
+"pregunta": "¿Qué significa under?",
+"opciones": [
+"Dentro",
+"Debajo",
+"Sobre"
+],
+"correcta": 1,
+"porque": "Under quiere decir debajo."
+},
+{
+"pregunta": "Completa: The book is ___ the desk. El libro está sobre el escritorio.",
+"opciones": [
+"under",
+"in",
+"on"
+],
+"correcta": 2,
+"porque": "On significa sobre, tocando algo."
+},
+{
+"pregunta": "Tu lápiz está dentro del estuche. ¿Qué palabra usas?",
+"opciones": [
+"on",
+"under",
+"in"
+],
+"correcta": 2,
+"porque": "In significa dentro."
+},
+{
+"pregunta": "Completa: The shoes are ___ the bed. (debajo)",
+"opciones": [
+"over",
+"inside",
+"under"
+],
+"correcta": 2,
+"porque": "Under significa debajo."
+},
+{
+"pregunta": "¿Qué pregunta usas para saber dónde está algo?",
+"opciones": [
+"What is the pen?",
+"Who is the pen?",
+"Where is the pen?"
+],
+"correcta": 2,
+"porque": "Where is...? significa ¿dónde está...?"
+}
+],
+"instrucciones-del-salon-en-ingles-primaria": [
+{
+"pregunta": "Tu maestra dice Stand up. ¿Qué haces?",
+"opciones": [
+"Te sientas",
+"Te levantas",
+"Abres el libro"
+],
+"correcta": 1,
+"porque": "Stand up significa levántate."
+},
+{
+"pregunta": "¿Qué significa Listen?",
+"opciones": [
+"Mira",
+"Escribe",
+"Escucha"
+],
+"correcta": 2,
+"porque": "Listen es escucha."
+},
+{
+"pregunta": "No entendiste la clase. ¿Qué dices en inglés?",
+"opciones": [
+"I don't understand",
+"Sit down",
+"Open your book"
+],
+"correcta": 0,
+"porque": "I don't understand significa no entiendo."
+},
+{
+"pregunta": "Tu maestra dice Close your book. ¿Qué haces?",
+"opciones": [
+"Abres el libro",
+"Lees el libro",
+"Cierras el libro"
+],
+"correcta": 2,
+"porque": "Close significa cerrar."
+},
+{
+"pregunta": "Quieres que la maestra lo repita con cortesía. ¿Qué dices?",
+"opciones": [
+"Repeat, sit down",
+"May I go to the bathroom?",
+"Can you repeat, please?"
+],
+"correcta": 2,
+"porque": "Can you repeat, please? significa ¿puede repetir, por favor?"
+}
+],
+"is-it-yes-it-is-primaria": [
+{
+"pregunta": "¿Cómo preguntas «¿Es una pelota?»",
+"opciones": [
+"It is a ball?",
+"A it is ball?",
+"Is it a ball?"
+],
+"correcta": 2,
+"porque": "Para preguntar, is pasa al frente."
+},
+{
+"pregunta": "Te preguntan Is it a cat? y sí es un gato. ¿Qué respondes?",
+"opciones": [
+"Yes, it is",
+"No, it isn't",
+"Yes, it isn't"
+],
+"correcta": 0,
+"porque": "Si es verdad, respondes Yes, it is."
+},
+{
+"pregunta": "¿Qué significa isn't?",
+"opciones": [
+"Is not",
+"Is a",
+"It is"
+],
+"correcta": 0,
+"porque": "Isn't es la forma corta de is not."
+},
+{
+"pregunta": "Te preguntan Is it a dog? y es un pez. ¿Qué respondes?",
+"opciones": [
+"No, it isn't",
+"Yes, it is",
+"No, it is"
+],
+"correcta": 0,
+"porque": "Como no es un perro, respondes No, it isn't."
+},
+{
+"pregunta": "Ordena: it / is / a / book. ¿Cuál es la afirmación correcta?",
+"opciones": [
+"A book it is",
+"It is a book",
+"Is it a book"
+],
+"correcta": 1,
+"porque": "Para decir algo, it va antes de is."
+}
+]
+}

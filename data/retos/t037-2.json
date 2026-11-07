@@ -1,0 +1,522 @@
+{
+"filosofos-presocraticos-prepa": [
+{
+"pregunta": "¿Qué buscaban los presocráticos con el arjé?",
+"opciones": [
+"El precio del pan",
+"El origen de todo",
+"El nombre de un rey"
+],
+"correcta": 1,
+"porque": "El arjé es el origen de todas las cosas."
+},
+{
+"pregunta": "Para Tales, ¿de qué estaba hecho todo?",
+"opciones": [
+"Del agua",
+"Del fuego",
+"De la tierra"
+],
+"correcta": 0,
+"porque": "Tales dijo que el origen de todo era el agua."
+},
+{
+"pregunta": "¿Quién dijo que todo cambia y habló del fuego?",
+"opciones": [
+"Parménides",
+"Tales",
+"Heráclito"
+],
+"correcta": 2,
+"porque": "Heráclito decía que todo cambia, como el fuego."
+},
+{
+"pregunta": "¿Quién habló de átomos?",
+"opciones": [
+"Demócrito",
+"Anaxímenes",
+"Heráclito"
+],
+"correcta": 0,
+"porque": "Demócrito pensó que todo se forma con átomos."
+},
+{
+"pregunta": "En tu salón preguntan de qué está hecho todo, sin cuentos de dioses. ¿Qué hacen?",
+"opciones": [
+"Filosofar como presocráticos",
+"Copiar un cuento de dioses",
+"Dejar de hacer preguntas"
+],
+"correcta": 0,
+"porque": "Los presocráticos buscaban explicar sin usar mitos."
+}
+],
+"hume-y-el-empirismo-prepa": [
+{
+"pregunta": "¿De dónde viene el conocimiento para el empirismo?",
+"opciones": [
+"De la pura razón",
+"De la experiencia",
+"De los sueños"
+],
+"correcta": 1,
+"porque": "El empirismo dice que se aprende experimentando."
+},
+{
+"pregunta": "¿Quién dijo que la mente es una hoja en blanco?",
+"opciones": [
+"Locke",
+"Kant",
+"Platón"
+],
+"correcta": 0,
+"porque": "Locke comparó la mente con una hoja en blanco."
+},
+{
+"pregunta": "Nadie sabe a qué sabe un limón sin probarlo. ¿Qué idea ilustra?",
+"opciones": [
+"La lógica",
+"El racionalismo",
+"El empirismo"
+],
+"correcta": 2,
+"porque": "Saber algo por probarlo es aprender por experiencia."
+},
+{
+"pregunta": "Según Hume, ¿qué es la causa y efecto?",
+"opciones": [
+"Una costumbre de la mente",
+"Un castigo de los dioses",
+"Una ley que sí se ve"
+],
+"correcta": 0,
+"porque": "Vemos dos cosas juntas y creemos que una causa la otra."
+},
+{
+"pregunta": "¿Quién es Hume?",
+"opciones": [
+"Un pintor de Grecia",
+"Un filósofo empirista",
+"Un rey de Escocia"
+],
+"correcta": 1,
+"porque": "David Hume fue un filósofo empirista."
+}
+],
+"kant-prepa": [
+{
+"pregunta": "¿Qué dice el imperativo categórico?",
+"opciones": [
+"Actúa como si tu regla fuera ley de todos",
+"Haz lo que más te convenga a ti",
+"Haz lo que quieras con tu vida"
+],
+"correcta": 0,
+"porque": "Tu regla debe poder valer para todas las personas."
+},
+{
+"pregunta": "Un amigo quiere copiar en el examen. Aplicas la regla de Kant. ¿Qué piensas?",
+"opciones": [
+"Si todos copian, todos ganan",
+"Copiar solo importa si me ven",
+"Si todos copian, nadie aprende"
+],
+"correcta": 2,
+"porque": "Preguntarte qué pasaría si todos lo hicieran muestra que copiar no puede ser regla."
+},
+{
+"pregunta": "¿Qué obra escribió Kant?",
+"opciones": [
+"Así habló Zaratustra",
+"La República de Platón",
+"Crítica de la razón pura"
+],
+"correcta": 2,
+"porque": "Kant escribió la Crítica de la razón pura."
+},
+{
+"pregunta": "¿Qué unió Kant?",
+"opciones": [
+"Racionalismo y empirismo",
+"Arte y deporte griego",
+"Fe y magia antigua"
+],
+"correcta": 0,
+"porque": "Kant unió la razón con la experiencia."
+},
+{
+"pregunta": "Según Kant, ¿cómo tratar a las personas?",
+"opciones": [
+"Como fines, no como medios",
+"Como herramientas útiles",
+"Como rivales siempre"
+],
+"correcta": 0,
+"porque": "Cada persona vale por sí misma, no por su utilidad."
+}
+],
+"marx-prepa": [
+{
+"pregunta": "¿Con quién escribió Marx el Manifiesto comunista?",
+"opciones": [
+"Con Kant",
+"Con Platón",
+"Con Engels"
+],
+"correcta": 2,
+"porque": "Marx escribió el Manifiesto junto con Engels."
+},
+{
+"pregunta": "¿Quién es el proletariado?",
+"opciones": [
+"Quien es dueño de la fábrica",
+"Quien trabaja por un salario",
+"Quien manda en todo el país"
+],
+"correcta": 1,
+"porque": "El proletariado vive de su trabajo."
+},
+{
+"pregunta": "¿Qué es la plusvalía?",
+"opciones": [
+"Un descuento en la tienda",
+"Un impuesto que cobra el banco",
+"Ganancia del trabajo no pagado"
+],
+"correcta": 2,
+"porque": "La plusvalía es lo que gana el dueño del trabajo no pagado."
+},
+{
+"pregunta": "¿Qué obra escribió Marx?",
+"opciones": [
+"El capital",
+"Las Confesiones",
+"La República"
+],
+"correcta": 0,
+"porque": "Marx escribió El capital."
+},
+{
+"pregunta": "Un obrero hace cien piezas y le pagan por cincuenta. ¿Qué idea de Marx se ve?",
+"opciones": [
+"El mito de la caverna",
+"La plusvalía",
+"El término medio"
+],
+"correcta": 1,
+"porque": "Parte del trabajo no se paga, y eso es plusvalía."
+}
+],
+"nietzsche-prepa": [
+{
+"pregunta": "¿Qué libro escribió Nietzsche?",
+"opciones": [
+"La Suma teológica",
+"Así habló Zaratustra",
+"El segundo sexo"
+],
+"correcta": 1,
+"porque": "Así habló Zaratustra es obra de Nietzsche."
+},
+{
+"pregunta": "¿Qué es la voluntad de poder?",
+"opciones": [
+"El gusto por pelear",
+"El impulso a crecer",
+"El deseo de mandar"
+],
+"correcta": 1,
+"porque": "Nietzsche la entendía como un impulso a crecer."
+},
+{
+"pregunta": "¿De qué país era Nietzsche?",
+"opciones": [
+"Francia",
+"Grecia",
+"Alemania"
+],
+"correcta": 2,
+"porque": "Friedrich Nietzsche fue un filósofo alemán."
+},
+{
+"pregunta": "¿Quién es el superhombre?",
+"opciones": [
+"Quien crea sus propios valores",
+"Quien vuela como un héroe",
+"Quien tiene más fuerza física"
+],
+"correcta": 0,
+"porque": "El superhombre crea sus propios valores."
+},
+{
+"pregunta": "¿Qué criticó Nietzsche?",
+"opciones": [
+"El uso del agua",
+"La moral tradicional",
+"El arte de cantar"
+],
+"correcta": 1,
+"porque": "Criticó la moral tradicional y los valores viejos."
+}
+],
+"pensamiento-nahuatl-prepa": [
+{
+"pregunta": "¿Cómo se llamaban los sabios nahuas?",
+"opciones": [
+"Pochtecas",
+"Tlatoanis",
+"Tlamatinime"
+],
+"correcta": 2,
+"porque": "Los sabios nahuas eran los tlamatinime."
+},
+{
+"pregunta": "¿Qué significa flor y canto?",
+"opciones": [
+"Un jardín con mucha música",
+"Un baile de fiesta del pueblo",
+"La poesía como camino a la verdad"
+],
+"correcta": 2,
+"porque": "Flor y canto era buscar la verdad con poesía."
+},
+{
+"pregunta": "¿Quién estudió estas ideas?",
+"opciones": [
+"Miguel León-Portilla",
+"Samuel Ramos Magaña",
+"Enrique Dussel Ambrosini"
+],
+"correcta": 0,
+"porque": "León-Portilla estudió el pensamiento náhuatl."
+},
+{
+"pregunta": "¿Qué sabio nahua fue poeta?",
+"opciones": [
+"Nezahualcóyotl",
+"Moctezuma II",
+"Cuauhtémoc"
+],
+"correcta": 0,
+"porque": "Nezahualcóyotl escribió versos y fue sabio."
+},
+{
+"pregunta": "¿Qué preguntaban los tlamatinime?",
+"opciones": [
+"Quién gana la guerra",
+"Cuánto cuesta el maíz",
+"Qué es verdadero"
+],
+"correcta": 2,
+"porque": "Se preguntaban qué es verdadero y qué hay tras la muerte."
+}
+],
+"pensamiento-propio-practica-filosofica-prepa": [
+{
+"pregunta": "Tu amigo dice: Lo creo porque todos lo dicen. ¿Es pensamiento propio?",
+"opciones": [
+"No, repite lo que otros dicen",
+"Sí, porque es muy popular",
+"Sí, porque suena bien a todos"
+],
+"correcta": 0,
+"porque": "Pensar por ti mismo es revisar tus ideas, no repetirlas."
+},
+{
+"pregunta": "¿Qué significa problematizar?",
+"opciones": [
+"Causar muchos problemas",
+"Volver pregunta algo obvio",
+"Evitar toda clase de duda"
+],
+"correcta": 1,
+"porque": "Es convertir algo que parece obvio en una pregunta."
+},
+{
+"pregunta": "Te preguntas por qué existe una regla de la escuela. ¿Qué haces?",
+"opciones": [
+"La ignoro sin pensar más",
+"Me quejo con todos ellos",
+"Busco razones y las comparo"
+],
+"correcta": 2,
+"porque": "Después de preguntar, se buscan razones."
+},
+{
+"pregunta": "¿Cuál es el primer paso para pensar por ti?",
+"opciones": [
+"Copiar una frase",
+"Partir de algo diario",
+"Esperar a que otro piense"
+],
+"correcta": 1,
+"porque": "Se empieza con algo de todos los días."
+},
+{
+"pregunta": "Con nuevas razones, ¿qué haces con tu postura?",
+"opciones": [
+"La cambio si hace falta",
+"La escondo de los demás",
+"La defiendo siempre igual"
+],
+"correcta": 0,
+"porque": "Pensar por ti incluye cambiar de postura si hay buenas razones."
+}
+],
+"platon-prepa": [
+{
+"pregunta": "¿Qué escuela fundó Platón?",
+"opciones": [
+"El Liceo",
+"La Academia",
+"La Biblioteca"
+],
+"correcta": 1,
+"porque": "Platón fundó la Academia."
+},
+{
+"pregunta": "¿De quién fue discípulo Platón?",
+"opciones": [
+"De Tales",
+"De Aristóteles",
+"De Sócrates"
+],
+"correcta": 2,
+"porque": "Platón aprendió con Sócrates."
+},
+{
+"pregunta": "En el mito de la caverna, ¿qué creen las personas?",
+"opciones": [
+"Que no hay nada afuera",
+"Que las sombras son lo real",
+"Que el sol es una sombra"
+],
+"correcta": 1,
+"porque": "Ven solo sombras y creen que son la realidad."
+},
+{
+"pregunta": "¿Qué libro político escribió Platón?",
+"opciones": [
+"La República",
+"El Príncipe",
+"El capital"
+],
+"correcta": 0,
+"porque": "La República habla del gobierno de sabios."
+},
+{
+"pregunta": "¿Qué hay en el mundo de las Ideas?",
+"opciones": [
+"Cosas muy rotas",
+"Solo sombras vacías",
+"Modelos perfectos"
+],
+"correcta": 2,
+"porque": "La teoría de las Ideas dice que allí están las cosas perfectas."
+}
+],
+"preguntas-significativas-vida-prepa": [
+{
+"pregunta": "¿Cuál es una pregunta filosófica?",
+"opciones": [
+"¿Qué día es hoy?",
+"¿Cuánto es dos más dos?",
+"¿Qué es la amistad?"
+],
+"correcta": 2,
+"porque": "Una pregunta filosófica es abierta y permite varias respuestas."
+},
+{
+"pregunta": "¿Cuántos años tiene Aristóteles? es una pregunta...",
+"opciones": [
+"Filosófica y muy abierta",
+"Sin respuesta que se pueda dar",
+"De dato con una respuesta"
+],
+"correcta": 2,
+"porque": "Tiene una sola respuesta, no abre discusión."
+},
+{
+"pregunta": "¿Cómo abres la pregunta El dinero da felicidad, sí o no?",
+"opciones": [
+"¿Quién tiene dinero?",
+"¿Qué es la felicidad?",
+"¿Es dinero o no?"
+],
+"correcta": 1,
+"porque": "Una pregunta con qué abre varias respuestas."
+},
+{
+"pregunta": "¿Con cuál palabra suele empezar una pregunta abierta?",
+"opciones": [
+"Por qué",
+"Cuándo salió",
+"Dónde queda"
+],
+"correcta": 0,
+"porque": "Las preguntas abiertas empiezan con qué, por qué o cómo."
+},
+{
+"pregunta": "Quieres hacer una pregunta sobre la amistad. ¿Cuál sirve?",
+"opciones": [
+"¿Tienes amigos?",
+"¿Cómo es un buen amigo?",
+"¿Hoy viste a tu amigo?"
+],
+"correcta": 1,
+"porque": "Sirve una pregunta abierta que pida razones."
+}
+],
+"que-es-la-filosofia-y-sus-ramas-prepa": [
+{
+"pregunta": "¿Qué significa la palabra filosofía?",
+"opciones": [
+"Amor a la sabiduría",
+"Estudio de números",
+"Miedo a pensar"
+],
+"correcta": 0,
+"porque": "Filosofía viene de amar la sabiduría."
+},
+{
+"pregunta": "¿Qué rama estudia lo que está bien?",
+"opciones": [
+"La estética",
+"La lógica",
+"La ética"
+],
+"correcta": 2,
+"porque": "La ética pregunta qué está bien."
+},
+{
+"pregunta": "¿Qué rama estudia cómo razonar bien?",
+"opciones": [
+"La lógica",
+"La política",
+"La metafísica"
+],
+"correcta": 0,
+"porque": "La lógica enseña a razonar de manera correcta."
+},
+{
+"pregunta": "¿Qué rama pregunta qué es la belleza?",
+"opciones": [
+"La epistemología",
+"La ética",
+"La estética"
+],
+"correcta": 2,
+"porque": "La estética estudia lo bello y el arte."
+},
+{
+"pregunta": "Te preguntas cómo convivir en el salón. ¿Qué rama es?",
+"opciones": [
+"La política",
+"La metafísica",
+"La lógica"
+],
+"correcta": 0,
+"porque": "La política pregunta cómo convivir."
+}
+]
+}

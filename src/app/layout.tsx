@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { Atkinson_Hyperlegible } from "next/font/google";
+import { ASISTENTE, ESCUELA } from "@/lib/marca";
 import "./globals.css";
 
 const letra = Atkinson_Hyperlegible({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
-  title: "Escuela de regularización",
-  description: "Explicaciones claras de los temas de la SEP, con Maestro en vivo.",
+  title: ESCUELA,
+  description: `Explicaciones claras de los temas de la SEP, con ${ASISTENTE}.`,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

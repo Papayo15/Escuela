@@ -1,0 +1,522 @@
+{
+"familia-y-partes-del-cuerpo-secundaria": [
+{
+"pregunta": "¿Cómo dices «Me duele la mano»?",
+"opciones": [
+"I hurt hand.",
+"My hand hurts.",
+"The hand hurts me."
+],
+"correcta": 1,
+"porque": "Con partes del cuerpo se usa my, no the."
+},
+{
+"pregunta": "¿Qué significa *stomach*?",
+"opciones": [
+"espalda",
+"pierna",
+"estómago"
+],
+"correcta": 2,
+"porque": "Stomach es el estómago, donde sientes hambre."
+},
+{
+"pregunta": "¿Qué significa *aunt*?",
+"opciones": [
+"tío",
+"tía",
+"prima"
+],
+"correcta": 1,
+"porque": "Aunt es la hermana de tu mamá o de tu papá."
+},
+{
+"pregunta": "Completa: *I have two ___.* (dos hermanas)",
+"opciones": [
+"sistres",
+"sisters",
+"sister"
+],
+"correcta": 1,
+"porque": "Con dos se usa el plural: sisters."
+},
+{
+"pregunta": "¿Cómo dices «Tengo dolor de cabeza»?",
+"opciones": [
+"I have a head.",
+"I am a headache.",
+"I have a headache."
+],
+"correcta": 2,
+"porque": "Headache significa dolor de cabeza y se usa con I have."
+}
+],
+"futuro-con-going-to-secundaria": [
+{
+"pregunta": "Completa: *They ___ going to travel next week.*",
+"opciones": [
+"are",
+"is",
+"am"
+],
+"correcta": 0,
+"porque": "They es plural, por eso se usa are."
+},
+{
+"pregunta": "¿Cuál oración muestra un plan ya decidido?",
+"opciones": [
+"I visiting my aunt.",
+"I am going to visit my aunt.",
+"I will visit my aunt now."
+],
+"correcta": 1,
+"porque": "Going to sirve para planes que ya tienes."
+},
+{
+"pregunta": "Mira las nubes negras. ¿Qué dices?",
+"opciones": [
+"It is going to rain.",
+"It going rain.",
+"It is go to rain."
+],
+"correcta": 0,
+"porque": "Going to también se usa cuando ves señales de lo que viene."
+},
+{
+"pregunta": "¿Cómo preguntas si Luis va a venir?",
+"opciones": [
+"Does Luis going to come?",
+"Luis is going to come?",
+"Is Luis going to come?"
+],
+"correcta": 2,
+"porque": "Se pone is al principio y luego el sujeto."
+},
+{
+"pregunta": "Niega: *She is going to eat.*",
+"opciones": [
+"She not is going to eat.",
+"She is not going to eat.",
+"She doesn't going to eat."
+],
+"correcta": 1,
+"porque": "Se agrega not después de is."
+}
+],
+"futuro-con-will-secundaria": [
+{
+"pregunta": "Suena el teléfono y dices que contestas tú. ¿Qué dices?",
+"opciones": [
+"I am answering it tomorrow.",
+"I will answer it.",
+"I answered it will."
+],
+"correcta": 1,
+"porque": "Will sirve para decisiones del momento."
+},
+{
+"pregunta": "Corrige: *She will to come.*",
+"opciones": [
+"She wills come.",
+"She will comes.",
+"She will come."
+],
+"correcta": 2,
+"porque": "Después de will no se usa to ni -s."
+},
+{
+"pregunta": "¿Cómo se dice *will not* en forma corta?",
+"opciones": [
+"willn't",
+"don't",
+"won't"
+],
+"correcta": 2,
+"porque": "Won't es la forma corta de will not."
+},
+{
+"pregunta": "¿Cómo preguntas si Ana ganará?",
+"opciones": [
+"Does Ana will win?",
+"Will Ana wins?",
+"Will Ana win?"
+],
+"correcta": 2,
+"porque": "Con will, se pone will primero y luego el verbo base."
+},
+{
+"pregunta": "¿Qué significa *I'll help you*?",
+"opciones": [
+"Yo te ayudo ayer.",
+"Yo te ayudaré.",
+"Yo te ayudé."
+],
+"correcta": 1,
+"porque": "I'll es I will, una promesa o decisión del momento."
+}
+],
+"have-to-para-obligaciones-secundaria": [
+{
+"pregunta": "Completa: *Ana ___ to do homework.*",
+"opciones": [
+"haves",
+"have",
+"has"
+],
+"correcta": 2,
+"porque": "Con she, he o it se usa has to."
+},
+{
+"pregunta": "¿Qué significa *You don't have to run*?",
+"opciones": [
+"Debes correr.",
+"No hace falta que corras.",
+"Está prohibido correr."
+],
+"correcta": 1,
+"porque": "Don't have to dice que no es necesario."
+},
+{
+"pregunta": "Pasa a pasado: *We have to wait.*",
+"opciones": [
+"We haved to wait.",
+"We had to wait.",
+"We have to waited."
+],
+"correcta": 1,
+"porque": "El pasado de have to es had to."
+},
+{
+"pregunta": "¿Cómo preguntas si Tom tiene que salir?",
+"opciones": [
+"Does Tom have to leave?",
+"Has Tom to leave?",
+"Tom have to leave?"
+],
+"correcta": 0,
+"porque": "Con have to la pregunta usa do o does."
+},
+{
+"pregunta": "¿Qué significa *mustn't*?",
+"opciones": [
+"tuve que",
+"no hace falta",
+"está prohibido"
+],
+"correcta": 2,
+"porque": "Mustn't es prohibición, distinto de don't have to."
+}
+],
+"identidad-cultura-habla-inglesa-secundaria": [
+{
+"pregunta": "¿En cuál país se habla inglés?",
+"opciones": [
+"Brasil",
+"Japón",
+"Canadá"
+],
+"correcta": 2,
+"porque": "Canadá es uno de los países donde el inglés es lengua común."
+},
+{
+"pregunta": "Al hablar de otra cultura, debes:",
+"opciones": [
+"decir que es peor",
+"burlarte",
+"describir, comparar y respetar"
+],
+"correcta": 2,
+"porque": "Cada cultura merece respeto, sin decir que una es mejor."
+},
+{
+"pregunta": "Elige la oración:",
+"opciones": [
+"Canadians celebrates Canada Day on July 1st.",
+"Canadians celebrate Canada Day on July 1st.",
+"Canadians celebrated Day Canada July."
+],
+"correcta": 1,
+"porque": "Las costumbres se dicen en presente simple."
+},
+{
+"pregunta": "Completa: *In Mexico, we ___ the Day of the Dead.*",
+"opciones": [
+"celebrates",
+"celebrate",
+"celebrating"
+],
+"correcta": 1,
+"porque": "Con we el verbo queda sin -s: celebrate."
+},
+{
+"pregunta": "¿Cuál afirmación es verdadera?",
+"opciones": [
+"El inglés se habla en muchos países.",
+"El inglés se habla solo en Europa.",
+"El inglés se habla solo en un país."
+],
+"correcta": 0,
+"porque": "Se habla en Estados Unidos, India, Nigeria y más países."
+}
+],
+"imperativos-en-ingles-secundaria": [
+{
+"pregunta": "¿Cuál oración es un imperativo?",
+"opciones": [
+"Open your book.",
+"He opens it.",
+"You open your book."
+],
+"correcta": 0,
+"porque": "El imperativo es el verbo solo, sin persona."
+},
+{
+"pregunta": "Niega: *Run in the hall.*",
+"opciones": [
+"Don't running in the hall.",
+"Not run in the hall.",
+"Don't run in the hall."
+],
+"correcta": 2,
+"porque": "Para negar el imperativo se usa don't más el verbo."
+},
+{
+"pregunta": "¿Cómo dices «Vamos a leer»?",
+"opciones": [
+"We reads.",
+"Read we.",
+"Let's read."
+],
+"correcta": 2,
+"porque": "Let's sirve para invitar y hacer algo juntos."
+},
+{
+"pregunta": "¿Cuál orden suena más cortés?",
+"opciones": [
+"You sit.",
+"Please sit down.",
+"Sit down."
+],
+"correcta": 1,
+"porque": "Agregar please vuelve la orden más amable."
+},
+{
+"pregunta": "¿Dónde se usan mucho los imperativos?",
+"opciones": [
+"en cuentos de hadas",
+"en recetas y reglas",
+"en chistes largos"
+],
+"correcta": 1,
+"porque": "Los imperativos dan instrucciones, por eso van en recetas y reglas."
+}
+],
+"ingles-arte-cultura-incluyente-secundaria": [
+{
+"pregunta": "¿Qué frase sirve para dar tu opinión sobre una canción?",
+"opciones": [
+"Where is the door?",
+"This is a table.",
+"I like it because..."
+],
+"correcta": 2,
+"porque": "I like it because da una razón de lo que te gusta."
+},
+{
+"pregunta": "¿Qué significa *tradition*?",
+"opciones": [
+"respeto",
+"arte",
+"tradición"
+],
+"correcta": 2,
+"porque": "Tradition es una costumbre que pasa de generación en generación."
+},
+{
+"pregunta": "Valorar otra cultura significa:",
+"opciones": [
+"respetarla sin dejar la tuya",
+"burlarte de ella",
+"dejar la tuya"
+],
+"correcta": 0,
+"porque": "Se puede aprender de otras culturas y conservar la propia."
+},
+{
+"pregunta": "Ordena: *is / This / music / my favorite*",
+"opciones": [
+"Is this music favorite my.",
+"My this is music favorite.",
+"This is my favorite music."
+],
+"correcta": 2,
+"porque": "En inglés el orden básico es sujeto, verbo y luego lo demás."
+},
+{
+"pregunta": "¿Cómo preguntas qué significa una tradición para alguien?",
+"opciones": [
+"Where is this tradition?",
+"Who is this tradition?",
+"What does this tradition mean to you?"
+],
+"correcta": 2,
+"porque": "What does...mean? pregunta el significado de algo."
+}
+],
+"ingles-emociones-sentimientos-familia-escuela": [
+{
+"pregunta": "Completa: *I feel ___ because I have an exam.* (nervioso)",
+"opciones": [
+"nervous",
+"angry",
+"proud"
+],
+"correcta": 0,
+"porque": "Tener examen puede dar nervios; nervous significa nervioso."
+},
+{
+"pregunta": "¿Cómo preguntas a un amigo cómo se siente?",
+"opciones": [
+"Where do you feel?",
+"How do you feel?",
+"What is feel?"
+],
+"correcta": 1,
+"porque": "How do you feel? significa ¿cómo te sientes?"
+},
+{
+"pregunta": "¿Qué significa *proud*?",
+"opciones": [
+"enojado",
+"cansado",
+"orgulloso"
+],
+"correcta": 2,
+"porque": "Proud es el sentimiento de orgullo."
+},
+{
+"pregunta": "Completa: *I am sad ___ my friend moved away.*",
+"opciones": [
+"before",
+"because",
+"unless"
+],
+"correcta": 1,
+"porque": "Because sirve para decir por qué te sientes así."
+},
+{
+"pregunta": "Tu amigo está triste. ¿Qué frase le dices?",
+"opciones": [
+"Go away.",
+"I am angry.",
+"I'm here for you."
+],
+"correcta": 2,
+"porque": "I'm here for you significa \"Aquí estoy para ti\"."
+}
+],
+"ingles-necesidades-problemas-comunidad": [
+{
+"pregunta": "Completa: *There ___ a lot of garbage in the park.*",
+"opciones": [
+"are",
+"be",
+"is"
+],
+"correcta": 2,
+"porque": "Garbage no se cuenta y va con is."
+},
+{
+"pregunta": "¿Qué frase dice lo que falta en la comunidad?",
+"opciones": [
+"We need more lights.",
+"We should clean.",
+"There is a street."
+],
+"correcta": 0,
+"porque": "We need dice lo que hace falta."
+},
+{
+"pregunta": "¿Qué frase propone una solución?",
+"opciones": [
+"We should plant trees.",
+"We need water.",
+"There is no water."
+],
+"correcta": 0,
+"porque": "We should da un consejo o solución."
+},
+{
+"pregunta": "Completa: *There ___ many holes in the street.*",
+"opciones": [
+"are",
+"be",
+"is"
+],
+"correcta": 0,
+"porque": "Holes es plural y va con are."
+},
+{
+"pregunta": "¿Cómo empieza una carta al alcalde?",
+"opciones": [
+"Bye Mayor,",
+"Hello dog,",
+"Dear Mayor,"
+],
+"correcta": 2,
+"porque": "Dear significa \"Estimado\" y abre una carta."
+}
+],
+"la-hora-en-ingles-secundaria": [
+{
+"pregunta": "¿Cómo se dice 3:00?",
+"opciones": [
+"It is three past.",
+"It is to three.",
+"It is three o'clock."
+],
+"correcta": 2,
+"porque": "O'clock se usa para la hora exacta."
+},
+{
+"pregunta": "¿Cómo se dice 8:10?",
+"opciones": [
+"It is ten to eight.",
+"It is ten past eight.",
+"It is eight to ten."
+],
+"correcta": 1,
+"porque": "Past se usa para los minutos después de la hora."
+},
+{
+"pregunta": "¿Cómo se dice 5:45?",
+"opciones": [
+"It is a quarter to six.",
+"It is half past five.",
+"It is a quarter past five."
+],
+"correcta": 0,
+"porque": "A quarter to es faltan quince minutos para la hora."
+},
+{
+"pregunta": "¿Qué hora es *half past two*?",
+"opciones": [
+"2:30",
+"1:30",
+"2:15"
+],
+"correcta": 0,
+"porque": "Half past es y media: dos y media."
+},
+{
+"pregunta": "¿Cuál pregunta sirve para saber la hora?",
+"opciones": [
+"Who is the time?",
+"What time is it?",
+"Where is it?"
+],
+"correcta": 1,
+"porque": "What time is it? significa ¿qué hora es?"
+}
+]
+}

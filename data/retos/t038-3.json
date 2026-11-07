@@ -1,0 +1,522 @@
+{
+"unificacion-de-italia-y-alemania-prepa": [
+{
+"pregunta": "¿Quién dirigió la unión de Alemania?",
+"opciones": [
+"Garibaldi",
+"Cavour",
+"Bismarck"
+],
+"correcta": 2,
+"porque": "Bismarck, desde Prusia, unió Alemania en 1871."
+},
+{
+"pregunta": "¿Qué estado alemán encabezó esa unión?",
+"opciones": [
+"Prusia",
+"Baviera",
+"Sajonia"
+],
+"correcta": 0,
+"porque": "Prusia guió la unificación de Alemania."
+},
+{
+"pregunta": "¿Quién fue Garibaldi en la unión de Italia?",
+"opciones": [
+"Un jefe de los camisas rojas",
+"Un rey de Prusia",
+"Un emperador romano"
+],
+"correcta": 0,
+"porque": "Garibaldi ayudó a unir Italia con los camisas rojas."
+},
+{
+"pregunta": "Comparas mapas de antes y después. ¿Qué pasó con los pedazos de Italia?",
+"opciones": [
+"Se volvieron colonias",
+"Se dividieron más",
+"Se juntaron en un país"
+],
+"correcta": 2,
+"porque": "Muchos territorios pequeños formaron un solo país."
+},
+{
+"pregunta": "¿En qué año terminó la unificación de Italia?",
+"opciones": [
+"1870",
+"1492",
+"1517"
+],
+"correcta": 0,
+"porque": "Italia terminó de unirse en 1870 y Alemania en 1871."
+}
+],
+"viajes-de-exploracion-y-cristobal-colon-prepa": [
+{
+"pregunta": "¿En qué año llegó Colón a América?",
+"opciones": [
+"1517",
+"1453",
+"1492"
+],
+"correcta": 2,
+"porque": "Colón llegó el 12 de octubre de 1492."
+},
+{
+"pregunta": "¿Quiénes dieron la primera vuelta al mundo?",
+"opciones": [
+"Gama y Marco Polo",
+"Colón y Cortés",
+"Magallanes y Elcano"
+],
+"correcta": 2,
+"porque": "La expedición de Magallanes y Elcano dio la vuelta al mundo."
+},
+{
+"pregunta": "¿Qué instrumento ayudaba a saber el rumbo en el mar?",
+"opciones": [
+"La brújula",
+"El acueducto",
+"La imprenta"
+],
+"correcta": 0,
+"porque": "La brújula marcaba el norte y guiaba a los navegantes."
+},
+{
+"pregunta": "¿Qué buscaban los europeos con estos viajes?",
+"opciones": [
+"Especias y oro",
+"Libros y escuelas",
+"Papel y seda"
+],
+"correcta": 0,
+"porque": "Buscaban especias, oro y expandir su fe."
+},
+{
+"pregunta": "¿Qué viajó entre Europa y América además de personas?",
+"opciones": [
+"Solo libros",
+"Plantas y animales",
+"Solo oro y plata"
+],
+"correcta": 1,
+"porque": "Hubo un intercambio de plantas, animales y enfermedades."
+}
+],
+"explicaciones-historicas-preparatoria": [
+{
+"pregunta": "¿Qué responde una explicación histórica?",
+"opciones": [
+"Cuántos años tiene",
+"Solo qué día fue",
+"Por qué pasó algo"
+],
+"correcta": 2,
+"porque": "Una explicación da razones y pruebas, no solo datos."
+},
+{
+"pregunta": "¿Cuál es una afirmación sustentada?",
+"opciones": [
+"Se apoya en hechos",
+"Repite un rumor",
+"Dice lo que alguien siente"
+],
+"correcta": 0,
+"porque": "Una afirmación sustentada se apoya en hechos."
+},
+{
+"pregunta": "\"Creo que fue aburrido\" ¿qué es?",
+"opciones": [
+"Una prueba",
+"Una opinión",
+"Una fuente"
+],
+"correcta": 1,
+"porque": "Una opinión dice lo que alguien piensa."
+},
+{
+"pregunta": "Explicas por qué creció tu ciudad. ¿Qué haces primero?",
+"opciones": [
+"Un dibujo bonito",
+"Una conclusión final",
+"Una pregunta clara"
+],
+"correcta": 2,
+"porque": "El primer paso es hacer una pregunta clara."
+},
+{
+"pregunta": "Con la Revolución Industrial cambiaron las ciudades. ¿Qué siguió igual?",
+"opciones": [
+"Las máquinas",
+"La desigualdad",
+"Los medios de transporte"
+],
+"correcta": 1,
+"porque": "La desigualdad siguió: eso es una continuidad."
+}
+],
+"hipotesis-e-identidades-preparatoria": [
+{
+"pregunta": "¿Qué es una hipótesis?",
+"opciones": [
+"Un dato ya comprobado",
+"Respuesta por comprobar",
+"Una fecha muy famosa"
+],
+"correcta": 1,
+"porque": "Una hipótesis es una respuesta posible que se comprueba con pruebas."
+},
+{
+"pregunta": "¿Qué haces después de proponer una hipótesis?",
+"opciones": [
+"Buscar fuentes",
+"Darla por cierta",
+"Olvidarla pronto"
+],
+"correcta": 0,
+"porque": "Después se buscan fuentes para comprobarla o ajustarla."
+},
+{
+"pregunta": "Celebras el 16 de septiembre en tu escuela. ¿Qué puede ser una hipótesis?",
+"opciones": [
+"Se celebra por la Independencia",
+"Hoy hay un desfile en clase",
+"Este año hace calor ese día"
+],
+"correcta": 0,
+"porque": "Propone una razón que luego se comprueba con fuentes."
+},
+{
+"pregunta": "¿Qué ayuda a formar la identidad de un país?",
+"opciones": [
+"Los héroes y fechas recordadas",
+"Una lista de precios",
+"El clima de un día"
+],
+"correcta": 0,
+"porque": "Lo que se recuerda influye en quiénes creemos ser."
+},
+{
+"pregunta": "Escuchas decir: \"fue un héroe\". ¿Qué pregunta haces?",
+"opciones": [
+"¿Por qué se cuenta así?",
+"¿Cuánto mide?",
+"¿Dónde se compró?"
+],
+"correcta": 0,
+"porque": "Preguntar por qué se cuenta así lleva a una hipótesis."
+}
+],
+"argumentar-interpretaciones-preparatoria": [
+{
+"pregunta": "¿Qué es la tesis de un argumento?",
+"opciones": [
+"Una opinión sin razones",
+"Una fecha",
+"Tu idea principal"
+],
+"correcta": 2,
+"porque": "La tesis es la idea que defiendes con razones."
+},
+{
+"pregunta": "¿Qué son las evidencias?",
+"opciones": [
+"Rumores de pasillo",
+"Datos de las fuentes",
+"Opiniones del grupo"
+],
+"correcta": 1,
+"porque": "Las evidencias son datos tomados de fuentes."
+},
+{
+"pregunta": "¿Por qué \"porque yo lo creo\" es un mal argumento?",
+"opciones": [
+"Tiene mala letra",
+"Es muy corto",
+"No tiene pruebas"
+],
+"correcta": 2,
+"porque": "Un buen argumento se apoya en razones y fuentes."
+},
+{
+"pregunta": "Un compañero muestra una fuente que contradice tu idea. ¿Qué haces?",
+"opciones": [
+"La ignoras",
+"Te enojas con él",
+"La escuchas y revisas"
+],
+"correcta": 2,
+"porque": "Hay que escuchar y cambiar si las pruebas lo piden."
+},
+{
+"pregunta": "¿Qué va justo antes de la conclusión?",
+"opciones": [
+"El título del tema",
+"Otra postura y tu réplica",
+"La portada del trabajo"
+],
+"correcta": 1,
+"porque": "Se incluye otra postura y tu respuesta, y luego se concluye."
+}
+],
+"evaluar-evidencias-preparatoria": [
+{
+"pregunta": "¿Qué significan las letras PIC?",
+"opciones": [
+"Pregunta, Idea y Cierre",
+"Procedencia, Intención y Contexto",
+"Pasado, Imagen y Cita"
+],
+"correcta": 1,
+"porque": "PIC resume las tres preguntas para evaluar una fuente."
+},
+{
+"pregunta": "¿Qué revisas en la procedencia?",
+"opciones": [
+"Qué tan bonita es",
+"Quién la hizo, cuándo y dónde",
+"Cuánto pesa"
+],
+"correcta": 1,
+"porque": "La procedencia dice quién, cuándo y dónde se hizo."
+},
+{
+"pregunta": "¿Qué es la intención de una fuente?",
+"opciones": [
+"Dónde se guardó",
+"Cuánto cuesta",
+"Para qué se hizo"
+],
+"correcta": 2,
+"porque": "Es el propósito: informar, convencer o justificar."
+},
+{
+"pregunta": "Un cartel de gobierno elogia una obra. ¿Qué preguntas conviene hacer?",
+"opciones": [
+"¿Quién lo hizo y para qué?",
+"¿De qué color es?",
+"¿Cuánto mide?"
+],
+"correcta": 0,
+"porque": "Un cartel de gobierno puede querer convencer, por eso se revisa la intención."
+},
+{
+"pregunta": "¿Qué conducta es ética al usar información?",
+"opciones": [
+"Cambiar los datos",
+"Citar la fuente",
+"Copiar sin avisar"
+],
+"correcta": 1,
+"porque": "Citar la fuente y no cambiar los datos es lo ético."
+}
+],
+"fuentes-historicas-preparatoria": [
+{
+"pregunta": "¿Cuál es una fuente primaria?",
+"opciones": [
+"Un video nuevo",
+"Una carta de 1910",
+"Un libro de 2020"
+],
+"correcta": 1,
+"porque": "Una fuente primaria es de la época, como una carta."
+},
+{
+"pregunta": "¿Cuál es una fuente secundaria?",
+"opciones": [
+"Una ley de 1857",
+"Una foto antigua",
+"Un libro de historia"
+],
+"correcta": 2,
+"porque": "Se escribió después de los hechos, como un libro de historia."
+},
+{
+"pregunta": "El testimonio de un abuelo sobre su infancia es una fuente...",
+"opciones": [
+"Oral",
+"Escrita",
+"Material"
+],
+"correcta": 0,
+"porque": "Un testimonio hablado es una fuente oral."
+},
+{
+"pregunta": "¿Qué es una fuente material?",
+"opciones": [
+"Un recuerdo contado",
+"Un cuento nuevo",
+"Una herramienta antigua"
+],
+"correcta": 2,
+"porque": "Un objeto o edificio es una fuente material."
+},
+{
+"pregunta": "¿Por qué conviene usar varias fuentes?",
+"opciones": [
+"Todas dicen lo mismo",
+"Así se escribe menos",
+"Cada una muestra una parte"
+],
+"correcta": 2,
+"porque": "Cada fuente muestra solo una parte del pasado."
+}
+],
+"interpretaciones-con-fuentes-preparatoria": [
+{
+"pregunta": "¿Qué es interpretar con fuentes?",
+"opciones": [
+"Copiar un solo libro entero",
+"Memorizar una fecha exacta",
+"Armar tu explicación con varias"
+],
+"correcta": 2,
+"porque": "Es unir varias fuentes con tus palabras para explicar."
+},
+{
+"pregunta": "Armas un rompecabezas con piezas de cajas distintas. ¿Qué representa?",
+"opciones": [
+"Usar fuentes variadas",
+"Copiar un texto",
+"Adivinar la respuesta"
+],
+"correcta": 0,
+"porque": "Representa unir fuentes distintas en una sola explicación."
+},
+{
+"pregunta": "¿Qué es una fuente pertinente?",
+"opciones": [
+"La que se ve más bonita",
+"La que es más larga",
+"La que responde tu duda"
+],
+"correcta": 2,
+"porque": "Pertinente es la que ayuda a responder tu pregunta."
+},
+{
+"pregunta": "¿Qué diferencia hay entre integrar y copiar?",
+"opciones": [
+"Copiar es más creativo",
+"Integrar usa tus palabras",
+"Integrar cambia los datos"
+],
+"correcta": 1,
+"porque": "Integrar es unir la información con tu propia voz."
+},
+{
+"pregunta": "Investigas cómo vivían los trabajadores del Porfiriato. ¿Qué haces primero?",
+"opciones": [
+"Escribir la conclusión",
+"Elegir la pregunta",
+"Copiar un texto"
+],
+"correcta": 1,
+"porque": "El primer paso es elegir la pregunta que investigarás."
+}
+],
+"adjetivos-con-ed-y-ing-prepa": [
+{
+"pregunta": "Completa: The movie is ___.",
+"opciones": [
+"bored",
+"bore",
+"boring"
+],
+"correcta": 2,
+"porque": "Lo que causa el aburrimiento lleva -ing: boring."
+},
+{
+"pregunta": "Completa: I am ___ in music.",
+"opciones": [
+"interested",
+"interesting",
+"interest"
+],
+"correcta": 0,
+"porque": "Quien siente el interés lleva -ed: interested."
+},
+{
+"pregunta": "¿Cómo dices en inglés \"Estoy emocionado\"?",
+"opciones": [
+"I am excited",
+"I am exciting",
+"I excited am"
+],
+"correcta": 0,
+"porque": "Tú sientes la emoción, así que usas -ed."
+},
+{
+"pregunta": "Completa: That trip was ___.",
+"opciones": [
+"tiring",
+"tired",
+"tire"
+],
+"correcta": 0,
+"porque": "El viaje causó cansancio, por eso lleva -ing."
+},
+{
+"pregunta": "¿Qué significa \"I am boring\"?",
+"opciones": [
+"Me aburro",
+"Estoy aburrido",
+"Soy aburrido"
+],
+"correcta": 2,
+"porque": "Con -ing dices que tú causas aburrimiento a otros."
+}
+],
+"anecdota-experiencia-ingles-prepa": [
+{
+"pregunta": "Completa: Yesterday I ___ to the park.",
+"opciones": [
+"went",
+"goed",
+"go"
+],
+"correcta": 0,
+"porque": "Go es irregular y su pasado es went."
+},
+{
+"pregunta": "¿Cuál es el pasado de play?",
+"opciones": [
+"plaied",
+"played",
+"plays"
+],
+"correcta": 1,
+"porque": "Los verbos regulares agregan -ed: played."
+},
+{
+"pregunta": "¿Qué conector usas para decir el último paso de tu historia?",
+"opciones": [
+"after",
+"first",
+"finally"
+],
+"correcta": 2,
+"porque": "Finally significa por último y cierra la secuencia."
+},
+{
+"pregunta": "Completa: I ___ walking when it started to rain.",
+"opciones": [
+"am",
+"was",
+"were"
+],
+"correcta": 1,
+"porque": "Con I usamos was para una acción en progreso."
+},
+{
+"pregunta": "¿Qué parte cierra una anécdota?",
+"opciones": [
+"One day, I was",
+"It was a great experience",
+"Last summer, I went to"
+],
+"correcta": 1,
+"porque": "Es una frase de cierre sobre lo que viviste."
+}
+]
+}

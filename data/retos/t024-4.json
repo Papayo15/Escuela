@@ -1,0 +1,470 @@
+{
+"pasado-simple-regular-secundaria": [
+{
+"pregunta": "¿Cuál es el pasado de *play*?",
+"opciones": [
+"plaied",
+"played",
+"plays"
+],
+"correcta": 1,
+"porque": "Un verbo regular agrega -ed: played."
+},
+{
+"pregunta": "¿Cuál es el pasado de *cry*?",
+"opciones": [
+"cried",
+"cryed",
+"crying"
+],
+"correcta": 0,
+"porque": "Consonante más y cambia a -ied."
+},
+{
+"pregunta": "¿Cuál es el pasado de *dance*?",
+"opciones": [
+"danced",
+"dancing",
+"danceed"
+],
+"correcta": 0,
+"porque": "Si termina en e, solo se agrega -d."
+},
+{
+"pregunta": "Completa: *We ___ (walk) to school yesterday.*",
+"opciones": [
+"walk",
+"walks",
+"walked"
+],
+"correcta": 2,
+"porque": "Yesterday es pista de pasado, así que lleva -ed."
+},
+{
+"pregunta": "¿Cuál es el pasado de *plan*?",
+"opciones": [
+"planned",
+"planed",
+"plans"
+],
+"correcta": 0,
+"porque": "Vocal y consonante: se dobla la n y se agrega -ed."
+}
+],
+"plurales-secundaria": [
+{
+"pregunta": "¿Cuál es el plural de *box*?",
+"opciones": [
+"boxs",
+"boxies",
+"boxes"
+],
+"correcta": 2,
+"porque": "Las palabras que terminan en x agregan -es."
+},
+{
+"pregunta": "¿Cuál es el plural de *city*?",
+"opciones": [
+"cities",
+"citys",
+"cityes"
+],
+"correcta": 0,
+"porque": "Consonante más y cambia a -ies."
+},
+{
+"pregunta": "¿Cuál es el plural de *child*?",
+"opciones": [
+"children",
+"childs",
+"childen"
+],
+"correcta": 0,
+"porque": "Child es irregular y cambia por completo."
+},
+{
+"pregunta": "¿Cuál es el plural de *toy*?",
+"opciones": [
+"toies",
+"toyes",
+"toys"
+],
+"correcta": 2,
+"porque": "Con vocal más y, solo se agrega -s."
+},
+{
+"pregunta": "¿Cuál es el plural de *foot*?",
+"opciones": [
+"foots",
+"feets",
+"feet"
+],
+"correcta": 2,
+"porque": "Foot es irregular: feet."
+}
+],
+"posesivo-con-apostrofo-s-secundaria": [
+{
+"pregunta": "¿Cómo dices «el gato de Ana»?",
+"opciones": [
+"the cat Ana",
+"cat Ana's",
+"Ana's cat"
+],
+"correcta": 2,
+"porque": "Primero va el dueño, luego 's y luego la cosa."
+},
+{
+"pregunta": "¿Cómo dices «el cuarto de las niñas»?",
+"opciones": [
+"the girls' room",
+"the girl's rooms",
+"the girls's room"
+],
+"correcta": 0,
+"porque": "Si el dueño es plural y termina en s, solo va el apóstrofo."
+},
+{
+"pregunta": "¿Qué significa *'s* en *Ana's happy*?",
+"opciones": [
+"tiene",
+"is",
+"de"
+],
+"correcta": 1,
+"porque": "Si después no sigue una cosa, 's significa is."
+},
+{
+"pregunta": "¿Qué significa *Luis's bag*?",
+"opciones": [
+"la mochila de Luis",
+"Luis es mochila",
+"Luis tiene una mochila"
+],
+"correcta": 0,
+"porque": "Luis's bag muestra de quién es la mochila."
+},
+{
+"pregunta": "Completa: *This is my ___ car.* (el coche de mi papá)",
+"opciones": [
+"father's",
+"father",
+"fathers"
+],
+"correcta": 0,
+"porque": "Se agrega 's al dueño: father's."
+}
+],
+"preposiciones-de-lugar-secundaria": [
+{
+"pregunta": "Completa: *The ball is ___ the box.* (dentro)",
+"opciones": [
+"in",
+"at",
+"on"
+],
+"correcta": 0,
+"porque": "In se usa para estar dentro de algo."
+},
+{
+"pregunta": "Completa: *The cup is ___ the table.* (encima)",
+"opciones": [
+"at",
+"in",
+"on"
+],
+"correcta": 2,
+"porque": "On se usa para estar sobre una superficie."
+},
+{
+"pregunta": "Completa: *The cat is ___ the chair.* (debajo)",
+"opciones": [
+"under",
+"behind",
+"between"
+],
+"correcta": 0,
+"porque": "Under significa debajo."
+},
+{
+"pregunta": "Completa: *The teacher is ___ the door.* (en la puerta)",
+"opciones": [
+"at",
+"in",
+"between"
+],
+"correcta": 0,
+"porque": "At se usa para un punto o lugar."
+},
+{
+"pregunta": "Completa: *Ana sits ___ Luis and Tom.* (en medio)",
+"opciones": [
+"next to",
+"on",
+"between"
+],
+"correcta": 2,
+"porque": "Between se usa para estar entre dos personas."
+}
+],
+"preposiciones-de-tiempo-secundaria": [
+{
+"pregunta": "Completa: *The class starts ___ 8 o'clock.*",
+"opciones": [
+"in",
+"at",
+"on"
+],
+"correcta": 1,
+"porque": "At se usa con horas exactas."
+},
+{
+"pregunta": "Completa: *I have a test ___ Tuesday.*",
+"opciones": [
+"at",
+"in",
+"on"
+],
+"correcta": 2,
+"porque": "On se usa con días."
+},
+{
+"pregunta": "Completa: *My birthday is ___ June.*",
+"opciones": [
+"on",
+"at",
+"in"
+],
+"correcta": 2,
+"porque": "In se usa con meses."
+},
+{
+"pregunta": "Completa: *We eat lunch ___ noon.*",
+"opciones": [
+"in",
+"on",
+"at"
+],
+"correcta": 2,
+"porque": "At se usa con noon y night."
+},
+{
+"pregunta": "Completa: *School began ___ 2024.*",
+"opciones": [
+"on",
+"in",
+"at"
+],
+"correcta": 1,
+"porque": "In se usa con años."
+}
+],
+"present-perfect-have-y-has-secundaria": [
+{
+"pregunta": "Completa: *They ___ eaten tacos.*",
+"opciones": [
+"is",
+"have",
+"has"
+],
+"correcta": 1,
+"porque": "They va con have."
+},
+{
+"pregunta": "Completa: *Ana ___ never seen snow.*",
+"opciones": [
+"have",
+"is",
+"has"
+],
+"correcta": 2,
+"porque": "She, he o it va con has."
+},
+{
+"pregunta": "Completa: She ___ eaten sushi.",
+"opciones": [
+"have, porque es plural",
+"has, porque con she va has",
+"is, porque es el verbo ser"
+],
+"correcta": 1,
+"porque": "Con *he*, *she* e *it* se usa *has* más el participio."
+},
+{
+"pregunta": "Elige: *I ___ my homework yesterday.*",
+"opciones": [
+"have done, porque es pasado",
+"did, porque dice yesterday",
+"has done, porque ya lo hice"
+],
+"correcta": 1,
+"porque": "Con *yesterday* se usa el pasado simple: *did*."
+},
+{
+"pregunta": "¿Qué significa *ever* en *Have you ever eaten sushi?*",
+"opciones": [
+"alguna vez, en tu vida",
+"nunca, ninguna vez",
+"ayer, el día pasado"
+],
+"correcta": 0,
+"porque": "*Ever* significa alguna vez."
+}
+],
+"presente-continuo-secundaria": [
+{
+"pregunta": "Completa: *She ___ reading a book now.*",
+"opciones": [
+"is",
+"am",
+"are"
+],
+"correcta": 0,
+"porque": "She va con is."
+},
+{
+"pregunta": "¿Cuál es el -ing de *make*?",
+"opciones": [
+"makeing",
+"making",
+"maketing"
+],
+"correcta": 1,
+"porque": "Si termina en e, se quita la e y se agrega -ing."
+},
+{
+"pregunta": "¿Cuál es el -ing de *swim*?",
+"opciones": [
+"swiming",
+"swimming",
+"swimeing"
+],
+"correcta": 1,
+"porque": "Vocal y consonante al final: se dobla la m."
+},
+{
+"pregunta": "¿Cuál oración está mal?",
+"opciones": [
+"I am knowing the answer.",
+"I am eating lunch.",
+"They are playing."
+],
+"correcta": 0,
+"porque": "Know normalmente no va en continuo."
+},
+{
+"pregunta": "¿Cómo preguntas si Tom está cocinando?",
+"opciones": [
+"Does Tom cooking?",
+"Is Tom cooking?",
+"Tom is cooking?"
+],
+"correcta": 1,
+"porque": "Se pone is al principio."
+}
+],
+"presente-simple-afirmativo-secundaria": [
+{
+"pregunta": "Completa: *He ___ (play) soccer on Fridays.*",
+"opciones": [
+"playing",
+"plays",
+"play"
+],
+"correcta": 1,
+"porque": "Con he se agrega -s."
+},
+{
+"pregunta": "Completa: *She ___ (study) math.*",
+"opciones": [
+"study",
+"studys",
+"studies"
+],
+"correcta": 2,
+"porque": "Consonante más y cambia a -ies."
+},
+{
+"pregunta": "Completa: *My dad ___ (have) a red car.*",
+"opciones": [
+"have",
+"haves",
+"has"
+],
+"correcta": 2,
+"porque": "Have cambia a has con he, she o it."
+},
+{
+"pregunta": "Completa: *They ___ (live) near the school.*",
+"opciones": [
+"lives",
+"living",
+"live"
+],
+"correcta": 2,
+"porque": "Con they no se agrega -s."
+},
+{
+"pregunta": "Completa: *She ___ (go) to school by bus.*",
+"opciones": [
+"goes",
+"go",
+"gos"
+],
+"correcta": 0,
+"porque": "Los verbos que terminan en o agregan -es."
+}
+],
+"presente-simple-negativo-y-preguntas-secundaria": [
+{
+"pregunta": "Niega: *She likes pizza.*",
+"opciones": [
+"She don't like pizza.",
+"She doesn't like pizza.",
+"She doesn't likes pizza."
+],
+"correcta": 1,
+"porque": "Con doesn't el verbo queda sin -s."
+},
+{
+"pregunta": "Completa: He ___ work on Sundays.",
+"opciones": [
+"don't, porque es plural",
+"doesn't, porque es he",
+"isn't, porque es de ser"
+],
+"correcta": 1,
+"porque": "Con *he* se niega con *doesn't* y el verbo queda en forma base."
+},
+{
+"pregunta": "Completa: *We ___ eat meat.* (no comemos)",
+"opciones": [
+"don't",
+"doesn't",
+"not"
+],
+"correcta": 0,
+"porque": "Con we se usa don't."
+},
+{
+"pregunta": "¿Cuál es una respuesta corta correcta?",
+"opciones": [
+"No, he isn't.",
+"No, he doesn't.",
+"No, he don't."
+],
+"correcta": 1,
+"porque": "Se responde con does o doesn't."
+},
+{
+"pregunta": "Completa: ___ she work in a school?",
+"opciones": [
+"Do, porque es plural",
+"Is, porque no hay -ing",
+"Does, porque es she"
+],
+"correcta": 2,
+"porque": "Con *she* la pregunta empieza con *Does* y el verbo queda base."
+}
+]
+}

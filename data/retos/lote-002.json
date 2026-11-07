@@ -1,0 +1,730 @@
+{
+"contar-y-escribir-numeros-hasta-el-1000-primaria": [
+{
+"pregunta": "¿Cuántas decenas forman una centena?",
+"opciones": [
+"100",
+"5",
+"10"
+],
+"correcta": 2,
+"porque": "Diez decenas juntas forman una centena."
+},
+{
+"pregunta": "¿Cómo se escribe 500 con letra?",
+"opciones": [
+"cincocientos",
+"cincuenta",
+"quinientos"
+],
+"correcta": 2,
+"porque": "Es una de las centenas que más se equivocan: se dice quinientos."
+},
+{
+"pregunta": "¿Cómo se escribe 700 con letra?",
+"opciones": [
+"sietecientos",
+"setenta",
+"setecientos"
+],
+"correcta": 2,
+"porque": "Setecientos se escribe sin la i de siete."
+},
+{
+"pregunta": "¿Qué número sigue después de 399?",
+"opciones": [
+"310",
+"400",
+"398"
+],
+"correcta": 1,
+"porque": "Al terminar las decenas empieza la siguiente centena."
+},
+{
+"pregunta": "Tu escuela tiene 3 cajas de 100 lápices y 25 sueltos. ¿Cuántos son?",
+"opciones": [
+"3025",
+"352",
+"325"
+],
+"correcta": 2,
+"porque": "3 centenas y 25 forman el 325."
+}
+],
+"cuadrado-rectangulo-triangulo-y-circulo-primaria": [
+{
+"pregunta": "¿Cuántos lados tiene un triángulo?",
+"opciones": [
+"0",
+"4",
+"3"
+],
+"correcta": 2,
+"porque": "Tri significa tres: tiene tres lados rectos."
+},
+{
+"pregunta": "¿Qué figura tiene 4 lados iguales?",
+"opciones": [
+"Triángulo",
+"Cuadrado",
+"Círculo"
+],
+"correcta": 1,
+"porque": "El cuadrado tiene 4 lados iguales y esquinas rectas."
+},
+{
+"pregunta": "¿Cuántos vértices tiene un círculo?",
+"opciones": [
+"0",
+"4",
+"1"
+],
+"correcta": 0,
+"porque": "El círculo es una línea curva y no tiene esquinas."
+},
+{
+"pregunta": "¿Qué figura parece el pizarrón de tu salón?",
+"opciones": [
+"Triángulo",
+"Rectángulo",
+"Círculo"
+],
+"correcta": 1,
+"porque": "Tiene dos lados largos y dos cortos."
+},
+{
+"pregunta": "¿Cuántos vértices tiene un rectángulo?",
+"opciones": [
+"3",
+"2",
+"4"
+],
+"correcta": 2,
+"porque": "Tiene cuatro esquinas, una en cada punta."
+}
+],
+"cuerpos-geometricos-primaria": [
+{
+"pregunta": "¿Cómo se llaman las superficies de una caja?",
+"opciones": [
+"Caras",
+"Aristas",
+"Vértices"
+],
+"correcta": 0,
+"porque": "Las caras son las superficies, como los lados de una caja."
+},
+{
+"pregunta": "¿Dónde se juntan dos caras?",
+"opciones": [
+"En un vértice",
+"En el centro",
+"En una arista"
+],
+"correcta": 2,
+"porque": "La arista es la línea donde se juntan dos caras."
+},
+{
+"pregunta": "¿Cuántas aristas tiene un cubo?",
+"opciones": [
+"8 aristas, que son las puntas",
+"12 aristas, las líneas entre caras",
+"6 aristas, que son las caras"
+],
+"correcta": 1,
+"porque": "Las aristas son las líneas donde se juntan dos caras, y el cubo tiene 12."
+},
+{
+"pregunta": "¿Qué cuerpo se parece a una pelota del recreo?",
+"opciones": [
+"Esfera",
+"Cubo",
+"Cono"
+],
+"correcta": 0,
+"porque": "La pelota es redonda por todos lados, como una esfera."
+},
+{
+"pregunta": "¿Cuántos vértices tiene una esfera?",
+"opciones": [
+"0",
+"8",
+"1"
+],
+"correcta": 0,
+"porque": "La esfera no tiene puntas."
+}
+],
+"dias-semanas-y-meses-en-el-calendario-primaria": [
+{
+"pregunta": "¿Cuántos días tiene una semana?",
+"opciones": [
+"12",
+"7",
+"5"
+],
+"correcta": 1,
+"porque": "Son de lunes a domingo: siete días."
+},
+{
+"pregunta": "¿Cuántos meses tiene un año?",
+"opciones": [
+"7",
+"10",
+"12"
+],
+"correcta": 2,
+"porque": "De enero a diciembre hay doce meses."
+},
+{
+"pregunta": "¿Qué día sigue después del miércoles?",
+"opciones": [
+"Viernes",
+"Martes",
+"Jueves"
+],
+"correcta": 2,
+"porque": "El orden es miércoles, jueves, viernes."
+},
+{
+"pregunta": "¿Qué mes tiene 28 o 29 días?",
+"opciones": [
+"Agosto",
+"Febrero",
+"Marzo"
+],
+"correcta": 1,
+"porque": "Febrero es el mes más corto."
+},
+{
+"pregunta": "¿Cuántos días hay de lunes a viernes contando los dos?",
+"opciones": [
+"5",
+"4",
+"7"
+],
+"correcta": 0,
+"porque": "Son lunes, martes, miércoles, jueves y viernes."
+}
+],
+"dividir-es-repartir-en-partes-iguales-primaria": [
+{
+"pregunta": "¿Qué significa dividir?",
+"opciones": [
+"Quitar uno",
+"Repartir en partes iguales",
+"Juntar cantidades"
+],
+"correcta": 1,
+"porque": "Dividir es repartir para que a todos les toque lo mismo."
+},
+{
+"pregunta": "¿Cómo se lee 12 ÷ 3?",
+"opciones": [
+"Doce por tres",
+"Doce entre tres",
+"Doce más tres"
+],
+"correcta": 1,
+"porque": "El signo ÷ se lee entre."
+},
+{
+"pregunta": "En 12 ÷ 3 = 4, ¿qué es el 12?",
+"opciones": [
+"El dividendo",
+"El cociente",
+"El divisor"
+],
+"correcta": 0,
+"porque": "El dividendo es lo que se reparte."
+},
+{
+"pregunta": "En 12 ÷ 3 = 4, ¿qué es el 4?",
+"opciones": [
+"El dividendo",
+"El cociente",
+"El divisor"
+],
+"correcta": 1,
+"porque": "El cociente es lo que le toca a cada uno."
+},
+{
+"pregunta": "Reparten 10 gises entre 2 maestras. ¿Cuántos le tocan a cada una?",
+"opciones": [
+"12",
+"8",
+"5"
+],
+"correcta": 2,
+"porque": "10 ÷ 2 = 5, porque 2 × 5 = 10."
+}
+],
+"division-exacta-con-las-tablas-primaria": [
+{
+"pregunta": "¿Cuándo es exacta una división?",
+"opciones": [
+"Cuando sobra uno",
+"Cuando el resultado es 10",
+"Cuando no sobra nada"
+],
+"correcta": 2,
+"porque": "Exacta significa que todo se repartió."
+},
+{
+"pregunta": "Para resolver 56 ÷ 8, ¿qué tabla usas?",
+"opciones": [
+"La del 56",
+"La del 2",
+"La del 8"
+],
+"correcta": 2,
+"porque": "Miras el divisor y buscas el dividendo en su tabla."
+},
+{
+"pregunta": "¿Cuánto es 56 ÷ 8?",
+"opciones": [
+"6",
+"8",
+"7"
+],
+"correcta": 2,
+"porque": "Porque 8 × 7 = 56."
+},
+{
+"pregunta": "¿Cuánto es 30 ÷ 5?",
+"opciones": [
+"25",
+"6",
+"5"
+],
+"correcta": 1,
+"porque": "Porque 5 × 6 = 30."
+},
+{
+"pregunta": "Hay 27 alumnos en 3 equipos iguales. ¿Cuántos van por equipo?",
+"opciones": [
+"8",
+"24",
+"9"
+],
+"correcta": 2,
+"porque": "Porque 3 × 9 = 27."
+}
+],
+"el-kilogramo-y-el-gramo-primaria": [
+{
+"pregunta": "¿Cuántos gramos tiene 1 kilogramo?",
+"opciones": [
+"1000",
+"10",
+"100"
+],
+"correcta": 0,
+"porque": "1 kilogramo son 1000 gramos."
+},
+{
+"pregunta": "¿Qué medirías en gramos?",
+"opciones": [
+"Un clip",
+"Un costal de maíz",
+"Una sandía"
+],
+"correcta": 0,
+"porque": "El gramo sirve para cosas ligeras."
+},
+{
+"pregunta": "¿Cuántos gramos son 1/2 kg?",
+"opciones": [
+"500",
+"100",
+"250"
+],
+"correcta": 0,
+"porque": "La mitad de 1000 gramos es 500."
+},
+{
+"pregunta": "¿Cuántos gramos son 1/4 kg?",
+"opciones": [
+"25",
+"250",
+"500"
+],
+"correcta": 1,
+"porque": "Un cuarto de 1000 gramos es 250."
+},
+{
+"pregunta": "¿Con qué se mide la masa de tu mochila?",
+"opciones": [
+"Con una báscula",
+"Con una regla",
+"Con un reloj"
+],
+"correcta": 0,
+"porque": "La báscula mide cuánta masa tiene algo."
+}
+],
+"el-litro-primaria": [
+{
+"pregunta": "¿Cuántos mililitros tiene 1 litro?",
+"opciones": [
+"100",
+"1000",
+"10"
+],
+"correcta": 1,
+"porque": "1 litro son 1000 mililitros."
+},
+{
+"pregunta": "¿Qué mide el litro?",
+"opciones": [
+"Cuánto líquido cabe",
+"Cuánto dura algo",
+"Qué tan largo es algo"
+],
+"correcta": 0,
+"porque": "El litro mide la capacidad."
+},
+{
+"pregunta": "¿Cuántos mililitros son 1/4 L?",
+"opciones": [
+"250",
+"500",
+"25"
+],
+"correcta": 0,
+"porque": "Un cuarto de 1000 mL es 250 mL."
+},
+{
+"pregunta": "¿Cuántos mililitros tiene más o menos una taza mediana?",
+"opciones": [
+"250",
+"2500",
+"25"
+],
+"correcta": 0,
+"porque": "Una taza mediana tiene cerca de 250 mL."
+},
+{
+"pregunta": "Con 2 botellas de 1/2 L, ¿cuánta agua llevas a la escuela?",
+"opciones": [
+"1 L",
+"2 L",
+"1/4 L"
+],
+"correcta": 0,
+"porque": "Dos mitades de litro forman 1 litro."
+}
+],
+"figuras-geometricas-primaria": [
+{
+"pregunta": "¿Qué son los vértices de una figura?",
+"opciones": [
+"Los colores",
+"Las líneas",
+"Las esquinas"
+],
+"correcta": 2,
+"porque": "Los vértices son las esquinas."
+},
+{
+"pregunta": "¿Qué son los lados de una figura?",
+"opciones": [
+"Las líneas que la cierran",
+"Las esquinas",
+"Lo de adentro"
+],
+"correcta": 0,
+"porque": "Los lados son las líneas que cierran la figura."
+},
+{
+"pregunta": "Si una figura tiene 5 lados rectos, ¿cuántos vértices tiene?",
+"opciones": [
+"10",
+"5",
+"4"
+],
+"correcta": 1,
+"porque": "Con lados rectos hay tantas esquinas como lados."
+},
+{
+"pregunta": "¿Qué figura tiene 3 vértices?",
+"opciones": [
+"Círculo",
+"Triángulo",
+"Cuadrado"
+],
+"correcta": 1,
+"porque": "Tres lados rectos dan tres esquinas."
+},
+{
+"pregunta": "¿Dónde dibujas una figura plana?",
+"opciones": [
+"Dentro de una caja",
+"En una hoja",
+"En el aire"
+],
+"correcta": 1,
+"porque": "Una figura geométrica es una forma plana."
+}
+],
+"la-recta-numerica-primaria": [
+{
+"pregunta": "¿Hacia dónde crecen los números en la recta?",
+"opciones": [
+"De derecha a izquierda",
+"De arriba abajo",
+"De izquierda a derecha"
+],
+"correcta": 2,
+"porque": "Van de menor a mayor, de izquierda a derecha."
+},
+{
+"pregunta": "¿Cómo son los saltos en una recta numérica?",
+"opciones": [
+"Sin orden",
+"Iguales",
+"Cada vez más grandes"
+],
+"correcta": 1,
+"porque": "Las marcas están a la misma distancia."
+},
+{
+"pregunta": "Para sumar en la recta, ¿hacia dónde saltas?",
+"opciones": [
+"No saltas",
+"A la derecha",
+"A la izquierda"
+],
+"correcta": 1,
+"porque": "Sumar es saltar a la derecha."
+},
+{
+"pregunta": "Para restar en la recta, ¿hacia dónde saltas?",
+"opciones": [
+"No saltas",
+"A la izquierda",
+"A la derecha"
+],
+"correcta": 1,
+"porque": "Restar es saltar a la izquierda."
+},
+{
+"pregunta": "Parte del 3 y da 4 saltos a la derecha. ¿A dónde llegas?",
+"opciones": [
+"7",
+"1",
+"34"
+],
+"correcta": 0,
+"porque": "3 + 4 = 7."
+}
+],
+"leer-el-reloj-cuartos-de-hora-primaria": [
+{
+"pregunta": "¿Cuántos minutos son un cuarto de hora?",
+"opciones": [
+"30",
+"15",
+"4"
+],
+"correcta": 1,
+"porque": "Una hora dividida en 4 partes da 15 minutos."
+},
+{
+"pregunta": "¿Cuántos minutos vale cada número del reloj?",
+"opciones": [
+"5",
+"1",
+"15"
+],
+"correcta": 0,
+"porque": "La manecilla larga avanza 5 minutos de número a número."
+},
+{
+"pregunta": "Si la larga está en el 3, ¿qué se dice?",
+"opciones": [
+"Menos cuarto",
+"Y media",
+"Y cuarto"
+],
+"correcta": 2,
+"porque": "5 × 3 = 15 minutos: y cuarto."
+},
+{
+"pregunta": "Si la larga está en el 9, ¿qué se dice?",
+"opciones": [
+"En punto",
+"Y cuarto",
+"Menos cuarto"
+],
+"correcta": 2,
+"porque": "En el 9 van 45 minutos y faltan 15."
+},
+{
+"pregunta": "El recreo empieza a las 10:15. ¿Cómo se dice?",
+"opciones": [
+"Las diez y cuarto",
+"Las once menos cuarto",
+"Las diez y media"
+],
+"correcta": 0,
+"porque": "15 minutos después de las diez es y cuarto."
+}
+],
+"leer-el-reloj-horas-y-medias-horas-primaria": [
+{
+"pregunta": "¿Qué marca la manecilla corta?",
+"opciones": [
+"Los días",
+"La hora",
+"Los minutos"
+],
+"correcta": 1,
+"porque": "La corta marca la hora."
+},
+{
+"pregunta": "¿Qué marca la manecilla larga?",
+"opciones": [
+"El año",
+"Los minutos",
+"La hora"
+],
+"correcta": 1,
+"porque": "La larga marca los minutos."
+},
+{
+"pregunta": "¿Dónde está la larga en una hora en punto?",
+"opciones": [
+"En el 12",
+"En el 3",
+"En el 6"
+],
+"correcta": 0,
+"porque": "En punto significa que la larga está en el 12."
+},
+{
+"pregunta": "¿Cuántos minutos tiene una hora?",
+"opciones": [
+"30",
+"100",
+"60"
+],
+"correcta": 2,
+"porque": "Una vuelta completa de la larga son 60 minutos."
+},
+{
+"pregunta": "Entras a la escuela a las 8 y media. ¿Dónde está la larga?",
+"opciones": [
+"En el 12",
+"En el 8",
+"En el 6"
+],
+"correcta": 2,
+"porque": "Y media significa que la larga está en el 6."
+}
+],
+"medicion-del-tiempo-primaria": [
+{
+"pregunta": "¿Cuántos segundos tiene 1 minuto?",
+"opciones": [
+"100",
+"60",
+"30"
+],
+"correcta": 1,
+"porque": "1 minuto tiene 60 segundos."
+},
+{
+"pregunta": "¿Cuántas horas tiene 1 día?",
+"opciones": [
+"60",
+"12",
+"24"
+],
+"correcta": 2,
+"porque": "1 día tiene 24 horas."
+},
+{
+"pregunta": "¿Qué usarías para saber qué día es hoy?",
+"opciones": [
+"Un calendario",
+"Una báscula",
+"Una regla"
+],
+"correcta": 0,
+"porque": "El calendario muestra los días."
+},
+{
+"pregunta": "¿Qué dura más?",
+"opciones": [
+"1 hora",
+"1 día",
+"1 minuto"
+],
+"correcta": 1,
+"porque": "1 día tiene 24 horas."
+},
+{
+"pregunta": "¿Qué manecilla marca las horas?",
+"opciones": [
+"Las dos igual",
+"La corta",
+"La larga"
+],
+"correcta": 1,
+"porque": "La corta marca las horas y la larga los minutos."
+}
+],
+"medicion-longitud-masa-capacidad": [
+{
+"pregunta": "¿Qué mide la longitud?",
+"opciones": [
+"Qué tan largo es algo",
+"Cuánto dura algo",
+"Cuánto líquido cabe"
+],
+"correcta": 0,
+"porque": "Longitud es lo largo de una cosa."
+},
+{
+"pregunta": "¿Con qué mides el largo de tu cuaderno?",
+"opciones": [
+"Con una jarra",
+"Con una regla",
+"Con una báscula"
+],
+"correcta": 1,
+"porque": "La regla mide longitud."
+},
+{
+"pregunta": "¿Con qué mides la capacidad de una botella?",
+"opciones": [
+"Con una regla",
+"Con un reloj",
+"Con una jarra"
+],
+"correcta": 2,
+"porque": "La jarra mide cuánto líquido cabe."
+},
+{
+"pregunta": "¿Cuántos centímetros tiene 1 m?",
+"opciones": [
+"10",
+"100",
+"1000"
+],
+"correcta": 1,
+"porque": "1 m son 100 cm."
+},
+{
+"pregunta": "¿Qué significa medir?",
+"opciones": [
+"Dibujar las cosas con lápiz",
+"Adivinar el tamaño a ojo",
+"Comparar algo con una unidad"
+],
+"correcta": 2,
+"porque": "Medir es comparar algo con una unidad."
+}
+]
+}

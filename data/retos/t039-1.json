@@ -1,0 +1,522 @@
+{
+"gerundio-e-infinitivo-prepa": [
+{
+"pregunta": "Completa: *We finished ___ the room.*",
+"opciones": [
+"cleaning",
+"to clean",
+"clean"
+],
+"correcta": 0,
+"porque": "*Finish* pide un verbo con -ing, por eso se dice cleaning."
+},
+{
+"pregunta": "Completa: *They hope ___ a prize.*",
+"opciones": [
+"winning",
+"to win",
+"win"
+],
+"correcta": 1,
+"porque": "*Hope* pide *to* y luego el verbo base."
+},
+{
+"pregunta": "Completa: *He avoids ___ late.*",
+"opciones": [
+"arrive",
+"arriving",
+"to arrive"
+],
+"correcta": 1,
+"porque": "*Avoid* pide -ing, así que va arriving."
+},
+{
+"pregunta": "Completa: *She is good at ___ (draw).*",
+"opciones": [
+"draw",
+"to draw",
+"drawing"
+],
+"correcta": 2,
+"porque": "Después de una preposición como *at* va el verbo con -ing."
+},
+{
+"pregunta": "¿Qué verbo pide -ing?",
+"opciones": [
+"decide",
+"enjoy",
+"want"
+],
+"correcta": 1,
+"porque": "*Enjoy* pide -ing; *want* y *decide* piden *to*."
+}
+],
+"have-something-done-prepa": [
+{
+"pregunta": "¿Quién hizo el trabajo en *I had my shoes cleaned*?",
+"opciones": [
+"Mi mamá y yo",
+"Yo mismo",
+"Otra persona"
+],
+"correcta": 2,
+"porque": "Con *have* + cosa + participio, lo hizo otra persona."
+},
+{
+"pregunta": "Completa: *We had the window ___.*",
+"opciones": [
+"repairing",
+"repaired",
+"repair"
+],
+"correcta": 1,
+"porque": "Después de la cosa va el participio: repaired."
+},
+{
+"pregunta": "Di «Mandó a cortar su pasto» con *the grass*.",
+"opciones": [
+"He had cut the grass.",
+"He had the grass cut.",
+"He cut the grass had."
+],
+"correcta": 1,
+"porque": "La forma es *have* + cosa + participio: the grass cut."
+},
+{
+"pregunta": "¿Qué frase dice que tú mismo lo hiciste?",
+"opciones": [
+"I got my room painted.",
+"I had my room painted.",
+"I painted my room."
+],
+"correcta": 2,
+"porque": "Sin *have* o *get* más participio, tú hiciste la acción."
+},
+{
+"pregunta": "Completa: *I ___ my backpack fixed yesterday.*",
+"opciones": [
+"have",
+"had",
+"having"
+],
+"correcta": 1,
+"porque": "Ayer es pasado, así que *have* cambia a *had*."
+}
+],
+"ingles-formal-e-informal-prepa": [
+{
+"pregunta": "Haz formal: *Bye, teacher!*",
+"opciones": [
+"Goodbye, teacher.",
+"See ya, teacher!",
+"Bye bye, teacher!"
+],
+"correcta": 0,
+"porque": "*Goodbye* es la forma formal de despedirse."
+},
+{
+"pregunta": "¿Qué frase es más formal?",
+"opciones": [
+"I wanna some help.",
+"I would like some help.",
+"I want help now."
+],
+"correcta": 1,
+"porque": "*I would like* suena más cortés que *I want*."
+},
+{
+"pregunta": "Escribes a tu director. ¿Qué saludo usas?",
+"opciones": [
+"Hi, dude!",
+"Hey, what's up?",
+"Good morning, sir."
+],
+"correcta": 2,
+"porque": "Con una autoridad conviene un saludo formal."
+},
+{
+"pregunta": "Haz formal: *I'm sorry!*",
+"opciones": [
+"I apologize.",
+"My bad!",
+"Sorry, sorry!"
+],
+"correcta": 0,
+"porque": "*I apologize* es la forma formal de pedir perdón."
+},
+{
+"pregunta": "¿Qué palabra formal sustituye a *get* en *get a letter*?",
+"opciones": [
+"grab",
+"receive",
+"catch"
+],
+"correcta": 1,
+"porque": "*Receive* es la forma formal de *get*."
+}
+],
+"justificar-preferencias-ingles-prepa": [
+{
+"pregunta": "Completa: *I prefer apples ___ candy.*",
+"opciones": [
+"than",
+"to",
+"of"
+],
+"correcta": 1,
+"porque": "Con *prefer* se compara con *to*: apples to candy."
+},
+{
+"pregunta": "Completa: *I prefer the park ___ it is quiet.*",
+"opciones": [
+"however",
+"because",
+"although"
+],
+"correcta": 1,
+"porque": "*Because* introduce la razón de tu preferencia."
+},
+{
+"pregunta": "¿Cuál frase compara bien con adjetivo largo?",
+"opciones": [
+"Math is more difficult that art.",
+"Math is more difficult than art.",
+"Math is difficulter than art."
+],
+"correcta": 1,
+"porque": "Los adjetivos largos usan *more ... than*."
+},
+{
+"pregunta": "Completa: *I'd rather ___ at home today.*",
+"opciones": [
+"stay",
+"staying",
+"to stay"
+],
+"correcta": 0,
+"porque": "Después de *I'd rather* va el verbo base: stay."
+},
+{
+"pregunta": "Tu amigo prefiere el cine y tú el teatro. ¿Qué dices con respeto?",
+"opciones": [
+"You are wrong about movies.",
+"Your choice is silly.",
+"I see, but I prefer the theater."
+],
+"correcta": 2,
+"porque": "Respetar es aceptar su gusto y decir el tuyo."
+}
+],
+"leer-textos-en-ingles-prepa": [
+{
+"pregunta": "¿Qué significa *therefore*?",
+"opciones": [
+"aunque",
+"por lo tanto",
+"sin embargo"
+],
+"correcta": 1,
+"porque": "*Therefore* une una causa con su resultado: por lo tanto."
+},
+{
+"pregunta": "¿Qué significa *library*?",
+"opciones": [
+"librería",
+"biblioteca",
+"libro"
+],
+"correcta": 1,
+"porque": "*Library* es biblioteca; es un falso cognado de librería."
+},
+{
+"pregunta": "Quieres saber de qué trata un texto rápido. ¿Qué haces?",
+"opciones": [
+"Skimming",
+"Copiar todo",
+"Scanning"
+],
+"correcta": 0,
+"porque": "*Skimming* es leer rápido para captar la idea general."
+},
+{
+"pregunta": "¿Qué pista da el prefijo *dis-* en *disagree*?",
+"opciones": [
+"Que es persona",
+"Que es negativo",
+"Que es repetir"
+],
+"correcta": 1,
+"porque": "*Dis-* suele negar: *disagree* es no estar de acuerdo."
+},
+{
+"pregunta": "¿Dónde suele estar la idea principal de un párrafo?",
+"opciones": [
+"En la primera oración",
+"En la última palabra",
+"En el título del libro"
+],
+"correcta": 0,
+"porque": "Casi siempre la idea principal abre el párrafo."
+}
+],
+"make-y-do-prepa": [
+{
+"pregunta": "Completa: *I want to ___ friends at school.*",
+"opciones": [
+"have do",
+"make",
+"do"
+],
+"correcta": 1,
+"porque": "*Make friends* es una frase fija: hacer amigos."
+},
+{
+"pregunta": "¿Cuál frase está bien para decir *lavamos los trastes*?",
+"opciones": [
+"We do the dishes.",
+"We does the dishes.",
+"We make the dishes."
+],
+"correcta": 0,
+"porque": "Con dishes se usa do, y con we no lleva -es."
+},
+{
+"pregunta": "Completa: *He ___ a decision yesterday.*",
+"opciones": [
+"did",
+"made",
+"makes"
+],
+"correcta": 1,
+"porque": "*Make a decision* en pasado es *made a decision*."
+},
+{
+"pregunta": "¿Qué frase está bien?",
+"opciones": [
+"She do her best.",
+"She makes her best.",
+"She does her best."
+],
+"correcta": 2,
+"porque": "*Do your best* es una frase fija: dar lo mejor."
+},
+{
+"pregunta": "¿Cuál frase está bien para decir *hago mi tarea*?",
+"opciones": [
+"I does my homework.",
+"I do my homework.",
+"I make my homework."
+],
+"correcta": 1,
+"porque": "Con homework se usa do, y con I no lleva -es."
+}
+],
+"oraciones-de-relativo-prepa": [
+{
+"pregunta": "Completa: *The teacher ___ helps us is kind.*",
+"opciones": [
+"which",
+"who",
+"where"
+],
+"correcta": 1,
+"porque": "*Who* se usa para personas, como el maestro."
+},
+{
+"pregunta": "Completa: *The school ___ I study is big.*",
+"opciones": [
+"who",
+"whose",
+"where"
+],
+"correcta": 2,
+"porque": "*Where* se usa para lugares, como la escuela."
+},
+{
+"pregunta": "Completa: *The laptop ___ is on the desk is mine.*",
+"opciones": [
+"who",
+"which",
+"whose"
+],
+"correcta": 1,
+"porque": "*Which* se usa para cosas, como la laptop."
+},
+{
+"pregunta": "Completa: *The boy ___ bike is blue is Leo.*",
+"opciones": [
+"who",
+"where",
+"whose"
+],
+"correcta": 2,
+"porque": "*Whose* indica posesión: la bici del niño."
+},
+{
+"pregunta": "¿Cuál oración lleva comas?",
+"opciones": [
+"My aunt, who lives in Puebla, is a nurse.",
+"The man who sings is Leo.",
+"The book which I read is good."
+],
+"correcta": 0,
+"porque": "La información extra, que no identifica, va entre comas."
+}
+],
+"phrasal-verbs-comunes-prepa": [
+{
+"pregunta": "¿Qué significa *put on*?",
+"opciones": [
+"prender",
+"ponerse",
+"quitarse"
+],
+"correcta": 1,
+"porque": "*Put on* es ponerse ropa, como una chamarra."
+},
+{
+"pregunta": "¿Qué significa *find out*?",
+"opciones": [
+"salir",
+"averiguar",
+"perder algo"
+],
+"correcta": 1,
+"porque": "*Find out* es descubrir o averiguar un dato."
+},
+{
+"pregunta": "Di «Se despegó el avión» con *take off*.",
+"opciones": [
+"The plane took off.",
+"The plane gave off.",
+"The plane put off."
+],
+"correcta": 0,
+"porque": "*Take off* también significa despegar."
+},
+{
+"pregunta": "Completa: *Please ___ the TV.* (apágala)",
+"opciones": [
+"turn off",
+"turn on",
+"look for"
+],
+"correcta": 0,
+"porque": "*Turn off* es apagar un aparato."
+},
+{
+"pregunta": "¿Qué significa *get up*?",
+"opciones": [
+"rendirse",
+"levantarse",
+"recibir"
+],
+"correcta": 1,
+"porque": "*Get up* es levantarse de la cama."
+}
+],
+"planes-propositos-futuro-ingles-prepa": [
+{
+"pregunta": "Completa: *I ___ to read more this year.*",
+"opciones": [
+"will going",
+"going",
+"am going"
+],
+"correcta": 2,
+"porque": "Un plan usa *am going to* más el verbo base."
+},
+{
+"pregunta": "Completa: *The phone is ringing. I ___ answer it.*",
+"opciones": [
+"going",
+"am going to",
+"will"
+],
+"correcta": 2,
+"porque": "Una decisión del momento usa *will*."
+},
+{
+"pregunta": "¿Cuál es la forma negativa correcta?",
+"opciones": [
+"She doesn't going to quit.",
+"She not going to quit.",
+"She isn't going to quit."
+],
+"correcta": 2,
+"porque": "Se niega con *is not* antes de *going to*."
+},
+{
+"pregunta": "¿Qué frase da un motivo?",
+"opciones": [
+"I will save money to buy a bike.",
+"I will save money and.",
+"I will save money bike."
+],
+"correcta": 0,
+"porque": "*To* más verbo explica para qué haces algo."
+},
+{
+"pregunta": "¿Qué palabra marca futuro?",
+"opciones": [
+"tomorrow",
+"last week",
+"yesterday"
+],
+"correcta": 0,
+"porque": "*Tomorrow* es mañana; las otras hablan del pasado."
+}
+],
+"preposiciones-con-verbos-y-adjetivos-prepa": [
+{
+"pregunta": "Completa: *I listen ___ music every day.*",
+"opciones": [
+"to",
+"of",
+"at"
+],
+"correcta": 0,
+"porque": "El verbo *listen* siempre va con *to*."
+},
+{
+"pregunta": "Completa: *She is proud ___ her sister.*",
+"opciones": [
+"on",
+"of",
+"in"
+],
+"correcta": 1,
+"porque": "El adjetivo *proud* va con *of*."
+},
+{
+"pregunta": "Completa: *He depends ___ his parents.*",
+"opciones": [
+"for",
+"on",
+"to"
+],
+"correcta": 1,
+"porque": "El verbo *depend* va con *on*."
+},
+{
+"pregunta": "Completa: *We are interested ___ music.*",
+"opciones": [
+"at",
+"with",
+"in"
+],
+"correcta": 2,
+"porque": "*Interested* va con *in*."
+},
+{
+"pregunta": "Corrige: *She is good at sing.*",
+"opciones": [
+"She is good at singing.",
+"She is good at sings.",
+"She is good at to sing."
+],
+"correcta": 0,
+"porque": "Después de una preposición el verbo lleva -ing."
+}
+]
+}

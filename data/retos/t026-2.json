@@ -1,0 +1,522 @@
+{
+"porcentaje-en-masa-secundaria": [
+{
+"pregunta": "Mezclas 10 g de sal en 40 g de agua. ¿Qué porcentaje en masa es?",
+"opciones": [
+"20 %",
+"25 %",
+"10 %"
+],
+"correcta": 0,
+"porque": "La disolución pesa 50 g, y $\\frac{10}{50} \\times 100 = 20\\%$."
+},
+{
+"pregunta": "¿Cuántos gramos de soluto hay en 200 g de disolución al 3 %?",
+"opciones": [
+"6 g",
+"0.6 g",
+"60 g"
+],
+"correcta": 0,
+"porque": "Se calcula $0.03 \\times 200 = 6$ g de soluto."
+},
+{
+"pregunta": "Al calcular el porcentaje en masa, ¿entre qué divides?",
+"opciones": [
+"La masa solo del agua",
+"La masa total de la disolución",
+"La masa solo del soluto"
+],
+"correcta": 1,
+"porque": "Se divide entre el total: soluto más disolvente."
+},
+{
+"pregunta": "Disuelves 30 g de azúcar en 270 g de agua. ¿Qué porcentaje es?",
+"opciones": [
+"90 %",
+"11 %",
+"10 %"
+],
+"correcta": 2,
+"porque": "El total es 300 g, y $\\frac{30}{300} \\times 100 = 10\\%$."
+},
+{
+"pregunta": "¿Qué es una disolución?",
+"opciones": [
+"Solo la sal usada",
+"Solo el agua usada",
+"Soluto más disolvente"
+],
+"correcta": 2,
+"porque": "La disolución es todo junto: el soluto y el disolvente."
+}
+],
+"porcentaje-en-volumen-secundaria": [
+{
+"pregunta": "Hay 20 mL de cloro en 80 mL de disolución. ¿Qué porcentaje en volumen es?",
+"opciones": [
+"25 %",
+"40 %",
+"20 %"
+],
+"correcta": 0,
+"porque": "Se calcula $\\frac{20}{80} \\times 100 = 25\\%$."
+},
+{
+"pregunta": "¿Cuántos mL de soluto hay en 250 mL de disolución al 8 %?",
+"opciones": [
+"8 mL",
+"200 mL",
+"20 mL"
+],
+"correcta": 2,
+"porque": "Se calcula $0.08 \\times 250 = 20$ mL."
+},
+{
+"pregunta": "Una etiqueta dice 5 % v/v. ¿Qué significa?",
+"opciones": [
+"5 mL de soluto por cada 100 mL",
+"95 mL de soluto por cada 100 mL",
+"5 mL de soluto por cada 1000 mL"
+],
+"correcta": 0,
+"porque": "El % v/v indica los mL de soluto en cada 100 mL de disolución."
+},
+{
+"pregunta": "Hay 100 mL de soluto en 1 L de disolución. ¿Qué porcentaje es?",
+"opciones": [
+"100 %",
+"1 %",
+"10 %"
+],
+"correcta": 2,
+"porque": "Un litro son 1000 mL, y $\\frac{100}{1000} \\times 100 = 10\\%$."
+},
+{
+"pregunta": "Un dato está en litros y otro en mL. ¿Qué haces antes de dividir?",
+"opciones": [
+"Los resto entre ellos",
+"Los sumo sin cambiar",
+"Los paso a la misma unidad"
+],
+"correcta": 2,
+"porque": "Para dividir, las dos cantidades deben tener la misma unidad."
+}
+],
+"propiedades-extensivas-intensivas-secundaria": [
+{
+"pregunta": "¿La longitud de una cuerda es una propiedad extensiva o intensiva?",
+"opciones": [
+"Extensiva",
+"Ni una ni otra",
+"Intensiva"
+],
+"correcta": 0,
+"porque": "La longitud cambia si cortas la cuerda, así que es extensiva."
+},
+{
+"pregunta": "Partes una plastilina azul a la mitad. ¿Qué no cambia?",
+"opciones": [
+"La masa",
+"El color",
+"El volumen"
+],
+"correcta": 1,
+"porque": "El color es intensivo: no depende de la cantidad."
+},
+{
+"pregunta": "27 g de una sustancia ocupan 10 cm³. ¿Cuál es su densidad?",
+"opciones": [
+"27 g/cm³",
+"2.7 g/cm³",
+"0.37 g/cm³"
+],
+"correcta": 1,
+"porque": "La densidad es masa entre volumen: $27 \\div 10 = 2.7$."
+},
+{
+"pregunta": "¿Qué propiedades sirven para reconocer una sustancia?",
+"opciones": [
+"Las intensivas",
+"Las que cambian al cortar",
+"Las extensivas"
+],
+"correcta": 0,
+"porque": "Las intensivas no cambian con la cantidad y identifican a la sustancia."
+},
+{
+"pregunta": "¿El punto de ebullición del agua es extensiva o intensiva?",
+"opciones": [
+"Ni una ni otra",
+"Extensiva",
+"Intensiva"
+],
+"correcta": 2,
+"porque": "El agua hierve a la misma temperatura sin importar cuánta haya."
+}
+],
+"protones-neutrones-y-electrones-secundaria": [
+{
+"pregunta": "Un átomo neutro tiene 3 protones. ¿Cuántos electrones tiene?",
+"opciones": [
+"6 electrones",
+"0 electrones",
+"3 electrones"
+],
+"correcta": 2,
+"porque": "Si es neutro, tiene tantos electrones como protones."
+},
+{
+"pregunta": "¿Qué carga tiene el protón?",
+"opciones": [
+"Positiva",
+"Negativa",
+"Sin carga"
+],
+"correcta": 0,
+"porque": "El protón tiene carga positiva y está en el núcleo."
+},
+{
+"pregunta": "Un átomo tiene 12 protones y 10 electrones. ¿Qué carga tiene?",
+"opciones": [
+"0",
+"-2",
+"+2"
+],
+"correcta": 2,
+"porque": "Tiene dos protones de más: $12 - 10 = +2$."
+},
+{
+"pregunta": "¿Dónde están los electrones?",
+"opciones": [
+"Pegados a los neutrones",
+"Dentro del núcleo",
+"Alrededor del núcleo"
+],
+"correcta": 2,
+"porque": "Los electrones giran como abejitas alrededor del núcleo."
+},
+{
+"pregunta": "¿Qué partícula del átomo no tiene carga?",
+"opciones": [
+"El neutrón",
+"El protón",
+"El electrón"
+],
+"correcta": 0,
+"porque": "El neutrón es neutro y vive en el núcleo."
+}
+],
+"que-estudia-quimica-tercer-grado-secundaria": [
+{
+"pregunta": "Al derretir hielo, ¿qué tipo de cambio ocurre?",
+"opciones": [
+"Químico, sale algo nuevo",
+"Químico, el hielo se quema",
+"Físico, no sale nada nuevo"
+],
+"correcta": 2,
+"porque": "Derretir hielo es un cambio físico porque sigue siendo agua."
+},
+{
+"pregunta": "Un clavo se pone naranja con el tiempo. ¿Qué cambio es?",
+"opciones": [
+"Químico, sale algo nuevo",
+"Físico, no sale nada nuevo",
+"Físico, solo cambia de lugar"
+],
+"correcta": 0,
+"porque": "Al oxidarse se forma una sustancia nueva, por eso es químico."
+},
+{
+"pregunta": "Se derrite una paleta de hielo. ¿Qué cambio es?",
+"opciones": [
+"Cambio físico",
+"Cambio químico",
+"Una reacción nueva"
+],
+"correcta": 0,
+"porque": "Derretir no forma nada nuevo, sigue siendo agua."
+},
+{
+"pregunta": "Se quema un trozo de madera. ¿Qué cambio es?",
+"opciones": [
+"Cambio físico",
+"Cambio químico",
+"Cambio de lugar"
+],
+"correcta": 1,
+"porque": "Al quemarse sale ceniza y humo, cosas nuevas."
+},
+{
+"pregunta": "¿Qué estudia la química?",
+"opciones": [
+"De qué están hechas las cosas y cómo cambian",
+"Solo cómo viven los animales",
+"Solo cómo se mueven los planetas"
+],
+"correcta": 0,
+"porque": "La química estudia de qué está hecha la materia y cómo se transforma."
+}
+],
+"que-se-oxida-y-que-se-reduce-secundaria": [
+{
+"pregunta": "¿Qué significa oxidarse?",
+"opciones": [
+"Ganar protones",
+"Perder electrones",
+"Ganar electrones"
+],
+"correcta": 1,
+"porque": "Oxidarse es perder electrones."
+},
+{
+"pregunta": "En $\\ce{Cu^2+ + 2e- -> Cu}$, ¿qué pasa con el cobre?",
+"opciones": [
+"Se reduce",
+"No cambia",
+"Se oxida"
+],
+"correcta": 0,
+"porque": "El cobre gana electrones, por eso se reduce."
+},
+{
+"pregunta": "¿Cómo se llama quien se oxida?",
+"opciones": [
+"Agente neutro",
+"Agente oxidante",
+"Agente reductor"
+],
+"correcta": 2,
+"porque": "Quien se oxida hace que otro se reduzca, por eso es reductor."
+},
+{
+"pregunta": "Un átomo pasa de 0 a +3 en su número de oxidación. ¿Qué le pasa?",
+"opciones": [
+"Se reduce",
+"Se oxida",
+"Se neutraliza"
+],
+"correcta": 1,
+"porque": "Si el número sube, perdió electrones y se oxidó."
+},
+{
+"pregunta": "El hierro pasa de +3 a 0. ¿Qué le pasa?",
+"opciones": [
+"Se oxida",
+"Se queda igual",
+"Se reduce"
+],
+"correcta": 2,
+"porque": "Si el número baja, el átomo ganó electrones y se redujo."
+}
+],
+"reaccion-exotermica-y-endotermica-secundaria": [
+{
+"pregunta": "Una neutralización libera calor. ¿Qué tipo de reacción es?",
+"opciones": [
+"Exotérmica",
+"Ni una ni otra",
+"Endotérmica"
+],
+"correcta": 0,
+"porque": "Si libera calor al entorno, es exotérmica."
+},
+{
+"pregunta": "La respiración celular, ¿es exotérmica o endotérmica?",
+"opciones": [
+"Ninguna",
+"Endotérmica",
+"Exotérmica"
+],
+"correcta": 2,
+"porque": "La respiración celular libera energía, por eso es exotérmica."
+},
+{
+"pregunta": "Al disolver nitrato de amonio el vaso se siente frío. ¿Por qué?",
+"opciones": [
+"La reacción absorbe calor",
+"La reacción libera calor",
+"La reacción no usa energía"
+],
+"correcta": 0,
+"porque": "Al absorber calor del entorno, la reacción es endotérmica."
+},
+{
+"pregunta": "En una reacción exotérmica, ¿cómo es la energía de los productos?",
+"opciones": [
+"Igual a la de los reactivos",
+"Menor que la de los reactivos",
+"Mayor que la de los reactivos"
+],
+"correcta": 1,
+"porque": "La energía sobrante sale como calor."
+},
+{
+"pregunta": "¿Qué ejemplo es endotérmico?",
+"opciones": [
+"Quemar gas en la estufa",
+"Cocinar un huevo",
+"Prender una fogata"
+],
+"correcta": 1,
+"porque": "Para cocinar el huevo se absorbe calor."
+}
+],
+"reacciones-quimicas-secundaria": [
+{
+"pregunta": "En $\\ce{2H2 + O2 -> 2H2O}$, ¿cómo se llama el número 2 que va delante de $\\ce{H2O}$?",
+"opciones": [
+"Coeficiente",
+"Subíndice",
+"Producto"
+],
+"correcta": 0,
+"porque": "El número grande de adelante es el coeficiente."
+},
+{
+"pregunta": "Al balancear, ¿qué número NO se cambia?",
+"opciones": [
+"El coeficiente",
+"Ninguno",
+"El subíndice"
+],
+"correcta": 2,
+"porque": "Solo se cambian los coeficientes, los subíndices no."
+},
+{
+"pregunta": "¿Cuántos átomos de H hay en $\\ce{3H2O}$?",
+"opciones": [
+"3 átomos",
+"5 átomos",
+"6 átomos"
+],
+"correcta": 2,
+"porque": "Se multiplica coeficiente por subíndice: $3 \\times 2 = 6$."
+},
+{
+"pregunta": "¿Cuál es una señal de que hubo reacción química?",
+"opciones": [
+"Burbujas o cambio de color",
+"Cortar un papel",
+"Mover un lápiz"
+],
+"correcta": 0,
+"porque": "Burbujas, luz, calor o color nuevo indican sustancias nuevas."
+},
+{
+"pregunta": "¿Cómo queda balanceada $\\ce{H2 + Cl2 -> HCl}$?",
+"opciones": [
+"$\\ce{H2 + Cl2 -> 2HCl}$",
+"$\\ce{2H2 + Cl2 -> 2HCl}$",
+"$\\ce{H2 + Cl2 -> HCl}$"
+],
+"correcta": 0,
+"porque": "Con 2 HCl hay 2 H y 2 Cl de cada lado."
+}
+],
+"reacciones-redox-oxidacion-reduccion-secundaria": [
+{
+"pregunta": "¿Cuál es el número de oxidación del C en $\\ce{CO}$?",
+"opciones": [
+"-2",
+"+4",
+"+2"
+],
+"correcta": 2,
+"porque": "El oxígeno vale -2, y para sumar cero el C vale +2."
+},
+{
+"pregunta": "En $\\ce{Mg + Fe^2+ -> Mg^2+ + Fe}$, ¿quién se oxida?",
+"opciones": [
+"El Mg",
+"El Fe",
+"Ninguno"
+],
+"correcta": 0,
+"porque": "El Mg pasa de 0 a +2: pierde electrones."
+},
+{
+"pregunta": "¿Qué es el agente oxidante?",
+"opciones": [
+"El que no cambia",
+"El que se reduce",
+"El que se oxida"
+],
+"correcta": 1,
+"porque": "El oxidante provoca la oxidación de otro y él se reduce."
+},
+{
+"pregunta": "Una sustancia gana electrones. ¿Qué le pasa?",
+"opciones": [
+"Se evapora",
+"Se reduce",
+"Se oxida"
+],
+"correcta": 1,
+"porque": "Ganar electrones es reducirse, como dice OIL RIG."
+},
+{
+"pregunta": "En el $\\ce{H2O}$ el O vale -2. ¿Cuánto vale cada H?",
+"opciones": [
+"+1",
+"+2",
+"-1"
+],
+"correcta": 0,
+"porque": "Dos H deben sumar +2 para dar cero, así que cada uno vale +1."
+}
+],
+"regla-del-octeto-secundaria": [
+{
+"pregunta": "El cloro tiene 7 electrones en su última capa. ¿Cuántos gana?",
+"opciones": [
+"1 electrón",
+"7 electrones",
+"8 electrones"
+],
+"correcta": 0,
+"porque": "Con 7, solo le falta uno para llegar a ocho."
+},
+{
+"pregunta": "¿Qué hace el sodio para completar su octeto?",
+"opciones": [
+"Pierde 1 electrón",
+"Gana 7 electrones",
+"Comparte 4 electrones"
+],
+"correcta": 0,
+"porque": "Al perder 1 electrón, le queda completa la capa anterior."
+},
+{
+"pregunta": "¿Cuántos electrones comparte el carbono?",
+"opciones": [
+"8 electrones",
+"4 electrones",
+"2 electrones"
+],
+"correcta": 1,
+"porque": "El carbono comparte 4 para completar sus ocho."
+},
+{
+"pregunta": "¿Por qué los gases nobles casi no reaccionan?",
+"opciones": [
+"Ya tienen su capa completa",
+"Les sobran muchos electrones",
+"No tienen electrones"
+],
+"correcta": 0,
+"porque": "Con la capa completa no necesitan ganar ni perder nada."
+},
+{
+"pregunta": "El azufre tiene 6 electrones en su última capa. ¿Cuántos le faltan?",
+"opciones": [
+"2 electrones",
+"6 electrones",
+"8 electrones"
+],
+"correcta": 0,
+"porque": "Para llegar a ocho necesita 2 más: $8 - 6 = 2$."
+}
+]
+}

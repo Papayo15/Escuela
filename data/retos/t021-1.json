@@ -1,0 +1,522 @@
+{
+"principio-de-arquimedes-flotacion-secundaria": [
+{
+"pregunta": "Un cuerpo aparta agua que pesa 45 N. ¿Cuánto vale el empuje?",
+"opciones": [
+"4.5 N",
+"90 N",
+"45 N"
+],
+"correcta": 2,
+"porque": "El empuje es igual al peso del agua que el cuerpo aparta."
+},
+{
+"pregunta": "¿Hacia dónde empuja el agua a lo que está dentro de ella?",
+"opciones": [
+"Hacia un lado",
+"Hacia arriba",
+"Hacia abajo"
+],
+"correcta": 1,
+"porque": "El empuje del líquido siempre va hacia arriba."
+},
+{
+"pregunta": "Calcula el empuje de 0.004 m³ en agua con $E = \\rho g V$, usando 1000 y 9.8.",
+"opciones": [
+"392 N",
+"3.92 N",
+"39.2 N"
+],
+"correcta": 2,
+"porque": "Se multiplica 1000 por 9.8 por 0.004 y da 39.2 N."
+},
+{
+"pregunta": "Una piedra pesa 8 N y el empuje del agua es 5 N. ¿Qué pasa?",
+"opciones": [
+"Se hunde, porque pesa más",
+"Flota, porque el agua gana",
+"Queda a media agua siempre"
+],
+"correcta": 0,
+"porque": "Si el peso es mayor que el empuje, el cuerpo se hunde."
+},
+{
+"pregunta": "Haces una bola de plastilina y un barquito con la misma plastilina. ¿Cuál flota?",
+"opciones": [
+"El barquito, porque aparta más agua",
+"La bola, porque es más compacta",
+"Los dos, porque pesan lo mismo"
+],
+"correcta": 0,
+"porque": "El barquito es hueco, aparta más agua y recibe más empuje."
+}
+],
+"principio-de-pascal-prensa-hidraulica-secundaria": [
+{
+"pregunta": "¿Qué pasa con la presión en un líquido encerrado?",
+"opciones": [
+"Llega igual a todos sus puntos",
+"Solo llega al punto apretado",
+"Se debilita mientras más lejos"
+],
+"correcta": 0,
+"porque": "Según Pascal, la presión se transmite igual a todo el líquido."
+},
+{
+"pregunta": "Con áreas de 3 y 60 cm², aplicas 20 N en el chico. ¿Qué fuerza sale en el grande?",
+"opciones": [
+"1200 N",
+"400 N",
+"40 N"
+],
+"correcta": 1,
+"porque": "El área crece 20 veces, así que la fuerza también: 20 por 20 son 400 N."
+},
+{
+"pregunta": "En una prensa hidráulica, ¿qué émbolo recorre más distancia?",
+"opciones": [
+"Los dos recorren igual",
+"El émbolo chico",
+"El émbolo grande"
+],
+"correcta": 1,
+"porque": "No se gana energía: el chico recorre más para que el grande empuje fuerte."
+},
+{
+"pregunta": "¿Cuál de estas cosas usa el principio de Pascal?",
+"opciones": [
+"Un lápiz de madera",
+"Los frenos de un coche",
+"Una cuchara de metal"
+],
+"correcta": 1,
+"porque": "Los frenos mandan la presión del líquido a las ruedas."
+},
+{
+"pregunta": "Unes dos jeringas con una manguera con agua y empujas una. ¿Qué pasa con la otra?",
+"opciones": [
+"Se rompe sola",
+"Se queda quieto",
+"Su émbolo se mueve"
+],
+"correcta": 2,
+"porque": "La presión viaja por el agua y mueve el otro émbolo."
+}
+],
+"principios-pascal-arquimedes-fisica-secundaria": [
+{
+"pregunta": "Una fuerza de 60 N actúa sobre 3 m². ¿Qué presión ejerce?",
+"opciones": [
+"180 Pa",
+"20 Pa",
+"0.05 Pa"
+],
+"correcta": 1,
+"porque": "La presión es fuerza entre área: 60 entre 3 son 20 Pa."
+},
+{
+"pregunta": "¿Qué dice el principio de Arquímedes?",
+"opciones": [
+"La presión llega igual a todo el líquido",
+"La fuerza es masa por aceleración",
+"El empuje es el peso del líquido apartado"
+],
+"correcta": 2,
+"porque": "Arquímedes habla del empuje hacia arriba en un líquido."
+},
+{
+"pregunta": "En una prensa, aplicas 4 N en un émbolo de 1 cm². El otro tiene 10 cm². ¿Qué fuerza sale?",
+"opciones": [
+"400 N",
+"0.4 N",
+"40 N"
+],
+"correcta": 2,
+"porque": "El área es 10 veces mayor, así que la fuerza también: 40 N."
+},
+{
+"pregunta": "Calcula el empuje con 1000, 10 y 0.002 m³ en $E = \\rho g V$.",
+"opciones": [
+"2 N",
+"200 N",
+"20 N"
+],
+"correcta": 2,
+"porque": "Se multiplica 1000 por 10 por 0.002 y sale 20 N."
+},
+{
+"pregunta": "Aprietas una botella cerrada llena de agua y se abulta por todos lados. ¿Qué principio es?",
+"opciones": [
+"El de Pascal",
+"El de Newton",
+"El de Arquímedes"
+],
+"correcta": 0,
+"porque": "La presión que haces se transmite igual por el agua."
+}
+],
+"segunda-ley-de-newton-secundaria": [
+{
+"pregunta": "Un objeto de 6 kg recibe 18 N. ¿Cuál es su aceleración?",
+"opciones": [
+"108 m/s²",
+"3 m/s²",
+"12 m/s²"
+],
+"correcta": 1,
+"porque": "La aceleración es fuerza entre masa: 18 entre 6 son 3."
+},
+{
+"pregunta": "¿Qué fuerza necesitas para dar 5 m/s² a un objeto de 2 kg?",
+"opciones": [
+"7 N",
+"10 N",
+"2.5 N"
+],
+"correcta": 1,
+"porque": "La fuerza es masa por aceleración: 2 por 5 son 10 N."
+},
+{
+"pregunta": "Una fuerza de 24 N da 6 m/s² a un objeto. ¿Cuál es su masa?",
+"opciones": [
+"30 kg",
+"4 kg",
+"144 kg"
+],
+"correcta": 1,
+"porque": "La masa es fuerza entre aceleración: 24 entre 6 son 4 kg."
+},
+{
+"pregunta": "Empujas con la misma fuerza una silla vacía y otra con mochilas. ¿Cuál acelera más?",
+"opciones": [
+"Las dos igual",
+"La silla con mochilas",
+"La silla vacía"
+],
+"correcta": 2,
+"porque": "Con menos masa y la misma fuerza, la aceleración es mayor."
+},
+{
+"pregunta": "¿Qué significa que la aceleración sea inversamente proporcional a la masa?",
+"opciones": [
+"La masa no cambia nada",
+"Más masa, más aceleración",
+"Más masa, menos aceleración"
+],
+"correcta": 2,
+"porque": "Si la masa sube, la misma fuerza acelera menos al cuerpo."
+}
+],
+"sistema-internacional-de-unidades-secundaria": [
+{
+"pregunta": "¿Cuál es la unidad de tiempo en el Sistema Internacional?",
+"opciones": [
+"El segundo",
+"El minuto",
+"La hora"
+],
+"correcta": 0,
+"porque": "En el Sistema Internacional el tiempo se mide en segundos."
+},
+{
+"pregunta": "¿Con qué unidad básica se mide la temperatura en el SI?",
+"opciones": [
+"Mol",
+"Candela",
+"Kelvin"
+],
+"correcta": 2,
+"porque": "El kelvin es la unidad básica de temperatura."
+},
+{
+"pregunta": "¿Qué significa el prefijo mili?",
+"opciones": [
+"Una centésima",
+"Mil veces más",
+"Una milésima"
+],
+"correcta": 2,
+"porque": "Mili quiere decir una milésima parte de la unidad."
+},
+{
+"pregunta": "La velocidad se mide en m/s. ¿Es unidad básica o derivada?",
+"opciones": [
+"Básica, porque lleva metros",
+"Derivada, porque se arma con otras",
+"Básica, porque es muy usada"
+],
+"correcta": 1,
+"porque": "Se arma con metro y segundo, que son las unidades básicas."
+},
+{
+"pregunta": "Quieres medir tu estatura con una unidad del SI. ¿Cuál usas?",
+"opciones": [
+"El segundo",
+"El kilogramo",
+"El metro"
+],
+"correcta": 2,
+"porque": "La longitud, como la estatura, se mide en metros."
+}
+],
+"temperatura-y-escalas-secundaria": [
+{
+"pregunta": "Convierte 30 °C a Kelvin sumando 273.",
+"opciones": [
+"86 K",
+"243 K",
+"303 K"
+],
+"correcta": 2,
+"porque": "Para pasar a Kelvin se suma 273: 30 más 273 son 303."
+},
+{
+"pregunta": "Convierte 50 °C a Fahrenheit: por 1.8 y más 32.",
+"opciones": [
+"90 °F",
+"122 °F",
+"82 °F"
+],
+"correcta": 1,
+"porque": "Primero 50 por 1.8 son 90 y luego se suman 32: 122."
+},
+{
+"pregunta": "¿En qué temperatura Fahrenheit se congela el agua?",
+"opciones": [
+"212 °F",
+"32 °F",
+"0 °F"
+],
+"correcta": 1,
+"porque": "El agua se congela en 0 °C, que son 32 °F."
+},
+{
+"pregunta": "¿Qué significa 0 K?",
+"opciones": [
+"Lo más frío posible",
+"Cuando el agua hierve",
+"Cuando el agua se congela"
+],
+"correcta": 0,
+"porque": "El cero absoluto es la temperatura mínima que puede existir."
+},
+{
+"pregunta": "¿Qué mide la temperatura?",
+"opciones": [
+"Qué tan agitadas están las partículas",
+"Qué tan grande es un objeto",
+"Cuánto pesa un objeto"
+],
+"correcta": 0,
+"porque": "Más calor significa partículas que se mueven más rápido."
+}
+],
+"tercera-ley-de-newton-secundaria": [
+{
+"pregunta": "En patines empujas a un amigo hacia adelante. ¿Qué te pasa a ti?",
+"opciones": [
+"Te quedas quieto",
+"Te mueves hacia atrás",
+"Te mueves hacia adelante"
+],
+"correcta": 1,
+"porque": "Él te empuja igual y en sentido contrario, por eso retrocedes."
+},
+{
+"pregunta": "Un cohete avienta gases hacia abajo. ¿Qué lo empuja hacia arriba?",
+"opciones": [
+"El suelo de la base",
+"Los gases que salen",
+"El aire de arriba"
+],
+"correcta": 1,
+"porque": "Los gases reciben una fuerza y le devuelven otra igual al cohete."
+},
+{
+"pregunta": "Jalas una cuerda con 20 N. ¿Con cuánta fuerza te jala la cuerda a ti?",
+"opciones": [
+"Con 40 N",
+"Con 10 N",
+"Con 20 N"
+],
+"correcta": 2,
+"porque": "La reacción siempre tiene el mismo tamaño que la acción."
+},
+{
+"pregunta": "¿Sobre qué cuerpos actúan la acción y la reacción?",
+"opciones": [
+"Sobre cuerpos distintos",
+"Sobre el mismo cuerpo",
+"Solo sobre el más pesado"
+],
+"correcta": 0,
+"porque": "Cada fuerza actúa en un cuerpo distinto, por eso no se cancelan."
+},
+{
+"pregunta": "Sueltas un globo inflado. ¿Hacia dónde se va?",
+"opciones": [
+"Hacia donde sale el aire",
+"Siempre hacia abajo",
+"Al lado contrario del aire que sale"
+],
+"correcta": 2,
+"porque": "El aire sale hacia un lado y empuja al globo hacia el otro."
+}
+],
+"trabajo-secundaria": [
+{
+"pregunta": "Empujas con 40 N durante 6 m. ¿Cuánto trabajo haces?",
+"opciones": [
+"6.7 J",
+"46 J",
+"240 J"
+],
+"correcta": 2,
+"porque": "El trabajo es fuerza por distancia: 40 por 6 son 240 J."
+},
+{
+"pregunta": "Si $W=90$ J y $d=3$ m, ¿cuánto vale $F$?",
+"opciones": [
+"270 N",
+"30 N",
+"93 N"
+],
+"correcta": 1,
+"porque": "La fuerza es trabajo entre distancia: 90 entre 3 son 30 N."
+},
+{
+"pregunta": "Cargas tu mochila y te quedas parado sin moverte. ¿Cuánto trabajo haces en física?",
+"opciones": [
+"Cero",
+"Mucho",
+"Un joule"
+],
+"correcta": 0,
+"porque": "Si no hay distancia recorrida, el trabajo es cero."
+},
+{
+"pregunta": "Al levantar algo, ¿qué fuerza usas en la cuenta del trabajo?",
+"opciones": [
+"Su peso",
+"Su color",
+"Su tamaño"
+],
+"correcta": 0,
+"porque": "Para subir un objeto hay que vencer su peso."
+},
+{
+"pregunta": "Subes tu mochila de 4 kg a 1 m. ¿Cuánto trabajo haces con 9.8?",
+"opciones": [
+"4.9 J",
+"39.2 J",
+"392 J"
+],
+"correcta": 1,
+"porque": "Peso 4 por 9.8 por 1 m da 39.2 J."
+}
+],
+"unidades-medidas-fisica-secundaria": [
+{
+"pregunta": "Convierte 5 km a metros.",
+"opciones": [
+"5000 m",
+"50 m",
+"500 m"
+],
+"correcta": 0,
+"porque": "Kilo es mil, así que 5 km son 5000 m."
+},
+{
+"pregunta": "Convierte 4 km a metros.",
+"opciones": [
+"4000 m",
+"40 m",
+"400 m"
+],
+"correcta": 0,
+"porque": "Un kilómetro son mil metros: 4 por 1000 son 4000."
+},
+{
+"pregunta": "Convierte 2 horas a segundos.",
+"opciones": [
+"3600 s",
+"7200 s",
+"120 s"
+],
+"correcta": 1,
+"porque": "Una hora son 3600 s, y 2 por 3600 son 7200."
+},
+{
+"pregunta": "Una niña recorre 30 m en 5 s. ¿Cuál es su rapidez?",
+"opciones": [
+"35 m/s",
+"6 m/s",
+"150 m/s"
+],
+"correcta": 1,
+"porque": "La rapidez es distancia entre tiempo: 30 entre 5 son 6."
+},
+{
+"pregunta": "¿Por qué decir que algo mide 5 no basta?",
+"opciones": [
+"Falta la unidad",
+"Falta el color",
+"Falta el peso"
+],
+"correcta": 0,
+"porque": "Toda medida lleva número y unidad."
+}
+],
+"vectores-magnitud-y-direccion-secundaria": [
+{
+"pregunta": "Dos fuerzas de 9 N y 4 N jalan en sentidos opuestos. ¿Cuál es la resultante?",
+"opciones": [
+"13 N hacia la mayor",
+"5 N hacia la mayor",
+"5 N hacia la menor"
+],
+"correcta": 1,
+"porque": "En sentidos contrarios se restan y gana la fuerza mayor."
+},
+{
+"pregunta": "Caminas 5 pasos al este y 12 al norte. ¿Qué tan lejos quedas del inicio?",
+"opciones": [
+"13 pasos",
+"7 pasos",
+"17 pasos"
+],
+"correcta": 0,
+"porque": "En escuadra se usa Pitágoras: la raíz de 25 más 144 es 13."
+},
+{
+"pregunta": "Tu edad, ¿es una cantidad escalar o un vector?",
+"opciones": [
+"Escalar, solo tiene número",
+"Vector, porque tiene unidad",
+"Vector, porque crece"
+],
+"correcta": 0,
+"porque": "No necesita dirección, solo un número."
+},
+{
+"pregunta": "Sumas 2 N y 7 N en el mismo sentido. ¿Cuánto da?",
+"opciones": [
+"5 N",
+"14 N",
+"9 N"
+],
+"correcta": 2,
+"porque": "Si van en el mismo sentido, las fuerzas se suman."
+},
+{
+"pregunta": "Dices \"camina 20 pasos\". ¿Qué dato falta para que sea un vector?",
+"opciones": [
+"La dirección",
+"La hora",
+"El color"
+],
+"correcta": 0,
+"porque": "Un vector necesita tamaño y dirección."
+}
+]
+}

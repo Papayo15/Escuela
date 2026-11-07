@@ -1,0 +1,522 @@
+{
+"biodiversidad-mexico-primaria": [
+{
+"pregunta": "¿Qué es la biodiversidad?",
+"opciones": [
+"La variedad de seres vivos",
+"El número de casas en una ciudad grande",
+"Solo la cantidad de agua que hay en un lugar"
+],
+"correcta": 0,
+"porque": "La biodiversidad es la gran variedad de seres vivos."
+},
+{
+"pregunta": "¿Qué significa que una especie sea endémica?",
+"opciones": [
+"Ya no existe en ningún lugar",
+"Solo vive en cierta región",
+"Vive en todos los países del mundo"
+],
+"correcta": 1,
+"porque": "Una especie endémica solo vive en una región, como el ajolote."
+},
+{
+"pregunta": "En el patio ves una roca y un pájaro. ¿Cuál es abiótico?",
+"opciones": [
+"Los dos",
+"La roca",
+"El pájaro"
+],
+"correcta": 1,
+"porque": "La roca no tiene vida, por eso es abiótica."
+},
+{
+"pregunta": "¿Cuál es una razón para cuidar la biodiversidad?",
+"opciones": [
+"Solo sirve para tomar fotografías",
+"No sirve para nada importante",
+"Nos da agua, comida y aire limpio"
+],
+"correcta": 2,
+"porque": "La naturaleza nos da agua, comida, aire limpio y medicinas."
+},
+{
+"pregunta": "¿Cuál de estos lugares hay en México?",
+"opciones": [
+"Selvas, desiertos y arrecifes",
+"Solo desiertos en todo el país",
+"Solo nieve y hielo todo el año"
+],
+"correcta": 0,
+"porque": "México tiene selvas, bosques, desiertos y arrecifes."
+}
+],
+"cambios-permanentes-materiales-primaria": [
+{
+"pregunta": "¿Qué es un cambio permanente?",
+"opciones": [
+"Uno que forma algo nuevo y no regresa",
+"Uno que se puede regresar fácilmente",
+"Uno que solo pasa en la escuela"
+],
+"correcta": 0,
+"porque": "En un cambio permanente se forma algo nuevo y no regresa."
+},
+{
+"pregunta": "¿Cuál es un cambio permanente?",
+"opciones": [
+"Quemar madera",
+"Derretir hielo",
+"Doblar una hoja de papel"
+],
+"correcta": 0,
+"porque": "La madera quemada ya no vuelve a ser madera."
+},
+{
+"pregunta": "En el recreo se derrite una paleta de hielo. ¿Qué cambio es?",
+"opciones": [
+"Permanente, porque cambió de forma",
+"Permanente, porque se hizo líquida",
+"Temporal, porque se puede congelar otra vez"
+],
+"correcta": 2,
+"porque": "El hielo derretido puede volver a ser hielo, es temporal."
+},
+{
+"pregunta": "¿Qué señal puede mostrar un cambio permanente?",
+"opciones": [
+"Burbujas o un olor nuevo",
+"Que el objeto sigue igual de limpio",
+"Que cambió de lugar en la mesa"
+],
+"correcta": 0,
+"porque": "Burbujas, olor, color o calor muestran que se formó algo nuevo."
+},
+{
+"pregunta": "¿Qué pasa cuando se oxida un clavo?",
+"opciones": [
+"Solo cambia de lugar",
+"Se forma algo nuevo",
+"Vuelve a ser clavo nuevo al secarse"
+],
+"correcta": 1,
+"porque": "El hierro se junta con agua y oxígeno y forma óxido."
+}
+],
+"circuito-electrico-sencillo-primaria": [
+{
+"pregunta": "¿Qué es un circuito eléctrico?",
+"opciones": [
+"Un tipo de foco muy grande",
+"Un camino cerrado para la corriente",
+"Un camino abierto donde no pasa nada"
+],
+"correcta": 1,
+"porque": "El circuito cerrado deja pasar la corriente."
+},
+{
+"pregunta": "¿Qué parte del circuito usa la energía para dar luz?",
+"opciones": [
+"El cable",
+"La pila",
+"El foco"
+],
+"correcta": 2,
+"porque": "El foco usa la energía para dar luz."
+},
+{
+"pregunta": "Armas un circuito en clase y el interruptor está abierto. ¿Qué pasa con el foco?",
+"opciones": [
+"Prende y se apaga",
+"Prende muy fuerte",
+"No prende nada"
+],
+"correcta": 2,
+"porque": "Con el interruptor abierto no pasa corriente."
+},
+{
+"pregunta": "¿Para qué sirven los cables?",
+"opciones": [
+"Para conducir la corriente",
+"Para dar energía como la pila",
+"Para abrir y cerrar el paso"
+],
+"correcta": 0,
+"porque": "Los cables conducen la corriente de una parte a otra."
+},
+{
+"pregunta": "¿Qué debes hacer con los enchufes de la casa?",
+"opciones": [
+"No jugar con ellos",
+"Meter un lápiz para probar",
+"Tocarlos con las manos mojadas"
+],
+"correcta": 0,
+"porque": "Los enchufes son peligrosos y no se juega con ellos."
+}
+],
+"corazon-y-circulacion-primaria": [
+{
+"pregunta": "¿Qué hace el corazón?",
+"opciones": [
+"Parte la comida del lunch",
+"Guarda el aire para respirar",
+"Bombea la sangre"
+],
+"correcta": 2,
+"porque": "El corazón bombea la sangre a todo el cuerpo."
+},
+{
+"pregunta": "¿Qué vasos llevan sangre desde el corazón hacia el cuerpo?",
+"opciones": [
+"Los tubos del estómago, que digieren",
+"Las arterias, que salen del corazón",
+"Las venas, porque regresan sangre"
+],
+"correcta": 1,
+"porque": "Las arterias llevan sangre que sale del corazón."
+},
+{
+"pregunta": "Después de correr en la cancha, tu corazón late más rápido. ¿Por qué?",
+"opciones": [
+"Los músculos piden más oxígeno",
+"Porque ya se cansó y quiere parar",
+"Porque tienes hambre y sed"
+],
+"correcta": 0,
+"porque": "Al correr, los músculos necesitan más oxígeno."
+},
+{
+"pregunta": "¿Qué parte de la sangre ayuda a cerrar las heridas?",
+"opciones": [
+"El plasma, que es transparente",
+"Las plaquetas, que cierran heridas",
+"Los glóbulos rojos, que llevan oxígeno"
+],
+"correcta": 1,
+"porque": "Las plaquetas ayudan a cerrar las heridas."
+},
+{
+"pregunta": "¿Qué son los capilares?",
+"opciones": [
+"Vasos muy delgaditos",
+"El músculo grande del corazón",
+"Las células que defienden"
+],
+"correcta": 0,
+"porque": "En los capilares se entregan oxígeno y nutrientes."
+}
+],
+"costos-beneficios-agua-energia-combustibles-primaria": [
+{
+"pregunta": "¿Cuál es un beneficio de usar electricidad?",
+"opciones": [
+"Que nunca se paga recibo",
+"Tener luz y comodidad",
+"Que no contamina nada"
+],
+"correcta": 1,
+"porque": "La electricidad nos da luz, comodidad y más usos."
+},
+{
+"pregunta": "¿Cuál es un costo de usar gasolina?",
+"opciones": [
+"Contamina el aire",
+"Nunca se acaba",
+"No cuesta nada"
+],
+"correcta": 0,
+"porque": "La gasolina contamina el aire y se acaba."
+},
+{
+"pregunta": "En la escuela dejan la llave del lavabo abierta. ¿Qué conviene hacer?",
+"opciones": [
+"Cerrarla para no gastar agua",
+"Dejarla correr para tener más",
+"Abrir las demás llaves también"
+],
+"correcta": 0,
+"porque": "Cerrar la llave ahorra agua y dinero."
+},
+{
+"pregunta": "Una llave gotea 3 litros por hora. ¿Cuántos litros pierde en 4 horas?",
+"opciones": [
+"10 litros",
+"7 litros",
+"12 litros"
+],
+"correcta": 2,
+"porque": "Se multiplican 3 litros por 4 horas y salen 12 litros."
+},
+{
+"pregunta": "¿Cómo puedes bajar el recibo de luz de tu casa?",
+"opciones": [
+"Dejando abierto el refrigerador",
+"Apagando lo que no usas",
+"Dejando prendidos todos los focos"
+],
+"correcta": 1,
+"porque": "Apagar lo que no usas ahorra dinero y energía."
+}
+],
+"defensas-del-cuerpo-primaria": [
+{
+"pregunta": "¿Qué es la piel para tu cuerpo?",
+"opciones": [
+"Un tipo de glóbulo blanco",
+"Una barrera contra los microbios",
+"Un órgano que fabrica anticuerpos"
+],
+"correcta": 1,
+"porque": "La piel es la primera barrera que protege contra los microbios."
+},
+{
+"pregunta": "¿Qué hacen las vacunas?",
+"opciones": [
+"Enseñan a tu cuerpo a reconocer un microbio",
+"Dan fiebre a todas las personas siempre",
+"Curan cualquier enfermedad de inmediato"
+],
+"correcta": 0,
+"porque": "Las vacunas entrenan a tus defensas sin enfermarte gravemente."
+},
+{
+"pregunta": "Tienes fiebre después de un resfriado. ¿Qué haces primero?",
+"opciones": [
+"Avisar a un adulto",
+"Esconderlo para que no se preocupen",
+"Tomar medicinas tú solo"
+],
+"correcta": 0,
+"porque": "Si te sientes mal, avísale a un adulto."
+},
+{
+"pregunta": "¿Qué producen tus defensas para recordar a los microbios?",
+"opciones": [
+"Anticuerpos",
+"Jugos gástricos",
+"Plaquetas para cerrar heridas"
+],
+"correcta": 0,
+"porque": "El cuerpo crea anticuerpos y recuerda a los microbios."
+},
+{
+"pregunta": "En el recreo quieres cuidar tus defensas. ¿Qué haces antes de comer?",
+"opciones": [
+"Lavarte las manos",
+"Compartir los dedos con tus amigos",
+"Tocar el piso con las manos"
+],
+"correcta": 0,
+"porque": "Lavarte las manos quita microbios antes de comer."
+}
+],
+"desarrollo-humano-salud-reproductiva-primaria": [
+{
+"pregunta": "¿Cuál es el orden correcto de las primeras etapas de la vida?",
+"opciones": [
+"Pubertad, vejez, infancia",
+"Adolescencia, infancia, pubertad",
+"Infancia, pubertad, adolescencia"
+],
+"correcta": 2,
+"porque": "Las etapas van de infancia a pubertad y luego adolescencia."
+},
+{
+"pregunta": "¿Qué pasa en la pubertad?",
+"opciones": [
+"Se detiene el crecimiento por completo",
+"El cuerpo empieza a cambiar",
+"Desaparecen las emociones"
+],
+"correcta": 1,
+"porque": "En la pubertad el cuerpo crece y cambia la voz."
+},
+{
+"pregunta": "Tienes dudas sobre los cambios de tu cuerpo. ¿Con quién puedes hablar?",
+"opciones": [
+"Con un adulto de confianza",
+"Con alguien que se burle de ti",
+"Con nadie, aunque sientas miedo"
+],
+"correcta": 0,
+"porque": "Pedir ayuda a un adulto de confianza es parte del cuidado."
+},
+{
+"pregunta": "¿Qué significa respetar tu cuerpo y el de otros?",
+"opciones": [
+"Cuidarlo y no burlarte",
+"Hacer bromas de cómo se ve cada quien",
+"Tocar a otros sin pedir permiso"
+],
+"correcta": 0,
+"porque": "Respetar es cuidar tu cuerpo y el de los demás."
+},
+{
+"pregunta": "¿Qué se puede hacer para prevenir infecciones de transmisión sexual?",
+"opciones": [
+"Informarte y cuidarte",
+"Pedir consejo a cualquier desconocido",
+"Ignorar el tema para no pensar"
+],
+"correcta": 0,
+"porque": "Informarte y cuidarte ayuda a prevenirlas."
+}
+],
+"energia-termica-electrica-primaria": [
+{
+"pregunta": "¿Qué ley dice la energía?",
+"opciones": [
+"No se crea ni se destruye, solo se transforma",
+"Aparece sola de la nada",
+"Se acaba cuando la usas"
+],
+"correcta": 0,
+"porque": "La energía siempre cambia de forma, nunca se pierde por completo."
+},
+{
+"pregunta": "En la cocina usas una plancha. ¿Qué transformación ocurre?",
+"opciones": [
+"De energía eléctrica a calor",
+"De luz a electricidad",
+"De calor a luz"
+],
+"correcta": 0,
+"porque": "La plancha convierte la electricidad en calor."
+},
+{
+"pregunta": "¿Qué transformación hace una licuadora?",
+"opciones": [
+"De calor a electricidad",
+"De química a calor",
+"De eléctrica a movimiento"
+],
+"correcta": 2,
+"porque": "La licuadora usa electricidad para mover las aspas."
+},
+{
+"pregunta": "¿Por qué un foco LED ahorra más?",
+"opciones": [
+"Gasta mucha más energía en la pared",
+"Convierte más electricidad en calor",
+"Convierte más electricidad en luz"
+],
+"correcta": 2,
+"porque": "El LED pierde menos calor y gasta menos."
+},
+{
+"pregunta": "¿Qué transformación pasa en una estufa de gas?",
+"opciones": [
+"De química a calor",
+"De eléctrica a luz",
+"De movimiento a electricidad"
+],
+"correcta": 0,
+"porque": "El gas guarda energía química y la estufa la vuelve calor."
+}
+],
+"estrellas-y-galaxias-primaria": [
+{
+"pregunta": "¿Qué es una estrella?",
+"opciones": [
+"Una esfera de gas que produce luz",
+"Un planeta frío y rocoso",
+"Una luna que gira alrededor del Sol"
+],
+"correcta": 0,
+"porque": "Una estrella es una esfera de gas que produce su propia luz."
+},
+{
+"pregunta": "¿Qué es una galaxia?",
+"opciones": [
+"Un enorme grupo de estrellas",
+"Un planeta muy grande",
+"Una sola estrella muy brillante"
+],
+"correcta": 0,
+"porque": "Una galaxia reúne muchísimas estrellas."
+},
+{
+"pregunta": "Eres de la escuela y miras el cielo de noche. ¿En qué galaxia vives?",
+"opciones": [
+"La Vía Láctea",
+"Andrómeda, que está cerca",
+"El Sistema Solar, porque está al centro"
+],
+"correcta": 0,
+"porque": "Nuestra galaxia es la Vía Láctea."
+},
+{
+"pregunta": "¿Qué es un año luz?",
+"opciones": [
+"La distancia que recorre la luz en un año",
+"Una estrella muy vieja y brillante",
+"El tiempo que dura un año en la Tierra"
+],
+"correcta": 0,
+"porque": "Un año luz mide distancia, no tiempo."
+},
+{
+"pregunta": "¿Qué son las constelaciones?",
+"opciones": [
+"Galaxias muy grandes y cercanas",
+"Dibujos imaginarios entre estrellas",
+"Planetas muy cercanos al Sol"
+],
+"correcta": 1,
+"porque": "Las constelaciones son figuras que imaginamos con las estrellas."
+}
+],
+"exploracion-espacial-primaria": [
+{
+"pregunta": "¿Quién fue el primer humano en el espacio?",
+"opciones": [
+"Yuri Gagarin, en 1961",
+"Neil Armstrong, en 1969",
+"Rodolfo Neri Vela, en 1985"
+],
+"correcta": 0,
+"porque": "Yuri Gagarin fue el primer humano en el espacio, en 1961."
+},
+{
+"pregunta": "¿Qué hizo el Apolo 11?",
+"opciones": [
+"Lanzó el primer satélite",
+"Llevó humanos a caminar en la Luna",
+"Llevó robots a Marte"
+],
+"correcta": 1,
+"porque": "Con el Apolo 11 Neil Armstrong caminó en la Luna."
+},
+{
+"pregunta": "Tu maestro dice que alguien de México fue astronauta. ¿Quién fue?",
+"opciones": [
+"Rodolfo Neri Vela",
+"Neil Armstrong, que era estadounidense",
+"Yuri Gagarin, que era ruso"
+],
+"correcta": 0,
+"porque": "Rodolfo Neri Vela fue el primer astronauta mexicano, en 1985."
+},
+{
+"pregunta": "¿Qué fue el Sputnik?",
+"opciones": [
+"Un telescopio muy moderno",
+"El primer satélite",
+"La primera nave con personas"
+],
+"correcta": 1,
+"porque": "El Sputnik fue el primer satélite, en 1957."
+},
+{
+"pregunta": "¿Qué hace el telescopio James Webb?",
+"opciones": [
+"Observa el espacio",
+"Camina sobre Marte",
+"Lleva personas a la Luna"
+],
+"correcta": 0,
+"porque": "Un telescopio sirve para observar el espacio lejano."
+}
+]
+}

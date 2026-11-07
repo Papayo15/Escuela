@@ -1,0 +1,522 @@
+{
+"calor-especifico-prepa": [
+{
+"pregunta": "La arena quema y el mar sigue fresco. ¿Cómo es el calor específico del agua?",
+"opciones": [
+"Es chico, así que se calienta muy rápido",
+"Es cero, así que nunca sube su temperatura",
+"Es grande, así que tarda en calentarse"
+],
+"correcta": 2,
+"porque": "El agua pide mucho calor para subir de temperatura, y por eso el mar sigue fresco."
+},
+{
+"pregunta": "Una taza y una alberca de agua: ¿cuál pide más calor para subir 1 grado?",
+"opciones": [
+"La alberca, porque tiene más masa",
+"La taza, porque es más pequeña y liviana",
+"Piden igual, porque las dos son agua"
+],
+"correcta": 0,
+"porque": "Más masa significa más materia que calentar, y eso pide más calor."
+},
+{
+"pregunta": "Juntas 1 kg de agua a 20 °C con 1 kg de agua a 60 °C. ¿A cuánto queda?",
+"opciones": [
+"A 80 °C",
+"A 30 °C",
+"A 40 °C"
+],
+"correcta": 2,
+"porque": "Con porciones iguales queda a la mitad de las dos temperaturas."
+},
+{
+"pregunta": "Algo pasa de 15 °C a 65 °C. ¿Cuánto vale $\\Delta T$?",
+"opciones": [
+"50 °C",
+"80 °C",
+"65 °C"
+],
+"correcta": 0,
+"porque": "El cambio es lo final menos lo inicial: 65 menos 15 da 50."
+},
+{
+"pregunta": "¿Cuánto calor necesita 1 kg de agua para subir 2 °C, con $c=4186$?",
+"opciones": [
+"8372 J",
+"2093 J",
+"4186 J"
+],
+"correcta": 0,
+"porque": "Calor es masa por c por cambio: $1 \\times 4186 \\times 2 = 8372$ J."
+}
+],
+"calor-latente-prepa": [
+{
+"pregunta": "Un hielo a 0 °C se está derritiendo. ¿En qué se usa el calor que recibe?",
+"opciones": [
+"En soltar sus partículas",
+"En subir su temperatura poco a poco",
+"En enfriar el agua del vaso"
+],
+"correcta": 0,
+"porque": "En el cambio de fase el calor suelta las partículas y la temperatura no sube."
+},
+{
+"pregunta": "¿Cuánto calor se necesita para derretir 5 kg de hielo, con 334 000 J por kilo?",
+"opciones": [
+"334 000 J",
+"1 670 000 J",
+"11 300 000 J"
+],
+"correcta": 1,
+"porque": "Calor es masa por L: $5 \\times 334\\,000 = 1\\,670\\,000$ J."
+},
+{
+"pregunta": "¿Cuándo se usa $Q = mL$ en lugar de $mc\\Delta T$?",
+"opciones": [
+"Cuando el agua sube de 20 a 30 °C",
+"Cuando el agua baja de 50 a 40 °C",
+"Cuando el agua pasa de líquido a vapor"
+],
+"correcta": 2,
+"porque": "$mL$ sirve en un cambio de fase; si solo cambia la temperatura, usa $mc\\Delta T$."
+},
+{
+"pregunta": "Un vaso tiene hielo y agua, y aún queda hielo. ¿Qué temperatura marca?",
+"opciones": [
+"Cerca de 0 °C",
+"Cerca de 20 °C",
+"Cerca de 100 °C"
+],
+"correcta": 0,
+"porque": "Mientras haya hielo derritiéndose, la temperatura se queda cerca de 0 °C."
+},
+{
+"pregunta": "¿Cuánto calor vaporiza 2 kg de agua a 100 °C, con 2 260 000 J por kilo?",
+"opciones": [
+"4 520 000 J",
+"2 260 000 J",
+"668 000 J"
+],
+"correcta": 0,
+"porque": "Calor es masa por L: $2 \\times 2\\,260\\,000 = 4\\,520\\,000$ J."
+}
+],
+"calor-y-temperatura-preparatoria": [
+{
+"pregunta": "¿Qué pasa con las partículas cuando algo se calienta?",
+"opciones": [
+"Se mueven más lento",
+"Se quedan quietas",
+"Se mueven más rápido"
+],
+"correcta": 2,
+"porque": "Más temperatura significa partículas más agitadas."
+},
+{
+"pregunta": "Tocas un hielo con tu mano. ¿Hacia dónde pasa el calor?",
+"opciones": [
+"Del hielo a tu mano, porque tiene frío",
+"De tu mano al hielo",
+"No pasa calor, porque son distintos"
+],
+"correcta": 1,
+"porque": "El calor siempre va de lo caliente a lo frío, y tu mano está más caliente."
+},
+{
+"pregunta": "¿Cuánto calor absorben 100 g de agua que suben 3 °C, con $c = 4.18$?",
+"opciones": [
+"418 J",
+"125.4 J",
+"1254 J"
+],
+"correcta": 2,
+"porque": "Calor es masa por c por cambio: $100 \\times 4.18 \\times 3 = 1254$ J."
+},
+{
+"pregunta": "Una olla grande y una taza de sopa están a la misma temperatura. ¿Cuál guarda más energía?",
+"opciones": [
+"La taza, porque se enfría antes",
+"La olla, porque tiene más partículas",
+"Guardan igual, porque tienen igual temperatura"
+],
+"correcta": 1,
+"porque": "Con más partículas hay más energía, aunque la temperatura sea igual."
+},
+{
+"pregunta": "Tocas un hielo con la mano. ¿Qué pasa con la energía?",
+"opciones": [
+"El hielo le pasa calor a tu mano",
+"Tu mano le pasa calor al hielo",
+"No pasa energía entre ellos"
+],
+"correcta": 1,
+"porque": "El calor va de lo caliente, tu mano, a lo frío, el hielo."
+}
+],
+"cantidad-de-movimiento-prepa": [
+{
+"pregunta": "Calcula $p$ de un balón de 8 kg que va a 5 m/s.",
+"opciones": [
+"13 kg·m/s",
+"3 kg·m/s",
+"40 kg·m/s"
+],
+"correcta": 2,
+"porque": "La cantidad de movimiento es masa por velocidad: $8 \\times 5 = 40$."
+},
+{
+"pregunta": "Una fuerza de 10 N empuja durante 6 s. ¿Cuánto vale el impulso?",
+"opciones": [
+"4 N·s",
+"60 N·s",
+"16 N·s"
+],
+"correcta": 1,
+"porque": "El impulso es fuerza por tiempo: $10 \\times 6 = 60$."
+},
+{
+"pregunta": "¿Por qué protege una bolsa de aire en un choque?",
+"opciones": [
+"El golpe dura más y la fuerza es menor",
+"El golpe dura menos y la fuerza baja mucho",
+"El golpe dura más y la fuerza sube mucho"
+],
+"correcta": 0,
+"porque": "Alargar el tiempo del impacto reduce la fuerza del golpe."
+},
+{
+"pregunta": "Un cambio $\\Delta p = 40$ ocurre en 4 s. ¿Qué fuerza promedio actuó?",
+"opciones": [
+"10 N",
+"44 N",
+"160 N"
+],
+"correcta": 0,
+"porque": "La fuerza es $\\Delta p$ entre el tiempo: $40 \\div 4 = 10$ N."
+},
+{
+"pregunta": "Atrapas una pelota moviendo la mano hacia atrás. ¿Por qué duele menos?",
+"opciones": [
+"Alargas el tiempo y baja la fuerza",
+"Aumentas la masa de la pelota al atraparla",
+"Acortas el tiempo y baja la fuerza mucho"
+],
+"correcta": 0,
+"porque": "Con más tiempo de frenado, la fuerza del golpe es menor."
+}
+],
+"choques-prepa": [
+{
+"pregunta": "4 kg a 3 m/s chocan y se pegan a 2 kg quietos. ¿Cuál es $v_f$?",
+"opciones": [
+"3 m/s",
+"6 m/s",
+"2 m/s"
+],
+"correcta": 2,
+"porque": "Suma $4 \\times 3 = 12$ y divide entre la masa total 6: da 2 m/s."
+},
+{
+"pregunta": "¿Cómo es un choque elástico?",
+"opciones": [
+"Quedan pegados y pierden energía de movimiento",
+"Se detienen y ganan energía de movimiento",
+"Rebotan y no pierden energía de movimiento"
+],
+"correcta": 2,
+"porque": "En el choque elástico los cuerpos rebotan, como las canicas."
+},
+{
+"pregunta": "Dos carritos quedan pegados después de chocar. ¿Qué tipo de choque es?",
+"opciones": [
+"Perfectamente inelástico",
+"Elástico, como canicas",
+"Elástico, con mucho rebote"
+],
+"correcta": 0,
+"porque": "Si quedan pegados, el choque es perfectamente inelástico."
+},
+{
+"pregunta": "1 kg a 4 m/s choca de frente con 1 kg a $-4$ m/s y se pegan. ¿Cuál es $v_f$?",
+"opciones": [
+"0 m/s",
+"8 m/s",
+"4 m/s"
+],
+"correcta": 0,
+"porque": "Los momentos se cancelan: $4 - 4 = 0$, y el total queda en cero."
+},
+{
+"pregunta": "Dos canicas chocan. Lo que pierde una, lo gana la otra. ¿Qué dice eso?",
+"opciones": [
+"El total de movimiento no cambia",
+"Cada canica conserva el suyo",
+"El total de movimiento sube"
+],
+"correcta": 0,
+"porque": "En un choque aislado, la cantidad de movimiento total se conserva."
+}
+],
+"conservacion-de-la-energia-mecanica-prepa": [
+{
+"pregunta": "Un objeto cae desde 20 m. ¿Con qué velocidad llega, con $g=10$ m/s²?",
+"opciones": [
+"10 m/s",
+"40 m/s",
+"20 m/s"
+],
+"correcta": 2,
+"porque": "Usa $v = \\sqrt{2gh} = \\sqrt{400} = 20$ m/s."
+},
+{
+"pregunta": "Sueltas a la vez una pelota pesada y una ligera desde la misma altura, sin fricción. ¿Cuál llega más rápido?",
+"opciones": [
+"La pesada, porque tiene mucha más masa",
+"La ligera, porque pesa mucho menos",
+"Igual, porque la masa se cancela"
+],
+"correcta": 2,
+"porque": "En $v = \\sqrt{2gh}$ no aparece la masa, así que llegan igual."
+},
+{
+"pregunta": "Un objeto sube con 30 m/s. ¿A qué altura llega, con $g=10$ m/s²?",
+"opciones": [
+"45 m",
+"30 m",
+"90 m"
+],
+"correcta": 0,
+"porque": "Usa $h = \\frac{v^2}{2g} = \\frac{900}{20} = 45$ m."
+},
+{
+"pregunta": "Un juguete empieza con 200 J y termina con 150 J por la fricción. ¿Qué pasó con la diferencia?",
+"opciones": [
+"Se volvieron 150 J de calor",
+"Se destruyeron 50 J de energía",
+"Se volvieron 50 J de calor"
+],
+"correcta": 2,
+"porque": "La energía no se destruye: los 50 J que faltan se disiparon como calor."
+},
+{
+"pregunta": "¿Por qué una pelota rebota cada vez más bajo?",
+"opciones": [
+"Parte de su energía se vuelve calor y sonido",
+"Gana masa en cada rebote",
+"La gravedad cambia en cada rebote"
+],
+"correcta": 0,
+"porque": "Con fricción, parte de la energía se vuelve calor y sonido."
+}
+],
+"dilatacion-termica-prepa": [
+{
+"pregunta": "Un riel de acero de 50 m sube 20 °C, con $\\alpha = 0.000012$. ¿Cuánto crece?",
+"opciones": [
+"1.2 cm",
+"0.12 cm",
+"12 cm"
+],
+"correcta": 0,
+"porque": "$0.000012 \\times 50 \\times 20 = 0.012$ m, que son 1.2 cm."
+},
+{
+"pregunta": "Una tapa de metal se afloja con agua caliente. ¿Por qué?",
+"opciones": [
+"El frasco se encoge y la deja totalmente libre",
+"La tapa se dilata y queda más holgada",
+"La tapa se encoge y queda mucho más holgada"
+],
+"correcta": 1,
+"porque": "El calor hace crecer el metal, y la tapa queda más holgada."
+},
+{
+"pregunta": "¿Qué les pasa a las partículas cuando algo se calienta?",
+"opciones": [
+"Se agitan y necesitan más lugar",
+"Se aplastan y ocupan mucho menos lugar",
+"Se quedan quietas y pesan mucho más"
+],
+"correcta": 0,
+"porque": "Con calor las partículas se empujan y el cuerpo crece un poco."
+},
+{
+"pregunta": "En un lago frío, ¿dónde se queda el agua a 4 °C?",
+"opciones": [
+"Arriba, porque es la más ligera",
+"En medio, porque no pesa",
+"Abajo, porque es la más densa"
+],
+"correcta": 2,
+"porque": "El agua es más densa a 4 °C, así que se hunde y arriba se forma el hielo."
+},
+{
+"pregunta": "El acero tiene $12 \\times 10^{-6}$ y el aluminio $23 \\times 10^{-6}$. ¿Cuál crece más con igual largo y grados?",
+"opciones": [
+"Crecen igual, porque se calientan igual",
+"El aluminio, porque su número es mayor",
+"El acero, porque su número es menor"
+],
+"correcta": 1,
+"porque": "Un número de material mayor da un crecimiento mayor."
+}
+],
+"ecuacion-del-gas-ideal-prepa": [
+{
+"pregunta": "Calcula $V$ de 1 mol a 300 K y 2 atm, con $R = 0.082$.",
+"opciones": [
+"12.3 L",
+"49.2 L",
+"24.6 L"
+],
+"correcta": 0,
+"porque": "$V = \\frac{1 \\times 0.082 \\times 300}{2} = 12.3$ L."
+},
+{
+"pregunta": "¿En qué unidad va el volumen en la fórmula $PV = nRT$ con $R = 0.082$?",
+"opciones": [
+"En litros (L)",
+"En atmósferas (atm)",
+"En kelvin (K)"
+],
+"correcta": 0,
+"porque": "Con ese valor de R, el volumen va en litros."
+},
+{
+"pregunta": "Calcula $n$ con 1 atm, 24.6 L y 300 K, usando $R = 0.082$.",
+"opciones": [
+"2 mol",
+"0.5 mol",
+"1 mol"
+],
+"correcta": 2,
+"porque": "$n = \\frac{PV}{RT} = \\frac{24.6}{24.6} = 1$ mol."
+},
+{
+"pregunta": "Acercas un globo a agua tibia. ¿Qué le pasa?",
+"opciones": [
+"Se encoge, porque el gas se calienta",
+"Crece, porque el gas se calienta",
+"No cambia, porque el aire es ligero"
+],
+"correcta": 1,
+"porque": "Con más temperatura el gas ocupa más lugar y el globo crece."
+},
+{
+"pregunta": "Calcula $P$ de 2 mol en 10 L a 300 K, con $R = 0.082$.",
+"opciones": [
+"4.92 atm",
+"49.2 atm",
+"0.49 atm"
+],
+"correcta": 0,
+"porque": "$P = \\frac{2 \\times 0.082 \\times 300}{10} = 4.92$ atm."
+}
+],
+"energia-cinetica-y-potencial-prepa": [
+{
+"pregunta": "Calcula $E_c$ de un balón de 4 kg que va a 3 m/s.",
+"opciones": [
+"36 J",
+"12 J",
+"18 J"
+],
+"correcta": 2,
+"porque": "$E_c = \\frac{1}{2} \\times 4 \\times 9 = 18$ J."
+},
+{
+"pregunta": "Si triplicas la velocidad, ¿qué pasa con $E_c$?",
+"opciones": [
+"Se vuelve 6 veces mayor",
+"Se vuelve 9 veces mayor",
+"Se vuelve 3 veces mayor"
+],
+"correcta": 1,
+"porque": "La velocidad va al cuadrado: $3 \\times 3 = 9$."
+},
+{
+"pregunta": "Calcula $E_p$ de 3 kg a 4 m de altura, con $g = 10$.",
+"opciones": [
+"12 J",
+"120 J",
+"60 J"
+],
+"correcta": 1,
+"porque": "$E_p = mgh = 3 \\times 10 \\times 4 = 120$ J."
+},
+{
+"pregunta": "Calcula $E_e$ de un resorte con $k = 300$ y $x = 0.1$.",
+"opciones": [
+"15 J",
+"3 J",
+"1.5 J"
+],
+"correcta": 2,
+"porque": "$E_e = \\frac{1}{2} \\times 300 \\times 0.01 = 1.5$ J."
+},
+{
+"pregunta": "Sueltas una pelota desde dos alturas distintas. ¿Qué pasa con el golpe?",
+"opciones": [
+"Da igual: la altura no cambia la energía",
+"Más alta: más energía y golpe más fuerte",
+"Más alta: menos energía y golpe más suave"
+],
+"correcta": 1,
+"porque": "A mayor altura hay más energía potencial, y el golpe es más fuerte."
+}
+],
+"energia-transformacion-conservacion-prepa": [
+{
+"pregunta": "¿Qué transformación ocurre en un foco encendido?",
+"opciones": [
+"De química a eléctrica",
+"De eléctrica a luz y calor",
+"De luz a movimiento"
+],
+"correcta": 1,
+"porque": "Un foco convierte energía eléctrica en luz y calor."
+},
+{
+"pregunta": "Calcula $E_p$ de 2 kg a 5 m de altura, con $g = 10$.",
+"opciones": [
+"50 J",
+"10 J",
+"100 J"
+],
+"correcta": 2,
+"porque": "$E_p = mgh = 2 \\times 10 \\times 5 = 100$ J."
+},
+{
+"pregunta": "Calcula $E_c$ de 4 kg que se mueven a 2 m/s.",
+"opciones": [
+"8 J",
+"4 J",
+"16 J"
+],
+"correcta": 0,
+"porque": "$E_c = \\frac{1}{2} \\times 4 \\times 4 = 8$ J."
+},
+{
+"pregunta": "Un aparato gasta energía eléctrica. ¿A dónde va esa energía?",
+"opciones": [
+"Se queda guardada en el aparato sin cambiar",
+"Desaparece por completo en cuanto la usas",
+"Se vuelve otras formas, como luz y calor"
+],
+"correcta": 2,
+"porque": "La energía no se destruye: solo se transforma en otras formas."
+},
+{
+"pregunta": "¿Qué dice la comparación con el dinero y las monedas?",
+"opciones": [
+"Se acaba al cambiar de forma",
+"Cambia de forma pero sigue siendo la misma",
+"Aumenta al cambiar de forma"
+],
+"correcta": 1,
+"porque": "Como el dinero, la energía cambia de forma y la cantidad se conserva."
+}
+]
+}

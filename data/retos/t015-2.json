@@ -1,0 +1,567 @@
+{
+"paralelas-cortadas-por-una-transversal-secundaria": [
+{
+"pregunta": "Dos rectas paralelas son cortadas por una transversal. Un ángulo alterno interno mide 75°. ¿Cuánto mide el otro?",
+"opciones": [
+"$105°$, porque los dos suman una línea recta",
+"$15°$",
+"$150°$",
+"$75°$"
+],
+"correcta": 3,
+"porque": "Los ángulos alternos internos entre paralelas son iguales."
+},
+{
+"pregunta": "Dos colaterales internos entre paralelas: uno mide 65°. ¿Cuánto mide el otro?",
+"opciones": [
+"$115°$",
+"$295°$",
+"$25°$, porque suman una esquina de 90°",
+"$65°$, porque los dos son iguales"
+],
+"correcta": 0,
+"porque": "Los colaterales internos suman 180°: $180 - 65 = 115$."
+},
+{
+"pregunta": "Un ángulo mide 40° y su correspondiente está en la otra paralela. ¿Cuánto mide el correspondiente?",
+"opciones": [
+"$50°$",
+"$80°$",
+"$40°$",
+"$140°$, porque suman 180° siempre"
+],
+"correcta": 2,
+"porque": "Los ángulos correspondientes tienen la misma posición y miden igual."
+},
+{
+"pregunta": "¿Cuándo se cumplen estas igualdades entre los ángulos de una transversal?",
+"opciones": [
+"Solo si hay ocho ángulos agudos",
+"Solo si las rectas son paralelas",
+"Siempre, aunque las dos rectas se crucen entre ellas",
+"Solo si la transversal es perpendicular"
+],
+"correcta": 1,
+"porque": "Si las rectas no son paralelas, los ángulos ya no son iguales."
+},
+{
+"pregunta": "En el cuaderno ves una letra Z formada por dos renglones y una diagonal. ¿Cómo son sus ángulos de la Z?",
+"opciones": [
+"Iguales, son alternos internos",
+"Suman 180° en cada esquina",
+"Uno mide el doble que el otro"
+],
+"correcta": 0,
+"porque": "Los ángulos de la Z son alternos internos y son iguales."
+}
+],
+"parentesis-corchetes-y-llaves-secundaria": [
+{
+"pregunta": "Resuelve $4 + [2 \\times (7 - 3)]$.",
+"opciones": [
+"$12$",
+"$16$",
+"$24$, porque sumas antes de multiplicar",
+"$10$"
+],
+"correcta": 0,
+"porque": "Paréntesis: 4. Corchete: $2 \\times 4 = 8$. Final: $4 + 8 = 12$."
+},
+{
+"pregunta": "Resuelve $30 - (5 - 9)$.",
+"opciones": [
+"$-34$",
+"$16$",
+"$34$",
+"$26$, porque restas el 5 y luego sumas el 9"
+],
+"correcta": 2,
+"porque": "Dentro da $-4$, y quitar $-4$ es sumar 4: $30 + 4 = 34$."
+},
+{
+"pregunta": "Resuelve $2 \\times \\{1 + [3 + (8 - 6)]\\}$.",
+"opciones": [
+"$6$",
+"$14$, porque duplicas solo el uno",
+"$7$",
+"$12$"
+],
+"correcta": 3,
+"porque": "Paréntesis: 2. Corchete: 5. Llaves: 6. Final: $2 \\times 6 = 12$."
+},
+{
+"pregunta": "¿Qué se resuelve primero en una operación con varios signos de agrupación?",
+"opciones": [
+"Lo que esté al final",
+"La suma que veas primero de izquierda a derecha",
+"Lo que está más adentro",
+"Lo que está en las llaves, porque son las más grandes"
+],
+"correcta": 2,
+"porque": "Se empieza por el signo más interno y se sale hacia afuera."
+},
+{
+"pregunta": "Resuelve $12 - (4 - 6)$.",
+"opciones": [
+"$-14$",
+"$2$",
+"$10$, porque restas 4 y luego restas 6",
+"$14$"
+],
+"correcta": 3,
+"porque": "Dentro da $-2$, y quitar $-2$ es sumar 2: $12 + 2 = 14$."
+}
+],
+"pendiente-de-una-recta-secundaria": [
+{
+"pregunta": "Calcula la pendiente entre $(1, 3)$ y $(4, 12)$.",
+"opciones": [
+"$\\frac{1}{3}$, porque volteas la fracción",
+"$3$",
+"$-3$",
+"$9$, porque solo calculas lo que sube"
+],
+"correcta": 1,
+"porque": "$m = \\frac{12 - 3}{4 - 1} = \\frac{9}{3} = 3$."
+},
+{
+"pregunta": "Calcula la pendiente entre $(0, 6)$ y $(3, 0)$.",
+"opciones": [
+"$-\\frac{1}{2}$, porque volteas la razón",
+"$-2$",
+"$3$",
+"$2$, porque 6 entre 3 es positivo"
+],
+"correcta": 1,
+"porque": "Baja 6 mientras avanza 3: $\\frac{0 - 6}{3 - 0} = -2$."
+},
+{
+"pregunta": "¿Cuál es la pendiente de $y = 5x - 1$?",
+"opciones": [
+"$\\frac{1}{5}$, porque lo volteas",
+"$5$, porque está junto a $x$",
+"$-1$, porque es el último número"
+],
+"correcta": 1,
+"porque": "En $y = mx + b$, la pendiente es el número junto a $x$."
+},
+{
+"pregunta": "Una recta baja de izquierda a derecha. ¿Cómo es su pendiente?",
+"opciones": [
+"Igual a cero, porque no es vertical",
+"Negativa",
+"No existe",
+"Positiva, porque la recta es larga"
+],
+"correcta": 1,
+"porque": "Las rectas que bajan tienen pendiente negativa."
+},
+{
+"pregunta": "Una rampa de la escuela sube 2 m y avanza 8 m. ¿Cuál es su pendiente?",
+"opciones": [
+"$16$",
+"$6$, porque restas los dos datos",
+"$\\frac{1}{4}$",
+"$4$, porque divides lo que avanza entre lo que sube"
+],
+"correcta": 2,
+"porque": "La pendiente es lo que sube entre lo que avanza: $\\frac{2}{8} = \\frac{1}{4}$."
+}
+],
+"potencias-secundaria": [
+{
+"pregunta": "Calcula $5^3$.",
+"opciones": [
+"$125$",
+"$53$",
+"$15$, porque multiplicas 5 por 3",
+"$25$"
+],
+"correcta": 0,
+"porque": "Escribes el 5 tres veces: $5 \\times 5 \\times 5 = 125$."
+},
+{
+"pregunta": "Calcula $2^6$.",
+"opciones": [
+"$12$, porque multiplicas la base por el exponente",
+"$32$",
+"$64$",
+"$26$"
+],
+"correcta": 2,
+"porque": "$2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 = 64$."
+},
+{
+"pregunta": "Calcula $(-3)^3$.",
+"opciones": [
+"$27$, porque tres veces menos da más",
+"$9$",
+"$-9$",
+"$-27$"
+],
+"correcta": 3,
+"porque": "El exponente es impar, y por eso el resultado queda negativo."
+},
+{
+"pregunta": "Calcula $8^0$.",
+"opciones": [
+"$1$",
+"$0$, porque no hay ninguna vez el 8",
+"$80$",
+"$8$, porque la base se queda igual"
+],
+"correcta": 0,
+"porque": "Cualquier número distinto de cero elevado a cero vale 1."
+},
+{
+"pregunta": "Doblas una hoja por la mitad 4 veces. ¿Cuántas capas tiene?",
+"opciones": [
+"$4$",
+"$8$, porque cada doblez suma 2 capas",
+"$16$",
+"$6$, porque $2 \\times 4$ es 8 menos 2"
+],
+"correcta": 2,
+"porque": "Cada doblez duplica las capas: $2^4 = 16$."
+}
+],
+"probabilidad-clasica-y-frecuencial-secundaria": [
+{
+"pregunta": "¿Cuál es la probabilidad clásica de sacar un número par en un dado de 6 caras?",
+"opciones": [
+"$\\frac{3}{6}$",
+"$\\frac{6}{3}$, porque volteas la fracción",
+"$\\frac{4}{6}$",
+"$\\frac{1}{6}$, porque solo sale una cara a la vez"
+],
+"correcta": 0,
+"porque": "Hay 3 caras pares, 2, 4 y 6, entre 6 posibles."
+},
+{
+"pregunta": "Lanzas una moneda 100 veces y caen 52 águilas. ¿Cuál es la probabilidad frecuencial de águila?",
+"opciones": [
+"$\\frac{1}{2}$, porque una moneda siempre cae igual",
+"$\\frac{48}{100}$, porque cuentas los soles",
+"$\\frac{52}{100}$",
+"$\\frac{100}{52}$"
+],
+"correcta": 2,
+"porque": "La frecuencial son las veces que pasó entre los intentos."
+},
+{
+"pregunta": "¿Cuál es la probabilidad clásica de sacar 5 en un dado de 6 caras?",
+"opciones": [
+"$\\frac{1}{6}$",
+"$\\frac{5}{6}$, porque el número es 5",
+"$\\frac{1}{5}$",
+"$\\frac{6}{5}$"
+],
+"correcta": 0,
+"porque": "Hay un caso favorable entre 6 posibles."
+},
+{
+"pregunta": "Si repites un experimento muchísimas veces, ¿qué pasa con la probabilidad frecuencial?",
+"opciones": [
+"Se vuelve igual a cero",
+"Se aleja cada vez más de la clásica y cambia mucho",
+"Se acerca a la clásica",
+"Siempre vale lo mismo que el primer intento"
+],
+"correcta": 2,
+"porque": "Esa es la ley de los grandes números."
+},
+{
+"pregunta": "¿Cómo obtienes la probabilidad frecuencial?",
+"opciones": [
+"Sumando los números del dado",
+"Repitiendo y contando",
+"Pensando en los casos posibles sin hacer nada",
+"Preguntando a otro compañero cuál le parece más probable"
+],
+"correcta": 1,
+"porque": "La frecuencial sale de probar muchas veces y contar los resultados."
+}
+],
+"problemas-con-pitagoras-secundaria": [
+{
+"pregunta": "Una escalera de 13 m se apoya con su pie a 5 m de la pared. ¿A qué altura llega?",
+"opciones": [
+"$18$ m, porque sumas los dos datos",
+"$8$ m, porque restas 13 menos 5",
+"$12$ m, porque $169 - 25 = 144$"
+],
+"correcta": 2,
+"porque": "La escalera es la hipotenusa, así que restas: $\\sqrt{169 - 25} = 12$."
+},
+{
+"pregunta": "La mesa del salón mide 6 dm por 8 dm. ¿Cuánto mide su diagonal?",
+"opciones": [
+"$10$ dm",
+"$14$ dm, porque sumas los lados",
+"$2$ dm",
+"$28$ dm"
+],
+"correcta": 0,
+"porque": "La diagonal es la hipotenusa: $\\sqrt{36 + 64} = 10$."
+},
+{
+"pregunta": "Caminas 9 km al oeste y luego 12 km al sur. ¿A qué distancia en línea recta estás del inicio?",
+"opciones": [
+"$\\sqrt{63}$ km",
+"$21$ km, porque sumas lo que caminaste",
+"$3$ km",
+"$15$ km"
+],
+"correcta": 3,
+"porque": "Buscas la hipotenusa: $\\sqrt{81 + 144} = 15$."
+},
+{
+"pregunta": "Si en un problema buscas un cateto, ¿qué haces con los cuadrados?",
+"opciones": [
+"Los restas, porque buscas un cateto",
+"Los divides entre dos para sacar la mitad",
+"Los sumas, igual que con la hipotenusa"
+],
+"correcta": 0,
+"porque": "Para un cateto restas al cuadrado de la hipotenusa el del otro cateto."
+},
+{
+"pregunta": "Un cuadrado de patio mide 4 m de lado. ¿Cuánto mide su diagonal?",
+"opciones": [
+"$4\\sqrt{2}$ m",
+"$16$ m, porque elevas el lado al cuadrado",
+"$4$ m",
+"$8$ m, porque sumas dos lados"
+],
+"correcta": 0,
+"porque": "La diagonal del cuadrado es $\\sqrt{2}$ por el lado."
+}
+],
+"problemas-que-se-resuelven-con-ecuaciones-secundaria": [
+{
+"pregunta": "Un número disminuido en 7 es 20. ¿Cuál es el número?",
+"opciones": [
+"$7$",
+"$140$",
+"$13$, porque restas 20 menos 7",
+"$27$"
+],
+"correcta": 3,
+"porque": "La ecuación es $x - 7 = 20$, y entonces $x = 27$."
+},
+{
+"pregunta": "Tres números consecutivos suman 30. ¿Cuál es el menor?",
+"opciones": [
+"$11$",
+"$10$, porque 30 entre 3 es 10",
+"$9$",
+"$8$"
+],
+"correcta": 2,
+"porque": "Se escribe $x + (x + 1) + (x + 2) = 30$. Queda $3x + 3 = 30$, y $x = 9$."
+},
+{
+"pregunta": "El triple de un número más 4 es 19. ¿Cuál es el número?",
+"opciones": [
+"$15$",
+"$5$",
+"$7.67$, porque divides 23 entre 3",
+"$3$"
+],
+"correcta": 1,
+"porque": "La ecuación es $3x + 4 = 19$. Queda $3x = 15$, y $x = 5$."
+},
+{
+"pregunta": "Ana y Luis suman 40 años, y Ana tiene el triple que Luis. ¿Cuántos años tiene Luis?",
+"opciones": [
+"$10$ años",
+"$30$ años, porque es la edad de Ana",
+"$13$ años, porque son 40 entre 3",
+"$20$ años"
+],
+"correcta": 0,
+"porque": "Se escribe $x + 3x = 40$. Queda $4x = 40$, y $x = 10$."
+},
+{
+"pregunta": "¿Qué haces primero para resolver un problema con ecuaciones?",
+"opciones": [
+"Decir qué dato de la historia es $x$",
+"Sumar todos los números del texto",
+"Resolver la ecuación sin escribirla antes"
+],
+"correcta": 0,
+"porque": "Primero dices qué es $x$, y luego escribes y resuelves la ecuación."
+}
+],
+"propiedad-distributiva-secundaria": [
+{
+"pregunta": "Desarrolla $3(2x + 5)$.",
+"opciones": [
+"$6x + 15$",
+"$6x + 8$",
+"$5x + 8$, porque sumas el 3",
+"$6x + 5$, porque solo multiplicas el primero"
+],
+"correcta": 0,
+"porque": "El 3 multiplica a los dos términos: $3 \\times 2x$ y $3 \\times 5$."
+},
+{
+"pregunta": "Desarrolla $-4(x - 2)$.",
+"opciones": [
+"$-4x - 8$, porque el menos se queda",
+"$-4x - 2$",
+"$4x - 8$",
+"$-4x + 8$"
+],
+"correcta": 3,
+"porque": "Menos por menos da más, entonces $(-4)(-2) = 8$."
+},
+{
+"pregunta": "Calcula $9 \\times 13$ usando $9(10 + 3)$.",
+"opciones": [
+"$93$, porque pegas el 9 y el 3",
+"$90$",
+"$27$",
+"$117$"
+],
+"correcta": 3,
+"porque": "$9 \\times 10 = 90$ y $9 \\times 3 = 27$, entonces $90 + 27 = 117$."
+},
+{
+"pregunta": "Desarrolla $x(x + 5)$.",
+"opciones": [
+"$x^2 + 5x$",
+"$2x + 5$",
+"$x^2 + 5$, porque la equis no multiplica al 5",
+"$x + 5x$"
+],
+"correcta": 0,
+"porque": "La equis de afuera multiplica a cada término de adentro."
+},
+{
+"pregunta": "Desarrolla $2(a + 3b)$.",
+"opciones": [
+"$5ab$",
+"$2a + 6b$",
+"$2a + 5b$",
+"$2a + 3b$, porque solo multiplicas la primera letra"
+],
+"correcta": 1,
+"porque": "El 2 multiplica a $a$ y también a $3b$."
+}
+],
+"que-es-una-literal-secundaria": [
+{
+"pregunta": "En $6z^2$, ¿cuál es el coeficiente?",
+"opciones": [
+"$62$",
+"$z$, porque es la letra",
+"$6$",
+"$2$, porque es el exponente"
+],
+"correcta": 2,
+"porque": "El coeficiente es el número que va pegado adelante de la letra."
+},
+{
+"pregunta": "Compras 5 bolsas de dulces y cada una cuesta $c$ pesos. ¿Cómo escribes el total?",
+"opciones": [
+"$5c$",
+"$5 - c$",
+"$c + 5$, porque son dos datos que se juntan",
+"$c^5$, porque se repite cinco veces"
+],
+"correcta": 0,
+"porque": "Letra pegada a un número significa multiplicación."
+},
+{
+"pregunta": "¿Qué significa $xy$?",
+"opciones": [
+"$x$ más $y$, porque están juntas",
+"$x$ por $y$",
+"$x$ elevada a $y$",
+"El número 10"
+],
+"correcta": 1,
+"porque": "Dos letras pegadas se multiplican."
+},
+{
+"pregunta": "¿Cuál es el coeficiente de $-x$?",
+"opciones": [
+"$1$",
+"$-1$",
+"$0$, porque no se ve ningún número",
+"$x$"
+],
+"correcta": 1,
+"porque": "$-x$ es lo mismo que $-1x$."
+},
+{
+"pregunta": "¿Qué es una incógnita?",
+"opciones": [
+"El exponente de la letra",
+"Una letra que no representa un número",
+"Una literal que se busca",
+"El número que va junto a la letra"
+],
+"correcta": 2,
+"porque": "La incógnita es la letra cuyo valor quieres descubrir."
+}
+],
+"raiz-cuadrada-secundaria": [
+{
+"pregunta": "Calcula $\\sqrt{64}$.",
+"opciones": [
+"$8$",
+"$32$, porque divides entre dos",
+"$6$",
+"$4096$"
+],
+"correcta": 0,
+"porque": "Ocho por ocho da 64."
+},
+{
+"pregunta": "Calcula $\\sqrt{121}$.",
+"opciones": [
+"$11$",
+"$60.5$",
+"$21$",
+"$12$, porque 12 es el siguiente cuadrado"
+],
+"correcta": 0,
+"porque": "Once por once da 121."
+},
+{
+"pregunta": "¿Entre qué enteros está $\\sqrt{30}$?",
+"opciones": [
+"Entre 3 y 4, porque 30 termina en cero",
+"Entre 15 y 16, porque 30 son dos veces 15",
+"Entre 5 y 6",
+"Entre 6 y 7"
+],
+"correcta": 2,
+"porque": "Como 30 está entre 25 y 36, su raíz está entre 5 y 6."
+},
+{
+"pregunta": "Un cuadrado de papel tiene área de $49\\text{ cm}^2$. ¿Cuánto mide su lado?",
+"opciones": [
+"$9$ cm",
+"$24.5$ cm, porque divides entre dos",
+"$98$ cm",
+"$7$ cm"
+],
+"correcta": 3,
+"porque": "El lado es la raíz del área, y $7 \\times 7 = 49$."
+},
+{
+"pregunta": "¿Cuál de estos es un cuadrado perfecto?",
+"opciones": [
+"$40$, porque está cerca de los cuadrados",
+"$18$",
+"$50$, porque termina en cero",
+"$36$"
+],
+"correcta": 3,
+"porque": "Seis por seis da 36, así que es un cuadrado perfecto."
+}
+]
+}

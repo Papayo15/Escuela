@@ -1,3 +1,4 @@
+import { ASISTENTE } from "./marca";
 import { ErrorOpenRouter } from "./openrouter";
 
 export type ErrorChat = { codigo: string; mensaje: string; reintentar: boolean };
@@ -8,7 +9,7 @@ export function traducirError(error: unknown): ErrorChat {
     if (error.estado === 402 && !espera) {
       return {
         codigo: "presupuesto",
-        mensaje: "El Maestro en vivo no está disponible por ahora. La biblioteca sigue funcionando; avisa a la escuela.",
+        mensaje: `${ASISTENTE} no está disponible por ahora. La biblioteca sigue funcionando; avisa a la escuela.`,
         reintentar: false,
       };
     }
@@ -31,7 +32,7 @@ export function traducirError(error: unknown): ErrorChat {
     if (error.estado === 401) {
       return {
         codigo: "configuracion",
-        mensaje: "El Maestro en vivo no está disponible por ahora. Avisa a la escuela.",
+        mensaje: `${ASISTENTE} no está disponible por ahora. Avisa a la escuela.`,
         reintentar: false,
       };
     }

@@ -1,0 +1,522 @@
+{
+"textos-expositivos-primaria-3-4": [
+{
+"pregunta": "¿Para qué sirve un texto expositivo?",
+"opciones": [
+"Para contar un chiste a los compañeros.",
+"Para pedir permiso a la directora.",
+"Para explicar un tema con información clara."
+],
+"correcta": 2,
+"porque": "Un texto expositivo explica y da datos."
+},
+{
+"pregunta": "¿Qué partes tiene un texto expositivo?",
+"opciones": [
+"Introducción, desarrollo y cierre.",
+"Título, materiales y pasos.",
+"Saludo, mensaje y firma."
+],
+"correcta": 0,
+"porque": "Primero presenta, luego explica y al final cierra."
+},
+{
+"pregunta": "¿Cuál oración es de un texto expositivo?",
+"opciones": [
+"Las jirafas tienen el cuello muy largo.",
+"Querida jirafa, te escribo hoy.",
+"¡Qué bonitas son las jirafas!"
+],
+"correcta": 0,
+"porque": "Da un dato y explica algo sobre el animal."
+},
+{
+"pregunta": "Tu maestra te pide escribir sobre un animal. ¿Qué va primero?",
+"opciones": [
+"Una opinión sobre si me gusta.",
+"Una introducción que presente el animal.",
+"El cierre con el resumen final."
+],
+"correcta": 1,
+"porque": "Se empieza presentando el tema."
+},
+{
+"pregunta": "¿Qué va en el desarrollo?",
+"opciones": [
+"Los datos que explican el tema.",
+"Solo el título del texto.",
+"La despedida del autor."
+],
+"correcta": 0,
+"porque": "En el desarrollo se explica con información."
+}
+],
+"textos-formales-primaria": [
+{
+"pregunta": "¿Cuál saludo es formal?",
+"opciones": [
+"¡Hola, directora!",
+"Oye, directora:",
+"Estimada directora:"
+],
+"correcta": 2,
+"porque": "Un texto formal usa palabras respetuosas."
+},
+{
+"pregunta": "Quieres pedir permiso para salir temprano. ¿Qué texto usas?",
+"opciones": [
+"Un mensaje con muchos dibujos.",
+"Un cuento con final feliz.",
+"Una solicitud escrita con respeto."
+],
+"correcta": 2,
+"porque": "Una solicitud sirve para pedir algo de manera formal."
+},
+{
+"pregunta": "¿Por qué se explica el motivo en una solicitud?",
+"opciones": [
+"Para que el texto se vea más largo.",
+"Para que quien lee entienda y pueda decidir.",
+"Para contar un chiste al final."
+],
+"correcta": 1,
+"porque": "El motivo ayuda a entender tu necesidad."
+},
+{
+"pregunta": "¿Cuál es una despedida adecuada?",
+"opciones": [
+"¡Chao, nos vemos!",
+"Atentamente.",
+"Bye bye, saludos."
+],
+"correcta": 1,
+"porque": "Atentamente es una despedida respetuosa para textos formales."
+},
+{
+"pregunta": "¿A quién se dirige una solicitud para arreglar el salón?",
+"opciones": [
+"A tu mascota.",
+"A la directora de la escuela.",
+"A tu mejor amigo."
+],
+"correcta": 1,
+"porque": "Se escribe a quien puede decidir y ayudar."
+}
+],
+"textos-instructivos-primaria": [
+{
+"pregunta": "¿Qué lleva casi todo instructivo además del título?",
+"opciones": [
+"Rimas y estrofas.",
+"Materiales y pasos en orden.",
+"Saludo y despedida."
+],
+"correcta": 1,
+"porque": "Un instructivo dice qué necesitas y qué hacer."
+},
+{
+"pregunta": "¿Cuál oración está escrita como orden?",
+"opciones": [
+"Tú debes mezclar la harina.",
+"Mezcla la harina.",
+"La harina se mezcla mucho."
+],
+"correcta": 1,
+"porque": "Los pasos se escriben como orden corta y clara."
+},
+{
+"pregunta": "Para ganar en un juego de carreras, ¿qué dice el reglamento?",
+"opciones": [
+"Correr con los ojos cerrados.",
+"Llegar primero a la meta.",
+"Que todos pierdan siempre."
+],
+"correcta": 1,
+"porque": "El reglamento dice cómo se gana."
+},
+{
+"pregunta": "¿Qué paso va primero para hacer limonada?",
+"opciones": [
+"Beber la limonada.",
+"Lavar el vaso sucio.",
+"Exprimir los limones."
+],
+"correcta": 2,
+"porque": "Primero se prepara el jugo y luego se toma."
+},
+{
+"pregunta": "¿Para qué sirve un reglamento?",
+"opciones": [
+"Para saber qué se puede hacer en el juego.",
+"Para contar la vida del autor.",
+"Para describir un paisaje bonito."
+],
+"correcta": 0,
+"porque": "El reglamento da las reglas del juego."
+}
+],
+"uso-de-b-y-v-primaria": [
+{
+"pregunta": "¿Cuál palabra se escribe con v?",
+"opciones": [
+"invierno",
+"libro",
+"cantaba"
+],
+"correcta": 0,
+"porque": "Después de n se escribe v, como en *invierno*."
+},
+{
+"pregunta": "¿Cómo se escribe?",
+"opciones": [
+"inbierno",
+"imbierno",
+"invierno"
+],
+"correcta": 2,
+"porque": "Después de n se escribe v."
+},
+{
+"pregunta": "¿Cuál palabra es un adjetivo con v?",
+"opciones": [
+"nuevo",
+"nuebo",
+"nubo"
+],
+"correcta": 0,
+"porque": "Los adjetivos con -avo, -eve e -ivo llevan v."
+},
+{
+"pregunta": "Completa: *___uscar* en el patio.",
+"opciones": [
+"v",
+"b",
+"d"
+],
+"correcta": 1,
+"porque": "Las palabras con bus- llevan b."
+},
+{
+"pregunta": "¿Cuál palabra se escribe con b antes de consonante?",
+"opciones": [
+"lidro",
+"libro",
+"livro"
+],
+"correcta": 1,
+"porque": "Antes de consonante se escribe b."
+}
+],
+"uso-de-c-s-y-z-primaria": [
+{
+"pregunta": "¿Cuál es el plural de *lápiz*?",
+"opciones": [
+"lápizes",
+"lápises",
+"lápices"
+],
+"correcta": 2,
+"porque": "La z cambia a c en el plural."
+},
+{
+"pregunta": "Completa: *can___ión*",
+"opciones": [
+"s",
+"c",
+"z"
+],
+"correcta": 1,
+"porque": "Las palabras con -ción casi siempre llevan c."
+},
+{
+"pregunta": "¿Cuál palabra con -oso está bien escrita?",
+"opciones": [
+"hermozo",
+"hermosso",
+"hermoso"
+],
+"correcta": 2,
+"porque": "Las terminaciones -oso llevan s."
+},
+{
+"pregunta": "¿Cuál es el plural de *voz*?",
+"opciones": [
+"voses",
+"vozes",
+"voces"
+],
+"correcta": 2,
+"porque": "La z cambia a c: voz, voces."
+},
+{
+"pregunta": "Tu amigo escribe *pancito*. ¿Por qué lleva c?",
+"opciones": [
+"Es un diminutivo con -cito.",
+"Porque empieza con p.",
+"Porque no suena la s."
+],
+"correcta": 0,
+"porque": "Los diminutivos suelen usar -cito."
+}
+],
+"uso-de-g-y-j-primaria": [
+{
+"pregunta": "¿Cuál palabra termina bien?",
+"opciones": [
+"garage",
+"garaje",
+"garaje con ge"
+],
+"correcta": 1,
+"porque": "Las terminaciones -aje llevan j."
+},
+{
+"pregunta": "Completa: *___ente* de la escuela.",
+"opciones": [
+"g",
+"j",
+"h"
+],
+"correcta": 0,
+"porque": "Las palabras con gen se escriben con g."
+},
+{
+"pregunta": "¿Cuál palabra se escribe con j?",
+"opciones": [
+"gente",
+"viaje",
+"geografía"
+],
+"correcta": 1,
+"porque": "Las palabras terminadas en -aje se escriben con j."
+},
+{
+"pregunta": "Quien cobra en la caja de la tienda es el...",
+"opciones": [
+"cajero",
+"caguero",
+"cagero"
+],
+"correcta": 0,
+"porque": "Viene de caja, con j, así que cajero lleva j."
+},
+{
+"pregunta": "¿Cuál palabra lleva g?",
+"opciones": [
+"geografía",
+"heografía",
+"jeografía"
+],
+"correcta": 0,
+"porque": "Las palabras con geo se escriben con g."
+}
+],
+"uso-de-h-primaria": [
+{
+"pregunta": "¿Cuál palabra se escribe con h?",
+"opciones": [
+"hueso",
+"ueso",
+"gueso"
+],
+"correcta": 0,
+"porque": "Las palabras con hue- llevan h al inicio."
+},
+{
+"pregunta": "Completa: *___ llovido mucho.*",
+"opciones": [
+"A",
+"Ha",
+"Ah"
+],
+"correcta": 1,
+"porque": "Ha es una forma del verbo haber."
+},
+{
+"pregunta": "Completa: *Voy ___ la escuela.*",
+"opciones": [
+"ha, de haber, como en ha llovido",
+"ah, como una exclamación",
+"a, porque indica a dónde voy"
+],
+"correcta": 2,
+"porque": "Aquí *a* indica dirección, sin h."
+},
+{
+"pregunta": "¿Cuál palabra lleva h?",
+"opciones": [
+"umo",
+"gumo",
+"humo"
+],
+"correcta": 2,
+"porque": "Las palabras con hum- llevan h."
+},
+{
+"pregunta": "¿Cómo se escribe lo que pone la gallina?",
+"opciones": [
+"uebo",
+"huevo",
+"uevo"
+],
+"correcta": 1,
+"porque": "Huevo empieza con h, como hueso y hueco."
+}
+],
+"uso-de-ll-e-y-primaria": [
+{
+"pregunta": "¿Cuál palabra lleva ll?",
+"opciones": [
+"cuchio",
+"cuchiyo",
+"cuchillo"
+],
+"correcta": 2,
+"porque": "Las terminaciones -illo llevan ll."
+},
+{
+"pregunta": "Completa: *El re___ llegó.*",
+"opciones": [
+"h",
+"y",
+"ll"
+],
+"correcta": 1,
+"porque": "Al final de palabra se escribe y: rey."
+},
+{
+"pregunta": "¿Cuál es el plural de *rey*?",
+"opciones": [
+"reyes",
+"relles",
+"reies"
+],
+"correcta": 0,
+"porque": "El plural conserva la y."
+},
+{
+"pregunta": "¿Cuál palabra viene de *caer*?",
+"opciones": [
+"cayó",
+"cayió",
+"calló"
+],
+"correcta": 0,
+"porque": "Cayó, de caer, se escribe con y."
+},
+{
+"pregunta": "¿Cuál palabra lleva ll por venir de *brillar*?",
+"opciones": [
+"briyo",
+"brío",
+"brillo"
+],
+"correcta": 2,
+"porque": "Los verbos en -llar llevan ll."
+}
+],
+"acento-diacritico-primaria": [
+{
+"pregunta": "Completa: *___ mochila es azul.*",
+"opciones": [
+"Tú",
+"Tu",
+"Tu con acento en la u"
+],
+"correcta": 1,
+"porque": "Tu sin tilde es de ti."
+},
+{
+"pregunta": "Completa: *___ llegó primero.*",
+"opciones": [
+"El",
+"Él",
+"Ell"
+],
+"correcta": 1,
+"porque": "Con tilde, él es una persona."
+},
+{
+"pregunta": "Completa: *Me gusta el ___ caliente.*",
+"opciones": [
+"te",
+"té",
+"tè"
+],
+"correcta": 1,
+"porque": "Té con tilde es la bebida."
+},
+{
+"pregunta": "Completa: *Dijo que ___, si puede.*",
+"opciones": [
+"sí",
+"si",
+"sì"
+],
+"correcta": 0,
+"porque": "Sí con tilde afirma."
+},
+{
+"pregunta": "Completa: *Quiero ___ agua, por favor.*",
+"opciones": [
+"más",
+"mäs",
+"mas"
+],
+"correcta": 0,
+"porque": "Más con tilde indica cantidad."
+}
+],
+"adverbios-primaria": [
+{
+"pregunta": "En *Ana corre rápido*, ¿cuál es el adverbio?",
+"opciones": [
+"rápido",
+"corre",
+"Ana"
+],
+"correcta": 0,
+"porque": "El adverbio modifica al verbo y dice cómo corre."
+},
+{
+"pregunta": "¿Qué dice *hoy*?",
+"opciones": [
+"Cómo.",
+"Dónde.",
+"Cuándo."
+],
+"correcta": 2,
+"porque": "Hoy dice el momento de la acción."
+},
+{
+"pregunta": "¿Qué dice *aquí*?",
+"opciones": [
+"Cuándo.",
+"Dónde.",
+"Cuánto."
+],
+"correcta": 1,
+"porque": "Aquí indica el lugar."
+},
+{
+"pregunta": "¿Qué adverbio puedes formar con *lenta*?",
+"opciones": [
+"lentito",
+"lentísimo",
+"lentamente"
+],
+"correcta": 2,
+"porque": "Muchos adverbios terminan en -mente."
+},
+{
+"pregunta": "En *Luis come poco pan*, ¿cuál palabra dice cuánto?",
+"opciones": [
+"poco",
+"come",
+"Luis"
+],
+"correcta": 0,
+"porque": "Poco dice la cantidad de la acción."
+}
+]
+}

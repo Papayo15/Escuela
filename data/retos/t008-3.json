@@ -1,0 +1,522 @@
+{
+"fuentes-de-energia-renovables-y-no-renovables-primaria": [
+{
+"pregunta": "¿Cuál es una fuente de energía renovable?",
+"opciones": [
+"El petróleo, que se usa mucho",
+"El gas, que sale de la tierra",
+"El viento, que no se agota"
+],
+"correcta": 2,
+"porque": "El viento no se agota, por eso es renovable."
+},
+{
+"pregunta": "¿Qué significa que una fuente sea no renovable?",
+"opciones": [
+"Solo funciona de día",
+"Nunca se acaba",
+"Se agota"
+],
+"correcta": 2,
+"porque": "Las no renovables, como el petróleo, se acaban."
+},
+{
+"pregunta": "En una casa ponen paneles en el techo para usar el Sol. ¿Qué tipo de energía usan?",
+"opciones": [
+"Ninguna, porque no hay luz de noche",
+"Renovable, porque el Sol no se acaba",
+"No renovable, como el carbón o el gas"
+],
+"correcta": 1,
+"porque": "La energía del Sol es renovable porque no se agota."
+},
+{
+"pregunta": "¿Qué causa quemar combustibles como el gas?",
+"opciones": [
+"No produce ningún gas",
+"Libera dióxido de carbono y calienta el planeta",
+"Limpia el aire y enfría la Tierra"
+],
+"correcta": 1,
+"porque": "Quemar combustibles libera dióxido de carbono."
+},
+{
+"pregunta": "¿Cuál de estos es no renovable?",
+"opciones": [
+"El agua de los ríos",
+"El carbón, que se acaba",
+"El calor de la Tierra"
+],
+"correcta": 1,
+"porque": "El carbón se agota, por eso es no renovable."
+}
+],
+"funciones-vitales-plantas-animales-primaria": [
+{
+"pregunta": "¿Cuáles son funciones vitales de los seres vivos?",
+"opciones": [
+"Correr, saltar y gritar",
+"Dormir, pintar y cantar",
+"Nutrirse, respirar y reproducirse"
+],
+"correcta": 2,
+"porque": "Todo ser vivo se nutre, respira, se relaciona y se reproduce."
+},
+{
+"pregunta": "¿Cómo consigue su comida una planta?",
+"opciones": [
+"La busca por la noche con sus patas",
+"La hace con luz, agua y aire",
+"Come a otros animales pequeños"
+],
+"correcta": 1,
+"porque": "Las plantas hacen su comida con luz, agua y aire."
+},
+{
+"pregunta": "Un perro come croquetas y un árbol del patio no. ¿Cómo se nutre el árbol?",
+"opciones": [
+"No necesita comida porque no se mueve",
+"Hace su propia comida",
+"Se come las hojas de otros árboles"
+],
+"correcta": 1,
+"porque": "Las plantas hacen su comida, los animales comen otros seres vivos."
+},
+{
+"pregunta": "¿Qué gas sueltan las plantas?",
+"opciones": [
+"Oxígeno, que usamos al respirar",
+"Humo de las fábricas grandes",
+"Dióxido de carbono, el que exhalamos"
+],
+"correcta": 0,
+"porque": "Las plantas hacen su comida y sueltan oxígeno."
+},
+{
+"pregunta": "¿Por qué un cactus sobrevive en el desierto?",
+"opciones": [
+"Porque no es un ser vivo",
+"Guarda agua y sus espinas evitan perderla",
+"Toma mucha agua de la lluvia cada día"
+],
+"correcta": 1,
+"porque": "El cactus guarda agua en el tallo y por sus espinas pierde poca."
+}
+],
+"magnetismo-gravedad-primaria": [
+{
+"pregunta": "¿Qué pasa si acercas dos polos distintos de imán?",
+"opciones": [
+"Se atraen",
+"No pasa nada",
+"Se rechazan"
+],
+"correcta": 0,
+"porque": "Polos distintos se atraen y polos iguales se rechazan."
+},
+{
+"pregunta": "¿Qué objeto atrae un imán?",
+"opciones": [
+"Una goma de borrar",
+"Un clip de metal",
+"Un lápiz de madera"
+],
+"correcta": 1,
+"porque": "El imán atrae objetos de hierro, como un clip de acero."
+},
+{
+"pregunta": "Sueltas un borrador en el salón y cae. ¿Qué lo jala hacia abajo?",
+"opciones": [
+"El viento del salón",
+"El magnetismo de un imán",
+"La gravedad"
+],
+"correcta": 2,
+"porque": "La Tierra jala todo hacia su centro y por eso caen las cosas."
+},
+{
+"pregunta": "¿Qué señala la aguja de una brújula?",
+"opciones": [
+"El norte",
+"El lugar más cercano a tu casa",
+"El sur siempre"
+],
+"correcta": 0,
+"porque": "La aguja es un imán y señala el norte."
+},
+{
+"pregunta": "Dos imanes se empujan. ¿Qué polos están frente a frente?",
+"opciones": [
+"Ningún polo",
+"Polos iguales",
+"Polos distintos"
+],
+"correcta": 1,
+"porque": "Los polos iguales se rechazan y se empujan."
+}
+],
+"perdida-biodiversidad-problemas-ambientales-primaria": [
+{
+"pregunta": "¿Qué significa que una especie esté extinta?",
+"opciones": [
+"Ya no existe ninguna",
+"Vive en otro lugar del país",
+"Está sana y creciendo"
+],
+"correcta": 0,
+"porque": "Extinta quiere decir que ya no queda ninguna."
+},
+{
+"pregunta": "¿Cuál es una causa de pérdida de biodiversidad?",
+"opciones": [
+"Reducir la basura",
+"Destruir el hogar de las especies",
+"Plantar árboles nativos"
+],
+"correcta": 1,
+"porque": "Si se destruye el hogar de un animal, puede desaparecer."
+},
+{
+"pregunta": "Una especie llega a un lugar y desplaza a las nativas. ¿Cómo se llama?",
+"opciones": [
+"Especie extinta",
+"Especie invasora",
+"Especie endémica"
+],
+"correcta": 1,
+"porque": "La especie invasora llega de otro lado y desplaza a las de ahí."
+},
+{
+"pregunta": "En tu escuela quieres ayudar al ambiente. ¿Qué haces?",
+"opciones": [
+"Tirar la basura al piso",
+"Comprar animales silvestres como mascota",
+"Reducir la basura"
+],
+"correcta": 2,
+"porque": "Reducir basura cuida los lugares donde viven los seres vivos."
+},
+{
+"pregunta": "¿Qué ayuda a cuidar la biodiversidad de tu comunidad?",
+"opciones": [
+"Plantar árboles nativos",
+"Contaminar el río cercano",
+"Cazar animales para venderlos"
+],
+"correcta": 0,
+"porque": "Los árboles nativos dan hogar a los animales de la región."
+}
+],
+"planetas-del-sistema-solar-primaria": [
+{
+"pregunta": "¿Cuál es el planeta más grande del Sistema Solar?",
+"opciones": [
+"Júpiter, el gigante del Sistema",
+"Marte, conocido como planeta rojo",
+"Saturno, porque tiene anillos"
+],
+"correcta": 0,
+"porque": "Júpiter es el planeta más grande del Sistema Solar."
+},
+{
+"pregunta": "¿Qué planeta se conoce por sus anillos?",
+"opciones": [
+"Saturno, con sus grandes anillos",
+"Júpiter, porque es muy grande",
+"Mercurio, porque está cerca del Sol"
+],
+"correcta": 0,
+"porque": "Saturno es famoso por sus anillos."
+},
+{
+"pregunta": "Quieres decirle a un compañero un planeta rocoso. ¿Cuál le dices?",
+"opciones": [
+"Marte, porque es rocoso",
+"Júpiter, porque es grande",
+"Neptuno, porque es azul"
+],
+"correcta": 0,
+"porque": "Marte es uno de los cuatro planetas rocosos."
+},
+{
+"pregunta": "¿Qué es Plutón?",
+"opciones": [
+"El planeta más cercano al Sol",
+"Un planeta gigante gaseoso",
+"Un planeta enano"
+],
+"correcta": 2,
+"porque": "Plutón es un planeta enano, no uno de los ocho."
+},
+{
+"pregunta": "¿Cuál planeta es conocido como el planeta rojo?",
+"opciones": [
+"Venus, que es muy brillante",
+"Urano, porque es muy frío",
+"Marte, por su color rojizo"
+],
+"correcta": 2,
+"porque": "A Marte se le conoce como el planeta rojo."
+}
+],
+"propiedades-materiales-gases-primaria": [
+{
+"pregunta": "¿Qué propiedad tiene el hule?",
+"opciones": [
+"Dureza, porque resiste los rayones",
+"Permeabilidad, porque deja pasar líquidos",
+"Flexibilidad, se dobla sin romperse"
+],
+"correcta": 2,
+"porque": "El hule es flexible porque se dobla sin romperse."
+},
+{
+"pregunta": "¿Qué material es duro y transparente?",
+"opciones": [
+"El hule, que se dobla sin romperse",
+"El vidrio, que sirve para ventanas",
+"Una tela, que deja pasar el agua"
+],
+"correcta": 1,
+"porque": "El vidrio es duro y transparente, por eso se usa en ventanas."
+},
+{
+"pregunta": "Quieres hacer un impermeable para la lluvia. ¿Qué propiedad necesita el material?",
+"opciones": [
+"Que deje pasar el agua",
+"Que no deje pasar el agua",
+"Que sea muy duro como una piedra"
+],
+"correcta": 1,
+"porque": "Un impermeable debe impedir que pase el agua."
+},
+{
+"pregunta": "¿Qué hacen los gases con el espacio?",
+"opciones": [
+"Tienen forma fija",
+"Se quedan siempre en el fondo",
+"Llenan todo el lugar"
+],
+"correcta": 2,
+"porque": "Los gases no tienen forma y llenan todo el espacio."
+},
+{
+"pregunta": "¿Qué propiedad tiene una esponja?",
+"opciones": [
+"Es permeable y deja pasar líquidos",
+"No deja pasar ningún líquido",
+"Es dura y resiste los rayones"
+],
+"correcta": 0,
+"porque": "Una esponja es permeable porque deja pasar los líquidos."
+}
+],
+"pulmones-y-respiracion-primaria": [
+{
+"pregunta": "¿Qué toman los pulmones del aire?",
+"opciones": [
+"Humo",
+"Dióxido de carbono",
+"Oxígeno"
+],
+"correcta": 2,
+"porque": "Los pulmones toman oxígeno y sacan dióxido de carbono."
+},
+{
+"pregunta": "¿Qué hace el diafragma cuando inhalas?",
+"opciones": [
+"Baja",
+"Sube",
+"Se queda quieto"
+],
+"correcta": 0,
+"porque": "Al inhalar el diafragma baja y entra aire."
+},
+{
+"pregunta": "Pones la mano en tu pecho y respiras. ¿Qué pasa al exhalar?",
+"opciones": [
+"Sale aire",
+"Entra más aire",
+"Se cierra todo el pecho para siempre"
+],
+"correcta": 0,
+"porque": "Al exhalar el diafragma sube y sale aire."
+},
+{
+"pregunta": "¿Dónde pasa el oxígeno a la sangre?",
+"opciones": [
+"En el esófago",
+"En la tráquea",
+"En los alvéolos"
+],
+"correcta": 2,
+"porque": "En los alvéolos el oxígeno pasa a la sangre."
+},
+{
+"pregunta": "¿Qué hace bien a tus pulmones?",
+"opciones": [
+"Quedarte siempre en un cuarto con humo",
+"No hacer ejercicio nunca",
+"Hacer ejercicio y evitar el humo"
+],
+"correcta": 2,
+"porque": "El ejercicio y evitar el humo cuidan tus pulmones."
+}
+],
+"sistema-solar-universo-primaria": [
+{
+"pregunta": "¿Qué hay al centro del Sistema Solar?",
+"opciones": [
+"La Luna, que se ve de noche",
+"El Sol, la estrella central",
+"La Tierra, donde vivimos"
+],
+"correcta": 1,
+"porque": "El Sistema Solar es el Sol con todo lo que gira a su alrededor."
+},
+{
+"pregunta": "¿Cuál es un planeta gigante?",
+"opciones": [
+"Júpiter, un gigante gaseoso",
+"Mercurio, un planeta rocoso",
+"Marte, otro planeta rocoso"
+],
+"correcta": 0,
+"porque": "Los primeros cuatro planetas son rocosos y los otros son gigantes."
+},
+{
+"pregunta": "Tu maestra te pide ordenar planetas por cercanía al Sol. ¿Cuál va después de la Tierra?",
+"opciones": [
+"Marte, el cuarto planeta",
+"Venus, el segundo planeta",
+"Júpiter, el quinto planeta"
+],
+"correcta": 0,
+"porque": "El orden es Mercurio, Venus, Tierra, Marte."
+},
+{
+"pregunta": "¿Cómo se llama nuestra galaxia?",
+"opciones": [
+"Andrómeda, una galaxia vecina",
+"El Sistema Solar, con el Sol",
+"Vía Láctea, nuestra galaxia"
+],
+"correcta": 2,
+"porque": "Nuestra galaxia se llama Vía Láctea."
+},
+{
+"pregunta": "¿Qué hicieron los mayas con el cielo?",
+"opciones": [
+"Estudiaron el cielo para hacer calendarios",
+"Lo ignoraron por completo",
+"Inventaron el telescopio moderno"
+],
+"correcta": 0,
+"porque": "Los pueblos mesoamericanos observaron el cielo y crearon calendarios."
+}
+],
+"sistemas-circulatorio-respiratorio-inmune-primaria": [
+{
+"pregunta": "¿Qué sistema toma oxígeno del aire?",
+"opciones": [
+"El respiratorio",
+"El inmunológico, que defiende",
+"El circulatorio, que reparte sangre"
+],
+"correcta": 0,
+"porque": "El sistema respiratorio toma oxígeno con los pulmones."
+},
+{
+"pregunta": "¿Qué sistema reparte el oxígeno por todo el cuerpo?",
+"opciones": [
+"El inmunológico, que cuida del cuerpo",
+"El respiratorio, que usa pulmones",
+"El circulatorio, con corazón y sangre"
+],
+"correcta": 2,
+"porque": "El circulatorio reparte el oxígeno con el corazón y la sangre."
+},
+{
+"pregunta": "Te lavas las manos antes de comer en la escuela. ¿Qué sistema ayudas a cuidar?",
+"opciones": [
+"Ninguno, solo ayuda a limpiar",
+"El respiratorio, porque respiras",
+"El inmunológico, que nos defiende"
+],
+"correcta": 2,
+"porque": "Lavarte las manos evita microbios y ayuda a tu sistema inmunológico."
+},
+{
+"pregunta": "¿Qué gas sale del cuerpo al respirar?",
+"opciones": [
+"Dióxido de carbono",
+"Oxígeno, igual que el que entra",
+"Ninguno, porque se queda todo en el cuerpo"
+],
+"correcta": 0,
+"porque": "Al respirar entra oxígeno y sale dióxido de carbono."
+},
+{
+"pregunta": "¿Qué célula defiende tu cuerpo de los microbios?",
+"opciones": [
+"Los glóbulos blancos",
+"Las plaquetas, que cierran heridas",
+"Los glóbulos rojos, que llevan oxígeno"
+],
+"correcta": 0,
+"porque": "Los glóbulos blancos defienden de los microbios."
+}
+],
+"acciones-cuidar-salud-primaria-1-2": [
+{
+"pregunta": "¿Cuándo debes lavarte las manos?",
+"opciones": [
+"Nunca, si no se ven manchas",
+"Solo cuando estás sucio de lodo",
+"Antes de comer"
+],
+"correcta": 2,
+"porque": "Lavarte antes de comer y después del baño cuida tu salud."
+},
+{
+"pregunta": "¿Qué debes hacer si algo te duele?",
+"opciones": [
+"Tomar una medicina tú solo",
+"No decir nada a nadie",
+"Avisar a un adulto"
+],
+"correcta": 2,
+"porque": "Si algo te duele, avisa a un adulto."
+},
+{
+"pregunta": "Tu amigo come muchos dulces y no toma agua. ¿Qué le puedes decir?",
+"opciones": [
+"Que tome solo refresco",
+"Que coma frutas y tome agua",
+"Que coma más dulces cada día"
+],
+"correcta": 1,
+"porque": "Frutas, verduras y agua ayudan a cuidar el cuerpo."
+},
+{
+"pregunta": "¿Qué te ayuda a tener un cuerpo sano?",
+"opciones": [
+"Dormir bien y moverte",
+"Dormir muy poco y jugar solo en la computadora",
+"Comer solo papas fritas"
+],
+"correcta": 0,
+"porque": "Dormir bien y moverte son hábitos sanos."
+},
+{
+"pregunta": "¿Qué es un hábito?",
+"opciones": [
+"Algo que haces cada día",
+"Algo que haces una sola vez",
+"Una medicina que se toma sola"
+],
+"correcta": 0,
+"porque": "Un hábito se forma cuando haces algo todos los días."
+}
+]
+}

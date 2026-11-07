@@ -1,0 +1,522 @@
+{
+"did-para-preguntar-en-pasado-primaria": [
+{
+"pregunta": "¿Cuál pregunta en pasado está bien escrita?",
+"opciones": [
+"*Does he watched TV yesterday?*",
+"*Did he watch TV?*",
+"*Did he watched TV?*"
+],
+"correcta": 1,
+"porque": "Después de *did* el verbo queda normal, sin -ed."
+},
+{
+"pregunta": "Alguien te pregunta *Did you walk to school?* y quieres decir que sí. ¿Qué respondes?",
+"opciones": [
+"*Yes, I did walked to school.*",
+"*Yes, I did.*",
+"*Yes, I do.*"
+],
+"correcta": 1,
+"porque": "La respuesta corta repite *did*: *Yes, I did.*"
+},
+{
+"pregunta": "¿Cómo dices «Ella no cantó»?",
+"opciones": [
+"*She didn't sang.*",
+"*She didn't sang yesterday in class.*",
+"*She didn't sing.*"
+],
+"correcta": 2,
+"porque": "Con *didn't* el verbo queda normal, sin cambiar."
+},
+{
+"pregunta": "Completa para preguntar en pasado: *___ they clean the room?*",
+"opciones": [
+"Did",
+"Do",
+"Does"
+],
+"correcta": 0,
+"porque": "*Did* es la ayuda para preguntar en pasado."
+},
+{
+"pregunta": "¿Qué significa *Did Ana dance?*",
+"opciones": [
+"¿Baila Ana todos los días?",
+"¿Bailó Ana?",
+"¿Bailará Ana mañana?"
+],
+"correcta": 1,
+"porque": "*Did* avisa que la pregunta es del pasado."
+}
+],
+"escribir-sobre-mi-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo debe empezar y terminar una oración en inglés?",
+"opciones": [
+"Con minúscula y con signo de pregunta al principio",
+"Con minúscula y sin punto",
+"Con mayúscula y punto"
+],
+"correcta": 2,
+"porque": "Cada oración empieza con mayúscula y termina con punto."
+},
+{
+"pregunta": "Quieres escribir que tienes dos hermanos. ¿Cuál oración usas?",
+"opciones": [
+"*I have two brothers.*",
+"*I am two brothers.*",
+"*My name is two brothers.*"
+],
+"correcta": 0,
+"porque": "*I have* sirve para decir lo que tienes."
+},
+{
+"pregunta": "¿Qué palabra usas para unir dos ideas y decir «pero»?",
+"opciones": [
+"*and*",
+"*but*",
+"*me*"
+],
+"correcta": 1,
+"porque": "*But* significa «pero» y *and* significa «y»."
+},
+{
+"pregunta": "Quieres escribir que sabes cantar. ¿Cuál oración está bien?",
+"opciones": [
+"*I can sing.*",
+"*I am sing a song.*",
+"*I like sing.*"
+],
+"correcta": 0,
+"porque": "*I can* sirve para decir lo que sabes hacer."
+},
+{
+"pregunta": "Terminaste tu párrafo. ¿Qué revisas?",
+"opciones": [
+"Que cada oración tenga una persona y una acción",
+"Que todas las palabras sean largas y difíciles",
+"Que no tenga ningún punto"
+],
+"correcta": 0,
+"porque": "Cada oración corta necesita una persona y una acción."
+}
+],
+"escuchar-en-ingles-para-principiantes-primaria": [
+{
+"pregunta": "¿Qué haces la segunda vez que escuchas un video en inglés?",
+"opciones": [
+"Apagas el video porque no entendiste nada",
+"Repites todo en voz alta sin escuchar",
+"Buscas palabras que ya conoces"
+],
+"correcta": 2,
+"porque": "La segunda vez buscas palabras conocidas."
+},
+{
+"pregunta": "Antes de escuchar una canción en inglés, ¿qué conviene hacer?",
+"opciones": [
+"Mirar el título y los dibujos",
+"Cantar toda la canción de memoria",
+"Buscar todas las palabras en el diccionario"
+],
+"correcta": 0,
+"porque": "Ver de qué trata te prepara para entender."
+},
+{
+"pregunta": "¿Qué haces la tercera vez que escuchas?",
+"opciones": [
+"Cambias a otra canción más fácil",
+"Repites en voz alta lo que oíste",
+"Te quedas callado sin hacer nada"
+],
+"correcta": 1,
+"porque": "En la tercera vez practicas hablando lo que oíste."
+},
+{
+"pregunta": "¿Qué practica es mejor para aprender a escuchar?",
+"opciones": [
+"Un día completo antes del examen",
+"Cinco minutos cada día",
+"Una hora una sola vez a la semana"
+],
+"correcta": 1,
+"porque": "Poco y todos los días ayuda más."
+},
+{
+"pregunta": "¿Qué significa *Slowly, please.*?",
+"opciones": [
+"Más fuerte, por favor",
+"Otra vez desde el principio, por favor",
+"Más despacio, por favor"
+],
+"correcta": 2,
+"porque": "*Slowly* significa despacio."
+}
+],
+"going-to-para-planes-primaria": [
+{
+"pregunta": "¿Cómo dices «Ellos van a cantar»?",
+"opciones": [
+"*They are going to sing.*",
+"*They is going to sing.*",
+"*They are going to singing.*"
+],
+"correcta": 0,
+"porque": "Con *they* se usa *are* y luego *going to* y el verbo normal."
+},
+{
+"pregunta": "¿Cuándo usas *going to*?",
+"opciones": [
+"Cuando decides algo en el mismo momento",
+"Cuando hablas de algo que ya pasó ayer",
+"Cuando ya planeaste algo"
+],
+"correcta": 2,
+"porque": "*Going to* es para planes que ya tienes."
+},
+{
+"pregunta": "¿Cómo dices «Ana no va a bailar»?",
+"opciones": [
+"*Ana is not go to dancing.*",
+"*Ana does not going to dance.*",
+"*Ana is not going to dance.*"
+],
+"correcta": 2,
+"porque": "Se agrega *not* después de *is*."
+},
+{
+"pregunta": "Completa: *She ___ going to eat.*",
+"opciones": [
+"is",
+"am",
+"are"
+],
+"correcta": 0,
+"porque": "Con *she* se usa *is*."
+},
+{
+"pregunta": "¿Cómo preguntas «¿Va él a leer?»",
+"opciones": [
+"*Is he going to read?*",
+"*Does he going to read?*",
+"*He is going to read?*"
+],
+"correcta": 0,
+"porque": "En la pregunta, *is* va primero."
+}
+],
+"hablar-en-ingles-mi-primera-conversacion-primaria": [
+{
+"pregunta": "¿Cuál es el orden de una plática sencilla?",
+"opciones": [
+"Despedida, pregunta, saludo y presentación",
+"Saludo, presentación, pregunta y despedida",
+"Pregunta, despedida, presentación y saludo, en cualquier orden"
+],
+"correcta": 1,
+"porque": "Primero saludas y al final te despides."
+},
+{
+"pregunta": "Quieres despedirte de tu amigo. ¿Cuál frase usas?",
+"opciones": [
+"*Nice to talk to you. Bye!*",
+"*My name is Ana.*",
+"*Hi! How are you?*"
+],
+"correcta": 0,
+"porque": "*Bye* sirve para despedirte."
+},
+{
+"pregunta": "Quieres saber qué comida le gusta más a tu compañero. ¿Qué preguntas?",
+"opciones": [
+"*Where is your food?*",
+"*What is your favorite food?*",
+"*What is your name, please?*"
+],
+"correcta": 1,
+"porque": "*Favorite food* significa comida favorita."
+},
+{
+"pregunta": "No sabes una palabra en la plática. ¿Qué puedes hacer?",
+"opciones": [
+"Quedarte callado hasta que termine la clase",
+"Usar tus manos para explicarte",
+"Cambiar de tema y dejar de hablar con tu compañero"
+],
+"correcta": 1,
+"porque": "Usar las manos te ayuda a seguir platicando."
+},
+{
+"pregunta": "¿Qué significa *I am fine, thanks. And you?*",
+"opciones": [
+"Estoy triste, gracias. ¿Y tu amigo?",
+"Me llamo bien, gracias. ¿Y tú?",
+"Estoy bien, gracias. ¿Y tú?"
+],
+"correcta": 2,
+"porque": "Así se responde a *How are you?*"
+}
+],
+"have-mas-participio-el-perfect-para-principiantes-primaria": [
+{
+"pregunta": "Completa: *She ___ played soccer.*",
+"opciones": [
+"has",
+"have",
+"are"
+],
+"correcta": 0,
+"porque": "Con *she* se usa *has* y luego el participio."
+},
+{
+"pregunta": "¿Cuál es el participio de *eat*?",
+"opciones": [
+"eaten",
+"eating",
+"eated"
+],
+"correcta": 0,
+"porque": "*Eat* cambia a *eaten*: *I have eaten.*"
+},
+{
+"pregunta": "¿Qué dos piezas forman el perfect?",
+"opciones": [
+"*have* o *has* y el participio",
+"*will* y el verbo normal sin cambios",
+"*am* o *is* y el verbo con -ing"
+],
+"correcta": 0,
+"porque": "El perfect usa *have* o *has* más participio."
+},
+{
+"pregunta": "¿Cómo dices «Nosotros hemos visto»?",
+"opciones": [
+"*We have saw.*",
+"*We has seen it.*",
+"*We have seen.*"
+],
+"correcta": 2,
+"porque": "*See* cambia a *seen* y con *we* usamos *have*."
+},
+{
+"pregunta": "¿Cuándo usamos el perfect?",
+"opciones": [
+"Para decir lo que haces ahora mismo",
+"Para decir un plan que tienes para mañana",
+"Para contar lo que ya hiciste, sin decir cuándo"
+],
+"correcta": 2,
+"porque": "El perfect cuenta lo que ya hiciste."
+}
+],
+"la-hora-para-principiantes-primaria": [
+{
+"pregunta": "¿Cómo dices 6:30 en inglés?",
+"opciones": [
+"*It is a quarter past six.*",
+"*It is half past six.*",
+"*It is six o'clock and half.*"
+],
+"correcta": 1,
+"porque": "*Half past* significa y media."
+},
+{
+"pregunta": "¿Cómo dices 7:15 en inglés?",
+"opciones": [
+"*It is a quarter past seven.*",
+"*It is a quarter to eight o'clock.*",
+"*It is half past seven.*"
+],
+"correcta": 0,
+"porque": "*A quarter past* significa y cuarto."
+},
+{
+"pregunta": "¿Qué hora marca *It is a quarter to twelve*?",
+"opciones": [
+"11:15",
+"12:15",
+"11:45"
+],
+"correcta": 2,
+"porque": "*A quarter to* es menos cuarto, o sea faltan quince minutos."
+},
+{
+"pregunta": "¿Cómo preguntas la hora?",
+"opciones": [
+"*What time is it?*",
+"*What time are you go?*",
+"*Where is the time?*"
+],
+"correcta": 0,
+"porque": "*What time is it?* significa ¿qué hora es?"
+},
+{
+"pregunta": "¿Qué significa *o'clock*?",
+"opciones": [
+"Hora exacta, como las tres en punto",
+"Y media, como las tres y treinta",
+"Menos cuarto, como las cuatro menos quince"
+],
+"correcta": 0,
+"porque": "*O'clock* se usa cuando no hay minutos."
+}
+],
+"leer-un-texto-corto-en-ingles-primaria": [
+{
+"pregunta": "¿Qué haces primero para leer un texto en inglés?",
+"opciones": [
+"Buscas cada palabra en el diccionario",
+"Respondes las preguntas sin leer el texto",
+"Miras el título y los dibujos"
+],
+"correcta": 2,
+"porque": "Primero te das una idea de qué trata."
+},
+{
+"pregunta": "Texto: *My name is Tom. I am eleven. I live in Puebla.* ¿En qué ciudad vive Tom?",
+"opciones": [
+"Oaxaca",
+"Tom no dice dónde vive",
+"Puebla"
+],
+"correcta": 2,
+"porque": "*I live in Puebla* quiere decir vivo en Puebla."
+},
+{
+"pregunta": "Texto: *I have a small dog. His name is Max.* ¿Cómo se llama el perro?",
+"opciones": [
+"Tom",
+"Max",
+"El perro no tiene nombre todavía"
+],
+"correcta": 1,
+"porque": "*His name is Max* es su nombre."
+},
+{
+"pregunta": "No conoces una palabra del texto. ¿Qué haces?",
+"opciones": [
+"Cambias el texto por otro más corto",
+"Sigues leyendo, porque el resto ayuda",
+"Dejas de leer y cierras el libro"
+],
+"correcta": 1,
+"porque": "Lo demás del texto suele ayudarte a entender."
+},
+{
+"pregunta": "Ves la palabra *animal* en un texto. ¿Qué significa?",
+"opciones": [
+"escuela",
+"casa",
+"animal"
+],
+"correcta": 2,
+"porque": "Algunas palabras en inglés se parecen mucho al español."
+}
+],
+"lugares-de-la-ciudad-en-ingles-primaria": [
+{
+"pregunta": "¿Cómo se dice farmacia en inglés?",
+"opciones": [
+"*library*",
+"*church*",
+"*drugstore*"
+],
+"correcta": 2,
+"porque": "*Drugstore* es farmacia."
+},
+{
+"pregunta": "Quieres comprar un libro. ¿A qué lugar vas?",
+"opciones": [
+"*church*",
+"*library*",
+"*bookstore*"
+],
+"correcta": 2,
+"porque": "La *bookstore* vende libros y la *library* los presta."
+},
+{
+"pregunta": "¿Qué significa *It is in front of the school*?",
+"opciones": [
+"Está dentro de la escuela",
+"Está muy lejos de la escuela",
+"Está enfrente de la escuela"
+],
+"correcta": 2,
+"porque": "*In front of* quiere decir enfrente de."
+},
+{
+"pregunta": "¿Qué significa *bank*?",
+"opciones": [
+"parque",
+"banco",
+"tienda"
+],
+"correcta": 1,
+"porque": "*Bank* es el lugar donde se guarda el dinero."
+},
+{
+"pregunta": "¿Qué significa *It is near here*?",
+"opciones": [
+"Está cerca de aquí",
+"Está junto al parque de aquí",
+"Está lejos de aquí"
+],
+"correcta": 0,
+"porque": "*Near* significa cerca."
+}
+],
+"mi-rutina-diaria-en-ingles-primaria": [
+{
+"pregunta": "¿En qué tiempo cuentas tu rutina diaria?",
+"opciones": [
+"En presente",
+"En pasado",
+"En futuro con *will*"
+],
+"correcta": 0,
+"porque": "Lo que haces todos los días va en presente."
+},
+{
+"pregunta": "¿Qué significa *take a shower*?",
+"opciones": [
+"bañarse",
+"vestirse",
+"despertar"
+],
+"correcta": 0,
+"porque": "*Shower* es la regadera."
+},
+{
+"pregunta": "¿Qué palabra usas para decir «al final»?",
+"opciones": [
+"*finally*",
+"*then*",
+"*first*"
+],
+"correcta": 0,
+"porque": "*Finally* cierra la historia."
+},
+{
+"pregunta": "¿Cómo dices «Me despierto a las seis»?",
+"opciones": [
+"*I wake up in six.*",
+"*I am waking up at six o'clock.*",
+"*I wake up at six.*"
+],
+"correcta": 2,
+"porque": "Para la hora se usa *at*."
+},
+{
+"pregunta": "¿Cuál significa vestirse?",
+"opciones": [
+"*do homework*",
+"*go to bed*",
+"*get dressed*"
+],
+"correcta": 2,
+"porque": "*Get dressed* es ponerse la ropa."
+}
+]
+}

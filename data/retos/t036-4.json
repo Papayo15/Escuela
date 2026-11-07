@@ -1,0 +1,522 @@
+{
+"variables-y-tipos-de-datos-prepa": [
+{
+"pregunta": "¿Qué tipo de dato es \"Ana\"?",
+"opciones": [
+"Un texto, porque va entre comillas",
+"Un valor de verdad, True o False",
+"Un número entero, como 5 o 15"
+],
+"correcta": 0,
+"porque": "\"Ana\" es un texto y los textos van entre comillas."
+},
+{
+"pregunta": "¿Qué tipo de dato es el 7?",
+"opciones": [
+"Un número entero",
+"Un número decimal",
+"Un texto escrito"
+],
+"correcta": 0,
+"porque": "El 7 no tiene punto decimal, así que es un entero."
+},
+{
+"pregunta": "Si `edad = 15` y después escribes `edad = 16`, ¿cuánto vale edad?",
+"opciones": [
+"15",
+"16",
+"31"
+],
+"correcta": 1,
+"porque": "Una variable puede cambiar, y guarda el último valor."
+},
+{
+"pregunta": "¿Qué es una variable?",
+"opciones": [
+"Una orden para imprimir en pantalla",
+"Un número que nunca puede cambiar",
+"Un espacio con nombre para un valor"
+],
+"correcta": 2,
+"porque": "Es como una caja con etiqueta donde el programa guarda un valor."
+},
+{
+"pregunta": "¿Cuál de estos valores es booleano?",
+"opciones": [
+"True",
+"\"Hola\"",
+"3.14"
+],
+"correcta": 0,
+"porque": "Los valores booleanos son True o False."
+}
+],
+"algoritmos-ia-sesgos-desinformacion-preparatoria": [
+{
+"pregunta": "Recibes un mensaje alarmante sin fuente. ¿Qué haces?",
+"opciones": [
+"Lo reenvío a mis contactos",
+"Lo creo porque me asusta",
+"Lo busco en medios confiables"
+],
+"correcta": 2,
+"porque": "Sin fuente conviene buscarlo antes de compartirlo."
+},
+{
+"pregunta": "¿Qué es una burbuja en las redes?",
+"opciones": [
+"Ver solo lo que ya piensas",
+"Un adorno de la pantalla",
+"Un tipo de mensaje corto"
+],
+"correcta": 0,
+"porque": "Las redes te muestran lo que ya te gusta y creer que todo es así."
+},
+{
+"pregunta": "¿Por qué puede haber sesgo en una IA?",
+"opciones": [
+"Siempre piensa como persona",
+"Nunca se equivoca",
+"Sus datos favorecen a algunos"
+],
+"correcta": 2,
+"porque": "Si los datos favorecen a unos grupos, el resultado es injusto."
+},
+{
+"pregunta": "Una IA te da una respuesta muy segura. ¿Qué haces?",
+"opciones": [
+"La creo siempre, es IA",
+"La comparo con otra fuente",
+"La copio sin leerla"
+],
+"correcta": 1,
+"porque": "La IA también se equivoca y conviene comparar."
+},
+{
+"pregunta": "Antes de compartir una publicación, ¿qué revisas?",
+"opciones": [
+"Si tiene muchas letras",
+"Si está en rojo",
+"Quién la creó y la fecha"
+],
+"correcta": 2,
+"porque": "Revisar fuente y fecha ayuda a no pasar información falsa."
+}
+],
+"contenidos-digitales-eticos-preparatoria": [
+{
+"pregunta": "Agregas subtítulos a tu video. ¿Qué logras?",
+"opciones": [
+"Que dure menos tiempo",
+"Que no se pueda compartir",
+"Que más personas lo entiendan"
+],
+"correcta": 2,
+"porque": "Los subtítulos ayudan a quienes no oyen o están sin sonido."
+},
+{
+"pregunta": "¿Qué material es mejor usar en tu contenido?",
+"opciones": [
+"Cualquiera de internet",
+"Uno propio o con licencia",
+"Uno sin citar el autor"
+],
+"correcta": 1,
+"porque": "Usar material propio o con permiso respeta a quienes lo crearon."
+},
+{
+"pregunta": "¿Qué lenguaje usas en un contenido incluyente?",
+"opciones": [
+"Uno que se burle",
+"Uno respetuoso",
+"Uno que ofenda"
+],
+"correcta": 1,
+"porque": "El lenguaje respetuoso hace que todos se sientan bienvenidos."
+},
+{
+"pregunta": "¿Cuál es el primer paso para crear un contenido?",
+"opciones": [
+"Definir qué quiero decir y a quién",
+"Elegir el color de la letra",
+"Publicarlo sin revisar"
+],
+"correcta": 0,
+"porque": "Antes de crear, piensas qué dirás y para quién."
+},
+{
+"pregunta": "Haces una infografía de reciclaje. ¿Por qué citas tus fuentes?",
+"opciones": [
+"Para llenar espacio",
+"Para que no la lean",
+"Para dar crédito y mostrar el origen"
+],
+"correcta": 2,
+"porque": "Citar muestra que tu información es confiable."
+}
+],
+"detectar-noticias-falsas-prepa": [
+{
+"pregunta": "Una noticia no tiene fecha ni fuente. ¿Cómo la tratas?",
+"opciones": [
+"Como cierta, sin dudar",
+"La comparto de inmediato",
+"Con duda, hasta revisarla"
+],
+"correcta": 2,
+"porque": "Sin fecha ni fuente conviene dudar y revisar."
+},
+{
+"pregunta": "Una publicación busca enojarte mucho. ¿Qué puede ser?",
+"opciones": [
+"Una señal de noticia falsa",
+"Una tarea de la escuela",
+"Una noticia comprobada"
+],
+"correcta": 0,
+"porque": "Lo que busca enojarte puede querer que lo compartas sin pensar."
+},
+{
+"pregunta": "¿Qué es una noticia falsa?",
+"opciones": [
+"Una noticia muy corta",
+"Información engañosa que parece cierta",
+"Una noticia con fotos muy bonitas"
+],
+"correcta": 1,
+"porque": "Es información que engaña y se presenta como si fuera verdad."
+},
+{
+"pregunta": "Quieres saber si es cierta una noticia. ¿Qué haces?",
+"opciones": [
+"Reviso si otros medios la dicen",
+"Cuento cuántos la compartieron",
+"La leo en voz alta"
+],
+"correcta": 0,
+"porque": "Si varios medios confiables la dicen, es más creíble."
+},
+{
+"pregunta": "Ves una foto impactante en una publicación. ¿Qué haces?",
+"opciones": [
+"Busco de dónde viene la imagen",
+"La reenvío rápido",
+"Creo que es real"
+],
+"correcta": 0,
+"porque": "Buscar el origen de la imagen te ayuda a saber si es real."
+}
+],
+"hojas-de-calculo-formulas-basicas-prepa": [
+{
+"pregunta": "¿Cuál fórmula suma de C1 a C8?",
+"opciones": [
+"=C1+C8",
+"SUMA(C1:C8)",
+"=SUMA(C1:C8)"
+],
+"correcta": 2,
+"porque": "Toda fórmula inicia con = y el rango va entre paréntesis."
+},
+{
+"pregunta": "¿Qué da la fórmula `=MAX(A1:A10)`?",
+"opciones": [
+"El promedio",
+"El valor más chico",
+"El valor más grande"
+],
+"correcta": 2,
+"porque": "MAX busca el mayor valor del rango."
+},
+{
+"pregunta": "Si A1 vale 4 y B1 vale 9, ¿qué da `=A1+B1`?",
+"opciones": [
+"13",
+"5",
+"49"
+],
+"correcta": 0,
+"porque": "La fórmula suma los dos valores: 4 más 9 es 13."
+},
+{
+"pregunta": "Si A1 vale 5, ¿qué da `=SI(A1>=6,\"Aprobado\",\"Reprobado\")`?",
+"opciones": [
+"5",
+"Reprobado",
+"Aprobado"
+],
+"correcta": 1,
+"porque": "Cinco no es mayor o igual que 6, así que da Reprobado."
+},
+{
+"pregunta": "En una hoja de cálculo, ¿cómo se llama A1?",
+"opciones": [
+"Un rango",
+"Una celda",
+"Una fórmula"
+],
+"correcta": 1,
+"porque": "A1 es la celda donde se cruza la columna A y la fila 1."
+}
+],
+"hojas-de-calculo-graficas-prepa": [
+{
+"pregunta": "Quieres comparar cuántos alumnos hay en tres grupos. ¿Qué gráfica usas?",
+"opciones": [
+"De líneas",
+"De barras",
+"Circular"
+],
+"correcta": 1,
+"porque": "Las barras sirven para comparar categorías."
+},
+{
+"pregunta": "Quieres ver cómo cambió tu estatura cada año. ¿Qué gráfica usas?",
+"opciones": [
+"Circular",
+"De barras",
+"De líneas"
+],
+"correcta": 2,
+"porque": "Las líneas muestran cambios en el tiempo."
+},
+{
+"pregunta": "Quieres mostrar qué parte de tu dinero se va en comida y en ropa. ¿Qué gráfica usas?",
+"opciones": [
+"Circular",
+"De líneas",
+"De barras"
+],
+"correcta": 0,
+"porque": "La circular muestra las partes de un todo."
+},
+{
+"pregunta": "¿Qué debes ponerle a una gráfica?",
+"opciones": [
+"Solo muchos colores",
+"Título y etiquetas de ejes",
+"Nada, se entiende sola"
+],
+"correcta": 1,
+"porque": "Con título y etiquetas la gráfica se lee bien."
+},
+{
+"pregunta": "¿Qué haces primero para crear una gráfica?",
+"opciones": [
+"Imprimo la hoja",
+"Selecciono los datos",
+"Escribo el título final"
+],
+"correcta": 1,
+"porque": "Primero seleccionas los datos, luego insertas la gráfica."
+}
+],
+"presentaciones-eficaces-prepa": [
+{
+"pregunta": "¿Cuál diapositiva es mejor?",
+"opciones": [
+"Una idea y poca letra",
+"Muchas ideas y colores",
+"Todo el texto del tema"
+],
+"correcta": 0,
+"porque": "Una idea por diapositiva y pocas palabras se entiende mejor."
+},
+{
+"pregunta": "Tu diapositiva tiene mucho texto. ¿Qué haces?",
+"opciones": [
+"Leo todo en voz alta",
+"Hago la letra pequeña",
+"La divido y dejo pocas palabras"
+],
+"correcta": 2,
+"porque": "Las diapositivas son carteles, no el guion completo."
+},
+{
+"pregunta": "Al exponer, ¿qué haces?",
+"opciones": [
+"Miro al público y practico",
+"Hablo muy rápido y bajo",
+"Leo la diapositiva sin mirar"
+],
+"correcta": 0,
+"porque": "Mirar al público y practicar ayuda a que te entiendan."
+},
+{
+"pregunta": "¿Qué son las diapositivas en una exposición?",
+"opciones": [
+"Un reglamento",
+"El guion completo",
+"Carteles de apoyo"
+],
+"correcta": 2,
+"porque": "Las diapositivas apoyan lo que dices con imágenes y pocas palabras."
+},
+{
+"pregunta": "Usas una foto que sacaste de internet. ¿Qué haces?",
+"opciones": [
+"Digo que la hice yo",
+"La dejo sin crédito",
+"Cito la fuente"
+],
+"correcta": 2,
+"porque": "Citar fuentes da crédito y hace confiable tu trabajo."
+}
+],
+"problematicas-comunitarias-informacion-prepa": [
+{
+"pregunta": "En una encuesta, 15 de 50 personas usan bicicleta. ¿Qué porcentaje es?",
+"opciones": [
+"35 %",
+"30 %",
+"15 %"
+],
+"correcta": 1,
+"porque": "Quince entre 50 es 0.3, o sea 30 %."
+},
+{
+"pregunta": "Si 9 de 36 casas no tienen agua, ¿qué porcentaje es?",
+"opciones": [
+"9 %",
+"25 %",
+"40 %"
+],
+"correcta": 1,
+"porque": "Nueve entre 36 es 0.25, que es 25 %."
+},
+{
+"pregunta": "¿Cuál es el primer paso para estudiar un problema de tu comunidad?",
+"opciones": [
+"Decir qué pasa y dónde",
+"Proponer la solución final",
+"Compartir las conclusiones"
+],
+"correcta": 0,
+"porque": "Primero describes el problema y el lugar donde ocurre."
+},
+{
+"pregunta": "¿Qué fuente de datos puedes consultar para un problema local?",
+"opciones": [
+"Un chisme sin dueño",
+"Un rumor del recreo",
+"El INEGI del país"
+],
+"correcta": 2,
+"porque": "El INEGI reúne datos oficiales y confiables."
+},
+{
+"pregunta": "Ya ordenaste los datos en tablas. ¿Qué sigue?",
+"opciones": [
+"Borrar la tabla",
+"Interpretarlos",
+"Inventar nuevos datos"
+],
+"correcta": 1,
+"porque": "Después de ordenar, interpretas qué dicen los datos."
+}
+],
+"procesador-de-textos-prepa": [
+{
+"pregunta": "Quieres que todos los títulos de tu tarea cambien juntos. ¿Qué usas?",
+"opciones": [
+"Estilos",
+"Tamaños a mano",
+"Un borrador"
+],
+"correcta": 0,
+"porque": "Los estilos aplican el mismo formato a todos los títulos."
+},
+{
+"pregunta": "Quieres mandar tu tarea sin que cambie el formato. ¿Cómo la guardas?",
+"opciones": [
+"Como foto borrosa",
+"Como archivo PDF",
+"Como archivo vacío"
+],
+"correcta": 1,
+"porque": "Guardar como PDF mantiene el formato igual."
+},
+{
+"pregunta": "¿Qué función corrige errores de escritura?",
+"opciones": [
+"Insertar una tabla",
+"Revisar ortografía",
+"Poner negritas"
+],
+"correcta": 1,
+"porque": "Revisar ortografía marca palabras mal escritas."
+},
+{
+"pregunta": "Escribes los pasos de una receta en orden. ¿Qué usas?",
+"opciones": [
+"Letra en negritas",
+"Numeración",
+"Una tabla grande"
+],
+"correcta": 1,
+"porque": "La numeración muestra el orden de los pasos."
+},
+{
+"pregunta": "¿Qué es un procesador de textos?",
+"opciones": [
+"Una pieza de la computadora",
+"Un programa para escribir y dar formato",
+"Un cable de impresora"
+],
+"correcta": 1,
+"porque": "Permite escribir documentos, corregir y darles formato."
+}
+],
+"software-libre-alternativas-prepa": [
+{
+"pregunta": "¿Qué sistema libre puede reemplazar a Windows?",
+"opciones": [
+"LibreOffice",
+"GIMP",
+"Linux"
+],
+"correcta": 2,
+"porque": "Linux es un sistema operativo libre, como Windows pero abierto."
+},
+{
+"pregunta": "Pagas cada mes por un programa que usas en internet. ¿Qué es?",
+"opciones": [
+"Software como servicio",
+"Un programa libre",
+"Una memoria USB"
+],
+"correcta": 0,
+"porque": "Es un programa por internet que casi siempre lleva suscripción."
+},
+{
+"pregunta": "Comparas dos programas. ¿Qué revisas?",
+"opciones": [
+"Costo, facilidad y privacidad",
+"Cuántas letras tiene",
+"Solo el color del icono"
+],
+"correcta": 0,
+"porque": "Esos son los criterios para elegir un programa."
+},
+{
+"pregunta": "El software libre es como una receta que...",
+"opciones": [
+"Nadie puede ver",
+"Solo una empresa guarda",
+"Todos pueden leer y mejorar"
+],
+"correcta": 2,
+"porque": "En el software libre el código se puede estudiar y mejorar."
+},
+{
+"pregunta": "Muchas opciones libres cubren lo básico. ¿Qué ventaja tienen?",
+"opciones": [
+"Muchas no cuestan",
+"Siempre son de pago",
+"Nunca se pueden usar"
+],
+"correcta": 0,
+"porque": "Muchas opciones libres cubren lo básico sin costo."
+}
+]
+}

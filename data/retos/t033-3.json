@@ -1,0 +1,522 @@
+{
+"ley-de-faraday-prepa": [
+{
+"pregunta": "Una bobina de 50 vueltas cambia su flujo 0.06 Wb en 0.2 s. Halla el voltaje.",
+"opciones": [
+"150 V",
+"15 V",
+"0.3 V"
+],
+"correcta": 1,
+"porque": "Cambio entre tiempo es 0.3, y por 50 vueltas son 15 V."
+},
+{
+"pregunta": "Con $B = 3$ T y $A = 0.2$ m² de frente, ¿cuánto vale $\\Phi$?",
+"opciones": [
+"15 Wb",
+"3.2 Wb",
+"0.6 Wb"
+],
+"correcta": 2,
+"porque": "El flujo es campo por área: 3 por 0.2 son 0.6 Wb."
+},
+{
+"pregunta": "Un transformador baja de 200 a 50 vueltas con 120 V de entrada. ¿Cuánto sale?",
+"opciones": [
+"480 V",
+"70 V",
+"30 V"
+],
+"correcta": 2,
+"porque": "El voltaje cambia igual que las vueltas: 50 es la cuarta parte de 200."
+},
+{
+"pregunta": "Alejas un imán de una bobina muy rápido. ¿Cómo es el voltaje si lo alejas despacio?",
+"opciones": [
+"Mayor, el cambio es lento",
+"Menor, el cambio es lento",
+"Igual, no importa la prisa"
+],
+"correcta": 1,
+"porque": "Más rapidez de cambio da más voltaje, y menos rapidez da menos."
+},
+{
+"pregunta": "¿Qué hace brillar la lámpara de dínamo de una bicicleta?",
+"opciones": [
+"El calor de la rueda",
+"Una pila escondida dentro",
+"Un imán que gira cerca de alambre"
+],
+"correcta": 2,
+"porque": "El imán cambia los hilos que cruzan el alambre y aparece electricidad."
+}
+],
+"ley-de-gravitacion-con-problemas-prepa": [
+{
+"pregunta": "Si la distancia entre dos cuerpos se reduce a la mitad, ¿qué pasa con $F$?",
+"opciones": [
+"Se duplica",
+"Se hace la mitad",
+"Se cuadruplica"
+],
+"correcta": 2,
+"porque": "La mitad de distancia da cuatro veces más fuerza, porque la distancia va al cuadrado."
+},
+{
+"pregunta": "Un planeta tiene la misma masa que la Tierra y el triple de radio. ¿Cómo es su $g$?",
+"opciones": [
+"Tres veces mayor",
+"Tres veces menor",
+"Nueve veces menor"
+],
+"correcta": 2,
+"porque": "El radio va al cuadrado abajo: 3 por 3 son 9, así que $g$ es nueve veces menor."
+},
+{
+"pregunta": "En la Luna saltarías más alto. ¿Por qué?",
+"opciones": [
+"Jala más que la Tierra",
+"No tiene gravedad",
+"Jala menos que la Tierra"
+],
+"correcta": 2,
+"porque": "La Luna tiene menos masa y su gravedad es menor, así que saltas más."
+},
+{
+"pregunta": "Un satélite se pone más lejos de un planeta. ¿Cómo es la rapidez que necesita para orbitar?",
+"opciones": [
+"Mayor",
+"La misma",
+"Menor"
+],
+"correcta": 2,
+"porque": "La distancia está abajo en la raíz, así que más lejos pide menos rapidez."
+},
+{
+"pregunta": "Dos personas se atraen. ¿Por qué no lo notas?",
+"opciones": [
+"Se rechazan entre sí",
+"Las personas no tienen masa",
+"$G$ es un número muy chiquito"
+],
+"correcta": 2,
+"porque": "$G$ es muy chiquito, y por eso dos personas casi no se atraen."
+}
+],
+"ley-de-ohm-prepa": [
+{
+"pregunta": "Con 30 V y 6 A, ¿cuánto vale $R$?",
+"opciones": [
+"5 ohms",
+"36 ohms",
+"180 ohms"
+],
+"correcta": 0,
+"porque": "La resistencia es voltaje entre corriente: 30 entre 6 son 5."
+},
+{
+"pregunta": "Si la longitud de un cable se duplica, ¿qué pasa con $R$?",
+"opciones": [
+"Se cuadruplica",
+"Se hace la mitad",
+"Se duplica"
+],
+"correcta": 2,
+"porque": "Cable más largo tiene más resistencia: doble largo, doble resistencia."
+},
+{
+"pregunta": "Con 6 ohms y 4 A, halla $V$.",
+"opciones": [
+"10 V",
+"24 V",
+"1.5 V"
+],
+"correcta": 1,
+"porque": "El voltaje es corriente por resistencia: 4 por 6 son 24 V."
+},
+{
+"pregunta": "Cambias un cable por otro más grueso. ¿Qué pasa con la resistencia?",
+"opciones": [
+"Sube",
+"Baja",
+"Queda igual"
+],
+"correcta": 1,
+"porque": "Un cable más grueso tiene más área, y por eso tiene menos resistencia."
+},
+{
+"pregunta": "Con 18 V y 6 ohms, ¿qué corriente circula?",
+"opciones": [
+"3 A",
+"12 A",
+"108 A"
+],
+"correcta": 0,
+"porque": "La corriente es voltaje entre resistencia: 18 entre 6 son 3 A."
+}
+],
+"ley-de-reflexion-prepa": [
+{
+"pregunta": "Un rayo llega a $25°$ de la normal. ¿Cuál es el ángulo reflejado?",
+"opciones": [
+"$25°$",
+"$50°$",
+"$65°$"
+],
+"correcta": 0,
+"porque": "El ángulo de reflexión es igual al de incidencia."
+},
+{
+"pregunta": "Un rayo forma $70°$ con el espejo. ¿Cuánto vale $\\theta_r$?",
+"opciones": [
+"$70°$",
+"$20°$",
+"$110°$"
+],
+"correcta": 1,
+"porque": "Se resta de 90°, porque los ángulos se miden desde la normal: 90 menos 70 son 20."
+},
+{
+"pregunta": "Estás a 5 m de un espejo plano. ¿A qué distancia de ti ves tu imagen?",
+"opciones": [
+"2.5 m",
+"10 m",
+"5 m"
+],
+"correcta": 1,
+"porque": "La imagen parece estar atrás, a la misma distancia: 5 más 5 son 10 m."
+},
+{
+"pregunta": "Mides 1.60 m. ¿Qué altura mínima necesita el espejo para verte completo?",
+"opciones": [
+"0.80 m",
+"0.40 m",
+"1.60 m"
+],
+"correcta": 0,
+"porque": "El espejo mide la mitad de tu altura."
+},
+{
+"pregunta": "¿Desde qué línea se miden los ángulos de un rayo en un espejo?",
+"opciones": [
+"Desde el espejo",
+"Desde el rayo",
+"Desde la normal"
+],
+"correcta": 2,
+"porque": "La normal es una línea derecha que sale del espejo, y de ella se miden los ángulos."
+}
+],
+"ley-de-snell-prepa": [
+{
+"pregunta": "¿Cuánto vale $v$ de la luz en un medio con $n = 2$?",
+"opciones": [
+"$3 \\times 10^8$ m/s",
+"$1.5 \\times 10^8$ m/s",
+"$6 \\times 10^8$ m/s"
+],
+"correcta": 1,
+"porque": "La velocidad es $\\frac{c}{n}$: $\\frac{3 \\times 10^8}{2} = 1.5 \\times 10^8$."
+},
+{
+"pregunta": "¿Qué valor de $n$ tiene el agua?",
+"opciones": [
+"1.33",
+"1",
+"1.5"
+],
+"correcta": 0,
+"porque": "Aire 1, agua 1.33 y vidrio 1.5."
+},
+{
+"pregunta": "¿Por qué un lápiz parece roto en un vaso con agua?",
+"opciones": [
+"La luz se desvía al cambiar de material",
+"El agua rompe el lápiz",
+"El vidrio hace sombra"
+],
+"correcta": 0,
+"porque": "Al pasar del agua al aire la luz se desvía, y el lápiz se ve quebrado."
+},
+{
+"pregunta": "¿Cuándo hay reflexión total interna?",
+"opciones": [
+"De cualquier material, muy derecha",
+"De material lento a rápido, muy inclinada",
+"De material rápido a lento, muy inclinada"
+],
+"correcta": 1,
+"porque": "Si la luz va de lento a rápido y llega muy inclinada, rebota adentro."
+},
+{
+"pregunta": "De aire ($n = 1$) a un medio con $n = 2$ con $30°$, halla $\\sin\\theta_2$.",
+"opciones": [
+"0.25",
+"1",
+"0.5"
+],
+"correcta": 0,
+"porque": "$\\sin\\theta_2 = \\frac{1 \\times 0.5}{2} = 0.25$."
+}
+],
+"leyes-de-kirchhoff-prepa": [
+{
+"pregunta": "Entran 9 A a un nodo; salen 4 A y $I$. Halla $I$.",
+"opciones": [
+"4 A",
+"5 A",
+"13 A"
+],
+"correcta": 1,
+"porque": "Lo que entra es igual a lo que sale: 9 menos 4 son 5 A."
+},
+{
+"pregunta": "Una pila de 12 V tiene 1 $\\Omega$ y 5 $\\Omega$ en serie. Halla $I$.",
+"opciones": [
+"2 A",
+"6 A",
+"17 A"
+],
+"correcta": 0,
+"porque": "Divide el voltaje entre la suma de resistencias: 12 entre 6 son 2 A."
+},
+{
+"pregunta": "¿Qué conserva la ley de los nodos?",
+"opciones": [
+"La carga",
+"La resistencia",
+"La energía"
+],
+"correcta": 0,
+"porque": "En un nodo, lo que entra es igual a lo que sale, como los coches en una glorieta."
+},
+{
+"pregunta": "En la malla, que es como una montaña, ¿qué hace la pila?",
+"opciones": [
+"Baja el voltaje",
+"Lo deja igual",
+"Sube el voltaje"
+],
+"correcta": 2,
+"porque": "La pila sube y cada resistencia baja; al final terminas a la misma altura."
+},
+{
+"pregunta": "En un nodo entran 3 A y 4 A. ¿Cuánto sale en total?",
+"opciones": [
+"1 A",
+"7 A",
+"12 A"
+],
+"correcta": 1,
+"porque": "Lo que entra es igual a lo que sale: 3 más 4 son 7 A."
+}
+],
+"luz-reflexion-refraccion": [
+{
+"pregunta": "Un prisma separa la luz blanca en colores. ¿Cómo se llama?",
+"opciones": [
+"Dispersión",
+"Reflexión",
+"Refracción"
+],
+"correcta": 0,
+"porque": "La dispersión separa la luz en colores."
+},
+{
+"pregunta": "¿Por qué se forma una sombra?",
+"opciones": [
+"La luz va en línea recta",
+"La luz da vueltas",
+"La luz se apaga"
+],
+"correcta": 0,
+"porque": "La luz viaja recta y no pasa por el objeto, por eso hay sombra."
+},
+{
+"pregunta": "Un rayo incide en un espejo con $50°$. ¿Con qué ángulo se refleja?",
+"opciones": [
+"$40°$",
+"$50°$",
+"$100°$"
+],
+"correcta": 1,
+"porque": "En la reflexión sale con el mismo ángulo con que llegó."
+},
+{
+"pregunta": "La luz pasa del agua al aire. ¿Qué le pasa?",
+"opciones": [
+"Se detiene",
+"Se vuelve sonido",
+"Cambia de dirección"
+],
+"correcta": 2,
+"porque": "Esto es refracción: la luz se desvía al cambiar de material."
+},
+{
+"pregunta": "¿Qué fenómeno de la luz ayuda a que veamos colores?",
+"opciones": [
+"La sombra",
+"El eco",
+"La absorción"
+],
+"correcta": 2,
+"porque": "Los objetos absorben unos colores y por eso vemos otros."
+}
+],
+"ondas-propiedades-preparatoria": [
+{
+"pregunta": "Una onda tiene $\\lambda = 3$ m y $f = 100$ Hz. ¿Cuál es su velocidad?",
+"opciones": [
+"33 m/s",
+"103 m/s",
+"300 m/s"
+],
+"correcta": 2,
+"porque": "La velocidad es longitud por frecuencia: 3 por 100 son 300 m/s."
+},
+{
+"pregunta": "Una onda viaja a 20 m/s y mide $\\lambda = 4$ m. ¿Cuál es su frecuencia?",
+"opciones": [
+"0.2 Hz",
+"80 Hz",
+"5 Hz"
+],
+"correcta": 2,
+"porque": "La frecuencia es velocidad entre longitud: 20 entre 4 son 5 Hz."
+},
+{
+"pregunta": "Si $f = 4$ Hz, ¿cuál es el periodo?",
+"opciones": [
+"8 s por ciclo",
+"4 s por ciclo",
+"0.25 s por ciclo"
+],
+"correcta": 2,
+"porque": "El periodo es 1 entre la frecuencia: 1 entre 4 son 0.25 s."
+},
+{
+"pregunta": "En la ola del estadio, ¿qué lleva una onda?",
+"opciones": [
+"Materia sin llevar energía",
+"Energía sin llevar materia",
+"Las dos cosas siempre"
+],
+"correcta": 1,
+"porque": "La gente no cambia de lugar, pero la ola avanza."
+},
+{
+"pregunta": "¿Cuál de estas ondas viaja sin necesitar materia?",
+"opciones": [
+"El sonido",
+"La luz",
+"Una ola en una cuerda"
+],
+"correcta": 1,
+"porque": "Las ondas electromagnéticas, como la luz, no necesitan materia."
+}
+],
+"periodo-frecuencia-y-longitud-de-onda-prepa": [
+{
+"pregunta": "Con $T = 0.1$ s, ¿cuánto vale $f$?",
+"opciones": [
+"0.1 Hz",
+"1 Hz",
+"10 Hz"
+],
+"correcta": 2,
+"porque": "La frecuencia es 1 entre el periodo: 1 entre 0.1 son 10 Hz."
+},
+{
+"pregunta": "Con $v = 50$ m/s y $f = 10$ Hz, calcula $\\lambda$.",
+"opciones": [
+"0.2 m",
+"5 m",
+"500 m"
+],
+"correcta": 1,
+"porque": "La longitud es velocidad entre frecuencia: 50 entre 10 son 5 m."
+},
+{
+"pregunta": "Con $\\lambda = 4$ m y $f = 3$ Hz, calcula $v$.",
+"opciones": [
+"12 m/s",
+"1.33 m/s",
+"7 m/s"
+],
+"correcta": 0,
+"porque": "La velocidad es longitud por frecuencia: 4 por 3 son 12 m/s."
+},
+{
+"pregunta": "Un columpio tarda $T = 2$ s en ir y volver. ¿Cuánto vale $f$?",
+"opciones": [
+"2 Hz",
+"0.5 Hz",
+"4 Hz"
+],
+"correcta": 1,
+"porque": "La frecuencia es 1 entre el periodo: 1 entre 2 son 0.5 Hz."
+},
+{
+"pregunta": "Una onda pasa del aire al agua. ¿Qué cambia además de la velocidad?",
+"opciones": [
+"El periodo",
+"La frecuencia",
+"La longitud de onda"
+],
+"correcta": 2,
+"porque": "La frecuencia y el periodo no cambian; cambian velocidad y longitud."
+}
+],
+"plano-inclinado-prepa": [
+{
+"pregunta": "Una caja de 4 kg está en una rampa de $30°$, con $g = 10$. ¿Cuánto vale $mg\\sin\\theta$?",
+"opciones": [
+"20 N",
+"40 N",
+"35 N"
+],
+"correcta": 0,
+"porque": "Es 4 por 10 por 0.5, y da 20 N."
+},
+{
+"pregunta": "Una caja de 6 kg está en una rampa de $60°$, con $g = 10$. Halla $N$.",
+"opciones": [
+"30 N",
+"60 N",
+"52 N"
+],
+"correcta": 0,
+"porque": "$N = mg\\cos\\theta$: 6 por 10 por 0.5 son 30 N."
+},
+{
+"pregunta": "En una resbaladilla más inclinada, ¿cómo bajas?",
+"opciones": [
+"Más lento",
+"Igual",
+"Más rápido"
+],
+"correcta": 2,
+"porque": "Con más inclinación, más peso te jala hacia abajo de la rampa."
+},
+{
+"pregunta": "¿Qué parte del peso aprieta contra la rampa?",
+"opciones": [
+"$mg\\sin\\theta$",
+"$mg\\cos\\theta$",
+"$mg\\tan\\theta$"
+],
+"correcta": 1,
+"porque": "La parte que aprieta contra la rampa usa el coseno."
+},
+{
+"pregunta": "Sin fricción en $30°$, bajan una caja de 2 kg y otra de 8 kg. ¿Cuál acelera más?",
+"opciones": [
+"La de 2 kg",
+"La de 8 kg",
+"Aceleran igual"
+],
+"correcta": 2,
+"porque": "Sin fricción $a = g\\sin\\theta$, y la masa no aparece en la cuenta."
+}
+]
+}

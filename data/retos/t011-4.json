@@ -1,0 +1,522 @@
+{
+"limites-corporales-prevencion-abuso-primaria-1-2": [
+{
+"pregunta": "Alguien te pide un secreto que te da miedo. ¿Qué haces primero?",
+"opciones": [
+"Acepto para no hacerlo enojar",
+"Digo que no y me alejo",
+"Lo guardo y no digo nada"
+],
+"correcta": 1,
+"porque": "Primero se dice no y te alejas, luego se lo cuentas a un adulto de confianza."
+},
+{
+"pregunta": "Un adulto te pide un secreto que te da miedo. ¿Qué haces?",
+"opciones": [
+"Me quedo callado para que no se enoje",
+"Guardo el secreto para siempre",
+"Se lo cuento a un adulto de confianza"
+],
+"correcta": 2,
+"porque": "Los secretos que dan miedo se cuentan."
+},
+{
+"pregunta": "Te sientes incómodo. ¿Cuáles son los pasos?",
+"opciones": [
+"Reírte y esperar a que se le pase",
+"Quedarte quieto y no decir nada",
+"Decir no, alejarte y contarlo"
+],
+"correcta": 2,
+"porque": "Decir no, alejarte y contarlo ayuda a cuidarte."
+},
+{
+"pregunta": "Le cuentas algo a un adulto y no te cree. ¿Qué haces?",
+"opciones": [
+"Me callo y ya no vuelvo a decir nada",
+"Le cuento a otro adulto de confianza",
+"Pienso que fue mi culpa"
+],
+"correcta": 1,
+"porque": "Puedes buscar a otro adulto hasta que te ayuden."
+},
+{
+"pregunta": "Si alguien te hizo sentir mal, ¿de quién es la culpa?",
+"opciones": [
+"Es tuya por no decir no",
+"Es tuya por no haberte alejado antes",
+"No es tu culpa"
+],
+"correcta": 2,
+"porque": "Nunca es culpa del niño."
+}
+],
+"manifestaciones-culturales-simbolos-mexico-primaria": [
+{
+"pregunta": "¿Cuál es un símbolo de México?",
+"opciones": [
+"Un balón de futbol",
+"Un videojuego nuevo",
+"La bandera"
+],
+"correcta": 2,
+"porque": "La bandera es un símbolo de nuestro país."
+},
+{
+"pregunta": "¿Qué es el himno nacional?",
+"opciones": [
+"Una comida típica de la fiesta",
+"La bandera de la escuela",
+"La canción de México"
+],
+"correcta": 2,
+"porque": "El himno es una canción que cantamos para honrar a México."
+},
+{
+"pregunta": "¿La comida de tu región forma parte de la cultura?",
+"opciones": [
+"Sí, es una manifestación cultural",
+"No, porque comer es solo una necesidad de cada día",
+"No, solo las fiestas lo son"
+],
+"correcta": 0,
+"porque": "Las comidas también forman nuestra cultura."
+},
+{
+"pregunta": "El Día de Muertos es una fiesta muy nuestra. ¿Qué es?",
+"opciones": [
+"Un juego que se hace solo en la escuela",
+"Una fiesta que no existe en ningún lugar",
+"Una tradición de México"
+],
+"correcta": 2,
+"porque": "Es una tradición que forma parte de nuestra cultura."
+},
+{
+"pregunta": "¿Cómo es México?",
+"opciones": [
+"Tiene culturas que no merecen respeto",
+"Tiene muchas culturas",
+"Tiene solo una cultura"
+],
+"correcta": 1,
+"porque": "Muchas culturas forman un solo México."
+}
+],
+"necesidades-basicas-derechos-humanos-primaria-1-2": [
+{
+"pregunta": "¿Qué es una necesidad?",
+"opciones": [
+"Todo lo que quieres comprar",
+"Lo que hace falta para vivir bien",
+"Algo que solo usan los adultos"
+],
+"correcta": 1,
+"porque": "Una necesidad es lo que hace falta para vivir."
+},
+{
+"pregunta": "¿Cuál es una necesidad básica?",
+"opciones": [
+"Un juguete nuevo",
+"Un disfraz de superhéroe",
+"La comida"
+],
+"correcta": 2,
+"porque": "Sin comida no se puede vivir bien."
+},
+{
+"pregunta": "¿Qué es un gusto?",
+"opciones": [
+"Algo sin lo cual no puedes vivir",
+"Algo que te dan los adultos cada día",
+"Algo bonito, pero puedes vivir sin él"
+],
+"correcta": 2,
+"porque": "Un gusto es extra, como un juguete."
+},
+{
+"pregunta": "Cuando vas al doctor porque estás enfermo, ¿qué derecho usas?",
+"opciones": [
+"El derecho a elegir tu color favorito",
+"El derecho a la salud",
+"El derecho a jugar en el recreo"
+],
+"correcta": 1,
+"porque": "Atenderte cuando estás enfermo es un derecho."
+},
+{
+"pregunta": "¿Cuál es también un derecho además de una necesidad?",
+"opciones": [
+"Tener una consola nueva",
+"Tener casa donde vivir",
+"Tener muchos dulces diario"
+],
+"correcta": 1,
+"porque": "Una casa es una necesidad y también un derecho."
+}
+],
+"paz-dialogo-conflictos-primaria": [
+{
+"pregunta": "Tu amigo y tú se pelean por un juguete. ¿Qué haces primero?",
+"opciones": [
+"Le quito el juguete a mi amigo",
+"Le grito para que me escuche",
+"Respiro y me calmo primero"
+],
+"correcta": 2,
+"porque": "El primer paso para resolver un conflicto es calmarte."
+},
+{
+"pregunta": "¿Qué haces después de calmarte?",
+"opciones": [
+"Le digo que se equivocó sin dejarlo hablar",
+"Me voy sin decir nada",
+"Escucho a mi amigo"
+],
+"correcta": 2,
+"porque": "Escuchar ayuda a entender al otro."
+},
+{
+"pregunta": "Dos niños quieren el mismo columpio. ¿Qué acuerdo sirve?",
+"opciones": [
+"Que ninguno lo use, aunque nadie juegue",
+"Que se quede el más fuerte",
+"Turnarse un rato cada quien"
+],
+"correcta": 2,
+"porque": "Turnarse es un acuerdo justo."
+},
+{
+"pregunta": "¿Cómo se resuelven los conflictos?",
+"opciones": [
+"Golpeando",
+"Dejando de hablarse para siempre",
+"Hablando"
+],
+"correcta": 2,
+"porque": "El diálogo ayuda a resolverlos."
+},
+{
+"pregunta": "¿Qué dices al hablar de lo que sientes?",
+"opciones": [
+"Nunca más voy a jugar contigo",
+"Me sentí triste cuando pasó eso",
+"Tú siempre eres malo conmigo"
+],
+"correcta": 1,
+"porque": "Dices cómo te sientes sin culpar al otro."
+}
+],
+"personas-migrantes-derechos-primaria": [
+{
+"pregunta": "¿Qué derechos tienen las personas migrantes?",
+"opciones": [
+"Solo el derecho a trabajar",
+"Ningún derecho, porque llegaron de otro lugar",
+"Salud, escuela y buen trato"
+],
+"correcta": 2,
+"porque": "Las personas migrantes tienen los mismos derechos."
+},
+{
+"pregunta": "Llega un niño nuevo a tu escuela. ¿Qué haces?",
+"opciones": [
+"Lo ignoro hasta que sea mi amigo",
+"Le pregunto por qué llegó tan tarde",
+"Me presento y lo invito a jugar"
+],
+"correcta": 2,
+"porque": "Una buena bienvenida lo hace sentir bien."
+},
+{
+"pregunta": "Una niña migrante se enferma. ¿Tiene derecho a ir al doctor?",
+"opciones": [
+"No, porque no nació aquí",
+"Sí, igual que los demás",
+"Solo si paga más dinero que los demás"
+],
+"correcta": 1,
+"porque": "Todos tienen derecho a la salud."
+},
+{
+"pregunta": "¿Los derechos de una persona cambian según de dónde venga?",
+"opciones": [
+"No, son los mismos",
+"Sí, tiene menos si vino de lejos",
+"Sí, tiene más si viene de lejos"
+],
+"correcta": 0,
+"porque": "Los derechos no dependen del lugar de origen."
+},
+{
+"pregunta": "Un niño nuevo tiene miedo en su primer día. ¿Qué haces?",
+"opciones": [
+"Me alejo de él para no meterme en problemas",
+"Me río de su forma de hablar",
+"Lo acompaño en el recreo"
+],
+"correcta": 2,
+"porque": "Acompañarlo le da confianza."
+}
+],
+"respeto-cuidado-naturaleza-interdependencia-primaria-1-2": [
+{
+"pregunta": "¿Qué nos dan los árboles?",
+"opciones": [
+"Solo ruido",
+"Nada, porque no hacen nada por las personas",
+"Aire y sombra"
+],
+"correcta": 2,
+"porque": "Los árboles dan aire y sombra."
+},
+{
+"pregunta": "¿Qué llevan las abejas de una flor a otra?",
+"opciones": [
+"Agua de lluvia que guardan",
+"Hojas",
+"Polen"
+],
+"correcta": 2,
+"porque": "El polen ayuda a que salgan frutos."
+},
+{
+"pregunta": "¿Dónde pones una planta del salón?",
+"opciones": [
+"En un cajón oscuro",
+"Donde le dé luz",
+"Debajo de tu mesa sin ventana cerca"
+],
+"correcta": 1,
+"porque": "Las plantas necesitan luz para vivir."
+},
+{
+"pregunta": "¿Cuánta agua le das a una planta?",
+"opciones": [
+"Poca, solo la que necesita",
+"Nada, las plantas no beben",
+"Un balde lleno todos los días"
+],
+"correcta": 0,
+"porque": "A las plantas las riegas con poca agua."
+},
+{
+"pregunta": "¿Qué pasa si cuidas un árbol?",
+"opciones": [
+"No pasa nada con otros seres",
+"También cuido a otros seres",
+"Solo gana el árbol y los demás no"
+],
+"correcta": 1,
+"porque": "Todo está conectado."
+}
+],
+"responsabilidad-compartida-bienestar-inclusion-primaria-1-2": [
+{
+"pregunta": "¿Cuál es una forma de cuidarte?",
+"opciones": [
+"Lavarte las manos",
+"Dejar de descansar",
+"Comer sin lavarte las manos nunca"
+],
+"correcta": 0,
+"porque": "Lavarte las manos cuida tu salud."
+},
+{
+"pregunta": "¿Cuál es una forma de cuidar a otros?",
+"opciones": [
+"Compartir",
+"Quitar sus cosas",
+"Dejarlos solos en el recreo"
+],
+"correcta": 0,
+"porque": "Compartir ayuda a que todos estén bien."
+},
+{
+"pregunta": "Ves a un niño solo en el recreo. ¿Qué haces?",
+"opciones": [
+"Te ríes de él con tus amigos",
+"Paso de largo sin verlo",
+"Lo invito a jugar"
+],
+"correcta": 2,
+"porque": "Invitarlo evita que se quede fuera."
+},
+{
+"pregunta": "¿Qué es la igualdad?",
+"opciones": [
+"Que algunos tengan más derechos que otros",
+"Que todos reciban siempre la misma ayuda",
+"Que todos tengan los mismos derechos"
+],
+"correcta": 2,
+"porque": "Igualdad es tener los mismos derechos."
+},
+{
+"pregunta": "¿Qué es la equidad?",
+"opciones": [
+"Dar más apoyo a quien lo necesita",
+"Quitar ayuda a quien ya sabe hacerlo",
+"Dar lo mismo a todos aunque necesiten distinto"
+],
+"correcta": 0,
+"porque": "Con equidad apoyas más a quien más lo necesita."
+}
+],
+"violencia-injusticia-discriminacion-primaria-1-2": [
+{
+"pregunta": "¿Cuál es un ejemplo de violencia?",
+"opciones": [
+"Un abrazo de un amigo",
+"Un insulto que lastima",
+"Una invitación a jugar en el recreo"
+],
+"correcta": 1,
+"porque": "Los golpes, los insultos y los apodos lastiman."
+},
+{
+"pregunta": "¿Qué es discriminar?",
+"opciones": [
+"Ayudar al que lo necesita",
+"Dejar fuera a alguien por cómo es",
+"Invitar a todos al juego"
+],
+"correcta": 1,
+"porque": "Discriminar es no incluir a alguien por cómo es."
+},
+{
+"pregunta": "Un niño dice: no juegas porque eres pequeño. ¿Qué es eso?",
+"opciones": [
+"Una invitación",
+"Discriminación",
+"Una forma de ayudar"
+],
+"correcta": 1,
+"porque": "Lo dejan fuera por cómo es."
+},
+{
+"pregunta": "Algo te lastima. ¿Qué haces?",
+"opciones": [
+"Hago lo mismo a otra persona",
+"Lo guardo y no se lo cuento a nadie",
+"Lo reconozco y pido ayuda"
+],
+"correcta": 2,
+"porque": "Reconocer lo que pasa permite que te ayuden."
+},
+{
+"pregunta": "¿Cuál es un buen trato?",
+"opciones": [
+"Invitar a todos a jugar",
+"Dejar a alguien sin jugar por ser distinto",
+"Poner apodos que hacen reír a unos pocos"
+],
+"correcta": 0,
+"porque": "Un buen trato incluye a todos."
+}
+],
+"caida-de-tenochtitlan-primaria": [
+{
+"pregunta": "¿Quiénes fueron derrotados en 1521?",
+"opciones": [
+"Los españoles",
+"Los mayas de la selva",
+"Los mexicas"
+],
+"correcta": 2,
+"porque": "Cayó Tenochtitlan, la ciudad de los mexicas."
+},
+{
+"pregunta": "¿Cuándo cayó Tenochtitlan?",
+"opciones": [
+"13 de agosto de 1521",
+"13 de agosto de 1821",
+"16 de septiembre de 1810"
+],
+"correcta": 0,
+"porque": "La fecha es 13 de agosto de 1521."
+},
+{
+"pregunta": "¿Quiénes ayudaron a los españoles?",
+"opciones": [
+"Los sacerdotes mayas del templo",
+"Los comerciantes del mercado",
+"Aliados indígenas"
+],
+"correcta": 2,
+"porque": "Los españoles tuvieron aliados indígenas."
+},
+{
+"pregunta": "¿A quién capturaron al final del sitio de Tenochtitlan?",
+"opciones": [
+"A Moctezuma",
+"A Cuauhtémoc",
+"A Quetzalcóatl"
+],
+"correcta": 1,
+"porque": "Cuauhtémoc, último tlatoani, fue capturado."
+},
+{
+"pregunta": "¿Quién muere en 1520?",
+"opciones": [
+"Hernán Cortés, después de la Noche Triste",
+"Cuauhtémoc",
+"Moctezuma"
+],
+"correcta": 2,
+"porque": "En 1520 muere Moctezuma."
+}
+],
+"calendario-escritura-y-dioses-de-mesoamerica-primaria": [
+{
+"pregunta": "¿Cuántos días tiene el calendario solar?",
+"opciones": [
+"365 días",
+"52 días",
+"260 días"
+],
+"correcta": 0,
+"porque": "El calendario solar tiene 365 días."
+},
+{
+"pregunta": "¿Cada cuántos años se juntaban los dos calendarios?",
+"opciones": [
+"Cada 52 años",
+"Cada año nuevo en invierno",
+"Cada 260 años"
+],
+"correcta": 0,
+"porque": "El ciclo de 52 años junta los calendarios."
+},
+{
+"pregunta": "¿Qué son los glifos?",
+"opciones": [
+"Instrumentos para medir los días",
+"Dibujos que representan algo",
+"Los nombres de los calendarios"
+],
+"correcta": 1,
+"porque": "Los glifos eran su forma de escribir."
+},
+{
+"pregunta": "¿Quién es Quetzalcóatl?",
+"opciones": [
+"El dios del Sol y la guerra",
+"La serpiente emplumada",
+"El dios de la lluvia"
+],
+"correcta": 1,
+"porque": "Quetzalcóatl es la serpiente emplumada."
+},
+{
+"pregunta": "¿Qué dios era del Sol y de la guerra?",
+"opciones": [
+"Quetzalcóatl",
+"Tláloc",
+"Huitzilopochtli"
+],
+"correcta": 2,
+"porque": "Huitzilopochtli era dios del Sol y la guerra."
+}
+]
+}

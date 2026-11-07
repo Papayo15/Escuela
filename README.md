@@ -1,6 +1,6 @@
-# Escuela de regularización
+# La Escuelita
 
-Biblioteca de explicaciones basada en el temario oficial de la SEP, con Maestro en vivo opcional.
+Biblioteca de explicaciones basada en el temario oficial de la SEP, con su asistente CEVS opcional.
 
 ## Funciona sin claves
 
@@ -14,12 +14,12 @@ npm run dev
 ## Planes de acceso
 
 - Con `ACCESS_CODE` y `COOKIE_SECRET`, la biblioteca pide código.
-- `ACCESS_CODE` abre la biblioteca. `PREMIUM_CODE` abre además el Maestro en vivo y las fotos de tareas.
+- `ACCESS_CODE` abre la biblioteca. `PREMIUM_CODE` abre además a CEVS y las fotos de tareas.
 - Cambia los códigos cada mes: la cookie incluye el código, así que los accesos anteriores expiran.
 
 El cobro es manual. Un código compartido se puede pasar a otras personas.
 
-## Activar el Maestro en vivo
+## Activar a CEVS
 
 Crea `.env.local` a partir de `.env.example`. El chat aparece cuando además existen `OPENROUTER_API_KEY` y `PREMIUM_CODE`.
 

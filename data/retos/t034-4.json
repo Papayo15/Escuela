@@ -1,0 +1,522 @@
+{
+"adn-arn-cromosomas-preparatoria": [
+{
+"pregunta": "Una cadena de ADN dice ATGCC. ¿Cuál es la cadena complementaria?",
+"opciones": [
+"TAGCC",
+"UACGG",
+"TACGG"
+],
+"correcta": 2,
+"porque": "A va con T, y C va con G; en el ADN no hay U."
+},
+{
+"pregunta": "¿Cuántos cromosomas de tu mamá tiene una célula tuya?",
+"opciones": [
+"23 de tu mamá",
+"92 de tu mamá",
+"46 de tu mamá"
+],
+"correcta": 0,
+"porque": "Tienes 23 cromosomas de mamá y 23 de papá, que suman 46."
+},
+{
+"pregunta": "En el ADN, ¿con cuál base se une la C?",
+"opciones": [
+"Con la G",
+"Con la T",
+"Con la A"
+],
+"correcta": 0,
+"porque": "Las bases se unen en pares fijos: A con T, y C con G."
+},
+{
+"pregunta": "¿Qué es un gen?",
+"opciones": [
+"Un tomo del libro de cromosomas",
+"Una receta del libro del ADN",
+"Una copia completa en ARN"
+],
+"correcta": 1,
+"porque": "El gen es una receta; los cromosomas son los tomos del libro."
+},
+{
+"pregunta": "Una cadena de ADN dice TTAGC. ¿Cuál es la cadena complementaria?",
+"opciones": [
+"TTAGC",
+"AATCG",
+"AAUCG"
+],
+"correcta": 1,
+"porque": "Cambia cada base por su pareja: A con T, y C con G."
+}
+],
+"caracteristicas-seres-vivos-preparatoria": [
+{
+"pregunta": "Una semilla se vuelve una planta más grande. ¿Qué característica muestra?",
+"opciones": [
+"Reproducción",
+"Crecimiento",
+"Homeostasis"
+],
+"correcta": 1,
+"porque": "Crecer es aumentar de tamaño con el paso del tiempo."
+},
+{
+"pregunta": "Un gato se esconde cuando oye un ruido fuerte. ¿Qué característica muestra?",
+"opciones": [
+"Respuesta a lo que pasa",
+"Crecimiento del cuerpo",
+"Reproducción de la especie"
+],
+"correcta": 0,
+"porque": "Los seres vivos responden a lo que pasa a su alrededor."
+},
+{
+"pregunta": "Una perra tiene cachorros. ¿Qué característica muestra?",
+"opciones": [
+"Homeostasis",
+"Reproducción",
+"Metabolismo"
+],
+"correcta": 1,
+"porque": "Reproducirse es tener nuevos seres de la misma especie."
+},
+{
+"pregunta": "¿Por qué las levaduras sirven para hacer pan?",
+"opciones": [
+"Están vivas y usan energía",
+"Son fuego sin vida",
+"Son polvo sin células"
+],
+"correcta": 0,
+"porque": "Las levaduras son seres vivos, y por eso hacen crecer la masa."
+},
+{
+"pregunta": "¿Por qué una piedra no es un ser viviente?",
+"opciones": [
+"Porque pesa mucho y es dura",
+"Porque no come, no crece ni se reproduce",
+"Porque no tiene nombre ni color"
+],
+"correcta": 1,
+"porque": "Una piedra no cumple las características de los seres vivos."
+}
+],
+"ciclo-celular-prepa": [
+{
+"pregunta": "¿En qué fase se prepara la célula para dividirse?",
+"opciones": [
+"En G1",
+"En G2",
+"En S"
+],
+"correcta": 1,
+"porque": "G2 es la preparación final antes de la fase M."
+},
+{
+"pregunta": "¿Qué etapas forman la interfase?",
+"opciones": [
+"Mitosis y citocinesis",
+"Solo mitosis",
+"G1, S y G2"
+],
+"correcta": 2,
+"porque": "La interfase es la etapa larga: la célula crece, copia su ADN y se prepara."
+},
+{
+"pregunta": "¿Para qué sirven los puntos de control?",
+"opciones": [
+"Para dividir más rápido la célula",
+"Para revisar que todo esté bien",
+"Para pintar la célula de otro color"
+],
+"correcta": 1,
+"porque": "Los controles revisan la célula antes de seguir con el ciclo."
+},
+{
+"pregunta": "Las células se dividen sin parar porque fallaron los controles. ¿Qué enfermedad ocurre?",
+"opciones": [
+"Alergia",
+"Cáncer",
+"Gripa"
+],
+"correcta": 1,
+"porque": "Cuando fallan los controles, la división no se detiene: eso es el cáncer."
+},
+{
+"pregunta": "¿Qué ocurre en la fase M?",
+"opciones": [
+"La célula solo crece",
+"Mitosis y luego citocinesis",
+"La célula copia su ADN"
+],
+"correcta": 1,
+"porque": "En la fase M se divide el núcleo y luego se parte el citoplasma."
+}
+],
+"ciclos-del-agua-carbono-y-nitrogeno-prepa": [
+{
+"pregunta": "¿Qué hace el sol con el agua de un charco?",
+"opciones": [
+"La congela y baja",
+"La vuelve tierra",
+"La evapora y sube"
+],
+"correcta": 2,
+"porque": "El calor del sol evapora el agua y empieza el ciclo."
+},
+{
+"pregunta": "¿Qué gas del aire toman las plantas?",
+"opciones": [
+"$\\ce{N2}$",
+"$\\ce{CO2}$",
+"$\\ce{H2}$"
+],
+"correcta": 1,
+"porque": "Las plantas toman $\\ce{CO2}$; no pueden usar el nitrógeno tal como está."
+},
+{
+"pregunta": "¿Qué hacen los descomponedores?",
+"opciones": [
+"Regresan al suelo lo que murió",
+"Hacen nubes con lo que murió",
+"Fijan el nitrógeno del aire"
+],
+"correcta": 0,
+"porque": "Cuando algo muere, los descomponedores lo regresan al suelo."
+},
+{
+"pregunta": "¿Qué quiere decir que en los ciclos nada se acaba?",
+"opciones": [
+"La materia da vueltas y se vuelve a usar",
+"La materia desaparece cuando se usa",
+"La materia viaja una sola vez"
+],
+"correcta": 0,
+"porque": "Como un camión que da vueltas, la materia pasa de una parada a otra."
+},
+{
+"pregunta": "¿A dónde corre el agua de lluvia?",
+"opciones": [
+"Al aire",
+"A los ríos",
+"A las nubes"
+],
+"correcta": 1,
+"porque": "Después de llover, el agua corre a los ríos."
+}
+],
+"cuadro-de-punnett-prepa": [
+{
+"pregunta": "Con Aa × Aa, ¿qué probabilidad hay de AA?",
+"opciones": [
+"75 %",
+"25 %",
+"50 %"
+],
+"correcta": 1,
+"porque": "En el cuadro sale 1 AA de 4 casillas."
+},
+{
+"pregunta": "¿Cuál es un ejemplo de genotipo?",
+"opciones": [
+"Un cuadro con cuatro casillas",
+"Aa, la pareja de alelos del gen",
+"Amarillo, el color que se ve"
+],
+"correcta": 1,
+"porque": "El genotipo son los alelos, como Aa."
+},
+{
+"pregunta": "¿Cuál de estas opciones es un fenotipo?",
+"opciones": [
+"El genotipo AA",
+"Semillas amarillas",
+"El genotipo Aa"
+],
+"correcta": 1,
+"porque": "El fenotipo es lo que se ve, como el color amarillo."
+},
+{
+"pregunta": "Con Aa × Aa, ¿cuántos de cada 4 muestran el rasgo dominante?",
+"opciones": [
+"1 de cada 4",
+"3 de cada 4",
+"2 de cada 4"
+],
+"correcta": 1,
+"porque": "AA, Aa y Aa muestran el rasgo dominante: son 75 %."
+},
+{
+"pregunta": "¿Qué se pone arriba y a un lado del cuadro?",
+"opciones": [
+"Los gametos de cada padre",
+"Los fenotipos de los abuelos",
+"Los hijos ya nacidos"
+],
+"correcta": 0,
+"porque": "Arriba van los gametos de un padre y al lado los del otro."
+}
+],
+"difusion-y-osmosis-prepa": [
+{
+"pregunta": "¿Hacia dónde se mueven las partículas en la difusión?",
+"opciones": [
+"De menos a más concentración",
+"No se mueven del lugar",
+"De más a menos concentración"
+],
+"correcta": 2,
+"porque": "La difusión reparte las partículas hasta que quedan parejas."
+},
+{
+"pregunta": "Una lechuga con sal se marchita. ¿Por qué?",
+"opciones": [
+"Porque gana agua desde afuera",
+"Porque la sal la hace crecer",
+"Porque pierde agua hacia afuera"
+],
+"correcta": 2,
+"porque": "Con más sal afuera, el agua sale de la lechuga."
+},
+{
+"pregunta": "¿Qué significa un medio isotónico?",
+"opciones": [
+"Más sal afuera que adentro",
+"Menos sal afuera que adentro",
+"Igual concentración dentro y fuera"
+],
+"correcta": 2,
+"porque": "Isotónico significa igual concentración, y la célula no cambia."
+},
+{
+"pregunta": "Pones una rodaja de papa en agua con sal. ¿Qué le pasa?",
+"opciones": [
+"Pierde agua y se encoge",
+"No le pasa nada",
+"Gana agua y se hincha"
+],
+"correcta": 0,
+"porque": "Con más sal afuera, el agua sale de la papa y se encoge."
+},
+{
+"pregunta": "En la ósmosis, ¿hacia dónde va el agua?",
+"opciones": [
+"Se queda siempre en el mismo lugar sin moverse",
+"Hacia donde hay menos sustancias disueltas en ella",
+"Hacia donde hay más sustancias disueltas"
+],
+"correcta": 2,
+"porque": "El agua se mueve hacia donde hay más sal o más sustancias disueltas."
+}
+],
+"dominancia-incompleta-y-codominancia-prepa": [
+{
+"pregunta": "En la codominancia, ¿qué muestra el heterocigoto?",
+"opciones": [
+"Solo un rasgo",
+"Los dos rasgos a la vez",
+"Un rasgo intermedio"
+],
+"correcta": 1,
+"porque": "En la codominancia se ven ambos rasgos, como en el grupo AB."
+},
+{
+"pregunta": "En la dominancia incompleta, ¿qué muestra el heterocigoto?",
+"opciones": [
+"Solo el rasgo dominante",
+"Los dos rasgos a la vez",
+"Un rasgo intermedio"
+],
+"correcta": 2,
+"porque": "Los rasgos se mezclan sin que gane ninguno, como el rosa."
+},
+{
+"pregunta": "Una vaca con pelos rojos y pelos blancos a la vez, ¿qué herencia muestra?",
+"opciones": [
+"Codominancia",
+"Dominancia completa",
+"Dominancia incompleta"
+],
+"correcta": 0,
+"porque": "En la codominancia se ven los dos rasgos al mismo tiempo."
+},
+{
+"pregunta": "Mezclas pintura roja y blanca y sale rosa. ¿A qué se parece?",
+"opciones": [
+"A ninguna herencia",
+"A la codominancia",
+"A la dominancia incompleta"
+],
+"correcta": 2,
+"porque": "Rojo y blanco dan rosa: se mezclan sin que ninguno gane."
+},
+{
+"pregunta": "Dos flores rosas se cruzan. ¿Cuántas salen rosas de cada 4?",
+"opciones": [
+"4 de cada 4",
+"2 de cada 4",
+"1 de cada 4"
+],
+"correcta": 1,
+"porque": "Salen 1 roja, 2 rosas y 1 blanca de cada 4."
+}
+],
+"ecosistemas-y-biomas-prepa": [
+{
+"pregunta": "¿La luz es un factor biótico o abiótico?",
+"opciones": [
+"De los dos, porque cambia de día a noche",
+"Biótico, porque da energía a todos",
+"Abiótico, porque no tiene vida"
+],
+"correcta": 2,
+"porque": "Los factores abióticos son agua, luz, suelo y temperatura."
+},
+{
+"pregunta": "¿Cuál de estos es un factor biótico?",
+"opciones": [
+"La luz del sol",
+"Una piedra",
+"Un perro"
+],
+"correcta": 2,
+"porque": "Los factores bióticos son los seres vivos."
+},
+{
+"pregunta": "¿Qué bioma es muy frío?",
+"opciones": [
+"La selva",
+"El pastizal",
+"La tundra"
+],
+"correcta": 2,
+"porque": "La tundra es el bioma frío."
+},
+{
+"pregunta": "¿Cuáles son factores abióticos?",
+"opciones": [
+"Los hongos y las bacterias",
+"El agua, la luz y el suelo",
+"Los animales y las plantas"
+],
+"correcta": 1,
+"porque": "Los abióticos son los factores sin vida, como agua, luz y suelo."
+},
+{
+"pregunta": "¿Qué tiene México?",
+"opciones": [
+"Mucha biodiversidad",
+"Un solo bioma",
+"Solo desiertos"
+],
+"correcta": 0,
+"porque": "México tiene selvas, desiertos, bosques y arrecifes."
+}
+],
+"fases-de-la-meiosis-prepa": [
+{
+"pregunta": "Se unen un óvulo y un espermatozoide. ¿Cuántos cromosomas hay al sumar?",
+"opciones": [
+"23 y 23, que dan 46",
+"46 y 46, que dan 92",
+"23 y 46, que dan 69"
+],
+"correcta": 0,
+"porque": "Cada gameto trae 23, y juntos vuelven a ser 46."
+},
+{
+"pregunta": "¿Qué ocurre en la meiosis I?",
+"opciones": [
+"Se separan los pares de cromosomas",
+"Se separan las copias de cada cromosoma",
+"Se forman células con todos los cromosomas"
+],
+"correcta": 0,
+"porque": "En la meiosis I se separan los pares, y en la II las copias."
+},
+{
+"pregunta": "¿Qué ocurre en la meiosis II?",
+"opciones": [
+"Se separan las copias",
+"Se separan los pares",
+"Se copia todo el ADN otra vez"
+],
+"correcta": 0,
+"porque": "La meiosis II separa las copias y deja 4 células."
+},
+{
+"pregunta": "¿Por qué los hermanos no son iguales?",
+"opciones": [
+"Porque todos los gametos son exactamente iguales",
+"Porque la meiosis copia todo igual que antes",
+"Porque cada gameto es distinto de los demás"
+],
+"correcta": 2,
+"porque": "La meiosis mezcla cromosomas, así que cada gameto es distinto."
+},
+{
+"pregunta": "¿Qué quiere decir haploide?",
+"opciones": [
+"Con la mitad de cromosomas",
+"Con el doble de cromosomas",
+"Sin ningún cromosoma"
+],
+"correcta": 0,
+"porque": "Un gameto haploide trae 23 cromosomas, la mitad de 46."
+}
+],
+"fases-de-la-mitosis-prepa": [
+{
+"pregunta": "¿Qué ocurre en la profase?",
+"opciones": [
+"Se forman los dos núcleos",
+"Los cromosomas se hacen visibles",
+"Los cromosomas se alinean en medio"
+],
+"correcta": 1,
+"porque": "En la profase los cromosomas se vuelven visibles."
+},
+{
+"pregunta": "¿Qué ocurre en la telofase?",
+"opciones": [
+"Se forman dos núcleos",
+"Los cromosomas se alinean",
+"Las copias se separan"
+],
+"correcta": 0,
+"porque": "En la telofase queda un núcleo en cada lado de la célula."
+},
+{
+"pregunta": "¿Cuál es el orden correcto de las fases?",
+"opciones": [
+"Profase, metafase, anafase y telofase",
+"Anafase, profase, metafase y telofase",
+"Metafase, profase, telofase y anafase"
+],
+"correcta": 0,
+"porque": "El orden es PMAT: pro, meta, ana y telo."
+},
+{
+"pregunta": "Una célula con 46 cromosomas hace mitosis. ¿Cuántos cromosomas tiene cada hija?",
+"opciones": [
+"92 cromosomas",
+"46 cromosomas",
+"23 cromosomas"
+],
+"correcta": 1,
+"porque": "La mitosis da células hijas iguales a la madre."
+},
+{
+"pregunta": "Te raspas la rodilla y sana. ¿Qué división ayuda?",
+"opciones": [
+"La citocinesis sola, sin núcleos",
+"La meiosis, que repara la piel",
+"La mitosis, que repara la piel"
+],
+"correcta": 2,
+"porque": "La mitosis sirve para crecer y reparar el cuerpo."
+}
+]
+}
