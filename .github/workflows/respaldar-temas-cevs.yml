@@ -1,0 +1,42 @@
+name: Respaldar temas de CEVS
+# Cada lunes a las 9:00 de Mérida (15:00 UTC) copia de Neon los temas que creó CEVS
+# a data/vivos y actualiza la hoja de revisión del maestro. También se puede correr a mano.
+on:
+  schedule:
+    - cron: "0 15 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: respaldo-cevs
+jobs:
+  respaldar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Revisar que exista la conexión a Neon
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: |
+          if [ -z "$DATABASE_URL" ]; then
+            echo "Falta el secreto DATABASE_URL en GitHub (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: npm ci
+      - name: Respaldar
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: npm run respaldar
+      - name: Guardar si hay temas nuevos
+        run: |
+          git add data/vivos
+          if git diff --cached --quiet; then
+            echo "Sin temas nuevos de CEVS."
+            exit 0
+          fi
+          git config user.name "respaldo-cevs"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "Respalda temas de CEVS ($(date +%Y-%m-%d))"
+          git push
