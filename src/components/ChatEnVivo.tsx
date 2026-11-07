@@ -202,7 +202,7 @@ export function ChatEnVivo({
               <Mensaje texto={t.content} />
             </div>
           ) : (
-            <Mensaje key={i} texto={t.content} />
+            <Mensaje key={i} texto={t.content} escuchar={materia === "Inglés"} />
           ),
         )}
         {pendiente && <p className="pensando">Pensando…</p>}

@@ -7,3 +7,4 @@ await prepararEsquema();
 const biblioteca = await leerBiblioteca();
 await sembrar(await bd(), biblioteca);
 console.log(`Cargados ${biblioteca.nodos.length} nodos y ${biblioteca.temas.length} temas.`);
+if (biblioteca.vivos.length) console.log(`Restaurados ${biblioteca.vivos.length} temas de CEVS.`);

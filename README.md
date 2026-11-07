@@ -39,8 +39,14 @@ Una escuela necesita el plan Pro porque el plan Hobby es solo para uso personal 
 ## Biblioteca
 
 - `data/temario/`: temas oficiales con documento y página.
-- `data/temas/`: 566 explicaciones, una por tema oficial.
+- `data/temas/`: 1,613 explicaciones.
+- `data/retos/`: 5 preguntas de Reto rápido por tema.
+- `data/vivos/`: respaldo de los temas que creó CEVS y hoja de revisión para el maestro.
 - `data/avance.json`: avance por nivel y materia.
+
+Neon no se actualiza solo: después de cambiar `data/`, corre `npm run cargar` antes de publicar. Los temas que crea CEVS sí se guardan solos en Neon; respáldalos cada semana con `npm run respaldar`.
+
+En Inglés y Español, cada tema trae voz (🔊) y práctica oral con el micrófono (🎤), usando la voz del navegador, sin IA.
 
 `npm run verificar` comprueba que cada tema exista literalmente en su PDF, que cada explicación apunte a un tema real y que las fórmulas se dibujen bien.
 
@@ -57,5 +63,6 @@ Para activarlo, sube el proyecto a un repositorio de GitHub.
 | `npm run dev` | Servidor local |
 | `npm test` | Pruebas |
 | `npm run verificar` | Revisión de la biblioteca |
-| `npm run cargar` | Carga la biblioteca en Neon |
+| `npm run cargar` | Carga la biblioteca en Neon y restaura los temas de CEVS respaldados |
+| `npm run respaldar` | Respalda los temas de CEVS y crea la hoja de revisión |
 | `npm run vigilar` | Busca cambios en documentos oficiales |

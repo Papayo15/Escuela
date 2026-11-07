@@ -91,10 +91,10 @@ export async function guardarTema(t: {
 }): Promise<void> {
   const db = await bd();
   await db.query(
-    `insert into temas (slug, nodo_id, titulo, contenido, origen, busqueda)
-     values ($1,$2,$3,$4::jsonb,$5, norm($3 || ' ' || $6))
+    `insert into temas (slug, nodo_id, titulo, contenido, origen, palabras, busqueda)
+     values ($1,$2,$3,$4::jsonb,$5,$6, norm($3 || ' ' || $6))
      on conflict (slug) do update set nodo_id=$2, titulo=$3, contenido=$4::jsonb,
-       origen=$5, busqueda=norm($3 || ' ' || $6)`,
+       origen=$5, palabras=$6, busqueda=norm($3 || ' ' || $6)`,
     [t.slug, t.nodo_id, t.titulo, JSON.stringify(t.contenido), t.origen, t.palabras.join(" ")],
   );
 }

@@ -8,6 +8,7 @@ import {
   perfilDeCookie,
   pinValido,
   progresoActivo,
+  siguienteRepaso,
 } from "./progreso";
 
 afterEach(() => vi.unstubAllEnvs());
@@ -81,5 +82,18 @@ describe("racha y calendario", () => {
   });
   it("usa la hora de México", () => {
     expect(hoyEnMexico(new Date("2026-11-07T03:00:00Z"))).toBe("2026-11-06");
+  });
+});
+
+describe("repaso espaciado", () => {
+  it("si falla, vuelve mañana", () => {
+    expect(siguienteRepaso(2, false, "2026-11-07")).toEqual({ nivel: 0, proximo: "2026-11-08" });
+  });
+  it("si acierta, se aleja: 3 días y luego una semana", () => {
+    expect(siguienteRepaso(0, true, "2026-11-07")).toEqual({ nivel: 1, proximo: "2026-11-10" });
+    expect(siguienteRepaso(1, true, "2026-11-07")).toEqual({ nivel: 2, proximo: "2026-11-14" });
+  });
+  it("tras tres aciertos ya la domina", () => {
+    expect(siguienteRepaso(2, true, "2026-11-07")).toBeNull();
   });
 });

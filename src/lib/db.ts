@@ -31,6 +31,7 @@ create table if not exists temas (
   busqueda text not null,
   creado timestamptz not null default now()
 );
+alter table temas add column if not exists palabras text not null default '';
 create index if not exists temas_busqueda on temas using gin (busqueda gin_trgm_ops);
 create index if not exists nodos_busqueda on nodos using gin (busqueda gin_trgm_ops);
 `;

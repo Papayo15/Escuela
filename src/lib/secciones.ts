@@ -4,6 +4,7 @@ export const SECCIONES = {
   truco: "El truco de oro",
   practica: "Práctica exprés",
   reto: "Reto rápido",
+  oral: "Dilo tú",
   tarea: "Tu tarea",
 } as const;
 

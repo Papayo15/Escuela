@@ -13,6 +13,8 @@ function textoDeSeccion(tema: Tema, seccion: Seccion): string {
       return truco;
     case "practica":
       return practica.ejercicio;
+    case "oral":
+      return idea;
     case "reto":
       return (reto ?? []).map((p, i) => `${i + 1}. ${p.pregunta}`).join("\n");
     case "tarea":

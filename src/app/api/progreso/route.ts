@@ -7,6 +7,7 @@ const intento = z
     slug: z.string().regex(/^[a-z0-9-]+$/).max(100),
     aciertos: z.number().int().min(0).max(20),
     total: z.number().int().min(1).max(20),
+    falladas: z.array(z.number().int().min(0).max(19)).max(20).default([]),
   })
   .refine((d) => d.aciertos <= d.total);
 
@@ -17,6 +18,6 @@ export async function POST(request: Request) {
   if (!id) return Response.json({ guardado: false });
   const datos = intento.safeParse(await request.json().catch(() => null));
   if (!datos.success) return Response.json({ error: "Datos no válidos." }, { status: 400 });
-  const { slug, aciertos, total } = datos.data;
-  return Response.json({ guardado: await registrarIntento(id, slug, aciertos, total) });
+  const { slug, aciertos, total, falladas } = datos.data;
+  return Response.json({ guardado: await registrarIntento(id, slug, aciertos, total, falladas) });
 }

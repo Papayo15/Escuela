@@ -5,9 +5,9 @@ import type { PreguntaReto } from "@/lib/schema-tema";
 import { Mensaje } from "./Mensaje";
 
 /** Se califica en el navegador: no gasta IA y funciona en los dos planes. */
-type Props = { preguntas: PreguntaReto[]; slug: string; guardar: boolean };
+type Props = { preguntas: PreguntaReto[]; slug: string; guardar: boolean; escuchar?: boolean };
 
-export function RetoRapido({ preguntas, slug, guardar }: Props) {
+export function RetoRapido({ preguntas, slug, guardar, escuchar = false }: Props) {
   const [elegidas, setElegidas] = useState<Record<number, number>>({});
   const contestadas = Object.keys(elegidas).length;
   const aciertos = preguntas.filter((p, i) => elegidas[i] === p.correcta).length;
@@ -18,10 +18,11 @@ export function RetoRapido({ preguntas, slug, guardar }: Props) {
     // Con el progreso encendido, al terminar se guarda el resultado (si el alumno entró a su perfil).
     if (guardar && Object.keys(nuevas).length === preguntas.length) {
       const total = preguntas.filter((p, k) => nuevas[k] === p.correcta).length;
+      const falladas = preguntas.flatMap((p, k) => (nuevas[k] === p.correcta ? [] : [k]));
       void fetch("/api/progreso", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ slug, aciertos: total, total: preguntas.length }),
+        body: JSON.stringify({ slug, aciertos: total, total: preguntas.length, falladas }),
       }).catch(() => undefined);
     }
   };
@@ -34,7 +35,7 @@ export function RetoRapido({ preguntas, slug, guardar }: Props) {
         return (
           <fieldset key={p.pregunta} className="reto-pregunta">
             <legend className="oculto">Pregunta {i + 1}</legend>
-            <Mensaje texto={`${i + 1}. ${p.pregunta}`} />
+            <Mensaje texto={`${i + 1}. ${p.pregunta}`} escuchar={escuchar} />
             {p.opciones.map((o, j) => {
               const clase = !lista ? "" : j === p.correcta ? " bien" : j === elegida ? " mal" : "";
               return (
@@ -52,7 +53,7 @@ export function RetoRapido({ preguntas, slug, guardar }: Props) {
             {lista && (
               <div role="status" className="reto-porque">
                 <strong>{elegida === p.correcta ? "¡Bien!" : "Casi."}</strong>
-                <Mensaje texto={p.porque} />
+                <Mensaje texto={p.porque} escuchar={escuchar} />
               </div>
             )}
           </fieldset>

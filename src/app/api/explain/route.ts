@@ -3,7 +3,7 @@ import { contextoTema } from "@/lib/contexto-tema";
 import { chatDisponible, COOKIE_ACCESO, planDeCookie } from "@/lib/acceso";
 import { guardarTemaVivo } from "@/lib/guardar-tema-vivo";
 import { ASISTENTE } from "@/lib/marca";
-import { esModeloPrincipal, type MensajeChat } from "@/lib/openrouter";
+import type { MensajeChat } from "@/lib/openrouter";
 import { PROMPT } from "@/lib/pedagogical-prompt";
 import { respuestaEnVivo } from "@/lib/stream-chat";
 import { buscarTemas, obtenerTema } from "@/lib/temas";
@@ -63,7 +63,8 @@ export async function POST(request: Request) {
     mensajes: [{ role: "system", content: PROMPT }, ...mensajes],
     signal: request.signal,
     alTerminar: async (texto, modelo, enviar) => {
-      if (solicitud.modo !== "tema-nuevo" || !esModeloPrincipal(modelo)) return;
+      // Se guarda sin importar qué modelo respondió: la revisión decide si es apto.
+      if (solicitud.modo !== "tema-nuevo") return;
       try {
         const slug = await guardarTemaVivo(solicitud.messages[0].content, texto);
         if (slug) enviar({ tipo: "guardado", slug });

@@ -7,6 +7,7 @@ import { randomBytes, randomUUID, scrypt, timingSafeEqual } from "node:crypto";
 import { promisify } from "node:util";
 import { accesoActivo, igualesSeguro } from "./acceso";
 import { bd } from "./db";
+import type { PreguntaReto } from "./schema-tema";
 
 export const COOKIE_PERFIL = "perfil_alumno";
 export const DURACION_PERFIL = 60 * 60 * 24 * 180;
@@ -36,6 +37,14 @@ const ESQUEMA_PROGRESO = [
     creado timestamptz not null default now()
   )`,
   `create index if not exists intentos_alumno on intentos (alumno_id, creado)`,
+  `create table if not exists repasos (
+    alumno_id text not null references alumnos(id) on delete cascade,
+    slug text not null,
+    pregunta integer not null check (pregunta between 0 and 19),
+    nivel integer not null default 0,
+    proximo text not null,
+    primary key (alumno_id, slug, pregunta)
+  )`,
 ];
 
 let listo: Promise<void> | undefined;
@@ -160,7 +169,13 @@ export async function borrarAlumno(id: string): Promise<void> {
 
 // ---------- Intentos y resumen ----------
 
-export async function registrarIntento(id: string, slug: string, aciertos: number, total: number) {
+export async function registrarIntento(
+  id: string,
+  slug: string,
+  aciertos: number,
+  total: number,
+  falladas: number[] = [],
+) {
   await preparar();
   const db = await bd();
   const [tema] = await db.query(`select 1 from temas where slug = $1`, [slug]);
@@ -169,6 +184,70 @@ export async function registrarIntento(id: string, slug: string, aciertos: numbe
     `insert into intentos (alumno_id, slug, aciertos, total) values ($1, $2, $3, $4)`,
     [id, slug, aciertos, total],
   );
+  // Cada pregunta fallada vuelve mañana para repasarla.
+  const manana = sumarDias(hoyEnMexico(), INTERVALOS[0]);
+  for (const pregunta of new Set(falladas)) {
+    await db.query(
+      `insert into repasos (alumno_id, slug, pregunta, nivel, proximo) values ($1, $2, $3, 0, $4)
+       on conflict (alumno_id, slug, pregunta) do update set nivel = 0, proximo = $4`,
+      [id, slug, pregunta, manana],
+    );
+  }
+  return true;
+}
+
+// ---------- Repaso espaciado ----------
+
+/** Días hasta el siguiente repaso: mañana, en 3 días y en una semana. */
+export const INTERVALOS = [1, 3, 7];
+
+const sumarDias = (fechaIso: string, dias: number) => restarDias(fechaIso, -dias);
+
+/** Si acierta, el repaso se aleja; si falla, vuelve mañana. Tras 3 aciertos seguidos ya la domina. */
+export function siguienteRepaso(nivel: number, acierto: boolean, hoy: string) {
+  if (!acierto) return { nivel: 0, proximo: sumarDias(hoy, INTERVALOS[0]) };
+  const siguiente = nivel + 1;
+  if (siguiente >= INTERVALOS.length) return null;
+  return { nivel: siguiente, proximo: sumarDias(hoy, INTERVALOS[siguiente]) };
+}
+
+export type Repaso = {
+  slug: string;
+  pregunta: number;
+  titulo: string;
+  materia: string;
+  datos: PreguntaReto;
+};
+
+export async function repasosDeHoy(id: string, limite = 10): Promise<Repaso[]> {
+  await preparar();
+  const filas = await (await bd()).query<Omit<Repaso, "datos"> & { datos: PreguntaReto | null }>(
+    `select r.slug, r.pregunta, t.titulo, n.materia, t.contenido -> 'reto' -> r.pregunta as datos
+     from repasos r join temas t on t.slug = r.slug join nodos n on n.id = t.nodo_id
+     where r.alumno_id = $1 and r.proximo <= $2
+     order by r.proximo, r.slug, r.pregunta limit $3`,
+    [id, hoyEnMexico(), limite],
+  );
+  return filas.filter((f): f is Repaso => f.datos !== null);
+}
+
+export async function responderRepaso(id: string, slug: string, pregunta: number, acierto: boolean) {
+  await preparar();
+  const db = await bd();
+  const [actual] = await db.query<{ nivel: number }>(
+    `select nivel from repasos where alumno_id = $1 and slug = $2 and pregunta = $3`,
+    [id, slug, pregunta],
+  );
+  if (!actual) return false;
+  const siguiente = siguienteRepaso(actual.nivel, acierto, hoyEnMexico());
+  if (siguiente) {
+    await db.query(
+      `update repasos set nivel = $4, proximo = $5 where alumno_id = $1 and slug = $2 and pregunta = $3`,
+      [id, slug, pregunta, siguiente.nivel, siguiente.proximo],
+    );
+  } else {
+    await db.query(`delete from repasos where alumno_id = $1 and slug = $2 and pregunta = $3`, [id, slug, pregunta]);
+  }
   return true;
 }
 

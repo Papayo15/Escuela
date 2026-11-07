@@ -163,7 +163,7 @@ export async function pedirJson(opciones: {
   esquema: object;
 }): Promise<string | null> {
   const respuesta = await solicitar({
-    model: modelos()[0],
+    models: modelos(),
     max_tokens: 8000,
     messages: [
       { role: "system", content: opciones.sistema },

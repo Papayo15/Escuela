@@ -21,10 +21,12 @@ const POR_GRUPO = {
     { etiqueta: "Reacción", texto: "$\\ce{A + B -> C}$" },
   ],
   lengua: [
+    { etiqueta: "💬 Practiquemos", texto: "Practiquemos este tema: tú me pides algo y yo lo escribo, y me corriges." },
     { etiqueta: "Idea principal", texto: "La idea principal es ___" },
     { etiqueta: "Lo que opino", texto: "Opino que ___ porque ___" },
   ],
   ingles: [
+    { etiqueta: "💬 Platiquemos en inglés", texto: "Practiquemos una conversación en inglés sobre este tema. Tú empiezas." },
     { etiqueta: "I think", texto: "I think ___ because ___" },
     { etiqueta: "Cómo se dice", texto: "¿Cómo se dice ___ en inglés?" },
   ],
@@ -74,6 +76,7 @@ const SUGERENCIAS: Record<Seccion, string> = {
   truco: "¿Cómo lo uso en mi escuela?",
   practica: "Dame una pista",
   reto: "No entendí esta pregunta",
+  oral: "¿Cómo se pronuncia mejor?",
   tarea: "Dame una pista, no la respuesta",
 };
 

@@ -37,7 +37,9 @@ export function erroresFormula(texto: string): string[] {
 }
 
 const raiz = process.cwd();
-const { nodos, temas } = await leerBiblioteca(raiz);
+const { nodos, temas: deBiblioteca, vivos } = await leerBiblioteca(raiz);
+const temas = [...deBiblioteca, ...vivos];
+if (vivos.length) console.log(`temas de CEVS respaldados: ${vivos.length}`);
 const errores: string[] = [];
 const cache = new Map<string, string[]>();
 const ids = new Set<string>();

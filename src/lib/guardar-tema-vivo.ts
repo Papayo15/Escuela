@@ -1,5 +1,6 @@
 import { pedirJson } from "./openrouter";
 import { aSlug, existeNodo, guardarTema, nodosCandidatos, obtenerTema } from "./temas";
+import { retoDesdeModelo, type PreguntaModelo } from "./reto";
 import { contenidoTema } from "./schema-tema";
 
 const ejercicio = {
@@ -34,8 +35,9 @@ function esquema(ids: string[]) {
             },
           },
           ejercicios: { type: "array", items: ejercicio },
+          reto: { type: "array", items: preguntaReto },
         },
-        required: ["idea", "pizarron", "truco", "practica", "analogias", "ejercicios"],
+        required: ["idea", "pizarron", "truco", "practica", "analogias", "ejercicios", "reto"],
         additionalProperties: false,
       },
     },
@@ -44,13 +46,27 @@ function esquema(ids: string[]) {
   };
 }
 
+const preguntaReto = {
+  type: "object",
+  properties: {
+    pregunta: { type: "string" },
+    correcta: { type: "string" },
+    malas: { type: "array", items: { type: "string" } },
+    porque: { type: "string" },
+  },
+  required: ["pregunta", "correcta", "malas", "porque"],
+  additionalProperties: false,
+};
+
 const INSTRUCCIONES = `Revisas una explicación generada para un alumno antes de agregarla a una biblioteca escolar basada en el temario oficial de la SEP.
 
 Decide con criterio estricto:
 - nodo_id: elige solo un nodo de la lista si la explicación desarrolla ese contenido o un subtema directo de él. Si no corresponde claramente, usa "ninguno".
 - apto: true solo si es un tema académico general, no contiene datos personales ni anécdotas del alumno, y los cálculos, respuestas y afirmaciones son correctos y adecuados al nivel.
 - titulo: título académico breve y neutro. No copies la pregunta del alumno.
-- contenido: reorganiza la explicación en el formato pedido. analogias lleva exactamente dos analogías distintas de la principal; ejercicios lleva exactamente tres ejercicios con respuesta. La explicación no trae la respuesta de la práctica: calcúlala y verifícala tú. Usa Markdown y LaTeX ($...$, \\ce{...}).`;
+- contenido: reorganiza la explicación en el formato pedido. analogias lleva exactamente dos analogías distintas de la principal; ejercicios lleva exactamente tres ejercicios con respuesta. La explicación no trae la respuesta de la práctica: calcúlala y verifícala tú. Usa Markdown y LaTeX ($...$, \\ce{...}).
+- contenido.reto: exactamente 5 preguntas de opción múltiple para el Reto rápido, que un niño de 5 a 7 años entienda. Pregunta solo lo que enseña la explicación, sin repetir la práctica ni los ejercicios. Cada una lleva la respuesta correcta en "correcta", 2 respuestas incorrectas creíbles en "malas", con largo parecido a la correcta, y en "porque" una frase corta que explique la correcta. Verifica que solo una opción sea correcta. Al menos una pregunta debe ser una situación de la escuela.
+- Todo el contenido debe ser sencillo, como el de la biblioteca: oraciones cortas y ejemplos de la vida diaria.`;
 
 export async function guardarTemaVivo(pregunta: string, explicacion: string): Promise<string | null> {
   const candidatos = await nodosCandidatos(`${pregunta} ${explicacion.slice(0, 300)}`);
@@ -71,13 +87,15 @@ export async function guardarTemaVivo(pregunta: string, explicacion: string): Pr
     apto: boolean;
     titulo: string;
     palabras: string[];
-    contenido: unknown;
+    contenido: { reto?: PreguntaModelo[] } & Record<string, unknown>;
   };
   if (!r.apto || r.nodo_id === "ninguno" || !(await existeNodo(r.nodo_id))) return null;
 
-  const contenido = contenidoTema.safeParse(r.contenido);
   const slug = aSlug(r.titulo);
-  if (!contenido.success || !slug || (await obtenerTema(slug))) return null;
+  // Un tema nuevo debe traer todo, como la biblioteca: si falta el Reto rápido, no se guarda.
+  const reto = slug ? retoDesdeModelo(slug, r.contenido.reto ?? []) : null;
+  const contenido = contenidoTema.safeParse({ ...r.contenido, reto });
+  if (!reto || !contenido.success || !slug || (await obtenerTema(slug))) return null;
 
   await guardarTema({
     slug,

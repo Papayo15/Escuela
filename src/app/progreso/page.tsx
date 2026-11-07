@@ -3,7 +3,8 @@ import { cookies } from "next/headers";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FormularioPerfil, SalirPerfil } from "@/components/FormularioPerfil";
-import { COOKIE_PERFIL, perfilDeCookie, progresoActivo, resumenAlumno } from "@/lib/progreso";
+import { RepasoHoy } from "@/components/RepasoHoy";
+import { COOKIE_PERFIL, perfilDeCookie, progresoActivo, repasosDeHoy, resumenAlumno } from "@/lib/progreso";
 
 export const metadata: Metadata = { title: "Mi progreso" };
 
@@ -15,6 +16,7 @@ export default async function PaginaProgreso() {
   if (!progresoActivo()) notFound();
   const id = await perfilDeCookie(galleta);
   const resumen = id ? await resumenAlumno(id) : null;
+  const repasos = resumen && id ? await repasosDeHoy(id) : [];
 
   return (
     <main className="pagina">
@@ -30,6 +32,11 @@ export default async function PaginaProgreso() {
             <div className="cifra"><strong>{resumen.temas}</strong><span>{resumen.temas === 1 ? "tema practicado" : "temas practicados"}</span></div>
             <div className="cifra"><strong>{resumen.promedio ?? "—"}{resumen.promedio !== null && "%"}</strong><span>aciertos</span></div>
           </div>
+
+          <section className="bloque">
+            <h2>🔁 Para repasar hoy{repasos.length > 0 && ` (${repasos.length})`}</h2>
+            <RepasoHoy repasos={repasos} />
+          </section>
 
           <section className="bloque">
             <h2>Últimos 14 días</h2>

@@ -10,6 +10,7 @@
     "test": "vitest run",
     "verificar": "tsx scripts/verificar-biblioteca.mts",
     "cargar": "tsx --env-file-if-exists=.env.local scripts/cargar-temas.mts",
+    "respaldar": "tsx --env-file-if-exists=.env.local scripts/respaldar-vivos.mts",
     "vigilar": "tsx scripts/vigilar-fuentes.mts"
   },
   "dependencies": {
