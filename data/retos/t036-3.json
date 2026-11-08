@@ -261,33 +261,33 @@
 ],
 "primer-programa-en-python-prepa": [
 {
-"pregunta": "Si nombre vale Luis, ¿qué muestra `print(\"Hola\", nombre)`?",
+"pregunta": "`print(\"Hola\", nombre)` escribe en la pantalla Hola y lo que guarda la caja *nombre*. Si *nombre* guarda Luis, ¿qué sale?",
 "opciones": [
 "Hola nombre",
 "Hola Luis",
 "nombre Hola"
 ],
 "correcta": 1,
-"porque": "Print muestra el texto y el valor que guarda la variable."
+"porque": "Print escribe lo que guarda la caja, no la palabra \"nombre\"."
 },
 {
-"pregunta": "¿Por qué se usa `int(input())` para sumar?",
+"pregunta": "`input` pregunta y guarda lo que escribes como texto. ¿Para qué se le pone `int` antes de sumar?",
 "opciones": [
-"Convierte el dato en número",
-"Hace el texto más largo",
-"Borra lo que escribes"
+"Para borrar lo que escribiste",
+"Para convertirlo en número",
+"Para hacer el texto más largo"
 ],
-"correcta": 0,
-"porque": "Lo que pide input es texto, y int lo convierte a número."
+"correcta": 1,
+"porque": "Con `int`, lo que escribiste se vuelve número y ya se puede sumar."
 },
 {
-"pregunta": "Si escribes 4 en `n = int(input())` y se muestra `n + 1`, ¿qué sale?",
+"pregunta": "Un programa pide un número, lo guarda en *n* y escribe *n* más 1. Si escribes 4, ¿qué sale?",
 "opciones": [
-"5",
+"41",
 "4",
-"41"
+"5"
 ],
-"correcta": 0,
+"correcta": 2,
 "porque": "Cuatro más uno es cinco."
 },
 {

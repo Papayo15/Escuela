@@ -73,3 +73,9 @@ pregunta || respuesta correcta || mala || mala || por qué es correcta
 - Pueden ir 2 o 3 opciones malas, creíbles y basadas en errores comunes.
 - Usa solo lo que enseña el tema, con el mismo estilo sencillo y ejemplos de la escuela.
 - No repitas los ejercicios de la tarea ni de la práctica.
+
+## Programación y hojas de cálculo
+
+- Títulos y explicación solo en español. Los pasos van primero en español, en un bloque `text`: `repite 3 veces: escribe "Hola"`.
+- El código real va al final, con el título **Así lo escribe la computadora (en Python):**, y después la traducción de cada palabra en inglés: `print` = **escribe en la pantalla**.
+- Las preguntas del Reto rápido con código dicen en español qué hace el código, dentro de la misma pregunta.

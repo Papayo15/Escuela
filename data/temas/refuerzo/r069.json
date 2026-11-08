@@ -383,7 +383,7 @@
 }
 ],
 "idea": "Una computadora es como una persona: tiene cerebro, memoria, ojos y manos.",
-"pizarron": "**Qué es:** una computadora es una máquina que recibe datos, los procesa y da resultados.\n\n**Imagínalo:** la memoria es tu escritorio y el disco tu librero.\n\n**Hardware:** partes físicas.\n\n- **CPU:** procesa.\n- **RAM:** memoria de trabajo.\n- **Disco:** guarda.\n- **Entrada:** teclado, ratón.\n- **Salida:** pantalla, bocina.\n\n**Software:** programas.\n\n**Para tu escuela:** nombra las partes de una computadora de tu escuela.",
+"pizarron": "**Qué es:** una computadora es una máquina que recibe datos, los procesa y da resultados.\n\n**Imagínalo:** la memoria es tu escritorio y el disco tu librero.\n\n**Hardware:** partes físicas.\n\n- **CPU:** el cerebro de la computadora; hace todas las cuentas.\n- **RAM:** la mesa de trabajo; guarda lo que usas ahorita y se borra al apagar.\n- **Disco:** guarda.\n- **Entrada:** teclado, ratón.\n- **Salida:** pantalla, bocina.\n\n**Software:** programas.\n\n**Para tu escuela:** nombra las partes de una computadora de tu escuela.",
 "truco": "Hardware se toca; software no.",
 "practica": {
 "ejercicio": "¿Qué parte es el cerebro?",
@@ -470,7 +470,7 @@
 }
 ],
 "idea": "Una foto ocupa espacio en tu teléfono, como la ropa en un cajón.",
-"pizarron": "**Qué es:** las unidades miden información.\n\n**Imagínalo:** bytes y gigabytes son como vasos y garrafones de agua.\n\n**Bit:** 0 o 1.\n\n**Byte:** 8 bits.\n\n**Kilobyte (KB):** mil bytes.\n\n**Megabyte (MB):** mil KB.\n\n**Gigabyte (GB):** mil MB.\n\n**Terabyte (TB):** mil GB.\n\n**Ejemplo:** 2 GB son 2000 MB.\n\nUna foto ocupa unos MB.\n\n**Para tu escuela:** revisa cuánto espacio tiene tu celular.",
+"pizarron": "**Qué es:** las unidades miden información.\n\n**Imagínalo:** bytes y gigabytes son como vasos y garrafones de agua.\n\n**Bit:** la pieza más chiquita de información; es un 0 o un 1, como un foco apagado o prendido.\n\n**Byte:** 8 bits.\n\n**Kilobyte (KB):** mil bytes.\n\n**Megabyte (MB):** mil KB.\n\n**Gigabyte (GB):** mil MB.\n\n**Terabyte (TB):** mil GB.\n\n**Ejemplo:** 2 GB son 2000 MB.\n\nUna foto ocupa unos MB.\n\n**Para tu escuela:** revisa cuánto espacio tiene tu celular.",
 "truco": "Cada escalón multiplica por mil.",
 "practica": {
 "ejercicio": "¿Cuántos bits tiene un byte?",
@@ -557,8 +557,8 @@
 }
 ],
 "idea": "Una variable es una caja con etiqueta donde guardas un dato.",
-"pizarron": "**Qué es:** una variable es un espacio con nombre donde un programa guarda un valor.\n\n**Imagínalo:** una variable es una caja con etiqueta.\n\n```python\nedad = 15\nnombre = \"Ana\"\n```\n\n**Tipos:**\n\n- **Entero:** 5.\n- **Decimal:** 3.14.\n- **Texto:** \"hola\".\n- **Booleano:** True o False.\n\nPuedes cambiar el valor: `edad = 16`.\n\n**Para tu escuela:** guarda tu edad y tu nombre como variables.",
-"truco": "Nombre, igual y valor.",
+"pizarron": "**Qué es:** una variable es un espacio con nombre donde un programa guarda un dato para usarlo después.\n\n**Imagínalo:** una caja con una etiqueta. En la etiqueta dice *edad* y adentro guardas el número 15.\n\n**Los pasos en español:**\n\n```text\nguarda 15 en la caja edad\nguarda \"Ana\" en la caja nombre\n```\n\n**Qué puede haber dentro de la caja:**\n\n- **Número entero:** sin punto, como 5.\n- **Número decimal:** con punto, como 3.14.\n- **Texto:** palabras entre comillas, como \"hola\".\n- **Verdadero o falso:** solo puede ser una de las dos.\n\nPuedes cambiar lo que hay en la caja: si después guardas 16, la caja ya tiene 16.\n\n**Así lo escribe la computadora (en Python):**\n\n```python\nedad = 15\nnombre = \"Ana\"\n```\n\nLas computadoras entienden órdenes en inglés. Esta es la traducción de cada palabra:\n\n- El signo `=` quiere decir **guarda**, no \"es igual\".\n- Verdadero se escribe `True` y falso se escribe `False`.\n\n**Para tu escuela:** piensa en dos cajas: una con tu edad y otra con tu nombre.",
+"truco": "Nombre de la caja, el signo igual y lo que guardas.",
 "practica": {
 "ejercicio": "¿Qué tipo es \"hola\"?",
 "respuesta": "Texto."
@@ -601,8 +601,8 @@
 }
 ],
 "idea": "Si llueve, llevas paraguas; si no, no. Los programas deciden igual.",
-"pizarron": "**Qué es:** un condicional ejecuta código según si algo es verdadero.\n\n**Imagínalo:** un semáforo: si está en verde avanzas, y si está en rojo te detienes.\n\n```python\nedad = 18\nif edad >= 18:\n    print(\"Adulto\")\nelse:\n    print(\"Menor\")\n```\n\n**Comparadores:** `==`, `!=`, `>`, `<`.\n\nLa sangría indica lo que va dentro.\n\n**Para tu escuela:** escribe un *si... entonces* de tu día.",
-"truco": "Si pasa, haz esto; si no, aquello.",
+"pizarron": "**Qué es:** un condicional hace que el programa decida: si algo es verdad hace una cosa, y si no, hace otra.\n\n**Imagínalo:** un semáforo. Si está en verde, avanzas. Si no, te detienes.\n\n**Los pasos en español:**\n\n```text\nguarda 18 en la caja edad\nsi edad es 18 o más:\n    escribe \"Adulto\"\nsi no:\n    escribe \"Menor\"\n```\n\nLo que está más adentro es lo que se hace en cada caso.\n\n**Signos para comparar:**\n\n- `==` es igual a.\n- `!=` es diferente de.\n- `>` es mayor que, y `<` es menor que.\n- `>=` es mayor o igual que.\n\n**Así lo escribe la computadora (en Python):**\n\n```python\nedad = 18\nif edad >= 18:\n    print(\"Adulto\")\nelse:\n    print(\"Menor\")\n```\n\nLas computadoras entienden órdenes en inglés. Esta es la traducción de cada palabra:\n\n- `if` = **si**.\n- `else` = **si no**.\n- `print` = **escribe en la pantalla**.\n\n**Para tu escuela:** di una regla de tu día con *si* y *si no*: si hay tarea, la hago; si no, juego.",
+"truco": "Si pasa algo, haz esto; si no, haz aquello.",
 "practica": {
 "ejercicio": "¿Qué imprime con edad = 12?",
 "respuesta": "Menor."
@@ -645,8 +645,8 @@
 }
 ],
 "idea": "Para escribir 100 veces una frase, le pides a la computadora que repita sola.",
-"pizarron": "**Qué es:** un ciclo repite instrucciones.\n\n**Imagínalo:** dar diez vueltas a la cancha sin que te lo repitan.\n\n**For:** veces conocidas.\n\n```python\nfor i in range(3):\n    print(\"Hola\")\n```\n\n**While:** mientras se cumpla algo.\n\n```python\nn = 0\nwhile n < 3:\n    n = n + 1\n```\n\nCuidado: un ciclo que nunca acaba se llama **infinito**.\n\n**Para tu escuela:** escribe un ciclo para repartir hojas.",
-"truco": "For cuenta; while vigila.",
+"pizarron": "**Qué es:** un ciclo hace que el programa repita instrucciones sin que las escribas muchas veces.\n\n**Imagínalo:** el maestro dice \"da 3 vueltas a la cancha\" una sola vez, y tú das las 3 vueltas.\n\n**Repetir un número de veces**\n\n```text\nrepite 3 veces:\n    escribe \"Hola\"\n```\n\nEn la pantalla sale Hola, Hola, Hola.\n\n**Repetir mientras algo sea verdad**\n\n```text\nguarda 0 en la caja n\nmientras n sea menor que 3:\n    súmale 1 a n\n```\n\nLa caja va 0, 1, 2, 3 y se detiene, porque 3 ya no es menor que 3.\n\n**Cuidado:** un ciclo que nunca se detiene se llama **infinito**.\n\n**Así lo escribe la computadora (en Python):**\n\n```python\nfor i in range(3):\n    print(\"Hola\")\n\nn = 0\nwhile n < 3:\n    n = n + 1\n```\n\nLas computadoras entienden órdenes en inglés. Esta es la traducción de cada palabra:\n\n- `for i in range(3)` = **repite 3 veces**.\n- `print` = **escribe en la pantalla**.\n- `while` = **mientras**.\n\n**Para tu escuela:** \"a cada alumno, dale una hoja\" es un ciclo: se repite hasta que todos tienen su hoja.",
+"truco": "Repetir contando, o repetir mientras algo sea verdad.",
 "practica": {
 "ejercicio": "¿Cuántas veces imprime el `for` anterior?",
 "respuesta": "3 veces."
@@ -689,8 +689,8 @@
 }
 ],
 "idea": "Una licuadora recibe fruta y regresa licuado. Una función recibe datos y regresa un resultado.",
-"pizarron": "**Qué es:** una función es un bloque de código con nombre que se puede reutilizar.\n\n**Imagínalo:** una licuadora: entra fruta y sale jugo.\n\n```python\ndef suma(a, b):\n    return a + b\n\nprint(suma(2, 3))\n```\n\nImprime 5.\n\n**Parámetros:** datos de entrada.\n\n**Return:** resultado.\n\nEvitan repetir código.\n\n**Para tu escuela:** escribe una función que salude.",
-"truco": "Entra dato, sale resultado.",
+"pizarron": "**Qué es:** una función es un grupo de instrucciones con nombre que puedes usar muchas veces.\n\n**Imagínalo:** una licuadora. Le metes fruta y te regresa un licuado. Una función recibe datos y te regresa un resultado.\n\n**Los pasos en español:**\n\n```text\ncrea la máquina suma, que recibe a y b:\n    regresa a más b\n\nescribe lo que regresa suma con 2 y 3\n```\n\nEn la pantalla sale 5.\n\n**Datos de entrada:** lo que recibe la máquina, como *a* y *b*. También se llaman **parámetros**.\n\n**Para qué sirven:** escribes la máquina una vez y la usas cuantas veces quieras.\n\n**Así lo escribe la computadora (en Python):**\n\n```python\ndef suma(a, b):\n    return a + b\n\nprint(suma(2, 3))\n```\n\nLas computadoras entienden órdenes en inglés. Esta es la traducción de cada palabra:\n\n- `def` = **crea una función**.\n- `return` = **regresa**.\n- `print` = **escribe en la pantalla**.\n\n**Para tu escuela:** imagina una máquina *saludar* que reciba un nombre y diga \"Hola\" con ese nombre.",
+"truco": "La máquina recibe datos y regresa un resultado.",
 "practica": {
 "ejercicio": "¿Qué hace `return`?",
 "respuesta": "Devuelve el resultado."
@@ -776,8 +776,8 @@
 }
 ],
 "idea": "Unas pocas líneas bastan para que la computadora te salude por tu nombre.",
-"pizarron": "**Qué es:** Python es un lenguaje de programación fácil de leer.\n\n**Imagínalo:** escribes una orden y la computadora te obedece.\n\n```python\nnombre = input(\"¿Cómo te llamas? \")\nprint(\"Hola\", nombre)\n```\n\n**Print:** muestra en pantalla.\n\n**Input:** pide un dato.\n\nPara sumar, convierte a número:\n\n```python\nn = int(input(\"Número: \"))\nprint(n + 1)\n```\n\nPrueba en un sitio como Python.org o en tu computadora.\n\n**Para tu escuela:** escribe un programa que diga tu nombre.",
-"truco": "Input pide y print muestra.",
+"pizarron": "**Qué es:** Python es un lenguaje para darle órdenes a la computadora.\n\n**Imagínalo:** le escribes una orden a la computadora y ella la cumple.\n\n**Los pasos en español:**\n\n```text\npregunta \"¿Cómo te llamas?\" y guarda la respuesta en la caja nombre\nescribe \"Hola\" y lo que tiene la caja nombre\n```\n\n**Para hacer cuentas con lo que escriben:**\n\n```text\npide un número, conviértelo en número y guárdalo en la caja n\nescribe n más 1\n```\n\nSi escribes 7, en la pantalla sale 8. Hay que convertirlo porque la computadora recibe lo que escribes como texto, y el texto no se puede sumar.\n\n**Así lo escribe la computadora (en Python):**\n\n```python\nnombre = input(\"¿Cómo te llamas? \")\nprint(\"Hola\", nombre)\n\nn = int(input(\"Número: \"))\nprint(n + 1)\n```\n\nLas computadoras entienden órdenes en inglés. Esta es la traducción de cada palabra:\n\n- `input` = **pregunta y espera la respuesta**.\n- `print` = **escribe en la pantalla**.\n- `int` = **conviértelo en número entero**.\n\nPuedes probarlo en python.org o en una computadora con Python.\n\n**Para tu escuela:** piensa en un programa que pregunte tu nombre y te salude.",
+"truco": "Preguntar, guardar en una caja y escribir en la pantalla.",
 "practica": {
 "ejercicio": "¿Qué hace `print`?",
 "respuesta": "Muestra en pantalla."
@@ -949,8 +949,8 @@
 }
 ],
 "idea": "Una hoja de cálculo hace cuentas sola. Solo le dices qué sumar.",
-"pizarron": "**Qué es:** una hoja de cálculo organiza datos en filas y columnas, y usa fórmulas.\n\n**Imagínalo:** una tabla que hace cuentas sola.\n\n**Celda:** A1.\n\nToda fórmula inicia con `=`.\n\n`=A1+B1`: suma.\n\n`=SUMA(A1:A10)`: suma un rango.\n\n`=PROMEDIO(A1:A10)`.\n\n`=MAX(A1:A10)`.\n\n`=SI(A1>=6,\"Aprobado\",\"Reprobado\")`.\n\n**Para tu escuela:** saca tu promedio con una fórmula.",
-"truco": "Toda fórmula empieza con igual.",
+"pizarron": "**Qué es:** una hoja de cálculo es una tabla de filas y columnas que hace cuentas sola con fórmulas.\n\n**Imagínalo:** una tabla mágica. Escribes los números y ella hace la suma.\n\n**Celda:** cada cuadrito tiene nombre con letra y número. **A1** es la columna A, fila 1.\n\n**Regla:** toda fórmula empieza con el signo `=`.\n\n**Las fórmulas más usadas:**\n\n- `=A1+B1`: suma lo que hay en A1 y en B1.\n- `=SUMA(A1:A10)`: suma todo de A1 hasta A10. Los dos puntos quieren decir **hasta**.\n- `=PROMEDIO(A1:A10)`: saca el promedio de A1 hasta A10.\n- `=MAX(A1:A10)`: busca el número más grande de A1 hasta A10. MAX viene de **máximo**.\n- `=SI(A1>=6,\"Aprobado\",\"Reprobado\")`: si A1 es 6 o más, escribe Aprobado; si no, escribe Reprobado.\n\n**Ejemplo:** si A1 vale 4 y B1 vale 9, `=A1+B1` da 13.\n\n**Para tu escuela:** escribe tus calificaciones en una columna y usa `=PROMEDIO` para sacar tu promedio.",
+"truco": "Toda fórmula empieza con igual, y los dos puntos quieren decir hasta.",
 "practica": {
 "ejercicio": "¿Cómo sumas de A1 a A5?",
 "respuesta": "`=SUMA(A1:A5)`"

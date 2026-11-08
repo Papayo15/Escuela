@@ -60,7 +60,7 @@
 ],
 "contenido": {
 "idea": "Una licencia es como las reglas para usar un juguete prestado. Algunos juguetes solo puedes usarlos, sin abrirlos; otros te dejan abrirlos, cambiarlos y compartirlos con tus amigos.",
-"pizarron": "**Qué es:** una licencia es el permiso que dice qué puedes hacer con un programa.\n\n**Imagínalo:** una licencia es el reglamento de un juego prestado.\n\n**Privativa:** no puedes ver ni cambiar el código.\n\n**Libre:** puedes usar, estudiar, copiar y mejorar. Linux y LibreOffice.\n\nLibre no siempre significa gratis.\n\nAntes de instalar, revisa si tu equipo cumple los requisitos.\n\n**Antes de aceptar:** revisa qué usos permite, su costo y qué datos pide.\n\n**Libre** no significa gratis: habla de tu libertad de usar el programa.\n\n**Requerimientos:** si una app pide más memoria de la que tienes, falla el hardware.\n\n**Para tu escuela:** busca un programa libre para hacer presentaciones.",
+"pizarron": "**Qué es:** una licencia es el permiso que dice qué puedes hacer con un programa.\n\n**Imagínalo:** una licencia es el reglamento de un juego prestado.\n\n**Privativa:** no puedes ver ni cambiar el código.\n\n**Libre:** puedes usar, estudiar, copiar y mejorar. Linux y LibreOffice.\n\nLibre no siempre significa gratis.\n\nAntes de instalar, revisa si tu equipo cumple los requisitos.\n\n**Antes de aceptar:** revisa qué usos permite, su costo y qué datos pide.\n\n**Libre** no significa gratis: habla de tu libertad de usar el programa.\n\n**Requerimientos:** si una app (aplicación) pide más memoria de la que tienes, falla el hardware.\n\n**Para tu escuela:** busca un programa libre para hacer presentaciones.",
 "truco": "Privativo: solo usar. Libre: usar, estudiar, copiar y mejorar.",
 "practica": {
 "ejercicio": "¿Puede alguien vender un programa de licencia libre?",
@@ -386,7 +386,7 @@
 "colaboración"
 ],
 "contenido": {
-"idea": "Internet es como un sistema de carreteras entre pueblos: las redes son los caminos, las plataformas son las plazas donde nos encontramos y la IA es un ayudante muy rápido que hay que saber dirigir.",
+"idea": "Internet es como un sistema de carreteras entre pueblos: las redes son los caminos, las plataformas son las plazas donde nos encontramos y la IA (inteligencia artificial: programas que aprenden de muchos ejemplos) es un ayudante muy rápido que hay que saber dirigir.",
 "pizarron": "**Qué es:** una red une aparatos para pasar datos. Las plataformas sirven para comunicarse. La IA genera textos o imágenes.\n\n**Imagínalo:** carreteras que unen aparatos para pasar datos.\n\n**Reglas para usarlas:**\n\n1. Compara con varias fuentes.\n2. Cita a los autores y avisa si usaste IA.\n3. No des datos personales.\n4. Respeta a los demás.\n\nLa IA puede equivocarse.\n\n**Para tu escuela:** pide un dato a una IA y compruébalo en otra fuente.",
 "truco": "Verifica, cita y cuida los datos.",
 "practica": {

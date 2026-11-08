@@ -21,14 +21,14 @@
 "porque": "El 7 no tiene punto decimal, así que es un entero."
 },
 {
-"pregunta": "Si `edad = 15` y después escribes `edad = 16`, ¿cuánto vale edad?",
+"pregunta": "La caja *edad* guarda 15 (`edad = 15`). Después le guardas 16 (`edad = 16`). ¿Qué tiene ahora la caja?",
 "opciones": [
 "15",
-"16",
-"31"
+"31",
+"16"
 ],
-"correcta": 1,
-"porque": "Una variable puede cambiar, y guarda el último valor."
+"correcta": 2,
+"porque": "Una variable guarda solo lo último que le pusiste."
 },
 {
 "pregunta": "¿Qué es una variable?",
@@ -219,34 +219,34 @@
 "porque": "Toda fórmula inicia con = y el rango va entre paréntesis."
 },
 {
-"pregunta": "¿Qué da la fórmula `=MAX(A1:A10)`?",
+"pregunta": "La fórmula `=MAX(A1:A10)` revisa las celdas de A1 hasta A10. ¿Qué te da?",
 "opciones": [
-"El promedio",
-"El valor más chico",
-"El valor más grande"
-],
-"correcta": 2,
-"porque": "MAX busca el mayor valor del rango."
-},
-{
-"pregunta": "Si A1 vale 4 y B1 vale 9, ¿qué da `=A1+B1`?",
-"opciones": [
-"13",
-"5",
-"49"
-],
-"correcta": 0,
-"porque": "La fórmula suma los dos valores: 4 más 9 es 13."
-},
-{
-"pregunta": "Si A1 vale 5, ¿qué da `=SI(A1>=6,\"Aprobado\",\"Reprobado\")`?",
-"opciones": [
-"5",
-"Reprobado",
-"Aprobado"
+"El promedio de todos",
+"El número más grande",
+"El número más chico"
 ],
 "correcta": 1,
-"porque": "Cinco no es mayor o igual que 6, así que da Reprobado."
+"porque": "MAX busca el número mayor."
+},
+{
+"pregunta": "La fórmula `=A1+B1` suma lo que hay en A1 y en B1. Si A1 vale 4 y B1 vale 9, ¿qué da?",
+"opciones": [
+"13",
+"49",
+"5"
+],
+"correcta": 0,
+"porque": "Suma los dos valores: 4 más 9 es 13."
+},
+{
+"pregunta": "La fórmula `=SI(A1>=6,\"Aprobado\",\"Reprobado\")` dice: si A1 es 6 o más, escribe Aprobado; si no, Reprobado. Si A1 vale 5, ¿qué escribe?",
+"opciones": [
+"5",
+"Aprobado",
+"Reprobado"
+],
+"correcta": 2,
+"porque": "5 es menor que 6, así que escribe Reprobado."
 },
 {
 "pregunta": "En una hoja de cálculo, ¿cómo se llama A1?",

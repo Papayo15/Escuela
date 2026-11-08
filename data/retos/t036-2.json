@@ -115,24 +115,24 @@
 "porque": "Un ciclo repite instrucciones sin escribirlas muchas veces."
 },
 {
-"pregunta": "En `for i in range(4): print(\"Hola\")`, ¿cuántas veces sale Hola?",
+"pregunta": "`for i in range(4): print(\"Hola\")` quiere decir: repite 4 veces, escribe Hola. ¿Cuántas veces sale Hola?",
 "opciones": [
 "4 veces",
-"5 veces",
-"3 veces"
+"3 veces",
+"5 veces"
 ],
 "correcta": 0,
-"porque": "range(4) repite el ciclo cuatro veces."
+"porque": "`range(4)` quiere decir 4 veces."
 },
 {
-"pregunta": "Si n empieza en 0 y el ciclo `while n < 3` suma 1 a n, ¿cuánto vale n al terminar?",
+"pregunta": "La caja *n* empieza en 0. Mientras *n* sea menor que 3, súmale 1 (`while n < 3`). ¿Cuánto vale *n* al final?",
 "opciones": [
-"2",
+"3",
 "0",
-"3"
+"2"
 ],
-"correcta": 2,
-"porque": "Cuando n llega a 3, ya no se cumple n < 3 y el ciclo para."
+"correcta": 0,
+"porque": "Al llegar a 3 ya no es menor que 3, y se detiene."
 },
 {
 "pregunta": "Repites mientras no termine una tarea, sin saber cuántas veces. ¿Qué ciclo usas?",
@@ -157,14 +157,14 @@
 ],
 "condicionales-prepa": [
 {
-"pregunta": "Con `edad = 20`, `if edad >= 18` imprime Adulto y `else` imprime Menor. ¿Qué sale?",
+"pregunta": "Si la edad es 18 o más escribe Adulto; si no, escribe Menor (`if` es si, `else` es si no). Con edad 20, ¿qué sale?",
 "opciones": [
-"Menor",
 "Nada",
-"Adulto"
+"Adulto",
+"Menor"
 ],
-"correcta": 2,
-"porque": "20 es mayor o igual que 18, así que se cumple el if."
+"correcta": 1,
+"porque": "20 es mayor que 18, así que se cumple el *si*."
 },
 {
 "pregunta": "¿Qué indica la sangría en un condicional?",
@@ -197,14 +197,14 @@
 "porque": "Un condicional elige qué hacer según algo verdadero o falso."
 },
 {
-"pregunta": "Con `x = 5`, si `x < 3` imprime A y si no imprime B. ¿Qué sale?",
+"pregunta": "Si *x* es menor que 3 escribe A; si no, escribe B. Con *x* igual a 5, ¿qué sale?",
 "opciones": [
-"A",
 "A y B",
+"A",
 "B"
 ],
 "correcta": 2,
-"porque": "5 no es menor que 3, así que se ejecuta el else."
+"porque": "5 no es menor que 3, así que se hace el *si no*."
 }
 ],
 "contrasenas-seguras-prepa": [
@@ -365,23 +365,23 @@
 ],
 "funciones-en-programacion-prepa": [
 {
-"pregunta": "Si `saludo()` hace `print(\"Hola\")`, ¿qué pasa al llamarla?",
+"pregunta": "La función *saludo* tiene una orden: escribe Hola (`print(\"Hola\")`). ¿Qué pasa cuando la usas?",
 "opciones": [
-"No hace nada",
-"Muestra Hola",
-"Suma dos números"
+"Suma dos números",
+"Escribe Hola en la pantalla",
+"No hace nada"
 ],
 "correcta": 1,
-"porque": "Llamar a la función ejecuta su código, que imprime Hola."
+"porque": "Usar una función hace lo que tiene adentro."
 },
 {
-"pregunta": "Si `doble(n)` regresa `n * 2`, ¿qué devuelve `doble(6)`?",
+"pregunta": "La función *doble* recibe un número y regresa ese número por 2. ¿Qué regresa si le das 6?",
 "opciones": [
+"8",
 "12",
-"36",
-"8"
+"36"
 ],
-"correcta": 0,
+"correcta": 1,
 "porque": "Seis por dos es doce."
 },
 {
